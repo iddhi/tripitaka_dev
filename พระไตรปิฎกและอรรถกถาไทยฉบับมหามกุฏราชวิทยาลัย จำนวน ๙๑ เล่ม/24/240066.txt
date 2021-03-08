@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>	                            <h1>๑๐.  อรัญญสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>         [๒๑]   เทวดานั้น   ครั้นยืนอยู่   ณ  ที่ควรส่วนข้างหนึ่งแล้วแล    ได้
+<span class="LineNumber"> 003 </span>ทูลถามพระผู้มีพระภาคเจ้าด้วยคาถาว่า
+<span class="LineNumber"> 004 </span>                             <B>วรรณะของภิกษุทั้งหลายผู้อยู่ในป่า
+<span class="LineNumber"> 005 </span>                   ฉันภัตอยู่หนเดียว  เป็นสัตบุรุษผู้ประพฤติ
+<span class="LineNumber"> 006 </span>                   ธรรมอันประเสริฐ     ย่อมผ่องใสด้วยเหตุ
+<span class="LineNumber"> 007 </span>                   อะไร.</B>
+<span class="LineNumber"> 008 </span>         [๒๒]  พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 009 </span>                             <B>ภิกษุทั้งหลายไม่เศร้าโศกถึงปัจจัยที่
+<span class="LineNumber"> 010 </span>                   ล่วงแล้ว   ไม่ปรารถนาปัจจัยที่ยังมาไม่ถึง
+<span class="LineNumber"> 011 </span>                   เลี้ยงตนด้วยปัจจัยที่เกิดขึ้นเฉพาะหน้า
+<span class="LineNumber"> 012 </span>                   วรรณะ(ของภิกษุทั้งหลายนั้น)  ย่อมผ่องใส
+<span class="LineNumber"> 013 </span>                   ด้วยเหตุนั้น        เพราะความปรารถนาถึง
+<span class="LineNumber"> 014 </span>                   ปัจจัยที่ยังไม่มาถึง และความโศกถึงปัจจัย
+<span class="LineNumber"> 015 </span>                   ที่ล่วงแล้ว      พวกพาลภิกษุจึงซูบซีด
+<span class="LineNumber"> 016 </span>                   เหมือนต้นอ้อสดที่ถูกถอนเสียแล้ว  ฉะนั้น</B>
+<span class="LineNumber"> 017 </span>                                <I>จบ  นฬวรรค  ที่  ๑</I>

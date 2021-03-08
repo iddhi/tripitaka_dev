@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>               <H1>บุคคลบางคนไม่แทงตลอดสัจจะด้วยตนเองในธรรมทั้ง   
+<span class="LineNumber"> 002 </span>หลายที่มิได้สดับแล้วในก่อน    ทั้งไม่ทำที่สุดทุกข์ในทิฏฐธรรมเทียว
+<span class="LineNumber"> 003 </span>เป็นโสดาบัน    และสกทาคามี  มาแล้วสู่ความเป็นอย่างนี้.</H1>
+<span class="LineNumber"> 004 </span>                                         <I>จบฉักกมาติกา</I>
+
+<span class="LineNumber"> 005 </span>                                          <H1>สัตตกมาติกา</H1>
+<span class="LineNumber"> 006 </span>         [๑๓]  <H1>บุคคล  ๗  จำพวก</H1>
+<span class="LineNumber"> 007 </span>               <B>บุคคลเปรียบด้วยคนจมน้ำ  ๗  เหล่าคือ</B>
+<span class="LineNumber"> 008 </span>         <H1>๑.  บุคคลจมแล้วคราวเดียว  ย่อมจมอยู่นั่นเอง  ๑</H1>
+<span class="LineNumber"> 009 </span>               <H1>บุคคลโผล่ขึ้นมาแล้ว   จมลงอีก  ๑</H1>   
+<span class="LineNumber"> 010 </span>               <H1>บุคคลโผล่ขึ้นแล้ว   หยุดอยู่   ๑</H1>
+<span class="LineNumber"> 011 </span>               <H1>บุคคลโผล่ขึ้นแล้ว   เหลียวมองดู  ๑</H1>
+<span class="LineNumber"> 012 </span>               <H1>บุคคลโผล่ขึ้นแล้ว  ว่ายข้ามไป  ๑</H1>
+<span class="LineNumber"> 013 </span>               <H1>บุคคลโผล่ขึ้น   และว่ายไปถึงที่ที่ตื้นพอหยั่งถึงแล้ว  ๑</H1>
+<span class="LineNumber"> 014 </span>               <H1>บุคคลโผล่ขึ้นและข้ามไปถึงฝั่งแล้ว เป็นพราหมณ์ยืนอยู่
+<span class="LineNumber"> 015 </span>               บนบก ๑</H1>
+<span class="LineNumber"> 016 </span>         <H1>๒.  บุคคลผู้เป็นอุภโตภาควิมุต  ๑</H1>
+<span class="LineNumber"> 017 </span>               <H1>บุคคลผู้เป็นปัญญาวิมุติ  ๑</H1>
+<span class="LineNumber"> 018 </span>               <H1>บุคคลผู้เป็นกายสักขี  ๑</H1>

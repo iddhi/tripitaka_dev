@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                     			 <H1>ปัจจนียานุโลมนัย</H1>
+<span class="LineNumber"> 002 </span>				<H1>การนับจำนวนวาระในปัจจนียานุโลม</H1> 
+<span class="LineNumber"> 003 </span>		[๓๙๗]  <B>เพราะนเหตุปัจจัย</B>    ในอารัมมณปัจจัย มี ๑  วาระ... ฯลฯ
+<span class="LineNumber"> 004 </span>                    สหชาตวาระก็ดี    ปัจจยวาระก็ดี    นิสสยวาระก็ดี     สังสัฏฐวาระก็ดี
+<span class="LineNumber"> 005 </span>สัมปยุตตวาระก็ดี   พึงให้พิสดารเหมือนปฏิจจวาระ.
+
+<span class="LineNumber"> 006 </span>			<H1>เนวทัสสเนนนภาวนายปหาตัพพบทปัญหาวาระ</H1>
+<span class="LineNumber"> 007 </span>						<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 008 </span>					      <H1>๑. เหตุปัจจัย</H1>	
+<span class="LineNumber"> 009 </span>		[๓๙๘]  ๑.  เนวทัสสเนนนภาวนายปหาตัพพธรรมที่เป็นเหตุ
+<span class="LineNumber"> 010 </span>เป็นปัจจัยแก่เนวทัสสเนนนภาวนายปหาตัพพธรรมที่เป็นเหตุ    ด้วย
+<span class="LineNumber"> 011 </span>อำนาจของเหตุปัจจัย   มี  ๓  วาระ.
+<span class="LineNumber"> 012 </span>                      		     <H1>๒.  อารัมมณปัจจัย</H1>               
+<span class="LineNumber"> 013 </span>		[๓๙๙]  ๑.  เนวทัสสเนนนภาวนายปหาตัพพธรรมที่เป็นเหตุ
+<span class="LineNumber"> 014 </span>เป็นปัจจัยแก่เนวทัสสเนนนภาวนายปหาตัพพธรรมที่เป็นเหตุ    ด้วย
+<span class="LineNumber"> 015 </span>อำนาจของอารัมมณปัจจัย   มี ๙  วาระ.
+<span class="LineNumber"> 016 </span>                		    <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 017 </span>		[๔๐๐]  ในเหตุปัจจัย มี ๓ วาระ  ในอารัมมณปัจจัย มี ๙ วาระ  ใน
+<span class="LineNumber"> 018 </span>อธิปติปัจจัย มี ๙ วาระ   ในอนันตรปัจจัย มี ๙ วาระ    ในสมนันตรปัจจัย มี

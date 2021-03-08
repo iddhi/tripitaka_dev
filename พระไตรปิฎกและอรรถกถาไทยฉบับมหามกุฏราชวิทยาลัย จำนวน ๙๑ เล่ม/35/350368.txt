@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                         <h1>จตุตถปัณณาสก์   
+
+<span class="LineNumber"> 002 </span>                  อินทริยวรรคที่  ๑
+
+<span class="LineNumber"> 003 </span>		 ๑. อินทริยสูตร</h1>
+<span class="LineNumber"> 004 </span>	             <h2>ว่าด้วยอินทรีย์  ๔  ประการ</h2>
+<span class="LineNumber"> 005 </span>            [๑๕๑]    ดูก่อนภิกษุทั้งหลาย  อินทรีย์  ๔ ประการนี้  ฯลฯ  คือ
+<span class="LineNumber"> 006 </span>  	<B>สทฺธินฺทฺริยํ</B>            	อินทรีย์คือศรัทธา
+<span class="LineNumber"> 007 </span>     	<B>วิริยินฺทฺริยํ</B>            	อินทรีย์คือวิริยะ
+<span class="LineNumber"> 008 </span>      	<B>สมาธินฺทฺริยํ</B>          	อินทรีย์คือสมาธิ
+<span class="LineNumber"> 009 </span>   	<B>ปญฺินฺทฺริยํ</B>          	อินทรีย์คือปัญญา
+<span class="LineNumber"> 010 </span>            ภิกษุทั้งหลาย  นี้แล  อินทรีย์  ๔.
+<span class="LineNumber"> 011 </span>                                               <I>จบอินทริยสูตรที่  ๑</I>
+<span class="LineNumber"> 012 </span>                                     <H1>จตุตถปัณณาสก์
+<span class="LineNumber"> 013 </span>	   อินทริยวรรควรรณนาที่  ๑
+
+<span class="LineNumber"> 014 </span>	     อรรถกถาอินทริยสูตร</H1>
+<span class="LineNumber"> 015 </span>            พึงทราบวินิจฉัยในอินทริยสูตรที่  ๑  แห่งปัณณาสก์ที่  ๔ ดังต่อไปนี้ :-
+<span class="LineNumber"> 016 </span>            <B>ชื่อว่า  สัทธินทรีย์</B>  เพราะทำความเป็นใหญ่ในสัทธาธุระ.  แม้
+<span class="LineNumber"> 017 </span>ในบทที่เหลือก็นัยนี้แล.
+<span class="LineNumber"> 018 </span>	                      <I>จบอรรถกถาอินทริยสูตรที่  ๑</I>

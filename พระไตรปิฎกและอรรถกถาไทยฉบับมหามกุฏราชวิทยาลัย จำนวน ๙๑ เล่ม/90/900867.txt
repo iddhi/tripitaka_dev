@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                          	    	<H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 002 </span>		[๔๑๐]  ในนเหตุปัจจัย  มี ๓ วาระ    ในนอธิปติปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 003 </span>ในนปุเรชาตปัจจัย  มี ๒ วาระ ในนปัจฉาชาตปัจจัย มี ๓ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 004 </span>ปัจจัย  มี ๓ วาระ     ในนกัมมปัจจัย มี ๓ วาระ   ในนวิปากปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 005 </span>ในนฌานปัจจัย มี ๑ วาระ  ในนมัคคปัจจัย มี ๓ วาระ   ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 006 </span>มี ๒ วาระ.
+<span class="LineNumber"> 007 </span>            สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 008 </span>					<H1>นเหตุบทปัญหาวาระ</H1>
+<span class="LineNumber"> 009 </span>					     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>				     <H2>๑. อารัมมณปัจจัย</H2>	
+<span class="LineNumber"> 011 </span>		[๔๑๑]  ๑.  นเหตุธรรมที่เป็นอตีตารัมมณธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 012 </span>นเหตุธรรมที่เป็นอตีตารัมมณธรรม    ด้วยอำนาจของอารัมมณปัจจัย 
+<span class="LineNumber"> 013 </span>มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>                        ๔.  นเหตุธรรมที่เป็นอนาคตารัมมณธรรม      เป็นปัจจัย
+<span class="LineNumber"> 015 </span>แก่นเหตุธรรมที่เป็นอนาคตารัมมธรรม   ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 016 </span>ปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>                        ๗.  นเหตุธรรมที่เป็นปัจจุปปันนารัมมธรรม    เป็น
+<span class="LineNumber"> 018 </span>ปัจจัยแก่นเหตุธรรมที่เป็นปัจจุปปันนารัมมณธรรม   ด้วยอำนาจของ
+<span class="LineNumber"> 019 </span>อารัมมณปัจจัย  มี ๓ วาระ.

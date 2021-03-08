@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  744
+	
+<span class="LineNumber"> 002 </span>		อวิทูเร หิมวนฺตสฺส	มหาชาตสฺสโร อหุ  
+<span class="LineNumber"> 003 </span>		ตตฺถ เม ภวนํ อาสิ	ปุฺกมฺเมน สํยุตํ ฯ  
+<span class="LineNumber"> 004 </span>		ภวนา อภินิกฺขมฺม		อทฺทสํ โลกนายกํ  
+<span class="LineNumber"> 005 </span>		อินฺทีวรํว ชลิตํ (๑)	อาทิตฺตํว หุตาสนํ ฯ  
+<span class="LineNumber"> 006 </span>		วิชนํ อทฺทสํ (๒) ปุปฺผํ	ปูชยิสฺสนฺติ นายกํ  
+<span class="LineNumber"> 007 </span>		สกํ จิตฺตํ ปสาเทตฺวา	อวนฺทึ สตฺถุโน อหํ ฯ  
+<span class="LineNumber"> 008 </span>		มม สีเส มณึ คยฺห (๓)	ปูชยึ โลกนายกํ  
+<span class="LineNumber"> 009 </span>		อิมาย มณิปูชาย		วิปาโก โหตุ ภทฺทโก ฯ  
+<span class="LineNumber"> 010 </span>		ปทุมุตฺตโร โลกวิทู	อาหุตีนํ ปฏิคฺคโห  
+<span class="LineNumber"> 011 </span>		อนฺตลิกฺเข €ิโต สตฺถา	อิมํ คาถํ อภาสถ ฯ  
+<span class="LineNumber"> 012 </span>		โส เต อิชฺฌตุ สงฺกปฺโป	ลภสฺสุ (๔) วิปุลํ สุขํ  
+<span class="LineNumber"> 013 </span>		อิมาย มณิปูชาย		อนุโภหิ มหายสํ ฯ
+<span class="LineNumber"> 014 </span>		อิทํ วตฺวาน ภควา(๕)	ชลชุตฺตมนามโก  
+<span class="LineNumber"> 015 </span>		อคมาสิ พุทฺธเสฏฺโ€	ยตฺถ จิตฺตํ ปณีหิตํ ฯ  
+<span class="LineNumber"> 016 </span>		สฏฺ€ิกปฺปานิ เทวินฺโท	เทวรชฺชมการยึ  
+<span class="LineNumber"> 017 </span>		อเนกสตกฺขตฺตุฺจ	จกฺกวตฺตี อโหสหํ ฯ  
+<span class="LineNumber"> 018 </span>		ปุพฺพกมฺมํ สรนฺตสฺส	เทวภูตสฺส เม สโต  
+<span class="LineNumber"> 019 </span>		มณิ นิพฺพตฺตเต มยฺหํ	อาโลกกรโณ มมํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. อินฺทวชิรชลิตํ ฯ ๒. สฺยา. วิชนํ อทฺทสํ ฯ 
+<span class="LineNumber"> 021 </span># สี. อทฺทสํ ฯ  ม. วิชินํ นทฺทสํ ฯ  ๓. สี. มม สีสํ มณึ ปคฺคยหํ ฯ
+<span class="LineNumber"> 022 </span># ๔. สฺยา. ลภตุ ฯ  ๕. สฺยา. สมฺพุทฺโธ ฯ

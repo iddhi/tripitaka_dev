@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                            <H2>รวมกถาที่มีในวรรคนี้คือ</H2>  
+
+<span class="LineNumber"> 002 </span>         ๑.  มนุสโลกกถา    ๒.  ธัมมเทสนากถา   ๓.  กรุณากถา  ๔.  คันธชาติกถา
+<span class="LineNumber"> 003 </span>๕.  เอกมัคคกถา    ๖.  ฌานสังกันติกถา   ๗.  ฌานันตริกกถา   ๘.  สมาปันโน
+<span class="LineNumber"> 004 </span>สัททัง   สุณาตีติกถา  ๙.  จักขุนารูปัง  ปัสสตีติกถา.
+<span class="LineNumber"> 005 </span>                                      <I>วรรคที่  ๑๘  จบ</I>

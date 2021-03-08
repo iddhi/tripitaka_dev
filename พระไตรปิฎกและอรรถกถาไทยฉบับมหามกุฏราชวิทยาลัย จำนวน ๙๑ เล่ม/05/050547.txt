@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>                     <h1>อุยโยชนคาถาของท่านผู้รจนา</h1>
+<span class="LineNumber"> 002 </span>		     <B>วรรณนาวิภังค์แห่งอุภโตปาฏิโมกข์
+<span class="LineNumber"> 003 </span>  	  ที่พระชินเจ้าตรัสไว้นี้   จบลงแล้ว   โดยหา
+<span class="LineNumber"> 004 </span>          อันตรายมิได้  ฉันใด  ขอสรรพสัตว์   แม้ทุก
+<span class="LineNumber"> 005 </span>	  หมู่เหล่า     จงได้บรรลุมรรคอันละเสียซึ่ง
+<span class="LineNumber"> 006 </span>	  อาสวะทั้งปวง  แล้วประสบพบเห็นแต่ความ
+<span class="LineNumber"> 007 </span> 	  ดับสนิทโดยหาอันตรายมิได้  ฉันนั้น  เทอญ. </B>

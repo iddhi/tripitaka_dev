@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                               <h1>๖.  นิททาตันทิสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                  <H1>ว่าด้วยมรรคปรากฏและไม่ปรากฏ</H1>
+
+<span class="LineNumber"> 003 </span>         [๓๔]   เทวดากล่าวว่า 
+<span class="LineNumber"> 004 </span>                             <B>อริยมรรคไม่ปรากฏแก่สัตว์ทั้งหลาย
+<span class="LineNumber"> 005 </span>                   ในโลกนี้  เพราะความหลับ   เกียจคร้าน
+<span class="LineNumber"> 006 </span>                   ความบิดกาย    ความไม่ยินดี     และความ
+<span class="LineNumber"> 007 </span>                   มึนเมาเพราะภัต.</B>
+<span class="LineNumber"> 008 </span>         [๓๕]  พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>เพราะขับไล่ความหลับ  ความเกียจ
+<span class="LineNumber"> 010 </span>                   คร้าน  ความบิดกาย  ความไม่ยินดี  และ
+<span class="LineNumber"> 011 </span>                   ความมึนเมาเพราะภัต     ด้วยความเพียร
+<span class="LineNumber"> 012 </span>                   อริยมรรคย่อมบริสุทธิ์ได้.</B>

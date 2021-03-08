@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  ๔  สีลกฺขนฺธวคฺควณฺณนา  หน้า  ๘๘  
+
+<span class="LineNumber"> 002 </span>				ตเถว  สีลํ  อนุรกฺขมานกา (๑)  
+<span class="LineNumber"> 003 </span>				สุเปสลา  โหถ  สทา  สคารวาติ (๒)  จ  ฯ  
+<span class="LineNumber"> 004 </span>				น  ปุปฺผคนฺโธ  ปฏิวาตเมติ    
+<span class="LineNumber"> 005 </span>				น  จนฺทนํ  ตครมลฺลิกา  วา    
+<span class="LineNumber"> 006 </span>				สตฺจ  คนฺโธ  ปฏิวาตเมติ    
+<span class="LineNumber"> 007 </span>				สพฺพา  ทิสา  สปฺปุริโส  ปวายติ (๓)  ฯ  
+<span class="LineNumber"> 008 </span>		จนฺทนํ  ตครํ  วาปิ  		อุปฺปลํ  อถ  วสฺสิกี  
+<span class="LineNumber"> 009 </span>		เอเตสํ  คนฺธชาตานํ  		สีลคนฺโธ  อนุตฺตโร  ฯ  
+<span class="LineNumber"> 010 </span>		อปฺปมตฺโต  อยํ  คนฺโธ  	ยฺวายํ  ตครจนฺทนี (๔)  
+<span class="LineNumber"> 011 </span>		โย  จ  สีลวตํ  คนฺโธ  	วาติ  เทเวสุ  อุตฺตโม  ฯ  
+<span class="LineNumber"> 012 </span>		เตสํ  สมฺปนฺนสีลานํ  		อปฺปมาทวิหารินํ  
+<span class="LineNumber"> 013 </span>		สมฺมทฺา  วิมุตฺตานํ  	มาโร  มคฺคํ  น  วินฺทตีติ (๕)  จ  ฯ  
+<span class="LineNumber"> 014 </span>		สีเล  ปติฏฺ€าย  นโร  สปฺโ  จิตฺตํ  ปฺฺจ  ภาวยํ   
+<span class="LineNumber"> 015 </span>		อาตาปี  นิปโก  ภิกฺขุ  	โส  อิมํ  วิชฏเย  ชฏนฺติ (๖)  จ  ฯ  
+<span class="LineNumber"> 016 </span>	เสยฺยถาปิ  ภิกฺขเว  เย  เกจิ  เม  พีชคามภูตคามา  วุฑฺฒึ  
+<span class="LineNumber"> 017 </span>วิรูฬฺหึ  เวปุลฺลํ  อาปชฺชนฺติ    สพฺเพ  เต  ป€วึ  นิสฺสาย  ป€วิยํ  
+<span class="LineNumber"> 018 </span>ปติฏฺ€าย  เอวํ (๗)  วุฑฺฒึ  วิรูฬฺหึ  เวปุลฺลํ  อาปชฺชนฺติ    เอวเมว  
+<span class="LineNumber"> 019 </span># ๑. ม. อนุรกฺขมานา ฯ  ๒. วิสุทฺธิมคฺค. ๑ ฯ  
+<span class="LineNumber"> 020 </span># ๓. องฺ. ติก. ๒๐/๕๑๙/๒๙๑ ฯ  ๔. ม. ตครจนฺทนํ ฯ  ๕. ขุ. ธ.  
+<span class="LineNumber"> 021 </span># ๒๕/๑๔/๒๒ ฯ  ๖. สํ. ส. ๑๕/๖๑/๒๐ ฯ  ๗. ม. เอวเมเต  
+<span class="LineNumber"> 022 </span># พีชคามภุตคามา ฯ  

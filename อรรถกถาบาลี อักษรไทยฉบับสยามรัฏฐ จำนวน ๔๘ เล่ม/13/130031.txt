@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๓  รูปาทิวคฺควณฺณนา หน้า  ๓๑
+
+<span class="LineNumber"> 002 </span>		อุเทตยฺจกฺขุมา เอกราชา
+<span class="LineNumber"> 003 </span>		หริสฺสวณฺโณ ป€วิปฺปภาโส
+<span class="LineNumber"> 004 </span>		ตํ ตํ นมสฺสามิ หริสฺสวณฺณํ ป€วิปฺปภาสํ
+<span class="LineNumber"> 005 </span>		ตยชฺช(๑) คุตฺตา วิหเรมุ ทิวสํ ฯ
+<span class="LineNumber"> 006 </span>		เย พฺราหฺมณา เวทคุ(๒) สพฺพธมฺเม
+<span class="LineNumber"> 007 </span>		เต เม นโม เต จ มํ ปาลยนฺตุ
+<span class="LineNumber"> 008 </span>		นมตฺถุ พุทฺธานํ นมตฺถุ โพธิยา
+<span class="LineNumber"> 009 </span>		นโม วิมุตฺตานํ นโม วิมุตฺติยา
+<span class="LineNumber"> 010 </span>		อิมํ โส ปริตฺตํ กตฺวา โมโร จรติ เอสนาติ ฯ (๓)
+<span class="LineNumber"> 011 </span>	โส  ทิวสํ  โคจรํ  คเหตฺวา  สายณฺหสมเย  วสนฏฺ€านํ  ปวิสนฺโต  อฏฺ€งฺคตํ
+<span class="LineNumber"> 012 </span>สุริยมณฺฑลํ โอโลเกตฺวาปิ อิมํ ถุตึ (๔) วทติ
+<span class="LineNumber"> 013 </span>		อเปตยฺจกฺขุมา เอกราชา
+<span class="LineNumber"> 014 </span>		หริสฺสวณฺโณ ป€วิปฺปภาโส
+<span class="LineNumber"> 015 </span>		ตํ ตํ นมสฺสามิ หริสฺสวณฺณํ ป€วิปฺปภาสํ
+<span class="LineNumber"> 016 </span>		ตยชฺช คุตฺตา วิหเรมุ รตฺตึ ฯ
+<span class="LineNumber"> 017 </span>		เย พฺราหฺมณา เวทคู สพฺพธมฺเม
+<span class="LineNumber"> 018 </span>		เต เม นโม เต จ มํ ปาลยนฺตุ
+<span class="LineNumber"> 019 </span>		นมตฺถุ พุทฺธานํ นมตฺถุ โพธิยา
+<span class="LineNumber"> 020 </span>		นโม วิมุตฺตานํ นโม วิมุตฺติยา
+<span class="LineNumber"> 021 </span># ๑. ม. ตยาชุช  ฯ  ๒. ม. เวทคู  ฯ  ๓. ขุ. ชา. ๒๗/๑๖๗/๕๓  ฯ  ๔. ม. คาถํ  ฯ

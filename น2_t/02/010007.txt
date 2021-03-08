@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>๙.  อนุวาต.
+<span class="LineNumber"> 002 </span>๑๐.  รังดุม.
+<span class="LineNumber"> 003 </span>๑๑.  ลูกดุม.  
+<span class="LineNumber"> 004 </span>	[เอารังดุมและลูกดุมรวมด้วย  เพื่อให้ครบถ้วนตามแบบ]
+<span class="LineNumber"> 005 </span>        <B>จีวรนั้นให้ย้อมด้วยของ ๖  อย่าง  ๆ  ใดอย่างหนึ่ง คือ</B>
+<span class="LineNumber"> 006 </span>๑.  รากหรือเง่า<SUP>๑</SUP>                            [มูล].
+<span class="LineNumber"> 007 </span>๒.  ต้นไม้<SUP>๒</SUP>                                   [ขนฺธ].
+<span class="LineNumber"> 008 </span>๓.  เปลือกไม้<SUP>๓</SUP>                              [ตจ].
+<span class="LineNumber"> 009 </span>๔.  ใบไม้<SUB>๔</SUB>	                            [ปตฺต].
+<span class="LineNumber"> 010 </span>๕.  ดอกไม้<SUP>๕</SUP>                                 [ปุปฺผ].
+<span class="LineNumber"> 011 </span>๖.  ผลไม้                                      [ผล].
+<span class="LineNumber"> 012 </span>                         <B>สีที่ห้ามใช้ย้อมจีวรมี  ๗  คือ</B>
+<span class="LineNumber"> 013 </span>๑.  สีคราม	                             [นีลก].
+<span class="LineNumber"> 014 </span>๒.  สีเหลือง                                  [ปีตก].
+<span class="LineNumber"> 015 </span>๓.  สีแดง                                      [โลหิต].
+<span class="LineNumber"> 016 </span>๔.  สีบานเย็น (แดงฝาง)               [มญฺเชฏฺ€ก].
+<span class="LineNumber"> 017 </span>๕.  สีแสด                                     [มหารงฺครตฺต].
+<span class="LineNumber"> 018 </span>๖.  สีชมพู                                     [มหานามรตฺต].
+<span class="LineNumber"> 019 </span>๗.  สีดำ                                        [กณฺห].
+
+<span class='footnote'>๑.  เว้นขมิ้น  ๒.  เว้นฝาง,  แกแล,  มะหาด.   ๓.  เว้นเปลือกโลท,  เปลือกคล้า.</span>
+<span class='footnote'>๔.  เว้นมะเกลือ,  คราม.  ๕.  เว้นทองกวาว,  ดอกคำ.</span>

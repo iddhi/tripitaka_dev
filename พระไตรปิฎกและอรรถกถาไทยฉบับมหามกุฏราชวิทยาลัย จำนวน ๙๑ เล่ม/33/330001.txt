@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                             <H1>พระสุตตันตปิฎก</H1> 
+
+<span class="LineNumber"> 002 </span>                        <H1>อังคุตตรนิกาย  เอกนิบาต - ทุกนิบาต</H1>
+
+<span class="LineNumber"> 003 </span>                                          <H1>เล่มที่  ๑   ภาคที่  ๒</H1>
+
+<span class="LineNumber"> 004 </span><H3>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H3>
+
+<span class="LineNumber"> 005 </span>                                              <H1>เอตทัคคบาลี</H1>
+
+<span class="LineNumber"> 006 </span>                                                  <H1>วรรคที่ ๕</H1>
+
+<span class="LineNumber"> 007 </span>                               <H1>ว่าด้วยภิกษุณีผู้มีตำแหน่งเลิศ  ๑๓  ท่าน</H1>
+
+<span class="LineNumber"> 008 </span>       	 [๑๕๐]  ดูก่อนภิกษุทั้งหลาย  พระมหาปชาบดีโคตมีภิกษุณี  เลิศ
+<span class="LineNumber"> 009 </span>กว่าพวกภิกษุณีสาวิกาของเราผู้รู้ราตรีนาน.
+<span class="LineNumber"> 010 </span>         <B>พระเขมาภิกษุณี</B>   เลิศกว่าพวกภิกษุณีสาวิกาของเราผู้มีปัญญามาก.
+<span class="LineNumber"> 011 </span>         <B>พระอุบลวรรณาภิกษุณี</B>   เลิศกว่าพวกภิกษุณีสาววิกาของเราผู้มีฤทธิ์.
+<span class="LineNumber"> 012 </span>         <B>พระปฏาจาราภิกษุณี</B>    เลิศกว่าพวกภิกษุณีสาวิกาของเราผู้ทรงวินัย.
+<span class="LineNumber"> 013 </span>         <B>พระธรรมทินนาภิกษุณี</B>      เลิศกว่าพวกภิกษุณีสาวิกาของเราผู้เป็น
+<span class="LineNumber"> 014 </span>ธรรมกถึก.
+<span class="LineNumber"> 015 </span>         <B>พระนันทาภิกษุณี</B>  เลิศกว่าพวกภิกษุณีสาวิกาของเราผู้ยินดีในฌาน.
+<span class="LineNumber"> 016 </span>         <B>พระโสณาภิกษุณี</B>  เลิศกว่าพวกภิกษุณีสาวิกาของเราผู้ปรารภความ
+<span class="LineNumber"> 017 </span>เพียร.

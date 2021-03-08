@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>					    <H1>กุสลติกวิปากติกะ</H1>
+<span class="LineNumber"> 002 </span>		               <H2>(๑. กุสลติกะ  ๒. วิปากติกะ)</H2>	
+<span class="LineNumber"> 003 </span>			 	        <H1>วิปากบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				  	 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๖]  ๑.  วิปากธรรมที่เป็นอัพยากตะ  อาศัยวิปากธรรมที่เป็น 
+<span class="LineNumber"> 007 </span>อัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>		[๑๗]  ในเหตุปัจจัย  มี ๑  วาระ  ในอารัมมณปัจจัย มี ๑ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>ฯลฯ  ในอวิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 011 </span>            สหชาตวาระก็ดี   ฯลฯ  ปัญหาวาระก็ดี  ทุกปัจจัย  มี  ๑  วาระ
+
+<span class="LineNumber"> 012 </span>                      	<H1>วิปากธัมมบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 013 </span>                          	  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>			         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๑๘]  ๑.  วิปากธัมมธรรมที่เป็นกุศล  อาศัยวิปากธัมมธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นกุศล   เกิดขึ้น  เพราะเหตุปัจจัย    
+<span class="LineNumber"> 017 </span>                      ๒.  วิปากธัมมธรรมที่เป็นอกุศล  อาศัยวิปากธัมมธรรม
+<span class="LineNumber"> 018 </span>ที่เป็นอกุศล  เกิดขึ้น    เพราะเหตุปัจจัย

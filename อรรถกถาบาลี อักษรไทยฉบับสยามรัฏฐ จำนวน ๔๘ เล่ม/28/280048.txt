@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  48
+
+<span class="LineNumber"> 002 </span>	มหาป€วิยา  กมฺปมานาย  รมฺมนครวาสิโน  สณฺ€าตุํ  
+<span class="LineNumber"> 003 </span>อสกฺโกนฺตา  ยุคนฺตวาตพฺภาหตา(๑)  มหาสาลา  วิย  มุจฺฉิตา
+<span class="LineNumber"> 004 </span>ปวตฺตึสุ(๒) ฯ  ฆฏาทีนิ  กุลาลภาชนานิ  ปวฏฺฏนฺตานิ  อฺมฺํ  
+<span class="LineNumber"> 005 </span>ปหรนฺตานิ  จุณฺณวิจุณฺณานิ  อเหสุํ ฯ  มหาชโน  ภีตตสิโต  
+<span class="LineNumber"> 006 </span>สตฺถารํ  อุปสงฺกมิตฺวา  กินฺนุ  โข  ภควา  นาคาวฏฺโฏ  อยํ  
+<span class="LineNumber"> 007 </span>ภูตยกฺขเทวตาสุ  อฺตราวฏฺโฏติ  น  หิ  มยํ  เอตํ  ชานาม  
+<span class="LineNumber"> 008 </span>อปิจ  โข  สพฺโพปิ อยํ  มหาชโน  อุปทฺทุโต  กินฺนุ  โข 
+<span class="LineNumber"> 009 </span>อิมสฺส  โลกสฺส ปาปกํ ภวิสฺสติ อุทาหุ  กลฺยาณํ กเถถ
+<span class="LineNumber"> 010 </span>โน เอตํ การณนฺติ อาห ฯ  อถ  สตฺถา  เตสํ  กถํ  สุตฺวา  ตุเมฺห
+<span class="LineNumber"> 011 </span>มา  โข ภายิตฺถ มา  จินฺตยิตฺถ  นตฺถิ  โว  อิโตนิทานํ  ภยํ 
+<span class="LineNumber"> 012 </span>โย  โส  มยา  อชฺช  สุเมธปณฺฑิโต  อนาคเต  โคตโม  นาม 
+<span class="LineNumber"> 013 </span>พุทฺโธ ภวิสฺสตีติ พฺยากโต โสทานิ(๓)  ทส  ปารมิโย  สมฺมสติ  ตสฺส  
+<span class="LineNumber"> 014 </span>ทส  ปารมิโย  สมฺมสนฺตสฺส  วิโลเกนฺตสฺส  (๔)  ธมฺมเตเชน  สกลทส-
+<span class="LineNumber"> 015 </span>สหสฺสี  โลกธาตุ  เอกปฺปหาเรน  กมฺปติ เจว รวติ จาติ 
+<span class="LineNumber"> 016 </span>อาห ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 017 </span>	ยาวตา ปริสา อาสิ		พุทฺธสฺส ปริเวสเน  
+<span class="LineNumber"> 018 </span>	ปเวธมานา สา ตตฺถ		มุจฺฉิตา เสสิ ภูมิยํ ฯ  
+<span class="LineNumber"> 019 </span>	ฆฏาเนกสหสฺสานิ		กุมฺภีนฺจ สตา พหู  
+<span class="LineNumber"> 020 </span>	สฺจุณฺณมถิตา ตตฺถ	อฺมฺํ ปฆฏฺฏิตา ฯ  
+<span class="LineNumber"> 021 </span># ๑. สฺยา. ยุคนฺธรวาตปฺปหตา ฯ ๒. ม.มุจฺฉิตมุจฺฉิตา ว ปปตึสุ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม.โส ทส ฯ ๔. ม. วิโลเฬนฺตสฺส ฯ

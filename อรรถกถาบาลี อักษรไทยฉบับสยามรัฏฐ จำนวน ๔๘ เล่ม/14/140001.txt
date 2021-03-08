@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่ 14  หน้า 1
+<span class="LineNumber"> 002 </span>			มโนรถปูรณี  นาม  องฺคุตฺตรนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>					นิปาตวณฺณนา
+
+<span class="LineNumber"> 004 </span>				   ทุกนิปาตวณฺณนา  
+<span class="LineNumber"> 005 </span>				ป€มปณฺณาสกวณฺณนา  
+<span class="LineNumber"> 006 </span>				กมฺมกรณวคฺควณฺณนา
+<span class="LineNumber"> 007 </span>				   วชฺชสุตฺตวณฺณนา  
+<span class="LineNumber"> 008 </span>	ทุกนิปาตสฺส  ป€เม  ฯ  วชฺชานีติ  โทสา  อปราธานิ  ฯ  
+<span class="LineNumber"> 009 </span>ทิฏ€ธมฺมิกนฺติ  ทิฏเ€ว  ธมฺเม  อิมสฺมึเยว  อตฺตภาเว  อุปฺปนฺนผลํ  ฯ  
+<span class="LineNumber"> 010 </span>สมฺปรายิกนฺติ  สมฺปราเย  อนาคเต  อตฺตภาเว  อุปฺปนฺนผลํ  ฯ  
+<span class="LineNumber"> 011 </span>	อาคุจารินฺติ  ปาปการึ  อปราธการกํ  ฯ  ราชาโน  คเหตฺวา  
+<span class="LineNumber"> 012 </span>วิวิธา  กมฺมการณา  กาโรนฺเตติ  โจรํ  คเหตฺวา  วิวิธา  กมฺมกรณา  
+<span class="LineNumber"> 013 </span>ราชปุริสา  กโรนฺติ  ฯ  ราชาโน  ปน  ตา  กาเรนฺติ  นาม  ฯ  
+<span class="LineNumber"> 014 </span>ตํ  โจรํ  เอวํ  กมฺมการณา  (๑)  การิยมานํ  เอส  ปสฺสติ  ฯ  เตน  
+<span class="LineNumber"> 015 </span>วุตฺตํ  ปสฺสติ  โจรํ  อาคุจารึ  ราชาโน  คเหตฺวา  วิวิธา  
+<span class="LineNumber"> 016 </span>กมฺมการณา  กาโรนฺเตติ  ฯ  อฑฺฒทณฺฑเกหีติ  มุคฺคเรหิ  (๒)  ปหรณตฺถํ  
+<span class="LineNumber"> 017 </span>วา  จตุหตฺถทณฺฑํ  เทฺวธา  เฉตฺวา  คหิตทณฺฑเกหิ  ฯ  
+<span class="LineNumber"> 018 </span>	วิลงฺคถาลิกนฺติ  กฺชิยอุกฺขลิกกมฺมการณํ  ฯ  ตํ  กโรนฺตา  
+<span class="LineNumber"> 019 </span># ๑  กตฺถจิ  วิวิธานิ  กมฺมการณานีติ  ทิสฺสติ  ฯ อิทํ  กมฺมการณานีติ  ปทํ
+<span class="LineNumber"> 020 </span>#  กมฺมกรณานีติ  ยุตฺตตรํ  ฯ  ๒  สี. มุคฺคเรหิ  ปหาเรหิปิ  ฯ

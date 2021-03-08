@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>           บทว่า <B>มตฺตโส นิชฺฌานํ ขมนฺติ</B> ความว่า ควรซึ่งการตรวจตราดู  
+<span class="LineNumber"> 002 </span>โดยประมาณ.     
+<span class="LineNumber"> 003 </span>           บทที่เหลือในที่ทุกแห่ง  มีความหมายง่ายทั้งนั้นแล. 
+<span class="LineNumber"> 004 </span>                                    <I>จบ  อรรถกถาโอกกันตสังยุต</I>
+
+<span class="LineNumber"> 005 </span>                <H1>รวมพระสูตรที่มีในสังยุตนี้คือ</H1>
+<span class="LineNumber"> 006 </span>           <B>๑.  จักขุสูตร   ๒.   รูปสูตร   ๓. วิพญาณสูตร   ๔.   ผัสสสูตร
+<span class="LineNumber"> 007 </span>๕. เวทนาสูตร  ๖. สัญญาสูตร  ๗. เจตนาสูตร  ๘. ตัณหาสูตร  ๙. ธาตุสูตร
+<span class="LineNumber"> 008 </span>๑๐. ขันธสูตร.</B>

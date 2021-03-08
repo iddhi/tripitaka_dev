@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         พึงนับเหมือนการนับในปฏิจจวาระในกุสลติกะ     ที่นับไว้แล้วโดยวิธี
+<span class="LineNumber"> 002 </span>สาธยาย. 
+<span class="LineNumber"> 003 </span>                                             <I>อนุโลม   จบ</I>
+ 
+<span class="LineNumber"> 004 </span>                                              <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 005 </span>                                            <H1>๑. นเหตุปัจจัย</H1>  
+<span class="LineNumber"> 006 </span>         [๑๔๓๔] ๑.  <B>อุปาทินนุปาทานิยธรรม    อาศัยอุปาทินนุปาทา-
+<span class="LineNumber"> 007 </span>นิยธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B> 
+<span class="LineNumber"> 008 </span>         คือ    ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอุปาทินนุปาทานิยธรรม   ซึ่งเป็น
+<span class="LineNumber"> 009 </span>อเหตุกะ  เกิดขึ้น ฯลฯ  ขันธ์ ๒ อาศัยขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 010 </span>         ในอเหตุกปฏิสนธิขณะ  ขันธ์ ๓ และกัฏัตตารูป  อาศัยขันธ์ ๑ ที่เป็น
+<span class="LineNumber"> 011 </span>อุปาทินนุปาทานิยธรรม   เกิดขึ้น ฯลฯ   ขันธ์ ๒ และกฏัตตารูป   อาศัยขันธ์ ๒
+<span class="LineNumber"> 012 </span>เกิดขึ้น.  หทยวัตถุ  อาศัยขันธ์ทั้งหลาย  เกิดขึ้น.   ขันธ์ทั้งหลาย  อาศัยหทยวัตถุ
+<span class="LineNumber"> 013 </span>เกิดขึ้น.
+<span class="LineNumber"> 014 </span>         มหาภูตรูป  ๓  อาศัยมหาภูตรูป  ๑  เกิดขึ้น  ฯลฯ  กฏัตตารูป   ที่เป็น
+<span class="LineNumber"> 015 </span>อุปาทารูป   อาศัยมหาภูตรูป   เกิดขึ้น.
+<span class="LineNumber"> 016 </span>         สำหรับพวกอสัญญสัตว์    มหาภูตรูป  ๓  อาศัยมหาภูตรูป  ๑  เกิดขึ้น
+<span class="LineNumber"> 017 </span>ฯลฯ  กฏัตตารูป  ที่เป็นอุปาทารูป  อาศัยมหาภูตรูป  เกิดขึ้น.
+<span class="LineNumber"> 018 </span>                        ๒.  <B>อนุปาทินนุปาทานิยธรรม  อาศัยอุปาทินนุปาทา-
+<span class="LineNumber"> 019 </span>นิยธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>

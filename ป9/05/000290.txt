@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>เหตุผลนั้น ข้าพเจ้ากล่าวไว้แล้วในหนหลังนั่นแล  ก็จริง  แต่ข้าพเจ้า 
+<span class="LineNumber"> 002 </span>จะรวบรวมกล่าว  พร้อมทั้งเหตุผลในความไม่มีการเกิดรูปในภังคขณะ
+<span class="LineNumber"> 003 </span>และเรื่องที่จะพึงกล่าวในเหตุผลนั้น  แม้ในที่นี้  เพื่อถือเอาโดยสะดวก
+<span class="LineNumber"> 004 </span>                            [ค้านมติที่ว่าฐิติขณะของจิตไม่มี]
+<span class="LineNumber"> 005 </span>                        <B>ในวิภังค์แห่งปัญหามีอาทิอย่างนี้ว่า  "จิต
+<span class="LineNumber"> 006 </span>                        เกิดขึ้นแล้ว  ชื่อว่าบังเกิดอยู่หรือ  ตาม
+<span class="LineNumber"> 007 </span>                        ปัญหา  พยากรณ์ว่า  ในภังคขณะ จิต
+<span class="LineNumber"> 008 </span>                        บังเกิดแล้ว  ชื่อว่ากำลังเกิดขึ้นก็หามิได้
+<span class="LineNumber"> 009 </span>                        ในอุปปาทขณะ  กำลังบังเกิดขึ้น  ชื่อว่า
+<span class="LineNumber"> 010 </span>                        บังเกิดแล้ว  ก็หามิได้  ดังนี้เป็นต้น<SUP>๑</SUP>  ตรัส
+<span class="LineNumber"> 011 </span>                        ภังคขณะและอุปปาทขณะเท่านั้น  มิได้
+<span class="LineNumber"> 012 </span>                        ตรัสฐิติขณะแห่งจิต  หากความเข้าใจจะ
+<span class="LineNumber"> 013 </span>                        พึงมีว่า  ฐิติขณะมีอยู่  เพราะพระผู้มี
+<span class="LineNumber"> 014 </span>                        พระภาคตรัสไว้ว่า  ความเกิดด้วย  ความ
+<span class="LineNumber"> 015 </span>                        ดับด้วย  ความแปรเป็นอย่างอื่นแห่งจิตที่
+<span class="LineNumber"> 016 </span>                        ตั้งอยู่แล้วด้วย  ย่อมปรากฏ ดังนี้  แม้ใน
+<span class="LineNumber"> 017 </span>                        พระสูตรนั้น  ก็ตรัสถึงความตั้งอยู่แห่ง
+<span class="LineNumber"> 018 </span>                        ความสืบเนื่องกัน  เพราะความเป็นอย่างอื่น
+<span class="LineNumber"> 019 </span>                        ไม่ได้  ในธรรมอย่างหนึ่ง  และเพราะ</B>
+
+<span class='footnote'>๑.  น  อุปฺปนฺนนฺติอาทินา น  มณิสารมัญชุสา  แก้ว่า  อุปชฺชมานํ  โน  จ  อุปฺปนฺนํ ฯ  แต่ถ้าเป็น</span>
+<span class='footnote'>อุปฺปนฺนญฺจาติอาทินา  ก็แปลว่า  ทั้งเกิดแล้วด้วย ฯ</span>
+
+

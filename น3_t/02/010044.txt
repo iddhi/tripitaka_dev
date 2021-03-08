@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                   วิปัสสนากัมมัฏฐาน
+<span class="LineNumber"> 002 </span>	ผู้เจริญวิปัสสนาพึงศึกษาให้รู้จักอรรถแห่งวิปัสสนาภาวนา  และ 
+<span class="LineNumber"> 003 </span>ธรรม  ๓  อย่าง  พร้อมทั้งให้รู้จักลักษณะ  กิจ  ผล เหตุ  ของวิปัสสนา
+<span class="LineNumber"> 004 </span>และให้รู้จักวิภาคความจำแนก  ๖  อย่างด้วย. 
+<span class="LineNumber"> 005 </span>                                    อรรถแห่งวิปัสสนา
+<span class="LineNumber"> 006 </span>	กิริยาที่ทำวิปัสสนาปัญญาที่เห็นแจ้งชัดในอารมณ์ให้เกิดขึ้นด้วย
+<span class="LineNumber"> 007 </span>เจตนาใด  เจตนานั้นชื่อ  วิปัสสนาภาวนา.
+<span class="LineNumber"> 008 </span>                                       ธรรม  ๓  อย่าง     
+<span class="LineNumber"> 009 </span>	๑.  ธรรมเป็นภูมิเป็นอารมณ์ของวิปัสสนา.
+<span class="LineNumber"> 010 </span>	๒.  ธรรมเป็นรากเง่า  เป็นเหตุเกิดขึ้นตั้งอยู่ของวิปัสสนา.
+<span class="LineNumber"> 011 </span>	๓.  ตัววิปัสสนา.
+<span class="LineNumber"> 012 </span>	ธรรมที่เป็นภูมิเป็นอารมณ์ของวิปัสสนา  ท่านยกขึ้นกล่าวไว้เป็น
+<span class="LineNumber"> 013 </span>ตัวอย่าง  ๓  หมวด   คือ  :-
+<span class="LineNumber"> 014 </span>	<B>หมวดที่  ๑</B>  ได้แก่ขันธ์  ๕  คือ  รูป  เวทนา  สัญญา  สังขาร
+<span class="LineNumber"> 015 </span>วิญญาณ.
+<span class="LineNumber"> 016 </span>	<B>หมวดที่ ๒</B>  ได้แก่อายตนะ  ๑๒ คือ :-
+<span class="LineNumber"> 017 </span>	๑.  <B>จักขวายตนะ</B>  	อายตนะคือตา.
+<span class="LineNumber"> 018 </span>	๒.  <B>รูปายตนะ</B>	อายตนะคือรูป.
+<span class="LineNumber"> 019 </span>	๓.  <B>โสตายตนะ</B>   	อายตนะคือหู.
+
+

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           ในข้อเหล่านั้น  อย่างไร  อธิกรณ์ไม่เป็นกิจ   
+<span class="LineNumber"> 002 </span>           วิวาทาธิกรณ์ อนุวาทาธิกรณ์  อาปัตตาธิกรณ์   นี้อธิกรณ์ไม่เป็นกิจ
+<span class="LineNumber"> 003 </span>           ในข้อเหล่านั้น  อย่างไร  เป็นอธิกรณ์ด้วย  เป็นกิจด้วย
+<span class="LineNumber"> 004 </span>           กิจจาธิกรณ์   เป็นอธิกรณ์ด้วย   เป็นกิจด้วย.
+<span class="LineNumber"> 005 </span>                                     <I>อธิกรณเภท  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                   <H1>หัวข้อประจำเรื่อง</H1>
+<span class="LineNumber"> 007 </span>           [๑,๐๖๘]  อธิกรณ์  ๑  การฟื้น  ๑  อาการ  ๑  บุคคล  ๑  นิทาน  ๑
+<span class="LineNumber"> 008 </span>เหตุ  ๑  ปัจจัย  ๑  มูล  ๑  สมุฏฐาน  ๑  เป็นอาบัติ  ๑  มีอธิกรณ์  ๑  ในที่ใด  ๑
+<span class="LineNumber"> 009 </span>แยก นิทาน  ๑  เหตุ  ๑  ปัจจัย  ๑  มูล  ๑  สมุฏฐาน  ๑  พยัญชนะ  ๑  วิวาท  ๑
+<span class="LineNumber"> 010 </span>อธิกรณ์  ๑  ตามที่กล่าวนี้  จัดลงในประเภทอธิกรณ์  ด้วยประการฉะนี้แล.
+<span class="LineNumber"> 011 </span>                                <I>หัวข้อประจำเรื่อง  จบ</I>
+
+<span class="LineNumber"> 012 </span>                                 <H1>อธิกรณเภท  วัณณนา</H1>
+<span class="LineNumber"> 013 </span>                              <H1>[รื้อสมถะด้วยรื้ออธิกรณ์]</H1>
+<span class="LineNumber"> 014 </span>           วินิจฉัยในอธิกรณเภท  พึงทราบดังนี้:-
+<span class="LineNumber"> 015 </span>           พระอุบาลีเถระ     ครั้นกล่าวรื้ออธิกรณ์ว่า    การรื้อ  ๑๐   เหล่านี้แล้ว
+<span class="LineNumber"> 016 </span>ได้กล่าวว่า   เมื่อรื้อวิวาทาธิกรณ์   ย่อมรื้อสมถะเท่าไร  ?  เป็นอาทิ  เพื่อแสดง
+<span class="LineNumber"> 017 </span>การรื้อสมถะ  เพราะรื้ออธิกรณ์อีก.

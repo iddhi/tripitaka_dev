@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>  
+<span class="LineNumber"> 002 </span>          ๑.   คิลานสูตร     ๒.   สติปัฏฐานสูตร     ๓.    ปฐมอุปัฏฐากสูตร
+<span class="LineNumber"> 003 </span>๔.  ทุติยอุปัฏฐากสูตร     ๕.   ปฐมอนายุสสสูตร     ๖.    ทุติยอนายุสสสูตร
+<span class="LineNumber"> 004 </span>๗.  อวัปปกาสสูตร  ๘.  สมณทุกขสูตร  ๙.  ปริกุปปสูตร  ๑๐.  สัมปทาสูตร  
+<span class="LineNumber"> 005 </span>และอรรถกถา.   

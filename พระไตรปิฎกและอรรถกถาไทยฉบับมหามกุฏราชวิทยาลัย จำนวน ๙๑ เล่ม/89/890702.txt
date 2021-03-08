@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>๔.  อนันตรปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๖๓๙]  <B>ในอนันตรปัจจัย</B>      เพราะเหตุแห่งธรรมที่ไม่ใช่ภาวนาย-
+<span class="LineNumber"> 003 </span>ปหาตัพพเหตุกธรรม    โมหะที่สหรคตด้วยวิจิกิจฉา    ไม่พึงกระทำ    โมหะที่
+<span class="LineNumber"> 004 </span>สหรคตด้วยอุทธัจจะ  พึงกระทำ.
+
+<span class="LineNumber"> 005 </span>                     <H2>๕.  สมนันตรปัจจัย  ฯลฯ    ๘.  นิสสยปัจจัย</H2>
+<span class="LineNumber"> 006 </span>         <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของสมนันตรปัจจัย</B>
+<span class="LineNumber"> 007 </span>         <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของสหชาตปัจจัย</B>   มี ๙ วาระ
+<span class="LineNumber"> 008 </span>         <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของอัญญมัญญปัจจัย</B>   มี ๖ วาระ
+<span class="LineNumber"> 009 </span>         <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของนิสสยปัจจัย</B>  มี ๙ วาระ
+
+<span class="LineNumber"> 010 </span>                                    <H2>๙.   อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 011 </span>         [๖๔๐]  ๑.  <B>ภาวนายปหาตัพพเหตุกธรรม   เป็นปัจจัยแก่ภาว-
+<span class="LineNumber"> 012 </span>นายปหาตัพพเหตุกธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 013 </span>         มี ๓ อย่าง  คือที่เป็น  <B>อารัมมณูปนิสสยะ  อนันตรูปนิสสยะ</B>  และ
+<span class="LineNumber"> 014 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 015 </span>         ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 016 </span>         ขันธ์ทั้งหลายที่เป็นภาวนายปหาตัพพเหตุกธรรม     เป็นปัจจัยแก่ขันธ์
+<span class="LineNumber"> 017 </span>ทั้งหลายที่เป็นภาวนายปหาตัพพเหตุกธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 018 </span>         พึงกระทำมูล   (วาระที่ ๒).

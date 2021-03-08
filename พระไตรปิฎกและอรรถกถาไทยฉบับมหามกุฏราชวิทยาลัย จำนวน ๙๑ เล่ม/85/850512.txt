@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>ปัจจัย  มี ๓ วาระ   ในกัมมปัจจัย  มี ๗ วาระ  ในวิปากปัจจัย  มี ๑ วาระ 
+<span class="LineNumber"> 002 </span>ในอาหารปัจจัย มี ๗ วาระ  ในอินทริยปัจจัย   มี ๗ วาระ  ในฌานปัจจัย
+<span class="LineNumber"> 003 </span>มี ๗ วาระ    ในมัคคปัจจัย  มี ๗ วาระ    ในสัมปยุตตปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 004 </span>ในวิปปยุตตปัจจัย มี ๕ วาระ  ในอัตถปัจจัย มี ๑๓ วาระ  ในนัตถิปัจจัย 
+<span class="LineNumber"> 005 </span>มี ๗ วาระ  ในวิคตปัจจัย  มี ๗ วาระ  ในอวิคตปัจจัย  มี ๑๓ วาระ.
+
+<span class="LineNumber"> 006 </span>                                 <H1>๑. เหตุมูลกนัย</H1>
+<span class="LineNumber"> 007 </span>                                 <H1>เหตุสภาคะ ๑๑</H1>
+<span class="LineNumber"> 008 </span> <B>[๖๒๖]  เพราะเหตุปัจจัย</B>     ในอธิปติปัจจัย     มี ๔ วาระ....     ใน
+<span class="LineNumber"> 009 </span>สหชาตปัจจัย    มี ๗ วาระ       ในอัญญมัญญปัจจัย  มี ๓ วาระ     ใน
+<span class="LineNumber"> 010 </span>นิสสยปัจจัย   มี ๗ วาระ    ในวิปากปัจจัย  มี ๑ วาระ    ในอินทริยปัจจัย 
+<span class="LineNumber"> 011 </span>มี ๔ วาระ    ในมัคคปัจจัย   มี ๔ วาระ   ในสัมปยุตตปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 012 </span>ในวิปปยุตตปัจจัย มี ๓ วาระ  ในอัตถิปัจจัย  มี ๗ วาระ  ในอวิคตปัจจัย 
+<span class="LineNumber"> 013 </span>มี ๗ วาระ.
+
+<span class="LineNumber"> 014 </span>                                    <H1>เหตุฆฏนา ๒๔</H1>
+<span class="LineNumber"> 015 </span>                                  <H1>สามัญญฆฏนา ๙</H1>
+<span class="LineNumber"> 016 </span> <B>[๖๒๗]  ๑.  ปัจจัย ๕</B>   คือ เหตุ สหชาตะ  นิสสยะ  อัตถิ  อวิคต-
+<span class="LineNumber"> 017 </span>ปัจจัย  มี ๗ วาระ. 
+<span class="LineNumber"> 018 </span>              <B>๒.  ปัจจัย ๖</B>   คือ เหตุ  สหชาตะ  อัญญมัญญะ  นิสสยะ
+<span class="LineNumber"> 019 </span>อัตถิ  อวิคตปัจจัย มี ๓ วาระ. 

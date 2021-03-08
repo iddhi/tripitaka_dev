@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>     		   <H1>อุปาทานอุปาทานสัมปยุตตทุกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>	<H2>(๗๓. อุปทานอุปาทานสัมปยุตตทุกะ ๑  กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>                     		 <H1>อกุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>                      		     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                              	  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๕๘๖]  ๑.  อกุศลธรรมที่เป็นทั้งอุปาทานธรรม  และ
+<span class="LineNumber"> 007 </span>อุปาทานสัมปยุตตธรรม     อาศัยอกุศลธรรมที่เป็นทั้งอุปาทานธรรม
+<span class="LineNumber"> 008 </span>และอุปาทานสัมปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 009 </span>                            ๔.  อกุศลธรรมที่เป็นอุปาทานสัมปยุตตธรรม    แต่
+<span class="LineNumber"> 010 </span>ไม่ใช่อุปาทานธรรม  อาศัยอกุศลธรรมที่เป็นอุปาทานสัมปยุตตธรรม
+<span class="LineNumber"> 011 </span>แต่ไม่ใช่อุปาทานธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>                            ๗.  อกุศลธรรมที่เป็นทั้งอุปาทานธรรม  และ
+<span class="LineNumber"> 013 </span>อุปาทานสัมปยุตตธรรม    อาศัยอกุศลธรรมที่เป็นทั้งอุปาทานธรรม
+<span class="LineNumber"> 014 </span>และอุปาทานสัมปยุตตธรรม       และอกุศลธรรมที่เป็นอุปาทาน-
+<span class="LineNumber"> 015 </span>สัมปยุตตธรรม  แต่ไม่ใช่อุปาทานธรรม   เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>มี ๓  วาระ.

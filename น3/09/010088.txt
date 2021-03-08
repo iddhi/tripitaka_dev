@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             อานิสงส์เจริญสติปัฏฐาน 
+<span class="LineNumber"> 002 </span>	<B>โย  หิ  โกจิ  ภิกฺขเว  อิเม</B>	ดูก่อนภิกษุทั้งหลาย  ผู้ใดผู้หนึ่ง 
+<span class="LineNumber"> 003 </span><B>จตฺตาโร  สติปฏฺ€าเน  เอวํ</B>		พึงเจริญสติปัฏฐานทั้ง ๔  นี้  ตลอด
+<span class="LineNumber"> 004 </span><B>ภาเวยฺย  สตฺต  วสฺสานิ</B>		๗  ปี
+<span class="LineNumber"> 005 </span><B>ตสฺส  ทฺวินฺนํ  ผลานํ</B>		ผู้นั้นพึงหวังผล  ๒  ผลอันใดอัน
+<span class="LineNumber"> 006 </span><B>อญฺตรํ  ผลํ  ปาฏิกงฺขํ</B>		หนึ่ง
+<span class="LineNumber"> 007 </span><B>ทิฏฺเ€ว  ธมฺเม  อญฺา</B>		คือพระอรหัตผลในปัจจุบันชาตินี้ ๑
+<span class="LineNumber"> 008 </span><B>สติ วา  อุปาทิเสเส อนาคามิตา</B>	หรือ<SUP>๑</SUP>เมื่อวิบากขันธ์ในที่กิเลสมีตัณหา
+<span class="LineNumber"> 009 </span>					เป็นต้นเข้ายึดไว้ยังเหลืออยู่  เป็น
+<span class="LineNumber"> 010 </span>					พระอนาคามี ๑  [คือผู้นั้นคงจะได้
+<span class="LineNumber"> 011 </span>					อรหัตผลหรืออนาคามิผลในปัจจุบัน
+<span class="LineNumber"> 012 </span>					ชาตินี้เป็นแน่].
+<span class="LineNumber"> 013 </span>	<B>ติฏฺ€นฺตุ  ภิกฺขเว สตฺต</B>	ดูก่อนภิกษุทั้งหลาย  ๗ ปี ยกไว้,
+<span class="LineNumber"> 014 </span><B>วสฺสนิ</B>
+<span class="LineNumber"> 015 </span><B>โย  หิ  โกจิ  ภิกฺขเว  อิเม</B>		ดูก่อนภิกษุทั้งหลาย   ผู้ใดผู้หนึ่ง
+<span class="LineNumber"> 016 </span><B>จตฺตาโร  สติปฏฺ€าเน เอวํ</B>		พึงเจริญสติปัฏฐานทั้ง ๔  นี้  ตลอด
+<span class="LineNumber"> 017 </span><B>ภาเวยฺย  ฉ  วสฺสานิ</B>			๖  ปี
+<span class="LineNumber"> 018 </span><B>ปญฺจ  วสฺสานิ</B>			ตลอด  ๕  ปี
+
+<span class='footnote'>๑.  อีกนัยหนึ่งเมื่อถือตามนัยพระบาลีสอุปาทีเสสสูตร  นวกังคุตร  ๒๓/๓๙๑  แปลว่าเมื่อเชื้อกิเลส</span>
+<span class='footnote'>ยังเหลืออยู่</span>

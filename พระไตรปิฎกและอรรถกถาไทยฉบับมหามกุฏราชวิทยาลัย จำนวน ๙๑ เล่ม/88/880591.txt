@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       ๔.  <B>คันถวิปปยุตตธรรม    เจือกับคันถวิปปยุตตธรรม
+<span class="LineNumber"> 002 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           คือ  ขันธ์ ๓      เจือกับขันธ์ ๑      ที่เป็นคันถวิปปยุตตธรรม ฯลฯ
+<span class="LineNumber"> 004 </span>ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 005 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 006 </span>                       ๕.  <B>คันถสัมปยุตตธรรม    เจือกับคันถวิปปยุตตธรรม
+<span class="LineNumber"> 007 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ สัมปยุตตขันธ์ทั้งหลาย  เจือกับโลภะที่เป็นทิฏฐิคตวิปปยุตตธรรม.
+<span class="LineNumber"> 009 </span>สัมปยุตตขันธ์ทั้งหลาย  เจือกับปฏิฆะ.
+<span class="LineNumber"> 010 </span>                       ๖.  <B>คันถสัมปยุตตธรรม    เจือกับคันถสัมปยุตตธรรม
+<span class="LineNumber"> 011 </span>และคันถวิปปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  ขันธ์ ๓     เจือกับขันธ์ ๑     ที่สหรคตด้วยโลภะที่เป็นทิฏฐิคต-
+<span class="LineNumber"> 013 </span>วิปปยุตตธรรม   และโลภะ ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 014 </span>           ขันธ์  ๓  เจือกับขันธ์ ๑  ที่สหรคตด้วยโทมนัส  และปฏิฆะ  ขันธ์ ๒
+<span class="LineNumber"> 015 </span>ฯลฯ
+<span class="LineNumber"> 016 </span>                                                   ฯลฯ
+
+<span class="LineNumber"> 017 </span>                            <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>           [๕๔๑]  ในเหตุปัจจัย มี ๖ วาระ  ในอารัมมณปัจจัย  มี ๖ วาระ  ใน
+<span class="LineNumber"> 019 </span>อธิปติปัจจัย มี ๖ วาระ  ในปัจจัยทั้งปวง มี ๖ วาระ  ในวิปากปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 020 </span>ในอาหารปัจจัย  มี ๖ วาระ ฯลฯ  ในอวิคตปัจจัย มี  ๖ วาระ.

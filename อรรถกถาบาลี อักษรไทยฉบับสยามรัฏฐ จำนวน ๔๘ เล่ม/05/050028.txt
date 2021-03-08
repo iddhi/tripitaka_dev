@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๕  หน้า  ๒๘
+
+<span class="LineNumber"> 002 </span>		สมฺพหุลปริจฺเฉทวณฺณนา  
+<span class="LineNumber"> 003 </span>	ตตฺถ  
+<span class="LineNumber"> 004 </span>		สมวตฺตกฺขนฺโธ  อตุโล ฯ  	สุปฺปพุทฺโธ  จ  อุตฺตโร  
+<span class="LineNumber"> 005 </span>		สตถวาโห  วิชิตเสโน ฯ  	ราหุโล  ภวติ  สตฺตโมติ  
+<span class="LineNumber"> 006 </span>เอเต  ตาว  สตฺตนฺนํ  พุทฺธานํ  (๑)  อนุกฺเมเนว  สตฺต  ปุตฺตา  
+<span class="LineNumber"> 007 </span>เวทิตพฺพา ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  ราหุลภทฺเท  ตาว  ชาเต  ปณฺณํ  อาหริตฺวา  
+<span class="LineNumber"> 009 </span>มหาปุริสสฺส  หตฺเถ  €ปยึสุ ฯ  อถสฺส  ตาวเทว  สกลสรีรํ 
+<span class="LineNumber"> 010 </span>โขเภตฺวา  ปุตฺตสิเนโห  อฏฺ€าสิ ฯ  โส  จินฺเตสิ  เอกสฺมึ  ตาว 
+<span class="LineNumber"> 011 </span>ชาเต  เอวรูโป  ปุตฺตสิเนโห ฯ  ปโรสหสฺสํ  กิร  เม  ปุตฺตา  ภวิสฺสนฺติ ฯ  
+<span class="LineNumber"> 012 </span>เตสุ เอเกกสฺมึ(๒)  ชาเต  อิมํ(๓)  สิเนหพนฺธนํ  เอวํ  วฑฺฒนฺตํ  ทุพฺภิชฺชํ  
+<span class="LineNumber"> 013 </span>ภวิสฺสตีติ  (๔)  ราหุโล  ชาโต  พนฺธนํ  ชาตนฺติ  อาห ฯ  ตํทิวสเมว 
+<span class="LineNumber"> 014 </span>จ  (๕)รชฺชํ  ปหาย  นิกฺขนฺโต ฯ  เอส  นโย  สพฺเพสํ  ปุตฺตุปฺ-
+<span class="LineNumber"> 015 </span>ปตฺติยนฺติ ฯ  อยํ  ปุตฺตปริจฺเฉโท ฯ  
+<span class="LineNumber"> 016 </span>		สุตฺตนา  (๖)  สพฺพกามา  จ ฯ  	สุจิตฺตา  อถ  โรจนี  (๗)  
+<span class="LineNumber"> 017 </span>		รุจฺจตินี  (๘)  สุนนฺทา  จ  		พิมฺพา  ภวติ  สตฺตมาติ  
+<span class="LineNumber"> 018 </span>เอตา  เตสํ  สตฺตนฺนํปิ  ปุตฺตานํ  มาตโร  อเหสส ฯ  พิมฺพา  เทวี  
+<span class="LineNumber"> 019 </span>#  ๑.  ม.  สตฺตนฺนมฺปิ  โพธิสตฺตานํ ฯ  ๒.  ม.  เอเกกสฺมึ ฯ  ๓.  ม.  อิทํ ฯ  ๔.  ม.  ยุ.  ทุพฺเภชฺชํ
+<span class="LineNumber"> 020 </span>ภวิสฺสติ ฯ  ๕.  ม.  เอตฺถนฺตเร  จสทฺโท  ทิสฺสติ ฯ  ๖.  สี.  ยุ.  สุธนา ฯ  ม.  สุตนา ฯ
+<span class="LineNumber"> 021 </span>๗.  ม.  โรจินี ฯ  ๘.  สี.  รุจฺจคนฺตี ฯ  ม.  รุจคฺคตี ฯ  ยุ.รุจคฺคตฺตี ฯ

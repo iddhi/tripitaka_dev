@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                        	<H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>		[๑๔๖๗]  ในเหตุปัจจัย  มี ๑ วาระ     ในอารัมมณปัจจัย   มี ๑ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 004 </span>              ในสหชาตวาระก็ดี ฯลฯ  ในปัญหาวาระก็ดี  มี ๑ วาระ  ทุกปัจจัย.
+
+<span class="LineNumber"> 005 </span>				     <H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 006 </span>                          		 <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 007 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๑๔๖๘]  ๑.  อัพยากตธรรมที่เป็นจิตตสังสัฏฐธรรม    อาศัย
+<span class="LineNumber"> 009 </span>อัพยากตธรรมที่เป็นจิตตสังสัฏฐธรรม    เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>                   	      ๔.  อัพยากตธรรมที่ไม่ใช่จิตตสังสัฏฐธรรม   อาศัย
+<span class="LineNumber"> 012 </span>อัพยากตธรรมที่ไม่ใช่จิตตสังสัฏฐธรรม    เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>มี ๓ วาระ.                                                           
+<span class="LineNumber"> 014 </span>                   	      ๗.  อัพยากตธรรมที่เป็นจิตตสังสัฏฐธรรม     อาศัย
+<span class="LineNumber"> 015 </span>อัพยากตธรรมที่เป็นจิตตสังสัฏฐธรรม     และอัพยากตธรรมที่ไม่ใช่
+<span class="LineNumber"> 016 </span>จิตตสังสัฏฐธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.

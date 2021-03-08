@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>๙.  หลิททราคชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                 <H1>ว่าด้วยลักษณะของผู้ที่จะคบ</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๒๘๓]   ความอดทนด้วยดีอยู่ในป่าอันมีที่นอน
+<span class="LineNumber"> 004 </span>           และที่นั่งอันสงัดเงียบ     จะมีผลดีอะไร  ส่วน 
+<span class="LineNumber"> 005 </span>           ชนเหล่าใดอดทนอยู่ในบ้าน   ชนเหล่านั้นเป็น
+<span class="LineNumber"> 006 </span>           ผู้ประเสริฐกว่าท่าน. 
+<span class="LineNumber"> 007 </span>         [๑๒๘๔]   ข้าแต่พ่อ      ฉันออกจากป่าสู่บ้านแล้ว
+<span class="LineNumber"> 008 </span>           ควรคบคนที่มีศีลอย่างไร   มีวัตรอย่างไร  ฉัน
+<span class="LineNumber"> 009 </span>           ขอถามท่าน  ขอท่านจงบอกฉันด้วย. 
+<span class="LineNumber"> 010 </span>         [๑๒๘๕]   แน่ะพ่อ   ผู้ใดคุ้นเคยกับเจ้า    อดทนต่อ
+<span class="LineNumber"> 011 </span>           ความคุ้นเคยของเจ้าได้    เป็นผู้ตั้งใจฟังคำพูด
+<span class="LineNumber"> 012 </span>           ของเจ้าและอดทนต่อคำพูดของเจ้าได้   เจ้าไป
+<span class="LineNumber"> 013 </span>           จากที่นี้แล้วจงคบผู้นั้นเถิด. 
+<span class="LineNumber"> 014 </span>         [๑๒๘๖]   ผู้ใดไม่มีกรรมชั่วด้วยกายวาจาใจ   เจ้า
+<span class="LineNumber"> 015 </span>           ไปจากที่นี้แล้ว  จงตั้งตัวเหมือนบุตรที่เกิดแต่
+<span class="LineNumber"> 016 </span>           อกผู้นั้น   จงคบผู้นั้นเถิด.</B>

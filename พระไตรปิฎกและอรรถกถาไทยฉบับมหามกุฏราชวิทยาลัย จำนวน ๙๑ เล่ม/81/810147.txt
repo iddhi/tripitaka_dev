@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>รูปังกัมมันติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๒๔๒]   <B>สกวาที</B>  กายกรรมที่ตั้งขึ้นด้วยกุศลจิต  เป็นไป   เป็นกุศล
+<span class="LineNumber"> 003 </span>หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. เป็นธรรมมีอารมณ์ ความนึก ความผูกใจ ความสนใจ
+<span class="LineNumber"> 006 </span>ความทำไว้ในใจ  ความจงใจ  ความปรารถนา  ความตั้งใจของกายกรรม
+<span class="LineNumber"> 007 </span>นั้นมีอยู่  หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 009 </span>                        ส. กายกรรมนั้น  เป็นธรรมไม่มีอารมณ์ ความนึก ความ
+<span class="LineNumber"> 010 </span>ผูกใจ  ความสนใจ  ความทำไว้ในใจ  ความจงใจ  ความปรารถนา  ความ
+<span class="LineNumber"> 011 </span>จงใจ ของกายกรรมนั้น   ไม่มี  มิใช่หรือ  ?
+<span class="LineNumber"> 012 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                        ส. หากว่า  กายกรรมนั้น   เป็นธรรมไม่มีอารมณ์  ความ
+<span class="LineNumber"> 014 </span>นึก  ฯลฯ  ความตั้งใจ ของกายกรรมนั้น   ไม่มี  ก็ต้องไม่กล่าวว่า  กายกรรม
+<span class="LineNumber"> 015 </span>ที่ตั้งขึ้นด้วยกุศลจิต  เป็นไป เป็นกุศล.
+<span class="LineNumber"> 016 </span>         [๑๒๔๓]   ส. ผัสสะที่ตั้งขึ้นด้วยกุศลจิตเป็นกุศล เป็นธรรมมีอารมณ์
+<span class="LineNumber"> 017 </span>ความนึก ฯลฯ ความตั้งใจของผัสสะนั้น  มีอยู่หรือ ?
+<span class="LineNumber"> 018 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                        ส. กายกรรมที่ตั้งขึ้นด้วยกุศลจิต  เป็นไป  เป็นกุศล เป็น
+<span class="LineNumber"> 020 </span>ธรรม มีอารมณ์ ความนึก ฯลฯ  ความตั้งใจของกายกรรมนั้นมีอยู่หรือ  ?
+<span class="LineNumber"> 021 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 022 </span>                       ส. เวทนา  ฯลฯ สัญญา เจตนา สัทธา วิริยะ สติ  สมาธิ

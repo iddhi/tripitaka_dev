@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  สาริปุตฺตตฺเถรคาถาวณฺณนา  611  
+
+<span class="LineNumber"> 002 </span>		โกสิกา  โปฏฺ€สีสา  จ  		กุรรา  เสนกา  พหู  
+<span class="LineNumber"> 003 </span>		มหากาฬา  จ  สกุณา  		อุปชีวนฺติ  ตํ  สรํ ฯ  
+<span class="LineNumber"> 004 </span>		ปสทา  จ  วราหา  จ  			จมรา  คณฺฑกา  พหู  (๑)  
+<span class="LineNumber"> 005 </span>		โรหิจฺจา  สุตฺตโปตา  (๒)  จ  	อุปชีวนฺติ  ตํ  สรํ ฯ  
+<span class="LineNumber"> 006 </span>		สีหพฺยคฺฆา  จ  ทีปี  จ  		อจฺฉโกกตรจฺฉกา  (๓)  
+<span class="LineNumber"> 007 </span>		ติธา  ปภินฺนมาตงฺคา  		อุปชีวนฺติ  ตํ  สรํ ฯ  
+<span class="LineNumber"> 008 </span>		กินฺนรา  วานรา  เจว  			อโถปิ  วนกมฺมิกา  
+<span class="LineNumber"> 009 </span>		เจตา  จ  ลุทฺทกา  เจว  		อุปชีวนฺติ  ตํ  สรํ ฯ  
+<span class="LineNumber"> 010 </span>		ตินฺทุกานิ  ปิยาลานิ  			มธุเก  กาสมาริโย  (๔)  
+<span class="LineNumber"> 011 </span>		ธุวํ  ผลานิ  ธาเรนฺติ  			อวิทูเร  มมสฺสมํ ฯ  
+<span class="LineNumber"> 012 </span>		โกสุมฺพา  สฬลา  นีปา  		สาทุผลสมายุตา  (๕)  
+<span class="LineNumber"> 013 </span>		ธุวํ  ผลานิ  ธาเรนฺติ  			อวิทูเร  มมสฺสมํ ฯ  
+<span class="LineNumber"> 014 </span>		หรีตกา  อามลกา  			อมฺพชมฺพุวิภีตกา  (๖)  
+<span class="LineNumber"> 015 </span>		โกลา  ภลฺลาตกา  พิลฺลา  		ผลานิ  ธารยนฺติ  เต ฯ  
+<span class="LineNumber"> 016 </span>		อาลุวา  จ  กฬมฺพา  จ  		พิฬาลีตกฺกฬานิ  จ  
+<span class="LineNumber"> 017 </span>		ชีวกา  สมฺพกา  (๗)  เจว  		พหุกา  มม  อสฺสเม.  
+<span class="LineNumber"> 018 </span>		อสฺสมสฺสาวิทูรมฺหิ  			ตฬากาสุํ  (๘)  สุนิมฺมิตา  
+<span class="LineNumber"> 019 </span>		อจฺโฉทกา  สีตชลา  			สุปติตฺถา  มโนรมา ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. ปสทา  มิคา  วราหา  จ  วกา  เภรณิฑกา  พหู  ฯ  ๒.  สฺยา.  
+<span class="LineNumber"> 021 </span>#สุตฺตโปตา  ฯ  ๔.  สฺยา. มธุกา  กาสมาริโย  ฯ  ๕.  สฺยา. โกสุมฺภา 
+<span class="LineNumber"> 022 </span>#สลฬา  นีปา  สารผลสมายุตา  ๖.  สฺยา. ....วิเภทกา  ฯ  ๘.  สฺยา.
+<span class="LineNumber"> 023 </span>#ตฬากาสิ  ฯ  ๓  ม.  สุกโปตา  

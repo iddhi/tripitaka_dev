@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>					       <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                   	<H2>การนับจำนวนวาระในปัจจนียะ</H2> 
+<span class="LineNumber"> 003 </span>		[๖๐]  ในนอธิปติปัจจัย มี  ๓ วาระ    ในนปุเรชาตปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 004 </span>ในนปัจฉาชาตปัจจัย มี ๓ วาระ   ในนอาเสวนปัจจัย มี ๙ วาระ    ในนวิปาก-
+<span class="LineNumber"> 005 </span>ปัจจัย มี ๒ วาระ  ในนวิปปยุตตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>          	สหชาตวาระก็ดี ฯลฯ  สัมปยุตตวาระก็ดี  พึงให้พิสดารเหมือนปฏิจจ- 
+<span class="LineNumber"> 007 </span>วาระ.                                 
+<span class="LineNumber"> 008 </span>                         	        <H1>เหตุบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 009 </span>                              	     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 010 </span>                             	    <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 011 </span>		[๖๑]  ๑.  เหตุธรรมที่เป็นวิปากธรรม  เป็นปัจจัยแก่เหตุธรรม
+<span class="LineNumber"> 012 </span>ที่เป็นวิปากธรรม  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 013 </span>                 	๒.  เหตุธรรมที่เป็นวิปากธัมมธรรม   เป็นปัจจัยแก่เหตุ-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นวิปากธัมมธรรม  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                	๓.  เหตุธรรมที่เป็นเนววิปากนวิปากธัมมธรรม    เป็น
+<span class="LineNumber"> 016 </span>ปัจจัยแก่เหตุธรรมที่เป็นเนววิปากนวิปากธัมมธรรม   ด้วยอำนาจของ
+<span class="LineNumber"> 017 </span>เหตุปัจจัย

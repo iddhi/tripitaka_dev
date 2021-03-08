@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  170
+			
+<span class="LineNumber"> 002 </span>		อกฺกนฺเต จ ปเท ทิสฺวา	ติสฺสนามสฺส สตฺถุโน  
+<span class="LineNumber"> 003 </span>		หฏฺโ€ หฏฺเ€น จิตฺเตน (๑)  ปเท จิตฺตํ ปสาทยึ ฯ  
+<span class="LineNumber"> 004 </span>		โกรณฺฑํ ปุปฺผิตํ ทิสฺวา	ปาทปํ ธรณีรุหํ  
+<span class="LineNumber"> 005 </span>		สโกสกํ(๒) คเหตฺวาน	ปทเสฏฺ€ํ อปูชยึ ฯ  
+<span class="LineNumber"> 006 </span>		เตน กมฺเมน สุกเตน	เจตนาปณิธีหิ จ  
+<span class="LineNumber"> 007 </span>		ชหิตฺวา มานุสํ เทหํ	ตาวตึสํ อคจฺฉหํ ฯ  
+<span class="LineNumber"> 008 </span>		ยํ ยํ โย นุปปชฺชามิ(๓)	เทวตฺตํ อถ มานุสํ  
+<span class="LineNumber"> 009 </span>		โกรณฺฑกฉวี โหมิ		สุปฺปภาโส(๔) ภวามหํ ฯ  
+<span class="LineNumber"> 010 </span>		เทฺวนวุเต อิโต กปฺเป	ยํ กมฺมมกรึ ตทา  
+<span class="LineNumber"> 011 </span>		ทุคฺคตึ นาภิชานามิ	ปทปูชายิทํ (๕) ผลํ ฯ  
+<span class="LineNumber"> 012 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	อรหตฺตํ ปน ปตฺวา อฺํ พฺยากโรนฺโต  
+<span class="LineNumber"> 014 </span>		อนุวสฺสิโก ปพฺพชิโต	ปสฺส ธมฺมสุธมฺมตํ  
+<span class="LineNumber"> 015 </span>		ติสฺโส วิชฺชา อนุปฺปตฺตา	กตํ พุทฺธสฺส สาสนนฺติ(๖)  
+<span class="LineNumber"> 016 </span>อิมํ คาถํ อภาสิ ฯ 
+<span class="LineNumber"> 017 </span>	ตตฺถ  อนุวสฺสิโกติ  อนุคโต  อุปคโต  วสฺสํ  อนุวสฺโส  
+<span class="LineNumber"> 018 </span>อนุวสฺโสว  อนุวสฺสิโก ฯ  
+<span class="LineNumber"> 019 </span># ๑. สี. หฏฺโ€ ปหฏฺ€จิตฺโตหํ ฯ  ๒. สฺยา. สโกฏิกํ ฯ ยุ. สโกฏกํ ฯ
+<span class="LineNumber"> 020 </span># ๓. สฺยา. โยนูปปชฺชามิ ฯ  ๔. สฺยา. โกรณฺฑวณฺณโกเยว สปฺปภาโส ฯ
+<span class="LineNumber"> 021 </span># ๕. สี. ปุปฺผปูชายิทํ ฯ  ๖. ขุ. เถร. ๒๖/๑๖๑/๒๖๖ ฯ 

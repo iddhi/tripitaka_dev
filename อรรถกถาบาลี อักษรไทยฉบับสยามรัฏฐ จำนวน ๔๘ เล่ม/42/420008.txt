@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  8
+
+<span class="LineNumber"> 002 </span>จ  พฺยาธิปีฬิโต  ปุริโส  วิชฺชมาเน  พฺยาธิติกิจฺฉเก  เวชฺเช สเจ 
+<span class="LineNumber"> 003 </span>ตํ เวชฺชํ  คเวสิตฺวา  พฺยาธึ  น  ติกิจฺฉาเปติ  น  โส  เวชฺชสฺส  
+<span class="LineNumber"> 004 </span>โทโส  ปุริสสฺเสว โทโส ฯ  เอวเมว  โย  กิเลสพฺยาธิปีฬิโต  
+<span class="LineNumber"> 005 </span>กิเลสวูปสมมคฺคโกวิทํ  วิชฺชมานเมว  อาจริยํ  น  คเวสติ ตสฺเสว 
+<span class="LineNumber"> 006 </span>โทโส น กิเลสวินาสกสฺส อาจริยสฺส โทโสติ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 007 </span>		ยถา คูถคโต ปุริโส		ตฬากํ ทิสฺวาน ปูริตํ  
+<span class="LineNumber"> 008 </span>		น คเวสติ ตํ ตฬากํ		น โทโส ตฬากสฺส โส ฯ  
+<span class="LineNumber"> 009 </span>		เอวํ กิเลสมลโธเว		วิชฺชนฺเต อมตนฺตเฬ  
+<span class="LineNumber"> 010 </span>		น คเวสติ ตํ ตฬากํ		น โทโส อมตนฺตเฬ ฯ  
+<span class="LineNumber"> 011 </span>		ยถา อรีหิ ปริรุทฺโธ		วิชฺชนฺเต คมนปเถ(๑)  
+<span class="LineNumber"> 012 </span>		น ปลายติ โส ปุริโส	น โทโส อฺชสสฺส โส ฯ  
+<span class="LineNumber"> 013 </span>		เอวํ กิเลสปริรุทฺโธ		วิชฺชมาเน สิเว ปเถ  
+<span class="LineNumber"> 014 </span>		น คเวสติ ตํ มคฺคํ		น โทโส สิวมฺชเส ฯ  
+<span class="LineNumber"> 015 </span>		ยถาปิ พฺยาธิโต ปุริโส	วิชฺชมาเน ติกิจฺฉเก  
+<span class="LineNumber"> 016 </span>		น ติกิจฺฉาเปติ ตํ พฺยาธึ	น โทโส โส ติกิจฺฉเก ฯ  
+<span class="LineNumber"> 017 </span>		เอวํ กิเลสพฺยาธีหิ		ทุกฺขิโต ปริปีฬิโต  
+<span class="LineNumber"> 018 </span>		น คเวสติ ตํ อาจริยํ		น โทโส โส วินายเกติ ฯ  
+<span class="LineNumber"> 019 </span>	อปรมฺปิ  จินฺเตสิ  ยถา  มณฺฑนกชาติโก  ปุริโส  กณฺเ€  
+<span class="LineNumber"> 020 </span>อาสตฺตํ  กุณปํ  ฉฑฺเฑตฺวา  สุขํ  คจฺเฉยฺย  เอวํ  มยาปิ  อิมํ  
+<span class="LineNumber"> 021 </span># ๑. สพฺพตฺถ คมเน ปเถ ฯ

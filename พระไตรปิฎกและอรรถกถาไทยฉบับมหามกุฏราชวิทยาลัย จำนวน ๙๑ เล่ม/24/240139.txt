@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๖.   ปัชโชตสูตร</H1>
+
+<span class="LineNumber"> 002 </span>         [๖๘]    เทวดากล่าวว่า
+<span class="LineNumber"> 003 </span>                             <B>โลกย่อมรุ่งเรืองเพราะแสงสว่าง
+<span class="LineNumber"> 004 </span>                   ทั้งหลายใด แสงสว่างทั้งหลายนั้นย่อมมีอยู่
+<span class="LineNumber"> 005 </span>                   เท่าไรในโลก   ข้าพระองค์ทั้งหลายมาเพื่อ 
+<span class="LineNumber"> 006 </span>                   จะทูลถามพระผู้มีพระภาคเจ้า ไฉนจะรู้จัก
+<span class="LineNumber"> 007 </span>                   แสงสว่างที่ทูลถามนั้น.</B>
+<span class="LineNumber"> 008 </span>         [๖๙]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>แสงสว่างทั้งหลายในโลกมีอยู่  ๔
+<span class="LineNumber"> 010 </span>                   อย่าง    แสงสว่างที่  ๕   มิได้มีในโลกนี้
+<span class="LineNumber"> 011 </span>                   ดวงอาทิตย์สว่างในกลางวัน     ดวงจันทร์
+<span class="LineNumber"> 012 </span>                   สว่างในกลางคืน  อนึ่ง  ไฟย่อมรุ่งเรืองใน
+<span class="LineNumber"> 013 </span>                   กลางวันและกลางคืนทุกหนแห่ง     พระ-
+<span class="LineNumber"> 014 </span>                   สัมพุทธเจ้าประเสริฐกว่าแสงสว่างทั้งหลาย
+<span class="LineNumber"> 015 </span>                   แสงสว่างของพระสัมพุทธเจ้า    เป็นแสง-
+<span class="LineNumber"> 016 </span>                   สว่างอย่างเยี่ยม.</B>

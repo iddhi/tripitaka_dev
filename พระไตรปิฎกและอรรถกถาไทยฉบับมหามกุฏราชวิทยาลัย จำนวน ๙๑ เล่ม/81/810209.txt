@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>ญาณัง  อนารัมมณันติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๓๓๘]    <B>สกวาที</B>   ญาณ เป็นธรรมไม่มีอารมณ์ หรือ ?
+<span class="LineNumber"> 003 </span>                         <B>ปรวาที</B>     ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                         ส. เป็นไป   เป็นนิพพาน   เป็นจักขายตนะ   ฯลฯ   เป็น
+<span class="LineNumber"> 005 </span>โผฏฐัพพายตนะ    หรือ ?
+<span class="LineNumber"> 006 </span>                         ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                         ส. ญาณ   เป็นธรรมไม่มีอารมณ์ หรือ ?
+<span class="LineNumber"> 008 </span>                         ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                         ส. ปัญญา   ปัญญินทรีย์  ปัญญาพละ  สัมมาทิฏฐิ  ธัมม-
+<span class="LineNumber"> 010 </span>วิจยสัมโพชฌงค์ เป็นธรรมไม่มีอารมณ์ หรือ ?
+<span class="LineNumber"> 011 </span>                         ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>                         ส. ปัญญา  ปัญญินทรีย์ ปัญญาพละ  สัมมาทิฏฐิ  ธัมม-
+<span class="LineNumber"> 013 </span>วิจยสัมโพชฌงค์ เป็นธรรมมีอารมณ์ หรือ ?
+<span class="LineNumber"> 014 </span>                         ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                         ส. ญาณ เป็นธรรมมีอารมณ์ หรือ ?
+<span class="LineNumber"> 016 </span>                         ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 017 </span>         [๑๓๓๙]    ส. ญาณเป็นธรรมไม่มีอารมณ์ หรือ ?
+<span class="LineNumber"> 018 </span>                         ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                         ส. นับเนื่องในขันธ์ไหน ?
+<span class="LineNumber"> 020 </span>                         ป. นับเนื่องในสังขารขันธ์.
+<span class="LineNumber"> 021 </span>                         ส. สังขารขันธ์เป็นธรรมไม่มีอารมณ์ หรือ ?
+<span class="LineNumber"> 022 </span>                         ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>กตมา  ทส</B>				สัญญา  ๑๐  อะไรบ้าง  
+<span class="LineNumber"> 002 </span><B>อนิจฺจสญฺา</B>				ความจำหมายว่าไม่เที่ยง ๑
+<span class="LineNumber"> 003 </span><B>อนตฺตสญฺา</B>				ความจำหมายว่าไม่ใช่ตัวตน ๑
+<span class="LineNumber"> 004 </span><B>อสุภสญฺา</B>				ความจำหมายว่าไม่งาม ๑
+<span class="LineNumber"> 005 </span><B>อาทีนวสญฺา</B>			ความจำหมายว่าเป็นโทษ ๑
+<span class="LineNumber"> 006 </span><B>ปหานสฺา</B>				ความจำหมายในการละ ๑
+<span class="LineNumber"> 007 </span><B>วิราคสญฺา</B>				ความจำหมายในธรรมอันปราศจาก
+<span class="LineNumber"> 008 </span>					ราคะ ๑
+<span class="LineNumber"> 009 </span><B>นิโรธสญฺา</B>				ความจำหมายในธรรมเป็นที่ดับ ๑
+<span class="LineNumber"> 010 </span><B>สพฺพโลเก อนภิรตสญฺา</B>		ความจำหมายความไม่ยินดีในโลก
+<span class="LineNumber"> 011 </span>					ทั้งปวง ๑
+<span class="LineNumber"> 012 </span><B>สพฺพสงฺขาเรสุ อนิจฺจสญฺา<SUP>๑</SUP></B>	ความจำหมายความไม่ปรารถนา
+<span class="LineNumber"> 013 </span>					ในสังขารทั้งปวง ๑.
+<span class="LineNumber"> 014 </span>	<B>๑.  กตมา  จานนฺท</B>		ดูก่อนอานนท์  อนิจจสัญญาเป็น
+<span class="LineNumber"> 015 </span><B>อนิจฺจสญฺา</B>				ไฉนเล่า ?
+<span class="LineNumber"> 016 </span><B>อิธานนฺท  ภิกฺขุ</B>			ดูก่อนอานนท์ ภิกษุในธรรมวินัยนี้
+<span class="LineNumber"> 017 </span><B>อรญฺคโต  วา</B>			ไปที่ป่าก็ตาม
+<span class="LineNumber"> 018 </span><B>รุกฺขมูลคโต วา</B>			ไปที่โคนไม้ก็ตาม
+
+<span class='footnote'>๑.  ท่านว่าควรจะเป็นอนิจฺจสญฺา  หรืออนิฏฺ€สญฺา  แต่ยังหาหลักฐานไม่ได้แน่นอนลงไป.</span>
+

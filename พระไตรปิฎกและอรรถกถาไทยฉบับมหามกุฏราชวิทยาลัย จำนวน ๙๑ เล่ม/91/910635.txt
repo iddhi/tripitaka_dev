@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>           [๓๘๗] ๑.  <B>ธรรมที่ไม่ใช่อนารัมมณธรรม  ที่ไม่ใช่กุศล  อาศัย 
+<span class="LineNumber"> 002 </span>ธรรมที่เป็นอนารัมมณธรรม  ที่เป็นอัพยากตะ   เกิดขึ้น   เพราะเหตุ  
+<span class="LineNumber"> 003 </span>ปัจจัย</B> 
+<span class="LineNumber"> 004 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อนารัมมณธรรม     ที่ไม่ใช่อกุศล 
+<span class="LineNumber"> 005 </span>อาศัยธรรมที่เป็นอนารัมมณธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 006 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                       ๓.  <B>ธรรมที่ไม่ใช่อนารัมมณธรรม  ที่ไม่ใช่กุศล และ
+<span class="LineNumber"> 008 </span>ธรรมที่ไม่ใช่อนารัมมณธรรม    ที่ไม่ใช่อกุศล     อาศัยธรรมที่เป็น
+<span class="LineNumber"> 009 </span>อนารัมมณธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 010 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๓๘๘]  ในเหตุปัจจัย  มี ๓   วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>           <I>กุสลติกสารัมมณทุกนกุสลติกนสารัมมณทุกะ  จบ</I>	

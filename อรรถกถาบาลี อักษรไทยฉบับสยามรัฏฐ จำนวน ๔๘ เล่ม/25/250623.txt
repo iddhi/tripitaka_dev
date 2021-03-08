@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ตติยวคฺเค วลฺลิยตฺเถรคาถาวณฺณนา หน้า 623
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  ยํ กิจฺจํ ทฬฺหวีริเยนาติ ทฬฺเหน วิริเยน ถิเรน
+<span class="LineNumber"> 003 </span>ปรกฺกเมน ทฬฺหวิริเยน วา  ปุริสโธรเยฺหน ยํ  กิจฺจํ กาตพฺพํ
+<span class="LineNumber"> 004 </span>ปฏิปชฺชิตพฺพํ ฯ 
+<span class="LineNumber"> 005 </span>	ยํ กิจฺจํ โพทฺธุมิจฺฉตาติ จตฺตาริ  อริยสจฺจานิ นิพฺพานเมว 
+<span class="LineNumber"> 006 </span>วา โพทฺธุํ พุชฺฌิตุํ อิจฺฉนฺเตน ปฏิวิชฺฌิตุกาเมน ยํ  กิจฺจํ 
+<span class="LineNumber"> 007 </span>กรณียํ ฯ
+<span class="LineNumber"> 008 </span>	กริสฺสํ นาวรชฺฌิสฺสนฺติ ตมหํ ทานิ กริสฺสํ น [๑]
+<span class="LineNumber"> 009 </span>วิราเธสฺสํ  ยถานุสิฏฺ€ํ  ปฏิปชฺชิสฺสามิ ฯ  
+<span class="LineNumber"> 010 </span>	ปสฺส  วีริยํ  ปรกฺกมนฺติ  ยถา  ปฏิปชฺชมาเน ธมฺเม วิธินา(๒)
+<span class="LineNumber"> 011 </span>อีรณโต  (๓)  วีริยํ  ปรํ  ปรํ  €านํ  (๔) อกฺกมนโต ปรกฺกโมติ 
+<span class="LineNumber"> 012 </span>จ  ลทฺธนามํ สมฺมาวายามํ ปสฺส น สทฺธเมวาติ (๕) อตฺตโน
+<span class="LineNumber"> 013 </span>กตฺตุกามตํ ทสฺเสติ ฯ  
+<span class="LineNumber"> 014 </span>	ตวฺจาติ  กมฺมฏฺ€านทายกํ  กลฺยาณมิตฺตํ  อาลปติ ฯ
+<span class="LineNumber"> 015 </span>	เมติ มยฺหํ ฯ
+<span class="LineNumber"> 016 </span>	มคฺคมกฺขาหีติ อริยมคฺคํ  กเถหิ  โลกุตฺตรมคฺคสมฺปาปกํ 
+<span class="LineNumber"> 017 </span>จตุสจฺจกมฺมฏฺ€านํ  กเถหีติ  อตฺโถ ฯ 
+<span class="LineNumber"> 018 </span>	อฺชสนฺติ  อุชุกํ  มชฺฌิมปฏิปทาภาเวน  อนฺตทฺวยสฺส 
+<span class="LineNumber"> 019 </span>อนุปคมนโต ฯ  อมเต  นิพฺพาเน สมฺปาปกภาเวน  ปติฏฺ€ิตตฺตา 
+<span class="LineNumber"> 020 </span># ๑. สี. เอตฺถนฺตเร ธมฺเมติ ทิสฺสติ ฯ  ๒. สี. ยถาปฏิปชฺชมานวิธินา ฯ
+<span class="LineNumber"> 021 </span># ๓. สี. ยุ. กรณโต ฯ  ๔. สี. ปทฏฺ€านํ ฯ  ๕. สี. สทฺทเมวาติ ฯ 

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>กามฉันทะเป็นต้น. ก็ในที่นี้   <B>จิต</B> 
+<span class="LineNumber"> 002 </span>               มีการรู้นิวรณ์  เป็น <B>ลักษณะ</B>,  
+<span class="LineNumber"> 003 </span>               มีการเกิดก่อนและเป็นประธานในธรรมทั้งปวง  เป็น  <B>กิจ</B>,
+<span class="LineNumber"> 004 </span>               มีการเกิดขึ้นต่อเนื่องกันไม่ขาดสาย   เป็น   <B>ปัจจุปัฏฐาน</B>,
+<span class="LineNumber"> 005 </span>               มีนามรูป  เป็น  <B>ปทัฏฐาน</B>. 
+
+<span class="LineNumber"> 006 </span>                   <H1>๔๗.  อรรถกถา ญาณวิวัฏญาณุทเทส</H1>
+<span class="LineNumber"> 007 </span>                        <H2>ว่าด้วย  ญาณวิวัฏญาณ</H2>
+<span class="LineNumber"> 008 </span>            คำว่า  <B>สุญฺเต  ปญฺา - ปัญาในความว่าง</B>  ความว่า
+<span class="LineNumber"> 009 </span>ปัญญาเป็นเครื่องตามความเห็นโดยความเป็นอนัตตา      อันเป็นไปแล้ว
+<span class="LineNumber"> 010 </span>ในอนัตตธรรมและธรรมอันเนื่องด้วยอนัตตะ    เพราะอัตตะและธรรมะ
+<span class="LineNumber"> 011 </span>อันเนื่องด้วยอัตตะเป็นของว่าง.
+<span class="LineNumber"> 012 </span>          บทว่า  <B>าณวิวฏฺเฏ าณํ - ญาณในความหลีกออกด้วย
+<span class="LineNumber"> 013 </span>ญาณ</B> ความว่า ญาณนั่นแหละย่อมหลีกออกจากความยึดมั่นถือมั่น
+<span class="LineNumber"> 014 </span>ฉะนั้นจึงชื่อว่า  วิวัฏฏะ - ญาณอันเป็นเหตุแห่งการหลีกออกด้วยญาณ
+<span class="LineNumber"> 015 </span>นั้น.

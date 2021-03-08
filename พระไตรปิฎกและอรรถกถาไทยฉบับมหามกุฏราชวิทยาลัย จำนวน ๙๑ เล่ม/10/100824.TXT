@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ดูก่อนอุบาลี     ภิกษุประกอบด้วยองค์  ๕  นี้แล     สงฆ์พึงสมมติด้วย  
+<span class="LineNumber"> 002 </span>อุพพาหิกา   
+                                             
+<span class="LineNumber"> 003 </span>                           <H1>ไม่สมมติด้วยอุพพาหิกาอีกนัยหนึ่ง</H1> 
+<span class="LineNumber"> 004 </span>           ก่อนอุบาลี    ภิกษุประกอบด้วยองค์แม้อื่นอีก  ๕    สงฆ์ไม่พึงสมมติ
+<span class="LineNumber"> 005 </span>ด้วยอุพพาหิกา  องค์ ๕ อะไรบ้าง  คือ :-
+<span class="LineNumber"> 006 </span>           ๑.   โกรธ
+<span class="LineNumber"> 007 </span>           ๒.   พยาบาท
+<span class="LineNumber"> 008 </span>           ๓.   เบียดเบียน
+<span class="LineNumber"> 009 </span>           ๔.   ยั่วให้โกรธ                                            
+<span class="LineNumber"> 010 </span>           ๕.   ไม่อดทน  ไม่รับอนุสาสนีโดยเคารพ
+<span class="LineNumber"> 011 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์  ๕  นี้แล    สงฆ์ไม่พึงสมมติด้วย
+<span class="LineNumber"> 012 </span>อุพพาหิกา
+
+<span class="LineNumber"> 013 </span>                                       <H1>สมมติด้วยอุพพาหิกา</H1> 
+<span class="LineNumber"> 014 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕  สงฆ์พึงสมมติด้วยอุพพาหิกา
+<span class="LineNumber"> 015 </span>องค์ ๕ อะไรบ้าง  คือ  :-
+<span class="LineNumber"> 016 </span>           ๑.   ไม่โกรธ
+<span class="LineNumber"> 017 </span>           ๒.   ไม่พยาบาท
+<span class="LineNumber"> 018 </span>           ๓.   ไม่เบียดเบียน
+<span class="LineNumber"> 019 </span>           ๔.   ไม่ยั่วให้โกรธ
+<span class="LineNumber"> 020 </span>           ๕.   เป็นผู้อดทน  มีปกติรับอนุสาสนีโดยเคารพ

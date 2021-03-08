@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>การนับจำนวนวาระในปัจจนียะ</H2> 
+<span class="LineNumber"> 002 </span>           ในนเหตุปัจจัย  มี ๒ วาระ. 
+<span class="LineNumber"> 003 </span>           ในสหชาตวาระก็ดี  ฯลฯ ในสัมปยุตตวาระก็ดี  พึงให้พิสดารทุกวาระ.
+
+<span class="LineNumber"> 004 </span>                               <H2>กุศลบทปัญหาวาระ</H2>
+<span class="LineNumber"> 005 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>           [๑๙๖] ๑.  <B>ธรรมที่ไม่ใช่กุศลที่ไม่ใช่นเหตุธรรม   เป็นปัจจัย
+<span class="LineNumber"> 008 </span>แก่ธรรมที่ไม่ใช่กุศลที่ไม่ใช่นเหตุธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 009 </span>                       ๒.  <B>ธรรมที่ไม่ใช่กุศลที่ไม่ใช่นเหตุธรรม   เป็นปัจจัย
+<span class="LineNumber"> 010 </span>แก่ธรรมที่ไม่ใช่กุศลที่เป็นนเหตุธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 011 </span>                       ๓.  <B>ธรรมที่ไม่ใช่กุศลที่ไม่ใช่นเหตุธรรม   เป็นปัจจัย
+<span class="LineNumber"> 012 </span>แก่ธรรมที่ไม่ใช่กุศลที่เป็นนเหตุธรรม และธรรมที่ไม่ใช่กุศลที่ไม่ใช่
+<span class="LineNumber"> 013 </span>นเหตุธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+
+<span class="LineNumber"> 014 </span>                              <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 015 </span>           [๑๙๗]  ๑.  <B>ธรรมที่ไม่ใช่กุศลที่เป็นนเหตุธรรม เป็นปัจจัยแก่
+<span class="LineNumber"> 016 </span>ธรรมที่ไม่ใช่กุศลที่เป็นนเหตุธรรม  ด้วยอำนาจของอารัมมณปัจจัย.</B>

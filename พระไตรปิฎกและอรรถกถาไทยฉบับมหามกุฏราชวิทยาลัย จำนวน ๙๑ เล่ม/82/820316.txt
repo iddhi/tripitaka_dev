@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าธัมมะ,                 ชื่อว่าอายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 002 </span>ธรรมที่ชื่อว่าอายตนะ,                      ชื่อว่าโสตะ   ใช่ไหม   ? 
+<span class="LineNumber"> 003 </span>                                         ฯ ล ฯ
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าอายตนะ,            ชื่อว่ามโน  ใช่ไหม   ?
+<span class="LineNumber"> 005 </span>         (พึงผูกจักกนัย ).
+<span class="LineNumber"> 006 </span>               <I>สุทธายตนมูลจักกวาระ  อนุโลม  จบ</I>

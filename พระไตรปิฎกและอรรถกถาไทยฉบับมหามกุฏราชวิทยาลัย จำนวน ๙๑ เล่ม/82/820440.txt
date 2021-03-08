@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า    ธัมมายตนะไม่ใช่เคยเกิดแก่บุคคลใด,     จักขายตนะ
+<span class="LineNumber"> 002 </span>ก็ไม่ใช่กำลังเกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ไม่มี. 
+<span class="LineNumber"> 004 </span>    <I>จบ   จักขายตนมูละ  ฆานายตนะ  ฯ ล ฯ  รูปายตนะ  มนายตนะ
+<span class="LineNumber"> 005 </span>                                         ธัมมายตนมูลี</I>
+<span class="LineNumber"> 006 </span>                                     <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 007 </span>                   <H1>ฆานายตนะ ฯ ล ฯ  รูปายตนะ  มนายตนมูล</H1>
+<span class="LineNumber"> 008 </span><H2>ฆานายตนะ  ฯ ล ฯ  รูปายตนะ  มนายตนมูละ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 009 </span>         [๔๓๐]   ฆานายตนะ  ฯ ล ฯ  รูปายตนะ   มนายตนะมูละไม่ใช่
+<span class="LineNumber"> 010 </span>กำลังเกิดแก่บุคคลใด, ธัมมายตนะก็ไม่ใช่เคยเกิดแก่บุคคลนั้น ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         เคยเกิด.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า     ธัมมายตนะไม่ใช่เคยเกิแก่บุคคลใด,     มนายตนะ
+<span class="LineNumber"> 013 </span>ก็ไม่ใช่กำลังเกิดแก่บุคคลนั้น   ใช่ไหม  ?                                      
+<span class="LineNumber"> 014 </span>         ไม่มี.
+<span class="LineNumber"> 015 </span>  <I>จบ   ฆานายตนะ  ฯ ล ฯ  รูปายตนะ  มนายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 016 </span>             <I>ฆานายตนะ   ฯล ฯ   รูปายตนะ   มนายตนมูล  จบ</I>

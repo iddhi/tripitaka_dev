@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                             	 <H1>๓.  นันทกเปตวัตถุ</H1>
+
+<span class="LineNumber"> 002 </span>                	<H2>ว่าด้วยขัดขวางการให้ทานไปเกิดเป็นเปรต</H2>       
+
+<span class="LineNumber"> 003 </span>         		<B>[๑๒๓]    มีพระราชาพระองค์หนึ่ง     ทรงพระนาม
+<span class="LineNumber"> 004 </span>     		ว่าปิงคละเป็นใหญ่ในสุรัฏฐประเทศ     เสด็จไป
+<span class="LineNumber"> 005 </span>      		เฝ้าเจ้าพระโมริยะแล้ว     กลับมาสู่สุรัฏฐประเทศ
+<span class="LineNumber"> 006 </span>      		เสด็จมาถึงที่มีเปือกตม          ในเวลาเที่ยงซึ่งเป็น
+<span class="LineNumber"> 007 </span>     		เวลาร้อน  ทอดพระเนตรเห็นทางอันรื่นรมย์ เป็น
+<span class="LineNumber"> 008 </span>    		ทางที่เปรตเนรมิตไว้     จึงตรัสบอกนายสารถีว่า
+<span class="LineNumber"> 009 </span>    		ทางนี้น่ารื่นรมย์ เป็นทางปลอดภัย  มีความสวัสดี
+<span class="LineNumber"> 010 </span>    		ไม่มีอุปัทวันตราย   ดูก่อนนายสารถี   ท่านจงตรง
+<span class="LineNumber"> 011 </span>     		ไปทางนี้แหละ    เมื่อเราไปโดยทางนี้    จักถึงเขต
+<span class="LineNumber"> 012 </span>     		เมืองสุรัฏฐะเร็วทีเดียว   พระเจ้าสุรัฏฐ์ได้เสด็จไป
+<span class="LineNumber"> 013 </span>   		โดยทางนั้น  พร้อมด้วยจตุรงคเสนา  บุรุษคนหนึ่ง
+<span class="LineNumber"> 014 </span>    		สะดุ้งตกใจกลัว     ได้กราบทูลพระเจ้าสุรัฏฐ์ว่า
+<span class="LineNumber"> 015 </span>    		พวกเราเดินทางผิด     เป็นทางน่ากลัวขนพอง
+<span class="LineNumber"> 016 </span>     		สยองเกล้า  เพราะทางปรากฏเฉพาะข้างหน้า  แต่
+<span class="LineNumber"> 017 </span>       		ข้างหลังไม่ปรากฏ       พวกเราเดินทางผิดเสียแล้ว
+<span class="LineNumber"> 018 </span>    		พวกเราเห็นจะเดินมาใกล้สำนักพวกอมนุษย์
+<span class="LineNumber"> 019 </span>   		กลิ่นอมนุษย์ฟุ้งไป     ข้าพระองค์ได้ยินเสียงอัน
+<span class="LineNumber"> 020 </span>    		พิลึกน่าสะพึงกลัว     พระเจ้าสุรัฏฐ์ทรงสะดุ้ง</B>

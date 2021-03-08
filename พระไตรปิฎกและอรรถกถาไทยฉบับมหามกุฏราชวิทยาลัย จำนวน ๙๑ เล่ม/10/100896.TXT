@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                             <B>ตอบว่า บุคคลที่ไม่ควรให้อุปสมบท  
+<span class="LineNumber"> 002 </span>                   มี  ๓ พวก กรรมสงเคราะห์มี  ๓ อย่าง บุคคล
+<span class="LineNumber"> 003 </span>                   ที่ถูกนาสนะตรัสไว้  ๓  พวก  อนุสาวนาเดียว
+<span class="LineNumber"> 004 </span>                   กัน สำหรับบุคคลมีจำนวน  ๓  คน.</B>
+
+<span class="LineNumber"> 005 </span>                 <H2>ต้องอาบัติเพราะอทินนาทานเป็นต้น</H2>
+<span class="LineNumber"> 006 </span>                             [๑,๒๕๓]  <B>ถามว่า อาบัติเพราะอทิน-
+<span class="LineNumber"> 007 </span>                   นาทาน   มีเท่าไร    อาบัติเพราะเมถุนเป็น
+<span class="LineNumber"> 008 </span>                   ปัจจัยมีเท่าไร  เมื่อตัดเป็นอาบัติเท่าไรเพราะ
+<span class="LineNumber"> 009 </span>                   การทิ้งเป็นปัจจัยเป็นอาบัติเท่าไร
+<span class="LineNumber"> 010 </span>                             ตอบว่า   อาบัติเพราะอทินนาทานมี
+<span class="LineNumber"> 011 </span>                   ๓  อาบัติเพราะเมถุนเป็นปัจจัยมี  ๔  เมื่อตัด
+<span class="LineNumber"> 012 </span>                   เป็นอาบัติ  ๓  ตัว  อาบัติเพราะการทิ้งเป็น
+<span class="LineNumber"> 013 </span>                   ปัจจัยมี  ๕.</B>
+
+<span class="LineNumber"> 014 </span>	                    <H2>ปรับอาบัติควบกันเป็นต้น</H2>
+<span class="LineNumber"> 015 </span>                             [๑,๒๕๔]  <B>ถามว่า  ในภิกขุโมวาทก-
+<span class="LineNumber"> 016 </span>                   วรรค  อาบัติทุกกฏ  กับปาจิตตีย์  หมวดที่
+<span class="LineNumber"> 017 </span>                   ตรัสไว้เป็น  ๙  ในสิกขาบทที่  ๑ นั้น   เป็นเท่าไร
+<span class="LineNumber"> 018 </span>                   ภิกษุณีเท่าไร  เป็นอาบัติแก่ภิกษุเพราะจีวร
+<span class="LineNumber"> 019 </span>                             ตอบในภิกขุโนวาทกวรรค  อาบัติ
+<span class="LineNumber"> 020 </span>                   ทุกกฏกับปาจิตตีย์  ที่ตรัสไว้หมวด  ๙  ใน</B>

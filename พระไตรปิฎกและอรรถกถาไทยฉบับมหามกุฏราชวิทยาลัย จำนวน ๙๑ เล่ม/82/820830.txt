@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span><H2>๓.  ทุกขสัจจมูละ  มัคคสัจจมูลี</H2> 
+<span class="LineNumber"> 002 </span>                                             ฯ ล ฯ
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าสัจจะ,   ชื่อว่ามัคคสัจจะ    ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         มัคคสัจจะชื่อว่าสัจจะก็ใช่        ชื่อว่ามัคคสัจจะก็ใช่,     ธรรมที่
+<span class="LineNumber"> 005 </span>เหลือนอกนั้นชื่อว่าสัจจะ   แต่ไม่ชื่อว่ามัคคสัจจะ
+<span class="LineNumber"> 006 </span>                        <I>จบ   ทุกขสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 007 </span>                                    <I>ทุกขสัจจมูล   จบ</I>
+
+<span class="LineNumber"> 008 </span>                                      <H1>สมุทยสัจจมูล</H1>
+<span class="LineNumber"> 009 </span><H2>๑.  สมุทยสัจจมูละ  ทุกขสัจจมูลี</H2>
+<span class="LineNumber"> 010 </span>         ธรรมที่ชื่อว่าสมุทัย,  ชื่อว่าสมุทยสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ยกเว้นสมุทยสัจจะเสียแล้ว     สมุทัยที่เหลือนอกนั้นชื่อว่าสมุทัย
+<span class="LineNumber"> 012 </span>แต่ไม่ชื่อว่าสมุทยสัจจะ,  สมุทยสัจจะชื่อว่าสมุทัยก็ใช่  ชื่อว่าสมุทยสัจจะ
+<span class="LineNumber"> 013 </span>ก็ใช่.
+<span class="LineNumber"> 014 </span>         ธรรมที่ชื่อว่าสัจจะ,   ชื่อว่าทุกขสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 015 </span>                                            ฯ ล ฯ

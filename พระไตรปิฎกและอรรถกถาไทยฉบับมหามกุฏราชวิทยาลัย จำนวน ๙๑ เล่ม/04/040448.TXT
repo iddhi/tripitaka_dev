@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>					     <H1>หัวข้อประจำเรื่อง</H1>
+<span class="LineNumber"> 002 </span>๑.  <B>อสัมมตภิกขุโนวาทสิกขาบท</B>               ว่าด้วยสั่งสอนภิกษุณี
+<span class="LineNumber"> 003 </span>๒.  <B>อัตถังคตสิกขาบท</B>                                 ว่าด้วยสั่งสอนภิกษุณีเมื่อ
+<span class="LineNumber"> 004 </span>                                                                       อาทิตย์ตกแล้ว
+<span class="LineNumber"> 005 </span>๓.  <B>ภิกขุปัสสยสิกขาบท</B>                             ว่าด้วยสั่งสอนภิกษุณีถึง
+<span class="LineNumber"> 006 </span>                                                                      ในที่อยู่
+<span class="LineNumber"> 007 </span>๔.  <B>อามิสสิกขาบท</B>                                      ว่าด้วยสั่งสอนภิกษุณี
+<span class="LineNumber"> 008 </span>                                                                       เพราะเห็นแก่ลาภ
+<span class="LineNumber"> 009 </span>๕.  <B>จีวรทานสิกขาบท</B>                                  ว่าด้วยให้จีวร
+<span class="LineNumber"> 010 </span>๖.  <B>จีวรสิพพนสิกขาบท</B>                               ว่าด้วยเย็บจีวร
+<span class="LineNumber"> 011 </span>๗.  <B>สังวิธานสิกขาบท</B>                                  ว่าด้วยชักชวนกันเดินทาง
+<span class="LineNumber"> 012 </span>๘.  <B>นาวาภิรุหนสิกขาบท</B>                             ว่าด้วยโดยสารเรือ
+<span class="LineNumber"> 013 </span>๙.  <B>ปริปาจนสิกขาบท</B>                                  ว่าด้วยฉันบิณฑบาตอัน
+<span class="LineNumber"> 014 </span>                                                                        ภิกษุณี
+<span class="LineNumber"> 015 </span>๑๐. <B>รโหนิสัชชสิกขาบท</B>                              ว่าด้วยนั่งในที่ลับ
+<span class="LineNumber"> 016 </span>                                          <I>รวม  ๑๐  สิกขาบท</I>       

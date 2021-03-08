@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  มคฺคสจฺจนิทฺเทสวณฺณนา หน้า 313
+
+<span class="LineNumber"> 002 </span>พฺรหฺมวิหารุเปกฺขา  นาม ฯ  
+<span class="LineNumber"> 003 </span>	ยา  ปน  อุเปกฺขาสมฺโพชฺฌงฺคํ  ภาเวติ วิเวกนิสฺสิตนฺติ (๑)  
+<span class="LineNumber"> 004 </span>เอวมาคตา  สหชาตธมฺมานํ  มชฺฌตฺตาการภูตา  อุเปกฺขา  อยํ  
+<span class="LineNumber"> 005 </span>โพชฺฌงฺคุเปกฺขา  นาม ฯ  
+<span class="LineNumber"> 006 </span>	ยา  ปน  กาเลน  กาลํ  อุเปกฺขานิมิตฺตํ  มนสิกโรตีติ  (๒) 
+<span class="LineNumber"> 007 </span>เอวมาคตา  อนจฺจารทฺธนาติสิถิลวีริยสงฺขาตา อุเปกฺขา อยํ 
+<span class="LineNumber"> 008 </span>วีริยุเปกฺขา นาม ฯ  
+<span class="LineNumber"> 009 </span>	ยา  ปน  กติ  สงฺขารุเปกฺขา  สมถวเสน  อุปฺปชฺชนฺติ  กติ  
+<span class="LineNumber"> 010 </span>สงฺขารุเปกฺขา  วิปสฺสนาวเสน  อุปฺปชฺชนฺติ  อฏฺ€  สงฺขารุเปกฺขา  
+<span class="LineNumber"> 011 </span>สมถวเสน  อุปฺปชฺชนฺติ  ทสสงฺขารุเปกฺขา  วิปสฺสนาวเสน  
+<span class="LineNumber"> 012 </span>อุปฺปชฺชนฺตีติ  (๓)  เอวมาคตา  นีวรณาทิปฺปฏิสงฺขาสนฺติฏฺ€นาคหเณ
+<span class="LineNumber"> 013 </span>มชฺฌตฺตภูตา อุเปกฺขา อยํ สงฺขารุเปกฺขา นาม ฯ  
+<span class="LineNumber"> 014 </span>	ยา  ปน  ยสฺมึ  สมเย  กามาวจรํ  กุสลํ  จิตฺตํ  อุปฺปนฺนํ 
+<span class="LineNumber"> 015 </span>โหติ ฯ  อุเปกฺขาสหคตนฺติ  (๔)  เอวมาคตา  อทุกฺขมสุขสฺิตา  อุเปกฺขา 
+<span class="LineNumber"> 016 </span>อยํ  เวทนุเปกฺขา นาม ฯ  
+<span class="LineNumber"> 017 </span>	ยา  ปน  ยทตฺถิ  ยํ  ภูตํ  ตํ  ปชหติ อุเปกฺขํ ปฏิลภตีติ (๕) 
+<span class="LineNumber"> 018 </span>เอวมาคตา วิจินเน  มชฺฌตฺตภูตา  อุเปกฺขา  อยํ  วิปสฺสนุเปกฺขา  
+<span class="LineNumber"> 019 </span>นาม ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม.ม. ๑๓/๓๓๘/๓๒๖ ฯ ๒. องฺ. ติก. ๒๐/๕๔๒/๓๒๙ ฯ
+<span class="LineNumber"> 021 </span># ๓. ขุ. ปฏิ. ๓๑/๑๓๓/๙๒ ฯ  ๔. อภิ. สงฺ. ๓๔/๑๓๕/๔๒ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. อุ. ๑๔/๙๐/๓๘ ฯ

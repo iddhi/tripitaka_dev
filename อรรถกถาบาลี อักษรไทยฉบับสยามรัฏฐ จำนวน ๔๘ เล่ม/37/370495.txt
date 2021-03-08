@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 495
+
+<span class="LineNumber"> 002 </span>ปงฺกุราติ  ปณฺฑรรุกฺขา(๑) ฯ กุสุมฺภราติ เอกา คจฺฉา ฯ  
+<span class="LineNumber"> 003 </span>ธนุตกฺการีปุปฺเผหีติ  ธนูนฺจ  ตกฺการีนฺจ  ปุปฺเผหิ  อุปโสภิตา ฯ  
+<span class="LineNumber"> 004 </span>สีสปาวารณาหิ  จาติ  สีสเปหิ  จ  วารเณหิ  จ  อุปโสภิตา(๒)ฯ  
+<span class="LineNumber"> 005 </span>อจฺฉิปาติ  อาทโยปิ  รุกฺขาเยว ฯ  เสตเครูตคริกาติ เสตเครู จ
+<span class="LineNumber"> 006 </span>ตครา  จ ฯ  มํสิโกฏฺ€กุลาวราติ  มํสิคจฺฉา  จ  โกฏฺ€คจฺฉา  จ 
+<span class="LineNumber"> 007 </span>กุลาวรา  จ ฯ  อกุฏิลาติ  อุชุกา ฯ  อคฺยาคารํ  สมนฺตโตติ 
+<span class="LineNumber"> 008 </span>อคฺยาคารํ  ปริกฺขิปิตฺวา €ิตาติ อตฺโถ
+<span class="LineNumber"> 009 </span>	[๑๑๕๒]อเถตฺถ อุทกนฺตสฺมึ	พหู ชาตา(๓) ผณิชฺชกา  
+<span class="LineNumber"> 010 </span>		มุคฺคติโย กรติโย		เสวาลํ สีสกํ พหุ(๔)  
+<span class="LineNumber"> 011 </span>		อุทฺธาปวตฺตํ อุลฺลุลิตํ	มกฺขิกา หิงฺคุชาลิกา  
+<span class="LineNumber"> 012 </span>		ทาสิมกฺจโก เจตฺถ	พหู นีเจ กลมฺพกา  
+<span class="LineNumber"> 013 </span>		เอลมฺพรุกฺขาหิ สฺฉนฺนา  รุกฺขา ติฏฺ€นฺติ พฺราหฺมณ  
+<span class="LineNumber"> 014 </span>		สตฺตาหํ ธาริยมานานํ	คนฺโธ เตสํ น ฉิชฺชติ  
+<span class="LineNumber"> 015 </span>		อุภโต สรฺจ มุจลินฺทํ	วปฺปา ติฏฺ€นฺติ ภาคโส(๕)  
+<span class="LineNumber"> 016 </span>		อินฺทวเรหิ สฺสนฺนํ	วนนฺตมุปโสภิตํ(๖)  
+<span class="LineNumber"> 017 </span>		อฑฺฒมาสํ ธาริยมานานํ	คนฺโธ เตสํ น ฉิชฺชติ  
+<span class="LineNumber"> 018 </span>		นีลปุปฺผิเสตวารี		ปุปฺผิตา คิริกณฺณิกา  
+<span class="LineNumber"> 019 </span>		กเลรุกฺเขหิ สฺฉนฺนํ	วนนฺตํ ตุลสีหิ จ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปงฺคุราติ ปงฺคุรรุกฺขา ฯ  ๒. ม. โสภิตา ฯ 
+<span class="LineNumber"> 021 </span># ๓.ม. พหุชาโต ฯ  ๔. ม. พหู ฯ  ๕. ม. ปุปฺผา ติฏฺ€นฺติ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. วนํ ตํ อุปโสภติ ฯ 

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  มหาธมฺมปาลชาตกํ  หน้า 560
+
+<span class="LineNumber"> 002 </span>วิตฺถาเรตพฺพํ  ฯ  มุสาวาโท  เจตฺถ  มุสาวาทิสฺส  อกรณํ  ปาปํ  
+<span class="LineNumber"> 003 </span>นาม  นตฺถีติ  อุสฺสนฺนวเสน  ปน  วุตฺโต  ฯ  เต  กิร  หสฺสาธิปฺ-
+<span class="LineNumber"> 004 </span>ปาเยนปิ  มุสา  น  ภณนฺติ  ฯ  ปาปานีติ  สพฺพานิปิ  นิรยคามินิ
+<span class="LineNumber"> 005 </span>ลามกกมฺมานิ(๑) ฯ  อนริยนฺติ  อริยวิรหิตํ (๒) สพฺพํ  อสุนฺทรํ  อปริสุทฺธํ 
+<span class="LineNumber"> 006 </span>กมฺมํ  ปริวชฺชยาม  ฯ  ตสฺมา  หิ  อมฺหนฺติ  เอตฺถ  หิกาโร
+<span class="LineNumber"> 007 </span>นิปาตมตฺโต  ฯ  อิมินา  การเณน  อมฺหากํ  ทหรา  น มิยฺยนฺติ  
+<span class="LineNumber"> 008 </span>อนฺตรา  จ  อกาลมรณํ  นาม  โน  นตฺถีติ  อตฺโถ  ฯ  ตสฺมา 
+<span class="LineNumber"> 009 </span>หิ  อมฺหนฺติปิ  ปาโ€  ฯ  สุโณมาติ  มยํ  กิร  ยถา  นาม(๓)
+<span class="LineNumber"> 010 </span>สปฺปุริสานํ  กุสลทีปนํปิ  อสปฺปุริสานํ  อกุสลทีปนํ  ธมฺมํ 
+<span class="LineNumber"> 011 </span>สุโณม  ฯ  โส  ปน  โน  สุตมตฺตโกว  โหติ  ตํ  น  โรจยาม  
+<span class="LineNumber"> 012 </span>เตหิ  ปน  โน  สทฺธึ  วิคฺคโห  วา  วิวาโท  วา  มา  โหตุ(๔)
+<span class="LineNumber"> 013 </span>ธมฺมํ  สุโณม  สุตฺวาปิ  ลภิตฺวา(๕)  สนฺเต(๖)  วตฺตาม  เอกมฺปิ  ขณํ 
+<span class="LineNumber"> 014 </span>น  ชหาม  อสนฺเต(๗)  ปาปมิตฺเต  ปหาย  กลฺยาณมิตฺตเสวิโนว 
+<span class="LineNumber"> 015 </span>โหมาติ  ฯ
+<span class="LineNumber"> 016 </span>	สมเณ  มยํ  พฺราหฺมเณติ  พฺราหฺมณ(๘)  มยํ  สมิตปาป-
+<span class="LineNumber"> 017 </span>พาหิตปาเป  ปจฺเจกพุทฺธสมณพฺราหฺมเณปิ  อวเสสธมฺมิกสมณ-
+<span class="LineNumber"> 018 </span>พฺราหฺมเณปิ  อทฺธิกาทโย(๙)  เสสชเนปิ  อนฺเนน  ปาเนน 
+<span class="LineNumber"> 019 </span># ๑. ม. กมฺมานิ ฯ  ๒. ม. อริยครหิตํ ฯ  ๓. ม. กิริยวาทานํ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. โหตูติ ฯ  ๕. ม. หิตฺวา ฯ  ๖. ม. อสนฺเต สนฺเต ฯ 
+<span class="LineNumber"> 021 </span># ๗. ม. สนฺเต ฯ  ๘. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๙. ม. อธิกยาจเก ฯ 

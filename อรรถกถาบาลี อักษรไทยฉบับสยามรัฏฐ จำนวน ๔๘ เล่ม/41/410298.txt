@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  41  ยุคนทฺธกถาวณฺณนา   หน้า  298
+
+<span class="LineNumber"> 002 </span>		ธุวสุภสุขตฺตสุฺํ  
+<span class="LineNumber"> 003 </span>		ปุริมทฺวยมตฺตสุฺมมตปทํ  
+<span class="LineNumber"> 004 </span>		ธุวสุขอตฺตวิรหิโต  
+<span class="LineNumber"> 005 </span>		มคฺโค  อิติ  สุฺตา  เตสูติ ฯ  
+<span class="LineNumber"> 006 </span>	สจฺจฏฺเ€นาติ  อวิสํวาทกฏฺเ€น ฯ 
+<span class="LineNumber"> 007 </span>	ปฏิเวธฏฺเ€นาติ มคฺคกฺขเณ ปฏิวิชฺฌิตพฺพฏฺเ€น ฯ 
+<span class="LineNumber"> 008 </span>	เอกสงฺคหิตานีติ  ตถฏฺ€าทินา  เอเกเกเนว  อตฺเถน  
+<span class="LineNumber"> 009 </span>สงฺคหิตานิ  เอกคณนํ  คตานีติ  อตฺโถ ฯ  
+<span class="LineNumber"> 010 </span>	ยํ  เอกสงฺคหิตํ  ตํ  เอกตฺตนฺติ  ยสฺมา เอเกน สงฺคหิตํ 
+<span class="LineNumber"> 011 </span>ตสฺมา  เอกตฺตนฺติ  อตฺโถ ฯ  สจฺจานํ  พหุตฺเตปิ  เอกตฺตมเปกฺขิตฺวา 
+<span class="LineNumber"> 012 </span>เอกวจนํ กตํ ฯ 
+<span class="LineNumber"> 013 </span>	เอกตฺตํ  เอเกน  าเณน  ปฏิวิชฺฌตีติ  ปุพฺพภาเค จตุนฺนํ 
+<span class="LineNumber"> 014 </span>สจฺจานํ นานตฺเตกตฺตํ สฺวาวตฺถิกํ ววตฺถเปตฺวา €ิโต มคฺคกฺขเณ 
+<span class="LineNumber"> 015 </span>เอเกน มคฺคาเณน ตถฏฺ€าทิตํตํ เอกตฺตํ (๑) ปฏิวิชฺฌติ ฯ 
+<span class="LineNumber"> 016 </span>	กถํ  นิโรธสจฺจสฺส  ตถฏฺ€าทิเก  เอกตฺเต  ปฏิวิทฺเธ  
+<span class="LineNumber"> 017 </span>เสสสจฺจานมฺปิ  ตถฏฺ€าทิกํ  เอกตฺตํ  ปฏิวิทฺธเมว  โหติ ฯ  ยถา  
+<span class="LineNumber"> 018 </span>ปุพฺพภาเค  ปฺจนฺนํ  ขนฺธานํ  นานตฺเตกตฺตํ  สฺวาวตฺถิตํ  
+<span class="LineNumber"> 019 </span>ววตฺถเปตฺวา  €ิตสฺส  มคฺควุฏฺ€านกาเล  อนิจฺจโต  วา  ทุกฺขโต  
+<span class="LineNumber"> 020 </span>วา  อนตฺตโต  วา  วุฏฺ€หนฺตสฺส  เอกสฺมิมฺปิ  ขนฺเธ  อนิจฺจาทิโต  
+<span class="LineNumber"> 021 </span># ๑.  สี.  ตถฏฺ€าทิตตฺตํ  เอกตฺตํ   ฯ  ม.  ตถฏฺ€าทิตตฺตํเอกตฺตํ  ฯ
+<span class="LineNumber"> 022 </span>#ยุ.  ตถฏฺ€าทิกํ  เอกตฺตํ  ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  126
+
+<span class="LineNumber"> 002 </span>อาโรจยึสุ  อานีตา  เต  เทว  ปุตฺตาติ ฯ  โส  เตสํ  วจนํ  สุตฺวา 
+<span class="LineNumber"> 003 </span>ตาตา อิทานิ  เม  ธีตโร  อาเนตฺวา  เตสฺเว  ภาติกานํ
+<span class="LineNumber"> 004 </span>สนฺติเก กโรถาติ จตสฺโส  ธีตโร อาหราเปตุํ อิตรํ คาถมาห  
+<span class="LineNumber"> 005 </span>	[๗๘๑]กุมาริโยปิ วเทถ  อุปเสนฺจ(๑) โกกิลฺจ  
+<span class="LineNumber"> 006 </span>			มุทิตฺจ นนฺทฺจาปิ กุมาริกํ(๒)  
+<span class="LineNumber"> 007 </span>			ปสุ (๓)กิร โหถ ยฺตฺถายาติ ฯ  
+<span class="LineNumber"> 008 </span>	เต  เอวํ  กริสฺสามาติ  ตาสํ  สนฺติกํ  คนฺตฺวา  ตา  โรทมานา  
+<span class="LineNumber"> 009 </span>ปริเทวมานา  อาเนตฺวา  ภาติกานฺเว  สนฺติเก  €ปยึสุ(๔) ฯ  ตโต  
+<span class="LineNumber"> 010 </span>ราชา อตฺตโน ภริยานํ คหณตฺถาย อิตรํ คาถมาห  
+<span class="LineNumber"> 011 </span>	[๗๘๒]วิชยํปิ เม(๕) มเหสึ	เอราวตึ เกสินึ สุนนฺทฺจ  
+<span class="LineNumber"> 012 </span>		ลกฺขณวรูปปนฺนา		ปสุ(๖) กิร โหถ ยฺตฺถายาติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  ลกฺขณวรูปปนฺนาติ  อุตฺตเมหิ  จตุสฏฺ€ิยา  อิตฺถีลกฺขเณหิ  
+<span class="LineNumber"> 014 </span>อุปปนฺนา เอตาปิ วเทถาติ อตฺโถ ฯ  
+<span class="LineNumber"> 015 </span>	เต  ตาปิ  ปริเทวมานา  อาเนตฺวา  กุมารานํ  สนฺติเก
+<span class="LineNumber"> 016 </span>กรึสุ ฯ  อถ ราชา จตฺตาโร เสฏฺ€ิโน อาหราเปนฺโต(๗) อิตรํ 
+<span class="LineNumber"> 017 </span>คาถมาห  
+<span class="LineNumber"> 018 </span>	[๗๘๓]คหปตโยปิ(๘) วเทถ	ปุณฺณมุขํ ภทฺทิยํ สิงฺคาลฺจ  
+<span class="LineNumber"> 019 </span>		วฑฺฒฺจาปิ คหปตึ	ปสุ(๙)กิร โหถ ยฺตฺถายาติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อุปเสนํ ฯ  ๒. ม. กุมารึ ฯ  ๓. ม. ปจุรา ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. กรึสุ ฯ  ๕. ม. มยฺหํ ฯ  ๖. ม. ปจุรา ฯ ๗. ม. คหณตฺถาย 
+<span class="LineNumber"> 022 </span># อาณาเปนฺโต ฯ  ๘. ม. คหปตโย จ ฯ ๙. ม. ปจุรา ฯ 

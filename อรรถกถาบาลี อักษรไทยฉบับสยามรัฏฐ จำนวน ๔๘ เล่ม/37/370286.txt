@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  286
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  เวฬุริยผลกโรทาโยติ  เวฬุริยผลกปาสาเณสุ  ปหริตฺวา  
+<span class="LineNumber"> 003 </span>ตสฺส สทฺเทน รุกฺขสกุณาโย สทฺทํ กโรนฺติโย ฯ  
+<span class="LineNumber"> 004 </span>	[๙๓๑]ปสฺเสตฺถ โปกฺขรณิโย	สุวิภตฺตา จตุทฺทิสา  
+<span class="LineNumber"> 005 </span>		นานาทิชคณากิณฺณา	ปุถุโลมจฺฉเสวิตา(๑)  
+<span class="LineNumber"> 006 </span>		สมนฺตูทกสมฺปนฺนํ(๒)	มหึ สาครกุณฺฑลํ  
+<span class="LineNumber"> 007 </span>		อุเปตํ วนราเชภิ		มณิมฺหิ ปสฺส นิมฺมิตํ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  ปุถุโลมจฺฉเสวิตาติ  มหามจฺฉนิเวสิตา(๓) ฯ  วนราเชภีติ  
+<span class="LineNumber"> 009 </span>วนราชีหิ อยเมว วา ปาโ€ ฯ  
+<span class="LineNumber"> 010 </span>	[๙๓๒]ปุรโต วิเทเห ปสฺส	โคยานิเย จ ปจฺฉโต  
+<span class="LineNumber"> 011 </span>		กุรุโย ชมฺพูทีปฺจ		มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 012 </span>		ปสฺส จนฺทฺจ สุริยฺจ	โอภาเสนฺเต จตุทฺทิสา  
+<span class="LineNumber"> 013 </span>		สิเนรุํ อนุปริยายนฺเต	มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 014 </span>		สิเนรุํ หิมวนฺตฺจ		สาครฺจ มหิทฺธิยํ(๔)  
+<span class="LineNumber"> 015 </span>		จตฺตาโร จ มหาราเช	มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 016 </span>		อาราเม วนคุมฺเพ จ	ปาฏิเย จ สิลุจฺจเย  
+<span class="LineNumber"> 017 </span>		รมฺเม กึปุริสา กิณฺเณ	มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 018 </span>		ปารุสกํ(๕) จิตฺตลตํ	มิสฺสกํ นนฺทนํ วนํ  
+<span class="LineNumber"> 019 </span>		เวชยนฺตฺจ ปาสาทํ	มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 020 </span>		สุธมฺมํ ตาวตึสฺจ		ปาริจฺฉตฺตฺจ ปุปฺผิตํ  
+<span class="LineNumber"> 021 </span># ๑. ม. ปุถุโลมนิเสวิตา ฯ  ๒. ม. สมนฺโตทกสมฺปนฺนํ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. มหามจฺเฉหิ นิเสวิตา ฯ ๔. ม. สี. ยุ. มหิทฺธิกํ ฯ
+<span class="LineNumber"> 023 </span># ม. มหีตลํ ฯ  ๕. ม. ผารุสกํ ฯ

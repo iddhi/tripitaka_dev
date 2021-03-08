@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า  	ศัพท์				คำอธิบาย</B>    
+<span class="LineNumber"> 002 </span><B>๑๐  อุตตริมนุสสธรรม</B>		ธรรมอันยิ่งของมนุษย์  ได้แก่ฌาน
+<span class="LineNumber"> 003 </span>	(อุดตะริมะนุดสะทำ)	วิโมกข์  สมาธิ  สมาบัติ  มรรค  ผล.
+<span class="LineNumber"> 004 </span><B>๑๒  อุทาหรณ์</B>				ตัวอย่าง.
+<span class="LineNumber"> 005 </span><B>๑๐๒  อุบาสก</B>				ผู้นั่งใกล้,   ผู้นั่งใกล้พระรัตนตรัย,
+<span class="LineNumber"> 006 </span>						ผู้ชายเป็นฆราวาส   มีศรัทธาเลื่อมใส
+<span class="LineNumber"> 007 </span>						ถึงพระรัตนตรัยเป็นสรณะ.
+<span class="LineNumber"> 008 </span><B>๖๓  อุปจาร</B>				ที่ใกล้,   บริเวณรอบ ๆ .
+<span class="LineNumber"> 009 </span><B>๑  อุปสัมปทา</B>				การบวชเป็นภิกษุ.
+<span class="LineNumber"> 010 </span><B>๒๗  อุโปสถ</B>				การเข้าอยู่,   การเข้าทำอุโบสถกรรมที่
+<span class="LineNumber"> 011 </span>						สงฆ์ทำทุกกึ่งเดือน.
+<span class="LineNumber"> 012 </span><B>๑๓๘  อุภโต  อุปสมฺปนฺนา</B>	สตรีผู้บวชแล้วในสงฆ์  ๒  ฝ่าย  (ภิกษุณี
+<span class="LineNumber"> 013 </span>						ผู้ได้รับการอุปสมบทสมบูรณ์แล้ว).
+<span class="LineNumber"> 014 </span><B>๑๓๘  เอกโต  อุปสมฺปนฺนา</B>	สตรีผู้บวชแล้วในสงฆ์ฝ่ายเดียว  (ภิกษุณี
+<span class="LineNumber"> 015 </span>						ที่ได้รับการอุปสมบทยังไม่สมบูรณ์).
+<span class="LineNumber"> 016 </span><B>๒ภ  เอกเทศ</B>				ส่วนหนึ่ง,   เฉพาะอย่าง,  บางส่วน,
+<span class="LineNumber"> 017 </span>						บางอย่าง.
+<span class="LineNumber"> 018 </span><B>๓๙  เอกภัณฑปัญจกะ</B>		หมวด  ๕  แห่งการลักมีของสิ่งเดียวเป็นที่
+<span class="LineNumber"> 019 </span>						กำหนด   คือ :-  ๑.  อาทิยนํ = โจทย์  (ตู่)
+<span class="LineNumber"> 020 </span>						เอาของมีวิญญาณ  คือทาสหรือสัตว์ของ
+<span class="LineNumber"> 021 </span>						เลี้ยงของเขา,  ๒.  หรณํ = นำ  (ลัก)  เอา
+<span class="LineNumber"> 022 </span>						ของมีวิญญาณนั้นไป,  ๓.  อวหรณํ  = บิด

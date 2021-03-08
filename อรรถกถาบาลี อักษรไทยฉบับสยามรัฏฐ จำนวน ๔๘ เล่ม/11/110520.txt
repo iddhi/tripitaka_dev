@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑ หน้า  ๕๒๐
+
+<span class="LineNumber"> 002 </span>				สมณสุตฺตาทิวณฺณนา           
+<span class="LineNumber"> 003 </span>	ปฺจมาทีสุ  จตูสุ  จตฺตาริ  สจฺจานิ  กถิตานิ ฯ 
+<span class="LineNumber"> 004 </span>นวมทสเมสุ  กิเลสปฺปหานนฺติ ฯ 
+<span class="LineNumber"> 005 </span>				ปฺจมาทีนิ ฯ               
+<span class="LineNumber"> 006 </span>			อนฺตวคฺโค ป€โม ฯ           
+
+<span class="LineNumber"> 007 </span>				อวิชฺชาสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 008 </span>	ธมฺมกถิกวคฺคสฺส  ป€เม  เอตฺตาวตา  จ  อวิชฺชาคโต 
+<span class="LineNumber"> 009 </span>โหตีติ  ยาวตา  อิมาย  จตูสุ  สจฺเจสุ  อาณภูตาย  อวิชฺชาย  
+<span class="LineNumber"> 010 </span>สมนฺนาคโต  เอตฺตาวตา  อวิชฺชาคโต โหตีติ อตฺโถ ฯ ทุติเยปิ 
+<span class="LineNumber"> 011 </span>เอเสว นโย ฯ 
+<span class="LineNumber"> 012 </span>			ป€มทุติยานิ ฯ      
+
+<span class="LineNumber"> 013 </span>			ธมฺมกถิกสุตฺตวณฺณนา           
+<span class="LineNumber"> 014 </span>	ตติเย  ป€เมน  ธมฺมกถิโก  ทุติเยน  เสขภูมิ  ตติเยน 
+<span class="LineNumber"> 015 </span>อเสขภูมีติ  เอวํ ธมฺมกถิกํ ปุจฺฉิเตน วิเสเสตฺวา เทฺว ภูมิโย 
+<span class="LineNumber"> 016 </span>กถิตา ฯ 
+<span class="LineNumber"> 017 </span>				ตติยํ ฯ     

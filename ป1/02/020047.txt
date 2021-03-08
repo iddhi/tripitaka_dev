@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ตนฺติ		เส้นด้าย			รติ		ความยินดี  
+<span class="LineNumber"> 002 </span>นนฺทิ	ความเพลิดเพลิน	ลทฺธิ		ลัทธิ
+<span class="LineNumber"> 003 </span>ปญฺหิ	ส้นเท้า			วติ		รั้ว
+<span class="LineNumber"> 004 </span>มติ		ความรู้			สตฺติ		หอก
+<span class="LineNumber"> 005 </span>ยฏฺ€ิ		ไม้เท้า			สนฺธิ		ความต่อ
+<span class="LineNumber"> 006 </span>                           วิธีเปลี่ยน  วิภัตติ  และ  การันต์
+<span class="LineNumber"> 007 </span>๑  อิ  อี  อุ  อู  อิตฺ.  อยู่ข้างหน้า  เอา  วิภัตติ  เอก.  คือ  นา  ส  สฺมา  สฺมึ
+<span class="LineNumber"> 008 </span>    เป็น  ยา.
+<span class="LineNumber"> 009 </span>๒  อิ  อิตฺ.  อยู่ข้างหน้า  เอา  สฺมา  เป็น  อา  เอา  สฺมึ  เป็น  อํ  แล้ว  เอา
+<span class="LineNumber"> 010 </span>     อิ  เป็น  ย  ได้บ้าง.
+
+<span class="LineNumber"> 011 </span>	[๕๔]  อี  การันต์  ในอิตถีลิงค์  แจกอย่าง  นารี  [นาง]  ดังนี้ :-
+<span class="LineNumber"> 012 </span>		เอก.					พหุ.
+<span class="LineNumber"> 013 </span>ป.	นารี					นาริโย	นารี
+<span class="LineNumber"> 014 </span>ทุ.	นารี		นาริยํ		นาริโย	นารี
+<span class="LineNumber"> 015 </span>ต.	นาริยา				นารีหิ  	นารีภิ
+<span class="LineNumber"> 016 </span>จ.	นาริยา				นารีนํ
+<span class="LineNumber"> 017 </span>ปญฺ. 	นาริยา				นารีหิ	นารีภิ
+<span class="LineNumber"> 018 </span>ฉ.  	นาริยา				นารีนํ
+
+<span class='footnote'>๑.  เอา  อํ  เป็น  ยํ,  โดยสูตรมูลกัจจายนะ  ว่า  อํ  ยมีโต  ปสญฺาโต  แลสูตร</span>
+<span class='footnote'>สทฺทนีติว่า  อํ  ยมิวณฺณปา  วา.</span>

@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span><B>สัตว์ทั้งหลายเป็นผู้รับมรดกแห่งกรรม  แม้ด้วยประการฉะนี้</B><SUP>๑</SUP>  ดังนี้  เป็น
+<span class="LineNumber"> 002 </span>สูตรมีอยู่จริง  มิใช่หรือ ? 
+<span class="LineNumber"> 003 </span>                     ป. ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                     ส. ถ้าอย่างนั้น    ก็ไม่พึงกล่าวว่า    กรรมเป็นอย่างหนึ่ง
+<span class="LineNumber"> 005 </span>ความสั่งสมแห่งกรรมก็เป็นอย่างหนึ่ง.
+<span class="LineNumber"> 006 </span>                                <I>กัมมูปจยกถา  จบ</I>
+<span class="LineNumber"> 007 </span>                                 <I>วรรคที่ ๑๕  จบ</I>
+<span class="LineNumber"> 008 </span>                               <I>ตติยปัณณาสก์  จบ</I>
+
+<span class="LineNumber"> 009 </span>                       <H2>อรรถกถากัมมูปจยกถา</H2>
+
+<span class="LineNumber"> 010 </span>                      <H2>ว่าด้วย ความสั่งสมกรรม</H2>
+
+<span class="LineNumber"> 011 </span>         บัดนี้  ชื่อว่าเรื่องความสั่งสมกรรม.    ในเรื่องนั้น  ชนเหล่าใด   มี
+<span class="LineNumber"> 012 </span>ความเห็นผิดดุจลัทธินิกายอันธกะทั้งหลายว่า     ชื่อว่า   ความสั่งสมกรรม
+<span class="LineNumber"> 013 </span>เป็นอย่างหนึ่งนอกจากกรรม   ทั้งเป็นจิตตวิปปยุต    เป็นอัพยากตะ   เป็น
+<span class="LineNumber"> 014 </span>อนารัมมณะ.  คำถามของสกวาทีว่า   <B>กรรมเป็นอย่างหนึ่ง</B>   เป็นต้น  โดย
+<span class="LineNumber"> 015 </span>หมายถึงชนเหล่านั้น  คำตอบรับรองเป็นของปรวาที.   ลำดับนั้น  สกวาที
+<span class="LineNumber"> 016 </span>เพื่อจะท้วงด้วยคำว่า     ถ้าว่า     ความสั่งสมกรรมนอกไปจากกรรมไซร้
+<span class="LineNumber"> 017 </span>ความสั่งสมผัสสะเป็นต้นก็จะพึงมีนอกจากผัสสะเป็นต้น   ดังนี้   จึงกล่าว
+<span class="LineNumber"> 018 </span>คำว่า   <B>ผัสสะเป็นอย่างหนึ่ง</B>    เป็นต้น.   ปรวาทีตอบปฏิเสธเพราะความ
+<span class="LineNumber"> 019 </span>ไม่มีในลัทธิ.  ในปัญหาทั้งหลายว่า    <B>ความสั่งสมกรรมเกิดพร้อมกับกรรม</B>
+
+<span class='footnote'>๑.    ม.ม.  ๑๓/๘๘.</span>
+
+

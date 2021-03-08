@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๖๑. จิตตสหภุทุกะ</H2><SUP>๑</SUP>
+<span class="LineNumber"> 002 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                         <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 004 </span>                                       <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>         [๑๘๙] ๑.  <B>จิตตสหภูธรรม    อาศัยจิตตสหภูธรรม    เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  ขันธ์ ๒ และ   จิตตสมุฏฐานรูป   ที่เป็นจิตตสหภูธรรม   อาศัย
+<span class="LineNumber"> 008 </span>ขันธ์ ๑ ที่เป็นจิตตสหภูธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 009 </span>         ในปฏิสนธิขณะ  ขันธ์ ๒  อาศัยขันธ์ ๑  ที่เป็นจิตตสหภูธรรม ฯลฯ
+<span class="LineNumber"> 010 </span>ขันธ์ ๒.
+<span class="LineNumber"> 011 </span>                    ๒.  <B>ธรรมที่ไม่ใช่จิตตสหภูธรรม    อาศัยจิตตสหภู-
+<span class="LineNumber"> 012 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  จิตและจิตตสมุฏฐานรูป  ที่ไม่ใช่จิตตสหภูธรรม    อาศัยขันธ์ทั้ง
+<span class="LineNumber"> 014 </span>หลาย  ที่เป็นจิตตสหภูธรรม.
+<span class="LineNumber"> 015 </span>         ในปฏิสนธิขณะ   จิตและกฏัตตารูป   อาศัยขันธ์ทั้งหลาย  ที่เป็นจิตต-
+<span class="LineNumber"> 016 </span>สหภูธรรม.
+<span class="LineNumber"> 017 </span>                   ๓.  <B>จิตตสหภูธรรม  และธรรมที่ไม่ใช่จิตตสหภูธรรม
+<span class="LineNumber"> 018 </span>อาศัยจิตตสหภูธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 019 </span>         คือ  ขันธ์ ๒, จิต  และจิตตสมุฏฐานรูป  ที่เป็นจิตตสหภูธรรม   และ
+<span class="LineNumber"> 020 </span>ไม่ใช่จิตตสหภูธรรม  อาศัยขันธ์ ๑ ที่เป็นจิตตสหภูธรรม ฯลฯ
+
+<span class='footnote'>๑. ม. เป็นจิตตสหภูทุกะ</span>

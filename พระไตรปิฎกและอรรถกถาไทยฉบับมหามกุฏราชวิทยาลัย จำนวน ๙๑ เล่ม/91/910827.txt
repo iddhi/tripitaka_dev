@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>อกุศลบท</H2>     
+<span class="LineNumber"> 002 </span>           [๘๓๘] ๑.  <B>ธรรมที่ไม่ใช่อกุศล   ที่ไม่ใช่สุขายเวทนายสัมป-
+<span class="LineNumber"> 003 </span>ยุตตธรรม    อาศัยธรรมที่เป็นอกุศล   ที่เป็นสุขายเวทนายสัมปยุตต-
+<span class="LineNumber"> 004 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๗  วาระ.
+<span class="LineNumber"> 005 </span>                       ๘.  <B>ฯลฯ  อาศัยธรรมที่เป็นอกุศล  ที่เป็นทุกขาย-	
+<span class="LineNumber"> 006 </span>เวทนายสัมปยุตตธรรม   เกิดขึ้น   เพราะเหตุปัจจัย</B>   มี ๗ วาระ.
+<span class="LineNumber"> 007 </span>                      ๑๕. <B>ฯลฯ   อาศัยธรรมที่เป็นอกุศล    ที่เป็นอทุกขม-
+<span class="LineNumber"> 008 </span>สุขายเวทนายสัมปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๗ วาระ.
+<span class="LineNumber"> 009 </span>           รวม ๒๑ วาระ
+
+<span class="LineNumber"> 010 </span>                                    <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 011 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                             <H2>๑. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                                     <H2>อัพยากตบท</H2>
+<span class="LineNumber"> 014 </span>           [๘๓๙] ๑.  <B>ธรรมที่เป็นอัพยากตะ   ที่เป็นสุขายเวทนายสัมป-
+<span class="LineNumber"> 015 </span>ยุตตธรรม     เป็นปัจจัยแก่ธรรมที่ไม่ใช่อัพยากตะ     ที่ไม่ใช่สุขาย-
+<span class="LineNumber"> 016 </span>เวทนายสัมปยุตตธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>  มี ๒๑ วาระ.
+<span class="LineNumber"> 017 </span>           สำหรับบทที่ว่า   อัพยากตธรรมเกิดขึ้น  บทเดียวเท่านั้น     มี  ๓ วาระ
+<span class="LineNumber"> 018 </span>เมื่อเปลี่ยนแปลงไปตามแนวเวทนา    ได้  ๒๑ วาระ    พึงแจกตามมูล      คือ
+<span class="LineNumber"> 019 </span>ทุกขายเวทนายสัมปยุตตอัพยากตมูล  ๑   อทุกขมสุขายเวทนายสัมปยุตตมูล ๑
+<span class="LineNumber"> 020 </span>                 <I>เวทนาติกกุสลติกนเวทนาติกนกุสลติกะ  จบ</I>

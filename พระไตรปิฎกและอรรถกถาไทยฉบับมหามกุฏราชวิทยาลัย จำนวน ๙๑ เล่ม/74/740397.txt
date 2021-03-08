@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                         <B>คฤหัสถ์เกียจคร้านบริโภคกาม      ไม่ดี 
+<span class="LineNumber"> 002 </span>		เลข   บรรพชิตไม่สำรวมก็ไม่ดี.   พระราชาไม่
+<span class="LineNumber"> 003 </span>		ใคร่ครวญแล้วทำลงไปดีไม่ดี.   ผู้ที่เป็นบัณฑิต
+<span class="LineNumber"> 004 </span>		มักโกรธก็ไม่ดี.</B>
+<span class="LineNumber"> 005 </span>                         <B>ข้าแต่ราชะผู้เป็นใหญ่ในทิศ     กษัตริย์
+<span class="LineNumber"> 006 </span>		พึงใคร่ครวญก่อนแล้วทำ     ไม่ใคร่ครวญก่อน
+<span class="LineNumber"> 007 </span> 		แล้วไม่ทำ.        ยศและเกียรติย่อมเจริญแก่
+<span class="LineNumber"> 008 </span> 		พระราชาผู้ใคร่ครวญก่อนแล้วทำ.</B>
+<span class="LineNumber"> 009 </span>                          <B>ข้าแต่พระภูมิบาล   ผู้เป็นใหญ่ใคร่ครวญ
+<span class="LineNumber"> 010 </span>   		ก่อนแล้วจึงปรับสินไหม.    ย่อมอิ่มใจถึงสิ่งที่
+<span class="LineNumber"> 011 </span> 		ทำแล้วโดยพลัน.   ประโยชน์ทั้งหลายของตน
+<span class="LineNumber"> 012 </span> 		ที่ด้วยการตั้งใจชอบ  ย่อมไม่ตามเดือดร้อนใน
+<span class="LineNumber"> 013 </span>  		ภายหลัง.    ผู้จำแนกกรรมทั้งหลายในโลกอัน
+<span class="LineNumber"> 014 </span> 		วิญญูชนสรรเสริญแล้วอันมีสุขเป็นกำไร    ทำ
+<span class="LineNumber"> 015 </span> 		กรรมอันไม่ตามเดือดร้อน   กรรมเหล่านั้นย่อม
+<span class="LineNumber"> 016 </span> 		เป็นกรรมอันบัณฑิตทั้งหลายเห็นชอบแล้ว</B>

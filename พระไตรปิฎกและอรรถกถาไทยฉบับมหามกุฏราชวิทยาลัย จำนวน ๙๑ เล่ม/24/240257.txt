@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                <h1>๘.  เชตวนสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                       <H1>ว่าด้วยสัตว์บริสุทธิ์ด้วยธรรม  ๕</H1>
+<span class="LineNumber"> 003 </span>         [๑๔๗]   เทวดากราบทูลว่า                          
+<span class="LineNumber"> 004 </span>                             <B>ก็พระเชตวันมหาวิหารนี้นั้น   อันหมู่
+<span class="LineNumber"> 005 </span>                   แห่งท่านผู้แสวงคุณอยู่อาศัยแล้ว     อัน
+<span class="LineNumber"> 006 </span>                   พระพุทธเจ้าผู้เป็นพระธรรมราชาประทับ
+<span class="LineNumber"> 007 </span>                   อยู่แล้ว เป็นแหล่งที่เกิดปีติของข้าพระองค์
+<span class="LineNumber"> 008 </span>                   กรรม  ๑  วิชชา ๑  ธรรม ๑  ศีล  ๑  ชีวิต
+<span class="LineNumber"> 009 </span>                   อันอุดม  ๑   สัตว์ทั้งหลายย่อมบริสุทธิ์ด้วย
+<span class="LineNumber"> 010 </span>                   คุณธรรม ๕ นี้  หาบริสุทธิ์ด้วยโคตรหรือ
+<span class="LineNumber"> 011 </span>                   ด้วยทรัพย์ไม่.   เพราะเหตุนั้นแหละ  คน
+<span class="LineNumber"> 012 </span>                   ผู้ฉลาด   เมื่อเห็นประโยชน์ของตน  ควร
+<span class="LineNumber"> 013 </span>                   เลือกเฟ้นธรรมโดยอุบายอันแยบคาย
+<span class="LineNumber"> 014 </span>                   เพราะเมื่อเลือกเฟ้นเช่นนี้  ย่อมหมดจดได้
+<span class="LineNumber"> 015 </span>                   ในธรรมเหล่านั้น.
+<span class="LineNumber"> 016 </span>                             พระสารีบุตรรูปเดียวเท่านั้น    (เป็นผู้
+<span class="LineNumber"> 017 </span>                   ประเสริฐ) ด้วยปัญญา  ศีล  และความสงบ
+<span class="LineNumber"> 018 </span>                   ภิกษุใดเป็นผู้ถึงซึ่งฝั่ง  ภิกษุนั้นก็มีท่าน
+<span class="LineNumber"> 019 </span>                   พระสารีบุตรนั้นเป็นเยี่ยม.</B>

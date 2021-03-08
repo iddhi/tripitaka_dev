@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  เตมิยชาตกํ  หน้า  53
+
+<span class="LineNumber"> 002 </span>มณฺฑเลน ปุรกฺขิโต ฯ  
+<span class="LineNumber"> 003 </span>	อถ มหาสตฺโต รชฺเชน อนตฺถิกภาวํ ปกาเสนฺโต อาห  
+<span class="LineNumber"> 004 </span>	[๔๔๑]	กึ มํ ธเนน ชิยฺเยถ (๑)		กึ ภริยาย มริสฺสติ  
+<span class="LineNumber"> 005 </span>			กึ โยพฺพเนน ชิณฺเณน (๒)	ยํ ชรายาภิภุยฺยเต (๓) 
+<span class="LineNumber"> 006 </span>			ตตฺถ กา นนฺทิ กา ขิฑฺฑา	กา รติ กา ธเนสินา (๔) 
+<span class="LineNumber"> 007 </span>			กึ เม ปุตฺเตหิ ทาเรหิ		ราช มุตฺโตสฺมิ พนฺธนา  
+<span class="LineNumber"> 008 </span>			โยหํ (๕) เอวํ ปชานามิ	มจฺจุ เม นปฺปมชฺชติ  
+<span class="LineNumber"> 009 </span>			อนฺตเกนาธิปนฺนสฺส		กา รติ กา ธเนสินา  (๔)
+<span class="LineNumber"> 010 </span>			ผลานมิว ปกฺกานํ		นิจฺจํ ปตฺตนโต (๖) ภยํ  
+<span class="LineNumber"> 011 </span>			เอวํ ชาตานมจฺจานํ		นิจฺจํ มรณโต ภยํ  
+<span class="LineNumber"> 012 </span>			สายเมเก น ทิสฺสนฺติ		ปาโต ทิฏฺ€า พหู ชนา  
+<span class="LineNumber"> 013 </span>			ปาโต เอเก น ทิสฺสนฺติ	สายํ ทิฏฺ€า พหู ชนา  
+<span class="LineNumber"> 014 </span>			น ตตฺถ หตฺถีนํ ภูมิ		น รถานํ น ปตฺติยา  
+<span class="LineNumber"> 015 </span>			น จาปิ มนฺตยุทฺเธน		สกฺกา เชตุํ ธเนน วา  
+<span class="LineNumber"> 016 </span>			ขตฺติเย พฺราหฺมเณ เวสฺเส	สุทฺเท จณฺฑาลปุกฺกุเส  
+<span class="LineNumber"> 017 </span>			น กิฺจิ ปริวชฺเชติ		สพฺพเมวาภิมทฺทติ  (๗)
+<span class="LineNumber"> 018 </span>			อชฺเชว กิจฺจมาตปฺปํ		โก ชฺา มรณํ สุเว  
+<span class="LineNumber"> 019 </span># ๑. ส. ขิยฺเยถ ฯ  สี. ยุ. กึ ธเนน ยํ ชิยฺเยถ ฯ  ม. กึ ธเนน ยํ ขีเยถ ฯ
+<span class="LineNumber"> 020 </span># ๒. สี. ยุ. จิณฺเณน ฯ  ๓. ส. ม. ...ภุยฺยติ ฯ  ยุ. ชรา อภิเหสฺสติ ฯ
+<span class="LineNumber"> 021 </span># ๔. ส. ม. ยุ. ธเนสนา ฯ  ๕. สี. ยุ. โสหํ ฯ  ๖. ยุ ปปตนา ฯ
+<span class="LineNumber"> 022 </span># ๗. - ๗. ส. ม. ยุ. อิเม ปา€า นตฺถิ ฯ

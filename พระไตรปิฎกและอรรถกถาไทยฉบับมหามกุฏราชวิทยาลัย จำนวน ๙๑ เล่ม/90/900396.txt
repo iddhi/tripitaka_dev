@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                				<H1>ปัจจนียนัย</H1> 
+<span class="LineNumber"> 002 </span>					  <H2>๑. นอธิปติปัจจัย</H2>
+<span class="LineNumber"> 003 </span>		[๑๑๙๘]  ๑.  อกุศลธรรมที่เป็นทั้งอาสวะและอาสวสัมปยุตต-
+<span class="LineNumber"> 004 </span>ธรรม    อาศัยอกุศลธรรมที่เป็นทั้งอาสวะและอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะนอธิปติปัจจัย   ฯลฯ 
+<span class="LineNumber"> 006 </span>                   	  <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 007 </span>		[๑๑๙๙]  ในนอธิปติปัจจัย มี ๙  วาระ  ในนปุเรชาตปัจจัย มี ๙  วาระ
+<span class="LineNumber"> 008 </span>ในนปัจฉาชาตปัจจัย มี  ๙ วาระ   ในนอาเสวนปัจจัย  มี  ๙ วาระ    ในนกัมม-
+<span class="LineNumber"> 009 </span>ปัจจัย มี ๓ วาระ      ในนวิปากปัจจัย มี  ๙  วาระ    ในนวิปปยุตตปัจจัย  มี ๓
+<span class="LineNumber"> 010 </span>วาระ.
+<span class="LineNumber"> 011 </span>                  ในสหชาตวาระก็ดี ฯลฯ  ในสัมปยุตตวาระก็ดี  มี ๙ วาระ  ทุกปัจจัย.
+
+<span class="LineNumber"> 012 </span>                          	     <H1>อกุศลบทปัญหาวาระ</H1>
+<span class="LineNumber"> 013 </span>                           		    <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 014 </span>                                          <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๑๒๐๐]  ๑. อกุศลธรรมที่เป็นทั้งอาสวะและอาสวสัมปยุตต-
+<span class="LineNumber"> 016 </span>ธรรม   เป็นปัจจัยแก่อกุศลธรรมที่เป็นทั้งอาสวะและอาสวสัมปยุตต-
+<span class="LineNumber"> 017 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย   ฯลฯ 

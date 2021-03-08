@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H2>สังสัฏฐวาระ</H2>
+<span class="LineNumber"> 002 </span>                                             <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                          <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๗๑๑] ๑.  <B>อุเบกขาสหคตธรรม   เจือกับอุเบกขาสหคตธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ ขันธ์ ๒ เจือกับขันธ์  ๑ ที่เป็นอุเบกขาสหคตธรรม ฯลฯ ขันธ์ ๒.
+<span class="LineNumber"> 007 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 008 </span>         พึงกระทำเหมือนกับ  สวิตักกทุกะ.
+
+<span class="LineNumber"> 009 </span>                               <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>         [๗๑๒]  ในเหตุปัจจัย  มี ๖ วาระ  ในอารัมมณปัจจัย มี ๖ วาระ  ใน
+<span class="LineNumber"> 011 </span>ปัจจัยทั้งปวง มี ๖ วาระ  ในอวิคตปัจจัย  มี ๖ วาระ.
+
+<span class="LineNumber"> 012 </span>                                             <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 013 </span>                                          <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>         [๗๑๓] ๑.  <B>อุเบกขาสหคตธรรม   เจือกับอุเบกขาสหคตธรรม
+<span class="LineNumber"> 015 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ  ขันธ์ ๒  เจือกับขันธ์ ๑    ที่เป็นอุเบกขาสหคตธรรม    ซึ่งเป็น
+<span class="LineNumber"> 017 </span>อเหตุกะ ฯลฯ    ขันธ์ ๒.

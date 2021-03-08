@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ยสทตฺตตฺเถรคาถาวณฺณนา  หน้า  111  
+
+<span class="LineNumber"> 002 </span>		ตมนฺธการํ  วิธมํ  			โมหชาลสมากุลํ  
+<span class="LineNumber"> 003 </span>		าณาโลกํ  ทสฺเสตฺวาน  (๑)  	นิตฺติณฺโณสิ  มหามุนิ  (๒)ฯ  
+<span class="LineNumber"> 004 </span>		สมุทฺธรสิมํ  โลกํ  			สพฺพาวนฺตมนุตฺตรํ  
+<span class="LineNumber"> 005 </span>		าเณ  (๓)  เต  อุปมา  นตฺถิ  	ยาวตา  ชคโต  (๔)  คติ ฯ  
+<span class="LineNumber"> 006 </span>		เตน  าเณน  สพฺพฺู  		อิติ  พุทฺโธ  (๕)  ปวุจฺจติ  
+<span class="LineNumber"> 007 </span>		วนฺทามิ  ตํ  มหาวีรํ  			สพฺพฺุตมนาวรํ  (๖)  ฯ  
+<span class="LineNumber"> 008 </span>		สตสหสฺสิโต  กปฺเป  		พุทฺธเสฏฺ€ํ  ถวึ  อหํ  
+<span class="LineNumber"> 009 </span>		ทุคฺคตึ  นาภิชานามิ  			าณตฺถวายิทํ  (๗)  ผลํ ฯ  
+<span class="LineNumber"> 010 </span>	กิเลสา  ฌาปิตา  มยฺหํ  ฯ เป ฯ  กตํ  พุทฺธสฺส  สาสนนฺติ  ฯ  
+<span class="LineNumber"> 011 </span>	อรหตฺตํ  ปน  ปตฺวา  อฺํ  พฺยากโรนฺโตปิ  เถโร  อิมา
+<span class="LineNumber"> 012 </span>เอว  คาถา  อภาสิ ฯ  
+<span class="LineNumber"> 013 </span>		ยสทตฺตตฺเถรคาถาวณฺณนา  นิฏฺ€ิตา  ฯ  
+<span class="LineNumber"> 014 </span>#๑.  สฺยา.  ทสฺสยิตฺวา  ฯ  ๒.  สฺยา.  ติณฺโณ  อสิ  ตุวํ  มุนิ  ฯ  ๓.  สฺยา.
+<span class="LineNumber"> 015 </span>#าเณน  ฯ  ๔.  ยุ.  จ  คโต  ฯ  ๕.  สฺยา  สพฺพฺูติ  ฯ  ๖.  สฺยา.
+<span class="LineNumber"> 016 </span>#สพฺพฺุตํ  อนาสวํ  ฯ  ๗.  สฺยา.  าณตฺถุมนายิทํ  ฯ  

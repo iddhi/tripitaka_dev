@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>แห่งตัณหา  ฉันนั้น  นั่นเทียวแล  ดูก่อนราธะ  เพราะว่า  ความสิ้นไปแห่ง 
+<span class="LineNumber"> 002 </span>ตัณหาเป็นนิพพาน.   
+<span class="LineNumber"> 003 </span>                                        <I>จบ  สัตตสูตร</I>
+
+<span class="LineNumber"> 004 </span>                       <H1>อรรถกถาสัตตสูตร</H1> 
+
+<span class="LineNumber"> 005 </span>           พึงทราบวินิจฉัยใน<B>สัตตสูตรที่  ๒</B> ดังต่อไปนี้ :-
+<span class="LineNumber"> 006 </span>           บทว่า  <B>สตฺโต</B> เป็นคำถามถึงบุคคล.               
+<span class="LineNumber"> 007 </span>           บทว่า  <B>ตตฺร  สตฺโต  ตตฺร  วิสตฺโต</B>  ความว่า ผู้ติด  คือ  ผู้ข้องอยู่ใน
+<span class="LineNumber"> 008 </span><B>อุปาทานขันธ์</B>นั้น.
+<span class="LineNumber"> 009 </span>           บทว่า  <B>ปํสฺวาคารเกหิ</B> แปลว่า เรือนที่ทำด้วยฝุ่น. (เรือนเล่นขายของ)
+<span class="LineNumber"> 010 </span>           บทว่า  <B>กีฬายนฺติ</B>  แปลว่า  เล่น.
+<span class="LineNumber"> 011 </span>           บทว่า  <B>ธนายนฺติ</B> แปลว่า สำคัญเรือนที่ทำด้วยฝุ่นว่าเหมือนทรัพย์.
+<span class="LineNumber"> 012 </span>           บทว่า <B>มมายนฺติ</B> ได้แก่ ทำการยึดถือว่า นี้ของเรา นี้ของเรา คือ
+<span class="LineNumber"> 013 </span>ไม่ยอมแม้แต่จะให้คนอื่นแตะต้อง.
+<span class="LineNumber"> 014 </span>           บทว่า  <B>วิกีฬนิกํ  กโรนฺติ</B>  ความว่า  เด็กชายหรือเด็กหญิงเหล่านั้น
+<span class="LineNumber"> 015 </span>คิดว่า  การเล่นเลิกแล้ว  จึงทำลายทำให้ใช้เล่นไม่ได้.
+<span class="LineNumber"> 016 </span>                                     <I>จบ  อรรถกถาสัตตสูตร</I>

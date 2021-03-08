@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>จิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>               <H1>โนจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกนกุสลติกะ</H1>   
+<span class="LineNumber"> 003 </span>  <H2>(๖๕.  จิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ  ๑. กุสลติกะ)</H2>	
+<span class="LineNumber"> 004 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                           <H2>กุศลบท</H2>
+<span class="LineNumber"> 008 </span>        [๒๙๑]  ๑.  <B>ธรรมที่ไม่ใช่กุศล       ที่ไม่ใช่จิตตสังสัฏฐสมุฏ-
+<span class="LineNumber"> 009 </span>ฐานานุปริวัตติธรรม  อาศัยธรรมที่เป็นกุศล ที่เป็นจิตตสังสัฏฐสมุฏ-
+<span class="LineNumber"> 010 </span>ฐานานุปริวัตติธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๓ วาระ.
+
+<span class="LineNumber"> 011 </span>                                          <H2>อกุศลบท</H2>
+<span class="LineNumber"> 012 </span>                     ๑.  <B>ธรรมที่ไม่ใช่อกุศล     ที่ไม่ใช่จิตตสังสัฏฐสมุฏ-
+<span class="LineNumber"> 013 </span>ฐานานุปริวัตติธรรม    อาศัยธรรมที่เป็นอกุศล    ที่เป็นจิตตสังสัฏฐ-
+<span class="LineNumber"> 014 </span>สมุฏฐานานุปริวัตติธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓  วาระ.
+<span class="LineNumber"> 015 </span>	อัพยากตมูล  มี  ๓ วาระ.
+<span class="LineNumber"> 016 </span>                 <I>จิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกกุสลติกะ</I>
+<span class="LineNumber"> 017 </span>          <I>โนจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกนกุสลติกะ  จบ</I>	

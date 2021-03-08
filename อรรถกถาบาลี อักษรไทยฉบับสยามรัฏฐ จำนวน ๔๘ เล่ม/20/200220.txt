@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ทุกนิปาตวณฺณนา  หน้า  220
+				
+<span class="LineNumber"> 002 </span>		ตทตฺถสมฺปาทนโต ตถาคโต ฯ
+<span class="LineNumber"> 003 </span>		ยถาวิธา ปุริมกา(๑) มเหสิโน
+<span class="LineNumber"> 004 </span>		ตถาวิโธยมฺปิ ตถา ยถารุจิ
+<span class="LineNumber"> 005 </span>		ปวตฺตวาจา ตนุจิตฺตภาวโต
+<span class="LineNumber"> 006 </span>		ตถาคโต วุจฺจติ อคฺคปุคฺคโล ฯถ
+<span class="LineNumber"> 007 </span>		น(๒) โพธิสมฺภารวิปกฺขโต ปุเร(๒)
+<span class="LineNumber"> 008 </span>		คตํ น สํสารคตํ ตถาย(๓)
+<span class="LineNumber"> 009 </span>		น จตฺถิ นาถสฺส ภวนฺตทสฺสิโน(๔)
+<span class="LineNumber"> 010 </span>		ตเถหิ ตสฺมา อคโต ตถาคโต ฯ
+<span class="LineNumber"> 011 </span>		ตถาคโต ธมฺมธโร มเหสินา
+<span class="LineNumber"> 012 </span>		ยถา ปหาตพฺพมลํ ปหียติ
+<span class="LineNumber"> 013 </span>		ตถา คโต อริยคโณ วินายโก
+<span class="LineNumber"> 014 </span>		ตถาคโต เตน สมงฺคิภาวโตติ ฯ
+<span class="LineNumber"> 015 </span>	อรหนฺตํ  สมฺมาสมฺพุทฺธนฺติ  เอตฺถ  อรหาติ  ปทสฺส  อตฺโถ
+<span class="LineNumber"> 016 </span>เหฏฺ€า วุตฺโตเยว ฯ  สมฺมา  สามฺจ  สพฺพธมฺมานํ  พุทฺธตฺตา  
+<span class="LineNumber"> 017 </span>สมฺมาสมฺพุทฺธํ ฯ  ยงฺกิฺจิ เนยฺยํ(๕)  นาม  ตสฺส  สพฺพสฺสปิ  
+<span class="LineNumber"> 018 </span>สพฺพาการโต  อวิปรีตโต  สยเมว  อภิสมฺพุทฺธตฺตาติ วุตฺตํ  โหติ ฯ 
+<span class="LineNumber"> 019 </span>อิมินาสฺส  ปโรปเทสรหิตสฺส  สพฺพากาเรน  สพฺพธมฺมาวโพธน-
+<span class="LineNumber"> 020 </span># ๑. ม. ปุริมา ฯ  ๒. ม. สมฺโพธิสมฺภารวิปกฺขโต ปุเร ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. สํสารคตมฺปิ ตสฺส วา ฯ ๔. ม. น จตฺถิ นาถสฺส 
+<span class="LineNumber"> 022 </span># ภวนฺตทสฺสิโน ฯ  ๕. ม. เยฺย ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๗.  อัญญมัญญปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           <B>ในอัญญมัญญปัจจัย</B>  มี  ๓ วาระ  เหมือนกับอัญญมัญญปัจจัยใน
+<span class="LineNumber"> 003 </span>ปฏิจจวาระ.  
+
+<span class="LineNumber"> 004 </span>                                    <H1>๘.  นิสสยปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           <B>ในนิสสยปัจจัย</B>    เหมือนกับนิสสยปัจจัยในปัจจัยวาระ   แม้ทั้ง ๔
+<span class="LineNumber"> 006 </span>ปัจจัย   ปัจจัยสงเคราะห์ที่ต่างกันไม่มี   มี ๑๓ วาระ.
+
+<span class="LineNumber"> 007 </span>                                   <H1>๙.  อุปนิสสยปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๑๑๓] ๑.   <B>อาจยคามิธรรม     เป็นปัจจัยแก่อาจยคามิธรรม
+<span class="LineNumber"> 009 </span>ด้วยอำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 010 </span>           มี ๓ อย่าง คือ ที่เป็น  <B>อารัมมณูปนิสสยะ  อนันตรูปนิสสยะ</B>  และ
+<span class="LineNumber"> 011 </span><B>ปกตูปนิสสยะ.</B>
+<span class="LineNumber"> 012 </span>           ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 013 </span>           บุคคลเข้าไปอาศัยศรัทธาที่เป็นอาจยคามิธรรมแล้ว  ให้ทาน  รักษาศีล
+<span class="LineNumber"> 014 </span>ฯลฯ อุโบสถกรรม ฯลฯ  ฌาน  ฯลฯ  อภิญญา  ฯลฯ  ยังสมาบัติให้เกิดขึ้น ก่อ
+<span class="LineNumber"> 015 </span>มานะ  ถือทิฏฐิ.
+<span class="LineNumber"> 016 </span>           บุคคลเข้าไปอาศัยศีลที่เป็นอาจยาคามิธรรม  ฯลฯ  สุตะ  จาคะ  ปัญญา
+<span class="LineNumber"> 017 </span>ราคะ  โทสะ  โมหะ  มานะ  ทิฏฐิ ฯลฯ  ความปรารถนาแล้ว   ให้ทานรักษาศีล
+<span class="LineNumber"> 018 </span>ฯลฯ  อุโบสถกรรม ฯลฯ  ฌาน ฯลฯ วิปัสสนา ฯลฯ อภิญญา ฯลฯ สมาบัติ ฯลฯ
+<span class="LineNumber"> 019 </span>ฆ่าสัตว์ ฯลฯ ทำลายสงฆ์.

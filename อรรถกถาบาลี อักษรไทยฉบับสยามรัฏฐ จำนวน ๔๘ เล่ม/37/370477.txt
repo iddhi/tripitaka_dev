@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 477
+
+<span class="LineNumber"> 002 </span>		อหํ ชานนฺติ โย วชฺชา	นนฺทึ โส ชนเย มมํ  
+<span class="LineNumber"> 003 </span>		เอวฺจ เม วิลปโต	ปวิฏฺ€สฺส พฺรหาวเน  
+<span class="LineNumber"> 004 </span>		อหํ ชานนฺติ โย วชฺชา	เวสฺสนฺตรนิวาสนํ(๑)  
+<span class="LineNumber"> 005 </span>		ตาย โส เอกวาจาย	ปสเว ปุฺํ อนปฺปกนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ชยนฺตนฺติ  มจฺเฉรวิชิตํ ฯ  โก  เม  เวสฺสนฺตรํ
+<span class="LineNumber"> 007 </span>วิทูติ  โก  มยฺหํ  เวสฺสนฺตรํ  อาจิกฺเขยฺยาติ  วทติ ฯ  ปติฏฺ€าสีติ 
+<span class="LineNumber"> 008 </span>ปติฏฺ€า  อาสิ ฯ  สนฺตานนฺติ  ปริยนฺตานํ ฯ  กิลนฺตานนฺติ
+<span class="LineNumber"> 009 </span>มคฺคกิลนฺตานํ ฯ  ปฏิคฺคหนฺติ  ปฏิคฺคาหกํ  ปติฏฺ€าภูตํ ฯ  อหํ  
+<span class="LineNumber"> 010 </span>ชานนฺติ  โย  วชฺชาติ  อหํ เวสฺสนฺตรสฺส วสนฏฺ€านํ ชานามีติ 
+<span class="LineNumber"> 011 </span>โย เอวํ (๒)วเทยฺยาติ อตฺโถ ฯ  
+<span class="LineNumber"> 012 </span>	ตสฺส  ตํ  ปริเทวนสทฺทํ [๓] อารกฺขณตฺถาย  €ปิโต  เจตปุตฺโต  
+<span class="LineNumber"> 013 </span>มิคลุททโก  หุตฺวา  อรฺเ  วิจรนฺโต  สุตฺวา  อยํ  พฺราหฺมโณ  
+<span class="LineNumber"> 014 </span>เวสฺสนฺตรสฺสตฺถาย (๔) ปริเทวติ  น  โข  ปเนส  ธมฺมตาย  อาคโต  
+<span class="LineNumber"> 015 </span>มทฺทึ  วา  ทารเก  วา  ยาจิสฺสติ  อิเธว  นํ มาเรสฺสามีติ ตสฺสํ 
+<span class="LineNumber"> 016 </span>สนฺติกํ  คนฺตฺวา  พฺราหฺมณ  น  เต  ชีวิตํ  ทสฺสามีติ  ธนุํ  
+<span class="LineNumber"> 017 </span>อาโรเปตฺวา  อากฑฺฒิตฺวา ตชฺเชสิ ฯ  
+<span class="LineNumber"> 018 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 019 </span>	[๑๑๓๖]ตสฺส เจโต ปฏิสฺโสสิ	อรฺเ ลุทฺทโก จโร(๕)  
+<span class="LineNumber"> 020 </span>		ตุมฺเหหิ พฺรหฺม ปกโต	อติทาเน ขตฺติโย  
+<span class="LineNumber"> 021 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. เอวํสทฺโท นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. เอตฺถนฺตเร สุตฺวาติ ทิสฺสติ ฯ ๔. ม. เวสฺสนฺตรสฺส 
+<span class="LineNumber"> 023 </span># วสนฏฺ€านตฺถาย ฯ  ๕. ม. จรํ ฯ

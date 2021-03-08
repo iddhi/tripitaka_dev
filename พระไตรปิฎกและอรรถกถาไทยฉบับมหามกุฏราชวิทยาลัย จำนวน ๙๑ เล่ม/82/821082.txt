@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 003 </span><H2>กายสังขารมูละ   วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         [๑๐๓๙]   กายสังขารกำลังเกิดในภูมิใด,   วจีสังขารก็กำลัง
+<span class="LineNumber"> 005 </span>เกิดในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ในทุติยฌาน  ในตติยฌาน   กายสังขารกำลังเกิดในภูมินั้น แต่
+<span class="LineNumber"> 007 </span>วจีสังขารไม่ใช่กำลังเกิดในภูมินั้น,   ในปฐมฌาน  ในกามาวจรภูมิ  กาย-
+<span class="LineNumber"> 008 </span>สังขารกำลังเกิด   และวจีสังขารก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า    วจีสังขารกำลังเกิดในภูมิใด,    กายสังขารก็กำลังเกิด
+<span class="LineNumber"> 010 </span>ในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ในรูปาวจรภูมิ   ในอรูปาวจรภูมิ   วจีสังขารกำลังเกิดในภูมินั้น
+<span class="LineNumber"> 012 </span>แต่กายสังขารไม่ใช่กำลังเกิดในภูมินั้น,   ในปฐมฌาน   ในกามาวจรภูมิ
+<span class="LineNumber"> 013 </span>วจีสังขารกำลังเกิด     และกายสังขารก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 014 </span>                        <I>จบ  กายสังขารมูละ  วจีสังขารมูลี</I>
+ 
+<span class="LineNumber"> 015 </span><H2>กายสังขารมูละ  จิตตสังขารมูลี :-</H2>
+<span class="LineNumber"> 016 </span>         [๑๐๔๐]   กายสังขารกำลังเกิดในภูมิใด,  จิตตสังขารก็กำลัง
+<span class="LineNumber"> 017 </span>เกิดในภูมินั้น  ใช่ไหม ?

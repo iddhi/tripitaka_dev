@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๕  มหานิทานสุตฺตวณฺณนา  หน้า  ๑๔๗
+
+<span class="LineNumber"> 002 </span>	พหุสฺสุตานฺจ  จตุหตฺเถ  โอวรเก  ปทีเป  ชลมาเน  มฺจปี€ํ  
+<span class="LineNumber"> 003 </span>วิย  นามรูปปริจฺเฉโท  ปากโฏ  โหติ ฯ  อยฺจ  อายสฺมา  
+<span class="LineNumber"> 004 </span>พหุสฺสุตานํ  อคฺโค(๑)  อิติ  (๒)  พาหุสจฺจานุภาเวนปิสฺส  คมฺภีโรปิ  
+<span class="LineNumber"> 005 </span>ปจฺจยากาโร  อุตฺตานโก  วิย  อุปฏฺ€าสิ ฯ  
+
+<span class="LineNumber"> 006 </span>		ปฏิจฺจสมุปฺปาทคมฺภีรตา  
+<span class="LineNumber"> 007 </span>	ตตฺถ  อตฺถคมฺภีรตาย  ธมฺมคมฺภีรตาย  เทสนาคมฺภีรตาย  
+<span class="LineNumber"> 008 </span>ปฏิเวธคมฺภีรตายาติ  จตูหิ  อากาเรหิ  ปฏิจฺจสมุปฺปาโท  คมฺภีโร  
+<span class="LineNumber"> 009 </span>นาม ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ชรามรณสฺส  ชาติปจฺจยสมฺภูตสมุทาคตฏฺโ€  
+<span class="LineNumber"> 011 </span>คมฺภีโร ฯเป ฯ  สงฺขารานํ  อวิชฺชาปจฺจยสมฺภูตสมุทาคตฏฺโ€  
+<span class="LineNumber"> 012 </span>คมฺภีโรติ  อยํ  อตฺถคมฺภีรตา ฯ  
+<span class="LineNumber"> 013 </span>	อวิชฺชาย  สงฺขารานํ  ปจฺจยฏฺโ€  คมฺภีโร ฯเป ฯ  ชาติยา  
+<span class="LineNumber"> 014 </span>ชรามรณสฺส  ปจฺจยฏฺโ€  คมฺภีโรติ  อยํ  ธมฺมคมฺภีรตา ฯ  
+<span class="LineNumber"> 015 </span>	กตฺถจิ  วา  สุตฺเต  ปฏิจฺจสมุปฺปาโท  อนุโลมโต  เทสิยติ ฯ  กตฺถจิ  
+<span class="LineNumber"> 016 </span>ปฏิโลมโต ฯ  กตฺถจิ  อนุโลมปฏิโลมโต ฯ  กตฺถจิ  มชฺฌโต  ปฏฺ€าย  
+<span class="LineNumber"> 017 </span>อนุโลมโต  วา  ปฏิโลมโต  วา  กตฺถจิ  (๓)  อนฺตโต  ปฏฺ€าย  
+<span class="LineNumber"> 018 </span>อนุโลมโต  วา  ปฏิโลมโต  วา(๓)  กตฺถจิ  ติสนฺธิ  จตุสงฺเขโป ฯ  
+<span class="LineNumber"> 019 </span>กตฺถจิ  ทฺวิสนฺธิ  ติสงฺเขโป ฯ  กตฺถจิ  เอกสนฺธิ  ทฺวิสงฺเขโปติ 
+<span class="LineNumber"> 020 </span>อยํ  เทสนาคมฺภีรตา ฯ  
+<span class="LineNumber"> 021 </span>#  ๑.  ม.  อคฺโค  โหติ ฯ  ๒.  ม.  อิติสทฺโท  นตฺถิ ฯ  ๓.  ม.  อนุโลมปฏิโลมโต  วา ฯ

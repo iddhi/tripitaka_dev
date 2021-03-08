@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  23  หน้า  249
+
+<span class="LineNumber"> 002 </span>		อภิกฺกนฺเตน  วณฺเณน  ยา  ตฺวํ  ติฏฺ€สิ  เทวเต  
+<span class="LineNumber"> 003 </span>		โอภาเสนฺตี  ทิสา  สพฺพา  โอสธี  วิย  ตารกา ฯ  
+<span class="LineNumber"> 004 </span>		เกน  เตตาทิโส  วณฺโณ  เกน  เต  อิธ  มิชฺฌติ  
+<span class="LineNumber"> 005 </span>		อุปฺปชฺชนฺติ  จ  เต  โภคา  เย  เกจิ  มนโส  ปิยา ฯ  
+<span class="LineNumber"> 006 </span>				ปุจฺฉามิ  ตํ  เทว  มหานุภาเว  
+<span class="LineNumber"> 007 </span>				มนุสฺสภูตา  กิมกาสิ  ปุฺํ  
+<span class="LineNumber"> 008 </span>				เกนาสิ  เอวฺชลิตานุภาวา  
+<span class="LineNumber"> 009 </span>				วณฺโณ  จ  เต  สพฺพทิสา  ปภาสตีติ ฯ  
+<span class="LineNumber"> 010 </span>สาปิ  พฺยากาสิ ฯ  
+<span class="LineNumber"> 011 </span>		สา  เทวตา  อตฺตมนา  โมคฺคลฺลาเนน  ปุจฺฉิตา  
+<span class="LineNumber"> 012 </span>		ปฺหํ  ปุฏฺ€า  วิยากาสิ  ยสฺส  กมฺมสฺสิทํ  ผลํ ฯ  
+<span class="LineNumber"> 013 </span>		อหํ  อนฺธกวินฺทมฺหิ  พุทฺธสฺสาทิจฺจพนฺธุโน  
+<span class="LineNumber"> 014 </span>		อทาสึ  โกลสมฺปากํ  กฺชิกํ  เตลธูปิตํ ฯ  
+<span class="LineNumber"> 015 </span>		ปิปฺผลฺยา  ลสุเณน  จ  มิสฺสํ  ลามฺชเกน  จ  
+<span class="LineNumber"> 016 </span>		อทาสึ  อุชุภูตสฺมึ  วิปฺปสนฺเนน  เจตสา ฯ  
+<span class="LineNumber"> 017 </span>		ยา  มเหสิตฺตํ  กาเรยฺย  จกฺกวตฺติสฺส  ราชิโน  
+<span class="LineNumber"> 018 </span>		นารี  สพฺพงฺคกลฺยาณี  ภตฺตุ  จาโนมทสฺสิกา  
+<span class="LineNumber"> 019 </span>		เอตสฺส  กฺชิกทานสฺส  กลํ  นาคฺฆนฺติ  โสฬสึ ฯ  
+<span class="LineNumber"> 020 </span>		สตํ  นิกฺขา  สตํ  อสฺสา  สตํ  อสฺสตรีรถา  
+<span class="LineNumber"> 021 </span>		สตํ  กฺาสหสฺสานิ  อามุตฺตมณิกุณฺฑลา  
+<span class="LineNumber"> 022 </span>		เอกสฺส  กฺชิกทานสฺส  กลํ  นาคฺฆติ  โสฬสึ ฯ  

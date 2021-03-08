@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                         ปกิณณกะ  คือ  หมวดเบ็ดเตล็ด
+<span class="LineNumber"> 002 </span>               อุปกิเลส  คือ  โทษเครื่องเศร้าหมอง ๑๖ อย่าง<SUP>๑</SUP>
+<span class="LineNumber"> 003 </span>           ๑.  อภิชฌาวิสมโลภะ   ละโมบไม่สม่ำเสมอ  คือความเพ่งเล็ง.
+<span class="LineNumber"> 004 </span>           ๒.  โทสะ.                    ร้ายกาจ.  
+<span class="LineNumber"> 005 </span>           ๓.  โกธะ                     โกรธ.
+<span class="LineNumber"> 006 </span>           ๔.  อุปนาหะ                ผูกโกรธไว้.
+<span class="LineNumber"> 007 </span>           ๕.  มักขะ                     ลบหลู่คุณท่าน.
+<span class="LineNumber"> 008 </span>           ๖.  ปลาสะ                   ตีเสมอ  คือยกตัวเทียมท่าน.
+<span class="LineNumber"> 009 </span>           ๗.  อิสสา                     ริษยา  คือเห็นเขาได้ดี  ทนอยู่ไม่ได้.
+<span class="LineNumber"> 010 </span>           ๘.  มัจฉริยะ                 ตระหนี่.
+<span class="LineNumber"> 011 </span>           ๙.  มายา                     มารยา  คือเจ้าเล่ห์.
+<span class="LineNumber"> 012 </span>         ๑๐.  สาเถยยะ               โอ้อวด.
+<span class="LineNumber"> 013 </span>         ๑๑.  ถัมภะ                    หัวดื้อ.
+<span class="LineNumber"> 014 </span>         ๑๒.  สารัมภะ                 แข่งดี.
+<span class="LineNumber"> 015 </span>         ๑๓.  มานะ                     ถือตัว.
+<span class="LineNumber"> 016 </span>         ๑๔.  อติมานะ                ดูหมิ่นท่าน.
+<span class="LineNumber"> 017 </span>         ๑๕.  มทะ                      มัวเมา.
+<span class="LineNumber"> 018 </span>         ๑๖.  ปมาทะ                  เลินเล่อ.
+<span class="LineNumber"> 019 </span>                                                     ม.  มู.  ๑๒/๒๖-๒๗,๖๕.
+
+<span class='footnote'>๑.  ในธัมมทายาทสูตร  ( ม. มู. ๑๒/๒๖-๒๗ ) ข้อ ๑ ว่า โลภะ  ข้อ ๑ ว่า โทสะ ในวัตถุ-</span>
+<span class='footnote'>ปมสูตร  ( ม. มู. ๑๒/๖๕ ) ข้อ ๑ ว่า อภิชฌาวิสมโลภะ  ข้อ ๒ ว่า  พยาปาทะ. นอกนั้น</span>
+<span class='footnote'>เหมือนกัน.</span>

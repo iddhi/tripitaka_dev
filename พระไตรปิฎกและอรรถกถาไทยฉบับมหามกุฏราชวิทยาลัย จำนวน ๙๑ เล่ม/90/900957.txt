@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>			         <H1>อาสววิปปยุตตบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>                     			<H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 003 </span>                              	    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๖๕๕]  ๑.  อาสววิปปยุตตธรรมที่เป็นกุศล       เป็นปัจจัยแก่
+<span class="LineNumber"> 005 </span>อาสววิปปยุตตธรรมที่เป็นกุศล   ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                        ๔.  อาสววิปปยุตตธรรมที่เป็นอกุศล     เป็นปัจจัยแก่
+<span class="LineNumber"> 007 </span>อาสววิปปยุตตธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                        ๕.  อาสววิปปยุตตธรรมที่เป็นอัพยากตะ   เป็นปัจจัย
+<span class="LineNumber"> 009 </span>แก่อาสววิปปยุตตธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 010 </span>        		<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๖๕๖]  ในเหตุปัจจัย  มี  ๕  วาระ     ในอารัมมณปัจจัย  มี  ๙  วาระ
+<span class="LineNumber"> 012 </span>ในอธิปติปัจจัย มี ๑๓ วาระ ฯลฯ   ในอวิคตปัจจัย มี ๑๐ วาระ
+<span class="LineNumber"> 013 </span>		แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 014 </span>		         <I>กุสลติกอาสวสัมปยุตตทุกะ  จบ</I>

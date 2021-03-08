@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><B>จักขุนทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี :-</B>
+<span class="LineNumber"> 002 </span>         [๔๕๔]   ธรรมที่ชื่อว่าจักขุ,  ชื่อว่า  อินทรีย์  ใช่ไหม  
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าอินทรีย์,     ชื่อว่า     อนัญญาตัญญัสสามีตินทรีย์
+<span class="LineNumber"> 005 </span>ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         อนัญญาตัญญัสสามีตินทรีย์   ชื่อว่าอินทรีย์ด้วย  ชื่อว่าอนัญญา-
+<span class="LineNumber"> 007 </span>ตัญญัสสามีตินทรีย์ด้วย,   อินทรีย์ที่เหลือ    ชื่อว่าอินทรีย์    แต่ไม่ชื่อว่า
+<span class="LineNumber"> 008 </span>อนัญญาตัญญัสสามีตินทรีย์.
+<span class="LineNumber"> 009 </span>           <I>จบ   จักขุนทริยมูละ   อนัญญาตัญญัสสามีตินทริยมูลี</I>
+
+<span class="LineNumber"> 010 </span><B>จักขุนทริยมูละ  อัญญินทริยมูลี :-</B>
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าจักขุนทรีย์,    ชื่อว่า   อินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าอินทรีย์,  ชื่อว่า  อัญญินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         อัญญินทรีย์  ชื่อว่าอินทรีย์ด้วย  ชื่อว่าอัญญินทรีย์ด้วย,  อินทรีย์
+<span class="LineNumber"> 015 </span>ที่เหลือ   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่าอัญญินทรีย์.
+<span class="LineNumber"> 016 </span>                       <I>จบ  จักขุนทริยมูละ  อัญญินทริยมูลี</I>

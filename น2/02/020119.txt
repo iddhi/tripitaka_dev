@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             เอกาทสกะ   หมวด  ๑๑   
+<span class="LineNumber"> 002 </span>                      ปัจจยาการ  ๑๑ =  ปฏิจจสมุปบาท
+<span class="LineNumber"> 003 </span>	๑.  เพราะอวิชชา		เป็นปัจจัย		มีสังขาร
+<span class="LineNumber"> 004 </span>	๒.  เพราะสังขาร			"		มีวิญญาณ
+<span class="LineNumber"> 005 </span>	๓.  เพราะวิญญาณ			"		มีนามรูป
+<span class="LineNumber"> 006 </span>	๔.  เพราะนามรูป			"  		มีสฬายตนะ
+<span class="LineNumber"> 007 </span>	๕.  เพราะสฬายตนะ		"		มีผัสสะ
+<span class="LineNumber"> 008 </span>	๖.  เพราะผัสสะ			"  		มีเวทนา
+<span class="LineNumber"> 009 </span>	๗.  เพราะเวทนา			" 		มีตัณหา
+<span class="LineNumber"> 010 </span>	๘.  เพราะตัณหา			"   		มีอุปาทาน
+<span class="LineNumber"> 011 </span>	๙.  เพราะอุปาทาน			" 		มีภพ
+<span class="LineNumber"> 012 </span>	๑๐.  เพราะภพ				"		มีชาติ
+<span class="LineNumber"> 013 </span>	๑๑.  เพราะชาติ			"  		มีชรามรณโสกปริเทว
+<span class="LineNumber"> 014 </span>									ทุกข์  โทมนัส  อุปายาส
+<span class="LineNumber"> 015 </span>	เป็นอันว่ากองทุกข์ทั้งมวลเกิดขึ้นด้วยประการอย่างนี้.
+<span class="LineNumber"> 016 </span>									สํ.  นิ.  ๑๖/๑.
+<span class="LineNumber"> 017 </span>	อธิบาย:    อวิชชา  ท่านแก้ว่า  ได้แก่อวิชชา  ๘.  โดยนัยนี้เป็นอัน
+<span class="LineNumber"> 018 </span>ยอมรับเงื่อนต้นของอวิชชาไม่ปรากฏ.  ถ้าแปลอวิชชาเป็นกรรม-
+<span class="LineNumber"> 019 </span>สาธนะว่า  ธรรมชาติที่ยังไม่รู้ได้   จักได้ความชัดออกไป.  สังขารท่าน
+<span class="LineNumber"> 020 </span>แก้ว่า  ได้แก่อภิสังขาร  ๓  เป็นอันอนุวัตน์ตามเค้านั้น.  ถ้าไม่ยันตรง
+

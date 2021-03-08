@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>ติกมาติกา</H1>  
+<span class="LineNumber"> 002 </span>         [๙]   <H1>บุคคล ๓ จำพวก</H1> 
+<span class="LineNumber"> 003 </span>                 <H1>๑.  บุคคลผู้ไม่มีความหวัง 
+<span class="LineNumber"> 004 </span>                       บุคคลผู้มีความหวัง
+<span class="LineNumber"> 005 </span>                       บุคคลผู้มีความหวังปราศไปแล้ว</H1>
+<span class="LineNumber"> 006 </span>                 <H1>๒.  บุคคลเปรียบด้วยคนไข้  ๓ จำพวก</H1>
+<span class="LineNumber"> 007 </span>                 <H1>๓.  บุคคลผู้ชื่อว่า  กายสักขีะ
+<span class="LineNumber"> 008 </span>                       บุคคลผู้ชื่อว่า  ทิฏฐิปัตตะ
+<span class="LineNumber"> 009 </span>                       บุคคลผู้ชื่อว่า  สัทธาวิมุต</H1>
+<span class="LineNumber"> 010 </span>                 <H1>๔.  บุคคลผู้มีวาจาเหมือนคูถ
+<span class="LineNumber"> 011 </span>                       บุคคลผู้มีวาจาเหมือนดอกไม้
+<span class="LineNumber"> 012 </span>                       บุคคลผู้มีวาจาเหมือนน้ำผึ้ง</H1>
+<span class="LineNumber"> 013 </span>                 <H1>๕.  บุคคลผู้มีจิตเหมือนแผลเรื้อรัง
+<span class="LineNumber"> 014 </span>                       บุคคลผู้มีจิตเหมือนฟ้าแลบ
+<span class="LineNumber"> 015 </span>                       บุคคลผู้มีจิตเหมือนฟ้าผ่า</H1>
+<span class="LineNumber"> 016 </span>                 <H1>๖.  บุคคลผู้บอด
+<span class="LineNumber"> 017 </span>                       บุคคลผู้มีคาข้างเดียว
+<span class="LineNumber"> 018 </span>                       บุคคลผู้มีตาสองข้าง</H1>
+<span class="LineNumber"> 019 </span>                 <H1>๗.  บุคคลผู้มีปัญญาดังหม้อคว่ำ
+<span class="LineNumber"> 020 </span>                       บุคคลผู้มีปัญญาดังหน้าตัก
+<span class="LineNumber"> 021 </span>                       บุคคลผู้มีปัญญามาก</H1>
+	

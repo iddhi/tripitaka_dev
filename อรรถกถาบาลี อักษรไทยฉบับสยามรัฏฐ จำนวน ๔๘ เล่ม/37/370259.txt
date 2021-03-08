@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 259
+
+<span class="LineNumber"> 002 </span>		กึ(๑) ทุมฺมนรูโปสิ อิสฺสร  
+<span class="LineNumber"> 003 </span>		มา ตฺวํ โสจิ อมิตฺตตาปนาติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  ปชฺฌายสีติ  ปุนปฺปุนํ  จินฺเตสิ ฯ  หตฺถคตนฺติ 
+<span class="LineNumber"> 005 </span>หตฺเถน  ปริมทฺทิตํ  ปทุมํ  วิย  เต  มุขํ  ชาตํ ฯ  อิสฺสราติ 
+<span class="LineNumber"> 006 </span>ปฺจโยชนสติกสฺส  มณฺฑลนาคภวนสฺส สามิ(๒) ฯ  
+<span class="LineNumber"> 007 </span>	โส  ธีตุ  วจนํ  สุตฺวา  นาคราชา  ตมตฺถํ  อาโรเจนฺโต 
+<span class="LineNumber"> 008 </span>อิมํ  คาถมาห  
+<span class="LineNumber"> 009 </span>	[๘๙๗]มาตา หิ ตว อิรนฺทติ  
+<span class="LineNumber"> 010 </span>		วิธุรสฺส หทยํ ธนิยฺยติ  
+<span class="LineNumber"> 011 </span>		ทุลฺลเภ(๓) หิ วิธรสฺส ทสฺสเน  
+<span class="LineNumber"> 012 </span>		โก วิธุรํ อิธมานยิสฺสตีติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  ธนิยฺยตีติ  ปตฺเถติ(๔) ฯ  อถ  นํ  อมฺม  มม 
+<span class="LineNumber"> 014 </span>สนฺติเก  วิธุรํ  อาเนตุํ  สมตฺโถ  นตฺถิ  ตฺวํ  มาตุ  ชีวิตํ  เทหิ 
+<span class="LineNumber"> 015 </span>วิธุรสฺส  หทยํ อาเนตุํ  สมตฺถํ ภตฺตารํ ปริเยสาหีติ ตํ 
+<span class="LineNumber"> 016 </span>อุยฺโยเชนฺโต อุปฑฺฒคาถมาห  
+<span class="LineNumber"> 017 </span>	[๘๙๘]ภตฺตารํ ปริเยสนํ(๕) จร  
+<span class="LineNumber"> 018 </span>		โย วิธุรํ อิธมานยิสฺสตีติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ จราติ จราหิ(๖) ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. กินฺนุ ฯ  ๒. ม. สามีติ ฯ  ๓. ส. ม. ทุลฺลภํ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ปตฺเถติ อิจฺฉติ ฯ  ๕. ม. ตสฺส ภตฺตุปริเยสนํ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. วิจร ฯ 

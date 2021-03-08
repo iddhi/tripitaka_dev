@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>			        <H1>กุสลติกฉโคจฉกทุกะ</H1> 
+<span class="LineNumber"> 002 </span>	     <H2>(๑. กุสลติกะ ๒๐.-๕๔. ฉโคจฉกทุกะ)</H2>
+<span class="LineNumber"> 003 </span>		             <H1>สัญโญชนบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				<H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๖๗๘]  ๑.  ฯลฯ  อาศัยสัญโญชนธรรมที่เป็นอกุศล  ฯลฯ
+<span class="LineNumber"> 007 </span>คันถะ  โอฆะ   โยคะ  นีวรณะ  ที่เป็นอกุศล
+<span class="LineNumber"> 008 </span>					  ฯลฯ
+<span class="LineNumber"> 009 </span>		     <H2>โนปรามาสบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 010 </span>            ๑.  ธรรมที่ไม่ใช่ปรามาสธรรมที่เป็นกุศล  อาศัยธรรม
+<span class="LineNumber"> 011 </span>ที่ไม่ใช่ปรามาสธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>				  เหมือนอาสวโคจฉกะ
+<span class="LineNumber"> 013 </span>		      ทิฏฐิ  ย่อมไม่เกิดขึ้น เพราะอาศัยทิฏฐิ.			
+<span class="LineNumber"> 014 </span>			  <I>กุสลติกฉโคจฉกทุกะ จบ</I>

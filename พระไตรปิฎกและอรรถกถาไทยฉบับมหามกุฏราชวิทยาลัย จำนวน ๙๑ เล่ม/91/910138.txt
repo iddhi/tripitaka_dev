@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒. <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่มัชฌิมธรรม   ที่เป็น
+<span class="LineNumber"> 002 </span>นเหตุธรรม  ฯลฯ</B> 
+<span class="LineNumber"> 003 </span>                       ๓.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่ปณีตธรรม  ที่เป็นนเหตุ-
+<span class="LineNumber"> 004 </span>ธรรม  ฯลฯ</B> 
+<span class="LineNumber"> 005 </span>                                   <I>นเหตุทุกนหีนติกะ  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                    <H1>นเหตุทุกนมิจฉัตตติกะ</H1>
+<span class="LineNumber"> 007 </span>                  <H2>(๑. นเหตุทุกะ  ๑๕  นมิจฉัตตติกะ)</H2>
+<span class="LineNumber"> 008 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 009 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>           [๒๒๕]  ๑.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่มิจฉัตตนิยตธรรม  ที่เป็น
+<span class="LineNumber"> 012 </span>นเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 013 </span>                       ๒.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่สัมมัตตนิยตธรรม  ที่เป็น
+<span class="LineNumber"> 014 </span>นเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 015 </span>                       ๓.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่อนิยตธรรม  ที่เป็น
+<span class="LineNumber"> 016 </span>นเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 017 </span>                                   <I>นเหตุทุกนมิจฉัตตติกะ  จบ</I>  		

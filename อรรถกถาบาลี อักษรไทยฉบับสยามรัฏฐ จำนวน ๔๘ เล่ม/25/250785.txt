@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อุปาลิตฺเถรคาถาวณฺณนา  หน้า 785
+	
+<span class="LineNumber"> 002 </span>		สยมฺภภ ตํ วิมาเนตฺวา (๑)  สนฺตจิตฺตํ สมาหิตํ  
+<span class="LineNumber"> 003 </span>		เตน กมฺเมนหํ อชฺช	ชาโตมฺหิ นีจโยนิยํ ฯ  
+<span class="LineNumber"> 004 </span>		มา โว ขณํ วิราเธถ	ขณาตีตา (๒) หิ โสจเร  
+<span class="LineNumber"> 005 </span>		สทตฺเถ วายเมยฺยาถ	ขโณ โว ปฏิปาทิโต ฯ  
+<span class="LineNumber"> 006 </span>		เอกจฺจานฺจ วมนํ	เอกจฺจานํ วิเรจนํ  
+<span class="LineNumber"> 007 </span>		วิสํ หลาหลํ เอเก (๓)	เอกจฺจานฺจ โอสถํ ฯ 
+<span class="LineNumber"> 008 </span>		วมนํ ปฏิปนฺนานํ		ผลฏฺ€านํ วิเรจนํ  
+<span class="LineNumber"> 009 </span>		โอสถํ  ผลลาภีนํ		ปุฺกฺเขตฺตํ คเวสินํ ฯ  
+<span class="LineNumber"> 010 </span>		สาสเนน วิรุทฺธานํ		วิสํ หลาหลํ ยถา  
+<span class="LineNumber"> 011 </span>		อาสีวิโส ทุฏฺ€วิโส (๔)	เอกํ (๕) ฌาเปติ ตํ นรํ ฯ  
+<span class="LineNumber"> 012 </span>		สกึ ปีตํ หลาหลํ		อุปรุทฺเธติ (๖) ชีวิตํ  
+<span class="LineNumber"> 013 </span>		สาสเนน วิรุชฺฌิตฺวา	กปฺปโกฏิมฺหิ  ฑยฺหติ ฯ  
+<span class="LineNumber"> 014 </span>		ขนฺติยา อวิหึสาย		เมตฺตจิตฺตวตาย จ  
+<span class="LineNumber"> 015 </span>		สเทวกํ โส ตรติ (๗)	ตสฺมา เต (๘) อวิโรธิยา ฯ (๙)  
+<span class="LineNumber"> 016 </span>		ลาภาลาเภ น สชฺชนฺติ	สมฺมานเน วิมานเน (๑๐)  
+<span class="LineNumber"> 017 </span>		ป€วีสทิสา พุทฺธา		ตสฺมา เต น วิโรธิยา(๑๑) ฯ  
+<span class="LineNumber"> 018 </span>		เทวทตฺเต จ วธเก		โจเร องฺคุลิมาลเก  
+<span class="LineNumber"> 019 </span>		ราหุเล ธนปาเล จ		สพฺเพสํ สมโก มุนิ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. ขมาเปตฺวา ฯ  ๒. สี ขณาติคา ฯ  ๓. ยุ. เอเต ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ทิฏฺ€วิโส ฯ ยุ. ทฏฺ€วิโส ฯ  ๕. ม. ยุ. เอวํ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. อุปรุนฺเธติ ฯ  ๗. ม. ตาเรติ ฯ  ๘. ยุ. โว ฯ
+<span class="LineNumber"> 023 </span># ๙. ม. อวิราธิยา ฯ ๑๐. สี. สมฺมาเน จ วิมานเน ฯ 
+<span class="LineNumber"> 024 </span># ม. สมฺมานนวิมานเน ฯ  ๑๑. ม. วิราธิยา ฯ 

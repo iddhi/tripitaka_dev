@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ในอรูปภูมิ   สัมปยุตตขันธ์ทั้งหลาย  อาศัยอุปาทานธรรมทั้งหลาย,
+<span class="LineNumber"> 002 </span>จิตตสมุฏฐานรูป  อาศัยอุปาทานธรรมทั้งหลาย.
+<span class="LineNumber"> 003 </span>                                                     ฯลฯ
+<span class="LineNumber"> 004 </span>         พึงทำเป็น ๙ วาระ.
+<span class="LineNumber"> 005 </span>         ในอรูปภูมิ  มีอุปาทานธรรม ๒.
+<span class="LineNumber"> 006 </span>                                                     ฯลฯ
+
+<span class="LineNumber"> 007 </span>                                 <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 008 </span>         [๓๙๖]  ในนเหตุปัจจัย  มี ๑ วาระ   ในนอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 009 </span>ในนอธิปติปัจจัย มี ๙ วาระ ในนอนันตรปัจจัย มี ๓วาระฯลฯ ในนอุปนิสสย-
+<span class="LineNumber"> 010 </span>ปัจจัย   มี ๓ วาระ    ในนปุเรชาตปัจจัย    มี ๙ วาระ    ในนปัจฉาชาตปัจจัย
+<span class="LineNumber"> 011 </span>มี ๙ วาระ    ในนอาเสวนปัจจัย   มี ๙ วาระ     ในนกัมมปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 012 </span>ในนวิปากปัจจัย มี ๙ วาระ  ในนอาหารปัจจัย   มี ๑ วาระ  ในนอินทริยปัจจัย
+<span class="LineNumber"> 013 </span>มี ๑ วาระ  ในนฌานปัจจัย  มี ๑ วาระ   ในนมัคคปัจจัย  มี ๑ วาระ  ในน-
+<span class="LineNumber"> 014 </span>สัมปยุตตปัจจัย มี ๓ วาระ  ในนวิปปยุตตปัจจัย มี ๙ วาระ  ในโนนัตถิปัจจัย
+<span class="LineNumber"> 015 </span>มี ๓ วาระ  ในโนวิคตปัจจัย มี ๓ วาระ.
+
+<span class="LineNumber"> 016 </span>                                           <H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 017 </span>                            <H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 018 </span>         [๓๙๗]  เพราะเหตุปัจจัย   ในนอารัมมณปัจจัย มี ๓ วาระ....   ใน
+<span class="LineNumber"> 019 </span>นอธิปติปัจจัย มี ๙ วาระ ฯลฯ ในนอุปนิสสยปัจจัย มี ๓ วาระ  ในนปุเรชาต-

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>๙.  สีหจัมมชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                      <H2>ลาปลอมเป็นราชสีห์</H2>
+<span class="LineNumber"> 003 </span>       <B>[๒๒๗]   นี่ไม่ใช่เสียงบรรลือของราชสีห์     ไม่ใช่
+<span class="LineNumber"> 004 </span>         เสียงบรรลือของเสือโคร่ง  ไม่ใช่เสียงบรรลือ
+<span class="LineNumber"> 005 </span>         ของเสือเหลือง   ลาผู้ลามกคลุมตัวด้วยหนัง
+<span class="LineNumber"> 006 </span>         ราชสีห์บรรลือเสียง.
+<span class="LineNumber"> 007 </span>       [๒๒๘]   ลาเอาหนังราชสีห์คลุมตัว  เที่ยวกินข้าว
+<span class="LineNumber"> 008 </span>         เหนียวนานมาแล้ว   ร้องให้เขารู้ว่าเป็นตัวลา   ได้
+<span class="LineNumber"> 009 </span>         ประทุษร้ายตนเองแล้ว.</B>
+<span class="LineNumber"> 010 </span>                        <I>จบ  สีหจัมมชาดกที่   ๙</I>
+
+<span class="LineNumber"> 011 </span>                    <H1>อรรถกถาสีหจัมมชาดกที่   ๙</H1>
+
+<span class="LineNumber"> 012 </span>         พระศาสดาเมื่อประทับอยู่   ณ  พระเชตวันมหาวิหาร   ทรง
+<span class="LineNumber"> 013 </span>ปรารภพระโกกาลิกะนั่นแล    ตรัสพระธรรมเทศนานี้   มีคำเริ่มต้น
+<span class="LineNumber"> 014 </span>ว่า <B>เนตํ  สีหสฺส นทิตํ</B> ดังนี้.
+<span class="LineNumber"> 015 </span>         ในเวลานั้นพระโกกาลิกะประสงค์จะกล่าว     สรภัญญะ.
+<span class="LineNumber"> 016 </span>พระศาสดาทรงสดับเรื่องนั้นแล้ว  จึงทรงนำเรื่องอดีตมาตรัสเล่า.
+<span class="LineNumber"> 017 </span>         ในอดีตกาลครั้งพระเจ้าพรหมทัตเสวยราชสมบัติอยู่ใน
+<span class="LineNumber"> 018 </span>กรุงพาราณสี    พระโพธิสัตว์อุบัติในตระกูลชาวนา      ครั้นเจริญ

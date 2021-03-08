@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  96
+
+<span class="LineNumber"> 002 </span>กมฺโพชกรฏฺ€วาสีนํ  พหูนํ  อนริยานํ  ธมฺมา ฯ  เต  ปน  วิตถา 
+<span class="LineNumber"> 003 </span>อธมฺมา  ธมฺมาติ  วุตฺตา ฯ  เตหิ(๑)  ตว  พฺรหฺมุนา นิมฺมิเตหิ 
+<span class="LineNumber"> 004 </span>ภวิตพฺพนฺติ ฯ  
+<span class="LineNumber"> 005 </span>	อิทานิ เตสํ วิตถภาวํ ทสฺเสนฺโต อาห  
+<span class="LineNumber"> 006 </span>	[๗๗๒]สเจ หิ โส สุชฺฌติ โย หนาติ  
+<span class="LineNumber"> 007 </span>		หโตปิ โส สคฺคมุเปติ €านํ  
+<span class="LineNumber"> 008 </span>		โภวาทิ โภวาทินมารเภยฺยุํ (๒)  
+<span class="LineNumber"> 009 </span>		เย วาปิ(๓) เตสํ อภิสทฺทเหยฺยุํ  
+<span class="LineNumber"> 010 </span>		เนว มิคา น ปสุโนปิ คาโว  
+<span class="LineNumber"> 011 </span>		อายาจนฺติ อตฺตวธาย เกจิ  
+<span class="LineNumber"> 012 </span>		วิปฺผนฺทมานา อิธ ชีวิกตฺถา  
+<span class="LineNumber"> 013 </span>		ยฺเสุ ปาเณ ปสุมารภนฺติ 
+<span class="LineNumber"> 014 </span>		ยูปสฺส เน (๔) ปสุพนฺเธ จ พาลา  
+<span class="LineNumber"> 015 </span>		จิเตฺรหิ(๕) วณฺเณหิ มุขํ นยนฺติ  
+<span class="LineNumber"> 016 </span>		อยนฺเต ยูโป กามทุโห ปรตฺถ  
+<span class="LineNumber"> 017 </span>		ภวิสฺสติ สสฺสโต สมฺปราเย  
+<span class="LineNumber"> 018 </span>		สเจ จ ยูเป มณิสํขมุตฺตํ  
+<span class="LineNumber"> 019 </span>		ธฺํ ธนํ รชตํ ชาตรูปํ  
+<span class="LineNumber"> 020 </span>		สุกฺเขสุ กฏฺเ€สุ นเวสุ จาปิ  
+<span class="LineNumber"> 021 </span># ๑. ม. เตปิ ฯ  ๒. ม.โภวาทิน มารเยยฺยุํ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. จาปิ ฯ  ๔. ม.ยูปุสฺสเน ฯ ๕. ม. จิตฺเตหิ ฯ 

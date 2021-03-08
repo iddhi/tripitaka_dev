@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>อตีตานาคต  ปุคคลวาระ  ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>                                      <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ   โสตินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๑๒๙๔]  จักขุนทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,     โสตินทรีย์
+<span class="LineNumber"> 005 </span>ก็ไม่ใช่จักเกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ไม่มี.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  โสตินทรีย์ไม่ใช่จักเกิดแก่บุคคลใด,   จักขุนทรีย์ก็ไม่
+<span class="LineNumber"> 008 </span>ใช่เคยเกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         เคยเกิด.
+<span class="LineNumber"> 010 </span>                        <I>จบ  จักขุนทริยมูละ  โสตินทริยมูลี</I>
+
+<span class="LineNumber"> 011 </span>ิ<B>จักขุนทริยมูละ  ฆานินทริย  ฯลฯ  อิตถินทริย  ปุริสินทริยมูลี:-</B>
+<span class="LineNumber"> 012 </span>         [๑๒๙๕]  จักขุนทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,     ฆานินทรีย์
+<span class="LineNumber"> 013 </span>ฯลฯ  อิตถินทรีย์  ปุริสินทรีย์ก็ไม่ใช่จักเกิดแก่บุคคลนั้น  ใช่ไหม   ?
+<span class="LineNumber"> 014 </span>         ไม่มี.

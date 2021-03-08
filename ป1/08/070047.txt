@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	บางคราวศัพท์ที่มีเสียง อะ เป็นที่สุด  จะเป็นจำพวกศัพท์มโนคณะ 
+<span class="LineNumber"> 002 </span>หรือมิใช่ก็ตาม  เรียงอยู่ข้างหน้า  ท่านให้เอา  นา  ตติยาวิภัตติเป็น
+<span class="LineNumber"> 003 </span>โส ได้บ้าง เช่น  <B>สุตฺตโส  พฺยญฺชนโส</B>   และบางทีก็เอา  สฺมา  ปญฺจมี-
+<span class="LineNumber"> 004 </span>วิภัตติเป็น โส  ได้บ้างเหมือนกัน เช่น  <B>อุรโส  ทีฆโส</B>  เป็นต้น.
+<span class="LineNumber"> 005 </span>           กมฺม  (กรรม)  เป็นนปุํสกลิงค์  แจกอย่างนี้ :-  
+<span class="LineNumber"> 006 </span>                    เอก.                                                       พหุ.
+<span class="LineNumber"> 007 </span>ป.  <B>กมฺมํ</B>        เอา  อะ  กับ สิ                     <B>กมฺมานิ</B>  เอา อะ  กับ  โย เป็น
+<span class="LineNumber"> 008 </span>                      เป็น  อํ                                              อานิ
+<span class="LineNumber"> 009 </span>ทุ.  <B>กมฺมํ</B>         คง  อํ ไว้                              <B>กมฺมานิ</B>  (เหมือน  ป. พหุ.)
+<span class="LineNumber"> 010 </span>ต.   <B>กมฺมุนา</B>    เอา อะ เป็น อุ คง                <B>กมฺเมหิ</B>   เอา  อะ  เป็น เอ  คง
+<span class="LineNumber"> 011 </span>                       นา ไว้                                                หิ   ไว้
+<span class="LineNumber"> 012 </span>                                                                  <B>กมฺเมภิ</B>    เอา  หิ  เป็น ภิ
+<span class="LineNumber"> 013 </span>จ.  <B>กมฺมุโน</B>       เอา  อะ เป็น อุ                    กมฺมานํ    ทีฆะ  อะ เป็น  อา คง
+<span class="LineNumber"> 014 </span>                        เอา  ส เป็น โน                                     นํ ไว้
+<span class="LineNumber"> 015 </span>ปญฺ.  <B>กมฺมุนา</B>   เอา  อะ เป็น  อุ                    กมฺเมหิ
+<span class="LineNumber"> 016 </span>                         เอา   สฺมา  เป็น  นา             <B>กมฺเมภิ</B>   (เหมือน  ต. พหุ.)
+<span class="LineNumber"> 017 </span>ฉ. <B>กมฺมุโน</B>          (เหมือน  จ. เอก.)                 <B>กมฺมานํ</B>  (เหมือน  จ.  พหุ.)
+<span class="LineNumber"> 018 </span>ส.  <B>กมฺมนิ</B>          เอา  สฺมึ  เป็น  นิ                    <B>กมฺเมสุ</B>   เอา  อะ เป็น  เอ  คง สุ ไว้
+<span class="LineNumber"> 019 </span>อา.  <B>กมฺม</B>           ลบ สิ เสีย                             <B>กมฺมานิ</B>  (เหมือน  ป. พหุ.)
+
+  

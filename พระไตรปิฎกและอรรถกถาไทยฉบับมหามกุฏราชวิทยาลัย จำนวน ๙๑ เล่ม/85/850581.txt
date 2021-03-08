@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>ในหนหลัง.   บรรดาฆฏนาที่มีอธิบดี ๓ ฆฏนาข้างต้น   ตรัสไว้ด้วยอำนาจ  
+<span class="LineNumber"> 002 </span>แห่งเหตุทั้งที่เป็นวิบากและไม่เป็นวิบากโดยสามัญ.  
+<span class="LineNumber"> 003 </span>           บรรดาฆฏนาเหล่านั้น    ใน ฆฏนาที่ ๑ มี ๔ วาระ   มีนัยดังกล่าว 
+<span class="LineNumber"> 004 </span>แล้วนั่นแล.
+<span class="LineNumber"> 005 </span>           ใน <B>ฆฏนาที่  ๒</B>  ไม่มีรูป.
+<span class="LineNumber"> 006 </span>           ใน <B>ฆฏนาที่ ๓</B> ไม่มีอรูป.  ๓ ฆฏนานอกจากนั้นตรัสไว้ด้วยอำนาจ 
+<span class="LineNumber"> 007 </span>แห่งเหตุฝ่ายวิบาก.
+<span class="LineNumber"> 008 </span>           บรรดาฆฏนาเหล่านั้น  <B>ฆฏนาที่ ๑</B> ได้ทั้งรูปและนาม.
+<span class="LineNumber"> 009 </span>           <B>ฆฏนาที่  ๒</B>  ได้แต่นามเท่านั้น.
+<span class="LineNumber"> 010 </span>           <B>ฆฏนาที่ ๓</B> ได้เฉพาะรูปแล.
+<span class="LineNumber"> 011 </span>           ผู้ศึกษา  ครั้นทราบวิธีคำนวณที่ได้ในการประกอบร่วมแห่งปัจจัย
+<span class="LineNumber"> 012 </span>นั้น ๆ     ดังพรรณนามาแล้ว      พึงขยายวิธีคำนวณในติมูลกนัยเป็นต้น
+<span class="LineNumber"> 013 </span>ต่อไป.
+<span class="LineNumber"> 014 </span>                                     <I>เหตุมุลกนัย  จบ</I>
+
+<span class="LineNumber"> 015 </span>                                     <H1>อารัมมณมูลกนัย</H1>
+<span class="LineNumber"> 016 </span>           พึงทราบวินิจฉัย ใน<B>ฆฏนาที่มีอารมณ์เป็นมูล</B> ต่อไป.   ปัจจัย ๗ มี
+<span class="LineNumber"> 017 </span>อธิปติปัจจัยเป็นต้น     เป็นสภาคะกับอารัมมณปัจจัย    ที่เหลือ ๑๖ ปัจจัย
+<span class="LineNumber"> 018 </span>เป็นวิสภาคะ เพราะฉะนั้น   อย่าประกอบปัจจัย๑๖เหล่านั้น (กับอารัมมณ-
+<span class="LineNumber"> 019 </span>ปัจจัย) ประกอบเฉพาะ ๗ ปัจจัยเท่านั้น.  บรรดาบทเหล่านั้น  สองบทว่า
+<span class="LineNumber"> 020 </span><B>อธิปติยา สตฺต</B>     ความว่า <B>ในอธิปติปัจจัย   มีวิสัชนา ๗ วาระ</B>     คือ

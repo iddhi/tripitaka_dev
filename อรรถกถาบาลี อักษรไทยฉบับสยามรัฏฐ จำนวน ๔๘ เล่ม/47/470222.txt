@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  222
+
+<span class="LineNumber"> 002 </span>	อปรนฺโตติ (๑) อนาคโต  อทฺธา  อนาคตานิ  ขนฺธธาตุ-
+<span class="LineNumber"> 003 </span>อายตนานิ ฯ 
+<span class="LineNumber"> 004 </span>	ปุพฺพนฺตาปรนฺโตติ (๒) ตทุภยํ ฯ 
+<span class="LineNumber"> 005 </span>	อิทปฺปจฺจยตาติ  สงฺขาราทีนํ  การณานิ  อวิชฺชาทีนิ 
+<span class="LineNumber"> 006 </span>องฺคานิ ฯ  ปฏิจฺจสมุปฺปนฺนธมฺมาติ  อวิชฺชาทีหิ  นิพฺพตฺตา  
+<span class="LineNumber"> 007 </span>สงฺขาราทโย  ธมฺมา ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺรายํ  อวิชฺชา  ยสฺมา  อตีตานํ  ขนฺธาทีนํ ยาถาวสรส-
+<span class="LineNumber"> 009 </span>ลกฺขณํ  ชานิตุํ  ปสฺสิตุํ  ปฏิวิชฺฌิตุํ  น  เทติ  ฉาเทตฺวา  
+<span class="LineNumber"> 010 </span>ปริโยนทฺธิตฺวา  คณฺหิตฺวา  ติฏฺ€ติ  ตสฺมา  ปุพฺพนฺเต  อฺาณนฺติ
+<span class="LineNumber"> 011 </span>วุจฺจติ ฯ  ตถา  ยสฺมา  อนาคตานํ  ขนฺธาทีนํ  ฯเปฯ  อตีตา-
+<span class="LineNumber"> 012 </span>นาคตานํ  ขนฺธาทีนํ  ฯเปฯ  อิทปฺปจฺจยตาย  เจว  ปฏิจฺจ-
+<span class="LineNumber"> 013 </span>สมุปฺปนฺนธมฺมานฺจ  ยาถาวสรสลกฺขณํ  ชานิตุํ  ปสฺสิตุํ  
+<span class="LineNumber"> 014 </span>ปฏิวิชฺฌิตุํ  น  เทติ  ฉาเทตฺวา  ปริโยนทฺธิตฺวา  คณฺหิตฺวา  ติฏฺ€ติ 
+<span class="LineNumber"> 015 </span>ตสฺมา  อิทปฺปจฺจยตาย  ปฏิจฺจสมุปฺปนฺเนสุ(๓)  ธมฺเมสุ  อฺาณนฺติ  
+<span class="LineNumber"> 016 </span>วุจฺจติ ฯ  อิเมสุ  อฏฺ€สุ  €าเนสุ อภิธมฺมปริยาเยน อฺาณํ 
+<span class="LineNumber"> 017 </span>อวิชฺชาติ กถิตํ ฯ  
+<span class="LineNumber"> 018 </span>	เอวํ  กึ  กถิตํ  โหติ  กิจฺจโต  เจว  ชาติโต  จ  อวิชฺชา  
+<span class="LineNumber"> 019 </span>กถิตา  นาม  โหติ ฯ  กถํ  อยํ  หิ  อวิชฺชา  อิมานิ  อฏฺ€  
+<span class="LineNumber"> 020 </span>€านานิ ชานิตุํ ปสฺสิตุํ ปฏิวิชฺฌิตุํ  น  เทตีติ กิจฺจโต
+<span class="LineNumber"> 021 </span># ๑. ม. อปรนฺเตติ ฯ  ๒. ม. ปุพฺพนฺตาปรนฺเตติ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. อิทปฺปจฺจยตาปฏิจฺจสมุปฺปนฺเนสุ ฯ 

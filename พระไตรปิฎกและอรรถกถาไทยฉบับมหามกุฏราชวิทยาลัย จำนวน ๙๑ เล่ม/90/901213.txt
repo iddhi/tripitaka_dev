@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>			     <H1>อนุโลมทุกทุกปัฏฐาน</H1>					
+<span class="LineNumber"> 002 </span>			      <H1>เหตุทุกสเหตุกทุกะ</H1> 
+<span class="LineNumber"> 003 </span>		 <H2>(๑. เหตุทุกะ  ๑.  สเหตุกทุกะ)</H2>
+<span class="LineNumber"> 004 </span>		          <H1>สเหตุกบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 005 </span>		              <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 006 </span>			    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๑]  ๑.  เหตุสเหตุกธรรม  อาศัยเหตุสเหตุกธรรม  เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>                   ๒.  นเหตุสเหตุกธรรม  อาศัยเหตุสเหตุกธรรม  เกิด
+<span class="LineNumber"> 010 </span>ขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 011 </span>                   ๓.  เหตุสเหตุกธรรม  และนเหตุสเหตุกธรรม  อาศัย
+<span class="LineNumber"> 012 </span>เหตุสเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>                   ๔.  นเหตุสเหตุกธรรม  อาศัยนเหตุสเหตุกธรรม
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                   ๕.  เหตุสเหตุกธรรม  อาศัยนเหตุสเหตุกธรรม  เกิด
+<span class="LineNumber"> 016 </span>ขึ้น  เพราะเหตุปัจจัย		 	

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>๘.  กัจฉปชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                             <H2>ว่าด้วยเต่า</H2>
+<span class="LineNumber"> 003 </span>       <B>[๒๐๕]    เราเกิดที่นี่   เติบโตที่นี่   เพราะเหตุนี้   เรา
+<span class="LineNumber"> 004 </span>         จึงได้อาศัยอยู่ที่เปือกตม      เปือกตมกลับทับถม
+<span class="LineNumber"> 005 </span>         เราให้ทุรพล    ดูก่อนท่านภัคควะ  เพราะเหตุนั้น
+<span class="LineNumber"> 006 </span>         ข้าพเจ้าจะขอกล่าวกะท่าน  ขอท่านจงฟังคำของ
+<span class="LineNumber"> 007 </span>         ข้าพเจ้าเถิด.
+<span class="LineNumber"> 008 </span>       [๒๐๖]    บุคคลได้รับความสุขในที่ใด     จะเป็นใน
+<span class="LineNumber"> 009 </span>         บ้านหรือในป่าก็ตาม ที่นั้นเป็นที่เกิด  เป็นที่เติบโต
+<span class="LineNumber"> 010 </span>         ของบุรุษผู้ร้จักเหตุผล    บุคคลพึงเป็นอยู่ได้ในที่ใด
+<span class="LineNumber"> 011 </span>         ก็พึงไปที่นั้น   ไม่พึงให้ที่อยู่ฆ่าตนเสีย.</B>
+<span class="LineNumber"> 012 </span>                              <I>จบ  กัจฉปชาดกที่  ๘</I>
+
+<span class="LineNumber"> 013 </span>                         <H1>อรรถกถากัจฉปชาดกที่    ๘</H1>
+
+<span class="LineNumber"> 014 </span>         พระศาสดาเมื่อประทับอยู่    ณ    พระเชตวันมหาวิหารทรง
+<span class="LineNumber"> 015 </span>ปรารภผู้รอดจากอหิวาตกโรคคนหนึ่ง     ตรัสพระธรรมเทศนา
+<span class="LineNumber"> 016 </span>นี้มีคำเริ่มต้นว่า <B>ชนิตํ เม ภวิตํ เม</B> ดังนี้.
+<span class="LineNumber"> 017 </span>         มีเรื่องเล่าว่าที่กรุงสาวัตถี      ได้เกิดอหิวาตกโรคขึ้นใน
+<span class="LineNumber"> 018 </span>ตระกูลหนึ่ง.     มารดาบิดาจึงบอกแก่บุตรว่า     ลูก    เจ้าอย่าอยู่ใน

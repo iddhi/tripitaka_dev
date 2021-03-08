@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         จิตใดของบุคคลใดไม่ใช่เคยเกิด,   จิตนั้นของบุคคลนั้นไม่ใช่จัก 
+<span class="LineNumber"> 002 </span>เกิด  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ก็หรือว่าจิตใดของบุคคลใดไม่ใช่จักเกิด     จิตนั้นของบุคคลนั้น
+<span class="LineNumber"> 004 </span>ไม่ใช่เคยเกิด  ใช่ไหม ?
+<span class="LineNumber"> 005 </span><H1>นิโรธวาระ</H1> :-
+<span class="LineNumber"> 006 </span>         [๓๓]   จิตใดของบุคคลใดกำลังดับ,   จิตนั้นของบุคคลนั้นเคย
+<span class="LineNumber"> 007 </span>ดับ  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ก็หรือว่าจิตใดของบุคคลใดเคยดับ,    จิตนั้นของบุคคลนั้นกำลัง
+<span class="LineNumber"> 009 </span>ดับ  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         จิตใดของบุคคลไม่ใช่กำลังดับ,     จิตนั้นของบุคคลนั้นไม่ใช่
+<span class="LineNumber"> 011 </span>เคยดับ   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ก็หรือว่าจิตใดของบุคคลใดไม่ใช่เคยดับ,   จิตนั้นของบุคคลนั้น
+<span class="LineNumber"> 013 </span>ไม่ใช่กำลังดับ  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         จิตใดของบุคคลใดกำลังดับ     จิตนั้นของบุคคลนั้นจักดับ     ใช่
+<span class="LineNumber"> 015 </span>ไหม ?
+<span class="LineNumber"> 016 </span>         ก็หรือว่าจิตใดของบุคคลใดจักดับ,  จิตนั้นของบุคคลนั้นกำลังดับ
+<span class="LineNumber"> 017 </span>ใช่ไหม ?

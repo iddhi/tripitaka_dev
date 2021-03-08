@@ -1,0 +1,30 @@
+﻿<span class="LineNumber"> 001 </span>                        <H2>สันถารวรรคที่  ๔<SUP>๑</SUP></H2>
+
+<span class="LineNumber"> 002 </span>                      <H3>อรรถกถาสูตรที่  ๑</H3>
+
+<span class="LineNumber"> 003 </span>         <B>วรรคที่  ๔  สูตรที่  ๑</B>   (ข้อ ๓๙๖)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 004 </span>         การปูลาดด้วยปัจจัย     โดยปกปิดช่องว่างคนและคนอื่น   ชื่อว่า
+<span class="LineNumber"> 005 </span><B>อามิสสันถาร.</B>   การปูลาดด้วยธรรม  ชื่อว่า   <B>ธรรมสันถาร.</B>
+<span class="LineNumber"> 006 </span>                                  จบอรรถกถาสูตรที่  ๑  
+
+<span class="LineNumber"> 007 </span>                         <H3>อรรถกถาสูตรที่ ๒</H3>
+
+<span class="LineNumber"> 008 </span>         ใน<B>สูตรที่  ๒</B>  (ข้อ  ๓๙๗)  แปลกกันเพียงอุปสรรค
+<span class="LineNumber"> 009 </span>                                     จบอรรถกถาสูตรที่  ๒
+
+<span class="LineNumber"> 010 </span>                           <H3>อรรถกถาสูตรที่ ๓</H3>
+
+<span class="LineNumber"> 011 </span>         ใน<B>สูตรที่  ๓</B>    (ข้อ  ๓๙๘)    การหาอามิสมีประการดังกล่าวแล้ว
+<span class="LineNumber"> 012 </span>ชื่อว่า  <B>อามิสเอสนา.</B>  การหาธรรม  ชื่อว่า   <B>ธรรมเอสนา.</B>
+<span class="LineNumber"> 013 </span>                                     จบอรรถกถาสูตรที่ ๓
+
+<span class="LineNumber"> 014 </span>                           <H3>อรรถกถาสูตรที่ ๔</H3>
+
+<span class="LineNumber"> 015 </span>         ใน<B>สูตรที่  ๔</B>   (ข้อ  ๓๙๙)  แปลกกันเพียงอุปสรรค.
+<span class="LineNumber"> 016 </span>                                     จบอรรถกถาสูตรที่ ๔   
+
+<span class="LineNumber"> 017 </span>                                <H3>อรรถกถาสูตรที่  ๕</H3>
+
+<span class="LineNumber"> 018 </span>         ใน<B>สูตรที่  ๕</B>   (ข้อ   ๔๐๐)  มีวินิจฉัยดังต่อไปนี้.
+
+<span class='footnote'>๑.  อรรถกถาแก้ไว้สั้น ๆ  จึงเรียงติดต่อกันไปทั้งวรรค  โดยลงเลขข้อสูตรกำกับไว้ด้วย.</span>

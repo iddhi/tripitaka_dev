@@ -1,0 +1,31 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>๔๓-๖.  โยควิปปยุตตโยคนิยทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>โยควิปฺปยุตฺตา โข ปน ธมฺมา</B>        ธรรมวิปปยุตจากโยคะ  แต่เป็นอารมณ์
+<span class="LineNumber"> 003 </span><B>โยคนิยาปิ</B>                                     ของโยคะ
+<span class="LineNumber"> 004 </span><B>โยควิปฺปยุตฺตา โข ปน ธมฺมา</B>        ธรรมวิปปยุตจากโยคะ  และไม่เป็น
+<span class="LineNumber"> 005 </span><B>อโยคนิยาปิ</B>                                  อารมณ์ของโยคะ
+
+<span class="LineNumber"> 006 </span>                            <H1>นีวรณโคจฉกะ</H1>
+
+<span class="LineNumber"> 007 </span>                 <H1>หมวดที่  ๘ มี  ๖ ทุกะ</H1>  <B>คือ</B>
+
+<span class="LineNumber"> 008 </span>         [๙]              <H2>๔๔-๑.  นีวรณทุกะ</H2>
+
+<span class="LineNumber"> 009 </span><B>นีวรณา  ธมฺมา</B>	                    ธรรมเป็นนิวรณ์
+<span class="LineNumber"> 010 </span><B>โน นีวรณา  ธมฺมา</B>                       ธรรมไม่เป็นนิวรณ์
+
+<span class="LineNumber"> 011 </span>                          <H2>๔๕-๒.  นีวรณิยทุกะ</H2>
+
+<span class="LineNumber"> 012 </span><B>นีวรณา  ธมฺมา</B>                            ธรรมเป็นอารมณ์ของนิวรณ์
+<span class="LineNumber"> 013 </span><B>อนีวรณิยา  ธมฺมา</B>                        ธรรมไม่เป็นอารมณ์ของนิวรณ์
+
+<span class="LineNumber"> 014 </span>                   <H2>๔๖-๓.  นีวรณสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 015 </span><B>นีวรณสมฺปยุตฺตา ธมฺมา</B>                ธรรมสัมปยุตด้วยนิวรณ์
+<span class="LineNumber"> 016 </span><B>นีวรณวิปฺปยุตฺตา  ธมฺมา</B>               ธรรมวิปปยุตจากนิวรณ์
+
+<span class="LineNumber"> 017 </span>                   <H2>๔๗-๔.  นีวรณนีวรณิยทุกะ</H2>
+
+<span class="LineNumber"> 018 </span><B>นีวรณา เจว ธมฺมา นีวรณิยา จ</B>      ธรรมเป็นนิวรณ์  และเป็นอารมณ์ของ
+<span class="LineNumber"> 019 </span>                                                      นิวรณ์
+

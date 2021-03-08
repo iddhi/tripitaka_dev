@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28   หน้า 246
+
+<span class="LineNumber"> 002 </span>			มฆเทวชาตกํ  
+<span class="LineNumber"> 003 </span>	อุตฺตมงฺครุหา  มยฺหนฺติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 004 </span>มหาภินิกฺขมนํ  อารพฺภ  กเถสิ ฯ 
+<span class="LineNumber"> 005 </span>	ตํ  เหฏฺ€า  นิทานกถาย กถิตเมว ฯ  ตสฺมึ  ปน  กาเล  
+<span class="LineNumber"> 006 </span>ภิกฺขู  ทสพลสฺส  เนกฺขมฺมํ  วณฺณยนฺตา  นิสีทึสุ ฯ อถ  สตฺถา 
+<span class="LineNumber"> 007 </span>ธมฺมสภํ  อาคนฺตฺวา  พุทฺธาสเน  นิสินฺโน  ภิกฺขู  อามนฺเตตฺวา  
+<span class="LineNumber"> 008 </span>กาย  นุตฺถ  ภิกฺขเว  เอตรหิ  กถาย  สนฺนิสินฺนาติ  ปุจฺฉิ ฯ  
+<span class="LineNumber"> 009 </span>ภนฺเต น  อฺาย  กถาย  ตุมฺหากํเยว  ปน  เนกฺขมฺมํ  
+<span class="LineNumber"> 010 </span>วณฺณยมานา นิสินฺนมฺหาติ ฯ  น  ภิกฺขเว  ตถาคโต  เอตรหิเยว
+<span class="LineNumber"> 011 </span>เนกฺขมฺมํ  นิกฺขนฺโต  ปุพฺเพปิ  นิกฺขนฺโตเยวาติ  อาห ฯ  ภิกฺขู 
+<span class="LineNumber"> 012 </span>ตสฺสตฺถสฺสาวิภาวตฺถํ  ภควนฺตํ ยาจึสุ ฯ  ภควา ภวนฺตเรน 
+<span class="LineNumber"> 013 </span>ปฏิจฺฉนฺนํ การณํ ปากฏํ อกาสิ ฯ  
+<span class="LineNumber"> 014 </span>	อตีเต  วิเทหรฏฺเ€  มิถิลายํ  มฆเทโว(๑)  นาม  ราชา  อโหสิ  
+<span class="LineNumber"> 015 </span>ธมฺมิโก  ธมฺมราชา ฯ  โส [๒] ทีฆมทฺธานํ  เขเปตฺวา  เอกทิวสํ 
+<span class="LineNumber"> 016 </span>กปฺปกํ  อามนฺเตสิ  ยทา  เม  สมฺม  กปฺปก  สิรสฺมึ  ปลิตานิ  
+<span class="LineNumber"> 017 </span>ปสฺเสยฺยาสิ  อถ  เม  อาโรเจยฺยาสีติ ฯ  กปฺปโกปิ  ทีฆมทฺธานํ 
+<span class="LineNumber"> 018 </span>เขเปตฺวา เอกทิวสํ  รฺโ  อฺชนวณฺณานํ  เกสานํ  อนฺตเร  
+<span class="LineNumber"> 019 </span>เอกเมว  ปลิตํ  ทิสฺวา  เทว  เอกํ  เต  ปลิตํ  ทิสฺสตีติ  อาโรเจสิ ฯ 
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. มขาเทโว ฯ  ๒. ม. เอตฺถนฺตเร จตุราสีติ วสฺสสหสฺสานิ กุมารกีฬํ 
+<span class="LineNumber"> 021 </span># กีฬิ ตถา โอปรชฺชํ ตถา มหารชฺชํ กตฺวาติ อตฺถิ ฯ 

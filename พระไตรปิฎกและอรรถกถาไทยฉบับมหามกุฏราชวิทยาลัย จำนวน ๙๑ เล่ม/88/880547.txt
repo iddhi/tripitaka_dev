@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                              <H2>๒.  นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>           [๕๐๑] ๑.  <B>ธรรมที่ไม่ใช่คันถธรรม อาศัยคันถธรรม  เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะนอารัมมณปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ   จิตตสมุฏฐานรูป   อาศัยคันถธรรมทั้งหลาย.
+<span class="LineNumber"> 005 </span>           	      ๒.  <B>ธรรมที่ไม่ใช่คันถธรรม  อาศัยธรรมที่ไม่ใช่คันถ-
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่ไม่ใช่คันถธรรม.
+<span class="LineNumber"> 008 </span>           ในปฏิสนธิขณะ ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 009 </span>            	      ๓.  <B>ธรรมที่ไม่ใช่คันถธรรม   อาศัยคันถธรรม   และ
+<span class="LineNumber"> 010 </span>ธรรมที่ไม่ใช่คันถธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ จิตตสมุฏฐานรูป อาศัยคันถธรรม และสัมปยุตตขันธ์ทั้งหลาย ฯลฯ
+
+<span class="LineNumber"> 012 </span>            <H2>๓.  นอธิปติปัจจัย   ฯลฯ   ๗.  อุปนิสสยปัจจัย</H2> 
+<span class="LineNumber"> 013 </span>           <B>ฯลฯ    เพราะนอธิปติปัจจัย</B>   มี ๙ วาระ.
+<span class="LineNumber"> 014 </span>           <B>ฯลฯ    เพราะนอนันตรปัจจัย</B>  มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>           <B>ฯลฯ    เพราะนสมนันตรปัจจัย</B>  มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>           <B>ฯลฯ    เพราะนอัญญมัญญปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>           <B>ฯลฯ    เพราะนอุปนิสสยปัจจัย</B>  มี ๓ วาระ.
+
+<span class="LineNumber"> 018 </span>                                    <H2>๘.  นปุเรชาตปัจจัย</H2>
+<span class="LineNumber"> 019 </span>           [๕๐๒]  ๑.  <B>คันถธรรม    อาศัยคันถธรรม    เกิดขึ้น   เพราะ
+<span class="LineNumber"> 020 </span>นปุเรชาตปัจจัย</B>

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>๘.  ทัสสนติกนทัสสนติกะ</H1>  
+<span class="LineNumber"> 002 </span>                                  <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๗๑] ๑.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม   อาศัยธรรม
+<span class="LineNumber"> 006 </span>ที่เป็นทัสสเนนปหาตัพพธรรม  เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                   ๒.  <B>ธรรมที่ไม่ใช่ภาวนายปหาตัพพธรรม   อาศัยธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นทัสสเนนปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                   ๓.  <B>ธรรมที่ไม่ใช่เนวทัสสเนนนภาวนายปหาตัพพธรรม
+<span class="LineNumber"> 010 </span>อาศัยธรรมที่เป็นทัสสเนนปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                   ๔.  <B>ธรรมที่ไม่ใช่ภาวนายปหาตัพพธรรม     และธรรม
+<span class="LineNumber"> 012 </span>ที่ไม่ใช่เนวทัสสเนนนภาวนายปหาตัพพธรรม    อาศัยธรรมที่เป็น
+<span class="LineNumber"> 013 </span>ทัสสเนนปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                   ๕.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม    และธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่ภาวนายปหาตัพพธรรม  อาศัยธรรมที่เป็นทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 016 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๕ วาระ.

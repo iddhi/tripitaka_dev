@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         ย่อมละกิเลสอันตั้งอยู่ในที่เดียวกันกับอนุสัยนั้น. 
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  บุคคลใด  ละอวิชชานุสัย,  บุคคลนั้น  ย่อมละวิจิกิจฉา-
+<span class="LineNumber"> 003 </span>นุสัย  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ไม่ใช่.
+<span class="LineNumber"> 005 </span>                   <I>จบ  วิจิกิจฉานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 006 </span>                                   <I>วิจิกิจฉานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                       <H1>ภวราคานุสยมูล</H1>
+<span class="LineNumber"> 008 </span><H1>ภวราคานุสยมูละ อวิชชานุสยมูลี</H1> :-
+<span class="LineNumber"> 009 </span>         [๑๓๕๙]  บุคคลใด   ละภวราคานุสัย    บุคคลนั้น    ย่อมละ
+<span class="LineNumber"> 010 </span>อวิชชานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า บุคคลใด  ละอวิชชานุสัย,  บุคคลนั้น  ย่อมละภวราคา-
+<span class="LineNumber"> 013 </span>นุสัย  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>                      <I>จบ   ภวราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 016 </span>                                    <I>ภวราคานุสยมูล   จบ</I>
+<span class="LineNumber"> 017 </span>                                         <I>เอกมูลกะ  จบ</I>

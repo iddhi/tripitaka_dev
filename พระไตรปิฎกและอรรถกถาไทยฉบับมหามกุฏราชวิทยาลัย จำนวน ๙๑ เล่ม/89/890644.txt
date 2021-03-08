@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                        <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๕๙๔]  ๑.  <B>ภาวนายปหาตัพพธรรม    เป็นปัจจัยแก่ภาวนาย-
+<span class="LineNumber"> 005 </span>ปหาตัพพธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  เหตุทั้งหลายที่เป็นภาวนายปหาตัพพธรรม  เป็นปัจจัยแก่สัมปยุตต
+<span class="LineNumber"> 007 </span>ขันธ์ทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                      ๒.  <B>ธรรมที่ไม่ใช่ภาวนายปหาตัพพธรรม   เป็นปัจจัย
+<span class="LineNumber"> 009 </span>แก่ธรรมที่ไม่ใช่ภาวนายปหาตัพพธรรม  ด้วยอำนาจของเหตุ-
+<span class="LineNumber"> 010 </span>ปัจจัย ฯลฯ</B>
+  
+<span class="LineNumber"> 011 </span>                                    <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 012 </span>         [๕๙๕] ๑.  <B>ภาวนายปหาตัพพธรรม  เป็นปัจจัยแก่ภาวนาย-
+<span class="LineNumber"> 013 </span>ปหาตัพพธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  บุคคลย่อมยินดี    ย่อมเพลิดเพลินยิ่ง    ซึ่งราคะที่เป็นภาวนาย-
+<span class="LineNumber"> 015 </span>ปหาตัพพธรรม    เพราะปรารภราคะนั้น     ราคะที่เป็นภาวนายปหาตัพพธรรม
+<span class="LineNumber"> 016 </span>ฯลฯ  อุทธัจจะ ฯลฯ  โทมนัสที่เป็นภาวนายปหาตัพพธรรม ฯลฯ
+<span class="LineNumber"> 017 </span>         เพราะปรารภอุทธัจจะ  อุทธัจจะ  ย่อมเกิดขึ้น,  โทมนัสที่เป็นภาวนาย-
+<span class="LineNumber"> 018 </span>ปหาตัพพธรรม  ย่อมเกิดขึ้น.
+<span class="LineNumber"> 019 </span>         เพราะปรารภโทมนัสที่เป็นภาวนายปหาตัพพธรรม     โทมนัสที่เป็น
+<span class="LineNumber"> 020 </span>ภาวนายปหาตัพพธรรม   ย่อมเกิดขึ้น  อุทธัจจะ  ย่อมเกิดขึ้น.

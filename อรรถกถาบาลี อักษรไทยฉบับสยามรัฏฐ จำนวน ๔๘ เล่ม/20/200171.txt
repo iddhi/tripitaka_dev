@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ป€มนกุหนสุตฺตวณฺณนา หน้า 171
+
+<span class="LineNumber"> 002 </span>อิมสฺมึ  มหาโควินฺทสุตฺเต  พฺรหฺมวิหาเร ฯ  ปเร  อพฺรหฺมจาริโน
+<span class="LineNumber"> 003 </span>ภวิสฺสนฺติ มยเมตฺถ พฺรหฺมจาริโน ภวิสฺสสามาติ (๑) สลฺเลขสุตฺเต
+<span class="LineNumber"> 004 </span>เมถุนวิรติยํ ฯ
+<span class="LineNumber"> 005 </span>		มยฺจ ภริยา นาติกฺกมาม
+<span class="LineNumber"> 006 </span>		อเมฺห จ ภริยา นาติกฺกมนฺติ
+<span class="LineNumber"> 007 </span>		อฺตฺร ตาหิ พฺรหฺมจริยํ จราม
+<span class="LineNumber"> 008 </span>		ตสฺมาติหมฺหํ(๒) ทหรา น มิยฺยเรติ(๓)
+<span class="LineNumber"> 009 </span>มหาธมฺมปาลชาตเก  สทารสนฺโตเส ฯ  อภิชานามิ  โข  ปนาหํ  
+<span class="LineNumber"> 010 </span>สาริปุตฺต จตุรงฺคสมนฺนาคตํ  พฺรหฺมจริยํ  จริตฺวา(๔)  ตปสฺสี  สุทํ 
+<span class="LineNumber"> 011 </span>โหมีติ  (๕)  โลมหํสสุตฺเต วีริเย ฯ
+<span class="LineNumber"> 012 </span>	หีเนน พฺรหฺมจริเยน  ขตฺติเย อุปปชฺชติ
+<span class="LineNumber"> 013 </span>	มชฺฌิเมน จ เทวตฺตํ  อุตฺตเมน วิสุชฺฌตีติ (๖) 
+<span class="LineNumber"> 014 </span>นิมิชาตเก  อตฺตทมนวเสน  กเต  อฏฺ€งฺคิกอุโปสเถ ฯ  อิทํ  โข  ปน
+<span class="LineNumber"> 015 </span>ปฺจสิข พฺรหฺมจริยํ  เอกนฺตนิพฺพิทาย  วิราคาย  ฯเปฯ  อยเมว 
+<span class="LineNumber"> 016 </span>อริโย  อฏฺ€งฺคิโก มคฺโคติ(๗)  มหาโควินฺทสุตฺเตเยว  อริยมคฺเค ฯ  
+<span class="LineNumber"> 017 </span>ตยิทํ  พฺรหฺมจริยํ  อิทฺธฺเจว ผีตฺจ  วิตฺถาริกํ  พหุชฺํ(๘)
+<span class="LineNumber"> 018 </span>ปุถุภูตํ  ยาว  เทวมนุสฺเสหิ  สุปฺปกาสิตนฺติ (๙) ปาสาทิกสุตฺเต 
+<span class="LineNumber"> 019 </span># ๑. ม. มู. ๑๒/๑๐๔/๗๕ ฯ  ๒. ม. ตสฺมา หิ อมฺหํ ฯ
+<span class="LineNumber"> 020 </span># ๓. ขุ. ชา. ๒๗/๑๔๑๕/๒๘๙ ฯ  ๔. ม. จริตา ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. มู. ๑๒/๑๗๗/๑๕๕ ฯ  ๖. ขุ. ชา. ๒๗/๑๑๘๖/๒๔๙-๒๕๐ ฯ
+<span class="LineNumber"> 022 </span># ๗. ที. มหา. ๑๐/๒๓๔/๒๘๕ ฯ ๘. ม. พาหุชฺํ ฯ
+<span class="LineNumber"> 023 </span># ๙. ที. ปา. ๑๑/๑๐๔/๑๓๖ ฯ

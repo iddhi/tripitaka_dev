@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>๙.  นปัจฉาชาตปัจจัย ฯลฯ ๑๑.  นกัมมปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๒๐๔๙] ๑.  <H1>อัชฌัตตธรรม  อาศัยอัชฌัตตธรรม  ฯลฯ  เพราะ 
+<span class="LineNumber"> 003 </span>นปัจฉาชาตปัจจัย  เพราะนอาเสวนปัจจัย   เพราะนกัมมปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           คือ เจตนาที่เป็นอัชฌัตตธรรม อาศัยขันธ์ทั้งหลายที่เป็นอัชฌัตตธรรม
+<span class="LineNumber"> 005 </span>           อาหารสมุฏฐานรูป . . .อุตุสมุฏฐานรูป ฯลฯ.
+<span class="LineNumber"> 006 </span>           [๒๐๕๐] ๒.  <B>พหิทธาธรรม อาศัยพหิทธาธรรม  ฯลฯ     เพราะ
+<span class="LineNumber"> 007 </span>นกัมมปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ เจตนาที่เป็นพหิทธาธรรม  อาศัยขันธ์ทั้งหลายที่เป็นพหิทธาธรรม
+<span class="LineNumber"> 009 </span>           พาหิรรูป . . . อาหารสมุฏฐานรูป . . . อุตุสมุฏฐานรูป ฯลฯ.
+
+<span class="LineNumber"> 010 </span>                         <H1>๑๒.  นวิปากปัจจัย  ๑๓.  นอาหารปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           [๒๐๕๑] ๓. <B>อัชฌัตตธรรมอาศัยอัชฌัตตธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 012 </span>นวิปากปัจจัย   ปฏิสนธิไม่มี.</B>
+<span class="LineNumber"> 013 </span>           <B>เพราะนอาหารปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  อุตสุมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 015 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ
+<span class="LineNumber"> 016 </span>           [๒๐๕๒] ๒.  <B>พหิทธาธรรมอาศัยพหิธาธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 017 </span>นอาหารปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ   พาหิรรูป... อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 019 </span>           ส่วนอสัญญสัตว์ทั้งหลาย   ฯลฯ.

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  200
+			
+<span class="LineNumber"> 002 </span>		สุปณฺณา นาม สกุณา	ปกฺขิชาตา (๑) มหพฺพลา  
+<span class="LineNumber"> 003 </span>		เตปิ มํ สรณํ ยนฺติ		ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 004 </span>		เยปิ ทีฆายุกา นาคา	อิทฺธิมนฺโต มหายสา  
+<span class="LineNumber"> 005 </span>		เตปิ มํ วสมเนฺวนฺติ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 006 </span>		สีหา พยคฺฆา จ ทีปี จ	อจฺฉโกกตรจฺฉกา (๒)  
+<span class="LineNumber"> 007 </span>		เตปิ มํ วสมเนฺวนฺติ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 008 </span>		โอสธี ติณวาสี จ		เย จ อากาสวาสิโน  
+<span class="LineNumber"> 009 </span>		สพฺเพ มํ สรณํ ยนฺติ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 010 </span>		สุทุทฺทสํ สุนิปุณํ		คมฺภีรํ สุปฺปกาสิตํ  
+<span class="LineNumber"> 011 </span>		ผสฺสยิตฺวา(๓) วิหรามิ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 012 </span>		วิโมกฺเข อฏฺ€ ผุสิตฺวา	วิหรามิ อนาสโว  
+<span class="LineNumber"> 013 </span>		อาตาปี นิปโก จาหํ(๔)	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 014 </span>		เย ผลฏฺ€า พุทฺธปุตฺตา	ขีณโทสา มหายสา  
+<span class="LineNumber"> 015 </span>		อหมฺตโร เตสํ		ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 016 </span>		อภิฺาปารมึ คนฺตฺวา	สุกฺกมูเลน โจทิโต  
+<span class="LineNumber"> 017 </span>		สพฺพาสเว ปริฺาย	วิหรามิ อนาสโว ฯ  
+<span class="LineNumber"> 018 </span>		เตวิชฺชา อิทฺธิปตฺตา จ	พุทฺธปุตฺตา มหายสา  
+<span class="LineNumber"> 019 </span>		ทิพฺพโสตํ สมาปนฺนา(๕)	เตสํ อฺตโร อหํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. ปกฺขชาตา ฯ  ๒. สี. อจฺฉกา จ ตรจฺฉกา ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. ผุสฺสยิตฺวา ฯ  ๔. สฺยา. จาปิ ฯ 
+<span class="LineNumber"> 022 </span># ๕. สฺยา. ทิพฺพโสตสมาปนฺนา ฯ  ม. สมาปนฺนา ฯ

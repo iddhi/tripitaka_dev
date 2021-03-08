@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                       			   <H1>อนิยตบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>							<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>						      <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>		[๗๐๐]  ๑.  อนิยตธรรมที่เป็นเหตุ    เป็นปัจจัยแก่อนิยตธรรม
+<span class="LineNumber"> 005 </span>ที่เป็นเหตุ  ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                             		    <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 007 </span>		[๗๐๑]  ๑.  อนิยตธรรมที่เป็นเหตุ   เป็นปัจจัยแก่อนิยตธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นเหตุ  ด้วยอำนาจของอารัมมณปัจจัย   มี ๙ วาระ.
+<span class="LineNumber"> 009 </span>                          		      <H1>๓.  อธิปติปัจจัย</H1>
+<span class="LineNumber"> 010 </span>		[๗๐๒]  ๑.  อนิยตธรรมที่เป็นเหตุ     เป็นปัจจัยแก่อนิยตธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นเหตุ   ด้วยอำนาจของอธิปติปัจจัย
+<span class="LineNumber"> 012 </span>            มี ๒ อย่าง  คือที่เป็น  <B>อารัมมณาธิปติ</B>  และ  <B>สหชาตาธิปติ</B>  มี  ๓
+<span class="LineNumber"> 013 </span>วาระ   (วาระที่ ๑-๒-๓)
+<span class="LineNumber"> 014 </span>                 	   ๔.  อนิยตธรรมที่ไม่ใช่เหตุ เป็นปัจจัยแก่อนิยตธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่เหตุ  ด้วยอำนาจของอธิปติปัจจัย
+<span class="LineNumber"> 016 </span>           	มี ๒ อย่าง  คือที่เป็น  <B>อารัมมณาธิปติ</B>  และ <B>สหชาตาธิปติ</B>  มี  ๓
+<span class="LineNumber"> 017 </span>วาระ   (วาระที่  ๔-๕-๖)

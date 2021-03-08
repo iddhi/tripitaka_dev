@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ต.  พระเสกขะและกัลยาณปุถุชนศึกษา  
+<span class="LineNumber"> 002 </span>           ถ.  พวกไหนมีสิกขาอันศึกษาแล้ว
+<span class="LineNumber"> 003 </span>           ต.  พระอรหันต์มีสิกขาอันศึกษาแล้ว
+<span class="LineNumber"> 004 </span>           ถ.  ปาราชิกสิกขาบทที่ ๑ นั้น  ตั้งอยู่ในใคร
+<span class="LineNumber"> 005 </span>           ต.  ตั้งอยู่ในสิกขากามบุคคล
+<span class="LineNumber"> 006 </span>           ถ.  พวกไหนย่อมทรงไว้
+<span class="LineNumber"> 007 </span>           ต.  ปาราชิกสิกขาบทที่ ๑  ย่อมเป็นไปแก่พระเถระพวกใด  พระเถระ
+<span class="LineNumber"> 008 </span>พวกนั้นย่อมทรงไว้
+<span class="LineNumber"> 009 </span>           ถ.  เป็นถ้อยคำของใคร
+<span class="LineNumber"> 010 </span>           ต.  เป็นพระดำรัสของพระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้า
+<span class="LineNumber"> 011 </span>           ถ.  ใครนำมา
+<span class="LineNumber"> 012 </span>           ต.  พระเถระทั้งหลายนำสืบ ๆ กันมา.
+
+<span class="LineNumber"> 013 </span>                                <H2>รายนามพระเถระ</H2>
+<span class="LineNumber"> 014 </span>                             <B>[๓]  พระเถระเหล่านี้  คือ พระอุบาลี
+<span class="LineNumber"> 015 </span>                   พระทาสกะ  พระโสณถะ  พระสิคควะ  รวม
+<span class="LineNumber"> 016 </span>                   เป็นห้าทั้งพระโมคคัลลีบุตร  นำพระวินัยมา
+<span class="LineNumber"> 017 </span>                   ในทวีปชื่อว่าชมพู  อันมีสิริ  แต่นั้น     พระ-
+<span class="LineNumber"> 018 </span>                   เถระผู้ประเสริฐมีปัญญามากเหล่านี้ คือ พระ
+<span class="LineNumber"> 019 </span>                   มหินทะ  ๑  พระอิฏฏิยะ  ๑  พระอุตติยะ ๑
+<span class="LineNumber"> 020 </span>                   พระสัมพละ  ๑   พระเถระชื่อภัททะผู้เป็น
+<span class="LineNumber"> 021 </span>                   บัณฑิต  ๑  มาในเกาะสิงหฬนี้  แต่ชมพูทวีป</B>

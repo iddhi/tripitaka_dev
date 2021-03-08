@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>                                       คำนำ
+<span class="LineNumber"> 002 </span>	สมถกัมมัฏฐาน  เป็นหลักสูตรนักธรรมชั้นเอง  พิมพ์ครั้งนี้ได้
+<span class="LineNumber"> 003 </span>จัดวรรคตอนให้เรียบร้อยดียิ่งขึ้น  และแก้ไขอักษรให้ถูกต้องตามความ 
+<span class="LineNumber"> 004 </span>นิยมของชนหมู่มาก  ส่วนข้อความคงไว้ตามเดิม  มิได้แก้ไขเปลี่ยน
+<span class="LineNumber"> 005 </span>แปลงอย่างไร 		
+<span class="LineNumber"> 006 </span>						<B>กองตำรา</B>
+<span class="LineNumber"> 007 </span>มหามกุฎราชวิทยาลัย
+<span class="LineNumber"> 008 </span>๑๕ กรกฎาคม ๑๔๘๓

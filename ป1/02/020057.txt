@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                          ศัพท์เหล่านี้  แจกเหมือน  มหาราช   
+<span class="LineNumber"> 002 </span>-------------------------------------------------------------------------------------
+<span class="LineNumber"> 003 </span>อนุราช		พระราชาน้อย		นาคราช		นาคผู้พระราชา
+<span class="LineNumber"> 004 </span>อภิราช		พระราชยิ่ง		มิคราช		เนื้อผู้พระราชา
+<span class="LineNumber"> 005 </span>อุปราช		อุปราช			สุปณฺณราช	ครุฑผู้พระราชา
+<span class="LineNumber"> 006 </span>จกฺกวตฺติราช	พระราชจักรพรรดิ	หํสราช		หงส์ผู้พระราชา
+<span class="LineNumber"> 007 </span>เทวราช		เทวดาผู้พระราชา
+<span class="LineNumber"> 008 </span>          [๖๔]  ภควนฺตุ  [พระผู้มีพระภาค]  เป็นปุํลิงค์  แจกอย่างนี้:-
+<span class="LineNumber"> 009 </span>		เอก.							พหุ.
+<span class="LineNumber"> 010 </span>ป.	ภควา					ภควนฺตา		ภควนฺโต
+<span class="LineNumber"> 011 </span>ทุ.	ภควนฺตํ					ภควนฺเต		ภควนฺโต
+<span class="LineNumber"> 012 </span>ต.	ภควตา					ภควนฺเตหิ	ภควนฺเตภิ
+<span class="LineNumber"> 013 </span>จ.	ภควโต					ภควตํ		ภควนฺตานํ
+<span class="LineNumber"> 014 </span>ปญฺ.	ภควตา					ภควนฺเตหิ	ภควนฺเตภิ
+<span class="LineNumber"> 015 </span>ฉ.	ภควโต					ภควตํ		ภควนฺตานํ
+<span class="LineNumber"> 016 </span>ส.	ภควติ	ภควนฺเต			ภควนฺเตสุ
+<span class="LineNumber"> 017 </span>อา.	ภคว		ภควา			ภควนฺตา		ภควนฺโต
+<span class="LineNumber"> 018 </span>                      วิธีเปลี่ยน  วิภัตติ  และ การันต์
+<span class="LineNumber"> 019 </span>๑  เอา  นฺตุ  ปัจจัย  เป็น  นฺต  ได้.
+<span class="LineNumber"> 020 </span>๒  เอา  นฺตุ  กับ  สิ  เป็น  อา,  เอา  โย  เป็น  อา  เป็น  โอ.
+	

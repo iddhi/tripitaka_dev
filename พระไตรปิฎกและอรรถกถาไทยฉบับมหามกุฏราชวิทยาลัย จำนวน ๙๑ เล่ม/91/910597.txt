@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>                              <H2>อนิทัสสนอัปปฏิฆบท</H2>
+<span class="LineNumber"> 003 </span>           [๓๔๒] ๑.  <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม    ที่ไม่ใช่ 
+<span class="LineNumber"> 004 </span>สรณธรรม   อาศัยธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   ที่เป็นสรณ-
+<span class="LineNumber"> 005 </span>ธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>  
+                               
+<span class="LineNumber"> 006 </span>                     <H2>การนับจำนวนวาระในปัจจนียะ</H2>	
+<span class="LineNumber"> 007 </span>           [๓๔๓] <B>ในนเหตุปัจจัย มี ๑  วาระ ในนอารัมมณปัจจัย  มี  ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 008 </span>ในโนอวิคตปัจจัย</B> มี ๓ วาระ.
+<span class="LineNumber"> 009 </span>           สหชาตวารก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 010 </span>                                        <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 011 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                               <H2>อนิทัสสนอัปปฏิฆบท</H2>
+<span class="LineNumber"> 014 </span>           [๓๔๔] ๑.  <B>ธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม  ที่เป็นสรณ-
+<span class="LineNumber"> 015 </span>ธรรม   เป็นปัจจัยแก่ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 016 </span>สรณธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>                       ๒.  <B>ธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   ที่เป็นอรณ-
+<span class="LineNumber"> 018 </span>ธรรม   เป็นปัจจัยแก่ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 019 </span>สรณธรรม  ด้วยอำนาจของเหตุปัจจัย</B>

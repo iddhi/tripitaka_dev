@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>กุสลจิตตปฏิลาภกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๑๕]  <B>สกวาที</B>  บุคคลผู้กัปปัฏฐะไม่พึงกลับได้กุศลจิต  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. บุคคลผู้กัปปัฏฐะพึงให้ทาน  หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ส. หากว่า  บุคคลผู้กัปปัฏฐะพึงให้ทาน  ก็ต้องไม่กล่าวว่า
+<span class="LineNumber"> 007 </span>บุคคลผู้กัปปัฏฐะไม่พึงกลับได้กุศลจิต.
+<span class="LineNumber"> 008 </span>         [๑๕๑๖]  ส. บุคคลผู้กัปปัฏฐะไม่พึงกลับได้กุศลจิต  หรือ ?	
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. บุคคลผู้กัปปัฏฐะพึงให้จีวร  ฯลฯ  พึงให้บิณฑบาต  ฯลฯ
+<span class="LineNumber"> 011 </span>พึงให้เสนาสนะ  ฯลฯ  พึงให้คิลานปัจจัยเภสัชชบริขาร  พึงให้ของขบเคี้ยว
+<span class="LineNumber"> 012 </span>พึงให้ของกิน  พึงให้น้ำดื่ม  พึงไหว้พระเจดีย์  พึงยกขึ้นซึ่งดอกไม้  ของหอม
+<span class="LineNumber"> 013 </span>เครื่องลูบไล้ที่พระเจดีย์  ฯลฯ  พึงทำการประทักษิณพระเจดีย์  หรือ ?	
+<span class="LineNumber"> 014 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                       ส. หากว่า  บุคคลผู้กัปปัฏฐะพึงทำการประทักษิณพระ-
+<span class="LineNumber"> 016 </span>เจดีย์  ก็ต้องไม่กล่าวว่า  บุคคลผู้กัปปัฏฐะไม่พึงกลับได้กุศลจิต   ดังนี้  ฯลฯ
+<span class="LineNumber"> 017 </span>         [๑๕๑๗]  ป. บุคคลผู้กัปปัฏฐะพึงกลับได้กุศลจิต  หรือ ?
+<span class="LineNumber"> 018 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                       ป. บุคคลผู้กัปปัฏฐะพึงกลับได้กุศลจิต  อันเป็นการออก
+<span class="LineNumber"> 020 </span>จากอกุศลจิต  เป็นเหตุตั้งอยู่ตลอดกัลป์นั้น   หรือ ?	
+<span class="LineNumber"> 021 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 022 </span>                       ป. พึงกลับได้กุศลจิตที่เป็นรูปาวจร  ฯลฯ  ที่เป็นอรูปาวจร

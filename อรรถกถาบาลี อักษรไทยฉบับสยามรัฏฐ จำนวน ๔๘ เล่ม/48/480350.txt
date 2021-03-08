@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  350
+
+<span class="LineNumber"> 002 </span>			สีลํนจิตฺตานุปริวตฺตีติกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  สีลํ  น  จิตฺตานุปริวตฺตีติกถา  นาม  โหติ ฯ  ตตฺถ 
+<span class="LineNumber"> 004 </span>น จิตฺตานุปริวตฺตีติ ภาสนฺตรเมว นามํ เสสํ ปุริมกถา-
+<span class="LineNumber"> 005 </span>สทิสเมวาติ ฯ 
+<span class="LineNumber"> 006 </span>		สีลํนจิตฺตานุปริวตฺตีติกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 007 </span>			สมาทานเหตุกกถาวณฺณนา 
+<span class="LineNumber"> 008 </span>	อิทานิ  สมาทานเหตุกกถา  นาม  โหติ ฯ  ตตฺถ
+<span class="LineNumber"> 009 </span>อารามโรปาติกถาย  (๑)  อตฺถํ  อโยนิโส  คเหตฺวา  สทา  ปุฺํ 
+<span class="LineNumber"> 010 </span>ปวฑฺฒตีติ  วจนโต  สมาทานเหตุกํ  สีลํ  วฑฺฒตีติ  เยสํ 
+<span class="LineNumber"> 011 </span>ลทฺธิ  เสยฺยถาปิ  มหาสงฺฆิกานฺเว  เต สนฺธาย  ปุจฺฉา
+<span class="LineNumber"> 012 </span>สกวาทิสฺส จิตฺตวิปฺปยุตฺตํ สีโลปจยํ สนฺธาย ปฏิฺา
+<span class="LineNumber"> 013 </span>ปรวาทิสฺส ฯ เสสํ ปุริมกถาสทิสเมวาติ ฯ 
+<span class="LineNumber"> 014 </span>		สมาทานเหตุกกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 015 </span>		วิฺตฺติสีลนฺติกถาวณฺณนา 
+<span class="LineNumber"> 016 </span>	อิทานิ  วิฺตฺติ  สีลนฺติกถา  นาม  โหติ ฯ  ตตฺถ 
+<span class="LineNumber"> 017 </span>กายวิฺตฺติ กายกมฺมํ  วจีวิฺตฺติ  วจีกมฺมนฺติ  คหิตตฺตา
+<span class="LineNumber"> 018 </span>วิฺตฺติ สีลนฺติ เยสํ ลทฺธิ เสยฺยถาปิ  มหาสงฺฆิกานฺเจว
+<span class="LineNumber"> 019 </span># ๑. ม. ...คาถาย ฯ

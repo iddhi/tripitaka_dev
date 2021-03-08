@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  17  ยมกวคฺควณฺณนา  หน้า  146
+
+<span class="LineNumber"> 002 </span>ตสฺมึ  ทิวเส  สนฺนิปติตานํ  อฏฺ€ารสโกฏิสงฺขาตานํ  ราชคหวาสีนํ
+<span class="LineNumber"> 003 </span>อนุปุพฺพีกถํ  กเถสิ ฯ  จตุราสีติยา  ปาณสหสฺสานํ  ธมฺมาภิสมโย
+<span class="LineNumber"> 004 </span>ชาโต ฯ  อโห  มหาคุโณ  อายสฺมา  อานนฺโท  ตถารูเป  นาม
+<span class="LineNumber"> 005 </span>หตฺถินาเค  อาคจฺฉนฺเต  อตฺตโน  ชีวิตํ  ปริจฺจชิตฺวา  สตฺถุ
+<span class="LineNumber"> 006 </span>ปุรโต  อฏฺ€าสีติ  เถรสฺส  คุณกถํ  สุตฺวา  น  ภิกฺขเว
+<span class="LineNumber"> 007 </span>อิทาเนว  ปุพฺเพเปส  มมตฺถาย  ชีวิตํ  ปริจฺจชิเยวาติ  วตฺวา
+<span class="LineNumber"> 008 </span>ภิกฺขูหิ  ยาจิโต จุลฺลหํส(๑)มหาหํส(๒)กกฺกฏก(๓)ชาตกานิ
+<span class="LineNumber"> 009 </span>กเถสิ ฯ
+<span class="LineNumber"> 010 </span>	เทวทตฺตสฺสาปิ  กมฺมํ  เนว  ตถา  รฺโ  มาราปิตตฺตา
+<span class="LineNumber"> 011 </span>น  วธกานํ  ปโยชิตตฺตา  น  สิลาย  ปวิทฺธตฺตา  ปากฏํ  อโหสิ
+<span class="LineNumber"> 012 </span>ยถา  นาฬาคิริหตฺถิโน  วิสฺสชฺชิตตฺตา ฯ  ตทา  หิ  มหาชโน
+<span class="LineNumber"> 013 </span>ราชาปิ  เทวทตฺเตเนว  มาราปิโต  วธกาปิ  ปโยชิตา  สิลาปิ
+<span class="LineNumber"> 014 </span>ปวิทฺธา  อิทานิ  ปน  เตน  นาฬาคิริ  วิสฺสชฺชาปิโต  เอวรูปํ
+<span class="LineNumber"> 015 </span>นาม  ปาปํ  คเหตฺวา  ราชา  วิจรตีติ  โกลาหลมกาสิ ฯ  ราชา
+<span class="LineNumber"> 016 </span>มหาชนสฺส  กถํ  สุตฺวา  ปฺจ  ถาลิปากสตานิ  หราเปตฺวา
+<span class="LineNumber"> 017 </span>น  ปุน  ตสฺสุปฏฺ€านํ  อคมาสิ ฯ  นาคราปิสฺส  กุลํ  อุปคตสฺส
+<span class="LineNumber"> 018 </span>ภิกฺขามตฺตมฺปิ  นาทํสุ ฯ  โส  ปริหีนลาภสกฺกาโร  โกหฺเน
+<span class="LineNumber"> 019 </span>ชีวิตุกาโม  สตฺถารํ  อุปสงฺกมิตฺวา  ปฺจ  วตฺถูนิ  ยาจิตฺวา
+<span class="LineNumber"> 020 </span># ๑  ขุ. ชา. อสีติ. ๒๘/๖๘ ฯ ตทฏฺ€กถา. ๘/๒๑๓ ฯ
+<span class="LineNumber"> 021 </span># ๒ ขุ. ชา. อสีติ. ๒๘/๗๗ ฯ  ตทฏฺ€กถา ฯ ๘/๒๔๕ ฯ
+<span class="LineNumber"> 022 </span># ๓.  ขุ. ชา. จตุกฺก. ๒๗/๑๔๕ ฯ  ตทฏฺ€กถา  ๔/๔๐๖ ฯ
+<span class="LineNumber"> 023 </span>#  ตตฺถ ปน  กกฺการุชาตกนฺติ  ขายติ ฯ

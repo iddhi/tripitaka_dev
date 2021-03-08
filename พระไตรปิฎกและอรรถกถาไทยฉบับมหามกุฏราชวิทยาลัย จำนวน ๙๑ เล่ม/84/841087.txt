@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>อนัญญาตัญญัสสามีตินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>อนัญญาตัญญัสสามีตินทริยมูละ    อัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๑๔๐๒]   บุคคลใดกำลังเจริญอนัญญาตัญญัสสามีตินทรีย์ 
+<span class="LineNumber"> 004 </span>บุคคลนั้นก็เคยเจริญอัญญินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า      บุคคลใดเคยเจริญอัญญินทรีย์,     บุคคลนั้นก็กำลัง
+<span class="LineNumber"> 007 </span>เจริญอนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>           <I>จบ  อนัญญาตัญญัสสามีตินทริยมูละ  อัญญินทริยมูลี</I>
+
+<span class="LineNumber"> 010 </span><B>อนัญญาตัญญัสสามีตินทริยมูละ    อัญญาตาวินทริยมูลี:-</B>
+<span class="LineNumber"> 011 </span>         [๑๔๐๓]   บุคคลใดกำลังเจริญอนัญญาตัญญัสสามีตินทรีย์
+<span class="LineNumber"> 012 </span>บุคคลก็เคยกระทำให้รู้แจ้งอัญญาตาวินทรีย์       ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ไม่ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า   บุคคลเคยกระทำให้รู้แจ้งอัญญาตาวินทรีย์,      บุคคล
+<span class="LineNumber"> 015 </span>นั้นก็กำลังเจริญอนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         ไม่ใช่.
+<span class="LineNumber"> 017 </span>      <I>จบ  อนัญญาตัญญัสสามีตินทริยมูละ     อัญญาตาวินทรีย์มูลี</I>
+<span class="LineNumber"> 018 </span>                         <I>อนัญญาตัญญัสสามีตินทริยมูล  จบ</I>
+ 

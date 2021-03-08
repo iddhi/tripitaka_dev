@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.  จิตตสูตร  ๒.  ปริกขารสูตร  ๓.  ปฐมอัคคิสูตร  ๔.  ทุติย-
+<span class="LineNumber"> 003 </span>อัคคสูตร  ๕.  ปฐมสัญญาสูตร   ๖.  ทุติยสัญญาสูตร   ๗.   เมถุนสูตร
+<span class="LineNumber"> 004 </span>๘.  สังโยคสูตร   ๙.  ทานสูตร  ๑๐.  มาตาสูตร.
+<span class="LineNumber"> 005 </span>      	                   <I>จบ  มหายัญญวรรคที่  ๕</I>
+<span class="LineNumber"> 006 </span>                                <I>จบ  ปฐมปัณณาสก์</I>

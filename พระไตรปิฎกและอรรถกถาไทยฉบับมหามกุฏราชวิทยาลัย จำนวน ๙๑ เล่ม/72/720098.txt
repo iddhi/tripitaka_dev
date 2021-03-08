@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>รวมอปทานที่มีในวรรค</H1>นี้    คือ
+
+<span class="LineNumber"> 002 </span>         ๑.  สกลกุสุมิยเถราปทาน    ๒.  จิตกปูชกเถราปทาน   ๓.  จิตก-
+<span class="LineNumber"> 003 </span>นิพพาปกเถราปทาน   ๔.  เสตุทายกเถราปทาน     ๕.  สุมนตาลวัณฏิยเถรา-
+<span class="LineNumber"> 004 </span>ปทาน  ๖.  อวฏผลิยเถราปทาน   ๗.  ลพุชผลทายกเถราปทาน  ๘.  มิลักขุ-
+<span class="LineNumber"> 005 </span>ผลทายกเถราปทาน   ๙.  สยัมปฏิภาณิยเถราปทาน  ๑๐.  นิมิตตพยากรณิย-
+<span class="LineNumber"> 006 </span>เถราปทาน
+<span class="LineNumber"> 007 </span>              บัณฑิตคำนวณคาถาได้  ๗๒  คาถา. 
+<span class="LineNumber"> 008 </span>                                        จบสาลปุปผิยวรรคที่  ๔๗

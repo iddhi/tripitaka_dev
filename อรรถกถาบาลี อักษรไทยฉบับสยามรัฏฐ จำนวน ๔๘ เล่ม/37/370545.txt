@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 545
+
+<span class="LineNumber"> 002 </span>รฏฺ€า  ปพฺพชิตาย  อรฺเ  วสนฺติยา  ปุตฺเต  จ  อปสฺสนฺติยา
+<span class="LineNumber"> 003 </span>ทุกฺขํ  อิทํ  ตว  ม	ยา  สทฺธึ  อกถนํ  มยฺหํ  ตโต  ทุกฺขตรํ 
+<span class="LineNumber"> 004 </span>ตฺวํ  หิ  มํ  อคฺคิทฑฺฒํ  ปฏิทหนฺโต  วิย  ตาลา  ปติตํ(๑)  ทณฺเฑน
+<span class="LineNumber"> 005 </span>โปเถนฺโต  วิย  สลฺเลน  วเณ  ปฏิวิชฺฌนฺโต(๒)  วิย  ตุณฺหีภาเวน
+<span class="LineNumber"> 006 </span>กิลเมสิ ฯ  อิทํ  หิ  เม  หทยํ  สลฺลวิทฺโธ  ยถา  วโณ  ตเถว 
+<span class="LineNumber"> 007 </span>กมฺปติ  เจว  รุชติ  จ ฯ  สํวิทฺโธติปิ  ปาโ€ ฯ  สมฺปฏิวิทฺโธติ 
+<span class="LineNumber"> 008 </span>อตฺโถ ฯ  โอกฺกนฺตสนฺตมนฺติ(๓)  อปคตชีวิตํ  มํ ฯ  ทกฺขสิ  โนติ(๔)  
+<span class="LineNumber"> 009 </span>เอตฺถ  โนกาโร  นิปาตมตฺโต ฯ  กาลสฺเสว  มตํ มํ ปสฺสสีติ
+<span class="LineNumber"> 010 </span>อตฺโถ ฯ  
+<span class="LineNumber"> 011 </span>	อถ  มหาสตฺโต  กกฺขลกถาย  นํ  ปุตฺตโสกํ  ชหาเปสฺสามีติ  
+<span class="LineNumber"> 012 </span>จินฺเตตฺวา อิมํ คาถมาห  
+<span class="LineNumber"> 013 </span>	[๑๑๘๙]นนุ มทฺที วราโรหา	ราชปุตฺตี ยสสฺสินี  
+<span class="LineNumber"> 014 </span>		ปาโต คตาสิ อุฺฉาย	กิมิทํ สายมาคตาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  กิมิทํ  สายมาคตาติ  มทฺทิ  ตฺวํ  อภิรูปา 
+<span class="LineNumber"> 016 </span>ปาสาทิกา  หิมวนฺเต  จ  นาม  พหู  วนจรกา  ตา
+<span class="LineNumber"> 017 </span>ปสวิชฺชาธราทโย  จ  วิจรนฺติ  โก  ชานาติ [๕] กิฺจิ  ตยา
+<span class="LineNumber"> 018 </span>กตํ  ตฺวํ  ปาโตว  คนฺตฺวา  กิมิทํ  สายมาคจฺฉสิ  ทหรกุมาเร
+<span class="LineNumber"> 019 </span>โอหาย  อรฺคติตฺถิโย  นาม สสฺสามิกิตฺถิโย  วา  อสฺสามิกิตฺถิโย
+<span class="LineNumber"> 020 </span># ๑. ม. ปปาตา ฯ  ๒. ม. วณํ วิชฺฌนฺโต ฯ ๓. สี. ยุ. อุกฺกนฺตสตฺตํ ฯ
+<span class="LineNumber"> 021 </span># ม. โอกฺกนฺตสนฺตํ มนฺติ ฯ  ๔. ม. โน มตนฺติ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. เอตฺถนฺตเร กึ ภวิสฺสตีติ ทิสฺสติ ฯ 

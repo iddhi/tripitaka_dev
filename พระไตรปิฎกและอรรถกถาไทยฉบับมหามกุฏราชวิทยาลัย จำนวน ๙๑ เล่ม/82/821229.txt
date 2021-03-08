@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                       <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                     <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 004 </span><H2>กายสังขารมูละ วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๑๑๘๘]   กายสังขารเคยเกิดแก่บุคคลใด,    วจีสังขารก็เคยดับ
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ปุจฉาที่เป็นอดีต  แม้ในอุปปาทวาระก็ดี  แม้ในนิโรธวาระก็ดี
+<span class="LineNumber"> 009 </span>แม้ในอุปปาทนิโรธวาระก็ดี  พึงจำแนกให้พิสดารเช่นเดียวกัน.
+<span class="LineNumber"> 010 </span>                                   <I>อตีตวาระ  จบ</I>

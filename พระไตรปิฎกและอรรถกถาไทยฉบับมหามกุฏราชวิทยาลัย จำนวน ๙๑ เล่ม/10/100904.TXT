@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>พวกไม่ต้องอาบัติ  อาบัติและอนาบัติของคน  
+<span class="LineNumber"> 002 </span>                   ทั้งหมดมีวัตถุอย่างเดียวกัน.</B>
+
+<span class="LineNumber"> 003 </span>                        <H2>กรรมเนื่องด้วยญัตติเป็นต้น</H2>
+<span class="LineNumber"> 004 </span>                             [๑,๒๗๒]  <B>ถามว่า  อาฆาตวัตถุมีเท่าไร
+<span class="LineNumber"> 005 </span>                   สงฆ์แตกกัน  ด้วยเหตุเท่าไร  อาบัติชื่อ
+<span class="LineNumber"> 006 </span>                   ปฐมาปัตติกาในศาสนานี้มีเท่าไร  ทำด้วย
+<span class="LineNumber"> 007 </span>                   ญัตติมีเท่าไร
+<span class="LineNumber"> 008 </span>                             ตอบว่า  อาฆาตวัตถุมี  ๙  สงฆ์แตก
+<span class="LineNumber"> 009 </span>                   กันด้วยเหตุ  ๙  อย่าง  อาบัติชื่อปฐมาปัตติกา
+<span class="LineNumber"> 010 </span>                   ในศาสนานี้มี  ๙  อย่าง  ทำด้วยญัตติมี  ๙.</B>
+
+<span class="LineNumber"> 011 </span>                      <H2>บุคคลไม่ควรกราบไหว้เป็นต้น</H2>
+<span class="LineNumber"> 012 </span>                             [๑,๒๗๓]   <B>ถามว่า   บุคคลเท่าไร  อัน
+<span class="LineNumber"> 013 </span>                   ภิกษุณีไม่พึงทราบไหว้  และไม่พึงทำอัญชลี
+<span class="LineNumber"> 014 </span>                   กรรม  และสามีจิกรรม  เพราะทำแก่บุคคล
+<span class="LineNumber"> 015 </span>                   เท่าไร  ต้องอาบัติทุกกฏ  ทรงจีวร  มีกำหนด
+<span class="LineNumber"> 016 </span>                   เท่าไร
+<span class="LineNumber"> 017 </span>                             ตอบว่า   บุคคล ๑๐  พวก   อันภิกษุ
+<span class="LineNumber"> 018 </span>                   ไม่พึงกราบไหว้  ไม่พึงทำอัญชลีกรรม และ
+<span class="LineNumber"> 019 </span>                   สามีจิกรรม  เพราะทำแก่บุคคล  ๑๐  พวกต้อง
+<span class="LineNumber"> 020 </span>                   อาบัติทุกกฏ ทรงจีวรมีกำหนด  ๑๐  วัน.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค ภลฺลิยตฺเถรคาถาวณฺณา  หน้า 99
+
+<span class="LineNumber"> 002 </span>		สุมโน นาม สมฺพุทฺโธ	ตกฺกรายํ วสี ตทา  
+<span class="LineNumber"> 003 </span>		วลฺลิการผลํ คยฺห		สยมฺภุสฺส(๑) อทาสหํ ฯ  
+<span class="LineNumber"> 004 </span>		เอกตึเส อิโต กปฺเป	ยํ ผลํ อททึ ตทา  
+<span class="LineNumber"> 005 </span>		ทุคฺคตึ นาภิชานามิ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 006 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	อเถกทิวสํ  มาโร  ภลฺลิยตฺเถรสฺส  ภึสาปนตฺถํ  ภยานกํ 
+<span class="LineNumber"> 008 </span>รูปํ  ทสฺเสสิ ฯ  โส อตฺตโน สพฺพภยาติกฺกมํ ปกาเสนฺโต  
+<span class="LineNumber"> 009 </span>		โยปานุทิ มจฺจุราชสฺส เสนํ  
+<span class="LineNumber"> 010 </span>		นฬเสตตว สุทุพฺพลํ มโหโฆ  
+<span class="LineNumber"> 011 </span>		วิชิตาวิ อเปตเภรโว หิ  
+<span class="LineNumber"> 012 </span>		ทนฺโต โส ปรินิพฺพุโต €ิตตฺโตติ(๒)  
+<span class="LineNumber"> 013 </span>คาถํ อภาสิ ฯ 
+<span class="LineNumber"> 014 </span>	ตตฺถ  โยปานุทีติ  โย  อปานุทิ  ขิปิ  ปชหิ วิทฺธํเสสิ ฯ
+<span class="LineNumber"> 015 </span>มจฺจุราชสฺสาติ มจฺจุ  นาม  มรณํ  ขนฺธานํ  เภโท โส  เอว
+<span class="LineNumber"> 016 </span>จ  สตฺตานํ อตฺตโน วเส วตฺตนโต (๓)  อิสฺสรฏฺเ€น  ราชาติ
+<span class="LineNumber"> 017 </span>มจฺจุราชา  ตสฺส ฯ  เสนนฺติ  ชราโรคาทีนํ  หิสฺส  วสวตฺตนภาวโต(๔)
+<span class="LineNumber"> 018 </span>เสนา  นาม  เตน โส สมูหตา(๕) นานาวิเธน วิปุเลน มหาเสโนติ   
+<span class="LineNumber"> 019 </span>วุจฺจติ ฯ  ยถาห(๖) 
+<span class="LineNumber"> 020 </span># ๑. สฺยา. ม. สยมฺภุสฺส ฯ  ๒. ขุ. เถร. ๒๖/๑๔๔/๒๖๒ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. อนุวตฺตาปนโต ฯ  ๔. ม. ชราโรคาทึ สา หิสฺส วสวตฺตเน 
+<span class="LineNumber"> 022 </span># องฺคภาวโต ฯ  ๕. ม. เตน เหส มหตา ฯ ๖. พหูสุ เตนาหาติ ทิสฺสติ ฯ 

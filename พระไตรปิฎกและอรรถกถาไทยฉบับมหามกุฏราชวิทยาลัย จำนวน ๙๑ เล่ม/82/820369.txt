@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>ฆานายตนะไม่ใช่กำลังเกิด   และมนายตนะก็ไม่ใช่กำลังเกิดในภูมินั้น. 
+<span class="LineNumber"> 002 </span>         ก็หรือว่า     มนายตนะไม่ใช่กำลังเกิดในภูมิใด,       ฆานายตนะ 
+<span class="LineNumber"> 003 </span>ก็ไม่ใช่กำลังเกิดในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>                         <I>จบ  ฆานายตนมูละ  มนายตนมูลี</I>
+<span class="LineNumber"> 006 </span><H2>ฆานายตนมูละ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 007 </span>         [๓๓๗]   ฆานายตนะไม่ใช่กำลังเกิดในภูมิใด,        ธัมมายตนะ
+<span class="LineNumber"> 008 </span>ก็ไม่ใช่กำลังเกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         กำลังเกิด.
+<span class="LineNumber"> 010 </span>         ก็หรือว่า     ธัมมายตนะไม่ใช่กำลังเกิดในภูมิใด,      ฆานายตนะ
+<span class="LineNumber"> 011 </span>ก็ไม่ใช่กำลังเกิดในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ไม่มี.
+<span class="LineNumber"> 013 </span>                         <I>จบ  ฆานายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 014 </span>                                     <I>ฆานายตนมูล  จบ</I>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 533
+
+<span class="LineNumber"> 002 </span>ปุตฺตเก  ตว  ลหุํ  ปสฺเสยฺยาสีติ  (๑)เอวํ  วเทยฺยาถ ฯ  ชฏินีติ
+<span class="LineNumber"> 003 </span>มาตรํ  ปรมฺมุขาลปเนน  อาลปนฺตี  อาห ฯ  อติเวลนฺติ  
+<span class="LineNumber"> 004 </span>ปมาณาติกฺกนฺตํ  กตฺวา ฯ  อุฺฉาติ  อุฺฉาจริยาย  ลทฺธํ  
+<span class="LineNumber"> 005 </span>วนมูลผลํ ฯ  ขุทฺเทน  มิสฺสกนฺติ  ขุทฺทกมธุนา  มิสฺสกํ ฯ 
+<span class="LineNumber"> 006 </span>อาสิโตติ  อาสิตาสิโน  ปริภุตฺตปฺผโล ฯ  ฉาโตติ  สุหิโต ฯ  
+<span class="LineNumber"> 007 </span>น  พาฬฺหํ  ตรเยยฺยาติ  น  ถทฺธเวเคน  นเยยฺย (๒)ฯ  
+<span class="LineNumber"> 008 </span>มาตุคิทฺธิโนติ  มาตริ คิทฺเธน  สมนฺนาคตา พลวสิเนหา
+<span class="LineNumber"> 009 </span>เอวํ วิลปึสูติ ฯ  
+<span class="LineNumber"> 010 </span>			กุมารปพฺพํ นิฏฺ€ิตํ(๓) ฯ  
+<span class="LineNumber"> 011 </span>	ยํ  ปน  รฺา  มหาป€วึ(๔)  อุนฺนาเทตฺวา  พฺราหฺมณสฺส  
+<span class="LineNumber"> 012 </span>ปิยปุตฺเตสุ  ทินฺเนสุ  ยาว  พฺรหฺมโลกา  เอกโกลาหลํ  ชาตํ 
+<span class="LineNumber"> 013 </span>เตนาปิ  ภิชฺชิตหทยา  วิย  หิมวนฺตวาสิโน  เทวตาโย(๕)  เตสํ 
+<span class="LineNumber"> 014 </span>พฺราหฺมเณน  นียมานานํ  ตํ  วิลาปํ  สุตฺวา  มนฺตยึสุ  สเจ  
+<span class="LineNumber"> 015 </span>มทฺที  สกาลสฺเสว  อสฺสมํ  อาคมิสฺสติ  สา  ตตฺถ  ปุตฺเต 
+<span class="LineNumber"> 016 </span>อทิสฺวา  เวสฺสนฺตรํ  ปุจฺฉิตฺวา  พฺราหฺณสฺส  ทินฺนภาวํ  
+<span class="LineNumber"> 017 </span>สุตฺวา  พลวสิเนเหน  ปทานุปทํ  ธาวิตฺวา  มหนฺตํ ทุกฺขํ 
+<span class="LineNumber"> 018 </span>อนุภเวยฺยาติ ฯ  
+<span class="LineNumber"> 019 </span>	อถ  เต  ตโย  เทวปุตฺเต  ตุมฺเห  สีหพยคฺฆทีปิเวเสน
+<span class="LineNumber"> 020 </span># ๑. ม. เอวํ ตํ วเทยฺยาถาติ ฯ  ชฏินีติ พทฺธชฏํ อารพฺภ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. ธารเยยฺย โนติ น โน พาฬฺหํ เวเคน นเยยฺย ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ทารกปพฺพวณฺณนา นิฏฺ€ิตา ฯ ๔. ม. ยํ ปน
+<span class="LineNumber"> 023 </span># ตํ รฺา ปถวึ ฯ  ๕. ม.เทวา ฯ ๖. ม.กาลสฺเสว ฯ 

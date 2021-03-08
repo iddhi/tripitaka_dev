@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42  ทูเรนิทานกถา หน้า  55
+
+<span class="LineNumber"> 002 </span>	นนฺทา เจว สุนนฺทา จ  อเหสุํ อคฺคสาวิกา  
+<span class="LineNumber"> 003 </span>	โพธิ ตสฺส ภควโต   ปิปฺผลีติ ปวุจฺจติ ฯ  
+<span class="LineNumber"> 004 </span>	(๑)ตปุสฺสภลฺลิกา นาม  อเหสุํ อคฺคุปฏฺ€กา  
+<span class="LineNumber"> 005 </span>	สิริมา โกณา อุปฏฺ€ิกา  ทีปงฺกรสฺส สตฺถุโน ฯ(๑)  
+<span class="LineNumber"> 006 </span>	อสีติหตฺถมุพฺเพโธ   ทีปงฺกโร มหามุนิ  
+<span class="LineNumber"> 007 </span>	โสภติ ทีปรุกฺโขว   สาลราชาว ผุลฺลิโต ฯ  
+<span class="LineNumber"> 008 </span>	(๒)ปภา วิธาวติ ตสฺส  สมนฺตา ทฺวาทส โยชเน(๒)  
+<span class="LineNumber"> 009 </span>	สตสหสฺสวสฺสานิ   อายุ ตสฺส มเหสิโน  
+<span class="LineNumber"> 010 </span>	ตาวตา ติฏฺ€มาโน โส  ตาเรสิ ชนตํ พหุํ ฯ  
+<span class="LineNumber"> 011 </span>	โชตยิตฺวาน สทฺธมฺมํ  สนฺตาเรตฺวา มหาชนํ(๓)  
+<span class="LineNumber"> 012 </span>	ชลิตฺวา อคฺคิขนฺโธว  นิพฺพุโต โส สสาวโก ฯ  
+<span class="LineNumber"> 013 </span>	สา จ อิทฺธิ โส จ ยโส  ตานิ จ ปาเทสุ จกฺกรตนานิ  
+<span class="LineNumber"> 014 </span>	สพฺพํ ตมนฺตรหิตํ (๔)  นนุ ริตฺตา สพฺพสงฺขาราติ ฯ  
+<span class="LineNumber"> 015 </span>	(๕)ทีปงฺกโร ชิโน สตฺถา  นนฺทารามมฺหิ นิพฺพุโต  
+<span class="LineNumber"> 016 </span>	ตตฺเถตสฺส ชินถูโป   ฉตฺตึสุพฺเพธโยช(๕)โนติ (๖)ฯ  
+<span class="LineNumber"> 017 </span>	ทีปงฺกรสฺส  ปน  ภควโต  อปรภาเค  เอกํ  อสงฺเขยฺยํ  
+<span class="LineNumber"> 018 </span>อติกฺกมิตฺวา  โกณฺฑฺโ  นาม  สตฺถา  อุทปาทิ ฯ  ตสฺสาปิ  
+<span class="LineNumber"> 019 </span>ตโย  สาวกสนฺนิปาตา  อเหสุํ ฯ  ป€มสนฺนิปาเต  โกฏิสตสหสฺสํ  
+<span class="LineNumber"> 020 </span>ทุติเย  โกฏิสหสฺสํ  ตติเย  นวุติโกฏิโย ฯ  ตทา  โพธิสตฺโต  วิชิตาวี  
+<span class="LineNumber"> 021 </span># ๑ ยุ.  อยํ คาถา นตฺถิ ฯ  ๒. สี.  อิเม ปา€า น ทิสฺสนฺติ ฯ  
+<span class="LineNumber"> 022 </span># ๓. สี. สเทวกํ ฯ  ๔. สี. ยุ. สมนฺตรหิตํ ฯ  
+<span class="LineNumber"> 023 </span># ๕. สี. ยุ. อยํ คาถา นตฺถิ ฯ  ๖. ขุ. พุทธ. ๓๓/๒/๔๓๕-๗ ฯ

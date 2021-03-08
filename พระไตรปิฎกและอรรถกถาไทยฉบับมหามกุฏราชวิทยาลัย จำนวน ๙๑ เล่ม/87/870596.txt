@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>๑๘.  อตีตติกะ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ปัญหาวาระ</H1> 
+<span class="LineNumber"> 003 </span>                                           <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 004 </span>                                        <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๙๑๗] ๑.  <B>ปัจจุปปันนธรรม  เป็นปัจจัยแก่ปัจจุปปันธรรม
+<span class="LineNumber"> 006 </span>ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  เหตุทั้งหลายที่เป็นปัจจุปปันนธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 008 </span>และจิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 009 </span>           ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                      <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           [๑๙๑๘] ๑. <B>อตีตธรรม  เป็นปัจจัยแก่ปัจจุปปันนธรรม  ด้วย
+<span class="LineNumber"> 012 </span>อำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  บุคคลให้ทาน  ฯลฯ  ศีล ฯลฯ  อุโบสถกรรม   แล้วพิจารณา.
+<span class="LineNumber"> 014 </span>           บุคคลพิจารณากุศลกรรมทั้งหลายที่เคยสั่งสมไว้แล้วในกาลก่อน.
+<span class="LineNumber"> 015 </span>           บุคคลออกจากฌานแล้ว   พิจารณาฌาน.
+<span class="LineNumber"> 016 </span>           พระอริยะฟังหลายออกจากมรรค  พิจารณามรรค  พิจารณาผล พิจารณา
+<span class="LineNumber"> 017 </span>กิเลสที่ละแล้ว  พิจารณากิเลสที่ข่มแล้ว.
+<span class='footnote'>๑. ติกะนี้ไม่มีวาระทั้ง ๖ มีปฏิจจวาระเป็นต้น ดูอรรถกถาอธิบาย.</span>
+
+

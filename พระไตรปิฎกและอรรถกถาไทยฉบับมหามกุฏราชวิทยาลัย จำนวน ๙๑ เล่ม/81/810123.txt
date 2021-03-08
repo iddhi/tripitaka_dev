@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>กามกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๒๑๔]  <B>สกวาที</B>  อายนะ  ๕  เท่านั้น  เป็นกาม  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. ความพอใจที่เกี่ยวด้วยอายตนะ ๕ นั้น มีอยู่  มิใช่หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ส. หากว่า  ความพอใจเกี่ยวด้วยอายตนะนั้นมีอยู่   ก็ต้อง
+<span class="LineNumber"> 007 </span>ไม่กล่าวว่า อายตนะ ๕ เท่านั้น เป็นกาม.
+<span class="LineNumber"> 008 </span>                       ส. ความกำหนัดเกี่ยวด้วยอายตนะ  ๕  นั้น   ความกำหนัด
+<span class="LineNumber"> 009 </span>ด้วยอำนาจความพอใจเกี่ยวด้วยอายตนะ   ๕    นั้น    ความดำริเกี่ยวด้วย
+<span class="LineNumber"> 010 </span>อายตนะ ๕ นั้น ความกำหนัดเกี่ยวด้วยอายตนะ ๕ นั้น ความกำหนัดด้วย
+<span class="LineNumber"> 011 </span>อำนาจความยินดีเกี่ยวด้วยอายตนะ  ๕   นั้น  ปีติเกี่ยวด้วยอายตนะ  ๕  นั้น
+<span class="LineNumber"> 012 </span>โสมนัสเกี่ยวด้วยอายตนะ  ๕   นั้น  ปีติโสมนัสเกี่ยวด้วยอายตนะ  ๕  นั้น
+<span class="LineNumber"> 013 </span>มีอยู่  มิใช่หรือ. 
+<span class="LineNumber"> 014 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                      ส. หากว่าปีติโสมนัสเกี่ยวด้วยอายตนะ  ๕  นั้น  มีอยู่  ก็
+<span class="LineNumber"> 016 </span>ต้องไม่กล่าวว่า  อายตนะ  ๕ เท่านั้น เป็นกาม.      
+<span class="LineNumber"> 017 </span>         [๑๒๑๕]  ป. ไม่พึงกล่าวว่า  อายตนะ  ๕ เท่านั้น เป็นกาม หรือ   ?
+<span class="LineNumber"> 018 </span>                      ส. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                      ป. พระผู้มีพระภาคเจ้าได้ตรัสไว้ว่า    <B>ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 020 </span>กามคุณนี้  ๕  อย่าง  ๕  อย่างเป็นไฉน ?  รูปที่เป็นวิสัยแห่งจักขุวิญญาณ   ฯลฯ
+<span class="LineNumber"> 021 </span>โผฏฐัพพะที่เป็นวิสัยแห่งกายวิญญาณ  ที่น่าปรารถนา  น่าใคร่  จำเริญใจ
+<span class="LineNumber"> 022 </span>น่ารัก  ประกอบด้วยกาม  เป็นที่ตั้งแห่งความยินดี  ดูก่อนภิกษุทั้งหลาย กามคุณ  ๕</B>

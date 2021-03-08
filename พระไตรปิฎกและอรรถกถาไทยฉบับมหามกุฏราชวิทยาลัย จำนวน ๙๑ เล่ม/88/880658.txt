@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  อวิชชานิวรณ์    เจือกับวิจิกิจฉานิวรณ์,    อวิชชานิวรณ์เจือกับ
+<span class="LineNumber"> 002 </span>อุทธัจจนิวรณ์. 
+<span class="LineNumber"> 003 </span>                                                  ฯลฯ
+
+<span class="LineNumber"> 004 </span>                       <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 005 </span>           [๕๙๓]  ในนเหตุปัจจัย  มี ๔ วาระ     ในนอธิปติปัจจัย มี ๙  วาระ
+<span class="LineNumber"> 006 </span>ในนปุเรชาตปัจจัย ๙ วาระ  ในนปัจฉาชาตปัจจัย มี ๙ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 007 </span>ปัจจัย มี ๙ วาระ     ในนกัมมปัจจัย มี ๓ วาระ  ในนวิปากปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 008 </span>ในนฌานปัจจัย มี ๑ วาระ  ในนมัคคปัจจัย  มี ๑ วาระ  ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 009 </span>มี ๙ วาระ.
+<span class="LineNumber"> 010 </span>           การนับจำนวนวาระในสองวาระนอกนี้ก็ดี     สัมปยุตตวาระก็ดี    พึง
+<span class="LineNumber"> 011 </span>กระทำอย่างที่กล่าวมาแล้ว.
+<span class="LineNumber"> 012 </span>                                          <I>สังสัฏฐวาระ จบ</I>
+

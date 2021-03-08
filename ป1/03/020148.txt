@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                            ศัพท์ที่ลง  มนฺตุ  ปัจจัย  อย่างนี้
+<span class="LineNumber"> 002 </span>         อายุ   อสฺส  อตฺถี-ติ  อายสฺมา  อายุ   ของชนนั้น   มีอยู่  เหตุนั้น
+<span class="LineNumber"> 003 </span>[ ชนนั้น ]  ชื่อว่า  มีอายุ.  
+<span class="LineNumber"> 004 </span>         สติ  อสฺส  อตฺถี-ติ     สติมา  สติ  ของชนนั้น    มีอยู่  เหตุนั้น
+<span class="LineNumber"> 005 </span>[ ชนนั้น ]  ชื่อว่า  มีสติ.
+<span class="LineNumber"> 006 </span>          จกฺขุ    อสฺส  อตฺถี-ติ     จกฺขุมา  จักษุ  ของชนนั้น    มีอยู่  เหตุนั้น
+<span class="LineNumber"> 007 </span>[ ชนนั้น ]  ชื่อว่า  มีจักษุ  [ คนตาดี  หรือ  คนมีญาณ ]
+<span class="LineNumber"> 008 </span>           ชุติ     อสฺส  อตฺถี-ติ     ชุติมา  ความโพลง  ของชนนั้น    มีอยู่  เหตุนั้น
+<span class="LineNumber"> 009 </span>[ ชนนั้น ]  ชื่อว่า  มีความโพลง.
+<span class="LineNumber"> 010 </span>           ในสัททนีติ  ว่า  ศัพท์  คือ  ปุตฺติมา  ชนมีบุตร  ปาปิมา  ชนมีบาป
+<span class="LineNumber"> 011 </span>[ มาร ] ลง  อิมนฺตุ  ปัจจัย.
+<span class="LineNumber"> 012 </span>                             ศัพท์ที่ลง  ณ  ปัจจัย  อย่างนี้
+<span class="LineNumber"> 013 </span>            สทฺธา  อสฺส  อตฺถี-ติ สทฺโธ  ศรัทธา  ของชนนั้น   มีอยู่   เหตุนั้น
+<span class="LineNumber"> 014 </span>[ ชนนั้น ]  ชื่อว่า  มีศรัทธา.
+<span class="LineNumber"> 015 </span>            มจฺเฉรํ   อสฺส  อตฺถี-ติ   มจฺเฉโร  ความตระหนี่    ของชนนั้น
+<span class="LineNumber"> 016 </span>มีอยู่   เหตุนั้น    [ ชนนั้น ]  ชื่อว่า  มีความตระหนี่.
+<span class="LineNumber"> 017 </span>                                           ---------------------
+<span class="LineNumber"> 018 </span>                        ในปกติตัทธิตลง   มย   ปัจจัย   อย่างนี้
+<span class="LineNumber"> 019 </span>           สุวณฺเณน  ปกตํ  โสวณฺณมยํ   [  ภาชนํ  ภาชนะ  ]  อันบุคคล
+<span class="LineNumber"> 020 </span>ทำแล้ว  ด้วยทอง   ชื่อโสวัณณมยะ   [ อันบุคคลทำแล้วด้วยทอง ].
+

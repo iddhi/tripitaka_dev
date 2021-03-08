@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                      <H1>๖๑.  นจิตตสหภูทุกจิตตสหภูทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                 <H2>๑.  เหตุปัจจัย</H2> 
+<span class="LineNumber"> 004 </span>           [๑๑๑] ๑. <B>จิตตสหภูธรรม  อาศัยธรรมที่ไม่ใช่จิตตสหภูธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>                      ๒.  <B>ธรรมที่ไม่ใช่จิตตสหภูธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 007 </span>จิตตสหภูธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>                      ๓.  <B>จิตตสหภูธรรม  และธรรมที่ไม่ใช่จิตตสหภูธรรม
+<span class="LineNumber"> 009 </span>อาศัยธรรมที่ไม่ใช่จิตตสหภูธรรม เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 012 </span>           [๑๑๒]  ในเหตุปัจจัย  มี  ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 013 </span>                            <I>นจิตตสหภูทุกจิตตสหภูทุกะ  จบ</I>

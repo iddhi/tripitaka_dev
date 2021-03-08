@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>๗๘.  นกิเลสสัมปยุตตทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                        <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 004 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๑๔๖] ๑.  <B>ธรรมที่ไม่ใช่กิเลสสัมปยุตตธรรม   อาศัยธรรมที่
+<span class="LineNumber"> 006 </span>ไม่ใช่กิเลสสัมปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 007 </span>                       ๒.  <B>ธรรมที่ไม่ใช่กิเลสวิปปยุตตธรรม    อาศัยธรรมที่
+<span class="LineNumber"> 008 </span>ไม่ใช่กิเลสวิปปยุตตธรรม     เกิดขึ้น   เพราะเหตุปัจจัย</B>    มี ๓ วาระ
+<span class="LineNumber"> 009 </span>(วาระที่ ๒-๔)
+<span class="LineNumber"> 010 </span>                       ๕.  <B>ธรรมที่ไม่ใช่กิเลสสัมปยุตตธรรม   อาศัยธรรมที่
+<span class="LineNumber"> 011 </span>ไม่ใช่กิเลสสัมปยุตตธรรม  และไม่ใช่กิเลสวิปปยุตตธรรม   เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะเหตุปัจจัย.</B>
+
+<span class="LineNumber"> 013 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>           [๑๔๕]  ในเหตุปัจจัย  มี ๕ วาระ  ฯลฯ  ในอวิคตปัจจัย  มี ๕ วาระ.
+<span class="LineNumber"> 015 </span>           พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 016 </span>                                <I>นกิเลสสัมปยุตตทุกะ จบ</I>

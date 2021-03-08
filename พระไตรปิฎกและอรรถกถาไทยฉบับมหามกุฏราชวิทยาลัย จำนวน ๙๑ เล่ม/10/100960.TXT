@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ๕.   สวดในกาลไม่ควร  
+<span class="LineNumber"> 002 </span>           กรรมย่อมวิบัติโดยอนุสาวนา  ด้วยอาการ ๕  นี้.  
+
+<span class="LineNumber"> 003 </span>                  	              <H1>สีมาวิบัติ</H1>
+<span class="LineNumber"> 004 </span>           [๑,๓๔๔]   ถามว่า   กรรมย่อมวิบัติโดยสีมา   อย่างไร
+<span class="LineNumber"> 005 </span>           ตอบว่า   กรรมย่อมวิบัติโดยสีมา   ด้วยอาการ ๑๑ อย่าง   คือ :-
+<span class="LineNumber"> 006 </span>           ๑.  สมมติสีมาเล็กเกิน                                                  
+<span class="LineNumber"> 007 </span>           ๒.  สมมติสีมาใหญ่เกิน
+<span class="LineNumber"> 008 </span>           ๓.  สมมติสีมามีนิมิตขาด
+<span class="LineNumber"> 009 </span>           ๔.  สมมติสีมาใช้เงาเป็นนิมิต
+<span class="LineNumber"> 010 </span>           ๕.  สมมติสีมาไม่มีนิมิต
+<span class="LineNumber"> 011 </span>           ๖.  ภิกษุอยู่ภายนอกสีมาสมมติสีมา                        
+<span class="LineNumber"> 012 </span>           ๗.  สมมติสีมาในนที                                   
+<span class="LineNumber"> 013 </span>           ๘.  สมมติสีมาในสมุทร
+<span class="LineNumber"> 014 </span>           ๙.  สมมติสีมาในชาตสระ
+<span class="LineNumber"> 015 </span>          ๑๐. คาบเกี่ยวสีมาด้วยสีมา
+<span class="LineNumber"> 016 </span>          ๑๑. ทับสีมาด้วยสีมา
+<span class="LineNumber"> 017 </span>           กรรมย่อมวิบัติโดยสีมา  ด้วยอาการ ๑๑ อย่างนี้.
+
+<span class="LineNumber"> 018 </span>                                         <H1>บริษัทวิบัติ</H1>
+<span class="LineNumber"> 019 </span>           [๑,๓๔๕]  ถามว่า  กรรมย่อมวิบัติโดยบริษัท  อย่างไร
+<span class="LineNumber"> 020 </span>           ตอบว่า  กรรมย่อมวิบัติโดยบริษัทด้วยอาการ ๑๒ อย่าง  คือ :-

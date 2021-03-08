@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๓๔๐]  ๑.  <B>อาสวธรรม  เจือกับอาสวธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ทิฏฐาสวะ  อวิชชาสวะ  เจือกับกามาสวะ.
+<span class="LineNumber"> 007 </span>           พึงผูกจักรนัย.
+<span class="LineNumber"> 008 </span>                                                  ฯลฯ
+
+<span class="LineNumber"> 009 </span>                                <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 010 </span>           [๓๔๑]  ในเหตุปัจจัย   มี ๙ วาระ   ในอารัมมณปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 011 </span>ในปัจจัยทั้งปวง มี ๙ วาระ   ในวิปากปัจจัย  มี  ๑ วาระ ฯลฯ ในอวิคตปัจจัย มี ๙
+<span class="LineNumber"> 012 </span>วาระ.
+
+<span class="LineNumber"> 013 </span>                                              <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 014 </span>                                 <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 015 </span>           [๓๔๒]  ในนเหตุปัจจัย   มี ๒ วาระ   ในนอธิปติปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 016 </span>ในนปุเรชาตปัจจัย มี ๙ วาระ  ในนปัจฉาชาตปัจจัย  มี ๙ วาระ  ในนอาเสวน-

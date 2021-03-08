@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>         ไม่ใช่.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  บุคคลใดเคยกระทำให้แจ้งอัญญาตาวินทรีย์,  บุคคล
+<span class="LineNumber"> 003 </span>นั้นก็กำลังรู้แจ้งจักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ไม่ใช่.
+<span class="LineNumber"> 005 </span>                     <I>จบ  จักขุนทริยมูละ   อัญญาวินทริยมูลี</I>
+<span class="LineNumber"> 006 </span>                                    <I>จักขุนทริยมูล  จบ</I> 

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  352
+
+<span class="LineNumber"> 002 </span>กโรนฺโต  มาตุคามํ  นิสฺสาย  กโรมิ  สพฺพถาปิ  อหเมว  มิตฺตทุพฺภี 
+<span class="LineNumber"> 003 </span>สเจ  ปณฺฑิตํ  อปรชฺฌิสฺสามิ(๑)  น  สาธุนรธมฺเม  วตฺติสฺสามิ  
+<span class="LineNumber"> 004 </span>นาม [๒] กึ  เม  นาคมาณวิกาย  อินฺทปตฺตวาสีนํ(๓)  อสฺสุมุขานิ  
+<span class="LineNumber"> 005 </span>หสาเปนฺโต (๔) อิมํ  เวเคน[๕] เนตฺวา ธมฺมสภายํ  โอตาเรสฺสามีติ 
+<span class="LineNumber"> 006 </span>จินฺเตตฺวา อาห(๖)  
+<span class="LineNumber"> 007 </span>	[๙๙๗]อวสึ อหํ ตุยฺหํ ตีหํ อคาเร  
+<span class="LineNumber"> 008 </span>		อนฺเนน ปาเนน อุปฏฺ€ิโตสฺมิ  
+<span class="LineNumber"> 009 </span>		มุตฺโต  มมา สิ วิสชฺมามหํ ตํ(๗)  
+<span class="LineNumber"> 010 </span>		กามํ ฆรํ อุตฺตม ปฺ คจฺฉ  
+<span class="LineNumber"> 011 </span>		อปิ หายตุ นาคกุลสฺส (๘)อตฺโถ  
+<span class="LineNumber"> 012 </span>		อลมฺปิ เม นาคกฺาย เหตุ(๙)  
+<span class="LineNumber"> 013 </span>		โส ตฺวํ สเกเนว สุภาสิเตน  
+<span class="LineNumber"> 014 </span>		มุตฺโตสิ เม อชฺชวธาย ปฺาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  อุปฏฺ€ิโตสฺมีติ  ตยา  อุปฏฺ€ิโต  อสฺมิ ฯ  วิสชฺชามหํ  
+<span class="LineNumber"> 016 </span>ตนฺติ  วิสชฺเชมิ  อหํ  ตํ ฯ  กามนฺติ  เอกํเสน ฯ  วธายาติ 
+<span class="LineNumber"> 017 </span>วธโต ฯ  ปฺาติ ปณฺวนฺต ฯ  
+<span class="LineNumber"> 018 </span>	อถ  นํ  มหาสตฺโต  มาณว  มา  ตาว  มํ  อตฺตโน  ฆรํ 
+<span class="LineNumber"> 019 </span># ๑. ม. อปรชฺฌามิ ฯ  ๒. ม. เอตฺถนฺตเร ตสฺมาติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. อินฺทปตฺถนครวาสีนํ ฯ  ๔. ม. หาเสนฺโต ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. เอตฺถนฺตเร ตตฺถาติ ทิสฺสติ ฯ  ๖. ม. คาถมาห ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. มิตฺโต มมาสี วิสชฺชามหํ ตํ ฯ ๘. ม. นาคกุลา ฯ 
+<span class="LineNumber"> 023 </span># ๙. ม. โหตุ ฯ 

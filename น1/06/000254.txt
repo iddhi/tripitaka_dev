@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>    
+<span class="LineNumber"> 002 </span>			<B>ธ.</B>
+<span class="LineNumber"> 003 </span><B>๖๕  ธรณีสงฆ์</B>				ที่ดินซึ่งเป็นสมบัติของสงฆ์.
+<span class="LineNumber"> 004 </span><B>๑๙๖  ธรรมเทศนา-</B>			ข้อวัตรปฏิบัติ  ที่พึงศึกษาเกี่ยวกับเรื่องการ
+<span class="LineNumber"> 005 </span>	 <B>ปฏิสังยุต</B>				แสดงธรรม.
+<span class="LineNumber"> 006 </span><B>๑๓๘  ธรรมพิเศษ</B>			ธรรมชั้นสูงในพระพุทธศาสนา  ได้แก่มรรค
+<span class="LineNumber"> 007 </span>						ผล  นิพพาน.
+<span class="LineNumber"> 008 </span>			<B>น.</B>
+<span class="LineNumber"> 009 </span><B>๑๓๙  นางสากิยานี</B>			สตรีในราชสกุลศากยวงศ์.
+<span class="LineNumber"> 010 </span><B>๓๙  นานาภัณฑปัญจกะ</B>  		หมวด  ๕  แห่งการลัก  มีของต่าง ๆ  เป็นที่
+<span class="LineNumber"> 011 </span>						กำหนดคือ :-  ๑.  อาทิยนํ =  โจทย์  (ตู่)  เอา
+<span class="LineNumber"> 012 </span>						ของที่มีวิญญาณ  และไม่มีวิญญาณของเขา,
+<span class="LineNumber"> 013 </span>						๒.  หรณํ =  นำ  (ลัก)  เอาของเหล่านั้นไป,
+<span class="LineNumber"> 014 </span>						๓.  อวหรณํ =  บิดเพี้ยน  (ฉ้อ)   เอาของ
+<span class="LineNumber"> 015 </span>						เหล่านั้นที่เขาฝากไว้,  ๔.  อิริยาปถวิโกปนํ
+<span class="LineNumber"> 016 </span>						= ทำอิริยาบถแห่งคนผู้นำของไปให้กำเริบ
+<span class="LineNumber"> 017 </span>						(ขู่เข็ญหรือล่อลวงนำไปทั้งคนทั้งของ),
+<span class="LineNumber"> 018 </span>						๕.  €านา  จาวนํ = ทำของเหล่านั้นให้เคลื่อน
+<span class="LineNumber"> 019 </span>						จากที่  (แม้จะไม่นำไปที่อื่น).
+<span class="LineNumber"> 020 </span><B>๓๘  นาสนะ</B>				ให้ฉิบหาย,  ให้สึกจากเพศบรรพชิต.
+<span class="LineNumber"> 021 </span><B>๑๔๙  นำไปปวารณา</B>		นำไปบอกให้ฉัน.

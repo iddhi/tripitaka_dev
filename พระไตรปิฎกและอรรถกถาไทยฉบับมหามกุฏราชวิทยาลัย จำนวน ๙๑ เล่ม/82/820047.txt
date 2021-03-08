@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>เหตุวาราทินิทเทส</H1><SUP>๑</SUP>
+<span class="LineNumber"> 002 </span>         [ ๒๒ ]   ธรรมเหล่าใดเหล่าหนึ่งเป็นกุศล มีอยู่,  ธรรมเหล่านั้น 
+<span class="LineNumber"> 003 </span>ทั้งหมด     ชื่อว่า      กุศลเหตุ,... กุศลนิทาน,...กุศลสัมภวะ,...กุศล
+<span class="LineNumber"> 004 </span>ปภวะ,...กุศลสมุฏฐาน,...กุศลาหาร,...กุศลารัมมณะ,...กุศลปัจ-
+<span class="LineNumber"> 005 </span>จัย,...กุศลสมุทัย.
+<span class="LineNumber"> 006 </span>         ธรรมเหล่าใดเหล่าหนึ่งเป็นอกุศล   มีอยู่,....
+<span class="LineNumber"> 007 </span>         ธรรมเหล่าใดเหล่าหนึ่งเป็นอัพยากตะ   มีอยู่,....
+<span class="LineNumber"> 008 </span>         ธรรมเหล่าใดเหล่าหนึ่งเป็นนาม   มีอยู่,   ธรรมเหล่านั้นทั้งหมด 
+<span class="LineNumber"> 009 </span>เป็นนามเหตุ,...นามนิทาน,...นามสัมภวะ,...นามปภวะ,...นาม
+<span class="LineNumber"> 010 </span>สมุฏฐาน,...นามาหาร,...นามารัมมณะ,...นามปัจจัย,...นามสมุทัย.
+<span class="LineNumber"> 011 </span>         มูลยมก   มีวาระ  ๑๐   คือ :-                            
+<span class="LineNumber"> 012 </span>                <B>มูลวาระ,   เหตุวาระ, นิทานวาระ, สัม-
+<span class="LineNumber"> 013 </span>         ภววาระ,  ปภววาระ,  สมุฏฐานวาระ,  อาหารวาระ,
+<span class="LineNumber"> 014 </span>         อารัมมณวาระ,   ปัจจยวาระ,   สมุทยวาระ.</B>
+<span class="LineNumber"> 015 </span>                                        <I>มูลยมก  จบ</I>
+
+<span class='footnote'>๑.  พึงทำ  นยะ  ๔, ยมกะ  ๓,  อนุโลม,  ปฏิโลม,  ปุจฉา  วิสัชนาเหมือนในมูล      </span>
+<span class='footnote'>     วารนิทเทสทุกประการ  ในที่นี้พระบาลีท่านเปยยาละไว้.</span>

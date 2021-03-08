@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  เกฬฒิสีลชาตกํ  หน้า  221
+
+<span class="LineNumber"> 002 </span>	เอวํ  โพธิสตฺโต  อิมํ  อุทานํ  อุทาเนตฺวา  อปริหีนชฺฌาโน  
+<span class="LineNumber"> 003 </span>พฺรหฺมโลกปารายโน อโหสิ ฯ  
+<span class="LineNumber"> 004 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  สจฺจานิ  ปกาเสสิ ฯ (๑) 
+<span class="LineNumber"> 005 </span>สจฺจปริโยสาเน  เกจิ  โสตาปนฺนา  เกจิ สกิทาคามิโน เกจิ 
+<span class="LineNumber"> 006 </span>อนาคามิโน  เกจิ  อรหนฺตา  อเหสุํ ฯ  ตทา  มาตา  มหามายา 
+<span class="LineNumber"> 007 </span>อโหสิ  ปิตา  สุทฺโธทนมหาราชา  ภริยา  ราหุลมาตา  ปุตฺโต
+<span class="LineNumber"> 008 </span>ราหุโล  ปุตฺตทารํ  ปหาย นิกฺขมิตฺวา ปพฺพชิตปุริโส ปน 
+<span class="LineNumber"> 009 </span>อหเมวาติ ฯ  
+<span class="LineNumber"> 010 </span>			พนฺธนาคารชาตกํ ป€มํ ฯ  
+
+<span class="LineNumber"> 011 </span>			เกฬิสีลชาตกํ  
+<span class="LineNumber"> 012 </span>	หํสา  โกฺจา  มยุรา  จาติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 013 </span>อายสฺมนฺตํ ลกุณฺฑกภทฺทิยํ (๒) อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 014 </span>	โส  กิร  อายสฺมา  พุทฺธสาสเน  ปากโฏ  อโหสิ  ปฺาโต  
+<span class="LineNumber"> 015 </span>มธุรสโร  มธุรธมฺมกถิโก  ปฏิสมฺภิทปฺปตฺโต  มหาขีณาสโว  อสีติยา  
+<span class="LineNumber"> 016 </span>มหาเถรานํ  อพฺภนฺตเร (๓) ปมาเณน  ปน  โอมโก  ลกุณฺฑโก  (๔)  
+<span class="LineNumber"> 017 </span>สามเณรภณฺฑโก  (๕)  กีฬนตฺถาย  กโต  วิย ฯ  ตสฺมึ เอกทิวสํ 
+<span class="LineNumber"> 018 </span>ตถาคตํ  วนฺทิตฺวา  เชตวเน  โกฏฺ€กํ  คเต  ชานปทา  ตึสมตฺตา 
+<span class="LineNumber"> 019 </span># ๑. ม. ปกาเสตฺวา ชาตกํ สโมธาเนสิ ฯ  ๒. สี. ลกุณฺฏกภทฺทยํ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. อนฺตโร ฯ  ๔. ม. สี. ลกุณฺฏโก ฯ  ๕. ม. สามเณโร วิย ขุทฺทโก ฯ

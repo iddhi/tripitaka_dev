@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	๑.  คิมหฤดู  เดือนจิตตะและวิสาขะ,  มีอากาศร้อนและแห้งแล้ง. 
+<span class="LineNumber"> 002 </span>	๒.  วัสสฤดู  เดือนเชฏฐะ,  อาสาฬหะ,  ฝนเริ่มชุก  น้ำมักท่วม.
+<span class="LineNumber"> 003 </span>	๓.  สารทฤดู  เดือนสาวณะ,  โปฏฐปทะ,  อากาศอับ  เป็นฤดู
+<span class="LineNumber"> 004 </span>เก็บเกี่ยว.
+<span class="LineNumber"> 005 </span>	๔.  เหมันตฤดู  เดือนอัสสยุชะ,  กัตติกะ,  อากาศชื้นแฉะ  หิมะ
+<span class="LineNumber"> 006 </span>ตกหนัก.
+<span class="LineNumber"> 007 </span>	๕.  สิสิรฤดู  เดือนมิคสิระ,  ปุสสะ,  หนาวจัด  หิมะเริ่มตก
+<span class="LineNumber"> 008 </span>จางลง.
+<span class="LineNumber"> 009 </span>	๖.  วสันตฤดู  เดือนมาฆะ  ผัคคุณะ,  อากาศอบอุ่น  ต้นไม้ผลิ
+<span class="LineNumber"> 010 </span>ดอกออกผล.<sup>๑</sup>
+<span class="LineNumber"> 011 </span>	การนับเดือนนั้น ๆ  แม้จะเคยเทียบกันกับเดือนไทยว่า  เดือน
+<span class="LineNumber"> 012 </span>จิตตะตรงกับเดือน ๕  วิสาขะเดือน ๖  เชฏฐะเดือน ๗  ฯ ล ฯ  โดย
+<span class="LineNumber"> 013 </span>ลำดับก็จริง  แต่กาลที่ขึ้นต้นเดือนและสิ้นเดือนหาตรงกันไม่   เมื่อ
+<span class="LineNumber"> 014 </span>เปรียบเทียบกับเดือนไทย  จะปรากฏดังนี้ :-
+<span class="LineNumber"> 015 </span>	เดือนจิตตะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๔  ถึงกลางเดือน ๕
+<span class="LineNumber"> 016 </span>[ ราวเมษายน ].
+<span class="LineNumber"> 017 </span>	เดือนวิสาขะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๕  ถึงกลางเดือน ๖
+<span class="LineNumber"> 018 </span>[ ราวพฤษภาคม ].
+<span class="LineNumber"> 019 </span>	เดือนเชฏฐะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๖  ถึงกลางเดือน ๗
+
+<span class='footnote'>๑. ในคัมภีร์นั้น ๆ  ยกเอาสิสิรฤดูขึ้นต้น,  แต่เรียงใหม่ดั่งนี้  เพื่อความสะดวกกับการนับของสยาม.</span>

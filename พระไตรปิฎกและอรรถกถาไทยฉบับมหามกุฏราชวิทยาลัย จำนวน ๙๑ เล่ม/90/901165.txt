@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                      ๒.  อนิทัสสนอัปปฏิฆธรรมที่เป็นอัพยากตะ    อาศัย
+<span class="LineNumber"> 002 </span>อนิทัสสนอัปปฏิฆธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย 
+<span class="LineNumber"> 003 </span>                      ๓.  อนิทัสสนอัปปฏิฆธรรมที่เป็นกุศล และอนิทัสสน-
+<span class="LineNumber"> 004 </span>อัปปฏิฆธรรมที่เป็นอัพยากตะ    อาศัยอนิทัสสนอัปปฏิฆธรรมที่เป็น
+<span class="LineNumber"> 005 </span>กุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                      ๔.  อนิทัสสนอัปปฏิฆธรรมที่เป็นอกุศล อาศัยอนิทัส-
+<span class="LineNumber"> 007 </span>สนอัปปฏิฆธรรมที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓  วาระ.
+<span class="LineNumber"> 008 </span>                      ๗.  อนิทัสสนอัปปฏิฆธรรมที่เป็นอัพยากตะ    อาศัย
+<span class="LineNumber"> 009 </span>อนิทัสสนอัปปฏิฆธรรมที่เป็นอัพยากตะ   เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>มี ๓ วาระ     
+<span class="LineNumber"> 011 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>		[๑๔๖]  ในเหตุปัจจัย มี ๑  วาระ  ฯลฯ  ในอารัมมณปัจจัย  มี  ๓  วาระ.
+<span class="LineNumber"> 013 </span>ฯลฯ  ในวิปากปัจจัย มี ๑ วาระ  ฯลฯ  ในอวิคตปัจจัย   มี ๙ วาระ.
+<span class="LineNumber"> 014 </span>		สหชาตวาระก็ดี  ฯลฯ   สัมปยุตตวาระก็ดี    ปัญหาวาระก็ดี    พึงให้
+<span class="LineNumber"> 015 </span>พิสดาร.
+<span class="LineNumber"> 016 </span>                  	   <I>กุสลติกสนิทัสสนติกะ  จบ</I>

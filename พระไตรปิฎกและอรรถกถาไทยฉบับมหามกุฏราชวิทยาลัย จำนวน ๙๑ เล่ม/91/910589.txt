@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>สรณทุกมิจฉัตตติกนสรณทุกนมิจฉัตตติกะ</H1>  
+<span class="LineNumber"> 002 </span>           <H2>(๑๐๐.  สรณทุกะ  ๑๕.  มิจฉัตตติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                 <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                <H2>มิจฉัตตนิยตบท</H2>
+<span class="LineNumber"> 007 </span>           [๓๓๒] ๑.  <B>ธรรมที่ไม่ใช่มิจฉัตตนิยตธรรม   ที่ไม่ใช่สรณ-
+<span class="LineNumber"> 008 </span>ธรรม  อาศัยธรรมที่เป็นมิจฉัตตนิยตธรรม  ที่เป็นสรณธรรม  เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>  มี ๑  วาระ.
+
+<span class="LineNumber"> 010 </span>                                  <H2>สัมมัตตนิยตบท</H2>
+<span class="LineNumber"> 011 </span>                       ๑. <B>ธรรมที่ไม่ใช่สัมมัตตนิยตธรรม  ที่ไม่ใช่สรณ-
+<span class="LineNumber"> 012 </span>ธรรม  อาศัยธรรมที่เป็นสัมมัตตนิยตธรรม  ที่เป็นอรณธรรม  เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>  มี  ๑  วาระ.
+
+<span class="LineNumber"> 014 </span>                                       <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 015 </span>                                        <H2>อนุโลมนัย</H2>		
+<span class="LineNumber"> 016 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 017 </span>                                          <H2>อนิยตบท</H2>	
+<span class="LineNumber"> 018 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อนิยตธรรม  ที่ไม่ใช่อรณธรรม
+<span class="LineNumber"> 019 </span>อาศัยธรรมที่เป็นอนิยตธรรม  ที่เป็นอรณธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 020 </span>ปัจจัย</B>  มี  ๒  วาระ.
+<span class="LineNumber"> 021 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อนิยตธรรม  ที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 022 </span>อาศัยธรรมที่เป็นอนิยตธรรม  ที่เป็นอรณธรรม  เกิดขึ้น  เพราะ-
+<span class="LineNumber"> 023 </span>เหตุปัจจัย.</B>
+<span class="LineNumber"> 024 </span>            <I>สรณทุกมิจฉัตตติกนสรณทุกนมิจฉัตตติกะ  จบ</I>

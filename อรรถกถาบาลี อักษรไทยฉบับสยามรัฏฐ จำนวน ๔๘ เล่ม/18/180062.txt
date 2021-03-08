@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  18  หน้า  62
+
+<span class="LineNumber"> 002 </span>				  อุโปสถกมฺมวตฺถุ 
+<span class="LineNumber"> 003 </span>	ยถา  ทณฺเฑน  โคปาโลติ  อิมํ  ธมฺมเทสนํ  สตฺถา
+<span class="LineNumber"> 004 </span>ปุพฺพาราเม  วิหรนฺโต  วิสาขาทีนํ  อุปาสิกานํ  อุโปสถกมฺมํ 
+<span class="LineNumber"> 005 </span>อารพฺภ  กเถสิ ฯ
+<span class="LineNumber"> 006 </span>	สาวตฺถิยํ  กิเรกสฺมึ  อุโปสถทิวเส  ปฺจสตมตฺตา  อิตฺถิโย
+<span class="LineNumber"> 007 </span>อุโปสถิกา  หุตฺวา  วิหารํ  อคมํสุ ฯ  วิสาขา  ตาสุ  มหลฺลกิตฺถิโย
+<span class="LineNumber"> 008 </span>อุปสงฺกมิตฺวา  ปุจฺฉิ  อมฺมา  กิมตฺถํ  อุโปสถิกา  ชาตตฺถาติ 
+<span class="LineNumber"> 009 </span>ตาหิ  ทิพฺพสมฺปตฺตึ  ปตฺเถตฺวาติ  วุตฺเต  มชฺฌิมิตฺถิโย  ปุจฺฉิ 
+<span class="LineNumber"> 010 </span>ตาหิ  สปตฺติวาสา  มุจฺจนตฺถายาติ  วุตฺเต  ตรุณิตฺถิโย  ปุจฺฉิ 
+<span class="LineNumber"> 011 </span>ตาหิ  ป€มคพฺเภ  ปุตฺตปฏิลาภตฺถายาติ  วุตฺเต  กุมาริกาโย 
+<span class="LineNumber"> 012 </span>ปุจฺฉิ  ตาหิ  ตรุณภาเวเยว  ปติกุลํ  คมนตฺถายาติ  วุตฺเต 
+<span class="LineNumber"> 013 </span>ตํ  สพฺพมฺปิ  ตาสํ  กถํ  สุตฺวา  ตา  อาทาย  สตฺถุ  สนฺติกํ 
+<span class="LineNumber"> 014 </span>คนฺตฺวา  ปฏิปาฏิยา  อาโรเจสิ ฯ  ตํ  สุตฺวา  สตฺถา  วิสาเข 
+<span class="LineNumber"> 015 </span>อิเมสํ  สตฺตานํ  ชาติอาทโย  นาม  ทณฺฑหตฺถโคปาลกสทิสา 
+<span class="LineNumber"> 016 </span>ชาติ  ชราย  สนฺติกํ  เปเสตฺวา(๑)  ชรา พฺยาธิโน  สนฺติกํ 
+<span class="LineNumber"> 017 </span>พยาธิ  มรณสฺส  สนฺติกํ  มรณํ  (๒)  กุธาริยา  ฉินฺทนฺตา วิย
+<span class="LineNumber"> 018 </span>ชีวิตํ  ฉินฺทติ  เอวํ  สนฺเตปิ  วิวฏฺฏํ  ปตฺเถนฺตา  นาม  นตฺถิ 
+<span class="LineNumber"> 019 </span>วฏฺฏเมว  ปน  ปตฺเถนฺตีติ  วตฺวา  อนุสนฺธึ  ฆเฏตฺวา  ธมฺมํ 
+<span class="LineNumber"> 020 </span>เทเสนฺโต  อิมํ  คาถมาห
+<span class="LineNumber"> 021 </span>#๑. สี. ยุ. อยํ  ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span>#๒. สี. ยุ.  พฺยาธิ  มรณสฺส  สนฺติกํ  เปเสตฺวา  กุธาริยา ฯ

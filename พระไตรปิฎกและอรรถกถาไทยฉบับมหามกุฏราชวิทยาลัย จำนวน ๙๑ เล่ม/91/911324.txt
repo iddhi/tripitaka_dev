@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๙๒๗]  ในเหตุปัจจัย มี ๙ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                 <H2>สุขสหคตบท</H2>
+<span class="LineNumber"> 004 </span>           [๙๒๘] ๑.  <B>สุขสหคตธรรม  ที่เป็นอกุศล  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 005 </span>สุขสหคตธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>                                          <B>ฯลฯ</B>
+
+<span class="LineNumber"> 007 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๙๒๙]  ในเหตุปัจจัย มี ๙ วาระ  ฯลฯ
+
+<span class="LineNumber"> 009 </span>                               <H2>อุเบกขาสหคตบท</H2>
+<span class="LineNumber"> 010 </span>           [๙๓๐] ๑.  <B>อุเบกขาสหคตธรรม   ที่เป็นอกุศล    อาศัยธรรม
+<span class="LineNumber"> 011 </span>ที่ไม่ใช่อุเบกขาสหคตธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>                                           <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 013 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>           [๙๓๑]  ในเหตุปัจจัย  มี ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 015 </span>                     <I>นกุสลติกนปีติติกกุสลติกปีติติกะ  จบ</I>

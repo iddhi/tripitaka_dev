@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>๘.  นิสสยปัจจัย  ฯลฯ   ๒๓.  อวิคตปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ   เพราะนิสสยปัจจัย  ฯลฯ   เพราะอวิคตปัจจัย</B> 
+
+<span class="LineNumber"> 003 </span>                                <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 004 </span>           [๒๒๔]  ในเหตุปัจจัย  มี ๙ วาระ    ในอารัมมณปัจจัย  มี ๑  วาระ
+<span class="LineNumber"> 005 </span>ในอธิปติปัจจัย  มี ๙ วาระ  ในอนันตรปัจจัย  มี ๑ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 006 </span>มี ๑ วาระ   ในสหชาตปัจจัย   มี ๙ วาระ    ในอัญญมัญญปัจจัย  มี  ๖ วาระ
+<span class="LineNumber"> 007 </span>ในนิสสยปัจจัย  มี ๙ วาระ  ในอุปนิสสยปัจจัย  มี ๑ วาระ   ในปุเรชาตปัจจัย
+<span class="LineNumber"> 008 </span>มี ๑ วาระ   ในอาเสวนปัจจัย   มี ๑ วาระ    ในกัมมปัจจัย   มี  ๙ วาระ   ใน
+<span class="LineNumber"> 009 </span>วิปากปัจจัย   มี ๙ วาระ  ในอาหารปัจจัย  มี ๙ วาระ   ในอินทริยปัจจัย  มี ๙
+<span class="LineNumber"> 010 </span>วาระ   ในฌานปัจจัย  มี ๙ วาระ   ในมัคคปัจจัย  มี ๙ วาระ  ในสัมปยุตต-
+<span class="LineNumber"> 011 </span>ปัจจัย   มี ๑ วาระ  ในวิปปยุตตปัจจัย   มี ๙ วาระ  ในอัตถิปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 012 </span>ในนัตถิปัจจัย  มี ๑ วาระ   ในวิคตปัจจัย   มี  ๑ วาระ   ในอวิคตปัจจัย  มี ๙
+<span class="LineNumber"> 013 </span>วาระ.
+<span class="LineNumber"> 014 </span>                                            <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 015 </span>                                               <H1>ปัจจนียนัย</H1> 
+<span class="LineNumber"> 016 </span>                                             <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 017 </span>           [๒๒๕] ๑.  <B>สัปปฏิฆธรรม    อาศัยสัปปฏิฆธรรม    เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะนเหตุปัจจัย</B>   มี ๓ วาระ  (วาระที่ ๑-๓)

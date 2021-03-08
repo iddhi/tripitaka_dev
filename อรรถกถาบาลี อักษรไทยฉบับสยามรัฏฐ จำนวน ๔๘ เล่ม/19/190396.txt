@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๙  เมฆิยวคฺควณฺณนา  หน้า  ๓๙๖
+
+<span class="LineNumber"> 002 </span>อุปจิตวิปุลปุฺสมฺภาโร  สตฺถา  เอวํ  ทารุณํ  อภูตพฺภกฺขานํ  
+<span class="LineNumber"> 003 </span>ปาปุณีติ  วุจฺจเต
+<span class="LineNumber"> 004 </span>	อยํ  โส  ภควา  โพธิสตฺตภูโต  อตีตชาติยํ  มุนาลิ  นาม
+<span class="LineNumber"> 005 </span>ธุตฺโต  หุตฺวา  ปาปชนเสวี  อโยนิโสมนสิการพหุโล  วิจรติ ฯ  
+<span class="LineNumber"> 006 </span>โส  เอกทิวสํ  สุรภึ  นาม  ปจฺเจกสมฺพุทฺธํ  นครํ  ปิณฺฑาย  
+<span class="LineNumber"> 007 </span>ปวิสิตุํ  จีวรํ  ปารุปนฺตํ  ปสฺสิ ฯ  ตสฺมิฺจ  สมเย  อฺตรา  
+<span class="LineNumber"> 008 </span>อิตฺถี  ตสฺส  อวิทูเรน  คจฺฉติ ฯ  ธุตฺโต  อพฺรหฺมจารี  อยํ  สมโณติ
+<span class="LineNumber"> 009 </span>อพฺภาจิกฺขิ ฯ  โส  เตน  กมฺเมน  พหูนิ  วสฺสสตสหสฺสานิ  
+<span class="LineNumber"> 010 </span>นิรเย  ปจิตฺวา  ตสฺเสว  กมฺมสฺส  วิปากาวเสเสน  อิทานิ  
+<span class="LineNumber"> 011 </span>พุทฺโธ  หุตฺวาปิ  สุนฺทริยา  การณา  อภูตพฺภกฺขานํ  ปาปุณิ ฯ
+<span class="LineNumber"> 012 </span>ยถา  เจตํ  เอวํ  จิฺจมาณวิกาทีนํ  วิการกิตฺถีนํ  ภควโต  
+<span class="LineNumber"> 013 </span>อพฺภกฺขานาทีนิ  ทุกฺขานิ  ปวตฺตานิ(๑)  สพฺพานิ  ปุพฺเพ  กตสฺส  
+<span class="LineNumber"> 014 </span>กมฺมสฺส  วิปากาวเสสานิ  ยานิ  กมฺมานิ  ปิโลติกานีติ  (๒)  วุจฺจนฺติ ฯ  
+<span class="LineNumber"> 015 </span>วุตฺตเฺหตํ  อปทาเน  (๓)  
+<span class="LineNumber"> 016 </span>		อโนตตฺตสราสนฺเน  รมณีเย  สิลาตเล  
+<span class="LineNumber"> 017 </span>		นานารตนปชฺโชเต  นานาคนฺธวนนฺตเร ฯ  
+<span class="LineNumber"> 018 </span>		มหตา  ภิกฺขุสงฺเฆน  อุเปโต  (๔)  โลกนายโก  
+<span class="LineNumber"> 019 </span>		อาสีโน  พฺยากรี  ตตฺถ  ปุพฺพกมฺมานิ  อตฺตโน ฯ  
+<span class="LineNumber"> 020 </span>#  ๑.  ม.  ปตฺตานิ ฯ  ๒.  สี.  กมฺมานิ  ปิโลติกานีติ ฯ  
+<span class="LineNumber"> 021 </span>#  ม.  กมฺมปิโลติกานีติ ฯ  ๓.  ขุ.  อป.  ๓๒/๓๙๒/๔๗๑-๔๘๔ ฯ  
+<span class="LineNumber"> 022 </span>#  ๔.  ม.  ปเรโต ฯ

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๖  นิคมนกถา  หน้า  ๓๕๑
+
+<span class="LineNumber"> 002 </span>ภูเตน  วิปุลวิสุทฺธพุทฺธินา  พุทฺธโฆโสติ  ครูหิ คหิตนามเธยฺเยน
+<span class="LineNumber"> 003 </span>เถเรน กตา อยํ ปรมตฺถโชติกา นาม ขุทฺทกปา€วณฺณนา  
+<span class="LineNumber"> 004 </span>		ตาว ติฏฺ€ตุ โลกสฺมึ  	โลกนิตฺถรเณสินํ  
+<span class="LineNumber"> 005 </span>		ทสฺเสนฺตี กุลปุตฺตานํ  	นยํ สีลาทิวิสุทฺธิยา ฯ  
+<span class="LineNumber"> 006 </span>		ยาว พุทฺโธติ นามมฺปิ  	สุทฺธจิตฺตสฺส ตาทิโน  
+<span class="LineNumber"> 007 </span>		โลกมฺหิ โลกเชฏฺ€สฺส  ปวตฺตติ มเหสิโนติ ฯ  
+<span class="LineNumber"> 008 </span>		ปรมตฺถโชติกาย  นาม 	ขุทฺทกปา€ฏฺ€กถาย  
+<span class="LineNumber"> 009 </span>		     ขุทฺทกปา€วณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 010 </span># ๑. สี. สีลวิสุทฺธิยา ฯ  

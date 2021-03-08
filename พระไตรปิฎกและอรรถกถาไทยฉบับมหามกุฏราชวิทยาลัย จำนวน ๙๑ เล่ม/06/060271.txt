@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>องค์  ๕  แห่งภิกษุผู้ต้องถือนิสัย</H1>
+<span class="LineNumber"> 002 </span>           ดูก่อนภิกษุทั้งหลาย ภิกษุผู้ประกอบด้วยองค์  ๕  ไม่ต้องถือนิสัยอยู่ คือ:-
+<span class="LineNumber"> 003 </span>           ๑.   เป็นผู้มีศรัทธา. 
+<span class="LineNumber"> 004 </span>           ๒.   เป็นผู้มีหิริ.
+<span class="LineNumber"> 005 </span>           ๓.   เป็นผู้มีโอตตัปปะ.
+<span class="LineNumber"> 006 </span>           ๔.   เป็นผู้ปรารภความเพียร   และ
+<span class="LineNumber"> 007 </span>           ๕.  เป็นผู้มีสติตั้งมั่น.
+<span class="LineNumber"> 008 </span>           ดูก่อนภิกษุทั้งหลาย     ภิกษุผู้ประกอบไม่ด้วยองค์  ๕  นี้แล     ไม่ต้องถือ
+<span class="LineNumber"> 009 </span>นิสัยอยู่.
+
+<span class="LineNumber"> 010 </span>                            <H1>องค์  ๕   แห่งภิกษุผู้ต้องถือนิสัย</H1>
+<span class="LineNumber"> 011 </span>           ดูก่อนภิกษุทั้งหลาย   ภิกษุผู้ประกอบด้วยองค์  ๕  แม้อื่นอีก  จะไม่ถือ
+<span class="LineNumber"> 012 </span>นิสัยอยู่   ไม่ได้  คือ:-
+<span class="LineNumber"> 013 </span>           ๑.  เป็นผู้วิบัติด้วยศีล  ในอธิศีล.
+<span class="LineNumber"> 014 </span>           ๒.  เป็นผู้วิบัติด้วยอาจาระ   ในอัธยาจาระ.
+<span class="LineNumber"> 015 </span>           ๓.  เป็นผู้วิบัติด้วยทิฏฐิ  ในทิฏฐิยิ่ง.
+<span class="LineNumber"> 016 </span>           ๔.  เป็นผู้ได้ยินได้ฟังน้อย   และ
+<span class="LineNumber"> 017 </span>           ๕.  เป็นผู้มีปัญญาทราม.
+<span class="LineNumber"> 018 </span>           ดูก่อนภิกษุทั้งหลาย   ภิกษุผู้ประกอบด้วยองค์  ๕  นี้แล   จะไม่ถือนิสัย
+<span class="LineNumber"> 019 </span>อยู่   ไม่ได้.

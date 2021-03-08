@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 457
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  ปฏิคฺคหิตนฺติ  สพฺพเมตํ  ตุมฺเหหิ  ทินฺนํ  มยา จ
+<span class="LineNumber"> 003 </span>ปฏิคฺคหิตเมว  โหตุ ฯ  สพฺพสฺส  อคฺฆิยํ  กตนฺติ  สพฺพสฺส  ตุมฺเหหิ  
+<span class="LineNumber"> 004 </span>มยฺหํ  อคฺฆิยํ  นิเวทยํ  กตํ ฯ  อวรุทฺธสิ  มํ  ราชาติ  ราชา ปน
+<span class="LineNumber"> 005 </span>มํ อวรุทฺธสิ  รฏฺ€า  ปพฺพาเชสิ  ตสฺมา  วงฺกตเมว(๑)คมิสฺสามิ 
+<span class="LineNumber"> 006 </span>ตสฺมึ  เม  อรฺเ  วสนฏฺ€านํ ชานาถาติ ฯ  
+<span class="LineNumber"> 007 </span>	เต ราชาโน อาหํสุ  
+<span class="LineNumber"> 008 </span>	[๑๑๑๗]อิเธว ตาว อจฺฉสฺสุ	เจตรฏฺเ€ รเถสภ  
+<span class="LineNumber"> 009 </span>		ยาว เจตา คมิสฺสนฺติ	รฺโ สนฺติกยาจิตุํ  
+<span class="LineNumber"> 010 </span>		นิชฺฌาเปตุํ มหาราชํ	สิวีนํ รฏฺ€วฑฺฒนํ  
+<span class="LineNumber"> 011 </span>		ตํ ตํ เจตา ปุรกฺขิตฺวา	ปีติตา(๒) ลทฺธปจฺจยา  
+<span class="LineNumber"> 012 </span>		ปริวาเรตฺวาน คจฺฉนฺติ	เอวํ ชานาหิ ขตฺติยาติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  รฺโ  สนฺติกยาจิตุนฺติ  รฺโ  สนฺติกํ  ยาจนตฺถาย  
+<span class="LineNumber"> 014 </span>คมิสฺสนฺติ ฯ  นิชฺฌาเปตุนฺติ  ตุมฺหากํ  นิทฺโทสภาวํ  ชานาเปตุํ ฯ  
+<span class="LineNumber"> 015 </span>ลทฺธปจฺจยาติ ลทฺธปติฏฺ€า ฯ คจฺฉนฺตีติ คมิสฺสนฺติ ฯ  
+<span class="LineNumber"> 016 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 017 </span>	[๑๑๑๘]มา โว รุจิตฺถ คมนํ	รฺโ สนฺติกยาจิตุํ  
+<span class="LineNumber"> 018 </span>		นิชฺฌาเปตุํ มหาราชํ	ราชา(๓) ตตฺถ น อิสฺสโร  
+<span class="LineNumber"> 019 </span>		อจฺจุคฺคตา หิ สิวิโย(๔)	พลคฺคา เนคมา จ เย  
+<span class="LineNumber"> 020 </span>		เต ปธํเสตุมิจฺฉนฺติ(๕)	ราชานํ มม การณาติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. วงฺกเมว ฯ  ๒. ม. ปุรกฺขตฺวา ฯ  ๓. ม. ราชาปิ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. สิวโย ฯ  ๕. ม. วิธํเสตุมิจฺฉนฺติ ฯ 

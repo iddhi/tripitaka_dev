@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  280
+
+<span class="LineNumber"> 002 </span>	อโมฆา  เต  กุฏิกา  กตา  ตยา  (๑) กตา กุฏิกา อโมฆา
+<span class="LineNumber"> 003 </span>อวฺฌา  สผลา  สอุทฺริยา  ยสฺมา  อรหตา  ขีณาสเวน  ปริภุตฺตา ฯ
+<span class="LineNumber"> 004 </span>สเจ  ตฺวํ  อนุโมทสิ  ตํ เต ภวิสฺสติ ทีฆรตฺตํ หิตาย สุขายาติ ฯ  
+<span class="LineNumber"> 005 </span>	ตํ  สุตฺวา  เขตฺตปาโล  ลาภา  วต  เม  สุลทฺธํ วต เม ยสฺส เม
+<span class="LineNumber"> 006 </span>กุฏิกายํ  เอทิโส  อยฺโย  ปวิสิตฺวา  นิสีทตีติ  ปสนฺนจิตฺโต  
+<span class="LineNumber"> 007 </span>อนุโมทนฺโต อฏฺ€าสิ ฯ อิมํ ปน เตสํ  กถาสลฺลาปํ  ภควา 
+<span class="LineNumber"> 008 </span>ทิพฺพาย  โสตธาตุยา  สุตฺวา  อนุโมทนฺจสฺส  ตฺวา  ตมฺภาวินึ
+<span class="LineNumber"> 009 </span>สมฺปตฺตึ วิภาเวนฺโต เขตฺตปาลํ อิมาหิ คาถาหิ อชฺฌภาสิ  
+<span class="LineNumber"> 010 </span>		วิหาสิ กุฏิยํ ภิกฺขุ		สนฺตจิตฺโต อนาสโว  
+<span class="LineNumber"> 011 </span>		เตน กมฺมวิปาเกน		เทวินฺโท ตฺวํ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 012 </span>		ฉตฺตึสกฺขตฺตุํ (๒)		เทวินฺโท  เทวรชฺชํ กริสฺสสิ  
+<span class="LineNumber"> 013 </span>		จตุตฺตึสกฺขตฺตุํ (๓) จกฺกวตฺตี  ราชา รฏฺเ€ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 014 </span>		รตนกุฏิ นาม ปจฺเจกพุทฺโธ  วีตราโค ภวิสฺสสีติ ฯ  
+<span class="LineNumber"> 015 </span>	กุฏิกายํ  ลทฺธวิเสสตฺตา  ปน  เถรสฺส  ตโต  ปภูติ 
+<span class="LineNumber"> 016 </span>กุฏิวิหารีเตฺวว  สมฺา อุทปาทิ ฯ อยเมว จ เถรสฺส 
+<span class="LineNumber"> 017 </span>อฺาพฺยากรณคาถาปิ อโหสีติ ฯ  
+<span class="LineNumber"> 018 </span>		กุฏิวิหาริตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 019 </span># ๑. สี. อยํ ตยา ฯ  ๒. สี. ฉตฺตึสกฺขตฺตุํ ฯ  ๓. สี. รตนกุฏิโก ฯ 

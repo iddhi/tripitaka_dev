@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                   ๑๔  บท  ที่เป็นไปกับด้วยความสัมพันธ์คำบอกลาสิกขาเหล่านี้  คือ :-
+<span class="LineNumber"> 002 </span>           <B>พุทฺธํ            ปจฺจกฺขามิ</B>       ข้าพเจ้าบอกคืนพระพุทธเจ้า
+<span class="LineNumber"> 003 </span>           <B>ธมฺมํ</B>                   "              ข้าพเจ้าบอกคืนพระธรรม
+<span class="LineNumber"> 004 </span>           <B>สงฺฆํ</B>                   "              ข้าพเจ้าบอกคืนพระสงฆ์
+<span class="LineNumber"> 005 </span>           <B>สิกฺขํ</B>                   "              ข้าพเจ้าบอกคืนสิกขา
+<span class="LineNumber"> 006 </span>           <B>วินยํ</B>                   "              ข้าพเจ้าบอกคืนวินัย
+<span class="LineNumber"> 007 </span>           <B>ปาฏิโมกฺขํ</B>           "              ข้าพเจ้าบอกคืนปาฏิโมกข์  
+<span class="LineNumber"> 008 </span>           <B>อุทฺเทสํ</B>                "               ข้าพเจ้าบอกคืนอุเทศ
+<span class="LineNumber"> 009 </span>           <B>อุปชฺฌายํ</B>            "               ข้าพเจ้าบอกคืนพระอุปัชฌายะ
+<span class="LineNumber"> 010 </span>           <B>อาจริยํ</B>                "               ข้าพเจ้าบอกคืนพระอาจารย์
+<span class="LineNumber"> 011 </span>           <B>สทฺธิวิหาริกํ</B>          "               ข้าพเจ้าบอกคืนพระสัทธิวิหาริก
+<span class="LineNumber"> 012 </span>           <B>อนฺเตวาสิกํ</B>          "               ข้าพเจ้าบอกคืนพระอันเตวาสิก
+<span class="LineNumber"> 013 </span>           <B>สมานูปชฺฌายกํ</B>   "               ข้าพเจ้าบอกคืนพระผู้ร่วมอุปัชฌายะ
+<span class="LineNumber"> 014 </span>           <B>สมานาจริยกํ</B>       "               ข้าพเจ้าบอกคืนพระผู้ร่วมอาจารย์
+<span class="LineNumber"> 015 </span>           <B>สพฺรหฺมจารึ</B>         "               ข้าพเจ้าบอกคืนพระเพื่อนพรหมจรรย์                    
+<span class="LineNumber"> 016 </span>พระผู้มีพระภาคเจ้าตรัสแล้ว  แม้ในวาระว่าด้วยการบอกลาสิกขานี้.
+<span class="LineNumber"> 017 </span>	อนึ่ง  คำว่า  <B>วทติ  วิญฺาเปติ</B>  ในทุก ๆ บท  มีเนื้อความดังต่อ
+<span class="LineNumber"> 018 </span>ไปนี้ :-
+<span class="LineNumber"> 019 </span>	ภิกษุผู้กระสันนั้น  ลั่นวาจากล่าว  และยังบุคคลซึ่งตนบอกให้รู้แจ้ง
+<span class="LineNumber"> 020 </span>คือ  ประกาศให้ได้ยิน  ได้แก่ให้เข้าใจ  ด้วยการลั่นวาจานั้นนั่นเองว่า  ภิกษุนี้
+<span class="LineNumber"> 021 </span>มีความประสงค์จะละศาสนา  จะพ้นจากศาสนาจะละความเป็นภิกษุ  จึงเปล่ง
+<span class="LineNumber"> 022 </span>ถ้อยคำนี้.	
+

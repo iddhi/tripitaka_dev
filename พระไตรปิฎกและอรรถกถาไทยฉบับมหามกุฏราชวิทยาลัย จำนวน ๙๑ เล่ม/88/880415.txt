@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๕.  สมนันตรปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>                       ๑.  <B>อาสวสัมปยุตตธรรม เป็นปัจจัยแก่อาสวสัมปยุตต- 
+<span class="LineNumber"> 003 </span>ธรรม  ด้วยอำนาจของสมนันตรปัจจัย</B>
+<span class="LineNumber"> 004 </span>                    <H1>๖.  สหชาตปัจจัย  ฯลฯ       ๘.  นิสสยปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           <B>ฯลฯ     เป็นปัจจัย   ด้วยอำนาจของสหชาตปัจจัย</B>  มี ๙ วาระ
+<span class="LineNumber"> 006 </span>           <B>ฯลฯ     เป็นปัจจัย   ด้วยอำนาจของอัญญมัญญปัจจัย</B>  มี ๖ วาระ
+<span class="LineNumber"> 007 </span>           <B>ฯลฯ     เป็นปัจจัย   ด้วยอำนาจของนิสสยปัจจัย</B>  มี ๙  วาระ
+
+<span class="LineNumber"> 008 </span>	                            <H1>๙.  อุปนิสสยปัจจัย</H1>   
+<span class="LineNumber"> 009 </span>     	   [๓๘๘] ๑.  <B>อาสวสัมปยุตตธรรม เป็นปัจจัยแก่อาสวสัมปยุตต-
+<span class="LineNumber"> 010 </span>ธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 011 </span>           มี ๓ อย่าง  คือที่เป็น  <B>อารัมมณูปนิสสยะ   อนันตรูปนิสสยะ</B>  และ
+<span class="LineNumber"> 012 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 013 </span>           ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 014 </span>           ขันธ์ทั้งหลายที่เป็นอาสวสัมปยุตตธรรม    เป็นปัจจัยแก่ขันธ์ทังหลาย
+<span class="LineNumber"> 015 </span>ที่เป็นอาสวสัมปยุตตธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 016 </span>                       ๒.  <B>อาสวสัมปยุตตธรรม เป็นปัจจัยแก่อาสววิปปยุตต-
+<span class="LineNumber"> 017 </span>ธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย</B>

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>ปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                       <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                    <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๑๗๙๖] ๑. <B>มัคคารัมมณธรรม  เป็นปัจจัยแก่มัคคารัมมณ-
+<span class="LineNumber"> 005 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 006 </span>           คือ  เหตุทั้งหลายที่เป็นมัคคารัมมณธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 007 </span>ทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>           [๑๗๙๗] ๒.  <B>มัคคารัมมณธรรม  เป็นปัจจัยแก่มัคคาธิปติธรรม
+<span class="LineNumber"> 009 </span>ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  เหตุทั้งหลายที่เป็นมัคคารัมมณธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 011 </span>ทั้งหลายที่เป็นมัคคาธิปติธรรม  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 012 </span>           [๑๗๔๘] ๓.  <B>มัคคารัมมณธรรม    เป็นปัจจัยแก่มัคคารัมมณ-
+<span class="LineNumber"> 013 </span>ธรรม  และมัคคาธิปติธรรม  ด้วยอำนาจของเหตุปัจจัย.  ผู้มีปัญญาพึง
+<span class="LineNumber"> 014 </span>กระทำเป็น  ๑๗ วาระด้วยเหตุนี้.</B>
+
+<span class="LineNumber"> 015 </span>                                   <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           [๑๗๙๙] ๑.  <B>มัคคเหตุกธรรม    เป็นปัจจัยแก่แก่มัคคารัมมณ-
+<span class="LineNumber"> 017 </span>ธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>

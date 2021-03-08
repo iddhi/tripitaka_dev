@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  467
+
+<span class="LineNumber"> 002 </span>ทุคฺคณฺโห (๑) ขลุงฺกํ  อารุฬฺเหน  ชวสมฺปนฺนํ  อาชานียํ  อารุยฺห
+<span class="LineNumber"> 003 </span>คจฺฉนฺโต  วิย  คเหตุํ  น  สกฺกาติ  อตฺโถ ฯ ขลุงฺโก วิย หิ
+<span class="LineNumber"> 004 </span>เกวฏฺโฏ ตํ อารุฬฺหกปุริโส  วิย  ตวํ  ชวสมฺปนฺโน  สินฺธโว  
+<span class="LineNumber"> 005 </span>วิย  อหํ  ตํ  อารุฬฺหกปุริโส  วิย  อมฺหากํ  ราชาติ  ทสฺเสติ ฯ 
+<span class="LineNumber"> 006 </span>ติณฺโณ  หิยฺโยติ  หิยฺโยว  อุตฺติณฺโณ  โส  จ  โข  สามจฺโจ  
+<span class="LineNumber"> 007 </span>สปริชโน  น  เอกโกว  ปลายิตฺวา  คโต ฯ  อนุชวนฺติ  สเจ  ปน  
+<span class="LineNumber"> 008 </span>ตวํ  ตํ  อนุชวิสฺสสิ  อนุพนฺธิสฺสสิ ฯ  ยถา  สุวณฺณราชหํสํ  
+<span class="LineNumber"> 009 </span>อนุชวนฺโต  ธงฺโก  อนฺตราว  ปติสฺสติ  เอวํ  ปติสฺสสิ อนฺตราว 
+<span class="LineNumber"> 010 </span>วินาสํ ปาปุณิสฺสสีติ วทติ ฯ  
+<span class="LineNumber"> 011 </span>	อิทานิ อจฺฉมฺภีโต เกสรสีโห วิย มหาสตฺโต อุทาหรณํ 
+<span class="LineNumber"> 012 </span>อาหรนฺโต อาห  
+<span class="LineNumber"> 013 </span>	[๖๖๓]	สิงฺคาลาว (๒) รตฺติภาเค	ผุลฺลํ ทิสฺวาน กึสุกํ  
+<span class="LineNumber"> 014 </span>			มํสเปสีติ มฺนฺตา		ปริพฺยุฬฺหา มิคาธมา  
+<span class="LineNumber"> 015 </span>			วีติวตฺตาสุ รตฺตีสุ		อุคฺคตสฺมึ ทิวากเร  
+<span class="LineNumber"> 016 </span>			กึสุกํ ผุลฺลิตํ ทิสฺวา		อาสาฉินฺนา มิคาธมา  
+<span class="LineNumber"> 017 </span>			เอวเมว ตุวํ ราช			เวเทหํ ปริวารย (๓) 
+<span class="LineNumber"> 018 </span>			อาสาฉินฺโน (๔) คมิสฺสสิ	สิงฺคาลา กึสุกํ ยถาติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  ทิสฺวานาติ  จนฺทาโลเกน  โอโลเกตฺวา ฯ  ปริพฺยุฬฺหาติ  
+<span class="LineNumber"> 020 </span>ปาโตว  มํสเปสึ  ขาทิตฺวา  คมิสฺสามาติ  ปริวาเรตฺวา  อฏฺ€ํสุ ฯ  
+<span class="LineNumber"> 021 </span>วีติวตฺตาสูติ  เต  ยาสุ  ยาสุ  รตฺตีสุ  เอวํ  อฏฺ€ํสุ  ตาสุ  ตาสุ  
+<span class="LineNumber"> 022 </span># ๑. ม. ทุคฺคณฺโหสิ ฯ  ๒. ส. ยุ.สิคาลา ฯ  ๓. ม. ปริวาริย ฯ
+<span class="LineNumber"> 023 </span># ๔. ส. ม. อาสจฺฉินฺโน ฯ

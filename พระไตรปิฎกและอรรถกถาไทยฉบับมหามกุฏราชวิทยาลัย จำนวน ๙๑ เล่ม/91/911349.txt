@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                       ๕.  <B>กุศลธรรม   ที่เป็นอทุกขมสุขายเวทนายสัมปยุตต- 
+<span class="LineNumber"> 002 </span>ธรรม   อาศัยธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่อทุกขมสุขายเวทนายสัมป-
+<span class="LineNumber"> 003 </span>ยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 004 </span>                       ๖.  <B>กุศลธรรม     ที่เป็นสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 005 </span>อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่อทุกขมสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๒ วาระ.
+<span class="LineNumber"> 007 </span>           หัวข้อปัจจัย ๔    โดยนัยแห่งการนับ      พึงกระทำให้เป็นปัญหาวาระ
+<span class="LineNumber"> 008 </span>อย่างละ  ๒  ละ  ๒.
+
+<span class="LineNumber"> 009 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๑๐๐๗]  ในเหตุปัจจัย มี ๑๔ วาระ  ฯลฯ
+
+<span class="LineNumber"> 011 </span>                                             <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 012 </span>                                             <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 013 </span>                                           <H2>๑.  เหตุปัจจัย</H2>     
+<span class="LineNumber"> 014 </span>                                                 <H2>อกุศลบท</H2>
+<span class="LineNumber"> 015 </span>           [๑๐๐๘]  ๑.  <B>อกุศลธรรม   ที่เป็นสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 016 </span>อาศัยธรรมที่ไม่ใช่อกุศล   ที่ไม่ใช่สุขายเวทนายสัมปยุตตธรรม  เกิด
+<span class="LineNumber"> 017 </span>ขึ้น  เพราะเหตุปัจจัย</B>

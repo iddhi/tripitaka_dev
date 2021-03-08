@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  31  ปฺจกนิปาเต  วณฺณาโรหวคฺควณฺณนา  หน้า  578 
+
+<span class="LineNumber"> 002 </span>	ตมตฺถํ   กเถนฺโต   สตฺถา   อิมา    อภิสมฺพุทฺธคาถา     อภาสิ  
+<span class="LineNumber"> 003 </span>	[๗๗๘]	มธุวณฺณํ  มธุรสํ			มธุคนฺธํ  วิสํ  อหุ  
+<span class="LineNumber"> 004 </span>			คุมฺพิโย  ฆาสเมสาโน		อรฺเ  โอทหี  วิสํ  
+<span class="LineNumber"> 005 </span>	[๗๗๙]	มธุ  อิติ  มฺมานา		เย  ตํ  วิสมสายิสุํ (๑)   
+<span class="LineNumber"> 006 </span>			เตสนฺตํ  กฏุกํ  อาสิ		มรณํ  เตนุปาคมม  
+<span class="LineNumber"> 007 </span>	[๗๘๐]	เย  จ  โข  ปฏิสงฺขาย		วิสนฺติ (๒)  ปริวชฺชยุํ  
+<span class="LineNumber"> 008 </span>			เต  อาตุเรสุ  สุขิตา		ทยฺหมาเนสุ  นิพฺพุตา  
+<span class="LineNumber"> 009 </span>	[๗๘๑]	เอวเมว  มนุสฺเสสุ		วิสกามา (๓)   สโมหิตา  
+<span class="LineNumber"> 010 </span>			อามิสํ  พนฺธนฺเจตํ		มจฺจุวโส (๔)   คุหาสโย  
+<span class="LineNumber"> 011 </span>	[๗๘๒]	เอวเมว  อิเม  กาเม		อาตุรา  ปริจาริเก  
+<span class="LineNumber"> 012 </span>			เย  สทา  ปริวชฺชนฺติ		สงฺคํ  โลเก  อุปจฺจคาติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  คุมฺพิโยติ  ตสฺมึ  วนคุมฺเพ  วิจรเณน  เอวํ  ลทฺธนาโม  
+<span class="LineNumber"> 014 </span>ยกฺโข ฯ  ฆาสเมสาโนติ  ตํ  วิสํ  ขาทิตฺวา  มเต  ขาทิสฺสามีติ  
+<span class="LineNumber"> 015 </span>เอวํ  อตฺตโน  ฆาสํ  ปริเยสนฺโต ฯ  โอทหีติ  ตํ  มธุนา  
+<span class="LineNumber"> 016 </span>สมานวณฺณคนฺธรสํ  วิสํ  นิกฺขิปิ ฯ  กฏุกํ  อาสีติ  ติขิณํ  
+<span class="LineNumber"> 017 </span>อโหสิ ฯ  มรณํ  เตนุปาคมุนฺติ  เตน  วิเสน  เต  สตฺตา  มรณํ  
+<span class="LineNumber"> 018 </span>อุปคตา ฯ  อาตุเรสูติ  วิสเวเคน  อาสนฺนมรเณสุ ฯ  ทยฺหมาเนสูติ  
+<span class="LineNumber"> 019 </span>วิสเตเชเนว  ทยฺหมาเนสุ ฯ  วิสกามา  สโมหิตาติ  ยถา  ตสฺมึ  
+<span class="LineNumber"> 020 </span>วตฺตนิมหามคฺเค  วิสํ  สโมหิตํ  นิกฺขิตฺตํ  เอวํ  มนุสฺเสสุปิ  
+<span class="LineNumber"> 021 </span>#  ๑.  ม.  วิสมขาทิสุํ  ฯ    ๒.  ม.  วิสํ  ตํ  ฯ    ๓.  ม.  วิสํ  กามา  ฯ  
+<span class="LineNumber"> 022 </span>#  ๔.  ม.  มจฺจุเวโส  ฯ  

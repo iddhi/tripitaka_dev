@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๑๐.  แสดงสิ่งที่พระตถาคตทรงบัญญัติไว้ว่า     พระตถาคตมิได้ทรง  
+<span class="LineNumber"> 002 </span>บัญญัติไว้ 
+<span class="LineNumber"> 003 </span>           ๑๑.   แสดงอาบัติว่า   มิใช่อาบัติ
+<span class="LineNumber"> 004 </span>           ๑๒.   แสดงสิ่งมิใช่อาบัติว่า   เป็นอาบัติ
+<span class="LineNumber"> 005 </span>           ๑๓.   แสดงอาบัติเบาว่า   อาบัติหนัก
+<span class="LineNumber"> 006 </span>           ๑๔.   แสดงอาบัติหนักว่า  อาบัติเบา
+<span class="LineNumber"> 007 </span>           ๑๕.  แสดงอาบัติมีส่วนเหลือว่า  อาบัติหาส่วนเหลือมิได้
+<span class="LineNumber"> 008 </span>           ๑๖.   แสดงอาบัติหาส่วนเหลือมิได้ว่า  อาบัติมีส่วนเหลือ
+<span class="LineNumber"> 009 </span>           ๑๗.   แสดงอาบัติชั่วหยาบว่า   อาบัติไม่ชั่วหยาบ
+<span class="LineNumber"> 010 </span>           ๑๘.   แสดงอาบัติไม่ชั่วหยาบว่า   อาบัติชั่วหยาบ.
+<span class="LineNumber"> 011 </span>                                 นี้เรื่องทำการแตกร้าว   ๑๘.
+
+<span class="LineNumber"> 012 </span>                                              <H1>อธิกรณ์  ๔</H1>
+<span class="LineNumber"> 013 </span>           [๘๕๘]   ในหัวข้อเหล่านั้น  อธิกรณ์ ๔  เป็นไฉน  ?  คือวิวาทาธิกรณ์  ๑
+<span class="LineNumber"> 014 </span>อนุวาทาธิกรณ์ ๑   อาปัตตาธิกรณ์  ๑  กิจจาธิกรณ์  ๑  นี้  อธิกรณ์  ๔.
+
+<span class="LineNumber"> 015 </span>                                                <H1>สมณะ   ๗</H1>
+<span class="LineNumber"> 016 </span>            [๘๕๙]  ในหัวข้อเหล่านั้น  สมถะ ๗  เป็นไฉน ?   คือสัมมุขาวินัย ๑
+<span class="LineNumber"> 017 </span>สติวินัย ๑  อมูฬหวินัย ๑  ปฏิญญาตกรณะ ๑   เยภุยยสิกา ๑  ตัสสปาปิยสิกา ๑
+<span class="LineNumber"> 018 </span>ติณวัตถารกะ  ๑ นี้  สมถะ ๗.
+<span class="LineNumber"> 019 </span>                                           <I>กติปุจฉาวาร  จบ</I>

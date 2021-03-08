@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                     <B>รวมชาดกที่มีในวรรคนี้  คือ</B>
+<span class="LineNumber"> 002 </span>	๑.  ปุจิมันทชาดก   ๒.  กัสสปมันทิยชาดก   ๓. ขันติวาทิ-
+<span class="LineNumber"> 003 </span>ชาดก    ๔.  โลหกุมภิชาดก   ๕.   มังสชาดก    ๖. สสปัณฑิตชาดก
+<span class="LineNumber"> 004 </span>๗.  มตโรทนชาดก   ๘. กณเวรชาดก   ๙. ติตฺติรชาดก  ๑๐.  สุจจช-
+<span class="LineNumber"> 005 </span>ชาดก.
+<span class="LineNumber"> 006 </span>                          <I>จบ  ปุจิมันทวรรคที่  ๒</I>

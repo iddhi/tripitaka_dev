@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                 <H2>๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>            [๙] ๑.  <B>ธรรมที่เป็นอกุศล  อาศัยธรรมที่ไม่ใช่กุศล  เกิดขึ้น 
+<span class="LineNumber"> 004 </span>เพราะนเหตุปัจจัย</B>  
+<span class="LineNumber"> 005 </span>                  ๒.  <B>ธรรมที่เป็นอัพยากตะ       อาศัยธรรมที่ไม่ใช่กุศล
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะนเหตุปัจจัย    ฯลฯ</B> 
+<span class="LineNumber"> 007 </span>                  ๖.  <B>ธรรมที่เป็นอัพยากตะ  อาศัยธรรมที่ไม่ใช่กุศล และ
+<span class="LineNumber"> 008 </span>ธรรมที่ไม่ใช่อกุศล  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+
+<span class="LineNumber"> 009 </span>                           <H2>๒    นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 010 </span>          [๑๐] ๑.  <B>ธรรมที่เป็นอัพยากตะ       อาศัยธรรมที่ไม่ใช่กุศล
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะนอารัมมณปัจจัย   ฯลฯ</B>
+<span class="LineNumber"> 012 </span>                 ๖.  <B>ธรรมที่เป็นอัพยากตะ       อาศัยธรรมที่ไม่ใช่กุศล
+<span class="LineNumber"> 013 </span>และธรรมที่ไม่ใช่อกุศล  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+
+<span class="LineNumber"> 014 </span>                     <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 015 </span>          [๑๑]  ในนเหตุปัจจัย  มี  ๖  วาระ  ในอารัมมณปัจจัย  มี  ๖  วาระ
+<span class="LineNumber"> 016 </span>ในนอธิปติปัจจัยมี  ๑๘ วาระ  ฯลฯ  ในโนวิคตปัจจัย  มี  ๖ วาระ.  		

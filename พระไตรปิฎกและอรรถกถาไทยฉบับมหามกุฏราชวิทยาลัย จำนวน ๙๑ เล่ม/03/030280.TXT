@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		             <H1>๘.  กัมมการีภริยาจักร
+<span class="LineNumber"> 002 </span>		                     นิเขปบท</H1>
+<span class="LineNumber"> 003 </span>	บุรุษวานภิกษุว่า   ข้าแต่พระคุณเจ้า   ขอพระคุณเจ้าจงไปบอกสตรี
+<span class="LineNumber"> 004 </span>มีมารดาปกครองผู้มีชื่อนี้ว่า   ข่าวว่า   ขอท่านจงเป็นภรรยาที่เป็นทั้งลูกจ้าง
+<span class="LineNumber"> 005 </span>เป็นทั้งภรรยาของบุรุษผู้มีชื่อนี้   ภิกษุรับคำว่า   นำไปบอก   และกลับมา
+<span class="LineNumber"> 006 </span>บอก  ต้องอาบัติสังฆาทิเสส...  ขัณฑจักร...พัทธจักร...                  
+<span class="LineNumber"> 007 </span>		            <I>กัมมการีภริยาจักร  จบ</I>
+
+<span class="LineNumber"> 008 </span>			       <H1>๙.  ธชาหฏาจักร
+<span class="LineNumber"> 009 </span>			           นิเขปบท</H1>
+<span class="LineNumber"> 010 </span>	บุรุษวานภิกษุว่า  ข้าแต่พระคุณเจ้า    ขอพระคุณเจ้าจงไปบอกสตรี
+<span class="LineNumber"> 011 </span>มีมารดาปกครองผู้มีชื่อนี้ว่า    ข่าวว่า    ขอท่านจงเป็นภรรยาเชลย    ของ
+<span class="LineNumber"> 012 </span>บุรุษผู้มีชื่อนี้   ภิกษุรับคำ  นำไปบอก  และกลับมาบอก ต้องอาบัติสังฆา-
+<span class="LineNumber"> 013 </span>ทิเสส...  ขัณฑจักร...พัทธจักร...
+<span class="LineNumber"> 014 </span>			     <I>ธชาหฏาจักร จบ</I>
+
+<span class="LineNumber"> 015 </span>                           <H1>๑๐.  มุหุตติกาจักร
+<span class="LineNumber"> 016 </span>			         นิเขปบท</H1>
+<span class="LineNumber"> 017 </span>	บุรุษวานภิกษุว่า  ข้าแต่พระคุณเจ้า    ขอพระคุณเจ้าจงไปบอกสตรี
+<span class="LineNumber"> 018 </span>มีมารดาปกครองผู้มีชื่อนี้ว่า  ข่าวว่า  ขอท่านจงเป็นภรรยาชั่วคราว   ของ
+<span class="LineNumber"> 019 </span>บุรุษผู้มีชื่อนี้   ภิกษุรับคำ  นำไปบอก  และกลับมาบอก  ต้องอาบัติสังฆา-
+<span class="LineNumber"> 020 </span>ทิเสส

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                 <H1>๑๖.  นมัคคารัมมณติกมัคคารัมมณติกะ</H1>  
+<span class="LineNumber"> 002 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 004 </span>                                 <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๔๔] ๑.  <B>มัคคเหตุกธรรม    อาศัยธรรมที่ไม่ใช่มัคคารัมมณ- 
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๑๐ วาระ  ฯลฯ 
+<span class="LineNumber"> 007 </span>                   <I>นมัคคารัมมณติกมัคคารัมมณติกะ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                         <H1>๑๗.  นอุปปันนติกอุปปันนติกะ</H1>
+<span class="LineNumber"> 009 </span>                                    <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 010 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                    <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 012 </span>           [๔๕] ๑.  <B>ธรรมที่ไม่ใช่อนุปปันนธรรม       เป็นปัจจัยแก่
+<span class="LineNumber"> 013 </span>อุปปันนธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                    ๒.  <B>ธรรมที่ไม่ใช่อุปาทิธรรม    เป็นปัจจัยแก่อุปปันน-
+<span class="LineNumber"> 015 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>                    ๓.  <B>ธรรมที่ไม่ใช่อนุปปันนธรรม     และธรรมที่ไม่ใช่
+<span class="LineNumber"> 017 </span>อุปาทิธรรม  เป็นปัจจัยแก่อุปปันนธรรม  ด้วยอำนาจของเหตุปัจจัย</B>

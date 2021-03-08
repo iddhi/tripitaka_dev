@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                   อตีตวาระ    อนุโลม 
+<span class="LineNumber"> 002 </span>                                         รูปขันธมูล
+<span class="LineNumber"> 003 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         [๒๗๔]   บุคคลใดเคยรู้แจ้งรูปขันธ์,     บุคคลนั้นก็เคยรู้แจ้ง
+<span class="LineNumber"> 005 </span>เวทนาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า   บุคคลใดเคยรู้แจ้งเวทนาขันธ์,   บุคคลนั้นก็เคยรู้แจ้ง
+<span class="LineNumber"> 008 </span>รูปขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                        <I>จบ   รูปขันธมูละ   เวทนาขันธมูลี</I>
+<span class="LineNumber"> 011 </span>                                     <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 012 </span>                               <I>อตีตวาระอนุโลม   จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  ปลายิชาตกํ  หน้า  337
+
+<span class="LineNumber"> 002 </span>ขิปตีติ ฯ  เอวํ  ราชานํ  นิรยาทิภเยน  ตชฺเชตฺวา  มหาสตฺโต
+<span class="LineNumber"> 003 </span>ธมฺมํ  เทเสสิ ฯ  ราชาปิสฺส  ธมฺมํ  สุตฺวา  วิคตโสโก  หุตฺวา 
+<span class="LineNumber"> 004 </span>ตาวเทว  นิพฺยาธิตํ  ปาปุณิ ฯ  สกฺโกปิสฺส  โอวาทํ  ทตฺวา 
+<span class="LineNumber"> 005 </span>สีเลสุ  ปติฏฺ€าเปตฺวา  เทวโลกเมว  คโต ฯ  โสปิ  ตโต ปฏฺ€าย
+<span class="LineNumber"> 006 </span>ทานาทีนิ ปุฺานิ กตฺวา ยถา กมฺมํ คโต ฯ  
+<span class="LineNumber"> 007 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  ชาตกํ  สโมธาเนสิ  
+<span class="LineNumber"> 008 </span>ตทา  ราชา กามนีตพฺราหฺมโณ อโหสิ สกฺโก ปน อหเมวาติ ฯ  
+<span class="LineNumber"> 009 </span>			กามนีตชาตกํ อฏฺ€มํ ฯ  
+
+<span class="LineNumber"> 010 </span>			ปลายิชาตกํ  
+<span class="LineNumber"> 011 </span>	คชคฺคเมเฆภีติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  ปลายิ-
+<span class="LineNumber"> 012 </span>ปริพฺพาชกํ  (๑) อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 013 </span>	โส  กิร  วาทตฺถาย  สกลชมฺพุทีปํ  วิจริตฺวา  กิฺจิ  ปฏิวาทํ (๒)  
+<span class="LineNumber"> 014 </span>อลภิตฺวา  อนุปุพฺเพน  สาวตฺถึ  ปตฺวา  อตฺถิ  นุ  โข  โกจิ 
+<span class="LineNumber"> 015 </span>มยา  สทฺธึ  วาทํ  กาตุํ  สมตฺโถติ  มนุสฺเส  ปุจฺฉิ ฯ  มนุสฺสา
+<span class="LineNumber"> 016 </span>ตาทิสานํ  สหสฺเสนปิ  สทฺธึ  วาทํ  กาตุํ  สมตฺโถ  สพฺพฺู  
+<span class="LineNumber"> 017 </span>ทิปทานํ  อคฺโค  มหาโคตโม  ธมฺมิสฺสโร  ปรปฺปวาทมทฺทโน
+<span class="LineNumber"> 018 </span>สกเลปิ  ชมฺพุทีเป  อุปฺปนฺโน  ปรปฺปวาโท  ตํ  ภควนฺตํ  อติกฺกมิตุํ 
+<span class="LineNumber"> 019 </span>สมตฺโถ  นตฺถิ  เวลนฺตํ  ปตฺวา  สมุทฺทอูมิโย  วิย  หิ  สพฺเพ
+<span class="LineNumber"> 020 </span># ๑. สี. ปลาสีปริพฺพาชกํ ฯ  ม. ปลายิตปริพฺพาชกํ ฯ  เอวมุปริปิ ฯ
+<span class="LineNumber"> 021 </span># ๒. ม. กฺจิ ปฏิวาทึ ฯ

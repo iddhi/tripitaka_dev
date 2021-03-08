@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทฺวาทสมวคฺเค อธิมุตฺตตฺเถรคาถาวณฺณนา  หน้า 485
+		
+<span class="LineNumber"> 002 </span>		สมุทฺธรสิมํ โลกํ		โอฆติณฺณ (๑) มหามุนิ  
+<span class="LineNumber"> 003 </span>		าณาโลเกน โชเตสิ	ปวรํ (๒) าณมุตฺตมํ ฯ  
+<span class="LineNumber"> 004 </span>		ธมฺมจกฺกํ ปวตฺเตสิ	มทฺทเส ปรติตฺถิเย  
+<span class="LineNumber"> 005 </span>		อุสโภ ชิตสงฺคาโม(๓)	สมฺปกมฺเปสิ เมทนึ ฯ  
+<span class="LineNumber"> 006 </span>		มหาสมุทฺเท อูมิโย(๔)	เวลนฺตมฺหิ (๕) ปฏิชฺชติ (๖)  
+<span class="LineNumber"> 007 </span>		ตเถว ตว าณมฺหิ	สพฺพทิฏฺ€ี ปภิชฺชเร(๖) ฯ  
+<span class="LineNumber"> 008 </span>		สุขุมจฺฉิกชาเลน(๗)	สรมฺหิ สมฺปตานิเต (๘)  
+<span class="LineNumber"> 009 </span>		อนฺโตชาลิกตา(๙) ปาณา	ปีฬิกา โหนฺติ ตาวเท ฯ  
+<span class="LineNumber"> 010 </span>		ตเถว ติตฺถิยา โลเก	มุฬฺหา สจฺจวินิสฺสิตา(๑๐)  
+<span class="LineNumber"> 011 </span>		อนฺโตาณวเร ตุยฺหํ	ปริวตฺตนฺติ มาริส ฯ  
+<span class="LineNumber"> 012 </span>		ปติฏฺ€า วุยฺหตํ โอเฆ	ตฺวํ หิ นาโถ อพนฺธุนํ  
+<span class="LineNumber"> 013 </span>		ภยฏฺฏิตานํ สรณํ (๑๑)	มุตฺติตฺถีนํ ปรายณํ ฯ (๑๒)  
+<span class="LineNumber"> 014 </span>		เอกจฺจโร (๑๓) อสทิโส	เมตฺตากรุณสฺจโย (๑๔)  
+<span class="LineNumber"> 015 </span>		อสโม สุสโม สนฺโต		วสี ตาที ชิตฺชโย ฯ (๑๕)  
+<span class="LineNumber"> 016 </span># ๑. สฺยา. โอฆติณฺโณ ฯ  สี. ปฏิคฺคณฺห ฯ  ๒. สฺยา. ปวรํ ฯ 
+<span class="LineNumber"> 017 </span># ยุ. วชิร... ฯ  ๓. ยุ. ชิตสงฺคาเม ฯ  ๔. สฺยา. อุมฺมีว ฯ 
+<span class="LineNumber"> 018 </span># ๕. สี.เวลนฺตํ หิ ฯ  ๖. สฺยา. ปภิชฺชติ ฯ  ๗. สฺยา. ...ชาลานิ ฯ 
+<span class="LineNumber"> 019 </span># ๘. สฺยา. สมฺปตานิ เต ฯ สี. สุขุมจฺฉิเก ยถาชาเล ปารมฺหิ
+<span class="LineNumber"> 020 </span># สมฺปสาริเต ฯ  ๙. สฺยา. ...ชาลิคตา ฯ  ๑๐. สฺยา. มุฬฺหา 
+<span class="LineNumber"> 021 </span># สจฺจวินิสฺสิตา ฯ ยุ. ผุฏา สจฺจวินิสฺสิตา ฯ  ๑๑. สฺยา. ภยฏฺ€ิตานํ
+<span class="LineNumber"> 022 </span># สรโณ ฯ  ๑๒. สฺยา. มุตฺตตฺถีนํ ปรายโน ฯ ๑๓. สฺยา. เอกจฺจโร ฯ
+<span class="LineNumber"> 023 </span># ๑๔. สฺยา. ...สฺุโต ฯ ยุ. เมตฺตาการุณาทิสฺจโย ฯ
+<span class="LineNumber"> 024 </span># ๑๕. สฺยา. ปฺวา ยุตฺตจาโค จ วสี ตาที คุณาลโย ฯ 
+<span class="LineNumber"> 025 </span># ยุ. สุลีโส อสโม สนฺโต วสิตวิชิตฺชโย ฯ

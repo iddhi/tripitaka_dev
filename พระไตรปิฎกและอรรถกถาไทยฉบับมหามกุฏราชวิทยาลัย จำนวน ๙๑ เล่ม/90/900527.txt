@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                          <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>		[๑๕๒๐]  ในเหตุปัจจัย  มี  ๕ วาระ    ในอารัมมณปัจจัย  มี ๕ วาระ 
+<span class="LineNumber"> 003 </span>ฯลฯ  ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 004 </span>            เหมือนกับจิตตทุกะ
+<span class="LineNumber"> 005 </span>            สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดาร.   
+
+<span class="LineNumber"> 006 </span>                        	     <H1>อกุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 007 </span>                           	       <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 008 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>		[๑๕๒๑]  ๑.  อกุศลธรรมที่เป็นพาหิรธรรม  อาศัยอกุศลธรรม
+<span class="LineNumber"> 010 </span>ที่เป็นอัชฌัตติกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย             
+<span class="LineNumber"> 011 </span>                           ๒.  อกุศลธรรมที่เป็นพาหิรธรรม  อาศัยอกุศลธรรม
+<span class="LineNumber"> 012 </span>ที่เป็นพาหิรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>                           ๓.  อกุศลธรรมที่เป็นอัชฌัตติกธรรม  อาศัยอกุศล-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นพาหิรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                           ๔.  อกุศลธรรมที่เป็นอัชฌัตติกธรรม     และอกุศล-
+<span class="LineNumber"> 016 </span>ธรรมที่เป็นพาหิรธรรม  อาศัยอกุศลธรรมที่เป็นพาหิรธรรม  เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะเหตุปัจจัย                      
+<span class="LineNumber"> 018 </span>                           ๕.  อกุศลธรรมที่เป็นพาหิรธรรม  อาศัยอกุศลธรรม
+<span class="LineNumber"> 019 </span>ที่เป็นอัชฌัตติกธรรม    และอกุศลธรรมที่เป็นพาหิรธรรม    เกิดขึ้น
+<span class="LineNumber"> 020 </span>เพราะเหตุปัจจัย                                                                 

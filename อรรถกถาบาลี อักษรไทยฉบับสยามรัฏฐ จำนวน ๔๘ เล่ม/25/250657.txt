@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  จตุตฺถวคฺเค อุปวาณตฺเถรคาถาวณฺณนา หน้า 657
+
+<span class="LineNumber"> 002 </span>ปฏิลทฺธสทฺโธ  ปพฺพชิตฺวา วิปสฺสนาย กมฺมํ กโรนฺโต อรหตฺตํ 
+<span class="LineNumber"> 003 </span>ปตฺวา ฉฬภิฺโ อโหสิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 004 </span>		ปทุมุตฺตโร นาม ชิโน	สพฺพธมฺมาน ปารคู  
+<span class="LineNumber"> 005 </span>		ชลิตฺวา อคฺคิกฺขนฺโธว	สมฺพุทฺโธ ปรินิพฺพุโต ฯ  
+<span class="LineNumber"> 006 </span>		มหาชนา สมาคมฺม	ปูชยิตฺวา ตถาคตํ  
+<span class="LineNumber"> 007 </span>		จิตํ กตฺวาน สุกตํ (๒)	สรีรํ อภิโรปยย ฯ  
+<span class="LineNumber"> 008 </span>		สรีรกิจฺจํ กตฺวาน		ธาตุํ ตตฺถ สมานยุํ  
+<span class="LineNumber"> 009 </span>		สเทวมนุสฺสา สพฺเพ	พุทฺธถูปํ อกํสุ เต ฯ  
+<span class="LineNumber"> 010 </span>		ป€มา กฺจนมยา		ทุติยาปิ มณีมยา  
+<span class="LineNumber"> 011 </span>		ตติยา รูปิยมยา		จตุตฺถา  ผลิกามยา ฯ  
+<span class="LineNumber"> 012 </span>		ตตฺถ ปฺจมิกา เจว(๓)	โลหิตงฺกมยา อหุ  
+<span class="LineNumber"> 013 </span>		ฉฏฺ€า มสารคลฺลสฺส	สพฺพรตนมยูปริ ฯ  
+<span class="LineNumber"> 014 </span>		ชงฺฆา มณิมยา อาสิ	เวทิกา รตนามยา  
+<span class="LineNumber"> 015 </span>		สพฺพโสณฺณมโย ถูโป	อุทฺธํ โยชนมุคฺคโต ฯ  
+<span class="LineNumber"> 016 </span>		เทวา ตตฺถ สมาคนฺตฺวา	เอกโต มนฺตยุํ ตทา  
+<span class="LineNumber"> 017 </span>		มยมฺปิ ถูปํ กริสฺสาม (๔)  โลกนาถสฺส ตาทิโน ฯ  
+<span class="LineNumber"> 018 </span>		ธาตุ อาเวณิกา นตฺถิ	สรีรํ เอกปิณฺฑิตํ  
+<span class="LineNumber"> 019 </span>		อิมมฺหิ พุทฺธถูปมฺหิ	กริสฺสาม  กฺจุกํ มยํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๒/๒๔/๑๐๐ ฯ  ๒. สฺยา. สุกตํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. ปฺจมิ ยา ภูมิ ฯ สี. ปฺจมิกา เจติ ฯ 
+<span class="LineNumber"> 022 </span># ๔. สฺยา. กริสฺสาม ฯ  เอวมุปริปิ ฯ 

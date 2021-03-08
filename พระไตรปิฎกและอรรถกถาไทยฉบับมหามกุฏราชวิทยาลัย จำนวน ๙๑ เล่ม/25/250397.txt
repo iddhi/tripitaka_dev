@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>๕.  สานุสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>                                <H1>ว่าด้วยสามเณรถูกยักษ์สิง</H1> 
+
+<span class="LineNumber"> 003 </span>           [๘๑๔]  สมัยหนึ่ง  พระผู้มีพระภาคเจ้าประทับอยู่ในพระวิหารเชตวัน
+<span class="LineNumber"> 004 </span>อารามของท่านอนาถบิณฑิกเศรษฐี  ในกรุงสาวัตถี.
+<span class="LineNumber"> 005 </span>           สมัยนั้นแล  บุตรของอุบาสิกาคนหนึ่งชื่อสานุ   ถูกยักษ์เข้าสิง.
+<span class="LineNumber"> 006 </span>           [๘๑๕]  ครั้งนั้นแล      อุบาสิกานั้นได้ปริเวทนาการกล่าวคาถาเหล่านี้ 
+<span class="LineNumber"> 007 </span>ในเวลานั้นว่า
+<span class="LineNumber"> 008 </span>                             <B>ฉันได้สดับต่อพระอรหันต์ทั้งหลาย
+<span class="LineNumber"> 009 </span>                   ว่า   ชนเหล่าใดเข้าอยู่อุโบสถอันประกอบ
+<span class="LineNumber"> 010 </span>                   ด้วยองค์  ๘ ประการด้วยดี   ตลอดดิถีที่  ๑๔
+<span class="LineNumber"> 011 </span>                   ที่  ๑๕  และที่   ๘  แห่งปักษ์  ทั้งตลอดปาริหา- 
+<span class="LineNumber"> 012 </span>                   ริกปักษ์   ประพฤติพรหมจรรย์อยู่  ยักษ์ทั้ง
+<span class="LineNumber"> 013 </span>                   หลายย่อมไม่เล่นกับชนเหล่านั้น    บัดนี้
+<span class="LineNumber"> 014 </span>                   ฉันเห็นในวันนี้  ยักษ์เล่นกับสามเณรสานุ.</B> 
+<span class="LineNumber"> 015 </span>           [๘๑๖]  ยักษ์กล่าวว่า
+<span class="LineNumber"> 016 </span>                             <B>ท่านได้สดับต่อพระอรหันต์ทั้งหลาย
+<span class="LineNumber"> 017 </span>                   ว่า    ชนเหล่าใดเข้าอยู่อุโบสถอันประกอบ
+<span class="LineNumber"> 018 </span>                   ด้วยองค์   ๘ ประการด้วยดี  ตลอดดิถีที่  ๑๔
+<span class="LineNumber"> 019 </span>                   ที่  ๑๕  และที่  ๘  แห่งปักษ์   ทั้งตลอดปาริ-
+<span class="LineNumber"> 020 </span>                   หาริกปักษ์   ประพฤติพรหมจรรย์อยู่  ยักษ์
+<span class="LineNumber"> 021 </span>                   ทั้งหลายย่อมไม่เล่นกับชนเหล่านั้น    เป็น
+<span class="LineNumber"> 022 </span>                   การชอบ    ท่านพึงบอกสานุผู้ฟื้นขึ้นแล้ว</B>

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>	<B>ยโต จิตฺตปฺปสาเทน                   พุทฺเธ  จ  พุทฺธสาวกา
+<span class="LineNumber"> 002 </span>	อปฺปกาปิ  กตา  การา                  จิรํ  สุขปิผลาวหา
+<span class="LineNumber"> 003 </span>	ติฏฺ€นฺเต  นิพฺพุเต จาปิ               สเม  จิตฺเต  สมํ  ผลํ
+<span class="LineNumber"> 004 </span>	นตฺถิ  จิตฺเต  ปสนฺนมฺหิ                อปฺปกา  นาม  ทกฺขิณา
+<span class="LineNumber"> 005 </span>	ตสฺมา  สุปุญฺเขตฺตสฺมา             ปูชํ  กโรนฺติ  สาธโว
+<span class="LineNumber"> 006 </span>	ตสฺเสวารหโต  สมฺมา-                  สมฺพุทฺธสฺส   สีรีมโต
+<span class="LineNumber"> 007 </span>	สรีเร  ปฏิปตฺติญฺจ                        สรีรชฺฌาปนมฺปิ จ
+<span class="LineNumber"> 008 </span>	สมฺพุทธสารีริกานํ                         กตํ  ถูปมหมฺปิ จ.
+<span class="LineNumber"> 009 </span>	เจตฺยารหานิ  วตฺถูนิ                      ทสฺสยนฺตา  ยถาหํ
+<span class="LineNumber"> 010 </span>	ธมฺมึ  กถึ  กริสฺสาม                        สทฺธาสํเวตวฑฺฒนึ
+<span class="LineNumber"> 011 </span>	ตสฺมึ  ทฬฺหปฺปสาทาย                   ปุญฺาภิวฑฺฒนาย  จ.
+<span class="LineNumber"> 012 </span>	สมาหิตา  นิสาเมนฺตุ                       สาธโว พุทฺธมามกา
+<span class="LineNumber"> 013 </span>	เอวญฺห  จิรกาโล โส                         อาสนฺโน  วิย  เหสฺสติ
+<span class="LineNumber"> 014 </span>	ตโต  ปสาโท  ติฏฺเ€ยฺย                     สมฺพุทธคุณนิสฺสิโต
+<span class="LineNumber"> 015 </span>	อภิวฑฺเฒยฺย  ภิยฺฑย  จ                     โส  สาตฺถโก  หิตาวโห
+<span class="LineNumber"> 016 </span>	ตโต  ปสาทการาปิ                            อชฺฌตฺติกา  จ  พาหิรา
+<span class="LineNumber"> 017 </span>	ตสฺโสวาเทน  สํสิทฺธา                         สมฺมเทว  ปวตฺตยุนฺติ.</B>

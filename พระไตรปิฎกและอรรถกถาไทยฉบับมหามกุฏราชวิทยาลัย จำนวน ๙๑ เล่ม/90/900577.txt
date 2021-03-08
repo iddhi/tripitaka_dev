@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				<H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 002 </span>				      <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>				   <H2>๑. เหตุปัจจัย</H2>		               			
+<span class="LineNumber"> 004 </span>		[๑๖๓๓]  ๑.  อัพยากตธรรมที่เป็นกิเลสวิปปยุตตสังกิเลสิก-
+<span class="LineNumber"> 005 </span>ธรรม  อาศัยอัพยากตธรรมที่เป็นกิเลสวิปปยุตตสังกิเลสิกธรรม  เกิด
+<span class="LineNumber"> 006 </span>ขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 007 </span>                           ๒.  อัพยากตธรรมที่เป็นกิเลสวิปปยุตตอสังกิเลสิก-
+<span class="LineNumber"> 008 </span>ธรรม     อาศัยอัพยากตธรรมที่เป็นกิเลสวิปปยุตตอสังกิเลสิกธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓  วาระ  (วาระที่  ๒-๓-๔)
+<span class="LineNumber"> 010 </span>                           ๕.  อัพยากตธรรมที่เป็นกิเลสวิปปยุตตสังกิเลสิก-
+<span class="LineNumber"> 011 </span>ธรรม  อาศัยอัพยากตธรรมที่เป็นกิเลสวิปปยุตตสังกิเลสิกธรรม  และ
+<span class="LineNumber"> 012 </span>อัพยากตธรรมที่เป็นกิเลสวิปปยุตตอสังกิเลสิกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 013 </span>เหตุปัจจัย
+<span class="LineNumber"> 014 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>		[๑๖๓๔]  ในเหตุปัจจัย  มี ๕ วาระ    ในอารัมมณปัจจัย มี ๒ วาระ
+<span class="LineNumber"> 016 </span>ฯลฯ  ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 017 </span>            เหมือนกับโลกิยโลกุตตรทุกะอัพยากตบท.
+<span class="LineNumber"> 018 </span>            สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดารทุกปัจจัย.
+<span class="LineNumber"> 019 </span>                       <I>กิเลสวิปปยุตตสังกิเลสิกทุกกุสลติกะ จบ</I>
+<span class="LineNumber"> 020 </span>				<I>กิเลสโคจฉกทุกกุสลติกะ จบ</I>
+

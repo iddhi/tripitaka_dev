@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>นสนิทัสสนติกอัชฌัตตารัมมณติกะ</H1>   
+<span class="LineNumber"> 002 </span><H2>(๒๒.  นสนิทัสสนติกะ  ๒๐.  นอัชฌัตตารัมมณติกะ)</H2>
+<span class="LineNumber"> 003 </span>                      <H2>อัชฌัตตารัมมณบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                       <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>           [๔๔๗]  ๑. <B>ธรรมที่ไม่ใช่อัชฌัตตารัมมณธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 007 </span>สนิทัสสนสัปปฏิฆธรรม    อาศัยธรรมที่ไม่ใช่อัชฌัตตารัมมณธรรม
+<span class="LineNumber"> 008 </span>ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 009 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อัชฌัตตารัมมณธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 010 </span>อนิทัสสนสัปปฏิฆธรรม    อาศัยธรรมที่ไม่ใช่อัชฌัตตารัมมณธรรม
+<span class="LineNumber"> 011 </span>ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+
+<span class="LineNumber"> 012 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๔๔๘]  ในเหตุปัจจัย  มี  ๓๐  วาระ  ฯลฯ  ในอวิคตปัจจัย  มี  ๓๐
+<span class="LineNumber"> 014 </span>วาระ.
+<span class="LineNumber"> 015 </span>      	พึงให้พิสดารทุกวาระ.

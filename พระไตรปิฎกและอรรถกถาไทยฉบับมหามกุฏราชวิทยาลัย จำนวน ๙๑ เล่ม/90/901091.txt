@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>				<H1>มัคคารัมมณติกสรณทุกะ</H1>
+<span class="LineNumber"> 002 </span>	   <H2>(๑๖. มัคคารัมมณติกะ  ๑๐๐. สรณทุกะ)</H2>	 	
+<span class="LineNumber"> 003 </span>			          <H1>อรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>			 	    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๙๓๒]  ๑.  อรณธรรมที่เป็นมัคคารัมมณธรรม  อาศัยอรณ-	
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นมัคคารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                        ๔.  อรณธรรมที่เป็นมัคคเหตุกธรรม  อาศัยอรณธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นมัคคเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 010 </span>                        ๗.  อรณธรรมที่เป็นมัคคาธิปติธรรม  อาศัยอรณธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นมัคคาธิปติธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๕  วาระ.
+<span class="LineNumber"> 012 </span>                     ๑๒.  อรณธรรมที่เป็นมัคคาธิปติธรรม  อาศัยอรณธรรม
+<span class="LineNumber"> 013 </span>ธรรมที่เป็นมัคคารัมมณธรรม   และอรณธรรมที่เป็นมัคคาธิปติธรรม
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>                     ๑๕.  อรณธรรมที่เป็นมัคคเหตุกธรรม  อาศัยอรณธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นมัคคเหตุกธรรม  และอรณธรรมที่เป็นมัคคาธิปติธรรม  เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะเหตุปัจจัย   มี ๓ วาระ.

@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>รวมพระสูตรที่มีในอัพยากตสังยุตนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>           ๑.  เขมาเถรีสูตร   ๒.  อนุราธสูตร    ๓.  สารีปุตตโกฏฐิตสูตรที่  ๑
+<span class="LineNumber"> 003 </span>๔. สารีปุตตโกฏฐิตสูตรที่ ๒  ๕. สารีปุตตโกฏฐิสูตรที่  ๓   ๖.  สารีปุตต- 
+<span class="LineNumber"> 004 </span>โกฏฐิตสูตรที่  ๔   ๗. โมคคัลลานสูตร   ๘. วัจฉสูตร  ๙.   กุตุหลสาลาสูตร
+<span class="LineNumber"> 005 </span>๑๐. อานันทสูตร   ๑๑.  สภิยสูตร.
+<span class="LineNumber"> 006 </span>                                    <I>จบ  สฬายตนวรรสังยุต</I>
+
+<span class="LineNumber"> 007 </span>            <H2>รวมสังยุตที่มีในสฬายตนวรรคสังยุตนี้  คือ</H2>
+<span class="LineNumber"> 008 </span>           ๑.   สฬายตนสังยุต      ๒.   เวทนาสังยุต      ๓.   มาตุคามสังยุต
+<span class="LineNumber"> 009 </span>๔.  ชัมพุขาทกสังยุต     ๕.   สามัณฑกสังยุต     ๖.  โมคคัลลานสังยุต
+<span class="LineNumber"> 010 </span>๗.   จิตตคหปติปุจฉาสังยุต       ๘.   คามณิสังยุต        ๙.   อสังขตสังยุต
+<span class="LineNumber"> 011 </span>๑๐.  อัพยากตสังยุต

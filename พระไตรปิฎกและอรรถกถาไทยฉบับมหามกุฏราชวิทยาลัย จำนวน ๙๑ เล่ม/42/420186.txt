@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>คาถาธรรมบท</H1>  
+<span class="LineNumber"> 002 </span>                                   <H1>อัตวรรค<SUP>๑</SUP>ที่  ๑๒</H1> 
+<span class="LineNumber"> 003 </span>                                    <H3>ว่าด้วยเรื่องตน</H3>
+<span class="LineNumber"> 004 </span>         [๒๒]        ๑.  <B>ถ้าบุคคลทราบตนว่าเป็นที่รัก  พึงรักษาตนนั้น
+<span class="LineNumber"> 005 </span>              ให้เป็นอันรักษาด้วยดี  บัณฑิตพึงประคับประคอง(ตน)
+<span class="LineNumber"> 006 </span>              ตลอดยามทั้งสาม  ยามใดยามหนึ่ง.</B>
+<span class="LineNumber"> 007 </span>                          ๒.  <B>บัณฑิตพึงตั้งตนนั่นแล       ในคุณอันสมควร
+<span class="LineNumber"> 008 </span>              ก่อนพึงสั่งสอนผู้อื่นในภายหลัง  จะไม่พึงเศร้าหมอง.</B>
+<span class="LineNumber"> 009 </span>                          ๓.  <B>ถ้าผู้อื่นพร่ำสอนผู้อื่นอยู่ฉันใด      พึงทำตาม
+<span class="LineNumber"> 010 </span>              ฉันนั้น    บุคคลผู้มีตนฝึกดีแล้วหนอ (จึง)    ควรฝึก 
+<span class="LineNumber"> 011 </span>              (ผู้อื่น) เพราะว่าได้ยินว่า ตนฝึกฝนได้โดยยาก</B>.
+<span class="LineNumber"> 012 </span>                          ๔.  <B>ตนแลเป็นที่พึ่งของตน   บุคคลอื่นใครเล่าพึง
+<span class="LineNumber"> 013 </span>              เป็นที่พึ่งได้  เพราะบุคคลมีตนฝึกฝนดีแล้ว   ย่อมได้
+<span class="LineNumber"> 014 </span>              ที่พึ่งที่บุคคลได้โดยยาก.</B>
+<span class="LineNumber"> 015 </span>                          ๕.  <B>บาปอันตนทำไว้เอง    เกิดในตน    มีตนเป็น 
+<span class="LineNumber"> 016 </span>              แดนเกิด   ย่อมย่ำยีบุคคลผู้มีปัญญาทราม  ดุจเพชร
+<span class="LineNumber"> 017 </span>              ย่ำยีแก้วมณี   อันเกิดแต่หินฉะนั้น.</B>
+<span class="LineNumber"> 018 </span>                          ๖.  <B>ความเป็นผู้ทุศีลล่วงส่วน   รวบรัด  (อัตภาพ)
+<span class="LineNumber"> 019 </span>              ของบุคคลใด ดุจเถาย่านทราย   รัดรึงต้นสาละฉะนั้น
+<span class="LineNumber"> 020 </span>              บุคคลนั้น    ย่อมทำตนอย่างเดียวกันกับที่โจรหัวโจก
+<span class="LineNumber"> 021 </span>              ปรารถนาทำให้ตนฉะนั้น.</B>
+<span class='footnote'>๑.    วรรคนี้มีอรรถกถา  ๑๐  เรื่อง.</span>
+

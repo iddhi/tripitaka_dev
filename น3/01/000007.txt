@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                             ปฏิปทาแห่งนิพพิทา  
+<span class="LineNumber"> 002 </span>                                      อุทเทส
+<span class="LineNumber"> 003 </span>	<B>สพฺเพ  สงฺขารา  อนิจฺจาติ   ...   ...   ...
+<span class="LineNumber"> 004 </span>	สพฺเพ  สงฺขารา  ทุกฺขาติ    ...   ...   ...
+<span class="LineNumber"> 005 </span>	สพฺเพ  ธมฺมา  อนตฺตาติ      ยทา  ปญฺาย  ปสฺสติ
+<span class="LineNumber"> 006 </span>	อถ  นิพฺพินฺทติ  ทุกฺเข          เอส  มคฺโค  วิสุทฺธิยา.</B>
+<span class="LineNumber"> 007 </span>	เมื่อใด  เห็นด้วยปัญญาว่า    สังขารทั้งหลายทั้งปวงไม่เที่ยง
+<span class="LineNumber"> 008 </span>...เป็นทุกข์  ...ธรรมทั้งหลายทั้งปวง  เป็นอนัตตา  เมื่อนั้น  ย่อม
+<span class="LineNumber"> 009 </span>หน่ายในทุกข์  นั่นทางแห่งวิสุทธิ.
+<span class="LineNumber"> 010 </span>                              มคฺควคฺค   ธมฺมปท.<SUP>๑</SUP>
+<span class="LineNumber"> 011 </span>                                   <B>พรรณนาความ</B>
+<span class="LineNumber"> 012 </span>	สังขารอธิบายไว้แล้วโดยประการ   ในกัณฑ์ที่ ๒  อธิการแห่ง
+<span class="LineNumber"> 013 </span>ภาวนา  ในอธิการนี้  จักขยายความให้พิสดารออกไป  โดยอนุรูป
+<span class="LineNumber"> 014 </span>แก่บาลีอันเป็นกระทู้.  สังขารนั้นได้แก่ปัญจขันธ์  ๕  คือ  รูป  ร่างกาย
+<span class="LineNumber"> 015 </span>อันสงเคราะห์ด้วยธาตุ  ๔  ดิน  น้ำ  ไฟ  ลม,  เวทนา  ความเสวย
+<span class="LineNumber"> 016 </span>อารมณ์  สุข  ทุกข์  อุเบกขา, สัญญา  ความหมายรู้  ความจำ,
+<span class="LineNumber"> 017 </span>สังขาร  อารมณ์อันเกิดกับจิต  อื่นจากเวทนาและสัญญา  แต่น่า
+<span class="LineNumber"> 018 </span>จะหมายเอาเจตนาความคิดอ่านเป็นที่ตั้ง,  วิญญาณ  ความรู้แจ้งทาง
+<span class="LineNumber"> 019 </span>ทวาร ๖ อันธรรมดาแต่งคุมกันเข้าเป็นกาย  ดุจคุมเครื่องจักรเครื่อง
+<span class="LineNumber"> 020 </span>กล,  ในที่นี้  ไม่พึงเข้าใจสังขาร  คือ  ประชุมปัญจขันธ์และสังขาร  คือ
+
+<span class='footnote'>๑.  ขุ.  ธ.  ๒๕/๕๑.</span>

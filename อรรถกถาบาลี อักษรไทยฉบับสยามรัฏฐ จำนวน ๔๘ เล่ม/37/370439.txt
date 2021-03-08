@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 439
+
+<span class="LineNumber"> 002 </span>		กาสิยานิ ปธาเรตฺวา(๑)	กุสจีรมธารยิ  
+<span class="LineNumber"> 003 </span>		ทุกฺโข วาโส อรฺสฺมึ	มา หิ ตฺวํ ลกฺขเณ คมีติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  ปฏิปชฺชถาติ  ภิกฺขเว  ปุตฺตสฺส  กถํ  สุตฺวา  ราชา 
+<span class="LineNumber"> 005 </span>สุณฺหํ  ยาจิตุํ  ปฏิปชฺชิ ฯ  มา  จนฺทนสมาจาเรติ  โลหิตจนฺทเนน  
+<span class="LineNumber"> 006 </span>ปริกิณฺณสรีเร ฯ  มา  หิ  ตฺวํ  ลกฺขเณ  คมีติ  สุภลกฺขเณน 
+<span class="LineNumber"> 007 </span>สมนฺนาคเต  มา หิ(๒) ตฺวํ อรฺํ คมีติ ฯ  
+<span class="LineNumber"> 008 </span>	[๑๐๙๑]ตมพฺรวี ราชปุตฺตี	มทฺที สพฺพงฺคโสภณา  
+<span class="LineNumber"> 009 </span>		นาหนฺตํ สุขมิจฺเฉยฺยํ	ยํ เม เวสฺสนฺตรํ วินาติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ ตมพฺรวีติ ตํ สสฺสุรํ อพฺรวิ อโวจ(๓) ฯ  
+<span class="LineNumber"> 011 </span>	[๑๐๙๒]ตมพฺรวี มหาราชา	สิวีนํ รฏฺ€วฑฺฒโน  
+<span class="LineNumber"> 012 </span>		อิงฺฆ มทฺทิ นิสาเมหิ	วเน เย โหนฺติ ทุสฺสหา  
+<span class="LineNumber"> 013 </span>		พหู กีฏา ปฏงฺคา จ	มกสา มธุมกฺขิกา  
+<span class="LineNumber"> 014 </span>		เตปิ ตํ ตตฺถ หึเสยฺยุํ	ตนฺเต ทุกฺขตรํ สิยา  
+<span class="LineNumber"> 015 </span>		อปเร ปสฺส สนฺตาเส (๔)	นทีนูปนิเสวิเต  
+<span class="LineNumber"> 016 </span>		สปฺปา อชครา นาม	อวิสา เต มหพฺพเล(๕)  
+<span class="LineNumber"> 017 </span>		เต มนุสฺสํ มิคํ วาปิ	อปิจาสนฺนมาคตํ(๖)  
+<span class="LineNumber"> 018 </span>		ปริกฺขิปิตฺวา โภเคหิ	วสมาเนนฺติ อตฺตโน  
+<span class="LineNumber"> 019 </span>		อฺเปิ กณฺหาชฏิโน	อจฺฉา นาม อฆมฺมิคา  
+<span class="LineNumber"> 020 </span># ๑. ม. มา กาสิยานิ ธาเรตฺวา ฯ  ๒. ม. หิสทฺโท นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. อยํ ปาโ€ นตฺถิ ฯ  ๔. ม. สนฺตาเป ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. มหพฺพลา ฯ  ๖. ม. อปิ มาสนฺนมาคตํ ฯ

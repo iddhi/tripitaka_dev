@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>              		<H1>เหตุทุกจิตตสังสัฏฐทุกะ</H1>  
+<span class="LineNumber"> 002 </span>           <H2>(๑.  เหตุทุกะ   ๕๘.  จิตตสังสัฏฐทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                 	   <H1>จิตตสังสัฏฐบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๘๘]  ๑.  เหตุจิตตสังสัฏฐธรรม   อาศัยเหตุจิตตสังสัฏฐธรรม
+<span class="LineNumber"> 007 </span>เกิดขึ้น  เพราะเหตุปัจจัย   ฯลฯ 
+<span class="LineNumber"> 008 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>		[๘๙]  ในเหตุปัจจัย  มี  ๙  วาระ  ฯลฯ  ในอวิคตปัจจัย  มี ๙  วาระ.
+<span class="LineNumber"> 010 </span>		พึงให้พิสดารทุกวาระ.
+
+<span class="LineNumber"> 011 </span>			      <H1>จิตตวิสังสัฏฐบทปฏิจจวาระ</H1>	
+<span class="LineNumber"> 012 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>			 	     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๙๐]  ๑.  นเหตุจิตตวิสังสัฏฐธรรม  อาศัยนเหตุจิตตวิสังสัฏฐ-
+<span class="LineNumber"> 015 </span>ธรรม  เกิดขึ้น เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>           ทุกปัจจัย  มี ๑  วาระ.
+<span class="LineNumber"> 017 </span>			     <I>เหตุทุกจิตตสังสัฏฐทุกะ  จบ</I>

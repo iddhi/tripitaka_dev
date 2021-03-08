@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>ไม่รังเกียจสิ่งที่น่ารังเกียจ  ๑   ดูก่อนภิกษุทั้งหลาย  อาสวะย่อมเจริญแก่คน
+<span class="LineNumber"> 002 </span>๒ จำพวกนี้แล.
+<span class="LineNumber"> 003 </span>                                        	จบสูตรที่   ๑๑
+
+<span class="LineNumber"> 004 </span>                                <H3>สูตรที่ ๑๒</H3>
+
+<span class="LineNumber"> 005 </span>         [๓๕๔]   ๑๐๘.  ดูก่อนภิกษุทั้งหลาย  อาสวะย่อมไม่เจริญแก่คน  ๒
+<span class="LineNumber"> 006 </span>จำพวก   ๒ จำพวกเป็นไฉน คือ ผู้ที่ไม่รังเกียจสิ่งที่ไม่น่ารังเกียจ  ๑   ผู้ที่
+<span class="LineNumber"> 007 </span>รังเกียจสิ่งที่น่ารังเกียจ  ๑  ดูก่อนภิกษุทั้งหลาย   อาสวะย่อมไม่เจริญแก่คน
+<span class="LineNumber"> 008 </span>๒  จำพวกนี้แล.
+<span class="LineNumber"> 009 </span>                                             จบสูตรที่   ๑๒
+
+<span class="LineNumber"> 010 </span>                                <H3>สูตรที่  ๑๓</H3>
+
+<span class="LineNumber"> 011 </span>         [๓๕๕]  ๑๐๙.  ดูก่อนภิกษุทั้งหลาย     อาสวะย่อมเจริญแก่คน ๒
+<span class="LineNumber"> 012 </span>จำพวก  ๒  จำพวกเป็นไฉน  คือ  ผู้ที่เข้าใจว่าควรในของที่ไม่ควร  ๑   ผู้ที่
+<span class="LineNumber"> 013 </span>เข้าใจว่าไม่ควรในของที่ควร  ๑   ดูก่อนภิกษุทั้งหลาย    อาสวะย่อมเจริญ
+<span class="LineNumber"> 014 </span>แก่คน  ๒  จำพวกนี้แล.
+<span class="LineNumber"> 015 </span>                                               จบสูตรที่  ๑๓ 
+
+<span class="LineNumber"> 016 </span>                                 <H3>สูตรที่  ๑๔</H3>
+
+<span class="LineNumber"> 017 </span>         [๓๕๖]  ๑๑๐.  ดูก่อนภิกษุทั้งหลาย     อาสวะย่อมไม่เจริญแก่คน
+<span class="LineNumber"> 018 </span>๒  จำพวก  ๒ จำพวกเป็นไฉน คือ ผู้ที่เข้าใจว่าไม่ควรในของที่ไม่ควร ๑
+<span class="LineNumber"> 019 </span>ผู้ที่เข้าใจว่าควรในของที่ควร  ๑  ดูก่อนภิกษุทั้งหลาย  อาสวะย่อมไม่เจริญ
+<span class="LineNumber"> 020 </span>แก่คน  ๒  จำพวกนี้แล.                                    
+<span class="LineNumber"> 021 </span>                                                จบสูตรที่  ๑๔

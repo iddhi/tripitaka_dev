@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				    *เล่มที่ ๖   หน้า  ๑
+
+<span class="LineNumber"> 002 </span>			สุมงฺคลวิลาสินี  นาม  ทีฆนิกายฏฺ€กถา 
+<span class="LineNumber"> 003 </span>				    ปาฏิกวคฺควณฺณนา
+
+<span class="LineNumber"> 004 </span>				 ปาฏิกสุตฺตวณฺณนา   
+<span class="LineNumber"> 005 </span>				สุนกฺขตฺตวตฺถุวณฺณนา     
+<span class="LineNumber"> 006 </span>	เอวมฺเม   สุตํ ฯเป ฯ   มลฺเลสุ   วิหรตีติ   ปาฏิกสุตฺตํ ฯ  
+<span class="LineNumber"> 007 </span>ตตฺรายํ  อนุปุพฺพปทวณฺณนา ฯ(๑)   มลฺเลสุ   วิหรตีติ   มลฺลา  นาม    
+<span class="LineNumber"> 008 </span>ชานปทิโน   ราชกุมารา    เตสํ  นิวาโส   เอโกปิ   ชนปโท   รุฬฺหิ-
+<span class="LineNumber"> 009 </span>สทฺเทน(๒)   มลฺลาติ   วุจฺจติ ฯ  ตสฺมึ  มลฺเลสุ  ชนปเท ฯ  อนุปิยํ   
+<span class="LineNumber"> 010 </span>นาม   มลฺลานํ   นิคโมติ   อนุปิยนฺติ   เอวํนามโก  มลฺลานํ 
+<span class="LineNumber"> 011 </span>ชนปทสฺส   เอโก   นิคโมฯ   ตํ   โคจรคามํ   กตฺวา   เอกสฺมึ   
+<span class="LineNumber"> 012 </span>ฉายูทกสมฺปนฺเน   วนสณฺเฑ   วิหรตีติ   อตฺโถ ฯ อโนปิยนฺติปิ  
+<span class="LineNumber"> 013 </span>ปาโ€ ฯ ปาวิสีติ  ปวิฏฺโ€ ฯ ภควา  ปน  น  ตาว  ปวิฏฺโ€
+<span class="LineNumber"> 014 </span>ปวิสิสฺสามีติ  นิกฺขนฺตตฺตา  ปน  ปาวิสีติ  วุตฺโต ฯ ยถา  กึ ฯ 
+<span class="LineNumber"> 015 </span>ยถา   คามํ   คมิสฺสามีติ   นิกฺขนฺโต   ปุริโส   ตํ   คามํ  อปฺปตฺโตปิ (๓)
+<span class="LineNumber"> 016 </span>กุหึ   ยุตฺถนฺนาโมติ   วุตฺเต   คามํ  คโตติ  วุจฺจติ  เอวํ ฯ 
+<span class="LineNumber"> 017 </span>	เอตทโหสีติ  คามสมีเป  €ตฺวา  สุริยํ  (๔) โอโลเกนฺตสฺส  เอตํ  
+<span class="LineNumber"> 018 </span>อโหสิ ฯ อติปฺปโค  โขติ  อติวิย ปโต(๕) โข   น   ตาว   กุเลสุ   
+<span class="LineNumber"> 019 </span># ๑. ม. อปุพฺพปทวณฺณนา ฯ  ๒. ม.รุฬฺหีสทฺเทน ฯ ๓. ม.อปตฺโตปิ ฯ 
+<span class="LineNumber"> 020 </span>๔. ม.สูริยํ ฯ ๕. ม.ปโค ฯ

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>				         <H1>หีนติกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>	   		<H2>(๑๔. หีนติกะ  ๑. กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>		    	          <H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				       <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 005 </span>				     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๙๔]  ๑.  กุศลธรรมที่เป็นมัชฌิมธรรม    อาศัยกุศลธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นมัชฌิมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                        ๒.  กุศลธรรมที่เป็นปณีตธรรม  อาศัยกุศลธรรมที่เป็น
+<span class="LineNumber"> 009 </span>ปณีตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 010 </span>            พึงให้พิสดารทุกปัจจัย.
+
+<span class="LineNumber"> 011 </span>                        	 <H1>อกุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 012 </span>                          	   <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 013 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๑๙๕]  ๑.  อกุศลธรรมที่เป็นหีนธรรม  อาศัยอกุศลธรรม
+<span class="LineNumber"> 015 </span>ที่เป็นหีนธรรม  เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>            ทุกปัจจัย   มี ๑ วาระ.

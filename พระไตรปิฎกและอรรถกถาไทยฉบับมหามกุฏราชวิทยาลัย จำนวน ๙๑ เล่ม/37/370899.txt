@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๗.  นิพพานสูตร</H1>
+<span class="LineNumber"> 002 </span>                                   <H2>ว่าด้วยนิพพาน</H2>
+<span class="LineNumber"> 003 </span>         [๒๕๒]  อุ.  ดูก่อนอาวุโส  พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 004 </span>นิพพาน  ๆ  ดังนี้   ฯลฯ
+<span class="LineNumber"> 005 </span>                                 <I>จบ  นิพพานสูตรที่  ๗</I>
+
+<span class="LineNumber"> 006 </span>                         <H1>๘.  ปรินิพพานสูตร</H1>
+<span class="LineNumber"> 007 </span>                             <H2>ว่าด้วยปรินิพพาน</H2>
+<span class="LineNumber"> 008 </span>         [๒๕๓]   อุ.  ดูก่อนอาวุโส   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>ปรินิพพาน  ๆ  ดังนี้  ฯลฯ
+<span class="LineNumber"> 010 </span>                            <I>จบ  ปรินิพพานสูตรที่  ๘</I>
+
+<span class="LineNumber"> 011 </span>                               <H1>๙.  ตทังคสูตร</H1>
+<span class="LineNumber"> 012 </span>                         <H2>ว่าด้วยตทังคนิพพาน</H2>
+<span class="LineNumber"> 013 </span>         [๒๕๔]  อุ.  ดูก่อนอาวุโส   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 014 </span>ตทังคนิพพาน  ๆ  ดังนี้  ฯลฯ
+<span class="LineNumber"> 015 </span>                                  <I>จบ  ตทังคสูตรที่  ๙</I>

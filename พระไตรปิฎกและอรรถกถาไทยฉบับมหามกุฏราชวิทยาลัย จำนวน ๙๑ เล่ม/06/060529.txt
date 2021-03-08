@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                . . .ได้ให้สร้างซุ้ม. . .
+<span class="LineNumber"> 002 </span>                . . .ได้ให้สร้างโรงฉัน. . .
+<span class="LineNumber"> 003 </span>                . . .ได้ให้สร้างโรงไฟ. . .
+<span class="LineNumber"> 004 </span>                . . .ได้ให้สร้างกัปปิยกุฎี. . .
+<span class="LineNumber"> 005 </span>                . . .ได้ให้สร้างวัจจกุฎี. . .
+<span class="LineNumber"> 006 </span>                . . .ได้ให้สร้างที่จงกรม. . .
+<span class="LineNumber"> 007 </span>                . . .ได้ให้สร้างโรงจงกรม. . .
+<span class="LineNumber"> 008 </span>                . . .ได้ให้สร้างบ่อน้ำ. . .
+<span class="LineNumber"> 009 </span>                . . .ได้ให้สร้างโรงบ่อน้ำ. . .
+<span class="LineNumber"> 010 </span>                . . .ได้ให้สร้างสระโบกขรณี. . .
+<span class="LineNumber"> 011 </span>                . . .ได้ไห้สร้างมณฑป. . .
+<span class="LineNumber"> 012 </span>                . . .ได้ให้สร้างอาราม. . .
+<span class="LineNumber"> 013 </span>                 ได้ให้สร้างอารามวัตถุ ถ้านางส่งทูตไปในสำนักภิกษุทั้งหลายว่า ขอ
+<span class="LineNumber"> 014 </span>อาราธนาพระคุณเจ้าทั้งหลายมา   ดิฉันปรารถนาจะถวายทาน   ฟังธรรม   และ
+<span class="LineNumber"> 015 </span>พบเห็นภิกษุทั้งหลาย   เมื่อนางส่งทูตมา   พึงไปด้วยสัตตาหกรณียะได้   แต่เมื่อ
+<span class="LineNumber"> 016 </span>นางไม่ส่งมา  ก็ไม่พึงไป  พึงกลับใน ๗ วัน.
+
+<span class="LineNumber"> 017 </span>                <H1>ทรงอนุญาตสัตตาหกรณียะเพราะสหธรรมิก ๕</H1>
+<span class="LineNumber"> 018 </span>           [๒๑๑]  ก็โดยสมัยนั้นแล  ภิกษุรูป  ๑ อาพาธ  เธอได้ส่งทูตไปใน
+<span class="LineNumber"> 019 </span>สำนักภิกษุทั้งหลายว่า  กระผมเองอาพาธ  ขออาราธนาภิกษุทั้งหลายมา  กระผม
+<span class="LineNumber"> 020 </span>ปรารถนาการมาของภิกษุทั้งหลาย     ภิกษุทั้งหลายกราบทูลเรื่องนั้นแด่พระผู้มี-
+<span class="LineNumber"> 021 </span>พระภาคเจ้า ๆ  ตรัสอนุญาตแก่ภิกษุทั้งหลายว่า    ดูก่อนภิกษุทั้งหลาย    เมื่อ

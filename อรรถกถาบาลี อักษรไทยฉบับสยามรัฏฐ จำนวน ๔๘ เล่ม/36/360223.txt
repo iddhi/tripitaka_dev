@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36 ํ เนมิราชชาตกํ หน้า  223
+
+<span class="LineNumber"> 002 </span>คมนวเสน  เตรสีปาฏิปเท (๑) จ สนฺธาย วุตฺตํ ฯ  
+<span class="LineNumber"> 003 </span>	เอวํ  โสณทินฺนสฺส  กมฺมํ  กเถตฺวา  มาตลิ  ปุรโต  รถํ  
+<span class="LineNumber"> 004 </span>เปเสตฺวา  ผลิกวิมานํ  ทสฺเสสิ ฯ  ตํ  อุพฺเพธโต  ปฺจวีสติโยชนํ  
+<span class="LineNumber"> 005 </span>อเนกสเตหิ  สตฺตรตนมยถมฺเภหิ  สมนฺนาคตํ  อเนกสตกูฏาคาเรหิ  
+<span class="LineNumber"> 006 </span>ปฏิมณฺฑิตํ  กึกิณิกชาลปริกฺขิตฺตํ  สมุสฺสิตสุวณฺณรชตมยธชํ  
+<span class="LineNumber"> 007 </span>นานาปุปฺผวิจิตฺตอุยฺยานวนวิภูสิตํ  รมฺมณียโปกฺขรณิยา  สมนฺนาคตํ  
+<span class="LineNumber"> 008 </span>รมฺมณียเวทิกาย  สมนฺนาคตํ  นจฺจคีตวาทิตาทีสุ  เฉกาหิ 
+<span class="LineNumber"> 009 </span>อจฺฉราหิ  สมฺปริกิณฺณํ ฯ  ตํ  ทิสฺวา  ราชา  ตุฏฺ€มานโส  หุตฺวา 
+<span class="LineNumber"> 010 </span>ตาสํ  อจฺฉรานํ  กุสลกมฺมํ ปุจฺฉิ ฯ อิตฺตโรปิสฺส อาจิกฺขิ ฯ  
+<span class="LineNumber"> 011 </span>	[๕๗๕]	ปภาสติมิทํ พฺยมฺหํ		ผลิกาสุ สุนิมฺมิตํ  
+<span class="LineNumber"> 012 </span>			นารีวรคณากิณฺณํ		กูฏาคารวิโรจิตํ (๒) 
+<span class="LineNumber"> 013 </span>			อุเปตํ อนฺนปาเนหิ		นจฺจคีเตหิ จูภยํ  
+<span class="LineNumber"> 014 </span>				วิตฺตี หิ มํ วินฺทติ สูต ทิสฺวา  
+<span class="LineNumber"> 015 </span>				ปุจฺฉามิ ตํ มาตลิ เทวสารถิ  
+<span class="LineNumber"> 016 </span>				อิมา นุ นารี (๓) กิมกํสุ สาธุํ  
+<span class="LineNumber"> 017 </span>				ยา (๔) โมทเร สคฺคปฺปตฺตา วิมาเน  
+<span class="LineNumber"> 018 </span>	[๕๗๖]	ตสฺส ปุฏฺโ€ วิยากาสิ		มาตลิ เทวสารถิ  
+<span class="LineNumber"> 019 </span>			วิปากํ ปุฺกมฺมานํ		ชานํ อกฺขาสิชานโต  
+<span class="LineNumber"> 020 </span>					ยากาจิ นารี อิธ ชีวโลเก  
+<span class="LineNumber"> 021 </span># ๑. ยุ. เตรสีจาตุทฺทสีปาฏิปเท ฯ  ๒. ม. ยุ. กุฏาคารวโรจิตํ ฯ 
+<span class="LineNumber"> 022 </span>เอวมุปริปิ ฯ  ๓. ม. อิเม นุ มจฺจา ฯ  ๔. ม. เย ฯ

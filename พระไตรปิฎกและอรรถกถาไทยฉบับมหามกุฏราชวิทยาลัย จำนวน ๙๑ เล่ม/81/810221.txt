@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>นยถาจิตตัสสวาจาติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๓๕๘]   <B>สกวาที</B>    บุคคลผู้ไม่มีความคิดอย่างไร   ก็มีวาจาได้ หรือ ? 
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>     ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. บุคคลผู้ไม่มีผัสสะ   ไม่มีเวทนา   ไม่มีสัญญา   ไม่มี
+<span class="LineNumber"> 005 </span>เจตนา ไม่มีจิต   ก็มีวาจาได้หรือ  ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                        ส. บุคคลมีผัสสะ  มีเวทนา  มีสัญญา  มีเจตนา  มีจิต  จึง
+<span class="LineNumber"> 008 </span>มีวาจาได้   มิใช่หรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                        ส. หากว่า  บุคคลมีผัสสะ  ฯลฯ  มีจิต  จึงมีวาจาได้ ก็ต้อง
+<span class="LineNumber"> 011 </span>ไม่กล่าวว่า    บุคคลผู้ไม่มีความคิดอย่างไร  ก็มีวาจาได้.
+<span class="LineNumber"> 012 </span>         [๑๓๕๙]   ส. บุคคลผู้ไม่มีความคิดอย่างไร  ก็มีวาจาได้ หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                        ส. บุคคลผู้ไม่นึกอยู่   ไม่ผูกใจอยู่  ฯลฯ ไม่ตั้งใจอยู่  ก็มี
+<span class="LineNumber"> 015 </span>วาจาได้ หรือ ?
+<span class="LineNumber"> 016 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 017 </span>                        ส. บุคคลนึกอยู่    ผูกใจอยู่    ฯลฯ   ตั้งใจอยู่   จึงมีวาจาได้
+<span class="LineNumber"> 018 </span>มิใช่หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                        ส. หากว่า   บุคคลนึกอยู่   ผูกใจอยู่   จึงมีวาจาได้  ก็ต้อง
+<span class="LineNumber"> 021 </span>ไม่กล่าวว่า  บุคคลผู้ไม่มีความคิดอย่างไร   มีวาจาได้.
+<span class="LineNumber"> 022 </span>         [๑๓๖๐]   ส. บุคคลผู้ไม่มีความคิดอย่างไร  ก็มีวาจาได้ หรือ ?

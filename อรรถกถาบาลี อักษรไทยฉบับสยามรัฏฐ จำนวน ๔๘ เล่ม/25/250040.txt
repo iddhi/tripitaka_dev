@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  40
+		
+<span class="LineNumber"> 002 </span>	ติธาปภินฺนํ มาตงฺคํ	กุฺชรํ สฏฺ€ิหายนํ  
+<span class="LineNumber"> 003 </span>	พลี นาโค อุปคนฺตฺวา	ยูถา นีหรเต คชํ ฯ  
+<span class="LineNumber"> 004 </span>	ยูถา วินิสฺสโฏ สนฺโต	สุขํ สาตํ น วินฺทติ  
+<span class="LineNumber"> 005 </span>	ทุกฺขิโต วิมโน (๑) โหติ	ปชฺฌายนฺโต ปเวธติ(๒) ฯ  
+<span class="LineNumber"> 006 </span>	ตเถว ชฏิลา ตมฺปิ		นีหริสฺสนฺติ ทุมฺมตึ  
+<span class="LineNumber"> 007 </span>	เตหิ ตฺวํ นิสฺสโฏ สนฺโต	สุขํ สาตํ น ลจฺฉสิ ฯ  
+<span class="LineNumber"> 008 </span>	ทิวา วา ยทิ วา รตฺตึ	โสกสลฺลสมปฺปิโต  
+<span class="LineNumber"> 009 </span>	ทยฺหติ ปริฬาเหน		คโช ยูถาว นิสฺสโฏ ฯ  
+<span class="LineNumber"> 010 </span>	ชาตรูปํ ยถา กูฏํ		เนว ฌายติ (๓) กตฺถจิ  
+<span class="LineNumber"> 011 </span>	ตถา สีลวีหิโน ตฺวํ		น ฌายิสฺสสิ (๔) กตฺถจิ ฯ  
+<span class="LineNumber"> 012 </span>	อคารํ วสมาโนปิ(๕)	กถํ ชีวิหิสิ ตุวํ  
+<span class="LineNumber"> 013 </span>	มตฺติกํ เปตฺติกฺจาปิ	นตฺถิ เต นิหิตํ ธนํ ฯ  
+<span class="LineNumber"> 014 </span>	สยํ กมฺมํ กริตฺวาน		คตฺเต เสทํ ปโมจยํ  
+<span class="LineNumber"> 015 </span>	เอวํ ชีวิหิสิ เคเห		สาธุ เต ตํ น รุจฺจติ ฯ  
+<span class="LineNumber"> 016 </span>	เอวาหํ ตตฺถ วาเรมิ	สงฺกิเลสคตํ มนํ  
+<span class="LineNumber"> 017 </span>	นานาธมฺมกถํ กตฺวา	ปาปา จิตฺตํ นิวารยึ ฯ  
+<span class="LineNumber"> 018 </span>	เอวํ เม วิหรนฺตสฺส	อปฺปมาทวิหาริโน  
+<span class="LineNumber"> 019 </span>	ตึสวสฺสสหสฺสานิ		ปวเน เม (๖) อติกฺกมุํ ฯ
+<span class="LineNumber"> 020 </span># ๑. สี. ทุมฺมโน ฯ  ๒. ยุ. โอชฺฌายนฺโต ปธาวติ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. ยายติ ฯ  ๔. สฺยา. ยายิสฺสสิ ฯ  ๕. สฺยา. อคาราวสมาโนปิ ฯ
+<span class="LineNumber"> 022 </span># โปราณ. อนาคารวสมาโนปิ ฯ  ๖. ม. วิปิเน เม ฯ 

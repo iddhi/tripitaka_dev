@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>         แม้ในมลทิน  คือริษยา   และมลทินคือความตระหนี่   ก็มีนัย  อย่างนี้ 
+<span class="LineNumber"> 002 </span>เหมือนกัน.
+<span class="LineNumber"> 003 </span>                                  <I>จบอรรถกถามลสูตรที่   ๑๐</I>          
+<span class="LineNumber"> 004 </span>                                   <I>จบพาลวรรควรรณนาที่  ๑</I>
+                                                         
+<span class="LineNumber"> 005 </span>                    <H2>รวมพระสูตรที่มีในพาลวรรคนี้  คือ</H2>
+<span class="LineNumber"> 006 </span>         ๑. ภยสูตร    ๒.  ลักขณสูตร    ๓.  จินตสูตร    ๔.  อัจจยสูตร   ๕.
+<span class="LineNumber"> 007 </span>อโยนิโสสูตร    ๖.  อกุสลสูตร    ๗.  สาวัชชสูตร    ๘.  สัพยาปัชชสูตร    ๙.
+<span class="LineNumber"> 008 </span>ขตสูตร    ๑๐.  มลสูตร   และอรรถกถา.                

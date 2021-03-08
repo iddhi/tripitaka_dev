@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>           <H1>จิตตสังสัฏฐทุกกุสลติกนจิตตสังสัฏฐทุกนกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>             <H2>(๕๙.  จิตตสังสัฏฐทุกะ ๑.  กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>                                       <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 004 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                          <H2>กุศลบท</H2>					
+<span class="LineNumber"> 007 </span>           [๒๘๕]  ๑.  <B>ธรรมที่ไม่ใช่กุศล       ที่ไม่ใช่จิตตสังสัฏฐธรรม
+<span class="LineNumber"> 008 </span>อาศัยธรรมที่เป็นกุศล  ที่เป็นจิตตสังสัฏฐธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 009 </span>ปัจจัย</B>   มี ๑  วาระ.
+
+<span class="LineNumber"> 010 </span>                                          <H2>อกุศลบท</H2>
+<span class="LineNumber"> 011 </span>                       ๑.  <B>ธรรมในที่ไม่ใช่อกุศล     ที่ไม่ใช่จิตตสังสัฏฐธรรม
+<span class="LineNumber"> 012 </span>อาศัยธรรมที่เป็นอกุศล  ที่ไม่ใช่จิตตสังสัฏฐธรรม  เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 013 </span>ปัจจัย</B>   มี ๑ วาระ.
+<span class="LineNumber"> 014 </span>           อัพยากตบท  มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>         <I>จิตตสังสัฏฐทุกกุสลติกนจิตตสังสัฏฐทุกนกุสลติกะ  จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  คนฺถารมฺภคาถาวณฺณนา  หน้า 5
+	
+<span class="LineNumber"> 002 </span>ปณฺณรสกนิปาโต (๑)-	นตฺถิ ฯ  
+<span class="LineNumber"> 003 </span>โสฬสกนิปาเต	-	เทฺว  เถรา  ทฺวตฺตึส  คาถา ฯ  
+<span class="LineNumber"> 004 </span>วีสตินิปาเต		-	ทส  เถรา  ปฺจจตฺตาฬีสาธิกานิ  เทฺว  
+<span class="LineNumber"> 005 </span>				คาถาสตานิ ฯ  
+<span class="LineNumber"> 006 </span>ตึสนิปาเต		-	ตโย  เถรา  สตํ  ปฺจ  จ  คาถา ฯ  
+<span class="LineNumber"> 007 </span>จตฺตาฬีสนิปาเต	-	เอโก  เถโร  เทฺวจตฺตาฬีส  คาถา ฯ  
+<span class="LineNumber"> 008 </span>ปฺาสนิปาเต	-	เอโก  เถโร  ปฺจปฺาส  คาถา ฯ  
+<span class="LineNumber"> 009 </span>สฏฺ€ินิปาเต		-	เอโก  เถโร  อฏฺ€สฏฺ€ิ  คาถา ฯ  
+<span class="LineNumber"> 010 </span>สตฺตตินิปาเตปิ (๒)-	เอโก เถโร เอกสตฺตติ คาถา ฯ  
+<span class="LineNumber"> 011 </span>	สมฺปิณฺเฑตฺวา  ปน  เทฺว  สตานิ  จตุสฏ€ิ  จ  เถรา  
+<span class="LineNumber"> 012 </span>สหสฺสํ  ตีณิ  สตานิ  สฏฺ€ิ จ คาถาติ ฯ วุตฺตมฺปิ เจตํ  
+<span class="LineNumber"> 013 </span>	สหสฺสํ โหนฺติ ตา คาถา	ตีณิ สฏฺ€ิ สตานิ จ  
+<span class="LineNumber"> 014 </span>	เถรา จ เทฺว สตา สฏฺ€ิ	จตฺตาโร จ ปกาสิตาติ ฯ  
+<span class="LineNumber"> 015 </span>	เถรีคาถา  ปน  เอกกนิปาโต  เอกุตฺตรวเสน  ยาว
+<span class="LineNumber"> 016 </span>นวกนิปาตาติ นวกนิปาโต  เอกาทสกนิปาโต  ทฺวาทสกนิปาโต
+<span class="LineNumber"> 017 </span>โสฬสกนิปาโต  วีสตินิปาโต  ตึสตินิปาโต  (๓)  จตฺตาฬีสนิปาโต 
+<span class="LineNumber"> 018 </span>มหานิปาโตติ โสฬสนิปาตสงฺคหา ฯ ตตฺถ  
+<span class="LineNumber"> 019 </span>เอกกนิปาเต	-  อฏฺ€ารส  เถริโย  อฏฺ€ารเสว  คาถา ฯ  
+<span class="LineNumber"> 020 </span>ทุกนิปาเต	-  ทส  เถริโย  วีสติ  คาถา ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ปนฺนรสนิปาโต ฯ  ๒. ม. สตฺตตินิปาเต ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ตึสนิปาโต ฯ

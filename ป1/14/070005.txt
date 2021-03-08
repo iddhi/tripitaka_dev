@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>จัดอย่างนั้น ถืออะไรเป็นหลัก หรือจัดส่ง ๆ ไปเช่นนั้น ? 
+<span class="LineNumber"> 002 </span>	ต.  ถือฐานกรณ์เป็นหลัก คือพยัญชนะที่เป็นพวก ๆ กัน ตาม
+<span class="LineNumber"> 003 </span>ฐานการณ์ที่เกิด  จัดเป็นวรรค. ที่ไม่เป็นพวกเป็นหมู่กันตามฐานกรณ์
+<span class="LineNumber"> 004 </span>ที่เกิด  จัดเป็นอวรรค. มีหลักอย่างนี้ มิได้จัดส่ง ๆ ไป. [ อ. น. ].
+<span class="LineNumber"> 005 </span>	ต.   พยัญชนะวรรค  อวรรค  อย่างไหนมีจำนวนเท่าไร ? จง
+<span class="LineNumber"> 006 </span>บรรยาย.  
+<span class="LineNumber"> 007 </span>	ต.  พยัญชนะวรรค มี  ๒๕  ตัว  ก ข ค ฆ ง, จ ฉ  ช ฌ ,
+<span class="LineNumber"> 008 </span>ฏ € ฑ ฒ ณ,  ต  ถ ท ธ น, ป ผ พ ภ ม. ที่เป็นอวรรค  ๘ ตัว  คือ
+<span class="LineNumber"> 009 </span>ย ร ล ว ส ห ฬ  ํ [อ.น. ].
+<span class="LineNumber"> 010 </span>     ถ.  อนุสาร  คืออะไร ?  และแปลว่าอะไร ?  เหตุใดจึงชื่อ
+<span class="LineNumber"> 011 </span>อย่างนั้น ?
+<span class="LineNumber"> 012 </span>	ต.  อนุสาร  คือนิคคหิต,  แปลว่า ไปตามสระ. ได้ชื่ออย่างนั้น
+<span class="LineNumber"> 013 </span>ก็เพราะไปตามสระ คือ  อ อิ อุ เสมอ  เหมือนคำว่า อหํ  เสตุํ  อกาสึ
+<span class="LineNumber"> 014 </span>เป็นต้น. [๒๔๖๕ ].
+<span class="LineNumber"> 015 </span>                             [ฐานกรณ์ของอักขระ ]
+<span class="LineNumber"> 016 </span>	ถ.  ฐาน กับ กรณ์ ต่างกันอย่างไร ?  และอย่างไหนมีเท่าไร ?
+<span class="LineNumber"> 017 </span>จงแสดงมาดู.
+<span class="LineNumber"> 018 </span>	ต.  ฐานได้แก่ที่ตั้งที่เกิดของอักขระ  กรณ์  ได้แก่ที่ทำอักขระ.
+<span class="LineNumber"> 019 </span>ฐานมี  ๖ คือ  กณฺโ€  คอ, ตาลุ  เพดาน,  มุทฺธา  ศีรษะ,  หรือปุ่มเหงือก
+<span class="LineNumber"> 020 </span>ก็ว่า,  ทนฺโต ฟัน, โอฏฺโ€  ริมฝีปาก,  นาสิกา  จมูก. กรณ์มี ๔
+<span class="LineNumber"> 021 </span>คือ ชิวฺหามชฺณํ  ท่ามกลางลิ้น  ๑ ชิวฺโหปคฺคํ  ถัดปลายลิ้นเข้ามา ๑
+
+
+       

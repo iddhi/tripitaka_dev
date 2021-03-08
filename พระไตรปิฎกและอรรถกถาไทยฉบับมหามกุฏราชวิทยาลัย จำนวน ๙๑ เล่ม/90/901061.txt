@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                      ๔.  อรณธรรมที่เป็นวิปากธัมมธรรม  อาศัยอรณธรรม 
+<span class="LineNumber"> 002 </span>ที่เป็นวิปากธัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 003 </span>                      ๗.  อรณธรรมที่เป็นเนววิปากนวิปากธัมมธรรม อาศัย
+<span class="LineNumber"> 004 </span>อรณธรรมที่เป็นเนววิปากนวิปากธัมมธรรม เกิดขึ้น เพราะเหตุปัจจัย
+<span class="LineNumber"> 005 </span>มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                    ๑๐.  อรณธรรมที่เป็นปากธรรม    อาศัยอรณธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นวิปากธรรม     และอรณธรรมที่เป็นเนววิปากนวิปากธัมมธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 009 </span>                    ๑๑.  อรณธรรมที่เป็นเนววิปากนวิปากธัมมธรรมอาศัย
+<span class="LineNumber"> 010 </span>อรณธรรมที่เป็นวิปากธรรม    และอรณธรรมที่เป็นเนววิปากนวิปาก-
+<span class="LineNumber"> 011 </span>ธัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                   	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๘๗๓]  ในเหตุปัจจัย มี ๑๓ วาระ    ในอารัมมณปัจจัย มี  ๕ วาระ
+<span class="LineNumber"> 014 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑๓ วาระ.
+<span class="LineNumber"> 015 </span>           สหชาตวาระก็ดี  ฯลฯ   สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.

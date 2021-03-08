@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                 <H1>๗.  อัญญมัญญปัจจัย  ฯลฯ  ๒๔.  อวิคตปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๒๐๔๑]  <B>อัชฌัตตธรรม อาศัยอัชฌัตตธรรม เกิดขึ้น  เพราะ 
+<span class="LineNumber"> 003 </span>อัญญมัญญปัจจัย  เพราะ  นิสสยปัจจัย  เพราะ  อุปนิสสยปัจจัย  เพราะ
+<span class="LineNumber"> 004 </span>ปุเรชาตปัจจัย  เพราะ  อาเสวนปัจจัย.</B>
+<span class="LineNumber"> 005 </span>           ในปุเรชาตปัจจัย  ก็ดี  ในอาเสวนปัจจัย   ก็ดี  ปฏิสนธิ    ไม่มี.
+<span class="LineNumber"> 006 </span>           <B>เพราะ  กัมมปัจจัย   เพราะ  วิปากปัจจัย   เพราะ  อาหารปัจจัย
+<span class="LineNumber"> 007 </span>เพราะ  อินทริยปัจจัย   เพราะ     ฌานปัจจัย    เพราะ  มัคคปัจจัย   เพราะ
+<span class="LineNumber"> 008 </span>สัมปยุตตปัจจัย    เพราะ  วิปปยุตตปัจจัย  เพราะ  อัตถิปัจจัย  เพราะ
+<span class="LineNumber"> 009 </span>นัตถิปัจจัย  เพราะ  วิคตปัจจัย  เพราะ  อวิคตปัจจัย.</B>
+
+<span class="LineNumber"> 010 </span>                               <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 011 </span>           [๒๐๔๒]   ในเหตุปัจจัย   มี ๒ วาระ  ในอารัมมณปัจจัย   มี ๒ วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในอวิตตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 013 </span>                                           <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                              <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 015 </span>                                            <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           [๒๐๔๓] ๑.  <B>อัชฌัตตธรรม    อาศัยอัชฌัตตธรรม เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ ที่เป็นอัชฌัตตธรรม
+<span class="LineNumber"> 019 </span>ซึ่งเป็นอเหตุกะ ฯลฯ ขันธ์ ๒ ฯลฯ

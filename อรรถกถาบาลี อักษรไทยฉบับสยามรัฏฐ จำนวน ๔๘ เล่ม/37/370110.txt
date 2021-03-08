@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  110
+
+<span class="LineNumber"> 002 </span>อารพฺภ  ปายาสิ ฯ  อวเสสภาตโร(๑)  จสฺส  มาตาปิตโร  จ  
+<span class="LineNumber"> 003 </span>ปจฺฉโต  ปายึสุ ฯ  ตสฺมึ  ขเณ  สาครพฺรหฺมทตฺโต  มหาสตฺตํ 
+<span class="LineNumber"> 004 </span>มหติยา  ปริสาย  อาคจฺฉนฺตํ  ทิสฺวา  อสฺชานิตฺวา ปิตรํ 
+<span class="LineNumber"> 005 </span>ปุจฺฉนฺโต อาห  
+<span class="LineNumber"> 006 </span>[๗๗๓]กสฺส เภริ (๒)มุทิงฺคา จ	สํขา ปณวเทณฺฑิมา(๓)  
+<span class="LineNumber"> 007 </span>	ปุรโต ปฏิปนฺนานิ		หาสยนฺตา รเถสภํ  
+<span class="LineNumber"> 008 </span>	กสฺส กาฺจนปฏฺเฏน	ปุถุนา วิชฺชุวณฺณินา  
+<span class="LineNumber"> 009 </span>	ยุวา กลาปสนฺนทฺโธ	โก เอติ สิริยา ชลํ  
+<span class="LineNumber"> 010 </span>	อุกฺกามุเข ปหฏฺ€ํว(๔)	ขทิรงฺคารสนฺนิภํ  
+<span class="LineNumber"> 011 </span>	มุขํ(๕) จารุริวาภาติ(๕)	โก เอติ สิริยา ชลํ  
+<span class="LineNumber"> 012 </span>	กสฺส ขมฺโพนทํ ฉตฺตํ	สสลากํ มโนรมํ  
+<span class="LineNumber"> 013 </span>	อาทิจฺจรํสาวรณํ		โก เอติ สิริยา ชลํ  
+<span class="LineNumber"> 014 </span>	กสฺส องฺคปริคฺคยฺห(๖)	วาลวีชนิมุตฺตมํ(๗)  
+<span class="LineNumber"> 015 </span>	อุภโต วรปฺสฺส		มุทฺธนิ อุปรูปริ  
+<span class="LineNumber"> 016 </span>	กสฺส เปขุณหตฺถานิ	จิตฺรานิ จ มุทูนิ จ  
+<span class="LineNumber"> 017 </span>	สุวณฺณมณิทณฺฑานิ (๘)	จรนฺติ อุภโตมุขํ  
+<span class="LineNumber"> 018 </span>	ขทิรงฺคารวณฺณาภา	อุกฺกามุขปหํสิตา  
+<span class="LineNumber"> 019 </span># ๑. ม. อวเสสา ภาตโร ฯ  ๒. ส. ม. เภรี ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ปณวทินฺทิมา ฯ  ๔. ม. อุกฺกามุขปหฏฺ€ํว ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม.มุขฺจ รุจิรา  ภาติ ฯ  ๖. ม. องฺคํ ปริคฺคยฺห ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. วาลพีนิมุตฺตมํ ฯ  ๘. ม. กฺจนขณิทณฺฑานิ ฯ 

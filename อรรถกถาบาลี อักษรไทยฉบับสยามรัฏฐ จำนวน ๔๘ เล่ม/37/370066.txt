@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  66
+
+<span class="LineNumber"> 002 </span>	อถ โส(๑) เตน สทฺธึ เกฬึ กโรนฺโต สุทสฺสโน คาถมาห  
+<span class="LineNumber"> 003 </span>	[๗๔๘]สิยา วิสํ สิลุตฺตสฺส	ทุฑฺฑุภสฺส สิลาภุโน  
+<span class="LineNumber"> 004 </span>		เนว โลหิตสีสสฺส		วิสํ นาคสฺส วิชฺชตีติ ฯ  
+<span class="LineNumber"> 005 </span>	ตตฺถ  สิลุตฺตสฺสาติ  ฆรสปฺปสฺส ฯ  ทุฑฺฑุภสฺสาติ 
+<span class="LineNumber"> 006 </span>อุทกสปฺปสฺส ฯ  สิลาภุโนติ นีลวณฺณสปฺปสฺส ฯ  
+<span class="LineNumber"> 007 </span>	อิติ  นิพฺพิเส  สปฺเป  ทสฺเสตฺวา  เอเตสํ  วิสํ  สิยา  เนว
+<span class="LineNumber"> 008 </span>ตว(๒)  โลหิตสีสสฺส สปฺปสฺสาติ อาห ฯ  
+<span class="LineNumber"> 009 </span>	อถ นํ อาลมฺพายโน ทฺวีหิ คาถาหิ อชฺฌภาสิ  
+<span class="LineNumber"> 010 </span>	[๗๔๙]สุตเมตํ อรหตํ		สฺตานํ ตปสฺสินํ  
+<span class="LineNumber"> 011 </span>		อิธ ทานานิ ทตฺวาน	สคฺคํ คจฺฉนฺติ ทายกา  
+<span class="LineNumber"> 012 </span>		ชีวนฺโต เทหิ ทานานิ	ยทิ เต อตฺถิ ทาตเว  
+<span class="LineNumber"> 013 </span>		อยํ นาโค มหิทฺธิโก	เตชสี ทุรติกฺกโม  
+<span class="LineNumber"> 014 </span>		เตน ตํ ฑํสยิสฺสามิ		โส ตํ ภสฺมํ กริสฺสตีติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ ทาตเวติ ยทิ เต กิฺจิ ทาตพฺพํ อตฺถิ เทหิ(๓) ฯ  
+<span class="LineNumber"> 016 </span>	(๔)ตโต สุทสฺสโน อาห(๔)  
+<span class="LineNumber"> 017 </span>	[๗๕๐]มยาเปตํ สุตํ สมฺม	สฺตานํ ตปสฺสินํ  
+<span class="LineNumber"> 018 </span>		อิธ ทานานิ ทตฺวาน	สคฺคํ คจฺฉนฺติ ทายกา  
+<span class="LineNumber"> 019 </span>		ตวเมว เทหิ ชีวนฺโต	ยทิ เต อตฺถิ ทาตเว  
+<span class="LineNumber"> 020 </span>		อยํ อจฺจิมุขี นาม		ปุณฺณา อุคฺคสฺส เตชสา  
+<span class="LineNumber"> 021 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ ๒. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ตํ เทหีติ ฯ  ๔. ม. อิเม ปา€า นตฺถิ ฯ 

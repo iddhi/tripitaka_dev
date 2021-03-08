@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อนาคตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 004 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๑๒๙]   รูปขันธ์จักเกิดแก่บุคคลใด,   เวทนาขันธ์ก็จักเกิดแก่
+<span class="LineNumber"> 006 </span>บุคคลนั้น    ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   เวทนาขันธ์จักเกิดแก่บุคคลใด,   รูปขันธ์ก็จักเกิดแก่
+<span class="LineNumber"> 009 </span>บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         บุคคลเหล่าใดจักเกิดในอรูปภูมิแล้วจักปรินิพพาน   เวทนาขันธ์
+<span class="LineNumber"> 011 </span>จักเกิดแก่บุคคลเหล่านั้น       แต่รูปขันธ์ไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,
+<span class="LineNumber"> 012 </span>บุคคลนอกจากนี้     เวทนาขันธ์จักเกิด     และรูปขันธ์ก็จักเกิดแก่บุคคล
+<span class="LineNumber"> 013 </span>เหล่านั้น.
+<span class="LineNumber"> 014 </span>                          <I>จบ  รูปขันธมูละ  เวทนาขันธมูลี</I>
+<span class="LineNumber"> 015 </span>                                      <I>รูปขันธมูล<SUP>๑</SUP>  จบ</I>
+<span class="LineNumber"> 016 </span>                                     <I>ปุคคลวาระ    จบ</I>
+
+<span class='footnote'>๑.  ใช้เชิงอรรถในหน้า   ๑๒๒</span>

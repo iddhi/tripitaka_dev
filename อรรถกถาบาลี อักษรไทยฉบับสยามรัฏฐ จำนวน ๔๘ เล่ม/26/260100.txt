@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ปฺจกนิปาตวณฺณนา  หน้า  100  
+
+<span class="LineNumber"> 002 </span>	ตทา  ปฏิคฺคหิ  โส  มํ  		ภีตานํ  สรโณ  มุนิ  
+<span class="LineNumber"> 003 </span>	ชาลินา  จกฺกงฺกิเตน  		มุทุโกมลปาณินา ฯ  
+<span class="LineNumber"> 004 </span>	ตทา  ปภูติ  เตนาหํ  		อรกฺเขยฺเยน  รกฺขิโต  
+<span class="LineNumber"> 005 </span>	สพฺพเวรวินิมุตฺโต  			สุเขน  ปริวุทฺธิโต ฯ  
+<span class="LineNumber"> 006 </span>	สุคเตน  วินา  ภูโต  		อุกฺกณฺ€ามิ  มุหุตฺตกํ  
+<span class="LineNumber"> 007 </span>	ชาติยา  สตฺตวสฺโสหํ  		ปพฺพชึ  อนคาริยํ ฯ  
+<span class="LineNumber"> 008 </span>	สพฺพปารมิสมฺภูตํ  			นีลกฺขินยนํ  วรํ  
+<span class="LineNumber"> 009 </span>	รูปํ  สพฺพสุภากิณฺณํ  		อติตฺโต  วิหรามหํ ฯ  
+<span class="LineNumber"> 010 </span>	พุทฺธรูปรตึ  ตฺวา  			ตทา  โอวทิ  มํ  ชิโน  
+<span class="LineNumber"> 011 </span>	อลํ  วกฺกลิ  กึ  รูเป  			รมเส  พาลนนฺทิเต ฯ  
+<span class="LineNumber"> 012 </span>	โย  หิ  ปสฺสติ  สทฺธมฺมํ  		โส  มํ  ปสฺสติ  ปณฺฑิโต  
+<span class="LineNumber"> 013 </span>	อปสฺสมาโน  สทฺธมฺมํ  		มํ  ปสฺสมฺปิ  น  ปสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>	อนนฺตาทีนโว  กาโย  		วิสรุกฺขสมูปโม  
+<span class="LineNumber"> 015 </span>	อาวาโส  สพฺพโรคานํ  		ปุฺโช  ทุกฺขสฺส  เกวโล ฯ  
+<span class="LineNumber"> 016 </span>	นิพฺพินฺทิย  ตโต  รูเป  		ขนฺธานํ  อุทยพฺพยํ  
+<span class="LineNumber"> 017 </span>	ปสฺส  อุปกฺกิเลสานํ  		สุเขนนฺตํ  คมิสฺสสิ ฯ  
+<span class="LineNumber"> 018 </span>	เอวํ  เตนานุสิฏฺโ€หํ  		นายเกน  หิเตสินา  
+<span class="LineNumber"> 019 </span>	คิชฺฌกูฏํ  สมารุยฺห  			ฌายามิ  คิริกนฺทเร ฯ  
+<span class="LineNumber"> 020 </span>#๑.  ยุ. สงฺขลงฺเกน  ฯ  ๒.  สฺยา. ชาโตหํ  ฯ  ๓.  สฺยา. 
+<span class="LineNumber"> 021 </span>#สพฺพพฺยาธิวินิมุตฺโต  ฯ  ยุ. สพฺพูปธิวินิมุตฺโต  ฯ  ยุ. ปริวฑฺฒิโต  ฯ  
+<span class="LineNumber"> 022 </span>#๕.  ยุ. ปรํ  ฯ  ๖.  ยุ. พิหยามหํ  ฯ  ๗.  สฺยา. ปสฺส  สพฺพกิเลสานํ  ฯ
+<span class="LineNumber"> 023 </span>#๘.  ยุ. คิรินิทฺทเร  ฯ  

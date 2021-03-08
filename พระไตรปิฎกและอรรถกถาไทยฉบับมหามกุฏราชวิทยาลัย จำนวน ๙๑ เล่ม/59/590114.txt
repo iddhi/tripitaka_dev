@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>๒.  ขุรปุตตวรรค</H1>
+
+<span class="LineNumber"> 002 </span>                             <H1>๑. ขุรปุตตชาดก</H1>
+
+<span class="LineNumber"> 003 </span>                       <H1>ว่าด้วยทำตนให้ไร้ประโยชน์</H1> 
+
+<span class="LineNumber"> 004 </span>         <B>[๙๐๕]   ได้ทราบว่าเป็นความจริง       ที่บัณฑิต
+<span class="LineNumber"> 005 </span>           ทั้งหลายพูดถึงแพะว่า   โง่อย่างนี้   ดูเถิดสัตว์
+<span class="LineNumber"> 006 </span>           ที่โง่ไม่รู้จักกรรมที่ควรทำในที่ลับและกรรม
+<span class="LineNumber"> 007 </span>           ที่ควรทำในที่แจ้ง.
+<span class="LineNumber"> 008 </span>         [๙๐๖]   สหายเอ๋ย  แกนั่นแหละโง่  ดูก่อนเจ้าลูก
+<span class="LineNumber"> 009 </span>           ลา   แกจงรู้ตัวเถิด    แกถูกเชือกรัดคอไว้    มี
+<span class="LineNumber"> 010 </span>           ริมฝีปากเบี้ยว  มีเชือกมัดปากไว้. 
+<span class="LineNumber"> 011 </span>         [๙๐๗ ]   สหายเอ๋ย      ความโง่แม้อย่างอื่นของแก 
+<span class="LineNumber"> 012 </span>           คือ    ที่แกถูกปลดจากแอกแล้ว     แต่ไม่หนี
+<span class="LineNumber"> 013 </span>           สหายเอ๋ย         พระเจ้าเสนกะแกลากไปนั่น
+<span class="LineNumber"> 014 </span>           แหละโง่กว่าแก.
+<span class="LineNumber"> 015 </span>         [๙๐๘ ]   สหายอชราชเอ๋ย  ข้าโง่เพราะเหตุใดหนอ
+<span class="LineNumber"> 016 </span>           เหตุนั้นแกก็รู้   แต่พระเจ้าเสนกะโง่เพราะเหตุ
+<span class="LineNumber"> 017 </span>           ใด   เจ้าถูกข้าถามแล้ว   จงบอกเหตุนั้นแก่ข้า.</B>

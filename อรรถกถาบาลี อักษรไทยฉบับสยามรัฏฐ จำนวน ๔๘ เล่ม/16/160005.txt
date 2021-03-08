@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  16  หน้า  ๕
+
+<span class="LineNumber"> 002 </span>				นิทานโสธนํ  
+<span class="LineNumber"> 003 </span>	ตสฺสาจายมาทิ  พุทฺธํ  สรณํ  คจฺฉามิ  ธมฺมํ  สรณํ  
+<span class="LineNumber"> 004 </span>คจฺฉามิ  สํฆํ สรณํ คจฺฉามีติ ฯ ตสฺสายํ อตฺถวณฺณนาย 
+<span class="LineNumber"> 005 </span>มาติกา  
+<span class="LineNumber"> 006 </span>	เกน กตฺถ กทา กสฺมา  	ภาสิตํ รตนตฺตยํ  (๑)  
+<span class="LineNumber"> 007 </span>	กสฺมาจิธาทิโต วุตฺต-  	มวุตฺตมฺปิ อาทิโต ฯ  
+<span class="LineNumber"> 008 </span>	นิทานโสธนํ กตฺวา 		เอวเมตฺถ ตโต ปรํ  
+<span class="LineNumber"> 009 </span>	พุทฺธฺจ สรณคมนํ  		คมกฺจ วิภาวเย ฯ  
+<span class="LineNumber"> 010 </span>	เภทาเภทํ ผลฺจาปิ  		คมนียฺจ ทีปเย  
+<span class="LineNumber"> 011 </span>	ธมฺมํ สรณมิจฺจาทิ  		ทฺวเยเปส นโย มโต ฯ  
+<span class="LineNumber"> 012 </span>	อนุปุพฺพววตฺถาเน  		การณฺจ วินิทฺทิเส  
+<span class="LineNumber"> 013 </span>	รตนตฺตยเมตฺจ (๒)		อุปมาหิ ปกาสเยติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ ป€มคาถายํ ตาว อิทํ สรณคมนตฺตยํ เกน ภาสิตํ  
+<span class="LineNumber"> 015 </span>กตฺถ  ภาสิตํ  กทา  ภาสิตํ  กสฺมา  ภาสิตํ  อวุตฺตมฺปิจาทิโต  
+<span class="LineNumber"> 016 </span>ตถาคเตน  กสฺมา  อิธาทิโต วุตฺตนฺติ ปฺจ ปหา ฯ  
+<span class="LineNumber"> 017 </span>	เตสํ วิสฺสชฺชนา  
+<span class="LineNumber"> 018 </span>	เกน ภาสิตนฺติ ภควตา ภาสิตํ  น สาวเกหิ  น อิสีหิ 
+<span class="LineNumber"> 019 </span>น เทวตาหิ ฯ  
+<span class="LineNumber"> 020 </span>	กตฺถาติ พาราณสิยํ อิสิปตเน มิคทาเย ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม.  สรณตฺตยํ  ฯ  ๒. ม. สรณตฺตยเมตญจ ฯ 

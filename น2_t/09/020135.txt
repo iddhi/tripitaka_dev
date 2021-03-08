@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                          แบบสวดมนต์ไหว้พระของนักเรียน
+
+<span class="LineNumber"> 002 </span><B>(๑)  แบบคำสวดมนต์ไหว้พระประจำวัน</B>  
+<span class="LineNumber"> 003 </span>		(หัวหน้าสวดนำผู้อื่นสวดตาม)
+<span class="LineNumber"> 004 </span>		<B>อรหํ  สมฺมาสมฺพุทฺโธ  ภควา.
+<span class="LineNumber"> 005 </span>		พุทฺธํ  ภควนฺตํ  อภิวาเทมิ</B>.  (กราบ)
+<span class="LineNumber"> 006 </span>		<B>สฺวากฺขาโต  ภควตา  ธมฺโม.
+<span class="LineNumber"> 007 </span>		ธมฺมํ  นมสฺสามิ</B>.  (กราบ)
+<span class="LineNumber"> 008 </span>		<B>สุปฏิปนฺโน  ภควโต  สาวกสงฺโฆ.
+<span class="LineNumber"> 009 </span>		สงฺฆํ  นมามิ.</B>  (กราบ)
+<span class="LineNumber"> 010 </span><B>(๒)  แบบคำสวดมนต์ไหว้พระวันสุดท้ายของสัปดาห์  ตอนเลิกเรียน</B>
+<span class="LineNumber"> 011 </span>		(หัวหน้าสวดนำผู้อื่นสวดตาม)
+<span class="LineNumber"> 012 </span>		<B>อรหํ  สมฺมาสมฺพุทฺโธ  ภควา.	
+<span class="LineNumber"> 013 </span>		พุทธํ  ภควนฺตํ  อภิวาเทมิ</B>.  (กราบ)
+<span class="LineNumber"> 014 </span>		<B>สฺวากฺขาโต  ภควตา  ธมฺโม.
+<span class="LineNumber"> 015 </span>		ธมฺมํ  นมสฺสามิ</B>.  (กราบ)
+<span class="LineNumber"> 016 </span>		<B>สุปฏิปนฺโน  ภควโต  สาวกสงฺโฆ.
+<span class="LineNumber"> 017 </span>		สงฺฆํ  นมามิ</B>.  (กราบ)
+<span class="LineNumber"> 018 </span>						<B>สวดบทนมัสการ</B>
+<span class="LineNumber"> 019 </span>	(นำ)  <B>นโม  ตสฺส  ภควโต</B>  (รับพร้อมกัน)  <B>อรหโต  สมฺมาสมฺพุทฺธสฺส.
+<span class="LineNumber"> 020 </span>		นโม  ตสฺส  ภควโต  อรหโต  สมฺมาสมฺพุทธสฺส.
+<span class="LineNumber"> 021 </span>	          นโม  ตสฺส  ภควโต  อรหโต  สมฺมาสมฺพุทธสฺส</B>
+
+<span class="LineNumber"> 022 </span>	๑.  ถ้ายืนให้น้อมศีรษะนมัสการ  ถ้านั่งกับพื้นให้กราบแบบเบญจางคประดิษฐ์
+

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 427
+
+<span class="LineNumber"> 002 </span>		เตน เตน ปธาวิสฺสํ	ปิเย ปุตฺเต อปสฺสตี  
+<span class="LineNumber"> 003 </span>		กุรุรีว หตจฺฉาปา(๑)	สุฺํ ทิสฺวา กุลาวกํ  
+<span class="LineNumber"> 004 </span>		จิรํ ทุกฺเขน ฌายิสฺสํ	สุฺํ อาคมฺมิมํ ปุรํ  
+<span class="LineNumber"> 005 </span>		กุรุรีว หตจฺฉาปา		สุฺํ ทิสฺวา กุลาวกํ  
+<span class="LineNumber"> 006 </span>		กีสา ปณฺฑุ ภวิสฺสามิ	ปิเย ปุตฺเต อปสฺสตี  
+<span class="LineNumber"> 007 </span>		กุรุรีว หตจฺฉาปา		สุฺํ ทิสฺวา กุลาวกํ  
+<span class="LineNumber"> 008 </span>		เตน เตน ปธาวิสฺสํ	ปิเย ปุตฺเต อปสฺสตี  
+<span class="LineNumber"> 009 </span>		สา นูน จากวากีว (๒)	ปลฺลลสฺมึ อนูทเก  
+<span class="LineNumber"> 010 </span>		จิรํ ทุกฺเขน ฌายิสฺสํ	สุฺํ อาคมฺมิมํ ปุรํ  
+<span class="LineNumber"> 011 </span>		สา นูน จากวากีว		ปลฺลลสฺมึ อนูทเก  
+<span class="LineNumber"> 012 </span>		กีสา ปณฺฑุ ภวิสฺสามิ	ปิเย ปุเต อปสฺสตี  
+<span class="LineNumber"> 013 </span>		สา นูน จากวากีว		ปลฺลลสฺมึ อนูทเก  
+<span class="LineNumber"> 014 </span>		เตน (๓)เตน ปธาวิสฺสํ	ปิเย ปุตฺเต อปสฺสตี  
+<span class="LineNumber"> 015 </span>		เอวฺจ เม วิลปนฺติยา	ราชปุตฺตํ อทูสกํ  
+<span class="LineNumber"> 016 </span>		ปพฺพาเชสิ จ(๔) นํ รฏฺ€า  มฺเ เหสฺสามิ ชีวิตนฺติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  กณิการาวาติ  สุวณฺณาภรณาลงฺการสุวณฺณวตฺถปฏิ-
+<span class="LineNumber"> 018 </span>มณฺฑิตตาย(๕)  สุปุปฺผิตกณิการา  วิย ฯ  ยายนฺตมนุยายนฺตีติ 
+<span class="LineNumber"> 019 </span>อุยฺยานวนกีฬาทีนํ  อตฺถาย  คจฺฉนฺตํ  เวสฺสนฺตรํ  อนุคจฺฉนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. กุรรี หตฉาปาว ฯ  ๒. ม. จกฺกวากีว ฯ ๓. ม. เอวํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. จสทฺโท นตฺถิ ฯ  ๕. ม. สุวณฺณาภรณสุวณฺณวตฺถปฏิมณฺฑิตตฺตา ฯ

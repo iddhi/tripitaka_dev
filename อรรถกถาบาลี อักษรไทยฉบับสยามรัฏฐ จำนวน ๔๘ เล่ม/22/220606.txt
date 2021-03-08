@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 22   หน้า 606
+
+<span class="LineNumber"> 002 </span>			กปฺปสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	มชฺเฌ  สรสฺมินฺติ  กปฺปสุตฺตํ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  มชฺเฌ  สรสฺมินฺติ ปุริมปจฺฉิมโกฏิปฺาณาภาวโต  
+<span class="LineNumber"> 005 </span>มชฺฌภูเต  สาคเรติ  (๑)  วุตฺตํ  โหติ ฯ  ติฏฺ€ตนฺติ ติฏฺ€มานํ ฯ 
+<span class="LineNumber"> 006 </span>ยถายิทํ นาปรํ สิยาติ ยถา อิทํ ทุกฺขํ ปุน น ภเวยฺย ฯ  
+<span class="LineNumber"> 007 </span>	อถสฺส  ภควา  ตมตฺถํ  พฺยากโรนฺโต  ติสฺโส  คาถาโย  
+<span class="LineNumber"> 008 </span>อภาสิ ฯ 
+<span class="LineNumber"> 009 </span>	ตตฺถ  อกิฺจนนฺติ  กิฺจนปฏิปกฺขํ ฯ  อนาทานนฺติ  อาทาน-
+<span class="LineNumber"> 010 </span>ปฏิปกฺขํฯ กิฺจนาทานวูปสมนฺติ  วุตฺตํ  โหติ ฯ  อนาปรนฺติ  
+<span class="LineNumber"> 011 </span>อปรปฏิภาคทีปวิรหิตํฯ  เสฏฺ€นฺติ วุตฺตํ  โหติ ฯ  น  เต  มารสฺส
+<span class="LineNumber"> 012 </span>ปทฺธคูติ  เต มารสฺส ปทฺธจรา (๒)  ปริจารกา สิสฺสา  น
+<span class="LineNumber"> 013 </span>โหนฺติ ฯ เสสํ สพฺพตฺถ ปากฏเมว ฯ  เอวํ  ภควา  อิทมฺปิ  
+<span class="LineNumber"> 014 </span>สุตฺตํ  อรหตฺตนิกูเฏเนว  เทเสสิฯ 
+<span class="LineNumber"> 015 </span>	เทสนาปริโยสาเน  จ ปุพฺพสทิโส เอว ธมฺมาภิสมโย 
+<span class="LineNumber"> 016 </span>อโหสีติ ฯ  
+<span class="LineNumber"> 017 </span>	  	ปรมตฺถโชติกาย ขุทฺทกฏฺ€กถาย  
+<span class="LineNumber"> 018 </span>	  	  กปฺปสุตฺตวณฺณนา  นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. ยุ. สํสาเรติ ฯ  ๒. ม. ปทฺธจรา ฯ 

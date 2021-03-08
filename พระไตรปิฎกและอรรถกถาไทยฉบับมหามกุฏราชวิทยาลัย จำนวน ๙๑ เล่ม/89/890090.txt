@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ขันธ์ ๒   และจิตตสมุฏฐานรูป    อาศัยขันธ์  ๑    ที่เป็นเจตสิก
+<span class="LineNumber"> 002 </span>และจิต  ฯลฯ   อาศัยขันธ์ ๒.
+<span class="LineNumber"> 003 </span>         ขันธ์ ๒   และจิต   อาศัยขันธ์ ๑   ที่เป็นเจตสิก    และหทยวัตถุ  ฯลฯ
+<span class="LineNumber"> 004 </span>อาศัยขันธ์  ๒.
+<span class="LineNumber"> 005 </span>         ในปฏิสนธิขณะ ฯลฯ   พึงทำทั้ง ๒ วาระ.
+
+<span class="LineNumber"> 006 </span>                                     <B>๒. อารัมมณปัจจัย</B>
+<span class="LineNumber"> 007 </span>         [๘๙] ๑.  <B>ธรรมที่เป็นเจตสิก  อาศัยธรรมที่เป็นเจตสิก  เกิด
+<span class="LineNumber"> 008 </span>ขึ้น   เพราะอารัมมณปัจจัย</B>    มี ๓ วาระ    เหมือนปฏิจจวาระ    (วาระที่
+<span class="LineNumber"> 009 </span>๑-๒-๓)
+<span class="LineNumber"> 010 </span>                  ๔.  <B>ธรรมที่ไม่ใช่เจตสิก  อาศัยธรรมที่ไม่ใช่เจตสิก
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 012 </span>         คือ    จักขุวิญญาณ    อาศัยจักขายตนะ ฯลฯ    กายวิญญาณ    อาศัย
+<span class="LineNumber"> 013 </span>กายายตนะ,   จิต  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 014 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 015 </span>                  ๕. <B>ธรรมที่เป็นเจตสิก  อาศัยธรรมที่ไม่ใช่เจตสิก
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  ขันธ์ทั้งหลายทั้งสหรคตด้วยจักขุวิญญาณ    อาศัยจักขายตนะ ฯลฯ
+<span class="LineNumber"> 018 </span>อาศัยกายายตนะ.                                                                        
+<span class="LineNumber"> 019 </span>         สัมปยุตตขันธ์ทั้งหลาย  อาศัยจิต.
+<span class="LineNumber"> 020 </span>         ขันธ์ทั้งหลายที่เป็นเจตสิก  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 021 </span>         ในปฏิสนธิขณะ ฯลฯ  พึงทำทั้ง ๒ วาระ.

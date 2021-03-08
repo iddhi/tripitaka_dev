@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>นอุปนิสสยปัจจัย   มี ๑ วาระ     โนนปุเรชาตปัจจัย  มี ๑ วาระ     ใน 
+<span class="LineNumber"> 002 </span>นปัจฉาชาตปัจจัย   มี ๑ วาระ    ในนอาเสวนปัจจัย     มี  ๑ วาระ  ใน
+<span class="LineNumber"> 003 </span>นกัมมปัจจัย      มี ๑ วาระ      ในนอาหารปัจจัย      มี ๑ วาระ      ใน
+<span class="LineNumber"> 004 </span>นอินทริยปัจจัย   มี ๑ วาระ ในนฌานปัจจัย   มี ๑ วาระ ในนมัคคปัจจัย   
+<span class="LineNumber"> 005 </span>มี ๑ วาระ  ในนสัมปยุตตปัจจัย  มี ๑ วาระ  ในโนนัตถิปัจจัย   มี ๑ วาระ
+<span class="LineNumber"> 006 </span>ในโนวิคตปัจจัย   มี ๑ วาระ.
+<span class="LineNumber"> 007 </span>                               <I>วิปากมูลกนัย  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                   <H1>อาหารมูลกนัย</H1>
+<span class="LineNumber"> 009 </span>                                    <H1>อาหารสภาคะ</H1>
+<span class="LineNumber"> 010 </span> <B>[๙๐๐]  เพราะอาหารปัจจัย</B>  ในนเหตุปัจจัย   มี ๔ วาระ    ในนอา-
+<span class="LineNumber"> 011 </span>รัมมณปัจจัย   มี ๗ วาระ  โนนอธิปติปัจจัย   มี ๗ วาระ  ในนอนันตร-
+<span class="LineNumber"> 012 </span>ปัจจัย   มี     วาระ  ในนสมนันตรปัจจัย   มี ๗ วาระ ในนสหชาตปัจจัย
+<span class="LineNumber"> 013 </span>มี  ๑ วาระ ในนอัญญปัญญปัจจัย  มี ๓ วาระ ในนนิสสยปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 014 </span>ในนอุปนิสสยปัจจัย   มี ๗ วาระ  ในนปุเรชาตปัจจัย    มี ๗ วาระ    ใน
+<span class="LineNumber"> 015 </span>นปัจฉาชาตปัจจัย      มี ๗ วาระ   ในนอาเสวนปัจจัย    มี ๗ วาระ   ใน
+<span class="LineNumber"> 016 </span>ในนกัมมปัจจัย     มี ๗ วาระ     ในนวิปากปัจจัย     มี ๗ วาระ     ใน
+<span class="LineNumber"> 017 </span>ในนอินทริยปัจจัย    มี ๗ วาระ    ในนฌานปัจจัย    มี ๗ วาระ    ใน
+<span class="LineNumber"> 018 </span>นมัคคปัจจัย     มี ๗ วาระ    ในนสัมปยุตตปัจจัย     มี ๓ วาระ      ใน
+<span class="LineNumber"> 019 </span>นวิปปยุตตปัจจัย     มี ๓ วาระ    ในโนนัตถิปัจจัย    มี ๗ วาระ     ใน
+<span class="LineNumber"> 020 </span>โนวิคตปัจจัย   มี ๗  วาระ.

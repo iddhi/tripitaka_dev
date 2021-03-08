@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>ปัจจัย    เพราะนอุปนิสสยปัจจัย   เพราะนปุเรชาตปัจจัย  เพราะ 
+<span class="LineNumber"> 002 </span>นปัจฉาชาตปัจจัย</B> มี ๗ วาระ.
+<span class="LineNumber"> 003 </span>           <B>เพราะนอาเสวนปัจจัย  ฯลฯ</B> 
+
+<span class="LineNumber"> 004 </span>                                     <H1>๑๑.  นกัมมปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๒๑๘] ๑.  <B>เสกขธรรมอาศัยเสกขธรรม  ฯลฯ  เพราะนกัมม-
+<span class="LineNumber"> 006 </span>ปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  เจตนาที่เป็นเสกขธรรม  อาศัยขันธ์ทั้งหลายที่เป็นเสกขธรรม.
+<span class="LineNumber"> 008 </span>                         ๒.  <B>เนวเสกขานาเสกขธรรม  อาศัยเนวเสกขานา-
+<span class="LineNumber"> 009 </span>เสกขธรรม  ฯลฯ  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ เจตนาที่เป็นเนวเสกขานาเสกขธรรม  อาศัยขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 011 </span>เนวเสกขานาเสกขธรรม.
+<span class="LineNumber"> 012 </span>           พาหิรรูป...อาหารสมุฏฐานรูป...อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 013 </span>           เจตนาที่เป็นเนวเสกขานาเสกขธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 014 </span>                         ๓.  <B>เสกขธรรม  อาศัยเนวเสกขานาเสกขธรรม  ฯลฯ
+<span class="LineNumber"> 015 </span>เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  เจตนาที่เป็นเสกขธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 017 </span>                         ๔.  <B>เสกขธรรม  อาศัยเสกขธรรม  และเนวเสกขา-
+<span class="LineNumber"> 018 </span>นาเสกขธรรม  ฯลฯ  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 019 </span>           คือ  เจตนาที่เป็นเสกขธรรม  อาศัยขันธ์ทั้งหลายที่เป็นเสกขธรรม
+<span class="LineNumber"> 020 </span>และหทยวัตถุ.
+    

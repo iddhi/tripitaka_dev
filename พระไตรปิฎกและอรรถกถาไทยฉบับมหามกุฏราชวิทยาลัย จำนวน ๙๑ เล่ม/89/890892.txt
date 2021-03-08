@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         คือ   ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑  ที่ไม่ใช่อรูปาวจร-
+<span class="LineNumber"> 002 </span>ธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 003 </span>         ในอเหตุกปฏิสนธิขณะ  ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 004 </span>         โมหะ   ที่สหรคตด้วยวิจิกิจฉา    ที่สหรคตด้วยอุทธัจจะ    อาศัยขันธ์
+<span class="LineNumber"> 005 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 006 </span>         <B>ฯลฯ   เพราะนอารัมมณปัจจัย</B>  มี ๓ วาระ.
+
+<span class="LineNumber"> 007 </span>                                       <H2>๓.  นอธิปติปัจจัย</H2>
+<span class="LineNumber"> 008 </span>         [๗๘๕] ๑.  <B>อรูปาวจรธรรม   อาศัยอรูปาวจรธรรม    เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ    อธิปติธรรมที่เป็นอรูปาวจรธรรม    อาศัยขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 011 </span>อรูปาวจรธรรม ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นอรูปาวจรธรรม  ซึ่งเป็นวิบาก
+<span class="LineNumber"> 012 </span>ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 013 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 014 </span>                     ๒.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 015 </span>อรูปาวจรธรรม  เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ ขันธ์ ๓  และจิตตสมุฏฐานรูป    อาศัยขันธ์ ๑  ที่ไม่ใช่อรูปาวจร
+<span class="LineNumber"> 017 </span>ธรรม ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 018 </span>         ในปฏิสนธิขณะ  ฯลฯ  ตลอดถึงอสัญญสัตว์.

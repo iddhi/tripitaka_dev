@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>	๔.  ทำอย่างไรจึงชื่อว่าถึงพร้อมด้วยการรักษา ? 
+<span class="LineNumber"> 002 </span>	๕.  ได้ทรัพย์มาแล้วจ่ายสักเท่าไร   จึงจะชื่อว่า   สมชีวิตา  ?
+<span class="LineNumber"> 003 </span>	๖.   ทิฏฐธัมมิกัตถะ    แปลว่า   อย่างไร  ?  มีกี่ข้อ  ?
+<span class="LineNumber"> 004 </span>               ข้อไหนสำคัญที่สุด  ?   เพราะเหตุไร  ?
+<span class="LineNumber"> 005 </span>	๗.  คนเราหวังจะตั้งตัวได้ในปัจจุบัน  ต้องเว้น    และทำอย่างไรบ้าง  ?
+
+<span class="LineNumber"> 006 </span>				<B>	ดอกเอ๋ย       ดอกบานบุรี
+<span class="LineNumber"> 007 </span>				สวยงามดี    สีสันฐ์   วรรณะเหลือง
+<span class="LineNumber"> 008 </span>				ชื่อเพราะดี    ได้ความ   บานงามเมือง
+<span class="LineNumber"> 009 </span>				จัดเป็นเครื่อง    ประดับ    ระยับตา.
+<span class="LineNumber"> 010 </span>					หากว่าชน   มากหลาย   ทั้งชายหญิง
+<span class="LineNumber"> 011 </span>				ขยันยิ่ง    ฝนฝึก   ใฝ่ศึกษา
+<span class="LineNumber"> 012 </span>				สงวนทรัพย์    คบมิตรดี    ศรีโสภา
+<span class="LineNumber"> 013 </span>				เลี้ยงชีวา    สมฐาน    ชื่นบาน   เอย.</B>
+<span class="LineNumber"> 014 </span>									<B>ศรี  ฯ  นคร.</B>

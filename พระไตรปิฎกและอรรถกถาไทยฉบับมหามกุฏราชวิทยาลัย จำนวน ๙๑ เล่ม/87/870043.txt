@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>การนับจำนวนวาระในอนุโลม</H1>  
+<span class="LineNumber"> 002 </span>           [๖๕๓]  ในเหตุปัจจัย   มี ๓ วาระ   ในอารัมมณปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 003 </span>ในอธิปติปัจจัย  มี ๓ วาระ  ในอนันตรปัจจัย  มี ๓ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 004 </span>มี ๓ วาระ   ในสหชาตปัจจัย   มี ๓ วาระ  ในอัญญมัญญปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 005 </span>ในนิสสยปัจจัย  มี ๓ วาระ  ในอุปนิสสยปัจจัย  มี ๓ วาระ  ในปุเรชาตปัจจัย
+<span class="LineNumber"> 006 </span>มี ๓ วาระ    ในอาเสวนปัจจัย   มี  ๓ วาระ   ในวิปากปัจจัย   มี ๑ วาระ     ใน
+<span class="LineNumber"> 007 </span>อาหารปัจจัย   มี ๓ วาระ   ในอินทริยปัจจัย   มี ๓ วาระ   ในฌานปัจจัย  มี
+<span class="LineNumber"> 008 </span>๓ วาระ    ในมัคคปัจจัย    มี ๓ วาระ    ในสัมปยุตตปัจจัย   มี ๓ วาระ  ใน
+<span class="LineNumber"> 009 </span>วิปปยุตตปัจจัย  มี ๓ วาระ  ในอัตถิปัจจัย  มี ๓ วาระ   ในนัตถิปัจจัย  มี ๓
+<span class="LineNumber"> 010 </span>วาระ   ในวิคตปัจจัย   มี ๓ วาระ    ในอวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>                                             <I>อนุโลม  จบ</I> 
+
+<span class="LineNumber"> 012 </span>                                              <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 013 </span>                                           <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๖๕๔]  ๑.  <B>ทัสสเนนปหาตัพพธรรม   เจือกับทัสสเนนปหา-
+<span class="LineNumber"> 015 </span>ตัพพธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา   เจือกับขันธ์ทั้งหลาย   ที่สหรคต 
+<span class="LineNumber"> 017 </span>ด้วยวิจิกิจฉา.
+<span class="LineNumber"> 018 </span>           [๖๕๕]  ๒ .  <B>ภาวนายปหาตัพพธรรม     เจือกับภาวนายปหา- 
+<span class="LineNumber"> 019 </span>ตัพพธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 020 </span>           คือ  โมหะ  ที่สหรคตด้วยอุทธัจจะ   เจือกับขันธ์ทั้งหลาย  ที่สหรคต
+<span class="LineNumber"> 021 </span>ด้วยอุทธัจจะ.
+<span class="LineNumber"> 022 </span>           [๖๕๖]  ๓.  <B>เนวทัสสเนนนภาวนายปหาตัพพธรรม    เจือกับ
+<span class="LineNumber"> 023 </span>เนวทัสสเนนนภาวนายปหาตัพพธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>

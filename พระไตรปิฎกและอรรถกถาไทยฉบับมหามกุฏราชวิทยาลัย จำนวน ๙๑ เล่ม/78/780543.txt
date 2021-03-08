@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           <B>๑.  สภาวะอย่างใดอย่างหนึ่งอันอาศัยกันเกิดขึ้นเพราะปัจจัย</B> 
+<span class="LineNumber"> 002 </span>           <B>๒.  พระนิพพาน</B>
+<span class="LineNumber"> 003 </span>           <B>๓.  อรรถแห่งภาษิต</B>
+<span class="LineNumber"> 004 </span>           <B>๔.  วิบาก</B>
+<span class="LineNumber"> 005 </span>           <B>๕.  กิริยา</B>
+<span class="LineNumber"> 006 </span>           เมื่อพิจารณาอรรถนั้นอยู่    ญาณอันถึงความรู้แตกฉานในอรรถนั้น ๆ
+<span class="LineNumber"> 007 </span>ชื่อว่า  <B>อัตถปฏิสัมภิทา.</B>
+
+<span class="LineNumber"> 008 </span>                                       <H1>อธิบายคำว่า  ธัมมะ</H1>
+<span class="LineNumber"> 009 </span>           คำว่า   <B>ธมฺม</B>   เมื่อว่าโดยสังเขปแล้ว  ได้แก่  ปัจจัย.  จริงอยู่   เพราะ
+<span class="LineNumber"> 010 </span>ปัจจัยนั้นย่อมจัดแจง   ย่อมให้ธรรมนั้น ๆ  เป็นไปด้วย   ให้ถึงด้วย   ฉะนั้น
+<span class="LineNumber"> 011 </span>พระผู้มีพระภาคเจ้า  จึงตรัสเรียกว่า   <B>ธัมมะ</B>  แต่เมื่อว่าโดยประเภทแล้ว  บัณฑิต 
+<span class="LineNumber"> 012 </span>พึงทราบว่าได้แก่ธรรม ๕ เหล่านี้   คือ
+<span class="LineNumber"> 013 </span>           <B>๑.  เหตุอย่างใดอย่างหนึ่งอันยังผลให้เกิดขึ้น</B>
+<span class="LineNumber"> 014 </span>           <B>๒.  อริยมรรค</B>
+<span class="LineNumber"> 015 </span>           <B>๓.  ภาษิต  (วาจาที่กล่าวแล้ว)</B>
+<span class="LineNumber"> 016 </span>           <B>๔.  กุศล</B>                            
+<span class="LineNumber"> 017 </span>           <B>๕.  อกุศล</B>
+<span class="LineNumber"> 018 </span>           เมื่อพิจารณาธรรมนั้นอยู่     ญาณอันถึงความรู้แตกฉานในธรรมนั้น
+<span class="LineNumber"> 019 </span>ชื่อว่า   <B>ธัมมปฏิสัมภิทา.</B>

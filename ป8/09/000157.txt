@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ชาติธมฺมโต</B>                 โดยเป็นสิ่งมีชาติเป็นธรรมดา  
+<span class="LineNumber"> 002 </span>           <B>ชราธมฺมโต</B>                  โดยเป็นสิ่งมีชราเป็นธรรมดา
+<span class="LineNumber"> 003 </span>           <B>พฺยาธิธมฺมโต</B>               โดยเป็นสิ่งมีพยาธิเป็นธรรมดา
+<span class="LineNumber"> 004 </span>           <B>มรณธมฺมโต</B>                 โดยเป็นสิ่งมีมรณะเป็นธรรมดา
+<span class="LineNumber"> 005 </span>           <B>โสกธมฺมโต</B>                  โดยเป็นสิ่งมีมรณะเป็นธรรมดา
+<span class="LineNumber"> 006 </span>           <B>ปริเทวธมฺมโต</B>              โดยเป็นสิ่งมีโสกะเป็นธรรมดา
+<span class="LineNumber"> 007 </span>           <B>อุปายาสธมฺมโต</B>            โดยเป็นสิ่งมีอุปายาสเป็นธรรมดา
+<span class="LineNumber"> 008 </span>           <B>สงฺกิเลสิกธมฺมโต</B>          โดยเป็นสิ่งมีความเศร้าหมองเป็นธรรมดา
+<span class="LineNumber"> 009 </span>ย่อมเห็นได้โดยเป็นของไม่งาม  อันเป็นบริวารแห่งทุกขลักษณะ
+<span class="LineNumber"> 010 </span>โดยเหตุทั้งหลายเช่นว่า
+<span class="LineNumber"> 011 </span>           <B>อชฺโต</B>                       โดยเป็นสิ่งไม่งาม
+<span class="LineNumber"> 012 </span>           <B>ทุคฺคนฺธโต</B>                      โดยเป็นสิ่งมีกลิ่นเหม็น
+<span class="LineNumber"> 013 </span>           <B>เชคุจฺฉโต</B>                        โดยเป็นสิ่งน่ารังเกียจ
+<span class="LineNumber"> 014 </span>           <B>ปฏิกูลโต</B>                         โดยเป็นสิ่งปฏิกูล
+<span class="LineNumber"> 015 </span>           <B>อมณฺฑนหตโต</B>                โดยเป็นสิ่งมิใช่กำจัด  (ความปฏิกูล)
+<span class="LineNumber"> 016 </span>                                                  ได้ด้วยการตบแต่ง
+<span class="LineNumber"> 017 </span>           <B>วิรูปโต</B>                            โดยเป็นสิ่งน่าเกลียด
+<span class="LineNumber"> 018 </span>           <B>วิภจฺฉโต</B>                          โดยเป็นสิ่งน่าขยะแขยง
+<span class="LineNumber"> 019 </span>ย่อมเห็นได้โดยความอนัตตา     โดยเหตุทั้งหลายเช่นว่า
+<span class="LineNumber"> 020 </span>           <B>ปรโต</B>                               โดยเป็นฝ่ายอื่น
+<span class="LineNumber"> 021 </span>           <B>ริตฺตโต</B>                             โดยเป็นของว่าง
+

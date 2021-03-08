@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิโคฺรธมิคชาตกํ   หน้า 261
+
+<span class="LineNumber"> 002 </span>นกฺขตฺตกีฬาย  วตฺตมานาย  อตฺตโน  สรีรํ  น วิลิมฺปติ  
+<span class="LineNumber"> 003 </span>นาลงฺกโรติ  ปกติเวเสเนว  จรติ ฯ  อถ  นํ  สามิโก  อาห 
+<span class="LineNumber"> 004 </span>ภทฺเท  สกลนครํ  นกฺขตฺตนิสฺสิตํ  ตฺวํ  ปน  สรีรํ  น  ปฏิชคฺคสิ  
+<span class="LineNumber"> 005 </span>อลงฺการํ  น  กโรสิ  กึการณาติ ฯ  สา  อาห  อยฺยปุตฺต 
+<span class="LineNumber"> 006 </span>ทฺวตฺตึสายเมว  กุณเปหิ  ปูริตํ  สรีรํ  กึ  อิมินา  อลงฺกเตน
+<span class="LineNumber"> 007 </span>อยํ  หิ  กาโย เนว เทวตานิมฺมิโต  น  พฺรหฺมนิมฺมิโต  น 
+<span class="LineNumber"> 008 </span>สุวณฺณมโย  น  มณิมโย  น  หริจนฺทนมโย  น  ปุณฺฑรีกกุมุท-
+<span class="LineNumber"> 009 </span>นีลุปฺปลคพฺภสมฺภูโต  คูถปริปุณฺโณ  อสุจิ  น  อมโตสธปริปูริโต  
+<span class="LineNumber"> 010 </span>อถ  โข  กุณเป  ชาโต  มาตาเปติกสมฺภโว  นิจฺจุจฺฉาทน-
+<span class="LineNumber"> 011 </span>ปริมทฺทนเภทนวิทฺธํสนธมฺโม(๑) กฏสิวฑฺฒโน  ตณฺหุปาทินฺโน 
+<span class="LineNumber"> 012 </span>โสกานํ  นิทานํ  ปริเทวานํ  วตฺถุ  สพฺพโรคานํ  อาสโย(๒)
+<span class="LineNumber"> 013 </span>กมฺมกรณานํ  ปฏิคฺคโห  อนฺโตปูติ  พหิ  นิจฺจํ  ปคฺฆรติ  กิมิกุลานํ
+<span class="LineNumber"> 014 </span>อาวาโส  สีวตฺถิกปายาโต(๓) มรณปริโยสาโน สพฺพโลกสฺส 
+<span class="LineNumber"> 015 </span>จกฺขุปเถ ปริวตฺตมาโนปิ  
+<span class="LineNumber"> 016 </span>	อฏฺ€ินหารุสํยุตฺโต		ตจมํสวิเลปโน(๔)  
+<span class="LineNumber"> 017 </span>	ฉวิยา กาโย ปฏิจฺฉนฺโน	ยถาภูตํ น ทิสฺสติ  
+<span class="LineNumber"> 018 </span>	อนฺตปูโร อุทรปูโร		ยกเปฬสฺส วตฺถิโน  
+<span class="LineNumber"> 019 </span>	หทยสฺส ปปฺผาสสฺส		วกฺกสฺส ปิหกสฺส จ  
+<span class="LineNumber"> 020 </span># ๑. ม. อนิจฺจุจฺฉาทน... ฯ  ๒. ม. อาลโย ฯ  ๓. สี. ยุ. สิวถิกปรายโต ฯ
+<span class="LineNumber"> 021 </span># ม. สิวถิกปยาโต ฯ ๔. ม. ตจมํสาวเลปโน ฯ 

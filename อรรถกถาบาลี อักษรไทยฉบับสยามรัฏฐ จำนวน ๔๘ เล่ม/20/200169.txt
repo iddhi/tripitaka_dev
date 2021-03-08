@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ป€มนกุหนสุตฺตวณฺณนา หน้า 169
+
+<span class="LineNumber"> 002 </span>ชาติชราย  เฉตฺวาติ ฯ  อิเธว สมฺโพธิมนุตฺตรํ  ผุเสติ  อิมสฺมึเยว 
+<span class="LineNumber"> 003 </span>อตฺตภาเว  อคฺคมคฺคํ  อรหตฺตํ  วา  ผุเส ปาปุเณยฺย ฯ
+<span class="LineNumber"> 004 </span>		สตฺตมสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+		
+<span class="LineNumber"> 005 </span>		ป€มนกุหนสุตฺตวณฺณนา
+<span class="LineNumber"> 006 </span>	 อฏฺ€เม  นยิทนฺติ  เอตฺถ  นอิติ  ปฏิเสเธ  นิปาโต  ฯ
+<span class="LineNumber"> 007 </span>ตสฺส วุสฺสตีติ  อิมินา  สมฺพนฺโธ  ยกาโร  ปทสนฺธิกโร ฯ 
+<span class="LineNumber"> 008 </span>อิทํสทฺโท  เอกมิทาหํ ภิกฺขเว  สมยํ  อุกฺกฏฺ€ายํ  วิหรามิ 
+<span class="LineNumber"> 009 </span>สุภควเน สาลราชมูเลติ(๑)อาทีสุ นิปาตมตฺตํ ฯ อิทํ  โข  ตํ  ภิกฺขเว
+<span class="LineNumber"> 010 </span>อปฺปมตฺตกํ  โอรมตฺตกํ สีลมตฺตกนฺติ(๒)อาทีสุ  ยถาวุตฺเต อาสนฺน-
+<span class="LineNumber"> 011 </span>ปจฺจกฺเข อาคโต ฯ
+<span class="LineNumber"> 012 </span>		 อิทํ หิ ตํ เชตวนํ  อิสิสํฆนิเสวิตํ
+<span class="LineNumber"> 013 </span>		 อาวุตฺถํ ธมฺมราเชน  ปีติสฺชนนํ มมาติ-
+<span class="LineNumber"> 014 </span>อาทีสุ(๓)  วกฺขมาเน  อาสนฺนปจฺจกฺเข ฯ  อิธาปิ  วกฺขมาเนเยว
+<span class="LineNumber"> 015 </span>อาสนฺนปจฺจกฺเข  ทฏฺ€พฺโพ ฯ
+<span class="LineNumber"> 016 </span>	พฺรหฺมจริยสทฺโท
+<span class="LineNumber"> 017 </span>		กินฺเต วตํ กึ ปน พฺรหฺมจริยํ
+<span class="LineNumber"> 018 </span>		กิสฺส สุจิณฺณสฺส อยํ วิปาโก
+<span class="LineNumber"> 019 </span>		อิทฺธี ชุตี พลวีริยูปปตฺติ
+<span class="LineNumber"> 020 </span># ๑. ม. มู. ๑๒/๕๕๒/๕๙๐ ฯ  ๒. ที. สี. ๙/๒๕/๑๕ ฯ
+<span class="LineNumber"> 021 </span># ๓. สํ. ส. ๑๕/๑๔๗/๔๖ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  46  ธมฺมสงฺคณีวณฺณนา  หน้า  2  
+
+<span class="LineNumber"> 002 </span>		วิสุทฺธาจารสีเลน		นิปุณามลพุทฺธินา  
+<span class="LineNumber"> 003 </span>		ภิกฺขุนา พุทฺธโฆเสน	สกฺกจฺจํ อภิยาจิโต ฯ  
+<span class="LineNumber"> 004 </span>		ยํ เทวเทโว เทวานํ		เทเสตฺวา นยโต ปุน  
+<span class="LineNumber"> 005 </span>		เถรสฺส สาริปุตฺตสฺส		สมาจิกฺขิ วินายโก ฯ  
+<span class="LineNumber"> 006 </span>		อโนตตฺตทเห กตฺวา		อุปฏฺ€านํ มเหสิโน  
+<span class="LineNumber"> 007 </span>		ยฺจ สุตฺวาน โส เถโร	อาหริตฺวา มหีตลํ ฯ  
+<span class="LineNumber"> 008 </span>		ภิกฺขูนํ ปยิรุปาหาสิ (๑)	อิติ ภิกฺขูหิ ธาริโต  
+<span class="LineNumber"> 009 </span>		สงฺคีติกาเล สงฺคีโต		เวเทหมุนินา ปุน ฯ  
+<span class="LineNumber"> 010 </span>		ตสฺส คมฺภีราเณหิ (๒)	โอคาฬฺหสฺส อภิณฺหโส  
+<span class="LineNumber"> 011 </span>		นานานยวิจิตฺตสฺส		อภิธมฺมสฺส อาทิโต ฯ  
+<span class="LineNumber"> 012 </span>		ยา มหากสฺสปาทีหิ		วสีหฏฺ€กถา (๓)  ปุรา  
+<span class="LineNumber"> 013 </span>		สงฺคีตา อนุสงฺคีตา		ปจฺฉาปิ จ อิสีหิ ยา ฯ  
+<span class="LineNumber"> 014 </span>		อาภฏา ปุน (๔)  เถเรน	มหินฺเทเนตมุตฺตมํ  
+<span class="LineNumber"> 015 </span>		ยา ทีปํ ทีปวาสีนํ		ภาสาย อภิสงฺขิตา (๕) ฯ  
+<span class="LineNumber"> 016 </span>		อปเนตฺวา ตโต ภาสํ		ตมฺพปณฺณินิวาสินํ  
+<span class="LineNumber"> 017 </span>		อาโรปยิตฺวา นิทฺโทสํ	ภาสํ ตนฺตินยานุคํ ฯ  
+<span class="LineNumber"> 018 </span>		นิกายนฺตรลทฺธีหิ		อสมฺมิสฺสํ อนากุลํ  
+<span class="LineNumber"> 019 </span>		มหาวิหารวาสีนํ		ทีปยนฺโต วินิจฺฉยํ ฯ  
+<span class="LineNumber"> 020 </span># ๑.  ม. ปยิรุทาหาสิ ฯ   ๒.  สี. คมฺภีรฺาเณน ฯ   
+<span class="LineNumber"> 021 </span># ๓.  ม. วสีหิฏฺ€กถา ฯ  ๔. ม. ปน ฯ   ๕. ม. อภิสงฺขตา ฯ  

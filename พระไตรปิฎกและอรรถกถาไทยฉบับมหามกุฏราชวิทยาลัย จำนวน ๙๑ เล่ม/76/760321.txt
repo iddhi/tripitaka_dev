@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           รูปที่เรียกว่า  <B>เตโชธาตุ</B>  นั้น    เป็นไฉน  ? 
+<span class="LineNumber"> 002 </span>           ความร้อน  ธรรมชาติที่ร้อน  ความอุ่น  ธรรมชาติที่อุ่น  ความอบอุ่น
+<span class="LineNumber"> 003 </span>ธรรมชาติที่อบอุ่น  เป็นภายในหรือภายนอกก็ตาม   เป็นอุปาทินนะหรืออนุปา-
+<span class="LineNumber"> 004 </span>ทินนะก็ตาม  อันใด  รูปทั้งนี้เรียกว่า   เตโชธาตุ.
+<span class="LineNumber"> 005 </span>           รูปที่เรียกว่า  <B>วาโยธาตุ</B>  นั้น  เป็นไฉน  ?
+<span class="LineNumber"> 006 </span>           ความพัดไปมา  ธรรมชาติที่พัดไปมา  ธรรมชาติเครื่องค้ำจุนรูป  เป็น
+<span class="LineNumber"> 007 </span>ภายในหรือภายนอกก็ตาม   เป็นอุปาทินนะหรืออนุปาทินนะก็ตาม   อันใด    รูป
+<span class="LineNumber"> 008 </span>ทั้งนี้เรียกว่า   วาโยธาตุ.
+<span class="LineNumber"> 009 </span>           รูปที่เป็น  <B>อุปาทา</B>  นั้น  เป็นไฉน  ?
+<span class="LineNumber"> 010 </span>           จักขายตนะ  ฯลฯ  กพฬิงการาหาร  รูปทั้งนี้เรียกว่า  รูปที่เป็นอุปาทา.
+<span class="LineNumber"> 011 </span>               	สงเคราะห์รูปเป็นหมวดละ  ๕  อย่างนี้.
+<span class="LineNumber"> 012 </span>                                      <I>ปัญจนิเทศ  จบ</I>
+
+<span class="LineNumber"> 013 </span>                                          <H1>ฉักกนิเทศ</H1>	     	                
+<span class="LineNumber"> 014 </span>           [๖๕๗]  รูปอันจักขุวิญญาณพึงรู้  คือ  รูปายตนะ    
+<span class="LineNumber"> 015 </span>           รูปอันโสตวิญญาณพึงรู้  คือ  สัททายตนะ
+<span class="LineNumber"> 016 </span>           รูปอันฆานวิญญาณพึงรู้   คือ  คันธายตนะ
+<span class="LineNumber"> 017 </span>           รูปอันชิวหาวิญญาณพึงรู้  คือ  รสายตนะ
+<span class="LineNumber"> 018 </span>           รูปอันกายวิญญาณพึงรู้   คือ  โผฏฐัพพายตนะ
+<span class="LineNumber"> 019 </span>           รูปอันมโนวิญญาณพึงรู้  คือ   รูปทั้งหมด
+<span class="LineNumber"> 020 </span>           สงเคราะห์รูปเป็นหมวดละ  ๖ อย่างนี้.
+<span class="LineNumber"> 021 </span>                                        <I>ฉักกนิเทศ  จบ</I>

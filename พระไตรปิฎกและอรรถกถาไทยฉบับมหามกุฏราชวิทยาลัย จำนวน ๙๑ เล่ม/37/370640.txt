@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                      <H1>อรรถกถาปฏิปทาสูตรที่  ๓</H1>
+<span class="LineNumber"> 002 </span>         <B>ตติยปฏิปทาสูตรที่  ๓</B>  มีวินิจฉัยดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>         บทว่า  <B>ภาเวถ   โน</B>  แก้เป็น   <B>ภาเวถ  นุ</B>  แปลว่า  ท่านจงเจริญ
+<span class="LineNumber"> 004 </span>มรณัสสติสิหนอ.   บทว่า   <B>สาสนํ</B>   ได้แก่   การพร่ำสอน.    บทว่า
+<span class="LineNumber"> 005 </span><B>อาสวานํ  ขยาย</B>   ได้แก่   เพื่อพระอรหัตผล.
+<span class="LineNumber"> 006 </span>                            <I>จบ  อรรถกถาตติยปฏิปทาสูตรที่  ๓</I>

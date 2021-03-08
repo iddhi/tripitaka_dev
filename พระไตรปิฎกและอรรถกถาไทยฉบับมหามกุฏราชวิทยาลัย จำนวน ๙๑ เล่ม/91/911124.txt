@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๔๓๕]  ในเหตุปัจจัย มี ๑ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                  <H2>อนิทัสสนสัปปฏิฆบท</H2>
+<span class="LineNumber"> 004 </span>           [๔๓๖] ๑.  <B>อนิทัสสนสัปปฏิฆธรรม     ที่เป็นสัปปัจจยธรรม
+<span class="LineNumber"> 005 </span>อาศัยธรรมที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม    ที่ไม่ใช่อัปปัจจยธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 007 </span>                            <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๔๓๗]  ในเหตุปัจจัย มี  ๑ วาระ  ฯลฯ
+<span class="LineNumber"> 009 </span>           แม้ในน<B>อัปปัจจยนอนิทัสสนอัปปฏิฆมูล</B>  ก็มี  ๑ วาระ  เหมือนกัน.
+<span class="LineNumber"> 010 </span>           <B>นสังขตทุกะที่</B>  ๘  ก็เหมือนกับนสัปปัจจยทุกะ.
+<span class="LineNumber"> 011 </span>            <I>นสัปปัจจยทุกนสนิทัสสนติกสัปปัจจยทุกสนิทัสสนติกะ  จบ</I>

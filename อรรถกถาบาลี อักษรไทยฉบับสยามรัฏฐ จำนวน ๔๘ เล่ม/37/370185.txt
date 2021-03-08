@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 185
+
+<span class="LineNumber"> 002 </span>	กสฺสปสฺส วโจ สุตฺวา	อลาตสฺส จ ภาสิตํ  
+<span class="LineNumber"> 003 </span>	อสฺสสนฺโต  มหุํ(๑) อุณฺหํ	รุทํ อสฺสูนิ วตฺตยีติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  อเถตฺถาติ  อถ  เอติสฺสํ(๒)  มิถิลายํ ฯ  ปฏจฺฉรีติ(๓)  ทลิทฺโท  
+<span class="LineNumber"> 005 </span>กปโณ (๔)ฯ  คุณสนฺติกมุปาคมีติ  คุณสฺส  สนฺติกํ  อุปาคมิ ฯ
+<span class="LineNumber"> 006 </span>กิฺจิเทว  การณํ โสสฺสามีติ อุปคโตติ เวทิตพฺโพ ฯ  
+<span class="LineNumber"> 007 </span>	[๘๔๙]ตมนุปุจฺฉิ เวเทโห		กิมตฺถํ สมฺม โรทสิ  
+<span class="LineNumber"> 008 </span>		กินฺเต(๕) สุตํ วา ทิฏฺ€ํ วา  กึ มํ เวเทสิ เวทนนฺติ ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  กึ  มํ  เวเทสิ  เวทนนฺติ  กินฺนาม(๖)  ตฺวํ กายิกํ วา
+<span class="LineNumber"> 010 </span>เจตสิกํ  วา  เวทนํ  ปตฺโต  ยํ  เอวํ โรทนฺโต มํ เวเทสิ ชานาเปสิ 
+<span class="LineNumber"> 011 </span>อุตฺตานเมว  นํ กตฺวา มยฺหํ อาจิกฺขาหีติ ฯ  
+<span class="LineNumber"> 012 </span>	[๘๕๐]เวเทหสฺส วโจ สุตฺวา	วีชโก(๗) เอตทพฺรวิ  
+<span class="LineNumber"> 013 </span>		นตฺถิ เม เวทนา ทุกฺขา	มหาราช สุโณหิ เม  
+<span class="LineNumber"> 014 </span>		อหํปิ(๘) ปุริมํ ชาตึ	สรามิ สุขมตฺตโน  
+<span class="LineNumber"> 015 </span>		สาเกตาหํ ปุเร อาสึ	ภาวเสฏฺ€ึ คุเณรโต  
+<span class="LineNumber"> 016 </span>		สมฺมโต พฺราหฺมณิพฺภานํ	สํวิภาครโต สุจิ  
+<span class="LineNumber"> 017 </span>		น จาหํ(๙) ปาปกํ กมฺมํ	สรามิ กตมตฺตโน  
+<span class="LineNumber"> 018 </span>		ตโต จุตาหํ เวเทห		อิธ ชาโต ทุริตฺถิยา  
+<span class="LineNumber"> 019 </span>		คพฺภมฺหิ กุมฺภทาสิยา	ยโต ชาโต สุทุคฺคโต  
+<span class="LineNumber"> 020 </span># ๑. ม. มุหุํ ฯ  ๒. ม. เอตฺถ ฯ  ๓. ม. ปฏจฺจรีติ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. กปโณ อโหสิ ฯ  ๕. ม. กึ เต ฯ ๖. ม. กึ นาม ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. อหมฺปิ ฯ ๙. ม. จาปิ ฯ 

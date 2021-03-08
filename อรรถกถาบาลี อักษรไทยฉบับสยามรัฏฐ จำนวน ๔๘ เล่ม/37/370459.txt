@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 459
+
+<span class="LineNumber"> 002 </span>		สิวีหิ ภณฺฑนฺจาปิ	วิคฺคโห เม น รุจฺจติโ  
+<span class="LineNumber"> 003 </span>		อถสฺส ภณฺฑนํ โฆรํ	สมฺปหาโร อนปฺปโก  
+<span class="LineNumber"> 004 </span>		เอกสฺส การณา มยฺหํ	หึเสยฺย พหุโก ชโน  
+<span class="LineNumber"> 005 </span>		ปฏิคฺคหิตํ ยํ ทินฺนํ		สพฺพสฺส อคฺฆิยํ กตํ  
+<span class="LineNumber"> 006 </span>		อวรุทฺธสิ มํ ราชา		วงฺกํ คจฺฉามิ ปพฺพตํ  
+<span class="LineNumber"> 007 </span>		โอกาสํ สมฺมา ชานาถ	วเน ยตฺถ วเสมฺหเสติ(๑) ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  เจตา  รชฺเขภิเสจยุนฺติ  เจตรฏฺ€วาสิโน  กิร  เวสฺสนฺตรํ  
+<span class="LineNumber"> 009 </span>รชฺเช  อภิเสจยุนฺติ (๒) ตุมฺหากํปิ  เต  อตุฏฺ€า  อสฺสุ (๓)ฯ  อสมฺโมทิยนฺติ  
+<span class="LineNumber"> 010 </span>อสามคฺคิยํ ฯ  อสฺสาติ  ภเวยฺย  ภวิสฺสตีตฺยตฺโถ ฯ  อถสฺสาติ  อถ  
+<span class="LineNumber"> 011 </span>มยฺหํ เอกสฺส การณา ตุมฺหากํ ภณฺฑนํ ภวิสฺสตีติ ฯ  
+<span class="LineNumber"> 012 </span>	เอวฺจ(๔)  ปน  วตฺวา  มหาสตฺโต  อเนกปริยาเยน  ยาจิโตปิ  
+<span class="LineNumber"> 013 </span>รชฺชํ  น  อิจฺฉิ ฯ  อถสฺส  เต  เจตราชาโน  มหนฺตํ  สกฺการํ 
+<span class="LineNumber"> 014 </span>กรึสุ ฯ  โส  อนฺโตนครํ (๕) ปวิสิตุํ  น  อิจฺฉติ (๖)ฯ  อถ  นํ  สาลเมว 
+<span class="LineNumber"> 015 </span>อลงฺกริตฺวา  สาณิยา  ปริกฺเขปํ  กตฺวา  มหาสยนํ  ปฺาเปตฺวา
+<span class="LineNumber"> 016 </span>สพฺเพ  ราชาโน  อารกฺขํ  กตฺวา  ปริวารยึสุ (๗)ฯ  โส เอกรตฺตํ(๘) 
+<span class="LineNumber"> 017 </span>วสิตฺวา เตหิ สํคหิตารกฺโข  สาลายํ  สยิตฺวา  ปุน  ทิวเส  
+<span class="LineNumber"> 018 </span>ปาโตว  นหาตฺวา  นานคฺครสโภชนํ  ภุฺชิตฺวา  เตหิ  ราชูหิ 
+<span class="LineNumber"> 019 </span>ปริวุโต  สาลาโต  นิกฺขมิ ฯ  เต  สฏฺ€ีสหสฺสา  ขตฺติยา  เตน  
+<span class="LineNumber"> 020 </span># ๑. ม. วสามเสติ ฯ  ๒. ม. อภิสิฺจึสูติ ฯ  ๓. ม. อาสุํ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. เอวํ ฯ  ๕. ม. นครํ ฯ  ๖. ม. อิจฺฉิ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. กรึสุ ฯ  ๘. ม. เอกรตฺตึ ฯ 

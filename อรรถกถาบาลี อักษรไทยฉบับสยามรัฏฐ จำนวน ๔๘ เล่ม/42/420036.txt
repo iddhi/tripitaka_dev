@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  36
+
+<span class="LineNumber"> 002 </span>	สพฺเพ เทวา ปทิสฺสนฺติ  €ปยิตฺวา อรูปิโน  
+<span class="LineNumber"> 003 </span>	เตปชฺช สพฺเพ ทิสฺสนฺติ  ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 004 </span>	ยาวตา นิรยา นาม   สพฺเพ ทิสฺสนฺติ ตาวเท  
+<span class="LineNumber"> 005 </span>	เตปชฺช สพฺเพ ทิสฺสนฺติ  ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 006 </span>	กุฏฺฏา กวาฏา เสลา จ  น โหนฺตาวรณา ตทา  
+<span class="LineNumber"> 007 </span>	อากาสภูตา เตปชฺช   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 008 </span>	จุตี จ อุปปตฺติ จ    ขเณ ตสฺมึ น วิชฺชติ  
+<span class="LineNumber"> 009 </span>	ตานิปชฺช ปทิสฺสนฺติ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 010 </span>	ทฬฺหํ ปคฺคณฺห วีริยํ   มา นิวตฺต อภิกฺกม  
+<span class="LineNumber"> 011 </span>	มยมฺเปตํ วิชานาม   ธุวํ พุทฺโธ ภวิสฺสสีติ ฯ(๑)  
+<span class="LineNumber"> 012 </span>	โพธิสตฺโต  ทีปงฺกรทสพลสฺส  จ  ทสสหสฺสจกฺกวาฬเทวตา-
+<span class="LineNumber"> 013 </span>นฺจ  วจนํ  สุตฺวา  ภิยฺโยโส  มตฺตาย  สฺชาตุสฺสาโห  หุตฺวา  
+<span class="LineNumber"> 014 </span>จินฺเตสิ  พุทฺธา  นาม  อโมฆวจนา  นตฺถิ  พุทฺธานํ  กถาย  
+<span class="LineNumber"> 015 </span>อฺถตฺตํ ฯ  ยถา  หิ  อากาเส  ขิตฺตเลฑฺฑุสฺส  ปตนํ  ธุวํ  
+<span class="LineNumber"> 016 </span>ชาตสฺส  มรณํ  รตฺติกฺขเย  สูริยุคฺคมนํ(๒) อาสยา  นิกฺขนฺตสีหสฺส  
+<span class="LineNumber"> 017 </span>สีหนาทนทนํ  ครุคพฺภาย  อิตฺถิยา  ภารโมโรปนํ ธุวํ อวสฺสมฺภาวี  
+<span class="LineNumber"> 018 </span>เอวเมว  พุทฺธานํ  วจนํ  นาม  ธุวํ  อโมฆํ  อทฺธา  อหํ  พุทฺโธ  
+<span class="LineNumber"> 019 </span>ภวิสฺสามีติ ฯ  เตน วุตฺตํ  
+<span class="LineNumber"> 020 </span>	พุทฺธสฺส วจนํ สุตฺวา   ทสสหสฺสีน จูภยํ  
+<span class="LineNumber"> 021 </span>	ตุฏฺ€หฏฺโ€ ปโมทิโต   เอวํ จินฺเตสหํ ตทา ฯ  
+<span class="LineNumber"> 022 </span># ๑ ขุ. พุทฺธ. ๓๓/๒/๔๒๓-๗ ฯ  
+<span class="LineNumber"> 023 </span># ๒ สี. ม. อรุเณ อุคฺคเต สูริยสฺสุฏฺ€านํ ฯ  

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>สนิทัสสนติกอัชฌัตติกทุกะ</H1>   
+<span class="LineNumber"> 002 </span>                      <H1>นสนิทัสสนติกนอัชฌัตติกทุกะ</H1>	
+<span class="LineNumber"> 003 </span>      <H2>(๒๒.  สนิทัสสนติกะ  ๖๖. อัชฌัตติกทุกะ)</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                 <H2>อัชฌัตติกบท</H2>		
+<span class="LineNumber"> 008 </span>           [๖๒๗] ๑.  <B>ธรรมที่ไม่ใช่อัชฌัตติกธรรม  ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 009 </span>อัปปฏิฆธรรม   อาศัยอัชฌัตติกธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อัชฌัตติกธรรม  ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 012 </span>สัปปฏิฆธรรม  อาศัยอัขฌัตติกธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 013 </span>เกิดขึ้น  เพราะเหตุปัจจัย   ฯลฯ</B> 
+<span class="LineNumber"> 014 </span>                       ๖.  <B>ธรรมที่ไม่ใช่อัชฌัตติกธรรม  ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 015 </span>สัปปฏิฆธรรม  และธรรมที่ไม่ใช่อัชฌัตติกธรรม  ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 016 </span>สัปปฏิฆธรรม  อาศัยอัชฌัตติกธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 017 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>

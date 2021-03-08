@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  268
+	
+<span class="LineNumber"> 002 </span>จ  สมเย  สตฺถา  กปิลวตฺถุํ  คนฺตฺวา  นิโคฺรธาราเม วสนฺโต 
+<span class="LineNumber"> 003 </span>ยมกปาฏิหาริยํ  ทสฺเสตฺวา  สุทฺโธทนปฺปมุเข  สกฺยราชาโน
+<span class="LineNumber"> 004 </span>ทเมสิ ฯ  ตทา  เตปิ  จตฺตาโร  มลฺลราชปุตฺตา  ปาฏิหาริยํ  
+<span class="LineNumber"> 005 </span>ทิสฺวา  ลทฺธปฺปสาทา  ปพฺพชิตฺวา วิปสฺสนากมฺมํ  กโรนฺตา
+<span class="LineNumber"> 006 </span>น  จิรสฺเสว  สห  ปฏิสมฺภิทาหิ  อรหตฺตํ  ปาปุณึสุ ฯ  เตน 
+<span class="LineNumber"> 007 </span>วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 008 </span>		สุวณฺณวณฺณํ สมฺพุทฺธํ	อาหุตีนํ ปฏิคฺคหํ  
+<span class="LineNumber"> 009 </span>		ปวรา(๒) อภินิกฺขนฺตํ	วนา นิพฺพนมาคตํ ฯ (๓)  
+<span class="LineNumber"> 010 </span>		กฏจฺฉุภิกฺขํ ปาทาสึ	สิทฺธตฺถสฺส มเหสิโน  
+<span class="LineNumber"> 011 </span>		ปฺาย(๔) อุปสนฺตสฺส	มหาวีรสฺส ตาทิโน ฯ  
+<span class="LineNumber"> 012 </span>		ปเทนานุปทายนฺตํ(๕)	นิพฺพาเปนฺเต(๖) มหาชนํ  
+<span class="LineNumber"> 013 </span>		อุฬารา วิตฺติ เม ชาตา	พุทฺเธ อาทิจฺจพนฺธุเน(๗) ฯ  
+<span class="LineNumber"> 014 </span>		จตุนฺนวุติโต กปฺเป	ยํ ทานมททึ ตทา  
+<span class="LineNumber"> 015 </span>		ทุคฺคตึ นาภิชานามิ	ภิกฺขาทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 016 </span>		สตฺตาสีติมฺหิโต กปฺเป	มหาเรณุสนามกา  
+<span class="LineNumber"> 017 </span>		สตฺตรตนสมฺปนฺนา	สตฺเตเต จกฺกวตฺติโน ฯ  
+<span class="LineNumber"> 018 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 019 </span>				โคธิโก เถโร ฯ  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๒/๑๐๓/๒๐๐ ฯ  ๒. สฺยา. ปวนา ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. วานา นิพฺพานมาคตํ ฯ   ๔. สฺยา. ปฺสฺส ฯ 
+<span class="LineNumber"> 022 </span># ๕. สฺยา. ...ปทายนฺโต ฯ  ๖. สฺยา. นิพฺพาเปนฺตํ ฯ 
+<span class="LineNumber"> 023 </span># ๗. สฺยา. วิตฺติ เม ปาหุนา ตาว พุทฺธสฺสาทิจฺจพนฺธุโน ฯ 

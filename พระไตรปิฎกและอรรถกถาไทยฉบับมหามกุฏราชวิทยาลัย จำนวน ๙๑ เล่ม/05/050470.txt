@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>          ที่ชื่อว่า  <B>ร่ม</B>  มี ๓ ชนิด   คือ ร่มผ้าขาว ๑  ร่มลำแพน  ๑ ร่มใบไม้  ๑
+<span class="LineNumber"> 002 </span>ที่เขาเย็บเป็นวงกลม.
+<span class="LineNumber"> 003 </span>          บทว่า  <B>ใช้</B>  คือ  ใช้แม้ครั้งเดียว  ก็ต้องอาบัติปาจิตตีย์.        
+                                 
+<span class="LineNumber"> 004 </span>		                     <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 005 </span>                                   <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 006 </span>           [๔๔๗]  ภิกษุณีมิใช่ผู้อาพาธ     สำคัญว่ามิใช่ผู้อาพาธ     ใช้ร่มและ
+<span class="LineNumber"> 007 </span>รองเท้าต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 008 </span>           ภิกษุณีมิใช่ผู้อาพาธ   มีความสงสัย    ใช้ร่มและรองเท้า    ต้องอาบัติ
+<span class="LineNumber"> 009 </span>ปาจิตตีย์.                      
+<span class="LineNumber"> 010 </span>           ภิกษุณีมิใช่ผู้อาพาธ   สำคัญว่าอาพาธ   ใช้ร่มและรองเท้า    ต้องอาบัติ
+<span class="LineNumber"> 011 </span>ปาจิตตีย์.
+
+<span class="LineNumber"> 012 </span>                                    <H2>จตุกะทุกกฏ</H2>
+<span class="LineNumber"> 013 </span>           ภิกษุณีใช้ร่ม  ไม่ใช้รองเท้า   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 014 </span>           ภิกษุณีใช้รองเท้า   ไม่ใช้ร่ม   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 015 </span>           ภิกษุณีผู้อาพาธ  สำคัญว่ามิได้อาพาธ    ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 016 </span>           ภิกษุณีผู้อาพาธ  มีความสงสัย    ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 017 </span>                                  <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 018 </span>          ภิกษุณีผู้อาพาธ   สำคัญว่าอาพาธ  ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 019 </span>                                 <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 020 </span>            [๔๔๘]   อาพาธ ๑ ใช้ร่มอยู่ในอาราม  ในอุปจารแห่งอาราม ๑ มีเหตุ
+<span class="LineNumber"> 021 </span>จำเป็น ๑  วิกลจริต   ๑  อาทิกัมมิกา ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 022 </span>                  <I>ฉัตตุปาหนวรรค  สิกขาบทที่  ๑  จบ</I>

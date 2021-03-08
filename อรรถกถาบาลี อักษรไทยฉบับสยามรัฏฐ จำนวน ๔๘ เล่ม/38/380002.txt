@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  38 ํํ อารมฺภกถา  หน้า  2
+
+<span class="LineNumber"> 002 </span>			ตํ สาริปุตฺตํ ชินราชปุตฺตํ  
+<span class="LineNumber"> 003 </span>			เถรํ ถิราเนกคุณาภิรามํ (๑)  
+<span class="LineNumber"> 004 </span>			ปฺาสภาวุตฺตมคุณกิตฺตึ (๒)  
+<span class="LineNumber"> 005 </span>			สุนีจวุตฺติฺจ อโถ นมิตฺวา ฯ  
+<span class="LineNumber"> 006 </span>	ขมาทยาทิยุตฺเตน  		ยุตฺตมุตฺตาทิวาทินา  
+<span class="LineNumber"> 007 </span>	พหุสฺสุเตน เถเรน  		เทเวน อภิยาจิโต ฯ  
+<span class="LineNumber"> 008 </span>	มหาวิหารวาสีนํ  		สชฺฌายมฺหิ ปติฏฺ€ิโต  
+<span class="LineNumber"> 009 </span>	คเหตพฺพํ คเหตฺวาน  	โปราเณสุ วินิจฺฉยํ ฯ  
+<span class="LineNumber"> 010 </span>			อโวกฺกมนฺโต (๓) สมยํ สกฺจ  
+<span class="LineNumber"> 011 </span>			อนามสนฺโต สมยํ ปรฺจ  
+<span class="LineNumber"> 012 </span>			ปุพฺพาปเรปฏฺ€กถานยฺจ (๔)  
+<span class="LineNumber"> 013 </span>			ยถานุรูปํ อุปสํหรนฺโต ฯ  
+<span class="LineNumber"> 014 </span>			าณปฺปเภทาวหนสฺส ตสฺส  
+<span class="LineNumber"> 015 </span>			โยคีหิเนเกหิ นิเสวิตสฺส  
+<span class="LineNumber"> 016 </span>			อตฺถํ อปุพฺพํ อนุวณฺณยนฺโต  
+<span class="LineNumber"> 017 </span>			สุตฺตฺจ ยุตฺติฺจ อนุกฺกเมนฺโต ฯ (๕)  
+<span class="LineNumber"> 018 </span>	อารภิสฺสํ สมาเสน  มหานิทฺเทสวณฺณนํ  
+<span class="LineNumber"> 019 </span>	สทฺธมฺมพหุมาเนน  นาตฺตุกฺกํสนกมฺยตา ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ธิราเนกคุณาธิวาสํ ฯ  ๒. สี. ปฺาสภาวุคฺคตนามกิตฺตึ ฯ
+<span class="LineNumber"> 021 </span>ม. ปฺาปภาวุคฺคตจารุกิตฺตึ ฯ  ๓. ม. อโวกฺกเมนฺโต ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. ปุพฺโพปเทสฏฺ€กถานยฺจ ฯ  ๕. ม. อนุกฺกเมนฺโต ฯ

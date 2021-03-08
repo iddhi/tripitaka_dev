@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   เวทนาขันธ์กำลังเกิดแก่บุคคลใดในภูมิใด     รูปขันธ์
+<span class="LineNumber"> 002 </span>ก็กำลังเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         บุคคลเหล่านั้นกำลังเกิดในอรูปภูมิ       เวทนาขันธ์กำลังเกิดแก่
+<span class="LineNumber"> 004 </span>บุคคลเหล่านั้นในภูมินั้น    แต่รูปขันธ์ไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น,
+<span class="LineNumber"> 005 </span>บุคคลเหล่านั้นกำลังเกิดในปัญจโวการภูมิ   เวทนาขันธ์กำลังเกิด    และ
+<span class="LineNumber"> 006 </span>รูปขันธ์ก็กำลังเกิดแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 007 </span>                          <I>จบ  รูปขันธมูละ  เวทนาขันธมูลี</I>
+<span class="LineNumber"> 008 </span>                                      <I>รูปขันธ์มูล<SUP>๑</SUP>  จบ</I>
+<span class="LineNumber"> 009 </span>                                  <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 010 </span>                            <I>ปัจจุปันนวาระ   อนุโลม  จบ</I>
+
+<span class='footnote'>๑.  ใช้เชิงอรรถในหน้า   ๑๒๒</span>

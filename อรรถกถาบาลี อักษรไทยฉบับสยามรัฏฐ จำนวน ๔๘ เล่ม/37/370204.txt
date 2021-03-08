@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  204
+
+<span class="LineNumber"> 002 </span>วายนฺติ ฯ  ตครฺจาติ  ตครฺจ  อฺฺจ คนฺธสมฺปนฺนํ  
+<span class="LineNumber"> 003 </span>คนฺธชาตํ  ปลิเว€นานิ  ปณฺณานิ  สุคนฺธานิ  โหนฺติ ฯ  เอวนฺติ เอวเมว(๑)
+<span class="LineNumber"> 004 </span>ธีรูปเสวนา ฯ  ธีโร  หิ  อตฺตานํ  เสวมานํ  ธีรเมว  กโรติ ฯ 
+<span class="LineNumber"> 005 </span>	ตสฺมา  ปตฺตปุฏสฺเสวาติ  ยสฺมา  ตคราทิปลิเว€ิตานิ(๒)  
+<span class="LineNumber"> 006 </span>ปณฺณานิ  สุคนฺธานิ  โหนฺติ  ตสฺมา  ปลาสปตฺตปุฏสฺเสว  
+<span class="LineNumber"> 007 </span>ปณฺฑิตุปเสวเนน อหํปิ  ปณฺฑิโต  ภวิสฺสามีติ  เอวํ  ตฺวา ฯ  
+<span class="LineNumber"> 008 </span>สมฺปากมตฺตโนติ  อตฺตโน  ปริปากํ ปริณามํ  ปณฺฑิตภาวํ  
+<span class="LineNumber"> 009 </span>ตฺวา  อสนฺเต  ปหาย  ปณฺฑิเต  สนฺเต อุปเสเวยฺย(๓)ฯ นิรยํ  
+<span class="LineNumber"> 010 </span>เนนฺตีติ  เอตฺถ  เทวทตฺตาทีหิ  นิรยํ  สาริปุตฺตตฺเถราทีหิ  จ
+<span class="LineNumber"> 011 </span>สุคตินฺติ  นิทานวเสน อุทาหรณานิ อาหริตพฺพานีติ (๔)ฯ  
+<span class="LineNumber"> 012 </span>	เอวํ  ราชธีตา  ฉหิ  คาถาหิ  ปิตุ  ธมฺมํ  กเถตฺวา  อิทานิ  
+<span class="LineNumber"> 013 </span>อตีเต อตฺตนา อนุภูตํ ทุกฺขํ ทสฺเสนฺตี อาห  
+<span class="LineNumber"> 014 </span>	[๘๖๓]อหมฺปิ ชาติโย สตฺต	สเร สํสริตตฺตโน  
+<span class="LineNumber"> 015 </span>		อนาคเตปิ สตฺเตว		ยา คมิสฺสํ อิโต จุตา  
+<span class="LineNumber"> 016 </span>		ยา เม สา สตฺตมี ชาติ	อหุ ปุพฺเพ ชานาธิป  
+<span class="LineNumber"> 017 </span>		กมฺมารปุตฺโต มคเธสุ	อหุ(๕) ราชคเห ปุเร  
+<span class="LineNumber"> 018 </span>		ปาปํ สหายํ อาคมฺม(๖)	พหุ(๗) ปาปํ กตํ มยา  
+<span class="LineNumber"> 019 </span>		ปรทารสฺส เหเ€นฺตา	จริมฺหา  อมรา วิย  
+<span class="LineNumber"> 020 </span># ๑. ม. เอวรูปา ฯ  ๒. ม. ตคราทิปลิเวธมานานิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. เสเวยฺย ฯ ๔. ม. เอตฺถ สาริปุตฺตตฺเถราทีหิ สุคตึ นีตานํ 
+<span class="LineNumber"> 022 </span># วเสน อุทาหรณานิ อาหริตพฺพานิ ฯ ๕. ม. อหุํ ฯ
+<span class="LineNumber"> 023 </span># ๖. ส. ม. สหายมาคมฺม ฯ ๗. ม. พหุํ ฯ 

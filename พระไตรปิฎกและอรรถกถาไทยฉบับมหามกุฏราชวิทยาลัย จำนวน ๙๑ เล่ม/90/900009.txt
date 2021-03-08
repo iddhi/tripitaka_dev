@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                	๒.  กุศลธรรมที่ไม่ใช่เหตุ  เป็นปัจจัยแก่กุศลธรรมที่เป็น
+<span class="LineNumber"> 002 </span>เหตุ  ด้วยอำนาจของกัมมปัจจัย  
+<span class="LineNumber"> 003 </span>                	๓.  กุศลธรรมที่ไม่ใช่เหตุ เป็นปัจจัยแก่กุศลธรรมที่เป็น
+<span class="LineNumber"> 004 </span>เหตุ  และกุศลธรรมที่ไม่ใช่เหตุ  ด้วยอำนาจของกัมมปัจจัย
+<span class="LineNumber"> 005 </span>                           	<H1>๑๒.  อาหารปัจจัย</H1>
+<span class="LineNumber"> 006 </span>		[๑๘]  ๑.  กุศลธรรมที่ไม่ใช่เหตุ    เป็นปัจจัยแก่กุศลธรรมที่
+<span class="LineNumber"> 007 </span>ไม่ใช่เหตุ  ด้วยอำนาจของอาหารปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                            	<H1>๑๓.  อินทริยปัจจัย</H1>
+<span class="LineNumber"> 009 </span>		[๑๙]  ๑.  กุศลธรรมที่เป็นเหตุ  เป็นปัจจัยแก่กุศลธรรมที่เป็น
+<span class="LineNumber"> 010 </span>เหตุ  ด้วยอำนาจของอินทริยปัจจัย   มี ๙ วาระ.
+<span class="LineNumber"> 011 </span>                      		<H1>๑๔.  ฌานปัจจัย</H1>
+<span class="LineNumber"> 012 </span>		[๒๐]  ๑.  กุศลธรรมที่ไม่ใช่เหตุ    เป็นปัจจัยแก่กุศลธรรมที่
+<span class="LineNumber"> 013 </span>ไม่ใช่เหตุ  ด้วยอำนาจของฌานปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>					<H1>๑๕.  มัคคปัจจัย</H1>	
+<span class="LineNumber"> 015 </span>		[๒๑]  ๑.  กุศลธรรมที่เป็นเหตุ  เป็นปัจจัยแก่กุศลธรรมที่เป็น
+<span class="LineNumber"> 016 </span>เหตุ   ด้วยอำนาจของมัคคปัจจัย  มี ๙ วาระ.

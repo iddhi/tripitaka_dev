@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>สหชาตวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                          <H1>เหตุปัจจัย</H1> 
+<span class="LineNumber"> 004 </span>           [๖๐๖]  <B>ทัสสเนนปหาตัพพธรรม   เกิดร่วมกับทัสสเนนปหา-
+<span class="LineNumber"> 005 </span>ตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓ เกิดร่วมกับขันธ์ ๑ ที่เป็นทัสสเนนปหาตัพพธรรม  ฯลฯ
+<span class="LineNumber"> 007 </span>เกิดร่วมกับขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 008 </span>           สหชาตวาระ  เหมือนกับปฏิจจวาระ.
+<span class="LineNumber"> 009 </span>                                        <I>สหชาตวาระ  จบ</I>

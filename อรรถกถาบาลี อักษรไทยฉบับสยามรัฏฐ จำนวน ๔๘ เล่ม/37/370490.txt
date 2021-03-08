@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  490
+
+<span class="LineNumber"> 002 </span>		อทิฏฺ€ปุพฺโพ สิวิราชา	สิวีหิ วิปฺปวาสิโต  
+<span class="LineNumber"> 003 </span>		ตมหํ ทสฺสนมาคโต	ยทิ ชานาสิ สํส เมติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ(๑)  ชานาสิ  สํส  เมติ  อิทํ  วุตฺตํ  โหติ  อหํ โภโต(๒)
+<span class="LineNumber"> 005 </span>อกุทฺธรูโป  อสฺมิ (๓) เอตฺตาวตา  อหํ  ปน  น  กิฺจิ  วสฺสนฺตรํ 
+<span class="LineNumber"> 006 </span>ยาจิตุํ  อาคโต(๔)  อปิจ  อริยานํ  ทสฺสนํ  สาธุ  สนฺนิวาโส  จ  
+<span class="LineNumber"> 007 </span>เตหิ  สทฺธึ  สุโข ฯ อหํ  ตสฺส  อาจริยพฺราหฺมโณ  มยา  จ  โข(๕) 
+<span class="LineNumber"> 008 </span>ยโต  สิวีหิ  วิปฺปวาสิโต  ตโต  ปฏฺ€าย  อทิฏฺ€ปุพฺโพ  เตนาหํ  ตํ  
+<span class="LineNumber"> 009 </span>ทสฺสนาย (๖) อาคโต  ยทิ  ตสฺส  วสนฏฺ€านํ ชนาสิ สํส เมติ ฯ  
+<span class="LineNumber"> 010 </span>	โส  ตสฺส  วจนํ  สุตฺวา  สทฺทหิตฺวา  โหตุ  เสฺว  ตํ 
+<span class="LineNumber"> 011 </span>ทสฺสิสฺสามิ (๗)  เต  อชฺช  ตาว  อิเธว  วสาหีติ  ตํ  ผลาผเลหิ 
+<span class="LineNumber"> 012 </span>สนฺตปฺเปตฺวา  ปุน  ทิวเส มคฺคํ ทสฺเสนฺโต ทกฺขิณหตฺถํ 
+<span class="LineNumber"> 013 </span>ปสาเรตฺวา อาห  
+<span class="LineNumber"> 014 </span>	[๑๑๔๙]เอส เสโล มหาพฺรหฺเม  ปพฺพโต คนฺธมาทโน  
+<span class="LineNumber"> 015 </span>		ยตฺถ เวสฺสนฺตโร ราชา	สห ปุตฺเตหิ สมฺมติ  
+<span class="LineNumber"> 016 </span>		ธาเรนฺโต พฺราหฺมณวณฺณํ  อาสทฺจ มสฺชตํ  
+<span class="LineNumber"> 017 </span>		จมฺมวาสี ฉมา เสติ	ชาตเวทํ น มสฺสติ  
+<span class="LineNumber"> 018 </span>		เอเต นีลา ปทิสฺสนฺติ	นานาผลธรา ทุมา  
+<span class="LineNumber"> 019 </span>		อุคฺคตา อพฺภกูฏาว	นีลา อฺชนปพฺพตา  
+<span class="LineNumber"> 020 </span># ๑. ม. ตสฺสตฺโถ ฯ  ๒. ม. โภ ตาปส ฯ  ๓. ม. อลํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. ยาจิตุมาคโต ฯ  ๕. ม. โส ฯ  ๖. ม. ทสฺสนตฺถาย ฯ
+<span class="LineNumber"> 022 </span># ๗. ม. สํสิสฺสามิ ฯ 

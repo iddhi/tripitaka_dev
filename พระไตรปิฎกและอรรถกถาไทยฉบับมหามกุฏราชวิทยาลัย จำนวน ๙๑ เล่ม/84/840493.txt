@@ -1,0 +1,4 @@
+﻿<span class="LineNumber"> 001 </span>ไม่ใช่เคยเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 002 </span>         ใช่.  
+<span class="LineNumber"> 003 </span><I>จบ  โสมนัสสินทริยมูละ  สัทธินทริย  ฯลฯ  ปัญญินทริย  มนินทริยมูลี</I>
+<span class="LineNumber"> 004 </span>                                   <I>โสมนัสสินทริยมูล  จบ</I>

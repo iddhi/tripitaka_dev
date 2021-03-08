@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                           [คาถาท้ายปกรณ์ของท่านผู้รจนา]
+<span class="LineNumber"> 002 </span>                        <B>พระเถระรูปใด  อยู่ในวิหารมีชื่อว่าเชตวัน
+<span class="LineNumber"> 003 </span>                        อันน่ารื่นรมย์  ด้วยทิมแถว<SUP>๑</SUP>ที่น่ายินดี
+<span class="LineNumber"> 004 </span>                        และป่า  ใกล้เมืองที่สวยงาม  ที่พระราชา 
+<span class="LineNumber"> 005 </span>                        ทรงพระนามว่า  ปรักกมภุชะ  (ปรักกม-
+<span class="LineNumber"> 006 </span>                        พาหุ)  ซึ่งมีพระพาหนะทรงกำลังมาก  รับ
+<span class="LineNumber"> 007 </span>                        สั่งให้สร้างไว้ในพระนครหลวง  ชื่อปุลัต-
+<span class="LineNumber"> 008 </span>                        ถินคร  (เมืองโปโลนนารุละ)  ที่น่า
+<span class="LineNumber"> 009 </span>                        รื่นรมย์ ฯ  พระเถระองค์ใด  อันคณะ
+<span class="LineNumber"> 010 </span>                        แห่งภิกษุผู้มีความสามารถ  เป็นบ่อเกิด
+<span class="LineNumber"> 011 </span>                        แห่งคุณ  มีศีล  ความฝึกฝน  ความสำรวม
+<span class="LineNumber"> 012 </span>                        ระวัง  และความสันโดษถึงพร้อมดีแล้ว
+<span class="LineNumber"> 013 </span>                        นับถือบูชายำเกรงแล้ว  ได้ถึงความเป็น
+<span class="LineNumber"> 014 </span>                        อาจารย์ที่ผู้รู้ทั้งหลายควรบูชา  ในศาสตร์
+<span class="LineNumber"> 015 </span>                        ทั้งหลาย  มีคำสอนของพระจอมมมุนีเป็น
+<span class="LineNumber"> 016 </span>                        ต้น  และในประชุมแห่งคัมภีร์มากมาย ฯ
+<span class="LineNumber"> 017 </span>                        ฎีกาสังวรรณนาความแห่งอรรถกถาพระ-
+<span class="LineNumber"> 018 </span>                        วินัยเป็นต้น  มีสารัตถทีปนีเป็นประมุข
+<span class="LineNumber"> 019 </span>                        ของพระเถระองค์ใด  ประกาศอานุภาพ</B>
+
+<span class='footnote'>๑.  หมฺมิยํ  เรือนโล้น  (หลังคาตัด)  โบราณว่า  ทิมแถว ฯ</span>

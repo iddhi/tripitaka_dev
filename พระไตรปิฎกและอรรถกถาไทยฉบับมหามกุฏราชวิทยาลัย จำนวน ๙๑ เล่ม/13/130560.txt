@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>สนังกุมารพรหมนั้น  ไม่มีลัทธิว่า พระศาสดาอย่างนั้น ไม่มีแล้ว  หรือจักไม่มี.  
+<span class="LineNumber"> 002 </span>จริงอยู่   ในอภิสมัยของพระพุทธเจ้า  ทั้งปวงไม่มีพิเศษ.  บทว่า <B>สายํ   ปริสายํ</B>
+<span class="LineNumber"> 003 </span>ความว่า  ในบริษัท  ของตน.
+<span class="LineNumber"> 004 </span>         บทว่า   <B>ตยิทํ  พฺรหฺมจริยํ</B>  ความว่า   ไตรสิกขาทั้งสิ้นนี้นั้น  คือ
+<span class="LineNumber"> 005 </span>พรหมจรรย์.   บทที่เหลือง่ายทั้งนั้น.   ส่วนบทเหล่านี้อันพระธรรมสังคาหกเถระ
+<span class="LineNumber"> 006 </span>ทั้งหลาย  ได้ตั้งไว้แล้ว  ดังนี้.
+<span class="LineNumber"> 007 </span>    	                   <I>จบ  อรรถกถาชนวสภสูตรที่  ๕</I>
+
+<span class="LineNumber"> 008 </span>                               <H1>รวมพระสูตรในเล่มนี้</H1>
+
+<span class="LineNumber"> 009 </span>                   <B>๑.  มหาปทานสูตร             พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 010 </span>                   ๒.  มหานิทานสูตร            พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 011 </span>                   ๓.  มหาปรินิพพานสูตร    พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 012 </span>                   ๔.  มหาสุทัสสนสูตร         พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 013 </span>                   ๕.  ชนวสภสูตร                 พร้อมทั้งอรรถกถา</B>

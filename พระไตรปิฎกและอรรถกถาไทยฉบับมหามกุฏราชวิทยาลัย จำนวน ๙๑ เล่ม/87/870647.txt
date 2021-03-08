@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ในปฏิสนธิขณะ  ขันธ์ ๓ และกฏัตตารูป  อาศัยขันธ์ ๑ ที่เป็นพหิทธา 
+<span class="LineNumber"> 002 </span>ธรรม ฯลฯ ขันธ์ ๒ อาศัยขันธ์ ๒.
+<span class="LineNumber"> 003 </span>           หทยวัตถุ   อาศัยขันธ์ทั้งหลาย   ขันธ์ทั้งหลาย  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 004 </span>           มหาภูตรูป ๓ อาศัยมหาภูตรูป ๑  ฯลฯ
+<span class="LineNumber"> 005 </span>           จิตตสมุฏฐานรูป  กฏัตตารูปที่เป็นอุปาทารูป อาศัยมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 006 </span>                                          <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 007 </span>           [๒๐๓๕] ๑.  <B>อัชฌัตตธรรม  อาศัยอัชฌัตตธรรม เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอัชฌัตตธรรม ฯลฯ อาศัยขันธ์ ๒ ฯ ล ฯ
+<span class="LineNumber"> 010 </span>           ในปฏิสนธิขณะ ขันธ์ ๓ อาศัยขันธ์  ๑ ที่เป็นอัชฌัตตธรรม ฯลฯ  ขันธ์
+<span class="LineNumber"> 011 </span>ทั้งหลาย  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 012 </span>           [๒๐๓๖] ๒.  <B>พหิทธาธรรม  อาศัยพหิทาธรรม  เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นพหิทธาธรรม  ฯลฯ  ขันธ์  ๒ ฯลฯ
+<span class="LineNumber"> 015 </span>           ในปฏิสนธิขณะ  ขันธ์ทั้งหลายอาศัยหทยวัตถุ.
+
+<span class="LineNumber"> 016 </span>                                             <H1>๓.  อธิปติปัจจัย</H1>    
+<span class="LineNumber"> 017 </span>           [๒๐๓๗] ๑. <B>อัชฌัตตธรรม  อาศัยอัชฌัตตธรรม  เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะอธิปติปัจจัย</B>

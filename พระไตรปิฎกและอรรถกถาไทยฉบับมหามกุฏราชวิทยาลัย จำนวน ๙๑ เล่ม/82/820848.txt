@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>สุทธสัจจมูลจักกวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>๑.  ทุกขสัจจมูละ  สมุทยสัจจมูลี</H2>
+<span class="LineNumber"> 004 </span>         [๘๓๒]   ธรรมที่ไม่ชื่อว่าทุกข์,  ไม่ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ยกเว้นทุกข์เสียแล้ว  สัจจะที่เหลือนอกนั้นไม่ชื่อว่าทุกข์ แต่
+<span class="LineNumber"> 006 </span>ชื่อว่าสัจจะ,      ยกเว้นทุกข์และสัจจะเสียแล้ว     ธรรมที่เหลือนอกนั้นไม่
+<span class="LineNumber"> 007 </span>ชื่อว่าทุกข์และไม่ชื่อว่าสัจจะ.
+<span class="LineNumber"> 008 </span>         ธรรมที่ไม่ชื่อว่าสัจจะ,  ไม่ชื่อว่าสมุทยสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                          <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจมูลี</I>
+
+<span class="LineNumber"> 011 </span><H2>๒.  ทุกขสัจจมูละ   นิโรธสัจจมูลี</H2>
+<span class="LineNumber"> 012 </span>         ธรรมที่ไม่ชื่อว่าทุกข์,  ไม่ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ยกเว้นทุกข์เสียแล้ว    สัจจะที่เหลือนอกนั้นไม่ชื่อว่าทุกข์  แต่
+<span class="LineNumber"> 014 </span>ชื่อว่าสัจจะ,        ยกเว้นทุกข์และสัจจะเสียแล้ว     ธรรมที่เหลือนอกนั้น
+<span class="LineNumber"> 015 </span>ไม่ชื่อว่าทุกข์และไม่ชื่อว่าสัจจะ.

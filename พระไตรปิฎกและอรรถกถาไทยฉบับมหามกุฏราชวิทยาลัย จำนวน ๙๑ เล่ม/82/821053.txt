@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>ปัจจุปปันนาตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         [๑๐๒๐]   บุคคลใดกำลังรู้แจ้งทุกขสัจจะ,     บุคคลนั้นเคยละ
+<span class="LineNumber"> 005 </span>สมุทยสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ไม่ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า     บุคคลใดเคยละสมุทยสัจจะ,     บุคคลนั้นกำลังรู้แจ้ง
+<span class="LineNumber"> 008 </span>ทุกขสัจจะ  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ไม่ใช่.
+<span class="LineNumber"> 010 </span>                       <I>จบ    ทุกขสัจจมูละ  สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 011 </span>                                    <I>ทุกขสัจจมูล  จบ</I>
+<span class="LineNumber"> 012 </span>                       <I>ปัจจุปปันนาตีตวาระ  อนุโลม  จบ</I>

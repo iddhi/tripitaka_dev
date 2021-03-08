@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                        ป. ถูกแล้ว. 
+<span class="LineNumber"> 002 </span>                        ส. สังขตะ  ก็กลายเป็นอสังขตะได้ หรือ?
+<span class="LineNumber"> 003 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 004 </span>         [๑๑๑๑]  ส. เมื่อถมบ่อเปล่าอยู่ ยังฉางเปล่าให้เต็มอยู่ ยังหม้อเปล่า
+<span class="LineNumber"> 005 </span>ให้เต็มอยู่  อากาศอันตรธานไปได้ หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 007 </span>                        ส. อสังขตะ ก็อันตรธานไปได้ หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 009 </span>         [๑๑๑๒]  ป. ไม่พึงกล่าวว่า อากาศเป็นอสังขตะ หรือ ?
+<span class="LineNumber"> 010 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 011 </span>                        ป. อากาศเป็นสังขตะ หรือ ?
+<span class="LineNumber"> 012 </span>                        ส. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 013 </span>                        ป. ถ้าอย่างนั้น อากาศก็เป็นอสังขตะ  น่ะสิ.
+<span class="LineNumber"> 014 </span>                                        <I>อากาสกถา  จบ</I>

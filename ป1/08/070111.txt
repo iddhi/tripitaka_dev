@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>คือ  ตติยาวิภัตติ  ๑   ปัญจมีวิภัตติ ๑.  ตติยา  ให้แปลอายตนิบาตว่า  
+<span class="LineNumber"> 002 </span>"ข้าง"  ปัญมี  ให้แปลอายตนิบาตว่า "แต่."  ดังอุทาหรณ์ 
+<span class="LineNumber"> 003 </span>ต่อไปนี้ :-
+<span class="LineNumber"> 004 </span>    ศัพท์เดิม         ปัจจัย            รูปสำเร็จ           แปลว่า
+<span class="LineNumber"> 005 </span><B>สพฺพ                    โต                 สพฺพโต</B>             แต่-ทั้งปวง
+<span class="LineNumber"> 006 </span><B>อญฺ                    "                   อญฺโต</B>           แต่-อื่น
+<span class="LineNumber"> 007 </span><B>อญฺตร                "                   อญฺตรโต</B>       แต่-อันใดอันหนึ่ง
+<span class="LineNumber"> 008 </span><B>อิตร                       "                    อิตรโต</B>              แต่-นอกนี้
+<span class="LineNumber"> 009 </span><B>เอก                        "                    เอกโต</B>               ข้างเดียว
+<span class="LineNumber"> 010 </span><B>อุภ                         "                    อุภโต</B>                 สองข้าง
+<span class="LineNumber"> 011 </span><B>ปร                          "                    ปรโต</B>                 ข้างอื่น
+<span class="LineNumber"> 012 </span><B>ต                            "                    ตโต</B>                   แต่-นั้น
+<span class="LineNumber"> 013 </span><B>เอต                         "                    เอโต</B>                  แต่-นั้น
+<span class="LineNumber"> 014 </span><B>อิม                          "                     อิโต</B>                   แต่-นี้
+<span class="LineNumber"> 015 </span><B>อปร                        "                     อปรโต</B>               ข้างอื่นอีก
+<span class="LineNumber"> 016 </span><B>ปุร                           "                     ปุรโต</B>                 ข้างหน้า
+<span class="LineNumber"> 017 </span><B>ปจฺฉ                         "                     ปจฺฉโต</B>              ข้างหลัง
+<span class="LineNumber"> 018 </span><B>ทกฺขิณ                      "                     ทกฺขิณโต</B>           ข้างขวา
+<span class="LineNumber"> 019 </span><B>วาม                          "                      วามโต</B>               ข้างซ้าย
+          

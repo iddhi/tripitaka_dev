@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>กลับมารับ.  
+<span class="LineNumber"> 002 </span>           ฝ่ายท้าวสักกะเห็นเหตุการณ์นั้นตลอด คิดจะเย้ยผู้ทำผิด จึง
+<span class="LineNumber"> 003 </span>สั่งให้มาตลิแปลงเป็นปลา  ให้ปัญจสิขะแปลงเป็นเหยี่ยว  พระองค์
+<span class="LineNumber"> 004 </span>เองแปลงเป็นสุนัขจิ้งจอก  คาบเนื้อไปที่ท่าใกล้นาง  ให้ปลาโดดขึ้นมา
+<span class="LineNumber"> 005 </span>บนบก  สุนัขจิ้งจอกจะทิ้งเนื้อ  วิ่งไปตะครุบปลา  ปลาโดดลงน้ำเสีย
+<span class="LineNumber"> 006 </span>ก่อน  เหยี่ยวมาโฉบเนื้อไปเสียอีก  สุนัขจิ้งจอกทำนอนซึมเป็นทีเสียใจ
+<span class="LineNumber"> 007 </span>ดังนี้แล้ว ต่างไปทำตามนั้น  เมื่อนางเห็นเข้า นึกขบขันลืมความทุกข์
+<span class="LineNumber"> 008 </span>หัวเราะขึ้นมาทั้งน้ำตา สุนัขจิ้งจอกจึงกล่าวโต้ตอบกับนาง ( เหมือน
+<span class="LineNumber"> 009 </span>เรื่องจันทโครพ  แต่ในนี้ไม่ปรากฏว่านางถูกสาปให้เป็นชะนี )   นางกับ
+<span class="LineNumber"> 010 </span>โจรและกับสุนัขจิ้งจอกโต้ตอบกัน  ดังนี้ :-
+<span class="LineNumber"> 011 </span>                                          นางเรียกโจรว่า
+<span class="LineNumber"> 012 </span><B>[ ๑๖๘ ]  สพฺพํ  ภณฺฑํ  สมาทาย</B>		พ่อพราหมณ์ !  ขนของทั้งหมด
+<span class="LineNumber"> 013 </span><B>ปารํ  ติณฺโณสิ  พฺราหฺมณ</B>			ข้ามถึงฝั่งเสร็จแล้ว
+<span class="LineNumber"> 014 </span><B>ปจฺจาคจฺฉ   ลหุํ  ขิปฺปํ</B>				โปรดกลับมาเร็ว ๆ
+<span class="LineNumber"> 015 </span><B>มํปิ  ตาเรหิทานิ  โภ.</B>				คราวนี้  รับฉันข้ามไปบ้างเถิด
+<span class="LineNumber"> 016 </span>							พ่อคุณ.
+<span class="LineNumber"> 017 </span>                                             โจรตอบว่า
+<span class="LineNumber"> 018 </span><B>อสนฺถุตํ  มํ  จิรสนฺถุเตน</B>			นางผู้เจริญ  เอาผัวผู้ที่ชมเชยกัน
+<span class="LineNumber"> 019 </span><B>มินาติ  โภตี  อธุวํ  ธุเวน</B>			นาน  มาเปลี่ยนเราผู้ไม่ใช่ผัว ยัง
+<span class="LineNumber"> 020 </span>							ไม่ได้ชมเชย
+
+<span class='footnote'>๑๖๘.  ธมฺ. ๘/๓๐  	ชา.  </span>

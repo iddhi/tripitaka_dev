@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25  หน้า  150
+
+<span class="LineNumber"> 002 </span>			กุลตฺเถรคาถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อุทกํ หิ นยนฺตีติ อายสฺมโต กุฬตฺเถรสฺส (๑) คาถา ฯ
+<span class="LineNumber"> 004 </span>กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยํ  กิร  เถโร  ปุพฺเพปิ วิวฏฺฏูปนิสฺสยํ (๒) พหุํ กุสลํ 
+<span class="LineNumber"> 006 </span>อุปจินิตฺวา อธิการสมฺปนฺโน  วิปสฺสึ  ภควนฺตํ  อากาเส  (๓)  คจฺฉนฺตํ 
+<span class="LineNumber"> 007 </span>ทิสฺวา ปสนฺนมานโส นาฬิเกรผลํ ทาตุกาโม  อฏฺ€าสิ ฯ  
+<span class="LineNumber"> 008 </span>	สตฺถา ตสฺส จิตฺตํ ตฺวา โอตริตฺวา ปฏิคฺคณฺหิ ฯ
+<span class="LineNumber"> 009 </span>โส อติวิย ปสนฺนจิตฺโต  หุตฺวา  เตเนว  สทฺธาปฏิลาเภน
+<span class="LineNumber"> 010 </span>สตฺถารํ อุปสงฺกมิตฺวา ปพฺพชฺชํ ยาจิ สตฺถา  อฺตรํ 
+<span class="LineNumber"> 011 </span>ภิกฺขุํ  อาณาเปสิ  อิมํ  ปุริสํ  ปพฺพาเชหีติ ฯ  
+<span class="LineNumber"> 012 </span>	โส  ปพฺพชิตฺวา ลทฺธูปสมฺปโท  สมณธมฺมํ  กตฺวา  ตโต 
+<span class="LineNumber"> 013 </span>จุโต ฉปิ พุทฺธนฺตรานิ เทวมนุสฺเสสุ สํสรนฺโต อิมสฺมึ 
+<span class="LineNumber"> 014 </span>พุทฺธุปฺปาเท  สาวตฺถิยํ พฺราหฺมณกุเล นิพฺพตฺติ ฯ กุโฬติสฺส
+<span class="LineNumber"> 015 </span>นามํ อโหสิ ฯ โส  วยปฺปตฺโต  สาสเน  ลทฺธปฺปสาโท
+<span class="LineNumber"> 016 </span>ภควโต  สนฺติเก  ปพฺพชิตฺวา วิกฺเขปพหุลตาย  วิเสสํ  นิพฺพตฺเตตุํ  
+<span class="LineNumber"> 017 </span>นาสกฺขิ ฯ  อเถกทิวสํ  คามํ  ปิณฺฑาย  ปวิสนฺโต  อนฺตรามคฺเค 
+<span class="LineNumber"> 018 </span>ภูมึ ขนิตฺวา อุทกวาหกํ กตฺวา อิจฺฉิติจฺฉิตฏฺ€าเน (๔) อุทกํ 
+<span class="LineNumber"> 019 </span>เนนฺเต ปุริเส ทิสฺวา ตํ สลฺลกฺเขตฺวา คามํ ปวิฏฺโ€ อฺตรํ 
+<span class="LineNumber"> 020 </span># ๑. สี. กุณฺฑลตฺเถรสฺส ฯ  ๒. สี. เถโรปิ วิวฏฺฏูปนิสฺสยํ ฯ
+<span class="LineNumber"> 021 </span># ๓. สี. อากาเสน ฯ  ๔. สี. อิจฺฉิตฏฺ€าเนน ฯ 

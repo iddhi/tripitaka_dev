@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>บุคคลผู้ที่ยังไม่เข้าถึงความเป็นผู้เคยรู้อริยสัจ ๔  มานั้นก็ดี     ในขณะที่
+<span class="LineNumber"> 002 </span>ตัณหาวิปปยุตตจิตกำลังเกิดขึ้นแก่บุคคลเหล่านั้นก็ดี   บุคคลที่เกิดอยู่ใน 
+<span class="LineNumber"> 003 </span>อสัญญสัตตภูมิก็ดี     มัคคสัจจะไม่ใช่เคยเกิด     และสมุทยสัจจะก็ไม่ใช่
+<span class="LineNumber"> 004 </span>กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 005 </span>                          <I>จบ  สมุทยสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 006 </span>                                     <I>สมุทยสัจจมูล  จบ</I>
+<span class="LineNumber"> 007 </span>                                       <I>ปุคคลวาระ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                          <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 009 </span>                                          <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 010 </span><H2>ทุกขสัจจมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 011 </span>         [๘๘๗]   ทุกขสัจจะไม่ใช่กำลังเกิดในภูมิใด,   ฯ ล ฯ
+<span class="LineNumber"> 012 </span>                                     <I>ทุกขสัจจมูละ  จบ</I>
+<span class="LineNumber"> 013 </span>                                      <I>โอกาสวาระ  จบ</I>

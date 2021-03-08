@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                        <B>ก็ได้เห็นแผ่นดินมีทะเลล้อมรอบ   กลม
+<span class="LineNumber"> 002 </span>           ดุจกงจักรเหมือนคำของบิดาบอกไว้.
+<span class="LineNumber"> 003 </span>                        นกแร้งสุปัตก็บินล่วงเลยที่นั้น ไปเบื้อง
+<span class="LineNumber"> 004 </span>           หน้าอีก   ยอดลมแรงแข็งกล้า  ได้ประหารนก
+<span class="LineNumber"> 005 </span>           แร้งสุปัต  ผู้มีกำลังมากนั้นให้แหลกละเอียด.
+<span class="LineNumber"> 006 </span>                        นกแร้งสุปัตบินเกินไป  ไม่สมามารถจะ
+<span class="LineNumber"> 007 </span>           กลับจากที่นั้นได้อีก  ตกอยู่ในอำนาจลมเวรัม-
+<span class="LineNumber"> 008 </span>           พวาต  ถึงความพินาศแล้ว.
+<span class="LineNumber"> 009 </span>                        เมื่อนกแร้งสุปัตไม่ทำตามโอวาท  ของ
+<span class="LineNumber"> 010 </span>           บิดา บุตรกรรยาและนกแร้งอัน ๆ ที่อาศัยเลี้ยง
+<span class="LineNumber"> 011 </span>           ชีพด้วย  ก็พากันถึงความพินาศไปด้วยกันหมด.
+<span class="LineNumber"> 012 </span>                        แม้ในศาสนานี้ก็เหมือนกัน       ผู้ใดไม่
+<span class="LineNumber"> 013 </span>           เชื่อถ้อยฟังคำของผู้ใหญ่   ผู้นั้นเป็นผู้ชื่อว่าล่วง
+<span class="LineNumber"> 014 </span>           ศาสนา  ดังนกแร้งไปล่วงเขตแดน  ต้องเดือด-
+<span class="LineNumber"> 015 </span>           ร้อนฉะนั้น        ผู้ไม่ทำตามคำสอนของผู้ใหญ่
+<span class="LineNumber"> 016 </span>           ย่อมถึงความพินาศทั้งหมด.</B>

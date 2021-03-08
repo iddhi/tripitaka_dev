@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>				       <H1>เหตุทุกอัชฌัตติกทุกะ</H1>
+<span class="LineNumber"> 002 </span>		 	<H2>(๑. เหตุทุกะ  ๖๕. อัชฌัตติกทุกะ)</H2> 
+<span class="LineNumber"> 003 </span>			            <H1>อัชฌัตติกบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				      <H2>๑. เหตุปัจจัย</H2>	  
+<span class="LineNumber"> 006 </span>		[๑๐๔]  ๑.  นเหตุอัชฌัตติกธรรม   อาศัยนเหตุอัชณัตติกธรรม
+<span class="LineNumber"> 007 </span>เกิดขึ้น   เพราะเหตุปัจจัย   มี ๑ วาระ.
+<span class="LineNumber"> 008 </span>         	พึงให้พิสดารทุกวาระ.
+
+<span class="LineNumber"> 009 </span>               		  <H1>พาหิรบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 010 </span>                   		 <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 011 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>		[๑๐๕]  ๑.  เหตุพาหิรธรรม   อาศัยเหตุพาหิรธรรม   เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย   มี  ๙  วาระ.
+<span class="LineNumber"> 014 </span>                      <I>เหตุทุกอัชฌัตติกทุกะ จบ</I>

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                 <h1>๕.  ภีตสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๐๗]   เทวดาทูลถามว่า
+<span class="LineNumber"> 003 </span>                             <B>ประชุมชนเป็นอันมากในโลกนี้  กลัว
+<span class="LineNumber"> 004 </span>                   อะไรหนอ  มรรคเท่านั้น พระพุทธเจ้าตรัส 
+<span class="LineNumber"> 005 </span>                   ไว้ด้วยเหตุมิใช่น้อย   ข้าแต่พระโคดมผู้มี
+<span class="LineNumber"> 006 </span>                   ปัญญาดุจแผ่นดิน   ข้าพระองค์ขอถามถึง
+<span class="LineNumber"> 007 </span>                   เหตุนั้น   ว่าบุคคลตั้งอยู่ในอะไรแล้ว  ไม่
+<span class="LineNumber"> 008 </span>                   พึงกลัวปรโลก.</B>
+<span class="LineNumber"> 009 </span>         [๒๐๘]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 010 </span>                             <B>บุคคลตั้งวาจาและใจไว้โดยชอบ
+<span class="LineNumber"> 011 </span>                   มิได้ทำบาปด้วยกาย   อยู่ครอบครองเรือน
+<span class="LineNumber"> 012 </span>                   ที่มีข้าวและน้ำมาก  เป็นผู้มีศรัทธา  เป็น
+<span class="LineNumber"> 013 </span>                   ผู้อ่อนโยน  มีปกติเอื้อเฟื้อเผื่อแผ่   ทราบ
+<span class="LineNumber"> 014 </span>                   ถ้อยคำ  ผู้ที่ตั้งอยู่ในธรรม  ๔  อย่างเหล่านี้
+<span class="LineNumber"> 015 </span>                   ชื่อว่าผู้ดำรงในธรรม  ไม่ต้องกลัวปรโลก.</B>

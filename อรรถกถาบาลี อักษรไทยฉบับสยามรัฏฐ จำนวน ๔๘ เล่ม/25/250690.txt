@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  690
+	
+<span class="LineNumber"> 002 </span>		ปีติปาโมชฺชพหุลํ		สมุคฺคตตนูรุหํ(๑)  
+<span class="LineNumber"> 003 </span>		หาสาวหํ วิสาลกฺขํ (๒)	มม สาสนลาลสํ(๓) ฯ
+<span class="LineNumber"> 004 </span>		ปติตํ ปาทมูเล เม		เอกาวตฺถสุมานสํ(๔)  
+<span class="LineNumber"> 005 </span>		เอส ปตฺเถติ ตํ €านํ	วิจิตฺตกถิกตฺตนํ(๕) ฯ  
+<span class="LineNumber"> 006 </span>		สตสหสฺสิโต กปฺเป	โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 007 </span>		โคตโม นาม โคตฺเตน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 008 </span>		ตสฺส ธมฺเมสุ ทายาโท	โอรโส ธมฺมนิมฺมิโต  
+<span class="LineNumber"> 009 </span>		กุมารกสฺสโป นาม		เหสฺสติ สตฺถุ สาวโก ฯ  
+<span class="LineNumber"> 010 </span>		วิจิตฺตปุปฺผทุสฺสานํ	รตนานฺจ วาหสา  
+<span class="LineNumber"> 011 </span>		วิจิตฺตกถิกานํ โส		อคฺคตํ ปาปุณิสฺสติ ฯ  
+<span class="LineNumber"> 012 </span>		เตน กมฺเมน สุกเตน	เจตนาปณิธีหิ จ  
+<span class="LineNumber"> 013 </span>		ชหิตฺวา มานุสํ เทหํ	ตาวตึสมคจฺฉหํ ฯ  
+<span class="LineNumber"> 014 </span>		ปริพฺภมํ ภวาภเว (๖)	รงฺคมชฺเฌ ยถา นโฏ  
+<span class="LineNumber"> 015 </span>		สาขมิคตฺรโช หุตฺวา	มิคิยา กุจฺฉิโมกฺกมึ ฯ  
+<span class="LineNumber"> 016 </span>		ตทา มยิ กุจฺฉิคเต		วชฺฌวาโร อุปฏฺ€ิโต(๗)  
+<span class="LineNumber"> 017 </span>		สาเขน จตฺตา เม มาตา	นิโคฺรธํ สรณํ คตา ฯ  
+<span class="LineNumber"> 018 </span>		เตน สา มิคราเชน		มรณา ปริโมจิตา  
+<span class="LineNumber"> 019 </span>		ปริจฺจชิตฺวา สปาณํ(๘)	มเมวํ โอวที ตทา ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. สมุทฺธคฺคตนุรุหํ ฯ ๒. สฺยา. หาสาวหํ วิสาลกฺขํ ฯ
+<span class="LineNumber"> 021 </span># สี. หาสาทิกํ วิสาลกฺขํ ฯ ๓. สฺยา. สาสนสาลยํ ฯ 
+<span class="LineNumber"> 022 </span># ๔. สฺยา. เอกวตฺตํ สุมานสํ ฯ  ๕. ยุ. วิจิตฺตกถิกตฺถทํ ฯ 
+<span class="LineNumber"> 023 </span># ๖. สี. ภวากาเส ฯ  ๗. ยุ. วชฌวารํ อุปฏฺ€ิตา ฯ  
+<span class="LineNumber"> 024 </span># ๘. ยุ. สํปาณํ ฯ 

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 25
+
+<span class="LineNumber"> 002 </span>เอส  กิลนฺโต  ภวิสฺสติ  อหเมว  คมิสฺสามีติ  รุกฺขา  โอรุยฺห  
+<span class="LineNumber"> 003 </span>ตสฺส  สนฺติกํ  อคมาสิ ฯ  นาคมาณวิกา  ตํ  ทิสฺวา  สทฺธึ  
+<span class="LineNumber"> 004 </span>ตุริเยหิ  ภูมิยํ  นิมุชฺชิตฺวา  อตฺตโน  นาคภวนเมว  คตา ฯ  
+<span class="LineNumber"> 005 </span>โพธิสตฺโต  ปน  เอกโกว  อโหสิ ฯ พฺราหฺมโณ  ตสฺส สนฺติเก(๑)
+<span class="LineNumber"> 006 </span>€ตฺวา(๒) ปุจฺฉนฺโต เทฺว คาถา อภาสิ(๓)  
+<span class="LineNumber"> 007 </span>		[๖๙๔]ปุปฺผาภิหารสฺส วนสฺส มชฺเฌ  
+<span class="LineNumber"> 008 </span>			โก โลหิตกฺโข วิหตนฺตรํโส(๔)  
+<span class="LineNumber"> 009 </span>			กา กมฺพุกายูรธรา สุวตฺถา  
+<span class="LineNumber"> 010 </span>			ติฏฺ€นฺติ นาริโย ทส วนฺทมานา  
+<span class="LineNumber"> 011 </span>			โก ตฺวํ พฺรหาพาหุ วนสฺส มชฺเฌ  
+<span class="LineNumber"> 012 </span>			วิโรจสิ ฆฏสิตฺโตว อคฺคิ  
+<span class="LineNumber"> 013 </span>			มเหสกฺโข อฺตโรสิ ยกฺโข  
+<span class="LineNumber"> 014 </span>			อุทาหุ นาโคสิ มหานุภาโวติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  ปุปฺผาภิหารสฺสาติ  โพธิสตฺตสฺส  ปูชนตฺถาย  
+<span class="LineNumber"> 016 </span>อาภเฏน  ทิพฺพปุปฺผาภิหาเรน  สมนฺนาคตสฺส ฯ  โกติ  โก  นาม
+<span class="LineNumber"> 017 </span>ตฺวํ ฯ  โลหิตกฺโขติ  รตฺตกฺโข ฯ  วิหรนฺตรํโสติ(๕)  ปุถุลนฺตรํโส ฯ 
+<span class="LineNumber"> 018 </span>กา  กมฺพุกายูรธราติ  สุวณฺณมยาลงฺการธรา ฯ  พฺรหาพาหูติ  
+<span class="LineNumber"> 019 </span>มหาภุโช(๖) ฯ  มหาพาหูติ  อตฺโถ ฯ  วนสฺส  มชฺเฌติ  โก  นาม 
+<span class="LineNumber"> 020 </span>ตฺวํ  มหาภุโช  มหาวนสฺส  มชฺเฌ  มหานุภาโว  อุรจฺฉทสีส-
+<span class="LineNumber"> 021 </span># ๑. ม. สนฺติกํ ฯ  ๒. ม. คนฺตฺวา ฯ  ๓. ม.คาถาทฺวยมาห ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม.วิตตนฺตรํโส ฯ  ๕. ม. วิตตนฺตรํโสติ ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. มหาพาหุ ฯ 

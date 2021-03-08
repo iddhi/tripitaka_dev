@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่ 44  พุทธวํสวณฺณนา  หน้า  306  
+
+<span class="LineNumber"> 002 </span>		มหานาควนุยฺยาเน (๑)	มหโต นครสฺส โส (๒)  
+<span class="LineNumber"> 003 </span>		ปูชิโต นรมรูหิ (๓)		ปรินิพฺพายิ เรวโตติ ฯ  
+<span class="LineNumber"> 004 </span>เตน วุตฺตํ  
+<span class="LineNumber"> 005 </span>		นครํ สุธฺวตี นาม	วิปุโล นาม ขตฺติโย  
+<span class="LineNumber"> 006 </span>		วิปุลา นาม ชนิกา		เรวตสฺส มเหสิโน ฯ  
+<span class="LineNumber"> 007 </span>		วรุโณ พฺรหฺมเทโว จ	อเหสุํ อคฺคสาวกา  
+<span class="LineNumber"> 008 </span>		สมฺภโว นามุปฏฺ€าโก	เรวตสฺส มเหสิโน ฯ  
+<span class="LineNumber"> 009 </span>		ภทฺทา เจว สุภทฺทา จ	อเหสุํ อคฺคสาวิกา  
+<span class="LineNumber"> 010 </span>		โสปิ พุทฺโธ อสมสโม	นาคมูเล อพุชฺฌถ ฯ  
+<span class="LineNumber"> 011 </span>		ปทุโม กุฺชโร เจว		อเหสุํ อคฺคุปฏฺ€กา  
+<span class="LineNumber"> 012 </span>		สิริมา เจว ยสวตี		อเหสุํ อคฺคุปฏฺ€ิกา (๔) ฯ  
+<span class="LineNumber"> 013 </span>		อุจฺจตฺตเนน โส พุทฺโธ	อสีติหตฺถมุคฺคโต  
+<span class="LineNumber"> 014 </span>		โอภาเสติ ทิสา สพฺพา	อินฺทเกตุว อุคฺคโต ฯ  
+<span class="LineNumber"> 015 </span>		ตสฺส สรีเร นิพฺพตฺตา	ปภามาลา อนุตฺตรา  
+<span class="LineNumber"> 016 </span>		ทิวา วา ยทิ วา รตฺตึ		สมนฺตา ผรติ โยชนํ ฯ  
+<span class="LineNumber"> 017 </span>		สฏฺ€ิวสฺสสหสฺสานิ	อายุ วิชฺชติ ตาวเท  
+<span class="LineNumber"> 018 </span>		ตาวตา ติฏฺ€มาโน โส	ตาเรสิ ชนตํ พหุํ ฯ  
+<span class="LineNumber"> 019 </span>		ทสฺสยิตฺวา พุทฺธพลํ	อมตํ โลเก ปกาสยํ  
+<span class="LineNumber"> 020 </span>		นิพฺพายิ อนุปาทาโน	ยถคฺคุปาทานสงฺขยา ฯ  
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ. มหาสาเร ปนุยฺยาเน ฯ  ๒. สี. ยุ. มหโต นครสฺส โยชเน ฯ  
+<span class="LineNumber"> 022 </span># ๓. สี. ยุ. นรสาเรหิ ฯ  ๔. สี. ม. อเม ปา€า นตฺถิ ฯ  ๕. ยุ. ผริ ฯ  

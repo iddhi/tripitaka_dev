@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                       ๓.  <B>สเหตุกธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม อาศัย 
+<span class="LineNumber"> 002 </span>ธรรม  ไม่ใช่สเหตุกธรรม    ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม    และ
+<span class="LineNumber"> 003 </span>ธรรมที่ไม่ใช่สเหตุกธรรม  ที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะเหตุปัจจัย</B> 
+
+<span class="LineNumber"> 005 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>           [๖๙๗]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 007 </span>                                        <H2>อเหตุกบท</H2>
+<span class="LineNumber"> 008 </span>           [๖๙๘] ๑.  <B>อเหตุกธรรม ที่เป็นสนิทัสสนสัปปฏิฆธรรม อาศัย
+<span class="LineNumber"> 009 </span>ธรรมที่ไม่ใช่อเหตุกธรรม  ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น
+<span class="LineNumber"> 010 </span>เพราะเหตุปัจจัย</B>  มี ๗ วาระ.
+<span class="LineNumber"> 011 </span>                       ๘.  <B>อเหตุกธรรม ที่เป็นอนิทัสสนสัปปฏิฆธรรม อาศัย
+<span class="LineNumber"> 012 </span>ธรรมที่ไม่ใช่อเหตุกธรรม   ที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม   เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>    มี  ๗ วาระ
+<span class="LineNumber"> 014 </span>                     ๑๕.  <B>อเหตุกธรรม    ที่เป็นอนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 015 </span>อาศัยธรรมที่ไม่ใช่อเหตุกธรรม    ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 016 </span>และธรรมที่ไม่ใช่อเหตุกธรรม     ที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 017 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๗  วาระ.
+<span class="LineNumber"> 018 </span>                                                  <B>ฯลฯ</B>
+
+<span class="LineNumber"> 019 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 020 </span>           [๖๙๙]  ในเหตุปัจจัย มี ๒๑ วาระ  ฯลฯ
+<span class="LineNumber"> 021 </span>              <I>นสนิทัสสนติกนสเหตุกทุกสนิทัสสนติกสเหตุกทุกะ จบ</I>

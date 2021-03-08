@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๖๕๕]  ส. บุคคลอื่นส่งความสุขให้แก่บุคคลอื่นได้ หรือ ? 
+<span class="LineNumber"> 002 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                       ส. บุคคลอื่นเป็นผู้ทำแก่บุคคลอื่น  สุขและทุกข์คนอื่นทำ
+<span class="LineNumber"> 004 </span>ให้คนหนึ่งทำ อีกคนหนึ่งเสวยผล หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 006 </span>         [๑๖๕๖]  ส. ไม่พึงกล่าวว่า     บุคคลอื่นส่งความสุขให้แก่คนอื่นได้
+<span class="LineNumber"> 007 </span>หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ส. ท่านพระอุทายีได้กล่าวคำนี้ว่า    <B>พระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 010 </span>ของเราทรงขจัดทุกขธรรมทั้งหลายแก่ชนเป็นอันมากหนอ  พระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 011 </span>ของเราทรงประทานสุขธรรมทั้งหลายแก่ชนเป็นอันมากหนอ  พระผู้มี- 
+<span class="LineNumber"> 012 </span>พระภาคเจ้าของเรา  ทรงขจัดอกุศลธรรมทั้งหลายแก่ชนเป็นอันมากหนอ
+<span class="LineNumber"> 013 </span>พระผู้มีพระภาคเจ้าของเราทรงประทานกุศลธรรม  ทั้งหลายแก่ชนเป็น
+<span class="LineNumber"> 014 </span>อันมากหนอ</B> ดังนี้<SUP>๑</SUP> เป็นสูตรมีอยู่จริง  มิใช่หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ถูกแล้ว
+<span class="LineNumber"> 016 </span>                       ส. ถ้าอย่างนั้น  บุคคลอื่นก็ส่งความสุขแก่บุคคลอื่นได้  
+<span class="LineNumber"> 017 </span>น่ะสิ.
+<span class="LineNumber"> 018 </span>                                 <I>สุขานุปปทานกถา  จบ</I>
+
+<span class='footnote'>๑.   ม.ม. ๑๓/๑๗๖.</span>

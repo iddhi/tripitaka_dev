@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  31  เทวตาปฺหชาตกํ  หน้า  505  
+
+<span class="LineNumber"> 002 </span>	หนฺติ    หตฺเถหิ   ปาเทหีติ    อยํ    เทวตาปุจฺฉา   มหาอุมงฺค-  
+<span class="LineNumber"> 003 </span>ชาตเก (๑)   อาวิภวิสฺสตีติ ฯ  
+<span class="LineNumber"> 004 </span>				เทวตาปฺหชาตกํ   ทสมํ  ฯ  
+<span class="LineNumber"> 005 </span>				จุลฺลกุณาลวคฺโค   ปฺจโม  ฯ  
+
+<span class="LineNumber"> 006 </span>					ตสฺสุทฺทานํ  
+<span class="LineNumber"> 007 </span>				นรานํ  อสกฺขิ  วสิมฺหวโร  
+<span class="LineNumber"> 008 </span>				ปุน  รสายสกูฏวโร  
+<span class="LineNumber"> 009 </span>				ตถารฺ  สารถิ  หนฺติ  ทส (๒)  ฯ  
+
+<span class="LineNumber"> 010 </span>				ตตฺร  วคฺคุทฺทานํ  ภวติ  ฯ  
+<span class="LineNumber"> 011 </span>			วิวรํ  ปุจฺมนิทยิจ		กุฏิทูสํ  พหุภาณกํ  
+<span class="LineNumber"> 012 </span>			จุลฺลกุณาลวคฺโค  โส	ปฺจโม  สุปฺปกาสิโตติ  (๓)  ฯ  
+<span class="LineNumber"> 013 </span>			จตุกฺกนิปาตวณฺณนา	นิฏฺ€ิตา  ฯ  
+<span class="LineNumber"> 014 </span>#  ๑.  ขุ.  ชา.  ๒๘/๖๐๐-๖๘๖/๒๒๓-๒๔๕  ฯ  
+<span class="LineNumber"> 015 </span>#  ๒.  มรมฺมโปตฺถเก  ชาตากุทฺทานํ  เอวํ  ทิสฺสติ  
+<span class="LineNumber"> 016 </span>		กินฺนรีวานรกุนฺตีนี		อมฺพหารี  คชกุมฺโภ  ฯ  
+<span class="LineNumber"> 017 </span>		เกสวายกูฏารฺํ			สนฺธิเภโท  เทวตาปฺหาติ  ฯ  
+<span class="LineNumber"> 018 </span>#  ๓.  ม.	กาลิงฺโค  ปุจิมนฺโท  จ		กุฏิทูสก  โกกิลา
+<span class="LineNumber"> 019 </span>		จูฬกุณาลวคฺโคติ			ปฺจวคฺคา  จตุกฺกมฺหิ  ฯ  
+<span class="LineNumber"> 020 </span>		โหนฺติ  ปฺาส  ชาตกา  ฯ  

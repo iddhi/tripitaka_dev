@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>ทิฏฐานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :- 
+<span class="LineNumber"> 003 </span>         [๑๓๒๔]  บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยทิฏฐานุสัย,  บุค-
+<span class="LineNumber"> 004 </span>คลนั้นก็ไม่มีความนอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า        บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย
+<span class="LineNumber"> 007 </span>บุคคลนั้นก็ไม่มีความนอนเนื่องอยู่ด้วยทิฏฐานุสัย     ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ใช่  ฯ ล ฯ
+<span class="LineNumber"> 009 </span>                       <I>จบ  ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี
+<span class="LineNumber"> 010 </span>                                     ทิฏฐานุสยมูล  จบ</I>
+<span class="LineNumber"> 011 </span>                                      <I>วิจิกิจฉานุสยมูล</I>
+
+<span class="LineNumber"> 012 </span><H2>วิจิกิจฉานุสยมูละ  ภวราคานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 013 </span>         [๑๓๒๕]  บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย,
+<span class="LineNumber"> 014 </span>บุคคลนั้นก็ไม่มีความนอนเนื่องอยู่ด้วยภวราคานุสัย  ฯ ล ฯ  อวิชชานุสัย
+<span class="LineNumber"> 015 </span>ใช่ไหม ?

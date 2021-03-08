@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  304
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อสฺโต  เจปีติ  อิสฺสโร  หิ  สเจปิ  กายาทีหิ  
+<span class="LineNumber"> 003 </span>อสฺโต  ทุสฺสีโล ฯ  สณฺ€านคโตติ  วินิจฺฉเย  €ิโต  หุตฺวา  ปเรสํ 
+<span class="LineNumber"> 004 </span>อตฺถํ  ภณติ  ตสฺมึ  วินิจฺฉยมณฑเล  มหาปริวารปริวุตสฺส  มุสา  
+<span class="LineNumber"> 005 </span>วตฺวา  สามิกมฺปิ  อสฺสามิกมฺปิ (๑) กโรนฺตสฺส  ตสฺเสเวตํ  วจนํ  รุหติ  
+<span class="LineNumber"> 006 </span>สิรีหีนํ  กถํ  การยเต  น ปฺโ (๒) ตสฺมา ปฺโ วิหีโน สิริมาว (๓)
+<span class="LineNumber"> 007 </span>เสยฺโยติ วทติ ฯ  
+<span class="LineNumber"> 008 </span>	ปุน  รฺา  กึ  ตาตาติ  วุตฺเต  ปณฺฑิโต  สุณ  เทว  
+<span class="LineNumber"> 009 </span>พาลเสนโก  ปน  กึ  ชานาติ  อิธโลกมตฺตเมว  โอโลเกติ  น  
+<span class="LineNumber"> 010 </span>ปรโลกนฺติ  วตฺวา  อิมํ คาถมาห  
+<span class="LineNumber"> 011 </span>			ปรสฺส วา อตฺตโน วาปิ เหตุ  
+<span class="LineNumber"> 012 </span>			พาโล มุสา ภาสติ อปฺปปฺโ  
+<span class="LineNumber"> 013 </span>			โส นินฺทิโต โหติ สภายมชฺเฌ  
+<span class="LineNumber"> 014 </span>			ปจฺฉาปิ (๔) โส ทุคฺคติคามี โหติ  
+<span class="LineNumber"> 015 </span>			เอตมฺปิ ทิสฺวาน อหํ วทามิ  
+<span class="LineNumber"> 016 </span>			ปฺโว เสยฺโย น ยสสฺสิพาโลติ ฯ  
+<span class="LineNumber"> 017 </span>ตโต เสนโก อิมํ คาถมาห  
+<span class="LineNumber"> 018 </span>			อตฺถมฺปิ เจ ภาสติ ภูริปฺโ  
+<span class="LineNumber"> 019 </span>			อนาลโย (๕) อปฺปธโน ทลิทฺโท  
+<span class="LineNumber"> 020 </span># ๑. ม. ยุ. อสฺสามิกํ ฯ  ๒. ม. สิรี หิ นํ ตถา การยเต น ปฺา ฯ
+<span class="LineNumber"> 021 </span>ยุ. สิรีหีนํ ตถา การยเต น ปฺา ฯ  ๓. ยุ. อิสฺสโร ฯ  ๔. สี. ยุ. เปจฺจมฺปิ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. อนาฬฺหิโย ฯ

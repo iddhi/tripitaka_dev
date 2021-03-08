@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  18  มลฺลิกาเทวีวตฺถุ  หน้า  123
+
+<span class="LineNumber"> 002 </span>กตํ ฯ  เอวรูโปเอว  หิ  เอตฺถ  กายิกเจตสิโก  อาพาโธ  โอทหิโต
+<span class="LineNumber"> 003 </span>อิโต  อุทฺธํ  กิฺจิ  คยฺหุปคํ  นตฺถีติ ฯ
+<span class="LineNumber"> 004 </span>	เทสนาวสาเน  เถรี  อรหตฺตํ  ปาปุณิ ฯ  มหาชนสฺส 
+<span class="LineNumber"> 005 </span>สาตฺถิกา  ธมฺมเทสนา  อโหสีติ ฯ
+<span class="LineNumber"> 006 </span>				รูปนนฺทตฺเถรีวตฺถุ ฯ
+				
+<span class="LineNumber"> 007 </span>				  มลฺลิกาเทวีวตฺถุ 
+<span class="LineNumber"> 008 </span>	ชีรนฺติ  เว  ราชรถา  สุจิตฺตาติ  อิมํ  ธมฺมเทสนํ  สตฺถา
+<span class="LineNumber"> 009 </span>เชตวเน  วิหรนฺโต  มลฺลิกํ  เทวึ  อารพฺภ  กเถสิ ฯ
+<span class="LineNumber"> 010 </span>	สา  กิร  เอกทิวสํ  นหานโกฏฺ€กํ  ปวิฏฺ€า  มุขํ  โธวิตฺวา
+<span class="LineNumber"> 011 </span>โอนตสรีรา  ชงฺฆา  โธวิตุํ  อารภิ ฯ  ตาย  จ  สทฺธึเยว  ปวิฏฺโ€ 
+<span class="LineNumber"> 012 </span>เอโก   วลฺลภสุนโข  อตฺถิ ฯ  โส  ตํ  ตถา  โอนตํ  ทิสฺวา  
+<span class="LineNumber"> 013 </span>อสทฺธมฺมสนฺถวํ  กาตุํ  อารภิ ฯ  สา  ตสฺส(๑)  ผสฺสํ  สาทิยนฺตี
+<span class="LineNumber"> 014 </span>อฏฺ€าสิ ฯ  ราชา  อุปริปาสาเท  วาตปาเนน  โอโลเกนฺโต  ตํ
+<span class="LineNumber"> 015 </span>ทิสฺวา  ตโต  อาคตกาเล  นสฺส  วสลิ  กสฺมา  เอวรูปมกาสีติ 
+<span class="LineNumber"> 016 </span>อาห ฯ  กึ  มยา  กตํ  เทวาติ ฯ  สุนเขน  สทฺธึ  สนฺถโวติ ฯ 
+<span class="LineNumber"> 017 </span>นตฺเถตํ  เทวาติ ฯ  มยา  สามํ  ทิฏฺ€ํ  นาหํ  ตว  
+<span class="LineNumber"> 018 </span>สทฺทหิสฺสามิ  นสฺส  วสลีติ ฯ  มหาราช  โย  โกจิ  อิมํ 
+<span class="LineNumber"> 019 </span>โกฏฺ€กํ  ปวิฏฺโ€  อิมินา วาตปาเนน  โอโลเกนฺตสฺส  เอโก ว 
+<span class="LineNumber"> 020 </span>#๑. สี. ยุ. อยํ ปาโ€ นตฺถิ ฯ

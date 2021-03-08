@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>         <H1>นเหตุทุกนปริตตารัมมณติกเหตุทุกปริตตารัมมณติกะ</H1>  
+<span class="LineNumber"> 002 </span>             <H2>(๑. เหตุทุกะ  ๑๓.  ปริตตารัมมณบท)</H2>
+<span class="LineNumber"> 003 </span>                                        <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 004 </span>                                         <H2>อนุโลมนัย</H2>    
+<span class="LineNumber"> 005 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                   <H2>ปริตตารัมมณบท</H2>	
+<span class="LineNumber"> 007 </span>           [๓๘๘] ๑.  <B>ปริตตารัมมณธรรม  ที่เป็นเหตุธรรม  อาศัยธรรมที่
+<span class="LineNumber"> 008 </span>ไม่ใช่ปริตตารัมมณธรรม ที่เป็นนเหตุธรรม เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                                                  <B>ฯลฯ</B> 
+   
+<span class="LineNumber"> 010 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 011 </span>           [๓๘๙]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 012 </span>                                            <H2>ปฏิจจวาระ</H2>  
+<span class="LineNumber"> 013 </span>                                            <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 014 </span>                                          <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                   <H2>มหัคคตารัมมณบท</H2>
+<span class="LineNumber"> 016 </span>           [๓๙๐] ๑.  <B>มหัคคตารัมมณธรรม  ที่เป็นเหตุธรรม  อาศัยธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่มหัคคตารัมมณธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 018 </span>ปัจจัย</B>
+<span class="LineNumber"> 019 </span>                                                      <B>ฯลฯ</B>
+
+<span class="LineNumber"> 020 </span>                            <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 021 </span>           [๓๙๑]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ	

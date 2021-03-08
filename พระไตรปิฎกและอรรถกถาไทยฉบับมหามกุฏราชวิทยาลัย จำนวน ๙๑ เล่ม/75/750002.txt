@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>๓. วิปากติกะ</H2>
+
+<span class="LineNumber"> 002 </span><B>วิปากา   ธมฺมา</B>                               ธรรมเป็นวิบาก
+<span class="LineNumber"> 003 </span><B>วิปากธมฺมธมฺมา</B>                            ธรรมเป็นเหตุแห่งวิบาก
+<span class="LineNumber"> 004 </span><B>เนววิปากนวิปากธมฺมธมฺมา</B>           ธรรมไม่เป็นวิบาก  และไม่เป็นเหตุแห่ง
+<span class="LineNumber"> 005 </span>                                                      วิบาก
+
+<span class="LineNumber"> 006 </span>                                 <H2>๔.  อุปาทินนุปาทานิยติกะ</H2>
+
+<span class="LineNumber"> 007 </span><B>อุปาทินฺนุปาทานิยา  ธมฺมา</B>            ธรรมอันเจตนากรรมที่สัมปยุตด้วย
+<span class="LineNumber"> 008 </span>                                                      ตัณหาทิฏฐิเข้ายึดครองและเป็นอารมณ์ 
+<span class="LineNumber"> 009 </span>                                                      ของอุปาทาน
+<span class="LineNumber"> 010 </span><B>อนุปาทินฺนุปาทานิยา  ธมฺมา</B>          ธรรมอันเจตนากรรมที่สัมปยุตด้วย
+<span class="LineNumber"> 011 </span>                                                      ตัณหาทิฏฐิไม่เข้ายึดครองแต่เป็น
+<span class="LineNumber"> 012 </span>                                                      อารมณ์ของอุปาทาน
+<span class="LineNumber"> 013 </span><B>อนุปาทินฺนานุปาทานิยา  ธมฺมา</B>     ธรรมอันเจตนากรรมที่สัมปยุตด้วย
+<span class="LineNumber"> 014 </span>                                                      ตัณหาทิฏฐิไม่เข้ายึดครองและไม่เป็น
+<span class="LineNumber"> 015 </span>                                                      อารมณ์ของอุปาทาน
+
+<span class="LineNumber"> 016 </span>                                 <H2>๕.  สังกิลิฏฐสังกิเลสิกติกะ</H2>
+                                                                     
+<span class="LineNumber"> 017 </span><B>สงฺกิลิฏฺ€สงฺกิเลสิกา  ธมฺมา</B>            ธรรมเศร้าหมองและเป็นอารมณ์ของ
+<span class="LineNumber"> 018 </span>                                                      สังกิเลส
+<span class="LineNumber"> 019 </span><B>อสงฺกิลิฏฺ€สงฺกิลสิกา ธมฺมา</B>            ธรรมไม่เศร้าหมองแต่เป็นอารมณ์ของ
+<span class="LineNumber"> 020 </span>                                                      สังกิเลส
+<span class="LineNumber"> 021 </span><B>อสงฺกิลิฏฺ€าสงฺกิเลสิกา  ธมฺมา</B>        ธรรมไม่เศร้าหมองและไม่เป็นอารมณ์
+<span class="LineNumber"> 022 </span>                                                      ของสังกิเลส

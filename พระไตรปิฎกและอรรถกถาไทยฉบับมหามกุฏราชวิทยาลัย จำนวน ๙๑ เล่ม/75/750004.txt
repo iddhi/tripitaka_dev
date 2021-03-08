@@ -1,0 +1,31 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>๑๐.  อาจยคามิติกะ</H2>  
+
+<span class="LineNumber"> 002 </span><B>อาจยคามิโน  ธมฺมา</B>                             ธรรมเป็นเหตุให้จุติปฏิสนธิ 
+<span class="LineNumber"> 003 </span><B>อปจยคามิโน  ธมฺมา</B>                            ธรรมเป็นเหตุให้ถึงนิพพาน
+<span class="LineNumber"> 004 </span><B>เนวาจยคามิโน  นาปจยคามิโน</B>           ธรรมไม่เป็นเหตุให้จุติปฏิสนธิ
+<span class="LineNumber"> 005 </span><B>ธมฺมา</B>                                                  และไม่เป็นเหตุให้ถึงนิพพาน    
+ 
+<span class="LineNumber"> 006 </span>                                 <H2>๑๑. เสกขติกะ</H2>
+
+<span class="LineNumber"> 007 </span><B>เสกฺขา  ธมฺมา</B>                                     ธรรมเป็นของเสกขบุคคล
+<span class="LineNumber"> 008 </span><B>อเสกฺขา  ธมฺมา</B>                                   ธรรมเป็นของอเสกขบุคคล
+<span class="LineNumber"> 009 </span><B>เนวเสกฺขา  นาเสกฺขา ธมฺมา</B>               ธรรมไม่เป็นของเสกขบุคคลและไม่เป็น
+<span class="LineNumber"> 010 </span>                                                          ของอเสกขบุคคล
+
+<span class="LineNumber"> 011 </span>                                 <H2>๑๒. ปริตตติกะ</H2>
+
+<span class="LineNumber"> 012 </span><B>ปริตฺตา  ธมฺมา</B>                                   ธรรมเป็นปริตตะ
+<span class="LineNumber"> 013 </span><B>มหคฺคตา  ธมฺมา</B>                                ธรรมเป็นมหัคคตะ
+<span class="LineNumber"> 014 </span><B>อปฺปมาณา  ธมฺมา</B>	                      ธรรมเป็นอัปปมาณะ
+
+<span class="LineNumber"> 015 </span>                                 <H2>๑๓.  ปริตตารัมมณติกะ</H2>
+
+<span class="LineNumber"> 016 </span><B>ปริตฺตารมฺมณา  ธมฺมา</B>                      ธรรมมีอารมณ์เป็นปริตตะ
+<span class="LineNumber"> 017 </span><B>มหคฺคตารมฺมณา  ธมฺมา</B>                   ธรรมมีอารมณ์เป็นมหัคคตะ
+<span class="LineNumber"> 018 </span><B>อปฺปมาณารมฺมณา  ธมฺมา</B>                 ธรรมมีอารมณ์เป็นอัปปมาณะ
+
+<span class="LineNumber"> 019 </span>                                 <H2>๑๔.  หีนติกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>หีนา  ธมฺมา</B>                                       ธรรมทราม
+<span class="LineNumber"> 021 </span><B>มชฺฌิมา  ธมฺมา</B>                                 ธรรมปานกลาง
+<span class="LineNumber"> 022 </span><B>ปณีตา  ธมฺมา</B>                                    ธรรมประณีต

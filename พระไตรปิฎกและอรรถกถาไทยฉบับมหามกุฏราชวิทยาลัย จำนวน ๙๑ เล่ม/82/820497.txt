@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>อตีตานาคตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 004 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๔๘๗]   จักขายตนะเคยเกิดแก่บุคคลใด,        โสตายตนะก็จัก
+<span class="LineNumber"> 006 </span>เกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ปัจฉิมภวิกบุคคลก็ดี       บุคคลเหล่าใดจักเกิดในอรูปภูมิแล้วจัก
+<span class="LineNumber"> 008 </span>ปรินิพพานก็ดี    จักขายตนะเคยเกิดแก่บุคคลเหล่านั้น    แต่โสตายตนะ
+<span class="LineNumber"> 009 </span>ไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,    บุคคลที่นอกจากนั้น   จักขายตนะเคย
+<span class="LineNumber"> 010 </span>เกิด   และโสตนะก็จักเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า    โสตายตนะจักเกิดแก่บุคคลใด,       จักขายตนะก็เคย
+<span class="LineNumber"> 012 </span>เกิดแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>                            <I>จบ  จักขายตนมูละ  โสตายตนมูลี</I>

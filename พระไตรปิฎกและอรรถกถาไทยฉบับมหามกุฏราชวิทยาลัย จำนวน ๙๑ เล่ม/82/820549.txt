@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>อนาคตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                           <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 004 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๕๔๘]  จักขายตนะจักดับแก่บุคคลใด,     โสตายตนะก็จักดับ
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า    โสตายตนะจักดับแก่บุคคลใด,    จักขายตนะก็จักดับ
+<span class="LineNumber"> 009 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>                        <I>จบ  จักขายตนมูละ  โสตายตนมูลี</I>
+<span class="LineNumber"> 012 </span><H2>จักขายตนมูละ  ฆานายตนมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๕๔๙]  จักขายตนะจักดับแก่บุคคลใด,    ฆานายตนะก็จักดับ
+<span class="LineNumber"> 014 </span>แก่บุคคลนั้น  ใช่ไหม  ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ จุลฺลยมกวคฺควณฺณนา  หน้า  ๖๘๒
+		
+<span class="LineNumber"> 002 </span>วิรวนฺติ  ตาปโส  ตํ  สทฺทํ  สุตฺวา  กึ  นุ  โข  เอตนฺติ  
+<span class="LineNumber"> 003 </span>อาวชฺเชนฺโต  มนุสฺสานํ  ภยํ  อุปฺปนฺนนฺ  ติ  ตฺวา  มยิ  ปสฺสนฺเต  
+<span class="LineNumber"> 004 </span>อิเม  สตฺตา  มา  นสฺสนฺตู  ติ  อภิฺาปาทกชฺฌานํ  สมาปชฺชิตฺวา  
+<span class="LineNumber"> 005 </span>วุฏฺ€าย  อภิฺาจิตฺเตน  โจรานํ  ปฏิปเถ  จตุรงฺคินิเสนํ  มาเปสิ 
+<span class="LineNumber"> 006 </span>กมฺมสชฺชํ  อาคจฺฉนฺตึ  โจรา  ทิสฺวา   ราชา  ติ  เต  มฺมานา  (๑) 
+<span class="LineNumber"> 007 </span>วิโลปํ  ฉฑฺเฑตฺวา  ปกฺกมึสุ  ตาปโส  ยํ  ยสฺส  สนฺตกํ  ตํ  
+<span class="LineNumber"> 008 </span>ตสฺเสว  โหตู  ติ  อธิฏฺ€าสิ  ตํ  ตเถว  อโหสิ  มหาชโน  
+<span class="LineNumber"> 009 </span>โสตฺถิภาวํ  ปาปุณิ  สตฺถา  อิทํปิ  ตสฺส  ปุพฺพกมฺมํ  ทสฺเสนฺโต  
+<span class="LineNumber"> 010 </span>	  	ยํ  เอณิกูลสฺมิ(๒) ชนํ  คหีตํ(๓)  
+<span class="LineNumber"> 011 </span>	  	อโมจยึ(๔) คยฺหก  นียมานํ  
+<span class="LineNumber"> 012 </span>	  	ตนฺเต  ปุราณํ  วตสีลวตฺตํ  
+<span class="LineNumber"> 013 </span>	  	สุตฺตปฺปพุทฺโธว  อนุสฺสรามีติ (๕)  
+<span class="LineNumber"> 014 </span>อิมํ  คาถมาห  เอตฺถ  เอณิกูลสฺมินฺติ  คงฺคาตีเร ฯ
+<span class="LineNumber"> 015 </span>	  ปุน  เอกสฺมึ  สมเย  อุปริคงฺคาวาสิกํ  กุลํ  เหฏฺ€าคงฺคา-
+<span class="LineNumber"> 016 </span>วาสิเกน  กุเลน  สทฺธึ  มิตฺตสนฺถวํ  กตฺวา  นาวาสงฺฆาฏํ  
+<span class="LineNumber"> 017 </span>พนฺธิตฺวา  พหุํ  ขาทนียโภชนียํ  เจว  คนฺธมาลาทีนิ  จ  
+<span class="LineNumber"> 018 </span>อาโรเปตฺวา  คงฺคาโสเตน  อาคจฺฉติ  มนุสฺสา  ขาทมานา  
+<span class="LineNumber"> 019 </span>ภุฺชมานา  นจฺจนฺตา  คายนฺตา  เทววิมาเนน  คจฺฉนฺตา  วิย  
+<span class="LineNumber"> 020 </span># ๑. สี. ราชา มฺเ อาคโตติ ฯ ม. ราชาติ เต มฺมานา ฯ
+<span class="LineNumber"> 021 </span># ๒. ม. เอณิกุลสฺมิ ฯ ๓. สฺยา. ม. คหีตํ ฯ  ๔. สฺยา. ม. อโมจยี ฯ
+<span class="LineNumber"> 022 </span># ๕. ขุ. ชา. ๒๗/๑๐๓๙/๒๒๒ ฯ

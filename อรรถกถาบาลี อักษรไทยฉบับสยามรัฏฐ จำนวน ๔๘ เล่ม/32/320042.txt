@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  อาวาริยวคฺควณฺณนา  หน้า  42
+
+<span class="LineNumber"> 002 </span>อถ  นํ  เวรมฺภวาตา  ปหรึสุ  ฯ  โส  เตหิ  ปหฏมตฺโตว  ขณฺฑาขณฺฑํ  
+<span class="LineNumber"> 003 </span>หุตฺวา อากาเสเยว อนฺตรธายิ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 004 </span>	[๘๖๖] อกตฺวา อปรณฺณสฺส(๑)  	ปิตุ วุฑฺฒสฺส(๒) สาสนํ  
+<span class="LineNumber"> 005 </span>		กาลวาเต อติกฺกมฺม  	เวรมฺภานํ วสํ คโต(๓) ฯ  
+<span class="LineNumber"> 006 </span>	[๘๖๗] ตสฺส ปุตฺตา จ ทารา จ  	เย จฺเ อนุชีวิโน  
+<span class="LineNumber"> 007 </span>		สพฺเพ พฺยสนมาปาตุํ(๔)  	อโนวาทกเร ทิเช ฯ  
+<span class="LineNumber"> 008 </span>	[๘๖๙] เอวมฺปิ อิธ วุฑฺฒานํ  	โย วากฺยํ นาวพุชฺฌติ  
+<span class="LineNumber"> 009 </span>		อติสีมํ จโร(๕) ทิตฺโต 	คิชฺโฌ วาตีตสาสโน  
+<span class="LineNumber"> 010 </span>		สพฺเพ  พฺยสนํ  ปปฺโปนฺติ  อกตฺวา  พุทฺธสาสนนฺติ(๖)ฯ  
+<span class="LineNumber"> 011 </span>อิมา ติสฺโส อภิสมฺพุทฺธคาถา ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อนุชีวิโนติ  ตํ  นิสฺสาย  อนุชีวนกา  ฯ  อโนวาทกเร  
+<span class="LineNumber"> 013 </span>ทิเชติ  ตสฺมึปิ  มิคโลเป  คิชฺเฌ  โอวาทํ  อกโรนฺเต  สพฺเพปิ 
+<span class="LineNumber"> 014 </span>เต  เตน  สทฺธึ  อติกฺกมิตฺวา  สีมํ  คนฺตฺวา  วินาสํ  ปาปุณึสุ  ฯ
+<span class="LineNumber"> 015 </span>เอวมฺปีติ  ภิกฺขเว  ยถา  โส  คิชฺโฌ  เอวํ  โย  อฺโปิ  คหฏฺโ€
+<span class="LineNumber"> 016 </span>วา  ปพฺพชิโต  วา  หิตานุกมฺปกานํ  พุทฺธานํ  วจนํ  น  คณฺหติ
+<span class="LineNumber"> 017 </span>โสปิ  อยํ  สีมํ  อติกฺกมิตฺวา  จรนฺโต  ทิตฺโต  ทปฺปิโต(๗)  คิชฺโฌว 
+<span class="LineNumber"> 018 </span>พฺยสนํ  ปาปุณาตีติ ฯ  
+<span class="LineNumber"> 019 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  สจฺจานิ  ปกาเสตฺวา
+<span class="LineNumber"> 020 </span># ๑. ม. อปนนฺทสฺส ฯ  ๒. ม. วุทฺธสฺส ฯ  ๓. ส. ม. อคา ฯ 
+<span class="LineNumber"> 021 </span># ๔. ส. ม. พฺยสนมาปาทุํ ฯ  ๕. ม. อติสีมจโร ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. วุทฺธสาสนนฺติ ฯ  ๗. ม. คพฺพิโต ฯ 

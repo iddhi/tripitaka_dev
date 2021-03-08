@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H3>สูตรที่  ๑๒</H3>
+
+<span class="LineNumber"> 002 </span>         [๔๑๙]   ๑๗๓.  ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒  อย่างนี้  ๒  อย่าง 
+<span class="LineNumber"> 003 </span>เป็นไฉน  คือ ศีลสมบัติ  ๑   ทิฏฐิสมบัติ  ๑   ดูก่อนภิกษุทั้งหลาย   ธรรม
+<span class="LineNumber"> 004 </span>๒  อย่างนี้แล.
+<span class="LineNumber"> 005 </span>                                         จบสูตรที่  ๑๒ 
+
+<span class="LineNumber"> 006 </span>                                   <H3>สูตรที่  ๑๓</H3>	
+
+<span class="LineNumber"> 007 </span>         [๔๒๐]  ๑๗๔. ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒  อย่างนี้   ๒ อย่าง
+<span class="LineNumber"> 008 </span>เป็นไฉน คือ ศีลบริสุทธิ์  ๑  ทิฏฐิบริสุทธิ์   ๑  ดูก่อนภิกษุทั้งหลาย   ธรรม
+<span class="LineNumber"> 009 </span>๒ อย่างนี้แล.
+<span class="LineNumber"> 010 </span>                                          จบสูตรที่  ๑๓
+
+<span class="LineNumber"> 011 </span>                                   <H3>สูตรที่ ๑๔</H3>
+
+<span class="LineNumber"> 012 </span>         [๔๒๑]   ๑๗๕.  ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒  อย่างนี้ ๒  อย่าง
+<span class="LineNumber"> 013 </span>เป็นไฉน คือ ทิฏฐิบริสุทธิ์  ๑  ความเพียรที่สมควรแก่ทิฏฐิ   ๑  ดูก่อนภิกษุ
+<span class="LineNumber"> 014 </span>ทั้งหลาย   ธรรม  ๒  อย่างนี้แล.
+<span class="LineNumber"> 015 </span>                                            จบสูตรที่  ๑๔ 
+
+<span class="LineNumber"> 016 </span>                                   <H3>สูตรที่ ๑๕</H3>
+
+<span class="LineNumber"> 017 </span>         [๔๒๒]   ๑๗๖.  ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒ อย่างนี้ ๒  อย่าง
+<span class="LineNumber"> 018 </span>เป็นไฉน คือ ความเป็นผู้ยังไม่พอในกุศลธรรม  ๑  ความเป็นผู้ไม่ท้อถอย 
+<span class="LineNumber"> 019 </span>ในความเพียร  ๑  ดูก่อนภิกษุทั้งหลาย   ธรรม ๒ อย่างนี้แล.
+<span class="LineNumber"> 020 </span>                                             จบสูตรที่  ๑๕

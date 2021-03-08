@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span><B>ไสยกสัตว์    ผู้เป็นสเหตุกญาณวิปปยุต    ในกามธาตุ, ในขณะที่เกิด   
+<span class="LineNumber"> 002 </span>เหตุ ๒ เหล่านี้   ย่อมเกิดปรากฏแก่สัตว์เหล่านี้.</B>
+<span class="LineNumber"> 003 </span>           อเหตุกวิบาก  ย่อมเกิดปรากฏแก่สัตว์นอกนี้.
+<span class="LineNumber"> 004 </span>           <B>ในกามธาตุ  ในขณะที่เกิด   อาหาร ๔ เหล่าไหน   ย่อมเกิด
+<span class="LineNumber"> 005 </span>ปรากฏแก่สัตว์ทุกจำพวก ?</B>
+<span class="LineNumber"> 006 </span>           คือ   กวฬิงการาหาร   ผัสสาหาร   มโนสัญเจตนาหาร    วิญญาณาหาร
+<span class="LineNumber"> 007 </span>ในกามธาตุ  ใน<B>ขณะที่เกิด  อาหาร ๔ เหล่านี้   ย่อมเกิดปรากฏแก่สัตว์
+<span class="LineNumber"> 008 </span>ทุกจำพวก.</B>
+<span class="LineNumber"> 009 </span>           <B>ในกามธาตุ   ในขณะที่เกิด   ผัลสสะ  ๑  อย่างไหน   ย่อมเกิด
+<span class="LineNumber"> 010 </span>ปรากฏแก่สัตว์ทุกจำพวก ?</B>
+<span class="LineNumber"> 011 </span>           คือ  <B>มโนวิญญาณธาตุสัมผัส ในกามธาตุ  ในขณะที่เกิด  ผัสสะ   
+<span class="LineNumber"> 012 </span>๑  นี้  ย่อมเกิดปรากฏแก่สัตว์ทุกจำพวก.</B>
+<span class="LineNumber"> 013 </span>           <B>ในกามธาตุ ในขณะที่เกิด  เวทนา ๑  สัญญา  ๑  เจตนา ๑  จิต 
+<span class="LineNumber"> 014 </span>๑   อย่างไหน  ย่อมเกิดปรากฏแก่สัตว์ทุกจำพวก ?</B>
+<span class="LineNumber"> 015 </span>           <B>คือ  มโนวิญญาณธาตุ  ในกามธาตุ ในขณะที่เกิด จิต ๑ นี้ ย่อม
+<span class="LineNumber"> 016 </span>เกิดปรากฏแก่สัตว์ทุกจำพวก.</B>
+
+<span class="LineNumber"> 017 </span>                                            <H1>รูปธาตุ</H1>
+<span class="LineNumber"> 018 </span>           [๑๐๙๗]  <B>ในรูปธาตุ   ในขณะที่เกิด   ขันธ์เท่าไร   ย่อมเกิด
+<span class="LineNumber"> 019 </span>ปรากฏ ฯลฯ  จิตเท่าไร  ย่อมเกิดปรากฏ ?</B>
+<span class="LineNumber"> 020 </span>           ในรูปธาตุ  ในขณะที่เกิด  ขันธ์ ๕   อายตนะ ๕  ธาตุ ๕   สัจจะ ๑
+<span class="LineNumber"> 021 </span>อินทรีย์ ๑๐ เหตุ ๓  อาหาร ๓  ผัสสะ ๑  เวทนา ๑  สัญญา ๑  เจตนา ๑  จิต ๑
+<span class="LineNumber"> 022 </span><B>ย่อมเกิดปรากฏแก่เทวดาทั้งหลาย  เว้นแต่พวกอสัญญสัตว์.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ตอบว่า   ทุกกฏของภิกษุผู้อาศัยความไม่เอื้อเฟื้อ  ถ่ายอุจจาระ ปัสสาวะ  
+<span class="LineNumber"> 002 </span>หรือบ้วนเขฬะลงในน้ำ   เกิดด้วยสมุฏฐานอันหนึ่ง   คือ   เกิดแต่กาย   กับจิต
+<span class="LineNumber"> 003 </span>มิใช่วาจา.
+<span class="LineNumber"> 004 </span>                                         <I>เสขิตวัตร  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                           <H1>ปาราชิก  ๔</H1>
+<span class="LineNumber"> 006 </span>           [๑,๒๓๔]   ถามว่า   ปาราชิก ๔   เกิดด้วยสมุฏฐานเท่าไร
+<span class="LineNumber"> 007 </span>           ตอบว่า   ปาราชิก ๔   เกิดด้วยสมุฏฐาน ๓   คือ   บางทีเกิดแต่กายกับ
+<span class="LineNumber"> 008 </span>จิต    มิใช่วาจา ๑    บางทีเกิดแต่วาจากับจิต     มิใช่กาย ๑     บางทีเกิดแต่กาย
+<span class="LineNumber"> 009 </span>วาจา   และจิต  ๑.
+
+<span class="LineNumber"> 010 </span>                                         <H1>สังฆาทิเสส  ๑๓</H1>
+<span class="LineNumber"> 011 </span>           [๑,๒๓๕]   ถามว่า   สังฆาทิเสส ๑๓   เกิดด้วยสมุฏฐานเท่าไร
+<span class="LineNumber"> 012 </span>           ตอบว่า   สังฆาทิเสส ๑๓  เกิดด้วยสมุฏฐาน ๖   คือ   บางทีเกิดแต่กาย
+<span class="LineNumber"> 013 </span>มิใช่วาจา   มิใช่จิต  ๑   บางทีเกิดแต่วาจา   มิใช่กาย   มิใชจิต ๑   บางทีเกิดแต่
+<span class="LineNumber"> 014 </span>กายกับวาจา   มิใช่จิต ๑   บางทีเกิดแต่กายกับจิต    มิใช่วาจา ๑    บางทีเกิดแต่
+<span class="LineNumber"> 015 </span>วาจากับจิต   มิใช่กาย ๑   บางทีเกิดแต่กาย   วาจา   และจิต  ๑.
+
+<span class="LineNumber"> 016 </span>                                               <H1>อนิยต  ๒</H1>
+<span class="LineNumber"> 017 </span>           [๑,๒๓๖]   ถามว่า   อนิยต  ๒  เกิดด้วยสมุฏฐานเท่าไร
+<span class="LineNumber"> 018 </span>           ตอบว่า   อนิยต ๒  เกิดด้วยสมุฏฐาน ๓   คือ   บางทีเกิดแต่กายกับจิต
+<span class="LineNumber"> 019 </span>มิใช่วาจา ๑   บางทีเกิดแต่วาจากับจิต   มิใช่กาย ๑   บางทีเกิดแต่กาย ๑   วาจา
+<span class="LineNumber"> 020 </span>และจิต  ๑.

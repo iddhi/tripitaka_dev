@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  176
+
+<span class="LineNumber"> 002 </span>		รุหกวคฺควณฺณนา  
+
+<span class="LineNumber"> 003 </span>		รุหกชาตกํ 
+<span class="LineNumber"> 004 </span>	อมฺโภ (๑)  รุหกจฺฉินฺนาปีติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 005 </span>โปราณทุติยิกปโลภนํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 006 </span>	วตฺถุ อฏฺ€กนิปาเต อินฺทฺริยชาตเก (๒) อาวิภวิสฺสติ ฯ  
+<span class="LineNumber"> 007 </span>	สตฺถา  ปน  ตํ  ภิกฺขุํ  อยนฺเต  ภิกฺขุ  อิตฺถี  อนตฺถการิกา  
+<span class="LineNumber"> 008 </span>ปุพฺเพปิ  ตํ  (๓) เอสา  สราชิกาย  ปริสาย  มชฺเฌ  ลชฺชาเปตฺวา  
+<span class="LineNumber"> 009 </span>เคหา  นิกฺขมานาการํ อกาสีติ วตฺวา [๔] อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 010 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 011 </span>ตสฺส  อคฺคมเหสิยา  กุจฺฉิมฺหิ  นิพฺพตฺติตฺวา  วยปฺปตฺโต  ปิตุ  
+<span class="LineNumber"> 012 </span>อจฺจเยน  รชฺเช  ปติฏฺ€าย  ธมฺเมน  รชฺชํ  กาเรสิ ฯ  ตสฺส 
+<span class="LineNumber"> 013 </span>รุหโก  นาม  ปุโรหิโต  อโหสิ ฯ  ตสฺส  ปูรณี  (๕) นาม  พฺราหฺมณี 
+<span class="LineNumber"> 014 </span>ภริยา ฯ  ราชา  พฺราหฺมณสฺส  อสฺสํ  ภณฺฑเกน  (๖) อลงฺกริตฺวา
+<span class="LineNumber"> 015 </span>อสฺสํ  อทาสิ ฯ  โส  ตํ  อสฺสํ  อภิรุยฺห (๗) รฺโ  อุปฏฺ€านํ  
+<span class="LineNumber"> 016 </span>คจฺฉติ ฯ  อถ  นํ อลงฺกตสฺส อสฺสสฺส  ปิฏฺเ€  นิสีทิตฺวา 
+<span class="LineNumber"> 017 </span>คจฺฉนฺตมาคจฺฉนฺตฺจ  ทิสฺวา  ตหึ  ตหึ  €ิตา  มนุสฺสา  อโห  
+<span class="LineNumber"> 018 </span>อสฺสสฺส  รูปํ  อโห  อสฺโส  โสภตีติ  อสฺสเมว  ปสํสนฺติ ฯ  
+<span class="LineNumber"> 019 </span># ๑. สี. ม. อปิ. ฯ  ๒. ขุ. ชา. ๒๗/๑๑๗/๒๔๗ ฯ  ๓. ม. เต ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. เอตฺถนฺตเร เตน ยาจิโตติ ทิสฺสติ ฯ  ๕. ม. ปุราณี ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. อสฺสภณฺฑเกน ฯ  ๗. ม. อารุยฺห ฯ

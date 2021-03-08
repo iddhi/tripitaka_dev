@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                   เรื่องผนวกที่ ๑
+<span class="LineNumber"> 002 </span>                        ชื่อชนบท  และ  ชื่อนครหลวง 
+<span class="LineNumber"> 003 </span>           ในที่นี้  เห็นสมควรจะกล่าวถึงชนบททั้งหลาย  อันได้ออกชื่อ
+<span class="LineNumber"> 004 </span>ไว้ในปริเฉทที่ ๑  ให้พิสดารออกไปอีกโดยบรรยาย,  เพื่อเกื้อกูลแก่
+<span class="LineNumber"> 005 </span>ความเข้าใจในการเสด็จเที่ยวจาริกประกาศพระศาสนา.
+<span class="LineNumber"> 006 </span>           ชนบทเหล่านั้น  ย่อมมีนครหลวงทั้งนั้น.  ในนิทานต้นพระสูตร
+<span class="LineNumber"> 007 </span>เมื่อกล่าวถึงชื่อนครหลวงแล้ว  ไม่กล่าวถึงชนบทเลย,  ต่อเสด็จใน
+<span class="LineNumber"> 008 </span>ตำบลอื่นจึงกล่าว  เช่นเดียวกับเราเรียกนครหลวงแห่งประเทศนั้น ๆ
+<span class="LineNumber"> 009 </span>ในบัดนี้ว่าลอนดอน ( London )  ปารีส ( Paris )  เบอรลิน ( Berlin )
+<span class="LineNumber"> 010 </span>ไม่ต้องออกชื่อประเทศ  เพราะเหตุรู้จักกันดังแล้ว  แต่ในภายหลังชื่อ 
+<span class="LineNumber"> 011 </span>ชนบทเลยศูนย์ไป  เช่นนครโกสัมพี  เป็นราชธานีของชนบทชื่ออะไร
+<span class="LineNumber"> 012 </span>ยากที่จะรู้, เว้นไว้แต่นครอันมีข่าวมากในพระคัมภีร์  คือ  สาวัตถี
+<span class="LineNumber"> 013 </span>ราชคฤห์  ยังรู้กันอยู่.  ข้าพเจ้าค้นหาชื่อแห่งนครหลวงแห่งชนบทเหล่า
+<span class="LineNumber"> 014 </span>นี้  ได้พบดั่งนี้ :-
+<span class="LineNumber"> 015 </span>                                         นครหลวง
+<span class="LineNumber"> 016 </span>                             แห่งอังคะ     ชื่อ     จัมปา<SUP>๑</SUP>
+
+<span class='footnote'>๑.  อังคะ  ตั้งอยู่ปลายแม่น้ำคงคา ( Ganges ) เทียบราวมณฑลเบงคอล ( Bengal )</span>
+<span class='footnote'>นครหลวงชื่อจำปา บัดนี้เรียกว่า ภคัลปุร ( Bhagalpur ) อยู่เหนือฝั่งแม่น้ำคงคา</span>
+<span class='footnote'>ข้างขวา.</span>

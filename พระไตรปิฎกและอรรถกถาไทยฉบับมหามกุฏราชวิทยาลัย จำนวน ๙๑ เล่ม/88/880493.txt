@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นสัญโญชนสัมปยุตตธรรม
+<span class="LineNumber"> 002 </span>และมหาภูตรูปทั้งหลาย. 
+<span class="LineNumber"> 003 </span>           ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑   ที่สหรคตด้วยอุทธัจจะ
+<span class="LineNumber"> 004 </span>และโมหะ ฯลฯ  ขันธ์ ๒ ฯลฯ 
+
+<span class="LineNumber"> 005 </span>                               <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๔๕๔] ๑.  <B>สัญโญชนสัมปยุตตธรรม     อาศัยสัญโญชน-
+<span class="LineNumber"> 007 </span>สัมปยุตตธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย  มี  ๓ วาระ   เหมือนกับ
+<span class="LineNumber"> 008 </span>ปฏิจจวาระ.</B>
+<span class="LineNumber"> 009 </span>                       ๔.  <B>สัญโญชนวิปปยุตตธรรม      อาศัยสัญโญชน-
+<span class="LineNumber"> 010 </span>วิปปยุตตธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ   ตลอดถึงปฏิสนธิ   ขันธ์ทั้งหลายที่เป็นสัญโญชนวิปปยุตตธรรม 
+<span class="LineNumber"> 012 </span>อาศัยหทยวัตถุ.
+<span class="LineNumber"> 013 </span>           จักขุวิญญาณ   อาศัยจักขายตนะ ฯลฯ  กายวิญญาณ  อาศัยกายายตนะ.
+<span class="LineNumber"> 014 </span>           ขันธ์ทั้งหลายที่เป็นสัญโญชนวิปปยุตตธรรม    อาศัยหทยวัตถุ.
+<span class="LineNumber"> 015 </span>           โมหะ  ที่สหรคตด้วยอุทธัจจะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 016 </span>                       ๕.  <B>สัญโญชนสัมปยุตตธรรม     อาศัยสัญโญชน-
+<span class="LineNumber"> 017 </span>วิปปยุตตธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ   ขันธ์ทั้งหลายที่เป็นสัญโญชนสัมปยุตตธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 019 </span>           สัมปยุตตขันธ์ทั้งหลาย   อาศัยโมหะ  ที่สหรคตด้วยอุทธัจจะ.

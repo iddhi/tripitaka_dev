@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>อตีตานาคตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                           <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                          <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 004 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๑๐๑๖]   ทุกขสัจจะเคยเกิดแก่บุคคลใด,    สมุทยสัจจะก็จักดับ
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         คำถามที่เป็นอนาคตกับด้วยอดีต    อนุโลมก็ดี  ปัจจนิกก็ดี   ท่าน
+<span class="LineNumber"> 008 </span>จำแนกไว้แล้ว  ในนิโรธวาระฉันใด     แม้ในอุปปาทนิโรธวาระ    ผู้มี
+<span class="LineNumber"> 009 </span>ปัญญาก็พึงจำแนกฉันนั้น.
+<span class="LineNumber"> 010 </span>                          <I>จบ  ทุกขสัจจมูละ  สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 011 </span>                                       <I>ทุกขสัจจมูล  จบ</I>
+<span class="LineNumber"> 012 </span>                                       <I>ปุคคลวาระ  จบ</I>
+<span class="LineNumber"> 013 </span>                             <I>อตีตานาคตวาระ  อนุโลม  จบ</I>
+<span class="LineNumber"> 014 </span>                                  <I>อุปปาทนิโรธวาระ  จบ</I>
+<span class="LineNumber"> 015 </span>                                        <B>ปวัตติวาระ  จบ</B>

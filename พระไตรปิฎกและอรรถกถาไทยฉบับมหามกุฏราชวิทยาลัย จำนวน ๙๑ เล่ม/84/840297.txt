@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่ามนินทรีย์กำลังเกิดแก่บุคคลใดในภูมิใด,     ชีวิตินทรีย์ก็
+<span class="LineNumber"> 002 </span>กำลังเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>                        <I>จบ  ชีวิตินทริยมูละ   มนินทริยมูลี</I>
+<span class="LineNumber"> 005 </span>                                      <I>ชีวิตินทริยมูลจบ</I>

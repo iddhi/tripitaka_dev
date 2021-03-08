@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>๖.  ทุติยขตสูตร</H1>  
+
+<span class="LineNumber"> 002 </span>              <H1>ว่าด้วยเหตุให้ตนถูกทำลายและไม่ถูกทำลาย</H1> 
+
+<span class="LineNumber"> 003 </span>         [๕๙๑]  ดูก่อนภิกษุทั้งหลาย    บุคคลประกอบด้วยธรรม ๓ ประการ
+<span class="LineNumber"> 004 </span>ฯลฯ   คือด้วยกายกรรมที่มีโทษ    วจีกรรมที่มีโทษ    มโนกรรมที่มีโทษ ฯลฯ
+<span class="LineNumber"> 005 </span>คือด้วยกายกรรมที่ไม่มีโทษ  วจีกรรมทีไม่มีโทษ  มโนกรรมที่ไม่มีโทษ ฯลฯ
+<span class="LineNumber"> 006 </span>                                           <I>จบทุติยขตสูตรที่  ๖</I>
+
+<span class="LineNumber"> 007 </span>                                           <H1>๗. ตติยขตสูตร</H1>
+
+<span class="LineNumber"> 008 </span>                     <H1>ว่าด้วยเหตุให้ตนถูกทำลายและไม่ถูกทำลาย</H1>
+
+<span class="LineNumber"> 009 </span>         [๕๙๒]  ดูก่อนภิกษุทั้งหลาย   บุคคลประกอบด้วยธรรม ๓ ประการ
+<span class="LineNumber"> 010 </span>ฯลฯ คือด้วยกายกรรมผิด  วจีกรรมผิด  มโนกรรมผิด ฯลฯ คือด้วยกายกรรมชอบ
+<span class="LineNumber"> 011 </span>วจีกรรมชอบ  มโนธรรมชอบ ฯลฯ
+<span class="LineNumber"> 012 </span>                                             <I>จบตติยขตสูตรที่  ๗</I>
+
+<span class="LineNumber"> 013 </span>                                           <H1>๘.  จตุตถขตสูตร</H1>
+
+<span class="LineNumber"> 014 </span>                      <H1>ว่าด้วยเหตุให้ตนถูกทำลายและไม่ถูกทำลาย</H1>
+
+<span class="LineNumber"> 015 </span>         [๕๙๓]  ดูก่อนภิกษุทั้งหลาย    บุคคลประกอบด้วยธรรม ๓ ประการ
+<span class="LineNumber"> 016 </span>ฯลฯ  คือด้วยกายกรรมโสโครก    วจีกรรมโสโครก   มโนกรรมโสโครก  ฯลฯ
+<span class="LineNumber"> 017 </span>คือด้วยกายกรรมสะอาด  วจีกรรมสะอาด  มโนกรรมสะอาด ฯลฯ
+<span class="LineNumber"> 018 </span>                                          <I>จบจตุตถขตสูตรที่  ๘</I>

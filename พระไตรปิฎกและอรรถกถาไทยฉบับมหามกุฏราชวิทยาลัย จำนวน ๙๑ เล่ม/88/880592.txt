@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 002 </span>                                    <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>           [๕๔๒]  ๑.  <B>คันถวิปปยุตตธรรม     เจือกับคันถวิปปยุตตธรรม 
+<span class="LineNumber"> 004 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  ฯลฯ  อาศัยคันถวิปปยุตตธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ
+<span class="LineNumber"> 006 </span>           ในอเหตุกปฏิสนธิขณะ ฯลฯ โมหะ  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคต 
+<span class="LineNumber"> 007 </span>ด้วยอุทธัจจะ เจือกับขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 008 </span>                                                    ฯลฯ
+
+<span class="LineNumber"> 009 </span>                                            <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 010 </span>                        <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 011 </span>           [๕๔๓]  ในนเหตุปัจจัย  มี ๑ วาระ    ในนอธิปติปัจจัย  มี ๖ วาระ
+<span class="LineNumber"> 012 </span>ในนปุเรชาตปัจจัย มี ๖ วาระ  ในนปัจฉาชาตปัจจัย มี ๖วาระ  ในนอาเสวน-
+<span class="LineNumber"> 013 </span>ปัจจัย  มี ๖ วาระ  ในนกัมมปัจจัย  มี ๔ วาระ   ในนวิปากปัจจัย  มี ๖ วาระ
+<span class="LineNumber"> 014 </span>ในนฌานปัจจัย  มี ๑ วาระ  ในนมัคคปัจจัย  มี ๑ วาระ  ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 015 </span>มี ๖ วาระ.
+
+<span class="LineNumber"> 016 </span>                                        <H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 017 </span>                    <H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 018 </span>           [๕๔๔]  <B>เพราะเหตุปัจจัย</B>    ในนอธิปติปัจจัย  มี  ๖ วาระ...    ใน
+<span class="LineNumber"> 019 </span>นปุเรชาตปัจจัย   มี ๖ วาระ  ในนปัจฉาชาตปัจจัย  มี ๖ วาระ   ในนอาเสวน-

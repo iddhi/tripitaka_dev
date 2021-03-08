@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ในรูปาวจรภูมิ    อรูปาวจรภูมิสัทธินทรีย์เคยเกิดในภูมินั้น   แต่
+<span class="LineNumber"> 002 </span>ฆานินทรีย์ไม่ใช่เคยเกิดในภูมินั้น,    ในกามาวจรภูมิสัทธินทรีย์เคยเกิด
+<span class="LineNumber"> 003 </span>และฆานินทรีย์ก็เคยเกิดในภูมินั้น.
+<span class="LineNumber"> 004 </span>                       <I>จบ  ฆานินทริยมูละ  สัทธินทริยมูลี</I>
+
+<span class="LineNumber"> 005 </span><B>ฆานินทริยมูละ  ปัญญินทริย   ฯลฯ   มนินทริยมูลี:-</B>
+<span class="LineNumber"> 006 </span>         [๗๔๑]   ฆานินทรีย์เคยเกิดในภูมิใด,    ปัญญินทรีย์     ฯลฯ
+<span class="LineNumber"> 007 </span>มนินทรีย์ก็เคยเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า     มนินทรีย์เคยเกิดในภูมิใด,      ฆานินทรีย์ก็เคยเกิด
+<span class="LineNumber"> 010 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ในรูปาวจรภูมิ    อรูปาวจรภูมิมนินทรีย์เคยเกิดในภูมินั้น    แต่
+<span class="LineNumber"> 012 </span>ฆานินทรีย์ไม่ใช่เคยเกิดในภูมินั้น,      ในกามาวจรภูมิมนินทรีย์เคยเกิด
+<span class="LineNumber"> 013 </span>และฆานินทรีย์ก็เคยเกิดในภูมินั้น.
+<span class="LineNumber"> 014 </span>          <I>จบ  ฆานินทริยมูละ  ปัญญินทริย  ฯลฯ   มนินทริยมูลี</I>
+<span class="LineNumber"> 015 </span>                                 <I>ฆานินทริยมูล  จบ</I>

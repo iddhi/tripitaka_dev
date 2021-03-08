@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  17  สหสฺสวคฺควณฺณนา  หน้า  680
+
+<span class="LineNumber"> 002 </span>เทหิ  อิโต  ปฏฺ€าย  มํ  มตาติ  ธาเรหิ  ทาสี  วา  เต  หุตฺวา
+<span class="LineNumber"> 003 </span>หตฺถกมฺมํ  กริสฺสามีติ  วตฺวา อิมํ คาถมาห
+<span class="LineNumber"> 004 </span>	อิเม สุวณฺณเกยูรา		สพฺเพ เวฬุริยามยา
+<span class="LineNumber"> 005 </span>	สพฺพฺจ คณฺห ภทฺทนฺเต  มมํ ทาสิฺจ สาวยาติ (๑)  ฯ
+<span class="LineNumber"> 006 </span>ตํ  สุตฺวา  โจโร  เอวํ กเต ตฺวํ คนฺตฺวา (๒)  มาตาปิตูนํ
+<span class="LineNumber"> 007 </span>อาจิกฺขิสฺสสิ  มาเรสฺสามิเยว ตฺวํ มา พาฬฺหํ ปริเทวีติ วตฺวา
+<span class="LineNumber"> 008 </span>อิมํ คาถมาห
+<span class="LineNumber"> 009 </span>	มา พาฬฺหํ ปริเทเวสิ	 ขิปฺปํ พนฺธาหิ ภณฺฑกํ
+<span class="LineNumber"> 010 </span>	น ตุยฺหํ ชีวิตํ อตฺถิ	 สพฺพํ คณฺหามิ ภณฺฑกนฺติ ฯ
+<span class="LineNumber"> 011 </span>	สา  จินฺเตสิ  อโห  อิทํ  กมฺมํ  ภาริยํ  ปฺา  นาม
+<span class="LineNumber"> 012 </span>น  ปจิตฺวา  ขาทนตฺถาย  กตา  อถ  โข วิจารณตฺถาย กตา
+<span class="LineNumber"> 013 </span>ชานิสฺสามิสฺส  กตฺตพฺพนฺติ ฯ  อถ  นํ  สา  อาห  สามิ
+<span class="LineNumber"> 014 </span>ยทา  ตฺวํ  โจโรติ  คเหตฺวา  นียสิ  ตทา  อหํ  มาตาปิตูนํ
+<span class="LineNumber"> 015 </span>อาจิกฺขึ  เต  สหสฺสํ  วิสฺสชฺเชตฺวา  ตํ  อานาเปตฺวา  เคเห  กรึสุ
+<span class="LineNumber"> 016 </span>ตโต  ปฏฺ€าย  อหํ  ตุยฺหํ  อุปการิกา  อชฺช  เม  สุทิฏฺ€ํ  กตฺวา
+<span class="LineNumber"> 017 </span>อตฺตานํ  วนฺทิตุํ  เทหีติ ฯ  โส  สาธุ  ภทฺเท  สุทิฏฺ€ํ  กตฺวา
+<span class="LineNumber"> 018 </span>วนฺทาหีติ  วตฺวา  ปพฺพตนฺเต  อฏฺ€าสิ ฯ  อถ  นํ  สา  ติกฺขตฺตุํ
+<span class="LineNumber"> 019 </span># ๑  ม.   อิทํ สุวณฺณเกยูรํ			มุตฺตา เวฬุริยา พหู
+<span class="LineNumber"> 020 </span>#	      สพฺพํ หรสฺสุ ภทฺทนฺเต	มํ จ ทาสีติ สาวยาติ ฯ
+<span class="LineNumber"> 021 </span># ๒  ยุ.  เอวํ กเถตฺวา คนฺตฺวา ฯ

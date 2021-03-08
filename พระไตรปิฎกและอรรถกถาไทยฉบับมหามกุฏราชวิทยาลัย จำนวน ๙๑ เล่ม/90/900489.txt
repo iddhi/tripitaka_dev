@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>					   <H2>ปัจจนียนัย</H2>	                   		 
+<span class="LineNumber"> 002 </span>		       <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 003 </span>		[๑๔๔๔]  ในนอธิปติปัจจัย  มี ๕ วาระ    ในนปุเรชาตปัจจัย  มี ๕
+<span class="LineNumber"> 004 </span>วาระ ฯลฯ    ในนกัมมปัจจัย  มี ๓ วาระ    ในนวิปากปัจจัย  มี ๕ วาระ  ฯลฯ
+<span class="LineNumber"> 005 </span>ในนวิปปยุตตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 006 </span>           สหชาตวาระเป็นต้น   พึงให้พิสดาร.
+
+<span class="LineNumber"> 007 </span>                    		 <H1>กุศลบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 008 </span>                        		<H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 009 </span>                        		<H2>เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>		[๑๔๔๕]  ๑.  กุศลธรรมที่เป็นเจตสิกธรรม เป็นปัจจัยแก่กุศล
+<span class="LineNumber"> 011 </span>ธรรมที่เป็นเจตสิกธรรม  ด้วยอำนาจของเหตุปัจจัย    ฯลฯ
+<span class="LineNumber"> 012 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๑๔๔๖]  นเหตุปัจจัย มี ๓ วาระ    ในอารัมมณปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 014 </span>ในอธิปติปัจจัย  มี ๙ วาระ.                     
+<span class="LineNumber"> 015 </span>           วาระต้น  มี ๓ วาระ  เป็นสหชาตาธิปติ
+<span class="LineNumber"> 016 </span>           วาระท่ามกลาง มี   ๓  วาระ     เฉพาะวาระท่ามกลางเท่านั้น       เป็น
+<span class="LineNumber"> 017 </span>สหชาตาธิปติ

@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>น  ทุกขินทริยมูล</H1>
+<span class="LineNumber"> 002 </span>         ธรรมที่ไม่ชื่อว่าทุกขะ,   ไม่ชื่อว่า   อินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>ธรรมที่ไม่ชื่อว่าอินทรีย์,   ไม่ชื่อว่า  จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>                                        ฯ ล ฯ
+<span class="LineNumber"> 005 </span>ธรรมที่ไม่ชื่อว่าอินทรีย์,   ไม่ชื่อว่า  อัญญาตาวินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>                              <I>น ทุกขินทริยมูล จบ</I>
+
+<span class="LineNumber"> 007 </span>                             <H1>น  โสมนัสสินทริยมูล</H1>  
+<span class="LineNumber"> 008 </span>         ธรรมที่ไม่ชื่อว่าโสมนัสสะ,  ไม่ชื่อว่า  อินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>ธรรมที่ไม่ชื่อว่าอินทรีย์,  ไม่ชื่อว่า  จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>                                        ฯ ล ฯ
+<span class="LineNumber"> 011 </span>ธรรมที่ไม่ชื่อว่าอินทรีย์,   ไม่ชื่อว่า  อัญญาตาวินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>                         <I>น   โสมนัสสินทริยมูล  จบ</I>

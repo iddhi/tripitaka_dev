@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  324
+
+<span class="LineNumber"> 002 </span>วินฏฺ€กุฏุมฺพสฺส  จ  ทลิทฺทสฺส  จ  ราชวสติ  นาม  น  
+<span class="LineNumber"> 003 </span>สมฺปชฺชติ ฯ  อาสีนานนฺติ  อาคนฺตฺวา  นิสินฺนานํ ฯ  มตานํ (๑)
+<span class="LineNumber"> 004 </span>มตกภตฺตํ (๒) วิย  เทนฺโต  ฆาสจฺฉาทนมตฺตํ  ทาเปยฺย ฯ 
+<span class="LineNumber"> 005 </span>อุฏฺ€านสมฺปนฺเนติ  อุฏฺ€านวิริเยน(๓) สมนฺนาคเต ฯ  
+<span class="LineNumber"> 006 </span>	[๙๗๑]สีลวา จ อโลโภ(๔) จ	อนุวตฺโต จสฺส ราชิโน  
+<span class="LineNumber"> 007 </span>		อาวีรโห หิโต ตสฺส	ส ราชวสตึ วเส  
+<span class="LineNumber"> 008 </span>		ฉนฺทฺู ราชิโน จสฺส	จิตฺตตฺโถ จสฺส ราชิโน  
+<span class="LineNumber"> 009 </span>		อสํกุสกวุตฺติสฺส		ส ราชวสตึ วเส  
+<span class="LineNumber"> 010 </span>		อจฺฉาทเน (๕)จ นหาปเน  โธเว ปาเท อโธสิรํ  
+<span class="LineNumber"> 011 </span>		อาหโตปิ น กุปฺเปยฺย	ส ราชฺวสตึ วเสติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อโลโภติ(๖)  อลุทฺโธ ฯ  อนุวตฺโต  จสฺส  ราชิโนติ 
+<span class="LineNumber"> 013 </span>อสฺส  ราชิโน  มนํ  อนุวตฺโต ฯ  จิตฺตตฺโถติ  จิตฺเต  €ิโต  
+<span class="LineNumber"> 014 </span>ราชจิตฺตวสิโกติ  อตฺโถ ฯ  อสํกุสกวุตฺติสฺสาติ  อปฏิโลมวุตฺติ  
+<span class="LineNumber"> 015 </span>อสฺส ฯ  อโธสิรนฺติ  ปาเท  โธวนฺโตปิ  สิรํ  อโธ(๗)  กตฺวา
+<span class="LineNumber"> 016 </span>เหฏฺ€ามุโขว  โธเวยฺย น รฺโ  มุขํ โอโลเกยฺยาติ อตฺโถ ฯ  
+<span class="LineNumber"> 017 </span>	[๙๗๒](๘)กุมฺภิมฺหิ อฺชลึ กยิรา(๘)	วายสํ วาปิ ปทกฺขิณํ  
+<span class="LineNumber"> 018 </span>		กิเมว สพฺพกามานํ	ทาตารํ ธีรมุตฺตมํ  
+<span class="LineNumber"> 019 </span># ๑. ม. ปุตฺตภาตานํ มตสตฺตานํ ฯ  ๒. สี. ยุ. ชูติกภตฺตํ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. อุฏฺ€านวีริเยน ฯ   ๔. ม. อโลโล ฯ  ๕. ม. อุจฺฉาทเย ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. อโลโลติ ฯ ๗. ม. อโธ สิรํ ฯ  ๘. ม. กุมฺภมฺปฺชลึ กริยา ฯ 

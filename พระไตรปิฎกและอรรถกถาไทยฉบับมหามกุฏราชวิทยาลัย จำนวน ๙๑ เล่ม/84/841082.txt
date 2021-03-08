@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>ปัจจุปปันนาตีตวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ  โทมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๑๓๙๕]   บุคคลใดกำลังรู้แจ้งจักขุนทรีย์,   บุคคลนั้นก็เคยละ
+<span class="LineNumber"> 005 </span>โทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.  
+<span class="LineNumber"> 007 </span>         ก็หรือว่า บุคคลใดเคยละโทมนัสสินทรีย์,   บุคคลนั้นก็กำลังรู้แจ้ง
+<span class="LineNumber"> 008 </span>จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         บุคคล ๒ จำพวก    เคยละโทมนัสสินทรีย์   แต่ไม่ใช่กำลังรู้แจ้ง
+<span class="LineNumber"> 010 </span>จักขุนทรีย์,    บุคคลที่ถึงพร้อมด้วยอรหัตตมรรค   เคยละโทมนัสสินทรีย์
+<span class="LineNumber"> 011 </span>และก็กำลังรู้แจ้งจักขุนทรีย์.
+<span class="LineNumber"> 012 </span>                     <I>จบ   จักขุนทริยมูละ   โทมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 013 </span><B>จักขุนทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 014 </span>         [๑๓๙๖]   บุคคลใดกำลังรู้แจ้งจักขุนทรีย์,    บุคคลนั้นก็เคย
+<span class="LineNumber"> 015 </span>เจริญอนัญญาตัญญัสสามีตินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         ใช่.
+ 

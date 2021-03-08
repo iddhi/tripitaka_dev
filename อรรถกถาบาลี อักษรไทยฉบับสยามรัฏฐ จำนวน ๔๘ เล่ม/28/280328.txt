@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28   หน้า  328
+
+<span class="LineNumber"> 002 </span>		มหิฬามุขชาตกํ  
+<span class="LineNumber"> 003 </span>	โปราณโจราน  วโจ  นิสมฺมาติ  อิทํ  สตฺถา  เวฬุวเน 
+<span class="LineNumber"> 004 </span>วิหรนฺโต  เทวทตฺตํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	เทวทตฺโต  อชาตสตฺตุกุมารํ  ปสาเทตฺวา  ลาภสกฺการํ 
+<span class="LineNumber"> 006 </span>อุปฺปาเทสิ (๑)ฯ  อชาตสตฺตุกุมาโร  เทวทตฺตสฺส  คยาสีเส  วิหารํ  
+<span class="LineNumber"> 007 </span>การาเปตฺวา  นานคฺครเสหิ  ติวสฺสิกคนฺธสาลิโภชนสฺส  ทิวเส
+<span class="LineNumber"> 008 </span>ทิวเส  ปฺจ  ถาลิกสตานิ(๒)  อภิหริ ฯ  ลาภสกฺการํ  นิสฺสาย 
+<span class="LineNumber"> 009 </span>เทวทตฺตสฺส  ปริวาโร  มหนฺโต  ชาโต ฯ  เทวทตฺโต  ปริวาเรน
+<span class="LineNumber"> 010 </span>สทฺธึ  วิหาเรเยว  โหติ ฯ  เตน  สมเยน  ราชคหวาสิกา  เทฺว 
+<span class="LineNumber"> 011 </span>สหายา ฯ  เตสุ  เอโก  สตฺถุ  สนฺติเก  ปพฺพชิโต  เอโก 
+<span class="LineNumber"> 012 </span>เทวทตฺตสฺส  สนฺติเก  ปพฺพชิโต ฯ  เต  อฺมฺํ  ตสฺมึ  ตสฺมึ
+<span class="LineNumber"> 013 </span>€าเนปิ  ปสฺสนฺติ  วิหารํ คนฺตฺวาปิ ปสฺสนฺติเยว ฯ
+<span class="LineNumber"> 014 </span>	อเถกทิวสํ  เทวทตฺตสฺส  นิสฺสิตโก  อิตรํ  อาห  อาวุโส  
+<span class="LineNumber"> 015 </span>กึ  ตฺวํ  เทวสิกํ  เทวสิกํ  เสเทหิ  มุฺจมาเนหิ  ปิณฺฑาย  จรสิ 
+<span class="LineNumber"> 016 </span>คยาสีเส  วิหาเร  นิสีทิตฺวาว  นานคฺครเสหิ  สุโภชนํ  ภุฺช(๓)
+<span class="LineNumber"> 017 </span>เอวรูโป  ปายาโส(๔) อิธ  นตฺถิ  กึ  ตฺวํ  ทุกฺขํ  อนุโภสิ  กินฺเต  
+<span class="LineNumber"> 018 </span>ปาโตว  คยาสีสํ  อาคนฺตฺวา  สอุตฺตริภงฺคํ  ยาคุํ  ปิวิตฺวา  
+<span class="LineNumber"> 019 </span>อฏฺ€ารสวิธํ  ขชฺชกํ  ขาทิตฺวา  นานคฺครเสหิ  สุโภชนํ  ภุฺชิตุํ 
+<span class="LineNumber"> 020 </span># ๑. ม. นิปฺผาเทสิ ฯ ๒. ม. ถาลิปากสตานิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. เทวทตฺโต ภุฺชติ ฯ ๔. ม. เอวรูโป อุปาโย ฯ

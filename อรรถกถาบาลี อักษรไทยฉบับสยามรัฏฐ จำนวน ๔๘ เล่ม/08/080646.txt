@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ จุลฺลยมกวคฺควณฺณนา  หน้า  ๖๔๖
+
+<span class="LineNumber"> 002 </span>สุสมนฺนิฏฺโ€  สภาเวเนว  สุฏฺ€ุ  สมนฺเนสิโต  โหตีติ  อตฺโถ ฯ
+<span class="LineNumber"> 003 </span>เสสํ  สพฺพตฺถ  อุตฺตานเมวาติ ฯ
+<span class="LineNumber"> 004 </span>			  วีมํสกสุตฺตวณฺณนา  นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 005 </span>					สตฺตมํ ฯ
+					
+<span class="LineNumber"> 006 </span>	  			โกสมฺพิยสุตฺตวณฺณนา  
+<span class="LineNumber"> 007 </span>	  เอวมฺเม  สุตนฺติ  โกสมฺพิยสุตฺตํ (๑) ตตฺถ  โกสมฺพิยนฺติ  
+<span class="LineNumber"> 008 </span>เอวํนามเก  นคเร  ตสฺส  กิร  นครสฺส  อารามโปกฺขรณีอาทีสุ  
+<span class="LineNumber"> 009 </span>เตสุ  เตสุ  €าเนสุ  โกสมฺพรุกฺขา(๒) อุสฺสนฺนา  อเหสุํ  ตสฺมา  
+<span class="LineNumber"> 010 </span>โกสมฺพีติ  สงฺขํ  อคมาสิ  กุสมฺพสฺส นาม  อิสิโน  อสฺสมโต  
+<span class="LineNumber"> 011 </span>อวิทูเร  มาปิตตฺตาติปิ(๓)  เอเก  โฆสิตาราเมติ  โฆสิตเสฏฺ€ินา  
+<span class="LineNumber"> 012 </span>การิเต  อาราเม. 
+<span class="LineNumber"> 013 </span>	  ปุพฺเพ  กิร  อทิลรฏฺ€ํ  นาม  อโหสิ  ตโต  โกตุหลิโก  (๔)  
+<span class="LineNumber"> 014 </span>ทลิทฺโท  ฉาตกภเยน  สปุตฺตทาโร  เกทารปริจฺฉินฺนํ  สุภิกฺขํ  รฏฺ€ํ(๕)  
+<span class="LineNumber"> 015 </span>คจฺฉนฺโต  ปุตฺตํ  วหิตุํ  อสกฺโกนฺโต  ฉฑฺเฑตฺวา  อคมาสิ ฯ
+<span class="LineNumber"> 016 </span>มาตา  นิวตฺติตฺวา  ตํ  คเหตฺวา  คตา  เต  เอกํ  โคปาลกคามกํ  
+<span class="LineNumber"> 017 </span>ปวิสึสุ  โคปาลกานฺจ  ตทา  พหุปายาโส  (๖)  ปฏิยตฺโต  โหติ ฯ
+<span class="LineNumber"> 018 </span>ตโต  ปายาสํ  ลภิตฺวา  ภุฺชึสุ  อถ  โส  ปุริโส  พหุปายาสํ  (๗) 
+<span class="LineNumber"> 019 </span># ๑. ม. โกสมฺพิยสุตฺตํ ฯ  ๒. ม. โกสมฺพรุกฺขา ว ฯ  ๓. ม. มาปิตตฺตาติปิ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. โกตุหลโก ฯ  ๕. ม. สุภิกขํ รฏฺ€ํ ฯ ๖. ม. ปหูตปายาโส ฯ 
+<span class="LineNumber"> 021 </span># ๗. สี. พลวปายาสํ ฯ

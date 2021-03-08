@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>มนุษย์   สหายของฉันสั่งว่าจงตามมาภายหลัง  แล้วเขาไปล่วงหน้า   ฉัน
+<span class="LineNumber"> 002 </span>จักไปกับสหายนั้น   เมื่อฉันอยู่ในครรลองมนุษย์นั้น   ควรคบคนเช่นไร
+<span class="LineNumber"> 003 </span>ดังนี้    จึงได้กล่าวคาถาที่  ๒  ว่า :- 
+<span class="LineNumber"> 004 </span>                        <B>ข้าแต่พ่อ   ฉันออกจากป่าสู่บ้านแล้ว
+<span class="LineNumber"> 005 </span>           ควรคบคนที่มีศีลอย่างไร   มีวัตรอย่างไร  ฉัน
+<span class="LineNumber"> 006 </span>           ขอถามท่าน  ขอท่านจงบอกฉันด้วย.</B>
+<span class="LineNumber"> 007 </span>         ลำดับนั้น    ดาบสผู้บิดาเมื่อจะบอกแก่ดาบสหนุ่ม     จึงได้กล่าว
+<span class="LineNumber"> 008 </span>คาถาที่เหลือว่า :-
+<span class="LineNumber"> 009 </span>                        <B>แน่ะพ่อ   ผู้ใดคุ้นเคยคับเจ้า   อดทนต่อ
+<span class="LineNumber"> 010 </span>           ความคุ้นเคยของเจ้าได้   เป็นผู้ตั้งใจฟังคำพูด 
+<span class="LineNumber"> 011 </span>           ของเจ้าและอดทนต่อคำพูดของเจ้าได้  เจ้าไป
+<span class="LineNumber"> 012 </span>           จากที่นี้แล้ว    จงคบผู้นั้นเถิด.
+<span class="LineNumber"> 013 </span>                        ผู้ใดไม่มีกรรมชั่วด้วยกายวาจาใจ   เจ้า
+<span class="LineNumber"> 014 </span>           ไปจากที่นี้แล้ว   จงตั้งตัวเหมือนบุตรที่เกิดแต่
+<span class="LineNumber"> 015 </span>           อกผู้นั้น   จงคบผู้นั้นเถิด.
+<span class="LineNumber"> 016 </span>                        อนึ่ง  ผู้ใดย่อมประพฤติโดยธรรม   แม้
+<span class="LineNumber"> 017 </span>           เมื่อประพฤติอยู่ก็ไม่ถือตัว   เจ้าไปจากที่นี้แล้ว</B>

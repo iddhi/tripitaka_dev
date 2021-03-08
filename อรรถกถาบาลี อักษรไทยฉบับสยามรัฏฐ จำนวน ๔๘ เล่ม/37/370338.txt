@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  338
+
+<span class="LineNumber"> 002 </span>	[๙๘๔]ปณฺฑิโต จ วิยตฺโต จ	วิภาวี จ วิจกฺขโณ  
+<span class="LineNumber"> 003 </span>		ขิปฺปํ โมเจติ(๑) อตฺตานํ	มา ภายิตฺถาคมิสฺสตีติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  วิยตฺโตติ  เวยฺยตฺติยา  วิจารณปฺาย  สมนฺนาคโต ฯ  
+<span class="LineNumber"> 005 </span>วิภาวีติ  อตฺถานตฺถํ  การณาการณํ  วิภาเวตฺวา  ทสฺเสตฺวา  กเถตุํ  
+<span class="LineNumber"> 006 </span>สมตฺโถ ฯ  วิจกฺขโณติ  ตํ  ขณํเยว  €านุปฺปตฺติการณวิชานนปฺาย(๒)  
+<span class="LineNumber"> 007 </span>ยุตฺโต ฯ  มา  ภายิตฺถาติ  มา  ภายิตฺถ(๓)  ขิปฺปํ  อตฺตานํ  โมเจตฺวา  
+<span class="LineNumber"> 008 </span>อาคมิสฺสตีติ อสฺสาเสสิ ฯ  
+<span class="LineNumber"> 009 </span>	นาคราปิ  ปณฺฑิโต [๔] รฺา  สทฺธึ (๕) กเถตฺวา  คโต
+<span class="LineNumber"> 010 </span>ภวิสฺสตีติ  อสฺสาสํ ปฏิลภึสูติ ฯ  
+<span class="LineNumber"> 011 </span>			อนฺตรเปยฺยาโล นิฏฺ€ิโต ฯ  
+<span class="LineNumber"> 012 </span>	ปุณฺณโกปิ  มหาสตฺตํ  กาฬาคิริมตฺถเก  €เปตฺวา  อิมสฺมึ  
+<span class="LineNumber"> 013 </span>ชีวมาเน  มยฺหํ  วุฑฺฒิ  นาม  นตฺถิ  อิมํ  มาเรตฺวา  หทยมํสํ 
+<span class="LineNumber"> 014 </span>คเหตฺวา  นาคภวนํ  เนตฺวา  วิมลาย  ทตฺวา อิรนฺทตึ คเหตฺวา
+<span class="LineNumber"> 015 </span>เทวโลกํ คมิสฺสามีติ  จินฺเตสิ ฯ  
+<span class="LineNumber"> 016 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 017 </span>	[๙๘๕]โส ตตฺถ คนฺตฺวาน วิจินฺตยนฺโต  
+<span class="LineNumber"> 018 </span>		อุจฺจาวจา เจตนกา ภวนฺติ  
+<span class="LineNumber"> 019 </span># ๑. ม. โมจยิ ฯ  ๒. ม. ตํขเณเยว €านุปฺปตฺติกาย 
+<span class="LineNumber"> 020 </span># การณจินฺตนปฺาย ฯ  ๓. ม. มา ภายถ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. เอตฺถนฺตเร กิร รฺโติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. อิเม ปา€า นตฺถิ ฯ 

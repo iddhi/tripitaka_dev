@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  295
+
+<span class="LineNumber"> 002 </span>ปจฺจกฺขํ  อทฺทส ฯ  โภภุกฺกสฺสาติ  ภุภุกฺกรณสฺส  สุนขสฺส  จ (๑) ฯ
+<span class="LineNumber"> 003 </span>ปุณฺณมุขสฺสาติ  เมณฺฑสฺส ฯ  เอตํ  อิเมสํ  มิตฺตธมฺมํ  ราชา สยํ 
+<span class="LineNumber"> 004 </span>ปสฺสีติ อตฺโถ ฯ  
+<span class="LineNumber"> 005 </span>	ราชา  อิตเรหิ  โพธิสตฺตํ  นิสฺสาย  าตภาวํ  อชานนฺโต  
+<span class="LineNumber"> 006 </span>ปฺจ  ปณฺฑิตา  อตฺตโน  ปฺาพเลเนว  ชานึสูติ  มฺมาโน  
+<span class="LineNumber"> 007 </span>โสมนสฺสปฺปตฺโต  หุตฺวา อิมํ คาถมาห  
+<span class="LineNumber"> 008 </span>			ลาภา วต เม อนปฺปรูปา  
+<span class="LineNumber"> 009 </span>			ยสฺส เม อีทิสา ปณฺฑิตา กุลมฺหิ  
+<span class="LineNumber"> 010 </span>			ปฺหสฺส คมฺภีรคตํ นิปุณฺณมตฺถํ  
+<span class="LineNumber"> 011 </span>			ปฏิวิชฺฌนฺติ สุภาสิเตน ธีราติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ ปฏิวิชฺฌนฺตีติ สุภาสิเตน ภินฺทิตฺวา (๒) กเถนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	อถ  เตสํ  ตุฏฺเ€น  นาม  ตุฏฺ€ากาโร  กาตพฺโพติ ตํ 
+<span class="LineNumber"> 014 </span>อาวีกโรนฺโต  อิมํ คาถมาห  
+<span class="LineNumber"> 015 </span>			อสฺสตรีรถฺจ เอกเมกํ  
+<span class="LineNumber"> 016 </span>			ผิตํ คามวรฺจ เอกเมกํ  
+<span class="LineNumber"> 017 </span>			สพฺเพสํ (๓) โว ทมฺมิ ปณฺฑิตานํ  
+<span class="LineNumber"> 018 </span>			ปรมปฺปีติมโน (๔) สุภาสิเตน ธีราติ (๕) ฯ 
+<span class="LineNumber"> 019 </span>	วตฺวา ตํ สพฺพํ ทาเปสิ ฯ  
+<span class="LineNumber"> 020 </span>			ทฺวาทสนิปาเต เมณฺฑกปฺโห นิฏฺ€ิโต ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ภุภูติ สทฺทกรณสุนขสฺส ฯ  ๒. ม. ยุ. วิทิตฺวา ฯ  ๓. สี. สพฺพํ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. ปรมปฺปตีตมโน ฯ  ยุ. ปรปฺปตีตมดน ฯ  ๕. ม. ยุ. อยํ ปาโ€ นตฺถิ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  คนฺถารมฺภคาถาวณฺณนา  หน้า 4
+
+<span class="LineNumber"> 002 </span>เอเกโก  คาถานํ  นิปาโต  นิกฺเขโป  เอตฺถาติ  เอกนิปาโต ฯ
+<span class="LineNumber"> 003 </span>อิมินา  นเยน  เสเสสุปิ  อตฺโถ  เวทิตพฺโพ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ เอกกนิปาเต  ทฺวาทส วคฺคา ฯ เอเกกสฺมึ วคฺเค
+<span class="LineNumber"> 005 </span>ทส ทส กตฺวา  วีสุตฺตรสตํ เถรา ตตฺติกาเอว คาถา ฯ 
+<span class="LineNumber"> 006 </span>วุตฺตํ หิ  
+<span class="LineNumber"> 007 </span>	วีสุตฺตรสตํ เถรา		กตกิจฺจา อนาสวา  
+<span class="LineNumber"> 008 </span>	เอกกมฺหิ นิปาตมฺหิ	สุสงฺคีตา มเหสิภีติ ฯ  
+<span class="LineNumber"> 009 </span>	ทุกนิปาเต	-	เอกูนปฺาส  เถรา  อฏฺ€นวุติ  คาถา ฯ  
+<span class="LineNumber"> 010 </span>ติกนิปาเต		-	โสฬส  เถรา  อฏฺ€จตฺตาฬีส  คาถา ฯ  
+<span class="LineNumber"> 011 </span>จตุกฺกนิปาเต		-	เตรส  เถรา  เทฺวปฺาส  คาถา ฯ  
+<span class="LineNumber"> 012 </span>ปฺจกนิปาเต	-	ทฺวาทส  เถรา  สฏฺ€ิ  คาถา ฯ  
+<span class="LineNumber"> 013 </span>ฉกฺกนิปาเต		-	จุทฺทส  เถรา  จตุราสีติ  คาถา ฯ  
+<span class="LineNumber"> 014 </span>สตฺตกนิปาเต	-	ปฺจ  เถรา  ปฺจตึส  คาถา ฯ  
+<span class="LineNumber"> 015 </span>อฏฺ€กนิปาเต		-	ตโย  เถรา  จตุวีสติ  คาถา ฯ  
+<span class="LineNumber"> 016 </span>นวกนิปาเต		-	เอโก  เถโร  นว  คาถา ฯ  
+<span class="LineNumber"> 017 </span>ทสกนิปาเต		-	สตฺต  เถรา  สตฺตติ  คาถา ฯ  
+<span class="LineNumber"> 018 </span>เอกาทสกนิปาเต	-	เอโก  เถโร  เอกาทส  คาถา ฯ  
+<span class="LineNumber"> 019 </span>ทฺวาทสกนิปาเต	-	เทฺว  เถรา  จตุวีสติ  คาถา ฯ  
+<span class="LineNumber"> 020 </span>เตรสกนิปาเต	-	เอโก  เถโร  เตรส  คาถา ฯ  
+<span class="LineNumber"> 021 </span>จุทฺทสกนิปาเต	-	เทฺว  เถรา  อฏฺ€วีสติ  คาถา ฯ  

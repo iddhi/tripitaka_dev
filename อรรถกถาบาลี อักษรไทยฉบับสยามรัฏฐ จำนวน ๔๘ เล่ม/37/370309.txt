@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 309
+
+<span class="LineNumber"> 002 </span>สพฺพเชฏฺ€กาย(๑) ภริยาย ปาเวกฺขิ ปาวิสิ ฯ  
+<span class="LineNumber"> 003 </span>		ตํ จนฺทนคนฺธรสานุลิตฺตํ  
+<span class="LineNumber"> 004 </span>		สุวณฺณชมฺโพนทนิกฺขสาทิสํ  
+<span class="LineNumber"> 005 </span>		ภริยํ อวจ(๒) เอหิ สุโณหิ โภติ  
+<span class="LineNumber"> 006 </span>		ปุตฺตานิ อามนฺตย ตมฺพเนตฺเตติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ ภริยํ (๓)อวจาติ ภริยํ อโวจ(๓) ฯ อามนฺตยาติ 
+<span class="LineNumber"> 008 </span>ปกฺโกส ฯ  
+<span class="LineNumber"> 009 </span>		สุตฺวาน วากฺยํ ปติโน อโนชา(๔) 
+<span class="LineNumber"> 010 </span>		สุณิสํ อวจ(๕) ตมฺพนขึ สุเนตฺตํ  
+<span class="LineNumber"> 011 </span>		อามนฺตย จมฺมธรานิ เจเต  
+<span class="LineNumber"> 012 </span>		ปุตฺตานิ อินฺทวรปุปฺผสาเมติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  อโนชาติ  เอวํ  นามิกา ฯ  สุณิสํ  อวจ  ตมฺพนขึ  
+<span class="LineNumber"> 014 </span>สุเนตฺตนฺติ  สา  วจนํ (๖) สุตฺวา  อสฺสุมุขี  โรทมานา  มยฺหํ  สยํ  
+<span class="LineNumber"> 015 </span>คนฺตฺวา  ปุตฺเต  ปกฺโกสิตุํ  อยุตฺตํ  สุณิสํ  เปเสสฺสามีติ  ตสฺสา
+<span class="LineNumber"> 016 </span>นิวาสนฏฺ€านํ  คนฺตฺวา  ตมฺพนขึ  สุเนตฺตํ  สุณิสํ  อวจ ฯ 
+<span class="LineNumber"> 017 </span>อามนฺตยาติ  ปกฺโกส ฯ  จมฺมธรานีติ  จมฺมธเร(๗)  สูเร  สมตฺเถติ 
+<span class="LineNumber"> 018 </span>อตฺโถ  อาภรณภณฺฑเมว  จ(๘)  อิธ  จมฺมนฺติ(๙)  อธิปฺเปตํ  ตสฺมา
+<span class="LineNumber"> 019 </span># ๑. ม. สพฺพเชฏฺ€ิกาย ฯ  ๒. ม. วจา ฯ  ๓. ม. วจาติ 
+<span class="LineNumber"> 020 </span># เชฏฺ€ภริยํ อวจ ฯ  ๔. ม. อนุชฺชา ฯ  ๕. ม. วจ ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. สา ตสฺส วจนํ ฯ  ๗. ม. วมฺมธรานีติ วมฺมธเร ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม.  วา ฯ ๙. ม. วมฺมนฺติ ฯ 

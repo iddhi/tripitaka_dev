@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>          <H1>นสนิทัสสนติกนสาสวทุกสนิทัสสนติกสาสวทุกะ</H1> 
+<span class="LineNumber"> 002 </span>          <H2>(๒๒.  สนิทัสสนติกะ  ๑๕. สาสวทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                        <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                            <H2>สาสวบท</H2>	            
+<span class="LineNumber"> 007 </span>           [๗๓๖] ๑.  <B>สาสวธรรม  ที่เป็นสนิทัสสนสัปปฏิฆธรรม  อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่ไม่ใช่สาสวธรรม   ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม    เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                                  <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 011 </span>                          <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๗๓๗]  ในเหตุปัจจัย มี ๒  วาระ  ฯลฯ
+
+<span class="LineNumber"> 013 </span>                                             <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 014 </span>                                              <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 015 </span>                                            <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>                                              <H2>อนาสวบท</H2>	
+<span class="LineNumber"> 017 </span>                       ๑. <B>ธรรมที่เป็นอนาสวธรรม  ที่เป็นสนิทัสสนอัปปฏิฆ-
+<span class="LineNumber"> 018 </span>ธรรม  อาศัยธรรมที่ไม่ใช่อนาสวธรรม  ที่ไม่ใช่สนิทัสสนสัปปฏิฆ-  
+<span class="LineNumber"> 019 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 020 </span>                                                        <B>ฯลฯ</B>
+
+<span class="LineNumber"> 021 </span>                               <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 022 </span>           ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ  ในอวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 023 </span>                    <I>นสนิทัสสนติกนสาสวทุกสนิทัสสนติกสาสวทุกะ  จบ</I>

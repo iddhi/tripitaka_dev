@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	ศัพท์สมาสที่มีราชศัพท์เป็นที่สุดเหมือนราชา  แจกอย่างนี้ก็ได้ 
+<span class="LineNumber"> 002 </span>                        เอก.                                   พหุ. 
+<span class="LineNumber"> 003 </span>ป. <B>มหาราช  </B>เอา อะ กับ  สิ                  <B>มหาราชโร</B><SUP>๑</SUP> เอา อะ  กับ โย
+<span class="LineNumber"> 004 </span>                                                                                เป็น  อาโน
+<span class="LineNumber"> 005 </span>ทุ.  <B>มหาราชํ</B> อํ คงไว้                              <B>มหาราเช</B>      เอา  อะ กับ โย
+<span class="LineNumber"> 006 </span>                                                                                  เป็น เอ
+<span class="LineNumber"> 007 </span>ต.  <B>มหาราเชน  </B>เอา อะ กับ นา              <B>มหาราเชหิ</B>     เอา  อะ เป็น เอ
+<span class="LineNumber"> 008 </span>                         เป็น เอน                                             คง หิ ไว้
+<span class="LineNumber"> 009 </span>                                                              <B>มหาราเชภิ</B>     เอา อะ  เป็น เอ
+<span class="LineNumber"> 010 </span>                                                                                    แปลง หิ เป็น ภิ
+<span class="LineNumber"> 011 </span>จ.  <B>มหาราชสฺส</B>  เอา ส เป็น  สฺส                <B>มหาราชานํ</B>   นํ   อยู่หลัง  ทีฆะ
+<span class="LineNumber"> 012 </span>      <B>มหาราชาย </B>เอา  ส  เป็น  อาย                                  อะ  เป็น  อา  คง
+<span class="LineNumber"> 013 </span>      <B>มหาราชตฺถํ  </B>เอา ส  เป็น  ตฺถํ                                    นํ  ไว้
+<span class="LineNumber"> 014 </span>ปญฺ.  <B>มหาราชสฺมา</B>  คง  สฺมา  ไว้               <B>มหาราชเหิ </B>}(เหมือน ต. พหุ.)
+<span class="LineNumber"> 015 </span>          <B>มหาราชมฺหา</B>  แปลง สฺมา  เป็น        <B>มหาราเชภิ  </B>
+<span class="LineNumber"> 016 </span>                              มฺหา
+<span class="LineNumber"> 017 </span>           <B>มหาราชมฺหา</B>  แปลง  สฺมา  เป็นอา
+<span class="LineNumber"> 018 </span>ฉ.  <B>มหาราชสฺส</B>  แปลง ส  เป็น                     <B>มหาราชนํ</B>   (เหมือน จ. พหุ.)
+<span class="LineNumber"> 019 </span>                          สฺส
+
+<span class='footnote'>๑.  เป็น  มหาราชา  ก็มี เช่น  จตฺตาโร  เต  มหาราช.</span>

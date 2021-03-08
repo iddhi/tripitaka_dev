@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๙๔.  นรูปาวจรทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>๑. เหตุปัจจัย</H2>			
+<span class="LineNumber"> 005 </span>           [๑๗๘] ๑.  <B>ธรรมที่ไม่ใช่รูปาวจรธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 006 </span>รูปาวจรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓ วาระ (วาระที่  ๑-๓)
+<span class="LineNumber"> 007 </span>                       ๔.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่รูปาวจรธรรม    อาศัย 
+<span class="LineNumber"> 008 </span>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่รูปาวจรธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>มี ๓ วาระ  (วาระที่ ๔-๖)
+<span class="LineNumber"> 010 </span>                       ๗.  <B>ธรรมที่ไม่ใช่รูปาวจรธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 011 </span>รูปาวจรธรรม     และที่ไม่ใช่ธรรมที่ไม่ใช่รูปาวจรธรรม     เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะเหตุปัจจัย</B>   มี ๓ วาระ  (วาระที่ ๗-๙)
+
+<span class="LineNumber"> 013 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>           [๑๗๙]  ในเหตุปัจจัย  มี  ๙  วาระ ฯลฯ
+<span class="LineNumber"> 015 </span>					<I>นรูปาวจรทุกะ  จบ</I>

@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>นสนิทัสสนติกนทัสสนติกะ</H1>  
+<span class="LineNumber"> 002 </span>                           <H1>สนิทัสสนติกทัสสนติกะ</H1>
+<span class="LineNumber"> 003 </span>        <H2>(๒๒.  สนิทัสสนติกะ  ๘.  ทัสสนติกะ)</H2>
+<span class="LineNumber"> 004 </span>                                    <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 006 </span>                                  <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                         <H2>ทัสสเนนปหาตัพพบท</H2>
+<span class="LineNumber"> 008 </span>           [๑๑๔๘] ๑.  <B>ทัสสเนนปหาตัพพธรรม    ที่เป็นอนิทัสสนอัป-
+<span class="LineNumber"> 009 </span>ปฏิฆธรรม    อาศัยธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 010 </span>สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                                               <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 012 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๑๑๔๙]  ในเหตุปัจจัย  มี ๓ วาระ   ฯลฯ
+
+<span class="LineNumber"> 014 </span>                              <H2>ภาวนายปหาตัพพบท</H2>
+<span class="LineNumber"> 015 </span>           [๑๑๕๐] ๑.  <B>ภาวนายปหาตัพพธรรม     ที่เป็นอนิทัสสนอัป-
+<span class="LineNumber"> 016 </span>ปฏิฆธรรม    อาศัยธรรมที่ไม่ใช่ภาวนายปหาตัพพธรรม    ที่ไม่ใช่
+<span class="LineNumber"> 017 </span>สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>                                                <B>ฯลฯ</B>
+
+<span class="LineNumber"> 019 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 020 </span>           [๑๑๔๙]  ในเหตุปัจจัย  มี  ๓ วาระ ฯลฯ
+
+<span class="LineNumber"> 021 </span>                                 <H2>ภาวนายปหาตัพพบท</H2>
+<span class="LineNumber"> 022 </span>           [๑๑๕๐] ๑.  <B>ภาวนายปหาตัพพธรรม  ที่เป็นอนิทัสสนอัป-
+<span class="LineNumber"> 023 </span>ปฏิฆธรรม  อาศัยธรรมที่ไม่ใช่ภาวนายปหาตัพพธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 024 </span>สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 025 </span>                                                    <B>ฯลฯ</B>

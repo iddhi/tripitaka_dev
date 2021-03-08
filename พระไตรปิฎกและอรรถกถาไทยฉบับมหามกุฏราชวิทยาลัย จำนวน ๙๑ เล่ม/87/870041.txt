@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>มี ๖ วาระ   ในสัมปยุตตปัจจัย   มี ๗ วาระ   ในวิปปยุตตปัจจัย   มี ๗ วาระ 
+<span class="LineNumber"> 002 </span>ในอัตถิปัจจัย มี ๗ วาระ ในนัตถิปัจจัย  มี ๗ วาระ ในวิคตปัจจัย มี ๗ วาระ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย  มี ๗ วาระ.  พึงนับอย่างนี้. 
+<span class="LineNumber"> 004 </span>                                          <I>ปัจจนียานุโลม  จบ</I>
+<span class="LineNumber"> 005 </span>                                             <I>ปัจจยวาระ  จบ</I>
+<span class="LineNumber"> 006 </span>                       <I>นิสสยวาระ  พึงกระทำเหมือนกับปัจจยวาระ.</I>

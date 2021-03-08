@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>ไม่ใช่นอนเนื่องอยู่แก่บุคคล  ๓  จำพวกเหล่านั้น. อวิชชานุสัย     นอน
+<span class="LineNumber"> 002 </span>เนื่องอยู่   และวิจิกิจฉานุสัย   ก็นอนเนื่องอยู่แก่ปุถุชน. 
+<span class="LineNumber"> 003 </span>                 <I>จบ   วิจิกิจฉานุสยมูละ   ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 004 </span>                                   <I>วิจิกิจฉานุสยมูล   จบ</I>
+
+<span class="LineNumber"> 005 </span>                                       <H1>ภวราคานุสยมูล</H1>
+<span class="LineNumber"> 006 </span><H2>ภวราคานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 007 </span>         [๑๒๒๗]   ภวราคานุสัย นอนเนื่องอยู่แก่บุคคลใด, อวิชชานุสัย
+<span class="LineNumber"> 008 </span>ก็นอนเนื่องอยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ก็หรือว่า  อวิชชานุสัย  นอนเนื่องอยู่แก่บุคคลใด,  ภวราคานุสัย
+<span class="LineNumber"> 010 </span>ก็นอนเนื่องอยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>   ใช่.
+<span class="LineNumber"> 012 </span>                       <I>จบ  ภวราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 013 </span>                                    <I>ภวราคานุสยมูล   จบ</I>
+<span class="LineNumber"> 014 </span>                                        <I>เอกมูลกะ  จบ</I>

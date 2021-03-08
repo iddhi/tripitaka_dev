@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>			          <H1>ปริตตารัมมณติกสรณทุกะ</H1> 
+<span class="LineNumber"> 002 </span>	     <H2>(๑๓.  ปริตตารัมมณติกะ  ๑๐๐. สรณทุกะ)</H2>	
+<span class="LineNumber"> 003 </span>			              <H1>สรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๙๒๐]  ๑. สรณธรรมที่เป็นปริตตารัมมณธรรม   อาศัยสรณ-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นปริตตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                        ๒.  สรณธรรมที่เป็นมหัคคตารัมมณธรรม  อาศัยสรณ-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นมหัคคตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>			  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๙๒๑]  ในเหตุปัจจัย  มี ๒ วาระ ฯลฯ  ในอวิคตปัจจัย  มี ๒  วาระ.
+<span class="LineNumber"> 012 </span>สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดารทุกปัจจัย
+
+<span class="LineNumber"> 013 </span>			            <H1>อรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 014 </span>				       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>				    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>		[๙๒๒]   ๑.  อรณธรรมที่เป็นปริตตารัมมณธรรม  อาศัยอรณ-
+<span class="LineNumber"> 017 </span>ธรรมที่เป็นปริตตารัมมณธรรม  เกิดขึ้น   เพราะเหตุปัจจัย

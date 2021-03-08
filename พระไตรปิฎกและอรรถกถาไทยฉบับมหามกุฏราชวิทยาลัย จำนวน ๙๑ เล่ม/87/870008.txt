@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           เหมือนกับเหตุปัจจัย.  
+<span class="LineNumber"> 002 </span>           <B>เพราะปุเรชาตปัจจัย</B>  มี ๓ วาระ  ไม่มีปฏิสนธิ. 
+<span class="LineNumber"> 003 </span>           <B>เพราะอาเสวนปัจจัย   มี ๓ วาระ.</B>
+<span class="LineNumber"> 004 </span>           <B>เพราะอุปนิสสยปัจจัย  ไม่มีวิปากปฏิสนธิ.</B>
+<span class="LineNumber"> 005 </span>           <B>เพราะกัมมปัจจัย</B>    อัชฌัตติกรูป     และมหาภูตรูปของอสัญญสัตว์
+<span class="LineNumber"> 006 </span>ทั้งหลายมีบริบูรณ์.
+
+<span class="LineNumber"> 007 </span>                                    <H1>๑๓.  วิปากปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๕๙๐]  <B>เนวทัสสเนนนภาวนายปหาตัพพธรรม     อาศัยเนว-
+<span class="LineNumber"> 009 </span>ทัสสเนนนภาวนายปหาตัพพธรรม  เกิดขึ้น  เพราะวิปากปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ   ขันธ์ ๓  และจิตตสมุฏฐานรูป   อาศัยขันธ์  ๑  ที่เป็นวิบาก ฯลฯ
+<span class="LineNumber"> 011 </span>           ในปฏิสนธิขณะ  หทยวัตถุ   อาศัยขันธ์ทั้งหลาย   ขันธ์ทั้งหลายอาศัย
+<span class="LineNumber"> 012 </span>หทยวัตถุ
+<span class="LineNumber"> 013 </span>           มหาภูตรูป  ๑ ฯลฯ จิตตสมุฏฐานรูป  กฏัตตารูปที่เป็นอุปาทารูป  อาศัย
+<span class="LineNumber"> 014 </span>มหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 015 </span>                                      <H1>๑๔.  อาหารปัจจัย</H1>	
+<span class="LineNumber"> 016 </span>           [๕๙๑]  <B>ทัสสเนนปหาตัพพธรรม   อาศัยทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 017 </span>ธรรม เกิดขึ้น  เพราะอาหารปัจจัย</B>
+<span class="LineNumber"> 018 </span>           อัชฌัตติกรูป  มหาภูตรูป  และอาหารสมุฏฐานรูปมีบริบูรณ์.

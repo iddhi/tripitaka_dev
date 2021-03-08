@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค วสภตฺเถรคาถาวณฺณนา หน้า 553
+	
+<span class="LineNumber"> 002 </span>		ตเถว เม กตํ กมฺมํ	ปริตฺตํ โถกกฺจ ยํ (๑)  
+<span class="LineNumber"> 003 </span>		ตํ กมฺมํ อุปนิสฺสาย	สํสารํ สมติกฺกมึ ฯ  
+<span class="LineNumber"> 004 </span>		ปจฺฉิเม ภเว สมฺปตฺเต	สุกฺกมูเลน โจทิโต  
+<span class="LineNumber"> 005 </span>		สาวตฺถิยํ ปุเร (๒) ชาโต	มหาสาเล สุอฑฺฒเก ฯ  
+<span class="LineNumber"> 006 </span>		สทฺธา (๓) มาตาปิตา มยฺหํ  พุทฺธสฺส สรณํ คตา  
+<span class="LineNumber"> 007 </span>		อุโภ ทิฏฺ€สุตา (๔) เอเต  อนุวตฺตนฺติ สาสนํ ฯ  
+<span class="LineNumber"> 008 </span>		โพธิปปฏิกํ คยฺห		โสณฺณถูปมการยุํ  
+<span class="LineNumber"> 009 </span>		สายปาตํ นมสฺสนฺติ	สกฺยปุตฺตสฺส สมฺมุขา ฯ  
+<span class="LineNumber"> 010 </span>		อุโปสถมฺหิ ทิวเส		โสณฺณถูปํ วินีหรุํ  
+<span class="LineNumber"> 011 </span>		พุทฺธสฺส วณฺณํ กิตฺเตนฺตา  ติยามํ วีตินามยย ฯ  
+<span class="LineNumber"> 012 </span>		สมา (๕) ทิสฺวานหํ ถูปํ	สรึ ปุลินเจติยํ  
+<span class="LineNumber"> 013 </span>		เอกาสเน นิสีทิตฺวา	อรหตฺตมปาปุณึ ฯ  
+<span class="LineNumber"> 014 </span>		คเวสมาโน ตํ ธีรํ		ธมฺมเสนาปติทฺทสํ  
+<span class="LineNumber"> 015 </span>		อคารา นิกฺขมิตฺวาน	ปพฺพชึ ตสฺส สนฺติเก ฯ  
+<span class="LineNumber"> 016 </span>		ชาติยา สตฺตวสฺเสน	อรหตฺตมปาปุณึ  
+<span class="LineNumber"> 017 </span>		อุปสมฺปาทยี พุทฺโธ	คุณมฺาย จกฺขุมา ฯ  
+<span class="LineNumber"> 018 </span>		ทารเกเนว สนฺเตน	กิริยํ นิฏฺ€ิตํ มยา (๖)  
+<span class="LineNumber"> 019 </span>		กตํ เม กรณียชฺช		สกฺยปุตฺตสฺส สาสเน ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. ตํ ฯ ยุ. โถกกฺจนํ ฯ  ๒. สี. กุเล ฯ  ๓. สี. สพฺเพ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ยุ. ทิฏฺ€ปทา ฯ  ๕. ม. ยุ. สห ฯ  ๖. สี. กริยา นิฏฺ€ิตา มยา ฯ

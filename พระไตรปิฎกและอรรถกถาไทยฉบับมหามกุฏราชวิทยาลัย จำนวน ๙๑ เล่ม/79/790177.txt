@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>               <H1>บุคคลผู้เป็นทิฏฐิปัตตะ  ๑</H1> 
+<span class="LineNumber"> 002 </span>               <H1>บุคคลเป็นสัทธาวิมุต  ๑</H1>   
+<span class="LineNumber"> 003 </span>               <H1>บุคคลผู้เป็นธัมมานุสารี  ๑</H1>  
+<span class="LineNumber"> 004 </span>               <H1>บุคคลผู้เป็นสัทธานุสารี  ๑</H1>
+<span class="LineNumber"> 005 </span>                               <I>จบสัตตกมาติกา</I>
+ 
+<span class="LineNumber"> 006 </span>                              <H1>อัฏฐกมาติกมาติกา</H1> 
+<span class="LineNumber"> 007 </span>         [๑๔]  <H1>บุคคล   ๘ จำพวก</H1>
+<span class="LineNumber"> 008 </span>         <H1>๑.  บุคคลผู้พร้อมเพรียงด้วยมรรค ๔</H1>
+<span class="LineNumber"> 009 </span>              <H1>บุคคลผู้พร้อมเพรียงด้วยผล  ๔</H1>
+<span class="LineNumber"> 010 </span>                                <I>จบอัฏฐกมาติกา</I>
+
+<span class="LineNumber"> 011 </span>                                    <H1>นวกมาติกา</H1>
+<span class="LineNumber"> 012 </span>         [๑๕ ]  <H1>บุคคล  ๙   จำพวก</H1> 
+<span class="LineNumber"> 013 </span>         <H1>๑.  บุคคลผู้เป็นพระสัมมาสัมพุทธะ  ๑</H1> 
+<span class="LineNumber"> 014 </span>              <H1>บุคคลผู้เป็นพระปัจเจกพุทธะ  ๑</H1>
+<span class="LineNumber"> 015 </span>              <H1>บุคคลผู้เป็นอุภโตภาควิมุต  ๑</H1>
+<span class="LineNumber"> 016 </span>              <H1>บุคคลผู้เป็นปัญญาวิมุต  ๑</H1>
+<span class="LineNumber"> 017 </span>              <H1>บุคคลผู้เป็นกายสักขี  ๑</H1>

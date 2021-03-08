@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>				  <H1>อุปาทานโคจฉกทุกเหตุทุกะ</H1>
+<span class="LineNumber"> 002 </span>		<H2>(๖๗.-๗๔. อุปาทานโคจฉกะ  ๑. เหตุทุกะ)</H2> 
+<span class="LineNumber"> 003 </span>					   <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>		[๑๔๗]  ฯลฯ  อาศัยอุปาทานเหตุธรรม ฯลฯ
+<span class="LineNumber"> 006 </span>				<I>อุปาทานโคจฉกทุกเหตุทุกะ จบ</I>

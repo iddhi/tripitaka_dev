@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                   ๓.  <B>ธรรมที่ไม่ใช่อัพยากตะ  อาศัยธรรมที่เป็นกุศล  เกิด
+<span class="LineNumber"> 002 </span>ขึ้น  เพราะเหตุปัจจัย</B>   
+<span class="LineNumber"> 003 </span>           คือ  ขันธ์  ๓  อาศัยขันธ์  ๑  ที่เป็นกุศล.
+<span class="LineNumber"> 004 </span>                   ๔.  <B>ธรรมที่ไม่ใช่อกุศล    และธรรมที่ไม่ใช่อัพยากตะ
+<span class="LineNumber"> 005 </span>อาศัยธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์  ๓  อาศัยขันธ์ ๑ ที่เป็นกุศล.
+<span class="LineNumber"> 007 </span>                   ๕.  <B>ธรรมที่ไม่ใช่กุศล  และธรรมที่ไม่ใช่อกุศล   อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยกุศลขันธ์ทั้งหลาย  มี ๕ วาระ.
+<span class="LineNumber"> 010 </span>           [๒]  ๖.  <B>ธรรมที่ไม่ใช่อกุศล  อาศัยธรรมที่เป็นอกุศล  เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ   จิตตสมุฏฐานรูป  อาศัยอกุศลขันธ์ทั้งหลาย.
+<span class="LineNumber"> 013 </span>                   ๗.  <B>ธรรมที่ไม่ใช่กุศล  อาศัยธรรมที่เป็นอกุศล  เกิดขึ้น
+<span class="LineNumber"> 014 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ขันธ์  ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์  ๑  ที่เป็นอกุศล.
+<span class="LineNumber"> 016 </span>                   ๘.  <B>ธรรมที่ไม่ใช่อัพยากตะ  อาศัยธรรมที่เป็นอกุศล  เกิด
+<span class="LineNumber"> 017 </span>ขึ้น  เพราะเหตุปัจจัย</B>

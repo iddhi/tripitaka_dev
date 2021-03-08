@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>สังสัฏฐวาระ</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                       <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๓๑๗] ๑. <B>ธรรมที่ไม่ใช่อุปาทาธรรม    เจือกับธรรมที่ไม่ใช่
+<span class="LineNumber"> 005 </span>อุปาทาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๓   เจือกับขันธ์ ๑   ที่ไม่ใช่อุปาทาธรรม ฯลฯ  ขันธ์ ๒
+<span class="LineNumber"> 007 </span>เจือกับขันธ์ ๒.
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 009 </span>                            <B>การนับจำนวนวาระในอนุโลม</B>
+<span class="LineNumber"> 010 </span>         [๓๑๘]  ในเหตุปัจจัย  มี ๑ วาระ    ในอารัมมณปัจจัย   มี  ๑  วาระ
+<span class="LineNumber"> 011 </span>ในอธิปติปัจจัย  มี ๑ วาระ    ในปัจจัยทั้งปวง มี ๑ วาระ    ในอวิคตปัจจัย  มี
+<span class="LineNumber"> 012 </span>๑  วาระ.
+<span class="LineNumber"> 013 </span>                                         <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 014 </span>                                      <H2>๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>         [๓๑๙] ๑. <B>ธรรมที่ไม่ใช่อุปาทาธรรม     เจือกับธรรมที่ไม่ใช่
+<span class="LineNumber"> 016 </span>อุปาทาธรรม     เกิดขึ้น  เพราะนเหตุปัจจัย</B>

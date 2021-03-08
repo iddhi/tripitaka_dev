@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  ๑๓  เอกกนิปาตวณฺณนา  หน้า  ๒
+
+<span class="LineNumber"> 002 </span>		€ปิตา สีหฬภาสาย	ทีปวาสีนมตฺถาย ฯ
+<span class="LineNumber"> 003 </span>		อปเนตฺวาน ตโตหํ	สีหฬภาสํ มโนรมํ ภาสํ
+<span class="LineNumber"> 004 </span>		ตนฺตินยานุจฺฉวิกํ	อาโรเปนฺโต วิคตโทสํ ฯ
+<span class="LineNumber"> 005 </span>		สมยํ อวิโลเปนฺโต		เถรานํ เถรวํสปฺปทีปานํ (๑)
+<span class="LineNumber"> 006 </span>		สุนิปุณวินิจฺฉยานํ	มหาวิหารวาสีนํ ฯ (๒)
+<span class="LineNumber"> 007 </span>		หิตฺวา ปุนปฺปุนาคต-	มตฺถํ อตฺถํ ปกาสยิสฺสามิ
+<span class="LineNumber"> 008 </span>		สุชนสฺส จ ตุฏฺ€ตฺถํ	จิรฏฺ€ิตตฺถฺจ ธมฺมสฺส ฯ
+<span class="LineNumber"> 009 </span>		สาวตฺถิปฺปภูตีนํ		นครานํ วณฺณนา กตา เหฏฺ€า
+<span class="LineNumber"> 010 </span>		ทีฆสฺส มชฺฌิมสฺส (๓)    ยา เม อตฺถํ วทนฺเตน ฯ
+<span class="LineNumber"> 011 </span>		วิตฺถารวเสน สุทํ	วตฺถูนิ จ ตตฺถ ยานิ วุตฺตานิ
+<span class="LineNumber"> 012 </span>		เตสํปิ น อิธ ภิยฺโย	วิตฺถารกถํ กริสฺสามิ ฯ
+<span class="LineNumber"> 013 </span>		สุตฺตานํ ปน อตฺถา	น วินา วตฺถูหิ เย ปกาเสนฺติ (๔)
+<span class="LineNumber"> 014 </span>		เตสํ ปกาสนตฺถํ	วตฺถูนิปิ กเถสฺสามิ ฯ (๕)
+<span class="LineNumber"> 015 </span>		สีลกถา ธุตธมฺมา	กมฺมฏฺ€านานิ เจว สพฺพานิ
+<span class="LineNumber"> 016 </span>		จริยาวิธานสหิโต	ฌานสมาปตฺติวิตฺถาโร ฯ
+<span class="LineNumber"> 017 </span>		สพฺพา จ อภิฺาโย	ปฺาสกลวินิจฺฉโย (๖) เจว
+<span class="LineNumber"> 018 </span>		ขนฺธธาตายตนินฺ-          อริยานิ  เจว จตฺตาริ จ ฯ (๗)
+<span class="LineNumber"> 019 </span># ๑. ม. เถรวํสทีปานํ  ฯ  ๒. สี. มหาวิหาราธิวาสีนํ  ฯ  ม. มหาวิหาเร นวสีนํ  ฯ
+<span class="LineNumber"> 020 </span># ๓. สี. ม. มชฺฌิมสฺส จ  ฯ  ๔. ม. ปกาสนฺติ  ฯ  ๕. ม. ทสฺสยิสฺสามิ  ฯ 
+<span class="LineNumber"> 021 </span>#๖. ม. ปฺาสงฺกลนนิจฺฉโย  ฯ  ๗. ม. จสทฺโท นตฺถิ  ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อริยรูปกถา</H1>
+ 
+<span class="LineNumber"> 002 </span>         [๑๕๖๘]   <B>สกวาที</B>   อริยรูปอาศัยมหาภูตรูป  หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. อริยรูปเป็นกุศล  หรือ ?
+<span class="LineNumber"> 005 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                        ส. มหาภูตรูปเป็นกุศล  หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 008 </span>                        ส. มหาภูตรูปเป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                        ส. อริยรูปเป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>                        ส. อริยรูปอาศัยมหาภูตรูป  หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ถูกแล้ว.                                                       
+<span class="LineNumber"> 014 </span>                        ส. อริยรูปเป็นอนาสวะ<SUP>๑</SUP>   เป็นอสัญโญชนียะ    เป็น
+<span class="LineNumber"> 015 </span>อคันถนียะ  เป็นอโนฆนียะ  เป็นอโยคนียะ  เป็นอนีวรณียะ  เป็นอปรามัฏฐะ
+<span class="LineNumber"> 016 </span>เป็นอนุปาทานิยะ  เป็นอสังกิเลสิกะ  หรือ ?
+<span class="LineNumber"> 017 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                        ส. มหาภูตรูป   เป็นอนาสวะ  ฯลฯ  เป็นอสังกิเลสสิกะ  หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+
+<span class='footnote'>๑. อนาสวะ  แปลว่า  ไม่เป็นอารมณ์ของอาสวะ  แม้คำต่อ ๆ  ไปก็แปลอย่างเดียวกัน  เช่น  อสัญโญชนียะ</span>
+<span class='footnote'>แปลว่า  ไม่มีอารมณ์ของสังโยชน์  ดูนิทเทสในธรรมสังคณีปกรณ์.</span>

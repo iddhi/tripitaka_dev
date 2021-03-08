@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>         บทว่า  <B>ปุน  สทา</B>   เป็นบทขยายความ.
+<span class="LineNumber"> 002 </span>         บทว่า  <B>สทา</B>  ได้แก่  ทุกวัน.
+<span class="LineNumber"> 003 </span>         บทว่า  <B>สพฺพทา</B>     ได้แก่     ทุกเวลา.
+<span class="LineNumber"> 004 </span>         บทว่า  <B>สพฺพกาลํ</B>  ได้แก่   ตลอดกาลทั้งปวงมีเวลาเช้าเป็นต้น  
+<span class="LineNumber"> 005 </span>         บทว่า  <B>นิจฺจกาลํ</B>  ได้แก่  ทุกวัน  ๆ.
+<span class="LineNumber"> 006 </span>         บทว่า  <B>ธุวกาลํ</B>  ได้แก่   ตลอดกาลไม่ขาด.
+<span class="LineNumber"> 007 </span>         บทว่า  <B>สตตํ</B>  ได้แก่  ไม่มีระหว่าง.
+<span class="LineNumber"> 008 </span>         บทว่า  <B>สมิตํ</B> ได้แก่   เป็นอันเดียวกัน.
+<span class="LineNumber"> 009 </span>         บทว่า  <B>อพฺโพกิณฺณํ</B>   ได้แก่  ไม่เจือปนอย่างอื่น.
+<span class="LineNumber"> 010 </span>         บทว่า  <B>โปกฺขานุโปกฺขํ</B><SUP>๑</SUP>   ความว่าสืบต่อโดยลำดับ  ดุจในประโยค
+<span class="LineNumber"> 011 </span>เป็นต้นว่า   ย่อมปรากฏติดตามกันไปไม่ผิดพลาด.
+<span class="LineNumber"> 012 </span>         บทว่า  <B>อุทกุมฺมิกชาตํ</B>    ได้แก่    เหมือนลูกคลื่นในน้ำที่บังเกิด
+<span class="LineNumber"> 013 </span>ขึ้น.
+<span class="LineNumber"> 014 </span>         บทว่า  <B>อวีจิ</B>  ได้แก่   ไม่เบาบาง.
+<span class="LineNumber"> 015 </span>         บทว่า  <B>สนฺตติ</B>  ได้แก่  ไม่ขาดระยะ.
+<span class="LineNumber"> 016 </span>         บทว่า  <B>สหิตํ</B>  ได้แก่  สืบต่อ    เป็นอันเดียวกัน    ดุจในประโยค
+<span class="LineNumber"> 017 </span>เป็นต้นว่าของข้าพเจ้าสืบต่อกัน   ของท่านไม่สืบต่อกัน.
+<span class="LineNumber"> 018 </span>         บทว่า  <B>ผุสิตํ</B>  ได้แก่   ถูกต้องในที่ลมผ่านไม่ได้    ดุจในประโยค
+<span class="LineNumber"> 019 </span>เป็นต้นว่า  ขัดกลอน  ดังนี้.
+<span class="LineNumber"> 020 </span>         สองบทว่า  <B>ปุเรภตฺตํ  ปจฺฉาภตฺตํ</B>  กล่าวแบ่งเวลาในกลางวัน
+
+<span class='footnote'>๑. ฉบับเทวนาครี   เป็น   โปงฺขานุโปงฺขํ.</span>

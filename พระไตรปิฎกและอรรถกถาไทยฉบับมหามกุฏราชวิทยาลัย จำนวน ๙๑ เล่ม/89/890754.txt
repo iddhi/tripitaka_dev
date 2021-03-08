@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 002 </span>                                           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                         <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๖๗๖]  ๑.  <B>สัปปีติกธรรม อาศัยสัปปีติกธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย ฯลฯ</B>
+<span class="LineNumber"> 006 </span>         ปวัตติ    ปฏิสนธิ     เหมือนกับอนุโลมปัจจยวาระ     ในสวิตักกทุกะ
+<span class="LineNumber"> 007 </span>มี ๙ วาระ  บริบูรณ์.  ปีติ  ไม่มีแตกต่างกัน.
+
+<span class="LineNumber"> 008 </span>                               <H2>การนับจํานวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>         [๖๗๗]  ในเหตุปัจจัย    มี ๙ วาระ    ในอารัมมณปัจจัย    มี ๙ วาระ
+<span class="LineNumber"> 010 </span>ในอธิปติปัจจัย  มี ๙ วาระ  ฯลฯ  ในอวิคตปัจจัย   มี ๙ วาระ.
+
+<span class="LineNumber"> 011 </span>                                            <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 012 </span>                                        <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>         [๖๗๘] ๑.  <B>สัปปีติกธรรม อาศัยสัปปีติกธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 014 </span>นเหตุปัจจัย</B>   มี ๓ วาระ  เหมือนกับปฏิจจวาระ.
+<span class="LineNumber"> 015 </span>    		 ๒.  <B>อัปปีติกธรรม อาศัยอัปปีติกธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 016 </span>นเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>         พึงทำปวัตติ  ปฏิสนธิ  เหมือนกับปฏิจจวาระตลอดถึงอสัญญสัตว์.

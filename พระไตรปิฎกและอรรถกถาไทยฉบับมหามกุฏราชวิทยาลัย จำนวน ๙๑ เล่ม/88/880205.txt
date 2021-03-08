@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>มี ๑ วาระ  ในสหชาตปัจจัย  มี ๓ วาระ  ในอัญญมัญญปัจจัย   มี ๑ วาระ  ใน 
+<span class="LineNumber"> 002 </span>นิสสยปัจจัย มี ๓ วาระ ในอุปนิสสยปัจจัย  มี ๑ วาระ  ในปุเรชาตปัจจัย   มี ๑
+<span class="LineNumber"> 003 </span>วาระ   ในอาเสวนปัจจัย  มี  ๑ วาระ  ในกัมมปัจจัย  มี ๓ วาระ  ในวิปากปัจจัย
+<span class="LineNumber"> 004 </span>มี ๓ วาระ    ในมัคคปัจจัย  มี ๓ วาระ    ในสัมปยุตตปัจจัย  มี ๑ วาระ  ใน
+<span class="LineNumber"> 005 </span>วิปปยุตตปัจจัย  มี ๓ วาระ  ในอัตถิปัจจัย  มี ๓ วาระ   ในนัตถิปัจจัย   มี ๑
+<span class="LineNumber"> 006 </span>วาระ   ในวิคตปัจจัย   มี ๑ วาระ   ในอวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 007 </span>                                          <I>อนุโลมนัย  จบ</I> 
+
+<span class="LineNumber"> 008 </span>                                             <H1>ปัจจนียนัย</H1> 
+<span class="LineNumber"> 009 </span>                                           <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๑๘๙] ๑.  <B>อนิทัสสนธรรม   อาศัยอนิทัสสนธรรม   เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป  ที่เป็นอนิทัสสนธรรม  อาศัยขันธ์
+<span class="LineNumber"> 013 </span>๑ ที่เป็นอนิทัสสนธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 014 </span>           ในอเหตุกปฏิสนธิขณะ ฯลฯ  หทยวัตถุ    อาศัยขันธ์ทั้งหลาย,   ขันธ์
+<span class="LineNumber"> 015 </span>ทั้งหลาย  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 016 </span>           มหาภูตรูป ๓ อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 017 </span>           จิตตสมุฏฐานรูป  กฏัตตารูป  ที่เป็นอุปาทารูปที่เป็นอนิทัสสนธรรม
+<span class="LineNumber"> 018 </span>อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 019 </span>           พาหิรรูป ...อาหารสมุฏฐานรูป ...อุตุสมุฏฐานรูป ฯลฯ.

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         ในอารัมมณปัจจัย     ในธรรมที่<B>ไม่ใช่กิเลส</B>เป็นมูล     พึงกระทำ
+<span class="LineNumber"> 003 </span>ปัญจวิญญาณ.
+
+<span class="LineNumber"> 004 </span>                              <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 005 </span>         [๔๘๗]   ในเหตุปัจจัย  มี ๙ วาระ  ในอารัมมณปัจจัย มี ๙ วาระ  ใน
+<span class="LineNumber"> 006 </span>อธิปติปัจจัย มี ๙ วาระ  ในปัจจัยทั้งปวง มี ๙ วาระ  ในวิปากปัจจัย มี ๑ วาระ
+<span class="LineNumber"> 007 </span>ฯลฯ   ในอวิคตปัจจัย มี ๙ วาระ.
+
+<span class="LineNumber"> 008 </span>                                            <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 009 </span>                                         <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>         [๔๘๘] ๑.  <B>ธรรมที่เป็นกิเลส อาศัยธรรมที่เป็นกิเลส เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>         คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา   อาศัยวิจิกิจฉา,  โมหะที่สหรคต
+<span class="LineNumber"> 013 </span>ด้วยอุทธัจจะ  อาศัยอุทธัจจะ.
+<span class="LineNumber"> 014 </span>                     ๒.  <B>ธรรมที่ไม่ใช่กิเลส     อาศัยธรรมที่ไม่ใช่กิเลส
+<span class="LineNumber"> 015 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ  ฯลฯ  ตลอดถึงอสัญญสัตว์
+<span class="LineNumber"> 017 </span>         จักขุวิญญาณ  อาศัยจักขายตนะ  ฯลฯ  กายายตนะ
+<span class="LineNumber"> 018 </span>         ขันธ์ทั้งหลายที่ไม่ใช่กิเลส   ซึ่งเป็นอเหตุกะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 019 </span>                     ๓.   <B>ธรรมที่เป็นกิเลส   อาศัยธรรมที่ไม่ใช่กิเลส   เกิด
+<span class="LineNumber"> 020 </span>ขึ้น  เพราะนเหตุปัจจัย</B>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>พระสุตตันตปิฎก</H1> 
+         
+<span class="LineNumber"> 002 </span>                                  <H1>ขุททกนิกาย   ชาดก</H1>
+
+<span class="LineNumber"> 003 </span>                                   <H1>เล่มที่  ๓   ภาคที่  ๑</H1>
+
+<span class="LineNumber"> 004 </span><H3>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H3>
+
+<span class="LineNumber"> 005 </span>                                       <H1>เอกนิบาตชาดก</H1>
+
+<span class="LineNumber"> 006 </span>                                     <H1>๑.  อปัณณกวรรค</H1>
+
+<span class="LineNumber"> 007 </span>                                     <H1>๑.  อปัณณกชาดก</H1>
+
+<span class="LineNumber"> 008 </span>                              <H1>ว่าด้วยการรู้ฐานะและมิใช่ฐานะ</H1>
+
+<span class="LineNumber"> 009 </span>         [๑]   <B>คนพวกหนึ่งกล่าวฐานะอันหนึ่งว่าไม่ได้    นัก 
+<span class="LineNumber"> 010 </span>         เดาทั้งหลาย   กล่าวฐานะอันนั้นว่า  เป็นที่สอง  คนมี
+<span class="LineNumber"> 011 </span>         ปัญญารู้ฐานะและมิใช่ฐานะนั้นแล้ว  ควรถือเอาฐานะ
+<span class="LineNumber"> 012 </span>         ที่ไม่ผิดไว้.</B>
+<span class="LineNumber"> 013 </span>                             <I>จบอปัณณกชาดกที่  ๑</I>

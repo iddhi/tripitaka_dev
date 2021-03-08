@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>การนับจำนวนวาระในอนุโลม</H1> 
+<span class="LineNumber"> 002 </span>           [๑๗๗๔]  ในเหตุปัจจัย  มี  ๗ วาระ  ในอารัมมณปัจจัย  ในอธิปติ-
+<span class="LineNumber"> 003 </span>ปัจจัย  ในอนันตรปัจจัย  ในสมนันตรปัจจัย  ในสหชาตปัจจัย ให้อัญญมัญญ-
+<span class="LineNumber"> 004 </span>ปัจจัย  ในนิสสยปัจจัย   ในอุปนิสสยปัจจัย  ในปุเรชาตปัจจัย  ในอาเสวนปัจจัย
+<span class="LineNumber"> 005 </span>ในกัมมปัจจัย  ในอาหารปัจจัย   ในอินทริยปัจจัย  ในฌานปัจจัย   ในมัคคปัจจัย
+<span class="LineNumber"> 006 </span>ในสัมปยุตตปัจจัย   ในวิปปยุตตปัจจัย  ในอัตถิปัจจัย    ในนัตถิปัจจัยั  ในวิคต- 
+<span class="LineNumber"> 007 </span>ปัจจัย  ในอวิคตปัจจัย   แต่ละปัจจัย   มี ๑๗ วาระ.
+<span class="LineNumber"> 008 </span>                                             <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 009 </span>                                                <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 010 </span>                                            <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           [๑๗๗๕] ๑.  <B>มัคคารัมมณธรรม  อาศัยมัคคารัมมณธรรม เกิด
+<span class="LineNumber"> 012 </span>ขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นมัคคารัมมณธรรม  ซึ่งเป็นอเหตุกะ
+<span class="LineNumber"> 014 </span>ฯลฯ ขันธ์ ๒ ฯลฯ.
+
+<span class="LineNumber"> 015 </span>                                             <H1>๒. นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           [๑๗๗๖] ๑.  <B>มัคคารัมมณธรรม อาศัยมัคคารัมมณธรรม  เกิด
+<span class="LineNumber"> 017 </span>ขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ ขันธ์ ๓ อาศัย  ขันธ์ ๑ ที่เป็นมัคคารัมมณธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ.

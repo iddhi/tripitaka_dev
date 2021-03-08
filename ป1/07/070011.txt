@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	ส่วนเสียงของพยัญชนะทั่วไป   มี ๒ คือ ที่มีเสียงก้องเรียกว่า
+<span class="LineNumber"> 002 </span>โฆสะ  อย่าง ๑  ที่มีเสียงไม่ก้องเรียก  อโฆสะ  อย่าง ๑.  แต่พยัญชนะ
+<span class="LineNumber"> 003 </span>วรรคที่เป็น โฆสะ และอโฆสะ นั้น ยังแบ่งเป็น ๒ ต่อไปอีก  ตามเสียง
+<span class="LineNumber"> 004 </span>ที่หย่อนและหนัก, เสียงพยัญชนะที่ถูกฐานของตนหย่อน ๆ ชื่อ สิถิล
+<span class="LineNumber"> 005 </span>ที่ถูกฐานของหนัก ชื่อ  ธนิต  ดังนี้ :-   
+<span class="LineNumber"> 006 </span>พยัญชนะที่ ๑  ในวรรคทั้ง ๕ คือ ก จ ฏ ต ป เป็น สิถิลอโฆสะ
+<span class="LineNumber"> 007 </span>"               "   ๒    "               "   "    ข ฉ € ถ ผ   "     ธนิตอโมสะ
+<span class="LineNumber"> 008 </span>"               "   ๓    "               "   "     ค ช ฑ ท พ "     สิถิลโฆสะ
+<span class="LineNumber"> 009 </span>"               "    ๔   "               "   "     ฆ ฌ ฒ ธ ภ"    ธนิตโฆสะ
+<span class="LineNumber"> 010 </span>"               "     ๕  "                "  "      ง  ณ น ม"    สิถิลโฆสะ
+<span class="LineNumber"> 011 </span>	ส่วนพยัญชนะที่เป็น    อวรรค  มีเสียงดังนี้ :-
+<span class="LineNumber"> 012 </span>	ย ร ล ง ห ฬ ๖ ตัวนี้                  เป็น        โฆสะ
+<span class="LineNumber"> 013 </span>	ส                                                 "           อโฆสะ
+<span class="LineNumber"> 014 </span>	ํ  (นิคคหิต)  นักปราชญ์ผู้รู้ศัพทศาสตร์  ประสงค์เป็น โฆสะ
+<span class="LineNumber"> 015 </span>ส่วนนักปราชญ์ฝ่ายศาสนา  ประสงค์เป็น โฆสาโฆสวิมุตติ  คือพ้นจาก
+<span class="LineNumber"> 016 </span>โฆสะ  และ  อโฆสะ  และเสียงของนิคคหิตนี้  อ่านตามวิธีบาลีภาษา
+<span class="LineNumber"> 017 </span>มีสำเนียงเหมือนตัว  ง  สะกด อ่านตามวิธีสํสกฤต  มีสำเนียงเหมือน
+<span class="LineNumber"> 018 </span>ตัว ฒ สะกด.
+<span class="LineNumber"> 019 </span>	บรรดาพยัญชนะเหล่านั้น พยัญชนะที่เป็น สิถิลอโฆสะมีเสียงเบา
+<span class="LineNumber"> 020 </span>กว่าทุกพยัญชนะ,  ธนิตอโฆสะ มีเสียงหนักกว่า  สิถิลอโฆสะ,  สิถิลโฆสะ
+<span class="LineNumber"> 021 </span>มีเสียงดังกว่า  ธนิตอโฆสะ, ธนิตโฆสะ  มีเสียงดังก้องกว่า สิถิลโฆสะ.
+
+                      

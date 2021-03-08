@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>สุทธขันธวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>         [ ๒๘ ]   ธรรมที่ชื่อว่ารูป,     ชื่อว่าขันธ์  ใช่ไหม   ?
+<span class="LineNumber"> 003 </span>ธรรมที่ชื่อว่าขันธ์,                         ชื่อว่ารูป  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าเวทนา,             ชื่อว่าขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>ธรรมที่ชื่อว่าขันธ์,                         ชื่อว่าเวทนา  ใช่ไหม   ?
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่าสัญญา,            ชื่อว่าขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>ธรรมที่ชื่อว่าขันธ์,                         ชื่อว่าสัญญา  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ธรรมที่ชื่อว่าสังขาร,             ชื่อว่าขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>ธรรมที่ชื่อว่าขันธ์                          ชื่อว่าสังขาร   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ธรรมที่ชื่อว่าวิญญาณ,        ชื่อว่าขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>ธรรมที่ชื่อว่าขันธ์,                         ชื่อว่าวิญญาณ  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>                       <I>สุทธขันธวาระ  อนุโลม  จบ</I>

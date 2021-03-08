@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                  ๒.  <B>ธรรมที่เป็นอัพยากตะ       อาศัยธรรมที่ไม่ใช่กุศล
+<span class="LineNumber"> 002 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>                                            
+<span class="LineNumber"> 003 </span>                  ๓.  <B>ธรรมที่เป็นกุศล   อาศัยธรรมที่ไม่ใช่อกุศล  เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 005 </span>                  ๔.  <B>ธรรมที่เป็นอัพยากตะ       อาศัยธรรมที่ไม่ใช่อกุศล
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 007 </span>                  ๕.  <B>ธรรมที่เป็นกุศล  อาศัยธรรมที่ไม่ใช่อัพยากตะ  เกิด
+<span class="LineNumber"> 008 </span>ขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 009 </span>                  ๖.  <B>ธรรมที่เป็นอกุศล       อาศัยธรรมที่ไม่ใช่อัพยากตะ
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>                  ๗.  <B>ธรรมที่เป็นอกุศล   อาศัยธรรมที่ไม่ใช่กุศล    และ
+<span class="LineNumber"> 012 </span>ธรรมที่ไม่ใช่อัพยากตะ  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 013 </span>                  ๘.  <B>ธรรมที่เป็นกุศล    อาศัยธรรมที่ไม่ใช่อกุศล    และ
+<span class="LineNumber"> 014 </span>ธรรมที่ไม่ใช่อัพยากตะ  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 015 </span>                  ๙.  <B>ธรรมที่เป็นอัพยากตะ  อาศัยธรรมที่ไม่ใช่กุศล  และ
+<span class="LineNumber"> 016 </span>ธรรมที่ไม่ใช่อกุศล  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+
+<span class="LineNumber"> 017 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>           [๘]  ในเหตุปัจจัย มี ๑๘ วาระ  ในอารัมมณปัจจัย มี ๙ วาระ    ใน
+<span class="LineNumber"> 019 </span>อธิปติปัจจัย  มี ๑๘  วาระ  ฯลฯ   ในอวิคตปัจจัย มี ๑๘ วาระ.

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span> 					<H1>กุสลติกสังขตทุกะ</H1>
+<span class="LineNumber"> 002 </span>			    <H2>(๑. กุสลติกะ  ๘. สังขตทุกะ)</H2>		
+<span class="LineNumber"> 003 </span>					<H1>สังขตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>					   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๕๘๐]  ๑.  สังขตธรรมที่เป็นกุศล  อาศัยสังขตธรรมที่เป็น 
+<span class="LineNumber"> 007 </span>กุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>					เหมือนสัปปัจจยทุกะ
+<span class="LineNumber"> 009 </span>					<I>กุสลติกสังขตทุกะ  จบ</I>
+
+<span class="LineNumber"> 010 </span>					<H1>กุสลติกสนิทัสสนทุกะ</H1>
+<span class="LineNumber"> 011 </span>		      <H2>(๑.  กุสลติกะ  ๙.  สนิทัสสนทุกะ)</H2>	
+<span class="LineNumber"> 012 </span>				    <H1>อนิทัสสนบทปฏิจจวาระ</H1>	
+<span class="LineNumber"> 013 </span>					    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>					  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๕๘๑]  ๑.  อนิทัสสนธรรมที่เป็นกุศล  อาศัยอนิทัสสนธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นกุศล  เกิดขึ้น เพราะเหตุปัจจัย  มี  ๓ วาระ.	

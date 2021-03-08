@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑    หน้า  ๒๔๐
+
+<span class="LineNumber"> 002 </span>			จตุธาตุสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	จตุตฺถวคฺคสฺส  ป€เม  ป€วีธาตูติ  ปติฏฺ€าธาตุ ฯ  อาโป-
+<span class="LineNumber"> 004 </span>ธาตูติ  อาพนฺธนธาตุ ฯ  เตโชธาตูติ  ปริปาจนธาตุ ฯ  (๑)  วาโย-
+<span class="LineNumber"> 005 </span>ธาตูติ  วิตฺถมฺภนธาตุ ฯ  (๒)  อยเมตฺถ สงฺเขโป วิตฺถารโต ปน
+<span class="LineNumber"> 006 </span>วีสติโกฏฺ€าสาทิวเสน ตา เวทิตพฺพา ฯ (๓) 
+<span class="LineNumber"> 007 </span>				ป€มํ ฯ   
+
+<span class="LineNumber"> 008 </span>			ปุพฺเพสมฺโพธสุตฺตวณฺณนา          
+<span class="LineNumber"> 009 </span>	ทุติเย  อยํ  ป€วีธาตุยา  อสฺสาโทติ  อยํ  ป€วีธาตุนิสฺสโย  
+<span class="LineNumber"> 010 </span>อสฺสาโท ฯ  สฺวายํ  กายํ  อพฺภุนฺนาเมตฺวา  อุทรํ  ปสาเรตฺวา  
+<span class="LineNumber"> 011 </span>อิท(๔)  เม  องฺคุลํ ปเวสิตุํ  วายมถาติ  วา  หตฺถํ  ปสาเรตฺวา
+<span class="LineNumber"> 012 </span>อิมํ  นาเมตุํ วายมถาติ วทติ เอวํ  ปวตฺตานํ  วเสน 
+<span class="LineNumber"> 013 </span>เวทิตพฺโพ ฯ  
+<span class="LineNumber"> 014 </span>	อนิจฺจาติอาทีสุ  หุตฺวา  อภาวากาเรน  อนิจฺจา  ปฏิ-
+<span class="LineNumber"> 015 </span>ปีฬนากาเรน  ทุกฺขา  สภาววิคมากาเรน  วิปริณามธมฺมา ฯ 
+<span class="LineNumber"> 016 </span>อยํ  ป€วีธาตุยา  อาทีนโวติ  เยน  อากาเรน  สา  อนิจฺจา  ทุกฺขา 
+<span class="LineNumber"> 017 </span>วิปริณามธมฺมา  อยมากาโร  ป€วีธาตุยา  อาทีนโวติ  อตฺโถ ฯ 
+<span class="LineNumber"> 018 </span>ฉนฺทราควินโย  ฉนฺทราคปหานนฺติ  นิพฺพานํ  อาคมฺม  ป€วี-
+<span class="LineNumber"> 019 </span>ธาตุยา  ฉนฺทราโค  วินียติ  เจว  ปหิยฺยติ  จ  ตสฺมา 
+<span class="LineNumber"> 020 </span># ๑. สี. ปริปาจนียธาตุ ฯ ๒. ม. วิตฺถมฺภนธาตุ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. เอตา กเถตพฺพา ฯ  ๔. ม. อิธ ฯ

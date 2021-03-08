@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>			  <H1>สังกิเลสิกบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>				  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>				 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๗๓๗]  ๑.  สังกิเลสิกธรรมที่เป็นกุศล  เป็นปัจจัยแก่สังกิเลสิก-
+<span class="LineNumber"> 005 </span>ธรรมที่เป็นกุศล  ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ.                 
+<span class="LineNumber"> 006 </span>                        ๔.  สังกิเลสิกธรรมที่เป็นอกุศล      เป็นปัจจัยแก่สัง-
+<span class="LineNumber"> 007 </span>กิเลสิกธรรมที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                        ๗.  สังกิเลสิกธรรมที่เป็นอัพยากตะ  เป็นปัจจัยแก่สัง-
+<span class="LineNumber"> 009 </span>กิเลสิกธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๗๓๘]  ในเหตุปัจจัย   มี ๗ วาระ    ในอารัมมณปัจจัย  มี ๙  วาระ
+<span class="LineNumber"> 012 </span>ในอธิปติปัจจัย มี ๙  วาระ ฯลฯ  ในอวิคตปัจจัย มี ๑๓ วาระ.
+<span class="LineNumber"> 013 </span>            แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+	
+<span class="LineNumber"> 014 </span>				<H1>อสังกิเลสิกบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 015 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 016 </span>				        <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 017 </span>		[๗๓๙]  ๑.  อสังกิเลสิกธรรมที่เป็นกุศล  อาศัยอสังกิเลสสิก-
+<span class="LineNumber"> 018 </span>ธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย

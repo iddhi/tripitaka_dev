@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>ปุคคโลกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๙๘๙]   ทุกขสัจจะไม่ใช่กำลังเกิดแก่บุคคลใดในภูมิใด,   ฯ ล ฯ
+<span class="LineNumber"> 005 </span>         คำว่า   <B>ยสฺส</B>  ( แก่บุคคลใด )  ก็ดี      คำว่า  <B>ยสฺสยตฺถ</B>   ( แก่
+<span class="LineNumber"> 006 </span>บุคคลใดในภูมิใด )  ก็ดี  เป็นเช่นเดียวกัน.
+<span class="LineNumber"> 007 </span>         บทว่า  <B>นิโรธสมาปนฺนานํ</B>  ไม่พึงกระทำแม้ในคำว่า <B>ยสฺสยตฺถ</B>
+<span class="LineNumber"> 008 </span>(แก่บุคคลใดในภูมิใด)
+<span class="LineNumber"> 009 </span>                                      <I>ทุกขสัจจมูล จบ</I>
+<span class="LineNumber"> 010 </span>                                   <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 011 </span>                            <I>ปัจจุปปันนวาระ  ปัจจนิก  จบ</I>

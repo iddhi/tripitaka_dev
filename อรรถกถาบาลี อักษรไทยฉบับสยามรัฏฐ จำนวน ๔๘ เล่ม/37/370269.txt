@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 269
+
+<span class="LineNumber"> 002 </span>		ปิยงฺคุกา อุทฺทาลกา สหา  
+<span class="LineNumber"> 003 </span>		อุปริ ภณฺฑกา สินฺทุวาริตา(๑)  
+<span class="LineNumber"> 004 </span>		จมฺเปยฺยกา นาคมลฺลิกา  
+<span class="LineNumber"> 005 </span>		ภคินีมาลา อตฺเถตฺถ(๒) โกลิยา  
+<span class="LineNumber"> 006 </span>		เอเต ทุมา ปรินามิตา  
+<span class="LineNumber"> 007 </span>		โสภยนฺติ อุรคสฺส มนฺทิเร(๓)  
+<span class="LineNumber"> 008 </span>	ขชฺชุเรตฺถ สิลามยา  โสวณฺณธุวปุปฺผิตา (พหู)  
+<span class="LineNumber"> 009 </span>		ยตฺถ วสโตปปาติโก  
+<span class="LineNumber"> 010 </span>		นาคราชา วรุโณ มหิทฺธิโก  
+<span class="LineNumber"> 011 </span>		ตสฺส โกมาริกา ภริยา  
+<span class="LineNumber"> 012 </span>		วิมลา กาฺจนเวลฺลิวิคฺคหา  
+<span class="LineNumber"> 013 </span>		กาฬา ตรุณาว อุคฺคตา  
+<span class="LineNumber"> 014 </span>		ปิจุมณฺฑตฺถนี (๔) จารุทสฺสนา  
+<span class="LineNumber"> 015 </span>		ลาขารสรตฺตสุจฺฉวี  
+<span class="LineNumber"> 016 </span>		กณิการาว นิวาตปุปฺผิตา  
+<span class="LineNumber"> 017 </span>		ติทิโวกฺกจราว อจฺฉรา  
+<span class="LineNumber"> 018 </span>		วิชฺชุวพฺภฆนาว นิสฺสิตา(๕)  
+<span class="LineNumber"> 019 </span>		สา โทหฬินี สุวิมฺหิตา  
+<span class="LineNumber"> 020 </span># ๑. ม. สินฺธุวารกา ฯ  ๒. ม. อตฺถเมตฺถ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. มนฺทิรํ ฯ  ๔. ม. ปุจิมนฺทนีติปิ ปาโ€ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. วินิสฺสฏา ฯ 

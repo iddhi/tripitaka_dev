@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๙.  วันทนาสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                             <H1>ว่าด้วยการไหว้  ๓  อย่าง</H1> 
+
+<span class="LineNumber"> 003 </span>         [๕๙๔]  ดูก่อนภิกษุทั้งหลาย   การไหว้  ๓  นี้   การไหว้ ๓  คืออะไร
+<span class="LineNumber"> 004 </span>คือไหว้ด้วยกาย ๑  ไหว้ด้วยวาจา  ๑ ไหว้ด้วยใจ   ๑   นี้แลการไหว้ ๓.
+<span class="LineNumber"> 005 </span>                                     <I>จบวันทนาสูตรที่  ๙</I>
+
+<span class="LineNumber"> 006 </span>                               <H1>๑๐. สุปุพพัณหสูตร</H1>
+
+<span class="LineNumber"> 007 </span>                              <H1>ว่าด้วยเวลาที่เป็นฤกษ์ดี</H1>
+
+<span class="LineNumber"> 008 </span>         [๕๙๕]  ดูก่อนภิกษุทั้งหลาย   สัตว์เหล่าใดประพฤติสุจริต  ด้วยกาย
+<span class="LineNumber"> 009 </span>ด้วยวาจา    ด้วยใจ    ในเวลาเช้า   เวลาเช้านั้น     ก็เป็นเวลาดีของสัตว์เหล่านั้น 
+<span class="LineNumber"> 010 </span>สัตว์เหล่าใดประพฤติสุจริตด้วยกาย   ด้วยวาจา  ด้วยใจ  ในเวลากลางวัน   เวลา
+<span class="LineNumber"> 011 </span>กลางวันนั้น   ก็เป็นเวลาดีของสัตว์เหล่านั้น    สัตว์เหล่าใดพระพฤติสุจริตด้วยกาย
+<span class="LineNumber"> 012 </span>ด้วยวาจา  ด้วยใจ  ในเวลาเย็น  เวลาเย็นนั้น    ก็เป็นเวลาดีของสัตว์เหล่านั้น.
+<span class="LineNumber"> 013 </span>                                                  <B>(นิคมคาถา)
+<span class="LineNumber"> 014 </span>                            กายกรรม   วาจากรรม   มโนกรรม
+<span class="LineNumber"> 015 </span>              ความปรารถนาของท่าน   เป็นประทักษิณ
+<span class="LineNumber"> 016 </span>              เป็นฤกษ์ดี  มงคลดี  แจ้งดี  รุ่งดี
+<span class="LineNumber"> 017 </span>              ขณะดี  ครู่ดี  และเป็นการบูชาอย่างดีใน</B>

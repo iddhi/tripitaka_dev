@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  38  อารมฺภกถา  หน้า  10
+
+<span class="LineNumber"> 002 </span>เอเตสํ  วา  อปริจฺจาคี  ตโต  เอว  โสตูนํ  หิเต  นิยุตฺตตฺตา ฯ
+<span class="LineNumber"> 003 </span>เนสํ อวโพธนํ  ปฏิอกิลาสุ ภชตีติ ฯ อาห เจตฺถ  
+<span class="LineNumber"> 004 </span>		ปา€ตฺถวิทสํหีโร  		วตฺตา สุจิ อมจฺฉโร  
+<span class="LineNumber"> 005 </span>		จตุนฺนํ อปริจฺจาคี  	เทสกสฺส หิตานฺวิโตติ ฯ 
+<span class="LineNumber"> 006 </span>	เอตฺถ  เทสกสฺสาติ  เทสโก  อสฺส  ภเวยฺยาติ อตโถ ฯ 
+<span class="LineNumber"> 007 </span>หิตานฺวิโตติ หิเตน (๒) อนุคโต  หิตจิตฺโต  โส  เอโส  จ (๓)
+<span class="LineNumber"> 008 </span>สุจิตฺตา  ปิโย  จตุนฺนํ  อปริจจาคิตฺตา  ครุ อสํหีรตฺตา ภาวนีโย  
+<span class="LineNumber"> 009 </span>หิตานฺวิตตฺตา  วจนกฺขโม  ปา€ตฺถวิทตฺตา  คมฺภีรกถํ กตฺตา
+<span class="LineNumber"> 010 </span>อมจฺฉรตฺตา (๔) จาฏฺ€าเน (๕) นิโยชโก อิติ  ฯ
+<span class="LineNumber"> 011 </span>		ปิโย ครุ ภาวนีโย  		วตฺตา จ วจนกฺขโม  
+<span class="LineNumber"> 012 </span>		คมฺภีรฺจ กถํ กตฺตา  	โน จาฏฺ€าเน นิโยชโกติ  ฯ
+<span class="LineNumber"> 013 </span>	อภิหิโต เทสโก โส ตาว อิทานิ อภิธียเต (๖) ฯ  
+<span class="LineNumber"> 014 </span>จตุธมฺมครุตฺตา  (๗)  กถํ  น  ปริภวติ  อาจริยครุตฺตา  กถิตํ (๘) น
+<span class="LineNumber"> 015 </span>ปริภวติ สทฺธาปฺาทิคุณปฏิมณฺฑิตตฺตา  อตฺตานํ  น  
+<span class="LineNumber"> 016 </span>ปริภวติ  อส€ามายาวิตฺตา  อมตาภิมุขตฺตา  จ  อวิกฺขิตฺตจิตฺโต 
+<span class="LineNumber"> 017 </span>ภวติ  สุเมธตฺตา  โยนิโส  มนสิ  กโรตีติ ฯ วุตฺตเฺหตํ  ปฺจหิ 
+<span class="LineNumber"> 018 </span>ภิกฺขเว ธมฺเมหิ สมนฺนาคโต สุณนฺโต สทฺธมฺมํ ภพฺโพ  
+<span class="LineNumber"> 019 </span>นิยามํ โอกฺกมิตุํ กุสเลสุ ธมฺเมสุ สมฺมตฺตํ ฯ กตเมหิ 
+<span class="LineNumber"> 020 </span># ๑. ม. หิตานฺวิโตติ ฯ  ๒. ม. หิเต ฯ  ๓. ม. จสทฺโท นตฺถิ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. อมจฺฉรตฺตา ฯ  ๕. ม. น. €าฏ€าเน ฯ  ๖. ม. อภิธียเต ฯ
+<span class="LineNumber"> 022 </span># ๗. ม. คตฺถธมฺมครุตฺตา ฯ  ๘. ม. กถิกํ ฯ

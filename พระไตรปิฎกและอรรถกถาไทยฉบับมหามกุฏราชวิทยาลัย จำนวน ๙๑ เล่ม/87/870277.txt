@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           มหาภูตรูป ๑ ฯลฯ 
+<span class="LineNumber"> 002 </span>           พาหิรรูป...  อาหารสมุฏฐาน...  อุตุสมุฐานรูป ฯลฯ
+<span class="LineNumber"> 003 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ
+<span class="LineNumber"> 004 </span>           ที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่ 
+<span class="LineNumber"> 005 </span>           พระอรหันต์พิจารณาเห็นจักษุ ฯลฯ  หทยวัตถุ  โดยความเป็นของไม่
+<span class="LineNumber"> 006 </span>เที่ยง  เป็นทุกข์  เป็นอนัตตา.
+<span class="LineNumber"> 007 </span>           เห็นรูปด้วยทิพยจักษุ ฯลฯ  ฟังเสียงด้วยทิพโสตธาตุ.
+<span class="LineNumber"> 008 </span>           รูปายตนะ  เป็นปัจจัยแก่จักขุวิญญาณ  ฯลฯ  โผฏฐัพพายตนะ  เป็น
+<span class="LineNumber"> 009 </span>ปัจจัยแก่กายวิญญาณ.
+<span class="LineNumber"> 010 </span>           จักขายตนะ  เป็นปัจจัยแก่จักขุวิญญาณ ฯลฯ  กายายตนะ  เป็นปัจจัยแก่
+<span class="LineNumber"> 011 </span>กายวิญญาณ.
+<span class="LineNumber"> 012 </span>           หทยวัตถุ  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นเนวาจยคามินาปจยคามิ-
+<span class="LineNumber"> 013 </span>ธรรม  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 014 </span>           ที่เป็น  <B>ปัจฉาชาตะ</B>  ได้แก่
+<span class="LineNumber"> 015 </span>           ขันธ์ทั้งหลายที่เป็นเนวาจยคามินาปจยคามิธรรมที่เกิดภายหลัง  เป็น
+<span class="LineNumber"> 016 </span>ปัจจัยแก่กายนี้ที่เกิดก่อน  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 017 </span>           กวฬการาหาร  เป็นปัจจัยแก่กายนี้.
+<span class="LineNumber"> 018 </span>           รูปชีวิตนทรีย์  เป็นปัจจัยแก่กฏัตตารูปทั้งหลาย.
+<span class="LineNumber"> 019 </span>           [๑๑๔๙] ๘.  <B>เนวาจยคามินาปจยคามิธรรม  เป็นปัจจัยแก่อาจย-
+<span class="LineNumber"> 020 </span>คามิธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+   

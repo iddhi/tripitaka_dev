@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>บทภาชนีย์</H1> 
+<span class="LineNumber"> 002 </span>        [๑๑๑]  รูปิยะ  ภิกษุสำคัญว่าเป็นรูปิยะ  ซื้อขายรูปิยะ  เป็นนิสสัคคีย์
+<span class="LineNumber"> 003 </span>ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 004 </span>        รูปิยะ    ภิกษุสงสัย    ซื้อขายรูปิยะ    เป็นนิสสัคคีย์    ต้องอาบัติ
+<span class="LineNumber"> 005 </span>ปาจิตตีย์
+<span class="LineNumber"> 006 </span>        รูปิยะ    ภิกษุสำคัญว่ามิใช่รูปิยะ    ซื้อขายรูปิยะ  เป็นนิสสัคคีย์   ต้อง
+<span class="LineNumber"> 007 </span>อาบัติปาจิตตีย์           
+<span class="LineNumber"> 008 </span>                              <H2>ติกนิสสัคคิยปาจิตตีย์</H2>
+<span class="LineNumber"> 009 </span>        มิใช่รูปิยะ   ภิกษุสำคัญว่าเป็นรูปิยะ    ซื้อขายรูปิยะ   เป็นนิสสัคคีย์
+<span class="LineNumber"> 010 </span>ต้องอาบัติปาจิตตีย์  
+<span class="LineNumber"> 011 </span>       มิใช่รูปิยะ    ภิกษุสงสัย   ซื้อขายรูปิยะ   เป็นนิสสัคคีย์   ต้องอาบัติ
+<span class="LineNumber"> 012 </span>ปาจิตตีย์     
+<span class="LineNumber"> 013 </span>       มิใช่รูปิยะ   ภิกษุสำคัญว่ามิใช่รูปิยะ   ซื้อขายรูปิยะ    เป็นนิสัคคีย์
+<span class="LineNumber"> 014 </span>ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 015 </span>                                         <H2>ทุกกฏ</H2>
+<span class="LineNumber"> 016 </span>        มิใช่รูปิยะ    ภิกษุสำคัญว่าเป็นรูปิยะ...  ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 017 </span>        มิใช่รูปิยะ     ภิกษุสงสัย...  ต้องอาบัติทุกกฏ

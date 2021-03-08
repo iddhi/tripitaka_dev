@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  43  หน้า  210
+
+<span class="LineNumber"> 002 </span>				มหาปริวารวคฺควณฺณนา  
+
+<span class="LineNumber"> 003 </span>			มหาปริวารกตฺเถราปทานวณฺณนา  
+<span class="LineNumber"> 004 </span>	วิปสฺสี  นาม  ภควาติอาทิกํ  อายสฺมโต  มหาปริวารกตฺ-
+<span class="LineNumber"> 005 </span>เถรสฺส  อปทานํ ฯ  
+<span class="LineNumber"> 006 </span>	อยมฺปิ  ปุริมชินวเรสุ  กตาธิกาโร ตตฺถ ตตฺถ ภเว 
+<span class="LineNumber"> 007 </span>วิวฏฺฏูปนิสฺสยานิ อุปจินนฺโต วิปสฺสิสฺส  ภควโต  
+<span class="LineNumber"> 008 </span>อุปฺปนฺนสมเย  ยกฺขโยนิยํ  นิพฺพตฺโต  อเนกยกฺขสตสหสฺสปริวาโร  
+<span class="LineNumber"> 009 </span>เอกสฺมึ  ขุทฺทกทีเป  ทิพฺพสุขํ  อนุภวนฺโต  วิหรติ ฯ  ตสฺมิฺจ 
+<span class="LineNumber"> 010 </span>ทีเป เจติยาภิโสภิโต วิหาโร  อตถิ  ตตฺถ  ภควา  อคมาสิ ฯ  
+<span class="LineNumber"> 011 </span>อถ  โข  (๑)  ยกฺขเสนาธิปติ  ตตฺถ  กตภาวํ ทิสฺวา  
+<span class="LineNumber"> 012 </span>ทิพฺพวตฺถานิ  คเหตฺวา  คตํ(๒)  ภควนฺตํ วนฺทิตฺวา ทิพฺพวตฺเถหิ 
+<span class="LineNumber"> 013 </span>ปูเชสิ ฯ สปริวาโร  สรณํ  อคมาสิ ฯ  โส  เตน  ปุฺกมฺเมน  
+<span class="LineNumber"> 014 </span>ตโต  จุโต  เทวมนุสฺสโลเก(๓)  นิพฺพตฺติตฺวา (๔)ตตฺถ  ฉกามาวจรสุขํ  
+<span class="LineNumber"> 015 </span>อนุภวิตฺวา(๔) อปรภาเค  อิมสฺมึ  พุทฺธุปฺปาเท  กุลเคเห  นิพฺพตฺโต  
+<span class="LineNumber"> 016 </span>วิฺุตํ  ปตฺโต  สตฺถริ  ปสีทิตฺวา ปพฺพชิตฺวา (๕) นจิรสฺเสว อรหา 
+<span class="LineNumber"> 017 </span>อโหสิ ฯ  
+<span class="LineNumber"> 018 </span>	โส  อปรภาเค  อตฺตโน  ปุพฺพกมฺมํ  สริตฺวา  โสมนสฺสชาโต  
+<span class="LineNumber"> 019 </span># ๑. ม. โส ฯ  ๒. ม. คนฺตฺวา ฯ   ๓. ม. เทวโลเก ฯ  
+<span class="LineNumber"> 020 </span># ๔. ม. ตโต จุโต มนุสฺเสสุ อคฺคจกฺกวตฺติอาทิสุขมนุภวิตฺวา ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. ปพฺพชิโต ฯ

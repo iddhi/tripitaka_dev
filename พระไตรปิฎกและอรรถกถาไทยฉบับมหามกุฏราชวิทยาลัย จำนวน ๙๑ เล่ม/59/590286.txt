@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๘.  อัฏฐิเสนชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                              <H1>ว่าด้วยการขอ</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๐๒๑]   ข้าแต่ท่านอัฏฐิเสนะ  พวกวณิพกทั้งหลาย
+<span class="LineNumber"> 004 </span>           ที่โยมไม่รู้จัก     พากันมาหาโยมแล้ว   ขอสิ่งที่ 
+<span class="LineNumber"> 005 </span>           ต้องการกัน     แต่เหตุไฉน      พระคุณเจ้าจึงไม่
+<span class="LineNumber"> 006 </span>          ขออะไรกะโยม. 
+<span class="LineNumber"> 007 </span>         [๑๐๒๒]   เพราะผู้ขอ     ย่อมไม่เป็นที่รักของผู้ให้
+<span class="LineNumber"> 008 </span>           ส่วนผู้ให้  เมื่อไม่ให้สิ่งที่เขาขอ   ก็ไม่เป็นที่รัก
+<span class="LineNumber"> 009 </span>           ของผู้ขอ    เพราะฉะนั้นอาตมภาพ    จึงไม่ขอ
+<span class="LineNumber"> 010 </span>           อะไรกะมหาบพิตร. 
+<span class="LineNumber"> 011 </span>         [๑๐๒๓]   ก็ผู้ใดเลี้ยงชีพด้วยการขอ   แต่ไม่ขอสิ่ง
+<span class="LineNumber"> 012 </span>           ที่ควรขอในเวลาที่ควรขอ   ผู้นั้นย่อมขจัดผู้อื่น
+<span class="LineNumber"> 013 </span>           จากบุญด้วย  ทั้งตนเองก็เลี้ยงชีพอยู่ไม่ได้ด้วย. 
+<span class="LineNumber"> 014 </span>         [๑๐๒๔]   ส่วนผู้ใด   เลี้ยงชีพด้วยการขอ  ขอสิ่งที่
+<span class="LineNumber"> 015 </span>           ควรขอ  ทั้งขอในเวลาที่ควรขอ  ผู้นั้นย่อมให้ผู้
+<span class="LineNumber"> 016 </span>           อื่นได้บุญด้วย  ทั้งตนเองก็เลี้ยงชีพอยู่ได้ด้วย.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  นวมวคฺเค สมิติคุตฺตตฺเถรคาถาวณฺณนา หน้า 379
+
+<span class="LineNumber"> 002 </span>	โส  เตน  กมฺเมน  ปุน  นิรเย  นิพฺพตฺติตฺวา พหูนิ  วสฺสานิ 
+<span class="LineNumber"> 003 </span>ทุกฺขํ  อนุภวิตฺวา  อิมสฺมึ  พุทฺธุปฺปาเท  สาวตฺถิยํ อฺตรสฺส 
+<span class="LineNumber"> 004 </span>พฺราหฺมณสฺส ปุตฺโต หุตฺวา นิพฺพตฺติ สมิติคุตฺโตติสฺส นามํ 
+<span class="LineNumber"> 005 </span>อโหสิ ฯ โส วยปฺปตฺโต สตฺถุ  ธมฺมเทสนํ  สุตฺวา  ปฏิลทฺธสทฺโธ
+<span class="LineNumber"> 006 </span>ปพฺพชิตฺวา สุวิสุทฺธสีโล หุตฺวา วิหรติ ฯ ตสฺส  ปุริมกมฺม-
+<span class="LineNumber"> 007 </span>นิสฺสนฺเทน  กุฏฺ€โรโค  อุปฺปชฺชิ  เตน ตสฺส สรีราวยวา
+<span class="LineNumber"> 008 </span>เยภุยฺเยน ฉินฺนภินฺนา  หุตฺวา  ปคฺฆรนฺติ ฯ  โส  คิลานสาลายํ 
+<span class="LineNumber"> 009 </span>วสติ ฯ  
+<span class="LineNumber"> 010 </span>	อเถกทิวสํ ธมฺมเสนาปติ คิลานปุจฺฉํ คนฺตฺวา ตตฺถ 
+<span class="LineNumber"> 011 </span>ตตฺถ คิลาเน ภิกฺขู ปุจฺฉนฺโต ตํ ภิกฺขุํ ทิสฺวา อาวุโส 
+<span class="LineNumber"> 012 </span>ยาวตา  ขนฺธปฺปวตฺติ  นาม  สพฺพํ  ทุกฺขเมว  เวทนา ฯ  ขนฺเธสุ 
+<span class="LineNumber"> 013 </span>ปน  อสนฺเตสุเยว  ทุกฺขนฺติ  เวทนานุปสฺสนากมฺมฏฺ€านํ 
+<span class="LineNumber"> 014 </span>กเถตฺวา  อคมาสิ ฯ  โส  เถรสฺส  โอวาเท  €ตฺวา วิปสฺสนํ 
+<span class="LineNumber"> 015 </span>วฑฺเฒตฺวา ฉฬภิฺา สจฺฉากาสิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 016 </span>		ชายนฺตสฺส วิปสฺสิสฺส	อาโลโก วิปุโล อหุ  
+<span class="LineNumber"> 017 </span>		ป€วี จ ปกมฺปิตฺถ		สสาครา สปพฺพตา ฯ  
+<span class="LineNumber"> 018 </span>		เนมิตฺตา(๒) จ วิยากํสุ	พุทฺโธ โลเก ภวิสฺสติ  
+<span class="LineNumber"> 019 </span>		อคฺโค จ สพฺพสตฺตานํ	ชนตํ อุทฺธริสฺสติ ฯ  
+<span class="LineNumber"> 020 </span>		เนมิตฺตานํ สุณิตฺวาน	ชาติปูชมกาสหํ  
+<span class="LineNumber"> 021 </span>		เอทิสา ปูชนา นตฺถิ	ยาทิสา ชาติปูชนา ฯ  
+<span class="LineNumber"> 022 </span># ๑. ขุ. อ. ๓๒/๑๒๒/๒๒๐ ฯ  ๒. สฺยา. ม. เนมิตฺตา ฯ 

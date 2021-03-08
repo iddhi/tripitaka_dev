@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           อรูปธรรมทั้งหลายเท่านั้น  เป็นปัจจัยใน <B>ฆฏนาที่ ๑๒.</B> 
+<span class="LineNumber"> 002 </span>           ใน <B>ฆฏนาที่ ๑๓</B> มีวัตถุที่เป็นอารมณ์เป็นปัจจัย.
+<span class="LineNumber"> 003 </span>           ใน <B>ฆฏนาที่ ๑๔</B>  มีวัตถุเท่านั้นเป็นปัจจัย. 
+<span class="LineNumber"> 004 </span>           ใน <B>ฆฏนาที่ ๑๕</B>  มีอารมณ์เท่านั้น เป็นปัจจัย.
+<span class="LineNumber"> 005 </span>           ใน <B>ฆฏนาที่  ๑๖</B>  มีวัตถุเท่านั้นเป็นอารมณ์.
+<span class="LineNumber"> 006 </span>           ใน <B>ฆฏนาที่  ๑๗</B>  วัตถุนั้นเองเป็นอารมณ์        ด้วยอำนาจเป็น
+<span class="LineNumber"> 007 </span>อารัมมณาธิปติ.
+<span class="LineNumber"> 008 </span>           ใน <B>ฆฏนาที่ ๑๘</B>   วัตถุนั้นเองเป็นอารมณ์ด้วยอำนาจอารัมมณูป-
+<span class="LineNumber"> 009 </span>นิสสยปัจจัย.                                                
+<span class="LineNumber"> 010 </span>           จักขุเป็นต้นเท่านั้นเป็นปัจจัย ใน ฆฏนาที่ ๑๙.
+<span class="LineNumber"> 011 </span>           <B>ฆฏนาที่ ๑๙ เหล่านี้</B> ชื่อว่า <B>ปกิณณกฆฏนา</B>  อันพระองค์ตรัสไว้
+<span class="LineNumber"> 012 </span>โดยไม่ถือเองซึ่งสหชาตะ. ๑๐ ฆฏนา ต่อจากนั้น ตรัสด้วยอำนาจสหชาต-
+<span class="LineNumber"> 013 </span>ฆฏนา.
+
+<span class="LineNumber"> 014 </span>                                   <H1>นัตถิ-วิคตมูลกนัย</H1>
+<span class="LineNumber"> 015 </span>           ในนัยที่มี <B>นัตถิและวิคตปัจจัยเป็นมูล</B>    มีฆฏนา ๓ ด้วยอำนาจ
+<span class="LineNumber"> 016 </span>อุปนิสสยปัจจัย  อาเสวนปัจจัย และกัมมปัจจัย  เหมือนในนัยที่มีอนันตระ
+<span class="LineNumber"> 017 </span>และสมนันตรปัจจัยเป็นมูล.

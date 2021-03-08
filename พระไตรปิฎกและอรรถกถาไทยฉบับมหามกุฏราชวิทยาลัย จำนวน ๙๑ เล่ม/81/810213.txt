@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>อตีตารัมมณกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๓๔๓]   <B>สกวาที</B>   จิตที่มีอดีตเป็นอารมณ์   เป็นธรรมไม่มีอารมณ์
+<span class="LineNumber"> 003 </span>หรือ ?
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. มีอดีตเป็นอารมณ์   มิใช่หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 007 </span>                       ส. หากว่า  มีอดีตเป็นอารมณ์   ก็ต้องไม่กล่าวว่า  จิตที่มี
+<span class="LineNumber"> 008 </span>อดีตเป็นอารมณ์   เป็นธรรมไม่มีอารมณ์   และดังนั้น   การกล่าวว่าจิตที่มี 
+<span class="LineNumber"> 009 </span>อดีตเป็นอารมณ์ เป็นธรรมไม่มีอารมณ์  จึงผิด  ก็หรือหากว่า จิตเป็นธรรม
+<span class="LineNumber"> 010 </span>ไม่มีอารมณ์ ก็ต้องไม่กล่าวว่า มีอดีตเป็นอารมณ์ และดังนั้น การกล่าวว่า
+<span class="LineNumber"> 011 </span>จิตที่เป็นธรรมไม่มีอารมณ์   เป็นธรรมมีอดีตเป็นอารมณ์  จึงผิด.
+<span class="LineNumber"> 012 </span>         [๑๓๔๔]   ส. จิตที่มีอดีตเป็นอารมณ์  เป็นธรรมไม่มีอารมณ์ หรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                       ส. ความนึก ฯลฯ  ความตั้งใจ ปรารภอดีตมี   มิใช่หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                       ส. หากว่า ความนึก  ฯลฯ  ความตั้งใจ ปรารภอดีต  มีอยู่
+<span class="LineNumber"> 017 </span>ก็ต้องไม่กล่าวว่า จิตที่มีอดีตเป็นอารมณ์  เป็นธรรมไม่มีอารมณ์.
+<span class="LineNumber"> 018 </span>                               <I>อตีตารัมมณกถา  จบ</I>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  354
+
+<span class="LineNumber"> 002 </span>			ยํ สาลวนสฺมึ เสนโก  
+<span class="LineNumber"> 003 </span>			ปาปกมฺมมกาสิ อสพฺภิรูปํ  
+<span class="LineNumber"> 004 </span>			สขิโนว รโหคโต อสํสิ  
+<span class="LineNumber"> 005 </span>			คุยฺหํ ปาตุกตํ สุตํ มเมตนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  อสพฺภิรูปนฺติ  อสาธุชาติกํ  ลามกํ  อกุสลกมฺมํ  อกาสิ  
+<span class="LineNumber"> 007 </span>อิมสฺมึเยว  นคเร  อสุกํ  นาม  เวสึ สาลวนุยฺยาเน มาเรตฺวา 
+<span class="LineNumber"> 008 </span>อลงฺการํ  คเหตฺวา  ตสฺสาเยว  สาฏเกน  ภณฺฑิกํ  กตฺวา  อตฺตโน 
+<span class="LineNumber"> 009 </span>ฆเร  อสุกฏฺ€าเน  €เปสิ ฯ  สขิโนว  รโหคโต  อสํสีติ  อถ  นํ  
+<span class="LineNumber"> 010 </span>มหาราช  เอกสฺส  สหายกสฺส  รโหคโต  หุตฺวา  อกฺขาสิ ฯ  ตํปิ
+<span class="LineNumber"> 011 </span>มยา  สุตํ  นาหํ  เทวสฺส  ปจฺจตฺถิโก  เสนโกเยว  ปจฺจตฺถิโก 
+<span class="LineNumber"> 012 </span>ยทิ เต ปจฺจตฺถิเกน  กมฺมํ อตฺถิ เสนกํ คณฺหาเปหีติ ฯ  
+<span class="LineNumber"> 013 </span>	ราชา  เสนกํ  โอโลเกตฺวา  สจฺจํ  เสนกาติ  ปุจฺฉิตฺวา 
+<span class="LineNumber"> 014 </span>สจฺจํ  เทวาติ  วุตฺเต  ตสฺส  พนฺธนาคารํ  (๑) อาณาเปสิ ฯ  ปณฺฑิโตปิ  
+<span class="LineNumber"> 015 </span>ปุกฺกุสสฺส  รหสฺสํ กเถนฺโต อิมํ คาถมาห  
+<span class="LineNumber"> 016 </span>			ปุกฺกุสปุริสสฺส เต ชนินฺท  
+<span class="LineNumber"> 017 </span>			อุปฺปนฺโน โรโค อราชปฺปตฺโต (๒) 
+<span class="LineNumber"> 018 </span>			ภาตุว (๓) รโหคโต อสํสิ  
+<span class="LineNumber"> 019 </span>			คุยฺหํ ปาตุกตํ สุตํ มเมตนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. พนฺธนาคารปฺปเวสนํ ฯ  ยุ. พนฺธนาคารํ ปเวสนํ ฯ  
+<span class="LineNumber"> 021 </span># ๒. ม. ยุ. อราชยุตฺโต ฯ  ๓. ม. ยุ. ภาตุจฺจ ฯ

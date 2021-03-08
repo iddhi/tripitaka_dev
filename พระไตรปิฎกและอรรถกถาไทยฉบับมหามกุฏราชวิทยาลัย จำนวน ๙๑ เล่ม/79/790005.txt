@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>ปรมัตถทีปนี</H2> 
+<span class="LineNumber"> 002 </span>                         <H2>อรรถกถาปัญจปกรณ์</H2> 
+<span class="LineNumber"> 003 </span>                       <H2>อรรถกถาธาตุกถาปกรณ์</H2>
+<span class="LineNumber"> 004 </span>                                       <H1>อารัมภกถา</H1>
+<span class="LineNumber"> 005 </span>                <B>พระมหาวีรเจ้า  ผู้ทรงชนะมาร   ครั้นทรงแสดง
+<span class="LineNumber"> 006 </span>         วิภังคปกรณ์  ด้วยวิภังค์ ๑๘  วิภังค์จบลงแล้ว   เมื่อจะ
+<span class="LineNumber"> 007 </span>         ทรงประกาศความต่างกันแห่งธาตุ  จึงได้ตรัสธาตุกถา-
+<span class="LineNumber"> 008 </span>         ปกรณ์      ไว้ในลำดับแห่งวิภังคปกรณ์นั้นนั่นแหละ
+<span class="LineNumber"> 009 </span>         ข้าพเจ้า (พระพุทธโฆษาจารย์) จักแสดงเนื้อความแห่ง
+<span class="LineNumber"> 010 </span>         ธาตุกถาปกรณ์นั้น  ขอสาธุชนทั้งหลาย  จงมีจิตตั้งมั่น
+<span class="LineNumber"> 011 </span>         สดับพระธรรมเทอญ.</B>

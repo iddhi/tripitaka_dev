@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                         	 <H2>ปัจจนียานุโลมนัย</H2>  
+<span class="LineNumber"> 002 </span>		[๔๒๖]  <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย มี ๔ วาระ... ฯลฯ
+<span class="LineNumber"> 003 </span>แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+
+<span class="LineNumber"> 004 </span>				  <H1>นเหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 005 </span>				     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>			 	  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๔๒๗]  ๑.  นเหตุธรรมที่เป็นอัชฌัตตธรรม  อาศัยนเหตุธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นอัชฌัตตธรรม เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>                        ๒.  นเหตุธรรมที่เป็นพหิทธาธรรม  อาศัยนเหตุธรรม
+<span class="LineNumber"> 010 </span>ที่เป็นพหิทธาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 011 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>		[๔๒๘]  ในเหตุปัจจัย  มี  ๒ วาระ   ในอารัมมณปัจจัย   มี  ๒ วาระ
+<span class="LineNumber"> 013 </span>ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 014 </span>                       	      <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 015 </span>		[๔๒๙]  ในนเหตุปัจจัย  มี ๒ วาระ    ในนอธิปติปัจจัย  มี ๒ วาระ
+<span class="LineNumber"> 016 </span>ฯลฯ  ในนวิปปยุตตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 017 </span>            สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.

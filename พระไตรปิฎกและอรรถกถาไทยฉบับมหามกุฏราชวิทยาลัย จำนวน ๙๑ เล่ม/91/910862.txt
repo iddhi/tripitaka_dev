@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๙๔๕]  ในเหตุปัจจัย มี ๕ วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                <H2>โนอาสวบท</H2>
+<span class="LineNumber"> 004 </span>           [๙๔๖] ๑.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่อาสวธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 005 </span>นเหตุธรรม  อาศัยธรรมที่ไม่ใช่อาสวธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                         <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 008 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๙๔๗]  ในเหตุปัจจัย มี ๕ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>               <I>เหตุทุกอาสวทุกนเหตุทุกโนอาสวทุกะ  จบ</I>	
+
+<span class="LineNumber"> 011 </span>                     <H1>เหตุทุกสาสวทุกนเหตุทุกนสาสวทุกะ</H1>
+<span class="LineNumber"> 012 </span>                     <H2>(๑. เหตุทุกะ  ๑๔. สาสวทุกะ)</H2>
+<span class="LineNumber"> 013 </span>                                       <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 014 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>                                           <H2>สาสวบท</H2>
+<span class="LineNumber"> 017 </span>           [๙๔๓] ๑.  <B>ธรรมที่ไม่ใช่สาสวธรรม  ที่ไม่ใช่นเหตุธรรม
+<span class="LineNumber"> 018 </span>อาศัยสาสวธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 019 </span>                                                  <B>ฯลฯ</B>

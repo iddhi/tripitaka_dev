@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                              <H3>สูตรที่  ๕</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๓๖]  ๙๐.  ดูก่อนภิกษุทั้งหลาย   ธรรม  ๒  อย่างนี้   ๒ อย่าง 
+<span class="LineNumber"> 003 </span>เป็นไฉน  คือ ภวทิฏฐิ  ๑   วิภวทิฏฐิ  ๑   ดูก่อนภิกษุทั้งหลาย    ธรรม ๒
+<span class="LineNumber"> 004 </span>อย่างนี้แล.
+<span class="LineNumber"> 005 </span>                                            จบสูตรที่  ๕
+
+<span class="LineNumber"> 006 </span>                               <H3>สูตรที่  ๖</H3>
+
+<span class="LineNumber"> 007 </span>         [๓๓๗]   ๙๑.  ดูก่อนภิกษุทั้งหลาย    ธรรม ๒ อย่างนี้   ๒ อย่าง
+<span class="LineNumber"> 008 </span>เป็นไฉน   คือ   ความไม่ละอาย  ๑  ความไม่เกรงกลัว  ๑  ดูก่อนภิกษุทั้ง
+<span class="LineNumber"> 009 </span>หลาย   ธรรม  ๒  อย่างนี้แล.
+<span class="LineNumber"> 010 </span>                                              จบสูตรที่  ๖
+
+<span class="LineNumber"> 011 </span>                                <H3>สูตรที่ ๗</H3>
+
+<span class="LineNumber"> 012 </span>         [๓๓๘]   ๙๒.  ดูก่อนภิกษุทั้งหลาย    ธรรม ๒ อย่างนี้  ๒ อย่าง
+<span class="LineNumber"> 013 </span>เป็นไฉน คือ หิริ  ๑ โอตตัปปะ  ๑   ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่างนี้แล.
+<span class="LineNumber"> 014 </span>                                               จบสูตรที่  ๗
+
+<span class="LineNumber"> 015 </span>                                 <H3>สูตรที่ ๘</H3>
+
+<span class="LineNumber"> 016 </span>         [๓๓๙]  ๙๓.  ดูก่อนภิกษุทั้งหลาย   ธรรม ๒ อย่างนี้   ๒  อย่าง
+<span class="LineNumber"> 017 </span>เป็นไฉน    คือ   ความเป็นคนว่ายาก  ๑  ความเป็นผู้มีมิตรชั่ว  ๑   ดูก่อน
+<span class="LineNumber"> 018 </span>ภิกษุทั้งหลาย   ธรรม  ๒  อย่างนี้แล.
+<span class="LineNumber"> 019 </span>                                                 จบสูตรที่  ๘

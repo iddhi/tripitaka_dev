@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>๘.  สังขตทุกะ</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>อนุโลมนัย</H1> 
+<span class="LineNumber"> 004 </span>                                      <H1>๑.  เหตุปัจจัย</H1> 
+<span class="LineNumber"> 005 </span>           [๑๘๔] ๑.  <B>สังขตธรรม   อาศัยสังขตธรรม   เกิดขึ้น   เพราะ  
+<span class="LineNumber"> 006 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป อาศัยขันธ์ ๑ ที่เป็นสังขตธรรม  ฯลฯ
+<span class="LineNumber"> 008 </span>           ในปฏิสนธิขณะ ฯลฯ  หทยวัตถุ   อาศัยขันธ์ทั้งหลาย,   ขันธ์ทั้งหลาย
+<span class="LineNumber"> 009 </span>อาศัยหทยวัตถุ.
+<span class="LineNumber"> 010 </span>           มหาภูตรูป ๓ อาศัยมหาภูตรูป ๑ ฯลฯ  จิตตสมุฏฐานรูป   กฏัตตารูป
+<span class="LineNumber"> 011 </span>ที่เป็นอุปาทารูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 012 </span>           ทุกะนี้   พึงกระทำเหมือนสัปปัจจยทุกะ  ไม่มีแตกต่างกัน.
+<span class="LineNumber"> 013 </span>                                         <I>สังขตทุกะ  จบ</I> 

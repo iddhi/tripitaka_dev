@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>ปัจจยวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>           [๖๑๗]  ๑.  <B>นีวรณสัมปยุตตธรรม  อาศัยนีวรณสัปปยุตตธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ   ขันธ์ ๓ และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑ ที่เป็นนีวรณวิปป-
+<span class="LineNumber"> 007 </span>ยุตตธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 008 </span>           ในปฏิสนธิขณะ ฯลฯ  มหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 009 </span>           ขันธ์ทั้งหลายที่เป็นนีวรณวิปปยุตตธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 010 </span>                       ๓.  <B>นีวรณสัมปยุตตธรรม อาศัยนีวรณวิปปยุตตธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  ขันธ์ทั้งหลายที่เป็นนีวรณสัมปปยุตตธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 013 </span>                       ๔.  <B>นีวรณสัมปยุตตธรรม   และนีวรณวิปปยุตตธรรม
+<span class="LineNumber"> 014 </span>อาศัยนีวรณวิปปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>     
+<span class="LineNumber"> 015 </span>           คือ  ขันธ์ทั้งหลายที่เป็นนีวรณสัมปยุตธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 016 </span>           จิตตสมุฏฐานรูป  อาศัยมหาภูตรูปทั้งหลาย.

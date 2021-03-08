@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>ปัญจวรรค</H1>   
+<span class="LineNumber"> 002 </span>                                      <H1>กรรมวรรค  ที่  ๑</H1> 
+<span class="LineNumber"> 003 </span>                                             <H1>กรรม  ๔</H1> 
+<span class="LineNumber"> 004 </span>           [๑,๓๔๐]    กรรม   ๔  อย่าง   คือ   อปโลกนกรรม ๑  ญัตติกรรม ๑
+<span class="LineNumber"> 005 </span>ญัตติทุติยกรรม ๑  ญัตติจตุตถกรรม  ๑
+<span class="LineNumber"> 006 </span>           ถามว่า   กรรม  ๔  อย่างนี้    ย่อมวิบัติโดยอาการเท่าไร
+<span class="LineNumber"> 007 </span>           ตอบว่า  กรรม  ๔  อย่างนี้    ย่อมวิบัติโดยอาการ ๕ คือ    โดยวัตถุ ๑
+<span class="LineNumber"> 008 </span>โดยญัตติ  ๑  โดยอนุสาวนา  ๑  โดยสีมา ๑  โดยบริษัท ๑.
+
+<span class="LineNumber"> 009 </span>                                             <H1>วัตถุวิบัติ</H1>
+<span class="LineNumber"> 010 </span>           [๑,๓๔๑]  ถามว่า  กรรมย่อมวิบัติโดยวัตถุ  อย่างไร
+<span class="LineNumber"> 011 </span>           ตอบว่า  กรรมย่อมวิบัติโดยวัตถุอย่างนี้คือ  กรรมที่ควรทำพร้อมหน้า
+<span class="LineNumber"> 012 </span>แต่สงฆ์ทำลับหลัง  ชื่อว่ากรรมไม่เป็นธรรม  วิบัติโดยวัตถุ
+<span class="LineNumber"> 013 </span>           กรรมที่ควรสอบถามก่อนทำ  แต่สงฆ์ไม่สอบถามก่อนทำ ชื่อว่ากรรม
+<span class="LineNumber"> 014 </span>ไม่เป็นธรรม  วิบัติโดยวัตถุ
+<span class="LineNumber"> 015 </span>           กรรมที่ควรทำตามปฏิญญา    แต่สงฆ์ไม่ทำตามปฏิญญา   ชื่อว่ากรรม
+<span class="LineNumber"> 016 </span>ไม่เป็นธรรม  วิบัติโดยวัตถุ                                   
+<span class="LineNumber"> 017 </span>           สงฆ์ให้อมูฬหวินัย  แก่ภิกษุผู้ควรสติวินัย    ชื่อว่ากรรมไม่เป็นธรรม
+<span class="LineNumber"> 018 </span>วิบัติโดยวัตถุ

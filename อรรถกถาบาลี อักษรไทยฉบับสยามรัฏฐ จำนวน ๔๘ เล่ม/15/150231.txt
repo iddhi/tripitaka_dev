@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๕   หน้า  ๒๓๑
+
+<span class="LineNumber"> 002 </span>			อานิสํสวคฺควณฺณนา   
+<span class="LineNumber"> 003 </span>	ทสมสฺส  ป€เม  อริยายตเนติ  มชฺฌิมเทเส ฯ  อินฺทฺริยานนฺติ  
+<span class="LineNumber"> 004 </span>มนจฺฉฏฺ€านํ ฯ  
+<span class="LineNumber"> 005 </span>				ปฐมํฯ
+<span class="LineNumber"> 006 </span>	ทุติเย  สทฺธมฺมนิยโตติ  สาสนสทฺธมฺเม  นิยโต ฯ  
+<span class="LineNumber"> 007 </span>อสาธารเณนาติ  ปุถุชฺชเนหิ อสาธารเณน ฯ    
+<span class="LineNumber"> 008 </span>				ทุติยํ ฯ
+<span class="LineNumber"> 009 </span>	สตฺตเม  อโนธึ  กริตฺวาติ  เอตฺตกาว  จ(๑) สงฺขารา
+<span class="LineNumber"> 010 </span>อนิจฺจา  น  อิโต  ปเรติ  เอวํ สีมํ มริยาทํ อกตฺวา ฯ 
+<span class="LineNumber"> 011 </span>อนวฏฺ€ิตโตติ อวฏฺ€ิตโต €านรหิตา (๒) ภิชฺชมานาว  หุตฺวา
+<span class="LineNumber"> 012 </span>สณฺ€หิสฺสนฺตีติ  (๓)  อตฺโถ ฯ  สพฺพโลเกติ  สกเล  เตธาตุเก ฯ 
+<span class="LineNumber"> 013 </span>สามฺเนาติ สมณภาเวน อริยมคฺเคนาติ อตฺโถ ฯ   
+<span class="LineNumber"> 014 </span>				สตฺตมํ  ฯ
+<span class="LineNumber"> 015 </span>	อฏฺ€เม  เมตฺตาวตายาติ  เมตฺตายุตฺตาย  ปาริจริยาย ฯ 
+<span class="LineNumber"> 016 </span>สตฺต หิ เสขา  ตถาคตํ เมตฺตาวตาย ปริจรนฺติ ขีณาสโวปิ  
+<span class="LineNumber"> 017 </span>ปริจิณฺณสตฺถุโก ฯ  
+<span class="LineNumber"> 018 </span>				อฏฺฐมํ ฯ
+<span class="LineNumber"> 019 </span>#๑. ม. เอตฺตกา ว ฯ  ๒. สี. อนวฏฺฐิตโตติ ฐานรหิตา ฯ 
+<span class="LineNumber"> 020 </span>#๓. ม. อนวตฺถิตาติ อวตฺถิตาย รหิตา ฯ  ๓. ม. อุปฏฺฐหิสฺสนฺตีติ ฯ

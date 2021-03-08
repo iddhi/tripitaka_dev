@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  32
+
+<span class="LineNumber"> 002 </span>ปฏิกฺกนฺตกาเล  สยนา  วุฏฺ€าย  ปารมิโย  วิจินิสฺสามีติ 
+<span class="LineNumber"> 003 </span>ปุปฺผราสิมตฺถเก  ปลฺลงฺกํ  อาภุชิตฺวา  นิสีทิ ฯ  เอวํ  นิสินฺเน 
+<span class="LineNumber"> 004 </span>โพธิสตฺเต  สกล  ทสสหสฺสจกฺกวาฬเทวตา  สนฺนิปติตฺวา  สาธุการํ  
+<span class="LineNumber"> 005 </span>ทตฺวา  อยฺย  สุเมธตาปส  โปราณกโพธิสตฺตานํ  ปลฺลงฺกํ  
+<span class="LineNumber"> 006 </span>อาภุชิตฺวา  ปารมิโย  วิจินิสฺสามาติ  นิสินฺนกาเล  ยานิ
+<span class="LineNumber"> 007 </span>ปุพฺพนิมิตฺตานิ  นาม  ปฺายนฺติ  ตานิ  สพฺพานิปิ  อชฺช  
+<span class="LineNumber"> 008 </span>ปาตุภูตานิ  นิสฺสํสเยน  ตฺวํ  พุทฺโธ  ภวิสฺสสิ  มยเมตํ  ชานาม  
+<span class="LineNumber"> 009 </span>ยสฺเสตานิ  นิมิตฺตานิ  ปฺายนฺติ  เอกนฺเตน  โส  พุทฺโธ 
+<span class="LineNumber"> 010 </span>โหติ ตฺวํ อตฺตโน วีริยํ ทฬฺหํ กตฺวา ปคฺคณฺหาติ  โพธิสตฺตํ
+<span class="LineNumber"> 011 </span>นานปฺปการาหิ ถุตีหิ อภิตฺถุนึสุ(๑) ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 012 </span>	อิทํ สุตฺวาน วจนํ		อสมสฺส มเหสิโน  
+<span class="LineNumber"> 013 </span>	อาโมทิตา นรมรู		พุทฺธพีชงฺกุโร(๒) อยํ ฯ 
+<span class="LineNumber"> 014 </span>	อุกฺกุฏฺ€ิสทฺทา วตฺตนฺติ	อปฺโผเฏนฺติ(๓) หสนฺติ จ 
+<span class="LineNumber"> 015 </span>	กตฺชลี นมสฺสนฺติ		ทสสหสฺสี สเทวกา ฯ  
+<span class="LineNumber"> 016 </span>	ยทิมสฺส โลกนาถสฺส	วิรชฺฌิสฺสาม สาสนํ  
+<span class="LineNumber"> 017 </span>	อนาคตมฺหิ อทฺธาเน	เหสฺสาม สมฺมุขา อิมํ ฯ  
+<span class="LineNumber"> 018 </span>	ยถา มนุสฺสา นทึ ตรนฺตา	ปฏิติตฺถํ วิรชฺฌิย  
+<span class="LineNumber"> 019 </span>	เหฏฺ€าติตฺถํ คเหตฺวาน	อุตฺตรนฺติ มหานทึ  
+<span class="LineNumber"> 020 </span>	เอวเมว มยํ สพฺเพ		ยทิ มุฺจามิมํ ชินํ  
+<span class="LineNumber"> 021 </span>	อนาคตมฺหิ อทฺธาเน	เหสฺสาม สมฺมุขา อิมํ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. อภิตฺถุนึสุ ฯ ๒. ม. พุทฺธพีชํ กิร ฯ 
+<span class="LineNumber"> 023 </span># ๓. สี. ยุ. อปฺโผเ€นฺติ ฯ  ม. อปฺโผเฏนฺติ ฯ 

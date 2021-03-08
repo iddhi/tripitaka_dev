@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <H2>สารัตถปกาสินี  อรรถกถาสังยุตตนิกาย</H2>
+<span class="LineNumber"> 002 </span>                <H2>อรรถกถาสังยุตตนิกายสวรรค</H2> 
+
+<span class="LineNumber"> 003 </span>                                   <H1>อารัมภกถา</H1>
+
+<span class="LineNumber"> 004 </span>                        <B>ข้าพเจ้าพระพุทธโฆษาจารย์  ขอ
+<span class="LineNumber"> 005 </span>         น้อมนมัสการด้วยเศียรเกล้า     ซึ่งพระ-
+<span class="LineNumber"> 006 </span>         สุคตเจ้าผู้หลุดพ้นแล้วจากคติ  ผู้มีพระทัย
+<span class="LineNumber"> 007 </span>         เยือกเย็นสนิทด้วยพระมหากรุณาธิคุณ   ผู้
+<span class="LineNumber"> 008 </span>         มีความมืดคือโมหะอันแสงสว่างแห่งปัญญา
+<span class="LineNumber"> 009 </span>         ขจัดแล้ว     ผู้เป็นครูของชาวโลกทั้งหลาย
+<span class="LineNumber"> 010 </span>         พร้อมทั้งมนุษย์และเทวดา.
+<span class="LineNumber"> 011 </span>                        พระพุทธเจ้าทรงทำให้แจ้งพระ-
+<span class="LineNumber"> 012 </span>         สัพพัญญุตญาณ  ทรงเข้าถึงพระธรรมใด
+<span class="LineNumber"> 013 </span>         อันมีมลทินไปปราศแล้ว      ข้าพเจ้าขอ
+<span class="LineNumber"> 014 </span>         น้อมนมัสการพระธรรมอันเยี่ยมนั้นด้วย
+<span class="LineNumber"> 015 </span>         เศียรเกล้า.
+<span class="LineNumber"> 016 </span>                        ข้าพเจ้าขอน้อมนมัสการด้วยเศียร-
+<span class="LineNumber"> 017 </span>         เกล้า   ซึ่งพระอริยสงฆ์เจ้าอยู่เป็นหมู่แห่ง
+<span class="LineNumber"> 018 </span>         พระอริยบุคคลแม้ทั้งแปดพวก  ผู้เป็นบุตร
+<span class="LineNumber"> 019 </span>         อันเกิดแต่พระอุระของพระสุคตเจ้า  ผู้ย่ำยี 
+<span class="LineNumber"> 020 </span>         เสียได้ซึ่งมารและเสนามาร.</B>

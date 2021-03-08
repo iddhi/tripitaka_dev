@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>            ด้วยสามารถแห่งความระงับกายสังขารหายใจออก
+<span class="LineNumber"> 002 </span>            ด้วยสามารถแห่งความรู้แจ้งปีติหายใจเข้า
+<span class="LineNumber"> 003 </span>            ด้วยสามารถแห่งความรู้แจ้งปีติหายใจออก
+<span class="LineNumber"> 004 </span>            ด้วยสามารถแห่งความรู้แจ้งสุขหายใจเข้า
+<span class="LineNumber"> 005 </span>            ด้วยสามารถแห่งความรู้แจ้งสุขหายใจออก  
+<span class="LineNumber"> 006 </span>            ด้วยสามารถแห่งความรู้แจ้งจิตตสังขารหายใจเข้า
+<span class="LineNumber"> 007 </span>            ด้วยสามารถแห่งความรู้แจ้งจิตตสังขารหายใจออก  
+<span class="LineNumber"> 008 </span>            ด้วยสามารถแห่งความระงับจิตสังขารหายใจเข้า
+
+<span class="LineNumber"> 009 </span>            ด้วยสามารถแห่งความระงับจิตตสังขารหายใจออก
+<span class="LineNumber"> 010 </span>            ด้วยสามารถแห่งความรู้แจ้งจิตหายใจเข้า
+<span class="LineNumber"> 011 </span>            ด้วยสามารถแห่งความรู้แจ้งจิตหายใจออก
+<span class="LineNumber"> 012 </span>            ด้วยสามารถแห่งความทำจิตให้บันเทิงหายใจเข้า
+<span class="LineNumber"> 013 </span>            ด้วยสามารถแห่งความทำจิตให้บันเทิงหายใจออก
+
+<span class="LineNumber"> 014 </span>            ด้วยสามารถแห่งความตั้งจิตไว้หายใจเข้า
+<span class="LineNumber"> 015 </span>            ด้วยสามารถแห่งความตั้งจิตไว้หายใจออก
+<span class="LineNumber"> 016 </span>            ด้วยสามารถแห่งความเปลื้องจิตหายใจเข้า
+<span class="LineNumber"> 017 </span>            ด้วยสามารถแห่งความเปลื้องจิตหายใจออก
+<span class="LineNumber"> 018 </span>            ด้วยสามารถแห่งการพิจารณาเห็นความไม่เที่ยงหายใจเข้า
+<span class="LineNumber"> 019 </span>            ด้วยสามารถแห่งการพิจารณาเห็นความไม่เที่ยงหายใจออก

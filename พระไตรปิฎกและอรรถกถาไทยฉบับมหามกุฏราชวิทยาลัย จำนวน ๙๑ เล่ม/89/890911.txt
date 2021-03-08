@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>๑๑.  ปัจฉาชาตปัจจัย   ๑๒.  อาเสวนปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของปัจฉาชาตปัจจัย</B>   มี ๒ วาระ.
+<span class="LineNumber"> 003 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของอาเสวนปัจจัย</B>   มี ๓ วาระ.
+
+<span class="LineNumber"> 004 </span>                                        <H2>๑๓.  กัมมปัจจัย</H2>
+<span class="LineNumber"> 005 </span>         [๘๐๓] ๑.  <B>อรูปาวจรธรรม       เป็นปัจจัยแก่อรูปาวจรธรรม
+<span class="LineNumber"> 006 </span>ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 007 </span>         มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>นานาขณิกะ</B> ฯลฯ
+<span class="LineNumber"> 008 </span>                    ๒.  <B>อรูปาวจรธรรม  เป็นปัจจัยแก่ธรรมที่ไม่ใช่อรูปา-
+<span class="LineNumber"> 009 </span>วจรธรรม  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ    เจตนาที่เป็นอรูปาวจรธรรม     เป็นปัจจัยแก่จิตตสมุฏฐานรูป
+<span class="LineNumber"> 011 </span>ทั้งหลาย.
+<span class="LineNumber"> 012 </span>         พึงกระทำมูล  (วาระที่ ๓)
+<span class="LineNumber"> 013 </span>         เจตนาที่เป็นอรูปาวจรธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์    และจิตต- 
+<span class="LineNumber"> 014 </span>สมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 015 </span>                    ๔.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่อรูปาวจรธรรม  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 017 </span>         มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>นานาขณิกะ</B>
+<span class="LineNumber"> 018 </span>         ที่เป็น   <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 019 </span>         เจตนาที่ไม่ใช่อรูปาวจรธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์   และจิตต-
+<span class="LineNumber"> 020 </span>สมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย.
+
+<span class="LineNumber"> 021 </span>                                                    ฯลฯ

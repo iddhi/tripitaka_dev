@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>	            <H1>๖. เนสัชชิกสูตร</H1>  
+<span class="LineNumber"> 002 </span>          [๑๘๖]  ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ถือการนั่งเป็นวัตร  ๕  จำพวกนี้ ฯลฯ
+<span class="LineNumber"> 003 </span>	                     <I>จบเนสัชชิกสูตรที่  ๖</I>
+<span class="LineNumber"> 004 </span>	        <H1>๗. ยถาสันถติกสูตร</H1>
+<span class="LineNumber"> 005 </span>          [๑๘๗]  ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ถืออยู่ในเสนาสนะตามที่ท่านจัด
+<span class="LineNumber"> 006 </span>ให้อย่างไรเป็นวัตร  ๕  จำพวกนี้ ฯลฯ
+<span class="LineNumber"> 007 </span>	                 <I>จบยถาสันถติกสูตรที่  ๗</I>
+<span class="LineNumber"> 008 </span>	          <H1>๘. เอกาสนิกสูตร</H1>
+<span class="LineNumber"> 009 </span>          [๑๘๘]  ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ถือการนั่งฉัน  ณ  อาสนะเดียว
+<span class="LineNumber"> 010 </span>เป็นวัตร  ๕  จำพวกนี้ ฯลฯ
+<span class="LineNumber"> 011 </span>	   <H1>๙. ขลุปัจฉาภัตติกสูตร</H1>
+<span class="LineNumber"> 012 </span>          [๑๘๙]   ดูก่อนภิกษุทั้งหลาย   ภิกษุผู้ถือห้ามภัตอันนำมาถวาย   เมื่อ
+<span class="LineNumber"> 013 </span>ภายหลังเป็นวัตร  ๕  จำพวกนี้  ฯลฯ
+<span class="LineNumber"> 014 </span>	               <I>จบขลุปัจฉาภัตติกสูตรที่  ๙</I>

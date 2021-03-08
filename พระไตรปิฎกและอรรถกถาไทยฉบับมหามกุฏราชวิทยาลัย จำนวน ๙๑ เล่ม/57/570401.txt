@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๔. กุมภีลชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                     <H2>คุณธรรมเครื่องให้เจริญ</H2>
+<span class="LineNumber"> 003 </span>       <B>[๒๙๗]  ผู้ใดมีคุณธรรม  อันเป็นเครื่องให้เจริญ
+<span class="LineNumber"> 004 </span>         อย่างยิ่ง  ๔  ประการนี้  คือ   สัจจะ  ๑    ธรรม  ๑
+<span class="LineNumber"> 005 </span>         ธิติ  ๑  จาคะ  ๑   ผู้นั้นย่อมล่วงพ้นศัตรูได้.
+<span class="LineNumber"> 006 </span>       [๒๙๘]  ส่วนผู้ใด    ไม่มีคุณธรรมอันเป็นเครื่อง
+<span class="LineNumber"> 007 </span>         ให้เจริญอย่างยิ่ง   ๔   ประการนี้   คือ    สัจจะ  ๑
+<span class="LineNumber"> 008 </span>         ธรรม   ๑   ธิติ  ๑  จาคะ  ๑  ผู้นั้นย่อมล่วงพ้นศัตรู 
+<span class="LineNumber"> 009 </span>         ไม่ได้.</B>
+<span class="LineNumber"> 010 </span>                            <I>จบ กุมภีลชาดกที่  ๔</I>
+
+<span class="LineNumber"> 011 </span>                    <H1>อรรถกถากุมภีลชาดกที่  ๔</H1>
+
+<span class="LineNumber"> 012 </span>         พระศาสดาเมื่อประทับอยู่   ณ  พระเวฬุวันมหาวิหาร  ทรง
+<span class="LineNumber"> 013 </span>ปรารภพระเทวทัต      ตรัสพระธรรมเทศนานี้     มีคำเริ่มต้นว่า
+<span class="LineNumber"> 014 </span><B>ยสฺเสเต   จตุ   โร    ธมฺมา</B>   ดังนี้.
+<span class="LineNumber"> 015 </span>         พระโพธิสัตว์ได้กล่าวคาถาเหล่านี้ว่า :-
+<span class="LineNumber"> 016 </span>                        <B>ผู้ใดมีคุณธรรมอันเป็นเครื่องให้ความ
+<span class="LineNumber"> 017 </span>           เจริญอย่างยิ่ง ๔ ประการนี้ คือ  สัจจะ ๑  ธรรม ๑
+<span class="LineNumber"> 018 </span>         ธิติ ๑  จาคะ ๑  ผู้นั้นย่อมล่วงพ้นศัตรูได้.</B>

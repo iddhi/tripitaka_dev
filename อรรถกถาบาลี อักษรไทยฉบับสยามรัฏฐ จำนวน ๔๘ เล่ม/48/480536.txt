@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 48    หน้า 536
+
+
+<span class="LineNumber"> 002 </span>		มหาปฏฺ€านปฺปกรณวณฺณนา
+
+<span class="LineNumber"> 003 </span>		เทวาติเทโว เทวานํ	เทวทานวปูชิโต 
+<span class="LineNumber"> 004 </span>		เทสยิตฺวา ปกรณํ	ยมกํ สุทฺธสํยโม ฯ 
+<span class="LineNumber"> 005 </span>		อตฺถโต ธมฺมโต เจว	คมฺภีรสฺสาถ ตสฺส ยํ 
+<span class="LineNumber"> 006 </span>		อนนฺตรํ มหาวีโร	สตฺตมํ อิสิสตฺตโม ฯ 
+<span class="LineNumber"> 007 </span>		ปฏฺ€านํ นาม นาเมน	นามรูปนิโรธโน 
+<span class="LineNumber"> 008 </span>		เทเสสิ อติคมฺภีรํ (๑)	นยมณฺฑิตเทสนํ ฯ 
+<span class="LineNumber"> 009 </span>		อิทานิ ตสฺส สมฺปตฺโต	ยสฺมา สํวณฺณนากฺกโม 
+<span class="LineNumber"> 010 </span>		ตสฺมา ตํ วณฺณยิสฺสามิ	ตํ สุณาถ สมาหิตาติ ฯ 
+<span class="LineNumber"> 011 </span>			อุทฺเทสวารวณฺณนา(๒) 
+<span class="LineNumber"> 012 </span>	สมฺมาสมฺพุทฺเธน  หิ  อนุโลมปฏฺ€าเน  พาวีสติ  ติเก
+<span class="LineNumber"> 013 </span>นิสฺสาย  ติกปฏฺ€านํ นาม  นิทฺทิฏฺ€ํ  สตทุเก  (๓)  นิสฺสาย
+<span class="LineNumber"> 014 </span>ทุกปฏฺ€านํ  นาม  นิทฺทิฏฺ€ํ ฯ  ตโต  ปรํ พาวีสติ  ติเก  คเหตฺวา
+<span class="LineNumber"> 015 </span>ทุกสเต  ปกฺขิปิตฺวา  ทุกติกปฏฺ€านํ  นาม  ทสฺสิตํ  ตโต
+<span class="LineNumber"> 016 </span>ปรํ  ทุกสตํ  คเหตฺวา  พาวีสติยา  ติเกสุ ปกฺขิปิตฺวา ติกทฺทุก-
+<span class="LineNumber"> 017 </span>ปฏฺ€านํ นาม ทสฺสิตํ ติเก  ปน  ติเกสุเยว  ปกฺขิปิตฺวา 
+<span class="LineNumber"> 018 </span># ๑. ม. อติคมฺภีร - ฯ ๒. ม. ปจฺจยุทฺเทสวณฺณนา ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. สตํ ทุเก ฯ

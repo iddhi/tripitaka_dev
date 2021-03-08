@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  172
+
+<span class="LineNumber"> 002 </span>	ตสฺมา หิ ปณฺฑิโต โปโส	สมฺปสฺสํ อตฺถมตฺตโน  
+<span class="LineNumber"> 003 </span>	วิหาเร การเย รมฺเม		วาสเยตฺถ พหุสฺสุเต  
+<span class="LineNumber"> 004 </span>	เตสํ อนฺนฺจ ปานฺจ	วตฺถเสนาสนานิ จ  
+<span class="LineNumber"> 005 </span>	ทเทยฺย อุชุภูเตสุ		วิปฺปสนฺเนน เจตสา ฯ  
+<span class="LineNumber"> 006 </span>	เต ตสฺส ธมฺมํ เทเสนฺติ	สพฺพทุกฺขาปนูทนํ  
+<span class="LineNumber"> 007 </span>	ยํ โส ธมฺมมิธฺาย	ปรินิพฺพาติ อนาสโวติ(๑)  
+<span class="LineNumber"> 008 </span>วิหารานิสํสํ  กเถสิ ฯ  อนาถปิณฺฑิโก  ทุติยทิวสโต  ปฏฺ€าย 
+<span class="LineNumber"> 009 </span>วิหารมหํ  อารภิ ฯ  วิสาขาย  ปาสาทมโห จตูหิ มาเสหิ 
+<span class="LineNumber"> 010 </span>นิฏฺ€ิโต ฯ อนาถปิณฺฑิกสฺส  ปน  วิหารมโห  นวหิ  มาเสหิ 
+<span class="LineNumber"> 011 </span>นิฏฺ€าสิ ฯ อฏฺ€ารเสว โกฏิโย อคมํสุ(๒) ฯ  อิติ เอกสฺมึเยว วิหาเร 
+<span class="LineNumber"> 012 </span>จตุปฺปณฺณาสโกฏิสงฺขฺยํ ธนํ ปริจฺจชิ ฯ  
+<span class="LineNumber"> 013 </span>	อตีเต  ปน  วิปสฺสิสฺส  ภควโต  กาเล  ปุนพฺพสุมิตฺโต
+<span class="LineNumber"> 014 </span>นาม  เสฏฺ€ี  สุวณฺณิฏฺ€กาสนฺถาเรน  กิณิตฺวา  ตสฺมึเยว  €าเน 
+<span class="LineNumber"> 015 </span>โยชนปฺปมาณํ  สงฺฆารามํ  กาเรสิ ฯ  สิขิสฺส  ภควโต  กาเล 
+<span class="LineNumber"> 016 </span>สิริวฑฺโฒ  นาม  เสฏฺ€ี  สุวณฺณชาลสนฺถาเรน  กิณิตฺวา  ตสฺมึเยว
+<span class="LineNumber"> 017 </span>€าเน  ติคาวุตปฺปมาณํ  สงฺฆารามํ  กาเรสิ ฯ  เวสฺสภุสฺส  ภควโต
+<span class="LineNumber"> 018 </span>กาเล  โสตฺถิโย(๓)  นาม  เสฏฺ€ี  สุวณฺณหตฺถิปทสนฺถาเรน  กิณิตฺวา 
+<span class="LineNumber"> 019 </span>ตสฺมิฺเว  €าเน  อฑฺฒโยชนปฺปมาณํ  สงฺฆารามํ  กาเรสิ ฯ 
+<span class="LineNumber"> 020 </span># ๑. วิ. จุล. ๗/๒๐๓/๘๙ ฯ  ๒. ม. วิหารมเหปิ อฏฺ€ารเสว
+<span class="LineNumber"> 021 </span># โกฏิโย ปริจฺจาคํ อคมํสุ ฯ  ๓. ม. โสตฺถิโช ฯ 

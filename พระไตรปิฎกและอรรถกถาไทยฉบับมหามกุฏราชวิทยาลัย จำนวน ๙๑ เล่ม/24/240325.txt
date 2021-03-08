@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                         <h1>๓.  มาฆสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๒๔]. . .  อารามของท่านอนาถบิณฑิกเศรษฐี   กรุงสาวัตถีครั้งนั้น 
+<span class="LineNumber"> 003 </span>มาฆเทวบุตร  เมื่อสิ้นราตรีปฐมยามแล้ว  มีวรรณะอันงามยิ่งนัก   ทำพระวิหาร
+<span class="LineNumber"> 004 </span>เชตวันทั้งสิ้นให้สว่าง   เข้าไปเฝ้าพระผู้มีพระภาคเจ้าถวายบังคมแล้ว   ได้ยืนอยู่
+<span class="LineNumber"> 005 </span>ณ ที่ควรส่วนข้างหนึ่ง
+<span class="LineNumber"> 006 </span>         [๒๒๕]   มาฆเทวบุตรได้ทูลถามพระผู้มีพระภาคเจ้าด้วยคาถาว่า
+<span class="LineNumber"> 007 </span>                             <B>บุคคลฆ่าอะไร จึงจะอยู่เป็นสุข  ฆ่า
+<span class="LineNumber"> 008 </span>                   อะไร  จึงจะไม่เศร้าโศก   ข้าแต่พระโคดม
+<span class="LineNumber"> 009 </span>                   พระองค์ทรงชอบการฆ่าธรรมอะไร    ซึ่ง
+<span class="LineNumber"> 010 </span>                   เป็นธรรมอันเอก.</B>
+<span class="LineNumber"> 011 </span>         [๒๒๖]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 012 </span>                             <B>บุคคลฆ่าความโกรธแล้ว     ย่อมอยู่
+<span class="LineNumber"> 013 </span>                   เป็นสุข  ฆ่าความโกรธแล้ว  ย่อมไม่เศร้า
+<span class="LineNumber"> 014 </span>                   โศก  ดูก่อนท้าววัตรภู  พระอริยะทั้งหลาย
+<span class="LineNumber"> 015 </span>                   สรรเสริญการฆ่าความโกรธ  ซึ่งมีรากเป็น
+<span class="LineNumber"> 016 </span>                   พิษ  มียอดหวาน  ด้วยว่า  บุคคลฆ่าความ
+<span class="LineNumber"> 017 </span>                   โกรธนั้นได้แล้วย่อมไม่เศร้าโศก.</B>

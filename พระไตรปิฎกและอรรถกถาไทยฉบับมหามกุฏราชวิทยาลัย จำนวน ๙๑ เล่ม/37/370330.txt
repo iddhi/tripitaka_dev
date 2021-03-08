@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>ไว้ข้างหนึ่ง    คือ   เอากะด้งหรือผ้าที่อุ้มลม    คือเครื่องฝัดวีฝัดไป.
+<span class="LineNumber"> 002 </span>บทว่า   <B>ททฺทรํ</B>   ได้แก่    มีเสียงดัง.
+<span class="LineNumber"> 003 </span>         บทว่า  <B>สํวาสาย</B>  แปลว่า  เพราะอยู่ร่วมกัน.  บทว่า <B>วิชาเนถ</B>
+<span class="LineNumber"> 004 </span>พึงรู้ได้.   บทว่า  <B>สนฺตวาโจ</B>    แปลว่า   มีวาจาอ่อนหลาน.   บทว่า
+<span class="LineNumber"> 005 </span><B>ชนวติ</B> แปลว่า ในท่านกลางชน. บทว่า  <B>รโห กโรติ กฏณํ</B><SUP>๑</SUP>  ความว่า
+<span class="LineNumber"> 006 </span>บาปกรรมเรียกว่า  กัฏณะ  คือ   การทำ  (ชั่ว)  ได้แก่   เป็นผู้ปกปิด
+<span class="LineNumber"> 007 </span>การทำบาปกรรมนั้นในที่ลับ.   บทว่า  <B>สํสปฺปี  จ มุสาวาที</B>  ความว่า
+<span class="LineNumber"> 008 </span>เป็นผู้พูดมุสาเลอะเทอะ  อธิบายว่า  พูดเท็จเลอะเทอะ  คือกลับกลอก.
+<span class="LineNumber"> 009 </span>ในสูตรนี้    ตรัสเฉพาะวัฏฏะอย่างเดียว   ตรัสทั้งวัฏฏะและวิวัฏฏะ
+<span class="LineNumber"> 010 </span>ในคาถาทั้งหลายแล.
+<span class="LineNumber"> 011 </span>                          <I>จบ  อรรถกถากรัณฑวสูตรที่  ๑๐</I>
+
+<span class="LineNumber"> 012 </span>                      <H2>รวมพระสูตรที่มีในวรรคนี้   คือ</H2>
+<span class="LineNumber"> 013 </span>         ๑. เมตตสูตร ๒. ปัญญาสูตร  ๓. อัปปิยสูตรที่ ๑ ๔.อัปปิยสูตรที่ ๒
+<span class="LineNumber"> 014 </span>๕. โลกธรรมสูตร  ๖. โลกวิปัตติสูตร   ๗.  เทวทัตตสูตร   ๘. อตตรสูตร
+<span class="LineNumber"> 015 </span>๙.  นันทสูตร   ๑๐.  กรัณฑวสูตรและอรรถกถา 
+<span class="LineNumber"> 016 </span>	                              <I>จบ  เมตตาวรรคที่  ๑</I>
+<span class='footnote'>๑.  บาลีว่า  กรณํ</span>

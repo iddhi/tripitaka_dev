@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>โกลังโกลเอกพีชีกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๐๐]  ปรวาที   ไม่พึงกล่าวว่า   บุคคลผู้โกลังโกละเป็นผู้เที่ยงต่อ
+<span class="LineNumber"> 003 </span>ความเกิดอีก  ๒ - ๓ ครั้ง หรือ ?
+<span class="LineNumber"> 004 </span>สกวาที    ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ป. บุคคลนั้น   เป็นโกลังโกละ   มิใช่หรือ ?
+<span class="LineNumber"> 006 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 007 </span>                        ป. หากว่า   บุคคลนั้น   เป็นโกลังโกละ  ด้วยเหตุนั้นนะ
+<span class="LineNumber"> 008 </span>ท่านจึงต้องกล่าวว่า    บุคคลผู้โกลังโกละเป็นผู้เที่ยงต่อความเกิดอีก    ๒-๓
+<span class="LineNumber"> 009 </span>ครั้ง.
+<span class="LineNumber"> 010 </span>         [๑๕๐๑]   ป. ไม่พึงกล่าวว่า    บุคคลผู้เอกพีชี   เป็นผู้เที่ยงต่อความ
+<span class="LineNumber"> 011 </span>เกิดอีกครั้งเดียว  หรือ ?
+<span class="LineNumber"> 012 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                        ป. บุคคลนั้น   เป็นเอกพีชี   มิใช่หรือ ?
+<span class="LineNumber"> 014 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                        ป. หากว่า   บุคคลนั้น   เป็นเอกพีชี   ด้วยเหตุนั้นนะท่าน
+<span class="LineNumber"> 016 </span>จึงต้องกล่าวว่า  บุคคลผู้เอกพีชี  เป็นผู้เที่ยงต่อความเกิดอีกครั้งเดียว
+<span class="LineNumber"> 017 </span>                            <I>โกลังโกลเอกพีชีกถา   จบ</I>
+  
+<span class="LineNumber"> 018 </span>                   <H2>อรรถกถาสัตตักขัตตุปรมกถา</H2>
+
+<span class="LineNumber"> 019 </span>                <H2>ว่าด้วย   บุคคลผู้สัตตักขัตตุปรมะ</H2>
+
+<span class="LineNumber"> 020 </span>         บัดนี้    ชื่อว่าเรื่องบุคคลผู้สัตตักขัตตุปรมะ      คือบุคคลผู้มีการเกิด 
+<span class="LineNumber"> 021 </span>อีก    ๗    ชาติเป็นอย่างยิ่ง.    ในเรื่องนั้นชนเหล่าใดมีความเห็นผิดดุจลัทธิ

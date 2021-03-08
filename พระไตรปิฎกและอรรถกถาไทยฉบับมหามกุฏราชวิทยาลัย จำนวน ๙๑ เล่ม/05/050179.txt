@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>            ที่ชื่อว่า   กระเทียม   ได้แก่    กระเทียมที่เขาเรียกกันว่าเกิดในแคว้น
+<span class="LineNumber"> 002 </span>มคธ.                                                              
+<span class="LineNumber"> 003 </span>            ภิกษุณีรับประเคนด้วยหมายใจว่า  จักฉัน  ต้องอาบัติทุกกฏ  กลืนกิน
+<span class="LineNumber"> 004 </span>ต้องอาบัติปาจิตตีย์ทุก ๆ  คำกลืน.                             
+
+<span class="LineNumber"> 005 </span>                                       <H2>บทภาชนีย์</H2> 
+<span class="LineNumber"> 006 </span>                                     <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 007 </span>            [๑๕๒]  กระเทียม  ภิกษุณีสำคัญว่ากระเทียม  ฉัน  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 008 </span>            กระเทียม  ภิกษุณีสงสัย  ฉัน  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 009 </span>            กระเทียม  ภิกษุณีสำคัญว่าไม่ใช่กระเทียม  ฉัน  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 010 </span>                                         <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 011 </span>            ไม่ใช่กระเทียม   ภิกษุณีสำคัญว่ากระเทียม  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 012 </span>            ไม่ใช่กระเทียม  ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 013 </span>                                        <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 014 </span>            ไม่ใช่กระเทียม  ภิกษุณีสำคัญว่า  ไม่ใช่กระเทียม  ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 015 </span>                                         <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 016 </span>            [๑๕๓]   กระเทียมเหลือง ๑      กระเทียมแดง  ๑      กระเทียมเขียว ๑
+<span class="LineNumber"> 017 </span>กระเทียมต้นไม่มีเยื่อ  ๑ กระเทียมที่ปรุงลงในแกง ๑ กระเทียมที่ปรุงลงในเนื้อ ๑
+<span class="LineNumber"> 018 </span>กระเทียมเจียวน้ำมัน ๑    กระเทียมที่ปรุงลงในน้ำพุทรา ๑    กระเทียมที่ปรุงลง
+<span class="LineNumber"> 019 </span>ในแกงอ่อม ๑   วิกลจริต ๑     อาทิกัมมิกา ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 020 </span>                                  <I>ลสุณวรรค   สิกขาบทที่  ๑  จบ</I>
+                                  

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	ดูก่อนภิกษุทั้งหลาย  ก็แลภิกษุณีทั้งหลายจงยกสิกขาบทนี้ขึ้นแสดง
+<span class="LineNumber"> 002 </span>อย่างนี้  ว่าดังนี้ :-
+
+<span class="LineNumber"> 003 </span>		                         <H1>พระบัญญัติ </H1>
+<span class="LineNumber"> 004 </span>	๘๒. ๗.  <B>อนึ่ง  ภิกษุณีใด  ห้ามการแจกจีวรอันเป็นไปโดย
+<span class="LineNumber"> 005 </span>ชอบธรรม  เป็นปาจิตตีย์.</B>
+<span class="LineNumber"> 006 </span>                               <I>เรื่องภิกษุณีถุลลนันทา  จบ</I>
+
+<span class="LineNumber"> 007 </span>		                    <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 008 </span>	[๒๔๓]  บทว่า  <B>อนึ่ง. . . ใด</B>  ความว่า  ผู้ใด   คือ  ผู้เช่นใด. . .
+<span class="LineNumber"> 009 </span>	บทว่า  <B>ภิกษุณี</B>  ความว่า  ที่ชื่อว่า  <B>ภิกษุณี</B>  เพราะอรรถว่าเป็นผู้ขอ. . .
+<span class="LineNumber"> 010 </span>นี้ ชื่อว่า  <B>ภิกษุณี</B>  ที่ทรงประสงค์ในอรรถนี้.
+<span class="LineNumber"> 011 </span>	การแจกจีวร  ที่ชื่อว่า  <B>เป็นไปโดยชอบธรรม</B>  คือ  ภิกษุณีสงฆ์  ผู้
+<span class="LineNumber"> 012 </span>พร้อมเพรียงประชุมกันแจก.
+<span class="LineNumber"> 013 </span>	บทว่า  <B>ห้าม</B>  คือห้ามว่า  การแจกจีวรนี้ด้วยวิธีไร  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 014 </span>		                           <H2>บทภาชนีย์</H2> 
+<span class="LineNumber"> 015 </span>	[๒๔๔]  การแจกเป็นธรรม  ภิกษุณีสำคัญว่าเป็นธรรม  ห้าม  ต้อง
+<span class="LineNumber"> 016 </span>อาบัติปาจิตตีย์.
+<span class="LineNumber"> 017 </span>	การแจกเป็นธรรม  ภิกษุณีสงสัย  ห้าม  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 018 </span>	การแจกเป็นธรรม  ภิกษุณีสำคัญว่าไม่เป็นธรรม  ห้าม  ไม่ต้องอาบัติ.
+<span class="LineNumber"> 019 </span>	การแจกไม่เป็นธรรม  ภิกษุณีสำคัญว่าเป็นธรรม  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 020 </span>	การแจกไม่เป็นธรรม  ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 021 </span>	การแจกไม่เป็นธรรม  ภิกษุณีสำคัญว่าไม่เป็นธรรม  ไม่ต้องอาบัติ.

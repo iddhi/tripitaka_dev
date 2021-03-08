@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>ชื่อว่าสัจจะ,     ยกเว้นสมุทัยและสัจจะเสียแล้ว     ธรรมที่เหลือนอกนั้น 
+<span class="LineNumber"> 002 </span>ไม่ชื่อว่าสมุทัยและไม่ชื่อว่าสัจจะ.
+<span class="LineNumber"> 003 </span>                                              ฯ ล ฯ
+<span class="LineNumber"> 004 </span>                          <I>จบ  สมุทยสัจจมูละ  ทุกขสัจจมูลี</I>
+<span class="LineNumber"> 005 </span>                                     <I>สมุทยสัจจมูล  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                        <H1>นิโรธสัจจมูล</H1>
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่านิโรธ,  ไม่ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ยกเว้นนิโรธเสียแล้ว   ฯ ล ฯ
+<span class="LineNumber"> 009 </span>                                    <I>นิโรธสัจจมูล   จบ</I>
+
+<span class="LineNumber"> 010 </span>                                        <H1>มัคคสัจจมูล</H1>
+<span class="LineNumber"> 011 </span><H2>๑.  มัคคสัจจมูละ  ทุกขสัจจมูลี</H2>
+<span class="LineNumber"> 012 </span>         ธรรมที่ไม่ชื่อว่ามรรค,  ไม่ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ยกเว้นมรรคเสียแล้ว   สัจจะที่เหลือนอกนั้นไม่ชื่อว่ามรรค   แต่
+<span class="LineNumber"> 014 </span>ชื่อว่าสัจจะ,    ยกเว้นมรรคและสัจจะเสียแล้ว    ธรรมที่เหลือนอกนั้นไม่
+<span class="LineNumber"> 015 </span>ชื่อว่ามรรคและไม่ชื่อว่าสัจจะ.
+<span class="LineNumber"> 016 </span>         ธรรมที่ไม่ชื่อว่าสัจจะ,  ไม่ชื่อว่าทุกขสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ใช่.
+<span class="LineNumber"> 018 </span>                           <I>จบ  มัคคสัจจมูละ  ทุกขสัจจมูลี</I>

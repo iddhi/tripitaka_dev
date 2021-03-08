@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>ฆานินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>ฆานินทริยมูละ  อิตถินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๗๖๐]   ฆานินทรีย์   เคยเกิดแก่บุคคลใดในภูมิใด,   อิตถินทรีย์
+<span class="LineNumber"> 004 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.                                      
+<span class="LineNumber"> 006 </span>         ก็หรือว่า  อิตถินทรีย์  เคยเกิดแก่บุคคลใดในภูมิใด,  ฆานินทรีย์
+<span class="LineNumber"> 007 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                        <I>จบ  ฆานินทริยมูละ   อิตถินทริยมูลี</I>    
+              
+<span class="LineNumber"> 010 </span><B>ฆานินทริยมูละ   ปุริสินทริยมูลี:-</B>
+<span class="LineNumber"> 011 </span>         [๗๖๑]   ฆานินทรีย์  เคยเกิดแก่บุคคลใดในภูมิใด,    ปุริสินทรีย์
+<span class="LineNumber"> 012 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม   ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า  ปุริสินทรีย์  เคยเกิดแก่บุคคลใดในภูมิใด,  ฆานินทรีย์
+<span class="LineNumber"> 015 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม   ?
+<span class="LineNumber"> 016 </span>         ใช่.
+<span class="LineNumber"> 017 </span>                        <I>จบ  ฆานินทริยมูละ  ปุริสินทริยมูลี</I>

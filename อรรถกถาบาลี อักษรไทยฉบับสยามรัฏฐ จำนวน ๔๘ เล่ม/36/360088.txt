@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  88
+
+<span class="LineNumber"> 002 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 003 </span>		กทาหํ หตฺถิคุมฺเพ จ		สพฺพาลงฺการภูสิเต  
+<span class="LineNumber"> 004 </span>		สุวณฺณกจฺเฉ มาตงฺเค		เหมกปฺปนิวาสเส  (๑)
+<span class="LineNumber"> 005 </span>		อารุฬฺเห คามนีเยภิ		โตมรงฺกุสปาณิภิ  
+<span class="LineNumber"> 006 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 007 </span>		กทาหํ อสฺสคุมฺเพ จ		สพฺพาลงฺการภูสิเต  
+<span class="LineNumber"> 008 </span>		อาชานีเย จ ชาติเย  (๒)	สินฺธเว สีฆพาหเน  
+<span class="LineNumber"> 009 </span>		อารุฬฺเห คามนีเยภิ		อินฺทิยา จาปธาริภิ  (๓)
+<span class="LineNumber"> 010 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 011 </span>		กทาหํ รถเสนิโย			สนฺนทฺเธ อุสฺสิตทฺธเช  
+<span class="LineNumber"> 012 </span>		ทีเป อโถปิ เวยฺยคฺเฆ		สพฺพาลงฺการภูสิเต  
+<span class="LineNumber"> 013 </span>		อารุฬฺเห คามนีเยภิ		จาปหตฺเถหิ จมฺมิภิ (๔)  
+<span class="LineNumber"> 014 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 015 </span>		กทาหํ สุวณฺณรเถ		สนฺนทฺเธ อุสฺสิตทฺธเช  
+<span class="LineNumber"> 016 </span>		ทีเป อโถปิ เวยฺยคฺเฆ		สพฺพาลงฺการภูสิเต  
+<span class="LineNumber"> 017 </span>		อารุฬฺเห คามนีเยภิ		จาปหตฺเถหิ จมฺมิภิ  
+<span class="LineNumber"> 018 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 019 </span>		กทาหํ สชฺฌุรเถ จ		สนฺนทฺเธ อุสฺสิตทฺธเช  
+<span class="LineNumber"> 020 </span># ๑. ม. ยุ. เหมกปฺปนวาสเส ฯ  ๒. ส. ม. ยุ. อาชานีเยว ชาติยา ฯ  
+<span class="LineNumber"> 021 </span># ๓. ม. ยุ อิลฺลิยาจาปธาริภิ ฯ  ๔. ม. ยุ. วมฺมิภิ ฯ  เอวมุปริปิ ฯ

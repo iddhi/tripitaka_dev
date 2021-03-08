@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                      <h1>๔.  ฆฏิการสูตร* </h1>
+
+<span class="LineNumber"> 002 </span>         [๒๘๗]   ฆฏิการเทพบุตร   ครั้นยืนอยู่   ณ  ที่ควรส่วนข้างหนึ่งแล้ว 
+<span class="LineNumber"> 003 </span>ได้กล่าวคาถานี้  ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 004 </span>                             <B>ภิกษุ   ๗ รูป   ผู้เข้าถึงพรหมโลกชั้น
+<span class="LineNumber"> 005 </span>                   อวิหาเป็นผู้หลุดพ้นแล้ว    สิ้นราคะโทสะ
+<span class="LineNumber"> 006 </span>                   แล้ว    ข้ามพ้นตัณหาที่ซ่านไปในโลกเสีย
+<span class="LineNumber"> 007 </span>                   ได้แล้ว.</B>
+<span class="LineNumber"> 008 </span>         พระผู้มีพระภาคเจ้าตรัสถามว่า  
+<span class="LineNumber"> 009 </span>                             <B>ก็ภิกษุเหล่านั้น    คือใครบ้างผู้ข้าม
+<span class="LineNumber"> 010 </span>                   พ้นเครื่องข้องแห่งมัจจุมาร  อันแสนยากที่ 
+<span class="LineNumber"> 011 </span>                   จะข้ามได้ ละกายของมนุษย์แล้ว  ก้าวล่วง
+<span class="LineNumber"> 012 </span>                   เครื่องประกอบอันเป็นทิพย์.</B>
+<span class="LineNumber"> 013 </span>         ฆฏิการเทพบุตรกราบทูลว่า
+<span class="LineNumber"> 014 </span>                             <B>คือ ท่านอุปกะ  ๑  ท่านผลคัณฑะ ๑
+<span class="LineNumber"> 015 </span>                   ท่านปุกกุสาติ  ๑   รวมเป็น ๓ ท่าน   ท่าน
+<span class="LineNumber"> 016 </span>                   ภัททิยะ  ๑  ท่านขัณฑเทวะ  ๑  ท่านพาหุ-
+<span class="LineNumber"> 017 </span>                   รัคคิ  ๑  ท่านสิงคิยะ ๑ (รวมเป็น ๗ ท่าน)
+<span class="LineNumber"> 018 </span>                   ท่านเหล่านั้นล้วนแต่ละกายของมนุษย์
+<span class="LineNumber"> 019 </span>                   ก้าวล่วงเครื่องประกอบอันเป็นทิพย์ได้
+<span class="LineNumber"> 020 </span>                   แล้ว.</B>
+<span class='footnote'>* ในอาทิตตวรรคที่  ๕  สูตรที่  ๑๐  เป็นฆฏิกรสูตร</span>
+<span class='footnote'>ม.  เป็นฆฏิการสูตร  เหมือนกันทั้ง  ๒  สูตร.</span>

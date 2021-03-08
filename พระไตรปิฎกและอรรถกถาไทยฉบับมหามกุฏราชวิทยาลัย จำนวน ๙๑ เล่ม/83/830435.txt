@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>กามราคานุสย - ปฏิฆานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ทุกมูลกะ - กามราคานุสย - ปฏิฆานุสยมูละ มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 003 </span>         [๑๔๒๖]   บุคคลใด   กำหนดรู้กามราคานุสัย   และปฏิฆานุสัย,
+<span class="LineNumber"> 004 </span>บุคคลนั้น  ย่อมกำหนดรู้มานานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ย่อมกำหนดรู้กิเลสอันตั้งอยู่ในที่เดียวกันกับอนุสัยนั้น.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า  บุคคลใด  กำหนดรู้มานานุสัย,  บุคคลนั้น  ย่อมกำหนด
+<span class="LineNumber"> 007 </span>รู้กามราคานุสัย   และปฏิฆานุสัย ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>             <I>จบ  กามราคานุสย - ปฏิฆานุสยมูละ  มานานุสยมูลี</I>
+
+<span class="LineNumber"> 010 </span><H2>กามราคานุสย - ปฏิฆานุสยมูละ  ทิฏฐานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         บุคคลใด   กำหนดรู้กามราคานุสัย   และปฏิฆานุสัย,  บุคคลนั้น
+<span class="LineNumber"> 012 </span>ย่อมกำหนดรู้ทิฏฐานุสัย  ฯลฯ  วิจิกิจฉานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ไม่ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า  บุคคลใด  กำหนดรู้วิจิกิจฉานุสัย,   บุคคลนั้น  กำหนดรู้
+<span class="LineNumber"> 015 </span>กามราคานุสัย   และปฏิฆานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ย่อมกำหนดรู้กิเลสอันตั้งอยู่ในที่เดียวกันกับอนุสัยนั้น.
+<span class="LineNumber"> 017 </span>           <I>จบ กามราคานุสย - ปฏิฆานุสยมูละ  ทิฏฐานุสยาทิมูลี</I>

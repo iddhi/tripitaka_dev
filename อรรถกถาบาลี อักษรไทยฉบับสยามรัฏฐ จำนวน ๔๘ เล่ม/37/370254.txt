@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  254
+
+<span class="LineNumber"> 002 </span>อุตฺตริตโร  นาม ฯ  ธมฺมคูติ  ธมฺมสฺส  โคปโก  เจว  ธมฺมฺู 
+<span class="LineNumber"> 003 </span>จ ฯ  ธมฺมวิทูติ  ปากฏธมฺโม ฯ  สุเมโธติ  สุนฺทรปฺโ ฯ 
+<span class="LineNumber"> 004 </span>ปฺายาติ  อตฺตโน  ปฺาย  อมฺหากํ  ปฺหํ  สุฏฺ€ุ  อติคณฺหิตฺวา 
+<span class="LineNumber"> 005 </span>อิทเมตฺถ  การณนฺติ  ยถาภูตํ  ตฺวา ฯ  อจฺเฉจฺฉาติ (๑) ตฺวํ  ธีโร 
+<span class="LineNumber"> 006 </span>อมฺหากํ  วิจิกิจฺฉิตานิ  ฉินฺท  เอวํ  ฉินฺทนฺโต  จ  ฉินฺทชฺช  กงฺขํ 
+<span class="LineNumber"> 007 </span>วิจิกิจฺฉิตานีติ  อิมํ  อมฺหากํ  อายาจนํ  สมฺปาเทนฺโต (๒)ฯ  จุนฺโท 
+<span class="LineNumber"> 008 </span>ยถา  นาคทนฺตํ  ขเรนาติ  ยถา  ทนฺตกาโร สกฺกจฺเจน(๓) หตฺถิทนฺตํ
+<span class="LineNumber"> 009 </span>ฉินฺเทยฺย เอวํ ฉินฺทาติ (๔)อตฺโถ ฯ  
+<span class="LineNumber"> 010 </span>	เอวํ  เต  จตฺตาโรปิ [๕] ตสฺส  ปฺหาพฺยากรเณน 
+<span class="LineNumber"> 011 </span>ตุฏฺ€มานสา  อเหสุํ ฯ  อถ  นํ  สกฺโก  ทิพฺพทุกุเลน  ปูเชสิ  
+<span class="LineNumber"> 012 </span>ครุโฬ  สุวณฺณมาลาย  ปูเชสิ  วรุณนาคราชา(๖)  มณินา ปูเชสิ 
+<span class="LineNumber"> 013 </span>ธนฺชยราชา ควสหสฺสาทีหิ ปูเชสิ ฯ  เต(๗) เอวมาหํสุ  
+<span class="LineNumber"> 014 </span>		นีลุปฺปลาภํ วิมลํ อนคฺฆํ  
+<span class="LineNumber"> 015 </span>		วตฺถํ อิทํ ธูมสมานวณฺณํ  
+<span class="LineNumber"> 016 </span>		ปฺหสฺส เวยฺยากรเณน ตุฏฺโ€  
+<span class="LineNumber"> 017 </span>		ททามิ เต ธมฺมปูชาย ธีร  
+<span class="LineNumber"> 018 </span>		สุวณฺณมาลํ สตปตฺตผุลฺลํ(๘)  
+<span class="LineNumber"> 019 </span>		สเกสรํ รตนสหสฺสมณฺฑิตํ  
+<span class="LineNumber"> 020 </span># ๑. ม. อจฺเฉจฺฉีติ ฯ  ๒. ม. สมฺปาเทนฺโต อจฺเฉจฺฉิ กงฺขํ 
+<span class="LineNumber"> 021 </span># วิจิกิจฺฉิตานิ ฯ  ๓. ม. กกเจน ฯ  ๔. ม. ฉินฺทีติ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. เอตฺถนฺตเร ราชาโนติ ทิสฺสติ ฯ ๖. ม. นาคราชา ฯ
+<span class="LineNumber"> 023 </span># ๗. ม. เตเนวาห ฯ  ๘. ม. สตปตฺตผุลฺลิตํ ฯ

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  ปณฺณตฺติวารวณฺณนา   หน้า 635
+
+<span class="LineNumber"> 002 </span>	เอกาทสมูลเก  ป€มทสเกน  สทฺธึ  ปจฺฉาชาตปจฺจยาทีสุ 
+<span class="LineNumber"> 003 </span>จุทฺทสสุ  ปจฺจเยสุ  เอกเมกสฺส  โยชนาวเสน  จุทฺทส  เอกาทสกา
+<span class="LineNumber"> 004 </span>โหนฺติ ฯ  เตสุ  เอกเมกสฺมึ  เอกูนปฺาสํ กตฺวา
+<span class="LineNumber"> 005 </span>		ฉ สตานิ จ ปุจฺฉานํ	ฉฬาสีติ ตโต ปรา(๑) 
+<span class="LineNumber"> 006 </span>		นยมฺหิ ปุจฺฉา คณิตา	เอกาทสกมูลเก ฯ 
+<span class="LineNumber"> 007 </span>	ทฺวาทสมูลเก  ป€เมกาทสเกน  สทฺธึ  อาเสวนปจฺจยาทีสุ
+<span class="LineNumber"> 008 </span>เตรสสุ  ปจฺจเยสุ  เอกเมกสฺส  โยชนาวเสน  เตรส  ทฺวาทสกา
+<span class="LineNumber"> 009 </span>โหนฺติ ฯ  เตสุ  เอกเมกสฺมึ  เอกูนปฺาสํ กตฺวา
+<span class="LineNumber"> 010 </span>		ฉ สตานิ จ ปุจฺฉานํ	สตฺตตฺตึส ตโต ปรา(๒) 
+<span class="LineNumber"> 011 </span>		ปุจฺฉา คณนโต โหนฺติ	นเย ทฺวาทสมูลเก ฯ 
+<span class="LineNumber"> 012 </span>	เตรสมูลเก  ป€มทฺวาทสเกน  สทฺธึ  กมฺมปจฺจยาทีสุ ทฺวาทสสุ
+<span class="LineNumber"> 013 </span>ปจฺจเยสุ  เอกเมกสฺส  โยชนาวเสน  ทฺวาทส  เตรสกา  โหนฺติ ฯ
+<span class="LineNumber"> 014 </span>เตสุ  เอกเมกสฺมึ  เอกูนปฺาสํ กตฺวา
+<span class="LineNumber"> 015 </span>		สตานิ ปฺจ ปุจฺฉานํ	อฏฺ€าสีติ ตโตปรา  
+<span class="LineNumber"> 016 </span>		ปุจฺฉา คณนโต โหนฺติ	นเย เตรสมูลเก ฯ 
+<span class="LineNumber"> 017 </span># ๑. ม. สตฺตตึส ตโตปรา ฯ  ๒. ม. ปนาปรา ฯ

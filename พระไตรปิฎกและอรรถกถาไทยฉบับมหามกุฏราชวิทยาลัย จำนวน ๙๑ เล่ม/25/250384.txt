@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                               <H1>ยักขสังยุต</H1> 
+ 
+<span class="LineNumber"> 002 </span>                                              <H1>๑.  อินทกสูตร</H1> 
+
+<span class="LineNumber"> 003 </span>                              <H1>ว่าด้วยสัตว์ตั้งอยู่ในครรภ์อย่างไร</H1> 
+
+<span class="LineNumber"> 004 </span>           [๘๐๑]    ข้าพเจ้าได้สดับมาแล้วอย่างนี้  :-
+<span class="LineNumber"> 005 </span>           สมัยหนึ่ง   พระผู้มีพระภาคเจ้าประทับอยู่บนภูเขาอินทกูฏ   ซึ่งอินทก 
+<span class="LineNumber"> 006 </span>ยักษ์ครอบครอง  ในกรุงราชคฤห์.
+<span class="LineNumber"> 007 </span>           [๘๐๒]  ครั้งนั้นแล  อินทกยักษ์เข้าไปเฝ้าพระผู้มีพระภาคเจ้าได้กราบ
+<span class="LineNumber"> 008 </span>ทูลด้วยคาถาว่า  
+<span class="LineNumber"> 009 </span>                             <B>ท่านผู้รู้ทั้งหลายไม่กล่าวรูปว่า
+<span class="LineNumber"> 010 </span>                   เป็นชีพ      สัตว์นี้จะประสบร่างกายนี้ได้     
+<span class="LineNumber"> 011 </span>                   อย่างไรหนอ    กระดูกและก้อนเนื้อจะมา 
+<span class="LineNumber"> 012 </span>                   แต่ไหน     สัตว์นี้จะติดอยู่ในครรภ์ได้
+<span class="LineNumber"> 013 </span>                   อย่างไร.</B>
+<span class="LineNumber"> 014 </span>           [๘๐๓]  พระผู้มีพระภาคเจ้าตรัสว่า   
+<span class="LineNumber"> 015 </span>                             <B>รูปนี้เป็นกลละล่อน จากกลละเป็น
+<span class="LineNumber"> 016 </span>                   อัพพุทะ  จากอัพพุทะเกิดเป็นเปสิ  จากเปสิ
+<span class="LineNumber"> 017 </span>                   เกิดเป็นฆนะ    จากฆนะเกิดเป็น  ๕  ปุ่ม
+<span class="LineNumber"> 018 </span>                   (ปัญจสาขา)   ต่อจากนั้น    มีผมขนและเล็บ
+<span class="LineNumber"> 019 </span>                   (เป็นต้น )    เกิดขึ้น    มารดาของสัตว์ใน
+<span class="LineNumber"> 020 </span>                   ครรภ์บริโภคข้าวน้ำโภชนาหารอย่างใด
+<span class="LineNumber"> 021 </span>                   สัตว์ผู้อยู่ในครรภ์มารดานั้น      ก็ยังอัตภาพ
+<span class="LineNumber"> 022 </span>                   ให้เป็นไปด้วยอาหารอย่างนั้น  ในครรภ์นั้น.</B>

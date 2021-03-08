@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                      ๓.   <B>ธรรมที่ไม่ใช่ปรามาสธรรม และไม่ใช่อปรามัฏฐ- 
+<span class="LineNumber"> 002 </span>ธรรม   และธรรมที่ไม่ใช่อปรามัฏฐธรรม   และไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 003 </span>ปรามาสธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B> 
+<span class="LineNumber"> 004 </span>                      ๔.   <B>ธรรมที่ไม่ใช่ปรามาสธรรม และไม่ใช่อปรามัฏฐ-
+<span class="LineNumber"> 005 </span>ธรรม   อาศัยธรรมที่ไม่ใช่อปรามัฏฐธรรม   และไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 006 </span>ปรามาสธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 007 </span>                      ๕.   <B>ธรรมที่ไม่ใช่ปรามาสธรรม  และไม่ใช่อปรามัฏฐ-
+<span class="LineNumber"> 008 </span>ธรรม อาศัยธรรมที่ไม่ใช่ปรามาสธรรม  และไม่ใช่อปรามัฏฐธรรม,
+<span class="LineNumber"> 009 </span>ธรรมที่ไม่ใช่อปรามัฏฐธรรม  และไม่ใช่ธรรมที่ไม่ใช่ปรามาสธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B> 
+<span class="LineNumber"> 011 </span>                                         <B>ฯลฯ</B>
+
+<span class="LineNumber"> 012 </span>                       <I>โนปรามาสโคจฉกทุกะ   จบ</I>				
+<span class="LineNumber"> 013 </span>                             <H1>๕๕.  นสารัมมณทุกะ</H1>
+<span class="LineNumber"> 014 </span>                                    <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 015 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 016 </span>                                 <H2>๑. เหตุปัจจัย</H2>	 
+<span class="LineNumber"> 017 </span>           [๑๑๘] ๑.  <B>ธรรมที่ไม่ใช่สารัมมณธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 018 </span>สารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 019 </span>                      ๒.   <B>ธรรมที่ไม่ใช่อนารัมมณธรรม อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 020 </span>สารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>

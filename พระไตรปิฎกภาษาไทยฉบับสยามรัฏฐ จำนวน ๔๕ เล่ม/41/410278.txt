@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>     ในอินทริยปัจจัย                    กับ  ฯลฯ         มี  "   ๕   
+<span class="LineNumber"> 002 </span>     ในฌานปัจจัย                      กับ  ฯลฯ         มี  "   ๕   
+<span class="LineNumber"> 003 </span>     ในมัคคปัจจัย                      กับ  ฯลฯ         มี  "   ๕   
+<span class="LineNumber"> 004 </span>     ในสัมปยุตตปัจจัย                   กับ  ฯลฯ         มี  "   ๕   
+<span class="LineNumber"> 005 </span>     ในวิปปยุตตปัจจัย                   กับ  ฯลฯ         มี  "   ๕   
+<span class="LineNumber"> 006 </span>     ในอัตถิปัจจัย                      กับ  ฯลฯ         มี  "   ๕   
+<span class="LineNumber"> 007 </span>     ในนัตถิปัจจัย                      กับ  ฯลฯ         มี  "   ๕   
+<span class="LineNumber"> 008 </span>     ในวิคตปัจจัย                      กับ  ฯลฯ         มี  "   ๕   
+<span class="LineNumber"> 009 </span>     ในอวิคตปัจจัย                     กับ  ฯลฯ         มี  "   ๕   
+
+<span class="LineNumber"> 010 </span>                                                     พึงนับอย่างนี้   
+<span class="LineNumber"> 011 </span>                       ปัจจนียานุโลม จบ   
+<span class="LineNumber"> 012 </span>                        ปัจจยวาร  จบ   
+<span class="LineNumber"> 013 </span>                   นิสสยวาร เหมือนกับปัจจยวาร              
+<span class="LineNumber"> 014 </span>                          สังสัฏฐวาร   
+<span class="LineNumber"> 015 </span>     [๘๕๗] ทัสสเนนปหาตัพพเหตุกธรรม คลุกเคล้ากับทัสสเนนปหาตัพพเหตุกธรรม   
+<span class="LineNumber"> 016 </span>เกิดขึ้น เพราะเหตุปัจจัย     
+<span class="LineNumber"> 017 </span>     คือ ขันธ์ ๓ คลุกเคล้ากับขันธ์ ๑ ที่เป็นทัสสเนนปหาตัพพเหตุกธรรม ขันธ์ ๒              
+<span class="LineNumber"> 018 </span>คลุกเคล้ากับขันธ์ ๒          
+<span class="LineNumber"> 019 </span>     [๘๕๘] ภาวนายปหาตัพพเหตุกธรรม คลุกเคล้ากับภาวนายปหาตัพพเหตุกธรรม   
+<span class="LineNumber"> 020 </span>ฯลฯ   
+<span class="LineNumber"> 021 </span>     คือ ขันธ์ ๓ คลุกเคล้ากับขันธ์ ๑ ที่เป็นภาวนายปหาตัพพเหตุกธรรม ขันธ์ ๒               
+<span class="LineNumber"> 022 </span>คลุกเคล้ากับขันธ์            
+<span class="LineNumber"> 023 </span>     [๘๕๙] เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม คลุกเคล้ากับเนวทัสสเนนน   
+<span class="LineNumber"> 024 </span>ภาวนายปหาตัพพเหตุกธรรม ฯลฯ   

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         มานานุสัย  ไม่นอนเนื่องอยู่ ณ ที่นี้    คือ   ที่ทุกขเวทนา   แต่ 
+<span class="LineNumber"> 002 </span>อวิชชานุสัย  ไม่ใช่ไม่นอนเนื่องอยู่ ณ ที่นั้น   มานานุสัย  และอวิชชา-
+<span class="LineNumber"> 003 </span>นุสัย  ก็ไม่นอนเนื่องอยู่ ณ ที่นี้   คือ   ที่อปริยาปันนธรรม.
+<span class="LineNumber"> 004 </span>         ก็หรือว่า   อวิชชานุสัย  ไม่นอนเนื่องอยู่ ณ ที่ใด,    มานานุสัย
+<span class="LineNumber"> 005 </span>ก็ไม่นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>                       <I>จบ  มานานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 008 </span>                                    <I>มานานุสยมูล จบ</I>
+
+<span class="LineNumber"> 009 </span>                                      <H1>ทิฏฐานุสยมูล</H1>
+<span class="LineNumber"> 010 </span><H2>ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         [๑๒๖๙]  ทิฏฐานุสัย ไม่นอนเนื่องอยู่ ณ ที่ใด,  วิจิกิจฉานุสัย
+<span class="LineNumber"> 012 </span>ก็ไม่นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า   วิจิกิจฉานุสัย  ไม่นอนเนื่องอยู่ ณ ที่ใด,    ทิฏฐานุสัย
+<span class="LineNumber"> 015 </span>ก็ไม่นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ใช่   ฯ ล ฯ
+<span class="LineNumber"> 017 </span>                      <I>จบ   ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</I>
+<span class="LineNumber"> 018 </span>                                     <I>ทิฏฐานุสยมูล  จบ</I>

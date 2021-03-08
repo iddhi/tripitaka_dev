@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>               	๒.  อรณธรรมที่เป็นอนิยตธรรม  อาศัยอรณธรรม         
+<span class="LineNumber"> 002 </span>ที่เป็นสัมมัตตนิยตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 003 </span>              	๓.  อรณธรรมที่เป็นสัมมัตตนิยตธรรมและอรณธรรม 
+<span class="LineNumber"> 004 </span>ที่เป็นอนิยตธรรม  อาศัยอรณธรรมที่เป็นสัมมัตตนิยตธรรม   เกิดขึ้น
+<span class="LineNumber"> 005 </span>เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>              	๔.  อรณธรรมที่เป็นอนิยตธรรม    อาศัยอรณธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นอนิยตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>               	๕.  อรณธรรมที่เป็นอนิยตรรม    อาศัยอรณธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นสัมมัตตนิยตธรรม  และอรณธรรมที่เป็นอนิยตธรรม   เกิดขึ้น
+<span class="LineNumber"> 010 </span>เพราะเหตุปัจจัย
+<span class="LineNumber"> 011 </span>                    	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>		[๙๓๑]  ในเหตุปัจจัย  มี ๕ วาระ    ในอารัมมณปัจจัย   มี  ๒  วาระ
+<span class="LineNumber"> 013 </span>ฯลฯ  ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 014 </span>           	สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดารทุกปัจจัย.
+<span class="LineNumber"> 015 </span>			  	  <I>มิจฉัตตติกสรณทุกะ  จบ</I>	

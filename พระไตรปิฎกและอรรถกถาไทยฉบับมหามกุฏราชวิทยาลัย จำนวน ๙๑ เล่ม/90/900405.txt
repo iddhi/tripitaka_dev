@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                 	๒.  อกุศลธรรมที่ไม่ใช่สัญโญชน์  อาศัยอกุศลธรรม
+<span class="LineNumber"> 002 </span>ที่เป็นสัญโญชน์   เกิดขึ้น  เพราะเหตุปัจจัย 
+<span class="LineNumber"> 003 </span>               	  ๓.  อกุศลธรรมที่เป็นสัญโญชน์     และอกุศลธรรม
+<span class="LineNumber"> 004 </span>ที่ไม่ใช่สัญโญชน์ อาศัยอกุศลธรรมที่เป็นสัญโญชน์  เกิดขึ้น เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย   ฯลฯ
+<span class="LineNumber"> 006 </span>                    	 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 007 </span>		[๑๒๒๑]  ในเหตุปัจจัย  มี ๙ วาระ    ในอารัมมณปัจจัย  มี ๙  วาระ
+<span class="LineNumber"> 008 </span>ในอธิปติปัจจัย มี ๙  วาระ ฯลฯ   ในอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 009 </span>                           			<H1>ปัจจนียนัย</H1>  
+<span class="LineNumber"> 010 </span>				<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 011 </span>		[๑๒๒๒]  ในนเหตุปัจจัย มี ๓ วาระ    ในนอธิปติปัจจัย มี  ๙ วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ   ในนกัมมปัจจัย มี ๓ วาระ ฯลฯ  ในนวิปปยุตตปัจจัย มี ๙  วาระ.
+<span class="LineNumber"> 013 </span>           		สหชาตวาระก็ดี    ฯลฯ     สัมปยุตตวาระก็ดี     พึงให้พิสดารเหมือน
+<span class="LineNumber"> 014 </span>ปฏิจจวาระ.                  

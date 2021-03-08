@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                          ๗.  อกุศลธรรมที่เป็นอุเบกขาสหคตธรรม  อาศัย
+<span class="LineNumber"> 002 </span>อกุศลธรรมที่เป็นอุเบกขาสหคตธรรม    เกิดขึ้น   เพราะเหตุปัจจัย 
+<span class="LineNumber"> 003 </span>                          ๘.  อกุศลธรรมที่เป็นปีติสหคตธรรม     อาศัยอกุศล-
+<span class="LineNumber"> 004 </span>ธรรมที่เป็นปีติสหคตธรรม     และอกุศลธรรมที่เป็นสุขสหคตธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓ วาระ.                       
+<span class="LineNumber"> 006 </span>           		  พึงให้พิสดารทุกวาระ.
+ 
+<span class="LineNumber"> 007 </span>				<H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 008 </span>				      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>				      <H1>๑. เหตุปัจจัย</H1>		 					
+<span class="LineNumber"> 010 </span>		[๑๗๕]  ๑.  อัพยากตธรรมที่เป็นปีติสหคตธรรม     อาศัย
+<span class="LineNumber"> 011 </span>อัพยากตธรรมที่เป็นปีติสหคตธรรม     เกิดขึ้น    เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>มี ๓ วาระ.                                 
+<span class="LineNumber"> 013 </span>                         ๔.  อัพยากตธรรมที่เป็นสุขสหคตธรรม  อาศัย
+<span class="LineNumber"> 014 </span>อัพยากตธรรมที่เป็นสุขสหคตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>มี  ๓  วาระ.
+<span class="LineNumber"> 016 </span>                          ๗.  อัพยากตธรรมที่เป็นอุเบกขาสหคตธรรม  อาศัย
+<span class="LineNumber"> 017 </span>อัพยากตธรรมที่เป็นอุเบกขาสหคตธรรม    เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 018 </span>                          ๘.  อัพยากตธรรมที่เป็นปีติสหคตธรรม  อาศัยอัพยากต-
+<span class="LineNumber"> 019 </span>ธรรมที่เป็นปีติสหคตธรรม  และอัพยากตธรรมที่เป็นสุขสหคตธรรม
+<span class="LineNumber"> 020 </span>เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 021 </span>             พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 022 </span>				<I>ปีติติกกุสลติกะ  จบ</I>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  222
+
+<span class="LineNumber"> 002 </span>			โสณทินฺโน คหปติ		เอส ทานปตี อหุ  
+<span class="LineNumber"> 003 </span>			เอส ปพฺพชิตุทฺทิสฺส		วิหาเร สตฺต การยิ  
+<span class="LineNumber"> 004 </span>			สกฺกจฺจนฺเต อุปฏฺ€าสิ		ภิกฺขโว ตตฺถ อาสเย (๑) 
+<span class="LineNumber"> 005 </span>			อจฺฉาทนฺจ ภตฺตฺจ		เสนาสนํ ปทีปยํ  
+<span class="LineNumber"> 006 </span>			อทาสิ อุชุภูเตสุ			วิปฺปสนฺเนน เจตสา  
+<span class="LineNumber"> 007 </span>			จาตุทฺทสี ปฺจทสี (๒)	ยาจ ปกฺขสฺส อฏฺ€มี (๓) 
+<span class="LineNumber"> 008 </span>			ปาฏิหาริยปกฺขฺจ		อฏฺ€ํคสุสมาหิตํ (๔) 
+<span class="LineNumber"> 009 </span>			อุโปสถํ อุปวสิ			สทา สีเลสุ สํวุโต  
+<span class="LineNumber"> 010 </span>			สฺโม สํวิภาโค จ		โส วิมานสฺมึ โมทตีติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  ททฺทฬฺหมานาติ  ชชฺชลมานา ฯ  อาเภนฺตีติ  ตรุณสุริโย  
+<span class="LineNumber"> 012 </span>วิย  โอภาเสนฺติ ฯ  ตตฺถาติ  เตสุ  ปฏิปาฏิยา  €ิเตสุ  สตฺตสุ  
+<span class="LineNumber"> 013 </span>วิมาเนสุ  เอโก  เทวปุตฺโต  โสณทินฺโน  นาม ฯ  มหาราช  อยํ  ปุพฺเพ 
+<span class="LineNumber"> 014 </span>กสฺสปทสพลสฺส  กาเล  กาสิกรฏฺเ€  อฺตรสฺมึ  นิคเม  โสณทินฺโน 
+<span class="LineNumber"> 015 </span>นาม  คหปติ  ทานปติ  อโหสิ ฯ  โส  ปพฺพชิเต  อุทฺทิสฺส  
+<span class="LineNumber"> 016 </span>สตฺตวิหารกุฏิโย  กาเรตฺวา  ตตฺถ  วาสิเกปิ  ภิกฺขู  จตูหิ  ปจฺจเยหิ  
+<span class="LineNumber"> 017 </span>สกฺกจฺจํ  อุปฏฺ€หิ ฯ  โส  อุโปสถฺจ  อุปวสิ  นิจฺจํ  สีเลสุ  สํวุโต  
+<span class="LineNumber"> 018 </span>อโหสิ ฯ  โส  ตโต  จวิตฺวา  อิธุปฺปนฺโน  โมทตีติ  อตฺโถ ฯ  ตตฺถ  
+<span class="LineNumber"> 019 </span>จ  ปาฏิหาริยปกฺขฺจาติ  อิทํ  ปน  อฏฺ€มีอุโปสถสฺส  ปจฺจุคฺคมนานุ-
+<span class="LineNumber"> 020 </span>คมนวเสน สตฺตมีนวมิโย จาตุทฺทสีปณฺณรสีนํ ปจฺจุคฺคมนานุ-
+<span class="LineNumber"> 021 </span># ๑. ส. ม. ยุ. วาสิเก ฯ  ๒. ส. ม. ยุ. จาตุทฺทสึ ปฺจทสึ ฯ  เอวมุปริปิ ฯ
+<span class="LineNumber"> 022 </span># ๓. ยุ. อาว ปกฺขสฺส อฏฺ€มึ ฯ  เอวมุปริปิ ฯ  ๔. ม. ยุ. อฏฺ€งฺคสุสมาคตํ ฯ  
+<span class="LineNumber"> 023 </span>เอวมุปริปิ ฯ

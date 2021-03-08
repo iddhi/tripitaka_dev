@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         จักขายตนะ    เป็นปัจจัยแก่จักขุวิญญาณ    และสัมปยุตตขันธ์ทั้งหลาย
+<span class="LineNumber"> 002 </span>ด้วยอำนาจของวิปปยุตตปัจจัย ฯลฯ  กายายตนะ ฯลฯ
+<span class="LineNumber"> 003 </span>         หทยวัตถุ   เป็นปัจจัยแก่จิต  และสัมปยุตตขันธ์ทั้งหลาย   ด้วยอำนาจ
+<span class="LineNumber"> 004 </span>ของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 005 </span>           	  ๕.  <B>จิตตสังสัฏฐสมุฏฐานธรรม      และธรรมที่ไม่ใช่
+<span class="LineNumber"> 006 </span>จิตตสังสัฏฐสมุฏฐานธรรม   เป็นปัจจัยแก่ธรรมที่ไม่ใช่จิตตสังสัฏฐ-
+<span class="LineNumber"> 007 </span>สมุฏฐานธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 008 </span>         มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>   และ   <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 009 </span>                                              ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                      <H2>๒๑. อัตถิปัจจัย</H2>
+<span class="LineNumber"> 011 </span>         [๒๔๘] ๑.  <B>จิตตสังสัฏฐสมุฏฐานธรรม     เป็นปัจจัยแก่จิตต-
+<span class="LineNumber"> 012 </span>สังสัฏฐสมุฏฐานธรรม   ด้วยอำนาจของอัตถิปัจจัย</B>    เหมือนกับปฏิจจ-
+<span class="LineNumber"> 013 </span>วาระ.
+<span class="LineNumber"> 014 </span>                     ๒.  <B>จิตตสังสัฏฐสมุฏฐานธรรม     เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่จิตตสังสัฏฐสมุฏฐานธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 016 </span>         มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>ปัจฉาชาตะ</B> ฯลฯ
+<span class="LineNumber"> 017 </span>                     ๓.  <B>จิตตสังสัฏฐสมุฏฐานธรรม    เป็นปัจจัยแก่จิตต-
+<span class="LineNumber"> 018 </span>สังสัฏฐสมุฏฐานธรรม  และธรรมที่ไม่ใช่จิตตสังสัฏฐสมุฏฐานธรรม
+<span class="LineNumber"> 019 </span>ด้วยอำนาจของอัตถิปัจจัย</B>   เหมือนกับปฏิจจวาระ.

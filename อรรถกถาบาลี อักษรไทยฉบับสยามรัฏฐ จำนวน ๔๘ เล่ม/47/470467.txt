@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺมปฺปธานวิภงฺคนิทฺเทโส หน้า 467
+
+<span class="LineNumber"> 002 </span>เอวมยํ  สติปฏฺ€านวิภงฺโคปิ เตปริวฏฺฏํ นีหริตฺวาว(๑) ภาเชตฺวา
+<span class="LineNumber"> 003 </span>ทสฺสิโตติ ฯ  
+<span class="LineNumber"> 004 </span>			สติปฏฺ€านวิภงฺคนิทฺเทโส ฯ 
+<span class="LineNumber"> 005 </span>	อิทานิ  ตทนนฺตเร  สมฺมปฺปธานวิภงฺเค  จตฺตาโรติ  คณน-
+<span class="LineNumber"> 006 </span>ปริจฺเฉโท  เตน  น  ตโต  เหฏฺ€า  น  อุทฺธนฺติ  สมฺมปฺปธาน-
+<span class="LineNumber"> 007 </span>ปริจฺเฉทํ  ทีเปติ ฯ 
+<span class="LineNumber"> 008 </span>	สมฺมปฺปธานาติ  การณปฺปธานา  อุปายปฺปธานา  โยนิโส-
+<span class="LineNumber"> 009 </span>ปธานา ฯ
+<span class="LineNumber"> 010 </span>	อิธ  ภิกฺขูติ  อิมสฺมึ  สาสเน  ปฏิปนฺนโก  ภิกฺขุ ฯ 
+<span class="LineNumber"> 011 </span>	อนุปฺปนฺนานนฺติ  อนิพฺพตฺตานํ ฯ  
+<span class="LineNumber"> 012 </span>	ปาปกานนฺติ  ลามกานํ ฯ  
+<span class="LineNumber"> 013 </span>	อกุสลานํ  ธมฺมานนฺติ  อโกสลฺลสมฺภูตานํ ธมฺมานํ ฯ
+<span class="LineNumber"> 014 </span>	อนุปฺปาทายาติ น อุปฺปาทนตฺถาย ฯ  
+<span class="LineNumber"> 015 </span>	ฉนฺทํ  ชเนตีติ  กตฺตุกมฺยตาสงฺขาตํ  กุสลจฺฉนฺทํ  ชเนติ 
+<span class="LineNumber"> 016 </span>อุปฺปาเทติ ฯ
+<span class="LineNumber"> 017 </span>	วายมตีติ  ปโยคํ  ปรกฺกมํ  กโรติ ฯ
+<span class="LineNumber"> 018 </span>	วิริยํ  อารภตีติ  กายิกเจตสิกวิริยํ (๒) กโรติ ฯ 
+<span class="LineNumber"> 019 </span>	ปฏิปาฏิยา  เตเนว  สหชาเตน(๓)  วิริเยน  จิตฺตํ 
+<span class="LineNumber"> 020 </span>อุกฺขิปติ ฯ
+<span class="LineNumber"> 021 </span># ๑. ม. นีหริตฺวา ฯ  ๒. ม. กายิกเจตสิกํ วีริยํ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. สหชาตวีริเยน ฯ 

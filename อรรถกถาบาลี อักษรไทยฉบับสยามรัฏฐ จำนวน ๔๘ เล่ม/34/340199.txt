@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  34  กุมฺภชาตกํ  หน้า  199
+
+<span class="LineNumber"> 002 </span>		โส ฉินฺนวาตํ กมสิ อฆมฺหิ  
+<span class="LineNumber"> 003 </span>		เวหาสยํ คจฺฉสิ ติฏฺ€สิ จ  
+<span class="LineNumber"> 004 </span>		อิทฺธี นุ เต วตฺถุกตา สุภาวิตา  
+<span class="LineNumber"> 005 </span>		อนทฺธคูนมสิ เทวตานํ ฯ  
+<span class="LineNumber"> 006 </span>		เวหาสยํ กมมาคมฺม ติฏฺ€สิ  
+<span class="LineNumber"> 007 </span>		กุมฺภํ กิณาถาติ ยเมตมตฺถํ  
+<span class="LineNumber"> 008 </span>		โก วา ตุวํ กิสฺส วตาย(๑) กุมฺโภ  
+<span class="LineNumber"> 009 </span>		อกฺขาหิ เม พฺราหฺมณ เอตมตฺถนฺติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  โก  ปาตุราสีติ  กุโต ปาตุภูโตสิ กุโต  อาคโตสีติ  อตฺโถ ฯ 
+<span class="LineNumber"> 011 </span>ติทิวา  นภมฺหีติ  กึ  ตาวตึสภวนา  อาคนฺตฺวา  อิธ  นภมฺหิ  อากาเส  
+<span class="LineNumber"> 012 </span>ปากโฏ  ชาโตสีติ  ปุจฺฉติ ฯ  สํวรินฺติ  รตฺตึ ฯ  สเตริตาติ  
+<span class="LineNumber"> 013 </span>เอวํนามกา ฯ  โสติ  โส  ตฺวํ ฯ  ฉินฺนวาตนฺติ  วลาหโก 
+<span class="LineNumber"> 014 </span>สีตาวตฺเตน วาเตน  กมติ  ตสฺส ปน  โสปิ วาโต นตฺถิ เตน เอวมาห ฯ
+<span class="LineNumber"> 015 </span>กมสีติ  ปวตฺตสิ ฯ  อฆมฺหีติ  อปฺปฏิเฆ  อากาเส ฯ  วตฺถุกตาติ  
+<span class="LineNumber"> 016 </span>วตฺถุ  วิย  ปติฏฺ€า  วิย  กตา ฯ  อนทฺธคูนมสิ  เทวตานนฺติ  ยาว  
+<span class="LineNumber"> 017 </span>ปทสา  อทฺธานํ  อคมเนน  อนทฺธคูนํ  เทวตานํ  อิทฺธิ  สา  อสิ  ตว  
+<span class="LineNumber"> 018 </span>สุภาวิตาติ  ปุจฺฉติ ฯ  เวหาสยํ  กมมาคมฺมาติ  อากาเส  ปวตฺตํ  
+<span class="LineNumber"> 019 </span>ปทวีติหารํ  ปฏิจฺจ  นิสฺสาย  ติฏฺ€สิ ฯ  อิมสฺส  โก  วา  ตุวนฺติ  
+<span class="LineNumber"> 020 </span>อิมินา  สมฺพนฺโธ ฯ  เอวํ  ติฏฺ€มาโน  โก  นาม  ตฺวนฺติ  อตฺโถ ฯ  
+<span class="LineNumber"> 021 </span>ยเมตมตฺถนฺติ  ยํ  เอตํ  วทสิ ฯ  อิมสฺส  กิสฺส  วตายนฺติ  อิมินา  
+<span class="LineNumber"> 022 </span># ๑. ม. กิสฺส วา ตาย ฯ

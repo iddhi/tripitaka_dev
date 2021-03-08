@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                  <H1>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ติกมูลกะ - กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ  ทิฏฐา-
+<span class="LineNumber"> 003 </span>                นุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๒๒๙]   กามราคานุสัย   ปฏิฆานุสัย  และมานานุสัย  นอน-
+<span class="LineNumber"> 005 </span>เนื่องอยู่แก่บุคคลใด,   ทิฏฐานุสัย   ฯ ล ฯ   วิจิกิจฉานุสัย   ก็นอนเนื่อง
+<span class="LineNumber"> 006 </span>อยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         กามราคานุสัย   ปฏิฆานุสัย    และมานานุสัย   นอนเนื่องอยู่แก่
+<span class="LineNumber"> 008 </span>บุคคล ๒ จำพวก    แต่วิจิกิจฉานุสัย    ไม่ใช่นอนเนื่องอยู่แก่บุคคล ๒
+<span class="LineNumber"> 009 </span>จำพวกเหล่านั้น   กามราคานุสัย  ปฏิฆานุสัย  มานานุสัย  และวิจิกิจฉา-
+<span class="LineNumber"> 010 </span>นุสัย   ก็นอนเนื่องอยู่แก่ปุถุชน.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า   วิจิกิจฉานุสัย   นอนเนื่องอยู่แก่บุคคลใด   กามราคา-
+<span class="LineNumber"> 012 </span>นุสัย  ปฏิฆานุสัย และมานานุสัย ก็นอนเนื่องอยู่แก่บุคคลนั้น ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span> <I>จบ กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ  ทิฏฐานุสยาทิมูลี</I>
+
+<span class="LineNumber"> 015 </span>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ  ภวราคานุสยาทิมูลี :-
+<span class="LineNumber"> 016 </span>         กามราคานุสัย   ปฏิฆานุสัย   และมานานุสัย    นอนเนื่องอยู่แก่
+<span class="LineNumber"> 017 </span>บุคคลใด,   ภวราคานุสัย   ฯ ล ฯ   อวิชชานุสัย  ก็นอนเนื่องอยู่แก่บุคคล
+<span class="LineNumber"> 018 </span>นั้น  ใช่ไหม ?
+<span class="LineNumber"> 019 </span>         ใช่.

@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                   ๒๑.  <B>อนิทัสสนอัปปฏิฆธรรม   อาศัยธรรมที่ไม่ใช่อนิ-  
+<span class="LineNumber"> 002 </span>ทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๗ วาระ. 
+<span class="LineNumber"> 003 </span>                   ๒๘.  <B>อนิทัสสนอัปปฏิฆธรรม    อาศัยธรรมที่ไม่ใช่อนิ-
+<span class="LineNumber"> 004 </span>ทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๗ วาระ.
+
+<span class="LineNumber"> 005 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>           [๕๖]  ในเหตุปัจจัย  มี ๓๕  วาระ  ฯลฯ
+<span class="LineNumber"> 007 </span>           ปัญหาวาระพึงให้พิสดาร.
+<span class="LineNumber"> 008 </span>                            <I>ปัจจนียานุโลมติกปัฏฐาน  จบ</I>
+<span class="LineNumber"> 009 </span>                        <I>นสนิทัสสนติกสนิทัสสนติกะ  จบ</I>

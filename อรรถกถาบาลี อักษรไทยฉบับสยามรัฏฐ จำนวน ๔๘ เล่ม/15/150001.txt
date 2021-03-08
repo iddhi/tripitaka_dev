@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๑๕  หน้า ๑
+
+<span class="LineNumber"> 002 </span>		มโนรถปูรณี นาม องฺคุตฺตรนิกายฏฺ€กถา   
+<span class="LineNumber"> 003 </span>				ปฺจกนิปาตวณฺณนา  
+<span class="LineNumber"> 004 </span>				ป€มปณฺณาสกวณฺณนา   
+<span class="LineNumber"> 005 </span>				เสขพลวคฺควณฺณนา  
+<span class="LineNumber"> 006 </span>	ปฺจกนิปาตสฺส  ป€เม  สตฺตนฺนํ เสขานํ(๑) พลานีติ 
+<span class="LineNumber"> 007 </span>เสกฺขพลานิ(๒) ฯ สทฺธาพลาทีสุ  อสฺสทฺธิเยน  (๓)  น  กมฺปตีติ  สทฺธา-
+<span class="LineNumber"> 008 </span>พลํ ฯ  อหิริเกน  (๔)  น  กมฺปตีติ  หิริพลํ ฯ อโนตฺตปฺเปน  (๕)  น  
+<span class="LineNumber"> 009 </span>กมฺปตีติ  โอตฺตปฺปพลํ ฯ  โกสชฺเชน  (๖)  น กมฺปตีติ วิริยพลํ ฯ 
+<span class="LineNumber"> 010 </span>อวิชฺชาย  น  กมฺปตีติ  ปฺาพลํ ฯ  ตสฺมาติ  ยสฺมา อิมานิ 
+<span class="LineNumber"> 011 </span>[๗] เสกฺขานํ  พลานิ ตสฺมา ฯ     
+<span class="LineNumber"> 012 </span>	ทุติเย  กายทุจฺจริเตนาติอาทีสุ  อุปโยคตฺเถ  กรณวจนํ ฯ
+<span class="LineNumber"> 013 </span>หิริยิตพฺพานิ กายทุจฺจริตาทีนิ  หิริยติ  ชิคุจฺฉตีติ  อตฺโถ ฯ  
+<span class="LineNumber"> 014 </span>โอตฺตปฺปนิทฺเทเส  เหตฺวตฺเถ กรณวจนํ กายทุจฺจริตาทีหิ 
+<span class="LineNumber"> 015 </span>โอตฺตปฺปสฺส เหตุภูเตหิ โอตฺตปฺปติ ภายตีติ อตฺโถ ฯ  อารทฺธ-
+<span class="LineNumber"> 016 </span>วิริโยติ  ปคฺคหิตวิริโย  อโนสกฺกิตมานโส ฯ  ปหานายาติ  
+<span class="LineNumber"> 017 </span>ปหานตฺถาย ฯ อุปสมฺปทายาติ  ปฏิลาภตฺถาย ฯ ถามวาติ 
+<span class="LineNumber"> 018 </span>วิริยถาเมน สมนฺนาคโตฯ  ทฬฺหปรกฺกโมติ  ถิรปรกฺกโม ฯ  
+<span class="LineNumber"> 019 </span>#๑. ม. เสขานํ ฯ เอวมุปริปิ ฯ  ๒. ม. เสขพลานิ ฯ  ๓. ม. อสฺสทฺธิเย ฯ
+<span class="LineNumber"> 020 </span>#๔. ม. อโตนฺตปฺเป ฯ ๖. ม. โกสชฺเช ฯ ๗. ม. เอตฺถนฺตเร สตฺตนฺนนฺติ ทิสฺสติ ฯ

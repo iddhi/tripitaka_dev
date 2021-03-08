@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>บรรดาสัตว์ที่มีคุณมีมนุษย์เป็นต้น     ปาณาติบาตนั้นชื่อว่ามีโทษน้อย    เพราะ
+<span class="LineNumber"> 002 </span>สัตว์มีคุณน้อย   ชื่อว่ามีโทษมากเพราะมีคุณมาก.    เมื่อสัตว์นั้นมีสรีระและคุณ
+<span class="LineNumber"> 003 </span>เท่ากัน    ก็พึงทราบว่า  ปาณาติบาตมีโทษน้อยเพราะความที่กิเลสทั้งหลาย  และ
+<span class="LineNumber"> 004 </span>ความพยายามอ่อน   ชื่อว่ามีโทษมากเพราะกิเลสและความพยายามกล้า.     องค์
+<span class="LineNumber"> 005 </span>(ส่วนประกอบ)   ของปาณาติบาตนั้น มี ๕ อย่าง  คือ 
+<span class="LineNumber"> 006 </span>                ๑.  <B>ปาโณ</B>                  (สัตว์มีชีวิต)
+<span class="LineNumber"> 007 </span>                ๒.  <B>ปาณสญฺิตา</B>      (รู้ว่าสัตว์มีชีวิต)
+<span class="LineNumber"> 008 </span>                ๓.  <B>วธกจิตฺตํ</B>             (มีจิตคิดฆ่า)
+<span class="LineNumber"> 009 </span>                ๔.  <B>อุปกฺกโม</B>             (มีความพยายาม)
+<span class="LineNumber"> 010 </span>                ๕.  <B>เตน   มรณํ</B>         (สัตว์ตายด้วยความพยายามนั้น)
+
+<span class="LineNumber"> 011 </span>         ปาณาติบาตนั้น    ประโยค   ๖  คือ
+<span class="LineNumber"> 012 </span>                <B>๑.  สาหัตถิกปโยคะ</B>
+<span class="LineNumber"> 013 </span>                <B>๒.  อาณัตติกปโยคะ</B>
+<span class="LineNumber"> 014 </span>                <B>๓.  นิสสัคคิยปโยคะ</B>
+<span class="LineNumber"> 015 </span>                <B>๔.  ถาวรปโยคะ</B>
+<span class="LineNumber"> 016 </span>                <B>๕.  วิชชามยปโยคะ</B>
+<span class="LineNumber"> 017 </span>                <B>๖.  อิทธิมยปโยคะ</B>
+<span class="LineNumber"> 018 </span>         ก็อรรถนี้ข้าพเจ้าให้พิสดารอยู่ย่อมจะชักช้าไป  เพราะฉะนั้น  ข้าพเจ้า
+<span class="LineNumber"> 019 </span>จักไม่ยังอรรถนั้น     และอรรถอื่นอย่างเดียวกันให้พิสดาร   แต่ผู้ต้องการอรรถ
+<span class="LineNumber"> 020 </span>พิสดารพึงตรวจดูอรรถกถาพระวินัยชื่อ  สมันตปาสาทิกา  แล้วถือเอาเถิด.

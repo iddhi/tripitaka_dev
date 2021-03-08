@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  26  มหากปฺปินตฺเถรคาถาวณฺณนา  หน้า  291  
+
+<span class="LineNumber"> 002 </span>		โอวาทกสฺส  ภิกฺขูนํ  		สาวกสฺส  กตาวิโน  (๑)  
+<span class="LineNumber"> 003 </span>		คุณํ  ปกาสยนฺตสฺส  		ตปฺปยนฺตสฺส  (๒)  เม  มนํ  
+<span class="LineNumber"> 004 </span>		สุตฺวา  ปตีโต (๓) สุมโน  	นิมนฺเตตฺวา  ตถาคตํ  
+<span class="LineNumber"> 005 </span>		สสิสฺสํ  โภชยิตฺวาน  		ตํ  €านมภิปตฺถยึ ฯ  
+<span class="LineNumber"> 006 </span>		ตทา  หํสสมภาโค  		หํสทุนฺทุภินิสฺสโน  (๔)  
+<span class="LineNumber"> 007 </span>		ปสฺสเถตํ  มหามตฺตํ  		วินิจฺฉยวิสารทํ ฯ  
+<span class="LineNumber"> 008 </span>		ปติตํ  ปาทมูเล  เม  		สมุคฺคตตนูรุหํ  (๕)  
+<span class="LineNumber"> 009 </span>		ชีมูตวณฺณํ  ปีณํสํ  (๖)  	ปสนฺนนยนานนํ ฯ  
+<span class="LineNumber"> 010 </span>		ปริวาเรน  มหตา  		ราชยุตฺตํ  มหายสํ  
+<span class="LineNumber"> 011 </span>		เอโส  กตาวิโน (๗)  €านํ  	ปตฺเถติ  มุทิตาสโย  (๘)  ฯ  
+<span class="LineNumber"> 012 </span>		อิมินา  ปณิปาเตน (๙)  		จาเคน  ปณิธีหิ  จ  
+<span class="LineNumber"> 013 </span>		กปฺปสตสหสฺสานิ  		นุปปชฺชติ  ทุคฺคตึ ฯ  
+<span class="LineNumber"> 014 </span>		เทเวสุ  เทวโสภคฺคํ  		มนุสฺเสสุ  มหนฺตตํ  
+<span class="LineNumber"> 015 </span>		อนุโภตฺวาน  เสเสน  		นิพฺพานํ  ปาปุณิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		สตสหสฺสิโต  กปฺเป  	โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 017 </span>		โคตโม  นาม  โคตฺเตน  	สตฺถา  โลเก  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>		ตสฺส  ธมฺเมสุ  ทายาโท  	โอรโส  ธมฺมนิมฺมิโต  
+<span class="LineNumber"> 019 </span>		กปฺปิโน  นาม  นาเมน  	เหสฺสติ  สตฺถุ  สาวโก ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. สตาวิโน  ฯ  ๒.  สฺยา.  หาสยนฺตสฺส  ฯ  ๓.  สฺยา.
+<span class="LineNumber"> 021 </span>#ปิติโต  ฯ  ๔.  ยุ  ...นีวโจ  ฯ  ๕.  สฺยา. สมุทธคฺคตนุรุหํ  ฯ  
+<span class="LineNumber"> 022 </span>#๖.  สฺยา. ชูมุตฺตวณฺณํ  รุจิรํ  ฯ  ๗.  สฺยา. กถาวิโน  ฯ  ๘.  สฺยา.
+<span class="LineNumber"> 023 </span>#มุทิตาย  โส  ฯ  ๙.  สฺยา. ปิณฺฑปาเตน  ฯ  

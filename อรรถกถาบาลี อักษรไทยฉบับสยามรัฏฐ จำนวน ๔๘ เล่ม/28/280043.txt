@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 43
+
+<span class="LineNumber"> 002 </span>อุตฺตรึปิ  อุปธารยโต  สตฺตมํ  สจฺจปารมึ  ทิสฺวา  เอตทโหสิ  
+<span class="LineNumber"> 003 </span>สุเมธปณฺฑิต  ตฺวํ  อิโต  ปฏฺ€าย  สจฺจปารมึปิ  ปูเรยฺยาสิ  อสนิยา  
+<span class="LineNumber"> 004 </span>มตฺถเก  ปตมานายปิ  ธนาทีนํ  วเสน(๑)  สมฺปชานมุสาวาทํ  
+<span class="LineNumber"> 005 </span>นาม  มา  อกาสิ(๒)  ยถา  หิ  โอสธิตารกา  นาม  สพฺพอุตูสุ  
+<span class="LineNumber"> 006 </span>อตฺตโน  คมนวีถึ  อวิชหิตฺวา(๓)  อฺาย  วีถิยา  น  คจฺฉติ  
+<span class="LineNumber"> 007 </span>สกวีถิยาว  คจฺฉติ  เอวเมว  ตฺวํปิ  สจฺจํ  อปฺปหาย(๔)  มุสาวาทํ  
+<span class="LineNumber"> 008 </span>นาม  อกโรนฺโตเยว  พุทฺโธ  ภวิสฺสสิติ  สตฺตมํ  สจฺจปารมึ  
+<span class="LineNumber"> 009 </span>ทฬฺหํ  กตฺวา  อธิฏฺ€าสิ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 010 </span>	น เหเต เอตฺตกาเยว	พุทฺธธมฺมา ภวิสฺสเร  
+<span class="LineNumber"> 011 </span>	อฺเปิ วิจินิสฺสามิ		เย ธมฺมา โพธิปาจนา ฯ  
+<span class="LineNumber"> 012 </span>	วิจินนฺโต ตทาทกฺขึ		สตฺตมํ สจฺจปารมึ  
+<span class="LineNumber"> 013 </span>	ปุพฺพเกหิ มเหสีหิ		อาเสวิตนิเสวิตํ ฯ  
+<span class="LineNumber"> 014 </span>	อิมํ ตฺวํ สตฺตมํ ตาว		ทฬฺหํ กตฺวา สมาทิย  
+<span class="LineNumber"> 015 </span>	ตตฺถ อเทฺวชฺฌวจโน		สมฺโพธึ ปาปุณิสฺสสิ ฯ  
+<span class="LineNumber"> 016 </span>	ยถาปิ โอสธี นาม		ตุลาภูตา สเทวเก  
+<span class="LineNumber"> 017 </span>	สมเย อุตุวสฺเส วา		น โวกฺกมติ วีถิโต  
+<span class="LineNumber"> 018 </span>	ตเถว ตฺวํปิ สจฺเจสุ		มา โวกฺกมสิ วีถิโต  
+<span class="LineNumber"> 019 </span>	สจฺจปารมิตํ คนฺตฺวา		สมฺโพธึ ปาปุณิสฺสสีติ ฯา  
+<span class="LineNumber"> 020 </span>	อถสฺส  น  เอตฺตเกเหว  พุทฺธการกธมฺเมหิ  ภวิตพฺพนฺติ  
+<span class="LineNumber"> 021 </span># ๑. ม.ธนาทีนํ อตฺถาย ฉนฺทาทิวเสน ฯ 
+<span class="LineNumber"> 022 </span># ๒. สี. มา อภาสิ ฯ ๓. ม. ชหิตฺวา ฯ  ๔. ม. ปหาย ฯ 

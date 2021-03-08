@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>   
+<span class="LineNumber"> 002 </span>           [๙๕๗]  ในเหตุปัจจัย มี  ๕  วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                  <H2>สาสวโนอาสวบท</H2>  
+<span class="LineNumber"> 004 </span>           [๙๕๘]  <B>ธรรมที่ไม่ใช่อนาสวธรรม   และไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 005 </span>อาสวธรรม  ที่ไม่ใช่นเหตุธรรม  อาศัยธรรมที่เป็นสาสวะ แต่ไม่ใช่
+<span class="LineNumber"> 006 </span>อาสวธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                                 <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 009 </span>           [๙๕๙]  ในเหตุปัจจัย มี ๕ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>            <I>เหตุทุกอาสวสาสวทุกนเหตุทุกนอาสวสาสวทุกะ จบ</I>

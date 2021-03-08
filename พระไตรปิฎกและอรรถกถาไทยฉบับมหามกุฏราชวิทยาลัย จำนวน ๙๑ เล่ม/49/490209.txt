@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			<H1>๗.  ธนปาลเปตวัตถุ</H1>  
+
+<span class="LineNumber"> 002 </span>                      <H2>ว่าด้วยเปรตหิว  ๕๕  ปี</H2>
+
+<span class="LineNumber"> 003 </span>          	พวกพ่อค้าถามเปรตตนหนึ่งว่า
+<span class="LineNumber"> 004 </span>           <B>[๑๐๔]  	ท่านเปลือยกาย   มีรูปร่างน่าเกลียด     
+<span class="LineNumber"> 005 </span>     		ผอม    สะพรั่งไปด้วยเส้นเอ็น    เห็นกระดูกซี่โครง
+<span class="LineNumber"> 006 </span>      		แน่ะเพื่อนยาก  ท่านเป็นใครหนอ.</B>
+<span class="LineNumber"> 007 </span>         เปรตนั้นตอบว่า
+<span class="LineNumber"> 008 </span>               		<B>ข้าแต่ท่านผู้เจริญทั้งหลาย     ข้าพเจ้าเป็น
+<span class="LineNumber"> 009 </span>     		เปรต  ทุกข์ยาก  เกิดอยู่ในยมโลก  ได้ทำกรรมอัน
+<span class="LineNumber"> 010 </span>     		ลามกไว้ จึงจากโลกนี้ไปสู่เปตโลก.</B>
+<span class="LineNumber"> 011 </span>          พวกพ่อค้าถามว่า
+<span class="LineNumber"> 012 </span>                	<B>ท่านทำกรรมชั่วอะไรไว้ด้วยกายวาจาใจ
+<span class="LineNumber"> 013 </span>      		หรือ  เพราะวิบากแห่งอะไร  ท่านจึงจากโลกนี้ไป
+<span class="LineNumber"> 014 </span>     		สู่เปตโลก.</B>
+<span class="LineNumber"> 015 </span>          เปรตนั้นตอบว่า
+<span class="LineNumber"> 016 </span>              		<B>มีพระนครของพระเจ้าทสันนราช   ปรากฏ 
+<span class="LineNumber"> 017 </span>      		นานว่า  เอรกัจฉะ  เมื่อก่อนข้าพเจ้าเป็นเศรษฐีอยู่
+<span class="LineNumber"> 018 </span>     		ในนครนั้น   ประชาชนเรียกข้าพเจ้าว่า    ธนปาล-
+<span class="LineNumber"> 019 </span>       		เศรษฐี   ข้าพเจ้ามีเงิน  ๘๐  เล่มเกวียน  ทองคำ แก้ว-</B>

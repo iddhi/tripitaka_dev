@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  วงฺคีสตฺเถรคาถาวณฺณนา  หน้า  821  
+
+<span class="LineNumber"> 002 </span>	วิราคสํหิตํ  (๑)  วากฺยํ  		กตฺวา  ทุทฺทสมุตฺตมํ  
+<span class="LineNumber"> 003 </span>	วิจิตฺตปฏิภาเณหิ  			โตสิโต  เตน  ตาทินา ฯ  
+<span class="LineNumber"> 004 </span>	นิปจฺจ  สิรสา  ปาเท  		ปพฺพาเชหีติ  มํ  พฺรวิ  (๒)  
+<span class="LineNumber"> 005 </span>	ตโต  มํ  ส  มหาปฺโ  		พุทฺธเสฏฺ€มุปานยิ ฯ  
+<span class="LineNumber"> 006 </span>	นิปจฺจ  สิรสา  ปาเท  		นิสีทึ  สตฺถุ  สนฺติเก  
+<span class="LineNumber"> 007 </span>	มมาห  วทตํ  เสฏฺโ€  		กจฺจิ  วงฺคีส  ชานาสิ  (๓)  ฯ  
+<span class="LineNumber"> 008 </span>	กิฺจิ  สิปฺปนฺติ  ตสฺสาหํ  	ชานามีติ  จ  อพฺรวึ  
+<span class="LineNumber"> 009 </span>	มตสีสํ  วนจฺฉุทฺธํ  			อปิ  พารสวสฺสิกํ  (๔)  
+<span class="LineNumber"> 010 </span>	ตว  วิชฺชาวิเสเสน  			สเจ  สกฺโกสิ  วาจย ฯ  
+<span class="LineNumber"> 011 </span>	อาโมติ  (๕)  เม  ปฏิฺาเต  		ตีณิ  สีสานิ  ทสฺสยิ  
+<span class="LineNumber"> 012 </span>	อโถ  นิรยเทเวสุ  (๖)  		อุปปนฺเน  อวาจยึ ฯ  
+<span class="LineNumber"> 013 </span>	ตทา  ขีณาสวสฺเสว  (๗)		สีสํ  ทสฺเสสิ  นายโก  
+<span class="LineNumber"> 014 </span>	ตโตหํ  วิหตารมฺโภ  (๘)		ปพฺพชฺชํ  สมยาจิสํ ฯ  
+<span class="LineNumber"> 015 </span>	ปพฺพชิตฺวาน  สุคตํ  		สนฺถวามิ  ตหึ  (๙)  ตหึ  
+<span class="LineNumber"> 016 </span>	ตโต  มํ  กพฺพวิตฺโตสิ  		อุชฺฌายนฺติห  (๑๐)  ภิกฺขโว ฯ  
+<span class="LineNumber"> 017 </span>	ตโต  วีมํสนตฺถํ  เม  		อาห  พุทฺโธ  วินายโก  
+<span class="LineNumber"> 018 </span>	ตกฺกิตานํ  ปนิมา (๑๑)  คาถา  €านโส  ปฏิภนฺติ  ตํ  (๑๒)  ฯ  
+<span class="LineNumber"> 019 </span>#๑.  สฺยา. วิราคสหิตํ  ฯ  ๒.  สฺยา. อพฺรวึ  ฯ  ยุ. จ พฺรวึ  ฯ  ๓.  สฺยา.
+<span class="LineNumber"> 020 </span>#สจฺจํ  วงฺคีส  กจฺจิ  เต  ฯ  [  ]  สฺยามโปตฺถเก  นตฺถิ  ฯ  ๔.  สฺยา.
+<span class="LineNumber"> 021 </span>#มตํ  สีสํว  วิทิตํ  สุคติทุคคติมตํ  ฯ  ๕.  ยุ  อามาติ  ฯ  ๖.  สฺยา.
+<span class="LineNumber"> 022 </span>#อโถ  นิรยเทเวสุ  ฯ  ๗.  ยุ.  ปจฺเจกพุทฺธสฺส  ฯ  ๘.  สฺยา  วิหตาร
+<span class="LineNumber"> 023 </span>#มฺโภ  ฯ  ๙.  สฺยา  ยหํ  ฯ  ๑๐.  สฺยา  กวิจิตฺโตติ  อุชฌายนฺติ  หิ  ฯ	น  กพฺพวิตฺโตหํ  วีร  €านโส  ปฏิภนฺติ  มํ  
+<span class="LineNumber"> 024 </span>#๑๑.  สฺยา.  ตกฺกิตานํ  อิมา  ฯ  ๑๒.  สฺยา  วา  ฯ 	

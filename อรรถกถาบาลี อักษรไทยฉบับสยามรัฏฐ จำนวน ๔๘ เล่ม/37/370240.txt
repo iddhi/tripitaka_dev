@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  240
+
+<span class="LineNumber"> 002 </span>อฏฺ€งฺคิกมคฺเคน(๑)  วา  ปวตฺโต  สีลสฺโม  อุชุมคฺโค  นาม ฯ
+<span class="LineNumber"> 003 </span>โส  ตว  กายรถสฺส  มคฺโค  โหตุ ฯ  รูเปติ  เอเตสุ  มนาปิเยสุ 
+<span class="LineNumber"> 004 </span>รูปาทีสุ  กามคุเณสุ  นิมิตฺตํ  คเหตฺวา  ธาวนฺตสฺส  ตว  
+<span class="LineNumber"> 005 </span>กายรถสฺส  อุปฺปถํ  ปฏิปนฺนสฺส  ราชรถสฺส  สินฺธเว  อาโกเฏตฺวา  
+<span class="LineNumber"> 006 </span>นิวารณปโตทลฏฺ€ี(๒)  วิย  ปฺา  อาโกฏนี  โหตุ ฯ  สา  หิ  นํ  
+<span class="LineNumber"> 007 </span>อุปฺปถคมนโต  นิวาเรตฺวา  อุชุํ  สุจริตมคฺคํ  อาโรเปสฺสติ ฯ 
+<span class="LineNumber"> 008 </span>ตตฺถ  อตฺตาวาตี  ตสฺมึ  ปน  ตว  กายรเถ  อฺโ  สารถิ  
+<span class="LineNumber"> 009 </span>นาม  นตฺถิ  ตว  อตฺตาว  สารถิ(๓) ฯ  สเจ  เอเตน  ยาเนนาติ 
+<span class="LineNumber"> 010 </span>มหาราช  ยสฺเสตํ  เอวรูปํ  ยานํ  สเจ [๔] เอเตน  ยาเนน 
+<span class="LineNumber"> 011 </span>สมจริยา  ทฬฺหา ธิตีติ  ยสฺส  สมจริยา  จ  ธิติ  จ  ทฬฺหา
+<span class="LineNumber"> 012 </span>โหติ  ถิรา  โส  เอเตน ยาเนน ยสฺมา  เอส  รโถ
+<span class="LineNumber"> 013 </span>สพฺพกามทุโห  ราช  ยถาปตฺถิเต  สพฺพกาเม เทติ ตสฺมา น  
+<span class="LineNumber"> 014 </span>ชาตุ  นิรยํ  วเชติ(๕)  เอกํเสน  ตํ  ธาเรหิ  เอวรูเปน  ยาเนน
+<span class="LineNumber"> 015 </span>นิรยํ น  คจฺฉสิ ฯ  อิติ  โข  มหาราช  ยํ  มํ  อวจ  อาจิกฺข
+<span class="LineNumber"> 016 </span>เม  นารท  วิสุทฺธิมคฺคํ(๖)  ยถา  อหํ  โน  นิรยํ  ปเตยฺยนฺติ 
+<span class="LineNumber"> 017 </span>อยนฺเต  โส  มยา  อเนกปริยาเยน อกฺขาโตติ ฯ  
+<span class="LineNumber"> 018 </span>	เอวมสฺส  ธมฺมํ  เทเสตฺวา  มิจฺฉาทิฏฺ€ึ  โอหาเรตฺวา(๗)  สีเล  
+<span class="LineNumber"> 019 </span># ๑. ม. อฏฺ€งฺคิกมคฺควเสน ฯ  ๒. ม. นนิวารณปโตทยฏฺ€ิ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. สารถิ โหตุ ฯ  ๔. ม. เอตฺถนฺตเร อตฺถีติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. วเช ฯ  ๕. ม. วเช ฯ  ๖. ม. สุทฺธิมคฺคํ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. ชหาเปตฺวา ฯ 

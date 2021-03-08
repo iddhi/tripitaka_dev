@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         ในอสัญญสัตตภูมิ  รูปขันธ์กำลังเกิดในภูมินั้น   แต่เวทนาขันธ์ 
+<span class="LineNumber"> 002 </span>ไม่ใช่กำลังดับในภูมินั้น,    ในปัญจโวการภูมิ    รูปขันธ์กำลังเกิด     และ
+<span class="LineNumber"> 003 </span>เวทนาขันธ์ก็กำลังดับในภูมินั้น.
+<span class="LineNumber"> 004 </span>         ก็หรือว่า    เวทนาขันธ์กำลังดับในภูมิใด,       รูปขันธ์ก็กำลังเกิด
+<span class="LineNumber"> 005 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ในอรูปภูมิ    เวทนาขันธ์กำลังดับในภูมินั้น    แต่รูปขันธ์ไม่ใช่
+<span class="LineNumber"> 007 </span>กำลังเกิดในภูมินั้น,    ในปัญจโวการภูมิ     เวทนาขันธ์กำลังดับ    และ
+<span class="LineNumber"> 008 </span>รูปขันธ์ก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 009 </span>                       <I>จบ  รูปขันธมูละ   เวทนาขันธมูลี</I>
+<span class="LineNumber"> 010 </span>                                     <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 011 </span>                                     <H1>เวทนาขันธมูล</H1>
+<span class="LineNumber"> 012 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๒๒๓]   เวทนาขันธ์กำลังเกิดในภูมิใด,    สัญญาขันธ์ก็กำลัง
+<span class="LineNumber"> 014 </span>ดับในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.

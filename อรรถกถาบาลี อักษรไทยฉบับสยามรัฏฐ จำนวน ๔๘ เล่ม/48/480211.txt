@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  ปุคฺคลกถาวณฺณนา  หน้า 211
+
+<span class="LineNumber"> 002 </span>	กตฺตา  กาเรตา  วิปากปฏิสํเวทีติอาทิ  โวมิสฺสกนยวเสน 
+<span class="LineNumber"> 003 </span>อารทฺธํ ฯ  ตตฺถ  โส  กโรตีติ  ยํ  ตฺวํ  กตฺตาติ  จ  ปฏิสํเวทีติ 
+<span class="LineNumber"> 004 </span>จ  วเทสิ กึ โสเยว กโรติ โส ปฏิสํเวเทติ ฯ อยํ อนุโยโค
+<span class="LineNumber"> 005 </span>สกวาทิสฺส สุตฺตวิโรธภเยน ปฏิกฺเขโป ปรวาทิสฺส ฯ 
+<span class="LineNumber"> 006 </span>	ปุน  ปุฏฺโ€  อิธ  นนฺทติ  เปจฺจ  นนฺทตีติอาทิสุตฺตวเสน  (๑) 
+<span class="LineNumber"> 007 </span>ปฏิชานาติ ฯ (๒) อถสฺส วจโนกาสํ ปฏิพาหนฺโต สกวาที สยํกตํ
+<span class="LineNumber"> 008 </span>สุขทุกฺขนฺติ อาห ฯ 
+<span class="LineNumber"> 009 </span>	ตตฺถ  อฺโ  กโรตีติ  การกเวทกานํ  อฺตฺตปุจฺฉาวเสน
+<span class="LineNumber"> 010 </span>วุตฺตํ ฯฉ  ตโต  ปรวาที  สุตฺตวิโรธภเยน  วจโนกาสํ  (๓) ปฏิกฺขิปิตฺวา
+<span class="LineNumber"> 011 </span>ปุน ปุฏฺโ€ มนุสฺสภูโต กตฺวา  เทวภูโต  ปฏิสํเวเทตีติ  มฺมาโน
+<span class="LineNumber"> 012 </span>ปฏิชานาติ ฯ  เอวํวาทิโน  ปน  ปรํกตํ  สุขทุกฺขํ อาปชฺชตีติ
+<span class="LineNumber"> 013 </span>ตสฺส วเสน ปุฏฺโ€ ปุน ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 014 </span>	โส  จ  อฺโ  จาติ  การกเวทกานํ  เอกตฺตอฺตฺตปุจฺฉา-
+<span class="LineNumber"> 015 </span>วเสน  วุตฺตํ ฯ  ตโต  ปรวาที  สุตฺตวิโรธภเยเนว  ปฏิกฺขิปิตฺวา
+<span class="LineNumber"> 016 </span>ปุน ปุฏฺโ€ ปุริเม เทฺวปิ นเย  เอกโต  กตฺวา  ปฏิชานาติ ฯ 
+<span class="LineNumber"> 017 </span>เอวํวาทิโน  ปน  สยํกตฺจ  ปรํกตฺจ  สุขทุกฺขํ  อาปชฺชตีติ
+<span class="LineNumber"> 018 </span>ตสฺส วเสน ปุฏฺโ€ ปุน ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 019 </span>	เนว  โส  กโรตีติ  การกเวทกานํ  เอกตฺตอฺตฺต-
+<span class="LineNumber"> 020 </span>ปฏิกฺเขปวเสน  วุตฺตํ ฯ  ตโต  ปรวาที  สุตฺตวิโรธวเสเนว
+<span class="LineNumber"> 021 </span># ๑. ขุ. ธ. ๒๕/๑๑/๑๗ ฯ  ๒. ม. ปฏิฺา ตสฺเสว ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. อยํ ปาโ€ นตฺถิ ฯ

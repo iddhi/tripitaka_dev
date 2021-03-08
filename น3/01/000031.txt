@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                           ๑.  วิมุตติ  ความหลุดพ้น 
+<span class="LineNumber"> 002 </span>                                       <B>อุทเทส</B>
+<span class="LineNumber"> 003 </span>                            <B>๑.  วิราคา  วิมุจฺจติ.</B>
+<span class="LineNumber"> 004 </span>                      เพราะสิ้นกำหนัด  ย่อมหลุดพ้น.
+<span class="LineNumber"> 005 </span>                                 อนัตตลักขณสูตร.<sup>๑</sup>
+<span class="LineNumber"> 006 </span>	<B>๒.  กามาสวาปิ  จิตฺตํ  วิมุจฺจิตฺถ  ภวาสวาปิ  จิตฺตํ วิมุจฺจิตฺถ
+<span class="LineNumber"> 007 </span>อวิชฺชาสวาปิ  จิตฺตํ  วิมุจฺจิตฺถ.</B>
+<span class="LineNumber"> 008 </span>	จิตหลุดพ้นแล้ว  แม้จากอาสวะเนื่องด้วยกาม  จิตหลุดพ้น
+<span class="LineNumber"> 009 </span>แล้ว แม้จากอาสวะเนื่องด้วยภพ  จิตหลุดพ้นแล้ว  แม้จากอาสวะ
+<span class="LineNumber"> 010 </span>เนื่องด้วยอวิชชา.
+<span class="LineNumber"> 011 </span>                                มหาวิภงฺค  วินย.<SUP>๒</SUP>
+<span class="LineNumber"> 012 </span>     	<B>๓.  วิมุตฺตสสฺมึ  วิมุตฺตมิติ  าณํ  โหติ.</B>
+<span class="LineNumber"> 013 </span>	เมื่อหลุดพ้นแล้ว  ญาณว่าหลุดพ้นแล้ว  ย่อมมี.
+<span class="LineNumber"> 014 </span>                                อนัตตลักขณสูตร.<SUP>๓</SUP>
+<span class="LineNumber"> 015 </span>                                <B>พรรณนาความ</B>
+<span class="LineNumber"> 016 </span>	สิ้นกำหนัดแล้ว  จิตย่อมหลุดพ้นจากอาสวะ  ๓ นั้น.  อาสวะ
+<span class="LineNumber"> 017 </span>นั้น  เป็นชื่อแห่งเมรัยก็มี  เช่น <B>"ผลาสโว"</B>   น้ำดองผลไม้  เป็นชื่อ
+<span class="LineNumber"> 018 </span>แห่งกิเลสก็มี  เช่น  <B>"กามาสโว"</B>  กิเลสเป็นเหตุใคร่  หรือกิเลส
+<span class="LineNumber"> 019 </span>เนื่องด้วยกาม  จึงนำความเข้าใจว่ากิเลสานุสัย คือกิเลสอันนอนตาม
+
+<span class='footnote'>๑-๓.  มหาวคฺค.  ป€ม.  ๔/๒๘. ๒.  มหาวิภงฺค.  ป€ม.  ๑/๙.</span>

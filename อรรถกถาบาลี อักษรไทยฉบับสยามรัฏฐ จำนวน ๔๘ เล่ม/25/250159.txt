@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ตติยวคฺเค นิโคฺรธตฺเถรคาถาวณฺณนา   หน้า 159
+		
+<span class="LineNumber"> 002 </span>		อโนกาสํ (๑) น ปสฺสามิ	ยนฺตํ (๒) ปุฺํ วิปจฺจติ 
+<span class="LineNumber"> 003 </span>		เทวโลเก มนุสฺเส วา	โอกาโสว น สมฺมติ ฯ  
+<span class="LineNumber"> 004 </span>		เทวโลเก วสนฺตสฺส	ปุฺกมฺมสมาหิโต(๓)  
+<span class="LineNumber"> 005 </span>		ยาวตา ปริสา (๔) ตสฺส	สาลจฺฉนฺนา ภวิสฺสติ ฯ  
+<span class="LineNumber"> 006 </span>		ตตฺถ ทิพฺเพหิ นจฺเจหิ	คีเตหิ วาทิเตหิ จ  
+<span class="LineNumber"> 007 </span>		รมิสฺสติ สทา สนฺโต	ปุฺกมฺมสมาหิโต ฯ  
+<span class="LineNumber"> 008 </span>		ยาวตา ปริสา ตสฺส	คนฺธคนฺธี (๕) ภวิสฺสติ  
+<span class="LineNumber"> 009 </span>		สาลสฺส ปุปฺผวสฺโส จ	ปวสฺสิสฺสติ(๖) ตาวเท ฯ  
+<span class="LineNumber"> 010 </span>		ตโต จุโตยํ มนุโช		มานุสํ อาคมิสฺสติ  
+<span class="LineNumber"> 011 </span>		อิธาปิ สาลจฺฉทนํ		สพฺพกาลํ ธริสฺสติ(๗) ฯ  
+<span class="LineNumber"> 012 </span>		อิธ นจฺจฺจ คีตฺจ	สมฺมตาฬสมาหิตํ  
+<span class="LineNumber"> 013 </span>		ปริวาเรสฺสนฺติ มํ นิจฺจํ	พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 014 </span>		อุคฺคจฺฉนฺเต จ สุริเย	สาลวสฺสมฺปวสฺสติ  
+<span class="LineNumber"> 015 </span>		ปุฺกมฺเมน สํยุตฺตํ	วสฺสติ  สพฺพกาลิกํ ฯ  
+<span class="LineNumber"> 016 </span>		อฏฺ€ารเส กปฺปสเต	โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 017 </span>		โคตโม นาม นาเมน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>		ตสฺส ธมฺเมสุ ทายาโท	โอรโส ธมฺมนิมฺมิโต  
+<span class="LineNumber"> 019 </span>		สพฺพาสเว ปริฺาย	นิพฺพายิสฺสตินาสโว ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. โอกาสหํ ฯ  ยุ. โปราณ. โอกาสาหํ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. ยตฺถ ฯ  ๓. สฺยา. ม. ปุฺกมฺมสมงฺคิโน ฯ 
+<span class="LineNumber"> 022 </span># ๔. สี. คนฺธคนฺธา ฯ  ๖. สฺยา. ม. ปวสฺสิสฺสติ ฯ 
+<span class="LineNumber"> 023 </span># ๗. ยุ. ธริยฺยติ ฯ 

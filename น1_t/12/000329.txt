@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                              คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.   ศีลข้อ  ๑  หมายความว่าอย่างไร  ?   การฆ่าสัตว์  การทำร้าย
+<span class="LineNumber"> 003 </span>               ร่างกายและการทรกรรม   ต่างกันอย่างไร  ?
+<span class="LineNumber"> 004 </span>	๒.   ศีลข้อ ๒  หมายความว่าอย่างไร  ?   โจรกรรม    อนุโลมโจร-
+<span class="LineNumber"> 005 </span>               กรรม    และฉายาโจรกรรม    อย่างไหนมีโทษถึงขาดศีล ?
+<span class="LineNumber"> 006 </span>               อย่างไหนมีโทษอย่างไร  ?
+<span class="LineNumber"> 007 </span> 	๓.   ชายร่วมประเวณีกับหญิงเช่นไรไม่ขาดศีลข้อ  ๓ ?    และหญิง
+<span class="LineNumber"> 008 </span>               ร่วมประเวณีกับชายโสด  จะมีโทษาอย่างไร ?
+<span class="LineNumber"> 009 </span>	๔.   พูดมุสา   กับ  ทำมุสา   ต่างกันอย่างไร  ?   มุสา   อนุโลมมุสา
+<span class="LineNumber"> 010 </span>               ปฏิสสะ   มีอธิบายอย่างไร ?
+<span class="LineNumber"> 011 </span>	๕.   คนเสียปกติ   ได้แก่คนเช่นไร ?   คนปกติดีกับคนปกติเสีย   ได้
+<span class="LineNumber"> 012 </span>               รับความสุขทุกข์ต่างกันอย่างไร  ?
+
+<span class="LineNumber"> 013 </span>					<B>คนมีศีล    ห้าข้อ   บริสุทธิ์
+<span class="LineNumber"> 014 </span>				เป็นมนุษย์   ดีเลิศ   งามเฉิดฉาย
+<span class="LineNumber"> 015 </span>				ย่อมมีสุข   ยั่งยืน   มิคืนคลาย
+<span class="LineNumber"> 016 </span>				ทรัพย์มากมาย   เกิดมี   บริบูรณ์.
+<span class="LineNumber"> 017 </span>					หากว่าทำ - สมาธิ    สติมั่น
+<span class="LineNumber"> 018 </span>				นิวรณ์ธรรม์   เงียบหาย    สลายสูญ
+<span class="LineNumber"> 019 </span>				ไปสวรรค์   สุขเสริม   ยิ่งเพิ่มพูน
+<span class="LineNumber"> 020 </span>			 						ศรี ฯ  นคร.</B>

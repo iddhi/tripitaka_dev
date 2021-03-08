@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>๑๗ วาระ   ในนิสสยปัจจัย   มี ๑๗ วาระ     ในอุปนิสสยปัจจัย    มี ๑๗ วาระ 
+<span class="LineNumber"> 002 </span>ในปุเรชาตปัจจัย   มี ๑๗ วาระ  ในอาเสวนปัจจัย มี ๑๗  วาระ  ในกัมมปัจจัย
+<span class="LineNumber"> 003 </span>มี ๑๗ วาระ   ในวิปากปัจจัย  มี ๑ วาระ   ในอาหารปัจจัย มี ๑๗ วาระ   ใน
+<span class="LineNumber"> 004 </span>อินทริยปัจจัย  มี  ๗ วาระ  ในฌานปัจจัย  มี ๑๗ วาระ  ในมัคคปัจจัย   มี
+<span class="LineNumber"> 005 </span>๑๗ วาระ  ในสัมปยุตตปัจจัย   มี ๑๗ วาระ  ในวิปปยุตตปัจจัย   มี ๑๗ วาระ
+<span class="LineNumber"> 006 </span>ในอัตถิปัจจัย  มี ๑๗ วาระ  ในนัตถิปัจจัย   มี ๑๗ วาระ   ในวิคตปัจจัย    มี
+<span class="LineNumber"> 007 </span>๑๗ วาระ  ในอวิคตปัจจัย   มี ๑๗ วาระ. 
+<span class="LineNumber"> 008 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 009 </span>                                              <I>อนุโลม  จบ</I>  
+
+<span class="LineNumber"> 010 </span>                                               <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 011 </span>                                             <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           [๘๓๗] ๑.  <B>เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 013 </span>อาศัยทัสสเนนปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา   อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 015 </span>วิจิกิจฉา.
+<span class="LineNumber"> 016 </span>           [๘๓๘] ๒.  <B>เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 017 </span>อาศัยภาวนายปหาตัพพเหตุกธรรม ฯลฯ</B>
+<span class="LineNumber"> 018 </span>           คือ  โมหะ  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 019 </span>อุทธัจจะ.

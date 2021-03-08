@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37    หน้า 168
+
+<span class="LineNumber"> 002 </span>		พฺรหฺมนารทชาตกํ  
+<span class="LineNumber"> 003 </span>	อหุ  ราชา  วิเทหานนฺติ  อิทํ  สตฺถา  ลฏฺ€ิวนุยฺยาเน 
+<span class="LineNumber"> 004 </span>วิหรนฺโต  อุรุเวลกสฺสปสฺส ทมนํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	ยทา  หิ  สตฺถา  ปวตฺติตปวรธมฺมจกฺโก  อุรุเวลกสฺสปาทโย
+<span class="LineNumber"> 006 </span>ตโย  ชฏิเล  ทเมตฺวา  มคธราชสฺส  ปฏิสฺสวํ  วิสชฺชาเปตุํ(๑)  
+<span class="LineNumber"> 007 </span>ปุราณชฏิลสหสฺส  ปริวุโต  ลฏฺ€ิวนุยฺยานํ  อคมาสิ ฯ  ตทา
+<span class="LineNumber"> 008 </span>ทฺวาทสนหุตาย  ปริสาย สทฺธึ  อาคนฺตฺวา  ทสพลํ  วนฺทิตฺวา
+<span class="LineNumber"> 009 </span>นิสินฺนสฺส  มคธรฺโ  ปริสพฺภนฺตเร(๒)  พฺราหฺมณคหปติกานํ 
+<span class="LineNumber"> 010 </span>ปริวิตกฺโก  อุทปาทิ  กินฺนุ  โข  อุรุเวลกสฺสโป  มหาสมเณ 
+<span class="LineNumber"> 011 </span>พฺรหฺมจริยํ  จรติ  อุทาหุ มหาสมโณ อุรุเวลกสฺสเป(๓) พฺรหฺมจริยํ  
+<span class="LineNumber"> 012 </span>จรตีติ ฯ  อถ [๔] ภควา  เตสํ[๕]  เจตสา  เจโตปริวิตกฺกมฺาย 
+<span class="LineNumber"> 013 </span>กสฺสปสฺส  มม สนฺติเก ปพฺพชิตภาวํ ชานาเปสฺสามีติ จินฺเตตวา
+<span class="LineNumber"> 014 </span>อิมํ คาถมาห  
+<span class="LineNumber"> 015 </span>		กิเมว ทิสฺวา อุรุเวลวาสิ  
+<span class="LineNumber"> 016 </span>		ปหาสิ อคฺคึ กีสโกวทาโน  
+<span class="LineNumber"> 017 </span>		ปุจฺฉามิ ตํ กสฺสป เอตมตฺถํ  
+<span class="LineNumber"> 018 </span>		กถํ ปหีนํ ตว อคฺคิหุตฺตนฺติ ฯ  
+<span class="LineNumber"> 019 </span>	เถโรปิ ภควโต อธิปฺปายํ วิทิตฺวา นิทานํ กเถตุกาโม อาห  
+<span class="LineNumber"> 020 </span># ๑. ม. โมเจตุํ ฯ  ๒. ม. ปริสนฺตเร ฯ  ๓. ม. อุรุเวลกสฺสเปติ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. เอตฺถนฺตเร โขสทฺโท อตฺถิ ฯ ๕. ม. เอตฺถนฺตเร 
+<span class="LineNumber"> 022 </span># ทฺวาทสนหุตานนฺติ ทิสฺสติ ฯ 

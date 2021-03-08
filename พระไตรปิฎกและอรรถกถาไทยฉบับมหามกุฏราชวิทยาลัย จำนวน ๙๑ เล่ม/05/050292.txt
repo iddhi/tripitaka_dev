@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 002 </span>                                       <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 003 </span>          [๒๖๗]  อุปสัมบันภิกษุณี     ภิกษุณีสำคัญว่าอุปสัมบันภิกษุณีแกล้ง
+<span class="LineNumber"> 004 </span>ก่อความไม่สำราญให้   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 005 </span>           อุปสัมบันภิกษุณี  ภิกษุณีสงสัย    แกล้งก่อความไม่สำราญให้    ต้อง
+<span class="LineNumber"> 006 </span>อาบัติปาจิตตีย์.
+<span class="LineNumber"> 007 </span>           อุปสัมบันภิกษุณี  ภิกษุณีสำคัญว่าอุปสัมบันภิกษุณี  แกล้งก่อความไม่
+<span class="LineNumber"> 008 </span>สำราญให้  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 009 </span>                                           <H2>ติกะทุกกฏ</H2>
+<span class="LineNumber"> 010 </span>          อนุปสัมบันภิกษุณี  ภิกษุณีสำคัญว่าอุปสัมบันภิกษุณี   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 011 </span>          อนุปสัมบันภิกษุณี  ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 012 </span>          อนุปสัมบันภิกษุณี    ภิกษุณีสำคัญว่าอนุปสัมบันภิกษุณี    ต้องอาบัติ
+<span class="LineNumber"> 013 </span>ทุกกฏ.                                                   
+
+<span class="LineNumber"> 014 </span>                                         <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 015 </span>             [๒๖๘]  ไม่ประสงค์จะก่อความไม่สำราญให้   ขอโอกาสแล้ว   จึงจงกรม
+<span class="LineNumber"> 016 </span>ก็ดี  ยืนก็ดี   นั่งก็ดี   สำเร็จการนอนก็ดี   บรรยายเองก็ดี   ให้ผู้อื่นบรรยายก็ดี
+<span class="LineNumber"> 017 </span>ท่องบ่นก็ดี   ในเบื้องหน้า  ๑  วิกลจริต ๑  อาทิกัมมิกา ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 018 </span>                                   <I>ตุวัฏฏวรรค  สิกขาบทที่  ๓  จบ</I>

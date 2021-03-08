@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                    			<H1>กุสลติกอุปาทาทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                	<H2>(๑.  กุสลติกะ  ๖๗.  อุปาทาทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                         	    <H1>อุปาทาบทปัญหาวาระ</H1>
+<span class="LineNumber"> 004 </span>                          	        <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 005 </span>                                     <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๗๑๔]  ๑.  อุปาทาธรรมที่เป็นอัพยากตะเป็นปัจจัยแก่อุปาทา-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของอาหารปัจจัย,  เป็นปัจจัย  ด้วย
+<span class="LineNumber"> 008 </span>อำนาจของอินทริยปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของอัตถิปัจจัย,  เป็น
+<span class="LineNumber"> 009 </span>ปัจจัย  ด้วยอำนาจของอวิคตปัจจัย.
+<span class="LineNumber"> 010 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>         	ในอาหารปัจจัย มี ๑ วาระ    ในอินทริยปัจจัย  มี ๑ วาระ   ในอัตถิ-
+<span class="LineNumber"> 012 </span>ปัจจัย มี ๑ วาระ  ในอวิคตปัจจัย  มี ๑ วาระ.
+ 
+<span class="LineNumber"> 013 </span>                     	 <H1>โนอุปาทาบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 014 </span>                                     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 015 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>		[๗๑๕]    ๑.  ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นกุศล  อาศัยธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่อุปาทาธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>                   	    ๔.  ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นอกุศล อาศัยธรรม
+<span class="LineNumber"> 019 </span>ที่ไม่ใช่อุปาทาธรรมที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓  วาระ.

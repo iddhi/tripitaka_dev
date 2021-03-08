@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  31  มหิสชาตกํ  หน้า  171 
+
+<span class="LineNumber"> 002 </span>เอตมตฺถํ  ปกาเสนฺตี  ปุริมา  เทฺว  คาถา  อโวจ  
+<span class="LineNumber"> 003 </span>	[๔๓๓]	กิมตฺถมภิสนฺธาย			ลหุจิตฺตสฺส ทุพฺภิโน  
+<span class="LineNumber"> 004 </span>			สพฺพกามทุหสฺเสว(๑)	อิมํ ทุกฺขํ ติติกฺขสิ  
+<span class="LineNumber"> 005 </span>	[๔๓๔]	สิงฺเคน นีหราเสตํ(๒)		ปทสาว(๓) อธิฏฺ€ห  
+<span class="LineNumber"> 006 </span>			ภิยฺโย พาลา ปกุฏฺเฏยฺยุํ (๔) โน จสฺส ปฏิเสธโกติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ    กิมตฺถมภิสนฺธายาติ    กินฺนุ  โข    การณํ 
+<span class="LineNumber"> 008 </span>ปฏิจฺจ  กึ  สมฺปสฺสมาโน ฯ  ทุพฺภิโนติ  มิตฺตทุพฺภิโน ฯ  
+<span class="LineNumber"> 009 </span>สพฺพกามทุหสฺเสวาติ  สพฺพกามททสฺส  สามิกสฺส  วิย ฯ  ติติกฺขสีติ 
+<span class="LineNumber"> 010 </span>อธิวาเสสิ ฯ  ปทสาว  อธิฏฺ€หาติ  ปาเทเนว  นํ  ติขิณขุรคฺเคน (๕) 
+<span class="LineNumber"> 011 </span>ยถา  เอตฺเถว  มรติ  เอวํ  อกฺกม ฯ  ภิยฺโย  พาลาติ  สเจ  
+<span class="LineNumber"> 012 </span>หิ  ปฏิเสธโก  น  ภเวยฺย  พาลา  อฺาณสตฺตา ปุนปฺปุนํ 
+<span class="LineNumber"> 013 </span>กุฏฺเฏยฺยุํ   ฆฏฺเฏยฺยุํ   วิเหเ€ยฺยุเมวาติ   ทีเปติ ฯ  
+<span class="LineNumber"> 014 </span>	ตํ  สุตฺวา  โพธิสตฺโต  รุกฺขเทวเต   สจาหํ  อิมินา 
+<span class="LineNumber"> 015 </span>ชาติโคตฺตวสฺสาทีหิ(๖)  อธิโก  สมาโน    อิมสฺส  โทสํ  น  
+<span class="LineNumber"> 016 </span>สหิสฺสามิ  กถํ  เม  มโนรโถ  นิปฺผตฺตึ  คมิสฺสติ  อยํ  ปน 
+<span class="LineNumber"> 017 </span>มํ  วิย  อฺมฺปิ  มฺมาโน  เอวํ  อนาจารํ  กริสฺสติ 
+<span class="LineNumber"> 018 </span>ตโต  เยสํ  จณฺฑมหิสานํ  เอส  เอวํ  กริสฺสติ  เตเยว  เอตํ  
+<span class="LineNumber"> 019 </span>วธิสฺสนฺติ  สา  เอตสฺส  อฺเหิ  มารณา  มยฺหํ  ทุกฺขโต  
+<span class="LineNumber"> 020 </span>#  ๑.  ม.  สพฺพหามททสฺเสว  ฯ  ๒.  ม.  นิหนาเหตํ  ฯ  ๓.  ม.  
+<span class="LineNumber"> 021 </span>#  ปทสา  จ  ฯ  ๔.  ม.  ปกุชฺเฌยฺยุํ  ฯ  ๕.  ม.  ติณฺหขรุคฺเคน  ฯ
+<span class="LineNumber"> 022 </span>#  ๖.  ม.  ชาติโคตฺตพลาทีหิ  ฯ

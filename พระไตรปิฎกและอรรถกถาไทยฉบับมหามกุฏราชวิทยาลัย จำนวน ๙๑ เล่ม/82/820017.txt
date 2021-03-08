@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>มูลมูลกนยะที่ ๔</H1>
+<span class="LineNumber"> 002 </span><H2>๑.  มูลยมกะ :-</H2>
+<span class="LineNumber"> 003 </span>         ธรรมเหล่าใดเหล่าหนึ่งที่เป็นนาม มีอยู่,  ธรรมเหล่านั้นทั้งหมด   
+<span class="LineNumber"> 004 </span>มีมูลที่เป็นนามมูล ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ก็หรือว่าธรรมเหล่าใด    มีมูลที่เป็นนามมูล   มีอยู่,    ธรรมเหล่า
+<span class="LineNumber"> 006 </span>นั้นทั้งหมด เป็นนาม ใช่ไหม ?
+<span class="LineNumber"> 007 </span><H2>๒.  เอกมูลยมกะ :-</H2>
+<span class="LineNumber"> 008 </span>         ธรรมเหล่าใดเหล่าหนึ่ง  ที่เป็นนาม   มีอยู่,    ธรรมเหล่านั้นทั้ง
+<span class="LineNumber"> 009 </span>หมด   มีมูลที่เรียกว่าเป็นมูลอันเดียวกันกับนามมูล ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ก็หรือว่าธรรมเหล่าใด        มีมูลที่เรียกว่าเป็นมูลอันเดียวกันกับ
+<span class="LineNumber"> 011 </span>นามมูล  มีอยู่,  ธรรมเหล่านั้นทั้งหมด  เป็นนาม  ใช่ไหม ?
+<span class="LineNumber"> 012 </span><H2>๓.  อัญญมัญญมูลยมกะ :-</H2>
+<span class="LineNumber"> 013 </span>         ธรรมเหล่าใดเหล่าหนึ่ง      มีมูลที่เรียกว่าเป็นมูลอันเดียวกันกับ
+<span class="LineNumber"> 014 </span>นามมูล    มีอยู่,     ธรรมเหล่านั้นทั้งหมด   มีมูลที่เรียกว่าเป็นมูลแก่กัน
+<span class="LineNumber"> 015 </span>และกันกับนามมูล ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ก็หรือว่าธรรมเหล่าใด     มีมูลที่เรียกว่าเป็นมูลแก่กันและกันกับ
+<span class="LineNumber"> 017 </span>นามมูล   มีอยู่,    ธรรมเหล่านั้นทั้งหมด   มีนาม  ใช่ไหม ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>สารัตถปกาสินี</H2> 
+
+<span class="LineNumber"> 002 </span>                   <H1>อรรถกถาสังยุตตนิกาย  นิทานวรรค</H1>
+<span class="LineNumber"> 003 </span>                          <H1>อภิสมยสังยุต  พุทธวรรคที่  ๑</H1>
+<span class="LineNumber"> 004 </span>                    <H1>อรรถกถาปฐมปฏิจจสมุปบาทสูตรที่ ๑<SUP>๑</SUP></H1>
+
+<span class="LineNumber"> 005 </span>         ขอนอบน้อมแด่<B>พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้า</B>พระ
+<span class="LineNumber"> 006 </span>องค์นั้น.
+<span class="LineNumber"> 007 </span>         <B>ปฏิจจสมุปบาทสูตร</B><SUP>๒</SUP>     พระสูตรแรกใน<B>นิทานวรรค</B>เริ่มต้นว่า
+<span class="LineNumber"> 008 </span><B>เอวมฺเม  สุตํ</B>  ข้าพเจ้าได้ฟังมาแล้วอย่างนี้.
+<span class="LineNumber"> 009 </span>         ในปฏิจจสมุปบาทสูตรนั้น  พรรณนาตามลำดับบทว่า  <B>ตตฺร  โข
+<span class="LineNumber"> 010 </span>ภควา  ภิกฺขู  อามนฺเตสิ</B>   ดังต่อไปนี้.
+<span class="LineNumber"> 011 </span>         บรรดาบทเหล่านั้น  บทว่า  <B>ตตฺร</B>  เป็นคำแสดงถึงเทศะ  สถาน
+<span class="LineNumber"> 012 </span>และกาลเวลา.
+<span class="LineNumber"> 013 </span>         จริงอยู่  คำว่า  <B>ตตฺร</B>  นั้น  ย่อมแสดง  (ความหมาย)  ว่าในสมัยที่
+<span class="LineNumber"> 014 </span><B>พระผู้มีพระภาคเจ้า</B>ประทับอยู่  และในพระเชตวันที่<B>พระผู้มีพระภาคเจ้า</B>
+<span class="LineNumber"> 015 </span>ประทับอยู่  หรือแสดงถึงเทศะ  และกาลที่สมควรแก่คำที่พระองค์ควรตรัส.
+<span class="LineNumber"> 016 </span>ด้วยว่า<B>พระผู้มีพระภาคเจ้า</B>ไม่ตรัสธรรมะ  ในเทศะและกาละที่ไม่ควร.
+<span class="LineNumber"> 017 </span>ก็ในเรื่องนี้มีคำว่า  <B>อกาโล  โข  ตาว  พาหิย</B>  เป็นข้อสาธก.  ศัพท์ว่า
+<span class="LineNumber"> 018 </span><B>โข</B>  เป็นนิบาต  ใช้ในความหมายว่า  สักว่าทำบทให้เต็มความหมายว่า
+<span class="LineNumber"> 019 </span>ห้ามความอื่น  หรือในความหมายถึงกาลเบื้องต้น.  คำว่า  <B>ภควา</B>  เป็น
+
+<span class='footnote'>๑-๒.  บาลีเป็น  เทศนาสูตร   </span>

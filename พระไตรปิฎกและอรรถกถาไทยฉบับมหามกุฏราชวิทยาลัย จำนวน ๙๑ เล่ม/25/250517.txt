@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>สักกปัญจกะที่   ๓</H1>
+ 
+<span class="LineNumber"> 002 </span>                                          <H1>๑.  ฆัตวาสูตร</H1>
+
+<span class="LineNumber"> 003 </span>                               <H1>ว่าด้วยผลการฆ่าความโกรธ</H1>
+
+<span class="LineNumber"> 004 </span>           [๙๔๓]  สมัยหนึ่ง พระผู้มีพระภาคเจ้าประทับอยู่ ณ พระวิหารเชตวัน
+<span class="LineNumber"> 005 </span>อารามของอนาถบิณฑิกเศรษฐี  กรุงสาวัตถี.
+<span class="LineNumber"> 006 </span>           ครั้งนั้นแล        ท้าวสักกะจอมเทพเสด็จเข้าไปเฝ้าพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 007 </span>ครั้นแล้วทรงถวายบังคม  แล้วประทับอยู่  ณ ที่สมควรส่วนหนึ่ง.
+<span class="LineNumber"> 008 </span>           [๙๔๔]  ท้าวสักกะจอมเทพประทับอยู่  ณ  ที่สมควรส่วนหนึ่ง   เรียบ
+<span class="LineNumber"> 009 </span>ร้อยแล้ว   ได้ทูลถามพระผู้มีพระภาคเจ้าด้วยคาถาว่า
+<span class="LineNumber"> 010 </span>                             <B>บุคคลฆ่าอะไรแล้ว   จึงจะอยู่เป็นสุข
+<span class="LineNumber"> 011 </span>                   ฆ่าอะไรแล้ว  จึงจะไม่เศร้าโศก  ข้าแต่
+<span class="LineNumber"> 012 </span>                   พระโคดม  พระองค์ทรงชอบการฆ่าอะไร
+<span class="LineNumber"> 013 </span>                   อันเป็นธรรมอย่างเอก.</B>
+<span class="LineNumber"> 014 </span>           [๙๔๕]  พระผู้มีพระภาคเจ้าตรัสตอบว่า                      
+<span class="LineNumber"> 015 </span>                             <B>บุคคลฆ่าความโกรธเสียแล้ว   ย่อม
+<span class="LineNumber"> 016 </span>                   อยู่เป็นสุข    ฆ่าความโกรธเสียแล้วย่อมไม่
+<span class="LineNumber"> 017 </span>                   เศร้าโศก  ดูก่อนท้าววาสวะ  พระอริยะเจ้า
+<span class="LineNumber"> 018 </span>                   ทั้งหลายย่อมสรรเสริญ  การฆ่าความโกรธ
+<span class="LineNumber"> 019 </span>                   อันมีรากเป็นพิษมียอดหวาน  เพราะ</B>

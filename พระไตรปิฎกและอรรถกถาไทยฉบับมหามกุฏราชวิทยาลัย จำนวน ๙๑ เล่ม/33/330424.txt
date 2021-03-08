@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       <H3>สูตรที่  ๘</H3>
+
+<span class="LineNumber"> 002 </span>       <H4>ว่าด้วยบุคคล  ๒  จำพวก  เมื่อฟ้าผ่าไม่สะดุ้ง</H4> 
+
+<span class="LineNumber"> 003 </span>         [๓๐๔]  ๕๘.  ดูก่อนภิกษุทั้งหลาย    ๒ จำพวกนี้  เมื่อฟ้าผ่าย่อม
+<span class="LineNumber"> 004 </span>ไม่สะดุ้ง    ๒ จำพวกเป็นไฉน คือ พระภิกษุขีณาสพ ๑   สีหมฤคราช ๑
+<span class="LineNumber"> 005 </span>ดูก่อนภิกษุทั้งหลาย    ๒  จำพวกนี้แล   เมื่อฟ้าผ่าย่อมไม่สะดุ้ง.
+
+<span class="LineNumber"> 006 </span>                   <H3>อรรถกถาสูตรที่  ๗ - ๘</H3>
+
+<span class="LineNumber"> 007 </span>         แม้ใน<B>สูตรที่  ๗</B>   ข้อ ๓๐๓   และสูตรที่  ๘  ข้อ  ๓๐๔   ก็นัยนี้แหละ.
+<span class="LineNumber"> 008 </span>                                                จบอรรถกถาสูตรที่   ๗ - ๘
+
+<span class="LineNumber"> 009 </span>                              <H3>สูตรที่  ๙</H3>
+
+<span class="LineNumber"> 010 </span>       <H4>กินนรเห็นประโยชน์  ๒  ประการจึงไม่พูดภาษามนุษย์</H4>
+
+<span class="LineNumber"> 011 </span>         [๓๐๕]  ๕๙. ดูก่อนภิกษุทั้งหลาย  กินนรเห็นอำนาจประโยชน์
+<span class="LineNumber"> 012 </span>๒  ประการนี้    จึงไม่พูดภาษามนุษย์   อำนาจประโยชน์  ๒  ประการเป็น
+<span class="LineNumber"> 013 </span>ไฉน  คือ   เราอย่าพูดเท็จ   ๑   เราอยู่พูดผู้อื่นด้วยคำไม่จริง   ๑  ดูก่อน
+<span class="LineNumber"> 014 </span>ภิกษุทั้งหลาย    กินนรเห็นอำนาจประโยชน์  ๒ ประการนี้แล    จึงไม่พูด
+<span class="LineNumber"> 015 </span>ภาษามนุษย์.
+<span class="LineNumber"> 016 </span>                                                 จบสูตรที่  ๙

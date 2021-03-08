@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 227
+
+<span class="LineNumber"> 002 </span>		ขาทนฺติ ทนฺเตหิ อโยมเยหิ  
+<span class="LineNumber"> 003 </span>		อิโต ปนุณฺณํ ปรโลเก ปตนฺตนฺติ(๑) ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  อิโต  ปนุณฺณนฺติ  อิมมฺหา  มนุสฺสโลกา  จุตํ ฯ 
+<span class="LineNumber"> 005 </span>ปุรโต  นิรเยสุปิ  เอเสว  นโย ฯ ตสฺมา สพฺพานิ ตานิ 
+<span class="LineNumber"> 006 </span>นิรยฏฺ€านานิ นิรยปาลานํ  อุปกฺกเมหิ  สทฺธึ  เหฏฺ€า 
+<span class="LineNumber"> 007 </span>วุตฺตนเยเนว  วิตฺถาเรตฺวา  ตาสํ  ตาสํ คาถานํ อนุตฺตานานิ 
+<span class="LineNumber"> 008 </span>ปทานิ วณฺเณตพฺพานิ  
+<span class="LineNumber"> 009 </span>		ตํ ขชฺชมานํ นิรเย วสนฺตํ  
+<span class="LineNumber"> 010 </span>		ลุทฺเทหิ พาเลหิ อฆมฺมิเกหิ(๒)  
+<span class="LineNumber"> 011 </span>		สฺฉินฺนคตฺตํ รุธิรํ (๓)สวนฺตํ  
+<span class="LineNumber"> 012 </span>		โก โจทเย ปรโลเก สหสฺสนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  ลุทฺเทหีติ  ทารุเณหิ ฯ  พาเลหีติ  ทุฏฺเ€หิ ฯ 
+<span class="LineNumber"> 014 </span>อฆมฺมิเกหีติ  อฆาวเหหิ ทุกฺขาวเหหีติ(๔) อตฺโถ ฯ  
+<span class="LineNumber"> 015 </span>	[๘๘๐]อุสูหิ สตฺตีหิ สุนิสฺสิตาหิ(๕)  
+<span class="LineNumber"> 016 </span>		หนนฺติ วิชฺฌนฺติ จ ปจฺจามิตฺตา(๖)  
+<span class="LineNumber"> 017 </span>		กาลูปกาลา(๗) นิรยมฺหิ โฆเร  
+<span class="LineNumber"> 018 </span>		ปุพฺเพ นรํ ทุกฺกฏกมฺมการินฺติ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. ปณุนฺนํ ปรโลกปตฺตนฺติ ฯ  ๒. ม. วาเฬหิ อฆมฺมิเกหิ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. รุหิรํ ฯ  ๔. ม. อฆาวเหหิ มิเคหิ ทุกฺขาวเหหิ สุนเขหีติ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. สตฺตีหิ จ สุนิสิตาหิ ฯ  ๖. ม. ปจฺจมิตฺตา ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. กาฬูปกาฬา ฯ 

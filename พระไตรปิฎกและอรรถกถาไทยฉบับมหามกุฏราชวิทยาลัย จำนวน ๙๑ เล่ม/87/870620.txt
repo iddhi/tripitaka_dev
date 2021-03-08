@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>ปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                      <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                   <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๑๙๗๐] ๑.  <B>อตีตารัมมณธรรม เป็นปัจจัยแก่อตีตารัมมณ-  
+<span class="LineNumber"> 005 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ เหตุทั้งหลายที่เป็นอตีตารัมมณธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 007 </span>ทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>           ในปฏิสนธิขณะ  เหตุทั้งหลายที่เป็นอตีตารัมมณธรรม   เป็นปัจจัยแก่
+<span class="LineNumber"> 009 </span>สัมปยุตตขันธ์ทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 010 </span>           [๑๙๗๑] ๒.  <B>อนาคตารัมมธรรม    เป็นปัจจัยแก่อนาคตา-
+<span class="LineNumber"> 011 </span>รัมมณธรรม ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 012 </span>           คือ  เหตุทั้งหลายที่เป็นอนาคตารัมธรรม   เป็นปัจจัยแก่สัมปยุตต-
+<span class="LineNumber"> 013 </span>ขันธ์ทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 014 </span>           [๑๙๗๒] ๓.  <B>ปัจจุปปันนารัมมณธรรม  เป็นปัจจัยแก่ปัจจุป-
+<span class="LineNumber"> 015 </span>ปันนารัมมณธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  เหตุทั้งหลายที่เป็นปัจจุปปันนารัมมณธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 017 </span>สัมปยุตตขันธ์ทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.

@@ -1,0 +1,31 @@
+﻿<span class="LineNumber"> 001 </span>                           <H3>สูตรที่  ๙</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๓๐]  ๘๔.  ดูก่อนภิกษุทั้งหลาย    ธรรมที่เป็นบาปอกุศล    มี 
+<span class="LineNumber"> 003 </span>วิญญาณจึงเกิดขึ้น  ไม่มีวิญญาณไม่เกิดขึ้น  เพราะละวิญญาณนั้นเสีย   ธรรม
+<span class="LineNumber"> 004 </span>ที่เป็นบาปอกุศลเหล่านั้นจึงไม่มี  ด้วยประการดังนี้.
+<span class="LineNumber"> 005 </span>                                               จบสูตรที่  ๙
+
+<span class="LineNumber"> 006 </span>                           <H3>สูตรที่  ๑๐</H3>
+
+<span class="LineNumber"> 007 </span>         [๓๓๑] ๘๕.  ดูก่อนภิกษุทั้งหลาย    ธรรมที่เป็นบาปอกุศล    มี
+<span class="LineNumber"> 008 </span>สังขตธรรมเป็นอารมณ์จึงเกิดขึ้น     ไม่มีสังขตธรรมเป็นอารมณ์ไม่เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะละสังขตธรรมนั้นเสีย  ธรรมที่เป็นมาปอกุศลเหล่านั้นจึงไม่มี    ด้วย
+<span class="LineNumber"> 010 </span>ประการดังนี้.               
+<span class="LineNumber"> 011 </span>                                 <I>จบสนิมิตตวรรคที่  ๓</I>
+
+<span class="LineNumber"> 012 </span>                          <H2>สนิมิตตวรรคที่  ๓<SUP>๑</SUP></H2>
+
+<span class="LineNumber"> 013 </span>                                 <H3>อรรถกถาสูตรที่ ๑</H3>
+
+<span class="LineNumber"> 014 </span>         <B>วรรคที่  ๓  สูตรที่  ๑</B>  (ข้อ ๓๒๒)  มีนิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 015 </span>         บทว่า   <B>สนิมิตฺตา</B>  แปลว่า  มีเหตุ.
+<span class="LineNumber"> 016 </span>                                              จบอรรถกถาสูตรที่  ๑
+
+<span class="LineNumber"> 017 </span>    <H3>อรรถกถาสูตรที่  ๒  เป็นต้น (ข้อ  ๓๒๓-๓๒๗)</H3>
+
+<span class="LineNumber"> 018 </span>         แม้ใน<B>สูตรที่  ๒</B>  เป็นต้น  ก็นัยนี้แหละ.  ก็บททั้งหมด  คือ  นิทาน
+<span class="LineNumber"> 019 </span>เหตุ  สังขาร  ปัจจัย   รูป  เหล่านี้   เป็นไวพจน์ของ   <B>การณะ</B>   ทั้งนั้น.
+<span class="LineNumber"> 020 </span>                                             จบอรรถกถาสูตรที่   ๒
+
+<span class='footnote'>๑. วรรคที่ ๓ มี  ๑๐  สูตร  เป็นสูตรสั้น  ๆ  จึงรวมอรรถกถาไว้ติดต่อกัน  โดยลงเลขข้อสูตร</span>
+<span class='footnote'>กำกับไว้ด้วย.</span>

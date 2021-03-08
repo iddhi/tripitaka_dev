@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในปัจจนียะ</H2>   
+<span class="LineNumber"> 002 </span>           [๑๗๑]  ในนเหตุปัจจัย   ๗ วาระ   ในนอารัมมณปัจจัย มี ๗ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ  ในโนวิคตปัจจัย มี ๔ วาระ.
+<span class="LineNumber"> 004 </span>           อนุโลมนัยก็ดี   ปัจจนียนัยก็ดี  อนุโลมปัจจนียนัยก็ดี  ปัจจนียานุโลม-
+<span class="LineNumber"> 005 </span>นัยก็ดี  แห่งปัญหาวาระในกุสลติกะ  ท่านนับไว้อย่างไร  พึงนับอย่างนั้น.
+<span class="LineNumber"> 006 </span>                               <I>ปัจจนียานุโลมทุกปัฏฐาน  จบ</I>
+<span class="LineNumber"> 007 </span>                                    <I>นสรณทุกสรณทุกะ  จบ</I>

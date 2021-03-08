@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  22
+
+<span class="LineNumber"> 002 </span>นิมนฺเตตฺวา  อุฏฺ€ายาสนา ปกฺกมึสุ ฯ  
+<span class="LineNumber"> 003 </span>	เต  ปุนทิวเส  มหาทานํ  สชฺเชตฺวา  นครํ  อลงฺกริตฺวา  
+<span class="LineNumber"> 004 </span>ทสพลสฺส  อาคมนมคฺคํ  อลงฺกโรนฺตา  อุทกภินฺนฏฺ€าเนสุ  ปํสุํ
+<span class="LineNumber"> 005 </span>ปกฺขิปิตฺวา  สมํ  ภูมิตลํ  กตฺวา  รชตปฏฺฏวณฺณวาลุกํ  อากิรนฺติ
+<span class="LineNumber"> 006 </span>ลาชานิ  เจว  ปุปฺผานิ  จ  วิกิรนฺติ  นานาวิราเคหิ  วตฺเถหิ 
+<span class="LineNumber"> 007 </span>ธชปฏาเก  อุสฺสาเปนฺติ  กทลิโย  เจว  ปุณฺณฆฏปนฺติโย(๑)
+<span class="LineNumber"> 008 </span>จ  ปติฏฺ€าเปนฺติ ฯ  ตสฺมึ  กาเล  สุเมธตาปโส  อตฺตโน  อสฺสมปทา ฯ  
+<span class="LineNumber"> 009 </span>อุคฺคนฺตฺวา  เตสํ  มนุสฺสานํ  อุปริภาเคน  อากาเสน  คจฺฉนฺโต  
+<span class="LineNumber"> 010 </span>เต  หฏฺ€ตุฏฺเ€  มนุสฺเส  ทิสฺวา  กึ  นุ  โข  การณนฺติ  
+<span class="LineNumber"> 011 </span>อากาสโต  โอรุยฺห  เอกมนฺตํ  €ิโต  มนุสฺเส  ปุจฺฉิ  อมฺโภ  
+<span class="LineNumber"> 012 </span>กสฺส  ตุเมฺห  อิมํ  มคฺคํ อลงฺกโรถาติ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 013 </span>	ปจฺจนฺตเทสวิสเย		นิมนฺเตตฺวา ตถาคตํ  
+<span class="LineNumber"> 014 </span>	ตสฺส อาคมนํ มคฺคํ		โสเธนฺติ ตุฏฺ€มานสา ฯ  
+<span class="LineNumber"> 015 </span>	อหนฺเตน สมเยน		นิกฺขมิตฺวา สกสฺสมา  
+<span class="LineNumber"> 016 </span>	ธุนนฺโต วากจีรานิ		คจฺฉามิ อมฺพเร ตทา ฯ  
+<span class="LineNumber"> 017 </span>	เวทชาตํ ชนํ ทิสฺวา		ตุฏฺ€หฏฺ€ํ ปโมทิตํ  
+<span class="LineNumber"> 018 </span>	โอโรหิตฺวาน คคนา		มนุสฺเส ปุจฺฉิ ตาวเท ฯ  
+<span class="LineNumber"> 019 </span>	ตุฏฺ€หฏฺโ€ ปมุทิโต		เวทชาโต มหาชโน  
+<span class="LineNumber"> 020 </span>	กสฺส โสธียติ มคฺโค		อฺชสํ วฏุมายนนฺติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ปุณฺณฆฏปนฺติโย ฯ 

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>อินทริยปัจจัย มี ๑๗ วาระ ในฌานปัจจัย  มี ๑๗ วาระ ในมัคคปัจจัย มี 
+<span class="LineNumber"> 002 </span>๑๗ วาระ  ในสัมปยุตตปัจจัย มี ๗ วาระ  ในวิปปยุตตปัจจัย  มี ๑๗ วาระ
+<span class="LineNumber"> 003 </span>ในอัตถิปัจจัย มี ๑๗ วาระ ในนัตถิปัจจัย  มี ๗ วาระ  ในวิคตปัจจัย มี ๗
+<span class="LineNumber"> 004 </span>วาระ ในอวิคตปัจจัย  มี ๑๗  วาระ.
+<span class="LineNumber"> 005 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 006 </span>                                       <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                          <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 008 </span>                                       <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๖๕๖] ๑.  <B>อนิยตธรรม  อาศัยอนิยตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 010 </span>นเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ   ขันธ์ ๓ และจิตตสมุฏฐานรูป   อาศัย ขันธ์ ๑ ที่เป็นอนิยตธรรม 
+<span class="LineNumber"> 012 </span>ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 013 </span>           ในอเหตุกปฏิสนธิขณะ  หทยวัตถุ  อาศัยขันธ์ทั้งหลาย,  ขันธ์ทั้งหลาย
+<span class="LineNumber"> 014 </span>อาศัยหทยวัตถุ,
+<span class="LineNumber"> 015 </span>           มหาภูตรูป  ๑ ฯลฯ  ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ.
+<span class="LineNumber"> 016 </span>           จักขุวิญญาณ  อาศัยจักขายตนะ ฯลฯ กายวิญญาณ   อาศัยกายายตนะ.
+<span class="LineNumber"> 017 </span>           ขันธ์ทั้งหลายที่เป็นอนิยตธรรม  ซึ่งเป็นอเหตุกะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 018 </span>           โมหะที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์ทั้งหลาย
+<span class="LineNumber"> 019 </span>ที่สหรคตด้วยวิจิกิจฉา ที่สหรคตด้วยอุทธัจจะ  และหทยวัตถุ.

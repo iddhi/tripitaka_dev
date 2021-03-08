@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                <H1>นทัสสเนนปหาตัพพเหตุกทุกนกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>                   <H1>ทัสสเนนปหาตัพพเหตุกทุกกุสลติกะ</H1> 
+<span class="LineNumber"> 003 </span><H2>(๘๕. ทัสสเนนปหาตัพพเหตุกทุกะ  ๑. กุสลติกะ)</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 005 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                          <H2>กุศลบท</H2>
+<span class="LineNumber"> 008 </span>           [๓๐๒] ๑.  <B>กุศลธรรม  ที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 009 </span>อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม  เกิด
+<span class="LineNumber"> 010 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 011 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๓๐๓]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ
+<span class="LineNumber"> 013 </span><I>นทัสสเนนปหาตัพพเหตุกทุกนกุสลติกทัสสเนนปหาตัพพเหตุกทุกกุสลติกะ  จบ</I>	
+

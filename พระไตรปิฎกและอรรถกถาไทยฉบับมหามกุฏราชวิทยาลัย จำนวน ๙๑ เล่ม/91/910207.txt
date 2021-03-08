@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>นอัชฌัตตติกนเหตุทุกะ</H1> 
+<span class="LineNumber"> 002 </span>              <H2>(๒๐.  นอัชฌัตติกะ  ๑.  นเหตุทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๓๒๕] ๑.  <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่อัชฌัตตธรรม  ฯลฯ</B>
+<span class="LineNumber"> 007 </span>                       ๒.  <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่พหิทธาธรรม  ฯลฯ</B>
+<span class="LineNumber"> 008 </span>                            <I>นอัชฌัตตติกนเหตุทุกะ  จบ</I>
+
+<span class="LineNumber"> 009 </span>                         <H1>นอัชฌัตตารัมมณติกนเหตุทุกะ</H1>
+<span class="LineNumber"> 010 </span>     <H2>(๒๑.  นอัชฌัตตารัมมณติกะ  ๑.  นเหตุทุกะ)</H2>	
+<span class="LineNumber"> 011 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 012 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>           [๓๒๖] ๑.  <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่อัชฌัตตารัมมณ-
+<span class="LineNumber"> 015 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 016 </span>                       ๒.  <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่พหิทธารัมมณ-
+<span class="LineNumber"> 017 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 018 </span>                     <I>นอัชฌัตตารัมมณติกนเหตุทุกะ  จบ</I>

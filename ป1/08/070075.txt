@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>ตุมฺห  มัธยมบุรุษ  แปลเป็นไทย  ใช้ให้ถูกตามชั้นของบุคคลผู้ฟัง <SUP>๑</SUP>  
+<span class="LineNumber"> 002 </span>             คำมัธยมบุรุษ            ชั้นผู้พูด  (อมฺห)             ชั้นผู้ฟัง (ตุมฺห)
+<span class="LineNumber"> 003 </span>ใต้ฝ่าละอองธุลีพระบาท         ผู้น้อย                            พระราชา  
+
+<span class="LineNumber"> 004 </span>ใต้ฝ่าละอองพระบาท              ผู้น้อย                            พระราชินี,  พระยุพราช
+
+<span class="LineNumber"> 005 </span>ใต้ฝ่าพระบาท                          ผู้น้อย                            เจ้านายชั้นสูง
+
+<span class="LineNumber"> 006 </span>ฝ่าพระบาท                              เจ้านายที่เสมอกัน          เจ้านายชั้นรองลงมา
+<span class="LineNumber"> 007 </span>                                                 หรือผู้น้อย
+
+<span class="LineNumber"> 008 </span>สมเด็จบรมพิตร                        
+<span class="LineNumber"> 009 </span>พระราชสมภารเจ้า                    พระสงฆ์                        พระราชาที่ยกย่อง
+
+<span class="LineNumber"> 010 </span>บพิตรพระราชสมภาร          
+<span class="LineNumber"> 011 </span>เจ้าหรือมหาบพิตร                     พระสงฆ์                        พระราชาทั่วไป
+
+<span class="LineNumber"> 012 </span>บพิตร                                         พระสงฆ์                        เจ้านาย,  ขุนนางชั้นสูง
+
+<span class="LineNumber"> 013 </span>ใต้เท้ากรุณาเจ้า                          ผู้น้อย                            สมเด็จเจ้าพระยา
+
+<span class="LineNumber"> 014 </span>ใต้เท้ากรุณา                                ผู้น้อย                            ขุนนางชั้นสูง,  พระ-
+<span class="LineNumber"> 015 </span>                                                                                         ราชคณะ
+
+<span class="LineNumber"> 016 </span>เธอ                                               ผู้ใหญ่                           ผู้น้อยที่ยกย่อง
+
+<span class='footnote'>๑.  ดัดแปลงมาจาก  สยามไวยากรณ์  วจีวิภาค.</span>

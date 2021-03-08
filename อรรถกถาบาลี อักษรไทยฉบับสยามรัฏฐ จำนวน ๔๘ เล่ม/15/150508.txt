@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๕  ทสกนิปาตวณฺณนา หน้า  ๕๐๘
+
+<span class="LineNumber"> 002 </span>าเณน  ปฏิสํเวเทนฺโต  วิหเรยฺย ฯ  
+<span class="LineNumber"> 003 </span>	อนิจฺจาติ  หุตฺวา อภาวโต(๑) ฯ  ตุจฺฉาติ  สารรหิตา(๒) ฯ
+<span class="LineNumber"> 004 </span>มุสาติ  นิจฺจสุภสุขา  วิย  ขายมานาปิ(๓)  ตถา  น  โหนฺตีติ  
+<span class="LineNumber"> 005 </span>มุสา ฯ  โมสธมฺมาติ นสฺสนสภาวา ฯ   ตสฺมา เต ปฏิจฺจ ทุกฺขํ 
+<span class="LineNumber"> 006 </span>อุปฺปชฺชตีติ สนฺทสฺเสติ ฯ  อิธ  โข(๔)  ปน  โวติ  เอตฺถ  โวติ 
+<span class="LineNumber"> 007 </span>นิปาตมตฺตํ ฯ อปณฺณกํ วา โสตาปนฺโนติ อวิราธิกํ  (๕)  เอกํเสน
+<span class="LineNumber"> 008 </span>โสตาปนฺโน วา โหติ ฯ โสปิ ฌานํ นิพฺพตฺเตตฺวา (๖)  พฺรหฺมโลกํ 
+<span class="LineNumber"> 009 </span>วา  คนฺตฺวา  ฉสุ  วา  กามสคฺเคสุ(๗)เอกนฺตสุขปฺปฏิสํเวที หุตฺวา
+<span class="LineNumber"> 010 </span>วิหเรยฺย ฯ อิมสฺมึ สุตฺเต สตฺถา อฏฺ€งฺคิกุโปสถสฺส   คุณํ 
+<span class="LineNumber"> 011 </span>กเถสิ ฯ   
+<span class="LineNumber"> 012 </span>				ฉฏฺฐํ ฯ
+<span class="LineNumber"> 013 </span>	สตฺตเม  มิจฺฉาปณิหิตนฺติ  มิจฺฉา  €ปิตํ ฯ  อธมฺมจริยา-
+<span class="LineNumber"> 014 </span>วิสมจริยาติ อกุสลกมฺมปถวเสน  อธมฺมจริยสงฺขาตา วิสม-
+<span class="LineNumber"> 015 </span>จริยา ฯ กุสลกมฺมปถวเสน อิตรา เวทิตพฺพา ฯ  เอวมิธ วฏฺฏเมว (๑) 
+<span class="LineNumber"> 016 </span>กถิตํ ฯ    
+<span class="LineNumber"> 017 </span>				สตฺตมํ ฯ
+<span class="LineNumber"> 018 </span>	อฏฺ€เม  ปพฺพชิเตนาติ  ฆราวาสํ  ปหาย  สาสเน
+<span class="LineNumber"> 019 </span>ปพฺพชฺชํ  อุปคเตน ฯ  อภิณฺหนฺติ  อภิกฺขณํ  ปุนปฺปุนํ ฯ  ปจฺจ-
+<span class="LineNumber"> 020 </span>#๑. ม. อภาวโต ฯ  ๒. ม. สารรหิตา ฯ  ๓. ม. ขายมานาปิ ฯ
+<span class="LineNumber"> 021 </span>#๔. ม. อยํ สทฺโท นตฺถิ ฯ  ๕. ม. อวิราธิตํ ฯ ๖. ม. นิพฺพตฺเตติ ฯ
+<span class="LineNumber"> 022 </span>#๗. ม. กามสคฺเคสุ ฯ

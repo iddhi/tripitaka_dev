@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                             <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>๑.  เหตุปัจจัย</H1> 
+<span class="LineNumber"> 004 </span>           [๑๓๙๑] ๑.  <B>ปริตตธรรม  เจือกับปริตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์  ๓  เจือกับ  ขันธ์ ๑  ที่เป็นปริตตธรรม ฯลฯ  อาศัยขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 007 </span>           ในปฏิสนธิ ฯลฯ
+<span class="LineNumber"> 008 </span>           [๑๓๙๒] ๒.  <B>มหัคคตธรรม  เจือกับมหัคคตธรรม เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์๑  ที่เป็นมหัคคตธรรม  ฯลฯ  อาศัยขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 011 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 012 </span>           [๑๓๙๓] ๓.  <B>อัปปมาณธรรม  เจือกับอัปปมาณธรรม เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ ขันธ์ ๓ เจือขันธ์ ๑ ที่เป็นอัปปมาณธรรม ฯลฯ  อาศัยขันธ์ ๒ ฯลฯ
+
+<span class="LineNumber"> 015 </span>                           <H1>๒.  อารัมมณปัจจัย  ๓.  อธิปติปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           [๑๓๙๔] ๑. <B>ปริตตธรรม  เจือกับปริตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 017 </span>อารัมมณปัจจัย.  เพราะอธิปติปัจจัย</B>  ปฏิสนธิ  ไม่มี.
+  

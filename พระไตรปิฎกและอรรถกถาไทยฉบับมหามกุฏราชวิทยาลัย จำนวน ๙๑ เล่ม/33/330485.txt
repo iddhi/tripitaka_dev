@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H3>สูตรที่  ๗</H3>
+
+<span class="LineNumber"> 002 </span>         [๔๐๒]   ๑๕๖.  ดูก่อนภิกษุทั้งหลาย ของต้อนรับแขก  ๒ อย่างนี้ 
+<span class="LineNumber"> 003 </span>๒  อย่างเป็นไฉน  คือ   ของต้อนรับคืออามิส  ๑  ของต้อนรับคือธรรม   ๑
+<span class="LineNumber"> 004 </span>ดูก่อนภิกษุทั้งหลาย   ของต้อนรับแขก ๒ อย่างนี้แล  ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 005 </span>บรรดาของต้อนรับแขก ๒ อย่างนี้    ของต้อนรับแขกคือธรรมเป็นเลิศ 
+<span class="LineNumber"> 006 </span>                                           จบสูตรที่  ๗
+
+<span class="LineNumber"> 007 </span>                                      <H3>สูตรที่  ๘</H3>
+
+<span class="LineNumber"> 008 </span>         [๔๐๓]   ๑๕๗.  ดูก่อนภิกษุทั้งหลาย     ความสำเร็จ ๒ อย่างนี้ 
+<span class="LineNumber"> 009 </span>๒  อย่างเป็นไฉน    คือ      ความสำเร็จคืออามิส   ๑     ความสำเร็จคือ
+<span class="LineNumber"> 010 </span>ธรรม  ๑   ดูก่อนภิกษุทั้งหลาย    ความสำเร็จ  ๒  อย่างนี้แล    ดูก่อนภิกษุ
+<span class="LineNumber"> 011 </span>ทั้งหลาย  บรรดาความสำเร็จ ๒ อย่างนี้  ความสำเร็จคือธรรมเป็นเลิศ 
+<span class="LineNumber"> 012 </span>                                              จบสูตรที่  ๘
+
+<span class="LineNumber"> 013 </span>                                         <H3>สูตรที่  ๙</H3>
+
+<span class="LineNumber"> 014 </span>         [๔๐๔]   ๑๕๘.  ดูก่อนภิกษุทั้งหลาย     ความเจริญ  ๒ อย่างนี้ 
+<span class="LineNumber"> 015 </span>๒  อย่างเป็นไฉน  คือ  ความเจริญด้วยอามิส   ๑   ความเจริญด้วยธรรม  ๑
+<span class="LineNumber"> 016 </span>ดูก่อนภิกษุทั้งหลาย      ความเจริญ  ๒ อย่างนี้       ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 017 </span>บรรดาความเจริญ  ๒  อย่างนี้   ความเจริญด้วยธรรมเป็นเลิศ.
+<span class="LineNumber"> 018 </span>                                               จบสูตรที่  ๙		    

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๙๘]   ในเหตุปัจจัย  มี ๓ วาระ     ในอารัมมณปัจจัย   มี   ๙ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ  ในอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 004 </span>           ปัญหาวาระพึงให้พิสดารอย่างนี้. 
+
+<span class="LineNumber"> 005 </span>                               <H2>อกุศลบทปัญหาวาระ</H2>
+<span class="LineNumber"> 006 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>           [๑๙๙] ๑.  <B>ธรรมที่ไม่ใช่อกุศลที่เป็นนเหตุธรรม  อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่อกุศลที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 010 </span>           คือ    ขันธ์ ๓   และจิตตสมุฏฐานรูป    อาศัยขันธ์ ๑    ที่เป็นกุศลและ
+<span class="LineNumber"> 011 </span>อัพยากตะที่เป็นนเหตุธรรม   เกิดขึ้น.
+<span class="LineNumber"> 012 </span>                       ๒. <B>ธรรมที่ไม่ใช่อกุศล    ที่ไม่ใช่นเหตุธรรม  อาศัย
+<span class="LineNumber"> 013 </span>ธรรมที่ไม่ใช่อกุศล  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B> 
+<span class="LineNumber"> 014 </span>           คือ  เหตุธรรม  อาศัยขันธ์ที่เป็นกุศล  และอัพยากตะที่เป็นนเหตุธรรม
+<span class="LineNumber"> 015 </span>เกิดขึ้น.
+<span class="LineNumber"> 016 </span>                       ๓.  <B>ธรรมที่ไม่ใช่อกุศล ที่เป็นนเหตุธรรม  และธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่อกุศล  ที่ไม่ใช่เหตุธรรม  อาศัยธรรมที่ไม่ใช่อกุศล  ที่เป็น
+<span class="LineNumber"> 018 </span>นเหตุธรรม  เกิดขึ้น เพราะเหตุปัจจัย.</B>

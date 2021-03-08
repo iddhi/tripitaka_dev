@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>รูปังสารัมมณันติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๓๒๑]  <B>สกวาที</B>   รูปเป็นธรรมมีอารมณ์หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. ความนึก  ความผูกใจ  ความสนใจ  ความทำไว้ในใจ.
+<span class="LineNumber"> 005 </span>ความจงใจ  ความปรารถนา  ความตั้งใจ  ของรูปนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. ความนึก   ความผูกใจ   ฯลฯ   ความตั้งใจ  ของรูปนั้น
+<span class="LineNumber"> 008 </span>ไม่มี  มิใช่หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. หากว่า  ความนึก  ความผูกใจ   ฯลฯ  ความตั้งใจ  ของ
+<span class="LineNumber"> 011 </span>รูปนั้น ไม่มี  ก็ต้องไม่กล่าวว่า  รูปเป็นธรรมมีอารมณ์.
+<span class="LineNumber"> 012 </span>         [๑๓๒๒]  ส. ผัสสะเป็นธรรมมีอารมณ์ ความนึก  ความผูกใจ   ฯลฯ
+<span class="LineNumber"> 013 </span>ความตั้งใจ ของผัสสะนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 014 </span>                       ป. ถูกแล้ว. 
+<span class="LineNumber"> 015 </span>                       ส. รูปเป็นธรรมมีอารมณ์   ความนึก   ความผูกใจ   ฯลฯ
+<span class="LineNumber"> 016 </span>ความตั้งใจ ของรูปนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 017 </span>                       ป.  ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 018 </span>         [๑๓๒๓]  ส. เวทนา  ฯลฯ   สัญญา  เจตนา  จิต  ศรัทธา  วิริยะ  สติ
+<span class="LineNumber"> 019 </span>สมาธิ  ปัญญา  ราคะ  โทสะ  โมหะ  ทิฏฐิ  วิจิกิจฉา   ถีนะ   อุทธัจจะ  อหิริกะ
+<span class="LineNumber"> 020 </span>ฯลฯ   อโนตตัปปะ  เป็นธรรมมีอารมณ์  ความนึก  ความผูกใจ  ฯลฯ  ความ
+<span class="LineNumber"> 021 </span>ตั้งใจ   ของอโนตตัปปะนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ถูกแล้ว.

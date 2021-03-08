@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  สตฺตมวคฺเค เอกธมฺมสวนิยตฺเถรคาถาวณฺณนา  หน้า 327
+
+<span class="LineNumber"> 002 </span>ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 003 </span>		ปทุมุตฺตรพุทฺธสฺส		สาวกา วนจาริโน  
+<span class="LineNumber"> 004 </span>		วิปฺปนฏฺ€า (๒) พฺรหารฺเ  อนฺธาว อนุสิสฺสเร ฯ (๓)  
+<span class="LineNumber"> 005 </span>		อนุสฺสริตฺวา สมฺพุทฺธํ	ปทุมุตฺตรนายกํ  
+<span class="LineNumber"> 006 </span>		ตสฺส เต มุนิโน ปุตฺตา	วิปฺปนฏฺ€า มหาวเน ฯ  
+<span class="LineNumber"> 007 </span>		ภวนา โอรุหิตฺวาน		อคมึ ภิกฺขุสนฺติกํ  
+<span class="LineNumber"> 008 </span>		เตสํ มคฺคฺจ อาจิกฺขึ	โภชนฺจ อทาสหํ ฯ  
+<span class="LineNumber"> 009 </span>		เตน กมฺเมน ทิปทินฺท	โลกเชฏฺ€ นราสภ  (๔)
+<span class="LineNumber"> 010 </span>		ชาติยา สตฺตวสฺโสว(๕)	อรหตฺตมปาปุณึ ฯ  
+<span class="LineNumber"> 011 </span>		สจกฺขู นาม นาเมน	ทฺวาทส จกฺกวตฺติโน  
+<span class="LineNumber"> 012 </span>		สตฺตรตนสมฺปนฺนา	ปฺจกปฺปสเต อิโต ฯ  
+<span class="LineNumber"> 013 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 014 </span>	ตสฺส  เอเกเนว  ธมฺมสฺสวเนน  นิปฺผนฺนกิจฺจตฺตา  
+<span class="LineNumber"> 015 </span>เอกธมฺมสวนิโยเตฺวว  สมฺา อโหสิ ฯ โส อรหา หุตฺวา 
+<span class="LineNumber"> 016 </span>อฺํ พฺยากโรนฺโต  
+<span class="LineNumber"> 017 </span>		กิเลสา ฌาปิตา มยฺหํ	ภวา สพฺเพ สมูหตา  
+<span class="LineNumber"> 018 </span>		วิกฺขีโณ ชาติสํสาโร	นตฺถิ ทานิ ปุนพฺภโวติ(๖)  
+<span class="LineNumber"> 019 </span># ๑. ขุ. อ. ๓๒/๑๒๐/๒๑๘ ฯ  ๒. สี. วิปฺปลทฺธา ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. ม. อนุสุยฺยเร ฯ  สี. อนุปิถียเร ฯ  ๔. โปราณ. 
+<span class="LineNumber"> 021 </span># ทิปทินฺเท โลกเชฏฺเ€ นราสเภ ฯ  ๕. สฺยา. สตฺตวสฺเสน ฯ 
+<span class="LineNumber"> 022 </span># ม. สตฺตวสฺโสหํ ฯ  ๖. ขุ. เถร. ๒๖/๒๐๔/๒๗๕ ฯ 

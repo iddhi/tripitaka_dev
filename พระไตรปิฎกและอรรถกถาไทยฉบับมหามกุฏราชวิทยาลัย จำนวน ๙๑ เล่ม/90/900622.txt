@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                   			<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 002 </span>           	ในปัจจัยทั้งปวง มี ๑ วาระ. 
+							
+<span class="LineNumber"> 003 </span>				   <H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>					<H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 006 </span>		[๑๗๔๕]     ๑.  อัพยากตธรรมที่เป็นรูปาวจรธรรม  อาศัย
+<span class="LineNumber"> 007 </span>อัพยากตธรรมที่เป็นรูปาวจรธรรม เกิดขึ้น เพราะเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                  	   	๔.  อัพยากตธรรมที่ไม่ใช่รูปาวจรธรรม     อาศัย
+<span class="LineNumber"> 009 </span>อัพยากตธรรมที่ไม่ใช่รูปาวจรธรรม  เกิดขึ้น เพราะเหตุปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 010 </span>                  	  	๗.  อัพยากตธรรมที่เป็นรูปาวจรธรรม  อาศัยอัพยา-
+<span class="LineNumber"> 011 </span>กตธรรมที่เป็นรูปาวจรธรรมและอัพยากตธรรมที่ไม่ใช่รูปาวจรธรรม
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๓ วาระ
+<span class="LineNumber"> 013 </span>			    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>		[๑๗๔๖]  ในเหตุปัจจัย  มี  ๙ วาระ   ในอารัมมณปัจจัย  มี ๔ วาระ
+<span class="LineNumber"> 015 </span>ในอธิปติปัจจัย  มี ๕ วาระ  ฯลฯ    ในปุเรชาตปัจจัย  มี  ๒ วาระ   ในอาเสวน-
+<span class="LineNumber"> 016 </span>ปัจจัย มี ๒ วาระ ฯลฯ  ในอวิคตปัจจัย มี ๙  วาระ.
+<span class="LineNumber"> 017 </span>          	เหมือนกับกามาวจรและอัพยากตบทในนกามาวจรทุกะ
+<span class="LineNumber"> 018 </span>                 วาระเพียงเท่านี้   ย่อมเปลี่ยนแปลงในเบื้องต้น และเบื้องปลาย.
+<span class="LineNumber"> 019 </span>          	สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดารทุกปัจจัย.
+<span class="LineNumber"> 020 </span>					  <I>รูปาวจรทุกกุสลติกะ  จบ</I>

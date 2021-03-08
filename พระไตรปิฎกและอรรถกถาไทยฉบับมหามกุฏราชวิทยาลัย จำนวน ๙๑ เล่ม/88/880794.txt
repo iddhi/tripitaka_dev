@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                       ๔.  <B>ธรรมที่เป็นปรามาสธรรม  และปรามัฏฐธรรม 
+<span class="LineNumber"> 002 </span>และธรรมที่เป็นปรามัฏฐาน  แต่ไม่ใช่ปรามาสธรรม  อาศัยธรรม
+<span class="LineNumber"> 003 </span>ที่เป็นปรามัฏฐธรรม  แต่ไม่ใช่ปรามาสธรรม  เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 004 </span>ปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  ขันธ์ ๓,  ปรามาสธรรม   และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑
+<span class="LineNumber"> 006 </span>ที่เป็นปรามัฏฐธรรม  แต่ไม่ใช่ปรามาสธรรม ฯลฯ อาศัยขันธ์ ๒.
+<span class="LineNumber"> 007 </span>                       ๕.  <B>ธรรมที่เป็นปรามัฏฐธรรม แต่ไม่ใช่ปรามาสธรรม
+<span class="LineNumber"> 008 </span>อาศัยธรรมที่เป็นทั้งปรามาสธรรม  และปรามัฏฐธรรม  และธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นปรามัฏฐธรรม  แต่ไม่ใช่ปรามาสธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 010 </span>ปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ ขันธ์ ๓   และจิตตสมุฏฐานรูป    อาศัยขันธ์ ๑  ที่เป็นปรามัฏฐ-
+<span class="LineNumber"> 012 </span>ธรรม   แต่ไม่ใช่ปรามาสธรรม   และปรามาสธรรม ฯลฯ   อาศัยขันธ์ ๒.
+<span class="LineNumber"> 013 </span>                                              ฯลฯ
+<span class="LineNumber"> 014 </span>           วาระทั้งหมดพึงกระทำเหมือนกับปรามาสทุกะ ไม่มีแตกต่างกัน.
+

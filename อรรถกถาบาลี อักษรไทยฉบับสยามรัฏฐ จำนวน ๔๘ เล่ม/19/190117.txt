@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๙  พาหิยสุตฺตวณฺณนา  หน้า  ๑๑๗
+
+<span class="LineNumber"> 002 </span>วาจา ฯ  (๑)  สจฺจํ  หเว  สาธุตรํ  รสานํ  (๒)  สจฺเจ  อตฺเถ  จ  ธมฺเม
+<span class="LineNumber"> 003 </span>จ  อาหุ  สนฺโต  ปติฏฺ€ิตา ฯ  สจฺเจ  €ิตา  สมณพฺราหฺมณา  
+<span class="LineNumber"> 004 </span>จาติอาทินา  (๓)  อเนเกสุ  สุตฺตปเทสุ  สจฺจคุณา  ปกาสิตา ฯ  
+<span class="LineNumber"> 005 </span>สจฺจวิปริยสฺส  จ  เอกํ  ธมฺมํ  อตีตสฺส  มุสาวาทิสฺส  ชนฺตุโน ฯ  (๔)
+<span class="LineNumber"> 006 </span>อภูตวาที  นิรยํ  อุเปตีติ  (๕)  จ  อาทินา  ปกาสิตาติ ฯ  
+<span class="LineNumber"> 007 </span>		นวมสุตฺตวณฺณนา  นิฏฺ€ิตา ฯ  
+
+<span class="LineNumber"> 008 </span>		พาหิยสุตฺตวณฺณนา  
+<span class="LineNumber"> 009 </span>	ทสเม  พาหิโยติ  ตสฺส  นามํ ฯ  ทารุจีริโยติ  ทารุมย-
+<span class="LineNumber"> 010 </span>จีโร ฯ  สุปฺปารเกติ  เอวํนามเก  ปฏฺฏเน  วสติ ฯ  โก  ปนายํ  
+<span class="LineNumber"> 011 </span>พาหิโย  กถฺจ  ทารุจีรธโร  (๖)  อโหสิ  กถํ  สุปฺปารเก  ปฏฺฏเน  
+<span class="LineNumber"> 012 </span>ปฏิวสตีติ  
+<span class="LineNumber"> 013 </span>	ตตฺรายํ  อนุปุพฺพีกถา  อิโต  กิร  กปฺปสตสหสฺส
+<span class="LineNumber"> 014 </span>มตฺถเก  ปทุมุตฺตรสมฺมาสมฺพุทฺธกาเล  เอโก  กุลปุตฺโต  หํสวตี-
+<span class="LineNumber"> 015 </span>นคเร  ทสพลสฺส  ธมฺมเทสนํ  สุณนฺโต  สตฺถารํ  เอกํ  ภิกฺขุํ  
+<span class="LineNumber"> 016 </span>ขิปฺปาภิฺานํ  เอตทคฺเค  €เปนฺตํ  ทิสฺวา  (๗)อุฬาโร  วตายํ  (๗)  
+<span class="LineNumber"> 017 </span>ภิกฺขุ  โย  สตฺถารา  เอวํ  เอตทคฺเค  €ปียติ  อโห  วตาหมฺปิ  
+<span class="LineNumber"> 018 </span>#  ๑.  ขุ.  สุ.  ๒๕/๓๕๗/๔๑๒ ฯ  ๒.  สํ.  ส.  ๑๕/๘๔๑๓๑๕ ฯ  
+<span class="LineNumber"> 019 </span>#  ขุ.  สุ.  ๒๕/๓๑๑/๓๖๐ ฯ  ๓.  ขุ.  ชา.  ๒๘/๓๘๕/๑๔๐ ฯ  
+<span class="LineNumber"> 020 </span>#  ๔.  ขุ.  ธ.  ๒๕/๒๓/๓๘ ฯ  ๕.  ขุ.  ธ.  ๒๕/๓๒/๕๕ ฯ
+<span class="LineNumber"> 021 </span>#  ๖.  ม.  ทารุจีริโย ฯ  ๗.  ม.  มหา  วตายํ ฯ

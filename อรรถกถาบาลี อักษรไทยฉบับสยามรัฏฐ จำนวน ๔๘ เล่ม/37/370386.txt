@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37    หน้า 386
+
+<span class="LineNumber"> 002 </span>		เวสฺสนฺตรชาตกํ  
+
+<span class="LineNumber"> 003 </span>	ผุสฺสตี  วรวณฺณาเภติ  อิทํ  สตฺถา  กปิลวตฺถุสฺมึ(๑)  
+<span class="LineNumber"> 004 </span>อุปนิสฺสาย  นิโคฺรธาเม วิหรนฺโต โปกฺขรวสฺสํ อารพฺภ 
+<span class="LineNumber"> 005 </span>กเถสิ ฯ  
+<span class="LineNumber"> 006 </span>	ยทา  หิ  สตฺถา  ปวตฺติตปวรธมฺมจกฺโก  อนุกฺกเมน
+<span class="LineNumber"> 007 </span>ราชคหํ  คนฺตฺวา  ตตฺถ  เหมนฺตํ  วีตินาเมตฺวา  อุทายิตฺเถเรน
+<span class="LineNumber"> 008 </span>มคฺคุทฺเทสเกน(๒)  วีสติสหสฺสขีณาสวปริวุโต  ป€มคมเนน  ยาว 
+<span class="LineNumber"> 009 </span>กปิลวตฺถุํ  อคมาสิ ฯ  ตทา  สกฺยราชาโน  มยํ  อิมํ (๓) 
+<span class="LineNumber"> 010 </span>สิทฺธตฺถกุมารํ  อมฺหากํ  าติเสฏฺ€ํ  ปสฺสิสฺสามาติ  สนฺนิปติตฺวา
+<span class="LineNumber"> 011 </span>ภควโต  วสนฏฺ€านํ  วิมํสมานา  นิโคฺรธสกฺกสฺสาราโม 
+<span class="LineNumber"> 012 </span>รมฺมณีโยติ  สลฺลกฺเขตฺวา  ตตฺถ  สพฺพํ ปฏิชคฺคนวิธึ  กตฺวา 
+<span class="LineNumber"> 013 </span>คนฺธปุปฺผจุณฺณาทิหตฺถา(๔)  ปจฺจุคฺคมนํ กโรนฺตา สพฺพาลงฺการ-
+<span class="LineNumber"> 014 </span>ปฏิมณฺฑิเต  ทหรทหเร  นาครทารเก  จ  นาครทาริกาโย  จ
+<span class="LineNumber"> 015 </span>ป€มํ  ปหิณึสุ ฯ  ตโต  ราชกุมาเร  จ  ราชกุมาริกาโย  จ 
+<span class="LineNumber"> 016 </span>เตสํ  อนฺตรา  สามํ  คนฺธปุปฺผจุณฺณาทีหิ  สตฺถารํ  ปูชยมานา(๕)
+<span class="LineNumber"> 017 </span>ภควนฺตํ  คเหตฺวา  นิโคฺรธารามเมว  อคมํสุ ฯ  ตตฺถ  ภควา
+<span class="LineNumber"> 018 </span>วีสติสหสฺสขีณฺณาสวปริวุโต  ปฺตฺตปวรพุทฺธาสเน  นิสีทิ ฯ
+<span class="LineNumber"> 019 </span># ๑. ม. กปิลวตฺถุํ ฯ  ๒. ม. มคฺคเทสเกน ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. อมฺหากํ ฯ  ๔. ม. คนฺธปุปฺผาทิหตฺถา ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. ปูเชตฺวา ฯ 

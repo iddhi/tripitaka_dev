@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>ธรรมนั้น   การที่พรหมจรรย์นี้   พึงยั่งยืน  ตั้งอยู่นาน  นั้นพึงเป็นไปเพื่อ
+<span class="LineNumber"> 002 </span>ประโยชน์แก่ชนมาก   เพื่อความสุขแก่ชนมาก  เพื่อความอนุเคราะห์แก่โลก
+<span class="LineNumber"> 003 </span>เพื่อประโยชน์   เพื่อเกื้อกูล   เพื่อความสุขแก่เทวดาและมนุษย์ทั้งหลาย.
+<span class="LineNumber"> 004 </span>                                   <I>จบสังคีติหมวด  ๔</I>
+
+<span class="LineNumber"> 005 </span>                       <H1>ว่าด้วยสังคีติหมวด  ๕</H1>
+
+<span class="LineNumber"> 006 </span>          [๒๗๘]   ดูก่อนผู้มีอายุทั้งหลาย   ธรรม  ๕  อันพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 007 </span>ทรงรู้ ทรงเห็น เป็นพระอรหันตสัมมาสัมพุทธเจ้า พระองค์นั้น   ตรัสไว้โดย
+<span class="LineNumber"> 008 </span>ชอบแล้วมีอยู่แล   พวกเราทั้งหมดด้วยกัน   พึงสังคายนาในธรรมนั้น ฯลฯ
+<span class="LineNumber"> 009 </span>เพื่อประโยชน์   เพื่อเกื้อกูล   เพื่อความสุขแก่เทวดา   และมนุษย์ทั้งหลาย  ฯ
+<span class="LineNumber"> 010 </span>ธรรม ๕ เป็นไฉน.   คือ
+<span class="LineNumber"> 011 </span>	               <H2>ขันธ์  ๕</H2>
+<span class="LineNumber"> 012 </span>                  ๑.  รูปขันธ์              กองรูป
+<span class="LineNumber"> 013 </span>                  ๒.  เวทนาขันธ์        กองเวทนา
+<span class="LineNumber"> 014 </span>                  ๓.  สัญญาขันธ์         กองสัญญา
+<span class="LineNumber"> 015 </span>                  ๔.  สังขารขันธ์         กองสังขาร
+<span class="LineNumber"> 016 </span>                  ๕.  วิญญาณขันธ์       กองวิญญาณ.
+<span class="LineNumber"> 017 </span>            <H2>[๒๗๙]     อุปาทานขันธ์  ๕</H2>
+<span class="LineNumber"> 018 </span>                  ๑.  รูปูปาทานขันธ์         กองยึดถือรูป
+<span class="LineNumber"> 019 </span>                  ๒.  เวทนูปาทานขันธ์    กองยึดถือเวทนา
+<span class="LineNumber"> 020 </span>                  ๓.  สัญญูปาทานขันธ์     กองยึดถือสัญญา
+<span class="LineNumber"> 021 </span>                  ๔.  สังขารูปาทานขันธ์    กองยึดถือสังขาร
+<span class="LineNumber"> 022 </span>                  ๕.  วิญญาณูปาทานขันธ์  กองยึดถือวิญญาณ.

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  อสีตินิปาตวณฺณนา  หน้า  324
+
+<span class="LineNumber"> 002 </span>		หเรณุกา เวลุกา เวณุติณฺฑุกา  
+<span class="LineNumber"> 003 </span>		สามากนิวารมโถปิ จีนกา  
+<span class="LineNumber"> 004 </span>		โมจา กทลี พหุเกตฺถ สาลิโย  
+<span class="LineNumber"> 005 </span>		ปวีหโย อาภุชิโนปิ ตณฺฑุลา ฯ  
+<span class="LineNumber"> 006 </span>	ตสฺส จ อุตฺตรปุพฺเพน(๑)  ชาตา โปกฺขรณี สิวา  
+<span class="LineNumber"> 007 </span>	อกกฺกสา อปพฺภารา  สาทุ อปฺปฏิคนฺธิกา ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ มจฺฉา สนฺนิรตา  เขมิโน พหุโภชนา  
+<span class="LineNumber"> 009 </span>	สิงฺคุสวงฺกา สกุลา(๒)  สตวงฺกา จ โรหิตา  
+<span class="LineNumber"> 010 </span>	อาลิคคฺครกากิณฺณา  ปาฏินา กากมจฺฉกา ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ ปกฺขี สนฺนิรตา  เขมิโน พหุโภชนา  
+<span class="LineNumber"> 012 </span>	หํสา โกฺจา มยูรา จ  จากวากา(๓) จ กุกฺกุหา  
+<span class="LineNumber"> 013 </span>	กุณาลกา พหู จิตฺรา  สิขิณฺฑา ชีวชีวกา ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ ปาณา สมายนฺติ  นานามิคคณา พหู  
+<span class="LineNumber"> 015 </span>	สีหา พฺยคฺฆา วราหา จ  อจฺฉโกกตรจฺฉโย ฯ  
+<span class="LineNumber"> 016 </span>	ปลสทา จ ควชา(๔)  มหิสา โรหิตา รุรู  
+<span class="LineNumber"> 017 </span>	เอเณยฺยา จ วราหา จ  คณิโน นีกสูกรา ฯ  
+<span class="LineNumber"> 018 </span>	กทลิมิคา พหู จิตฺรา(๕)  วิฬารา สสกณฺณิกา  
+<span class="LineNumber"> 019 </span>		ฉมาคิรี ปุปฺผจิตฺรสนฺถตา  
+<span class="LineNumber"> 020 </span>		ทิชาภิฆุฏฺ€า ทิชสงฺฆเสวิตาติ ฯ  
+<span class="LineNumber"> 021 </span>	ตตฺถ  ชุตีมตาติ  อานุภาวสมฺปนฺเนน ฯ  ปาวิสิยสฺสมนฺติ  ปาวิสิ  
+<span class="LineNumber"> 022 </span># ๑. ม. ตสฺเสวุตฺตรปสฺเสน ฯ  ๒. ม. สงฺกุลา ฯ  ๓. ม. จกฺกวากา ฯ
+<span class="LineNumber"> 023 </span># ๔. ม. ปลาสาทา  ควชา  จ ฯ  ๕. ม. พหุกตฺถ ฯ

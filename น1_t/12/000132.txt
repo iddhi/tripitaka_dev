@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                               อภิหปัจจเวกขณ์   ๕  
+<span class="LineNumber"> 002 </span>	๑.   ควรพิจารณาทุกวัน  ๆ  ว่า   เรามีความแก่เป็นธรรมดา   ไม่ล่าง		
+<span class="LineNumber"> 003 </span>              พ้นความแก่ไปได้.
+<span class="LineNumber"> 004 </span>	๒.  ควรพิจารณาทุก  ๆ  วันว่า   เรามีความเจ็บเป็นธรรมดา   ไม่ล่วง
+<span class="LineNumber"> 005 </span>              พ้นความเจ็บไปได้.
+<span class="LineNumber"> 006 </span>	๓.  ควรพิจารณาทุก ๆ วันว่า   เรามีความตายเป็นธรรม   ไม่ล่วง
+<span class="LineNumber"> 007 </span>              พ้นความตายไปได้.
+<span class="LineNumber"> 008 </span>	๔.  ควรพิจารณาทุก ๆ  วันว่า   เราจะต้องพลัดพรากจากของรัก
+<span class="LineNumber"> 009 </span>              ของชอบใจทั้งสิ้น.
+<span class="LineNumber"> 010 </span>	๕.  ควรพิจารณาทุกวัน  ๆ ว่า    เรามีกรรมเป็นของตัว   เราทำดีจัก
+<span class="LineNumber"> 011 </span>               ได้ดี   ทำชั่วจักได้ชั่ว.
+<span class="LineNumber"> 012 </span>											องฺ.   ปญฺจก.   ๒๒/๘๑
+<span class="LineNumber"> 013 </span>                                         อธิบายศัพท์ 
+<span class="LineNumber"> 014 </span>	๑.   ชรา  <B>ความแก่</B>  มี  ๒  อย่าง  คือ   ๑.  <B>ปฏิจฉันนชรา</B>   แก่ที่ปกปิด
+<span class="LineNumber"> 015 </span>ได้แก่ความแก่ขึ้น   นับตั้งแต่เกิดแล้วก็แก่ขึ้นโดยลำดับ   จนถึงวัยกลางคน
+<span class="LineNumber"> 016 </span>แก่อย่างนี้มองไม่เห็น    เหมือนของที่ปิดบังไว้   แต่ผู้มีปัญญาย่อมรู้เห็น.
+<span class="LineNumber"> 017 </span>๒.  <B>อัปปฏิจฉันนชรา</B>    แก่ที่ไม่ปกปิด    ได้แก่ความแก่ลง    นับตั้งแต่วัย
+<span class="LineNumber"> 018 </span>กลางคนแล้วก็แก่ลงไป  ใคร  ๆ  ก็ย่อมมองเห็นได้ชัด   เช่น  หนังเหี่ยวแห้ง
+
+

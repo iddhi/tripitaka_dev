@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  224
+
+<span class="LineNumber"> 002 </span>าณปจฺจนีกโต  อฺาณํ ฯ
+<span class="LineNumber"> 003 </span>	ทสฺสนนฺติปิ  ปฺา  สาปิ  ตมาการํ  ปสฺสติ ฯ  อวิชฺชา
+<span class="LineNumber"> 004 </span>ปน  อุปฺปชฺชิตฺวา  ตํ  ปสฺสิตุํ  น  เทตีติ อทสฺสนํ ฯ 
+<span class="LineNumber"> 005 </span>	อภิสมโยติปิ ปฺา  สา  ตมาการํ  อภิสเมติ ฯ  อวิชฺชา
+<span class="LineNumber"> 006 </span>ปน  อุปฺปชฺชิตฺวา  ตํ  อภิสเมตุํ  น  เทตีติ  อนภิสมโย ฯ 
+<span class="LineNumber"> 007 </span>	อนุโพโธ  สมฺโพโธ  ปฏิเวโธติปิ  ปฺา  สา  ตมาการํ 
+<span class="LineNumber"> 008 </span>อนุพุชฺฌติ  สมฺพุชฺฌติ  ปฏิวิชฺฌติ ฯ  อวิชฺชา  ปน  อุปฺปชฺชิตฺวา
+<span class="LineNumber"> 009 </span>ตํ อนุพุชฺฌิตุํ สมฺพุชฺฌิตุํ  ปฏิวิชฺฌิตุํ  น  เทตีติ  อนนุโพโธ 
+<span class="LineNumber"> 010 </span>อสมฺโพโธ  อปฺปฏิเวโธ ฯ  
+<span class="LineNumber"> 011 </span>	สงฺคาหณาติปิ  ปฺา  สา  ตํ  อาการํ  คเหตฺวา  
+<span class="LineNumber"> 012 </span>ฆํสิตฺวา  คณฺหาติ ฯ  อวิชฺชา  ปน อุปฺปชฺชิตฺวา  ตํ  คเหตฺวา 
+<span class="LineNumber"> 013 </span>ฆํสิตฺวา  คณฺหิตุํ  น  เทตีติ  อสงฺคาหณา ฯ  
+<span class="LineNumber"> 014 </span>	ปริโยคาหณาติปิ  ปฺา  สา  ตํ  อาการํ  โอคาหิตฺวา 
+<span class="LineNumber"> 015 </span>อนุปวิสิตฺวา  คณฺหาติ ฯ  อวิชฺชา  ปน  อุปฺปชฺชิตฺวา  ตํ
+<span class="LineNumber"> 016 </span>โอคาหิตฺวา  อนุปวิสิตฺวา  คณฺหิตุํ  น  เทตีติ  อปริโยคาหณา ฯ 
+<span class="LineNumber"> 017 </span>	สมเปกฺขนาติปิ  ปฺา  สา  ตํ  อาการํ  สมํ  สมฺมา
+<span class="LineNumber"> 018 </span>จ  เปกฺขติ ฯ  อวิชฺชา  ปน  อุปฺปชฺชิตฺวา  ตํ  สมํ  สมฺมา  
+<span class="LineNumber"> 019 </span>จ  เปกฺขิตุํ  น  เทตีติ  อสมเปกฺขนา ฯ
+<span class="LineNumber"> 020 </span>	ปจฺจเวกฺขณาติปิ  ปฺา  สา  ตํ  อาการํ  ปจฺจเวกฺขติ ฯ 
+<span class="LineNumber"> 021 </span>อวิชฺชา  ปน  อุปฺปชฺชิตฺวา  ตํ  ปจฺจเวกฺขิตุํ  น  เทตีติ  

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑  หน้า  ๓๕๒
+
+<span class="LineNumber"> 002 </span>			กุลสุตฺตวณฺณนา            
+<span class="LineNumber"> 003 </span>	ตติเย  สุปธํสิยานีติ  สุวิเห€ิยานิ ฯ  กุมฺภตฺเถนเกหีติ 
+<span class="LineNumber"> 004 </span>เย  ปรฆรํ ปวิสิตฺวา  ทีปาโลเกน  โอโลเกตฺวา ปรภณฺฑํ 
+<span class="LineNumber"> 005 </span>หริตุกามา ฆเฏ ทีปํ กตฺวา ปวิสนฺติ เต กุมฺภตฺเถนกา  
+<span class="LineNumber"> 006 </span>นาม  เตหิ  กุมฺภตฺเถนเกหิ ฯ  สุปธํสิโย  โหติ  อมนุสฺเสหีติ 
+<span class="LineNumber"> 007 </span>เมตฺตาภาวนารหิตํ  หิ  ปํสุปิสาจกา  วิธํสยนฺติ  (๑)  ปเคว  อุฬารา
+<span class="LineNumber"> 008 </span>อมนุสฺสา ฯ ภาวิตาติ  วฑฺฒิตา ฯ  พหุลีกตาติ  ปุนปฺปุนํ  กตา ฯ  
+<span class="LineNumber"> 009 </span>ยานีกตาติ  ยุตฺตยานํ  วิย กตา ฯ  วตฺถุกตาติ  ปติฏฺ€านฏฺเ€น  
+<span class="LineNumber"> 010 </span>วตฺถุ  วิย  กตา ฯ  อนุฏฺ€ิตาติ  อธิฏฺ€ิตา ฯ  (๒) ปริจิตาติ สมนฺตโต 
+<span class="LineNumber"> 011 </span>จิตา สุวฑฺฒิตา สุสมารทฺธาติ จิตฺเตน สุฏฺ€ุ สมารทฺธา ฯ 
+<span class="LineNumber"> 012 </span>				ตติยํ ฯ  
+
+<span class="LineNumber"> 013 </span>			โอกฺขาสุตฺตวณฺณนา           
+<span class="LineNumber"> 014 </span>	จตุตฺเถ  โอกฺขาสตนฺติ  มหามุขอุกฺขลีนํ  สตํ ฯ  ทานํ  
+<span class="LineNumber"> 015 </span>ทเทยฺยาติ ปณีตโภชนภริตานํ  มหาอุกฺขลีนํ  สตํ  ทานํ  ทเทยฺยํ ฯ 
+<span class="LineNumber"> 016 </span>อุกฺกาสตนฺติปิ  ปาโ€ ตสฺส  ทณฺฑทีปิกาสตนฺติ  อตฺโถ ฯ  
+<span class="LineNumber"> 017 </span>เอกาย  ปน  ทีปิกาย  ยตฺตเก  €าเน  อาโลโก  โหติ  ตโต 
+<span class="LineNumber"> 018 </span>สตคุณํ  €านํ  สตฺตหิ  รตเนหิ  ปูเรตฺวา  ทานํ  ทเทยฺยาติ  
+<span class="LineNumber"> 019 </span>อตฺโถ ฯ  คทฺทูหนมตฺตนฺติ  โคทูหนมตฺตํ  คาวิยา  เอกวารํ  
+<span class="LineNumber"> 020 </span># ๑. สี. ปํสุปิสาจกาปิ ธํสยนฺติ ฯ  ๒. สี. อวฏฺ€ิตา ฯ

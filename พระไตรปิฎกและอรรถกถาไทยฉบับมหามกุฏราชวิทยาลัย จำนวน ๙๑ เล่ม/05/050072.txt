@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>ติกะทุกกฏ</H2>
+<span class="LineNumber"> 002 </span>            กรรมไม่เป็นธรรม   ภิกษุณีสำคัญว่ากรรมเป็นธรรม . . .   ต้องอาบัติ
+<span class="LineNumber"> 003 </span>ทุกกฏ.
+<span class="LineNumber"> 004 </span>            กรรมไม่เป็นธรรม    ภิกษุณีสงสัย . . .   ต้องอาบัติทุกกฏ.           
+<span class="LineNumber"> 005 </span>            กรรมไม่เป็นธรรม ภิกษุณีสำคัญว่า กรรมไม่เป็นธรรม . . . ต้องอาบัติ
+<span class="LineNumber"> 006 </span>ทุกกฏ.
+
+<span class="LineNumber"> 007 </span>                                       <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 008 </span>            [๕๑]   บอกกล่าวการกสงฆ์ผู้ทำกรรม แล้วเรียกเข้าหมู่  ๑  รู้ฉันทะของ
+<span class="LineNumber"> 009 </span>คณะ   แล้วเรียกเข้าหมู่  ๑   เรียกภิกษุณีผู้ประพฤติชอบแล้วเข้าหมู่  ๑   เรียกเข้า
+<span class="LineNumber"> 010 </span>หมู่ในเมื่อการกสงฆ์ผู้ทำกรรมไม่มี  ๑    วิกลจริต ๑    อาทิกัมมิกา ๑    ไม่ต้อง
+<span class="LineNumber"> 011 </span>อาบัติแล.
+<span class="LineNumber"> 012 </span>                                        <I>สังฆาทิเสสสิกขาบทที่  ๔  จบ</I>
+
+<span class="LineNumber"> 013 </span>                                     <H1>อรรถกถาสังฆาทิเสสสิกขาบทที่  ๔</H1>
+<span class="LineNumber"> 014 </span>            วินิจฉัยในสิกขาบทที่  ๔  พึงทราบดังนี้ :-
+<span class="LineNumber"> 015 </span>            ที่วางเท้าที่ล้างแล้ว  ชื่อว่า  ตั่งรองเท้า.  ที่สำหรับรองเท้าที่ยังไม่ได้ล้าง
+<span class="LineNumber"> 016 </span>ชื่อว่า   กระเบื้องเช็ดเท้า.
+<span class="LineNumber"> 017 </span>            ข้อว่า   <B>อนญฺญาย   คณสฺส  ฉนฺทํ </B>   ได้แก่   ไม่รู้ฉันทะของคณะผู้
+<span class="LineNumber"> 018 </span>กระทำนั้นนั่นแล.
+<span class="LineNumber"> 019 </span>            สองบทว่า   <B>วตฺเต   วตฺตนฺตึ </B>  ได้แก่  ผู้ประพฤติชอบในเนตถารวัตร
+<span class="LineNumber"> 020 </span>(วัตรเป็นเหตุสลัดออก)   ๔๓ ประเภท.  คำที่เหลือตื้นทั้งนั้น.

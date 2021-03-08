@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>อรูเป   รูปกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๒๓๕]   <B>สกวาที</B>   รูปมีอยู่ในอรูปสัตว์ทั้งหลาย  หรือ  ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ป. เป็นรูปภพ   เป็นรูปคติ   เป็นไปสัตตาวาส   เป็นรูป
+<span class="LineNumber"> 005 </span>สงสาร  เป็นกำเนิดแห่งรูปสัตว์ เป็นการได้อัตภาพแห่งรูปสัตว์ หรือ ?
+<span class="LineNumber"> 006 </span>                       ส. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                       ป. อรูปภพ   เป็นอรูปคติ   อรูปสัตตาวาส   อรูปสงสาร
+<span class="LineNumber"> 008 </span>เป็นกำเนิดแห่งอรูปสัตว์ เป็นการได้อัตภาพแห่งอรูปสัตว์ มิใช่หรือ  ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. หากว่า   เป็นอรูปภพ  ฯลฯ  เป็นการได้อัตภาพแห่ง
+<span class="LineNumber"> 011 </span>อรูปสัตว์ ก็ไม่พึงกล่าวว่า  รูปมีอยู่ในอรูปสัตว์ทั้งหลาย.
+<span class="LineNumber"> 012 </span>         [๑๒๓๖]  ส. รูปมีอยู่ในอรูปสัตว์ทั้งหลาย หรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                       ส. เป็นภพ   คติ   สัตตาวาส  สงสาร  กำเนิด  วิญญาณฐิติ
+<span class="LineNumber"> 015 </span>การได้อัตภาพแห่งสัตว์มีขันธ์  ๕  หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 017 </span>                       ส. เป็นภพ  ฯลฯ การได้อัตภาพแห่งสัตว์มีขันธ์ ๔ มิใช่หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                       ส. หากว่า  เป็นภพ  คติ  ฯลฯ   การได้อัตภาพแห่งสัตว์มี
+<span class="LineNumber"> 020 </span>ขันธ์ ๔  ก็ไม่พึงกล่าวว่า    รูปมีอยู่ในอรูปสัตว์ทั้งหลาย.
+<span class="LineNumber"> 021 </span>         [๑๒๓๗]  ส. รูปมีอยู่ในรูปธาตุ   และรูปธาตุนั้น   เป็นรูปภพ   เป็น
+<span class="LineNumber"> 022 </span>รูปคติ  เป็นรูปสัตตาวาส  เป็นรูปสงสาร  เป็นกำเนิดแห่งรูปสัตว์  เป็นการ

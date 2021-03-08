@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>    
+<span class="LineNumber"> 002 </span><B>๒๑๙  กาฬปักษ์</B>		ข้ามแรม,  ๑๔  วันบ้าง  ๑๕  วันบาง  เป็น  ๑
+<span class="LineNumber"> 003 </span>						กาฬปักษ์.
+<span class="LineNumber"> 004 </span><B>๕๖  กำหนัด</B>				ยินดี,    กระวนกระวายในกาม,  คิดถึงด้วย
+<span class="LineNumber"> 005 </span>						ความรักอิงกาม,  อย่างทางกาม.
+<span class="LineNumber"> 006 </span><B>๑๘๗  กิจวัตร</B>				ข้อปฏิบัติที่ทำประจำ,   กิจทางศาสนาที่ทำ
+<span class="LineNumber"> 007 </span>						ประจำวัน,   ข้อที่พระสงฆ์ทำประจำวัน.
+<span class="LineNumber"> 008 </span><B>๔๘   กิเลสกาม</B>				เครื่องเศร้าหมองใจที่ให้ใคร่คือระคะ,  โลภะ,
+<span class="LineNumber"> 009 </span>						อิจฉา  ความอยากได้,   อิสสา  ความริษยา
+<span class="LineNumber"> 010 </span>						หรือหึงหวง,   อรติ  ความไม่ยินดีด้วย,  อสัน-
+<span class="LineNumber"> 011 </span>						ตุฏฐิ   ความไม่สันโดษ  เป็นต้น.
+<span class="LineNumber"> 012 </span><B>๑๖๖  แกงได</B>  				รอยกากบาทหรือขีดเขียน  ซึ่งคนไม่รู้หนังสือ
+<span class="LineNumber"> 013 </span>						ขีดลงไว้เป็นสำคัญ.
+<span class="LineNumber"> 014 </span><B>๙๘ โกสิยวรรค</B>  			หมวดแห่งสิกขาบทว่าด้วยเรื่องสันถัตขนเจียม
+<span class="LineNumber"> 015 </span>						เจือด้วยไหมเป็นต้น.  (นิสสัคคิยปาจิตตีย์
+<span class="LineNumber"> 016 </span>						วรรคที่  ๒).
+<span class="LineNumber"> 017 </span>			<B>ข.</B>
+<span class="LineNumber"> 018 </span><B>๙๘  ของเจียม</B>				ขนแกะ,  ขนสัตว์ชนิดหนึ่งในจำพวกกวาง.
+<span class="LineNumber"> 019 </span><B>๑๔๙  ของทำวินัยกรรม</B>		ของที่ทำให้ถูกตามวินัยนิยม.
+<span class="LineNumber"> 020 </span><B>๑๐๒  ของเป็นกัปปิยะ</B>		ของที่สมควรแก่สมณะ.
+<span class="LineNumber"> 021 </span><B>๘๒  เขตอานิสงส์กฐิน</B>  		ตั้งแต่แรมค่ำ  ๑  เดือน  ๑๒  ถึงกลางเดือน  ๔.
+

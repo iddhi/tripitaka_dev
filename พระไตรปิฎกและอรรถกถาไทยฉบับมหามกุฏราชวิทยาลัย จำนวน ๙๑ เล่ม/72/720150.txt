@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>อรรถกถาสาลมัณฑปิยเถราปทาน</H1>
+
+<span class="LineNumber"> 002 </span>            อปทานที่ ๑๐  มีเนื้อความพอที่จะกำหนดรู้ได้โดยง่ายทีเดียวแล.
+<span class="LineNumber"> 003 </span>                            จบอรรถกถาปังสุกูลวรรคที่  ๔๙
+
+<span class="LineNumber"> 004 </span>                            <H1>รวมอปทานที่มีในวรรค</H1>นี้    คือ 
+
+<span class="LineNumber"> 005 </span>               ๑.  ปังสุกูลสัญญกเถราปทาน        ๒.   พุทธสัญญกเถราปทาน   ๓.
+<span class="LineNumber"> 006 </span>ภิสทายกเถราปทาน   ๔.  ญาณถวิกเถราปทาน    ๕.  จันทนมาลิยเถราปทาน
+<span class="LineNumber"> 007 </span>๖.  ธาตุปูชกเถราปทาน   ๗.  ปุฬินุปปาทกเถราปทาน    ๘.  ตรณิยเถราปทาน
+<span class="LineNumber"> 008 </span>๙.  ธัมมรุจิเถราปทาน    ๑๐.  สาลมัณฑปิยเถราปทาน.
+<span class="LineNumber"> 009 </span>              มีคาถาคำนวณได้  ๒๑๙  คาถา.
+<span class="LineNumber"> 010 </span>                               จบปังสุกูลวรรคที่  ๔๙

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๑๑   หน้า ๑๖๑
+
+<span class="LineNumber"> 002 </span>					ปุตฺตมํสสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ตติเย  จตฺตาโรเม  ภิกฺขเว  อาหาราติอาทีสุ  วุตฺตนยเมว ฯ  
+<span class="LineNumber"> 004 </span>ยสฺมา  ปนสฺส  อตฺถุปฺปตฺตินิกฺเขโป  (๑)  ตสฺมา  ตํ  ทสฺเสตฺวา
+<span class="LineNumber"> 005 </span>เวตฺถ  อนุปุพฺพปทวณฺณนํ   กริสฺสามิ ฯ  กตราย  ปน  อิทํ  
+<span class="LineNumber"> 006 </span>อตฺถุปฺปตฺติยา  นิกฺขิตฺตนฺติ  ลาภสกฺกาเรน ฯ  (๒) 
+<span class="LineNumber"> 007 </span>	ภควโต  กิร  มหาลาภสกฺกาโร  อุปฺปชฺชิ  ยถา  ตํ  
+<span class="LineNumber"> 008 </span>จตฺตาโร  อสงฺเขยฺเย  ปูริตปารมีสฺจยสฺส ฯ   สพฺพทิสาสุ  หิ  
+<span class="LineNumber"> 009 </span>สยํ  มหาเมโฆ  (๓)  วุฏฺ€หิตฺวา  มโหฆํ วิย  สพฺพปารมิโย  เอกสฺมึ  
+<span class="LineNumber"> 010 </span>อตฺตภาเว  วิปากํ  ทสฺสามาติ  สมฺปิณฺฑิตา  วิย  ลาภสกฺการ-
+<span class="LineNumber"> 011 </span>มโหฆํ  นิพฺพตฺตยึสุ ฯ  ตโต  ตโต  อนฺนปานยานวตฺถมาลา-
+<span class="LineNumber"> 012 </span>คนฺธวิเลปนาทิหตฺถา  ขตฺติยพฺราหฺมณาทโย  อาคนฺตฺวา  กหํ  
+<span class="LineNumber"> 013 </span>พุทฺโธ  กหํ  ภควา กหํ เทวเทโว นราสโภ  ปุริสสีโหติ  
+<span class="LineNumber"> 014 </span>ภควนฺตํ  ปริเยสนฺติ  สกฏสเตหิปิ  ปจฺจเย  อาหริตฺวา  โอกาสํ 
+<span class="LineNumber"> 015 </span>อลภมานา  สมนฺตา  คาวุตปฺปมาณมฺปิ  สกฏธุเรน  สกฏธุรํ 
+<span class="LineNumber"> 016 </span>อาหจฺจ  ติฏฺ€นฺติ  เจว   อนุปฺปวตฺตนฺติ  จ  อนฺธกวินฺท-
+<span class="LineNumber"> 017 </span>พฺราหฺมณาทโย  วิย ฯ  สพฺพํ  ขนฺธเก    เตสุ   เตสุ สุตฺเตสุ  
+<span class="LineNumber"> 018 </span>จ อาคตนเยน เวทิตพฺพํ ฯ ยถา จ ภควโต เอวํ ภิกฺขุ-
+<span class="LineNumber"> 019 </span>สงฺฆสฺสาปิ ฯ   วุตฺตํ เจตํ         
+<span class="LineNumber"> 020 </span># ๑. ม. อฏฺ€ุปฺปตฺติโต ฯ  ยุ. อฏฺ€ุปฺปตฺติโก นิกฺเขโป ฯ  ๒. สี. ยุ. ลาภสกฺกาเร ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. หิสฺส ยมกมหาเมโฆ ฯ

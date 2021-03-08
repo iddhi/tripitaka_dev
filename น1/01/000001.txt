@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                       นวโกวาท
+<span class="LineNumber"> 002 </span>                                     วินัยบัญญัติ
+
+<span class="LineNumber"> 003 </span>                                 อนุศาสน์  ๘  อย่าง  
+<span class="LineNumber"> 004 </span>                              นิสสัย ๔  อกรณียกิจ ๔
+<span class="LineNumber"> 005 </span>           ปัจจัยเครื่องอาศัยของบรรพชิต  เรียกนิสสัย  มี ๔ อย่าง  คือ
+<span class="LineNumber"> 006 </span>เที่ยวบิณฑบาต ๑  นุ่งห่มผ้าบังสุกุล ๑  อยู่โคนไม้ ๑  ฉันยาดองด้วย
+<span class="LineNumber"> 007 </span>น้ำมูตรเน่า ๑.
+<span class="LineNumber"> 008 </span>           กิจที่ไม่ควรทำ  เรียกอกรณียกิจ  มี ๔ อย่าง  คือ  เสพเมถุน ๑
+<span class="LineNumber"> 009 </span>ลักของเขา ๑  ฆ่าสัตว์ ๑  พูดอวดคุณพิเศษที่ไม่มีในตน ๑  กิจ
+<span class="LineNumber"> 010 </span>๔ อย่างนี้  บรรพชิตทำไม่ได้.
+<span class="LineNumber"> 011 </span>                              สิกขาของภิกษุมี ๓ อย่าง
+<span class="LineNumber"> 012 </span>           คือ  ศีล  สมาธิ  ปัญญา.  ความสำรวมกายวาจาให้เรียบร้อย  ชื่อว่า
+<span class="LineNumber"> 013 </span>ศีล.  ความรักษาใจมั่น  ชื่อว่าสมาธิ.  ความรอบรู้ในกองสังขาร
+<span class="LineNumber"> 014 </span>ชื่อว่าปัญญา.
+<span class="LineNumber"> 015 </span>           โทษที่เกิดเพราะความละเมิดในข้อที่พระพุทธเจ้าห้าม  เรียกว่า
+<span class="LineNumber"> 016 </span>อาบัติ.  อาบัตินั้นว่าโดยชื่อ  มี ๗ อย่าง  คือ ปาราชิก ๑
+<span class="LineNumber"> 017 </span>สังฆาทิเสส ๑  ถุลลัจจัย ๑  ปาจิตตีย์ ๑  ปาฏิเทสนียะ ๑  ทุกกฏ ๑
+<span class="LineNumber"> 018 </span>ทุพภาสิต ๑

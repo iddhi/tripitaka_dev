@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                              คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.  สัมมาทิฏฐิ   ในองค์มรรคกับในอริยสัจ  ๔   ต่างกันอย่างไร  ?
+<span class="LineNumber"> 003 </span>	๒.  ดำริชอบ   ได้แก่การดำริอย่างไร  ?   สงเคราะห์เข้าในสิกขา
+<span class="LineNumber"> 004 </span>              ข้อไหน  ?
+<span class="LineNumber"> 005 </span>	๓.  ศีลในองค์มรรคท่านว่ามี  ๘  อย่าง  อยากทราบว่าอะไรบ้าง ?
+<span class="LineNumber"> 006 </span>	๔.  สัมมาสติกับสัมมาสมาธิ   อย่างไหนสูงกว่ากัน  ?    อธิบาย
+<span class="LineNumber"> 007 </span>	๕.  สมาธิกับฌานต่างกันหรือเหมือนกันอย่างไร  ?
+<span class="LineNumber"> 008 </span>	๖.   มรรคกับองค์มรรค   มีอย่างละเท่าไร  ?   คืออะไร  ?
+<span class="LineNumber"> 009 </span>	๗.   ถ้าต้องการไปนิพพาน   จะไปทางไหน  ?
+				         
+<span class="LineNumber"> 010 </span><B>	สัมมาทิฏฐิ 		มีความเห็นดี			ข้อนี้เป็นหลัก
+<span class="LineNumber"> 011 </span>เห็นทุกข์สมุทัย     นิโรธและมรรค     แจ่มแจ้งประจักษ์   ตลอดเนื้อความ.
+<span class="LineNumber"> 012 </span>มิพยาบาท   มิคาดคุกคาม    มิติดมิตาม     เบียดเบียนผู้ใด.
+<span class="LineNumber"> 013 </span>	สัมมาวาจา 		พูดดีมีค่า 				สัจจาปราศรัย
+<span class="LineNumber"> 014 </span>มิพูดส่อเสียด     มิเหยียดหยามใคร    มิเพ้อเจ้อไป    พูดไพเราะดี.
+<span class="LineNumber"> 015 </span>	สัมมากัมมันต์     	  ทำงานทุกอัน    	          งามสมศักดิ์ศรี
+<span class="LineNumber"> 016 </span>มิเกี่ยวการฆ่า         ลักพาบ่มี         เรื่องอิสตรี        บ่มีระคาย.</B>

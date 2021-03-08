@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ปฺจมวคฺเค สนฺธิตตฺเถรคาถาวณฺณนา  หน้า 721
+
+<span class="LineNumber"> 002 </span>	สํวิรูฬฺหมฺหีติ สุฏฺ€ุ วิรูเฬฺห สุปฺปติฏฺ€ิเต สุฆนนิจิต-  
+<span class="LineNumber"> 003 </span>ปตฺตปลาสปลฺลเวหิ  วิรูฬฺหสฺฉนฺเนติ  จ  วทนฺติ ฯ  
+<span class="LineNumber"> 004 </span>	ปาทเปติ  รุกฺเข ฯ 
+<span class="LineNumber"> 005 </span>	เอกํ  พุทฺธคตํ  สฺํ  อลภิตฺถํ  ปติสฺสโตติ  
+<span class="LineNumber"> 006 </span>พุทฺธารมฺมณํ อารมฺมณสฺส เอกชาติยตฺตา  เอกํ  อิติปิ  โส  
+<span class="LineNumber"> 007 </span>ภควาติอาทินยปฺปวตฺตํ  พุทฺธานุสฺสติสหคตํ  สฺํ พุทฺธคุณานํ 
+<span class="LineNumber"> 008 </span>ปติปติสรณโต (๑) ปติสฺสโต หุตฺวา อลภึ ฯ  
+<span class="LineNumber"> 009 </span>	กทา  ปน  สา  สฺา  ลทฺธา  กีวตาย  สิทธาติ  อาห
+<span class="LineNumber"> 010 </span>เอกตึเส อิโต  กปฺเปติอาทิ ฯ  อิโต  ภทฺทกปฺปโต  อุทฺธํ 
+<span class="LineNumber"> 011 </span>อาโรหนวเสน เอกตึเส กปฺเป ฯ
+<span class="LineNumber"> 012 </span>	ยํ สฺนฺติ ยํ  พุทฺธานุสฺสติสหคตํ  สฺํ  ยํ  วา 
+<span class="LineNumber"> 013 </span>พุทฺธานํ  อนิจฺจตํ ทิสฺวา ตทนุสาเรน (๒) สพฺพสงฺขาเรสุ  ตทา
+<span class="LineNumber"> 014 </span>อนิจฺจสฺํ  อลภึ ฯ
+<span class="LineNumber"> 015 </span>	ตสฺสา  สฺาย วาหสาติ ตสฺสา ยถาวุตฺตาย สฺาย
+<span class="LineNumber"> 016 </span>การณภาเวน  ตํ  อุปนิสฺสยํ  กตฺวา ฯ  
+<span class="LineNumber"> 017 </span>	ปตฺโต  เม  อาสวกฺขโยติ  อิทานิ  มยา  อาสวานํ 
+<span class="LineNumber"> 018 </span>ขโย  นิโรโธ  อธิคโตติ อิมาเยว จ อิมสฺส เถรสฺส 
+<span class="LineNumber"> 019 </span>อปทานคาถาปิ ฯ  ยถาห 
+<span class="LineNumber"> 020 </span># ๑. สี. พุทฺธคุณานํ วา พุทฺธานํ วา ปฏิสรณโต ฯ 
+<span class="LineNumber"> 021 </span># ๒. สี. ยํ วา พุทฺธานํ อนิจฺจตํ ทิสฺวา ยํ ตทนุสฺสรณา ฯ 
+<span class="LineNumber"> 022 </span># ยุ. ยํ วา พุทฺธานํ อนิจฺจตํ นิสฺสาย ตทนุสาเรน ฯ 

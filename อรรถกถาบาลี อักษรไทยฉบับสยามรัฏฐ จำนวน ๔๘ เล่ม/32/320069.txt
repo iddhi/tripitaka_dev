@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  นนฺทิยมิคราชชาตกํ    หน้า 69
+
+<span class="LineNumber"> 002 </span>มหาสตฺโต  นิโคฺรธชาตเก  วุตฺตนเยเนว  สพฺเพสํ  อรฺมิคานํ  
+<span class="LineNumber"> 003 </span>อากาสคตสกุณานํ  ชลจรมจฺฉานํ  จ  อภยํ  ทาเปตฺวา  ราชานํ  
+<span class="LineNumber"> 004 </span>ปฺจสุ  สีเลสุ  ปติฏฺ€าเปตฺวา  มหาราช  รฺา  นาม  อคติคมนํ 
+<span class="LineNumber"> 005 </span>ปหาย ทส ราชธมฺเม  อโกเปนฺเตน ธมฺเมน สเมน รชฺชํ 
+<span class="LineNumber"> 006 </span>กาเรตุํ วฏฺฏตีติ  
+<span class="LineNumber"> 007 </span>	ทานํ สีลํ ปริจฺจาคํ  		อาชฺชวํ มทฺทวํ ตปํ  
+<span class="LineNumber"> 008 </span>	อกฺโกธํ อวิหึสฺจ  		ขนฺตี จ อวิโรธนํ  
+<span class="LineNumber"> 009 </span>	อิจฺเจเต กุสเล ธมฺเม  	€ิเต ปสฺสาหิ อตฺตนิ  
+<span class="LineNumber"> 010 </span>	ตโต  เต  ชายเต  ปีติ  	โสมนสฺสฺจนปฺปกนฺติ  
+<span class="LineNumber"> 011 </span>เอวํ  วุตฺเต  ราชธมฺเม  คาถาพนฺเธเนว  ทสฺเสตฺวา  กติปาหํ  รฺโ  
+<span class="LineNumber"> 012 </span>สนฺติเก  วสิตฺวา  นคเร  สพฺพสตฺตานํ  อภยทานํ  ปกาเสตุํ 
+<span class="LineNumber"> 013 </span>สุวณฺณเภริฺจาราเปตฺวา  อปฺปมตฺโต  โหหิ  มหาราชาติ  วตฺวา
+<span class="LineNumber"> 014 </span>มาตาปิตูนํ  ทสฺสนตฺถาย คโต ฯ อิมา อภิสมฺพุทฺธคาถา โหนฺติ  
+<span class="LineNumber"> 015 </span>	[๙๐๒]มิคราชา ปุเร อาสึ  		โกสลสฺส นิเกตเว(๑)  
+<span class="LineNumber"> 016 </span>		มนฺทิโย นาม นาเมน  	อภิรูโป จตุปฺปโท ฯ  
+<span class="LineNumber"> 017 </span>	[๙๐๓]ตํ มํ วธิตุมาคจฺฉิ  		ทายสฺมึ อฺชนาวเน(๒)  
+<span class="LineNumber"> 018 </span>		ธนุํ อารชฺชํ กตฺวาน  	อุสุํ สนฺธาย(๓) โกสโล ฯ  
+<span class="LineNumber"> 019 </span>	[๙๐๔]ตสฺสาหํ โอทหึ ปสฺสํ  	ขุรปาณิสฺส(๔) ราชิโน  
+<span class="LineNumber"> 020 </span>		ตทาหํ สุขิโต มุตฺโต  	มาตรํ ทฏฺ€ุมาคโตติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. นิเกตเน ฯ  ๒. ม. อชฺชุเน วเน ฯ  ๓. ม. สนฺนยฺห ฯ 
+<span class="LineNumber"> 022 </span># ๔. ส. ม. ขุรปฺปานิสฺส ฯ 

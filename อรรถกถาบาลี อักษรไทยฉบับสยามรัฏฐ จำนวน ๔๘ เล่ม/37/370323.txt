@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 323
+
+<span class="LineNumber"> 002 </span>อตฺตโน กตฺตพฺพกมฺเมสุ ฯ  
+<span class="LineNumber"> 003 </span>	[๙๗๐]ขลํ สาลํ ปสุํ เขตฺตํ	คนฺตฺวา ปสฺส อภิกฺขณํ  
+<span class="LineNumber"> 004 </span>		มิตํ ธฺํ นิธาเปยฺย	มิตํ ปจาปเย(๑) ฆเร  
+<span class="LineNumber"> 005 </span>		ปุตฺตํ วา ภาตรํ สํ วา	สีเลสุ อสมาหิตํ  
+<span class="LineNumber"> 006 </span>		อนงฺควา หิ เต พาลา	ยถา เปตา ตเถว เต  
+<span class="LineNumber"> 007 </span>		โจฬฺจ เนสมฺปิณฺฑฺจ	อาสีนานํ ปทาปเย(๒)  
+<span class="LineNumber"> 008 </span>		ทาเส กมฺมกเร โปเส(๓)	สีเลสุ สุสมาหิเต  
+<span class="LineNumber"> 009 </span>		ทกฺเข อุฏฺ€านสมฺปนฺเน	อาธิปจฺจสฺมึ €าปเยติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ปสุํ  เขตฺตนฺติ  โคกุลฺจ(๔)  สสฺสฏฺ€านฺจ ฯ 
+<span class="LineNumber"> 011 </span>คนฺตฺวาติ (๕) คมนสีโล ฯ  มิตนฺติ  มินิตฺวา  เอตฺตกนฺติ  ตฺวา 
+<span class="LineNumber"> 012 </span>โกฏฺเ€สุ นิธาเปยฺย ฯ  ฆเรติ ฆเรปิ ปริชนํ คเณตฺวา มิตเมว
+<span class="LineNumber"> 013 </span>ปจาเปยฺย ฯ  สีเลสุ  อสมาหิตนฺติ  เอวรูปํ  ทุสฺสีลํ อนาจารํ 
+<span class="LineNumber"> 014 </span>กิสฺมิฺจิ อาธิปจฺจฏฺ€าเนน  €เปยฺยาติ  อตฺโถ ฯ  อนงฺควา  หิ 
+<span class="LineNumber"> 015 </span>เต  พาลาติ  องฺคเมตํ  มนุสฺสานํ  ภาตาติ  โลเก  ปวุจฺจติ ฯ
+<span class="LineNumber"> 016 </span>กิฺจาปิ  เชฏฺ€กนิฏฺ€ภาตโร  (๖)องฺคสมานตฺตา  องฺคาติ(๖)  วุตฺตา
+<span class="LineNumber"> 017 </span>อิเม  ปน  ทุสฺสีลา  ตสฺมา  องฺคสมา  น  โหนฺติ  ยถา  ปน  
+<span class="LineNumber"> 018 </span>สุสาเน  ฉฑฺฑิตา  เปตา  มตา  ตเถว  เต  ตสฺมา  ตาทิสา  
+<span class="LineNumber"> 019 </span>อาธิปจฺจฏฺ€าเนน  €เปตพฺพา ฯ  กุฏุมฺพํ  หิ  เต  วินาเสนฺติ 
+<span class="LineNumber"> 020 </span># ๑. ม. มิตํ ว ปาจเย ฯ  ๒. สี. ยุ. ทาปเย ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. เปสฺเส ฯ  ๔. ม. โคกุลฺเจว ฯ ๕. ม. คนฺตาติ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. องฺคสมานตาย องฺคนฺติ ฯ 

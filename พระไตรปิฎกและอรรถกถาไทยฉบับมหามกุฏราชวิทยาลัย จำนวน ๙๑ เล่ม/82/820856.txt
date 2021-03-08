@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>สมุทยสัจจมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>สมุทยสัจจมูละ  มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๘๓๘]   สมุทยสัจจะกำลังเกิดในภูมิใด,       มัคคสัจจะก็กำลัง
+<span class="LineNumber"> 004 </span>เกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ในอบายภูมิสมุทยสัจจะกำลังเกิดในภูมินั้น    แต่มัคคสัจจะไม่ใช่
+<span class="LineNumber"> 006 </span>กำลังเกิดในภูมินั้น,  ในจตุโวการภูมิก็ดี  ในปัญจโวการภูมิก็ดี  ที่เหลือ
+<span class="LineNumber"> 007 </span>นอกนั้น   สมุทยสัจจะกำลังเกิด    และมัคคสัจจะก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   มัคคสัจจะกำลังเกิดในภูมิใด,    สมุทยสัจจะก็กำลังเกิด
+<span class="LineNumber"> 009 </span>ในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>                         <I>จบ  ทุกขสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 012 </span>                                    <I>สมุทยสัจจมูล  จบ</I>
+<span class="LineNumber"> 013 </span>                                     <I>โอกาสวาระ   จบ</I>

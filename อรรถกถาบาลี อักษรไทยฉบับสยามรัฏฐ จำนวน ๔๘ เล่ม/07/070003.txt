@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  ๗  นิทานกถา    หน้า  ๓
+
+<span class="LineNumber"> 002 </span>ปณฺณรสวคฺคสมาโยคาฯ  สุตฺตโต  ทิยฑฺฒสุตฺตสตํ  เทฺว  จ  
+<span class="LineNumber"> 003 </span>สุตฺตนฺตา ฯ  ปทโต  เตวีสุตฺตรปฺจสตาธิกานิ  อสีติปท-
+<span class="LineNumber"> 004 </span>สหสฺสานิฯ  เตนาหุ โปราณา 
+<span class="LineNumber"> 005 </span>		อสีติ ปทสหสฺสานิ  		ภิยฺโย ปฺจสตานิ จ  
+<span class="LineNumber"> 006 </span>		ปุน เตวีสติ วุตฺตา  		 ปทเมวํ ววตฺถิตนฺติ  ฯ
+<span class="LineNumber"> 007 </span>	อกฺขรโต  ปน  สตฺต  อกฺขรสตสหสฺสานิ  จตฺตาฬีสฺจ  
+<span class="LineNumber"> 008 </span>สหสฺสานิ  เตปฺาสฺจ อกฺขรานิฯ  ภาณวารโต  อสีติ  
+<span class="LineNumber"> 009 </span>ภาณวารา  เตวีสปทาธิโก  จ  อุปฑฺฒภาณวาโรฯ  อนุสนฺธิโต
+<span class="LineNumber"> 010 </span>ปุจฺฉานุสนฺธิอชฺฌาสยานุสนฺธิยถานุสนฺธิวเสน  สงฺเขปโต  ติวิธา  (๑)  
+<span class="LineNumber"> 011 </span>อนุสนฺธิฯ  วิตฺถารโต  ปเนตฺถ  ตีณิ  อนุสนฺธิสหสฺสานิ   นว  
+<span class="LineNumber"> 012 </span>จ  สตานิ โหนฺติ ฯ   เตนาหุ โปราณา  
+<span class="LineNumber"> 013 </span>		ตีณิ สนฺธิสหสฺสานิ  	ตถา นว สตานิ จ  
+<span class="LineNumber"> 014 </span>		อนุสนฺธินยา เอเต  	มชฺฌิมสฺส ปกาสิตาติ  
+<span class="LineNumber"> 015 </span>	ตสฺส  (๒)  ปณฺณาสาสุ  มูลปณฺณาสา  อาทิ  วคฺเคสุ  
+<span class="LineNumber"> 016 </span>มูลปริยายวคฺโค  สุตฺเตสุ   มูลปริยายสุตฺตํ  ฯ  ตสฺสาปิ  เอวมฺเม  
+<span class="LineNumber"> 017 </span>สุตนฺติ  (๓)  อายสฺมตา  อานนฺเทน ป€มมหาสงฺคีติกาเล  วุตฺตํ  
+<span class="LineNumber"> 018 </span>นิทานมาทิ ฯ สา ปเนสา ป€มมหาสงฺคีติ สุมงฺคลวิลาสินิยา 
+<span class="LineNumber"> 019 </span>ทีฆนิกายฏฺ€กถาย  อาทิมฺหิ  วิตฺถาริตา ฯ  ตสฺมา  สา  ตตฺถ  
+<span class="LineNumber"> 020 </span>วิตฺถาริตนเยเนว   เวทิตพฺพา ฯ
+<span class="LineNumber"> 021 </span># ๑ ม. ติวิโธ  ฯ  ๒. ม. ตตฺถ ฯ    ๓. ม. สุตฺตนฺติอาทิกํ ฯ

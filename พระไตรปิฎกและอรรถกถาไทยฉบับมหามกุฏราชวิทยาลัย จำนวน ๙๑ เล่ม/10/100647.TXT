@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ธรรมเหล่านี้   คือ   สัมมุขาวินัยก็ดี    อมูฬหวินัยก็ดี    มีอรรถและ  
+<span class="LineNumber"> 002 </span>พยัญชนะต่างกัน 
+<span class="LineNumber"> 003 </span>           ธรรมเหล่านี้   คือ  สัมมุขาวินัยก็ดี  ปฏิญญาตกรณะก็ดี  มีอรรถและ
+<span class="LineNumber"> 004 </span>พยัญชนะต่างกัน
+<span class="LineNumber"> 005 </span>           ธรรมเหล่านี้     คือ    สัมมุขาวินัยก็ดี     เยภุยยสิกาก็ดี     มีอรรถและ
+<span class="LineNumber"> 006 </span>พยัญชนะต่างกัน
+<span class="LineNumber"> 007 </span>           ธรรมเหล่านี้    คือ   สัมมุขาวินัยก็ดี    ตัสสปาปิยสิกาก็ดี    มีอรรถและ
+<span class="LineNumber"> 008 </span>พยัญชนะต่างกัน
+<span class="LineNumber"> 009 </span>           ธรรมเหล่านี้   คือ  สัมมุขาวินัยก็ดี    ติณวัตถารกะก็ดี    มีอรรถและ
+<span class="LineNumber"> 010 </span>พยัญชนะต่างกัน.
+
+<span class="LineNumber"> 011 </span>                                     <H1>ว่าด้วยวิวาทาธิการณ์</H1>
+<span class="LineNumber"> 012 </span>           [๑,๐๖๔ ]  วิวาทเป็นวิวาทาธิกรณ์  วิวาทไม่เป็นอธิกรณ์  อธิกรณ์ไม่
+<span class="LineNumber"> 013 </span>เป็นวิวาท    เป็นอธิกรณ์ด้วย    เป็นวิวาทด้วย    บางทีวิวาทเป็นวิวาทาธิกรณ์
+<span class="LineNumber"> 014 </span>บางทีวิวาทไม่เป็นอธิกรณ์  บางทีอธิกรณ์ไม่เป็นวิวาท  บางทีเป็นอธิกรณ์ด้วย
+<span class="LineNumber"> 015 </span>เป็นวิวาทด้วย
+<span class="LineNumber"> 016 </span>           ในข้อเหล่านั้น   อย่างไร  วิวาทเป็นวิวาทาธิกรณ์          
+<span class="LineNumber"> 017 </span>           ภิกษุทั้งหลายไม่พระธรรมวินัยนี้   วิวาทกันว่า    
+<span class="LineNumber"> 018 </span>           นี้   เป็นธรรม  นี้   ไม่เป็นธรรม
+<span class="LineNumber"> 019 </span>           นี้   เป็นวินัย  นี้   ไม่เป็นวินัย
+<span class="LineNumber"> 020 </span>           นี้   พระตถาคตตรัสภาษิตไว้  นี้   พระตถาคตไม่ได้ตรัสภาษิตไว้

@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                   	๔.  นเหตุอัปปฏิฆธรรม    อาศัยนเหตุอัปปฏิฆธรรม
+<span class="LineNumber"> 002 </span>เกิดขึ้น  เพราะเหตุปัจจัย   มี  ๓ วาระ. 
+<span class="LineNumber"> 003 </span>                   	๘.  เหตุอัปปฏิฆธรรม  อาศัยเหตุอัปปฏิฆธรรม  และ
+<span class="LineNumber"> 004 </span>นเหตุอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓  วาระ.
+<span class="LineNumber"> 005 </span>				<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>		[๓๙]  ในเหตุปัจจัย มี ๙ วาระ   ในอารัมมณปัจจัย  มี ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 007 </span>ในอวิคตปัจจัย  มี ๙ วาระ.
+<span class="LineNumber"> 008 </span>         	สหชาตวาระก็ดี  ฯลฯ   ปัญหาวาระก็ดี  พึงให้พิสดาร 
+<span class="LineNumber"> 009 </span>				       <I>เหตุทุกสัปปฏิฆทุกะ  จบ</I>

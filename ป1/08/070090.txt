@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>จึงต้องแปล<B> เอกํ  สมยํ </B> ว่า สมัยหนึ่ง. ถ้า <B>เอก</B> ศัพท์นี้ประกอบ
+<span class="LineNumber"> 002 </span>เข้ากับคำว่า  คน หรือ  พวก ก็แปลว่า คนหนึ่ง  หรือ พวกหนึ่ง 
+<span class="LineNumber"> 003 </span>ซึ่งผิดกันกับ  เอก ที่เป็นสังขยา  โดยมาก  จะต้องแปลว่า  หนึ่งคน
+<span class="LineNumber"> 004 </span>หรือ หนึ่งพวก  เป็นต้น. เอกสัพพนาม  นี้ เป็นได้ทั้งสองวจนะ  
+<span class="LineNumber"> 005 </span>เพราะมีความหมายต่างกัน  ดังกล่าวแล้ว.
+<span class="LineNumber"> 006 </span>                                          กึ
+<span class="LineNumber"> 007 </span>	ศัพท์นี้ สำหรับใช้เป็นคำถาม  แม้จะเป็นอนิยมวิเสสนสัพพนาม
+<span class="LineNumber"> 008 </span>ด้วยกันก็จริง  แต่มีวิธีใช้พิสดารหลายอย่าง ซึ่งต่างจากศัพท์อื่นๆ
+<span class="LineNumber"> 009 </span>ในประเภทเดียวกัน  พึงสังเกตในหัวข้อต่อไปนี้ :-
+<span class="LineNumber"> 010 </span>	๑.  การแจกวิภัตติ  <B>กึ</B> ศัพท์  ในปุํลิงค์ท่านให้แปลง  <B>กึ</B>  เป็น <B>ก</B>
+<span class="LineNumber"> 011 </span>แล้วแจกตามแบบ  <B>ย </B>ศัพท์  ดังนี้ :-
+<span class="LineNumber"> 012 </span>                                     ปุํลิงค์
+<span class="LineNumber"> 013 </span>              เอก.                                           พหุ.
+<span class="LineNumber"> 014 </span>ป.           โก                                              เก
+<span class="LineNumber"> 015 </span>ทุ.            กํ                                               เก
+<span class="LineNumber"> 016 </span>ต.             เกน                                           เกหิ
+<span class="LineNumber"> 017 </span>จ.              กสฺส                                          เกสํ   เกสานํ
+<span class="LineNumber"> 018 </span>ปญฺ.          กสฺมา  กมฺหา                             เกหิ
+<span class="LineNumber"> 019 </span>ฉ.              กสฺส                                           เกสํ   เกสานํ
+<span class="LineNumber"> 020 </span>ส.               กสฺมึ  กมฺหิ                                 เกสุ
+

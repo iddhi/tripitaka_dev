@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                 ๒.  <B>จิตตสัมปยุตตธรรม      อาศัยจิตตวิปปยุตตธรรม
+<span class="LineNumber"> 002 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 003 </span>         คือ  ขันธ์ทั้งหลาย   ที่สหรคตด้วยจักขุวิญญาณ  อาศัยจักขายตนะ ฯลฯ
+<span class="LineNumber"> 004 </span>อาศัยกายายตนะ.
+<span class="LineNumber"> 005 </span>         ขันธ์ทั้งหลายที่เป็นจิตตสัมปยุตตธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 006 </span>         ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 007 </span>                 ๓.  <B>จิตตสัมปยุตตธรรม     อาศัยจิตตสัมปยุตตธรรม
+<span class="LineNumber"> 008 </span>และจิตตวิปปยุตตธรรม   เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 009 </span>         คือ  ขันธ์ ๒   อาศัยขันธ์ ๑  ที่สหรคตด้วยจักขุวิญญาณ   และจักขา-
+<span class="LineNumber"> 010 </span>ยตนะ ฯลฯ ขันธ์ ๒ อาศัยขันธ์ ๑ ที่สหรคตด้วยกายวิญญาณ   และกายายตนะ.
+<span class="LineNumber"> 011 </span>         ขันธ์ ๒   อาศัยขันธ์ ๑  ที่เป็นจิตตสัมปยุตตธรรม  และหทยวัตถุ ฯลฯ
+<span class="LineNumber"> 012 </span>ขันธ์ ๒.
+<span class="LineNumber"> 013 </span>         ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 014 </span>                                <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>         [๑๒๖]   ในเหตุปัจจัย   มี ๙ วาระ    ในอารัมมณปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 016 </span>ในอธิปติปัจจัย   มี ๙ วาระ  ในอนันตรปัจจัย   มี ๓ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 017 </span>มี ๓ วาระ    ในสหชาตปัจจัย  มี ๙ วาระ    ในอัญญมัญญปัจจัย   มี ๖ วาระ
+<span class="LineNumber"> 018 </span>ในนิสสยปัจจัย   มี ๙ วาระ  ในอุปนิสสยปัจจัย  มี ๓ วาระ  ในปุเรชาตปัจจัย
+<span class="LineNumber"> 019 </span>มี ๓ วาระ   ในอาเสวนปัจจัย   มี ๓ วาระ    ในกัมมปัจจัย   มี ๙ วาระ   ฯลฯ
+<span class="LineNumber"> 020 </span>ในอวิคตปัจจัย   มี ๙ วาระ.

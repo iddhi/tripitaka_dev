@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                 		  <H1>ตติยปัณณาสก์</H1>  
+<span class="LineNumber"> 002 </span>                	          <H1>วลาหกวรรควรรณนาที่  ๑</H1>
+
+<span class="LineNumber"> 003 </span>                             <h1>อรรถกถาปฐมวลาหกสูตร</h1>
+<span class="LineNumber"> 004 </span>            พึงทราบวินิจฉัยในปฐมวลาหกสูตรที่  ๑  แห่งตติยปัณณาสก์ดังต่อไปนี้ :-
+<span class="LineNumber"> 005 </span>            บทว่า  <B>วลาหกา</B>  คือ  เมฆ.  บทว่า  <B>ภาสิตา   โหติ  โน  กตฺตา</B>
+<span class="LineNumber"> 006 </span>ความว่า   บุคุคลบางคนพูดอย่างเดียวว่า   เราจักทำสิ่งนี้ ๆ แต่ไม่ทำ.   บทว่า
+<span class="LineNumber"> 007 </span><B>กตฺตา   โหติ  โน  ภาสิตา</B>  ความว่า บุคคลบางคนไม่พูด  แต่ทำด้วยคิดว่า
+<span class="LineNumber"> 008 </span>ควรที่เราจะทำสิ่งนี้  ๆ ดังนี้.   พึงทราบเนื้อความในบททั้งปวงอย่างนี้  
+<span class="LineNumber"> 009 </span>                                      <I>จบอรรถกถาปฐมวลาหกสูตรที่ </I>๑
+<span class="LineNumber"> 010 </span>                                   <h1>๒. ทุติยวลาหกสูตร</h1>
+<span class="LineNumber"> 011 </span>                                   <h2>ว่าด้วยบุคคล  ๔  จำพวก</h2>
+<span class="LineNumber"> 012 </span>            [๑๐๒]    ดูก่อนภิกษุทั้งหลาย  วลาหก ๔ ประเภทนี้  ฯลฯ  คือ
+<span class="LineNumber"> 013 </span>     	<B>คชฺชิตา โน วสฺสิตา</B>		วลาหกคำราม  แต่ไม่ตก
+<span class="LineNumber"> 014 </span> 	<B>วสฺสิตา โน คชฺชิตา</B>		วลาหกตก  แต่ไม่คำราม
+<span class="LineNumber"> 015 </span>      	<B>เนว คชฺชิตา โน วสฺสิตา</B>   	วลาหกไม่คำราม  ไม่ตก
+<span class="LineNumber"> 016 </span>    	<B>คชฺชิตา จ วสฺสิตา จ</B>	 	วลาหกทั้งคำราม ทั้งไม่ตก
+<span class="LineNumber"> 017 </span>นี้แล  วลาหก  ๔  ประเภท

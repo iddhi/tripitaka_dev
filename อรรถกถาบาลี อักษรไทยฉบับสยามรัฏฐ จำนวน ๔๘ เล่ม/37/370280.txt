@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  280
+
+<span class="LineNumber"> 002 </span>	[๙๒๐]เอโก มณิ(๑) มาณว กึ กริสฺสติ  
+<span class="LineNumber"> 003 </span>		อาชานิเย โก ปน กึ กริสฺสติ  
+<span class="LineNumber"> 004 </span>		พหูนิ รฺํ(๒) รตนานิ(๓) อตฺถิ  
+<span class="LineNumber"> 005 </span>		อาชานิยา วาตชวา อนปฺปกาติ ฯ  
+<span class="LineNumber"> 006 </span>		โทหฬินีกณฺฑํ(๔) นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 007 </span>	โส  รฺโ  กถํ  สุตฺวา  มหาราช  กึ  นาเมตํ  วเทถ 
+<span class="LineNumber"> 008 </span>เอโก  อสฺโส  อสฺสสหสฺสานํ  ลกฺขํ  โหติ  เอโก  มณิ  
+<span class="LineNumber"> 009 </span>มณิสหสฺสานํ  ลกฺขํ  โหติ  น  หิ  สพฺเพ  อสฺสา  เอกสทิสา  
+<span class="LineNumber"> 010 </span>อิมสฺส  ตาว  ชวํ  ปสฺสถาติ  วตฺวา  อสฺสํ  อภิรุหิตฺวา  
+<span class="LineNumber"> 011 </span>ปาการมตฺถเกน  เปเสสิ ฯ  สตฺตโยชนิกํ  นครํ  อสฺเสหิ  คีวาย 
+<span class="LineNumber"> 012 </span>คีวํ  ปหรนฺเตหิ  ปริกฺขิตฺตํ  วิย  อโหสิ ฯ  อถานุกฺกเมน  อสฺโส(๕)
+<span class="LineNumber"> 013 </span>น  ปฺายิ ฯ  ยกฺโขปิ  น  ปฺายิ ฯ  อุทเร  พทฺธรตฺตปโฏว 
+<span class="LineNumber"> 014 </span>เอกปริกฺขิตฺตํ  วิย  อโหสิ ฯ  โส  อสฺสโต  โอรุยฺห  ทิฏฺโ€  เต
+<span class="LineNumber"> 015 </span>มหาราช  อสฺสสฺส  เวโคติ  วตฺวา  อาม  ทิฏฺโ€ติ  วุตฺเต  อิทานิ 
+<span class="LineNumber"> 016 </span>ปุน (๖) มหาราช  ปสฺสาหีติ(๖) วตฺวา อสฺสํ อนฺโตนครุยฺยาเน 
+<span class="LineNumber"> 017 </span>โปกฺขรณิยํ (๗) อุทกปิฏฺเ€  เปเสสิ ฯ  อสฺโส  ขุรคฺคานิ  อเตเมนฺโตว 
+<span class="LineNumber"> 018 </span>ปกฺขนฺธิ ฯ  อถ  นํ  ปทุมปตฺเตสุ  วิจราเปตฺวา  ปาณึ  ปหริตฺวา
+<span class="LineNumber"> 019 </span>หตฺถํ  ปสารเสิ ฯ  อสฺโส  อาคนฺตฺวา  ปาณิตเล  ปติฏฺ€าสิ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. มณี ฯ  ๒. ม. รฺโ ฯ  ๓. ม. มณิตรนานิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. โทหฬกณฺฑํ ฯ ๕. ม. อสฺโสปิ ฯ ๖. ม. ปสฺส มหาราชาติ ฯ
+<span class="LineNumber"> 022 </span># ๗. ม. โปกฺขรณิยา ฯ

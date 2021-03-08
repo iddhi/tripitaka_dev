@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>ปทโสธนวาระ  ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>         [๒๘๙]   ธรรมที่ไม่ชื่อว่าจักขุ,  ไม่ชื่อว่าจักขายตนะ ใช่ไหม  ? 
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ไม่ชื่อว่าจักขายตนะ,  ไม่ชื่อว่าจักขุ   ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ทิพพจักขุ    ปัญญาจักขุ    ไม่ชื่อว่าจักขายตนะ    แต่ชื่อว่าจักขุ,
+<span class="LineNumber"> 006 </span>ยกเว้นจักขุและจักขายตนะเสียแล้ว     จักขุที่เหลือนอกนั้นไม่ชื่อว่าจักขุ
+<span class="LineNumber"> 007 </span>และไม่ชื่อว่าจักขายตนะ.
+<span class="LineNumber"> 008 </span>         ธรรมที่ไม่ชื่อว่าโสตะ,   ไม่ชื่อว่าโสตายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>         ธรรมที่ไม่ชื่อว่าโสตายตนะ,  ไม่ชื่อว่าโสตะ   ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ทิพพโสตะ    ตัณหาโสตะ  ไม่ชื่อว่าโสตายตนะ    แต่ชื่อว่าโสตะ,
+<span class="LineNumber"> 012 </span>ยกเว้นโสตะและโสตายตนะเสียแล้ว  โสตะที่เหลือนอกนั้นไม่ชื่อว่าโสตะ
+<span class="LineNumber"> 013 </span>ไม่ชื่อว่าโสตายตนะ.
+<span class="LineNumber"> 014 </span>         ธรรมที่ไม่ชื่อว่าฆานะ,  ไม่ชื่อว่าฆานายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>         ธรรมที่ไม่ชื่อว่าฆานายตนะ,  ไม่ชื่อว่าฆานะ  ใช่ไหม  ?
+<span class="LineNumber"> 017 </span>         ใช่.

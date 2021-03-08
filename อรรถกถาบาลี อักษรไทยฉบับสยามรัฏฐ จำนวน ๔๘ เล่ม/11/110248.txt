@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๒๔๘
+
+<span class="LineNumber"> 002 </span>เววจนํ ฯ  พฺยสนนฺติ  าติพฺยสนาทิอเนกวิธํ ฯ  กฏสีติ  สุสาน-
+<span class="LineNumber"> 003 </span>ป€วีเยว(๑) วา ฯ สา  หิ  เตหิ  (๒)  ปุนปฺปุนํ  มรนฺเตหิ  สรีรนิกฺเขเปน
+<span class="LineNumber"> 004 </span>วฑฺฒิตา ฯ  อลเมวาติ ยุตฺตเมว ฯ 
+<span class="LineNumber"> 005 </span>					ป€มํ ฯ                   
+
+<span class="LineNumber"> 006 </span>				ป€วีสุตฺตวณฺณนา            
+<span class="LineNumber"> 007 </span>	ทุติเย  มหาป€วินฺติ  จกฺกวาฬปริยนฺตํ  มหาป€วึ ฯ  
+<span class="LineNumber"> 008 </span>นิกฺขิเปยฺยาติ ตํ ป€วึ ภินฺทิตฺวา วุตฺตปฺปมาณํ คุฬิกํ กตฺวา 
+<span class="LineNumber"> 009 </span>เอกมนฺเต (๓) €เปยฺย ฯ
+<span class="LineNumber"> 010 </span>					ทุติยํ ฯ   
+
+<span class="LineNumber"> 011 </span>				อสฺสสุตฺตวณฺณนา            
+<span class="LineNumber"> 012 </span>	ตติเย  กนฺทนฺตานนฺติ  สตตํ  (๔)  รุทมานานํ ฯ  ปสนฺทนฺติ  (๕)
+<span class="LineNumber"> 013 </span>สนฺทิตํ ปวตฺตํ ฯ  จตูสุ  มหาสมุทฺเทสูติ สิเนรุรสฺมีหิ ปริจฺฉินฺเนสุ 
+<span class="LineNumber"> 014 </span>จตูสุ มหาสมุทฺเทสุ ฯ สิเนรุสฺส  หิ  ปาจีนปสฺสํ  รชตมยํ  
+<span class="LineNumber"> 015 </span>ทกฺขิณปสฺสํ  มณิมยํ  ปจฺฉิมปสฺสํ ผลิกมยํ อุตฺตรปสฺสํ 
+<span class="LineNumber"> 016 </span>สุวณฺณมยํ ฯ  ปุพฺพทกฺขิณปสฺเสหิ  นิกฺขนฺตา  รชตมณิรสฺมิโย
+<span class="LineNumber"> 017 </span>เอกโต หุตฺวา  มหาสมุทฺทปิฏฺเ€น  คนฺตฺวา  จกฺกวาฬปพฺพตํ  
+<span class="LineNumber"> 018 </span># ๑. ม. สุสานํ ป€วีเยว วา ฯ  ๒. ยุ. อยํ  ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. เอกมนฺตํ ฯ  ๔. สี. สสทฺทนฺติ นตฺถิ ฯ  
+<span class="LineNumber"> 020 </span># รุทมานานํ ฯ  ๕. สี. ปสฺสนฺทนฺติ ฯ ม. ปสฺสนฺนํ ฯ

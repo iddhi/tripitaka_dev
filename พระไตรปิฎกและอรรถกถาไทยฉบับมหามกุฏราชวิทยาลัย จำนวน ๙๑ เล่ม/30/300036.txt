@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>อรรถกถานันทิยสูตร</H1>
+<span class="LineNumber"> 002 </span>	พึงทราบวินิจฉัยในนันทิยสูตรที่  ๑๐.
+<span class="LineNumber"> 003 </span>	บทว่า    <B>ปริพฺพาชโก</B>    ได้แก่    ปริพาชกผู้นุ่งผ้า.    คำที่เหลือใน
+<span class="LineNumber"> 004 </span>นันทิยสูตรนี้ง่ายทั้งนั้นแล.
+<span class="LineNumber"> 005 </span>                                  <I>จบอรรถกถานันทิยสูตรที่  ๑๐
+<span class="LineNumber"> 006 </span>                                          จบอวิชชาวรรคที่  ๑</I>
+<span class="LineNumber"> 007 </span>                      <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 008 </span>          ๑.  อวิชชาสูตร  ๒. อุปัฑฒสูตร  ๓. สารีปุตตสูตร   ๔. พราหมณ
+<span class="LineNumber"> 009 </span>สูตร  ๕. กิมัตถิยสูตร  ๖. ปฐมภิกขุสูตร   ๗.  ทุติยภิกขุสูตร  ๘.  วิภังคสูตร
+<span class="LineNumber"> 010 </span>๙.  สุกสูตร   ๑๐.  นันทิยสูตร  พร้อมทั้งอรรถกถา.

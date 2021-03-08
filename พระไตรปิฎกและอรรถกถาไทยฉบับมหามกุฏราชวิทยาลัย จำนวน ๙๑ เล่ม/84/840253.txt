@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.          
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  โสมนัสสินทรีย์  กำลังเกิดในภูมิใด,  ปุริสินทรีย์ก็กำลัง
+<span class="LineNumber"> 003 </span>เกิดในภูมินั้น   ใช่ไหม   ?
+<span class="LineNumber"> 004 </span>         ในรูปาวจรภูมิ           โสมนัสสินทรีย์กำลังเกิดในภูมินั้น        แต่
+<span class="LineNumber"> 005 </span>ปุริสินทรีย์ไม่ใช่กำลังเกิดในภูมินั้น,  ในกามาวจรภูมิ   โสมนัสสินทรีย์
+<span class="LineNumber"> 006 </span>กำลังเกิด      และปุริสินทรีย์ก็กําลังเกิดในภูมินั้น.
+<span class="LineNumber"> 007 </span>                     <I>จบ   ปุริสินทริยมูละ  โสมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 008 </span><B>ปุริสินทริยมูละ  อุเปกขินทริยมูลี:-</B>
+<span class="LineNumber"> 009 </span>         [๕๔๙]   ปุริสินทรีย์  กำลังเกิดในภูมิใด,  อุเปกขินทรีย์ก็กำลัง
+<span class="LineNumber"> 010 </span>เกิดในภูมินั้น      ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า  อุเปกขินทรีย์  กำลังเกิดในภูมิใด,  ปุริสินทรีย์ก็กำลัง
+<span class="LineNumber"> 013 </span>เกิดในภูมินั้น   ใช่ไหม   ?
+<span class="LineNumber"> 014 </span>         ในรูปาวจรภูมิก็ดี  ในอรูปาวจรภูมิก็ดี  อุเปกขินทรีย์กำลังเกิด
+<span class="LineNumber"> 015 </span>ในภูมินั้น     แต่ปุริสินทรีย์ไม่ใช่กำลังเกิดในภูมินั้น,    ในกามาวจรภูมิ
+<span class="LineNumber"> 016 </span>อุเปกขินทรีย์กำลังเกิด   และปุริสินทรีย์ก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 017 </span>                    <I>จบ   ปุริสินทริยมูละ   อุเปกขินทริยมูลี</I>

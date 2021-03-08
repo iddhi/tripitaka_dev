@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>           แม้หากรสารมณ์ที่หยาบ   ซึ่งจะพึงทราบชัดด้วยชิวหา . . .
+<span class="LineNumber"> 002 </span>           แม้หากโผฏฐัพพารมณ์ที่หยาบ   ซึ่งจะพึงทราบชัดด้วยกาย . . .
+<span class="LineNumber"> 003 </span>           แม้หากธรรมารมณ์ที่หยาบ  ซึ่งจะพึงทราบชัดด้วยมโน  ผ่านมาสู่คลอง
+<span class="LineNumber"> 004 </span>ใจของภิกษุผู้มีจิตหลุดพนักแล้วโดยชอบอย่างนี้    ก็ไม่ครอบงำจิตของภิกษุนั้นได้
+<span class="LineNumber"> 005 </span>เลย   จิตของภิกษุนั้นอันอารมณ์ไม่ทำให้เจือติดอยู่ได้   เป็นธรรมชาติตั้งมั่นไม่
+<span class="LineNumber"> 006 </span>หวั่นไหว  และภิกษุนั้นย่อมพิจารณาเห็นความเกิดและความดับของจิตนั้น   ฉัน
+<span class="LineNumber"> 007 </span>นั้นเหมือนกันแล. 
+
+<span class="LineNumber"> 008 </span>                                            <H2>นิคมคาถา</H2>
+<span class="LineNumber"> 009 </span>                                   [๔]  <B>ภิกษุผู้น้อมไปสู่บรรพชา  ๑   ผู้
+<span class="LineNumber"> 010 </span>                       น้อมไปสู่ความเงียบสงัดแห่งใจ  ๑  ผู้น้อมไป
+<span class="LineNumber"> 011 </span>                       สู่ความไม่เบียดเบียน ๑  ผู้น้อมไปสู่ความสิ้น
+<span class="LineNumber"> 012 </span>                       อุปาทาน    ผู้น้อมไปสู่ความสิ้นตัณหา  ๑  ผู้
+<span class="LineNumber"> 013 </span>                       น้อมไปสู่ความไม่หลงใหลแห่งใจ    ย่อมมี
+<span class="LineNumber"> 014 </span>                       จิตหลุดพ้นโดยชอบ    เพราะเห็นความเกิด
+<span class="LineNumber"> 015 </span>                       และความดับแห่งอายตนะ ภิกษุมีจิตหลุดพ้น
+<span class="LineNumber"> 016 </span>                       แล้วโดยชอบ    มีจิตสงบนั้น     ไม่ต้องกลับ
+<span class="LineNumber"> 017 </span>                       สะสมทำกิจที่ได้ทำแล้ว   กิจที่จำจะต้องทำก็
+<span class="LineNumber"> 018 </span>                       ไม่มี  เปรียบเหมือนภูเขาที่ล้วนแล้วด้วยศิลา
+<span class="LineNumber"> 019 </span>                       เป็นแท่งทึบ   อันเดียวกัน   ย่อมไม่สะเทือน
+<span class="LineNumber"> 020 </span>                       ด้วยลม  ฉันใด  รูป  เสียง  กลิ่น  รส   ผัสสะ
+<span class="LineNumber"> 021 </span>                       และธรรมารมณ์   ทั้งที่น่าปรารถนา  และไม่
+<span class="LineNumber"> 022 </span>                       น่าปรารถนาทั้งสิ้น    ย่อมทำท่านผู้คงที่ให้
+<span class="LineNumber"> 023 </span>                       หวั่นไหวไม่ได้  ฉันนั้น    จิตของท่านตั้งมั่น
+<span class="LineNumber"> 024 </span>                       หลุดพ้นแล้ว     ท่านย่อมพิจารณาเห็นคาวาม
+<span class="LineNumber"> 025 </span>                       เกิด  และความดับของจิตนั้นด้วย.</B>

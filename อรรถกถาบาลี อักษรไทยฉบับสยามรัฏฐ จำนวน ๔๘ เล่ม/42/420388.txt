@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  42  พุทธฺวคฺควณฺณนา  หน้า  388
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  เกตกาติ  สุคนฺธเกตกคจฺฉา  จ ฯ  กนฺทลิรุกฺขา  
+<span class="LineNumber"> 003 </span>จ  โคธุกรุกฺขา  จ  ติณสูลิกคจฺฉา  จ  เอเต  สพฺเพ  รุกฺข-
+<span class="LineNumber"> 004 </span>ชาติกา  ทิพฺพคนฺธํ  ปวายมานา  มม  อสฺสมํ สกลํ โสภยนฺตีติ 
+<span class="LineNumber"> 005 </span>อตฺโถ ฯ  
+<span class="LineNumber"> 006 </span>		กณิการา กณฺณิกา จ   อสนา อชฺชุนา พหู  
+<span class="LineNumber"> 007 </span>		ทิพฺพคนฺธํ สมฺปวนฺตา   โสภยนฺติ มมสฺสมํ ฯ  
+<span class="LineNumber"> 008 </span>	เอเต  กณิการาทโย  รุกฺขา  มม  อสฺสมํ  สกลํ  โสภยนฺตา  
+<span class="LineNumber"> 009 </span>ทิพฺพคนฺธํ  สมฺปวายนฺตีติ สมฺพนฺโธ ฯ  
+<span class="LineNumber"> 010 </span>		ปุนฺนาคา คิริปุนฺนาคา   โกวิฬารา จ ปุปฺผิตา  
+<span class="LineNumber"> 011 </span>		ทิพฺพคนฺธํ สมฺปวนฺตา   โสภยนฺติ มมสฺสมํ ฯ  
+<span class="LineNumber"> 012 </span>	ปุนฺนาคาทโย  รุกฺขา  ทิพฺพคนฺธํ  ปวายมานา  มม  อสฺสมํ  
+<span class="LineNumber"> 013 </span>โสภยนฺตีติ  อตฺโถ ฯ  
+<span class="LineNumber"> 014 </span>		อุทฺทาลกา จ กุฏชา   กทมฺพา พกุลา(๑) พหู  
+<span class="LineNumber"> 015 </span>		ทิพฺพคนฺธํ สมฺปวนฺตา   โสภยนฺติ มมสฺสมํ ฯ  
+<span class="LineNumber"> 016 </span>	อุทฺทาลกาทโย  รุกฺขา  ทิพฺพคนฺธํ  วายมานา  มม  อสฺสมํ  
+<span class="LineNumber"> 017 </span>โสภยนฺตีติ  สมฺพนฺโธ ฯ  
+<span class="LineNumber"> 018 </span>		อาฬกา อิสิมุคฺคา จ   กทลิมาตุลุงฺคิโย  
+<span class="LineNumber"> 019 </span>		คนฺโธทเกน สํวฑฺฒา   ผลานิ ธารยนฺติ เต ฯ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  เอเต  อาฬกาทโย  คจฺฉา  จนฺทนาทิสุคนฺธคนฺโธทเกน  
+<span class="LineNumber"> 021 </span># ๑. ม. วกุลา ฯ  

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  116
+	
+<span class="LineNumber"> 002 </span>อธิคจฺฉติ  วินฺทติเยว ฯ 
+<span class="LineNumber"> 003 </span>	ปริสุทฺธสีโล  หิ  ภิกฺขุ วิปฺปฏิสาราภาเวน ปามุชฺชพหุโล(๑) 
+<span class="LineNumber"> 004 </span>สทฺธมฺเม ยุตฺตปฺปยุตฺโต วิมุตฺติปริโยสานา  สพฺพสมฺปตฺติโย  (๒)
+<span class="LineNumber"> 005 </span>ปาปุณาติ ฯ  ยถาห  อวิปฺปฏิสารตฺถานิ โข อานนฺท  กุสลานิ
+<span class="LineNumber"> 006 </span>สีลานิ  อวิปฺปฏิสาโร  ปาโมชฺชตฺถายาติอาทิ ฯ 
+<span class="LineNumber"> 007 </span>	อถวา ปามุชฺชพหุโลติ  สมฺมาสมฺพุทฺโธ  ภควา 
+<span class="LineNumber"> 008 </span>สฺวากฺขาโต  ธมฺโม  สุปฏิปนฺโน สงฺโฆติ รตนตฺตยํ สนฺธาย 
+<span class="LineNumber"> 009 </span>ปโมทพหุโล ฯ  กตฺถ    ปน  โส  ปโมทพหุโล กึ วา กโรตีติ 
+<span class="LineNumber"> 010 </span>อาห ธมฺเม  พุทฺธปฺปเวทิเตติอาทิ ฯ  สทฺธาสมฺปนฺนสฺส  หิ  (๓) 
+<span class="LineNumber"> 011 </span>สปฺปุริสสํเสวนสทฺธมฺมสฺสวนโยนิโสมนสิการธมฺมานุธมฺมปฏิปตฺตีนํ 
+<span class="LineNumber"> 012 </span>สุเขเนว  สมฺภวโต  สมฺปตฺติโย  หตฺถคตาเอว โหนฺติ ยถาห 
+<span class="LineNumber"> 013 </span>สทฺธาชาโต อุปสงฺกมติ อุปสงฺกมนฺโต ปยิรุปาสตี ติอาทิ ฯ  
+<span class="LineNumber"> 014 </span>		จูฬวจฺฉตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 015 </span># ๑. ม. ปาโมชฺชพหุโล ฯ  ๒. สี. สมฺปตฺติโย ฯ  
+<span class="LineNumber"> 016 </span># ๓. สี. สทฺธาย สมฺปนฺนสฺส ฯ

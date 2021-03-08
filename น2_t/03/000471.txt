@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                  เอกาทสกะ  หมวด ๑๑
+<span class="LineNumber"> 002 </span>                        ปัจจยาการ ๑๑ = ปฏิจสมุปบาท
+<span class="LineNumber"> 003 </span>           <B>๑.  เพราะอวิชชา</B>          เป็นปัจจัย         มีสังขาร
+<span class="LineNumber"> 004 </span>           <B>๒.  เพราะสังขาร</B>         เป็นปัจจัย         มีวิญญาณ 
+<span class="LineNumber"> 005 </span>           <B>๓.  เพราะวิญญาณ</B>      เป็นปัจจัย         มีนามรูป
+<span class="LineNumber"> 006 </span>           <B>๔.  เพราะนามรูป</B>        เป็นปัจจัย         มีสฬายตนะ
+<span class="LineNumber"> 007 </span>           <B>๕.  เพราะสฬายตนะ</B>   เป็นปัจจัย         มีผัสสะ
+<span class="LineNumber"> 008 </span>           <B>๖.  เพราะผัสสะ</B>          เป็นปัจจัย          มีเวทนา
+<span class="LineNumber"> 009 </span>           <B>๗.  เพราะเวทนา</B>         เป็นปัจจัย          มีตัณหา
+<span class="LineNumber"> 010 </span>           <B>๘.  เพราะตัณหา</B>          เป็นปัจจัย          มีอุปาทาน
+<span class="LineNumber"> 011 </span>           <B>๙.  เพราะอุปาทาน</B>      เป็นปัจจัย           มีภพ
+<span class="LineNumber"> 012 </span>        <B>๑๐.  เพราะภพ </B>               เป็นปัจจัย           มีชาติ
+<span class="LineNumber"> 013 </span>        <B>๑๑.  เพราะชาติ</B>               เป็นปัจจัย           มีชรา  มรณะ  โสกะ ปริเทวะ
+<span class="LineNumber"> 014 </span>                                                                           ทุกข์  โทมนัส  อุปายาส
+<span class="LineNumber"> 015 </span>           เป็นอันว่ากองทุกข์ทั้งมวลเกิดขึ้นด้วยประการอย่างนี้.
+<span class="LineNumber"> 016 </span>           ปฏิจจสมุปบาท  แปลว่าธรรมที่เป็นปัจจัยอาศัยกันและกันเกิดขึ้น
+<span class="LineNumber"> 017 </span>หรือว่า การเกิดขึ้นพร้อมแห่งธรรมทั้งหลายเพราะอาศัยกัน  ได้แก่การที่มีสิ่ง

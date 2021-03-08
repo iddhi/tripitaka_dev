@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๙  หน้า  ๕๖๔
+
+<span class="LineNumber"> 002 </span>		ปปฺจขยสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	สตฺตเม  ปปฺจสฺาสงฺขาปหานนฺติ  ปปฺเจนฺติ  ยตฺถ  
+<span class="LineNumber"> 004 </span>สยํ  อุปฺปนฺนา ฯ  ตํ  สนฺตานํ  วิตฺถาเรนฺติ  จิรํ  €เปนฺตีติ  ปปฺจา  
+<span class="LineNumber"> 005 </span>กิเลสา ฯ  วิเสสโต  ราคโทสโมหตณฺหาทิฏฺ€ิมานา(๑) ฯ  ตถา  หิ  วุตฺตํ  
+<span class="LineNumber"> 006 </span>ราโค  ปปฺโจ  โทโส  ปปฺโจ  โมโห  ปปฺโจ  ตณฺหา  
+<span class="LineNumber"> 007 </span>ปปฺโจ  ทิฏฺ€ิ  ปปฺโจ  มาโน  ปปฺโจติ ฯ  
+<span class="LineNumber"> 008 </span>	อปิจ  สงฺกิเลสฏฺโ€  ปปฺจฏฺโ€  กจวรฏฺโ€  ปปฺจฏฺโ€ ฯ  
+<span class="LineNumber"> 009 </span>ตตฺถ  ราคปปฺจสฺส  สุภสฺา  นิมิตฺตํ  โทสปปฺจสฺส  
+<span class="LineNumber"> 010 </span>อาฆาตวตฺถูนิ(๒)  โมหปปฺจสฺส  อาสวา  ตณฺหาปปฺจสฺส  เวทนา  
+<span class="LineNumber"> 011 </span>ทิฏฺ€ิปปฺจสฺส  สฺา  มานปปฺจสฺส  วิตกฺโก  นิมิตฺตํ ฯ  เตหิ  
+<span class="LineNumber"> 012 </span>ปปฺเจหิ  สหคตา  สฺา  ปปฺจสฺา  ปปฺจสฺานํ  
+<span class="LineNumber"> 013 </span>สงฺขา  ภาคา  โกฏฺ€าสา  ปปฺจสฺาสงฺขา ฯ  อตฺถโต  สทฺธึ  
+<span class="LineNumber"> 014 </span>นิมิตฺเตหิ  ตํตํปปฺจสฺส  ปกฺขิโย  กิเลสคโณ ฯ  สฺาคหณํ  เจตฺถ  
+<span class="LineNumber"> 015 </span>ตสฺส  เนสํ  สาธารณเหตุภาเวน ฯ  วุตฺตเฺหตํ  สฺานิทานา  
+<span class="LineNumber"> 016 </span>หิ  ปปฺจสงฺขาติ(๓) ฯ  เตสํ  ปหานํ  เตน  เตน  มคฺเคน  
+<span class="LineNumber"> 017 </span>ราคาทิกิเลสานํ  สมุจฺเฉทนนฺติ  อตฺโถ ฯ  
+<span class="LineNumber"> 018 </span>	ตทา  กิร  (๔)  ภควา  อตีตาสุ  อเนกโกฏิสตสหสฺสสงฺขาสุ  
+<span class="LineNumber"> 019 </span>อตฺตโน  ชาตีสุ  อนตฺถสฺส  นิมิตฺตภูเต  กิเลเส  อิมสฺมึ  จริมภเว  
+<span class="LineNumber"> 020 </span>#  ๑.  ม.  ...โมหตณฺหาทิฏฺ€ิมานา ฯ  ๒.  ม.  อาฆาตวตฺถุ ฯ
+<span class="LineNumber"> 021 </span>#  ๓.  ขุ.  สุ.  ๒๕/๔๑๘/๕๐๔ ฯ  ขุ.  มหา.  ๒๙/๕๐๕/๓๓๗ ฯ  
+<span class="LineNumber"> 022 </span>#  ๔.  ม.  ตทา  หิ ฯ

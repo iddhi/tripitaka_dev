@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>๖.  ปทุกสลมาณวชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                  <H1>ว่าด้วยภัยที่เกิดแต่ที่พึ่งอาศัย</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๒๕๕]   แม่น้ำคงคาพัดเอามาณพชื่อปาฏลี   ผู้คง
+<span class="LineNumber"> 004 </span>           แก่เรียน  มีถ้อยคำไพเราะให้ลอยไป  พี่จ๋าผู้ถูก
+<span class="LineNumber"> 005 </span>           น้ำพัดไป   ขอความเจริญจงมีแก่พี่   ขอพี่จงให้ 
+<span class="LineNumber"> 006 </span>           เพลงขับบทน้อย ๆ  แก่ฉันสักบทหนึ่งเถิด. 
+<span class="LineNumber"> 007 </span>          [๑๒๕๖]   ชนทั้งหลายย่อมรดผู้ที่ได้รับความทุกข์
+<span class="LineNumber"> 008 </span>           ด้วยน้ำใด   ชนทั้งหลายย่อมรดผู้ที่เร่าร้อนด้วย
+<span class="LineNumber"> 009 </span>           น้ำใด   เราจักตายในท่ามกลางน้ำนั้น    ภัยเกิด
+<span class="LineNumber"> 010 </span>           แต่ที่พึ่งอาศัยแล้ว. 
+<span class="LineNumber"> 011 </span>          [๑๒๕๗]   พืชทั้งหลายงอกงามขึ้นได้บนแผ่นดิน
+<span class="LineNumber"> 012 </span>           ใด       สัตว์ทั้งหลายดำรงอยู่ได้บนแผ่นดินใด
+<span class="LineNumber"> 013 </span>           แผ่นดินนั้นก็พังทับศีรษะของเราแตก  ภัยเกิด
+<span class="LineNumber"> 014 </span>           ขึ้นแต่ที่พึ่งอาศัยแล้ว. 
+<span class="LineNumber"> 015 </span>          [๑๒๕๘]   ชนทั้งหลายหุงอาหารด้วยไฟใด   บรรเทา
+<span class="LineNumber"> 016 </span>           ความหนาวด้วยไฟใด     ไฟนั้นก็มาไหม้ตัวเรา
+<span class="LineNumber"> 017 </span>           ภัยเกิดขึ้นแก่ที่พึ่งอาศัยแล้ว.</B>

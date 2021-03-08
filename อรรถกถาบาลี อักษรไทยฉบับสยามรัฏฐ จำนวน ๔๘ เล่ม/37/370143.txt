@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 143
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อนฺเต  ปุรสฺมินฺติ  ราชนิเวสนสฺส  อนฺเต(๑)  ปุเร ฯ  ปุน  
+<span class="LineNumber"> 003 </span>กณฺฑหาโล อาคนฺตฺวา อาห  
+<span class="LineNumber"> 004 </span>[๘๐๙]ปุพฺเพว เม โขสิ(๒) วุตฺโต ทุกฺกรํ ทุรภิสมฺภวฺเจตํ  
+<span class="LineNumber"> 005 </span>	อถ โน อุปกฺขตสฺส ยฺสฺส [๓] กโรสิ วิกฺเขปํ  
+<span class="LineNumber"> 006 </span>	สพฺเพ วชฺชนฺติ สุคตึ เย ยชนฺติ เยปิ เจว ยชาเปนฺติ  
+<span class="LineNumber"> 007 </span>	เย จาปิ อนุโมทนฺติ ยชนฺตานํ อีทิสํ มหายฺนฺติ(๔) ฯ  
+<span class="LineNumber"> 008 </span>	ราชาปิ [๕] อนฺธพาโล  ปุน  ตสฺส  วจเนน  ปุตฺเต 
+<span class="LineNumber"> 009 </span>คณฺหาเปสิ ฯ  ตโต  กณฺฑหาโล  จินฺเตสิ  อยํ  ราชา 
+<span class="LineNumber"> 010 </span>มุทุจิตฺโต  กทาจิ  วิสชฺเชสิ  กทาจิ  คณฺหาเปสิ  ปุน (๖) ทารกานํ 
+<span class="LineNumber"> 011 </span>วจเนน  ปุตฺเต  วิสชฺเชยฺย ยนฺนูนาหํ  ยฺาวาฏฺเว ตํ (๗)
+<span class="LineNumber"> 012 </span>เนมีติ ฯ อถสฺส ตตฺถ คมนตฺถาย คาถมาห  
+<span class="LineNumber"> 013 </span>[๘๑๐]สพฺพรตนสฺส ยฺโ อุปกฺขโต เอกราช ตว ปฏิยตฺโต  
+<span class="LineNumber"> 014 </span>	อภินิกฺขมสฺสุ เทว สคฺคํ คโต ตฺวํ ปโมทิสฺสสีติ ฯ  
+<span class="LineNumber"> 015 </span>	ตสฺสตฺโถ  มหาราช  ตว  ยฺโ  สพฺพรตเนหิ  อุปกฺขโต  
+<span class="LineNumber"> 016 </span>ปฏิยตฺโต  อิทานิ  เต  นิกฺขมนกาโล  ตสฺมา  อภินิกฺขม  ยฺํ  ยชิตฺวา  
+<span class="LineNumber"> 017 </span>สคฺคํ  คโต  ตฺวํ (๘) ปโมทิสฺสสีติ ฯ  ตโต  โพธิสตฺตํ  อาทาย  
+<span class="LineNumber"> 018 </span>ยฺาวาฏคมนกาเล ตสฺส โอโรธา เอกโต นิกฺขมึสุ ฯ  
+<span class="LineNumber"> 019 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 020 </span># ๑. ม. อนฺตเร ฯ  ๒. ม. โขสิ เม ฯ  ๓. ม. เอตฺถนฺตเร กสฺมาติ 
+<span class="LineNumber"> 021 </span># ทิสฺสติ ฯ ๔. ม. ยาเชนฺติ ฯ ๕. ม. เอตฺถนฺตเร ปนสทฺโท 
+<span class="LineNumber"> 022 </span># อตฺถิ ฯ ๖. ม.กาเลน คณฺหาเปติ กาเลน วิสฺสชฺเชติ ปุนปิ ฯ 
+<span class="LineNumber"> 023 </span># ๗. ม. นํ ฯ  ๘. ม. อยํ ปาโ€ นตฺถิ ฯ 

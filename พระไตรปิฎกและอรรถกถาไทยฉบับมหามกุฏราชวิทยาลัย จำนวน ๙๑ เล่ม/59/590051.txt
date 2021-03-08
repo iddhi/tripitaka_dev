@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๕.  อาสังกชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                       <H1>ว่าด้วยเรื่องความหวัง</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๘๕๕]  เถาวัลย์ชื่ออาสาวดี   เกิดในส่วนจิตรลดา-
+<span class="LineNumber"> 004 </span>           วัน   พันปีมันจึงจะออกผล ๆ หนึ่ง.  
+<span class="LineNumber"> 005 </span>         [๘๕๖]  เมื่อมีผลระยะไกลถึงเพียงนั้น   ทวยเทพ
+<span class="LineNumber"> 006 </span>           ก็ยังพากันไปเยือนมันอยู่บ่อย ๆ ข้าแต่พระราชา
+<span class="LineNumber"> 007 </span>           ขอพระองค์จงทรงจำนงหวังไว้เถิด      เพราะว่า
+<span class="LineNumber"> 008 </span>           ความหวังที่มีผลเป็นเหตุให้เกิดความสุข. 
+<span class="LineNumber"> 009 </span>         [๘๕๗]  ปักษีนั้นหวังอยู่นั่นเอง     นกนั้นหวังอยู่
+<span class="LineNumber"> 010 </span>           นั่นเอง   ความหวังของมันมีอยู่ไกลถึงเพียงนั้น
+<span class="LineNumber"> 011 </span>           ก็ยังสำเร็จได้    ข้าแต่พระราชา  ขอพระองค์จง
+<span class="LineNumber"> 012 </span>           ทรงจำนงหวังไว้       เพราะว่าความหวังที่มีผล
+<span class="LineNumber"> 013 </span>           เป็นเหตุให้เกิดความสุข. 
+<span class="LineNumber"> 014 </span>         [๘๕๘]  เธอให้ฉันเอิบอิ่มด้วยวาจา     แต่หาให้
+<span class="LineNumber"> 015 </span>           เอิบอิ่มด้วยสิ่งที่ควรทำไม่   เหมือนดอกหงอน
+<span class="LineNumber"> 016 </span>           ไก่มีสีสวย  แต่ไม่มีกลิ่น.</B>

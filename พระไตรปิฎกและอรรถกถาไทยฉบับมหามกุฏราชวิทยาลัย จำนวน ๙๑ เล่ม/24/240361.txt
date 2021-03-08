@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                      <h1>๙.  อุตตรสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๗๓]   ราชคฤหนิทาน.     อุตตรเทวบุตร    ยืนอยู่    ณ   ที่ควร 
+<span class="LineNumber"> 003 </span>ส่วนข้างหนึ่งแล้ว   ได้กล่าวคาถานี้   ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 004 </span>                             <B>ชีวิตมีอายุน้อย  ถูกชราต้อนเข้าไป
+<span class="LineNumber"> 005 </span>                   ชีวิตที่ถูกชราต้อนเข้าไปแล้ว  ย่อมต้าน
+<span class="LineNumber"> 006 </span>                   ทานไม่ได้    บุคคลเล็งเห็นภัยในมรณะนี้
+<span class="LineNumber"> 007 </span>                   แล้ว    พึงทำบุญอันจะนำความสุขมาให้.</B>
+<span class="LineNumber"> 008 </span>         [๒๗๔]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>ชีวิตมีอายุน้อย  ถูกชราต้อนเข้าไป
+<span class="LineNumber"> 010 </span>                   ชีวิตที่ถูกชราต้อนเข้าไปแล้ว  ย่อมต้าน
+<span class="LineNumber"> 011 </span>                   ทานไม่ได้    ผู้เห็นภัยในความตายนี้มุ่งต่อ
+<span class="LineNumber"> 012 </span>                   สันติ  พึงละโลกามิสเสีย.</B>
+
+<span class="LineNumber"> 013 </span>                                         <H2>อรรถกถา</H2>
+
+<span class="LineNumber"> 014 </span>         อุตตรสูตรที่   ๙  มีเนื้อความกล่าวมาแล้วเหมือนกัน.

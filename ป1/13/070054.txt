@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ปเท  อนภิหิตกตฺตา.
+<span class="LineNumber"> 002 </span>	<B>ข้อสังเกต:</B>  ก.  วิธีเรียงประโยค  สกฺกา  สังเกตจากอาคตสถาน
+<span class="LineNumber"> 003 </span>นั้น  ๆ ดังนี้ :-  
+<span class="LineNumber"> 004 </span>	(ก)  สกฺกา  เรียงไว้หน้าหรือหลังบท ตุํ  ปัจจัย กับบททีเนื่อง
+<span class="LineNumber"> 005 </span>ด้วยบท ตุํ  ปัจจัยนั้น อุ. :- 
+<span class="LineNumber"> 006 </span>                        สกฺกา  เรียงไว้หน้าบท ตุํ  ปัจจัย
+<span class="LineNumber"> 007 </span>	อุ. ๑  พุทฺธา  จ นาม น <B>สกฺกา</B>  สเ€น  อาราเธตุํ.
+<span class="LineNumber"> 008 </span>	อุ. ๒  น หิ  <B>สกฺกา</B>   อมฺเหสุ  เอเกน  อปพฺพชิตุํ.
+<span class="LineNumber"> 009 </span>	อุ.  ๓  <B>สกฺกา</B>  เคหํ  อชฺฌาวสนฺเติ  ปุญฺานิ กาตุํ.
+<span class="LineNumber"> 010 </span>    						[ จกฺขุปาลตฺเถร. ๑/๖ ]
+<span class="LineNumber"> 011 </span>	อุ. ๔  คิหินา หุตฺวา  <B>สกฺกา</B>  ทุกฺขา  มุจฺจิตุํ.
+<span class="LineNumber"> 012 </span>						[ อุกฺกณฺ€ิตภิกฺขุ. ๒/๑๓๔]
+<span class="LineNumber"> 013 </span>			<B>สกฺกา  เรียงไว้หลังบท  ตุํ  ปัจจัย</B>
+<span class="LineNumber"> 014 </span>	อุ. ๕ โส อิมสฺส  สนฺติเก อุปฺปาเทตุํ  น <B>สกฺกา</B>.
+<span class="LineNumber"> 015 </span>						 [ สญฺชย.  ๑/๘๕ ]
+<span class="LineNumber"> 016 </span>	อุ.  ๖  ตยา  คนฺตุํ  น <B>สกฺกา</B>.
+<span class="LineNumber"> 017 </span>						[ โกสมฺพิก.  ๑/๕๖ ]
+<span class="LineNumber"> 018 </span>	อุ.  ๗  อโนนเตน  ปวิสิตุํ  น <B>สกฺกา</B>.
+<span class="LineNumber"> 019 </span>						[ ปณฺฑิตสามเณร. ๔/๓๑ ]
+<span class="LineNumber"> 020 </span>	(ข)  บทอนภิหิตกัตตา  เรียงไว้หลัง สกฺกา  บ้าง  ดัง อุ.  ๑,๒,๓.
+<span class="LineNumber"> 021 </span>เรียงไว้หน้า  สกฺกา  บ้าง ดัง  อุ.  ๔,๖,๗. แต่เรียงไว้หน้าบท  ตุํ ปัจจัย
+<span class="LineNumber"> 022 </span>เสมอ.
+                                           

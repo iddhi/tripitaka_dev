@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                         <H2>๕.  สมนันตรปัจจัย ฯลฯ    ๘. นิสสยปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของสมนันตรปัจจัย</B>
+<span class="LineNumber"> 003 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของสหชาตปัจจัย</B>    เหมือนกับ
+<span class="LineNumber"> 004 </span>ปฏิจจวาระ.
+<span class="LineNumber"> 005 </span>         <B>ฯลฯ   เป็นปัจจัย    ด้วยอำนาจของอัญญมัญญปัจจัย</B>   เหมือน
+<span class="LineNumber"> 006 </span>กับปฏิจจวาระ.
+<span class="LineNumber"> 007 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของนิสสยปัจจัย</B>
+<span class="LineNumber"> 008 </span>         ในปัจจยวาระ   เหมือนกับนิสสยวาระ.
+
+<span class="LineNumber"> 009 </span>                                       <H2>๙.  อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 010 </span>         [๓๒๕] ๑.  <B>อุปาทาธรรม   เป็นปัจจัยแก่ธรรมที่ไม่ใช่อุปาทา-
+<span class="LineNumber"> 011 </span>ธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 012 </span>         มี ๒ อย่าง  คือที่เป็น  <B>อารัมมณูปนิสสยะ</B> และ  <B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 013 </span>         ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 014 </span>         บุคคลเข้าไปอาศัยซึ่งความถึงพร้อมด้วยจักษุ  ฯลฯ   ซึ่งความถึงพร้อม
+<span class="LineNumber"> 015 </span>ด้วยกายะ ซึ่งความถึงพร้อมด้วยวรรณะ  ซึ่งความถึงพร้อมด้วยสัททะ  ซึ่งความ
+<span class="LineNumber"> 016 </span>ถึงพร้อมด้วยคันธะ   ซึ่งความถึงพร้อมด้วยรสะ   ซึ่งโภชนะ  แล้วให้ทาน ฯลฯ
+<span class="LineNumber"> 017 </span>ทำลายสงฆ์.
+<span class="LineNumber"> 018 </span>         ความถึงพร้อมด้วยจักษุ  ความถึงพร้อมด้วยกายะ  ความถึงพร้อมด้วย
+<span class="LineNumber"> 019 </span>วรรณะ  ความถึงพร้อมด้วยสัททะ   ความถึงพร้อมด้วยคันธะ   ความถึงพร้อม
+<span class="LineNumber"> 020 </span>ด้วยรสะ   โภชนะ   เป็นปัจจัยแก่ศรัทธา ฯลฯ   แก่ผลสมาบัติ    ด้วยอำนาจของ
+<span class="LineNumber"> 021 </span>อุปนิสสยปัจจัย.

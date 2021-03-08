@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>             <H1>๑๓.  นอาหารปัจจัย ฯลฯ ๑๖.  นมัคคปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           [๑๑๙๘]  <B>เนวเสกขานาเสกขธรรม  อาศัยเนวเสกขานาเสกข-
+<span class="LineNumber"> 003 </span>ธรรม  เกิดขึ้น  เพราะนอาหารปัจจัย  เพราะนอินทริยปัจจัย  เพราะ
+<span class="LineNumber"> 004 </span>นฌานปัจจัย   เพราะนมัคคปัจจัย</B>  (ทุกปัจจัย  มี ๑ วาระ) 
+
+<span class="LineNumber"> 005 </span>                            <H1>๑๗.  นสัมปยุตตปัจจัย</H1>
+<span class="LineNumber"> 006 </span>                         ๑.  <B>เนวเสกขานาเสกขธรรม   อาศัยเสกขธรรม  เกิด
+<span class="LineNumber"> 007 </span>ขึ้น  เพราะนสัมปยุตตปัจจัย</B> (มี ๕ วาระ)
+
+<span class="LineNumber"> 008 </span>                                <H1>๑๘.  นวิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๑๙๙] ๑.  <B>เสกขธรรม   อาศัยเสกขธรรม  เกิดขึ้น  เพราะน-
+<span class="LineNumber"> 010 </span>วิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  ในอรูปภูมิ  ขันธ์ ๑ ที่เป็นเสกขธรรม ฯลฯ.
+<span class="LineNumber"> 012 </span>                         ๒.  <B>อเสกขธรรม   อาศัยอเสกขธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 013 </span>นวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ   ในอรูปภูมิ   ขันธ์ ๑ ที่เป็นอเสกขธรรม ฯลฯ.
+<span class="LineNumber"> 015 </span>                         ๓.   <B>เนวเสกขานาเสกขธรรม      อาศัยเนวเสกขานา-
+<span class="LineNumber"> 016 </span>เสกขธรรม  เกิดขึ้น  เพราะนวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ ในอรูปภูมิขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นเนวเสกขานาเสกขธรรมฯลฯ.
+<span class="LineNumber"> 018 </span>           พาหิรรูป...อาหารสมุฏฐานรูป...อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 019 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ.

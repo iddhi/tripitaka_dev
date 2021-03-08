@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  338
+
+<span class="LineNumber"> 002 </span>		อตีตานาคตารมฺมณกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  อตีตานาคตารมฺมณกถา  นาม  โหติ ฯ  ตตฺถ  ยสฺมา 
+<span class="LineNumber"> 004 </span>อตีตานาคตานิ  (๑)  นาม  นตฺถิ  ตสฺมา  ตทารมฺมเณน  จิตฺเตน
+<span class="LineNumber"> 005 </span>อารมฺมณสฺส  นตฺถิตาย  อนารมฺมเณน  ภวิตพฺพนฺติ  อตีตํ 
+<span class="LineNumber"> 006 </span>อนารมฺมณนฺติ  เยสํ  ลทฺธิ  เสยฺยถาปิ อุตฺตราปถกานํ  เต
+<span class="LineNumber"> 007 </span>สนฺธาย  อตีตานาคตารมฺมณนฺติ  (๒)  ปุจฺฉา  สกวาทิสฺส  ปฏิฺา
+<span class="LineNumber"> 008 </span>อิตรสฺส ฯ เสสเมตฺถ ยถาปาลิเมว นิยฺยาตีติ ฯ 
+<span class="LineNumber"> 009 </span>		อตีตานาคตารมฺมณกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 010 </span>		วิตกฺกานุปติตกถาวณฺณนา 
+<span class="LineNumber"> 011 </span>	อิทานิ  วิตกฺกานุปติตกถา  นาม  โหติ ฯ  ตตฺถ  วิตกฺกานุ-
+<span class="LineNumber"> 012 </span>ปติตา  นาม  ทุวิธา  อารมฺมณโต  จ  สมฺปโยคโต  จ ฯ  ตตฺถ
+<span class="LineNumber"> 013 </span>อสุกจิตฺตํ  นาม  วิตกฺกสฺสารมฺมณํ  น  โหตีติ  นิยมาภาวโต
+<span class="LineNumber"> 014 </span>สิยา  สพฺพํ  จิตฺตํ  วิตกฺกานุปติตํ วิตกฺกวิปฺปยุตฺตจิตฺตสพฺภาวโต
+<span class="LineNumber"> 015 </span>ปน  สพฺพํ  จิตฺตํ  น  วิตกฺกานุปติตํ ฯ อิติ อิมํ วิภาคํ 
+<span class="LineNumber"> 016 </span>อกตฺวา  อวิเสเสเนว สพฺพํ จิตฺตํ วิตกฺกานุปติตนฺติ เยสํ ลทฺธิ
+<span class="LineNumber"> 017 </span>เสยฺยถาปิ อุตฺตราปถกานํ  เต  สนฺธาย  ปุจฺฉา  สกวาทิสฺส
+<span class="LineNumber"> 018 </span>ปฏิฺา  อิตรสฺส ฯ  เสสเมตฺถ  ปาลิวเสเนว นิยฺยาตีติ ฯ 
+<span class="LineNumber"> 019 </span>		วิตกฺกานุปติตกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. อตีตานาคตารมฺมณํ ฯ  ๒. ม. อตีตารมฺมณนฺติ ฯ

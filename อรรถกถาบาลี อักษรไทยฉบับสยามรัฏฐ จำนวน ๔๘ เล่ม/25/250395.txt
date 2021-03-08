@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  นวมวคฺเค นาคิตตฺเถรคาถาวณฺณนา  หน้า 395
+
+<span class="LineNumber"> 002 </span>ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 003 </span>		วิสาลมาเฬ อาสีโน	อทฺทสํ โลกนายกํ  
+<span class="LineNumber"> 004 </span>		ขีณาสวํ พลปฺปตฺตํ		ภิกฺขุสํฆปุรกฺขตํ ฯ  
+<span class="LineNumber"> 005 </span>		สตสหสฺสา เตวิชฺชา	ฉฬภิฺา มหิทฺธิกา  
+<span class="LineNumber"> 006 </span>		ปริวาเรนฺติ สมฺพุทฺธํ	โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 007 </span>		าเณ อุปนิธา ยสฺส	น วิชฺชติ สเทวเก  
+<span class="LineNumber"> 008 </span>		อนนฺตาณํ สมฺพุทฺธํ	โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 009 </span>		ธมฺมกายฺจ ทีเปนฺตํ(๒)	เกวลํ รตนากรํ  
+<span class="LineNumber"> 010 </span>		วิโกเปตุํ (๓) น สกฺโกนฺติ  โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 011 </span>		อิมาหิ ตีหิ คาถาหิ		นารโทวฺหยวจฺฉโล (๔)  
+<span class="LineNumber"> 012 </span>		ปทุมุตฺตรํ ถวิตฺวาน	สมฺพุทฺธํ อปราชิตํ ฯ  
+<span class="LineNumber"> 013 </span>		เตน จิตฺตปฺปสาเทน	พุทฺธสนฺถวเนน จ (๕)  
+<span class="LineNumber"> 014 </span>		กปฺปานํ สตสหสฺสํ		ทุคฺคตึ นุปปชฺชหํ(๖) ฯ  
+<span class="LineNumber"> 015 </span>		อิโต ตึสกปฺปสเต		สุมิตฺโต(๗) นาม ขตฺติโย  
+<span class="LineNumber"> 016 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 017 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 018 </span>	อรหตฺตํ  ปน  ปตฺวา  สตฺถุ  อวิตถเทสนตํ  (๘)  ธมฺมสฺส จ 
+<span class="LineNumber"> 019 </span># ๑. ขุ. อ. ๓๒/๑๓๙/๒๔๒ ฯ  ๒. สฺยา. ทีเปนฺติ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. วิกปฺเปตุํ ฯ  ๔. สฺยา. ปุรคจฺฉิ โส ฯ สี. นารทวฺหยวจฺฉโล ฯ
+<span class="LineNumber"> 021 </span># ยุ. สรคจฺฉิ โย ฯ ๕. สี. ...ถวิเตน จ ฯ ๖. ยุ. นูปปชฺชถ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ยุ. สุขิตฺโต ฯ  ๘. สี. สตฺถารา อธิคตเทสนํ ฯ

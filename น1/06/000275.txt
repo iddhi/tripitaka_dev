@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>   
+<span class="LineNumber"> 002 </span>						โดยซีกข้างใด  กำหนดแต่ที่สุดหลังซีกข้างนั้น
+<span class="LineNumber"> 003 </span>						ไปจนถึงส่วนสุดด้านใกล้แห่งสิ่งของที่ตั้งอยู่
+<span class="LineNumber"> 004 </span>						หรืออวัยวะที่ใกล้แห่งบุคคลผู้ประเคนเป็นต้น
+<span class="LineNumber"> 005 </span>						ซึ่งนั่ง  หรือยืน  หรือนอนอยู่   (เว้นมือที่
+<span class="LineNumber"> 006 </span>						เหยียดออกมาประเคน)   ให้ได้  ๒  ศอกคืบ.
+<span class="LineNumber"> 007 </span>						ในวินัยมุขเล่มนี้หน้า  ๘๖  ว่า  "ศอก  ๑  ใน
+<span class="LineNumber"> 008 </span>						ระหว่าง"   หมายถึงที่สุดด้านหน้าของภิกษุ
+<span class="LineNumber"> 009 </span>						กับสิ่งของ  หรือของภิกษุผู้รับกับบุคคลผู้
+<span class="LineNumber"> 010 </span>						ประเคนเป็นต้น.
+<span class="LineNumber"> 011 </span><B>๘๑  เหมันตฤดู	</B>		หน้าหนาว   คือตั้งแต่แรมค่ำ  ๑  เดือน  ๑๒
+<span class="LineNumber"> 012 </span>						ถึงกลางเดือน  ๔.
+<span class="LineNumber"> 013 </span><B>๒๑๙  โหราศาสตร์</B>		ตำราว่าด้วยวิชาโหร   คือวิชาหมอดูฤกษ์ยาม
+<span class="LineNumber"> 014 </span>						นาที   เคราะห์ดี  เคราะห์ร้าย.

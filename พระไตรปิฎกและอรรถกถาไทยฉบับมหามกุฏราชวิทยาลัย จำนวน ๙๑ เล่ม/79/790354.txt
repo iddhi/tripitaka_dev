@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๒๐] <B> บุคคลเปรียบด้วยห้วงน้ำ   ๔  ชนิด   มีปรากฏอยู่ในโลก
+<span class="LineNumber"> 002 </span>ก็ฉันนั้นเหมือนกัน</B> 
+<span class="LineNumber"> 003 </span>         <B>บุคคลมี  ๔  จำพวก  เป็นไฉน  ?</B>
+<span class="LineNumber"> 004 </span>                            คนตื้น   เงาลึก  ๑  
+<span class="LineNumber"> 005 </span>                            คนลึก   เงาตื้น  ๑
+<span class="LineNumber"> 006 </span>                            คนตื้น   เงาตื้น  ๑
+<span class="LineNumber"> 007 </span>                            คนลึก   เงาลึก  ๑
+<span class="LineNumber"> 008 </span>                 <B>๑.  คนตื้น  เงาลึก เป็นไฉน  ?</B>                       
+<span class="LineNumber"> 009 </span>         บุคคลบางคนในโลกนี้     มีการก้าวไปข้างหน้า    ถอยหลัง    แลตรง
+<span class="LineNumber"> 010 </span>เหลียวซ้ายแลขวา   คู้เข้าเหยียดออก    ทรงสังฆาฏิบาตรและจีวร    น่าเลื่อมใส
+<span class="LineNumber"> 011 </span>บุคคลนั้น  ไม่รู้ตามความเป็นจริงว่า   นี้ทุกข์ ฯลฯ นี้ทุกขนิโรธคามินีปฏิปทา
+<span class="LineNumber"> 012 </span>บุคคลอย่างนี้ชื่อว่า  <B>คนตื้น  เงาลึก</B>  ห้วงน้ำตื้นเงาลึกนั้น    แม้ฉันใด   บุคคล 
+<span class="LineNumber"> 013 </span>นี้ก็มีอุปไมย   ฉันนั้น.
+
+<span class="LineNumber"> 014 </span>                 ๒.  <B>คนลึก  เงาตื้น  เป็นไฉน  ?</B>
+<span class="LineNumber"> 015 </span>         บุคคลบางคนในโลกนี้    มีการก้าวไปข้างหน้า    ถอยหลัง     แลตรง
+<span class="LineNumber"> 016 </span>เหลียวซ้ายแลขวา   คู้เข้าเหยียดออก  ทรงสังฆาฏิ   บาตรและจีวร  ไม่น่าเสื่อมใส
+<span class="LineNumber"> 017 </span>บุคคลนั้นรู้ตามความเป็นจริงว่า นี้ทุกข์  ฯลฯ  นี้ทุกขนิโรธคามินีปฏิปทา  บุคคล
+<span class="LineNumber"> 018 </span>อย่างนี้ชื่อว่า   <B>คนลึก   เงาตื้น</B>  ห้วงน้ำลึกเงาตื้นนั้น  แม้ฉันใด   บุคคลนี้ก็มี
+<span class="LineNumber"> 019 </span>อุปไมย  ฉันนั้น.

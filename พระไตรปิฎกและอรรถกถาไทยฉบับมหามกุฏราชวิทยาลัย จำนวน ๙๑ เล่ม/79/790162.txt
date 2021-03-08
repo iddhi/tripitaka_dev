@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>๔๖.  บุคคลผู้ชื่อว่า  อุทธังโสโตอกนิฏฐคามี</H1> 
+<span class="LineNumber"> 002 </span>                    <H1>๔๗.  บุคคลผู้ปฏิบัติเพื่อทำให้แจ้วซึ่งโสดาปัตติผล 
+<span class="LineNumber"> 003 </span>                             เป็นโสดาบัน</H1>
+<span class="LineNumber"> 004 </span>                    <H1>๔๘. บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งซึ่งสกทาคามิผล
+<span class="LineNumber"> 005 </span>                            เป็นสกทาคามี</H1>
+<span class="LineNumber"> 006 </span>                    <H1>๔๙.  บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งซึ่งอนาคามิผล
+<span class="LineNumber"> 007 </span>                            เป็นอนาคามี</H1>
+<span class="LineNumber"> 008 </span>                    <H1>๕๐. บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งซึ่งอรหัตผล
+<span class="LineNumber"> 009 </span>                            เป็นอรหันต์</H1>
+<span class="LineNumber"> 010 </span>                                      <I>จบ  เอกกมาติกา</I>
+
+<span class="LineNumber"> 011 </span>                                           <H1>ทุกมาติกา</H1>
+<span class="LineNumber"> 012 </span>         [๘]      <H1>บุคคล  ๒  จำพวก</H1> 
+<span class="LineNumber"> 013 </span>                     <H1>๑.  บุคคลผู้มักโกรธ 
+<span class="LineNumber"> 014 </span>                          บุคคลผู้ผูกโกรธ</H1> 
+<span class="LineNumber"> 015 </span>                    <H1>๒.  บุคคลผู้ลบหลู่บุญคุณของผู้อื่น
+<span class="LineNumber"> 016 </span>                          บุคคลผู้ตีเสมอผู้อื่น</H1>
+<span class="LineNumber"> 017 </span>                    <H1>๓.  บุคคลผู้มีความริษยา
+<span class="LineNumber"> 018 </span>                          บุคคลผู้มีความตระหนี่</H1> 
+<span class="LineNumber"> 019 </span>                    <H1>๔.  บุคคลผู้โอ้อวด
+<span class="LineNumber"> 020 </span>                          บุคคลผู้มีมารยา</H1>

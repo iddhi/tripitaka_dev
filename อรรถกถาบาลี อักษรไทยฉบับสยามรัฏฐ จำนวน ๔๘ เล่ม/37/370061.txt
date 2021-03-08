@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 61
+
+<span class="LineNumber"> 002 </span>สพฺพนฺตํ  ปริสํ  โอโลเกสิ ฯ  นาคา  ทฺวีหิ  อากาเรหิ  ปริสํ
+<span class="LineNumber"> 003 </span>โอโลเกนฺติ  สุปณฺณปริปนฺเถ(๑)  วา  าตเก  วา  ทสฺสนตฺถาย ฯ  เต 
+<span class="LineNumber"> 004 </span>สุปณฺณํ  ทิสฺวา  ภีตา  น  นจฺจนฺติ  าตเก ทิสฺวา  ลชฺชมานา 
+<span class="LineNumber"> 005 </span>น  นจฺจนฺติ ฯ  มหาสตฺโต  ปน  โอโลเกนฺโต  ปริสนฺตเร  ภาติกํ(๒)
+<span class="LineNumber"> 006 </span>อทฺทส ฯ  โส  อกฺขิปูรานิ  อสฺสูนิ  คเหตฺวา  เปฬโต  นิกฺขมฺม  
+<span class="LineNumber"> 007 </span>ตทภิมุโข(๓)  ปายาสิ ฯ  มหาชโน  ตํ  อาคจฺฉนฺตํ  ทิสฺวา  ภีโต  
+<span class="LineNumber"> 008 </span>ปฏิกฺกมิ ฯ  เอโกว  สุทสฺสโน(๔) อฏฺ€าสิ ฯ โส คนฺตฺวา ตสฺส 
+<span class="LineNumber"> 009 </span>ปาทปิฏฺ€ิยํ  สีสํ  €เปตฺวา  ปโรทิ(๕) ฯ  สุทสฺสโนปิ  ปโรทิ(๖) ฯ
+<span class="LineNumber"> 010 </span>มหาสตฺโต  โรทิตฺวา  นิวตฺติตฺวา  เปฬเมว  ปาวิสิ ฯ  อาลมฺพายโน(๗)
+<span class="LineNumber"> 011 </span>อิมินา  นาเคน ตาปโส  ฑฏฺโ€ ภวิสฺสติ อสฺสาเสสฺสามิ นนฺติ 
+<span class="LineNumber"> 012 </span>ตํ อุปสงฺกมิตฺวา อาห  
+<span class="LineNumber"> 013 </span>	[๗๓๗]หตฺถา ปมุตฺโต อุรโค	ปาเท เต นิปติ ภูสํ  
+<span class="LineNumber"> 014 </span>		กจฺจิ นุ ฑํสิโต(๘) ตาต	มา ภายิ สุขิโต ภวาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  มา  ภายีติ  ตาต  ตาปส  อหํ  อาลมฺพายโน  นาม 
+<span class="LineNumber"> 016 </span>มา  ภายิ ตว ปฏิชคฺคนํ นาม มม ภาโรติ ฯ  
+<span class="LineNumber"> 017 </span>	สุทสฺสโน เตน สทฺธึ กเถตุกามตาย อาห(๙)  
+<span class="LineNumber"> 018 </span>	[๗๓๘]เนว มยฺหํ อยํ นาโค	อลํ ทุกฺขาย กายจิ  
+<span class="LineNumber"> 019 </span>		ยาว อตฺถิ(๑๐) อหิคฺคาโห  มยา ภิยฺโย น วิชฺชตีติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. สุวณฺณปริปนฺถํ ฯ ๒. ม. ภาตรํ ฯ  ๓. ม. ภาตราภิมุโข ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. สุทสฺสโนว ฯ ๕. ม. โรทิ ฯ ๖. ม. ปริเทวิ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. อลมฺพายโนปิ ฯ ๘. ตํ ฑํสี ฯ ๙. ม. คาถมาห ฯ 
+<span class="LineNumber"> 023 </span># ๑๐. ม. ยาวตตฺถิ ฯ 

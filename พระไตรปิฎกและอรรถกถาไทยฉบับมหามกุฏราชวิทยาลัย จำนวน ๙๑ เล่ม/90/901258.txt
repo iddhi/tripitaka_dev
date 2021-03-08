@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>              				<H1>เหตุทุกจิตตานุปริวัตติทุกะ</H1>
+<span class="LineNumber"> 002 </span>               		<H2>(๑.  เหตุทุกะ  ๖๑.  จิตตานุปริวัตติทุกะ)</H2> 
+<span class="LineNumber"> 003 </span>                   			<H1>จิตตานุปริวัตติบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 004 </span>                       			       <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 005 </span>                            		       <H2>๑.  เหตุปัจจัย</H2>                            
+<span class="LineNumber"> 006 </span>		[๙๖]  ๑.  เหตุจิตตานุปริวัตติธรรม อาศัยเหตุจิตตานุปริวัตติ-
+<span class="LineNumber"> 007 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๙ วาระ.
+	
+<span class="LineNumber"> 008 </span>					<H1>โนจิตตานุปริวัตติบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 009 </span>						  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>						<H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>		[๙๗]  ๑.  นเหตุโนจิตตานุปริวัตติธรรม  อาศัยนเหตุโนจิตตา-
+<span class="LineNumber"> 012 </span>นุปริวัตติธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๑ วาระ.
+<span class="LineNumber"> 013 </span>		พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 014 </span> 	 			   <I>เหตุทุกจิตตานุปริวัตติทุกะ จบ</I>
+    

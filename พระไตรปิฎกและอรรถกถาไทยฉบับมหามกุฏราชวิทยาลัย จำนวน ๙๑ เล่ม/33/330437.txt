@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>อรรถกถาสูตรที่  ๔</H1> 
+
+<span class="LineNumber"> 002 </span>         ใน<B>สูตรที่   ๔</B>   (ข้อ ๓๑๒)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า  <B>สาสวสุขํ</B>  ได้แก่  สุขในวัฏฏะ  ซึ่งเป็นปัจจัยแก่อาสวะ
+<span class="LineNumber"> 004 </span>ทั้งหลาย.  บทว่า  <B>อนาสวสุขํ</B>   ได้แก่   สุขในพระนิพพาน   ซึ่งไม่เป็น
+<span class="LineNumber"> 005 </span>ปัจจัยแก่อาสวะเหล่านั้น.
+<span class="LineNumber"> 006 </span>                                              จบอรรถกถาสูตรที่ ๔
+
+<span class="LineNumber"> 007 </span>                      <H3>อรรถกถาสูตรที่  ๕</H3>
+
+<span class="LineNumber"> 008 </span>         ใน<B>สูตรที่  ๕</B>   (ข้อ ๓๑๓)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 009 </span>         บทว่า  <B>นิรามิสํ</B>  ได้แก่  สุขเครื่องให้ถึงวัฏฏะ   ยังมีกิเลส.  บทว่า
+<span class="LineNumber"> 010 </span>นิรามิสํ  ได้แก่  สุขเครื่องให้ถึงพระนิพพาน  ปราศจากกิเลส.
+<span class="LineNumber"> 011 </span>                                           จบอรรถกถาสูตรที่  ๕
+
+<span class="LineNumber"> 012 </span>                      <H3>อรรถกถาสูตรที่  ๖</H3>
+
+<span class="LineNumber"> 013 </span>         ใน<B>สูตรที่  ๖</B> (ข้อ ๓๑๔)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 014 </span>         บทว่า   <B>อริยสุขํ</B>  ได้แก่   สุขของอริยบุคคล.   บทว่า   <B>อนริยสุขํ</B> 
+<span class="LineNumber"> 015 </span>ได้แก่ สุขของปุถุชน.
+<span class="LineNumber"> 016 </span>                                            จบอรรถกถาสูตรที่   ๖
+
+<span class="LineNumber"> 017 </span>                            <H1>อรรถกถาสูตรที่  ๗</H1>
+<span class="LineNumber"> 018 </span>         ใน<B>สูตรที่  ๗</B>  (ข้อ  ๓๑๕)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 019 </span>         บทว่า  <B>กายิกํ</B>  ได้แก่   สุขที่เกิดร่วมกับกายวิญญาณ.   บทว่า  <B>เจตสิกํ</B>
+<span class="LineNumber"> 020 </span>ได้แก่ สุขที่เกิดทางมโนทวาร.   ตรัสคละกันทั้งโลกิยะและโลกุตระ.
+<span class="LineNumber"> 021 </span>                                            จบอรรถกถาสูตรที่  ๗

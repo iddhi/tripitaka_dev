@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>อตีต    ปุคคลวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                       <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ  โสตินทรยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๗๒๐]   จักขุนทรีย์เคยเกิดแก่บุคคลใด,   โสตินทรีย์ก็เคยเกิด
+<span class="LineNumber"> 005 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่. 
+<span class="LineNumber"> 007 </span>         ก็หรือว่า   โสตินทรีย์เคยเกิดแก่บุคคลใด,    จักขุนทรีย์ก็เคยเกิด
+<span class="LineNumber"> 008 </span>แก่บุคคลนั้น,    ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                        <I>จบ   จักขุนทริยมูละ   โสตินทริยมูลี</I>

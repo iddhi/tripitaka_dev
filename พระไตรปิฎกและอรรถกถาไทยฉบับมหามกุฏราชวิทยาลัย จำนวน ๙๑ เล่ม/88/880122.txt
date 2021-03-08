@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                     ๗.  <B>สเหตุกธรรม     และอเหตุกธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 002 </span>สเหตุกธรรม  ด้วยอำนาจของอารัมมณปัจจัย,  เป็นปัจจัย  ด้วยอำนาจ 
+<span class="LineNumber"> 003 </span>ของสหชาตปัจจัย,  เป็นปัจจัย ด้วยอำนาจของอุปนิสสยปัจจัย.</B>
+<span class="LineNumber"> 004 </span>                     ๘.  <B>สเหตุกธรรม     และอเหตุกธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 005 </span>อเหตุกธรรม  ด้วยอำนาจของอารัมมณปัจจัย,   เป็นปัจจัย ด้วยอำนาจ
+<span class="LineNumber"> 006 </span>ของสหชาตปัจจัย   เป็นปัจจัย   ด้วยอำนาจของอุปนิสสยปัจจัย,   เป็น
+<span class="LineNumber"> 007 </span>ปัจจัย ด้วยอำนาจของปัจฉาชาตปัจจัย.</B>
+<span class="LineNumber"> 008 </span>                     ๙.  <B>สเหตุกธรรม     และอเหตุกธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 009 </span>สเหตุกธรรม  และอเหตุกธรรม ด้วยอำนาจของอารัมมณปัจจัย,  เป็น
+<span class="LineNumber"> 010 </span>ปัจจัย   ด้วยอำนาจของสหชาตปัจจัย,      เป็นปัจจัย  ด้วยอำนาจของ
+<span class="LineNumber"> 011 </span>อุปนิสสยปัจจัย.</B>
+
+<span class="LineNumber"> 012 </span>                               <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 013 </span>           [๑๐]   ในนเหตุปัจจัย    มี  ๙ วาระ    ในปัจจัยทั้งปวง    มี ๙ วาระ
+<span class="LineNumber"> 014 </span>ในโนอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 015 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 016 </span>                                          <B>ปัจจนียนัย   จบ</B>
+
+<span class="LineNumber"> 017 </span>                                         <H1>อนุโลมปัจจนียนัย</H1>
+<span class="LineNumber"> 018 </span>                         <H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1>
+<span class="LineNumber"> 019 </span>           [๑๐๑]   <B>เพราะเหตุปัจจัย</B>    ในนอารัมมณปัจจัย  มี ๖ วาระ...   ใน
+<span class="LineNumber"> 020 </span>นอธิปติปัจจัย มี  ๖ วาระ  ในนอนันตรปัจจัย มี ๖ วาระ  ในนสมนันตรปัจจัย

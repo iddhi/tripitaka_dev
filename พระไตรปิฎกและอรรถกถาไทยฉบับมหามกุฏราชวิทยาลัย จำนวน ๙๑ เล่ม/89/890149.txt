@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>         ขันธ์ ๑   ที่สหรคตด้วยจักขุวิญญาณ  และจักขายตนะ   เป็นปัจจัยแก่
+<span class="LineNumber"> 002 </span>ขันธ์ ๒  ฯลฯ  กายายตนะ ฯลฯ.
+<span class="LineNumber"> 003 </span>         ขันธ์ ๑  ที่เป็นจิตตสัมปยุตตธรรม    และหทยวัตถุ    เป็นปัจจัยแก่
+<span class="LineNumber"> 004 </span>ขันธ์ ๒,  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 005 </span>         ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 006 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 007 </span>                ๗.  <B>จิตตสัมปยุตตธรรม       และจิตตวิปปยุตตธรรม
+<span class="LineNumber"> 008 </span>เป็นปัจจัยแก่จิตตวิปปยุตตธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 009 </span>         มี ๓ อย่าง  คือที่เป็น <B>สหชาตะ, ปัจฉาชาตะ</B>  รวมกับ  <B>อาหาระ</B>  และ
+<span class="LineNumber"> 010 </span>รวมกับ  <B>อินทริยะ</B>.
+<span class="LineNumber"> 011 </span>         ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 012 </span>         จิตตสัมปยุตตขันธ์      และมหาภูตรูปทั้งหลาย      เป็นปัจจัยแก่จิตต-
+<span class="LineNumber"> 013 </span>สมุฏฐานรูป  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 014 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 015 </span>         ที่เป็น  <B>ปัจฉาชาตะ</B>  รวมกับ  <B>อาหาระ</B>  ได้แก่
+<span class="LineNumber"> 016 </span>         จิตตสัมปยุตตขันธ์ทั้งหลาย  ที่เกิดภายหลัง   และกวฬีการาหาร   เป็น
+<span class="LineNumber"> 017 </span>ปัจจัยแก่กายนี้   ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 018 </span>         ที่เป็น   <B>ปัจฉาชาตะ</B>  รวมกับ  <B>อินทริยะ</B>  ได้แก่
+<span class="LineNumber"> 019 </span>         จิตตสัมปยุตตขันธ์ทั้งหลาย  ที่เกิดภายหลัง   และรูปชีวิตินทรีย์   เป็น
+<span class="LineNumber"> 020 </span>ปัจจัย แก่กฏัตตารูปทั้งหลาย   ด้วยอำนาจของอัตถิปัจจัย.
+
+<span class="LineNumber"> 021 </span>                               <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 022 </span>         [๑๔๗]  ในเหตุปัจจัย   มี ๓ วาระ    ในอารัมมณปัจจัย   มี ๒ วาระ
+<span class="LineNumber"> 023 </span>ในอธิปติปัจจัย  มี ๔ วาระ   ในอนันตรปัจจัย มี ๑ วาระ   ในสมนันตรปัจจัย

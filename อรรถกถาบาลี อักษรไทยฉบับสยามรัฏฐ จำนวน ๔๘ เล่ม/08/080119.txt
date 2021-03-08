@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ เจโตขีลสุตฺตวณฺณนา หน้า ๑๑๙
+
+<span class="LineNumber"> 002 </span>			สนฺติมคฺคเมว  พฺรูหย  (๑)  
+<span class="LineNumber"> 003 </span>			นิพฺพานํ  สุคเตน  เทสิตนฺติ(๒)  
+<span class="LineNumber"> 004 </span>อาทินา (๓) โอภาสํ  ผริตฺวา  คาถาย  อวิชฺชณฺฑโกสํ  ปหรติ  
+<span class="LineNumber"> 005 </span>	โส  คาถาปริโยสาเน  อวิชฺชณฺฑโกสํ  ภินฺทิตฺวา  อรหตฺตํ  
+<span class="LineNumber"> 006 </span>ปาปุณาติฯ  ตโต  ปฏฺ€าย  ยถา  เต  กุกฺกุฏโปตกา  คามกฺเขตฺตํ  
+<span class="LineNumber"> 007 </span>อุปโสภยมานา  ตตฺถ(๔)  จรนฺติ เอวํ  อยมฺปิ  มหาขีณาสโว 
+<span class="LineNumber"> 008 </span>นิพฺพานารมฺมณํ  ผลสมาปตฺตึ  อปฺเปตฺวา  สงฺฆารามํ   อุปโสภย-
+<span class="LineNumber"> 009 </span>มาโน  วิจรติฯ  
+<span class="LineNumber"> 010 </span>	อิติ  อิมสฺมึ  สุตฺเต  จตฺตาริ  ปหานานิ  กถิตานิฯ  กถํ  
+<span class="LineNumber"> 011 </span>เจโตขีลานฺหิ  เจโตวินิพนฺธานํ   ปหาเนน   ปฏิสงฺขานปฺปหานํ(๕)  
+<span class="LineNumber"> 012 </span>กถิตํ   อิทฺธิปาเทหิ  วิกฺขมฺภนปฺปหานํ  กถิตํ  มคฺเค  อาคเต  
+<span class="LineNumber"> 013 </span>สมุจฺเฉทปฺปหานํ  กถิตํ  ผเล  อาคเต  ปฏิปสฺสทฺธิปฺปหานํ  
+<span class="LineNumber"> 014 </span>กถิตํฯ  เสสํ  สพฺพตฺถ  อุตฺตานตฺถเมวาติฯ  
+<span class="LineNumber"> 015 </span>			เจโตขีลสุตฺตวณฺณนา  นิฏฺ€ิตาฯ
+<span class="LineNumber"> 016 </span>					ฉฏฺ€ํ ฯ
+<span class="LineNumber"> 017 </span># ๑. ม. พฺรูหย ฯ   ๒. ขุ. ธ. ๒๕/๓๐/๕๓ ฯ  
+<span class="LineNumber"> 018 </span># ๓. ม. เอตฺถนฺตเร นเยนาติ ทิสฺสติ ฯ   ๔. ม. ตตฺถ ตตฺถ ฯ   
+<span class="LineNumber"> 019 </span># ๕. ม. ปฏิสงฺขานปฺปหานํ ฯ

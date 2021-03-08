@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>มัคคสัจจมูล</H1>
+<span class="LineNumber"> 002 </span><H2>๑.  มัคคสัจจมูละ นิโรธสัจจมูลี</H2>
+<span class="LineNumber"> 003 </span>                                         ฯ ล ฯ 
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าสัจจะ, ชื่อว่านิโรธสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         นิโรธสัจจะชื่อว่าสัจจะก็ใช่  ชื่อว่านิโรธสัจจะก็ใช่,  ธรรมที่
+<span class="LineNumber"> 006 </span>เหลือนอกนั้นชื่อว่าสัจจะ  แต่ไม่ชื่อว่านิโรธสัจจะ.
+<span class="LineNumber"> 007 </span>                      <I>จบ  มัคคสัจจมูละ  นิโรธสัจจมูลี</I>
+<span class="LineNumber"> 008 </span>                                  <I>มัคคสัจจมูล  จบ</I>
+<span class="LineNumber"> 009 </span>                    <I>สุทธสัจจมูลจักกวาระ  อนุโลม  จบ</I>        

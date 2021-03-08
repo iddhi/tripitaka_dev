@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่ามโน,  ไม่ชื่อว่ามนายตนะ  ใช่ไหม  ? 
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่ามนายตนะ,  ไม่ชื่อว่ามโน  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่าธัมมะ,  ไม่ชื่อว่าธัมมายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่าธัมมายตนะ,  ไม่ชื่อว่าธัมมะ  ใช่ไหม  ?            
+<span class="LineNumber"> 008 </span>         ยกเว้นธัมมายตนะเสียแล้ว     ธรรมที่เหลือไม่ชื่อว่าธัมมายตนะ
+<span class="LineNumber"> 009 </span>แต่ชื่อว่าธัมมะ,    ยกเว้นธัมมะและธัมมายตนะเสียแล้ว     ธรรมที่เหลือ
+<span class="LineNumber"> 010 </span>ไม่ชื่อว่าธัมมะ   และไม่ชื่อว่าธัมมายตนะ.
+<span class="LineNumber"> 011 </span>                              <I>ปทโสธนวาระ  ปัจจนิก  จบ</I>

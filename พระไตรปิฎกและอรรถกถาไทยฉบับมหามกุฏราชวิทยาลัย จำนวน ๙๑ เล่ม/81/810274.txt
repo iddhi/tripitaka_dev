@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>สมาทานเหตุกกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๔๒๔]   <B>สกวาที</B>  ศีลที่มีการสมาทานเป็นเหตุ   เจริญได้   หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. ผัสสะ  เวทนา  สัญญา  เจตนา  จิต ศรัทธา  วิริยะ  สติ
+<span class="LineNumber"> 005 </span>สมาธิ  ปัญญา  ที่มีการสมาทานเป็นเหตุ  เจริญได้ หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>         [๑๔๒๕]   ส.  ศีลมีสมาทานเป็นเหตุ  เจริญได้  หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                        ส. เจริญได้ดุจเถาวัลย์  เจริญได้ดุจเถาย่างทราย  เจริญ
+<span class="LineNumber"> 010 </span>ได้ดุจต้นไม้ เจริญได้ดุจหญ้า เจริญได้ดุจแพหญ้าปล้อง หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 012 </span>         [๑๔๒๖]   ส. ศีลที่มีการสมาทานเป็นเหตุ   เจริญได้ หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                        ส. เมื่อบุคคลสมาทานศีลแล้ว    ตรึกกามวิตกอยู่   ตรึก
+<span class="LineNumber"> 015 </span>พยาบาทวิตกอยู่   ตรึกวิหิงสาวิตกอยู่   ศีลก็เจริญได้   หรือ ?
+<span class="LineNumber"> 016 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                        ส. เป็นการประชุมกันแห่งผัสสะ  ๒  อย่าง  ฯลฯ  แห่งจิต
+<span class="LineNumber"> 018 </span>๒  อย่าง หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 020 </span>                        ส. เป็นการประชุมกันแห่งผัสสะ  ๒  อย่าง  ฯลฯ  แห่งจิต
+<span class="LineNumber"> 021 </span>๒  อย่าง หรือ ?
+<span class="LineNumber"> 022 </span>                        ป. ถูกแล้ว.

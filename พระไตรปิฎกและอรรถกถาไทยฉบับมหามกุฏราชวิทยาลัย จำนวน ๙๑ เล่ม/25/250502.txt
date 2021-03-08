@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๕.  รามเณยยกสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>                           <H1>ว่าด้วยภูมิสถานอันน่ารื่นรมย์</H1>
+
+<span class="LineNumber"> 003 </span>           [๙๒๐]  สมัยหนึ่ง พระผู้มีพระภาคเจ้าประทับ อยู่ ณ  พระวิหารเชตวัน
+<span class="LineNumber"> 004 </span>อารามของอนาถบิณฑิกเศรษฐี  กรุงสาวัตถี.
+<span class="LineNumber"> 005 </span>           ครั้งนั้นแล        ท้าวสักกะจอมเทพเสด็จเข้าไปเฝ้าพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 006 </span>ครั้นแล้วทรงถวายบังคมแล้วประทับอยู่    ณ   ที่ควรส่วนข้างหนึ่ง      ประทับ
+<span class="LineNumber"> 007 </span>เรียบร้อยแล้ว    ได้ตรัสถามพระผู้มีพระภาคเจ้าว่า   สถานที่เช่นไรหนอ   เป็น
+<span class="LineNumber"> 008 </span>ภูมิสถานอันน่ารื่นรมย์.
+<span class="LineNumber"> 009 </span>            [๙๒๑]  พระผู้มีพระภาคเจ้าตรัสตอบด้วยพระคาถาว่า
+<span class="LineNumber"> 010 </span>                             <B>อารามอันวิจิตร  ป่าอันวิจิตร  สระ
+<span class="LineNumber"> 011 </span>                   โบกขรณีที่สร้างอย่างดี  ย่อมไม่ถึงเสี้ยวที่
+<span class="LineNumber"> 012 </span>                   ๑๖   อันแบ่งออก  ๑๖  ครั้ง    แห่งภูมิสถาน
+<span class="LineNumber"> 013 </span>                   อันรื่นรมย์ของมนุษย์  พระอรหันต์ทั้งหลาย
+<span class="LineNumber"> 014 </span>                   อยู่ในที่ใด   เป็นบ้านหรือป่าก็ตาม   เป็น
+<span class="LineNumber"> 015 </span>                   ที่ลุ่มหรือที่ดอนก็ตาม  ที่นั้นเป็นภูมิสถาน
+<span class="LineNumber"> 016 </span>                   อันน่ารินรมย์.</B>

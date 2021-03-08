@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>           [๕๖๓ ]  กรุงสาวัตถี.    ดูก่อนวัจฉะ       เพราะไม่เห็นในสังขาร  
+<span class="LineNumber"> 002 </span>ทั้งหลาย....
+<span class="LineNumber"> 003 </span>           [๕๖๔]   กรุงสาวัตถี.  ดูก่อนวัจฉะ  เพราะไม่เห็นในวิญญาณ... . 
+
+<span class="LineNumber"> 004 </span>           <H1>๑๑-๑๕.  รูปอนภิสมยาทิสูตร
+
+<span class="LineNumber"> 005 </span>                (รวม ๕ สูตร)</H1>
+
+<span class="LineNumber"> 006 </span>           [๕๖๕]    กรุงสาวัตถี.  ดูก่อนวัจฉะ เพราะไม่ตรัสรู้ในรูป... .     
+<span class="LineNumber"> 007 </span>           [๕๖๖]    กรุงสาวัตถี.  ดูก่อนวัจฉะ  เพราะไม่ตรัสรู้ในเวทนา...  .
+<span class="LineNumber"> 008 </span>           [๕๖๗]   กรุงสาวัตถี.  ดูก่อนวัจฉะ เพราะไม่ตรัสรู้ในสัญญา... . 
+<span class="LineNumber"> 009 </span>           [๕๖๘]    กรุงสาวัตถี.    ดูก่อนวัจฉะ    เพราะไม่ตรัสรู้ในสังขาร
+<span class="LineNumber"> 010 </span>ทั้งหลาย.....
+<span class="LineNumber"> 011 </span>           [๕๖๙]   กรุงสาวัตถี. ดูก่อนวัจฉะ เพราะไม่ตรัสรู้ในวิญญาณ... .     
+
+<span class="LineNumber"> 012 </span>               <H1>๑๖-๒๐.  รูปอนนุโพธาทิสูตร 
+
+<span class="LineNumber"> 013 </span>                 (รวม ๕ สูตร)</H1>
+
+<span class="LineNumber"> 014 </span>           [๕๗๐]   กรุงสาวัตถี.  ดูก่อนวัจฉะ  เพราะไม่รู้ตามในรูป...  .
+<span class="LineNumber"> 015 </span>           [๕๗๑]    กรุงสาวัตถี.  ดูก่อนวัจฉะ  เพราะไม่รู้ตามในเวทนา...  .
+<span class="LineNumber"> 016 </span>           [๕๗๒]    กรุงสาวัตถี. ดูก่อนวัจฉะ  เพราะไม่รู้ตามในสัญญา...  .
+<span class="LineNumber"> 017 </span>           [๕๗๓]    กรุงสาวัตถี.    ดูก่อนวัจฉะ    เพราะไม่รู้ตามในสังขาร
+<span class="LineNumber"> 018 </span>ทั้งหลาย....                                     
+<span class="LineNumber"> 019 </span>           [๕๗๔]   กรุงสาวัตถี. ดูก่อนวัจฉะ  เพราะไม่รู้ตามในวิญญาณ... .

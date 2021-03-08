@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           บุคคลเห็นรูป  ด้วยทิพยจักษุ  ฟังเสียง  ด้วยทิพโสตธาตุ. 
+<span class="LineNumber"> 002 </span>           รูปายตนะ  เป็นปัจจัยแก่จักขุวิญญาณ ฯลฯ   โผฏฐัพพายตนะ   เป็น
+<span class="LineNumber"> 003 </span>ปัจจัยแก่กายวิญญาณ.
+<span class="LineNumber"> 004 </span>           ที่เป็น  <B>วัตถุปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 005 </span>           จักขายตนะ   เป็นปัจจัยแก่จักขุวิญญาณ ฯลฯ กายายตนะ  เป็นปัจจัย
+<span class="LineNumber"> 006 </span>แก่กายวิญญาณ.  หทยวัตถุ  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นอรูปีธรรม   ด้วย
+<span class="LineNumber"> 007 </span>อำนาจของปุเรชาตปัจจัย.
+
+<span class="LineNumber"> 008 </span>                               <H1>๑๑.  ปัจฉาชตปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๒๗๖] ๑.  <B>อรูปีธรรม    เป็นปัจจัยแก่รูปธรรม    ด้วยอำนาจ
+<span class="LineNumber"> 010 </span>ของปัจฉาชาตปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  ขันธ์ทั้งหลายที่เป็นอรูปีธรรม  ที่เกิดภายหลัง  เป็นปัจจัยแก่กายนี้
+<span class="LineNumber"> 012 </span>ที่เกิดก่อน  ด้วยอำนาจของปัจฉาชาตปัจจัย.
+
+<span class="LineNumber"> 013 </span>                                  <H1>๑๒.  อาเสวนปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๒๗๗]  ๑.  <B>อรูปีธรรม   เป็นปัจจัยแก่อรูปีธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 015 </span>ของอาเสวนปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  ขันธ์ทั้งหลายที่เป็นอรูปีธรรม  ที่เกิดก่อน ๆ ฯลฯ
+
+<span class="LineNumber"> 017 </span>                                      <H1>๑๓.  กัมมปัจจัย</H1>
+<span class="LineNumber"> 018 </span>           [๒๗๘] ๑.  <B>อรูปีธรรม   เป็นปัจจัยแก่อรูปีธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 019 </span>ของกัมมปัจจัย</B>

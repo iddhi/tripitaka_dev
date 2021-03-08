@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                           <B>ฟูกที่ควรใช้ได้มี  ๕  อย่าง  คือ</B>
+<span class="LineNumber"> 002 </span>๑.  ฟูกยัดด้วยขนแกะ  [ยกผมขนมนุษย์  ขนปีกนกและขนสัตว์  ๒  เท้า
+<span class="LineNumber"> 003 </span>     อนุโลมขนแกะ].
+<span class="LineNumber"> 004 </span>๒.  ฟูกยัดด้วยท่อนผ้าหรือเศษผ้า.  
+<span class="LineNumber"> 005 </span>๓.  ฟูกยัดด้วยเปลือกไม้
+<span class="LineNumber"> 006 </span>๔.  ฟูกยัดด้วยหญ้า.
+<span class="LineNumber"> 007 </span>๕.  ฟูกยัดด้วยใบไม้  [ยกใบพิมเสนล้วน  ปนของอื่น  อนุญาต].
+<span class="LineNumber"> 008 </span>                   <B>เครื่องลาดอันจัดว่าเป็นของวิจิตรนั้น  คือ</B>
+<span class="LineNumber"> 009 </span>๑.  ผ้าขนเรียกโคณกะมีขนยาวกว่า  ๔  นิ้ว.
+<span class="LineNumber"> 010 </span>๒.  เครื่องลาดที่ทำด้วยขนแกะมีชื่อต่าง ๆ  กัน.
+<span class="LineNumber"> 011 </span>๓.  เครื่องลาดที่ทอดด้วยด้ายแกมไหม  [เช่นเยียรบับเข้มขาบเป็นต้น].
+<span class="LineNumber"> 012 </span>๔.  เครื่องลาดที่เป็นไหมล้วน.
+<span class="LineNumber"> 013 </span>๕.  เครื่องลาดที่ทำด้วยหนังสัตว์ชื่ออชินะอันมีขนอ่อนนุ่ม.
+<span class="LineNumber"> 014 </span>๖.  เครื่องลาดอย่างดีทำด้วยหนังชะมด.
+<span class="LineNumber"> 015 </span>๗. ที่นอนมีเพดานข้างบน   ที่เข้าใจว่าที่นอนมีมุ้งกาง  หรือเตียง
+<span class="LineNumber"> 016 </span>     มีเพดาน<SUP>๑</SUP>.
+<span class="LineNumber"> 017 </span>๘.  เครื่องลาดหลังช้าง
+<span class="LineNumber"> 018 </span>๙.  เครื่องลาดหลังม้า	อันไม่ปรากฏว่าชนิดไร.
+<span class="LineNumber"> 019 </span>๑๐.  เครื่องลาดบนรถ
+
+<span class='footnote'>๑.  ข้อนี้  ตั้งแต่ทรงอนุญาตมุ้งกันยุงแล้ว  ชื่อว่าเป็นของเลิกจากการห้าม.</span>

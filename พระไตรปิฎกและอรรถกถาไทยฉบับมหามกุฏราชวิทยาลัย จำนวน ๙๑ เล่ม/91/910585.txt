@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>สรณทุกเสกขติกนสรณทุกนเสกขติกะ</H1>  
+<span class="LineNumber"> 002 </span>               <H2>(๑๐๐. สรณทุกะ  ๑๑.  เสกขติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>อาจยคามิบท</H2>
+<span class="LineNumber"> 007 </span>           [๓๒๘] ๑.  <B>ธรรมที่ไม่ใช่เสกขธรรม   ที่ไม่ใช่สรณธรรม    อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นเสกขธรรม  ที่เป็นอรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>มี ๑   วาระ.
+
+<span class="LineNumber"> 010 </span>                                       <H2>อเสกขบท</H2>
+<span class="LineNumber"> 011 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อเสกขธรรม  ที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 012 </span>อาศัยธรรมที่เป็นอเสกขธรรม   ที่เป็นอรณธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 013 </span>ปัจจัย</B>  มี  ๑  วาระ.
+
+<span class="LineNumber"> 014 </span>                           <H2>เนวเสกขานาเสกขบท</H2>
+<span class="LineNumber"> 015 </span>                       ๑.  <B>ธรรมที่ไม่ใช่เนวเสกขาเสกขธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 016 </span>สรณธรรม   อาศัยธรรมที่เป็นเนวเสกขานาเสกขธรรม  ที่เป็นอรณ-
+<span class="LineNumber"> 017 </span>ธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๑  วาระ.
+<span class="LineNumber"> 018 </span>                  <I>สรณทุกเสกขติกนสรณทุกนเสกขติกะ  จบ</I>	

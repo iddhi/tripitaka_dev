@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>ทุกขินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>ทุกขินทริยมูละ  จักขุนทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าทุกขะ,   ชื่อว่า      อินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.  
+<span class="LineNumber"> 005 </span>                                      ฯลฯ
+<span class="LineNumber"> 006 </span><B>โสมนัสสินทริยมูละ  จักขุนทริยมูลี:-</B>
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าโสมนัสสะ,   ชื่อว่า  อินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                                       ฯลฯ
+<span class="LineNumber"> 010 </span><B>โทมนัสสินทริยมูละ  จักขุนทริยมูลี:-</B>
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าโทมนัสสะ,   ชื่อว่า  อินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>                                        ฯลฯ
+<span class="LineNumber"> 014 </span>                             <I>ปัญญินทริยมูล  จบ</I>

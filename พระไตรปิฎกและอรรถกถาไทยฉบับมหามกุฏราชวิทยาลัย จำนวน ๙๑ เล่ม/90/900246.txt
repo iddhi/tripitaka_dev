@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                   		  	     <H1>เหตุทุกอตีตติกะ</H1> 
+<span class="LineNumber"> 002 </span>                  		<H2>(๑. เหตุทุกะ  ๑๘.  อตีตติกะ)</H2>
+<span class="LineNumber"> 003 </span>                      	  	 <H1>ปัจจุปปันนบทปัญหาวาระ</H1>
+<span class="LineNumber"> 004 </span>					       <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 005 </span>					   <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 006 </span>		[๗๕๘]  ๑.  ปัจจุปปันนธรรมที่เป็นเหตุ   เป็นปัจจัยแก่ปัจจุป- 
+<span class="LineNumber"> 007 </span>ปันนธรรมที่เป็นเหตุ  ด้วยอำนาจของเหตุปัจจัย   มี  ๒  วาระ.
+<span class="LineNumber"> 008 </span>                         	     <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 009 </span>		[๗๕๙]  ๑.  ปัจจุปปันนธรรมที่ไม่ใช่เหตุ เป็นปัจจัยแก่ปัจจุป-
+<span class="LineNumber"> 010 </span>ปันนธรรมที่ไม่ใช่เหตุ  ด้วยอำนาจของอารัมมณปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>                         	      <H1>๓.  อธิปติปัจจัย</H1>
+<span class="LineNumber"> 012 </span>		[๗๖๐] ๑.  ปัจจุปปันนธรรมที่เป็นเหตุ   เป็นปัจจัยแก่ปัจจุป-
+<span class="LineNumber"> 013 </span>ปันนธรรมที่เป็นเหตุ  ด้วยอำนาจของอธิปติปัจจัย                      
+<span class="LineNumber"> 014 </span>         			มีอย่างเดียว  คือที่เป็น   <B>สหชาตาธิปติ</B> มี  ๓  วาระ  (วาระที่ ๑-๒-)
+<span class="LineNumber"> 015 </span>                  	   ๔.  ปัจจุปปันนธรรมที่ไม่ใช่เหตุ เป็นปัจจัยแก่ปัจจุป-
+<span class="LineNumber"> 016 </span>ปันนธรรมที่ไม่ใช่เหตุ  ด้วยอำนาจของอธิปติปัจจัย                    

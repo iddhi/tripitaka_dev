@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  อุปวสฬฺหกชาตกํ  หน้า  81
+
+<span class="LineNumber"> 002 </span>ทุพฺภติ  เอวาหํ  อกาสึ  ตฺวํ  อิโต  ปฏฺ€าย  ตสฺมึ  อาสงฺกํ  
+<span class="LineNumber"> 003 </span>มา  กรีติ  โอวทิตฺวา  จตฺตาโร  พฺรหฺมวิหาเร  ภาเวตฺวา
+<span class="LineNumber"> 004 </span>พฺรหฺมโลกปรายโนๆ  อโหสิ ฯ เตปิ ยถากมฺมํ คตา ฯ  
+<span class="LineNumber"> 005 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  ชาตกํ  สโมธาเนสิ ฯ  
+<span class="LineNumber"> 006 </span>ตทา  สปฺโป  จ  นกุโล  จ  อิเม  เทฺว  มหามตฺตา  อเหสุํ  
+<span class="LineNumber"> 007 </span>ตาปโส ปน อหเมวาติ ฯ  
+<span class="LineNumber"> 008 </span>			นกุลชาตกํ ปฺจมํ ฯ  
+
+<span class="LineNumber"> 009 </span>			อุปสาฬฺหชาตกํ  (๑)
+<span class="LineNumber"> 010 </span>	อุปสาฬฺหกนามานนฺติ  (๒) อิทํ  สตฺถา  เชตวเน  (๓)  วิหรนฺโต  เอกํ  
+<span class="LineNumber"> 011 </span>อุปสาฬฺหกํ นาม สุสานสุทฺธิกํ พฺราหฺมณํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 012 </span>	โส  กิร  อฑฺโฒ  อโหสิ  มหทฺธโน  ทิฏฺ€ิคติกตฺตา  ปน  
+<span class="LineNumber"> 013 </span>ธูรวิหาเร  วสนฺตานมฺปิ  พุทฺธานํ  สงฺคหํ  นาม  น  อกาสิ ฯ 
+<span class="LineNumber"> 014 </span>ปุตฺโต  ปนสฺส  ปณฺฑิโต  อโหสิ  าณสมฺปนฺโน ฯ  โส  
+<span class="LineNumber"> 015 </span>มหลฺลกกาเล  ปุตฺตํ  อาห  มา  โข  มํ  ตาต  อฺสฺส  วสลสฺส
+<span class="LineNumber"> 016 </span>ฌาปิตสุสาเน  ฌาเปหิ  เอกสฺมึ  ปน  อนุจฺฉิฏฺ€สุสาเน  เยว  มํ  
+<span class="LineNumber"> 017 </span>ฌาเปยฺยาสีติ ฯ  ตาต  อหํ  ตุมฺหากํ  ฌาเปตพฺพยุตฺตกํ  €านํ  
+<span class="LineNumber"> 018 </span>น  ชานามิ  สาธุ  วต  มํ  อาทาย  คนฺตฺวา  อิมสฺมึ  €าเน
+<span class="LineNumber"> 019 </span>มํ  ฌาเปยฺยาสีติ  ตุมฺเห  ว  อาจิกฺขถาติ ฯ  พฺราหฺมโณ  สาธุ 
+<span class="LineNumber"> 020 </span># ๑. ม. อุปสาฬกํ... ฯ เอวมุปริปิ ฯ  ๒. ม. อุปสาฬกนามานีติ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. เวฬุวเน ฯ

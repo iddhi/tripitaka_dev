@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                               คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.   คำว่า  กาย   เวทนา    จิต   ธรรม   ได้แก่อะไร  ?
+<span class="LineNumber"> 003 </span>	๒.  การตั้งสติกำหนดดู   ผม   ขน   เล็บ   ฟัน   หนัง  และดูศพที่
+<span class="LineNumber"> 004 </span>              ยังเหลือแต่กระดูก   จัดเข้าในสติปัฏฐานข้อไหน  ?
+<span class="LineNumber"> 005 </span>	๓.   การตั้งสติดูความสุข   จัดเข้าในสติปัฏฐานข้อไหน  ?
+<span class="LineNumber"> 006 </span>	๔.   จิตตานุปัสสนา   หมายความว่าอย่างไร  ?
+<span class="LineNumber"> 007 </span>	๕.   เมื่อความพอใจในการเกิดขึ้น   มีสติรู้ทัน   บรรเทาลงได้    จัด
+<span class="LineNumber"> 008 </span>               เข้าในสติปัฏฐานข้อไหน ?
+<span class="LineNumber"> 009 </span>	๖.   อะไรเรียกว่าสติปัฏฐาน  ?   มีเท่าไร  ?
+<span class="LineNumber"> 010 </span>	๗.   สติปัฏฐานมีประโยชน์อย่างไร  ?
+					
+<span class="LineNumber"> 011 </span>	   <B>อันว่า   " กาย "    " เวทนา "  มา    " จิต "    " ธรรม "
+<span class="LineNumber"> 012 </span>		มีประจำ          ไม่เว้น              จัดเป็นฐาน
+<span class="LineNumber"> 013 </span>		คือที่ตั้ง            ของสติ             เครื่องพิจาร
+<span class="LineNumber"> 014 </span>		ระลึกอ่าน         รู้เห็น                เป็นอารมณ์
+<span class="LineNumber"> 015 </span>		มิใช่สัตว์            บุคคล              ตน   เรา    เขา
+<span class="LineNumber"> 016 </span>		ถอนความเมา    จิตชื่น               ไม่ขื่นขม
+<span class="LineNumber"> 017 </span>		ไม่ยินดี                ยินร้าย             คลายระทม
+<span class="LineNumber"> 018 </span>		เอกอุดม               สิ้นโศก             เหนือโลก   เอย.</B>
+<span class="LineNumber"> 019 </span>								<B>ศรี    ฯ    นคร.</B> 

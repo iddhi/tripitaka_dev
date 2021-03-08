@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๕๔๐
+
+<span class="LineNumber"> 002 </span>				อนฺตวาสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 003 </span>	อนฺตวา  โลโกติ  เอกโต  วฑฺฒิตนิมิตฺตํ  โลโกติ  คาเหน  
+<span class="LineNumber"> 004 </span>วา  ตกฺเกน  วา  อุปฺปนฺนทิฏฺ€ิ ฯ  อนนฺตวาติ  สพฺพโต  
+<span class="LineNumber"> 005 </span>วฑฺฒิตํ  อปฺปามาณนิมิตฺตํ โลโกติ  คาเหน  วา  ตกฺเกน  วา  
+<span class="LineNumber"> 006 </span>อุปฺปนฺนทิฏฺ€ิ ฯ  ตํ  ชีวํ  ตํ  สรีรนฺติ  ชีวฺจ สรีรฺจ  เอกเมวาติ 
+<span class="LineNumber"> 007 </span>อุปฺปนฺนทิฏฺ€ิ ฯ  เสสํ  สพฺพตฺถ  อุตฺตานตฺถเมวาติ ฯ  อิมานิ 
+<span class="LineNumber"> 008 </span>ตาว โสตาปตฺติมคฺควเสน อฏฺ€ารส เวยฺยากรณานิ 
+<span class="LineNumber"> 009 </span>เอกํ คมนํ ฯ       
+<span class="LineNumber"> 010 </span>	ทุติยํ  คมนํ  ทุกฺขวเสน  วุตฺตํ ฯ  ตตฺราปิ  อฏฺ€ารเสว  
+<span class="LineNumber"> 011 </span>เวยฺยากรณานิ  ตโต  ปรานิ  รูปี  อตฺตา  โหตีติอาทีนิ  
+<span class="LineNumber"> 012 </span>อฏฺ€  เวยฺยากรณานิ  เตหิ สทฺธึ ตํ ทุติยเปยฺยากรเณติ(๑)
+<span class="LineNumber"> 013 </span>วุตฺโต ฯ            
+<span class="LineNumber"> 014 </span>	ตตฺถ  รูปีติ  อารมฺมณเมว  อตฺตาติ  คหิตทิฏฺ€ิ ฯ  อรูปีติ 
+<span class="LineNumber"> 015 </span>ฌานํ  อตฺตาติ คหิตทิฏฺ€ิ ฯ  รูปี  จ  อรูปี  จาติ  อารมฺมณชฺฌานํ(๒)
+<span class="LineNumber"> 016 </span>ฌานฺจ  อตฺตาติ  คหิตทิฏฺ€ิ ฯ เนวรูปีนารูปีติ  ตกฺกมตฺเตน  คหิตทิฏฺ€ิ ฯ
+<span class="LineNumber"> 017 </span>เอกนฺตสุขีติ  ลาภีตกฺกีชาติสฺสรานํ อุปฺปนฺนทิฏฺ€ิ ฯ  ฌาน-
+<span class="LineNumber"> 018 </span>ลาภิโนปิ  หิ  อตีเต  เอกนฺตสุขํ  อตฺตภาวํ  มนสิกโรโต  เอวํ 
+<span class="LineNumber"> 019 </span>ทิฏฺ€ิ  อุปฺปชฺชติ ฯ  ตกฺกิโนปิ  ยถา  เอตรหิ  อหํ  เอกนฺตสุขี
+<span class="LineNumber"> 020 </span># ๑. ม. ทุติยเปยฺยาโลติ ฯ  ๒. ม. อารมฺมนฺจ ฌานฺจ ฯ

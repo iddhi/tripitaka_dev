@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า    สัญญาขันธ์ไม่ใช่เคยเกิดแก่บุคคลใด,    เวทนาขันธ์
+<span class="LineNumber"> 002 </span>ไม่ใช่กำลังเกิดแก่บุคคลนั้น   ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         ไม่มี.
+<span class="LineNumber"> 004 </span>                    <I>จบ  เวทนาขันธมูละ  สัญญาขันธมูลี</I> 
+<span class="LineNumber"> 005 </span>                                <I>เวทนาขันธมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                  <I>ปุคคลวาระ   จบ</I>
+<span class="LineNumber"> 007 </span>                                     <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                      <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 009 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๑๔๓]   รูปขันธ์ไม่ใช่กำลังเกิดในภูมิใด,  เวทนาขันธ์ไม่ใช่
+<span class="LineNumber"> 011 </span>เคยเกิดในภูมินั้น  ใช่ไหม   ?
+<span class="LineNumber"> 012 </span>         เคยเกิด.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า   เวทนาขันธ์ไม่ใช่เคยเกิดในภูมิใด,   รูปขันธ์ก็ไม่ใช่
+<span class="LineNumber"> 014 </span>กำลังเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         กำลังเกิด.
+<span class="LineNumber"> 016 </span>                        <I>จบ  รูปขันธมูละ  เวทนาขันธมูลี</I>
+<span class="LineNumber"> 017 </span>                                     <I>รูปขันธมูล  จบ</I>

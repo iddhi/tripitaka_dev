@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>					ตัวอย่างที่  ๕  
+
+<span class="LineNumber"> 002 </span>				<B>๑.  สุขสฺสานนฺตรํ   ทุกฺขํ</B>
+<span class="LineNumber"> 003 </span>				ทุกข์เกิดในลำดับแห่งสุข. 
+<span class="LineNumber"> 004 </span>				<B>๒. อชฺเชว   กิจฺจมาตปฺปํ</B>
+<span class="LineNumber"> 005 </span>				ควรรีบทำความเพียรเสียในวันนี้.
+<span class="LineNumber"> 006 </span>				<B>๓.  สติ  สพฺพตฺถ   ปตฺถิยา</B>
+<span class="LineNumber"> 007 </span>				สติจำปรารถนาในสิ่งทั้งปวง<SUP>๑</SUP>.
+<span class="LineNumber"> 008 </span>	ธรรมภาษิต  ๓  ข้อนี้    มีเนื้อความดังจะบรรยายให้เกี่ยวประสาน
+<span class="LineNumber"> 009 </span>สืบเนื่องต่อไปโดยเหตุและผล  ภาษิตนิพนธ์ข้อต้นว่า
+<span class="LineNumber"> 010 </span>				<B>	สุขสฺสานนฺตรํ   ทุกฺขํ</B>
+<span class="LineNumber"> 011 </span>				คำว่า   ทุกข์เกิดในลำดับแห่งสุข.
+<span class="LineNumber"> 012 </span>	ข้อนี้ท่านชี้ถึงความเกิดและความแห่งเจตสิกธรรม   อันเกิด
+<span class="LineNumber"> 013 </span>ทางมโนทวาร   ได้แก่เวทนาอันเป็นสหชาติธรรมเกิดร่วมกับจิต  ขณะใด
+<span class="LineNumber"> 014 </span>บุคคลได้เสวยสุข   ขณะนั้นย่อมไม่ได้เสวยทุกข์และอุเบกขา   ขณะใด
+<span class="LineNumber"> 015 </span>เสวยทุกข์    ขณะนั้นย่อมไม่ได้เสวยทุกข์และอุเบกขา   ขณะใดเสวย
+<span class="LineNumber"> 016 </span>อุเบกขา  ขณะนั้นย่อมไม่ได้เสยสุขและทุกข์  สุขในที่นี้   ได้แด่สามิส-
+<span class="LineNumber"> 017 </span>สุข  สุขอิงอามิส   เพราะยังเจือด้วยความทุกข์   เป็นดังเบ็ด   ซึ่งเกี่ยว
+<span class="LineNumber"> 018 </span>เหยื่อ   บุคคลผู้โง่เขลาไร้ความวิจารณ์  ถูกความอยากครอบงำ  ย่อม
+<span class="LineNumber"> 019 </span>ไม่สำนึกถึงผลอันจะพึงได้รับ   จากการกระทำนั้น ๆ  เป็นผู้อันความ
+<span class="LineNumber"> 020 </span>อยากชักจูงไปได้ตามปรารถนา   ด้วยหลงระเริงอยู่ในความสุขที่ไม่แน่
+
+<span class='footnote'>๑.  สอบในสนามหลวง  วันที่  ๒๖ ธันวาคม  พ.ศ.  ๒๔๗๗.</span>

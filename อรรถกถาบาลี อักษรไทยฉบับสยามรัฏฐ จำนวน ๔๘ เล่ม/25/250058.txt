@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  58
+		
+<span class="LineNumber"> 002 </span>		วสฺสสตสหสฺสานิ		อายุ วิชฺชติ ตาวเท  
+<span class="LineNumber"> 003 </span>		ตาวตา ติฏฺ€มาโน โส	ตาเรสิ ชนตํ พหห ฯ  
+<span class="LineNumber"> 004 </span>		ตทาหํ หํสวติยํ		พฺราหฺมโณ เวทปารคู  
+<span class="LineNumber"> 005 </span>		อุเปจฺจ (๑) สพฺพโลกคฺคํ(๒)  อสฺโสสึ ธมฺมเทสนํ ฯ  
+<span class="LineNumber"> 006 </span>		ตทา โส สาวกํ วีโร	ปภินฺนมติโคจรํ(๓)  
+<span class="LineNumber"> 007 </span>		อตฺเถ ธมฺเม นิรุตฺเต จ	ปฏิภาเณ จ โกวิทํ ฯ  
+<span class="LineNumber"> 008 </span>		€เปสิ เอตทคฺคมฺหิ	ตํ สุตฺวา มุทิโต อหํ  
+<span class="LineNumber"> 009 </span>		สสาวกํ ชินวรํ		สตฺตาหํ โภชยึ ตทา ฯ  
+<span class="LineNumber"> 010 </span>		ทุสฺเสหิ ฉาทยิตฺวาน	สสิสฺสํ พุทฺธสาครํ (๔)  
+<span class="LineNumber"> 011 </span>		นิปจฺจ ปาทมูลมฺหิ		ตํ €านํ ปตฺถยึ อหํ ฯ  
+<span class="LineNumber"> 012 </span>		ตโต อโวจ โลกคฺโค	ปสฺสเถตํ ทิชุตฺตมํ (๕)  
+<span class="LineNumber"> 013 </span>		วินตํ ปาทมูเล เม(๖)	กมโลทรสปฺปภํ ฯ  
+<span class="LineNumber"> 014 </span>		พุทฺธเสฏฺ€สฺส(๗) ภิกฺขุสฺส   €านํ ปตฺถยเต อยํ  
+<span class="LineNumber"> 015 </span>		ตาย สทฺธาย จาเคน	สทฺธมฺมสฺสวเนน จ ฯ  
+<span class="LineNumber"> 016 </span>		สพฺพตฺถ สุขิโต หุตฺวา	สํสริตฺวา ภวาภเว  
+<span class="LineNumber"> 017 </span>		อนาคตมฺหิ อทฺธาเน	ลจฺฉเสตํ มโนรถํ ฯ  
+<span class="LineNumber"> 018 </span>		สตสหสฺสิโต กปฺเป	โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 019 </span>		โคตโม นาม โคตฺเตน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. สี. อุเปตฺวา ฯ  ๒. ยุ. สตฺตปารงฺคํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. ปภินฺนปฏิสมฺภิทํ ฯ  ๔. ม. ทุสฺเสหจฺฉาทยิตฺวาน 
+<span class="LineNumber"> 022 </span># สสิสฺสํ พุทฺธิสาครํ ฯ  ๕. สี. ทฺวิชุตฺตมํ ฯ  ๖. สฺยา. ปาทมูลมฺหิ ฯ
+<span class="LineNumber"> 023 </span># ๗. สฺยา. เสฏฺ€ํ พุทฺธสฺส ฯ  ๘. สฺยา. นาเมน ฯ

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>อัฏฐกนิทเทส</H1> 
+<span class="LineNumber"> 002 </span>                             <H1>ว่าด้วยบุคคล  ๘  จำพวก</H1>
+<span class="LineNumber"> 003 </span>         [๑๕๐]   <B>บุคคลผู้พร้อมเพรียงด้วยมรรค  ๔  บุคคลผู้พร้อม
+<span class="LineNumber"> 004 </span>เพรียงด้วยผล  ๔  เป็นไฉน  ?</B>
+<span class="LineNumber"> 005 </span>         ๑.  บุคคลผู้เป็นพระโสดาบัน.
+<span class="LineNumber"> 006 </span>         ๒.  บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งซึ่งโสดาปัตติผล.
+<span class="LineNumber"> 007 </span>         ๓.  บุคคลผู้เป็นพระสกทาคามี.
+<span class="LineNumber"> 008 </span>         ๔.  บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งซึ่งสกทาคามิผล.
+<span class="LineNumber"> 009 </span>         ๕.  บุคคลผู้เป็นพระอนาคามี.
+<span class="LineNumber"> 010 </span>         ๖.   บุคคลผู้ปฏิบัติเพื่อทำให้แจ้งซึ่งอนาคามิผล.
+<span class="LineNumber"> 011 </span>         ๗.  บุคคลผู้เป็นพระอรหันต์.
+<span class="LineNumber"> 012 </span>         ๘.  บุคคลผู้ปฏิบัติเพื่อเป็นพระอรหันต์.
+<span class="LineNumber"> 013 </span>         <B>บุคคลเหล่านี้   ชื่อว่า  ผู้พร้อมเพรียงด้วยมรรค  ๔  ชื่อว่า  ผู้
+<span class="LineNumber"> 014 </span>พร้อมเพรียงด้วยผล  ๔.</B>
+<span class="LineNumber"> 015 </span>                               <I>จบบุคคล   ๘   จำพวก<SUP>๑</SUP></I>
+
+<span class='footnote'>๑.  ข้อ  ๑๕๐ - ๑๕๑  ไม่มีอรรถกถาอธิบาย.</span>

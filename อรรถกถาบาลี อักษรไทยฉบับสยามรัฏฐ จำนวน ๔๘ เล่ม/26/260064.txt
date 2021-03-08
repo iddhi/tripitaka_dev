@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ปฺจกนิปาตวณฺณนา  หน้า  64  
+
+<span class="LineNumber"> 002 </span>	สุตฺวา  สุมธุรํ  ธมฺมํ  		ปสนฺโน  ชินสาสเน  
+<span class="LineNumber"> 003 </span>	สุคตํ  สรณํ  คนฺตฺวา  		ยาวชีวํ  นมสฺสหํ ฯ  
+<span class="LineNumber"> 004 </span>	มุนิโน  คนฺธกุฏิยา  		โอปุฺเชสึ  (๑)  ตทา  มหึ  
+<span class="LineNumber"> 005 </span>	จตุชฺชาเตน  คนฺเธน  		มาเส  อฏฺ€  ทิเนสฺวหํ (๒)  ฯ  
+<span class="LineNumber"> 006 </span>	ปณิธาย  สุคนฺธตฺตํ (๓)  		สรีรวิสฺสคนฺธิโน (๔)  
+<span class="LineNumber"> 007 </span>	ตทา  ชิโน  วิยากาสิ  		สุคนฺธตนุลาภิตํ ฯ  
+<span class="LineNumber"> 008 </span>	โย  ยํ  คนฺธกุฏิภูมึ  			คนฺเธโนปุฺชเต (๕)  สกึ  
+<span class="LineNumber"> 009 </span>	เตน  กมฺมวิปาเกน  			อุปปนฺโน  ตหึ  ตหึ ฯ  
+<span class="LineNumber"> 010 </span>	สุคนฺธเทโห  สพฺพตฺถ  		ภวิสฺสติ  อยํ  นโร  
+<span class="LineNumber"> 011 </span>	คุณคนฺธยุตฺโต (๖)  หุตฺวา  	นิพฺพายิสฺสตินาสโว ฯ  
+<span class="LineNumber"> 012 </span>	เตน  กมฺเมน  สุกเตน  		เจตนาปณิธีหิ  จ  
+<span class="LineNumber"> 013 </span>	ชหิตฺวา  มานุสํ  เทหํ  		ตาวตึสมคจฺฉหํ ฯ  
+<span class="LineNumber"> 014 </span>	ปจฺฉิเม  จ  ภเว  ทานิ  		ชาโต  วิปฺปกุเล  อหํ  
+<span class="LineNumber"> 015 </span>	คพฺภํ  เม  วสโต  มาตา  		เทเหนาสิ  สุคนฺธิตา (๗)  ฯ  
+<span class="LineNumber"> 016 </span>	ยทา  จ  มาตุกุจฺฉิมฺหา  		นิกฺขมามิ  ตทา  ปุรี (๘)  
+<span class="LineNumber"> 017 </span>	สาวตฺถิ  สพฺพคนฺเธหิ  		วาสิตา  วิย  วายถ ฯ  
+<span class="LineNumber"> 018 </span>	ปุปฺผวสฺสฺจ  สุรภิ  		ทิพฺพคนฺธํ  มโนรมํ  
+<span class="LineNumber"> 019 </span>	ธูปานิ  จ  มหคฺฆานิ  		อุปวายึสุ  ตาวเท ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา.  อุพฺพฏฺฎสึ  ฯ  ม.  โอปฺเชสึ  ฯ  ยุ.  โอปฺเฉสิ  ฯ  
+<span class="LineNumber"> 021 </span>#๒.  สฺยา.  ทิเน  สฺวหํ  ฯ  ๓.  สฺยา.  สุคนฺธนฺตํ  ฯ  ๔.  สฺยา.  
+<span class="LineNumber"> 022 </span>#สรีรสฺส  วิคนฺธิโน  ฯ  ๕.  สฺยา.  คนฺเธน  อุพฺพโฏ  ฯ  ๖.  สฺยา.  
+<span class="LineNumber"> 023 </span>#คุณคนฺธายุโต  ฯ  ๗.  สฺยา.  สุคนฺธิกา  ฯ  ๘.  สฺยา.  ปุรํ  ฯ  

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>นอนเนื่องอยู่นาน    อย่างนี้แล   <B>บุคคลเป็นดุจอสรพิษไม่แล่นพิษไม่ร้าย</B>  
+<span class="LineNumber"> 002 </span>ดูก่อนภิกษุทั้งหลาย    อสรพิษมีพิษไม่แล่นพิษไม่ร้าย    แม้ฉันใด    เรากล่าว
+<span class="LineNumber"> 003 </span>บุคคลนี้เปรียบฉันนั้น.
+<span class="LineNumber"> 004 </span>            ดูก่อนภิกษุทั้งหลาย    บุคคลเปรียบด้วยอสรพิษ ๔ จำพวกนี้แล   มี
+<span class="LineNumber"> 005 </span>ปรากฏอยู่ในโลก.
+<span class="LineNumber"> 006 </span>                                       <I>จบอาสีวิสสูตรที่ ๑๐</I>      
+<span class="LineNumber"> 007 </span>                                       <I>จบวลาหกวรรคที่  ๑</I>
+<span class="LineNumber"> 008 </span>                       <h1>อรรถกถาอาสีวิสสูตร</h1>
+<span class="LineNumber"> 009 </span>            พึงทราบวินิจฉัยในอาสีวิสสูตรที่  ๑๐  ดังต่อไปนี้ :-
+<span class="LineNumber"> 010 </span>            บทว่า  <B>อาคตวิโส   น  โฆรวิโส</B>   ความว่า  พิษของอสรพิษแล่น
+<span class="LineNumber"> 011 </span>แต่ไม่ร้าย  ไม่เบียดเบียนตลอดกาลนาน.   แม้ในบทที่เหลือก็นัยนี้แล.
+<span class="LineNumber"> 012 </span>                               <I>จบอรรถกถาอาสีวิสสูตรที่  ๑๐</I>
+<span class="LineNumber"> 013 </span>                                <I>จบวลาหกวรรควรรณนาที่  ๑</I>
+<span class="LineNumber"> 014 </span>                   <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 015 </span>            ๑. ปฐมวลาหกสูตร   ๒. ทุติยวลาหกสูตร  ๓. กุมภสูตร    ๔. อุทก-
+<span class="LineNumber"> 016 </span>รหทสูตร  ๕.  อัมพสูตร  (สูตรที่  ๖  ขาดไป)  ๗. มุสิกาสูตร  ๘.  พลิพัทท-
+<span class="LineNumber"> 017 </span>สูตร  ๙.  รุกขสูตร   ๑๐.   อาสีวิสสูตร และอรรถกถา.

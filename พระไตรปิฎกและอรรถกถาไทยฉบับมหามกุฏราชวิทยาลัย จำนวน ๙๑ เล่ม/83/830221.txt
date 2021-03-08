@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>บุคคลนั้นก็ไม่มีความนอนเนื่องอยู่ด้วยภวราคานุสัย  ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>           ใช่.
+<span class="LineNumber"> 003 </span>                     <I>จบ  ภวราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 004 </span>                                  <I>ภวราคานุสยมูล  จบ</I>
+<span class="LineNumber"> 005 </span>                                      <I>เอกมูลกะ  จบ</I>
+
+<span class="LineNumber"> 006 </span>                           <H1>กามราคานุสย - ปฏิฆานุสยมูล</H1>
+<span class="LineNumber"> 007 </span><H2>ทุกมูลกะ - กามราคานุสย - ปฏิฆานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 008 </span>         [๑๓๒๗]   บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย
+<span class="LineNumber"> 009 </span>และปฏิฆานุสัย,  บุคคลนั้นก็ไม่มีความนอนเนื่องอยู่ด้วยมานานุสัย  ใช่
+<span class="LineNumber"> 010 </span>ไหม ?
+<span class="LineNumber"> 011 </span>         พระอนาคามี   ไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย   และ
+<span class="LineNumber"> 012 </span>ปฏิฆานุสัย แต่ไม่ใช่ไม่มีความนอนเนื่องอยู่ด้วยมานานุสัย, พระอรหันต์
+<span class="LineNumber"> 013 </span>ไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย    และปฏิฆานุสัย     และไม่มี
+<span class="LineNumber"> 014 </span>ความนอนเนื่องอยู่ด้วยกามราคานุสัย.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า  บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยมานานุสัย, บุคคล

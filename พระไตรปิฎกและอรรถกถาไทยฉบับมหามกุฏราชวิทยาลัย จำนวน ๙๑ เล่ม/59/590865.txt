@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๘.  ตักกลชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                    <H1>ว่าด้วยการเลี้ยงดูบิดามารดา</H1> 
+
+<span class="LineNumber"> 003 </span>         <B>[๑๔๐๐]   ข้าแต่พ่อ  มันนก  มันเทศ  มันมือเสือ และ
+<span class="LineNumber"> 004 </span>           ผักทอดยอด   ก็มิได้มี   พ่อต้องการอะไร   จึง
+<span class="LineNumber"> 005 </span>           ขุดหลุมอยู่คนเดียว ในป่ากลางป่าช้าเช่นนี้เล่า. 
+<span class="LineNumber"> 006 </span>         [๑๔๐๑]   แน่ะพ่อ   ปู่ของเจ้าทุพพลภาพมากแล้ว
+<span class="LineNumber"> 007 </span>           ถูกกองทุกข์อันเกิดจากโรคภัยหลายอย่างเบียด-
+<span class="LineNumber"> 008 </span>           เบียน    วันนี้พ่อจะฝังปู่ของเจ้านั้นเสียในหลุม
+<span class="LineNumber"> 009 </span>           เพราะพ่อไม่ปรารถนาจะให้ปู่ของเจ้ามีชีวิตอยู่
+<span class="LineNumber"> 010 </span>           อย่างลำบากเลย.
+<span class="LineNumber"> 011 </span>         [๑๔๐๒]   พ่อได้ความดำริอันลามกนี้แล้ว    กระทำ
+<span class="LineNumber"> 012 </span>           กรรมอันหยาบช้าอันล่วงเสียซึ่งประโยชน์    ดู-
+<span class="LineNumber"> 013 </span>           ก่อนพ่อ      เมื่อพ่อแก่ลงก็จักได้รับกรรมเช่นนี้
+<span class="LineNumber"> 014 </span>           จากลูกบ้าง       แม้ลูกเองก็จะอนุวัตรตามเยี่ยง
+<span class="LineNumber"> 015 </span>           ตระกูลนั้น  จักฝังพ่อเสียในหลุมบ้าง.</B>

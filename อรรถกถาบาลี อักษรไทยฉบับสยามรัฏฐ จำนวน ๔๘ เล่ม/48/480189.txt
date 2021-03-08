@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  ปุคฺคลกถาวณฺณนา  หน้า 189
+
+<span class="LineNumber"> 002 </span>	เอวํ จตุพฺพิเธ ปเฺห	ปฺจกทฺวยเภทโต 
+<span class="LineNumber"> 003 </span>	เอสา อฏฺ€มุขา นาม	วาทยุตฺติ ปกาสิตา ฯ 
+<span class="LineNumber"> 004 </span>	อฏฺเ€ว นิคฺคหา ตตฺถ	จตฺตาโร เตสุ ธมฺมิกา 
+<span class="LineNumber"> 005 </span>	อธมฺมิกา จ จตฺตาโร	สพฺพตฺถ สกวาทิโน 
+<span class="LineNumber"> 006 </span>	ชโย ปราชโย เจว	สพฺพตฺถ ปรวาทิโนติ ฯ 
+<span class="LineNumber"> 007 </span>		สจฺฉิกฏฺ€วณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 008 </span>		สุทฺธิกสํสนฺทนวณฺณนา 
+<span class="LineNumber"> 009 </span>	อิทานิ  รูปาทีหิ  สทฺธึ  สจฺฉิกฏฺ€สํสนฺทนํ  โหติ ฯ  ตตฺถ
+<span class="LineNumber"> 010 </span>รูปฺจาติ ยถา  รูปํ  ปรมตฺถโต  อุปลพฺภติ  กินฺเต  ปุคฺคโลปิ
+<span class="LineNumber"> 011 </span>ตเถว  อุปลพฺภตีติ  สนฺธาย ปุจฺฉา  สกวาทิสฺส  อตฺถิ  ปุคฺคโลติ
+<span class="LineNumber"> 012 </span>วจนมตฺตํ  คเหตฺวา  ปฏิฺา  ปรวาทิสฺส ฯ ยทิ  เต  รูปํ  วิย
+<span class="LineNumber"> 013 </span>ปรมตฺถโต  ปุคฺคโล  อตฺถิ รูปโต เวทนาทีนํ วิย ปุคฺคลสฺสาปิ
+<span class="LineNumber"> 014 </span>อฺถตฺตํ (๑)  อาปชฺชตีติ  อนุโยโค  สกวาทิสฺส สมยสุตฺตวิโรธํ
+<span class="LineNumber"> 015 </span>ทิสฺวา ปฏิกฺเขโป ปรวาทิสฺส ฯ  เสสํ  อตฺถโต  ปากฏเมว ฯ
+<span class="LineNumber"> 016 </span>ธมฺมโต  ปเนตฺถ  สตฺตปฺาสเภทสฺส  สจฺฉิกฏฺ€ปรมตฺถสฺส  วเสน
+<span class="LineNumber"> 017 </span>สกวาทีปกฺขมูลเก  อนุโลมปฺจเก  (๒)  สตฺตปฺาส  อนุโลมปฺจกานิ
+<span class="LineNumber"> 018 </span>ทสฺสิตานิ ฯ  ปฏิกมฺมจตุกฺกาทีนิ สงฺขิตฺตานิ ฯ ปุน (๓) ปรวาที-
+<span class="LineNumber"> 019 </span>ปกฺขมูลเกปิ  ปจฺจนีกานุโลเม  สตฺตปฺาส  ปฏิโลมปฺจกานิ
+<span class="LineNumber"> 020 </span># ๑. ม. อฺตฺตํ ฯ เอวมุปริปิ ฯ  ๒. มง อนุโลมปจฺจนีเก ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ปุนสทฺโท นตฺถิ ฯ

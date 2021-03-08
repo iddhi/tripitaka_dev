@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  184
+
+<span class="LineNumber"> 002 </span>		อหํปิ ปุริมํ ชาตึ		สเร สํสริตตฺตโน  
+<span class="LineNumber"> 003 </span>		ปิงฺคโล นามหํ อาสึ	ลุทฺโท โคฆาตโก ปุเร  
+<span class="LineNumber"> 004 </span>		พาราณสิยํ ผิตายํ		พหุํ ปาปํ กตํ มยา(๑)  
+<span class="LineNumber"> 005 </span>		พหู มยา หตา ปาณา	มหิสา(๒) สูกรา อชา  
+<span class="LineNumber"> 006 </span>		ตโต จุตาหํ(๓) อิธ ชาโต  อิทฺเธ เสนาปติกุเล  
+<span class="LineNumber"> 007 </span>		นตฺถิ นูน ผลํ ปาเป(๔)	โยหํ น นิรยํ คโตติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  อลาโต  เอตทพรวีติ  โส  กิร  ปุพฺเพ  กสฺสปทสพฺลสฺส  
+<span class="LineNumber"> 009 </span>กาเล  เจติเย  อโนชปุปฺผทาเมน  ปูชํ  กตฺวา  มรณสมเย 
+<span class="LineNumber"> 010 </span>อฺเน  กมฺเมน  ยถานุภาวํ  ขิตฺโต  สํสาเร  สํสรนฺโต  เอกสฺส  
+<span class="LineNumber"> 011 </span>ปาปกมฺมสฺส  นิสฺสนฺเทน  โคฆาตกกุเล  นิพฺพตฺติตฺวา  พหุํ  ปาปํ  
+<span class="LineNumber"> 012 </span>อกาสิ ฯ  อถสฺส  มรณกาเล  ภสฺมปฏิจฺฉนฺโน  วิย  อคฺคิ  เอตฺตกํ  
+<span class="LineNumber"> 013 </span>กาลํ  €ิตํ  ตํ  ปุฺกมฺมํ  โอกาสมกาสิ ฯ  โส  ตสฺสานุภาเวน 
+<span class="LineNumber"> 014 </span>อิธ  นิพฺพตฺติตฺวา  ตํ  วิภูตึ  ปตฺโต  ชาตึ  สรนฺโต  ปน  
+<span class="LineNumber"> 015 </span>อตีตานนฺตรโต  ปรํ  สริตุํ  อสกฺโกนฺโต  โคฆาตกกมฺมํ  กตฺวา 
+<span class="LineNumber"> 016 </span>อิธ  นิพฺพตฺโตสฺมีติ  สฺาย  ตสฺส  วาทํ  อุปตฺถมฺเภนฺโต  อิทํ 
+<span class="LineNumber"> 017 </span>ยถา  ภทฺทนฺโตติ  อาทิวจนมพฺรวิ ฯ  ตตฺถ  สเร  สํสริตตฺตโนติ 
+<span class="LineNumber"> 018 </span>อตฺตโน  สํสริตํ  สรามิ ฯ  เสนาปติกุเลติ  เสนาปติกุลมฺหิ ชาโต ฯ  
+<span class="LineNumber"> 019 </span>	[๘๔๘]อเถตฺถ วีชโก(๕) นาม	ทาโส อาสิ ปฏจฺฉริ(๖)  
+<span class="LineNumber"> 020 </span>		อุโปสถํ อุปวสนฺโต	คุณสนฺติกมุปาคมิ  
+<span class="LineNumber"> 021 </span># ๑. ม. มยา กตํ ฯ  ๒. ส. ม. มหึสา ฯ ๓. ม. จุโต ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. ปาปํ ฯ ๕. ม. พีชโก ฯ ๖. ม. ปฏจฺจรี ฯ 

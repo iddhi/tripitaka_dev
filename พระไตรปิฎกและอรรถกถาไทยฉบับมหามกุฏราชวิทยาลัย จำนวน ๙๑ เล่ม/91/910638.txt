@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๓๙๐]  ในเหตุปัจจัย มี ๑๓ วาระ  ฯลฯ
+ 
+<span class="LineNumber"> 003 </span>                                     <H2>โนจิตตบท</H2>
+<span class="LineNumber"> 004 </span>           [๓๙๑] ๑.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่จิตตธรรม      ที่ไม่ใช่
+<span class="LineNumber"> 005 </span>อกุศล  อาศัยธรรมที่ไม่ใช่จิตตธรรม ที่เป็นกุศล เกิดขึ้น เพราะเหตุ 
+<span class="LineNumber"> 006 </span>ปัจจัย</B>
+<span class="LineNumber"> 007 </span>                       ๒.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่จิตตธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 008 </span>อัพยากตะ  อาศัยธรรมที่ไม่ใช่จิตตธรรม   ที่เป็นกุศล  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 009 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                       ๓.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่จิตตธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 011 </span>อกุศล   และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่จิตตธรรม  ที่ไม่ใช่อัพยากตะ
+<span class="LineNumber"> 012 </span>อาศัยธรรมที่ไม่ใช่จิตตธรรม  ที่เป็นอกุศล  เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>มี ๓ วาระ.                                                                        
+<span class="LineNumber"> 014 </span>                       ๔.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่จิตตธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 015 </span>กุศล  อาศัยธรรมที่ไม่ใช่จิตตธรรม  ที่เป็นอกุศล   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 016 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>                       ๕.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่จิตตธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 018 </span>อัพยากตะ    อาศัยธรรมที่ไม่ใช่จิตตธรรม   ที่เป็นอกุศล    เกิดขึ้น
+<span class="LineNumber"> 019 </span>เพราะเหตุปัจจัย</B>

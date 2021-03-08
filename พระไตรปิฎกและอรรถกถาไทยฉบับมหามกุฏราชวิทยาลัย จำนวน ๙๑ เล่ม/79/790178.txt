@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>บุคคลผู้เป็นทิฏฐิปัตติ  ๑</H1>  
+<span class="LineNumber"> 002 </span>              <H1>บุคคลผู้เป็นสัทธาวิมุต ๑</H1>
+<span class="LineNumber"> 003 </span>              <H1>บุคคลผู้เป็นธัมมานุสารี  ๑</H1>
+<span class="LineNumber"> 004 </span>              <H1>บุคคลผู้เป็นสัทธานุสารี  ๑</H1>
+<span class="LineNumber"> 005 </span>                                     <I>จบนวกมาติกา</I>
+
+<span class="LineNumber"> 006 </span>                                       <H1>ทสกมาติกา</H1> 
+<span class="LineNumber"> 007 </span>         [๑๖]   <H1>บุคคล  ๑๐  จำพวก</H1>
+<span class="LineNumber"> 008 </span>              <H1>ความสำเร็จของพระอริยบุคคล     ในกามาวจรภูมินี้  ๕   
+<span class="LineNumber"> 009 </span>จำพวก.</H1>
+<span class="LineNumber"> 010 </span>              <H1>ความสำเร็จของพระอริยบุคคล        เมื่อละกามาวจรภูมิ
+<span class="LineNumber"> 011 </span>นี้ไปแล้ว ๕ จำพวก.</H1>
+<span class="LineNumber"> 012 </span>                                     <I>จบทสกมาติกา</I> 
+<span class="LineNumber"> 013 </span>                               <B>จบมาติกาปุคคลปัญญัติ</B>

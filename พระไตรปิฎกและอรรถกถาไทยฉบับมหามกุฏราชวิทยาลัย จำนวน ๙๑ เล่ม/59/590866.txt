@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         <B>[๑๔๐๓]   แน่ะพ่อ    เจ้ากล่าวกระทบกระเทียบขู่
+<span class="LineNumber"> 002 </span>           เข็ญพ่อด้วยวาจาหยาบคาย  เจ้าเป็นลูกที่เกิด
+<span class="LineNumber"> 003 </span>           แต่อกของพ่อ  แต่หาได้มีความอนุเคราะห์เกื้อ-
+<span class="LineNumber"> 004 </span>           กูลแก่พ่อไม่.  
+<span class="LineNumber"> 005 </span>         [๑๔๐๔]   ข้าแต่พ่อ  มิใช่ว่าฉันจะไม่มีความเกื้อกูล
+<span class="LineNumber"> 006 </span>           อนุเคราะห์แก่พ่อ   แม้ฉันก็มีความเกื้อกูลอนุ-
+<span class="LineNumber"> 007 </span>           เคราะห์แต่พ่อ   แต่เพราะฉันไม่กล้าจะห้ามพ่อ
+<span class="LineNumber"> 008 </span>           ผู้ทำบาปกรรมโดยตรงได้       จึงได้พูดกระทบ-
+<span class="LineNumber"> 009 </span>           กระเทียบเช่นนั้น. 
+<span class="LineNumber"> 010 </span>         [๑๔๐๕]   ท่านสวิฏฐกะ    ผู้ใดเป็นคนมีธรรมอัน
+<span class="LineNumber"> 011 </span>           ลามก   เบียดเบียนมารดาหรือบิดา    ผู้ไม่ประ
+<span class="LineNumber"> 012 </span>           ทุษร้าย   ผู้นั้นครั้นตายไปภายหน้า  ย่อมเข้าถึง
+<span class="LineNumber"> 013 </span>           นรกโดยไม่ต้องสงสัย. 
+<span class="LineNumber"> 014 </span>         [๑๔๐๖]   ท่านสวิฏฐกะ  ผู้ใดบำรุงเลี้ยงมารดาบิดา
+<span class="LineNumber"> 015 </span>           ด้วยข้าวน้ำ   ผู้นั้นครั้นตายไปภายหน้า     เข้าถึง
+<span class="LineNumber"> 016 </span>           สุคติโดยไม่ต้องสงสัย.</B>

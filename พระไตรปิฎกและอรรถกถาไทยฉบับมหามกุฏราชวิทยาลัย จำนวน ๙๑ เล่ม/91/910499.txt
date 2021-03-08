@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>             <H1>เหตุทุกอาจยคามิติกนเหตุทุกนอาจยคามิติกะ</H1> 
+<span class="LineNumber"> 002 </span>              <H2>(๑. เหตุทุกะ  ๑๐.  อาจยคามิติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>อาจยคามิบท</H2>		
+<span class="LineNumber"> 007 </span>           [๒๔๖] ๑.  <B>ธรรมที่ไม่ใช่อาจยคามิธรรม  ที่ไม่ใช่เหตุ  อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นอาจยคามิธรรม  ที่เป็นเหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี
+<span class="LineNumber"> 009 </span>๓ วาระ.
+
+<span class="LineNumber"> 010 </span>                                    <H2>อปจยคามิบท</H2>
+<span class="LineNumber"> 011 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อปจยคามิธรรม  ที่ไม่ใช่เหตุ  อาศัย
+<span class="LineNumber"> 012 </span>ธรรมที่เป็นอปจยคามิธรรม   ที่เป็นเหตุ   เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>มี  ๓  วาระ.
+
+<span class="LineNumber"> 014 </span>                       <H2>เนวาจยคามินาปจยคามิบท</H2>	
+<span class="LineNumber"> 015 </span>                       ๑.  <B>ธรรมที่ไม่ใช่เนวาจยคามินาปจยคามิธรรม      ที่
+<span class="LineNumber"> 016 </span>ไม่ใช่ธรรมที่ไม่ใช่เหตุ    อาศัยธรรมที่เป็นเนวาจยคามินาปจยคามิ-
+<span class="LineNumber"> 017 </span>ธรรม  ที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>             <I>เหตุทุกอาจยคามิติกนเหตุทุกนอาจยคามิติกะ  จบ</I>

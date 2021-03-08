@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>๒.   โกสัมพิยชาดก</H1>
+
+<span class="LineNumber"> 002 </span>               <H1>ว่าด้วยอยู่คนเดียวดีกว่าร่วมกับคนพาล</H1> 
+
+<span class="LineNumber"> 003 </span>         <B>[๑๒๑๖]   คนพาลมีเรื่องอื้ออึงเหมือนกันหมด  แต่
+<span class="LineNumber"> 004 </span>           สักคนหนึ่งก็ไม่รู้สึกคนว่าเป็นคนพาล     เมื่อ
+<span class="LineNumber"> 005 </span>           สงฆ์แตกกันก็ไม่รู้เหตุอื่นโดยยิ่งว่า  สงฆ์แตก
+<span class="LineNumber"> 006 </span>           กันเพราะเรา.
+<span class="LineNumber"> 007 </span>         [๑๒๑๗]   เพราะเป็นคนมีสติหลงลืม  แต่ยังพูดว่า
+<span class="LineNumber"> 008 </span>           ตนเป็นบัณฑิตมีวาจาเป็นอารมณ์ช่างพูด  ย่อม
+<span class="LineNumber"> 009 </span>           ปรารถนาจะให้เสียงออกจากปากอยู่เพียงใด  ก็
+<span class="LineNumber"> 010 </span>           พูดไปเพียงนั้น     เขาถูกการทะเลาะนำไปแล้ว
+<span class="LineNumber"> 011 </span>           ยังไม่รู้ว่าการทะเลาะนั้นเป็นโทษ. 
+<span class="LineNumber"> 012 </span>         [๑๒๑๘]   ก็ชนเหล่าใดเข้าไปผูกความโกรธนั้นไว้
+<span class="LineNumber"> 013 </span>           ว่า  คนโน้นได้ด่าเรา  คนโน้นได้ตีเรา คนโน้น
+<span class="LineNumber"> 014 </span>           ได้ชนะเรา  คนโน้นได้ลักของของเรา  เวรของ
+<span class="LineNumber"> 015 </span>           ชนเหล่านั้น  ย่อมไม่ระงับได้. 
+<span class="LineNumber"> 016 </span>         [๑๒๑๙]   ส่วนชนเหล่าใดไม่เข้าไปผูกความโกรธ 
+<span class="LineNumber"> 017 </span>           นั้นไว้ว่า    คนโน้นได้ด่าเรา    คนโน้นได้ตีเรา</B>

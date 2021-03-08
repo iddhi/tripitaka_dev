@@ -1,0 +1,22 @@
+﻿ 
+<span class="LineNumber"> 001 </span>          [๖๒๕]  คำว่า <B>ละอภิชฌาในโลก</B> มีอธิบายว่า อภิชฌา เป็นไฉน ?  
+<span class="LineNumber"> 002 </span>           ความกำหนัด  ความกำหนัดนัก ฯลฯ ความกำหนัดนักแห่งจิต  อัน 
+<span class="LineNumber"> 003 </span>ใดนี้เรียกว่า  <B>อภิชฌา.</B>
+<span class="LineNumber"> 004 </span>           <B>โลก</B>    เป็นไฉน ? 
+<span class="LineNumber"> 005 </span>           <B>อุปาทานขันธ์ ๕</B> ชื่อว่าโลก  นี้เรียกว่า  <B>โลก</B>.
+<span class="LineNumber"> 006 </span>           อภิชฌานี้  สงบ  ระงับ  เข้าไประงับ    ดับไป    ดับไปอย่างราบคาบ
+<span class="LineNumber"> 007 </span>ถูกทำให้พินาศไป    ถูกทำให้พินาศไปด้วยดี    ถูกทำให้เหือดแห้ง    ถูกทำให้
+<span class="LineNumber"> 008 </span>เหือดแห้งด้วยดี    ถูกทำให้มีที่สุดปราศไปแล้ว   ในโลกนี้    ด้วยเหตุนั้น    จึง
+<span class="LineNumber"> 009 </span>เรียกว่า  ละอภิชฌาในโลกเสียได้.
+<span class="LineNumber"> 010 </span>           [๖๒๖]  คำว่า   <B>ด้วยจิตที่ปราศจากอภิชฌา</B>    มีอธิบายว่า   จิต
+<span class="LineNumber"> 011 </span>เป็นไฉน ?
+<span class="LineNumber"> 012 </span>           จิต  มโน  มานัส ฯลฯ   มโนวิญญาณธาตุที่สมกัน   อันใด  เรียกว่า
+<span class="LineNumber"> 013 </span>จิต  จิตนี้ปราศจากอภิชฌา  ด้วยเหตุนั้น     จึงเรียกว่า    <B>ด้วยจิตที่ปราศจาก
+<span class="LineNumber"> 014 </span>อภิชฌา.</B>
+<span class="LineNumber"> 015 </span>           [๖๒๗]   บทว่า   <B>อยู่</B>  มีอธิบายว่า  สืบเนื่องกันอยู่   ประพฤติเป็นไป
+<span class="LineNumber"> 016 </span>อยู่   รักษาอยู่   เป็นไปอยู่   ให้เป็นไปอยู่   เที่ยวไปอยู่    พักอยู่     ด้วยเหตุนั้น
+<span class="LineNumber"> 017 </span>จึงเรียกว่า  <B>อยู่</B>.
+<span class="LineNumber"> 018 </span>           [๖๒๘]  คำว่า   <B>ชำระจิตให้บริสุทธิ์จากอภิชฌา</B>     มีอธิบายว่า
+<span class="LineNumber"> 019 </span><B>อภิชฌา</B>  เป็นไฉน ?
+<span class="LineNumber"> 020 </span>           ความกำหนัด  ความกำหนัดนัก ฯลฯ  ความกำหนัดนักแห่งจิต  อันใด
+<span class="LineNumber"> 021 </span>นี้เรียกว่า  <B>อภิชฌา</B>.

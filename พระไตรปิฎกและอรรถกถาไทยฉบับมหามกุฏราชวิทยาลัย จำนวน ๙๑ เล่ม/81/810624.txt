@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       ส. ละสัสสตทิฏฐิได้  หรือ ? 
+<span class="LineNumber"> 002 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 003 </span>                       ส. ละสัสสตทิฏฐิได้  หรือ ?
+<span class="LineNumber"> 004 </span>                       ป.  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. ละได้ด้วยโสดาปัตติมรรค หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. ละได้ด้วยสกทาคามิมรรค   ฯลฯ   ด้วยอรหัตมรรค
+<span class="LineNumber"> 008 </span>หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>                       ส. ด้วยมรรคไหน ?
+<span class="LineNumber"> 011 </span>                       ป. ด้วยมรรคฝ่ายอกุศล.
+<span class="LineNumber"> 012 </span>                       ส. มรรคฝ่ายอกุศล  ฯลฯ  ก็ต้องไม่กล่าวว่า  สัสสตทิฏฐิ
+<span class="LineNumber"> 013 </span>อันบุคคลผู้แน่นอนโดยอุจจเฉททิฏฐิ ละได้ด้วยมรรคฝ่ายอกุศล.
+<span class="LineNumber"> 014 </span>         [๑๗๙๘]  ป. ไม่พึงกล่าวว่า       ปุถุชนมีความแน่นอนโดยส่วนเดียว
+<span class="LineNumber"> 015 </span>หรือ ? 
+<span class="LineNumber"> 016 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                       ป. พระผู้มีพระภาคเจ้าได้ตรัสได้ว่า   <B>ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 018 </span>บุคคลบางคนในโลกนี้  เป็นผู้ประกอบด้วยธรรมฝ่ายอกุศล   เป็นธรรมดำ
+<span class="LineNumber"> 019 </span>โดยส่วนเดียว  บุคคลนั้นเป็นผู้จมลงแล้วครั้งหนึ่ง   ก็จมลงอยู่นั่นเอง</B>
+<span class="LineNumber"> 020 </span>ดังนี้<SUP>๑</SUP>  เป็นสูตรมีอยู่จริง  มิใช่หรือ ?
+<span class="LineNumber"> 021 </span>                        ส. ถูกแล้ว.
+
+<span class='footnote'>๑.  อง. สัตตก. ๒๓/๑๕.</span>

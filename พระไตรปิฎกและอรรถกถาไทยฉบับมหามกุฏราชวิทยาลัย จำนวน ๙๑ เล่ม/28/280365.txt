@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span><h1>อรรถกถาทุติยหัตถปาทปัพพสูตรที่  ๑๐</h1>  
+<span class="LineNumber"> 002 </span>            ในทุติยหัตถปาทปัพพสูตรที่   ๑๐   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>            เมื่อตรัสว่า  <B>น โหติ</B>   จึงได้ตรัสด้วยอัธยาศัยของผู้จะตรัสรู้.   ก็ใน
+<span class="LineNumber"> 004 </span>สูตรทั้ง   ๒   นี้     พระองค์ทรงแสดงเฉพาะสุขทุกข์อันเป็นวิบาก    แล้วจึง
+<span class="LineNumber"> 005 </span>ทรงแสดงวัฏฏะและวิวัฏฏะแล.
+<span class="LineNumber"> 006 </span>              	   <I>จบ  อรรถกถาทุติยหัตถปาทปัพพสูตรที่  ๑๐
+<span class="LineNumber"> 007 </span>                           จบ  อรรถกถาสมุททวรรคที่  ๓</I>
+
+<span class="LineNumber"> 008 </span>                         <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 009 </span>            ๑.  สมุททสูตรที่  ๑     ๒.  สมุททสูตรที่   ๒      ๓.  พาลิสิกสูตร
+<span class="LineNumber"> 010 </span>๔.  ขีรรุกขสูตร    ๕.  โกฏฐิกสูตร    ๖.  กามภูสูตร     ๗.  อุทายีสูตร
+<span class="LineNumber"> 011 </span>๘.  อาทิตตปริยายสูตร   ๙. หัตถปาทปัพพสูตรที่  ๑   ๑๐.  หัตถปาทปัพพ-
+<span class="LineNumber"> 012 </span>สูตรที่  ๒

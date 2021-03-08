@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           [๑๔๐๗]  ๒.  <B>มหัคคตธรรม  เจือกับมหัคคตธรรม  เกิดขึ้น 
+<span class="LineNumber"> 002 </span>เพราะนกัมมปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           คือ  เจตนาที่เป็นมหัคคตธรรม  เจือกับขันธ์ทั้งหลายที่เป็นมหัคคต-
+<span class="LineNumber"> 004 </span>ธรรม.
+<span class="LineNumber"> 005 </span>           [๑๔๐๘] ๓.  <B>อัปปมาณธรรม  เจือกับอัปปมาณธรรม  เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ เจตนาที่เป็นอัปปมาณธรรม เจือกับขันธ์ทั้งหลายที่เป็นอัปปมาณ-
+<span class="LineNumber"> 008 </span>ธรรม  ที่เป็นกุศล.
+
+<span class="LineNumber"> 009 </span>                                   <H1>๗.  นวิปากปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๑๔๑๐] ๑.  <B>ปริตตธรรม  เจือกับปริตตธรรม เกิดขึ้น  เพราะ
+<span class="LineNumber"> 011 </span>นวิปากปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์ ๑  ที่เป็นปริตตธรรม  ฯลฯ.
+<span class="LineNumber"> 013 </span>           [๑๔๐๑] ๒.  <B>มหัคคตธรรม  เจือกับมหัคคตธรรม  เกิดขึ้น
+<span class="LineNumber"> 014 </span>เพราะวิปากปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ ขันธ์ ๓  เจือกับขันธ์ ๑ ที่เป็นมหัคคตธรรม ฯลฯ.
+<span class="LineNumber"> 016 </span>           [๑๔๑๑] ๓.  <B>อัปปมาณธรรม  เจือกับอัปปมาณธรรม  เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะนวิปากปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์ ๑  ที่เป็นอัปปมาณธรรม ฯลฯ.
+

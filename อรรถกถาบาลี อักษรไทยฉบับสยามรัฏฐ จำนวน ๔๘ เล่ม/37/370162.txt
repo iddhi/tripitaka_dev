@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า 162 
+
+<span class="LineNumber"> 002 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 003 </span>[๘๒๙]สพฺพสฺมึ อุปกฺขตสฺมึ นิสีทิเต	จนฺทสุริยสฺมึ(๑) ยฺตฺถาย  
+<span class="LineNumber"> 004 </span>	ปฺจาลราชธีตา ปฺชลิกา	สพฺพปริสนฺตรมนุปริยาสิ (๒) 
+<span class="LineNumber"> 005 </span>	เยน สจฺเจน กณฺฑหาโล		ปาปกมฺมํ กโรติ ทุมฺเมโธ  
+<span class="LineNumber"> 006 </span>	เอเตน สจฺจวชฺเชน			สมงฺคินี สามิเกน โหมิ  
+<span class="LineNumber"> 007 </span>	เยธตฺถิ(๓) อมนุสฺสา		ยานิ จ ยกฺขภูตภพฺยานิ  
+<span class="LineNumber"> 008 </span>	กโรนตุ เม เวยฺยาวฏิกํ		สมงฺคินี สามิเกน โหมิ  
+<span class="LineNumber"> 009 </span>	ยา เทวตา อิธาคตา		ยานิ จ สพฺพภูตภพฺยานิ  
+<span class="LineNumber"> 010 </span>	สรเณสินึ อนาถํ ตายถ มํ  ยาจามิ(๔) โว ปติมาหํ อเชยฺยนฺติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  อุปกฺขตสฺมินฺติ  สพฺพสมึ  ยฺสมฺภาเร  สชฺชิเต 
+<span class="LineNumber"> 012 </span>ปฏิยตฺเต ฯ  สมงฺคินีติ  สมฺปยุตฺตา  เอกสมฺปยุตฺตา  เอกสํวาสา
+<span class="LineNumber"> 013 </span>โหมิ ฯ เยธตฺถีติ(๕) เย  อิธ  อตฺถิ ฯ  ยกฺขภูตภพฺยานีติ  เทวสํขาตา 
+<span class="LineNumber"> 014 </span>ยกฺขา  จ  วฑฺฒิตฺวา  €ิตสตฺตสํขาตา  ภูตา  จ  อิทานิ 
+<span class="LineNumber"> 015 </span>วฑฺฒนกสตฺตสํขาตานิ  จ  ภพฺยานิ ฯ  เวยฺยาวฏิกนฺติ  มยฺหํ 
+<span class="LineNumber"> 016 </span>เวยฺยาวจฺจํ  กโรนฺตุ ฯ  ตายถ  มนฺติ  รกฺขถ  มํ ฯ  ยาจามิ 
+<span class="LineNumber"> 017 </span>โวติ  อหํ  โว  ยาจามิ ฯ  ปติมาหนฺติ(๖)  ปติ  อหํ ฯ  อเชยฺยนฺติ 
+<span class="LineNumber"> 018 </span>ปจฺจตฺถิเกหิ อเชยฺยํ อชิตํ ฯ  
+<span class="LineNumber"> 019 </span>	อถ  สกฺโก  เทวราชา  ตสฺสา  ปริเทวนสทฺทํ (๗) สุตฺวา  ตํ 
+<span class="LineNumber"> 020 </span># ๑. ม. จนฺทสฺมึ ฯ  ๒. ม. สพฺพปริสาย ฯ  ๓. ม. เย อิธตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ยาจามหํ ฯ  ๕. ม. เย อิธตฺถีติ ฯ  ๖. ม. ปตึ อหํ มา 
+<span class="LineNumber"> 022 </span># อเชยฺยํ ฯ  ๗. ม. ปริเทวสทฺทํ ฯ 

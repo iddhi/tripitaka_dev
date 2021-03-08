@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า ๓๑๘
+
+<span class="LineNumber"> 002 </span>				ปรมฺมรณสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ทฺวาทสเม  ตถาคโตติ  สตฺโต ฯ  น  เหตํ  อาวุโส อตฺถ-
+<span class="LineNumber"> 004 </span>สฺหิตนฺติ อาวุโส  เอตํ  ทิฏฺ€ิคตํ  อตฺถสนฺนิสฺสิตํ น โหติ ฯ 
+<span class="LineNumber"> 005 </span>นาทิพฺรหฺมจริยกนฺติ มคฺคพฺรหฺมจริยสฺส ปุพฺพภาคปฏิปทาปิ  น 
+<span class="LineNumber"> 006 </span>โหติ ฯ  เอตฺหิ  อาวุโส  อตฺถสฺหิตนฺติ  อาวุโส  เอตํ 
+<span class="LineNumber"> 007 </span>จตุสจฺจกมฺมฏฺ€านํ  อตฺถสนฺนิสฺสิตํ ฯ  เอตํ  อาทิพฺรหฺมจริยกนฺติ 
+<span class="LineNumber"> 008 </span>เอตํ มคฺคพฺรหฺมจริยสฺส อาทิ ปุพฺพภาคปฏิปทา ฯ 
+<span class="LineNumber"> 009 </span>				ทฺวาทสมํ ฯ         
+
+<span class="LineNumber"> 010 </span>				สทฺธมฺมปฺปฏิรูปกสุตฺตวณฺณนา         
+<span class="LineNumber"> 011 </span>	เตรสเม   อฺาย   สณฺ€หึสูติ   อรหตฺเต   ปติฏฺ€หึสุ ฯ 
+<span class="LineNumber"> 012 </span>สทฺธมฺมปฏิรูปกนฺติ   เทฺว  สทฺธมฺมปฏิรูปกานิ  อธิคมสทฺธมฺม-
+<span class="LineNumber"> 013 </span>ปฏิรูปกฺจ ปริยตฺติสทฺธมฺมปฏิรูปกฺจ   ตตฺถ  
+<span class="LineNumber"> 014 </span>		โอภาเส เจว าเณ จ		ปีติยา จ วิกมฺปติ          
+<span class="LineNumber"> 015 </span>		ปสฺสทฺธิยา สุเข เจว		เยหิ จิตฺตํ ปเวธติ ฯ       
+<span class="LineNumber"> 016 </span>		อธิโมกฺเข จ ปคฺคาเห		อุปฏฺ€าเน จ กมฺปติ        
+<span class="LineNumber"> 017 </span>		อุเปกฺขาวชฺชนา (๑) เจว	อุเปกฺขาย จ นิกนฺติยา ฯ      
+<span class="LineNumber"> 018 </span>		อิมานิ ทส €านานิ		ปฺา ยสฺส ปริจฺจิตา (๒)       
+<span class="LineNumber"> 019 </span>		ธมฺมุทฺธจฺจกุสโล (๓) โหติ  น จ สมฺโมห คจฺฉตีติ ฯ (๔)      
+<span class="LineNumber"> 020 </span># ๑. สี. อุเปกฺขาวชฺชเน เจว ฯ  ๒. ม. ปริจิตา ฯ  ๓. สี. ส ตตฺถ กุสโล ฯ
+<span class="LineNumber"> 021 </span># ม. ธมฺมุทฺธจฺจกุสโล ฯ  ๔. ขุ. ปฏิ. ๓๑/๕๔๓/๔๔๘ ฯ

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ จุลฺลสีหนาทสุตฺตวณฺณนา หน้า ๙
+
+<span class="LineNumber"> 002 </span>มคฺคสฺส อารทฺธวิปสฺสกํ  มคฺคฏฺ€ํ  ผลฏฺ€นฺติ  ตโยปิ  เอกโต  
+<span class="LineNumber"> 003 </span>กตฺวา  ทุติโยปิ  สมโณ  นตฺถีติ  อาหฯ  อิตเรสุปิ  ทฺวีสุ  
+<span class="LineNumber"> 004 </span>เอเสว  นโยฯ  
+<span class="LineNumber"> 005 </span>	กสฺมา  ปเนเต  อฺตฺถ  นตฺถีติฯ  อเขตฺตตายฯ  
+<span class="LineNumber"> 006 </span>ยถา  หิ  น  อารคฺเค  สาสโป  ติฏฺ€ติ  น  อุทกปิฏฺเ€  อคฺคิ  
+<span class="LineNumber"> 007 </span>ชลติ  น  ปิฏฺ€ิปาสาเณ  วีชานิ  รุหนฺติ  เอวเมว  พาหิเรสุ  
+<span class="LineNumber"> 008 </span>ติตฺถายตเนสุ  น   อิเม  สมณา  อุปฺปชฺชนฺติ  อิมสฺมึเยว  
+<span class="LineNumber"> 009 </span>สาสเน(๑)   กสฺมา  สุเขตฺตตายฯ  (๒)สา  ปเนสา (๓)อเขตฺตตา 
+<span class="LineNumber"> 010 </span>สุเขตฺตตา(๔) จ  อริยมคฺคสฺส  อภาวโต  จ ภาวโต จ (๕) เวทิตพฺพาฯ 
+<span class="LineNumber"> 011 </span>เตนาห ภควา  
+<span class="LineNumber"> 012 </span>	ยสฺมึ  โข  สุภทฺท  ธมฺมวินเย  อริโย  อฏฺ€งฺคิโก  มคฺโค  
+<span class="LineNumber"> 013 </span>น   อุปลพฺภติ  สมโณปิ  ตตฺถ  น  อุปลพฺภติ  ทุติโยปิ  ตตฺถ  
+<span class="LineNumber"> 014 </span>สมโณ  น  อุปลพฺภติ  ตติโยปิ  ตตฺถ  สมโณ  น  อุปลพฺภติ  
+<span class="LineNumber"> 015 </span>จตุตฺโถปิ  ตตฺถ  สมโณ  น  อุปลพฺภติฯ  ยสฺมิฺจ  โข(๖)  สุภทฺท  
+<span class="LineNumber"> 016 </span>ธมฺมวินเย  อริโย  อฏฺ€งฺคิโก  มคฺโค  อุปลพฺภติ  สมโณปิ  ตตฺถ  
+<span class="LineNumber"> 017 </span>อุปลพฺภติ  ทุติโยปิ  ตตฺถ  เป  จตุตฺโถปิ  ตตฺถ  สมโณ  อุปลพฺภติ
+<span class="LineNumber"> 018 </span>อิมสฺมึ  โข  สุภทฺท ธมฺมวินเย  อริโย  อฏฺ€งฺคิโก  มคฺโค  
+<span class="LineNumber"> 019 </span>อุปลพฺภติ  อิเธว  สุภทฺท  สมโณ  อิธ  ทุติโย  สมโณ  อิธ  
+<span class="LineNumber"> 020 </span># ๑. ม. อิมสฺมึเยว ปน สาสเน อุปฺปชฺชนฺติ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. เขตฺตตาย ฯ    ๓. ม. เตสํ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. เขตฺตตา ฯ    ๕. ม. อภาวโต จ ภาวโต จ... ฯ 
+<span class="LineNumber"> 023 </span># ๖. ยสฺมึ จ โข ฯ

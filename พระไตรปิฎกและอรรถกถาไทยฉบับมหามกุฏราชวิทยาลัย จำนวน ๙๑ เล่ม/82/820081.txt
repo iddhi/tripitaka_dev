@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>ไม่ชื่อว่าสังขารขันธ์   สังขารขันธ์   ชื่อว่าสังขารด้วย    ชื่อว่าสังขารขันธ์ 
+<span class="LineNumber"> 002 </span>ด้วย.
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าสังขารขันธ์   ชื่อว่าสังขาร   ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         [ ๓๖ ]   ธรรมที่ชื่อว่าวิญญาณ,  ชื่อว่าวิญญาณขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าวิญญาณขันธ์  ชื่อว่าวิญญาณ ใช่ไหม   ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                              <I>ปทโสธนวาระ  อนุโลม  จบ</I>

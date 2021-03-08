@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ท่านย่อคำว่า   <B>อามนฺตา</B>   ไว้ทั้งสองส่วน. 
+<span class="LineNumber"> 002 </span>         ธรรมที่ไม่ชื่อว่าชิวหา   ฯ ล ฯ
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่ากาย,  ไม่ชื่อว่ากายธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่ากายธาตุ,  ไม่ชื่อว่ากาย  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         เว้นกายธาตุเสียแล้ว   กายที่เหลือ   ไม่ชื่อว่ากายธาตุ    แต่ชื่อว่า
+<span class="LineNumber"> 007 </span>กาย,  เว้นกายและกายธาตุเสียแล้ว    กายที่เหลือไม่ชื่อว่า    กาย    และ
+<span class="LineNumber"> 008 </span>ไม่ชื่อว่า   กายธาตุ.
+<span class="LineNumber"> 009 </span>         ธรรมที่ไม่ชื่อว่ารูป,   ไม่ชื่อว่าว่ารูปธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ธรรมที่ไม่ชื่อว่ารูปธาตุ,   ไม่ชื่อว่ารูป  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         เว้นรูปธาตุเสียแล้ว   รูปที่เหลือ   ไม่ชื่อว่า   รูปาธาตุ    แต่ชื่อว่า
+<span class="LineNumber"> 013 </span>รูป,  เว้นรูปและรูปธาตุเสียแล้ว    รูปที่เหลือ   ไม่ชื่อว่า    รูป    และไม่
+<span class="LineNumber"> 014 </span>ชื่อว่า  รูปธาตุ.
+<span class="LineNumber"> 015 </span>         ธรรมที่ไม่ชื่อว่าสัททะ  ฯ ล ฯ
+<span class="LineNumber"> 016 </span>         ธรรมที่ไม่ชื่อว่าคันธะ,  ไม่ชื่อว่าคันธธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 017 </span>         ใช่.

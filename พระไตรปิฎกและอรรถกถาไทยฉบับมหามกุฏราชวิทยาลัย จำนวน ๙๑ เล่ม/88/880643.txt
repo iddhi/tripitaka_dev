@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>๓๒.  โอฆและโยคโคจฉกทุกะ<SUP>๑</SUP></H2>
+<span class="LineNumber"> 002 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                        <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>           [๕๗๕]  <B>โอฆธรรม อาศัยโอฆธรรม เกิดขึ้นเพราะเหตุปัจจัย. 
+<span class="LineNumber"> 005 </span>           โยคธรรม  อาศัยโยคธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           โคจฉกะทั้ง ๒  เหมือนกับ  อาสวโคจฉกะ  ไม่มีแตกต่างกัน.
+<span class="LineNumber"> 007 </span>                                   <I>โอฆและโยคโคจฉกทุกะ จบ</I>
+<span class='footnote'>๑.  โอฆโคจฉกทุกะ  มี ๖ ทุกะ  (ทุกะที่  ๓๒ ถึง ๓๗).  โยคโคจฉกทุกะ  มี ๖ ทุกะ  (ทุกะที่</span>
+<span class='footnote'>      ๓๘ ถึง  ๔๓)  ทุกะต่อไปคือนีวรณทุกะ  จึงเป็นทุกะที่ ๔๔</span>

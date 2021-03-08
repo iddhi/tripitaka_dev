@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๖๗]  ในเหตุปัจจัย มี ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>                                   <I>นสวิจารทุกะ  จบ</I> 
+
+<span class="LineNumber"> 004 </span>                                  <H1>๘๙.  นสัปปีติทุกะ</H1>
+<span class="LineNumber"> 005 </span>                                       <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 006 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>           [๑๖๘]๑.  <B>ธรรมที่ไม่ใช่สัปปีติกธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 009 </span>สัปปีติกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๓ วาระ  (วาระที่ ๑-๓)
+<span class="LineNumber"> 010 </span>                       ๔. <B>ธรรมที่ไม่ใช่อัปปีติกธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 011 </span>อัปปีติกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๓ วาระ   (วาระที่ ๔-๖)
+<span class="LineNumber"> 012 </span>                       ๗. <B>ธรรมที่ไม่ใช่สัปปีติกรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 013 </span>สัปปีติกธรรม  และไม่ใช่อัปปีติกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>มี  ๓  วาระ  (วาระที่  ๗-๙)
+
+<span class="LineNumber"> 015 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๑๖๙]  ในเหตุปัจจัย มี  ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 017 </span>                                   <I>นสัปปีติทุกะ  จบ</I>	

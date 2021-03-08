@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                        <B>คนทั้งหลายรู้จักภูเขาลูกนี้ว่า  ชื่อว่า  เนรุ
+<span class="LineNumber"> 002 </span>           เป็นภูเขาชั้นยอดกว่าภูเขาทั้งหลาย     สัตว์ทุก
+<span class="LineNumber"> 003 </span>           ชนิดอยู่ในภูเขานี้สีสวยหมด.</B>
+<span class="LineNumber"> 004 </span>         บรรดาบทเหล่านั้น   บทว่า   <B>อิธ   วณฺเณน</B>   ความว่า   สัตว์
+<span class="LineNumber"> 005 </span>ทั้งหลายในเนรุบรรพตนี้   เป็นผู้มีสีสวย  เพราะรัศมีภูเขา .
+<span class="LineNumber"> 006 </span>         น้องชายได้ยินคำนั้นแล้ว  ได้กล่าวคาถาที่เหลือว่า :-
+<span class="LineNumber"> 007 </span>                        <B>ณ    ที่ใดมีแต่ความไม่นับถือกัน     การ
+<span class="LineNumber"> 008 </span>           ดูหมิ่นสัตบุรุษ หรือการนับถือคนเลว ณ ที่นั้น
+<span class="LineNumber"> 009 </span>           คนมีอำนาจไม่ควรอยู่.    แต่ในที่ใดเขาบูชาทั้ง
+<span class="LineNumber"> 010 </span>           คนเกียจคร้าน    ทั้งคนขยัน    ทั้งคนกล้าหาญ
+<span class="LineNumber"> 011 </span>           ทั้งคนขลาด    สัตบุรุษทั้งหลาย    จะไปอยู่ใน
+<span class="LineNumber"> 012 </span>           ที่นั้นที่ไม่ทำให้ไม่แปลกกัน.  เขาเนรุนี้  จะไม่
+<span class="LineNumber"> 013 </span>           คบคนที่เลว  คนชั้นสูง    และคนขนาดกลาง
+<span class="LineNumber"> 014 </span>           เขาเนรุทำให้สัตว์ไม่แตกต่างกัน        เชิญเถิด
+<span class="LineNumber"> 015 </span>           พวกเราจะละทิ้งเขาเนรุนั้นเสีย.</B>
+<span class="LineNumber"> 016 </span>         บรรดาบทเหล่านั้น   คาถาที่หนึ่งมีเนื้อความว่า  ณ ที่ใดมีทั้งการ
+<span class="LineNumber"> 017 </span>ไม่นับถือ   ทั้งการดูหมิ่น    หรือการปราศจากความนับถือ    ด้วยอำนาจ

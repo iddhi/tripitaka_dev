@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๓.  จักวากชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                              <H1>ว่าด้วยนกจักรพราก</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๔๕๓]   ดูก่อนจักรพราก   ท่านมีสีสวย   รูปงาม
+<span class="LineNumber"> 004 </span>           ร่างกายแน่นแฟ้น  มีสีแดงดังทอง  ทรวดทรง 
+<span class="LineNumber"> 005 </span>           งาม  ใบหน้าผุดผ่อง. 
+<span class="LineNumber"> 006 </span>         [๑๔๕๔]   ท่านจับอยู่ที่ฝั่งคงคา        เห็นจะได้กิน
+<span class="LineNumber"> 007 </span>           อาหารอย่างนี้  คือปลากา  ปลากระบอก  ปลา
+<span class="LineNumber"> 008 </span>           หมอ  ปลาเค้า  ปลาตะเพียนกระมัง. 
+<span class="LineNumber"> 009 </span>         [๑๔๕๕]   ดูก่อนสหาย    สิ่งอื่นนอกจากสาหร่าย
+<span class="LineNumber"> 010 </span>           และแหนแล้ว   เรามิได้ถือเอาเนื้อสัตว์บกหรือ
+<span class="LineNumber"> 011 </span>           สัตว์น่ามากินเป็นอาหารเลย  สาหร่ายและแหน
+<span class="LineNumber"> 012 </span>           เท่านั้นเป็นอาหารของเรา. 
+<span class="LineNumber"> 013 </span>         [๑๔๕๖]   ดูก่อนสหาย      เราไม่เชื่อว่าอาหารของ
+<span class="LineNumber"> 014 </span>           นกจักรพรากเป็นอย่างนี้      แม้เรากินอาหารที่
+<span class="LineNumber"> 015 </span>           คลุกเคล้าด้วยเกลือและน้ำมันในบ้าน.</B>

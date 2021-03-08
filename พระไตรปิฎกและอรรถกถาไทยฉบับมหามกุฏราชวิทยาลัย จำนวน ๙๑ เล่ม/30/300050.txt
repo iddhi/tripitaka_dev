@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>	ภ.   อย่างนั้น  ท่านผู้มีอายุ.
+<span class="LineNumber"> 002 </span>	อา.   อริยมรรคอันประกอบด้วยองค์ ๘ คือ  สัมมาทิฏฐิ ฯลฯ  สัมมา
+<span class="LineNumber"> 003 </span>สมาธิ   นี้แล   เป็นพรหมจรรย์      บุคคลผู้ประกอบด้วยอริยมรรคอันประกอบ
+<span class="LineNumber"> 004 </span>ด้วยองค์ ๘   นี้เรียกว่าเป็นพรหมจารี   ความสิ้นราคะ   โทสะ   โมหะ   นี้เป็น
+<span class="LineNumber"> 005 </span>ที่สุดของพรหมจรรย์.        
+<span class="LineNumber"> 006 </span>                                 <I>จบตติยกุกกุฏารามสูตรที่  ๑๐</I>
+<span class="LineNumber"> 007 </span>                                            <H2>อรรถกถา</H2>
+<span class="LineNumber"> 008 </span>            สูตรที่   ๙-๑๐   มีเนื้อความง่ายทั้งนั้นแล.
+
+<span class="LineNumber"> 009 </span>                                        <I>จบวิหารวรรคที่  ๒</I>
+               
+<span class="LineNumber"> 010 </span>	               <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 011 </span>	๑.  ปฐมวิหารสูตร    ๒.  ทุติยวิหารสูตร    ๓.  เสขสูตร    ๔.ปฐม-
+<span class="LineNumber"> 012 </span>อุปปาทสูตร  ๕.  ทุติยอุปปาทสูตร  ๖.  ปฐมปริสุทธสูตร  ๗. ทุติยปริสุทธ-
+<span class="LineNumber"> 013 </span>สูตร   ๘.  ปฐมกุกกุฏารามสูตร   ๙.  ทุติยกุกกุฏารามสูตร   ๑๐.  ตติยกุกกุฏา-
+<span class="LineNumber"> 014 </span>รามสูตร

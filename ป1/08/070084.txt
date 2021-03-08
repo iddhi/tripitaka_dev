@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>       วิเสสนะ             ภาษาไทย                  ภาษาบาลี   
+<span class="LineNumber"> 002 </span>                                ภูเขาใหญ่                   มหนฺโต  ปพฺพโต  ปุํ.
+<span class="LineNumber"> 003 </span>ที่เป็น  คุณนาม        ชบาเขียว                    นีลา ชปา            อิต.
+<span class="LineNumber"> 004 </span>                                 สกุลดี                        สุนฺทรํ  กุลํ          นปุํ.
+
+<span class="LineNumber"> 005 </span>                                  ชายนั้น                      โส  ปุริโส             ปุํ.
+<span class="LineNumber"> 006 </span>ที่เป็น  สัพพนาม         หญิงนี้                       อยํ  อิตฺถี            อิต.
+<span class="LineNumber"> 007 </span>                                   ทรัพย์อื่น                   อญฺํ  ธนํ          นปุํ.
+
+<span class="LineNumber"> 008 </span>                                    คนยืน                       นโร €ิโต                ปุํ.
+<span class="LineNumber"> 009 </span>ที่เป็น    กิริยา               เด็กหญิงเดิน             ทาริกา คจฺฉนฺตี    อิต.
+<span class="LineNumber"> 010 </span>                                     หญ้างอก                   ติณํ รุฬิหํ             นปุํ.
+<span class="LineNumber"> 011 </span>	ตัวอย่างข้างบนนี้เป็นเอกวจนะอย่างเดียว  และจะเห็นได้ว่า
+<span class="LineNumber"> 012 </span>วิธีเรียกคำที่เป็นวิเสสนะในภาษาไทย  กับภาษาบาลีไม่เหมือนกัน คือ
+<span class="LineNumber"> 013 </span>ในภาษาไทย  วิเสสนะทั้ง ๓ อย่าง  อยู่หลังนามนาม  แต่ในภาษาบาลี
+<span class="LineNumber"> 014 </span>นั้น วิเสสนะที่เป็นคุณกับสัพพนาม  โดยมากอยู่ข้างหน้านามนาม  ที่
+<span class="LineNumber"> 015 </span>เป็นกิริยา  มักจะอยู่ข้างหลังโดยมาก.
+<span class="LineNumber"> 016 </span>	อนึ่ง  ศัพท์นิบาตบางศัพท์ ซึ่งใช้ประกอบกับคำกิริยา  เพื่อให้มี
+<span class="LineNumber"> 017 </span>เนื้อความแปลไปจากปกติ บางแห่งท่านเรียกว่า คุณของกิริยา  ก็
+<span class="LineNumber"> 018 </span>จัดเป็น  วิเสสนะ  ได้เหมือนกัน และเรียกศัพท์เหล่านั้นว่า กิริยาวิเสสน์
+<span class="LineNumber"> 019 </span>หรือ  กิริยาวิเสสนะ ตัวอย่างเช่น

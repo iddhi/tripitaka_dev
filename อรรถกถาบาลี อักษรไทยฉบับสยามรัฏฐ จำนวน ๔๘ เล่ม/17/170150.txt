@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  17  ยมกวคฺควณฺณนา  หน้า  150
+
+<span class="LineNumber"> 002 </span>อารพฺภ
+<span class="LineNumber"> 003 </span>		อจาริ วตายํ วิตุทํ วนานิ
+<span class="LineNumber"> 004 </span>		กฏฺ€งฺครุกฺเขสุ อสารเกสุ
+<span class="LineNumber"> 005 </span>		อถาสทา ขทิรํ ชาตสารํ
+<span class="LineNumber"> 006 </span>		ยตฺถาภิทา ครุโฬ อุตฺตมงฺคนฺติ (๑)  จ
+<span class="LineNumber"> 007 </span>	ลสี จ เต นิปฺผลิตา		มตฺถโก จ วิทาลิโต
+<span class="LineNumber"> 008 </span>	สพฺพา เต ผาสุกา ภคฺคา  ทานิ สมฺม วิโรจสีติ (๒)  จ
+<span class="LineNumber"> 009 </span>เอวมาทีนิ  ชาตกานิ  (๓)  กเถสิ ฯ  ปุน  อกตฺู  เทวทตฺโตติ
+<span class="LineNumber"> 010 </span>กถํ  อารพฺภ
+<span class="LineNumber"> 011 </span>		อกรมฺหา ว เต กิจฺจํ		ยํ พลํ อหุวมฺห เส
+<span class="LineNumber"> 012 </span>		มิคราช นโม ตฺยตฺถุ	อปิ กิฺจิ ลภามฺห เส ฯ
+<span class="LineNumber"> 013 </span>		มม โลหิตภกฺขสฺส		นิจฺจํ ลุทฺทานิ กุพฺพโต
+<span class="LineNumber"> 014 </span>		ทนฺตนฺตรคโต สนฺโต	ตํ พฺหุํ ยํปิ ชีวสีติ (๔)
+<span class="LineNumber"> 015 </span>อาทีนิ ชาตกานิ (๕)  กเถสิ ฯ ปุน วธาย ปริสกฺกนมสฺส อารพฺภ
+<span class="LineNumber"> 016 </span>		าตเมตํ กุรุงฺคสฺส		ยํ ตฺวํ เสปณฺณิ เสยฺยสิ
+<span class="LineNumber"> 017 </span>		อฺํ เสปณฺณึ คจฺฉามิ	น เม เต รุจฺจเต ผลนฺติ (๖)
+<span class="LineNumber"> 018 </span>อาทีนิ  ชาตกานิ  (๗)   กเถสิ ฯ  ปุน  อุภโต  ปริหีโน  เทวทตฺโต
+<span class="LineNumber"> 019 </span># ๑  ขุ. ชา.  ทุก ฯ ๒๗/๗๗ ฯ ตทฏฺ€กถา ๓/๒๕๒  ฯ
+<span class="LineNumber"> 020 </span># ๒ ขุ. ชา.เอก.  ๒๗/๔๖ ฯ  ตทฏฺ€กถา  ๒/๔๓๘ ฯ
+<span class="LineNumber"> 021 </span># ๓.  กนฺทคลชาตกฺเจว วิโรจนชาตกฺจ ฯ  ๔.  ขุ. ชา. จตุกฺก. ๒๗/๑๓๓ ฯ
+<span class="LineNumber"> 022 </span># ตทฏฺ€กถา  ๔/๓๑๔ ฯ  ๕. ชวสกุณชาตกํ ฯ ๖. ขุ. ชา. เอก. ๒๗/๗ ฯ
+<span class="LineNumber"> 023 </span># ตทฏฺ€กถา  ๑/๓๐๗  ฯ   ๗.  กุรุงฺคมิคชาตกํ ฯ

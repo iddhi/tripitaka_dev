@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         หทยวัตถุ  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่สหรคตด้วยโลภะที่เป็นทิฏฐิคต-
+<span class="LineNumber"> 002 </span>วิปปยุต   และโลภะ   ด้วยอำนาจของปุเรชาตปัจจัย.
+
+<span class="LineNumber"> 003 </span>                                   <H2>๑๑.  ปัจฉาชาตปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         [๔๔๙] ๑.  <B>อุปาทานสัมปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 005 </span>วิปปยุตตธรรม  ด้วยอำนาจของปัจฉาชาตปัจจัย   ฯลฯ</B>
+<span class="LineNumber"> 006 </span>                     ๒.  <B>อุปาทานวิปปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 007 </span>วิปปยุตตธรรม  ด้วยอำนาจของปัจฉาชาตปัจจัย   ฯลฯ</B>
+<span class="LineNumber"> 008 </span>                     ๓.  <B>อุปาทานสัมปยุตตธรรม   และอุปาทานวิปปยุตต-
+<span class="LineNumber"> 009 </span>ธรรม  เป็นปัจจัยแก่อุปาทานวิปปยุตตธรรม   ด้วยอำนาจของปัจฉา-
+<span class="LineNumber"> 010 </span>ชาตปัจจัย    ฯลฯ</B>
+ 
+<span class="LineNumber"> 011 </span>                                    <H2>๑๒.  อาเสวนปัจจัย</H2>
+<span class="LineNumber"> 012 </span>         <B>ฯลฯ   เป็นปัจจัย ด้วยอำนาจของอาเสวนปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                                       <H2>๑๓.  กัมมปัจจัย</H2>
+<span class="LineNumber"> 014 </span>         [๔๕๐] ๑.  <B>อุปาทานสัมปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 015 </span>สัมปยุตตธรรม  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ   เจตนาที่เป็นอุปาทานสัมปยุตตธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 017 </span>ทั้งหลาย   ด้วยอำนาจของกัมมปัจจัย.

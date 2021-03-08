@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๕    หน้า  ๖๙
+
+<span class="LineNumber"> 002 </span>					ตติยปณฺณาสกวณฺณนา   
+<span class="LineNumber"> 003 </span>					ผาสุวิหารวคฺควณฺณนา   
+<span class="LineNumber"> 004 </span>	ตติยสฺส  ป€เม (๑) เวสารชฺชกรณาติ วิสารทภาวาวหา ฯ (๑) 
+<span class="LineNumber"> 005 </span>สารชฺชํ  โหตีติ  โทมนสฺสํ โหติ ฯ     
+<span class="LineNumber"> 006 </span>						ปฐมํ ฯ
+<span class="LineNumber"> 007 </span>	ทุติเย  อุสฺสงฺกิตปริสงฺกิโตติ  อุสฺสงฺกิโต  จ  ปริสงฺกิโต  
+<span class="LineNumber"> 008 </span>จ ฯ  อปิ อกุปฺปธมฺโมปีติ (๒) อปิ อกุปฺปธมฺโม ขีณาสโว สมาโนปิ 
+<span class="LineNumber"> 009 </span>ปเรหิปิ(๓) ปาปภิกฺขูหิ อุสฺสงฺกิตปริสงฺกิโต  โหตีติ  อตฺโถ ฯ 
+<span class="LineNumber"> 010 </span>	เวสิยาโคจโรติอาทีสุ(๔)  เวสิยา วุจฺจนฺติ รูปูปชีวินิโย ตา  
+<span class="LineNumber"> 011 </span>โคจโร  อสฺสาติ  เวสิยาโคจโร  ตาสํ  เคหํ  อภิณฺหคมโนติ 
+<span class="LineNumber"> 012 </span>อตฺโถ ฯ เสสปเทสุ(๕)  เอเสว นโย ฯ ตตฺถ ปน วิธวาติ 
+<span class="LineNumber"> 013 </span>มตปติกา ฯ (๖)ถุลฺลกุมารีติ มหลฺลิกกุมาริโย (๖) ฯ  
+<span class="LineNumber"> 014 </span>						ทุติยํ ฯ
+<span class="LineNumber"> 015 </span>	ตติเย  อิโต  โภเคน  ปฏิสนฺถริสฺสามีติ  อิโต  มม  
+<span class="LineNumber"> 016 </span>สาปเตยฺยโต โภคํ  คเหตฺวา  เตน  ปฏิสนฺถารํ  กริสฺสามิ  ตสฺส  
+<span class="LineNumber"> 017 </span>จ  มม  จ  อนฺตรํ  ปิทหิสฺสามีติ อตฺโถ ฯ  คหณานีติ(๗)  ปรสนฺต-
+<span class="LineNumber"> 018 </span>กานํ  ภณฺฑานํ  คหณานิ ฯ  คุยฺหมนฺตาติ  คุหิตพฺพมนฺตา ฯ 
+<span class="LineNumber"> 019 </span>#๑. สี. ญาณโสมนสฺสกรณา วิสารทภาวาวหา ฯ  ๒. ม. อปิ อกุปฺปธมฺโมปีติ ฯ
+<span class="LineNumber"> 020 </span>#๓. ม. ปิสทฺโท นตฺถิ ฯ  ๔. ม. เวสิยาโคจโรติ ฯ  เอวมุปริปิ ฯ 
+<span class="LineNumber"> 021 </span>#๕. ม. เสสปเทสุปิ ฯ  ๖. ม. ถุลฺลกุมาริกาติ มหลฺลิกกุมาริกาโย ฯ
+<span class="LineNumber"> 022 </span>#๗. ม. คหณานีติ ฯ

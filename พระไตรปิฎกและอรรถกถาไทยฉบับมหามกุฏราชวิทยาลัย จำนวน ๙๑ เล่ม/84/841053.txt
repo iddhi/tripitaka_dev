@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคล  ๒ จำพวก   เคยละโทมนัสสินทรีย์     แต่ไม่ใช่เคยเจริญ
+<span class="LineNumber"> 002 </span>อัญญินทรีย์,   อรหัตตผลบุคคลเคยละโทมนัสสินทรีย์   และก็เคยเจริญ
+<span class="LineNumber"> 003 </span>อัญญินทรีย์.
+<span class="LineNumber"> 004 </span>         ก็หรือว่า    บุคคลใดเคยเจริญอัญญินทรีย์,    บุคคลนั้นก็เคยละ
+<span class="LineNumber"> 005 </span>โททนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>                    <I>จบ   โสมนัสสินทริยมูละ  อัญญินทริยมูลี</I>
+
+<span class="LineNumber"> 008 </span><B>โทมนัสสินทริยมูละ   อัญญาตาวินทริยมูลี:-</B>
+<span class="LineNumber"> 009 </span>         [๑๓๖๑]   บุคคลใดเคยละโทมนัสสินทรีย์,    บุคคลนั้นก็เคย
+<span class="LineNumber"> 010 </span>กระทำให้แจ้งอัญญาตาวินทรีย์   ใช่ไหม   ?
+<span class="LineNumber"> 011 </span>         บุคคล ๓ จำพวก   เคยละโทมนัสสินทรีย์   แต่ไม่ใช่เคยกระทำ
+<span class="LineNumber"> 012 </span>ให้แจ้งอัญญาตาวินทรีย์,           อรหัตตผลบุคคลเคยละโทมนัสสินทรีย์
+<span class="LineNumber"> 013 </span>และก็เคยกระทำให้แจ้งซึ่งอัญญาตาวินทรีย์.

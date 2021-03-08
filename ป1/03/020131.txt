@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                     กัมมธารยะ
+<span class="LineNumber"> 002 </span>สีตสมฏฺโ€              ปเทโส              ประเทศ            ทั้งเย็นทั้งเกลี้ยง
+<span class="LineNumber"> 003 </span>สีตสมฏฺ€า              ภูมิ                  แผ่นดิน                      "
+<span class="LineNumber"> 004 </span>สีตสมฏฺ€ํ                €านํ                 ที่                              "
+<span class="LineNumber"> 005 </span>                              ตัปปุริสะ
+<span class="LineNumber"> 006 </span>คามคโต                ปุริโส                 บุรุษ                ไปแล้วสู่บ้าน
+<span class="LineNumber"> 007 </span>คามคตา                อิตฺถี                  หญิง                       "
+<span class="LineNumber"> 008 </span>คามคตํ                  กุลํ                    ตระกูล                    "
+<span class="LineNumber"> 009 </span>                              พหุพพิหิ
+<span class="LineNumber"> 010 </span>รุฬฺหลโต                รุกฺโข                  ต้นไม้              มีเครือวัลย์ขึ้นแล้ว
+<span class="LineNumber"> 011 </span>รุฬฺหลตา                สาลา                 ศาลา                         "
+<span class="LineNumber"> 012 </span>รุฬฺหลตํ                  ฆรํ                     เรือน                         "
+<span class="LineNumber"> 013 </span>                        ๑๐๑   คำถามชื่อสมาสให้ผู้ศึกษาตอบ
+<span class="LineNumber"> 014 </span>๑.  มหานาโค                                  นาคใหญ่
+<span class="LineNumber"> 015 </span>๒.  ติทณฺฑํ                                      ไม้ ๓  อัน
+<span class="LineNumber"> 016 </span>๓.  อรฺคโต                                 ไปแล้วสู่ป่า
+

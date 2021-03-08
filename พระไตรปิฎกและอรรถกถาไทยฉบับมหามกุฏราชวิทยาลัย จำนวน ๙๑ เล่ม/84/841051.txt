@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลใดกำลังกระทำให้แจ้งอรหัตผล         บุคคลนั้นเคยรู้แจ้ง
+<span class="LineNumber"> 002 </span>จักขุนทรีย์  แต่ไม่ใช่เคยกระทำให้แจ้งอัญญาตาวินทรีย์.       บุคคลใดได้
+<span class="LineNumber"> 003 </span>กระทำให้แจ้งแล้วอรหัตผล        บุคคลนั้นเคยรู้แจ้งจักขุนทรีย์    และ
+<span class="LineNumber"> 004 </span>ก็เคยกระทำให้แจ้งอัญญาตาวินทรีย์.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า  บุคคลใดเคยการทำให้แจ้งอัญญาตาวินทรีย์,     บุคคล
+<span class="LineNumber"> 006 </span>นั้นก็เคยรู้แจ้งจักขุนทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                     <I>จบ  จักขุนทริยมูละ   อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 009 </span>                                      <I>จักขุนทริยมูล  จบ</I>

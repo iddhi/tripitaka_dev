@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  654
+
+<span class="LineNumber"> 002 </span>พุทฺธุปฺปาเท ราชคเห พฺราหฺมณกุเล  นิพฺพตฺติ  สิวโกติสฺส  นามํ 
+<span class="LineNumber"> 003 </span>อโหสิ ฯ โส วยปฺปตฺโต วิชฺชาสิปฺเปสุ นิปฺผตฺตึ  คโต
+<span class="LineNumber"> 004 </span>เนกฺขมฺมชฺฌาสยตาย  กาเม  ปหาย  ปริพฺพาชกปพฺพชฺชํ  
+<span class="LineNumber"> 005 </span>ปพฺพชิตฺวา วิจรนฺโต  สตฺถารํ อุปสงฺกมิตฺวา ธมฺมํ สุตฺวา
+<span class="LineNumber"> 006 </span>ปฏิลทฺธสทฺโธ ปพฺพชิตฺวา วิปสฺสนาย กมฺมํ กโรนฺโต น 
+<span class="LineNumber"> 007 </span>จิรสฺเสว อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 008 </span>		เอสนาย จรนฺตสฺส		วิปสฺสิสฺส มเหสิโน  
+<span class="LineNumber"> 009 </span>		ริตฺตกํ ปตฺตํ ทิสฺวาน	กุมฺมาสํ ปูรยึ อหํ ฯ  
+<span class="LineNumber"> 010 </span>		เอกนวุเต อิโต		กปฺเป  ยํ ภิกฺขมททึ ตทา  
+<span class="LineNumber"> 011 </span>		ทุคฺคตึ นาภิชานามิ	กุมฺมาสสฺส อิทํ ผลํ ฯ  
+<span class="LineNumber"> 012 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	อรหตฺตํ ปน ปตฺวา อฺํ พฺยากโรนฺโต  
+<span class="LineNumber"> 014 </span>		อนิจฺจานิ คหกานิ		ตตฺถ ตตฺถ ปุนปฺปุนํ  
+<span class="LineNumber"> 015 </span>		คหการํ (๒) คเวสนฺโต	ทุกฺขา ชาติ ปุนปฺปุนํ ฯ  
+<span class="LineNumber"> 016 </span>		คหการก ทิฏฺโ€สิ		ปุน เคหํ น กาหสิ  
+<span class="LineNumber"> 017 </span>		สพฺพา เต ผาสุกา ภคฺคา	ถูณิกา (๓) จ ปทาลิตา (๔)  
+<span class="LineNumber"> 018 </span>		วิมริยาทิกตํ จิตฺตํ		อิเธว วิธมิสฺสตีติ(๕)  
+<span class="LineNumber"> 019 </span>คาถาทฺวยํ อภาสิ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๓/๖๕/๙๓ ฯ  ๒. สี. ยุ. คหการกํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ยุ. ถูณิรา ฯ  ๔. สฺยา. ถูณิรา จ ปทาลิตา ฯ 
+<span class="LineNumber"> 022 </span># ๕. ขุ. เถร. ๒๖/๒๘๙/๒๙๗ ฯ 

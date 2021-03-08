@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                  <H1>เหตุทุกเสกขติกนเหตุทุกนเสกขติกะ</H1>
+<span class="LineNumber"> 002 </span>                 <H2>(๑. เหตุทุกะ  ๑๑.  เสกขติกะ)</H2> 
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                        <H2>เสกขบท</H2>
+<span class="LineNumber"> 007 </span>           [๒๔๗] ๑.  <B>ธรรมที่ไม่ใช่เสกขธรรม  ที่ไม่ใช่เหตุ   อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นเสกขธรรม  ที่เป็นเหตุ     เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี  ๓
+<span class="LineNumber"> 009 </span>วาระ.
+
+<span class="LineNumber"> 010 </span>                                       <H2>อเสกขบท</H2>
+<span class="LineNumber"> 011 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อเสกขธรรม   ที่ไม่ใช่เหตุ    อาศัย
+<span class="LineNumber"> 012 </span>ธรรมที่เป็นอเสกขธรรม  ที่เป็นเหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๓
+<span class="LineNumber"> 013 </span>วาระ.
+
+<span class="LineNumber"> 014 </span>                           <H2>เนวเสกขานาเสกขบท</H2>
+<span class="LineNumber"> 015 </span>                       ๑.  <B>ธรรมที่ไม่ใช่เนวเสกขานาเสกขธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 016 </span>ธรรมที่ไม่ใช่เหตุ  อาศัยธรรมที่เป็นเนวเสกขานาเสกขธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 017 </span>เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๓ วาระ.
+<span class="LineNumber"> 018 </span>                   <I>เหตุทุกเสกขติกนเหตุทุกนเสกขติกะ  จบ</I>

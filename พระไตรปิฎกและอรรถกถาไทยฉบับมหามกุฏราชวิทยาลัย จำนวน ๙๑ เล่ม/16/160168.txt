@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		     <H2>ตัณหาอีก  ๓</H2>
+<span class="LineNumber"> 002 </span>           <B>๑.  กามตัณหา            ตัณหาในกาม
+<span class="LineNumber"> 003 </span>           ๒.  รูปตัณหา             ตัณหาในรูป
+<span class="LineNumber"> 004 </span>           ๓.  อรูปตัณหา           ตัณหาในอรูป.</B>
+<span class="LineNumber"> 005 </span>	                  <H2>ตัณหาอีก  ๓</H2>
+<span class="LineNumber"> 006 </span>           <B>๑.  รูปตัณหา              ตัณหาในรูป
+<span class="LineNumber"> 007 </span>           ๒.  อรูปตัณหา           ตัณหาในอรูป
+<span class="LineNumber"> 008 </span>           ๓.  นิโรธตัณหา           ตัณหาในความดับ.</B>
+<span class="LineNumber"> 009 </span>		     <H2>สังโยชน์  ๓</H2>
+<span class="LineNumber"> 010 </span>           <B>๑.  สักกายทิฏฺฐิ                   ความเห็นเป็นเหตุถือตัวถือตน
+<span class="LineNumber"> 011 </span>           ๒.  วิจิกิจฉา	       ความลังเลสงสัย
+<span class="LineNumber"> 012 </span>           ๓.  สีลัพพตปรามาส          ความเชื่อถือด้วยอำนาจศีลพรต.</B>
+<span class="LineNumber"> 013 </span>	                 <H2>อาสวะ  ๓</H2>
+<span class="LineNumber"> 014 </span>           <B>๑.  กามาสวะ              อาสวะเป็นเหตุอยากได้
+<span class="LineNumber"> 015 </span>           ๒.  ภวาสวะ              อาสวะเป็นเหตุอยากเป็น
+<span class="LineNumber"> 016 </span>           ๓.  อวิชชาสวะ          อาสวะคือความไม่รู้.</B>
+<span class="LineNumber"> 017 </span>		     <H2>ภพ  ๓</H2>
+<span class="LineNumber"> 018 </span>           <B>๑.  กามภพ           ภพที่เป็นกามาวจร
+<span class="LineNumber"> 019 </span>           ๒.  รูปภพ            ภพที่เป็นรูปาวจร
+<span class="LineNumber"> 020 </span>           ๓.  อรูปภพ          ภพที่เป็นอรูปาวจร.</B>
+

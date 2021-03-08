@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>ฆานินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>ฆานินทริยมูละ   อิตถินทริย   ฯลฯ    ปุริสินทริย    ชีวิตินทริย
+<span class="LineNumber"> 003 </span>โสมนัสสินทริย  อุเปกขินทริย  สัทธินทริย  ปัญญินทริย
+<span class="LineNumber"> 004 </span>มนินทริยมูลี:-</B>
+<span class="LineNumber"> 005 </span>         [๗๘๗]   ฆานินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,       อิตถินทรีย์
+<span class="LineNumber"> 006 </span>ฯลฯ     ปุริสินทรีย์     ชีวิตินตินทรีย์    โสมนัสสินทรีย์     อุเปกขินทรีย์
+<span class="LineNumber"> 007 </span>สัทธินทรีย์     ปัญญินทรีย์     มนินทรีย์   ก็ไม่ใช่เคยเกิดแก่บุคคลนั้น
+<span class="LineNumber"> 008 </span>ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ไม่มี.
+<span class="LineNumber"> 010 </span>         ก็หรือว่า    มนินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,       ฆานินทรีย์ก็
+<span class="LineNumber"> 011 </span>ไม่ใช่เคยเกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ไม่มี  ฯลฯ
+<span class="LineNumber"> 013 </span>      <I>จบ  ฆานินทริยมูละ  อิตถินทริย  ฯลฯ  ปุริสินทริย  ชีวิตินทริย</I>
+<span class="LineNumber"> 014 </span><I>โสมนัสสินทริย  อุเปกขินทริย  สัทธินทริย  ปัญญินทริย  มนินทริยมูลี</I>
+<span class="LineNumber"> 015 </span>                                      <I>ฆานินทริยมูล  จบ</I> 

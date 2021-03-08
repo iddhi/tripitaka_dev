@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>ทสกนิบาตชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                          <H1>๑.   จตุทวารชาดก</H1>
+
+<span class="LineNumber"> 003 </span>                    <H1>ว่าด้วยจักกรดพัดบนศีรษะ</H1>
+
+<span class="LineNumber"> 004 </span>         <B>[๑๓๑๙]   เมืองนี้มีประตู  ๔  ประตู  มีกำแพงมั่นคง
+<span class="LineNumber"> 005 </span>           ล้วนแล้วไปด้วยเหล็กแดง  ข้าพเจ้าถูกล้อมไว้
+<span class="LineNumber"> 006 </span>           ด้วยกำแพง   ข้าพเจ้า  ได้ทำบาปอะไรไว้. 
+<span class="LineNumber"> 007 </span>         [๑๓๒๐]   ประตูทั้งหมดจึงปิดแน่น  ข้าพเจ้าถูกขัง
+<span class="LineNumber"> 008 </span>           เหมือนนก   ข้าแต่เทวดา   เหตุเป็นมาอย่างไร
+<span class="LineNumber"> 009 </span>           ข้าพเจ้าจึงถูกจักรกรดพัดศีรษะ.  
+<span class="LineNumber"> 010 </span>         [๑๓๒๑]   ท่านได้ทรัพย์มากมาย    แสนสองหมื่น
+<span class="LineNumber"> 011 </span>           แล้ว   ยังไม่เชื่อคำของญาติผู้เอ็นดู. 
+<span class="LineNumber"> 012 </span>         [๑๓๒๒]   ท่านแล่นเรือไปสู่สมุทรอันอาจทำให้
+<span class="LineNumber"> 013 </span>           เรือโลดขึ้นได้    เป็นสาครที่มีสิทธิ์น้อย    ได้
+<span class="LineNumber"> 014 </span>           ประสบนางเวมานิกเปรต  ๔ นาง จาก  ๔ นาง
+<span class="LineNumber"> 015 </span>           เป็น  ๘  นาง   จาก  ๘  นาง  เป็น  ๑๖  นาง.</B>

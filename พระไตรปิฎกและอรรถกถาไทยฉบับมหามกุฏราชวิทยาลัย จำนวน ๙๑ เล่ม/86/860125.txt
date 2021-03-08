@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                             <H1>อนุโลมนัย</H1> 
+<span class="LineNumber"> 003 </span>                                              <H1>เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๑๓๔๗]  <B>วิปากธรรม   เจือกับวิปากธรรมเกิดขึ้น  เพราะเหตุ 
+<span class="LineNumber"> 005 </span>ปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๓  เจือกับขันธ์ ๑  ที่เป็นวิบาก ฯลฯ
+<span class="LineNumber"> 007 </span>ทุกบท  พึงแจกให้พิสดาร.
+
+<span class="LineNumber"> 008 </span>                                <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 009 </span>         [๑๓๔๘]  ในเหตุปัจจัย  มี ๓ วาระ  ในอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 010 </span>ในอธิปติปัจจัย  มี ๓ วาระ  ในอนันตรปัจจัย  มี ๓ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 011 </span>มี ๓ วาระ ในสหชาตปัจจัย มี ๓ วาระ  ในอัญญมัญญปัจจัย  มี ๓ วาระ  ใน
+<span class="LineNumber"> 012 </span>นิสสยปัจจัย   มี ๓ วาระ   ในอุปนิสสยปัจจัย   มี ๓ วาระ   ในปุเรชาตปัจจัย
+<span class="LineNumber"> 013 </span>มี ๓ วาระ   ในอาเสวนปัจจัย   มี ๒ วาระ   ในกัมมปัจจัย   มี ๓ วาระ   ใน
+<span class="LineNumber"> 014 </span>วิปากปัจจัย   มี ๑ วาระ  ในอาหารปัจจัย   มี ๓ วาระ   ในอินทริยปัจจัย  มี ๓
+<span class="LineNumber"> 015 </span>วาระ  ในฌานปัจจัย มี ๓ วาระ  ในมัคคปัจจัย มี ๓ วาระ  ในสัมปยุตตปัจจัย
+<span class="LineNumber"> 016 </span>มี ๓ วาระ   ในวิปปยุตตปัจจัย  มี ๓ วาระ   ในอัตถิปัจจัย  มี ๓ วาระ   ใน
+<span class="LineNumber"> 017 </span>นัตถิปัจจัย มี ๓ วาระ  ในวิคตปัจจัย มี ๓ วาระ ในอวิคตปัจจัย มี  ๓ วาระ.
+<span class="LineNumber"> 018 </span>         พึงนับจำนวนวาระ  เหมือนในกุสลติกะ.
+<span class="LineNumber"> 019 </span>                                          <I>อนุโลมนัย  จบ</I>

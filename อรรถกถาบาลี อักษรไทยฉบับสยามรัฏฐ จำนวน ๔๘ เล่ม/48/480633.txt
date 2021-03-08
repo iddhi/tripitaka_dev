@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  ปณฺณตฺติวารวณฺณนา   หน้า 633
+
+<span class="LineNumber"> 002 </span>เอกูนปฺาสํ กตฺวา สพฺเพสุปิ เอกวีสติยา จตุกฺเกสุ
+<span class="LineNumber"> 003 </span>		สหสฺสเมกํ ปุจฺฉานํ	เอกูนตฺตึส ปุนาปรา 
+<span class="LineNumber"> 004 </span>		ปุจฺฉา คณนโต โหนฺติ	นยมฺหิ จตุมูลเก ฯ
+<span class="LineNumber"> 005 </span>	ตโต  ปรํ  ปฺจมูลกํ  อาทึ  กตฺวา  ยาว  สพฺพมูลกา 
+<span class="LineNumber"> 006 </span>เทสนา  กตา  ตํ  สพฺพํ  (๑)  สงฺขิปิตฺวา  เหฏฺ€า วุตฺตฺจ อุปริ (๒)
+<span class="LineNumber"> 007 </span>วตฺตพฺพฺจ เอกโต กตฺวา ปาลิยํ เอกมูลกํ  ทุมูลกํ  ติมูลกํ 
+<span class="LineNumber"> 008 </span>จตุมูลกํ  ปฺจมูลกํ  สพฺพมูลกํ  อสมฺมุยฺหนฺเตน วิตฺถาเรตพฺพนฺติ 
+<span class="LineNumber"> 009 </span>นโย  ทสฺสิโต ฯ  ตตฺถ  เอกมูลกาทีสุ ยํ วตฺตพฺพํ ตํ วุตฺตเมว ฯ
+<span class="LineNumber"> 010 </span>ปฺจมูลเก  ปน  ป€มจตุกฺเกน  สทฺธึ  สมนนฺตรปจฺจยาทีสุ
+<span class="LineNumber"> 011 </span>สมวีสติยา  ปจฺจเยสุ เอกเมกสฺส  โยชนาวเสน  สมวีสติ  ปฺจกา
+<span class="LineNumber"> 012 </span>โหนฺติ ฯ  เตสุ  เอเกกสฺมึ(๓) เอกูนปฺาสํ  กตฺวา
+<span class="LineNumber"> 013 </span>		สตานิ นว ปุจฺฉานํ	อสีติฺจ(๔)ปุนาปรา 
+<span class="LineNumber"> 014 </span>		ปุจฺฉา คณนโต โหนฺติ	นยมฺหิ ปฺจมูลเก ฯ 
+<span class="LineNumber"> 015 </span>	ฉมูลเก  ป€มปฺจเกน  สทฺธึ  สหชาตปจฺจยาทีสุ  เอกูน-
+<span class="LineNumber"> 016 </span>วีสติยา  ปจฺจเยสุ  เอกเมกสฺส  โยชนาวเสน  เอกูนวีสติ  ฉกฺกา
+<span class="LineNumber"> 017 </span>โหนฺติ ฯ  เตสุ  เอกเมกสฺมึ  เอกูนปฺาสํ กตฺวา
+<span class="LineNumber"> 018 </span>		สตานิ นว ปุจฺฉานํ	เอกตฺตึส ตโต  ปรา(๕) 
+<span class="LineNumber"> 019 </span>		ปุจฺฉา คณนโต โหนฺติ	นยมฺหิ ฉกฺกมูลเก ฯ 
+<span class="LineNumber"> 020 </span># ๑. สี. อุตฺตริ วตฺตพฺพํ สพฺพํ ฯ  ๒. สี. อุตฺตริ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. เอกเมกสฺมึ ฯ  ๔. ม. อสีติ จ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. เอกตึส ตโตปรา ฯ

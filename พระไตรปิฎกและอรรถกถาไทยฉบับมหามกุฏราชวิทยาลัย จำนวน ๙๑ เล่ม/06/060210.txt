@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ๓.  เป็นผู้มีโอตตัปปะ.
+<span class="LineNumber"> 002 </span>           ๔.   เป็นผู้ปรารภความเพียร.
+<span class="LineNumber"> 003 </span>           ๕.   เป็นผู้มีสติตั้งมั่นและ 
+<span class="LineNumber"> 004 </span>           ๖.  เป็นผู้พรรษาได้ ๑๐   หรือมีพรรษาเกิน ๑๐ .
+<span class="LineNumber"> 005 </span>           ดูก่อนภิกษุทั้งหลาย ภิกษุผู้ประกอบด้วยองค์ ๖ นี้แล พึงให้อุปสมบท
+<span class="LineNumber"> 006 </span>พึงให้นิสัย  พึงให้สามเณรอุปัฏฐาก.
+
+<span class="LineNumber"> 007 </span>                                          <H2>กัณหปักษ์  ๔</H2>
+<span class="LineNumber"> 008 </span>           ดูก่อนุภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์ ๖ แม้อื่นอีก   ไม่พึงให้
+<span class="LineNumber"> 009 </span>อุปสมบท    พึงให้นิสัย  ไม่พึงให้สามเณรอุปัฏฐาก  คือ:-
+<span class="LineNumber"> 010 </span>           ๑.   เป็นผู้วิบัติด้วยศีล  ในอธิศีล.
+<span class="LineNumber"> 011 </span>           ๒.  เป็นผู้วิบัติด้วยอาจาระ   ในอัธยาจาระ.
+<span class="LineNumber"> 012 </span>           ๓.  เป็นผู้วิบัติด้วยทิฏฐิ    ในทิฏฐิยิ่ง.
+<span class="LineNumber"> 013 </span>           ๔.  เป็นผู้ได้ยินได้ฟังน้อย.
+<span class="LineNumber"> 014 </span>           ๕.  เป็นผู้มีปัญญาทราม   และ
+<span class="LineNumber"> 015 </span>           ๖.  เป็นผู้มีพรรษาหย่อน ๑๐.
+<span class="LineNumber"> 016 </span>           ดูก่อนภิกษุทั้งหลาย    ภิกษุผู้ประกอบด้วยองค์  ๖  นี้แล    ไม่พึงให้
+<span class="LineNumber"> 017 </span>อุปสมบท  ไม่พึงให้นิสัย  ไม่พึงให้สามเณรอุปัฏฐาก.
+
+<span class="LineNumber"> 018 </span>                                          <H2>ศุกลปักษ์  ๔</H2>
+<span class="LineNumber"> 019 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์  ๖ พึงให้อุปสมบท  พึง
+<span class="LineNumber"> 020 </span>ให้นิสัย  พึงให้สามเณรอุปัฏฐาก  คือ:-
+<span class="LineNumber"> 021 </span>           ๑.  เป็นผู้ไม่มีวิบัติด้วยศีล  ในอธิศีล.

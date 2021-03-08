@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>เอตฺเถสา  ตณฺหา  ปหิยฺยมานา</B>	ตัณหานั้น เมื่อบุคคลจะละเสีย  ก็ 
+<span class="LineNumber"> 002 </span><B>ปหิยฺยติ</B>				ย่อมละเสียได้ที่รูป  เสียง   กลิ่น  รส
+<span class="LineNumber"> 003 </span>					โผฏฐัพพะ  ธัมมารมณ์นั้น
+<span class="LineNumber"> 004 </span><B>เอตฺถ  นิรุชฺฌมานา  นิรุชฺฌติ</B>	เมื่อจะดับ  ก็ย่อมดับที่รูป  เสีย
+<span class="LineNumber"> 005 </span>					กลิ่น  รส  โผฏฐัพพะ  ธัมมา-
+<span class="LineNumber"> 006 </span>					รมณ์นั้น.
+<span class="LineNumber"> 007 </span>	<B>๓.  จกฺขุวิญฺาณํ</B>		ความรู้ทางตา
+<span class="LineNumber"> 008 </span><B>โสตวิญฺาณํ</B>				ความรู้ทางหู
+<span class="LineNumber"> 009 </span><B>ฆานวิญฺาณํ</B>			ความรู้ทางจมูก
+<span class="LineNumber"> 010 </span><B>ชิวฺหาวิญฺาณํ</B>			ความรู้ทางลิ้น
+<span class="LineNumber"> 011 </span><B>กายวิญฺาณํ</B>				ความรู้ทางกาย
+<span class="LineNumber"> 012 </span><B>มโนวิญฺาณํ</B>			ความรู้ทางใจ
+<span class="LineNumber"> 013 </span><B>โลเก  ปิยรูปํ  สาตรูปํ</B>		เป็นที่รักสนิทใจในโลก
+<span class="LineNumber"> 014 </span><B>เอตฺเถสา  ตณฺหา  ปหิยฺยมานา</B>	ตัณหานั้น  เมื่อบุคคลจะละเสีย ก็
+<span class="LineNumber"> 015 </span><B>ปหิยฺยติ</B>				ย่อมลเสียได้ที่ความรู้ทางตา  หู
+<span class="LineNumber"> 016 </span>					จมูก  ลิ้น  กาย ใจนั้น.
+<span class="LineNumber"> 017 </span><B>เอตฺถ  นิรุชฺฌมานา  นิรุชฺฌติ</B>	เมื่อจะดับ  ก็ย่อมดับที่ความรู้ทาง
+<span class="LineNumber"> 018 </span>					ตา  หู  จมูก  ลิ้น  กาย  ใจนั้น.
+<span class="LineNumber"> 019 </span>	<B>๔.  จกฺขุสมฺผสฺโส</B>		ความสัมผัส  [กระทบ]  ทางตา
+<span class="LineNumber"> 020 </span><B>โสตสมฺผสฺโส</B>			ความสัมผัสทางหู
+<span class="LineNumber"> 021 </span><B>ฆานสมฺผสฺโส</B>			ความสัมผัสทางจมูก
+

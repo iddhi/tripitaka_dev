@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>         มี ๓ อย่าง  คือที่เป็น  <B>อารัมมณูปนิสสยะ  อนันตรูปนิสสยะ</B>   และ
+<span class="LineNumber"> 002 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 003 </span>         ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 004 </span>         บุคคลเข้าไปอาศัยศรัทธาแล้ว ฯลฯ   ฆ่าสัตว์ ฯลฯ   ทำลายสงฆ์.
+<span class="LineNumber"> 005 </span>         บุคคลเข้าไปอาศัยศีล  ฯลฯ    ปัญญา   สุขทางกาย   ทุกข์ทางกาย   อุตุ
+<span class="LineNumber"> 006 </span>โภชนะ ฯลฯ   เสนาสนะแล้ว   ฆ่าสัตว์ ฯลฯ   ทำลายสงฆ์.
+<span class="LineNumber"> 007 </span>         ศรัทธา ฯลฯ   เสนาสนะ   เป็นปัจจัยแก่ราคะ ฯลฯ  แก่ความปรารถนา
+<span class="LineNumber"> 008 </span>ด้วยอำนาจของอุปนิสสยปัจจัย.
+ 
+<span class="LineNumber"> 009 </span>                                      <H2>๑๐.  ปุเรชาตปัจจัย</H2>
+<span class="LineNumber"> 010 </span>         [๕๒๘] ๑.  <B>อสังกิลิฏฐธรรม     เป็นปัจจัยแก่อสังกิลิฏฐธรรม
+<span class="LineNumber"> 011 </span>ด้วยอำนาจของปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 012 </span>         มี ๒ อย่าง  คือที่เป็น <B>อารัมมณปุเรชาตะ</B>  และ <B>วัตถุปุเรชาตะ</B> ฯลฯ
+<span class="LineNumber"> 013 </span>                     ๒.  <B>อสังกิลิฏฐธรรม     เป็นปัจจัยแก่สังกิลิฏฐธรรม
+<span class="LineNumber"> 014 </span>ด้วยอำนาจของปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 015 </span>         มี ๒ อย่าง คือที่เป็น <B>อารัมมณปุเรชาตะ</B> และ   <B>วัตถุปุเรชาตะ</B>   ฯลฯ
+
+<span class="LineNumber"> 016 </span>                                    <H2>๑๑.  ปัจฉาชาตปัจจัย</H2>
+<span class="LineNumber"> 017 </span>         [๕๒๙] ๑.  <B>สังกิลิฏฐธรรมเป็นปัจจัยแก่อสังกิลิฏฐธรรม  ด้วย
+<span class="LineNumber"> 018 </span>อำนาจของปัจฉาชาตปัจจัย    ฯลฯ</B>
+<span class="LineNumber"> 019 </span>                     ๒.  <B>อสังกิลิฏฐธรรมเป็นปัจจัยแก่อสังกิลิฏฐธรรมด้วย
+<span class="LineNumber"> 020 </span>อำนาจของปัจฉาชาตปัจจัย   ฯลฯ</B>

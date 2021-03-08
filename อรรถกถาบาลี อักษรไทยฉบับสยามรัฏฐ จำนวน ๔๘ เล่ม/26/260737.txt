@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  26  ตาลปุฏตฺเถรคาถาวณฺณนา  หน้า  737  
+
+<span class="LineNumber"> 002 </span>			กทา  นุ  ปฺามยมุคฺคเตชํ  
+<span class="LineNumber"> 003 </span>			สตฺถํ  อิสีนํ  สหสาทิยิตฺวา  (๑)  
+<span class="LineNumber"> 004 </span>			มารํ  สเสนํ  สหสา  ภฺชิสฺสํ  
+<span class="LineNumber"> 005 </span>			สีหาสเน  ตํ  นุ  กทา  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 006 </span>			กทา  นุหํ  สพฺภิ  สมาคเมสุ  
+<span class="LineNumber"> 007 </span>			ทิฏฺโ€  ภเว  ธมฺมครูหิตาทิหิ  
+<span class="LineNumber"> 008 </span>			ยาถาวทสฺสีหิ  ชิตินฺทฺริเยหิ  
+<span class="LineNumber"> 009 </span>			ปธานิโย  ตํ  นุ  กทา  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 010 </span>			กทา  นุ  มํ  ตนฺทิ  ขุทา  ปิปาสา  (๒)  
+<span class="LineNumber"> 011 </span>			วาตาตปา  กีฏสิรึสปา  (๓)  วา  
+<span class="LineNumber"> 012 </span>			น  พาธยิสฺสนฺติ  (๔)  น  ตํ  คิริพฺพเช  
+<span class="LineNumber"> 013 </span>			อตฺถตฺถิยํ  (๕)  ตํ  นุ  กทา  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>			กทา  นุ  โข  ยํ  วิทิตํ  มเหสินา  
+<span class="LineNumber"> 015 </span>			จตฺตาริ  สจฺจานิ  สุทุทฺทสานิ  
+<span class="LineNumber"> 016 </span>			สมาหิตตฺโต  สติมา  อคจฺฉํ  
+<span class="LineNumber"> 017 </span>			ปฺาย  ตํ  ตํ  นุ  กทา  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>			กทา  นุ  รูเป  อมิเต  จ  สทฺเท  
+<span class="LineNumber"> 019 </span>			คนฺเธ  รเส  ผุสิตพฺเพ  จ  ธมฺเม  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา.  อมหาทยิตฺวา  ฯ  ๒.  สฺยา.  ตนฺทิขุทาปิปาสา  ฯ  
+<span class="LineNumber"> 021 </span>#๓.  สฺยา.  กีฏสรีสปา  ฯ  ๔.  สฺยา.  นิพาธยิสฺสนฺติ  ฯ  
+<span class="LineNumber"> 022 </span>#๕.  สฺยา.  อตฺตตฺถิยํ  ฯ  

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลที่รูปะเกิดไม่ได้เหล่านั้นกำลังเกิด     ธัมมายตนะกำลังเกิด
+<span class="LineNumber"> 002 </span>แก่บุคคลเหล่านั้น          แต่รูปายตนะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น 
+<span class="LineNumber"> 003 </span>บุคคลที่มีรูปะเกิดได้เหล่านั้นกำลังเกิด    ธัมมายตนะกำลังเกิด   และรูปา-
+<span class="LineNumber"> 004 </span>ยตนะก็กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 005 </span>                           <I>จบ  รูปายตนมูละ   ธัมมายตนมูลี</I>
+<span class="LineNumber"> 006 </span>                                       <I>รูปายตนมูล  จบ</I>
+<span class="LineNumber"> 007 </span>                                         <H1>มนายตนมูล</H1>
+<span class="LineNumber"> 008 </span><H2>มนายตนมูละ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 009 </span>         [๓๐๖]   มนายาตนะกำลังเกิดแก่บุคคลใด,    ธัมมายตนะก็กำลัง
+<span class="LineNumber"> 010 </span>เกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า   ธัมมายตนะกำลังเกิดแก่บุคคลใด,    มนายตนะก็กำลัง
+<span class="LineNumber"> 013 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         บุคคลที่จิตเกิดไม่ได้เหล่านั้นกำลังเกิด   ธัมมายตนะกำลังเกิดแก่
+<span class="LineNumber"> 015 </span>บุคคลเหล่านั้น   แต่มนายตนะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น,  บุคคล

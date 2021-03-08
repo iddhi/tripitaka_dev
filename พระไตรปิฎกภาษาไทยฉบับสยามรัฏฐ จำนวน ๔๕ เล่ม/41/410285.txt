@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>            ในนัตถิปัจจัย                 กับ  ฯลฯ      มีวาระ  ๓   
+<span class="LineNumber"> 002 </span>            ในวิคตปัจจัย                 กับ  ฯลฯ      มี  "   ๓   
+
+<span class="LineNumber"> 003 </span>             ในอวิคตปัจจัย                กับ  ฯลฯ      มี  "   ๓   
+<span class="LineNumber"> 004 </span>                                                   พึงนับอย่างนี้   
+<span class="LineNumber"> 005 </span>                       ปัจจนียานุโลม  จบ   
+<span class="LineNumber"> 006 </span>                 สัมปยุตตวาร เหมือนกับสังสัฏฐวาร           
+<span class="LineNumber"> 007 </span>                          ปัญหาวาร   
+<span class="LineNumber"> 008 </span>     [๘๗๖] ทัสสเนนปหาตัพพเหตุกธรรม เป็นปัจจัยแก่ทัสสเนนปหาตัพพเหตุกธรรม  
+<span class="LineNumber"> 009 </span>โดยเหตุปัจจัย  
+<span class="LineNumber"> 010 </span>     คือ เหตุทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม เป็นปัจจัยแก่สัมปยุตตขันธ์           
+<span class="LineNumber"> 011 </span>ทั้งหลาย โดยเหตุปัจจัย ฯลฯ   
+<span class="LineNumber"> 012 </span>     [๘๗๗] ทัสสเนนปหาตัพพเหตุกธรรม เป็นปัจจัยแก่เนวทัสสเนนนภาวนายปหา   
+<span class="LineNumber"> 013 </span>ตัพพเหตุกธรรม โดยเหตุปัจจัย   
+<span class="LineNumber"> 014 </span>     คือ เหตุทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม เป็นปัจจัยแก่จิตตสมุฏฐานรูป          
+<span class="LineNumber"> 015 </span>ทั้งหลาย โดยเหตุปัจจัย       
+<span class="LineNumber"> 016 </span>     [๘๗๘] ทัสสเนนปหาตัพพเหตุกธรรม เป็นปัจจัยแก่ทัสสเนนปหาตัพพเหตุกธรรม  
+<span class="LineNumber"> 017 </span>และเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม โดยเหตุปัจจัย         
+<span class="LineNumber"> 018 </span>     คือ เหตุทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม เป็นปัจจัยแก่สัมปยุตตขันธ์           
+<span class="LineNumber"> 019 </span>และจิตตสมุฏฐานรูปทั้งหลาย โดยเหตุปัจจัย   
+<span class="LineNumber"> 020 </span>     ภาวนาย ฯลฯ มี ๓ นัย     
+<span class="LineNumber"> 021 </span>     เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม เป็นปัจจัยแก่เนวทัสสเนนนภาวนาย   
+<span class="LineNumber"> 022 </span>ปหาตัพพเหตุกธรรม ฯลฯ มี ๑ นัย   

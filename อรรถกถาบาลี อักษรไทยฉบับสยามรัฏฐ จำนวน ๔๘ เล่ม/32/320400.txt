@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  จุลฺลสุวกราชชาตกํ  หน้า 400
+		
+<span class="LineNumber"> 002 </span>นามาติ  วุตฺเต  อนจฺฉริยํ  ภิกฺขเว  ตถาคตสฺส  อิทานิ  
+<span class="LineNumber"> 003 </span>โลลุปฺปจารปฺปหานํ  โส  ปุพฺเพปิ  ติรจฺฉานโยนิยํ  นิพฺพตฺโต
+<span class="LineNumber"> 004 </span>โลลุปฺปจารํ  ปหาสีติ  วตฺวา  อตีตํ อาหริ ฯ สพฺพํปิ วตฺถุํ เหฏฺ€า
+<span class="LineNumber"> 005 </span>กถิตนิยาเมเนว วิตฺถาเรตพฺพํ  
+<span class="LineNumber"> 006 </span>	[๑๒๓๖]สนฺติ รุกฺขา หริตปตฺตา(๑)  	ทุมา เนกผลา พหู  
+<span class="LineNumber"> 007 </span>		กสฺมา นุ สุกฺเข โกฬาเป  		สุวสฺส นิรโต มโน ฯ  
+<span class="LineNumber"> 008 </span>	[๑๒๓๗]ผลสฺส อุปภุฺชิมฺหา-  		เนกวสฺสคเณ พหู  
+<span class="LineNumber"> 009 </span>		อผลมฺปิ วิทิตฺวาน  			สา จ มิตฺติ ยถา ปุเร ฯ  
+<span class="LineNumber"> 010 </span>	[๑๒๓๘]สุกฺขฺจ รุกฺขโกฬาปํ  		โอปตฺตมผลํ ทุมํ  
+<span class="LineNumber"> 011 </span>		โอหาย สกุณา ยนฺติ  		กึ โทสํ ปสฺสเส(๒) ทิช ฯ  
+<span class="LineNumber"> 012 </span>	[๑๒๓๙]เย ผลตฺถา สมฺภชนฺติ  		อผโลติ ชหนฺติ นํ  
+<span class="LineNumber"> 013 </span>		อตฺตตฺถปฺา ทุมฺเมธา  		เต โหนฺติ ปกฺขปาติโน ฯ  
+<span class="LineNumber"> 014 </span>	[๑๒๔๐]สาธุ สกฺขิ(๓) กตํ โหติ  		มิตฺติ สํสติ สนฺถโว  
+<span class="LineNumber"> 015 </span>		สเจตํ ธมฺมํ โรเจสิ  			ปาสํโสสิ วิชานตํ ฯ  
+<span class="LineNumber"> 016 </span>	[๑๒๔๑]โส เต สุว วรํ ทมฺมิ  		ปตฺตยาน วิหงฺคม  
+<span class="LineNumber"> 017 </span>		วรํ วรสฺสุ วงฺกงฺค  			ยํกิฺจิ มนสิจฺฉสิ ฯ  
+<span class="LineNumber"> 018 </span>	[๑๒๔๒]อปิ นาม นํ ปุน ปสฺเส(๔)  	สปตฺตํ สผลํ ทุมํ  
+<span class="LineNumber"> 019 </span>		ทลิทฺโทว นิธึ ลทฺธา  		นนฺเทยฺยาหํ ปุนปฺปุนํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. หริปตฺตา ฯ  ๒. ส. มฺเส ฯ  ๓. ส. ปกฺขิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. นํ ปสฺเสยฺยํ ฯ

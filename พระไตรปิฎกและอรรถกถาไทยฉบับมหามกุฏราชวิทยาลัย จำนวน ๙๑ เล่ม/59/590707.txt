@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>ความว่า   นักรบได้กินอาหารมีรสประณีตเหล่านั้น  จึงกล้าหาญ  มีความ
+<span class="LineNumber"> 002 </span>เพียร   เข้าผจญต่อสู้สงครามได้ฉันใด    เราก็ฉันนั้น    ได้กินอาหารมีรส
+<span class="LineNumber"> 003 </span>ที่เขากินกันในหมู่มนุษย์  จึงได้กล้าหาญเข้าต่อสู้สงครามได้.
+<span class="LineNumber"> 004 </span>         ด้วยคำว่า   <B>ยถา   ตว</B>   นี้     กาชี้แจงว่า     สีของเราแม้ผู้บริโภค
+<span class="LineNumber"> 005 </span>อาหารอันประณีตอย่างนี้   หาได้เหมือนกับของท่านไม่   เราจึงไม่เชื่อคำ
+<span class="LineNumber"> 006 </span>ของท่าน. 
+<span class="LineNumber"> 007 </span>         ลำดับนั้น  นกจักรพรากเมื่อจะกล่าวถึงเหตุที่ไม่เจริญแห่งวรรณ-
+<span class="LineNumber"> 008 </span>สมบัติของกา   และเหตุที่เจริญแห่งวรรณสมบัติของตน   ได้กล่าวคาถาที่
+<span class="LineNumber"> 009 </span>เหลือว่า :-
+<span class="LineNumber"> 010 </span>                        <B>ดูก่อนกา  ท่านเป็นผู้กินอาหารไม่บริสุทธิ์ 
+<span class="LineNumber"> 011 </span>           มักจะโฉบลงในขณะที่เขาพลั้งเผลอ   จะได้กิน
+<span class="LineNumber"> 012 </span>           ข้าวและน้ำก็โดยยาก    ลูกไม้ทั้งหลายท่านก็ไม่
+<span class="LineNumber"> 013 </span>           ชอบใจกิน    หรือเนื้อในกลางป่าช้า    ท่านก็ไม่
+<span class="LineNumber"> 014 </span>           ชอบใจกิน.
+<span class="LineNumber"> 015 </span>                        ดูก่อนกา      ผู้ใดอาศัยบริโภคโภคสมบัติ
+<span class="LineNumber"> 016 </span>           ด้วยธรรมอันสาหัส  มักจะโฉบลงในขณะที่เขา 
+<span class="LineNumber"> 017 </span>           พลั้งเผลอ   ภายหลังสภาวธรรมตนเอง    ก็ย่อม</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 177
+
+<span class="LineNumber"> 002 </span>ราชาธิราชํ(๑) ฯ  โส  มหุตฺตํว  ยายิตฺวาติ  โส  ราชา  มุหุตฺเตเนว
+<span class="LineNumber"> 003 </span>อุยฺยานํ  คนฺตฺวา ฯ  ปตฺติ  คุณมุปาคมีติ  ปตฺติโกว  คุณํ  อาชีวกํ 
+<span class="LineNumber"> 004 </span>อุปาคมิ ฯ  เยปิ  ตตฺถ  ตทา  อาสุนฺติ  เยปิ  ตสฺมึ  อุยฺยาเน
+<span class="LineNumber"> 005 </span>ตทา  ปุเรตรํ  คนฺตฺวา  ตํ  อาชิวกํ  ปิยรุปาสมานาย  นิสินฺนา 
+<span class="LineNumber"> 006 </span>อเหสุํ ฯ  น  เต  อปนยีติ  อมฺหากเมว  โทโสเยว  มยํ(๒)  ปจฺฉา 
+<span class="LineNumber"> 007 </span>อาคมิมฺหา(๓)  ตุมฺเห  มา  จลิตฺถาติ (๔) เต  พฺราหฺมเณ  จ  อิพฺเภ  
+<span class="LineNumber"> 008 </span>จ  รฺโเยว  อตฺถาย  อกตํ  อกโตกาสํ ฯ  ภูมิมาคเตติ  ภูมึ 
+<span class="LineNumber"> 009 </span>อาคเต  น อุสฺสารณํ กาเรตฺวา อปนยิ (๕)ฯ  
+<span class="LineNumber"> 010 </span>	โส  ตาย  โอมิสฺสกปริสาย  ปริวุโตว  เอกมนฺตํ  นิสีทิตฺวา  
+<span class="LineNumber"> 011 </span>ปฏิสนฺถารมกาสิ ฯ  
+<span class="LineNumber"> 012 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 013 </span>	[๘๔๒]ตโต โส มุทุกา ภิสิยา	มุทุจิตฺตกสณฺ€เต  
+<span class="LineNumber"> 014 </span>		มุทุปจฺจตฺถเต ราชา	เอกมนฺตํ อุปาวิสิ  
+<span class="LineNumber"> 015 </span>		นิสชฺช ราชา สมฺโมทิ	กถํ สาราณิยํ(๖) ตโต  
+<span class="LineNumber"> 016 </span>		กจฺจิ ยาปนียํ ภนฺเต	วาตานมวิยตฺตตา  
+<span class="LineNumber"> 017 </span>		กจฺจิ อกสิรา วุตฺติ		ลภสิ ปิณฺฑิยาปนํ  
+<span class="LineNumber"> 018 </span>		อปฺปาพาโธ จสิ กจฺจิ	จกฺขุ น ปริหายติ  
+<span class="LineNumber"> 019 </span># ๑. ม. ราชาธิราชานํ ฯ  ๒. ม. โทโส เย มยํ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. อคมิมฺหา ฯ ๔. ม. จินฺตยิตฺถาติ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. อปนยีติ ฯ ๖. ม.สารณิยํ ฯ ๗. ม. ยาปนิยํ ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. วาตานมวิคฺคตา ฯ 

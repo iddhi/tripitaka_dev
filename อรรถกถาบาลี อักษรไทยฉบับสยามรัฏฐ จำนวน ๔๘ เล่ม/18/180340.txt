@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  18  โกธวคฺควณฺณนา  หน้า  340
+
+<span class="LineNumber"> 002 </span>มหาพฺรหฺเมหิปิ  เอส  ปสํสิโตเยวาติ  อตฺโถ ฯ
+<span class="LineNumber"> 003 </span>	เทสนาวสาเน  ปฺจสตาปิ  เต  อุปาสกา  โสตาปตฺติผเล
+<span class="LineNumber"> 004 </span>ปติฏฺ€หึสูติ ฯ
+<span class="LineNumber"> 005 </span>				อตุลอุปาสกวตฺถุ ฯ
+				
+<span class="LineNumber"> 006 </span>				ฉพฺพคฺคิยภิกฺขุวตฺถุ 
+<span class="LineNumber"> 007 </span>	กายปฺปโกปนฺติ  อิมํ  ธมฺมเทสนํ  สตฺถา  เวฬุวเน  วิหรนฺโต
+<span class="LineNumber"> 008 </span>ฉพฺพคฺคิเย  ภิกฺขู  อารพฺภ  กเถสิ ฯ
+<span class="LineNumber"> 009 </span>	เอกทิวสํ  หิ  สตฺถา  เตสํ  อุโภหิ  หตฺเถหิ  ยฏฺ€ิโย  คเหตฺวา
+<span class="LineNumber"> 010 </span>กฏฺ€ปาทุกํ  อารุยฺห  ปิฏฺ€ิปาสาเณ  จงฺกมนฺตานํ  ขฏขฏาติ
+<span class="LineNumber"> 011 </span>สทฺทํ  สุตฺวา  อานนฺท  กึสทฺโท  นาเมโสติ  ปุจฺฉิตฺวา  ฉพฺพคฺคิยานํ
+<span class="LineNumber"> 012 </span>กฏฺ€ปาทุกํ  อารุยฺห  จงฺกมนฺตานํ  ขฏขฏสทฺโทติ  สุตฺวา  สิกฺขาปทํ
+<span class="LineNumber"> 013 </span>ปฺาเปตฺวา  ภิกฺขุนา  นาม  กายาทีนิ  รกฺขิตุํ  วฏฺฏตีติ  วตฺวา
+<span class="LineNumber"> 014 </span>ธมฺมํ  เทเสนฺโต  อิมา  คาถา  อภาสิ
+<span class="LineNumber"> 015 </span>	กายปฺปโกปํ  รกฺเขยฺย  	กาเยน  สํวุโต  สิยา
+<span class="LineNumber"> 016 </span>	กายทุจฺจริตํ  หิตฺวา  	กาเยน  สุจริตํ  จเร
+<span class="LineNumber"> 017 </span>	วจีปโกปํ  รกฺเขยฺย  	วาจาย  สํวุโต  สิยา
+<span class="LineNumber"> 018 </span>	วจีทุจฺจริตํ  หิตฺวา  		วาจาย  สุจริตํ  จเร
+<span class="LineNumber"> 019 </span>	มโนปโกปํ  รกฺเขยฺย  	มนสา  สํวุโต  สิยา
+<span class="LineNumber"> 020 </span>	มโนทุจฺจริตํ  หิตฺวา  	มนสา  สุจริตํ  จเร

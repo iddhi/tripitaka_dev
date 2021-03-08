@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>               <H2>อรรถกถาชราสุตตนิทเทส</H2>
+
+<span class="LineNumber"> 002 </span>         ในชราสูตรที่  ๖  มีวินิจฉัยดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>         บทว่า  <B>อปฺปํ   วต    ชีวิตํ   อทํ</B>   ความว่า  ชีวิตของมนุษย์ทั้งหลาย
+<span class="LineNumber"> 004 </span>นี้หนอน้อย  คือ  นิดหน่อย.
+<span class="LineNumber"> 005 </span>         บทว่า  <B>€ิติปริตฺตตาย   สรสปริตฺตตาย</B>  มีนัยดังกล่าวแล้วแม้ใน
+<span class="LineNumber"> 006 </span>คุหัฏฐกสูตร.
+<span class="LineNumber"> 007 </span>         บทว่า  <B>โอรํ  วสฺสสตาปิ    มิยฺยติ</B>  ความว่า  ย่อมตายภายในร้อยปี
+<span class="LineNumber"> 008 </span>ในกาลเป็นกลละเป็นต้นก็มี.
+<span class="LineNumber"> 009 </span>         บทว่า  <B>อติจฺจ</B>  ความว่าเกินร้อยปี.
+<span class="LineNumber"> 010 </span>         บทว่า  <B>ชรสาปิ   มิยฺยติ</B>    ความว่า    ย่อมตายแม้เพราะชราความ
+<span class="LineNumber"> 011 </span>ต่อแต่นี้พึงถือเอาโดยนัยที่กล่าวแล้วในอรรถกถาคุหัฏฐกสูตรนั่นแล.
+<span class="LineNumber"> 012 </span>         บทว่า  <B>อปฺปํ</B>   ได้แก่  น้อย.
+<span class="LineNumber"> 013 </span>         บทว่า  <B>คมนี   โย  สมฺปราโย</B>   ความว่า    พึงไปปรโลก.     ชื่อว่า
+<span class="LineNumber"> 014 </span><B>กลละ</B>  ในบทว่า     <B>กลลกาเลปิ</B>    ในขณะปฏิสนธิเป็นกลละที่ใสแจ๋ว
+<span class="LineNumber"> 015 </span>ประมาณเท่าหยาดน้ำมัน  ซึ่งติดอยู่ที่ปลายเส้นด้ายทำด้วยขนสัตว์ ๓ เส้น
+<span class="LineNumber"> 016 </span>ที่ท่านหมายกล่าวไว้ว่า :-
+<span class="LineNumber"> 017 </span>                <B>หยาดน้ำมันงา  ใสแจ๋ว  ไม่ขุ่นมัวฉันใด    รูปที่มี 
+<span class="LineNumber"> 018 </span>         ส่วนเปรียบด้วย  วรรณะ  ก็ฉันนั่น  เรียกว่า   กลละ  แม้
+<span class="LineNumber"> 019 </span>         ในกาลเป็นกลละนั้น.</B>

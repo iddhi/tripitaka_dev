@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 529
+
+<span class="LineNumber"> 002 </span>		อิเม ติฏฺ€นฺติ อารามา	อยํ สีตูทกา นที  
+<span class="LineNumber"> 003 </span>		ยตฺถสฺสุ ปุพฺเพ กีฬาม	ตานิ กณฺเห ชหามฺหเส  
+<span class="LineNumber"> 004 </span>		วิวิธานิ ปุปฺผชาตานิ	อสฺมึ อุปริ ปพฺพเต  
+<span class="LineNumber"> 005 </span>		ยานสฺสุ ปุพฺเพ ธาเรม	ตานิ กณฺเห ชหามฺหเส  
+<span class="LineNumber"> 006 </span>		วิวิธานิ ผลชาตานิ		อสฺมึ อุปริ ปพฺพเต  
+<span class="LineNumber"> 007 </span>		ยานสฺสุ ปุพฺเพ ภุฺชาม	ตานิ กณฺเห ชหามฺหเส  
+<span class="LineNumber"> 008 </span>		อิเม โน หตฺถิกา อสฺสา	พลิพทฺทา จ โน อิเม  
+<span class="LineNumber"> 009 </span>		เยหิสฺสุ ปุพฺเพ กีฬาม	ตานิ กณฺเห ชหามฺหเสติ(๑) ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ยสฺสาติ  ยสฺส  สนฺติเก  สกา  มาตา  นตฺถิ ฯ  
+<span class="LineNumber"> 011 </span>ปุน  พฺราหฺมโณ  เอกสฺมึ  วิสมฏฺ€าเน  ปกฺขลิตฺวา  ปตติ ฯ  เตสํ 
+<span class="LineNumber"> 012 </span>หตฺถโต  พนฺธนํ  มุฺจิตฺวา  คลิตํ (๒)ฯ  เต  ปหตกุกฺกุฏา  วิย 
+<span class="LineNumber"> 013 </span>กมฺปมานา ปลายิตฺวา  เอกเวเคเนว ปิตุ สนฺติกํ อาคมึสุ ฯ  
+<span class="LineNumber"> 014 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 015 </span>	[๑๑๗๙]นียมานา กุมารา เต	พฺราหฺมณสฺส ปมุฺจิย  
+<span class="LineNumber"> 016 </span>		เตน เตน ปธาวึสุ		ชาลี กณฺหาชินา จุโภติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  เตน  เตนาติ  เตน  มุตฺตกฺขเณน  เยน  เตสํ  ปิตา(๓)
+<span class="LineNumber"> 018 </span>เตน  ปธาวึสุ ฯ ปธาวิตฺวา ปิตุ สนฺติกํเยว อาคมึสูติ อตฺโถ ฯ  
+<span class="LineNumber"> 019 </span>	ชูชโกปิ  เวเคนุฏฺ€าย  วลฺลีทณฺฑหตฺโถ  กปฺปุฏฺ€านคฺคิ  วิย  
+<span class="LineNumber"> 020 </span># ๑. ม. ชหามเส ฯ  ๒.มง พนฺธนวลฺลิ มุจฺจิตฺวา ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. เยน ทิสาภาเคน เตสํ ปิตา อตฺถิ ฯ

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>อิตถินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>อิตถินทริยมูละ  จักขุนทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๔๖๐]   ธรรมที่ชื่อว่าอิตถี,      ชื่อว่าอินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ไม่ใช่.  
+<span class="LineNumber"> 005 </span>         ธรรมที่ชื่อว่าอินทรีย์   ชื่อว่าจักขุนทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         จักขุนทรีย์  ชื่อว่าอินทรีย์ด้วย   ชื่อว่าจักขุนทรีย์ด้วย,  อินทรีย์
+<span class="LineNumber"> 007 </span>ที่เหลือ   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่าจักขุนทรีย์.
+<span class="LineNumber"> 008 </span>                                             ฯลฯ
+<span class="LineNumber"> 009 </span><B>อิตถินทริยมูล   อัญญาตาวินทริยมูลี:-</B>
+<span class="LineNumber"> 010 </span>         ธรรมที่ชื่อว่าอิตถิน,   ชื่อว่า  อินทรีย์       ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ไม่ใช่.
+<span class="LineNumber"> 012 </span>         ธรรมที่ชื่อว่าอินทรีย์,   ชื่อว่า  อัญญาตาวินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         อัญญาตาวินทรีย์  ชื่อว่าอินทรีย์ด้วย,   ชื่อว่าอัญญาตาวินทรีย์ด้วย 
+<span class="LineNumber"> 014 </span>อินทรีย์ที่เหลือ   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่าอัญญาตาวินทรีย์.
+<span class="LineNumber"> 015 </span>                    <I>จบ  อิตถินทริยมูละ  อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 016 </span>                                     <I>อิตถินทริยมูล    จบ</I>

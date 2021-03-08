@@ -1,0 +1,34 @@
+﻿<span class="LineNumber"> 001 </span>                       <H2>๒๑.  ธาตุกุสลาทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>ธาตุกุสลตา จ</B>                        ความเป็นผู้ฉลาดในธาตุ
+<span class="LineNumber"> 003 </span><B>มนสิการกุสลตา จ</B>                  ความเป็นผู้ฉลาดในการพิจารณา
+
+<span class="LineNumber"> 004 </span>                   <H2>๒๒.  อายตนกุสลตาทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>อายตนกุสลตา จ</B>                    ความเป็นผู้ฉลาดในอายตนะ
+<span class="LineNumber"> 006 </span><B>ปฏิจฺจสมุปฺปาทกุสลตา จ</B>         ความเป็นผู้ฉลาดในปฏิจจสมุปบาท
+
+<span class="LineNumber"> 007 </span>                     <H2>๒๓.  ฐานกุสลตาทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>€านกกุสลตา  จ</B>                     ความเป็นผู้ฉลาดในฐานะ
+<span class="LineNumber"> 009 </span><B>อฏ€านกุสลตา จ</B>                    ความเป็นผู้ฉลาดในอฐานะ
+
+<span class="LineNumber"> 010 </span>                        <H2>๒๔.  อาชชวทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>อาชฺชโว จ</B>                            ความซื่อตรง
+<span class="LineNumber"> 012 </span><B>มทฺทโว จ</B>                              ความอ่อนโยน
+
+<span class="LineNumber"> 013 </span>                          <H2>๒๕.  ขันติทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>ขนฺติ จ</B>                                  ความอดทน
+<span class="LineNumber"> 015 </span><B>โสรจฺจญฺจ</B>                             ความสงบเสงี่ยม
+
+<span class="LineNumber"> 016 </span>                         <H2>๒๖.  สาขัลยทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>สาขลฺยญฺจ</B>                            ความเป็นผู้มีวาจาอ่อนหวาน
+<span class="LineNumber"> 018 </span><B>ปฏิสนฺถาโร จ</B>                       การปฏิสันถาร
+
+<span class="LineNumber"> 019 </span>                 <H2>๒๗.  อินทริยอคุตตทวารตาทุกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>อินฺทฺริเยสุ อคุตฺตทฺวารตา</B>       ความเป็นผู้ไม่สำรวมในอินทรีย์
+<span class="LineNumber"> 021 </span><B>โภชเน อมตฺตญฺญุตา จ</B>          ความเป็นผู้ไม่รู้ประมาณในโภชนาหาร   

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>สังสัฏฐวาระ</H2>
+<span class="LineNumber"> 002 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                      <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๕๗๐]  ๑.  <B>ทัสสเนนปหาตัพพธรรม    เจือกับทัสสเนนปหา-
+<span class="LineNumber"> 005 </span>ตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   ฯลฯ</B>
+<span class="LineNumber"> 006 </span>                      ๒.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม    เจือกับ
+<span class="LineNumber"> 007 </span>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม เกิดขึ้น เพราะเหตุปัจจัย ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                            <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>         [๕๗๑]  ในเหตุปัจจัย มี ๒ วาระ       ในอารัมมณปัจจัย มี ๒ วาระ
+<span class="LineNumber"> 010 </span>ในอธิปติปัจจัย มี ๒ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ.
+
+<span class="LineNumber"> 011 </span>                                          <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 012 </span>                                      <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>         [๕๗๒] ๑.  <B>ทัสสเนนปหาตัพพธรรม    เจือกับทัสสเนนปหา-
+<span class="LineNumber"> 014 </span>ตัพพธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>         คือ   โมหะ   ที่สหรคตด้วยวิจิกิจฉา    เจือกับขันธ์ทั้งหลายที่สหรคต
+<span class="LineNumber"> 016 </span>ด้วยวิจิกิจฉา.
+<span class="LineNumber"> 017 </span>                      ๒.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม    เจือกับ- 
+<span class="LineNumber"> 018 </span>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม เกิดขึ้น เพราะนเหตุปัจจัย ฯลฯ</B>

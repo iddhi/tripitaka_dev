@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 229
+
+<span class="LineNumber"> 002 </span>อาวุธวสฺสา  สีเส  ปตนฺติ ฯ  สีลาสนีติ  ชลิตสิลาสนี  วสฺสติ ฯ  
+<span class="LineNumber"> 003 </span>ลุทฺทกมฺเมติ  ยถา นาม เทเว วสฺสนฺเต อสนิโย ปตนฺติ(๑) เอวเมว 
+<span class="LineNumber"> 004 </span>อากาเส  สมุฏฺ€าย  วิจิตายมานา(๒)  ชลิตสิลาสนีวสฺสา (๓) เตสํ  
+<span class="LineNumber"> 005 </span>ลุทฺทกมฺมานํ  อุปริ  ปตนฺติ(๔) ฯ  
+<span class="LineNumber"> 006 </span>		อุณฺโห จ วาโต นิรยมฺหิ ทุสฺสโห  
+<span class="LineNumber"> 007 </span>		น ตมฺหิ สุขํ ลภสิ (๕) อิตรํปิ  
+<span class="LineNumber"> 008 </span>		ตตฺตํ(๖) ธาวนฺตมเลณมาตุรํ  
+<span class="LineNumber"> 009 </span>		โก โจทเย ปรโลเก สหสฺสนฺติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ อิตรํปีติ ปริตฺตกํปิ ฯ ธาวนฺตนฺติ วิธาวนฺตํ(๗) ฯ  
+<span class="LineNumber"> 011 </span>	[๘๘๒]สนฺธาวมานํปิ รเถสุ ยุตฺตํ  
+<span class="LineNumber"> 012 </span>		สฺโชติภูตํ(๘) ป€วึ กมนฺตํ  
+<span class="LineNumber"> 013 </span>		ปโตทลฏฺ€ีหิ สุโจทยนฺตํ  
+<span class="LineNumber"> 014 </span>		โก โจทเย ปรโลเก สหสฺสนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  รเถสุ  ยุตฺตนฺติ  วาเรน  วารํ  เตสุ  เตสุ 
+<span class="LineNumber"> 016 </span>ชลิตโลหรเถสุ  ยุตฺตํ ฯ กมนฺตนฺติ อกฺกมมานํ ฯ สุโจทยนฺตนฺติ 
+<span class="LineNumber"> 017 </span>สุฏฺ€ุ โจทยนฺตํ ฯ  
+<span class="LineNumber"> 018 </span>	[๘๘๓]ตมารุหนฺตํ ขุรสฺจิตํ คิรึ  
+<span class="LineNumber"> 019 </span>		วิภึสนํ ปชฺชลิตํ ภยานกํ  
+<span class="LineNumber"> 020 </span># ๑. ม. อสนิ ปตติ ฯ  ๒. ม. จิจฺจิฏายมานํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ชลิตสิลาวสฺสํ ฯ  ๔. ม. ปตติ ฯ  ๕. ม.ลพฺภติ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ตํ ตํ ฯ  ๗. ม. วิธาวนฺตนฺติ วิวิธา ธาวนฺตํ ฯ
+<span class="LineNumber"> 023 </span># ๘. ม. สโชติภูตํ ฯ 

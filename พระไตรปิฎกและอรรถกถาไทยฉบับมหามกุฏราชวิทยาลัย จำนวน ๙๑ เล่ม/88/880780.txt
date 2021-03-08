@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๕.  สมนันตรปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ  เป็นปัจจัย  ด้วยอำนาจของสมนันตรปัจจัย</B> 
+
+<span class="LineNumber"> 003 </span>                   <H1>๖.  สหชาตปัจจัย ฯลฯ    ๘. นิสสยปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๗๑๔] ๑.  <B>ปรามาสสัมปยุตตธรรม     เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 005 </span>สัมปยุตตธรรม  ด้วยอำนาจของสหชาตปัจจัย</B> มี ๕ วาระ
+<span class="LineNumber"> 006 </span>           ฯลฯ  เป็นปัจจัย  <B>ด้วยอำนาจของอัญญมัญญปัจจัย</B> มี ๒ วาระ
+<span class="LineNumber"> 007 </span>           ฯลฯ  เป็นปัจจัย  <B>ด้วยอำนาจของนิสสยปัจจัย</B>  มี ๗ วาระ
+
+<span class="LineNumber"> 008 </span>                                     <H1>๙.  อุปนิสสยปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๗๑๕] ๑.  <B>ปรามาสสัมปยุตตธรรม     เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 010 </span>สัมปยุตตธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 011 </span>           มี ๓ อย่าง คือที่เป็น  <B>อารัมมณูปนิสสยะ  อนันตรูปนิสสยะ</B>  และ 
+<span class="LineNumber"> 012 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 013 </span>           ที่เป็น <B>ปกตูปนิสสยะ</B> ได้แก่
+<span class="LineNumber"> 014 </span>           ราคะที่เป็นปรามาสสัมปยุตตธรรม ฯลฯ โมหะ ฯลฯ ความปรารถนา
+<span class="LineNumber"> 015 </span>เป็นปัจจัยแก่ราคะที่เป็นปรามาสสัมปยุตตธรรม  แก่โมหะ ฯลฯ แก่ความ
+<span class="LineNumber"> 016 </span>ปรารถนา  ด้วยอำนาจของอุปนิสสยปัจจัย. 
+<span class="LineNumber"> 017 </span>                       ๒.  <B>ปรามาสสัมปยุตตธรรม    เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 018 </span>วิปปยุตตธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย</B>

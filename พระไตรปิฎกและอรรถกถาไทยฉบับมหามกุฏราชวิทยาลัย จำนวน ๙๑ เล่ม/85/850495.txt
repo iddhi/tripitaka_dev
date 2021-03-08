@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>              ๖.  ชิวหินทรีย์  เป็นปัจจัยแก่ชิวหาวิญญาณ   ด้วยอำนาจของ 
+<span class="LineNumber"> 002 </span>อินทริยปัจจัย.
+<span class="LineNumber"> 003 </span>              ๗.  กายินทรีย์    เป็นปัจจัยแก่กายวิญญาณ    ด้วยอำนาจของ
+<span class="LineNumber"> 004 </span>อินทริยปัจจัย. 
+<span class="LineNumber"> 005 </span>              ๘.  รูปชีวิตินทรีย์   เป็นปัจจัยแก่กฏัตตารูป   ด้วยอำนาจของ
+<span class="LineNumber"> 006 </span>อินทริยปัจจัย.
+
+<span class="LineNumber"> 007 </span>                                    <H1>๑๗. ฌานปัจจัย</H1>
+<span class="LineNumber"> 008 </span> <B>[๕๘๗]  ๑.  กุศลธรรม  เป็นปัจจัยแก่กุศลธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 009 </span>ฌานปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  องค์ฌานที่เป็นกุศล   เป็นปัจจัยแก่สัมปยุตตขันธ์   ด้วยอำนาจ
+<span class="LineNumber"> 011 </span>ของฌานปัจจัย.
+<span class="LineNumber"> 012 </span> <B>[๕๘๘]  ๒.  กุศลธรรม  เป็นปัจจัยแก่อัพยากตธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 013 </span>ของฌานปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  องค์ฌานที่เป็นกุศล  เป็นปัจจัยแก่จิตตสมุฏฐานรูป  ด้วยอำนาจ
+<span class="LineNumber"> 015 </span>ของฌานปัจจัย.
+<span class="LineNumber"> 016 </span> <B>[๕๘๙]  ๓.  กุศลธรรม  เป็นปัจจัยแก่กุศลธรรมและอัพยากตธรรม
+<span class="LineNumber"> 017 </span>ด้วยอำนาจของฌานปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ  องค์ฌานที่เป็นกุศล    เป็นปัจจัยแก่สัมปยุตตขันธ์    และจิตต-
+<span class="LineNumber"> 019 </span>สมุฏฐานรูป  ด้วยอำนาจของฌานปัจจัย.                                       

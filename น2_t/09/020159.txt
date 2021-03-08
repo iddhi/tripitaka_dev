@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>หน้าทุกจำนวน  <B>๒๙</B>  เติม  <B>อูน</B>  หน้าจำนวน  ๓๐  เป็น  <B>อูนตึสุตตร  ๓๙</B>  เติม  <B>อูน</B>  หน้า  
+<span class="LineNumber"> 002 </span>จำนวน  ๔๐  เป็น  <B>อูนจตตาฬีสุตตร</B>  ดังนี้เป็นต้น  
+<span class="LineNumber"> 003 </span>	<B>หมายเลข  ๒</B>  เป็นจำนวนบอกเดือน  ในแบบตัวอย่างใช้สำหรับเดือน  ตุลาคม  
+<span class="LineNumber"> 004 </span>ถ้าเป็นเดือนอื่นต้องเปลี่ยน  ซึ่งมีหลักใช้สำหรับเปลี่ยน  ดังนี้
+
+<span class="LineNumber"> 005 </span>	เดือน		มกราคม               นิยมใช้                ปุสฺส
+<span class="LineNumber"> 006 </span>           "		กุมภาพันธ์	           "                     มาฆ
+<span class="LineNumber"> 007 </span>           "		มีนาคม                         "                    ผคฺคุณ
+<span class="LineNumber"> 008 </span>           "		เมษายน                        "                    จิตฺต
+<span class="LineNumber"> 009 </span>           "		พฤษภาคม                    "                   วิสาข
+<span class="LineNumber"> 010 </span>           "		มิถุนายน                        "                   เชฏฺ€
+<span class="LineNumber"> 011 </span>           "		กรกฎาคม                      "                   อาสาฬฺห
+<span class="LineNumber"> 012 </span>           "		สิงหาคม                        "                   สาวน
+<span class="LineNumber"> 013 </span>           "		กันยายน                         "                  โปฏฺ€ปท  หรือ  ภทฺทปท
+<span class="LineNumber"> 014 </span>           "		ตุลาคม                           "                   อสฺสยุช
+<span class="LineNumber"> 015 </span>           "		พฤศจิกายน                    "                   กตฺติกา
+<span class="LineNumber"> 016 </span>           "		ธันวาคม                         "                   มิคสิร
+<span class="LineNumber"> 017 </span>	พึงนำคำเปลี่ยนชื่อเดือนตามที่ต้องการใส่เข้าหน้าหน้าคำ  <B>มาสสฺส</B>  ก็สำเร็จรูป
+<span class="LineNumber"> 018 </span>ได้ตามที่ต้องประสงค์
+<span class="LineNumber"> 019 </span>	<B>หมายเลข  ๓</B>  เป็นคำบอกวันที่ของเดือนนั้น  ต้องเปลี่ยนไปตามปฏิทินให้
+<span class="LineNumber"> 020 </span>ตรงตามวันที่ที่ต้องการ  หลักเปลี่ยนจำนวนวันที่มีดังนี้
+<span class="LineNumber"> 021 </span>	วันที่         ๑      ใช้    ป€มํ            วันที่         ๑๗       ใช้     สตฺตรสมํ
+<span class="LineNumber"> 022 </span>            "           ๒       "     ทุติยํ              "              ๑๘        "      อฏฺ€ารสมํ

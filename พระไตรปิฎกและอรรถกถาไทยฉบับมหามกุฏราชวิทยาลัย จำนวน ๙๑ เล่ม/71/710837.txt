@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>รวมอปทานที่มีในวรรคนี้  คือ</H1> 
+<span class="LineNumber"> 002 </span>         ๑.  สัททสัญญิกเถราปทาน   ๒.  ยวกลาปิยเถราปทาน   ๓.   กิงสุก-
+<span class="LineNumber"> 003 </span>ปูชกเถราปทาน  ๔.  สโกฎกโกรัณฑทายกเถราปทาน    ๕.   ทัณฑทายก-
+<span class="LineNumber"> 004 </span>เถราปทาน     ๖.  อัมพยาคุทายกเถราปทาน      ๗.  ปุฏกปูชกเถราปทาน
+<span class="LineNumber"> 005 </span>๘.  วัจฉทายกเถราปทาน   ๙.  สรณาคมนิยเถราปทาน   ๑๐.   ปิณฑปาติก-
+<span class="LineNumber"> 006 </span>เถราปทาน.                                                                                
+<span class="LineNumber"> 007 </span>         และมีคาถา  ๔๐ คาถา.
+<span class="LineNumber"> 008 </span>	                         <I>จบสัททสัญญิกวรรคที่  ๓๖</I>

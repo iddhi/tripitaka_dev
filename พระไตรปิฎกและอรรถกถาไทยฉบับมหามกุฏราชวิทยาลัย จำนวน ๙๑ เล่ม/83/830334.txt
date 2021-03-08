@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>ย่อมละวิจิกิจฉานุสัย   จากที่นั้น  ใช่ไหม ?  
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ก็หรือว่า  บุคคลใด    ละวิจิกิจฉานุสัย    จากที่ใด,  บุคคลนั้น
+<span class="LineNumber"> 004 </span>ย่อมละทิฏฐานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ใช่ ฯลฯ
+<span class="LineNumber"> 006 </span>                        <I>จบ  ทิฏฐานุสยมูล  วิจิกิจฉานุสยมูลี</I> 
+<span class="LineNumber"> 007 </span>                                     <I>ทิฏฐานุสยมูล  จบ</I>
+ 
+<span class="LineNumber"> 008 </span>                                      <H1>วิจิกิจฉานุสยมูล</H1>
+<span class="LineNumber"> 009 </span><H2>วิจิกิจฉานุสยมูละ  ภวราคานุสยมูลี</H2> :-
+<span class="LineNumber"> 010 </span>         [๑๓๘๐]  บุคคลใด   ละวิจิกิจฉานุสัย   จากที่ใด,   บุคคลนั้น
+<span class="LineNumber"> 011 </span>ย่อมละภวราคานุสัย   จากที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         บุคคลที่ ๘ ละวิจิกิจฉานุสัย    เวทนา ๓ ในกามธาตุ  บุคคลที่ ๘
+<span class="LineNumber"> 013 </span>นั้น   ละวิจิกิจฉานุสัย   จากที่นั้น   แก่บุคคลที่  ๘  นั้น  ไม่ใช่ละภวรา-
+<span class="LineNumber"> 014 </span>คานุสัย  จากที่นั้น,  บุคคลนั้นนั่นแหละ  ละวิจิกิจฉานุสัย     ที่รูปธาตุ
+<span class="LineNumber"> 015 </span>อรูปธาตุ     บุคคลนั้น  ละวิจิกิจฉานุสัย  จากที่นั้น  และละภวราคานุสัย
+<span class="LineNumber"> 016 </span>อันตั้งอยู่ในที่เดียวกันกับอนุสัยนั้น   จากที่นั้น.
+<span class="LineNumber"> 017 </span>         ก็หรือว่า  บุคคลใด   ละภวราคานุสัย   จากที่ใด,  บุคคลนั้น   ละ

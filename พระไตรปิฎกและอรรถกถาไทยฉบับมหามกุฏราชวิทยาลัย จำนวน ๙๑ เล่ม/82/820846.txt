@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>มัคคสัจจมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>มัคคสัจจมูละ ทุกขสัจจมูลี</H2>
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่ามรรค,  ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.            
+<span class="LineNumber"> 005 </span>         ธรรมที่ชื่อว่าสัจจะ,  ชื่อว่าทุกขสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>                                         ฯ ล ฯ
+<span class="LineNumber"> 007 </span>                    <I>จบ มัคคสัจจมูละ ทุกขสัจจมูลี</I>
+<span class="LineNumber"> 008 </span>                                <I>มัคคสัจจมูล จบ</I>
+
+<span class="LineNumber"> 009 </span>                                  <H1>นิโรธสัจจมูล</H1>
+<span class="LineNumber"> 010 </span><H2>๑.  นิโรธสัจจมูละ สมุทยสัจจมูลี</H2>
+<span class="LineNumber"> 011 </span>                                         ฯ ล ฯ
+<span class="LineNumber"> 012 </span>         ธรรมที่ชื่อว่าสัจจะ,  ชื่อว่าสมุทยสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>                                         ฯ ล ฯ
+<span class="LineNumber"> 014 </span>                  <I>จบ  นิโรธสัจจมูละ  สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 015 </span>                                <I>นิโรธสัจจมูล  จบ</I>

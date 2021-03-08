@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๔๖]  ในเหตุปัจจัย  มี  ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>                         <I>นอุปปันนติกอุปปันนติกะ  จบ</I> 
+
+<span class="LineNumber"> 004 </span>                              <H1>๑๘. นอตีตติกอตีตติกะ</H1>
+<span class="LineNumber"> 005 </span>                                    <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                   <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 008 </span>           [๔๗] ๑.  <B>ธรรมที่ไม่ใช่อตีตธรรม  เป็นปัจจัยแก่ปัจจุปปันน-
+<span class="LineNumber"> 009 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                   ๒.  <B>ธรรมที่ไม่ใช่อนาคตธรรม     เป็นปัจจัยแก่ปัจจุป-
+<span class="LineNumber"> 011 </span>ปันนธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>                   ๓.  <B>ธรรมที่ไม่ใช่อตีตธรรม  และธรรมที่ไม่ใช่อนาคต-
+<span class="LineNumber"> 013 </span>ธรรม  เป็นปัจจัยแก่ปัจจุปปันนธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+
+<span class="LineNumber"> 014 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>           [๔๘]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ	
+<span class="LineNumber"> 016 </span>                               <I>นอตีตติกอตีตติกะ  จบ</I>

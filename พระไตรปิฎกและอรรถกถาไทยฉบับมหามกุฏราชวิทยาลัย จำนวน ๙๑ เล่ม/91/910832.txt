@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>ปัจจยวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                   <H2>อนุโลมนัย</H2>   
+<span class="LineNumber"> 003 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>อัพยากตบท</H2>
+<span class="LineNumber"> 005 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อัพยากตธรรม   ที่ไม่ใช่อสังกิลิฏฐ-
+<span class="LineNumber"> 006 </span>สังกิเลสิกธรรม   อาศัยอัพยากตธรรม   ที่เป็นอสังกิลิฏฐอสังกิเลสิก- 
+<span class="LineNumber"> 007 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>           ในเหตุปัจจัย  มี ๖ วาระ   ฯลฯ   ในอวิคตปัจจัย   มี ๖ วาระ
+<span class="LineNumber"> 009 </span>            <I>สังกิลิฏฐติกกุสลติกนสังกิลิฏฐติกนกุสลติกะ  จบ</I>
+
+<span class="LineNumber"> 010 </span>                    <H1>สวิตักกติกกุสลติกนสวิตักกติกนกุสลติกะ</H1>	
+<span class="LineNumber"> 011 </span>                      <H2>(๖. สวิตักกติกะ  ๑. กุสลติกะ)</H2>
+<span class="LineNumber"> 012 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 013 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                             <H2>กุศลบท</H2>
+<span class="LineNumber"> 016 </span>           [๘๕๖] ๑.  <B>ธรรมที่ไม่ใช่กุศล    ที่ไม่ใช่สวิตักกสวิจารธรรม
+<span class="LineNumber"> 017 </span>อาศัยกุศลธรรมที่เป็นสวิตักกสวิจารธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>มี ๓ วาระ.                      
+<span class="LineNumber"> 019 </span>                       ๔.  <B>ธรรมที่ไม่ใช่กุศลที่ไม่ใช่อวิตักกวิจารมัตตธรรม
+<span class="LineNumber"> 020 </span>อาศัยกุศลธรรมที่เป็นอวิตักกวิจารมัตตธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 021 </span>ปัจจัย  ฯลฯ</B>
+<span class="LineNumber"> 022 </span>                                                   <B>ฯลฯ</B>
+
+<span class="LineNumber"> 023 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 024 </span>           [๘๕๗]  ในเหตุปัจจัย  มี  ๑๕  วาระ  ฯลฯ

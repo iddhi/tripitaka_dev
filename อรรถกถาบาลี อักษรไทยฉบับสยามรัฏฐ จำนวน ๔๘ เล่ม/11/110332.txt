@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑   หน้า  ๓๓๒
+
+<span class="LineNumber"> 002 </span>		ตติยสมณพฺราหฺมณสุตฺตวณฺณนา          
+<span class="LineNumber"> 003 </span>	สตฺตเม  สมุทยนฺติอาทีสุ  สห  ปุพฺพกมฺเมน  อตฺตภาโว
+<span class="LineNumber"> 004 </span>โกลปุตฺติยํ วณฺณโปกฺขรตา  กลฺยาณวากฺกรณตา  ธุตคณา
+<span class="LineNumber"> 005 </span>ีวีกรณํ  จีวรธารณํ  ปริวารสมฺปตฺตีติ เอวมาทิ  ลาภสกฺการสฺส 
+<span class="LineNumber"> 006 </span>สมุทโย  นาม  ตํ  สมุทยสจฺจวเสน  นปฺปชานาติ นิโรโธ  
+<span class="LineNumber"> 007 </span>จ ปฏิปทา จ นิโรธสจฺจมคฺคสจฺจวเสเนว เวทิตพฺพา ฯ 
+<span class="LineNumber"> 008 </span>			สตฺตมํ ฯ       
+
+<span class="LineNumber"> 009 </span>			ฉวิสุตฺตวณฺณนา            
+<span class="LineNumber"> 010 </span>	อฏฺ€เม  ยสฺมา  ลาภสกฺการสิโลโก  นรกาทีสุ  นิพฺพตฺเตนฺโต  
+<span class="LineNumber"> 011 </span>สกลมฺปิ  อิมํ  อตฺตภาวํ  นาเสติ  อิธาปิ  มรณมฺปิ  มรณมตฺตมฺปิ  
+<span class="LineNumber"> 012 </span>ทุกฺขํ อาวหติ ตสฺมา ฉวึ ฉินฺทตีติอาทิ วุตฺตํ ฯ 
+<span class="LineNumber"> 013 </span>			อฏฺ€มํ ฯ           
+
+<span class="LineNumber"> 014 </span>			รชฺชุสุตฺตวณฺณนา           
+<span class="LineNumber"> 015 </span>	นวเม  วาฬีรชฺชุยาติ(๑) สุตฺตาทิมยา  รชฺชุ  มุทุกา  โหติ
+<span class="LineNumber"> 016 </span>วาฬีรชฺชุ(๒) ขราผรุสา ตสฺมา อยเมว คหิตา ฯ
+<span class="LineNumber"> 017 </span>			นวมํ ฯ             
+<span class="LineNumber"> 018 </span># ๑. ม. วาฬรชฺชุยาติ ฯ  ๒. ม. วาฬรชฺชุ ฯ

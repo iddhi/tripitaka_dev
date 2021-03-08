@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>นเหตุทุกนอาสววิปปยุตตนสาสวทุกะ</H1>  
+<span class="LineNumber"> 002 </span>                      <H1>เหตุทุกอาสววิปปยุตตสาสวทุกะ</H1>
+<span class="LineNumber"> 003 </span>     <H2>(๑.  เหตุปัจจัย  ๑๘.  อาสววิปปยุตตทุกะ)</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                   <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 006 </span>                                 <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                       <H2>อาสววิปปยุตตสาสวบท</H2> 
+<span class="LineNumber"> 008 </span>           [๑๒๗๗] ๑.  <B>อาสววิปปยุตตสาสวธรรม     ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 009 </span>อาศัยธรรมที่เป็นอาสววิปปยุตตธรรม  และไม่ใช่สาสวธรรม ที่ไม่ใช่
+<span class="LineNumber"> 010 </span>เหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                                           <B>ฯลฯ</B>
+
+<span class="LineNumber"> 012 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๑๒๗๘]  ในเหตุปัจจัย  มี ๓  วาระ ฯลฯ

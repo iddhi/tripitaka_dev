@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>อุปปัตติฏฐานะปุคคลวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>กามราคานุสยมูล</H1>
+<span class="LineNumber"> 003 </span><H2>เอกมูลกะ - กามราคานุสยมูละ  ปฏิฆานุสยมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๓๒๑]   บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย,
+<span class="LineNumber"> 005 </span>บุคคลนั้น ก็ไม่มีความนอนเนื่องอยู่ด้วยปฏิฆานุสัย   ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยปฏิฆานุสัย  บุคคล
+<span class="LineNumber"> 008 </span>นั้นก็ไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                     <I>จบ  กามราคานุสยมูละ  ปฏิฆานุสยมูลี</I>
+
+<span class="LineNumber"> 011 </span><H2>กามราคานุสยมูละ  มานานุสยมูลี</H2> :- 
+<span class="LineNumber"> 012 </span>         บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย,     บุคคลนั้น
+<span class="LineNumber"> 013 </span>ก็ไม่มีความนอนเนื่องอยู่ด้วยมานานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         พระอนาคามี  ไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย    แต่<SUP>๑</SUP>
+
+<span class='footnote'>๑.   บาลีพึงเป็น  โน  จ  โส  ฯ  ปุคคโลกาสวาระ  ซึ่งจะกล่าวข้างหน้า ก็เป็นตัวอย่าง</span>
+<span class='footnote'>ในข้อนี้  เพราะว่า  ในพระบาลีนั้น  ท่านกล่าวไว้ว่า  โน  จ  โส  ตโต  ดังนี้  เป็น</span>
+<span class='footnote'>อาทิแม้ในคำว่า  โน  จ  เต  นี้  ก็นัยนี้เหมือนกัน.</span>

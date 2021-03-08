@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>จูฬวรรคที่  ๓</H1>   
+
+<span class="LineNumber"> 002 </span>                          <H1>๑. อภิชชมานเปตวัตถุ</H1>
+
+<span class="LineNumber"> 003 </span>                <H2>ว่าด้วยเปรตเปลือยมีร่างเป็นเปรตกึ่งหนึ่ง</H2>
+
+<span class="LineNumber"> 004 </span>          โกสิยมกาอำมาตย์ของพระเจ้าพิมพิสาร  ถามเปรตตนหนึ่งว่า
+<span class="LineNumber"> 005 </span>           <B>[๑๑๑]   	ดูก่อนเปรต  ท่านเป็นผู้เปลือยกาย  มี
+<span class="LineNumber"> 006 </span>             	ร่างกายเป็นเปรตกึ่งหนึ่ง  ทัดทรงดอกไม้   ตกแต่ง
+<span class="LineNumber"> 007 </span>              	ร่างกาย    เดินไปในน้ำอันไม่ขาดสาย    ในแม่น้ำ
+<span class="LineNumber"> 008 </span>            	คงคานี้  ท่านจักไปไหน ที่อยู่ของท่านอยู่ที่ไหน.</B>
+<span class="LineNumber"> 009 </span>          เพื่อจะแสดงเนื้อความที่เปรตนั้นและโกสิยมหาอำมาตย์
+<span class="LineNumber"> 010 </span>   กล่าวแล้ว   พระสังคีติกาจารย์จึงกล่าวคาถาความว่า
+<span class="LineNumber"> 011 </span>                       	<B>เปรตนั้นกล่าวว่า      ข้าพเจ้าจักไปยังบ้าน
+<span class="LineNumber"> 012 </span>          		จุนทัฏฐิละ  อันอยู่ในระหว่างแห่งวาสภคามกับ
+<span class="LineNumber"> 013 </span>             	เมืองพาราณสี    แต่บ้านนั้นอยู่ใกล้เมืองพาราณสี 
+<span class="LineNumber"> 014 </span>               	มหาอำมาตย์อันปรากฏชื่อว่าโกลิยะเป็นเปรต
+<span class="LineNumber"> 015 </span>               	นั้นแล้ว   ได้ให้ข้าวสัตตูและคู่ผ้าสีเหลืองแก่เปรต
+<span class="LineNumber"> 016 </span>               	นั้น   เมื่อเรือหยุดเดิน   ได้ให้ข้าวสัตตูและคู่ผ้าแก่
+<span class="LineNumber"> 017 </span>               	อุบาสก    เมื่อคู่ผ้าอันโกลิยะอำมาตย์ให้ช่างกัลบก
+<span class="LineNumber"> 018 </span>               	แล้ว   ผ้านุ่งผ้าห่มก็ปรากฏแก่เปรตทันที  ภายหลัง
+<span class="LineNumber"> 019 </span>              	เปรตนั้นนุ่งห่มผ้าดีแล้ว      ทัดทรงดอกไม้ตบแต่ง</B>

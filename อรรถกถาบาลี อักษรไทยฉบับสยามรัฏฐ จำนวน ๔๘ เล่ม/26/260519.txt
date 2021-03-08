@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  26  กาลิโคธาปุตฺตภทฺทิยตฺเถรคาถาวณฺณนา  519  
+
+<span class="LineNumber"> 002 </span>		โสชฺช  ภทฺโท  สาตติโก  		อุฺฉาปตฺตาคเต  รโต  
+<span class="LineNumber"> 003 </span>		ฌายติ  อนุปาทาโน  			ปุตฺโต  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 004 </span>		ปํสุกูลี  สาตติโก  			อุฺฉาปตฺตาคเต  รโต  
+<span class="LineNumber"> 005 </span>		ฌายติ  อนุปาทาโน  			ปุตฺโต  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 006 </span>		ปิณฺฑปาตี  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 007 </span>		เตจีวรี  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 008 </span>		สปทานจารี  สาตติโก 		ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 009 </span>		เอกาสนี  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 010 </span>		ปตฺตปิณฺฑี  สาตติโก 		ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 011 </span>		ขลุปจฺฉาภตฺตี  สาตติโก 		ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 012 </span>		อารฺิโก  สาตติโก 		ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 013 </span>		รุกฺขมูลิโก  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 014 </span>		อพฺโภกาสี  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 015 </span>		โสสานิโก  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 016 </span>		ยถาสนฺถติโก  สาตติโก 		ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 017 </span>		เนสชฺชิโก  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 018 </span>		อปฺปิจฺโฉ  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 019 </span>		สนฺตุฏฺโ€  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 020 </span>		ปวิวิตฺโต  สาตติโก			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  
+<span class="LineNumber"> 021 </span>		อสํสฏฺโ€  สาตติโก 			ฯเปฯ  โคธาย  ภทฺทิโย ฯ  

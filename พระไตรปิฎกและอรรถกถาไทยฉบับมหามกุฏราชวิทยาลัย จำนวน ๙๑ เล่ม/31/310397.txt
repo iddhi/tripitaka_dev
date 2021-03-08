@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>๑๑.  เวปุลลสูตร</H1>
+
+<span class="LineNumber"> 002 </span>              <H1>เจริญธรรม  ๔ ประการเพื่อปัญญาไพบูลย์</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๖๔๐]  ...ย่อมเป็นไปเพื่อความไพบูลย์แห่งปัญญา...
+<span class="LineNumber"> 004 </span>                                    <I>จบเวปุลลสูตรที่   ๑๑</I>             
+<span class="LineNumber"> 005 </span>                                   <I>จบสัปปัญญวรรคที่  ๖</I>
+
+<span class="LineNumber"> 006 </span>                        <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 007 </span>           ๑. สคาถกสูตร       ๒.  วัสสวุตถสูตร       ๓.  ธรรมทินนสูตร
+<span class="LineNumber"> 008 </span>๔.  คิลายนสูตร     ๕.  ปฐมผลสูตร     ๖.  ทุติยผลสูตร     ๗.  ตติยผลสูตร
+<span class="LineNumber"> 009 </span>๘.  จตุตถผลสูตร   ๙.  ปฏิลาภสูตร    ๑๐.  วุฒิสูตร     ๑๑.  เวปุลลสูตร.

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>องค์ของภิกษุผู้ไม่ควรซักถามอีกนัยหนึ่ง</H1>   
+<span class="LineNumber"> 002 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์แม้อื่นอีก ๕ ไม่พึงซักถาม   องค์ 
+<span class="LineNumber"> 003 </span>๕  อะไรบ้าง   คือ :-
+<span class="LineNumber"> 004 </span>           ๑.  ไม่รู้อธิกรณ์
+<span class="LineNumber"> 005 </span>           ๒.  ไม่รู้สมุฏฐานอธิกรณ์
+<span class="LineNumber"> 006 </span>           ๓.   ไม่รู้ประโยคอธิกรณ์
+<span class="LineNumber"> 007 </span>           ๔.  ไม่รู้ความระงับอธิกรณ์
+<span class="LineNumber"> 008 </span>           ๕.  ไม่ฉลาดในการวินิจฉัยอธิกรณ์
+<span class="LineNumber"> 009 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์  ๕  นี้แล  ไม่พึงซักถาม
+
+<span class="LineNumber"> 010 </span>                                <H1>องค์ของภิกษุผู้ควรซักถาม</H1> 
+<span class="LineNumber"> 011 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  พึงซักถาม   องค์ ๕  อะไรบ้าง
+<span class="LineNumber"> 012 </span>คือ  :-
+<span class="LineNumber"> 013 </span>           ๑.  รู้อธิกรณ์                                                                
+<span class="LineNumber"> 014 </span>           ๒.  รู้สมุฏฐานอธิกรณ์
+<span class="LineNumber"> 015 </span>           ๓.  รู้ประโยคอธิกรณ์
+<span class="LineNumber"> 016 </span>           ๔.  รู้ความระงับอธิกรณ์
+<span class="LineNumber"> 017 </span>           ๕.  ฉลาดในการวินิจฉัยอธิกรณ์
+<span class="LineNumber"> 018 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  นี้แล  พึงซักถาม.
+<span class="LineNumber"> 019 </span>                                 <I>อัตตาทานวรรค  ที่  ๕  จบ</I> 

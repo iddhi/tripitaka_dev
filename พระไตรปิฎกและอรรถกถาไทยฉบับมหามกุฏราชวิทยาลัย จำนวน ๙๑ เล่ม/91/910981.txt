@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>             <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๗๐]  ในเหตุปัจจัย  ๑  มีวาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>                   <I>นสัปปัจจยทุกสัปปัจจยทุกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                          <H1>๘.  นสังขตทุกสังขตทุกะ</H1>
+<span class="LineNumber"> 005 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 006 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>           [๗๑] ๑.  <B>สังขตธรรม   อาศัยธรรมที่ไม่ใช่อสังขตธรรม  เกิด
+<span class="LineNumber"> 009 </span>ขึ้น  เพราะเหตุปัจจัย</B>  
+
+<span class="LineNumber"> 010 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๗๒]  ในเหตุปัจจัย  ๑  วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>                                <I>นสังขตทุกสังขตทุกะ  จบ</I>	

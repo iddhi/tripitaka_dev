@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค  สุภูติตฺเถรคาถาวณฺณนา  หน้า 41
+	
+<span class="LineNumber"> 002 </span>	อปฺปมาทรตํ(๑) ทิสฺวา	อุตฺตมตฺถํ คเวสกํ  
+<span class="LineNumber"> 003 </span>	ปทุมุตฺตรสมฺพุทฺโธ	อาคจฺฉิ มม สนฺติกํ ฯ  
+<span class="LineNumber"> 004 </span>	ติมฺพรูสกวณฺณาโภ (๒)	อปฺปเมยฺโย อนูปโม  
+<span class="LineNumber"> 005 </span>	รูเปนาสทิโส พุทฺโธ	อากาเส จงฺกมี ตทา ฯ  
+<span class="LineNumber"> 006 </span>	สุผุลฺโล สาลราชาว	วิชฺชูวพฺภฆนนฺตเร (๓)  
+<span class="LineNumber"> 007 </span>	าเณนาสทิโส พุทฺโธ	อากาเส จงฺกมี ตทา ฯ  
+<span class="LineNumber"> 008 </span>	สีหราชาวสมฺภีโต		คชราชาว ทปฺปิโต (๔)  
+<span class="LineNumber"> 009 </span>	อภีโต (๕) พฺยคฺฆราชาว  อากาเส จงฺกมี ตทา ฯ  
+<span class="LineNumber"> 010 </span>	สิงฺคินิกฺขสวณฺณาโภ	ขทิรงฺคารสนฺนิโภ  
+<span class="LineNumber"> 011 </span>	มณิ ยถา โชติรโส		อากาเส จงฺกมี ตทา ฯ  
+<span class="LineNumber"> 012 </span>	วิสุทฺธเกลาสนิโภ		ปุณฺณมาเยว จนฺทิมา  
+<span class="LineNumber"> 013 </span>	มชฺฌณฺหิเกว สูริโย(๖)	อากาเส จงฺกมี ตทา ฯ  
+<span class="LineNumber"> 014 </span>	ทิสฺวา นเภ จงฺกมนฺตํ	เอวํ จินฺเตสหํ ตทา  
+<span class="LineNumber"> 015 </span>	เทโว นุ โข อยํ สตฺโต	อุทาหุ มนุโช อยํ ฯ  
+<span class="LineNumber"> 016 </span>	น เม สุโต วา ทิฏฺโ€ วา	มหิยา เอทิโส นโร  
+<span class="LineNumber"> 017 </span>	อปิ มนฺตปทํ อตฺถิ		อยํ สตฺถา ภวิสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>	เอวาหํ จินฺตยิตฺวาน	สกํ จิตฺตํ ปสาทยึ  
+<span class="LineNumber"> 019 </span>	นานาปุปฺผฺจ คนฺธฺจ	สนฺนิปาเตสหํ ตทา ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. อปฺปมาเทน มํ ฯ  ๒. สี. ติมฺพรูปกฺกวณฺณาโภ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. วิชฺชูว คคนนฺตเร ฯ ๔. โปราณ. ทมฺปิโต ฯ 
+<span class="LineNumber"> 022 </span># ๕. สี. ทุราสโท ฯ  ม. ยุ. ลาสิโต ฯ 
+<span class="LineNumber"> 023 </span># ๖. สฺยา. มชฺฌนฺติเกว สุริโย ฯ ยุ. มชฺฌนฺติโก สุริโย ฯ

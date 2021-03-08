@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span><H2>จักขายตนมูละ   รูปายตนมูลี :-</H2> 
+<span class="LineNumber"> 002 </span>         [๓๔๙]   จักขายตนะเคยเกิดแก่บุคคลใดในภูมิใด,     รูปายตนะ
+<span class="LineNumber"> 003 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.                           
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   รูปายตนะเคยเกิดแก่บุคคลใดในภูมิใด,   จักขายตนะ
+<span class="LineNumber"> 006 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         บุคคลที่เกิดอยู่ในอสัญญสัตตภูมินั้น  รูปายตนะเคยเกิดแก่บุคคล 
+<span class="LineNumber"> 008 </span>เหล่านั้นในภูมินั้น  แต่จักขายตนะไม่ใช่เคยเกิดแก่บุคคลเหล่านั้นใน
+<span class="LineNumber"> 009 </span>ภูมินั้น,   ในปัญจโวการภูมินั้น   รูปายตนะเคยเกิด     และจักขายตนะก็
+<span class="LineNumber"> 010 </span>เคยเกิดแก่บุคคลเหล่านั้นในภูมินั้น.                                            
+<span class="LineNumber"> 011 </span>                          <I>จบ  จักขายตนมูละ   รูปายตนมูลี</I>
+     
+<span class="LineNumber"> 012 </span><H2>จักขายตนมูละ  มนายตนมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๓๕๐]   จักขายตนะเคยเกิดแก่บุคคลใดในภูมิใด,   มนาตยนะ 
+<span class="LineNumber"> 014 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.                                   
+<span class="LineNumber"> 016 </span>         ก็หรือว่า   มนายตนะเคยเกิดแก่บุคคลใดในภูมิใด,   จักขายตนะ
+<span class="LineNumber"> 017 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม   ?

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                   ๔.  <B>ธรรมที่ไม่ใช่อัปปฏิฆธรรม    อาศัยธรรมที่ไม่ใช่ 
+<span class="LineNumber"> 002 </span>อัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> มี  ๓  วาระ 
+<span class="LineNumber"> 003 </span>                   ๗.  <B>ธรรมที่ไม่ใช่สัปปฆธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 004 </span>สัปปฏิฆธรรม  และไม่ใช่อัปปฏิฆธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>มี ๓ วาระ
+
+<span class="LineNumber"> 006 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 007 </span>           [๗๐]  ในเหตุปัจจัย  มี ๙ วาระ ในอารัมมณปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 008 </span>           สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 009 </span>                                        <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 010 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>       	  [๗๑] ๑.  <B>ธรรมที่ไม่ใช่สัปปฏิฆธรรม   เป็นปัจจัยแก่ธรรมที่  
+<span class="LineNumber"> 013 </span>ไม่ใช่สัปปฏิฆธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 014 </span>                   ๒.  <B>ธรรมที่ไม่ใช่สัปปฏิฆธรรม   เป็นปัจจัยแก่ธรรมที่
+<span class="LineNumber"> 015 </span>ไม่ใช่อัปปฏิฆธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 016 </span>                   ๓.   <B>ธรรมที่ไม่ใช่สัปปฏิฆธรรม   เป็นปัจจัยแก่ธรรมที่
+<span class="LineNumber"> 017 </span>ไม่ใช่สัปปฏิฆธรรม   และไม่ใช่อัปปฏิฆธรรม   ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 018 </span>ปัจจัย.</B> 

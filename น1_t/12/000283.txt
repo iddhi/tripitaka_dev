@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ไม่ควรริหัดตน    ให้เป็นคนติดอยู่ในเหตุแห่งความฉิบหาย       อันมีชื่อว่า 
+<span class="LineNumber"> 002 </span>อบายมุข     เหล่านี้.
+<span class="LineNumber"> 003 </span>                                คำถามสอบความเข้าใจ 
+<span class="LineNumber"> 004 </span>	๑.   นักเรียนที่เรียนดีกลับเรียนไม่ดี     เคยมีการงานมีรายได้ดีกลับ
+<span class="LineNumber"> 005 </span>                เสียการงานขาดรายได้    เคยเป็นเศรษฐีกลับเป็นยาจก   มียศศักดิ์
+<span class="LineNumber"> 006 </span>                กลับถูกถอดยศ      ไม่เคยเป็นนักเลงก็กลายเป็นนักเลงต่าง ๆ
+<span class="LineNumber"> 007 </span>                เหล่านี้    เป็นเพราะอะไร  ?
+<span class="LineNumber"> 008 </span>	๒.   ความเป็นนักเลงหญิง   หมายความว่าอย่างไร  ?   จัดเป็นความ
+<span class="LineNumber"> 009 </span>               ฉิบหายจริงหรือ  ?    เพราะเหตุไร  ?
+<span class="LineNumber"> 010 </span> 	๓.   ถ้ามีคนพูดว่า   " อบายมุข   เป็นความเสื่อมหรือความฉิบหาย "
+<span class="LineNumber"> 011 </span>               ดังนี้      ท่านผู้เรียนคิหิปฏิบัติมาแล้ว    จะรับรอง   หรือปฏิเสธ
+<span class="LineNumber"> 012 </span>               คำนั้น  ?   เพราะเหตุไร  ?
+<span class="LineNumber"> 013 </span>	๔.    อบายมุข  ๔  ข้อ ๆ  ไหนมีโทษมากกว่าข้ออื่น ๆ  ?   เพราะ-
+<span class="LineNumber"> 014 </span>                 เหตุใด  ?  
+<span class="LineNumber"> 015 </span>	๕.    คนโง่กับคนฉลาดมองอบายมุขเห็นต่างกันอย่างไร  ?      และ
+<span class="LineNumber"> 016 </span>                เห็นแล้วมีความประพฤติปฏิบัติอย่างไร  ?    ได้ผลอย่างไร  ?
+
+<span class="LineNumber"> 017 </span>			<B>	นักเลงหญิงชั่วช้า          ชินชา
+<span class="LineNumber"> 018 </span>			ชอบดื่มเบียร์     สุรา             ค่ำเช้า
+<span class="LineNumber"> 019 </span>			การพนันไม่ลดลา                 มิตรชั่ว
+<span class="LineNumber"> 020 </span>			มีแต่จักเดินเข้า                       สู่ห้องฉิบหาย.</B>
+<span class="LineNumber"> 021 </span>										   <B>ศรี  ฯ   นคร.</B>
+	    

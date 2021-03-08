@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>วิจิกิจฉานุสยมูละ  อวิชชานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         วิจิกิจฉานุสัย  อันบุคคลละแล้ว   ในที่ใด,  อวิชชานุสัย    เป็น
+<span class="LineNumber"> 003 </span>อันบุคคลละแล้ว  ในที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่
+<span class="LineNumber"> 005 </span>         ก็หรือว่า  อวิชชานุสัย  อันบุคคลละแล้ว  ในที่ใด, วิจิกิจฉานุสัย
+<span class="LineNumber"> 006 </span>เป็นอันบุคคลละแล้ว ในที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                      <I>จบ  วิจิกิจฉานุยมูละ  วิชชานุสยมูลี</I>
+<span class="LineNumber"> 009 </span>                                 <I>วิจิกิจฉานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 010 </span>                                   <H1>ภวราคานุสยมูล</H1>
+<span class="LineNumber"> 011 </span><H2>ภวราคานุสยมูละ อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 012 </span>         [๑๕๑๒ ]  ภวราคานุสัย   อันบุคคลละแล้ว  ในที่ใด,  อวิชชา-
+<span class="LineNumber"> 013 </span>นุสัย  เป็นอันบุคคลละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า  อวิชชานุสัย   อันบุคคลละแล้ว  ในที่ใด, ภวราคานุสัย
+<span class="LineNumber"> 016 </span>เป็นอันบุคคลละแล้ว  ในที่นั้น ใช่ไหม ?

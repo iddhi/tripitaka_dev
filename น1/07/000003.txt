@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>	<B>พุทธํ  อโนมนามนฺตํ			ภควนฺตํ  อนุตฺตรํ 
+<span class="LineNumber"> 002 </span>	สสทฺธมฺมาริยสงฺฆํ			   สกฺกจฺจํ  นมิตูนหํ
+<span class="LineNumber"> 003 </span>	ตสฺเสวารหโต  สมฺมา-		      สมฺพุทฺธสฺส  สิรีมโต
+<span class="LineNumber"> 004 </span>	วจฺเฉรานิ  ปวกฺขามิ			 อุปฺปตฺติยํ  ปวตฺติยํ 
+<span class="LineNumber"> 005 </span>	อทสฺสเน  จ  สงฺเขปา		       ปุพพาเจรมติพฺพสา
+<span class="LineNumber"> 006 </span>	ตสฺมึ  ทฬฺหปฺปสาทาย		     ปุญฺาภิวฑฺนาย จ
+<span class="LineNumber"> 007 </span>	สมาหิตา  นิสาเมนฺตุ			 สาธโว  พุทฺธมามกา
+<span class="LineNumber"> 008 </span>	เอวํ  หิ  จิรกาโล  โส			  อาสนฺโน  วิย  เหสฺสติ
+<span class="LineNumber"> 009 </span>	ตโต  ปสาโท  ติฏฺเ€ยฺย		     สมฺพุทฺธคุณนิสฺสิโต
+<span class="LineNumber"> 010 </span>	อภิวฑฺเฒยฺย  ภิยฺโย  จ		      โส  สาตฺถโก  หิตาวโห
+<span class="LineNumber"> 011 </span>	ตโต  ปสาทการาปิ  			 อชฺฌตฺติกา  จ  พาหิรา
+<span class="LineNumber"> 012 </span>	ตสฺโสวาเทน สํสิทฺธา			สมฺมเทว  ปวตฺตยุนฺติ.</B>

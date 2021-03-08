@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.  ฐานสูตร   ๒.  ขฬุงคสูตร   ๓.  ตัณหาสูตร   ๔.  ววัตถ-
+<span class="LineNumber"> 003 </span>สัญญาสูตร   ๕.  ปฐมสิลายูปสูตร   ๖.  ทุติยสิลายูปสูตร  ๗.  ปฐม-
+<span class="LineNumber"> 004 </span>เวรสูตร   ๘.  ทุติยเวรสูตร   ๙.  ปฐมอาฆาตสูตร   ๑๐.  ทุติยอาฆาตสูตร
+<span class="LineNumber"> 005 </span>๑๑.  อนุปุพพนิโรธสูตร   และอรรถกถา
+<span class="LineNumber"> 006 </span>                                    <I>จบ  สัตตาวาสวรรคที่  ๓</I>

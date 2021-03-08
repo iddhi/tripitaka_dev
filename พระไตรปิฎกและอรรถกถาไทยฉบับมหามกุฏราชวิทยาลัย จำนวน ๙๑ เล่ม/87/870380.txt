@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>๒.  นอารัมมณปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           [๑๓๘๑]  <B>ปริตตธรรม  อาศัยปริตตธรรม เกิดขึ้น  เพราะ
+<span class="LineNumber"> 003 </span>นอารัมมณปัจจัย.</B> 
+<span class="LineNumber"> 004 </span>           เหมือนกับปฏิจจวาระ  มี ๕ วาระ.
+
+<span class="LineNumber"> 005 </span>                                  <H1>๓.  นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           [๑๓๘๒] ๑.  <B>ปริตตธรรม อาศัยปริตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 007 </span>นอธิปติปัจจัย.</B>
+<span class="LineNumber"> 008 </span>           คือ  ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑  ที่เป็นปริตตธรรม
+<span class="LineNumber"> 009 </span>ฯลฯ  อาศัยขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 010 </span>           ในปฏิสนธิขณะ ฯลฯ  ส่วนพวกอสัญญสัตว์ทั้งหลาย ฯลฯ.
+<span class="LineNumber"> 011 </span>           จักขาตนะ ฯลฯ  กายายตนะ  ฯลฯ.
+<span class="LineNumber"> 012 </span>           ขันธ์ทั้งหลายที่เป็นปริตตธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 013 </span>                         ๒.  <B>มหัคคตธรรม  อาศัยปริตตธรรม เกิดขึ้น  เพราะ
+<span class="LineNumber"> 014 </span>นอธิปติปัจจัย.</B>
+<span class="LineNumber"> 015 </span>           คือ  อธิปติธรรมที่เป็นมหัคคตธรรม  อาศัยหทยวัตถุ,  ขันธ์ทั้งหลาย
+<span class="LineNumber"> 016 </span>ที่เป็นมหัคคตธรรม  ซึ่งเป็นวิบาก  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 017 </span>           ในปฏิสนธิขณะ  ขันธ์ทั้งหลายที่เป็นมหัคคตธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 018 </span>                         ๓.  <B>อัปปมาณธรรม  อาศัยปริตตธรรม  เกิดขึ้น
+<span class="LineNumber"> 019 </span>เพราะนอธิปติปัจจัย.</B>
+

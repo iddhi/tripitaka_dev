@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                       <h1>๑๓.  ขีลสูตร</h1>
+
+<span class="LineNumber"> 002 </span>             		              <h2>เสาเขื่อน  ๓</h2>
+<span class="LineNumber"> 003 </span>       	[๓๒๑] สาวัตถีนิทาน.  ดูก่อนภิกษุทั้งหลาย  เสาเขื่อน  ๓  อย่างนี้  ๒
+<span class="LineNumber"> 004 </span>อย่างเป็นไฉน  ได้แก่เสาเขื่อนคือราคะ  ๑  โทสะ  ๑  โมหะ  ๑  ดูก่อนภิกษุทั้ง
+<span class="LineNumber"> 005 </span>หลาย   เสาเขื่อน  ๓  อย่างนี้แล.
+<span class="LineNumber"> 006 </span>       	[๓๒๒]   ดูก่อนภิกษุทั้งหลาย  ภิกษุควรเจริญมรรคอันประกอบ
+<span class="LineNumber"> 007 </span>ด้วยองค์  ๘  เพื่อรู้ยิ่ง  เพื่อกำหนดรู้   เพื่อความสิ้นไป  เพื่อละเสาเขื่อน  ๓
+<span class="LineNumber"> 008 </span>อย่างนี้แล  ฯลฯ  ภิกษุควรเจริญอริยมรรคอันประกอบด้วยองค์  ๘ นี้  ฯลฯ
+<span class="LineNumber"> 009 </span>                                      <I>จบขีลสูตรที่  ๑๓</I>
+
+<span class="LineNumber"> 010 </span>             	                    <h1>๑๔.   มลสูตร</h1>
+
+<span class="LineNumber"> 011 </span>        	                             <h2> มลทิน     ๓</h2>
+<span class="LineNumber"> 012 </span>	[๓๖๓]  สาวัตถีนิทาน.  ดูก่อนภิกษุทั้งหลาย  มลทิน  ๓  อย่างนี้  ๓
+<span class="LineNumber"> 013 </span>อย่างเป็นไฉน   ได้แก่มูลทิน  คือ  ราคะ  ๑   โทสะ  ๑  โมหะ  ๑    ดูก่อนภิกษุ  
+<span class="LineNumber"> 014 </span>ทั้งหลาย   มลทิน  ๓  อย่างนี้แล.                                                                    .
+<span class="LineNumber"> 015 </span>       	[๓๖๔]   ดูก่อนภิกษุทั้งหลาย  ภิกษุควรเจริญอริยมรรคอันประกอบ
+<span class="LineNumber"> 016 </span>ด้วยองค์  ๘   เพื่อรู้ยิ่ง  เพื่อกำหนดรู้  เพื่อความสิ้นไป  เพื่อละมลทิน  ๓  อย่าง
+<span class="LineNumber"> 017 </span>นี้แล ฯลฯ   ภิกษุควรเจริญอริยมรรคอันประกอบด้วยองค์  ๘  นี้  ฯลฯ
+<span class="LineNumber"> 018 </span>                                     <I>จบมลสูตรที่  ๑๔</I>

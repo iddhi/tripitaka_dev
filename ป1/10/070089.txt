@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		<B>โอ</B>  แล้วเอาเป็น <B>อาว</B>. 
+<span class="LineNumber"> 002 </span><B>จุมฺฑติ</B>	ย่อมจูบ  จุพฺ  ธาตุ ในความประกอบแห่งปาก อ ปัจจัย
+<span class="LineNumber"> 003 </span>		ติ  วิภัตติ  ลงนิคคหิตอาคมที่ <B>จุ</B>  แล้วแปลงเป็น <B>มฺ</B>
+<span class="LineNumber"> 004 </span>		เพราะมี  พ อยู่หลัง  ลบ อ ที่ พ เสีย.  
+<span class="LineNumber"> 005 </span><B>เจตยติ</B>	ย่อมจงใจ-ตั้งใจ เจตฺ ธาตุ  ณฺย  ปัจจัย  (กัตตุวาจก)
+<span class="LineNumber"> 006 </span>		ติ  วิภัตติ.
+<span class="LineNumber"> 007 </span>                                            ฉ
+<span class="LineNumber"> 008 </span><B>ฉินฺทติ</B>	ย่อมตัด ฉิทฺ  ธาตุ  ในความตัด อ  ปัจจัย  ติ วิภัตติ
+<span class="LineNumber"> 009 </span>		ลง นิคคหิตอาคม  หน้าธาตุ  แล้วแปลง  นิคคหิต เป็น
+<span class="LineNumber"> 010 </span>		<B>นฺ </B>เพราะ  <B>ท</B> อยู่เบื้องหลัง.
+<span class="LineNumber"> 011 </span><B>ฉฑฺเฑสิ</B>	ทิ้งแล้ว ฉฑฺฑ  ธาตุ  ในความทิ้ง  เณ ปัจจัย (กัตตุวาจก)
+<span class="LineNumber"> 012 </span>		อี  วิภัตติ รัสสะ <B>อี</B> เป็น <B>อิ</B> ลบ ณ เหลือไว้แต่ เอ.
+<span class="LineNumber"> 013 </span><B>ฉิชฺชึสุ</B>	ขาดแล้ว  ฉิทฺ  ธาตุ  ในความขาด  ย ปัจจัย  อุํ วิภัตติ
+<span class="LineNumber"> 014 </span>		แปลง ย  กับ <B>ทฺ</B>  ที่สุดธาตุเป็น <B>ชฺช</B>  แปลง <B>อุํ</B>  เป็น <B>อึสุ</B>.
+<span class="LineNumber"> 015 </span>                                             ข
+<span class="LineNumber"> 016 </span><B>ชคฺฆติ</B>	ย่อมซิกซี้-หัวเราะ  ชคฺฆฺ  ธาตุ ในความหัวเราะ  อ
+<span class="LineNumber"> 017 </span>		ปัจจัย  ติ วิภัตติ.
+<span class="LineNumber"> 018 </span><B>ชเนติ</B><SUP>๑</SUP>  	ย่อมให้เกิด  ชนฺ  ธาตุ  ในความเกิด  เณ  ปัจจัย
+<span class="LineNumber"> 019 </span>		(กัตตุวาจก) ติ วิภัตติ.
+
+<span class='footnote'>๑. ธาตุนี้ มักใช้ในอรรถแห่งเหตุกัตตุ คือ  มีตัวการีต  เช่น อุ. ว่า มาตา  ปุตฺตํ  ชเนติ มารดา</span>
+<span class='footnote'>ย่อมยังบุตรให้เกิด. ตณฺหา  ชเนติ  ปุริสํ  ตัณหาย่อมยังบุรุษให้เกิด.  แต่ตาม  ธาตปุทีปิกา</span>
+<span class='footnote'>กล่าวไว้เช่นนั้น.</span>

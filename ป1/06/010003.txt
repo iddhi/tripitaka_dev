@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                 ประโยคเหล่านี้  ผู้เรียนจงแปลเป็นไทย   
+<span class="LineNumber"> 002 </span>๕๑.  สตฺตานํ  อคฺโค  พุทฺโธ		๖๖.  วิสาเล  เขตฺเต  สสฺสานิ
+<span class="LineNumber"> 003 </span>๕๒.  สุนฺทโร  ธมฺโม			๖๗.  ทารุณา  โจรา 
+<span class="LineNumber"> 004 </span>๕๓.  มหนฺโต  สาวกานํ  สงโฆ 	๖๘.  ทารุเณหิ  โจเรหิ  ภยํ
+<span class="LineNumber"> 005 </span>๕๔.  อคฺคสฺส  พุทฺธสฺส  สาสนํ	๖๙.  ทีฆา  รชฺชุ
+<span class="LineNumber"> 006 </span>๕๕.  สุนฺทรสฺส  ธมฺมสฺส  วิปาโก	๗๐.  ทีฆาย รชฺชุยา  คุลํ
+<span class="LineNumber"> 007 </span>๕๖.  สุทฺธานํ  สาวกานํ  สงฺโฆ		๗๑.  นวํ  สปฺปิ
+<span class="LineNumber"> 008 </span>๕๗.  กุสโล  อาจริโย			๗๒.  นวสฺมึ  สปฺปิมฺหิ  มกฺขิกา
+<span class="LineNumber"> 009 </span>๕๘.  อาตาปิโน สิสฺสา			๗๓.  มหตี  สาลา
+<span class="LineNumber"> 010 </span>๕๙.  กุสลสฺส  อาจริยสฺส  มติ		๗๔.  มหติยํ  สาลายํ  ชนา
+<span class="LineNumber"> 011 </span>๖๐.  อาตาปินํ  สิสฺสานํ  สิกฺขา		๗๕.  ครุกํ  ธนุ
+<span class="LineNumber"> 012 </span>๖๑.  อฑฺฒํ  กุลํ					๗๖.  ครุกสฺส ธนุสฺส  ชิยํ
+<span class="LineNumber"> 013 </span>๖๒.  อฑฺฒสฺส กุลสฺส  ปุตฺโต		๗๗.  นีลานิ  ปุปฺผานิ
+<span class="LineNumber"> 014 </span>๖๓.  สุคนฺธํ ปุปฺผํ				๗๘.  นีลานํ  ปุปฺผานํ  ราสิ
+<span class="LineNumber"> 015 </span>๖๔.  สุคนเธ  ปุปฺเผ  ภมโร		๗๙.  สุกฺโก  สาลีนํ  โอทโน
+<span class="LineNumber"> 016 </span>๖๕.  วิสาลํ  เขตฺตํ				๘๐.  สุกฺกสฺส  โอทนสฺส ปาตี.
+
+<span class="LineNumber"> 017 </span>                   ประโยคเหล่านี้  ผู้เรียนจงแปลเป็นมคธ
+<span class="LineNumber"> 018 </span>๘๑.  พระพุทธเจ้า  ผู้ที่พึ่ง  		๘๒.  อานุภาพ  ของพระพุทธเจ้า
+<span class="LineNumber"> 019 </span>	ของสัตว์  ท.					 ผู้ที่พึ่ง  ของสัตว์  ท.
+							

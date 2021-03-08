@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                       <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>  
+<span class="LineNumber"> 002 </span>            ๑.  สิกขาปทสูตร   ๒.  อัสสัทธสูตร   ๓.  สัตตกัมมสูตร  ๕.  ทส-
+<span class="LineNumber"> 003 </span>กัมมสูตร    ๕.  อัฏฐังคิกสูตร    ๖.  ทสมัคคสูตร    ๗.  ปฐมปาปธัมมสูตร
+<span class="LineNumber"> 004 </span>๘.  ทุติยปาปธัมมสูตร   ๙.  ตติยปาปธัมมสูตร    ๑๐.   จตุตถปาปธัมมสูตร
+<span class="LineNumber"> 005 </span>และอรรถกถา.

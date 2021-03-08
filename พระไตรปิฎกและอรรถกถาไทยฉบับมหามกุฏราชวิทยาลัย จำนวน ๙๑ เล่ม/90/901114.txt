@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                    	<H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>		[๑๙]  ในเหตุปัจจัย  มี ๒ วาระ  ในอารัมมณปัจจัย  มี ๒ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 004 </span>            สหชาตวาระก็ดี   ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 005 </span>			           <H1>วิปากธัมมบทปัญหาวาระ</H1>
+<span class="LineNumber"> 006 </span>				           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>				        <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 008 </span>		[๒๐]  ๑.  วิปากธัมมธรรมที่เป็นกุศล  เป็นปัจจัยแก่วิปากธัมม-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นกุศล    ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                      ๒.  วิปากธัมมธรรมที่เป็นอกุศล     เป็นปัจจัยแก่วิปาก-
+<span class="LineNumber"> 011 </span>ธัมมธรรมที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                        	<H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 013 </span>		[๒๑]  ๑.  วิปากธัมมธรรมที่เป็นกุศล  เป็นปัจจัยแก่วิปากธัมม-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นกุศล  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 015 </span>                      ๒.  วิปากธัมมธรรมที่เป็นกุศล เป็นปัจจัยแก่วิปากธัมม-
+<span class="LineNumber"> 016 </span>ธรรมที่เป็นอกุศล  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 017 </span>                      ๓.  วิปากธัมมธรรมที่เป็นอกุศล     เป็นปัจจัยแก่วิปาก-
+<span class="LineNumber"> 018 </span>ธัมมธรรมที่เป็นอกุศล  ด้วยอำนาจของอารัมมณปัจจัย

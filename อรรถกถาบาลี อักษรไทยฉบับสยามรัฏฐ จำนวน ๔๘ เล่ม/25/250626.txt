@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  626
+	
+<span class="LineNumber"> 002 </span>		อชินมฺหิ นิสีทิตฺวา		สุเมโธ โลกนายโก  
+<span class="LineNumber"> 003 </span>		มม กมฺมํ ปกิตฺเตสิ	หาสยนฺโต มมํ ตทา ฯ (๑)  
+<span class="LineNumber"> 004 </span>		อิมินา ผลทาเนน		คนฺธมาเลหิ จูภยํ  
+<span class="LineNumber"> 005 </span>		ปฺจวีเส กปฺปสเต	เทวโลเก รมิสฺสติ ฯ  
+<span class="LineNumber"> 006 </span>		อนูนมนสงฺกปฺโป		วสวตฺตี ภวิสฺสติ  
+<span class="LineNumber"> 007 </span>		ฉพฺพีสติกปฺปสเต		มนุสฺสตฺตํ คมิสฺสติ ฯ  
+<span class="LineNumber"> 008 </span>		ภวิสฺสติ จกฺกวตฺตี		จาตุรนฺโต มหิทฺธิโก  
+<span class="LineNumber"> 009 </span>		เวภารํ (๒) นาม นครํ	วิสฺสกมฺเมน มาปิตํ ฯ  
+<span class="LineNumber"> 010 </span>		เหสฺสติ สพฺพโสวณฺณํ	นานารตนภูสิตํ  
+<span class="LineNumber"> 011 </span>		เอเตเนว อุปาเยน		สํสริสฺสติ โส ภเว(๓)  
+<span class="LineNumber"> 012 </span>		สพฺพตฺถ ปูชิโต(๔) หุตฺวา  เทวตฺเต อถ มานุเส  
+<span class="LineNumber"> 013 </span>		ปจฺฉิเม ภเว สมฺปตฺเต	พฺรหฺมพนฺธุ ภวิสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>		อคารา อภินิกฺขมฺม	อนคารี ภวิสฺสติ  
+<span class="LineNumber"> 015 </span>		อภิฺาปารคู (๕) หุตฺวา  นิพฺพายิสฺสตินาสโว ฯ  
+<span class="LineNumber"> 016 </span>		อิทํ วตฺวาน สมฺพุทฺโธ	สุเมโธ โลกนายโก  
+<span class="LineNumber"> 017 </span>		มม นิชฺฌายมานสฺส	ปกฺกามิ อนิลฺชเส ฯ  
+<span class="LineNumber"> 018 </span>		เตน กมฺเมน สุกเตน	เจตนาปณิธีหิ จ  
+<span class="LineNumber"> 019 </span>		ชหิตฺวา มานุสํ เทหํ	ตาวตึสมคจฺฉหํ ฯ (๖)  
+<span class="LineNumber"> 020 </span># ๑. สี. หาสยนฺโตว มํ สทา ฯ  ๒. สฺยา. เวกรํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. โยนิโย ฯ ยุ. โยนิโส ฯ  ๔. สฺยา. สุขิโต ฯ 
+<span class="LineNumber"> 022 </span># ๕. สฺยา. อวิฺตฺติปจฺจโย ฯ  ๖. สฺยา. ตุสิตํ อุปปชฺชหํ ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 22   หน้า 599
+
+<span class="LineNumber"> 002 </span>	 		อุปสีวสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	เอโก  อหนฺติ  อุปสีวสุตฺตํ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  มหนฺตโมฆนฺติ  มหนฺตํ  โอฆํ ฯ  อนิสฺสิโตติ  ธมฺมํ 
+<span class="LineNumber"> 005 </span>วา  ปุคฺคลํ  วา  อนิสฺสิโต(๑) ฯ โน วิสหามีติ น สกฺโกมิ ฯ 
+<span class="LineNumber"> 006 </span>อารมฺมณนฺติ นิสฺสยํ ฯ ยํ นิสฺสิโตติ ยํ ธมฺมํ วา ปุคฺคลํ
+<span class="LineNumber"> 007 </span>วา นิสฺสิโต ฯ  
+<span class="LineNumber"> 008 </span>	อิทานิ  ยสฺมา  โส  พฺราหฺมโณ  อากิฺจฺายตนลาภี 
+<span class="LineNumber"> 009 </span>ตฺจ  สนฺตมฺปิ  นิสฺสยํ  น  ชานาติฯ  เตนสฺส  ภควา  ตฺจ  
+<span class="LineNumber"> 010 </span>นิสฺสยํ  อุตฺตริฺจ นิยฺยานปถํ  ทสฺเสนฺโต  อากิฺจฺนฺติ
+<span class="LineNumber"> 011 </span>คาถมาห ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  เปกฺขมาโนติ  ตํ อากิฺจฺายตนสมาปตฺตึ  สโต 
+<span class="LineNumber"> 013 </span>สมาปชฺชิตฺวา  วุฏฺ€หิตฺวา  จ  อนิจฺจาทิวเสน ปสฺสมาโน ฯ  
+<span class="LineNumber"> 014 </span>นตฺถีติ  นิสฺสายาติ  ตํ  นตฺถิ  กิฺจีติ  ปวตฺตสมาปตฺตึ  อารมฺมณํ 
+<span class="LineNumber"> 015 </span>กตฺวา ฯ  ตรสฺสุ  โอฆนฺติ  ตโต  ปภุติ  ปวตฺตาย  วิปสฺสนาย 
+<span class="LineNumber"> 016 </span>ยถานุรูปํ จตุพฺพิธมฺปิ โอฆํ  ตรสฺสุ ฯ  กถาหีติ  กถํกถาหิ ฯ 
+<span class="LineNumber"> 017 </span>ตณฺหกฺขยํ  รตฺตมหาภิปสฺสาติ  (๒)  รตฺตินฺทิวํ นิพฺพานํ วิภูตํ กตฺวา
+<span class="LineNumber"> 018 </span>ปสฺส ฯ เอเตนสฺส ทิฏฺ€ธมฺมสุขวิหารํ (๓)  กเถติ ฯ  
+<span class="LineNumber"> 019 </span>	อิทานิ  กาเม  ปหายาติ  สุตฺวา  วิกฺขมฺภนวเสน  อตฺตนา  
+<span class="LineNumber"> 020 </span>ปหีนกาเม  สมฺปสฺสมาโน  สพฺเพสูติ  คาถมาห ฯ
+<span class="LineNumber"> 021 </span># ๑. ยุ. อนลฺลิโน ฯ  ๒. ม. นตฺตมหาภิปสฺสาติ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ทิฏฺ€ธมฺม... ฯ

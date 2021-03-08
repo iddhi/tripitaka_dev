@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>สังสัฏฐวาระ</H1>  
+<span class="LineNumber"> 002 </span>                                       <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                     <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๒๖๘] ๑.  <B>อรูปีธรรม  เจือกับอรูปีธรรม  เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 005 </span>ปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓ เจือกับขันธ์ ๑  ที่เป็นอรูปีธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 007 </span>           ในปฏิสนธิขณะ  ฯลฯ
+
+<span class="LineNumber"> 008 </span>                            <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 009 </span>           [๒๖๙]  ในเหตุปัจจัย  มี ๑ วาระ ฯลฯ   ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>           ปัจจนียนัยก็ดี  การนับทั้ง ๓ นัยก็ดี  สัมปยุตตวาระก็ดี    ทั้งหมดพึง
+<span class="LineNumber"> 011 </span>กระทำอย่างที่กล่าวมาแล้ว   มี ๑ วาระเท่านั้น.

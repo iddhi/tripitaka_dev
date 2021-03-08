@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>			<H2>พระอภิธรรมปิฎก  ปัฏฐาน</H2> 
+<span class="LineNumber"> 002 </span>			      <H1>อนุโลมติกทุกปัฏฐาน</H1>
+			
+<span class="LineNumber"> 003 </span>				  <H1>กุสลติกเหตุทุกะ</H1>	
+<span class="LineNumber"> 004 </span>		  <H2>(๑.  กุสลติกะ  ๑.  เหตุทุกะ)</H2>	
+<span class="LineNumber"> 005 </span>			        <H1>เหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 006 </span>				   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>				<H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๑]    ๑  เหตุธรรมที่เป็นกุศล  อาศัยเหตุธรรมที่เป็นกุศล
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>			  ๒.  เหตุธรรมที่เป็นอกุศล  อาศัยเหตุธรรมที่เป็นอกุศล
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>			  ๓.  เหตุธรรมที่เป็นอัพยากตะ  อาศัยเหตุธรรมที่เป็น
+<span class="LineNumber"> 013 </span>อัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 014 </span>			<H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๒]  ๑.  เหตุธรรมที่เป็นกุศล  อาศัยเหตุธรรมที่เป็นกุศล
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย		

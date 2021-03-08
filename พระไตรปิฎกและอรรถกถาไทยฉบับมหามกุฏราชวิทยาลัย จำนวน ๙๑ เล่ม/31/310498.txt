@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>อามกธัญยเปยยาล  ตติยวรรคที่  ๙</H1>
+
+<span class="LineNumber"> 002 </span>              	                    <H1>๑.  นัจจสูตร</H1>               
+
+<span class="LineNumber"> 003 </span>                      <H1>ว่าด้วยสัตว์ผู้เว้นจากการฟ้อนรำมีน้อย</H1>
+
+<span class="LineNumber"> 004 </span>           [๑๗๗๖]  ดูก่อนภิกษุทั้งหลาย  ฉั้นนั้นเหมือนกัน    สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 005 </span>การฟ้อนรำ    ขับร้อง    ประโคมดนตรี    และดูการเล่นอันเป็นข้าศึก   มีน้อย
+<span class="LineNumber"> 006 </span>โดยที่แท้   สัตว์ผู้ไม่งดเว้น  จากการฟ้อนรำ    ขับร้อง    ประโคมดนตรี   และดู
+<span class="LineNumber"> 007 </span>การเล่นอันเป็นข้าศึก   มีมากกว่า   ข้อนั้น    เพราะเหตุ ไร  ฯลฯ 
+<span class="LineNumber"> 008 </span>                                     <I>จบนัจจสูตรที่  ๑</I>
+
+<span class="LineNumber"> 009 </span>                                  <H1>๒. สยนสูตร</H1>
+
+<span class="LineNumber"> 010 </span>     <H1>ว่าด้วยสัตว์ผู้เว้นการนั่งนอนในที่นั่งนอนสูงใหญ่มีน้อย</H1>
+
+<span class="LineNumber"> 011 </span>           [๑๗๗๗]  ดูก่อนภิกษุทั้งหลาย   ฉันนั้นเหมือนกัน  สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 012 </span>การนั่งนอนบนที่นั่งที่นอนอันสูงใหญ่  มีน้อย   โดยที่แท้  สัตว์ผู้ไม่งดเว้นจาก
+<span class="LineNumber"> 013 </span>การนั่งนอนบนที่นั่งที่นอนอันสูงใหญ่  มีมากกว่า ฯลฯ
+<span class="LineNumber"> 014 </span>                                    <I>จบสยนสูตรที่ ๒</I>
+
+<span class="LineNumber"> 015 </span>                                 <H1>๓.  รชตสูตร</H1>
+
+<span class="LineNumber"> 016 </span>               <H1>ว่าด้วยสัตว์ผู้เว้นการรับเงินทองมีน้อย</H1>
+
+<span class="LineNumber"> 017 </span>           [๑๗๗๘]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน  สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 018 </span>การรับทองและเงิน  มีน้อย  โดยที่แท้   สัตว์ผู้ไม่งดเว้นจากการรับทองและเงิน
+<span class="LineNumber"> 019 </span>มีมากกว่า ฯลฯ
+<span class="LineNumber"> 020 </span>                                       <I>จบรชตสูตรที่  ๓</I>

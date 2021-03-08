@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>               <H2>๒๖๖.  อรรถกถามัจฉทายกเถราปทาน</H2>
+<span class="LineNumber"> 002 </span>         อปทานที่  ๖,  ๗,  ๘,  ๙,   ๑๐.   มีเนื้อความง่ายทั้งนั้นแล.
+<span class="LineNumber"> 003 </span>                    <I>จบอรรถกถาปทุมุกเขปวรรคที่  ๒๗</I>
+<span class="LineNumber"> 004 </span>                       <H1>รวมอปทานที่มีในวรรคนี้   คือ</H1>
+<span class="LineNumber"> 005 </span>         ๑.  อากาสุกขิปิยเถราปทาน   ๒.  เตลมักขิยเถราปทาน    ๓.อัฑฒ-
+<span class="LineNumber"> 006 </span>จันทิยเถราปทาน    ๔.  ทีปทายกเถราปทาน    ๕.  วิฬาลิทายกเถราปทาน
+<span class="LineNumber"> 007 </span>๖.  มัจฉทายกเถราปทาน   ๗.  ชวหังสกเถราปทาน   ๘.  สลฬปุปผิยเถรา-
+<span class="LineNumber"> 008 </span>ทาน   ๙.  อุปาคตหาสนิยเถราปทาน    ๑๐.  ตรณิยเถราปทาน.
+<span class="LineNumber"> 009 </span>      	  และในวรรคนี้นับคาถาได้ ๔๑ คาถา.
+<span class="LineNumber"> 010 </span>                              <I>จบปทุมุเขปวรรคที่  ๒๗</I>

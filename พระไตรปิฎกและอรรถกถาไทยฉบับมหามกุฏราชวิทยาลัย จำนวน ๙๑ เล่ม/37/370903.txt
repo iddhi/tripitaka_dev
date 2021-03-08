@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>๗.  ปัสสัทธิสูตร</H1>
+<span class="LineNumber"> 002 </span>         [๒๖๒]   อุ.   ดูก่อนอาวุโส   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 003 </span>ปัสสัทธิ ๆ  ดังนี้  ฯลฯ
+<span class="LineNumber"> 004 </span>                           <I>จบ  ปัสสัทธิสูตรที่  ๗</I>
+
+<span class="LineNumber"> 005 </span>                  <H1>๘.  อนุปุพพปัสสัทธิสูตร</H1>
+<span class="LineNumber"> 006 </span>         [๒๖๓]   อุ.   ดูก่อนอาวุโส   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 007 </span>อนุปุพพปัสสัทธิ  ๆ    ดังนี้  ฯลฯ
+<span class="LineNumber"> 008 </span>                       <I>จบ   อนุปุพพปัสสัทธิสูตรที่  ๘</I>
+
+<span class="LineNumber"> 009 </span>                            <H1>๙.  นิโรธสูตร</H1>
+<span class="LineNumber"> 010 </span>         [๒๖๔]  อุ.   ดูก่อนอาวุโส   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 011 </span>นิโรธ  ๆ  ดังนี้  ฯลฯ
+<span class="LineNumber"> 012 </span>                                 <I>จบ  นิโรธสูตรที่  ๙</I>
+               
+<span class="LineNumber"> 013 </span>                        <H1>๑๐.  อนุปุพพนิโรธสูตร</H1>
+<span class="LineNumber"> 014 </span>         [๒๖๕]   อุ.  ดูก่อนอาวุโส   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 015 </span>อนุปุพพนิโรธ  ๆ  ดังนี้   ดูก่อนอาวุโส  โดยปริยายเพียงไรหนอแล
+<span class="LineNumber"> 016 </span>พระผู้มีพระภาคเจ้าตรัสอนุปุพพนิโรธ.

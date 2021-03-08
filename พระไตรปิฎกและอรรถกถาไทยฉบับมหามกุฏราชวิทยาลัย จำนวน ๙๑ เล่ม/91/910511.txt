@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>อนิทัสสนสัปปฏิฆบท</H1>   
+<span class="LineNumber"> 002 </span>           [๒๕๘] ๑.  <B>ธรรมที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 003 </span>เหตุ อาศัยธรรมที่เป็นอนิทัสสนสัปปฏิฆธรรม  ที่ไม่ใช่เหตุ   เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะเหตุปัจจัย</B>  มี ๑ วาระ.
+
+<span class="LineNumber"> 005 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 006 </span>           ในเหตุปัจจัย  มี ๑ วาระ  ฯลฯ  ในอวิคตปัจจัย  มี  ๑ วาระ.
+
+<span class="LineNumber"> 007 </span>                           <H2>อนิทัสสนอัปปฏิฆบท</H2>
+<span class="LineNumber"> 008 </span>           [๒๕๙] ๑.  <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม   ที่ไม่ใช่เหตุ
+<span class="LineNumber"> 009 </span>อาศัยธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม  ที่เป็นเหตุ  เกิดขึ้น เพราะ-
+<span class="LineNumber"> 010 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม ที่ไม่ใช่เหตุ
+<span class="LineNumber"> 012 </span>อาศัยธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม    ที่ไม่ใช่เหตุ     เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                       ๓.  <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม     ที่ไม่ใช่
+<span class="LineNumber"> 015 </span>เหตุ   อาศัยธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   ที่เป็นเหตุ    และ
+<span class="LineNumber"> 016 </span>ธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรมที่ไม่ใช่เหตุ  เกิดขึ้น   เพราะเหตุ
+<span class="LineNumber"> 017 </span>ปัจจัย</B>

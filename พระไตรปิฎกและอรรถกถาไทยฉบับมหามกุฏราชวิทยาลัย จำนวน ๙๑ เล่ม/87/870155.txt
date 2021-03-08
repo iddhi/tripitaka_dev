@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>ปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                      <H1>๑.  เหตุปัจจัย</H1> 
+<span class="LineNumber"> 004 </span>           [๘๗๖] ๑.  <B>ทัสสเนนปหาตัพพเหตุกธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 005 </span>ทัสสเนนปหาตัพพเหตุกธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ   เหตุทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม   เป็นปัจจัยแก่
+<span class="LineNumber"> 007 </span>สัมปยุตตขันธ์ทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>           [๘๗๗] ๒.  <B>ทัสสเนนปหาตัพพเหตุกธรรม      เป็นปัจจัยแก่
+<span class="LineNumber"> 009 </span>เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม    ด้วยอำนาจของเหตุ-
+<span class="LineNumber"> 010 </span>ปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ   เหตุทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 012 </span>จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 013 </span>           [๘๗๘]  ๓.  <B>ทัสสเนนปหาตัพพเหตุกธรรม       เป็นปัจจัยแก่
+<span class="LineNumber"> 014 </span>ทัสสเนนปหาตัพพเหตุกธรรม และเนวทัสสเนนนภาวนายปหาตัพพ-
+<span class="LineNumber"> 015 </span>เหตุกธรรม  ด้วยอำนาจของเหตุปัจจัย</B>                                       
+<span class="LineNumber"> 016 </span>           คือ  เหตุทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 017 </span>สัมปยุตตขันธ์   และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.

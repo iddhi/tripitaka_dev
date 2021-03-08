@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>๔.  นปัจฉาชาตปัจจัย ฯลฯ  ๕. นอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           <B>เพราะนปัจฉาชาตปัจจัย    เพราะนอาเสวนปัจจัย    เหมือนกับ 
+<span class="LineNumber"> 003 </span>สหชาตปัจจัย.</B>
+
+<span class="LineNumber"> 004 </span>                                         <H1>๖.  นกัมมปัจจัย</H1> 
+<span class="LineNumber"> 005 </span>                         ๑.  <B>อัชฌัตตารัมมณธรรม   อาศัยอัชฌัตตารัมมณ-
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ    เจตนาที่เป็นอัชฌัตตารัมมณธรรม     อาศัยขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 008 </span>อัชฌัตตารัมมณธรรม.
+<span class="LineNumber"> 009 </span>           [๒๑๓๕] ๒.  <B>พหิทธารัมมณธรรม   อาศัยพหิทธารัมมณธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ เจตนาที่เป็นพหิทธารัมมณธรรม อาศัยขันธ์ทั้งหลายที่เป็นพหิทธา
+<span class="LineNumber"> 012 </span>รัมมณธรรม.
+
+<span class="LineNumber"> 013 </span>                    <H1>๗. นวิปากปัจจัย  ฯลฯ  ๑๐.  นวิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๒๑๓๖]  <B>ฯลฯ   อาศัยอัชฌัตตารัมมณธรรม ฯลฯ  เพราะน-
+<span class="LineNumber"> 015 </span>วิปากปัจจัย</B>  ปฏิสนธิไม่มี.  เพราะนฌานปัจจัย
+<span class="LineNumber"> 016 </span>           คือ ฯลฯ  อาศัยขันธ์ ๑ ที่เป็นอัชฌัตตารัมมณธรรม  ซึ่งสหรคตด้วย
+<span class="LineNumber"> 017 </span>ปัญจวิญญาณ ฯลฯ.
+<span class="LineNumber"> 018 </span>           [๒๐๓๗]  <B>ฯลฯ อาศัยพหิทธารัมมณธรรม  ฯลฯ  เพราะนฌาน-
+<span class="LineNumber"> 019 </span>ปัจจัย</B>
+<span class="LineNumber"> 020 </span>           คือ  ฯลฯ อาศัยขันธ์ ๑ ที่เป็นพหิทธารัมมณธรรม  ซึ่งสหรคตด้วย
+<span class="LineNumber"> 021 </span>ปัญจวิญญาณ ฯลฯ.

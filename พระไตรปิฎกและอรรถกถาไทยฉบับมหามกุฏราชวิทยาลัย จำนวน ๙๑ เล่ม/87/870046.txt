@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>สัมปยุตตวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                          <H1>เหตุปัจจัย</H1>   
+<span class="LineNumber"> 004 </span>           [๖๖๑]   <B>ทัสสเนนปหาตัพพธรรม      ประกอบกับทัสสเนน-
+<span class="LineNumber"> 005 </span>ปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           สมปยุตตวาระ  เหมือนกับสังสัฏฐวาระ.

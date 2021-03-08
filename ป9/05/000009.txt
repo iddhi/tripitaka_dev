@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                        <B>(โลกุตตรจิต)  บัณฑิตถือเอาในความต่าง
+<span class="LineNumber"> 002 </span>                        แห่งฌานมีปฐมฌานเป็นต้น  ฉันใด  แม้ 
+<span class="LineNumber"> 003 </span>                        อรูปฌาน  ท่านก็ถือเอาในฌานที่ ๕
+<span class="LineNumber"> 004 </span>                        ฉันนั้น) ฯ  เพราะฉะนั้น  แต่ละฌาน ๆ
+<span class="LineNumber"> 005 </span>                        มีปฐมฌานเป็นต้น  บัณฑิตจึงได้กล่าวจิต  
+<span class="LineNumber"> 006 </span>                        ไว้ฌานละ ๑๑ แต่ฌานที่สุดมีจิต  ๒๓ ฯ
+<span class="LineNumber"> 007 </span>                        กุศลจิตมี ๓๗ อนึ่ง  วิบากจิต  มี ๕๒ 
+<span class="LineNumber"> 008 </span>                        (อกุศลจิต ๑๒  กิริยาจิต  ๒๐)  ผู้รู้ทั้งหลาย
+<span class="LineNumber"> 009 </span>                        ได้กล่าวจิตไว้  ๑๒๑<SUP>๑</SUP>  ด้วยประการอย่าง
+<span class="LineNumber"> 010 </span>                        นี้แล ฯ</B>
+<span class="LineNumber"> 011 </span>                             ปริเฉทที่ ๑  ชื่อจิตตสังคหวิภาค
+<span class="LineNumber"> 012 </span>            ในปกรณ์อภิธัมมัตถสังคหะ  จบ  ด้วยประการฉะนี้ ฯ
+
+<span class='footnote'>       ๑.  จิต  ฌานละ  ๑๑  คือ  รูปฌานที่ ๑  ถึงที่ ๔ ทุกชั้น  มีกุศล ๑  วิบาก ๑  กิริยา</span>
+<span class='footnote'>มรรค ๔ ผล ๔ ฯ</span>
+<span class='footnote'>       ฌานที่สุด  ได้แก่  รูปฌานที่ ๕  และอรูปฌานทั้ง ๔ สงเคราะห์เข้าไปรูปฌานที่ ๕</span>
+<span class='footnote'>เพราะมีองค์เสมอกัน  มีจิตรวมกัน ๒๓ คือ  รูปฌานที่ ๕  มีกุศล ๑ วิบาก ๑ กิริยา ๑ อรูปฌาน</span>
+<span class='footnote'>ทั้ง ๔ มีกุศล ๔  วิบาก ๔ กิริยา ๔ รวมเป็น ๑๕ ส่วนในโลกุตตรจิต  นับรวมกันเป็นมรรค ๔</span>
+<span class='footnote'>ผล ๔ รวมเป็น ๒๓ ฯ</span>
+<span class='footnote'>       กุศลจิต ๓๗ คือ  กามาวจร ๘ รูป  ๔  โลกุตตร ๒๐ ฯ</span>
+<span class='footnote'>       วิบากจิต ๕๒ คือ  อเหตุก ๑๕  กามาวจรสเหตุก ๘ รูป ๔ อรูป ๔ โลกุตตร ๒๐ ฯ</span>
+<span class='footnote'>       จิต ๑๒๑ คือ  กุศล ๓๗  วิบาก ๕๒ รวมกับอกุศล ๑๒ กิริยา ๒๐ ฯ</span>
+<span class='footnote'>       อีกอย่างหนึ่ง นับดังนี้  อกุศล ๑๒ อเหตุก ๑๘  กามาวจรโสภณ ๑๔ รูปาวจร ๑๕</span>
+<span class='footnote'>อรูปาวจร ๑๒ โลกุตตร ๔๐ ฯ</span>
+       

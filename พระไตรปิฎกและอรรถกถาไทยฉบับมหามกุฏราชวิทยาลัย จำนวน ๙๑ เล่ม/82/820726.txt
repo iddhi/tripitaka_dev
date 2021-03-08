@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>ยตนะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น,     บุคคลที่มีจักขุเกิดได้เหล่านั้น 
+<span class="LineNumber"> 002 </span>กำลังเกิด      ธัมมายตนะจักดับ       และจักขายตนะก็กำลังเกิดแก่บุคคล 
+<span class="LineNumber"> 003 </span>เหล่านั้น.
+<span class="LineNumber"> 004 </span>                         <I>จบ   จักขายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 005 </span>                                      <I>จักขายตนมูล   จบ</I>
+
+<span class="LineNumber"> 006 </span>                                         <H1>ฆานายตนมูล</H1>
+<span class="LineNumber"> 007 </span><H2>ฆานายตนมูละ  รูปายตนะ  ฯ ล ฯ  มนายตนะ ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 008 </span>         [๗๕๒]   ฆานายตนะกำลังเกิดแก่บุคคลใด,   รูปายตนะ ฯ ล ฯ
+<span class="LineNumber"> 009 </span>มนายตนะ   ธัมมายตนะก็จักดับแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า  ธัมมายตนะจักดับแก่บุคคลใด,  ฆานายตนะก็กำลังเกิด
+<span class="LineNumber"> 012 </span>แก่บุคคลนั้น  ใช่ไหม  ?                                              
+<span class="LineNumber"> 013 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังตายก็ดี   บุคคลที่ฆานะเกิดไม่ได้
+<span class="LineNumber"> 014 </span>เหล่านั้นกำลังเกิดก็ดี   ธัมมายตนะจักดับแก่บุคคลเหล่านั้น     แต่ฆานา-

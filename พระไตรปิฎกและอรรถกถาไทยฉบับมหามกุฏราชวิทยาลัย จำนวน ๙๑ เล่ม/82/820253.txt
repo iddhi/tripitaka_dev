@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>ปัจจุปปันนานาคตวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ปุคคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                          <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 004 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๒๕๘]   รูปขันธ์ไม่ใช่กำลังเกิดแก่บุคคลใด,       เวทนาขันธ์
+<span class="LineNumber"> 006 </span>ก็ไม่ใช่จักดับแก่บุคคลนั้น  ใช่ไหม    ?                                         
+<span class="LineNumber"> 007 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังตายก็ดี       บุคคลที่กำลังเกิดใน
+<span class="LineNumber"> 008 </span>อรูปภูมิก็ดี    รูปขันธ์ไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น    แต่เวทนาขันธ์
+<span class="LineNumber"> 009 </span>จักดับแก่บุคคลเหล่านั้น,        เมื่อปรินิพพันตบุคคลกำลังปรินิพพานใน
+<span class="LineNumber"> 010 </span>จตุโวการภูมิ   ปัญจโวการภูมิ   รูปขันธ์ไม่ใช่กำลังเกิด   และเวทนาขันธ์
+<span class="LineNumber"> 011 </span>ก็ไม่ใช่จักดับแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า   เวทนาขันธ์ไม่ใช่จักดับแก่บุคคลใด,     รูปขันธ์ก็ไม่ใช่
+<span class="LineNumber"> 013 </span>กำลังเกิดแก่บุคคลเหล่านั้น   ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>                          <I>จบ   รูปขันธมูละ   เวทนาขันธมูลี</I>
+<span class="LineNumber"> 016 </span>                                        <I>รูปขันธมูล  จบ</I>

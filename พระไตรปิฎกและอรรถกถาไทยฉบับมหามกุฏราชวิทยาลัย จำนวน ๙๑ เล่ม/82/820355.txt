@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลที่จิตเกิดไม่ได้เหล่านั้นกำลังเกิด   ธัมมายตนะกำลังเกิดแก่ 
+<span class="LineNumber"> 002 </span>บุคคลเหล่านั้นในภูมินั้น  แต่มนายตนะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 003 </span>ในภูมินั้น,    บุคคลที่มีจิตเกิดได้เหล่านั้นกำลังเกิด   ธัมมายตนะกำลังเกิด
+<span class="LineNumber"> 004 </span>และนายตนะก็กำลังเกิดแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 005 </span>                          <I>จบ   มนายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 006 </span>                                       <I>มนายตนมูล  จบ</I>
+<span class="LineNumber"> 007 </span>                                   <I>ปุคคโลกาสวาระ   จบ</I>
+<span class="LineNumber"> 008 </span>                             <I>ปัจจุปปันนวาระ  อนุโลม  จบ</I>

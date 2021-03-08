@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				  	  ตัวอย่างที่  ๗
+			
+<span class="LineNumber"> 002 </span>				<B>๑.  ตํ  คณฺเหยฺย   ยทปณฺณกํ</B>
+<span class="LineNumber"> 003 </span>				สิ่งใดไม่ผิด   พึงถือเอาสิ่งนั้น ฯ
+<span class="LineNumber"> 004 </span>			<B>	๒. ขนฺตี   ปรมํ   ตโป   ตีติกฺขา</B>
+<span class="LineNumber"> 005 </span>				ขันติคือความอดทน   เป็นตบะอย่างยิ่ง ฯ
+<span class="LineNumber"> 006 </span>				<B>๓.  เตสํ   วูปสโม  สุโข</B>
+<span class="LineNumber"> 007 </span>				ความสงบระงับแห่งสังขารเป็นสุข<SUP>๑</SUP>  ฯ
+<span class="LineNumber"> 008 </span>	บัดนี้  จักอธิบายความแห่งสุภาษิตทั้ง ๓ ข้อนี้   โดยเอกเทศและ 
+<span class="LineNumber"> 009 </span>โดยอรรถสัมพันธ์        เพื่อเป็นแนวทางแห่งการศึกษาและปฏิบัติเป็น
+<span class="LineNumber"> 010 </span>ลำดับไป ฯ
+<span class="LineNumber"> 011 </span>	ธรรมดาสภาวธรรมในโลกนี้มีคู่กัน  เช่น  มีกลางวันก็มีกลาง
+<span class="LineNumber"> 012 </span>คืน   มีมือก็มีสว่าง   มีร้อนก็มีเย็น   มีเป็นก็มีตาย   มีผิดก็มีถูก  ดังนี้
+<span class="LineNumber"> 013 </span>เป็นต้น   ผู้มีปัญญาอาศัยสภาวธรรมซึ่งเป็นคู่กันนี้   คิดเทียบเคียง
+<span class="LineNumber"> 014 </span>ปรับเข้ากับธรรมสำหรับประพฤติปฏิบัติ   ส่วนผู้มีปัญญาทราม  ย่อม
+<span class="LineNumber"> 015 </span>ไม่คำนึงถึงสภาวธรรมดังกล่าวแล้ว ฯ   ความจริง   พาลกับบัณฑิต
+<span class="LineNumber"> 016 </span>ย่อมมีขันธ์   ธาตุ  อายตนะ  เท่ากับ   อาจจะได้ผ่านพบรู้เห็นสิ่งต่าง ๆ
+<span class="LineNumber"> 017 </span>ในโลกเท่า ๆ กัน  แต่บัณฑิตย่อมได้สารัตถะในสิ่งที่ตนพบเห็นเป็นต้น
+<span class="LineNumber"> 018 </span>นั้นมากกว่าพาล   หรือบัณฑิตได้รับคุณ   ส่วนพาลได้รับโทษ   ทั้งนี้
+<span class="LineNumber"> 019 </span>ย่อมเกิดจากความพินิจพิจารณารู้เท่าทันต่อสิ่งนั้น ๆ  หรือไม่รู้และถือผิด
+<span class="LineNumber"> 020 </span>หรือถูกเท่านั้น ฯ
+
+<span class='footnote'>๑.  สอบในสนามหลวง  วันที่ ๑ ธันวาคม พ.ศ. ๒๔๗๙.</span>

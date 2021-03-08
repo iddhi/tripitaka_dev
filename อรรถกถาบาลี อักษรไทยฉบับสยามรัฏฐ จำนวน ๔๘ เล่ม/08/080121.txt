@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ วนปตฺถปริยายสุตฺตวณฺณนา หน้า ๑๒๑
+		
+<span class="LineNumber"> 002 </span>	ยาวชีวนฺติ  ยาว  ชีวิตํ  วตฺตติ (๑) ตาว  วตฺถพฺพเมว (๒) ฯ  
+<span class="LineNumber"> 003 </span>	โส  ปุคฺคโลติ  ปทสฺส  นานุพนฺธิตพฺโพติ  อิมินา  สมฺพนฺโธฯ  
+<span class="LineNumber"> 004 </span>อนาปุจฺฉาติ  อิธ  ปน  ตํ  ปุคฺคลํ  อนาปุจฺฉา  ปกฺกมิตพฺพนฺติ  
+<span class="LineNumber"> 005 </span>อตฺโถฯ  
+<span class="LineNumber"> 006 </span>	สงฺขาปีติ  เอวํ  สมณธมฺมสฺส  อนิปฺผชฺชนภาวํ  ตฺวา  
+<span class="LineNumber"> 007 </span>โส  ปุคฺคโล  นานุพนฺธิตพฺโพ  ตํ  อาปุจฺฉา  ปกฺกมิตพฺพํฯ  
+<span class="LineNumber"> 008 </span>	อปิ  สมุชฺชมาเนนปีติ  (๓)  อปิ  นิกฺกฑฺฒิยมาเนนปิฯ  เอวรูโป  
+<span class="LineNumber"> 009 </span>หิ  ปุคฺคโล  สเจปิ  ทารุกลาปสตํ (๔) อุทกฆฏสตํ  วา  วาลิกมฺพนสตํ  
+<span class="LineNumber"> 010 </span>วา  ทณฺฑํ  อาหราเปติ  มา  อิธ  วสีติ  นิกฺกฑฺฒาเปติ  วา 
+<span class="LineNumber"> 011 </span>ตํ (๕)   ขมาเปตฺวา  ยาวชีวํ  วตฺถพฺพเมวาติฯ  
+<span class="LineNumber"> 012 </span>			วนปตฺถปริยายสุตฺตวณฺณนา  นิฏฺ€ิตาฯ  
+<span class="LineNumber"> 013 </span>					สตฺตมํ ฯ
+<span class="LineNumber"> 014 </span># ๑. ม. ปวตฺตติ ฯ   ๒. ม. วตฺถพฺพเมว ฯ   ๓. ม. ปนุชฺชมาเนนาปีติ ฯ
+<span class="LineNumber"> 015 </span># ๔. ม.ทารุกลาปสตํ วา ฯ   ๕. ม. ตํ ตํ ฯ

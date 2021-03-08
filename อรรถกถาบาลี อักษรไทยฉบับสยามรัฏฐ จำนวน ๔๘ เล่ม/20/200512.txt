@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  จตุกฺกนิปาตวณฺณนา  หน้า  512
+
+<span class="LineNumber"> 002 </span>อปเร  ปน  สามฺตฺถนฺติ  จตฺตาโร  อริยมคฺคา  พฺรหฺมฺตฺถนฺติ
+<span class="LineNumber"> 003 </span>จตฺตาริ  อริยผลานีติ  วทนฺติ ฯ  เสสํ  วุตฺตนยเมว ฯ  สุกฺขปกฺเข
+<span class="LineNumber"> 004 </span>วุตฺตวิปริยาเยน เวทิตพฺโพ ฯ คาถาสุ อปุพฺพํ นตฺถิ ฯ
+<span class="LineNumber"> 005 </span>		จตุตฺถสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+		
+<span class="LineNumber"> 006 </span>			สีลสมฺปนฺนสุตฺตวณฺณนา
+<span class="LineNumber"> 007 </span>	ปฺจเม  สีลสมฺปนฺนาติ  เอตฺถ  สีลํ  นาม  ขีณาสวานํ
+<span class="LineNumber"> 008 </span>โลกิยโลกุตฺตรสีลํ  เตน  สมฺปนฺนา  สมนฺนาคตาติ  
+<span class="LineNumber"> 009 </span>สีลสมฺปนฺนา ฯ  สมาธิปฺาสุปิ เอเสว  นโย ฯ  วิมุตฺติ  ปน  
+<span class="LineNumber"> 010 </span>ผลวิมุตฺติเยว  วิมุตฺติาณทสฺสนํ  ปจฺจเวกฺขณาณํ ฯ เอวเมตฺถ  
+<span class="LineNumber"> 011 </span>สีลาทโย  ตโย  โลกิยโลกุตฺตรา วิมุตฺติ โลกุตฺตราว วิมุตฺติ-
+<span class="LineNumber"> 012 </span>าณทสฺสนํ โลกิยเมว ฯ  
+<span class="LineNumber"> 013 </span>	ทิฏฺ€ธมฺมิกสมฺปรายิกปรมตฺเถหิ  ยถารหํ  ปเร  โอวทนฺติ 
+<span class="LineNumber"> 014 </span>อนุสาสนฺตีติ โอวาทกา ฯ  วิฺาปกาติ  กมฺมานิ  กมฺมผลานิ 
+<span class="LineNumber"> 015 </span>จ  วิฺาปกา  ตตฺถ  จ  อิเม ธมฺมา  กุสลา  อิเม  ธมฺมา  
+<span class="LineNumber"> 016 </span>อกุสลา  อิเม  สาวชฺชา  อิเม  อนวชฺชาติอาทินา กุสลาทิ-
+<span class="LineNumber"> 017 </span>วิภาคโต  ขนฺธาทิวิภาวโต  สลกฺขณโต  สามฺลกฺขณโตติ  ติวิเธหิ(๑)
+<span class="LineNumber"> 018 </span>นเยหิ  ธมฺมานํ  าปกา  อวโพธกา ฯ  สนฺทสฺสกาติ  เตเยว
+<span class="LineNumber"> 019 </span># ๑. ม. วิวิเธหิ ฯ

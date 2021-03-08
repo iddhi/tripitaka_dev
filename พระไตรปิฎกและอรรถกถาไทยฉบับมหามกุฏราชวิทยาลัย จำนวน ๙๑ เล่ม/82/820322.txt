@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>         ยกเว้นธัมมายตนะเสียแล้ว       ธรรมที่เหลือนอกนั้นชื่อว่าธัมมะ 
+<span class="LineNumber"> 002 </span>แต่ไม่ชื่อว่าธัมมายตนะ,    ธัมมายตนะชื่อว่าธัมมะด้วย   ชื่อว่าธัมมายตนะ
+<span class="LineNumber"> 003 </span>ด้วย.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าธัมมายตนะ,  ชื่อว่าธัมมะ  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>                               <I>ปทโสธนวาระ   อนุโลม  จบ</I>

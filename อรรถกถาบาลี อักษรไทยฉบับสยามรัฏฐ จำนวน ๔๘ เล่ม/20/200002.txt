@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 20  อารมฺภกถา  หน้า  2
+				
+<span class="LineNumber"> 002 </span>		ตสฺส คมฺภีราเณหิ	โอคาเหตพฺพภาวโต
+<span class="LineNumber"> 003 </span>		 กิฺจาปิ ทุกฺกรา กาตุํ	อตฺถสํวณฺณนา มยา ฯ
+<span class="LineNumber"> 004 </span>		 สหสํวณฺณนํ ยสฺมา	ธรเต สตฺถุ สาสนํ
+<span class="LineNumber"> 005 </span>		 ปุพฺพาจริยสีหานํ		ติฏฺ€เตว วินิจฺฉโย ฯ
+<span class="LineNumber"> 006 </span>		 ตสฺมา ตํ อวลมฺพิตฺวา	โอคาเหตฺวาน ปฺจปิ
+<span class="LineNumber"> 007 </span>		 นิกาเย อุปนิสฺสาย		โปราณฏฺ€กถานยํ ฯ
+<span class="LineNumber"> 008 </span>		 นิสฺสิตวาจนามตฺตํ(๑)	สุวิสุทฺธํ อนากุลํ
+<span class="LineNumber"> 009 </span>		 มหาวิหารวาสีนํ		นิปุณตฺถวินิจฺฉยํ ฯ
+<span class="LineNumber"> 010 </span>		 ปุนปฺปุนาคตํ อตฺถํ	วชฺชยิตฺวาน สาธุกํ
+<span class="LineNumber"> 011 </span>		 ยถาพลํ กริสฺสามิ		อิติวุตฺตกวณฺณนํ ฯ
+<span class="LineNumber"> 012 </span>		 อิติ อากงฺขมานสฺส	สทฺธมฺมสฺส จิรฏฺ€ิตึ
+<span class="LineNumber"> 013 </span>		 วิภชนฺตสฺส ตสฺสตฺถํ	นิสามยถ สาธโวติ ฯ
+<span class="LineNumber"> 014 </span>	ตตฺถ  อิติวุตฺตกํ  นาม  เอกกนิปาโต  ทุกนิปาโต  ติกนิปาโต
+<span class="LineNumber"> 015 </span>จตุกฺกนิปาโตติ  จตุนิปาตสงฺคหํ ฯ  ตมฺปิ  วินยปิฏกํ  สุตฺตนฺตปิฏกํ
+<span class="LineNumber"> 016 </span>อภิธมฺมปิฏกนฺติ ตีสุ ปิฏเกสุ  สุตฺตนฺตปิฏกปริยาปนฺนํ ฯ
+<span class="LineNumber"> 017 </span>ทีฆนิกาโย  มชฺฌิมนิกาโย  สํยุตฺตนิกาโย องฺคุตฺตรนิกาโย
+<span class="LineNumber"> 018 </span>ขุทฺทกนิกาโยติ  ปฺจสุ  นิกาเยสุ  ขุทฺทกนิกายปริยาปนฺนํ  สุตฺตํ
+<span class="LineNumber"> 019 </span>เคยฺยํ  เวยฺยากรณํ  คาถา  อุทานํ  อิติวุตฺตกํ  ชาตกํ  อพฺภุตธมฺมํ 
+<span class="LineNumber"> 020 </span>เวทลฺลนฺติ  นวสุ  สาสนงฺเคสุ อิติวุตฺตกงฺคภูตํ(๒) ฯ
+<span class="LineNumber"> 021 </span># ๑. ม. นิสฺสิตํ วาจนามคฺคํ ฯ  ๒. ม. อิติวุตฺตกงฺคภูตํ ฯ

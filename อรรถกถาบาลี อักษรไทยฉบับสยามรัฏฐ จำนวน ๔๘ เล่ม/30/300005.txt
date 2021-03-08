@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  ราโชวาทชาตกํ  หน้า  5
+
+<span class="LineNumber"> 002 </span>	[๑๕๑]	ทฬฺหํ ทฬฺหสฺส ขิปติ  	พลฺลิโก มุทุนา มุทุํ  
+<span class="LineNumber"> 003 </span>			สาธุมฺปิ สาธุนา เชติ	อสาธุมฺปิ อสาธุนา  
+<span class="LineNumber"> 004 </span>			เอตาทิโส อยํ ราชา  	มคฺคา อุยฺยาหิ สารถีติ ฯ  
+<span class="LineNumber"> 005 </span>	ตตฺถ  ทฬฺหํ  ทฬฺหสฺส  ขิปตีติ  โย  ทฬฺโห  โหติ  พลว-
+<span class="LineNumber"> 006 </span>ทฬฺเหน  ปหาเรน  วจเนน  วา  ชินิตพฺโพ  ตสฺส  ทฬฺหเมว 
+<span class="LineNumber"> 007 </span>ปหารํ วา วจนํ วา  ขิปติ  เอวํ  ทฬฺโห  ว  หุตฺวา  ตํ  
+<span class="LineNumber"> 008 </span>ชินาตีติ  ทสฺเสติ ฯ พลฺลิโกติ ตสฺส  รฺโ  นามํ ฯ  มุทุนา 
+<span class="LineNumber"> 009 </span>มุทุนฺติ  มุทุปุคฺคลํ  สยมฺปิ  มุทุ  หุตฺวา  มุทุนา  ว  อุปาเยน 
+<span class="LineNumber"> 010 </span>ชินาติ ฯ  สาธุมฺปิ  สาธุนา  เชติ  อสาธุมฺปิ  อสาธุนาติ เย 
+<span class="LineNumber"> 011 </span>สาธู สปฺปุริสา เต สยมฺปิ สาธุ หุตฺวา สาธุนา ว อุปาเยน  
+<span class="LineNumber"> 012 </span>เย  ปน  อสาธู  เต  สยมฺปิ อสาธุ หุตฺวา อสาธุนา ว 
+<span class="LineNumber"> 013 </span>อุปาเยน ขินาตีติ  ทสฺเสติ ฯ  เอตาทิโส  อยํ  ราชาติ  อยํ 
+<span class="LineNumber"> 014 </span>อมฺหากํ  โกสลราชา  สีลาจาเรน  เอวรูโป  นาม ฯ มคฺคา 
+<span class="LineNumber"> 015 </span>อุยฺยาหิ สารถีติ อตฺตโน รถํ มคฺคา  โอกฺกมาเปตฺวา (๒) อุยฺยาหิ
+<span class="LineNumber"> 016 </span>อุปฺปเถน  ยาหิ  อมฺหากํ  รฺโ  มคฺคํ  เทหีติ วทติ ฯ  
+<span class="LineNumber"> 017 </span>	อถ  นํ  พาราณสิรฺโ  สารถิ  อมฺโภ  กึ  ปน  ตยา  
+<span class="LineNumber"> 018 </span>อตฺตโน  รฺโ  คุณกถา  (๓)  กถิตาติ  วตฺวา  อามาติ  วุตฺเต
+<span class="LineNumber"> 019 </span>ยทิ  ปน เอเต  คุณาติวทสิ  อคุณา  ปน กีทิสีติ วตฺวา
+<span class="LineNumber"> 020 </span># ๑.สี. มลฺลิโกติ น  ๒. ม. อุกฺกมาเปตฺวา ฯ  ๓. สฺยา. คุณาติปิ ฯ

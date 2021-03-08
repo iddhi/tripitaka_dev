@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่าฆานะ,   ไม่ชื่อว่าฆานายตนะ   ใช่ไหม ?
+<span class="LineNumber"> 002 </span>                                            ฯ ล ฯ          
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่าธัมมะ,  ไม่ชื่อว่าธัมมายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่าอายตนะ,   ชื่อว่าจักขายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่าธัมมะ,  ไม่ชื่อว่าธัมมายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ธรรมที่ไม่ชื่อว่าอายตนะ,   ไม่ชื่อว่าโสตายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>                                            ฯ ล ฯ 
+<span class="LineNumber"> 011 </span>         ธรรมที่ไม่ชื่อว่าอายตนะ,   ชื่อว่ามนายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่. 
+<span class="LineNumber"> 013 </span>         (เมื่อผูกจักกนัยพึงเติมคำว่า   <B>อามันตา</B>   คือ  ถูกแล้วทุกบท.)
+<span class="LineNumber"> 014 </span>                        <I>ปทโสธนมูลจักกวาระ  ปัจจนิก  จบ</I>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  512
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อยฺยกสฺสาติ  มยฺหํ  ปิตุโน  สฺชยมหาราชสฺส ฯ
+<span class="LineNumber"> 003 </span>ทสฺสติ  เตติ โส ราชา ตุยฺหํ พหุํ ธนํ ทสฺสติ ฯ  
+<span class="LineNumber"> 004 </span>	ชูชโก อาห  
+<span class="LineNumber"> 005 </span>	[๑๑๖๖]อจฺเฉทนสฺส ภายามิ	ราชปุตฺต สุโณหิ เม  
+<span class="LineNumber"> 006 </span>		ราชทณฺฑาย มํ ทชฺชา	วิกฺกิเณยฺย หเนยฺย วา  
+<span class="LineNumber"> 007 </span>		ฉินฺโน(๑) ธนฺจ ทาเส จ  คาเรยฺหสฺส พฺรหฺมพนฺธุยาติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  อจฺเฉทนสฺสาติ  อจฺฉินฺทิตฺวา  คหณสฺส ฯ  
+<span class="LineNumber"> 009 </span>ราชทณฺฑาย  มํ  ทชฺชาติ  อยํ  พฺราหฺมโณ  ทารกโจโร  ทณฺฑมสฺส
+<span class="LineNumber"> 010 </span>อุปเนถาติ  เอวํ  ทณฺฑตฺถาย  มํ  อมจฺจานํ  ทเทยฺย ฯ  
+<span class="LineNumber"> 011 </span>คาเรยฺหสฺส  พฺรหฺมพนฺธุยาติ [๒] พฺราหฺมณิยา จ(๓) ครหิตพฺโพ 
+<span class="LineNumber"> 012 </span>ภวิสฺมามีติ ฯ  
+<span class="LineNumber"> 013 </span>	เวสฺสนฺตโร อาห  
+<span class="LineNumber"> 014 </span>	[๑๑๖๗]อิเม กุมาเร ทิสฺวาน	มฺชุเก ปิยภาณิเน  
+<span class="LineNumber"> 015 </span>		ธมฺเม €ิโต มหาราชา	สิวีนํ รฏฺ€วฑฺฒโน  
+<span class="LineNumber"> 016 </span>		ลทฺธา ปีติโสมนสฺสํ	พหุํ ทสฺสติ เต ธนุํ ฺติ ฯ  
+<span class="LineNumber"> 017 </span>	ชูชโก อาห  
+<span class="LineNumber"> 018 </span>	[๑๑๖๘]นาหนฺตํปิ กริสฺสามิ	ยํ มํ ตฺวํ อนุสาสสิ  
+<span class="LineNumber"> 019 </span>		ทารเกว อหํ เนสฺสํ		พฺราหฺมณิยา ปริจาริเกติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ชิโน ฯ  ๒. ม. เอตฺถนฺตเร เกวลนฺติ ทิสฺสติ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. พฺราหฺมณิยาว ฯ 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  ทุติยปลายิชาตกํ  หน้า  343
+
+<span class="LineNumber"> 002 </span>	[๓๑๐]	มา พาลิยํ วิปฺปลปิ (๑) 	น หิสฺส ตาทิสํ  
+<span class="LineNumber"> 003 </span>			วิทยฺหเส (๒) น หิ ลภเส นิเสธกํ  
+<span class="LineNumber"> 004 </span>			อาสชฺชสิ คชมิว เอกจารินํ  
+<span class="LineNumber"> 005 </span>			โย ตํ ปทา นฬมิว โปถยิสฺสตีติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  มา  พาลิยํ  วิปฺปลปีติ  มา  อตฺตโน  พาลภาวํ 
+<span class="LineNumber"> 007 </span>วิปฺปลปิ (๓) ฯ  น  หิสฺส  ตาทิสนฺติ  น  หิสฺส  ตาทิโส  อยเมว 
+<span class="LineNumber"> 008 </span>วา  ปาโ€ ฯ  ตาทิโส  อนนฺตปารํ  เม  พลวาหนนฺติ  เอวรูปํ  
+<span class="LineNumber"> 009 </span>ตกฺเกนฺโต  รชฺชํ  คเหตุํ  สมตฺโถ  นาม  น  หิ  อสฺส  น  โหตีติ  
+<span class="LineNumber"> 010 </span>อตฺโถ ฯ  วิทยฺหเสติ  ตฺวํ  หิ  เกวลํ  ราคโทสโมหมานปริฬาเหน 
+<span class="LineNumber"> 011 </span>วิทยฺหสิ  เยว ฯ  น  หิ  ลภเส  นิเสธกนฺติ  มาทิสํ  ปน  ปสยฺห  
+<span class="LineNumber"> 012 </span>อภิภวิตฺวา  นิเสธกํ  น  ตาว  ลภสิ  อชฺช  ตํ  อาคตํ  (๔)  มคฺเคเนว  
+<span class="LineNumber"> 013 </span>ปลาเปสฺสามิ ฯ  อาสชฺชสีติ  อุปคจฺฉสิ ฯ  คชมิว  เอกจารินนฺติ  
+<span class="LineNumber"> 014 </span>เอกจารินํ  มตฺตวรวารณํ  วิย ฯ  โย  ตํ  ปทา  นฬมิว  โปถยิสฺสตีติ 
+<span class="LineNumber"> 015 </span>โย  ตํ  ยถา  นาม มตฺตวรวารโณ  ปาทา  นลํ  โปเถติ 
+<span class="LineNumber"> 016 </span>สฺจุณฺณติ (๕) เอวํ  โปถยิสฺสติ ฯ  ตํ  ตฺวํ  อาสชฺชสีติ อตฺตานํ 
+<span class="LineNumber"> 017 </span>สนฺธายาห ฯ  
+<span class="LineNumber"> 018 </span>	เอวํ  ตชฺเชนฺตสฺส  ปนสฺส  กถํ  สุตฺวา  คนฺธารราชา 
+<span class="LineNumber"> 019 </span>โอโลเกนฺโต  กาฺจนปฏฺฏสทิสมหานลาตํ  ทิสฺวา  อตฺตโน
+<span class="LineNumber"> 020 </span># ๑. ม. วิลปิ ฯ  เอวมุปริปิ ฯ  ๒. ม. วิฑยุหเส ฯ  เอวมุปริปิ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. วิปฺปลปสิ ฯ  ๔. ม. อาคตมคฺเคเนว ฯ  ๕. ม. สํจุณฺเณติ ฯ

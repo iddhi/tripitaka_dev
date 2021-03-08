@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>๓. รถการีเปติวัตถุ</H1>  
+
+<span class="LineNumber"> 002 </span>            <H2>ว่าด้วยอยากอยู่กับนางเปรตในสวนนันทนวัน</H2>
+
+<span class="LineNumber"> 003 </span>            มาณพคนหนึ่งถามนางเวมานิกเปรตตนหนึ่งว่า
+<span class="LineNumber"> 004 </span>             <B>[๑๑๓]   ดูก่อนนางเทวีผู้มีอานุภาพมาก     ท่านขึ้น
+<span class="LineNumber"> 005 </span>      	สู่วิมานมีเสาอันล้วนแล้วด้วยแก้วไพฑูรย์     งาม
+<span class="LineNumber"> 006 </span>      	ผุดผ่อง  มีรูปภาพอันวิจิตรต่าง  ๆ  อยู่ในวิมานนั้น
+<span class="LineNumber"> 007 </span>     	ดุจพระจันทร์ในวันเพ็ญงามโชติช่วงในท้องฟ้า
+<span class="LineNumber"> 008 </span>     	ฉะนั้น  อนึ่ง  รัศมีของท่านมีสีดังทองคำ  ท่านมี
+<span class="LineNumber"> 009 </span>     	รูปร่างอันอุดมน่าดูน่าชมยิ่งนัก    นั่งอยู่แต่ผู้เดียว
+<span class="LineNumber"> 010 </span>     	บนบัลลังก์อันประเสริฐมีค่ามาก     สามีของท่าน
+<span class="LineNumber"> 011 </span>     	ไม่มีหรือ  ก็สระโบกขรณีของท่านเหล่านี้มีอยู่โดย
+<span class="LineNumber"> 012 </span>     	รอบ  มีกอบัวต่าง  ๆ   เป็นอันมาก   มีบัวขาวมาก
+<span class="LineNumber"> 013 </span>     	เกลือนกล่นด้วยทรายทองโดยรอบ    ในสระโบก
+<span class="LineNumber"> 014 </span>     	ขรณีนั้น    หาเปือกตมและจอกแหนมิได้   มีหงส์
+<span class="LineNumber"> 015 </span>     	น่าดูน่าชมน่ารื่นรมย์ใจเที่ยวแวะเวียนไปในน้ำ
+<span class="LineNumber"> 016 </span>     	ทุกเมื่อ     หงส์ทั้งปวงนั้นมีเสียงไพเราะพากันมา
+<span class="LineNumber"> 017 </span>      	ประชุมร่ำร้องอยู่      เสียงร่ำร้องแห่งหงส์ในสระ
+<span class="LineNumber"> 018 </span>     	โบกขรณีของท่าน   มิได้ขาดเสียง   ดุจเสียงกลอง
+<span class="LineNumber"> 019 </span>     	ท่านมียศงามรุ่งเรื่อง     ลงนั่งอยู่ในเรือ     ท่านมี
+<span class="LineNumber"> 020 </span>     	ขนตาโก่งดำดี   มีหน้ายิ้มแย้มพูดจาน่ารักใคร่   มี</B>

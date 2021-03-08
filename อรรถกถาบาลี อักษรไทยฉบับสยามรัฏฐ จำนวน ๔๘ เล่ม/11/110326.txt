@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑    หน้า  ๓๒๖
+
+<span class="LineNumber"> 002 </span>				กุมฺมสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ตติเย  มหากุมฺมกุลนฺติ  มหนฺตํ  อฏฺ€ิกจฺฉปกุลํ ฯ  อคมาสีติ  
+<span class="LineNumber"> 004 </span>อทฺธา เอตฺถ  กิฺจิ  ขาทิตพฺพํ  อตฺถิ  ตํ  มจฺฉรายนฺโต  
+<span class="LineNumber"> 005 </span>มํ  เอส  นิวาเรตีติ สฺาย อคมาสิ ฯ  ปปตายาติ  ปปตา
+<span class="LineNumber"> 006 </span>วุจฺจติ ทีฆรชฺชุกพทฺโธ (๑) โกสเก (๒) ทณฺฑกํ ปเวเสตฺวา  คหิโต
+<span class="LineNumber"> 007 </span>กณฺณิกสลฺลสณฺ€าโน  อยกณฺฑโก   ยสฺมึ  เวเคน  ปติตฺวา  กฏาเห  
+<span class="LineNumber"> 008 </span>ลคฺคมตฺเต  กณฺฑโก  นิกฺขมติ  รชฺชุโก  เอกาพทฺโธ  คจฺฉเตว ฯ 
+<span class="LineNumber"> 009 </span>โส  กุมฺโมติ  โส  วิทฺธกุมฺโม ฯ  (๓)  เยน โส กุมฺโมติ อุทกสทฺทํ 
+<span class="LineNumber"> 010 </span>สุตฺวา สาสงฺกฏฺ€านํ ภวิสฺสตีติ นิวตฺติตฺวา  เยน  โส  อตฺถกาโม  
+<span class="LineNumber"> 011 </span>กุมฺโม ฯ  นทานิ  ตฺวํ  อมฺหากนฺติ  อิทานิ  ตฺวํ อมิตฺตหตฺถํ 
+<span class="LineNumber"> 012 </span>คโต  น  อมฺหากํ  สนฺตโกติ  อตฺโถ ฯ  เอวํ  สลฺลปนฺตานํเยว  
+<span class="LineNumber"> 013 </span>จ  เนสํ นาวาย  €ิโต  ลุทฺโท  รชฺชุกํ  อากฑฺฒิตฺวา  กุมฺมํ  
+<span class="LineNumber"> 014 </span>คเหตฺวา  ยถากามํ  อกาสิ ฯ 
+<span class="LineNumber"> 015 </span>	เสสเมตฺถ อิโต อนนฺตรสุตฺเต จ อุตฺตานเมว ฯ
+<span class="LineNumber"> 016 </span>			ตติยจตุตฺถานิ ฯ       
+<span class="LineNumber"> 017 </span># ๑. สี. ทีฆรชฺชุกพทฺธ ฯ  ๒. ม. อยกนฺตโกสเก ฯ
+<span class="LineNumber"> 018 </span># ๓. สี. พิฬกุมฺโม ฯ

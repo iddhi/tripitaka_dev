@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๑๒๐
+
+<span class="LineNumber"> 002 </span>				โลกายติกสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	อฏฺ€เม  โลกายติโกติ  วิตณฺฑสตฺเถ  โลกายเต  กตปริจโย ฯ 
+<span class="LineNumber"> 004 </span>เชฏฺ€เมตํ  โลกายตนฺติ  ป€มํ  โลกายตํ ฯ  โลกายตนฺติ  จ  โลกสฺเสว
+<span class="LineNumber"> 005 </span>อายตนํ  พาลปุถุชฺชนโลกสฺส  อายตนํ  (๑)  มหนฺตคมฺภีรนฺติ  อุปติฏฺ€ํ  (๒)  
+<span class="LineNumber"> 006 </span>ปริตฺตํ ฉวทิฏฺ€ิคตํ ฯ  (๓)  เอกตฺตนฺติ  เอกสภาวํ นิจฺจภาวเมวาติ 
+<span class="LineNumber"> 007 </span>ปุจฺฉติ ฯ ปุถุตฺตนฺติ ปุริมสภาเวน  นานาสภาวํ เทวมนุสฺสาทิ-
+<span class="LineNumber"> 008 </span>ภาเวน ป€มํ หุตฺวา ปุจฺฉา น โหตีติ อุจฺเฉทํ สนฺธาย  
+<span class="LineNumber"> 009 </span>ปุจฺฉติ ฯ  เอวเมตฺถ  สพฺพมตฺถิ  สพฺพเมกตฺตนฺติ  อิมา  เทฺวปิ 
+<span class="LineNumber"> 010 </span>สสฺสตทิฏฺ€ิโย  สพฺพํ  นตฺถิ  สพฺพํ ปุถุตฺตนฺติ อิมา เทฺว 
+<span class="LineNumber"> 011 </span>อุจฺเฉททิฏฺ€ิโยติ   เวทิตพฺพา ฯ 
+<span class="LineNumber"> 012 </span>				อฏฺ€มํ ฯ                  
+
+<span class="LineNumber"> 013 </span>			อริยสาวกสุตฺตวณฺณนา           
+<span class="LineNumber"> 014 </span>	นวเม  กึ  นุ  โขติ  สํสยุปฺปตติอาการนิทสฺสนํ ฯ  (๔)  
+<span class="LineNumber"> 015 </span>สมุทยตีติ    อุปฺปชฺชติ ฯ 
+<span class="LineNumber"> 016 </span>				นวมํ ฯ                  
+<span class="LineNumber"> 017 </span># ๑. ม. อายตํ ฯ  ๒. สี. อุปฏฺ€ิตํ ฯ ม. อุปธาริตพฺพํ ฯ  ๓. สี. สาสวํ ทิฏฺ€ิคตํ ฯ
+<span class="LineNumber"> 018 </span># ม. ภาวํ ทิฏฺ€ิกตํ ฯ  ๔. ม. สงฺสยุปฺปตฺติอาการทสฺสนํ ฯ

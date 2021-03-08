@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>ฉโคจฉกทุกเหตุทุกนฉโคจฉกทุกนเหตุทุกะ</H1> 
+<span class="LineNumber"> 002 </span>         <H2>(๒๐.-๕๔. ฉโคจกทุกะ  ๑.  เหตุทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                 <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 004 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                      <H2>เหตุบท</H2>
+<span class="LineNumber"> 007 </span>           [๑๐๙๔] ๑.  <B>นเหตุธรรม  ที่ไม่ใช่สัญโญชนธรรม  อาศัยเหตุ-
+<span class="LineNumber"> 008 </span>ธรรม  ที่เป็นสัญโญชนธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 009 </span>                                     <H2>คันถทุกะ</H2>
+<span class="LineNumber"> 010 </span>                         ๑.  <B>นเหตุธรรม  ที่ไม่ใช่คันถธรรน  อาศัยเหตุธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นคันถธรรม  เกิดขึ้น  เพราะเหตุปัจจัย ฯลฯ</B>
+
+<span class="LineNumber"> 012 </span>                                       <H2>โอฆทุกะ</H2>
+<span class="LineNumber"> 013 </span>                         ๑. <B>นเหตุธรรม  ที่ไม่ใช่โอฆธรรม  อาศัยเหตุธรรม
+<span class="LineNumber"> 014 </span>ที่เป็นโอฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 015 </span>                                        <H2>โยคทุกะ</H2>
+<span class="LineNumber"> 016 </span>                         ๑. <B>นเหตุธรรม  ที่ไม่ใช่โยคธรรม   อาศัยเหตุธรรม
+<span class="LineNumber"> 017 </span>ที่เป็นโยคธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>     

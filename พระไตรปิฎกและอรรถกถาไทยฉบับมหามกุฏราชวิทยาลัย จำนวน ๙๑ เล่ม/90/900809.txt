@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>มี ๙ วาระ   ในอัญญมัญญปัจจัย  มี ๓ วาระ  ในนิสสยปัจจัย  มี ๑๓  วาระ  ใน
+<span class="LineNumber"> 002 </span>อุปนิสสยปัจจัย มี ๘ วาระ  ฯลฯ  ในอวิคตปัจจัย  มี  ๑๓  วาระ. 
+	
+<span class="LineNumber"> 003 </span>						    <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 004 </span>				<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 005 </span>		[๒๖๓]  ในนเหตุปัจจัย  มี ๑๔  วาระ  ในนอารัมมณปัจจัย มี  ๑๔  วาระ
+<span class="LineNumber"> 006 </span>ฯลฯ
+<span class="LineNumber"> 007 </span>					<H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 008 </span>		[๒๖๔]  <B>เพราะอารัมมณปัจจัย</B>  ในนเหตุปัจจัย  มี  ๕ วาระ... ฯลฯ
+<span class="LineNumber"> 009 </span>					<H2>ปัจจนียานุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>		[๒๖๕]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย  มี  ๕  วาระ...  ฯลฯ
+<span class="LineNumber"> 011 </span>		แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 012 </span>					<I>เสกขติกเหตุทุกะ  จบ</I>

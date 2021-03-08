@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>			 	    <H1>สัปปีติกบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>					   <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>			               <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 004 </span>		[๘๐๕]  ๑.  สัปปีติกธรรมที่เป็นกุศล   เป็นปัจจัยแก่สัปปีติก-
+<span class="LineNumber"> 005 </span>ธรรมที่เป็นกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                        ๒.  สัปปีติกธรรมที่เป็นอกุศล เป็นปัจจัยแก่สัปปีติก-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                        ๓.  สัปปีติกธรรมที่เป็นอัพยากตะ     เป็นปัจจัยแก่
+<span class="LineNumber"> 009 </span>สัปปีติกธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๘๐๖]  ในเหตุปัจจัย  มี ๓ วาระ     ในอารัมมณปัจจัย  มี  ๙  วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+                    
+<span class="LineNumber"> 013 </span>				      <H1>อัปปีติกบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 014 </span>                      		    <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 015 </span>                              	  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>		[๘๐๗]  ๑.  อัปปีติกธรรมที่เป็นกุศล อาศัยอัปปีติกธรรมที่เป็น
+<span class="LineNumber"> 017 </span>กุศล  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.

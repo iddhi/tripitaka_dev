@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 003 </span><H2>รูปขันธมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๒๖๕]   รูปขันธ์เคยเกิดในภูมิใด,   ฯ ล ฯ
+<span class="LineNumber"> 005 </span>                                       <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                      <I>โอกาสวาระ   จบ</I>
+<span class="LineNumber"> 007 </span>                                      <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                          <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 009 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๒๖๖]   รูปขันธ์เคยเกิดแก่บุคคลใดในภูมิใด,    เวทนาขันธ์
+<span class="LineNumber"> 011 </span>ก็จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         เมื่อปรินิพพันตบุคคลเหล่านั้นที่กำลังปรินิพพานในปัญจโวการ-
+<span class="LineNumber"> 013 </span>ภูมิก็ดี   บุคคลที่เกิดอยู่ในอสัญญสัตตภูมิก็ดี   รูปขันธ์เคยเกิดแก่บุคคล
+<span class="LineNumber"> 014 </span>เหล่านั้นในภูมินั้น    แต่เวทนาขันธ์ไม่ใช่จักดับแก่บุคคลเหล่านั้นในภูมิ
+<span class="LineNumber"> 015 </span>นั้น,  เมื่อบุคคลนอกจากนี้ที่เกิดอยู่ในปัญจโวการภูมิ      รูปขันธ์เคยเกิด
+<span class="LineNumber"> 016 </span>และเวทนาขันธ์ก็จักดับแก่บุคคลเหล่านั้นในภูมินั้น.

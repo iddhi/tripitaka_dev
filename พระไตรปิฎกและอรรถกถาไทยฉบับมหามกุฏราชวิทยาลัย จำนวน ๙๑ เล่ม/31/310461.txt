@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>อรรถกถาวาทีสูตร</H1>
+
+<span class="LineNumber"> 002 </span>           พึงทราบอธิบายใน<B>วาทีสูตรที่   ๑๐.</B>
+<span class="LineNumber"> 003 </span>           คำว่า   <B>สิลายูโป</B>   ได้แก่  เสาหิน.  คำว่า <B> โสฬสกุกฺกุโก</B>  แปลว่า
+<span class="LineNumber"> 004 </span>๑๖ ศอก.   บาลีว่า  <B>โสฬสุกุกฺกุ</B>   แปลว่า ๑๖ ศอก ก็มี.   คำว่า  <B>มีรากลึกไป
+<span class="LineNumber"> 005 </span>ข้างล่าง</B>  ความว่า  เข้าไปสู่หลุมข้างล่าง.     คำว่า  <B>ข้างบน  ๘  ศอก</B>   คือ
+<span class="LineNumber"> 006 </span>พึงสูงพ้นหลุมมา  ๘  ศอก.   คำว่า   <B>อย่างแรง</B>   ได้แก่   มีกำลัง.   คำที่เหลือใน
+<span class="LineNumber"> 007 </span>บททั้งปวง   ตื้นทั้งนั้นแล.
+<span class="LineNumber"> 008 </span>                             <I>จบอรรรถกถาวาทีสูตรที่  ๑๐</I>
+<span class="LineNumber"> 009 </span>                        <I>จบสีสปาปัณณวรรควรรณนาที่  ๔</I>
+
+<span class="LineNumber"> 010 </span>                         <H2>รวมพระสูตรที่มีในวรรคนี้คือ</H2>
+<span class="LineNumber"> 011 </span>           ๑. สีสปาสูตร  ๒. ขทิรสูตร  ๓. ทัณฑสูตร  ๔. เจลสูตร  ๕. สัตติ
+<span class="LineNumber"> 012 </span>สตสูตร    ๖.  ปาณสูตร   ๗.  ปฐมสุริยูปมสูตร    ๘.  ทุติยสุริยูปมสูตร   ๙.
+<span class="LineNumber"> 013 </span>อินทขีลสูตร   ๑๐  วาทีสูตร   และอรรถกถา.

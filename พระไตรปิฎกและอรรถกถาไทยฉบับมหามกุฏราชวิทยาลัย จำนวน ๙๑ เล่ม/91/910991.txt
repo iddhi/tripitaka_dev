@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>   
+<span class="LineNumber"> 002 </span>           [๙๕]  ในเหตุปัจจัย  มี  ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>         <I>นอาสวอาสวสัมปยุตตทุกอาสวอาสวสัมปยุตตทุกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                              <H1>๑๙.  อาสววิปปยุตตนสาสวทุกะ</H1>
+<span class="LineNumber"> 005 </span>                                   <H1>อาสววิปปยุตตสาสวทุกะ</H1>
+<span class="LineNumber"> 006 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 007 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>           [๙๖] ๑.  <B>อาสววิปปยุตตสาสวธรรม  อาศัยธรรมที่เป็นอาสว-
+<span class="LineNumber"> 010 </span>วิปปยุตตะ  แต่ไม่ใช่สาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 011 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๙๗]  ในเหตุปัจจัย  มี ๕  วาระ  ฯลฯ
+<span class="LineNumber"> 013 </span>           <I>อาสววิปปยุตตนสาสวทุกอาสววิปปยุตตสาสวทุกะ  จบ</I>	

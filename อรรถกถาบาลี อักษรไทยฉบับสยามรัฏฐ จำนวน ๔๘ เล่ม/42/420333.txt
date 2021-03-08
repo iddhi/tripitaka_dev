@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  42  ปจฺเจกพุทฺธาปทานวณฺณนา  หน้า  333
+
+<span class="LineNumber"> 002 </span>อุทานคาถมภาสิ ฯ  
+<span class="LineNumber"> 003 </span>	ตตฺถายํ  สงฺเขปตฺโถ  พหุสฺสุตนฺติ  ทุวิโธ  พหุสฺสุโต  ตีสุ  
+<span class="LineNumber"> 004 </span>ปิฏเกสุ  อตฺถโต  นิขิโล (๑)  ปริยตฺติพหุสฺสุโต  จ  มคฺคผลวิชฺชา-
+<span class="LineNumber"> 005 </span>ภิฺาปฏิเวธโก(๒)  ปฏิเวธพหุสฺสุโต  จ ฯ  อาคตาคโม  ธมฺมธโร ฯ  
+<span class="LineNumber"> 006 </span>อุฬาเรหิ  ปน  กายวจีมโนกมฺเมหิ  สมนฺนาคโต  อุฬาโร ฯ  
+<span class="LineNumber"> 007 </span>ยุตฺตปฏิภาโน  จ  มุตฺตปฏิภาโน  จ  ยุตฺตมุตฺตปฏิภาโน  จ  
+<span class="LineNumber"> 008 </span>ปฏิภานวา ฯ  ปริยตฺติปริปุจฺฉาธิคมวเสน  วา  ติวิโธ  ปฏิภานวา  
+<span class="LineNumber"> 009 </span>เวทิตพฺโพ ฯ  ยสฺส  หิ  ปริยตฺติ  ปฏิภาติ  โส  ปริยตฺติปฏิ-
+<span class="LineNumber"> 010 </span>ภานวา ฯ  ยสฺส  อตฺถฺจ  าณฺจ  ลกฺขณฺจ  €านาฏฺ€านฺจ  
+<span class="LineNumber"> 011 </span>ปริปุจฺฉนฺตสฺส  ปริปุจฺฉา  ปฏิภาติ  โส  ปริปุจฺฉาปฏิภานวา ฯ  
+<span class="LineNumber"> 012 </span>ยสฺส  มคฺคาทโย  ปฏิวิทฺธา  โหนฺติ  โส  อธิคมปฏิภานวา ฯ  
+<span class="LineNumber"> 013 </span>ตํ  เอวรูปํ  พหุสฺสุตํ  ธมฺมธรํ  ภเชถ  มิตฺตํ  อุฬารํ  ปฏิ-
+<span class="LineNumber"> 014 </span>ภานวนฺตํ ฯ  ตโต  ตสฺสานุภาเวน  อตฺตตฺถปรตฺถอุภยตฺถเภทโต  
+<span class="LineNumber"> 015 </span>วา  ทิฏฺ€ธมฺมิกสมฺปรายิกปรมตฺถเภทโต  วา  อเนกปฺปการานิ  
+<span class="LineNumber"> 016 </span>อฺาย  อตฺถานิ  ตโต  อโหสึ  นุ  โข  อหํ  อตีตมทฺธา-
+<span class="LineNumber"> 017 </span>นนฺติอาทีสุ (๓)  กงฺขาฏฺ€านิเยสุ  วีเนยฺย  กงฺขํ วิจิกิจฺฉํ วิเนตฺวา  
+<span class="LineNumber"> 018 </span>วินาเสตฺวา เอวํ กตสพฺพกิจฺโจ เอโก จเร ขคฺควิสาณ-
+<span class="LineNumber"> 019 </span>กปฺโปติ ฯ  
+<span class="LineNumber"> 020 </span>			พหุสฺสุตคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 021 </span>				______________
+<span class="LineNumber"> 022 </span># ๑ สี. นิจฺจโล ฯ  ๒ สี. มคฺคผลวิชฺชาภิฺานํ ปฏิวิทฺธตฺตา ฯ  
+<span class="LineNumber"> 023 </span># ๓ ม.มู.  ๑๒/๑๒/๑๔ ฯ  สํ. นิ. ๑๖/๖๓/๓๑ ฯ  

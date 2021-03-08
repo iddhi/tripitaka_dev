@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                          		<H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 002 </span>                                     <H2>๑. นเหตุปัจจัย</H2> 
+<span class="LineNumber"> 003 </span>		[๕๘๔]  ๑.  อนิทัสสนธรรมที่เป็นอกุศลอาศัยอนิทัสสนธรรม
+<span class="LineNumber"> 004 </span>ที่เป็นอกุศล  เกิดขึ้น  เพราะนเหตุปัจจัย
+<span class="LineNumber"> 005 </span>                	๒.  อนิทัสสนธรรมที่เป็นอัพยากตะ  อาศัยอนิทัสสน-
+<span class="LineNumber"> 006 </span>ธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะนเหตุปัจจัย
+<span class="LineNumber"> 007 </span>               	<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 008 </span>		[๕๘๕]  ในนเหตุปัจจัย มี ๒ วาระ  ในนอารัมมณปัจจัย มี ๕ วาระ
+<span class="LineNumber"> 009 </span>ในนอธิปติปัจจัย มี ๙  วาระ ฯลฯ  ในโนวิคตปัจจัย มี ๕ วาระ. 
+<span class="LineNumber"> 010 </span>		สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+                  
+<span class="LineNumber"> 011 </span>			      <H1>อนิทัสสนบทปัญหาวาระ</H1>
+<span class="LineNumber"> 012 </span>                          	  <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 013 </span>		[๕๘๖]  ๑. อนิทัสสนธรรมที่เป็นกุศล  เป็นปัจจัยแก่อนิทัสสน-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นกุศล  ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ                
+<span class="LineNumber"> 015 </span>                        ๔.  อนิทัสสนธรรมที่เป็นอกุศล   เป็นปัจจัยแก่อนิ-
+<span class="LineNumber"> 016 </span>ทัสสนธรรมที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ. 

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>            <B>โจทก์ว่า    ไม่มีประโยชน์อะไรที่จะพูดกับท่านผู้โง่
+<span class="LineNumber"> 002 </span>            ไม่ฉลาด,  แม้ท่านก็สมควรที่จะพูดกับผมหรือ ?  นี้
+<span class="LineNumber"> 003 </span>            เป็นบุรุษโทษข้อที่  ๒.  
+<span class="LineNumber"> 004 </span>                    ข้อต่อไป  ภิกษุทั้งหลายโจทภิกษุด้วยอาบัติ. 
+<span class="LineNumber"> 005 </span>            ภิกษุนั้นถูกภิกษุทั้งหลายโจทด้วยอาบัติ      ก็ปรับ 
+<span class="LineNumber"> 006 </span>            อาบัติโจทก์ว่า   แม้ท่านก็ต้องอาบัติข้อนี้  ท่านจงทำ
+<span class="LineNumber"> 007 </span>            คืนก่อน.   นี้เป็นบุรุษโทษข้อที่  ๓. 
+<span class="LineNumber"> 008 </span>                    ข้อต่อไป  ภิกษุ  ฯลฯ พูดกลบเกลื่อน  พูด
+<span class="LineNumber"> 009 </span>            นอกเรื่อง    ทำความโกรธโทละและความไม่พอใจ
+<span class="LineNumber"> 010 </span>            ให้ปรากฏ.  นี้เป็นบุรุษโทษข้อที่  ๔.
+<span class="LineNumber"> 011 </span>                    ข้อต่อไป    ภิกษุ  ฯลฯ    พูดแกว่งแขนใน
+<span class="LineNumber"> 012 </span>            ท่ามกลางสงฆ์.  นี้เป็นบุรุษโทษข้อที่  ๕.
+<span class="LineNumber"> 013 </span>                     ข้อต่อไป  ภิกษุ    ฯลฯ   ไม่เชื่อสงฆ์ไม่เชื่อ
+<span class="LineNumber"> 014 </span>            โจทก์เดินหลีกออกไปเสีย.         นี้เป็นบุรุษโทษ
+<span class="LineNumber"> 015 </span>                      ข้อต่อไป  ภิกษุ ฯลฯ  คิดว่า  เราไม่ได้ต้อง 
+<span class="LineNumber"> 016 </span>            อาบัติ,    เราไม่ได้ต้องอาบัติก็หามิได้   แล้วนิ่งเสีย
+<span class="LineNumber"> 017 </span>            ทำให้สงฆ์ลำบาก.  นี้เป็นบุรุษโทษข้อที่  ๗.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๗   หน้า  ๒๓๔
+		
+<span class="LineNumber"> 002 </span>				อนงฺคณสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	เอวมฺเม  สุตํ  ฯ เปฯ   อายสฺมา  สาริปุตฺโตติ  อนงฺคณสุตฺตํฯ  
+<span class="LineNumber"> 004 </span>	ตตฺรายํ  อนุตฺตานปทวณฺณนา  ยถา  เจตฺถฯ  เอวํ  
+<span class="LineNumber"> 005 </span>สพฺพสุตฺเตสุฯ  ตสฺมา   อิโต  ปรํ เอตฺตกํปิ อวตฺวา อปุพฺพปท-
+<span class="LineNumber"> 006 </span>วณฺณนํเยว กริสฺสาม ฯ 
+<span class="LineNumber"> 007 </span>	จตฺตาโรติ  คณนปริจฺเฉโทฯ  ปุคฺคลาติ  สตฺตา  นรา  
+<span class="LineNumber"> 008 </span>โปสาฯ  เอตฺตาวตา  จ   ปุคฺคลวาที  มหาเถโรติ  น  คเหตพฺพํฯ  
+<span class="LineNumber"> 009 </span>อยฺหิ  อายสฺมา  พุทฺธปุตฺตานํ  เสฏฺโ€ฯ  โส พุทฺธสฺส ภควโต 
+<span class="LineNumber"> 010 </span>เทสนํ อวิโลเมนฺโตเยว เทเสติฯ  
+<span class="LineNumber"> 011 </span>	พุทฺธสฺส  ภควโต  ทุวิธา  เทสนา  สมฺมติเทสนา(๑)  ปรมตฺถ-
+<span class="LineNumber"> 012 </span>เทสนา  (๒) จาติฯ  ตตฺถ  ปุคฺคโล  สตฺโต  อิตฺถี  ปุริโส  ขตฺติโย  
+<span class="LineNumber"> 013 </span>พฺราหฺมโณ  เทโว  มาโรติ  เอวรูปา สมฺมติเทสนาฯ  อนิจฺจํ  
+<span class="LineNumber"> 014 </span>ทุกฺขํ  อนตฺตา  ขนฺธา  ธาตู  อายตนา  (๓)  สติปฏฺ€านาติ เอวรูปา 
+<span class="LineNumber"> 015 </span>ปรมตฺถเทสนาฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  ภควา  เย  สมฺมติวเสน  เทสนํ  สุตฺวา  อตฺถํ  
+<span class="LineNumber"> 017 </span>ปฏิวิชฺฌิตฺวา  โมหํ  ปหาย  วิเสสมธิคนฺตุํ สมตฺถาฯ  เตสํ  
+<span class="LineNumber"> 018 </span>สมฺมติเทสนํ  เทเสติฯ  เย  ปน ปรมตฺถวเสน   เทสนํ  สุตฺวา  
+<span class="LineNumber"> 019 </span>อตฺถํ  ปฏิวิชฺฌิตฺวา  โมหํ  ปหาย  วิเสสมธิคนฺตุํ สมตฺถาฯ  เตสํ 
+<span class="LineNumber"> 020 </span>ปรมตฺถเทสนํ เทเสติ ฯ
+<span class="LineNumber"> 021 </span># ๑. ม. สมฺมุติ... ฯ เอวมุปริปิ ฯ  ๒. ยุ. สมฺมุติปรมตฺถเทสนา ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. อายตนานิ ฯ

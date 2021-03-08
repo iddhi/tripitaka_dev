@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>นสนิทัสสนติกนอุปปันนติกะ</H1>   
+<span class="LineNumber"> 002 </span>      <H2>(๒๒.  นสนิทัสสนติกะ  ๑๗.  นอุปปันนติกะ)</H2>
+<span class="LineNumber"> 003 </span>                           <H2>อุปปันนบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๔๔๓] ๑.   <B>ฯลฯ   อาศัยธรรมที่ไม่ใช่นอุปปันนธรรม ที่ไม่ใช่
+<span class="LineNumber"> 007 </span>สนิทัสสนสัปปฏิฆธรรม   ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                         <H2>อุปปาทิบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 009 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>                                    <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 011 </span>                       ๑.  <B>ฯลฯ    อาศัยธรรมที่ไม่ใช่อุปปาทิธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 012 </span>สนิทัสสนสัปปฏิฆธรรม  ฯลฯ</B>
+<span class="LineNumber"> 013 </span>                       <I>นสนิทัสสนติกนอุปปันนติกะ  จบ</I>
+
+<span class="LineNumber"> 014 </span>                               <H1>นสนิทัสสนติกนอตีตติกะ</H1>	
+<span class="LineNumber"> 015 </span>        <H2>(๒๒.  นสนิทัสสนติกะ  ๑๘.  นอตีตติกะ)</H2>
+<span class="LineNumber"> 016 </span>                               <H2>อตีตบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 017 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 018 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 019 </span>           [๔๔๔]  ๑.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่อตีตธรรม   ที่ไม่ใช่สนิ-
+<span class="LineNumber"> 020 </span>ทัสสนสัปปฏิฆธรรม   ฯลฯ</B>	

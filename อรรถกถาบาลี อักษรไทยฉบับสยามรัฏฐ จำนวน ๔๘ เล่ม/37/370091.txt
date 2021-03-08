@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 91
+
+<span class="LineNumber"> 002 </span>		สเจ หิ โส อิสฺสโร สพฺพโลเก  
+<span class="LineNumber"> 003 </span>		พฺรหฺมาปหู ภูตปตี ปชานํ  
+<span class="LineNumber"> 004 </span>		กึ สพฺพโลกํ วิทหิ อลกฺขึ  
+<span class="LineNumber"> 005 </span>		กึ สพฺพโลกํ น สุขํ อกาสิ  
+<span class="LineNumber"> 006 </span>		สเจ หิ โส อิสฺสโร สพฺพโลเก  
+<span class="LineNumber"> 007 </span>		พฺรหฺมาปหู ภูตปตี ปชานํ  
+<span class="LineNumber"> 008 </span>		มายา มุสาวชฺชมเทน จาปิ  
+<span class="LineNumber"> 009 </span>		โลกํ อธมฺเมน กิมตฺถการี(๑)  
+<span class="LineNumber"> 010 </span>		สเจ หิ โส อิสฺสโร สพฺพโลเก  
+<span class="LineNumber"> 011 </span>		พฺรหฺมาปหู ภูตปตี ปชานํ  
+<span class="LineNumber"> 012 </span>		อธมฺมิโก ภูตปตี อริฏฺ€  
+<span class="LineNumber"> 013 </span>		ธมฺเม สตี(๒) โย วิทหี อธมฺมํ  
+<span class="LineNumber"> 014 </span>		กีฏา ปฏงฺคา อุรคา จ เภงฺคา(๓)  
+<span class="LineNumber"> 015 </span>		หนฺตฺวา กิมิ(๔) สุชฺฌติ มกฺขิกา จ  
+<span class="LineNumber"> 016 </span>		เอเต(๕) หิ(๖) ธมฺมา อนริยรูปา  
+<span class="LineNumber"> 017 </span>		กมฺโพชกานํ วิตถา พหูนนฺติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  เวทชฺฌคตาริฏฺ€าติ  อริฏฺ€  อิทานิ  เวทาธิคมานิ(๗)
+<span class="LineNumber"> 019 </span>นาม  ธีรานํ  ปราชยสํขาโต  กลิคฺคาโห มคานํ พาลานํ
+<span class="LineNumber"> 020 </span># ๑. ม. กิมตฺถมาการิ ฯ  ๒. ม. สติ ฯ ๓. ม. เภกา ฯ 
+<span class="LineNumber"> 021 </span># ๔. ส. กิมึ ฯ  ม. กิมี ฯ ๕. ม. เอเตปิ ฯ ๖. ม.หิสทฺโท นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. เวทาธิคมนานิ ฯ 

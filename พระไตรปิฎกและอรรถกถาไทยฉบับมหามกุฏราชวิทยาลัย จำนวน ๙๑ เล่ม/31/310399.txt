@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๔.  คัมภีรปัญญสูตร</H1>  
+
+<span class="LineNumber"> 002 </span>                <H1>เจริญธรรม   ๔   ประการเพื่อมีปัญญาลึกซึ้ง</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๖๔๔]  ... ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญาลึกซึ้ง ...
+<span class="LineNumber"> 004 </span>                                     <I>จบคัมภีรปัญญสูตรที่  ๔</I>
+
+<span class="LineNumber"> 005 </span>                              <H1>๕.  อัปปมัตตปัญญสูตร</H1>
+
+<span class="LineNumber"> 006 </span>         <H1>เจริญธรรม  ๔  ประการเพื่อมีปัญญาหาประมาณมิได้</H1>
+
+<span class="LineNumber"> 007 </span>           [๑๖๔๕]  ... ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญาประมาณมิได้ ...
+<span class="LineNumber"> 008 </span>                                    <I>จบอัปปมัตตปัญญสูตรที่ ๕</I>
+
+<span class="LineNumber"> 009 </span>                                   <H1>๖.   ภูริปัญญสูตร</H1>
+
+<span class="LineNumber"> 010 </span>          <H1>เจริญธรรม   ๔   ประการเพื่อมีปัญญาดังแผ่นดิน</H1>
+
+<span class="LineNumber"> 011 </span>           [๑๖๔๖]  ... ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญาเพียงดังแผ่นดิน ...
+<span class="LineNumber"> 012 </span>                                       <I>จบภูริปัญญสูตรที่   ๖</I>

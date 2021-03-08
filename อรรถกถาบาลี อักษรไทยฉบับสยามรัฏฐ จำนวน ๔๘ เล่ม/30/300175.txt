@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  175
+
+<span class="LineNumber"> 002 </span>				ตสฺสทฺทานํ
+<span class="LineNumber"> 003 </span>			ธนุคฺคห  กุ  อปฺปรโส
+<span class="LineNumber"> 004 </span>			คิริทตฺต  มนาวิลจิตฺตวรํ
+<span class="LineNumber"> 005 </span>			ทธิวาหน  ชมฺพุก  สีหนโข
+<span class="LineNumber"> 006 </span>			หริตเยว  นาควเรน  ทส (๑) ฯ
+<span class="LineNumber"> 007 </span># ๑. ม. 	อสทิสฺจ สงฺคามํ		วาโลทกํ คิริทตฺตํ ฯ
+<span class="LineNumber"> 008 </span>		นภิรติ ทธิวาหํ		จตุมฏฺ€ํ สีหโกฏฺ€ํ ฯ
+<span class="LineNumber"> 009 </span>				สีหจมฺมํ  สีลานิสํสํ ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>ความเจริญด้วยธรรม  ชื่อว่า   <B>ธรรมวุฒิ.</B>
+<span class="LineNumber"> 002 </span>                                              จบอรรถกถาสูตรที่  ๙
+
+<span class="LineNumber"> 003 </span>                                                             <H3>อรรถกถาสูตรที่ ๑๐</H3>
+
+<span class="LineNumber"> 004 </span>         ใน<B>สูตรที่ ๑๐</B>  (ข้อ ๔๐๕)  อามิสที่ทำให้เกิดความยินดี   ชื่อว่า
+<span class="LineNumber"> 005 </span><B>อามิสรัตนะ</B>  ธรรม  ชื่อว่า   <B>ธรรมรัตนะ.</B>
+<span class="LineNumber"> 006 </span>                                               จบอรรถกถาสูตรที่  ๑๐
+
+<span class="LineNumber"> 007 </span>                                                                <H3>อรรถกถาสูตรที่ ๑๑</H3>
+
+<span class="LineNumber"> 008 </span>         ใน<B>สูตรที่  ๑๑</B>    (ข้อ ๔๐๖)    การสะสมเพิ่มพูนอามิส    ชื่อว่า
+<span class="LineNumber"> 009 </span><B>อามิสสันนิจยะ</B>  การสะสมเพิ่มพูนธรรม  ชื่อว่า   <B>ธรรมสันนิจยะ.</B>
+<span class="LineNumber"> 010 </span>                                                  จบอรรถกถาสูตรที่  ๑๑
+
+<span class="LineNumber"> 011 </span>                                                               <H3>อรรถกถาสูตรที่  ๑๒</H3>
+
+<span class="LineNumber"> 012 </span>         ใน<B>สูตรที่   ๑๒</B>    (ข้อ  ๔๐๗)    ความไพบูลย์แห่งอามิส    ชื่อว่า
+<span class="LineNumber"> 013 </span><B>อามิสเวปุลละ</B>   ความไพบูลย์แห่งธรรม  ชื่อว่า  <B>ธรรมเวปุลละ</B>  แล.
+<span class="LineNumber"> 014 </span>                                                   จบอรรถกถาสูตรที่  ๑๒
+<span class="LineNumber"> 015 </span>                                                       <I>จบสันถารวรรคที่ ๔</I>

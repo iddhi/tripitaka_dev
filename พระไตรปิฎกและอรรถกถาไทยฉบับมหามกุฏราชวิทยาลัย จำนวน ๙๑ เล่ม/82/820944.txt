@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>ปัจจุปปันนวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 004 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๙๒๔]   ทุกขสัจจะไม่ใช่กำลังดับแก่บุคคลใด,       สมุทยสัจจะ
+<span class="LineNumber"> 006 </span>ก็ไม่ใช่กำลังดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า     สมุทยสัจจะไม่ใช่กำลังดับแก่บุคคลใด      ทุกขสัจจะ
+<span class="LineNumber"> 009 </span>ก็ไม่ใช่กำลังดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังตายก็ดี  ในภังคขณะแห่งตัณหา
+<span class="LineNumber"> 011 </span>วิปปยุตตจิตในปวัตติกาลก็ดี  สมุทยสัจจะไม่ใช่กำลังดับแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 012 </span>แต่ทุกขสัจจะกำลังดับแก่บุคคลเหล่านั้น        เมื่อบุคคลเหล่านั้นทั้งหมด
+<span class="LineNumber"> 013 </span>กำลังเกิดก็ดี   ในอุปปาทขณะแห่งจิตในปวัตติกาลก็ดี   ในภังคขณะแห่ง
+<span class="LineNumber"> 014 </span>มัคคจิตและผลจิตในอรูปภูมิก็ดี      สมุทยสัจจะไม่ใช่กำลังดับ        และ
+<span class="LineNumber"> 015 </span>ทุกขสัจจะก็ไม่ใช่กำลังดับแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 016 </span>                          <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจมูลี</I>

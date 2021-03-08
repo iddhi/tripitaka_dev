@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 251
+
+<span class="LineNumber"> 002 </span>สีลวิวาโท อุปฺปนฺโน  อตฺถิ ฯ  ฉินฺทชฺชาติ  อมฺหากํ  ตํ  กงฺขํ 
+<span class="LineNumber"> 003 </span>ตานิ  วิจิกิจฺฉิตานิ  วชิเรน  สิเนรุํ ปหรนฺโต วิย สกฺโก
+<span class="LineNumber"> 004 </span>อชฺช ฉินฺท ฯ วิตเรมูติ วิตเรยฺยาม ฯ  
+<span class="LineNumber"> 005 </span>	อถ  ปณฺฑิโต  เตสํ  วจนํ  สุตฺวา  มหาราช  ตุมฺหากํ  สีลํ  
+<span class="LineNumber"> 006 </span>นิสฺสาย  อุปฺปนฺนา  วิวาทกถา  กถํ  ทุกฺกถิตํ  สุกถิตํ  วา 
+<span class="LineNumber"> 007 </span>ชานิสฺสามีติ  วตฺวา อิมํ คาถมาห  
+<span class="LineNumber"> 008 </span>		เย ปณฺฑิตา อตฺถทสฺสา ภวนฺติ  
+<span class="LineNumber"> 009 </span>		ภาสนฺติ เต โยนิโส ตตฺถ กาเล  
+<span class="LineNumber"> 010 </span>		กถนฺนุ กถานํ อภาสิตานํ  
+<span class="LineNumber"> 011 </span>		อตฺถํ นเยยฺยุํ กุสลา ชนินฺทาติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อตฺถทสฺสาติ  อตฺถทสฺสนสมตฺถา ฯ  ตตฺถ  กาเลติ 
+<span class="LineNumber"> 013 </span>ตสฺมึ  วิคฺคเห  อาโรจิเต  ยุตฺตปตฺตกาเล  ปณฺฑิตา  ตมตฺถํ  
+<span class="LineNumber"> 014 </span>อาจิกฺขนฺตา  โยนิโส  ภาสนฺติ ฯ  อตฺถํ  นเยยฺยุํ  กุสลาติ  กุสลา  
+<span class="LineNumber"> 015 </span>เฉกาปิ  สมานา  อภาสิตานํ  กถานํ  กถํ  นุ  อตฺถํ  าเณน  
+<span class="LineNumber"> 016 </span>นเยยฺยุํ  อุปปริกฺเขยฺยุํ ฯ  ชนินฺทาติ ราชาโน อาลปติ ฯ ตสฺมา
+<span class="LineNumber"> 017 </span>อิทนฺตาว เม วเทถ ฯ  
+<span class="LineNumber"> 018 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 019 </span># ๑. ม. เอตฺถนฺตเร จสทฺโท อตฺถิ ฯ ๒. ม. กถํ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. มหาราชาโน ฯ  ๔. ม. อุปฺปนฺนํ วิวาทกถํ สุกถิตทุกฺกถิตํ ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. เอตฺถนฺตเร เตติ ทิสฺสติ ฯ 

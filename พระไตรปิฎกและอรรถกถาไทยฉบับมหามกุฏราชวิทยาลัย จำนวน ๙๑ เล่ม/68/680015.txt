@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         จริงอยู่      เนื้อความดังต่อไปนี้มาในพระอภิธรรมปิฎกท่านแสดง
+<span class="LineNumber"> 002 </span>จำแนกไว้โดยนัยเป็นต้นว่า :-
+<span class="LineNumber"> 003 </span>                     ความรู้แตกฉานในทุกข์   ชื่อว่า  <B>อรรถปฏิ-
+<span class="LineNumber"> 004 </span>         สัมภิทา,</B>  ความรู้แตกฉานในทุกขสมุทัย  ชื่อว่า 
+<span class="LineNumber"> 005 </span>         <B>ธรรมปฏิสัมภิทา,</B>  ความรู้แตกฉานในทุกขนิโรธ
+<span class="LineNumber"> 006 </span>         ชื่อว่า  <B>อรรถปฏิสัมภิทา,</B> ความรู้แตกฉานในทุกข-
+<span class="LineNumber"> 007 </span>         นิโรขคามินีปฏิปทา  ชื่อว่า   <B>ธรรมปฏิสัมภิทา,</B>  ความ
+<span class="LineNumber"> 008 </span>         รู้แตกฉานในเหตุ  ชื่อว่า  <B>ธรรมปฏิสัมภิทา,</B> ความรู้
+<span class="LineNumber"> 009 </span>         แตกฉานในผลอันเกิดแต่เหตุ  ชื่อว่า  <B>อรรถปฏิ-
+<span class="LineNumber"> 010 </span>         สัมภิทา.</B> 
+<span class="LineNumber"> 011 </span>                     ธรรมเหล่าใด  เกิดแล้ว   มาแล้ว  เกิดพร้อม
+<span class="LineNumber"> 012 </span>         แล้ว  บังเกิดแล้ว  บังเกิดเฉพาะแล้ว   ปรากฏแล้ว,
+<span class="LineNumber"> 013 </span>         ความรู้แตกฉานในธรรมเหล่านี้    ชื่อว่า   <B>อรรถปฏิ-
+<span class="LineNumber"> 014 </span>         สัมภิทา,</B>    ธรรมเหล่านั้น  เกิดแล้ว    มีแล้ว     เกิด
+<span class="LineNumber"> 015 </span>         พร้อมแล้ว  บังเกิดแล้ว  บังเกิดเฉพาะแล้ว  ปรากฏ
+<span class="LineNumber"> 016 </span>         แล้ว     จากธรรมเหล่าใด   ความรู้แตกฉานในธรรม
+<span class="LineNumber"> 017 </span>         เหล่านั้น   ชื่อว่า  <B>ธรรมปฏิสัมภิทา.</B>

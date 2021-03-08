@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>๑๕.  นฌานปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ เพราะนฌานปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           คือ  ปัญจวิญญาณ ฯลฯ  พาหิรรูป ฯลฯ   ส่วนอสัญญสัตว์ทั้งหลาย
+<span class="LineNumber"> 004 </span>ฯลฯ.
+
+<span class="LineNumber"> 005 </span>                                         <H1>๑๖.  นมัคคปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           <B>ฯลฯ เพราะนมัคคปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ   ขันธ์ ๓ และจิตตสมุฏฐานรูป อาศัยขันธ์ ๑ ที่เป็นเนวทัสสเนน-
+<span class="LineNumber"> 008 </span>นภาวนายปหาตัพพธรรม   ซึ่งเป็นอเหตุกะ ฯลฯ.
+<span class="LineNumber"> 009 </span>           ในอเหตุกปฏิสนธิขณะ ฯลฯ อาศัยมหาภูตรูป ๑ ฯลฯ ส่วนอสัญญสัตว์
+<span class="LineNumber"> 010 </span>ทั้งหลาย ฯลฯ.
+
+<span class="LineNumber"> 011 </span>                                       <H1>๑๗.  นสัมปยุตตปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           <B>ฯลฯ  เพราะนวิปปยุตตปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                                       <H1>๑๘.  นวิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           <B>ฯลฯ  เพราะนวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ    ในอรูปภูมิ    ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 016 </span>ธรรม ฯลฯ.
+<span class="LineNumber"> 017 </span>           ในอรูปภูมิขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นภาวนายปหาตัพพธรรม ฯลฯ.

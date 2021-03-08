@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>ต้องอาบัติหนักในฝ่ายวินัยเป็นต้น</H2>  
+<span class="LineNumber"> 002 </span>                             [๑,๒๔๘]  <B>ถามว่า   อาบัติหนักใน
+<span class="LineNumber"> 003 </span>                   ฝ่ายวินัยเป็นไปทางกายและวาจา    ตรัสไว้
+<span class="LineNumber"> 004 </span>                   เท่าไร  ธัญรสในเวลาวิกาลมีเท่าไร   สมมติ
+<span class="LineNumber"> 005 </span>                   ด้วยญัตติจตุตถกรรมวาจามีเท่าไร
+<span class="LineNumber"> 006 </span>                             ตอบว่า   อาบัติหนักในฝ่ายวินัยเป็น
+<span class="LineNumber"> 007 </span>                   ไปทางกายและวาจาตรัสไว้ ๒    ธัญรสใน
+<span class="LineNumber"> 008 </span>                   เวลาวิกาลมีอย่างเดียว  สมมติด้วยญัตติจตุต-
+<span class="LineNumber"> 009 </span>                   ถกรรมวาจามีอย่างเดียว.</B>
+
+<span class="LineNumber"> 010 </span>                      <H2>อาบัติปาราชิกทางกายเป็นต้น</H2>
+<span class="LineNumber"> 011 </span>                             [๑,๒๔๙]  <B>ถามว่า อาบัติปาราชิกทาง
+<span class="LineNumber"> 012 </span>                   กายมีเท่าไร    ภูมิของภิกษุผู้มีสังวาสเท่าไร
+<span class="LineNumber"> 013 </span>                   รัตติเฉทของภิกษุกี่พวก  และพระบัญญัติ
+<span class="LineNumber"> 014 </span>                   เรื่องสองนิ้วมีเท่าไร
+<span class="LineNumber"> 015 </span>                             ตอบว่า  อาบัติปาราชิกทางกายมี  ๒
+<span class="LineNumber"> 016 </span>                   ภูมิของภิกษุผู้มีสังวาสมี  ๒  รัตติเฉทของภิกษุ
+<span class="LineNumber"> 017 </span>                   ๒ พวก  และพระบัญญัติเรื่องสองนิ้วมี  ๒.</B>
+
+<span class="LineNumber"> 018 </span>                 <H2>ต้องอาบัติเพราะทำร้ายตัวเองเป็นต้น</H2>
+<span class="LineNumber"> 019 </span>                             [๑,๒๕๐]  <B>ถามว่า    เพราะทำร้ายตัว
+<span class="LineNumber"> 020 </span>                   เอง  ต้องอาบัติเท่าไร   สงฆ์แตกกัน  ด้วย</B>

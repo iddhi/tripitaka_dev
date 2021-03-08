@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 171
+
+<span class="LineNumber"> 002 </span>วิวฏสีหปฺชเร  มหาตเล  นิสินฺโน  อมจฺจคณปริวุโต  วิสุทฺธํ  
+<span class="LineNumber"> 003 </span>คคณตลํ  อภิลงฺฆมานํ  จนฺทมณฺฑลํ  ทิสฺวา  อโห  รมณียา  
+<span class="LineNumber"> 004 </span>วต  โภ  โทสินารตฺติ กาย นุขฺวชฺช(๑) รติยา อภิรเมยฺยามาติ
+<span class="LineNumber"> 005 </span>อมจฺเจ ปุจฺฉิ ฯ  
+<span class="LineNumber"> 006 </span>	ตมตฺถํ ปกาเสนฺโต		สตฺถา อาห  
+<span class="LineNumber"> 007 </span>	อหุ ราชา(๒) วิเทหานํ	องฺคติ นาม ขตฺติโย  
+<span class="LineNumber"> 008 </span>	ปหุตโยโค ธนิมา		อนนฺตพลโปริโส  
+<span class="LineNumber"> 009 </span>	โส จ ปณฺณรเส(๓) รตฺตึ	ปุริเม ยาเม(๔) อนาคเต  
+<span class="LineNumber"> 010 </span>	จาตุมาสา โกมุทิยา	อมจฺเจ สนฺนิปาตยิ  
+<span class="LineNumber"> 011 </span>	ปณฺฑิเต สุตสมฺปนฺเน	มิตปุพฺเพ(๕) วิจกฺขเณ  
+<span class="LineNumber"> 012 </span>	วิชยฺจ สุนามฺจ		เสนาปตึ อลาตกํ  
+<span class="LineNumber"> 013 </span>	ตมนุปุจฺฉิ เวเทโห		ปจฺเจกํ พฺรูถ สํรุจึ  
+<span class="LineNumber"> 014 </span>	จาตุมาสา โกมุทชฺช	ชุณฺหํ พฺยปหตํ ตมํ  
+<span class="LineNumber"> 015 </span>	กายชฺช รติยา รตฺตึ	วิหเรมุ อิมํ อุตุนฺติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  ปหุตโยโคติ	ปหุเตน  หตฺถิโยคาทินา  สมนฺนาคโต ฯ  
+<span class="LineNumber"> 017 </span>อนนฺตพลโปริโสติ  อนนฺตพลกาโย ฯ  อนาคเตติ  ปริโยสานํ  
+<span class="LineNumber"> 018 </span>อสมฺปตฺเต(๖) อนติกฺกนฺเตติ  อตฺโถ ฯ  จาตุมาสาติ  จตุนฺนํ  วสฺสิก-  
+<span class="LineNumber"> 019 </span>มาสานํ  ปจฺฉิมทิวสภูตาย  รตฺติยา ฯ  โกมุทิยาติ  ผุลฺลกุมุทาย ฯ  
+<span class="LineNumber"> 020 </span>มิตปุพฺเพติ  ป€มํ  หสิตํ(๗)  กตฺวา  ปจฺฉา  กถนสีเล ฯ  ตมนุปุจฺฉีติ
+<span class="LineNumber"> 021 </span># ๑. ม. กาย นุ  โข อชฺช ฯ  ๒. ม. ปหูตโยคฺโค ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ปณฺณรสึ ฯ  ๔. ม. ปุริมยาเม ฯ ๕. ม. สี. ยุ. มิหิตปุพฺเพ ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. อปฺปตฺเต ฯ ๗. ม. สิตํ ฯ

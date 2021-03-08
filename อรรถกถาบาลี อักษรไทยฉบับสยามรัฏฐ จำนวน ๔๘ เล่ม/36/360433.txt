@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  433
+
+<span class="LineNumber"> 002 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 003 </span>		นิเวสนานิ มาเปตฺวา		เวเทหสฺส ยสฺสสิโน  
+<span class="LineNumber"> 004 </span>		อถสฺส ปาหิณิ (๑) ทูตํ		เอหิทานิ มหาราช  
+<span class="LineNumber"> 005 </span>				มาปิตํ เต นิเวสนนฺติ (๒) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ ปาหิณีติ เปเสสิ ฯ  
+<span class="LineNumber"> 007 </span>	ราชา  ทูตสฺส  วจนํ  สุตฺวา  ตุฏฺ€จิตฺโต  มหนฺเตน  ปริวาเรน  
+<span class="LineNumber"> 008 </span>นิกฺขมิ ฯ  
+<span class="LineNumber"> 009 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 010 </span>	[๖๒๓]	ตโต จ ราชา ปายาสิ		เสนาย จตุรงฺคิยา  
+<span class="LineNumber"> 011 </span>			อนนฺตพาหนํ ทฏฺ€ุํ		ผิตํ กปฺปิลิยํ (๓) ปุรนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อนนฺตพาหนนฺติ  อปริมิตหตฺถิอสฺสาทิพาหนํ ฯ  กปฺปิลิยํ  
+<span class="LineNumber"> 013 </span>ปุรนฺติ กปฺปิลรฏฺเ€ ปณฺฑิเตน มาปิตํ นครํ ฯ  
+<span class="LineNumber"> 014 </span>	โส  อนุปุพฺเพน  คงฺคาตีรํ  ปาปุณิ ฯ  อถ  นํ  มหาสตฺโต  
+<span class="LineNumber"> 015 </span>ปจฺจุคฺคนฺตฺวา  อตฺตนา  กตนครํ  ปเวเสสิ ฯ  โส  ตตฺถ 
+<span class="LineNumber"> 016 </span>ปาสาทวรคโค  นหาตฺวา  อลงฺกริตฺวา  นานคฺครสโภชนํ  ภุฺชิตฺวา
+<span class="LineNumber"> 017 </span>โถกํ  วิสเมตฺวา  สายณฺหสมเย  อตฺตโน  อาคตภาวํ  าเปตุํ 
+<span class="LineNumber"> 018 </span># ๑. สี. ยุ. ปหิณิ ฯ
+<span class="LineNumber"> 019 </span># ๒. ส. ม. นิเวสนามิ มาเปตฺวา		เวเทหสฺส ยสสฺสิโน
+<span class="LineNumber"> 020 </span>		อถสฺส ปาหิณี ทูตํ		เวเทหํ มิถิลคฺคหํ
+<span class="LineNumber"> 021 </span>		เอหิทานิ มหาราช		มาปิตํ เต นิเวสนนฺติ ฯ
+<span class="LineNumber"> 022 </span># ๓. สี. ยุ. กมฺปิลฺลิยํ ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           อันภิกษุประกอบด้วยองค์  ๔  ไม่ควรถามวินัย   คือ   ถึงฉันทาคติ ๑  
+<span class="LineNumber"> 002 </span>ถึงโทสาคติ ๑  ถึงโมหาคติ ๑  ถึงภยาคติ ๑                   
+<span class="LineNumber"> 003 </span>           ภิกษุประกอบด้วยองค์  ๔  อันภิกษุไม่พึงตอบวินัย คือ ถึงฉันทาคติ  ๑
+<span class="LineNumber"> 004 </span>ถึงโทสาคติ ๑  ถึงโมหาคติ ๑  ถึงภยาคติ  ๑
+<span class="LineNumber"> 005 </span>           อันภิกษุประกอบด้วยองค์  ๔   ไม่พึงตอบวินัย   คือ  ถึงฉันทาคติ  ๑
+<span class="LineNumber"> 006 </span>ถึงโทสาคติ  ๑  ถึงโมหาคติ ๑  ถึงภยาคติ ๑
+<span class="LineNumber"> 007 </span>           ภิกษุประกอบด้วยองค์ ๔    ไม่พึงให้คำซักถามคือ    ถึงฉันทาคติ  ๑
+<span class="LineNumber"> 008 </span>ถึงโทสาคติ ๑  ถึงโมหาคติ ๑  ถึงภยาคติ ๑
+<span class="LineNumber"> 009 </span>           ภิกษุประกอบด้วยองค์  ๔  ไม่พึงสนทนาวินัยด้วย คือ ถึงฉันทาคติ ๑
+<span class="LineNumber"> 010 </span>ถึงโทสาคติ ๑  ถึงโมหาคติ ๑  ถึงภยาคติ ๑. 
+
+<span class="LineNumber"> 011 </span>                      <H1>ว่าด้วยภิกษุอาพาธต้องอาบัติเป็นต้น</H1>
+<span class="LineNumber"> 012 </span>           [๙๗๖]  มีอยู่   อาบัติ   ภิกษุอาพาธต้อง  ไม่อาพาธไม่ต้อง
+<span class="LineNumber"> 013 </span>           มีอยู่   อาบัติ   ภิกษุไม่อาพาธต้อง  อาพาธ  ไม่ต้อง
+<span class="LineNumber"> 014 </span>           มีอยู่     อาบัติ   ภิกษุอาพาธก็ดี  ไม่อาพาธก็ดี   ย่อมต้อง
+<span class="LineNumber"> 015 </span>           มีอยู่   อาบัติ   ภิกษุอาพาธก็ดี  ไม่อาพาธก็ดี  ไม่ต้อง.
+
+<span class="LineNumber"> 016 </span>                                   <H1>ว่าด้วยงดปาติโมกข์</H1>
+<span class="LineNumber"> 017 </span>           [๙๗๗]  งดปาติโมกข์    ไม่ประกอบด้วยธรรมมี  ๔    งดปาติโมกข์
+<span class="LineNumber"> 018 </span>ประกอบด้วยธรรมมี  ๔.
+<span class="LineNumber"> 019 </span>                                           <I>หมวด  ๔  จบ</I>

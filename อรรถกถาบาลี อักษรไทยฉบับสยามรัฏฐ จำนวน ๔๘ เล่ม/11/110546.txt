@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๑๑  หน้า  ๕๔๖
+
+<span class="LineNumber"> 002 </span>				นาคสํยุตฺตวณฺณนา
+<span class="LineNumber"> 003 </span>	นาคสํยุตฺเต  อณฺฑชาติ  อณฺเฑ  ชาตา ฯ  ชลาพุชาติ  
+<span class="LineNumber"> 004 </span>วตฺถิโกเส  ชาตา ฯ  สํเสทชาติ  สํเสเท  ชาตา ฯ  อุปปาติกาติ(๑) 
+<span class="LineNumber"> 005 </span>อุปฺปติตฺวา  วิย  ชาตา ฯ อิทฺจ  ปน  สุตฺตํ  อตฺถุปฺปตฺติยา  
+<span class="LineNumber"> 006 </span>วุตฺตํ ฯ  ภิกฺขูนํ  หิ  กติ นุ โข นาคโยนิโยติ กถา 
+<span class="LineNumber"> 007 </span>อุทปาทิ ฯ  อถ  ภควา  ปุคฺคลานํ  นาคโยนีหิ  อุทฺธรณตฺถํ (๒) 
+<span class="LineNumber"> 008 </span>นาคโยนิโย อาวิกโรนฺโต อิมํ สุตฺตมาห ฯ                   
+
+<span class="LineNumber"> 009 </span>				ปณีตตรสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 010 </span>	ทุติยาทีสุ  โวสฺสฏฺ€กายาติ  อหิตุณฺฑิกปริพุทฺธํ  (๓)  อคเณตฺวา 
+<span class="LineNumber"> 011 </span>วิสฺสฏฺ€กายา ฯ  ทฺวยการิโนติ ทุวิธา การิโน กุสลากุสล-
+<span class="LineNumber"> 012 </span>การิโนติ  อตฺโถ ฯ  สจชฺช มยนฺติ  สเจ  อชฺช  มยํ ฯ  สหพฺยตํ 
+<span class="LineNumber"> 013 </span>อุปปชฺชตีติ  สหภาวํ อาปชฺชติ ฯ ตตฺรสฺส อกุสลํ อุปปตฺติยา  
+<span class="LineNumber"> 014 </span>ปจฺจโย  โหติ กุสลานํ(๔)  อุปปนฺนานํ สมฺปตฺติยา ฯ อนฺนนฺติ 
+<span class="LineNumber"> 015 </span>ขาทนียโภชนียํ ฯ ปานนฺติ ยงฺกิฺจิ ปานกํ ฯ วตฺถนฺติ 
+<span class="LineNumber"> 016 </span>นิวาสนปารุปนํ ฯ ยานนฺติ ฉตฺตุปาหนํ อาทึ กตฺวา ยงฺกิฺจิ
+<span class="LineNumber"> 017 </span>คมนปจฺจยํ ฯ  มาลนฺติ  ยงฺกิฺจิ สุมนมาลาทิปุปฺผํ คนฺธนฺติ 
+<span class="LineNumber"> 018 </span># ๑. โอปปาติกาติ ฯ  ๒. ม. อุทฺธรณตฺถํ ฯ
+<span class="LineNumber"> 019 </span># ๓. สี. ...ปริวุตฺถํ ฯ  ๔. ม. กุสลํ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่  43  หน้า  12
+
+<span class="LineNumber"> 002 </span>			จูฬปนฺถกตฺเถราปทานวณฺณนา  
+<span class="LineNumber"> 003 </span>	ปทุมุตฺตโร  นาม  ชิโนติอาทิกํ  อายสฺมโต  จูฬปนฺถกตฺ-
+<span class="LineNumber"> 004 </span>เถรสฺส  อปทานํ ฯ  
+<span class="LineNumber"> 005 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ  ภเว  
+<span class="LineNumber"> 006 </span>วิวฏฺฏุปนิสฺสยานิ  ปุฺานิ  อุปจินนฺโต  ปทุมุตฺตรสฺส  ภควโต  
+<span class="LineNumber"> 007 </span>กาเล  ยเทตฺถ  อฏฺ€ุปฺปตฺติวเสน  วตฺตพฺพํ  ตํ  อฏฺ€กนิปาเต  
+<span class="LineNumber"> 008 </span>มหาปนฺถกวตฺถุสฺมึ(๑)  วุตฺตเมว ฯ  อยํ  ปน  วิเสโส  มหาปนฺถกตฺเถโร  
+<span class="LineNumber"> 009 </span>อรหตฺตํ  ปตฺวา  ผลสมาปตฺติสุเขน  วีตินาเมนฺโต  จินฺเตสิ  กถํ  
+<span class="LineNumber"> 010 </span>นุ  โข  สกฺกา  จูฬปนฺถกมฺปิ  อิมสฺมึ  สุเข  ปติฏฺ€าเปตุนฺติ ฯ  
+<span class="LineNumber"> 011 </span>โส อตฺตโน  อยฺยกํ  ธนเสฏฺ€ึ  อุปสงฺกมิตฺวา  อาห  สเจ  
+<span class="LineNumber"> 012 </span>มหาเสฏฺ€ิ  อนุชานาถ  อหํ  จูฬปนฺถกํ  ปพฺพาเชยฺยนฺติ ฯ  
+<span class="LineNumber"> 013 </span>ปพฺพาเชถ  ภนฺเตติ ฯ  เถโร  ตํ  ปพฺพาเชสิ ฯ  โส  ทสสุ สีเลสุ 
+<span class="LineNumber"> 014 </span>ปติฏฺ€ิเตสุ (๒) ภาตุ สนฺติเก  
+<span class="LineNumber"> 015 </span>		ปทุมํ ยถา โกกนทํ สุคนฺธํ  
+<span class="LineNumber"> 016 </span>		ปาโต สิยา ผุลฺลมวีตคนฺธํ  
+<span class="LineNumber"> 017 </span>		องฺคีรสํ ปสฺส วิโรจมานํ  
+<span class="LineNumber"> 018 </span>		ตปนฺตมาทิจฺจมิวนฺตลิกฺเขติ (๓)  
+<span class="LineNumber"> 019 </span>คาถํ  อุคฺคณฺหนฺโต  จตูหิ  มาเสหิ  อุคฺคเหตุํ  นาสกฺขิ  คหิตมฺปิ  
+<span class="LineNumber"> 020 </span># ๑ ขุ. เถร. ๒๖/๓๖๘/๓๔๓ ฯ  ๒. ม. ปติฏฺ€ิโต ฯ
+<span class="LineNumber"> 021 </span># ๓ สํ. ส. ๑๕/๓๖๒/๑๑๘ ฯ องฺ. ปฺจก. ๒๒/๑๙๕/๒๖๖ ฯ  

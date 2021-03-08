@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  206
+
+<span class="LineNumber"> 002 </span>อนาคเตปิ  อิโต  คนฺตพฺพา  สตฺเตว  ชานามิ ฯ  ยา  เม  สาติ 
+<span class="LineNumber"> 003 </span>ยา  สา  มม  อตีเต สตฺตมี ชาติ อาสิ ฯ  กมฺมารปุตฺโตติ 
+<span class="LineNumber"> 004 </span>ตาย  ชาติยา  อหํ  มคเธสุ  ราชคหนคเร  สุวณฺณการปุตฺโต
+<span class="LineNumber"> 005 </span>อโหสึ ฯ
+<span class="LineNumber"> 006 </span>	ปรทารสฺส  เหเ€นฺตาติ ปรทารํ วิเหเ€นฺตา  ปเรสํ  
+<span class="LineNumber"> 007 </span>รกฺขิตโคปิตภณฺเฑ(๑)  อปรชฺฌนฺตา (๒) ฯ  อฏฺ€าติ  ตํ  ตทา  มยา  
+<span class="LineNumber"> 008 </span>กตํ  ปาปกมฺมํ  โอกาสํ  อลภิตฺวา  โอกาเส  สติ  วิปากทายกํ 
+<span class="LineNumber"> 009 </span>หุตฺวา  ภสฺมจฺฉนฺโน  อคฺคิ  วิย  นิหิตํ  อฏฺ€าสิ ฯ  วํสภูมิยนฺติ 
+<span class="LineNumber"> 010 </span>วํสรฏฺเ€ ฯ  เอกปุตฺโตติ  อสีติโกฏิวิภเว  เสฏฺ€ิกุเล อหํ เอกปุตฺโตว(๓)
+<span class="LineNumber"> 011 </span>อโหสึ ฯ สาตเว  รตนฺติ  กลฺยาณกมฺเม  อภิรตํ ฯ  โส  มนฺติ  
+<span class="LineNumber"> 012 </span>โส  สหายโก  มํ  อตฺเถ  กุสลกมฺเม  ปติฏฺ€เปสิ ฯ  
+<span class="LineNumber"> 013 </span>	ตํ  กมฺมนฺติ  ตํปิ  เม [๔] กลฺยาณกมฺมํ  ตทา  โอกาสํ 
+<span class="LineNumber"> 014 </span>อลภิตฺวา  โอกาเส  สติ  วิปากทายกํ  หุตฺวา ฯ  อุทกนฺติเกติ 
+<span class="LineNumber"> 015 </span>อุทเก  นิหิตํ  อฏฺ€าสิ ฯ  ยเมตนฺติ  อถ  มม  เอตฺตเกสุ  ปาปกมฺเมสุ
+<span class="LineNumber"> 016 </span>ยํ  เอตํ  มยา  มคเธ (๕) ปรทารกมฺมํ  กตํ  ตสฺส ผลํ ปจฺฉา  มํ
+<span class="LineNumber"> 017 </span>ปริยาคตํ (๖) อุปคตนฺติ  อตฺโถ ฯ  ยถา  กึ ฯ  ภุตฺวา  ทุฏฺ€วิสํ  
+<span class="LineNumber"> 018 </span>ยถาติ  ยถา  สวิสํ  โภชนํ  ภุตฺวา  €ิตสฺส  ตํ  ทุฏฺ€ํ  กกฺขลํ  
+<span class="LineNumber"> 019 </span>หลาหลํ  วิสํ  กุปฺปติ  ตถา  มํ  ปริยาคตนฺติ  อตฺโถ ฯ  ตโตติ
+<span class="LineNumber"> 020 </span># ๑. ม. รกฺขิตโคปิเต วรภณฺเฑ ฯ  ๒. สี. อปรชฺฌนกา ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม.เอกปุตฺตโกว ฯ ๔. ม. เอตฺถนฺตเร กตนฺติ ทิสฺสติ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. มคเธสุ ฯ ๖. ม. ปริยาค ฯ 

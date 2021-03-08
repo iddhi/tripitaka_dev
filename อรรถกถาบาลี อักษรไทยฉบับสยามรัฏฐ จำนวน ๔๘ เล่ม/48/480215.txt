@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 215
+
+<span class="LineNumber"> 002 </span>			ภวํนิสฺสายปฺหาทิวณฺณนา
+<span class="LineNumber"> 003 </span>	ภวํ นิสฺสาย ปเฺห ภวนฺติ อุปปตฺติภวํ ฯ 
+<span class="LineNumber"> 004 </span>	เวทนํ  เวทิยมานปเฺห  เวทนํ  เวทิยมาโน  ปริคฺคหิต-
+<span class="LineNumber"> 005 </span>เวทโน  โยคาวจโรว ปชานาติ พาลปุถุชฺชโน นปฺปชานาติ ฯ 
+<span class="LineNumber"> 006 </span>กายานุปสฺสนาทิปฺโห (๑) อุตฺตานตฺโถเยว ฯ (๒) 
+<span class="LineNumber"> 007 </span>	ปารายนกถาย  (๓)  สุฺโต  โลกํ  อเวกฺขสฺสูติ  สตฺต-
+<span class="LineNumber"> 008 </span>สุฺตาวเสน  ขนฺธโลกํ โอโลเกหีติ อตฺโถ ฯ 
+<span class="LineNumber"> 009 </span>	ปุคฺคโล  อเวกฺขตีติ  สกวาทีปุจฺฉา ฯ  ปรวาทิสฺส  หิ 
+<span class="LineNumber"> 010 </span>สุฺโต  โลกํ  อเวกฺขสฺสูติ  คาถาย  โย  อเวกฺขติ  โส  ปุคฺคโลติ
+<span class="LineNumber"> 011 </span>ลทฺธิ  ตสฺมา  นํ เอวํ  ปุจฺฉติ ฯ  สห  รูเปนาติ  รูปกาเยน
+<span class="LineNumber"> 012 </span>สทฺธึ  ตโต  อนิสฺสิโต  (๔)  หุตฺวาติ อตฺโถ ฯ  อิทํ  ปฺจโวการวเสน
+<span class="LineNumber"> 013 </span>อนุชานิตฺวา ปุน ตํ ชีวนฺติ ปุฏฺโ€ สุตฺตวิโรธภเยเนว ปฏิกฺ-
+<span class="LineNumber"> 014 </span>ขิปติ ฯ  วินา  รูเปนาติ  อิทํ  จตุโวการวเสน  อนุชานิตฺวา ปุน
+<span class="LineNumber"> 015 </span>อฺํ ชีวนฺติ ปุฏฺโ€   สุตฺตวิโรธภเยเนว  ปฏิกฺขิปติ ฯ  อพฺภนฺตร-
+<span class="LineNumber"> 016 </span>คโตติ  จ  พหิทฺธา นิกฺขมิตฺวาติ  จ  อิทํ  สห  รูเปน  วินา
+<span class="LineNumber"> 017 </span>รูเปนาติ  เหฏฺ€า  วุตฺตสฺส ลกฺขณวจนํ ฯ  ตตฺถ  อพฺภนฺตร-
+<span class="LineNumber"> 018 </span>คโตติ  รูปสฺส  อนฺโตคโต  อิโต  วา  เอโต(๕)  วา   อนิกฺขมิตฺวา
+<span class="LineNumber"> 019 </span>รูปปริจฺเฉทวเสเนว  €ปิโต  (๖)  หุตฺวาติ  อตฺโถ ฯ  นิกฺขมิตฺวาติ
+<span class="LineNumber"> 020 </span>รูปปริจฺเฉทํ อติกฺกมิตฺวา รูปํ อนิสฺสิโต หุตฺวาติ อตฺโถ ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. ...ปฺหา ฯ  ๒. ม. อุตฺตานตฺถาเยว ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. ปารายนคาถาย ฯ  ๔. ม. อนิสฺสโฏ ฯ
+<span class="LineNumber"> 023 </span># ๕. ม. เอตฺโต ฯ  ๖. ม. €ิโต ฯ

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         <H3>อรรถกถาอภัพพสูตรที่ ๑๐</H3>
+<span class="LineNumber"> 002 </span>        <B>อภัพพสูตรที่  ๑๐</B>  มีเนื้อความง่ายทั้งนั้นแล.
+<span class="LineNumber"> 003 </span>                                     จบอรรถกถาอภัพพสูตรที่  ๑๐ 
+<span class="LineNumber"> 004 </span>                               <I>จบอุบาสกวรรคที่  ๕</I>
+<span class="LineNumber"> 005 </span>                                              จบทุติยปัณณาสก์
+
+<span class="LineNumber"> 006 </span>              <H3>รวมพระสูตรที่มีในวรรคนี้  คือ</H3>
+<span class="LineNumber"> 007 </span>        ๑.  กามโภคีสูตร     ๒. เวรสูตร     ๓.  ทิฏฐิสูตร   ๔. วัช-
+<span class="LineNumber"> 008 </span>ชิยสูตร      ๕.  อุตติยสูตร       ๖.  โกกนุทสูตร      ๗.  อาหุเนยยสูตร
+<span class="LineNumber"> 009 </span>๘.  เถรสูตร     ๙.  อุปาลิสูตร      ๑๐.  อภัพพสูตร.
+<span class="LineNumber"> 010 </span>                                           จบทุติยปัณณาสก์

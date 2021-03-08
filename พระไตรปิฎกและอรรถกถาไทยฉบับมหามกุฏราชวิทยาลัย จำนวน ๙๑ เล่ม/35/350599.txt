@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๑๑. อานิสังสสูตร</h1>  
+<span class="LineNumber"> 002 </span>                             <h2>ว่าด้วยอานิสงส์  ๔  ประการ</h2>
+<span class="LineNumber"> 003 </span>            [๒๔๒]    ดูก่อนภิกษุทั้งหลาย    บุคคลอาศัยสัปบุรุษแล้ว   พึงหวังได้
+<span class="LineNumber"> 004 </span>อานิสงส์  ๔   ประการ     อานิสงส์  ๔  ประการเป็นไฉน  คือ   ย่อมเจริญด้วยศีล 
+<span class="LineNumber"> 005 </span>ที่เป็นอริยะ ๑  ย่อมเจริญด้วยสมาธิที่เป็นอริยะ  ๑   ย่อมเจริญด้วยปัญญาที่เป็น
+<span class="LineNumber"> 006 </span>อริยะ ๑  ย่อมเจริญด้วยวิมุตติที่เป็นอริยะ  ๑  ดูก่อนภิกษุทั้งหลาย  บุคคลอาศัย
+<span class="LineNumber"> 007 </span>สัปบุรุษแล้ว  พึงหวังได้อานิสงส์ ๔ ประการนี้.
+<span class="LineNumber"> 008 </span>                                           <I>จบอานิสังสสูตรที่  ๑๑
+<span class="LineNumber"> 009 </span>                                    จบกรรมวรรคที่   ๔</I>
+<span class="LineNumber"> 010 </span>            อานิสังสสูตรที่  ๑๑  ง่ายทั้งนั้นแล.
+<span class="LineNumber"> 011 </span>                                       <I>จบกรรมวรรควรรณนาที่  ๔</I>
+<span class="LineNumber"> 012 </span>                   	        <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 013 </span>            ๑. สังขิตตสูตร   ๒. วิตถารสูตร  ๓. โสณกายนสูตร  ๔. สิกขาบทสูตร
+<span class="LineNumber"> 014 </span>๕. อริยมัคคสูตร    ๖.โพชฌังคสูตร  ๗.  สาวัชชสูตร   ๘.  อัพยาปัชฌสูตร
+<span class="LineNumber"> 015 </span>๙.  สัปปุริสสูตร   ๑๐.  สมณสูตร   ๑๑.อานิสังสสูตร  และอรรถกถา.

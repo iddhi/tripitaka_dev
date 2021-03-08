@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 325
+
+<span class="LineNumber"> 002 </span>		โย เทติ สยนํ วตฺถํ		ยานํ อาวสถํ ฆรํ  
+<span class="LineNumber"> 003 </span>		ปชฺชุนฺโนริว ภูตานํ		โภเคหิ อภิวสฺสติ  
+<span class="LineNumber"> 004 </span>		เอเสยฺยา ราชวสตี(๑)	วตฺตมาโน ยถา นโร  
+<span class="LineNumber"> 005 </span>		อาราธยติ  ราชานํ		ปูชํ  ลภติ  ภตฺตุสูติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ (๒) กุมฺภิมฺหิ  อฺชลึ  กยิรา(๒)  วายสํ  วาปิ  ปทกฺขิณนฺติ  
+<span class="LineNumber"> 007 </span>วุฑฺฒึ  ปจฺจาสึสนฺโต  หิ  ปุริโส  อุทกภริตํ  กุมฺภึ (๓) ทิสฺวา 
+<span class="LineNumber"> 008 </span>ตสฺส  อฺชลึ  กเรยฺย  วายสํ (๔) วาปิ  สกุณฺจ  ปทกฺขิณํ  กเรยฺย  
+<span class="LineNumber"> 009 </span>(เยสํ) อฺชลึ (๕)กตฺวา  ปทกฺขิณํ  กโรนฺตสฺส  เต  กิฺจิ  ทาตุํ 
+<span class="LineNumber"> 010 </span>น  สกฺโกนฺติ ฯ  กิเมวาติ  โย  ปน  สพฺพกามานํ  ทาตา  
+<span class="LineNumber"> 011 </span>ธีโร [๖] ตํ  ราชานํ  กึ  การณา  น นมสฺเสยฺย  ราชาเยว  
+<span class="LineNumber"> 012 </span>หิ  นมสฺเสยฺย  ราชาเยว  หิ  นมสฺสิตพฺโพ จ  อาราเธตพฺโพ 
+<span class="LineNumber"> 013 </span>จาติ ฯ ปชฺชุนฺโนริวาติ  เมโฆ  วิย ฯ  เอเสยฺยา  ราชวสตีติ 
+<span class="LineNumber"> 014 </span>อยฺยา ยา อยํ มยา กถิตา เอสา  ราชวสตี  นาม  ราชเสวกานํ 
+<span class="LineNumber"> 015 </span>อนุสาสนี ฯ  ยถาติ  ยาย  ราชวสติยา  วตฺตมาโน  นโร  ราชานํ 
+<span class="LineNumber"> 016 </span>อาราเธติ  ราชูนฺจ  สนฺติกา  ปูชํ  ลภติ  เอสาติ (๗)ฯ เอวํ 
+<span class="LineNumber"> 017 </span>อสมธุโร วิธุโร(๘) พุทฺธลีลาย ราชวสตึ กเถสีติ ฯ  
+<span class="LineNumber"> 018 </span>			ราชวสตีกณฺฑํ(๙) นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. ราชวสติ ฯ  ๒. ม. กุมฺภมฺปฺชลึ กริยา ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. อุทกปูริตํ กุมภํ ฯ  ๔. ม. จาฏฺจ สกุณํ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. อฺชลึ วา ฯ  ๖. ม. เอตฺถนฺตเร จสทฺโท อตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. ลภติ สา เอสาติ ฯ  ๘. ม. วิธุรปณฺฑิโต ฯ 
+<span class="LineNumber"> 023 </span># ๙. ม. ราชวสติกณฺฑํ ฯ

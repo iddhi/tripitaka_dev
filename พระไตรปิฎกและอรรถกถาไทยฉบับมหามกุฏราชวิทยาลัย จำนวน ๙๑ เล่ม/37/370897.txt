@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                  <H1>อรรถกถาปฐมสันทิฏฐิกสูตรที่  ๕</H1>
+<span class="LineNumber"> 002 </span>         <B>ปฐมสันทิฏฐิกสูตรที่  ๕</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า   <B>สนฺทิฏ€ิโก</B>   แปลว่า   อันบุคคลพึงเห็นเอง.    บทว่า
+<span class="LineNumber"> 004 </span><B>นิพฺพานํ</B> ได้แก่ ดับกิเลส. บทว่า <B>ปรินิพพานํ</B>  เป็นไวพจน์ของบทว่า
+<span class="LineNumber"> 005 </span><B>นิพพานํ</B>   นั้น.  บทว่า   ตทงฺคนิพฺพานํ  ได้แก่  นิพพานด้วยองค์นั้น
+<span class="LineNumber"> 006 </span>มีปฐมฌานเป็นต้น.   บทว่า    <B>ทิฏฺ€ธมฺมนิพฺพานํ</B>  ได้แก่  นิพพานใน
+<span class="LineNumber"> 007 </span>อัตภาพนี้นั่นเอง.    คำที่เหลือในบททั้งหมดมีเนื้อความง่ายทั้งนั้น
+<span class="LineNumber"> 008 </span>ด้วยประการฉะนี้.
+<span class="LineNumber"> 009 </span>                            <I>จบ  ปฐมสันทิฏฐิกสูตรที่  ๕</I>
+<span class="LineNumber"> 010 </span>                              <I>จบ  อรรถกถาวรรคที่  ๑๐</I>
+<span class="LineNumber"> 011 </span>                                       จบ  ทุติยปัณณาสก์

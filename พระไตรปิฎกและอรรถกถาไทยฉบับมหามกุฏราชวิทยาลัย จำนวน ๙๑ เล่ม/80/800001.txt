@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>พระอภิธรรมปิฎก</H1>   
+<span class="LineNumber"> 002 </span>                                           <H1>เล่มที่  ๔</H1>	
+<span class="LineNumber"> 003 </span>                                  <H1>กถาวัตถุ<SUP>๑</SUP>  ภาคที่  ๑</H1>
+<span class="LineNumber"> 004 </span>                                      <H4>ขอนอบน้อมแด่</H4>
+<span class="LineNumber"> 005 </span>              <H4>พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้า  พระองค์นั้น</H4> 
+<span class="LineNumber"> 006 </span>                                      <H1>มหาปัณณาสก์</H1>
+<span class="LineNumber"> 007 </span>                                          <H1>มหาวรรค</H1>
+<span class="LineNumber"> 008 </span>                                          <H1>ปุคคลกถา</H1>
+<span class="LineNumber"> 009 </span>                                          <H1>นิคคหะ  ๘</H1>	
+<span class="LineNumber"> 010 </span>                                        <H1>อนุโลมปัญจกะ</H1>	
+<span class="LineNumber"> 011 </span>           [๑]   <B>สกวาที</B>    ท่านหยั่งเห็นบุคคล    โดยสัจฉิกัตถปรมัตถะ
+<span class="LineNumber"> 012 </span>หรือ  ?
+<span class="LineNumber"> 013 </span>                   <B>ปรวาที</B>    ถูกแล้ว.
+<span class='footnote'>๑. คัมภีร์ที่  ๕  บาลีเล่มที่  ๓๗</span>

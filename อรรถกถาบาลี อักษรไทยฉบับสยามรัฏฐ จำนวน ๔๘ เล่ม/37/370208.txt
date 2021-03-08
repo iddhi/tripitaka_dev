@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  208
+
+<span class="LineNumber"> 002 </span>	อิมมตฺถํ ปกาเสนฺตี อาห  
+<span class="LineNumber"> 003 </span>		ตโต จุตาหํ เวเทห		กปิ อาสึ พฺรหาวเน  
+<span class="LineNumber"> 004 </span>		นิลุจฺฉิตผโลเยว		ยูถเปน ปคพฺภินา  
+<span class="LineNumber"> 005 </span>	ตสฺส กมฺมสฺส นิสฺสนฺโท  ปรทารคมนสฺส เมติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  นิลุจฺฉิตผโลเยวาติ  ตตฺราหํ  ปคพฺเภน  ยูถปตินา
+<span class="LineNumber"> 007 </span>ลุฺจิตฺวา  อุปฺปาฏิตผโลเยว อโหสินฺติ อตฺโถ ฯ  
+<span class="LineNumber"> 008 </span>	อถ อปราปิ ชาติโย ทสฺเสนฺตี อาห  
+<span class="LineNumber"> 009 </span>		ตโต จุตาหํ เวเทห		ทสนฺเนสุ ปสุ(๑) อหุํ  
+<span class="LineNumber"> 010 </span>		นิลุจฺฉิโต ชโว ภโทฺร	โยคํ(๒) วุฬฺหํ จิรํ มยา  
+<span class="LineNumber"> 011 </span>		ตสฺส กมฺมสฺส นิสฺสนฺโท	ปรทารคมนสฺส เม  
+<span class="LineNumber"> 012 </span>		ตโต จุตาหํ เวเทห		วชฺชีสุ กุลมาคโต(๓)  
+<span class="LineNumber"> 013 </span>		เนวิตฺถี น ปุมา อาสึ	มนุสฺสตฺเต สุทุลฺลเภ  
+<span class="LineNumber"> 014 </span>		ตสฺส กมฺมสฺส นิสฺสนฺโท	ปรทารคมนสฺส เม  
+<span class="LineNumber"> 015 </span>		ตโต จุตาหํ เวเทห		อชายึ นนฺทเน วเน  
+<span class="LineNumber"> 016 </span>		ภวเน ตาวตึสาหํ		อจฺฉรา กามวณฺณินี  
+<span class="LineNumber"> 017 </span>		วิจิตฺรวตฺถาภรณา		อามุตฺตมณิกุณฺฑลา  
+<span class="LineNumber"> 018 </span>		กุสลา นจฺจคีตสฺส		สกฺกสฺส ปริจาริกา  
+<span class="LineNumber"> 019 </span>		ตตฺถ €ิตาหํ เวเทห	สรามิ ชาติโย อิมา  
+<span class="LineNumber"> 020 </span>		อนาคเตปิ(๔) สตฺเตว	ยา คมิสฺสํ อิโต จุตา  
+<span class="LineNumber"> 021 </span># ๑. ม. ทสฺสเนสุ ปสู ฯ  ๒. ม. โยคฺคํ ฯ ๓. ม. กุลมาคมา ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. อนาคตาปิ ฯ 

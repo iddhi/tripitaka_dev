@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>๑๓.  กัมมปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๗๐๑] ๑.  <B>สุขสหคตธรรม เป็นปัจจัยแก่สุขสหคตธรรม ด้วย
+<span class="LineNumber"> 003 </span>อำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 004 </span>         มี ๒ อย่าง  คือที่เป็น   <B>สหชาตะ</B>  และ  <B>นานาขณิกะ</B>
+<span class="LineNumber"> 005 </span>         กัมมปัจจัย    แบ่งเป็น ๖ วาระ    พึงกระทำให้เป็นทั้งสหชาตะ   และ
+<span class="LineNumber"> 006 </span>นานาขณิกะ ๔ วาระ,  ให้เป็นนานาขณิกะ ๒ วาระ.
+
+<span class="LineNumber"> 007 </span>                    <H2>๑๔.  วิปากปัจจัย   ฯลฯ     ๒๔.  อวิคตปัจจัย</H2>
+<span class="LineNumber"> 008 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของวิปากปัจจัย</B>   มี ๙ วาระ
+<span class="LineNumber"> 009 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของอาหารปัจจัย</B>   มี ๔ วาระ
+<span class="LineNumber"> 010 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของอินทริยปัจจัย</B>   มี ๙ วาระ
+<span class="LineNumber"> 011 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของฌานปัจจัย</B>  มี ๙ วาระ
+<span class="LineNumber"> 012 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของมัคคปัจจัย</B>   มี ๔ วาระ
+<span class="LineNumber"> 013 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของสัมปยุตตปัจจัย</B>  มี ๖ วาระ
+<span class="LineNumber"> 014 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของวิปปยุตตปัจจัย</B>   มี ๕ วาระ
+<span class="LineNumber"> 015 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของอัตถิปัจจัย</B>   มี ๙ วาระ
+<span class="LineNumber"> 016 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของนัตถิปัจจัย</B>  มี ๙ วาระ
+<span class="LineNumber"> 017 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของวิคตปัจจัย</B>   มี ๙ วาระ
+<span class="LineNumber"> 018 </span>         <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของอวิคตปัจจัย</B>   มี  ๙ วาระ

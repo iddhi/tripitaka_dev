@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>อตีตานาคตวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                      <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 004 </span><H2>กายสังขารมูละ   วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๑๑๗๕]   กายสังขารไม่ใช่เคยดับแก่บุคคลใด,   วจีสังขารก็ไม่
+<span class="LineNumber"> 006 </span>ใช่จักดับแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ไม่มี.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า  วจีสังขารไม่ใช่จักดับแก่บุคคลใด,   กายสังขารก็ไม่ใช่
+<span class="LineNumber"> 009 </span>เคยดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         เคยดับ.
+<span class="LineNumber"> 011 </span>                        <I>จบ  กายสังขารมูละ  วจีสังขารมูลี</I>
+
+<span class="LineNumber"> 012 </span><H2>กายสังขารมูละ  จิตตสังขารมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๑๑๗๖]   กายสังขารไม่ใช่เคยดับแก่บุคคลใด,       จิตตสังขาร
+<span class="LineNumber"> 014 </span>ก็ไม่ใช่จักดับแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ไม่มี.

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>จตุตฺโถ			จตุตฺถี-ถา		จตุตฺถํ			ที่ ๔
+<span class="LineNumber"> 002 </span>ปญฺจโม			ปญฺจมี-มา	ปญฺจมํ			ที่ ๕  
+<span class="LineNumber"> 003 </span>ฉฏฺโ€			ฉฏฺ€ี-€า		ฉฏฺ€ํ				ที่  ๖
+<span class="LineNumber"> 004 </span>สตฺตโม			สตฺตมี-มา		สตฺตมํ			ที่ ๗
+<span class="LineNumber"> 005 </span>อฏฺ€โม			อฏฺ€มี-มา		อฏฺ€มํ			ที่ ๘
+<span class="LineNumber"> 006 </span>นวโม			นวมี-มา		นวมํ				ที่ ๙
+<span class="LineNumber"> 007 </span>ทสโม			ทสมี-มา		ทสมํ				ที่ ๑๐
+<span class="LineNumber"> 008 </span>เอกาทสโม		เอกาทสี-สึ<SUP>๑</SUP>	เอกาทสมํ			ที่ ๑๑
+<span class="LineNumber"> 009 </span>ทฺวาทสโม,พารสโม	ทฺวาทสี,พารสี	ทฺวาทสมํ,พารสมํ	ที่ ๑๒
+<span class="LineNumber"> 010 </span>เตรสโม			เตรสี		เตรสมํ			ที่ ๑๓
+<span class="LineNumber"> 011 </span>จตุทฺทสโม		จตฺทฺทสี-สึ<SUP>๒</SUP>	จตุทฺทสมํ			ที่ ๑๔
+<span class="LineNumber"> 012 </span>ปณฺณรสโม		ปณฺณรสี-สึ<SUP>๓</SUP>	ปณฺณรสมํ		ที่ ๑๕
+<span class="LineNumber"> 013 </span>โสฬสโม			โสฬสี		โสฬสมํ			ที่ ๑๖
+<span class="LineNumber"> 014 </span>สตฺตรสโม		สตฺตรสี		สตฺตรสมํ			ที่ ๑๗
+<span class="LineNumber"> 015 </span>อฏฺ€ารสโม		อฏฺ€ารสี		อฏฺ€ารสมํ		ที่ ๑๘
+<span class="LineNumber"> 016 </span>เอกูนวีสติโม		เอกูนวีสติมา	เอกูนวีสติมํ		ที่ ๑๙
+<span class="LineNumber"> 017 </span>วีสติโม			วีสติมา		วีสติมํ			ที่ ๒๐
+<span class="LineNumber"> 018 </span>	ปูรณสังขยา   ที่แสดงมาพอเป็นตัวอย่างนี้  แจกตามแบบ
+<span class="LineNumber"> 019 </span>การันต์ใน ๓  ลิงค์ ศัพท์ใด  เป็นลิงค์ใด  มีการันต์อย่างใด  จง
+<span class="LineNumber"> 020 </span>แจกตามลิงค์นั้น  ตามการันต์นั้น  เทอญ.
+
+<span class='footnote'>๑.๒.๓.  ลงนิคหิตอาคม  มูลกัจจายนะ หน้า  ๙๕ สูตรที่  ๓๓๔.  กองตำรา.</span>

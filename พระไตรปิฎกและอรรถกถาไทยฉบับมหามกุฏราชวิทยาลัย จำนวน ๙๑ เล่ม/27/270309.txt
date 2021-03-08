@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                  <H1>อรรถกถาสูตรที่  ๙-๑๐</H1>   
+
+<span class="LineNumber"> 002 </span>           <B>ราหุลสูตรที่  ๑</B>  และ  <B>ราหุลสูตรที่ ๒</B>     มีเนื้อความดังกล่าว
+<span class="LineNumber"> 003 </span>แล้ว ใน<B>ราหุลสังยุต.</B>  ก็สูตรทั้ง  ๒ นี้ ล้วนมาในที่นี้  ก็เพราะเหตุผลที่ว่า
+<span class="LineNumber"> 004 </span>วรรคนี้เป็นเถรวรรค นั่นแล.
+<span class="LineNumber"> 005 </span>                                <I>จบ  อรรถกถาเถรวรรคที่  ๔</I>
+
+<span class="LineNumber"> 006 </span>                    <H2>รวมพระสูตรที่มีในวรรคนี้ คือ</H2>
+<span class="LineNumber"> 007 </span>           <B>๑.  อานนทสูตร  ๒.  ติสสสูตร  ๓.  ยมกสูตร  ๔.  อนุราธสูตร
+<span class="LineNumber"> 008 </span>๕. วักกลิสูตร  ๖.  อัสสชิสูตร  ๗.  เขมกสูตร  ๘.  ฉันนสูตร  ๙.  ราหุลสูตร
+<span class="LineNumber"> 009 </span>ที่  ๑   ๑๐.  ราหุลสูตรที่  ๒</B>

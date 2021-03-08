@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ในปฏิสนธิขณะ  ขันธ์  ๓  อาศัยขันธ์  ๑  ที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 002 </span>และหทยวัตถุ ฯลฯ   ขันธ์ ๒   ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                       <H2>๓. อธิปติปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         [๒๙๕]  ๑.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม      อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 005 </span>อุปาทาธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ ที่ไม่ใช่อุปาทา-
+<span class="LineNumber"> 007 </span>ธรรม  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 008 </span>                      ๒.  <B>อุปาทาธรรม  อาศัยธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ  อุปาทาจิตตสมุฏฐานรูป  ขันธ์ทั้งหลายที่ไม่ใช่อุปาทาธรรม.
+<span class="LineNumber"> 011 </span>                      ๓.  <B>อุปาทาธรรม       และธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 012 </span>อาศัยธรรมที่ไม่ใช่อุปาทาธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ    ขันธ์ ๓   และจิตตสมุฏฐานรูปที่เป็นอุปาทาธรรม     และไม่ใช่
+<span class="LineNumber"> 014 </span>อุปาทาธรรม   อาศัยขันธ์ ๑   ที่ไม่ใช่อุปาทาธรรม ฯลฯ  ขันธ์ ๒  ฯลฯ
+
+<span class="LineNumber"> 015 </span>                     <H2>๔. อนันตรปัจจัย  ฯลฯ  ๕. สมนันตรปัจจัย</H2>
+<span class="LineNumber"> 016 </span>         <B>ฯลฯ    เพราะอนันตรปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>         <B>เพราะสมนันตรปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>         <B>เพราะสหชาตปัจจัย</B>  มี ๕ วาระ.

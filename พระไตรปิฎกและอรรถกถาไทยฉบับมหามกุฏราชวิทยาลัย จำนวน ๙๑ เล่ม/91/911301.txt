@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>นสนิทัสสนติกนกามาวจรทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                              <H1>สนิทัสสนติกกามาวจรทุกะ</H1>
+<span class="LineNumber"> 003 </span>         <H2>(๒๒.  สนิทัสสนติกะ  ๙๓.  กามาวจรทุกะ)</H2> 
+<span class="LineNumber"> 004 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                       <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 006 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                      <H2>กามาวจรบท</H2>
+<span class="LineNumber"> 008 </span>           [๘๖๒] ๑.  <B>กามาวจรธรรม     ที่เป็นสนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 009 </span>อาศัยธรรมที่ไม่ใช่กามาวจรธรรม    ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 011 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๘๖๓]  ในเหตุปัจจัย มี ๒๑ วาระ  ฯลฯ
+
+<span class="LineNumber"> 013 </span>                                      <H2>นกามาวจรบท</H2>
+<span class="LineNumber"> 014 </span>           [๘๖๔] ๑.  <B>ธรรมที่ไม่ใช่กามาวจรธรรม     ที่เป็นอนิทัสสน-
+<span class="LineNumber"> 015 </span>อัปปฏิฆธรรม     อาศัยธรรมที่ไม่ใช่ธรรม     ที่ไม่ใช่กามาวจรธรรม
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>                                                  <B>ฯลฯ</B>
+
+<span class="LineNumber"> 018 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 019 </span>           [๘๖๕]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 020 </span>      <I>นสนิทัสสนติกนกามาวจรทุกสนิทัสสนติกกามาวจรทุกะ จบ</I>

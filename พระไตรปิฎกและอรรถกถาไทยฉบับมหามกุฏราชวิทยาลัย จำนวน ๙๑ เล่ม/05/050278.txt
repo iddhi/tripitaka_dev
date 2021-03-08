@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ที่ชื่อว่า  <B>หวังว่าจะได้จีวรอันไม่แน่นอน</B>  ได้แก่  วาจาที่เขาเปล่ง
+<span class="LineNumber"> 002 </span>ออกมาว่า   ถ้าพวกข้าพเจ้าสามารถ   ก็จักถวาย   จักทำ.
+<span class="LineNumber"> 003 </span>           ที่ชื่อว่า  <B>สมัยจีวรกาล</B>  คือ  เมื่อกฐินยังไม่ได้กราน  มีกำหนดเดือน
+<span class="LineNumber"> 004 </span>หนึ่งท้ายฤดูฝน  เมื่อได้กรานกฐินแล้ว  มีกำหนด ๕  เดือน.
+<span class="LineNumber"> 005 </span>           บทว่า  <B>ยังสมัยจีวรกาลให้ล่วงไป</B>   ความว่า   เมื่อไม่ได้กรานกฐิน
+<span class="LineNumber"> 006 </span>ยังวันที่กฐินเดาะให้ล่วงไป  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 007 </span>                                           <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 008 </span>            [๒๕๑]   จีวรไม่แน่นอน    ภิกษุณีสำคัญว่าจีวรไม่แน่นอน    ยังสมัย
+<span class="LineNumber"> 009 </span>จีวรกาลให้ล่วงไป   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 010 </span>            จีวรไม่แน่นอน   ภิกษุณีสงสัย   ยังสมัยจีวรกาลให้ล่วงไป   ต้องอาบัติ
+<span class="LineNumber"> 011 </span>ทุกกฏ.
+<span class="LineNumber"> 012 </span>            จีวรไม่แน่นอน   ภิกษุณีสำคัญว่าแน่นอน    ยังสมัยจีวรกาลให้ล่วงไป
+<span class="LineNumber"> 013 </span>ไม่ต้องอาบัติ.
+<span class="LineNumber"> 014 </span>            จีวรแน่นอน  ภิกษุสำคัญว่าจีวรไม่แน่นอน  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 015 </span>            จีวรแน่นอน  ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 016 </span>            จีวรแน่นอน  ภิกษุณีสำคัญว่าจีวรแน่นอน  ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 017 </span>                                           <H2>อนาปัตติวาร</H2> 
+<span class="LineNumber"> 018 </span>             [๒๕๒]   แสดงอานิสงส์แล้วห้าม  ๑   วิกลจริต  ๑  อาทิกัมมิกา ๑  ไม่
+<span class="LineNumber"> 019 </span>ต้องอาบัติแล.
+<span class="LineNumber"> 020 </span>                                  <I>นัคควรรค   สิกขาบทที่  ๙  จบ</I>

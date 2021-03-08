@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 349
+
+<span class="LineNumber"> 002 </span>			มา จสฺสุ มิตฺเตสุ กทาจิ ทุพฺภิ  
+<span class="LineNumber"> 003 </span>			มา จ วสํ อสตีนํ นิคจฺเฉติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  อฺลฺจ  ปาณึ  ปริวชฺชยสฺสูติ  อลฺลํ  ตินฺตํ  ปาณึ  มา  
+<span class="LineNumber"> 005 </span>ทหิ มา ฌาปยิ ฯ  
+<span class="LineNumber"> 006 </span>	ยกฺโข  สํขิตฺเตน  กถิเต(๑)  จตฺตาโร สาธุนรธมฺเม พุชฺฌิตุํ 
+<span class="LineNumber"> 007 </span>อสกฺโกนฺโต  วิตฺถาเรน ปุจฺฉิ(๒)  
+<span class="LineNumber"> 008 </span>	[๙๙๕]กถํ นุ ยาตํ อนุยายี(๓) โหติ  
+<span class="LineNumber"> 009 </span>		อลฺลฺจ ปาณึ ทหเต กถํ โส  
+<span class="LineNumber"> 010 </span>		อสตี จ กาโก ปน มิตฺตทุพฺโภ  
+<span class="LineNumber"> 011 </span>		อกฺขาหิ เม ปุจฺฉิโต เอตมตฺถนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	มหาสตฺโตปิสฺส กเถสิ  
+<span class="LineNumber"> 013 </span>	[๙๙๖]อสณฺ€ตํ  โนปิจ(๔) ทิฏฺ€ปุพฺพํ  
+<span class="LineNumber"> 014 </span>		โย อาสเนนาปิ นิมนฺตเยยฺย  
+<span class="LineNumber"> 015 </span>		ตสฺเสว อตฺถํ ปุริโส กเรยฺย  
+<span class="LineNumber"> 016 </span>		ยาตานุยายีติ ตมาหุ ปณฺฑิตา  
+<span class="LineNumber"> 017 </span>		ยสฺเสกรตฺติมฺปิ(๕) ฆเร วเสยฺย  
+<span class="LineNumber"> 018 </span>		ยตฺถนฺนปานํ ปุริโส ลเภถ  
+<span class="LineNumber"> 019 </span>		น ตสฺส ปาปํ มนสาปิ เจตเย(๖)  
+<span class="LineNumber"> 020 </span>		อลฺลฺจ ปาณึ ทหเต มิตฺตทุพฺโภ  
+<span class="LineNumber"> 021 </span># ๑. ม.ภาสิเต ฯ  ๒. ม. ปุจฺฉนฺโต คาถมาห ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. อนุยายิ ฯ  ๔. ม. อสนฺถุตํ โนปิ จ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. ยสฺเสกรตฺตมฺปิ ฯ  ๖. ม. จินฺตเย ฯ 

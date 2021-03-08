@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>สุทธธาตุมูลจักกวาระ  ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>         [๘๐๒]   ธรรมที่ไม่ชื่อว่าจักขุ,  ไม่ชื่อว่าธาตุ  ใช่ไหม  ? 
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่าธาตุ,  ไม่ชื่อว่าโสต  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ธรรมที่ไม่ชื่อว่าจักขุ,   ไม่ชื่อว่าธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่าธาตุ,  ไม่ชื่อว่าฆานะ  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>                                       ฯ ล ฯ
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่าจักขุ,  ไม่ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ธรรมที่ไม่ชื่อว่าธาตุ,   ไม่ชื่อว่าธรรม  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>                                       ฯ ล ฯ
+<span class="LineNumber"> 010 </span>         ธรรมที่ไม่ชื่อว่าธรรม,  ไม่ชื่อว่าธาตุ ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ธรรมที่ไม่ชื่อว่าธาตุ,  ไม่ชื่อว่าจักขุ  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>                                       ฯ ล ฯ
+<span class="LineNumber"> 013 </span>         ธรรมที่ไม่ชื่อว่าธรรม,  ไม่ชื่อว่าธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ธรรมที่ไม่ชื่อว่าธาตุ,  ไม่ชื่อว่ามโนวิญญาณ  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         (พึงผูกจักกนัย. )
+<span class="LineNumber"> 016 </span>                    <I>สุทธธาตุมูลจักกวาระ  ปัจจนิก  จบ</I>
+<span class="LineNumber"> 017 </span>                                  <I>อุทเทสวาระ  จบ</I>

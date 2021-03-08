@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  300
+
+<span class="LineNumber"> 002 </span>	ตํ สุตฺวา ปุณฺณโก ตุฏฺ€หฏฺโ€(๑) ปุน อปฺโผเฏตฺวา คาถมาห  
+<span class="LineNumber"> 003 </span>	[๙๔๖]อยํปิ ทุติโย วิชโย มมชฺช  
+<span class="LineNumber"> 004 </span>		ปุฏฺโ€ หิ กตฺตา วิวเรตฺถ ปฺหํ  
+<span class="LineNumber"> 005 </span>		อธมฺมรูโป วต ราชเสฏฺโ€  
+<span class="LineNumber"> 006 </span>		สุภาสิตํ นานุชานาสิ มยฺหนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  ราชเสฏฺโ€ติ  อยํ  ราชเสฏุโ€  อธมฺมรูโป  วต ฯ  
+<span class="LineNumber"> 008 </span>สุภาสิตนฺติ  วิธุรปณฺฑิเตน  สุกถิตํ  สุวินิจฺฉิตํ ฯ  นานุชานาสิ 
+<span class="LineNumber"> 009 </span>มยฺหนฺติ  อิทาเนว วิธุรปณฺฑิตํ มยฺหํ กสฺมา นานุชานาสิ 
+<span class="LineNumber"> 010 </span>กิมตฺถํ น เทสีติ วทติ ฯ  
+<span class="LineNumber"> 011 </span>	ตํ  สุตฺวา  ราชา [๒] อยํ[๓]  ปณฺฑิโต  มาทิสํ  ยสทายกํ 
+<span class="LineNumber"> 012 </span>อโนโลเกตฺวา  อิทานิ  ทิฏฺ€ํ  มาณวกํ  โอโลเกสีติ  มหาสตฺตสฺส 
+<span class="LineNumber"> 013 </span>กุชฺฌิตฺวา  มาณว  สเจ โส ทาโส[๔] ตํ คเหตฺวา คจฺฉถาติ(๕) 
+<span class="LineNumber"> 014 </span>คาถมาห  
+<span class="LineNumber"> 015 </span>	[๙๔๗]เอวฺจ(๖) โน โส วิวเรตฺถ ปฺหํ  
+<span class="LineNumber"> 016 </span>		ทาโสหมสฺมิ น จ โขสฺมิ าติ  
+<span class="LineNumber"> 017 </span>		คณฺหาหิ กจฺจายน(๗) วรํ ธนานํ  
+<span class="LineNumber"> 018 </span>		อาทาย เยนิจฺฉสิ เตน คจฺฉาติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  เอวฺจ  โน  โส  วิวเรตฺถ  ปฺหนฺติ  สเจ  โส  
+<span class="LineNumber"> 020 </span># ๑. ม. หฏฺ€ตุฏฺโ€ ฯ  ๒. ม. เอตฺถนฺตเร อนตฺตมโน หุตฺวาติ 
+<span class="LineNumber"> 021 </span># ทิสฺสนฺติ ฯ  ๓. ม. อยํ ปาโ€ นตฺถิ ฯ  ๔. ม. เอตฺถนฺตเร เม
+<span class="LineNumber"> 022 </span># ภเวยฺยาติ ทิสฺสนฺติ ฯ  ๕. ม. คจฺฉาติ วตฺวา ฯ
+<span class="LineNumber"> 023 </span># ๖. ม. เอวํ เจ ฯ  ๗. ม. กจฺจาน ฯ 

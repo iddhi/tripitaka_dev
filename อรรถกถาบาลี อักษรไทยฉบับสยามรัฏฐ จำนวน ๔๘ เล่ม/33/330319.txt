@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  33  ภึสกชาตกํ  หน้า  319  
+
+<span class="LineNumber"> 002 </span>		อวีตราโค มรณํ ขิเปตุ (๑)   
+<span class="LineNumber"> 003 </span>		ภึสานิ เต พฺราหฺมณ โย อหาสิ ฯ  
+<span class="LineNumber"> 004 </span>[๑๙๒๘]โส คามณิ โหตุ สหายมชฺเฌ  
+<span class="LineNumber"> 005 </span>		นจฺเจหิ คีเตหิ ปโมทมาโน  
+<span class="LineNumber"> 006 </span>		มา ราชโต พฺยสนมลตฺถ (๒)  กิฺจิ  
+<span class="LineNumber"> 007 </span>		ภึสานิ เต พฺราหฺมณ โย อหาสิ ฯ  
+<span class="LineNumber"> 008 </span>[๑๙๒๙]ยํ เอกราชา ป€วึ วิชิตฺวา  
+<span class="LineNumber"> 009 </span>		อิตฺถีสหสฺสาน (๓)  €เปตุ อคฺคํ  
+<span class="LineNumber"> 010 </span>		สีมนฺตินีนํ ปวรา ภวาตุ  
+<span class="LineNumber"> 011 </span>		ภึสานิ เต พฺราหฺมณ โย (๔)  อหาสิ ฯ  
+<span class="LineNumber"> 012 </span>[๑๙๓๐]ทาสีนํ (๕)  หิ สา สพฺพสมาคตานํ  
+<span class="LineNumber"> 013 </span>		ภุฺเชยฺย สาธุํ (๖)  อวิกมฺปมานา  
+<span class="LineNumber"> 014 </span>		จราตุ ลาเภน วิกตฺถมานา  
+<span class="LineNumber"> 015 </span>		ภึสานิ เต พฺราหฺมณ โย (๔)  อหาสิ ฯ  
+<span class="LineNumber"> 016 </span>[๑๙๓๑]อาวาสิโก โหตุ มหาวิหาเร  
+<span class="LineNumber"> 017 </span>		นวกมฺมิโก โหตุ กชงฺคลายํ(๗)   
+<span class="LineNumber"> 018 </span>		อาโลกสนฺธึ ทิวสา (๘)  กโรตุ  
+<span class="LineNumber"> 019 </span>		ภึสานิ เต พฺราหฺมณ โย อหาสิ ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. ม. อุเปตุ ฯ   ๒.  ม. โส ราชโต พฺยสฺนมาลตฺถํ ฯ
+<span class="LineNumber"> 021 </span>#๓.  สี.ยุ. อิตฺถีสหสฺสสฺส ฯ   ๔.  ม. ยา ฯ   ๕.  ม. อิสีนํ ฯ  
+<span class="LineNumber"> 022 </span>#๖.  สฺยา. สาทุํ ฯ   ๗.  ม. คชงฺคลายํ ฯ   ๘.  ม. ทิวสํ ฯ  

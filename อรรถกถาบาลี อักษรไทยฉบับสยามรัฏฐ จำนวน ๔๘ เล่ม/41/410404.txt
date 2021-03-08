@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  41  ปฺาวคฺควณฺณนา  หน้า  404
+
+<span class="LineNumber"> 002 </span>สฬายตนนฺติ  าณํ ฯ 
+<span class="LineNumber"> 003 </span>	วิฺาณปจฺจยา  นามรูปนฺติ  าณํ ฯ สงฺขารปจฺจยา 
+<span class="LineNumber"> 004 </span>วิฺาณนฺติ  าณํ ฯ 
+<span class="LineNumber"> 005 </span>	อวิชฺชาปจฺจยา  สงฺขาราติ าณํ อสติ  อวิชฺชาย  นตฺถิ 
+<span class="LineNumber"> 006 </span>สงฺขาราติ าณํ ฯ 
+<span class="LineNumber"> 007 </span>	อตีตมฺปิ  อทฺธานํ อวิชฺชาปจฺจยา สงฺขาราติ าณํ 
+<span class="LineNumber"> 008 </span>อสติ อวิชฺชาย นตฺถิ  สงฺขาราติ าณํ ฯ 
+<span class="LineNumber"> 009 </span>	อนาคตมฺปิ อทฺธานํ อวิชฺชาปจฺจยา สงฺขาราติ  าณํ 
+<span class="LineNumber"> 010 </span>อสติ อวิชฺชาย นตฺถิ สงฺขาราติ าณํ ฯ 
+<span class="LineNumber"> 011 </span>	ยมฺปิสฺส  ตํ  ธมฺมฏฺ€ิติาณํ ตมฺปิ  ขยธมฺมํ  วยธมฺมํ 
+<span class="LineNumber"> 012 </span>วิราคธมฺมํ  นิโรธธมฺมนฺติ  าณํ   ฯ
+<span class="LineNumber"> 013 </span>	อิมานิ วุจฺจนฺติ ภิกฺขเว สตฺตสตฺตริ าณวตฺถูนีติ (๑)  
+<span class="LineNumber"> 014 </span>เอวํ  ภควตา  นิทานวคฺเค  วุตฺตานิ  สตฺตสตฺตติ  าณานิ ฯ 
+<span class="LineNumber"> 015 </span>ชรามรเณ  าณํ  ชรามรณสมุทเย  าณํ  ชรามรณนิโรเธ  
+<span class="LineNumber"> 016 </span>าณํ  ชรามรณนิโรธคามินิยา  ปฏิปทาย  าณนฺติ  (๒)  อิมินา  
+<span class="LineNumber"> 017 </span>นเยน  เอกาทสสุ  องฺเคสุ  จตฺตาริ จตฺตาริ กตฺวา  วุตฺตานิ  
+<span class="LineNumber"> 018 </span>จตุจตฺตาฬีส  าณวตฺถูนิ  ปน  อิธ  น  คหิตานิ ฯ  อุภยตฺถ  
+<span class="LineNumber"> 019 </span>จ  าณานิเยว  หิตสุขสฺส  วตฺถูนีติ  าณวตฺถูนีติ  (๓) ฯ  
+<span class="LineNumber"> 020 </span>	ลาโภติอาทีสุ  ลาโภเยว  อุปสคฺเคน วิเสเสตฺวา ปฏิลาโภติ  
+<span class="LineNumber"> 021 </span>วุตฺโต ฯ  
+<span class="LineNumber"> 022 </span># ๑.  สํ. นิ.  ๑๖/๑๒๗/๗๑  ฯ  ๒.  สํ. นิ.  ๑๖/๑๑๙/๖๗  ฯ  
+<span class="LineNumber"> 023 </span>#๓.  ม. อิติ  สทฺโท  นตฺถิ  ฯ

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                 ธรรมวิภาค  ปริเฉทที่  ๒  
+<span class="LineNumber"> 002 </span>                                       ทุกะ  หมวด  ๒  
+<span class="LineNumber"> 003 </span>                                         อริยบุคคล ๒
+<span class="LineNumber"> 004 </span>                                         อริยบุคคล  ๒
+<span class="LineNumber"> 005 </span>		พระเสขะ		พระผู้ยังต้องศึกษา
+<span class="LineNumber"> 006 </span>		พระอเสขะ  	พระผู้ไม่ต้องศึกษา
+<span class="LineNumber"> 007 </span>						องฺ.  ทุก.  ๒๐/๘๐.
+<span class="LineNumber"> 008 </span>	อธิบาย :  พระอริยบุคคล  ๗  เบื้องต้น  ชื่อว่าพระเสขะ  เพราะ
+<span class="LineNumber"> 009 </span>เป็นผู้ยังต้องปฏิบัติเพื่อมรรคผลเบื้องสูงขึ้นไป.  พระอริยบุคคลผู้ตั้ง
+<span class="LineNumber"> 010 </span>อยู่ในพระอรหัตตผล   ชื่อว่าพระอเสขะ   เพราะเสร็จกิจอันจะต้องทำ
+<span class="LineNumber"> 011 </span>แล้ว  [จงดูอริยบุคคล  ๘].
+<span class="LineNumber"> 012 </span>                                          กัมมัฏฐาน  ๒
+<span class="LineNumber"> 013 </span>		สมถกัมมัฏฐาน   		กัมมัฏฐานเป็นอุบายสงบใจ
+<span class="LineNumber"> 014 </span>		วิปัสสนากัมมัฏฐาน	 	กัมมัฏฐานเป็นอุบายเรืองปัญญา.
+<span class="LineNumber"> 015 </span>								องฺ.  ทุก.  ๒๐/๗๗.
+<span class="LineNumber"> 016 </span>	อธิบาย :   กัมมัฏฐานเนื่องด้วยบริกรรม   ไม่เกี่ยวกับปัญญา
+<span class="LineNumber"> 017 </span>จัดเป็นสมถกัมมัฏฐาน.   กัมมัฏฐานเนื่องด้วยทัสสนะทางใจ  ในคติ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  204
+	
+<span class="LineNumber"> 002 </span>	อรหา หุตฺวา ปน อฺเสํ โสสานิกภิกฺขูนํ เมตฺตา-
+<span class="LineNumber"> 003 </span>ภาวนาวิธึ (๑) ทสฺเสนฺโต  
+<span class="LineNumber"> 004 </span>		ยถาปิ เอกปุตฺตสฺมึ	ปิยสฺมึ กุสลี สิยา  
+<span class="LineNumber"> 005 </span>		เอวํ สพฺเพสุ ปาเณสุ	สพฺพตฺถ กุสโล สิยาติ(๒)  
+<span class="LineNumber"> 006 </span>คาถํ อภาสิ ฯ 
+<span class="LineNumber"> 007 </span>	ตตฺถ  ยถาติ  โอปมฺมตฺเถ  นิปาโต ฯ
+<span class="LineNumber"> 008 </span>	เอกปุตฺตสฺมินฺติ  ปุนาติ  จ  กุลวํสํ  ตายติ  จาติ  (๓)  ปุตฺโต 
+<span class="LineNumber"> 009 </span>อตฺรชาทิเภโท ปุตฺโต ฯ เอโก ปุตฺโต เอกปุตฺโต ตสฺมึ  
+<span class="LineNumber"> 010 </span>เอกปุตฺตสฺมึ ฯ  วิสเย  เจตํ  ภุมฺมวจนํ ฯ 
+<span class="LineNumber"> 011 </span>	ปิยสฺมินฺติ  ปิยายิตพฺพตาย  เจว เอกปุตฺตตาย  จ 
+<span class="LineNumber"> 012 </span>รูปสีลาจาราทีหิ  จ เปมกรณฏฺ€านภูเต ฯ 
+<span class="LineNumber"> 013 </span>	กุสลีติ กุสลํ วุจฺจติ เขมํ โสตฺถิภาโว  ตํ  ลภิตพฺพํ 
+<span class="LineNumber"> 014 </span>เอตสฺส  อตฺถีติ กุสลี สตฺตานํ หิเตสี เมตฺตชฺฌาสโย ฯ	
+<span class="LineNumber"> 015 </span>	สพฺเพสุ  ปาเณสูติ  สพฺเพสุ  สตฺเตสุ ฯ 
+<span class="LineNumber"> 016 </span>	สพฺพตฺถาติ  สพฺพาสุ  ทิสาสุ  สพฺเพสุ วา  ภวาทีสุ  
+<span class="LineNumber"> 017 </span>สพฺพาสุ  วา  อวตฺถาสุ ฯ  อิทํ  วุตฺตํ  โหติ  ยถา  เอกปุตฺตเก (๔) 
+<span class="LineNumber"> 018 </span>ปิเย  มนาเป  มาตาปิตา  กุสลี  เอกนฺตหิเตสี  ภเวยฺย  เอวํ  
+<span class="LineNumber"> 019 </span>ปุรตฺถิมาทิเภทาสุ สพฺพาสุ  ทิสาสุ  กามภวาทิเภเทสุ  สพฺเพสุ  (๕)
+<span class="LineNumber"> 020 </span># ๑. สี. เมตฺตภาวนาย วิถึ ฯ  ๒. ขุ. เถร. ๒๖/๑๗๐/๒๖๘ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. ปุนาติ กุลวํสํ ตายตีติ วา ฯ  ๔. สี. เอกปุตฺเต ฯ 
+<span class="LineNumber"> 022 </span># ๕. สี. สพฺเพสุ วา ฯ 

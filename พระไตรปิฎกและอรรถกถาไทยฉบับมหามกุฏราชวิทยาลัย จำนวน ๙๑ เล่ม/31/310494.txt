@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>อามกธัญญเปยยาล  ทุติยวรรคที่   ๘</H1>
+
+<span class="LineNumber"> 002 </span>                                      <H1>๑. ปาณาติปาตสูตร</H1>
+
+<span class="LineNumber"> 003 </span>                        <H1>ว่าด้วยสัตว์ผู้เว้นปาณาติบาตมีน้อย</H1>
+
+<span class="LineNumber"> 004 </span>           [๑๗๖๖]  ดูก่อนภิกษุทั้งหลาย     ฉันนั้นเหมือนกัน   สัตว์ผู้เว้นจาก
+<span class="LineNumber"> 005 </span>ปาณาติบาตมีน้อย   โดยที่แท้   สัตว์ผู้ไม่เว้น จากปาณาติบาต    มีมากกว่าข้อนั้น
+<span class="LineNumber"> 006 </span>เพราะเหตุไร ฯลฯ
+<span class="LineNumber"> 007 </span>                                  <I>จบปาณาติปาตสูตรที่ ๑</I>
+
+<span class="LineNumber"> 008 </span>                               <H1>๒.  อทินนาทานสูตร</H1>
+ 
+<span class="LineNumber"> 009 </span>                       <H1>ว่าด้วยสัตว์ผู้เว้นอทินนาทานมีน้อย</H1>
+
+<span class="LineNumber"> 010 </span>           [๑๗๖๗]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน   สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 011 </span>อทินนาทาน  มีน้อย  โดยที่แท้ สัตว์ผู้ไม่งดเว้นจากอทินนาทาน  มีมากกว่า ฯลฯ
+<span class="LineNumber"> 012 </span>                                        <I>จบอทินนาทานสูตรที่ ๒</I>
+
+<span class="LineNumber"> 013 </span>                                 <H1>๓.  กาเมสุมิจฉาจารสูตร</H1>
+
+<span class="LineNumber"> 014 </span>                        <H1>ว่าด้วยสัตว์ผู้เว้นกาเมสุมิจฉาจารมีน้อย</H1>
+
+<span class="LineNumber"> 015 </span>           [๑๗๖๘] ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน  สัตว์ผู้งดเว้นจากกาเม-
+<span class="LineNumber"> 016 </span>สุมิจฉาจาร  มีน้อย  โดยที่แท้  สัตว์ผู้ไม่งดเว้นจากกาเมสุมิจฉาจาร มีมากกว่า ฯลฯ
+<span class="LineNumber"> 017 </span>                                   <I>จบกาเมสุมิจฉาจารสูตรที่  ๓</I>

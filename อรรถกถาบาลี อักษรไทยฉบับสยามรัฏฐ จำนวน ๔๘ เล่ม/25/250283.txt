@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ฉฏฺ€วคฺเค ทุติยกุฏิวิหาริตฺเถรคาถาวณฺณนา หน้า 283
+
+<span class="LineNumber"> 002 </span>วุตฺตํ  อปทาเน (๑)  
+<span class="LineNumber"> 003 </span>		ปทุมุตฺตรพุทฺธสฺส		โลกเชฏฺ€สฺส ตาทิโน  
+<span class="LineNumber"> 004 </span>		ติณตฺถเร นิสินฺนสฺส	อุปสนฺตสฺส ตาทิโน ฯ  
+<span class="LineNumber"> 005 </span>		นฬมาลํ คเหตฺวาน	พนฺธิตฺวา วีชนึ อหํ  
+<span class="LineNumber"> 006 </span>		พุทฺธสฺส อุปนาเมสึ	ทิปทินฺทสฺส ตาทิโน ฯ  
+<span class="LineNumber"> 007 </span>		ปฏิคฺคเหตฺวา สพฺพฺู	วีชนึ โลกนายโก  
+<span class="LineNumber"> 008 </span>		มม สงฺกปฺปมฺาย	อิมํ คาถํ อภาสถ ฯ  
+<span class="LineNumber"> 009 </span>		ยถา เม กาโย นิพฺพาติ(๒)	ปริฬาโห น วิชฺชติ  
+<span class="LineNumber"> 010 </span>		ตเถว ติวิธคฺคีหิ  จิตฺตํ	ตว วิมุจฺจตุ ฯ  
+<span class="LineNumber"> 011 </span>		สพฺเพ เทวา สมาคจฺฉุํ	เย เกจิ วนนิสฺสิตา(๓)  
+<span class="LineNumber"> 012 </span>		โสสฺสาม พุทฺธวจนํ	หาสยนฺตํ จ ทายกํ ฯ  
+<span class="LineNumber"> 013 </span>		นิสินฺโน ภควา ตตฺถ	เทวสงฺฆปุรกฺขโต  
+<span class="LineNumber"> 014 </span>		ทายกํ สมฺปหํเสนฺโต	อิมา คาถา อภาสถ ฯ  
+<span class="LineNumber"> 015 </span>		อิมินา วีชนิทาเนน(๔)	จิตฺตสฺส ปณิธีหิ จ  
+<span class="LineNumber"> 016 </span>		สุพฺพโต นาม นาเมน	จกฺกวตฺตี ภวิสฺสติ ฯ  
+<span class="LineNumber"> 017 </span>		เตน กมฺมาวเสเสน	สุกฺกมูเลน โจทิโต  
+<span class="LineNumber"> 018 </span>		มาลุโต นาม นาเมน	จกฺกวตฺตี ภวิสฺสติ ฯ  
+<span class="LineNumber"> 019 </span>		อิมินา วีชนิทาเนน(๔)	สมฺมานวิปุเลน จ  
+<span class="LineNumber"> 020 </span>		กปฺปสตสหสฺสมฺปิ(๕)	ทุคฺคตึ นุปปชฺชติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ขุ. อ. ๓๒/๑๐๙/๒๐๕ ฯ  ๒. สฺยา. นิพฺพายิ ฯ 
+<span class="LineNumber"> 022 </span># ๓. สฺยา. ทุมนิสฺสิตา ฯ  ๔. สฺยา. ม. วีชนิทาเนน ฯ 
+<span class="LineNumber"> 023 </span># ๕. สฺยา. ...สหสฺสมฺหิ ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  18  หน้า  729
+
+<span class="LineNumber"> 002 </span>	เอตฺตาวตา  สพฺพป€เม  ยมกวคฺเค  จุทฺทส  วตฺถูนิ 
+<span class="LineNumber"> 003 </span>อปฺปมาทวคฺเค  นว  จิตฺตวคฺเค  นว  ปุปฺผวคฺเค  ทฺวาทส  (๑) 
+<span class="LineNumber"> 004 </span>พาลวคฺเค  ปณฺณรส  (๒) ปณฺฑิตวคฺเค  เอกาทส  อรหนฺตวคฺเค
+<span class="LineNumber"> 005 </span>ทส  สหสฺสวคฺเค  จุทฺทส  ปาปวคฺเค  ทฺวาทส  ทณฺฑวคฺเค
+<span class="LineNumber"> 006 </span>เอกาทส  ชราวคฺเค  นว  อตฺตวคฺเค  ทส  โลกวคฺเค  เอกาทส
+<span class="LineNumber"> 007 </span>พุทฺธวคฺเค  นว  สุขวคฺเค  อฏฺ€  ปิยวคฺเค  นว  โกธวคฺเค
+<span class="LineNumber"> 008 </span>อฏฺ€  มลวคฺเค  ทฺวาทส  ธมฺมฏฺ€วคฺเค  ทส  มคฺควคฺเค  ทส
+<span class="LineNumber"> 009 </span>ปกิณฺณกวคฺเค  นว  นิรยวคฺเค  นว  นาควคฺเค  อฏฺ€
+<span class="LineNumber"> 010 </span>ตณฺหาวคฺเค  ทฺวาทส  ภิกฺขุวคฺเค  ทฺวาทส  พฺราหฺมณวคฺเค
+<span class="LineNumber"> 011 </span>เอกูนจตฺตาลีสาติ  เอเกนูนานิ  ตีณิ  วตฺถุสตานิ  (๓)  ปกาเสตฺวา
+<span class="LineNumber"> 012 </span>นาติสงฺเขปนาติวิตฺถารวเสน  อุปรจิตา  ทฺวาสตฺตติภาณวารปฺ-
+<span class="LineNumber"> 013 </span>ปมาณา  ธมฺมปทสฺส  อฏฺ€กถา  นิฏฺ€ิตา  (๔) ฯ
+<span class="LineNumber"> 014 </span>	ปตฺตํ  ธมฺมปทํ  เยน  	ธมฺมราเชนนุตฺตรํ
+<span class="LineNumber"> 015 </span>	คาถา  ธมฺมปเท  เตน  	ภาสิตา  ยา  มเหสินา
+<span class="LineNumber"> 016 </span>	สเตวีสา  จตุสฺสตา  	จตุสฺสจฺจวิภาวินา
+<span class="LineNumber"> 017 </span>	สตตฺตยมฺหิ  วตฺถูนํ  	เอเกนูเน  สมุฏฺ€ิตา
+<span class="LineNumber"> 018 </span>#๑.  สี. ยุ.  เอกาทส ฯ  ๒. สี. ยุ.  จุทฺทส ฯ  เตสุ  โปตฺถเกสุ  ปน 
+<span class="LineNumber"> 019 </span>#     วตฺถูนิ  กเมน  ทฺวาทเสว  เจว  ปณฺณรเสว  จ  โหนฺติ ฯ
+<span class="LineNumber"> 020 </span>#๓.  อิมานิ  สกลียมานานิ  เอกาธิกานิ  ตีณิ  สตานิ  โหนฺติ ฯ  
+<span class="LineNumber"> 021 </span>#๔.  พุทฺธวคฺเค  นวาติ  ปกฺขิปิตฺวา  กเต  อิมานิ  สกลียมานานิ
+<span class="LineNumber"> 022 </span>#      ทฺวาธิกานิ  ตีณิ  วตถุสตฺานิ  โหนฺติ ฯ

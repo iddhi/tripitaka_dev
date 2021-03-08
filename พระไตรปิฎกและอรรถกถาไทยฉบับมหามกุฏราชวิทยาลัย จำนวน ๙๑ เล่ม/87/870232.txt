@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>วิปากปัจจัย   มี ๑ วาระ  ในอาหารปัจจัย   มี ๑๗ วาระ  ในอินทริยปัจจัย   ใน 
+<span class="LineNumber"> 002 </span>ฌานปัจจัย ในมัคคปัจจัย  (แต่ละปัจจัย) มี ๑๗ วาระ ในสัมปยุตตปัจจัย  มี ๗
+<span class="LineNumber"> 003 </span>วาระ  ในวิปปยุตตปัจจัย  มี ๑๗ วาระ  ในอัตถิปัจจัย   มี ๑๗ วาระ  ในนัตถิ
+<span class="LineNumber"> 004 </span>ปัจจัย  มี ๗ วาระ  ในวิคตปัจจัย   มี ๗ วาระ  ในอวิคตปัจจัย   มี ๑๗ วาระ.
+<span class="LineNumber"> 005 </span>           พึงนับอย่างนี้. 
+<span class="LineNumber"> 006 </span>                                            <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                               <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 008 </span>                                            <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๐๕๓] ๑.  <B>อาจยคามิธรรม   อาศัยอาจยคามิธรรม    เกิดขึ้น
+<span class="LineNumber"> 010 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์
+<span class="LineNumber"> 012 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 013 </span>                         ๒.  <B>เนวาจยคามินาปจยคามิธรรม  อาศัยเนวาจยคามิ-
+<span class="LineNumber"> 014 </span>นาปจยคามิธรรม  ฯลฯ  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ เป็นเนวาจยคามินา
+<span class="LineNumber"> 016 </span>ปจยคามิธรรม   ซึ่งเป็นอเหตุกะ ฯลฯ อาศัยขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 017 </span>           ในอเหตุกปฏิสนธิขณะ ฯลฯ ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ อาศัยมหา-
+<span class="LineNumber"> 018 </span>ภูตรูป  ๑. ฯลฯ
+<span class="LineNumber"> 019 </span>           จักขุวิญญาณ    อาศัยจักขายตนะ ฯลฯ กายวิญญาณ    อาศัยกายาตนะ
+<span class="LineNumber"> 020 </span>ขันธ์ทั้งหลายที่เป็นเนวาจยคามินาปจยคามิธรรม  ซึ่งเป็นอเหตุกะ  อาศัยหทยวัตถุ.

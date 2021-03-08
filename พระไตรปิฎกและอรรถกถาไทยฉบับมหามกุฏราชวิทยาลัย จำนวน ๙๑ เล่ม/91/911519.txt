@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>คำอนุโมทนา</H2> 
+<span class="LineNumber"> 002 </span>                             <B>อนึ่ง  ขอเทพเจ้าทั้งปวงจงอนุโมทนา 
+<span class="LineNumber"> 003 </span>                   บุญสมบัติ    ที่ข้าพเจ้าทั้งหลายก่อสร้างแล้ว
+<span class="LineNumber"> 004 </span>                   ด้วยเหตุมีประมาณเท่านี้     เพื่อความสำเร็จ
+<span class="LineNumber"> 005 </span>                   แห่งสมบัติทั้งปวง</B>
+<span class="LineNumber"> 006 </span>                             <B>ขอสรรพสัตว์ผู้ถึงความทุกข์  จงเป็น
+<span class="LineNumber"> 007 </span>                   ผู้ไม่มีความทุกข์   ผู้ถึงภัย  จงเป็นผู้ไม่มีภัย
+<span class="LineNumber"> 008 </span>                   ผู้ถึงความโศก   จงเป็นผู้ไม่มีความโศก   จง
+<span class="LineNumber"> 009 </span>                   บรรลุธรรมอันเกษม</B>
+<span class="LineNumber"> 010 </span>                             <B>พระพุทธเจ้าทั้งปวง และพระปัจเจก-
+<span class="LineNumber"> 011 </span>                   พุทธเจ้าทั้งหลาย      ทรงบรรลุธรรมใดเป็น
+<span class="LineNumber"> 012 </span>                   กำลัง     ข้าพเจ้าจะประกอบการรักษาธรรม
+<span class="LineNumber"> 013 </span>                   อันเป็นกำลังเหล่านั้นไว้   ด้วยเดชแห่งธรรม
+<span class="LineNumber"> 014 </span>                   โดยประการทั้งปวง.</B>

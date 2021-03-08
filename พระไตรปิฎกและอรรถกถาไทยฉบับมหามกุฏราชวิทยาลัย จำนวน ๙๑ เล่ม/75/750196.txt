@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>๔๑.  วิชชาทุกะ</H2>
+
+<span class="LineNumber"> 002 </span><B>วิชฺชา จ</B>	                         ความรู้แจ้ง
+<span class="LineNumber"> 003 </span><B>วิมุตฺติ จ</B>	                        ความหลุดพ้น    
+
+<span class="LineNumber"> 004 </span>                             <H2>๔๒.  ขยญาณทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>ขเย าณํ</B>                             ญาณในอริยมรรค
+<span class="LineNumber"> 006 </span><B>อนุปฺปาเท าณํ</B>                   ญาณในอริยผล
+
+<span class="LineNumber"> 007 </span>                            <I>สุตตันตมาติกา ๔๒ ทุกะ จบ
+<span class="LineNumber"> 008 </span>                                      มาติกา จบ</I>
+
+<span class="LineNumber"> 009 </span>                      <H1>อรรถกถามาติกานุบุพบท</H1>
+
+<span class="LineNumber"> 010 </span>         ก็ในบททุกมาติกา ข้าพเจ้าจักพรรณนาบทซึ่งยังไม่มาในติกะทั้งหลาย
+<span class="LineNumber"> 011 </span>เท่านั้น จักพรรณาบทในเหตุโคจฉกะก่อน.
+<span class="LineNumber"> 012 </span>         บทว่า <B>เหตู ธมฺมา</B> ได้แก่ ธรรมทั้งหลายกล่าวคือเหตุ ด้วยอรรถว่า
+<span class="LineNumber"> 013 </span>เป็นรากเหง้า พระบาลีว่า <B>เหตุธมฺมา</B> ดังนี้ก็มี.  บทว่า <B>น เหตู</B> เป็นคำ
+<span class="LineNumber"> 014 </span>ปฏิเสธเหตุเหล่านั้นโดยแท้. ธรรมที่ชื่อว่า  สเหตุกะ เพราะมีเหตุเป็นไปโดย
+<span class="LineNumber"> 015 </span>สัมปโยคะ  ธรรมที่ชื่อว่า อเหตุกะ เพราะเหตุที่เป็นไปของธรรมทั้งหลาย
+<span class="LineNumber"> 016 </span>เหมือนอย่างนั้นไม่มี.  ธรรมที่ชื่อว่า เหตุสัมปยุตตะ เพระสัมปยุตด้วยเหตุ
+<span class="LineNumber"> 017 </span>โดยมีเอกุปปาทะเป็นต้น.  ธรรมที่ชื่อว่า เหตุวิปปยุตตะ เพราะไม่ประกอบ
+<span class="LineNumber"> 018 </span>ด้วยเหตุ.

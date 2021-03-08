@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                     <h2>เสียสละแก่ภิกษุณีรูปหนึ่ง</h2>
+<span class="LineNumber"> 002 </span>            ภิกษุณีรูปนั้นพึงเข้าไปหาภิกษุณีรูปหนึ่ง. . .  ข้าพเจ้าให้ของอย่างอื่น
+<span class="LineNumber"> 003 </span>อีกสิ่งนี้แก่แม่เจ้า   ดังนี้. 
+
+<span class="LineNumber"> 004 </span>                                               <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>ติกะนิสสัคคิยปาจิตตีย์</H2>
+<span class="LineNumber"> 006 </span>            [๑๑๒]   ของอย่างหนึ่ง   ภิกษุณีสำคัญว่า  ของอย่างหนึ่ง  ขอของอย่าง
+<span class="LineNumber"> 007 </span>อื่นอีก  เป็นนิสสัคคีย์   ต้องอาบัติปาจิตตีย์ 
+<span class="LineNumber"> 008 </span>            ของอย่างหนึ่ง    ภิกษุณีสงสัย     ขอของอย่างอื่นอีก    เป็นนิสสัคคีย์
+<span class="LineNumber"> 009 </span>ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 010 </span>            ของอย่างหนึ่ง  ภิกษุณีสำคัญว่า  มิใช่ของอย่างหนึ่ง  ขอของอย่างอื่นอีก
+<span class="LineNumber"> 011 </span>เป็นนิสสัคคีย์   ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 012 </span>                                             <H2>ทุกะทุกกฏ</H2>                      
+<span class="LineNumber"> 013 </span>            มิใช่ของอย่างหนึ่ง   ภิกษุณีสำคัญว่า  ของอย่างหนึ่ง  ต้องอาบัติทุกกฏ 
+<span class="LineNumber"> 014 </span>            มิใช่ของอย่างหนึ่ง   ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ. 
+
+<span class="LineNumber"> 015 </span>                                           <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 016 </span>            มิใช่ของอย่างหนึ่ง  ภิกษุณีสำคัญว่า  มิใช่ของอย่างหนึ่ง  ไม่ต้องอาบัติ. 
+
+<span class="LineNumber"> 017 </span>                                            <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 018 </span>            [๑๑๓]   ขอของสิ่งหนึ่งนั้น     และขอแถมของอื่นอีกอย่างรวมกัน  ๑
+<span class="LineNumber"> 019 </span>แสดงอานิสงส์แล้วขอ  ๑   วิกลจริต  ๑   อาทิกัมมิกา ๑   ไม่ต้องอาบัติแล. 
+<span class="LineNumber"> 020 </span>                                   <I>ปัตตวรรค  สิกขาบทที่  ๔  จบ</I>

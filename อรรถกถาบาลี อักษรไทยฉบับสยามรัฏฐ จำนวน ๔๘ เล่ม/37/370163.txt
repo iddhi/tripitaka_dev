@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 163
+
+<span class="LineNumber"> 002 </span>ปวุตฺตึ(๑)  ตฺวา  ตาวเทว  ปชฺชลิตอยกูฏํ(๒)  อาทาย  อาคนฺตฺวา
+<span class="LineNumber"> 003 </span>ราชานํ ตาเสตฺวา  สพฺเพ วิสชฺชาเปสิ ฯ  
+<span class="LineNumber"> 004 </span>	ตมตฺถํ ปกาเสนฺโต	สตฺถา อาห  
+<span class="LineNumber"> 005 </span>[๘๓๐]ตํ สุตฺวา อมนุสฺโส		อโยกูฏํ ปริพฺภมิตฺวา(๓)  
+<span class="LineNumber"> 006 </span>	ภยมสฺส ชนยนฺโต		ราชานํ อิทมโวจ  
+<span class="LineNumber"> 007 </span>	พุชฺฌสฺสุ โข ราชกลิ	มา เตหํ(๔) มตฺถกํ นิตาเฬสึ  
+<span class="LineNumber"> 008 </span>	มา เชฏฺ€ปุตฺตํ อวธิ	อทูสกํ สีหสํกาสํ  
+<span class="LineNumber"> 009 </span>	โก เต ทิฏฺโ€ ราชกลิ	ปุตฺตภริยาโย หฺมานา (๕) 
+<span class="LineNumber"> 010 </span>	เสฏฺ€ี จ คหปตโย		อทูสกา สคฺคกามา หิ  
+<span class="LineNumber"> 011 </span>[๘๓๑]ตํ สุตฺวา กณฺฑหาโล(๖)	ราชา จ อพฺภูตมิทํ ทิสฺวาน  
+<span class="LineNumber"> 012 </span>	สพฺเพสํ พนฺธนานิ โมเจสุํ  ยถา ตํ อปาปานํ(๗)  
+<span class="LineNumber"> 013 </span>	สพฺเพสุ วิปฺปมุตฺเตสุ	เย ตตฺถ สมาคตา ตทา อาสุํ  
+<span class="LineNumber"> 014 </span>	สพฺเพ เอเกกเลฑฺฑุมกํสุ(๘) เอส วโธ กณฺฑหาลสฺสาติ(๙) ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  อมนุสฺโสติ  สกฺโก  เทวราชา ฯ  พุชฺฌสฺสูติ  ชานสฺสุ  
+<span class="LineNumber"> 016 </span>สลฺลกฺเขหิ ฯ  ราชกลีติ  ราชกาฬกณฺณิ  ราชลามก ฯ  มา 
+<span class="LineNumber"> 017 </span>เตหนฺติ  ปาปราช  พุชฺฌ  มา  เต  อหํ  มตฺถกํ  นิตาเฬสึ  
+<span class="LineNumber"> 018 </span>ปหรึ ฯ  โก  เต  ทิฏฺโ€ติ  กุหึ  ตยา  ทิฏฺ€ปุพฺโพ ฯ  สคฺคกามา 
+<span class="LineNumber"> 019 </span># ๑. ม. ปวตฺตึ ฯ  ๒. ม. ชลิตํ อยกูฏํ ฯ ๓. ม. ปริพฺภเมตฺวาน ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. ตาหํ ฯ ๕. ม.หฺมานาโย ฯ ๖. ม. ขณฺฑหาโล ฯ 
+<span class="LineNumber"> 021 </span># ๗. ส. ม. อนุปฆาตํ ฯ ๘. ม. เอเกกเลฑฺฑุกมทํสุ ฯ 
+<span class="LineNumber"> 022 </span># ๙. ม. ขณฺฑหาลสฺสาติ ฯ 

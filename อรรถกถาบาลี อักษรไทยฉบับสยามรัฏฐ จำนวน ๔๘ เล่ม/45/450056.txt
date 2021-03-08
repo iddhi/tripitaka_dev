@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  45  หน้า  56
+
+<span class="LineNumber"> 002 </span>				กุรุราชจริยาวณฺณนา (๑)  
+<span class="LineNumber"> 003 </span>		ปุนาปรํ ยทา โหมิ	อินฺทปตฺเถ ปุรุตฺตเม  
+<span class="LineNumber"> 004 </span>		ราชา ธนฺชโย นาม	กุสเล ทสหุปาคโต ฯ  
+<span class="LineNumber"> 005 </span>		กลิงฺครฏฺ€วิสยา (๒)	พฺราหฺมณา อุปคฺฉุ มํ  
+<span class="LineNumber"> 006 </span>		อายาจุํ มํ หตฺถินาคํ	ธฺํ มงฺคลสมฺมตํ ฯ  
+<span class="LineNumber"> 007 </span>		อวุฏฺ€ิโก ชนปโท	ทุพฺภิกฺโข ฉาตโก มหา  
+<span class="LineNumber"> 008 </span>		ททาหิ ปวรํ นาคํ	นีลํ อฺชนสวฺหยนฺติ ฯ  
+<span class="LineNumber"> 009 </span>	ตติเย  อินฺทปตฺเถ (๓)  ปุรุตฺตเมติ  อินฺทปตฺถนามเก  กุรุรฏฺ€สฺส 
+<span class="LineNumber"> 010 </span>ปุรวเร  อุตฺตมนคเร ฯ  ราชาติ  ธมฺเมน  สเมน  จตูหิ  สงฺคห-
+<span class="LineNumber"> 011 </span>วตฺถูหิ  ปริสํ  รฺเชตีติ ราชา ฯ  กุสเล  ทสหุปาคโตติ  กุสเลหิ  
+<span class="LineNumber"> 012 </span>ทสหิ สมนฺนาคโต ทานาทีหิ ทสหิ ปุฺกิริยาวตฺถูหิ  ทสหิ 
+<span class="LineNumber"> 013 </span>กุสลกมฺมปเถหิ วา ยุตฺโตติ อตฺโถ ฯ  
+<span class="LineNumber"> 014 </span>	กลิงฺครฏฺ€วิสยาติ  กาลิงฺครฏฺ€สงฺขาตวิสยา ฯ  พฺราหฺมณา  
+<span class="LineNumber"> 015 </span>อุปคฺฉุ  มนฺติ  กลิงฺคราเชน  อุยฺโยชิตา  อฏฺ€ พฺราหฺมณา 
+<span class="LineNumber"> 016 </span>มํ อุปสงฺกมึสุ ฯ อุปสงฺกมิตฺวา จ  ปน  อายาจุํ  มํ  หตฺถินาคนฺติ  
+<span class="LineNumber"> 017 </span>หตฺถิภูตํ  มหานาคํ  มํ  อายาจึสุ ฯ  ธฺนฺติ  ธนายิตพฺพ-
+<span class="LineNumber"> 018 </span>สิริโสภคฺคปฺปตฺตํ   ลกฺขณสมฺปนฺนํ ฯ   มงฺคลสมฺมตนฺติ   ตายเยว  
+<span class="LineNumber"> 019 </span>ลกฺขณสมฺปตฺติยา มงฺคลํ อภิวุฑฺฒิการณนฺติ อภิสมฺมตํ ชเนหิ ฯ  
+<span class="LineNumber"> 020 </span>	อวุฏฺ€ิโกติ  วสฺสรหิโต ฯ  ทุพฺภิกฺโขติ  ทุลฺลภโภชโน ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. กุรุราชาจริยาวณฺณนา  ฯ  ๒. ภารต. กลิงฺครฏฺ€วิสยา ฯ  
+<span class="LineNumber"> 022 </span># ๓. สี. อินฺทปตฺเต ฯ

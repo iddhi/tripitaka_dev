@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  310
+
+<span class="LineNumber"> 002 </span>อาภรณธเรติปิ  อตฺโถ ฯ  เจเตติ  ตํ  นาเมนาลปติ ฯ  ปุตฺตานีติ 
+<span class="LineNumber"> 003 </span>มม  ปุตฺเต  จ  ธีตโร  จ ฯ  อินฺทวรปุปฺผสาเมติ ตํ อาลปติ ฯ  
+<span class="LineNumber"> 004 </span>	สา  สาธูติ  สมฺปฏิจฺฉิตฺวา  ปาสาทํ  อนุวิจริตฺวา(๑)  ปิตา 
+<span class="LineNumber"> 005 </span>โว  โอวาทํ  ทาตุกาโม  ปกฺโกสติ  อิทํ  กิร  โว  ตสฺส
+<span class="LineNumber"> 006 </span>ปจฺฉิมทสฺสนนฺติ  สพฺพเมวสฺส  สุหชฺชชนฺจ(๒)  ปุตฺตธีตโร  จ
+<span class="LineNumber"> 007 </span>สนฺนิปาเตสิ ฯ ธมฺมปาลกุมาโร  ปน  ตํ  วจนํ  สุตฺวา(๓)  โรทนฺโต
+<span class="LineNumber"> 008 </span>กนิฏฺ€ภาติกปริวุโต(๔)  ปิตุ  สนฺติกํ  อคมาสิ ฯ  ปณฺฑิโต  ปน  เต
+<span class="LineNumber"> 009 </span>ปุตฺเต  ทิสฺวา  สกภาเวน  สณฺ€าเรตุํ  อสกฺโกนฺโต  อสฺสุปุณฺเณหิ 
+<span class="LineNumber"> 010 </span>เนตฺเตหิ  เต  อาลึคิตฺวา  สีเส  จุมฺพิตฺวา  เชฏฺ€ปุตฺตํ  มุหุตฺตํ 
+<span class="LineNumber"> 011 </span>หทเย  นิปชฺชาเปตฺวา  หทยา  โอตาเรตฺวา  สิริคพฺภโต  นิกฺขมฺม
+<span class="LineNumber"> 012 </span>มหาตเล  ปลฺลงฺเก  นิสีทิตฺวา  ปุตฺตสหสฺสสฺส โอวาทํ อทาสิ ฯ  
+<span class="LineNumber"> 013 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 014 </span>	[๙๕๖]เต อาคเต มุทฺธนิ ธมฺมปาโล  
+<span class="LineNumber"> 015 </span>		จุมฺพิตฺวา ปุตฺเต อวิกมฺปมาโน  
+<span class="LineNumber"> 016 </span>		อามนฺตยิตฺวาน อโวจ วากฺยํ  
+<span class="LineNumber"> 017 </span>		ทินฺนาหํ รฺา อิธ มาณวสฺส  
+<span class="LineNumber"> 018 </span>		ตสฺสชฺชหํ อตฺตสุขี วิเธยฺโย  
+<span class="LineNumber"> 019 </span>		อาทาย เยนิจฺฉติ เตน คจฺฉติ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปาสาทา โอรุยฺห ฯ  ๒. . สุหทชนฺจ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. สุตฺวาว ฯ  ๔. ม. กนิฏฺ€ภาติกคณปริวุโต ฯ 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๑๑   หน้า  ๒๒๖
+
+<span class="LineNumber"> 002 </span>					อสมาหิตสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 003 </span>	อิโต  ปเรสุ  ป€มํ  อสฺสทฺธาทิปฺจกวเสน  วุตฺตํ ฯ ตถา  
+<span class="LineNumber"> 004 </span>ทุติยํ ฯ  ป€เม  ปน  อสมาหิตปทํ  จตุตฺถํ  ทุติเย  ทุสฺสีลปทํ ฯ  
+<span class="LineNumber"> 005 </span>เอวํ  วุจฺจมาเน   พุชฺฌนกปุคฺคลานํ  อชฺฌาสเยน  หิ  เอตานิ  
+<span class="LineNumber"> 006 </span>วุตฺตานิ ฯ  
+<span class="LineNumber"> 007 </span>	เอตฺถ  อสมาหิตาติ อุปจารปฺปนาสมาธิรหิตา ฯ ทุสฺสีลาติ 
+<span class="LineNumber"> 008 </span>นิสฺสีลา ฯ 
+<span class="LineNumber"> 009 </span>				ป€มทุติยานิ ฯ       
+
+<span class="LineNumber"> 010 </span>			ปฺจสิกฺขาปทสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 011 </span>	ตติยํ  ปฺจกมฺมปถวเสน  พุชฺฌนกานํ  อชฺฌาสยวเสน  
+<span class="LineNumber"> 012 </span>วุตฺตํ  จตุตฺถํ  สตฺตกมฺมปถวเสน  ปฺจมํ  ทสกมฺมปถวเสน ฯ
+<span class="LineNumber"> 013 </span>	ตตฺถ ตติเย สุราเมรยมชฺชปมาทฏฺ€ายิโนติ  สุราเมรยสงฺขาตํ  
+<span class="LineNumber"> 014 </span>มชฺชํ  ยาย  ปมาทเจตนาย  ปิวนฺติ  สา สุราเมรยมชฺชปมาโทติ  
+<span class="LineNumber"> 015 </span>วุจฺจติ  ตสฺมึ ติฏฺ€นฺตีติ สุราเมรยมชฺชปมาทฏฺ€ายิโน ฯ อยํ 
+<span class="LineNumber"> 016 </span>ตาเวตฺถ อสาธารณปทสฺส อตฺโถ ฯ                     
+<span class="LineNumber"> 017 </span>	ปฺจเม  ปาณํ  อติปาเตนฺตีติ  ปาณาติปาติโน  ฯ
+<span class="LineNumber"> 018 </span>ปาณฆาติกาติ  อตฺโถ ฯ  อทินฺนํ  อาทิยนฺตีติ  อทินฺนาทายิโน ฯ  
+<span class="LineNumber"> 019 </span>ปรสฺส  หาริโนติ  อตฺโถ ฯ  วตฺถุกาเมสุ  กิเลสกาเมน  มิจฺฉา  
+<span class="LineNumber"> 020 </span>จรนฺตีติ  กาเมสุมิจฺฉาจาริโน ฯ  มุสา  วทนฺตีติ  มุสาวาทิโน 

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>อตีตานาคตวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                          <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 004 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๑๖๕]   รูปขันธ์ไม่ใช่เคยเกิดแก่บุคคลใด,  เวทนาขันธ์ก็ไม่ใช่
+<span class="LineNumber"> 006 </span>จักเกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ไม่มี.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   เวทนาขันธ์ไม่ใช่จักเกิดแก่บุคคลใด,   รูปขันธ์ก็ไม่ใช่
+<span class="LineNumber"> 009 </span>เคยเกิดก่อนนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         เคยเกิด.
+<span class="LineNumber"> 011 </span>                         <I>จบ  รูปขันธมูละ  เวทนาขันธมูลี</I>                             
+<span class="LineNumber"> 012 </span>                                     <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 013 </span>                                     <H1>เวทนาขันธมูล</H1>
+<span class="LineNumber"> 014 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 015 </span>         [๑๖๖]   เวทนาขันธ์ไม่ใช่เคยเกิดแก่บุคคลใด,       สัญญาขันธ์
+<span class="LineNumber"> 016 </span>ก็ไม่ใช่จักเกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 017 </span>         ไม่มี.

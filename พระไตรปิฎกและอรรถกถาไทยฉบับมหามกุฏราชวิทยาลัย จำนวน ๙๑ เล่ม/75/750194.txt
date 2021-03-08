@@ -1,0 +1,34 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>๒๘.  อินทริยคุตตทวารตาทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>อินฺทฺริเยสุ คุตฺตทฺวารตา จ</B>         ความเป็นผู้สำรวมในอินทรีย์ ๖
+<span class="LineNumber"> 003 </span><B>โภชเน มตฺตญฺญุตา จ</B>                ความเป็นผู้รู้ประมาณในโภชนาหาร
+
+<span class="LineNumber"> 004 </span>                         <H2>๒๙.  มุฏฐสัจจทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>มุฏฺ€สจฺจญฺจ</B>                          ความเป็นผู้ไม่มีสติ
+<span class="LineNumber"> 006 </span><B>อสมฺปชญฺญฺจ</B>                      ความเป็นผู้ไม่มีสัมปชัญญะ
+
+<span class="LineNumber"> 007 </span>                              <H2>๓๐.  สติทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>สติ จ</B>                                         สติ
+<span class="LineNumber"> 009 </span><B>สมฺปชญฺญฺจ</B>                           สัมปชัญญะ
+
+<span class="LineNumber"> 010 </span>                    <H2>๓๑.  ปฏิสังขานพลทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>ปฏิสงฺขานพลญฺจ</B>                    กำลังคือการพิจารณา
+<span class="LineNumber"> 012 </span><B>ภาวนาพลญฺจ</B>                         กำลังคือภาวนา
+
+<span class="LineNumber"> 013 </span>                            <H2>๓๒.  สมถทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>สมโถ จ</B>                                    สมถะ
+<span class="LineNumber"> 015 </span><B>วิปสฺสนา จ</B>                              วิปัสสนา
+
+<span class="LineNumber"> 016 </span>                           <H2>๓๓. นิมิตตทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>สมถนิมิตฺตญฺจ</B>                            นิมิตคือสมถะ
+<span class="LineNumber"> 018 </span><B>ปคฺคาหนิมิตฺตญฺจ</B>                       นิมิตคือความเพียร
+
+<span class="LineNumber"> 019 </span>                          <H2>๓๔.  ปัคคาหทุกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>ปคฺคาโห จ</B>                               ความเพียร
+<span class="LineNumber"> 021 </span><B>อวิกฺเขโป จ</B>                              ความไม่ฟุ้งซ่าน	      

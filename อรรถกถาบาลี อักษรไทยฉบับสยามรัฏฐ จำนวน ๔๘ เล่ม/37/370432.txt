@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  432
+
+<span class="LineNumber"> 002 </span>		ปีตาลงฺการา ปีตวสนา	ปีตาภรณภูสิตา  
+<span class="LineNumber"> 003 </span>		อาฬารปฺปมุขา(๑) หสุลา	สุสฺา ตนุมชฺฌิมา  
+<span class="LineNumber"> 004 </span>		เอส เวสฺสนฺตโร ราชา	สมฺหา รฏฺ€า นิรชฺชติ  
+<span class="LineNumber"> 005 </span>		สตฺตเธนุสเต ทตฺวา	สพฺพา กํสุปธาริโน(๒)  
+<span class="LineNumber"> 006 </span>		เอส เวสฺสนฺตโร ราชา	สมฺหา รฏฺ€า นิรชฺชติ  
+<span class="LineNumber"> 007 </span>		สตฺตทาสีสเต ทตฺวา	สตฺตทาสสตานิ จ  
+<span class="LineNumber"> 008 </span>		เอส เวสฺสนฺตโร ราชา	สมฺหา รฏฺ€า นิรชฺชติ  
+<span class="LineNumber"> 009 </span>		หตฺถี อสฺเส รเถ ทตฺวา	นาริโย จ อลงฺกตา  
+<span class="LineNumber"> 010 </span>		เอส เวสฺสนฺตโร ราชา	สมฺหา รฏฺ€า นิรชฺชติ  
+<span class="LineNumber"> 011 </span>		ตทาสิ ยํ ภึสนกํ		ตทาสิ โลมหํสนํ  
+<span class="LineNumber"> 012 </span>		มหาทาเน ปทินฺนมฺหิ	เมทนี สมกมฺปถ  
+<span class="LineNumber"> 013 </span>		ตทาสิ ยํ ภึสนกํ		ตทาสิ โลมหํสนํ  
+<span class="LineNumber"> 014 </span>		ยํ ปฺชลีกโต ราชา	สมฺหา รฏฺ€า นิรชฺชตีติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  สิวิกฺาติ  ภิกฺขเว  ผุสฺสติยา  ปริเทวิตสทฺทํ 
+<span class="LineNumber"> 016 </span>สุตฺวา  สพฺพาปิ  สฺชยสฺส  สิวิรฺโ  อิตฺถิโย  สมาคตา 
+<span class="LineNumber"> 017 </span>หุตฺวา  ปกฺกนฺทุํ  โรทึสุ (๓)ฯ  เวสฺสนฺตรนิเวสเนติ  ตตฺถ  อิตฺถีนํ 
+<span class="LineNumber"> 018 </span>ปกฺกนฺทิตํ  สทฺทํ  สุตฺวา  เวสฺสนฺตรสฺสาปิ  นิเวสเน  ตเถว 
+<span class="LineNumber"> 019 </span>ปกฺกนฺทิตฺวา  ทฺวีสุปิ  ราชกุเลสุ เกจิ  สกภาเวน  สณฺ€าเรตุํ(๔) 
+<span class="LineNumber"> 020 </span>อสกฺโกนฺตา  วาตเวเคน  สมฺปมถิตา  สาลา  วิย  ปติตฺวา 
+<span class="LineNumber"> 021 </span># ๑. ม. อาฬารปมฺหา ฯ  ๒. ม. กํสุปธารณา ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ปริเทวึสุ ฯ  ๔. ม.สณฺ€าตุํ ฯ 

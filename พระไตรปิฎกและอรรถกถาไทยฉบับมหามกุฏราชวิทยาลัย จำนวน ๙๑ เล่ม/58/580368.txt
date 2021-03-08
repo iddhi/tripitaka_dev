@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>               	  <H2>รวมชาดกที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>	๑.   ภัทรฆฏเภทกชาดก    ๒.   สุปัตตชาดก      ๓.  กายนิพ-
+<span class="LineNumber"> 003 </span>พินทชาดก    ๔.  ชัมพูขาทกชาดก   ๕.  อันตชาดก   ๖.  สมุททชาดก
+<span class="LineNumber"> 004 </span>๗.  กามวิลาปชาดก      ๘.   อุทุมพรชาดก      ๙.  โกมาริยปุตตชาดก
+<span class="LineNumber"> 005 </span>๑๐.   พกชาดก.
+<span class="LineNumber"> 006 </span>                             	<I>จบ  กุมภวรรคที่  ๕</I>
+<span class="LineNumber"> 007 </span>                    <H2>รวมวรรคที่มีในนิบาตนี้  คือ</H2>
+<span class="LineNumber"> 008 </span>	๑.  สังกัปปวรรค  ๒. ปทุมวรรค  ๓.  อุทปานทูสกวรรค
+<span class="LineNumber"> 009 </span>๔.  อัพภันตรวรรค  ๕.  กุมภวรรค.
+<span class="LineNumber"> 010 </span>                                        <I>จม  ติกนิบาต</I> 

@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>สุทธขันธวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>         [๑๐๓๔]   ธรรมที่ชื่อว่ากายสังขาร,  ชื่อว่าวจีสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ไม่ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าวจีสังขาร,    ชื่อว่ากายสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่ากายสังขาร,   ชื่อว่าจิตตสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ไม่ใช่. 
+<span class="LineNumber"> 008 </span>         ธรรมที่ชื่อว่าจิตตสังขาร,   ชื่อว่ากายสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ไม่ใช่.
+<span class="LineNumber"> 010 </span>         ธรรมที่ชื่อว่าวจีสังขาร    ชื่อว่าจิตตสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ไม่ใช่.
+<span class="LineNumber"> 012 </span>         ธรรมที่ชื่อว่าจิตตสังขาร,   ชื่อว่าวจีสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ไม่ใช่.
+<span class="LineNumber"> 014 </span>                             <I>สุทธขัตธวาระ  อนุโลม  จบ</I>

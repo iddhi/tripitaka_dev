@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>เป็นธรรมไม่มีอารมณ์ หรือ ? 
+<span class="LineNumber"> 002 </span>                     ส. ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                     ป. อดีตและอนาคตไม่มีอยู่    มิใช่หรือ ?
+<span class="LineNumber"> 004 </span>                     ส. ถูกแล้ว. 
+<span class="LineNumber"> 005 </span>                     ป. หากว่า   อดีตและอนาคตไม่มีอยู่   ด้วยเหตุนั้นนะท่าน
+<span class="LineNumber"> 006 </span>จึงต้องกล่าวว่า  จิตที่มีอดีตและอนาคตเป็นอารมณ์  เป็นธรรมไม่มีอารมณ์
+<span class="LineNumber"> 007 </span>ฯลฯ
+<span class="LineNumber"> 008 </span>                                <I>อนาคตารัมมณกถา  จบ</I>
+
+<span class="LineNumber"> 009 </span>                       <H2>อรรถกถาอตีตานาคตารัมมณกถา</H2>
+
+<span class="LineNumber"> 010 </span>                <H2>ว่าด้วย จิตที่มีอดีตและอนาคตเป็นอารมณ์</H2>
+
+<span class="LineNumber"> 011 </span>         บัดนี้   ชื่อว่าเรื่องจิตที่มีอดีต    และอนาคตเป็นอารมณ์.  ในเรื่องนั้น
+<span class="LineNumber"> 012 </span>อดีตและอนาคต   ชื่อว่าไม่มีอยู่   เหตุใด   เพราะเหตุนั้น  ชนเหล่าใดมีความ
+<span class="LineNumber"> 013 </span>เห็นผิดดุจลัทธิของนิกายอุตตราปถกะทั้งหลายว่า      ตทารัมมณจิตนั้นไม่
+<span class="LineNumber"> 014 </span>พึงมีอารมณ์   เพราะความที่อารมณ์ไม่มี   ด้วยเหตุนั้น  จึงว่า   จิตที่มีอดีต
+<span class="LineNumber"> 015 </span>และอนาคตเป็นอารมณ์นั้นว่า   เป็นจิตที่ไม่มีอารมณ์     ดังนี้   คำถามของ
+<span class="LineNumber"> 016 </span>สกวาทีว่า   <B>จิตที่มีอดีตและอนาคตเป็นอารมณ์</B>    เป็นต้น  โดยหมายถึงชน
+<span class="LineNumber"> 017 </span>เหล่านั้น   คำตอบรับรองเป็นของปรวาที.    คำที่เหลือในที่นี้พึงถือเอาตาม
+<span class="LineNumber"> 018 </span>พระบาลีนั่นแหละ.
+<span class="LineNumber"> 019 </span>                        <I>อรรถกถาอตีตานาคตารัมณกถา  จบ</I>

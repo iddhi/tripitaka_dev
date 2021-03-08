@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  117
+
+<span class="LineNumber"> 002 </span>		มหาวจฺฉตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	ปฺาพลีติ อายสฺมโต มหาวจฺฉตฺเถรสฺส (๑) คาถา ฯ ตสฺส
+<span class="LineNumber"> 004 </span>กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยํ  กิร  ปทุมุตฺตรสฺส  ภควโต  ภิกฺขุสํฆสฺส  จ 
+<span class="LineNumber"> 006 </span>ปานียทานมทาสิ ฯ  ปุน สิขิสฺส  ภควโต  กาเล  อุปาสโก  หุตฺวา
+<span class="LineNumber"> 007 </span>วิวฏฺฏูปนิสฺสยํ  พหุปุฺกมฺมํ  อกาสิ โส  เตหิ  ปุฺกมฺเมหิ  
+<span class="LineNumber"> 008 </span>ตตฺถ  ตตฺถ  สุคตีสุเยว  สํสรนฺโต  อิมสฺมึ พุทฺธุปฺปาเท 
+<span class="LineNumber"> 009 </span>มคธรฏฺเ€  นาลคาเม  (๒)  สมิทฺธิสฺส  นาม  พฺราหฺมณสฺส  ปุตฺโต(๓)
+<span class="LineNumber"> 010 </span>หุตฺวา นิพฺพตฺติ ฯ ตสฺส  มหาวจฺโฉติ  นามํ  อโหสิ ฯ  โส  วยปฺปตฺโต 
+<span class="LineNumber"> 011 </span>อายสฺมโต  สาริปุตฺตสฺส  ภควโต  สาวกภาวํ  สุตฺวา  โสปิ  
+<span class="LineNumber"> 012 </span>นาม  มหาปฺโ  ยสฺส  สาวกตฺตํ  อุปคโต  โสเอว  มฺเ 
+<span class="LineNumber"> 013 </span>อิมสฺมึ  โลเก  อคฺคปุคฺคโลติ  ภควติ  สทฺธํ  อุปฺปาเทตฺวา สตฺถุ 
+<span class="LineNumber"> 014 </span>สนฺติเก ปพฺพชิตฺวา  กมฺมฏฺ€านํ  อนุยุฺชนฺโต  น  จิรสฺเสว 
+<span class="LineNumber"> 015 </span>อรหตฺตํ  ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๔)  
+<span class="LineNumber"> 016 </span>		ปทุมุตฺตรพุทฺธสฺส		ภิกฺขุสงฺเฆ อนุตฺตเร  
+<span class="LineNumber"> 017 </span>		ปสนฺนจิตฺโต สุมโน	ปานิฆฏํ อปูรยึ ฯ (๕)  
+<span class="LineNumber"> 018 </span>		ปพฺพตคฺเค ทุมคฺเค วา	อากาเส วาถ ภูมิยํ  
+<span class="LineNumber"> 019 </span>		ยทา ปานียมิจฺฉามิ		ขิปฺปํ นิพฺพตฺตเต มมํ ฯ (๖)  
+<span class="LineNumber"> 020 </span># ๑. สี. มหาควจฺฉตฺเถรสฺส ฯ  ๒. ม. นาฬกคาเม ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ปุตฺโต หุตฺวา ฯ  ๔. ขุ. อ. ๓๓/๘๗/๑๓๑ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. ปานียฆฏมปูรยึ ฯ  ยุ. ปานียฆฏํ อปูรยึ ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. มม ฯ

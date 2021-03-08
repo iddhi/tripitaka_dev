@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>๑๕. ปฏิสัมภิทาวิภังค์</H1> 
+<span class="LineNumber"> 002 </span>                                            <H1>สุตตันตภาชนีย์</H1>
+<span class="LineNumber"> 003 </span>           [๗๗๗]  <B>ปฏิสัมภิทา  ๔</B>  คือ
+<span class="LineNumber"> 004 </span>                         <B>๑.  อัตถปฏิสัมภิทา</B>
+<span class="LineNumber"> 005 </span>                       <B>๒.  ธัมมปฏิสัมภิทา</B>
+<span class="LineNumber"> 006 </span>                         <B>๓.  นิรุตติปฏิสัมภิทา</B>
+<span class="LineNumber"> 007 </span>                         <B>๔.  ปฏิภาณปฏิสัมภิทา</B>
+<span class="LineNumber"> 008 </span>           ความรู้แตกฉานในอรรถ  ชื่อว่า   <B>อัตถปฏิสัมภิทา</B>  ความรู้แตกฉาน
+<span class="LineNumber"> 009 </span>ในธรรม ชื่อว่า  <B>ธัมมปฏิสัมภิทา</B>  ความรู้แตกฉาน ในอันกล่าวธัมมนิรุตตินั้น
+<span class="LineNumber"> 010 </span>ชื่อว่า  <B>นิรุตติปฏิสัมภิทา</B> ความรู้แตกฉานในญาณทั้งหลาย ชื่อว่า <B>ปฏิภาณ-
+<span class="LineNumber"> 011 </span>ปฏิสัมภิทา.</B>
+
+<span class="LineNumber"> 012 </span>                                           <H1>ปเภทวาระ  ๕</H1>
+<span class="LineNumber"> 013 </span>                                           <H1>๑.  สัจจวาระ</H1>
+<span class="LineNumber"> 014 </span>           [๗๗๘]  <B>ปฏิสัมภิทา ๔</B> คือ
+<span class="LineNumber"> 015 </span>                         <B>๑.  อัตถปฏิสีมภิทา</B>
+<span class="LineNumber"> 016 </span>                         <B>๒.  ธัมมปฏิสัมภิทา</B>
+<span class="LineNumber"> 017 </span>                         <B>๓.  นิรุตติปฏิสัมภิทา</B>
+<span class="LineNumber"> 018 </span>                         <B>๔.  ปฏิภาณปฏิสัมภิทา</B>
+<span class="LineNumber"> 019 </span>           ความรู้แตกฉานในทุกข์  ชื่อว่า   <B>อัตถปฏิสัมภิทา   ความรู้แตกฉาน
+<span class="LineNumber"> 020 </span>ในทุกขสมุทัย ชื่อว่า  ธัมมปฏิสัมภิทา</B>  ความรู้แตกฉานในทุกขนิโรธ  ชื่อว่า

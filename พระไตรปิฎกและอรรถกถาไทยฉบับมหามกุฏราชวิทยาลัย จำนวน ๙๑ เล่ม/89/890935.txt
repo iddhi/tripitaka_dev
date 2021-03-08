@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>๔.  อนันตรปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๘๓๑] ๑.  <B>นิยยานิกธรรม เป็นปัจจัยแก่อนิยยานิกธรรม ด้วย
+<span class="LineNumber"> 003 </span>อำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ   มรรค   เป็นปัจจัยแก่ผล   ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 005 </span>                     ๒.  <B>อนิยยานิกธรรม     เป็นปัจจัยแก่อนิยยานิกธรรม
+<span class="LineNumber"> 006 </span>ด้วยอำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  ขันธ์ทั้งหลายที่เป็นอนิยยานิกธรรม   ที่เกิดก่อน ๆ    เป็นปัจจัย
+<span class="LineNumber"> 008 </span>แก่ขันธ์ทั้งหลายที่เป็นอนิยยานิกธรรม   ที่เกิดหลัง ๆ   ด้วยอำนาจของอนันตร- 
+<span class="LineNumber"> 009 </span>ปัจจัย.
+<span class="LineNumber"> 010 </span>         อนุโลม   เป็นปัจจัยแก่โคตรภู,    แก่โวทาน,   ผล   เป็นปัจจัยแก่ผล,
+<span class="LineNumber"> 011 </span>อนุโลม  เป็นปัจจัยแก่ผลสมาบัติ,   เนวสัญญานาสัญญายตนะ    ของบุคคลผู้ออก
+<span class="LineNumber"> 012 </span>จากนิโรธ   เป็นปัจจัยแก่ผลสมาบัติ    ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 013 </span>                     ๓.  <B>อนิยยานิกธรรม เป็นปัจจัยแก่นิยยานิกธรรม ด้วย
+<span class="LineNumber"> 014 </span>อำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 015 </span>         คือ   โคตรภู     เป็นปัจจัยแก่มรรค,    โวทาน    เป็นปัจจัยแก่มรรค
+<span class="LineNumber"> 016 </span>ด้วยอำนาจของอนันตรปัจจัย.
+
+<span class="LineNumber"> 017 </span>                         <H2>๕.   สมนันตรปัจจัย    ฯลฯ  ๘.  นิสสยปัจจัย</H2>
+<span class="LineNumber"> 018 </span>         <B>ฯลฯ   เป็นปัจจัย    ด้วยอำนาจของสมนันตรปัจจัย</B>
+<span class="LineNumber"> 019 </span>         <B>ฯลฯ   เป็นปัจจัย    ด้วยอำนาจของสหชาตปัจจัย</B>  มี ๕ วาระ.
+<span class="LineNumber"> 020 </span>         <B>ฯลฯ   เป็นปัจจัย    ด้วยอำนาจของอัญญมัญญปัจจัย</B>  มี ๒ วาระ.
+<span class="LineNumber"> 021 </span>         <B>ฯลฯ   เป็นปัจจัย    ด้วยอำนาจของนิสสยปัจจัย</B>   มี ๗ วาระ.

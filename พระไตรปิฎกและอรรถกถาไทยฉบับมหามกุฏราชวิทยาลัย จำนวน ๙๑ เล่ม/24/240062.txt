@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>	                         <h1>๙.  มานกามสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๑๙]   เทวดานั้น  ครั้นยืนอยู่  ณ  ที่ควรส่วนข้างหนึ่งแล้วแล  ได้กล่าว 
+<span class="LineNumber"> 003 </span>คาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 004 </span>                             <B>ทมะย่อมไม่มีแก่บุคคลที่ปรารถนา
+<span class="LineNumber"> 005 </span>                   มานะ      ความรู้ย่อมไม่มีแก่บุคคลที่มีจิต
+<span class="LineNumber"> 006 </span>                   ไม่ตั้งมั่น    บุคคลผู้เดียว     เมื่ออยู่ในป่า
+<span class="LineNumber"> 007 </span>                   ประมาทแล้ว  ไม่พึงข้ามพ้นฝั่งแห่งเตภูมิ-
+<span class="LineNumber"> 008 </span>                   กวัฏอันเป็นที่ตั้งแห่งมัจจุได้.</B>
+<span class="LineNumber"> 009 </span>         [๒๐]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 010 </span>                             <B>บุคคลละมานะแล้ว       มีจิตตั้งมั่น
+<span class="LineNumber"> 011 </span>                   ดีแล้ว    มีจิตดี    พ้นในธรรมทั้งปวงแล้ว
+<span class="LineNumber"> 012 </span>                   เป็นผู้เดียว เมื่ออยู่ในป่า  ไม่ประมาทแล้ว
+<span class="LineNumber"> 013 </span>                   บุคคลนั้นพึงข้ามฝั่งแห่งเตภูมิกวัฎเป็นที่-
+<span class="LineNumber"> 014 </span>                   ตั้งแห่งมัจจุได้.</B>

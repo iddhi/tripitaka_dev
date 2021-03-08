@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>อกุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 002 </span>					     <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 003 </span>					   <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 004 </span>		[๑๗๐]  ๑.  อกุศลธรรมที่เป็นสวิตักกสวิจารธรรม  อาศัย
+<span class="LineNumber"> 005 </span>อกุศลธรรมที่เป็นสวิตักกสวิจารธรรม     เกิดขึ้น    เพราะเหตุปัจจัย 
+<span class="LineNumber"> 006 </span>มี  ๓ วาระ.
+<span class="LineNumber"> 007 </span>                 	   ๔.  อกุศลธรรมที่เป็นสวิตักสวิจารธรรม     อาศัย
+<span class="LineNumber"> 008 </span>อกุศลธรรมที่เป็นอวิตักกวิจารมัตตธรรม   เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>ฯลฯ
+<span class="LineNumber"> 010 </span>                  	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๑๗๑]  ในเหตุปัจจัย  มี ๕  วาระ  ฯลฯ
+
+<span class="LineNumber"> 012 </span>                       	     <H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 013 </span>                          		<H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 014 </span>                                     <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๑๗๒]  ๑.  อัพยากตธรรมที่เป็นสวิตักกสวิจารธรรม    อาศัย
+<span class="LineNumber"> 016 </span>อัพยากตธรรมที่เป็นสวิตักกสวิจารธรรม   เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 017 </span>มี ๓๗  วาระ.
+<span class="LineNumber"> 018 </span>				 <I>วิตักกติกกุสลติกะ จบ</I>	

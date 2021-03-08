@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36 ํ เนมิราชชาตกํ หน้า  209
+
+<span class="LineNumber"> 002 </span>วิเห€กา ฯ  มิตฺตทฺทโนติ  เย  พาลา  เอเตสฺเว  เคเห  ขาทิตฺวา  
+<span class="LineNumber"> 003 </span>ภุฺชิตฺวา  ปฺตฺตาสเน  นิสีทิตฺวา  สยิตฺวา  ปุน  มาสกกหาปณํ (๑)
+<span class="LineNumber"> 004 </span>นาม อาหราเปตฺวา  ลฺจํ  คณฺหนฺติ  เต  มิตฺตทูสกา  พาลา  
+<span class="LineNumber"> 005 </span>เอวรูปํ  ปิณฺฑํ  กตฺวา  (๒) ขาทนฺติ มหาราชาติ ฯ  
+<span class="LineNumber"> 006 </span>	มาตลิ  ปุรโต  รถํ  เปเสสิ ฯ อปรสฺมึ นิรเย เอเต
+<span class="LineNumber"> 007 </span>เนรยิกสตฺตา  ฉาตเกน  ผุฏฺ€า  ขุทํ  สหิตุํ  อสกฺโกนฺตา  โลหิตปุพฺพํ  
+<span class="LineNumber"> 008 </span>ปิณฺฑาปิณฺฑํ  กตฺวา ขาทนฺติ ฯ ตํ ทิสฺวา ราชา คาถมาห (๓) 
+<span class="LineNumber"> 009 </span>	[๕๖๐]		รหโท อยํ โลหิตปุพฺพปูโร  
+<span class="LineNumber"> 010 </span>				ทุคฺคนฺธรูโป อสุจิ ปูติ วายติ  
+<span class="LineNumber"> 011 </span>				ฆมฺมาภิตตฺตา มนุชา ปิวนฺติ  
+<span class="LineNumber"> 012 </span>				ภยํ หิ มํ วินฺทติ สูต ทิสฺวา  
+<span class="LineNumber"> 013 </span>				ปุจฺฉามิ ตํ มาตลิ เทวสารถิ  
+<span class="LineNumber"> 014 </span>				อิเม นุ มจฺจา กิมกํสุ ปาปํ  
+<span class="LineNumber"> 015 </span>				เยเม ชนา โลหิตปุพฺพภกฺขา  
+<span class="LineNumber"> 016 </span>	[๕๖๑]	ตสฺส ปุฏฺโ€ วิยากาสิ		มาตลิ เทวสารถิ  
+<span class="LineNumber"> 017 </span>			วิปากํ ปาปกมฺมานํ		ชานํ อกฺขาสิชานโต  
+<span class="LineNumber"> 018 </span>				เย มาตรํ ปิตรํ วา ชีวโลเก  
+<span class="LineNumber"> 019 </span>				ปาราชิกา อรหนฺเต หนนฺติ  
+<span class="LineNumber"> 020 </span># ๑. ม. มาสกหาปนํ ฯ  ยุ. ปหารกหาปณนฺนาม ฯ  ๒. ม. ยุ. มิฬฺหํ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ยุ. มาตลิ ฯ เป ฯ  คาถมาหาติ อิเม ปา€า นตฺถิ ฯ

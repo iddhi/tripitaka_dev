@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>๗.  สัตติคุมพชาดก</H2> 
+
+<span class="LineNumber"> 002 </span>              <H1>ว่าด้วยพี่น้องก็ยังต่างใจกัน</H1>
+
+<span class="LineNumber"> 003 </span>                <B>[๒๑๔๒]   พระมหาราชาผู้เป็นจอมชนแห่งชาว
+<span class="LineNumber"> 004 </span>         ปัญจาลรัฐ     เป็นดุจพรานเนื้อเสด็จออกมาสู่ป่าพร้อม 
+<span class="LineNumber"> 005 </span>         ด้วยเสนา  พลัดจากหมู่เสนาไป.</B>
+<span class="LineNumber"> 006 </span>                <B>ท้าวเธอได้ทอดพระเนตรเห็นกระท่อม    ที่เขาทำ
+<span class="LineNumber"> 007 </span>         ไว้เป็นที่อาศัยของโจรทั้งหลายในป่านั้น          สุวโปดก 
+<span class="LineNumber"> 008 </span>         ออกจากกระท่อมนั้นไปแล้ว       กลับมาพูดแข็งขันกับ
+<span class="LineNumber"> 009 </span>         พ่อครัวว่า   มีบุรุษหนุ่มน้อย    มีรถม้าเป็นพาหนะ    มี 
+<span class="LineNumber"> 010 </span>         กุณฑลเกลี้ยงเกลาดี   มีกรอบหน้าแดง   งดงามเหมือน
+<span class="LineNumber"> 011 </span>         พระอาทิตย์   ส่องแสงสว่างในกลางวัน   ฉะนั้น.</B>
+<span class="LineNumber"> 012 </span>                <B>เมื่อถึงเที่ยงวันพระราชากำลังทรงบรรทมหลับ 
+<span class="LineNumber"> 013 </span>         กับนายสารถี   (สุวโปดกป่าวร้องว่า)  เอาซิพวกเรา  จง
+<span class="LineNumber"> 014 </span>         รีบไปชิงเอาทรัพย์ทั้งหมดของท้าวเธอเสีย        เวลานี้ก็
+<span class="LineNumber"> 015 </span>         เงียบสงัดดุจยามค่ำคืน  พระราชากำลังทรงบรรทมหลับ
+<span class="LineNumber"> 016 </span>         พร้อมกับนายสารถี            พวกเราจงไปแย่งเอาผ้าและ
+<span class="LineNumber"> 017 </span>         กุณฑลแก้วมณี    แล้วฆ่าเสีย  เอากิ่งไม้กลบไว้.</B>
+<span class="LineNumber"> 018 </span>                <B>[๒๑๔๓]   ดูก่อนสุวโปดกสัตติคุมพะ    เจ้าเป็นบ้า
+<span class="LineNumber"> 019 </span>         ไปกระมัง      จึงได้พูดอย่างนั้น        เพราะว่าพระราชา
+<span class="LineNumber"> 020 </span>         ทั้งหลายถึงจะเสด็จมาแต่ไกล     ก็ย่อมทรงเดชานุภาพ
+<span class="LineNumber"> 021 </span>         เหมือนดังไฟสว่างไสว  ฉะนั้น.</B>

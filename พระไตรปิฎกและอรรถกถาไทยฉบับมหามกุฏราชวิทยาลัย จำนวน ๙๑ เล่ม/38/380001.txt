@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>พระสุตตันตปิฎก</H2> 
+<span class="LineNumber"> 002 </span>          <H2>อังคุตตรนิกาย  ทสก - เอกาทสกนิบาต</H2>
+<span class="LineNumber"> 003 </span>                                          <H3>เล่มที่  ๕</H3>
+<span class="LineNumber"> 004 </span>        <H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 005 </span>                     <H2>อังคุตตรนิกาย  ทสกนิบาต</H2>
+<span class="LineNumber"> 006 </span>                                     <H3>ปฐมปัณณาสก์</H3>
+<span class="LineNumber"> 007 </span>                                <H2>อานิสังสวรรคที่ ๑</H2>
+<span class="LineNumber"> 008 </span>                                   <H1>๑. กิมัตถิยสูตร</H1>
+<span class="LineNumber"> 009 </span><H4>ว่าด้วยศีลที่เป็นกุศล มีอะไรเป็นผลเป็นอานิสงส์</H4>
+<span class="LineNumber"> 010 </span>        [๑]   ข้าพเจ้าได้สดับมาแล้วอย่างนี้ :-
+<span class="LineNumber"> 011 </span>        สมัยหนึ่ง พระผู้มีพระภาคเจ้าประทับอยู่ ณ  พระวิหารเชตวัน  อาราม
+<span class="LineNumber"> 012 </span>ของท่านอนาถบิณฑิกเศรษฐี  ใกล้พระนครสาวัตถี    ครั้งนั้นแล   ท่าน
+<span class="LineNumber"> 013 </span>พระอานนท์เข้าไปเฝ้าพระผู้มีพระภาคเจ้าถึงที่ประทับ    ถวายบังคมแล้วนั่ง
+<span class="LineNumber"> 014 </span>ณ    ที่ควรส่วนข้างหนึ่ง    ครั้นแล้วได้กราบทูลถามพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 015 </span>ข้าแต่พระองค์ผู้เจริญ   ศีลที่เป็นกุศลมีอะไรเป็นผล    มีอะไรเป็นอานิสงส์
+<span class="LineNumber"> 016 </span>พระผู้มีพระภาคเจ้าตรัสตอบว่า    ดูก่อนอานนท์  ศีลที่เป็นกุศล  มีอวิป-
+<span class="LineNumber"> 017 </span>ปฏิสารเป็นผล  มีอวิปปฏิสารเป็นอานิสงส์.

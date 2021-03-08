@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า    เวทนาขันธ์จักดับแก่บุคคลใดในภูมิใด,     รูปขันธ์ก็
+<span class="LineNumber"> 002 </span>กำลังเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ? 
+<span class="LineNumber"> 003 </span>         เมื่อบุคคลเหล่านั้นกำลังตายในปัญจโวการภูมิก็ดี บุคคลที่เกิดอยู่
+<span class="LineNumber"> 004 </span>ในอรูปภูมิก็ดี เวทนาขันธ์จักดับแก่บุคคลเหล่านั้นในภูมินั้น แต่รูปขันธ์
+<span class="LineNumber"> 005 </span>ไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้นในภูมินั้น,      เมื่อบุคคลเหล่านั้นกำลัง
+<span class="LineNumber"> 006 </span>เกิดในปัญจโวการภูมิ     เวทนาขันธ์จักดับ     และรูปขันธ์ก็กำลังเกิดแก่
+<span class="LineNumber"> 007 </span>บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 008 </span>                         <I>จบ  รูปขันธมูละ   เวทนาขันธมูลี</I>
+<span class="LineNumber"> 009 </span>                                       <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 010 </span>                                       <H1>เวทนาขันธมูล</H1>
+<span class="LineNumber"> 011 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 012 </span>         [๒๕๗]   เวทนาขันธ์กำลังเกิดแก่บุคคลใดในภูมิใด,    สัญญา-
+<span class="LineNumber"> 013 </span>ขันธ์ก็จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม   ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า   สัญญาขันธ์จักดับแก่บุคคลใดในภูมิใด,   เวทนาขันธ์
+<span class="LineNumber"> 016 </span>ก็กำลังเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?

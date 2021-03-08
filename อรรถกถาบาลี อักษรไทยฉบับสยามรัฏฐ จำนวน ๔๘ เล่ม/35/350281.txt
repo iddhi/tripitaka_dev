@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  35  มหาหํสชาตกํ  หน้า  281
+
+<span class="LineNumber"> 002 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 003 </span>	[๒๓๕]กจฺจิ รฏฺ€ํ อนุปฺปีฬํ  อกุโตจิอุปทฺทวํ  
+<span class="LineNumber"> 004 </span>		อสาหเสน  ธมฺเมน  สเมน  อนุสาสสิ ฯ  
+<span class="LineNumber"> 005 </span>	ราชา อาห  
+<span class="LineNumber"> 006 </span>	[๒๓๖]อโถ รฏฺ€ํ อนุปฺปีฬํ  อกุโตจิอุปทฺทวํ  
+<span class="LineNumber"> 007 </span>		อสาหเสน  ธมฺเมน  สเมน  อนุสาสิหํ ฯ  
+<span class="LineNumber"> 008 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 009 </span>	[๒๓๗]กจฺจิ สนฺโต อปจิตา  อสนฺโต ปริวชฺชิตา  
+<span class="LineNumber"> 010 </span>		โน  จ  ธมฺมํ  นิรงฺกตฺวา  อธมฺมมนุวตฺตสิ ฯ  
+<span class="LineNumber"> 011 </span>	ราชา อาห  
+<span class="LineNumber"> 012 </span>	[๒๓๘]สนฺโต จ เม อปจิตา  อสนฺโต ปริวชฺชิตา  
+<span class="LineNumber"> 013 </span>		ธมฺมเมวานุวตฺตามิ  อธมฺโม  เม  นิรงฺกโต ฯ  
+<span class="LineNumber"> 014 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 015 </span>	[๒๓๙]กจฺจิ อนาคตํ(๑) ทีฆํ  สมเวกฺขสิ ขตฺติย  
+<span class="LineNumber"> 016 </span>		กจฺจิ  มตฺโต(๒) มทนีเย  ปรโลกํ  น  สนฺตสิ ฯ  
+<span class="LineNumber"> 017 </span>	ราชา อาห  
+<span class="LineNumber"> 018 </span>	[๒๔๐]นาหํ อนาคตํ ทีฆํ  สมเวกฺขามิ ปกฺขิม  
+<span class="LineNumber"> 019 </span>		€ิโต ทสสุ ธมฺเมสุ  ปรโลกํ น สนฺตสึ (๓)ฯ  
+<span class="LineNumber"> 020 </span>		ทานํ สีลํ ปริจฺจาคํ  อาชฺชวํ มทฺทวํ ตปํ  
+<span class="LineNumber"> 021 </span>		อกฺโกธํ อวิหึสฺจ  ขนฺตึ จ อวิโรธนํ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. นานาคตํ ฯ  ๒. สี. กจฺจิ นมตฺโต ฯ ๓. ม. สนฺตเส ฯ

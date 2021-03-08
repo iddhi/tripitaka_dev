@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>สุขายเวทนายสัมปยุตตธรรม     ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 002 </span>อาศัยธรรมที่ไม่ใช่สุขายเวทนายสัมปยุตตธรรม     ที่เป็นนเหตุธรรม 
+<span class="LineNumber"> 003 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 004 </span>                       ๓.  <B>สุขายเวทนายสัมปยุตตธรรม  ที่เป็นเหตุธรรม
+<span class="LineNumber"> 005 </span>และสุขายเวทนายสัมปยุตตธรรม     ที่เป็นนเหตุธรรม     อาศัยธรรม
+<span class="LineNumber"> 006 </span>ที่ไม่ใช่สุขายเวทนายสัมปยุตตธรรม    ที่เป็นนเหตุธรรม     เกิดขึ้น
+<span class="LineNumber"> 007 </span>เพราะเหตุปัจจัย</B>   
+                                          
+<span class="LineNumber"> 008 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๓๓๓]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>           ในนเหตุนทุกขายเวทนายสัมปยุตตมูล  มี  ๓  วาระ   เหมือนกัน.
+
+<span class="LineNumber"> 011 </span>                <H2>อทุกขมสุขายเวทนายสัมปยุตตบท</H2>
+<span class="LineNumber"> 012 </span>           [๓๓๔] ๑.  <B>อทุกขมสุขายเวทนายสัมปยุตตธรรม   ที่เป็นเหตุ-
+<span class="LineNumber"> 013 </span>ธรรม อาศัยธรรมที่ไม่ใช่อทุกขมสุขายเวทนายสัมปยุตตธรรม ที่เป็น
+<span class="LineNumber"> 014 </span>นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>                 
+<span class="LineNumber"> 015 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 016 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 017 </span>           [๓๓๕]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 018 </span>                       <I>นเหตุทุกนเวทนาติกเหตุทุกเวทนาติกะ  จบ</I>

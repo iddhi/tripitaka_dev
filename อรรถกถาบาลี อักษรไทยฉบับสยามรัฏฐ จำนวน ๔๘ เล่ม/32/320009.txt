@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  เสตเกตุชาตกํ  หน้า 9
+
+<span class="LineNumber"> 002 </span>ปุตฺตํ  อกฺโกสิ  ปริภาสิ  ฯ  อถ  นํ  อาจริโย  ตาต  เสตเกตุ  มา
+<span class="LineNumber"> 003 </span>ตสฺส  กุชฺฌ  ปณฺฑิโต  จณฺฑาลปุตฺโต  น  โส  ตํ  เอตํ  ทิสํ  ปุจฺฉติ 
+<span class="LineNumber"> 004 </span>อฺํ  ทิสํ  ปุจฺฉิ  ตยา  ปน  ทิฏฺ€สุตวิฺาตโต  อทิฏฺ€า-
+<span class="LineNumber"> 005 </span>สุตอวิฺาตเมว  พหุตรนฺติ  โอวทนฺโต  เทฺว คาถา อภาสิ  
+<span class="LineNumber"> 006 </span>	[๘๓๗] มา ตาต กุชฺฌิ น หิ สาธุ โกโธ  
+<span class="LineNumber"> 007 </span>		พหุมฺปิ เต อทิฏฺ€ํ อสฺสุตฺจ  
+<span class="LineNumber"> 008 </span>		มาตาปิตา ทิสา(๑) ตาต เสตเกตุ  
+<span class="LineNumber"> 009 </span>		อาจริยมาหุ ทิสตํ ปสฏฺ€า  
+<span class="LineNumber"> 010 </span>	[๘๓๘]อคาริโน อนฺนปานวตฺถทา(๒)  
+<span class="LineNumber"> 011 </span>		อวฺหายิกา ตมฺปิ ทิสํ วทนฺติ  
+<span class="LineNumber"> 012 </span>		เอสา ทิสา ปรมา เสตเกตุ  
+<span class="LineNumber"> 013 </span>		ยํ ปตฺว ทุกฺขี จ สุขิโน(๓) ภวนฺตีติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  น  หิ  สาธุ  โกโธติ  โกโธ  นาม  อุปฺปชฺชมาโน
+<span class="LineNumber"> 015 </span>สุภาสิตทุพฺภาสิตํ  อตฺถานตฺถํ  หิตาหิตํ  ชานิตุํ  น  เทตีติ  น  หิ 
+<span class="LineNumber"> 016 </span>สาธุโก(๔)  ฯ  พหุมฺปิ  เต  อทิฏฺ€นฺติ  ตยา  จกฺขุนา  อทิฏฺ€ํ  โสเตน 
+<span class="LineNumber"> 017 </span>จ  อสฺสุตเมว  พหุตรํ  ทิสํ  ตา  ทิสา  มา  ตาปิตโร  ปุตฺตานํ  
+<span class="LineNumber"> 018 </span>ปุริมตรํ  อุปฺปนฺนตฺตา  ปุรตฺถิมทิสา  นาม  ชาตาติ  วทติ  ฯ 
+<span class="LineNumber"> 019 </span>อาจริยมาหุ  ทิสตํ ปสฏฺ€าติ  อาจริยา  ปน  ทกฺขิเณยฺยตฺตา  ทิสตํ 
+<span class="LineNumber"> 020 </span># ๑. ม. ทิสตา ฯ  ยุ. ทิสาตา ฯ ๒. ม. อนฺนทปานวตฺถทา ฯ 
+<span class="LineNumber"> 021 </span># ๓. ส. ยํ. ปตฺวา ทุกขี สุขิโน ฯ  ๔. ม. น สาธุ น ลทฺธโก ฯ 
+<span class="LineNumber"> 022 </span># สี. น หิ สาธุ โกโธ ฯ

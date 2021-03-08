@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  สุตนชาตกํ  หน้า 146
+	
+<span class="LineNumber"> 002 </span>อนฺโตฉายาย กริตฺวา ฉายนฺเต €ิโตว ป€มํ คาถมาห  
+<span class="LineNumber"> 003 </span>	[๙๘๓]ราชา เต ภตฺตํ ปาเหสิ  	สุจิมํสูปเสจนํ(๑)  
+<span class="LineNumber"> 004 </span>		มฆเทวสฺมึ อธิวตฺเถ  	เอหิ นิกฺขม ภุฺชสูติ(๒) ฯ  
+<span class="LineNumber"> 005 </span>	ตตฺถ  ปาเหสีติ  ปหิณิ  ฯ  มฆเทวสฺมึ  อธิวตฺเถติ  มฆเทโวติ  
+<span class="LineNumber"> 006 </span>วฏฺฏรุกฺโข วุจฺจติ ตสฺมึ อธิวตฺเถติ เทวตํ อาลปติ ฯ  
+<span class="LineNumber"> 007 </span>	ตํ  สุตฺวา  ยกฺโข  อิมํ  ปุริสํ  วฺเจตฺวา  อนฺโตฉายาย 
+<span class="LineNumber"> 008 </span>ปวิฏฺ€ํ  ขาทิสฺสามีติ จินฺเตตฺวา ทุติยํ คาถมาห  
+<span class="LineNumber"> 009 </span>	[๙๘๔]เอหิ มาณว โอโรหิ(๓)  	ภิกฺขมาทาย สูปิตํถ  
+<span class="LineNumber"> 010 </span>		ตฺวฺจ มาณว ภกฺโขสิ(๔) 	อุโภ ภกฺขา ภวิสฺสถาติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ ภิกฺขนฺติ มม นิพทฺธภิกฺขํ ฯ สูปิตนฺติ สูปสมฺปนฺนํ ฯ  
+<span class="LineNumber"> 012 </span>	ตโต โพธิสตฺโต เทฺว คาถา อภาสิ  
+<span class="LineNumber"> 013 </span>	[๙๘๕]อปฺปเกน ตุวํ ยกฺข  		ถูลมตฺถํ ชหิสฺสสิ  
+<span class="LineNumber"> 014 </span>		ภิกฺขนฺเต นาหริสฺสนฺติ  	ชนา มรณสงฺกิโน(๕) ฯ  
+<span class="LineNumber"> 015 </span>		[๙๘๖]ลทฺธายํ ยกฺข(๖) ตว นิจฺจภิกฺขํ  
+<span class="LineNumber"> 016 </span>			สุจึ ปณีตํ รสสาธุเปตํ(๗)  
+<span class="LineNumber"> 017 </span>			ภิกฺขฺจ เต อาหริโย นโร อิธ  
+<span class="LineNumber"> 018 </span>			สุทุลฺลโภ โหหิติ ขาทิเต(๘) มยีติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  ถูลมตฺถนฺติ  อปฺปเกน  การเณน  มหนฺตํ  อตฺถํ  
+<span class="LineNumber"> 020 </span># ๑. ส. ม. สุจึ มํสูปเสจนํ ฯ  ๒. ส. นิกฺขมฺม ภุฺชสฺสุ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. ม. โอเรน ฯ  ๔. ม. ภิกฺขา จ ฯ ๕. สี. ม. มรณสฺิโน ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ลทฺธาย ยกฺขา ฯ  ๗. ม. รสสา อุเปตํ ฯ  ๘. ม. เหหิติ ภกฺขิเต ฯ 

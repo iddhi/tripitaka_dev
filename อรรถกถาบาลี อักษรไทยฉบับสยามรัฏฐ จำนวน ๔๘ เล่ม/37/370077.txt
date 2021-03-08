@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 77
+
+<span class="LineNumber"> 002 </span>จ  อนิตฺตรา  น  ลามกา  มหานุภาวา ฯ  เต  อิตเรหิ 
+<span class="LineNumber"> 003 </span>พฺราหฺมเณหิ  สมฺปยุตฺตา  ตสฺมา  พฺราหฺมณาปิ  อนิตฺตราว 
+<span class="LineNumber"> 004 </span>ชาตา ฯ  ตทคฺครยฺหนฺติ  ตสฺมา  อคารยฺหํ  พฺราหฺมณํ  วินินฺทมาโน 
+<span class="LineNumber"> 005 </span>ธนฺจ  สตฺจ(๑)  ปณฺฑิตานํ  ธมฺมฺจ ชหาติ ฯ  
+<span class="LineNumber"> 006 </span>	อิทํ  กิร  โส  อิมินา  ภูริทตฺเต  มิตฺตทุพฺภิกมฺมํ  กตนฺติ 
+<span class="LineNumber"> 007 </span>วตฺตุํ  นาคปริสา  มา  ลพฺภนฺตูติ  อโวจ ฯ  อถ  นํ  กาณาริฏฺโ€  
+<span class="LineNumber"> 008 </span>สุโภค  ชานาสิ  ปน  อยํ  โลโก  เกน  นิมฺมิโตติ  วตฺวา  น 
+<span class="LineNumber"> 009 </span>ชานามีติ  วุตฺเต  พฺราหฺมณานํ  ปิตามเหน  มหาพฺราหฺมุนาติ(๒)
+<span class="LineNumber"> 010 </span>ทสฺเสตุํ  อิตรํ  คาถมาห  
+<span class="LineNumber"> 011 </span>	[๗๖๑]อชฺเฌนมริยา ป€วึ ชนินฺทา  
+<span class="LineNumber"> 012 </span>		เวสฺสา กสึ ปาริจริยฺจ สุทฺทา  
+<span class="LineNumber"> 013 </span>		อุปาคู ปจฺเจกํ ยถาปเทสํ  
+<span class="LineNumber"> 014 </span>		กตาหุ เอเต วสินาติ อาหูติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  อุปาคูติ  อุปาคตา ฯ  พฺรหฺมา กิร พฺราหฺมณาทโย
+<span class="LineNumber"> 016 </span>จตฺตาโร  วณฺเณ  นิมฺมินิตฺวา  อริเย  ตาว  พฺราหฺมเณ  อาห  ตุมฺเห
+<span class="LineNumber"> 017 </span>อชฺเฌนเมว  อุปคจฺฉถ  มา  อฺํ  กิฺจิ  กริตฺถาติ ฯ  ชนินฺเท 
+<span class="LineNumber"> 018 </span>อาห  ตุมฺเห  ป€วิฺเว  ชินิตฺถ(๓)  มา(๔)  อฺํ  กิฺจิ  กริตฺถาติ(๔) ฯ
+<span class="LineNumber"> 019 </span>เวสฺเส  อาห  ตุมฺเห  กสึเยว  อุปคจฺฉถาติ(๕) ฯ  สุทฺเท  อาห  ตุมฺเห
+<span class="LineNumber"> 020 </span>ติณฺณํ  วณฺณานํ  ปาริจริยํเยว  อุเปถาติ ฯ  ตโต  ปฏฺ€าย  อริยา 
+<span class="LineNumber"> 021 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. มหาพฺรหฺมุนานิมฺมิโตติ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ป€วึ เยว วิชินถ ฯ  ๔. ม. อิเม ปา€า นตฺถิ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. อุเปถ ฯ 

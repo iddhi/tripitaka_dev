@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                             <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                           <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๒๐๗] ๑.  <B>จิตตสหภูธรรม  เป็นปัจจัยแก่จิตตสหภูธรรม ด้วย
+<span class="LineNumber"> 005 </span>อำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  เหตุทั้งหลายที่เป็นจิตตสหภูธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 007 </span>ทั้งหลาย  และจิตตสมุฏฐานรูปทั้งหลาย ที่เป็นจิตตสหภูธรรม.  ด้วยอำนาจของ
+<span class="LineNumber"> 008 </span>เหตุปัจจัย.                         
+<span class="LineNumber"> 009 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 010 </span>	     	๒.  <B>จิตตสหภูธรรม   เป็นปัจจัยแก่ธรรมที่ไม่ใช่จิตต-
+<span class="LineNumber"> 011 </span>สหภูธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>         คือ  เหตุทั้งหลายที่เป็นจิตตสหภูธรรม  เป็นปัจจัยแก่จิตตสมุฏฐานรูป
+<span class="LineNumber"> 013 </span>ทั้งหลาย  ที่ไม่ใช่จิตตสหภูธรรม   ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 014 </span>         ในปฏิสนธิขณะ   เหตุทั้งหลายที่เป็นจิตตสหภูธรรม   เป็นปัจจัยแก่จิต
+<span class="LineNumber"> 015 </span>และกฏัตตารูปทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 016 </span>            	๓.  <B>จิตตสหภูธรรม เป็นปัจจัยแก่จิตตสหภูธรรม และ
+<span class="LineNumber"> 017 </span>ธรรมที่ไม่ใช่จิตตสหภูธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>         คือ  เหตุทั้งหลายที่เป็นจิตตสหภูธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 019 </span>ทั้งหลาย,    จิต    และจิตตสมุฏฐานรูปทั้งหลายที่เป็นจิตตสหภูธรรม   และไม่ใช่
+<span class="LineNumber"> 020 </span>จิตตสหภูธรรม  ด้วยอำนาจของเหตุปัจจัย.
+
+<span class='footnote'>๑.  วิญญัติรูป  ๒,  ๒.  รูปที่นอกจากวิญญัติรูป ๒ </span>

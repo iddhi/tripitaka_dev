@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ตรุโณ			ตรุณี				ชายหนุ่ม, หญิงสาว  
+<span class="LineNumber"> 002 </span>เถโร				เถรี				พระเถระ,  พระเถรี
+<span class="LineNumber"> 003 </span>ทารโก			ทาริกา			เด็กชาย,  เด็กหญิง
+<span class="LineNumber"> 004 </span>เทโว				เทวี				พระเจ้าแผ่นดิน
+<span class="LineNumber"> 005 </span>								พระราชเทวี
+<span class="LineNumber"> 006 </span>นโร				นารี				คน  (ชาย - หญิง)
+<span class="LineNumber"> 007 </span>ปริพฺพาชโก		ปริพฺพาชิกา		นักบวช (ชาย - หญิง)
+<span class="LineNumber"> 008 </span>ภิกฺขุ				ภิกฺขุนี			ภิกษุ,  ภิกษุณี
+<span class="LineNumber"> 009 </span>ภวํ				โภตี 				ผู้เจริญ
+<span class="LineNumber"> 010 </span>มนุสฺโส			มนุสฺสี			มนุษย์  (ชาย - หญิง)
+<span class="LineNumber"> 011 </span>ยกฺโข			ยกฺขินี			ยักษ์,  ยักษิณี
+<span class="LineNumber"> 012 </span>ยุวา				ยุวตี				ชายหนุ่ม,  หญิงสาว
+<span class="LineNumber"> 013 </span>ราชา				ราชินี			พระเจ้าแผ่นกิน
+<span class="LineNumber"> 014 </span>								พระราชินี
+<span class="LineNumber"> 015 </span>สขา				สขี				เพื่อน  (ชาย - หญิง)
+<span class="LineNumber"> 016 </span>หตฺถี				หตฺถินี			ช้างพลาย,  ช้างพัง
+
+<span class="LineNumber"> 017 </span>                          [๔๒]  คุณนามเป็น ๓  ลิงค์
+<span class="LineNumber"> 018 </span>-----------------------------------------------------------------------------   
+<span class="LineNumber"> 019 </span>	ปุํลิงค์		อิตพีลิงค์		นปุํสกลิงค์		คำแปล
+<span class="LineNumber"> 020 </span>กมฺมกาโร		     กมฺมการินี	      กมฺมการํ		    ทำการงาน
+<span class="LineNumber"> 021 </span>คุณวา		     คุณวตี		      คุณวํ			    มีคุณ
+

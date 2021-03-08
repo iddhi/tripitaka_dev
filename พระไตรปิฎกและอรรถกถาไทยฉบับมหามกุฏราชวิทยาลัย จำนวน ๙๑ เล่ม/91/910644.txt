@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๓๙๖]  ในเหตุปัจจัย  มี  ๑๓  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>           ในจิตตวิปปยุตตบท  มี  ๓ วาระ.
+<span class="LineNumber"> 004 </span>     <I>กุสลติกจิตตสัมปยุตตทุกนกุสลติกนจิตตสัมปยุตตทุกะ  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                  <H1>กุสลติกจิตตสังสัฏฐทุกะ</H1>
+<span class="LineNumber"> 006 </span>                               <H1>นกุสลติกนจิตตสังสัฏฐทุกะ</H1>
+<span class="LineNumber"> 007 </span>             <H2>(๑. กุสลติกะ  ๕๙. จิตตสังสัฏฐทุกะ)</H2>
+<span class="LineNumber"> 008 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 009 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>                                     <H2>จิตตสังสัฏฐบท</H2>		
+<span class="LineNumber"> 012 </span>           [๓๙๗] ๑.  <B>ธรรมที่ไม่ใช่จิตตสังสัฏฐธรรม     ที่ไม่ใช่กุศล
+<span class="LineNumber"> 013 </span>อาศัยธรรมที่เป็นจิตตสังสัฏฐธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 014 </span>ปัจจัย</B>
+<span class="LineNumber"> 015 </span>                       ๒.  <B>ธรรมที่ไม่ใช่จิตตสังสัฏฐธรรม     ที่ไม่ใช่อกุศล
+<span class="LineNumber"> 016 </span>อาศัยธรรมที่เป็นจิตตสังสัฏฐธรรม  ที่เป็นกุศล   เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 017 </span>ปัจจัย</B> 

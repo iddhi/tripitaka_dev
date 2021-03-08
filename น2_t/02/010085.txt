@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        กัณฑ์ที่ ๒๑
+<span class="LineNumber"> 002 </span>                                         วินัยกรรม  
+
+<span class="LineNumber"> 003 </span>                        <B>วิธีแสดงอาบัติที่ใช้อยู่ในบัดนี้
+<span class="LineNumber"> 004 </span>                           ต้องอาบัติตัวเดียว  แสดงว่า</B>
+<span class="LineNumber"> 005 </span>	"อหํ  อาวุโส  ปาจิตฺติยํ  อาปตฺตึ  อาปนฺโน  ตํ  ปฏิเทเสมิ"
+<span class="LineNumber"> 006 </span>ผู้รับ  "ปสฺสถ  ภนฺเต"  ผู้แสดง  "อาม  อาวุโส  ปสฺสามิ"  ผู้รับ
+<span class="LineNumber"> 007 </span>"อายติ  ภนฺเต  สํวเรยฺยาถ"  ผู้แสดง  "สาธุ  สุฎฺ€ุ  อาวุโส  สํวริสฺสามิ."
+<span class="LineNumber"> 008 </span>	[นี้  ต่างว่าต้องอาบัติปาจิตตีย์ตัวหนึ่ง  และแสดงในสำนักภิกษุ
+<span class="LineNumber"> 009 </span>ผู้อ่อนกว่า  ถ้าผู้อ่อนกว่าแสดงในสำนักผู้แก่กว่า  พึงว่า  "ภนฺเต"].
+<span class="LineNumber"> 010 </span>           <B>ต้องอาบัติอย่างเดียวกันหลายตัว  แสดงว่า</B>
+<span class="LineNumber"> 011 </span>	"อหํ  อาวุโส  สมฺพหุลา  นิสฺสคฺคิยาโย  ปาจิตฺติยาโย  อาปตฺติโย
+<span class="LineNumber"> 012 </span>อาปนฺโน  ตา  ปฏิเทเสมิ"  [ถ้า  ๒  ตัว  ใช้  " เทฺว"   ตั้งแต่  ๓  ตัว
+<span class="LineNumber"> 013 </span>ขึ้นไป ใช้  "สมฺพหุลา"].
+<span class="LineNumber"> 014 </span>     <B>ต้องอาบัติชื่อเดียวกัน  แต่มีวัตถุต่างกัน  แสดงว่า</B>
+<span class="LineNumber"> 015 </span>	"อหํ  อาวุโส  สมฺพหุลา  นานา  วตฺถุกาโย  ทุกฺกฏาโย  อาปตฺติโย
+<span class="LineNumber"> 016 </span>อาปนฺโน  ตา  ปฏิเทเสมิ"  [ถ้าล่วง ๒  เรื่อง  จำนวนอาบัติก็  ๒  ใช้
+<span class="LineNumber"> 017 </span>"เทฺว  นานา  วตฺถุกาโย"  จำนวนอาบัติมากกว่า ๒  ใช้   "สมฺพหุลา
+<span class="LineNumber"> 018 </span>นานา  วตฺถุกาโย"].
+<span class="LineNumber"> 019 </span>	อาบัตินั้น  ท่านให้แสดงโดยควรแก่ชื่อแก่วัตถุแก่จำนวน  แสดง

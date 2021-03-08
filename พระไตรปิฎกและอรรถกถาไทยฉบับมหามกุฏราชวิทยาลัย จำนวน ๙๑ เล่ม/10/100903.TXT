@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             <B>ตอบว่า    มุสาวาทมีองค์   ๘     องค์   
+<span class="LineNumber"> 002 </span>                   อุโบสถมี ๘  องค์ของผู้ควรเป็นทูตมี  ๘  ติตถิ-
+<span class="LineNumber"> 003 </span>                   ยวัตรมี ๘.</B>  
+
+<span class="LineNumber"> 004 </span>                                 <H2>อุปสัมปทาเป็นต้น</H2>
+<span class="LineNumber"> 005 </span>                             [๑,๒๗๐]  <B>ถามว่า  อุปสัมปทามีวาจา
+<span class="LineNumber"> 006 </span>                   เท่าไร  ภิกษุณีพึงลุกรับภิกษุณีกี่พวก พึงให้
+<span class="LineNumber"> 007 </span>                   อาสนะแก่ภิกษุณีกี่พวก  ภิกษุผู้สั่งสอนภิกษุ-
+<span class="LineNumber"> 008 </span>                   ณีต้องประกอบด้วยคุณสมบัติเท่าไร
+<span class="LineNumber"> 009 </span>                             ตอบว่า อุปสัมปทามีวาจา  ๘   ภิกษุณี
+<span class="LineNumber"> 010 </span>                   พึงลุกรับ  ภิกษุณี  ๘ พวก  พึงให้อาสนะแก่
+<span class="LineNumber"> 011 </span>                   ภิกษุณี  ๘ พวก  ภิกษุผู้สั่งสอนภิกษุณี  ต้อง
+<span class="LineNumber"> 012 </span>                   ประกอบด้วยคุณสมบัติ  ๘.</B>
+
+<span class="LineNumber"> 013 </span>                                  <H2>ความขาดเป็นต้น</H2>
+<span class="LineNumber"> 014 </span>                             [๑,๒๗๑]  <B>ถามว่า  ความขาดมีแก่คน
+<span class="LineNumber"> 015 </span>                   เท่าไร  อาบัติถุลลัจจัยมีแก่คนเท่าไร บุคคล
+<span class="LineNumber"> 016 </span>                   เท่าไรไม่ต้องอาบัติ    อาบัติและอนาบัติของ
+<span class="LineNumber"> 017 </span>                   คนทั้งหมดมีวัตถุอย่างเดียวกัน  หรือ
+<span class="LineNumber"> 018 </span>                             ตอบว่า      ความขาดมีแก่คนผู้เดียว
+<span class="LineNumber"> 019 </span>                   อาบัติถุลลัจจัยนี้แก่คน  ๔  พวก     บุคคล ๔</B>

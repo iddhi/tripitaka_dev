@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  สาริปุตฺตตฺเถรคาถาวณฺณนา  623  
+
+<span class="LineNumber"> 002 </span>		สาวโก  เต  มหาวีร  			อสฺสชิ  นาม  พฺราหฺมโณ  
+<span class="LineNumber"> 003 </span>		ทุราสโท  อุคฺคเตโช  		ปิณฺฑาย  จรตี  ตทา ฯ  
+<span class="LineNumber"> 004 </span>		ตมทฺทสาสึ  สปฺปฺํ  		มุนึ  โมเน  สมาหิตํ  
+<span class="LineNumber"> 005 </span>		สนฺตจิตฺตํ  มหานาคํ  			สุผุลฺลํ  ปทุมํ  ยถา ฯ  
+<span class="LineNumber"> 006 </span>		ทิสฺวา  เม  จิตฺตมุปฺปชฺชิ  		สุทนฺตํ  สุทฺธมานสํ  
+<span class="LineNumber"> 007 </span>		อุสภํ  ปวรํ  วีรํ  				อรหายํ  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 008 </span>		ปาสาทิโก  อิริยติ  			อภิรูโป  สุสํวุโต  
+<span class="LineNumber"> 009 </span>		อุตฺตเม  ทมเถ  ทนฺโต  		อมตทสฺสี  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 010 </span>		ยนฺนูนาหํ  อุตฺตมตฺถํ  		ปุจฺเฉยฺยํ  ตุฏฺ€มานสํ  
+<span class="LineNumber"> 011 </span>		โส  เม  (๑)  ปุฏฺโ€  กเถสฺสติ  	ปฏิปุจฺฉามหํ  ตทา ฯ  
+<span class="LineNumber"> 012 </span>		ปิณฺฑปาตํ  (๒)  จรนฺตสฺส  	ปจฺฉโต  อคมาสหํ  
+<span class="LineNumber"> 013 </span>		โอกาสํ  ปฏิมาเนนฺโต  		ปุจฺฉิตุํ  อมตํ  ปทํ ฯ  
+<span class="LineNumber"> 014 </span>		วีถินฺตเร  อนุปฺปตฺตํ  			อุปคนฺตฺวาน  ปุจฺฉหํ  
+<span class="LineNumber"> 015 </span>		กถํ  โคตฺโตสิ  ตฺวํ  วีร  		กสฺส  สิสฺโสสิ  มาริส ฯ  
+<span class="LineNumber"> 016 </span>		โส  เม  ปุฏฺโ€  วิยากาสิ  		อสมฺภีโตว  เกสรี  
+<span class="LineNumber"> 017 </span>		พุทฺโธ  โลเก  สมุปฺปนฺโน  	ตสฺส  สิสฺโสมฺหิ  อาวุโส  (๓)  ฯ  
+<span class="LineNumber"> 018 </span>		กีทิสํ  เต  มหาวีร  			อนุชาต  มหายส  (๔)  
+<span class="LineNumber"> 019 </span>		พุทฺธสฺส  สาสนํ  ธมฺมํ  		สาธุ  เม  กถยสฺสุ  โภ ฯ  
+<span class="LineNumber"> 020 </span>#สฺยา.  เจ  ฯ  ๒.  สฺยา. ปิณฑจารํ  ฯ  ๓.  ยุ  สาวโก  ฯ  ๔.  ยุ. มหายโส  ฯ  

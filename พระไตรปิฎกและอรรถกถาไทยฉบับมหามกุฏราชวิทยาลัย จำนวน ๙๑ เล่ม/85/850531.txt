@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>อเสวนฆฏนา</H1>  
+<span class="LineNumber"> 002 </span>                                 <H1>ปกิณณกฆฏนา ๑</H1>
+<span class="LineNumber"> 003 </span>              <B>๑.  ปัจจัย ๖</B>  คือ อาเสวนะ  อนันตระ  สมนันตระ อุป-
+<span class="LineNumber"> 004 </span>นิสสยะ  นัตถิ  วิคตปัจจัย  มี๓ วาระ.  
+ 
+<span class="LineNumber"> 005 </span>                                 <H1>๑๓. กัมมมูลกนัย</H1>
+<span class="LineNumber"> 006 </span>                                  <H1>กัมมสภาคะ ๑๔</H1>
+<span class="LineNumber"> 007 </span> <B>[๖๔๘]  เพราะกัมมปัจจัย</B>    ในอนันตรปัจจัย  มี ๑ วาระ ...    ใน
+<span class="LineNumber"> 008 </span>สมนันตรปัจจัย มี ๑ วาระ  ในสหชาตปัจจัย  มี ๗ วาระ  ในอัญญมัญญ-
+<span class="LineNumber"> 009 </span>ปัจจัย   มี ๓ วาระ   ในนิสสยปัจจัย   มี ๗ วาระ   ในอุปนิสสยปัจจัย   มี ๒
+<span class="LineNumber"> 010 </span>วาระ    ในวิปากปัจจัย   มี ๑ วาระ    ในอาหารปัจจัย   มี ๗ วาระ    ใน
+<span class="LineNumber"> 011 </span>สัมปยุตตปัจจัย  มี ๓ วาระ  ในวิปปยุตตปัจจัย  มี ๓ วาระ  ในอัตถิปัจจัย
+<span class="LineNumber"> 012 </span>มี ๗ วาระ     ในนัตถิปัจจัย    มี ๑ วาระ     ในวิคตปัจจัย    มี ๑ วาระ
+<span class="LineNumber"> 013 </span>ในอวิคตปัจจัย  มี ๗ วาระ.
+
+<span class="LineNumber"> 014 </span>                                    <H1>กัมมฆฏนา ๑๑</H1>
+<span class="LineNumber"> 015 </span>                                  <H1>ปกิณณกฆฏนา ๒</H1>
+<span class="LineNumber"> 016 </span> <B>[๖๔๙]  ๑.  ปัจจัย  ๒</B>  คือ กัมมะ อุปนิสสยปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 017 </span>              <B>๒.  ปัจจัย ๖</B>   คือ กัมมะ      อนันตระ      สมนันตระ
+<span class="LineNumber"> 018 </span>อุปนิสสยะ  นัตถิ  วิคตปัจจัย  มี ๑ วาระ.

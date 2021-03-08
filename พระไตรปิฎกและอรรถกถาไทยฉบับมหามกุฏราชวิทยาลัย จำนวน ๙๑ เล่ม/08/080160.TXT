@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           ๖.  ไม่โจทภิกษุอื่น
+<span class="LineNumber"> 002 </span>           ๗.  ไม่ให้ภิกษุอื่นให้การ
+<span class="LineNumber"> 003 </span>           ๘.  ไม่ช่วยภิกษุกับภิกษุให้สู้อธิกรณ์กัน
+<span class="LineNumber"> 004 </span>           ดูก่อนภิกษุทั้งหลาย     ภิกษุประกอบด้วยองค์  ๘  นี้แล   สงฆ์พึง
+<span class="LineNumber"> 005 </span>ระงับอุกเขปนียกรรม   ฐานไม่ทำคืนอาบัติ.
+<span class="LineNumber"> 006 </span>                         วัตรที่ควรระงับ   ๔๓  ข้อ  ๘ หมวด
+<span class="LineNumber"> 007 </span>                 ในอุกเขปนียกรรม    ฐานไม่ทำคืนอาบัติ    จบ
+<span class="LineNumber"> 008 </span>               <H1>วิธีระงับอุกเขปนียกรรม  ฐานไม่ทำคืนอาบัติ</H1>
+<span class="LineNumber"> 009 </span>           [๒๗๕]  ดูก่อนภิกษุทั้งหลาย    ก็แล   วิธีระงับอุกเขปนียกรรม
+<span class="LineNumber"> 010 </span>ฐานไม่ทำคืนอาบัติ    พึงระงับอย่างนี้ 
+<span class="LineNumber"> 011 </span>           ภิกษุฉันนะนั้นพึงเข้าไปหาสงฆ์   ห่มผ้าอุตราสงค์เฉวียงบ่า    ไหว้
+<span class="LineNumber"> 012 </span>เท้าภิกษุผู้แก่กว่า     นั่งกระโหย่งประคองอัญชลี     แล้วกล่าวคำขอระงับ
+<span class="LineNumber"> 013 </span>กรรมนั้นอย่างนี้     ว่าดังนี้ :-
+<span class="LineNumber"> 014 </span>           <H1>คำขอระงับอุกเขปนียกรรม  ฐานไม่คืนอาบัติ</H1>
+<span class="LineNumber"> 015 </span>           <B>ท่านเจ้าข้า   ข้าพเจ้าถูกสงฆ์ลงอุกเขปนียกรรม    ฐานไม่
+<span class="LineNumber"> 016 </span>ทำคืนอาบัติ    แล้วประพฤติโดยชอบ   หายเย่อหยิ่ง   ประพฤติ
+<span class="LineNumber"> 017 </span>แก้ตัวได้  ข้าพเจ้าขอระงับอุกเขปนียกรรม   ฐานไม่ทำคืนอาบัติ</B>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  27  หน้า  1
+
+<span class="LineNumber"> 002 </span>		ปรมตฺถทีปนี นาม ขุทฺทกนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>				เถรีคาถาวณฺณนา  
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>				เอกนิปาตวณฺณนา
+<span class="LineNumber"> 006 </span>			อฺตราเถรีคาถาวณฺณนา  
+<span class="LineNumber"> 007 </span>	เอกนิปาเต ฯ อิทานิ  เถรีคาถานํ  อตฺถสํวณฺณนาย โอกาโส 
+<span class="LineNumber"> 008 </span>อนุปฺปตฺโต ตตฺถ  ยสฺมา  อิธ  ภิกฺขุนีนํ  อาทิโต ยถา (๑) ปพฺพชฺชา 
+<span class="LineNumber"> 009 </span>อุปสมฺปทา จ ปฏิลทฺธา ตํ (๒) ปกาเสตฺวา  อตฺถสํวณฺณนาย 
+<span class="LineNumber"> 010 </span>กรียมานาย  ตตฺถ ตตฺถ คาถานํ อตฺถุปฺปตฺตึ (๓) วิภาเวตุํ สุกรา 
+<span class="LineNumber"> 011 </span>โหติ  สุปากฏา  จ  ตสฺมา  ตํ  ปกาเสตุํ  อาทิโต  ปฏฺ€าย 
+<span class="LineNumber"> 012 </span>สงฺเขปโต  อยมนุปุพฺพิกถา ฯ
+<span class="LineNumber"> 013 </span>	อยํ  หิ  โลกนาโถ  มนุสฺสตฺตํ  ลิงฺคสมฺปตฺตีตฺยาทินา 
+<span class="LineNumber"> 014 </span>วุตฺตานิ อฏฺ€งฺคานิ สโมธาเนตฺวา  ทีปงฺกรสฺส  ภควโต  ปาทมูเล 
+<span class="LineNumber"> 015 </span>กตมหาภินีหาโร  สมตึสปารมิโย  ปูเรนฺโต  จตุวีสติยา  พุทฺธานํ 
+<span class="LineNumber"> 016 </span>สนฺติเก ลทฺธพฺยากรโณ อนุกฺกเมน ปารมิโย ปูเรตฺวา 
+<span class="LineNumber"> 017 </span>าตตฺถจริยาย  โลกตฺถจริยาย  พุทฺธตฺถจริยาย  จ  โกฏึ  ปตฺวา 
+<span class="LineNumber"> 018 </span># ๑  สี. อาทิโต ปฏฺ€าย ยถา ฯ ๒. สี. ปฏิลทฺธาธิคมฺจ  ฯ
+<span class="LineNumber"> 019 </span># ๓.  สี. อตฺถุปฺปตฺตี ฯ  ๔ สี. กตาภินีหาโร ฯ 

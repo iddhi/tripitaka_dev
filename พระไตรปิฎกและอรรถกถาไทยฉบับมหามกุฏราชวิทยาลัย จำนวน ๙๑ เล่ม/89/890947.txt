@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         ขันธ์ทั้งหลายที่เป็นมิจฉัตตนิยตธรรม   เกิดขึ้นแก่บุคคลผู้ยึดถือวัตถุใด
+<span class="LineNumber"> 002 </span>วัตถุนั้นเป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นมิจฉัตตนิยตธรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 003 </span>อารัมมณปัจจัย.
+
+<span class="LineNumber"> 004 </span>                                         <H2>๓.  อธิปติปัจจัย</H2>
+<span class="LineNumber"> 005 </span>         [๘๔๓] ๑.  <B>นิยตธรรม   เป็นปัจจัยแก่นิยตธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 006 </span>ของอธิปติปัจจัย</B>
+<span class="LineNumber"> 007 </span>         มีอย่างเดียว   คือที่เป็น   <B>สหชาตาธิปติ</B>    ได้แก่
+<span class="LineNumber"> 008 </span>         อธิปติธรรมที่เป็นนิยตธรรม     เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย
+<span class="LineNumber"> 009 </span>ด้วยอำนาจของอธิปติปัจจัย.
+<span class="LineNumber"> 010 </span>                      ๒.  <B>นิยตธรรม  เป็นปัจจัยแก่อนิยตธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 011 </span>ของอธิปติปัจจัย</B>
+<span class="LineNumber"> 012 </span>         มี ๒ อย่าง  คือที่เป็น   <B>อารัมมณาธิปติ</B>   และ   <B>สหชาตาธิปติ</B>
+<span class="LineNumber"> 013 </span>         ที่เป็น  <B>อารัมมณาธิปติ</B>   ได้แก่
+<span class="LineNumber"> 014 </span>         พระอริยะทั้งหลายออกจากมรรค     กระทำมรรคให้เป็นอารมณ์อย่าง
+<span class="LineNumber"> 015 </span>หนักแน่นแล้ว   พิจารณา.
+<span class="LineNumber"> 016 </span>         ที่เป็น  <B>สหชาตาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 017 </span>         อธิปติธรรมที่เป็นนิยตธรรม     เป็นปัจจัยแก่จิตตสมุฏฐานรูปทั้งหลาย
+<span class="LineNumber"> 018 </span>ด้วยอำนาจของอธิปติปัจจัย.
+<span class="LineNumber"> 019 </span>                      ๓.  <B>นิยตธรรม   เป็นปัจจัยแก่นิยตธรรม   และอนิยต-
+<span class="LineNumber"> 020 </span>ธรรม  ด้วยอำนาจของอธิปติปัจจัย</B>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ตนเอง. 
+<span class="LineNumber"> 002 </span>	บทว่า   <B>กมุทฺทิเสยฺยํ</B>   ความว่า   จะพึงอ้างเอาใคร   คือคนอื่น
+<span class="LineNumber"> 003 </span>ว่า   ผู้นี้เป็นอาจารย์เราเล่า.
+<span class="LineNumber"> 004 </span>	หลายบทว่า   <B>น   เม  อาจริโย  อตฺถิ</B>   มีความว่า   ขึ้นชื่อว่า
+<span class="LineNumber"> 005 </span>อาจรย์ในโลกุตตรธรรมของเราย่อมไม่มี.
+<span class="LineNumber"> 006 </span>	หลายบทว่า   <B>นตฺถิ  เม  ปฏิปุคฺคโล</B>   มีความว่า  ขึ้นชื่อว่า
+<span class="LineNumber"> 007 </span>บุคคลผู้เปรียบปานกับเราย่อมไม่มี.
+<span class="LineNumber"> 008 </span> 	บทว่า   <B>สีติภูโต</B>   มีความว่า  จัดว่าเป็นผู้มีความเย็นใจ  เพราะ
+<span class="LineNumber"> 009 </span>ดับไฟคือกิเลสเสียทั้งหมด.
+<span class="LineNumber"> 010 </span>	บทว่า  <B>นิพฺพุโต</B>  มีความว่า  จัดว่าเป็นผู้ดับแล้ว  เพราะกิเลส
+<span class="LineNumber"> 011 </span>ทั้งหลายนั่นเองดับไป.
+<span class="LineNumber"> 012 </span>	สองบทว่า   <B>กาลีนํ  ปุรํ</B>  ได้แก่  เมืองหลวงในแคว้นของชาว
+<span class="LineNumber"> 013 </span>กาสี.
+<span class="LineNumber"> 014 </span>	บาทคาถาว่า  <B>อหญฺึ   อมตทุนฺทภึ</B>   มีความว่า  เราจะไปด้วย
+<span class="LineNumber"> 015 </span>คิดว่า  "จักตีกลองอมฤตเพื่อได้ดวงตาเห็นธรรม."
+<span class="LineNumber"> 016 </span>	สองบทว่า  <B>อรหสิ   อนนฺตชิโน</B>   มีความว่า  ท่านสมควรเป็น
+<span class="LineNumber"> 017 </span>ผู้ชนะไม่มีที่สุดจริง.
+<span class="LineNumber"> 018 </span>	บทว่า  <B>หุเวยฺยาวุโส</B>   มีความว่า  ผู้มีอายุ   พึงเป็นได้ถึงอย่างนั้น
+<span class="LineNumber"> 019 </span>เทียวนะ<SUP>๑</SUP>.
+<span class="LineNumber"> 020 </span>	สองบทว่า  <B>สีสํ  โอกมฺเปตฺวา</B>  ได้แก่  สั่นศีรษะ.
+	
+<span class='footnote'>๑.  ในปฐมสมโพธิว่า  ดูก่อนอาวุโส  นามว่า   อนันตชิโน  พึงเป็นชื่อได้.</span>

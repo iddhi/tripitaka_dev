@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                   ๕.   <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ  เป็นปัจจัยแก่ธรรม 
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่เหตุ  ด้วยอำนาจของอารัมมณปัจจัย.</B>  
+<span class="LineNumber"> 003 </span>                   ๖.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 004 </span>ที่ไม่ใช่เหตุ     และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ    ด้วยอำนาจของ
+<span class="LineNumber"> 005 </span>อารัมมณปัจจัย.</B>
+<span class="LineNumber"> 006 </span>                   ๗.  <B>ธรรมที่ไม่ใช่เหตุ   และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 007 </span>เหตุ  เป็นปัจจัยแก่ธรรมที่ไม่ใช่เหตุ    ด้วยอำนาจของอารัมมณปัจจัย.</B>
+<span class="LineNumber"> 008 </span>                   ๘.  <B>ธรรมที่ไม่ใช่เหตุ    และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 009 </span>เหตุ  เป็นปัจจัยแก่ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ    ด้วยอำนาจของ
+<span class="LineNumber"> 010 </span>อารัมมณปัจจัย.</B>
+<span class="LineNumber"> 011 </span>                   ๙.  <B>ธรรมที่ไม่ใช่เหตุ   และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 012 </span>เหตุ  เป็นปัจจัยแก่ธรรมที่ไม่ใช่เหตุ   และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 013 </span>เหตุ  ด้วยอำนาจของอารัมมณปัจจัย.</B>
+<span class="LineNumber"> 014 </span>                                                 <B>ฯลฯ</B>
+
+<span class="LineNumber"> 015 </span>                          <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 016 </span>           [๔๕]  ในเหตุปัจจัย มี ๓ วาระ  ในอารัมมณปัจจัย มี ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 017 </span>ในอวิคตปัจจัย  มี ๙ วาระ.
+<span class="LineNumber"> 018 </span>           ปัญหาวาระในกุสลติกะมีอย่างไร  พึงให้พิสดารอย่างนั้น.
+<span class="LineNumber"> 019 </span>                                            <I>นเหตุทุกะ  จบ</I>

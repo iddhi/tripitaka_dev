@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  380
+
+<span class="LineNumber"> 002 </span>สพฺพาว  นาคปริสา(๑)  ปสีทึสุ  นาคราชา  มม  ธมฺมเทสนาย 
+<span class="LineNumber"> 003 </span>ตุฏฺ€กาเล(๒)  อิรนฺทตึ  ปุณฺณกสฺส  อทาสิ  โส  ตํ  ลภิตฺวา  
+<span class="LineNumber"> 004 </span>ปสนฺนจิตฺโต[๓]  มํ  มณิรตเนน  ปูเชตฺวา  นาคราเชนาณตฺโต(๔)  มํ  
+<span class="LineNumber"> 005 </span>มโนมยสินฺธวํ  อาโรเปตฺวา  สยํ  มชฺฌิมาสเน  นิสีทิตฺวา  มํ  
+<span class="LineNumber"> 006 </span>ปูรโต  อาสเน  นิสีทาเปตฺวา  อิรนฺทตึ  ปจฺฉิมาสเน  นิสีทาเปตฺวา
+<span class="LineNumber"> 007 </span>อิธาเนตฺวา  มํ  ปริสมชฺเฌ  โอตาเรตฺวา  อิรนฺทตึ  อาทาย  
+<span class="LineNumber"> 008 </span>อตฺตโน  นครเมว  คโต  เอวํ  มหาราช โส ปุณฺณโก  ตสฺสา  
+<span class="LineNumber"> 009 </span>สุมชฺฌาย  ปิยาย  เหตุ  ปตารยิตฺถ  มรณาย  มยฺหํ  อเถว(๕)  มํ  
+<span class="LineNumber"> 010 </span>นิสฺสาย  โส  เจว  ภริยาย  สมงฺคีภูโต  มม ธมฺมเทสนํ (๖)สุตฺวา 
+<span class="LineNumber"> 011 </span>ปสนฺเนน  นาคราเชน  อหฺจ  อนุฺาโต  ตสฺส  เม  ปุณฺณกสฺส
+<span class="LineNumber"> 012 </span>สนฺติกา  อยํ  สพฺพกามทโท  จกฺกวตฺติปริโภคมณิ  จ  ลทฺโธ  
+<span class="LineNumber"> 013 </span>คณฺหถ  เทว  อิมํ  มณินฺติ  มณึ  รฺโ [๗] อทาสิ ฯ 
+<span class="LineNumber"> 014 </span>	ตโต  ราชา  ปจฺจูสกาเล  อตฺตนา  ทิฏฺ€สุปินํ  นครวาสีนํ  
+<span class="LineNumber"> 015 </span>กเถตุํ (๘) โภนฺโต  นครวาสิโน  อชฺช  มยา  ทิฏฺ€สุปินํ สุณาถาติ 
+<span class="LineNumber"> 016 </span>วตฺวา อาห  
+<span class="LineNumber"> 017 </span>	[๑๐๔๓]รุกฺโข หิ มยฺหํ ฆรทฺวาเร ชาโต(๙)  
+<span class="LineNumber"> 018 </span>		ปฺากขนฺโธ สีลมยสฺส สาขา  
+<span class="LineNumber"> 019 </span># ๑. ม. ตโต นาคราชา จ วิมลา จ สพฺพนาคปริสา จ ฯ 
+<span class="LineNumber"> 020 </span># ๒. ม. ตตฺถ มยา ฉาหํ วุตฺถกาเล ฯ  ๓. ม. เอตฺถนฺตเร 
+<span class="LineNumber"> 021 </span># หุตฺวาติ ทิสฺสติ ฯ  ๔. ม. นาคราเชน อาณตฺโต ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. อเถวํ ฯ ๖. ม. ธมฺมกถํ ฯ  ๗. ม. เอตฺถนฺตเร รตนนฺติ
+<span class="LineNumber"> 023 </span># ทิสฺสติ ฯ  ๘. ม. กเถตุกาโม ฯ  ๙. ม. ปทฺวาเร สุชาโต ฯ 

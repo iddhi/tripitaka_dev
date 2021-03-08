@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                              <H2>พระสุตตันตปิฎก</H2> 
+<span class="LineNumber"> 002 </span>                                     <H2>ขุททกนิกาย   สุตตนิบาต</H2>
+
+<span class="LineNumber"> 003 </span>                                          <H2>เล่มที่ ๑  ภาคที่  ๕</H2>
+<span class="LineNumber"> 004 </span>           <H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 005 </span>                                   <H2>อุรควรรคที่ ๑     สุตตนิบาต</H2>
+<span class="LineNumber"> 006 </span>                                                 <H1>อุรคสูตรที่  ๑</H1>
+<span class="LineNumber"> 007 </span>              <H1>ว่าด้วยการกำจัดความชั่วเหมือนพิษงู</H1>
+<span class="LineNumber"> 008 </span>                        [๒๙๔]  <B>ภิกษุใดแล   ย่อมกำจัดความ
+<span class="LineNumber"> 009 </span>	โกรธที่เกิดขึ้นแล้ว      เหมือนหมอกำจัดพิษงูที่
+<span class="LineNumber"> 010 </span>          	ซ่านไปแล้วด้วยโอสถ    ฉะนั้น   ภิกษุนั้นชื่อว่า
+<span class="LineNumber"> 011 </span>          	ย่อมละซึ่งฝั่งในและฝั่งนอกเสียได้       เหมือน
+<span class="LineNumber"> 012 </span>          	งูละคราบเก่าที่คร่ำคร่าแล้วฉะนั้น.
+<span class="LineNumber"> 013 </span>                         ภิกษุใดตัดราคะได้ขาด      พร้อมทั้ง
+<span class="LineNumber"> 014 </span>	 อนุสัยไม่มีส่วนเหลือ           เหมือนบุคคลลงไป
+<span class="LineNumber"> 015 </span>         	 ตัดดอกปทุมซึ่งงอกขึ้นในสระฉะนั้น         ภิกษุ
+<span class="LineNumber"> 016 </span>	 นั้นชื่อว่าย่อมละฝั่งในและฝั่งนอกเสียได้
+<span class="LineNumber"> 017 </span>	 เหมือนงูละคราบเก่าที่คร่ำคร่าแล้วฉะนั้น.</B>

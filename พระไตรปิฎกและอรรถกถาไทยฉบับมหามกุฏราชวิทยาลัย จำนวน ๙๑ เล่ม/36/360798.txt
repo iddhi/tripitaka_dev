@@ -1,0 +1,4 @@
+﻿<span class="LineNumber"> 001 </span>	   <H2>รวมพระสูตรที่มีในวรรคนี้</H2>  
+<span class="LineNumber"> 002 </span>          ๑.  อนาคามิสูตร   ๒.  อรหัตตสูตร   ๓.  มิตตสูตร  ๔.  ฐานสูตร
+<span class="LineNumber"> 003 </span>๕.  เทวตาสูตร  ๖.  สติสูตร  ๗.  สักขิสูตร  ๘.  พลสูตร   ๙. ปฐมฌานสูตร
+<span class="LineNumber"> 004 </span>๑๐.   ทุติยฌานสูตร   และอรรถกถา.   

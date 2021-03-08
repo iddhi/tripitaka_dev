@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  อุมฺมาทนฺตีชาตกํ  หน้า  33
+
+<span class="LineNumber"> 002 </span>		กทาสฺสุ มํ กาฺจนชาลุรจฺฉทา  
+<span class="LineNumber"> 003 </span>		ธีตา ติริฏิสฺส วิลากมชฺฌา (๑) 
+<span class="LineNumber"> 004 </span>		มุทูหิ พาหาหิ ปลิสฺสชิสฺสติ  
+<span class="LineNumber"> 005 </span>		พฺรหาวเน ชาตทุมํว มาลุวา ฯ  
+<span class="LineNumber"> 006 </span>		กทาสฺสุ ลาขารสรตฺตสุจฺฉวี  
+<span class="LineNumber"> 007 </span>		พินฺทุตฺถนี  ปุณฺฑรีกตฺตจงฺคี  
+<span class="LineNumber"> 008 </span>		มุขํ มุเขน อุปนามยิสฺสติ  
+<span class="LineNumber"> 009 </span>		โสณฺโฑว โสณฺฑสฺส สุราย ถาลํ ฯ  
+<span class="LineNumber"> 010 </span>	ยทาทฺทสํ ตํ ติฏฺ€นฺตึ  สพฺพคตฺตํ(๒) มโนรมํ  
+<span class="LineNumber"> 011 </span>	ตโต สกสฺส จิตฺตสฺส  นาวโพธามิ  กฺจิ นํ ฯ  
+<span class="LineNumber"> 012 </span>	อุมฺมาทนฺตี มยา ทิฏฺ€า(๓)  อามุตฺตมณิกุณฺฑลา  
+<span class="LineNumber"> 013 </span>	น สุปฺปามิ ทิวารตฺตึ  สหสฺสํว ปราชิโต ฯ  
+<span class="LineNumber"> 014 </span>	สกฺโก จ(๔) เม วรํ ทชฺชา  โส จ ลเภถ เม วโร  
+<span class="LineNumber"> 015 </span>	เอกรตฺตํ ทฺวิรตฺตํ วา  ภเวยฺย อภิปารโก  
+<span class="LineNumber"> 016 </span>	อุมฺมาทนฺตฺยา รมิตฺวา  สีวิราชา ตโต สิยาติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  ปุณฺณมาเสติ  ปุณฺณจนฺทาย  รตฺติยา ฯ  มิคมนฺทโลจนาติ  
+<span class="LineNumber"> 018 </span>กณฺฑกสนฺตาเสน  ปลายิตฺวา  วนนฺตเร  €ตฺวา  ลุทฺทํ  โอโลเกนฺติยา  
+<span class="LineNumber"> 019 </span>มิคิยา  วิย  มนฺทานิ  โลจนานิ  อสฺสาติ  มิคมนฺทโลจนา ฯ  อุปาวิสีติ  
+<span class="LineNumber"> 020 </span>ปทุมวณฺเณน  กรตเลน  ปุปฺผานิ  ขิปิตฺวา  มํ  โอโลเกนฺตี  วาตปาเน  
+<span class="LineNumber"> 021 </span># ๑. ม. วิลคฺคมชฺฌา ฯ  ๒. ม. สพฺพภทฺทํ ฯ  
+<span class="LineNumber"> 022 </span># ๓. ม. อุมฺมาทนฺติมหํ  ทิฏฺ€า ฯ  ๔. ม. เจ ฯ  ๕. ม. ภเวยฺยํ ฯ

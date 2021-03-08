@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                <h1>๗.  สังฆโสภณสูตร</h1>  
+<span class="LineNumber"> 002 </span>                   <h2>ว่าด้วยบุคคลผู้ทำหมู่ให้งาม  ๔  จำพวก</h2> 
+<span class="LineNumber"> 003 </span>            [๗]    ดูก่อนภิกษุทั้งหลาย  บุคคล ๔ จำพวกเหล่านี้  ที่ฉลาด  มีวินัย
+<span class="LineNumber"> 004 </span>กล้าหาญ   สดับมาก   ทรงธรรม    ปฏิบัติธรรมสมควรแก่ธรรม    ย่อมยังหมู่
+<span class="LineNumber"> 005 </span>ให้งาม  บุคคล ๔ จาพวกเหล่านี้คือใคร   คือ  ภิกษุ  ภิกษุณี อุบาสก อุบาสิกา
+<span class="LineNumber"> 006 </span>บุคคล ๔ จำพวกเหล่านี้แล  ที่ฉลาด  มีวินัย  กล้าหาญ  สดับมาก  ทรงธรรม
+<span class="LineNumber"> 007 </span>ปฏิบัติธรรมสมควรแก่ธรรม   ย่อมยังหมู่ให้งาม
+<span class="LineNumber"> 008 </span>	        <B>บุคคลใด   เป็นผู้ฉลาดและกล้าหาญ
+<span class="LineNumber"> 009 </span>	เป็นผู้สดับมาก   และทรงจำธรรม   เป็นผู้
+<span class="LineNumber"> 010 </span>	ประพฤติธรรมสมควรแก่ธรรม บุคคลเช่น
+<span class="LineNumber"> 011 </span>     	นั้นนั่น  เรียกว่าผู่ยังหมู่ให้งามภิกษุ  ภิกษุณี   
+<span class="LineNumber"> 012 </span>	อุบาสก     และอุบาสิกา     เป็นผู้มีศรัทธา
+<span class="LineNumber"> 013 </span>	สมบูรณ์ด้วยศีล เป็นพหูสูต บุคคลเหล่านี้
+<span class="LineNumber"> 014 </span>	แลยังหมู่ให้งาม    บุคคลเหล่านี้เป็นสังฆ-
+<span class="LineNumber"> 015 </span>   	โสภณ  (ผู้ยังหมู่ให้งาม)  แท้จริง.</B>
+<span class="LineNumber"> 016 </span>                                       <I>จบสังฆโสภณสูตรที่  ๗</I>

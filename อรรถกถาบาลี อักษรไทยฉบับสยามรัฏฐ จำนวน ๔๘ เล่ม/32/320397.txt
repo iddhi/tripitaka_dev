@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  นวกนิปาตวณฺณนา หน้า  397
+		
+<span class="LineNumber"> 002 </span>สํสติ  สนฺถโวติ  สขีภาโว  จ  เมตฺติ  จ  ปริสมชฺฌ  สนฺถโว
+<span class="LineNumber"> 003 </span>จาติ  ยํ  เมตฺติ(๑)  กตํ  สาธุ  โหติ  ลทฺธกํ  ภทฺทกเมว  ฯ  สเจตํ
+<span class="LineNumber"> 004 </span>ธมฺมนฺติ  สเจ  เอตํ  เมตฺติธมฺมํ(๒)  ฯ  วิชานตนฺติ  เอวํ  สนฺเต
+<span class="LineNumber"> 005 </span>วิฺูนํ  ปสํสิตพฺพยุตฺตโกสีติ  อตฺโถ  ฯ  โส  เตติ  โส  อหํ  
+<span class="LineNumber"> 006 </span>ตุยฺหํ  ฯ  วรสฺสูติ  อิจฺฉ  ฯ  มนสิจฺฉสีติ  ยํกิฺจิ  มนสา  อิจฺฉสิ
+<span class="LineNumber"> 007 </span>สพฺพํ  ตํ  ททามิ  เตติ ฯ  
+<span class="LineNumber"> 008 </span>	สุวราชา วรํ วรนฺโต(๓) สตฺตมํ คาถมาห  
+<span class="LineNumber"> 009 </span>	[๑๒๓๒]วรฺจ เม หํส ภวํ (๔) ทเทยฺย  
+<span class="LineNumber"> 010 </span>		อยํ หิ รุกฺโข ปุนวายุ ลพฺเภ(๕)  
+<span class="LineNumber"> 011 </span>		โส สาขวา ผลิมา สํวิรูฬฺโห  
+<span class="LineNumber"> 012 </span>		มธุตฺถิโก ติฏฺ€ตุ โสภมาโนติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  สาขวาติ  สาขาสมฺปนฺโน  ฯ  ผลิมาติ  ผลินีหิ(๖)
+<span class="LineNumber"> 014 </span>สาขาหิ  อุเปโต  ฯ  สํวิรูฬฺโหติ  สมนฺตโต  วิรูฬฺหปตฺโต 
+<span class="LineNumber"> 015 </span>ตรุณปตฺตสมฺปนฺโน  หุตฺวา  ฯ  มธุตฺถิโกติ  สํวิชฺชมานมธุกผเลสุ 
+<span class="LineNumber"> 016 </span>มกฺขิกมธุ  วิย  มธุรผโล  หุตฺวาติ อตฺโถ ฯ  
+<span class="LineNumber"> 017 </span>	อถสฺส สกฺโก วรํ ททมาโน อฏฺ€มํ คาถมาห  
+<span class="LineNumber"> 018 </span>	[๑๒๓๓]ตํ ปสฺส สมฺม ผลิมํ อุฬารํ  
+<span class="LineNumber"> 019 </span>		สหาว เต โหตุ อุทุมฺพเรน  
+<span class="LineNumber"> 020 </span># ๑. ม. ตยา มิตฺตํ ฯ  ๒. ม. มิตฺตธมฺมํ ฯ  ๓. ม. คณฺหนฺโต ฯ 
+<span class="LineNumber"> 021 </span># ๔. ส. ตุวํ ฯ  ๕. ส. ม. อยฺจ รุกฺโข ปุนรายุํ ลเภถ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ผเลน ฯ 

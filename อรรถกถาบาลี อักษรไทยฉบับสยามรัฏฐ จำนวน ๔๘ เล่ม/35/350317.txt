@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  สุธาโภชนชาตกํ  หน้า  317
+
+<span class="LineNumber"> 002 </span>		อาสาย เขตฺตานิ กสนฺติ กสฺสกา  
+<span class="LineNumber"> 003 </span>		วปนฺติ พีชานิ กโรนฺตุปายโส  
+<span class="LineNumber"> 004 </span>		อีตีนิปาเตน อวุฏฺ€ิตาย(๑) วา  
+<span class="LineNumber"> 005 </span>		น กิฺจิ วินฺทนฺติ ตโต ผลาคมํ ฯ  
+<span class="LineNumber"> 006 </span>		อถตฺตการานิ กโรนฺติ ภตฺตุสุ  
+<span class="LineNumber"> 007 </span>		อาสํ ปุรกฺขตฺว นรา สุเขสิโน  
+<span class="LineNumber"> 008 </span>		เต ภตฺตุรตฺถาย(๒) อติตฬิตา ปุน  
+<span class="LineNumber"> 009 </span>		ทิสา ปนสฺสนฺติ อลทฺธ กิฺจิ นํ(๓) ฯ  
+<span class="LineNumber"> 010 </span>		ชหิตฺวา ธฺฺจ ธนฺจ าตเก  
+<span class="LineNumber"> 011 </span>		อาสาย สคฺคาธิมนา สุเขสิโน  
+<span class="LineNumber"> 012 </span>		ตปนฺติ ลูขํปิ ตปํ จิรตฺตรํ  
+<span class="LineNumber"> 013 </span>		กุมฺมคฺคมารุยฺห ปเรนฺติ ทุคฺคตึ ฯ  
+<span class="LineNumber"> 014 </span>		อาสา วิสํวาทิกสมฺมตาสิเม (๔) 
+<span class="LineNumber"> 015 </span>		อาเส สุธาสํ วินยสฺสุ อตฺตนิ  
+<span class="LineNumber"> 016 </span>		น ตาทิสี อรหสิ อาสนูทกํ  
+<span class="LineNumber"> 017 </span>		กุโต สุธา คจฺฉ น มยฺห รุจฺจสีติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  ปเรนฺตีติ  ปกฺขนฺทนฺติ ฯ  ชินาธนาติ  ชินธนา ฯ  อิติ  
+<span class="LineNumber"> 019 </span>ตว  วเสน  เอเก  สมฺปชฺชนฺติ  เอเก  วิปชฺชนฺตีติ  นตฺถิ  ตยา  
+<span class="LineNumber"> 020 </span>สทิสา  ปาปธมฺมาติ  วทติ ฯ  กโรนฺตุปายโสติ  ตํ  ตํ กิจฺจํ อุปาเยน 
+<span class="LineNumber"> 021 </span>กโรนฺติ ฯ  อีตีนิปาเตนาติ วิสมธาตุมูสิกสลภสูกรปาณกเสตฏฺ€ิก-
+<span class="LineNumber"> 022 </span># ๑. สี. ยุ. อวฏฺ€ิกาย วา ฯ  ๒. ม. ภตฺตุรตฺถา ฯ
+<span class="LineNumber"> 023 </span># ๓. ม. กิฺจนํ ฯ  ๔. ม. ... สมฺมตา อิเม ฯ
+<span class="LineNumber"> 024 </span># ๕. ม. วิสมวาต.... ฯ  สี. ยุ. วิสวาต.... ฯ

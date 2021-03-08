@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           มหาภูตรูป ๓  อาศัยมหาภูตรูป ๑ ฯลฯ  มหาภูตรูป ๒ ฯลฯ 
+<span class="LineNumber"> 002 </span>           จิตตสมุฏฐานรูป    ที่เป็นอุปาทารูป    ที่เป็นอนิทัสสนธรรม   อาศัย
+<span class="LineNumber"> 003 </span>มหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 004 </span>                     ๒.  <B>สนิทัสสนธรรม   อาศัยอนิทัสสนธรรม   เกิดขึ้น
+<span class="LineNumber"> 005 </span>เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ จิตตสมุฏฐานรูป ที่เป็นสนิทัสสนธรรม  อาศัยขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 007 </span>อนิทัสสนธรรม.
+<span class="LineNumber"> 008 </span>           จิตตสมุฏฐานรูป   ที่เป็นอุปาทารูป    ที่เป็นสนิทัสสนธรรม    อาศัย
+<span class="LineNumber"> 009 </span>มหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 010 </span>                     ๓.  <B>สนิทัสสนธรรม    และอนิทัสสนธรรม    อาศัย
+<span class="LineNumber"> 011 </span>อนิทัสสนธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป  ที่เป็นสนิทัสสนธรรม  และ
+<span class="LineNumber"> 013 </span>อนิทัสสนธรรม  อาศัยขันธ์ ๑ ที่เป็นอนิทัสสนธรรม ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 014 </span>           จิตตสมุฏฐานรูปที่เป็นอุปาทารูป ที่เป็นสนิทัสสนธรรม และอนิทสัสน-
+<span class="LineNumber"> 015 </span>ธรรม  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 016 </span>           ฯลฯ พึงกระทำทุกปัจจัย
+
+<span class="LineNumber"> 017 </span>                              <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 018 </span>           [๑๘๘]  ในเหตุปัจจัย  มี ๓ วาระ  ในอารัมมณปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 019 </span>ื้นอธิปติปัจจัย  มี ๓ วาระ  ในอนันตรปัจจัย  มี ๑ วาระ  ในสมนันตรปัจจัย

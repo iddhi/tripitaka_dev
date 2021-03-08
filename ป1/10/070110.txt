@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		จัดแจง  เณ  ปัจจัย  (กัตตุวาจก)  อี วิภัตติ แล้วรัสสะ
+<span class="LineNumber"> 002 </span>		<B>อี  </B>เป็น <B>อิ</B> ลง  ส อาคม. 
+<span class="LineNumber"> 003 </span><B>สนฺตปฺเปสิ</B>  ยัง...ให้อิ่มหนำ-เลี้ยงดูแล้ว สํ  บทหน้า  ตปฺปฺ ธาตุ
+<span class="LineNumber"> 004 </span>		ในความอิ่ม  เณ ปัจจัย  (เหตุกัตตุวาจก)  อี วิภัตติ
+<span class="LineNumber"> 005 </span>		แล้วรัสสะ  ลง ส อาคม แปลงนิคคหิตที่  <B>สํ</B> เป็น  <B>นฺ</B>
+<span class="LineNumber"> 006 </span>		เพราะมี  ต อยู่หลัง.
+<span class="LineNumber"> 007 </span><B>สนฺธาเรสุํ</B>	ทรงไว้พร้อมแล้ว สํ  บทหน้า  ธารฺ  ธาตุ  ในความทรง-
+<span class="LineNumber"> 008 </span>		ตั้ง-รับ-วาง เอ ปัจจัย  อุํ  วิภัตติ  ลง ส อาคม
+<span class="LineNumber"> 009 </span>		แปลงนิคคหิตที่ <B>สํ</B>  เป็น <B>นฺ</B>  เพราะมี ธ อยู่เบื้องหลัง.
+<span class="LineNumber"> 010 </span><B>สนฺธาวิสฺสํ</B>	จักแล่นไปพร้อมแล้ว  สํ บทหน้า ธาวฺ ธาตุ  ในความ
+<span class="LineNumber"> 011 </span>		วิ่งไป  อ ปัจจัย   สฺสํ  วิภัตติ ลง อิ  อาคมหลังธาตุ
+<span class="LineNumber"> 012 </span>		และปัจจัย แปลงนิคคหิตที่ <B>สํ  </B>เป็น <B>นฺ</B>  เพราะมี ธ อยู่
+<span class="LineNumber"> 013 </span>		เบื้องหลัง.
+<span class="LineNumber"> 014 </span><B>สนฺนยฺหติ</B>	ย่อมผูกสอด  (สวมเกราะ)  สํ บทหน้า  นหฺ  ธาตุ ใน
+<span class="LineNumber"> 015 </span>		ความผูก ย ปัจจัย  ติ วิภัตติ แปลง  <B>ย</B> กับ  <B>หฺ</B> ที่สุด
+<span class="LineNumber"> 016 </span>		ธาตุเป็น  <B>ยฺห</B> แปลงนิคคหิตที่  <B>สํ</B>  เป็น <B>นฺ</B>  เพราะมี น อยู่
+<span class="LineNumber"> 017 </span>		เบื้องหลัง.
+<span class="LineNumber"> 018 </span><B>สนฺนิปตุสุ</B>	ประชุมกันแล้ว  สํ+นิ บทหน้า  ปตฺ ธาตุ  ในความตก
+<span class="LineNumber"> 019 </span>		ไป  อ ปัจจัย อุํ วิภัตติ แปล <B>อุํ</B>  เป็น <B>อึสุ</B>   แปลง
+<span class="LineNumber"> 020 </span>		นิคคหิตเป็น  นฺ เพราะเป็น  น อยู่เบื้องหลัง
+<span class="LineNumber"> 021 </span><B>สมเนวฺสติ</B>  ย่อมค้นหา  สํ+อนุ  บทหน้า  อิสฺ  ธาตุ  ในความแสวง-
+ 

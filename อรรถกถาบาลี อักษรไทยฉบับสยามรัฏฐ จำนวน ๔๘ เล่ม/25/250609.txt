@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ตติยวคฺเค ภทฺทชิตฺเถรคาถาวณฺณนา  หน้า 609
+
+<span class="LineNumber"> 002 </span>กตฺถายํ  มหาชโน  คจฺฉตีติ  ปุจฺฉิตฺวา ตํ  การณํ  สุตฺวา
+<span class="LineNumber"> 003 </span>สยมฺปิ  มหตา  ปริวาเรน  สตฺถุ สนฺติกํ คนฺตฺวา ธมฺมํ 
+<span class="LineNumber"> 004 </span>สุณนฺโต สพฺพาภรณปฏิมณฺฑิโตว  สพฺพกิเลเส  เขเปตฺวา  อรหตฺตํ  
+<span class="LineNumber"> 005 </span>ปาปุณิ ฯ  เตน  วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 006 </span>		โอคฺคยฺห ยํ  โปกฺขรณึ	นานากุฺชรเสวิตํ  
+<span class="LineNumber"> 007 </span>		อุทฺธรามิ ภิสํ ตตฺถ	ฆาสเหตุ (๒) อหํ ตทา ฯ  
+<span class="LineNumber"> 008 </span>		ภควา ตมฺหิ สมเย		ปทุมุตฺตรสวฺหโย  
+<span class="LineNumber"> 009 </span>		รตฺตกมฺพลธโร (๓) พุทฺโธ  คจฺฉเต อนิลฺชเส ฯ  
+<span class="LineNumber"> 010 </span>		ธุนนฺโต ปํสุกูลานิ		สทฺทํ อสฺโสสหํ ตทา  
+<span class="LineNumber"> 011 </span>		อุทฺธํ นิชฺฌายมาโนหํ	อทฺทสํ โลกนายกํ ฯ  
+<span class="LineNumber"> 012 </span>		ตตฺเถว €ิตโก สนฺโต	อายาจึ โลกนายกํ  
+<span class="LineNumber"> 013 </span>		มธุ ภึเสหิ สวติ		ขีรสปฺปิ มุฬาลิกํ ฯ (๔)  
+<span class="LineNumber"> 014 </span>		ปฏิคฺคณฺหาตุ เม พุทฺโธ	อนุกมฺปาย จกฺขุมา  
+<span class="LineNumber"> 015 </span>		ตโต การุณิโก สตฺถา	โอโรหิตฺวา มหายโส ฯ  
+<span class="LineNumber"> 016 </span>		ปฏิคฺคณฺหิ มมํ ภิกฺขํ	อนุกมฺปาย จกฺขุมา  
+<span class="LineNumber"> 017 </span>		ปฏิคฺคเหตฺวา สมฺพุทฺโธ	อกา เม  อนุโมทนํ ฯ  
+<span class="LineNumber"> 018 </span>		สุขี โหหิ (๕) มหาปุฺ  คติ ตุยฺหํ สมิชฺฌตุ  
+<span class="LineNumber"> 019 </span>		อิมินา ภิสทาเนน		ลภสฺสุ วิปุลํ สุขํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๓/๗๓/๑๐๒ ฯ  ๒. สฺยา. อสนเหตุ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. รตฺตกมฺพลธโร ฯ  ๔. สฺยา. มธุ ภึเสหิ สวติ ฯ
+<span class="LineNumber"> 022 </span># ขีรสปฺปิ มุฬาลิภิ ฯ  ๕. สฺยา. โหหิ ฯ 

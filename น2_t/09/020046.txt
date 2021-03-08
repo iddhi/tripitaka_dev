@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	๖.  คิริมานนทสูตร
+<span class="LineNumber"> 002 </span>	๗.  มหาสติปัฏฐานสูตร  
+<span class="LineNumber"> 003 </span>	๘.  ชยมงคลคาถา
+<span class="LineNumber"> 004 </span>	๙.  คาถาจุดเทียนชัย  และคาถาดับเทียนชัย
+<span class="LineNumber"> 005 </span>	บทพระพุทธมนต์สำหรับใช้ในงานมงคลทั้งหมดนี้  บางบทมีนิยมและระเบียบ
+<span class="LineNumber"> 006 </span>เป็นแบบปลีกย่อยลงไปอีกเฉพาะงาน  ต้องจะได้ชี้แจงในระเบียบพิธีต่อไป
+<span class="LineNumber"> 007 </span>                             ระเบียบพิธีและนิยมของบทพระพุทธมนต์
+<span class="LineNumber"> 008 </span>	๑.  <B>งานมงคลทั่วไป</B>  ทั้งที่เกี่ยวเนื่องด้วยเรื่องฉลองและเรื่องต้นการสิริมงคล
+<span class="LineNumber"> 009 </span>ซึ่งนิยมทำกันอย่างสามัญในที่ทั่วไป   ยกเว้นงานมงคลพิเศษคือ  งานฉลองพระบวชใหม่
+<span class="LineNumber"> 010 </span>ทำบุญขึ้นบ้านใหม่ทำบุญแต่งงาน  และทำบุญอายุใหญ่  กับงานรัฐพิธีบางกรณีแล้ว
+<span class="LineNumber"> 011 </span>การเจริญพระพุทธมนต์นิยมใช้บทเจ็ดตำนานเป็นพื้น   แต่บทสวดมนต์เรียกว่า  "<B>เจ็ด
+<span class="LineNumber"> 012 </span>ตำนาน</B>"  นี้พระโบราณาจารย์ท่านกำหนดพระสูตรคาถา  และหัวข้อพุทธภาษิต  บรรดา
+<span class="LineNumber"> 013 </span>ที่มีอานุภาพในทางแนะนำและป้องกันสรรพภัยพิบัติ  ซึ่งรวมเรียกว่า  "<B>พระปริตร</B>"
+<span class="LineNumber"> 014 </span>ไว้ให้เลือกสวดมากหัวข้อด้วยกัน  คือ
+<span class="LineNumber"> 015 </span>	๑.  มงคลสูตร
+<span class="LineNumber"> 016 </span>	๒.  รตนสูตร
+<span class="LineNumber"> 017 </span>	๓.  กรณียเมตตสูตร
+<span class="LineNumber"> 018 </span>	๔.  ขันธปริตต์
+<span class="LineNumber"> 019 </span>	๕.  โมรปริตต์
+<span class="LineNumber"> 020 </span>	๖.  ธชัคคปริตต์  หรือ  ธชัคคสูตร
+<span class="LineNumber"> 021 </span>	๗.  อาฏานาฏิยปริตต์
+<span class="LineNumber"> 022 </span>	๘.  โพชฌงคปริตต์  มีองคุลิมาลปริตต์เป็นบทต้น
+

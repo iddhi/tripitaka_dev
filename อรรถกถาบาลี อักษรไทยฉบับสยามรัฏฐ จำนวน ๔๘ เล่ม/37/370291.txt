@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 291
+
+<span class="LineNumber"> 002 </span>ปจฺจุคฺคตสทฺทฺจ  สูรเสนวิเสสนํ  กตฺวา  ปฺจาล  ปจฺจุคฺคต 
+<span class="LineNumber"> 003 </span>สูรเสนมจฺฉราชา  จ  มทฺทา  จ  เกกเกภิ  สห เสสราชาโน  จาติ  
+<span class="LineNumber"> 004 </span>เอวเมตฺถ  อตฺโถ  เวทิตพฺโพ ฯ  ปสฺสนฺตุ  โน  เตติ  อมฺหากํ  
+<span class="LineNumber"> 005 </span>ทวินฺนํ  เอเต  ราชาโน  อสเถน  อกฺขยุทฺธํ  ปสฺสนฺตุ ฯ  น โน 
+<span class="LineNumber"> 006 </span>สภายํ  น  กโรนฺติ  กฺจีติ  เอตฺถ  โนติ  นิปาตมตฺตํ ฯ  น 
+<span class="LineNumber"> 007 </span>สภายํ  กิฺจิ  สกฺขึ  น  กโรนฺติ(๑)  ขตฺติยาปิ(๒)  พฺราหฺมณาปิ(๓)
+<span class="LineNumber"> 008 </span>กโรนฺติเยว  ตสฺมา  สเจ  ตุมฺเห  กิฺจิ  อการณํ  อุปฺปชฺชติ  น 
+<span class="LineNumber"> 009 </span>โน  สุตํ  น  โน  ทิฏฺ€นฺติ  วตฺตุํ  น  ลภิสฺสถ  อปฺปมตฺตา 
+<span class="LineNumber"> 010 </span>โหถาติ  เอวํ  ยกฺขเสนาปตึ [๔] สกฺขึ  อกาสิ ฯ  
+<span class="LineNumber"> 011 </span>	อถ  ราชา  เอกสตราชปริวุโต  ปุณฺณกํ คเหตฺวา ชูตสาลํ 
+<span class="LineNumber"> 012 </span>ปาวิสิ ฯ  สพฺเพปิ  ปฏิรูปาสเน(๕)  นิสีทึสุ ฯ  รชตผลเก  
+<span class="LineNumber"> 013 </span>สุวณฺณปาสเก  €ปยึสุ ฯ  ปุณฺณโกปิ  ตุริตตุริโต  มหาราช  
+<span class="LineNumber"> 014 </span>ปาสเกสุ  อายา  นาม  (๖)มาลึ  สาวตี  พหุลี(๖)  สนฺติภทฺราทโย 
+<span class="LineNumber"> 015 </span>จตุวีสติ  เตสุ  ตุมฺเห  อตฺตโน  รุจฺจนกํ  อายํ  คณฺหถาติ 
+<span class="LineNumber"> 016 </span>อาห ฯ  ราชา  สาธูติ  พหุลํ  คณฺหิ  ปุณฺณโก  สาวตึ  
+<span class="LineNumber"> 017 </span>คณฺหิ ฯ  อถ  นํ  ราชา  อาห  เตนหิ  ตาต(๗)  มาณว  ปาสเก  
+<span class="LineNumber"> 018 </span>ปาเตหีติ ฯ  มหาราช  ป€มํ  มม  วาโร  น  ปาปุณาติ  ตุมฺเห  
+<span class="LineNumber"> 019 </span>ปาสเก  ปาเตถาติ ฯ  ราชา  สาธูติ  สมฺปฏิจฺฉิ ฯ  ตสฺส  ปน
+<span class="LineNumber"> 020 </span># ๑. ม. น น กโรนฺติ ฯ  ๒. ม. ขตฺติเยปิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. พฺราหฺมเณปิ ฯ ๔. ม. เอตฺถนฺตเร ราชาโนติ 
+<span class="LineNumber"> 022 </span># ทิสฺสิต ฯ ๕. ม. ปติรูปาสเนสุ ฯ  ๖. ม. มาลิกํ สาวฏฺฏํ พหุลํ ฯ 
+<span class="LineNumber"> 023 </span># ๗. ม. ตาว ฯ 

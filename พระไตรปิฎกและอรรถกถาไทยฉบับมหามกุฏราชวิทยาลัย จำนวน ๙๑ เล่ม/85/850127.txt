@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           <B>๗.  กุศลธรรม อกุศลธรรม  และอัพยากตธรรม</B>   อาศัยกุศล-
+<span class="LineNumber"> 002 </span>ธรรม  เกิดขึ้น   เพราะเหตุปัจจัยได้อย่างไร  ?          
+                           
+<span class="LineNumber"> 003 </span>                                           <H1>อกุศลบท</H1>
+<span class="LineNumber"> 004 </span>           <B>[๒๗]   ๑.   อกุศลธรรม</B>   อาศัยอกุศลธรรม  เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 005 </span>ได้อย่างไร  ?
+<span class="LineNumber"> 006 </span>           <B>๒.    กุศลธรรม</B>    อาศัยอกุศลธรรม  เกิดขึ้น     เพราะเหตุปัจจัยได้
+<span class="LineNumber"> 007 </span>อย่างไร  ?
+<span class="LineNumber"> 008 </span>           <B>๓.    อัพยากตธรรม</B>     อาศัยกุศลธรรม  เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>ได้อย่างไร  ?
+<span class="LineNumber"> 010 </span>           <B>๔.    กุศลธรรม  และอัพยากตธรรม</B>  อาศัยกุศลธรรม  เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะเหตุปัจจัยได้อย่างไร  ?
+<span class="LineNumber"> 012 </span>           <B>๕.    อกุศลธรรม   และอัพยากตธรรม</B>   อาศัยอกุศลธรรม เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัยได้อย่างไร  ?
+<span class="LineNumber"> 014 </span>           <B>๖.     กุศลธรรม      และอกุศลธรรม</B>    อาศัยอกุศลธรรมเกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะเหตุปัจจัยได้อย่างไร      ?
+<span class="LineNumber"> 016 </span>           <B>๗.    กุศลธรรม  อกุศลธรรม  และอัพยากตธรรม</B>  อาศัยอกุศล-
+<span class="LineNumber"> 017 </span>ธรรมเกิดขึ้น  เพราะเหตุปัจจัยได้อย่างไร  ?
+<span class="LineNumber"> 018 </span>                                                  <H1>อัพยากตบท</H1>
+<span class="LineNumber"> 019 </span>           <B>[๒๘]   ๑.  อัพยากตธรรม</B>   อาศัยอัพยากตธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 020 </span>ปัจจัยได้อย่างไร  ?

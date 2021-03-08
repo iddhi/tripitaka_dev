@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>ฯลฯ  อาศัยนเหตุธรรม     ที่ไม่ใช่ภาวนายปหา- 
+<span class="LineNumber"> 002 </span>ตัพพเหตุกธรรม  ฯลฯ</B>                                                       
+<span class="LineNumber"> 003 </span>                       ๓.  <B>ฯลฯ  อาศัยนเหตุธรรม     ที่ไม่ใช่เนวทัสสเนน-
+<span class="LineNumber"> 004 </span>นภาวนายปหาตัพพเหตุกธรรม  ฯลฯ</B>                                      
+<span class="LineNumber"> 005 </span>                <I>นทัสสเนนปหาตัพพเหตุกติกนเหตุทุกะ จบ</I>
+
+<span class="LineNumber"> 006 </span>                               <H1>นอาจยคามิติกนเหตุทุกะ</H1>
+<span class="LineNumber"> 007 </span>              <H2>(๑๐.  นอาจยคามิติกะ  ๑. นเหตุทุกะ)</H2>
+<span class="LineNumber"> 008 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 009 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>           [๓๑๕] ๑.  <B>ฯลฯ  อาศัยนเหตุธรรม   ที่ไม่ใช่อาจยคามิธรรม
+<span class="LineNumber"> 012 </span>ฯลฯ</B>
+<span class="LineNumber"> 013 </span>                       ๒.  <B>ฯลฯ  อาศัยนเหตุธรรม   ที่ไม่ใช่อปจยคามิธรรม
+<span class="LineNumber"> 014 </span>ฯลฯ</B>
+<span class="LineNumber"> 015 </span>                       ๓.  <B>ฯลฯ    อาศัยนเหตุธรรม  ที่ไม่ใช่เนวาจยคามินา-
+<span class="LineNumber"> 016 </span>ปจยคามิธรรม  ฯลฯ</B>
+<span class="LineNumber"> 017 </span>                                  <I>นอาจยคามิติกนเหตุทุกะ  จบ</I>

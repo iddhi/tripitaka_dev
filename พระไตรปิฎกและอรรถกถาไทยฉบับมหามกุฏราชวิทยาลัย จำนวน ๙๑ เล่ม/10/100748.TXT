@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ตอบว่า  การเดาะกฐิน ๒ อย่างที่เกิดด้วยกัน  ดับด้วยกัน คือ  เดาะใน   
+<span class="LineNumber"> 002 </span>ระหว่าง  ๑   เดาะพร้อมกัน  ๑
+<span class="LineNumber"> 003 </span>           การเดาะกฐินนอกนั้น    เกิดด้วยกัน    ดับต่างกัน.
+<span class="LineNumber"> 004 </span>                                     <I>กฐินเภท  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                  <H1>หัวข้อประจำเรื่อง</H1>
+<span class="LineNumber"> 006 </span>           [๑,๑๖๐]   ใคร   ด้วยอย่างไร   ธรรม ๑๕  อย่าง  นิทาน  เหตุ  ปัจจัย
+<span class="LineNumber"> 007 </span>สงเคราะห์   มูล   เบื้องต้น   ประเภท   บุคคล     บุคคล  ๓   การเดาะกฐิน  ๓
+<span class="LineNumber"> 008 </span>พึงรู้  การกราน   การสวด   ปลิโพธ   เป็นใหญ่   สีมา   เกิดขึ้นและดับ.
+<span class="LineNumber"> 009 </span>                                         <I>ปริวาร  จบ</I>
+
+<span class="LineNumber"> 010 </span>                                    <H1>กฐินเภท  วัณณนา</H1>
+<span class="LineNumber"> 011 </span>                            <H1>[ธรรมที่เกิดพร้อมกับกรานกฐิน]</H1>
+<span class="LineNumber"> 012 </span>           วินิจฉัยในกฐิน  พึงทราบดังนี้:-
+<span class="LineNumber"> 013 </span>           สองบทว่า  <B>อฏฺ€   มาติกา</B>    ได้แก่    มาติกา ๘    มีปักกมนันติกา
+<span class="LineNumber"> 014 </span>(กำหนดด้วยการหลีกไปเป็นที่สุด)   เป็นต้น    ที่ตรัสไว้ในขันธกะ.  แม้ปลิโพธ
+<span class="LineNumber"> 015 </span>และอานิสงส์ก็ได้ตรัสไว้ในหนหลังแล้วแล.                              
+
+<span class="LineNumber"> 016 </span>                                <H1>[ว่าด้วยอนันตรปัจจัยเป็นอาทิ]</H1>
+<span class="LineNumber"> 017 </span>           บทว่า  <B>ปโยคสฺส</B>   ได้แก่   ประโยคมีการหาน้ำมาเป็นต้น    ที่ภิกษุ
+<span class="LineNumber"> 018 </span>กระทำเพื่อประโยชน์แก่บุพกรณ์  ๗  อย่าง   มีซักจีวรเป็นต้น.

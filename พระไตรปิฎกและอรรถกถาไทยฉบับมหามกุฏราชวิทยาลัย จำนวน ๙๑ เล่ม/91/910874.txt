@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>               <H1>เหตุทุกสารัมมณทุกนเหตุทุกนสารัมมณทุกะ</H1>   
+<span class="LineNumber"> 002 </span>                 <H2>(๑. เหตุทุกะ  ๕๔. สารัมมณทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>สารัมมณบท</H2>
+<span class="LineNumber"> 007 </span>           [๙๗๙] ๑.  <B>ธรรมที่ไม่ใช่สารัมมณธรรม    ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 008 </span>อาศัยสารัมมณธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                                              <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 010 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 011 </span>           [๙๘๐]  ในเหตุปัจจัย มี  ๓  วาระ  ฯลฯ
+
+<span class="LineNumber"> 012 </span>                                     <H2>อนารัมมณบท</H2>   
+<span class="LineNumber"> 013 </span>           [๙๘๑] ๑.  <B>ธรรมที่ไม่ใช่อนารัมมณธรรม   ที่ไม่ใช่นเหตุธรรม
+<span class="LineNumber"> 014 </span>อาศัยอนารัมมณธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>                                                 <B>ฯลฯ</B>
+
+<span class="LineNumber"> 016 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 017 </span>           [๙๘๒]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 018 </span>                 <I>เหตุทุกสารัมมณทุกนเหตุทุกนสารัมมณทุกะ  จบ</I> 	

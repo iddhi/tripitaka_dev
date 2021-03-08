@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>ปัจจุปปันนาตีตวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         บุคคลใดไม่ใช่กำลังรู้แจ้งทุกขสัจจะ,       บุคคลนั้นไม่ใช่เคยละ
+<span class="LineNumber"> 005 </span>สมุทยสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         พระอรหันต์ไม่ใช่กำลังรู้แจ้งทุกขสัจจะ  แต่เคยละสมุทยสัจจะ,
+<span class="LineNumber"> 007 </span>ยกเว้นอรหัตมรรคบุคคลและพระอรหันต์เสียแล้ว            บุคคลที่เหลือ
+<span class="LineNumber"> 008 </span>นอกนั้นไม่ใช่กำลังแจ้งทุกขสัจจะและไม่เคยละสมุทยสัจจะ.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   บุคคลใดไม่ใช่เคยละสมุทยสัจจะ,     บุคคลนั้นไม่ใช่
+<span class="LineNumber"> 010 </span>กำลังรู้แจ้งทุกขสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         อรหัตมรรคบุคคลไม่เคยละสมุทยสัจจะ       แต่กำลังรู้แจ้งทุกข-
+<span class="LineNumber"> 012 </span>สัจจะ,  ยกเว้นอรหัตมรรคบุคคลและพระอรหันต์เสียแล้ว  บุคคลที่เหลือ
+<span class="LineNumber"> 013 </span>นอกนั้นไม่เคยละสมุทยสัจจะและไม่ใช่กำลังรู้แจ้งทุกขสัจจะ.
+<span class="LineNumber"> 014 </span>                         <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 015 </span>                                      <I>ทุกขสัจจมูล  จบ</I>
+<span class="LineNumber"> 016 </span>                         <I>ปัจจุปปันนาตีตวาระ  ปัจจนิก  จบ</I>

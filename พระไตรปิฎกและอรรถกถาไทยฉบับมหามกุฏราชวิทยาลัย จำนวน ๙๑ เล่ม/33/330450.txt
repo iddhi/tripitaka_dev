@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>พาลวรรคที่  ๕</H2>
+
+<span class="LineNumber"> 002 </span>                                         <H3>สูตรที่  ๑</H3>
+
+<span class="LineNumber"> 003 </span>         [๓๔๓]  ๙๗.  ดูก่อนภิกษุทั้งหลาย   คนพาล  ๒ จำพวกนี้  ๒ จำพวก
+<span class="LineNumber"> 004 </span>เป็นไฉน คือ คนที่นำเอาภาระที่ยังมาไม่ถึงไป  ๑  คนที่ไม่นำเอาภาระที่มา
+<span class="LineNumber"> 005 </span>ถึงไป  ๑  ดูก่อนภิกษุทั้งหลาย  คนพาล ๒ จำพวกนี้แล.
+<span class="LineNumber"> 006 </span>                                               จบสูตรที่  ๑
+
+<span class="LineNumber"> 007 </span>                                            <H3>สูตรที่ ๒</H3>
+
+<span class="LineNumber"> 008 </span>         [๓๔๔] ๙๘. ดูก่อนภิกษุทั้งหลาย  บัณฑิต  ๒  จำพวกนี้  ๒ จำพวก
+<span class="LineNumber"> 009 </span>เป็นไฉน   คือ  คนที่นำภาระที่มาถึงไป  ๑   คนที่ไม่นำเอาภาระที่ยังไม่มา
+<span class="LineNumber"> 010 </span>ถึงไป  ๑  ดูก่อนภิกษุทั้งหลาย   บัณฑิต  ๒  จำพวกนี้แล.
+<span class="LineNumber"> 011 </span>                                                 จบสูตรที่  ๒
+
+<span class="LineNumber"> 012 </span>                                              <H3>สูตรที่ ๓</H3>
+
+<span class="LineNumber"> 013 </span>         [๓๔๕]  ๙๙.  ดูก่อนภิกษุทั้งหลาย  คนพาล  ๒ จำพวก   ๒ จำพวก
+<span class="LineNumber"> 014 </span>เป็นไฉน  คือ คนที่เข้าใจว่าควรในของที่ไม่ควร ๑  คนที่เข้าใจว่าไม่ควร
+<span class="LineNumber"> 015 </span>ในของที่ควร  ๑  ดูก่อนภิกษุทั้งหลาย  คนพาล ๒ จำพวกนี้แล.
+<span class="LineNumber"> 016 </span>                                                   จบสูตรที่  ๓
+
+<span class="LineNumber"> 017 </span>                                                 <H3>สูตรที่ ๔</H3>
+
+<span class="LineNumber"> 018 </span>         [๓๔๖]   ๑๐๐.  ดูก่อนภิกษุทั้งหลาย  บัณฑิต ๒ จำพวกนี้   ๒ จำ-
+<span class="LineNumber"> 019 </span>พวกเป็นไฉน  คือ  คนที่เข้าใจว่าไม่ควรในของที่ไม่ควร  ๑   คนที่เข้าใจ

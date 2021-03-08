@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>ไว้ในพวกอดีตกาล,  ที่บอกกาลอื่น  จักมีแจ้งในวากยสัมพันธ์ข้างหน้า    
+<span class="LineNumber"> 002 </span>และศัพท์ที่ประกอบด้วยปัจจัยทั้ง ๓  ตัวนี้  นำหน้ากิริยาอาขยาตเป็นนิตย์.
+ 
+<span class="LineNumber"> 003 </span>	[๑๔๖]  คำถามชื่อ  สาธนะ  ธาตุ  ปัจจัย และวาจก  ให้ผู้
+<span class="LineNumber"> 004 </span>ศึกษาตอบ.
+<span class="LineNumber"> 005 </span>                          ถามสาธนะ  และ  ปัจจัย
+<span class="LineNumber"> 006 </span><B>ทา</B>  ธาตุ		ในความ  ให้.	<B>ทายโก</B>	ชื่อคน
+<span class="LineNumber"> 007 </span>"				"		<B>ทานํ</B>		ชื่อกิริยา
+<span class="LineNumber"> 008 </span>"				"		<B>ทานํ</B>		ชื่อเจตนา
+<span class="LineNumber"> 009 </span>"				"		<B>ทานํ</B>		ชื่อของ
+<span class="LineNumber"> 010 </span>"				"		<B>ทานํ</B>		ชื่อที่
+<span class="LineNumber"> 011 </span><B>ปจฺ</B>  ธาตุ		ในความ หุง	<B>ปาจโก</B>	ชื่อคน
+<span class="LineNumber"> 012 </span>"				"		<B>ปกฺกํ</B>		ชื่อข้าว
+<span class="LineNumber"> 013 </span>"				"		<B>ปาโก</B>	ชื่อหม้อข้าว
+<span class="LineNumber"> 014 </span>"				"		<B>ปจนํ</B>		ชื่อกิริยา
+<span class="LineNumber"> 015 </span>"				"		<B>ปจนํ</B>		ชื่อฟืน
+<span class="LineNumber"> 016 </span><B>พนฺธ</B>  ธาตุ	ในความ ผูก.	พนฺธโก	ชื่อคนผูก
+<span class="LineNumber"> 017 </span>"				"		<B>พนฺธนํ</B>	ชื่อกิริยา
+<span class="LineNumber"> 018 </span>"				"		<B>พนฺธนํ</B>	ชื่อเรือนจำ
+<span class="LineNumber"> 019 </span>"				"		<B>พนฺธนํ</B>	ชื่อโซ่
+<span class="LineNumber"> 020 </span>"				"		<B>พนฺโธ</B>	ชื่อคนที่เขาผูก.

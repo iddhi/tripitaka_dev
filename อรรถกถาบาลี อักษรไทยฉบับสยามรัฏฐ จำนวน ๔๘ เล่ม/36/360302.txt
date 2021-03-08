@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  302
+
+<span class="LineNumber"> 002 </span>			คงฺคา สมุทฺทํ ปฏิปชฺชมานา  
+<span class="LineNumber"> 003 </span>			น ขายเต อิทฺธิวโร หิ โลเก (๑) 
+<span class="LineNumber"> 004 </span>			เอตมฺปิ ทิสฺวาน อหํ วทามิ  
+<span class="LineNumber"> 005 </span>			ปฺโ วิหีโน สิริมาว เสยโยติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  นชฺโชติ  นินฺนา  หุตฺวา  สนฺทมานา  อนฺตมโส  
+<span class="LineNumber"> 007 </span>กุนนทิโยปิ (๒) ฯ  ชหนฺตีติ  คงฺคา  เตฺวว  สํขฺยํ  คจฺฉนฺติ  อตฺตโน  
+<span class="LineNumber"> 008 </span>นามโคตฺตํ  ชหนฺติ ฯ  น  ขายเตติ  สา  ปน  คงฺคา  สมุทฺทํ  
+<span class="LineNumber"> 009 </span>ปฏิปชฺชมานา  น  ปฺายติ  มหาสมุทโท  เตฺวว  นามํ  ลภติ  
+<span class="LineNumber"> 010 </span>เอวเมว  มหาปฺโปิอิสฺสรํ  ปตฺโต น ขายติ น ปฺายติ 
+<span class="LineNumber"> 011 </span>สมุทฺทํ ปวิฏฺ€คงฺคา วิย อโหสิ ฯ  
+<span class="LineNumber"> 012 </span>	ปุน  ราชา  กีทิสํ  ปณฑิตาติ  อาห ฯ  โส  สุณ  มหา-
+<span class="LineNumber"> 013 </span>ราชาติ  วตฺวา อิมํ คาถมาห  
+<span class="LineNumber"> 014 </span>			ยเมตมกฺขา อุทธึ มหนฺตํ  
+<span class="LineNumber"> 015 </span>			ปยนฺติ (๓) นชฺโช สพฺพกาลํ อสํขฺยํ  
+<span class="LineNumber"> 016 </span>			โส สาคโร นิจฺจมุฬารเวโค  
+<span class="LineNumber"> 017 </span>			เวลํ นาจฺเจติ (๔) โส (๕) มหาสมุทฺโท  
+<span class="LineNumber"> 018 </span>			เอวมฺปิ พาลสฺส ปชปฺปิตานิ  
+<span class="LineNumber"> 019 </span>			ปฺํ นาจฺเจติ สิรี กทาจิ  
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. อิทฺธิปโร หิ โลโก ฯ  ม. อิทฺธึ ปฺโปิ โลเก ฯ
+<span class="LineNumber"> 021 </span># ๒. ยุ. กนฺทริโยปิ อุปาทาย ฯ  ๓. ม. ยุ. สวนฺติ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. ยุ. เวลํ ฯ อจฺเจติ ฯ  ๕. ม. อยํ ปาโ€ นตฺถิ ฯ

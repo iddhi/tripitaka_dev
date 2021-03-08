@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 441
+
+<span class="LineNumber"> 002 </span>[๑]ปาโ€ ฯ  เธนุว  วจฺฉคิทฺธาวาติ  ตว  ทารเก  อปสฺสนฺตี  
+<span class="LineNumber"> 003 </span>วจฺฉคิทฺธา  เธนุ  วิย  กถํ  กริสฺสสิ ฯ  วกาโร  ปเนตฺถ  
+<span class="LineNumber"> 004 </span>นิปาตมตฺโตว ฯ  สมฺปติเตติ  สมฺปตนฺเต ฯ  โฆเรติ  ภึสนเก
+<span class="LineNumber"> 005 </span>วิรูเป ฯ  ปลฺวงฺคเมติ  มกฺกเฏ ฯ  อเขตฺตฺายาติ  อรฺเ 
+<span class="LineNumber"> 006 </span>ภูมิยํ  อกุสลาย(๒) ฯ  ภวิตนฺเตติ  ภวิสฺสติ  เต ฯ  ยา  ตฺวํ  สิวาย
+<span class="LineNumber"> 007 </span>สุตฺวานาติ  สิงฺคาลิยา  สทฺทํ  สุตฺวา ฯ  มหุนฺติ(๓)  นคเร  วสนฺตีปิ
+<span class="LineNumber"> 008 </span>ปุนปฺปุนํ  อุตฺตสสิ ฯ สุณเตวาติ นทติ สทฺทํ กโรติ(๔) วิย ฯ  
+<span class="LineNumber"> 009 </span>	[๑๐๙๓]ตมพฺรวี ราชปุตฺตี	มทฺที สพฺพงฺคโสภณา  
+<span class="LineNumber"> 010 </span>		ยานิ เอตานิ อกฺขาสิ	วเน ปฏิภายานิ เม  
+<span class="LineNumber"> 011 </span>		สพฺพานิ อภิสมฺโภสฺสํ	คจฺฉฺเว รเถสภ  
+<span class="LineNumber"> 012 </span>		กาสํ กุสํ โปตกิลํ		อุสิรํ มุฺชปพฺพชํ  
+<span class="LineNumber"> 013 </span>		อุรสา ปนูทเหสฺสามิ	นาสฺส เหสฺสามิ ทุนฺนยา  
+<span class="LineNumber"> 014 </span>		พหูหิ วตฺตจริยาหิ		กุมารี วินฺทเต ปตึ  
+<span class="LineNumber"> 015 </span>		อุทรสฺสุปโรเธน		โคหนุเวฏฺ€เนน จ  
+<span class="LineNumber"> 016 </span>		อคฺคิสฺส ปาริจริยาย	อุทกุมฺมชฺชเนน จ  
+<span class="LineNumber"> 017 </span>		เวธพฺยํ กฏุกํ โลกํ		คจฺฉฺเว รเถสภ  
+<span class="LineNumber"> 018 </span>		อปิสฺสา โหติ อปฺปตฺโต	อุจฺฉิฏฺ€ํ ปริภุฺชิตุํ(๕)  
+<span class="LineNumber"> 019 </span>		โย นํ หตฺเถ คเหตฺวาน	อกามํ ปริกฑฺฒติ  
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร วาสทฺโท อตฺถิ ฯ  ๒. ม. อรฺภูมิอกุสลตาย ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. มุหุนฺติ ฯ  ๔. ม. สุณเตวาติ นทติ วิย สุณนฺตํ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. อุจฺฉิฏฺ€มฺปิ ภุฺชิตุํ ฯ

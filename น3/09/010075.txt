@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span><B>เอตฺถ  นิรุชฺฌมานา  นิรุชฺฌติ</B>	เมื่อจะดับ  ก็ย่อมดับที่เวทนาซึ่ง 
+<span class="LineNumber"> 002 </span>					เกิดแต่สัมผัสทางตา  หู  จมูก  ลิ้น
+<span class="LineNumber"> 003 </span>					กาย  ใจนั้น.
+<span class="LineNumber"> 004 </span>	<B>๖.  รูปสญฺา</B>		ความจำรูป 
+<span class="LineNumber"> 005 </span><B>สทฺทสญฺา</B>				ความจำเสียง
+<span class="LineNumber"> 006 </span><B>คนฺธสญฺา</B>				ความจำกลิ่น
+<span class="LineNumber"> 007 </span><B>รสสญฺา</B>				ความจำรส
+<span class="LineNumber"> 008 </span><B>โผฏฺ€พฺพสญฺา</B>			ความจำโผฏฐัพพะ
+<span class="LineNumber"> 009 </span><B>ธมฺมสญฺา</B>				ความจำธัมมารมณ์
+<span class="LineNumber"> 010 </span><B>โลเก ปิยรูปํ  สาตรูปํ</B>		เป็นที่รักสนิทใจในโลก
+<span class="LineNumber"> 011 </span><B>เอตฺเถสา  ตณฺหา  ปหิยฺยมานา</B>	ตัณหานั้น  เมื่อบุคคลจะละเสีย  ก็
+<span class="LineNumber"> 012 </span><B>ปหิยฺยติ</B>				ย่อมละเสียได้ที่ความจำรูป  เสียง
+<span class="LineNumber"> 013 </span>					กลิ่น  รส  โผฏฐัพพะ  ธัมมารมณ์
+<span class="LineNumber"> 014 </span>					นั้น
+<span class="LineNumber"> 015 </span><B>เอตฺถ  นิรุชฺฌมานา  นิรุชฺฌติ</B>	เมื่อดับ  ก็ย่อมดับที่ความจำรูป
+<span class="LineNumber"> 016 </span>					เสียง  กลิ่น  รส  โผฏฐัพพะ
+<span class="LineNumber"> 017 </span>					ธัมมารมณ์นั้น.
+<span class="LineNumber"> 018 </span>	<B>๗.  รูปสญฺเจตนา</B>		ความคิดถึงรูป
+<span class="LineNumber"> 019 </span><B>สทฺทสญฺเจตนา</B>			ความคิดถึงเสียง
+<span class="LineNumber"> 020 </span><B>คณฺพสญฺเจตนา</B>			ความคิดถึงกลิ่น
+<span class="LineNumber"> 021 </span><B>รสสญฺเจตนา</B>				ความคิดถึงรส
+
+

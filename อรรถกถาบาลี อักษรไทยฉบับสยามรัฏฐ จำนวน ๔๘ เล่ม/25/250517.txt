@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค อุตฺตรตฺเถรคาถาวณฺณนา  หน้า 517
+	
+<span class="LineNumber"> 002 </span>		มหารหฺจ สยนํ		ตุลิกํ วิกติสฺสกํ (๑)  
+<span class="LineNumber"> 003 </span>		อุทฺธโลมิฺจ เอกนฺตํ	พิมฺโพหนสมายุตํ ฯ  
+<span class="LineNumber"> 004 </span>		ภวนา นิกฺขมิตฺวาน	จรนฺโต เทวจาริกํ  
+<span class="LineNumber"> 005 </span>		ยถา(๒) อิจฺฉามิ คมนํ	เทวสงฺฆปุรกฺขโต ฯ  
+<span class="LineNumber"> 006 </span>		ปุปฺผสฺส เหฏฺ€า ติฏฺ€ามิ  อุปริจฺฉทนํ มม  
+<span class="LineNumber"> 007 </span>		สมนฺตา โยชนสตํ		กณิกาเรหิ ฉาทิตํ ฯ  
+<span class="LineNumber"> 008 </span>		สฏฺ€ี ตุริยสหสฺสานิ	สายํ ปาตํ อุปฏฺ€หุํ  
+<span class="LineNumber"> 009 </span>		ปริวาเรนฺติ มํ นิจฺจํ	รตฺตินฺทิวมตนฺทิตา ฯ  
+<span class="LineNumber"> 010 </span>		ตตฺถ นจฺเจหิ คีเตหิ	ตาเฬหิ วาทิเตหิ จ  
+<span class="LineNumber"> 011 </span>		รมามิ ขิฑฺฑา รติยา(๓)	โมทามิ กามกามหํ(๔) ฯ  
+<span class="LineNumber"> 012 </span>		ตตฺถ ภุตฺวา ปิวิตฺวา จ	โมทามิ ติทเส ตทา  
+<span class="LineNumber"> 013 </span>		นารีคเณหิ สหิโต		โมทามิ พฺยมฺหมุตฺตเม ฯ
+<span class="LineNumber"> 014 </span>		สตานํ ปฺจกฺขตฺตุฺจ	เทวรชฺชมการยึ  
+<span class="LineNumber"> 015 </span>		สตานํ ตีณิกฺขตฺตุฺจ	จกฺกวตฺตี อโหสหํ  
+<span class="LineNumber"> 016 </span>		ปเทสรชฺชํ วิปุลํ		คณนาโต อสงฺขิยํ ฯ  
+<span class="LineNumber"> 017 </span>		ภวาภเว  สํสรนฺโต		มหาโภคํ(๕) ลภามหํ  
+<span class="LineNumber"> 018 </span>		โภเค เม อูนตา นตฺถิ	พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 019 </span>		ทุเว ภเว สํสรามิ		เทวตฺเต อถ มานุเส  
+<span class="LineNumber"> 020 </span>		อฺํ คตึ น ชานามิ	พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ยุ. ตูลิกา วิกตียุตํ ฯ  ๒. สฺยา. ยทา ฯ
+<span class="LineNumber"> 022 </span># ๓. สฺยา. ขิฑฺฑารติยา ฯ  ๔. สฺยา. กามกามิหํ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ยุ. มหาโภเค ฯ 

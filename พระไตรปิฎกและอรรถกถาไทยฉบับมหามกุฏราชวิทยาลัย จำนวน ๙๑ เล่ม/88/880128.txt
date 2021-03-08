@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>การนับจำนวนวาระในอนุโลม</H1>  
+<span class="LineNumber"> 002 </span>           [๑๐๕]  ในเหตุปัจจัย   มี ๙ วาระ   ในอารัมมณปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 003 </span>ในอธิปติปัจจัย  มี  ๙ วาระ ในอนันตรปัจจัย มี ๙ วาระ ฯลฯ ในปัจจัยทั้งปวง
+<span class="LineNumber"> 004 </span>มี ๙ วาระ  ในอวิคตปัจจัย  มี  ๙ วาระ.
+<span class="LineNumber"> 005 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 006 </span>                                           <B>อนุโลมนัย   จบ</B>
+
+<span class="LineNumber"> 007 </span>                                              <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 008 </span>                                          <H1>๑. นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๐๖]  ๑.  <B>ธรรมที่เป็นทั้งเหตุธรรม   และสเหตุกธรรม    อาศัย
+<span class="LineNumber"> 010 </span>ธรรมที่เป็นทั้งเหตุธรรม  และสเหตุกธรรม  เกิดขึ้น  เพราะนอธิปติ
+<span class="LineNumber"> 011 </span>ปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  อโทสะ  อโมหะ  อาศัยอโลภะ.
+<span class="LineNumber"> 013 </span>           พึงผูกจักรนัย.
+<span class="LineNumber"> 014 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 015 </span>           พึงกระทำเป็น ๙  วาระ  ให้บริบูรณ์.
+<span class="LineNumber"> 016 </span>         	   <H1>๒.  นปุเรชาตปัจจัย  ฯลฯ    ๔.  นอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 017 </span>           <B>ฯลฯ  เพราะนปุเรชาตปัจจัย   มี ๙ วาระ</B>
+<span class="LineNumber"> 018 </span>           <B>ฯลฯ  เพราะนปัจฉาชาตปัจจัย   มี ๙ วาระ</B>
+<span class="LineNumber"> 019 </span>           <B>ฯลฯ  เพราะนอาเสวนปัจจัย   มี ๙ วาระ</B>

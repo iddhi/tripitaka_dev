@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  100
+
+<span class="LineNumber"> 002 </span>สรีเร  ปาฏิเยกฺโก โกฏฺ€าโส อเจตโน อพฺยากโต สุฺโ
+<span class="LineNumber"> 003 </span>นิสฺสตฺโต ถทฺโธ ป€วีธาตูติ ฯ  
+<span class="LineNumber"> 004 </span>	อนฺตํ  คลวาฏกโต  กรีสมคฺคปริยนฺเต  สรีรพฺภนฺตเร  €ิตํ ฯ 
+<span class="LineNumber"> 005 </span>ตตฺถ  ยถา  โลหิตโทณิกาย  โอภุชิตฺวา  €ปิเต  ฉินฺนสีสธมนิกเฬวเร 
+<span class="LineNumber"> 006 </span>น  โลหิตโทณิกา  ชานาติ  มยิ  ธมนิกเฬวรํ  €ิตนฺติ  นาปิ  
+<span class="LineNumber"> 007 </span>ธมนิกเฬวรํ  ชานาติ  อหํ  โลหิตโทณิกาย  €ิตนฺติ  เอวเมว 
+<span class="LineNumber"> 008 </span>น  สรีรพฺภนฺตรํ  ชานาติ  มยิ  อนฺตํ  €ิตนฺติ  นาปิ อนฺตํ  
+<span class="LineNumber"> 009 </span>ชานาติ  อหํ  สรีรพฺภนฺตเร  €ิตนฺติ ฯ  อฺมฺํ  
+<span class="LineNumber"> 010 </span>อาโภคปจฺจเวกฺขณรหิตา  เอเต  ธมฺมา ฯ  อิติ  อนฺตํ  นาม
+<span class="LineNumber"> 011 </span>อิมสฺมึ  สรีเร  ปาฏิเยกฺโก  โกฏฺ€าโส  อเจตโน  อพฺยากโต 
+<span class="LineNumber"> 012 </span>สุฺโ นิสฺสตฺโต ถทฺโธ ป€วีธาตูติ ฯ  
+<span class="LineNumber"> 013 </span>	อนฺตคุณํ  อนฺตนฺตเร  เอกวีสติ  อนฺตโภเค  พนฺธิตฺวา
+<span class="LineNumber"> 014 </span>€ิตํ ฯ  ตตฺถ  ยถา  ปาทปุฺฉนรชฺชุมณฺฑลกํ  สิพฺเพตฺวา 
+<span class="LineNumber"> 015 </span>€ิเตสุ  รชฺชุเกสุ  น  ปาทปุฺฉนรชฺชุมณฺฑลกํ  ชานาติ  รชฺชุกา
+<span class="LineNumber"> 016 </span>มํ  สิพฺเพตฺวา  €ิตาติ  นาปิ  รชฺชุกา  ชานนฺติ  มยํ  
+<span class="LineNumber"> 017 </span>ปาทปุฺฉนรชฺชุมณฺฑลกํ  สิพฺเพตฺวา  €ิตาติ  เอวเมว  น  อนฺตํ  
+<span class="LineNumber"> 018 </span>ชานาติ  อนฺตคุณํ  มํ  อาพนฺธิตฺวา  €ิตนฺติ  นาปิ  อนฺตคุณํ  
+<span class="LineNumber"> 019 </span>ชานาติ  อหํ  อนฺตํ  อาพนฺธิตฺวา(๑)  €ิตนฺติ ฯ  อฺมฺํ  
+<span class="LineNumber"> 020 </span>อาโภคปจฺจเวกฺขณรหิตา  เอเต  ธมฺมา ฯ  อิติ  อนฺตคุณํ  นาม
+<span class="LineNumber"> 021 </span># ๑. ม. พนฺธิตฺวา ฯ 

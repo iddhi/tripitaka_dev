@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>ในวิปปยุตตปัจจัย มี ๙ วาระ  ในอัตถิปัจจัย มี ๙ วาระ ในนัตถิปัจจัย มี ๖ วาระ
+<span class="LineNumber"> 002 </span>ในวิคตปัจจัย มี ๖ วาระ  ในอวิคตปัจจัย มี ๙ วาระ. 
+<span class="LineNumber"> 003 </span>                                          <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 004 </span>                                             <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 005 </span>           [๓๖๗] ๑.  <B>อาสววิปปยุตตธรรม อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา    ที่สหรคตด้วยอุทธัจจะ   อาศัย
+<span class="LineNumber"> 008 </span>ขันธ์ทั้งหลายที่สหรคตด้วยวิจกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 009 </span>                       ๒.  <B>อาสววิปปยุตตธรรม    อาศัยอาสววิปปยุตตธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ   ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑  ที่เป็นอาสววิปป-
+<span class="LineNumber"> 012 </span>ยุตตธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 013 </span>           อเหตุกปฏิสนธิขณะ   ตลอดถึงอสัญญสัตว์.
+
+<span class="LineNumber"> 014 </span>                                         <H1>๒.   อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 015 </span>           [๓๖๘] ๑.  <B>อาสววิปปยุตตธรรม   อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ  จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลายที่เป็นอาสวสัมปยุตตธรรม.

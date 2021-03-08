@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  770
+	
+<span class="LineNumber"> 002 </span>		นคเร หํสวติยา		สุชาโต นาม พฺราหฺมโณ  
+<span class="LineNumber"> 003 </span>		อสีติโกฏิสนฺนิจโย (๑)	ปหูตธนธฺวา ฯ  
+<span class="LineNumber"> 004 </span>		อชฺฌายโก มนฺตธโร	ติณฺณํ เวทาน ปารคู  
+<span class="LineNumber"> 005 </span>		ลกฺขเณ อิติหาเส จ	สทฺธมฺเม(๒) ปารมึ คโต ฯ  
+<span class="LineNumber"> 006 </span>		ปริพฺพชา (๓) เอกสิขา	โคตมา พุทฺธสาวกา  
+<span class="LineNumber"> 007 </span>		จรกา  ตาปสา เจว	จรนฺติ มหิยา ตทา ฯ  
+<span class="LineNumber"> 008 </span>		เตปิ มํ ปริวาเรนฺติ		พฺราหฺมโณ วิสฺสุโต อิติ  
+<span class="LineNumber"> 009 </span>		พหู ชนา มํ ปูเชนฺติ		นาหํ ปูเชมิ กิฺจนํ ฯ  
+<span class="LineNumber"> 010 </span>		ปูชารหํ น ปสฺสามิ		มานตฺถทฺโธ อหํ ตทา  
+<span class="LineNumber"> 011 </span>		พุทฺโธติ วจนํ นตฺถิ	ตาว นุปฺปชฺชเต ชิโน ฯ  
+<span class="LineNumber"> 012 </span>		อจฺจเยน อโหรตฺตํ		ปทุมุตฺตรนายโก 
+<span class="LineNumber"> 013 </span>		สพฺพํ ตมํ วิโนเทตฺวา	โลเก อุปฺปชฺชิ จกฺขุมา ฯ  
+<span class="LineNumber"> 014 </span>		วิตฺถาริเก  พาหุชฺเ	ปุถุภูเต จ สาสเน  
+<span class="LineNumber"> 015 </span>		อุปาคมิ ตทา พุทฺโธ	นครํ หํสสวฺหยํ ฯ  
+<span class="LineNumber"> 016 </span>		ปิตุ อตฺถาย โส พุทฺโธ	ธมฺมํ เทเสสิ จกฺขุมา  
+<span class="LineNumber"> 017 </span>		เตน กาเลน ปริสา		สมนฺตา โยชนํ ตทา ฯ  
+<span class="LineNumber"> 018 </span>		สมฺมโต มนุชานํ โน (๔)  สุนนฺโท นาม ตาปโส  
+<span class="LineNumber"> 019 </span>		ยาวตา พุทธปริสา		ปุปฺเผหิจฺฉาทยิ  ตทา ฯ  
+<span class="LineNumber"> 020 </span>		จตุสจฺจํ ปกาเสนฺโต	เสฏฺเ€ จ ปุปฺผมณฺฑเป  
+<span class="LineNumber"> 021 </span>		โกฏิสตสหสฺสานํ		ธมฺมาภิสมโย อหุ ฯ  
+<span class="LineNumber"> 022 </span># ๑. สฺยา. อสีติโกฏิสนฺนิจโย ฯ  ๒. สฺยา. สทฺธมฺเม ฯ 
+<span class="LineNumber"> 023 </span># ๓. สฺยา. ปริพฺพชา ฯ  ๔. สฺยา. โย ฯ 

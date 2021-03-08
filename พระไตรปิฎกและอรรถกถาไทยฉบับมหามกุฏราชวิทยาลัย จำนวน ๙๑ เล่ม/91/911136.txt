@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>   
+<span class="LineNumber"> 002 </span>           [๔๖๖]  ในเหตุปัจจัย  มี ๑ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>           <I>นสาสวทุกนสนิทัสสนติกสาสวทุกสนิทัสสนติกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                       <H1>นอาสวสัมปยุตตทุกนสนิทัสสนติกะ</H1>
+<span class="LineNumber"> 005 </span>                          <H1>อาสวสัมปยุตตทุกสนิทัสสนติกะ</H1>	
+<span class="LineNumber"> 006 </span><H2>(๑๖.  อาสวสัมปยุตตทุกะ  ๒๒.  สนิทัสสนติกะ)</H2>	
+<span class="LineNumber"> 007 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 008 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>                           <H2>สนิทัสสนสัปปฏิฆบท</H2>
+<span class="LineNumber"> 011 </span>           [๔๖๗] ๑.  <B>สนิทัสสนสัปปฏิฆธรรม    ที่เป็นอาสววิปปยุตต-  
+<span class="LineNumber"> 012 </span>ธรรม   อาศัยธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม   ที่ไม่ใช่อาสว-
+<span class="LineNumber"> 013 </span>สัมปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๑ วาระ.
+<span class="LineNumber"> 014 </span>                       ๒.  <B>สนิทัสสนสัปปฏิฆธรรม    ที่เป็นอาสววิปปยุตต-
+<span class="LineNumber"> 015 </span>ธรรม   อาศัยธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม   ที่ไม่ใช่อาสว-
+<span class="LineNumber"> 016 </span>วิปปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๑ วาระ  ฯลฯ
+<span class="LineNumber"> 017 </span>           โดยนัยแห่งการนับ มี ๓ วาระ.

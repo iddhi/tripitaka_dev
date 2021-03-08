@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 204
+
+<span class="LineNumber"> 002 </span>		อุปาทาปฺตฺตานุโยควณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  อุปาทาปฺตฺตานุโยโค  โหติ ฯ  ตตฺถ 
+<span class="LineNumber"> 004 </span>ปุจฺฉา  สกวาทิสฺส  ปฏิฺาปฏิกฺเขโป  ปรวาทิสฺส ฯ  โส  หิ  รุกฺขํ
+<span class="LineNumber"> 005 </span>อุปาทาย  ฉายาย  วิย  อินฺทนํ(๑) อุปาทาย  อคฺคิสฺส  วิย  จ จกฺขุ-
+<span class="LineNumber"> 006 </span>รูปาทีนิ (๒) อุปาทาย ปุคฺคลสฺส ปฺตฺติ(๓) ปฺาปนํ อวโพธนํ
+<span class="LineNumber"> 007 </span>อิจฺฉติ  ตสฺมา  รูปํ  อุปาทายาติ  ปุฏฺโ€  ปฏิชานาติ ฯ  ปุน 
+<span class="LineNumber"> 008 </span>ยถา รุกฺขุปาทานา  ฉายา  รุกฺโข  วิย  อินฺธนุปาทาโน  จ 
+<span class="LineNumber"> 009 </span>อคฺคิ  อินฺธนํ  วิย อนิจฺจาทิธมฺโม  เอวํ  เต  รูปาทิอุปาทาโน 
+<span class="LineNumber"> 010 </span>ปุคฺคโล  รูปาทโย  วิย  อนิจฺโจติ อิมมตฺถํ ปุฏฺโ€ อตฺตโน ลทฺธิยํ
+<span class="LineNumber"> 011 </span>€ตฺวา ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 012 </span>	นีลํ  รูปํ  อุปาทาย  นีโลติอาทีสุ  นีลรูเปน  สทฺธึ 
+<span class="LineNumber"> 013 </span>ปุคฺคลสฺส เอกตฺตํ เอกสรีเร นีลาทีนํ พหูนํ วเสน พหุภาวฺจ
+<span class="LineNumber"> 014 </span>อนิจฺฉนฺโต ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 015 </span>	กุสลํ  เวทนนฺติ  เอตฺถาปิ  เวทนาย  สทฺธึ  เอกตฺตํ
+<span class="LineNumber"> 016 </span>เอกสนฺตาเน  พหูนํ  กุสลเวทนานํ  วเสน  พหุภาวฺจ  อนิจฺฉนฺโต
+<span class="LineNumber"> 017 </span>ปฏิกฺขิปติ ฯ  ทุติยนเย มคฺคกุสโลติอาทิวจนสพฺภาวโต  เฉกฏฺ€ํ 
+<span class="LineNumber"> 018 </span>สนฺธาย  ปฏิชานาติ ฯ  สผโลติอาทีนิ  ปุฏฺโ€ ตถารูปสฺส โวหารสฺส
+<span class="LineNumber"> 019 </span>อภาวโต ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 020 </span>	อกุสลปกฺเข อเฉกฏฺ€ํ สนฺธาย ปฏิชานาติ ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. อินฺธนํ ฯ  เอวมุปริปิ ฯ  ๒. ม. รูปาทีนิ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. ปฺตฺตึ ฯ

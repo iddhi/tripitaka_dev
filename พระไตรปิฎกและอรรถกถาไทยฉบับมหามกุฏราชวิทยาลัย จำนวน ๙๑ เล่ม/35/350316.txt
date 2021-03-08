@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                 <h1>อรรถกถาสังเวชนียสูตร</h1>   
+<span class="LineNumber"> 002 </span>            พึงทราบวินิจฉัยในสังเวชนียสูตรที่  ๘  ดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>            บทว่า  <B>ทสฺสนียานิ</B>   แปลว่า   ที่ควรเห็น.   บทว่า  <B>สํเวชนียานิ</B>
+<span class="LineNumber"> 004 </span>ได้แก่ สถานที่ให้เกิดความสังเวช.
+<span class="LineNumber"> 005 </span>                            <I>จบอรรถกถาสังเวชนียสูตรที่ ๘</I>
+<span class="LineNumber"> 006 </span>                            <h1>๙.  ปฐมภยสูตร</h1>
+<span class="LineNumber"> 007 </span>                         <h2>ว่าด้วยภัย  ๔   ประการ</h2>
+<span class="LineNumber"> 008 </span>            [๑๑๙]    ดูก่อนภิกษุทั้งหลาย  ภัย (สิ่งที่น่ากลัว)  ๔  ประการนี้  ภัย ๔
+<span class="LineNumber"> 009 </span>ประการเป็นไฉน  คือ  <B>ชาติภัย  ๑  ชราภัย   ๑  พยาธิภัย   ๑  มรณภัย   ๑</B>
+<span class="LineNumber"> 010 </span>ดูก่อนภิกษุทั้งหลาย  นี้แล  ภัย   ๔  ประการ.
+<span class="LineNumber"> 011 </span>                                      <I>จบปฐมภยสูตรที่ ๙</I>
+<span class="LineNumber"> 012 </span>                    <h1>อรรถกถาปฐมภยสูตร</h1>
+<span class="LineNumber"> 013 </span>            พึงทราบวินิจฉัยในปฐมภยสูตรที่  ๙  ดังต่อไปนี้ :-
+<span class="LineNumber"> 014 </span>            ภัยที่ปรารภชาติเกิดขึ้น ชื่อว่า ชาติภัย.  แม้ในบทที่เหลือก็มีนัยนี้แล.
+<span class="LineNumber"> 015 </span>                                 <I>จบอรรถกถาปฐมภยสูตรที่  ๙</I>

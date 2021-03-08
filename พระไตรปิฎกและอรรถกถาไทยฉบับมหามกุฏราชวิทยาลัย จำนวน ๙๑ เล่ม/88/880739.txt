@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>ปัญหาวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>           [๖๗๖] ๑.  <B>ธรรมที่ไม่ใช่ปรามาสธรรม    เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 005 </span>ที่ไม่ใช่ปรามาสธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ   เหตุทั้งหลายที่ไม่ใช่ปรามาสธรรม     เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 007 </span>และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>                       ๒.  <B>ธรรมที่ไม่ใช่ปรามาสธรรม เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 009 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ   เหตุทั้งหลายที่ไม่ใช่ปรามาสธรรม     เป็นปัจจัยแก่ปรามาสธรรม
+<span class="LineNumber"> 011 </span>ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                       ๓.  <B>ธรรมที่ไม่ใช่ปรามาสธรรม  เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 013 </span>ธรรม  และ  ธรรมที่ไม่ใช่ปรามาสธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ   เหตุทั้งหลายที่ไม่ใช่ปรามาสธรรม   เป็นปัจจัยแก่ปรามาสธรรม
+<span class="LineNumber"> 015 </span>ทั้งหลาย, ปรามาสธรรม  และจิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของ
+<span class="LineNumber"> 016 </span>อธิปติปัจจัย.
+
+<span class="LineNumber"> 017 </span>                                     <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 018 </span>           [๖๗๗] ๑.  <B>ปรามาสธรรม  เป็นปัจจัยแก่ปรามาสธรรม  ด้วย
+<span class="LineNumber"> 019 </span>อำนาจของอารัมมณปัจจัย</B>

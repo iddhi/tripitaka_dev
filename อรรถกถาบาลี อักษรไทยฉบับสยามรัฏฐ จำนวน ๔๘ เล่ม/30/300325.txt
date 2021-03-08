@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  325
+
+<span class="LineNumber"> 002 </span>		โกสิยชาตกํ  
+<span class="LineNumber"> 003 </span>	กาเล  นิกฺขมนา  สาธูติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 004 </span>โกสลราชานํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	โสกลราชา  ปจฺจนฺตํ  วูปสมนตฺถาย  อกาเล  นิกฺขมิ ฯ  
+<span class="LineNumber"> 006 </span>วตฺถุ  เหฏฺ€า วุตฺตนยเมว ฯ 
+<span class="LineNumber"> 007 </span>	อตีตํ  พาราณสิราชา  อกาเล  นิกฺขมิตฺวา  อุยฺยาเน
+<span class="LineNumber"> 008 </span>ขนฺธาวารํ  นิวาเสสิ ฯ  ตสฺมึ  กาเล  เอโก  อุลูกสกุโณ  เวฬุคุมฺพํ 
+<span class="LineNumber"> 009 </span>ปวิสิตฺวา  นิลียิ ฯ  กากเสนา  อาคนฺตฺวา  นิกฺขมนฺตเมว  ตํ  
+<span class="LineNumber"> 010 </span>คณฺหิสฺสามาติ  ปริวาเรสุํ (๒) ฯ  โส  สุริยตฺถคมนํ  อโนโลเกตฺวา ว
+<span class="LineNumber"> 011 </span>อกาลสฺเสว (๓) นิกฺขมิตฺวา  ปลายิตุํ  อารภิ ฯ  อถ  นํ  กากา 
+<span class="LineNumber"> 012 </span>ปริวาเรตฺวา  ตุณฺเฑหิ  โกฏฺเฏตฺวา  ปริปาเตสุํ ฯ  ราชา  โพธิสตฺตํ  
+<span class="LineNumber"> 013 </span>อามนฺเตตฺวา  กึ  นุ โข  ปณฺฑิต  อิเม  กากา  โกสิยํ  
+<span class="LineNumber"> 014 </span>ปริปาเตนฺตีติ  ปุจฺฉิ ฯ  โพธิสตฺโต  อกาเล  มหาราช  อตฺตโน  
+<span class="LineNumber"> 015 </span>วสนฏฺ€านา  นิกฺขมนฺตา  เอวรูปํ  ทุกฺขํ  ปฏิลภนฺติ  เยว  ตสฺมา
+<span class="LineNumber"> 016 </span>อกาเล  อตฺตโน  วสนฏฺ€านา  นิกฺขมิตุํ  น  วฏฺฏตีติ อิมมตฺถํ 
+<span class="LineNumber"> 017 </span>ปกาเสนฺโต อิมํ คาถาทฺวยมาห  
+<span class="LineNumber"> 018 </span>	[๓๐๑]	กาเล นิกฺขมนา สาธุ  		นากาเล สาธุ นิกฺขโม  
+<span class="LineNumber"> 019 </span>			อกาเลน หิ นิกฺขมฺม  		เอกกมฺปิ พหุชฺชโน  
+<span class="LineNumber"> 020 </span>			น กิฺจิ อตฺถํ ชาเตติ (๔) 	ธํกเสนาว โกสิยํ ฯ  
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ. นิเวเสสิ ฯ  ม. นิเวสยิ ฯ  ๒. ม. ปริวาเรสิ ฯ  ๓. สี. กาลสฺเสว ฯ 
+<span class="LineNumber"> 022 </span>ม. อกาเสเยว ฯ  ๔. ม. โชเตหิ ฯ  เอวมุปริปิ ฯ

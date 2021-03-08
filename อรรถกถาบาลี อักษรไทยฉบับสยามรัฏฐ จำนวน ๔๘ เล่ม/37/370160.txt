@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  160
+
+<span class="LineNumber"> 002 </span>สรีรารุฬฺหนฺเต  อาภรณํ  ทมฺมิ  คณฺหาหิ นนฺติ อาห ฯ  
+<span class="LineNumber"> 003 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 004 </span>[๘๒๗]พหุกา ตว ทินฺนา อาภรณา(๑)	อุจฺจาวจา สุภณิตมฺหิ  
+<span class="LineNumber"> 005 </span>	มุตฺตามณิ เวฬุริยา อิทนฺเต(๒)	ปจฺฉิมกํ ทานนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	จนฺทา เทวีปิ ตํ สุตฺวา ตโต อปราหิ(๓) นวหิ คาถาหิ 
+<span class="LineNumber"> 007 </span>วิลปนฺตี(๔) อาห(๕)  
+<span class="LineNumber"> 008 </span>[๘๒๘]เยสํ ปุพฺเพสุ ขนฺเธสุ		ผุลฺลา มาลาคุฬา(๖) วิวตฺตึสุ  
+<span class="LineNumber"> 009 </span>	เตสชฺชปิ สุนิสิโต เนตฺตึโส	วิวตฺติสฺสติ ขนฺเธสุ  
+<span class="LineNumber"> 010 </span>	เยสํ ปุพฺเพสุ ขนฺเธสุ		จิตฺรมาลาคุฬา(๗) วิวตฺตึสุ  
+<span class="LineNumber"> 011 </span>	เตสชฺชปิ สุนิสิโต เนตฺตึโส	วิวตฺติสฺสติ ขนฺเธสุ  
+<span class="LineNumber"> 012 </span>	อจิรา วต เนตฺตึโส			วิวตฺติสฺสติ ราชปุตฺตานํ ขนฺเธสุ  
+<span class="LineNumber"> 013 </span>	อถ มม หทยํ น ผาเลติ		ตาว ทฬฺหพนฺธนฺจ(๘) เม อาสิ  
+<span class="LineNumber"> 014 </span>	กาสิกสุจิวตฺถธรา			กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตา  
+<span class="LineNumber"> 015 </span>	นิยฺยาถ จนฺทสุริยา			ยฺตฺถาย เอกราชสฺส  
+<span class="LineNumber"> 016 </span>	กาสิกสุจิวตฺถธรา			กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตา  
+<span class="LineNumber"> 017 </span>	นิยฺยาถ จนฺทสุริยา			มาตุ กตฺวา หทยโสกํ  
+<span class="LineNumber"> 018 </span>	กาสิกสุจิวตฺถธรา			กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตา  
+<span class="LineNumber"> 019 </span>	นิยฺยาถ จนฺทสุริยา			ชนสฺส กตฺวา หทยโสกํ  
+<span class="LineNumber"> 020 </span># ๑. ม. ทินฺนาภรณา ฯ ๒. ส. เอตนฺเต ฯ ม. เอตํ เต ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ปราหิ ฯ ๔. ม. วิลปิ ฯ  ๕. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. มาลาคุณา ฯ  ๗. ม. จิตฺตา มาลาคุณา ฯ 
+<span class="LineNumber"> 023 </span># ๘. ส. ม. ทฬฺหพนฺธฺจ ฯ 

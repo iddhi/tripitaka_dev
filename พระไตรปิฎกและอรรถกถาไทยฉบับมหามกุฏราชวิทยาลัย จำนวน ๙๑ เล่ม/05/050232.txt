@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>            บทว่า  <B>เข้าไป</B>  คือ  ไปในสกุลนั้น.
+<span class="LineNumber"> 002 </span>            ที่ชื่อว่า   <B>อาสนะ</B>    ได้แก่    เอกเทสที่เขาเรียกกันว่าที่สำหรับนั่งพับ
+<span class="LineNumber"> 003 </span> แพนงเชิง.            
+<span class="LineNumber"> 004 </span>            บทว่า  <B>นั่ง</B>  คือ  นั่งบนอาสนะนั้น.
+<span class="LineNumber"> 005 </span>            คำว่า  <B>ไม่บอกลาเจ้าของบ้าน</B>  <B>หลีกไป</B>  ความว่า  ไม่อำลาคนใน
+<span class="LineNumber"> 006 </span>สกุลนั้นซึ่งเป็นเจ้าของถวาย.
+<span class="LineNumber"> 007 </span>            เดินพ้นชายคา   ต้องอาบัติปาจิตตีย์   ในที่แจ้ง   เดินล่วงอุปจาร   ต้อง
+<span class="LineNumber"> 008 </span>อาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 009 </span>                                              <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 010 </span>                                             <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 011 </span>            [๑๙๙]   ยังมิได้บอกลา   ภิกษุณีสำคัญว่า    ยังมิได้บอกลา    หลีกไป
+<span class="LineNumber"> 012 </span>  ต้องอาบัติปาจิตตีย์.                                                                  
+<span class="LineNumber"> 013 </span>            ยังมิได้บอกลา   ภิกษุณีสงสัย   หลีกไป   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 014 </span>            ยังมิได้บอกลา   ภิกษุณีสำคัญว่า   บอกลาแล้ว    หลีกไป    ต้องอาบัติ
+<span class="LineNumber"> 015 </span>ปาจิตตีย์.
+
+<span class="LineNumber"> 016 </span>                                              <H2>ติกะทุกกฏ</H2>
+<span class="LineNumber"> 017 </span>            ไม่ใช่สถานที่สำหรับนั่งพับแพนงเชิง   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 018 </span>            บอกลาแล้ว   ภิกษุณีสำคัญว่า   ยังมิได้บอกลา   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 019 </span>            บอกลาแล้ว   ภิกษุณีสงสัย   ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 020 </span>                                           <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 021 </span>            บอกลาแล้ว   ภิกษุณีสำคัญว่าบอกลาแล้ว   ไม่ต้องอาบัติ.

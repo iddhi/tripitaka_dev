@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>การนับจำนวนวาระในอนุโลม</H1> 
+<span class="LineNumber"> 002 </span>           [๑๙๕]  ในเหตุปัจจัย   มี ๓ วาระ    ในอารัมมณปัจจัย    มี ๑ วาระ
+<span class="LineNumber"> 003 </span>ในอธิปติปัจจัย   มี ๓ วาระ ฯลฯ  ในวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 004 </span>                                           <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                              <H1>ปัจจนียนัย</H1> 
+<span class="LineNumber"> 006 </span>                                          <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 007 </span>           [๑๙๖] ๑.  <B>อนิทัสสนธรรม   อาศัยอนิทัสสนธรรม   เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป  ที่เป็นอนิทัสสนธรรม อาศัยขันธ์
+<span class="LineNumber"> 010 </span>๑ ที่เป็นอนิทัสสนธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 011 </span>           ในอเหตุกปฏิสนธิขณะ ฯลฯ ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 012 </span>           จักขุวิญญาณ  อาศัยจักขายตนะ ฯลฯ กายวิญญาณ   อาศัยกายายตนะ.
+<span class="LineNumber"> 013 </span>           ขันธ์ทั้งหลายที่เป็นอนิทัสสนธรรม  ซึ่งเป็นอเหตุกะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 014 </span>           โมหะ  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ   อาศัยขันธ์ทั้ง
+<span class="LineNumber"> 015 </span>หลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ   และหทยวัตถุ.
+<span class="LineNumber"> 016 </span>           พึงกระทำ ๒ วาระ   แม้นอกนี้ ฯลฯ.
+
+<span class="LineNumber"> 017 </span>                                 <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 018 </span>           [๑๙๗]   ในนเหตุปัจจัย  มี ๓ วาระ   ในนอารัมมณปัจจัยมี ๓ วาระ
+<span class="LineNumber"> 019 </span>ในโนวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 020 </span>                                            <I>ปัจจนียนัย  จบ</I>

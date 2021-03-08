@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                       ๓.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่จิตตสมุฏฐานธรรม  ที่
+<span class="LineNumber"> 002 </span>ไม่ใช่กุศล  อาศัยธรรมที่ไม่ใช่จิตตสมุฏฐานธรรม  ที่เป็นอัพยากตะ 
+<span class="LineNumber"> 003 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๓ วาระ.  
+
+<span class="LineNumber"> 004 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 005 </span>           [๔๐๒]  ในเหตุปัจจัย  มี  ๑๓ วาระ ฯลฯ  ในอวิคตปัจจัย  มี ๑๓ วาระ.
+<span class="LineNumber"> 006 </span>     <I>กุสลติกจิตตสมุฏฐานทุกนกุสลติกนจิตตสมุฏฐานทุกะ  จบ</I>
+
+<span class="LineNumber"> 007 </span>                <H1>กุสลติกจิตตสหภูทุกนกุสลติกนจิตตสหภูทุกะ</H1>	
+<span class="LineNumber"> 008 </span>                  <H2>(๑. กุสลติกะ  ๖๑.  จิตตสหภูทุกะ)</H2>
+<span class="LineNumber"> 009 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 010 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>                                         <H2>จิตตสหภูบท</H2>
+<span class="LineNumber"> 013 </span>           [๔๐๓] ๑.  <B>ธรรมที่ไม่ใช่จิตตสหภูธรรม  ที่ไม่ใช่กุศล  อาศัย
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นจิตตสหภูธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>มี  ๕  วาระ.
+<span class="LineNumber"> 016 </span>                       ๖.  ธรรมที่ไม่ใช่จิตตสหภูธรรม  ที่ไม่ใช่อกุศล   อาศัย
+<span class="LineNumber"> 017 </span>ธรรมที่เป็นจิตตสหภูธรรม  ที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 018 </span>มี  ๕  วาระ.	

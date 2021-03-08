@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>เป็นไฉน     คือ  ความเป็นผู้มีวาจาอ่อนหวาน  ๑     การต้อนรับแขก  ๑
+<span class="LineNumber"> 002 </span>ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่างนี้แล. 
+<span class="LineNumber"> 003 </span>                                                     จบสูตรที่  ๔
+
+<span class="LineNumber"> 004 </span>                                   <H3>สูตรที่  ๕</H3>
+
+<span class="LineNumber"> 005 </span>         [๔๑๒]  ๑๖๖.  ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่างนี้   ๒ อย่าง
+<span class="LineNumber"> 006 </span>เป็นไฉน   คือ  ความไม่เบียดเบียน   ๑    ความเป็นคนสะอาด ๑    ดูก่อน
+<span class="LineNumber"> 007 </span>ภิกษุทั้งหลาย   ธรรม ๒ อย่างนี้แล.
+<span class="LineNumber"> 008 </span>                                                   จบสูตรที่  ๕
+
+<span class="LineNumber"> 009 </span>                                  <H3>สูตรที่ ๖</H3>
+
+<span class="LineNumber"> 010 </span>         [๔๑๓]   ๑๖๗.  ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่างนี้   ๒ อย่าง
+<span class="LineNumber"> 011 </span>เป็นไฉน  คือ  ความเป็นผู้ไม่คุ้มครองทวารในอินทรีย์ทั้งหลาย ๑   ความ
+<span class="LineNumber"> 012 </span>เป็นผู้ไม่รู้จักประมาณในการบริโภค  ๑   ดูก่อนภิกษุทั้งหลาย    ธรรม ๒
+<span class="LineNumber"> 013 </span>อย่างนี้แล.
+<span class="LineNumber"> 014 </span>                                                    จบสูตรที่  ๖
+
+<span class="LineNumber"> 015 </span>                                  <H3>สูตรที่ ๗</H3>
+
+<span class="LineNumber"> 016 </span>         [๔๑๔]   ๑๖๘. ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒  อย่างนี้  ๒  อย่าง
+<span class="LineNumber"> 017 </span>เป็นไฉน คือ ความเป็นผู้คุ้มครองทวารในอินทรีย์ทั้งหลาย  ๑  ความเป็น
+<span class="LineNumber"> 018 </span>ผู้รู้จักประมาณในการบริโภค  ๑  ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒  อย่าง
+<span class="LineNumber"> 019 </span>นี้แล.
+<span class="LineNumber"> 020 </span>                                                   จบสูตรที่  ๗

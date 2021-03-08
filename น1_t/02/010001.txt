@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                อธิบายคิหิปฏิบัติ 
+<span class="LineNumber"> 002 </span>                                ที่มาแห่งทิศทั้ง ๖ 
+<span class="LineNumber"> 003 </span>         ก่อนดำเนินเรื่อง  ขอแถลงลักษณะที่มาของทิศทั้ง ๖ ไว้เป็น
+<span class="LineNumber"> 004 </span>สังเขป   ดังนี้ :-
+<span class="LineNumber"> 005 </span>         ในสิงคาโลวาทสูตรมีว่า    ครั้งหนึ่ง  สมเด็จพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 006 </span>เสด็จไปบิณฑบาตในกรุงราชคฤห์  ในระหว่างทางพบสิงคาลมาณพกำลัง
+<span class="LineNumber"> 007 </span>ไหว้ทิศทั้ง  ๖  อยู่  พระองค์จึงตรัสถาม  มาณพทูลว่า  ก่อนบิดาจะตาย
+<span class="LineNumber"> 008 </span>ได้สั่งไว้ให้ไหว้ทิศทั้งหลาย  ดังนี้  พระองค์จึงตรัสต่อไปว่า  ในอริยวินัย
+<span class="LineNumber"> 009 </span>เขาไม่ไหว้ทิศทั้ง  ๖  อย่างนี้  พระอริยสาวกย่อมปฏิบัติทิศทั้ง ๖  อย่างนี้  :-
+<span class="LineNumber"> 010 </span>                                        ทิศ<SUP>๑</SUP> ๖
+<span class="LineNumber"> 011 </span>                           ๑. ทิศเบื้องหน้า                  มารดาบิดา.
+<span class="LineNumber"> 012 </span>                           ๒. ทิศเบื้องขวา                   อาจาารย์.
+<span class="LineNumber"> 013 </span>                           ๓. ทิศเบื้องหลัง                  บุตร  ภรรย.
+<span class="LineNumber"> 014 </span>                           ๔. ทิศเบื้องซ้าย                  มิตร.
+<span class="LineNumber"> 015 </span>                           ๕. ทิศเบื้องต่ำ                    บ่าว.
+<span class="LineNumber"> 016 </span>                           ๖. ทิศเบื้องบน                   สมณพราหมณ์.
+<span class='footnote'>๑. ที.  ปาฏิ. ๑๑/๒๐๒.</span>

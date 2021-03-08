@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>๔.  เนื้อสุนัข.
+<span class="LineNumber"> 002 </span>๕.  เนื้องู.
+<span class="LineNumber"> 003 </span>๖.  เนื้อสีหะ.  
+<span class="LineNumber"> 004 </span>๗.  เนื้อเสือโคร่ง.
+<span class="LineNumber"> 005 </span>๘.  เนื้อเสือเหลือง.
+<span class="LineNumber"> 006 </span>๙.  เนื้อหมี.
+<span class="LineNumber"> 007 </span>๑๐.  เนื้อเสือดาว.
+<span class="LineNumber"> 008 </span>	เนื้อมนุษย์  เป็นวัตถุแห่งถุลลัจจัย   เนื้อนอกนั้น  เป็นวัตถุ
+<span class="LineNumber"> 009 </span>แห่งทุกกฏ     เนื้อซึ่งนกจากที่ระบุชื่อไว้นี้   แต่หากเป็นของดิบ  ก็
+<span class="LineNumber"> 010 </span>ห้าม  แม้เนื้อที่เป็นกัปปิยะโดยกำเนิดและทำให้สุกแล้ว  แต่หากเป็น
+<span class="LineNumber"> 011 </span>อุทิสสมังสะ  ก็ห้าม  จัดเป็นวัตถุแห่งทุกกฏ  เนื้ออันบริสุทธิ์โดย
+<span class="LineNumber"> 012 </span>ส่วน  ๓  คือภิกษุไม่ได้เห็น  ไม่ได้ยิน  ไม่ได้สงสัย  ว่าเขาฆ่าเฉพาะ
+<span class="LineNumber"> 013 </span>ฉันไม่มีโทษ  แม้ปลาก็เหมือนกัน.
+<span class="LineNumber"> 014 </span>	<B>ของขบเคี้ยวชนิดที่มีเม็ดและง่า  อาจเพาะและปลูกเป็น
+<span class="LineNumber"> 015 </span>ทรงอนุญาตให้อนุปสัมบันทำให้เป็นกัปปิยะ  ด้วยวิธีเหล่านี้</B>
+<span class="LineNumber"> 016 </span>๑.  ด้วยเอาไฟจี้.
+<span class="LineNumber"> 017 </span>๒.  ด้วยเอามีดกรีด.
+<span class="LineNumber"> 018 </span>๓.  ด้วยเอาเล็บจิก.
+<span class="LineNumber"> 019 </span>	ส่วนพืชที่ยังอ่อนหรือเป็นของปล้อนเม็ดออกได้  ไม่ต้องทำ
+
+

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   บุคคลใดเคยเจริญอนัญญาตัญญัสสามีตินทรีย์,   บุคคล 
+<span class="LineNumber"> 002 </span>นั้นก็เคยรู้แจ้งจักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         บุคคล ๖ จำพวก     เคยเจริญอนัญญาตัญญัสสามีตินทรีย์    แต่
+<span class="LineNumber"> 004 </span>ไม่ใช่เคยรู้แจ้งจักขุนทรีย์,     อรหัตผลบุคคลเคยเจริญอนัญญาตัญญัส-
+<span class="LineNumber"> 005 </span>สามีตินทรีย์   และก็เคยรู้แจ้งจักขุนทรีย์.
+<span class="LineNumber"> 006 </span>            <I>จบ   จักขุนทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี</I>
+
+<span class="LineNumber"> 007 </span><B>จักขุนทริยมูละ   อัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 008 </span>         [๑๓๕๗]    บุคคลใดเคยรู้แจ้งจักขุนทรีย์,      บุคคลนั้นก็เคย
+<span class="LineNumber"> 009 </span>เจริญอัญญินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า   บุคคลใดเคยเจริญอัญญินทรีย์,   บุคคลนั้นก็เคยรู้แจ้ง
+<span class="LineNumber"> 012 </span>จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่. 
+<span class="LineNumber"> 014 </span>                        <I>จบ   จักขุนทริยมูละ  อัญญินทริยมูลี</I>
+
+<span class="LineNumber"> 015 </span><B>จักขุนทริยมูละ  อัญญาตาวินทริยมูลี:-</B>
+<span class="LineNumber"> 016 </span>         [๑๓๕๘]    บุคคลใดเคยรู้แจ้งจักขุนทรีย์,    บุคคลนั้นก็เคยกระทำ
+<span class="LineNumber"> 017 </span>ให้แจ้งอัญญาตาวินทรีย์   ใช่ไหม   ?

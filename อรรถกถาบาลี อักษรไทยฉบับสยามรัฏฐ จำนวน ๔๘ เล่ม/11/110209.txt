@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑  หน้า  ๒๐๙
+
+<span class="LineNumber"> 002 </span>				สฺานานตฺตสุตฺตวณฺณนา          
+<span class="LineNumber"> 003 </span>	สตฺตเม  รูปธาตูติ  อาปาเถ  €ิตํ  (๑)  อตฺตโน  วา  ปรสฺส  
+<span class="LineNumber"> 004 </span>วา   สาฏกเวฏฺ€นาทิวตฺถุกํ  รูปารมฺมณํ ฯ  รูปสฺาติ  จกฺขุ-
+<span class="LineNumber"> 005 </span>วิฺาณสมฺปยุตฺตา รูปสฺา ฯ  (๒)  รูปสงฺกปฺโปติ  สมฺปฏิจฺฉนฺนาทีหิ 
+<span class="LineNumber"> 006 </span>ตีหิ  จิตฺเตหิ  สมฺปยุตฺโต สงฺกปฺโป ฯ  รูปจฺฉนฺโทติ รูเป ฉนฺทิกตฏฺเ€น 
+<span class="LineNumber"> 007 </span>ฉนฺโท ฯ รูปปริฬาโหติ รูเป อนุทหนฏฺเ€น ปริฬาโห ฯ  รูป-
+<span class="LineNumber"> 008 </span>ปริเยสนาติ  ปริฬาเห  อุปฺปนฺเน  สนฺทิฏฺ€สมฺภตฺเต  คเหตฺวา 
+<span class="LineNumber"> 009 </span>ตสฺส รูปสฺส  ปฏิลาภตฺถาย  ปริเยสนา ฯ  เอตฺถ  จ  สฺา-
+<span class="LineNumber"> 010 </span>สงฺกปฺปฉนฺทา  เอกชวนวาเรปิ  นานาชวนวาเรปิ  ลพฺภนฺติ  
+<span class="LineNumber"> 011 </span>ปริฬาหปริเยสนา  ปน  นานาชวนวาเรเยว   ลพฺภนฺตีติ ฯ  เอวํ 
+<span class="LineNumber"> 012 </span>โข  ภิกฺขเว  ธาตุนานตฺตนฺติ  เอตฺถ  (๓) รูปาทินานาสภาวํ ธาตุํ 
+<span class="LineNumber"> 013 </span>ปฏิจฺจ รูปสฺาทินานาสภาวสฺา  อุปฺปชฺชตีติ  อิมินา  นเยน 
+<span class="LineNumber"> 014 </span>อตฺโถ  เวทิตพฺโพ ฯ 
+<span class="LineNumber"> 015 </span>				สตฺตมํ ฯ                     
+
+<span class="LineNumber"> 016 </span>			โนปริเยสนานานตฺตสุตฺตวณฺณนา          
+<span class="LineNumber"> 017 </span>	อฏฺ€เม  โน  ธมฺมปริเยสนํ  ปฏิจฺจ  อุปฺปชฺชติ  ธมฺม-
+<span class="LineNumber"> 018 </span>ปริฬาโหติ  เอวํ อาคตํ  ปฏิเสธมตฺตเมว นานํ ฯ 
+<span class="LineNumber"> 019 </span>				อฏฺ€มํ ฯ            
+<span class="LineNumber"> 020 </span># ๑. ม. ปติตํ ฯ  ๒. ม. ยุ. สฺา ฯ  ๓. ม. ยุ. เอตฺถ จ เอวํ ฯ

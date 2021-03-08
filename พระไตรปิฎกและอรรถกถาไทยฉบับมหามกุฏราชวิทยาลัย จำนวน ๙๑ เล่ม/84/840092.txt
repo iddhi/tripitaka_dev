@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>ชิวหินทริย มูล</H1>
+<span class="LineNumber"> 002 </span><B>ชิวหินทริยมูละ  จักขุนทริยมูลี :-</B>
+<span class="LineNumber"> 003 </span>         [๔๐๕]   ธรรมที่ชื่อว่าชิวหา,   ชื่อว่า   ชิวหินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าอินทรีย์,   ชื่อว่า   จักขุนทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         จักขุนทรีย์   ชื่อว่าอินทรีย์ด้วย  ชื่อว่าจักขุนทรีย์ด้วย,   อินทรีย์
+<span class="LineNumber"> 006 </span>ที่เหลือ  ๒๑   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่าจักขุนทรีย์.
+<span class="LineNumber"> 007 </span>                                          ฯ ล ฯ
+<span class="LineNumber"> 008 </span><B>ชิวหินทริยมูละ  อัญญาตาวินทริยมูลี :-</B>
+<span class="LineNumber"> 009 </span>         ธรรมที่ชื่อว่าชิวหา    ชื่อว่า   ชิวหินทรีย์    ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าอินทรีย์,  ชื่อว่า  อัญญาตาวินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         อัญญาตาวินทรีย์   ชื่อว่าอินทรีย์ด้วย  ชื่อว่าอัญญาตาวินทรีย์ด้วย,
+<span class="LineNumber"> 013 </span>อินทรีย์ที่เหลือ   ๒๑   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่าอัญญาตาวินทรีย์. 
+<span class="LineNumber"> 014 </span>                <I>จบ   ชิวหินทริยมูละ      อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 015 </span>                                   <I>ชิวหินทริยมูล   จบ</I>

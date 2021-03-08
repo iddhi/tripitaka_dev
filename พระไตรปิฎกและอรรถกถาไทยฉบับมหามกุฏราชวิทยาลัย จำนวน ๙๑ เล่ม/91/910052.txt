@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                   ๗. <B>ธรรมที่ไม่ใช่อาสวธรรม   อาศัยธรรมที่ไม่ใช่อาสว- 
+<span class="LineNumber"> 002 </span>ธรรม  และไม่ใช่ธรรมที่ไม่ใช่อาสวธรรม  เกิดขึ้น เพราะเหตุปัจจัย.</B> 
+<span class="LineNumber"> 003 </span>                   ๘. <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่อาสวธรรม  อาศัยธรรม
+<span class="LineNumber"> 004 </span>ที่ไม่ใช่อาสวธรรม     และไม่ใช่ธรรมที่ไม่ใช่อาสวธรรม     เกิดขึ้น  
+<span class="LineNumber"> 005 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>                   ๙. <B>ธรรมที่ไม่ใช่อาสวธรรม   และไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 007 </span>อาสวธรรม   อาศัยธรรมที่ไม่ใช่อาสวธรรม  และไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 008 </span>อาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+
+<span class="LineNumber"> 009 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๘๑]  ในเหตุปัจจัย  มี  ๙ วาระ  ในอารัมมณปัจจัย  มี ๙  วาระ  ใน
+<span class="LineNumber"> 011 </span>อวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 012 </span>           พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 013 </span>                                        <I>นอาสวทุกะ  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                        <H1>๑๕.  นสาสวทุกะ</H1>
+<span class="LineNumber"> 015 </span>                                             <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 016 </span>                                           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 017 </span>                                         <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 018 </span>         [๘๒] ๑.  <B>ธรรมที่ไม่ใช่สาสวธรรม อาศัยธรรมที่ไม่ใช่สาสว-
+<span class="LineNumber"> 019 </span>ธรรม   เกิดขึ้น  เพราะเหตุปัจจัย.</B>                                                
+<span class="LineNumber"> 020 </span>               	  ๒.   <B>ธรรมที่ไม่ใช่อนาสวธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 021 </span>สาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>

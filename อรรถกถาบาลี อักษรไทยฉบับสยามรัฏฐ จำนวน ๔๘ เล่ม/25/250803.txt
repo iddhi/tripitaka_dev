@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  วิมลตฺเถรคาถาวณฺณนา  หน้า 803
+
+<span class="LineNumber"> 002 </span>	โส  เตน  ปุฺกมฺเมน  เทวมนุสฺเสสุ  สํสรนฺโต  อิมสฺมึ  
+<span class="LineNumber"> 003 </span>พุทฺธุปฺปาเท พาราณสิยํ พฺราหฺมณกุเล นิพฺพตฺติตฺวา วิมโลติ 
+<span class="LineNumber"> 004 </span>ลทฺธนาโม วยปฺปตฺโต โสมมิตฺตตฺเถรํ นิสฺสาย  สาสเน  
+<span class="LineNumber"> 005 </span>ปพฺพชิตฺวา  เตเนว  อุสฺสาหิโต  วิปสฺสนํ  ปฏฺ€เปตฺวา น จิรสฺเสว 
+<span class="LineNumber"> 006 </span>อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ อปทาเน  (๑)  
+<span class="LineNumber"> 007 </span>		นีหรนฺเต สรีรมฺหิ		วิชฺชมานาสุ (๒) เภริสุ  
+<span class="LineNumber"> 008 </span>		ปสนฺนจิตฺโต สุมโน 	สตฺติปุปฺผํ อปูชยึ ฯ (๓)  
+<span class="LineNumber"> 009 </span>		สตสหสฺเส อิโต กปฺเป	ยํ ปุปฺผมภิปูชยึ  
+<span class="LineNumber"> 010 </span>		ทุคฺคตึ นาภิชานามิ	เทหปูชายิทํ  ผลํ ฯ  
+<span class="LineNumber"> 011 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	อรหตฺตํ ปน ปตฺวา อตฺตโน สหายสฺส ภิกฺขุสฺส โอวาทํ เทนฺโต  
+<span class="LineNumber"> 013 </span>		ปาปมิตฺเต วิวชฺเชตฺวา	ภเชยฺยุตฺตมปุคฺคลํ   
+<span class="LineNumber"> 014 </span>		โอวาเท จสฺส ติฏฺเ€ยฺย	ปตฺเถนฺโต อจลํ สุขํ ฯ  
+<span class="LineNumber"> 015 </span>		ปริตฺตํ ทารุมารุยฺห		ยถา สีเท มหณฺณเว  
+<span class="LineNumber"> 016 </span>		เอวํ กุสีตมาคมฺม		สาธุชีวีปิ สีทติ  
+<span class="LineNumber"> 017 </span>		ตสฺมา ตํ ปริวชฺเชยฺย	กุสีตํ หีนวีริยํ ฯ  
+<span class="LineNumber"> 018 </span>		ปวิวิตฺเตหิ อริเยหิ		ปหิตตฺเตหิ ฌายิหิ   
+<span class="LineNumber"> 019 </span>		นิจฺจํ อารทฺธวีริเยหิ	ปณฺฑิเตหิ สหาวเสติ(๔)  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๓/๔๙/๗๔ ฯ  ๒. สฺยา. วิชฺชมานาสุ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. สตฺติปุปฺผํ อปูชยึ ฯ  โปราณ. สุมนปุปฺเผหิ ปูชยึ ฯ
+<span class="LineNumber"> 022 </span># ๔. ขุ. เถร. ๒๖/๓๒๒/๓๐๙ ฯ 

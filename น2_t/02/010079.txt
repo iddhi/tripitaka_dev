@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                           กัณฑ์ที่ ๒๐
+<span class="LineNumber"> 002 </span>                                     ภัณฑะต่างเจ้าของ  
+
+<span class="LineNumber"> 003 </span>                                    <B>ของสงฆ์</B>
+<span class="LineNumber"> 004 </span>	ภัณฑะที่เขาถวายเป็นสาธารณะแก่ภิกษุ  ไม่เฉพาะตัวหรือภัณฑะ
+<span class="LineNumber"> 005 </span>อันภิกษุรับก็ดี  ปกครองหวงห้ามไว้ก็ดี  ด้วยความเป็นของสาธารณะ
+<span class="LineNumber"> 006 </span>แก่หมู่ภิกษุ  จัดเป็นของสงฆ์.
+<span class="LineNumber"> 007 </span>                  <B>ของสงฆ์นั้นมี  ๒  ประเภท  คือ</B>
+<span class="LineNumber"> 008 </span>๑.  ลหุภัณฑ์  ของเบา.
+<span class="LineNumber"> 009 </span>๒.  ครุภัณฑ์  ของหนัก.
+<span class="LineNumber"> 010 </span>                    <B>ลหุภัณฑ์นั้นจำแนกออกดังนี้</B>
+<span class="LineNumber"> 011 </span>๑.  บิณฑบาต.
+<span class="LineNumber"> 012 </span>๒.  เภสัช.
+<span class="LineNumber"> 013 </span>๓.  บริขารที่จะใช้สำหรับตัว  คือ  บาตร  จีวร  ประคตเอว  เข็ม
+<span class="LineNumber"> 014 </span>      มีพับ  มีดโกน.
+<span class="LineNumber"> 015 </span> <B>ภิกษุผู้อันสงฆ์สมมติให้เป็นผู้มีหน้าที่แจกลหุภัณฑ์เหล่านั้น  มีดังนี้</B>
+<span class="LineNumber"> 016 </span>๑.  ภิกษุผู้มีหน้าที่แจกภัตตาหาร    ตลอดถึงรับนิมนต์ของทายกแล้ว
+<span class="LineNumber"> 017 </span>     จ่ายให้ไป  เรียกภัตตุทเทสกะ.
+<span class="LineNumber"> 018 </span>๒.  ภิกษุผู้มีหน้าที่แจกจีวร  เรียกจีวรภาชกะ.

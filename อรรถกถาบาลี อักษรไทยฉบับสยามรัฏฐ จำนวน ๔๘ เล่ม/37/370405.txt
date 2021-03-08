@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 405
+
+<span class="LineNumber"> 002 </span>หตฺทิกฺขนฺธวรคโต อิมํ(๑) คาถมาห  
+<span class="LineNumber"> 003 </span>	[๑๐๕๔]ททามิ น วิกมฺปามิ	ยํ มํ ยาจนฺติ พฺราหฺมณา  
+<span class="LineNumber"> 004 </span>		ปภินฺนํ กุฺชรํ ทนฺตึ	อุปคุยฺหํ คชุตฺตมนฺติ ฯ  
+<span class="LineNumber"> 005 </span>	เตน วุตฺตํ ฯ ปฏิชานิตฺวา จ ปน  
+<span class="LineNumber"> 006 </span>	[๑๐๕๕]หตฺถิกฺขนฺธโต โอรุยฺห	ราชา จาคาธิมานโส  
+<span class="LineNumber"> 007 </span>		พฺราหฺมณานํ อทา ทานํ	สิวีนํ รฏฺ€วฑฺฒโนติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  อุปคุยฺหนฺติ  ราชวาหนํ ฯ จาคาธิมานโสติ 
+<span class="LineNumber"> 009 </span>จาเคน อธิกมานโส  อทาติ  พฺราหฺมณานํ  อทาสิ ฯ  โส 
+<span class="LineNumber"> 010 </span>วารณสฺส  อลงฺกตฏฺ€าเน  โอโลกนตฺถํ  ติกฺขตฺตุํ  ปทกฺขิณํ  
+<span class="LineNumber"> 011 </span>กตฺวา  อนลงฺกตฏฺ€าเน  อทิสฺวา  กุสฺมมิสฺสกสุคนฺโธทกภริตํ 
+<span class="LineNumber"> 012 </span>สุวณฺณภิงฺคารํ  คเหตฺวา  อิโต  เอถ  มหาพฺราหฺมณาติ (๒) วตฺวา  
+<span class="LineNumber"> 013 </span>อลงฺกตรชตทามสทิสํ  หตฺถิโสณฺฑํ [๓] เตสํ  หตฺเถสุ (๔) €เปตฺวา
+<span class="LineNumber"> 014 </span>อุทกํ  ปาเตตฺวา  อลงฺกตวารณํ [๕] อทาสิ ฯ 
+<span class="LineNumber"> 015 </span>	ตสฺส  จตูสุ  ปาเทสุ  อลงฺการา(๖)  จตฺตาริ  สตสหสฺสานิ 
+<span class="LineNumber"> 016 </span>อคฺฆนฺติ ฯ  อุโภสุ  ปสฺเสสุ  อลงฺการา(๖)  เทฺว  สตสหสฺสานิ 
+<span class="LineNumber"> 017 </span>อคฺฆนฺติ ฯ  เหฏฺ€า  อุทเร  รตฺตกมฺพลํ  สตสหสฺสํ  อคฺฆติ ฯ
+<span class="LineNumber"> 018 </span>ปิฏฺ€ิยํ  มุตฺตาชาลํ  มณิชาลํ  กาฺจนชาลนฺติ  ตีณิ  ชาลานิ 
+<span class="LineNumber"> 019 </span>ตีณิ  สตสหสฺสานิ  อคฺฆนฺติ (๗)ฯ  อุโภสุ  กนฺเณสุ  อลงฺการา
+<span class="LineNumber"> 020 </span># ๑. ม. ตติยํ ฯ  ๒. ม. เอถาติ ฯ ๓. ม. เอตฺถนฺตเร คเหติวาติ 
+<span class="LineNumber"> 021 </span># ทิสฺสติ ฯ  ๔. ม. หตฺเถ ฯ  ๕. ม. เอตฺถนฺตเร พฺราหฺมณานนฺติ
+<span class="LineNumber"> 022 </span># ทิสฺสติ ฯ  ๖. ม. อลงฺกาโร ฯ  ๗. ม. อคฺฆติ ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม.กมฺพลํ ฯ

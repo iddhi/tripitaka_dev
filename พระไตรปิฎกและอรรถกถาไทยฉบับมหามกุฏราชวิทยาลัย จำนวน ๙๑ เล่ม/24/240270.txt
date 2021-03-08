@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                     <h1>ชราวรรคที่  ๖</h1>
+
+<span class="LineNumber"> 002 </span>                                      <H1>๑.  ชราสูตร</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๕๘]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 004 </span>                             <B>อะไรหนอ ยังประโยชน์ให้สำเร็จจน
+<span class="LineNumber"> 005 </span>                   กระทั่งชรา  อะไรหนอ  ตั้งมั่นแล้วยัง
+<span class="LineNumber"> 006 </span>                   ประโยชน์ให้สำเร็จ  อะไรหนอ เป็นรัตนะ
+<span class="LineNumber"> 007 </span>                   ของคนทั้งหลาย  อะไรหนอ  โจรลักไปไม่
+<span class="LineNumber"> 008 </span>                   ได้.</B>
+<span class="LineNumber"> 009 </span>         [๑๕๙]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 010 </span>                             <B>ศีลยังประโยชน์ให้สำเร็จจนกระทั่ง
+<span class="LineNumber"> 011 </span>                   ชรา     ศรัทธาตั้งมั่นแล้วยังประโยชน์ให้
+<span class="LineNumber"> 012 </span>                   สำเร็จ    ปัญญาเป็นรัตนะของคนทั้งหลาย
+<span class="LineNumber"> 013 </span>                   บุญอันโจรลักไปไม่ได้.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  26  สีลวตฺเถรคาถาวณฺณนา  หน้า  351  
+
+<span class="LineNumber"> 002 </span>อถ  นํ  อชาตสตฺตุ  มาเรถาติ  ปุริเส  อาณาเปสิ ฯ  เต  
+<span class="LineNumber"> 003 </span>เถรสฺส  สนฺติกํ  คนฺตฺวา  €ิตา  เถเรน  กถิตํ  ธมฺมกถํ  สุตฺวา  
+<span class="LineNumber"> 004 </span>สฺชาตสํเวคา  ปสนฺนจิตฺตา  หุตฺวา  ปพฺพชึสุ ฯ  เถโร  เตสํ  
+<span class="LineNumber"> 005 </span>		สีลเมวิธ  สิกฺเขถ  		อสฺมึ  โลเก  สุสิกฺขิตํ  
+<span class="LineNumber"> 006 </span>		สีลํ  หิ  สพฺพสมฺปตฺตึ  	อุปนาเมติ  เสวิตํ ฯ  
+<span class="LineNumber"> 007 </span>		สีลํ  รกฺเขยฺย  เมธาวี  		ปตฺถยาโน  ตโย  สุเข  
+<span class="LineNumber"> 008 </span>		ปสํสํ  วิตฺติลาภฺจ  		เปจฺจ  สคฺเค (๑)  ปโมทนํ ฯ  
+<span class="LineNumber"> 009 </span>		สีลวา  หิ  พหู  มิตฺเต  	สฺเมนาธิคจฺฉติ  
+<span class="LineNumber"> 010 </span>		ทุสฺสีโล  ปน  มิตฺเตหิ  	ธํสเต  ปาปมาจรํ ฯ  
+<span class="LineNumber"> 011 </span>		อวณฺณฺจ  อกิตฺติฺจ  	ทุสฺสีโล  ลภเต  นโร  
+<span class="LineNumber"> 012 </span>		วณฺณํ  กิตฺตึ  ปสํสฺจ  	สทา  ลภติ  สีลวา ฯ  
+<span class="LineNumber"> 013 </span>		อาทิ  สีลํ  ปติฏฺ€า  จ  	กลฺยาณานฺจ  มาตุกํ  
+<span class="LineNumber"> 014 </span>		ปมุขํ  สพฺพธมฺมานํ  		ตสฺมา  สีลํ  วิโสธเย ฯ  
+<span class="LineNumber"> 015 </span>		เวลา  จ  สํวรํ  สีลํ  		จิตฺตสฺส  อภิหาสนํ (๒) 
+<span class="LineNumber"> 016 </span>		ติตฺถฺจ  สพฺพพุทฺธานํ  	ตสฺมา  สีลํ  วิโสธเย ฯ  
+<span class="LineNumber"> 017 </span>		สีลํ  พลํ  อปฺปฏิมํ  		สีลํ  อาวุธมุตฺตมํ  (๓)  
+<span class="LineNumber"> 018 </span>		สีลมาภรณํ  เสฏฺ€ํ  		สีลํ  กวจมพฺภุตํ ฯ  (๔)  
+<span class="LineNumber"> 019 </span>		สีลํ  เสตุ  มเหสกฺโข  	สีลํ  คนฺโธ  อนุตฺตโร  
+<span class="LineNumber"> 020 </span>		สีลํ  วิเลปนํ  เสฏฺ€ํ  		เยน  วาติ  ทิโสทิสํ  (๕)  ฯ  
+<span class="LineNumber"> 021 </span>#๑.  สี.  ยุ.  เอตฺถนฺตเร  จาติ  ทิสฺสติ  ฯ  ๒.  ยุ.  อภิภาสนํ  ฯ  
+<span class="LineNumber"> 022 </span>#๓.  ยุ.  อาวุธํ  อุตฺตมํ  ฯ  ๔.  ยุ. กวจํ  อพฺภุตํ  ฯ  ๕.  ม. ทิโสทิสํ  ฯ  

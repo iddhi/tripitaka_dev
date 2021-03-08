@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H2>มัคคเหตุกบท</H2> 
+<span class="LineNumber"> 002 </span>           [๔๐๖]  ๑. <B>มัคคเหตุกธรรม  ที่เป็นเหตุธรรม  อาศัยธรรม 
+<span class="LineNumber"> 003 </span>ที่ไม่ใช่มัคคเหตุกธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 004 </span>                                                   <B>ฯลฯ</B>
+
+<span class="LineNumber"> 005 </span>                          <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>       	   [๔๐๗]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 007 </span>                                           <H2>มัคคาธิปติบท</H2>
+<span class="LineNumber"> 008 </span>      	    [๔๐๘]  ๑.  <B>มัคคาธิปติธรรม   ที่เป็นเหตุธรรม      อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่มัคคาธิปติธรรม  ที่เป็นนเหตุธรรม เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                                    <B>ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                             <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 012 </span>           [๔๐๙]  ในเหตุปัจจัย  มี  ๓  วาระ
+<span class="LineNumber"> 013 </span>                <I>นเหตุทุกนมัคคารัมมณติกเหตุทุกมัคคารัมมณติกะ  จบ</I>

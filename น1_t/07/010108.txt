@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	ด้วยการฟังให้จำ    
+<span class="LineNumber"> 002 </span>	ด้วยการคิดให้เห็นจริง
+<span class="LineNumber"> 003 </span>	ด้วยการทำให้รู้แจ้ง
+<span class="LineNumber"> 004 </span>	เมื่อรู้แจ้งขึ้นมา   ต้องรู้ในลักษณะ  ๓  ประการนี้  คือ
+<span class="LineNumber"> 005 </span>	รู้ทางเจริญ
+<span class="LineNumber"> 006 </span>	รู้ทางเสื่อม
+<span class="LineNumber"> 007 </span>	รู้ละทางเสื่อมดำเนินในทางเจริญ
+<span class="LineNumber"> 008 </span>	เพียงเท่านี้ก็นับว่ามีปัญญาความรู้ดี  แต่ถ้าไม่รู้จักใช้ปัญญาก็ยัง
+<span class="LineNumber"> 009 </span>ไม่ชื่อว่ารู้ดี  ผู้รู้ดีต้องรู้จักใช้ปัญญาให้เป็น  เพราะปัญญามี  ๓  ประเภท
+<span class="LineNumber"> 010 </span>	ประเภทที่  ๑  เป็นราชปัญญา
+<span class="LineNumber"> 011 </span>	ประเภทที่  ๒  เป็นโจรปัญญา
+<span class="LineNumber"> 012 </span>	ประเภทที่  ๓  เป็นทาสปัญญา
+<span class="LineNumber"> 013 </span>	ผู้ที่ใช้ความรู้ทำงานเพื่อประโยชน์ตนประโยชน์ท่าน  อย่างนี้
+<span class="LineNumber"> 014 </span>เรียกว่า  ราชปัญญา
+<span class="LineNumber"> 015 </span>	ผู้ที่ใช้ความรู้มุ่งแต่ประโยชน์ตนฝ่ายเดียว  เอารัดเอาเปรียบคน
+<span class="LineNumber"> 016 </span>อื่นเขา  ทำให้เขาเดือดร้อน  อย่างนี้เรียกว่า  โจรปัญญา
+<span class="LineNumber"> 017 </span>	ผู้ที่ถือว่าตนมีความรู้แล้วไม่ฟังเสียงใคร   ชอบทำตามใจของ
+<span class="LineNumber"> 018 </span>ตนเองเป็นใหญ่  อย่างนี้เรียกว่า  ทาสปัญญา
+<span class="LineNumber"> 019 </span>	สวัสดิการข้อสุดท้ายที่พระพุทธศาสนาให้แก่เยาวชน  ก็คือ
+<span class="LineNumber"> 020 </span>เตือนสติให้รู้ว่า  ชีวิตของคนเรานั้นมีระยะเวลาสั้นที่สุด  น้อยเหลือ
+<span class="LineNumber"> 021 </span>เกิน  ในที่สุดต้องายด้วยกันทุกคน  เป็นเด็กก็ตายเป็นผู้ใหญ่ก็ตาย
+<span class="LineNumber"> 022 </span>เป็นคนโง่เป็นคนฉลาดก็ตายทั้งนั้น  นี่คือสวัสดิการที่ทำให้เยาชน
+
+	

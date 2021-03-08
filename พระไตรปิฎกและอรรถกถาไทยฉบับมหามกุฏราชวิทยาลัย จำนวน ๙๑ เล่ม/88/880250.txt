@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                     ๓.  <B>อัปปฏิฆธรรม   เป็นปัจจัยแก่สัปปฏิฆธรรม   ด้วย
+<span class="LineNumber"> 002 </span>อำนาจของอธิปติปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           มีอย่างเดียว   คือที่เป็น   <B>สหชาตาธิปติ</B>   ได้แก่
+<span class="LineNumber"> 004 </span>           คือ   อธิปติธรรมที่เป็นอัปปฏิฆธรรม    เป็นปัจจัยแก่จิตตสมุฏฐานรูป
+<span class="LineNumber"> 005 </span>ทั้งหลาย  ที่เป็นสัปปฏิฆธรรม  ด้วยอำนาจของอธิปติปัจจัย.
+<span class="LineNumber"> 006 </span>                     ๔.  <B>อัปปฏิฆธรรม  เป็นปัจจัยแก่สัปปฏิฆธรรม  และ 
+<span class="LineNumber"> 007 </span>อัปปฏิฆธรรม  ด้วยอำนาจของอธิปติปัจจัย</B>
+<span class="LineNumber"> 008 </span>           มีอย่างเดียว   คือที่เป็น   <B>สหชาตาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 009 </span>           อธิปติธรรมที่เป็นอัปปฏิฆธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์    และ
+<span class="LineNumber"> 010 </span>จิตตสมุฏฐานรูปทั้งหลาย  ที่เป็นสัปปฏิฆธรรม  และอัปปฏิฆธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 011 </span>ของอธิปติปัจจัย
+
+<span class="LineNumber"> 012 </span>                                          <H1>๔.  อนันตรปัจจัย</H1>
+<span class="LineNumber"> 013 </span>           [๒๓๖] ๑.  <B>อัปปฏิฆธรรม  เป็นปัจจัยแก่อัปปฏิฆธรรม   ด้วย
+<span class="LineNumber"> 014 </span>อำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ขันธ์ทั้งหลายที่เป็นอัปปฏิฆธรรม  ที่เกิดก่อน ๆ ฯลฯ เป็นปัจจัย
+<span class="LineNumber"> 016 </span>แก่ผลสมาบัติ   ด้วยอำนาจของอนันตรปัจจัย.
+
+<span class="LineNumber"> 017 </span>                                           <H1>๕.  สมนันตรปัจจัย</H1>
+<span class="LineNumber"> 018 </span>           [๒๓๗]  ๑.  <B>อัปปฏิฆธรรม  เป็นปัจจัยแก่อัปปฏิฆธรรม   ด้วย
+<span class="LineNumber"> 019 </span>อำนาจของสมนันตรปัจจัย</B>

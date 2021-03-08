@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  42
+	
+<span class="LineNumber"> 002 </span>	ปุปฺผาสนํ ปฺาเปตฺวา	สาธุจิตฺตํ มโนรมํ  
+<span class="LineNumber"> 003 </span>	นรสารถินํ อคฺคํ		อิทํ วจนมพฺรวึ ฯ  
+<span class="LineNumber"> 004 </span>	อิทํ เม อาสนํ วีร		ปฺตฺตํ ตวนุจฺฉวํ(๑)  
+<span class="LineNumber"> 005 </span>	หาสยนฺโต มมํ จิตฺตํ	นิสีท กุสุมาสเน ฯ  
+<span class="LineNumber"> 006 </span>	นิสีทิ ตตฺถ ภควา		อสมฺภีโตว เกสรี  
+<span class="LineNumber"> 007 </span>	สตฺตรตฺตินฺทิวํ พุทฺโธ	ปวเร กุสุมาสเน ฯ  
+<span class="LineNumber"> 008 </span>	นมสฺสมาโน อฏฺ€าสึ	สตฺตรตฺตินฺทิวํ อหํ  
+<span class="LineNumber"> 009 </span>	วุฏฺ€หิตฺวา สมาธิมฺหา	สตฺถา โลเก อนุตฺตโร ฯ  
+<span class="LineNumber"> 010 </span>	มม กมฺมํ ปกิตฺเตนฺโต	อิทํ วจนมพฺรวิ  
+<span class="LineNumber"> 011 </span>	ภาเวหิ พุทฺธานุสฺสตึ	ภาวนานมนุตฺตรํ  
+<span class="LineNumber"> 012 </span>	อิมํ สตึ ภาวยิตฺวา		ปูรยิสฺสสิ มานสํ (๒)ฯ
+<span class="LineNumber"> 013 </span>	ตึสกปฺปสหสฺสานิ		เทวโลเก รมิสฺสสิ  
+<span class="LineNumber"> 014 </span>	อสีติกฺขตฺตุํ เทวินฺโท	เทวรชฺชํ กริสฺสสิ ฯ  
+<span class="LineNumber"> 015 </span>	สหสฺสกฺขตฺตุํ จกฺกวตฺตี	ราชา รฏฺเ€ ภวิสฺสสิ  
+<span class="LineNumber"> 016 </span>	ปเทสรชฺชํ วิปุลํ		คณนาโต อสงฺขิยํ  
+<span class="LineNumber"> 017 </span>	อนุโภสฺสสิ ตํ สพฺพํ	พุทฺธานุสฺสติยา ผลํ ฯ  
+<span class="LineNumber"> 018 </span>	ภวาภเว สํสรนฺโต		มหาโภคํ ลภิสฺสสิ  
+<span class="LineNumber"> 019 </span>	โภเค เต อูนตา(๓) นตฺถิ	พุทฺธานุสฺสติยา ผลํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. ตวนุจฺฉกํ ฯ  ๒. สี. ปูรยสฺสุ สุมานสํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. โภเคหิ โอนตา ฯ ม. โอนตา ฯ 

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H2>ปัจจนียานุโลมนัย</H2>   
+<span class="LineNumber"> 002 </span>             <H2>การนับจำนวนวาระในปัจจนียานุโลม</H2>	
+<span class="LineNumber"> 003 </span>           [๗๒๒] <B>เพราะนเหตุปัจจัย</B>  มีอารัมมณปัจจัย  มี ๙ วาระ...ฯลฯ
+<span class="LineNumber"> 004 </span>           สหชาตวาระก็ดี     ปัจจยวาระก็ดี    นิสสยวาระก็ดี    สังสัฏฐวาระก็ดี
+<span class="LineNumber"> 005 </span>สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 006 </span>                                       <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 007 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>                          <H2>สุขายเวทนายสัมปยุตตบท</H2>
+<span class="LineNumber"> 010 </span>           [๗๒๓] ๑.  <B>สุขายเวทนายสัมปยุตตธรรม   ที่เป็นกุศล   เป็น
+<span class="LineNumber"> 011 </span>ปัจจัยแก่ธรรมที่ไม่ใช่สุขายเวทนายสัมปยุตตธรรม ที่ไม่ใช่กุศล  ด้วย
+<span class="LineNumber"> 012 </span>อำนาจของเหตุปัจจัย<SUP>๑</SUP>  ฯลฯ</B>
+
+<span class="LineNumber"> 013 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 014 </span>           ในอารัมมณปัจจัย มี ๑๘  วาระ
+<span class="LineNumber"> 015 </span>           ปัญหาวาระก็พึงให้พิสดาร.
+<span class='footnote'>๑. น่าจะเป็นอารัมมณปัจจัย.</span>

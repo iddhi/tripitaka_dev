@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>มัคคสัจ</B>   เป็นกุศล. 
+<span class="LineNumber"> 002 </span>           <B>นิโรธสัจ</B>   เป็นอัพยากตะ.
+<span class="LineNumber"> 003 </span>           <B>ทุกขสัจ</B>   เป็นกุศลก็มี  เป็นอกุศลก็มี  เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 004 </span>           <B>อินทรีย์  ๑๐</B>  เป็นอัพยากตะ.
+<span class="LineNumber"> 005 </span>           <B>โทมนัสสินทรีย์</B>   เป็นอกุศล.
+<span class="LineNumber"> 006 </span>           <B>อนัญญตัญญัสสามีตินทรีย์</B>   เป็นกุศล.
+<span class="LineNumber"> 007 </span>           <B>อินทรีย์  ๔</B>   เป็นกุศลก็มี  เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 008 </span>           <B>อินทรีย์  ๖</B>  เป็นกุศลก็มี  เป็นอกุศลก็มี  เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 009 </span>           <B>อกุศลเหตุ ๓</B>  เป็นอกุศล.
+<span class="LineNumber"> 010 </span>           <B>กุศลเหตุ ๓</B>  เป็นกุศล.
+<span class="LineNumber"> 011 </span>           <B>อัพยากตเหตุ ๓</B>  เป็นอัพยากตะ.
+<span class="LineNumber"> 012 </span>           <B>กพฬิงการาหาร</B>  เป็นอัพยากตะ
+<span class="LineNumber"> 013 </span>           <B>อาหาร ๓</B>  เป็นกุศลก็มี   เป็นอกุศลก็มี   เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 014 </span>           <B>สัมผัส  ๖</B>  เป็นอัพยากตะ.
+<span class="LineNumber"> 015 </span>           <B>มโนวิญญาณธาตุสัมผัส</B> เป็นกุศลก็มีเป็นอกุศลก็มีเป็นอัพยากตะก็มี.
+<span class="LineNumber"> 016 </span>           <B>เวทนา ๖   สัญญา ๖  เจตนา ๖  จิต ๖</B>  เป็นอัพยากตะ.
+<span class="LineNumber"> 017 </span>           <B>มโนวิญญาณธาตุ</B>  เป็นกุศลก็มี  เป็นอกุศลก็มี   เป็นอัพยากตะก็มี.
+
+<span class="LineNumber"> 018 </span>                                          <H1>เวทนาติกวาระ</H1>
+<span class="LineNumber"> 019 </span>           [๑๑๑๓]  <B>บรรดาขันธ์  ๕ ขันธ์ไหน   สัมปยุตด้วยสุขเวทนา
+<span class="LineNumber"> 020 </span>ขันธ์ไหน  สัมปยุตด้วยทุกขเวทนา  ขันธ์ไหน  สัมปยุตด้วยอทุกขม-
+<span class="LineNumber"> 021 </span>สุขเวทนา  ฯลฯ   บรรดาจิต ๗ จิตไหน  สัมปยุตด้วยสุขเวทนา  จิต</B>

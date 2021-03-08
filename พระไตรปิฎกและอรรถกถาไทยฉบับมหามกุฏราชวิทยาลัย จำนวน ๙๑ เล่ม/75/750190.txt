@@ -1,0 +1,31 @@
+﻿<span class="LineNumber"> 001 </span>          <H1>สุตตันตมาติกา  ๔๒  ทุกะ</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕]     <H2>๑. วิชชาภาคีทุกะ</H2>
+
+<span class="LineNumber"> 003 </span><B>วิชฺชาภาคิโน ธมฺมา</B>             ธรรมเป็นไปในส่วนวิชชา
+<span class="LineNumber"> 004 </span><B>อวิชฺชภาคิโน ธมฺมา</B>             ธรรมเป็นไปในส่วนอวิชชา
+
+<span class="LineNumber"> 005 </span>                       <H2>๒.  วิชชูปมทุกะ</H2>
+
+<span class="LineNumber"> 006 </span><B>วิชฺชูปมา ธมฺมา</B>                   ธรรมเหมือนฟ้าแลบ
+<span class="LineNumber"> 007 </span><B>วชิรูปมา ธมฺมา</B>                   ธรรมเหมือนฟ้าผ่า
+
+<span class="LineNumber"> 008 </span>                         <H2>๓.  พาลทุกะ</H2>
+
+<span class="LineNumber"> 009 </span><B>พาลา ธมฺมา</B>                               ธรรมทำให้เป็นพาล
+<span class="LineNumber"> 010 </span><B>ปณฺฑิตา ธมฺมา</B>                           ธรรมทำให้เป็นบัณฑิต
+
+<span class="LineNumber"> 011 </span>                        <H2>๔.  กัณหทุกะ</H2>
+
+<span class="LineNumber"> 012 </span><B>กณฺหา ธมฺมา</B>                           ธรรมดำ
+<span class="LineNumber"> 013 </span><B>สุกฺกา ธมฺมา</B>                            ธรรมขาว
+
+<span class="LineNumber"> 014 </span>                       <H2>๕.  ตปนิยทุกะ</H2>
+
+<span class="LineNumber"> 015 </span><B>ตปนิยา ธมฺมา</B>                    ธรรมทำให้เร่าร้อน
+<span class="LineNumber"> 016 </span><B>อตปนิยา ธมฺมา</B>                  ธรรมไม่ทำให้เร่าร้อน
+
+<span class="LineNumber"> 017 </span>                       <H2>๖.  อธิวจนทุกะ</H2>
+
+<span class="LineNumber"> 018 </span><B>อธิวจนา ธมฺมา</B>                  ธรรมเป็นชื่อ
+<span class="LineNumber"> 019 </span><B>อธิวจนปถา ธมฺมา</B>             ธรรมเป็นเหตุของธรรมเป็นชื่อ

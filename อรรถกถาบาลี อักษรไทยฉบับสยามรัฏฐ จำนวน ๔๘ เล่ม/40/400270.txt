@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 40    หน้า  270
+
+<span class="LineNumber"> 002 </span>			มคฺคสจฺจนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 003 </span>	มคฺคสจฺจนิทฺเทเส  อยเมวาติ  อฺมคฺคปฺปฏิปกฺขนิยมนํ(๑) ฯ 
+<span class="LineNumber"> 004 </span>	อริโยติ  ตํตํมคฺควชฺฌกิเลเสหิ  อารกตฺตา  อริยภาวกรตฺตา  
+<span class="LineNumber"> 005 </span>อริยผลปฺปฏิลาภกรตฺตา  จ  อริโย ฯ  อฏฺ€  องฺคานิ  อสฺสาติ  
+<span class="LineNumber"> 006 </span>อฏฺ€งฺคิโก ฯ  สฺวายํ  จตุรงฺคิกา  วิย  เสนา  ปฺจงฺคิกํ วิย 
+<span class="LineNumber"> 007 </span>ตูริยํ องฺคมตฺตเมว โหติ องฺควินิมุตฺโต นตฺถิ ฯ  
+<span class="LineNumber"> 008 </span>	อิทานิ  องฺคมตฺตเมว  มคฺโค  องฺควินิมุตฺโต  นตฺถีติ  
+<span class="LineNumber"> 009 </span>ทสฺเสนฺโต สมฺมาทิฏฺ€ิ  ฯเปฯ  สมฺมาสมาธีติอาทิมาห ฯ
+<span class="LineNumber"> 010 </span>	ตตฺถ  สมฺมา  ทสฺสนลกฺขณา  สมฺมาทิฏฺ€ิ 
+<span class="LineNumber"> 011 </span>	สมฺมา  อภินิโรปนลกฺขโณ  สมฺมาสงฺกปฺโป
+<span class="LineNumber"> 012 </span>	สมฺมา  ปริคฺคหลกฺขณา  สมฺมาวาจา  
+<span class="LineNumber"> 013 </span>	สมฺมา  สมุฏฺ€าปนลกฺขโณ  สมฺมากมฺมนฺโต
+<span class="LineNumber"> 014 </span>	สมฺมา  โวทาปนลกฺขโณ  สมฺมาสติ  
+<span class="LineNumber"> 015 </span>	สมฺมา  ปคฺคหลกฺขโณ  สมฺมาวายาโม 
+<span class="LineNumber"> 016 </span>	สมฺมา  อุปฏฺ€านลกฺขณา  สมฺมาสติ 
+<span class="LineNumber"> 017 </span>	สมฺมา  สมาธานลกฺขโณ  สมฺมาสมาธิ ฯ
+<span class="LineNumber"> 018 </span>เตสุ เอเกกสฺส ตีณิ ตีณิ กิจฺจานิ โหนฺติ ฯ เสยฺยถิทํ  
+<span class="LineNumber"> 019 </span>สมฺมาทิฏฺ€ิ  ตาว  อฺเหิปิ  อตฺตโน  ปจฺจนีกกิเลเสหิ สทฺธึ 
+<span class="LineNumber"> 020 </span>มิจฺฉาทิฏฺ€ึ ปชหติ  นิโรธฺจ  อารมฺมณํ  กโรติ  สมฺปยุตฺตธมฺเม 
+<span class="LineNumber"> 021 </span># ๑. ม. อฺมคฺคปฏิกฺเขปนตฺถํ นิยมนํ ฯ

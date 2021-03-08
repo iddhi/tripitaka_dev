@@ -1,0 +1,28 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>อรรถกถาเกสกัมพลสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>         พึงทราบวินิจฉัยในเกสกัมพลสูตรที่   ๕  ดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>         บทว่า   <B>ตนิตาวุตานํ  วตฺถานํ</B>  เป็นฉัฏฐีวิภัติ  ลงในอรรถแห่ง
+<span class="LineNumber"> 004 </span>ปฐมาวิภัติ.   อธิบายว่า ได้แก่ผ้าที่ทอด้วยเส้นด้าย.   ผ้ากัมพลทีทอด้วยผมมนุษย์
+<span class="LineNumber"> 005 </span>ชื่อว่า  <B>เกสกัมพล</B>.  แม้บทว่า  ปวาทนํ   นี้  ก็เป็นฉัฏฐีวิภัติ  ลงในอรรถ
+<span class="LineNumber"> 006 </span>แห่งปฐมาวิภัติ.   บทว่า    <B>ปฏิกิฏีโ€</B>  ความว่า    ลัทธิหลัง   เลว.    บทว่า
+<span class="LineNumber"> 007 </span><B>โมฆปุริโส</B>  แปลว่า  บุรุษเปล่า  คือ  บุรุษหลงงมงาย.  บทว่า  <B>ปฏิพาหติ</B>
+<span class="LineNumber"> 008 </span>แปลว่า  ปฏิเสธ.  บทว่า  <B>ขิปฺปํ   อุฑฺเฑยฺย</B>  ได้แก่  ดักไซ.
+<span class="LineNumber"> 009 </span>                                <I>จบอรรถกถาเกสกัมพลสูตรที่  ๕</I>
+
+<span class="LineNumber"> 010 </span>                                      <H1>๖. สัมปทาสูตร</H1>
+
+<span class="LineNumber"> 011 </span>                                 <H1>ว่าด้วยสัมปทา  ๓  อย่าง</H1>
+
+<span class="LineNumber"> 012 </span>         [๕๗๘]  ดูก่อนภิกษุทั้งหลาย  สัมปทา  (สมบัติ)  ๓ นี้   สัมปทา ๓
+<span class="LineNumber"> 013 </span>คืออะไร  คือสัทธาสัมปทา  (สมบัติคือศรัทธา)  สีลสัมปทา    (สมบัติคือศีล)
+<span class="LineNumber"> 014 </span>ปัญญาสัมปทา  (สมบัติคือปัญญา)  นี้   สัมปทา  ๓.
+<span class="LineNumber"> 015 </span>                                            <I>จบสัมปทาสูตรที่  ๖</I>
+
+<span class="LineNumber"> 016 </span>                                         <H1>๗. วุฑฒิสูตร</H1>
+
+<span class="LineNumber"> 017 </span>                                    <H1>ว่าด้วยวุฑฒิ  ๓  อย่าง</H1>
+
+<span class="LineNumber"> 018 </span>         [๕๗๙]  ดูก่อนภิกษุทั้งหลาย  วุฑฒิ (ความเจริญ) ๓ นี้  วุฑฒิ ๓ คือ
+<span class="LineNumber"> 019 </span>อะไร  คือ สัทธาวุฑฒิ  (ความเจริญแห่งศรัทธา)  สีลวุฑฒิ  (ความเจริญแห่งศีล)
+<span class="LineNumber"> 020 </span>ปัญญาวุฑฒิ  (ความเจริญแห่งปัญญา)  นี้วุฑฒิ ๓.
+<span class="LineNumber"> 021 </span>                                          <I>จบวุฑฒิสูตรที่  ๗</I>

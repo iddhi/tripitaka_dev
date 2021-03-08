@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  532
+	
+<span class="LineNumber"> 002 </span>		ติณฺณํ เม ตาลปตฺตานํ	คงฺคาตีเร กุฏี กตา  
+<span class="LineNumber"> 003 </span>		ฉวสิตฺโตว เม ปตฺโต	ปํสุกูลฺจ จีวรํ ฯ  
+<span class="LineNumber"> 004 </span>		ทฺวินฺนํ อนฺตรวสฺสานํ	เอกวาจา  เม ภาสิตา  
+<span class="LineNumber"> 005 </span>		ตติเย อนฺตรวสฺสมฺหิ	ตโมกฺขนฺโธ  ปทาลิโตติ(๑)  
+<span class="LineNumber"> 006 </span>คาถาทฺวยํ อภาสิ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  ติณฺณํ  เม  ตาลปตฺตานํ  คงฺคาตีเร  กุฏี  กตาติ 
+<span class="LineNumber"> 008 </span>ตาลรุกฺขโต  ปติเตหิ  ตีหิ  ตาลปณฺเณหิ  มยฺหํ  วสฺสนปริหรณตฺถํ  (๒)
+<span class="LineNumber"> 009 </span>คงฺคาย นทิยา ตีเร กุฏิกา กตา ฯ เตน อตฺตโน 
+<span class="LineNumber"> 010 </span>เสนาสนสนฺโตสํ ทสฺเสติ ฯ วุตฺตํ หิ ธมฺมเสนาปตินา  
+<span class="LineNumber"> 011 </span>		ปลฺลงฺเกน นิสินฺนสฺส	ชณฺณุเก นาภิวสฺสติ (๓)  
+<span class="LineNumber"> 012 </span>		อลํ ผาสุวิหาราย		ปหิตตฺตสฺส ภิกฺขุโนติ ฯ   
+<span class="LineNumber"> 013 </span>	ตาลปตฺตีนนฺติปิ  ปาโ€  โสเอวตฺโถ ฯ 
+<span class="LineNumber"> 014 </span>	ฉวสิตฺโตว  เม  ปตฺโตติ มยฺหํ ปตฺโต  ฉวสิตฺตสทิโส 
+<span class="LineNumber"> 015 </span>มตานํ ขีรเสจนกุณฺฑสทิโสติ (๔)  อตฺโถ ฯ 
+<span class="LineNumber"> 016 </span>	ปํสุกูลฺจ จีวรนฺติ จีวรฺจ เม อนฺตรามคฺคสุสานาทีสุ 
+<span class="LineNumber"> 017 </span>ฉฑฺฑิตานนฺตเกหิ (๕) กตํ ปํสุกูลํ ฯ ปททฺวเยน ปริกฺขารสนฺโตสํ 
+<span class="LineNumber"> 018 </span>ทสฺเสติ ฯ  
+<span class="LineNumber"> 019 </span>	ทฺวินฺนํ  อนฺตรวสฺสานนฺติ  ทฺวีสุ  อนฺตรวสฺเสสุ ปพฺพชิตโต 
+<span class="LineNumber"> 020 </span>อรหตฺตมปฺปตฺตสํวจฺฉเรสุ ฯ 
+<span class="LineNumber"> 021 </span># ๑. ขุ. เถร. ๒๖/๒๖๑/๒๘๘ ฯ  ๒. สี. วสฺสานํ ปริหรณตฺถํ ฯ
+<span class="LineNumber"> 022 </span># ๓. สี. ยุ. นาติวสฺสติ ฯ  ๔. ยุ. ...กุณฺฑิสทิโสติ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. ฉฑฺฑิตนนฺตเกหิ ฯ 

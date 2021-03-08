@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>ทุกขเวทนา   กามราคานุสัย    และมานานุสัย    ไม่พึงกล่าวว่า    ละแล้ว 
+<span class="LineNumber"> 002 </span>หรือยังไม่ละแล้ว.
+<span class="LineNumber"> 003 </span>               <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ
+<span class="LineNumber"> 004 </span>                                        อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 005 </span>               <I>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                        <I>ติกมูลกะ  จบ</I>
+
+<span class="LineNumber"> 007 </span>         <H1>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสยมูล</H1>
+<span class="LineNumber"> 008 </span><H2>จตุกกมูลกะ - กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสยมูละ
+<span class="LineNumber"> 009 </span>                     วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 010 </span>         [๑๕๔๘]   กามราคานุสัย   ปฏิฆานุสัย  มานานุสัย  และทิฏฐา-
+<span class="LineNumber"> 011 </span>นุสัย   อันบุคคลยังไม่ละแล้ว ในที่ใด, วิจิกิจฉานุสัย   อันบุคคลก็ยังไม่
+<span class="LineNumber"> 012 </span>ละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ไม่มี.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า วิจิกิจฉานุสัย   อันบุคคลยังไม่ละแล้ว ในที่ใด,   กาม-
+<span class="LineNumber"> 015 </span>ราคานุสัย   ปฏิฆานุสัย   มานานุสัย   และทิฏฐานุสัย    อันบุคคลก็ยังไม่
+<span class="LineNumber"> 016 </span>ละแล้ว  ในที่ นั้น  ใช่ไหม ?

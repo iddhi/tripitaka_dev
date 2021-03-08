@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  อภิฺเยฺยนิทฺเทสวณฺณนา หน้า 133
+
+<span class="LineNumber"> 002 </span>ทิฏฺ€ิมณฺฑเล(๑)  สตฺตสุ  ปิจุปฏเลสุ  อาสิตฺตเตลํ  ปิจุปฏลานิ  วิย 
+<span class="LineNumber"> 003 </span>สตฺต อกฺขิปฏลานิ (๒) พฺยาเปตฺวา ปมาณโต  มุคฺควิทลมตฺตํ  จกฺขุ-
+<span class="LineNumber"> 004 </span>วิฺาณาทีนํ  ยถารหํ  วตฺถุทฺวารภาวํ สาธยมานํ ติฏฺ€ติ ฯ 
+<span class="LineNumber"> 005 </span>	ตํ  จกฺขตีติ  จกฺขุ  รูปํ  อสฺสาเทติ  วิภาเวติ  จาติ 
+<span class="LineNumber"> 006 </span>อตฺโถ ฯ
+<span class="LineNumber"> 007 </span>	รูปยนฺตีติ  รูปา  วณฺณวิการํ  อาปชฺชมานา หทยงฺคตภาวํ(๓) 
+<span class="LineNumber"> 008 </span>ปกาเสนฺตีติ อตฺโถ ฯ 
+<span class="LineNumber"> 009 </span>	จกฺขุโต ปวตฺตํ วิฺาณํ  จกฺขุสฺส  วา  วิฺาณนฺติ
+<span class="LineNumber"> 010 </span>จกฺขุวิฺาณํ ฯ
+<span class="LineNumber"> 011 </span>	ผุสตีติ ผสฺโส ฯ อุปสคฺเคน ปทํ มณฺเฑตฺวา  สมฺผสฺโสติ 
+<span class="LineNumber"> 012 </span>วุตฺตํ ฯ จกฺขุโต ปวตฺโต สมฺผสฺโส จกฺขุสมฺผสฺโส ฯ จกฺขุสมฺผสฺส-
+<span class="LineNumber"> 013 </span>ปจฺจยาติ  จกฺขุวิฺาณสมฺปยุตฺตผสฺสปจฺจยา ฯ
+<span class="LineNumber"> 014 </span>	เวทยิตนฺติ  วินฺทนํ  เวทนาติ  อตฺโถ ฯ  
+<span class="LineNumber"> 015 </span>	ตเทว  สุขยตีติ  สุขํ ยสฺสุปฺปชฺชติ ตํ สุขิตํ กโรตีติ
+<span class="LineNumber"> 016 </span>อตฺโถ ฯ สุฏฺ€ุ วา ขาทติ  ขนติ  จ  กายจิตฺตาพาธนฺติ  สุขํ ฯ 
+<span class="LineNumber"> 017 </span>	ทุกฺขยตีติ ทุกฺขํ ยสฺสุปฺปชฺชติ ตํ ทุกฺขิตํ  กโรตีติ  
+<span class="LineNumber"> 018 </span>อตฺโถ ฯ
+<span class="LineNumber"> 019 </span>	น  ทุกฺขํ  น  สุขนฺติ  อทุกฺขมสุขํ ฯ มกาโร ปทสนฺธิ-
+<span class="LineNumber"> 020 </span>วเสน วุตฺโต ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ทิฏฺ€ิมณฺฑเล ฯ  ๒. สี. อกฺขิปฏลานิ หทยงฺคตานิ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. หทยงฺคตภาวํ ฯ

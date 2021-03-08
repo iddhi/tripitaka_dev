@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 20  หน้า  577
+
+<span class="LineNumber"> 002 </span>			นิคมนกถา
+<span class="LineNumber"> 003 </span>	เอตฺตาวตา จ
+<span class="LineNumber"> 004 </span>	ธมฺมิสฺสเรน ชคโต		ธมฺมโลกวิทสฺสินา(๑)
+<span class="LineNumber"> 005 </span>	ธมฺมานํ โพธเนยฺยานํ	ชานตา เทสนาวิธึ ฯ
+<span class="LineNumber"> 006 </span>	ตํ ตํ นิทานมาคมฺม		สพฺพโลกหิเตสินา
+<span class="LineNumber"> 007 </span>	เอกกาทิปฺปเภเทน		เทสิตานิ มเหสินา ฯ
+<span class="LineNumber"> 008 </span>	ทสุตฺตรสตํ เทฺว จ		สุตฺตานิ อิติวุตฺตกํ
+<span class="LineNumber"> 009 </span>	อิติวุตฺตปฺปเภเทน		สงฺคายึสุ มเหสโย ฯ
+<span class="LineNumber"> 010 </span>	ฉฬาภิฺาวสิปฺปตฺตา	ปภินฺนปฏิสมฺภิทา
+<span class="LineNumber"> 011 </span>	ยนฺตํ สาสนโธเรยฺหา	ธมฺมสงฺคาหกา ปุเร ฯ
+<span class="LineNumber"> 012 </span>	ตสฺส อตฺถํ ปกาเสตุํ		โปราณฏฺ€กถานยํ
+<span class="LineNumber"> 013 </span>	นิสฺสาย ยา สมารทฺธา	อตฺถสํวณฺณนา มยา ฯ
+<span class="LineNumber"> 014 </span>	สา ตตฺถ ปรมตฺถานํ		สุตฺตนฺเตสุ ยถารหํ
+<span class="LineNumber"> 015 </span>	ปกาสนา ปรมตฺถ-		ทีปนี นาม นามโต ฯ
+<span class="LineNumber"> 016 </span>	สมฺปตฺตา ปรินิฏฺ€านํ	อนากุลวินิจฺฉยา
+<span class="LineNumber"> 017 </span>	อฏฺ€ตฺตึสปฺปมาณาย	ปาฬิยา ภาณวารโต ฯ (๑) 
+<span class="LineNumber"> 018 </span>	อิติ ตํ สงฺขโรนฺเตน	ยนฺตํ อธิคตํ มยา
+<span class="LineNumber"> 019 </span>	ปุฺํ ตสฺสานุภาเวน	โลกนาถสฺส สาสนํ ฯ
+<span class="LineNumber"> 020 </span># ๑. ม. ธมฺมาโลกวิธายินา ฯ  ๒. ม. อฏฺ€ตึสปฺปมาณาย ฯ

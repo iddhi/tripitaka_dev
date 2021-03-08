@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  41 มหาปฺากถาวณฺณนา   หน้า  415  
+
+<span class="LineNumber"> 002 </span>อสมฺโมหสจฺฉิกิริยาย  สจฺฉิกตตฺตา  อสจฺฉิกตํ  นาม  
+<span class="LineNumber"> 003 </span>นตฺถิ ฯ  
+<span class="LineNumber"> 004 </span>	อสมฺโมหปฺาย  ผุฏฺ€ตฺตา  ปฺาย  อผสฺสิตํ  นาม  
+<span class="LineNumber"> 005 </span>นตฺถิ ฯ  
+<span class="LineNumber"> 006 </span>	ปจฺจุปฺปนฺนนฺติ ปจฺจุปฺปนฺนํ กาลํ วา  ธมฺมํ  วา ฯ  
+<span class="LineNumber"> 007 </span>	อุปาทายาติ  อาทาย  อนฺโตกตฺวาติ  อตฺโถ ฯ  อุปาทายาติ  
+<span class="LineNumber"> 008 </span>วจเนเนว  กาลวินิมุตฺตํ (๑)  นิพฺพานมฺปิ  คหิตเมว  โหติ ฯ  อตีตาทิ-  
+<span class="LineNumber"> 009 </span>วจนานิ  จ  นตฺถีติอาทิวจเนเนว (๒)  ฆฏียนฺติ  สพฺเพติอาทิวจเนน  
+<span class="LineNumber"> 010 </span>วา ฯ  
+<span class="LineNumber"> 011 </span>	สพฺเพ  ธมฺมาติ  สพฺพสงฺขตาสงฺขตธมฺมปริยาทานํ ฯ  
+<span class="LineNumber"> 012 </span>	สพฺพากาเรนาติ  สพฺพธมฺเมสุ  เอเกกสฺเสว  ธมฺมสฺส  
+<span class="LineNumber"> 013 </span>อนิจฺจาการาทิสพฺพาการปริยาทานํ ฯ  
+<span class="LineNumber"> 014 </span>	าณมุเขติ  าณาภิมุเข  
+<span class="LineNumber"> 015 </span>	อาปาถํ  อาคจฺฉนฺตีติ  โอสรณํ อุเปนฺติ ฯ ชานิตพฺพนฺติ  
+<span class="LineNumber"> 016 </span>ปทํ เนยฺยนฺติ ปทสฺส อตฺถวิวรณตฺถํ วุตฺตํ ฯ  
+<span class="LineNumber"> 017 </span>	อตฺตตฺโถ  วาติอาทีสุ  วา-สทฺโท  สมุจฺจยตฺโถ ฯ  
+<span class="LineNumber"> 018 </span>	อตฺตตฺโถติ  อตฺตโน  อตฺโถ ฯ  
+<span class="LineNumber"> 019 </span>	ปรตฺโถติ  ปเรสํ  ติณฺณํ  โลกานํ  อตฺโถ ฯ  
+<span class="LineNumber"> 020 </span>	อุภยตฺโถติ  อตฺตโน  จ  ปเรสฺจาติ  สกึเยว  อุภินฺนํ  อตฺโถ ฯ  
+<span class="LineNumber"> 021 </span>#๑.  ม. กาลวินิมุตฺตํ ฯ   ๒.  ยุ. อาทิวจเนน จ ฯ  

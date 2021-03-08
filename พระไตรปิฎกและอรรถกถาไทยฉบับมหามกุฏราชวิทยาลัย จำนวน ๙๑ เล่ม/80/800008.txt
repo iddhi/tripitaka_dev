@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>               แผนผังแสดงนิกายสงฆ์ในศตวรรษที่ ๓
+
+                                              
+<span class="LineNumber"> 002 </span>			เถรวาท					มหาสังฆิกะ                                              
+<span class="LineNumber"> 003 </span>มหิสาสกะ			วัชชีปุตตกะ		โคกุลิกะ		เอกัพโยหาริกะ
+<span class="LineNumber"> 004 </span>สัพพัตถิกวทะ	ธัมมุตตริยะ	สมิติยะ
+<span class="LineNumber"> 005 </span>				ฉันนาคาริกะ
+<span class="LineNumber"> 006 </span>กัสสปิกะ		     ภัทรยานิกะ		      ปัณณัตติวาทะ	พหุลิยะ
+<span class="LineNumber"> 007 </span>สังกันติกะ										เจติยวาทะ
+<span class="LineNumber"> 008 </span>สุตตวาทะ
+<span class="LineNumber"> 009 </span>			๑. ภิกษุผู้ลามกทั้งหลาย ผู้เป็นชาววัช-
+<span class="LineNumber"> 010 </span>		ชีบุตร ผู้เป็นอธรรมวาที ถูกพระเถระ ผู้
+<span class="LineNumber"> 011 </span>		เป็นธรรมวาที ทั้งหลายขับออกแล้ว ได้พวก
+<span class="LineNumber"> 012 </span>		อื่นจึงตั้งคณาจารย์ใหม่.

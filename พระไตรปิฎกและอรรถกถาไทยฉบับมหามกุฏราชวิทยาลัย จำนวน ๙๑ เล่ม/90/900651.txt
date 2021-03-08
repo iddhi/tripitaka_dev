@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>				    <H1>สรณทุกปีติติกะ</H1>
+<span class="LineNumber"> 002 </span>		     <H2>(๑๐๐.  สรณทุกะ  ๗. ปีติติกะ)</H2> 
+<span class="LineNumber"> 003 </span>			       <H1>ปีติสหคตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>			         <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>		[๑๘๒๔]  ๑.  ปีติสหคตธรรมที่เป็นสรณธรรม  อาศัยปีติ-
+<span class="LineNumber"> 007 </span>สหคตธรรมที่เป็นสรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                           ๒.  ปีติสหคตธรรมที่เป็นอรณธรรม  อาศัยปีติ-
+<span class="LineNumber"> 009 </span>สหคตธรรมที่เป็นอรณธรรม เกิดขึ้น  เพราะเหตุปัจจัย 	
+<span class="LineNumber"> 010 </span>		    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๑๘๒๕]  ในเหตุปัจจัย  มี ๒  วาระ    ในอารัมมณปัจจัย มี ๒ วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 013 </span>            สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดารทุกปัจจัย.
+
+<span class="LineNumber"> 014 </span> 			    <H1>สุขสหคตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 015 </span>                       	    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 016 </span>                              <H2>๑.  เหตุปัจจัย</H2> 
+<span class="LineNumber"> 017 </span>		[๑๘๒๖]  ๑.  สุขสหคตธรรมที่เป็นสรณธรรม อาศัยสุขสหคต-
+<span class="LineNumber"> 018 </span>ธรรมที่เป็นสรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย                         

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>*เล่มที่ 39  กปฺปมาณวสุตฺตนิทฺเทสวณฺณนา  หน้า 303
+
+<span class="LineNumber"> 002 </span>	อถสฺส  ภควา  ตมตฺถํ  พฺยากโรนฺโต  อุปรูปริ  คาถาโย  
+<span class="LineNumber"> 003 </span>อภาสิ ฯ  ทุติยคาถา  วุตฺตตฺถาเยว ฯ  ตติยคาถาย  อกิฺจนนฺติ 
+<span class="LineNumber"> 004 </span>กิฺจนปฏิปกฺขํ ฯ อนาทานนฺติ  อาทานปฏิปกฺขํ  กิฺจนาทานานํ 
+<span class="LineNumber"> 005 </span>วูปสมนฺติ  วุตฺตํ  โหติ ฯ  อนาปรนฺติ อปรปฏิภาคสทิสวิรหิตํ(๑) ฯ 
+<span class="LineNumber"> 006 </span>เสฏฺ€นฺติ วุตฺตํ โหติ ฯ  
+<span class="LineNumber"> 007 </span>	จตุตฺถคาถาย  น  เต  มารสฺส  ปทฺธคูติ (๒)  เต มารสฺส
+<span class="LineNumber"> 008 </span>ปทฺธจรา  ปริจาริกา เปสิยา(๓)   น โหนฺติ ฯ  
+<span class="LineNumber"> 009 </span>	มหาชนํ  ปาเป(๔)  นิโยเชตฺวา  มาเรตีติ  มาโร ฯ  อกุสลกมฺเม 
+<span class="LineNumber"> 010 </span>นิยุตฺตตฺตา  กโณฺห ฯ  ฉสุ  เทวโลเกสุ  อธิปติตฺตา  อธิปติ ฯ  
+<span class="LineNumber"> 011 </span>อกุสลกมฺมานํ  (๕)  อนฺตํ  คตตฺตา อนฺตคู ฯ  มหาชนํ  (๖)  น มุฺจตีติ 
+<span class="LineNumber"> 012 </span>นมุจิ ฯ สติวิปฺปวาสปฺปมตฺตปุคฺคเณน (๗) าตโกติ ปมตฺตพนฺธุ ฯ 
+<span class="LineNumber"> 013 </span>เสสํ สพฺพตฺถ ปากฏเมว ฯ  
+<span class="LineNumber"> 014 </span>	เอวํ  ภควา  อิทมฺปิ  สุตฺตํ  อรหตฺตนิกูเฏเนว  เทเสสิ ฯ
+<span class="LineNumber"> 015 </span>เทสนาปริโยสาเน  จ ปุพฺพสทิโสว ธมฺมาภิสมโย อโหสีติ ฯ  
+<span class="LineNumber"> 016 </span>		กปฺปมาณวสุตฺตนิทฺเทสวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 017 </span>					ทสมํ ฯ  
+<span class="LineNumber"> 018 </span># ๑. ม. อปรมฏิคาคทีปวิรหิตํ ฯ  ๒. ม. ปทฺธคูติ ฯ ๓. ม. สิสฺสา ฯ
+<span class="LineNumber"> 019 </span># ๔. ม. ปาเส ฯ ๕. ม. อกุสลานํ ธมฺมานํ ฯ  ๖. ม. ปาปชนํ ฯ 
+<span class="LineNumber"> 020 </span># ๗. ม. ...ปุคฺคลานํ ฯ

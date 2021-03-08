@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  42   นิทานกถา  หน้า  66
+
+<span class="LineNumber"> 002 </span>นาครุกฺโข  โพธิ  สรีรํ  อสีติหตฺถุพฺเพธํ  อโหสิ  อายุ  สฏฺ€ิ 
+<span class="LineNumber"> 003 </span>วสฺสสหสฺสานีติ ฯ  
+<span class="LineNumber"> 004 </span>	สุมนสฺส อปเรน   เรวโต นาม นายโก  
+<span class="LineNumber"> 005 </span>	อนูปโม อสทิโส   อตุโล อุตฺตโม ชิโนติ ฯ (๑)
+<span class="LineNumber"> 006 </span>	ตสฺส  อปรภาเค  โสภิโต  นาม  สตฺถา  อุทปาทิ ฯ  
+<span class="LineNumber"> 007 </span>ตสฺสาปิ  ตโย  สาวกสนฺนิปาตา ฯ  ป€มสนฺนิปาเต  โกฏิสตํ (๒)
+<span class="LineNumber"> 008 </span>ภิกฺขู  อเหสุํ  ทุติเย  นวุติโกฏิโย  ตติเย  อสีติโกฏิโย ฯ ตทา  
+<span class="LineNumber"> 009 </span>โพธิสตฺโต  อชิโต  นาม  พฺราหฺมโณ  หุตฺวา  สตฺถุ  ธมฺมเทสนํ  
+<span class="LineNumber"> 010 </span>สุตฺวา  สรเณสุ  ปติฏฺ€าย  พุทฺธปฺปมุขสฺส  ภิกฺขุสงฺฆสฺส  มหาทานํ  
+<span class="LineNumber"> 011 </span>อทาสิ ฯ  โสปิ  นํ  พุทฺโธ  ภวิสฺสตีติ  พฺยากาสิ ฯ  ตสฺส  
+<span class="LineNumber"> 012 </span>ปน  ภควโต  นครํ  สุธมฺมํ  นาม  อโหสิ  ปิตา  สุธมฺโม  
+<span class="LineNumber"> 013 </span>นาม  ราชา  มาตาปิ  สุธมฺมา  นาม  เทวี  อสโม  จ  สุเนตฺโต  
+<span class="LineNumber"> 014 </span>จ  เทฺว  อคฺคสาวกา  อโนโม  นามุปฏฺ€าโก  นกุลา  จ  สุชาตา  
+<span class="LineNumber"> 015 </span>จ  เทฺว  อคฺคสาวิกา  นาครุกฺโข  โพธิ  อฏฺ€ปณฺณาสหตฺถุพฺเพธํ  
+<span class="LineNumber"> 016 </span>สรีรํ  อโหสิ  นวุติ วสฺสสหสฺสานิ อายุปฺปมาณนฺติ ฯ  
+<span class="LineNumber"> 017 </span>	เรวตสฺส อปเรน   โสภิโต นาม นายโก  
+<span class="LineNumber"> 018 </span>	สมาหิโต สนฺตจิตฺโต  อสโม อปฺปฏิปุคฺคโลติ ฯ(๓)  
+<span class="LineNumber"> 019 </span>	ตสฺส  อปรภาเค  เอกํ  อสงฺเขยฺยํ  อติกฺกมิตฺวา  เอกสฺมึ  
+<span class="LineNumber"> 020 </span>กปฺเป  ตโย  พุทฺธา  นิพฺพตฺตึสุ  อโนมทสฺสี  ปทุโม  นารโทติ ฯ  
+<span class="LineNumber"> 021 </span>#  ๑ ขุ. พุทฺธ.  ๓๓/๖/๔๕๓ ฯ   ๒. ยุ. โกฏิสตสหสฺสํ ฯ
+<span class="LineNumber"> 022 </span># ๓ ขุ. พุทฺธ.  ๓๓/๗/๔๕๘ ฯ  

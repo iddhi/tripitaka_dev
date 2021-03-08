@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           คำว่า   <B>บุคคลย่อมไม่จุติ   ไม่อุปบัติแม้ต่อจากลำดับแห่งวิญ-
+<span class="LineNumber"> 002 </span>ญาณ ๕ นั้น</B>   คือ   บุคคลมิได้จุติ   มิได้<B>อุปบัติ</B>   แม้ด้วยมโนธาตุ   ต่อจาก
+<span class="LineNumber"> 003 </span>ลำดับแห่งวิญญาณ ๕.
+<span class="LineNumber"> 004 </span>           คำว่า  <B>บุคคลย่อมไม่หลับ  ไม่ตื่น ไม่ฝัน ด้วยวิญญาณ ๕ นั้น</B>
+<span class="LineNumber"> 005 </span>คือ  บุคคลมิได้หลับ  มิได้ตื่น  มิได้ฝัน  ด้วยวิญญาณ ๕.
+<span class="LineNumber"> 006 </span>           คำว่า  <B>บุคคลย่อมไม่หลับ   ไม่ตื่น  ไม่ฝัน   แม้ต่อจากลำดับ
+<span class="LineNumber"> 007 </span>แห่งวิญญาณ ๕  นั้น</B>   คือ  บุคคลมิได้หลับ   มิได้ตื่น   มิได้ฝัน   แม้ด้วย 
+<span class="LineNumber"> 008 </span>มโนธาตุต่อจากลำดับแห่งวิญญาณ ๕.
+<span class="LineNumber"> 009 </span>           ความรู้เรื่องวิญญาณ ๕ ดังกล่าวมานี้   ชื่อว่า   ปัญญาที่แสดงเรื่องของ
+<span class="LineNumber"> 010 </span>วิญญาณ  ๕ ตามความเป็นจริง.  <B>ญาณวัตถุ  หมวดละ ๑</B> ย่อมมีด้วยประการ
+<span class="LineNumber"> 011 </span>ฉะนี้.
+
+<span class="LineNumber"> 012 </span>                                           <H1>ทุกนิทเทส</H1>
+<span class="LineNumber"> 013 </span>           [๘๐๓]  ปัญญาในกุศลธรรมและอัพยากตธรรมในภูมิ ๓ ชื่อว่า<B>โลกิย-
+<span class="LineNumber"> 014 </span>ปัญญา.</B>  ปัญญาในมรรค ๔ ผล ๔ ชื่อว่า <B>โลกุตตรปัญญา.</B>
+<span class="LineNumber"> 015 </span>           ปัญญาทั้งหมด ชื่อว่า <B>เกนจิวิญเญยยปัญญา</B> และ <B>เกนจินวิญเญยย-
+<span class="LineNumber"> 016 </span>ปัญญา.</B>
+<span class="LineNumber"> 017 </span>           ปัญญาในกุศลธรรมและอัพยากตธรรมในภูมิ ๓ ชื่อว่า  <B>สาสวปัญญา</B>
+<span class="LineNumber"> 018 </span>ปัญญาในมรรค ๔ ผล ๔ ชื่อว่า  <B>อนาสวปัญญา.</B>
+<span class="LineNumber"> 019 </span>           ปัญญาในกุศลธรรมและอัพยากตธรรมในภูมิ ๓ ชื่อว่า    <B>อาสววิปป-
+<span class="LineNumber"> 020 </span>ยุตตสาสวปัญญา</B>    ปัญญาในมรรค ๔  ผล ๔ ชื่อว่า     <B>อาสววิปปยุตต-
+<span class="LineNumber"> 021 </span>อนาสวปัญญา.</B>

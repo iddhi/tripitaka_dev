@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่  30  ทุกนิปาเต  อุปาหนวคฺควณฺณนา  หน้า  356
+
+<span class="LineNumber"> 002 </span>โส  หฺตีติ  โส  เอวรูโป  ปุคฺคโล  าตีนฺจ  สขานฺจ  
+<span class="LineNumber"> 003 </span>มชฺเฌปิ [๑] วิกณฺณเกน  วิทฺโธ  มจฺฉานุโค  สสสุมาโร  วิย  ปฺจ 
+<span class="LineNumber"> 004 </span>กามคุเณ  มนาปาติ  คเหตฺวา  หฺติ วิหฺติ (๒) กิลมติ 
+<span class="LineNumber"> 005 </span>มหาวินาสํ ปาปุณาติ เยวาติ ฯ  
+<span class="LineNumber"> 006 </span>	เอวํ  สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  สจฺจานิ  
+<span class="LineNumber"> 007 </span>ปกาเสตฺวา  ชาตกํ  สโมธาสิ ฯ  สจฺจปริโยสาเน  อุกฺกณฺ€ิต-
+<span class="LineNumber"> 008 </span>ภิกฺขุ  โสตาปตฺติผเล  ปติฏฺ€หิ ฯ ตทา สุํสุมาโร  เทวทตฺโต
+<span class="LineNumber"> 009 </span>อโหสิ มจฺฉา พุทฺธปริสา พาราณสิราชา ปน อหเมวาติ ฯ  
+<span class="LineNumber"> 010 </span>			วิกณฺณกชาตกํ ตติยํ ฯ  
+
+<span class="LineNumber"> 011 </span>			อสิตาภุชาตกํ  (๓)
+<span class="LineNumber"> 012 </span>	ตฺวเมวทานิมการีติ  (๔) อิทํ  สตฺถา  เชตวเน  วิหรนฺโต
+<span class="LineNumber"> 013 </span>อฺตรํ  กุมาริกํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 014 </span>	สาวตฺถิยํ  กิเรกสฺมึ  ทฺวินฺนํ  อคฺคสาวกานํ  อุปฏฺ€ากกุเล 
+<span class="LineNumber"> 015 </span>เอกา  กุมาริกา  อภิรูปา  โสภคฺคปฺปตฺตา ฯ  สา  วยปฺปตฺตา 
+<span class="LineNumber"> 016 </span>สมานชาติกํ  กุลํ  อคมาสิ ฯ  สามิโก  ตํ  กิสฺมิฺจิ  อมฺมาโน 
+<span class="LineNumber"> 017 </span>อฺตฺถ  จิตฺตวเสน  จรติ ฯ  สา  ตสฺส  ตํ  อตฺตนิ  อนิจฺฉมานตํ (๕)
+<span class="LineNumber"> 018 </span>อคเณตฺวา  เทฺว  อคฺคสาวเก  นิมนฺเตตฺวา  ทานํ  ทตฺวา ธมฺมํ 
+<span class="LineNumber"> 019 </span># ๑. ม. เอตฺถนฺตเร โสติ ทิสิสติ ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. อสิตาภูชาตก... ฯ  ๔. ม. ตฺวเมวทานิมกราติ ฯ  เอวมุปริปิ ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. อนาทรตํ ฯ

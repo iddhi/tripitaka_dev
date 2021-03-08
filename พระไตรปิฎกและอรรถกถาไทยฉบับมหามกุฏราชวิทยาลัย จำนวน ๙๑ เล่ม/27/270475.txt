@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                  <H1>อรรถกถาโรโตสูตรที่  ๖</H1>   
+
+<span class="LineNumber"> 002 </span>           บทว่า  <B>กโรโต</B>  คือ  ทำด้วยมือของตนเอง. 
+<span class="LineNumber"> 003 </span>           บทว่า  <B>การยโต</B> คือ ให้เขาทำตามคำสั่ง (ใช้ให้ทำ).
+<span class="LineNumber"> 004 </span>           บทว่า <B>ฉินฺทโต</B> คือ ตัดอวัยะทั้งหลาย มีมือเป็นต้น ของบุคคลอื่น.
+<span class="LineNumber"> 005 </span>           บทว่า <B>เฉทาปยโต</B> คือ เบียดเบียนด้วยอาชญา.
+<span class="LineNumber"> 006 </span>           บทว่า  <B>โสจยโต</B>  ความว่า  ทำความเศร้าโศกแก่บุคคลอื่นเองก็ดี
+<span class="LineNumber"> 007 </span>ใช้ให้ผู้อื่นทำก็ดี ด้วยทุจริตกรรม มีลักของของบุคคลอื่นไปเป็นต้น. 
+<span class="LineNumber"> 008 </span>           บทว่า <B>กิลมโต</B> ความว่า ทำตัวเองให้ลำบากก็ดี ทำผู้อื่นให้ลำบาก
+<span class="LineNumber"> 009 </span>ก็ดี ด้วยการงดให้อาหาร และการถูกกักขังในเรือนจำเป็นต้น. 
+<span class="LineNumber"> 010 </span>           บทว่า    <B>ผนฺทโต    ผนฺทาปยโต</B>    ความว่า    ในเวลาเบียดเบียน
+<span class="LineNumber"> 011 </span>บุคคลอื่นผู้ดิ้นรนอยู่    ชื่อว่าทั้งทำตัวเองให้ดิ้นรน    ทั้งทำให้บุคคลอื่น
+<span class="LineNumber"> 012 </span>แม้นั้นดิ้นร้นด้วย.
+<span class="LineNumber"> 013 </span>           บทว่า  <B>ปาณมติปาตาปยโต</B>  ความว่า  ฆ่าสัตว์เองก็ดี  ใช้ให้ผู้อื่น
+<span class="LineNumber"> 014 </span>ฆ่าก็ดี.
+<span class="LineNumber"> 015 </span>           ในทุกๆบท     ก็พึงทราบความหมาย    ด้วยอำนาจเหตุแห่งการ
+<span class="LineNumber"> 016 </span>กระทำอย่างนี้แล.
+<span class="LineNumber"> 017 </span>           บทว่า  <B>สนฺธึ</B> ได้แก่  ที่ต่อของเรือน.
+<span class="LineNumber"> 018 </span>           บทว่า <B>นิลฺโลปํ</B>  ได้แก่ การปล้นสะดมใหญ่. 
+<span class="LineNumber"> 019 </span>           บทว่า  <B>เอกาคาริกํ</B> ได้แก่  การล้อมเรือนหลังเดียวแล้วปล้น.
+<span class="LineNumber"> 020 </span>           บทว่า  <B>ปริปนฺเถ</B>  ได้แก่    ดักอยู่ที่ทางหลวง  เพื่อตีชิงผู้คนที่ผ่าน
+<span class="LineNumber"> 021 </span>ไปผ่านมา

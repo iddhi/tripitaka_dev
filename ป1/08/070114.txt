@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>	๓.  ปัจจัยทั้ง ๗ คือ  <B>ทา,  ทานิ,  รหิ,  ธุนา,  ทาจนํ,  ชฺช,  ชฺชุ</B> 
+<span class="LineNumber"> 002 </span>พวกนี้สำหรับลงต่อท้ายสัพพนามอย่างเดียว  เมื่อต่อท้ายเข้าแล้ว  ใช้
+<span class="LineNumber"> 003 </span>เป็นเครื่องหมายสัตตมีวิภัตติ  ปัจจัยพวกนี้ ท่านกำหนดให้ลงในกาลคือ 
+<span class="LineNumber"> 004 </span>ให้ใช้เป็นเครื่องหมายบอกเวลาอย่างเดียว  ศัพท์ที่ประกอบ
+<span class="LineNumber"> 005 </span>ด้วยปัจจัย ๗ ตัวนี้  ทางสัมพันธ์เรียกว่า  [กาลสัตตมี]  ทั้งนั้น ดัง
+<span class="LineNumber"> 006 </span>อุทาหรณ์ต่อไปนี้  :-
+<span class="LineNumber"> 007 </span>   ศัพท์เดิม               ปัจจัย             รูปสำเร็จ               แปลว่า
+<span class="LineNumber"> 008 </span><B>สพฺพ                        ทา                  สพฺพทา</B>                  ในกาลทั้งปวง
+<span class="LineNumber"> 009 </span><B>สพฺพ                         ทา                  สทา</B>                       ในกาลทั้งปวง,  ทุกเมื่อ
+<span class="LineNumber"> 010 </span><B>เอก                           ทา                  เอกทา</B>                    ในกาลหนึ่ง,  บางที
+<span class="LineNumber"> 011 </span><B>ย                               ทา                  ยทา</B>                       ในกาลใด,  เมื่อใด
+<span class="LineNumber"> 012 </span><B>ต                               ทา                   ตทา</B>                      ในกาลนั้น,  เมื่อนั้น
+<span class="LineNumber"> 013 </span><B>กึ                                ทา                   กทา</B>                      ในกาลไร,  เมื่อไร
+<span class="LineNumber"> 014 </span><B>กึ                                ทา                    กทาจิ</B>                    ในกาลไหน  ๆ , บางคราว
+<span class="LineNumber"> 015 </span><B>อิม                              ทานิ                 อิทานิ</B>                    ในกาลนี้
+<span class="LineNumber"> 016 </span><B>อิม                               รหิ                   เอตรหิ</B><SUP>๑</SUP>                 ในกาลนี้,  เดี๋ยวนี้
+<span class="LineNumber"> 017 </span><B>กึ                                  รหิ                   กรหจิ</B>                     ในกาลไหนๆ, บางคราว
+<span class="LineNumber"> 018 </span><B>อิม                                ธุนา                 อธุนา</B>                     ในกาลนี้,  เมื่อกี้
+<span class="LineNumber"> 019 </span><B>กึ                                   ทาจนํ              กุทาจนํ</B>                   ในกาลไหน
+

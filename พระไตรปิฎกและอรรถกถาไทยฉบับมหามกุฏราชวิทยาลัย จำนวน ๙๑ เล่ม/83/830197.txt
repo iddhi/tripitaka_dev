@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>อรูปธาตุ   บุคคลเหล่านั้น   มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย  และก็ 
+<span class="LineNumber"> 002 </span>มีความนอนเนื่องอยู่ด้วยภวราคานุสัย   จากที่นั้น.
+<span class="LineNumber"> 003 </span>                       <I>จบ  ภวราคานุสยมูละ  อวิชชานุสยมูลี
+<span class="LineNumber"> 004 </span>                                     ภวราคานุสยมูล  จบ</I>
+<span class="LineNumber"> 005 </span>                                         <I>เอกมูลกะ  จบ</I>
+
+<span class="LineNumber"> 006 </span>                             <H1>กามราคานุสย - ปฏิฆานุสยมูล</H1>
+<span class="LineNumber"> 007 </span><H2>ทุกมูลกะ - กามราคานุสย - ปฏิฆานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 008 </span>         [๑๓๑๖]   บุคคลใดมีความนอนเนื่องอยู่ด้วยกามราคานุสัย  และ
+<span class="LineNumber"> 009 </span>ปฏิฆานุสัย    จากที่ใด,   บุคคลนั้นก็มีความนอนเนื่องอยู่ด้วยมานานุสัย
+<span class="LineNumber"> 010 </span>จากที่นั้น,  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ไม่มี.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า     บุคคลใดมีความนอนเนื่องอยู่ด้วยมานานุสัย    จาก
+<span class="LineNumber"> 013 </span>ที่ใด,   บุคคลนั้นก็มีความนอนเนื่องอยู่ด้วยกามราคานุสัย    และปฏิฆา-
+<span class="LineNumber"> 014 </span>นุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         พระอนาคามี    มีความนอนเนื่องอยู่ที่เวทนา  ๒  ในกามธาตุ  ที่
+<span class="LineNumber"> 016 </span>รูปธาตุ  อรูปธาตุ  พระอนาคามีนั้น  มีความนอนเนื่องอยู่ด้วยมานานุสัย

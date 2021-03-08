@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  35  โสณนนฺทชาตกํ  หน้า  195
+
+<span class="LineNumber"> 002 </span>สิริโสภคฺเคน  โพธิสตฺตํ  ขมาเปตุํ  อสฺสมํ  ปาวิสิ ฯ  อถ  นํ  ตถา  
+<span class="LineNumber"> 003 </span>อาคจฺฉนฺตํ  ปิตา ทิสฺวา โพธิสตฺตํ ปุจฺฉิ ฯ โสปิสฺส อาจิกฺขิ ฯ  
+<span class="LineNumber"> 004 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 005 </span>	[๑๔๘]ตฺจ ทิสฺวาน อายนฺตํ  ชลนฺตริว(๑) เตชสา  
+<span class="LineNumber"> 006 </span>	ขตฺตสงฺฆปริพฺยุฬฺหํ  โกสิโย เอตทพฺรวิ ฯ  
+<span class="LineNumber"> 007 </span>	กสฺส เภรี มุทิงฺคา จ  สงฺขา ปณวเทนฺทิมา(๒)  
+<span class="LineNumber"> 008 </span>	ปุรโต ปฏิปนฺนานิ  หาสยนฺตา รเถสภํ ฯ  
+<span class="LineNumber"> 009 </span>	กสฺส กฺจนปฏฺเฏน  ปุถุนา วิชฺชุวณฺณินา  
+<span class="LineNumber"> 010 </span>	ยุวา กลาปสนฺนทฺโธ  โก เอติ สิริยา ชลํ ฯ  
+<span class="LineNumber"> 011 </span>	อุกฺกามุขปหฏฺ€ํว  ขทิรงฺคารสนฺนิภํ  
+<span class="LineNumber"> 012 </span>	มุขฺจ รุจิราภาติ  โก เอติ สิริยา ชลํ ฯ  
+<span class="LineNumber"> 013 </span>	กสฺส ปคฺคหิตํ ฉตฺตํ  สสลากํ มโนรมํ  
+<span class="LineNumber"> 014 </span>	อาทิจฺจรํสาวรณํ  โก เอติ สิริยา ชลํ ฯ  
+<span class="LineNumber"> 015 </span>	กสฺส องฺคํ ปริคฺคยฺห  วาลวีชนิมุตฺตมํ  
+<span class="LineNumber"> 016 </span>	จรนฺติ วรปฺสฺส  หตฺถิกฺขนฺเธน อายโต ฯ  
+<span class="LineNumber"> 017 </span>	กสฺส เสตานิ ฉตฺตานิ  อาชานียา จ วมฺมิกา(๔)  
+<span class="LineNumber"> 018 </span>	สมนฺตา ปริกิรนฺติ  โก เอติ สิริยา ชลํ ฯ  
+<span class="LineNumber"> 019 </span>	กสฺส เอกสตํ ขตฺยา  อนุยนฺตา ยสสฺสิโน  
+<span class="LineNumber"> 020 </span>	สมนฺตา อนุปริยนฺติ  โก เอติ สิริยา ชลํ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ชลนฺตํริว ฯ  ๒. สี. ยุ. ปณเทณฺฑิมา  
+<span class="LineNumber"> 022 </span># ๓. ส. ม. วรปุฺสฺส ฯ  ๔. ม. วมฺมิตา ฯ

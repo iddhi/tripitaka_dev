@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                        ๒.  อสังกิเลสิกธรรมที่เป็นอัพยากตะ     อาศัยอสัง-  
+<span class="LineNumber"> 002 </span>กิเลสิกธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 003 </span>                    	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 004 </span>		[๗๔๐]  ในเหตุปัจจัย  มี ๒ วาระ    ในอารัมมณปัจจัย  มี  ๒ วาระ
+<span class="LineNumber"> 005 </span>ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 006 </span>            สหชาตวาระก็ดี   ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 007 </span>               		<H2>อสังกิเลสิกบทปัญหาวาระ</H2>
+<span class="LineNumber"> 008 </span>                 		        <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 009 </span>                    	           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>		[๗๔๑]  ๑.  อสังกิเลสิกธรรมที่เป็นกุศล     เป็นปัจจัยแก่อสัง-
+<span class="LineNumber"> 011 </span>กิเลสิกธรรมที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                        ๒.  อสังกิเลสิกธรรมที่เป็นอัพยากตะ    เป็นปัจจัยแก่
+<span class="LineNumber"> 013 </span>อสังกิเลสิกธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 014 </span>                             <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๗๔๒]  ๑.  อสังกิเลสิกธรรมที่เป็นอัพยากตะ    เป็นปัจจัยแก่
+<span class="LineNumber"> 016 </span>อสังกิเลสิกธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 017 </span>                        ๒.  อสังกิเลสิกธรรมที่เป็นอัพยากตะ    เป็นปัจจัยแก่
+<span class="LineNumber"> 018 </span>อสังกิเลสิกธรรมที่เป็นกุศล  ด้วยอำนาจของอารัมมณปัจจัย

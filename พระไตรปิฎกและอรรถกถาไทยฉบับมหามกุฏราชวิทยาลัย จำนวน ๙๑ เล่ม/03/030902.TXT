@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>บทภาชนีย์</H1>
+<span class="LineNumber"> 002 </span>                              <H2>จตุกกนิสสัคคิยปาจิตตีย์</H2>
+<span class="LineNumber"> 003 </span>        [๘๙]    สันถัตตนทำค้างไว้   ภิกษุทำต่อให้สำเร็จเอง   เป็นนิสสัคคีย์
+<span class="LineNumber"> 004 </span>ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 005 </span>         สันถัตตนทำค้างไว้    ภิกษุใช้ผู้อื่นทำต่อจนสำเร็จ   เป็นนิสสัคคีย์
+<span class="LineNumber"> 006 </span>ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 007 </span>        สันถัตคนอื่นทำค้างไว้    ภิกษุทำต่อให้สำเร็จเอง     เป็นนิสสัคคีย์
+<span class="LineNumber"> 008 </span>ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 009 </span>        สันถัตคนอื่นทำค้างไว้    ภิกษุใช้ผู้อื่นทำต่อจนสำเร็จ   เป็นนิสสัคคีย์
+<span class="LineNumber"> 010 </span>ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 011 </span>                                       <H1>อนาปัตติวาร</H1>
+<span class="LineNumber"> 012 </span>         [๙๐]  ครบ  ๖  ฝนแล้วภิกษุทำใหม่   ๑      เกิน ๖ ฝนแล้วภิกษุทำ
+<span class="LineNumber"> 013 </span>ใหม่ ๑  ภิกษุทำเองก็ดี   ใช้ผู้อื่นทำก็ดี   เพื่อใช้เป็นของอื่น  ๑   ภิกษุได้
+<span class="LineNumber"> 014 </span>สันถัตที่คนอื่นทำไว้แล้ว   ใช้สอย  ๑   ภิกษุทำเป็นเพดานก็ดี   เป็นเครื่อง
+<span class="LineNumber"> 015 </span>ลาดพื้นก็ดี     เป็นม่านก็ดี    เป็นเปลือกฟูกก็ดี    เป็นเปลือกหมอนก็ดี  ๑  
+<span class="LineNumber"> 016 </span>ภิกษุได้สมมติ  ๑   ภิกษุวิกลจริต  ๑  ภิกษุอาทิกัมมิกะ ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 017 </span>                           <I>โกสิยวรรค สิกขาบทที่  ๔  จบ</I>

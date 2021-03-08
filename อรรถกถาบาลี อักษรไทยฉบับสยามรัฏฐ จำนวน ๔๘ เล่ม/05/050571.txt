@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๕  มหาควฺควณฺณนา  หน้า  ๕๗๐
+
+<span class="LineNumber"> 002 </span>อาชีวฏฺ€มกสีลทสฺสนตฺถํ  วิสุํ  วุตฺตา ฯ  ตตฺถ  น  เสวิตพฺพ-
+<span class="LineNumber"> 003 </span>ปริเยสนา  อนริยปริเยสนายกเถตพฺพา ฯ  เสวิตพฺพปริเยสนา  
+<span class="LineNumber"> 004 </span>อริยปริเยสนาย ฯ  
+<span class="LineNumber"> 005 </span>	วุตฺตํ  เหตํ  เทฺวมา  ภิกฺขเว  ปริเยสนา  อนริยา  จ  
+<span class="LineNumber"> 006 </span>ปริเยสนา ฯ  อริยา  จ  ปริเยสนา ฯ  กตมา  จ  ภิกฺขเว  
+<span class="LineNumber"> 007 </span>อนริยปริเยสนา ฯ  อิธ  ภิกฺขเว  เอกจฺโจ  อตฺตนา  ชาติธมฺโม  
+<span class="LineNumber"> 008 </span>สมาโน  ชาติธมฺมํเยว  ปริเยสติ ฯ  อตฺตนา  ชราธมฺโม ฯ  พฺยาธิธมฺโม
+<span class="LineNumber"> 009 </span>มรณธมฺโม ฯ  โสกธมฺโม ฯ  สงฺกิเลสธมฺโม  สมาโน สงฺกิเลสธมฺมํเยว  
+<span class="LineNumber"> 010 </span>ปริเยสติ ฯ
+<span class="LineNumber"> 011 </span>	กิฺจ  ภิกฺขเว  ชาติธมฺมํ  วเทถ ฯ  ปุตฺตภริยํ  ภิกฺขเว  
+<span class="LineNumber"> 012 </span>ชาติธมฺมํ ฯ  ทาสีทาสํ  ชาติธมฺมํ ฯ  อเชฬกํ  ชาติธมฺมํ ฯ  กุกฺกุฏสูกรํ  
+<span class="LineNumber"> 013 </span>ชาติธมฺมํ ฯ  หตฺถิควาสฺสวฬวํ(๑)  ชาติธมฺมํ ฯ  ชาตรูปรชตํ  ชาติธมฺมํ 
+<span class="LineNumber"> 014 </span>ฯ  ชาติธมฺมา  เหเต  ภิกฺขเว  อุปธโย ฯ  เอตฺถายํ  คธิโต  (๒)มุจฺฉิโต  
+<span class="LineNumber"> 015 </span>อชฺฌาปนฺโน  อตฺตนา  ชาติธมฺโม  สมาโน  ชาติธมฺมํเยว  
+<span class="LineNumber"> 016 </span>ปริเยสติ ฯ  
+<span class="LineNumber"> 017 </span>	กิฺจ  ภิกฺขเว  ชราธมฺมํ  วเทถ ฯ  ปุตฺตภริยํ  ภิกฺขเว  
+<span class="LineNumber"> 018 </span>ชราธมฺมํ ฯเป ฯ  ชราธมฺมํเยว  ปริเยสติ ฯ  
+<span class="LineNumber"> 019 </span>	กิฺจ  ภิกฺขเว  พฺยาธิธมฺมํ  วเทถ ฯ  ปุตฺตภริยํ  ภิกฺขเว  
+<span class="LineNumber"> 020 </span>พฺยาธิธมฺมํ ฯเป ฯ  พฺยาธิธมฺมํเยว  ปริเยสติ ฯ  
+<span class="LineNumber"> 021 </span>#  ๑.  ม.  หตฺถิควาสฺสวฬวํ  ๒.  ม.  ยุ.  คถิโต ฯ

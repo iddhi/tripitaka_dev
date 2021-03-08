@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                             อภิธัมมัตถสังคหบาลีแปล
+<span class="LineNumber"> 002 </span>                       [ปริเฉทที่ ๑ ชื่อจิตตสังคหวิภาค<SUP>*</SUP>]
+<span class="LineNumber"> 003 </span>                     ขอความนอบน้อมจงมีแด่พระรัตนตรัย
+<span class="LineNumber"> 004 </span>                               อภิธัมมัตถสังคหบาลี
+<span class="LineNumber"> 005 </span>                                คาสถาเริ่มต้นปกรณ์
+<span class="LineNumber"> 006 </span>              <B>ข้าพเจ้า  (ชื่ออนุรุทธาจารย์)  ขอถวายอภิวาท   
+<span class="LineNumber"> 007 </span>              พระสัมมาสัมพุทธเจ้า  ผู้มีพระภาคอันชั่งไม่ได้
+<span class="LineNumber"> 008 </span>              พร้อมทั้งพระสัทธรรมและหมู่แห่งพระอริยสงฆ์อัน
+<span class="LineNumber"> 009 </span>              สูงสุดแล้ว  จักกล่าวปกรณ์อภิธัมมัตถสังคหะ ฯ
+<span class="LineNumber"> 010 </span>              อรรถแห่งพระอภิธรรม  อันพระผู้มีพระภาคเจ้าตรัส
+<span class="LineNumber"> 011 </span>              ไว้ในพระอภิธรรมนั้น  โดยปรมัตถ์ทุกประการ
+<span class="LineNumber"> 012 </span>              มี   ๔   อย่าง   คือ   จิต   ๑   เจตสิก   ๑  รูป  ๑
+<span class="LineNumber"> 013 </span>              นิพพาน ๑  ฯ</B>
+<span class='footnote'>*  พระมหาแพร  กมฺมสาโร  ป.  ธ.  ๙ วัดเขมาภิรตาราม  นนทบุรี  แปล.</span>

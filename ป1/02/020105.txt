@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	ปัจจัยทั้งหลาย  คือ  ตฺร  ตฺถ  ห  ธ  ธิ  หึ  หํ  หิญฺจนํ  ว  เป็น  
+<span class="LineNumber"> 002 </span>เครื่องหมาย  สตฺตมีวิภัตติ  แปลตาม  สตฺตมี  ดังนี้:-  
+<span class="LineNumber"> 003 </span>สพฺพตฺร		ใน-ทั้งปวง		อตฺถ 	ใน-นี้
+<span class="LineNumber"> 004 </span>สพฺพตฺถ		 "	 "			เอกตฺร	ใน-เดียว
+<span class="LineNumber"> 005 </span>สพฺพธิ		 "      "			เอกตฺถ	 "      "
+<span class="LineNumber"> 006 </span>อญฺตฺร		ใน-อื่น			อุภยตฺร	ใน-สอง
+<span class="LineNumber"> 007 </span>อญฺตฺถ		 "     "			อภยตฺถ	"       "
+<span class="LineNumber"> 008 </span>ยตฺร			ใน-ใด			เอตฺถ	ใน-นี้
+<span class="LineNumber"> 009 </span>ยตฺถ			 "     "			อิธ		"	"
+<span class="LineNumber"> 010 </span>ยหึ			 "     "			อิห		"	"
+<span class="LineNumber"> 011 </span>ยหํ			 "     "			กุตฺร		ใน-ไหน
+<span class="LineNumber"> 012 </span>ตตฺร			ใน-นั้น			กตฺถ		"	"
+<span class="LineNumber"> 013 </span>ตตฺถ			 "     "			กุหึ		"	"
+<span class="LineNumber"> 014 </span>ตหึ			 "     "			กุหํ		"	"
+<span class="LineNumber"> 015 </span>ตหํ			 "     "			กุหิญฺจนํ	"	"
+<span class="LineNumber"> 016 </span>อตฺร			ใน-นี้			กฺว		"	"
+
+<span class="LineNumber"> 017 </span>	ปัจจัยทั้งหลาย  คือ  ทา  ทานิ  รหิ  ธุนา  ทาจนํ  ชฺช  ชฺชุ  เป็น
+<span class="LineNumber"> 018 </span>เครื่องหมาย  สตฺตมีวิภัตติ  ลงในกาล  ดังนี้  :-
+
+

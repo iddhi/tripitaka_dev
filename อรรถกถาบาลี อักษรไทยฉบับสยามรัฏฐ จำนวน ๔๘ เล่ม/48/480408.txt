@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  408
+
+<span class="LineNumber"> 002 </span>		ทกฺขิณาวิสุทฺธิกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  ทกฺขิณาวิสุทฺธิกถา  นาม  โหติ ฯ  ตตฺถ  ยทิ 
+<span class="LineNumber"> 004 </span>ปฏิคฺคาหกโต  ทกฺขิณา  วิสุชฺเฌยฺย  มหปฺผลา  ภเวยฺย ฯ  ทายเกน
+<span class="LineNumber"> 005 </span>ทานํ  ทินฺนํ ปฏิคฺคาหเกน  วิปาโก  นิพฺพตฺติโตติ  อฺโ
+<span class="LineNumber"> 006 </span>อฺสฺส  การโก  ภเวยฺย  ปรกตํ  (๑)  สุขทุกฺขํ  อาปชฺเชยฺย  อฺโ
+<span class="LineNumber"> 007 </span>กเรยฺย  อฺโ  ปฏิสํเวเทยฺย  ตสฺมา  ทายกโตว  ทานํ  วิสุชฺฌติ
+<span class="LineNumber"> 008 </span>โน  ปฏิคฺคาหกโต  ทายกสฺเสว  (๒)  จิตฺตวิสุทฺธิ  วิปากทายิกา
+<span class="LineNumber"> 009 </span>โหตีติ  เยสํ  ลทฺธิ  เสยฺยถาปิ  อุตฺตราปถกานํ  เต  สนฺธาย
+<span class="LineNumber"> 010 </span>ปุจฺฉา สกวาทิสฺส ปฏิฺา  อิตรสฺส ฯ  อาหุเนยฺยาติอาทิ 
+<span class="LineNumber"> 011 </span>ยทิ  ปฏิคฺคาหกโต  ทานํ  น  วิสุชฺเฌยฺย กิมสฺส  อาหุเนยฺยาทิ-
+<span class="LineNumber"> 012 </span>ภาโว  กเรยฺยาติ  ทสฺสนตฺถํ  วุตฺตํ ฯ อฺโ อฺสฺส การโกติ
+<span class="LineNumber"> 013 </span>ยทิ  ทายกสฺส  ทานเจตนา  ปฏิคฺคาหเกน  กตา  ภเวยฺย  ยุตฺตรูปํ
+<span class="LineNumber"> 014 </span>สิยา ฯ  ตสฺส  ปน  ทานเจตนา  ปริสุทฺธา  ปฏิคฺคาหกสงฺขาตํ 
+<span class="LineNumber"> 015 </span>วตฺถุํ  ปฏิจฺจ  มหาวิปากฏฺเ€น  วิสุชฺฌติ ตสฺมา อโจทนา เอสา
+<span class="LineNumber"> 016 </span>ปฏิคฺคาหกโต (๓) ทานํ วิสุชฺฌตีติ ฯ 
+<span class="LineNumber"> 017 </span>		ทกฺขิณาวิสุทฺธิกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 018 </span>		สตฺตรสโม วคฺโค สมตฺโต ฯ 
+<span class="LineNumber"> 019 </span># ๑. ม. ปรํกตํ ฯ  ๒. สี. ทายกสฺเสเวตฺถ ฯ
+<span class="LineNumber"> 020 </span># ๓. สี. ปฏิคฺคาหกโตปิ ฯ

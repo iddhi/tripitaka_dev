@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 40    หน้า 56 
+
+<span class="LineNumber"> 002 </span>			ตีรณฏฺ€าณุทฺเทสวณฺณนา
+<span class="LineNumber"> 003 </span>	ปริฺาปฺาติ  ชานนปฺา ฯ  สา  หิ  พฺยาปนฏฺเ€น 
+<span class="LineNumber"> 004 </span>ปริสทฺเทน  อนิจฺจาทิสามฺลกฺขณวเสน  สกิจฺจสมาปนวเสน 
+<span class="LineNumber"> 005 </span>วา  พฺยาปิตํ  ชานนนฺติ  กตฺวา  ปริฺาติ วุจฺจติ ฯ ตีรณฏฺเ€
+<span class="LineNumber"> 006 </span>าณนฺติ อุปปริกฺขณสภาวํ สมฺมสนภาวํ วา าณํ ฯ  
+<span class="LineNumber"> 007 </span>		ตีรณฏฺ€าณุทฺเทสวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 008 </span>			ปริจฺจาคฏฺ€าณุทฺเทสวณฺณนา
+<span class="LineNumber"> 009 </span>	ปหาเน  ปฺาติ  นิจฺจสฺาทีนํ  ปชหนา  ปฺา  
+<span class="LineNumber"> 010 </span>ปชหตีติ  วา  ปชหนฺติ เอเตนาติ วา ปหานํ ฯ ปริจฺจาคฏฺเ€ 
+<span class="LineNumber"> 011 </span>าณนฺติ ปริจฺจชนสภาวํ าณํ ฯ  
+<span class="LineNumber"> 012 </span>		ปริจฺจาคฏฺ€าณุทฺเทสวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 013 </span>			เอกรสฏฺ€าณุทฺเทสวณฺณนา
+<span class="LineNumber"> 014 </span>	ภาวนาปฺาติ  วฑฺฒนปฺา ฯ  เอกรสฏฺเ€  าณนฺติ
+<span class="LineNumber"> 015 </span>เอกกิจฺจสภาวํ  าณํ วิมุตฺติรเสน วา เอกรสภาวํ าณํ ฯ  
+<span class="LineNumber"> 016 </span>		เอกรสฏฺ€าณุทฺเทสวณฺณนา นิฏฺ€ิตา ฯ 

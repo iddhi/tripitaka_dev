@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  440
+	
+<span class="LineNumber"> 002 </span>		จนฺทํว วิมลํ สุทฺธํ		วิปฺปสนฺนมนาวิลํ  
+<span class="LineNumber"> 003 </span>		นนฺทิราคปริกฺขีณํ (๑)	ติณฺณํ โลเก วิสตฺติกํ ฯ  
+<span class="LineNumber"> 004 </span>		นิพฺพาปยนฺตํ ชนตํ	ติณฺณํ ตารยตํ วรํ (๒) 
+<span class="LineNumber"> 005 </span>		มุนึ วนมฺหิ ฌายนฺตํ(๓)	เอกคฺคํ สุสมาหิตํ ฯ  
+<span class="LineNumber"> 006 </span>		พนฺธุชีวกปุปฺผานิ		ลคิตฺวา (๔) สุตฺตเกนหํ(๕)  
+<span class="LineNumber"> 007 </span>		พุทฺธสฺส อภิโรปยึ		สิขิโน โลกพนฺธุโน ฯ  
+<span class="LineNumber"> 008 </span>		เอกตึเส อิโต กปฺเป	ยํ กมฺมมกรึ ตทา  
+<span class="LineNumber"> 009 </span>		ทุคฺคตึ นาภิชานามิ	พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 010 </span>		อิโต สตฺตมเก กปฺเป	มนุชินฺโท มหายโส  
+<span class="LineNumber"> 011 </span>		สมนฺตจกฺขุนามาสิ(๖)	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 012 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	อรหตฺตํ  ปน ปตฺวา อตฺตนา อธิคตํ วิมุตฺติสุขํ นิสฺสาย 
+<span class="LineNumber"> 014 </span>อุปฺปนฺนปีติโสมนสฺโส อุทานวเสน  
+<span class="LineNumber"> 015 </span>		สมฺมปฺปธานสมฺปนฺโน	สติปฏฺ€านโคจโร  
+<span class="LineNumber"> 016 </span>		วิมุตฺติกุสุมสฺฉนฺโน	ปรินิพฺพิสฺสตฺยนาสโวติ (๗)  
+<span class="LineNumber"> 017 </span>คาถํ อภาสิ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  สมฺมปฺปธานสมฺปนฺโนติ  สมฺปนฺนจตุพฺพิธสมฺมปฺปธาโน
+<span class="LineNumber"> 019 </span># ๑. สฺยา. นนฺทิภวปริกฺขีณํ ฯ ๒. สฺยา. มุนึ ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. วนสฺมึ ฌายมานนฺตํ ฯ  ๔. ม. ลเคตฺวา ฯ 
+<span class="LineNumber"> 021 </span># ๕. สฺยา. ลคฺคิตฺวา สุตฺตเก อหํ ฯ ๖. สฺยา. สมนฺตจกฺขุ นามาสึ ฯ 
+<span class="LineNumber"> 022 </span># ๗. สฺยา. สี. ปรินิพฺพายิสฺสตฺยนาสโวติ ฯ  ขุ. เถร. ๒๖/๒๓๗/๒๘๒ ฯ 

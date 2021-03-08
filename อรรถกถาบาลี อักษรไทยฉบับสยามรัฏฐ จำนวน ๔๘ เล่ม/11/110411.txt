@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑  หน้า  ๔๑๑
+
+<span class="LineNumber"> 002 </span>				กาลตฺตยอนิจฺจสุตฺตวณฺณนา          
+<span class="LineNumber"> 003 </span>	นวเม  โก  ปน  วาโท  ปจฺจุปฺปนฺนสฺสาติ  ปจฺจุปฺปนฺนมฺปิ  
+<span class="LineNumber"> 004 </span>กถาว  กา  อนิจฺจเมว  ตํ ฯ  เต  ภิกฺขู  อตีตานาคตํ  
+<span class="LineNumber"> 005 </span>อนิจฺจนฺติ  สลฺลกฺเขตฺวา ปจฺจุปฺปนฺเน  กิลมึสุ  อถ  เนสํ  อิโต 
+<span class="LineNumber"> 006 </span>อตีตานาคเตปิ  (๑)  ปจฺจุปฺปนฺนํ อนิจฺจนฺติ  วุจฺจมาเน  (๒)  พุชฺฌิสฺสนฺตีติ 
+<span class="LineNumber"> 007 </span>อชฺฌาสยํ  วิทิตฺวา  สตฺถา ปุคฺคลชฺฌาสเยน อิมํ ธมฺมเทสนํ 
+<span class="LineNumber"> 008 </span>เทเสสิ ฯ 
+<span class="LineNumber"> 009 </span>				นวมํ ฯ           
+
+<span class="LineNumber"> 010 </span>				กาลตฺตยทุกฺขสุตฺตาทิวณฺณนา         
+<span class="LineNumber"> 011 </span>	ทสเมกาทสมานิ  ทุกฺขํ  อนตฺตาติ  ปเทหิ  วิเสเสตฺวา  
+<span class="LineNumber"> 012 </span>ตถารูเปเนว  ปุคฺคลชฺฌาสเยน กถิตานีติ ฯ 
+<span class="LineNumber"> 013 </span>				ทสเมกาทสมานิ ฯ           
+<span class="LineNumber"> 014 </span>				นกุลปิตุวคฺโค ป€โม ฯ          
+<span class="LineNumber"> 015 </span># ๑. สี. อตีตานาคตโตปิ ฯ  กตฺถจิ อตีตานาคโตปีติ ทิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span># ๒. กตฺถจิ วุจฺจมาโนติ ทิสฺสติ ฯ

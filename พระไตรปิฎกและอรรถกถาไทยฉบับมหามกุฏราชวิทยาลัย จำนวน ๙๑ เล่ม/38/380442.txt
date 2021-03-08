@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                  <H3>รวมพระสูตรที่มีในวรรคนี้</H3>
+<span class="LineNumber"> 002 </span>๑. ปฐมปัจโจโรหณีสูตร  ๒. ทุติยปัจโจโรหณีสูตร  ๓. สคารวสูตร
+<span class="LineNumber"> 003 </span>๔. โอริมสูตร  ๕. ปฐมอธรรมสูตร  ๖. ทุติยอธรรมสูตร  ๗.  ตติย- 
+<span class="LineNumber"> 004 </span>อธรรมสูตร  ๘. ติวิธสูตร  ๙. สปริกกมนสูตร  ๑๐. จุนทสูตร
+<span class="LineNumber"> 005 </span>๑๑. ชาณุสโสณีสูตร

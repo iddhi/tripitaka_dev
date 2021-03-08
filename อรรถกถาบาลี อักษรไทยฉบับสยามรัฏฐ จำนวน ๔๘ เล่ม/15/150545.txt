@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๕    หน้า ๕๔๕
+
+<span class="LineNumber"> 002 </span>		ตติยปณฺณาสกวณฺณนา   
+<span class="LineNumber"> 003 </span>		สมณสฺาสุตฺตวณฺณนา   
+<span class="LineNumber"> 004 </span>	ตติยสฺส  ป€เม  สมณสฺาติ  สมณานํ  อุปฺปชฺชนก-
+<span class="LineNumber"> 005 </span>สฺา ฯ สตตการีติ (๑)  นิรนฺตรการี ฯ  อพฺยาปชฺโฌติ นิทฺทุกฺโข ฯ
+<span class="LineNumber"> 006 </span>อิจฺจตฺถนฺติสฺส (๒) โหตีติ อิทมตฺถํ อิเม ปจฺจยาติ  เอวมสฺส  
+<span class="LineNumber"> 007 </span>ชีวิตปริกฺขาเรสุ  โหติ  ปจฺจเวกฺขิตปริโภคํ  ปริภุฺชตีติ อตฺโถ ฯ 
+<span class="LineNumber"> 008 </span>			ปฐมํ ฯ
+<span class="LineNumber"> 009 </span>	ทุติยํ อุตฺตานตฺถเมว ฯ    
+<span class="LineNumber"> 010 </span>				ปฐมํ ฯ
+<span class="LineNumber"> 011 </span>	ตติเย  วิราธนา  โหตีติ  สคฺคโต  จ มคฺคโต จ วิรชฺฌนํ 
+<span class="LineNumber"> 012 </span>โหติ ฯ โน  อาราธนาติ น สมฺปาทนา น ปริปูรการิตา 
+<span class="LineNumber"> 013 </span>โหติ ฯ ปโหตีติ ปวตฺตติ ฯ  
+<span class="LineNumber"> 014 </span>				ตติยํ ฯ
+<span class="LineNumber"> 015 </span>	จตุตฺเถ  ยถาทิฏฺ€ิสมตฺตํ  สมาทินฺนนฺติ  ทิฏฺ€านุรูเปน 
+<span class="LineNumber"> 016 </span>ปริปุณฺณํ สมาทินฺนํ  สกลํ  คหิตํ ฯ เจตนาติ ตีสุ ทฺวาเรสุ 
+<span class="LineNumber"> 017 </span>นิพฺพตฺติตเจตนาว คหิตา ฯ ปตฺถนาติ เอวรูโป  สิยนฺติ  เอวํ  
+<span class="LineNumber"> 018 </span>ปฏฺฐิตปฏฺฐนา(๓) ฯ  ปณิธีติ  เทโว วา ภวิสฺสามิ เทวฺตโร 
+<span class="LineNumber"> 019 </span>วาติ จิตฺตฏฺ€ปนา ฯ  สงฺขาราติ  สมฺปยุตฺตสงฺขารา ฯ  
+<span class="LineNumber"> 020 </span>			จตุตฺถํ ฯ
+<span class="LineNumber"> 021 </span>#๑. ม. สนฺตตการีติ ฯ  ๒. ม. อิทมตฺถํ ติสฺส โหตีติ ฯ
+<span class="LineNumber"> 022 </span>#๓. ม. ปฏฺฐนา ฯ

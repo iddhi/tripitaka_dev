@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>มานานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>มานานุสยมูละ  ทิฏฐานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 003 </span>         [๑๓๘๙]   บุคคลใด   ไม่ละมานานุสัย,  บุคคลนั้น ไม่ละทิฏฐา-
+<span class="LineNumber"> 004 </span>นุสัย  ฯลฯ   วิจิกิจฉานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         บุคคลที่  ๘  ไม่ละมานานุสัย   แต่บุคคลที่  ๘ นั้น  ไม่ใช่ย่อม
+<span class="LineNumber"> 006 </span>ไม่ละวิจิกิจฉานุสัย,    บุคคลทั้งหลายที่เหลือ  เว้นบุคคลผู้มีความพร้อม
+<span class="LineNumber"> 007 </span>เพรียงด้วยอนาคามิมรรค  และบุคคลที่  ๘  ไม่ละมานานุสัย   และไม่ละ
+<span class="LineNumber"> 008 </span>วิจิกิจฉานุสัย.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า  บุคคลใด  ไม่ละวิจิกิจฉานุสัย   บุคคลนั้น   ย่อมไม่ละ
+<span class="LineNumber"> 010 </span>มานานุสัย    ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         บุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรค  ไม่ละวิจิกิจฉานุสัย
+<span class="LineNumber"> 012 </span>แต่บุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรคนั้น       ไม่ใช่ย่อมไม่ละ
+<span class="LineNumber"> 013 </span>มานานุสัย,     บุคคลทั้งหลายที่เหลือ    เว้นบุคคลผู้มีความพร้อมเพรียง
+<span class="LineNumber"> 014 </span>ด้วยอรหัตมรรค       และบุคคลที่   ๘  ไม่ละวิจิกิจฉานุสัย     และไม่ละ
+<span class="LineNumber"> 015 </span>มานานุสัย.
+<span class="LineNumber"> 016 </span>                      <I>จบ  มานานุสยมูละ  ทิฏฐานุสยาทิมูลี</I>

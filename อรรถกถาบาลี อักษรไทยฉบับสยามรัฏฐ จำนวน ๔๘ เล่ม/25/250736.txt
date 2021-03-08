@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  736
+	
+<span class="LineNumber"> 002 </span>		โย เม อทาสิ (๑)เภสชฺชํ  พฺยาธิฺจ สมยี มม  
+<span class="LineNumber"> 003 </span>		ตมหํ กิตฺตยิสฺสามิ		สุณาถ มม ภาสโต ฯ  
+<span class="LineNumber"> 004 </span>		กปฺปสตสหสฺสานิ		เทวโลเก รมิสฺสติ  
+<span class="LineNumber"> 005 </span>		วาทิเต ตูริเย ตตฺถ		โมทิสฺสติ สทา อยํ ฯ (๒)  
+<span class="LineNumber"> 006 </span>		มนุสฺสโลกมาคนฺตฺวา	สุกฺกมูเลน โจทิโต  
+<span class="LineNumber"> 007 </span>		สหสฺสกฺขตฺตุํ ราชา จ	จกฺกวตฺตี ภวิสฺสติ ฯ  
+<span class="LineNumber"> 008 </span>		ปฺจปฺาสกปฺปมฺหิ	อโนมิ  นาม(๓) ขตฺติโย  
+<span class="LineNumber"> 009 </span>		จาตุรนฺโต วิชิตาวี		ชมฺพุทีปสฺส (๔) อิสฺสโร ฯ  
+<span class="LineNumber"> 010 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล  
+<span class="LineNumber"> 011 </span>		ตาวตึเสปิ(๕) โขเภตฺวา	อิสฺสรํ การยิสฺสติ ฯ  
+<span class="LineNumber"> 012 </span>		เทวภูโต มนุสฺโส วา	อปฺปาพาโธ ภวิสฺสติ  
+<span class="LineNumber"> 013 </span>		ปริคฺคหํ (๖) วิวชฺเชตฺวา	พฺยาธึ โลเก ตริสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>		อปริเมยฺเย อิโต กปฺเป	โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 015 </span>		โคตโม นาม โคตฺเตน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		ตสฺส ธมฺเมสุ ทายาโท	โอรโส ธมฺมนิมฺมิโต  
+<span class="LineNumber"> 017 </span>		สพฺพาสเว ปริฺาย	นิพฺพายิสฺสตินาสโว ฯ  
+<span class="LineNumber"> 018 </span>		กิเลเส ฌาปยิตฺวาน	ตณฺหาโสตํ (๗) ตริสฺสติ  
+<span class="LineNumber"> 019 </span>		พกฺกุโล นาม นาเมน	เหสฺสติ สตฺถุ สาวโก ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. อทาสิ ฯ  ๒. สี. สทาสยํ ฯ  ๓. สฺยา. อโนมิ นาม ฯ
+<span class="LineNumber"> 021 </span># สี. อรเนมี นาม ฯ ๔. สฺยา. ชมฺพูทีปสฺส ฯ ยุ. ชมฺพุสณฺฑสฺส ฯ
+<span class="LineNumber"> 022 </span># ๕. สฺยา. ตาวตึเสหิ ฯ ยุ. ตาวตึเสโต ฯ   ๖. สฺยา. ปริทาหํ ฯ 
+<span class="LineNumber"> 023 </span># ๗. สี. กงฺขาโสตํ ฯ 

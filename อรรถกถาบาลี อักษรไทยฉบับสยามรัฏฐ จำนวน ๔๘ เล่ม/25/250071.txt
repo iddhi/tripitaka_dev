@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค กงฺขาเรวตตฺเถรคาถาวณฺณนา หน้า 71
+
+<span class="LineNumber"> 002 </span>ปฏุตรชาโล สมุชฺชโล (๑)  อุจฺจาสเน  (๒)  €ิตานํ  โอภาสทานมตฺเตน
+<span class="LineNumber"> 003 </span>อนฺธการํ  วิธมิตฺวา สมวิสมํ วิภาเวนฺโต อาโลกทโท  โหติ  
+<span class="LineNumber"> 004 </span>อจฺจาสนฺเน  ปน €ิตานํ ตํ  (๓) สุปากฏํ กโรนฺโต จกฺขุกิจฺจกรณโต  
+<span class="LineNumber"> 005 </span>จกฺขุทโท  นาม  โหติ  เอวเมว  (๔)  ตถาคตา  อตฺตโน  ธมฺมกายสฺส
+<span class="LineNumber"> 006 </span>ทูเร €ิตานํ  อกตาธิการานํ  ปฺาปชฺโชเตน  โมหนฺธการํ  
+<span class="LineNumber"> 007 </span>วิธมิตฺวา  กายสมกายวิสมาทิสมวิสมํ (๕)  วิภาเวนฺโต  อาโลกทา 
+<span class="LineNumber"> 008 </span>ภวนฺติ  อาสนฺเน  €ิตานํ  ปน  กตาธิการานํ  ธมฺมจกฺขุํ  
+<span class="LineNumber"> 009 </span>อุปฺปาเทนฺโต  จกฺขุททา  ภวนฺติ ฯ 
+<span class="LineNumber"> 010 </span>	เย  เอวํภูตา  อตฺตโน  วจีโคจรํ  อาคตานํ  มาทิสานมฺปิ 
+<span class="LineNumber"> 011 </span>กงฺขาพหุลานํ  กงฺขํ  วินยนฺติ  อริยมคฺคสมุปฺปาทเนน วิธมนฺติ 
+<span class="LineNumber"> 012 </span>เตสํ ตถาคตานํ  ปฺํ  าณาติสยํ  ปสฺสาติ  โยชนา ฯ  เอวมยํ 
+<span class="LineNumber"> 013 </span>เถรสฺส  อตฺตโน  กงฺขาวิตรณปฺปกาสเนน  อฺาพฺยากรณคาถาปิ 
+<span class="LineNumber"> 014 </span>โหติ ฯ  
+<span class="LineNumber"> 015 </span>	อยํ  หิ  เถโร  ปุถุชฺชนกาเล  กปฺปิเยปิ  กุกฺกุจฺจโก  หุตฺวา 
+<span class="LineNumber"> 016 </span>กงฺขาพหุลตาย  กงฺขาเรวโตติ  ปฺาโต  ปจฺฉา ขีณาสวกาเลปิ 
+<span class="LineNumber"> 017 </span>ตเถว  โวหริยิตฺถ ฯ  (๖)  
+<span class="LineNumber"> 018 </span>	เตนาห  อิตฺถํ  สุทํ อายสฺมา กงฺขาเรวโต  คาถํ 
+<span class="LineNumber"> 019 </span>อภาสิตฺถาติ ฯ ตํ วุตฺตตฺถเมว ฯ  
+<span class="LineNumber"> 020 </span>		กงฺขาเรวตตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. สมุชฺชลํ ฯ  ๒. สี. อจฺจาสนฺเน ฯ  ๓. สี. อยํ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๔. สี. เอวเมวํ ฯ ๕. ม. กายวิสมาทิสมวิสมํ ฯ 
+<span class="LineNumber"> 023 </span># ๖. สี. โวหริตฺถ ฯ  ม. โวหรยิตฺถ ฯ 

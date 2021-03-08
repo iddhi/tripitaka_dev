@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๕๙๗]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                          <H2>อาสววิปปยุตตอนาสวบท</H2>
+<span class="LineNumber"> 007 </span>           [๕๙๘] ๑.  <B>ธรรมที่เป็นอาสววิปปยุตตะ  แต่ไม่ใช่อนาสวธรรม
+<span class="LineNumber"> 008 </span>ที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม    อาศัยธรรมที่เป็นอาสววิปปยุตต-
+<span class="LineNumber"> 009 </span>อนาสวธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                       ๒.  <B>ธรรมที่เป็นอาสววิปปยุตตะ  แต่ไม่ใช่อนาสว-
+<span class="LineNumber"> 011 </span>ธรรม   ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม    อาศัยธรรมที่เป็นอาสว-
+<span class="LineNumber"> 012 </span>วิปปยุตตอนาสวธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 013 </span>เหตุปัจจัย ฯลฯ</B>
+<span class="LineNumber"> 014 </span>                       ๖.  <B>ธรรมที่เป็นอาสววิปปยุตตะ  แต่ไม่ใช่อนาสวธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม     และธรรมที่เป็นอาสววิปปยุตตะ
+<span class="LineNumber"> 016 </span>แต่ไม่ใช่อนาสวธรรม  ที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม  อาศัยธรรม
+<span class="LineNumber"> 017 </span>ที่เป็นอาสววิปปยุตตอนาสวธรรม ที่เป็นอนิทัสสนอัปปฏิฆธรรม เกิด
+<span class="LineNumber"> 018 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 019 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 020 </span>           [๕๙๙]  ในเหตุปัจจัย  มี ๖ วาระ  ฯลฯ
+<span class="LineNumber"> 021 </span>                          <I>สนิทัสสนติกอาสววิปปยุตตสาสวทุกะ</I>
+<span class="LineNumber"> 022 </span>                  <I>นสนิทัสสนติกนอาสววิปปยุตตนสาสวทุกะ  จบ</I>

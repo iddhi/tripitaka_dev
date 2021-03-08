@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>ในอัตถิปัจจัย มี ๙ วาระ  ในนัตถิปัจจัย มี ๓ วาระ  ในวิคตปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 002 </span>ในอวิคตปัจจัย มี ๙ วาระ. 
+<span class="LineNumber"> 003 </span>                                       <I>อนุโลมนัย  จบ</I> 
+
+<span class="LineNumber"> 004 </span>                                          <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 005 </span>                                       <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           [๒๖๔] ๑.  <B>รูปีธรรม   อาศัยรูปีธรรม   เกิดขึ้น   เพราะนเหตุ
+<span class="LineNumber"> 007 </span>ปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ  มหาภูตรูป ๓ อาศัยมหาภูตรูป ๑ ฯลฯ.
+<span class="LineNumber"> 009 </span>           ส่วนอสัญญสัตว์ทั้งหลาย  มหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 010 </span>                       ๒.  <B>อรูปีธรรม  อาศัยรูปีธรรม  เกิดขึ้น  เพราะนเหตุ
+<span class="LineNumber"> 011 </span>ปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ    จักขุวิญญาณ    อาศัยจักขายตนะ ฯลฯ    กายวิญญาณ    อาศัย
+<span class="LineNumber"> 013 </span>กายายตนะ.   ขันธ์ทั้งหลายที่เป็นอรูปีธรรม   ซึ่งเป็นอเหตุกะ   อาศัยหทยวัตถุ.
+<span class="LineNumber"> 014 </span>           ในอเหตุกปฏิสนธิขณะ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา ที่สหรคตด้วย
+<span class="LineNumber"> 015 </span>อุทธัจจะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 016 </span>                       ๓.  <B>รูปีธรรม  และอรูปีธรรม อาศัยรูปีธรรม  เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะนเหตุปัจจัย</B>  พึงกระทำปวัตติ  ปฏิสนธิ.
+<span class="LineNumber"> 018 </span>                       ๔.  <B>อรูปีธรรม  อาศัยอรูปีธรรม เกิดขึ้น เพราะนเหตุ
+<span class="LineNumber"> 019 </span>ปัจจัย</B>
+<span class="LineNumber"> 020 </span>           คือ ฯลฯ  อาศัยขันธ์ ๑  ที่เป็นอรูปีธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ

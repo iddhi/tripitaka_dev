@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         	                            <h2>บทภาชนีย์</h2>             
+<span class="LineNumber"> 002 </span>                                            <H2>จตุกปาจิตตีย์</H2>
+<span class="LineNumber"> 003 </span>              [๗๕๓]   กล่องเข็ม   ตนทำค้างไว้    แล้วทำต่อจนสำเร็จ    ต้องอาบัติ
+<span class="LineNumber"> 004 </span>              กล่องเข็ม    ตนทำค้างไว้    แล้วใช้ผู้อื่นทำต่อจนสำเร็จ     ต้องอาบัติ
+<span class="LineNumber"> 005 </span>ปาจิตตีย์. 
+<span class="LineNumber"> 006 </span>              กล่องเข็ม     ผู้อื่นทำค้างไว้     ใช้ผู้อื่นให้ทำต่อจนสำเร็จ    ต้องอาบัติ
+<span class="LineNumber"> 007 </span>ปาจิตตีย์.
+<span class="LineNumber"> 008 </span>             กล่องเข็ม    ผู้อื่นทำค้างไว้     ใช้ผู้อื่นให้ทำต่อจนสำเร็จ      ต้องอาบัติ
+<span class="LineNumber"> 009 </span>ปาจิตตีย์.
+<span class="LineNumber"> 010 </span>		                            <H2>ทุกกะทุกกฏ</H2>
+<span class="LineNumber"> 011 </span>              ภิกษุทำเองก็ดี ใช้ผู้อื่นทำก็ดี      เพื่อประโยชน์แก่ผู้อื่น ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 012 </span>              ภิกษุได้กล่องเข็มอันคนอื่นทำไว้มาใช้สอย   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 013 </span>                                             <h2> อนาปัตติวาร</h2>
+<span class="LineNumber"> 014 </span>              [๗๕๔]  ทำลูกดุม ๑  ทำตะบันไฟ ๑  ทำลูกถวิน ๑  ทำกลักยาคา ๑
+<span class="LineNumber"> 015 </span>ทำไม้ป้ายยาตา ๑  ทำฝักมีด  ๑   ทำธมกรก ๑   ภิกษุวิกลจริต ๑   ภิกษุอาทิ-
+<span class="LineNumber"> 016 </span>กัมมิกะ ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 017 </span>                                        <I>รตนวรรค  สิกขาบทที่  ๔</I>

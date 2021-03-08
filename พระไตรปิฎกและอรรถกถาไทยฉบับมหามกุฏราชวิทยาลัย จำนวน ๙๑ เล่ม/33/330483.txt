@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                             <H2>สันถาวรรคที่  ๔</H2>
+
+<span class="LineNumber"> 002 </span>                                         <H3>สูตรที่  ๑</H3>
+
+<span class="LineNumber"> 003 </span>         [๓๙๖]   ๑๕๐.  ดูก่อนภิกษุทั้งหลาย  สันถาร ๒ อย่างนี้   ๒  อย่าง
+<span class="LineNumber"> 004 </span>เป็นไฉน  คือ  อามิสสันถาร ๑    ธรรมสันถาร  ๑    ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 005 </span>สันถาร ๒ อย่างนี้แล    ดูก่อนภิกษุทั้งหลาย     บรรดาสันถาร ๒ อย่างนี้ 
+<span class="LineNumber"> 006 </span>ธรรมสันถารเป็นเลิศ.
+<span class="LineNumber"> 007 </span>                                                       จบสูตรที่  ๑
+
+<span class="LineNumber"> 008 </span>                                           <H3>สูตรที่  ๒</H3>
+
+<span class="LineNumber"> 009 </span>         [๓๙๗]   ๑๕๑.  ดูก่อนภิกษุทั้งหลาย       ปฏิสันถาร ๒ อย่างนี้ 
+<span class="LineNumber"> 010 </span>๒  อย่างเป็นไฉน  คือ  อามิสปฏิสันถาร   ๑   ธรรมปฏิสันถาร ๑   ดูก่อน
+<span class="LineNumber"> 011 </span>ภิกษุทั้งหลาย  ปฏิสันถาร ๒ อย่างนี้แล    ดูก่อนภิกษุทั้งหลาย   บรรดา
+<span class="LineNumber"> 012 </span>ปฏิสันถาร  ๒  อย่างนี้    ธรรมปฏิสันถารเป็นเลิศ.
+<span class="LineNumber"> 013 </span>                                                     จบสูตรที่   ๒
+
+<span class="LineNumber"> 014 </span>                                              <H3>สูตรที่ ๓</H3>
+
+<span class="LineNumber"> 015 </span>         [๓๙๘] ๑๕๒.  ดูก่อนภิกษุทั้งหลาย  เอสนา ๒ อย่างนี้  ๒ อย่าง
+<span class="LineNumber"> 016 </span>เป็นไฉน  คือ  อามิสเอสนา การเสาะหาอามิส  ๑  ธรรมเอสนา การเสาะหา
+<span class="LineNumber"> 017 </span>ธรรม ๑  ดูก่อนภิกษุทั้งหลาย  เอสนา   ๒  อย่างนี้แล  ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 018 </span>บรรดาเอสนา  ๒  อย่างนี้   ธรรมเอสนาเป็นเลิศ.
+<span class="LineNumber"> 019 </span>                                                     จบสูตรที่   ๓

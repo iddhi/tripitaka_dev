@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  หน้า  ๓๒๕
+
+<span class="LineNumber"> 002 </span>		ลาภสกฺการสํยุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>			ทารุณสุตฺตวณฺณนา           
+<span class="LineNumber"> 004 </span>	ลาภสกฺการสํยุตฺตสฺส  ป€เม  ทารุโณติ  ถทฺโธ ฯ  ลาภ-
+<span class="LineNumber"> 005 </span>สกฺการสิโลโกติ  เอตฺถ  ลาโภ  นาม  จตุปจฺจยลาโภ ฯ  สกฺกาโรติ 
+<span class="LineNumber"> 006 </span>เตสํเยว  สุกตานํ  สุสงฺขตานํ  ลาโภ ฯ  สิโลโกติ  วณฺณโฆโส ฯ  
+<span class="LineNumber"> 007 </span>กฏุโกติ  ติขิโณ ฯ  ผรุโสติ  ขโร ฯ  อนฺตรายิโกติ  อนฺตรายกโร ฯ 
+<span class="LineNumber"> 008 </span>			ป€มํ ฯ                  
+
+<span class="LineNumber"> 009 </span>		พฬิสสุตฺตวณฺณนา            
+<span class="LineNumber"> 010 </span>	ทุติเย  พาฬิสิโกติ  พฬิสํ  คเหตฺวา  จรมาโน  มจฺฉ-
+<span class="LineNumber"> 011 </span>ฆาตโก ฯ  อามิสคตนฺติ อามิสมกฺขิตํ ฯ อามิสจกฺขูติ อามิเส 
+<span class="LineNumber"> 012 </span>จกฺขุ ทสฺสนํ อสฺสาติ อามิสจกฺขุ ฯ คิลพฬิโสติ  คิลิตพฬิโส ฯ 
+<span class="LineNumber"> 013 </span>อนยํ  อาปนฺโนติ  ทุกฺขํ  ปตฺโต ฯ  พฺยสนํ  อาปนฺโนติ วินาสํ 
+<span class="LineNumber"> 014 </span>ปตฺโต ฯ  ยถากามกรณีโยติ  ยถากาเมน  ยถารุจิยา  ยเถว  (๑)  นํ 
+<span class="LineNumber"> 015 </span>พาฬิสิโก  อิจฺฉติ  ตเถวสฺส  กตฺตพฺโพติ  อตฺโถ ฯ  ยถากามกรณีโย 
+<span class="LineNumber"> 016 </span>ปาปิมโตติ(๒)  ยถา  กิเลสมารสฺส  กาโม  เอวํ  กตฺตพฺโพ  นิรยํ 
+<span class="LineNumber"> 017 </span>วา ติรจฺฉานโยนึ วา เปตวิสยํ  วา  ปาเปตพฺโพ ฯ 
+<span class="LineNumber"> 018 </span>			ทุติยํ ฯ                  
+<span class="LineNumber"> 019 </span># ๑. สี. ยถา วา ฯ  ๒. ม. ยุ. เปตฺติวิสยํ ฯ เอวมุปริปิ ฯ

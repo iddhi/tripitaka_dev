@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๑ ที่เป็นเสกขธรรมซึ่งเป็นวิบาก  เป็นปัจจัยแก่ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 002 </span>           ใน  <B>เสกขมูลกะ</B>  มี ๓ วาระ.
+<span class="LineNumber"> 003 </span>           [๑๒๘๖]  ๔.  <B>อเสกขธรรม  เป็นปัจจัยแก่อเสกขธรรม  ด้วย
+<span class="LineNumber"> 004 </span>อำนาจของวิปากปัจจัย</B>  
+<span class="LineNumber"> 005 </span>           คือ  ขันธ์ ๑ ที่เป็นอเสกขธรรม  เป็นปัจจัยแก่ขันธ์ ๓ ฯลฯ
+<span class="LineNumber"> 006 </span>           ใน  <B>อเสกขมูลกะ</B>  มี ๓ วาระ.
+<span class="LineNumber"> 007 </span>           [๑๒๘๗]  ๗.  <B>เนวเสกขานาเสกขธรรม  เป็นปัจจัยแก่เนวเสก-
+<span class="LineNumber"> 008 </span>ขานาเสกขธรรม  ด้วยอำนาจของวิปากปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  ขันธ์ ๑ ที่เป็นเนวเสกขานาเสกขธรรม  ซึ่งเป็นวิบาก  เป็นปัจจัย
+<span class="LineNumber"> 010 </span>แก่ขันธ์ ๓ ฯลฯ
+<span class="LineNumber"> 011 </span>           ในปฏิสนธิขณะ  ขันธ์ทั้งหลาย  เป็นปัจจัยแก่หทยวัตถุ  ด้วยอำนาจ
+<span class="LineNumber"> 012 </span>ของวิปากปัจจัย.
+
+<span class="LineNumber"> 013 </span>                   <H1>๑๕.  อาหารปัจจัย ฯลฯ  ๑๙.  สัมปยุตตปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๑๒๘๘]  <B>เสกขธรรม  เป็นปัจจัยแก่เสกขธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>อาหารปัจจัย เป็นปัจจัย  ด้วยอำนาจของอินทริยปัจจัย  เป็นปัจจัย  ด้วย
+<span class="LineNumber"> 016 </span>อำนาจของฌานปัจจัย  เป็นปัจจัย  ด้วยอำนาจของมัคคปัจจัย  เป็นปัจจัย
+<span class="LineNumber"> 017 </span>ด้วยอำนาจของสัมปยุตตปัจจัย.</B>
+ 
+  

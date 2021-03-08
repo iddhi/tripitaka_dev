@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>นางนาค    ไม่พึงรับแพะ   ไม่พึงรับไก่และสุกร   ไม่พึงรับช้าง   โค   ม้า 
+<span class="LineNumber"> 002 </span>และลา  ฯลฯ   ไม่พึงรับนกกระทา   นกกระจาบ   และนกยูง   หรือ ?
+<span class="LineNumber"> 003 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. บุคคลผู้มีทิฏฐิสมบัติ    ละทุคคติได้   และบุคคลผู้มีทิฏฐิ-
+<span class="LineNumber"> 005 </span>สมบัติ   ไม่พึงรับนกกระทา  นกกระจาบ  และนกยูง  หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>         [๑๕๑๑]   ป. ไม่พึงกล่าวว่า  บุคคลผู้มีทิฏฐิสมบัติ   ละทุคคติได้    หรือ ?
+<span class="LineNumber"> 008 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                        ป. บุคคลผู้มีทิฏฐิสมบัติ   พึงเข้าถึงนรก   ฯลฯ  พึงเข้าถึง
+<span class="LineNumber"> 010 </span>กำเนิดดิรัจฉาน ฯลฯ  พึงเข้าถึงภูมิแห่งเปรต  หรือ ?
+<span class="LineNumber"> 011 </span>                        ส. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 012 </span>                        ป. ถ้าอย่างนั้น    บุคคลผู้มีทิฏฐิสมบัติ   ก็ละทุคคติได้  น่ะสิ.
+<span class="LineNumber"> 013 </span>                                     <I>ทุคคติกถา  จบ</I>
+
+<span class="LineNumber"> 014 </span>                            <H2>อรรถกถาทุคคติกถา</H2>
+
+<span class="LineNumber"> 015 </span>                                 <H2>ว่าด้วย  ทุคคติ</H2><SUP>๑</SUP>
+
+<span class="LineNumber"> 016 </span>         บัดนี้   ชื่อว่าเรื่องทุคคติ.    ในเรื่องนั้น   ชนเหล่าใดถือเอาทุคคติแม้
+<span class="LineNumber"> 017 </span>ทั้ง  ๒  คือ  ทุคคติ   ๑  ตัณหาอันมีรูปเป็นต้นเป็นอารมณ์ของทุคคติสัตว์   ๑
+<span class="LineNumber"> 018 </span>เพราะไม่จำแนกประเภทอย่างนั้น    จึงกล่าวว่า    บุคคลผู้มีทิฏฐิสมบัติละ
+
+<span class='footnote'>๑. คำว่า  ทุคคติมี  ๒  คือ  ทุคคติ  และตัณหาที่มีรูปเป็นต้นเป็นอารมณ์  คือหมายความว่า  ตัณหานั้นมี</span>
+<span class='footnote'>ชื่อว่า  ทุคคติ  ด้วย.</span>

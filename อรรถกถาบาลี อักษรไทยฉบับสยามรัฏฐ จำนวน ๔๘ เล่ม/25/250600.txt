@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  600
+	
+<span class="LineNumber"> 002 </span>		สตานํ ปฺจกฺขตฺตุฺจ	จกฺกวตฺตี อโหสหํ  
+<span class="LineNumber"> 003 </span>		อเนกสตกฺขตฺตุฺจ	เทวรชฺชมการยึ ฯ  
+<span class="LineNumber"> 004 </span>		อวเสเสสุ กปฺเปสุ		โวกิณฺโณ(๑) สํสรึ อหํ  
+<span class="LineNumber"> 005 </span>		ทุคฺคตึ นาภิชานามิ	อุปฺปาทสฺส อิทํ ผลํ ฯ  
+<span class="LineNumber"> 006 </span>		ยถา โกมุทิเก มาเส	พหู ปุปฺผานิ(๒) ปาทปา  
+<span class="LineNumber"> 007 </span>		ตเถวาหมฺปิ สมเย		ปุปฺผิโตมฺหิ มเหสินา(๓) ฯ  
+<span class="LineNumber"> 008 </span>		วีริยํ เม ธุรโธรยฺหํ		โยคกฺเขมาธิวาหนํ  
+<span class="LineNumber"> 009 </span>		นาโคว พนฺธนํ เฉตฺวา	วิหรามิ อนาสโว ฯ  
+<span class="LineNumber"> 010 </span>		สตสหสฺสิโต กปฺเป	ยํ พุทฺธมภิกิตฺตยึ  
+<span class="LineNumber"> 011 </span>		ทุคฺคตึ นาภิชานามิ	กิตฺตนาย อิทํ ผลํ ฯ  
+<span class="LineNumber"> 012 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	ฉฬภิฺํ  หิ  สมานํ  อายสฺมนฺตํ  สิริมตฺเถรํ อริโยติ 
+<span class="LineNumber"> 014 </span>อชานนฺตา ปุถุชฺชนา ภิกฺขู  สามเณรา  จ  อปฺปลาภิตาย 
+<span class="LineNumber"> 015 </span>โลกสฺส  อนภิคตภาเวน  (๔)  อสมฺภาเวนฺตา  ยํ  กิฺจิ  กเถตฺวา 
+<span class="LineNumber"> 016 </span>ครหนฺติ ฯ  สิริวฑฺฒตฺเถรํ  ปน  ปจฺจยานํ  ลาภิภาเวน  โลกสฺส 
+<span class="LineNumber"> 017 </span>สกฺกตครุกตภาวโต  สมฺภาเวนฺตา  ปสํสนฺติ ฯ  
+<span class="LineNumber"> 018 </span>	เถโร  อวณฺณารหสฺส  นาม  วณฺณภณนํ  วณฺณาหรสฺส  
+<span class="LineNumber"> 019 </span># ๑. สฺยา. โวกิณฺณํ ฯ  ๒. สฺยา. ปุปฺผนฺติ ฯ  ๓. ยุ. มเหสิโน ฯ 
+<span class="LineNumber"> 020 </span># ๔. สี. อสมฺภาวิตภาเวน ฯ  ยุ. อนภิรติภาเวน ฯ

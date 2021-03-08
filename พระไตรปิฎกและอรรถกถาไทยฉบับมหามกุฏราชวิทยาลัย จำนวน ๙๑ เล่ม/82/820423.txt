@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลที่เกิดอยู่ในอสัญญสัตตภูมินั้น  มนายตนะไม่ใช่จักเกิดแก่ 
+<span class="LineNumber"> 002 </span>บุคคลเหล่านั้นในภูมินั้น    แต่ธัมมายตนะจักเกิดแก่บุคคลเหล่านั้นในภูมิ
+<span class="LineNumber"> 003 </span>นั้น,   ปัจฉิมภวิกบุคคลเหล่านั้นเกิดอยู่    มนายตนะไม่ใช่จักเกิด    และ
+<span class="LineNumber"> 004 </span>ธัมมายตนะก็ไม่ใช่จักเกิดแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   ธัมมายตนะไม่ใช่จักเกิดแก่บุคคลใดในภูมิใด,   มนา-
+<span class="LineNumber"> 006 </span>ยตนะจักเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                          <I>จบ  มนายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 009 </span>                                       <I>มนายตนมูล  จบ</I>
+<span class="LineNumber"> 010 </span>                                   <I>ปุคคโลกาสวาระ   จบ</I>
+<span class="LineNumber"> 011 </span>                                <I>อนาคตวาระ  ปัจจนิก  จบ</I>

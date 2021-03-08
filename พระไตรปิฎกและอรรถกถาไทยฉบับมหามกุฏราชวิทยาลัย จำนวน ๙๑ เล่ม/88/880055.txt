@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                     ๔.  <B>อเหตุกธรรม  อาศัยอเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 002 </span>อธิปติปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           คือ ฯลฯ มหาภูตรูป   ฯลฯ
+<span class="LineNumber"> 004 </span>           จิตตสมุฏฐานรูป  ที่เป็นอุปาทารูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 005 </span>                     ๕.  <B>อเหตุกธรรม อาศัยสเหตุกธรรม  และอเหตุกธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ   จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นสเหตุกธรรม    และ
+<span class="LineNumber"> 008 </span>มหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 009 </span>                 <H1>๔. อนันตรปัจจัย  ฯลฯ   ๕.  สมนันตรปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๔๒] ๑.  <B>สเหตุกธรรม  อาศัยสเหตุกธรรม  เกิดขึ้น   เพราะ
+<span class="LineNumber"> 011 </span>อนันตรปัจจัย</B>
+<span class="LineNumber"> 012 </span>           <B>ฯลฯ   เพราะสมนันตรปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                                    <H1>๖.  สหชาตปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๔๓] ๑.  <B>สเหตุกธรรม    อาศัยสเหตุกธรรมเกิดขึ้น    เพราะ
+<span class="LineNumber"> 015 </span>สหชาตปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  ขันธ์ ๓ อาศัย  ขันธ์ ๑ ที่เป็นสเหตุกธรรม.  ฯลฯ
+<span class="LineNumber"> 017 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 018 </span>                     ๒.  <B>อเหตุกธรรม  อาศัยสเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 019 </span>สหชาตปัจจัย</B>

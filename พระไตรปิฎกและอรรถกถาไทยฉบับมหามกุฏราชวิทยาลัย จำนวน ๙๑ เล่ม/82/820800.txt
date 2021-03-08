@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>สุทธธาตุวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>         [๘๐๗]   ธรรมที่ชื่อว่าจักขุ,  ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าธาตุ,    ชื่อว่าจักขุธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         จักขุธาตุชื่อว่าธาตุด้วย   ชื่อว่าจักขุธาตุด้วย,     ธาตุที่เหลือชื่อว่า
+<span class="LineNumber"> 006 </span>ธาตุ   แต่ไม่ชื่อว่าจักขุธาตุ.
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าโสต,  ชื่อว่าธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ฆานะ ฯ ล ฯ  ชิวหา.  กายะ.  รูปะ. สัททะ.  คันธะ.  รสะ.
+<span class="LineNumber"> 010 </span>โผฏฐัพพะ.
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าจักขุวิญญาณ,   ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าธาตุ,   ชื่อว่าจักขุวิญญาณ  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         จักขุวิญญาณธาตุ   ชื่อว่า    ธาตุด้วย   ชื่อว่า   จักขุวิญญาณธาตุ
+<span class="LineNumber"> 015 </span>ด้วย,    ธาตุที่เหลือ   ชื่อว่า    แต่ไม่ชื่อว่าจักขุวิญญาณธาตุ.
+<span class="LineNumber"> 016 </span>         โสตวิญญาณ ฯลฯ ฆานวิญญาณ. ชิวหาวิญญาณ. กายวิญญาณ.

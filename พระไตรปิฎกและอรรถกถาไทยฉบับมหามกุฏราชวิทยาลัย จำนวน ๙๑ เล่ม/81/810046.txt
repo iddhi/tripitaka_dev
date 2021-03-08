@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>สัมปยุตตกถา</H1> 
+ 
+<span class="LineNumber"> 002 </span>         [๑๑๓๔]  <B>สกวาที</B> ธรรมบางเหล่า   ที่สัมปยุตด้วยธรรมบางเหล่า
+<span class="LineNumber"> 003 </span>ไม่มีหรือ ? 
+<span class="LineNumber"> 004 </span>                         <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                         ส. ธรรมบางเหล่า  ที่สหรคต  เกิดร่วม  ระคน เกิดกับดับ
+<span class="LineNumber"> 006 </span>พร้อม    มีวัตถุอันเดียวกัน    มีอารมณ์อันเดียวกันกับด้วยธรรมบางเหล่า
+<span class="LineNumber"> 007 </span>มีอยู่   มิใช่หรือ ?
+<span class="LineNumber"> 008 </span>                         ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                         ส. หากว่า  ธรรมบางเหล่า  ที่สหรคต  เกิดร่วม  ระคน
+<span class="LineNumber"> 010 </span>เกิดกับดับพร้อม    มีวัตถุอันเดียวกัน    มีอารมณ์อันเดียวกันกับด้วยธรรม
+<span class="LineNumber"> 011 </span>บางเหล่า   มีอยู่ก็ต้องไม่กล่าวว่า ธรรมบางเหล่า ที่สัมปยุตด้วยธรรมบางเหล่า
+<span class="LineNumber"> 012 </span>ไม่มี.
+<span class="LineNumber"> 013 </span>         [๑๑๓๕]   ส. เวทนาขันธ์เกิดร่วมกับสัญญาขันธ์ หรือ ?
+<span class="LineNumber"> 014 </span>                         ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                         ส. หากว่า เวทนาขันธ์ เกิดร่วมกับสัญญาขันธ์  ด้วยเหตุ
+<span class="LineNumber"> 016 </span>นั้นนะ ท่านจึงต้องกล่าวว่า เวทนาขันธ์สัมปยุตด้วยสัญญาขันธ์.
+<span class="LineNumber"> 017 </span>                         ส. เวทนาขันธ์ เกิดร่วมกับสังขารขันธ์  กับวิญญาณขันธ์
+<span class="LineNumber"> 018 </span>หรือ ?
+<span class="LineNumber"> 019 </span>                         ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                         ส. หากว่า  เวทนาขันธ์  เกิดร่วมกับวิญญาณขันธ์   ด้วย
+<span class="LineNumber"> 021 </span>เหตุนั้นนะท่านจึงต้องกล่าวว่า เวทนาขันธ์ สัมปยุตด้วยวิญญาณขันธ์.
+<span class="LineNumber"> 022 </span>                         ส. สัญญาขันธ์   สังขารขันธ์   วิญญาณขันธ์  เกิดร่วมกับ

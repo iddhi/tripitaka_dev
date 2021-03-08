@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ถ.   มีมูลเท่าไร                                                 
+<span class="LineNumber"> 002 </span>           ต.  มีมูล ๑  คือ  สงฆ์
+<span class="LineNumber"> 003 </span>           ถ.   กิจเกิดด้วยอาการเท่าไร
+<span class="LineNumber"> 004 </span>           ต.  กิจเกิดด้วยอาการ ๒  คือ  ด้วยญัตติ ๑  ด้วยอุปโลกน์  ๑ 
+<span class="LineNumber"> 005 </span>           ถ.  กิจจาธิกรณ์ระงับด้วยสมถะเท่าไร                                     
+<span class="LineNumber"> 006 </span>           ต.  กิจจาธิกรณ์ระงับด้วยสมถะอย่างหนึ่ง  คือ  ด้วยสัมมุขาวินัย.
+<span class="LineNumber"> 007 </span>           [๘๘๙]   ถามว่า   สมถะ   มีเท่าไร
+<span class="LineNumber"> 008 </span>           ตอบว่า  สมถะมี  ๗  คือ  สัมมุขาวินัย  สติวินัย  อมูฬหวินัย  ปฏิญ-
+<span class="LineNumber"> 009 </span>ญาตกรณะ   เยภุยยสิกา  ตัสสปาปิยสิกา  ติณวัตถารกะ  สมถะมี  ๗  เหล่านี้
+<span class="LineNumber"> 010 </span>           ถ.  บางทีสมถะ ๗  เหล่านี้   เป็นสมถะ  ๑๐  สมถะ  ๑๐  เป็นสมถะ ๗
+<span class="LineNumber"> 011 </span>ด้วยอำนาจวัตถุโดยปริยาย   หรือ
+<span class="LineNumber"> 012 </span>           ต.  บางทีเป็นได้  ก็บางทีเป็นได้อย่างไร คือ  วิวาทาธิกรณ์มีสมถะ  ๒
+<span class="LineNumber"> 013 </span>อนุวาทาธิกรณ์มีสมถะ ๔    อาปัตตาธิกรณ์มีสมถะ  ๓  กิจจาธิกรณ์มีสมถะ  ๑
+<span class="LineNumber"> 014 </span>อย่างนี้ที่สมถะ ๗  เป็นสมถะ ๑๐   สมถะ  ๑๐   เป็นสมถะ ๗   ด้วยอำนาจวัตถุ
+<span class="LineNumber"> 015 </span>โดยปริยาย.                  
+<span class="LineNumber"> 016 </span>                                     <I>ปริยายวาร  ที่  ๖  จบ</I>
+
+<span class="LineNumber"> 017 </span>                                       <H1>สาธารณวาร  ที่  ๗</H1> 
+<span class="LineNumber"> 018 </span>           [๘๙๐]   ถามว่า   สมถะเท่าไร   ทั่วไปแก่วิวาทาธิกรณ์   สมถะเท่าไร
+<span class="LineNumber"> 019 </span>ไม่ทั่วไปแก่วิวาทาธิกรณ์  สมถะเท่าไร  ทั่วไปแก่อนุวาทาธิกรณ์  สมถะเท่าไร
+<span class="LineNumber"> 020 </span>ไม่ทั่วไปแก่อนุวาทาธิกรณ์    สมถะเท่าไร   ทั่วไปแก่อาปัตตาธิกรณ์  สมถะเท่าไร

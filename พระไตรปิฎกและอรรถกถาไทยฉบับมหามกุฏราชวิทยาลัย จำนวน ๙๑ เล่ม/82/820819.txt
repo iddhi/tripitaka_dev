@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>สุทธสัจจวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>         [๘๒๑]   ธรรมที่ชื่อว่าทุกข์,   ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>                       ธรรมที่ชื่อว่าสัจจะ,  ชื่อว่าทุกข์  ใช่ไหม ?                   
+<span class="LineNumber"> 004 </span>                       ธรรมที่ชื่อว่าสมุทัย  ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>                       ธรรมที่ชื่อว่าสัจจะ,  ชื่อว่าสมุทัย   ใช่ไหม ?
+<span class="LineNumber"> 006 </span>                       ธรรมที่ชื่อว่านิโรธ,  ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>                       ธรรมที่ชื่อว่าสัจจะ,  ชื่อว่านิโรธ  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>                       ธรรมที่ชื่อว่ามรรค,  ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>                       ธรรมที่ชื่อว่าสัจจะ,  ชื่อว่ามรรค  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>                     <I>สุทธสัจจวาระ  อนุโลม  จบ</I>

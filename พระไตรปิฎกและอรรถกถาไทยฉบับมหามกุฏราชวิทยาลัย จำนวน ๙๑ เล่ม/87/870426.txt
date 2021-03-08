@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>๑๔.  วิปากปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           [๑๕๐๑] ๑. <B>ปริตตธรรม  เป็นปัจจัยแก่ปริตตธรรม  ด้วย
+<span class="LineNumber"> 003 </span>อำนาจของวิปากปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ  ขันธ์ ๑ ที่เป็นปริตธรรม  ซึ่งเป็นวิบาก  เป็นปัจจัย  แก่ขันธ์ ๓
+<span class="LineNumber"> 005 </span>และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของวิปากปัจจัย ฯลฯ
+<span class="LineNumber"> 006 </span>           ในปฏิสนธิขณะ ฯลฯ ขันธ์ทั้งหลายเป็นปัจจัยแก่หทยวัตถุ  ด้วยอำนาจ
+<span class="LineNumber"> 007 </span>ของวิปากปัจจัย.
+<span class="LineNumber"> 008 </span>           [๑๕๐๒] ๒.  <B>มหัคคตธรรม  เป็นปัจจัยแก่มหัคคตธรรม  ด้วย
+<span class="LineNumber"> 009 </span>อำนาจของวิปากปัจจัย</B>  มี ๓ วาระ (วาระที่ ๒-๓-๔) พึงกระ  ทั้งปวัตติ 
+<span class="LineNumber"> 010 </span>และปฏิสนธิ.
+<span class="LineNumber"> 011 </span>           [๑๕๐๒] ๕.  <B>อัปปมาณธรรม    เป็นปัจจัยแก่อัปปมาณธรรม
+<span class="LineNumber"> 012 </span>ด้วยอำนาจของวิปากปัจจัย</B>  มี ๓ วาระ  (วาระที่ ๕-๖-๗)  พึงกระทำ
+<span class="LineNumber"> 013 </span>ปวัตติ  อย่างเดียว.
+
+<span class="LineNumber"> 014 </span>               <H1>๑๕.  อาหารปัจจัย ฯลฯ  ๑๙.  สัมปยุตตปัจจัย</H1> 
+<span class="LineNumber"> 015 </span>           [๑๕๐๔] ๑.  <B>ปริตตธรรม  เป็นปัจจัยแก่ปริตตธรรม  ด้วย
+<span class="LineNumber"> 016 </span>อำนาจของอาหารปัจจัย, เป็นปัจจัยด้วยอำนาจของอินทริยปัจจัย,  เป็น
+<span class="LineNumber"> 017 </span>ปัจจัย  ด้วยอำนาจของฌานปัจจัย,   เป็นปัจจัย   ด้วยอำนาจของมัคค-
+<span class="LineNumber"> 018 </span>ปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของสัมปยุตตปัจจัย  (แต่ละปัจจัย มี ๗ 
+<span class="LineNumber"> 019 </span>วาระ)</B>

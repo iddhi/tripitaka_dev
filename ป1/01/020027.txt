@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>              [ ๓๖ ]  คำถามชื่อสนธิให้ผู้ศึกษาตอบ
+<span class="LineNumber"> 002 </span>๑   ตตฺร - อยํ - อาทิ                                 ตตฺรายมาทิ   
+<span class="LineNumber"> 003 </span>๒   ตตฺร - อภิรตึ - อิจฺเฉยฺย                       ตตฺราภิรติมิจฺเฉยฺย
+<span class="LineNumber"> 004 </span>๓   ยสฺส - อินฺทฺริยานิ                               ยสฺสินฺทฺริยานิ
+<span class="LineNumber"> 005 </span>๔   จตฺตาโร - อิเม                                    จตฺตาโรเม 
+<span class="LineNumber"> 006 </span>๕   ตโย - อสฺสุ                                         ตยสฺสุ
+<span class="LineNumber"> 007 </span>๖   พนฺธุสฺส - อิว                                      พนฺธุสฺเสว
+<span class="LineNumber"> 008 </span>๗   ตถา - อุปมํ                                        ตถูปมํ
+<span class="LineNumber"> 009 </span>๘   ปฺจหิ - อุปาลิ                                   ปฺจหุปาลิ
+<span class="LineNumber"> 010 </span>๙   อิติ - อสฺส                                          อติสฺส
+<span class="LineNumber"> 011 </span>๑๐ เต - อสฺส                                           ตฺยสฺส
+<span class="LineNumber"> 012 </span>๑๑ วตฺถุ - เอตฺถ                                       วตฺเถวตฺถ
+<span class="LineNumber"> 013 </span>๑๒ ปติ - อาหรติ                                      ปจฺจาหรติ
+<span class="LineNumber"> 014 </span>๑๓ สาธุ - ทสฺสนํ                                      สาหุทสฺสนํ
+<span class="LineNumber"> 015 </span>๑๔ วิตฺติ = อนุภูยเต                                 วิตฺยานุภูยเต
+<span class="LineNumber"> 016 </span>๑๕ ตถา - เอว                                         ตถริว
+<span class="LineNumber"> 017 </span>๑๖ ขนฺติ - ปรมํ                                       ขนฺตีปรมํ
+<span class="LineNumber"> 018 </span>๑๗ โภวาที - นาม                                    โภวาทินาม
+<span class="LineNumber"> 019 </span>๑๘ โส - ปฺวา                                    สปฺวา
+<span class="LineNumber"> 020 </span>๑๙ อิธ - ปโมโท                                      อิธปฺปโมโท

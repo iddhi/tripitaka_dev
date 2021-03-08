@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  308
+
+<span class="LineNumber"> 002 </span>ปฺาเปตฺวา  สพฺพํ  อนฺนปานาทิวิธึ  อุปฏฺ€เปตฺวา  เทวกฺา(๑) 
+<span class="LineNumber"> 003 </span>วิย  ปฺจสตา อิตฺถิโย อิมา เต ปาทปริจาริกา  โหนฺตุ  มา  
+<span class="LineNumber"> 004 </span>อุกฺกณฺ€ิโต  อิธ วสาหีติ ตสฺส นิยาเทตฺวา อตฺตโน วสนฏฺ€านํ  
+<span class="LineNumber"> 005 </span>คโต ฯ  ตสฺส  คตกาเล  ตา  อิตฺถิโย  นานาตุริยานิ  คเหตฺวา  
+<span class="LineNumber"> 006 </span>ปุณฺณกสฺส ปริจริยาย นจฺจาทีนิ อุปฏฺ€เปสุํ ฯ  
+<span class="LineNumber"> 007 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 008 </span>	[๙๕๕]ตตฺถ นจฺจนฺติ คายนฺติ	อวฺหยนฺติ วราวรํ  
+<span class="LineNumber"> 009 </span>		อจฺฉรา วิย เทเวสุ		นาริโย สมลงฺกตาติ ฯ
+<span class="LineNumber"> 010 </span>	ตตฺถ  อวฺหยนฺตีติ  ปกฺโกสนฺติ(๒) ฯ  วราวรนติ  วรโต  วรํ 
+<span class="LineNumber"> 011 </span>นจฺจํ (๓) คีตฺจ กโรนฺติโย สารมฺภํ(๔) กโรนฺติ(๕) ฯ  
+<span class="LineNumber"> 012 </span>		สมงฺคีกตฺวา ปมุทาหิ(๖) ยกฺขํ  
+<span class="LineNumber"> 013 </span>		อนฺเนน ปาเนน จ ธมฺมปาโล  
+<span class="LineNumber"> 014 </span>		อคฺคตฺถเมวานุวิจินฺตยนฺโต  
+<span class="LineNumber"> 015 </span>		ปาเวกฺขิ ภริยาย ตทา สกาเสติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  ปมุทาหีติ  ปมุทาหิ  เจว  อนฺนปาเนน(๗)  จ
+<span class="LineNumber"> 017 </span>สมงฺคีกตฺวา ฯ  ธมฺมปาโลติ  ธมฺมปาลโก  ธมฺมโคปโก(๘) ฯ 
+<span class="LineNumber"> 018 </span>อคฺคตฺถเมวาติ  อคฺคภูตเมว  อตฺถํ ฯ ปาเวกฺขิ ภริยายาติ 
+<span class="LineNumber"> 019 </span># ๑. ม. เทวกฺาโย ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. นจฺจฺจ ฯ  ๔. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. ปกฺโกสนฺติ ฯ  ๖. ม. ปมทาหิ ฯ  ๗. ม. อนฺนปาเนหิ ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. ธมฺมสฺส ปาลโก โคปโก ฯ 

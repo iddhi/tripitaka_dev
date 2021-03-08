@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                         ๒.  วิราคะ  ความสิ้นกำหนัด
+<span class="LineNumber"> 002 </span>                                      <B>อุทเทส</B>
+<span class="LineNumber"> 003 </span>                               <B>๑.  นิพฺพินฺทํ  วิรชฺชติ.</B>
+<span class="LineNumber"> 004 </span>                            เมื่อหน่าย  ย่อมสิ้นกำหนัด.
+<span class="LineNumber"> 005 </span>                                  อนัตตลักขณสูตร.<SUP>๑</SUP>
+<span class="LineNumber"> 006 </span>                             <B>๒.  วิราโค  เสฏฺโ€  ธมฺมานํ.</B>
+<span class="LineNumber"> 007 </span>                     วิราคะ  เป็นประเสริฐ  แห่งธรรมทั้งหลาย.
+<span class="LineNumber"> 008 </span>                                มคฺควคฺค  ธมฺมปท.<SUP>๒</SUP>
+<span class="LineNumber"> 009 </span>	<B>๓.  สุขา  วิราคตา  โลเก        กามานํ  สมติกฺกโม.</B>
+<span class="LineNumber"> 010 </span>วิราคะ   คือความก้าวล่วงเสียด้วยดี  ซึ่งกามทั้งหลาย  เป็นสุขในโลก.
+<span class="LineNumber"> 011 </span>                           พุทฺธอุทาน  มหาวคฺค  วินย.<SUP>๓</SUP>
+<span class="LineNumber"> 012 </span>                                     <B>พรรณนาความ</B>
+<span class="LineNumber"> 013 </span>	บาลีอัคคัปปสาทสูตร  จตุกกังคุดร  แสดงวิราคะว่าเป็นยอด
+<span class="LineNumber"> 014 </span>แห่งธรรมทั้งปวง  ทั้งที่เป็นสังขตะ คืออันธรรมดาแต่ง  ทั้งที่เป็น
+<span class="LineNumber"> 015 </span>อสังขตะ  คืออันธรรมดามิได้แต่ง  แล้วแจกไวพจน์  คือคำสำหรับ
+<span class="LineNumber"> 016 </span>เรียกแทนกันแห่งวิราคะ  คือ  <B>"มทนิมฺมทโน"</B>  ธรรมยังความเมา
+<span class="LineNumber"> 017 </span>ให้สร่าง  <B>"ปิปาสวินโย"</B>  ความนำเสียซึ่งความระหาย  <B>"อาลย-
+<span class="LineNumber"> 018 </span>สมุคฺฆาโค"</B>  ความถอนขึ้นด้วยดีซึ่งอาลัย  <B>"วฏฺฏูปจฺเฉโท"</B>  ความ
+<span class="LineNumber"> 019 </span>เข้าไปตัดเสียซึ่งวัฏฏะ  <B>"ตณฺหกฺขโย"</B>  ความสิ้นแห่งตัณหา  <B>"วิราโค"</B>
+
+<span class='footnote'>๑.  มหาวคฺค.  ป€ม.  ๔/๒๘.  ๒. ขุ. ธ.  ๒๕/๕๑.  ๓.  มหาวคฺค.  ป€ม.  ๔/๖.</span>

@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                 <H1>นสังกิลิฏฐติกนเหตุทุกสังกิลิฏฐติกเหตุทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                   <H2>(๕. สังกิลิฏฐติกะ  ๑.  เหตุทุกะ)</H2>                		
+<span class="LineNumber"> 003 </span>                                      <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 004 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                            <H2>เหตุบท</H2>
+<span class="LineNumber"> 007 </span>           [๖๖๐] ๑.  <B>เหตุธรรม  ที่เป็นอสังกิลิฏฐสังกิเลสิกธรรม  อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่ไม่ใช่เหตุธรรม    ที่ไม่ใช่สังกิลิฏฐสังกิเลสิกธรรม   เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                                  <B>ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                          <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 012 </span>           [๖๖๑]  ในเหตุปัจจัย มี ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 013 </span>                    <I>นสังกิลิฏฐติกนเหตุทุกสังกิลิฏฐติกเหตุทุกะ  จบ</I>

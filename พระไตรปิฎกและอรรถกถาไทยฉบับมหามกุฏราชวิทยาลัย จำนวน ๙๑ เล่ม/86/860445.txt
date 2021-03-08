@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 002 </span>         [๒๐๕] ๗.  <B>สวิตักกสวิจารธรรม เป็นปัจจัยแก่สวิตักกสวิจาร- 
+<span class="LineNumber"> 003 </span>ธรรม  อวิตักกวิจารมัตตธรรม  และอวิตักกอวิจารธรรม ด้วยอำนาจ
+<span class="LineNumber"> 004 </span>ของสหชาตปัจจัย</B> 
+<span class="LineNumber"> 005 </span>         คือ  ขันธ์ ๑ ที่เป็นสวิตักกสวิจารธรรม    เป็นปัจจัยแก่ขันธ์ ๓  วิตก
+<span class="LineNumber"> 006 </span>และจิตตสมุฏฐานรูป    ด้วยอำนาจของสหชาตปัจจัย  ฯลฯ  ขันธ์ ๒ เป็นปัจจัย
+<span class="LineNumber"> 007 </span>แก่ขันธ์ ๒ วิตก   และจิตตสมุฏฐานรูป 
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 009 </span>         [๒๐๖] ๘.  <B>อวิตักกสวิจารมัตตธรรม เป็นปัจจัยแก่สวิตักกสวิจาร-
+<span class="LineNumber"> 010 </span>มัตตธรรม  ด้วยอำนาจของสหชาตปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  ขันธ์ ๑ ที่เป็นอวิตักกวิจารมัตตธรรม  เป็นปัจจัยแก่ขันธ์ ๓ ด้วย
+<span class="LineNumber"> 012 </span>อำนาจของสหชาตปัจจัย ฯลฯ ขันธ์ ๒ เป็นปัจจัยแก่ขันธ์ ๒.
+<span class="LineNumber"> 013 </span>         ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 014 </span>         [๒๐๗] ๙.  <B>อวิตักกวิจารมัตตธรรม เป็นปัจจัยแก่สวิตักกสวิ-
+<span class="LineNumber"> 015 </span>จารธรรม  ด้วยอำนาจของสหชาตปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ   วิตก   เป็นปัจจัยแก่ขันธ์ที่เป็นสวิตักกสวิจารธรรม    ด้วยอำนาจ
+<span class="LineNumber"> 017 </span>ของสหชาตปัจจัย. 

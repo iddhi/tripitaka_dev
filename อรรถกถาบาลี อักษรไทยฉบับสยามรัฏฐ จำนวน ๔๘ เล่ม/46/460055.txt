@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  46  นิทานกถา  หน้า  55
+
+<span class="LineNumber"> 002 </span>	อเนกโกฏิสนฺนิจฺจโย	ปหูตธนธฺวา  
+<span class="LineNumber"> 003 </span>	อชฺฌายิโก (๑) มนฺตธโร	ติณฺณํ เวทานปารคู ฯ  
+<span class="LineNumber"> 004 </span>	ลกฺขเณ อิติหาเส จ		สทฺธมฺเม ปารมึ คโต  
+<span class="LineNumber"> 005 </span>	รโหคโต นิสีทิตฺวา		เอวํ จินฺเตสิหํ (๒) ตทา ฯ  
+<span class="LineNumber"> 006 </span>	ทุกฺโข ปุนพฺภโว นาม	สรีรสฺส ปเภทนํ (๓)  
+<span class="LineNumber"> 007 </span>	สมฺโมหมรณํ ทุกฺขํ		ชราย อภิมทฺทนํ ฯ  
+<span class="LineNumber"> 008 </span>	ชาติธมฺโม ชราธมฺโม	พฺยาธิธมฺโม จหํ (๔) ตทา  
+<span class="LineNumber"> 009 </span>	อชรํ อมรํ เขมํ		ปริเยสิสฺสามิ นิพฺพุตึ ฯ  
+<span class="LineNumber"> 010 </span>	ยนฺนูนิมํ ปูติกายํ		นานากุณปปูริตํ  
+<span class="LineNumber"> 011 </span>	ฉฑฺฑยิตฺวาน คจฺเฉยฺยํ	อนเปกฺโข อนตฺถิโก ฯ  
+<span class="LineNumber"> 012 </span>	อตฺถิ เหหิติ โส มคฺโค	น โส สกฺกา น เหตุเย  
+<span class="LineNumber"> 013 </span>	ปริเยสิสฺสามิ ตํ มคฺคํ	ภวโต ปริมุตฺติยา ฯ  
+<span class="LineNumber"> 014 </span>	ยถาปิ ทุกฺเข วิชฺชนฺเต	สุขํ นามปิ วิชฺชติ  
+<span class="LineNumber"> 015 </span>	เอวํ ภเว วิชฺชมาเน		วิภโว (๕) อิจฺฉิตพฺพโก ฯ  
+<span class="LineNumber"> 016 </span>	ยถาปิ  อุเณฺห วิชฺชนฺเต	อปรํ (๖) วิชฺชติ สีตลํ  
+<span class="LineNumber"> 017 </span>	เอวํ ติวิธคฺคิ วิชฺชนฺเต	นิพฺพานํ อิจฺฉิตพฺพกํ ฯ-  
+<span class="LineNumber"> 018 </span>	ยถาปิ ปาเป วิชฺชนฺเต	กลฺยาณมปิ วิชฺชติ  
+<span class="LineNumber"> 019 </span>	เอวเมว ชาติ วิชฺชนฺเต	อชาติ อิจฺฉิตพฺพกา ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อชฺฌายโก  ฯ ๒. ม. จินฺเตสหํ ฯ ๓. ม. สรีรสฺส  จ  เภทนํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. สหํ ฯ ๕. ม. วิภโวปิ ฯ ๖. กตฺถจิ. อปรมฺปิ ฯ

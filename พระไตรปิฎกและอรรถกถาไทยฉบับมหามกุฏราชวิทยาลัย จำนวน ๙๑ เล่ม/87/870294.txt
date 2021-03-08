@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นเสกขธรรม. 
+<span class="LineNumber"> 002 </span>                         ๓.  <B>เสกขธรรม  และเนวเสขานาเสกขธรรม  อาศัย
+<span class="LineNumber"> 003 </span>เสกขธรรม  ฯลฯ  เพราะนอาเสวนปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป อาศัยขันธ์ ๑ ที่เป็นเสกขธรรมซึ่ง
+<span class="LineNumber"> 005 </span>เป็นวิบาก ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 006 </span>                         ๔.  <B>อเสกขธรรม  อาศัยอเสกขธรรม  เกิดขึ้น</B> มี ๓ 
+<span class="LineNumber"> 007 </span>วาระ (วาระที่ ๔-๕-๖)
+<span class="LineNumber"> 008 </span>                         ๗.  <B>เนวเสกขานาเสกขธรรม      อาศัยเนวเสกขานา-
+<span class="LineNumber"> 009 </span>เสกขธรรม  เกิดขึ้น  เพราะนอาเสวนปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ ๑ ที่เป็นเนวเสกขานาเสกขธรรม ฯลฯ  พึงใส่ให้เต็ม.
+<span class="LineNumber"> 011 </span>                         ๘.  <B>ฯลฯ  อาศัยเสกขธรรม    และเนวเสกขานาเสกข-   
+<span class="LineNumber"> 012 </span>ธรรม เกิดขึ้น</B> ปัจจัยสงเคราะห์พึงใส่ให้เต็มแม้ทั้ง ๒ วาระ  รวมเป็น ๙ วาระ.
+
+<span class="LineNumber"> 013 </span>                                       <H1>๑๑.  นกัมมปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๑๑๙๔] ๑.  <B>ฯลฯ  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ   เจตนาที่เป็นเสกขธรรม   อาศัยขันธ์ทั้งหลายที่เป็นเสกขธรรม. 
+<span class="LineNumber"> 016 </span>                         ๒.  <B>เนวเสกขานาเสกขธรรม   อาศัยเนวเสกขานา-
+<span class="LineNumber"> 017 </span>เสกขธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ   เจตนาที่เป็นเนวเสกขนาเสกขธรรม     อาศัยขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 019 </span>เนวเสกขานาเสกขธรรม.
+<span class="LineNumber"> 020 </span>           พาหิรรูป...อาหารสมุฏฐานรูป...อุตุสมุฏฐานรูป ฯลฯ  มหาภูตรูป
+<span class="LineNumber"> 021 </span>๑ ฯลฯ  

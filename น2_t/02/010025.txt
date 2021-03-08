@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                        กัณฑ์ที่ ๑๔
+<span class="LineNumber"> 002 </span>                                             วัตร  
+
+<span class="LineNumber"> 003 </span>	<B>ขนบคือแบบอย่างอันภิกษุควรประพฤติในกาลนั้น  ๆ  ในที่นั้น ๆ
+<span class="LineNumber"> 004 </span>ในกิจนั้น ๆ  แก่บุคคลนั้น ๆ เรียกว่าวัตร  จำแนกเป็น  ๓  คือ</B>
+<span class="LineNumber"> 005 </span>๑.  กิจวัตร  ว่าด้วยกิจควรทำ.
+<span class="LineNumber"> 006 </span>๒.  จริยาวัตร  ว่าด้วยมรรยาทอันควรประพฤติ.
+<span class="LineNumber"> 007 </span>๓.  วิธิวัตร  ว่าด้วยแบบอย่าง.
+<span class="LineNumber"> 008 </span>                                           กิจวัตร
+<span class="LineNumber"> 009 </span>	<B>อุปัชฌายวัตร  วัตรทีสัทธิวิหาริกพึงทำแก่อุปัชฌายะ  มีดังนี้</B>
+<span class="LineNumber"> 010 </span>๑.  เอาใจใส่ในการอุปัฏฐากท่าน  ในกิจทุกอย่าง  เช่นถวายน้ำบ้วนปาก
+<span class="LineNumber"> 011 </span>     น้ำล้างหน้า  และไม้สีฟัน.
+<span class="LineNumber"> 012 </span>๒.  หวังความศึกษาในท่าน.
+<span class="LineNumber"> 013 </span>๓.  ขวนขวายป้องกัน   หรือระงับความเสื่อมความเสียอันจักมีหรือ
+<span class="LineNumber"> 014 </span>      ได้มีแล้วแก่ท่าน  เช่นระงับความกระสัน  ความเบื่อหน่าย  เปลื้อง
+<span class="LineNumber"> 015 </span>      ความเห็นผิด  เอาธุระในการออกจากอาบัติของท่าน  ขวนขวาย
+<span class="LineNumber"> 016 </span>      เพื่อสงฆ์งดโทษทีจะลงแก่ท่าน  หรือผ่านเบาลงมา.
+<span class="LineNumber"> 017 </span>๔.  รักษาน้ำใจท่าน  ไม่คบคนนอกให้เป็นเหตุแหนง  เช่นจะทำการ
+<span class="LineNumber"> 018 </span>      รักการให้เป็นต้นกับคนเช่นนั้น  บอกท่านก่อน  ไม่ทำตามลำพัง.
+<span class="LineNumber"> 019 </span>๕.  เคารพในท่าน  เช่นเดินตามท่านไม่ชิดนัก  ไม่ห่างนัก ไม่พูดสอด
+

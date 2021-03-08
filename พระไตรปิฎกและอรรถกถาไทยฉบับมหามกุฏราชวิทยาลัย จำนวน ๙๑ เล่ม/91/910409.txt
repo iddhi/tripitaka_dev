@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๑๒. ปริตตติกนปริตตติกะ</H1>   
+<span class="LineNumber"> 002 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๙๑] ๑.  <B>ธรรมที่ไม่ใช่ปริตตธรรม   อาศัยธรรมที่เป็นปริตต-
+<span class="LineNumber"> 006 </span>ธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                   ๒.  <B>ธรรมที่ไม่ใช่มหัคคตธรรม       อาศัยธรรมที่เป็น
+<span class="LineNumber"> 008 </span>ปริตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                   ๓.  <B>ธรรมที่ไม่ใช่อัปปมาณธรรม      อาศัยธรรมที่เป็น
+<span class="LineNumber"> 010 </span>ปริตตธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>                                
+<span class="LineNumber"> 011 </span>                   ๔.  <B>ธรรมที่ไม่ใช่ปริตธรรม  และธรรมที่ไม่ใช่อัปป-
+<span class="LineNumber"> 012 </span>มาณธรรม  อาศัยธรรมที่เป็นปริตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>                   ๕.  <B>ธรรมที่ไม่ใช่มหัคคตธรรม และธรรมที่ไม่ใช่อัปป-
+<span class="LineNumber"> 014 </span>มาณธรรม  อาศัยธรรมที่เป็นปริตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>มี  ๕  วาระ.
+<span class="LineNumber"> 016 </span>           [๙๒] ๖.  <B>ธรรมที่ไม่ใช่มหัคคตธรรม       อาศัยธรรมที่เป็น
+<span class="LineNumber"> 017 </span>มหัคคตธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>

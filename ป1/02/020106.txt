@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>สพฺพทา	ในกาลทั้งปวง			เอตรหิ	ในกาลนี้,  เดี๋ยวนี้   
+<span class="LineNumber"> 002 </span>สทา		ในกาลทุกเมื่อ			กรหจิ	ในกาลไหน ๆ,  บางครั้ง
+<span class="LineNumber"> 003 </span>เอกทา	ในกาลหนึ่ง,  บางที		อธุนา	ในกาลนี้,  เมื่อกี้
+<span class="LineNumber"> 004 </span>ยทา		ในกาลใด,  เมื่อใด		กุทาจนํ	ในกาลไหน
+<span class="LineNumber"> 005 </span>ตทา		ในกาลนั้น, เมื่อนั้น		อชฺช		ในวันนี้
+<span class="LineNumber"> 006 </span>กทา		ในกาลไร,  เมื่อไร		สชฺชุ		ในวันมีอยู่,  วันนี้
+<span class="LineNumber"> 007 </span>กทาจิ	ในกาลไหน,  บางคราว	ปรชฺชุ	ในวันอื่น
+<span class="LineNumber"> 008 </span>อิทานิ	ในกาลนี้,  เดี๋ยวนี้		อปรชิชุ	ในวันอื่นอีก.
+<span class="LineNumber"> 009 </span>	ปัจจัยที่เป็นกิริยากิตก์  ๕  ตัว   คือ  ตเว  ตุํ  ตูน  ตฺวา  ตฺวาน
+<span class="LineNumber"> 010 </span>กับทั้งปัจจัยที่อาเทศออกจาก ตฺวา  เป็น  อัพยยะ  แจกด้วยวิภัตติไม่ได้
+<span class="LineNumber"> 011 </span>อุ.  ดังนี้ :-
+<span class="LineNumber"> 012 </span>		กาตเว		เพื่ออันทำ
+<span class="LineNumber"> 013 </span>		กาตุํ			ความทำ,  เพื่ออันทำ
+<span class="LineNumber"> 014 </span>		กาตูน		ทำแล้ว
+<span class="LineNumber"> 015 </span>		กตฺวา		    "
+<span class="LineNumber"> 016 </span>		กตฺวาน		    "
+<span class="LineNumber"> 017 </span>                               จบอัพยยศัพท์  แต่เท่านี้.

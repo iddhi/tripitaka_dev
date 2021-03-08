@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 39    หน้า  372
+
+<span class="LineNumber"> 002 </span>			ปิงฺคิยมาณวสุตฺตนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 003 </span>	โสฬสเม  ปิงฺคิยสุตฺตนิทฺเทเส  ชิณฺโณหมสฺมิ  อพโล
+<span class="LineNumber"> 004 </span>วิวณฺโณติ  (๑) โส  กิร  พฺราหมฺโณ  ชราภิภูโต  วีสวสฺสสติโก  ชาติยา  
+<span class="LineNumber"> 005 </span>ทุพฺพโล  จ  อิธ  ปาทํ  กริสฺสามีติ  อฺเตฺรว  กโรติ 
+<span class="LineNumber"> 006 </span>วินฏฺ€ปุริมจฺฉวิวณฺโณ  จ ฯ เตนาห ชิณฺโณหมสฺมิ อพโล 
+<span class="LineNumber"> 007 </span>วิวณฺโณติ  มาหมฺปนสฺสํ  (๒)  โมมุโห  อนฺตราวาติ (๓) มาหํ  ตุยฺหํ
+<span class="LineNumber"> 008 </span>ธมฺมํ อสจฺฉิกตฺวา  อนฺตรา  เอว  อวิทฺวา(๔) หุตฺวา อนสฺสํ ฯ (๕)
+<span class="LineNumber"> 009 </span>ชาติ ชราย อิธ(๖) วิปฺปหานนฺติ อิเธว  ตว  ปาทมูเล  ปาสาณเก
+<span class="LineNumber"> 010 </span>เจติเย  วา  ชาติชราย  วิปฺปหานํ (๗) นิพฺพานํธมฺมรสํ อหํ วิชฺํ 
+<span class="LineNumber"> 011 </span>ตมฺเม อาจิกฺข ฯ  
+<span class="LineNumber"> 012 </span>	อพโลติ  พลรหิโต(๘) ฯ   ทุพฺพโลติ  ทุพฺพลพโล ฯ 
+<span class="LineNumber"> 013 </span>อปฺปพโลติ  ปริตฺตพโล ฯ  อปฺปถาโมติ  ปริตฺตวีริโย ฯ  วีตวณฺโณติ  ปริวตฺติ-
+<span class="LineNumber"> 014 </span>ตจฺฉวิวณฺโณ ฯ  วิคตวณฺโณติ อปคตจฺฉวิวณฺโณ ฯ  วีตจฺฉิต-
+<span class="LineNumber"> 015 </span>วณฺโณติ  (๙)  ทูรีภูตจฺฉวิวณฺโณ ฯ  ยา  สา  ปุริมา  สุภา วณฺณนิภาติ 
+<span class="LineNumber"> 016 </span>ยา  สา  สุภา  สุนฺทรา  ปุริมกาเล  สติ  สา  วณฺณนิภา  
+<span class="LineNumber"> 017 </span>เอตรหิ  อนฺตรหิตา  วิหตา ฯ  (๑๐)  อาทีนโว  ปาตุภูโตติ  อุปทฺทโว
+<span class="LineNumber"> 018 </span>ปาตุรโหสิ ฯ  ยา  สา  ปุริมา  สุภา  วณฺณนิภาติ  ปา€ํ  €เปตฺวา 
+<span class="LineNumber"> 019 </span># ๑. ม. วีตวณฺโณติ ฯ  เอวมุปริปิ ฯ  ๒. ม. มาหํ นสฺสํ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. อนฺตราวาติ ฯ ๔. ม. อวิทฺวา ฯ ๕. ม. อนสฺสึ ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. อิเธว ฯ ๗. ม. นิพฺพานํ ธมฺมรสํ อหํ ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. พลวิรหิโต ฯ  ๙. ม. วิคจฺฉิตวณฺโณติ ฯ
+<span class="LineNumber"> 023 </span># ๑๐. ม. วิคตา ฯ 

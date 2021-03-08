@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span><H2>มานานุสยมูละ  ภวราคานุสยาทิมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         มานานุสัย  ไม่นอนเนื่องอยู่แก่บุคคลใด,   ภวราคานุสัย   ฯ ล ฯ
+<span class="LineNumber"> 003 </span>อวิชชานุสัย   ก็ไม่นอนเนื่องอยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ก็หรือว่า    อวิชชานุสัย   ไม่นอนเนื่องอยู่แก่บุคคลใด,    มานา- 
+<span class="LineNumber"> 005 </span>นุสัย   ก็ไม่นอนเนื่องอยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>                   <I>จบ  มานานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 008 </span>                                   <I>มานานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 009 </span>                                     <H1>ทิฏฐานุสยมูล</H1>
+<span class="LineNumber"> 010 </span><H2>ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         [๑๒๕๘]   ทิฏฐานุสัย  ไม่นอนเนื่องอยู่แก่บุคคลใด,    วิจิกิจ-
+<span class="LineNumber"> 012 </span>ฉานุสัย  ก็ไม่นอนเนื่องอยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.

@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>       	            <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.  อัพยากตสูตร   ๒.  ปริสคติสูตร   ๓.  ติสสสูตร   ๔. สหสูตร
+<span class="LineNumber"> 003 </span>๕.   รักขิตสูตร   ๖.   กิมมิลสูตร  ๗.  สัตตธรรมสูตร   ๘.  โมคคัลลานะสูตร
+<span class="LineNumber"> 004 </span>๙.  ปุญญวิปากสูตร  ๑๐.  ภริยาสูตร  ๑๑.   โกธนาสูตร
+<span class="LineNumber"> 005 </span>	                     <I>จบ  อัพยากตวรรคที่  ๑</I>

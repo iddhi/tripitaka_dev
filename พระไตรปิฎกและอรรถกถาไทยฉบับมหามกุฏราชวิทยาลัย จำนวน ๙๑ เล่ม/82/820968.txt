@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>ปัจจุปปันนาตีตวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 004 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๙๔๙]  ทุกขสัจจะไม่ใช่กำลังดับแก่บุคคลใด,     สมุทยสัจจะ
+<span class="LineNumber"> 006 </span>ก็ไม่ใช่เคยดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         เคยดับ.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า      สมุทยสัจจะไม่ใช่เคยดับแก่บุคคลใด,      ทุกขสัจจะ
+<span class="LineNumber"> 009 </span>ก็ไม่ใช่กำลังดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ไม่มี.
+<span class="LineNumber"> 011 </span>                        <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจมูลี</I>
+
+<span class="LineNumber"> 012 </span><H2>ทุกขสัจจมูละ    มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๙๕๐]  ทุกขสัจจะไม่ใช่กำลังดับแก่บุคคลใด,      มัคคสัจจะก็ 
+<span class="LineNumber"> 014 </span>ไม่ใช่เคยดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         บุคคลผู้ที่เข้าถึงความเป็นผู้เคยรู้อริยสัจ  ๔     มาแล้วกำลังเกิดก็ดี
+<span class="LineNumber"> 016 </span>ในอุปปาทขณะแห่งจิตในปวัตติกาลก็ดี        ในภังคขณะแห่งมัคคจิตและ
+<span class="LineNumber"> 017 </span>ผลจิตในอรูปภูมิก็ดี     ทุกขสัจจะไม่ใช่กำลังดับแก่บุคคลเหล่านั้น  แต่

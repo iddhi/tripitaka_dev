@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>เอก.                                   พหุ.    
+<span class="LineNumber"> 002 </span><B>สาเวติ.                            	สาเวนฺติ.
+<span class="LineNumber"> 003 </span>กีนาเปติ.                          กีนาเปนฺติ.
+<span class="LineNumber"> 004 </span>คาเหติ,   คณฺหาเปติ.         คาเหนฺติ,  คณฺหาเปนฺติ.
+<span class="LineNumber"> 005 </span>ตานาเปติ.              		ตานาเปนฺติ.
+<span class="LineNumber"> 006 </span>โจราเปติ.         			โจราเปนฺติ.</B>
+<span class="LineNumber"> 007 </span>	ลงปัจจัยที่มี  <B>ณ</B>  แล้ว  พฤทธิ์สระตัวหน้าที่ไม่ใช่พยัญชนะซ้อน
+<span class="LineNumber"> 008 </span>อยู่เบื้องหลังแล้ว  ลบ  <B>ณ</B>  เสีย  เหมือนกับที่กล่าวแล้ว  ในโคตตตัทธิต
+<span class="LineNumber"> 009 </span>(๑๐๓)  วิธีสนธิก็เหมือนกับที่กล่าวแล้วในสระสนธิ (๑๙).
+
+<span class="LineNumber"> 010 </span>                                      เหตุกัมมวาจก
+<span class="LineNumber"> 011 </span>	(๑๒๗)  แจกแต่วัตตมานา  ประถมบุรุษอย่างเดียว  ลง  <B>ณาเป</B>
+<span class="LineNumber"> 012 </span>ปัจจัย  เป็นตัวอย่าง
+<span class="LineNumber"> 013 </span>เอก. 				             พหุ.
+<span class="LineNumber"> 014 </span><B>ปาจาปิยเต.               	ปาจาปิยนฺเต.
+<span class="LineNumber"> 015 </span>รุนฺธาปิยเต.                 	รุนฺธาปิยนฺเต.
+<span class="LineNumber"> 016 </span>สิพฺพาปิยเต.                  	สิพฺพาปิยนฺเต.
+<span class="LineNumber"> 017 </span>สาวิยเต.  [ณย]               	สาวิยนฺเต.
+<span class="LineNumber"> 018 </span>กีนาปิยเต.           		กีนาปิยนฺเต.
+<span class="LineNumber"> 019 </span>คาหาปิยเต.           		คาหาปิยนฺเต.</B>

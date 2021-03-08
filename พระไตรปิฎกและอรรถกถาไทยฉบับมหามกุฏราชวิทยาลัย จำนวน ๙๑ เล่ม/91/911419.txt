@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2>   
+<span class="LineNumber"> 002 </span>           [๑๒๑๑]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span><I>นสนิทัสสนติกนอตีตารัมมณติกสนิทัสสนติกอตีตารัมมณติกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>      <H1>นสนิทัสสนติกนอัชฌัตตติกสนิทัสสนติกอัชฌัตตติกะ</H1>
+<span class="LineNumber"> 005 </span>      <H2>(๒๒.  สนิทัสสนติกะ   ๒๐. อัชฌัตตติกะ)</H2>
+<span class="LineNumber"> 006 </span>                                    <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 007 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                               <H2>๑. อารัมมณปัจจัย</H2>	
+<span class="LineNumber"> 009 </span>                                      <H2>อัชฌัตตบท</H2>	
+<span class="LineNumber"> 010 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อัชฌัตตธรรม    ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 011 </span>สัปปฏิฆธรรม    เป็นปัจจัยแก่อัชฌัตตธรรม    ที่เป็นอนิทัสสนอัป-
+<span class="LineNumber"> 012 </span>ปฏิฆธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>           ในอารัมมณปัจจัย  มี ๖ วาระ  ในอธิปติปัจจัย  มี ๖ วาระ  ในปุเร-
+<span class="LineNumber"> 015 </span>ชาตปัจจัย  มี ๖ วาระ   ในอัตถิปัจจัย  มี ๖ วาระ   ในอวิคตปัจจัย  มี ๖ วาระ
+
+<span class="LineNumber"> 016 </span>                                       <H2>พหิทธาบท</H2>
+<span class="LineNumber"> 017 </span>                       ๑.  <B>พหิทธาธรรม    ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 018 </span>เป็นปัจจัยแก่พหิทธาธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม ด้วยอำนาจ
+<span class="LineNumber"> 019 </span>ของอารัมมณปัจจัย</B>

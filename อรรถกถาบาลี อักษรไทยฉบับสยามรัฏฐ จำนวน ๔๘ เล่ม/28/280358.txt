@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 28  เอกนิปาเต  กุลาวกวคฺควณฺณนา  หน้า  358
+
+<span class="LineNumber"> 002 </span>		อุรโค กโรติ ปยสฺส จ หารี(๑)  
+<span class="LineNumber"> 003 </span>		มทนยุตฺตา จตุโร จ มหนฺตาติ ฯ  
+<span class="LineNumber"> 004 </span>	เทฺว  นครานิปิ  ยุทฺเธเนว  คเหตุํ  อสกฺกุเณยฺยตาย 
+<span class="LineNumber"> 005 </span>อยุทฺธปุรานิ  นาม  ชาตานิ  เทวนครฺจ  อสุรนครฺจ ฯ 
+<span class="LineNumber"> 006 </span>ยทา  หิ  อสุรา  พลวนฺตา  โหนฺติ  อถ  เทเวหิ  ปลายิตฺวา 
+<span class="LineNumber"> 007 </span>เทวนครํ  ปวิสิตฺวา  ทฺวาเร  ปิทหิเต  อสุรานํ  สตสหสฺสมฺปิ 
+<span class="LineNumber"> 008 </span>กิฺจิ  กาตุํ  น  สกฺโกติ ฯ  ยทา  เทวา  พลวนฺตา  โหนฺติ  
+<span class="LineNumber"> 009 </span>อถ  อสุเรหิ  ปลายิตฺวา  อสุรนครสฺส  ทฺวาเร  ปิทหิเต(๒)
+<span class="LineNumber"> 010 </span>สกฺกานํ  สตสหสฺสมฺปิ  กิฺจิ  กาตุํ  น  สกฺโกติ ฯ  อิติ  อิมานิ  
+<span class="LineNumber"> 011 </span>เทฺว  นครานิ  อยุชฺฌปุรานิ  นาม ฯ  เตสํ  อนฺตรา  เอเตสุ  
+<span class="LineNumber"> 012 </span>อุรคาทีสุ  ปฺจสุ  €าเนสุ  สกฺเกน  รกฺขา  €ปิตา ฯ  ตตฺถ 
+<span class="LineNumber"> 013 </span>อุรคสทฺเทน  นาคา  คหิตา ฯ  เต  อุรคา  อุทเก  พลวนฺตา  
+<span class="LineNumber"> 014 </span>โหนฺติ  ตสฺมา  สิเนรุสฺส  ป€มาลินฺเท  เตสํ  อารกฺขา ฯ
+<span class="LineNumber"> 015 </span>กโรติสทฺเทน  สุปณฺณา  คหิตา ฯ  เตสํ  กิร  กโรติ  นาม 
+<span class="LineNumber"> 016 </span>ปานโภชนํ(๓) เตน  นามํ  ลภึสุ  ทุติยาลินฺเท  เตสํ  อารกฺขา ฯ
+<span class="LineNumber"> 017 </span>ปยสฺส  หาริสทฺเทน  กุมฺภณฺฑา  คหิตา ฯ  ทานวรกฺขสา  กิร
+<span class="LineNumber"> 018 </span>เต  ตติยาลินฺเท  เตสํ  อารกฺขา ฯ  มทนยุตสทฺเทน  ยกฺขา  
+<span class="LineNumber"> 019 </span>คหิตา ฯ  วิสมจาริโน  กิร  เต  ยุทฺธโสณฺฑา  จตุตฺถาลินฺเท 
+<span class="LineNumber"> 020 </span>เตสํ  อารกฺขา ฯ  จตุโร  จ  มหนฺตาติ  จตฺตาโร  มหาราชาโน  
+<span class="LineNumber"> 021 </span># ๑. ม.อุรคกโรฏิปยสฺส จ หารี ฯ
+<span class="LineNumber"> 022 </span># ๒. ม. ปิหิเต ฯ  ๓. สี. ปาณโภชนํ ฯ

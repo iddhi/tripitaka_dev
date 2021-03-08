@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  27  หน้า  321
+
+<span class="LineNumber"> 002 </span>				วีสตินิปาตวณฺณนา  
+<span class="LineNumber"> 003 </span>			อมฺพปาลีเถรีคาถาวณฺณนา  
+<span class="LineNumber"> 004 </span>	วีสตินิปาเต กาฬกา ภมรวณฺณสาทิสาติอาทิกา อมฺพปาลิยา 
+<span class="LineNumber"> 005 </span>เถริยา คาถา ฯ  
+<span class="LineNumber"> 006 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิการา  ตตฺถ  ตตฺถ  ภเวสุ (๑)
+<span class="LineNumber"> 007 </span>วิวฏฺฏูปนิสฺสยํ  กุสลํ อุปจินนฺตี สิขิสฺส ภควโต สาสเน 
+<span class="LineNumber"> 008 </span>ปพฺพชิตฺวา อุปสมฺปนฺนา หุตฺวา ภิกฺขุนิสิกฺขาปทํ สมาทาย 
+<span class="LineNumber"> 009 </span>วิหรนฺตี เอกทิวสํ สมฺพหุลาหิ ภิกฺขุนีหิ สทฺธึ เจติยํ วนฺทิตฺวา 
+<span class="LineNumber"> 010 </span>ปทกฺขิณํ กโรนฺตี  ปุเรตรํ  คจฺฉนฺติยา  ขีณาสวตฺเถริยา  ขิปนฺติยา
+<span class="LineNumber"> 011 </span>สหสา  เขฬปิณฺฑํ เจติยงฺคเณ  ปติตํ  ขีณาสวตฺเถริยา  อปสฺสิตฺวา  
+<span class="LineNumber"> 012 </span>คตาย  (๒) อยํ ปจฺฉโต คจฺฉนฺตี ตํ เขฬปิณฺฑํ  ทิสฺวา  กา 
+<span class="LineNumber"> 013 </span>นาม คณิกา อิมสฺมึ €าเน เขฬปิณฺฑํ ปาเตสีติ อกฺโกสิ ฯ สา 
+<span class="LineNumber"> 014 </span>ภิกฺขุนิกาเล สีลํ รกฺขนฺตี คพฺภวาสํ ชิคุจฺฉิตฺวา โอปปาติกตฺตภาเว 
+<span class="LineNumber"> 015 </span>จิตฺตํ €เปสิ ฯ เตน  ปจฺฉิมตฺตภาเว  เวสาลิยํ  ราชอุยฺยาเน  
+<span class="LineNumber"> 016 </span>อมฺพรุกฺขมูเล  โอปปาติกา หุตฺวา นิพฺพตฺติ ฯ  ตํ  ทิสฺวา  
+<span class="LineNumber"> 017 </span>อุยฺยานปาโล  นครํ  อุปเนสิ ฯ  อมฺพรุกฺขมูเล นิพฺพตฺตตาย 
+<span class="LineNumber"> 018 </span>สา  อมฺพปาลีเตฺวว  โวหรียิตฺถ ฯ อถ นํ อภิรูปทสฺสนียํ ปาสาทิกํ 
+<span class="LineNumber"> 019 </span>วิลาสกนฺตตาทิคุณวิเสสสมุทิกํ (๓) ทิสฺวา 
+<span class="LineNumber"> 020 </span># ๑  ม. ภเว ฯ  ๒. สี. ขีณาสวตฺเถรี อปสฺสิตฺวา คตา ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ...สมุทิตํ ฯ 

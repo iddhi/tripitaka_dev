@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  30  หน้า  117
+
+<span class="LineNumber"> 002 </span>		ตินฺทุกชาตกํ  
+<span class="LineNumber"> 003 </span>	ธนุหตฺถกลาเปหีติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 004 </span>ปฺาปารมึ  อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	สตฺถา  หิ  มหาโพธิชาตเก (๑)  วิย  อุมฺมงฺคชาตเก (๒) วิย  จ 
+<span class="LineNumber"> 006 </span>อตฺตโน  ปฺาย  วณฺณํ  วณฺณิตํ  สุตฺวา  น  ภิกฺขเว  อิทาเนว 
+<span class="LineNumber"> 007 </span>ตถาคโต  ปฺวา ปุพฺเพปิ ปฺวา อุปายกุสโล เยวาติ วตฺวา 
+<span class="LineNumber"> 008 </span>อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 009 </span>	อตีเต พาราณสิยํ พฺรหฺมทตฺเต รชฺชํ กาเรนฺเต
+<span class="LineNumber"> 010 </span>โพธิสตฺโต  วานรโยนิยํ  นิพฺพตฺติตฺวา  อสีติสหสฺสวานรปริวาโร
+<span class="LineNumber"> 011 </span>หิมวนฺตปฺปเทเส  วาสํ  กปฺเปสิ ฯ  ตสฺสาสนฺเน  เอโก  ปจฺจนฺตคาโม
+<span class="LineNumber"> 012 </span>กทาจิ  วสติ  กทาจิ  อุพฺพสติ  (๓)  ตสฺส  ปน  คามกสฺส  มชฺเฌ  
+<span class="LineNumber"> 013 </span>สาขาวิฏปสมฺปนฺโน  มธุรผโล  เอโก  ตินฺทุกรุกฺโข  (๔)  อตฺถิ ฯ
+<span class="LineNumber"> 014 </span>วานรคโณ อุพฺพสิตกาเล (๕)  อาคนฺตฺวา  ตสฺส  ผลานิ  ขาทติ ฯ 
+<span class="LineNumber"> 015 </span>อถาปรสฺมึ  ผลวาเร  โส  คาโม  ปุน  มนุสฺสวาโส  อโหสิ  
+<span class="LineNumber"> 016 </span>นฬปริกฺขิตฺโต  (๖) ทฺวารยุตฺโต ฯ  โสปิ  รุกฺโข  ผลธโร  นมิตสาโข (๗)
+<span class="LineNumber"> 017 </span>อฏฺ€าสิ ฯ วานรคโณ จินฺเตสิ มยํ ปุพฺเพ อสุกคาเม  
+<span class="LineNumber"> 018 </span>ตินฺทุกผลานิ  ขาทาม  ผลิโก  นุ  โข  โส  เอตรหิ รุกฺโข
+<span class="LineNumber"> 019 </span># ๑. ขุ. ชา. ๒๘/๕๒/๒๓ ฯ  ๒. ขุ. ชา. ๒๘/๖๐๐/๒๒๓ ฯ  ๓. อุพฺพิสตีติปิ ฯ
+<span class="LineNumber"> 020 </span># ๔. ติณฺฑุกรุกฺโขติปิ ฯ  ๕. อุพฺพิสิตกาเลติปิ ฯ  ๖. ม. ทฬฺหปริกฺขิตฺโต ฯ
+<span class="LineNumber"> 021 </span># ๗.  ม. ผลภารนมิตสาโข ฯ

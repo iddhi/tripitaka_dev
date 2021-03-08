@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 225
+
+<span class="LineNumber"> 002 </span>อชฺช  ราชานํ  มิจฺฉาทสฺสนํ  วิสชฺชาเปสฺสตีติ  สกลนครํ  
+<span class="LineNumber"> 003 </span>เอกโกลาหลมกาสิ(๑) ฯ  มหาสตฺตสฺสานุภาเวน  ตทา  สตฺตโยชนิกาย
+<span class="LineNumber"> 004 </span>มิถิลาย  นครวาสี  ตสฺส  ธมฺมเทสนํ  อสุณนฺโต  นาม  นาโหสิ ฯ
+<span class="LineNumber"> 005 </span>อถ  มหาสตฺโต  อยํ  ราชา  อติวิย  ทฬฺหํ  กตฺวา  มิจฺฉาทสฺสนํ  
+<span class="LineNumber"> 006 </span>คณฺหิ  นิรยภเยน  นํ  สนฺตชฺเชตฺวา  มิจฺฉาทิฏฺ€ึ  วิสชฺชาเปตฺวา
+<span class="LineNumber"> 007 </span>ปุน  เทวโลเกน  อสฺสาเสสฺสามีติ  จินฺเตตฺวา  มหาราช  สเจ  ตฺวํ
+<span class="LineNumber"> 008 </span>มิจฺฉาทิฏฺ€ึ(๒)  น  วิสชฺเชสฺสสิ เอวํ อนนฺตทุกฺขํ นิรยํ คมิสฺสสีติ 
+<span class="LineNumber"> 009 </span>วตฺวา นิรยกถํ ปฏฺ€เปสิ  
+<span class="LineNumber"> 010 </span>	[๘๗๗]อิโต คโต ทกฺขสิ ตตฺถ ราช  
+<span class="LineNumber"> 011 </span>		กาโกลุสงฺเฆหิ(๓) วิกสฺสมานํ  
+<span class="LineNumber"> 012 </span>		ตํ ขชฺชมานํ นิรเย วสนฺตํ  
+<span class="LineNumber"> 013 </span>		กาเกหิ คิชฺเฌหิ จ โสนเขหิ(๔)  
+<span class="LineNumber"> 014 </span>		สฺฉนฺนคตฺตํ รุธิรํ สวนฺตํ  
+<span class="LineNumber"> 015 </span>		โก โจทเย ปรโลเก สหสฺสนฺติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  กาโกลุสงฺเฆหีติ  โลหตุณฺเฑหิ  กาโกลุสงฺเฆหิ(๕) ฯ 
+<span class="LineNumber"> 017 </span>วิกสฺสมานนฺติ  อตฺตานํ  อากฑฺฒิยมานํ  ตตฺถ  นิรเย  ปสฺสิสฺสสิ ฯ
+<span class="LineNumber"> 018 </span>ตนฺติ  ตํ  ภวนฺตํ ฯ  
+<span class="LineNumber"> 019 </span>	โส  ปนสฺส  กาโกลุสงฺฆนิรยํ(๖)  วณฺเณตฺวา  สเจ  เอตฺถ  น 
+<span class="LineNumber"> 020 </span># ๑. ม. เอกโกลาหลํ อกาสิ ฯ ๒. ม. ทิฏฺ€ึ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. กาโกลสงฺเฆหิ ฯ ๔. ม. เสนเกหิ ฯ ๕. ม. กากสงฺเฆหิ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ตํ ปน กาโกลนิรยํ ฯ

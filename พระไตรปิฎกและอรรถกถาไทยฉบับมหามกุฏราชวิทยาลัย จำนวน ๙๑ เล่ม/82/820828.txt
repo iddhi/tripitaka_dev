@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๓.  นิโรธสัจจะ</H2>
+<span class="LineNumber"> 002 </span>         ธรรมที่ไม่ชื่อว่านิโรธ,  ไม่ชื่อว่านิโรธสัจจะ  ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ไม่ชื่อว่านิโรธสัจจะ,  ไม่ชื่อว่านิโรธ   ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ยกเว้นนิโรธสัจจะเสียแล้ว นิโรธที่เหลือนอกนั้นไม่ชื่อว่านิโรธ
+<span class="LineNumber"> 006 </span>สัจจะ  แต่ชื่อว่านิโรธ     ยกเว้นนิโรธและนิโรธสัจจะเสียแล้ว    ธรรม   
+<span class="LineNumber"> 007 </span>ที่เหลือนอกนั้นไม่ชื่อนิโรธและไม่ชื่อว่านิโรธสัจจะ.
+<span class="LineNumber"> 008 </span>                                     <I>จบ   นิโรธสัจจะ</I>
+<span class="LineNumber"> 009 </span>                                    <H2>๔.  มัคคสัจจะ</H2>
+<span class="LineNumber"> 010 </span>         ธรรมที่ไม่ชื่อว่ามรรค,  ไม่ชื่อว่ามัคคสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ธรรมที่ไม่ชื่อว่ามัคคสัจจะ,  ไม่ชื่อว่ามรรค  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ยกเว้นมัคคสัจจะเสียแล้ว     มรรคที่เหลือนอกนั้นไม่ชื่อว่ามัคค-
+<span class="LineNumber"> 014 </span>สัจจะ  แต่ชื่อว่ามรรค,    ยกเว้นมรรคและมัคคสัจจะเสียแล้ว     ธรรมที่
+<span class="LineNumber"> 015 </span>เหลือนอกนั้นไม่ชื่อว่ามรรคและไม่ชื่อว่ามัคคสัจจะ.
+<span class="LineNumber"> 016 </span>                                      <I>จบ   มัคคสัจจะ</I>
+<span class="LineNumber"> 017 </span>                            <I>ปทโสธนวาระ  ปัจจนิก  จบ</I>

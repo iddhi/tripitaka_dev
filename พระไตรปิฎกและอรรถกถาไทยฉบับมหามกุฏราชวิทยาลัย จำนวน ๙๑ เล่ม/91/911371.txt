@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๑๐๗๑]  ในเหตุปัจจัย  มี ๒๑ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                     <H2>อกุศลบท</H2>
+<span class="LineNumber"> 004 </span>           [๑๐๗๒] ๑.  <B>อกุศลธรรม   ที่เป็นปริตตารัมมณธรรม   อาศัย
+<span class="LineNumber"> 005 </span>ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่ปริตตารัมมณธรรม  เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 006 </span>ปัจจัย</B>  
+<span class="LineNumber"> 007 </span>                                            <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๑๐๗๓]  ในเหตุปัจจัย  มี  ๑๔ วาระ  ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                     <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 011 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                              <H2>๑. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                                    <H2>อัพยากตบท</H2>	
+<span class="LineNumber"> 014 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อัพยากตธรรม     ที่ไม่ใช่ปริตตา-
+<span class="LineNumber"> 015 </span>รัมมณธรรม  เป็นปัจจัยแก่อัพยากตธรรม    ที่เป็นปริตตรัมมณธรรม
+<span class="LineNumber"> 016 </span>ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>                                               <B>ฯลฯ</B>

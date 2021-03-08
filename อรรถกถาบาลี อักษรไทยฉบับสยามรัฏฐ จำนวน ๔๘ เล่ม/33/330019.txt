@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  33  ธมฺมเทวปุตฺตชาตกํ หน้า  19  
+
+<span class="LineNumber"> 002 </span>	ตโตปโร (๑)  อาห  
+<span class="LineNumber"> 003 </span>[๑๕๑๖]อธมฺมยานํ ทฬฺหมารุหิตฺวา  
+<span class="LineNumber"> 004 </span>		อสนฺตสนฺโต พลวาหมสฺมิ  
+<span class="LineNumber"> 005 </span>		ส กิสฺส เหตุมฺหิ ตวชฺชทชฺชํ  
+<span class="LineNumber"> 006 </span>		มคฺคํ อหํ ธมฺม อทินฺนปุพฺพํ ฯ  
+<span class="LineNumber"> 007 </span>[๑๕๑๗]ธมฺโม หเว ปาตุรโหสิ ปุพฺเพ  
+<span class="LineNumber"> 008 </span>		ปจฺฉา อธมฺโม อุทปาทิ โลเก  
+<span class="LineNumber"> 009 </span>		เชฏฺโ€ จ เสฏฺโ€ จ สนนฺตโน จ  
+<span class="LineNumber"> 010 </span>		อุยฺยาหิ เชฏฺ€สฺส กนิฏฺ€ มคฺคา ฯ  
+<span class="LineNumber"> 011 </span>[๑๕๑๘]น ยาจนาย นปิ ปาฏิรูปา  
+<span class="LineNumber"> 012 </span>		น อรหติ (๒)  เตหํ ทเทยฺย (๓)  มคฺคํ  
+<span class="LineNumber"> 013 </span>		ยุทฺธฺจ โน โหตุ อุภินฺนมชฺช  
+<span class="LineNumber"> 014 </span>		ยุทฺธสฺมิ โย ชียติ (๔)  ตสฺส มคฺโค ฯ  
+<span class="LineNumber"> 015 </span>[๑๕๑๙]สพฺพา ทิสา อนุสโฏหมสฺมิ (๕)   
+<span class="LineNumber"> 016 </span>		มหพฺพโล อมิตยโส อตุลฺโย  
+<span class="LineNumber"> 017 </span>		คุเณหิ สพฺเพหิ อุเปตรูโป  
+<span class="LineNumber"> 018 </span>		ธมฺโม อธมฺม ตฺวํ กถํ วิเชสฺสสิ ฯ  
+<span class="LineNumber"> 019 </span>[๑๕๒๐]โลเหน เว หฺติ ชาตรูปํ  
+<span class="LineNumber"> 020 </span>#๑.  ม. ตโต  ปรา ฯ    ๒.  สฺยา. อรหตฺตา ฯ  ม.  อรหตา ฯ  สี. ยุ. น
+<span class="LineNumber"> 021 </span>#อรหติ ฯ    ๓.  ม. ทเทยฺยํ ฯ    ๔.  สฺยา. ชิสฺสติ ฯ  ม. เชสฺสติ ฯ
+<span class="LineNumber"> 022 </span>#๕.  สฺยา. อนุวิสฺสโฏหมสฺมิ ฯ  

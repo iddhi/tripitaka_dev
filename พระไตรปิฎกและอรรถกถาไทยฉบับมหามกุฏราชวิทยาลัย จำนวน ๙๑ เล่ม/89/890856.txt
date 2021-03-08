@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ในปฏิสนธิขณะ  ขันธ์ ๓   อาศัยขันธ์ ๑   ที่เป็นรูปาวจรธรรม
+<span class="LineNumber"> 002 </span>และหทยวัตถุ ฯลฯ  ขันธ์  ๒ อาศัยขันธ์ ๒.
+<span class="LineNumber"> 003 </span>                    ๖.   <B>ธรรมที่ไม่ใช่รูปาวจรธรรม    อาศัยรูปาวจรธรรม
+<span class="LineNumber"> 004 </span>และธรรมที่ไม่ใช่รูปาวจรธรรม  เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ   จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลายที่เป็นรูปาวจรธรรม   ซึ่ง
+<span class="LineNumber"> 006 </span>เป็นวิบาก   และมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 007 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 008 </span>                    ๗.  <B>รูปาวจรธรรม     และธรรมที่ไม่ใช่รูปาวจรธรรม
+<span class="LineNumber"> 009 </span>อาศัยรูปาวจรธรรม  และธรรมที่ไม่ใช่รูปาวจรธรรม เกิดขึ้น  เพราะ
+<span class="LineNumber"> 010 </span>นอธิปติปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  ในปฏิสนธิขณะ  ขันธ์ ๓   อาศัยขันธ์ ๑   ที่เป็นรูปาวจรธรรม
+<span class="LineNumber"> 012 </span>และหทยวัตถุ ฯลฯ   ขันธ์ ๒.
+<span class="LineNumber"> 013 </span>         กฏัตตารูป    อาศัยขันธ์ทั้งหลายที่เป็นรูปาวจรธรรม    และมหาภูตรูป
+<span class="LineNumber"> 014 </span>ทั้งหลาย.
+
+<span class="LineNumber"> 015 </span>                   <H2>๔.   อนันตรปัจจัย    ฯลฯ  ๖.  นอุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 016 </span>         <B>ฯลฯ   เพราะนอนันตรปัจจัย</B>
+<span class="LineNumber"> 017 </span>         <B>ฯลฯ   เพราะนสมนันตรปัจจัย</B>
+<span class="LineNumber"> 018 </span>         <B>ฯลฯ   เพราะนอุปนิสสยปัจจัย</B>
+
+<span class="LineNumber"> 019 </span>                                         <H2>๗.   ปุเรชาตปัจจัย</H2>
+<span class="LineNumber"> 020 </span>         [๗๕๕] ๑.  <B>รูปาวจรธรรม อาศัยรูปาวจรธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 021 </span>นปุเรชาตปัจจัย</B>

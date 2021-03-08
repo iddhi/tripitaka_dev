@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>โลเก  ปิยรูป  สาตรูปํ</B>  		เป็นที่รักที่ยินดีในโลก   
+<span class="LineNumber"> 002 </span><B>เอตฺเถสา  ตณฺหา</B>			ตัณหานั้น  เมื่อจะเกิดขึ้น  ก็ย่อม
+<span class="LineNumber"> 003 </span><B>อุปฺปชฺชมานา  อุปฺปชฺชติ</B>		เกิดขึ้นที่ความรู้ทางตา  หู  จมูก  ลิ้น
+<span class="LineNumber"> 004 </span>					กาย  ใจนั้น
+<span class="LineNumber"> 005 </span><B>เอตฺถ  นิวีสมานา  นิวีสติ</B>		เมื่อจะตั้งอยู่  ก็ย่อมตั้งอยู่ที่ความรู้
+<span class="LineNumber"> 006 </span>					ทางตา  หู  จมูก  ลิ้น  กาย  ใจนั้น.
+<span class="LineNumber"> 007 </span>	<B>๔.  จกฺขุสมฺผสฺโส</B>		ความกระทบทางตา
+<span class="LineNumber"> 008 </span><B>โสตสมฺผสฺโส</B>			ความกระทบทางหู
+<span class="LineNumber"> 009 </span><B>ฆานสมฺผสฺโส</B>			ความกระทบทางจมูก
+<span class="LineNumber"> 010 </span><B>ชิวฺหาสมฺผสฺโส</B>			ความกระทบทางลิ้น
+<span class="LineNumber"> 011 </span><B>กายสมฺผสฺโส</B>			ความกระทบทางกาย
+<span class="LineNumber"> 012 </span><B>มโนสมฺผสฺโส</B>			ความกระทบทางใจ
+<span class="LineNumber"> 013 </span><B>โลเก  ปิยรูปํ  สาตรูปํ</B>		เป็นที่รักที่ยินดีในโลก
+<span class="LineNumber"> 014 </span><B>เอตฺเถสา  ตณฺหา</B>			ตัณหานั้น  เมื่อจะเกิดขึ้น  ก็ย่อม
+<span class="LineNumber"> 015 </span><B>อุปฺปชฺชมานา อุปฺปชฺชติ</B>		เกิดขึ้นที่ความกระทบทางตา  หู
+<span class="LineNumber"> 016 </span>					จมูก  ลิ้น  กาย  ใจนั้น
+<span class="LineNumber"> 017 </span><B>เอตฺถ  นิวีสมานา  นิวีสติ</B>		เมื่อจะตั้งอยู่  ก็ย่อมตั้งอยู่ที่ความ
+<span class="LineNumber"> 018 </span>					กระทบทางตา  หู  จมูก  ลิ้น  กาย
+<span class="LineNumber"> 019 </span>					ใจนั้น.
+<span class="LineNumber"> 020 </span>	<B>๕. จกฺขุสมฺผสฺสชา</B>		เวทนาที่เกิดแต่จักษุสัมผัส
+<span class="LineNumber"> 021 </span><B>เวทนา</B>
+

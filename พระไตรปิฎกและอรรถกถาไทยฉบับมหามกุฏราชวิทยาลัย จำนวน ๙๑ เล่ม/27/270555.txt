@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>ว่า เป็นนิยยานิกธรรม.  
+<span class="LineNumber"> 002 </span>           ก็มนุษย์ทั้งหลาย ได้ฟังกถานั้นแล้ว พากันเลื่อมใสในพระศาสนา 
+<span class="LineNumber"> 003 </span>ประมาณ ๕๐๐ ตระกูล แล.
+<span class="LineNumber"> 004 </span>                                <I>จบ  อรรถกถาสูจิมุขีสูตรที่  ๑๐
+<span class="LineNumber"> 005 </span>                         จบ  อรรถกถาสารีปุตตสังยุต</I>
+
+<span class="LineNumber"> 006 </span>                    <H2>รวมพระสูตรที่มีในสังยุตนี้  คือ</H2>
+<span class="LineNumber"> 007 </span>           <B>๑.  วิเวกสูตร  ๒.  อวิตักกสูตร  ๓.  ปีติสูตร   ๔.  อุเปกขาสูตร  
+<span class="LineNumber"> 008 </span>๕.   อากาสานัญจายตนสูตร   ๖.  วิญญาณัญจายตนสูตร     ๗.  อากิญ-
+<span class="LineNumber"> 009 </span>จัญญายตนสูตร  ๘.  เนวสัญญานาสัญญายตนสูตร   ๙.  สัญญาเวทยิต-
+<span class="LineNumber"> 010 </span>นิโรธสูตร ๑๐.  สูจิมุขีสูตร.</B>

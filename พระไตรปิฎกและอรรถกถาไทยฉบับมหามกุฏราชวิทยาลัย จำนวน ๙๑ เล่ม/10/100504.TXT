@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>ว่าด้วยงดปาติโมกข์ </H1>  
+<span class="LineNumber"> 002 </span>           [๙๙๐]  งดปาติโมกข์ไม่เป็นธรรมมี  ๖  งดปาติโมกข์เป็นธรรมมี  ๖.
+<span class="LineNumber"> 003 </span>                                      <I>หมวด  ๖ จบ</I>
+
+<span class="LineNumber"> 004 </span>                                 <H1>หัวข้อประจำหมวด</H1> 
+<span class="LineNumber"> 005 </span>              	              [๙๙๑]  <B>อคารวะ ๑  คารวะ  ๑  วินีต-
+<span class="LineNumber"> 006 </span>                   วัตถุ  ๑  สามีจิกรรม  ๑  สมุฏฐานอาบัติ  ๑
+<span class="LineNumber"> 007 </span>                   สิกขาบทมีการตัดเป็นวินัยกรรม ๑  อาการ  ๑ 
+<span class="LineNumber"> 008 </span>                   อานิสงส์  ๑  สิกขาบทว่าด้วยอย่างยิ่ง  ๑
+<span class="LineNumber"> 009 </span>                   อยู่ปราศ  ๖  ราตรี  ๑  จีวร  ๑  น้ำย้อม  ๑
+<span class="LineNumber"> 010 </span>                   อาบัติเกิดแต่กายกับจิต  ๑  วาจากับจิต  ๑
+<span class="LineNumber"> 011 </span>                   กายวาจาและจิต  ๑  กรรม  ๑  มูลแห่งวิวาท  ๑
+<span class="LineNumber"> 012 </span>                   มูลแห่งการโจท  ๑  ด้านยาว ๑  ด้ายกว้าง  ๑
+<span class="LineNumber"> 013 </span>                   นิสัยระงับ  ๑  อนุบัญญัติ ๑  ถือเอาจีวรที่ทำ
+<span class="LineNumber"> 014 </span>                   ค้าง  ๑  เก็บเอาจีวรที่ทำค้าง  ๑  อเสขธรรม  ๑
+<span class="LineNumber"> 015 </span>                   ชักชวนผู้อื่นในอเสขธรรม  ๑  มีศรัทธา  ๑
+<span class="LineNumber"> 016 </span>                   อธิศีล  ๑  พยาบาลผู้อาพาธ ๑  ฝึกปรือใน
+<span class="LineNumber"> 017 </span>                   อภิสมาจาร  ๑  รู้อาบัติ  ๑  งดปาติโมกข์ไม่
+<span class="LineNumber"> 018 </span>                   เป็นธรรม  ๑  งดปาติโมกข์เป็นธรรม  ๑.</B>
+<span class="LineNumber"> 019 </span>                                <I>หัวข้อประจำหมวด  ๖  จบ</I>

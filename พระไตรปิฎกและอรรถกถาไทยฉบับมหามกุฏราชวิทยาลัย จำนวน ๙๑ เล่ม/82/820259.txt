@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>เวทนาขันธมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๒๖๔]   เวทนาขันธ์เคยเกิดแก่บุคคลใด,   สัญญาขันธ์ก็จักดับ
+<span class="LineNumber"> 004 </span>บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         เมื่อปรินิพพันตบุคคลเหล่านั้นกำลังปรินิพพาน     เวทนาขันธ์
+<span class="LineNumber"> 006 </span>เคยเกิดแก่บุคคลเหล่านั้น  แต่สัญญาขันธ์ไม่ใช่จักดับแก่บุคคลเหล่านั้น,
+<span class="LineNumber"> 007 </span>บุคคลที่นอกจากนี้เวทนาขันธ์เคยเกิด    และสัญญาขันธ์ก็จักดับแก่บุคคล
+<span class="LineNumber"> 008 </span>เหล่านั้น.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   สัญญาขันธ์จักดับแก่บุคคลใด,   เวทนาขันธ์ก็เคยเกิด 
+<span class="LineNumber"> 010 </span>แก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>                        <I>จบ   เวทนาขันธมูละ   สัญญาขันธมูลี</I>
+<span class="LineNumber"> 013 </span>                                      <I>เวทนาขันธมูล    จบ</I>
+<span class="LineNumber"> 014 </span>                                        <I>ปุคคลวาระ   จบ</I>

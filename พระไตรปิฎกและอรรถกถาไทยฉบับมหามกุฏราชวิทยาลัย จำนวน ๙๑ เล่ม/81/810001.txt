@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>พระอภิธรรมปิฎก</H1> 
+<span class="LineNumber"> 002 </span>                                               <H3>เล่มที่  ๔</H3>
+<span class="LineNumber"> 003 </span>                                   <H2>กถาวัตถุ  ภาคที่  ๒</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>ทุติยปัณณาสก์</H2>
+<span class="LineNumber"> 005 </span>                                              <H3>วรรคที่  ๖</H3>
+<span class="LineNumber"> 006 </span>                                             <H1>นิยามกถา</H1>
+
+<span class="LineNumber"> 007 </span>         [๑๐๗๗]   <B>สกวาที</B>  นิยาม  คือ  ทางอันแน่นอน  เป็นสังขตะ  หรือ  ?
+<span class="LineNumber"> 008 </span>                         <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                         ส.  เป็นนิพพาน  เป็นที่ต้านทาน  เป็นที่เร้น  เป็นที่พึ่ง  เป็น
+<span class="LineNumber"> 010 </span>ที่หมาย   เป็นฐานะอันไม่เคลื่อน  เป็นอมตะ   หรือ ?
+<span class="LineNumber"> 011 </span>                         ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>         [๑๐๗๘]   ส. นิยามเป็นอสังขตะ  นิพพานก็เป็นอสังขตะ  หรือ ?
+<span class="LineNumber"> 013 </span>                         ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                         ส.  อสังขตะ  เป็น  ๒  อย่าง  หรือ ?
+<span class="LineNumber"> 015 </span>                         ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 016 </span>                         ส.  อสังขตะ  เป็น  ๒  อย่าง  หรือ ?
+<span class="LineNumber"> 017 </span>                         ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                         ส. ที่ต้านทาน  ก็เป็น  ๒  อย่าง  ที่เร้นก็เป็น  ๒  อย่าง  ที่พึ่งก็
+<span class="LineNumber"> 019 </span>เป็น  ๒  อย่าง  ที่หมายก็เป็น  ๒  อย่าง  ฐานะอันไม่เคลื่อนก็เป็น  ๒  อย่าง  อมตะ

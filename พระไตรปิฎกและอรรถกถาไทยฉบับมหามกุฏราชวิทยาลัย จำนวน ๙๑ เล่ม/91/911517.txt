@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>ปัญหาวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                  <H2>๑. อนันตรปัจจัย</H2> 
+<span class="LineNumber"> 004 </span>                                        <H2>อนุตตรบท</H2>
+<span class="LineNumber"> 005 </span>           [๑๔๘๓] ๑.  <B>ธรรมที่ไม่ใช่อนุตตรธรรม  ที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 006 </span>เป็นปัจจัยแก่อนุตตรธรรมที่เป็นอรณธรรม   ด้วยอำนาจของอนันตร-
+<span class="LineNumber"> 007 </span>ปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 009 </span>           [๑๔๘๔]  ในอนันตรปัจจัย มี ๑ วาระ  ในสมันนตรปัจจัย  มี  ๑ วาระ
+<span class="LineNumber"> 010 </span>ในอุปนิสสยปัจจัย มี ๒ วาระ   ในปุเรชาตปัจจัย  มี  ๑  วาระ    ในอาเสวนปัจจัย
+<span class="LineNumber"> 011 </span>มี ๑  วาระ  ในวิปปยุตตปัจจัย มี ๑ วาระ  ในอัตถิปัจจัย มี  ๑  วาระ    ในนัตถิ-
+<span class="LineNumber"> 012 </span>ปัจจัย มี ๑ วาระ  ในวิคตปัจจัย มี ๑  วาระ   ในอวิคตปัจจัย  มี ๑  วาระ.
+
+<span class="LineNumber"> 013 </span>                                          <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 014 </span>                             <H2>การยกปัจจัยในปัจจนียะ</H2>
+<span class="LineNumber"> 015 </span>           [๑๔๘๕] ๑.  <B>ธรรมที่ไม่ใช่อนุตตรธรรม  ที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 016 </span>เป็นปัจจัยแก่อนุตตรธรรม   ที่เป็นอรณธรรม    ด้วยอำนาจของอุป-
+<span class="LineNumber"> 017 </span>นิสสยปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของปุเรชาตปัจจัย.</B>
+<span class="LineNumber"> 018 </span>                         ๒.  <B>ธรรมที่ไม่ใช่อนุตตรธรรม  ที่ไม่ใช่อรณธรรม
+<span class="LineNumber"> 019 </span>เป็นปัจจัยแก่อนุตตรธรรม  ที่เป็นอรณธรรม    ด้วยอำนาจของอุป-
+<span class="LineNumber"> 020 </span>นิสสยปัจจัย.</B>                                                   

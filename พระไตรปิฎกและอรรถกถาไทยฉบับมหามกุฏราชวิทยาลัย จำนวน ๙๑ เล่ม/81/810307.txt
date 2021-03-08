@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ทุกข์  หรือ ?  
+<span class="LineNumber"> 002 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 003 </span>         [๑๔๕๙]  ส. เมื่อกล่าววาจาว่า   อิทํ  ทุกฺขํ   (นี้ทุกข์)    ญาณว่า
+<span class="LineNumber"> 004 </span>อิทํ   ทุกฺขํ  ก็เป็นไป หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ส. ญาณว่า   อิ  ญาณว่า   ทํ  ญาณว่า  ทุ  และญาณว่า  ขํ
+<span class="LineNumber"> 007 </span>ก็เป็นไป  หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 009 </span>                               <I>อิทังทุกขันติกถา  จบ</I>
+
+<span class="LineNumber"> 010 </span>                   <H2>อรรถกถาอิทัง    ทุกขันติกถา</H2>
+
+<span class="LineNumber"> 011 </span>      <H2>พรรณนากถาว่าด้วย  การเปล่งวาจาว่านี้ทุกข์</H2>
+
+<span class="LineNumber"> 012 </span>         บัดนี้  ชื่อว่าเรื่องการเปล่งวาจานี้ทุกข์.     ในเรื่องนั้น  ชนเหล่าใด 
+<span class="LineNumber"> 013 </span>มีความเห็นผิดดุจลัทธิของนิกายอันธกะทั้งหลายว่า   ในขณะแห่งโลกุตตรมรรค
+<span class="LineNumber"> 014 </span>เกิด    พระโยคาวจรย่อมเปล่งวาจาว่านี้ทุกข์   ฉันใด    ญาณว่านี้ทุกข์ย่อม
+<span class="LineNumber"> 015 </span>เป็นไปแก่พระโยคาวจรผู้กล่าววาจาว่า    นี้ทุกข์ฉันนั้น    ดังนี้    คำถามของ
+<span class="LineNumber"> 016 </span>สกวาทีหมายถึงชนเหล่านั้น     คำตอบรับรองของปรวาทีหมายเอาการ
+<span class="LineNumber"> 017 </span>กล่าววาจาเช่นนั้น    และความเป็นไปแห่งญาณในขณะแห่งมรรค.    อนึ่ง
+<span class="LineNumber"> 018 </span>ปรวาทีนั้นปรารถนาว่า      ปุถุชนย่อมกล่าววาจาอันประกอบด้วยสัจจะ
+<span class="LineNumber"> 019 </span>ที่เหลือ    แต่ว่าญาณเช่นนั้นย่อมไม่เป็นไปแก่เขา    เหตุใด    เพราะเหตุนั้น
+<span class="LineNumber"> 020 </span>ท่านจึงปฏิเสธในปัญหามี   <B>สมุทัย</B> เป็นต้น.

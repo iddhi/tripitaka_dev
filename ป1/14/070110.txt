@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ใช้แทนศัพท์พวกไหนบ้าง ? 
+<span class="LineNumber"> 002 </span>	ต.ใช้ปัจจัยแทนศัพท์  ๒ ตัว  คือ ณ , แทนศัพท์ต่าง ๆ มี ราคา
+<span class="LineNumber"> 003 </span>เป็นต้น มิได้จำกัดศัพท์  เช่นเดียวกับตรตยาทิตัทธิต  แต่ในแบบที่
+<span class="LineNumber"> 004 </span>ท่านแสดงเป็นตัวอย่างไว้ดังนี้ :- 
+<span class="LineNumber"> 005 </span>	ใช้แทนศัพท์      รตฺตํ     เช่น     กาสาวํ  [ ผ้า ]  อันบุคคลย้อมแล้ว
+<span class="LineNumber"> 006 </span>                                                                               ด้วยน้ำฝาด.
+<span class="LineNumber"> 007 </span>	  "             "     อิทํ  มํสํ     "         มาหิสํ   [ เนื้อนี้ ]  ของกระบือ.
+<span class="LineNumber"> 008 </span>	  "             "      ชาโต        "         มาคโธ  ผู้เกิดแล้วในแว่นแคล้นมคธ.
+<span class="LineNumber"> 009 </span>	  "             "       วสติ         "         มาคโธ  ผู้อยู่ในแว่นแคว้นมคธ.
+<span class="LineNumber"> 010 </span>	  "             "       อิสฺสโร      "         มาคโธ   ผู้เป็นใหญ่ในแว่นแคว้นมคธ.
+<span class="LineNumber"> 011 </span>	  "             "        นิยุตฺโต    "          กตฺติโก  [ เดือน ]  ประกอบด้วยฤกษ์-
+<span class="LineNumber"> 012 </span>                                                                                 กัตติกา.
+<span class="LineNumber"> 013 </span>	  "             "        อธิเต        "          เวยฺยากรโณ    ผู้เรียนซึ่งพยากรณ์.
+<span class="LineNumber"> 014 </span>                                                                                  [อ. น. ].
+<span class="LineNumber"> 015 </span>	ถ.   ราคาทิตัทธิต  เป็นนามหรือคุณ ?  ต่างจากตรตยาทิตัทธิต
+<span class="LineNumber"> 016 </span>อย่างไรบ้าง ?
+<span class="LineNumber"> 017 </span>	ต.  เป็นคุณล้วน,  ต่างจากตรตยาทิตัทธิตก็เพียงเป็นปัจจัยเท่านั้น
+<span class="LineNumber"> 018 </span>คือ ในตรตยาทิตัทธิใช้ ณิก, ตัทธิตนี้ใช้  ณ, ส่วนการตั้งวิเคราะห์
+<span class="LineNumber"> 019 </span>การแปลเหมือนกัน  เป็นคุณและมีปัจจัยตัวเดียวเหมือนกัน.  [ อ. น. ]
+<span class="LineNumber"> 020 </span>	ถ. ตัทธิตไหนบ้าง ใช้ปัจจัยแทนศัพท์เป็นอันมาก  ? จงเขียน
+<span class="LineNumber"> 021 </span>ศัพท์ที่ประกอบปัจจัยแล้วในตัทธิตเหล่านั้นมาดู.
+   

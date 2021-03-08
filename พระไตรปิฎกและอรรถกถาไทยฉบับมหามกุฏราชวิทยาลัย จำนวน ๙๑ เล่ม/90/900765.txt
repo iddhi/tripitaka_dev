@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>					    <H2>อนุโลมปัจจนียนัย</H2> 
+<span class="LineNumber"> 002 </span>			<H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 003 </span>		[๑๕๖]  เพราะเหตุปัจจัย  ในนอารัมมณปัจจัย มี  ๑๐ วาระ...ฯลฯ
+<span class="LineNumber"> 004 </span>					  <H2>ปัจจนียานุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>		     <H2>การนับจำนวนวาระในปัจจนียานุโลม</H2>
+<span class="LineNumber"> 006 </span>		[๑๕๗]  <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย  มี ๑๖  วาระ... ฯลฯ
+<span class="LineNumber"> 007 </span>แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+
+<span class="LineNumber"> 008 </span>				    <H1>นเหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 009 </span>				      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>				   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>		[๑๕๘]  ๑.  นเหตุธรรมที่เป็นปีติสหคตธรรม    อาศัยนเหตุ-
+<span class="LineNumber"> 012 </span>ธรรมที่เป็นปีติสหคตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>                       ๒.  นเหตุธรรมที่เป็นสุขสหคตธรรม  อาศัยนเหตุ-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นปีติสหคตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                       ๓.  นเหตุธรรมที่เป็นปีติสหคตธรรม และนเหตุธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นสุขสหคตธรรม อาศัยนเหตุธรรมที่เป็นปีติสหคตธรรม เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะเหตุปัจจัย

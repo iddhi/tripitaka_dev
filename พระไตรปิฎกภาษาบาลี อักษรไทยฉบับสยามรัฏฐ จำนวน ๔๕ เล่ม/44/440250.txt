@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                    จิตฺตสํสฏฺ€ทุกกุสลตฺติกํ      
+<span class="LineNumber"> 002 </span>                       ปฏิจฺจวาโร         
+<span class="LineNumber"> 003 </span>    [๑๔๖๔]   จิตฺตสํสฏฺ€ํ   กุสลํ   ธมฺมํ   ปฏิจฺจ  จิตฺตสํสฏฺโ€  กุสโล      
+<span class="LineNumber"> 004 </span>ธมฺโม อุปฺปชฺชติ เหตุปจฺจยา: ฯ            
+<span class="LineNumber"> 005 </span>    [๑๔๖๕] เหตุยา เอกํ อารมฺมเณ เอกํ อวิคเต เอกํ ฯ   
+<span class="LineNumber"> 006 </span>         สหชาตวาเรปิ ปฺหาวาเรปิ สพฺพตฺถ เอกํ ฯ   
+<span class="LineNumber"> 007 </span>                       __________           
+<span class="LineNumber"> 008 </span>                       ปฏิจฺจวาโร         
+<span class="LineNumber"> 009 </span>    [๑๔๖๖]   จิตฺตสํสฏฺ€ํ   อกุสลํ  ธมฺมํ  ปฏิจฺจ  จิตฺตสํสฏฺโ€  อกุสโล      
+<span class="LineNumber"> 010 </span>ธมฺโม อุปฺปชฺชติ เหตุปจฺจยา: ฯ            
+<span class="LineNumber"> 011 </span>    [๑๔๖๗] เหตุยา เอกํ อารมฺมเณ เอกํ อวิคเต เอกํ ฯ   
+<span class="LineNumber"> 012 </span>        สหชาตวาเรปิ ปฺหาวาเรปิ สพฺพตฺถ เอกํ ฯ    
+<span class="LineNumber"> 013 </span>                      ______________          
+<span class="LineNumber"> 014 </span>                       ปฏิจฺจวาโร         
+<span class="LineNumber"> 015 </span>    [๑๔๖๘]    จิตฺตสํสฏฺ€ํ    อพฺยากตํ   ธมฺมํ   ปฏิจฺจ   จิตฺตสํสฏฺโ€  
+<span class="LineNumber"> 016 </span>อพฺยากโต   ธมฺโม   อุปฺปชฺชติ   เหตุปจฺจยา:   ตีณิ   ฯ  โนจิตฺตสํสฏฺ€ํ  
+<span class="LineNumber"> 017 </span>อพฺยากตํ     ธมฺมํ    ปฏิจฺจ    โนจิตฺตสํสฏฺโ€    อพฺยากโต    ธมฺโม  

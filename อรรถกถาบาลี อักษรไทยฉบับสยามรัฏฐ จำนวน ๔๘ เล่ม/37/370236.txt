@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  236
+
+<span class="LineNumber"> 002 </span>		สจฺจวากฺยสมตฺตงฺโค	อเปสุฺสุสฺโต  
+<span class="LineNumber"> 003 </span>		คิราสขิลเนลงฺโค		มิตภาณิสิเลสิโต  
+<span class="LineNumber"> 004 </span>		สทฺธาโลภสุสํขาโร		นิวาตฺชลิกุพฺพโร  
+<span class="LineNumber"> 005 </span>		อถทฺธตานตีสาโก		สีลสํวรนทฺธโน  
+<span class="LineNumber"> 006 </span>		อกฺโกธนมนุคฺฆาฏี		ธมฺมปณฺฑรฉตฺตโก  
+<span class="LineNumber"> 007 </span>		พาหุสจฺจมุปาลมฺโพ(๑)	€ิติจิตฺตมุปาธิโย  
+<span class="LineNumber"> 008 </span>		กาลฺุตาจิตฺตสาโร	เวสารชฺชติทณฺฑโก  
+<span class="LineNumber"> 009 </span>		นิวาตวุตฺติโยตฺตงฺโค(๒)	อนติมานยุโค ลหุ  
+<span class="LineNumber"> 010 </span>		อลีนจิตฺตสนฺถาโร		วุฑฺฒิเสวี รโชหโต  
+<span class="LineNumber"> 011 </span>		สติ ปโตโท ธีรสฺส		ธิติ โยโค จ รสฺมิโย  
+<span class="LineNumber"> 012 </span>		มโน ทนฺตํ ปถํ เนติ	สมทนฺเตหิ วาชิภิ  
+<span class="LineNumber"> 013 </span>		อิจฺฉา โลโภ จ กุมฺมคฺโค  อุชุมคฺโคว(๓) สฺโม  
+<span class="LineNumber"> 014 </span>		รูเป สทฺเท รเส คนฺเธ	วาหนสฺส ปธาวโต  
+<span class="LineNumber"> 015 </span>		ปฺา อาโกฏนี ราช	ตตฺถ อตฺตาว สารถิ  
+<span class="LineNumber"> 016 </span>		สเจ เอเตน ยาเนน	สมจริยา ทฬฺหา ธิติ  
+<span class="LineNumber"> 017 </span>		สพฺพกามทุโห ราช	น ชาตุ นิรยํ วเชติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  รถสฺาโตติ  มหาราช  ตว  กาโย  รโถติ  
+<span class="LineNumber"> 019 </span>สฺาโต  โหตุ ฯ  มโนสารถิโกติ  มนสํขาเตน  กุสลจิตฺเตน
+<span class="LineNumber"> 020 </span>สารถินา  สมนฺนาคโต ฯ  ลหูติ  วิคตถีนมิทฺธตาย  สลฺลหุโก ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. พาหุสจฺจมปาลมฺโพ ฯ  ๒. ม. นิวาตวุตฺติโยตฺตโก ฯ 
+<span class="LineNumber"> 022 </span># ๓. ส. ม. อุชุมคฺโค จ ฯ 

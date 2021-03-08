@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>บุคคลหนักในลาภ   ไม่หนักในพระสัทธรรม  ๑  บุคคลหนักในสักการะ   ไม่  
+<span class="LineNumber"> 002 </span>หนักในพระสัทธรรม ๑  นี้แล  บุคคล ๔   จำพวกมีปรากฏอยู่ในโลก 
+<span class="LineNumber"> 003 </span>            ดูก่อนภิกษุทั้งหลาย    บุคคล ๔ จำพวก มีปรากฏอยู่ในโลก  บุคคล
+<span class="LineNumber"> 004 </span>๔  จำพวกคือใคร  คือ  บุคคลหนักในพระสัทธรรม  ไม่หนักในความโกรธ  ๑
+<span class="LineNumber"> 005 </span>บุคคลหนักในพระสัทธรรม    ไม่หนักในความลบหลู่ท่าน  ๑   บุคคลหนักใน
+<span class="LineNumber"> 006 </span>พระสัทธรรม    ไม่หนักในลาภ  ๑  บุคคลหนักในพระสัทธรรม    ไม่หนักใน
+<span class="LineNumber"> 007 </span>สักการะ ๑
+<span class="LineNumber"> 008 </span>	          <B>ภิกษุผู้หนักในความโกรธและความ
+<span class="LineNumber"> 009 </span>  	ลบหลู่ท่าน     หนักในลาภและสักการะ
+<span class="LineNumber"> 010 </span>     	ภิกษุเหล่านั้นย่อมไม่งอกงามในพระธรรม
+<span class="LineNumber"> 011 </span>      	ที่พระสัมมาสัมพุทธเจ้าทรงแสดงแล้ว.
+<span class="LineNumber"> 012 </span>	          ส่วนภิกษุเหล่าใดหนักในพระสัท-
+<span class="LineNumber"> 013 </span>	ธรรมแล้ว  และกำลังหนักในพระสัทธรรม
+<span class="LineNumber"> 014 </span>   	อยู่ ภิกษุเหล่านั้นย่อมงอกงามในพระธรรม
+<span class="LineNumber"> 015 </span>    	ที่พระสัมมาสัมพุทธเจ้าทรงแสดงแล้ว.</B>
+<span class="LineNumber"> 016 </span>                                         <I>จบปฐมโกธสูตรที่  ๓</I>

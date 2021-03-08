@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                     <h1>๗.  สรสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๗๐]   เทวดากล่าวว่า
+<span class="LineNumber"> 003 </span>                             <B>สงสารทั้งหลายย่อมกลับแต่ที่ไหน
+<span class="LineNumber"> 004 </span>                   วัฏฏะย่อมไม่เป็นไปในที่ไหน      นามก็ดี 
+<span class="LineNumber"> 005 </span>                   รูปก็ดี  ย่อมดับหมดในที่ไหน.</B>
+<span class="LineNumber"> 006 </span>         [๗๑]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 007 </span>                             <B>น้ำ   ดิน   ไฟ   ลม   ย่อมไม่ตั้ง
+<span class="LineNumber"> 008 </span>                   อยู่ในที่ใด สงสารทั้งหลายย่อมกลับแต่ที่นี้ 
+<span class="LineNumber"> 009 </span>                   วัฏฏะย่อมไม่เป็นไปในที่นี้ นามก็ดี  รูปก็ดี
+<span class="LineNumber"> 010 </span>                   ย่อมดับหมดในที่นี้.</B>
+
+<span class="LineNumber"> 011 </span>                                    <h1>อรรถกถาสรสูตร</h1>
+
+<span class="LineNumber"> 012 </span>         พึงทราบวินิจฉัยในสรสูตรที่  ๗  ต่อไป :-
+<span class="LineNumber"> 013 </span>         บทว่า  <B>กุโต  สรา  นิวตฺตนฺติ</B>  ได้แก่ ความท่องเที่ยวไปในสงสารนี้
+<span class="LineNumber"> 014 </span>ย่อมสิ้นสุดลงแต่ที่ไหน.    อธิบายว่า    เทวดาย่อมทูลถามว่า     สงสารทั้งหลาย
+<span class="LineNumber"> 015 </span>อาศัยอะไร  จึงไม่เป็นไป  ดังนี้.  พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 016 </span>                             <B>ดินน้ำไฟลม    ย่อมไม่ตั้งอยู่ในที่ใด
+<span class="LineNumber"> 017 </span>                   สงสารทั้งหลายย่อมสิ้นสุดลงแต่ที่นี้  วัฏฏะ</B>

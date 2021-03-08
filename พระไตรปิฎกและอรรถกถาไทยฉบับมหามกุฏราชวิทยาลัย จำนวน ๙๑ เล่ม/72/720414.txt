@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>                                                     <H1>รวมวรรค</H1>
+<span class="LineNumber"> 002 </span>           <B> ๑.  กณิการวรรค   ๒.  ผลทายกวรรค   ๓.  ติณทายกวรรค  ๔.   กัจจา-
+<span class="LineNumber"> 003 </span>ยนวรรค  ๕.  ภัททิยวรรค
+<span class="LineNumber"> 004 </span>	บัณฑิตคำนวณคาถาไว้แผนกหนึ่ง  รวมได้  ๙๘๔  คาถา  และประกาศ
+<span class="LineNumber"> 005 </span>อปทานรวมได้  ๕๕๐  อปทาน  พร้อมกับอุทานคาถา  มีคาถา  รวม  ๖,๒๑๘
+<span class="LineNumber"> 006 </span>คาถา. 
+<span class="LineNumber"> 007 </span>	จบพุทธาปทาน  ปัจเจกพุทธาปทาน  และเถราปทานตั้งแต่เท่านี้</B>

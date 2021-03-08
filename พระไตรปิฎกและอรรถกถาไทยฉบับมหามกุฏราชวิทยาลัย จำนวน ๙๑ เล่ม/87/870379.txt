@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>วิปปยุตตปัจจัย  มี ๑๗ วาระ  ในอัตถิปัจจัย มี ๑๗ วาระ ในนัตถิปัจจัย  มี ๗ 
+<span class="LineNumber"> 002 </span>วาระ  ในวิคตปัจจัย  มี ๗ วาระ ในอวิคตปัจจัย  มี ๑๗ วาระ.
+<span class="LineNumber"> 003 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 004 </span>                                        <I>อนุโลมนัย  จบ</I> 
+
+<span class="LineNumber"> 005 </span>                                            <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 006 </span>                                         <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 007 </span>           [๑๓๘๐] ๑.  <B>ปริตตธรรม  อาศัยปริตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 008 </span>นเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑  ที่เป็นปริตตธรรม
+<span class="LineNumber"> 010 </span>ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒  ฯลฯ
+<span class="LineNumber"> 011 </span>           ในอเหตุกปฏิสนธิขณะ  ฯลฯ  หทยวัตถุ  อาศัยขันธ์ทั้งหลาย,  ขันธ์ทั้ง
+<span class="LineNumber"> 012 </span>หลายอาศัยหทยวัตถุ.
+<span class="LineNumber"> 013 </span>           ฯลฯ  อาศัยมหาภูตรูป ๑ ฯลฯ  ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ
+<span class="LineNumber"> 014 </span>           จักขุวิญญาณ  อาศัยจักขาตนะ ฯลฯ  กายายตนะ.
+<span class="LineNumber"> 015 </span>           ขันธ์ทั้งหลายที่เป็นปริตตธรรม  ซึ่งเป็นอเหตุกะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 016 </span>           โมหะ ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์
+<span class="LineNumber"> 017 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  และหทยวัตถุ.

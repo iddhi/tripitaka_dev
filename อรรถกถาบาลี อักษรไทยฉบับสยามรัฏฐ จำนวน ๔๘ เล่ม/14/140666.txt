@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  14  หน้า  666
+
+<span class="LineNumber"> 002 </span>				ถูปารหสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	ปฺจเม ฯ  ราชา  จกฺกวตฺตีติ  เอตฺถ  กสฺมา  ภควา  
+<span class="LineNumber"> 004 </span>กถยิตฺวา (๑) กาลกตสฺส  รฺโ  ถูปกรณํ  อนุชานาติ  น  สีลวโต  
+<span class="LineNumber"> 005 </span>ปุถุชฺชนภิกฺขุสฺส (๒)  อนจฺฉริยตฺตา (๓) ฯ ปุถุชฺชนภิกฺขูนํ  หิ  ถูเป  
+<span class="LineNumber"> 006 </span>อนุฺายมาเน  ตมฺพปณฺณิทีเป  คามปฏฺฏนานํ (๔)  โอกาโส  จ  
+<span class="LineNumber"> 007 </span>น  ภเวยฺย (๕) ตถา  อฺเสุ  €าเนสุ  ฯ  ตสฺมา  อนจฺฉริยา  เต  
+<span class="LineNumber"> 008 </span>ภวิสฺสนฺตีติ  นานุชานาติ  ฯ  ราชา (๖) เอโกว  นิพฺพตฺตติ  เตนสฺส  
+<span class="LineNumber"> 009 </span>ถูโป  อจฺฉริโย  โหติ  ฯ  ปุถุชฺชนสีลวโต  ปน  ปรินิพฺพุตภิกฺขุโน  
+<span class="LineNumber"> 010 </span>วิย  มหนฺตํปิ  สกฺการํ  กาตุํ  วฏฺฏติเยว  ฯ  
+<span class="LineNumber"> 011 </span>	ฉฏฺ€สตฺตมานิ  อุตฺตานตฺถาเนว  ฯ  
+
+<span class="LineNumber"> 012 </span>				ป€มโวหารสุตฺตวณฺณนา  
+<span class="LineNumber"> 013 </span>	อฏฺ€เม  ฯ  อนริยโวหาราติ  อนริยานํ  กถา  ฯ  เสเสสุปิ  
+<span class="LineNumber"> 014 </span>เอเสว  นโย  ฯ  
+<span class="LineNumber"> 015 </span>				อาปตฺติภยวคฺโค  ปฺจโม  ฯ  
+<span class="LineNumber"> 016 </span>			ปฺจมปณฺณาสกวณฺณนา  นิฏฺ€ิตา  ฯ  
+<span class="LineNumber"> 017 </span># ๑ ม. อคารมชฺเฌ วสิตฺวา ฯ  ๒  ม. ปุถุชฺชนภิกฺขุสฺสาติ ฯ
+<span class="LineNumber"> 018 </span># ๓ ม. อยํ ปาโ€ นตฺถิ ฯ    ๔  ม. ตาว ถูปานํ  ฯ 
+<span class="LineNumber"> 019 </span># ๕ ม. โอกาโส น ภเวยฺย ฯ  ๖ ม. จกฺกวตฺติราชา  ฯ

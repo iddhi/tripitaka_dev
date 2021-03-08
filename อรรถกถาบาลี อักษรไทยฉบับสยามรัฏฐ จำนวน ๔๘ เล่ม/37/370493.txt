@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 493
+
+<span class="LineNumber"> 002 </span>	[๑๑๕๐]โขมาว ตตฺถ ปทุมา	เสตโสคนฺธิเยหิ จ  
+<span class="LineNumber"> 003 </span>		กลมฺพเกหิ สฺฉนฺโน	มุจลินฺโท นาม โส สโร  
+<span class="LineNumber"> 004 </span>		อเถตฺถ ปทุมา ผุลฺลา	อปริยนฺตาว ทิสฺสเร  
+<span class="LineNumber"> 005 </span>		คิมฺหา เหมนฺตกา(๑) ผุลฺลา ชณฺณุตคฺฆา อุปตฺถรา  
+<span class="LineNumber"> 006 </span>		สุรภี สมฺปวายนฺติ		วิจิตฺรา ปุปฺผสณฺ€ิตา(๒)  
+<span class="LineNumber"> 007 </span>		ภมรา ปุปฺผคนฺเธน	สมนฺตามภินาทิตาติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  โขมาวาติ  โขมมยา  วิย  ปณฺฑรา ฯ  เสตโสคนฺธิเยหิ  
+<span class="LineNumber"> 009 </span>จาติ  เสตุปฺปเลหิ  จ  โสคนฺธิเยหิ  จ  กลมฺพเกหิ  จ  โส  สโร  
+<span class="LineNumber"> 010 </span>สฺฉนฺโน ฯ  อปริยนฺตาว  ทิสฺสเรติ  อปริมาณา  วิย  ทิสฺสนฺติ ฯ  
+<span class="LineNumber"> 011 </span>คิมฺหา  เหมนฺตกาติ  คิมฺเห  จ  เหมนฺเต  จ  สุปุปผิตา  ปทุมา(๓) ฯ  
+<span class="LineNumber"> 012 </span>ชณฺณุตคฺฆา  อุปตฺถราติ  ชณฺณุปฺปมาเณ  อุทเก  อุปตฺถรา  
+<span class="LineNumber"> 013 </span>ผุลฺลา  โหนฺติ  สณฺ€ิตา  วิย  ขายนฺติ ฯ  วิจิตฺรา  ปุปฺผสนฺ€ิตานีติ 
+<span class="LineNumber"> 014 </span>วิจิตฺรา(๔)  หุตฺวา ปุปฺเผหิ สณฺ€ิตา สทา สุรภี สมฺปวายนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	[๑๑๕๑]อเถตฺถ อุทกนฺตสฺมึ	รุกฺขา ติฏฺ€นฺติ พฺราหฺมณ  
+<span class="LineNumber"> 016 </span>		กทมฺพา ปาฏลี ผุลฺลา	โกวิฬารา จ ปุปฺผิตา  
+<span class="LineNumber"> 017 </span>		องฺโกรา กจฺจิการา จ	ปาริชฺา จ ปุปฺผิตา  
+<span class="LineNumber"> 018 </span>		วารณา วุยฺหนา(๕) รุกฺขา	มุจลินฺทมุภโต สรํ  
+<span class="LineNumber"> 019 </span>		สิรีสา เสตปาริสา		สาธุ วายนฺติ ปทฺมกา  
+<span class="LineNumber"> 020 </span># ๑.ม. เหมนฺติกา ฯ  ๒. ม. วิจิตฺตปุปฺผสนฺถตา ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ปุปฺผิตปทุมา ฯ  ๔. ม. วิจิตฺตปุปฺผสนฺตถาติ วิจิตฺตา ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. วยนา ฯ 

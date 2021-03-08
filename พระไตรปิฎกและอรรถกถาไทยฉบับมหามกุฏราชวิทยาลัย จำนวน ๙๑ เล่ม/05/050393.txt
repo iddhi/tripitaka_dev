@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 002 </span>           [๓๗๓]  บทว่า  <B>อนึ่ง. . .ใด </B>  ความว่า  ผู้ใด  คือ  ผู้เช่นใด. . .
+<span class="LineNumber"> 003 </span>           บทว่า  <B>ภิกษุณี</B>   ความว่า   ที่ชื่อว่า   <B>ภิกษุณี</B>   เพราะอรรถว่าเป็นผู้
+<span class="LineNumber"> 004 </span>ขอ. . .  นี้ชื่อว่า  <B>ภิกษุณี</B>   ที่ทรงประสงค์ในอรรถนี้ .                   
+<span class="LineNumber"> 005 </span>          บทว่า  <B>สองฝน</B>  คือ  สองปี.
+<span class="LineNumber"> 006 </span>          ที่ชื่อว่า  <B>ผู้ยังมิได้ศึกษาสิกขา</B>  คือ สิกขาอันภิกษุณียังมิได้ให้หรือ
+<span class="LineNumber"> 007 </span> ให้แล้วแต่สิกขมานาทำขาดเสีย.  
+<span class="LineNumber"> 008 </span>          บทว่า  <B>ให้บวช</B>   คือ  ให้อุปสมบท.
+<span class="LineNumber"> 009 </span>           ตั้งใจว่าจักให้บวช   แล้วแสวงหาคณะก็ดี   อาจารย์ก็ดี  บาตรก็ดี  จีวร
+<span class="LineNumber"> 010 </span>ก็ดี  สมมติสีมาก็ดี   ต้องอาบัติทุกกฏ   จบญัตติ   ต้องอาบัติทุกกฏ   จบกรรม
+<span class="LineNumber"> 011 </span>วาจา ๒ ครั้ง ต้องอาบัติทุกกฏ  ๒  ตัว จบกรรมวาจาครั้งสุด  ภิกษุณีผู้อุปัชฌาย์
+<span class="LineNumber"> 012 </span>ต้องอาบัติปาจิตตีย์   คณะและอาจารย์   ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 013 </span>                                      <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 014 </span>                                    <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 015 </span>           [๓๗๔]  กรรมเป็นธรรม  ภิกษุณีสำคัญว่า  กรรมเป็นธรรม ให้บวช
+<span class="LineNumber"> 016 </span>ต้องอาบัติปาจิตตีย์.              
+<span class="LineNumber"> 017 </span>           กรรมเป็นธรรม  ภิกษุณีสงสัย  ให้บวช  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 018 </span>           กรรมเป็นธรรม  ภิกษุณีสำคัญว่า  กรรมไม่เป็นธรรม  ให้บวช   ต้อง
+<span class="LineNumber"> 019 </span>อาบัติปาจิตตีย์.

@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>         การแสวงหาอามิสถึงที่สุด     ท่านเรียกว่า    <B>อามิสปริเยฏ€ิ</B>     การ
+<span class="LineNumber"> 002 </span>แสวงหาธรรมถึงที่สุด  ท่านเรียกว่า   <B>ธรรมปริเยฏ€ิ.</B>
+<span class="LineNumber"> 003 </span>                                              จบอรรถกถาสูตรที่  ๕
+
+<span class="LineNumber"> 004 </span>                                                         <H3>อรรถกถาสูตรที่  ๖</H3>
+
+<span class="LineNumber"> 005 </span>         ใน<B>สูตรที่  ๖</B>  (ข้อ  ๔๐๑)  การบูชาอามิส  ชื่อว่า  <B>อามิสบูชา</B>
+<span class="LineNumber"> 006 </span>การบูชาด้วยธรรม   ชื่อว่า   <B>ธรรมบูชา.</B>
+<span class="LineNumber"> 007 </span>                                            จบอรรถกถาสูตรที่  ๖
+
+<span class="LineNumber"> 008 </span>                                                          <H3>อรรถกถาสูตรที่ ๗</H3>
+
+<span class="LineNumber"> 009 </span>         ใน<B>สูตรที่  ๗</B>  (ข้อ  ๔๐๒)  บทว่า   <B>อติเถยฺยานิ</B>   ได้แก่  ทาน
+<span class="LineNumber"> 010 </span>เพื่อผู้จรมา  (ของรับแขก)  ปาฐะว่า   <B>อภิเถยฺยานิ</B>   ดังนี้ก็มี.
+<span class="LineNumber"> 011 </span>                                            จบอรรถกถาสูตรที่  ๗
+
+<span class="LineNumber"> 012 </span>                                                            <H3>อรรถกถาสูตรที่  ๘</H3>
+
+<span class="LineNumber"> 013 </span>         ใน<B>สูตรที่   ๘</B>  (ข้อ ๔๐๓ )    <B>อามิสอิทธิ</B>     ชื่อว่า    <B>อามิสอิทธิ</B> 
+<span class="LineNumber"> 014 </span>ให้สำเร็จเสร็จสรรพ     แม้ธรรมก็ชื่อว่า     <B>ธรรมอิทธิ</B>      เพราะให้สำเร็จ
+<span class="LineNumber"> 015 </span>เสร็จสรรพ.
+<span class="LineNumber"> 016 </span>                                             จบอรรถกถาสูตรที่ ๘
+
+<span class="LineNumber"> 017 </span>                                                            <H3>อรรถกถาสูตรที่  ๙</H3>
+
+<span class="LineNumber"> 018 </span>         ใน<B>สูตรที่  ๙</B>  (ข้อ  ๔๐๔) ความเจริญด้วยอามิส  ชื่อว่า  <B>อามิสวุฒิ</B>

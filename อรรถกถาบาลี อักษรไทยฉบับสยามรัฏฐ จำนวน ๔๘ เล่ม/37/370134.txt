@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  134
+
+<span class="LineNumber"> 002 </span>[๗๙๗]ปุพฺเพว เมสิ วุตฺโต	ทุกฺกรํ ทุรภิสมฺภวํ เจตํ  
+<span class="LineNumber"> 003 </span>	อถ โน อุปกฺขตสฺส		ยฺสฺส กโรสิ วิกฺเขปํ  
+<span class="LineNumber"> 004 </span>	สพฺเพ วชฺชนฺติ(๑) สุคตึ	เยปิ(๒) ยชนฺติ เยปิ เจว(๓) ยชาเปนฺติ(๔)  
+<span class="LineNumber"> 005 </span>	เยจาปิ อนุโมทนฺติ		ยชนฺตานํ อีทิสํ(๕) มหายฺนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ปุพฺเพ  เมสิ  วุตฺโตติ(๖)  นนุ  มยา  ตฺวํ  ปุพฺเพว  วุตฺโต  
+<span class="LineNumber"> 007 </span>ตุมฺหาทิเสน  ภีรุกชาติเกน  น  สกฺกา  ยฺํ  ยชิตุํ  ยฺยชนํ  
+<span class="LineNumber"> 008 </span>นาม  เอตํ  ทุกฺกรํ  ทุรภิสมฺภวนฺติ ฯ  อถ  โน  อิทานิ  อุปกฺขตสฺส  
+<span class="LineNumber"> 009 </span>ยฺสฺส  วิกฺเขปํ  กโรสิ ฯ  วิขมฺภนฺติปิ  ปาโ€ ฯ ปฏิเสธนฺติ 
+<span class="LineNumber"> 010 </span>อตฺโถ ฯ  มหาราช  กสฺมา  เอวํ  กโรสิ  ยตฺตกา  หิ  ยฺํ  ยชนฺติ 
+<span class="LineNumber"> 011 </span>วา  ยชาเปนฺติ(๗)  วา  อนุโมทนฺติ  วา  สพฺเพ  สุคติเมว  วชฺชนฺตีติ 
+<span class="LineNumber"> 012 </span>ทสฺเสสิ ฯ  
+<span class="LineNumber"> 013 </span>	โส  อนฺธพาโล  ราชา  ตสฺส  โกธวสิกสฺส  กถํ  คเหตฺวา 
+<span class="LineNumber"> 014 </span>ธมฺมสฺี  หุตฺวา  ปุน  ปุตฺเต  คณฺหาเปสิ ฯ ตโต จนฺทกุมาโร
+<span class="LineNumber"> 015 </span>ปิตรํ อนุโพธิยมาโน  อาห  
+<span class="LineNumber"> 016 </span>[๗๙๘]อถ กิสฺสว โน(๘) ปุพฺเพ	โสตฺถานํ พฺราหฺมเณ อวาเจสิ  
+<span class="LineNumber"> 017 </span>	อถ โน อการณสฺมา		ยฺตฺถาย เทว ฆาเตสิ  
+<span class="LineNumber"> 018 </span>	ปุพฺเพว โน ทหรกาเล		น หเนสิ น ฆาเตสิ วา(๙)  
+<span class="LineNumber"> 019 </span>	ทหรมฺหา โยพฺพนปฺปตฺตา(๑๐)	อทูสกา ตาต หฺาม  
+<span class="LineNumber"> 020 </span># ๑. ม. วชนฺติ ฯ  ๒. ม. ปิสทฺโท นตฺถิ ฯ  ๓. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ยาเชนฺติ ฯ  ๕. ม. เอทิสํ ฯ  ๖. ม. ปุพฺเพ วาติ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. ยาเชนฺติ ฯ  ๘. ม. ชโน ฯ ๙. ม. วาสทฺโท นตฺถิ ฯ 
+<span class="LineNumber"> 023 </span># ๑๐. ม. โยพฺพนํ ปตฺตา ฯ 

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                       <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๘๕๙]   ทุกขสัจจะไม่ใช่เคยเกิดในภูมิใด,  ฯ ล ฯ
+<span class="LineNumber"> 005 </span>                                  <I>ทุกขสัจจมูละ   จบ</I>
+<span class="LineNumber"> 006 </span>                                   <I>โอกาสวาระ  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                    <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                       <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 009 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๘๖๐]   ทุกขสัจจะไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด,  สมุทย-
+<span class="LineNumber"> 011 </span>สัจจะก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า   สมุทยสัจจะไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด,  ทุกข-
+<span class="LineNumber"> 014 </span>สัจจะก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?

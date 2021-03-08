@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>มนายตนมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>มนายตนมูละ   ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๖๕๒]   ธัมนายตนะไม่ใช่กำลังดับแก่บุคคลใดในภูมิใด,   ธัมมา-
+<span class="LineNumber"> 004 </span>ยตนะก็ไม่ใช่จักดับแก่บุคคลนั้นในภูมินั้น,  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         จักดับ.                                                          
+<span class="LineNumber"> 006 </span>         ก็หรือว่า   ธัมมายตนไม่ใช่จักดับแก่บุคคลใดในภูมิใด,   มนา-
+<span class="LineNumber"> 007 </span>ยตนะก็ไม่ใช่กำลังดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         กำลังดับ.                                                                    
+<span class="LineNumber"> 009 </span>                          <I>จบ  มนายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 010 </span>                                       <I>มนายตนมูล   จบ</I>
+<span class="LineNumber"> 011 </span>                                    <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 012 </span>                       <I>ปัจจุปปันนานาคตวาระ  ปัจจนิก  จบ</I>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         <H2>สมันตปาสาทิกา  อรรถกถาพระวินัยปิฎก</H2>
+<span class="LineNumber"> 002 </span>                             <H1>อรรถกถาปาราชิกกัณฑ์</H1>
+<span class="LineNumber"> 003 </span>                                <H2>ในภิกขุนีวิภังค์</H2> 
+<span class="LineNumber"> 004 </span>                    <B>เพราะมาถึงลำดับแห่งการสังวรรณนา
+<span class="LineNumber"> 005 </span>              ภิกขุนีวิภังค์   ของพวกภิกษุณี   ที่พระธรรม
+<span class="LineNumber"> 006 </span>              สังคาหกาจารย์ทั้งหลาย   ได้ร้อยกรองไว้ใน
+<span class="LineNumber"> 007 </span>              ลำดับแห่งภิกขุวิภังค์    ฉะนั้น     เพื่อทำการ
+<span class="LineNumber"> 008 </span>              พรรณนาบทที่ยังไม่เคยมีมาก่อน ในปาราชิก
+<span class="LineNumber"> 009 </span>              แห่งภิกขุนีวิภังค์นั้น     จึงมีการสังวรรณนา
+<span class="LineNumber"> 010 </span>              เริ่มต้น  ดังต่อไปนี้.</B>
+
+<span class="LineNumber"> 011 </span>                                <H1>ปาราชิกสิกขาบทที่  ๑</H1> 
+<span class="LineNumber"> 012 </span>               <B>แก้อรรถปฐมปาราชิกสิกขาบทของพวกภิกษุณี</B>
+<span class="LineNumber"> 013 </span>            ในคำว่า  <B>เตน  สมเยน  พุทฺโธ  ภควา  สาวตฺถิยํ วิหรติ  ฯ เป ฯ
+<span class="LineNumber"> 014 </span>สาฬฺโห   มิคารนตฺตา</B>  นี้  คำว่า  <B>สาฬฺโห</B> เป็นชื่อของมิคารนัดดานั้น
+<span class="LineNumber"> 015 </span>เพราะเขาเป็นหลานของนางวิสาขามิคารมารดา.      ด้วยเหตุนั้น     พระธรรม
+<span class="LineNumber"> 016 </span>สังคาหกาจารย์จึงกล่าวว่า   <B>มิคารนตฺตา</B>.                                      
+<span class="LineNumber"> 017 </span>            บทว่า  <B>นวกมฺมิกํ</B>   แปลว่า   ผู้อำนวยนวกรรม.
+<span class="LineNumber"> 018 </span>            บทว่า  <B>ปณฺฑิตา</B>  แปลว่า  ผู้ประกอบด้วยความเป็นบัณฑิต.
+<span class="LineNumber"> 019 </span>            บทว่า  <B>พฺยตฺตา</B>   แปลว่า   ประกอบด้วยความเป็นผู้เฉียบแหลม.

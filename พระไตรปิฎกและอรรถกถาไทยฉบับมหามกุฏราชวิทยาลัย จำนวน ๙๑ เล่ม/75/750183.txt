@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๑]      <H2>๖๓-๙.  จิตตสังสัฏฐสมุฏฐานทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>จิตฺตสํสฏฺ€สมุฏฺ€านา ธมฺมา</B>	        ธรรมเจือกับจิตและมีจิตเป็นสมุฏฐาน
+<span class="LineNumber"> 003 </span><B>โน จิตฺตสํสฏฺ€สมุฏฺ€านา ธมฺมา</B>           ธรรมไม่เจือกับจิตและไม่มีจิตเป็น
+<span class="LineNumber"> 004 </span>                                                             สมุฏฐาน
+
+<span class="LineNumber"> 005 </span>                 <H2>๖๔-๑๐.  จิตตสังสัฏฐสมุฏฐานสหภูทุกะ</H2>
+
+<span class="LineNumber"> 006 </span><B>จิตฺตสํสฏฺ€สมุฏฺ€านสหภุโน ธมฺมา</B>       ธรรมเจือกับจิตมีจิตเป็นสมุฏฐาน
+<span class="LineNumber"> 007 </span>                                                              และเกิดร่วมกับจิต
+<span class="LineNumber"> 008 </span><B>โน จิตฺตสํสฏฺ€านสหภุโน</B>                     ธรรมไม่เจือกับจิต ไม่มีจิตเป็นสมุฏฐาน
+<span class="LineNumber"> 009 </span><B>ธมฺมา</B>                                                    และไม่เกิดร่วมกับจิต
+
+<span class="LineNumber"> 010 </span>              <H2>๖๕-๑๑.  จิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>จิตฺตสํสฏฺฐสมุฏฺ€€านา-</B>                      ธรรมเจือกับจิตมีจิตเป็นสมุฏฐานและ
+<span class="LineNumber"> 012 </span><B>นุปริวตฺติโน ธมฺมา</B>                              เกิดคล้อยตามจิต
+<span class="LineNumber"> 013 </span><B>โน จิตฺตสํสฏฺ€สมุฏฺ€านา</B>                    ธรรมไม่เจือกับจิตไม่มีจิตเป็นสมุฏฐาน
+<span class="LineNumber"> 014 </span><B>นุปริวตฺติโน ธมฺมา</B>                              และไม่เกิดคล้อยตามจิต
+
+<span class="LineNumber"> 015 </span>                              <H2>๖๖-๑๒.  อัชฌัตติกทุกะ</H2>
+
+<span class="LineNumber"> 016 </span><B>อชฺฌตฺติกา  ธมฺมา</B>                           ธรรมเป็นภายใน
+<span class="LineNumber"> 017 </span><B>พาหิรา    ธมฺมา</B>                               ธรรมเป็นภายนอก
+
+<span class="LineNumber"> 018 </span>                                 <H2>๖๗-๑๓.  อุปาทาทุกะ</H2>
+
+<span class="LineNumber"> 019 </span><B>อุปาทา ธมฺมา</B>                                 ธรรมอาศัยมหาภูตรูปเกิด
+<span class="LineNumber"> 020 </span><B>โน อุปาทา ธมฺมา</B>                            ธรรมไม่อาศัยหาภูตรูปเกิด

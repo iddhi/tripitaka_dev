@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>อนาคต   โอกาสวาระ  ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ  โสตินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๙๕๗]  จักขุนทรีย์ไม่ใช่จักเกิดในภูมิใด,     โสตินทรีย์ก็ไม่ใช่
+<span class="LineNumber"> 005 </span>จักเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  โสตินทรีย์ไม่ใช่จักเกิดในภูมิใด,      จักขุนทรีย์ก็ไม่ใช่
+<span class="LineNumber"> 008 </span>จักเกิดในภูมินั้น  ใช่ไหม   ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                         <I>จบ  จักขุนทริยมูละ  โสตินทริยมูลี</I>
+
+<span class="LineNumber"> 011 </span><B>จักขุนทริยมูละ    ฆานินทริยมูลี:-</B>
+<span class="LineNumber"> 012 </span>         [๙๕๘]  จักขุนทรีย์ไม่ใช่จักเกิดในภูมิใด,       ฆานินทรีย์ก็ไม่ไช่
+<span class="LineNumber"> 013 </span>จักเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่. 

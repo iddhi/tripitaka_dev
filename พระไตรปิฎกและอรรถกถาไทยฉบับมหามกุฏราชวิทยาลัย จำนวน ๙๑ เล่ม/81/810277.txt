@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>วิญญัตติสีลันติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๔๒๘]   <B>สกวาที</B>  วิญญัตติเป็นศีล หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. เป็นเจตนาเครื่องเว้นจากปาณาติบาต   หรือ ?
+<span class="LineNumber"> 005 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 006 </span>                        ส. เป็นเจตนาเครื่องเว้นจากอทินนาทาน  หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 008 </span>                        ส. เป็นเจตนาเครื่องเว้นจากกาเมสุมิจฉาจาร  หรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 010 </span>                        ส. เป็นเจตนาเครื่องเว้นจากมุสาวาท หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>                        ส. เป็นเจตนาเครื่องเว้นจากสุราเมรยมัชชปมาทัฏฐาน
+<span class="LineNumber"> 013 </span>หรือ ?
+<span class="LineNumber"> 014 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 015 </span>                        ส. การกราบไหว้เป็นศีล    การลุกรับเป็นศีล    การทำ
+<span class="LineNumber"> 016 </span>อัญชลีเป็นศีล   สามีจิกรรมเป็นศีล   การให้อาสนะเป็นศีล   การให้ที่นอน
+<span class="LineNumber"> 017 </span>เป็นศีล  การให้น้ำล้างเท้าเป็นศีล  การให้รองเท้าเป็นศีล  การนวดหลังใน
+<span class="LineNumber"> 018 </span>เวลาอาบน้ำเป็นศีล หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                        ส. เป็นเจตนาเครื่องเว้นจากปาณาติบาต  หรือ ?
+<span class="LineNumber"> 021 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 022 </span>                        ส. เป็นเจตนาเครื่องเว้นจากสุราเมรยมัชชปมาทัฏฐาน
+<span class="LineNumber"> 023 </span>หรือ ?

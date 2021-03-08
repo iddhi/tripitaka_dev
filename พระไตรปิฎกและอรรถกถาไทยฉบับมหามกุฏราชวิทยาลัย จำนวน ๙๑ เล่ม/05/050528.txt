@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>พระอนุบัญญัติ</H1>
+<span class="LineNumber"> 002 </span>         <B>๒๒๗. ๖.  ก.  อนึ่ง  ภิกษุณีใด   ไม่เป็นไข้   ขอเนื้อมาฉัน
+<span class="LineNumber"> 003 </span>ภิกษุณีนั้นพึงแสดงคืนว่า   แม่เจ้า   ดิฉันต้องธรรมที่น่าติ     ไม่เป็น
+<span class="LineNumber"> 004 </span>สัปปายะ  ควรจะแสดงคืน  ดิฉันแสดงคืนธรรมนั้น. </B>
+<span class="LineNumber"> 005 </span>                                 <I>เรื่องภิกษุณีฉัพพัคคีย์  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                      <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 007 </span>           บทว่า  <B>อนึ่ง. . .ใด</B>  ความว่า   ผู้ใด  คือ  ผู้เช่นใด. . .
+<span class="LineNumber"> 008 </span>          บทว่า <B>ภิกษุณี</B>  ความว่า ที่ชื่อว่า <B>ภิกษุณี</B>  เพราะอรรถว่าเป็นผู้ขอ. . .
+<span class="LineNumber"> 009 </span>นี้ชื่อว่า  ภิกษุณี   ที่ทรงประสงค์ในอรรถนี้.
+<span class="LineNumber"> 010 </span>           ที่ชื่อว่า  <B>ไม่เป็นไข้</B>   คือ  เว้นเนื้อก็มีความผาสุก.
+<span class="LineNumber"> 011 </span>           ที่ชื่อว่า   <B>เป็นไข้</B>   คือ   เว้นเนื้อแล้วไม่มีความผาสุก.
+<span class="LineNumber"> 012 </span>           ที่ชื่อว่า  <B>เนื้อ</B>  ได้แก่   เนื้อสัตว์ที่มีมังสะเป็นกัปปิยะ.
+<span class="LineNumber"> 013 </span>        ภิกษุณีไม่เป็นไข้   ขอเขามาเพื่อประโยชน์ตน  เป็นทุกกฏในประโยค ได้
+<span class="LineNumber"> 014 </span>มา  รับประเคนไว้ด้วยตั้งใจว่า  จักฉัน  ต้องอาบัติทุกกฏ  ฉัน  ต้องอาบัติปาฏิ-
+<span class="LineNumber"> 015 </span>เสนียะทุก ๆ คำกลืน.
+
+<span class="LineNumber"> 016 </span>                                       <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 017 </span>                                  <H2>ติกะปาฏิเทสนียะ</H2>
+<span class="LineNumber"> 018 </span>           ภิกษุณีไม่เป็นไข้  สำคัญว่าไม่เป็นไข้   ขอเนื้อมาฉัน  ต้องอาบัติปาฎิ-
+<span class="LineNumber"> 019 </span>เทสนียะ.
+<span class="LineNumber"> 020 </span>           ภิกษุณีไม่เป็นไข้  มีความสงสัย  ขอเนื้อมาฉัน  ต้องอาบัติปาฏิเทสนียะ.

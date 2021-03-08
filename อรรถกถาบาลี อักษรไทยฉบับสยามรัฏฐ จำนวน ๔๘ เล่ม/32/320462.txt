@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  ปูติมํสชาตกํ   หน้า 462
+
+<span class="LineNumber"> 002 </span>	[๑๓๐๗]กีทิโส ตุยฺหํ ปริวาโร  	เยสํ กาหามิ โภชนํ  
+<span class="LineNumber"> 003 </span>		กึนามกา จ เต สพฺเพ  	เต เม อกฺขาหิ ปุจฺฉิตาติ ฯ  
+<span class="LineNumber"> 004 </span>	สา อาจิกฺขนฺตี อฏฺ€มํ คาถมาห  
+<span class="LineNumber"> 005 </span>	[๑๓๐๘]มาลิโย จตุรกฺขา(๑) จ  	ปิงฺคโล(๒) อถ ชมฺพุโก  
+<span class="LineNumber"> 006 </span>		เอทิโส มยฺหํ ปริวาโร  	เตสํ กยิราสิ(๓) โภชนนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  เต  เมติ  เต  ปริวาเร  มยฺหํ  อาจิกฺขิ ฯ มาลิโยติ 
+<span class="LineNumber"> 008 </span>อาทีนิ  จตุนฺนํ สุนขานํ นามานิ ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  เอเกกํ  ปฺจ  ปฺจ  สุนขสตาน  ปริวาเรนฺติ  ฯ 
+<span class="LineNumber"> 010 </span>เอวํ  ทฺวีหิ  สุนขสหสฺเสหิ  ปริวาริตา  อาคมิสฺสามีติ  วตฺวา  สเจ
+<span class="LineNumber"> 011 </span>เต  โภชนํ  น  ลภิสฺสนฺติ  ตุมฺเห  เทฺวปิ  ชเน  มาเรตฺวา
+<span class="LineNumber"> 012 </span>ขาทิสฺสนฺตีติ  อาห  ฯ  
+<span class="LineNumber"> 013 </span>	ตํ  สุตฺวา  สิคาลี ภีตา อลํ อิมิสฺสา ตตฺถ คมเนน
+<span class="LineNumber"> 014 </span>อุปาเยนสฺสา  อนาคมนเมว กริสฺสามีติ จินฺเตตฺวา นวมํ คาถมาห  
+<span class="LineNumber"> 015 </span>	[๑๓๐๙]นิกฺขนฺตาย อคารสฺมา  (นิรารกฺขํ(๔)) ภณฺฑกมฺปิ วินสฺสติ  
+<span class="LineNumber"> 016 </span>		อาโรคฺยํ(๕) อาฬิโน วชฺชํ  ตฺวํ(๔) อิเธว วส มา คมาติ ฯ  
+<span class="LineNumber"> 017 </span>	ตสฺสตฺโถ  อาฬิ  ตว  เคเห  พหุภณฺฑกํ  อตฺถิ  ตํ  เต  นิกฺขนฺตาย  
+<span class="LineNumber"> 018 </span>อคารสฺมา  นิรารกฺขํ  ภณฺฑกํ  วินสฺสติ  อหเมว  เต 
+<span class="LineNumber"> 019 </span># ๑. ส. ม. จตุรกฺโข ฯ  ๒. ส. ม. ปิงฺคิโย ฯ  ๓. ส. ม. กยิราหิ ฯ 
+<span class="LineNumber"> 020 </span># ๔. ส. ม. อิเม ปา€า นตฺถิ ฯ  ๕. ส. อโรคํ ฯ 

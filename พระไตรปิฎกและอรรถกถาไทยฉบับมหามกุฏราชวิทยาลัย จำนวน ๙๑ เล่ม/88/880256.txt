@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>๑๕.  อาหารปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           [๒๔๕] ๑.  <B>อัปปฏิฆธรรม  เป็นปัจจัยแก่อัปปฏิฆธรรม   ด้วย
+<span class="LineNumber"> 003 </span>อำนาจของอาหารปัจจัย</B>
+<span class="LineNumber"> 004 </span>           คือ  อาหารทั้งหลายที่เป็นอัปปฏิฆธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 005 </span>และจิตตสมุฏฐานรูปทั้งหลาย ที่เป็นอัปปฏิฆธรรม ด้วยอำนาจของอาหารปัจจัย.
+<span class="LineNumber"> 006 </span>           ในปฏิสนธิขณะ กวฬีการาหาร เป็นปัจจัยแก่กายนี้ที่เป็นอัปปฏิฆธรรม
+<span class="LineNumber"> 007 </span>ด้วยอำนาจของอาหารปัจจัย.
+<span class="LineNumber"> 008 </span>           วาระ ๒ ที่เหลือนอกนั้นพึงกระทำ. ปฏิสนธิ  กวฬีการาหาร พึงกระทำ
+<span class="LineNumber"> 009 </span>แม้ในวาระทั้ง ๒ เบื้องปลาย.
+
+<span class="LineNumber"> 010 </span>                                         <H1>๑๖.  อินทริยปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           [๒๔๖] ๑.  <B>สัปปฏิฆธรรม  เป็นปัจจัยแก่อัปปฏิฆธรรม   ด้วย
+<span class="LineNumber"> 012 </span>อำนาจของอินทริยปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  จักขุนทรีย์   เป็นปัจจัยแก่จักขุวิญญาณ ฯลฯ   กายินทรีย์   เป็น
+<span class="LineNumber"> 014 </span>ปัจจัยแก่กายวิญญาณ  ด้วยอำนาจของอินทริยปัจจัย.
+<span class="LineNumber"> 015 </span>                       ๒.  <B>อัปปฏิฆธรรม  เป็นปัจจัยแก่อัปปฏิฆธรรม   ด้วย
+<span class="LineNumber"> 016 </span>อำนาจของอินทริยปัจจัย   มี ๓ วาระ.</B>
+<span class="LineNumber"> 017 </span>           พึงกระทำชีวิตินทรีย์   แม้ใน   ๓  วาระเบื้องปลาย   (วาระที่ ๒ - ๔)
+<span class="LineNumber"> 018 </span>                       ๕.  <B>สัปปฏิฆธรรม และอัปปฏิฆธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 019 </span>อัปปฏิฆธรรม  ด้วยอำนาจของอินทริยปัจจัย</B>

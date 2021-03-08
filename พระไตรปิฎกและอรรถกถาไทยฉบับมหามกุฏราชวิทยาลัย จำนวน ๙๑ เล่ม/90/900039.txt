@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       			<H1>ปัจจนียานุโลมนัย</H1> 
+<span class="LineNumber"> 002 </span>		   	     <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>		
+<span class="LineNumber"> 003 </span>		[๙๗]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย มี ๑ วาระ... ฯลฯ
+<span class="LineNumber"> 004 </span>            	สหชาตวาระก็ดี  ปัจจยวาระก็ดี   สังสัฏฐวาระก็ดี     สัมปยุตตวาระก็ดี
+<span class="LineNumber"> 005 </span>พึงให้พิสดารเหมือนปฏิจจวาระ.              
+ 						
+<span class="LineNumber"> 006 </span>					<H1>ทุกขเวทนาบทปัญหาวาระ</H1>
+<span class="LineNumber"> 007 </span>						<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 008 </span>					    <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 009 </span>		[๙๘]  ๑.  ธรรมที่สัมปยุตด้วยทุกขเวทนาที่เป็นเหตุ  เป็นปัจจัย
+<span class="LineNumber"> 010 </span>แก่ธรรมที่สัมปยุตด้วยทุกเวทนาที่เป็นเหตุ       ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 011 </span>ปัจจัย                                                               
+<span class="LineNumber"> 012 </span>        		  ๒. ธรรมที่สัมปยุตด้วยทุกขเวทนาที่เป็นเหตุ  เป็นปัจจัย
+<span class="LineNumber"> 013 </span>แก่ธรรมที่สัมปยุตด้วยทุกขเวทนาที่ไม่ใช่เหตุ    ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 014 </span>ปัจจัย
+<span class="LineNumber"> 015 </span>               	  ๓.  ธรรมที่สัมปยุตด้วยทุกขเวทนาที่เป็นเหตุ  เป็นปัจจัย
+<span class="LineNumber"> 016 </span>แก่ธรรมที่สัมปยุตด้วยทุกขเวทนาที่เป็นเหตุ  และธรรมที่สัมปยุตด้วย
+<span class="LineNumber"> 017 </span>ทุกเวทนาที่ไม่ใช่เหตุ  ด้วยอำนาจของเหตุปัจจัย

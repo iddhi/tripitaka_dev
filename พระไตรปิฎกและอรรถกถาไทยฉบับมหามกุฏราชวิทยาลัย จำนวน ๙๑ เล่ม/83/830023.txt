@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span><H2>กามราคานุสยมูละ  ภวราคานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         กามราคานุสัย     นอนเนื่องอยู่   ณ  ที่ใด,   ภวราคานุสัย  ก็
+<span class="LineNumber"> 003 </span>นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ไม่ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า  ภวราคานุสัย  นอนเนื่องอยู่  ณ ที่ใด,  กามราคานุสัย
+<span class="LineNumber"> 006 </span>ก็นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ไม่ใช่.
+<span class="LineNumber"> 008 </span>                    <I>จบ  กามราคานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 009 </span><H2>กามราคานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 010 </span>         กามราคานุสัย   นอนเนื่องอยู่  ณ  ที่ใด,  อวิชชานุสัย  ก็นอน-
+<span class="LineNumber"> 011 </span>เนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ก็หรือว่า  อวิชชานุสัย   นอนเนื่องอยู่ ณ  ที่ใด,  กามราคานุสัย
+<span class="LineNumber"> 013 </span>ก็นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         อวิชชานุสัย  นอนเนื่องอยู่  ณ ที่นี้   คือ  ที่ทุกขเวทนา  ที่รูปธาตุ

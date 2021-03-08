@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑   หน้า  ๔๑๔
+
+<span class="LineNumber"> 002 </span>		ปริฺาสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ทุติเย  ปริฺเยฺเยติ  ปริชานิตพฺเพ  สมติกฺกมิตพฺเพติ 
+<span class="LineNumber"> 004 </span>อตฺโถ ฯ ปริฺนฺติ  อจฺจนฺตปริฺํ  สมติกฺกมนฺติ  อตฺโถ ฯ  
+<span class="LineNumber"> 005 </span>ราคกฺขโยติอาทิ  นิพฺพานสฺส นามํ ฯ ตฺหิ อจฺจนฺตปริฺา
+<span class="LineNumber"> 006 </span>นาม ฯ 
+<span class="LineNumber"> 007 </span>				ทุติยํ ฯ           
+
+<span class="LineNumber"> 008 </span>			อภิชานสุตฺตวณฺณนา           
+<span class="LineNumber"> 009 </span>	ตติเย  อภิชานนฺติ  อภิชานนฺโต ฯ  อิมินา  าตปริฺา 
+<span class="LineNumber"> 010 </span>กถิตา  ทุติยปเทน  ตีรณปริฺา  ตติยจตุตฺเถหิ  ปหานปริฺาติ
+<span class="LineNumber"> 011 </span>อิมสฺมึ  สุตฺเต  ติสฺโส ปริฺา กถิตาติ ฯ 
+<span class="LineNumber"> 012 </span>				ตติยํ ฯ                 
+
+<span class="LineNumber"> 013 </span>				ฉนฺทราคสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 014 </span>	จตุตฺถาทีนิ  ธาตุสํยุตฺเต  วุตฺตนเยเนว  เวทิตพฺพานิ ฯ 
+<span class="LineNumber"> 015 </span>ปฏิปาฏิยา ปเนตฺถ  ปฺจมฉฏฺ€สตฺตเมสุ  จตฺตาริ  สจฺจานิ  
+<span class="LineNumber"> 016 </span>กถิตานิ ฯ
+<span class="LineNumber"> 017 </span>	อฏฺ€มนวเมสุ วฏฺฏวิวฏฺฏํ ฯ
+<span class="LineNumber"> 018 </span>				จตุตฺถาทีนิ ฯ                   

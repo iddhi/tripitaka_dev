@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๔.  ปฐมอัตตสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                         <h2> อัตตสัมปทาเป็นนิมิตแห่งอริยมรรค</h2>
+<span class="LineNumber"> 003 </span>	[๑๓๓]   . . . คือ  ความถึงพร้อมแห่งตน [ความถึงพร้อมแห่งจิต] ฯลฯ
+<span class="LineNumber"> 004 </span>			    <I>จบปฐมอัตตสัมปทาสูตรที่  ๔</I>
+
+<span class="LineNumber"> 005 </span>                                <h1> ๕.  ปฐมทิฏฐิสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 006 </span>                           <h2> ทิฏฐิสัมปทาเป็นนิมิตแห่งอริยมรรค</h2>
+<span class="LineNumber"> 007 </span>	[๑๓๔]   . . . คือ   ความถึงพร้อมแห่งทิฏฐิ ฯลฯ
+<span class="LineNumber"> 008 </span>                                  <I>จบปฐมทิฏฐิสัมปทาสูตรที่  ๕</I>
+
+<span class="LineNumber"> 009 </span>                       <h1>๖.  ปฐมอัปปมาทสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 010 </span>            <h2>ความไม่ประมาทเป็นนิมิตแห่งอริยมรรค</h2>
+<span class="LineNumber"> 011 </span>	[๑๓๕]   . . . คือ   ความถึงพร้อมแห่งความไม่ประมาท ฯลฯ
+<span class="LineNumber"> 012 </span>	        	      <I>จบปฐมอัปปมาทสัมปทาสูตรที่  ๖</I>

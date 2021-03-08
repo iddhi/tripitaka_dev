@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                      <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๖๓๖]  ๑.  <B>ภาวนายปหาตัพพเหตุกธรรม    เป็นปัจจัยแก่ภาว-
+<span class="LineNumber"> 005 </span>นายปหาตัพพเหตุกธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         มี ๖ วาระ  เหมือนกับทัสสเนนปหาตัพพเหตุกทุกะ.
+
+<span class="LineNumber"> 007 </span>                                  <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 008 </span>         [๖๓๗] ๑.  <B>ภาวนายปหาตัพพเหตุกธรรม   เป็นปัจจัยแก่ภาว-
+<span class="LineNumber"> 009 </span>นายปหาตัพพเหตุกธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 010 </span>         มี ๓ วาระ  เพราะปรารภ  เหมือนกับทัสสเนนปหาตัพพเหตุกทุกะ.
+<span class="LineNumber"> 011 </span>                     ๔.  <B>ธรรมที่ไม่ใช่ภาวนายปหาตัพพเหตุกธรรม   เป็น
+<span class="LineNumber"> 012 </span>ปัจจัยแก่ธรรมที่ไม่ใช่ภาวนายปหาตัพพเหตุกธรรม   ด้วยอำนาจของ
+<span class="LineNumber"> 013 </span>อารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  บุคคลให้ทาน  ฯลฯ    ศีล  ฯลฯ    กระทำอุโบสถกรรม    แล้ว
+<span class="LineNumber"> 015 </span>พิจารณากุศลกรรมนั้น   ย่อมยินดี  ย่อมเพลิดเพลินยิ่ง  เพราะปรารภกุศลกรรม
+<span class="LineNumber"> 016 </span>นั้น     ราคะที่ไม่ใช่ภาวนายปหาตัพพเหตุกธรรม    ย่อมเกิดขึ้น    ทิฏฐิ  ฯลฯ
+<span class="LineNumber"> 017 </span>วิจิกิจฉา ฯลฯ  โทมนัสที่ไม่ใช่ภาวนายปหาตัพพเหตุกธรรม   ย่อมเกิดขึ้น.
+<span class="LineNumber"> 018 </span>         พิจารณากุศลกรรมที่ได้สั่งสมไว้แล้วในกาลก่อน  ฯลฯ  ออกจากฌาน
+<span class="LineNumber"> 019 </span>ฯลฯ

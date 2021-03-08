@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           พึงใส่ให้เต็ม. 
+<span class="LineNumber"> 002 </span>           <B>เพราะโนนัตถิปัจจัย  เพราะโนวิคตปัจจัย</B>
+
+<span class="LineNumber"> 003 </span>                                <H1>การนับจำนวนวาระในปัจจนียะ</H1>          
+<span class="LineNumber"> 004 </span>           [๒๒๐๐]  ในเหตุปัจจัย    มี  ๒๑  วาระ    ในนอารัมมณปัจจัย มี
+<span class="LineNumber"> 005 </span>๒๑ วาระ  ในนอธิปติปัจจัย  มี ๒๑ วาระ  ในปัจจัยทั้งปวง มี ๒๑ วาระ  ใน
+<span class="LineNumber"> 006 </span>โนนัตถิปัจจัย   มี ๒  วาระ  ในโนวิคตปัจจัย  มี ๒๑ วาระ.
+<span class="LineNumber"> 007 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 008 </span>                                             <I>ปัจจนียนัย  จบ</I>
+
+<span class="LineNumber"> 009 </span>                                           <H1>อนุโลมปัจจนียนัย</H1>
+<span class="LineNumber"> 010 </span>                                 <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 011 </span>           [๒๒๐๑]  <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย มี ๒๑ วาระ...ใน
+<span class="LineNumber"> 012 </span>นอธิปติปัจจัย มี ๒๑ วาระ ฯลฯ โนนวิปากปัจจัย มี ๒๑ วาระ ในนสัมปยุตตปัจจัย
+<span class="LineNumber"> 013 </span>มี ๒๑ วาระ  ในนวิปปยุตตปัจจัย มี ๒๑ วาระ  ในโนนัตถิปัจจัย มี ๒๑ วาระ
+<span class="LineNumber"> 014 </span>ในโนวิคตปัจจัย มี ๒๑ วาระ.
+<span class="LineNumber"> 015 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 016 </span>                                               <I>อนุโลมปัจจนียนัย  จบ</I>
+
+<span class="LineNumber"> 017 </span>                                                   <H1>ปัจจนียานุโลมนัย</H1>
+<span class="LineNumber"> 018 </span>                                        <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 019 </span>           [๒๒๐๒]   <B>เพราะนเหตุปัจจัย</B>    ในอารัมมณปัจจัย มี ๒๑ วาระ ...ใน
+<span class="LineNumber"> 020 </span>อนันตรปัจจัย  มี ๑ วาระ    ในสมนันตรปัจจัย  มี ๑ วาระ    ในสหชาตปัจจัย

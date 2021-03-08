@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  17  หน้า 567
+
+<span class="LineNumber"> 002 </span>				ปณฺฑิตวคฺควณฺณนา
+
+<span class="LineNumber"> 003 </span>				 ราธตฺเถรวตฺถุ
+<span class="LineNumber"> 004 </span>	นิธีนํว  ปวตฺตารนฺติ  อิมํ  ธมฺมเทสนํ  สตฺถา  เชตวเน
+<span class="LineNumber"> 005 </span>วิหรนฺโต อายสฺมนฺตํ ราธํ อารพฺภ กเถสิ ฯ
+<span class="LineNumber"> 006 </span>	โส  กิร  คิหิกาเล  สาวตฺถิยํ  ทุคฺคตพฺราหฺมโณ
+<span class="LineNumber"> 007 </span>อโหสิ ฯ  โส  ภิกฺขูนํ  สนฺติเก  ชีวิสฺสามีติ  จินฺเตตฺวา  วิหารํ
+<span class="LineNumber"> 008 </span>คนฺตฺวา  อปหริตํ  กโรนฺโต  ปริเวณํ  สมฺมชฺชนฺโต  มุขโธวนาทีนิ
+<span class="LineNumber"> 009 </span>ททนฺโต  วิหาเร  วสิ ฯ  ภิกฺขูปิ  นํ  สงฺคณฺหึสุ  ปพฺพาเชตุํ
+<span class="LineNumber"> 010 </span>ปน  น  อิจฺฉนฺติ  ฯ โส ปพฺพชฺชํ อลภมาโน กิโส อโหสิ ฯ
+<span class="LineNumber"> 011 </span>	อเถกทิวสํ  สตฺถา  ปจฺจูสกาเล  โลกํ  โวโลเกนฺโต  ตํ
+<span class="LineNumber"> 012 </span>พฺราหฺมณํ  ทิสฺวา  กินฺนุ  โขติ  อุปธาเรนฺโต  อรหา
+<span class="LineNumber"> 013 </span>ภวิสฺสตีติ  ตฺวา  สายณฺหสมเย  วิหารจาริกํ  จรนฺโต  วิย
+<span class="LineNumber"> 014 </span>พฺราหฺมณสฺส  สนฺติกํ  คนฺตฺวา  พฺราหฺมณ  กึ  กโรนฺโต
+<span class="LineNumber"> 015 </span>วิจรสีติ  อาห ฯ  ภิกฺขูนํ  วตฺตปฺปฏิวตฺตํ  กโรมิ  (๑)  ภนฺเตติ
+<span class="LineNumber"> 016 </span>อาหฺ  ลภสิ  เตสํ  สนฺติกา  สงฺคหนฺติ ฯ  อาม  ภนฺเต
+<span class="LineNumber"> 017 </span>อาหารมตฺตํ  ลภามิ  น  ปน  มํ  ปพฺพาเชนฺตีติ ฯ  สตฺถา
+<span class="LineNumber"> 018 </span>เอตสฺมึ  นิทาเน  ภิกฺขุสงฺฆํ  สนฺนิปาตาเปตฺวา  ตมตฺถํ ปุจฺฉิตฺวา
+<span class="LineNumber"> 019 </span>ภิกฺขเว  อตฺถิ  โกจิ  อิมสฺส  พฺราหฺมณสฺส  อธิการํ  สรนฺโตติ
+<span class="LineNumber"> 020 </span># ๑  สี. ม. ยุ. กโรนฺโต ฯ

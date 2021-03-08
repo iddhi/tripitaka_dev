@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ขันธ์ ๑  ที่เป็นอนุปาทินนธรรม   ซึ่งเป็นวิบาก   เป็นปัจจัยแก่
+<span class="LineNumber"> 002 </span>ขันธ์ ๓     และจิตตสมุฏฐานรูปทั้งหลาย      ด้วยอำนาจของวิปากปัจจัย ฯลฯ
+<span class="LineNumber"> 003 </span>ขันธ์ ๒  ฯลฯ
+
+<span class="LineNumber"> 004 </span>                                        <H2>๑๕.  อาหารปัจจัย</H2>
+<span class="LineNumber"> 005 </span>         [๓๘๐] ๑.  <B>อุปาทินนธรรม เป็นปัจจัยแก่อุปาทินนธรรม ด้วย
+<span class="LineNumber"> 006 </span>อำนาจของอาหารปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  อาหารทั้งหลายที่เป็นอุปาทินนธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 008 </span>ทั้งหลาย  ด้วยอำนาจของอาหารปัจจัย.
+<span class="LineNumber"> 009 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 010 </span>         กวฬีการาหาร   ที่เป็นอุปาทินนธรรม    เป็นปัจจัยแก่กายนี้    ที่เป็น
+<span class="LineNumber"> 011 </span>อุปาทินนธรรม  ด้วยอำนาจของอาหารปัจจัย.
+<span class="LineNumber"> 012 </span>                     ๒.  <B>อุปาทินนธรรม    เป็นปัจจัยแก่อนุปาทินนธรรม
+<span class="LineNumber"> 013 </span>ด้วยอำนาจของอาหารปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  อาหารทั้งหลายที่เป็นอุปาทินนธรรม   เป็นปัจจัยแก่จิตตสมุฏฐาน-
+<span class="LineNumber"> 015 </span>รูปทั้งหลาย.
+<span class="LineNumber"> 016 </span>         กวฬีการาหาร   ที่เป็นอุปาทินนธรรม    เป็นปัจจัยแก่กายนี้    ที่เป็น
+<span class="LineNumber"> 017 </span>อนุปาทินนธรรม  ด้วยอำนาจของอาหารปัจจัย.
+<span class="LineNumber"> 018 </span>                     ๓.  <B>อุปาทินนธรรม เป็นปัจจัยแก่อุปาทินนธรรม และ
+<span class="LineNumber"> 019 </span>อนุปาทินนธรรม  ด้วยอำนาจของอาหารปัจจัย</B>

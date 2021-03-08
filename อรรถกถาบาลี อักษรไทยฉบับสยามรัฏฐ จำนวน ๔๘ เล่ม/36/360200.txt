@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  200 
+
+<span class="LineNumber"> 002 </span>			เยเกจิ ปูคาย ธนสฺส (๑) เหตุ  
+<span class="LineNumber"> 003 </span>			สกฺขึ กริตฺวา อิณํ ชาปยนฺติ  
+<span class="LineNumber"> 004 </span>			เต ชาปยิตฺวา ชนตํ ชนินฺท  
+<span class="LineNumber"> 005 </span>			เต ลุทฺทกมฺมา ปสเวตฺว ปาปํ  
+<span class="LineNumber"> 006 </span>			เตเม ชนา องฺคารกาสุํ ถุนนฺตีติ ฯ  
+<span class="LineNumber"> 007 </span>ตตฺถ  องฺคารกาสุนฺติ  สมฺม  มาตลิ  เก  นาเมเต  อปเร  วชํ  
+<span class="LineNumber"> 008 </span>อปวิสนฺติโย  คาโว  วิย  สมฺปริวาเรตฺวา  นิรยปาเลหิ  ชลิตาวุเธหิ  
+<span class="LineNumber"> 009 </span>โกฏฺฏิยมานา  องฺคารกาสุํ  ปตนฺติ ฯ  ตตฺถ  จ  เนสํ  ยาว  กฏิโต  
+<span class="LineNumber"> 010 </span>นิมุคฺคานํ  มหตีหิ  อยปจฺฉีหิ  อาทาย  อุปริ  องฺคาเร  โอกีรนฺติ ฯ  
+<span class="LineNumber"> 011 </span>อถ  เต  องฺคาเร  สมฺปฏิจฺฉิตุํ  อสกฺโกนฺตา  โรทนฺตา  ปริทฑฺฒคตฺตา  
+<span class="LineNumber"> 012 </span>ถุนนฺติ  วิปฺผนฺทนฺติ ฯ  กมฺมพเลน  วา  อตฺตนา  วา  อตฺตโน  สีเส  
+<span class="LineNumber"> 013 </span>องฺคาเร  ผุนนฺติ  โอกีรนฺตีติ  อตฺโถ ฯ  ปูคาย  ธนสฺสาติ  โอกาเส  
+<span class="LineNumber"> 014 </span>สติ  ทานํ  วา  ทสฺสาม  ปูชํ  วา  กริสฺสาม  วิหารํ วา กาเรสฺสามาติ  
+<span class="LineNumber"> 015 </span>ธนํ  สํกฑฺฒิตฺวา  €ปิตสฺส  ปูคสนฺตกสฺส  ธนสฺส  เหตุ ฯ  ชาปยนฺตีติ  
+<span class="LineNumber"> 016 </span>ตํ  ธนํ  ยถา  รุจึ  ขาทิตฺวา  คณเชฏฺ€กานํ  ลฺจํ  ทตฺวา  อสุกฏฺ€าเน  
+<span class="LineNumber"> 017 </span>เอตฺตกํ  เวยฺยาวจฺจกรณํ  กตํ  อสุกฏฺ€าเน  อมฺเหหิ  เอตฺตกํ  ทินฺนนฺติ  
+<span class="LineNumber"> 018 </span>กูฏสกฺขึ กริตฺวา ตํ ธนํ ชาปยนฺติ วินาเสนฺติ ฯ  
+<span class="LineNumber"> 019 </span>	มาตลิ  ปุรโต  รถํ  เปเสตฺวา  ภยานเกหิ  นิรยปาเลหิ  
+<span class="LineNumber"> 020 </span>อุทฺธํปาทา  อโธสิรา  กตฺวา  ขิปิยมานา  ตตฺตํ  โลหกุมฺภึ  ปตนฺติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ. ปูคายตนสฺส ฯ  ๒. ม. ชลิตอยคุเฬหิ โปถิยมานา ฯ  
+<span class="LineNumber"> 022 </span># ๓. ม. ยุ. วิธุนนฺติ ฯ  ๔. ม. ยุ. วยกรณํ คตํ ฯ  ๕. สี. ยุ. ทตฺวา ฯ  
+<span class="LineNumber"> 023 </span># ๖. ม. ยุ. อิณํ ฯ

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span><H2>มานานุสยมูละ อวิชชานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         มานานุสัย   อันบุคคลละแล้ว  ในที่ใด, อวิชชานุสัย   เป็นอัน
+<span class="LineNumber"> 003 </span>บุคคลละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า  อวิชชานุสัย   อันบุคคลละแล้ว   ในที่ใด,  มานานุสัย
+<span class="LineNumber"> 006 </span>เป็นอันบุคคลละแล้ว  ในที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         อวิชชานุสัย  อันบุคคลละแล้ว ในที่นี้    คือที่ทุกขเวทนา  มานา-
+<span class="LineNumber"> 008 </span>นุสัย  ไม่ควรกล่าวว่า   ละแล้วหรือยังไม่ละแล้ว, อวิชชานุสัย  อันบุคคล
+<span class="LineNumber"> 009 </span>ละแล้ว   และมานานุสัย   ในที่นี้    คือเวทนา ๒    ในกามธาตุ      ที่ 
+<span class="LineNumber"> 010 </span>รูปธาตุ       อรูปธาตุ.
+<span class="LineNumber"> 011 </span>                        <I>จบ  มานานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 012 </span>                                      <I>มานานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 013 </span>               		          <H1>ทิฏฐานุสยมูล</H1>
+<span class="LineNumber"> 014 </span><H2>ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 015 </span>         [๑๕๑๐]   ทิฏฐานุสัย  อันบุคคลละแล้ว ในที่ใด, วิจิกิจฉานุสัย
+<span class="LineNumber"> 016 </span>เป็นอันบุคคลละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ใช่.

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>โลกเกิดขึ้นลอย ๆ.
+<span class="LineNumber"> 002 </span>	ผู้มีความเห็นว่า  สัตว์ตายแล้ว  มีสัญญา  และบัญญัติขึ้นด้วย
+<span class="LineNumber"> 003 </span>วัตถุ  ๑๖  อย่าง  คือ :-  
+<span class="LineNumber"> 004 </span>	๑.  บัญญัติว่า  ตนมีรูป  เที่ยง  ตายแล้ว  มีสัญญา.
+<span class="LineNumber"> 005 </span>	๒.  บัญญัติว่า  ตนไม่มีรูป  เที่ยง  ตายแล้ว  มีสัญญา.
+<span class="LineNumber"> 006 </span>	๓.  บัญญัติว่า  ตนมีรูปหรือไม่มีรูป ก็ถูกทั้งนั้น  เป็นของเที่ยง
+<span class="LineNumber"> 007 </span>ตายแล้ว  มีสัญญา.
+<span class="LineNumber"> 008 </span>	๔.  บัญญัติว่า  ตนมีรูปก็ไม่ใช่  ไม่มีรูปก็ไม่ใช่  เป็นของเที่ยง
+<span class="LineNumber"> 009 </span>ตายแล้ว  มีสัญญา.
+<span class="LineNumber"> 010 </span>	๕.  บัญญัติว่า  ตนมีที่สุด  เที่ยง  ตายแล้ว  มีสัญญา.
+<span class="LineNumber"> 011 </span>	๖.  บัญญัติว่า  ตนไม่มีทีสุด  เทียง  ตายแล้ว  มีสัญญา.
+<span class="LineNumber"> 012 </span>	๗.  บัญญัติว่า  ตนมีที่สุด  หรือไม่มีที่สุด  ก็ถูกทั้งนั้น  เป็นของ
+<span class="LineNumber"> 013 </span>เที่ยง  ตายแล้ว  มีสัญญา.
+<span class="LineNumber"> 014 </span>	๘.  บัญญัติว่า  ตนมีที่สุดก็ไม่ใช่  ไม่มีที่สุดก็ไม่ใช่  เป็นของ
+<span class="LineNumber"> 015 </span>เที่ยง ตายแล้ว  มีสัญญา.
+<span class="LineNumber"> 016 </span>	๙.  บัญญัติว่า   ตนมีสัญญาอย่างเดียว  เป็นของเที่ยง  ตายแล้ว
+<span class="LineNumber"> 017 </span>มีสัญญา.
+<span class="LineNumber"> 018 </span>	๑๐.  บัญญัติว่า  ตนมีสัญญาต่างกัน  เป็นของเที่ยง  ตายแล้ว
+<span class="LineNumber"> 019 </span>มีสัญญา.
+<span class="LineNumber"> 020 </span>	๑๑.  บัญญัติว่า  ตนมีสัญญาน้อย  เป็นของเที่ยง  ตายแล้ว
+<span class="LineNumber"> 021 </span>มีสัญญา.
+
+

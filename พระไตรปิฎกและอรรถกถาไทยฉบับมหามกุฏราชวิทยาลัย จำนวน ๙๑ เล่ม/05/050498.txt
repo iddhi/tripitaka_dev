@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		                        <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 002 </span>           [๔๗๗] บทว่า  <B>อนึ่ง. . .ใด</B>   ความว่า   ผู้ใด  คือ  ผู้เช่นใด. . .
+<span class="LineNumber"> 003 </span>           บทว่า  <B>ภิกษุณี</B>   ความว่า   ที่ชื่อว่า   <B>ภิกษุณี</B>   เพราะอรรถว่าเป็นผู้
+<span class="LineNumber"> 004 </span>ขอ. . . นี้ชื่อว่า  <B>ภิกษุณี</B>   ที่ทรงประสงค์ในอรรถนี้ .
+<span class="LineNumber"> 005 </span>          บทว่า  <B>ผู้ที่ตนยังมิได้ขอโอกาส</B>  คือ  ตนยังมิได้บอกกล่าว.
+<span class="LineNumber"> 006 </span>          บทว่า  <B>ภิกษุ</B>  ได้แก่  อุปสัมบันภิกษุ.
+<span class="LineNumber"> 007 </span>           คำว่า  <B>ถามปัญหา</B>  คือ   ยังภิกษุให้ทำโอกาสในพระสูตรแล้ว   ถาม
+<span class="LineNumber"> 008 </span>พระวินัย  หรือพระอภิธรรม  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 009 </span>           ยังภิกษุให้ทำโอกาสในพระวินัย  แล้วถามพระสูตร  หรือพระอภิธรรม
+<span class="LineNumber"> 010 </span>ต้องอาบัติปาจิตตีย์.                                   
+<span class="LineNumber"> 011 </span>           ยังภิกษุให้ทำโอกาสในพระอภิธรรม  แล้วถามพระสูตร  หรือพระวินัย
+<span class="LineNumber"> 012 </span>ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 013 </span>                                             <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 014 </span>                                           <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 015 </span>           [๔๗๘]  ยังมิได้ขอโอกาส  ภิกษุณีสำคัญว่า   ยังมิได้ขอโอกาส   ถาม
+<span class="LineNumber"> 016 </span>ปัญหา   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 017 </span>           ยังมิได้ขอโอกาส  ภิกษุณีมีความสงสัย  ถามปัญหา  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 018 </span>            ยังมิได้ขอโอกาส   ภิกษุณีสำคัญว่าขอโอกาสแล้ว   ถามปัญหา     ต้อง
+<span class="LineNumber"> 019 </span>อาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 020 </span>                                             <H2>ทุกะทุกกฏ</H2> 
+<span class="LineNumber"> 021 </span>            ขอโอกาสแล้ว   ภิกษุณีสำคัญว่า   ยังมิได้ขอโอกาส   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 022 </span>            ขอโอกาสแล้ว   ภิกษุณีมีความสงสัย   ต้องอาบัติทุกกฏ. 

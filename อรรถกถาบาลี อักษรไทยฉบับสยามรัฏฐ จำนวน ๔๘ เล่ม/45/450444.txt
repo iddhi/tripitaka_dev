@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  45  อุทฺทานคาถาวณฺณนา  หน้า  444
+
+<span class="LineNumber"> 002 </span>	วีริยํ  กตฺวาน  อุตฺตมนฺติ  สมฺมาสมฺโพธึ  ปาเปตุํ  สมตฺถตาย 
+<span class="LineNumber"> 003 </span>อุตฺตมํ  ปธานํ  วีริยนฺติ  วิวิธมฺปิ  วีริยปารมึ  กตฺวา  อุปฺปา-
+<span class="LineNumber"> 004 </span>เทตฺวา ฯ  ตตฺถ มหาสีลวราชกาเล (๑)  ปฺจาวุธกุมารกาเล  (๒)  มหา-
+<span class="LineNumber"> 005 </span>วานรินฺทกาเลติ  (๓)  เอวมาทีสุ  วีริยปารมิยา  ปูริตตฺตภาวานํ 
+<span class="LineNumber"> 006 </span>ปริมาณํ นาม นตฺถิ ฯ เอกนฺเตน ปนสฺส มหาชนกกาเล  
+<span class="LineNumber"> 007 </span>		อตีรทสฺสี ชลมชฺเฌ		มตา  สพฺเพว มานุสา  
+<span class="LineNumber"> 008 </span>		จิตฺตสฺส อฺถา นตฺถิ	เอสา เม วีริยปารมีติ (๔)  
+<span class="LineNumber"> 009 </span>เอวํ มหาสมุทฺทํ ตรนฺตสฺส วีริยปารมี ปรมตฺถปารมี นาม 
+<span class="LineNumber"> 010 </span>ชาตา ฯ  
+<span class="LineNumber"> 011 </span>	ขนฺติยา  ปารมึ  คนฺตฺวาติ  อธิวาสนขนฺติอาทิ  ขนฺติ-
+<span class="LineNumber"> 012 </span>ปรมุกฺกํสภาวํ  ปาเปนฺโต  ขนฺติยา  ปารมึ  ปรมโกฏึ  คนฺตฺวา 
+<span class="LineNumber"> 013 </span>ขนฺติปารมึ  สมฺปาเทตฺวาติ  อตฺโถ ฯ  ตตฺถ  มหากปิกาเล  (๕) มหึส-
+<span class="LineNumber"> 014 </span>ราชกาเล (๖) รุรุมิคราชกาเล (๗) ธมฺมเทวปุตฺตกาเลติ (๘)  เอวมาทีสุ  ขนฺติ-
+<span class="LineNumber"> 015 </span>ปารมิยา  ปูริตตฺตภาวานํ  ปริมาณํ  นาม  นตฺถิ ฯ  เอกนฺเตน 
+<span class="LineNumber"> 016 </span>ปนสฺส  ขนฺติวาทิกาเล  
+<span class="LineNumber"> 017 </span>		อเจตนํว โกฏฺเฏนฺเต		ติเณฺหน ผรสุนา มมํ  
+<span class="LineNumber"> 018 </span>		กาสิราเช น กุปฺปามิ		เอสา เม ขนฺติปารมีติ (๙)  
+<span class="LineNumber"> 019 </span># ๑. ขุ. ชา. ๒๗/๕๑/๑๗ ฯ  ๒. ขุ. ชา. ๒๗/๕๕/๑๘ ฯ  
+<span class="LineNumber"> 020 </span># ๓. ขุ. ชา. ๒๗/๕๗/๑๘ ฯ  ๔. ชาตกฏฺ€. ๑/๘๔ ฯ  
+<span class="LineNumber"> 021 </span># ๕. ขุ. ชา. ๒๗/๑๐๕๐/๒๒๕-๕๐๓ ฯ  ๖. ขุ. จริยา. ๓๓/๑๕/๕๗๒ ฯ
+<span class="LineNumber"> 022 </span>ขุ. ชา. ๒๗/๔๓๓/๑๑๔ ฯ  ๗. ขุ. จริยา. ๓๓/๑๖/๕๗๓ ฯ 
+<span class="LineNumber"> 023 </span>ขุ. ชา. ๒๗/๑๘๓๙/๓๕๙ ฯ  ๘. ขุ. จริยา. ๓๓/๑๘/๕๗๕ ฯ 
+<span class="LineNumber"> 024 </span>ขุ. ชา. ๒๗/๑๕๑๕/๓๐๗ ฯ  ๙. ชาตกฏฺ€. ๑/๘๔ ฯ

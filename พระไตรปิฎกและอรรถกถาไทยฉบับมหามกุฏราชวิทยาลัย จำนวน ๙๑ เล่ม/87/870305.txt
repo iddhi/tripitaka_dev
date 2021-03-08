@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ขันธ์ทั้งหลายที่เป็นเนวเสกขานาเสกขธรรม  ซึ่งเป็นอเหตุกะ  อาศัย 
+<span class="LineNumber"> 002 </span>หทยวัตถุ 
+<span class="LineNumber"> 003 </span>           โมหะ  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์
+<span class="LineNumber"> 004 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  และหทยวัตถุ.
+
+<span class="LineNumber"> 005 </span>                                   <H1>๒.  นอารัมมณปัจจัย</H1>
+<span class="LineNumber"> 006 </span>                         ๑.  <B>เนวเสกขานาเสกขธรรม  อาศัยเสกขธรรม  ฯลฯ
+<span class="LineNumber"> 007 </span>เพราะนอารัมมณปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                                       <H1>๓.  นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๒๑๕] ๑.  <B>เสกขธรรม  อาศัยเสกขธรรม ฯลฯ  เพราะน-
+<span class="LineNumber"> 010 </span>อธิปติปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  อธิปติธรรมที่เป็นเสกขธรรม  อาศัยขันธ์ทั้งหลายที่เป็นเสกข-
+<span class="LineNumber"> 012 </span>ธรรม.
+<span class="LineNumber"> 013 </span>                         ๒.  <B>อเสกขธรรม  อาศัยอเสกขธรรม  ฯลฯ  เพราะ
+<span class="LineNumber"> 014 </span>นอธิปติปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  อธิปติธรรมที่เป็นอเสกขธรรม  อาศัยขันธ์ทั้งหลายที่เป็นอเสกข-
+<span class="LineNumber"> 016 </span>ธรรม.
+<span class="LineNumber"> 017 </span>                         ๓.  <B>เนวเสกขานาเสกขธรรม  อาศัยเนวเสกขานา-
+<span class="LineNumber"> 018 </span>เสกขธรรม  ฯลฯ  เพราะนอธิปติปัจจัย พึงใส่ให้เต็ม</B>
+ 

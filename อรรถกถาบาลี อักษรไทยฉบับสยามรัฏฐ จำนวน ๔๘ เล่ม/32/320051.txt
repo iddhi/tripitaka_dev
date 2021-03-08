@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  สิริกาลกณฺณิชาตกํ  หน้า 51
+	
+<span class="LineNumber"> 002 </span>	ตโต ปรํ โพธิสตฺโต อาห  
+<span class="LineNumber"> 003 </span>	[๘๘๐]กึสีเล กึสมาจาเร  		ปุริเส นิวิสเส(๑) ตุวํ  
+<span class="LineNumber"> 004 </span>		ปุฏฺ€า เม ลกฺขิ อกฺขาหิ  	ยถา ชาเนมุ ตํ มยํ ฯ  
+<span class="LineNumber"> 005 </span>		[๘๘๑]โย วาปิ(๒) สีเต อถวาปิ อุณฺเห  
+<span class="LineNumber"> 006 </span>			วาตาตเป ฑํสสิรึสเป จ  
+<span class="LineNumber"> 007 </span>			อุทฺธํ(๓) ปิปาสํ อภิภุยฺย สพฺพํ  
+<span class="LineNumber"> 008 </span>			รตฺตินฺทิวํ โย สตตํ นิยุตฺโต  
+<span class="LineNumber"> 009 </span>			กาลาคตฺจ น หาเปติ อตฺถํ  
+<span class="LineNumber"> 010 </span>			โส เม มนาโป นิวเส วตมฺหิ(๔) ฯ  
+<span class="LineNumber"> 011 </span>		[๘๘๒]อกฺโกธโน มิตฺตวา จาควา จ  
+<span class="LineNumber"> 012 </span>			สีลูปปนฺโน อสโถชุภูโต(๕)  
+<span class="LineNumber"> 013 </span>			สงฺคาหโก สขิโล สณฺหวาโจ  
+<span class="LineNumber"> 014 </span>			มหตฺตปตฺโตปิ นิวาตวุตฺติ  
+<span class="LineNumber"> 015 </span>			ตสฺสาห(๖) โปเส วิปุลา ภวามิ  
+<span class="LineNumber"> 016 </span>			อุมฺมี(๗) สมุทฺทสฺส ยถาปิ วณฺณํ ฯ  
+<span class="LineNumber"> 017 </span>		[๘๘๓]โย จาปิ มิตฺเต อถวา อมิตฺเต  
+<span class="LineNumber"> 018 </span>			เสฏฺเ€ สริกฺเข อถวาปิ หีเน  
+<span class="LineNumber"> 019 </span>			อตฺถํ จรนฺตํ อถวา อนตฺถํ  
+<span class="LineNumber"> 020 </span># ๑. ส. นิวิเส ฯ  ๒. ส. ม. จาปิ ฯ  ๓. ส. ขุทฺทํ ฯ
+<span class="LineNumber"> 021 </span># ม. ขุธํ ฯ ๔. ม. จ ตมฺหิ ฯ ๕. ยุ. อสโ€ ชุภูโต ฯ 
+<span class="LineNumber"> 022 </span># ๖. ส. ตสฺมึห ฯ ม. ตสฺมึหํ ฯ  ๗. ม. อูมิ ฯ 

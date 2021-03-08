@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  17  ปุปฺผวคฺควณฺณนา  หน้า  448
+
+<span class="LineNumber"> 002 </span>ปาปิมา  โคธิกสฺส  กุลปุตฺตสฺส  วิฺาณํ  สมนฺเวสติ  กตฺถ
+<span class="LineNumber"> 003 </span>โคธิกสฺส  กุลปุตฺตสฺส  วิฺาณํ  ปติฏฺ€ิตนฺติ  อปฺปติฏฺ€ิเตเนว
+<span class="LineNumber"> 004 </span>ภิกฺขเว  วิฺาเณน  โคธิโก  กุลปุตฺโต  ปรินิพฺพุโตติ  อาห ฯ
+<span class="LineNumber"> 005 </span>มาโรปิ  ตสฺส  วิฺาณฏฺ€านํ  ทฏฺ€ุํ  อสกฺโกนฺโต  กุมารวณฺโณ(๑)
+<span class="LineNumber"> 006 </span>หุตฺวา  เพลุวปณฺฑุวีณํ  อาทาย  สตฺถารํ  อุปสงฺกมิตฺวา ปุจฺฉิ
+<span class="LineNumber"> 007 </span>	อุทฺธํ อโธ จ ติริยํ	ทิสาสุ จ วิทิสาสุ จ (๒)
+<span class="LineNumber"> 008 </span>	อนฺเวสํ นาธิคจฺฉามิ	โคธิโก โส กุหึ คโตติ ฯ
+<span class="LineNumber"> 009 </span>อถ นํ สตฺถา อาห
+<span class="LineNumber"> 010 </span>	โย (๓) ธีโร ธีติสมฺปนฺโน	ฌายี ฌานรโต สทา
+<span class="LineNumber"> 011 </span>	อโหรตฺตํ อนุยุฺชํ			ชีวิตํ อนิกามยํ
+<span class="LineNumber"> 012 </span>	ชิตฺวาน มจฺจุโน เสนํ		อนาคนฺตฺวา ปุนพฺภวํ
+<span class="LineNumber"> 013 </span>	สมูลํ ตณฺหํ อพฺพุยฺห			โคธิโก ปรินิพฺพุโตติ ฯ
+<span class="LineNumber"> 014 </span>เอวํ วุตฺเต [๔]
+<span class="LineNumber"> 015 </span>	ตสฺส โสกปเรตสฺส		วีณา กจฺฉา อภสฺสถ
+<span class="LineNumber"> 016 </span>	ตโต โส ทุมฺมโน ยกฺโข	ตตฺเถวนฺตรธายถาติ ฯ
+<span class="LineNumber"> 017 </span>	สตฺถาปิ  กินฺเต  ปาปิม  โคธิกสฺส  กุลปุตฺตสฺส
+<span class="LineNumber"> 018 </span>นิพฺพตฺตฏฺ€าเนน  ตสฺส  หิ  นิพฺพตฺตฏฺ€านํ  ตุมฺหาทิสานํ  สตมฺปิ
+<span class="LineNumber"> 019 </span># ๑ สี. ยุ.  กุมารวณฺณี ฯ ม. กุมารวณฺณํ ฯ
+<span class="LineNumber"> 020 </span># ๒.  สี. ม. ยุ. ทิสา อนุทิสาสฺวหํ ฯ  ๓. สี. ยุ. โส ฯ
+<span class="LineNumber"> 021 </span># ๔. สี. ยุ. เอตฺถนฺตเร มาโร ปาปิมา ภควนฺตํ คาถาย อชฺฌภาสีติ
+<span class="LineNumber"> 022 </span>#     ทิสฺสติ  ฯ

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 135
+
+<span class="LineNumber"> 002 </span>	หตฺถิคเต อสฺสคเต		สนฺนทฺเธ ปสฺส โน มหาราช  
+<span class="LineNumber"> 003 </span>	ยุทฺเธ จ(๑) ยุชฺฌมาเน จ(๑)	นหิ มาทิสา[๒] โหนฺติ ยฺตฺถาย  
+<span class="LineNumber"> 004 </span>	ปจฺจนฺเต วา(๓) กุปฺปิเต		อฏวีสุ วา มาทิเส นิโยเชนฺติ  
+<span class="LineNumber"> 005 </span>	อถ โน อการณสฺมา		อภูมิยํ ตาต หฺาม  
+<span class="LineNumber"> 006 </span>	ยา กาจิ สกุณิกาโย(๔)		วสนฺติ ติณฆรานิ กตฺวาน  
+<span class="LineNumber"> 007 </span>	ตาสํ หิ ปิยา ปุตฺตา		อถ โน ตฺวํ เทว ฆาเตสิ  
+<span class="LineNumber"> 008 </span>	มา ตสฺส สทฺทเหสิ			น มํ กณฺฑหาโล ฆาเตยฺย  
+<span class="LineNumber"> 009 </span>	มมํ หิ โส ฆาเตตฺวา(๕)		อนนฺตรํ ตฺจ(๖) เทว ฆาเตยฺย  
+<span class="LineNumber"> 010 </span>	คามวรํ นิคมวรํ			ททนฺติ โภคํปิสฺส มหาราช  
+<span class="LineNumber"> 011 </span>	อถคฺคปิณฺฑิกาปิ กุเล		กุเล เคเห เต ภุฺชนฺติ  
+<span class="LineNumber"> 012 </span>	เตสํปิ ตาทิสานํ			อิจฺฉนฺติ ทุพฺภิตุํ มหาราช  
+<span class="LineNumber"> 013 </span>	เยภุยฺเยน หิ เอเต			อกตฺุโน พฺราหฺมณา(๗)  
+<span class="LineNumber"> 014 </span>	มา โน เทว อวธิ			ทาเส โน เทหิ กณฺฑหาลสฺส(๘)  
+<span class="LineNumber"> 015 </span>	อปิ นิคฬพนฺธกาปิ		หตฺถี อสฺเส จ ปาเลม  
+<span class="LineNumber"> 016 </span>	มา โน เทว อวธิ			ทาเส โน เทหิ กณฺฑหาลสฺส(๘)  
+<span class="LineNumber"> 017 </span>	อปิ นิคฬพนฺธกาปิ			หตฺถิจฺฉกณานิ อุชฺเฌม  
+<span class="LineNumber"> 018 </span>	มา โน เทว อวธิ			ทาเส โน เทหิ กณฺฑหาลสฺส(๘)  
+<span class="LineNumber"> 019 </span>	อปิ นิคฬพนฺธกาปิ		อสฺสจฺฉกณานิ อุชฺเฌม  
+<span class="LineNumber"> 020 </span># ๑. ม. วา ฯ  ๒. ม. เอตฺถนฺตเร สูราติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. วาปิ ฯ  ๔. ม. ยาปิ หิ ตา สกุณิโย ฯ ๕. ส. ม. ฆาเตตฺวาน ฯ
+<span class="LineNumber"> 022 </span># ๖. ส. ม. อนนฺตรา ตมฺปิ ฯ  ๗. ม. พฺราหฺมณา เทว ฯ
+<span class="LineNumber"> 023 </span># ๘. ม. ขณฺฑหาลสฺส ฯ 

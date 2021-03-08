@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  345  
+
+<span class="LineNumber"> 002 </span>		อุปาหนวคฺควณฺณนา  
+
+<span class="LineNumber"> 003 </span>		อุปาหนชาตกํ ฯ  
+<span class="LineNumber"> 004 </span>	ยถาปิ  กตาติ  อิทํ  สตฺถา  เชตวเน (๑) วิหรนฺโต  เทวทตฺตํ  
+<span class="LineNumber"> 005 </span>อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 006 </span>	ธมฺมสภายํ  หิ  ภิกฺขู  กถํ  สมุฏฺ€าเปสุํ  อาวุโส  เทวทตฺโต  
+<span class="LineNumber"> 007 </span>อาจริยปจฺจกฺโข  (๒)  ตถาคตสฺส  ปฏิปกฺโข  ปฏิสตฺตุ  หุตฺวา  
+<span class="LineNumber"> 008 </span>มหาวินาสํ  ปาปุณีติ ฯ  สตฺถา  อาคนฺตฺวา  กายนุตฺถ  ภิกฺขเว
+<span class="LineNumber"> 009 </span>เอตรหิ  กถาย  สนฺนิสินฺนาติ  ปุจฺฉิตฺวา  อิมาย  นามาติ  วุตฺเต
+<span class="LineNumber"> 010 </span>น  ภิกฺขเว  เทวทตฺโต  อิทาเนว  อาจริยปจฺจกฺโข  (๒)  มม  ปฏิปกฺโข
+<span class="LineNumber"> 011 </span>หุตฺวา  มหาวินาสํ  ปาปุณิ ปุพฺเพปิ ปฏิปกฺโขเยวาติ (๓) วตฺวา
+<span class="LineNumber"> 012 </span>อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 013 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 014 </span>หตฺถาจริยกุเล  นิพฺพตฺติตฺวา  วยปฺปตฺโต  หตฺถิสิปฺเป  นิปฺผตฺตึ 
+<span class="LineNumber"> 015 </span>ปาปุณิ ฯ  อเถโก  กาสิกคามวาสิโก  มาณโว  อาคนฺตฺวา  ตสฺส
+<span class="LineNumber"> 016 </span>สนฺติเก  สิปฺปํ  อุคฺคณฺหิ ฯ  โพธิสตฺตา  นาม  สิปฺปํ  วาเจนฺตา 
+<span class="LineNumber"> 017 </span>อาจริยมุฏฺ€ึ  น  กโรนฺติ  อตฺตโน  ชานนนิยาเมน  นิรวเสสํ  
+<span class="LineNumber"> 018 </span>สิกฺขาเปนฺติ ฯ  ตสฺมา  โส  มาณโว  โพธิสตฺตสฺส  ชานนสิปฺปํ 
+<span class="LineNumber"> 019 </span># ๑. ยุ. เวฬุวเน ฯ  ๒. ม. อาจริยํ ปจฺจกฺขาย ฯ  ๓. ม. ปตฺโตเยวาติ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. กาสิคามโก มาณวโก ฯ

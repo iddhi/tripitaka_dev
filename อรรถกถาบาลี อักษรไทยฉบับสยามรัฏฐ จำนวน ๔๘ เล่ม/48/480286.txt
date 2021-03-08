@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  286
+
+<span class="LineNumber"> 002 </span>			อเสกฺขาณกถาวณฺณนา(๑) 
+<span class="LineNumber"> 003 </span>	อิทานิ  อเสกฺขกถา(๑)  นาม  โหติ ฯ  ตตฺถ  ยสฺมา  อานนฺทตฺ-
+<span class="LineNumber"> 004 </span>เถราทโย  เสกฺขา  อุฬาโร  ภควาติอาทินา  นเยน  อเสกฺเข
+<span class="LineNumber"> 005 </span>ชานนฺติ  ตสฺมา  เสกฺขสฺส  อเสกฺขาณํ  อตฺถีติ  เยสํ  ลทฺธิ
+<span class="LineNumber"> 006 </span>เสยฺยถาปิ  อุตฺตราปถกานํ  เต สนฺธาย ปุจฺฉา สกวาทิสฺส 
+<span class="LineNumber"> 007 </span>ปฏิฺา  อิตรสฺส ฯ  ชานาติ  ปสฺสตีติ  อิทํ  อตฺตนา  อธิคตสฺส
+<span class="LineNumber"> 008 </span>ชานนวเสน  วุตฺตํ ฯ  โคตฺรภุโนติอาทิ  เหฏฺ€ิมาย  ภูมิยํ  €ิตสฺส
+<span class="LineNumber"> 009 </span>อุปรูปริาณสฺส อภาวทสฺสนตฺถํ  วุตฺตํ ฯ  นนุ  อายสฺมา
+<span class="LineNumber"> 010 </span>อานนฺโท  เสกฺโข  อุฬาโร  ภควาติ  ชานาตีติ  ปรวาที  อเสกฺโข
+<span class="LineNumber"> 011 </span>ภควาติ  (๒)  ปวตฺตตฺตา  ตํ  อเสกฺขาณนฺติ  อิจฺฉติ น ปเนตํ
+<span class="LineNumber"> 012 </span>อเสกฺขํ ตสฺมา เอวํ ปติฏฺ€าปิตาปิ ลทฺธิ อปฺปติฏฺ€าปิตาว
+<span class="LineNumber"> 013 </span>โหตีติ ฯ 
+<span class="LineNumber"> 014 </span>		อเสกฺขาณกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 015 </span>			วิปรีตกถาวณฺณนา 
+<span class="LineNumber"> 016 </span>	อิทานิ  วิปรีตกถา  นาม  โหติ ฯ  ตตฺถ  ยฺวายํ  ป€วีกสิเณ 
+<span class="LineNumber"> 017 </span>ป€วีสฺี  สมาปชฺชติ  ตสฺส  ตํ  าณํ  วิปรีตาณนฺติ  เยสํ
+<span class="LineNumber"> 018 </span>ลทฺธิ  เสยฺยถาปิ อนฺธกานํ  เต  สนฺธาย  ปุจฺฉา  สกวาทิสฺส 
+<span class="LineNumber"> 019 </span>ปฏิฺา  อิตรสฺส  ป€วึ  นิสฺสาย อุปฺปนฺนนิมิตฺตฺหิ  น
+<span class="LineNumber"> 020 </span># ๑. ม. อเสขาณกถาวณฺณนา ฯ  ๒. ม. อเสข... ฯ
+<span class="LineNumber"> 021 </span># เอวมุปริปิ ฯ  ๓. ม. อเสเข ภควติ ฯ

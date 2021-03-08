@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  32
+
+<span class="LineNumber"> 002 </span>ตตฺถ  วคฺคุกโถติ  มธุรกโถ  สขิลกโถ ฯ  (๑)
+<span class="LineNumber"> 003 </span>ตโต มหาสตฺโต อาห  
+<span class="LineNumber"> 004 </span>	[๔๐๘]	นาหํ อสนฺธิตา (๒) ปกฺโข	น พธิโร อโสตตา  
+<span class="LineNumber"> 005 </span>			นาหํ อชิวฺหตา มูโค		มา มํ มูคมธารยิ  
+<span class="LineNumber"> 006 </span>			ปุริมํ สรามิหํ ชาตึ		ยตฺถ รชฺชมการยึ  
+<span class="LineNumber"> 007 </span>			การยิตฺวา ตหึ รชฺชํ		ปาปตฺถํ นิรยํ ภุสํ  
+<span class="LineNumber"> 008 </span>			วีสติฺเจว วสฺสานิ		ตหึ รชฺชมการยึ  
+<span class="LineNumber"> 009 </span>			อสีติวสฺสสหสฺสานิ		นิรยมฺหิ อปจฺจสึ  (๓)
+<span class="LineNumber"> 010 </span>			ตสฺส รชฺชสฺสาหํ ภีโต		มา มํ รชฺเชภิเสจยุํ  
+<span class="LineNumber"> 011 </span>			ตสฺมา ปิตุ จ มาตุ จ		สนฺติเก น ภณึ ตทา  
+<span class="LineNumber"> 012 </span>			อุจฺจงฺเก (๔) มํ นิสีทิตฺวา	ปิตา อตฺถานุสาสติ  
+<span class="LineNumber"> 013 </span>			เอกํ หนถ พนฺธถ			เอกํ ขาราปตจฺฉกํ  (๕)
+<span class="LineNumber"> 014 </span>			เอกํ สูลสฺมึ อุพฺเพถ (๖)	อิจฺจสฺส อนุสาสติ  
+<span class="LineNumber"> 015 </span>			ตายาหํ ผรุสํ สุตฺวา		วาจาโย สมุทีริตา  
+<span class="LineNumber"> 016 </span>			อมูโค มูควณฺเณน		อปกฺโข ปกฺขสมฺมโต  
+<span class="LineNumber"> 017 </span>			สเก มุตฺตกรีสสฺมึ		อจฺฉาหํ สํปริปลุโต  
+<span class="LineNumber"> 018 </span>			กสิรฺจ ปริตฺตฺจ			ตฺจ ทุกฺเขน สํยุตํ  
+<span class="LineNumber"> 019 </span># ๑. สี.สลีลกโถ ฯ  ยุ. สลีฬฺหกโถ ฯ  ๒. สี. อสตฺถีตา ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. อปจฺจิสํ ฯ  ยุ อปจฺจยึ ฯ  ๔. ม. ยุ. อุจฺฉงฺเค ฯ  ๕. ส. ขราปติจฺฉกํ ฯ
+<span class="LineNumber"> 021 </span>ม. ยุ. ขาราปตจฺฉิกํ ฯ  ๖. สี. อปฺปถ ฯ  ม. อุปฺเปถ ฯ  ยุ. อจฺเจถ ฯ

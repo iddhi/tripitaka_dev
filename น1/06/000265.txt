@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>    
+<span class="LineNumber"> 002 </span>			<B>ร.</B>
+<span class="LineNumber"> 003 </span><B>๑๘๔  รจนาคัมภีร์</B>			เขียนตำรา,  แต่งตำรา.
+<span class="LineNumber"> 004 </span><B>๑๘๔  รตนวรรค</B>			หมวดแห่งสิกขาบทว่าด้วยเรื่องรัตนะเป็นต้น.
+<span class="LineNumber"> 005 </span><B>๑๘๕  รัตนะ</B>				แก้ว,  ของวิเศษหรือมีค่ามากตลอดจนถึงคน
+<span class="LineNumber"> 006 </span>						และสัตว์เช่นรัตนะ  ๗  ของพระเจ้าจักรพรรดิ
+<span class="LineNumber"> 007 </span>						ของประเสริฐสุด.
+<span class="LineNumber"> 008 </span><B>๑๘๕  รัตนะ  ๗  ของพระ</B>		๑.  จักรรัตนะ  (จักรแก้ว)  ๒.  หัตถิรัตนะ
+<span class="LineNumber"> 009 </span>	  <B>เจ้าจักรพรรดิ</B> 			(ช้างแก้ว)  ๓.  อัสสรัตนะ  (ม้าแก้ว)  ๔.  มณี-
+<span class="LineNumber"> 010 </span>						รัตนะ  (แก้วมณี)  ๕.  อิตถีรัตนะ  (นางแก้ว)
+<span class="LineNumber"> 011 </span>						๖.  คฤหบดีรัตนะ   (คฤหบดีแก้ว,  บุราณว่า
+<span class="LineNumber"> 012 </span>						ขุนคลัง)  ๗.  ปริณายกรัตนะ  (พระยุพราช
+<span class="LineNumber"> 013 </span>						แก้ว,  บุราณว่าขุนพล).
+<span class="LineNumber"> 014 </span><B>๑๐  ราชาภิเษก</B>			การแต่งตั้งโดยการทำพิธีรด   หรือพิธีขึ้น
+<span class="LineNumber"> 015 </span>						เสวยราชย์ของพระเจ้าแผ่นดิน.
+<span class="LineNumber"> 016 </span><B>๑๐๑  รูปพรรณ</B>			ลักษณะ,  รูปร่างและสี,  ทองเงินทำเป็น
+<span class="LineNumber"> 017 </span>						เครื่องใช้สอยหรือเครื่องประดับ.
+<span class="LineNumber"> 018 </span><B>๔๐  รูปิยะ</B>				เงินตรา,  ของที่ใช้แทนเงิน  เช่นธนบัตร
+<span class="LineNumber"> 019 </span>						เป็นต้น.
+<span class="LineNumber"> 020 </span>			<B>ล.</B>
+<span class="LineNumber"> 021 </span><B>๑๑๙  ลหุกาบัติ	</B>			อาบัติเบา.
+

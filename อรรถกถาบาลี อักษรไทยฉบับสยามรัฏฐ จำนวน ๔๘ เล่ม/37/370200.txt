@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  200
+
+<span class="LineNumber"> 002 </span>ทุมฺโมจยา  พลิสา  อมฺพุโช  วาติ  เต  ปน  เอวํ  อชานนฺตา
+<span class="LineNumber"> 003 </span>มิจฺฉาทสฺสเนน  อนตฺถํ  คเหตฺวา  €ิตา  พาลา  ยถา  นาม 
+<span class="LineNumber"> 004 </span>พลิสํ  คิลิตฺวา  €ิโต  มจฺโฉ  พลิสา  ทุมฺโมจโย  โหติ เอวํ ตมฺหา
+<span class="LineNumber"> 005 </span>อนตฺถา ทุมฺโมจยา โหนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	(๑)เอวํ วตฺวา สา อุตฺตรึ ราชานํ อนุสาสนฺตี อิมา
+<span class="LineNumber"> 007 </span>คาถา อภาสิ(๑)  
+<span class="LineNumber"> 008 </span>	[๘๖๑]อุปมนฺเต(๒) กริสฺสามิ	มหาราช ตวตฺถิยา  
+<span class="LineNumber"> 009 </span>		อุปมายปิเธกจฺเจ		อตฺถํ ชานนฺติ ปณฺฑิตา  
+<span class="LineNumber"> 010 </span>		วาณิชานํ ยถา นาวา	อปฺปมาณภารา(๓) ครุ  
+<span class="LineNumber"> 011 </span>		อติภารํ สมาทาย		อณฺณเว อวสีทติ  
+<span class="LineNumber"> 012 </span>		เอวเมว นโร ปาปํ		โถกํ โถกํปิ อาจินํ  
+<span class="LineNumber"> 013 </span>		อติภารํ สมาทาย		นิรเย อวสีทติ  
+<span class="LineNumber"> 014 </span>		น ตาว ภาโร ปริปูโร	อลาตสฺส มหีปติ  
+<span class="LineNumber"> 015 </span>		อาจินาติ จ ตํ ปาปํ	เยน คจฺฉติ ทุคฺคตึ  
+<span class="LineNumber"> 016 </span>		ปุพฺเพวสฺส กตํ ปุฺํ	อลาตสฺส มหีปติ  
+<span class="LineNumber"> 017 </span>		ตสฺสายํ เทว นิสฺสนฺโท	ยฺเจโส ลภเต สุขํ  
+<span class="LineNumber"> 018 </span>		ขียเตวสฺส(๔) ตํ ปุฺํ	ตถา หิ อคุเณ รโต  
+<span class="LineNumber"> 019 </span>		อุชุมคฺคํ อวหาย		กุมฺมคฺคํ อนุธาวติ  
+<span class="LineNumber"> 020 </span># ๑. ม. อุตฺตริปิ อุทาหรณํ อาหรนฺตี อาห ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. อุปมํ เต ฯ  ๓. ม. อปฺปมาณภรา ฯ 
+<span class="LineNumber"> 022 </span># ๔. ส. ม. ขียเต อสฺส ฯ

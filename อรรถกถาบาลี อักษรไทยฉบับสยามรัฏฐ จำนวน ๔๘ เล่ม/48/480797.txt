@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า 797
+
+<span class="LineNumber"> 002 </span>			ปริโยสานวณฺณนา 
+<span class="LineNumber"> 003 </span>	เอวํ  ธมฺมานุโลมาทิวเสน จตูสุ ปฏฺ€าเนสุ (๑) เอเกกสฺมึ
+<span class="LineNumber"> 004 </span>จตุวีสติยา(๒) จตุวีสติยา นยานํ  วเสน  ฉนฺนวุติ  นยา  โหนฺติ ฯ  ตตฺถ
+<span class="LineNumber"> 005 </span>ปจฺจยนเย  อคฺคเหตฺวา  เอเกกสฺมึ  ปฏฺ€าเน  ติกทุกาทีนํเยว
+<span class="LineNumber"> 006 </span>ฉนฺนํ  ฉนฺนํ  นยานํ  วเสเนตํ  จตุวีสตินยปฏิมณฺฑิตํ สมนฺต-
+<span class="LineNumber"> 007 </span>ปฏฺ€านมหาปกรณํ  เวทิตพฺพํ ฯ  เกจิ  ปน  กุสลารมฺมโณ  ธมฺโม 
+<span class="LineNumber"> 008 </span>อกุสลารมฺมโณ  ธมฺโมติอาทินา  นเยน  อารมฺมณมาติกํ  นาม 
+<span class="LineNumber"> 009 </span>€เปตฺวา  กุสลารมฺมโณ  ธมฺโม  กุสลารมฺมณสฺส  ธมฺมสฺส 
+<span class="LineNumber"> 010 </span>เหตุปจฺจเยน  ปจฺจโยติอาทินา  นเยน  อารมฺมณปฏฺ€านํ  นาม
+<span class="LineNumber"> 011 </span>ทสฺเสตฺวา  อปรมฺปิ  ผสฺสาทีนํ  วเสนปิ  ผสฺสปฏฺ€านํ  นาม
+<span class="LineNumber"> 012 </span>อุทฺธริตฺวา ทสฺเสนฺติ  ตมฺปน  (๓)  เนว  ปาลิยํ  น  อฏฺ€กถาสุ
+<span class="LineNumber"> 013 </span>สนฺทิสฺสตีติ อิธ น วิจาริตํ ฯ สงฺคีติอารุฬฺหปาลิวเสเนว 
+<span class="LineNumber"> 014 </span>ปเนตฺถ วณฺณนา กตาติ เวทิตพฺพา ฯ 
+<span class="LineNumber"> 015 </span>	เอตฺตาวตา จ
+<span class="LineNumber"> 016 </span>		สมฺมุฬฺหา ยตฺถ ปชา	ตนฺตากุลาทิภาวมาปนฺนา(๔) 
+<span class="LineNumber"> 017 </span>		เนกวิธทุกฺขคฺคหณํ		สํสารํ นาติวตฺตนฺติ ฯ 
+<span class="LineNumber"> 018 </span>		ปจฺจยเภทกุสโล (๕)	โลกครุตมฺปิ ปจฺจยาการํ 
+<span class="LineNumber"> 019 </span>		อตินิปฺปุณคมฺภีรํ	ชวนพฺภูมึ พุทฺธาณสฺส ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. วาเรสุ ฯ  ๒. ม. จตุวีสติยา จตุวีสติยา ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ตํ ฯ ๔. ม. ตนฺตากุลาทิภาวมาปนฺนา ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. ปจฺจยเภเท กุสโล ฯ

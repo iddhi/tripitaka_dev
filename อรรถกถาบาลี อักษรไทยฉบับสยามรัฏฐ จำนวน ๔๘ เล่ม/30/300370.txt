@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  30  หน้า  370
+
+<span class="LineNumber"> 002 </span>				หริตมาตชาตกํ (๑)
+<span class="LineNumber"> 003 </span>	อาสีวิสมฺปิ  มํ  สนฺตนฺติ  อิทํ  สตฺถา  เวฬุวเน  วิหรนฺโต  
+<span class="LineNumber"> 004 </span>อชาตสตฺตุํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	โกสลราชสฺส  หิ  ปิตา  มหาโกสโล  พิมฺพิสารรฺโ  ธีตรํ  
+<span class="LineNumber"> 006 </span>ททมาโน  ธีตุ  นฺหานมูลํ  กาสิกคามกํ  นาม  อทาสิ ฯ  สา 
+<span class="LineNumber"> 007 </span>เทวี (๒) อชาตสตฺตุนา  ปิตุฆาตกมฺเม  กเต  รฺโ  สิเนเหน  น 
+<span class="LineNumber"> 008 </span>จิรสฺเสว  กาลมกาสิ ฯ  อชาตสตฺตุ  มาตริ  กาลกตายปิ  ตํ  
+<span class="LineNumber"> 009 </span>คามํ  ภุฺชเตว ฯ  โกสลราชา  ปิตุฆาตกสฺส  โจรสฺส  มม 
+<span class="LineNumber"> 010 </span>กุลสนฺตกํ  คามํ  น  ทสฺสามีติ  เตน  สทฺธึ  ยุชฺฌติ ฯ  กทาจิ  
+<span class="LineNumber"> 011 </span>มาตุลสฺส  ชโย  โหติ  กทาจิ  ภาคิเนยฺยสฺส ฯ  ยทา  ปน 
+<span class="LineNumber"> 012 </span>อชาตสตฺตุ  ชินาติ  ตทา  โสมนสฺสปฺปตฺโต  รเถ  ธชํ  อุสฺสาเปตฺวา
+<span class="LineNumber"> 013 </span>มหนฺเตน  ยเสน  นครํ  ปวิสติ ฯ  ยทา  ปราชยติ  ตทา 
+<span class="LineNumber"> 014 </span>โทมนสฺสปฺปตฺโต  กิฺจิ  (๓) อชานาเปตฺวา  ว  ปวิสติ ฯ  อเถกทิวสํ 
+<span class="LineNumber"> 015 </span>ภิกฺขู  ธมฺมสภายํ  กถํ  สมุฏฺ€าเปสุํ  อาวุโส  อชาตสตฺตุ  มาตุลํ  
+<span class="LineNumber"> 016 </span>ชินิตฺวา  ตุสฺสิ  ปราชิโต  โทมนสฺสปฺปตฺโต  อโหสีติ ฯ  สตฺถา  
+<span class="LineNumber"> 017 </span>อาคนฺตฺวา  กายนุตฺถ  ภิกฺขเว  เอตรหิ  กถาย  สนฺนิสินฺนาติ 
+<span class="LineNumber"> 018 </span>ปุจฺฉิตฺวา  อิมาย  นามาติ  วุตฺเต  น  ภิกฺขเว  อิทาเนว  
+<span class="LineNumber"> 019 </span>ปุพฺเพเปส  ชินิตฺวา  ตุสฺสติ ปราชิโต โทมนสฺสปฺปตฺโต โหตีติ
+<span class="LineNumber"> 020 </span>วตฺวา อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. หริตมณฺฑูกชาตก ...ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ  ๓. ม. กฺจิ ฯ

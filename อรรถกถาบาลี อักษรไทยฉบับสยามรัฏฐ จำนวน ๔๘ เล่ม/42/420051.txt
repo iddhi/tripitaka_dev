@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42  ทูเรนิทานกถา หน้า  51
+
+<span class="LineNumber"> 002 </span>	ทิพฺพํ มานุสกํ ปุปฺผํ   เทวา มานุสกา อุโภ  
+<span class="LineNumber"> 003 </span>	สโมกิรนฺติ ปุปฺเผหิ   วุฏฺ€หนฺตสฺส อาสนา ฯ  
+<span class="LineNumber"> 004 </span>	เวทยนฺติ จ เต โสตฺถึ  เทวา มานุสกา อุโภ  
+<span class="LineNumber"> 005 </span>	มหนฺตํ ปตฺถิตํ ตุยฺหํ   ตํ ลภสฺสุ ยถิจฺฉิตํ ฯ  
+<span class="LineNumber"> 006 </span>	สพฺพีติโย วิวชฺชนฺตุ   โสโก โรโค วินสฺสตุ  
+<span class="LineNumber"> 007 </span>	มา เต ภวนฺตฺวนฺตรายา(๑)  ผุส ขิปฺปํ โพธิมุตฺตมํ ฯ  
+<span class="LineNumber"> 008 </span>	ยถาปิ สมเย ปตฺเต   ปุปฺผนฺติ ปุปฺผิโน ทุมา  
+<span class="LineNumber"> 009 </span>	ตเถว ตฺวํ มหาวีร   พุทฺธาเณน ปุปฺผสุ ฯ  
+<span class="LineNumber"> 010 </span>	ยถา เย เกจิ สมฺพุทฺธา  ปูรยุํ ทส ปารมี  
+<span class="LineNumber"> 011 </span>	ตเถว ตฺวํ มหาวีร   ปูรย ทส ปารมี ฯ  
+<span class="LineNumber"> 012 </span>	ยถา เย เกจิ สมฺพุทฺธา  โพธิมณฺฑมฺหิ พุชฺฌเร  
+<span class="LineNumber"> 013 </span>	ตเถว ตฺวํ มหาวีร   พุชฺฌสฺสุ ชินโพธิยํ ฯ  
+<span class="LineNumber"> 014 </span>	ยถา เย เกจิ สมฺพุทฺธา  ธมฺมจกฺกํ ปวตฺตยุํ  
+<span class="LineNumber"> 015 </span>	ตเถว ตฺวํ มหาวีร   ธมฺมจกฺกํ ปวตฺตย ฯ  
+<span class="LineNumber"> 016 </span>	ปุณฺณมาเย ยถา จนฺโท  ปริสุทฺโธ วิโรจติ  
+<span class="LineNumber"> 017 </span>	ตเถว ตฺวํ ปุณฺณมโน   วิโรจ ทสสหสฺสิยํ ฯ  
+<span class="LineNumber"> 018 </span>	ราหุมุตฺโต ยถา สูริโย  ตาเปน อติโรจติ  
+<span class="LineNumber"> 019 </span>	ตเถว โลกา มุจฺจิตฺวา(๒)  วิโรจ สิริยา ตุวํ ฯ  
+<span class="LineNumber"> 020 </span>	ยถา ยา กาจิ นทิโย   โอสรนฺติ มโหทธึ  
+<span class="LineNumber"> 021 </span>	เอวํ สเทวกา โลกา   โอสรนฺตุ ตวนฺติเก ฯ  
+<span class="LineNumber"> 022 </span># ๑ สี.  ภวตฺวนฺตราโย ฯ  ๒ สี.  โลกํ มุฺจิตฺวา ฯ 

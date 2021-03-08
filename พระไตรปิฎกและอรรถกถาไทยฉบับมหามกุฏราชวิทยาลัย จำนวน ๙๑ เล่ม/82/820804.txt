@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>สุทธธาตุมูลจักกวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>         [๘๐๙]   ธรรมที่ชื่อว่าจักขุ,   ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าธาตุ,   ชื่อว่าโสตธาตุ   ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         โสตธาตุ   ชื่อว่า    ธาตุด้วย   ชื่อว่า   โสตธาตุด้วย,   ธรรมที่เหลือ
+<span class="LineNumber"> 006 </span>ชื่อว่า    ธาตุ    แต่ไม่ชื่อว่าโสตธาตุ.
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าจักขุ,  ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่. 
+<span class="LineNumber"> 009 </span>         ธรรมที่ชื่อว่าธาตุ   ชื่อว่าฆานธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>                                                 ฯ ล ฯ
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าธาตุ,   ชื่อว่าธัมมธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ธัมมธาตุ   ชื่อว่า   ธาตุด้วย  ชื่อว่า   ธัมมธาตุด้วย,   ธรรมที่เหลือ
+<span class="LineNumber"> 013 </span>ชื่อว่า    ธาตุ   แต่ไม่ชื่อว่าธัมมธาตุ.
+<span class="LineNumber"> 014 </span>         (พึงผูกจักกนัย.)
+<span class="LineNumber"> 015 </span>                           <I>สุทธธาตุมูลจักกวาระ  อนุโลม  จบ</I>

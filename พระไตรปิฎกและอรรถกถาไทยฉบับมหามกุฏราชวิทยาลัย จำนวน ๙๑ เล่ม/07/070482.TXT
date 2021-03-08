@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ๖.  แสดงสิ่งที่พระตถาคตทรงภาษิตไว้  ตรัสไว้  ว่าพระตถาคตมิได้ 
+<span class="LineNumber"> 002 </span>ทรงภาษิตไว้  ตรัสไว้.
+<span class="LineNumber"> 003 </span>           ๗.  แสดงมรรยาทอันพระตถาคต มิได้ทรงประพฤติมา  ว่าพระตถาคต
+<span class="LineNumber"> 004 </span>ทรงประพฤติมา.
+<span class="LineNumber"> 005 </span>           ๘.  แสดงมรรยาทอันพระตถาคตทรงประพฤติมาแล้ว ว่าพระตถาคต
+<span class="LineNumber"> 006 </span>มิได้ทรงประพฤติมา.
+<span class="LineNumber"> 007 </span>           ๙.  แสดงสิ่งที่พระตถาคตมิได้ทรงบัญญัติไว้   ว่าอันพระตถาคตทรง
+<span class="LineNumber"> 008 </span>บัญญัติไว้.
+<span class="LineNumber"> 009 </span>           ๑๐.  แสดงสิ่งที่พระตถาคตทรงบัญญัติไว้    ว่าพระตถาคตมิได้ทรง
+<span class="LineNumber"> 010 </span>บัญญัติไว้.
+<span class="LineNumber"> 011 </span>           ๑๑.  แสดงสิ่งที่มิใช่อาบัติ   ว่าเป็นอาบัติ.
+<span class="LineNumber"> 012 </span>           ๑๒.  แสดงสิ่งที่เป็นอาบัติ   ว่าเป็นสิ่งมิใช่อาบัติ.
+<span class="LineNumber"> 013 </span>           ๑๓.  แสดงอาบัติเบา  ว่าเป็นอาบัติหนัก.
+<span class="LineNumber"> 014 </span>           ๑๔.   แสดงอาบัติหนัก   ว่าเป็นอาบัติเบา.
+<span class="LineNumber"> 015 </span>           ๑๕.  แสดงอาบัติมีส่วนเหลือ  ว่าเป็นอาบัติหาส่วนเหลือมิได้.
+<span class="LineNumber"> 016 </span>           ๑๖.  แสดงอาบัติหาส่วนเหลือมิได้  ว่าเป็นอาบัติมีส่วนเหลือ.
+<span class="LineNumber"> 017 </span>           ๑๗.  แสดงอาบัติชั่วหยาบ  ว่าเป็นอาบัติไม่ชั่วหยาบ.
+<span class="LineNumber"> 018 </span>           ๑๘.  แสดงอาบัติไม่ชั่วหยาบ  ว่าเป็นอาบัติชั่วหยาบ
+<span class="LineNumber"> 019 </span>           สารีบุตร   เธอพึงทราบอธรรมวาทีภิกษุ   ด้วยวัตถี  ๑๘ ประการนี้ แล.
+
+<span class="LineNumber"> 020 </span>                        <H1>วัตถุสำหรับธรรมวาที  ๑๘  ประการ</H1>
+<span class="LineNumber"> 021 </span>           สารีบุตร   และพึงทราบธรรมวาทีภิกษุ   ด้วยวัตถุ   ๑๘ ประการ  คือ
+<span class="LineNumber"> 022 </span>ภิกษุในธรรมวินัยนี้:-

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	ธาตุมี  <B>มฺ</B>  เป็นที่สุดอยู่หน้า  แปลง  <B>ย</B>  กับที่สุดธาตุ  เป็น  <B>มฺม.</B>    
+<span class="LineNumber"> 002 </span><B>อาคมฺม</B>  มาแล้ว.  <B>อา+คมฺ</B>  ธาตุ  ในความ  ไป.
+<span class="LineNumber"> 003 </span><B>นิกฺขมฺม<SUP>๑</SUP></B>  ออกแล้ว.  <B>นิ+ขมฺ</B>  ธาตุ  ในความ  ออก.
+<span class="LineNumber"> 004 </span><B>อภิรมฺม</B>  ยินดียิ่งแล้ว.  <B>อภิ+รมฺ</B>  ธาตุ  ในความ  ยินดี.
+<span class="LineNumber"> 005 </span>	ธาตุมี  <B>ทฺ</B>  เป็นที่สุดอยู่หน้า แปลง  <B>ย</B>  กับที่สุดธาตุเป็น  <B>ชฺช.</B>
+<span class="LineNumber"> 006 </span><B>อุปฺปชฺช</B>  เกิดขึ้นแล้ว.  <B>อุ+ปทฺ</B>  ธาตุ  ในความ  เกิด.
+<span class="LineNumber"> 007 </span><B>ปมชฺช</B>  ประมาทแล้ว.  <B>ป+มทฺ</B>  ธาตุ  ในความ  ประมาท.
+<span class="LineNumber"> 008 </span><B>อจฺฉิชฺช</B>  ชิงเอาแล้ว.  <B>อา+ฉิทฺ</B>  ธาตุ  ในความ  ชิงเอา.
+<span class="LineNumber"> 009 </span>	ธาตุมี  <B>ธฺ</B>  และ  <B>ภฺ</B>  เป็นที่สุดอยู่หน้า  แปลง  <B>ย</B>  กับที่สุดธาตุ
+<span class="LineNumber"> 010 </span>เป็น  <B>ทฺธา,  พฺภ.</B>
+<span class="LineNumber"> 011 </span><B>วิทฺธา</B>  แทงแล้ว.  <B>วิธฺ</B>  ธาตุ  ในความ  แทง.
+<span class="LineNumber"> 012 </span><B>ลทฺธา</B>  ได้แล้ว.  <B>ลภฺ</B>  ธาตุ  ในความ  ได้.
+<span class="LineNumber"> 013 </span><B>อารพฺภ</B>  ปรารภแล้ว.  <B>อา+รภฺ</B>  ธาตุ  ในความเริ่ม.
+<span class="LineNumber"> 014 </span>	ธาตุมี  <B>หฺ</B>  เป็นที่สุดอยู่หน้า   แปลง  <B>ย</B>  กับที่สุดธาตุเป็น  <B>ยฺห.</B>
+<span class="LineNumber"> 015 </span><B>ปคฺคยฺห</B>  ประคองแล้ว.  <B>ป+คหฺ</B>  ธาตุ  ในความ  ประคอง.
+<span class="LineNumber"> 016 </span><B>สนฺนยฺห</B>  ผูกแล้ว.  <B>สํ+นหฺ</B>  ธาตุ  ในความ  ผูก.
+<span class="LineNumber"> 017 </span>อารุยฺห  ขึ้นแล้ว.  อา+รูหฺ  ธาตุ  ในความ  ขึ้น.
+<span class="LineNumber"> 018 </span>	แปลง  <B>ตฺวา</B>  เป็น  <B>สฺวา,   ตฺวาน</B>  เป็น  <B>สฺวาน</B>  จำเพาะแต่
+<span class="LineNumber"> 019 </span><B>ทิสฺ</B>  ธาตุ  อย่างเดียว.
+<span class="LineNumber"> 020 </span>	ปัจจัยทั้ง ๓  ตัวนี้  บอกอดีตกาลโดยมากกว่ากาลอื่น  จึงได้จัด
+
+<span class='footnote'>๑.  อีกอย่างหนึ่ง  นิกฺขมฺม  นิ+กมฺ  ธาตุ  ในความ  ออก,  ก้าวออก.</span>

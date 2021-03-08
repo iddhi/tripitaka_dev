@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 301
+
+<span class="LineNumber"> 002 </span>อมฺหากํ  ปฺหํ  ทาโสหมสฺมิ  น  จ  โขสฺมิ  าตีติ  เอวํ วิวริ 
+<span class="LineNumber"> 003 </span>เอตฺถ ปริสมณฺฑเล  อถ  กึ  อจฺฉสิ  สกลโลเก  ธนานํ  วรธนํ(๑) 
+<span class="LineNumber"> 004 </span>เอตํ  คณฺห  คเหตฺวา  เยนิจฺฉสิ (๒)เตน คจฺฉาติ ฯ  
+<span class="LineNumber"> 005 </span>		อกฺขขณฺฑํ นิฏฺ€ิตฺ ฯ  
+<span class="LineNumber"> 006 </span>	เอวฺจ  ปน  วตฺวา  ราชา  จินฺเตสิ  ปณฺฑิตํ  มาณโว
+<span class="LineNumber"> 007 </span>ยถารุจึ  คเหตฺวา  คมิสฺสติ  ตสฺส  คตกาลโต  ปฏฺ€าย  มยฺหํ 
+<span class="LineNumber"> 008 </span>มธุรธมฺมกถา  ทุลฺลภา  ภวิสฺสติ  ยนฺนูนาหํ (๓) อิมํ  อตฺตโน  €าเน
+<span class="LineNumber"> 009 </span>€เปตฺวา [๔]ฆราวาสปฺหํ  ปุจฺเฉยฺยนฺติ ฯ  อถ  นํ  เอวมาห  
+<span class="LineNumber"> 010 </span>ปณฺฑิต  ตุมฺหากํ  คตกาเล  มม  มธุรธมฺมกถา  ทุลฺลภา [๕]
+<span class="LineNumber"> 011 </span>ภวิสฺสติ  อลงฺกตธมฺมาสเน  นิสีทิตฺวา  อตฺตโน  €าเน  €ตฺวา 
+<span class="LineNumber"> 012 </span>มยฺหํ  ฆราวาสปฺหํ  กเถถาติ ฯ  โส  สาธูติ  สมฺปฏิจฺฉิตฺวา 
+<span class="LineNumber"> 013 </span>อลงฺกตธมฺมาสเน  นิสีทิตฺวา  รฺา  ปฺหํ  ปุฏฺโ€  วิสชฺเชสิ ฯ 
+<span class="LineNumber"> 014 </span>ตตฺรายํ ปฺหคาถา  
+<span class="LineNumber"> 015 </span>	[๙๔๘]วิธุร วสมานสฺส		คหฏฺ€สฺส สกํ ฆรํ  
+<span class="LineNumber"> 016 </span>		เขมา วุตฺติ กถํ อสฺส	กถนฺนุ อสฺส สงฺคโห  
+<span class="LineNumber"> 017 </span>		อพฺยาปชฺฌํ กถํ อสฺส	สจฺจวาที จ มาณโว  
+<span class="LineNumber"> 018 </span>		อสฺมา โลกา ปรํ โลกํ	กถํ เปจฺจ น โสจตีติ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. วรํ ฯ  ๒. ม. คเหตฺวา จ ปน เยน อิจฺฉสิ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ยํนูนาหํ ฯ  ๔. ม. เอตฺถนฺตเร อลงฺกตธมฺมาสเน 
+<span class="LineNumber"> 021 </span># นิสีทาเปตฺวาติ ทิสฺสนฺติ ฯ  ๕. ม. เอตฺถนฺเร ราชาติ ทิสฺสติ ฯ 

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           			 <H2>การนับจำนวนวาระในปัจจนีย</H2> 
+<span class="LineNumber"> 002 </span>		[๒๕๗]  ในนเหตุปัจจัย  มี ๑ วาระ  ในนอารัมมณปัจจัย มี  ๕ วาระ
+<span class="LineNumber"> 003 </span>ในนอธิปติปัจจัย มี ๓ วาระ ฯลฯ  ในโนอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 004 </span>                          		<H2>อนุโลมปัจจนียนัย</H2>  
+<span class="LineNumber"> 005 </span>		[๒๕๘]  <B>เพราะเหตุปัจจัย</B>    ในนอารัมมณปัจจัย  มี ๕ วาระ... ฯลฯ
+<span class="LineNumber"> 006 </span>                           		<H2>ปัจจนียานุโลมนัย</H2>  
+<span class="LineNumber"> 007 </span>		[๒๕๙]  <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย มี ๑  วาระ... ฯลฯ
+<span class="LineNumber"> 008 </span>             	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  พึงให้พิสดารเหมือนกับ
+<span class="LineNumber"> 009 </span>ปฏิจจวาระ.                                 
+<span class="LineNumber"> 010 </span>                            	    <H1>นเหตุบทปัญหาวาระ</H1>
+<span class="LineNumber"> 011 </span>                                	    <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 012 </span>                                   <H2>๑.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 013 </span>		[๒๖๐]  ๑.  นเหตุธรรมที่เป็นเสกขธรรม  เป็นปัจจัยแก่นเหตุ-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นเนวเสกขานาเสกขธรรม  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 015 </span>                     	     ๒.  นเหตุธรรมที่เป็นอเสกขธรรม      เป็นปัจจัยแก่ 
+<span class="LineNumber"> 016 </span>นเหตุธรรมที่เป็นเนวเสกขานาเสกขธรรม  ด้วยอำนาจของอารัมมณ- 
+<span class="LineNumber"> 017 </span>ปัจจัย

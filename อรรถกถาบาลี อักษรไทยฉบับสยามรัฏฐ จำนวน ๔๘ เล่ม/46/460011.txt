@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  46  นิทานกถา  หน้า  11
+
+<span class="LineNumber"> 002 </span>นิกฺเขปราสิ นาม ฯ โส  
+<span class="LineNumber"> 003 </span>		มูลโต ขนฺธโต จาปิ		ทฺวารโต จาปิ ภูมิโต  
+<span class="LineNumber"> 004 </span>		อตฺถโต ธมฺมโต จาปิ	นามโต จาปิ ลิงฺคโต  
+<span class="LineNumber"> 005 </span>		นิกฺขิปิตฺวา เทสิตตฺตา	นิกฺเขโปติ ปวุจฺจติ ฯ  
+<span class="LineNumber"> 006 </span>	นิกฺเขปกณฺฑนฺติปิ  ตสฺเสว  นามํ ฯ  ตํ  วาจนามคฺคโต  
+<span class="LineNumber"> 007 </span>ติมตฺตภาณวารํ  วิตฺถาริยมานํ ปน อนนฺตมปริมาณํ โหติ ฯ  
+<span class="LineNumber"> 008 </span>	ตทนนฺตรํ  ปน  เตปิฏกสฺส  พุทฺธวจนสฺส  อตฺถุทฺธารภูตํ  
+<span class="LineNumber"> 009 </span>ยาว  สรณทุกา  นิกฺขิตฺตํ  อฏฺ€กถากณฑํ  นาม  ยโต  มหา-
+<span class="LineNumber"> 010 </span>ปกรณิยา  ภิกฺขู  มหาปกรเณ  คณนจารํ  อสลฺลกฺเขนฺตา คณนํ (๑)  
+<span class="LineNumber"> 011 </span>สมาเนนฺติ ฯ ตํ วาจนามคฺคโต ทฺวิมตฺตภาณวารํ วิตฺถาริยมานํ  
+<span class="LineNumber"> 012 </span>ปน อนนฺตมปริมาณํ โหติ ฯ  
+<span class="LineNumber"> 013 </span>	อิติ  สกลํปิ  ธมฺมสงฺคณิปฺปกรณํ (๒) ฯ  ตํ  วาจนามคฺคโต 
+<span class="LineNumber"> 014 </span>อติเรกเตรสมตฺตภาณวารํ  วิตฺถาริยมานํ ปน อนนฺตมปริมาณํ 
+<span class="LineNumber"> 015 </span>โหติ ฯ เอวเมตํ  
+<span class="LineNumber"> 016 </span>		จิตฺตวิภตฺติ รูปฺจ	นิกฺเขโป  อตฺถโชตนา  
+<span class="LineNumber"> 017 </span>		คมฺภีรํ นิปุณํ  €านํ	ตมฺปิ พุทฺเธน เทสิตํ ฯ  
+<span class="LineNumber"> 018 </span>	ตทนนฺตรํ  วิภงฺคปฺปกรณํ  นาม ฯ  ตํ  ขนฺธวิภงฺโค  อายตน-
+<span class="LineNumber"> 019 </span>วิภงฺโค  ธาตุวิภงฺโค  สจฺจวิภงฺโค  อินฺทฺริยวิภงฺโค  ปจฺจยาการ-
+<span class="LineNumber"> 020 </span>วิภงฺโค  สติปฏฺ€านวิภงฺโค  สมฺมปฺปธานวิภงฺโค  อิทฺธิปาทวิภงฺโค 
+<span class="LineNumber"> 021 </span>โพชฺฌงฺควิภงฺโค  มคฺควิภงฺโค (๓)  ฌานวิภงฺโค  อปฺปมฺาวิภงฺโค  
+<span class="LineNumber"> 022 </span># ๑. สี. คณนวารํ ฯ ม. คณนจารํ ฯ ๒. ม. ธมฺมสงฺคณีปกรณํ ฯ
+<span class="LineNumber"> 023 </span># ๓. ม. มคฺคงฺควิภงฺโค ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>*เล่มที่ 40   มหากรุณาาณนิทฺเทสวณฺณนา   หน้า 675
+
+<span class="LineNumber"> 002 </span>ภณิตพฺพํ มฺสีติ  อชฺโฌตฺถรติ ฯ  
+<span class="LineNumber"> 003 </span>	ปจฺจาโรเปตีติ  ตฺวมฺปิ  โขสีติอาทีนิ  วทนฺโต ปติอาโรเปติ ฯ  
+<span class="LineNumber"> 004 </span>	ปฏิกโรหีติ  เทสนาคามินึ  เทเสหิ  วุฏฺ€านคามินิโต  วุฏฺ€าหิ 
+<span class="LineNumber"> 005 </span>ตโต สุทฺธนฺเต  (๑)  ปติฏฺ€ิโต  อฺํ โจเทสฺสีติ ทีเปติ ฯ 
+<span class="LineNumber"> 006 </span>	อฺเนฺํ ปฏิจรตีติ อฺเน การเณน  วจเนน  วา 
+<span class="LineNumber"> 007 </span>อฺํ  การณํ  วจนํ  วา  ปฏิจฺฉาเทติ ฯ  อาปตฺตึ  อาปนฺโนสีติ 
+<span class="LineNumber"> 008 </span>วุตฺโต  โก  อาปนฺโน  กึ  อาปนฺโน กิสฺมึ อาปนฺโน กถํ 
+<span class="LineNumber"> 009 </span>อาปนฺโน กํ  ภณถ  กึ  ภณถาติ  วทติ(๒) ฯ  เอวรูปํ  กิฺจิ  ตยา  
+<span class="LineNumber"> 010 </span>ทิฏฺ€นฺติ  วุตฺเต  น สุณามีติ  โสตํ  อุปเนติ  (๓) ฯ
+<span class="LineNumber"> 011 </span>	พหิทฺธา  กถํ  อปนาเมตีติ  อิตฺถนฺนามํ  อาปตฺตึ อาปนฺโนสีติ 
+<span class="LineNumber"> 012 </span>ปุฏฺโ€  ปาฏลิปุตฺตํ  คโตมฺหีติ  วตฺวา ปุน น ตว ปาฏลิ-
+<span class="LineNumber"> 013 </span>ปุตฺตคมนํ ปุจฺฉามาติ    วุตฺเต(๔)  ตโต  ราชคหํ 
+<span class="LineNumber"> 014 </span>คโตมฺหีติ ฯ ราชคหํ วา ยาหิ พฺราหฺมณคหํ(๕) วา  อาปตฺตึ  
+<span class="LineNumber"> 015 </span>อาปนฺโนสีติ ฯ  ตตฺถ  เม  สูกรมํสํ  ลทฺธนฺติอาทีนิ  วทนฺโต  
+<span class="LineNumber"> 016 </span>กถํ พหิทฺธา  วิกฺขิปติ ฯ
+<span class="LineNumber"> 017 </span>	โกปนฺติ กุปิตภาวํ โทสนฺติ ทุฏฺ€ภาวํ ฯ อุภยมฺเปตํ
+<span class="LineNumber"> 018 </span>โกธสฺเสว นามํ ฯ
+<span class="LineNumber"> 019 </span>	อปฺปจฺจยนฺติ  อสนฺตุฏฺ€าการํ  โทมนสฺสสฺเสตํ  นามํ ฯ
+<span class="LineNumber"> 020 </span># ๑. ยุ. สุทฺธตฺเต ฯ  ๒. ม. ภรฺติ ฯ  ๓. ยุ. อปเนติ ฯ 
+<span class="LineNumber"> 021 </span># ๔. สี. ปุจฺฉาม อาปตฺตึ ปุจฺฉามาติ ฯ  ม. ปาฏลิปุตฺตคมนํ ฯ
+<span class="LineNumber"> 022 </span># วุตฺเต ฯ  ๕. ม. พฺราหฺมณเคหํ ฯ

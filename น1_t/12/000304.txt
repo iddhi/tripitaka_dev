@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                              คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.   สมบัติ  แปลว่าอย่างไร  ?   มีกี่ประเภท  ?   อาหาร   เงิน    รถ
+<span class="LineNumber"> 003 </span>               ที่ทำนา   จัดเป็นทรัพย์   หรือสมบัติ  ?
+<span class="LineNumber"> 004 </span> 	๒.   ยศ    มีกี่ประเภท  ?   อะไรบ้าง  ?
+<span class="LineNumber"> 005 </span>	๓.   อายุ   หมายถึงอะไร  ?   อายุกับสวรรค์   ต่างกันหรือเหมือนกัน
+<span class="LineNumber"> 006 </span>               อย่างไร  ?
+<span class="LineNumber"> 007 </span>	๔.   สมบัติ   ยศ   อายุ   สวรรค์   หาได้ยากหรือไม่ยาก  ?   เพราะ
+<span class="LineNumber"> 008 </span>                เหตุไร  ?
+<span class="LineNumber"> 009 </span> 	๕.   ความปรารถนาอย่างไรที่สำเร็จสมหมายได้ยาก  ?   มีกี่อย่าง  ?
+
+<span class="LineNumber"> 010 </span>				<B>	สนเอ๋ย      สนสร้อย
+<span class="LineNumber"> 011 </span>				ใบเป็นฝอย   ห้อยระย้า   งามตาเหลือ
+<span class="LineNumber"> 012 </span>				ลำต้นตรง   พุ่มแหลม   กิ่งแซมเจือ
+<span class="LineNumber"> 013 </span>				ในคราวเมื่อ   ลมมี    เสียหวี่ดัง.
+<span class="LineNumber"> 014 </span>					หากบุคคล   สนใจ   ในธรรมะ
+<span class="LineNumber"> 015 </span>				ขององค์พระ - พุทธสีห์   ย่อมมีหวัง
+<span class="LineNumber"> 016 </span>				ได้รับความ    ร่มเย็น   ชื่อเด่นดัง
+<span class="LineNumber"> 017 </span>				งามเปล่งปลั่ง   กว่าสน  ทุกคน   เอย. </B>
+<span class="LineNumber"> 018 </span>									<B>ศรี  ฯ   นคร.</B>

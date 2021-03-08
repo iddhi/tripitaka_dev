@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  จตุตฺถวคฺเค โปสิยตฺเถรคาถาวณฺณนา  หน้า 207
+	
+<span class="LineNumber"> 002 </span>อุสฺสุกฺกาเปตฺวา อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 003 </span>		หิมวนฺตสฺสาวิทูเร		ลมฺพโก นาม ปพฺพโต  
+<span class="LineNumber"> 004 </span>		ตตฺเถว ติสฺโส(๒) สมฺพุทฺโธ  อพฺโภกาสมฺหิ จงฺกมิ ฯ  
+<span class="LineNumber"> 005 </span>		มิคลุทฺโท ตทา(๓) อาสึ	อรฺเ กานเน อหํ  
+<span class="LineNumber"> 006 </span>		ทิสฺวาน ตํ (๔) เทวเทวํ	ติณมุฏฺ€ิมทาสหํ ฯ  
+<span class="LineNumber"> 007 </span>		นิสีทนตฺถํ พุทฺธสฺส	ทตฺวา จิตฺตํ ปสาทยึ  
+<span class="LineNumber"> 008 </span>		สมฺพุทฺธํ อภิวาเทตฺวา	ปกฺกามึ(๕) อุตฺตรามุโข ฯ  
+<span class="LineNumber"> 009 </span>		อจิรํ คตมตฺตสฺส(๖)	มิคราชา อเห€ยิ (๗)  
+<span class="LineNumber"> 010 </span>		สีเหน โปถิโต(๘)  สนฺโต	ตตฺถ กาลงฺกโต อหํ ฯ  
+<span class="LineNumber"> 011 </span>		อาสนฺเน เม กตํ กมฺมํ	พุทฺธเสฏฺเ€ อนาสเว  
+<span class="LineNumber"> 012 </span>		สุมุตฺโต สรเวโคว		เทวโลกมคจฺฉหํ ฯ  
+<span class="LineNumber"> 013 </span>		ยูโป ตตฺถ สุโภ อาสิ	ปุฺกมฺมาภินิมฺมิโต  
+<span class="LineNumber"> 014 </span>		สหสฺสกณฺโฑ สตเภณฺฑุ(๙) ธชาลุ หริตามโย ฯ  
+<span class="LineNumber"> 015 </span>		ปภา นิทฺธาวเต ตสฺส	สตรํสีว อุคฺคโต  
+<span class="LineNumber"> 016 </span>		อากิณฺโณ เทวกฺาหิ	อาโมทึ กามกามิหํ ฯ  
+<span class="LineNumber"> 017 </span>		เทวโลกา จวิตฺวาน		สุกฺกมูเลน(๑๐) โจทิโต  
+<span class="LineNumber"> 018 </span>		อาคนฺตฺวาน มนุสฺสตฺตํ	ปตฺโตมฺหิ อาสวกฺขยํ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ขุ. อ. ๓๓/๑๑๑/๑๖๓ ฯ ๒. ยุ. ตตฺโถปติสฺโส ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. ปุเร ฯ ๔. สฺยา. ทิสฺวานาหํ ฯ ๕. สฺยา. ม. ปกฺกามึ ฯ
+<span class="LineNumber"> 021 </span># ๖. สฺยา. คตมตฺตํ มํ ฯ  ๗. สฺยา. อเห€ยิ ฯ ๘. สฺยา. ฆาฏิโต ฯ
+<span class="LineNumber"> 022 </span># สี. ปาติโต ฯ ยุ. ปติโต ฯ  ๙. สฺยา. สตฺตเคณฺฑุ ฯ 
+<span class="LineNumber"> 023 </span># ๑๐. สฺยา. ม. สุกฺกมูเลน ฯ

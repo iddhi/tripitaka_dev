@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>วรรคที่  ๑๑</H1> 
+ 
+<span class="LineNumber"> 002 </span>                       <H1>ติสโสปิ  อนุสยกถา</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๔๓๒]   <B>สกวาที</B>  อนุสัย  เป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. เป็นอัพยากฤตคือวิบาก   เป็นอัพยากฤตคือกิริยา  เป็น
+<span class="LineNumber"> 006 </span>รูป เป็นนิพพาน เป็นจักขายตนะ ฯลฯ  เป็นโผฏฐัพพายตนะ  หรือ ?
+<span class="LineNumber"> 007 </span>ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 008 </span>         [๑๔๓๓]   ส. กามราคานุสัย  เป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                        ส. กามราคะ    กามราคปริยุฏฐาน  กามราคสัญโญชน์
+<span class="LineNumber"> 011 </span>กาโมฆะ   กามโยคะ  กามฉันทนิวรณ์   เป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 012 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 013 </span>                        ส. กามราคะ  กามราคปริยุฏฐาน ฯลฯ  กามฉันทนิวรณ์
+<span class="LineNumber"> 014 </span>เป็นอกุศล   หรือ ?
+<span class="LineNumber"> 015 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                        ส. กามราคานุสัย   เป็นอกุศล  หรือ ?
+<span class="LineNumber"> 017 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 018 </span>         [๑๔๓๔]   ส. ปฏิฆานุสัย  เป็นอัพยากฤต   หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                        ส. ปฏิฆะ   ปฏิฆปริยุฏฐาน  ปฏิฆสัญโญชน์   เป็นอัพยากฤต
+<span class="LineNumber"> 021 </span>หรือ ?
+<span class="LineNumber"> 022 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 

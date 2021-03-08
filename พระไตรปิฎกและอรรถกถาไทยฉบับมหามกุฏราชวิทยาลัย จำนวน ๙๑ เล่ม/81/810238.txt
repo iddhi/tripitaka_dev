@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>รูปังมัคโคติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๓๗๙]   <B>สกวาที</B>   รูปของบุคคลผู้มีความพร้อมเพรียงด้วยมรรค
+<span class="LineNumber"> 003 </span>เป็นมรรค หรือ  ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>    ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. รูปนั้น   เป็นธรรมมีอารมณ์   ความนึก   ความผูกใจ
+<span class="LineNumber"> 006 </span>ความสนใจ   ความทำไว้ในใจ   ความจงใจ   ความปรารถนา   ความตั้งใจ
+<span class="LineNumber"> 007 </span>ของรูปนั้นมีอยู่  หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 009 </span>                        ส. รูปนั้น  เป็นธรรมไม่มีอารมณ์  ความนึก  ฯลฯ  ความ
+<span class="LineNumber"> 010 </span>ตั้งใจของรูปนั้นไม่มี   มิใช่หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                        ส. หากว่า    รูปนั้น   เป็นธรรมไม่มีอารมณ์   ความนึก ฯลฯ
+<span class="LineNumber"> 013 </span>ความตั้งใจของรูปนั้นไม่มี     ก็ต้องไม่กล่าวว่า     รูปของบุคคลผู้มีความ
+<span class="LineNumber"> 014 </span>พร้อมเพรียงด้วยมรรค เป็นมรรค.
+<span class="LineNumber"> 015 </span>         [๑๓๘๐]   ส. สัมมาวาจา เป็นมรรคหรือ ?
+<span class="LineNumber"> 016 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                        ส. สัมมาวาจานั้น  เป็นธรรมมีอารมณ์  ความนึก  ฯลฯ
+<span class="LineNumber"> 018 </span>ความตั้งใจของสัมมาวาจานั้น   มีอยู่หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 020 </span>                        ส. สัมมาวาจานั้น  เป็นธรรมไม่มีอารมณ์   ความนึก  ฯลฯ
+<span class="LineNumber"> 021 </span>ความตั้งใจของสัมมาวาจานั้นไม่มี มิใช่หรือ ?
+<span class="LineNumber"> 022 </span>                        ป. ถูกแล้ว.

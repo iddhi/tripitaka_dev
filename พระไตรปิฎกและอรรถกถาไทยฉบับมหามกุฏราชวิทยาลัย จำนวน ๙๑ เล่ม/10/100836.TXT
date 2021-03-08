@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๒.  ถึงโทสาคติ  
+<span class="LineNumber"> 002 </span>           ๓.  ถึงโมหาคติ
+<span class="LineNumber"> 003 </span>           ๔.  ถึงภยาคติ
+<span class="LineNumber"> 004 </span>           ๕.  เป็นอลัชชี
+<span class="LineNumber"> 005 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  นี้แล  ไม่ควรระงับอธิกรณ์
+
+<span class="LineNumber"> 006 </span>                          <H1>องค์ของภิกษุผู้ควรระงับอธิกรณ์</H1> 
+<span class="LineNumber"> 007 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  ควรระงับอธิกรณ์  องค์ ๕
+<span class="LineNumber"> 008 </span>อะไรบ้าง  คือ :-
+<span class="LineNumber"> 009 </span>           ๑.  ไม่ถึงฉันทาคติ     
+<span class="LineNumber"> 010 </span>           ๒.  ไม่ถึงโทสาคติ                      
+<span class="LineNumber"> 011 </span>           ๓.  ไม่ถึงโมหาคติ
+<span class="LineNumber"> 012 </span>           ๔.  ไม่ถึงภยาคติ
+<span class="LineNumber"> 013 </span>           ๕.  เป็นลัชชี
+<span class="LineNumber"> 014 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  นี้แล  ควรระงับอธิกรณ์
+
+<span class="LineNumber"> 015 </span>                     <H1>องค์ของภิกษุผู้ไม่ควรระงับอธิกรณ์อีกนัยหนึ่ง</H1>
+<span class="LineNumber"> 016 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์  ๕  แม้อื่นอีก ไม่ควรระงับอธิกรณ์
+<span class="LineNumber"> 017 </span>องค์  ๕  อะไรบ้าง   คือ :-
+<span class="LineNumber"> 018 </span>           ๑.  ถึงฉันทาคติ
+<span class="LineNumber"> 019 </span>           ๒.  ถึงโทสาคติ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  232
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  ขราติ  ผรุสา  กฏุกา ฯ  อโยโปกฺขรสฺฉนฺนาติ อโยมเยหิ  
+<span class="LineNumber"> 003 </span>ติขิณปริยนฺเตหิ  โปกฺขรปตฺเตหิ  สฺฉนฺนา ฯ  ปตฺเตหีติ  เตหิ  
+<span class="LineNumber"> 004 </span>ปตฺเตหิ สา นที ติกฺขา หุตฺวา สนฺทติ ฯ  
+<span class="LineNumber"> 005 </span>		ตตฺถ สฺฉินฺนคตฺตนฺตํ	วุยฺหนฺตํ รุธิรมกฺขิตํ  
+<span class="LineNumber"> 006 </span>		เวตรฺเ อนาลมฺเพ	โก ตํ ยาเจยฺย ตํ ธนุํ ฺติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ เวตรฺเติ เวตรณีอุทกสํขาเต(๑) เวตรณีอุทเกติ ฯ  
+<span class="LineNumber"> 008 </span>				นิรยกณฺฑํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 009 </span>	อิมํ  ปน  มหาสตฺตสฺส  นิรยกถํ  สุตฺวา  ราชา  สํวิคฺค-
+<span class="LineNumber"> 010 </span>มานหทโย(๒)  มหาสตฺตฺเว ตาณํ คเวสี(๓) หุตฺวา อาห  
+<span class="LineNumber"> 011 </span>		[๘๘๙]เวธามิ รุกฺโข วิย ฉิชฺชมาโน  
+<span class="LineNumber"> 012 </span>			ทิสํ น ชานามิ ปมุฬฺหสฺี(๔)  
+<span class="LineNumber"> 013 </span>			ภยสานุตปฺปามิ(๕) มหา จ เม ภยา  
+<span class="LineNumber"> 014 </span>			สุตฺวาน คาถา(๖) ตว ภาสิตา อิเส  
+<span class="LineNumber"> 015 </span>		อาทิตฺเต วาริมชฺฌํว	ทีปํโวเฆริวณฺณเว(๗)  
+<span class="LineNumber"> 016 </span>		อนฺธกาเรว ปชฺโชโต	ตวนฺโนสิ สรณํ อิเส  
+<span class="LineNumber"> 017 </span>			อตฺถฺจ ธมมฺจ(๘) อนุสาส มํ อิเส  
+<span class="LineNumber"> 018 </span>			อตีตมทฺธา อปราธิตํ มยา  
+<span class="LineNumber"> 019 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. สํวิคฺคหทโย ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม.ตาณคเวสี ฯ  ๔. ส. ม. ปมุฬฺหสฺโ ฯ  ๕. ส. ม. ภยานุตปฺปามิ ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. กถา ฯ  ๗. ม. ทีปํโวเฆ มหณฺณเว ฯ  ๘. ม. ธมฺมํ ฯ

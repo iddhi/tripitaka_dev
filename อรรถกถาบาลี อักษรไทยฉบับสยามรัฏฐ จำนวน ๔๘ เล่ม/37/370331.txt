@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 331
+
+<span class="LineNumber"> 002 </span>		อิตฺถีสหสฺสํ ภริยานํ	ทาสาสตฺตสตานิ จ(๑)  
+<span class="LineNumber"> 003 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	กสฺมา โน วิชเหสฺสสิ(๒)  
+<span class="LineNumber"> 004 </span>		โอโรธา จ กุมารา จ	เวสิยานา จ พฺราหฺมณา  
+<span class="LineNumber"> 005 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	กสฺมา โน วิชเหสฺสสิ(๓)  
+<span class="LineNumber"> 006 </span>		หตฺถาโรหา อนีกฏฺ€า	รถิกา ปตฺติการกา  
+<span class="LineNumber"> 007 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	กสฺมา โน วิชเหสฺสสิ  
+<span class="LineNumber"> 008 </span>		สมาคตา ชานปทา		เนคมา จ สมาคตา  
+<span class="LineNumber"> 009 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	กสฺมา โน วิชเหสฺสสีติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  เสนฺตีติ  มหาตเล  ฉินฺนปาทา  วิย  ปติตา 
+<span class="LineNumber"> 011 </span>อาวฏฺฏนฺตา  ปริวตฺตนฺตา  สยนฺติ ฯ  ภริยานนฺติ  ภริยานเมว 
+<span class="LineNumber"> 012 </span>อิตฺถีนํ  สหสฺสํ ฯ  กสฺมา โนติ เกน การเณน อมฺเห
+<span class="LineNumber"> 013 </span>วิชเหสฺสสีติ ปริเทวึสุ ฯ  
+<span class="LineNumber"> 014 </span>	มหาสตฺโต  สพฺพนฺตํ  มหาชนํ  อสฺสาเสตฺวา  อวเสสานิ 
+<span class="LineNumber"> 015 </span>กิจฺจานิ(๔)  กตฺวา  อนฺโตชนํ(๕)  พหิชนฺจ  โอวทิตฺวา  อาจิกฺขิตพฺพ-
+<span class="LineNumber"> 016 </span>ยุตฺตกํ  สพฺพํ  ปุตฺตทารสฺส(๖)  อาจิกฺขิตฺวา  ปุณฺณกสฺส  สนฺติกํ 
+<span class="LineNumber"> 017 </span>คนฺตฺวา  อตฺตโน  นิฏฺ€ิตกิจฺจํ ตสฺส อาโรเจสิ ฯ  
+<span class="LineNumber"> 018 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 019 </span># ๑. ม. ทาสิสตฺตสตานิ จ ฯ  ๒. ม. วิชหิสฺสสิ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. วิชหิสฺสสีติ ฯ  ๔. ม. อสฺสาเสตฺวา ฆเร อวเสสกิจฺจานิ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. อนฺโตชนฺจ ฯ  ๖. ม. อยํ ปาโ€ นตฺถิ ฯ 

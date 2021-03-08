@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>   			<H1>เหตุทุกจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ</H1> 
+<span class="LineNumber"> 002 </span>     <H2>(๑. เหตุทุกะ  ๖๔.  จิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ)</H2>
+<span class="LineNumber"> 003 </span>        	  	<H1>จิตตสังสัฏฐสมุฏฐานานุปริวัตตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>                         		     <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                             <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๐๒] ๑.  เหตุจิตตสังสัฏฐสมุฏฐานานุปริวัตติธรรม   อาศัย
+<span class="LineNumber"> 007 </span>เหตุจิตตสังสัฏฐสมุฏฐานานุปริวัตติธรรม   เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>มี ๙ วาระ.                                                                         
+
+<span class="LineNumber"> 009 </span>      	<H1>โนจิตตสังสัฏฐสมุฏฐานานุปริวัตตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 010 </span>                          	    <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 011 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>		[๑๐๓]  ๑.  นเหตุโนจิตตสังสัฏฐสมุฏฐานานุปริวัตติธรรม
+<span class="LineNumber"> 013 </span>อาศัยนเหตุโนจิตตสังสัฏฐสมุฏฐานานุปริวัตติธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 014 </span>เหตุปัจจัย   มี ๑ วาระ.
+<span class="LineNumber"> 015 </span>       	   พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 016 </span>           	  <I>เหตุทุกจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ จบ</I>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๒.  นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>เพราะนอารัมมณปัจจัย</B>   มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                     <H2>๓.   นอธิปติปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         [๗๖๒] ๑.  <B>รูปาวจรธรรม อาศัยรูปาวจรธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 005 </span>นอธิปติปัจจัย</B>   มี ๓ วาระ  เหมือนกับปฏิจจวาระ.
+<span class="LineNumber"> 006 </span>                     ๔.   <B>ธรรมที่ไม่ใช่รูปาวจรธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 007 </span>รูปาวจรธรรม  เกิดขึ้น  เพราะนอธิปติปัจจัย</B>   เหมือนกับปฏิจจวาระ.
+<span class="LineNumber"> 008 </span>                     ๕.  <B>รูปาวจรธรรม    อาศัยธรรมที่ไม่ใช่รูปาวจรธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ  อธิปติธรรมที่เป็นรูปาวจรธรรม   อาศัยหทยวัตถุ.
+<span class="LineNumber"> 011 </span>         ขันธ์ทั้งหลายที่เป็นรูปาวจรธรรม  ซึ่งเป็นวิบาก  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 012 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 013 </span>                    ๖.  <B>รูปาวจรธรรม      และธรรมที่ไม่ใช่รูปาวจรธรรม
+<span class="LineNumber"> 014 </span>อาศัยธรรมที่ไม่ใช่รูปาวจรธรรม  เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 015 </span>         คือ  ขันธ์ทั้งหลายที่เป็นรูปาวจรธรรม  ซึ่งเป็นวิบาก อาศัยหทยวัตถุ.
+<span class="LineNumber"> 016 </span>         จิตตสมุฏฐานรูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 017 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 018 </span>                    ๗.  <B>รูปาวจรธรรม  อาศัยรูปาวจรธรรม     และธรรม
+<span class="LineNumber"> 019 </span>ที่ไม่ใช่รูปาวจรธรรม  เกิดขึ้น  เพราะนอธิปติปัจจัย</B>

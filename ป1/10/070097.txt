@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		แปลง  €า  ธาตุ  เป็น <B>ติฏฺ€</B>  ลง  ห  อาคม  บางแบบว่า
+<span class="LineNumber"> 002 </span>		ปฏิ เป็นบทหน้า  แปลง <B>ฏ</B> เป็น  <B>ต</B>  และแปลง  <B>€า</B>
+<span class="LineNumber"> 003 </span>		เป็น <B>€ห</B>.   
+<span class="LineNumber"> 004 </span><B>ปติฏฺ€าสิ</B>	ตั้งอยู่เฉพาะแล้ว ป หรือ  ปฏิ บทหน้า  €า ธาตุ  อ
+<span class="LineNumber"> 005 </span>		ปัจจัย  อี วิภัตติ  รัสสะ <B>อี</B>  เป็น อิ ถ้า ป  เป็นบทหน้า
+<span class="LineNumber"> 006 </span>		แปลง  €า  ธาตุ  เป็น   <B>ติฏฺ€</B>  ทีฆะ  <B>อ</B> ที่ <B>ติฏฺ€</B>  เป็น <B>อา</B>
+<span class="LineNumber"> 007 </span>		ลง  ส อาคม.
+<span class="LineNumber"> 008 </span><B>ปทาเลสิ</B>	ทำลายแล้ว ป บทหน้า  ทลฺ  ธาตุ  เณ  ปัจจัย  (กัตตุ-
+<span class="LineNumber"> 009 </span>		วาจก)  อี วิภัตติ  แล้วรัสสะ  ลง ส  อาคม  เพราะ
+<span class="LineNumber"> 010 </span>		ปัจจัยเนื่องด้วย ณ ทีฆะ  <B>อ</B> ที่ <B>ท</B> เป็น <B>อา</B>.
+<span class="LineNumber"> 011 </span><B>ปปฺโปติ</B> 	ย่อมถึง ป บทหน้า  อปฺป  ธาตุ  โอ ปัจจัย  ติ วิภัตติ.
+<span class="LineNumber"> 012 </span><B>ปยิรุปาสติ</B> ย่อมเข้าไปหา ปริ+อุป  บทหน้า  อาสฺ  ธาตุ  ในความ
+<span class="LineNumber"> 013 </span>		นั่ง  อ ปัจจัย  ติ วิภัตติ  ลง อ  อาคมที่  <B>อุป</B>  เป็น
+<span class="LineNumber"> 014 </span>		<B>ปริยุป</B>  แล้วแปร  <B>ร</B> ไว้หลัง <B>ย</B> ไว้หน้า  เป็น  <B>ปยิรุป</B>.
+<span class="LineNumber"> 015 </span><B>ปรามสติ</B>	ย่อมลูบคลำ-จับต้อง-ยึดมั่น  ป+อา  บทหน้า
+<span class="LineNumber"> 016 </span>		มสฺ  ธาตุ  อ ปัจจัย  ติ วิภัตติ  ลง ร อาคมที่  อา.
+<span class="LineNumber"> 017 </span><B>ปริทเหสฺสติ</B> จักนุ่งห่ม  ปริ  บทหน้า  ธา ธาตุ   ในความทรงไว้
+<span class="LineNumber"> 018 </span>		เอ ปัจจัย  สฺสติ  วิภัตติ แปลง <B>ธา</B> เป็น  <B>ทห</B>.
+<span class="LineNumber"> 019 </span><B>ปริภาสติ</B>	ย่อมว่า  ปริ บทหน้า ภาสฺ ธาตุ ในความกล่าว อ ปัจจัย
+<span class="LineNumber"> 020 </span>		ติ  วิภัตติ.
+<span class="LineNumber"> 021 </span><B>ปริยาปุณาติ</B> ย่อมเรียน ปริ บนหน้า  อาปฺ  ธาตุ ในความถึง-บรรลุ
+
+		
+	

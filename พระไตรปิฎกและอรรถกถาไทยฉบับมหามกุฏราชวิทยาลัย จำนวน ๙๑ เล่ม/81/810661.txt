@@ -1,0 +1,4 @@
+﻿<span class="LineNumber"> 001 </span>                            <H2>รวมกถาที่มีในวรรคนี้คือ</H2> 
+<span class="LineNumber"> 002 </span>         ๑. อสัญจิจจกถา ๒. ญาณกถา ๓. นิรยปาลกถา  ๔.  ติรัจฉานกถา
+<span class="LineNumber"> 003 </span>๕. มัคคกถา ๖. ญาณกถา.
+<span class="LineNumber"> 004 </span>                                        <I>วรรคที่  ๒๐  จบ</I>

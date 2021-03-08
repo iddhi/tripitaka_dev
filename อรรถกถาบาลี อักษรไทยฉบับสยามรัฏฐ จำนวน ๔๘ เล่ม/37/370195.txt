@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 195
+
+<span class="LineNumber"> 002 </span>เทวสิกํ  ปฺจวีสติปุปฺผสมุคฺเค  ปหิณามิ  กจฺจิ  ตุมฺเห  สพฺพาปิ  
+<span class="LineNumber"> 003 </span>กุมาริกาโย  ตํ  มาลฺยํ  โอจินิตฺวา  คนฺถิตฺวา  อภิณฺหํ  ขิฑฺฑา
+<span class="LineNumber"> 004 </span>รติรตา  หุตฺวา  กจฺจิ  ปจฺเจกํ  ฆรเก  กโรถ  อหํ(๑) สุนฺทรํ  อหํ  
+<span class="LineNumber"> 005 </span>สุนฺทรตรนฺติ  เอวํ  ปาฏิเยกฺกํ  สารมฺเภน  วิย ปุปฺผฆรกานิ  
+<span class="LineNumber"> 006 </span>ปุปฺผคพฺเภ  จ  ปุปฺผาสนปุปฺผสยนานิ  จ  กจฺจิ  กโรถาติ 
+<span class="LineNumber"> 007 </span>ปุจฺฉติ ฯ  
+<span class="LineNumber"> 008 </span>	วิกลนฺติ  เวกลฺลํ ฯ  มนํ (๒) กรสฺสูติ  จิตฺตํ  อุปฺปาเทหิ ฯ 
+<span class="LineNumber"> 009 </span>กุฏมุขีติ  สาสปกุเฏน  ปสาทิตมุขตาย  ตํ  เอวมาห ฯ  อิตฺถิโย
+<span class="LineNumber"> 010 </span>หิ  มุขวณฺณํ  ปสาเทนฺติโย  ทุฏฺ€โลหิตมุขทูสิตปิฬกาหรณตฺถํ 
+<span class="LineNumber"> 011 </span>ป€มํ  สาสปกุเฏน(๓)  มุขํ  วิลิมฺปนฺติ ฯ  ตโต  โลหิตสฺส 
+<span class="LineNumber"> 012 </span>สมกรณตฺถํ  มตฺติกจุณฺเณน(๔) ฯ  ตโต  ฉวีปสาทนตฺถํ  ติลกุเฏน(๕) ฯ
+<span class="LineNumber"> 013 </span>จนฺทสมํ  หิ  เตติ จนฺทโต ทุลฺลภตโร  นาม นตฺถิ ตาทิเสปิ 
+<span class="LineNumber"> 014 </span>รุจึ กตฺวา มม อาจิกฺข สมฺปาเทสฺสามิ เตติ ฯ  
+<span class="LineNumber"> 015 </span>	[๘๕๗]เวเทหสฺส วโจ สุตฺวา	รุจา ปิตรมพฺรวิ  
+<span class="LineNumber"> 016 </span>		สพฺพเมตํ มหาราช	ลพฺภติสฺสรสนฺติเก  
+<span class="LineNumber"> 017 </span>		สุเว ปณฺณรโส ทิโพยฺ	สหสฺสํ อภิหรนฺตุ เม  
+<span class="LineNumber"> 018 </span>		ยถาทินฺนฺจ ทสฺสามิ	ทานํ สพฺพวนิสฺวหนฺติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ สพฺพวนิสฺวหนฺติ สพฺพวนิพฺพเกสุ อหํ ทสฺสามิ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อิทํ ฯ  ๒. ม. มโน ฯ  ๓. ม. สาสปกกฺเกน ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. มตฺติกากกฺเกน ฯ ๕. ม. ติลกกฺเกน ฯ

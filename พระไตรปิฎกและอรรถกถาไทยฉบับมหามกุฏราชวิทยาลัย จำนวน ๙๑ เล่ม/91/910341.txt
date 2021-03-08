@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       ๔.  <B>นเหตุธรรมที่ไม่ใช่สรณธรรม     และนเหตุธรรม 
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่อรณธรรม    อาศัยนเหตุธรรมที่ไม่ใช่อรณธรรม     เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะเหตุปัจจัย.</B> 
+<span class="LineNumber"> 004 </span>                       ๕.  <B>นเหตุธรรมที่ไม่ใช่สรณธรรม   อาศัยนเหตุธรรม
+<span class="LineNumber"> 005 </span>ที่ไม่ใช่สรณธรรม     และนเหตุธรรมที่ไม่ใช่อรณธรรม     เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 007 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๕๐๓]  ในเหตุปัจจัย มี ๕ วาระ  ฯลฯ   ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 009 </span>           พึงให้พิสดารทุกวาระ.	
+	
+<span class="LineNumber"> 010 </span>                             <H2>นเหตุบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 011 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                      <H2>๑. เหตุปัจจัย</H2>					
+<span class="LineNumber"> 013 </span>           [๕๐๔] ๑.  <B>ธรรมที่ไม่ใช่นเหตุธรรม       ที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 014 </span>อาศัยธรรมที่ไม่ใช่นเหตุธรรม  ที่ไม่ใช่สรณธรรม  เกิดขึ้น  เพราะ-
+<span class="LineNumber"> 015 </span>เหตุปัจจัย.</B>
+<span class="LineNumber"> 016 </span>                       ๒.  <B>ธรรมที่ไม่ใช่นเหตุธรรม       ที่ไม่ใช่อรณธรรม
+<span class="LineNumber"> 017 </span>อาศัยธรรมที่ไม่ใช่นเหตุธรรม  ที่ไม่ใช่อรณธรรม  เกิดขึ้น   เพราะ-
+<span class="LineNumber"> 018 </span>เหตุปัจจัย,</B>
+<span class="LineNumber"> 019 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>               
+<span class="LineNumber"> 020 </span>           [๕๐๕]  ในเหตุปัจจัย  มี ๒ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 021 </span>           พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 022 </span>                                      <I>ปิฏฐิทุกนเหตุทุกะ  จบ</I>

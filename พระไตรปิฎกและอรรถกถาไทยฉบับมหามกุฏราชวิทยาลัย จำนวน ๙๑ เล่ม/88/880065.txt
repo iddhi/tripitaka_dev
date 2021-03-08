@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ในปฏิสนธิขณะ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นสเหตุกธรรม  และ
+<span class="LineNumber"> 002 </span>หทยวัตถุ ฯลฯ  ขันธ์ ๒  อาศัยขันธ์ ๒. 
+<span class="LineNumber"> 003 </span>           กฏัตตารูป    อาศัยขันธ์ทั้งหลายที่เป็นสเหตุกธรรม     และมหาภูตรูป
+<span class="LineNumber"> 004 </span>ทั้งหลาย.
+
+<span class="LineNumber"> 005 </span>                      <H1>๙. นปัจฉาชาตปัจจัย   ๑๐. นอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           [๕๑] ๑.  <B>สเหตุกธรรม  อาศัยสเหตุกธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 007 </span>นปัจฉาชาตปัจจัย</B>
+<span class="LineNumber"> 008 </span>           <B>ฯลฯ เพราะนอาเสวนปัจจัย.</B>
+
+<span class="LineNumber"> 009 </span>                                        <H1>๑๑.  นกัมมปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๕๒] ๑.  <B>สเหตุกธรรม  อาศัยสเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 011 </span>นกัมมปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ   เจตนาที่เป็นสเหตุกธรรม  อาศัยขันธ์ทั้งหลายที่เป็นสเหตุกธรรม.
+<span class="LineNumber"> 013 </span>            	     ๒.  <B>อเหตุกธรรม  อาศัยอเหตุกธรรม   เกิดขึ้น   เพราะ
+<span class="LineNumber"> 014 </span>นกัมมปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  เจตนาที่เป็นอเหตุกธรรม   อาศัยขันธ์ทั้งหลายที่เป็นอเหตุกธรรม.
+<span class="LineNumber"> 016 </span>พาหิรรูป...อาหารสมุฏฐานรูป...อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 017 </span>                     ๓.  <B>สเหตุกธรรม  อาศัยอเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 018 </span>นกัมมปัจจัย</B>

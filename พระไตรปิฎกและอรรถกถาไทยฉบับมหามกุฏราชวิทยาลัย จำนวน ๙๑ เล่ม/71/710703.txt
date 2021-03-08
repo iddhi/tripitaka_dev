@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                         <H2>สุวัณณพิพโพหนวรรคที่ ๒๘</H2>
+<span class="LineNumber"> 002 </span>               <H1>๒๗๑.  อรรถกถาสุวัณณพิพโพหนเถราปทาน</H1><SUP>๑</SUP>
+<span class="LineNumber"> 003 </span>         อปทานที่  ๑   วรรคที่  ๒๘   มีเนื้อความง่ายทั้งนั้นแล.
+<span class="LineNumber"> 004 </span>                 <I>จบอรรถกถาสุวัณณพิพโพหนเถราปทาน</I>
+<span class='footnote'>๑. บาลีว่า สุวัณณพิพโพหนิยเถราปทาน.</span>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ขันธ์ ๓    อาศัยขันธ์ ๑     ที่เป็นทัสสเนนปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 002 </span>และหทยวัตถุ   ฯลฯ   ขันธ์ ๒ 
+<span class="LineNumber"> 003 </span>         ขันธ์ ๓   และโมหะ    อาศัยขันธ์ ๑     ที่สหรคตด้วยวิจิกิจฉา     และ
+<span class="LineNumber"> 004 </span>หทยวัตถุ  ฯลฯ  ขันธ์ ๒.                                        
+
+<span class="LineNumber"> 005 </span>                              <H2>การนับจํานวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>         [๖๑๑]  ในเหตุปัจจัย  มี ๙ วาระ     ในอารัมมณปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 007 </span>ในอธิปติปัจจัย  มี ๙ วาระ    ในปัจจัยทั้งปวง  มี ๙ วาระ      ในวิปากปัจจัย
+<span class="LineNumber"> 008 </span>มี ๑ วาระ  ฯลฯ   ในอวิคตปัจจัย มี ๙ วาระ.
+  
+<span class="LineNumber"> 009 </span>                                          <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 010 </span>                                       <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>         [๖๑๒] ๑.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม อาศัย
+<span class="LineNumber"> 012 </span>ทัสสเนนปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  โมหะ   ที่สหรคตด้วยวิจิกิจฉา   อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 014 </span>วิจิกิจฉา.
+<span class="LineNumber"> 015 </span>                    ๒.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม อาศัย
+<span class="LineNumber"> 016 </span>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม   เกิดขึ้น   เพราะนเหตุ-
+<span class="LineNumber"> 017 </span>ปัจจัย</B>
+<span class="LineNumber"> 018 </span>         คือ  ฯลฯ  อาศัยธรรมที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม   ซึ่งเป็น
+<span class="LineNumber"> 019 </span>อเหตุกะ ฯลฯ   ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 020 </span>         จักขุวิญญาณ  อาศัยจักขายตนะ ฯลฯ กายวิญญาณ   อาศัยกายาตนะ.

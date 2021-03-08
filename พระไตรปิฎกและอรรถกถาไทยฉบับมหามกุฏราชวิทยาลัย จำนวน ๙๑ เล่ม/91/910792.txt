@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>ปัญหาวาระ</H2>  
+<span class="LineNumber"> 002 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                  <H2>๑. อารัมมณปัจจัย</H2>	
+<span class="LineNumber"> 004 </span>                             <H2>อนุปาทินนุปาทานิยบท</H2>
+<span class="LineNumber"> 005 </span>           [๗๓๘] ๑.  <B>อนุปาทินนุปาทานิยธรรม  ที่เป็นกุศล   เป็นปัจจัย
+<span class="LineNumber"> 006 </span>แก่ธรรมที่ไม่ใช่อนุปาทินนุปาทานิยธรรม  ที่ไม่ใช่กุศล  ด้วยอำนาจ
+<span class="LineNumber"> 007 </span>ของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 008 </span>                       ๒.  <B>อนุปาทินนุปาทานิยธรรม  ที่เป็นกุศล  เป็นปัจจัย
+<span class="LineNumber"> 009 </span>แก่ธรรมที่ไม่ใช่อนุปาทินนุปาทานิยธรรม  ที่ไม่ใช่อกุศล   ด้วยอำนาจ
+<span class="LineNumber"> 010 </span>ของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>                       ๓.  <B>อนุปาทินนุปาทานิยธรรม  ที่เป็นกุศล เป็นปัจจัย
+<span class="LineNumber"> 012 </span>แก่ธรรมที่ไม่ใช่อนุปาทินนุปาทานิยธรรม  ที่ไม่ใช่กุศล   และธรรม
+<span class="LineNumber"> 013 </span>ที่ไม่ใช่อนุปาทินนุปาทานิยธรรม  ที่ไม่ใช่อกุศล  ด้วยอำนาจของ
+<span class="LineNumber"> 014 </span>อารัมมณปัจจัย</B>   มี  ๓ วาระ
+<span class="LineNumber"> 015 </span>           ในอกุศลธรรม   มี  ๓ วาระ.
+<span class="LineNumber"> 016 </span>           ในอนุปาทินนุปาทานิยธรรม  ที่เป็นอัพยากตะ  ก็มี  ๓ วาระ เหมือนกัน
+<span class="LineNumber"> 017 </span>                                                     ฯลฯ

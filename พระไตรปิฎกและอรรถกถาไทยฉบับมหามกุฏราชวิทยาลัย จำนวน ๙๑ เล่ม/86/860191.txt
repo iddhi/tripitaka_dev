@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         คือ    จิตตสมุฏฐานรูป   อาศัยขันธ์ที่เป็นอนุปาทินนอนุปาทานิยธรรม
+<span class="LineNumber"> 002 </span>ซึ่งเป็นกุศล   และมหาภูตรูป   เกิดขึ้น.  
+
+<span class="LineNumber"> 003 </span>                                    <H1>๑๓.  นอาหารปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๑๔๔๓] ๑.  <B>อุปาทินนุปาทานิยธรรม   อาศัยอุปาทินนุปาทา-
+<span class="LineNumber"> 005 </span>นิยธรรม  เกิดขึ้น  เพราะนอาหารปัจจัย</B>
+<span class="LineNumber"> 006 </span>         สำหรับพวกอสัญญสัตว์ ฯลฯ อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 007 </span>                        ๒.  <B>อนุปาทินนุปาทานิยธรรม     อาศัยอนุปาทิน-
+<span class="LineNumber"> 008 </span>นุปาทานิยธรรม   เกิดขึ้น   เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 009 </span>         พาหิรรูป . . . อุตุสมุฏฐานรูป ฯลฯ อาศัยมหาภูตรูป ๑ ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                    <H1>๑๔.  นอินทริยปัจจัย</H1>
+<span class="LineNumber"> 011 </span>         [๑๔๔๔] ๑.  <B>อุปาทินนุปาทานิยธรรม   อาศัยอุปาทินนุปาทา-
+<span class="LineNumber"> 012 </span>นิยธรรม  เกิดขึ้น  เพราะนอินทริยปัจจัย</B>
+<span class="LineNumber"> 013 </span>         สำหรับพวกอสัญญสัตว์   รูปชีวิตินทรีย์   อาศัยมหาภูตรูป   เกิดขึ้น.
+<span class="LineNumber"> 014 </span>         [๑๔๔๕] ๒.  <B>อนุปาทินนุปาทานิยธรรม   อาศัยอนุปาทิน- 
+<span class="LineNumber"> 015 </span>นุปาทานิยธรรม   เกิดขึ้น  เพราะนอินทริยปัจจัย</B>
+<span class="LineNumber"> 016 </span>         พาหิรรูป . . . อาหารสมุฏฐานรูป . . . อุตุสมุฏฐานรูป ฯลฯ อาศัยมหาภูต 
+<span class="LineNumber"> 017 </span>รูป ๑ ฯลฯ

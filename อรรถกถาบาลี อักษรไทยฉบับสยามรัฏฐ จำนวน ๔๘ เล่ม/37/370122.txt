@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  122
+
+<span class="LineNumber"> 002 </span>ปูเรสฺสามีติ ฯ  อถ  โส  ราชานํ  อามนฺเตตฺวา  ตติยํ  
+<span class="LineNumber"> 003 </span>คาถมาห  
+<span class="LineNumber"> 004 </span>	[๗๗๖]อติทานํ เทว ทตฺวาน(๑)	อวชฺฌํ(๒) เทว ฆาเตตฺวา  
+<span class="LineNumber"> 005 </span>		เอวํ วชฺชนฺติ สุคตึ			นรา ปุฺานิ กตฺวานาติ ฯ  
+<span class="LineNumber"> 006 </span>	ตสฺสตฺโถ  มหาราช  สคฺคํ  คจฺฉนฺตา  นาม  อติทานํ  ททนฺติ  
+<span class="LineNumber"> 007 </span>อวชฺฌํ ฆาเตนฺติ สเจ สคฺคํ คนฺตุกาโมสิ ตวมฺปิ ตเถว
+<span class="LineNumber"> 008 </span>กโรหีติ ฯ  
+<span class="LineNumber"> 009 </span>	อถ  นํ  ราชา  ปฺหสฺสตฺถํ  ปุจฺฉิ
+<span class="LineNumber"> 010 </span>		[๗๗๗]กึ  ปเนตํ(๓)  อติทานํ 
+<span class="LineNumber"> 011 </span>			โก  จ อวชฺโฌ(๔) อิมสฺมึ 
+<span class="LineNumber"> 012 </span>			โลกสฺมึ เอตฺจ โข โน อกฺขาหิ 
+<span class="LineNumber"> 013 </span>			ยชิสฺสามิ  ททามิ ทานานีติ ฯ  
+<span class="LineNumber"> 014 </span>	โสปิสฺส พฺยากาสิ  
+<span class="LineNumber"> 015 </span>	[๗๗๘]ปุตฺเตหิ เทว ยชิตพฺพํ มเหสีหิ เนคเมหิจ  
+<span class="LineNumber"> 016 </span>		อุสเภหิ อาชานีเยหิ(๕) จตูหิ  
+<span class="LineNumber"> 017 </span>		สพฺพจตุกฺเกหิ(๖) เทว ยฺํ ยชิตพฺพนฺติ ฯ  
+<span class="LineNumber"> 018 </span>	โสปิสฺส  พฺยากโรนฺโตว(๗)  เตน  เทวโลกมคฺคํ  ปุฏฺโ€  นิรยมคฺคํ  
+<span class="LineNumber"> 019 </span>พฺยากาสิ ฯ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  ปุตฺเตหีติ  อตฺตโน(๘)  ชาเตหิ  ปิยปุตฺเตหิ  เจว  ปิยธีตาหิ  
+<span class="LineNumber"> 021 </span># ๑. ม. ททิตฺวา ฯ  ๒. ม. อวชฺเฌ ฯ  ๓. ม. ปน ตํ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. เก อวชฺฌา ฯ  ๕. ม. อาชานิเยหิ ฯ  ๖. ม. สพฺพจตุกฺเกน ฯ
+<span class="LineNumber"> 023 </span># ๗. ม. รฺโ ปฺหํ พฺยากโรนฺโต จ ฯ  ๘. ม.อตฺตนา ฯ 

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่. 
+<span class="LineNumber"> 002 </span>         ก็หรือว่า   ธัมมายตนะเคยเกิดแก่บุคคลใด,   จักขายตนะก็กำลัง
+<span class="LineNumber"> 003 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังตายก็ดี     บุคคลที่จักขุเกิดไม่ได้
+<span class="LineNumber"> 005 </span>กำลังเกิดก็ดี     ธัมมายตนะเคยเกิดแก่บุคคลเหล่านั้น      แต่จักขายตนะ
+<span class="LineNumber"> 006 </span>ไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น,  บุคคลที่มีจักขุเกิดได้กำลังเกิด ธัมมา-
+<span class="LineNumber"> 007 </span>ยตะเคยเกิด  และจักขายตนะก็กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 008 </span>จบ   จักขายตนมูละ   ฆานายตนะ   ฯลฯ  รูปายตนะ   มนายตนะ
+<span class="LineNumber"> 009 </span>                                        <I>ธัมมายตนมูลี</I>
+<span class="LineNumber"> 010 </span>                                    <I>จักขายตนมูล  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                       <H1>ฆานายตนมูล</H1>
+<span class="LineNumber"> 012 </span><H2>ฆานายตนมูละ  รูปายตนะ ฯ ล ฯ  มนายตนะ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๔๑๓]   ฆานายตนะกำลังเกิดแก่บุคคลใด,   รูปายตนะ   ฯ ล ฯ
+<span class="LineNumber"> 014 </span>มนายตนะ  ธัมมายตนะก็เคยเกิดแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>         ก็หรือว่า    ธัมมายตนะเคยเกิดแก่บุคคลใด,    ฆานายตนะก็กำลัง
+<span class="LineNumber"> 017 </span>เกิดแก่บุคคลนั้น  ใช่ไหม  ?

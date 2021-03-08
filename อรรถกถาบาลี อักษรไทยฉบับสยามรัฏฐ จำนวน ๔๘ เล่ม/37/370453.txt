@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 453
+
+<span class="LineNumber"> 002 </span>	เชตุตฺตรนครโต  สุวณฺณคิริตาโล  นาม  ปพฺพโต  ปฺจ-
+<span class="LineNumber"> 003 </span>โยชนานิ  ตโต  โกนฺติมารา  นาม  นที  ปฺจโยชนานิ  ตโต  
+<span class="LineNumber"> 004 </span>อฺชนาคิริ  (๑)  นาม  ปพฺพโต  ปฺจโยชนานิ  ตโต  ตุณฺณวิถนาลิ-
+<span class="LineNumber"> 005 </span>ทณฺฑพฺราหฺมณคาโม  (๒)  ปฺจโยชนานิ  ตโต  มาตุลนครํ  
+<span class="LineNumber"> 006 </span>ทสโยชนานิ  อิติ  ตํ  รฏฺ€ํ (๓) เชตุตฺตรนครโต  ตึสโยชนํ  โหติ ฯ 
+<span class="LineNumber"> 007 </span>เทวตา  ตํ  มคฺคํ  สํขิปึสุ ฯ เต เอกทิวเสเนว มาตุลนครํ 
+<span class="LineNumber"> 008 </span>ปาปุณึสุ ฯ  
+<span class="LineNumber"> 009 </span>	เตน วุตฺตํ  
+<span class="LineNumber"> 010 </span>	[๑๑๑๐]สํขิปึสุ ปถํ ยกฺขา		อนุกมฺปาย ทารเก  
+<span class="LineNumber"> 011 </span>		นิกฺขนฺตทิวเสเนว		เจตรฏฺ€มุปาคมุนฺติ (๔)ฯ  
+<span class="LineNumber"> 012 </span>	อุปคจฺฉนฺตา  จ  ปน  เชตุตฺตรนครโต  ปาตราสสมเย 
+<span class="LineNumber"> 013 </span>นิกฺขมิตฺวา  สายณฺหสมเย เจตรฏฺเ€ มาตุลนครํ สมฺปตฺตา(๕) ฯ  
+<span class="LineNumber"> 014 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 015 </span>	[๑๑๑๑]เต คนฺตฺวา ทีฆมทฺธานํ	เจตรฏฺ€มุปาคมม  
+<span class="LineNumber"> 016 </span>		อิทฺธํ ผิตํ ชนปทํ		พหุมํสสุโรทนนฺติ ฯ  
+<span class="LineNumber"> 017 </span>	ตทา  มาตุลนคเร  สฏฺ€ีขตฺติยสหสฺสานิ  วสนฺติ ฯ 
+<span class="LineNumber"> 018 </span>มหาสตฺโต  อนฺโตนครํ  อปวิสิตฺวา  นครทฺวาเร(๖)  สาลายํ  นิสีทิ ฯ 
+<span class="LineNumber"> 019 </span>อถสฺส  มทฺที  มหาสตฺตสฺส (๗) ปาเทสุ  รชํ  ปุฺชิตฺวา  ปาเท 
+<span class="LineNumber"> 020 </span># ๑. ม. อฺจรคิริ ฯ  ๒. ม.ทุนฺนิวิฏฺ€พฺราหฺมณคาโม ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. มคฺคํ ฯ  ๔. ม. เจตรฏฺ€ํ อุปาคมุนฺติ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. ปตฺตา ฯ  ๖. ม. นครทฺวาเรเยว ฯ
+<span class="LineNumber"> 023 </span># ๗. ม. โพธิสตฺตสฺส ฯ 

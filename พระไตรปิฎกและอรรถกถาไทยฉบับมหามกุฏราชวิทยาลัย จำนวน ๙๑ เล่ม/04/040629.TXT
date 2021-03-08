@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                  <h2>  หัวข้อประจำเรื่อง</h2>
+<span class="LineNumber"> 002 </span>   ๑.  <B>อเจลกสิกขาบท</B>            ว่าด้วยแจกขนมแก่นักบวช
+<span class="LineNumber"> 003 </span>   ๒.  <B>อุยโยชนสิกขาบท</B>        ว่าด้วยบอกให้กลับ
+<span class="LineNumber"> 004 </span>  ๓.  <B>สโภชนสิกขาบท</B>          ว่าด้วยนั่งแทรกแซง 
+<span class="LineNumber"> 005 </span>  ๔.  <B>ปฐมานิยตสิกขาบท</B>      ว่าด้วยนั่งในที่กำบัง
+<span class="LineNumber"> 006 </span>  ๕. <B>ทุติยานิยตสิกขาบท</B>        ว่าด้วยนั่งในที่ลับ
+<span class="LineNumber"> 007 </span>  ๖.  <B>จาริตตสิกขาบท</B>             ว่าด้วยรับนิมนต์แล้วไปฉันที่อื่น
+<span class="LineNumber"> 008 </span>  ๗. <B>มหานามสิกขาบท</B>          ว่าด้วยปวารณาด้วยปัจจัย.
+<span class="LineNumber"> 009 </span>  ๘.  <B>อุยยุตตสิกขาบท</B>           ว่าด้วยไปดูกองทัพ
+<span class="LineNumber"> 010 </span>  ๙.  <B>เสนาวาลสิขาบท</B>         ว่าด้วยอยู่ในกองทัพ
+<span class="LineNumber"> 011 </span>๑๐. <B>อุยโยธิกสิกขาบท</B>           ว่าด้วยไปสู่สนามรบ

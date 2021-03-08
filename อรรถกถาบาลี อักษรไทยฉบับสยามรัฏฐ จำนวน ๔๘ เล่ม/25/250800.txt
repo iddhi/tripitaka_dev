@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  800
+	
+<span class="LineNumber"> 002 </span>	สงฺขตาติ  สเมจฺจ  สมฺภุยฺย  (๑)  ปจฺจเยหิ  กตา ฯ  
+<span class="LineNumber"> 003 </span>	ปจลิตาติ สงฺขตตฺตาเอว  อุปฺปาทชราทีหิ  ปการโต  จลิตา  
+<span class="LineNumber"> 004 </span>อนวฏฺ€ิตา ฯ 
+<span class="LineNumber"> 005 </span>	สเทริตาติ  สทา  สพฺพกาลํ  ภงฺเคน  เอริตา  อิตฺตรา
+<span class="LineNumber"> 006 </span>ภงฺคคามิโน ปภงฺคุราติ (๒) อตฺโถ ฯ
+<span class="LineNumber"> 007 </span>	ตํ วิทิตฺวา มหมตฺตสมฺภวนฺติ  ตํ  ยถาวุตฺตํ สงฺขตสภาวํ 
+<span class="LineNumber"> 008 </span>อตฺตสมฺภวํ อตฺตนิ สมฺภูตํ อตฺตายตฺตํ อิสฺสราทิวเสน
+<span class="LineNumber"> 009 </span>อปรายตฺตํ ปริฺาภิสมยวเสน อหํ วิทิตฺวา ตปฺปฏิปกฺขภูตํ 
+<span class="LineNumber"> 010 </span>สนฺติเมว นิพฺพานเมว  มคฺคปฺาสติยา  สติมา  หุตฺวา  
+<span class="LineNumber"> 011 </span>สมชฺฌคํ  อธิคจฺฉึ  อริยมคฺคภาวนาย อนุปฺปตฺโตติ ฯ เอวํ 
+<span class="LineNumber"> 012 </span>เถโร าตกานํ ธมฺมเทสนามุเขน อฺํ พฺยากาสิ ฯ  
+<span class="LineNumber"> 013 </span>		โคตมตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 014 </span># ๑. สี. ยุ. สมฺูย ฯ  ๒. ม. ปภงฺคุโนติ ฯ 

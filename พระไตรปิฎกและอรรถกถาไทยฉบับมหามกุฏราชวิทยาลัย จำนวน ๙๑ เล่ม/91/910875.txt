@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>               <H1>เหตุทุกจิตตทุกนเหตุทุกโนจิตตทุกะ</H1>  
+<span class="LineNumber"> 002 </span>              <H2>(๑. เหตุทุกะ  ๕๕. จิตตทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>จิตตบท</H2>
+<span class="LineNumber"> 007 </span>           [๙๘๓] ๑.  <B>ธรรมที่ไม่ใช่จิตตธรรม  ที่ไม่ใช่นเหตุธรรม  อาศัย
+<span class="LineNumber"> 008 </span>จิตตธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                                          <B>ฯลฯ</B>
+
+<span class="LineNumber"> 010 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๙๘๔] ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+
+<span class="LineNumber"> 012 </span>                                    <H2>โนจิตตบท</H2>
+<span class="LineNumber"> 013 </span>           [๙๘๕] ๑.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่จิตตธรรม  ที่เป็น
+<span class="LineNumber"> 014 </span>นเหตุธรรม  อาศัยธรรมที่ไม่ใช่จิตตธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>                                            <B>ฯลฯ</B>
+
+<span class="LineNumber"> 017 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>           [๙๘๖]  ในเหตุปัจจัย  มี ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 019 </span>                     <I>เหตุทุกจิตตทุกนเหตุทุกโนจิตตทุกะ  จบ</I>	

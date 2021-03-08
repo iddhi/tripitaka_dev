@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคล ๒ จำพวก  จักเจริญอัญญินทรีย์  แต่ไม่ใช่จักละโทมนัส-
+<span class="LineNumber"> 002 </span>สินทรีย์,   บุคคล ๕ จำพวก   จักเจริญอัญญินทรีย์    และก็จักละโทม-
+<span class="LineNumber"> 003 </span>นัสสินทรีย์.
+<span class="LineNumber"> 004 </span>                     <I>จบ   โทมนัสสินทริยมูละ  อัญญินทริยมูลี</I>
+
+<span class="LineNumber"> 005 </span><B>โทมนัสสินทริยมูละ  อัญญาตาวินทริยมูลี:-</B>
+<span class="LineNumber"> 006 </span>         [๑๓๘๑]   บุคคลใดจักละโทมนัสสินทรีย์,   บุคคลนั้นก็จักกระทำ
+<span class="LineNumber"> 007 </span>ให้แจ้งอัญญาตาวินทรีย์   ใช่ไหม   ?
+<span class="LineNumber"> 008 </span>         ใช่.  
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   บุคคลใดจักกระทำให้แจ้งอัญญาตาวินทรีย์,      บุคคล 
+<span class="LineNumber"> 010 </span>นั้นก็จักละโทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         บุคคล ๓ จำพวก     จักกระทำให้แจ้งอัญญาตาวินทรีย์        แต่
+<span class="LineNumber"> 012 </span>ไม่ใช่จักละโทมนัสสินทรีย์      บุคคล ๕ จำพวก         จักกระทำให้แจ้ง
+<span class="LineNumber"> 013 </span>อัญญาตาวินทรีย์   และก็จักละโทมนัสสินทรีย์.
+<span class="LineNumber"> 014 </span>                <I>จบ   โทมนัสสินทริยมูละ   อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 015 </span>                                 <I>โทมนัสสินทริยมูล  จบ</I>

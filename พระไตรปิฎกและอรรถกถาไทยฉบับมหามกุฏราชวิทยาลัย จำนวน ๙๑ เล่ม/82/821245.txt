@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  จิตตสังขารจักดับแก่บุคคลใด,  วจีสังขารก็กำลังเกิด 
+<span class="LineNumber"> 003 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ในภังคขณะแห่งจิตของบุคคลเหล่านั้นทั้งหมด        เว้นวิตกและ
+<span class="LineNumber"> 005 </span>วิจารเสียแล้ว  ในอุปปาทขณะแห่งจิตก็ดี  บุคคลที่กำลังเข้านิโรธสมาบัติ  
+<span class="LineNumber"> 006 </span>อยู่ก็ดี   บุคคลที่เกิดอยู่ในอสัญญสัตตภูมิก็ดี   จิตตสังขารจักดับแก่บุคคล
+<span class="LineNumber"> 007 </span>เหล่านั้น    แต่วจีสังขารไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น,    ในอุปปาท-
+<span class="LineNumber"> 008 </span>ขณะแห่งวิตกและวิจาร     จิตตสังขารจักดับ      และวจีสังขารก็กำลังเกิด
+<span class="LineNumber"> 009 </span>แก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 010 </span>                        <I>จบ    วจีสังขารมูละ   จิตตสังขารมูลี</I>
+<span class="LineNumber"> 011 </span>                                     <I>วจีสังขารมูล  จบ</I>
+<span class="LineNumber"> 012 </span>                                     <I>ปุคคลวาระ   จบ</I>
+
+<span class="LineNumber"> 013 </span>                                        <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 014 </span>                                       <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 015 </span><H2>กายสังขารมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 016 </span>         [๑๒๐๗]   กายสังขารกำลังเกิดในภูมิใด,  ฯ ล ฯ
+<span class="LineNumber"> 017 </span>                                   <I>กายสังขารมูล  จบ</I>
+<span class="LineNumber"> 018 </span>                                    <I>โอกาสวาระ  จบ</I>

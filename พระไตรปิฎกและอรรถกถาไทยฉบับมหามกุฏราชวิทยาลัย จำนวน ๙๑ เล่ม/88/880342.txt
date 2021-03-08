@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                     ๒.  <B>อาสวธรรม อาศัยธรรมที่ไม่ใช่อาสวธรรม เกิดขึ้น
+<span class="LineNumber"> 002 </span>เพราะนเหตุปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           คือ  โมหะ   ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ   อาศัย
+<span class="LineNumber"> 004 </span>ขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 005 </span>                                      <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           [๓๓๒] ๑.  <B>ธรรมที่ไม่ใช่อาสวธรรม อาศัยอาสวธรรมเกิดขึ้น
+<span class="LineNumber"> 007 </span>เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ  จิตตสมุฏฐานรูป   อาศัยอาสวธรรมทั้งหลาย.
+<span class="LineNumber"> 009 </span>         	        ๒.  <B>ธรรมที่ไม่ใช่อาสวธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 010 </span>อาสวธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่ไม่ใช่อาสวธรรม.
+<span class="LineNumber"> 012 </span>           ในปฏิสนธิขณะ  หทยวัตถุ  อาศัยขันธ์ทั้งหลาย.
+<span class="LineNumber"> 013 </span>           มหาภูตรูป   ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 014 </span>            	      ๓.  <B>ธรรมที่ไม่ใช่อาสวธรรม  อาศัยอาสวธรรม  และ
+<span class="LineNumber"> 015 </span>ธรรมที่ไม่ใช่อาสวธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ   จิตตสมุฏฐานรูป   อาศัยอาสวธรรม   และสัมปยุตตขันธ์ทั้งหลาย.
+<span class="LineNumber"> 017 </span>                                                     ฯลฯ

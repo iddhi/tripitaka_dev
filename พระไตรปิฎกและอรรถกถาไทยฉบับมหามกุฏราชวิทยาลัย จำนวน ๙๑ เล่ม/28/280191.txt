@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>            พ.  ดูก่อนภิกษุ  เธอจงเรียน  จงเล่าเรียน  จงทรงจำธรรมปริยายนี้
+<span class="LineNumber"> 002 </span>ไว้เถิด   เพราะว่าธรรมปริยายนี้ประกอบด้วยประโยชน์   เป็นเบื้องต้นแห่ง
+<span class="LineNumber"> 003 </span>พรหมจรรย์.
+<span class="LineNumber"> 004 </span>                                        <I>จบ   อุปัสสุติสูตรที่  ๑๐
+<span class="LineNumber"> 005 </span>                                จบ  โยคักเขมีวรรคที่ ๑</I>
+
+<span class="LineNumber"> 006 </span>                         <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 007 </span>            ๑.  โยคักเขมีสูตร   ๒.  อุปาทายสูตร   ๓.  ทุกขสูตร    ๔.  โลกสูตร
+<span class="LineNumber"> 008 </span>๕.  เสยยสูตร   ๖. สังโยชนสูตร   ๗.  อุปาทานสูตร   ๘. ปฐมอปริชาน-
+<span class="LineNumber"> 009 </span>สูตร   ๙.  ทุติยอปริชานสูตร    ๑๐.  อุปัสสุติสูตร.

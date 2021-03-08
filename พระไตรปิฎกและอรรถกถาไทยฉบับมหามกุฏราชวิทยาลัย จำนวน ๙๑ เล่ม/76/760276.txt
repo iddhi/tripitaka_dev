@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           [๕๘๖]  <B>รูปเป็นรูปอนิจจตา</B>   นั้น  เป็นไฉน  ? 
+<span class="LineNumber"> 002 </span>           ความสิ้นไป  ความเสื่อมไป  ความแตก  ความทำลาย  ความไม่เที่ยง
+<span class="LineNumber"> 003 </span>ความอันตรธานแห่งรูป  อันใด   รูปทั้งนี้เรียกว่า  รูปเป็นรูปอนิจจตา.
+<span class="LineNumber"> 004 </span>           <B>รูปไม่เป็นรูปอนิจจตา</B>  นั้น    เป็นไฉน  ?  
+<span class="LineNumber"> 005 </span>           จักขายตนะ  ฯลฯ   กพฬิงการาหาร   รูปทั้งนี้เรียกว่า   รูปไม่เป็นรูป
+<span class="LineNumber"> 006 </span>อนิจจตา.                         
+<span class="LineNumber"> 007 </span>           [๕๘๗]  <B>รูปเป็นกพฬิงการาหาร</B>  นั้น  เป็นไฉน ?
+<span class="LineNumber"> 008 </span>           ข้าวสุก  ขนมสด   นมแห้ง   ปลา   เนื้อ   นมสด   นมส้ม    เนยใส
+<span class="LineNumber"> 009 </span>เนยข้น   น้ำมัน  น้ำผึ้ง   น้ำอ้อย  หรือรูปแท้อื่นใด  มีอยู่   อันเป็นของใส่ปาก
+<span class="LineNumber"> 010 </span>ขบเคี้ยว  กลืนกิน  อิ่มท้อง  ของสัตว์นั้น  ๆ   ในชนบทใด  ๆ   สัตว์ทั้งหลาย
+<span class="LineNumber"> 011 </span>เลี้ยงชีวิตโดยโอซาอันใด  รูปทั้งนี้เรียกว่า  รูปเป็นกพฬิงการาหาร.
+<span class="LineNumber"> 012 </span>           <B>รูปไม่เป็นกพฬิงการาหาร</B>  นั้น  เป็นไฉน  ?
+<span class="LineNumber"> 013 </span>           จักขายตนะ  ฯลฯ  รูปอนิจจตา   รูปทั้งนี้เรียกว่า   รูปไม่เป็นกพฬิง-
+<span class="LineNumber"> 014 </span>การาหาร.
+<span class="LineNumber"> 015 </span>           สงเคราะห์รูปเป็นหมวดละ ๒ อย่างนี้.
+<span class="LineNumber"> 016 </span>                                       <I>ทุกนิเทส  จบ</I>
+
+<span class="LineNumber"> 017 </span>                                            <H1>ติกนิเทศ</H1>
+<span class="LineNumber"> 018 </span>           [๕๘๘]   <B>รูปภายในเป็นอุปาทา</B>  นั้น  เป็นไฉน  ?
+<span class="LineNumber"> 019 </span>           จักขายตนะ  ฯลฯ   กายายตนะ  รูปทั้งนี้เรียกว่า   รูปภายในเป็นอุปาทา.
+<span class="LineNumber"> 020 </span>           <B>รูปภายนอกที่เป็นอุปาทา</B>  นั้น  เป็นไฉน   ?  
+<span class="LineNumber"> 021 </span>           รูปายตนะ  ฯลฯ กพฬิงการาหาร  รูปทั้งนี้เรียกว่า  รูปภายนอกที่เป็น
+<span class="LineNumber"> 022 </span>อุปาทา.                                                                

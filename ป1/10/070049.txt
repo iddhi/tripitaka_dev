@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ลบทีสุดธาตุบ้าง  มีอำนาจให้แปลงวิภัตติ  แปลงตัวเอาพร้อมทั้ง  
+<span class="LineNumber"> 002 </span>วิภัตติบ้าง  ทีฆะต้นธาตุบ้าง  พึงเห็นดังต่อไปนี้ :- 
+<span class="LineNumber"> 003 </span>	คงวิภัตติไว้       ลบต้นธาตุ         อุ.  สนฺติ.
+<span class="LineNumber"> 004 </span>                 "               ลบที่สุดธาตุ       อุ.  อสิ.
+<span class="LineNumber"> 005 </span>	         "               ทีฆะต้นธาตุ        อุ.  อาส,  อาสุํ,  อาสิตฺถ,  อาสิ,
+<span class="LineNumber"> 006 </span>                                                                  อาสิมฺหา.
+<span class="LineNumber"> 007 </span>	แปลงวิภัตติ        ลบต้นธาตุ          อุ.  สิยา, สิยุํ.
+<span class="LineNumber"> 008 </span>                  "                ลบที่สุดธาตุ        อุ.  อตฺถิ,  อตฺถ, อมฺหิ,
+<span class="LineNumber"> 009 </span>                                                                    อมฺห.
+<span class="LineNumber"> 010 </span> 	           "                กับทั้งธาตุ           อุ.  อสฺส,  อสฺสุํ, อสฺสถ,
+<span class="LineNumber"> 011 </span>                                                                     อสฺสํ,  อสฺสาม.
+<span class="LineNumber"> 012 </span>                                           ๗.  วาจก
+<span class="LineNumber"> 013 </span>	วาจก หมายความว่า   กิริยาศัพท์ซึ่งกล่าวบทซึ่งเป็นประธาน
+<span class="LineNumber"> 014 </span>ได้แก่บ่งให้ทราบบทที่เป็นประธานในประโยค  กิริยาศัพท์ที่จะเป็น
+<span class="LineNumber"> 015 </span>วาจกได้  ต้องประกอบด้วยวิภัตติ  กาล บท  วจนะ  บุรุษ  ธาตุ (ดัง
+<span class="LineNumber"> 016 </span>กล่าวแล้ว)  และปัจจัย (ซึ่งจะกล่าวข้างหน้า)  กิริยาศัพท์ซึ่งประกอบ
+<span class="LineNumber"> 017 </span>ด้วยเครื่องปรุงดังกล่าวมานี้  มีอยู่ในประโยคแห่งคำพูดใด  ย่อม
+<span class="LineNumber"> 018 </span>แสดงให้ทราบถึงตัวประธานในประโยคนั้นว่ามีอยู่  แม้จะไม่ปรากฏ
+<span class="LineNumber"> 019 </span>ตัวในประโยคก็ตาม  โดยอาศัยกิริยานั่นเองเป็นเครื่องชี้ กิริยาศัพท์
+<span class="LineNumber"> 020 </span>อันบ่งประธาน ซึ่งเรียกว่า วาจก นี้  เมื่อจะกล่าวโดยประเภทมีอยู่  ๕
+<span class="LineNumber"> 021 </span>คือ :-
+  

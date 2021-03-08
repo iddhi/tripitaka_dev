@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>         เมื่อบุคคลเหล่านั้นกำลังตายในจตุโวการภูมิ        ปัญจโวการภูมิ
+<span class="LineNumber"> 002 </span>สัญญาขันธ์จักดับแก่บุคคลเหล่านั้นในภูมินั้น  แต่เวทนาขันธ์ไม่ใช่กำลัง 
+<span class="LineNumber"> 003 </span>เกิดแก่บุคคลเหล่านั้นในภูมินั้น,       เมื่อบุคคลเหล่านั้นกำลังเกิดในจตุ-
+<span class="LineNumber"> 004 </span>โวการภูมิ    ปัญจโวการภูมิ   สัญญาขันธ์จักดับ   และเวทนาขันธ์ก็กำลัง
+<span class="LineNumber"> 005 </span>เกิดบุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 006 </span>                        <I>จบ  เวทนาขันธมูละ      สัญญาขันธมูลี</I>
+<span class="LineNumber"> 007 </span>                                      <I>เวทนาขันธมูล  จบ</I>
+<span class="LineNumber"> 008 </span>                                    <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 009 </span>                        <I>ปัจจุปปันนานาคตวาระ  อนุโลม  จบ</I>

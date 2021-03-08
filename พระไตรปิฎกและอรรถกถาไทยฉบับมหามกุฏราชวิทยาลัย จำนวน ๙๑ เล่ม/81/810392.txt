@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>ธัมมตัณหา  นทุกขสมุทโยติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๔๓]   <B>สกวาที</B>    ธัมมตัณหาไม่เป็นทุกขสมุทัย หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. รูปตัณหาไม่เป็นทุกขสมุทัย หรือ ?
+<span class="LineNumber"> 005 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 006 </span>                        ส. ธัมตัณหาไม่เป็นทุกขสมุทัย  หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                        ส. สัททตัณหา ฯลฯ  คันธตัณหา  รสตัณหา ฯลฯ โผฏ-
+<span class="LineNumber"> 009 </span>ฐัพพตัณหาไม่เป็นทุกขสมุทัย หรือ ?
+<span class="LineNumber"> 010 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 011 </span>         [๑๕๔๔]  ส. รูปตัณหาเป็นทุกขสมุทัย หรือ ?
+<span class="LineNumber"> 012 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                        ส. ธัมมตัณหาเป็นทุกขสมุทัย หรือ ?
+<span class="LineNumber"> 014 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 015 </span>                        ส. สัททตัณหา  ฯลฯ  คันธตัณหา  ฯลฯ  รสตัณหา  ฯลฯ
+<span class="LineNumber"> 016 </span>โผฏฐัพพตัณหาเป็นทุกขสมุทัย หรือ  ?
+<span class="LineNumber"> 017 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                       ส. ธัมมตัณหาเป็นทุกขสมุทัย หรือ ?
+<span class="LineNumber"> 019 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 020 </span>                       ส. ธัมมตัณหาไม่เป็นทุกขสมุทัย หรือ ?
+<span class="LineNumber"> 021 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 022 </span>                       ส. ตัณหา    พระผู้มีพระภาคเจ้าตรัสว่าเป็นทุกขสมุทัย

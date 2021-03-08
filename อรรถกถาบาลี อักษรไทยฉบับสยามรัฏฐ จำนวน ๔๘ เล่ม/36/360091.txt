@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  91
+
+<span class="LineNumber"> 002 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 003 </span>		กทาหํ ราชปุตฺเต จ		สพฺพาลงฺการภภูสิเต
+<span class="LineNumber"> 004 </span>		จิตฺรจมฺมธเร (๑) สูเร		กาฺจนเวลฺลธาริโน (๒)
+<span class="LineNumber"> 005 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 006 </span>		กทาหํ อริยคเณ [๓]		วตฺถวนฺเต (๔) อลงฺกเต
+<span class="LineNumber"> 007 </span>		หริจนฺทนลิตฺตงฺเค			กาสิกุตฺตมธาริโน (๕)
+<span class="LineNumber"> 008 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 009 </span>		กทาหํ อมจฺจคเณ			สพฺพาลงฺการภูสิเต
+<span class="LineNumber"> 010 </span>		ปีตจมฺมธเร (๖) สูเร		ปุรโต คจฺฉมาลิโน (๗)
+<span class="LineNumber"> 011 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 012 </span>		กทาหํ (๘) สตฺตสตา ภริยา  สพฺพาลงฺการภูสิตา
+<span class="LineNumber"> 013 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 014 </span>		กทาหํ (๘) สตปลฺลกํสํ        สุสฺา ตนุมชฺฌิมา
+<span class="LineNumber"> 015 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 016 </span>		กทา (๘) สตฺตสตา ภริยา	อสฺสวา ปิยภาณินี
+<span class="LineNumber"> 017 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ
+<span class="LineNumber"> 018 </span>		กทาหํ (๘) สตปลฺลกํสํ (๙)	โสวณฺณํ สตราชิกํ
+<span class="LineNumber"> 019 </span># ๑. ม. ยุ. ... วมฺมธเร ฯ  ๒. ส. กฺจนาเวฬุธาริโน ฯ 
+<span class="LineNumber"> 020 </span>ม. ยุ. กฺจนาเวฬธาริเน ฯ	๓. ม. เอตฺถนฺตเร จาติ ทิสฺสติ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. วตวนฺเต ฯ  ๕. ม. ยุ. ...ะาริเน ฯ  ๖. ม. ปิตวมฺมธเร ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. คจฺฉมาลิเน ฯ  ๘. ยุ. กทา ฯ  ๙. ม. สตปลํ กํสํ ฯ  ยุ. สตผลํกํสํ ฯ

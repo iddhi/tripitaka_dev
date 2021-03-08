@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>            บทว่า  <B>ไม่บอกกล่าวการกสงฆ์</B>     คือ    ไม่บอกเล่าการกสงฆ์ผู้ทำ
+<span class="LineNumber"> 002 </span>กรรมให้ทราบ.
+<span class="LineNumber"> 003 </span>            บทว่า  <B>ไม่รู้ฉันทะของคณะ</B>  คือ  ไม่รู้ความพอใจของคณะ.
+<span class="LineNumber"> 004 </span>            ภิกษุณีประสงค์จะเรียกเข้าหมู่   แสวงหาคณะก็ดี   สมมติสีมาก็ดี   ต้อง
+<span class="LineNumber"> 005 </span>อาบัติทุกกฏ  จบญัตติ   ต้องอาบัติทุกกฏ   จบกรรมวาจาสองครั้ง   ต้องอาบัติ
+<span class="LineNumber"> 006 </span>ถุลลัจจัย   จบกรรมวาจาครั้งสุด   ต้องอาบัติสังฆาทิเสส.
+<span class="LineNumber"> 007 </span>            [๔๙]  บทว่า    <B>ภิกษุณีแม้นี้</B>   พระผู้มีพระภาคเจ้าตรัสเทียบเคียง
+<span class="LineNumber"> 008 </span>ภิกษุณีรูปก่อน ๆ.                                                      
+<span class="LineNumber"> 009 </span>           บทว่า  <B>มีอันให้ต้องอาบัติขณะแรกทำ</B>  ความว่า  ต้องอาบัติพร้อม
+<span class="LineNumber"> 010 </span>กับการล่วงวัตถุ   โดยไม่ต้องสวดสมนุภาส.             
+<span class="LineNumber"> 011 </span>           ที่ชื่อว่า  <B>นิสสารณียะ</B>  ได้แก่   ถูกขับออกจากหมู่สงฆ์.
+<span class="LineNumber"> 012 </span>           บทว่า   <B>สังฆาทิเสส</B>    ความว่า    สงฆ์เท่านั้นให้มานัต . . .แม้เพราะ
+<span class="LineNumber"> 013 </span>เหตุนั้นจึงตรัสเรียกว่า   สังฆาทิเสส.
+
+<span class="LineNumber"> 014 </span>                                            <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 015 </span>                                      <H2>ติกะสังฆาทิเสส</H2>
+<span class="LineNumber"> 016 </span>           [๕๐]   กรรมเป็นธรรม   ภิกษุณีสำคัญว่า   กรรมเป็นธรรม   เรียกเข้า
+<span class="LineNumber"> 017 </span>หมู่ต้องอาบัติสังฆาทิเสส.
+<span class="LineNumber"> 018 </span>           กรรมเป็นธรรม   ภิกษุณีสงสัย   เรียกเข้าหมู่   ต้องอาบัติสังฆาทิเสส.
+<span class="LineNumber"> 019 </span>           กรรมเป็นธรรม   ภิกษุณีสำคัญว่า    กรรมไม่เป็นธรรม   เรียกเข้าหมู่
+<span class="LineNumber"> 020 </span>ต้องอาบัติสังฆาทิเสส.                    

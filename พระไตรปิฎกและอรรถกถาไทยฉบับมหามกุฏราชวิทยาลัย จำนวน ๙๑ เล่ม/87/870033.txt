@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           ... อาศัยมหาภูตรูป  ๑ 
+<span class="LineNumber"> 002 </span>           พาหิรรูป ...  อาหารสมุฏฐานรูป ...อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 003 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ... ฯลฯ 
+<span class="LineNumber"> 004 </span>           [๖๓๘] ๔. <B>ทัสสเนนปหาตัพพธรรม   อาศัยทัสสเนนปหา-
+<span class="LineNumber"> 005 </span>ตัพพธรรม    และเนวทัสสเนนนภาวนายปหาตัพพธรรม  ฯลฯ เพราะ
+<span class="LineNumber"> 006 </span>นอารัมมณปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ   จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 008 </span>ธรรม   และมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 009 </span>           [๖๓๙] ๕. <B>เนวทัสสเนนนภาวนายปหาตัพพธรรม อาศัยภาว-
+<span class="LineNumber"> 010 </span>นายปหาตัพพธรรม  และเนวทัสสเนนนภาวนายปหาตัพพธรรม  ฯลฯ
+<span class="LineNumber"> 011 </span>เพราะนอารัมมณปัจจัย.</B>
+<span class="LineNumber"> 012 </span>           คือ จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นภาวนายปหาตัพพธรรม
+<span class="LineNumber"> 013 </span>และมหาภูตรูปทั้งหลาย.  
+
+<span class="LineNumber"> 014 </span>                       <H1>๓.  นอธิปติปัจจัย ฯลฯ ๗.  นอุปนิสสยปัจจัย</H1>
+<span class="LineNumber"> 015 </span>           [๖๔๐]  <B>ทัสสเนนปหาตัพพธรรม   อาศัยทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 016 </span>ธรรม  เกิดขึ้น เพราะนอธิปติปัจจัย  เหมือนกับสหชาตปัจจัย  เพราะ 
+<span class="LineNumber"> 017 </span>นอนันตรปัจจัย   เพราะนสมนันตรปัจจัย    เพราะนอัญญมัญญปัจจัย
+<span class="LineNumber"> 018 </span>เพราะนอุปนิสสยปัจจัย.</B>

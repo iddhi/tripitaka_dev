@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>             <H1>อรรถกถาสูตรที่  ๒   เป็นต้น</H1>  
+
+<span class="LineNumber"> 002 </span>           พึงทราบวินิจฉัยใน<B>สูตรที่  ๒</B> เป็นต้น ดังต่อไปนี้  :- 
+<span class="LineNumber"> 003 </span>           บทว่า     <B>โวสฺสฏฺ€กายา</B>    คือ ปล่อยกายโดยไม่คำนึงถึงอันตราย
+<span class="LineNumber"> 004 </span>ที่เกิดจากหมองู.
+<span class="LineNumber"> 005 </span>           บทว่า  ทฺวยการิโน  แปลว่า  ผู้มีปกติทำทั้งสองอย่าง  อธิบายว่า
+<span class="LineNumber"> 006 </span>มีปกติทำทั้งกุศลและอกุศล.
+<span class="LineNumber"> 007 </span>           บทว่า <B>สจชฺช  มยํ</B> ความว่า    ถ้าว่า วันนี้เราทั้งหลาย.
+<span class="LineNumber"> 008 </span>           บทว่า   <B>สหพฺยตํ   อุปปชฺชติ</B>   ความว่า     ถึงความเป็นผู้   (อยู่)
+<span class="LineNumber"> 009 </span>ร่วมกัน (สหภาพ). อกุศลเป็นปัจจัยให้บุคคลนั้นเกิดขึ้นในกำเนิดนาคนั้น
+<span class="LineNumber"> 010 </span>(ส่วน)  กุศลเป็นปัจจัยให้นาคทั้งหลายที่เกิดมาแล้วสมบูรณ์.
+<span class="LineNumber"> 011 </span>           บทว่า  <B>อนฺนํ</B> ได้แก่     ของเคี้ยวของกิน.
+<span class="LineNumber"> 012 </span>           บทว่า <B>ปานํ</B> ได้แก่    น้ำดื่มทุกชนิด.
+<span class="LineNumber"> 013 </span>           บทว่า  <B>วตฺถํ</B> ได้แก่     ผ้านุ่ง  ผ้าห่ม.
+<span class="LineNumber"> 014 </span>           บทว่า     <B>ยานํ</B>    ได้แก่      ปัจจัยที่ช่วยในการเดินทาง    ทุกชนิด
+<span class="LineNumber"> 015 </span>เริ่มตั้งแต่ร่ม  และรองเท้า.
+<span class="LineNumber"> 016 </span>           บทว่า <B>มาลํ</B> ได้แก่    ดอกไม้ทุกชนิด เช่น ดอกมะลิเป็นต้น.
+<span class="LineNumber"> 017 </span>           บทว่า    <B>คนฺธํ</B>    ได้แก่     เครื่องลูบไล้ทุกชนิด    เช่นแก่นจันทน์
+<span class="LineNumber"> 018 </span>เป็นต้น.
+<span class="LineNumber"> 019 </span>           บทว่า    <B>เสยฺยาวสถปทีเปยฺยํ</B>    ความว่า     ให้ที่นอนมีเตียงและตั่ง
+<span class="LineNumber"> 020 </span>เป็นต้น  ให้ที่อยู่อาศัยมีเรือนชั้นเดียวเป็นต้น  (และ)  ให้อุปกรณ์ประทีป
+<span class="LineNumber"> 021 </span>มีไส้และน้ำมันเป็นต้น. <SUP>๑</SUP> 
+<span class='footnote'>๑.  ปาฐะว่า....<B>ปทีปการณํ</B>  ฉบับพม่าเป็น....<B>ปทีปูปรณํ</B>  แปลตามฉบับพม่า</span>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 407
+
+<span class="LineNumber"> 002 </span>		สมากุลํ ปุรํ อาสิ		โฆโส จ วิปุโล มหา  
+<span class="LineNumber"> 003 </span>		หตฺถินาเค ปทินฺนมฺหิ	สิวีนํ รฏฺ€วฑฺฒเนติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  ตทาสีติ  ตทา  อาสิ ฯ  หตฺถินาเคติ  หตฺถิสํขาเต 
+<span class="LineNumber"> 005 </span>นาเค ฯ  ขุภิตฺถ นครํ ตทาติ สํขุภิ [๑]อโหสิ ฯ  
+<span class="LineNumber"> 006 </span>	พฺราหฺมณา  กิร  ทกฺขิณทฺวาเร  หตฺถึ  ลภิตฺวา  หตฺถิปิฏฺเ€  
+<span class="LineNumber"> 007 </span>นิสีทิตฺวา  มหาชนปริวารา  นครมชฺเฌน  ปายึสุ ฯ  มหาชนา(๒)  
+<span class="LineNumber"> 008 </span>เต  ทิสฺวา  อาหํสุ (๓) อมฺโภ  พฺราหฺมณา  อมฺหากํ  หตฺถึ  
+<span class="LineNumber"> 009 </span>อภิรุฬฺหา  กุโต  โว  ลทฺโธ  หตฺถีติ ฯ  พฺราหฺมณา  อาหํสุ
+<span class="LineNumber"> 010 </span>เวสฺสนฺตรมหาราเชน  โน  หตฺถี  ทินฺโน  เก  ตุมฺเหติ  มหาชนํ 
+<span class="LineNumber"> 011 </span>หตฺถีวิการาทีหิ (๔) ฆเฏนฺตา นครมชฺเฌน  ปาเชตฺวา (๕) อุตฺตรทฺวาเรน 
+<span class="LineNumber"> 012 </span>นิกฺขมึสุ ฯ  นาครา  เทวตาวฏฺฏเนน  โพธิสตฺตสฺส กุทฺธา 
+<span class="LineNumber"> 013 </span>ราชทฺวาเร สนฺนิปติตฺวา มหนฺตํ อุปกฺโกสมกํสุ ฯ  
+<span class="LineNumber"> 014 </span>	เตน วุตฺตํ  
+<span class="LineNumber"> 015 </span>		สมากุลํ ปุรํ อาสิ		โฆโส จ วิปุโล มหา  
+<span class="LineNumber"> 016 </span>		หตฺถินาเค ปทินฺนมฺหิ	สิวีนํ รฏฺ€วฑฺฒเน  
+<span class="LineNumber"> 017 </span>	[๑๐๕๗]อเถตฺถ วตฺตติ สทฺโท	ตุมุโล เภรโว มหา  
+<span class="LineNumber"> 018 </span>		หตฺถินาเค ปทินฺนมฺหิ	ขุภิตฺถ นครํ ตทา  
+<span class="LineNumber"> 019 </span>		อเถตฺถ วตฺตติ สทฺโท	ตุมุโล เภรโว มหา  
+<span class="LineNumber"> 020 </span>		หตฺตินาเค ปทินฺนมฺหิ	สิวีนํ รฏฺ€วฑฺฒเนติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. เอตฺถนฺตเร ตทา เชตุตฺตรนครํ สงฺขุภิตนฺติ ทิสฺสนฺติ ฯ 
+<span class="LineNumber"> 022 </span># ๒. ม. มหาชโน ฯ  ๓. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 023 </span># ๔. ม.หตฺถวิการาทีหิ ฯ  ๕. ม. คนฺตฺวา ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ     ขันธ์ ๓ และจิตตสมุฏฐานรูป   อาศัยขันธ์๑ ที่เป็นนเหตุธรรม 
+<span class="LineNumber"> 002 </span>ซึ่งเป็นอเหตุกะ ฯลฯ ขันธ์ ฯลฯ
+<span class="LineNumber"> 003 </span>           ในอเหตุกปฏิสนธิขณะ  หทัยวัตถุ  อาศัยขันธ์ทั้งหลาย,  ขันธ์ทั้งหลาย
+<span class="LineNumber"> 004 </span>อาศัยหทยวัตถุ.
+<span class="LineNumber"> 005 </span>           ฯลฯ อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 006 </span>           พาหิรรูป... อาหารสมุฏฐานรูป...อุตุสมุฏฐานรูป ฯลฯ.
+<span class="LineNumber"> 007 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ.
+<span class="LineNumber"> 008 </span>             	  ๒.  <B>เหตุธรรม  อาศัยนเหตุธรรม  เกิดขึ้น  เพราะนเหตุ-
+<span class="LineNumber"> 009 </span>ปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ โมหะ ที่สหรคตด้วยวิจิกิจฉา .ที่สหรคตด้วยอุทธัจจะ อาศัยขันธ์
+<span class="LineNumber"> 011 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 012 </span>                                <H1>๒.  นอารัมมณปัจจัย</H1>
+<span class="LineNumber"> 013 </span>           [๕] ๑.  <B>นเหตุธรรม     อาศัยเหตุธรรม     เกิดขึ้น เพราะ
+<span class="LineNumber"> 014 </span>นอารัมมณปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ   จิตตสมุฏฐานรูป  อาศัยเหตุธรรม.
+<span class="LineNumber"> 016 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 017 </span>                 ๒.  <B>นเหตุธรรม อาศัยเหตุธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 018 </span>นอารัมมณปัจจัย</B>
+<span class="LineNumber"> 019 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นเหตุธรรม.
+<span class="LineNumber"> 020 </span>           ในปฏิสนธิขณะ  มหาภูตรูปทั้งหมด.  ฯลฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ทั้งหลายที่เป็นโลกุตตรธรรม ที่เกิดก่อน ๆ เป็นปัจจัยแก่ขันธ์ 
+<span class="LineNumber"> 002 </span>ทั้งหลายที่เป็นโลกุตตรธรรม   ที่เกิดหลัง  ๆ   ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 003 </span>           มรรค    เป็นปัจจัยแก่ผล,     ผล    เป็นปัจจัยแก่ผล    ด้วยอำนาจของ
+<span class="LineNumber"> 004 </span>อนันตรปัจจัย.
+<span class="LineNumber"> 005 </span>                     ๔.  <B>โลกุตตรธรรม     เป็นปัจจัยแก่โลกิยธรรม    ด้วย
+<span class="LineNumber"> 006 </span>อำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ   ผล   เป็นปัจจัยแก่วุฏฐานะ   ด้วยอำนาจของอนันตรปัจจัย.
+
+<span class="LineNumber"> 008 </span>                                    <H1>๕.  สมนันตรปัจจัย</H1>
+<span class="LineNumber"> 009 </span>                     ๑.  <B>โลกิยธรรม  เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 010 </span>ของสมนันตรปัจจัย</B>
+
+<span class="LineNumber"> 011 </span>                    <H1>๖.  สหชาตปัจจัย   ฯลฯ   ๘.  นิสสยปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของสหชาตปัจจัย</B>   มี ๕ วาระ.
+<span class="LineNumber"> 013 </span>           ปัจจัยสงเคราะห์  ไม่มี.
+<span class="LineNumber"> 014 </span>           <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของอัญญมัญญปัจจัย</B>  มี ๒ วาระ.
+<span class="LineNumber"> 015 </span>           <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของนิสสยปัจจัย</B>   มี ๗ วาระ.
+
+<span class="LineNumber"> 016 </span>                                     <H1>๙.  อุปนิสสยปัจจัย</H1>
+<span class="LineNumber"> 017 </span>           [๓๐๗]  ๑.  <B>โลกิยธรรม   เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 018 </span>ของอุปนิสสยปัจจัย</B>

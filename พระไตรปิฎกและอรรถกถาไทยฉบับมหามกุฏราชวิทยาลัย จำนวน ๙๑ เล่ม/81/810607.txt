@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                  ส. อสังขตะเป็น ๕ อย่าง หรือ ? 
+<span class="LineNumber"> 002 </span>                  ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 003 </span>                  ส. อสังขตะเป็น ๕ อย่าง หรือ ?
+<span class="LineNumber"> 004 </span>                  ป. ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                  ส. ที่ต้านทานเป็น  ๕  อย่าง  ที่เร้นก็เป็น  ๕  อย่าง  ที่พึ่ง
+<span class="LineNumber"> 006 </span>ก็เป็น  ๕  อย่าง  ที่หมายก็เป็น  ๕ อย่าง  ฐานะอันไม่เคลื่อนก็เป็น  ๕  อย่าง
+<span class="LineNumber"> 007 </span>อมตะก็เป็น  ๕   อย่าง นิพพานก็เป็น ๕ อย่าง หรือ ?
+<span class="LineNumber"> 008 </span>                  ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 009 </span>                                 <I>สามัญญาผลกถา  จบ</I>
+
+<span class="LineNumber"> 010 </span>                       <H2>อรรถกถาสามัญญผลกถา</H2>
+					
+<span class="LineNumber"> 011 </span>                           <H2>ว่าด้วย   สามัญญผล</H2>	
+
+<span class="LineNumber"> 012 </span>         บัดนี้  ชื่อว่าเรื่องสามัญญผล   คือผลแห่งความเป็นสมณะ.  ในเรื่อง
+<span class="LineNumber"> 013 </span>นั้น การสันนิษฐาน คือการลงความเห็น ในลัทธิของสกวาทีว่า   <B>วิปากจิต
+<span class="LineNumber"> 014 </span>ของอริยมรรคในมัคควิถีก็ดี   ในผลสมาบัติก็ดี   ชื่อว่าสามัญญาผล</B>  ดังนี้.
+<span class="LineNumber"> 015 </span>อนึ่ง  ชนเหล่าใดไม่ถือเอาอย่างนั้น  มีความเห็นผิดดุจลัทธินิกายปุพพเสลิยะ
+<span class="LineNumber"> 016 </span>ทั้งหลายว่า      การละกิเลสด้วย    การเกิดขึ้นแห่งผลด้วยเป็นสามัญญผล
+<span class="LineNumber"> 017 </span>เหตุใด   เพราะเหตุนั้น   สามัญญผลนั้นจึงเป็นอสังขตะ    คือพระนิพพาน. 
+<span class="LineNumber"> 018 </span>ดังนี้     คำถามของสกวาทีหมายถึงชนเหล่านั้น     คำตอบรับรองเป็นของ
+<span class="LineNumber"> 019 </span>ปรวาที.  คำที่เหลือในที่นี้  พึงทราบตามพระบาลี  เพราะมีนัยตามที่กล่าว
+<span class="LineNumber"> 020 </span>แล้วในหนหลังนั่นแล.
+<span class="LineNumber"> 021 </span>                          <I>อรรถกถาสามัญญผลกถา  จบ</I>

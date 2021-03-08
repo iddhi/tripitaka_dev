@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  140
+
+<span class="LineNumber"> 002 </span>หุตฺวา ทณฺฑกปทุมานิ อุฏฺ€หึสุ ฯ  ทสสหสฺสีโลกธาตุ  วฏฺเฏตฺวา
+<span class="LineNumber"> 003 </span>วิสฺสฏฺ€มาลาคุฬา  วิย  สุสณฺ€ิตสนฺถาโร(๑)  วิย  จ  อโหสิ ฯ 
+<span class="LineNumber"> 004 </span>จกฺกวาฬนฺตเรสุ  อฑฺฒโยชนสหสฺสโลกนฺตนิรยา(๒) สตฺตสุริยปฺปภาหิ  
+<span class="LineNumber"> 005 </span>อโนภาสิตปุพฺพา  เอโกภาสา  อเหสุํ ฯ  จตุราสีติโยชนสหสฺสคมฺภีโร  
+<span class="LineNumber"> 006 </span>มหาสมุทฺโท  มธุโรทโก  อโหสิ ฯ  นทิโย  นปฺปวตฺตึสุ ฯ  ชจฺจนฺธา
+<span class="LineNumber"> 007 </span>รูปานิ  ปสฺสึสุ ฯ  ชาติพธิรา  สทฺทํ  สุณึสุ ฯ  ชาติปี€สปฺปิโน  
+<span class="LineNumber"> 008 </span>ปทสา  คจฺฉึสุ ฯ  อนฺทุพนฺธนาทีนํ  พนฺธนาทีนิ  ฉิชฺชิตฺวา  
+<span class="LineNumber"> 009 </span>ปวตฺตึสุ ฯ
+<span class="LineNumber"> 010 </span>	เอวํ  อปริมาเณน  สิริวิภเวน  ปูชยมาโน  มหาปุริโส
+<span class="LineNumber"> 011 </span>นานปฺปกาเรสุ  อจฺฉริยธมฺเมสุ  ปาตุภูเตสุ  สพฺพฺุตํ ปฏิวิชฺฌิตฺวา
+<span class="LineNumber"> 012 </span>สพฺพพุทฺธานํ อวิชฺชหิตํ อุทานํ อุทาเนสิ  
+<span class="LineNumber"> 013 </span>	อเนกชาติสํสารํ		สนฺธาวิสฺสํ อนิพฺพิสํ  
+<span class="LineNumber"> 014 </span>	คหการํ คเวสนฺโต		ทุกฺขา ชาติ ปุนปฺปุนํ ฯ  
+<span class="LineNumber"> 015 </span>	คหการก ทิฏฺโ€สิ		ปุน เคหํ น กาหสิ  
+<span class="LineNumber"> 016 </span>	สพฺพา เต ผาสุกา ภคฺคา   คหกูฏํ วิสงฺขตํ  
+<span class="LineNumber"> 017 </span>	วิสงฺขารคตํ จิตฺตํ		ตณฺหานํ ขยมชฺฌคาติ(๓) ฯ  
+<span class="LineNumber"> 018 </span>	อิติ  ตุสิตปุรโต  ปฏฺ€าย  ยาว  อยํ  โพธิมณฺเฑ  สพฺพฺุตปฺ-
+<span class="LineNumber"> 019 </span>ปตฺติ  ตาว เอตฺตกํ €านํ อวิทูเรนิทานํ นามาติ เวทิตพฺพํ ฯ  
+<span class="LineNumber"> 020 </span>			อวิทูเรนิทานกถา  นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. สุสนฺถตปุปฺผสนฺถาโร ฯ  ๒. ม. อฑฺฒโยชนสหสฺสโลกนฺตริกา ฯ 
+<span class="LineNumber"> 022 </span># ๓. ขุ. ธ. ๒๕/๒๑/๓๕ ฯ 

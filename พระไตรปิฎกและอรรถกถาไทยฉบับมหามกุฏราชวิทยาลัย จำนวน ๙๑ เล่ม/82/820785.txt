@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>สุทธธาตุวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>   [๗๙๙]   ธรรมที่ชื่อว่าจักขุ,   ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>   ธรรมที่ชื่อว่าธาตุ,   ชื่อว่าจักขุ  ใช่ไหม  ?  
+<span class="LineNumber"> 004 </span>   ธรรมที่ชื่อว่าโสต,   ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>   ธรรมที่ชื่อว่าธาตุ, ชื่อว่าโสต  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>   ธรรมที่ชื่อว่าฆานะ,  ชื่อว่าธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>   ธรรมที่ชื่อว่าชิวหา,   ชื่อว่าธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>   ธรรมที่ชื่อว่ากายะ,  ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>   ธรรมที่ชื่อว่ารูปะ,  ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>   ธรรมที่ชื่อว่าสัททะ,  ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>   ธรรมที่ชื่อว่าคันธะ,  ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>   ธรรมที่ชื่อว่ารสะ,    ชื่อว่าธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>   ธรรมที่ชื่อว่าโผฏฐัพพะ,   ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>   ธรรมที่ชื่อว่าจักขุวิญญาณ,   ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>   ธรรมที่ชื่อว่าธาตุ,   ชื่อว่าจักขุวิญญาณ   ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>   ธรรมที่ชื่อว่าโสตวิญญาณ,  ชื่อว่าธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>   ธรรมที่ชื่อว่าธาตุ,    ชื่อว่าโสตวิญญาณ   ใช่ไหม ?

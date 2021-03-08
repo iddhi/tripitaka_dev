@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 253
+
+<span class="LineNumber"> 002 </span>		ยสฺมิฺจ เอตานิ ปติฏฺ€ิตานิ  
+<span class="LineNumber"> 003 </span>		อาราวนาภฺยา(๑) สุสโมหิตานิ  
+<span class="LineNumber"> 004 </span>		จตูหิ(๒) ธมฺเมหิ สมงฺคิภูตํ  
+<span class="LineNumber"> 005 </span>		ตํ เว นรํ สมณมาหุ โลเกติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  เอตานีติ  เอตานิ  จตฺตาริปิ  คุณชาตานิ  ยสฺมึ 
+<span class="LineNumber"> 007 </span>ปุคฺคเล  สกฏนาภิยํ  สุฏฺ€ุ  สโมหิตานิ  อารานิ  วิย (๓) 
+<span class="LineNumber"> 008 </span>สุปติฏฺ€ิตานิ  จตูหิ  เจเตหิ  ธมฺเมหิ สมนฺนาคตํ ตํ ปุคฺคลํ 
+<span class="LineNumber"> 009 </span>ปณฺฑิตา สมณํ อาหุ โลเกติ ฯ  
+<span class="LineNumber"> 010 </span>	เอวํ มหาสตฺโต จตุนฺนํปิ สีลํ เอกสมเมว อกาสิ ฯ  
+<span class="LineNumber"> 011 </span>	ตํ  สุตฺวา  จตฺตาโร  ชนา  หฏฺ€ตุฏฺ€า(๔)  ถุตึ  กโรนฺตา
+<span class="LineNumber"> 012 </span>อิมํ  คาถมาหํสุ  
+<span class="LineNumber"> 013 </span>		ตุวํ นุ(๕) เสฏฺโ€ ตฺวมนุตฺตโรสิ  
+<span class="LineNumber"> 014 </span>		ตฺวํ ธมฺมคู ธมฺมวิทู สุเมโธ  
+<span class="LineNumber"> 015 </span>		ปฺาย ปฺหํ สมวิคฺคหิตฺวา  
+<span class="LineNumber"> 016 </span>		อจฺเฉจฺฉ ธีโร วิจิกิจฺฉิตานิ  
+<span class="LineNumber"> 017 </span>		อจฺเฉจฺฉ(๖) กงฺขํ วิจิกิจฺฉิตานิ  
+<span class="LineNumber"> 018 </span>		จุนฺโท ยถา นาคทนฺตํ ขเรนาติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  ตฺวมนุตฺตโรสีติ  ตฺวํ  อนุตฺตโรสิ(๗)  นตฺถิ  ตยา
+<span class="LineNumber"> 020 </span># ๑. ม.อราว นาภฺยา ฯ  ๒. ม. จตุพฺภิ ฯ  ๓. ม. อรา วิย ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. จตฺตาโรปิ ราชาโน ตสฺส ตุฏฺ€า ฯ  
+<span class="LineNumber"> 022 </span># ๕. ม. หิ ฯ  ๖. ม. อจฺเฉจฺฉิ ฯ  ๗. ม. อนุตฺตโร อสิ ฯ 

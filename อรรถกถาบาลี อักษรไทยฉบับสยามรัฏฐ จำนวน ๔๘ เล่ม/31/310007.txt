@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  31  สงฺกปฺปราคชาตกํ  หน้า  7  
+
+<span class="LineNumber"> 002 </span>อสฺสมปทํ  ทิสฺวา  ปกฺกนฺโต  ภวิสฺสตีติ  ปณฺณสาลทฺวารํ  
+<span class="LineNumber"> 003 </span>วิวริตฺวา  อนฺโต  ปวิฏฺโ€  ตํ  นิปนฺนกํ  ทิสฺวา  เกนจิ  
+<span class="LineNumber"> 004 </span>อผาสุเกน  ภวิตพฺพนฺติ  จินฺเตตฺวา  ปูติภตฺตํ  ฉฑฺฑาเปตฺวา  
+<span class="LineNumber"> 005 </span>ปณฺณสาลํ  ปฏิชคฺคิตฺวา (๑)  ภนฺเต  กึ  เต  อผาสุกนฺติ  ปุจฺฉิ ฯ  
+<span class="LineNumber"> 006 </span>วิทฺโธสฺมิ  มหาราชาติ ฯ  ราชา  มม  ปจฺจามิตฺเตหิ  มยิ  
+<span class="LineNumber"> 007 </span>โอกาสํ  อลภนฺเตหิ  ปิยฏฺ€านมสฺส (๒)   ทุพฺพลํ  กริสฺสามาติ  
+<span class="LineNumber"> 008 </span>อาคนฺตฺวา  เอส  วิทฺโธ  ภวิสฺสติ  มฺเติ  สรีรํ  ปริวตฺเตตฺวา  
+<span class="LineNumber"> 009 </span>วิทฺธฏฺ€านํ  โอโลเกนฺโต  เวธํ (๓)   อทิสฺวา  กตฺถ  วิทฺโธสิ  
+<span class="LineNumber"> 010 </span>ภนฺเตติ  ปุจฺฉิ ฯ  โพธิสตฺโต  นาหํ  มหาราช  อฺเหิ  วิทฺโธ  
+<span class="LineNumber"> 011 </span>อหํ  ปน  อตฺตนาว  อตฺตานํ  หทเย  วิชฺฌามีติ  วตฺวา  
+<span class="LineNumber"> 012 </span>อุฏฺ€าย  นิสีทิตฺวา  อิมา  คาถา  อโวจ  
+<span class="LineNumber"> 013 </span>	[๓๕๒]	สงฺกปฺปราคโธเตน		วิตกฺกนิสิเตน จ  
+<span class="LineNumber"> 014 </span>			เนวาลงฺกตภเทฺรน (๔)		น  อุสุการกเตน (๕)  จ  
+<span class="LineNumber"> 015 </span>	[๓๕๓]	น  กณฺณายตมุตฺเตน		นปิ (๖)  โมรุปเสวินา  
+<span class="LineNumber"> 016 </span>			เตนมฺหิ หทเย วิทฺโธ		สพฺพงฺคปริฬาหินา (๗)   
+<span class="LineNumber"> 017 </span>	[๓๕๔]	อาเวธฺจ น ปสฺสามิ		ยโต รุหิรมสฺสเว  
+<span class="LineNumber"> 018 </span>			ยาว อโยนิโส จิตฺตํ		สยํ เม ทุกฺขมาภตนฺติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  สงฺกปฺปราคโธเตนาติ  กามวิตกฺกสมฺปยุตฺตราคโธเตน ฯ  
+<span class="LineNumber"> 020 </span>#  ๑.  ม.  ปฏิชคฺคาเปตฺวา  ฯ    ๒.  ม.  มมายนฏ€านมสฺส  ฯ  
+<span class="LineNumber"> 021 </span>#  ๓.  ม.  วิทฺธฏฺ€านํ  ฯ    ๔.  ม.  นาลงฺกเตน  ภทฺเรน  ฯ    
+<span class="LineNumber"> 022 </span>#  ๕.  ม. อุสุการากเตน  ฯ    ๖.  ม.  นาปิ  ฯ    ๗.  ม.  สพฺพงฺคปริ€าหินา  ฯ  

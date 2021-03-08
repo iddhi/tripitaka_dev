@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 425
+
+<span class="LineNumber"> 002 </span>		ยสฺส ปุพฺเพ ธชคฺคานิ	กณิการา วนานิว  
+<span class="LineNumber"> 003 </span>		ยายนฺตมนุยายนฺติ		สฺวาชฺเชโกว คมิสฺสติ  
+<span class="LineNumber"> 004 </span>		ยสฺส ปุพฺเพ อนีกานิ	กณิการาว ปุปฺผิตา  
+<span class="LineNumber"> 005 </span>		ยายนฺตมนุยายนฺติ		สฺวาชฺเชโกว คมิสฺสติ  
+<span class="LineNumber"> 006 </span>		ยสฺส ปุพฺเพ อนีกานิ	กณิการา วนานิว  
+<span class="LineNumber"> 007 </span>		ยายนฺตมนุยายนฺติ		สฺวาชฺเชโกว คมิสฺสติ  
+<span class="LineNumber"> 008 </span>		อินฺทโคปกวณฺณาภา	คนฺธารา ปณฺฑุกมฺพลา  
+<span class="LineNumber"> 009 </span>		ยายนฺตมนุยายนฺติ		สฺวาชฺเชโกว คมิสฺสติ  
+<span class="LineNumber"> 010 </span>		โย ปุพฺเพ หตฺถินา ยาติ	สิวิกาย รเถน จ  
+<span class="LineNumber"> 011 </span>		สฺวาชฺช เวสฺสนฺตโร ราชา	กถํ คจฺฉติ ปตฺติโก  
+<span class="LineNumber"> 012 </span>		กถํ จนฺทนลิตฺตงฺโค	นจฺจคีตปฺปโพธโน  
+<span class="LineNumber"> 013 </span>		(๑)ขราชินํ ปราสุฺจ	ขาริกาชฺจ หาริติ(๑)  
+<span class="LineNumber"> 014 </span>		กสฺมา นาภิหรียนฺติ (๒)	กาสาวา อชินานิ จ  
+<span class="LineNumber"> 015 </span>		ปวิสนฺตํ พฺรหารฺํ	กสฺมา จีรํ น พชฺฌเร  
+<span class="LineNumber"> 016 </span>		กถํ นุ จีรํ ธาเรนฺติ		ราชปพฺพชิตา ชนา  
+<span class="LineNumber"> 017 </span>		กถํ กุสมยํ จีรํ		มทฺที ปริทเหสฺสติ  
+<span class="LineNumber"> 018 </span>		กาสิยานิ ปธาเรตฺวา(๓)	โขมโกทุมฺพรานิ จ  
+<span class="LineNumber"> 019 </span>		กุสจีรานิ ธาเรนฺตี		กถํ มทฺที กริสฺสติ  
+<span class="LineNumber"> 020 </span># ๑. ม. ขุราชินํ ผรสุฺจ ขาริกาชฺจ หาหิติ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. นาภิหริสฺสนฺติ ฯ  ๓. ม. กาสิยานิ จ ธาเรตฺวา ฯ

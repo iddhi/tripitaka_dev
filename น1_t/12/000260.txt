@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ทั้ง  ๑๐  นี้   เป็นหลักในการพูด.    ส่วนเรื่องอื่น  ๆ  ถ้าอนุโลมเข้ากับเรื่อง 
+<span class="LineNumber"> 002 </span>เหล่านี้ได้ก็ควรพูด,   แต่ถ้าขัดกันก็ไม่ควรพูด.
+<span class="LineNumber"> 003 </span>                           คำถามสอบความเข้าใจ 
+<span class="LineNumber"> 004 </span>	๑.  ความมักน้อย   กับความสันโดษ   ต่างกันอย่างไร  ?
+<span class="LineNumber"> 005 </span>	๒. ความสงัด    กับความไม่ระคนด้วยหมู่   ต่างกันอย่างไร ?
+<span class="LineNumber"> 006 </span>	๓.  พูดอย่างไร   จึงชื่อว่าชักนำให้ปรารภความเพียร  ?
+<span class="LineNumber"> 007 </span>	๔.  สีลกถา   สมาธิกถา   ปัญญากถา    ได้แก่คำพูดเช่นไร  ?  เกี่ยว	
+<span class="LineNumber"> 008 </span>              เนื่องกันอย่างไรบ้าง  ?
+<span class="LineNumber"> 009 </span>	๕.  วิมุตติ    แปลว่า   อย่างไร  ?   พูออย่างไร   จึงจะให้ถึงวิมุตติ  ?
+<span class="LineNumber"> 010 </span>	๖.  วิมุตติญาณทัสสนะ   แปลว่า   อย่างไร ?    เกิดขึ้นได้อย่างไร  ?
+<span class="LineNumber"> 011 </span>	๗.  กถาวัตถุ   แปลว่า  อย่างไร  ?  มีเท่าไร  ?   ทำไมจึงได้ชื่อว่า
+<span class="LineNumber"> 012 </span>              กถาวัตถุ   ? 
+
+<span class="LineNumber"> 013 </span>				<B>	ต้นเอ๋ย         ต้นมะพูด
+<span class="LineNumber"> 014 </span>				งามดึงดูด    ใจคอ    เมื่อยลเห็น
+<span class="LineNumber"> 015 </span>				แผ่กิ่งใบ     ปกคลุม    พุ่มร่มเย็น
+<span class="LineNumber"> 016 </span>				พูดไม่เป็น   เหมือนนาม    แต่งามตา.
+<span class="LineNumber"> 017 </span>					มนุษย์เรา    พูดได้  จำไว้เถิด
+<span class="LineNumber"> 018 </span>				พูดให้เกิด     สามัคคี    ดีนักหนา
+<span class="LineNumber"> 019 </span>				พูดอ่อนหวาน   สัตย์จริง    อิงที่มา
+<span class="LineNumber"> 020 </span>				ไม่พูดจา    เหลวไหล   วิไล   เอย.</B>
+<span class="LineNumber"> 021 </span>									<B>ศรี  ฯ  นคร.</B>

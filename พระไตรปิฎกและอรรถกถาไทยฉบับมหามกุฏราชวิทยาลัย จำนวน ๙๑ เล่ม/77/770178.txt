@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>         มนายตนะ  เป็นไฉน  ? 
+<span class="LineNumber"> 002 </span>         มนายตนะหมวดละ  ๑  คือ  มนายตนะเป็นผัสสัมปยุต.   มนายตนะ
+<span class="LineNumber"> 003 </span>หมวดละ ๒ คือ  มนายตะ  เป็นสเหตุกะ  เป็นอเหตุกะ.  มนายตนะหมวดละ
+<span class="LineNumber"> 004 </span>๓  คือ  มนายตนะ  เป็นกุศล  เป็นอกุศล  เป็นอัพยากฤต   ฯลฯ๑  มนายตนะ
+<span class="LineNumber"> 005 </span>หมวดละมากอย่าง  ด้วยประการฉะนี้  นี้เรียกว่า  มนายตนะ.
+<span class="LineNumber"> 006 </span>         รูปายตนะ  เป็นไฉน ?
+<span class="LineNumber"> 007 </span>         รูปใด  เป็นสี   อาศัยมหาภูตรูป  ๔  ฯลฯ<SUP>๒</SUP>   นี้เรียกว่า   รูปธาตุบ้าง
+<span class="LineNumber"> 008 </span>นี้เรียกว่า  รูปายตนะ.
+<span class="LineNumber"> 009 </span>         สัททายตนะ  คันธายตนะ  รสายตนะ  โผฏฐัพพายตนะ  เป็นไฉน ?
+<span class="LineNumber"> 010 </span>         ปฐวีธาตุ ฯลฯ นี้เรียกว่าโผฏฐัพพาธาตุบ้าง  นี้เรียกว่า โผฏฐัพพายตนะ.
+<span class="LineNumber"> 011 </span>         ธรรมายตนะ  เป็นไฉน  ?
+<span class="LineNumber"> 012 </span>         เวทนาขันธ์   สัญญาขันธ์   สังขารขันธ์   รูปที่เห็นไม่ได้กระทบไม่ได้
+<span class="LineNumber"> 013 </span>นับเนื่องในธรรมายตนะ   และอสังขตธาตุ.
+<span class="LineNumber"> 014 </span>         ในธรรมายตนะนั้น   เวทนาขันธ์เป็นไฉน  ?
+<span class="LineNumber"> 015 </span>         เวทนาขันธ์หมวดละ ๑  คือ เวทนาขันธ์เป็นผัสสสัมปยุต ฯลฯ เวทนา-
+<span class="LineNumber"> 016 </span>ขันธ์หมวดละมากอย่าง  ด้วยประการฉะนี้  นี้เรียกว่าเวทนาขันธ์ 
+<span class="LineNumber"> 017 </span>         สัญญาขันธ์  เป็นไฉน  ?                                                         
+<span class="LineNumber"> 018 </span>         สัญญาขันธ์หมวดละ ๑  คือ  สัญญาขันธ์เป็นผัสสสัมปยุต  ฯลฯ  สัญญา
+<span class="LineNumber"> 019 </span>ขันธ์หมวดละมากอย่าง  ด้วยประการฉะนี้ นี้เรียกว่า  สัญญาขันธ์.              
+<span class="LineNumber"> 020 </span>         สังขารขันธ์  เป็นไฉน  ?
+<span class='footnote'>๑.  ความที่  ฯลฯ  พึงดูในขันธวิภังค์  ข้อ  (๗๔)  เป็นลำดับไป</span>
+<span class='footnote'>๒.  ความที่  ฯลฯ  พึงดูในธรรมสังคณี  ข้อ  (๕๒๑)</span>
+

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>        ดูก่อนท่านผู้มีอายุทั้งหลาย    ธรรมหมวด  ๖ เหล่านี้แล  อันพระผู้มี
+<span class="LineNumber"> 002 </span>พระภาคเจ้า  ผู้ทรงรู้ ทรงเห็น  เป็นพระอรหันตสัมมาสัมพุทธเจ้าพระองค์
+<span class="LineNumber"> 003 </span>นั้น   ตรัสไว้โดยชอบ  พวกเราทั้งหมด   พึงสังคายนาเป็นอันเดียวกัน ฯลฯ
+<span class="LineNumber"> 004 </span>เพื่อประโยชน์   เพื่อเกื้อกูล   เพื่อความสุขแก่เทวดาและมนุษย์ทั้งหลาย.
+<span class="LineNumber"> 005 </span>                                    <I>จบสังคีติหมวด  ๖</I>
+
+<span class="LineNumber"> 006 </span>                         <H1>ว่าด้วยสังคีติหมวด  ๗</H1>
+
+<span class="LineNumber"> 007 </span>          [๓๒๖]   ดูก่อนท่านผู้มีอายุทั้งหลาย พระผู้มีพระภาคเจ้า    ผู้ทรงรู้
+<span class="LineNumber"> 008 </span>ทรงเห็น เป็นพระอรหันตสัมมาสัมพุทธเจ้า พระองค์นั้น ตรัสธรรมทั้งหลาย
+<span class="LineNumber"> 009 </span> ๗  ไว้โดยชอบแล้วมีอยู่แล     พวกเราทั้งหมดด้วยกัน     พึงสังคายนาเป็น
+<span class="LineNumber"> 010 </span>อันเดียวกัน ไม่พึงโต้แย้งกันในธรรมนั้น ฯลฯ เพื่อประโยชน์  เพื่อเกื้อกูล
+<span class="LineNumber"> 011 </span>เพื่อความสุขแก่เทวดาและมนุษย์ทั้งหลาย.  ธรรมทั้งหลาย  ๗  เป็นไฉน.
+<span class="LineNumber"> 012 </span>                   <H2>อริยทรัพย์ ๗</H2>
+<span class="LineNumber"> 013 </span>                <B>๑.  สัทธาธนัง        ทรัพย์  คือ  ศรัทธา
+<span class="LineNumber"> 014 </span>                ๒.  สีลธนัง            ทรัพย์  คือ  ศีล
+<span class="LineNumber"> 015 </span>                ๓.  หิริธนัง             ทรัพย์  คือ  หิริ
+<span class="LineNumber"> 016 </span>                ๔.  โอตตัปปธนัง     ทรัพย์  คือ  โอตตัปปะ
+<span class="LineNumber"> 017 </span>                ๕.  สุตธนัง              ทรัพย์  คือ  สุตะ
+<span class="LineNumber"> 018 </span>                ๖.   จาคธนัง            ทรัพย์  คือ  จาคะ
+<span class="LineNumber"> 019 </span>                ๗.  ปัญญาธนัง         ทรัพย์  คือ  ปัญญา.</B>

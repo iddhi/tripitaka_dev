@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       ๖.  <B>ธรรมที่ไม่ใช่อสังกิลิฏฐสังกิเลสิกธรรม   ที่ไม่ใช่ 
+<span class="LineNumber"> 002 </span>กุศล    และธรรมที่ไม่ใช่อสังกิลิฏฐสังกิเลสิกธรรม  ที่ไม่ใช่อกุศล
+<span class="LineNumber"> 003 </span>อาศัยอสังกิลิฏฐสังกิเลสิกธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 004 </span>ปัจจัย</B> 
+
+<span class="LineNumber"> 005 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>       				
+<span class="LineNumber"> 006 </span>           [๗๔๖]  ในเหตุปัจจัย มี ๖ วาระ ฯลฯ
+
+<span class="LineNumber"> 007 </span>                                          <H2>ปฏิจจวาระ</H2>  
+<span class="LineNumber"> 008 </span>                                           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>                            <H2>อสังกิลิฏฐอสังกิเลสิกบท</H2>	
+<span class="LineNumber"> 011 </span>           [๗๔๗] ๑.  <B>ธรรมที่ไม่ใช่อสังกิลิฏอสังกิเลสิกธรรม ที่ไม่ใช่
+<span class="LineNumber"> 012 </span>กุศล  อาศัยอสังกิลิฏฐอสังกิเลสิกธรรม  ที่เป็นกุศล   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 013 </span>เหตุปัจจัย</B>  มี  ๓  วาระ.
+<span class="LineNumber"> 014 </span>                       ๔.  <B>ธรรมที่ไม่ใช่อสังกิลิฏฐอสังกิเลสิกธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 015 </span>กุศล   อาศัยอสังกิลิฏฐอสังกิเลสิกธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น
+<span class="LineNumber"> 016 </span>เพราะเหตุปัจจัย</B>  มี ๓ วาระ.

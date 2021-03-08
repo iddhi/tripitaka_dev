@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>สมาบัติ  เพราะฉะนั้น   ผู้นี้ชื่อว่าฉลาด  ดังนี้.
+<span class="LineNumber"> 002 </span>                                                จบอรรถกถาสูตรที่  ๑ 
+
+<span class="LineNumber"> 003 </span>                     <H3>อรรถกถาสูตรที่  ๒</H3>
+
+<span class="LineNumber"> 004 </span>         ใน<B>สูตรที่  ๒</B>  (ข้อ  ๔๐๙)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 005 </span>         บทว่า  <B>อาชฺชวํ</B>  แปลว่า  ความตรง.       บทว่า  <B>มทฺทวํ</B>  แปลว่า
+<span class="LineNumber"> 006 </span>ความอ่อนโยน.
+<span class="LineNumber"> 007 </span>                                               จบอรรถกถาสูตรที่  ๒
+
+<span class="LineNumber"> 008 </span>                         <H3>อรรถกถาสูตรที่  ๓</H3>
+
+<span class="LineNumber"> 009 </span>         ใน<B>สูตรที่  ๓</B>  (ข้อ  ๔๐๑)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 010 </span>         บทว่า  <B>ขนฺติ</B>  ได้แก่  อธิวาสนขันติ.  บทว่า  <B>โสรจฺจํ</B>  ได้แก่
+<span class="LineNumber"> 011 </span>ความเรียบร้อย  ความสงบเสงี่ยม.
+<span class="LineNumber"> 012 </span>                                               จบอรรถกถาสูตรที่  ๓
+
+<span class="LineNumber"> 013 </span>                          <H3>อรรถกถาสูตรที่ ๔</H3>
+
+<span class="LineNumber"> 014 </span>         ใน<B>สูตรที่   ๔</B>  (ข้อ  ๔๑๑)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 015 </span>         บทว่า     <B>สาขลฺยํ</B>     ได้แก่    ความชื่นชมโดยใช้วาจาอ่อนหวาน.
+<span class="LineNumber"> 016 </span>บทว่า    <B>ปฏิสนฺถาโร</B>  ได้แก่  การต้อนรับด้วยอามิสก็ตาม  ด้วยธรรมก็ตาม
+<span class="LineNumber"> 017 </span>ชื่อว่าปฏิสันถาร.                                                   
+<span class="LineNumber"> 018 </span>                                                  จบอรรถกถาสูตรที่  ๔

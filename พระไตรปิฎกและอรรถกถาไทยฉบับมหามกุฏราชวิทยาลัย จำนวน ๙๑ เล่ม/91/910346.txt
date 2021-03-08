@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่รูปีธรรม  ที่ไม่ใช่สรณธรรม   ฯลฯ</B>  
+<span class="LineNumber"> 002 </span>       	   <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่อรูปีธรรม  ที่ไม่ใช่สรณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 003 </span>       	   <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่โลกิยธรรม  ที่ไม่ใช่สรณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 004 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่โลกิยธรรม ที่ไม่ใช่สรณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 005 </span>       	   <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่โลกุตตรธรรม   ที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 006 </span>ฯลฯ</B>        
+<span class="LineNumber"> 007 </span>       	   <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่เกนจิวิญเญยยธรรม  ที่ไม่ใช่สรณ-
+<span class="LineNumber"> 008 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 009 </span>       	   <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่เกนจินวิญเญยยธรรม  ที่ไม่ใช่สรณ-
+<span class="LineNumber"> 010 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 011 </span>                            <I>นสรณทุกจูฬันตรทุกะ  จบ</I>
+<span class="LineNumber"> 012 </span>                           <H1>นสรณทุกโนอาสวโคจฉกทุกะ</H1>	
+<span class="LineNumber"> 013 </span>   <H2>(๑๐๐. นสรณทุกะ ๑๔.-๑๙. โนอาสวโคจฉกทุกะ)</H2>
+<span class="LineNumber"> 014 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 015 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 016 </span>                                        <H2>๑.เหตุปัจจัย</H2>
+<span class="LineNumber"> 017 </span>           [๕๑๒]  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่อาสวธรรม   ที่ไม่ใช่สรณ-
+<span class="LineNumber"> 018 </span>ธรรม ฯลฯ</B>
+	

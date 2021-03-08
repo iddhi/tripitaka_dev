@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 81
+
+<span class="LineNumber"> 002 </span>		หิตฺวา อปริยนฺตํ รฏฺ€ํ สเสนํ  
+<span class="LineNumber"> 003 </span>		ราชา ทุทีโปปชฺฌคามิ(๑) สคฺคนฺติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  ปพฺพชีติ  ปฺจ  วสฺสสตานิ  รชฺชํ  กาเรนฺโต
+<span class="LineNumber"> 005 </span>พฺราหฺมณานํ  สกฺการํ  กตฺวา  อปริยนฺตํ  รฏฺ€ํ  สเสนํ  ชหิตฺวา(๒)
+<span class="LineNumber"> 006 </span>ปพฺพชิ  ปฺจ  (๓)วสฺสสตานิ  สมณธมฺมํ  กโรนฺโต  ทสฺสนีโย
+<span class="LineNumber"> 007 </span>อคฺคทกฺขิเณยฺโย(๓) ฯ  ทุทีโปปีติ  โส  ทุทีโป  นาม  ราชา  พฺราหฺมเณ
+<span class="LineNumber"> 008 </span>ปูเชตฺวาว  สคฺคํ  คโตติ วทติ ฯ ทุทิโปติปิ ปาโ€ ฯ  
+<span class="LineNumber"> 009 </span>	อปรานิปิสฺส อุทาหรณานิ ทสฺเสนฺโต อาห  
+<span class="LineNumber"> 010 </span>	[๗๖๖]โย สาคโร สาครนฺตํ วิชิตฺวา  
+<span class="LineNumber"> 011 </span>		ยูปํ สุภํ โสวณฺณมยํ อุฬารํ  
+<span class="LineNumber"> 012 </span>		อุสฺเสสิ เวสฺสานรมาทหาโน  
+<span class="LineNumber"> 013 </span>		สุโภค เทวฺตโร อโหสิ  
+<span class="LineNumber"> 014 </span>		ยสฺสานุภาเวน สุโภค คงฺคา  
+<span class="LineNumber"> 015 </span>		ปวตฺตติ ทธิสนฺนิสินฺนํ สมุทฺทํ  
+<span class="LineNumber"> 016 </span>		โส โลมปาโท ปริจริยมคฺคึ  
+<span class="LineNumber"> 017 </span>		องฺโค สหสฺสกฺขปุรมชฺฌคจฺฉีติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  สาครนฺตนฺติ  สาครปริยนฺตํ  ป€วึ ฯ  อุสฺเสสีติ 
+<span class="LineNumber"> 019 </span>พฺราหฺมเณ  สคฺคมคฺคํ  ปุจฺฉิตฺวา  สุวณฺณยูปํ  อุสฺสาเปหีติ  วุตฺเต(๔)
+<span class="LineNumber"> 020 </span>ปสุฆาตนตฺถาย  อุสฺสาเปสิ ฯ  เวสฺสานรมาทหาโนติ  เวสฺสานรํ 
+<span class="LineNumber"> 021 </span># ๑. ม. ทุทีโปปิ ชคาม ฯ  ๒. ม.หิตฺวา ฯ ๓. ม. อิเม ปา€า นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. วุตฺโต ฯ 

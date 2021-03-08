@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>อภิธรรมภาชนีย์</H1>
+<span class="LineNumber"> 002 </span>                                            <H1>อัฏฐังคิกวาระ</H1>
+<span class="LineNumber"> 003 </span>           [๕๘๐]  <B>มรรคมีองค์ ๘</B> คือ 
+<span class="LineNumber"> 004 </span>                         <B>๑.  สัมมาทิฏฐิ</B>
+<span class="LineNumber"> 005 </span>                         <B>๒.  สัมมาสังกัปปะ</B>
+<span class="LineNumber"> 006 </span>                         <B>๓.  สัมมาวาจา</B>
+<span class="LineNumber"> 007 </span>                         <B>๔.  สัมมากัมมันตะ</B>
+<span class="LineNumber"> 008 </span>                         <B>๕.  สัมมาอาชีวะ</B>
+<span class="LineNumber"> 009 </span>                         <B>๖.  สัมมาวายามะ</B>
+<span class="LineNumber"> 010 </span>                         <B>๗.  สัมมาสติ</B>
+<span class="LineNumber"> 011 </span>                         <B>๘.  สัมมาสมาธิ</B> 
+<span class="LineNumber"> 012 </span>           ในธรรมเหล่านั้น  <B>มรรคมีองค์ ๘</B> เป็นไฉน ?
+<span class="LineNumber"> 013 </span>           ภิกษุในศาสนานี้ <B>เจริญโลกุตตรฌาน</B> อันเป็นเครื่องนำออกไปจาก
+<span class="LineNumber"> 014 </span>โลกให้เข้าสู่นิพพาน   เพื่อประหาณทิฏฐิ    เพื่อบรรลุปฐมภูมิ   สงัดจากอกุศล
+<span class="LineNumber"> 015 </span>ธรรมทั้งหลายแล้ว   บรรลุปฐมฌาน    ประกอบด้วยวิตก   วิจาร  มีปีติและสุข
+<span class="LineNumber"> 016 </span>อันเกิดแต่วิเวก  เป็นทุกขาปฏิปทาทันธาภิญญา  อยู่ในสมัยใด  มรรคมีองค์ ๘
+<span class="LineNumber"> 017 </span>คือ  สัมมาทิฏฐิ ฯลฯ  สัมมาสมาธิ   ย่อมมี  ในสมัยนั้น.
+<span class="LineNumber"> 018 </span>           [๕๘๑]  ในมรรคมีองค์ ๘ นั้น  <B>สัมมาทิฏฐิ</B> เป็นไฉน ? 
+<span class="LineNumber"> 019 </span>           ปัญญา  กิริยาที่รู้ชัด ฯลฯ<SUP>๑</SUP> ความไม่หลง  ความวิจัยธรรม   ความ
+<span class="LineNumber"> 020 </span>เห็นชอบ   ธัมมวิจยสัมโพชฌงค์   อันเป็นองค์แห่งมรรค   นับเนื่องในมรรค
+<span class="LineNumber"> 021 </span>อันใดนี้เรียกว่า  <B>สัมมาทิฏฐิ</B>.
+
+<span class='footnote'>๑.  ความเต็ม   พึงดูในธรรมสังคณี  ๓๔/ข้อ ๒๑๖ เป็นลำดับไป</span>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  ขุรปุตฺตวคฺควณฺณนา  หน้า  123
+	
+<span class="LineNumber"> 002 </span>น  นิสาเมถาติ  น  สุณาถ  ฯ  อิทํ  สุณาถาติ  อิทมสฺส  วจนํ  
+<span class="LineNumber"> 003 </span>สุณาถ  ฯ  โสทริยาติ สมาเน อุทเร วุฑฺฒภาเวน โส เต 
+<span class="LineNumber"> 004 </span>อาลปนฺโต อาห ฯ  
+<span class="LineNumber"> 005 </span>	อถ เต ปฏิกฺขิปนฺโต สุโก ตติยํ คาถมาห  
+<span class="LineNumber"> 006 </span>	[๙๕๓]นาหํ ตุมฺเห ปสํสามิ  	กุณปาทา สุณาถ เม  
+<span class="LineNumber"> 007 </span>		อุจฺฉิฏฺ€โภชิโน ตุมฺเห  	น ตุมฺเห วิฆาสาทิโนติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ กุณปาทาติ กุณปขาทกาติ เต อาลปติ ฯ  
+<span class="LineNumber"> 009 </span>	เต ตสฺส วจนํ สุตฺวา สพฺเพปิ จตุตฺถํ คาถมาหํสุ  
+<span class="LineNumber"> 010 </span>	[๙๕๔]สตฺตวสฺสา ปพฺพชิตา  	มชฺฌรฺเ สิขิณฺฑิโน(๑)  
+<span class="LineNumber"> 011 </span>		วิฆาเสเนว ยาเปนฺตา  	มยํ เจ โภโต คารยฺหา  
+<span class="LineNumber"> 012 </span>		เก นุ โภโต ปสํสิตาติ(๒) ฯ  
+<span class="LineNumber"> 013 </span>  	ตตฺถ  สิขิณฺฑิโนติ  จูฬาย  สมนฺนาคตา  ฯ  วิฆาเสเนวาติ
+<span class="LineNumber"> 014 </span>เอตฺตกํ  กาลํ  สตฺต  วสฺสานิ  สีหพฺยคฺฆวิฆาเสเนว  ยาเปนฺตา  
+<span class="LineNumber"> 015 </span>ยทิ  โภโต  คารยฺหา อถ เก นุ โภโต(๓) ปสํเสยฺยาติ ฯ  
+<span class="LineNumber"> 016 </span>	เต ลชฺชาเปนฺโต มหาสตฺโต ปฺจมํ คาถมาห  
+<span class="LineNumber"> 017 </span>	[๙๕๕]ตุมฺเห สีหานํ พฺยคฺฆานํ  	พาลานฺจาวสิฏฺ€กํ(๔)  
+<span class="LineNumber"> 018 </span>		อุจฺฉิฏฺเ€เนว ยาเปนฺตา  	มฺิมฺหา(๕) วิฆาสาทิโนติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  พาลานฺจาวสิฏฺ€กนฺติ  เสสพาลมิคานฺจ  อวสิฏฺ€กํ  
+<span class="LineNumber"> 020 </span># ๑. ส. ม. สิขณฺฑิโน ฯ  ๒. ส. ม. ปสํสิยาติ ฯ  ๓. ม. เต ฯ 
+<span class="LineNumber"> 021 </span># ๔. ส. ม. วาฬานฺจาวสิฏฺ€กํ ฯ  ๕. ส. ม. มฺิโวฺห ฯ 

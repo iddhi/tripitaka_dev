@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  294
+
+<span class="LineNumber"> 002 </span>		ราชา กลึ วิจินมคฺคเหสิ  
+<span class="LineNumber"> 003 </span>		กฏมคฺคหิ(๑) ปุณฺณโก ปิ ยกฺโข  
+<span class="LineNumber"> 004 </span>		เต ตตฺถ ชูเต อุภโย(๒) สมาคเต  
+<span class="LineNumber"> 005 </span>		รฺํ สํกาเส(๓) สขินฺจ มชฺเฌ  
+<span class="LineNumber"> 006 </span>		อเชสิ ยกฺโข นรวีรเสฏฺ€ํ  
+<span class="LineNumber"> 007 </span>		ตตฺถปฺปนาโท ตุมุโล พภูวาติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  ปวิสุนฺติ  ชูตสาลายํ(๔)  ปวิสึสุ ฯ  วิจินนฺติ  ราชา
+<span class="LineNumber"> 009 </span>จตุวีสติยา  อาเยสุ  วิจินนฺโต  กลึ  ปราชยคาหํ  อคฺคเหสิ ฯ
+<span class="LineNumber"> 010 </span>กฏมคฺคหีติ  ปุณฺณโก  ปน  นาม  ยกฺโข  ชยคาหํ  คณฺหิ ฯ  เต
+<span class="LineNumber"> 011 </span>ตตฺถ  ชูเต  อุภโย  สมาคเตติ  เต  ตตฺถ  ชูตสาลายํ (๕) ชูเต  สมาคเต(๖)
+<span class="LineNumber"> 012 </span>สมุปาคเต อุโภ ชูตํ  กีฬึสูติ  อตฺโถ ฯ  รฺนฺติ  อถ เตสํ 
+<span class="LineNumber"> 013 </span>เอกสตราชูนํ สํกาเส อวเสสานฺจ  สขีนํ  มชฺเฌ  โส  ยกฺโข 
+<span class="LineNumber"> 014 </span>นรวีรเสฏฺ€ํ  ราชานํ  อเชสิ ฯ  ตตฺถปฺปนาโท  ตุมุโล  พภูวาติ
+<span class="LineNumber"> 015 </span>ตสฺมึ  ชูตมณฺฑเล  รฺโ  ปราชิตภาวํ  ชานาถ  ชิตํ  เม  ชิตํ 
+<span class="LineNumber"> 016 </span>เมติ  ติกฺขตฺตุํ(๗)  มหนฺโต  สทฺโท  อโหสิ ฯ  
+<span class="LineNumber"> 017 </span>	ราชา  ปราชิโต  อนตฺตมโน  อโหสิ ฯ  อถ  นํ  สมสฺสาเสนฺโต  
+<span class="LineNumber"> 018 </span>ปุณฺณโก คาถมาห  
+<span class="LineNumber"> 019 </span>	[๙๓๘]ชโย มหาราช ปราชโย จ  
+<span class="LineNumber"> 020 </span>		อายูหตํ อฺตรสฺส โหติ  
+<span class="LineNumber"> 021 </span># ๑. ม. กฏํ อคฺคหี ฯ  ๒. ม. อุภเย ฯ  ๓. ม. สกาเส ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. ชูตสาลํ ฯ  ๕. ม. อยํ ปาโ€ นตฺถิ ฯ  ๕. ม. สมาคตา ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. อยํ ปาโ€ นตฺถิ ฯ 

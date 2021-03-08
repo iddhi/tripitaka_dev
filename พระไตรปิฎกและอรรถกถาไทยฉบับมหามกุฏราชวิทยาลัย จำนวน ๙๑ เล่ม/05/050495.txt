@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 002 </span>           [๔๗๓]  บทว่า  <B>อนึ่ง. . .ใด</B>  ความว่า   ผู้ใด  คือ   ผู้เช่นใด. . . 
+<span class="LineNumber"> 003 </span>           บทว่า  <B>ภิกษุณี</B> ความว่า  ที่ชื่อว่า   <B>ภิกษุณี</B>  เพราะอรรถว่าเป็นผู้
+<span class="LineNumber"> 004 </span>ขอ. . .  นี้ชื่อว่า  <B>ภิกษุณี</B>   ที่ทรงประสงค์ในอรรถนี้.
+<span class="LineNumber"> 005 </span>          คำว่า  <B>เบื้องหน้าภิกษุ</B>  คือ  ตรงหน้าอุปสัมบันภิกษุ.
+<span class="LineNumber"> 006 </span>          บทว่า  <B>ไม่ขอโอกาส</B>  คือ  ไม่บอกกล่าวก่อน.
+<span class="LineNumber"> 007 </span>          คำว่า <B> นั่งบนอาสนะ</B>  คือ  โดยที่สุด   แม้นั่งบนฟั้นดิน   ต้องอาบัติ
+<span class="LineNumber"> 008 </span>ปาจิตตีย์.
+
+<span class="LineNumber"> 009 </span>                                           <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 010 </span>                                          <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 011 </span>            [๔๗๔]  ยังไม่ได้ขอโอกาส    ภิกษุณีสำคัญว่า    ยังไม่ได้ขอโอกาส
+<span class="LineNumber"> 012 </span> นั่งบนอาสนะ   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 013 </span>            ยังไม่ได้ขอโอกาส   ภิกษุณีมีความสงสัย   นั่งบนอาสนะ   ต้องอาบัติ
+<span class="LineNumber"> 014 </span> ปาจิตตีย์.
+<span class="LineNumber"> 015 </span>            ยังไม่ได้ขอโอกาส  ภิกษุณีสำคัญว่าขอโอกาสแล้ว   นั่งบนอาสนะ  ต้อง
+<span class="LineNumber"> 016 </span> อาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 017 </span>                                            <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 018 </span>            ขอโอกาสแล้ว   ภิกษุณีสำคัญว่า  ยังไม่ได้ขอโอกาส  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 019 </span>             ขอโอกาสแล้ว   ภิกษุณีมีความสงสัย   ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 020 </span>                                           <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 021 </span>             ขอโอกาสแล้ว    ภิกษุณีสำคัญว่า   ขอโอกาสแล้ว   ไม่ต้องอาบัติ.

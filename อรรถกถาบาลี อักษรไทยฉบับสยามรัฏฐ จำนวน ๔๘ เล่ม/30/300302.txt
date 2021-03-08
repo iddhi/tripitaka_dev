@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่  30  ทุกนิปาเต  พีรณตฺถมฺภกวคฺควณฺณนา  หน้า  302
+
+<span class="LineNumber"> 002 </span>สมตฺโถ  นาโหสิ ฯ
+<span class="LineNumber"> 003 </span>	ราชา  ภุฺชิตฺวา  สยนปิฏฺเ€  นิทฺทํ  อุปคนฺตฺวา  ปจฺจูสกาเล 
+<span class="LineNumber"> 004 </span>ปพุชฺฌิตฺวา  วิคฺคตมโท  ปุตฺตํ  เม  อาหราติ (๑) อาห ฯ  ตสฺมึ  
+<span class="LineNumber"> 005 </span>กาเล  เทวี  กนฺทมานา  ปาทมูเล  นิปติ ฯ  กึ กนฺเทสีติ (๒) วุตฺเต  
+<span class="LineNumber"> 006 </span>เทว  หิยฺโย  เต  ปุตฺตํ  มาเรตฺวา  ปุตฺตมํเสน  ภตฺตํ  ภุตฺตนฺติ 
+<span class="LineNumber"> 007 </span>อาห ฯ  ราชา  ปุตฺตโสเกน  โรทิตฺวา [๓] อิทํ  เม  ทุกฺขํ  สุราปานํ 
+<span class="LineNumber"> 008 </span>นิสฺสาย  อุปฺปนฺนนฺติ  สุราปาเน  โทสํ  ทิสฺวา  อิโต  ปฏฺ€าย  
+<span class="LineNumber"> 009 </span>ยาว  อรหตฺตํ  น  ปาปุณามิ  ตาว  เอวรูปํ  วินาสการกํ 
+<span class="LineNumber"> 010 </span>สุรํ  นาม  น  ปิวิสฺสามีติ  ปํสุํ  คเหตฺวา  มุขํ  ปุฺฉิตฺวา 
+<span class="LineNumber"> 011 </span>อธิฏฺ€าสิ ฯ  ตโต  ปฏฺ€าย  มชฺชํ  นาม  น  ปิวิ ฯ (๔) อิมมตฺถํ 
+<span class="LineNumber"> 012 </span>สนฺธาย ปมตฺโตหํ (๕) มหาราชาติ อิมํ คาถมาห ฯ  
+<span class="LineNumber"> 013 </span>	อถ  นํ  ราชา  กึ  ปน  สมฺม  [๖] อารมฺมณํ  ทิสฺวา
+<span class="LineNumber"> 014 </span>นิเสฺนโห  ชาโตสีติ ปุจฺฉิ ฯ โส ตํ การณํ อาจิกฺขนฺโต
+<span class="LineNumber"> 015 </span>อิมํ คาถมาห  
+<span class="LineNumber"> 016 </span>		กิตวาโส นามาหํ ราชา (๗)	ปุตฺโต ปจฺเจกโพธิ เม  
+<span class="LineNumber"> 017 </span>		ปตฺตํ ภินฺทิตฺวา จวิโต  		นิเสฺนโห ตสฺส การณาติ ฯ  
+<span class="LineNumber"> 018 </span>	มหาราช  ปุพฺเพ  อหํ  พาราณสิยํ  กิตวาโส  นาม
+<span class="LineNumber"> 019 </span># ๑. ม. อาเนถาติ ฯ  ๒. ม. ภทฺเทติ จ ฯ  ๓. ม. เอตฺถนฺตเร กนฺทิตฺวาติ ทิสฺสติ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. ปิวึ ฯ  ๕. ม. มตฺโต อหํ ฯ  ๖. ม. เอตฺถนฺตเร ฉตฺตาปาณีติ ทิสฺสติ ฯ
+<span class="LineNumber"> 021 </span># ๗. ม. นามหํ ราช ฯ

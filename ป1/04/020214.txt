@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                              ถามธาตุปัจจัยและวาจก   
+<span class="LineNumber"> 002 </span><B>ภวิตพฺพํ</B>		อันเขาพึงมี.		<B>ทิสฺวาน</B>		เห็นแล้ว
+<span class="LineNumber"> 003 </span><B>สมฺมุยฺห</B>		หลงพร้อมแล้ว.	<B>กถิโต</B>		อันเขากล่าวแล้ว.
+<span class="LineNumber"> 004 </span><B>ฉินฺทิย</B>		ตัดแล้ว.			<B>เทสิโต</B>		อันเขาแสดงแล้ว.
+<span class="LineNumber"> 005 </span><B>นิสินฺโน</B>		นั่งแล้ว.			<B>ปสฺสนฺโต</B>		เห็นอยู่.
+<span class="LineNumber"> 006 </span><B>วนฺโต</B>		คายแล้ว.			<B>ทิฏฺโ€</B>		อันเขาเห็นแล้ว.
+<span class="LineNumber"> 007 </span><B>วทนฺโต</B>		กล่าวอยู่.			<B>สิทฺโธ</B>		สำเร็จแล้ว.
+<span class="LineNumber"> 008 </span><B>สุตฺวา</B>		ฟังแล้ว.			<B>พทฺโธ</B>		เนื่องแล้ว.
+<span class="LineNumber"> 009 </span><B>ลทฺธาน</B>		ได้แล้ว.			<B>ภนฺโต</B>		หมุนแล้ว.
+<span class="LineNumber"> 010 </span><B>ทิสฺวา</B> 		เห็นแล้ว.			<B>อากิณฺโณ</B>		เกลื่อนกล่นแล้ว.
+<span class="LineNumber"> 011 </span><B>โอกฺกมฺม</B>		ก้าวลงแล้ว.		<B>วนฺทนีโย</B>		อันเขาพึงไหว้.
+<span class="LineNumber"> 012 </span><B>โอคาฬฺโห</B>		หยั่งลงแล้ว.		<B>วนฺทนีโย</B>		อันเขาพึงไหว้.
+<span class="LineNumber"> 013 </span>                                   จบกิตก์แต่เท่านี้.

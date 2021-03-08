@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๓  เอกกนิปาตวณฺณนา  หน้า  ๗๐
+
+<span class="LineNumber"> 002 </span>	ทสเม  วิวฏฺฏวเสน  อุปฺปนฺนจิตฺตเมว  (๑) จิตฺตํ ฯ  ตฺหิ  มนุสฺสสุขโต (๒)
+<span class="LineNumber"> 003 </span>ทิพฺพสุขํ  ทิพฺพสุขโต ฌานสุขํ ฌานสุขโต วิปสฺสนาสุขํ วิปสฺสนาสุขโต มคฺคสุขํ
+<span class="LineNumber"> 004 </span>มคฺคสุขโต  ผลสุขํ  ผลสุขโต  นิพฺพานสุขํ  อธิวหติ อาหรตีติ สุขาธิวหํ นาม โหติ
+<span class="LineNumber"> 005 </span>สุขาธิวาหํ  วา ฯ  ตฺหิ โลกุตฺตรปาทกชฺฌานาทิอริยธมฺมาภิมุขํ สุปฺเปสยํ วิสฺสฏฺ€ํ
+<span class="LineNumber"> 006 </span>อินฺทวชิรสทิสํ  (๓) โหตีติ สุขาธิวาหนฺติปิ วุจฺจติ ฯ อิมสฺมึ  วคฺเค วฏฺฏวิวฏฺฏเมว
+<span class="LineNumber"> 007 </span>กถิตนฺติ ฯ 
+<span class="LineNumber"> 008 </span>					ทสมํ  ฯ
+<span class="LineNumber"> 009 </span>					ตติโย วคฺโค ฯ
+<span class="LineNumber"> 010 </span>					อทนฺตวคฺควณฺณนา
+<span class="LineNumber"> 011 </span>	จตุตฺถสฺส ป€เม อทนฺตนฺติ สวิเสวนํ อทนฺตหตฺถิอสฺสาทิสทิสํ ฯ จิตฺตนฺติ
+<span class="LineNumber"> 012 </span>วฏฺฏวเสน อุปฺปนฺนจิตฺตเมว ฯ
+<span class="LineNumber"> 013 </span>					ป€มํ  ฯ
+<span class="LineNumber"> 014 </span>	ทุติเย  ทนฺตนฺติ  นิพฺพิเสวนํ  ทนฺตหตฺถิอสฺสาทิสทิสํ ฯ  อิมสฺมึ
+<span class="LineNumber"> 015 </span>สุตฺตทฺวเย  วฏฺฏวิวฏฺฏวเสน  อุปฺปนฺนจิตฺตเมว  กถิตํ ฯ  ยถา  เจตฺถ  เอวํ  อิโต
+<span class="LineNumber"> 016 </span>ปเรสุปีติ ฯ
+<span class="LineNumber"> 017 </span>					ทุติยํ  ฯ
+<span class="LineNumber"> 018 </span># ๑. ม. ยุ. อุปฺปนฺนจิตฺตเมว จิตฺตํ ตฺหิ  ฯ  ๒. ม. ยุ. มานุสกสุขโต  ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. วิสฺสฏฺ€อินฺทวชิรสทิสํ  ฯ

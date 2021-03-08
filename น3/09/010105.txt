@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>สพฺพุปธิปฏินิสฺสคฺโค</B>		เป็นที่ส่งคืนอุปธิทั้งปวง   
+<span class="LineNumber"> 002 </span><B>ตณฺหกฺขโย</B>				เป็นที่สิ้นไปแห่งตัณหา
+<span class="LineNumber"> 003 </span><B>นิโรโธ</B>				เป็นที่ดับทุกข์สนิท
+<span class="LineNumber"> 004 </span><B>นิพฺพานํ</B>				เป็นที่ดับกิเลสและทุกข์
+<span class="LineNumber"> 005 </span><B>อยํ  วุจฺจตานนฺท นิโรธสญฺา</B>	ดูก่อนอานนท์  อันนี้  [เรา]
+<span class="LineNumber"> 006 </span>					กล่าวว่า  นิโรธสัญญา.
+<span class="LineNumber"> 007 </span>	<B>๘.  กตมา  จานนฺท</B>		ดูก่อนอานนท์ สัพพโลเกอนภิรต-
+<span class="LineNumber"> 008 </span><B>สพฺพโลเก  อนภิรตสญฺา</B>		สัญญา  เป็นไฉนเล่า ?
+<span class="LineNumber"> 009 </span><B>อิธานนฺท ภิกฺขุ</B>			ดูก่อนอานนท์ ภิกษุในธรรมวินัยนี้
+<span class="LineNumber"> 010 </span><B>เย  โลเก  อุปายุปาทานา</B>  		อุ<SUP>๑</SUP>บายเป็นเหตุถือมั่นเหล่าใดในโลก
+<span class="LineNumber"> 011 </span><B>เจตโส อธิฏฺ€านาภินิเวสานุสยา</B>	มีความถือมั่นด้วยความตั้งจิตไว้
+<span class="LineNumber"> 012 </span>					เป็นอนุสัย
+<span class="LineNumber"> 013 </span><B>เต  ปชหนฺโต  วิรมติ  น</B>		ละอุบายเป็นเหตุถือมั่นเหล่านั้น
+<span class="LineNumber"> 014 </span><B>อุปาทิยนฺโต</B>				เสียไม่ถือมั่น  ย่อมงดเว้นเสีย
+<span class="LineNumber"> 015 </span><B>อยํ  วุจฺจตานนฺท สพฺพโลเภ</B>	ดูก่อนอานนท์ อันนี้  [เรา]
+<span class="LineNumber"> 016 </span><B>อนภิรตสญฺา</B>			กล่าวว่า  สัพพโลเกอนภิรตสัญญา.
+<span class="LineNumber"> 017 </span>	<B>๙.  กตมา จานนฺท</B>		ดูก่อนอานนท์ สัพพสังขาเรสุ-
+<span class="LineNumber"> 018 </span><B>สพฺพสงฺขาเรสุ อนิจฺจสญฺา</B>	อนิจจสัญญา  เป็นไฉนเล่า ?
+<span class="LineNumber"> 019 </span><B>อิธานนฺท  ภิกฺขุ</B>			ดูก่อนอานนท์ ภิกษุในธรรมวินัยนี้
+
+<span class='footnote'>๑.  ตามนัยอรรถกถาแห่งหนึ่งว่า  ความพัวพันและความถือมั่น  เหล่าใดในโลก  ซึ่งเป็นความ</span>
+<span class='footnote'>ตั้งใจยึดไว้และนอนเนื่องของจิต.</span>

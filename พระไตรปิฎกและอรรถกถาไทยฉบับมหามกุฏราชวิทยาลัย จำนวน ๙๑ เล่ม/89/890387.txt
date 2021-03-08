@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  อสัญญสัตว์ทั้งหลาย  รูปชีวิตินทรีย์  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 002 </span>                     ๒.  <B>อนุปาทินนธรรม  อาศัยอนุปาทินนธรรม เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะนอินทริยปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ  พาหิรรูป...  อาหารสมุฏฐานรูป...  อุตุสมุฏฐานรูป ฯลฯ
+
+<span class="LineNumber"> 005 </span>                                    <H2>๑๕.  นฌานปัจจัย</H2>
+<span class="LineNumber"> 006 </span>         [๓๕๒] ๑.  <B>อุปาทินนธรรม    อาศัยอุปาทินนธรรม    เกิดขึ้น
+<span class="LineNumber"> 007 </span>เพราะนฌานปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ    ขันธ์  ๓    อาศัยขันธ์  ๑    ที่สหรคตด้วยปัญจวิญญาณ  ฯลฯ
+<span class="LineNumber"> 009 </span>อาศัยขันธ์ ๒.
+<span class="LineNumber"> 010 </span>         อสัญญสัตว์ทั้งหลาย  ฯลฯ
+<span class="LineNumber"> 011 </span>                      ๒.  <B>อนุปาทินนธรรม อาศัยอนุปาทินนธรรม เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะนฌานปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  พาหิรรูป...  อาหารสมุฏฐานรูป...  อุตุสมุฏฐานรูป ฯลฯ
+
+<span class="LineNumber"> 014 </span>                                      <H2>๑๖.  นมัคคปัจจัย</H2>
+<span class="LineNumber"> 015 </span>         [๓๕๓] ๑.  <B>อุปาทินนธรรม    อาศัยอุปาทินนธรรม   เกิดขึ้น
+<span class="LineNumber"> 016 </span>เพราะนมัคคปัจจัย</B>    เหมือนกับ  <B>เพราะนเหตุปัจจัย</B>  โมหะไม่มี.
+
+<span class="LineNumber"> 017 </span>                                  <H2>๑๗.  นสัมปยุตตปัจจัย</H2>
+<span class="LineNumber"> 018 </span>         <B>ฯลฯ   เพราะนสัมปยุตตปัจจัย</B>

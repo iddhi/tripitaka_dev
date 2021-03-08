@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  92
+
+<span class="LineNumber"> 002 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ
+<span class="LineNumber"> 003 </span>		กทา สุ มํ หตฺถิคุมฺพา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 004 </span>		สุวณฺณกจฺฉา มาตงฺคา		เหมกปฺปนิวาสสา (๑) 
+<span class="LineNumber"> 005 </span>		อารุฬฺหา คามนีเยภิ		โตมรงฺกุสปาณิภิ  
+<span class="LineNumber"> 006 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 007 </span>		กทา สุ มํ อสฺสคุมฺพา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 008 </span>		อาชานียา จ (๒)ชาติยา	สินฺธวา สีฆพาหนา  
+<span class="LineNumber"> 009 </span>		อารุฬฺหา คามนีเยภิ		อินฺทิยา จาปธาริภิ  
+<span class="LineNumber"> 010 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 011 </span>		กทา สุ มํ รถเสนิโย		สนฺนทฺธา อุสฺสิตทฺธชา  
+<span class="LineNumber"> 012 </span>		ทีปา อโถปิ เวยฺยคฺฆา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 013 </span>		อารุฬฺหา คามนีเยภิ		จาปหตฺเถหิ จมฺมิภิ  
+<span class="LineNumber"> 014 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 015 </span>		กทา สุมํ สุวณฺณรถา		สนฺนทฺธา อุสฺสิตทฺธชา  
+<span class="LineNumber"> 016 </span>		ทีปา อโถปิ เวยฺยคฺฆา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 017 </span>		อารุฬฺหา คามนีเยภิ		จาปหตฺเถหิ จมฺมิภิ  
+<span class="LineNumber"> 018 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 019 </span>		กทา สุ มํ สชฺฌุรถา		สนฺนทฺธา อุสฺสิตทฺธชา  
+<span class="LineNumber"> 020 </span>		ทีปา อโถปิ เวยฺยคฺฆา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 021 </span># ๑. ม. ยุ. เหมกปฺปนวาสสา ฯ  ๒. ส. ม. ยุ. อาชานียาว ฯ

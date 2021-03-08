@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 20  หน้า 75
+		
+<span class="LineNumber"> 002 </span>			โกธสุตฺตวณฺณนา
+<span class="LineNumber"> 003 </span>	 จตุตฺเถ  โกธนฺติ  โทสํ ฯ  โทโส  เอว  หิ  โกธปริยาเยน 
+<span class="LineNumber"> 004 </span>พุชฺฌนกานํ ปุคฺคลานํ  อชฺฌาสยวเสน  เอวํ  วุตฺโต ฯ  ตสฺมา
+<span class="LineNumber"> 005 </span>ทุติยสุตฺเต  วุตฺตนเยเนเวตฺถ อตฺโถ  เวทิตพฺโพ ฯ  อปิจ  
+<span class="LineNumber"> 006 </span>กุชฺฌนลกฺขโณ  โกโธ  อฆาตกรณรโส  จิตฺตสฺส พฺยาปตฺติภาว-
+<span class="LineNumber"> 007 </span>ปจฺจุปฏฺ€าโน  เจตโส  ปูติภาโวติ  (๑)  ทฏฺ€พฺโพติ  อยมฺปิ  วิเสโส
+<span class="LineNumber"> 008 </span>เวทิตพฺโพ ฯ
+<span class="LineNumber"> 009 </span>		จตุตฺถสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+	
+<span class="LineNumber"> 010 </span>			มกฺขสุตฺตวณฺณนา
+<span class="LineNumber"> 011 </span>	 ปฺจเม  มกฺขนฺติ  ปรคุณมกฺขนํ ฯ  ยทิปิ  หิ  โส  คูถํ 
+<span class="LineNumber"> 012 </span>คเหตฺวา  ปรํ ปหรนฺโต  วิย  อตฺตโน กายํ(๒) ป€มตรํ  มกฺขติเยว ฯ
+<span class="LineNumber"> 013 </span>ตถาปิ ปเรสํ คุณมกฺขนาธิปฺปาเยน ปวตฺเตตพฺพตาย  ปรคุณ-
+<span class="LineNumber"> 014 </span>มกฺขโนติ  วุจฺจติ ฯ  ตถา  หิ  โส  อุทกปุชนี(๓)  วิย นฺหาตสฺส
+<span class="LineNumber"> 015 </span>สรีรคตํ  อุทกํ  ปเรสํ  คุเณ  มกฺเขติ  ปุฺชติ(๔)  วินาเสติ  ปเรหิ(๕)
+<span class="LineNumber"> 016 </span>หิ กตานํ  มหนฺตานมฺปิ  การานํ  เขปนโต  ธํสนโต 
+<span class="LineNumber"> 017 </span>มกฺโขติ  วุจฺจติ ฯ  โส  ปรคุณมกฺขณลกฺขโณ  เตสํ  วินาสนรโส 
+<span class="LineNumber"> 018 </span>ตทวจฺฉาทนปจฺจุปฏฺ€าโน ฯ  อตฺถโต  ปน ปเรสํ  คุณมกฺขนากาเรน
+<span class="LineNumber"> 019 </span># ๑. สี. ปูติภาวปทฏฺ€าโนติ ฯ  ๒. ม. กรํ ฯ  ๓. ม. อุทกปุฺฉนมิว ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. อุทกปุฺฉนมิว ฯ  ๔. ม. ปุฺฉติ ฯ  ๕. ม. ปเรหิ วา กตานํ ฯ

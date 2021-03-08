@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                          ปัญหาและเฉลยธรรมวิภาค
+<span class="LineNumber"> 002 </span>                                        ปริเฉทที่  ๒
+<span class="LineNumber"> 003 </span>                   [สำหรับนักธรรมและธรรมศึกษาชั้นโท] 
+<span class="LineNumber"> 004 </span>                                          หมวด  ๒
+<span class="LineNumber"> 005 </span>	ถาม.  บุคคลเช่นไรเรียกว่า  อริยบุคคล ?   อริยบุคคลนั้น  มี
+<span class="LineNumber"> 006 </span>กำหนดภูมิธรรมเพียงไร  ?
+<span class="LineNumber"> 007 </span>	ตอบ.  บุคคลผู้ไกลจากกิเลสเรียกว่า  อริยบุคคล.  มีกำหนด
+<span class="LineNumber"> 008 </span>ภูมิธรรมต่างกันเป็นชั้น  ๆ  ดังนี้ -
+<span class="LineNumber"> 009 </span>	๑.  พระโสดาบัน  ละสังโยชน์ได้   ๓  คือสักกายทิฏฐิ  วิจิกิจฉา
+<span class="LineNumber"> 010 </span>สีลัพพตปรามาส.
+<span class="LineNumber"> 011 </span>	๒.  พระสกทาคามี  ละสังโยชน์ได้  ๓  เหมือนพระโสดาบัน
+<span class="LineNumber"> 012 </span>กับทำราคะ  โทสะ  โมหะ  ให้เบาบางลง.
+<span class="LineNumber"> 013 </span>	๓.  พระอนาคามี  ละโอรัมภาคิยสังโยชน์ได้ทั้ง  ๕.
+<span class="LineNumber"> 014 </span>	๔.  พระอรหันต์  ละสังโยชน์ได้ทั้ง  ๑๐.
+<span class="LineNumber"> 015 </span>										ส. ป.
+<span class="LineNumber"> 016 </span>	ถ.  พระอริยบุคคล  ๒  ต่างจากพระอริยบุคคล   ๘  อย่างไร  ?
+<span class="LineNumber"> 017 </span>	ต.  ต่างจากพระอริยบุคคล  ๘  อย่างนี้  คือ   พระเสขะ  หมาย
+<span class="LineNumber"> 018 </span>เอาพระอริยบุคคล  ๗  เบื้องต้น  พระอเสขะ  หมายเอาพระผู้ตั้งอยู่
+

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>					*เล่มที่ ๑๕   หน้า  ๕
+
+<span class="LineNumber"> 002 </span>						พลวคฺควณฺณนา
+<span class="LineNumber"> 003 </span>	ทุติยสฺส  ป€เม  ปุพฺพาหํ  ภิกฺขเว  อนนุสฺสุเตสุ  ธมฺเมสูติ  
+<span class="LineNumber"> 004 </span>อหํ ภิกฺขเว  ปุพฺเพ  อนนุสฺสุเตสุ ธมฺเมสุ จตุสจฺจธมฺเมสุ ฯ 
+<span class="LineNumber"> 005 </span>อภิฺาโวสานปารมิปฺปตฺโต ปฏิชานามีติ  จตูสุ  สจฺเจสุ  จตูหิ  
+<span class="LineNumber"> 006 </span>มคฺเคหิ  โสฬสวิธสฺส  กิจฺจสฺส  กรเณน  อภิชานิตฺวา  โวสาน-
+<span class="LineNumber"> 007 </span>ปารมึ  สพฺเพสํ  กิจฺจานํ  นิฏฺ€ิตตฺตา  กตกิจฺจภาวปารํ (๑) ปตฺโต  
+<span class="LineNumber"> 008 </span>ปฏิชานามีติ  มหาโพธิปลฺลงฺเก  อตฺตโน  อาคมนียคุณํ (๒)  ทสฺเสติ ฯ 
+<span class="LineNumber"> 009 </span>ตถาคตสฺสาติ  อฏฺ€หิ  การเณหิ  ตถาคตสฺส ฯ  ตถาคตพลานีติ  
+<span class="LineNumber"> 010 </span>ยถา  เตหิ คนฺตพฺพํ  ตเถว  คตานิ  ปวตฺตานิ  าณพลานิ ฯ  
+<span class="LineNumber"> 011 </span>อาสภณฺ€านนฺติ(๓) เสฏฺ€ฏฺ€านํ ฯ  สีหนาทนฺติ  อภีตนาทํ ฯ 
+<span class="LineNumber"> 012 </span>พฺรหฺมจกฺกนฺติ เสฏฺ€จกฺกํ ฯ ปวตฺเตตีติ [๔] กเถติ ฯ  
+<span class="LineNumber"> 013 </span>						ปฐมํ ฯ
+<span class="LineNumber"> 014 </span>	ทุติเย  เสขพลานีติ  เสขานํ  าณพลานิ ฯ  อคฺคนฺติ  
+<span class="LineNumber"> 015 </span>อุตฺตมํ ฯ เสสพลานิ  โคปานสิโย  กูฏํ  วิย  สงฺคณฺหาตีติ  
+<span class="LineNumber"> 016 </span>สงฺคาหิกํ ฯ  ตาเนว  พลานิ  สํหตานิ  กโรตีติ สงฺฆาตนิยํ ฯ     
+<span class="LineNumber"> 017 </span>						ทุติยํ ฯ
+<span class="LineNumber"> 018 </span>	ตติเย  ตตฺถ  มุฏฺ€สจฺเจน  (๕)  น  กมฺปตีติ  สติพลํ ฯ  
+<span class="LineNumber"> 019 </span>อุทฺธจฺเจน(๖) น  กมฺปตีติ สมาธิพลํ ฯ    
+<span class="LineNumber"> 020 </span>						ตติยํ ฯ
+<span class="LineNumber"> 021 </span>#๑. ม. กตกิจฺจภาวํ ปารํ ฯ  ๒. ม. อาคมณียคุณํ ฯ  ๓. ม. อาสภํ ฐานํ ฯ
+<span class="LineNumber"> 022 </span>#๔. สี. เอตฺถนฺตเร ปวตฺเตตีติ ทิสฺสติ ฯ  ๕. ม. มุฏฺฐสฺสจฺเจ ฯ 
+<span class="LineNumber"> 023 </span>#๖. ม. อุทฺธจฺเจ ฯ

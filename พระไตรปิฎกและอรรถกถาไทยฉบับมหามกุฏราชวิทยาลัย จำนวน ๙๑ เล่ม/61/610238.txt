@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         <B>ทั้งหลายผู้รู้ความลับที่ปรึกษากันของคน   ๆ   หนึ่ง
+<span class="LineNumber"> 002 </span>         เพียงใด  ความสะดุ้งความหวาดกลัวของคนนั้น    ย่อม
+<span class="LineNumber"> 003 </span>         เกิดขึ้นเพียงนั้น      เพราะเหตุนั้น      จึงไม่ควรเปิดเผย
+<span class="LineNumber"> 004 </span>         ความลับเลย     บุคคลจะพูดความลับในเวลากลางวัน
+<span class="LineNumber"> 005 </span>         ควรหาโอกาสที่เงียบสงัด    เมื่อจะพูดความลับในเวลา
+<span class="LineNumber"> 006 </span>         ค่ำคืน    อย่าปล่อยเสียงให้เกินขอบเขต  เพราะว่า  คน
+<span class="LineNumber"> 007 </span>         แอบฟังจะได้ยินความลับที่ปรึกษากัน      เพราะฉะนั้น
+<span class="LineNumber"> 008 </span>         ความลับที่ปรึกษากัน      ก็จะพลันถึงความแพร่งพราย
+<span class="LineNumber"> 009 </span>         ทันที.</B>
+<span class="LineNumber"> 010 </span>                          <B>จบปัญจบัณฑิตชาดกที่ ๑๒</B>
+
+<span class="LineNumber"> 011 </span>           <H1>อรรถกถาปัญจบัณฑิตชาดก</H1> 
+<span class="LineNumber"> 012 </span>         ปัญจบัณฑิตชาดก  จักมีพิสดารในมหาอุมมังคชาดก.
+
+<span class="LineNumber"> 013 </span>                          <I>จบอรรถกถาปัญจบัณฑิตชาดก</I>

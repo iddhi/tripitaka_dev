@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  มหาวคฺควณฺณนา  หน้า  622
+
+<span class="LineNumber"> 002 </span>	วชฺชนฺติ วชฺชนียฏฺเ€น ฯ เอตฺตาวตา อุทฺเทสสฺส
+<span class="LineNumber"> 003 </span>นิทฺเทโส จ กโต โหติ ฯ  
+<span class="LineNumber"> 004 </span>	ปุน  นิทฺเทสสฺส  ปฏินิทฺเทสํ  กโรนฺโต อปฺปรชกฺเข
+<span class="LineNumber"> 005 </span>มหารชกฺเขติอาทิมาห ฯ 
+<span class="LineNumber"> 006 </span>	ตตฺถ ตีสุ  รตเนสุ  โอกปฺปนสงฺขาตา  สทฺธา  อสฺส 
+<span class="LineNumber"> 007 </span>อตฺถีติ  สทฺโธ ฯ
+<span class="LineNumber"> 008 </span>	โส  สทฺธาสมฺปนฺโน ปุคฺคโล  อสฺสทฺธิยรชสฺส  เจว  
+<span class="LineNumber"> 009 </span>อสฺสสทฺธิยมูลกสฺส  เสสากุสลรชสฺส  จ  อปฺปกตฺตา อปฺปรชกฺโข ฯ  
+<span class="LineNumber"> 010 </span>นตฺถิ  เอตสฺส  สทฺธาติ  อสฺสทฺโธ ฯ 
+<span class="LineNumber"> 011 </span>	โส  วุตฺตปฺปการสฺส  รชสฺส มหนฺตตฺตา  มหารชกฺโข ฯ
+<span class="LineNumber"> 012 </span>	อารทฺธํ  วีริยมเนนาติ อารทฺธวีริโย ฯ
+<span class="LineNumber"> 013 </span>	โส โกสชฺชรชสฺส เจว  โกสชฺชมูลกสฺส  เสสากุสลรชสฺส  
+<span class="LineNumber"> 014 </span>จ  อปฺปกตฺตา  อปฺปรชกฺโข ฯ หีนวีริยตฺตา กุจฺฉิเตน อากาเรน 
+<span class="LineNumber"> 015 </span>สีทตีติ  กุสีโท กุสีโท เอว กุสีโต ฯ 
+<span class="LineNumber"> 016 </span>	โส วุตฺตปฺปการสฺส สีทรชสฺส(๑) มหนฺตตฺตา มหารชกฺโข ฯ  
+<span class="LineNumber"> 017 </span>อารมฺมณํ  อุเปจฺจ  €ิตา  สติ  อสฺสาติ  อุปฏฺ€ิตสฺสติ ฯ 
+<span class="LineNumber"> 018 </span>	โส มุฏฺ€สฺสจฺจรชสฺส  เจว  มุฏฺ€สฺสจฺจมูลกสฺส เสสากุสล-
+<span class="LineNumber"> 019 </span>รชสฺส  จ อปฺปกตฺตา อปฺปรชกฺโข ฯ  มุฏฺ€า  นฏฺ€า  สติ
+<span class="LineNumber"> 020 </span>อสฺสาติ  มุฏฺ€สฺสติ ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. รชสฺส ฯ 

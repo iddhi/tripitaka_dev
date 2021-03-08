@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>เวทนาขันธมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๒๐๖]  เวทนาขันธ์ไม่ใช่กำลังดับแก่บุคคลใด,    สัญญาขันธ์  
+<span class="LineNumber"> 004 </span>ก็ไม่ใช่จักดับแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         จักดับ.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า     สัญญาขันธ์ไม่ใช่จักดับแก่บุคคลใด,     เวทนาขันธ์
+<span class="LineNumber"> 007 </span>ก็ไม่ใช่กำลังดับแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         กำลังดับ.
+<span class="LineNumber"> 009 </span>                    <I>จบ   เวทนาขันธมูละ    สัญญาขันธมูลี</I>
+<span class="LineNumber"> 010 </span>                                   <I>เวทนาขันธมูล   จบ</I>
+<span class="LineNumber"> 011 </span>                                     <I>ปุคคลวาระ  จบ</I>
+<span class="LineNumber"> 012 </span>                                         <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 013 </span>                                          <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 014 </span><H2>รูปขันธมูละ   ฯ ล ฯ</H2>
+<span class="LineNumber"> 015 </span>         [๒๐๗]  รูปขันธ์ไม่ใช่กำลังดับในภูมิใด,  ฯลฯ
+<span class="LineNumber"> 016 </span>                                        <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 017 </span>                                       <I>โอกาสวาระ  จบ</I>                               

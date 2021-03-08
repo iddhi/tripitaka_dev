@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์ ๑ ที่สหรคตด้วยอุทธัจจะ   และโมหะ ฯลฯ
+<span class="LineNumber"> 002 </span>ขันธ์ ๒ ฯลฯ 
+<span class="LineNumber"> 003 </span>                                                   ฯลฯ
+
+<span class="LineNumber"> 004 </span>                            <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 005 </span>           [๔๖๒]  ในเหตุปัจจัย  มี ๔ วาระ    ในอารัมมณปัจจัย มี  ๖ วาระ
+<span class="LineNumber"> 006 </span>ในอธิปติปัจจัย  มี ๒ วาระ  ในอนันตรปัจจัย  มี ๖ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 007 </span>มี ๖ วาระ  ในอวิคตปัจจัย มี ๖ วาระ.
+
+<span class="LineNumber"> 008 </span>                                             <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 009 </span>                             <H2>การนับจํานวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 010 </span>           [๔๖๓]  ในนเหตุปัจจัย  มี ๓ วาระ    ในนอธิปติปัจจัย  มี ๖ วาระ
+<span class="LineNumber"> 011 </span>ในนปุเรชาตปัจจัย  มี ๖ วาระ  ในนปัจฉาชาตปัจจัย มี ๖ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 012 </span>ปัจจัย  มี ๖ วาระ  ในนกัมมปัจจัย  มี ๔  วาระ   ในนวิปากปัจจัย  มี ๖ วาระ
+<span class="LineNumber"> 013 </span>ในนฌานปัจจัย  มี ๑ วาระ  ในนมัคคปัจจัย  มี ๑ วาระ  ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 014 </span>มี ๖ วาระ.
+<span class="LineNumber"> 015 </span>           การนับจำนวนวาระทั้งสองนัยนอกนี้ก็ดี  สัมปยุตตวาระก็ดี  พึงกระทำ
+<span class="LineNumber"> 016 </span>อย่างนี้.

@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>ปฏิจจวาระ</H2>     
+<span class="LineNumber"> 002 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                                    <H2>อัพยากตบท</H2>
+<span class="LineNumber"> 005 </span>           [๑๐๘๔] ๑.  <B>อัพยากตธรรม  ที่เป็นอนิยตธรรม   อาศัยธรรม
+<span class="LineNumber"> 006 </span>ที่ไม่ใช่อัพยากตธรรม  ที่ไม่ใช่มิจฉัตตนิยตธรรม    เกิดขึ้น   เพราะ
+<span class="LineNumber"> 007 </span>เหตุปัจจัย</B>                           
+<span class="LineNumber"> 008 </span>                                             <B>ฯลฯ</B>
+
+<span class="LineNumber"> 009 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๑๐๘๕]  ในเหตุปัจจัย  มี ๖ วาระ  ฯลฯ
+<span class="LineNumber"> 011 </span>                  <I>นมิจฉัตตติกนกุสลติกมิจฉัตตติกกุสลติกะ  จบ</I>

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           				<H1>สารัมมณทุกกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>			  <H2>(๕๕.  สารัมมณทุกะ  ๑. กุสลติกะ)</H2>
+<span class="LineNumber"> 003 </span>					   <H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>					    <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>		[๑๔๑๘]  ๑.  กุศลธรรมที่เป็นสารัมมณธรรม    อาศัยกุศล-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นสารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                 		ในสัปปัจจยทุกะ กุศลธรรมที่เป็นสัปปัจจยธรรม อาศัย
+<span class="LineNumber"> 009 </span>กุศลธรรมที่เป็นสัปปัจจยธรรม  เกิดขึ้น  ฉันใด   ในสารัมมณทุกะพึงให้
+<span class="LineNumber"> 010 </span>พิสดารฉันนั้น. 
+                      
+<span class="LineNumber"> 011 </span>				        <H1>อกุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 012 </span>                                	   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>                                         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๑๔๑๙]  ๑.  อกุศลธรรมที่เป็นสารัมมณธรรม  อาศัยอกุศล-
+<span class="LineNumber"> 015 </span>ธรรมที่เป็นสารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>                    	   ในสัปปัจจยทุกะ      อกุศลธรรมที่เป็นสัปปัจจยธรรม
+<span class="LineNumber"> 017 </span>อาศัยอกุศลธรรมที่เป็นสัปปัจจยธรรม  เกิดขึ้น  ฉันใด  ในสารัมณทุกะ
+<span class="LineNumber"> 018 </span>พึงให้พิสดารฉันนั้น.

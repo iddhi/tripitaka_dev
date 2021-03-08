@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                         		<H2>ปัจจนียนัย</H2>   
+<span class="LineNumber"> 002 </span>                                    <H2>๑. นเหตุปัจจัย</H2> 
+<span class="LineNumber"> 003 </span>		[๓๐๑]  ๑.  นเหตุธรรมที่เป็นปริตตารัมมณธรรม อาศัยนเหตุ-
+<span class="LineNumber"> 004 </span>ธรรมที่เป็นปริตตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 005 </span>                          		<H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 006 </span>		[๓๐๒]  ในนเหตุปัจจัย  มี ๓ วาระ    ในนอธิปติปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 007 </span>ฯลฯ  ในนวิปปยุตตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                      	       <H1>อนุโลมปัจจนียนัย</H1>
+<span class="LineNumber"> 009 </span>		[๓๐๓]  <B>เพราะเหตุปัจจัย</B>   ในนอธิปติปัจจัย  มี  ๓ วาระ... ฯลฯ
+<span class="LineNumber"> 010 </span>                                <H2>ปัจจนียานุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>		[๓๐๔]  <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย มี ๓ วาระ...  ฯลฯ  
+<span class="LineNumber"> 012 </span>          	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>โยคบท</H2>  
+<span class="LineNumber"> 002 </span>                       ๑.  <B>ธรรมที่ไม่ใช่โยคธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆ-
+<span class="LineNumber"> 003 </span>ธรรม   อาศัยโยคธรรม   ที่เป็นอนิทัสสนอัปปฏิฆธรรม    เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 005 </span>                                      <H2>นีวรณบท</H2>
+<span class="LineNumber"> 006 </span>                       ๑.  <B>ธรรมที่ไม่ใช่นีวรณธรรม  ที่ไม่ใช่อนิทัสสนอัป-
+<span class="LineNumber"> 007 </span>ปฏิฆธรรม อาศัยนีวรณธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 009 </span>                                     <H2>ปรามาสบท</H2>
+<span class="LineNumber"> 010 </span>                       ๑.  <B>ธรรมที่ไม่ใช่ปรามาสธรรม    ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 011 </span>อัปปฏิฆธรรม   อาศัยปรามาสธรรม   ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>     <I>สนิทัสสนติกฉโคจฉกทุกนสนิทัสสนติกนฉโคจฉกทุกะ  จบ</I>

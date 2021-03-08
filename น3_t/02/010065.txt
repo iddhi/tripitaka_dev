@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	ชวนจิตที่  ๓  	ชื่อ  <B>อนุโลม</B>. 
+<span class="LineNumber"> 002 </span>	ชวนจิตที่  ๔ 	ชื่อ  <B>โคตรภู</B>.
+<span class="LineNumber"> 003 </span>	ชวนจิตที่  ๕  	<B>เป็นตัวมรรค</B>.
+<span class="LineNumber"> 004 </span>	ชวนจิตที่  ๖-๗  	<B>เป็นตัวผล</B>.  
+<span class="LineNumber"> 005 </span>	กุลบุตรผู้ขิปปาภิญญา  ตรัสรู้เร็ว :-
+<span class="LineNumber"> 006 </span>	ชวนจิตที่  ๑  	ชื่อ  <B>อุปจาร</B>.
+<span class="LineNumber"> 007 </span>	ชวนจิตที่  ๒ 	ชื่อ  <B>อนุโลม</B>.
+<span class="LineNumber"> 008 </span>	ชวนจิตที่  ๓  	ชื่อ  <B>โคตรภู</B>.
+<span class="LineNumber"> 009 </span>	ชวนจิตที่  ๔  	<B>เป็นตัวมรรค</B>.
+<span class="LineNumber"> 010 </span>	ชวนจิตที่  ๕-๖-๗ 	<B>เป็นตัวผล</B>.
+<span class="LineNumber"> 011 </span>	ต่อจากภวังคจิต  มีมโนทวาราวัชชนจิตตัดกระแสภวังค์เกิดขึ้น
+<span class="LineNumber"> 012 </span>ในลำดับของมโนทวาราวัชชนจิต  ปัจจเวกขณญาณ  ๕  เกิดขึ้น.
+<span class="LineNumber"> 013 </span>	<B>ปัจจเวกขณญาณ  ๕  คือ :-</B>
+<span class="LineNumber"> 014 </span>	๑.  พิจารณามรรค.
+<span class="LineNumber"> 015 </span>	๒.  พิจารณาผล.
+<span class="LineNumber"> 016 </span>	๓.  พิจารณากิเลสที่ละได้แล้ว.
+<span class="LineNumber"> 017 </span>	๔.  พิจารณากิเลสที่ยังเหลืออยู่.
+<span class="LineNumber"> 018 </span>	๕.  พิจารณาพระนิพพาน.
+<span class="LineNumber"> 019 </span>	ปัจจเวกขณญาณทั้ง ๕  นี้  ย่อมมีแก่พระโสดาบัน  พระสกทาคามี
+<span class="LineNumber"> 020 </span>พระอนาคามี  ส่วนพระอรหันต์  การพิจารณากิเลสที่ยังเหลืออยู่ไม่มี
+<span class="LineNumber"> 021 </span>เพราะท่านมีกิเลสละสิ้นแล้ว.
+
+

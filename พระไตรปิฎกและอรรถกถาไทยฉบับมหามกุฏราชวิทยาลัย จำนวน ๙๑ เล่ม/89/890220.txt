@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>๒. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๒๐๘] ๑.  <B>จิตตสหภูธรรม เป็นปัจจัยแก่จิตตสหภูธรรม ด้วย
+<span class="LineNumber"> 003 </span>อำนาจของอารัมมณปัจจัย</B>   มี ๙ วาระ    เหมือนจิตตสมุฏฐานทุกะ    ไม่มี
+<span class="LineNumber"> 004 </span>ต่างกัน.
+<span class="LineNumber"> 005 </span>                                          <H2>๓.  อธิปติปัจจัย</H2>
+<span class="LineNumber"> 006 </span>         [๒๐๙] ๑.  <B>จิตตสหภูธรรม เป็นปัจจัยแก่จิตตสหภูธรรม ด้วย
+<span class="LineNumber"> 007 </span>อำนาจของอธิปติปัจจัย</B>   มี ๓ วาระ   อารัมมณาธิปติก็ดี  สหชาตาธิปติก็ดี
+<span class="LineNumber"> 008 </span>พึงกระทำ.
+<span class="LineNumber"> 009 </span>                    ๔.  <B>ธรรมที่ไม่ใช่จิตตสหภูธรรม  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 010 </span>ที่ไม่ใช่จิตตสหภูธรรม     ด้วยอำนาจของอธิปติปัจจัย</B>     มี ๓ วาวะ
+<span class="LineNumber"> 011 </span>อารัมมณาธิปติก็ดี   สหชาตาธิปติก็ดี   พึงกระทำแก่ธรรมทั้ง  ๓ วาระแม้เหล่านี้.
+<span class="LineNumber"> 012 </span>         แม้ปัญหา ๙ ข้อ   ก็เหมือนจิตตสมุฏฐานทุกะ   ในบทปลาย ๓ วาระ
+<span class="LineNumber"> 013 </span>เป็นอารัมมณาธิปติอย่างเดียว.
+
+<span class="LineNumber"> 014 </span>                      <H2>๔.  อนันตรปัจจัย  ฯลฯ  ๙.  อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 015 </span>         [๒๑๐]  ๑.  <B>จิตตสหภูธรรม เป็นปัจจัยแก่จิตตสหภูธรรม ด้วย
+<span class="LineNumber"> 016 </span>อำนาจของอนันตรปัจจัย</B>     มี ๙ วาระ    เหมือนจิตตสมุฏฐานทุกะ   ไม่มี
+<span class="LineNumber"> 017 </span>ต่างกัน.
+<span class="LineNumber"> 018 </span>         <B>เป็นปัจจัย  ด้วยอำนาจของสมนันตรปัจจัย</B>  มี ๙ วาระ.
+<span class="LineNumber"> 019 </span>         เหมือนกับปฏิจจวาระ.
+	

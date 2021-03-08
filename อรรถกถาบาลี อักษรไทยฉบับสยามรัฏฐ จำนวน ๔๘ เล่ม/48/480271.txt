@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า 271
+
+<span class="LineNumber"> 002 </span>			ทิพฺพโสตกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  ทิพฺพโสตกถา  นาม  โหติ ฯ  ตตฺถ  เอกํเยว
+<span class="LineNumber"> 004 </span>โสตนฺติ  ปุฏฺโ€  ทฺวินฺนํ  อตฺถิตาย  ปฏิกฺขิปิตฺวา(๑) ฯ  ปุน ปุฏฺโ€
+<span class="LineNumber"> 005 </span>ยสฺมา ตเทว ธมฺมุปตฺถทฺธํ ทิพฺพโสตํ นาม โหติ ตสฺมา
+<span class="LineNumber"> 006 </span>ปฏิชานาติ ฯ เสสํ เหฏฺ€า วุตฺตนยเมวาติ ฯ 
+<span class="LineNumber"> 007 </span>		ทิพฺพโสตกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 008 </span>		ยถากมฺมูปคตาณกถาวณฺณนา 
+<span class="LineNumber"> 009 </span>	อิทานิ  ยถากมฺมูปคตาณกถา  นาม  โหติ ฯ  ตตฺถ  เยสํ 
+<span class="LineNumber"> 010 </span>อิติ  ทิพฺเพน  จกฺขุนา  วิสุทฺเธน  ฯเปฯ  ยถากมฺมูปเค(๒)  สตฺเต
+<span class="LineNumber"> 011 </span>ปชานาตีติ  (๓)  สุตฺตํ อโยนิโส  คเหตฺวา  ยถากมฺมูปคาณเมว(๔)
+<span class="LineNumber"> 012 </span>ทิพฺพจกฺขุนฺติ  ลทฺธิ  เต  สนฺธาย  ปุจฺฉา สกวาทิสฺส 
+<span class="LineNumber"> 013 </span>ปฏิฺา  อิตรสฺส ฯ  ปุน  ยถากมฺมูปคตฺจ  มนสิ  กโรตีติ  ปุฏฺโ€
+<span class="LineNumber"> 014 </span>เอกจิตฺตสฺส  อารมฺมณทฺวยาภาวา  ปฏิกฺขิปติ ฯ  ทุติยํ  ปุฏฺโ€
+<span class="LineNumber"> 015 </span>นานาจิตฺตวเสน ปฏิชานาติ ฯ  ปุน  เลโสกาสํ  อทตฺวา  ทฺวินฺนํ
+<span class="LineNumber"> 016 </span>ผสฺสานนฺติ ปุฏฺโ€ ปฏิกฺขิปติ ฯ อิติ ยถา  อิมินา  ยถา-
+<span class="LineNumber"> 017 </span>กมฺมูปคตปเทน  เอวเมว  อิเม  วต  โภนฺโต  สตฺตาติอาทิ-
+<span class="LineNumber"> 018 </span>ปเทนาปิ(๕)  สทฺธึ โยชนาสุ อตฺโถ เวทิตพฺโพ ฯ 
+<span class="LineNumber"> 019 </span># ๑. ม. ปฏิกฺขิปติ ฯ  ๒. ม. ยถากมฺมูปเค ฯ
+<span class="LineNumber"> 020 </span># ๓. ที. สี. ๙/๒๔๖/๘๓ ฯ ขุ. ปฏิ. ๓๑/๒๕๗/๑๖๙ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. ...กมฺมูปคาณเมว ฯ  ๕. ม. ...อาทิปเทหิปิ ฯ

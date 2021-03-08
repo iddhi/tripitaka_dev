@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                 <B>๑๐.   สุขินทรีย์</B>   
+<span class="LineNumber"> 002 </span>                 <B>๑๑.   ทุกขินทรีย์</B>
+<span class="LineNumber"> 003 </span>                 <B>๑๒.  โสมนัสสินทรีย์</B> 
+<span class="LineNumber"> 004 </span>                 <B>๑๓.   โทมนัสสินทรีย์</B>
+<span class="LineNumber"> 005 </span>                 <B>๑๔.   อุเปกขินทรีย์</B>
+<span class="LineNumber"> 006 </span>                 <B>๑๕.   สัทธนทรีย์</B> 
+<span class="LineNumber"> 007 </span>                 <B>๑๖.    วิริยินทรีย์</B>
+<span class="LineNumber"> 008 </span>                 <B>๑๗.   สตินทรีย์</B>
+<span class="LineNumber"> 009 </span>                 <B>๑๘.   สมาธินทรีย์</B> 
+<span class="LineNumber"> 010 </span>                 <B>๑๙.   ปัญญินทรีย</B>           
+<span class="LineNumber"> 011 </span>                 <B>๒๐.   อนัญญตัญญัสสามีตินทรีย์</B> 
+<span class="LineNumber"> 012 </span>                 <B>๒๑.  อัญญินทรีย์</B>
+<span class="LineNumber"> 013 </span>                 <B>๒๒.  อัญญาตาวินทรีย์</B>
+<span class="LineNumber"> 014 </span>         การบัญญัติธรรมที่เป็นใหญ่ว่า <B>อินทรีย์</B>    ก็มี ๒๒  ตามจำนวนธรรม
+<span class="LineNumber"> 015 </span>เหล่านี้.
+<span class="LineNumber"> 016 </span>                                            <H1>๖.  บุคคลบัญญัติ</H1>
+<span class="LineNumber"> 017 </span>         การบัญญัติจำพวกบุคคลของบุคคลทั้งหลาย  มีเท่าไร
+
+<span class="LineNumber"> 018 </span>                                             <H2>เอกกมาติกา</H2>
+<span class="LineNumber"> 019 </span>         [๗]   <B>บุคคล  ๑  จำพวก</B> 
+<span class="LineNumber"> 020 </span>                 <B>๑.  บุคคลผู้พ้นแล้วในสมัย</B>	

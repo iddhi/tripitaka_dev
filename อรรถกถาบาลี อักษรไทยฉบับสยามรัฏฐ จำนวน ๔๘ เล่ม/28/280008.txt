@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  8
+
+<span class="LineNumber"> 002 </span>	เอวํ กิเลสมลโธเว		วิชฺชนฺเต อมตนฺตเฬ  
+<span class="LineNumber"> 003 </span>	น คเวสติ ตํ ตฬากํ		น โทโส อมตนฺตเฬ ฯ  
+<span class="LineNumber"> 004 </span>	ยถา อรีหิ ปริรุทฺโธ		วิชฺชนฺเต คมนมฺปเถ  
+<span class="LineNumber"> 005 </span>	น ปลายติ โส ปุริโส		น โทโส อฺชสสฺส โส  
+<span class="LineNumber"> 006 </span>	เอวํ กิเลสปริรุทฺโธ		วิชฺชมาเน สิเว ปเถ  
+<span class="LineNumber"> 007 </span>	น คเวสติ ตํ มคฺคํ		น โทโส สิวมฺชเส ฯ  
+<span class="LineNumber"> 008 </span>	ยถาปิ พฺยาธิโต ปุริโส	วิชฺชมาเน ติกิจฺฉเก  
+<span class="LineNumber"> 009 </span>	น ติกิจฺฉาเปติ ตํ พฺยาธึ	น โทโส โส ติกิจฺฉเก  
+<span class="LineNumber"> 010 </span>	เอวํ กิเลสพฺยาธีหิ		ทุกฺขิโต ปริปีฬิโต(๑)  
+<span class="LineNumber"> 011 </span>	น คเวสติ ตํ อาจริยํ		น โส โทโส วินายเกติ ฯ  
+<span class="LineNumber"> 012 </span>	อปรํปิ  จินฺเตสิ  ยถา  มณฺฑนชาติโก  ปุริโส  กณฺเ€
+<span class="LineNumber"> 013 </span>อาสตฺตํ  กุณปํ  ฉฑฺเฑตฺวา  สุขี  คจฺเฉยฺย  (๒)  เอวํ  มยาปิ 
+<span class="LineNumber"> 014 </span>อิมํ  ปูติกายํ  ฉฑฺเฑตฺวา อนเปกฺเขน นิพฺพานนครํ ปวิสิตพฺพํ ฯ  
+<span class="LineNumber"> 015 </span>ยถา  จ  นรนาริโย  อุกฺการภูมิยํ(๓)  อุจฺจารปสฺสาวํ  กตฺวา  น 
+<span class="LineNumber"> 016 </span>ตํ  อุจฺฉงฺเคน  วา อาทาย ทสนฺเตน วา เวเ€ตฺวา คจฺฉนฺติ 
+<span class="LineNumber"> 017 </span>ชิคุจฺฉมานา ปน  อนเปกฺขาว  ฉฑฺเฑตฺวา  คจฺฉนฺติ  เอวํ  มยาปิ 
+<span class="LineNumber"> 018 </span>อิมํ  ปูติกายํ  อนเปกฺเขน ฉฑฺเฑตฺวา อมตนิพฺพานนครํ
+<span class="LineNumber"> 019 </span>ปวิสิตุํ วฏฺฏติ ฯ  ยถา  จ  นาวิกา  นาม  ชชฺชรนาวํ 
+<span class="LineNumber"> 020 </span>อนเปกฺขา ฉฑฺเฑตฺวา คจฺฉนฺติ  เอวํ  อหมฺปิ  อิมํ  นวหิ
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ. ปฏิปีฬิโต ฯ  ๒. ม. คจฺฉติ ฯ ๓. ม. อุกฺการภูมิยํ ฯ

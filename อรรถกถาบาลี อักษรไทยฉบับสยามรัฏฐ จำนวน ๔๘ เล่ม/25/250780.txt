@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  780
+	
+<span class="LineNumber"> 002 </span>		เอเตหงฺเคหิ สมฺปนฺโน	ขตฺติโยติ ปวุจฺจติ  
+<span class="LineNumber"> 003 </span>		สทา รกฺขนฺติ ราชานํ	จกฺกวาโกว ทุกฺขินํ ฯ (๑)  
+<span class="LineNumber"> 004 </span>		ตเถว ตฺวํ มหาวีร		หตามิตฺโตว (๒) ขตฺติโย  
+<span class="LineNumber"> 005 </span>		สเทวกสฺส โลกสฺส		ธมฺมราชาติ วุจฺจติ ฯ  
+<span class="LineNumber"> 006 </span>		ติตฺถิเย นีหริตฺวาน (๓)	มารฺจาปิ สเสนกํ  
+<span class="LineNumber"> 007 </span>		ตมนฺธการํ วิธํเสตฺวา (๔)  ธมฺมนครํ อมาปยิ ฯ  
+<span class="LineNumber"> 008 </span>		สีลํ ปาการิกํ ตตฺถ		าณนฺเต ทฺวารโกฏฺ€กํ  
+<span class="LineNumber"> 009 </span>		สทฺธา เต เอสิกา วีร	ทฺวารปาโล จ สํวโร ฯ  
+<span class="LineNumber"> 010 </span>		สติปฏฺ€านมฏฺฏาลํ	ปฺา เต จจฺจรํ มุเน  
+<span class="LineNumber"> 011 </span>		อิทฺธิปาทฺจ สิงฺฆาฏํ	ธมฺมวีถิ (๕) สุมาปิตํ ฯ (๖)  
+<span class="LineNumber"> 012 </span>		สุตฺตนฺตํ อภิธมฺมฺจ	วินยํ จาปิ เกวลํ  
+<span class="LineNumber"> 013 </span>		นวงฺคํ พุทฺธวจนํ		เอสา ธมฺมสภา ตว ฯ  
+<span class="LineNumber"> 014 </span>		สุฺตํ อนิมิตฺตฺจ	วิหารฺจาปณีหิตํ  
+<span class="LineNumber"> 015 </span>		อเนโช จ (๗) นิโรโธ จ	เอสา ธมฺมกุฏี ตว ฯ  
+<span class="LineNumber"> 016 </span>		ปฺาย อคฺโค นิกฺขิตฺโต  ปฏิภาเณ จ โกวิโท  
+<span class="LineNumber"> 017 </span>		สาริปุตฺโตติ นาเมน	ธมฺมเสนาปตี ตว ฯ  
+<span class="LineNumber"> 018 </span>		จุตูปปาตกุสโล		อิทฺธิยา ปารมึ คโต  
+<span class="LineNumber"> 019 </span>		โกลิโต นาม นาเมน	โปโรหิจฺโจ ตวํ มุเน ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ยุ. ทุกฺขิตํ ฯ  ๒. สี. มหามิตฺโตว ฯ  ๓. ม. นีหริตฺวาน ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ยุ. วิธมิตฺวา ฯ  ๕. ยุ. ธมฺมวีถึ ฯ  ๖. ม.สุมาปิตา ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. อาเนฺชฺจ ฯ  ๘. โปราณ. ตฺวํ ฯ

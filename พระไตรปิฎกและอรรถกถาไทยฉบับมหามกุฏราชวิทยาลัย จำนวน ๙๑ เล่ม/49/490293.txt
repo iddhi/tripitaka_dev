@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๑๐.  อุตตรมาตุเปติวัตถุ</H1>  
+
+<span class="LineNumber"> 002 </span>                   	<H2>ว่าด้วยลูกให้ทานไม่พอใจตายเป็นเปรต</H2>
+
+<span class="LineNumber"> 003 </span>          <B>[๑๐๗]   	นางเปรตมีผิวพรรณน่าเกลียดน่ากลัว
+<span class="LineNumber"> 004 </span>     		มีผมยาวห้อยลงมาจดพื้นดิน  คลุมตัวด้วยผม  เข้า
+<span class="LineNumber"> 005 </span>     		ไปหาภิกษุอยู่ในที่พักกลางวัน    นั่งอยู่ริมฝั่ง
+<span class="LineNumber"> 006 </span>      		แม่น้ำคงคา    ได้กล่าวกะภิกษุนั้นดังนี้ว่า    ข้าแต่
+<span class="LineNumber"> 007 </span>	     	ท่านผู้เจริญ     ดิฉันตั้งแต่ตายมาจากมนุษยโลก
+<span class="LineNumber"> 008 </span>	       	ยังไม่ได้บริโภคข้าวหรือดื่มน้ำเลย     ตลอดเวลา
+<span class="LineNumber"> 009 </span>    		๕๕   ปีแล้ว  ขอท่านจงให้น้ำดื่มแก่ดิฉันผู้กระหาย
+<span class="LineNumber"> 010 </span>	      	น้ำด้วยเถิด.</B>
+<span class="LineNumber"> 011 </span>          ภิกษุนั้นกล่าวว่า
+<span class="LineNumber"> 012 </span>               		<B>แม่น้ำคงคามีน้ำเย็นใสสะอาด  ไหลมาแต่
+<span class="LineNumber"> 013 </span>     		เขาหิมพานต์   ท่านจงตักเอาน้ำจากแม่น้ำคงคานั้น
+<span class="LineNumber"> 014 </span>	      	ดื่มเถิด  จะมาขอน้ำกะเราทำไม.</B>
+<span class="LineNumber"> 015 </span>          นางเปรตกล่าวว่า
+<span class="LineNumber"> 016 </span>                		<B>ข้าแต่ท่านผู้เจริญ     ถ้าดิฉันตักน้ำในแม่น้ำ
+<span class="LineNumber"> 017 </span>     		คงคานี้เองไซร้    น้ำนั้นย่อมกลับกลายเป็นเลือด
+<span class="LineNumber"> 018 </span>	      	ปรากฏแก่ดิฉัน    เพราะฉะนั้น    ดิฉันจึงขอน้ำแก่
+<span class="LineNumber"> 019 </span>     		ท่าน.</B>

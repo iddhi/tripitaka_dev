@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  ขุรปุตฺตชาตกํ  หน้า 75
+	
+<span class="LineNumber"> 002 </span>อธิฏฺ€าย  รฺโ  รถสฺส  ปุรโต  อโหสิ  ฯ  ตํ  อชํ ราชา เจว
+<span class="LineNumber"> 003 </span>รเถ ยุตฺตสินฺธวา  จ  ปสฺสนฺติ  ฯ  อฺโ  โกจิ  น  ปสฺสติ  ฯ  อโช 
+<span class="LineNumber"> 004 </span>กถาย สมุฏฺ€าปนตฺถํ [๑] อชิกาย  สทฺธึ  เมถุนธมฺมํ  ปฏิเสวนฺโต 
+<span class="LineNumber"> 005 </span>วิย  อโหสิ  ฯ  ตเมโก  รเถ  ยุตฺตสินฺธโว  ทิสฺวา  สมฺม  อช  
+<span class="LineNumber"> 006 </span>มยํ  ปุพฺเพ  อชา  กิร  พาลา  อหิริกาติ  อสุมฺหา  น  จ  ตํ 
+<span class="LineNumber"> 007 </span>ปสฺสิมฺหา  ตฺวํ  ปน  รโห  ปฏิจฺฉนฺนฏฺ€าเน  กตฺตพฺพํ  อนาจารํ 
+<span class="LineNumber"> 008 </span>อมฺหากํ  เอตฺตกานํ  ปสฺสนฺตานฺเว  กโรสิ  น  ลชฺชสิ  ตํ  โน
+<span class="LineNumber"> 009 </span>ปุพฺเพ  สุตํ  อิมินา  ทิฏฺเ€น  สเมตีติ  วตฺวา ป€มํ คาถมาห  
+<span class="LineNumber"> 010 </span>	[๙๐๕]สจฺจํ กิเรวมาหํสุ  		กลกํ(๒) พาโลติ ปณฺฑิตา  
+<span class="LineNumber"> 011 </span>		ปสฺส พาโล รโหกมฺมํ  	อาวีกุพฺพํ(๓) น พุชฺฌตีติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  กลกนฺติ  อชํ  ฯ  ปณฺฑิตาติ  าณสมฺปนฺนา  ตํ 
+<span class="LineNumber"> 013 </span>พาโลติ  วทนฺติ  สจฺจํ  กิร  วทนฺติ  ฯ  ปสฺสาติ  อาลปนํ  ปสฺสถาติ  
+<span class="LineNumber"> 014 </span>อตฺโถ  ฯ  น พุชฺฌตีติ เอตํ กาตุํ น ยุตฺตนฺติ น ชานาติ ฯ  
+<span class="LineNumber"> 015 </span>		ตํ สุตฺวา อโช เทฺว คาถา อภาสิ  
+<span class="LineNumber"> 016 </span>	[๙๐๖]ตฺวํ นุ โข(๔) สมฺม พาโลสิ   ขุรปุตฺต วิชานหิ  
+<span class="LineNumber"> 017 </span>		รชฺชุยาหิ(๕) ปริกฺขิตฺโต  	วงฺโกฏฺโ€ โอหิโตมุโข ฯ  
+<span class="LineNumber"> 018 </span>	[๙๐๗]อปรํปิ สมฺม เต พาลฺยํ  	โย มุตฺโต น ปลายสิ  
+<span class="LineNumber"> 019 </span>		โส จ พาลตโร สมฺม  	ยํ ตฺวํ วหสิ เสนกนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร รถปุรโตติ ทิสฺสติ ฯ  ๒. ม. วสฺตํ ฯ
+<span class="LineNumber"> 021 </span># ๓. ส. ม. อาวิกุพฺพํ ฯ  ๔. ม. ตฺวํ โขปิ ฯ  ยุ. ตวฺจ โข ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. รชฺชุยา หิ ฯ 

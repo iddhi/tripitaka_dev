@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>อินทริยกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๘๐๑]   <B>สกวาที</B>  สัทธินทรีย์ที่เป็นโลกิยะไม่มี หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. ศรัทธาที่เป็นโลกิยะ ไม่มี  หรือ ?
+<span class="LineNumber"> 005 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 006 </span>                        ส. วิริยินทรีย์ สัทธินทรีย์  ฯลฯ  สมาธินทรีย์ ฯลฯ    ปัญ-
+<span class="LineNumber"> 007 </span>ญินทรีย์  ที่เป็นโลกิยะ ไม่มี หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                        ส.  ปัญญาที่เป็นโลกิยะ ไม่มี หรือ ?
+<span class="LineNumber"> 010 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 011 </span>         [๑๘๐๒]   ส. ศรัทธาที่เป็นโลกิยะมี  หรือ ?
+<span class="LineNumber"> 012 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                        ส. สัทธินทรีย์เป็นโลกิยะมี  หรือ ?
+<span class="LineNumber"> 014 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 015 </span>                        ส. วิริยะ  ฯลฯ   สติ  ฯลฯ สมาธิ  ฯลฯ  ปัญญาที่เป็นโลกิยะ
+<span class="LineNumber"> 016 </span>มี    หรือ  ?
+<span class="LineNumber"> 017 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                        ส. ปัญญินทรีย์ที่เป็นโลกิยะมี  หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 020 </span>         [๑๘๐๓]   ส. มโนที่เป็นโลกิยะมีอยู่    มนินทรีย์ที่เป็นโลกิยะก็มีอยู่
+<span class="LineNumber"> 021 </span>หรือ ?                                          
+<span class="LineNumber"> 022 </span>                        ป. ถูกแล้ว.

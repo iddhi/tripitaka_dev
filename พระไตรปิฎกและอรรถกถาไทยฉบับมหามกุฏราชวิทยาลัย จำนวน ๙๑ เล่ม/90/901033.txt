@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>					  <H1>กุสลติกกามาวจรทุกะ</H1>
+<span class="LineNumber"> 002 </span>			<H2>(๑.  กุสลติกะ  ๙๓.  กามาวจรทุกะ)</H2> 				
+<span class="LineNumber"> 003 </span>					<H1>กามาวจรบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				  	    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				            <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๘๑๒]  ๑.  กามาวจรธรรมที่เป็นกุศล  อาศัยกามาวจรธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นกุศล  เกิดขึ้น เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                      ๒.  กามาวจรธรรมที่เป็นอัพยากตะ  อาศัยกามาวจร-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                      ๓.  กามาวจรธรรมที่เป็นกุศล  และกามาวจรธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นอัพยากตะ  อาศัยกามาวจรธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 012 </span>ปัจจัย		
+<span class="LineNumber"> 013 </span>                      ๔.  กามาวจรธรรมที่เป็นอกุศล  อาศัยกามาวจรธรรม
+<span class="LineNumber"> 014 </span>ที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย มี ๓  วาระ (วาระที่ ๔-๕-๖)
+<span class="LineNumber"> 015 </span>                      ๗.  กามาวจรธรรมที่เป็นอัพยากตะ  อาศัยกามาวจร-
+<span class="LineNumber"> 016 </span>ธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 017 </span>                      ๘.  กามาวจรธรรมที่เป็นอัพยากตะ  อาศัยกามาวจร-
+<span class="LineNumber"> 018 </span>ธรรมที่เป็นกุศล  และกามาวจรธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 019 </span>เหตุปัจจัย
+<span class="LineNumber"> 020 </span>                      ๙.  กามาวจรธรรมที่เป็นอัพยากตะ  อาศัยกามาวจร-
+<span class="LineNumber"> 021 </span>ธรรมที่เป็นอกุศล  และกามาวจรธรรมที่เป็นอัพยากตะ  เกิดขึ้น
+<span class="LineNumber"> 022 </span>เพราะเหตุปัจจัย
+
+

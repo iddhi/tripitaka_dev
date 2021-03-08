@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>พระอภิธรรมปิฎก</H1>   
+<span class="LineNumber"> 002 </span>                                       <H3>เล่มที่  ๓</H3>
+<span class="LineNumber"> 003 </span>                                   <H1>ปุคคลปัญญัติ<SUP>๑</SUP></H1>
+<span class="LineNumber"> 004 </span><H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 005 </span>                                    <H1>อุทเทสวาระ</H1>
+<span class="LineNumber"> 006 </span>                       [๑]    <H1>บัญญัติ  ๖ ประการ  คือ</H1>
+<span class="LineNumber"> 007 </span>         <B>๑.  ขันธบัญญัติ</B>	      บัญญัติว่าเป็นขันธ์
+<span class="LineNumber"> 008 </span>         <B>๒.  อายตนบัญญัติ</B>         บัญญัติว่าเป็นอายตนะ
+<span class="LineNumber"> 009 </span>         <B>๓.  ธาตุบัญญัติ</B>              บัญญัติว่าเป็นธาตุ
+<span class="LineNumber"> 010 </span>         <B>๔.  สัจจบัญญัติ</B>              บัญญัติวาเป็นสัจจะ
+<span class="LineNumber"> 011 </span>         <B>๕.  อินทริยบัญญัติ</B>         บัญญัติว่าเป็นอินทรีย์
+<span class="LineNumber"> 012 </span>         <B>๖.  ปุคคลบัญญัติ</B>            บัญญัติว่าเป็นบุคคล
+
+<span class="LineNumber"> 013 </span>                                    <H1>๑. ขันธบัญญัติ</H1>
+<span class="LineNumber"> 014 </span>         [๒]  การบัญญัติธรรมที่เป็นหมวดหมู่กันว่า   <B>ขันธ์</B>   มีเท่าไร  ขันธ์
+<span class="LineNumber"> 015 </span>มี ๕ คือ
+<span class="LineNumber"> 016 </span>         <B>๑.  รูปขันธ์</B>   
+<span class="LineNumber"> 017 </span>         <B>๒.  เวทนาขันธ์</B>  
+
+<span class='footnote'>๑. บาลีเล่มที่  ๓๖.  คัมภีร์ที่  ๔</span>

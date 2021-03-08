@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>นิสสยปัจจัย   มี ๓ วาระ    ในอุปนิสสยปัจจัย   มี ๒ วาระ     นปุเรชาตปัจจัย 
+<span class="LineNumber"> 002 </span>มี ๓ วาระ   ในปัจฉาชาตปัจจัย มี ๓ วาระ   ในอาเสวนปัจจัย  มี ๑ วาระ   ใน
+<span class="LineNumber"> 003 </span>กัมมปัจจัย มี ๓ วาระ   ในวิปากปัจจัย มี ๓ วาระ  ในอาหารปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 004 </span>ในอินทริยปัจจัย มี ๓ วาระ  ในฌานปัจจัย มี ๓ วาระ   ในมัคคปัจจัย มี ๑ วาระ
+<span class="LineNumber"> 005 </span>ในสัมปยุตตปัจจัย  มี ๑ วาระ   ในวิปปยุตตปัจจัย   มี ๓ วาระ    ในอัตถิปัจจัย
+<span class="LineNumber"> 006 </span>มี ๕ วาระ  ในนัตถิปัจจัย มี ๑ วาระ   ในวิคตปัจจัย มี ๑ วาระ  ในอวิคตปัจจัย
+<span class="LineNumber"> 007 </span>มี ๕ วาระ.
+<span class="LineNumber"> 008 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 009 </span>                                           <I>อนุโลมนัย  จบ</I> 
+
+<span class="LineNumber"> 010 </span>                                              <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 011 </span>                                      <H1>การยกปัจจัยในปัจจนียะ</H1>
+<span class="LineNumber"> 012 </span>           [๒๑๖] ๑.  <B>สนิทัสสนธรรม     เป็นปัจจัยแก่อนิทัสสนธรรม
+<span class="LineNumber"> 013 </span>ด้วยอำนาจของอารัมมณปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของอุปนิสสย-
+<span class="LineNumber"> 014 </span>ปัจจัย.</B>
+<span class="LineNumber"> 015 </span>                       ๒.  <B>อนิทัสสนธรรม     เป็นปัจจัยแก่อนิทัสสนธรรม
+<span class="LineNumber"> 016 </span>ด้วยอำนาจของอารัมมณปัจจัย,    เป็นปัจจัย  ด้วยอำนาจของสหชาต-
+<span class="LineNumber"> 017 </span>ปัจจัย,   เป็นปัจจัย  ด้วยอำนาจของอุปนิสสยปัจจัย,     เป็นปัจจัย  ด้วย
+<span class="LineNumber"> 018 </span>อำนาจของปุเรชาตปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของปัจฉาชาตปัจจัย,</B>

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                           	<H1>สุขเวทนาบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                         		<H1>อนุโลมนัย</H1> 
+<span class="LineNumber"> 003 </span>                                      <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>		[๗๙]  ๑.  ธรรมที่สัมปยุตด้วยสุขเวทนาที่เป็นเหตุ  เป็นปัจจัย
+<span class="LineNumber"> 005 </span>แก่ธรรมที่สัมปยุตด้วยสุขเวทนาที่เป็นเหตุ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 006 </span>มี ๓ วาระ   (วาระที่  ๑-๒-๓)
+<span class="LineNumber"> 007 </span>                        	<H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 008 </span>		[๘๐]  ๑.  ธรรมที่สัมปยุตด้วยสุขเวทนาที่เป็นเหตุ   เป็นปัจจัย
+<span class="LineNumber"> 009 </span>แก่ธรรมที่สัมปยุตตด้วยสุขเวทนาที่เป็นเหตุ  ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 010 </span>ปัจจัย   มี ๓ วาระ.   (วาระที่ ๑-๒-๓)
+<span class="LineNumber"> 011 </span>              	     ๔.  ธรรมที่สัมปยุตด้วยสุขเวทนาที่ไม่ใช่เหตุ     เป็น
+<span class="LineNumber"> 012 </span>ปัจจัยแก่ธรรมที่สัมปยุตด้วยสุขเวทนาที่ไม่ใช่เหตุ     ด้วยอำนาจของ
+<span class="LineNumber"> 013 </span>อารัมมณปัจจัย   มี ๓ วาระ  (วาระที่ ๔-๕-๖)
+<span class="LineNumber"> 014 </span>                	 ๗.  ธรรมที่สัมปยุตด้วยสุขเวทนาที่เป็นเหตุ   และธรรม
+<span class="LineNumber"> 015 </span>ที่สัมปยุตด้วยสุขเวทนาที่ไม่ใช่เหตุทั้งหลาย    เป็นปัจจัยแก่ธรรมที่
+<span class="LineNumber"> 016 </span>สัมปยุตตด้วยสุขเวทนาที่เป็นเหตุ      ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 017 </span>มี ๓ วาระ  (วาระที่ ๗-๘-๙)

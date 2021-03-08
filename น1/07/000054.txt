@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	     <B>เอวํ  โข  สมฺมาสมฺโพธึ                       สมฺพุชฺฌิตฺวา  ตถาคโต 
+<span class="LineNumber"> 002 </span>	ป€มาภิสมฺพุทฺโธ  ว                                มูลสฺมึ  วรโพธิยา
+<span class="LineNumber"> 003 </span>	นิสีเทยฺย  ปลฺลงเกน                                สตฺตาหํ  อิสิสตฺตโม
+<span class="LineNumber"> 004 </span>	ปฏิสํเวทิ  วิมุตฺติ-                                    สุขํ  อริยเสวิตํ
+<span class="LineNumber"> 005 </span>	รตฺติยา  ป€มํ  ยามํ                                  อนุโลมวิโลมิกํ
+<span class="LineNumber"> 006 </span>	ปฏิจฺจสมุปฺปาทํ  โส                                มนสากาสิ  จกฺขุมา
+<span class="LineNumber"> 007 </span>	เอตมตฺถํ  วิทิตฺวาน                                  อุทานํ  สมุทีรยิ
+<span class="LineNumber"> 008 </span>			ยทา  หเว  ปาตุภวนฺติ   ธมฺมา
+<span class="LineNumber"> 009 </span>			อาตาปิโน  ฌายโต  พฺราหฺมณสฺส
+<span class="LineNumber"> 010 </span>			อถสฺส  กงฺขา  วปยนฺติ  สพฺพา
+<span class="LineNumber"> 011 </span>			ยโต  วิชานาติ  สเหตุธมฺมนฺติ.
+<span class="LineNumber"> 012 </span>	รตฺติยา  มชฺฌิมํ  ยามํ  		 ปจฺจยาการเมว  โส
+<span class="LineNumber"> 013 </span>	ตเถว  มนสิกตฺวา			อุทานํ  สมุทีรยิ
+<span class="LineNumber"> 014 </span>			ยทา  หเว  ปาตุภวนฺติ  ธมฺมา
+<span class="LineNumber"> 015 </span>			อาตาปิโน  ฌายโต  พฺราหฺมณสฺส
+<span class="LineNumber"> 016 </span>			อถสฺส  กงฺขา  วปยนฺติ  ธมฺมา
+<span class="LineNumber"> 017 </span>			อถสฺส  กงฺขา  วปยนฺติ  สพฺพา
+<span class="LineNumber"> 018 </span>			ยโต ขยํ  ปจฺจยานํ  อเวทีติ.
+<span class="LineNumber"> 019 </span>	รตฺติยา  ปจฺฉิมํ  ยามํ                     ปจฺจยาการเมว  โส
+<span class="LineNumber"> 020 </span>	ตเถว  มนสิกตฺวา                          อุทานํ  สมุทีรยิ
+<span class="LineNumber"> 021 </span>			ยทา  หเว   ปาตุภวนฺติ  ธมฺมา
+<span class="LineNumber"> 022 </span>			อาตาปิโน  ฌายโต  พฺราหมฺณสฺส</B>
+

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         เคยเกิด. 
+<span class="LineNumber"> 002 </span>         ก็หรือว่าอัพยากตธรรมไม่ใช่เคยเกิดแก่บุคคลใด,    กุศลธรรมก็
+<span class="LineNumber"> 003 </span>ไม่ใช่กำลังเกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ไม่มี.
+<span class="LineNumber"> 005 </span>         [๑๕๗]   อกุศลธรรมไม่ใช่กำลังเกิดแก่บุคคลใด,     อัพยากต-
+<span class="LineNumber"> 006 </span>ธรรมก็ไม่ใช่เคยเกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         เคยเกิด.
+<span class="LineNumber"> 008 </span>         ก็หรือว่าอัพยากตธรรมไม่ใช่เคยเกิดแก่บุคคลใด,    อกุศลธรรม
+<span class="LineNumber"> 009 </span>ก็ไม่ใช่กำลังเกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ไม่มี.
+<span class="LineNumber"> 011 </span><H1>โอกาสวาระ  ปัจจนิก</H1> :-
+<span class="LineNumber"> 012 </span>         [๑๕๘]   กุศลธรรมไม่ใช่กำลังเกิดในภูมิใด,   ฯลฯ
+<span class="LineNumber"> 013 </span><H1>ปุคคโลกาสวาระ  ปัจจนิก</H1> :-
+<span class="LineNumber"> 014 </span>         [๑๕๙]   กุศลธรรมไม่ใช่กำลังเกิดแก่บุคคลใดในภูมิใด,  อกุศล
+<span class="LineNumber"> 015 </span>ธรรมก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ในภังคขณะแห่งจิตของบุคคลทั้งหมดก็ดี    ในอุปปาทขณะแห่ง

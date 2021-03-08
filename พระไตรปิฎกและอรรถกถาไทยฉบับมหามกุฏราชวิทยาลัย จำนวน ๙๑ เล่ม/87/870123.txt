@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span><B>และเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม    เกิดขึ้น    เพราะ 
+<span class="LineNumber"> 002 </span>อารัมมณปัจจัย</B>
+<span class="LineNumber"> 003 </span>           คือ  ขันธ์ ๓ และโมหะ    อาศัยขันธ์ ๑ ที่สหรคตด้วยอุทธัจจะ  และ
+<span class="LineNumber"> 004 </span>หทยวัตถุ ฯลฯ ขันธ์ ๒ และ ฯลฯ.
+
+<span class="LineNumber"> 005 </span>                                  <H2>๓.  อธิปติปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๘๒๔] ๑.  <B>ทัสสเนนปหาตัพพเหตุกธรรม    อาศัยทัสสเนน-
+<span class="LineNumber"> 007 </span>ปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย   มี ๓ วาระ.</B>
+<span class="LineNumber"> 008 </span>                       ๔.  <B>อาศัยภาวนาย ฯลฯ  มี ๓ วาระ.</B>
+<span class="LineNumber"> 009 </span>                       ๗.  <B>เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 010 </span>อาศัยเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม ฯลฯ เพราะอธิปติ
+<span class="LineNumber"> 011 </span>ปัจจัย  มี ๑ วาระ.</B>
+<span class="LineNumber"> 012 </span>           คือ     ขันธ์ทั้งหลายที่เป็นเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 013 </span>อาศัยหทยวัตถุ.
+<span class="LineNumber"> 014 </span>                       ๘.  <B>ทัสสเนนปหาตัพพเหตุกธรรม    อาศัยเนวทัสส-
+<span class="LineNumber"> 015 </span>เนนนภาวนายปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  ขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม อาศัยหทยวัตถุ.
+<span class="LineNumber"> 017 </span>                       ๙.  <B>ภาวนายปหาตัพพเหตุกธรรม    อาศัยเนวทัสส-
+<span class="LineNumber"> 018 </span>เนนนภาวนายปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 019 </span>           คือ ขันธ์ทั้งหลายที่เป็นภาวนายปหาตัพพเหตุกธรรม   อาศัยหทยวัตถุ.

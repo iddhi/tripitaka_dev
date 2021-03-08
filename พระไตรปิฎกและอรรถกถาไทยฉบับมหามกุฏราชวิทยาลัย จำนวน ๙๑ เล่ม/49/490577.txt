@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>๑๒.  อัมพวนเปตวัตถุ</H1>    
+
+<span class="LineNumber"> 002 </span>                  	<H2>ว่าด้วยเปรตฝากทรัพย์ไปให้ลูกใช้หนี้</H2>
+
+<span class="LineNumber"> 003 </span>          พวกพ่อค้าได้ถามเวมานิกเปรตตนหนึ่งว่า :- 
+<span class="LineNumber"> 004 </span>          <B>[๑๓๒]     สระโบกขรณีของท่านนี้น่ารื่นรมย์ดี    มี
+<span class="LineNumber"> 005 </span>               	พื้นราบเรียบ  มีท่าอันงดงาม  มีน้ำมาก  ดารดาษ
+<span class="LineNumber"> 006 </span>              	ไปด้วยปทุมชาติต่าง ๆ   มีดอกอันบานดีเกลื่อน-
+<span class="LineNumber"> 007 </span>              	กล่นด้วยหมู่ภมร   ท่านได้สระโบกขรณี   อันเป็น
+<span class="LineNumber"> 008 </span>               	ที่ฟูใจนี้อย่างไร     สวนมะม่วงของท่านนี้น่า
+<span class="LineNumber"> 009 </span>               	รื่นรมย์ดี    เผล็ดผลทุกฤดู    มีดอกบานเป็นนิตย์
+<span class="LineNumber"> 010 </span>              	นิรันดร์  เกลื่อนกล่นด้วยหมู่ภมร   ท่านได้วิมาน
+<span class="LineNumber"> 011 </span>                	นี้อย่างไร.</B>
+<span class="LineNumber"> 012 </span>        เวมานิกเปรตนั้นตอบว่า :-
+<span class="LineNumber"> 013 </span>                          <B>สระโบกขรณีมีร่มเงาอันเยือกเย็น     น่า
+<span class="LineNumber"> 014 </span>               	รื่นรมย์ใจ    ข้าพเจ้าได้ในที่นี้    เพราะทานที่ธิดา
+<span class="LineNumber"> 015 </span>                	ของข้าพเจ้าถวายมะม่วงสุก   น้ำ  ข้าวยาคู  แด่
+<span class="LineNumber"> 016 </span>              	พระผู้มีพระภาคเจ้าและพระภิกษุสงฆ์ทั้งหลาย.</B>
+<span class="LineNumber"> 017 </span>          เวมานิกเปรตนั้น    ครั้นกล่าวอย่างนี้แล้ว     จึงนำพวกพ่อค้า
+<span class="LineNumber"> 018 </span>ไปดูทรัพย์  ๕๐๐ กหาปณะ  แล้วสั่งว่า  พวกท่านจงถือเอาเป็นส่วนตัว
+<span class="LineNumber"> 019 </span>กึ่งหนึ่งจากทรัพย์นี้    แล้วให้ธิดาของเราใช้หนี้ที่เรายืมเขามากึ่งหนึ่ง
+<span class="LineNumber"> 020 </span>เถิด.

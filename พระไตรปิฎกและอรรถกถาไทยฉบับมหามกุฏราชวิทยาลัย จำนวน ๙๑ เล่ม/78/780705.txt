@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>เกิดขึ้น  ฉันใด  กายสุจริตเป็นต้น    ย่อมให้วิบากอันน่าปรารถนา   น่าชอบใจ
+<span class="LineNumber"> 002 </span>ให้เกิดขึ้น  ย่อมไม่ยังวิบากอันไม่น่าปรารถนาให้เกิดขึ้น  ฉันนั้น.
+<span class="LineNumber"> 003 </span>           สมจริงดังที่ได้ตรัสไว้ว่า
+<span class="LineNumber"> 004 </span>           <B>ยาทิสํ  วปเต  พีชํ       ตาทิสํ  หรเต  ผลํ</B>
+<span class="LineNumber"> 005 </span>           <B>กลฺยาณการี  กลฺยาณํ    ปาปการี  จ  ปาปกํ</B><SUP>๑</SUP> 
+<span class="LineNumber"> 006 </span>                                           แปลว่า
+<span class="LineNumber"> 007 </span>           <B>บุคคลหว่านพืชเช่นใด   ย่อมได้ผลเช่นนั้น     ผู้ทำดีย่อมได้ดี
+<span class="LineNumber"> 008 </span>ผู้ทำชั่วย่อมได้ชั่ว.</B>                                                  
+<span class="LineNumber"> 009 </span>           เพราะฉะนั้น    พระผู้มีพระภาคเจ้าจึงตรัสว่า   <B>ข้อที่กายทุจจริตเป็น
+<span class="LineNumber"> 010 </span>ต้น  จะพึงให้ผลที่น่าปรารถนา  น่าใคร่  น่าพอใจนั้น  ไม่ใช่ฐานะ
+<span class="LineNumber"> 011 </span>ไม่ใช่โอกาส  ดังนี้  เป็นต้น.</B>
+
+<span class="LineNumber"> 012 </span>                <H1>อธิบายบุคคลผู้พรั่งพร้อมด้วยกายทุจจริตเป็นต้น</H1>
+<span class="LineNumber"> 013 </span>           คำว่า  <B>บุคคลผู้พรั่งพร้อม</B>  ในคำว่า    ผู้พรั่งพร้อมด้วยกายทุจจริต
+<span class="LineNumber"> 014 </span>เป็นต้น   ได้แก่ความพรั่งพร้อม ๕ อย่าง   คือ
+<span class="LineNumber"> 015 </span>           <B>อายูหนสมงฺคิตา    (ความพรั่งพร้อม    ด้วยกรรมเป็นเครื่อง
+<span class="LineNumber"> 016 </span>ประมวลมา)</B>
+<span class="LineNumber"> 017 </span>           <B>เจตนาสมงฺคิตา  (ความพรั่งพร้อม  ด้วยเจตนา)</B>
+<span class="LineNumber"> 018 </span>           <B>กมฺมสมงฺคิตา  (ความพรั่งพร้อม  ด้วยกรรม)</B>
+<span class="LineNumber"> 019 </span>           <B>วิปากสมงฺคิตา  (ความพรั่งพร้อม  ด้วยวิบาก)</B>
+<span class="LineNumber"> 020 </span>           <B>อุปฏฺ€านสมงฺคิตา  (ความพรั่งพร้อม   ด้วยการปรากฏ)</B>
+<span class='footnote'>๑.  ขุ.ชา.  ๒๗/ข้อ  ๒๙๔</span>

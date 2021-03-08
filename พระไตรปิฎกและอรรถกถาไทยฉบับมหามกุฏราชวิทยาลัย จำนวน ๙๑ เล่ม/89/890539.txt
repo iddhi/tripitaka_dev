@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>๙.  ปัจฉาชาตปัจจัย    ๑๐.  นอาเสวนปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>ฯลฯ   เพราะนปัจฉาชาตปัจจัย</B>
+<span class="LineNumber"> 003 </span>         <B>ฯลฯ   เพราะนอาเสวนปัจจัย</B>
+ 
+<span class="LineNumber"> 004 </span>                                       <H2>๑๑.  นกัมมปัจจัย</H2> 
+<span class="LineNumber"> 005 </span>         [๔๘๔]  ๑.  <B>ธรรมที่ไม่ใช่กิเลส อาศัยธรรมที่เป็นกิเลสเกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ   สัมปยุตตเจตนา   อาศัยกิเลสทั้งหลาย.
+<span class="LineNumber"> 008 </span>                      ๒.   <B>ธรรมที่ไม่ใช่กิเลส  อาศัยธรรมที่ไม่ใช่กิเลส เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ  สัมปยุตตเจตนา  อาศัยขันธ์ทั้งหลายที่ไม่ใช่กิเลส.
+<span class="LineNumber"> 011 </span>         พาหิรรูป...  อาหารสมุฏฐานรูป...  อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 012 </span>                      ๓.  <B>ธรรมที่ไม่ใช่กิเลส  อาศัยธรรมที่เป็นกิเลส   และ
+<span class="LineNumber"> 013 </span>ธรรมที่ไม่ใช่กิเลส  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ   สัมปยุตตเจตนา   อาศัยกิเลส   และสัมปยุตตขันธ์ทั้งหลาย.
+<span class="LineNumber"> 015 </span>         ปัจจัยทั้งปวง  พึงกระทำอย่างนี้.
+
+<span class="LineNumber"> 016 </span>                     <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 017 </span>         [๔๘๕]  ในนเหตุปัจจัย มี ๔ วาระ  ในนอารัมมณปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 018 </span>ในนอธิปติปัจจัย  มี ๙ วาระ  ในนอนันตรปัจจัย  มี ๓ วาระ  ในนสมนันตร-
+<span class="LineNumber"> 019 </span>ปัจจัย   มี ๓ วาระ   ในนอัญญมัญญปัจจัย  มี ๓ วาระ   ในนอุปนิสสยปัจจัย

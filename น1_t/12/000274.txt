@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                             ธรรมเป็นเครื่องแก้อุปกิเลส  
+<span class="LineNumber"> 002 </span>	๑.   สันโดษ,   อนภิชฌา.      ๒.  ศีล,   เมตตา.    ๓.   ศีล,   เมตตา.
+<span class="LineNumber"> 003 </span>๔.   ปฏินิสสัคคะ,   เมตตา.    ๕.   กตัญญู.     ๖.   อปจายนะ   ๗.   มุทิตา
+<span class="LineNumber"> 004 </span>๘.   ทาน     ๙.   สัจจะ   ๑๐.  อัปปิจฉตา,   สัปปุริสธรรม,   ๑๑.  โสวจัสสตา
+<span class="LineNumber"> 005 </span>๑๒.   อัตตตัญญุตา,      มัตตัญญุตา.     ๑๓.   อปจายนะ    ๑๔.  อปจายนะ
+<span class="LineNumber"> 006 </span>๑๕.  สติ    ๑๖.   สติ.
+<span class="LineNumber"> 007 </span>                                คำถามสอบความเข้าใจ 
+<span class="LineNumber"> 008 </span>	๑.   อภิชฌาวิสมโลภะ    กับโลภะ   ต่างกันอย่างไร  ?
+<span class="LineNumber"> 009 </span>	๒.  โทสะ    โกธะ    อุปนาหะ    ต่างกันอย่างไร  ?
+<span class="LineNumber"> 010 </span>	๓.   อิสสา    มัจฉริยะ    มีลักษณะต่างกันอย่างไร  ?
+<span class="LineNumber"> 011 </span>	๔.   มานะ    อติมานะ     มีลักษณะอย่างไร  ?
+<span class="LineNumber"> 012 </span>	๕.   ธรรมอะไรชื่อว่าอุปกิเลสมีกี่อย่าง  ?   จะแก้ด้วยอะไร  ?
+
+<span class="LineNumber"> 013 </span>				<B>	ต้นเอ๋ย     ต้นหม่น
+<span class="LineNumber"> 014 </span>				เอารากฝน   น้ำเย็น   เป็นกระสาย
+<span class="LineNumber"> 015 </span>				ใช้ทาแก้    คางทูม    ฟกฟูมกาย
+<span class="LineNumber"> 016 </span>				เย็นสบาย    หายฟก    อย่าตกใจ.
+<span class="LineNumber"> 017 </span>					ถึงบางคราว   เจ็บอก   แสนฟกช้ำ
+<span class="LineNumber"> 018 </span>				ศรรักตำ    โกรธตอก   ย้อนยอกใหญ่
+<span class="LineNumber"> 019 </span>				เจ็บเต็มทน   หม่นหมอง   กลัดหนองใน
+<span class="LineNumber"> 020 </span>	 			ชะโลมใจ     ด้วยธรรม   หายช้ำ    เอย.</B>
+<span class="LineNumber"> 021 </span>										<B>ศรี  ฯ   นคร.</B>

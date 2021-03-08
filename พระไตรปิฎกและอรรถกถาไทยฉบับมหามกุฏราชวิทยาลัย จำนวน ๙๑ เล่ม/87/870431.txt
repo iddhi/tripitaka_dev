@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ในปฏิสนธิขณะ     หทยวัตถุเป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นมหัคคต- 
+<span class="LineNumber"> 002 </span>ธรรม   ด้วยอำนาจของอัตถิปัจจัย. 
+<span class="LineNumber"> 003 </span>           ที่เป็น   <B>ปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 004 </span>           บุคคลเห็นรูปด้วยทิพยจักษุ   ฟังเสียงด้วยทิพโสตธาตุ.
+<span class="LineNumber"> 005 </span>           หทยวัตถุ   เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นมหัคคตธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 006 </span>ของอัตถิปัจจัย.
+<span class="LineNumber"> 007 </span>           [๑๕๑๑] ๓.  <B>ปริตตธรรม  เป็นปัจจัยแก่อัปปมาณธรรม   ด้วย
+<span class="LineNumber"> 008 </span>อำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 009 </span>           มีอย่างเดียว  คือที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 010 </span>           หทยวัตถุที่เกิดก่อน    เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นอัปปมาณธรรม
+<span class="LineNumber"> 011 </span>ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 012 </span>           [๑๕๑๒] ๔.  <B>มหัคคตธรรม  เป็นปัจจัยแก่มหัคคตธรรม  ด้วย
+<span class="LineNumber"> 013 </span>อำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  ขันธ์ ๑ ที่เป็นมหัคคตธรรม  เป็นปัจจัยแก่ขันธ์ ๓ ฯลฯ ขันธ์ ๒
+<span class="LineNumber"> 015 </span>ฯลฯ
+<span class="LineNumber"> 016 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 017 </span>           [๑๕๑๓] ๕.  <B>มหัคคตธรรม   เป็นปัจจัยแก่ปริตตธรรม   ด้วย
+<span class="LineNumber"> 018 </span>อำนาจของอัตถิปัจจัย</B>
+
+

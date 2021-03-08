@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  189
+
+<span class="LineNumber"> 002 </span>		มณิโจรชาตกํ  
+<span class="LineNumber"> 003 </span>	น  สนฺติ  เทวา  ปวสนฺติ  นูนาติ  อิทํ  สตฺถา  เวฬุวเน
+<span class="LineNumber"> 004 </span>วิหรนฺโต  วธาย ปริสกฺกนฺตํ เทวทตฺตํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	ตทา ปน สตฺถา เทวทตฺโต  วธาย  ปริสกฺกตีติ  สุตฺวา 
+<span class="LineNumber"> 006 </span>น  ภิกฺขเว  อิทาเนว  ปุพฺเพปิ  เทวทตฺโต  มยฺหํ  วธาย
+<span class="LineNumber"> 007 </span>ปริสกฺกติ  เยว  ปริสกฺกนฺโตปิ  มํ วธิตุํ นาสกฺขีติ วตฺวา อตีตํ 
+<span class="LineNumber"> 008 </span>อาหริ ฯ  
+<span class="LineNumber"> 009 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 010 </span>พาราณสิโต  อวิทูเร  คามเก  คหปติกุเล  นิพฺพตฺติ ฯ  อถสฺส  
+<span class="LineNumber"> 011 </span>วยปฺปตฺตสฺส  พาราณสิโต  กุลธีตรํ  อาเนสุํ ฯ  สา  ปิยา (๑)
+<span class="LineNumber"> 012 </span>อโหสิ  อภิรูปา  ทสฺสนียา  เทวจฺฉรา  วิย  ปุปฺผลตา  วิย 
+<span class="LineNumber"> 013 </span>วิลาสมานา (๒) มตฺตกินฺนรี  วิย  จ  สุชาตาติ  นาเมน  ปติพฺพตา 
+<span class="LineNumber"> 014 </span>สีลาจารสมฺปนฺนา  วตฺตสมฺปนฺนา ฯ  นิจฺจกาลมฺปิสฺสา  ปติวตฺตํ 
+<span class="LineNumber"> 015 </span>สสฺสุวตฺตํ  สสุรวตฺตฺจ  กตเมว  โหติ ฯ  สา  โพธิสตฺตสฺส 
+<span class="LineNumber"> 016 </span>ปิยา  อโหสิ  มนาปา ฯ อิติ เต  อุโภปิ  สมฺโมทมานา 
+<span class="LineNumber"> 017 </span>เอกคฺคจิตฺตา (๓)  สมคฺคสํวาสํ  วสึสุ ฯ  อเถกทิวสํ  สุชาตา 
+<span class="LineNumber"> 018 </span>มาตาปิตโร  ทฏฺ€ุกามมฺหีติ  โพธิสตฺตสฺส  อาโรเจสิ ฯ  โส (๔) สาธุ 
+<span class="LineNumber"> 019 </span>ภทฺเท  มคฺเค  ปาเถยฺยํ  ปโหนกํ  ปฏิยาเทหีติ  ขชฺชกวิกตึ  
+<span class="LineNumber"> 020 </span>ปจาเปตฺวา  ขชฺชกาทีนิ  ยานเก  €เปตฺวา  ยานกํ  ปาเชนฺโต 
+<span class="LineNumber"> 021 </span># ๑. ม. สุวณฺณวณฺณา ฯ  ๒. ม. ลฬมานา ฯ  ๓. ม. เอกจิตฺตา ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. อยํ ปาโ€ นตฺถิ ฯ

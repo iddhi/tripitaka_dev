@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๙  สุนฺทรีสุตฺตวณฺณนา  หน้า  ๓๙๙
+		
+<span class="LineNumber"> 002 </span>		กมฺมุโน  ตสฺส  เสเสน  โสทานิ  สกลํ  มม  
+<span class="LineNumber"> 003 </span>		ปาเท  ฉวึ  วินาเสสิ  (๑)  น  หิ  กมฺมํ  วินสฺสติ ฯ  
+<span class="LineNumber"> 004 </span>		อหํ  เกวฏฺฏคามสฺมึ  อหุํ  เกวฏฺฏทารโก  
+<span class="LineNumber"> 005 </span>		มจฺฉเก  ฆาติเต  ทิสฺวา  ชนยึ  โสมนสฺสหํ(๒) ฯ  
+<span class="LineNumber"> 006 </span>		เตน  กมฺมวิปาเกน  สีสทุกฺขํ  อหู  มม  
+<span class="LineNumber"> 007 </span>		สกฺยา  จ  สพฺเพ  หฺึสุ  ยทา  หนิ  วิฑูฑโภ ฯ  (๓)  
+<span class="LineNumber"> 008 </span>		ผุสฺสสฺสาหํ  ปาวจเน  สาวเก  ปริภาสยึ  
+<span class="LineNumber"> 009 </span>		ยวํ  ขาทถ  ภุฺชถ  มา  จ  ภุฺชถ  สาลิโย ฯ  
+<span class="LineNumber"> 010 </span>		เตน  กมฺมวิปาเกน  เตมาสํ  ขาทิตํ  ยวํ  
+<span class="LineNumber"> 011 </span>		นิมนฺติโต  พฺราหฺมเณน  เวรฺชายํ  วสึ  ตทา ฯ  
+<span class="LineNumber"> 012 </span>		นิพฺพุทฺเธ  วตฺตมานมฺหิ  มลฺลปุตฺตํ  นิเส€ยึ  (๔)  
+<span class="LineNumber"> 013 </span>		เตน  กมฺมวิปาเน  ปิฏฺ€ิทุกฺขํ  อหู  มม ฯ  
+<span class="LineNumber"> 014 </span>		ติกิจฺฉโก  อหํ  อาสึ  เสฏฺ€ิปุตฺตํ  วิเรจยึ  
+<span class="LineNumber"> 015 </span>		เตน  กมฺมวิปาเกน  โหติ  ปกฺขนฺทิกา  มม ฯ  
+<span class="LineNumber"> 016 </span>		อวจาหํ  โชติปาโล  กสฺสปํ  สุคตํ  ตทา  
+<span class="LineNumber"> 017 </span>		กุโต  นุ  โพธิ  มุณฺฑสฺส  โพธิ  ปรมทุลฺลภา ฯ  
+<span class="LineNumber"> 018 </span>		เตน  กมฺมวิปาเกน  อจรึ  (๕)  ทุกฺกรํ  พหุํ  
+<span class="LineNumber"> 019 </span>		ฉพฺพสฺสานุรุเวลายํ  ตโต  โพธึ  อปาปุณึ ฯ  
+<span class="LineNumber"> 020 </span>		นาหํ  เอเตน  มคฺเคน  ปาปุณึ  โพธิมุตฺตมํ  
+<span class="LineNumber"> 021 </span>#  ๑.  ม.  ปกปฺเปสิ ฯ  ๒.  ม.  โสมนสฺสกํ ฯ  ๓.  ม.  วิฏฏูโก ฯ  
+<span class="LineNumber"> 022 </span>#  ๔.  สี.  มลฺลยุทฺธํ  นิโยชยึ ฯ  ม.  มลฺลยุทฺธํ  วิเห€ยึ ฯ  ๕.  ม.  อจรึ ฯ

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>ปัจจนียนัย
+<span class="LineNumber"> 002 </span>                            ๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>           [๖๙๖] ๑. <B>ปรามาสวิปยุตตธรรม  อาศัยปรามาสวิปปยุตต-
+<span class="LineNumber"> 004 </span>ธรรม เกิดขึ้น เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑  ที่เป็นปรามาส-
+<span class="LineNumber"> 006 </span>วิปปยุตตธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ ขันธ์ ๒.
+<span class="LineNumber"> 007 </span>           ในอเหตุกปฏิสนธิขณะ  ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 008 </span>           โมหะ  ที่สหรคตด้วยวิจิกิจฉา ที่สหรคตด้วยอุทธัจจะ อาศัยขันธ์
+<span class="LineNumber"> 009 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 010 </span>                              <H2>๒. นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 011 </span>           [๖๙๗] ๑.  <B>ปรามาสวิปปยุตตธรรม   อาศัยปรามาสสัมปยุตต-
+<span class="LineNumber"> 012 </span>ธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ จิตตสมุฏฐานรูป อาศัยขันธ์ทั้งหลายที่เป็นปรามาสสัมปยุตตธรรม.
+<span class="LineNumber"> 014 </span>                       ๒.  <B>ปรามาสวิปปยุตตธรรม   อาศัยปรามาสวิปปยุตต-
+<span class="LineNumber"> 015 </span>ธรรม เกิดขึ้น เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ จิตตสมุฏฐานรูป อาศัยขันธ์ทั้งหลายที่เป็นปรามาสวิปปยุตต-
+<span class="LineNumber"> 017 </span>ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 018 </span>                       ๓.  <B>ปรามาสวิปปยุตตธรรม  อาศัยปรามาสสัมปยุตต-
+<span class="LineNumber"> 019 </span>ธรรม  และปรามาสวิปปยุตตธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>

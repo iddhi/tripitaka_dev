@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  776
+	
+<span class="LineNumber"> 002 </span>		คเวสมาโน ปสฺเสยฺย	ภูตวิชฺชาสุ โกวิทํ  
+<span class="LineNumber"> 003 </span>		ตสฺส โส วิหเน(๑) ภูตํ	สมูลฺจ วินาสเย ฯ  
+<span class="LineNumber"> 004 </span>		ตเถวาหํ มหาวีร		ตมคฺคาเหน ปีฬิโต  
+<span class="LineNumber"> 005 </span>		าณาโลกํ  คเวสามิ	ตมโต  ปริมุตฺติยา ฯ
+<span class="LineNumber"> 006 </span>		อถทฺทสํ สกฺยมุนึ		กิเลสตมโสธนํ  
+<span class="LineNumber"> 007 </span>		โส เม ตมํ วิโนเทสิ	ภูตเวชฺโชว ภูตกํ(๒) ฯ  
+<span class="LineNumber"> 008 </span>		สํสารโสตํ สฺฉินฺทึ	ตณฺหาโสตํ นิวารยึ  
+<span class="LineNumber"> 009 </span>		ภวํ อุคฺฆาฏยึ(๓) สพฺพํ	ภูตเวชฺโชว มูลโต ฯ  
+<span class="LineNumber"> 010 </span>		ครุโฬ ยถา โอปตติ (๔)	ปนฺนคํ ภกฺขมตฺตโน  
+<span class="LineNumber"> 011 </span>		สมนฺตา โยชนสตํ		วิกฺโขเภติ มหาสรํ ฯ  
+<span class="LineNumber"> 012 </span>		ปนฺนคํ โส คเหตฺวาน	อโธสีสํ วิเห€ยํ (๕)  
+<span class="LineNumber"> 013 </span>		อาทาย โส ปกฺกมติ	เยนกามํ วิหงฺคโม ฯ  
+<span class="LineNumber"> 014 </span>		ตเถวาหํ มหาวีร		ยถาปิ ครุโฬ พลี (๖)  
+<span class="LineNumber"> 015 </span>		อสงฺขตํ คเวสนฺโต		โทเส วิกฺขาลยึ อหํ ฯ  
+<span class="LineNumber"> 016 </span>		ทิฏฺโ€ อหํ ธมฺมวรํ		สนฺติปทมนุตฺตรํ  
+<span class="LineNumber"> 017 </span>		อาทาย วิหราเมตํ		ครุโฬ ปนฺนคํ ยถา ฯ  
+<span class="LineNumber"> 018 </span>		อาสาวตี นาม ลตา	ชาตา จิตฺตลตาวเน  
+<span class="LineNumber"> 019 </span>		ตสฺสา วสฺสสหสฺเสน	เอกํ นิพฺพตฺตเต ผลํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. วิหฺเ ฯ สี. วิหิเต ฯ  ๒. สฺยา. ภูติกํ ฯ  
+<span class="LineNumber"> 021 </span># ๓. สฺยา. อุคฺฆาตยึ ฯ ม. อุคฺฆาฏยึ ฯ  ๔. สี. โอปติตํ ฯ 
+<span class="LineNumber"> 022 </span># ๕. สี. วิโป€ยํ ฯ  ๖. สี. พลํ ฯ 

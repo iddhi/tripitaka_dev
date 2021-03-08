@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         จิต   และสัมปยุตตขันธ์ทั้งหลาย   อาศัยหทยวัตถุ.
+<span class="LineNumber"> 002 </span>         ในปฏิสนธิขณะ    ขันธ์ ๒,  จิต  และกฏัตตารูป  อาศัยขันธ์  ๑  ที่ไม่
+<span class="LineNumber"> 003 </span>ใช่จิต  ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 004 </span>         ในปฏิสนธิขณะ  จิต   และสัมปยุตตขันธ์ทั้งหลาย  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 005 </span>                  ๕.  <B>ธรรมที่ไม่ใช่จิต   อาศัยธรรมที่เป็นจิต   และธรรม
+<span class="LineNumber"> 006 </span>ที่ไม่ใช่จิต  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  ขันธ์ ๒  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑   ที่ไม่ใช่จิต   และ
+<span class="LineNumber"> 008 </span>จิต ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 009 </span>         ขันธ์ทั้งหลายที่ไม่ใช่จิต   อาศัยจิตและหทยวัตถุ.
+<span class="LineNumber"> 010 </span>         ในปฏิสนธิขณะ  ขันธ์ ๒  และกฏัตตารูป  อาศัยขันธ์  ๑  ที่ไม่ใช่จิต
+<span class="LineNumber"> 011 </span>และจิต  ฯลฯ  ขันธ์ ๒. 
+<span class="LineNumber"> 012 </span>         ในปฏิสนธิขณะ  ขันธ์ทั้งหลายที่ไม่ใช่จิต    อาศัยจิตและหทยวัตถุ.
+
+<span class="LineNumber"> 013 </span>           <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 014 </span>         [๕๒] ๑.  <B>ธรรมที่ไม่ใช่จิต      อาศัยธรรมที่เป็นจิต     เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะอารัมมณปัจจัย</B>  มี ๑ วาระ  เหมือนกับปฏิจจวาระ.
+<span class="LineNumber"> 016 </span>                  ๒.  <B>ธรรมที่ไม่ใช่จิต    อาศัยธรรมที่ไม่ใช่จิต   เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 018 </span>         คือ  ขันธ์ ๒  อาศัยขันธ์ ๑  ที่ไม่ใช่จิต  ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 019 </span>         ในปฏิสนธิขณะ  ขันธ์ทั้งหลายที่ไม่ใช่จิต   อาศัยหทยวัตถุ.

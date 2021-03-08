@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>	นักเทศก์ที่ดีต้องมีคุณสมบัติทั้ง  ๕   ประการเหล่านี้   นักเทศก์ใดไม่ 
+<span class="LineNumber"> 002 </span>ประกอบด้วยคุณสมบัติดังกล่าว   ย่อมไม่มีใครนิยมนับถือ   ไม่มีใครสนใจ
+<span class="LineNumber"> 003 </span>ปฏิบัติตาม    เพราะฉะนั้น   ท่านจึงเตือนไว้ในตอนท้ายว่า   ภิกษุผู้เป็น
+<span class="LineNumber"> 004 </span>ธรรมกถึกพึงตั้งองค์    ๕   อย่างนี้ไว้ในตน.
+<span class="LineNumber"> 005 </span>                                 คำถามสอบความเข้าใจ 
+<span class="LineNumber"> 006 </span>	๑.   คำว่าแสดงธรรมไปโดยลำดับ   กับ   คำว่าไม่ตัดลัดให้ขาดควา
+<span class="LineNumber"> 007 </span>               มีอธิบายอย่างไร  ?
+<span class="LineNumber"> 008 </span>	๒.  ผู้แสดงธรรม   ควรแสดงอย่างไร   ให้ผู้ฟังเข้าใจ  ?
+<span class="LineNumber"> 009 </span>	๓.   ผู้แสดงธรรมแสดงโดยมุ่งความสนุกเฮฮา   หาสาระมิได้   ชื่อว่
+<span class="LineNumber"> 010 </span>                ขาดคุณสมบัติข้อใด  ?
+<span class="LineNumber"> 011 </span>	๔.   การแสดงธรรมกระทบตนและผู้อื่นนั้น   คือแสดงอย่างไร  ?
+<span class="LineNumber"> 012 </span>	๕.   คำว่านักเทศก์   ได้แก่ใคร  ?   นักเทศก์ควรมีคุณสมบัติอย่างไร  ?
+						
+<span class="LineNumber"> 013 </span>				<B>	ปฐมวัยสนใจด้าน                   ศึกษา
+<span class="LineNumber"> 014 </span>				มัชฌิมวัยเสาะหา                            ทรัพย์ไว้
+<span class="LineNumber"> 015 </span>				ปัจฉิมวัยเป็นครา-                            คราวก่อ     กุศลแฮ
+<span class="LineNumber"> 016 </span>				สามวัยใครทำได                               ชีพนี้สุขสันต์.</B>
+<span class="LineNumber"> 017 </span>												<B>ศรี  ฯ   นคร.</B>

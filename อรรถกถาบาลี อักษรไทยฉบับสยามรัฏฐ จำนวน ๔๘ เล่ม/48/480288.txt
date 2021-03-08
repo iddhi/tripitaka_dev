@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  กถาวตฺถุปฺปกรณวณฺณนา หน้า  288
+
+<span class="LineNumber"> 002 </span>วิปริเยสสมุคฺฆาตนํ มคฺคาณมฺปิ เต วิปรีตํ โหตูติ ทสฺสนตฺถํ
+<span class="LineNumber"> 003 </span>วุตฺตนฺติ ฯ 
+<span class="LineNumber"> 004 </span>		วิปรีตกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 005 </span>			นิยามกถาวณฺณนา 
+<span class="LineNumber"> 006 </span>	อิทานิ  นิยามกถา  นาม  โหติ ฯ  ตตฺถ  โย  ปุคฺคโล 
+<span class="LineNumber"> 007 </span>สมฺมตฺตนิยามํ  โอกฺกมิสฺสติ  ตํ  ภพฺโพ  เอส  ธมฺมํ  อภิสเมตุนฺติ
+<span class="LineNumber"> 008 </span>ยสฺมา ภควา ชานาติ  ตสฺมา  อนิยตสฺส  ปุถุชฺชนสฺเสว  สโต 
+<span class="LineNumber"> 009 </span>ปุคฺคลสฺส  นิยามคมนาย  าณํ  อตฺถีติ  เยสํ  ลทฺธิ  เสยฺยถาปิ
+<span class="LineNumber"> 010 </span>เอตรหิ  อุตฺตราปถกานํ เต สนฺธาย อนิยตสฺสาติ ปุจฺฉา
+<span class="LineNumber"> 011 </span>สกวาทิสฺส ฯ  ตตฺถ  นิยามคมนายาติ  นิยาโม  วุจฺจติ  มคฺโค
+<span class="LineNumber"> 012 </span>มคฺคคมนาย  มคฺโคกฺกมนายาติ  อตฺโถ ฯ  ยมฺปนสฺส  าณํ
+<span class="LineNumber"> 013 </span>ทิสฺวา  ภควา  ภพฺโพ  อยนฺติ  ชานาติ ตํ สนฺธาย ปฏิฺา
+<span class="LineNumber"> 014 </span>ปรวาทิสฺส ฯ 
+<span class="LineNumber"> 015 </span>	อถสฺส  สกวาที  อยุตฺตนฺติ(๑)  ทีเปตุํ  นิยตสฺสาติ  วิปรีตานุ-
+<span class="LineNumber"> 016 </span>โยคมาห ฯ  ตตฺถ ป€มปเฺห  มคฺเคน  นิยตสฺส  นิยามคมนาย  (๒)
+<span class="LineNumber"> 017 </span>าณํ  นาม  นตฺถีติ  ปฏิกฺขิปติ  ทุติเย  นตฺถิภาเวน
+<span class="LineNumber"> 018 </span>ปฏิชานาติ  ตติเย  อนิยตสฺส นตฺถีติ ปุฏฺ€ตฺตา ลทฺธิวิโรเธน
+<span class="LineNumber"> 019 </span>ปฏิกฺขิปติ ฯ  ปุน  ป€มปฺหเมว  จตุตฺถํ  กตฺวา  นิยตสฺส
+<span class="LineNumber"> 020 </span># ๑. ม. อยุตฺตวาทิตํ ฯ  ๒. ม. อนิยามคมนาย ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  ๑๖  หน้า  ๒๐
+
+<span class="LineNumber"> 002 </span>			    สิกฺขาปทวณฺณนา  
+<span class="LineNumber"> 003 </span>			  สิกฺขาปทปา€มาติกา  
+<span class="LineNumber"> 004 </span>	เอวํ  สรณคมเนหิ  สาสโนตารํ  ทสฺเสตฺวา  สาสนํ 
+<span class="LineNumber"> 005 </span>โอติณฺเณน  อุปาสเกน  วา  ปพฺพชิเตน  วา  เยสุ  สิกฺขาปเทสุ  
+<span class="LineNumber"> 006 </span>ป€มํ สิกฺขิตพฺพํ  ตานิ ทสฺเสตุํ  นิกฺขิตฺตสฺส สิกฺขาปทปา€สฺส 
+<span class="LineNumber"> 007 </span>อิทานิ วณฺณนตฺถํ อยํ มาติกา  
+<span class="LineNumber"> 008 </span>	เยน ยตฺถ ยทา ยสฺมา  วุตฺตาเนตานิ ตนฺนยํ  
+<span class="LineNumber"> 009 </span>	วตฺวา กตฺวา ววตฺถานํ  สาธารณวิเสสโต ฯ  
+<span class="LineNumber"> 010 </span>	ปกติยา จ ยํ วชฺชํ  วชฺชํ ปฺตฺติยา จ ยํ  
+<span class="LineNumber"> 011 </span>	ววตฺถเปตฺวา ตํ กตฺวา  ปทานํ พฺยฺชนตฺถโต  
+<span class="LineNumber"> 012 </span>	สาธารณานํ สพฺเพสํ  สาธารณวิภาวนํ  
+<span class="LineNumber"> 013 </span>	อถ ปฺจสุ ปุพฺเพสุ  วิเสสตฺถปฺปกาสโน  (๑)  
+<span class="LineNumber"> 014 </span>	ปาณาติปาตปฺปภูตี  เหกตานานตาทิโต  (๒)  
+<span class="LineNumber"> 015 </span>	อารมฺมณาทานํ เภทา  มหาสาวชฺชโต ตถา  
+<span class="LineNumber"> 016 </span>	ปโยคงฺคสมุฏฺ€านา  เวทนามูลกมฺมโต  
+<span class="LineNumber"> 017 </span>	วิรมโต จ ผลโต  วิฺาตพฺโพ วินิจฺฉโย ฯ  
+<span class="LineNumber"> 018 </span>	โยเชตพฺพํ ตโต ยุตฺตํ  ปจฺฉิเมสฺวปิ ปฺจสุ  
+<span class="LineNumber"> 019 </span>	อาเวนิกฺจ วตฺตพฺพํ  เยฺยา หีนาทิตาปิ จาติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. วิเสสตฺถปฺปกาสโต ฯ  ๒. สี. ปาณาทิปาณาติปาต-
+<span class="LineNumber"> 021 </span>ปภุตีเหกตาทิโต ฯ

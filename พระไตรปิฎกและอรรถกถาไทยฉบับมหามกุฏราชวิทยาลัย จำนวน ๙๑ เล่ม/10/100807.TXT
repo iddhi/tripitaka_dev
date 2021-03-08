@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๕.   เพราะอาศัยความมักน้อย  สันโดษ  ขัดเกลา  ความเงียบสงัด และ   
+<span class="LineNumber"> 002 </span>อาศัยความเป็นแห่งการฉันเฉพาะในบาตร  มีประโยชน์  ด้วยความปฏิบัติงามนี้ 
+<span class="LineNumber"> 003 </span>จึงถือฉันเฉพาะในบาตร
+<span class="LineNumber"> 004 </span>           ดูก่อนอุบาลี   ภิกษุผู้ถือฉันเฉพาะในบาตรมี  ๕  จำพวก  นี้แล.
+<span class="LineNumber"> 005 </span>                                      <I>ธุดงควรรค  ที่  ๖  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                        <H1>หัวข้อประจำวรรค</H1> 
+<span class="LineNumber"> 007 </span>           [๑,๑๙๒]  ถืออยู่ป่า  ๑  ถือเที่ยวบิณฑบาต ๑  ถือทรงผ้าบังสุกุล  ๑ ถือ
+<span class="LineNumber"> 008 </span>อยู่โคนไม้  ๑  ถืออยู่ป่าช้าเป็นที่ครบห้า   ๑  ถืออยู่ในที่กลางแจ้ง ๑  ถือทรงผ้าสาม
+<span class="LineNumber"> 009 </span>ผืน ๑   ถือเที่ยวตามแถว ๑   ถือการนั่ง  ๑  ถืออยู่ในเสนาสนะตามที่จัดไว้  ๑  ถือ
+<span class="LineNumber"> 010 </span>นั่งฉัน   ณ อาสนะแห่งเดียว  ๑   ถือห้ามภัตรที่เขานำมาถวายเมื่อภายหลัง ๑   ถือ
+<span class="LineNumber"> 011 </span>ฉันเฉพาะในบาตร ๑.
+<span class="LineNumber"> 012 </span>                                         <I>มุสาวาทวรรค  ที่  ๗</I>
+
+<span class="LineNumber"> 013 </span>                                                  <H1>มุสาวาท</H1> 
+<span class="LineNumber"> 014 </span>           [๑,๑๙๓]   อุ.   มุสาวาท   มีเท่าไรหนอแล   พระพุทธเจ้าข้า
+<span class="LineNumber"> 015 </span>           พ.  ดูก่อนอุบาลี   มุสาวาทนี้มี  ๕  อย่าง ๕  อย่างอะไรบ้าง  คือ :-
+<span class="LineNumber"> 016 </span>           ๑.  มีอยู่   มุสาวาทถึงต้องอาบัติปาราชิก
+<span class="LineNumber"> 017 </span>           ๒.  มีอยู่    มุสาวาทถึงต้องอาบัติสังฆาทิเสส
+<span class="LineNumber"> 018 </span>           ๓.  มีอยู่    มุสาวาทถึงต้องอาบัติถุลลัจจัย
+<span class="LineNumber"> 019 </span>           ๔.  มีอยู่    มุสาวาทถึงต้องอาบัติปาจิตตีย์ 

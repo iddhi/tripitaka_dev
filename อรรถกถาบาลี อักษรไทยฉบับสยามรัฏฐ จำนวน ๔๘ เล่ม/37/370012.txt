@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  12
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อสํยุตฺตนติ  อยุตฺตํ  ติรจฺฉาเนหิ  สทฺธึ  (สํสคฺคํ)  
+<span class="LineNumber"> 003 </span>อนนุจฺฉวิกํ ฯ  อมฺเหติ  อมฺเห  มนุสฺสชาติกา  สมานา  กถํ 
+<span class="LineNumber"> 004 </span>ติรจฺฉาเนหิ  สมฺพนฺธํ(๑) กโรม(๒) ฯ  
+<span class="LineNumber"> 005 </span>	ตํ  สุตฺวา  นาคมาณวกา  สเจ  เต  ธตรฏฺเ€น  สทฺธึ  
+<span class="LineNumber"> 006 </span>สมฺพนฺโธ  อนนุจฺฉวิโก  อถ  กสฺมา  อตฺตโน  อุปฏฺ€ากํ  จิตฺตจูฬํ 
+<span class="LineNumber"> 007 </span>นาม  กจฺฉปํ  สมุทฺทชํ  นาม  เต  ธีตรํ  ทมฺมีติ  อมฺหากํ  รฺโ 
+<span class="LineNumber"> 008 </span>ทูตํ  เปเสสิ  เอวํ  สาสนํ  เปเสตฺวา  อิทานิ  เต  อมฺหากํ ราชานํ
+<span class="LineNumber"> 009 </span>ปริภวํ กโรนฺตสฺส(๓)  กตฺตพฺพยุตฺตกํ  มยํ  ชานิสฺสาม  มยํ  หิ  
+<span class="LineNumber"> 010 </span>นาคมาณวกาติ  วตฺวา  ราชานํ ตชฺเชนฺตา เทฺว คาถา อภาสึสุ  
+<span class="LineNumber"> 011 </span>	[๖๘๙]ชีวิตํ นูน เต จตฺตํ		รฏฺ€ํ วา มนุชาทิป  
+<span class="LineNumber"> 012 </span>		น หิ นาเคหิ(๔) กุปฺปิตา(๕)  จิรํ ชีวนฺติ ตาทิสา  
+<span class="LineNumber"> 013 </span>		โย ตฺวํ เทว มนุสฺโสสิ	อิทฺธิมนฺตํ อนิทฺธิมา  
+<span class="LineNumber"> 014 </span>		วรุณสฺส นิยํ ปุตฺตํ	ยามุนํ อติมฺสีติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  รฏฺ€ํ  วาติ  เอกํเสน  ตยา  ชีวิตํ  วา  รฏฺ€ํ 
+<span class="LineNumber"> 016 </span>วา จตฺตํ ฯ  ตาทิสาติ  ตุมฺหาทิสา  ราชาโน  เอวํ 
+<span class="LineNumber"> 017 </span>มหานุภาเวหิ(๖)  นาเคหิ(๗)  กุปฺปิตา(๘)  จิรํ  ชีวิตุํ  น  สกฺโกนฺติ  
+<span class="LineNumber"> 018 </span>อนฺตราว อนฺตรธายนฺติ ฯ โย ตฺวํ เทวาติ เทวาติ(๙)  โย  ตฺวํ  
+<span class="LineNumber"> 019 </span># ๑. ม. ติรจฺฉานคตสมฺพนฺธํ ฯ  ๒. ม. กโรมาติ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ก. อมฺหากํ ปริภาสนฺตสฺส ฯ ๔. ส. ม. นาเค ฯ 
+<span class="LineNumber"> 021 </span># ๕. ส. ม. กุปิตมฺหิ ฯ  ๖. ม. มหานุภาเว ฯ  
+<span class="LineNumber"> 022 </span># ๗. ม. นาเค ฯ  ๘. ม. กุปฺปิเต ฯ  ๙. ม. มนุสฺโสสีติ ฯ 

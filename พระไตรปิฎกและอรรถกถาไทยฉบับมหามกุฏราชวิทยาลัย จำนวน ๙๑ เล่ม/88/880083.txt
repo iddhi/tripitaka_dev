@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                     ๖.  <B>สเหตุกธรรมเจือกับสเหตุกธรรม และอเหตุกธรรม 
+<span class="LineNumber"> 002 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 003 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์ ๑  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วย
+<span class="LineNumber"> 004 </span>อุทธัจจะ  และโมหะ ฯลฯ   ขันธ์ ๒  เจือกับขันธ์ ๒.
+
+<span class="LineNumber"> 005 </span>                                       <H1>๓.  อธิปติปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           [๗๒] ๑.  <B>สเหตุกธรรม  เจือกับสเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 007 </span>อธิปติปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ   ขันธ์ ๓   เจือกับขันธ์ ๑   ที่เป็นสเหตุกธรรม ฯลฯ    ขันธ์ ๒  
+<span class="LineNumber"> 009 </span>เจือกับขันธ์ ๒.
+<span class="LineNumber"> 010 </span>         	<H1>๔.  อนันตรปัจจัย ฯลฯ  ๖.  สหชาตปัจจัย   ฯลฯ</H1>
+<span class="LineNumber"> 011 </span>           [๗๓] ๑.  <B>สเหตุกธรรม  เจือกับสเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 012 </span>อนันตรปัจจัย</B>
+<span class="LineNumber"> 013 </span>           <B>ฯลฯ  เพราะสมนันตรปัจจัย</B>
+<span class="LineNumber"> 014 </span>           <B>ฯลฯ  เพราะสหชาตปัจจัย   ฯลฯ</B>
+
+<span class="LineNumber"> 015 </span>                                        <H1>๓.  วิปากปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           [๗๔] ๑.  <B>สเหตุกธรรม  เจือกับสเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 017 </span>วิปากปัจจัย</B>

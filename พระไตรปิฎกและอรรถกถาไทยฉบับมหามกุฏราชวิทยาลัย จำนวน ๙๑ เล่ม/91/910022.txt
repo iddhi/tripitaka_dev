@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                   ๖.   <B>ธรรมที่ไม่ใช่อนาคตธรรม    เป็นปัจจัยแก่ธรรมที่  
+<span class="LineNumber"> 002 </span>ไม่ใช่อตีตธรรม    และธรรมที่ไม่ใช่อนาคตธรรม   ด้วยอำนาจของ
+<span class="LineNumber"> 003 </span>เหตุปัจจัย.</B>                                                                       
+<span class="LineNumber"> 004 </span>                   ๗.   <B>ธรรมที่ไม่ใช่อดีตธรรม และธรรมที่ไม่ใช่อนาคต-
+<span class="LineNumber"> 005 </span>ธรรมเป็นปัจจัยแก่ธรรมที่ไม่ใช่อดีตธรรม ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 006 </span>                   ๘.  <B>ธรรมที่ไม่ใช่อตีตธรรม   และธรรมที่ไม่ใช่อนาคต-
+<span class="LineNumber"> 007 </span>ธรรมเป็นปัจจัยแก่ธรรมที่ไม่ใช่อนาคตธรรม     ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 008 </span>ปัจจัย.</B>
+<span class="LineNumber"> 009 </span>                   ๙.   <B>ธรรมที่ไม่ใช่อตีตธรรม  และธรรมที่ไม่ใช่อนาคต-
+<span class="LineNumber"> 010 </span>ธรรมเป็นปัจจัยแก่ธรรมที่ไม่ใช่อตีตธรรม  และธรรมที่ไม่ใช่อนาคต-
+<span class="LineNumber"> 011 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 012 </span>                                    <I>นอตีตติกะ  จบ</I>
+
+<span class="LineNumber"> 013 </span>                              <H1>๑๙.  นอตีตารัมมณติกะ</H1>
+<span class="LineNumber"> 014 </span>                                        <H1>ปฏิจจาวาระ</H1>	
+<span class="LineNumber"> 015 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 016 </span>                                      <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 017 </span>          [๓๒] ๑.    <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่อตีตารัมมณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 018 </span>                   ๒.    <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่อนาคตารัมมณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 019 </span>                   ๓.    <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่ปัจจุปันนารัมมณธรรม
+<span class="LineNumber"> 020 </span>ฯลฯ</B>
+<span class="LineNumber"> 021 </span>                                   <I>นอตีตารัมมณติกะ  จบ</I>	

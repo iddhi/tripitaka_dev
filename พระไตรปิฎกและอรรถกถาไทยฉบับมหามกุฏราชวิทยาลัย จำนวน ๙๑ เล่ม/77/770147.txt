@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                             <H1>ปัญหาปุจฉกะ</H1> 
+<span class="LineNumber"> 002 </span>         [๘๔]   <H1>ขันธ์  ๕ คือ</H1>
+<span class="LineNumber"> 003 </span>                              <B>๑.    รูปขันธ์</B>  
+<span class="LineNumber"> 004 </span>                              <B>๒.    เวทนาขันธ์</B>  
+<span class="LineNumber"> 005 </span>                              <B>๓.    สัญญาขันธ์</B>   
+<span class="LineNumber"> 006 </span>                              <B>๔.    สังขารขันธ์</B>   
+<span class="LineNumber"> 007 </span>                              <B>๕.    วิญญาณขันธ์.</B>
+
+<span class="LineNumber"> 008 </span>                                <H1>ติกมาติกาปุจฉา  ทุกมาติกาปุจฉา</H1>
+<span class="LineNumber"> 009 </span>         บรรดาขันธ์  ๕  ขันธ์ไหนเป็นกุศล   ขันธ์ไหนเป็นอกุศล   ขันธ์ไหน
+<span class="LineNumber"> 010 </span>เป็นอัพยากฤต  ฯลฯ  ขันธ์ไหนเป็นสรณะ   ขันธ์ไหนเป็นอรณะ.
+
+<span class="LineNumber"> 011 </span>                                            <H1>ติกมาติกาวิสัชนา</H1>
+<span class="LineNumber"> 012 </span>         [๘๕]   รูปขันธ์เป็นอัพยากฤต  ขันธ์ ๔   [เบื้องปลาย]   เป็นกุศลก็มี
+<span class="LineNumber"> 013 </span>เป็นอกุศลก็มี   เป็นอัพยากฤตก็มี ขันธ์  ๒  [เบื้องต้น ]  กล่าวไม่ได้ว่าแม้เป็น
+<span class="LineNumber"> 014 </span>สุขเวทนาสัมปยุต   แม้เป็นทุกขเวทนาสัมปยุต   แม้เป็นอทุกขมสุขเวทนาสัมปยุต
+<span class="LineNumber"> 015 </span>ขันธ์ ๓   [เบื้องปลาย]   เป็นสุขเวทนาสัมปยุตก็มี    เป็นทุกขเวทนาสัมปยุตก็มี 
+<span class="LineNumber"> 016 </span>เป็นอทุกขมสุขเวทนาสัมปยุตก็มี     รูปขันธ์เป็นเนววิปากนวิปากธัมมธรรม
+<span class="LineNumber"> 017 </span>ขันธ์ ๔ เป็นวิบากก็มี  เป็นวิปากธัมมธรรมก็มี  เป็นเนววิปากนวิปากธัมธรรม 
+<span class="LineNumber"> 018 </span>ก็มี  รูปขันธ์  เป็นอุปาทินนุปาทานิยะก็มี  เป็นอนุปาทินนุปาทานิยะก็มี  ขันธ์
+<span class="LineNumber"> 019 </span>๔  เป็นอุปาทินนุปาทานิยะก็มี  เป็นอนุปาทินนุปาทานิยะก็มี  เป็นอนุปาทินนา- 

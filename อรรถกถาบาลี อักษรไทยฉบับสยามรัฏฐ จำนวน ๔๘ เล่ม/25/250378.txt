@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  378
+	
+<span class="LineNumber"> 002 </span>				นวมวคฺควณฺณนา  
+<span class="LineNumber"> 003 </span>			สมิติคุตฺตตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 004 </span>	ยํ  มยา  ปกตํ  ปาปนฺติ  อายสฺมโต  สมิติคุตฺตตฺเถรสฺส  
+<span class="LineNumber"> 005 </span>คาถา ฯ  กา  อุปฺปตฺติ  
+<span class="LineNumber"> 006 </span>	โสปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ  ภเว  ปุฺานิ  
+<span class="LineNumber"> 007 </span>อุปจินนฺโต วิปสฺสิสฺส  ภควโต  กาเล กุลเคเห นิพฺพตฺติตฺวา
+<span class="LineNumber"> 008 </span>วิฺุตํ ปตฺโต ภควนฺตํ ปสฺสิตฺวา ปสนฺนจิตฺโต  ชาติสุมนปุปฺเผหิ 
+<span class="LineNumber"> 009 </span>ปูชํ  อกาสิ ฯ  
+<span class="LineNumber"> 010 </span>	โส  เตน  ปุฺกมฺเมน  ยตฺถ  ยตฺถ ภเว  นิพฺพตฺติ 
+<span class="LineNumber"> 011 </span>ตตฺถ ตตฺถ กุลรูปปริวารสมฺปทาย อฺเ สตฺเต อภิภวิตฺวา
+<span class="LineNumber"> 012 </span>อฏฺ€าสิ ฯ เอกสฺมึ  ปน  อตฺตภาเว  อฺตรํ  ปจฺเจกพุทฺธํ 
+<span class="LineNumber"> 013 </span>ปิณฺฑาย  จรนฺตํ  ทิสฺวา  อยํ มุณฺฑโก  กุฏฺ€ี  มฺเ
+<span class="LineNumber"> 014 </span>เตนายํ  ปฏิจฺฉาเทตฺวา วิจรตีติ นิฏฺ€ุภิตฺวา ปกฺกามิ ฯ 
+<span class="LineNumber"> 015 </span>	โส  เตน  กมฺเมน  พหุํ กาลํ นิรเย ปจฺจิตฺวา กสฺสปสฺส 
+<span class="LineNumber"> 016 </span>ภควโต กาเล มนุสฺสโลเก (๑)  นิพฺพตฺโต  ปริพฺพาชกปพฺพชฺชํ  อุปคโต
+<span class="LineNumber"> 017 </span>เอกํ  สีลาจารสมฺปนฺนํ  อุปาสกํ  ทิสฺวา โทสนฺตโร  หุตฺวา 
+<span class="LineNumber"> 018 </span>กุฏฺ€โรคี  ภเวยฺยาสีติ  อกฺโกสิ  นฺหานติตฺเถ  จ มนุสฺเสหิ €ปิตานิ
+<span class="LineNumber"> 019 </span>นฺหานจุณฺณานิ  ทูเสสิ ฯ
+<span class="LineNumber"> 020 </span># ๑. สี. มนุสฺสโยนิยํ ฯ

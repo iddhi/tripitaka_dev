@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         [๓๒๒]   กุศลธรรมจักเกิดในภูมิใด,      อัพยากตธรรมก็จักดับ 
+<span class="LineNumber"> 002 </span>ในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>	ใช่.
+<span class="LineNumber"> 004 </span>          ก็หรือว่าอัพยากธรรมจักดับในภูมิใด,    กุศลธรรมก็จักเกิดในภูมิ
+<span class="LineNumber"> 005 </span>นั้น ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>          ในอสัญญสัตตภูมิ  อัพยากตธรรมจักดับในภูมินั้น  แต่กุศลธรรม
+<span class="LineNumber"> 007 </span>ไม่ใช่จักเกิดในภูมินั้น,  ในจตุโวการภูมิก็ดี  ในปัญจโวการภูมิก็ดี  อัพยา-
+<span class="LineNumber"> 008 </span>กตธรรมจักดับ  กุศลธรรมก็จักเกิดในภูมินั้น.
+<span class="LineNumber"> 009 </span>          [๓๒๓]   อกุศลธรรมจักเกิดในภูมิใด,    อัพยากตธรรมก็จักดับ
+<span class="LineNumber"> 010 </span>ในภูมินั้นใช่ไหม  ?
+<span class="LineNumber"> 011 </span>          ใช่.
+<span class="LineNumber"> 012 </span>          ก็หรือว่าอัพยากตธรรมจักดับในภูมิใด,    อกุศลธรรมก็จักเกิดใน
+<span class="LineNumber"> 013 </span>ภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>          ในอสัญญสัตตภูมิ     อัพยากตธรรมจักดับในภูมินั้น    แต่อกุศล
+<span class="LineNumber"> 015 </span>ธรรมไม่ใช่จักเกิดในภูมินั้น,    ในจตุโวการภูมิก็ดี  ในปัญจโวการภูมิก็ดี
+<span class="LineNumber"> 016 </span>อัพยากตธรรมจักดับ  อกุศลธรรมก็จักเกิดในภูมินั้น.

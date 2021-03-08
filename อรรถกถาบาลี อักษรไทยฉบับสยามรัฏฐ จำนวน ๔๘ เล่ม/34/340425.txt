@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  34  สงฺขปาลชาตกํ  หน้า  425
+
+<span class="LineNumber"> 002 </span>		ทิพฺเพน เม ปาตุรหู(๑) ชนินฺท  
+<span class="LineNumber"> 003 </span>		อุปฏฺ€หี มํ ปิตรํว ปุตฺโต  
+<span class="LineNumber"> 004 </span>		หทยงฺคมํ กณฺณสุขํ ภณนฺโต ฯ  
+<span class="LineNumber"> 005 </span>		ตฺวํ เมสิ มาตา จ ปิตา อาฬาร  
+<span class="LineNumber"> 006 </span>		อพฺภนฺตโร ปาณทโท สหาโย  
+<span class="LineNumber"> 007 </span>		สกฺจ อิทฺธึ ปฏิลาภโกสฺมิ (๒) 
+<span class="LineNumber"> 008 </span>		อาฬาร ปสฺส เม นิเวสนานิ  
+<span class="LineNumber"> 009 </span>		ปหูตภกฺขํ พหุอนฺนปานํ  
+<span class="LineNumber"> 010 </span>		มสกฺกสารํ วิย วาสวสฺสาติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  วิมานนฺติ  สงฺขปาลนาครฺโ  อเนกสตนาฏกิตฺถี-
+<span class="LineNumber"> 012 </span>สมฺปตฺติสมฺปนฺนํ  กาฺจนมณิวิมานํ ฯ  ปุฺานนฺติ  เตน  
+<span class="LineNumber"> 013 </span>กตปุฺานํ  มหนฺตํ  วิปากํ  ทิสฺวา  กมฺมฺจ  ผลฺจ  ปรโลกฺจ  
+<span class="LineNumber"> 014 </span>สทฺทหิตฺวา  ปวตฺตาย  สทฺธาย  อหํ  ปพฺพชิโต ฯ  น  กามกามาติ 
+<span class="LineNumber"> 015 </span>น  วตฺถุกาเมนปิ  ภเยนปิ  โทเสนปิ  มุสา  ภณนฺติ ฯ  ชายิหิตีติ  
+<span class="LineNumber"> 016 </span>ภนฺเต  ตุมฺหากํ  วจนํ  สุตฺวา  มยฺหํปิ  ปสาโท  โสมนสฺสํ  ชายิสฺสติ ฯ  
+<span class="LineNumber"> 017 </span>วาณิชฺชนฺติ  วาณิชฺชกมฺมํ  กริสฺสามีติ  คจฺฉนฺโต ฯ  ปเถ  
+<span class="LineNumber"> 018 </span>อทฺทสาสิมฺหีติ  ปฺจนฺนํ  สกฏสตานํ  ปุรโต  สุขยานเก  นิสีทิตฺวา  
+<span class="LineNumber"> 019 </span>คจฺฉนฺโต  มหามคฺเค  ชนปทมนุสฺเส  อทฺทสํ ฯ  ปวฑฺฒกายนฺติ  
+<span class="LineNumber"> 020 </span>วฑฺฒิตกายํ ฯ  อาทายาติ  อฏฺ€หิ  กาเชหิ  คเหตฺวา ฯ  อวจสฺมีติ  
+<span class="LineNumber"> 021 </span>อภาสึ ฯ  ภีมกาโยติ  ภยชนนกาโย ฯ  โภชปุตฺตาติ  ลุทฺทปุตฺเต  
+<span class="LineNumber"> 022 </span># ๑. ม. ปาตุรหํ ฯ  ๒. ยุ.  ปฏิลาภิโตสฺมิ ฯ

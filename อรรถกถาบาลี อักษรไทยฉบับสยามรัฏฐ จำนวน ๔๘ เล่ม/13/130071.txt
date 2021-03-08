@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๓  อทนฺตวคฺควณฺณนา  หน้า  ๗๑
+
+<span class="LineNumber"> 002 </span>	ตติเย อคุตฺตนฺติ อโคปิตํ สติสํวรรหิตํ อคุตฺตหตฺถิอสฺสาทิสทิสํ ฯ
+<span class="LineNumber"> 003 </span>					ตติยํ  ฯ
+<span class="LineNumber"> 004 </span>	จตุตฺเถ คุตฺตนฺติ โคปิตํ อวิสฺสฏฺ€สติสํวรํ คุตฺตหตฺถิอสฺสาทิสทิสํ ฯ
+<span class="LineNumber"> 005 </span>					จตุตฺถํ  ฯ
+<span class="LineNumber"> 006 </span>	ปฺจมฉฏฺ€านิ  อรกฺขิตํ รกฺขิตนฺติ  ปทวเสน พุชฺฌนกานํ อชฺฌาสเยน
+<span class="LineNumber"> 007 </span>วุตฺตานิ ฯ อตฺโถ ปเนตฺถ ปุริมสทิโสเยว ฯ
+<span class="LineNumber"> 008 </span>					ปฺจมฉฏฺ€ํ  ฯ
+<span class="LineNumber"> 009 </span>	สตฺตอฏฺ€เมสุปิ  เอเสว นโย ฯ อุปมา ปเนตฺถ อสํวุตฆรทฺวาราทิวเสน
+<span class="LineNumber"> 010 </span>เวทิตพฺพา ฯ
+<span class="LineNumber"> 011 </span>					สตฺตมฏฺ€เมํ  ฯ
+<span class="LineNumber"> 012 </span>	นวมทสมานิ  จตูหิปิ  ปเทหิ  โยเชตฺวา  วุตฺตานิ ฯ  อิมสฺมึ  วคฺเค
+<span class="LineNumber"> 013 </span>วฏฺฏวิวฏฺฏเมว กถิตนฺติ ฯ
+<span class="LineNumber"> 014 </span>					นวมทสมํ  ฯ
+<span class="LineNumber"> 015 </span>				อทนฺตวคฺโค จตุตฺโถ  ฯ

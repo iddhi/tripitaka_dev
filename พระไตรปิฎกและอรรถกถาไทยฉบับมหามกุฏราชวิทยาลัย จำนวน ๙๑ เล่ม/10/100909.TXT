@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>ภิกษุทำลายสงฆ์ไม่ไปสู่อบาย</H1>   
+<span class="LineNumber"> 002 </span>                             [๑,๒๘๒]  <B>ถามว่า ภิกษุผู้ทำลายสงฆ์
+<span class="LineNumber"> 003 </span>                   ไม่ไปสู่อบายอันพระพุทธเจ้า  ผู้เป็นเผ่าแห่ง
+<span class="LineNumber"> 004 </span>                   พระราชาผู้สูงศักดิ์ตรัสไว้เท่าไร    ข้าพเจ้า
+<span class="LineNumber"> 005 </span>                   ทั้งหลายขอฟังวิสัย   ของท่านผู้รู้เฉพาะพระ-
+<span class="LineNumber"> 006 </span>                   วินัย
+<span class="LineNumber"> 007 </span>                             ตอบว่า  ภิกษุผู้ทำลายสงฆ์    ไม่ไป
+<span class="LineNumber"> 008 </span>                   อบาย    อันพระพุทธเจ้าผู้เป็นเผ่าแห่งพระ-
+<span class="LineNumber"> 009 </span>                   ราชาผู้สูงศักดิ์ตรัสไว้  ๑๘   ขอท่านจงฟังวิสัย
+<span class="LineNumber"> 010 </span>                   ของข้าพเจ้าผู้รู้เฉพาะพระวินัย.</B>
+
+<span class="LineNumber"> 011 </span>                                           <H2>หมวด ๘</H2>
+<span class="LineNumber"> 012 </span>                             [๑,๒๘๓]  <B>ถามว่า  หมวด  ๘  อันพระ-
+<span class="LineNumber"> 013 </span>                   พุทธเจ้าผู้เป็นเผ่าแห่งพระราชาผู้สูงศักดิ์ตรัส
+<span class="LineNumber"> 014 </span>                   ไว้เท่าไร  ข้าพเจ้าทั้งหลายขอฟังวิสัย   ของ
+<span class="LineNumber"> 015 </span>                   ท่านผู้รู้เฉพาะพระวินัย
+<span class="LineNumber"> 016 </span>                             ตอบว่า  หมวด ๘   อันพระพุทธเจ้า
+<span class="LineNumber"> 017 </span>                   ผู้เป็นเผ่าแห่งพระราชาผู้สูงศักดิ์ตรัสไว้  ๑๘
+<span class="LineNumber"> 018 </span>                   หมวด   ขอท่านจงฟังวิสัยของข้าพเจ้า  ผู้รู้
+<span class="LineNumber"> 019 </span>                   เฉพาะวินัย.</B>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>อมฺห  ศัพท์ทั้ง  ๒  นี้  แจกเป็นแบบเดียวกันทั้งปุํลิงค์และอิตถีลิงค์.    
+
+<span class="LineNumber"> 002 </span>	[๘๒]  วิเสสนสัพพนามนั้น  คล้าย ๆ  กับคุณนาม  แต่มีวิธีแจก
+<span class="LineNumber"> 003 </span>ไม่เหมือนคุณนาม  แบ่งเป็น  ๒  อนิยม  นิยม.  ศัพท์เหล่านี้  คือ ย,
+<span class="LineNumber"> 004 </span>อญฺ,  อญฺตร.  อญฺตม,  ปร,  อปร, กตร,  กตม,  เอก,  เอกจฺจ,
+<span class="LineNumber"> 005 </span>สพฺพ,  กึ,  เป็น  อนิยม.  ต,  เอต,  อิม,  อมุ,  เป็น  นิยม.  ย  ศัพท์นั้น
+<span class="LineNumber"> 006 </span>พิจารณาเห็นว่า  ไม่เป็นอนิยมแท้ทีเดียว  เพราะเข้ากับ  ตุมฺห  อมฺห
+<span class="LineNumber"> 007 </span>ศัพท์ก็ได้  แต่เมื่อประสงค์แปล  ย  ศัพท์ว่า  "ใด"  แล้ว  ก็ดูเหมือน
+<span class="LineNumber"> 008 </span>เป็นอนิยมแท้.  วิเสสนสัพพนาม ๒  อย่าง  ที่กล่าวมาแล้วนี้  เป็น
+<span class="LineNumber"> 009 </span>ไตรลิงค์  แจกได้ทั้ง ๓  ลิงค์  ในสัพพนามทั้งปวงไม่มีอาลปนะ.
+
+<span class="LineNumber"> 010 </span>                                วิธีแจกปุริสสัพพนาม
+<span class="LineNumber"> 011 </span>                     [๘๓]  ต  ศัพท์  ใน ปุํลิงค์  แจกอย่างนี้:-
+<span class="LineNumber"> 012 </span>----------------------------------------------------------------------------------
+<span class="LineNumber"> 013 </span>		เอก.							พหุ.
+<span class="LineNumber"> 014 </span>ป.		โส					เต
+<span class="LineNumber"> 015 </span>ทุ.		ตํ	นํ				เต	เน
+<span class="LineNumber"> 016 </span>ต.		เตน					เตหิ
+<span class="LineNumber"> 017 </span>จ.		ตสฺส  อสฺส			เตสํ  เตสานํ  เนสํ  เนสานํ
+<span class="LineNumber"> 018 </span>ปญฺ.		ตสฺส  อสฺมา  ตมฺหา		เตหิ
+

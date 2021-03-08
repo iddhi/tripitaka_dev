@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           <B>เพราะผัสสะเป็นปัจจัย		จึงมีเวทนา 
+<span class="LineNumber"> 002 </span>           เพราะเวทนาเป็นปัจจัย	       จึงมีตัณหา
+<span class="LineNumber"> 003 </span>           เพราะตัณหาเป็นปัจจัย                จึงมีอุปาทาน
+<span class="LineNumber"> 004 </span>           เพราะอุปาทานเป็นปัจจัย             จึงมีภพ
+<span class="LineNumber"> 005 </span>           เพราะภพเป็นปัจจัย                      จึงมีชาติ
+<span class="LineNumber"> 006 </span>           เพราะชาติเป็นปัจจัย  จึงมีชรา  มรณะ  โสกะ
+<span class="LineNumber"> 007 </span>ปริเทวะ  ทุกข์  โทมนัส  อุปายาส.</B>
+<span class="LineNumber"> 008 </span>           เป็นอันว่ากองทุกข์ทั้งมวลนั่นย่อมเกิด   ด้วยประการฉะนี้.
+
+<span class="LineNumber"> 009 </span>                                <H2>ปฏิจจสมุปบาท  ปฏิโลม</H2>
+<span class="LineNumber"> 010 </span>           อนึ่ง    เพราะอวิชชานั่นแหละดับโดยไม่เหลือ    ด้วยมรรคคือวิราคะ
+<span class="LineNumber"> 011 </span>สังขารจึงดับ
+<span class="LineNumber"> 012 </span>                       <B>เพราะสังขารดับ  	วิญญาณจึงดับ
+<span class="LineNumber"> 013 </span>           เพราะวิญญาณดับ		    นามรูปจึงดับ
+<span class="LineNumber"> 014 </span>           เพราะนามรูปดับ		      สฬายตนะจึงดับ
+<span class="LineNumber"> 015 </span>           เพราะสฬายตนะดับ		 ผัสสะจึงดับ
+<span class="LineNumber"> 016 </span>           เพราะผัสสะดับ		         เวทนาจึงดับ
+<span class="LineNumber"> 017 </span>           เพราะเวทนาดับ		        ตัณหาจึงดับ
+<span class="LineNumber"> 018 </span>           เพราะตัณหาดับ		        อุปาทานจึงดับ
+<span class="LineNumber"> 019 </span>           เพราะอุปทานดับ		       ภพจึงดับ
+<span class="LineNumber"> 020 </span>           เพราะภพดับ		              ชาติจึงดับ
+<span class="LineNumber"> 021 </span>           เพราะชาติดับ  ชรา  มรณะ  โสกะ  ปริเทวะ
+<span class="LineNumber"> 022 </span>ทุกข์  โทมนัส  อุปยาส  จึงดับ.</B>

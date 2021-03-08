@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๕๒๑
+
+<span class="LineNumber"> 002 </span>			ทุติยธมฺมกถิกสุตฺตวณฺณนา          
+<span class="LineNumber"> 003 </span>	จตุตฺเถ ติสฺสนฺนมฺปิ ปุจฺฉานํ ตีณิ วิสฺสชฺชนานิ กถิตานิ ฯ 
+<span class="LineNumber"> 004 </span>				จตุตฺถํ ฯ  
+
+<span class="LineNumber"> 005 </span>			พนฺธนสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 006 </span>	ปฺจเม  อตีรทสฺสีติ  ตีรํ  วุจฺจติ  วฏฺฏํ  ตํ  น  
+<span class="LineNumber"> 007 </span>ปสฺสติ ฯ อปารทสฺสีติ  ปารํ  วุจฺจติ  นิพฺพานํ  ตํ  น 
+<span class="LineNumber"> 008 </span>ปสฺสติ ฯ  พทฺโธติ(๑)  กิเลสพนฺธโน(๒) พทฺโธ  หุตฺวา  ชิยฺยติ
+<span class="LineNumber"> 009 </span>จ  ชิยฺยติ  จ  มิยฺยติ  จ  อสฺมา โลกา ปรํ โสกํ คจฺฉตีติ ฯ อิมสฺมึ 
+<span class="LineNumber"> 010 </span>สุตฺเต วฏฺฏทุกฺขํ กถิตนฺติ ฯ ฉฏฺ€าทีนิ อุตฺตานตฺถาเนว ฯ 
+<span class="LineNumber"> 011 </span>				ปฺจมาทีนิ ฯ  
+
+<span class="LineNumber"> 012 </span>				สีลวนฺตสุตฺตวณฺณนา           
+<span class="LineNumber"> 013 </span>	ทสเม  อนิจฺจโตติอาทีสุ  หุตฺวา  อภาวากาเรน  อนิจฺจโต  
+<span class="LineNumber"> 014 </span>ปฏิปีฬนากาเรน  ทุกฺขโต  อาพาธฏฺเ€น  โรคโต  อนฺโตโทสฏฺเ€น
+<span class="LineNumber"> 015 </span>คณฺฑโต  เตสํ  เตสํ  คณฺฑานํ  ปจฺจยภาเวน  วา  ขณนฏฺเ€น
+<span class="LineNumber"> 016 </span>วา  สลฺลโต  ทุกฺขฏฺเ€น  อฆโต  วิสภาคมหาภูตสมุฏฺ€าน-
+<span class="LineNumber"> 017 </span>อาพาธปจฺจยฏฺเ€น  อาพาธโต  อสกฏฺเ€น  ปรโต   ปลุชฺชนฏฺเ€น
+<span class="LineNumber"> 018 </span>ปโลกโต  สตฺตสุฺตฏฺเ€น  สุฺโต  อตฺตาภาเวน  อนตฺตโต ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. พทฺโธติ ฯ  ๒. ม. กิเลสพนฺธเนน พทฺโธ ฯ

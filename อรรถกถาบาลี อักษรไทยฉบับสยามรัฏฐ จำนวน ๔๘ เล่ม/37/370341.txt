@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 341
+
+<span class="LineNumber"> 002 </span>ปพฺพตปาทํ  คนฺตฺวา  มณิกฺขนฺเธ  ปณฺฑุกมฺพลสุตฺตํ(๑)  ปเวเสนฺโต
+<span class="LineNumber"> 003 </span>วิย  นทนฺโต  อนฺโตปพฺพเตน  อุคฺคนฺตฺวา  มหาสตฺตํ  ทฬฺหํ(๒)  
+<span class="LineNumber"> 004 </span>คเหตฺวา  ปริวตฺเตตฺวา อโธสิรํ กตฺวา อนาลมฺเพ อากาเส
+<span class="LineNumber"> 005 </span>วิสชฺเชสิ ฯ  
+<span class="LineNumber"> 006 </span>	เตน วุตฺตํ  
+<span class="LineNumber"> 007 </span>	[๙๘๖]โส ตตฺถ คนฺตฺวา ปพฺพตมนฺตรสฺมึ(๓)  
+<span class="LineNumber"> 008 </span>		อนฺโต ปวิสิตฺวาน ปทุฏฺ€จิตฺโต  
+<span class="LineNumber"> 009 </span>		อสมฺผุตสฺมึ ชคติปฺปเทเส  
+<span class="LineNumber"> 010 </span>		อโธสิรํ ธารยิ กาติยาโนติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ [๔] คนฺตฺวาติ [๕] ปพฺพตมตฺถกา  ปพฺพตปาทํ 
+<span class="LineNumber"> 012 </span>คนฺตฺวา  ตตฺถ  ปพฺพตนฺตเร  €เปตฺวา (๖) ตสฺส อนฺโต ปวิสิตฺวา
+<span class="LineNumber"> 013 </span>ปพฺพตมตฺถเก €ิตสฺส เหฏฺ€า  ปฺายมาโน อสมฺผุเต 
+<span class="LineNumber"> 014 </span>ภูมิปฺปเทเส ฯ ธารยีติ(๗) นํ อาทิโตว ธาเรสิ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  ปน  นํ  ขิปิตฺวา  ป€มํ  ปณฺณรสโยชานมตฺตํ  
+<span class="LineNumber"> 016 </span>ภสฺสกาเล  ปพฺพตมุทฺธนิ€ิโตว  หตฺถํ  ปสาเรตฺวา  อโธสิรํ 
+<span class="LineNumber"> 017 </span>ภสฺสนฺตํ  ปาเทสุ  คเหตฺวา  อโธสิรเมว  อุกฺขิปิตฺวา  มุขํ  
+<span class="LineNumber"> 018 </span>โอโลเกนฺโต  อยํ (๘) น  มรตีติ  ตฺวา  ทุติยมฺปิ  ขิปิตฺวา 
+<span class="LineNumber"> 019 </span># ๑. ม. ปณฺฑุสุตฺตํ ฯ  ๒. ม. ปาเท ทฬฺหํ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ปพฺพตนฺตรสฺมึ ฯ ๔. ม. เอตฺถนฺตเร โส ตตฺถาติ 
+<span class="LineNumber"> 021 </span># ทิสฺสนฺติ ฯ  ๕. ม. เอตฺถนฺตเร โส ปุณฺณโกติ ทิสฺสนฺติ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. €ตฺวา ฯ ๗. ม. อสํผุเต ภูมิปเทเส ธาเรสีติ น ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม. อยํ ปาโ€ นตฺถิ ฯ 

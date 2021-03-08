@@ -1,0 +1,30 @@
+﻿<span class="LineNumber"> 001 </span>                         <H3>อรรถกถาสูตรที่  ๔</H3>
+
+<span class="LineNumber"> 002 </span>         ในสูตรที่  ๔  (ข้อ  ๓๖๖)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า  <B>ทุตฺตปฺปยา</B>  ความว่า  ทายกทำให้อิ่มได้ยาก  คือ  การทำ
+<span class="LineNumber"> 004 </span>ให้เขาอิ่ม   ทำไม่ได้ง่าย.   บทว่า   <B>นิกฺขิปติ</B>  ได้แก่  ไม่ให้ใคร  ไม่ใช้สอย
+<span class="LineNumber"> 005 </span>เอง.   บทว่า  <B>วิสชฺเชติ</B>  ได้แก่  ให้แก่ผู้อื่น.
+<span class="LineNumber"> 006 </span>                                       จบอรรถกถาสูตรที่  ๔
+
+<span class="LineNumber"> 007 </span>                            <H3>อรรถกถาสูตรที่  ๕</H3>
+
+<span class="LineNumber"> 008 </span>         ใน<B>สูตรที่  ๕</B>  (ข้อ ๓๖๗)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 009 </span>         บทว่า    <B>น  วิสชฺเชติ</B>    ความว่า   ไม่ให้แก่ผู้อื่นเสียทั้งหมดทีเดียว
+<span class="LineNumber"> 010 </span>แต่ให้ถือเอาพอเยียวยาอัตภาพตน  เหลือนอกนั้นไม่ให้.
+<span class="LineNumber"> 011 </span>                                       จบอรรถกถาสูตรที่   ๕
+
+<span class="LineNumber"> 012 </span>                                <H3>อรรถกถาสูตรที่ ๖</H3>
+
+<span class="LineNumber"> 013 </span>         ใน<B>สูตรที่   ๖</B>  (ข้อ  ๓๖๘)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 014 </span>         บทว่า  <B>สุภนิมิตฺตํ</B>  ได้แก่ อารมณ์ที่น่าปรารถนา.
+<span class="LineNumber"> 015 </span>                             	จบอรรถกถาสูตรที่  ๖
+
+<span class="LineNumber"> 016 </span>                               <H3>อรรถกถาสูตรที่ ๗</H3>
+
+<span class="LineNumber"> 017 </span>         ใน<B>สูตรที่ ๗</B>     (ข้อ ๓๖๙)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 018 </span>         บทว่า  <B>ปฏิฆนิมิตฺตํ</B>  ได้แก่   นิมิตที่ไม่น่าปรารถนา.
+<span class="LineNumber"> 019 </span>                                            จบอรรถกถาสูตรที่  ๗
+
+<span class="LineNumber"> 020 </span>                                <H1>อรรถกถาสูตรที่ ๘</H1>
+
+<span class="LineNumber"> 021 </span>         ใน<B>สูตรที่  ๘</B>  (ข้อ ๓๗๐)  มีวินิจฉัยดังต่อไปนี้.

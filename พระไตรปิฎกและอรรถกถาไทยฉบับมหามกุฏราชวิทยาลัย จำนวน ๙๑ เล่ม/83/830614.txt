@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>เป็นอันบุคคลนั้น คือบุคคลนั้นนั่นแหละละแล้ว ในที่นั้น   คือที่รูปธาตุ 
+<span class="LineNumber"> 002 </span>อรูปธาตุ.
+<span class="LineNumber"> 003 </span>         ก็หรือว่า ภวราคานุสัย  อันบุคคลใดละแล้ว ในที่ใด,  มานานุสัย
+<span class="LineNumber"> 004 </span>เป็นอันบุคคลละแล้ว  ในที่นั้น, ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>                        <I>จบ มานานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 007 </span><H2>มานานุสยมูละ อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 008 </span>         มานานุสัย   อันบุคคลใดละแล้ว   ในที่ใด, อวิชชานุสัย    เป็น
+<span class="LineNumber"> 009 </span>อันบุคคลนั้นละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า  อวิชชานุสัย  อันบุคคลใดละแล้ว  ในที่ใด, มานานุสัย
+<span class="LineNumber"> 012 </span>เป็นอันบุคคลนั้นละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         อวิชชานุสัย   อันบุคคลนั้น   คือพระอรหันต์ละแล้ว  ในที่นั้น
+<span class="LineNumber"> 014 </span>คือที่ทุกขเวทนา    มานานุสัย  ไม่พึงกล่าวว่า  ละแล้วหรือยังไม่ละแล้ว,
+<span class="LineNumber"> 015 </span>อวิชชานุสัย  อันบุคคลนั้นละแล้ว   ละมานานุสัย  อันบุคคลนั้น   คือ

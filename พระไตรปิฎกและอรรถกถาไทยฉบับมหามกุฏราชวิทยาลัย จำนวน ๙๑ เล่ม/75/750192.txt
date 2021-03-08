@@ -1,0 +1,34 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>๑๔.  ปุพพันตานุทิฏฐิทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>ปุพฺพนฺตานุทิฏฺ€ิ จ</B>                ความเห็นปรารภส่วนอดีต
+<span class="LineNumber"> 003 </span><B>อปรนฺตานุทิฏฺ€ิ จ</B>                  ความเห็นปรารภส่วนอนาคต
+
+<span class="LineNumber"> 004 </span>                         <H2>๑๕.  อหิริกทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>อหิริกญฺจ</B>                             ความไม่ละอาย
+<span class="LineNumber"> 006 </span><B>อโนตฺตปฺปญฺ จ</B>                    ความไม่เกรงกลัว
+
+<span class="LineNumber"> 007 </span>                           <H2>๑๖.  หิริทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>หิริ จ</B>                                   ความละอาย
+<span class="LineNumber"> 009 </span><B>โอตฺตปฺปญฺจ</B>                       ความเกรงกลัว
+
+<span class="LineNumber"> 010 </span>                    <H2>๑๗.  โทวจัสสตาทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>โทวจสฺสตา จ</B>                       ความเป็นผู้ว่ายาก
+<span class="LineNumber"> 012 </span><B>ปาปมิตฺตตา จ</B>                      ความเป็นผู้มีมิตรชั่ว
+
+<span class="LineNumber"> 013 </span>                    <H2>๑๘.  โสวจัสสตาทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>โสวจสฺสตา จ</B>                       ความเป็นผู้ว่าง่าย
+<span class="LineNumber"> 015 </span><B>กลฺยาณมิตฺตตา จ</B>                 ความเป็นผู้มีมิตรดี
+
+<span class="LineNumber"> 016 </span>                <H2>๑๙.  อาปัตติกุสลตาทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>อาปตฺติกุสลตา จ</B>                    ความเป็นผู้ฉลาดในอาบัติ
+<span class="LineNumber"> 018 </span><B>อาปตฺติวุฏฺ€านกุสลตา จ</B>        ความเป็นผู้ฉลาดในการออกจากสมาบัติ
+
+<span class="LineNumber"> 019 </span>              <H2>๒๐.  สมาปัตติกุสลตาทุกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>สมาปตฺติกุสลตา จ</B>                 ความเป็นผู้ฉลาดในสมาบัติ
+<span class="LineNumber"> 021 </span><B>สมาปตฺติวุฏฺ€านกุสลตา จ</B>     ความเป็นผู้ฉลาดในการออกจากสมาบัติ

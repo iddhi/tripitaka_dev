@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  12
+
+<span class="LineNumber"> 002 </span>		ตตฺถปฺปธานํ ปทหึ   นิสชฺชฏฺ€านจงฺกเม  
+<span class="LineNumber"> 003 </span>		อพฺภนฺตรมฺหิ สตฺตาเห  อภิฺาพล ปาปุณินฺติ ฯ(๑)  
+<span class="LineNumber"> 004 </span>	ตตฺถ  อสฺสโม  สุกโต  มยฺหํ  ปณฺณสาลา  สุมาปิตาติ  
+<span class="LineNumber"> 005 </span>อิมาย  ปน  ปาฬิยา  สุเมธปณฺฑิเตน  อสฺสมปณฺณสาลจงฺกมา  
+<span class="LineNumber"> 006 </span>สหตฺถา  มาปิตา  วิย  วุตฺตา ฯ  อยํ  ปเนตฺถ  อตฺโถ  มหาสตฺตฺหิ  
+<span class="LineNumber"> 007 </span>หิมวนฺตํ  อชฺโฌคาเหตฺวา  อชฺช  ธมฺมิกปพฺพตํ  ปวิสิสฺสตีติ  ทิสฺวา 
+<span class="LineNumber"> 008 </span>สกฺโก วิสฺสกมฺมเทวปุตฺตํ  อามนฺเตสิ ตาต  อยํ  สุเมธปณฺฑิโต  
+<span class="LineNumber"> 009 </span>ปพฺพชิสฺสามีติ  นิกฺขนฺโต  เอตสฺส  วสนฏฺ€านํ  มาเปหีติ ฯ  โส  
+<span class="LineNumber"> 010 </span>ตสฺส  วจนํ  สมฺปฏิจฺฉิตฺวา  รมณียํ  อสฺสมํ  สุคุตฺตํ  ปณฺณสาลํ  
+<span class="LineNumber"> 011 </span>มโนรมํ  จงฺกมฺจ  มาเปสิ ฯ  ภควา  ปน  ตทา  อตฺตโน  
+<span class="LineNumber"> 012 </span>ปุฺานุภาเวน  นิปฺผนฺนํ  ตํ  อสฺสมปทํ สนฺธาย(๒) สารีปุตฺตา 
+<span class="LineNumber"> 013 </span>ตสฺมึ ธมฺมิกปพฺพเต  
+<span class="LineNumber"> 014 </span>		อสฺสโม สุกโต มยฺหํ   ปณฺณสาลา สุมาปิตา  
+<span class="LineNumber"> 015 </span>		จงฺกมํ ตตฺถ มาเปสึ   ปฺจโทสวิวชฺชิตนฺติ  
+<span class="LineNumber"> 016 </span>อาห ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  สุกโต  มยฺหนฺติ  สุฏฺ€ุ  กโต  มยา ฯ  ปณฺณสาลา  
+<span class="LineNumber"> 018 </span>สุมาปิตาติ  ปณฺณจฺฉทนสาลาปิ  เม  สุมาปิตา  อโหสิ ฯ  
+<span class="LineNumber"> 019 </span>	ปฺจโทสวิวชฺชิตนฺติ  ปฺจิเม  จงฺกมโทสา  นาม  
+<span class="LineNumber"> 020 </span>ถทฺธวิสมตา  อนฺโต  รุกฺขตา  คหนจฺฉนฺนตา  อติสมฺพาธตา  
+<span class="LineNumber"> 021 </span>อติวิสาลตาติ ฯ  
+<span class="LineNumber"> 022 </span># ๑ สี. ยุ. อภิฺาพลมปาปุณินฺติ ฯ  เอวมุปริปิ ฯ  
+<span class="LineNumber"> 023 </span># ๒  สี. ยุ. นิสฺสาย ฯ  

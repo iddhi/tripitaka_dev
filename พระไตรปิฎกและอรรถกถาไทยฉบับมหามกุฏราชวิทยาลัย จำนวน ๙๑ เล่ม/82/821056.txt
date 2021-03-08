@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>ปัจจุปปันนานาคตวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         บุคคลใดไม่ใช่กำลังรู้แจ้งทุกขสัจจะ,     บุคคลนั้นไม่ใช่จักละ
+<span class="LineNumber"> 005 </span>สมุทยสัจจะ  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         บุคคลเหล่าใดจะได้มรรค  บุคคลเหล่านั้นไม่ใช่กำลังรู้แจ้งทุกข-
+<span class="LineNumber"> 007 </span>สัจจะ   แต่จักละสมุทยสัจจะ,    พระอรหันต์ทั้งหลายก็ดี   ปุถุชนเหล่าใด
+<span class="LineNumber"> 008 </span>จะไม่ได้มรรค    ปุถุชนเหล่านั้นก็ดี   ไม่ใช่กำลังรู้แจ้งทุกขสัจจะ    และ
+<span class="LineNumber"> 009 </span>จักไม่ละสมุทยสัจจะ.
+<span class="LineNumber"> 010 </span>         ก็หรือว่า   บุคคลใดไม่ใช่จักละสมุทยสัจจะ,     บุคคลนั้นไม่ใช่
+<span class="LineNumber"> 011 </span>กำลังรู้แจ้งทุกขสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         พระอรหัตมรรคบุคคลจักไม่ละสมุทยสัจจะ, แต่กำลังรู้แจ้งทุกข์
+<span class="LineNumber"> 013 </span>สัจจะ,   พระอรหันต์ทั้งหลายก็ดี   ปุถุชนเหล่าใดจะไม่ได้มรรค   ปุถุชน
+<span class="LineNumber"> 014 </span>เหล่านั้นก็ดี   จักไม่ละสมุทยสัจจะ  และไม่ใช่กำลังรู้แจ้งทุกขสัจจะ.
+<span class="LineNumber"> 015 </span>                      <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจะมูลี</I>
+<span class="LineNumber"> 016 </span>                                     <I>ทุกขสัจจมูล  จบ</I>
+<span class="LineNumber"> 017 </span>                     <I>ปัจจุปปันนานาคตวาระ ปัจจนิก  จบ</I>

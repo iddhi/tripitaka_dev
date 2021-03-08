@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>               				  <H1>จิตตสหภุทุกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>            		     <H2>(๖๑. จิตตสหภุทุกะ  ๑.  กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>                             	            <H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>                           	                 <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 005 </span>                                                <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๔๘๓]  ๑.  กุศลธรรมที่เป็นจิตตสหภูธรรม อาศัยกุศลธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นจิตตสหภูธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                          ๒.  กุศลธรรมที่ไม่ใช่จิตตสหภูธรรม    อาศัยกุศล-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นจิตตสหภูธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                          ๓.  กุศลธรรมที่เป็นจิตตสหภูธรรม   และกุศลธรรม
+<span class="LineNumber"> 011 </span>ที่ไม่ใช่จิตตสหภูธรรม อาศัยกุศลธรรมที่เป็นจิตตสหภูธรรม  เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>                          ๔.  กุศลธรรมที่เป็นจิตตสหภูธรรม อาศัยกุศลธรรม
+<span class="LineNumber"> 014 </span>ที่ไม่ใช่จิตตสหภูธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                          ๕.  กุศลธรรมที่เป็นจิตตสหภูธรรม  อาศัยกุศลธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นจิตตสหภูธรรม  และกุศลธรรมที่ไม่ใช่จิตตสหภูธรรม  เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะเหตุปัจจัย

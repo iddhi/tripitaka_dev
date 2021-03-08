@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                      	      <H2>ปัจจนียานุโลมนัย</H2> 
+<span class="LineNumber"> 002 </span>		[๒๒๓]  เพราะนเหตุปัจจัย   ในอารัมมณปัจจัย มี  ๖ วาระ... ฯลฯ
+<span class="LineNumber"> 003 </span>แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น. 
+
+<span class="LineNumber"> 004 </span>				    <H1>นเหตุบทปฏิจจวาระ</H1>			
+<span class="LineNumber"> 005 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>			             <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๒๒๔]  ๑.  นเหตุธรรมที่เป็นอาจยคามิธรรม    อาศัยนเหตุ-
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นอาจยคามิธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>                         ๒.  นเหตุธรรมที่เป็นเนวาจยคามินาปยคามิธรรม
+<span class="LineNumber"> 010 </span>อาศัยนเหตุธรรมที่เป็นอาจยคามิธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 011 </span>                         ๓.  นเหตุธรรมที่เป็นอาจยคามิธรรม  และนเหตุธรรม
+<span class="LineNumber"> 012 </span>ที่เป็นเนวาจยคามินาปจยคามิธรรม  อาศัยนเหตุธรรที่เป็นอาจยคา-
+<span class="LineNumber"> 013 </span>มิธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 014 </span>                         ๔.  นเหตุธรรมที่เป็นอปจยคามิธรรม    อาศัยนเหตุ-
+<span class="LineNumber"> 015 </span>ธรรมที่เป็นอปจยคามิธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>                         ๕.  นเหตุธรรมที่เป็นเนวาจยคามินาปจยคามิธรรม
+<span class="LineNumber"> 017 </span>อาศัยนเหตุธรรมที่เป็นอปจยคามิธรรม  เกิดขึ้น  เพราะเหตุปัจจัย

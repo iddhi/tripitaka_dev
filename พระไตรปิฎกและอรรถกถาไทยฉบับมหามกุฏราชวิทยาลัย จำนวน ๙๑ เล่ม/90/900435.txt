@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                    		<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 002 </span>		[๑๓๐๓]   ในเหตุปัจจัย  มี ๕ วาระ    ในอารัมมณปัจจัย  มี ๒ วาระ 
+<span class="LineNumber"> 003 </span>ฯลฯ   ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 004 </span>            	บาลีในที่นี้เหมือนกับบาลีแห่งโลกิยะ-โลกุตตรทุกะ.
+<span class="LineNumber"> 005 </span>            	สหชาตวาระก็ดี ฯลฯ   ปัญหาวาระก็ดี   พึงให้พิสดาร.
+<span class="LineNumber"> 006 </span>				          <I>คันถนิยทุกกุสลติกะ  จบ</I>

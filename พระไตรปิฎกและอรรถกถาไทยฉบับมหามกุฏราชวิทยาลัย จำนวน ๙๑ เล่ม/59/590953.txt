@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         พระมหาสัตว์   ครั้นแสดงมงคลที่  ๑    ดังนี้แล้ว   เมื่อจะแสดง
+<span class="LineNumber"> 002 </span>มงคลที่ ๒  เป็นต้น   จึงกล่าวคาถาทั้งหลายเหล่านี้ว่า :-
+<span class="LineNumber"> 003 </span>                        <B>ผู้ใดประพฤติถ่อมตนแก่สัตว์โลกทั้งปวง
+<span class="LineNumber"> 004 </span>           แต่หญิงและชายพร้อมทั้งเด็ก  เป็นผู้อดทนต่อ 
+<span class="LineNumber"> 005 </span>           ถ้อยคำชั่วร้าย    ไม่กล่าวลำเลิกถึงเรื่องเก่า  ๆ
+<span class="LineNumber"> 006 </span>           บัณฑิตทั้งหลายกล่าวความอดกลั้นของผู้นั้นว่า
+<span class="LineNumber"> 007 </span>           เป็นสวัสดิมงคล.
+<span class="LineNumber"> 008 </span>                        ผู้ใดเป็นผู้มีปัญญาดี     มีความรู้ปรุโปร่ง
+<span class="LineNumber"> 009 </span>           ในเมื่อเหตุเกิดขึ้น  ไม่ดูหมิ่นมิตรสหายทั้งหลาย
+<span class="LineNumber"> 010 </span>           ด้วยศิลปะ       สกุล       ทรัพย์      และด้วยชาติ
+<span class="LineNumber"> 011 </span>           บัณฑิตทั้งหลายกล่าวการไม่ดูหมิ่นสหายของผู้
+<span class="LineNumber"> 012 </span>           นั้น  ว่าเป็นสวัสดิมงคลในสหายทั้งหลาย.
+<span class="LineNumber"> 013 </span>                        สัตบุรุษทั้งหลายเป็นผู้ชอบพอคุ้นเคย
+<span class="LineNumber"> 014 </span>           กัน     เป็นมิตรแท้ของผู้ใด    ผู้มีคำพูดมั่นคง
+<span class="LineNumber"> 015 </span>           อนึ่ง  ผู้ใด  เป็นผู้ไม่ประทุษร้ายมิตร   แบ่งปัน
+<span class="LineNumber"> 016 </span>           ทรัพย์ของตนให้แก่มิตร บัณฑิตทั้งหลายกล่าว
+<span class="LineNumber"> 017 </span>           การได้ประโยชน์เพราะอาศัยมิตร       และการ</B>

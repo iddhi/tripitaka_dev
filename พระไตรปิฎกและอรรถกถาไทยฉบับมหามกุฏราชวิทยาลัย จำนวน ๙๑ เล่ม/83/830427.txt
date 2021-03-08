@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>ปฏิฆานุสัย   มานานุสัย   ทิฏฐานุสัย   วิจิกิจฉานุสัย   และภวราคานุสัย 
+<span class="LineNumber"> 002 </span>จากที่นั้น,   บุคคลทั้งหลายที่เหลือ   เว้นบุคคลผู้มีความพร้อมเพรียงด้วย
+<span class="LineNumber"> 003 </span>มรรค ๒ จำพวก   และบุคคลที่  ๘    ย่อมไม่ละอวิชชานุสัย    ไม่ละกาม-
+<span class="LineNumber"> 004 </span>ราคานุสัย   ปฏิฆานุสัย   มานานุสัย   ทิฏฐานุสัย    วิจิกิจฉานุสัย    และ
+<span class="LineNumber"> 005 </span>ภวราคานุสัย  ในที่ทั้งปวง.
+<span class="LineNumber"> 006 </span>         <I>จบกามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสย - 
+<span class="LineNumber"> 007 </span>               วิจิกิจฉานุสย - ภวราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 008 </span>           <I>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสย -
+<span class="LineNumber"> 009 </span>                      วิจิกิจฉานุสย - ภวราคานุสยมูล   จบ</I>.
+<span class="LineNumber"> 010 </span>                                     <I>ฉักกมูลกะ   จบ</I>.
+<span class="LineNumber"> 011 </span>                <I>อุปปัตติฏฐานปุคคโลกาสวาระ  ปัจจนิก  จบ</I>.
+<span class="LineNumber"> 012 </span>                                    <I>ปชหนวาระ  จบ</I>

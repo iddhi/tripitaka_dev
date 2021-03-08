@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  290
+
+<span class="LineNumber"> 002 </span>เอตาทิสํ  มณิรตนํ  ตว  นตฺถิ  มา  ปปฺจํ  กโรหิ ฯ  อุเปหิ  
+<span class="LineNumber"> 003 </span>ลกฺขนฺติ(๑)  อกฺเขหิ  กีฬนฏฺ€านํ  ชูตสาลํ  อุปคจฺฉ  กีฬนฺตา  จ 
+<span class="LineNumber"> 004 </span>มยํ  ธมฺเมน  ชิเนยฺยาม(๒)  ธมฺเมเนว  โน  อสาหเสน  ชโย  โหตุ  
+<span class="LineNumber"> 005 </span>สเจ  ปน  ตฺวํ  ชิโต ภวิสฺสสิ  อถ โน ขิปฺปมวากโรหีติ 
+<span class="LineNumber"> 006 </span>ปปฺจํ อกตฺวา ชิตธนํ(๓) ทเทยฺยาสีติ [๔]ฯ  
+<span class="LineNumber"> 007 </span>	อถ  นํ  ราชา  มาณว  ตฺวํ  มมํ (๕) ราชาติ  มา  ภายิ ธมฺเมเนว  
+<span class="LineNumber"> 008 </span>โน อสาหเสน ชยปราชโย ภวิสฺสตีติ อาห ฯ  
+<span class="LineNumber"> 009 </span>	ตํ  สุตฺวา  ปุณฺณโก  อมฺหากํ  ธมฺเมเนว  ชยปราชยภาวํ  
+<span class="LineNumber"> 010 </span>ชานาถาติ เต ราชาโน สกฺขึ กโรนฺโต คาถมาห  
+<span class="LineNumber"> 011 </span>	[๙๓๖]ปฺจาล ปจฺจุคฺคตสูรเสน  
+<span class="LineNumber"> 012 </span>		มจฺฉา จ มทฺทา สห เกกเกภิ  
+<span class="LineNumber"> 013 </span>		ปสฺสนฺตุ โน เต อสเถน ยุทฺธํ  
+<span class="LineNumber"> 014 </span>		น โน สภายํ น กโรนฺติ กิฺจีติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  ปจฺจุคฺคตาติ  อุคฺคตตฺตา  ปฺาตตฺตา  ปากตตฺตา  
+<span class="LineNumber"> 016 </span>ปฺจาลราชานเมว  อาลปติ ฯ มจฺฉา จาติ ตวฺจ สมฺม 
+<span class="LineNumber"> 017 </span>มจฺฉรฏฺเ€ ราช (๖) ฯ  มทฺทาติ  มทฺทราช ฯ  สห  เกกเกภีติ 
+<span class="LineNumber"> 018 </span>เกกเกหิ  นาม  ชนปเทหิ(๗)  สห  วตฺตมานเกกราช  ตวฺจ ฯ 
+<span class="LineNumber"> 019 </span>อถ  วา  สหสทฺทํ  เกกเกภีติ  ปทสฺส  ปจฺฉโต  €เปตฺวา  
+<span class="LineNumber"> 020 </span># ๑. ม. ลกฺขํ ฯ  ๒. ม. ชิสฺสาม ฯ  ๓. ม. อกตฺวาว  ชิโต ธนํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. เอตฺถนฺตเร วุตฺตํ โหตีติ ทิสฺสนฺติ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. มํ ฯ  ๖. ม. มจฺฉราช ฯ  ๗. ม. เกกเกภินาเมน 
+<span class="LineNumber"> 023 </span># ชนปเทน สห ฯ 

@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>อกุศลบท</H2> 
+<span class="LineNumber"> 002 </span>                       ๑. <B>ธรรมที่ไม่ใช่อกุศล   ที่ไม่ใช่อาสวธรรม  อาศัย
+<span class="LineNumber"> 003 </span>ธรรมที่เป็นอกุศล   ที่เป็นอาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 004 </span>มี  ๓  วาระ.
+
+<span class="LineNumber"> 005 </span>                                  <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 006 </span>                                   <H2>อนุโลมนัย</H2>			
+<span class="LineNumber"> 007 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>                                   <H2>อัพยากตบท</H2>	                  
+<span class="LineNumber"> 009 </span>                       ๑. <B>ธรรมที่ไม่ใช่อัพยากตะ  ที่ไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 010 </span>อาสวธรรม  อาศัยธรรมที่เป็นอัพยากตะ  ที่ไม่ใช่อาสวธรรม  เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะเหตุปัจจัย</B>  มี  ๓  วาระ.
+<span class="LineNumber"> 012 </span>              <I>อาสวทุกกุสลติกโนอาสวทุกนกุสลติกะ  จบ</I>

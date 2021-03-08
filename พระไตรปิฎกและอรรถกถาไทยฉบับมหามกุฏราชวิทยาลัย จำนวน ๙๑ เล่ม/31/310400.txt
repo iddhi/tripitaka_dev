@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>๗.   พาหุลปัญญสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                 <H1>เจริญธรรม  ๔  ประการเพื่อมีปัญญามาก</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๖๔๗]  ... ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญามาก ...
+<span class="LineNumber"> 004 </span>                                    <I>จบพาหุลปัญญสูตรที่  ๗</I>   
+
+<span class="LineNumber"> 005 </span>                                    <H1>๘.  สีฆปัญญสูตร </H1>
+
+<span class="LineNumber"> 006 </span>                    <H1>เจริญธรรม  ๔  ประการเพื่อมีปัญญาเร็ว</H1>
+
+<span class="LineNumber"> 007 </span>           [๑๖๔๘]  ... ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญาเร็ว...
+<span class="LineNumber"> 008 </span>                                   <I>จบสีฆปัญญสูตรที่  ๘</I>   
+
+<span class="LineNumber"> 009 </span>                                  <H1>๙.  ลหุปัญญสูตร</H1>
+
+<span class="LineNumber"> 010 </span>                   <H1>เจริญธรรม  ๔  ประการเพื่อมีปัญญาเบา</H1>
+
+<span class="LineNumber"> 011 </span>           [๑๖๔๙]  ... ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญาเบา ...
+<span class="LineNumber"> 012 </span>                                      <I>จบลหุปัญญสูตรที่  ๙</I>

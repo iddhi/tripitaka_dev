@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           ชื่อว่า   <B>มูลฏฺโ€  </B>- สภาพที่เป็นมูลแห่งฉันทะในเวลาเริ่มภาวนา 
+<span class="LineNumber"> 002 </span>ตั้งฉันทะไว้เป็นหลัก.
+<span class="LineNumber"> 003 </span>           ชื่อว่า   <B>ปาทฏฺโ€</B> - สภาพที่เป็นบาทแห่งฉันทะ  เพราะความเป็น
+<span class="LineNumber"> 004 </span>หลักแห่งสหชาตธรรม.   ปาฐะว่า   <B>ปทฏฺโ€</B>  ก็มี.
+<span class="LineNumber"> 005 </span>          ชื่อว่า   <B>ปธานฏฺโ€    </B>สภาพที่เป็นประธานแห่งฉันทะ   เพราะ
+<span class="LineNumber"> 006 </span>ความเป็นใหญ่ยิ่ง   ให้ถึงความสำเร็จ. 
+<span class="LineNumber"> 007 </span>           ชื่อว่า  <B>อิชฺฌนฏฺโ€</B> -  สภาพที่สำเร็จแห่งฉันทะ   ในเวลาประกอบ
+<span class="LineNumber"> 008 </span>ความเพียร.
+<span class="LineNumber"> 009 </span>           ชื่อว่า    <B>อธิโมกฺขฏฺโ€ </B>- สภาพที่น้อมไปแห่งฉันทะ.     เพราะ
+<span class="LineNumber"> 010 </span>ประกอบด้วยสัทธา.  ชื่อว่า  <B>ปคฺคหฏฺโ€</B>  -  สภาพที่ประคองไว้แห่งฉันทะ 
+<span class="LineNumber"> 011 </span>เพราะประกอบความเพียร.
+<span class="LineNumber"> 012 </span>           ชื่อว่า    <B>อุปฏฺฐานฏฺโ€</B>  -  สภาพที่ตั้งมั่นแห่งฉันทะ      เพราะ
+<span class="LineNumber"> 013 </span>ประกอบด้วยสติ.
+<span class="LineNumber"> 014 </span>            ชื่อว่า   <B>อวิกฺเขปฏฺโ€</B>  -  สภาพที่ไม่ฟุ้งซ่านแห่งฉันทะ    เพราะ
+<span class="LineNumber"> 015 </span>ประกอบด้วยสมาธิ.
+<span class="LineNumber"> 016 </span>           ชื่อว่า   <B>ทสฺสนฏฺโ€</B> -  สภาพที่เห็นแห่งฉันทะ   เพราะประกอบ
+<span class="LineNumber"> 017 </span> ด้วยปัญญา.

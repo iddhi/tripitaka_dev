@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	๔.  <B>สัททายตนะ</B>		อายตนะคือเสียง. 
+<span class="LineNumber"> 002 </span>	๕.  <B>ฆานายตนะ</B>		อายตนะคือจมูก.
+<span class="LineNumber"> 003 </span>	๖.  <B>คันธายตนะ</B>		อายตนะคือกลิ่น.
+<span class="LineNumber"> 004 </span>	๗.  <B>ชิวหายตนะ</B>		อายตนะคือลิ้น.  
+<span class="LineNumber"> 005 </span>	๘.  <B>รสายตนะ</B>		อายตนะคือรส.
+<span class="LineNumber"> 006 </span>	๙.  <B>กายายตนะ</B>		อายตนะคือกาย.
+<span class="LineNumber"> 007 </span>	๑๐.  <B>โผฏฐัพพายตนะ</B>	อายตนะคือสัมผัสทางกาย.
+<span class="LineNumber"> 008 </span>	๑๑.  <B>มนายตนะ</B>		อายตนะคือใจ.
+<span class="LineNumber"> 009 </span>	๑๒.  <B>ธัมมายตนะ</B>		อายตนะคืออารมณ์เกิดกับใจ.
+<span class="LineNumber"> 010 </span>                          <B>หมวดที่ ๓</B>  ได้แก่ธาตุ  ๑๘  คือ :-
+<span class="LineNumber"> 011 </span>	๑.  <B>จักขุธาตุ</B>			ธาตุคือตา.
+<span class="LineNumber"> 012 </span>	๒.  <B>รูปธาตุ</B>			ธาตุคือรูป.
+<span class="LineNumber"> 013 </span>	๓.  <B>จักขุวิญญาณธาตุ</B>	ธาตุคือวิญญาณทางตา.
+<span class="LineNumber"> 014 </span>	๔.  <B>โสตธาตุ</B>			ธาตุคือหู.
+<span class="LineNumber"> 015 </span>	๕.  <B>สัททธาตุ</B>		ธาตุคือเสียง.
+<span class="LineNumber"> 016 </span>	๖.  <B>โสตวิญญาณธาตุ</B>	ธาตุคือวิญญาณทางหู.
+<span class="LineNumber"> 017 </span>	๗.  <B>ฆานธาตุ</B>			ธาตุคือจมูก.
+<span class="LineNumber"> 018 </span>	๘.  <B>คันธธาตุ</B>  		ธาตุคือกลิ่น.
+<span class="LineNumber"> 019 </span>	๙.  <B>ฆานวิญญาณธาตุ</B>	ธาตุคือวิญญาณทางจมูก.
+<span class="LineNumber"> 020 </span>	๑๐.  <B>ชิวหาธาตุ</B> 		ธาตุคือลิ้น
+<span class="LineNumber"> 021 </span>	๑๑.  <B>รสธาตุ</B>			ธาตุคือรส.
+

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                           ๒.  อกุศลธรรมที่เป็นปรามาสวิปปยุตตธรรม  อาศัย 
+<span class="LineNumber"> 002 </span>อกุศลธรรมที่เป็นปรามาสวิปปยุตตธรรม  เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 003 </span>                   	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 004 </span>		[๑๓๙๙]  ในเหตุปัจจัย  มี  ๒  วาระ    ในอารัมมณปัจจัย  มี ๒ วาระ
+<span class="LineNumber"> 005 </span>ในปัจจัยทั้งปวง มี ๒ วาระ    ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 006 </span>                        	     <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 007 </span>                  <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 008 </span>		[๑๔๐๐]  ในนเหตุปัจจัย มี  ๑  วาระ     ในนอธิปติปัจจัย   มี  ๒  วาระ
+<span class="LineNumber"> 009 </span>ใจปัจจัยทั้งปวง มี ๒ วาระ  ฯลฯ   ในนวิปปยุตตปัจจัย  มี  ๒ วาระ.
+<span class="LineNumber"> 010 </span>สหชาตวาระก็ดี   ฯลฯ   สัมปยุตตวาระก็ดี  พึงให้พิสดาร.
+
+<span class="LineNumber"> 011 </span>				<H1>อกุศลบทปัญหาวาระ</H1>       
+<span class="LineNumber"> 012 </span>                    		<H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 013 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๑๔๐๑]  ๑.  อกุศลธรรมที่เป็นปรามาสสัมปยุตตธรรม     เป็น
+<span class="LineNumber"> 015 </span>ปัจจัยแก่อกุศลธรรมที่เป็นปรามาสสัมปยุตตธรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 016 </span>เหตุปัจจัย   ฯลฯ
+<span class="LineNumber"> 017 </span>                           ๒.  อกุศลธรรมที่เป็นปรามาสวิปปยุตตธรรม    เป็น
+<span class="LineNumber"> 018 </span>ปัจจัยแก่อกุศลธรรมที่เป็นปรามาสวิปปยุตตธรรม      ด้วยอำนาจของ
+<span class="LineNumber"> 019 </span>เหตุปัจจัย                                  

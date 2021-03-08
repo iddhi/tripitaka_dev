@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span><B>จักขุนทริยมูละ  อุเปกขินทริยมูลี:-</B>
+<span class="LineNumber"> 002 </span>         [๗๓๔]   จักขุนทรีย์เคยเกิดในภูมิใด,    อุเปกขินทรีย์ก็เคยเกิด 
+<span class="LineNumber"> 003 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   อุเปกขินทรีย์เคยเกิดในภูมิใด,    จักขุนทรีย์ก็เคยเกิด
+<span class="LineNumber"> 006 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ในอรูปภูมิอุเปกขินทรีย์เคยเกิดในภูมินั้น  แต่จักขุนทรีย์ไม่ใช่
+<span class="LineNumber"> 008 </span>เคยเกิดในภูมินั้น,   ในปัญจโวการภูมิอุเปกขินทรีย์เคยเกิด และจักขุนทรีย์
+<span class="LineNumber"> 009 </span>ก็เคยเกิดในภูมินั้น,
+<span class="LineNumber"> 010 </span>                   <I>จบ   จักขุนทริยมูละ   อุเปกขินทริยมูลี</I>
+
+<span class="LineNumber"> 011 </span><B>จักขุนทริยมูละ  สัทธินทริย  ฯลฯ  ปัญญินทริย  มนินทริยมูลี:-</B>
+<span class="LineNumber"> 012 </span>         [๗๓๕]   จักขุนทรีย์เคยเกิดในภูมิใด,     สัทธินทรีย์     ฯลฯ
+<span class="LineNumber"> 013 </span>ปัญญินทรีย์   มนินทรีย์ก็เคยเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่.

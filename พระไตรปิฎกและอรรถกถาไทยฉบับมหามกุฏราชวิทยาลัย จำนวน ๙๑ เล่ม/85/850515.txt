@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>              <B>๒๑.  ปัจจัย ๙</B>  คือ เหตุ  อธิปติ  สหชาตะ    นิสสยะ 
+<span class="LineNumber"> 002 </span>อินทริยะ  มัคคะ  วิปปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 003 </span>              <B>๒๒.  ปัจจัย ๙</B>  คือ เหตุ อธิปติ สหชาตะ นิสสยะ วิปากะ
+<span class="LineNumber"> 004 </span>อินทริยะ  มัคคะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.  
+<span class="LineNumber"> 005 </span>              <B>๒๓.  ปัจจัย ๙</B>   คือ เหตุ  อธิปติ สหชาตะ อัญญมัญญะ
+<span class="LineNumber"> 006 </span>นิสสยะ  วิปากะ   อินทริยะ  มัคคะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย
+<span class="LineNumber"> 007 </span>มี ๑ วาระ.
+<span class="LineNumber"> 008 </span>              <B>๒๔.  ปัจจัย ๑๐</B>  คือ เหตุ  อธิปติ   สหชาตะ   นิสสยะ
+<span class="LineNumber"> 009 </span>วิปากะ อินทริยะ มัคคะ วิปปยุตตะ.  อตถิ  อวิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>                                   <I>เหตุมูลกนัย  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                <H1>๒. อารัมมณมูลกนัย</H1>
+<span class="LineNumber"> 012 </span>                                  <H1>อารัมมณสภาคะ ๗</H1>
+<span class="LineNumber"> 013 </span> <B>[๖๒๘]  เพราะอารัมมณปัจจัย</B>     ในอธิปติปัจจัย   มี ๗ วาระ...   ใน
+<span class="LineNumber"> 014 </span>นิสสยปัจจัย  มี ๓ วาระ   ในอุปนิสสยปัจจัย  มี ๗ วาระ  ในปุเรชาตปัจจัย 
+<span class="LineNumber"> 015 </span>มี ๓ วาระ    ในวิปปยุตตปัจจัย   มี ๓ วาระ    ในอัตถิปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 016 </span>ในอวิคตปัจจัย   มี ๓ วาระ. 

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		<B>ย</B>                      แปลว่า              ใด  
+<span class="LineNumber"> 002 </span>		<B>อญฺ</B>                    "                    อื่น
+<span class="LineNumber"> 003 </span>		<B>อญฺตร</B>                "                    คนใดคนหนึ่ง
+<span class="LineNumber"> 004 </span>		<B>อญฺตม</B>                "                    คนใดคนหนึ่ง
+<span class="LineNumber"> 005 </span>		<B>ปร</B>                          "                    อื่น
+<span class="LineNumber"> 006 </span>		<B>อปร</B>                        "                    อื่นอีก
+<span class="LineNumber"> 007 </span>		<B>กตร</B>                         "                    คนไหน
+<span class="LineNumber"> 008 </span>		<B>กตม</B>                        "                     คนไหน
+<span class="LineNumber"> 009 </span>		<B>เอก</B>                          "                     คนหนึ่ง, พวกหนึ่ง
+<span class="LineNumber"> 010 </span>		<B>เอกจฺจ</B>                      "                     บางคน,  บางพวก
+<span class="LineNumber"> 011 </span>		<B>สพฺพ</B>                         "                     ทั้งปวง
+<span class="LineNumber"> 012 </span>		<B>กึ</B>                               "                     หรือ,  อะไร
+<span class="LineNumber"> 013 </span>		<B>อุภย</B>                          "                      ทั้งสอง
+<span class="LineNumber"> 014 </span>	เป็นคำใช้แทน  หรือ ประกอบ  นามนาม  โดยไม่ได้กำหนด
+<span class="LineNumber"> 015 </span>แน่นอนลงไปว่า สิ่งนั้น สิ่งนี้  หรือ คนนั้น  คนนี้  เป็นต้น  เช่น
+<span class="LineNumber"> 016 </span><B>"โย ปุคฺคโล"</B>  แปลว่า บุคคลใด  คำว่า  "ใด"  เป็น  อนิยม
+<span class="LineNumber"> 017 </span>วิเสสนสัพพนาม  ประกอบคำว่า  บุคคล ให้วิเศษขึ้น  แต่ยังรู้ไม่ได้ว่า
+<span class="LineNumber"> 018 </span>เป็นบุคคลนั้น  หรือบุคคลนี้  อยู่ในที่ใกล้หรือไกล  รู้ได้แต่เพียงว่าเป็น
+<span class="LineNumber"> 019 </span>นามนามอย่างหนึ่ง  ซึ่งยกขึ้นกล่าวว่า  บุคคล คือ  จะเป็นบุคคลใด ๆ
+<span class="LineNumber"> 020 </span>ก็ตาม  ย่อมมีความมุ่งหมายถึงทั้งหมด  ฉะนั้น  คำว่า "ใด"  นี้ จึง
+        

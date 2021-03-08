@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <h1>๖.  ทุติยชนสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๑๖๘]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 003 </span>                             <B>อะไรหนอยังคนให้เกิด   อะไรหนอ
+<span class="LineNumber"> 004 </span>                   ของเขาย่อมวิ่งพล่าน  อะไรหนอเวียนว่าย
+<span class="LineNumber"> 005 </span>                   ไปยังสงสาร      สัตว์ย่อมไม่หลุดพ้นจาก
+<span class="LineNumber"> 006 </span>                   อะไร.</B>
+<span class="LineNumber"> 007 </span>         [๑๖๙]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 008 </span>                             <B>ตัณหายังคนให้เกิด  จิตของเขาย่อม
+<span class="LineNumber"> 009 </span>                   วิ่งพล่าน    สัตว์เวียนว่ายไปยังสงสาร  สัตว์
+<span class="LineNumber"> 010 </span>                   ย่อมไม่หลุดพ้นจากทุกข์.</B>
+
+<span class="LineNumber"> 011 </span>                                 <h1>๗.  ตติยชนสูตร</h1>
+
+<span class="LineNumber"> 012 </span>         [๑๗๐]   เทวดาทูลถามว่า
+<span class="LineNumber"> 013 </span>                             <B>อะไรหนอยังคนให้เกิด   อะไรหนอ
+<span class="LineNumber"> 014 </span>                   ของเขาย่อมวิ่งพล่าน  อะไรหนอเวียนว่าย
+<span class="LineNumber"> 015 </span>                   ไปยังสงสาร  อะไรหนอเป็นที่พำนักของ
+<span class="LineNumber"> 016 </span>                   สัตว์นั้น.</B>
+<span class="LineNumber"> 017 </span>         [๑๗๑]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 018 </span>                             <B>ตัณหายังคนให้เกิด    จิตของเขาย่อม
+<span class="LineNumber"> 019 </span>                   วิ่งพล่าน  สัตว์เวียนว่ายไปยังสงสาร  กรรม
+<span class="LineNumber"> 020 </span>                   เป็นที่พำนักของสัตว์นั้น.</B>

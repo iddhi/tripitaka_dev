@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  384
+	
+<span class="LineNumber"> 002 </span>		อชฺฌายโก(๑) มนฺตธโร	ติณฺณํ เวทาน ปารคู  
+<span class="LineNumber"> 003 </span>		อพฺโภกาเส (๒) €ิโต สนฺโต  อทฺทสํ โลกนายกํ ฯ  
+<span class="LineNumber"> 004 </span>		สีหํ ยถา วนจรํ (๓)	พฺยคฺฆราชํว นิตฺตสํ  
+<span class="LineNumber"> 005 </span>		ติธาปภินฺนมาตงฺคํ		กุฺชรํว มเหสินํ ฯ  
+<span class="LineNumber"> 006 </span>		เสเรยกํ(๔) คเหตฺวาน	อากาเส อุกฺขิปึ อหํ  
+<span class="LineNumber"> 007 </span>		พุทฺธสฺส อานุภาเวน	ปริวาเรนฺติ สพฺพโส ฯ  
+<span class="LineNumber"> 008 </span>		อธิฏฺ€หิ มหาวีโร		สพฺพฺู โลกนายโก  
+<span class="LineNumber"> 009 </span>		สมนฺตา ปุปฺผจฺฉทนา(๕)	โอกิรึสุ นราสภํ ฯ  
+<span class="LineNumber"> 010 </span>		ตโต สา ปุปฺผกฺจุกา	อนฺโตวนฺตา(๖) พหิมุขา  
+<span class="LineNumber"> 011 </span>		สตฺตาหํ ฉทนํ กตฺวา	ตโต อนฺตรธายถ ฯ  
+<span class="LineNumber"> 012 </span>		ตฺจ อจฺฉริยํ ทิสฺวา	อพฺภุตํ โลมหํสนํ  
+<span class="LineNumber"> 013 </span>		พุทฺเธ จิตฺตํ ปสาเทสึ	สุคเต โลกนายเก ฯ  
+<span class="LineNumber"> 014 </span>		เตน จิตฺตปฺปสาเทน	สุกฺกมูเลน โจทิโต  
+<span class="LineNumber"> 015 </span>		กปฺปานํ สตสหสฺสํ		ทุคฺคตึ นุปปชฺชหํ ฯ  
+<span class="LineNumber"> 016 </span>		ปณฺณรสสหสฺสมฺหิ		กปฺปานํ ปฺจวีสติ(๗)  
+<span class="LineNumber"> 017 </span>		วีตมลาสนามา จ (๘)	จกฺกวตฺตี มหพฺพลา ฯ  
+<span class="LineNumber"> 018 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 019 </span># ๑. สฺยา. อชฺฌายิโก ฯ  ๒. สี. อชฺโฌกาเส ฯ 
+<span class="LineNumber"> 020 </span># ๓. สี. เอกจรํ ฯ  ๔. สฺยา. เสเรยฺยกํ ฯ   ๕. สฺยา. ...ฉทนํ ฯ
+<span class="LineNumber"> 021 </span># ๖. สฺยา. ม. อนฺโตวณฺฏา ฯ  ๗. สฺยา. ปฺจวีสเต ฯ 
+<span class="LineNumber"> 022 </span># ๘. สฺยา. วิลามาลาสนามา จ ฯ  สี. จิณฺณมาลาสนามา จ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 54
+
+<span class="LineNumber"> 002 </span>	นครํ รมฺมวตี นาม		สุเมโธ(๑) นาม ขตฺติโย  
+<span class="LineNumber"> 003 </span>	สุเมธา นาม ชนิกา		ทีปงฺกรสฺส สตฺถุโน ฯ  
+<span class="LineNumber"> 004 </span>	[ทส วสฺสสหสฺสานิ		อคารํ อชฺฌาวสี ชิโน  
+<span class="LineNumber"> 005 </span>	หํสา โกฺจา มายุรา กฺขฺย  ตโย ปาสาทมุตฺตมา ฯ  
+<span class="LineNumber"> 006 </span>	ตีณิ สตสหสฺสานิ		นาริโย สมลงฺกตา  
+<span class="LineNumber"> 007 </span>	ปทุมา นาม สา นารี		อุสภกฺขนฺโธ จ อตฺรโช ฯ  
+<span class="LineNumber"> 008 </span>	นิมิตฺเต จตุโร ทิสฺวา	หตฺถิยาเนน นิกฺขมิ  
+<span class="LineNumber"> 009 </span>	อนูนทสมาสานิ		ปธานํ ปทหี ชิโน ฯ  
+<span class="LineNumber"> 010 </span>	ปธานจารํ จริตฺวาน		อพุชฺฌิ มานสา มุนิ  
+<span class="LineNumber"> 011 </span>	พฺรหฺมุนา ยาจิโต สนฺโต	ทีปงฺกโร มหามุนิ ฯ  
+<span class="LineNumber"> 012 </span>	วตฺตจกฺโก มหาวีโร		นนฺทาราเม วสี ชิโน  
+<span class="LineNumber"> 013 </span>	นิสินฺโน สิริสมูลมฺหิ		อกาสิ ติตฺถิยมทฺทนํ ฯ]  
+<span class="LineNumber"> 014 </span>	สุมงฺคโล จ ติสฺโส จ		อเหสุํ อคฺคสาวกา  
+<span class="LineNumber"> 015 </span>	สาคโร(๒) นามุปฏฺ€าโก	ทีปงฺกรสฺส สตฺถุโน ฯ  
+<span class="LineNumber"> 016 </span>	นนฺทา เจว สุนนฺทา จ	อเหสุํ อคฺคสาวิกา  
+<span class="LineNumber"> 017 </span>	โพธิ ตสฺส ภควโต		ปิปฺผลีติ ปวุจฺจติ ฯ  
+<span class="LineNumber"> 018 </span>	อสีติหตฺถมุพฺเพโธ		ทีปงฺกโร มหามุนิ  
+<span class="LineNumber"> 019 </span>	โสภติ ทีปรุกฺโขว		สาลราชาว ผุลฺลิโต ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. สุเทโว ฯ  [ ] มรมฺมโปตฺถเก นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๒. สี. สาคโล ฯ  ม.  สาคโต ฯ ยุ. โสภิโต ฯ 

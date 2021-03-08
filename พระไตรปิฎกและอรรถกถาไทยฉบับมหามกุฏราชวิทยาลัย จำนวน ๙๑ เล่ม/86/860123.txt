@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>ปัจจนียานุโลมนัย</H1> 
+<span class="LineNumber"> 002 </span>         [๑๓๔๔]   <B>เพราะนเหตุปัจจัย</B>    ในอารัมมณปัจจัย    มี ๗ วาระ. . .
+<span class="LineNumber"> 003 </span>ในอนันตรปัจจัย   มี ๗ วาระ   ในสมนันตรปัจจัย   มี ๗ วาระ. . . ฯลฯ    มี
+<span class="LineNumber"> 004 </span>อวิคตปัจจัย  มี ๑๒ วาระ.
+<span class="LineNumber"> 005 </span>         <B>เพราะนเหตุปัจจัย  นอารัมมณปัจจัย</B>    ในสหชาตปัจจัย   มี ๓ วาระ 
+<span class="LineNumber"> 006 </span>ในอัญญมัญญปัจจัย  มี ๒ วาระ . . .  ในอวิคตปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 007 </span>         พึงนับเหมือนการนับในปัจจนียานุโลม  ในกุสลติกะ.
+<span class="LineNumber"> 008 </span>                                    <I>ปัจจนียานุโลมนัย  จบ</I>
+<span class="LineNumber"> 009 </span>                                        <I>ปัจจยวาระ  จบ</I> 

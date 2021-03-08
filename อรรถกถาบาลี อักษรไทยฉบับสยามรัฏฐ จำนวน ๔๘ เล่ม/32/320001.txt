@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ 32   หน้า  1
+
+<span class="LineNumber"> 002 </span>				ฉกฺกนิปาตชาตกฏฺ€กถา  
+<span class="LineNumber"> 003 </span>				อาวาริยวคฺควณฺณนา  
+
+<span class="LineNumber"> 004 </span>				     อาวาริยชาตกํ  
+<span class="LineNumber"> 005 </span>	มาสุ  กุชฺฌ  ภูมิปตีติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต 
+<span class="LineNumber"> 006 </span>เอกํ  ติตฺถนาวิกํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 007 </span>	โส  กิร  พาโล  อโหสิ  อฺาโณ  เนว  โส  พุทฺธาทีนํ  
+<span class="LineNumber"> 008 </span>รตนานํ  น  อฺเสฺจ  ปุคฺคลานํ  คุณํ  ชานาติ  จณฺโฑ
+<span class="LineNumber"> 009 </span>ผรุโส  สาหสิโก  ฯ  อเถโก  ชานปโท  ภิกฺขุ  พุทฺธุปฏฺ€านํ  
+<span class="LineNumber"> 010 </span>กริสฺสามีติ  อาคจฺฉนฺโต  สายํ  อจิรวตีติตฺถํ  ปตฺวา  ตํ  เอวมาห  
+<span class="LineNumber"> 011 </span>อุปาสก  ปรตีรํ  คมิสฺสามิ  นาวํ  เม  เทหีติ  ฯ  ภนฺเต  อิทานิ  
+<span class="LineNumber"> 012 </span>อกาโล  เอกสฺมึ  €าเน  อิธ  วสสฺสูติ  ฯ  อุปาสก  อิธ  กุหึ  
+<span class="LineNumber"> 013 </span>วสิสฺสามิ  มํ  คณฺหิตฺวา  คจฺฉาหีติ  ฯ  โส  กุชฺฌิตฺวา  เอหิ  
+<span class="LineNumber"> 014 </span>เรธ  สมณ  วหามีติ  วตฺวา  เถรํ  นาวํ  อาโรเปตฺวา  อุชุกํ 
+<span class="LineNumber"> 015 </span>อคนฺตฺวา เหฏฺ€า นาวํ เนตฺวา  อุลฺโลลํ  กตฺวา  ตสฺส  ปตฺตจีวรํ 
+<span class="LineNumber"> 016 </span>เตเมตฺวา  กิลเมตฺวา  ตีรํ  ปตฺวา  อนฺธการเวลายํ  อุยฺโยเชสิ  ฯ 
+<span class="LineNumber"> 017 </span>อถ  โส  วิหารํ  คนฺตฺวา  ตํ  ทิวสํ  พุทฺธุปฏฺ€านสฺส  โอกาสํ 
+<span class="LineNumber"> 018 </span>อลภิตฺวา  ปุนทิวเส  สตฺถารํ  อุปสงฺกมิตฺวา  วนฺทิตฺวา  เอกมนฺตํ
+<span class="LineNumber"> 019 </span>นิสีทิตฺวา  สตฺถารา  กตปฏิสนฺถาโร  กทา  อาคโตสีติ  วุตฺเต
+<span class="LineNumber"> 020 </span>หิยฺโย  ภนฺเตติ  อถ  กสฺมา  อชฺช  พุทฺธุปฏฺ€านํ  อาคโตสีติ  วุตฺเต 

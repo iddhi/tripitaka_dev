@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                นิกเขปราสิ   (การจำแนกกองธรรมที่ตั้งไว้)
+<span class="LineNumber"> 002 </span>                อัตถุทธาระ  (การยกอรรถขึ้นแสดง). 
+
+<span class="LineNumber"> 003 </span>                        <H1>ว่าด้วยจิตตวิภัตติ</H1>
+
+<span class="LineNumber"> 004 </span>บรรดาการจำแนกธรรมทั้ง  ๔   เหล่านั้น     ธรรมนี้คือ
+<span class="LineNumber"> 005 </span>                ๑.  กามาวจรกุศลจิต         ๘  ดวง
+<span class="LineNumber"> 006 </span>                ๒.  อกุศลจิต                  ๑๒  ดวง
+<span class="LineNumber"> 007 </span>                ๓.  กุศลวิปากจิต            ๑๖   ดวง
+<span class="LineNumber"> 008 </span>                ๔.  อกุศลวิปากจิต            ๗   ดวง
+<span class="LineNumber"> 009 </span>                ๕.  กิริยาจิต                    ๑๑   ดวง
+<span class="LineNumber"> 010 </span>                ๖.  รูปาวจรกุศลจิต           ๕   ดวง
+<span class="LineNumber"> 011 </span>                ๗.  รูปาวจรวิปากจิต        ๕   ดวง
+<span class="LineNumber"> 012 </span>                ๘.  รูปาวจรกิริยาจิต         ๕   ดวง
+<span class="LineNumber"> 013 </span>                ๙.  อรูปาวจรกุศลจิต        ๔   ดวง
+<span class="LineNumber"> 014 </span>              ๑๐.  อรูปาวจรวิปากจิต      ๔   ดวง
+<span class="LineNumber"> 015 </span>              ๑๑.  อรูปาวจรกิริยาจิต       ๔   ดวง
+<span class="LineNumber"> 016 </span>              ๑๒.  โลกุตรกุศลจิต            ๔   ดวง
+<span class="LineNumber"> 017 </span>              ๑๓.  โลกุตรวิปากจิต          ๔   ดวง
+<span class="LineNumber"> 018 </span>         รวมจิต   ๘๙   ดวงตามที่กล่าวมานี้   ชื่อว่า   <B>จิตตวิภัตติ</B>   แม้คำว่า
+<span class="LineNumber"> 019 </span><B>จิตตุปปาทกัณฑ์</B>  ดังนี้  ก็เป็นชื่อของจิตตวิภัตตินี้เหมือนกัน  ก็จิตนั้นว่าโดย
+<span class="LineNumber"> 020 </span>ทางแห่งคำพูดมีเกิน  ๖  ภาณวาร  แต่เมื่อให้พิสดารก็ไม่มีที่สุด  ไม่มีประมาณ.

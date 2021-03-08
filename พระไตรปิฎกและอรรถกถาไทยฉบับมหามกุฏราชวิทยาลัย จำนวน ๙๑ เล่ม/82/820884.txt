@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า    มัคคสัจจะจักเกิดแก่บุคคลใดในภูมิใด,      ทุกขสัจจะ 
+<span class="LineNumber"> 002 </span>ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>                            <I>จบ  ทุกขสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 005 </span>                                       <I>ทุกขสัจจมูล  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                        <H1>สมุทยสัจจมูล</H1>
+<span class="LineNumber"> 007 </span><H2>สมุทยสัจจมูละ  มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 008 </span>         [๘๖๙]   สมุทยสัจจะจักเกิดแก่บุคคลใดในภูมิใด,    มัคคสัจจะ
+<span class="LineNumber"> 009 </span>ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         บุคคลผู้เกิดอยู่ในอบายภูมิก็ดี       ปุถุชนเหล่าใดจักไม่ได้มรรค
+<span class="LineNumber"> 011 </span>ปุถุชนเหล่านั้นก็ดี   สมุทยสัจจะจักเกิดแก่บุคคลเหล่านั้นในภูมินั้น   แต่
+<span class="LineNumber"> 012 </span>มัคคสัจจะไม่ใช่จักเกิดแก่บุคคลเหล่านั้นในภูมินั้น,       บุคคลเหล่าใดจะ
+<span class="LineNumber"> 013 </span>ได้มรรค   สมุทยสัจจะจักเกิด   และมัคคสัจจะก็จักเกิดแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 014 </span>ในภูมินั้น.

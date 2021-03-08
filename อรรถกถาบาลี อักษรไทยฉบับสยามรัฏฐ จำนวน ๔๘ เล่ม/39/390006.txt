@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 39  มหานิทฺเทสวณฺณนา  หน้า  6
+
+<span class="LineNumber"> 002 </span>			สํสารขีโณ น จ วนฺตราโค  
+<span class="LineNumber"> 003 </span>			น จาปิ เสกฺโข น จ ทิฏฺ€ธมฺโม  
+<span class="LineNumber"> 004 </span>			(๑)อขีณาสโว อนฺติมเทหธารี  
+<span class="LineNumber"> 005 </span>			ตํ ปุคฺคลํ กตมํ วทนฺติ พุทฺธา ฯ  
+<span class="LineNumber"> 006 </span>			น ทุกฺขสจฺเจน สมงฺคิภูโต  
+<span class="LineNumber"> 007 </span>			น มคฺคสจฺเจน กุโต นิโรโธ  
+<span class="LineNumber"> 008 </span>			สมุทยสจฺจโต สุวิทูรทูเร (๒)  
+<span class="LineNumber"> 009 </span>			ตํ ปุคฺคลํ กตมํ วทนฺติ พุทฺธา ฯ  
+<span class="LineNumber"> 010 </span>			อเหตุโก โนปิ จ รูปนิสฺสิโต  
+<span class="LineNumber"> 011 </span>			อปจฺจโย(๓) โนปิ จ โส อสงฺขโต  
+<span class="LineNumber"> 012 </span>			อสงฺขตารมฺมโณ โน(๔) จ รูปี  
+<span class="LineNumber"> 013 </span>			ตํ ปุคฺคลํ กตมํ วทนฺติ พุทฺธาติ  
+<span class="LineNumber"> 014 </span>วุตฺตํ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  ป€มคาถา  นิมฺมิตพุทฺธํ  สนฺธาย  ทุติยคาถา  
+<span class="LineNumber"> 016 </span>ปจฺฉิมภวิกโพธิสตฺตํ สนฺธาย  ตติยคาถา  อรหตฺตผลฏฺ€ํ  สนฺธาย  
+<span class="LineNumber"> 017 </span>จตุตฺถคาถา อรูเป (๕)นิพฺพานปจฺจเวกฺขณมโนทฺวารปุเรจาริกํ ตตฺถ ปน
+<span class="LineNumber"> 018 </span>จิตฺตสมงฺคึ  (๕)  สนฺธาย  วุตฺตาติ าตพฺพา ฯ กีทิเสน ทสฺสเนนาติ 
+<span class="LineNumber"> 019 </span># ๑. สี. ขีณาสโว นานฺติมเทหธารี ฯ  ๒. ม. สุวิทูรวิทูโร ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. อปจฺจโย ฯ  ๔. ม. โนปิ ฯ  
+<span class="LineNumber"> 021 </span># ๕. สี. นิพฺพานปจฺจเวกขณปุเรจาริกตฺเถน จิตฺตสมงฺคึ ฯ
+<span class="LineNumber"> 022 </span># ม. นิพฺพานปจฺจเวกฺขณมโนทฺารปุเรจาริกํ จิตฺตสมงฺคึ ฯ

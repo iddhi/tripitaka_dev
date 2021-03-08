@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  อสีตินิปาตวณฺณนา  หน้า  356
+
+<span class="LineNumber"> 002 </span>		สพฺพสหา อผนฺทนา อกุปฺปา  
+<span class="LineNumber"> 003 </span>		ตถิตฺถิโย ตาโย น วิสฺสเส นโร ฯ  
+<span class="LineNumber"> 004 </span>		สีโห ยถา โลหิตมํสโภชโน  
+<span class="LineNumber"> 005 </span>		พาฬมิโค ปฺจาวุโธ สุรุทฺโธ  
+<span class="LineNumber"> 006 </span>		ปสยฺห ขาทิ ปรหึสเน รโต  
+<span class="LineNumber"> 007 </span>		ตถิตฺถิโย ตาโย น วิสฺสเส นโร ฯ  
+<span class="LineNumber"> 008 </span>น  ขลุ  โภ  สมฺม  ปุณฺณมุข  เวสิโย  นาริโย  คมนีโย  นเหตา  
+<span class="LineNumber"> 009 </span>พนฺธกิโย  นาม  วธิกาโย  นาม  เอตาโย  ยทิทํ  เวสิโย  นาริโย  
+<span class="LineNumber"> 010 </span>คมนีโยติ ฯ  โจรา  วิย  เวณิกตา  มทิรา  วิย  วิสทุฏฺ€า (๑) วาณิโชว  
+<span class="LineNumber"> 011 </span>วาจาสนฺธิติโย  อิสฺสสิงฺคมิว  วิปริวตฺตาโย  อุรคมิว  ทุชฺชิวฺหาโย ฯ  
+<span class="LineNumber"> 012 </span>โสพฺภมิว  ปฏิจฺฉนฺนาโย  ปาตาลมิว  ทุปฺปูราโย  รกฺขสี  วิย  
+<span class="LineNumber"> 013 </span>ทุตฺโตสาโย  ยโมเวกนฺตหาริโย ฯ  สิขีริว  สพฺพภกฺขา  นทีริว  
+<span class="LineNumber"> 014 </span>สพฺพวาหินี(๒)  อนิโล  วิย  เยน  กามํจรา  เนรุ วิย อวิเสสกรา 
+<span class="LineNumber"> 015 </span>วิสรุกฺโข  วิย นิจฺจผลิตาโย ฯ ภวติ จ ปนุตฺตเรตฺถ วากฺยํ  
+<span class="LineNumber"> 016 </span>	ยถา โจโร ยถา ทุฏฺโ€(๓)  วาณิโชว วิกตฺถนี  
+<span class="LineNumber"> 017 </span>	อิสฺสสิงฺคมิว ปริวตฺตา  ทุชฺชิวฺหา อุรโค ยถา ฯ  
+<span class="LineNumber"> 018 </span>	โสพฺภมิว ปฏิจฺฉนฺนา  ปาตาลมิว ทุปฺปุรา  
+<span class="LineNumber"> 019 </span>	รกฺขสี วิย ทุตฺโตสา  ยโมเวกนฺตหาริโย ฯ  
+<span class="LineNumber"> 020 </span>	ยถา สิขี นที วาโห(๔)  อนิโล กามปารวา(๕)  
+<span class="LineNumber"> 021 </span># ๑. ม. มทิราว ทิทฺธา ฯ  ๒. ม. สพฺพวาหี ฯ  
+<span class="LineNumber"> 022 </span># ๓. ม. ทิทฺโธ ฯ  ๔. ม. วาโต ฯ  ๕. ม. เนรุนาว ฯ

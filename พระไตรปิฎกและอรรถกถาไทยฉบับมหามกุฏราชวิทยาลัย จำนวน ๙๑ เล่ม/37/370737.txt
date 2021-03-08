@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.  สัมโพธิสูตร   ๒.  นิสสยสูตร  ๓.  เมฆิยสูตร  ๔.  นันทกสูตร
+<span class="LineNumber"> 003 </span>๕.  พลสูตร  ๖.  เสวนาสูตร  ๗.  สุตวาสูตร  ๘.  สัชฌสูตร  ๙.  ปุคคล-
+<span class="LineNumber"> 004 </span>สูตร  ๑๐.  อาหุเนยยสูตรและอรรถกถา.
+<span class="LineNumber"> 005 </span>                                  <I>จบ   สัมโพธวรรคที่  ๑</I>

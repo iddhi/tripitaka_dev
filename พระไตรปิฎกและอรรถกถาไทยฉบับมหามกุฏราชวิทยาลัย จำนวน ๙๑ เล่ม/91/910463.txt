@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>       <H1>๘๓.  ทิสสเนนปหาตัพพทุกนทัสสเนนปหาตัพพทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                        <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 003 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๑๗๕] ๑.  <B>ธรรมที่ไม่ใช่ใช่ทัสสเนนปหาตัพพธรรม     อาศัย
+<span class="LineNumber"> 006 </span>ทัสสเนนปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                       ๒.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 008 </span>ธรรม  อาศัยทัสสเนนปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                       ๓.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม  และธรรม
+<span class="LineNumber"> 010 </span>ที่ไม่ใช่ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม    อาศัยทัสสเนนปหา- 
+<span class="LineNumber"> 011 </span>ตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>                       ๔.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม อาศัยธรรม
+<span class="LineNumber"> 013 </span>ที่ไม่ใช่ทัสสเนนปหาตัพพธรรม เกิดขึ้น เพราะเหตุปัจจัย</B>  มี ๑  วาระ.
+<span class="LineNumber"> 014 </span>                       ๕.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม     อาศัย
+<span class="LineNumber"> 015 </span>ทัสสเนนปหาตัพพธรรม   และธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๑  วาระ.
+
+<span class="LineNumber"> 017 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>	          
+<span class="LineNumber"> 018 </span>           [๑๗๖]  ในเหตุปัจจัย มี  ๕  วาระ  ฯลฯ  ในอวิคตปัจจัย  มี ๕  วาระ
+<span class="LineNumber"> 019 </span>               <I>ทัสสเนนปหาตัพพทุกนทัสสเนนปหาตัพพทุกะ  จบ</I>

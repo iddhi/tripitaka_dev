@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>            <B>๓.  ปัจจัย ๖</B>  คือ สมนันตระ อนันตระ อุปนิสสยะ  กัมมะ
+<span class="LineNumber"> 002 </span>นัตถิ  วิคตปัจจัย  มี ๑ วาระ.               
+                                   
+<span class="LineNumber"> 003 </span>                              <H1>๖.  สหชาตมูลกนัย</H1>
+<span class="LineNumber"> 004 </span>                              <H1>สหชาตสภาคะ ๑๔</H1>
+<span class="LineNumber"> 005 </span> <B>[๖๓๖]  เพราะสหชาตปัจจัย</B>  ในเหตุปัจจัย  มี ๗ วาระ ... โนอธิปติ
+<span class="LineNumber"> 006 </span>ปัจจัย   มี ๗ วาระ  ในอัญญมัญญปัจจัย  มี ๓วาระ  ในนิสสยปัจจัย  มี ๙
+<span class="LineNumber"> 007 </span>วาระ  ในกัมมปัจจัย  มี ๗  วาระ  ในวิปากปัจจัย   มี ๑ วาระ  ในอาหาร-
+<span class="LineNumber"> 008 </span>ปัจจัย  มี ๗ วาระ   ในอินทริยปัจจัย  มี ๗ วาระ   ในฌานปัจจัย   มี ๗
+<span class="LineNumber"> 009 </span>วาระ    ในมัคคปัจจัย  มี ๗ วาระ    ในสัมปยุตตปัจจัย  มี ๓ วาระ   ใน
+<span class="LineNumber"> 010 </span>วิปปยุตตปัจจัย  มี ๓ วาระ    ในอัตถิปัจจัย   มี ๙ วาระ    ในอวิคตปัจจัย 
+<span class="LineNumber"> 011 </span>มี ๙ วาระ.
+
+<span class="LineNumber"> 012 </span>                                   <H1>สหชาตฆฏนา ๑๐</H1>
+<span class="LineNumber"> 013 </span> <B>[๖๓๗]  ๑.  ปัจจัย  ๔</B>  คือ สหชาตะ  นิสสยะ  อัตถิ  อวิคตปัจจัย
+<span class="LineNumber"> 014 </span>มี ๙ วาระ.
+<span class="LineNumber"> 015 </span>              <B>๒.  ปัจจัย ๕</B>  คือ สหชาตะ อัญญมัญญะ นิสสยะ อัตถิ
+<span class="LineNumber"> 016 </span>ิอวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>              <B>๓.  ปัจจัย ๖</B> คือ สหาชาตะ  อัญญมัญญะ     นิสสยะ
+<span class="LineNumber"> 018 </span>สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.

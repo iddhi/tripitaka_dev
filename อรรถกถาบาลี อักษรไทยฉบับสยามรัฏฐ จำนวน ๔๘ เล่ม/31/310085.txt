@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  31   จุลฺลปโลภชาตดกํ  หน้า  85
+
+<span class="LineNumber"> 002 </span>		ยสํ กิตฺตึ ธิตึ สูรํ			พาหุสจฺจํ ปชานนํ  
+<span class="LineNumber"> 003 </span>		หาปยนฺติ (๑) ปมตฺตสฺส	กฏฺ€ปุฺเชว (๒) ปาวโกติ ฯ  
+<span class="LineNumber"> 004 </span>	เอวํ  วตฺวา  มหาสตฺโต  ภาคิเนยฺโยปิ  มยา  โปเสตพฺโพ  
+<span class="LineNumber"> 005 </span>ราชธีตา  มยา  โปเสตพฺพาติ  มหนฺเตน  สกฺกาเรน  ธีตรํ  ตสฺเสว  
+<span class="LineNumber"> 006 </span>ทตฺวา  ตํ  อุปรชฺเช  ปติฏฺ€าเปสิ ฯ  โสปิ  มาตุลสฺส  อจฺจเยน 
+<span class="LineNumber"> 007 </span>รชฺเช  ปติฏฺ€หิ ฯ  
+<span class="LineNumber"> 008 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  สจฺจานิ  ปกาเสตฺวา  
+<span class="LineNumber"> 009 </span>ชาตกํ  สโมธาเนสิ ฯ  สจฺจปริโยสาเน  อุกฺกณฺ€ิตภิกฺขุ  
+<span class="LineNumber"> 010 </span>โสตาปตฺติผเล  ปติฏฺ€หิ ฯ ตทา ราชา อหเมว อโหสีติ ฯ  
+<span class="LineNumber"> 011 </span>			มุทุปาณิชาตกํ ทุติยํ  
+
+<span class="LineNumber"> 012 </span>				จุลฺลปโลภชาตดกํ
+<span class="LineNumber"> 013 </span>	อภิชฺชมาเน  วาริสฺมินฺติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 014 </span>เอกํ  อุกฺกณฺ€ิตภิกฺขุเมว อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 015 </span>	ตํ  หิ  สตฺถา  ธมฺมสภายํ  อานีตํ  สจฺจํ  กิร  ตฺวํ  
+<span class="LineNumber"> 016 </span>ภิกฺขุ  อุกฺกณฺ€ิโตสีติ  ปุจฺฉิตฺวา  สจฺจนฺติ(๓)  วุตฺเต  ภิกฺขุ  อิตฺถิโย  
+<span class="LineNumber"> 017 </span>นาเมตา  น (๔)  อิทาเนว  ปุราณเก  สุทฺธสตฺเตปิ  สงฺกิเลสฺสนฺตีติ   (๔)
+<span class="LineNumber"> 018 </span>วตฺวา  เตหิ(๕)  ยาจิโต (๕) อตีตํ  อาหริ  ฯ
+<span class="LineNumber"> 019 </span>#  ๑.  ม.  เขปยนฺติ  ฯ  ๒.  ม.  กฏ€ปชํว  ฯ  ๓.  ม.   สจฺจํ  ภนฺเตติ  ฯ
+<span class="LineNumber"> 020 </span>#  ๔.  ม.  โปราณเก  สุทฺธสตฺเตปิ  สํกิเลเสสุนฺติ  ฯ
+<span class="LineNumber"> 021 </span>#  ๕.  ม.  อิเม  ปา€า  นตฺถิ  ฯ

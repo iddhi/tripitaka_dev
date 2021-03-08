@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           [๙๗๒]  <B>ภัย ๔ อีกนัยหนึ่ง</B>  เป็นไฉน ? 
+<span class="LineNumber"> 002 </span>           ราชภัย  โจรภัย  อุทกภัย  อัคคีภัย 
+<span class="LineNumber"> 003 </span>           เหล่านี้เรียกว่า  <B>ภัย  ๔.</B>
+<span class="LineNumber"> 004 </span>           [๙๗๓]  <B>ภัย ๔ อีกนัยหนึ่ง</B>  เป็นไฉน ?
+<span class="LineNumber"> 005 </span>           ภัยเกิดแต่คลื่น   ภัยเกิดแต่จรเข้   ภัยเกิดแต่วังวน   ภัยเกิดแต่ปลาร้าย
+<span class="LineNumber"> 006 </span>           เหล่านี้เรียกว่า   <B>ภัย  ๔.</B>
+<span class="LineNumber"> 007 </span>           [๙๗๔]  <B>ภัย  ๔ อีกนัยหนึ่ง</B>  เป็นไฉน ?
+<span class="LineNumber"> 008 </span>           ภัยเกิดแต่การค่อนขอดตัวเอง   ภัยเกิดแต่การค่อนขอดผู้อื่น    ภัยเกิด
+<span class="LineNumber"> 009 </span>แต่อาชญา   ภัยเกิดแต่อบาย
+<span class="LineNumber"> 010 </span>           เหล่านี้เรียกว่า   <B>ภัย ๔.</B>
+<span class="LineNumber"> 011 </span>           [๙๗๕]  <B>ทิฏฐิ  ๔</B> เป็นไฉน  
+<span class="LineNumber"> 012 </span>           ทิฏฐิเกิดขึ้นโดยแน่แท้มั่นคงว่า   สุขทุกข์ตนทำเอง     ทิฏฐิเกิดขึ้นโดย
+<span class="LineNumber"> 013 </span>แน่แท้มั่นคงว่า   สุขทุกข์คนอื่นกระทำให้   ทิฏฐิเกิดขึ้นโดยแน่แท้มั่นคงว่า  สุข
+<span class="LineNumber"> 014 </span>ทุกข์ตนทำเองด้วย   คนอื่นทำให้ด้วย   ทิฏฐิเกิดขึ้นโดยแน่แท้มั่นคงว่า  สุขทุกข์
+<span class="LineNumber"> 015 </span>ตนไม่ได้ทำเองด้วย   คนอื่นไม่ได้ทำให้ด้วย   แต่เกิดขึ้นเองโดยเฉพาะ
+<span class="LineNumber"> 016 </span>           เหล่านี้เรียกว่า  <B>ทิฏฐิ  ๔.</B>
+
+<span class="LineNumber"> 017 </span>                                        <H1>ปัญจกนิทเทส</H1>
+<span class="LineNumber"> 018 </span>           [๙๗๖]   ใน<B>ปัญจกมาติกาเหล่านั้น  โอรัมภาคิยสัญโญชน์ ๕</B>  เป็น
+<span class="LineNumber"> 019 </span>ไฉน ?
+<span class="LineNumber"> 020 </span>           <B>โอรัมภาคิยสัญโญชน์  ๕   คือ</B>
+<span class="LineNumber"> 021 </span>                         <B>๑.  สักกายทิฏฐิ</B>
+<span class="LineNumber"> 022 </span>                         <B>๒.  วิจิกิจฉา</B>

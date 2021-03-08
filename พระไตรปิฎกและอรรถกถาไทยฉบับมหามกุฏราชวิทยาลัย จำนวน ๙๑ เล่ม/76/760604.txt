@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           กุกกุจจนิวรณ์    บังเกิดในจิตตุปบาทที่สหรคตด้วยโทมนัสเวทนา  ๒ 
+<span class="LineNumber"> 002 </span>ดวง
+<span class="LineNumber"> 003 </span>           วิจิกิจฉานิวรณ์  บังเกิดในจิตตุปบาทที่สหรคตด้วยวิจิกิจฉา
+<span class="LineNumber"> 004 </span>           อวิชชานิวรณ์  บังเกิดในอกุศลจิตทั้งปวง
+<span class="LineNumber"> 005 </span>           สภาวธรรมเหล่านี้ชื่อว่า  นีวรณธรรม.
+<span class="LineNumber"> 006 </span>           <B>ธรรมไม่เป็นนิวรณ์</B>   เป็นไฉน ?
+<span class="LineNumber"> 007 </span>           อกุศลที่เหลือเว้นนิวรณ์ทั้งหลายเสีย   กุศลในภูมิ  ๔  วิบากในภูมิ   ๔
+<span class="LineNumber"> 008 </span>กิริยาอัพยากฤตในรูป ๓ รูป  และนิพพาน สภาวธรรมเหล่านี้ชื่อว่า   ธรรมไม่เป็น
+<span class="LineNumber"> 009 </span>นิวรณ์.
+<span class="LineNumber"> 010 </span>           [๙๓๒]   <B>ธรรมเป็นอารมณ์ของนิวรณ์</B>   เป็นไฉน ?
+<span class="LineNumber"> 011 </span>           กุศลในภูมิ ๓ อกุศล  วิบากในภูมิ ๓ กิริยาอัพยากฤตในภูมิ ๓   และ
+<span class="LineNumber"> 012 </span>รูปทั้งหมด  สภาวธรรมเหล่านี้ชื่อว่า  ธรรมเป็นอารมณ์ของนิวรณ์.
+<span class="LineNumber"> 013 </span>           <B>ธรรมไม่เป็นอารมณ์ของนิวรณ์</B>  เป็นไฉน ?
+<span class="LineNumber"> 014 </span>           มรรค ๔  ที่เป็นโลกุตระ    สามัญผล ๔  และนิพพาน   สภาวธรรม
+<span class="LineNumber"> 015 </span>เหล่านี้ชื่อว่า  ธรรมไม่เป็นอารมณ์ของนิวรณ์.
+<span class="LineNumber"> 016 </span>           [๙๓๓]  <B>ธรรมสัมปยุตด้วยนิวรณ์</B>   เป็นไฉน ?
+<span class="LineNumber"> 017 </span>           จิตตุปบาทฝ่ายอกุศล ๑๒ ดวง  สภาวธรรมเหล่านี้ชื่อว่า  ธรรมสัมปยุต
+<span class="LineNumber"> 018 </span>ด้วยนิวรณ์.
+<span class="LineNumber"> 019 </span>           <B>ธรรมวิปปยุตจากนิวรณ์</B>  เป็นไฉน ?
+<span class="LineNumber"> 020 </span>           กุศลในภูมิ  ๔  วิบากในภูมิ ๔ กิริยาอัพยากฤตในภูมิ ๓ รูป และนิพพาน
+<span class="LineNumber"> 021 </span>สภาวธรรมเหล่านี้ชื่อว่า  ธรรมวิปปยุตจากนิวรณ์.
+
+

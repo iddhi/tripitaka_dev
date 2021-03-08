@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                        อธิบายสมัญญาภิธานและสนธิ   
+<span class="LineNumber"> 002 </span>    พระอมราภิรักขิต  (ทองดำ จนฺทูปโม ป. ๗)  วัดบรมนิวาส
+<span class="LineNumber"> 003 </span>                                          เรียบเรียง 
+<span class="LineNumber"> 004 </span>                                      บาลีไวยากรณ์
+<span class="LineNumber"> 005 </span>	บาลีไวยากรณ์  เป็นตำรับแสดงหลักแห่งภาษาที่ใช้พูดหรือ
+<span class="LineNumber"> 006 </span>เขียน  ซึ่งนักปราชญ์จัดขึ้นไว้  เพื่อกุลบุตรรู้จักและเข้าใจในการที่
+<span class="LineNumber"> 007 </span>จะใช้ถ้อยคำให้ลงระเบียบเป็นอันเดียวกัน  และไวยากรณ์ในภาษา
+<span class="LineNumber"> 008 </span>บาลีนี้  ท่านแบ่งไว้เป็น ๔ ภาค คือ :-
+<span class="LineNumber"> 009 </span>	๑.  <B>อักขรวิธี</B>.
+<span class="LineNumber"> 010 </span>	๒.  <B>วจีวิภาค</B>.
+<span class="LineNumber"> 011 </span>	๓.  <B>วากยสัมพันธ์</B>.
+<span class="LineNumber"> 012 </span>	๔.  <B>ฉันทลักษณะ</B>.
+<span class="LineNumber"> 013 </span>	๑.  อักขรวิธี  (อักขระ+วิธี)  แบบแสดงอักษร  จัดเป็น ๒ คือ
+<span class="LineNumber"> 014 </span>สมัญญาภิธาน แสดงชื่ออักษรที่เป็นสระและพยัญชนะ  พร้อมทั้ง
+<span class="LineNumber"> 015 </span>ฐานกรณ์ ๑.  สนธิ  ต่ออักษรที่อยู่ในคำอื่น  ให้เนื่องเป็น ๖ ส่วน คือ
+<span class="LineNumber"> 016 </span>	๒.  วจีวิภาค  (วจี+วิภาค)  แบ่งคำพูดออกเป็น ๖ ส่วน คือ
+<span class="LineNumber"> 017 </span>นาม ๑.  อัพยยศัพท์ ๑.  สมาส ๑.  ตัทธิต ๑.  อาขยาต ๑.  กิตก์ ๑.
+<span class="LineNumber"> 018 </span>	๓.  วากยสัมพันธ์  (วากย+สัมพันธ์)  ว่าด้วยการก  คือผู้ทำ
+

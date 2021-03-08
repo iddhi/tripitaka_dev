@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>มานานุสยมูละ อวิชชานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         มานานุสัย   อันบุคคลใด   ยังไม่ละแล้ว   ในที่ใด,  อวิชชานุสัย
+<span class="LineNumber"> 003 </span>อันบุคคลนั้น ก็ยังไม่ละแล้ว ในที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า  อวิชชานุสัย      อันบุคคลใดยังไม่ละแล้ว     ในที่ใด 
+<span class="LineNumber"> 006 </span>มานานุสัย  อันบุคคลนั้น  ก็ยังไม่ละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         อวิชชานุสัย   อันบุคคลเหล่านั้น   ยังไม่ละแล้ว  ในที่นั้น    คือ
+<span class="LineNumber"> 008 </span>บุคคล     จำพวก    ที่ทุกขเวทนา  มานานุสัย  ไม่มีกล่าวว่า    ละแล้ว
+<span class="LineNumber"> 009 </span>หรือยังไม่ละแล้ว  อวิชชานุสัย  อันบุคคลเหล่านั้น  ยังไม่ละแล้ว, และ
+<span class="LineNumber"> 010 </span>มานานุสัย   บุคคลเหล่านั้น  ยังไม่ละแล้ว  ในที่นั้น  คือบุคคลเหล่านั้น
+<span class="LineNumber"> 011 </span>นั่นแหละ   ที่เวทนา  ๒  ในกามธาตุ   ที่รูปธาตุ   อรูปธาตุ.
+<span class="LineNumber"> 012 </span>                     <I>จบ  มานานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 013 </span>                                  <I>มานานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                    <H1>ทิฏฐานุสยมูล</H1>
+<span class="LineNumber"> 015 </span><H2>ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 016 </span>         [๑๕๕๔]   ทิฏฐานุสัย     อันบุคคลใดยังไม่ละแล้ว     ในที่ใด,

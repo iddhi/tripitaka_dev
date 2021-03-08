@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>๒.  มัคคสัจจมูละ  สมุทยสัจจมูลี</H2> 
+<span class="LineNumber"> 002 </span>         ธรรมที่ไม่ชื่อว่ามรรค,  ไม่ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ยกเว้นมรรคเสียแล้ว    สัจจะที่เหลือนอกนั้นไม่ชื่อว่ามรรค   แต่
+<span class="LineNumber"> 004 </span>ชื่อว่าสัจจะ,    ยกเว้นมรรคและสัจจะเสียแล้ว   ธรรมที่เหลือนอกนั้นไม่
+<span class="LineNumber"> 005 </span>ชื่อว่ามรรคและไม่ชื่อว่าสัจจะ.
+<span class="LineNumber"> 006 </span>         ธรรมที่ไม่ชื่อว่าสัจจะ,  ไม่ชื่อว่าสมุทยสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>                                            ฯ ล ฯ
+<span class="LineNumber"> 008 </span>                        <I>จบ  มัคคสัจจมูละ   สมุทยสัจจมูลี</I>
+
+<span class="LineNumber"> 009 </span><H2>๓.  มัคคสัจจมูละ  นิโรธสัจจมูลี</H2>
+<span class="LineNumber"> 010 </span>                                             ฯ ล ฯ
+<span class="LineNumber"> 011 </span>         ธรรมที่ไม่ชื่อว่าสัจจะ,  ไม่ชื่อว่านิโรธสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>                          <I>จบ  มัคคสัจจมูละ   นิโรธสัจจมูลี</I>
+<span class="LineNumber"> 014 </span>                                       <I>มัคคสัจจมูล  จบ</I>
+<span class="LineNumber"> 015 </span>                          <I>สุทธสัจจมูลจักกวาระ ปัจจนิก  จบ</I>
+<span class="LineNumber"> 016 </span>                                      <B>ปัณณัตติวาระ  จบ</B>

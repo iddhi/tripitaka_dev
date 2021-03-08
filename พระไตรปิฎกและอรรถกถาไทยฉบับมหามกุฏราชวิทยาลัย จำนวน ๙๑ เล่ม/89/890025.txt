@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลเห็นรูปด้วยทิพยจักษุ,   ฟังเสียงด้วยทิพโสตธาตุ.
+<span class="LineNumber"> 002 </span>         รูปายตนะ  เป็นปัจจัยแก่จักษุวิญญาณ ฯลฯ  โผฏฐัพพายตนะ    เป็น
+<span class="LineNumber"> 003 </span>ปัจจัยแก่กายวิญญาณ.
+<span class="LineNumber"> 004 </span>         ที่เป็น <B>วัตถุปุเรชาตะ</B> ได้แก่
+<span class="LineNumber"> 005 </span>         จักขายตนะ  เป็นปัจจัยแก่จักวิญญาณ ฯลฯ  กายายตนะ   เป็นปัจจัย
+<span class="LineNumber"> 006 </span>แก่กายวิณญาณ.
+<span class="LineNumber"> 007 </span>         หทยวัตถุ   เป็นปัจจัยแก่สารัมมณขันธ์ทั้งหลาย    ด้วยอำนาจของปุเร-
+<span class="LineNumber"> 008 </span>ชาตปัจจัย.
+
+<span class="LineNumber"> 009 </span>                                     <H2>๑๑. ปัจฉาชาตปัจจัย</H2>
+<span class="LineNumber"> 010 </span>         [๒๖] ๑.  <B>สารัมมณธรรม       เป็นปัจจัยแก่อนารัมมณธรรม
+<span class="LineNumber"> 011 </span>ด้วยอำนาจของปัจฉาชาตปัจจัย</B>   มี ๑ วาระ.
+
+<span class="LineNumber"> 012 </span>                                       <H2>๑๒. อาเสวนปัจจัย</H2>
+<span class="LineNumber"> 013 </span>         [๒๗] ๑.  <B>สารัมมมณธรรม  เป็นปัจจัยแก่สารัมมณธรรม  ด้วย
+<span class="LineNumber"> 014 </span>อำนาจของอาเสวนปัจจัย</B>   มี ๑ วาระ.
+
+<span class="LineNumber"> 015 </span>                                          <H2>๑๓.กัมมปัจจัย</H2>
+<span class="LineNumber"> 016 </span>         [๒๘] ๑.  <B>สารัมมณปัจจัยแก่สารัมมณธรรม  ด้วย
+<span class="LineNumber"> 017 </span>อำนาจของกัมมปัจจัย</B>

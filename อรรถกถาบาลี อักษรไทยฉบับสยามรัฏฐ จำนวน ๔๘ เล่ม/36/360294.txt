@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  294
+
+<span class="LineNumber"> 002 </span>กิจฺจสฺส (๑) อตฺตโน ปากฏภาวํ  ปกาเสนฺโต อิมํ คาถทฺวยมาห ฯ  
+<span class="LineNumber"> 003 </span>			อฏฺ€ฑฺฒปาโท จตุปฺปทสฺส เมณฺโฑ  
+<span class="LineNumber"> 004 </span>			อฏฺ€นโข อทิสฺสมานกาโย (๒) 
+<span class="LineNumber"> 005 </span>			ฉาทิยํ อาหรติ อยํ อิมสฺส  
+<span class="LineNumber"> 006 </span>			มํสํ อาหรติ อยํ อมุสฺส  
+<span class="LineNumber"> 007 </span>			ปาสาทวรคโต วิเทหเสฏฺโ€  
+<span class="LineNumber"> 008 </span>			วีติหารํ อฺโฺโภชนานํ (๓) 
+<span class="LineNumber"> 009 </span>			อทฺทกฺขิ กิร สกฺขิตํ (๔) ชนินฺโท  
+<span class="LineNumber"> 010 </span>			โภภุกฺกสฺส ปุณฺณมุขสฺส (๕) เจตนฺติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  อฏฺ€ฑฺฒปาโทติ  พฺยฺชนกุสลตาย  เอฬกสฺส  จตุปฺปาทํ  
+<span class="LineNumber"> 012 </span>สนฺธาย  อาห ฯ  เมณฺโฑติ  เอฬโก ฯ  อฏฺ€นโขติ  เอเกกสฺมึ  
+<span class="LineNumber"> 013 </span>ปาเท  ทวินฺนํ  ขุรานํ  วเสน  เอตํ  วุตฺตํ ฯ  อทิสฺสมานกาโยติ  
+<span class="LineNumber"> 014 </span>มํสํ  อาหรณกาเล  อปฺมาโน (๖) ฯ  ฉาทิยนฺติ  เคหจฺฉทนํ  
+<span class="LineNumber"> 015 </span>ติณนฺติ  อตฺโถ ฯ  อยํ  อิมสฺสาติ  สุนโข  เอฬกสฺส ฯ  วีติหารนฺติ  
+<span class="LineNumber"> 016 </span>วีติหรณํ ฯ  อฺโฺโภชนานนฺติ  อฺมฺสฺส  โภชนานํ ฯ
+<span class="LineNumber"> 017 </span>เมณฺโฑ  หิ  สุนขสฺส  โภชนํ  อาหรติ ฯ  โส  ตสฺส  วีติหรติ  
+<span class="LineNumber"> 018 </span>สุนโขปิ  ตสฺส  อาหรติ  อิตโรปิ  วีติหรติ ฯ  อทฺทกฺขีติ 
+<span class="LineNumber"> 019 </span>ตํ  เตสํ  อฺมฺํ  โภชนานํ  วีติหรณํ  สกฺขิตํ  (๗) อตฺตโน
+<span class="LineNumber"> 020 </span># ๑. ม. ปฺหสฺส ฯ  ๒. ม. ยุ. อทิสิสมาโน ฯ  ๓. ม. ยุ. อฺมฺโภชนานํ ฯ
+<span class="LineNumber"> 021 </span># ๔. สี. ยุ. สกฺขิตํ ฯ  ม. สกฺขิกํ ฯ  ๕. ม. พุภุกฺกสฺส ปุณฺณํมุขสฺส ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. ยุ. อปฺายมาโน ฯ  ๗. สี. สกฺขิ ฯ  ยุ. สกฺขีติ ฯ

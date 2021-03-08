@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   ภวราคานุสัย   นอนเนื่องอยู่  ณ ที่ใด  วิจิกิจฉานุสัย 
+<span class="LineNumber"> 002 </span>ก็นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>                      <I>จบ  วิจิกิจฉานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 005 </span><H2>วิจิกิจฉานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 006 </span>         วิจิกิจฉานุสัย   นอนเนื่องอยู่  ณ  ที่ใด,    อวิชชานุสัย   ก็นอน-
+<span class="LineNumber"> 007 </span>เนื่องอยู่   ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   อวิชชานุสัย   นอนเนื่องอยู่  ณ ที่ใด,   วิจิกิจฉานุสัย
+<span class="LineNumber"> 010 </span>ก็นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>                     <I>จบ  วิจิกิจฉานุสยมูละ   อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 013 </span>                                   <I>วิจิกิจฉานุสยมูล  จบ</I>

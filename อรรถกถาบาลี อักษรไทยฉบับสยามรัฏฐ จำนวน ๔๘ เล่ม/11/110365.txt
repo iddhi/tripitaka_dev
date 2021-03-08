@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑   หน้า  ๓๖๕
+
+<span class="LineNumber"> 002 </span>				ภิกฺขุสํยุตฺตวณฺณนา           
+
+<span class="LineNumber"> 003 </span>			โกลิตสุตฺตวณฺณนา           
+<span class="LineNumber"> 004 </span>	ภิกฺขุสํยุตฺตสฺส  ป€เม  อาวุโสติ  สาวกานํ  อาลาโป ฯ
+<span class="LineNumber"> 005 </span>พุทฺธา  หิ  ภควนฺโต  สาวเก  อาลปนฺตา  ภิกฺขเวติ  อาลปนฺติ 
+<span class="LineNumber"> 006 </span>สาวกา  ปน  พุทฺเธหิ  สทิสา  มา  โหมาติ  อาวุโสติ 
+<span class="LineNumber"> 007 </span>ป€มํ  วตฺวา  ปจฺฉา  ภิกฺขเวติ  ภณนฺติ ฯ  พุทฺเธหิ  จ  อาลปิเต
+<span class="LineNumber"> 008 </span>ภิกฺขุสงฺโฆ  ภนฺเตติ  ปฏิวจนํ  เทติ  สาวเกหิ อาวุโสติ ฯ                    
+<span class="LineNumber"> 009 </span>	อยํ  วุจฺจตีติ  ยสฺมา  ทุติยชฺฌาเน  วิตกฺกวิจารา  
+<span class="LineNumber"> 010 </span>นิรุชฺฌนฺติ  เยสํ นิโรธา สทฺทายตนํ  อปฺปวตฺตึ  คจฺฉติ  
+<span class="LineNumber"> 011 </span>ตสฺมา  ยเทตํ  ทุติยชฺฌานํ  นาม  อยํ  วุจฺจติ อริยานํ 
+<span class="LineNumber"> 012 </span>ตุณฺหีภาโวติ  อยเมตฺถ  โยชนา ฯ  ธมฺมิกถา(๑)  อริโย  วา  
+<span class="LineNumber"> 013 </span>ตุณฺหีภาโวติ  เอตฺถ  ปน  กมฺมฏฺ€านมนสิกาโรปิ  ป€มชฺฌานา-
+<span class="LineNumber"> 014 </span>ทีนิปิ  อริโย ตุณฺหีภาโวเตฺวว สงฺขฺยํ 
+<span class="LineNumber"> 015 </span>			คตานิ ฯ              
+<span class="LineNumber"> 016 </span>	วิตกฺกสหคตาติ  วิตกฺการมฺมณา ฯ  สฺามนสิการาติ 
+<span class="LineNumber"> 017 </span>สฺา  จ  มนสิกาโร  จ    สมุทาจรนฺตีติ  ปวตฺตนฺติ ฯ  เถรสฺส 
+<span class="LineNumber"> 018 </span>กิร  ทุติยชฺฌานํ  น(๒) ปคุณํ ฯ  อถสฺส  ตโต วุฏฺ€ิตสฺส 
+<span class="LineNumber"> 019 </span>วิตกฺกวิจารา  น  สนฺตโต(๓)  อุปฏฺ€หึสุ ฯ  อิจฺจสฺส  ทุติยชฺฌานมฺปิ 
+<span class="LineNumber"> 020 </span>สฺามนสิการาปิ  หานภาคิยาว  อเหสุํ  ตํ  ทสฺเสนฺโต  
+<span class="LineNumber"> 021 </span># ๑. ม. ธมฺมี วา กถา ฯ  ๒. สี. นสทฺโท นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๓. สี. ม. สนฺตโต ฯ

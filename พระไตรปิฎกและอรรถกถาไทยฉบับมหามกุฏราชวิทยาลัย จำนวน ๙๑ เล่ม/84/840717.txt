@@ -1,0 +1,4 @@
+﻿<span class="LineNumber"> 001 </span>กำลังเกิดอยู่     มนินทรีย์เคยเกิด     และปุริสินทรีย์ก็กำลังเกิดแก่บุคคล
+<span class="LineNumber"> 002 </span>เหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 003 </span>   <I>จบ  ปุริสินทรียมูละ  สัทธิทริย  ฯลฯ   ปัญญินทริย  มนินทริยมูลี</I>
+<span class="LineNumber"> 004 </span>                                     <I>ปุริสินทริยมูล  จบ</I>

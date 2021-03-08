@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>			   <H2>๓.  ปุริสมาตาปิตุจักร
+<span class="LineNumber"> 002 </span>	                      นิกเขปบท</H2> 
+<span class="LineNumber"> 003 </span>	มาดาบิดาของบุรุษวานภิกษุว่า...ขัณฑจักร...พัทธจักร...
+<span class="LineNumber"> 004 </span>             		  <I>ปุริสมาตาปิตุจักร  จักร</I>
+
+<span class="LineNumber"> 005 </span>			       <H2>๔.  ปุริสภาตุจักร</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>นิกเขปบท</H2>
+<span class="LineNumber"> 007 </span>	พี่น้องชายของบุรุษวานภิกษุว่า..ขัณฑจักร...พัทธจักร...
+<span class="LineNumber"> 008 </span>				 <I>ปุริสภาตุจักร  จบ</I>
+
+<span class="LineNumber"> 009 </span>			    <H2>๕.  ปุริสภคินีจักร
+<span class="LineNumber"> 010 </span>                              นิกเขปบท</H2>
+<span class="LineNumber"> 011 </span>	พี่น้องหญิงของบุรุษวานภิกษุว่า...ขัณฑจักร...พทัธจักร...
+<span class="LineNumber"> 012 </span>			         <I>ปุริสภคินีจักร  จบ</I>
+
+<span class="LineNumber"> 013 </span>			   <H2>๖.  ปุริสญาตกจักร
+<span class="LineNumber"> 014 </span>			     นิกเขปบท</H2>
+<span class="LineNumber"> 015 </span>	ญาติของบุรุษวานภิกษุว่า...ขัณฑจักร...พัทธจักร...
+<span class="LineNumber"> 016 </span>			       <I>ปุริสญาตกจักร  จบ</I>

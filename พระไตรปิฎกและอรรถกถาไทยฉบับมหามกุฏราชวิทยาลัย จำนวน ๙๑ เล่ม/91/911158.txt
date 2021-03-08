@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>นอัชฌัตติกทุกนสนิทัสสนติกะ</H1>  
+<span class="LineNumber"> 002 </span>                           <H1>อัชฌัตติกทุกสนิทัสสนติกะ</H1>
+<span class="LineNumber"> 003 </span>        <H2>(๖๖.  อัชฌัตติกทุกะ  ๒๒. สนิทัสสนติกะ)</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                          <H2>สนิทัสสนสัปปฏิฆบท</H2>	 
+<span class="LineNumber"> 008 </span>           [๕๐๘] ๑.  <B>สนิทัสสนสัปปฏิฆธรรม ที่เป็นพาหิรธรรม อาศัย
+<span class="LineNumber"> 009 </span>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม     ที่ไม่ใช่อัชฌัตติกธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตปัจจัย</B>   มี ๑ วาระ.
+<span class="LineNumber"> 011 </span>                       ๒.  <B>สนิทัสสนสัปปฏิฆธรรม ที่เป็นพาหิรธรรม อาศัย
+<span class="LineNumber"> 012 </span>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  ที่ไม่ใช่พาหิรธรรม  เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>   มี ๑ วาระ.
+<span class="LineNumber"> 014 </span>           โดยนัยแห่งการนับ  มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>    <I>นอัชฌัตติกทุกนสนิทัสสนติกอัชฌัตติกทุกสนิทัสสนติกะ  จบ</I>

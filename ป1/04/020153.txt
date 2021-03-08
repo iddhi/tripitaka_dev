@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                ๖.  อชฺชตฺตนี   
+<span class="LineNumber"> 002 </span>ป. 	  อี.<SUP>๑</SUP>		      อุํ.<SUP>๒</SUP>		อา.		           อู.
+<span class="LineNumber"> 003 </span>ม.	โอ.<SUP>๓</SUP>		    ตฺถ.		เส.		         วฺหํ.
+<span class="LineNumber"> 004 </span>อุ.	  อึ.<SUP>๔</SUP>		  มฺหา.		อํ.		        มฺเห.
+<span class="LineNumber"> 005 </span>                                ๗.  ภวิสฺสนฺติ
+<span class="LineNumber"> 006 </span>ป.	สฺสติ.      สฺสนฺติ.		สฺสเต.	    สฺสนฺเต.
+<span class="LineNumber"> 007 </span>ม.	สฺสสิ. 	 สฺสถ.		สฺสเส.	    สฺสวฺเห.
+<span class="LineNumber"> 008 </span>อุ.	สฺสามิ.	สฺสาม.		สฺสํ.<SUP>๕</SUP>		  สฺสามฺเห.
+<span class="LineNumber"> 009 </span>                               ๘.  กาลาติปตฺติ	
+<span class="LineNumber"> 010 </span>ป.	สฺสา. 	 สฺสํสุ.		สฺสถ.	        สฺสึสุ.
+<span class="LineNumber"> 011 </span>ม.	สฺเส.		 สฺสถ.		สฺสเส.	       สฺสฺเห.
+<span class="LineNumber"> 012 </span>อุ.	สฺสํ.	   สฺสามฺหา.		สฺสํ.		สฺสามฺหเส.
+
+<span class="LineNumber"> 013 </span>                                           กาล
+<span class="LineNumber"> 014 </span>	(๑๑๐)  ในอาขยาตนั้น  แบ่งกาลที่เป็นประธานได้  ๓  คือ  กาล
+<span class="LineNumber"> 015 </span>ที่เกิดขึ้นจำเพาะหน้า   เรียกว่าปัจจุบันกาล  ๑,  กาลล่วงแล้ว  เรียก
+
+<span class='footnote'>๑.  มักรัสสะเป็น  อิ  เช่น  กริ  บ้าง.  ลง  ส.  อาคม  เป็น  สิ  เช่น  อกาสิ  บ้าง.</span>
+<span class='footnote'>๒.  ลง  สฺ  อาคมเป็น  สุํ  เช่น  อาโรเจสุํ  บ้าง.  แผลงเป็น  อํสุ  เช่น  อกํสุ  บ้าง.  เป็น  อึสุ</span>
+<span class='footnote'>เช่น  กรึสุ  บ้าง.  ๓.  ใช้  อี  ป.  แทนโดยมาก.  ๔.  ลง  สฺ  อาคม  เป็น  สึก  เช่น  อกาสึ</span>
+<span class='footnote'>บ้าง.  ๕.  ใช้แทน  สฺสามิ  เช่น  ลภิสฺสํ  บ้าง.</span>

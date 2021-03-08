@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>อรรถกถาทุติยอคารวสูตร</H1>  
+<span class="LineNumber"> 002 </span>         พึงทราบวินิจฉัยในทุติยอคารวสูตรที่  ๑๐ ดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>         บทว่า  อภพฺโพ  คือ ถือความเป็นผู้อาภัพ.  บทว่า  วุฑฺฒึ  แปลว่า
+<span class="LineNumber"> 004 </span>เจริญ.  บทว่า  วิรุฬฺหึ   ได้แก่   ถึงควานเป็นผู้ไม่หวั่นไหว   เพราะความเป็น
+<span class="LineNumber"> 005 </span>ผู้งอกงาม.  บทว่า  เวปุลฺลํ  ได้แก่  ความเป็นใหญ่.  บทที่เหลือในที่ทั้งปวง
+<span class="LineNumber"> 006 </span>ง่ายทั้งนั้น.
+<span class="LineNumber"> 007 </span>                            <I>จบอรรถกถาทุติยอคารวสูตรที่  ๑๐</I>
+<span class="LineNumber"> 008 </span>                                <I>จบเสขพลวรรควรรณนาที่  ๑</I>
+<span class="LineNumber"> 009 </span>                     <H2>รวมพระสูตรที่มีในวรรคนี้   คือ</H2>
+<span class="LineNumber"> 010 </span>          ๑.  สังขิตตสูตร    ๒.  วิตถตสูตร   ๓.  ทุกขสูตรค   ๔.  ภตสูตร
+<span class="LineNumber"> 011 </span>๕.  สิกขสูตร   ๖.  สมาปัตติสูตร    ๗.  กามสูตร    ๘.  จวนสูตร   ๙.  ปฐมอคารว-
+<span class="LineNumber"> 012 </span>สูตร     ๑๐.   ทุติยอคารวสูตร     และอรรถกถา.
+

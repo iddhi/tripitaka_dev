@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่ 
+<span class="LineNumber"> 002 </span>           อกุศลขันธ์ที่เกิดพร้อมกันและมหาภูตรูป     เป็นปัจจัยแก่จิตตสมุฏ-
+<span class="LineNumber"> 003 </span>ฐานรูป  ด้วยอำนาจของอัตถิปัจจัย.  
+<span class="LineNumber"> 004 </span>           ที่เป็น  <B>ปัจฉาชาตาหาระ</B>  ได้แก่
+<span class="LineNumber"> 005 </span>           อกุศลขันธ์ที่เกิดภายหลังและกวฬิงการาหาร       เป็นปัจจัยแก่กายนี้
+<span class="LineNumber"> 006 </span>ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 007 </span>           ที่เป็น  <B>ปัจฉาชาตินทริยะ</B>  ได้แก่
+<span class="LineNumber"> 008 </span>           อกุศลขันธ์ที่เกิดภายหลังและรูปชีวิตินทรีย์  เป็นปัจจัยแก่กฏัตตารูป
+<span class="LineNumber"> 009 </span>ด้วยอำนาจของอัตถิปัจจัย.
+
+<span class="LineNumber"> 010 </span>                                 <H1>๒๒.นัตถิปัจจัย</H1>
+<span class="LineNumber"> 011 </span> <B>[๖๒๒]  กุศลธรรม  เป็นปัจจัยแก่กุศลธรรม  ด้วยอำนาจของนัตถิ-
+<span class="LineNumber"> 012 </span>ปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ กุศลขันธ์ที่เกิดก่อน ๆ       เป็นปัจจัยแก่กุศลขันธ์ที่เกิดหลังๆ
+<span class="LineNumber"> 014 </span>ด้วยอำนาจของนัตถิปัจจัย  ฯ ล ฯ.
+<span class="LineNumber"> 015 </span>           พึงให้พิสดารเหมือนอย่างอนันตรปัจจัย.
+
+<span class="LineNumber"> 016 </span>                                   <H1>๒๓. วิคตปัจจัย</H1>
+<span class="LineNumber"> 017 </span> <B>[๖๒๓]  กุศลธรรม  เป็นปัจจัยแก่กุศลธรรม  ด้วยอำนาจของวิคต-
+<span class="LineNumber"> 018 </span>ปัจจัย</B>

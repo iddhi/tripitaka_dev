@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           ที่เป็น  <B>ปัจฉาชาตะ</B> ได้แก่ 
+<span class="LineNumber"> 002 </span>           ขันธ์ทั้งหลายที่เป็นอนิยตธรรมที่เกิดภายหลัง เป็นปัจจัยแก่กายนี้ที่เกิด
+<span class="LineNumber"> 003 </span>ก่อน  ด้วยอำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 004 </span>           [๑๗๓๙] ๔.  <B>อนิยตธรรม  เป็นปัจจัยแก่มิจฉัตตนิยตธรรม
+<span class="LineNumber"> 005 </span>ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 006 </span>           มีอย่างเดียว  คือที่เป็น  <B>ปุเรชาตะ</B>   ได้แก่
+<span class="LineNumber"> 007 </span>           หทยวัตถุ    เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นมิจฉัตตนิยตธรรม    ด้วย
+<span class="LineNumber"> 008 </span>อำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 009 </span>           [๑๗๔๐] ๕.  <B>อนิยตธรรม    เป็นปัจจัยแก่สัมมัตตนิยตธรรม
+<span class="LineNumber"> 010 </span>ด้วยอำนาจของวิปปยุตตปัจจัย.</B>
+<span class="LineNumber"> 011 </span>           มีอย่างเดียว  คือที่เป็น   <B>ปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 012 </span>           หทยวัตถุ   เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นสัมมัตตนิยตธรรม    ด้วย
+<span class="LineNumber"> 013 </span>อำนาจของวิปปยุตตปัจจัย.
+
+<span class="LineNumber"> 014 </span>                                         <H1>๒๑.  อัตถิปัจจัย</H1>
+<span class="LineNumber"> 015 </span>           [๑๗๔๑] ๑.  <B>มิจฉัตตนิยตธรรม     เป็นปัจจัยแก่มิจฉัตตนิยต-
+<span class="LineNumber"> 016 </span>ธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ    ขันธ์ ๑ ที่เป็นมิจฉัตตนิยตธรรม    เป็นปัจจัยแก่ขันธ์ ๓ ฯลฯ
+<span class="LineNumber"> 018 </span>ขันธ์ ๒ เป็นปัจจัยแก่ขันธ์ ๒.

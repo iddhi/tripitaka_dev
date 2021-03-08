@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>อกุศลบทปัญหาวาระ</H1>	
+<span class="LineNumber"> 002 </span>						<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>					<H2>๑. อารัมมณปัจจัย</H2>	
+<span class="LineNumber"> 004 </span>		[๑๒๗๖]  ๑.  อกุศลธรรมที่เป็นสัญโญชนวิปปยุตตสัญโญชนิย-
+<span class="LineNumber"> 005 </span>ธรรม เป็นปัจจัยแก่อกุศลธรรมที่เป็นสัญโญชนวิปปยุตตสัญโญชนิย-
+<span class="LineNumber"> 006 </span>ธรรม  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 007 </span>               		<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>		[๑๒๗๗]  ในอารัมมณปัจจัย มี ๑ วาระ  ในปัจจัยทั้งปวง  มี  ๑ วาระ.
+
+<span class="LineNumber"> 009 </span>				       <H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 010 </span>					        <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 011 </span>				            <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 012 </span>		[๑๒๗๘]  ๑.  อัพยากตธรรม ที่เป็นสัญโญชนวิปปยุตตสัญโญ-
+<span class="LineNumber"> 013 </span>นิยธรรม อาศัยอัพยากตธรรมที่เป็นสัญโญชนวิปปยุตตสัญโญชนิย- 
+<span class="LineNumber"> 014 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                           ๒.  อัพยากตธรรมที่เป็นสัญโญชนวิปปยุตตอสัญโญ-
+<span class="LineNumber"> 016 </span>ชนิยธรรม    อาศัยอัพยากตธรรมที่เป็นสัญโญชนวิปปยุตตอสัญโญ-
+<span class="LineNumber"> 017 </span>ชนิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย

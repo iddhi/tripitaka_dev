@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ธรรมวิปปยุตจากปรามาสะ  และไม่เป็นอารมณ์ของปรามาสะ</B> 
+<span class="LineNumber"> 002 </span>เป็นไฉน ?  
+<span class="LineNumber"> 003 </span>           มรรคและผลของมรรคที่เป็นโลกุตระ   และอสังขตธาตุ    สภาวธรรม
+<span class="LineNumber"> 004 </span>เหล่านี้ชื่อว่า  ธรรมวิปปยุตจากปรามาสและไม่เป็นอารมณ์ของปรามาสะ.
+<span class="LineNumber"> 005 </span>                                    <I>ปรามาสโคจฉกะ   จบ</I>
+
+<span class="LineNumber"> 006 </span>                                            <H1>มหันตรทุกะ</H1>
+<span class="LineNumber"> 007 </span>           [๗๖๖]   <B>ธรรมมีอารมณ์</B>   เป็นไฉน  ? 
+<span class="LineNumber"> 008 </span>           เวทนาขันธ์  สัญญาขันธ์   สังขารขันธ์   วิญญาณขันธ์   สภาวธรรม
+<span class="LineNumber"> 009 </span>เหล่านี้ชื่อว่า   ธรรมมีอารมณ์.
+<span class="LineNumber"> 010 </span>           <B>ธรรมไม่มีอารมณ์</B>  เป็นไฉน  ?
+<span class="LineNumber"> 011 </span>           รูปทั้งหมด    แต่อสังขตธาตุ    สภาวธรรมเหล่านี้ชื่อว่า    ธรรมไม่มี
+<span class="LineNumber"> 012 </span>อารมณ์. 
+<span class="LineNumber"> 013 </span>           [๗๖๗]   <B>ธรรมเป็นจิต</B>  เป็นไฉน  ?
+<span class="LineNumber"> 014 </span>           จักขุวิญญาณ   โสตวิญญาณ   ฆานวิญญาณ  ชิวหาวิญญาณ   กายวิญญาณ
+<span class="LineNumber"> 015 </span>มโนธาตุ   มโนวิญญาณธาตุ    สภาวธรรมเหล่านี้ชื่อว่า   ธรรมเป็นจิต.
+<span class="LineNumber"> 016 </span>           <B>ธรรมไม่เป็นจิต</B>   เป็นไฉน  ?
+<span class="LineNumber"> 017 </span>           เวทนาขันธ์  สัญญาขันธ์  สังขารขันธ์,   รูปทั้งหมด  และอสังขตธาตุ
+<span class="LineNumber"> 018 </span>สภาวธรรมเหล่านี้ชื่อว่า  ธรรมไม่เป็นจิต.
+<span class="LineNumber"> 019 </span>           [๗๖๘]   <B>ธรรมเป็นเจตสิก</B>  เป็นไฉน  ?
+<span class="LineNumber"> 020 </span>           เวทนาขันธ์   สัญญาขันธ์  สังขารขันธ์   สภาวธรรมเหล่านี้ชื่อว่า   ธรรม
+<span class="LineNumber"> 021 </span>เป็นเจตสิก.

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           [๑๐๑๙]  ๘.  <B>เนวาจยคมินาปจยคามิธรรม    อาศัยอาจยคามิ- 
+<span class="LineNumber"> 002 </span>ธรรม   และเนวาจยคามินาปจยคามิธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 003 </span>           คือ   จิตตสมุฏฐานรูป  อาศัยขันธ์ที่เป็นอาจยคามิธรรม  และมหาภูต-
+<span class="LineNumber"> 004 </span>รูปทั้งหลาย. 
+<span class="LineNumber"> 005 </span>                       ๙.  <B>เนวาจยคามินาปจยคามิธรรม    อาศัยอปจยคามิ-
+<span class="LineNumber"> 006 </span>ธรรม  และเนวาจยคามินาปจยคามิธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ที่เป็นอปจยคามิธรรม  และมหาภูต-
+<span class="LineNumber"> 008 </span>รูปทั้งหลาย. 
+
+<span class="LineNumber"> 009 </span>                                       <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๑๐๒๐] ๑.  <B>อาจยคามิธรรม  อาศัจอาจยคมิธรรม  เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอาจยคามิธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 013 </span>           [๑๐๒๑] ๒.  <B>อปจยคามิธรรม  อาศัยอปจยคามิธรรม  เกิดขึ้น
+<span class="LineNumber"> 014 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอปจยคามิธรรม ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 016 </span>           [๑๐๒๒] ๓.  <B>เนวาจยคามินาปจยคามิธรรม อาศัยเนวาจยคามิ-
+<span class="LineNumber"> 017 </span>นาปจยคามิธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>

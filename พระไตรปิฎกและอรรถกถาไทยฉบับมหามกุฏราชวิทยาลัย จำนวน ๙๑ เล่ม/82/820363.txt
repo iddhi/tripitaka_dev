@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>เหล่านั้นทั้งหมดกำลังตาย   มนายตนะไม่ใช่กำลังเกิด    และรูปายตนะก็
+<span class="LineNumber"> 002 </span>ไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น.                                    
+<span class="LineNumber"> 003 </span>                            <I>จบ  รูปายตนมูละ  มนายตนมูลี</I>
+<span class="LineNumber"> 004 </span><H2>รูปายตนมูละ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๓๒๘]   รูปายตนะไม่ใช่กำลังเกิดแก่บุคคลใด,     ธัมมายตนะ
+<span class="LineNumber"> 006 </span>ก็ไม่ใช่กำลังเกิดแก่บุคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         บุคคลที่รูปะเกิดไม่ได้เหล่านั้นกำลังเกิด    รูปายตนะไม่ใช่กำลัง
+<span class="LineNumber"> 008 </span>เกิดแก่บุคคลเหล่านั้น          แต่ธัมมายตนะกำลังเกิดแก่บุคคลเหล่านั้น,
+<span class="LineNumber"> 009 </span>บุคคลเหล่านั้นทั้งหมดกำลังตาย   รูปายตนะไม่ใช่กำลังเกิด   และธัมมา-
+<span class="LineNumber"> 010 </span>ยตนะก็ไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า   ธัมมายตนะไม่ใช่กำลังเกิดแก่บุคคลใด,    รูปายตนะ
+<span class="LineNumber"> 012 </span>ก็ไม่ใช่กำลังเกิดแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>                           <I>จบ  รูปายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 015 </span>                                        <I>รูปายตนมูล  จบ</I>

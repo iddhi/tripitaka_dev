@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span><B>ปัจจัย    เพราะนปัจฉาชาตปัจจัย   เพราะนอาเสวนปัจจัย<SUP>๑</SUP>.</B> 
+
+<span class="LineNumber"> 002 </span>                                       <H1>๑๑. นกัมมปัจจัย</H1>
+<span class="LineNumber"> 003 </span>         [๑๔๖๖] ๑.  <B>อนุปาทินนุปาทานิยธรรม    อาศัยอุปาทินนุ- 
+<span class="LineNumber"> 004 </span>ปาทานิยธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ  เจตนาที่เป็นอนุปาทินนุปาทานิยธรรม  อาศัยหทยวัตถุ  เกิดขึ้น.
+<span class="LineNumber"> 006 </span>                       ๒.  <B>อนุปาทินนอนุปาทานิยธรรม    อาศัยอุปาทิน-
+<span class="LineNumber"> 007 </span>นุปาทานิยธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ  เจตนาที่เป็นอนุปาทินนอนุปาทานิยธรรม   ซึ่งเป็นกุศล    อาศัย
+<span class="LineNumber"> 009 </span>หทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 010 </span>                       ๓.  <B>อนุปาทินนุปาทานิยธรรม     อาศัยอนุปาทิน-
+<span class="LineNumber"> 011 </span>นุปาทานิยธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 012 </span>         คือ  เจตนาที่เป็นอนุปาทินนุปาทานิยธรรม อาศัยขันธ์ที่เป็นอนุปาทิน-
+<span class="LineNumber"> 013 </span>นุปาทานิยธรรม เกิดขึ้น.   พาหิรรูป. . .อาหารสมุฏฐานรูป. . .อุตุสมุฏฐานรูป
+<span class="LineNumber"> 014 </span>ฯลฯ อาศัยมหาภูตรูป ๑ เกิดขึ้น.
+<span class="LineNumber"> 015 </span>                       ๔.  <B>อนุปาทินนอนุปาทานิยธรรม อาศัยอนุปาทินน-
+<span class="LineNumber"> 016 </span>อนุปาทานิยธรรม    เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  เจตนาที่เป็นอนุปาทินนอนุปาทานิยธรรม      อาศัยขันธ์ที่เป็น
+<span class="LineNumber"> 018 </span>อนุปาทินนอนุปาทานิยธรรม  ซึ่งเป็นกุศล  เกิดขึ้น.
+<span class='footnote'>๑.  ดูจำนวนการนับวาระ  ในข้อ ๑๔๖๙</span>

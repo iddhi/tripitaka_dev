@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>           <H1>นเหตุทุกโนโยคโคจฉกทุกเหตุทุกโยคโคจฉกทุกะ</H1>
+<span class="LineNumber"> 002 </span>      <H2>(๑. เหตุทุกะ   ๓๗.-๔๒.  โยคโคจฉกทุกะ)</H2>  
+<span class="LineNumber"> 003 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                          <H2>โยคบท</H2>
+<span class="LineNumber"> 007 </span>           [๑๒๘๗] ๑.  <B>โยคธรรม  ที่เป็นเหตุธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 008 </span>โยคธรรม  ที่ไม่ใช่เหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 010 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 011 </span>           [๑๒๘๘]  ในเหตุปัจจัย  มี  ๕  วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>         <I>นเหตุทุกโนโยคโคจฉกทุกเหตุทุกโยคโคจฉกทุกะ  จบ</I>	

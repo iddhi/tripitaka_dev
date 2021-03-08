@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span><H2>จักขายตนมูละ  ฆานายตนมูลี :-</H2> 
+<span class="LineNumber"> 002 </span>       	 [๓๐๘]   จักขายตนะกำลังเกิดในภูมิใด,      ฆานายตนะก็กำลัง
+<span class="LineNumber"> 003 </span>เกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>       	 ในรูปาวจรภูมินั้น      จักขายตนะกำลังเกิดในภูมินั้น  แต่ฆานา-
+<span class="LineNumber"> 005 </span>ยตนะไม่ใช่กำลังเกิดในภูมินั้น,   ในกามาวจรภูมินั้น   จักขายตนะกำลัง
+<span class="LineNumber"> 006 </span>เกิด   และฆานายตนะก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 007 </span>        	ก็หรือว่า       ฆานายตนะกำลังเกิดในภูมิใด,        จักขายตนะก็
+<span class="LineNumber"> 008 </span>กำลังเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                         <I>จบ  จักขายตนมูละ  ฆานายตนมูลี</I>
+<span class="LineNumber"> 011 </span><H2>จักขายตนมูละ  รูปายตนมูลี :-</H2>
+<span class="LineNumber"> 012 </span>         [๓๐๙]   จักขายตนะกำลังเกิดในภูมิใด,   รูปายตนะก็กำลังเกิด
+<span class="LineNumber"> 013 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า  รูปายตนะกำลังเกิดในภูมิใด, จักขายตนะก็กำลังเกิด
+<span class="LineNumber"> 016 </span>ในภูมินั้น  ใช่ไหม  ?

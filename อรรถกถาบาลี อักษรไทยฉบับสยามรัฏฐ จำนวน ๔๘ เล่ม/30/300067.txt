@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  สนฺถวชาตกํ  หน้า  67
+
+<span class="LineNumber"> 002 </span>	[๑๗๓]	น สนฺถวสฺมา ปรมตฺถิ ปาปิโย  
+<span class="LineNumber"> 003 </span>			โย สนฺถโว กาปุริเสน โหติ  
+<span class="LineNumber"> 004 </span>			สนฺตปฺปิโต สปฺปินา ปายาเสน (๑) 
+<span class="LineNumber"> 005 </span>			กิจฺฉา กตํ ปณฺณกุฏึ อทฑฺฑหีติ (๒) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  น  สนฺถวสฺมาติ  ตณฺหาสนฺถวาปิ  มิตฺตสนฺถวาปิ 
+<span class="LineNumber"> 007 </span>ทุวิธาปิ  เอตสฺมา  สนฺถวา  ปรํ  อุตฺตรึ  อฺํ  ปาปตรํ  ลามกตรํ  
+<span class="LineNumber"> 008 </span>นาม  นตฺถีติ  อตฺโถ ฯ  โย  สนฺถโว  กาปุริเสนาติ  โย ปาปเกน
+<span class="LineNumber"> 009 </span>กาปุริเสน  สทฺธึ  ทุวิโธปิ  เอส  สนฺถโว  ตโต  ปาปตรํ  อฺํ  
+<span class="LineNumber"> 010 </span>นตฺถิ ฯ  กสฺมา ฯ  สนฺตปฺปิโต  อทฑฺฑหีติ  ยสฺมา  สปฺปินา 
+<span class="LineNumber"> 011 </span>จ  ปายาเสน  จ  สนฺตปฺปิโตปิ  อยํ  อคฺคิ  มยา  กิจฺเฉน  
+<span class="LineNumber"> 012 </span>กตํ  ปณฺณสาลํ  ฌาเปสีติ อตฺโถ ฯ  
+<span class="LineNumber"> 013 </span>	โส  เอวํ  วตฺวา  น  เม  มิตฺตทุพฺภินา  อตฺโถติ  ตํ  
+<span class="LineNumber"> 014 </span>อคฺคึ  อุทเกน  นิพฺพาเปตฺวา  สาขาหิ  โปเถตฺวา  อนฺโตหิมวนฺตํ  
+<span class="LineNumber"> 015 </span>ปวิสิตฺวา  เอกํ  สามํ  นาม  มิคึ  สีหสฺส  จ  พฺยคฺฆสฺส  จ  
+<span class="LineNumber"> 016 </span>ทีปิโน  จ  มุขํ  เลหนฺตึ  ทิสฺวา  สปฺปุริเสหิ  สทฺธึ  สนฺถวา
+<span class="LineNumber"> 017 </span>ปรํ  เสยฺโย  นาม  นตฺถีติ  จินฺเตตฺวา ทุติยํ คาถมาห  
+<span class="LineNumber"> 018 </span>	[๑๗๔]	น สนฺถวสฺมา ปรมตฺถิ เสยฺโย  
+<span class="LineNumber"> 019 </span>			โย สนฺถโว สปฺปุริเสน โหติ  
+<span class="LineNumber"> 020 </span>			สีหสฺส พฺยคฺฆสฺส จ ทีปิโน จ  
+<span class="LineNumber"> 021 </span>			สามา มุขํ เลหติ สนฺถเวนาติ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. ปายเสน ฯ  ๒. ม. อทยฺหีติ ฯ  ยุ. อทฏฺ€หิ ฯ

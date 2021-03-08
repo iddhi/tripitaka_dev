@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>๓๔-๓.  โอฆสัมปยุตตทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>โอฆสมฺปยุตฺตา  ธมฺมา</B>                 ธรรมสัมปยุตด้วยโอฆะ
+<span class="LineNumber"> 003 </span><B>โอฆวิปฺปยุตฺตา   ธมฺมา</B>                ธรรมวิปปยุตจากโอฆะ
+
+<span class="LineNumber"> 004 </span>                     <H2>๓๕-๔.  โอฆโอฆนิยทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>โอฆา เจว ธมฺมา โอฆนิยา จ</B>        ธรรมเป็นโอฆะและเป็นอารมณ์ของ
+<span class="LineNumber"> 006 </span>                                               โอฆะ
+<span class="LineNumber"> 007 </span><B>โอฆนิยา เจว ธมฺมา โน จ โอฆา</B>   ธรรมเป็นอารมณ์ของโอฆะแต่ไม่เป็น
+<span class="LineNumber"> 008 </span>                                               โอฆะ
+
+<span class="LineNumber"> 009 </span>                 <H2>๓๖-๕.  โอฆโอฆสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 010 </span><B>โอฆา  เจว  ธมฺมา โอฆ-</B>               ธรรมเป็นโอฆะ  และสัมปยุตด้วยโอฆะ
+<span class="LineNumber"> 011 </span><B>สมฺปยุตฺตา จ</B>
+<span class="LineNumber"> 012 </span><B>โอฆสมฺปยุตฺตา  เจว  ธมฺมา</B>          ธรรมสัมปยุตด้วยโอฆะ  แต่ไม่เป็น
+<span class="LineNumber"> 013 </span><B>โน จ โอฆา</B>                               โอฆะ
+
+<span class="LineNumber"> 014 </span>                <H2>๓๗-๖.  โอฆวิปปยุตตโอฆนิยทุกะ</H2>
+
+<span class="LineNumber"> 015 </span><B>โอฆวิปฺปยุตฺตา  โน ปน ธมฺมา</B>      ธรรมวิปปยุตจากโอฆะ  แต่เป็นอารมณ์
+<span class="LineNumber"> 016 </span><B>โอฆนิยาปิ</B>                                 ของโอฆะ
+<span class="LineNumber"> 017 </span><B>โอฆวิปฺปยุตฺตา  โข ปน ธมฺมา</B>      ธรรมวิปปยุตจากโอฆะ  และไม่เป็น
+<span class="LineNumber"> 018 </span><B>อโนฆนิยาปิ</B>                               อารมณ์ของโอฆะ

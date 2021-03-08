@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ พฺรหฺมนิมนฺตนิกสุตฺตวณฺณนา หน้า ๖๘๓
+
+<span class="LineNumber"> 002 </span>พลวโสมนสฺสา  อเหสุํ  คงฺเคยฺยโก(๑)  นาโค  ทิสฺวา  กุปิโต  อิเม  
+<span class="LineNumber"> 003 </span>มยิ  สฺํปิ  น  กโรนฺติ  อิทานิ  เน  สมุทฺทเมว  ปาเปสฺสามีติ  
+<span class="LineNumber"> 004 </span>มหนฺตํ  อตฺตภาวํ  มาเปตฺวา  อุทกํ  ทฺวิธา  ภินฺทิตฺวา  อุฏฺ€าย  
+<span class="LineNumber"> 005 </span>ผณํ  กตฺวา  สุสฺสูการํ  (๒)  กโรนฺโต  อฏฺ€าสิ  มหาชโน  ทิสฺวา 
+<span class="LineNumber"> 006 </span>ภีโต  วิสฺสรมกาสิ  ตาปโส  ปณฺณสาลาย  นิสินฺโน  สุตฺวา  
+<span class="LineNumber"> 007 </span>อิเม  คายนฺตา  นจฺจนฺตา  โสมนสฺสชาตา  อาคจฺฉนฺติ  อิทานิ  
+<span class="LineNumber"> 008 </span>ปน  มรณภยรวํ  (๓) รวึสุ  กินฺนุ  โข  ติ  อาวชฺเชนฺโต  นาคราชํ  
+<span class="LineNumber"> 009 </span>ทิสฺวา  มยิ  ปสฺสนฺเต  อิเม  สตฺตา(๔)  มา  นสฺสนฺตู  ติ  อภิฺาปาท-
+<span class="LineNumber"> 010 </span>กชฺฌานํ  สมาปชฺชิตฺวา  อตฺตภาวํ  วิชหิตฺวา   สุปณฺณวณฺณํ  
+<span class="LineNumber"> 011 </span>มาเปตฺวา  นาคราชสฺส  ทสฺเสสิ  นาคราชา  ภีโต  ผณํ  
+<span class="LineNumber"> 012 </span>สํหริตฺวา  อุทกํ  ปวิฏฺโ€  มหาชโน  โสตฺถิภาวํ  สมฺปาปุณิ  (๕)  
+<span class="LineNumber"> 013 </span>สตฺถา  อิทํปิ  ตสฺส  ปุพฺพกมฺมํ  ทสฺเสนฺโต  
+<span class="LineNumber"> 014 </span>		  คงฺคาย  โสตสฺมึ  คหีตนาวํ  
+<span class="LineNumber"> 015 </span>		  ลุทฺเทน  นาเคน  มานุสฺสกมฺปา  
+<span class="LineNumber"> 016 </span>		  อโมจยิตฺถ  พลสา  ปสยฺห  (๔)  
+<span class="LineNumber"> 017 </span>		  ตนฺเต  ปุราณํ  วตสีลวตฺตํ  
+<span class="LineNumber"> 018 </span>		  สุตฺตปฺปพุทฺโธว  อนุสฺสรามี  ติ  (๕)  
+<span class="LineNumber"> 019 </span># ๑. ม. คงฺเคยฺยโก ฯ  ๒. ฏีกา. สุสุการํ ฯ  ๓. ม. ภยรวํ ฯ  ๔. ม. อิเม สตฺตา ฯ
+<span class="LineNumber"> 020 </span># ๕. ม. ปาปุณิ ฯ  ๖. สฺยา. ม. คหีตนาวํ ฯ ๗. สฺยา. มนุสฺสกปฺปา ฯ
+<span class="LineNumber"> 021 </span># ม. มานุสฺสกมฺปา ฯ  ๘. สฺยา. อโมจยี ตฺวํ พลสา ปสยฺห ฯ 
+<span class="LineNumber"> 022 </span># ๙. ขุ. ชา. ๒๗/๑๐๔๐/๒๒๒-๓ ฯ

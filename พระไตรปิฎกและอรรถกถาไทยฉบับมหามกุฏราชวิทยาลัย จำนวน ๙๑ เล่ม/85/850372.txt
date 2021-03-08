@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  อกุศลเจตนา  เจือกับขันธ์ทั้งหลายที่เป็นอกุศลเกิดขึ้น. 
+<span class="LineNumber"> 002 </span>              <B>๓. อัพยากตธรรม  เจือกับอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 003 </span>นกัมมปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ เจตนาที่เป็นอัพยากตกิริยา เจือกับขันธ์ทั้งหลายที่เป็นอัพยากต-
+<span class="LineNumber"> 005 </span>กิริยาเกิดขึ้น.
+<span class="LineNumber"> 006 </span> <B>[๔๐๕] ๑. กุศลธรรม  เจือกับกุศลธรรมเกิดขึ้น  เพราะนวิปาก-
+<span class="LineNumber"> 007 </span>ปัจจัย</B>
+<span class="LineNumber"> 008 </span>              <B>๒. อกุศลธรรม  เจือกับอกุศลธรรมเกิดขึ้น  ฯลฯ</B>
+<span class="LineNumber"> 009 </span>              <B>๓. อัพยากตธรรม  เจือกับอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 010 </span>นวิปากปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอัพยากตกิริยาเกิดขึ้น.
+<span class="LineNumber"> 012 </span>           นกัมมปัจจัย  นวิปากปัจจัย  ในปัจจนียวิภังค์ในสังสัฏฐวาระ  ไม่มี
+<span class="LineNumber"> 013 </span>ปฏิสนธิ  คงมีแต่ในปัจจัยทั้งหมดที่เหลือ.
+<span class="LineNumber"> 014 </span> <B>[๔๐๖] ๑. อัพยากตธรรม  เจือกับอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 015 </span>นฌานปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ ขันธ์ ๓ เจือกับขันธ์ ๑  ที่สหรคตด้วยปัญจวิญญาณเกิดขึ้น,
+<span class="LineNumber"> 017 </span>ฯลฯ  ขันธ์ ๒ เจือกับขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 018 </span> <B>[๔๐๗] ๑. อัพยากตธรรม  เจือกับอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 019 </span>นมัคคปัจจัย</B>
+

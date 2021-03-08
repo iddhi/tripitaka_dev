@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>            <H2>อรรถกถาสิริเมณฑกชาดก</H2> 
+
+<span class="LineNumber"> 002 </span>         สิริเมณฑกปัญหานี้    มีคำเริ่มต้นว่า  <B>ปญฺายุเปตํ  สิริยา  วีหีนํ</B>
+<span class="LineNumber"> 003 </span>จักมีแจ้งในมหาอุมมังคชาดก.
+<span class="LineNumber"> 004 </span>                         <I>จบอรรถกถาสิริเมณฑกชาดก</I>
+
+<span class="LineNumber"> 005 </span>                     <H2>๕. โรหนมิคชาดก</H2> 
+
+<span class="LineNumber"> 006 </span>          <H1>ว่าด้วยความรักในสายเลือด</H1>
+
+<span class="LineNumber"> 007 </span>                <B>[๒๑๐๔]  ดูก่อนน้องจิตตกะ    ฝูงเนื้อเหล่านี้
+<span class="LineNumber"> 008 </span>         กลัวความตาย  จึงพากันหนีกลับไป  ถึงเธอก็จงไปเสีย
+<span class="LineNumber"> 009 </span>         เถิด อย่าห่วงพี่เลย เนื้อทั้งหลายจักมีชีวิตอยู่ร่วมกับเธอ.</B> 
+<span class="LineNumber"> 010 </span>                <B>[๒๑๐๕]  พี่โรหนะ  ฉันไม่ไป  ถึงใครจะมาคร่า
+<span class="LineNumber"> 011 </span>         เอาหัวใจของฉันไป    ฉันก็จักไม่ทิ้งพี่ไป   ฉันจักยอม
+<span class="LineNumber"> 012 </span>         สละชีวิตอยู่ในที่นี้.</B>
+<span class="LineNumber"> 013 </span>                <B>ก็มารดาบิดาทั้งสองของเรานั้น    ท่านตาบอด
+<span class="LineNumber"> 014 </span>         เมื่อไม่มีผู้ปรนนิบัตินำทาง จักต้องตายแน่ เธอจงไปเถิด 
+<span class="LineNumber"> 015 </span>         อย่าห่วงใยพี่เลย   เนื้อทั้งหลายจักมีชีวิตอยู่ร่วมกับเธอ.</B> 
+<span class="LineNumber"> 016 </span>                <B>พี่โรหนะฉันไม่ยอมไป    ถึงใครจักมาคร่าเอา
+<span class="LineNumber"> 017 </span>         ดวงใจของฉันไป  ฉันก็จักไม่ทิ้งพี่ผู้ถูกมัดไป  ฉันจัก
+<span class="LineNumber"> 018 </span>         ยอมทิ้งชีวิตไว้ในที่นี้.</B>                

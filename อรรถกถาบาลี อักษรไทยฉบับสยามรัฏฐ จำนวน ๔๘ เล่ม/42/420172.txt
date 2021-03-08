@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  42   นิทานกถา  หน้า  172
+
+<span class="LineNumber"> 002 </span>อาคตานาคตสฺส  จาตุทฺทิสสฺส  ภิกฺขุสงฺฆสฺส  ปติฏฺ€าเปหีติ ฯ  
+<span class="LineNumber"> 003 </span>สาธุ  ภนฺเตติ  มหาเสฏฺ€ี  สุวณฺณภิงฺคารํ อาทาย  ทสพลสฺส  
+<span class="LineNumber"> 004 </span>หตฺเถ  อุทกํ  ปาเตตฺวา  อิมํ  เชตวนวิหารํ  อาคตานาคตสฺส  
+<span class="LineNumber"> 005 </span>จาตุทฺทิสสฺส  พุทฺธปฺปมุขสฺส  ภิกฺขุสงฺฆสฺส  ทมฺมีติ  อทาสิ ฯ  
+<span class="LineNumber"> 006 </span>สตฺถา  วิหารํ  ปฏิคฺคเหตฺวา อนุโมทนํ กโรนฺโต  
+<span class="LineNumber"> 007 </span>		สีตํ อุณฺหํ ปฏิหนฺติ  ตโต วาฬมิคานิ จ  
+<span class="LineNumber"> 008 </span>		สิรีสเป(๑) จ มกเส  สิสิเร จาปิ วุฏฺ€ิโย ฯ  
+<span class="LineNumber"> 009 </span>		ตโต วาตาตโป โฆโร  สฺชาโต ปฏิหฺติ  
+<span class="LineNumber"> 010 </span>		เลณตฺถฺจ สุขตฺถฺจ  ฌายิตุํ จ วิปสฺสิตุํ ฯ  
+<span class="LineNumber"> 011 </span>		วิหารทานํ สงฺฆสฺส   อคฺคํ พุทฺเธน วณฺณิตํ  
+<span class="LineNumber"> 012 </span>		ตสฺมา หิ ปณฺฑิโต โปโส  สมฺปสฺสํ อตฺถมตฺตโน ฯ  
+<span class="LineNumber"> 013 </span>		วิหาเร การเย รมฺเม  วาสเยตฺถ พหุสฺสุเต  
+<span class="LineNumber"> 014 </span>		เตสํ อนฺนฺจ ปานฺจ  วตฺถเสนาสนานิ จ ฯ  
+<span class="LineNumber"> 015 </span>		ทเทยฺย อุชุภูเตสุ   วิปฺปสนฺเนน เจตสา  
+<span class="LineNumber"> 016 </span>		เต ตสฺส ธมฺมํ เทเสนฺติ  สพฺพทุกฺขาปนูทนํ  
+<span class="LineNumber"> 017 </span>		ยํ โส ธมฺมํ อิธฺาย  ปรินิพฺพาติ อนาสโวติ(๒)  
+<span class="LineNumber"> 018 </span>วิหารานิสํสํ  กเถสิ ฯ  อนาถปิณฺฑิโก  ทุติยทิวสโต  ปฏฺ€าย  
+<span class="LineNumber"> 019 </span>วิหารมหํ  อารภิ ฯ  วิสาขาย  วิหารมโห  จตูหิ  มาเสหิ  
+<span class="LineNumber"> 020 </span>นิฏฺ€ิโต ฯ อนาถปิณฺฑิกสฺส  ปน  วิหารมโห  นวหิ  มาเสหิ  
+<span class="LineNumber"> 021 </span># ๑. ม. สิริสํเป ฯ ม.  สรีสเป ฯ  
+<span class="LineNumber"> 022 </span>#  ๒. วิ. จูล.  ๗/๒๗๑/๑๒๑ ฯ  

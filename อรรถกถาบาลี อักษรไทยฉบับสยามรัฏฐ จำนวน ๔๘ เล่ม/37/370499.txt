@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 499
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อถสฺสา  โปกฺขรณิยาติ  อิธ  โปกฺขรณีสทิสตาย
+<span class="LineNumber"> 003 </span>สรเมว  โปกฺขรณีติ  วทติ ฯ  โรหิตาติ  อาทีนิ  เตสํ  วาริโคจรานํ 
+<span class="LineNumber"> 004 </span>นามานิ ฯ  มธุ  จาติ  นิมฺมกฺขิกมธุ  จ ฯ  มธุลฏฺ€ิ  จาติ 
+<span class="LineNumber"> 005 </span>ลฏฺ€ิมธุกฺจ ฯ  ตาลิยาติ อาทิกา สพฺพา คนฺธชาติโย  
+<span class="LineNumber"> 006 </span>	[๑๑๕๕]อเถตฺถ สีหา พฺยคฺฆา จ  ปุริสาลู จ หตฺถิโย  
+<span class="LineNumber"> 007 </span>		เอเณยฺยา ปสทา เจว	โรหิตา สรภา มิคา  
+<span class="LineNumber"> 008 </span>		โกฏฺ€สุณา สุโณปิ จ	ตุลิยา นฬสนฺนิภา  
+<span class="LineNumber"> 009 </span>		จามรี จลนี ลงฺฆี		ฌาปิตา มกฺกฏา ปิจุ  
+<span class="LineNumber"> 010 </span>		กกฺกฏา กตมายา จ	อิกฺกา โคณสิรา พหู  
+<span class="LineNumber"> 011 </span>		ขคฺคา วราหา นกุลา	กาฬเกตฺถ พหุตโส  
+<span class="LineNumber"> 012 </span>		มหิสา(๑) โสณา สิงฺคาลา  จปฺปกา(๒) จ สมนฺตโต  
+<span class="LineNumber"> 013 </span>		อากุจฺจา ปจลากา จ	จิตฺรกา จาปิ ทีปิโย  
+<span class="LineNumber"> 014 </span>		เปลกา จ วิฆาสาทา	สีหา โกกนิสาตกา(๓)  
+<span class="LineNumber"> 015 </span>		อฏฺ€ปาทา จ โมรา จ	ภสฺสรา จ กุกฺกุฏฺ€กา  
+<span class="LineNumber"> 016 </span>		จงฺโกรา กุกฺกุฏา นาคา	อฺมฺํ ปกูชิโน  
+<span class="LineNumber"> 017 </span>		พกา พลากา นชฺชูหา	ทินฺทิภา โกนฺจวาทิกา(๔)  
+<span class="LineNumber"> 018 </span>		พฺยคฺฆินสา โลหปิฏฺ€า	จปฺปกา ชีวชีวกา  
+<span class="LineNumber"> 019 </span>		กปิฺชรา ติตฺติราโย	กุลาวา(๕) ปฏิกุฏฺ€กา  
+<span class="LineNumber"> 020 </span>		มณฺฑาลกา เจลเกฬุ	ภณฺฑุติตฺติรนามกา  
+<span class="LineNumber"> 021 </span># ๑. ม. มหึสา ฯ  ๒. ม. ปมฺปกา ฯ  ๓. ม. โกกนิสทกา ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. กุฺชวาชิตา ฯ  ๕. ม. กุลา จ ฯ 

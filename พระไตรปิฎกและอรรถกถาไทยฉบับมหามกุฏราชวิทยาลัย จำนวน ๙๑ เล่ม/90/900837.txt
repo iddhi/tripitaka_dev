@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                         		<H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 002 </span>                                     <H2>๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>		[๓๓๗]  ๑.  นเหตุธรรมที่เป็นอนิยตธรรม    อาศัยนเหตุธรรม
+<span class="LineNumber"> 004 </span>ที่เป็นอนิยตธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย
+<span class="LineNumber"> 005 </span>                          		<H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 006 </span>		[๓๓๘]  ในนเหตุปัจจัย มี ๑ วาระ   ในนอารัมมณปัจจัย มี ๕  วาระ
+<span class="LineNumber"> 007 </span>ในนอธิปติปัจจัย มี ๓ วาระ  ฯลฯ  ในโนวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 008 </span>                      	    <H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 009 </span>		[๓๓๙]  เพราะเหตุปัจจัย   ในนอารัมมณปัจจัย  มี  ๕ วาร... ฯลฯ
+<span class="LineNumber"> 010 </span>                        	  <H2>ปัจจนียานุโลมนัย</H2>                    
+<span class="LineNumber"> 011 </span>		[๓๔๐]  เพราะเหตุปัจจัย        ในอารัมมณปัจจัย  มี ๑ วาระ...   ฯลฯ
+<span class="LineNumber"> 012 </span>                สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+	
+<span class="LineNumber"> 013 </span>				   <H1>นเหตุบทปัญหาวาระ</H1>
+<span class="LineNumber"> 014 </span>				     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>			     <H2>๑. อารัมมณปัจจัย</H2>	
+<span class="LineNumber"> 016 </span>		[๓๔๑]  ๑.  นเหตุธรรมที่เป็นมิจฉัตตนิยตธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 017 </span>นเหตุธรรมที่เป็นอนิยตธรรม  ด้วยอำนาจของอารัมมณปัจจัย

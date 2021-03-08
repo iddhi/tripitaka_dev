@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>สัญญาเวทยิตกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๒๒]   <B>สกวาที</B>  สัญญาเวทยิตนิโรธสมาบัติเป็นโลกุตตระ  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. เป็นมรรค  เป็นผล  เป็นนิพพาน  เป็นโสดาปัตติมรรค
+<span class="LineNumber"> 005 </span>เป็นโสดาปัตติผล  ฯลฯ  เป็นโพชฌงค์  หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>                       ป. ไม่พึงกล่าวว่า  สัญญาเวทยิตนิโรธสมาบัติเป็น
+<span class="LineNumber"> 008 </span>โลกุตตระ  หรือ ?
+<span class="LineNumber"> 009 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ป. เป็นโลกิยะ  หรือ ?
+<span class="LineNumber"> 011 </span>                       ส. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>                       ป. ถ้าเช่นนั้นก็เป็นโลกุตตระ  น่ะสิ.
+<span class="LineNumber"> 013 </span>                                <I>สัญญาเวทยิตกถา  จบ</I>
+
+<span class="LineNumber"> 014 </span>                      <H2>อรรถกถาสัญญาเวทยิตถา</H2>
+
+<span class="LineNumber"> 015 </span>               <H2>ว่าด้วย  สัญญาเวทยิตนิโรธสมาบัติ</H2>
+
+<span class="LineNumber"> 016 </span>         บัดนี้  ชื่อว่าเรื่องสัญญาเวทยิตนิโรธสมาบัติ   คือสมาบัติที่ดับ
+<span class="LineNumber"> 017 </span>สัญญาเวทนา.   ในเรื่องนั้น  ธรรมอะไร  ๆ  ชื่อว่าสัญญาเวทยิตนิโรธสมาบัติ
+<span class="LineNumber"> 018 </span>หามีไม่  มีแต่ความดับขันธ์ทั้ง  ๔  เพราะฉะนั้นสัญญาเวทยิตนิโรธสมาบัติ
+<span class="LineNumber"> 019 </span>นั้น  จึงไม่ใช่โลกีย์  ไม่ใช่โลกุตตระ  ก็ชนเหล่าใดมีความเห็นผิดดุจลัทธิ
+<span class="LineNumber"> 020 </span>นิกายเหตุวาทนั่นแหละว่า  สัญญาเวทยิตนิโรธสมาบัติไม่เป็นโลกีย์ 
+<span class="LineNumber"> 021 </span>เพราะเป็นโลกุตตระ   ดังนี้   คำถามของสกวาทีหมายถึงชนเหล่านั้น  คำ
+<span class="LineNumber"> 022 </span>ตอบรับรองเป็นของปรวาที.  คำที่เหลือเช่นกับเรื่องก่อนนั่นแหละ.
+<span class="LineNumber"> 023 </span>                         <I>อรรถกถาสัญญาเวทยิตกถา  จบ</I>

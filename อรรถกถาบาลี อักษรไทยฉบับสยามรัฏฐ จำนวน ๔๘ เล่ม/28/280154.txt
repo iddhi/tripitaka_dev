@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  154
+
+<span class="LineNumber"> 002 </span>ตํ  ทิวสํ  กิร  ภควโต  ฉินฺนภตฺตํ  ภเวยฺย  ตํ  มา  อโหสีต
+<span class="LineNumber"> 003 </span>ิ  สกฺกสฺส  นิสินฺนาสนํ  อุณฺหาการํ  ทสฺเสสิ ฯ  โส  อาวชฺชมาโน
+<span class="LineNumber"> 004 </span>ตํ  การณํ  ตฺวา  มาณวกวณฺณํ  อภินิมฺมินิตฺวา  พุทฺธธมฺม-
+<span class="LineNumber"> 005 </span>สงฺฆปฏิสํยุตฺตา  ถุติโย  วทมาโน  ทสพลสฺส  ปุรโต  โอตริตฺวา  
+<span class="LineNumber"> 006 </span>เทวานุภาเวน โอกาสํ กตฺวา  
+<span class="LineNumber"> 007 </span>	ทนฺโต ทนฺเตหิ สห ปุราณชฏิเลหิ วิปฺปมุตฺเตหิ  
+<span class="LineNumber"> 008 </span>	สิงฺคินิกฺขสุวณฺโณ ราชคหํ ปาวิสิ ภควา ฯ  
+<span class="LineNumber"> 009 </span>	มุตฺโต มุตฺเตหิ สห ปุราณชฏิเลหิ  
+<span class="LineNumber"> 010 </span>	สิงฺคินิกฺขสุวณฺโณ(๑) ราชคหํ ปาวิสิ ภควา ฯ  
+<span class="LineNumber"> 011 </span>	ติณฺโณ ติณฺเณหิ สห ปุราณชฏิเลหิ  
+<span class="LineNumber"> 012 </span>	สิงฺคินิกฺขสุวณฺโณ ราชคหํ ปาวิสิ ภควา ฯ  
+<span class="LineNumber"> 013 </span>	ทสวาโส ทสพโล ทสธมฺมวิทู ทสหิ จ อุเปโต  
+<span class="LineNumber"> 014 </span>	โส  ทสสตปริวาโร  ราชคหํ  ปาวิสิ  ภควาติ(๒)  
+<span class="LineNumber"> 015 </span>อิมาหิ  คาถาหิ  สตฺถุ  วณฺณํ  วทมาโน  ปุรโต  ปายาสิ ฯ 
+<span class="LineNumber"> 016 </span>มหาชโน  มาณวกสฺส  รูปสิรึ  ทิสฺวา  อติวิย  อภิรูโป  อยํ  
+<span class="LineNumber"> 017 </span>มาณวโก  น  โข  ปนมฺเหหิ  ทิฏฺ€ปุพฺโพติ  จินฺเตตฺวา  กุโต
+<span class="LineNumber"> 018 </span>อยํ  มาณวโก  กสฺส  วา อยนฺติ อาห ฯ ตํ สุตฺวา มาณวโก  
+<span class="LineNumber"> 019 </span>	โย ธีโร สพฺพธี ทนฺโต	เสฏฺโ€(๓) อปฺปฏิปุคฺคโล  
+<span class="LineNumber"> 020 </span>	อรหํ  สุคโต  โลเก		ตสฺสาหํ  ปริจาริโกติ(๔)
+<span class="LineNumber"> 021 </span># ๑. ม. สิงฺคีนิกฺขสวณฺโณ ฯ  ๒. วิ. มหา. ๔/๖๑/๖๙-๗๐ ฯ 
+<span class="LineNumber"> 022 </span># ๓. สี. ยุ. พุทฺโธ ฯ ม. สุทฺโธ ฯ ๔. วิ. มหา. ๔/๖๒/๗๐ ฯ 

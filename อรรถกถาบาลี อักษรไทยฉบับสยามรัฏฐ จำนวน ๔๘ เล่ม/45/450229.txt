@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  45  หน้า  229
+
+<span class="LineNumber"> 002 </span>				มหึสราชจริยาวณฺณนา 
+<span class="LineNumber"> 003 </span>		ปุนาปรํ ยทา โหมิ		มหึโส  ปวนจารโก  
+<span class="LineNumber"> 004 </span>		ปวฑฺฒกาโย พลวา		มหนฺโต ภีมทสฺสโน ฯ  
+<span class="LineNumber"> 005 </span>		ปพฺภาเร คิริทุคฺเค จ		รุกฺขมูเล ทกาสเย  
+<span class="LineNumber"> 006 </span>		โหเตตฺถ €านํ มหึสานํ	โกจิ โกจิ ตหึ ตหึ ฯ  
+<span class="LineNumber"> 007 </span>		วิจรนฺโต พฺรหารฺเ	€านํ อทฺทส ภทฺทกํ  
+<span class="LineNumber"> 008 </span>		ตํ €านํ อุปคนฺตฺวาน		ติฏฺ€ามิ จ สยามิ จาติ ฯ (๑)  
+<span class="LineNumber"> 009 </span>	ปฺจเม  มหึโส  ปวนจารโกติ  มหาวนจารี  วนมหึโส  
+<span class="LineNumber"> 010 </span>ยทา  โหมีติ  โยชนา ฯ  ปวฑฺฒกาโยติ  วยสมฺปตฺติยา (๒) องฺค-
+<span class="LineNumber"> 011 </span>ปจฺจงฺคานฺจ ถูลภาเวน อภิวฑฺฒกาโย ฯ  พลวาติ  มหาพโล 
+<span class="LineNumber"> 012 </span>ถามสมฺปนฺโน ฯ  มหนฺโตติ  วิปุลสรีโร ฯ  หตฺถิกลภปฺปมาโณ  (๓) กิร  
+<span class="LineNumber"> 013 </span>ตทา  โพธิสตฺตสฺส  กาโย  โหติ ฯ  ภีมทสฺสโนติ  มหาสรีรตาย  
+<span class="LineNumber"> 014 </span>วรมหึสชาติตาย จ สีลํ  อชานนฺตานํ ภยํ ชนนโต ภยานก-
+<span class="LineNumber"> 015 </span>ทสฺสโน ฯ  
+<span class="LineNumber"> 016 </span>	ปพฺภาเรติ  โอลมฺพกสิลากุจฺฉิยํ ฯ  ทกาสเยติ  ชลาสยสมีเป ฯ
+<span class="LineNumber"> 017 </span>โหเตตฺถ  €านนฺติ  เอตฺถ  มหาวเน  โย โกจิ ปเทโส วนมหึสานํ 
+<span class="LineNumber"> 018 </span>ติฏฺ€นฏฺ€านํ โหติ ฯ ตหึ ตหินฺติ  ตตฺถ ตตฺถ ฯ  
+<span class="LineNumber"> 019 </span>	วิจรนฺโตติ  วิหารผาสุกํ  วีมํสิตุํ  วิหรนฺโต ฯ  €านํ อทฺทส 
+<span class="LineNumber"> 020 </span>ภทฺทกนฺติ  เอวํ  วิจรนฺโต  ตสฺมึ  มหารฺเ  ภทฺทกํ  มยฺหํ 
+<span class="LineNumber"> 021 </span># ๑. ขุ. จริยา. ๓๓/๑๕/๕๗๒ ฯ  ๒. สี. วยปฺปตฺติยา ฯ
+<span class="LineNumber"> 022 </span># ๓. สี. หตฺถิกฺขนฺธปฺปมาโณ ฯ

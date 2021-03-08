@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>เอก.					พหุ.  
+<span class="LineNumber"> 002 </span><B>กียเต.				กียนฺเต.  
+<span class="LineNumber"> 003 </span>คหิยเต.				คหิยนฺเต.
+<span class="LineNumber"> 004 </span>กริยเต.				กริยนฺเต.
+<span class="LineNumber"> 005 </span>จุริยเต.				จุริยนฺเต.</B>
+<span class="LineNumber"> 006 </span>                          (๑๒๓)  คำอธิบายในกัมมาวาจก
+<span class="LineNumber"> 007 </span>	๑.  ลง  <B>อิ</B>- อาคม  หน้า  <B>ย</B>  ปัจจัย  ในกัมมวาจก.
+<span class="LineNumber"> 008 </span>	๒.  เอา  <B>ย</B>-ปัจจัย  กับ  <B>จฺ</B> ที่สุดแห่ง  <B>ปจฺ</B> ธาตุ  เป็น  <B>จฺจ</B>  บ้าง
+<span class="LineNumber"> 009 </span>ไม่ต้องลง  <B>อิ</B>  อาคม.
+<span class="LineNumber"> 010 </span>	๓.  ซ้อน  <B>ยฺ</B> - พยัญชนะ  ที่  ย-ปัจจัยบ้าง.
+<span class="LineNumber"> 011 </span>	ภาววาจกก็แจกเหมือนกัมมวาจก  ไม่ต้องแจกไว้ในที่นี้,  ต่าง
+<span class="LineNumber"> 012 </span>กันแต่ลักษณะที่กล่าวแล้ว  ในวาจกข้างต้น.
+
+<span class="LineNumber"> 013 </span>                                     เหตุกัตตุวาจก
+<span class="LineNumber"> 014 </span>	(๑๒๔)  แจก  <B>ปจ</B>ฺ  ธาตุ  ลง  <B>เณ</B>  และ <B>ณฺย</B>  ปัจจัย  เป็นตัวอย่าง.
+<span class="LineNumber"> 015 </span>		๑.  วตฺตมานา				๒.  ปญฺจมี
+<span class="LineNumber"> 016 </span>ปุริส.	เอก.			       พหุ.		เอก.			พหุ.
+<span class="LineNumber"> 017 </span><B>ป. 		ปาเจติ.		ปาเจนฺติ.		ปาเจตุ.		ปาเจนฺตุ.
+<span class="LineNumber"> 018 </span>ม.  		ปาเจสิ.		  ปาเจถ.		ปาเจหิ.		ปาเจถ.
+<span class="LineNumber"> 019 </span>อุ.		ปาเจมิ.		  ปาเจม.		ปาเจมิ.		ปาเจม.</B>

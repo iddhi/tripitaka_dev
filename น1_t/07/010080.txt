@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>	บุตรผู้ได้รับสวัสดิการจากมารดาบิดา  พึงปฏิบัติท่านดังนี้     
+<span class="LineNumber"> 002 </span>		ท่านได้เลี้ยงมาแล้ว  เลี้ยงท่านตอบ
+<span class="LineNumber"> 003 </span>		ทำกิจของท่าน  
+<span class="LineNumber"> 004 </span>		ดำรงวงศ์สกุล
+<span class="LineNumber"> 005 </span>		ประพฤติตนให้เป็นคนควรรับมรดก
+<span class="LineNumber"> 006 </span>		เมื่อท่านล่วงลับไปแล้วทำบุญอุทิศให้ท่าน
+<span class="LineNumber"> 007 </span>	การช่วยพ่อแม่ทำงานบ้าน  เช่น  เก็บกวาดทำความสะอาดบ้าง
+<span class="LineNumber"> 008 </span>ช่วยสิ่งนั้นถือสิ่งนี้  แม้แต่เพียงเช่นรับแขกที่มาหาพ่อแม่ด้วยการหาน้ำมา
+<span class="LineNumber"> 009 </span>ให้แขกรับประทานหรือเจรจาปราศรัย  เยาวชนก็ได้ชื่อว่าทำสวัสดิการ
+<span class="LineNumber"> 010 </span>ให้แก่ตนเอง
+<span class="LineNumber"> 011 </span>	ผู้ดำรงวงศ์ตระกูลไว้ได้ต้องมคุณลักษณะดังนี้
+<span class="LineNumber"> 012 </span>		รู้จักรักษาแสวงหาพัสดุที่หายแล้ว
+<span class="LineNumber"> 013 </span>		บูรณะพัสดุที่คร่ำคร่า
+<span class="LineNumber"> 014 </span>		รู้จักประมาณในการใช้สอย
+<span class="LineNumber"> 015 </span>		ไม่เป็นนักเลงการพนัน

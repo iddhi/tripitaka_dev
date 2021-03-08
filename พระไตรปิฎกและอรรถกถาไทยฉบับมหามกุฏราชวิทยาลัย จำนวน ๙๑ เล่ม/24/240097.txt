@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๙.  กุฏิกาสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                      <H1>ว่าด้วยมารดาเหมือนกระท่อมเป็นต้น</H1>
+
+<span class="LineNumber"> 003 </span>         [๔๐]   เทวดากล่าวว่า
+<span class="LineNumber"> 004 </span>                             <B>กระท่อมของท่านไม่มีหรือ   รังของ
+<span class="LineNumber"> 005 </span>                   ท่านไม่มีหรือ   เครื่องสืบต่อของท่านไม่มี 
+<span class="LineNumber"> 006 </span>                   หรือ ท่านเป็นผู้พ้นแล้วจากเครื่องผูกหรือ.</B>
+<span class="LineNumber"> 007 </span>         [๔๑]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 008 </span>                             <B>แน่ละ  กระท่อมของเราไม่มี  แน่ละ
+<span class="LineNumber"> 009 </span>                   รังของเราไม่มี   แน่ละ  เครื่องสืบต่อของ
+<span class="LineNumber"> 010 </span>                   เราไม่มี   แน่ละ   เราเป็นผู้พ้นแล้วจาก
+<span class="LineNumber"> 011 </span>                   เครื่องผูก.</B>
+<span class="LineNumber"> 012 </span>         [๔๒]   เทวดากล่าวว่า
+<span class="LineNumber"> 013 </span>                             <B>ข้าพเจ้ากล่าวแก่ท่านว่า      อะไรเป็น
+<span class="LineNumber"> 014 </span>                   กระท่อม     ข้าพเจ้ากล่าวแก่ท่านว่าอะไร
+<span class="LineNumber"> 015 </span>                   เป็นรัง    ข้าพเจ้ากล่าวแก่ท่านว่าอะไรเป็น
+<span class="LineNumber"> 016 </span>                   เครื่องสืบต่อ  ข้าพเจ้ากล่าวแก่ท่านว่า
+<span class="LineNumber"> 017 </span>                   อะไรเป็นเครื่องผูก.</B>
+<span class="LineNumber"> 018 </span>         [๔๓]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 019 </span>                             <B>ท่านกล่าวมารดาว่าเป็นกระท่อม
+<span class="LineNumber"> 020 </span>                   ท่านกล่าวภรรยาว่าเป็นรัง   ท่านกล่าวบุตร
+<span class="LineNumber"> 021 </span>                   ว่าเป็นเครื่องสืบต่อ   ท่านกล่าวตัณหาว่า
+<span class="LineNumber"> 022 </span>                   เป็นเครื่องผูกแก่เรา.</B>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         ในปัจจัยทั้ง ๔ นี้    พึงแสดงเหมือนโลภะที่เป็นทิฏฐิคตวิปปยุต    ที่
+<span class="LineNumber"> 002 </span>แสดงไว้ในกัมมปัจจัย   มีปัจจัยละ ๔ วาระ.
+<span class="LineNumber"> 003 </span>         <B>ฯลฯ  เป็นปัจจัย  ด้วยอำนาจของสัมปยุตตปัจจัย</B>  มี ๖ วาระ.
+
+<span class="LineNumber"> 004 </span>                                   <H2>๒๐.  วิปปยุตตปัจจัย</H2>
+<span class="LineNumber"> 005 </span>         [๔๕๓] ๑.  <B>อุปาทานสัมปยุตตธรรม    เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 006 </span>วิปปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 007 </span>         มี  ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>ปัจฉาชาตะ</B> ฯลฯ
+<span class="LineNumber"> 008 </span>                     ๒.  <B>อุปาทานวิปปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 009 </span>วิปปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 010 </span>         มี ๓ อย่าง   คือที่เป็น   <B>สหชาตะ  ปุเรชาตะ</B>  และ  <B>ปัจฉาชาตะ</B> ฯลฯ
+<span class="LineNumber"> 011 </span>                     ๓.  <B>อุปาทานวิปปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 012 </span>สัมปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 013 </span>         มีอย่างเดียว   คือที่เป็น   <B>ปุเรชาตะ</B>   ได้แก่
+<span class="LineNumber"> 014 </span>         หทยวัตถุ    ที่เกิดก่อน    เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นอุปาทาน
+<span class="LineNumber"> 015 </span>สัมปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 016 </span>                     ๔.  <B>อุปาทานวิปปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 017 </span>สัมปยุตตธรรม  และอุปาทานวิปปยุตตธรรม    ด้วยอำนาจของวิปป-
+<span class="LineNumber"> 018 </span>ยุตตปัจจัย</B>
+<span class="LineNumber"> 019 </span>         มีอย่างเดียว   คือที่เป็น   <B>ปุเรชาตะ</B>  ได้แก่

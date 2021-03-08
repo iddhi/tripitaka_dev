@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        อาขยาต 
+<span class="LineNumber"> 002 </span>	(๑๐๘)  ศัพท์กล่าวกิริยา  คือ  ความทำ,  เป็นต้นว่า  ยืน  เดิน    
+<span class="LineNumber"> 003 </span>นั่ง  นอน  กิน  ดื่ม  ทำ  พูด  คิด,  ชื่อว่า  อาขยาต.  ในอาขยาตนั้น
+<span class="LineNumber"> 004 </span>ท่านประกอบ  วิภัตติ  กาล  บท  วจนะ  บุรุษ  ธาตุ  วาจก  ปัจจัย,  เพื่อ
+<span class="LineNumber"> 005 </span>เป็นเครื่องหมายเนื้อความให้ชัดเจน.
+
+<span class="LineNumber"> 006 </span>                                         วิภัตติ
+<span class="LineNumber"> 007 </span>	(๑๐๙)  วิภัตตินั้นท่านจำแนกไว้เพื่อเป็นเครื่องหมายให้รู้  กาล
+<span class="LineNumber"> 008 </span>บท  วจนะ  บุรุษ,  จัดเป็น  ๘  หมวด.  ในหมวดหนึ่ง ๆ มี  ๑๒  วิภัตติ
+<span class="LineNumber"> 009 </span>อย่างนี้ :-
+
+<span class="LineNumber"> 010 </span>                                    ๑.  วตฺตมานา
+<span class="LineNumber"> 011 </span>		ปรสฺสปทํ				อตฺตโนปทํ
+<span class="LineNumber"> 012 </span>ปุริส.	เอก.		พหุ.		เอก.				พหุ.
+<span class="LineNumber"> 013 </span>ป.		ติ.	      อนฺติ.<SUP>๑</SUP>		เต.<SUP>๒</SUP>			      อนฺเต.<SUP>๓</SUP>
+<span class="LineNumber"> 014 </span>ม.		สิ.		   ถ.		เส.				วฺเห.
+<span class="LineNumber"> 015 </span>อุ.		มิ.		   ม.		เอ.<SUP>๔</SUP>				มฺเห.	
+
+<span class='footnote'>๑.  เป็น  เร  เช่น  วุจฺจเร  บ้าง.   ๒.  ใช้แทน  ติ  เช่น  ชายเต  บ้าง.   ๓.  ใช้แทน</span>
+<span class='footnote'>อนฺติ  เช่น  ปุจฺฉนฺเต  บ้าง.    ๔.  ใช้แทน  มิ  เช่น  อิจฺเฉ  บ้าง.</span>

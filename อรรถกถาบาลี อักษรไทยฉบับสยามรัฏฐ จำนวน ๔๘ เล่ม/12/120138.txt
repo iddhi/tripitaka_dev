@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๒  สฬายตนวคฺควณฺณนา  หน้า  ๑๓๘
+
+<span class="LineNumber"> 002 </span>		เอวํ  สพฺพงฺคสมฺปนฺโน		กมฺปยนฺโต  วสุนฺธรํ  
+<span class="LineNumber"> 003 </span>		อเห€ยนฺโต  ปาณานิ		ยาติ  โลกวินายโก ฯ  
+<span class="LineNumber"> 004 </span>		ทกฺขิณํ  ป€มํ  ปาทํ		อุทฺธรนฺโต  นราสโภ  
+<span class="LineNumber"> 005 </span>		คจฺฉนฺโต  สิริสมฺปนฺโน		โสภเต  ทิปทุตฺตโม ฯ  (๑)  
+<span class="LineNumber"> 006 </span>		คจฺฉโต  พุทฺธเสฏฺ€สฺส		เหฏฺ€าปาทตลํ  มุทุ  
+<span class="LineNumber"> 007 </span>		สมํ  สมฺผุสเต  ภูมึ		รชสา  นุปลิปฺปติ ฯ  
+<span class="LineNumber"> 008 </span>		นินฺนฏฺ€านํ  อุณฺณมติ		คจฺฉนฺเต  โลกนายเก  
+<span class="LineNumber"> 009 </span>		อุณฺณตฺจ  สมํ  โหติ		ป€วี  จ  อเจตนา ฯ  
+<span class="LineNumber"> 010 </span>		ปาสาณา  สกฺขรา  เจว		กถลา  ขาณุกณฺฏกา  
+<span class="LineNumber"> 011 </span>		สพฺเพ  มคฺคา  วิวชฺชนฺติ	คจฺฉนฺเต  โลกนายเก ฯ  
+<span class="LineNumber"> 012 </span>		นาติทูเร  อุทฺธรติ		นาจฺจาสนฺเน  จ  นิกฺขิปํ  
+<span class="LineNumber"> 013 </span>		อฆฏยนฺโต  นิยฺยาติ		อุโภ  ชาณู  จ  โคปฺผเก ฯ  
+<span class="LineNumber"> 014 </span>		นาติสีฆํ  ปกฺกมติ		สมฺปนฺนจรโณ  มุนิ  
+<span class="LineNumber"> 015 </span>		น  จาปิ(๒)สณิกํ ยาติ		คจฺฉมาโน  สมาหิโต ฯ  
+<span class="LineNumber"> 016 </span>		อุทฺธํ  อโธ  ติริยฺจ		ทิสฺจ  วิทิสํ  ตถา  
+<span class="LineNumber"> 017 </span>		น  เปกฺขมาโน  โส  ยาติ	ยุคมตฺตํ  หิ  เปกฺขติ ฯ  
+<span class="LineNumber"> 018 </span>		นาควิกฺกนฺตจาโร  โส		คมเน  โสภตี(๓)  ชิโน  
+<span class="LineNumber"> 019 </span>		จารุํคจฺฉติ  โลกคฺโค		หาสยนฺโต  สเทวเก ฯ  
+<span class="LineNumber"> 020 </span>		อุฬุราชาว  โสภนฺโต		จตุจารีว  เกสรี  
+<span class="LineNumber"> 021 </span>		โตสยนฺโต  พหู  สตฺเต		ปุรํ  เสฏฺ€ํ  อุปาคมีติ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. ทฺวิปทุตฺตโม  ฯ  ๒. ม. จาติ  ฯ  ๓. ม. โสภเต  ฯ  ๔. ม. อุฬุราชาว  ฯ

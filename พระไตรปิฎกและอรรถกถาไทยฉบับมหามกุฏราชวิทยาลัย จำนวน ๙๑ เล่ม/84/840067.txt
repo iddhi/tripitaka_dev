@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>ปัณณัตติวารนิเทศ</H1>
+<span class="LineNumber"> 002 </span>                               <H1>ปทโสธนวาระ  อนุโลม</H1>
+<span class="LineNumber"> 003 </span>         [๓๘๘]   ธรรมที่ชื่อว่าจักขุ   ชื่อว่า   จักขุนทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ทิพพจักขุ     ปัญญาจักขุ    ชื่อว่า    จักขุ    ไม่ชื่อว่าจักขุนทรีย์,
+<span class="LineNumber"> 005 </span>จักขุนทรีย์   ชื่อว่าจักขุด้วย  ชื่อว่าจักขุนทรีย์ด้วย.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่าจักขุนทรีย์    ชื่อว่าจักขุ   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าโสตะ   ชื่อว่า   โสตินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ทิพพโสตะ   ตัณหาโสตะ<SUP>๑</SUP>    ชื่อว่า   โสตะ   แต่ไม่ชื่อว่า   โสติน-
+<span class="LineNumber"> 009 </span>ทรีย์,   โสตินทรีย์   ชื่อว่าโสตะด้วย   ชื่อว่าโสตินทรีย์ด้วย.
+<span class="LineNumber"> 010 </span>         ธรรมที่ชื่อว่า  โสตินทรีย์   ชื่อว่า   โสตะ  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่. 
+<span class="LineNumber"> 012 </span>         ธรรมที่ชื่อว่าฆานะ   ชื่อว่า  ฆานินทรีย์ ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ธรรมที่ชื่อว่าฆานินทรีย์   ชื่อว่า   ฆานะ  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class='footnote'>๑.  ตัณหาโสตะ-กระแสตัณหา</span>

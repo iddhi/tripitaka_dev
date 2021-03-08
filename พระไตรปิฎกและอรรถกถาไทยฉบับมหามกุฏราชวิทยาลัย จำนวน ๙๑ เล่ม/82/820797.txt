@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่ามโน,  ไม่ชื่อว่ามโนธาตุ  ใช่ไหม  ? 
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่ามโนธาตุ,  ไม่ชื่อว่ามโน  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         เว้นมโนธาตุเสียแล้ว   มโนที่เหลือ     ไม่ชื่อว่ามโนธาตุ  แต่ชื่อว่า
+<span class="LineNumber"> 005 </span>มโน,   เว้นมโนและมโนธาตุเสียแล้ว   มโนที่เหลือไม่ชื่อว่า   มโน   และ
+<span class="LineNumber"> 006 </span>ไม่ชื่อว่า  มโนธาตุ.
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่ามโนวิญญาณ, ไม่ชื่อว่ามโนวิญญาณใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ธรรมที่ไม่ชื่อว่ามโนวิญญาณธาตุ, ไม่ชื่อว่ามโนวิญญาณ ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ธรรมที่ไม่ชื่อว่าธรรม,  ไม่ชื่อว่าธัมมธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่. 
+<span class="LineNumber"> 013 </span>         ธรรมที่ไม่ชื่อว่าธัมมธาตุ,  ไม่ชื่อว่าธรรม  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         เว้นธัมมธาตุเสียแล้ว   ธรรมที่เหลือไม่ชื่อว่า ธัมมธาตุ  แต่ชื่อว่า
+<span class="LineNumber"> 015 </span>ธรรม,  เว้นธรรมและธัมมธาตุเสียแล้ว     ธรรมที่เหลือไม่ชื่อว่า     ธรรม
+<span class="LineNumber"> 016 </span>และไม่ชื่อว่า   ธัมมธาตุ.
+<span class="LineNumber"> 017 </span>                              <I>ปทโสธนวาระ  ปัจจนิก  จบ</I>

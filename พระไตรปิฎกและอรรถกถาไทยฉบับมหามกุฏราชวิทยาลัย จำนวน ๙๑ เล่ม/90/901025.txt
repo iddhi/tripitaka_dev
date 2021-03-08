@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                 	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 002 </span>		[๗๙๗]  ในเหตุปัจจัย มี  ๓ วาระ    ในอารัมมณปัจจัย  มี  ๙ วาระ 
+<span class="LineNumber"> 003 </span>ในอธิปติปัจจัย มี ๗ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 004 </span>            แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+
+<span class="LineNumber"> 005 </span>                      		<H1>อวิตักกบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 006 </span>                          	         <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 007 </span>                                         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๗๙๘]  ๑.  อวิตักกธรรมที่เป็นกุศล  อาศัยอวิตักกธรรมที่เป็น
+<span class="LineNumber"> 009 </span>กุศล  เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ
+<span class="LineNumber"> 010 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๗๙๙]  ในเหตุปัจจัย  มี ๗ วาระ     ในอารัมมณปัจจัย  มี ๒ วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในวิปากปัจจัย มี ๑ วาระ   ในอวิคตปัจจัย มี ๗ วาระ.
+<span class="LineNumber"> 013 </span>		สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.

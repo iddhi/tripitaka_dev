@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ถ้ากรรมบกพร่องด้วยญัตติ   สนบูรณ์ด้วยอนุสาวนา   ใช้ไม่ได้   และ 
+<span class="LineNumber"> 002 </span>ไม่ควรทำ.
+<span class="LineNumber"> 003 </span>           ถ้ากรรมบกพร่องด้วยอนุสาวนา   สมบูรณ์ด้วยญัตติ  ใช้ไม่ได้  และไม่
+<span class="LineNumber"> 004 </span>ควรทำ.
+<span class="LineNumber"> 005 </span>           ถ้ากรรมบกพร่องทั้งญัตติ  บกพร่องทั้งอนุสาวนา  ใช้ไม่ได้   และไม่
+<span class="LineNumber"> 006 </span>ควรทำ.
+<span class="LineNumber"> 007 </span>           กรรมแม้แผกจากธรรม   ก็ใช้ไม่ได้   และไม่ควรทำ.
+<span class="LineNumber"> 008 </span>           กรรมแม้แผกจากวินัย   ก็ใช้ไม่ได้   และไม่ควรทำ.
+<span class="LineNumber"> 009 </span>           กรรมแม้แผกจากสัตถุศาสน์   ก็ใช้ไม่ได้   และไม่ควรทำ.
+<span class="LineNumber"> 010 </span>           ถ้ากรรมที่ถูกคัดค้านแล้ว และขืนทำ   ไม่เป็นธรรม    กำเริบ    ไม่ควร
+<span class="LineNumber"> 011 </span>แก่ฐานะ   ก็ใช้ไม่ได้   และไม่ควรทำ.
+
+<span class="LineNumber"> 012 </span>                                       <H1>กรรม   ๖   ประเภท</H1>
+<span class="LineNumber"> 013 </span>           [๑๘๐]  ดูก่อนภิกษุทั้งหลาย  กรรมนี้มี  ๖ ประเภทคือ   กรรมไม่เป็น
+<span class="LineNumber"> 014 </span>ธรรม ๑  กรรมเป็นวรรค ๑  กรรมพร้อมเพรียง  ๑  กรรมเป็นวรรคโดยเทียม
+<span class="LineNumber"> 015 </span>ธรรม  ๑  กรรมพร้อมเพรียงโดยเทียมธรรม  ๑  กรรมพร้อมเพรียงโดยธรรม ๑.
+
+<span class="LineNumber"> 016 </span>                               <H1>อธิบายกรรมไม่เป็นธรรม</H1>
+<span class="LineNumber"> 017 </span>           [๑๘๑]  ดูก่อนภิกษุทั้งหลาย  ถูกรรมไม่เป็นธรรม  เป็นไฉน ?
+<span class="LineNumber"> 018 </span>           ดูก่อนภิกษุทั้งหลาย  ในญัตติทุติยกรรม  ภิกษุทำกรรมด้วยตั้งญัตติอย่าง
+<span class="LineNumber"> 019 </span>เดียว   และไม่สวดกรรมวาจา  ชื่อว่ากรรมไม่เป็นธรรม.
+<span class="LineNumber"> 020 </span>           ในญัตติทุติยกรรม   ถ้าภิกษุทำกรรมด้วยญัตติ  ๒  ครั้ง    และไม่สวด
+<span class="LineNumber"> 021 </span>กรรมวาจา   ชื่อว่ากรรมไม่เป็นธรรม.

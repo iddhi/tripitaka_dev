@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ 22   หน้า  1
+
+<span class="LineNumber"> 002 </span>		ปรมตฺถโชติกา นาม ขุทฺทกนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>				สุตฺตนิปาตวณฺณนา  
+
+<span class="LineNumber"> 004 </span>				รตนสุตฺตวณฺณนา  
+<span class="LineNumber"> 005 </span>	ยานีธ  ภูตานีติ  รตนสุตฺตํ ฯ  กา  อุปฺปตฺติ  ฯ  อตีเต  
+<span class="LineNumber"> 006 </span>กิร  เวสาลิยํ  ทุพฺภิกฺขาทโย  อุปทฺทวา  อุปฺปชฺชึสุฯ  เตสํ  
+<span class="LineNumber"> 007 </span>วูปสมนตฺถาย  ลิจฺฉวิโน  (๑)  ราชคหํ คนฺตฺวา  ยาจิตฺวา  ภควนฺตํ  
+<span class="LineNumber"> 008 </span>เวสาลึ  อานยึสุ ฯ  เอวํ อานีโต ภควา เตสํ อุปทฺทวานํ 
+<span class="LineNumber"> 009 </span>วูปสมนตฺถาย  อิมํ  (๒)  สุตฺตมภาสิ ฯ  อยํ  ตตฺถ  (๓)  สงฺเขโปฯ 
+<span class="LineNumber"> 010 </span>	โปราณา  ปนสฺส  เวสาลิวตฺถุโต  ปภุติ  อุปฺปตฺตึ  
+<span class="LineNumber"> 011 </span>วณฺณยนฺติ ฯ  สา  เอวํ  เวทิตพฺพา ฯ 	
+<span class="LineNumber"> 012 </span>	พาราณสิยํ  กิร  รฺโ  (๔)  อคฺคมเหสิยา  กุจฺฉิมฺหิ  คพฺโภ 
+<span class="LineNumber"> 013 </span>สณฺ€าสิฯ  สา  ตํ  ตฺวา  รฺโ นิเวเทสิฯ  ราชา  
+<span class="LineNumber"> 014 </span>คพฺภปริหารํ  อทาสิ ฯ  สา  สมฺมา  ปริหริยมานคพฺภา  
+<span class="LineNumber"> 015 </span>คพฺภปริปากกาเล วิชายนฆรํ ปาวิสิ ฯ ปุฺวนฺตีนํ (๕) ปจฺจูสสมเย 
+<span class="LineNumber"> 016 </span>คพฺภวุฏฺ€านํ โหติฯ สา  จ  ตาสํ  อฺตราฯ  เตน  ปจฺจูสสมเย
+<span class="LineNumber"> 017 </span>อลตฺตกปฏลพนฺธุชีวกปุปฺผสทิสํ  มํสเปสึ  วิชายิ ฯ  ตโต  อฺา 
+<span class="LineNumber"> 018 </span>เทวิโย  สุวณฺณพิมฺพสทิเส  ปุตฺเต  วิชายนฺติฯ อคฺคมเหสี  มํสเปสินฺติ
+<span class="LineNumber"> 019 </span># ๑. ม. ลิจฺฉวโย ยุ. ลิจฺฉวิโย ฯ  ๒. ม. ยุ. อิทํ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. อยเมตฺถ ฯ  ๔. ม. พาราณสิรฺโ กิร ฯ  ๕. ม.ปุฺวตีนํ ฯ

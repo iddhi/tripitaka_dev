@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>๒.  มารธรรมสูตร</H1>   
+ 
+<span class="LineNumber"> 002 </span>   <H1>ว่าด้วยการละความพอใจในมารธรรม</H1> 
+
+<span class="LineNumber"> 003 </span>           [๓๙๐]   ดูก่อนราธะ  สิ่งใดแลเป็น<B>มารธรรม</B>  เธอพึงละความพอใจ
+<span class="LineNumber"> 004 </span>ความกำหนัด ความกำหนัดด้วยสามารถความพอใจในสิ่งนั้นเสีย. 
+<span class="LineNumber"> 005 </span>                                             <I>จบ มารธรรมสูตร</I>
+
+<span class="LineNumber"> 006 </span>                                       <H1>๓.  อนิจจสูตร</H1> 
+
+<span class="LineNumber"> 007 </span>           [๓๙๑]    ดูก่อนราธะ  สิ่งใดแลเป็นอนิจจัง  ฯลฯ. 
+<span class="LineNumber"> 008 </span>                                                 <I>จบ  อนิจจสูตร</I>
+
+<span class="LineNumber"> 009 </span>                                 <H1>๔.  อนิจจธรรมสูตร</H1> 
+
+<span class="LineNumber"> 010 </span>           [๓๙๒]   ดูก่อนราธะ  สิ่งใดแลเป็นอนิจจธรรม  ฯลฯ. 
+<span class="LineNumber"> 011 </span>                                             <I>จบ  อนิจจธรรมสูตร</I>
+
+<span class="LineNumber"> 012 </span>                                          <H1>๕.  ทุกขสูตร</H1> 
+
+<span class="LineNumber"> 013 </span>           [๓๙๓]   ดูก่อนราธะ  สิ่งใดแลเป็นทุกข์ ฯลฯ. 
+<span class="LineNumber"> 014 </span>                                                    <I>จบ  ทุกขสูตร</I>
+
+<span class="LineNumber"> 015 </span>                                   <H1>๖.  ทุกขธรรมสูตร</H1>             
+
+<span class="LineNumber"> 016 </span>           [๓๙๔]    ดูก่อนราธะ  สิ่งใดแลเป็นทุกขธรรม  ฯลฯ. 
+<span class="LineNumber"> 017 </span>                                               <I>จบ  ทุกขธรรมสูตร</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 249
+
+<span class="LineNumber"> 002 </span>	ตํ  สุตฺวา  ธนฺชยราชา  อหํ  อชฺช  มหนฺตํ  ปริคฺคหํ  
+<span class="LineNumber"> 003 </span>โสฬสสหสฺสาหิ  นาฏกิตฺถีหิ  ปริปุณฺณํ (๑) อนฺเตปุรํ  ปริจฺจชิตฺวา  
+<span class="LineNumber"> 004 </span>อุยฺยาเน  สมณธมฺมํ กโรมิ ตสฺมา มม สีลํ มหนฺตนฺติ วตฺวา 
+<span class="LineNumber"> 005 </span>อิมํ คาถมาห  
+<span class="LineNumber"> 006 </span>		ปริคฺคหํ โลภธมฺมฺจ สพฺพํ  
+<span class="LineNumber"> 007 </span>		เย(๒) เว ปริฺาย ปริจฺจชนฺติ(๓)  
+<span class="LineNumber"> 008 </span>		ทนฺตํ €ิตตฺตํ อมมํ นิราสํ  
+<span class="LineNumber"> 009 </span>		ตํ เว นรํ สมณมาหุ โลเกติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ปริคฺคหนฺติ  นานปฺปการํ  วตฺถุกามํ ฯ  โลภธมฺมนฺติ 
+<span class="LineNumber"> 011 </span>ตสฺมึ  อุปฺปชฺชนตณฺหํ ฯ  ปริฺายาติ  าตปริฺา  ตีรณปริฺา  
+<span class="LineNumber"> 012 </span>ปหานปริฺาติ  อิมาหิ  ตีหิ  ปริฺาหิ  ปริชานิตฺวา  ตตฺถ 
+<span class="LineNumber"> 013 </span>ขนฺธาทีนํ  สภาวชานนํ(๔)  าตปริฺา  นาม  ขนฺเธสุ[๕] 
+<span class="LineNumber"> 014 </span>อคุณํ  อุปธาเรตฺวา  ตีรณํ  ติรณปริฺา  นาม  เตสุ  โทสํ  
+<span class="LineNumber"> 015 </span>ทิสฺวา  ฉนฺทราคสฺสาปกฑฺฒนํ  ปหานปริฺา  นาม  เย(๒)  อิมาหิ
+<span class="LineNumber"> 016 </span>ตีหิ  ปริฺาหิ  ปริชานิตฺวา  วตฺถุกามกิเลสกาเม  ปริจฺจชนฺติ(๖)  
+<span class="LineNumber"> 017 </span>ฉฑฺเฑตฺวา คจฺฉนฺติ (๗)ฯ ทนฺตนฺติ นิพฺพิเสวนํ  €ิตตฺตนฺติ 
+<span class="LineNumber"> 018 </span>มิจฺฉาวิตกฺกาภาเวน  €ิตสภาวํ ฯ  อมมนฺติ  มมายนตณฺหาย  
+<span class="LineNumber"> 019 </span># ๑. ม. โสฬสสหสฺสนาฏกิตฺถีปริปุณฺณํ ฯ 
+<span class="LineNumber"> 020 </span># ๒. ม. โย ฯ  ๓. ม. ปริจฺจเชติ ฯ  ๔. ม. ทุกฺขาทิสภาวชานนํ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. เอตฺถนฺตเร เตสูติ ทิสฺสติ ฯ  ๖. ม. ปริจฺจชติ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. คจฺฉติ ฯ

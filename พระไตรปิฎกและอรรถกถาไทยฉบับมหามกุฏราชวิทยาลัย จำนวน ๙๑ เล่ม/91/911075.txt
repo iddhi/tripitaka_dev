@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๒๙๗]  ในเหตุปัจจัย  มี  ๒  วาระ  ฯลฯ  
+
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>อัพยากตบท</H2>
+<span class="LineNumber"> 007 </span>           [๒๙๘] ๑.  <B>อัพยากตธรรม   ที่ไม่ใช่ทัสสเนนปหาตัพพธรรม
+<span class="LineNumber"> 008 </span>อาศัยธรรมที่ไม่ใช่อัพยากตธรรม     ที่ไม่ใช่ทัสสเนนปหาตัพพธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                       ๒.  <B>อัพยากตธรรม  ที่ไม่ใช่ทัสสเนนปหาตัพพธรรม
+<span class="LineNumber"> 011 </span>อาศัยธรรมที่ไม่ใช่อัพยากตธรรม  ที่ไม่ใช่ธรรมที่ไม่ใช่ทัสสเนน-
+<span class="LineNumber"> 012 </span>ปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>           [๒๙๙]  ในเหตุปัจจัย  มี ๒  วาระ  ฯลฯ
+<span class="LineNumber"> 015 </span> <I>นทัสสเนนปหาตัพพทุกนกุสลติกทัสสเนนปหาตัพพทุกกุสลติกะ  จบ</I>	

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                      นิบาต
+<span class="LineNumber"> 002 </span>                                  หมวดนิบาต  
+<span class="LineNumber"> 003 </span>	<B>๑๐.  นิบาตต่าง ๆ ท่านจัดหมวดแสดงในแบบวากยสัมพันธ์
+<span class="LineNumber"> 004 </span>ตอนต้นแล้ว,  ในที่นี้จะย่อนิบาตในแบบกล่าวตามหมวด, และจะ
+<span class="LineNumber"> 005 </span>แทรกนิบาตที่แสดงไว้  หรือที่ใช้ในที่ต่าง ๆต่อ,  โดยมากคัดจาก
+<span class="LineNumber"> 006 </span>อภิธานนัปปทีปิกา  ฉบับภาษาบาลีแปลเป็นไทย  ของสมเด็จพระสังฆ-
+<span class="LineNumber"> 007 </span>ราชเจ้า  กรมหลวงชินวรสิริวัฒน์.  ได้บอกข้อไว้ในวงเล็บด้วย  และ
+<span class="LineNumber"> 008 </span>เก็บจากที่อื่นบ้าง,  ได้บอกที่มาไว้ด้วย.</B>
+<span class="LineNumber"> 009 </span>                                 นิบาตหมวดที่ ๑
+<span class="LineNumber"> 010 </span>		กำหนดด้วยความ ๒ ท่อน  ลงในท่อนหลัง
+<span class="LineNumber"> 011 </span>	(๑)  <B>วิตฺถารโชตโก,  วิตฺถาโร</B> ส่องความพิสดาร.
+<span class="LineNumber"> 012 </span>	หิ =  ความพิสดารว่า, ก็
+<span class="LineNumber"> 013 </span>	(๒)  <B>วากฺยารมฺภโขตโก,  วากฺยารมฺโภ </B> ส่องความที่เท้าพากย์
+<span class="LineNumber"> 014 </span>ก่อน.
+<span class="LineNumber"> 015 </span>	หิ, จ, ปน  = ก็, แล, ก็แล.
+<span class="LineNumber"> 016 </span>                                 วากยารัมภะในที่มาต่าง ๆ
+<span class="LineNumber"> 017 </span>	อโถ.  อถ = ก็  (๑๑๙๐);  หนฺท  (๑๑๙๓).
+<span class="LineNumber"> 018 </span>	ขลุ  (วากฺยาลงฺการ อลังการ คือ  วากยะ)  แปลว่า ก็ (๑๑๙๕).
+<span class="LineNumber"> 019 </span>	(๓)  <B>การณโชตโก</B>,  เหตุ  ส่องความที่เป็นเหตุ.

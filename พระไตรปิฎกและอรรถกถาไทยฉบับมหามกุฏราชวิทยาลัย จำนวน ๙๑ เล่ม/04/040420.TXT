@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>ติกทุกกฏ</H2> 
+<span class="LineNumber"> 002 </span>           ภิกษุเย็บเองก็ดี   ให้เย็บก็ดี   ซึ่งจีวร   เพื่อภิกษุณีผู้อุปสมบทในสงฆ์
+<span class="LineNumber"> 003 </span>ฝ่ายเดียว   ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 004 </span>          ภิกษุณีผู้เป็นญาติ  ภิกษุสำคัญว่ามิใช่ญาติ...ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 005 </span>          ภิกษุณีผู้เป็นญาติ  ภิกษุสงสัย...ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 006 </span>                                  <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 007 </span>           ภิกษุณีผู้เป็นญาติ  ภิกษุสำคัญว่าเป็นญาติ.. .ไม่ต้องอาบัติ.
+<span class="LineNumber"> 008 </span>                                 <h2> อนาปัตติวาร</h2>
+<span class="LineNumber"> 009 </span>           [๔๕๐]  ภิกษุเย็บเพื่อภิกษุณีผู้เป็นญาติ   ๑  ภิกษุเย็บเองก็ดี  ให้เย็
+<span class="LineNumber"> 010 </span>ก็ดี   ซึ่งบริขารอื่นเว้นจีวร ๑ ภิกษุเย็บเพื่อสิกขมานา  ๑  ภิกษุเย็บเพื่อสามเณรี ๑
+<span class="LineNumber"> 011 </span>ภิกษุวิกลจริต  ๑  ภิกษุอาทิกัมมิกะ ๑ ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 012 </span>                    <I>โอวาทวรรค  สิกขาบทที่  ๖  จบ</I>
+
+<span class="LineNumber"> 013 </span>                 <h1> ภิกขุนีวรรค  จีวรสิพพนสิกขาบทที่  ๖</h1>
+<span class="LineNumber"> 014 </span>วินิจฉัย  ในสิกขาบทที่ ๖ พึงทราบดังนี้
+<span class="LineNumber"> 015 </span>   <h2>[แก้อรรถ  เรื่องเย็บจีวรให้ภิกษุณีผู้มิใช่ญาติ]</h2>
+<span class="LineNumber"> 016 </span>            คำว่า   <B>อุทายี</B>    ได้แก่   พระโลลุทายี.
+<span class="LineNumber"> 017 </span>            บทว่า   <B>ปฏฺโฐ</B>   แปลว่า   ผู้มีความสามารถ.     มีคำอธิบายว่า   เป็นผู้
+<span class="LineNumber"> 018 </span>เข้าใจและสามารถ.                                                                                   
+<span class="LineNumber"> 019 </span>           สองบทว่า    <B>อญฺตรา    ภิกฺขุนี</B>     ได้แก่   ภิกษุณีผู้เป็นภรรยาเก่า
+<span class="LineNumber"> 020 </span>พระอุทายีนั้นนั่นเอง.

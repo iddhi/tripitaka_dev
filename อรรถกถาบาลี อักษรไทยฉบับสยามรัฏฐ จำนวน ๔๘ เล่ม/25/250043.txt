@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค  สุภูติตฺเถรคาถาวณฺณนา  หน้า 43
+	
+<span class="LineNumber"> 002 </span>	กปฺปสตสหสฺสมฺหิ		โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 003 </span>	โคตโม นาม โคตฺเตน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 004 </span>	อสีติโกฏึ ฉฑฺเฑตฺวา	ทาเส กมฺมกเร พหู  
+<span class="LineNumber"> 005 </span>	โคตมสฺส ภควโต		สาสเน ปพฺพชิสฺสสิ ฯ  
+<span class="LineNumber"> 006 </span>	อาราธยิตฺวา สมฺพุทฺธํ	โคตมํ สกฺยปุงฺควํ  
+<span class="LineNumber"> 007 </span>	สุภูติ นาม นาเมน		เหสฺสสิ สตฺถุ สาวโก ฯ  
+<span class="LineNumber"> 008 </span>	ภิกฺขุสงฺเฆ นิสีทิตฺวา	ทกฺขิเณยฺยคุณมฺหิ(๑) ตํ  
+<span class="LineNumber"> 009 </span>	ตถารณวิหาเร จ		ทฺวีสุ อคฺเค €เปสฺสสิ ฯ  
+<span class="LineNumber"> 010 </span>	อิทํ วตฺวาน สมฺพุทฺโธ	ชลชุตฺตมนามโก  
+<span class="LineNumber"> 011 </span>	นภํ (๒) อพฺภุคฺคมี วีโร	หํสราชาว อมฺพเร ฯ  
+<span class="LineNumber"> 012 </span>	สาสิโต โลกนาเถน	นมสฺสิตฺวา ตถาคตํ  
+<span class="LineNumber"> 013 </span>	สทา ภาเวมิ มุทิโต	พุทฺธานุสฺสติมุตฺตมํ ฯ  
+<span class="LineNumber"> 014 </span>	เตน กมฺเมน สุกเตน	เจตนาปณิธีหิ จ  
+<span class="LineNumber"> 015 </span>	ชหิตฺวา มานุสํ เทหํ	ตาวตึสํ อคจฺฉหํ ฯ  
+<span class="LineNumber"> 016 </span>	อสีติกฺขตฺตุํ เทวินฺโท	เทวรชฺชมการยึ  
+<span class="LineNumber"> 017 </span>	สหสฺสกฺขตฺตุํ ราชา จ	จกฺกวตฺตี อโหสหํ ฯ 
+<span class="LineNumber"> 018 </span>	ปเทสรชฺชํ วิปุลํ		คณนาโต อสงฺขิยํ  
+<span class="LineNumber"> 019 </span>	อนุโภมิ สุสมฺปตฺตึ		พุทฺธานุสฺสติยา ผลํ ฯ  
+<span class="LineNumber"> 020 </span>	ภวาภเว สํสรนฺโต		มหาโภคํ ลภามหํ  
+<span class="LineNumber"> 021 </span>	โภเค เม อูนตา(๓) นตฺถิ	พุทฺธานุสฺสติยา ผลํ ฯ  
+<span class="LineNumber"> 022 </span># ๑. สฺยา. ทกฺขิเณยฺยคณมฺหิ ฯ  ๒. สี. นเภ ฯ 
+<span class="LineNumber"> 023 </span># ๓. สฺยา. ม. โอนตา ฯ 

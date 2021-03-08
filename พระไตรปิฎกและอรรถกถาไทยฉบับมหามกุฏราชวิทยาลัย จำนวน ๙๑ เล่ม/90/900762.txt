@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                     		     <H2>ปัจจนียนัย</H2>   
+<span class="LineNumber"> 002 </span>                     <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 003 </span>		[๑๕๐]  ในนอธิปติปัจจัย มี ๑๐ วาระ  ในนปุเรชาตปัจจัย มี  ๑๐ วาระ
+<span class="LineNumber"> 004 </span>ในนปัจฉาชาตปัจจัย มี ๑๐ วาระ  ในนอาเสวนปัจจัย มี  ๑๐ วาระ  ในนวิปาก-
+<span class="LineNumber"> 005 </span>ปัจจัย มี ๑๐ วาระ ฯลฯ  ในนวิปปยุตตปัจจัย  มี  ๑๐ วาระ.
+<span class="LineNumber"> 006 </span>		สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  พึงให้พิสดาร.
+    
+<span class="LineNumber"> 007 </span>                     	    <H1>เหตุบทปัญหาวาระ</H1>   
+<span class="LineNumber"> 008 </span>                        	   <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 009 </span>                         	  <H2>เหตุปัจจัย</H2> 
+<span class="LineNumber"> 010 </span>		[๑๕๑]  ๑.  เหตุธรรมที่เป็นปีติสหคตธรรม  เป็นปัจจัยแก่เหตุ-
+<span class="LineNumber"> 011 </span>ธรรมที่เป็นปีติสหคตธรรม  ด้วยอำนาจของเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>                        ๔.  เหตุธรรมที่เป็นสุขสหคตธรรม  เป็นปัจจัยแก่เหตุ-
+<span class="LineNumber"> 013 </span>ธรรมที่เป็นสุขสหคตธรรม  ด้วยอำนาจของเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>                        ๗.  เหตุธรรมที่เป็นอุเบกขาสหคตธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 015 </span>เหตุธรรมที่เป็นอุเบกขาสหคตธรรม     ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 016 </span>มี  ๑ วาระ.
+<span class="LineNumber"> 017 </span>                        ๘.  เหตุธรรมที่เป็นปีติสหคตธรรม     และเหตุธรรม
+<span class="LineNumber"> 018 </span>ที่เป็นสุขสหคตธรรม    เป็นปัจจัยแก่เหตุธรรมที่เป็นปีติสหคตธรรม
+<span class="LineNumber"> 019 </span>ด้วยอำนาจของเหตุปัจจัย   มี ๓ วาระ.

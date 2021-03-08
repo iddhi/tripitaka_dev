@@ -1,0 +1,28 @@
+﻿<span class="LineNumber"> 001 </span><B>เหตุสมฺปยุตฺตา  เจว  ธมฺมา</B>       ธรรมสัมปยุตด้วยเหตุแต่ไม่เป็นเหตุ
+<span class="LineNumber"> 002 </span><B>น  จ  เหตู</B> 
+			     
+<span class="LineNumber"> 003 </span>                       <H2>๖.  นเหตุสเหตุกทุกะ</H2>
+
+<span class="LineNumber"> 004 </span><B>น  เหตู โข  ปน  ธมฺมา</B>              ธรรมไม่เป็นเหตุแต่มีเหตุ
+<span class="LineNumber"> 005 </span><B>สเหตุกาปิ</B>
+<span class="LineNumber"> 006 </span><B>น  เหตู  โข ปน  ธมฺมา</B>              ธรรมไม่เป็นเหตุและไม่มีเหตุ
+<span class="LineNumber"> 007 </span><B>อเหตุกาปิ</B>
+
+<span class="LineNumber"> 008 </span>                           <H1>จูฬันตรทุกะ</H1>
+
+<span class="LineNumber"> 009 </span>           <H1>หมวดที่  ๒  มี  ๗  ทุกะ</H1>  <B>คือ</B>
+
+<span class="LineNumber"> 010 </span>    [๓]	             <H2>๗-๑.  สัปปัจจยทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>สปฺปจฺจยา  ธมฺมา</B>                     ธรรมมีปัจจัย
+<span class="LineNumber"> 012 </span><B>อปฺปจฺจยา  ธมฺมา</B>                     ธรรมไม่มีปัจจัย
+
+<span class="LineNumber"> 013 </span>                              <H2>๘-๒.  สังขตทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>สงฺขตา  ธมฺมา</B>                          ธรรมเป็นสังขตะ
+<span class="LineNumber"> 015 </span><B>อสงฺขตา  ธมฺมา</B>                        ธรรมเป็นอสังขตะ
+
+<span class="LineNumber"> 016 </span>                           <H2>๙-๓.  สนิทัสสนทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>สนิทสฺสนา  ธมฺมา</B>                     ธรรมที่เห็นได้
+<span class="LineNumber"> 018 </span><B>อนิทสฺสนา  ธมฺมา</B>                     ธรรมที่เห็นไม่ได้

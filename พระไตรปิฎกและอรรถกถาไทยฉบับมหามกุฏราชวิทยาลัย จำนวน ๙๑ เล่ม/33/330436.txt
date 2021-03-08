@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>สุขวรรคที่ ๒<SUP>๑</SUP></H2>
+
+<span class="LineNumber"> 002 </span>                          <H1>อรรถกถาสูตรที่ ๑</H1>
+
+<span class="LineNumber"> 003 </span>         <B>สุขวรรคที่   ๒</B>  สูตรที่   ๑  (ข้อ  ๓๐๙)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 004 </span>         บทว่า    <B>คิหิสุขํ</B>     ได้แก่    ความสุขทุกอย่างของคฤหัสถ์ทั้งหลาย
+<span class="LineNumber"> 005 </span>ที่มีความสำเร็จกามเป็นมูล.  บทว่า   <B>ปพฺพชฺชาสุขํ</B>    ได้แก่  ความสุขที่มี
+<span class="LineNumber"> 006 </span>การบรรพชาเป็นมูล.
+<span class="LineNumber"> 007 </span>                                                 จบอรรถกถาสูตรที่ ๑  
+
+<span class="LineNumber"> 008 </span>                     <H3>อรรถกถาสูตรที่  ๒</H3>
+
+<span class="LineNumber"> 009 </span>         ใน<B>สูตรที่  ๒</B>  (ข้อ ๓๑๐)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 010 </span>         บทว่า     <B>กามสุขํ</B>    ได้แก่     ความสุขที่เกิดขึ้นเพราะปรารภกาม.
+<span class="LineNumber"> 011 </span>บทว่า  <B>เนกฺขมฺมสุขํ</B>   ความว่า  บรรพชา  ท่านเรียกว่าเนกขัม    สุขที่เกิด
+<span class="LineNumber"> 012 </span>ขึ้นเพราะปรารภเนกขัมนั้น.
+<span class="LineNumber"> 013 </span>                                               จบอรรถกถาสูตรที่ ๒
+
+<span class="LineNumber"> 014 </span>                     <H3>อรรถกถาสูตรที่ ๓</H3>
+
+<span class="LineNumber"> 015 </span>         ใน<B>สูตรที่  ๓</B>  ( ข้อ ๓๑๑)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 016 </span>         บทว่า  <B>อุปธิสุขํ</B>  ได้แก่  สุขที่เป็นไปในภูมิ  ๓.  บทว่า <B>นิรูปธิสุขํ</B> 
+<span class="LineNumber"> 017 </span>ได้แก่   สุขที่เป็นโลกุตระ.
+<span class="LineNumber"> 018 </span>                                               จบอรรถกถาสูตรที่  ๓
+
+<span class='footnote'>๑. สุขวรรคที่  ๒  มีพระสูตร ๑๓ สูตร เป็นพระสูตรสั้น ๆ ทั้งอรรถกถาแก้ไว้สั้น ๆ  จึงลงติด</span>
+<span class='footnote'>ต่อกันไว้ทั้งวรรค  โดยลงเลขข้อแต่ละสูตรกำกับไว้ด้วยเพื่อความไม่สับสน.</span>

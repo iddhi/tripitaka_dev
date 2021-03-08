@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่ามโน,  ไม่ชื่อว่าอายตนะ   ใช่ไหม  ? 
+<span class="LineNumber"> 002 </span>         ยกเว้นมโนเสียแล้ว  อายตนะที่เหลือนอกนั้นไม่ชื่อว่ามโน   แต่
+<span class="LineNumber"> 003 </span>ชื่อว่าอายตนะ,    ยกเว้นมโนและอายตนะเสียแล้ว   ธรรมที่เหลือนอกนั้น
+<span class="LineNumber"> 004 </span>ไม่ชื่อว่ามโน   และไม่ชื่อว่าอายตนะ
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่าอายตนะ,   ไม่ชื่อว่ามนายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่าธัมมะ,  ไม่ชื่อว่าอายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ธรรมที่ไม่ชื่อว่าอายตนะ,  ไม่ชื่อว่าธัมมายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>                              <I>สุทธายตนวาระ ปัจจนิก  จบ</I>

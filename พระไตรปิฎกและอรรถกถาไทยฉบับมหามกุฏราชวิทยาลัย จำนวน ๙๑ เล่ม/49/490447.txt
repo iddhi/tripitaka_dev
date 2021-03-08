@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			 	    <H1>มหาวรรคที่  ๔</H1>    
+
+<span class="LineNumber"> 002 </span>                           	   <H1>๑. อัมพสักขรเปตวัตถุ</H1>
+		  
+<span class="LineNumber"> 003 </span>                                <H2>ว่าด้วยเปรตถูกเสียบอยู่ปลายหลาว</H2>
+
+<span class="LineNumber"> 004 </span>             		<B>[๑๒๑]   มีนครของชาววัชชีนครหนึ่งนามว่าเวสาลี
+<span class="LineNumber"> 005 </span>   		ในนครเวสาลีนั้น  มีกษัตริย์ลิจฉวีทรงพระนามว่า
+<span class="LineNumber"> 006 </span>   		อัมพสักขระ   ได้ทอดพระเนตรเห็นเปรตตนหนึ่ง
+<span class="LineNumber"> 007 </span>   		ที่ภายนอกพระนคร   มีพระประสงค์จะทรงทราบ 
+<span class="LineNumber"> 008 </span>    		เหตุ   จึงตรัสถามเปรตนั้นในที่นั้นนั่นเองว่า   การ
+<span class="LineNumber"> 009 </span>    		นอน  การนั่ง  การเดินไปดินมา  การลิ้ม  การดื่ม
+<span class="LineNumber"> 010 </span>        		การเคี้ยว    การนุ่งห่ม    แม้หญิงบำเรอของบุคคล
+<span class="LineNumber"> 011 </span>        		ผู้ถูกเสียบไว้บนหลาวนี้    ย่อมไม่มี    ชนเหล่าใด 
+<span class="LineNumber"> 012 </span>      		ผู้เป็นญาติ   เป็นมิตรสหาย   เคยเป็น   เคยฟังร่วม
+<span class="LineNumber"> 013 </span>    		กันมา   เคยมีความเอ็นดูกรุณา  ของบุคคลใด  มีอยู่
+<span class="LineNumber"> 014 </span>    		ในกาลก่อน    เดี๋ยวนี้ชนเหล่านั้นแม้จะเยี่ยมเยียน
+<span class="LineNumber"> 015 </span>  		บุคคลนั้นก็ไม่ได้   บุรุษนี้มีตนอันญาติเป็นต้นสละ
+<span class="LineNumber"> 016 </span>    		แล้ว  มิตรสหายย่อมไม่มีแก่บุคคลผู้ตกยาก   พวก 
+<span class="LineNumber"> 017 </span>   		มิตรสหายทราบว่าผู้ใดขาดแคลน  ย่อมละทิ้งผู้นั้น
+<span class="LineNumber"> 018 </span>   		และเห็นใครมั่งคั่งบริบูรณ์     ก็พากันไปห้อมล้อม
+<span class="LineNumber"> 019 </span>  		คนที่มั่งคั่งด้วยสมบัติย่อมมีมิตรสหายมา   ส่วน</B>

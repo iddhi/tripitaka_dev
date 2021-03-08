@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>นั้น ไม่มีหรือ ? 
+<span class="LineNumber"> 002 </span>                         ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 003 </span>         [๑๖๖๗]  ป. ไม่พึงกล่าวว่า  รูปเป็นธรรมมีเหตุหรือ ?
+<span class="LineNumber"> 004 </span>                         ส.  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                         ป.  รูปเป็นธรรมมีปัจจัย มิใช่หรือ ?
+<span class="LineNumber"> 006 </span>                         ส.  ถูกแล้ว.
+<span class="LineNumber"> 007 </span>                         ป. หากว่า   รูปเป็นธรรมมีปัจจัย  ด้วยเหตุนั้นนะท่านจึง
+<span class="LineNumber"> 008 </span>ต้องกล่าวว่า  รูปเป็นธรรมมีเหตุ.
+<span class="LineNumber"> 009 </span>                              <I>รูปังสเหตุกันติกถา จบ</I>
+
+<span class="LineNumber"> 010 </span>                  <H2>อรรถกถารูปังสเหตุกันติกถา</H2>
+
+<span class="LineNumber"> 011 </span>         ในการพรรณนากถาว่า <B>รูปเป็นธรรมมีเหตุ</B>   บัณฑิตพึงทราบเนื้อ
+<span class="LineNumber"> 012 </span>ความโดยนัยนี้นั่นแหละ ดังนี้แล.
+<span class="LineNumber"> 013 </span>                        <I>อรรถกถารูปังสเหตุกันติกถา จบ</I>

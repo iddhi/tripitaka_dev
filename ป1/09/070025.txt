@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                    ๖.  พหุพพิหิ 
+<span class="LineNumber"> 002 </span>	สมาสนี้ มีบทอื่นเป็นประธาน  ไม่มีประธานในบทปลง ต้องหา
+<span class="LineNumber"> 003 </span>บทอื่นมาเป็นประธาน  รูปสำเร็จในบทปลงเป็นเพียงคุณนาม ฉะนั้น
+<span class="LineNumber"> 004 </span>พหุพพิหิสมาสนี้  จึงเป็นสมาสคุณ  ท่านแจกสมาสนี้เป็น ๖ อย่าง ตาม
+<span class="LineNumber"> 005 </span>วิภัตติของ ย  ศัพท์  ที่นำมาใช้ในรูปวิเคราะห์  ตั้งแต่  ทุติยาวิภัตติ
+<span class="LineNumber"> 006 </span>จนถึง สัตตมีวิภัตติ  คือ :- 
+<span class="LineNumber"> 007 </span>	๑.  ทุติยา  พหุพพิหิ
+<span class="LineNumber"> 008 </span>	๒.  ตติยา  พหุพพิหิ
+<span class="LineNumber"> 009 </span>	๓.   จตุตถี  พหุพพิหิ
+<span class="LineNumber"> 010 </span>	๔.  ปัญจมี   พหุพพิหิ
+<span class="LineNumber"> 011 </span>	๕.  ฉัฏฐี  พหุพพิหิ
+<span class="LineNumber"> 012 </span>	๖.  สัตตมี  พหุพพิหิ
+<span class="LineNumber"> 013 </span>	ในวิเคราะห์แห่งสมาสเหล่านี้  บทประธานและบทวิเสสนะ  มี
+<span class="LineNumber"> 014 </span>วิภัตติวจนะและลิงค์เสมอกัน แปลกแต่บทสัพพนาม คือ ย ศัพท์ ที่
+<span class="LineNumber"> 015 </span>นำมาประกอบในรูปวิเคราะห์  ซึ่งต้องประกอบวิภัตติไปตามชื่อของ
+<span class="LineNumber"> 016 </span>สมาส  คือจะเป็นทุติยา  ก็ต้องประกอบ ย  ศัพท์เป็นทุติยาวิภัตติเป็นต้น
+<span class="LineNumber"> 017 </span>และประกอบลิงค์ของ ย ศัพท์นั้นตามบทประธาน  ซึ่งจะนำมาใช้ใน
+<span class="LineNumber"> 018 </span>บทปลงของวิเคราะห์ ซึ่งเรียกว่าอัญญบท  ส่วนปฐมาพหุพพิหิ  ไม่
+<span class="LineNumber"> 019 </span>ค่อยมีใช้  เพราะมีเนื้อความเหมือนกัมมาธารยะบางอย่าง ดังที่ท่าน
+<span class="LineNumber"> 020 </span>แสดงอุทาหรณ์ไว้ในสัททสารัตถชาลินีว่า  กากสูโร  คนกล้าเพียงดังกา
+<span class="LineNumber"> 021 </span>สีหสูโร  คนกล้าเพียงดังสีหะ  ทั้ง ๒ ศัพท์นี้  เป็นปฐมาพหุพพิหิ แต่
+

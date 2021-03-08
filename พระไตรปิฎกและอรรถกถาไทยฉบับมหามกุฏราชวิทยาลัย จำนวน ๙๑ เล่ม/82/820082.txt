@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>ปทโสธนวาระ    ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>         [๓๗]  ธรรมที่ไม่ชื่อว่ารูป  ไม่ชื่อว่ารูปขันธ์  ใช่ไหม  ? 
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ไม่ชื่อว่าขันธ์  ไม่ชื่อว่ารูป  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ปิยรูป   สาตรูป  ไม่ชื่อว่ารูปขันธ์   แต่ชื่อว่า    รูป    ยกเว้นรูป
+<span class="LineNumber"> 006 </span>และรูปขันธ์เสียแล้ว     สภาวธรรมที่เหลือนอกนั้น    ไม่ชื่อว่ารูป    และ
+<span class="LineNumber"> 007 </span>ไม่ชื่อว่ารูปขันธ์.
+<span class="LineNumber"> 008 </span>         [๓๘]   ธรรมที่ไม่ชื่อว่าเวทนา  ไม่ชื่อว่าเวทนาขันธ์ ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>         ธรรมที่ไม่ชื่อว่าเวทนาขันธ์  ไม่ชื่อว่าเวทนา  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         [๓๙]   ธรรมที่ไม่ชื่อว่าสัญญา  ไม่ชื่อว่าสัญญาขันธ์ ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ธรรมที่ไม่ชื่อว่าสัญญาขันธ์  ไม่ชื่อว่าสัญญา   ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ทิฏฐิสัญญา  ไม่ชื่อว่าสัญญาขันธ์  เป็นแต่สัญญา  ยกเว้นสัญญา
+<span class="LineNumber"> 016 </span>และสัญญาขันธ์เสียแล้ว    สภาวธรรมที่เหลือนอกนั้น    ไม่ชื่อว่าสัญญา
+<span class="LineNumber"> 017 </span>และไม่ชื่อว่าสัญญาขันธ์.

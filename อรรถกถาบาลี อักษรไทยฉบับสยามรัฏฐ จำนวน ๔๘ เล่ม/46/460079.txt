@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  46  นิทานกถา  หน้า  79
+
+<span class="LineNumber"> 002 </span>		น  เหเต  เอตฺตกาเยว	พุทฺธธมฺมา ภวิสฺสเร  
+<span class="LineNumber"> 003 </span>		อฺเปิ วิจินิสฺสามิ	เย ธมฺมา โพธิปาจนา ฯ  
+<span class="LineNumber"> 004 </span>		วิจินนฺโต  ตถา ทกฺขึ	ฉฏฺ€มํ ขนฺติปารมึ  
+<span class="LineNumber"> 005 </span>		ปุพฺพเกหิ มเหสีหิ		อาเสวิตํ นิเสวิตํ ฯ  
+<span class="LineNumber"> 006 </span>		อิมํ ตฺวํ ฉฏฺ€มํ ตาว		ทฬฺหํ กตฺวา สมาทิย  
+<span class="LineNumber"> 007 </span>		ตตฺถ อเทฺวชฺฌมานโส (๑)  สมฺโพธึ ปาปุณิสฺสสิ ฯ  
+<span class="LineNumber"> 008 </span>		ยถาปิ ป€วี นาม		สุจึปิ  อสุจึปิ  จ  
+<span class="LineNumber"> 009 </span>		สพฺพํ สหติ นิกฺเขปํ	น กโรติ ปฏิฆทฺทยํ (๒) ฯ  
+<span class="LineNumber"> 010 </span>		ตเถว ตฺวํปิ สพฺเพสํ	สมฺมานาวมานกฺขโม (๓)  
+<span class="LineNumber"> 011 </span>		ขนฺติปารมิตํ คนฺตฺวา	สมฺโพธึ ปาปุณิสฺสสิ ฯ  
+<span class="LineNumber"> 012 </span>		น  เหเต  เอตฺตกาเยว	พุทฺธธมฺมา ภวิสฺสเร  
+<span class="LineNumber"> 013 </span>		อฺเปิ  วิจินิสฺสามิ	เย ธมฺมา โพธิปาจนา ฯ  
+<span class="LineNumber"> 014 </span>		วิจินนฺโต  ตทา  ทกฺขึ	สตฺตมํ สจฺจปารมึ  
+<span class="LineNumber"> 015 </span>		ปุพฺพเกหิ  มเหสีหิ		อาเสวิตํ นิเสวิตํ ฯ  
+<span class="LineNumber"> 016 </span>		อิมํ  ตฺวํ  สตฺตมํ  ตาว	ทฬฺหํ กตฺวา สมาทิย  
+<span class="LineNumber"> 017 </span>		ตตฺถ อเทฺวชฺฌวจโน	สมฺโพธึ ปาปุณิสฺสสิ ฯ  
+<span class="LineNumber"> 018 </span>		ยถาปิ โอสธี นาม		ตุลาภูตา สเทวเก  
+<span class="LineNumber"> 019 </span>		สมเย  อุตุวสฺเส  วา	น โวกฺกมติ (๔) วีถิโต ฯ  
+<span class="LineNumber"> 020 </span>		ตเถว  ตฺวํปิ สจฺเจสุ		มา โวกฺกมสิ (๕) วีถิโต  
+<span class="LineNumber"> 021 </span># ๑. ม.  อเทฺวชฺฌมานโส ฯ  ๒.  สี. ปฏิฆํ  ทยํ ฯ ม. ปฏิฆํ  ตยา ฯ
+<span class="LineNumber"> 022 </span># ๓. กตฺถจิ.  สมฺมานวิมานกฺขโม  ฯ ๔. สี. น โอกฺกมติ  ฯ
+<span class="LineNumber"> 023 </span># ๕.  สี. มา โอกฺกมิ  หิ ฯ

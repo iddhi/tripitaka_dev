@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 22  สุตฺตนิปาเต  อฏฺ€กวคฺควณฺณนา  หน้า  520
+	
+<span class="LineNumber"> 002 </span>ปาติโมกฺขสํวรํ  วินา ฯ  อพฺพตาติ ธุตงฺควตํ  วินา ฯ  โนปิ  
+<span class="LineNumber"> 003 </span>เตนาปิ  เตสุ  เอกเมเกน  ทิฏฺ€ิอาทิมตฺตเกนาปิ  (๑)  โน  กเถมีติ
+<span class="LineNumber"> 004 </span>เอวมตฺโถ  เวทิตพฺโพ ฯ  เอเต  จ  นิสฺสชฺชอนุคฺคหายาติ  เอเต
+<span class="LineNumber"> 005 </span>จ  ปุริเม  ทิฏฺ€ิอาทิเภเท  กณฺหปกฺขิเย  ธมฺเม  สมุคฺฆาตกรเณน  
+<span class="LineNumber"> 006 </span>นิสฺสชฺช  ปจฺฉิเม อทิฏฺ€ิอาทิเภเท  สุกฺกปกฺขิเย  อตมฺมยตาปชฺชเนน(๒)
+<span class="LineNumber"> 007 </span>อนุคฺคหาย ฯ  สนฺโต  อนิสฺสาย ภวํ  น  ชปฺเปติ  อิมาย  
+<span class="LineNumber"> 008 </span>ปฏิปตฺติยา  กิเลสวูปสเมน  (๓)  สนฺโต  จกฺขฺวาทีสุ กฺจิ ธมฺมํ
+<span class="LineNumber"> 009 </span>อนิสฺสาย  เอกมฺปิ  ภวํ  อปิเหตุํ  อปตฺเถตุํ  สมตฺโถ  
+<span class="LineNumber"> 010 </span>สิยาฯ  อยมสฺเสว  (๔)  อชฺฌตฺตสนฺตีติ อธิปฺปาโย ฯ  
+<span class="LineNumber"> 011 </span>	เอวํ  วุตฺเต  วจนตฺถมสลฺลกฺเขนฺโต  มาคนฺทิโย  โน  เจ  
+<span class="LineNumber"> 012 </span>กิราติ  คาถมาห ฯ
+<span class="LineNumber"> 013 </span>	ตตฺถ  ทิฏฺ€าทีนิ  วุตฺตนยาเนว ฯ (เกวลํ)  กณฺหปกฺขิยานิเยว 
+<span class="LineNumber"> 014 </span>ปน  สนฺธาย  อุภยตฺราปิ  อาห ฯ  อาหสทฺทํ  ปน  โน  เจ
+<span class="LineNumber"> 015 </span>กิรสทฺเทน  โยเชตฺวา  โน  เจ  กิราห  โน  เจ  กิร  
+<span class="LineNumber"> 016 </span>กเถสีติ  เอวํ  อตฺโถ  ทฏฺ€พฺโพ ฯ  โมมุหนฺติ  อติมูฬฺหํฯ โมหนํ
+<span class="LineNumber"> 017 </span>วา ฯ ปจฺเจนฺตีติ ชานนฺติ ฯ  
+<span class="LineNumber"> 018 </span>	อถสฺส  ภควา  ตํ  ทิฏฺ€ึ  นิสฺสาย  ปุจฺฉํ  ปฏิกฺขิปนฺโต  
+<span class="LineNumber"> 019 </span>ทิฏฺ€ิฺจ นิสฺสายาติ  เอวมาห(๕) ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ยุ. ทิฏฺ€ิอาทิมตฺเตนาปิ ฯ  ๒. ม. ยุ. อตมฺมยตาปชฺชเนน ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ยุ. ราคาทิวูปสเมน ฯ  ๔. ม. ยุ. อยมสฺส ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. คาถมาห ฯ 

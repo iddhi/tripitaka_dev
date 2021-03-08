@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         <H1>นเหตุสเหตุกทุกนกุสลติกเหตุสเหตุกทุกกุสลติกะ</H1> 	 
+<span class="LineNumber"> 002 </span>           <H2>(๔.  เหตุสเหตุกทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                  <H2>ปัญหาวาระ</H2> 
+<span class="LineNumber"> 004 </span>                                   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                            <H2>๑. อารัมมณปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>                                       <H2>กุศลบท</H2>	
+<span class="LineNumber"> 007 </span>           [๑๘๓] ๑.  <B>ธรรมที่ไม่ใช่กุศล    ที่เป็นนเหตุธรรม และไม่ใช่
+<span class="LineNumber"> 008 </span>อเหตุกธรรม เป็นปัจจัยแก่กุศลธรรม ที่เป็นทั้งเหตุธรรม และสเหตุก
+<span class="LineNumber"> 009 </span>ธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 010 </span>                       ๒.  <B>ฯลฯ  เป็นปัจจัยแก่กุศลธรรม  ที่เป็นสเหตุกธรรม
+<span class="LineNumber"> 011 </span>แต่ไม่ใช่เหตุธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 012 </span>                       ๓.  <B>ฯลฯ  เป็นปัจจัยแก่กุศลธรรม   ที่เป็นทั้งเหตุธรรม
+<span class="LineNumber"> 013 </span>และสเหตุกธรรม   และกุศลธรรม  ที่เป็นสเหตุกธรรม แต่ไม่ใช่เหตุ
+<span class="LineNumber"> 014 </span>ธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>  มี  ๓  วาระ.
+<span class="LineNumber"> 015 </span>                       ๔.  <B>ธรรมที่ไม่ใช่กุศล    ที่ไม่ใช่อเหตุกธรรม   และ
+<span class="LineNumber"> 016 </span>ไม่ใช่นเหตุธรรม  เป็นปัจจัยแก่กุศลธรรม  ที่เป็นทั้งเหตุธรรม  และ
+<span class="LineNumber"> 017 </span>สเหตุกธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>   มี ๓ วาระ.

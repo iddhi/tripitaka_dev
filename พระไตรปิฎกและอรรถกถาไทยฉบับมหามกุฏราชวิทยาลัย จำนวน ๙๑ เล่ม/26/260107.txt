@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                     <B>ช้าง  ๑๐  ตระกูลเหล่านี้คือ        กาฬาวกะ  ๑ 
+<span class="LineNumber"> 002 </span>              คังเคยยะ  ๑  ปัณฑระ  ๑  ตัมพะ  ๑  ปิงคละ๑  คันธะ  ๑
+<span class="LineNumber"> 003 </span>              มังคละ  ๑  เหมะ<SUP>๑</SUP><SUP>๑</SUP>  ๑  อุโปสถะ  ๑  ฉัททันตะ  ๑.</B>
+<span class="LineNumber"> 004 </span>         บรรดาช้าง  ๑๐  ตระกูลเหล่านั้น   พึงเห็นว่า    ตระกูลช้างโดยปกติ
+<span class="LineNumber"> 005 </span>ชื่อว่า  กาฬาวกะ.
+<span class="LineNumber"> 006 </span>         กำลังกายของบุรุษ  ๑๐ คน  เป็นกำลังช้างตระกูลกาฬาวกะ ๑   เชือก
+<span class="LineNumber"> 007 </span>         กำลังของช้างตระกูลกาฬาวกะ  ๑๐  เชือก        เป็นกำลังช้างตระกูล
+<span class="LineNumber"> 008 </span>คังเคยยะ ๑  เชือก.                                                                    
+<span class="LineNumber"> 009 </span>         กำลังช้างตระกูลคังเคยยะ  ๑๐ เชือก    เป็นกำลังช้างตระกูลปัณฑระ
+<span class="LineNumber"> 010 </span>๑ เชือก.
+<span class="LineNumber"> 011 </span>         กำลังช้างตระกูลปัณฑระ  ๑๐  เชือก  เป็นกำลังช้างตระกูลตัมพะ  ๑
+<span class="LineNumber"> 012 </span>เชือก.
+<span class="LineNumber"> 013 </span>         กำลังช้างตระกูลตัมพะ ๑๐  เชือก    เป็นกำลังช้างตระกูลปิงคละ  ๑
+<span class="LineNumber"> 014 </span>เชือก.
+<span class="LineNumber"> 015 </span>         กำลังช้างตระกูลปิงคละ ๑๐ เชือก    เป็นกำลังช้างตระกูลคันธะ  ๑
+<span class="LineNumber"> 016 </span>เชือก.
+<span class="LineNumber"> 017 </span>         กำลังช้างตระกูลคันธะ  ๑๐  เชือก  เป็นกำลังช้างตระกูลมังคละ  ๑
+<span class="LineNumber"> 018 </span>เชือก.
+<span class="LineNumber"> 019 </span>         กำลังช้างตระกูลมังคละ ๑๐  เชือก  เป็นกำลังช้างตระกูลเหมวตะ<SUP>๒</SUP>๑
+<span class="LineNumber"> 020 </span>เชือก.
+<span class="LineNumber"> 021 </span>         กำลังช้างตระกูลเหมวตะ<SUP>๓</SUP>  ๑๐  เชือก  เป็นกำลังช้างตระกูลอุโปสถะ  ๑
+<span class="LineNumber"> 022 </span>เชือก.
+
+<span class='footnote'>๑.  ๒.   ๓.  คาถาเป็น  เหมาะ  แก้อรรถเป็น  เหมวตะ.</span>
+

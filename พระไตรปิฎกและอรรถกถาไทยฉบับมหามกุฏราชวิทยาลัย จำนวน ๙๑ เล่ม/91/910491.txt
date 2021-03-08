@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>ทุกขายเวทนายสัมปยุตตบท</H2> 
+<span class="LineNumber"> 002 </span>           [๒๓๕] ๑.  <B>ธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม     ที่
+<span class="LineNumber"> 003 </span>ไม่ใช่เหตุ  อาศัยธรรมที่เป็นทุกขายเวทนายสัมปยุตตธรรม ที่เป็นเหตุ
+<span class="LineNumber"> 004 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>     
+ 
+<span class="LineNumber"> 005 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 006 </span>           [๒๓๖]  ในเหตุปัจจัย  มี  ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 007 </span>           พึงให้พิสดารทุกวาระ.
+
+<span class="LineNumber"> 008 </span>                    <H2>อทุกขมสุขาเวทนายสัมปยุตตบท</H2>	
+<span class="LineNumber"> 009 </span>           [๒๓๗]  ๑.  <B>ธรรมที่ไม่ใช่อทุกขมสุขายเวทนายสัมปยุตตธรรม 
+<span class="LineNumber"> 010 </span>ที่ไม่ใช่เหตุ    อาศัยธรรมที่เป็นอทุกขมสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นเหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 012 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>		
+<span class="LineNumber"> 013 </span>           [๒๓๘]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 014 </span>           พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 015 </span>                        <I>เหตุทุกเวทนาติกนเหตุทุกนเวทนาติกะ  จบ</I>

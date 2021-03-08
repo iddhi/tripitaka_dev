@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 002 </span>                                    <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 003 </span>           [๑๓๓๗] ๑.  <B>ปริตตธรรม  อาศัยปริตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 004 </span>นเหตุปัจจัย.</B>  
+<span class="LineNumber"> 005 </span>           คือ  ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ ที่เป็นปริตตธรรม
+<span class="LineNumber"> 006 </span>ซึ่งเป็นอเหตุกะ ฯลฯ ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>           ในอเหตุกปฏิสนธิขณะ   หทยวัตถุอาศัยขันธ์ทั้งหลาย,  ขันธ์ทั้งหลาย
+<span class="LineNumber"> 008 </span>อาศัยหทยวัตถุ ฯลฯ  
+<span class="LineNumber"> 009 </span>           อาศัยมหาภูตรูป ๑ ฯลฯ.
+<span class="LineNumber"> 010 </span>           พาหิรรูป ...  อาหารสมุฏฐานรูป...  อุตุสมุฏฐานรูป ฯลฯ.
+<span class="LineNumber"> 011 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ   อาศัยมหาภูตรูป ๑ ฯลฯ.
+<span class="LineNumber"> 012 </span>           โมหะ   ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์
+<span class="LineNumber"> 013 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 014 </span>                                      <H1>๒.  นอารัมมณปัจจัย</H1>
+<span class="LineNumber"> 015 </span>           [๑๓๓๘]  ๑.  <B>ปริตตธรรม  อาศัยปริตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 016 </span>นอารัมมณปัจจัย.</B>
+<span class="LineNumber"> 017 </span>           คือ   จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลายที่เป็นปริตตธรรม.
+<span class="LineNumber"> 018 </span>           ในปฏิสนธิขณะ    กฏัตตารูป    อาศัยขันธ์ทั้งหลายที่เป็นปริตตธรรม,
+<span class="LineNumber"> 019 </span>หทยวัตถุ  อาศัยขันธ์ทั้งหลาย.
+

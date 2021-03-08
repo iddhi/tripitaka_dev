@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  274
+
+<span class="LineNumber"> 002 </span>		พหุตภกฺขํ พหุอนฺนปานํ  
+<span class="LineNumber"> 003 </span>		มสกฺกสารํ วิย วาสวสฺส  
+<span class="LineNumber"> 004 </span>		มยูรโกฺจคณสงฺฆุฏฺ€ํ  
+<span class="LineNumber"> 005 </span>		ทิชาภิสงฺฆุฏฺ€ํ ทิชสงฺฆเสวิตํ  
+<span class="LineNumber"> 006 </span>		นานาสกุณาภิรุทํ สุวงฺคณํ  
+<span class="LineNumber"> 007 </span>		ปุปฺผาภิกิณฺณํ หิมวํว ปพฺพตํ  
+<span class="LineNumber"> 008 </span>		สปุณฺณโก วิปุลมภิรุยฺห(๑)  
+<span class="LineNumber"> 009 </span>		สิลุจฺจยงฺกึปุริสา ภิกิณฺณํ  
+<span class="LineNumber"> 010 </span>		อนฺเวสมาโน มณิรตนํ โอฬารํ(๒)  
+<span class="LineNumber"> 011 </span>		ตมทฺทส(๓) ปพฺพตกูฏมชฺเฌติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  องฺคสฺส  รฺโติ  ตทา  องฺคสฺส  รฺโ(๔)  มคธรชฺชํ  
+<span class="LineNumber"> 013 </span>อโหสิ ฯ  เตน  วุตฺตํ [๕]ฯ  ทุราสทนฺติ  ปจฺจตฺถิเกหิ  ทุราสทํ (๖)ฯ  
+<span class="LineNumber"> 014 </span>มสกฺกสารํ  วิย  วาสวสฺสาติ  มสกฺกสารสํขาเต  สิเนรุปพฺพเต
+<span class="LineNumber"> 015 </span>มาปิตตฺตา  มสกฺกสารนฺติ  ลทฺธนามํ  วาสวสฺส  ภวนํ  วิย ฯ
+<span class="LineNumber"> 016 </span>ทิชาภิสงฺฆุฏฺ€นฺติ(๗)  อฺเหิ(๘)  ปกฺขีหิ  อภิสงฺฆุฏฺ€ํ  นินฺนาทิตํ ฯ 
+<span class="LineNumber"> 017 </span>นานาสกุณาภิรุทนฺติ มธุรสฺสเรน  คายนฺเตหิ  วิย  นานาวิเธหิ 
+<span class="LineNumber"> 018 </span>สกุเณหิ  อภิรุทํ  อภิคีตนฺติ  อตฺโถ ฯ  สุวงฺคณนฺติ  สุนฺทรองฺคณํ  
+<span class="LineNumber"> 019 </span># ๑. ม. โส ปุณฺณโก เวปุลมาภิรูหิ ฯ  ๒. ม. อุฬารํ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ตมทฺทสา ฯ  ๔. ม. รฺโว ฯ  ๕. ม. เอตฺถนฺตเร 
+<span class="LineNumber"> 021 </span># องฺคสฺส รฺโ นครนฺติ ทิสฺสนฺติ ฯ  ๖. ม. ทุรายุตนฺติ ปจฺจตฺถิเกหิ 
+<span class="LineNumber"> 022 </span># ทุรายุตฺตํ ฯ  ๗. ม. ทิชาภิฆุฏฺ€นฺติ ฯ  ๘. ม. อฺเหิ ฯ 

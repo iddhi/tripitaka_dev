@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>อุปปาทนิโรธวาระ</H1>
+<span class="LineNumber"> 002 </span>                                <H1>ปัจจุปปันนวาระ อนุโลม</H1> 
+<span class="LineNumber"> 003 </span>	                                  <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 004 </span>                                        <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 005 </span><H2>กายสังขารมูละ  วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 006 </span>         [๑๑๘๒]    กายสังขารกำลังเกิดแก่บุคคลใด,  วจีสังขารก็กำลัง
+<span class="LineNumber"> 007 </span>ดับแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า     วจีสังขารกำลังดับแก่บุคคลใด,  กายสังขารก็กำลัง
+<span class="LineNumber"> 010 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ไม่ใช่.
+<span class="LineNumber"> 012 </span>                         <I>จบ  กายสังขารมูละ  วจีสังขารมูลี</I>
+
+<span class="LineNumber"> 013 </span><H2>กายสังขารมูละ  จิตตสังขารมูละ :-</H2>
+<span class="LineNumber"> 014 </span>         กายสังขารกำลังเกิดแก่บุคคลใด,  จิตตสังขารก็กำลังดับแก่บุคคล
+<span class="LineNumber"> 015 </span>นั้น  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ไม่ใช่.

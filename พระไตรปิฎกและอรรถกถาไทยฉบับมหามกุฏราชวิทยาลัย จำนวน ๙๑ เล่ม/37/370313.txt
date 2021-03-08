@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>         <B>ธุลี</B>   ไม่มีความเศร้าโศกเป็นผู้ถึงฝั่งแห่งภพ   ย่อม
+<span class="LineNumber"> 002 </span>         ทราบได้อย่างถูกต้อง.
+<span class="LineNumber"> 003 </span>                               <I>จบ  โลกวิปัตติสูตรที่  ๖</I>
+
+<span class="LineNumber"> 004 </span>                       <H1>อรรถกถาโลกวิปัตติสูตรที่  ๖</H1>
+<span class="LineNumber"> 005 </span>         <B>ทุติยโลกธรรมสูตรที่  ๖</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 006 </span>         บทว่า  <B>โก  วิเสโส</B>  ได้แก่  อะไรเป็นเหตุพิเศษ.  บทว่า  <B>โก
+<span class="LineNumber"> 007 </span>อธิปฺปายโส</B>  ได้แก่  อะไรเป็นความประกอบอันยิ่ง.  บทว่า  <B>ปริยาทาย</B>
+<span class="LineNumber"> 008 </span>ได้แก่   ยึดถือ  คือตั้งล้อมรอบ   แม้ในสูตรนี้ก็ตรัสทั้งวัฏฏะและวิวัฏฏะ.
+<span class="LineNumber"> 009 </span>                            <I>จบ  อรรถกถาโลกวิปัตติสูตรที่  ๖</I> 

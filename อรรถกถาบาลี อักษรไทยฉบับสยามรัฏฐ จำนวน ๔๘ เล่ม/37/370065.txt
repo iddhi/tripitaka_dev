@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 65
+
+<span class="LineNumber"> 002 </span>	[๗๔๕]เนว ตํ อติมฺามิ	สิปฺปวาเทน มาณว  
+<span class="LineNumber"> 003 </span>		อติมตฺโตสิ สิปฺเปน	อุรคํ นาปจายสีติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  สิปฺปวาเทนาติ  มาณว  อหํ  อตฺตโน  สิปฺเปน  ตํ  
+<span class="LineNumber"> 005 </span>นาติมฺามิ  ตฺวํ  ปน  อตฺตโน(๑) สิปฺเปน  อติมตฺโต  อิมํ  อุรคํ 
+<span class="LineNumber"> 006 </span>น ปูเชสิ  นาสฺส อปจิตึ กโรสีติ ฯ  
+<span class="LineNumber"> 007 </span>	ตโต สุทสฺสโน เทฺว คาถา อภาสิ  
+<span class="LineNumber"> 008 </span>	[๗๔๖]มยํ (๒) นาติมฺาม(๓) สิปฺปวาเทน พฺราหฺมณ  
+<span class="LineNumber"> 009 </span>		อวิเสน จ นาเคน		ภูสํ วฺจยเส  ชนํ  
+<span class="LineNumber"> 010 </span>		เอวฺเจตํ(๔) ชโน ชฺา  ยถา ชานามิ ตํ อหํ  
+<span class="LineNumber"> 011 </span>		น ตฺวํ ลภสิ อาลมฺพ	ถุสมุฏฺ€ึ กุโต ธนุํ ฺติ ฯ  
+<span class="LineNumber"> 012 </span>	อถสฺส อาลมฺพายโน กุชฺฌิตฺวา อาห  
+<span class="LineNumber"> 013 </span>	[๗๔๗]ขราชิโน ชฏี รุมฺมี(๕)	ทตฺโต ปริสมาคโต  
+<span class="LineNumber"> 014 </span>		โย ตฺวํ เอวํ คตํ นาคํ	อวิโส อติมฺสิ  
+<span class="LineNumber"> 015 </span>		อาสชฺช โข ตํ(๖) ชฺาสิ ปุณฺณํ อุคฺคสฺส เตชสา  
+<span class="LineNumber"> 016 </span>		มฺเ ตํ ภสฺมราสึว	ขิปฺปเมโส(๗) กริสฺสตีติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  รุมฺมีติ  อนฺชิตอมณฺฑิโต ฯ  อวิโส  อติมฺสีติ  
+<span class="LineNumber"> 018 </span>นิพฺพิโสติ  อวชานาสิ ฯ  อาสชฺชาติ  อุปคนฺตฺวา ฯ  ชฺาสีติ  
+<span class="LineNumber"> 019 </span>ชาเนยฺยาสีติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ ๒. ม. อหมฺปิ ฯ ๓. ม. นาติมฺามิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. เอวํ เจตํ ฯ  ๕. ม.  ทุมฺมี ฯ ๖. ม. นํ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. ขิปฺปเมส ฯ 

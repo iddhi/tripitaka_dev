@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  508
+
+<span class="LineNumber"> 002 </span>		ธนุคฺคหานํ ปวโร		สูโร ติขิณมนฺตี จ  
+<span class="LineNumber"> 003 </span>		มยายํ สุขิโต ราชา		อิติ มฺติ (๑) ทารโก  
+<span class="LineNumber"> 004 </span>		อุปฏฺ€านํปิ เม อยฺเย		น โส เอติ ยถาปุเร  
+<span class="LineNumber"> 005 </span>		ภาตรํ เตน โทเสน		ทชฺชาหํ ทกรกฺขิโนติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ปรรชฺเชภีติ  อิมสฺส  มยา  ปรรชฺชโต  พหุธนํ  อาภฏํ  
+<span class="LineNumber"> 007 </span>สยฺจ  (๒) ปรรชฺเช  วสนฺโต  ปุน  อิมํ  เคหํ  อาเนตฺวา  เอส  มยา  
+<span class="LineNumber"> 008 </span>มหติยเส  ปติฏฺ€าปิโตติ  วทติ ฯ  ยถาปุเรติ  ปุพฺเพ  ปาโตว 
+<span class="LineNumber"> 009 </span>อาคจฺฉติ  อิทานิ ปเนส น ตถา เอติ อิมินา นํ โทเสน 
+<span class="LineNumber"> 010 </span>ทกรกฺขสสฺส ทสฺสามีติ ฯ  
+<span class="LineNumber"> 011 </span>	ปริพฺพาชิกา  มหาราช  ภาตุ  ตาว  โทโส  โหตุ  ธนุเสกฺข-
+<span class="LineNumber"> 012 </span>กุมาโร  ปน  ตยิ  สิเนเหน  คุณยุตฺโต  พหูปกาโรติ  ตสฺส  คุณํ 
+<span class="LineNumber"> 013 </span>กเถนฺตี  อาห  
+<span class="LineNumber"> 014 </span>		เอกรตฺเตน อุภโย			ตวฺเจว ธนุเสขวา(๓) 
+<span class="LineNumber"> 015 </span>		อุโภ ชาเตตฺถ ปฺจาลา	สหายา สุสมาวยา  
+<span class="LineNumber"> 016 </span>		จริยา ตํ อนุพนฺธิตฺโถ		เอกทุกฺขสุโข ตว  
+<span class="LineNumber"> 017 </span>		อุสฺสุกฺโก เต ทิวารตฺตึ		สพฺพกิจฺเจสุ ปาวโต (๔) 
+<span class="LineNumber"> 018 </span>		สหายํ เกน โทเสน		ทชฺชาสิ ทกรกฺขิโนติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  ธนุเสขวาติ  ธนุเสขตาย	ธนุเสขกุมาโรติ  อตฺโถ ฯ  
+<span class="LineNumber"> 020 </span>เอตฺถาติ  อิเธว  นคเร ฯ  ปฺจาลาติ  อุตฺตรปฺจาลนคเร  ชาตตฺตา  
+<span class="LineNumber"> 021 </span># ๑. ม. ยุ. อติมฺติ ฯ  ๒. ม. ยุ. อยฺจ ฯ  ๓. ม. ธนุเสข จ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. ยุ. พฺยาวโต ฯ

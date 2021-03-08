@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 48   หน้า  440
+
+<span class="LineNumber"> 002 </span>		ธมฺมาภิสมยกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  ธมฺมาภิสมยกถา  นาม  โหติ ฯ  ตตฺถ  อตีตภเว
+<span class="LineNumber"> 004 </span>โสตาปนฺนํ  มาตุกุจฺฉิยํ  วสิตฺวา  นิกฺขนฺตํ ทิสฺวา อตฺถิ
+<span class="LineNumber"> 005 </span>คพฺภเสยฺยาย ธมฺมาภิสมโยติ เยสํ ลทฺธิ  เสยฺยถาปิ  เอกจฺจานํ
+<span class="LineNumber"> 006 </span>อุตฺตราปถกานํ  เต  สนฺธาย  ปุจฺฉา  สกวาทิสฺส ปฏิฺา
+<span class="LineNumber"> 007 </span>อิตรสฺส ฯ  อถ  นํ  ยทิ  ตตฺถ  ธมฺมาภิสมโย  อตฺถิ  ธมฺมาภิ-
+<span class="LineNumber"> 008 </span>สมยการเณหิ เอตฺถ  (๑)  ธมฺมเทสนาทีหิ  ภวิตพฺพนฺติ  โจเทตุํ  อตฺถิ
+<span class="LineNumber"> 009 </span>คพฺภเสยฺยาย ธมฺมเทสนาติอาทิมาห ฯ  สุตฺตสฺสาติอาทิ  ภวงฺค-
+<span class="LineNumber"> 010 </span>วารํ  สนฺธาย  วุตฺตํ ฯ คพฺภเสยฺยาย หิ เยภุยฺเยน ภวงฺคเมว
+<span class="LineNumber"> 011 </span>ปวตฺตติ ฯ  เตเนว  สุตฺโต  (๒)  กิริยสมยปฺปวตฺตาภาวา  (๓)  สุตฺโต 
+<span class="LineNumber"> 012 </span>ภาวนานุโยคสฺส  อภาวา  ปมตฺโต  กมฺมฏฺ€านปริคฺคาหกานํ
+<span class="LineNumber"> 013 </span>สติสมฺปชฺานํ  อภาวา  มุฏฺ€สฺสติ อสมฺปชาโน นาม โหติ
+<span class="LineNumber"> 014 </span>ตถารูปสฺส กุโต ธมฺมาภิสมโยติ ฯ 
+<span class="LineNumber"> 015 </span>		ธมฺมาภิสมยกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 016 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. สตฺโต ฯ
+<span class="LineNumber"> 017 </span># ๓. ม. กิริยมยปฺปวตฺตาภาวา ฯ

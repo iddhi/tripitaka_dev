@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>	           <H1>๔. มัจฉรสูตร</H1>  
+<span class="LineNumber"> 002 </span>   <H1>ว่าด้วยคุณและโทษของการอยู่อาศัย</H1>
+<span class="LineNumber"> 003 </span>         [๒๒๔]  ดูก่อนภิกษุทั้งหลาย    โทษในการอยู่ประจำที่  ๕  ประการนี้
+<span class="LineNumber"> 004 </span>๕  ประการเป็นไฉน ?  คือ  ภิกษุผู้อยู่ประจำที่เป็นผู้ตระหนี่ที่อยู่  ๑  ตระหนี่
+<span class="LineNumber"> 005 </span>สกุล  ๑  ตระหนี่ลาภ  ๑   ตระหนี่วรรณะ  ๑   ตระหนี่ธรรม  ๑   ดูก่อนภิกษุ
+<span class="LineNumber"> 006 </span>ทั้งหลาย  โทษในการอยู่ประจำที่  ๕ ประการนี้แล.
+<span class="LineNumber"> 007 </span>         ดูก่อนภิกษุทั้งหลาย  อานิสงส์ในการอยู่ที่กำหนดพอสมควร  ๕ ประการ
+<span class="LineNumber"> 008 </span>นี้  ๕ ประการเป็นไฉน ?  คือ ภิกษุผู้อยู่มีกำหนดพอสมควร  เป็นผู้ไม่ตระหนี่
+<span class="LineNumber"> 009 </span>ที่อยู่  ๑   ไม่ตระหนี่สกุล  ๑   ไม่ตระหนี่ลาภ ๑   ไม่ตระหนี่วรรณะ  ๑  ไม่
+<span class="LineNumber"> 010 </span>ตระหนี่ธรรม ๑   ดูก่อนภิกษุทั้งหลาย   อานิสงส์ในการอยู่มีกำหนดพอสมควร
+<span class="LineNumber"> 011 </span>๕  ประการนี้แล.              
+<span class="LineNumber"> 012 </span>		 <I>จบมัจฉรสูตรที่  ๔</I>
+<span class="LineNumber"> 013 </span>                          <H1>อรรถกถามัจฉรสูตร</H1>
+<span class="LineNumber"> 014 </span>         พึงทราบวินิจฉัยใน<B>มัจฉรสูตรที่  ๔</B>  ดังต่อไปนี้ :-             
+<span class="LineNumber"> 015 </span>         บทว่า <B>วณฺณมจฺฉรี</B>  คือ เป็นผู้ตระหนี่คุณ.  บทว่า  <B>ธมฺมมจฺฉรี</B>  คือ
+<span class="LineNumber"> 016 </span>เป็นผู้ตระหนี่ปริยัติ.
+<span class="LineNumber"> 017 </span>	               <I>จบอรรถกถามัจฉรสูตรที่  ๔</I>

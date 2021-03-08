@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อาสวสัมปยุตตธรรม   ที่ไม่ใช่กุศล 
+<span class="LineNumber"> 002 </span>อาศัย  ฯลฯ</B>  
+<span class="LineNumber"> 003 </span>                       ๓.  <B>ธรรมที่ไม่ใช่อาสวสัมปยุตตธรรม  ที่ไม่ใช่อัพยา-
+<span class="LineNumber"> 004 </span>กตะ     อาศัย   ฯลฯ</B>
+<span class="LineNumber"> 005 </span>                       ๔.  <B>ธรรมที่ไม่ใช่อาสวสัมปยุตตธรรม   ที่ไม่ใช่กุศล
+<span class="LineNumber"> 006 </span>และธรรมที่ไม่ใช่อาสวสัมปยุตตธรรม  ที่ไม่ใช่อัพยากตะ  อาศัย  ฯลฯ</B>
+<span class="LineNumber"> 007 </span>                       ๕.  <B>ธรรมที่ไม่ใช่อาสวสัมปยุตตธรรม   ที่ไม่ใช่กุศล
+<span class="LineNumber"> 008 </span>และธรรมที่ไม่ใช่อาสวสัมปยุตตธรรม   ที่ไม่ใช่อกุศล   อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นอาสวสัมปยุตตธรรม    ที่เป็นอกุศล  เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>มี ๕ วาระ.
+
+<span class="LineNumber"> 011 </span>                               <H2>อาสววิปปยุตตบท</H2>
+<span class="LineNumber"> 012 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อาสววิปปยุตตธรรม    ที่ไม่ใช่กุศล
+<span class="LineNumber"> 013 </span>อาศัยธรรมที่เป็นอาสววิปปยุตตธรรม  ที่เป็นอกุศล  ฯลฯ</B>
+<span class="LineNumber"> 014 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อาสววิปปยุตตธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 015 </span>อัพยากตะ  อาศัย  ฯลฯ</B>
+<span class="LineNumber"> 016 </span>                       ๓.  <B>ธรรมที่ไม่ใช่อาสววิปปยุตตธรรม   ที่ไม่ใช่กุศล
+<span class="LineNumber"> 017 </span>และธรรมที่ไม่ใช่อาสววิปปยุตตธรรม  ที่ไม่ใช่อัพยากตะ  อาศัยธรรม</B>

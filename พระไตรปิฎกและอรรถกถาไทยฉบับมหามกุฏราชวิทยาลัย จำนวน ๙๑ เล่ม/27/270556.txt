@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๘.  นาคสังยุต</H1>   
+
+<span class="LineNumber"> 002 </span>                              <H1>๑.  สุทธกสูตร</H1> 
+
+<span class="LineNumber"> 003 </span>           [๕๑๙]    กรุงสาวัตถี.   ณ   ที่นั้นแล   พระผู้มีพระภาคเจ้าตรัสว่า 
+<span class="LineNumber"> 004 </span>ดูก่อนภิกษุทั้งหลาย  กำเนิดของนาค  ๔ จำพวกนี้ ๔  จำพวกเป็นไฉน ?
+<span class="LineNumber"> 005 </span>คือ นาคที่เป็นอัณฑชะ เกิดในไข่ ๑  นาคที่เป็นชลาพุชะ เกิดในครรภ์ ๑
+<span class="LineNumber"> 006 </span>นาคที่เป็นสังเสทชะ เกิดในเถ้าไคล ๑  นาคที่เป็นอุปปาติกะ เกิดผุดขึ้น ๑
+<span class="LineNumber"> 007 </span>ดูก่อนภิกษุทั้งหลาย  กำเนิดของนาค ๔ จำพวกนี้แล.
+<span class="LineNumber"> 008 </span>                                       <I>จบ  สุทธกสูตรที่  ๑</I>
+
+<span class="LineNumber"> 009 </span>                   <H1>๘.  อรรถกถานาคสังยุต</H1> 
+
+<span class="LineNumber"> 010 </span>                  <H1>๑.  อรรถกถาสุทธกสูตร</H1>
+
+<span class="LineNumber"> 011 </span>           พึงทราบวินิจฉัยใน<B>นาคสังยุต  สูตรที่  ๑</B>  ดังต่อไปนี้  :-
+<span class="LineNumber"> 012 </span>           บทว่า  <B>อณฺฑชา</B>  แปลว่า  เกิดในฟอง.                                 
+<span class="LineNumber"> 013 </span>           บทว่า  <B>ชลาพุชา</B>  แปลว่า  เกิดในมดลูก.
+<span class="LineNumber"> 014 </span>           บทว่า  <B>สํเสทชา</B>  แปลว่า  เกิดในที่ชื้นแฉะ.
+<span class="LineNumber"> 015 </span>           บทว่า  <B>อุปปาติกา</B>  แปลว่า  เกิด  (เร็ว)  เหมือนผุดขึ้น 
+<span class="LineNumber"> 016 </span>           ก็แลสูตรนี้   พระผู้มีพระภาคเจ้าตรัสไว้   เพราะเป็นเหตุเกิดของ
+<span class="LineNumber"> 017 </span>เรื่อง. เพราะว่าภิกษุทั้งหลายสนทนากันว่า กำเนิดนาคมีเท่าไรหนอแล? 
+<span class="LineNumber"> 018 </span>ลำดับนั้น    พระผู้มีพระภาคเจ้าเมื่อจะทรงอธิบายกำเนิดนาคให้แจ่มแจ้ง
+<span class="LineNumber"> 019 </span>จึงตรัสสูตรนี้  เพื่อให้บุคคลทั้งหลายเบื่อหน่ายกำเนิดนาค 
+<span class="LineNumber"> 020 </span>                                  <I>จบ  อรรถกถาสุทธกสูตรที่  ๑</I>

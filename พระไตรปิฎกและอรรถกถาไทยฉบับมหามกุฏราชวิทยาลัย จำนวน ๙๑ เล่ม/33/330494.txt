@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H3>สูตรที่  ๑๖</H3>
+
+<span class="LineNumber"> 002 </span>         [๔๒๓]   ๑๗๗.  ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่าง  ๒ อย่าง
+<span class="LineNumber"> 003 </span>เป็นไฉน คือ ความเป็นคนหลงลืมสติ  ๑  ความไม่รู้สึกตัว ๑  ดูก่อนภิกษุ
+<span class="LineNumber"> 004 </span>ทั้งหลาย   ธรรม ๒ อย่างนี้แล.
+<span class="LineNumber"> 005 </span>                                           จบสูตรที่  ๑๖ 
+
+<span class="LineNumber"> 006 </span>                                      <H3>สูตรที่ ๑๗</H3>
+
+<span class="LineNumber"> 007 </span>         [๔๒๔]  ๑๗๘.  ดูก่อนภิกษุทั้งหลาย   ธรรม ๒ อย่างนี้  ๒ อย่าง
+<span class="LineNumber"> 008 </span>เป็นไฉน   คือ  สติ  ๑  สัมปชัญญะ  ๑   ดูก่อนภิกษุทั้งหลาย    ธรรม      ๒
+<span class="LineNumber"> 009 </span>อย่างนี้แล.
+<span class="LineNumber"> 010 </span>                                             จบสูตรที่  ๑๗
+<span class="LineNumber"> 011 </span>                                      <I>จบสมาปัตติวรรคที่ ๕</I>
+<span class="LineNumber"> 012 </span>                                         จบตติยปัณณาสก์
+
+<span class="LineNumber"> 013 </span>                          <H3>สมาปัตติวรรค<SUP>๑</SUP>ที่  ๕</H3>
+
+<span class="LineNumber"> 014 </span>                              <H3>อรรถกถาสูตรที่  ๑</H3>
+
+<span class="LineNumber"> 015 </span>         <B>สมาปัตติวรรคที่  ๕  สูตรที่  ๑</B>  (ข้อ ๔๐๘)  มีวินัยดังต่อไปนี้.
+<span class="LineNumber"> 016 </span>         บทว่า   <B>สมาปตฺติกุสลตา</B>  ได้แก่ความเป็นผู้ฉลาดในการกำหนด
+<span class="LineNumber"> 017 </span>อาหารสัปปายะเข้าสมาบัติ.    บทว่า  <B>สมาปตฺติวุฏฺ€านกุสลตา</B>   ความว่า
+<span class="LineNumber"> 018 </span>เมื่อได้เวลาตามกำหนดเป็นผู้ฉลาดออก.   ชื่อว่าเป็นผู้ฉลาดในการออกจาก
+
+<span class='footnote'>๑. วรรคนี้ประกอบด้วยพระสูตร  ๑๘  สูตร  อรรถกถาแก้ไว้สั้น ๆ  จึงลงติดต่อกันไปทั้งวรรค</span>
+<span class='footnote'>โดยลงหัวข้อบาลีประจำสูตรประจำสูตรกำกับไว้ด้วย.</span>

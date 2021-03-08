@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  112
+
+<span class="LineNumber"> 002 </span>คตตฺตา  เตโชคตํ ฯ 
+<span class="LineNumber"> 003 </span>	อุสฺมาติ  อุณฺหากาโร ฯ อุสฺมาว อุสฺมาภาวํ คตตฺตา
+<span class="LineNumber"> 004 </span>อุสฺมาคตํ ฯ
+<span class="LineNumber"> 005 </span>	อุสุมนฺติ  จณฺฑอุสุมํ ฯ  ตเทว  อุสุมภาวํ  คตตฺตา  อุสุมคตํ ฯ 
+<span class="LineNumber"> 006 </span>	เยน  จาติ เยน จ  เตโชคเตน  กุปฺปิเตน ฯ
+<span class="LineNumber"> 007 </span>	สนฺตปฺปตีติ  อยํ  กาโย  สนฺตปฺปติ  เอกาหิกชราทิภาเวน 
+<span class="LineNumber"> 008 </span>อุสุมชาโต  โหติ ฯ
+<span class="LineNumber"> 009 </span>	เยน  จ  ชีรียตีติ  เยน  จ  อยํ  กาโย  ชีรยติ (๑)
+<span class="LineNumber"> 010 </span>อินฺทฺริยเวกลฺลตํ  พลปริกฺขยํ  วลิตจปลิตาทิภาวฺจ (๒) ปาปุณาติ ฯ  
+<span class="LineNumber"> 011 </span>	เยน  จ  ปริฑยฺหตีติ  เยน  จ  กุปฺปิเตน  อยํ  กาโย  
+<span class="LineNumber"> 012 </span>ฑยฺหติ  โส  จ  ปุคฺคโล  ฑยฺหามิ  ฑยฺหามีติ  กนฺทนฺโต  สตโธต-
+<span class="LineNumber"> 013 </span>สปฺปิโคสีตจนฺทนาทิเลปนฺเจว  ตาลวณฺฏวาตฺจ  ปจฺจาสึสติ ฯ 
+<span class="LineNumber"> 014 </span>	เยน  จ  อสิตปีตขายิตสายิตํ  สมฺมา  ปริณามํ  คจฺฉตีติ  
+<span class="LineNumber"> 015 </span>เยเนตํ  อสิตํ วา โอทนาทิ ปีตํ วา  ปานกาทิ  ขายิตํ 
+<span class="LineNumber"> 016 </span>วา  ปิฏฺ€ขชฺชกาทิ  สายิตํ  วา  อมฺพปกฺกมธุผาณิตาทิ  สมฺมา  
+<span class="LineNumber"> 017 </span>ปริปากํ  คจฺฉติ  รสาทิภาเวน  วิเวกํ  คจฺฉตีติ  อตฺโถ ฯ  
+<span class="LineNumber"> 018 </span>เอตฺถ  จ  ปุริมา  ตโย  เตโชธาตู จตุสมุฏฺ€านา ปจฺฉิโม
+<span class="LineNumber"> 019 </span>กมฺมสมุฏฺ€าโนว ฯ อยํ ตาเวตฺถ ปทวณฺณนา ฯ(๓) 
+<span class="LineNumber"> 020 </span>	อิทํ  ปน  มนสิการวิธานํ  อิธ  ภิกฺขุ  เยน  สนฺตปฺปติ 
+<span class="LineNumber"> 021 </span># ๑. สฺยา. ชีรตีติ ฯ  ม. ชีรียติ ฯ  ๒. ม. วลิปลิตาทิภาวฺจ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. ปทสํวณฺณนา ฯ 

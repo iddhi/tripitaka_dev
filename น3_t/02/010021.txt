@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	๗.  <B>ทิพพจักขุ</B>  ตาทิพย์.   
+<span class="LineNumber"> 002 </span>	๘.  <B>อาสวักขยญาณ</B>  รู้จักทำอาสวะให้สิ้น.
+<span class="LineNumber"> 003 </span>	      ค.  จรณะ  ๑๕  คือ  :-
+<span class="LineNumber"> 004 </span>	๑.  <B>สีลสังวร</B>  สำรวมกายวาจาให้เป็นปกติ.
+<span class="LineNumber"> 005 </span>	๒.  <B>อินทรียสังวร  </B>ระวัง  ตา  หู  จมูก  ลิ้น  กาย  ใจ
+<span class="LineNumber"> 006 </span>	      ไม่ให้อภิชฌาโทมนัสครอบงำจิต.
+<span class="LineNumber"> 007 </span>	๓.  <B>โภชเน  มัตตัญญุตา</B>  ความเป็นผู้รู้ประมาณใน
+<span class="LineNumber"> 008 </span>	      อาหาร  และของบริโภคต่าง ๆ.
+<span class="LineNumber"> 009 </span>	๔.  <B>ชาคริยนุโยค</B>  ประกอบความเพียรของผู้ตื่นด้วย
+<span class="LineNumber"> 010 </span>	      สติ.
+<span class="LineNumber"> 011 </span>	๕.  <B>สัทธา</B>  ความเชื่อกรรมและผลแห่งกรรม.
+<span class="LineNumber"> 012 </span>	๖.  <B>หิริ</B>  ความละอายแต่ทุจิตบาปธรรม.
+<span class="LineNumber"> 013 </span>	๗.  <B>โอตตัปปะ</B>  ความสะดุ้งกลัวแต่ทุจริตบาปธรรม.
+<span class="LineNumber"> 014 </span>	๘.  <B>พาหุสัจจะ</B>  ความเป็นผู้ได้สดับฟังจำทรงไว้ได้
+<span class="LineNumber"> 015 </span>	      มาก.
+<span class="LineNumber"> 016 </span>	๙.  <B>วิริยะ</B>  ความเพียรละบาปบำเพ็ญบุญ.
+<span class="LineNumber"> 017 </span>	๑๐.  <B>สติ</B>  ความระลึกซึ่งเป็นเหตุให้บาปอกุศลน้อยเบา
+<span class="LineNumber"> 018 </span>	       บางหมดสิ้นไป  ให้บุญกุศลเจริญทวีมากขึ้น.
+<span class="LineNumber"> 019 </span>	๑๑.  <B>ปัญญา</B>  ความรู้ทั่ว.
+<span class="LineNumber"> 020 </span>	๑๒.  <B>ปฐมฌาน</B>.
+<span class="LineNumber"> 021 </span>	๑๓.  <B>ทุติยฌาน</B>.
+
+

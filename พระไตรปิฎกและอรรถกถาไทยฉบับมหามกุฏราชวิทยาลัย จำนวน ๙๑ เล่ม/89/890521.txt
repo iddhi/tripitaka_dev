@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>๗๓.  อุปาทานอุปาทานสัมปยุตตทุกะ</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>ปัจจยวาระ</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 004 </span>                                       <H1>๑.   เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>         [๔๖๘] ๑.  <B>ธรรมที่เป็นทั้งอุปาทาน   และอุปาทานสัมปยุตต-
+<span class="LineNumber"> 006 </span>ธรรม     อาศัยธรรมที่เป็นทั้งอุปาทานและอุปาทานสัมปยุตตธรรม
+<span class="LineNumber"> 007 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ  กามุปาทาน  อาศัยทิฏฐุปาทาน.
+<span class="LineNumber"> 009 </span>         พึงกระทำจักรนัย.
+<span class="LineNumber"> 010 </span>                     ๒.  <B>ธรรมที่เป็นทั้งอุปาทานสัมปยุตตะ  แต่ไม่ใช่อุปา-
+<span class="LineNumber"> 011 </span>ทานธรรม  อาศัยธรรมที่เป็นทั้งอุปาทานและอุปาทานสัมปยุตตธรรม
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  สัมปยุตตขันธ์ทั้งหลาย  อาศัยอุปาทานธรรมทั้งหลาย.
+<span class="LineNumber"> 014 </span>                     ๓.  <B>ธรรมที่เป็นทั้งอุปาทานและอุปาทานสัมปยุตต- 
+<span class="LineNumber"> 015 </span>ธรรม     และธรรมที่เป็นอุปาทานสัมปยุตตะแต่ไม่ใช่อุปาทานธรรม
+<span class="LineNumber"> 016 </span>อาศัยธรรมที่เป็นทั้งอุปาทานและอุปาทานสัมปยุตตธรรม     เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะเหตุปัจจัย</B>

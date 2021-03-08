@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  702
+	
+<span class="LineNumber"> 002 </span>		สมุทฺธรสิมํ โลกํ		อนฺธการสมากุลํ  
+<span class="LineNumber"> 003 </span>		ตว ธมฺมํ สุณิตฺวาน	กงฺขาโสตํ ตรนฺติ เต ฯ  
+<span class="LineNumber"> 004 </span>		อวิชฺชานิวุโต โลโก		อนฺธกาเรน โอตฺถโฏ   
+<span class="LineNumber"> 005 </span>		ตว าณมฺหิ โชตนฺเต	อนฺธการา ปธํสิตา ฯ  
+<span class="LineNumber"> 006 </span>		ตุวํ จกฺขูสิ สพฺเพสํ		มหาตมปนูทโน  
+<span class="LineNumber"> 007 </span>		ตว ธมฺมํ สุณิตฺวาน	นิพฺพายิสฺสติ พหุชฺชโน ฯ  
+<span class="LineNumber"> 008 </span>		ปุฏกํ(๑) ปูรยิตฺวาน	มธุขุทฺทมเนฬกํ  
+<span class="LineNumber"> 009 </span>		อุโภหตฺเถหิ(๒) ปคฺคยฺห	อุปเนสึ มเหสิโน ฯ  
+<span class="LineNumber"> 010 </span>		ปฏิคฺคณฺหิ มหาวีโร	สหตฺเถน มหา อิสิ(๓)  
+<span class="LineNumber"> 011 </span>		ภุฺชิตฺวา ตฺจ สพฺพฺู  เวหาสํ นภมุคฺคมิ ฯ   
+<span class="LineNumber"> 012 </span>		อนฺตลิกฺเข €ิโต สตฺถา	อตฺถทสฺสี นราสโภ  
+<span class="LineNumber"> 013 </span>		มม จิตฺตํ ปสาเทนฺโต	อิมา คาถา อภาสถ ฯ  
+<span class="LineNumber"> 014 </span>		เยนิทํ ถวิตํ าณํ		พุทฺธเสฏฺโ€ จ โถมิโต  
+<span class="LineNumber"> 015 </span>		เตน จิตฺตปฺปสาเทน	ทุคฺคตึ โส น คจฺฉติ ฯ  
+<span class="LineNumber"> 016 </span>		จตุสฏฺ€ิฺจ (๔) ขตฺตุํ โส  เทวรชฺชํ กริสฺสติ  
+<span class="LineNumber"> 017 </span>		ปเทส  รชฺช อฏฺ€สตํ (๕)	วสุธํ อาวสิสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>		ปฺเจว สตกฺขตฺตุฺจ	จกฺกวตฺตี ภวิสฺสติ  
+<span class="LineNumber"> 019 </span>		ปเทสรชฺชํ อสงฺเขยฺยํ	มหิยา การยิสฺสติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. ปุตรํ ฯ  ยุ. ปี€รํ ฯ  ๒. ม. อุโภ หตฺเถหิ ฯ 
+<span class="LineNumber"> 021 </span># เอวมุปริปิ ฯ  ๓. สฺยา. สุภเกน ฯ มหาอิสิ ฯ 
+<span class="LineNumber"> 022 </span># ๔. สฺยา. จตุสฏฺ€ิฺจ ฯ  ๕. สฺยา. ปเทสรชฺชฏฺ€สตํ ฯ

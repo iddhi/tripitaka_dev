@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ชาคริยสุตฺตวณฺณนา หน้า 269
+		
+<span class="LineNumber"> 002 </span>	ปฺจมี ถินมิทฺธนฺเต	ฉฏฺ€า ภีรู ปวุจฺจติ
+<span class="LineNumber"> 003 </span>	สตฺตมี วิจิกิจฺฉา เต	มกฺโข ถมฺโภ จ อฏฺ€โม. 
+<span class="LineNumber"> 004 </span>	ลาโภ(๑) สิโลโก สกฺกาโร  มิจฺฉา ลทฺโธ จ โย ยโส
+<span class="LineNumber"> 005 </span>	โย จตฺตานํ สมุกฺกํโส(๒) ปเร จ อวชานติ ฯ
+<span class="LineNumber"> 006 </span>	เอสา นมุจิ เต เสนา	กณฺหสฺสาภิปฺปหาริณี
+<span class="LineNumber"> 007 </span>	น นํ อสูโร ชินาติ	เชตฺวา จ ลภเต สุขนฺติ(๓) ฯ 
+<span class="LineNumber"> 008 </span>ยถาห(๔)
+<span class="LineNumber"> 009 </span>	อชฺเชว กิจฺจมาตปฺปํ	โก ชฺา มรณํ สุเว
+<span class="LineNumber"> 010 </span>	น หิ โน สงฺครนฺเตน	มหาเสเนน มจฺจุนาติ(๕) ฯ 
+<span class="LineNumber"> 011 </span>	ภวถ  ชาติมรณสฺส  ปารคาติ  ชาติยา  มรณสฺส  จ  
+<span class="LineNumber"> 012 </span>ปารคามิโน นิพฺพานคามิโน ภวถาติ ฯ
+<span class="LineNumber"> 013 </span>		นวมสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+		
+<span class="LineNumber"> 014 </span>		ชาคริยสุตฺตวณฺณนา
+<span class="LineNumber"> 015 </span>	ทสเม  ชาคโรติ  ชาครโก  วิคตนิทฺโท  ชาคริยํ  อนุยุตฺโต 
+<span class="LineNumber"> 016 </span>รตฺตินฺทิวํ กมฺมฏฺ€านมนสิกาเร ยุตฺตปฺปยุตฺโตติ อตฺโถ ฯ วุตฺตเฺหตํ(๖)
+<span class="LineNumber"> 017 </span>	กถฺจ ภิกฺขเว ภิกฺขุ ปุพฺพรตฺตาปรรตฺตํ  ชาคริยา-
+<span class="LineNumber"> 018 </span>นุโยคมนุยุตฺโต โหติ อิธ ภิกฺขุ ทิวสํ จงฺกเมน นิสชฺชาย
+<span class="LineNumber"> 019 </span># ๑. ม. ลาโภ ฯ ๒. ม. สมุกฺกํเส ฯ  ๓. ขุ. สุ. ๒๕/๓๕๕/๔๐๙ ฯ
+<span class="LineNumber"> 020 </span># ขุ. มหา. ๒๙/๑๓๔/๑๑๔ ฯ  ๔. ม. ยถาจาห ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. อุ. ๑๔/๕๕๒/๓๖๐ ฯ ขุ. ชา. ๒๘/๑๒๑/๑๓๗ ฯ  
+<span class="LineNumber"> 022 </span># ๖. ม. วุตฺตฺเจตํ ฯ

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>โทมนัสสินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>โทมนัสสินทริยมูละ   อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๑๔๑๙]   บุคคลใดกำลังละโทมนัสสินทรีย์,  บุคคลนั้นก็
+<span class="LineNumber"> 004 </span>เจริญอนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่. 
+<span class="LineNumber"> 006 </span>         ก็หรือว่า  บุคคลใดจักเจริญอนัญญาตัญญัสสามีตินทรีย์,  บุคคล
+<span class="LineNumber"> 007 </span>นั้นก็กำลังละโทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>         <I>จบ  โทมนัสสินทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี</I>
+
+<span class="LineNumber"> 010 </span><B>โทมนัสสินทริยมูละ    อัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 011 </span>         [๑๔๒๐]   บุคคลใดกำลังละโทมนัสสินทรีย์,    บุคคลนั้นก็จัก 
+<span class="LineNumber"> 012 </span>เจริญอัญญินทรีย์    ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ก็หรือว่า    บุคคลใดจักเจริญอัญญินทรีย์     บุคคลนั้นก็กำลังละ
+<span class="LineNumber"> 014 </span>โทมนัสสินทรีย์  ใช่ไหม  ?

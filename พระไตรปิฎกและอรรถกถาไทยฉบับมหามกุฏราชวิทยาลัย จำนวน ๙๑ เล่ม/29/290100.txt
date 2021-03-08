@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๑๒.  อุปทานปัญหาสูตร</H1>   
+
+<span class="LineNumber"> 002 </span>                           <H1>ว่าด้วยปัญหาเรื่องอุปาทาน</H1>
+
+<span class="LineNumber"> 003 </span>           [๕๐๘]   ดูก่อนท่านสารีบุตร     ที่เรียกว่า      อุปาทาน  ๆ   ดังนี้ 
+<span class="LineNumber"> 004 </span>อุปาทานเป็นไฉนหนอ.
+<span class="LineNumber"> 005 </span>           <I>สา</I>.   ดูก่อนผู้มีอายุ    อุปาทาน ๔ ประการนี้     คือ    กามุปาทาน
+<span class="LineNumber"> 006 </span>ทิฏฐุปาทาน  สีลัพพตุปาทาน  อัตตวาทุปาทาน  อุปาทาน ๔ ประการนี้แล.
+<span class="LineNumber"> 007 </span>           <I>ช</I>.   ดูก่อนท่านผู้มีอายุ   ก็มรรคามีอยู่หรือ  ปฏิปทามีอยู่หรือ  เพื่อ
+<span class="LineNumber"> 008 </span>ละอุปาทานเหล่านั้น.
+<span class="LineNumber"> 009 </span>           <I>สา</I>.   มีอยู่   ผู้มีอายุ.
+<span class="LineNumber"> 010 </span>           <I>ช</I>.    ดูก่อนท่านผู้มีอายุ  ก็มรรคาเป็นไฉน  ปฏิปทาเป็นไฉน  เพื่อ
+<span class="LineNumber"> 011 </span>ละอุปาทานเหล่านั้น.
+<span class="LineNumber"> 012 </span>           <I>สา</I>.   ดูก่อนผู้มีอายุ    อริยมรรคประกอบด้วยองค์ ๘  คือ   ความ
+<span class="LineNumber"> 013 </span>เห็นชอบ    ฯลฯ   ตั้งใจชอบ   นี้แลเป็นบรรดา    เป็นปฏิปทา    เพื่อละ
+<span class="LineNumber"> 014 </span>อุปาทานเหล่านั้น.
+<span class="LineNumber"> 015 </span>           <I>ช</I>.   ดูก่อนท่านผู้มีอายุ   มรรคาดีนัก  ปฏิปทาดีนัก  เพื่อละอุปาทาน
+<span class="LineNumber"> 016 </span>เหล่านั้น    และเพียงพอเพื่อความไม่ประมาท   นะท่านสารีบุตร.
+<span class="LineNumber"> 017 </span>                              <I>จบ  อุปทานปัญหาสูตรที่  ๑๒</I>

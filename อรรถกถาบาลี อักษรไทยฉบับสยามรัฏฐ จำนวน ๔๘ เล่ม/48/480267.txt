@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า 267
+
+<span class="LineNumber"> 002 </span>			อฏฺ€มกกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  อฏฺ€มกกถา  นาม  โหติ ฯ  ตตฺถ  เยสํ อนุโลม-
+<span class="LineNumber"> 004 </span>โคตฺรภูมคฺคกฺขเณ  กิเลสานํ    สมุทาจาราภาวโต    อฏฺ€มกสฺส
+<span class="LineNumber"> 005 </span>โสตาปตฺติมคฺคฏฺ€ปุคฺคลสฺส  เทฺว  ปริยุฏฺ€านา  ปหีนาติ  ลทฺธิ 
+<span class="LineNumber"> 006 </span>เสยฺยถาปิ  เอตรหิ อนฺธกานฺเจว สมิติยานฺจ เตสํ  อฺตรํ
+<span class="LineNumber"> 007 </span>สนฺธาย  ปุจฺฉา  สกวาทิสฺส ฯ  มคฺคกฺขณโต  ปฏฺ€าย  ทิฏฺ€ิยา
+<span class="LineNumber"> 008 </span>อนุปฺปตฺตึ  สนฺธาย  ปฏิฺา  อิตรสฺส ฯ  ตโต  ยสฺมา  ทิฏฺ€ิ 
+<span class="LineNumber"> 009 </span>นาเมสา  โสตาปนฺนสฺส(๑) ปหีนา  น  มคฺคฏฺ€สฺส  ตสฺมา  อฏฺ€มโก 
+<span class="LineNumber"> 010 </span>ปุคฺคโล  โสตาปนฺโนติ  อนุโยโค  สกวาทิสฺส ฯ  วิจิกิจฺฉาปเฺหปิ 
+<span class="LineNumber"> 011 </span>เอเสว  นโย ฯ  อนุสยปเฺห  ปริยุฏฺ€านโต  อฺโ อนุสโยติ
+<span class="LineNumber"> 012 </span>เตสํ ลทฺธิ ตสฺมา น เหวนฺติ ปฏิกฺขิตฺตํ ฯ 
+<span class="LineNumber"> 013 </span>	สีลพฺพตปรามาสปเฺหปิ  สีลพฺพตปรามาสปริยุฏฺ€านนฺติ
+<span class="LineNumber"> 014 </span>โวหารํ  น  ปสฺสติ ตสฺมา ปฏิกฺขิปติ ฯ ปริยุฏฺ€านเมวสฺส
+<span class="LineNumber"> 015 </span>ปหีนนฺติ ลทฺธิ ฯ 
+<span class="LineNumber"> 016 </span>	มคฺโค  ภาวิโตติ  ปเฺห  ตสฺมึ  ขเณ  ภาเวติ  น 
+<span class="LineNumber"> 017 </span>ภาวิโต ฯ  ตสฺมา  ปฏิกฺขิปติ ฯ  อมคฺเคนาติอาทิอนุโยเค  ป€ม-
+<span class="LineNumber"> 018 </span>มคฺเคเนว  ปหีนภาวํ  (๒)  สนฺธาย  ปฏิกฺขิปติ ฯ  ยทิ  หิ  อมคฺเคน
+<span class="LineNumber"> 019 </span>ปหิยฺเยถ  โคตฺรภูปุคฺคลาทีนมฺปิ (๓) ปหิยฺเยถาติ  ตสฺส  ลทฺธิ ฯ  (๔)
+<span class="LineNumber"> 020 </span># ๑. ม. โสตาปนฺนสฺเสว ฯ  ๒. สี. ปหานภาวํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. โคตฺรภุปุคฺคลานมฺปิ ฯ  ๔. ม. อาปชฺชนโต ฯ

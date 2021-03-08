@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๑  ที่เป็นมหัคคตธรรม  เป็นปัจจัยแก่ขันธ์ ๓ ฯลฯ ขันธ์
+<span class="LineNumber"> 002 </span>๒  ฯลฯ. 
+<span class="LineNumber"> 003 </span>           ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 004 </span>           [๑๔๔๗] ๔.  <B>มหัคคตธรรม  เป็นปัจจัยแต่ปริตตธรรม  ฯลฯ
+<span class="LineNumber"> 005 </span>           คือ   ขันธ์ทั้งหลายที่เป็นมหัคคตธรรม  เป็นปัจจัยแก่จิตตสมุฏฐานรูป
+<span class="LineNumber"> 006 </span>ทั้งหลาย  ด้วยอำนาจของสหชาตปัจจัย.</B>
+<span class="LineNumber"> 007 </span>           ในปฏิสนธิขณะ  ขันธ์ทั้งหลายที่เป็นมหัคคตธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 008 </span>กฏัตตารูปทั้งหลาย  ด้วยอำนาจของสหชาตปัจจัย.
+<span class="LineNumber"> 009 </span>           [๑๔๔๘] ๕.  <B>มหัคคตธรรม  เป็นปัจจัยแก่ปริตตธรรม  และ
+<span class="LineNumber"> 010 </span>มหัคคตธรรม ฯลฯ</B>
+<span class="LineNumber"> 011 </span>           คือ   ขันธ์ที่เป็นมหัคคตธรรม  เป็นปัจจัยแก่ขันธ์ ๓ และจิตตสมุฏ-
+<span class="LineNumber"> 012 </span>ฐานรูปทั้งหลาย   ด้วยอำนาจของสหชาตปัจจัย ฯลฯ  ขันธ์ ๒ ฯลฯ.               
+<span class="LineNumber"> 013 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 014 </span>           [๑๔๔๙] ๖.  <B>อัปปมาฌธรรมเป็นปัจจัยแก่อัปปมาณธรรม ฯลฯ</B> 
+<span class="LineNumber"> 015 </span>           คือ   ขันธ์ ๑  ที่เป็นอัปปมาณธรรม  เป็นปัจจัยแก่ขันธ์ ๓  ด้วยอำนาจ
+<span class="LineNumber"> 016 </span>ของสหชาตปัจจัย ฯลฯ.
+

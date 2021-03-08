@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>นีวรณบท</H2>  
+<span class="LineNumber"> 002 </span>                       ๑.  <B>นีวรณธรรม  ที่เป็นอกุศล  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 003 </span>นีวรณธรรม   ที่ไม่ใช่กุศล   เกิดขึ้น   เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 004 </span>                                    <H2>ปรามาสบท</H2>
+<span class="LineNumber"> 005 </span>                       ๑.  <B>ปรามาสธรรม  ที่เป็นอกุศล    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 006 </span>ปรามาสธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 007 </span>                                    <H2>สารัมมณบท</H2>
+<span class="LineNumber"> 008 </span>                       ๑.  <B>สารัมมณธรรม    ที่เป็นอัพยากตะ    อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่สารัมมณธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                             <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 011 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>				
+<span class="LineNumber"> 012 </span>           ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 013 </span>         <I>นกุสลติกนสัตตโคจฉกทุกกุสลติกสัตตโคจฉกทุกะ จบ</I>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  กัณฑ์ที่  ๑๒
+<span class="LineNumber"> 002 </span>                                บริขารบริโภค 
+
+<span class="LineNumber"> 003 </span>                                       <B>จีวร</B>
+<span class="LineNumber"> 004 </span>                 <B>ประมาณจีวรที่ใช้ในเมืองเรามีดังนี้</B> 
+<span class="LineNumber"> 005 </span>๑.  สังฆาฏิ  ยาวไม่เกิน  ๖  ศอก  กว้างไม่เกิน ๔  ศอก.
+<span class="LineNumber"> 006 </span>๒.  อุตราสงค์  ยาวไม่เกิน  ๖  ศอก  กว้างไม่เกิน  ๔  ศอก.
+<span class="LineNumber"> 007 </span>๓.  อันตรวาสก  ยาวไม่เกิน  ๖  ศอก  กว้างไม่เกิน  ๒  ศอก.
+<span class="LineNumber"> 008 </span>	[สำหรับพระขนาดกลาง  สังฆาฏฺกับอุตราสงค์  ลดด้านยาว ๑
+<span class="LineNumber"> 009 </span>คืบ  ด้านกว้าง ๘  นิ้ว  อันตรวาสก  ลดลงเพียงยาว ๔  ศอกขึ้นไป
+<span class="LineNumber"> 010 </span>ถึง  ๘  นิ้ว  กว้าง ๑  ศอกคืบ  ๔  นิ้ว  เป็นพอดี].
+<span class="LineNumber"> 011 </span>                   <B>ผ้าสำหรับทำจีวรมี  ๖  ชนิด  คือ</B>
+<span class="LineNumber"> 012 </span>๑.  โขมะ  ผ้าทำด้วยเปลือกไม้  เช่นผ้าลินิน.
+<span class="LineNumber"> 013 </span>๒.  กัปปาสิกะ  ผ้าทำด้วยฝ้าย.
+<span class="LineNumber"> 014 </span>๓.  โกเสยยะ  ผ้าทำด้วยใยไหม  เช่นแพร.
+<span class="LineNumber"> 015 </span>๔.  กัมพละ  ผ้าทำด้วยขนสัตว์ ยกผมและขนมุษย์  เช่นผ้าสักหลาด
+<span class="LineNumber"> 016 </span>     และกำมะหริด.
+<span class="LineNumber"> 017 </span>๕.  สาณะ  ผ้าทำด้วยเปลือกป่าน [ ผ้าชนิดนี้เป็นผ้าเนื้อสาก ] .
+<span class="LineNumber"> 018 </span>๖.  ภังคะ  ผ้าทำด้วยของ ๕  อย่างนั้นแต่อย่างใดอย่างหนึ่งปนกัน  เช่น
+<span class="LineNumber"> 019 </span>     ผ้าด้ายแกมไหม.

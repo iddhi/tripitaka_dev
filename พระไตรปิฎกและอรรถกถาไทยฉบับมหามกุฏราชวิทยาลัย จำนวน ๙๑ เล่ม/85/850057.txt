@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           [๗]  <H1>สหชาตปัจจัย</H1>     <B>ธรรมที่ช่วยอุปการะโดยความเกิดพร้อม
+<span class="LineNumber"> 002 </span>กัน  กล่าวคือ                                                                   
+<span class="LineNumber"> 003 </span>           ๑.  นามขันธ์ ๔    เป็นปัจจัยซึ่งกันและกัน  ด้วยอำนาจของ
+<span class="LineNumber"> 004 </span>สหชาตปัจจัย 
+<span class="LineNumber"> 005 </span>           ๒.  มหาภูตรูป ๔   เป็นปัจจัยซึ่งกันและกัน     ด้วยอำนาจของ
+<span class="LineNumber"> 006 </span>สหชาตปัจจัย
+<span class="LineNumber"> 007 </span>           ๓.   ในปฏิสนธิขณะ  นามและรูปเป็นปัจจัยซึ่งกันและกัน  ด้วย
+<span class="LineNumber"> 008 </span>อำนาจของสหชาต   ปัจจัย
+<span class="LineNumber"> 009 </span>           ๔.   จิตและเจตสิกธรรมทั้งหลาย    เป็นปัจจัยแก่รูปทั้งหลายที่มี
+<span class="LineNumber"> 010 </span>จิตเป็นสมุฏฐาน  ด้วยอำนาจของสหชาตปัจจัย
+<span class="LineNumber"> 011 </span>           ๕.   มหาภูตรูป    เป็นปัจจัยแก่อุปาทารูปทั้งหลาย    ด้วยอำนาจ 
+<span class="LineNumber"> 012 </span>ของสหชาตปัจจัย
+<span class="LineNumber"> 013 </span>           ๖.   รูปธรรมทั้งหลาย    เป็นปัจจัยแก่อรูปธรรมทั้งหลายในกาล
+<span class="LineNumber"> 014 </span>บางครั้ง   ด้วยอำนาจของสหชาตปัจจัย
+<span class="LineNumber"> 015 </span>           ๗.    รูปธรรมทั้งหลาย     ไม่เป็นปัจจัยแก่อรูปธรรมทั้งหลายใน
+<span class="LineNumber"> 016 </span>กาลบางครั้ง  ด้วยอำนาจของสหชาตปัจจัย.</B>
+
+<span class="LineNumber"> 017 </span>                       <H1>วรรณนานิทเทสแห่งสหชาตปัจจัย</H1> 
+<span class="LineNumber"> 018 </span>           ผู้ศึกษาพึงทราบวินิจฉัยใน   <B>สหชาตปัจจัยนิทเทส</B>   ต่อไป.
+<span class="LineNumber"> 019 </span>           บทว่า  <B>อญฺมญฺํ</B>   แปลว่า ซึ่งกันและกัน.   ด้วยบทนี้  พระผู้มี-
+<span class="LineNumber"> 020 </span>พระภาคเจ้าย่อมทรงแสดงว่า    ธรรมเหล่านั้น     เป็นปัจจัยและปัจจยุบบัน
+<span class="LineNumber"> 021 </span>ในขณะเดียวกัน.    บทว่า <B>โอกฺกนฺติกฺขเณ</B>  คือ   ในขณะปฏิสนธิในปัญจ-

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  ๔  พรฺหฺมชาลสุตฺตวณฺณนา  หน้า  ๑๓๙  
+
+<span class="LineNumber"> 002 </span>ชานาสีติ  อตฺโถ  ฯ  
+<span class="LineNumber"> 003 </span>	อาโรปิโต  เต  วาโทติ  มยา  ตว  วาเท  โทโส  
+<span class="LineNumber"> 004 </span>อาโรปิโต  ฯ  จร  วาทปฺปโมกฺขายาติ  โทสโมจนตฺถํ  จร  วิจร  
+<span class="LineNumber"> 005 </span>ตตฺถ  ตตฺถ  คนฺตฺวา  สิกฺขาติ  อตฺโถ  ฯ  นิพฺเพเ€หิ  วา  สเจ  
+<span class="LineNumber"> 006 </span>ปโหสีติ  อถ  สยมฺปโหสิ  อิทานิเยว  นิพฺเพเ€หีติ  ฯ  
+<span class="LineNumber"> 007 </span>	ทูเตยฺยกถายํ ฯ  อิธ  คจฺฉาติ  อิโต  อสุกํ  นาม  €านํ  
+<span class="LineNumber"> 008 </span>คจฺฉ  อมุตร  คจฺฉาติ  ตโต  อสุกํ  นาม  €านํ  คจฺฉ  ฯ  
+<span class="LineNumber"> 009 </span>อิทํ  หราติ  อิโต  อิทํ  นาม  หร  ฯ  อมุตฺร  อิทํ  อาหราติ  
+<span class="LineNumber"> 010 </span>อสุกฏฺ€านโต  อิทํ  นาม  อิธ  อาหร  ฯ  สงฺเขปโต  ปน  อิทํ  
+<span class="LineNumber"> 011 </span>ทูเตยฺยํ  นาม  €เปตฺวา  ปฺจ  สหธมฺมิเก  รตนตฺตยสฺส  
+<span class="LineNumber"> 012 </span>อุปการปฏิสํยุตฺตฺจ  คิหิสาสนํ  อฺเสํ  น  วฏฺฏติ  ฯ  
+<span class="LineNumber"> 013 </span>	กุหกาติอาทีสุ  ติวิเธน  กุหกวตฺถุนา (๑)  โลกํ  กุหยนฺติ  
+<span class="LineNumber"> 014 </span>วิมฺหาปยนฺตีติ  กุหกา  ฯ  ลาภสกฺการตฺถิกา  หุตฺวา  ลปนฺตีติ  
+<span class="LineNumber"> 015 </span>ลปกา  ฯ  นิมิตฺตํ  สีลเมว  เตสนฺติ (๒)  เนมิตฺตกา (๓) ฯ  นิปฺเปโส  สีลเมว-  
+<span class="LineNumber"> 016 </span>เตสนฺติ  นิปฺเปสิกา  ฯ  ลาเภน  ลาภํ  นิชิคึสนฺติ (๔)  มคฺคนฺติ  
+<span class="LineNumber"> 017 </span>ปริเยสนฺตีติ  ลาเภน  ลาภํ  นิชิคึสิตาโร (๕) ฯ  กุหนลปนา (๖)  
+<span class="LineNumber"> 018 </span>เนมิตฺตกตา  นิปฺเปสิกตา  ลาเภน  ลาภํ  นิชิคึสนตาติ  เอตาหิ  
+<span class="LineNumber"> 019 </span>สมนฺนาคตานํ  ปุคฺคลานํ  เอตํ  อธิวจนํ  ฯ  อยเมตฺถ  สงฺเขโป  ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. กุหนวตฺถุนา ฯ  ๒. ม. สีลเมเตสนฺติ ฯ  เอวมุปริปิ ฯ  
+<span class="LineNumber"> 021 </span># ๓. ม. เนมิตฺติกา ฯ  ๔. ม. นิชิคีสนฺติ ฯ  ๕. ม. นิชิคีสิตาโร ฯ  
+<span class="LineNumber"> 022 </span># ๖. ม. กุหนา ลปนา ฯ  

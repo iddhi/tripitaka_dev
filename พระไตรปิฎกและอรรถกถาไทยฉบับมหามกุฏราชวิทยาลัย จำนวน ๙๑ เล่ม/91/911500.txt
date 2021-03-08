@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>นสรณทุกนสัปปฏิฆทุกสรณทุกสัปปฏิฆทุกะ</H1> 
+<span class="LineNumber"> 002 </span>            <H2>(๑๐๐.  สรณทุกะ  ๑๐.  สัปปฏิฆทุกะ)</H2> 
+<span class="LineNumber"> 003 </span>                                     <H2>ปัจจยวาระ</H2>  
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 006 </span>                                     <H2>สัปปฏิฆบท</H2> 
+<span class="LineNumber"> 007 </span>           [๑๔๓๑] ๑.  <B>สัปปฏิฆธรรม  ที่เป็นอรณธรรม  อาศัยธรรม
+<span class="LineNumber"> 008 </span>ที่ไม่ใช่สัปปฏิฆธรรม  ที่ไม่ใช่สรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 010 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๑๔๓๒]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>               <I>นสรณทุกนสัปปฏิฆทุกสรณทุกสัปปฏิฆทุกะ  จบ</I>

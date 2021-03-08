@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           หทยวัตถุที่เกิดก่อน  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นอาจยคามิธรรม 
+<span class="LineNumber"> 002 </span>ด้วยอำนาจของวิปปยุตตปัจจัย. 
+<span class="LineNumber"> 003 </span>           [๑๑๔๔] ๕.  <B>เนวาจยคามินาปจยมิธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 004 </span>อปจยคามิธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 005 </span>           มีอย่างเดียว  คือที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 006 </span>           หทยวัตถุที่เกิดก่อน  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นอปจยคามิธรรม
+<span class="LineNumber"> 007 </span>ด้วยอำนาจของวิปปยุตตปัจจัย.
+
+<span class="LineNumber"> 008 </span>                                      <H1>๒๑.  อัตถิปัจจัย</H1>          
+<span class="LineNumber"> 009 </span>           [๑๑๔๕] ๑.  <B>อาจยคามิธรรม  เป็นปัจจัยแก่อาจยคามิธรรม
+<span class="LineNumber"> 010 </span>ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  ขันธ์ ๑ ที่เป็นอาจยคามิธรรม  เป็นปัจจัยแก่ขันธ์ ๓ ฯลฯ
+<span class="LineNumber"> 012 </span>           [๑๑๔๖] ๒.  <B>อาจยคามิธรรม  เป็นปัจจัยแก่เนวาจยคามินา-
+<span class="LineNumber"> 013 </span>ปจยคามิธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 014 </span>           มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>ปัจฉาชาตะ</B> 
+<span class="LineNumber"> 015 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 016 </span>           ขันธ์ทั้งหลายที่เป็นอาจยคามิธรรมที่เกิดพร้อมกัน  เป็นปัจจัยแก่
+<span class="LineNumber"> 017 </span>จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของอัตถิปัจจัย.
+ 

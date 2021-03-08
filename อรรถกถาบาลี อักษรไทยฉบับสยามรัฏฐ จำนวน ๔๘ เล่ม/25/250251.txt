@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ปฺจมวคฺเค รมณียวิหาริตฺเถรคาถาวณฺณนา หน้า 251
+	
+<span class="LineNumber"> 002 </span>	อรหตฺตํ  ปน  ปตฺวา  วิมุตฺติสุขํ  อนุภวนฺโต  อตฺตโน  ปุพฺพภาคปฏิปตฺติยา 
+<span class="LineNumber"> 003 </span>สทฺธึ อริยธมฺมาธิคมนทีปนึ  
+<span class="LineNumber"> 004 </span>		ยถาปิ ภทฺโท อาชฺโ	ขลิตฺวา ปติติฏฺ€ติ(๑)  
+<span class="LineNumber"> 005 </span>		เอวํ ทสฺสนสมฺปนฺนํ	สมฺมาสมฺพุทฺธสาวกนฺติ(๒)  
+<span class="LineNumber"> 006 </span>คาถํ อภาสิ ฯ 
+<span class="LineNumber"> 007 </span>	ตตฺถ  ขลิตฺวาติ  ปกฺขลิตฺวา ฯ  
+<span class="LineNumber"> 008 </span>	ปติติฏฺ€ตีติ ปติฏฺ€หติ ปุนเทว ยถา€าเน ติฏฺ€ติ ฯ 
+<span class="LineNumber"> 009 </span>	เอวนฺติ  ยถา ภทฺโท อุสภาชานีโย ภารํ วหนฺโต
+<span class="LineNumber"> 010 </span>ปริสฺสมปฺปตฺโต วิสมฏฺ€านํ อาคมฺม  เอกวารํ  ปกฺขลิตฺวา  ปติโต
+<span class="LineNumber"> 011 </span>น  ตตฺตเกน  ธุรํ  ฉฑฺเฑติ  ถามชว  ปรกฺกมสมฺปนฺนตาย  ปน 
+<span class="LineNumber"> 012 </span>ขลิตฺวาปิ  ปติติฏฺ€ติ  อตฺตโน  สภาเวเนว  €ตฺวา  ภารํ  วหติ  
+<span class="LineNumber"> 013 </span>เอวํ  กิเลสปริสฺสมปฺปตฺโต  กิริยาปราเธน  ขลิตฺวา  ตํ  ขลิตํ 
+<span class="LineNumber"> 014 </span>ถามวิริยสมฺปตฺติตาย  (๔)  ปฏิปากติกํ  กตฺวา  มคฺคสมฺมาทิฏฺ€ิยา 
+<span class="LineNumber"> 015 </span>ทสฺสนสมฺปนฺนํ  ตโตเอว สมฺมาสมฺพุทฺธสฺส  สวนนฺเต  อริยาย 
+<span class="LineNumber"> 016 </span>ชาติยา  ชาตตาย  สาวกํ  ตสฺส  อุเร  วายามชนิตาภิชาติตาย  (๕)
+<span class="LineNumber"> 017 </span>โอรสํ  ปุตฺตํ ภทฺทาชานียสทิสกิจฺจตาย อาชานียนฺติ จ มํ 
+<span class="LineNumber"> 018 </span>ธาเรถ อุปธาเรถาติ อตฺโถ ฯ  
+<span class="LineNumber"> 019 </span>		รมณียวิหาริตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปติติฏฺ€ติ ฯ  ๒. ขุ. เถร. ๒๖/๑๘๒/๒๗๐ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. ถามวีริย... ฯ  ๔. สี. ถามวีริยสมฺปตฺติยา ฯ  
+<span class="LineNumber"> 022 </span># ๕. สี. อุเร วาสมชนีติตายาภิชาติตาย ฯ 

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สติปฏฺ€านวิภงฺคนิทฺเทโส หน้า 435
+
+<span class="LineNumber"> 002 </span>อกุสลจิตฺตานิ  เนว  ปุริมปทํ  น  ปจฺฉิมปทํ  ภชนฺติ ฯ 
+<span class="LineNumber"> 003 </span>	สโทสนฺติ  ทุวิธํ  โทมนสฺสสหคตํ ฯ  
+<span class="LineNumber"> 004 </span>	วีตโทสนฺติ  โลกิยกุสลาพฺยากตํ ฯ  เสสานิ ทส อกุสล-
+<span class="LineNumber"> 005 </span>จิตฺตานิ  เนว  ปุริมปทํ  น  ปจฺฉิมปทํ  ภชนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	สโมหนฺติ  วิจิกิจฺฉาสหคตฺเจว  อุทฺธจฺจสหคตฺจาติ  ทุวิธํ ฯ
+<span class="LineNumber"> 007 </span>ยสฺมา  ปน  โมโห  สพฺพากุสเลสุ  อุปฺปชฺชติ  ตสฺมา  เสสานิปิ  
+<span class="LineNumber"> 008 </span>อิธ  วฏฺฏนฺติเอว ฯ  อิมสฺมึเยว  หิ  ทุเก  ทฺวาทสากุสลจิตฺตานิ  
+<span class="LineNumber"> 009 </span>ปริยาทินฺนานีติ ฯ  
+<span class="LineNumber"> 010 </span>	วีตโมหนฺติ โลกิยกุสลาพฺยากตํ ฯ
+<span class="LineNumber"> 011 </span>	สงฺขิตฺตนฺติ ถีนมิทฺธานุปติตํ ฯ  เอตฺหิ  สงฺกุฏิตจิตฺตํ  นาม ฯ
+<span class="LineNumber"> 012 </span>	วิกฺขิตฺตนฺติ  อุทฺธจฺจสหคตํ ฯ  เอตฺหิ  ปสฏจิตฺตนฺนาม ฯ  
+<span class="LineNumber"> 013 </span>	มหคฺคตนฺติ  รูปาวจรํ  อรูปาวจรฺจ ฯ
+<span class="LineNumber"> 014 </span>	อมหคฺคตนฺติ  กามาวจรํ ฯ 
+<span class="LineNumber"> 015 </span>	สอุตฺตรนฺติ  กามาวจรํ ฯ  
+<span class="LineNumber"> 016 </span>	อนุตฺตรนฺติ  รูปาวจรฺจ  อรูปาวจรฺจ ฯ  ตตฺราปิ  สอุตฺตรํ 
+<span class="LineNumber"> 017 </span>รูปาวจรํ  อนุตฺตรํ  อรูปาวจรเมว ฯ  
+<span class="LineNumber"> 018 </span>	สมาหิตนฺติ  ยสฺส  อปฺปนาสมาธิ  อุปจารสมาธิ  วา  
+<span class="LineNumber"> 019 </span>อตฺถิ ฯ  
+<span class="LineNumber"> 020 </span>	อสมาหิตนฺติ  อุภยสมาธิวิรหิตํ(๑) ฯ
+<span class="LineNumber"> 021 </span>	วิมุตฺตนฺติ  ตทงฺควิกฺขมฺภนวิมุตฺตีหิ  วิมุตฺตํ ฯ (๒) 
+<span class="LineNumber"> 022 </span># ๑. ม. ...รหิตํ ฯ  เอวมุปริปิ ฯ  ๒. วินิมุตฺตํ ฯ

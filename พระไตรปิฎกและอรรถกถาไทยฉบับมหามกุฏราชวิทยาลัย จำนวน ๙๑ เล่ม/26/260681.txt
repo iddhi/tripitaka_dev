@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๘.  ปิตุสูตร</H1>
+
+<span class="LineNumber"> 002 </span>       <H2>ว่าด้วยผู้ไม่จงใจพูดมุสาเพราะเหตุแห่งบิดา</H2>
+
+<span class="LineNumber"> 003 </span>         [๕๙๗]  <B>พระผู้มีพระภาคเจ้า</B>ประทับอยู่  ณ  <B>พระเชตวัน</B>  อาราม
+<span class="LineNumber"> 004 </span>ของท่าน<B>อนาถบิณฑิกเศรษฐี  กรุงสาวัตถี.</B>  ณ ที่นั้นแล   <B>พระผู้มีพระ- 
+<span class="LineNumber"> 005 </span>ภาคเจ้า</B>...    ได้ตรัสว่า     ดูก่อนภิกษุทั้งหลาย    ลาภสักการะและความ
+<span class="LineNumber"> 006 </span>สรรเสริญ   ทารุณ  เผ็ดร้อน  หยาบคาย   เป็นอันตรายแก่การบรรลุธรรม
+<span class="LineNumber"> 007 </span>อันเกษมจากโยคะ  ซึ่งไม่มีธรรมอื่นยิ่งไปกว่า.
+<span class="LineNumber"> 008 </span>         [๕๙๘]  ดูก่อนภิกษุทั้งหลาย    เรากำหนดใจด้วยใจแล้ว    ย่อมรู้
+<span class="LineNumber"> 009 </span>บุคคลบางคนในโลกนี้   อย่างนี้ว่า  แม้เพราะเหตุแห่งบิดา...
+<span class="LineNumber"> 010 </span>                                   จบปิตุสูตรที่  ๘
+
+<span class="LineNumber"> 011 </span>                              <H1>๙.  ภาตุสูตร</H1>
+
+<span class="LineNumber"> 012 </span>     <H2>ว่าด้วยผู้ไม่จงใจพูดมุสาเพราะเหตุแห่งพี่น้องชาย</H2>
+
+<span class="LineNumber"> 013 </span>         ...เรากำหนดใจด้วยใจแล้ว  ย่อมรู้บุคคลบางคนในโลกนี้  อย่างนี้ว่า
+<span class="LineNumber"> 014 </span>แม้เพราะเหตุแห่งพี่ชายน้องชาย...
+<span class="LineNumber"> 015 </span>                                     จบภาตุสูตรที่  ๙
+
+<span class="LineNumber"> 016 </span>                              <H1>๑๐. ภคินิสูตร</H1>
+
+<span class="LineNumber"> 017 </span>     <H2>ว่าด้วยผู้ไม่จงใจพูดมุสาเพราะเหตุแห่งพี่น้องหญิง</H2>
+
+<span class="LineNumber"> 018 </span>         ...เรากำหนดใจด้วยใจแล้ว  ย่อมรู้บุคคลบางคนในโลกนี้  อย่างนี้ว่า
+<span class="LineNumber"> 019 </span>แม้เพราะเหตุแห่งพี่สาวน้องสาว...
+<span class="LineNumber"> 020 </span>                                     จบภคินิสูตรที่  ๑๐
+                             

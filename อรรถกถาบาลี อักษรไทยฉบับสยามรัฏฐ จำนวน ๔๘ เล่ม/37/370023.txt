@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 23
+
+<span class="LineNumber"> 002 </span>อรุณุคฺคมนเวลายเมว  ตุมฺเห  ทส  ทส  อิตฺถิโย [๑] วาเรน
+<span class="LineNumber"> 003 </span>วาเรน  ตุริยหตฺถา  มม  สนฺติกํ  คนฺตฺวา(๑)  มํ  คนฺเธหิ  จ  
+<span class="LineNumber"> 004 </span>ปุปฺเผหิ  จ ปูเชตฺวา  คายิตฺวา  นจฺจิตฺวา  มํ  อาทาย  นาคภวนเมว 
+<span class="LineNumber"> 005 </span>อาคจฺฉถาติ  วตฺวา  ตตฺถ  คนฺตฺวา  วมฺมิกมตฺถเก  โภเค  
+<span class="LineNumber"> 006 </span>อาภุชิตฺวา  โย  เม  จมฺมํ  วา  นหารุํ  วา  อฏฺ€ึ  วา  รุธิรํ  (๓)
+<span class="LineNumber"> 007 </span>วา  อิจฺฉติ  โส  ตํ  หรตูติ  จตุรงฺคสมนฺนาคตํ  อุโปสถํ  
+<span class="LineNumber"> 008 </span>อธิฏฺ€าย  นงฺคลสีสมฺปมาณํ  สรีรํ  มาเปตฺวา  นิปนฺโน 
+<span class="LineNumber"> 009 </span>อุโปสถกมฺมํ  อกาสิ ฯ  อรุเณ  อุฏฺ€หนฺเตเยว ตํ นาคมาณวิกา  
+<span class="LineNumber"> 010 </span>อาคนฺตฺวา  ยถานุสิฏฺ€ํ  ปฏิปชฺชิตฺวา  นาคภวนํ  อาเนนฺติ ฯ 
+<span class="LineNumber"> 011 </span>ตสฺส  อิมินา นิยาเมน อุโปสถกมฺมํ กโรนฺตสฺส ทีโฆ อทฺธา
+<span class="LineNumber"> 012 </span>วีติวตฺโต ฯ  
+<span class="LineNumber"> 013 </span>		อุโปสถกณฺฑํ(๔) นิฏฺ€ิตํ 
+<span class="LineNumber"> 014 </span>	ตทา  เอโก  พาราณสีทฺวารคามวาสี  เนสาทพฺราหฺมโณ(๕)  
+<span class="LineNumber"> 015 </span>โสมทตฺเตน  นาม  ปุตฺเตน  สทฺธึ  อรฺํ  คนฺตฺวา สูลยนฺต-
+<span class="LineNumber"> 016 </span>ปาสวาคุราทีนิ (๖) โอเฑตฺวา  มิเค  วธิตฺวา  มํสํ  กาเชนาหริตฺวา
+<span class="LineNumber"> 017 </span>วิกฺกีณนฺโต  ชีวิตํ(๗)  กปฺเปสิ ฯ  โส  เอกทิวสํ  อนฺตมโส  โคธมตฺตมฺปิ(๘)
+<span class="LineNumber"> 018 </span>อลภิตฺวา  ตาต  โสมทตฺต  สเจ  ตุจฺฉหตฺถา  คมิสฺสาม  มาตา
+<span class="LineNumber"> 019 </span># ๑. ม. เอตฺถนฺตเร อาทายาติ ทิสฺสติ ฯ ๒. ม. อาคนฺตฺวา ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. รุหิรํ ฯ ๔. ม. อุโปสถขณฺฑํ ฯ ๕. ม. พฺราหฺมโณ 
+<span class="LineNumber"> 021 </span># ๖. ม. สูลยนฺตปาสวาคุราทีหิ ฯ  ๗. ม. ชีวิกํ ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. โคธามตฺตมฺปิ ฯ 

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>นิคมคาถา</H1>   
+<span class="LineNumber"> 002 </span>                             [๑,๑๐๗]  <B>ผู้ใดไม่ประพฤติล่วงธรรม
+<span class="LineNumber"> 003 </span>                   เพราะชอบ  เพราะชัง  เพราะกลัว  เพราะหลง
+<span class="LineNumber"> 004 </span>                   ยศของผู้นั้นย่อมเต็มเปี่ยมเหมือนดวงจันทร์
+<span class="LineNumber"> 005 </span>                   ในวันข้างขึ้น  ฉะนั้น.</B>
+
+<span class="LineNumber"> 006 </span>                                       <H1>ว่าด้วยให้เข้าใจ</H1>
+<span class="LineNumber"> 007 </span>           [๑,๑๐๘]   ถามว่า  อย่างไร   ชื่อว่า   ให้เข้าใจในสถานะควรให้เข้าใจ
+<span class="LineNumber"> 008 </span>           ตอบว่า   ภิกษุแสดงอธรรมว่าอธรรม   ชื่อว่า   ให้เข้าใจในสถานะควร
+<span class="LineNumber"> 009 </span>ให้เข้าใจ
+<span class="LineNumber"> 010 </span>           ภิกษุแสดงธรรมว่า  ธรรม   ชื่อว่า  ให้เข้าใจในสถานะควรให้เข้าใจ. . .
+<span class="LineNumber"> 011 </span>           ภิกษุแสดงอาบัติชั่วหยาบว่า  อาบัติชั่วหยาบ ชื่อว่า ให้เข้าใจในสถานะ
+<span class="LineNumber"> 012 </span>ควรให้เข้าใจ
+<span class="LineNumber"> 013 </span>           ภิกษุแสดงอาบัติไม่ชั่วหยาบว่า    อาบัติไม่ชั่วหยาบ  ชื่อว่า  ให้เข้าใจ
+<span class="LineNumber"> 014 </span>ในสถานะควรให้เข้าใจ
+<span class="LineNumber"> 015 </span>           อย่างนี้   ภิกษุชื่อว่า   ให้เข้าใจในสถานะควรให้เข้าใจ.
+
+<span class="LineNumber"> 016 </span>                                            <H1>ว่าด้วยพินิจ</H1>
+<span class="LineNumber"> 017 </span>           [๑,๑๐๙]  ถามว่า  อย่างไร  ชื่อว่า  ย่อมพินิจในสถานะควรพินิจ
+<span class="LineNumber"> 018 </span>           ตอบว่า  ภิกษุแสดงอธรรมว่า   อธรรม  ชื่อว่า   ย่อมพินิจในสถานะ
+<span class="LineNumber"> 019 </span>ควรพินิจ

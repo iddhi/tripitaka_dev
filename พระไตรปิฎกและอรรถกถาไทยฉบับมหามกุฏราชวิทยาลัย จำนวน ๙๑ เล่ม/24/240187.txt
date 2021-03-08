@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                       <h1>๕.  อุชฌานสัญญีสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                                       <H1>ว่าด้วยเทวดามุ่งโทษ</H1>
+ 
+<span class="LineNumber"> 003 </span>         [๑๐๖] สมัยหนึ่ง  พระผู้มีพระภาคเจ้าประทับ อยู่ ณ พระวิหารเชตวัน 
+<span class="LineNumber"> 004 </span>อารามของท่านอนาถบิณฑิกเศรษฐี   กรุงสาวัตถี   ครั้งนั้น    เมื่อปฐมยามล่วง
+<span class="LineNumber"> 005 </span>ไปแล้ว     พวกเทวดาผู้มีความมุ่งหมายเพ่งโทษมากด้วยกัน    มีวรรณะงาม   ยัง
+<span class="LineNumber"> 006 </span>พระวิหารเชตวัน ทั้งสิ้นให้สว่างเข้าไปเฝ้าพระผู้มีพระภาคเจ้า   แล้วจึงได้ลอยอยู่
+<span class="LineNumber"> 007 </span>ในอากาศ.
+<span class="LineNumber"> 008 </span>         [๑๐๗] เทวดาองค์หนึ่ง   ครั้นลอยอยู่ในอากาศแล้ว   ได้กล่าวคาถานี้
+<span class="LineNumber"> 009 </span>ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 010 </span>                             <B>บุคคลใดประกาศตนอันมีอยู่โดย
+<span class="LineNumber"> 011 </span>                   อาการอย่างอื่น     ให้เขารู้โดยอาการอย่าง
+<span class="LineNumber"> 012 </span>                   อื่น   บุคคลนั้นลวงปัจจัยเขากินด้วยความ
+<span class="LineNumber"> 013 </span>                   เป็นขโมย     เหมือนความลวงกินแห่ง
+<span class="LineNumber"> 014 </span>                   พรานนก  ก็บุคคลทำกรรมใด  ควรพูดถึง
+<span class="LineNumber"> 015 </span>                   กรรมนั้น   ไม่ทำกรรมใด  ก็ไม่ควรพูดถึง
+<span class="LineNumber"> 016 </span>                   กรรมนั้น   บัณฑิตทั้งหลายย่อมรู้จักบุคคล
+<span class="LineNumber"> 017 </span>                   นั้น   ผู้ไม่ทำ  มัวแต่พูดอยู่.</B>
+<span class="LineNumber"> 018 </span>         [๑๐๘] พระผู้มีพระภาคเจ้าตรัสคาถาทั้งหลายนี้ว่า
+<span class="LineNumber"> 019 </span>                             <B>ใคร ๆ  ไม่อาจดำเนินปฏิปทานี้ด้วย
+<span class="LineNumber"> 020 </span>                   เหตุสักว่าพูด  หรือฟังส่วนเดียว    บุคคลผู้
+<span class="LineNumber"> 021 </span>                   มีปัญญาทั้งหลาย   ผู้มีฌาน   ย่อมพ้นจาก</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  180
+
+<span class="LineNumber"> 002 </span>อตฺถฺจ  ธมฺมฺจ  ายฺจ  ปุจฺฉิ (๑)ฯ  ตตฺถ  กถฺเจเก  
+<span class="LineNumber"> 003 </span>อธมฺมฏฺ€าติ  เอกจฺเจ  อธมฺเม  €ิตา  กถํ  นิรยฺเจว  อโธสิรา(๒)  
+<span class="LineNumber"> 004 </span>อุทฺธปาทา อปาเย จ(๒) ปตนฺตีติ ฯ  
+<span class="LineNumber"> 005 </span>	ตํ  ปน  ปฺหํ  สพฺพฺูพุทฺธปจฺเจกพุทฺธพุทฺธสาวกมหา-
+<span class="LineNumber"> 006 </span>โพธิสตฺเตสุ  ปุริมสฺส  ปุริมสฺส  อลาเภน  ปจฺฉิมํ  ปจฺฉิมํ 
+<span class="LineNumber"> 007 </span>ปุจฺฉิตพฺพยุตฺตกํ (๓) มเหสกฺขปฺหํ  ราชา  กิฺจิ  ปฺหํ  อชานนฺตํว 
+<span class="LineNumber"> 008 </span>นคฺคโภคํ  นิสฺสิรีกํ  อนฺธพาลํ  อาชีวกํ  ปุจฺฉิ ฯ
+<span class="LineNumber"> 009 </span>	โส(๔)  เอวํ  ปุจฺฉิโต  ปุจฺฉานุรูปํ  พฺยากรณํ  อทิสฺวา  จรนฺตํ 
+<span class="LineNumber"> 010 </span>โคณํ  ทณฺเฑน  ปหรนฺโต  วิย  ภตฺตวฑฺฒิกาย(๕)  กจวรํ  ขิปนฺโต 
+<span class="LineNumber"> 011 </span>วิย ฯ สุณ มหาราชาติ โอกาสํ กาเรตฺวา  อตฺตโน มิจฺฉาวาทํ 
+<span class="LineNumber"> 012 </span>ปฏฺ€เปสิ ฯ  
+<span class="LineNumber"> 013 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห ฯ  
+<span class="LineNumber"> 014 </span>	[๘๔๕]เวเทหสฺส วโจ สุตฺวา	กสฺสโป เอตทพฺรวิ  
+<span class="LineNumber"> 015 </span>		สุโณหิ เม มหาราช	สจฺจํ อวิตถํ ปทํ  
+<span class="LineNumber"> 016 </span>		นตฺถิ ธมฺมสฺส จริตสฺส	ผลํ กลฺยาณปาปกํ  
+<span class="LineNumber"> 017 </span>		นตฺถิ เทว  ปรโลโก(๖)	โก ตโต หิ อิธาคโต  
+<span class="LineNumber"> 018 </span>		นตฺถิ เทว ปิตโร วา	กุโต มาตา กุโต ปิตา  
+<span class="LineNumber"> 019 </span>		นตฺถิ อาจริโย นาม	อทนฺตํ โก ทเมสฺสติ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปุจฺฉติ ฯ  ๒. ม. อโถ เสสอปาเย จ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ปุจฺฉิตพฺพกํ ฯ ๔. ม. โสปิ ฯ ๕. ส. ภตฺตวฑฺฒิยํ ฯ
+<span class="LineNumber"> 022 </span># ม. ภตฺตปาติยํ ฯ ก. ภตฺตวฏิกาย ฯ ๖. ม. ปโร โลโก ฯ 

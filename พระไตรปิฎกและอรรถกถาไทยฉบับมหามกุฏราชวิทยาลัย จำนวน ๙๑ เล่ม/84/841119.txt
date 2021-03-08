@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>อตีตานาคตวาระ  ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ    โทมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๑๔๔๕]   บุคคลใดไม่ใช่เคยรู้แจ้งจักขุนทรีย์     บุคคลนั้นก็
+<span class="LineNumber"> 005 </span>ไม่ใช่จักละโทมนัสสินทรีย์  ใช่ไหม   ? 
+<span class="LineNumber"> 006 </span>         บุคคลจำพวก   ไม่ใช่เคยรู้แจ้งจักขุนทรีย์   แต่จักละโทมนัส-
+<span class="LineNumber"> 007 </span>สินทรีย์   บุคคล ๕ จำพวก ไม่ใช่เคยรู้แจ้งจักขุนทรีย์   และไม่ใช่ก็จักละ
+<span class="LineNumber"> 008 </span>โทมนัสสินทรีย์.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า    บุคคลใดไม่ใช่จักละโทมนัสสินทรีย์,    บุคคลนั้นก็
+<span class="LineNumber"> 010 </span>ไม่ใช่เคยรู้แจ้งจักขุนทรีย์  ใช่ไหม   ?
+<span class="LineNumber"> 011 </span>         พระอรหันต์ไม่ใช่จักละโทมนัสสินทรีย์      แต่เคยรู้แจ้งจักขุน-
+<span class="LineNumber"> 012 </span>ทรีย์,    บุคคล  ๔  จำพวก   ไม่ใช่จักละโทมนัสสินทรีย์   และก็ไม่ใช่เคย
+<span class="LineNumber"> 013 </span>รู้แจ้งจักขุนทรีย์.
+<span class="LineNumber"> 014 </span>                     <I>จบ   จักขุนทริยมูละ  โทมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 015 </span><B>จักขุนทริยิมูละ  อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 016 </span>         [๑๔๔๖]   บุคคลใดไม่ใช่เคยรู้แจ้งจักขุนทรีย์,      บุคคลนั้นก็
+<span class="LineNumber"> 017 </span>ไม่ใช่จักเจริญอนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?

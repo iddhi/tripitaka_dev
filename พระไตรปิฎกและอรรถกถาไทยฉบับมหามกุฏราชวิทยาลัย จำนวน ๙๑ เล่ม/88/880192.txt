@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 002 </span>           [๑๖๘]   ในเหตุปัจจัย   มี ๑ วาระ    ในอารัมมณปัจจัย    มี ๑ วาระ 
+<span class="LineNumber"> 003 </span>ฯลฯ   ในอวิคตปัจจัย   มี ๑ วาระ.
+<span class="LineNumber"> 004 </span>                                            <I>อนุโลมนัย   จบ</I>  
+  
+<span class="LineNumber"> 005 </span>                                               <H1>ปัจจนียนัย</H1>   
+<span class="LineNumber"> 006 </span>                                           <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 007 </span>           [๑๖๙] ๑.  <B>สัปปัจจยธรรม     อาศัยสัปปัจจยธรรม     เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะนเหตุปัจจัย</B>              
+<span class="LineNumber"> 009 </span>           คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑   ที่เป็นสัปปัจจย-
+<span class="LineNumber"> 010 </span>ธรรม  ซึ่งเป็นอเหตุกะ  ฯลฯ  ขันธ์ ๒ ฯลฯ 
+<span class="LineNumber"> 011 </span>           ในอเหตุกปฏิสนธิขณะ ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 012 </span>           โมหะ   ที่สหรคตด้วยวิจิกิจฉา    ที่สหรคตด้วยอุทธัจจะ    อาศัยขันธ์
+<span class="LineNumber"> 013 </span>ทั้งหลาย   ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ ฯลฯ  
+
+<span class="LineNumber"> 014 </span>                                 <H1>การนับจำนวนวาระในปัจจนียะ</H1> 
+<span class="LineNumber"> 015 </span>           [๑๗๐]  ในนเหตุปัจจัย  มี ๑ วาระ  ในนอารัมมณปัจจัย มี  ๑  วาระ
+<span class="LineNumber"> 016 </span>ในนอธิปติปัจจัย   มี ๑ วาระ ฯลฯ   ในนอวิคตปัจจัย   มี ๑ วาระ.
+<span class="LineNumber"> 017 </span>                                               <I>ปัจจนียนัย  จบ</I>

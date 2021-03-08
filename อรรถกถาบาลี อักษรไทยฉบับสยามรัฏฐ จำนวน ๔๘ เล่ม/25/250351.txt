@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อฏฺ€มวคฺเค มาณวตฺเถรคาถาวณฺณนา หน้า 351
+	
+<span class="LineNumber"> 002 </span>		ยสฺมิฺจ ชายมานสฺมึ	ทสสหสฺสิ กมฺปติ  
+<span class="LineNumber"> 003 </span>		โส ทานิ ภควา สตฺถา	ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 004 </span>		ยสฺมิฺจ ชายมานสฺมึ	อาโลโก วิปุโล อหุ  
+<span class="LineNumber"> 005 </span>		โส ทานิ ภควา สตฺถา	ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 006 </span>		ยสฺมิฺจ ชายมานสฺมึ	สริตาโย น สนฺทยุํ(๑)  
+<span class="LineNumber"> 007 </span>		โส ทานิ ภควา สตฺถา	ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 008 </span>		ยสฺมิฺจ ชายมานสฺมึ	อวีจคฺคิ (๒) น ปชฺชลิ  
+<span class="LineNumber"> 009 </span>		โส ทานิ ภควา สตฺถา	ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 010 </span>		ยสฺมิฺจ ชายมานสฺมึ	ปกฺขิสงฺโฆ น สฺจริ  
+<span class="LineNumber"> 011 </span>		โส ทานิ ภควา สตฺถา	ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 012 </span>		ยสฺมิฺจ ชายมานสฺมึ	วาตกฺขนฺโธ น วายติ (๓)  
+<span class="LineNumber"> 013 </span>		โส ทานิ ภควา สตฺถา	ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 014 </span>		ยสฺมิฺจ ชายมานสฺมึ	สพฺพรตนานิ โชตยุํ(๔)  
+<span class="LineNumber"> 015 </span>		โส ทานิ ภควา สตฺถา	ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 016 </span>		ยสฺมิฺจ ชายมานสฺมึ	สตฺตาสุํ ปทวิกฺกมา  
+<span class="LineNumber"> 017 </span>		โส ทานิ ภควา สตฺถา	ธมฺมํ เทเสติ จกฺขุมา ฯ  
+<span class="LineNumber"> 018 </span>		ชาตมตฺโต จ สมฺพุทฺโธ	ทิสา สพฺพา วิโลกยิ  
+<span class="LineNumber"> 019 </span>		วาจาสภิมุทีเรสิ		เอสา พุทฺธาน ธมฺมตา ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. สริตาโย น สนฺทิสุํ ฯ  ๒. สี. อวีจิมคฺคิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. วาตคนฺโธ น วายถ ฯ ๔. สฺยา. โชติสุํ ฯ

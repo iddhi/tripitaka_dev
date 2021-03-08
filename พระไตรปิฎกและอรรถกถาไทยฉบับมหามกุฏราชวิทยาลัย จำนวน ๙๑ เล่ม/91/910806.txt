@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๗๘๐] ในเหตุปัจจัย  มี ๕ วาระ ฯลฯ
+
+<span class="LineNumber"> 003 </span>         <I>กุสลติกอาจยคามิติกนกุสลติกนอาจยคามิติกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                     <H1>กุสลติกเสกขติกนกุสลติกนเสกขติกะ</H1>
+<span class="LineNumber"> 005 </span>                    <H2>(๑. กุสลติกะ  ๑๐.  เสกขติกะ)</H2>
+<span class="LineNumber"> 006 </span>                                       <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 007 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>                                          <H2>เสกขบท</H2>
+<span class="LineNumber"> 010 </span>           [๗๘๑] ๑.  <B>ธรรมที่ไม่ใช่เสกขธรรม   ที่ไม่ใช่กุศล     อาศัย
+<span class="LineNumber"> 011 </span>เสกขธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มีมูล  ๒ มี ๖ วาระ.
+<span class="LineNumber"> 012 </span>                                                  <B>ฯลฯ</B>
+
+<span class="LineNumber"> 013 </span>                                            <H2>อเสกขบท</H2>
+<span class="LineNumber"> 014 </span>           [๗๘๒]  ๑.  <B>ธรรมที่ไม่ใช่อเสกขธรรม  ที่ไม่ใช่กุศล  อาศัย
+<span class="LineNumber"> 015 </span>อเสกขธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>                                                    <B>ฯลฯ</B>

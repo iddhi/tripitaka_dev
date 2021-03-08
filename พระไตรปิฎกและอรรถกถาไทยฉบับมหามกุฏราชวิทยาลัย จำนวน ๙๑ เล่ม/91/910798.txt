@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>                    	 
+<span class="LineNumber"> 002 </span>           [๗๕๒]  ในเหตุปัจจัย  มี  ๑๓ วาระ ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                  <H2>อวิตักกอวิจารบท</H2>
+<span class="LineNumber"> 004 </span>           [๗๕๓] ๑. <B>ธรรมที่ไม่ใช่อวิตักกอวิจารธรรม    ที่ไม่ใช่กุศล
+<span class="LineNumber"> 005 </span>อาศัยอวิตักกอวิจารธรรม   ที่เป็นกุศล    เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>มี  ๓ วาระ.
+<span class="LineNumber"> 007 </span>                       ๒. <B>ธรรมที่ไม่ใช่อวิตักกอวิจารธรรม    ที่ไม่ใช่กุศล
+<span class="LineNumber"> 008 </span>อาศัยอวิตักกอวิจารธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>มี ๓ วาระ
+
+<span class="LineNumber"> 010 </span>                          <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๗๕๔]  ในเหตุปัจจัย  มี  ๖  วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>                    <I>กุสลติกสวิตักกติกนกุสลติกนสวิตักกติกะ  จบ</I>

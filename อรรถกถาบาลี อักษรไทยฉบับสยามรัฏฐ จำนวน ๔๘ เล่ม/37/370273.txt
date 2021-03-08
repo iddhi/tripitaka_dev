@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 273
+
+<span class="LineNumber"> 002 </span>	ชาตรูปมยา กณฺณา	กาจมฺหิจมยา ขุรา  
+<span class="LineNumber"> 003 </span>	ชมฺโพนทสฺส ปากสฺส	สุวณฺณสฺส อุรจฺฉโท  
+<span class="LineNumber"> 004 </span>	เทววาหวหํ ยานํ		อสฺสมารุยฺห ปุณฺณโก  
+<span class="LineNumber"> 005 </span>		อลงฺกโต กปฺปิตเกสมสฺสุ  
+<span class="LineNumber"> 006 </span>		ปกฺกามิ เวหาย สมนฺตลิกฺเขติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ อามนฺตยาติ อามนฺเตตฺวา(๑) ฯ  
+<span class="LineNumber"> 008 </span>	โส โอกาเสน คจฺฉนฺโตเยว จินฺเตสิ วิธุรปณฺฑิโต  
+<span class="LineNumber"> 009 </span>มหาปริวาโร  น  สกฺกา  มยา(๒)  ตํ คณฺหิตุํ ธนฺชยโกรโพฺย ปน
+<span class="LineNumber"> 010 </span>ชูตจิตฺตโก(๓)  ตํ  ชูเตน  ชินิตฺวา  วิธุรํ  คณฺหิสฺสามิ  ฆเร  ปนสฺส
+<span class="LineNumber"> 011 </span>พหูนิ  รตนานิ  อปฺปคฺเฆน  ลกฺเขน  รตเนน  ชูตํ  น  กีฬิสฺสติ  
+<span class="LineNumber"> 012 </span>โย ราชานํ ชินิสฺสติ โส  มหคฺฆรตนํ  หริตุํ วฏฺฏติ อฺํ รตนํ 
+<span class="LineNumber"> 013 </span>ราชา น คณฺหิสฺสติ ราชคหนครสามนฺเต  วิปุลปพฺพตนฺตเร(๔)
+<span class="LineNumber"> 014 </span>จกฺกวตฺติรฺโ  ปริโภคํ  มณิรตนํ(๕)  อตฺถิ  มหานุภาวํ  ตํ  คเหตฺวา
+<span class="LineNumber"> 015 </span>เตน  ราชานํ  ปโลเภตฺวา  ราชานํ  ชนิสฺสามีติ (๖)ฯ โส ตถา
+<span class="LineNumber"> 016 </span>อกาสิ ฯ  
+<span class="LineNumber"> 017 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 018 </span>	[๙๑๓]โส อคมา(๗) ราชคหํ สุรมฺมํ  
+<span class="LineNumber"> 019 </span>		องฺคสฺส รฺโ นครํ ทุราสทํ(๘)  
+<span class="LineNumber"> 020 </span># ๑. ม. อามนฺตยิตฺวา ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ  
+<span class="LineNumber"> 021 </span># ๓. ม. ราชคหสฺส สามนฺตา เวปุลฺลปพฺพตพฺภนฺตเร ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. ปริโภคมณิรตนํ ฯ ๖. ม. ชินิสฺสามีติ ฯ 
+<span class="LineNumber"> 023 </span># ๗. ม. อคฺคมา ฯ  ๘. ม. ทุรายุตํ ฯ

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 002 </span>            อันภิกษุไม่พึงเดินโคลงศีรษะไปในละแวกบ้าน  พึงเดินประคองศีรษะ
+<span class="LineNumber"> 003 </span>ไป  ภิกษุใดอาศัยความไม่เอื้อเฟื้อ   เดินโคลงศีรษะไปในละแวกบ้าน  ทำท่าคอ
+<span class="LineNumber"> 004 </span>พับ  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 005 </span>                                     <H2>อนาปัตติวาร</H2> 
+<span class="LineNumber"> 006 </span>            ไม่แกล้ง ๑ เผลอ ๑ ไม่รู้ตัว ๑  อาพาธ ๑  มีอันตราย ๑ วิกลจริต  ๑
+<span class="LineNumber"> 007 </span>อาทิกัมมิกะ ๑ ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 008 </span>                       <I>อุชชัคฆิกวรรค  สิกขาบทที่   ๙  จบ</I>
+
+<span class="LineNumber"> 009 </span>                    <H2>อุชชัคฆิกวรรค  สิกขาบทที่   ๑๐</H2>
+<span class="LineNumber"> 010 </span>            [๘๑๙]  สาวัตถีนิทาน.  ครั้งนั้น   พระฉัพพัคคีย์นั่งโคลงศรีษะใน
+<span class="LineNumber"> 011 </span>ละแวกบ้าน   ทำท่าคอพับ. . .
+<span class="LineNumber"> 012 </span>		                   <H2>พระบัญญัติ</H2>
+<span class="LineNumber"> 013 </span>              ๑๖๕.  ๒๐.  ภิกษุพึงทำความศึกษาว่า เราจักไม่โคลงศีรษะนั่ง
+<span class="LineNumber"> 014 </span>ในละแวกบ้าน.
+<span class="LineNumber"> 015 </span>                               <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 016 </span>             อันภิกษุไม่พึงนั่งโคลงศีรษะในละแวกบ้าน   พึงนั่งประคองศีรษะ
+<span class="LineNumber"> 017 </span>ภิกษุใดอาศัยความไม่เอื้อเฟื้อ     นั่งโคลงศีรษะในแวกบ้าน     ทำศรีษะให้ห้อย
+<span class="LineNumber"> 018 </span>ต้องอาบัติทุกกฏ.

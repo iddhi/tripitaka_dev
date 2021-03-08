@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 002 </span>                       ส. บุคคลผู้มีความพร้อมเพรียงด้วยมโนวิญญาณ    ยัง
+<span class="LineNumber"> 003 </span>มรรคให้เกิดได้   และมโนวิญญาณปรารภผัสสะ  ฯลฯ   ปรารภโผฏฐัพพะ
+<span class="LineNumber"> 004 </span>เกิดขึ้นหรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ส. บุคคลผู้มีความพร้อมเพรียงด้วยจักขุวิญญาณ    ยัง
+<span class="LineNumber"> 007 </span>มรรคให้เกิดได้   และจักขุวิญญาณปรารภผัสสะ  ฯลฯ   ปรารภโผฏฐัพพะ
+<span class="LineNumber"> 008 </span>เกิดขึ้นหรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>         [๑๓๙๑]   ส. ไม่พึงกล่าวว่า    บุคคลผู้มีความพร้อมเพรียงด้วย
+<span class="LineNumber"> 011 </span>วิญญาณ  ๕  ยังมรรคให้เกิดได้  หรือ ?
+<span class="LineNumber"> 012 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ป. พระผู้มีพระภาคเจ้าได้ตรัสไว้ว่า   <B>ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 014 </span>ภิกษุในธรรมวินัยนี้  เห็นรูปด้วยจักษุแล้ว  เป็นผู้ไม่ถือนิมิต  ไม่ถือโดย
+<span class="LineNumber"> 015 </span>อนุพยัญชนะ  ฯลฯ  ฟังเสียงด้วยโสตแล้ว  ฯลฯ  สูดกลิ่นด้วยฆานะแล้ว
+<span class="LineNumber"> 016 </span>ฯลฯ  ลิ้มรสด้วยชิวหาแล้ว  ฯลฯ  ถูกต้องโผฏฐัพพะ  ด้วยกายแล้ว  เป็นผู้
+<span class="LineNumber"> 017 </span>ไม่ถือนิมิต  ไม่ถือโดยอนุพยัญชนะ</B>  ดังนี้<SUP>๑</SUP>   เป็นสูตรมีอยู่จริง  มิใช่หรือ  ?
+<span class="LineNumber"> 018 </span>                       ส. ถูกแล้ว. 
+<span class="LineNumber"> 019 </span>                       ป. ถ้าอย่างนั้น  บุคคลผู้มีความพร้อมเพรียงด้วยวิญญาณ
+<span class="LineNumber"> 020 </span>๕   ก็ยังมรรคให้เกิดได้   น่ะสิ.
+<span class="LineNumber"> 021 </span>                        <I>ปัญจวิญญาณสมังคิมัคคภาวนากถา  จบ</I>
+
+<span class='footnote'>๑. ม.ม.  ๑๒/๓๘๗,  องฺ.  จตุกฺก  ๒๑/๓๗.</span>

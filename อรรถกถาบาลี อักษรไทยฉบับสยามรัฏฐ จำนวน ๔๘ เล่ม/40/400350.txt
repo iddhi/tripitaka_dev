@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  มหาวคฺควณฺณนา  หน้า  350
+
+<span class="LineNumber"> 002 </span>สเทวมนุสฺสาย  ตถาคโต  อภิภู อนภิภูโต อฺทตฺถุทโส 
+<span class="LineNumber"> 003 </span>วสวตฺตี ฯ ตสฺมา ตถาคโตติ วุจฺจตีติ(๑) ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺเถวํ  ปทสิทฺธิ  เวทิตพฺพา  อคโท  วิย  อคโท ฯ โก
+<span class="LineNumber"> 005 </span>ปเนส เทสนาวิลาโส  เจว  ปุฺมโย(๒)  จ ฯ  เตน  เหส  มหานุ-
+<span class="LineNumber"> 006 </span>ภาโว  ภิสโก(๓)  ทิพฺพาคเทน  สปฺเป  วิย  สพฺพปรปฺปวาทิโน 
+<span class="LineNumber"> 007 </span>สเทวกฺจ  โลกํ  อภิภวติ ฯ  อิติ  สพฺพโลกาภิภเว  ตโถ  อวิปรีโต 
+<span class="LineNumber"> 008 </span>เทสนาวิลาสมโย  เจว  ปุฺุสฺสโย  จ  อคโท  อสฺสาติ  ทการสฺส 
+<span class="LineNumber"> 009 </span>ตการํ  กตฺวา ตถาคโตติ เวทิตพฺโพ ฯ เอวํ อภิภวฏฺเ€น 
+<span class="LineNumber"> 010 </span>ตถาคโต ฯ 
+<span class="LineNumber"> 011 </span>	อปิจ  ตถาย  คโตติปิ  ตถาคโต  ตถํ  คโตติปิ  ตถาคโตติ ฯ 
+<span class="LineNumber"> 012 </span>คโตติ  อวคโต  อตีโต  ปตฺโต  ปฏิปนฺโนติ  อตฺโถ ฯ
+<span class="LineNumber"> 013 </span>	ตตฺถ  สกลํ  โลกํ  ตีรณปริฺาย  ตถาย  คโต  อวคโตติ  
+<span class="LineNumber"> 014 </span>ตถาคโต  โลกสมุทยํ  ปหานปริฺาย  ตถาย  คโต  อตีโตติ 
+<span class="LineNumber"> 015 </span>ตถาคโต  โลกนิโรธํ  สจฺฉิกิริยาย  ตถาย  คโต  ปตฺโตติ  ตถาคโต 
+<span class="LineNumber"> 016 </span>โลกนิโรธคามินิปฏิปทํ ตถํ  คโต  ปฏิปนฺโนติ  ตถาคโต ฯ 
+<span class="LineNumber"> 017 </span>	เตน  ยํ  วุตฺตํ  ภควตา  โลโก  ภิกฺขเว  ตถาคเตน  
+<span class="LineNumber"> 018 </span>อภิสมฺพุทฺโธ  โลกสฺมา  ตถาคโต  วิสํยุตฺโต ฯ  โลกสมุทโย  ภิกฺขเว
+<span class="LineNumber"> 019 </span>ตถาคเตน  อภิสมฺพุทฺโธ  โลกสมุทโย  ตถาคตสฺส  ปหีโน ฯ  
+<span class="LineNumber"> 020 </span>โลกนิโรโธ  ภิกฺขเว  ตถาคเตน  อภิสมฺพุทฺโธ  โลกนิโรโธ
+<span class="LineNumber"> 021 </span># ๑. องฺ. จตุกฺก. ๒๑/๒๓/๓๐ ฯ  ๒. ม. ปุฺุสฺสโย ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. ภิสกฺโก ฯ 

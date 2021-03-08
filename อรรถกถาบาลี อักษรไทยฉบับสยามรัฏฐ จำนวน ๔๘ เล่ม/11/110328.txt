@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  หน้า  ๓๒๘
+
+<span class="LineNumber"> 002 </span>		ทิทฺธสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	สตฺตเม  ทิทฺธคเตนาติ (๑) คตทิฏฺเ€น ฯ  วิเสนาติ  (๒)
+<span class="LineNumber"> 004 </span>วิสมกฺขิเตน ฯ  สลฺเลนาติ สตฺติยา ฯ  
+<span class="LineNumber"> 005 </span>			สตฺตมํ                
+
+<span class="LineNumber"> 006 </span>		สิคาลสุตฺตวณฺณนา           
+<span class="LineNumber"> 007 </span>	อฏฺ€เม  ชรสิคาโลติ  (๓)  สิคาโล ฯ  ยถา  หิ  สุวณฺณวณฺโณปิ 
+<span class="LineNumber"> 008 </span>กาโย  ปูติกาโยเตฺวว  ตํขณํ  คฬิตมฺปิ  จ(๔)  มุตฺตํ  ปูติมุตฺตนฺเตฺวว 
+<span class="LineNumber"> 009 </span>วุจฺจติ  เอวํ ตทหุชาโตปิ สิคาโล ชรสิคาโลเตฺวว วุจฺจติ ฯ 
+<span class="LineNumber"> 010 </span>อุกฺกณฺฏเกน(๕) นามาติ เอวํนามเกน โรเคน ฯ  โส  กิร  สีตกาเล  
+<span class="LineNumber"> 011 </span>อุปฺปชฺชติ ฯ  ตสฺมึ  อุปฺปนฺเน  สกลสรีรโต  โลมานิ  ปตนฺติ 
+<span class="LineNumber"> 012 </span>สกลสรีรํ  นิลโลมํ  หุตฺวา  สมนฺตโต  ปูฏติ  (๖)  วาตพฺภาหตา 
+<span class="LineNumber"> 013 </span>วณา รุชฺชนฺติ ฯ ยถา อุมฺมตฺตกสุนเขน  ทฏฺโ€  ปุริโส  
+<span class="LineNumber"> 014 </span>อนวตฺถิโตว  ภมติ  เอวํ  ตสฺมึ  อุปฺปนฺเน คมิตพฺโพ(๗) โหติ
+<span class="LineNumber"> 015 </span>อสุกฏฺ€าเน โสตฺถิ ภวิสฺสตีติ น ปฺายติ ฯ 
+<span class="LineNumber"> 016 </span>			อฏฺ€มํ ฯ     
+<span class="LineNumber"> 017 </span># ๑. ม. ทิทฺธคเตนาติ คตทิทฺเธน ฯ  ๒. ม. วิสฺสลฺเลนาติ ฯ
+<span class="LineNumber"> 018 </span># ๓. ม. ยุ. สิงฺคาโลติ ชรสิงฺคาโล ฯ  ๔. ม. คฬิตมฺปิ ฯ
+<span class="LineNumber"> 019 </span># ๕. ม. อุกฺกณฺฏเกน ฯ  ๖. ม. ยุ. ผุฏติ ฯ ๗. ม. ภมิตพฺโพ ฯ

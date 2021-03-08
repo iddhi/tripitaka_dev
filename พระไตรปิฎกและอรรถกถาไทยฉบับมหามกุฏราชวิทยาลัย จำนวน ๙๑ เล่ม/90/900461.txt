@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>       		     <H1>นีวรณวิปปยุตตนีวรณิยทุกกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>   <H2>(๔๙.  นีวรณวิปปยุตตนีวรณิยทุกะ  ๑.  กุสลติกะ)</H2>    
+<span class="LineNumber"> 003 </span>               			<H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>               			<H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 005 </span>              		    <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๓๗๗]  ๑.  กุศลธรรมที่เป็นนีวรณวิปปยุตตนีวรณิยธรรม
+<span class="LineNumber"> 007 </span>อาศัยกุศลธรรมที่เป็นนีวรณวิปยุตตนีวรณิยธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 008 </span>เหตุปัจจัย
+<span class="LineNumber"> 009 </span>      		      ๒.  กุศลธรรมที่เป็นนีวรณวิปปยุตตอนีวรณิยธรรม
+<span class="LineNumber"> 010 </span>อาศัยกุศลธรรมที่เป็นนีวรณวิปปยุตตอนีวรณิยธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 011 </span>เหตุปัจจัย
+<span class="LineNumber"> 012 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 013 </span>		[๑๓๗๘]  ในเหตุปัจจัย มี ๒ วาระ    ในอารัมมณปัจจัย มี ๒ วาระ
+<span class="LineNumber"> 014 </span>ฯลฯ  ในอวิคตปัจจัย มี ๒  วาระ.
+<span class="LineNumber"> 015 </span>        สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดาร.
+	

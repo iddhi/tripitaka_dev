@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  ธาตุกถาปกรณวณฺณนา หน้า 10
+
+<span class="LineNumber"> 002 </span>เอกโต  คหิตา ฯ  ยถา  เจเต เอวํ  สพฺพตฺติกทุกปเทสุ  ยํ  ยํ
+<span class="LineNumber"> 003 </span>ปทํ  เยน  เยน  ปเทน  สทฺธึ  สทิสวิสฺสชฺชนํ โหติ  ตํ  ตํ
+<span class="LineNumber"> 004 </span>อุปฺปฏิปาฏิยาปิ  เตน  เตน  สทฺธึ  คเหตฺวา  วิสฺสชฺชิตํ ฯ  ตตฺถ
+<span class="LineNumber"> 005 </span>วุตฺตานุสาเรเนว สงฺคหาสงฺคหนโย เวทิตพฺโพติ ฯ 
+<span class="LineNumber"> 006 </span>		สงฺคหาสงฺคหปทวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 007 </span>		สงฺคหิเตนอสงฺคหิตปทวณฺณนา 
+<span class="LineNumber"> 008 </span>	อิทานิ  สงฺคหิเตนอสงฺคหิตปทํ  ภาเชตุํ  จกฺขฺวายตเนนาติ-
+<span class="LineNumber"> 009 </span>อาทิ  อารทฺธํ ฯ  ตตฺริทํ  ลกฺขณํ อิมสฺมิฺหิ  วาเร  ยํ
+<span class="LineNumber"> 010 </span>ขนฺธปเทน  สงฺคหิตํ  หุตฺวา อายตนธาตุปเทหิ  อสงฺคหิตํ
+<span class="LineNumber"> 011 </span>ขนฺธายตนปเทหิ  วา  สงฺคหิตํ  หุตฺวา  ธาตุปเทน  อสงฺคหิตํ 
+<span class="LineNumber"> 012 </span>ตสฺส  ขนฺธาทีหิ  อสงฺคหิตํ  (๑)  ปุจฺฉิตฺวา  วิสฺสชฺชนํ  กตํ ฯ ตมฺปน
+<span class="LineNumber"> 013 </span>รูปกฺขนฺธาทีสุ  น  ยุชฺชติ ฯ  รูปกฺขนฺเธน  หิ  รูปกฺขนฺโธว 
+<span class="LineNumber"> 014 </span>สงฺคหิโต  โส  จ อฑฺเฒกาทสหิ  อายตนธาตูหิ  อสงฺคหิโต
+<span class="LineNumber"> 015 </span>นาม  นตฺถิ ฯ  เวทนากฺขนฺเธน  จ  เวทนากฺขนฺโธว  สงฺคหิโต
+<span class="LineNumber"> 016 </span>โสปิ  ธมฺมายตนธมฺมธาตูหิ  อสงฺคหิโต  นาม  นตฺถิ ฯ  เอวํ
+<span class="LineNumber"> 017 </span>อสงฺคหิตตาย  อภาวโต  เอตานิ  อฺานิ  จ  เอวรูปานิ
+<span class="LineNumber"> 018 </span>มนายตนธมฺมายตนาทีนิ  ปทานิ  อิมสฺมึ  วาเร  น  คหิตานิ ฯ
+<span class="LineNumber"> 019 </span>ยานิ  ปน  ปทานิ  รูเปกเทสํ  อรูเปน  อสมฺมิสฺสํ  วิฺาเณก-
+<span class="LineNumber"> 020 </span># ๑. ม. อสงฺคหํ ฯ

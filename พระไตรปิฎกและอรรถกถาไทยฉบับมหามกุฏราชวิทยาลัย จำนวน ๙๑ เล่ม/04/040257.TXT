@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                    <h2>หัวข้อประจำเรื่อง</h2>
+<span class="LineNumber"> 002 </span>๑.  มุสาวาทสิกขาบท             ว่าด้วยพูดเท็จ
+<span class="LineNumber"> 003 </span>๒.  โอมสวาทสิกขาบท           ว่าด้วยพูดเสียดสี
+<span class="LineNumber"> 004 </span>๓.  เปสุญญสิกขาบท               ว่าด้วยพูดส่อเสียด
+<span class="LineNumber"> 005 </span>๔.  ปทโสธัมมสิกขาบท          ว่าด้วยสอนธรรมว่าพร้อมกัน
+<span class="LineNumber"> 006 </span>๕.   ปฐมสหเสยยสิกขาบท      ว่าด้วยนอนร่วมกับอนุปสัมบัน
+<span class="LineNumber"> 007 </span>๖.  ทุติยสหเสยยสิกขาบท    ว่าด้วยนอนร่วมกับมาตุคาม
+<span class="LineNumber"> 008 </span>๗.  ธัมมเทสนาสิกขาบท         ว่าด้วยแสดงธรรม
+<span class="LineNumber"> 009 </span>๘.  ภูตาโรจนสิกขาบท             ว่าด้วยบอกอุตริมนุสธรรม
+<span class="LineNumber"> 010 </span>๙.  ทุฏฐุลลาโรจนสิกขาบท    ว่าด้วยบอกอาบัติชั่วหยาบ
+<span class="LineNumber"> 011 </span>๑๐.  ปฐวีขนนสิกขาบท           ว่าด้วยขุดดิน.

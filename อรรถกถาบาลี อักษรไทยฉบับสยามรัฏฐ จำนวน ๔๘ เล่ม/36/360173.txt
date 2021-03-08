@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  สุวณฺณสามชาตกํ  หน้า 173
+
+<span class="LineNumber"> 002 </span>		อิธ ธมฺมํ จริตฺวาน		ราช สคฺคํ คมิสฺสสิ  
+<span class="LineNumber"> 003 </span>		ธมฺมฺจร มหาราช		พาหเนสุ พเลสุ จ  
+<span class="LineNumber"> 004 </span>		อิธ ธมฺมํ จริตฺวาน		ราช สคฺคํ คมิสฺสสิ  
+<span class="LineNumber"> 005 </span>		ธมฺมฺจร มหาราช		คาเมสุ มิคเมสุ จ  
+<span class="LineNumber"> 006 </span>		อิธ ธมฺมํ จริตฺวาน		ราช สคฺคํ คมิสฺสสิ  
+<span class="LineNumber"> 007 </span>		ธมฺมฺจร มหาราช		รฏฺเ€ ชนปเทสุ จ  
+<span class="LineNumber"> 008 </span>		อิธ ธมฺมํ จริวาน			ราช สคฺคํ คมิสฺสสิ  
+<span class="LineNumber"> 009 </span>		ธมฺมฺจร มหาราช		สมเณ พฺราหฺมเณสุ จ  
+<span class="LineNumber"> 010 </span>		อิธ ธมฺมํ จริตฺวาน		ราช สคฺคํ คมิสฺสสิ  
+<span class="LineNumber"> 011 </span>		ธมฺมฺจร มหาราช		มิคปกฺขีสุ ขตฺติย  
+<span class="LineNumber"> 012 </span>		อิธ ธมฺมํ จริตฺวาน		ราช สคฺคํ คมิสฺสสิ  
+<span class="LineNumber"> 013 </span>		ธมฺมฺจร มหาราช		ธมฺโม สุจิณฺโณ สุขมาวหาติ  (๑)
+<span class="LineNumber"> 014 </span>		อิธ ธมฺมํ จริตวาน		ราช สคฺคํ คมิสฺสสิ  
+<span class="LineNumber"> 015 </span>		ธมฺมฺจร มหาราช		อินฺทา เทวา สพฺรหฺมกา  
+<span class="LineNumber"> 016 </span>		สุจิณฺเณน ทิวํ ปตฺตา		มา ธมฺมํ ราช ปามโทติ ฯ  
+<span class="LineNumber"> 017 </span>	ตาสํ ปน คาถานํ อตฺโถ สกุณชาตเก วิตฺถาริโตว โหติ (๒) ฯ  
+<span class="LineNumber"> 018 </span>	เอวํ  มหาสตฺโต  รฺโ  ธมฺมํ  เทเสตฺวา  อุตฺตรึปิ  โอวทนฺโต  
+<span class="LineNumber"> 019 </span>ปฺจ  สีลานิ  อทาสิ ฯ  ราชา  ตสฺส  โอวาทํ  สิรสา  สมฺปฏิจฺฉิตฺวา  
+<span class="LineNumber"> 020 </span># ๑. ส. ม. ยุ. ธมฺโม จิณฺโณ สุขาวโห ฯ  ๒. ยุ. ปมาโทติ ฯ

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>จิตตสมุฏฐานทุกกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>                    <H2>โนจิตตสมุฏฐานทุกนกุสลติกะ</H2>
+<span class="LineNumber"> 003 </span>               <H2>(๖๐. จิตตสมุฏฐานทุกะ  ๑. กุสลติกะ)</H2> 
+<span class="LineNumber"> 004 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                         <H2>กุศลบท</H2>	
+<span class="LineNumber"> 008 </span>           [๒๘๖]  ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่ธรรมที่ไม่ใช่จิตต-	
+<span class="LineNumber"> 009 </span>สมุฏฐานธรรม  อาศัยธรรมที่เป็นกุศล  ที่เป็นจิตตสมุฏฐานธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๓ วาระ.
+
+<span class="LineNumber"> 011 </span>                                          <H2>อกุศลบท</H2>
+<span class="LineNumber"> 012 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่ธรรมที่ไม่ใช่จิตต-
+<span class="LineNumber"> 013 </span>สมุฏฐานธรรม  อาศัยธรรมที่เป็นอกุศล  ที่เป็นจิตตสมุฏฐานธรรม
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓  วาระ.
+<span class="LineNumber"> 015 </span>	อัพยากตบท  มี  ๓  วาระ.
+<span class="LineNumber"> 016 </span>      <I>จิตตสมุฏฐานทุกกุสลติกโนจิตตสมุฏฐานทุกนกุสลติกะ  จบ</I>

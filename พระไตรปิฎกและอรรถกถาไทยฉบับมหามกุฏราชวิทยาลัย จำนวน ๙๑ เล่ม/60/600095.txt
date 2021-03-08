@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๙.  สุปปารกชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                           <H2>ว่าด้วยทะเล  ๖  ประการ</H2>
+
+<span class="LineNumber"> 003 </span>                        [๑๕๘๘]    <B>พวกมนุษย์จมูกแหลมดำผุดคำว่ายอยู่
+<span class="LineNumber"> 004 </span>              พวกข้าพเจ้าขอถามท่านสุปปารกะ  ทะเลนี้ชื่ออะไร.</B>
+<span class="LineNumber"> 005 </span>                        [๑๕๘๙]    <B>เมื่อท่านทั้งหลาย  ผู้เป็นพ่อค้าแสวงหา
+<span class="LineNumber"> 006 </span>              ทรัพย์ออกจากท่าชื่อภรุกัจฉะ  ครั้นเรือแล่นไปผิดทาง
+<span class="LineNumber"> 007 </span>              มาถึงทะเลตอนนี้เขาเรียกกันว่า  ขุรมาลี.</B>
+<span class="LineNumber"> 008 </span>                        [๑๕๙๐]    <B>ทะเลนี้    ปรากฏเหมือนกองไฟและ
+<span class="LineNumber"> 009 </span>              พระอาทิตย์    ข้าพเจ้าขอถามท่านสุปปารกะ   ทะเลนี้
+<span class="LineNumber"> 010 </span>              ชื่ออะไร.</B>
+<span class="LineNumber"> 011 </span>                        [๑๕๙๑]    <B>เมื่อท่านทั้งหลาย  ผู้เป็นพ่อค้าแสวงหา
+<span class="LineNumber"> 012 </span>              ทรัพย์ออกจากท่าชื่อภรุกัจฉะ   ครั้นเรือเล่นไปผิดทาง
+<span class="LineNumber"> 013 </span>              มาถึงทะเลตอนนี้เขาเรียกว่า  อัคคิมาลี.</B>
+<span class="LineNumber"> 014 </span>                        [๑๕๙๒]    <B>ทะเลนี้ปรากฏเหมือนนมส้ม  และนมสด
+<span class="LineNumber"> 015 </span>              พวกข้าพเจ้าขอถามท่านสุปปารกะ  ทะเลนี้ชื่ออะไร.</B>
+<span class="LineNumber"> 016 </span>                        [๑๕๙๓]    <B>เมื่อท่านทั้งหลาย ผู้เป็นพ่อค้าแสวงหา
+<span class="LineNumber"> 017 </span>              ทรัพย์ออกจากท่าชื่อภรุกัจฉะ  ครั้นเรือแล่นไปผิดทาง
+<span class="LineNumber"> 018 </span>              มาถึงทะเลตอนนี้เขาเรียกกันว่า  ทธิมาลี.</B>
+<span class="LineNumber"> 019 </span>                        [๑๕๙๔]    <B>ทะเลนี้ปรากฏเหมือนหญ้าคาและข้าว
+<span class="LineNumber"> 020 </span>              กล้า  พวกข้าพเจ้าของถามท่านสุปปารกะ  ทะเลนี้ชื่อ
+<span class="LineNumber"> 021 </span>              อะไร.</B>

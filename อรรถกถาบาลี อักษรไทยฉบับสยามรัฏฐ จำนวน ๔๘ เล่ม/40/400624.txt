@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  มหาวคฺควณฺณนา  หน้า  629
+
+<span class="LineNumber"> 002 </span>	สุวิฺาปโยติ  สุเขน  วิฺาเปตุํ  สกฺกุเณยฺโย ฯ 
+<span class="LineNumber"> 003 </span>	ทุวิฺาปโยติ  ทุกฺเขน วิฺาเปตุํ  สกฺกุเณยฺโย ฯ
+<span class="LineNumber"> 004 </span>	ปรโลกวชฺชภยทสฺสาวีติ  เอตฺถ  ยสฺมา ปฺาสมฺปนฺนสฺเสว 
+<span class="LineNumber"> 005 </span>สทฺธาทีนิ  สุปริสุทฺธานิ  โหนฺติ  ตสฺมา  สุปริสุทฺธสทฺธาทิสมฺปนฺโน 
+<span class="LineNumber"> 006 </span>ตํสมฺปยุตฺตาย  สุปริสุทฺธสทฺธาทิสมฺปนฺโนปิ  วา  ตปฺปจฺจยาย 
+<span class="LineNumber"> 007 </span>ปฺาย ปรโลกวชฺชภยทสฺสาวี  โหติ ฯ  ตสฺมา  เอว  หิ  
+<span class="LineNumber"> 008 </span>สทฺธาทโยปิ  จตฺตาโร  ปรโลกวชฺชภยทสฺสาวีติ วุตฺตา ฯ  
+<span class="LineNumber"> 009 </span>	อิทานิ  ปรโลกวชฺชภยทสฺสาวีติ  เอตฺถ  วุตฺตํ  โลกฺจ
+<span class="LineNumber"> 010 </span>วชฺชฺจ  ทสฺเสตุํ  โลโกติอาทิมาห ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  ขนฺธา  เอว ลุชฺชนปลุชฺชนฏฺเ€น โลโกติ ขนฺธโลโก ฯ  
+<span class="LineNumber"> 012 </span>เสสทฺวเยปิ  เอเสว  นโย ฯ 
+<span class="LineNumber"> 013 </span>	วิปตฺติภวโลโกติ  อปายโลโก ฯ  โส  หิ  อนิฏฺ€ผลตฺตา  
+<span class="LineNumber"> 014 </span>วิรูโป  โลโกติ(๑)  วิปตฺติ  ภวตีติ  ภโว  วิปตฺติ เอว ภโว 
+<span class="LineNumber"> 015 </span>วิปตฺติภโว วิปตฺติภโว เอว  โลโก  วิปตฺติภวโลโก ฯ 
+<span class="LineNumber"> 016 </span>	วิปตฺติสมฺภวโลโกติ  อปายูปคํ  กมฺมํ ฯ  ตํ หิ สมฺภวติ 
+<span class="LineNumber"> 017 </span>เอตสฺมา  ผลนฺติ  สมฺภโว  วิปตฺติยา  สมฺภโว  วิปตฺติสมฺภโว 
+<span class="LineNumber"> 018 </span>วิปตฺติสมฺภโว เอว โลโก  วิปตฺติสมฺภวโลโก ฯ 
+<span class="LineNumber"> 019 </span>	สมฺปตฺติภวโลโกติ สุคติโลโก ฯ โส หิ อิฏฺ€ผลตฺตา 
+<span class="LineNumber"> 020 </span>สุนฺทโร ลาโภติ  สมฺปตฺติ  ภวตีติ  ภโว  สมฺปตฺติ เอว ภโว
+<span class="LineNumber"> 021 </span># ๑. ม. ลาโภติ ฯ 

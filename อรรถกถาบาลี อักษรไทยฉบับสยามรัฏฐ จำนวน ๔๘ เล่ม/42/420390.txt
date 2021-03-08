@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  42  พุทธฺวคฺควณฺณนา  หน้า  390
+
+<span class="LineNumber"> 002 </span>โสภยนฺตีติ อตฺโถ ฯ  
+<span class="LineNumber"> 003 </span>		ปา€ีนา ปาวุสา มจฺฉา   พลชา มุฺชโรหิตา  
+<span class="LineNumber"> 004 </span>		สงฺกุลา(๑) มคฺคุรา(๒) เจว  วสนฺติ ตฬาเก ตทา ฯ  
+<span class="LineNumber"> 005 </span>	ตทา  มม  วสนสมเย  นิพฺภีตา  ปา€ีนาทโย  มจฺฉา  
+<span class="LineNumber"> 006 </span>ตฬาเก  วสนฺตีติ  สมฺพนฺโธ ฯ  
+<span class="LineNumber"> 007 </span>		กุมฺภีลา สสสุมารา จ  ตนฺติคาหา จ รกฺขสา  
+<span class="LineNumber"> 008 </span>		โอคุหา อชครา จ    วสนฺติ ตฬาเก ตทา ฯ  
+<span class="LineNumber"> 009 </span>	ตทา  มม  วสนสมเย  มม  อสฺสมสมีเป  ตฬาเก  เอเต  
+<span class="LineNumber"> 010 </span>กุมฺภีลาทโย  มจฺฉา นิพฺภีตา นิรุปทฺทวา วสนฺตีติ สมฺพนฺโธ ฯ  
+<span class="LineNumber"> 011 </span>		ปาเรวตา รวิหํสา    จกฺกวากา นทีจรา  
+<span class="LineNumber"> 012 </span>		โกกิลา สุกสาฬิกา    อุปชีวนฺติ ตํ สรํ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  มม  อสฺสมสมีเป  สรํ  นิสฺสาย  ปาเรวตา  ปกฺขี  
+<span class="LineNumber"> 014 </span>จ  รวิหํสา  ปกฺขี  จ  นทีจรา  จกฺกวากปกฺขี  จ  โกกิลาปกฺขี  
+<span class="LineNumber"> 015 </span>จ  สุกปกฺขี  จ  สาฬิกาปกฺขี  จ ตํ สรํ อุปนิสฺสาย ชีวนฺตีติ 
+<span class="LineNumber"> 016 </span>สมฺพนฺโธ ฯ  
+<span class="LineNumber"> 017 </span>		กุกุตฺถกา กุฬีรกา    วเน โปกฺขรสาตกา  
+<span class="LineNumber"> 018 </span>		ทินฺทิภา สุวโปตา จ   อุปชีวนฺติ ตํ สรํ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  กุกุตฺถกาติ  เอวํ  นามิกา  ปกฺขี  จ ฯ  กุฬีรกาติ  
+<span class="LineNumber"> 020 </span>เอวํ  นามิกา  ปกฺขี  จ ฯ  วเน  โปกฺขรสาตกา  ปกฺขี  จ  
+<span class="LineNumber"> 021 </span># ๑  ม. สงฺคุลา ฯ  ๒ สี. ยุ. มกรา ฯ  ม. มคฺคุลา ฯ  

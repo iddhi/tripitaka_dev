@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>ธรรมพระสูตรที่มีในวรรคนี้   คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.  ปฐมทสพลสูตร                ๒.  ทุติยทสพลสูตร
+<span class="LineNumber"> 003 </span>         ๓.  อุปนิสสูตร                      ๔.  อัญญติตถิยสูตร
+<span class="LineNumber"> 004 </span>         ๕.  ภูมิชสูตร                        ๖.  อุปวาณสูตร
+<span class="LineNumber"> 005 </span>         ๗.  ปัจจยสูตร                      ๘.  ภิกขุสูตร
+<span class="LineNumber"> 006 </span>         ๙.  ปฐมสมณพราหมณสูตร.    ๑๐.  ทุติยสมณพราหมณสูตร
+
+
+<span class="LineNumber"> 007 </span>             <H1>อรรถกถาทุติยสมณพราหมณสูตรที่ ๑๐</H1>
+
+<span class="LineNumber"> 008 </span>         <B>สมณพราหมณสูตรที่  ๑๐</B>   ทุกคำก็ง่ายทั้งนั้น.    ในสูตรทั้งสองนี้
+<span class="LineNumber"> 009 </span><B>พระผู้มีพระภาคเจ้า</B>ตรัสการแทงตลอดสัจจะ  ๔.  
+
+<span class="LineNumber"> 010 </span>                   จบอรรถกถาทุติยสมณพราหมณสูตรที่  ๑๐
+<span class="LineNumber"> 011 </span>                           <I>จบอรรถกถาทสพลวรรคที่  ๓</I>

@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>สังสัฏฐวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>๑. เหตุปัจจัย</H2>                         
+<span class="LineNumber"> 004 </span>           [๖๗๕] ๑.  <B>ธรรมที่ไม่ใช่ปรามาสธรรม  เจือกับปรามาสธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  สัมปยุตตขันธ์ทั้งหลาย  เจือกับปรามาสธรรม.
+<span class="LineNumber"> 007 </span>           วาระ ๕ พึงกระทำอย่างนี้    เฉพาะในอรูปภูมิเท่านั้น.
+<span class="LineNumber"> 008 </span>           <B>สังสัฏฐวาระ</B>  ก็ดี  <B>สัมปยุตตวาระ</B> ก็ดี  พึงกระทำอย่างนี้.
+<span class="LineNumber"> 009 </span>                                       <I>สังสัฏฐวาระ จบ</I>
+

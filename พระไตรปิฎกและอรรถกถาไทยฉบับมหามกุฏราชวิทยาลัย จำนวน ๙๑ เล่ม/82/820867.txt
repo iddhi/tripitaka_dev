@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>อตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 004 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี:-</H2>
+<span class="LineNumber"> 005 </span>         [๘๔๙]   ทุกขสัจจะเคยเกิดแก่บุคคลใด,       สมุทยสัจจะก็เคย
+<span class="LineNumber"> 006 </span>เกิดแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   สมุทยสัจจะเคยเกิดแก่บุคคลใด,     ทุกขสัจจะก็เคยเกิด 
+<span class="LineNumber"> 009 </span>แก่บุคคลนั้น    ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>                         <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 012 </span><H2>ทุกขสัจจมูละ  มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๘๕๐]   ทุกขสัจจะเคยเกิดแก่บุคคลใด,    มัคคสัจจะก็เคยเกิด
+<span class="LineNumber"> 014 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         บุคคลผู้ยังไม่เข้าถึงความเป็นผู้เคยรู้อริยสัจ  ๔ มานั้น ทุกขสัจจะ
+<span class="LineNumber"> 016 </span>เคยเกิดแก่บุคคลเหล่านั้น     แต่มัคคสัจจะไม่เคยเกิดแก่บุคคลเหล่านั้น,

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  4
+
+<span class="LineNumber"> 002 </span>ปพฺพชิ ฯ  อิมสฺส  ปนตฺถสฺส  อาวิภาวตฺถํ  อิมสฺมึ  €าเน  สุเมธกถา 
+<span class="LineNumber"> 003 </span>กเถตพฺพา ฯ  สา  ปเนสา  กิฺจาปิ  พุทฺธวํเส  นิรนฺตรํ  อาคตาเยว
+<span class="LineNumber"> 004 </span>คาถาสมฺพนฺเธน(๑)  ปน  อาคตตฺตา  น  สุฏฺ€ุ  ปากฏา  ตสฺมา  ตํ  
+<span class="LineNumber"> 005 </span>อนฺตรนฺตรา  คาถาสมฺพนฺธทีปเกหิ  วจเนหิ  สทฺธึ  กเถสฺสาม(๒) ฯ 
+
+<span class="LineNumber"> 006 </span>				สุเมธกถา
+<span class="LineNumber"> 007 </span>	กปฺปสตสหสฺสาธิกานํ  จตุนฺนํ  อสงฺเขยฺยานํ  มตฺถเก 
+<span class="LineNumber"> 008 </span>ทสหิ  สทฺเทหิ  อวิวิตฺตํ  อมรวตีติ  จ  อมรนฺติ  จ  ลทฺธนามํ  
+<span class="LineNumber"> 009 </span>นครํ  อโหสิ ยํ สนฺธาย พุทฺธวํเส วุตฺตํ  
+<span class="LineNumber"> 010 </span>	กปฺเป จ สตสหสฺเส		จตุโร จ อสงฺขิเย  
+<span class="LineNumber"> 011 </span>	อมรํ นาม นครํ		ทสฺสเนยฺยํ มโนรมํ  
+<span class="LineNumber"> 012 </span>	ทสหิ สทฺเทหิ อวิวิตฺตํ	อนฺนปานสมายุตนฺติ ฯ
+<span class="LineNumber"> 013 </span>	ตตฺถ  ทสหิ  สทฺเทหิ  อวิวิตฺตนฺติ  หตฺถิสทฺเทน  อสฺสสทฺเทน  
+<span class="LineNumber"> 014 </span>รถสทฺเทน  เภริสทฺเทน  มุทิงฺคสทฺเทน  วีณาสทฺเทน  คีตสทฺเทน(๓)
+<span class="LineNumber"> 015 </span>สงฺขสทฺเทน สมฺมชฺชสทฺเทน(๔) ตาฬสทฺเทน อสถ  (๕) ขาทถ ปิวถาติ
+<span class="LineNumber"> 016 </span>ทสเมน  สทฺเทนาติ  อิเมหิ  ทสหิ  สทฺเทหิ  อวิวิตฺตํ  อโหสิ ฯ
+<span class="LineNumber"> 017 </span>เตสํ  ปน  สทฺทานํ  เอกเทสเมว คเหตฺวา  
+<span class="LineNumber"> 018 </span>	หตฺถิสทฺทํ อสฺสสทฺทํ		เภริสงฺขรถานิ จ  
+<span class="LineNumber"> 019 </span>	ขาทถ ปิวถ เจว			อนฺนปาเนน โฆสิตนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. คาถาพนฺธเนน ฯ  ๒. ม. ม. กเถสฺสาม ฯ  
+<span class="LineNumber"> 021 </span># ๓. ม. อยํ ปาโ€ นตฺถิ ฯ	๔. ม. สมฺมสทฺเทน ฯ ๕. ม. อสฺนาถ ฯ

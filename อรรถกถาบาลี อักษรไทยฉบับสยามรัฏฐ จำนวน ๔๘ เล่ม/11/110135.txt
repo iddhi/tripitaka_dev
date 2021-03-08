@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๑๓๕
+
+<span class="LineNumber"> 002 </span>วฏฺฏนิสฺสิโต  ปุถุชฺชโน  มูลผลสนฺตานาทีนิ  (๑)  วิย ตีหิ ทฺวาเรหิ 
+<span class="LineNumber"> 003 </span>กุสลากุสลกมฺมายูหนํ  รุกฺขสฺส  วุฑฺฒิอาปชฺชนํ  วิย  ปุถุชฺชนสฺส
+<span class="LineNumber"> 004 </span>ตีหิ ทฺวาเรหิ  กมฺมํ  อายูหโต  อปราปรํ  วฏฺฏปฺปวตฺติ ฯ  วิวฏฺฏํ 
+<span class="LineNumber"> 005 </span>วุตฺตนเยเนว  เวทิตพฺพํ ฯ 
+<span class="LineNumber"> 006 </span>					สตฺตมํ ฯ
+<span class="LineNumber"> 007 </span>			อฏฺ€มนวมานิ อุตฺตานตฺถาเนว ฯ 
+<span class="LineNumber"> 008 </span>				อฏฺ€มนวมานิ ฯ
+
+<span class="LineNumber"> 009 </span>					นิทานสุตฺตวณฺณนา           
+
+<span class="LineNumber"> 010 </span>	ทสเม  กุรูสุ  วิหรตีติ  กุรูติ  เอวํ  พหุวจนวเสน  
+<span class="LineNumber"> 011 </span>ลทฺธโวหาเร  ชนปเท วิหรติ ฯ  กมฺมาสธมฺมํ  (๒)  นาม  กุรูนํ  นิคโมติ 
+<span class="LineNumber"> 012 </span>เอวํนามโก กุรูนํ นิคโม ตํ โคจรคามํ  กตฺวาติ  อตฺโถ ฯ  
+<span class="LineNumber"> 013 </span>อายสฺมาติ ปิยวจนเมตํ ครุวจนเมตํ ฯ อานนฺโทติ ตสฺส เถรสฺส  
+<span class="LineNumber"> 014 </span>นามํ ฯ  เอกมนฺตํ  นิสีทีติ ฉ นิสชฺชโทเส วชฺเชนฺโต  ทกฺขิณ-
+<span class="LineNumber"> 015 </span>ชาณุมณฺฑลสฺส  อภิมุขฏฺ€าเน  ฉพฺพณฺณานํ  พุทฺธรํสีนํ  อนฺโต 
+<span class="LineNumber"> 016 </span>ปวิลิตฺวา  ปสนฺนลาขารสํ วิคาหนฺโต  วิย  สุวณฺณปฏํ  ปารุปนฺโต 
+<span class="LineNumber"> 017 </span>วิย  รตฺตุปฺปสวนานํ(๓) มชฺฌํ  ปวิสนฺโต วิย  ธมฺมกณฺฑาคาริโก  
+<span class="LineNumber"> 018 </span>อายสฺมา  อานนฺโท  นิสีทิ ฯ  เตน  วุตฺตํ  เอกมนฺตํ นิสีทีติ ฯ                    
+<span class="LineNumber"> 019 </span># ๑. สี. มูลปริสตฺถนาทีนิ ฯ  ๒. ม. กมฺมาสทมฺมํ ฯ  
+<span class="LineNumber"> 020 </span># ๓. สฺยา. รตฺตุปฺปลมาลาวิตานมชฺฌํ ฯ  สี. รตฺตุปฺปลวิตานมชฺฌํ ฯ

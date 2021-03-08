@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span><B>จักขุนทริยมูละ  โสมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 002 </span>         [๖๕๔]   จักขุนทรัย์ไม่ใช่กำลังเกิดในภูมิใด,     โสมนัสสินทรีย์
+<span class="LineNumber"> 003 </span>ก็ไม่ใช่กำลังเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่. 
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   โสมนัสสินทรีย์ไม่ใช่กำลังเกิดในภูมิ       จักขุนทรีย์
+<span class="LineNumber"> 006 </span>ก็ไม่ใช่กำลังเกิดในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่. 
+<span class="LineNumber"> 008 </span>                    <I>จบ  จักขุนทริยมูละ  โสมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 009 </span><B>จักขุนทริยมูละ  อุเปกขินทริยมูลี:-</B>
+<span class="LineNumber"> 010 </span>         [๖๕๕]   จักขุนทรีย์ไม่ใช่กำลังเกิดในภูมิใด,    อุเปกขินทรีย์
+<span class="LineNumber"> 011 </span>ก็ไม่ใช่กำลังเกิดในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ในอรูปภูมิ  จักขุนทรีย์ไม่ใช่กำลังเกิดในภูมินั้น แต่อุเปกขินทรีย์
+<span class="LineNumber"> 013 </span>กำลังเกิดในภูนินั้น,  ในอสัญญสัตตภูมิ  จักขุนทรีย์ไม่ใช่กำลังเกิด  และ
+<span class="LineNumber"> 014 </span>อุเปกขินทรีย์ก็ไม่ใช่กำลังเกิดในภูมินั้น.

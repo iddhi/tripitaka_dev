@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๑๑   หน้า ๑๓๒
+
+<span class="LineNumber"> 002 </span>				สํโยชนสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ตติเย  สฺโชนีเยสูติ  ทสนฺนํ  สํโยฺนานํ  ปจฺจเยสุ ฯ  
+<span class="LineNumber"> 004 </span>ฌาเยยฺยาติ ชเลยฺย ฯ  เตลํ  อาสิฺเจยฺย  วฏฺฏึ  อุปสํหเรยฺยาติ 
+<span class="LineNumber"> 005 </span>ทีปปฏิชคฺคนตฺถํ  เตลภาชนฺจ มหนฺตฺจ  วฏฺฏิกปาลํ  คเหตฺวา 
+<span class="LineNumber"> 006 </span>สมีเป  นิจฺจํ €ิโตว เตเล ขีเณ เตลํ อาสิฺเจยฺย วฏฺฏิยา 
+<span class="LineNumber"> 007 </span>ขีณาย วฏฺฏึ  อุปสํหเรยฺย ฯ  เสสเมตฺถ  สทฺธึ  โอปมฺมสํ-
+<span class="LineNumber"> 008 </span>สนฺทเนน ปุริมนเยเนว เวทิตพฺพํ ฯ 
+<span class="LineNumber"> 009 </span>					ตติยํ ฯ               
+
+<span class="LineNumber"> 010 </span>					ทุติยสํโยชนสุตฺตวณฺณนา          
+<span class="LineNumber"> 011 </span>	จตุตฺเถ  อุปมํ  ป€มํ  วตฺวา  (๒)  ปจฺฉา อตฺโถ วุตฺโต ฯ 
+<span class="LineNumber"> 012 </span>เสสํ ตาทิสเมว ฯ  
+<span class="LineNumber"> 013 </span>					จตุตฺถํ ฯ                     
+
+<span class="LineNumber"> 014 </span>				มหารุกฺขสุตฺตวณฺณนา           
+<span class="LineNumber"> 015 </span>	ปฺจเม  วุทฺธํ  (๑)  โอชํ  อภิหรนฺตีติ  ป€วีรสฺจ  อาโปรสฺจ 
+<span class="LineNumber"> 016 </span>อุปริ อาโรเปนฺติ ฯ  โอชาย  อาโรปิตตฺตา  หตฺถสตุพฺเพธสฺส 
+<span class="LineNumber"> 017 </span>รุกฺขสฺส  องฺกุรคฺเคสุ   พินฺทูนิ  (๒) วิย หุตฺวา สิเนโห ติฏฺ€ติ ฯ อิทํ 
+<span class="LineNumber"> 018 </span>ปเนตฺถ โอปมฺมสํสนฺทนํ มหารุกฺโข   วิย  หิ  เตภูมิกวฏฺฏํ  ฯ
+<span class="LineNumber"> 019 </span>มูลานิ  วิย  อายตนานิ  มูเลหิ  โอชาย  อาโรหนํ วิย ฉหิ 

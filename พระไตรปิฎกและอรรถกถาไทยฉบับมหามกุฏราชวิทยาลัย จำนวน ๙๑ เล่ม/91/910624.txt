@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                 <H1>กุสลติกอาสวทุกนกุสลติกนอาสวทุกะ</H1>  
+<span class="LineNumber"> 002 </span>                <H2>(๑. กุสลติกะ  ๑๔.  อาสวทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                 <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                    <H2>อาสวบท</H2>
+<span class="LineNumber"> 007 </span>           [๓๗๘] ๑. <B>ธรรมที่ไม่ใช่อาสวธรรม  ที่ไม่ใช่อกุศล    อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นอาสวะ  ที่เป็นอกุศล ฯลฯ</B>
+<span class="LineNumber"> 009 </span>                       ๒. <B>ธรรมที่ไม่ใช่อาสวธรรม  ที่ไม่ใช่กุศล  อาศัย  ฯลฯ</B>
+<span class="LineNumber"> 010 </span>                       ๓. <B>ธรรมที่ไม่ใช่อาสวธรรม  ที่ไม่ใช่อัพยากตะ  อาศัย
+<span class="LineNumber"> 011 </span>ฯลฯ</B>
+<span class="LineNumber"> 012 </span>                       ๔. <B>ธรรมที่ไม่ใช่อาสวธรรม  ที่ไม่ใช่กุศล  และธรรม
+<span class="LineNumber"> 013 </span>ที่ไม่ใช่อาสวธรรม  ที่ไม่ใช่อัพยากตะ  ฯลฯ</B>
+<span class="LineNumber"> 014 </span>                       ๕. <B>ธรรมที่ไม่ใช่อาสวธรรม ที่ไม่ใช่กุศล และธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่อาสวธรรม   ที่ไม่ใช่อกุศล    อาศัยธรรมที่เป็นอาสวธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นอกุศล   เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๕  วาระ.

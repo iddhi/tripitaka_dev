@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>            อกาลจีวร  ภิกษุณีสงสัย    อธิษฐานเป็นกาลจีวร   แล้วแจกกัน    เป็น
+<span class="LineNumber"> 002 </span>นิสสัคคีย์   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 003 </span>            อกาลจีวร   ภิกษุณีสำคัญว่ากาลจีวร    อธิษฐานว่าเป็นกาลจีวร    แล้ว
+<span class="LineNumber"> 004 </span>แจกกัน   เป็นนิสสัคคีย์  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 005 </span>                                         <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 006 </span>            กาลจีวร  ภิกษุณีสำคัญว่า  เป็นอกาลจีวร  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 007 </span>            กาลจีวร  ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 008 </span>                                       <H2>ไม่ต้องอาบัติ</H2>                                    
+<span class="LineNumber"> 009 </span>            กาลจีวร   ภิกษุณีสำคัญว่าเป็นกาลจีวร   ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 010 </span>                                        <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 011 </span>            [๑๐๕]   สำคัญอกาลจีวรว่าเป็นอกาลจีวร   ให้แจกกัน ๑   สำคัญกาล-
+<span class="LineNumber"> 012 </span>จีวรว่าเป็นกาลจีวร   ให้แจกกัน ๑   วิกลจริต  ๑   อาทิกัมมิกา  ๑   ไม่ต้องอาบัติ
+
+<span class="LineNumber"> 013 </span>                                    <I>ปัตตวรรค  สิกขาบทที่  ๒  จบ</I>

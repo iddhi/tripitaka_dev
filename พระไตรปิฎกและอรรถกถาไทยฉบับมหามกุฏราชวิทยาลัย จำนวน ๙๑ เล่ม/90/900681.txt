@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                           ๔.  อนิทัสสนอัปปฏิฆธรรมที่เป็นอรณธรรม   อาศัย
+<span class="LineNumber"> 002 </span>อนิทัสสนอัปปฏิฆธรรมที่เป็นอรณธรรม   เกิดขึ้น   เพราะเหตุปัจจัย 
+<span class="LineNumber"> 003 </span>                           ๕.  อนิทัสสนอัปปฏิฆธรรมที่เป็นอรณธรรม   อาศัย
+<span class="LineNumber"> 004 </span>อนิทัสสนอัปปฏิฆธรรมที่เป็นสรณธรรม     และอนิทัสสนอัปปฏิฆ-
+<span class="LineNumber"> 005 </span>ธรรมที่เป็นอรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>			<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 007 </span>		[๑๙๐๖]  ในเหตุปัจจัย  มี ๕ วาระ    ในอารัมมณปัจจัย  มี ๒ วาระ
+<span class="LineNumber"> 008 </span>ฯลฯ   ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 009 </span>		สหชาตวาระก็ดี   ฯลฯ  สัมปยุตตวาระก็ดี  พึงให้พิสดาร.
+
+<span class="LineNumber"> 010 </span>		       <H1>อนิทัสสนสัปปฏิฆบทปัญหาวาระ</H1>
+<span class="LineNumber"> 011 </span>				  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>			      <H2>๑.สหชาตปัจจัย</H2>	
+<span class="LineNumber"> 013 </span>            ๑.  อนิทัสสนสัปปฏิฆธรรมที่เป็นอรณธรรม    เป็น
+<span class="LineNumber"> 014 </span>ปัจจัยแก่อนิทัสสนสัปปฏิธรรมที่เป็นอรณธรรม       ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>สหชาตปัจจัย   มี  ๑ วาระ

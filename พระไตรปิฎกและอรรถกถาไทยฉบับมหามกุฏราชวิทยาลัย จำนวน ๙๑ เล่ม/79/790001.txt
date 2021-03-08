@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>พระอภิธรรมปิฎก</H1>  
+<span class="LineNumber"> 002 </span>                                      <H3>เล่มที่  ๓</H3>
+<span class="LineNumber"> 003 </span>                        <H1>ธาตุกถา  และ  ปุคคลปัญญัติ</H1>
+<span class="LineNumber"> 004 </span>                                      <H1>ธาตุกถา<SUP>๑</SUP></H1>
+<span class="LineNumber"> 005 </span><H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 006 </span>                                       <H1>มาติกา</H1>
+<span class="LineNumber"> 007 </span>                             <H1>๑. นยมาติกา ๑๔ นัย</H1>
+<span class="LineNumber"> 008 </span>๑]     <B>๑. สงฺคโห  อสงฺคโห              ธรรมที่สงเคราะห์ได้
+<span class="LineNumber"> 009 </span>                                                       ธรรมที่สงเคราะห์ไม่ได้
+<span class="LineNumber"> 010 </span>         ๒. สงฺคหิเตน  อสงฺคหิตํ        ธรรมที่สงเคราะห์ไม่ได้
+<span class="LineNumber"> 011 </span>                                                       ด้วยธรรมที่สงเคราะห์ได้
+<span class="LineNumber"> 012 </span>         ๓. สงฺคหิเตน  สงฺคหิตํ          ธรรมที่สงเคราะห์ได้
+<span class="LineNumber"> 013 </span>                                                      ด้วยธรรมที่สงเคราะห์ไม่ได้
+<span class="LineNumber"> 014 </span>         ๔. สงฺคหิเตน  สงฺคหิตํ          ธรรมที่สงเคราะห์ได้
+<span class="LineNumber"> 015 </span>                                                      ด้วยธรรมที่สงเคราะห์ได้
+<span class="LineNumber"> 016 </span>         ๕. อสงฺคหิเตน อสงฺคหิตํ      ธรรมที่สงเคราะห์ไม่ได้
+<span class="LineNumber"> 017 </span>                                                      ด้วยธรรมที่สงเคราะห์ไม่ได้
+<span class="LineNumber"> 018 </span>         ๖. สมฺปโยโค วิปฺปโยโค         ธรรมที่ประกอบได้
+<span class="LineNumber"> 019 </span>                                                      ธรรมที่ประกอบไม่ได้</B>
+
+<span class='footnote'>บาลีเล่ม ๓๖.	</span>
+				

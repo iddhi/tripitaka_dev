@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุติยวคฺเค เพลฏฺ€สีสตฺเถรคาถาวณฺณนา หน้า 141
+
+<span class="LineNumber"> 002 </span>ปีติเวควเสน  
+<span class="LineNumber"> 003 </span>		ยถาปิ ภทฺโท อาชฺโ	นงฺคลาวตฺตนี สิขี  
+<span class="LineNumber"> 004 </span>		คจฺฉติ อปฺปกสิเรน	เอวํ รตฺตินฺทิวา มม  
+<span class="LineNumber"> 005 </span>		คจฺฉนฺติ อปฺปกสิเรน	สุเข ลทฺเธ นิรามิเสติ(๑)  
+<span class="LineNumber"> 006 </span>คาถํ อภาสิ ฯ 
+<span class="LineNumber"> 007 </span>	ตตฺถ  ยถาปีติ  โอปมฺมปฏิปาทนตฺเถ  นิปาโต ฯ  ภทฺโทติ  
+<span class="LineNumber"> 008 </span>สุนฺทโร  ถามพลสมตฺถชวปรกฺกมาทิสมฺปนฺโน ฯ  
+<span class="LineNumber"> 009 </span>	อาชฺโติ  อาชานีโย  ชาติมา  การณาการณานํ  
+<span class="LineNumber"> 010 </span>อาชานนโก ฯ  (๒)  โส  ติวิโธ  อุสภาชฺโ  อสฺสาชฺโ
+<span class="LineNumber"> 011 </span>หตฺถิอาชฺโติ(๓) ฯ  เตสุ  อุสภาชฺโ  อิธาธิปฺเปโต ฯ  โส  จ  โข  
+<span class="LineNumber"> 012 </span>เฉกกสนกิจฺเจ  นิยุตฺโต  เตนาห  นงฺคลาวตฺตนีติ ฯ  นงฺคลสฺส  
+<span class="LineNumber"> 013 </span>สปาลสฺส  (๔)  อาวตฺตนโต  (๕)  นงฺคลํ อิโต จิโต จ  อาวตฺเตตฺวา
+<span class="LineNumber"> 014 </span>เขตฺเต กสโกติ (๖) อตฺโถ ฯ นงฺคลํ วา อาวตฺติสฺสติ (๗) เอตฺถาติ 
+<span class="LineNumber"> 015 </span>นงฺคลาวตฺตํ  เขตฺเต นงฺคลปโถ ตสฺมึ นงฺคลาวตฺตนิ ฯ 
+<span class="LineNumber"> 016 </span>คาถาสุขตฺถํ(๘) เหตฺถ วตฺตนีติ ทีฆํ กตฺวา  วุตฺตํ ฯ 
+<span class="LineNumber"> 017 </span>	สิขีติ มตฺถเก อวตฺถานโต สิขาสทิสตาย สิขา สิงฺคํ ฯ
+<span class="LineNumber"> 018 </span>ตทสฺส อตฺถีติ สิงฺคํ(๙) ฯ  อปเร  ปน  กูฏํ อิธ  สิขาติ 
+<span class="LineNumber"> 019 </span># ๑. ขุ. เถร. ๒๖/๑๕๓/๒๖๔ ฯ  ๒. ม. อาชานนโก ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. หตฺถาชฺโติ ฯ ๔. ปาลิยํ ผาลสฺส สกฺกเฏ สปาลสฺย สปาลสฺสาติ
+<span class="LineNumber"> 021 </span># สกฺกฏานุวตฺตํ ฯ ม. ผาลสฺส ฯ  ๕. ม. อาวตฺตนโก ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. กสนโก ฯ ๗. ม. อาวตฺตยติ ฯ ๘. ม.คาถาสุขตฺถํ ฯ 
+<span class="LineNumber"> 023 </span># ๙. ม. สีขี ฯ 

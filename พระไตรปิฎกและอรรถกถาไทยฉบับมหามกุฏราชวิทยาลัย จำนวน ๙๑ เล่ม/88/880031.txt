@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>๑๒.  อาเสวนปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๒๕] ๑.  <B>เหตุธรรม  เป็นปัจจัยแก่เหตุธรรม  ด้วยอำนาจของ 
+<span class="LineNumber"> 003 </span>อาเสวนปัจจัย</B>   เหมือนกับอนันตรปัจจัย.
+
+<span class="LineNumber"> 004 </span>                                     <H1>๑๓.  กัมมปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๒๖] ๑.  <B>นเหตุธรรม   เป็นปัจจัยแก่นเหตุธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 006 </span>ของกัมมปัจจัย.</B>
+<span class="LineNumber"> 007 </span>           มี ๒  อย่าง   คือที่เป็น   <B>สหชาตะ</B>   และ  <B>นานาขณิกะ</B>
+<span class="LineNumber"> 008 </span>           ที่เป็น  <B>สหชาตะ</B>   ได้แก่
+<span class="LineNumber"> 009 </span>           เจตนาที่เป็นนเหตุธรรม      เป็นปัจจัยแก่สัมปยุตตขันธ์     และจิตต-
+<span class="LineNumber"> 010 </span>สมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 011 </span>           ที่เป็น  <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 012 </span>           เจตนาที่เป็นนเหตุธรรม     เป็นปัจจัยแก่วิบากขันธ์    และกฏัตตารูป
+<span class="LineNumber"> 013 </span>ทั้งหลาย   ด้วยอำนาจของกัมมปัจจัย.  
+<span class="LineNumber"> 014 </span>                 ๒.  <B>นเหตุธรรม เป็นปัจจัยแก่เหตุธรรม ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>กัมมปัจจัย.</B>
+<span class="LineNumber"> 016 </span>           มี ๒ อย่าง  คือที่เป็น   <B>สหชาตะ</B>   และ   <B>นานาขณิกะ</B>
+<span class="LineNumber"> 017 </span>           ที่เป็น  <B>สหชาตะ</B>   ได้แก่
+<span class="LineNumber"> 018 </span>           เจตนาที่เป็นนเหตุธรรม     เป็นปัจจัยแก่สัมปยุตตเหตุทั้งหลาย    ด้วย
+<span class="LineNumber"> 019 </span>อำนาจของกัมมปัจจัย.

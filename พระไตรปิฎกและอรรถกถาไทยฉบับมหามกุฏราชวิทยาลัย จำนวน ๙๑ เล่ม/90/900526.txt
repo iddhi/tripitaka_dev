@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>             		       <H1>อัชฌัตติกทุกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>           	  <H2>(๖๖. อัชฌัตติทุกะ  ๑. กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>                        	    <H1>กุศลบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 004 </span>                        	       <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 005 </span>                                   <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๕๑๙]  ๑.  กุศลธรรมที่เป็นพาหิรธรรม    อาศัยกุศลธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นอัชฌัตติกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย 
+<span class="LineNumber"> 008 </span>                           ๒.  กุศลธรรมที่เป็นพาหิรธรรม  อาศัยกุศลธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นพาหิรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                           ๓.  กุศลธรรมที่เป็นอัชณัตติกธรรม อาศัยกุศลธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นพาหิรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                           ๔.  กุศลธรรมที่เป็นอัชฌัตติกธรรม  และกุศลธรรม
+<span class="LineNumber"> 013 </span>ที่เป็นพาหิรธรรม   อาศัยกุศลธรรมที่เป็นพาหิรธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 014 </span>เหตุปัจจัย
+<span class="LineNumber"> 015 </span>                           ๕.  กุศลธรรมที่เป็นพาหิรธรรม  อาศัยกุศลธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นอัชฌัตติกธรรม    และกุศลธรรมที่เป็นพาหิรธรรม    เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะเหตุปัจจัย
+ 

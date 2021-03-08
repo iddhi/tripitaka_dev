@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๒  สฬายตนวคฺควณฺณนา  หน้า  ๘๔
+
+<span class="LineNumber"> 002 </span>		ปตฺถทฺโธ  ภวตี  กาโย		ทฏฺโ€  กฏฺ€มุเขน  วา  
+<span class="LineNumber"> 003 </span>		ป€วีธาตุปโกเปน			โหติ  กฏฺ€มุเขว  โส ฯ  
+<span class="LineNumber"> 004 </span>		ปูติโก  ภวตี  กาโย		ทฏฺโ€  ปูติมุเขน  วา  
+<span class="LineNumber"> 005 </span>		อาโปธาตุปโกเปน			โหติ  ปูติมุเขว  โส ฯ  
+<span class="LineNumber"> 006 </span>		สนฺตตฺโต  ภวตี  กาโย		ทฏฺโ€  อคฺคิมุเขน  วา  
+<span class="LineNumber"> 007 </span>		เตโชธาตุปโกเปน			โหติ  อคฺคิมุเขว  โส ฯ  
+<span class="LineNumber"> 008 </span>		สฺฉินฺโน  ภวตี  กาโย		ทฏฺโ€  สตฺถมุเขน  วา  
+<span class="LineNumber"> 009 </span>		วาโยธาตุปโกเปน			โหติ  สตฺถมุเข  โสติ ฯ  
+<span class="LineNumber"> 010 </span>เอวํ  ตาเวตฺถ  วิเสสโต  สทิสภาโว  (๑)  เวทิตพฺโพ ฯ  
+<span class="LineNumber"> 011 </span>	อวิเสสโต  ปน  อาสยโต  วิสเวควิการโต  อนตฺถคหณโต  ทุรุปฏฺ€านโต  
+<span class="LineNumber"> 012 </span>ทุราสทโต  อกตฺุตโต  อวิเสสการิโต  อนนฺตโทสูปทฺทวโตติ  อิเมหิ  การเณหิ  
+<span class="LineNumber"> 013 </span>เอเตสํ  อาสีวิสสทิสตา  เวทิตพฺพา ฯ 
+<span class="LineNumber"> 014 </span>	ตตฺถ  อาสยโตติ  อาสีวิสานํ  หิ  วมฺมิโก  อาสโย  ตตฺเถว  เต  วสนฺติ ฯ 
+<span class="LineNumber"> 015 </span>มหาภูตานมฺปิ  กายวมฺมิโก  อาสโย ฯ  อาสีวิสานฺจ  
+<span class="LineNumber"> 016 </span>รุกฺขสุสิรติณปณฺณคหณสงฺการฏฺ€านานิปิ  อาสโย ฯ  เอเตสุปิ  หิ  เต  วสนฺติ ฯ  
+<span class="LineNumber"> 017 </span>มหาภูตานมฺปิ  กายสุสิรํ  กายคหณํ  กายสงฺการฏฺ€านํ  อาสโยติ ฯ  เอวํ  ตาว 
+<span class="LineNumber"> 018 </span>อาสยโต  สทิสตา  เวทิตพฺพา ฯ  
+<span class="LineNumber"> 019 </span># ๑. สี. สรีรสมฺภโว  ฯ  ม. สทิสภาโว  ฯ

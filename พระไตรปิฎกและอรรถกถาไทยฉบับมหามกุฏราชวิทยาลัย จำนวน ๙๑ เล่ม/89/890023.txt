@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>๕.สมนันตรปัจจัย ฯลฯ   ๘. นิสสยปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>เป็นปัจจัย  ด้วยพลังอำนาจของสมนันตรปัจจัย</B> มี ๑ วาระ
+<span class="LineNumber"> 003 </span>         <B>เป็นปัจจัย  ด้วยพลังอำนาจของสหชาตปัจจัย</B> มี ๗ วาระ เหมือน
+<span class="LineNumber"> 004 </span>กับสหชาตปัจจัย  ในปฏิจจวาระ
+<span class="LineNumber"> 005 </span>         <B>เป็นปัจจัย  ด้วยอำนาจของอัญญมัญญปัจจัย</B> มี ๖ วาระ  เหมือน
+<span class="LineNumber"> 006 </span>กับอัญญมัญญปัจจัยในปฏิจจวาระ.
+<span class="LineNumber"> 007 </span>         <B>เป็นปัจจัย  ด้วยอำนาจของนิสสยปัจจัย</B>  มี ๗ วาระ  เหมือนกับ
+<span class="LineNumber"> 008 </span>นิสสยปัจจัยในปฏิจจวาระ.
+
+
+<span class="LineNumber"> 009 </span>                                    <H2>๙.อุปนิสสยปัจจัย</H2> 
+<span class="LineNumber"> 010 </span>         [๒๔]  ๑.  <B>สารัมมณธรรม  เป็นปัจจัยแก่สารัมมณธรรม   ด้วย
+<span class="LineNumber"> 011 </span>อำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 012 </span>         มี๓ อย่าง  คือที่เป็น <B>อารัมมณูปนิสสยะ</B>    <B>อนันตรูปนิสสยะ</B>   และ
+<span class="LineNumber"> 013 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 014 </span>         ที่เป็น <B>ปกตูปนิสสยะ</B> ได้แก่
+<span class="LineNumber"> 015 </span>         บุคคลที่เข้าไปอาศัยศรัทธาแล้ว   ย่อมให้ทาน ฯลฯ  ก่อมานะ  ถือทิฏฐิ.
+<span class="LineNumber"> 016 </span>         บุคคลเข้าไปอาศัย   ศีล ฯลฯ ปัญญา   ความปรารถนา    สุขทางกาย
+<span class="LineNumber"> 017 </span>ทุกข์ทางกายแล้ว   ย่อมให้ทาน ฯลฯ  ยังสมาบัติให้เกิด,  ฆ่าสัตว์ ฯลฯ  ทำลาย
+<span class="LineNumber"> 018 </span>สงฆ์.

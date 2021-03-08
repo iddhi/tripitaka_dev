@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>   
+<span class="LineNumber"> 002 </span>           [๔๒๖]  ในเหตุปัจจัย  มี  ๑  วาระ
+<span class="LineNumber"> 003 </span>        <I>นเหตุทุกนสนิทัสสนติกเหตุทุกสนิทัสสนติกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>          <H1>นสเหตุกทุกนสนิทัสสนติกสเหตุกทุกสนิทัสสนติกะ</H1>
+<span class="LineNumber"> 005 </span>         <H2>(๒. สเหตุกทุกะ   ๒๒.  สนิทัสสนติกะ)</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 007 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>                           <H2>สนิทัสสนสัปปฏิฆบท</H2>			
+<span class="LineNumber"> 010 </span>           [๔๒๗] ๑.  <B>สนิทัสสนสัปปฏิฆธรรม      ที่เป็นอเหตุกธรรม
+<span class="LineNumber"> 011 </span>อาศัยธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม     ที่ไม่ใช่สเหตุกธรรม
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๑ วาระ.
+<span class="LineNumber"> 013 </span>                       ๒.  <B>สนิทัสสนสัปปฏิฆธรรม     ที่เป็นอเหตุกธรรม
+<span class="LineNumber"> 014 </span>อาศัยธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม     ที่ไม่ใช่อเหตุกธรรม
+<span class="LineNumber"> 015 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๑  วาระ
+<span class="LineNumber"> 016 </span>           โดยนัยแห่งการนับ  มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>           แม้ใน<B>สเหตุกนอนิทัสสนสัปปฏิฆมูล</B>  ก็มี  ๓  วาระ  เหมือนกัน.

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  368
+
+<span class="LineNumber"> 002 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 003 </span>	[๑๐๒๕]กินฺเต วตฺตํ กึ ปน พฺรหฺมจริยํ  
+<span class="LineNumber"> 004 </span>		กิสฺส สุจิณฺณสฺส อยํ วิปาโก  
+<span class="LineNumber"> 005 </span>		อิทฺธี ชุตี พลวิริยูปปตฺติ  
+<span class="LineNumber"> 006 </span>		อิทฺจ เต นาคิ มหาวิมานนฺติ (๑) ฯ  
+<span class="LineNumber"> 007 </span>	อถ นํ วิมลา อาห  
+<span class="LineNumber"> 008 </span>	[๑๐๒๖]อหฺจ โข สามิโก จาปิ มยฺหํ  
+<span class="LineNumber"> 009 </span>		สทฺธา อุโภ ทานปตี อหุมฺหา  
+<span class="LineNumber"> 010 </span>		โอปานภูตํ เม ฆรํ ตทาสิ  
+<span class="LineNumber"> 011 </span>		สนฺตปฺปิตา สมณพฺราหฺมณาจ  
+<span class="LineNumber"> 012 </span>		มาลฺจ คนฺธฺจ วิเลปนฺจ  
+<span class="LineNumber"> 013 </span>		ปทีปยํ เสยฺยมุปสฺสยฺจ(๒)  
+<span class="LineNumber"> 014 </span>		อจฺฉาทนํ สยนํ อนฺนปานํ  
+<span class="LineNumber"> 015 </span>		สกฺกจฺจํ ทานานิ อทมฺห ตตฺถ  
+<span class="LineNumber"> 016 </span>		ตํ เม วตฺตํ ตมฺปน พฺรหฺมจริยํ  
+<span class="LineNumber"> 017 </span>		ตสฺส สุจิณฺณสฺส อยํ วิปาโก  
+<span class="LineNumber"> 018 </span>		อิทฺธี ชุตี พลวิริยูปปตฺติ  
+<span class="LineNumber"> 019 </span>		อิทฺจ เม ธีร มหาวิมานนฺติ(๑) ฯ  
+<span class="LineNumber"> 020 </span>	อถ นํ มหาสตฺโต อาห  
+<span class="LineNumber"> 021 </span># ๑. ม. มหาวิมานํ ฯ  ๒. ม. ปทีปิยํ เสยฺยมุปสฺสยํ จ ฯ

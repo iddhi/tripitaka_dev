@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>๖๖.  นอัชฌัตติกทุกอัชฌัตติกทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                       <H2>อนุโลมนัย</H2>     
+<span class="LineNumber"> 004 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๑๒๑] ๑.  <B>อัชฌัตติกธรรม     อาศัยธรรมที่ไม่ใช่อัชฌัตติก-
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น    เพราะเหตุปัจจัย</B>   มี ๓ วาระ.                           
+<span class="LineNumber"> 007 </span>                      ๔.  <B>พาหิรธรรม  อาศัยธรรมที่ไม่ใช่พาหิรธรรม  เกิด
+<span class="LineNumber"> 008 </span>ขึ้น  เพราะเหตุปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 009 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 010 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๑๒๒]  ในเหตุปัจจัย  มี  ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>                              <I>นอัชฌัตติกทุกอัชฌัตติกทุกะ  จบ</I>

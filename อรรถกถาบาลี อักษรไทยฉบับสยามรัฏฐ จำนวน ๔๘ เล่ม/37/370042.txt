@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  42
+
+<span class="LineNumber"> 002 </span>ธาเรตุมารโหติ  ธาเรตุํ  น  อรโห ฯ  ปฏิปชฺช  สตํ  นิกฺขนฺติ 
+<span class="LineNumber"> 003 </span>อมฺหากํ  เคเห  พหุ  มณิ  มยเมตํ  คเหตุํ  ชานาม  อหํ  ตุยฺหํ 
+<span class="LineNumber"> 004 </span>นิกฺขสตํ  ทสฺสามิ  ตํ  ปฏิปชฺช  เทหิ  อิมํ  รตนํ  มมนฺติ ฯ 
+<span class="LineNumber"> 005 </span>ตสฺส  หิ  เคเห  เอโกปิ  สุวณฺณนิกฺโข  นตฺถิ  โส  ปน  ตสฺส
+<span class="LineNumber"> 006 </span>มณิโน  สพฺพกามททภาวํ  ชานาติ  เตนสฺส  เอตทโหสิ  อหํ  
+<span class="LineNumber"> 007 </span>สีสํ(๑)  นหาตฺวา  มณึ  อุทเกน  ปริปฺโผสิตฺวา  นิกฺขสตํ  เม  เทหีติ  
+<span class="LineNumber"> 008 </span>วกฺขามิ  อถ(๒) เม  นํ  ทสฺสติ  ตมหํ  เอตสฺส  ทสฺสามีติ  ตสฺมา  
+<span class="LineNumber"> 009 </span>สูโร  หุตฺวา เอวมาห  
+<span class="LineNumber"> 010 </span>	ตโต อาลมฺพายโน คาถมาห  
+<span class="LineNumber"> 011 </span>	[๗๑๑]เนวมายํ (๓) มณี เกยฺโย		โคหิ วา รตเนหิ วา  
+<span class="LineNumber"> 012 </span>		เสโล พฺยฺชนสมฺปนฺโน		เนว เกยฺโย มณี มมนฺติ(๔) ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  เนวมายนฺติ  อยํ  มณิ  มม  สนฺตโก  เกนจิ  วตฺถุนา 
+<span class="LineNumber"> 014 </span>วิกฺกีณิตพฺโพ  นาม  น  โหติ ฯ  เนว  เกยฺโยติ  อยฺจ  มม  มณิ  
+<span class="LineNumber"> 015 </span>ลกฺขณสมฺปนฺโน  ตสฺมา  เนว  เกยฺโย  เกนจิ  วตฺถุนา  วิกฺกีณิตพฺโพ  
+<span class="LineNumber"> 016 </span>นาม น โหตีติ ฯ  
+<span class="LineNumber"> 017 </span>	เนสาทพฺราหฺมโณ อาห  
+<span class="LineNumber"> 018 </span>	[๗๑๒]โน เจ ตยา มณี เกยฺโย	โคหิ วา รตเนหิ วา  
+<span class="LineNumber"> 019 </span>		อถ เกน มณี เกยฺโย	ตํ เม อกฺขาหิ ปุจฺฉิโตติ ฯ  
+<span class="LineNumber"> 020 </span>	อาลมฺพายโน อาห  
+<span class="LineNumber"> 021 </span># ๑. ม. สสีสํ ฯ  ๒. ม.อเถส ฯ  ๓. ม. จ มฺยายํ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. มณิ มมาติ ฯ 

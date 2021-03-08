@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H2>เอตทัคคบาลี</H2> 
+
+<span class="LineNumber"> 002 </span>                                          <H1>วรรคที่ ๑</H1>
+
+<span class="LineNumber"> 003 </span>                          <H1>ว่าด้วยภิกษุผู้มีตำแหน่งเลิศ ๑  ท่าน</H1>
+
+<span class="LineNumber"> 004 </span>         [๑๔๖]   ดูก่อนภิกษุทั้งหลาย   <B>พระอัญญาโกณฑัญญะ</B>   เลิศกว่า
+<span class="LineNumber"> 005 </span>พวกภิกษุสาวกของเราผู้รู้ราตรีนาน.
+<span class="LineNumber"> 006 </span>         <B>พระสารีบุตร</B>     เลิศกว่าพวกภิกษสาวกของเราผู้มีปัญญามาก.
+<span class="LineNumber"> 007 </span>         <B>พระมหาโมคคัลลานะ</B>    เลิศกว่าพวกภิกษุสาวกของเราผู้มีฤทธิ์.
+<span class="LineNumber"> 008 </span>         <B>พระมหากัสสป</B>    เลิศกว่าพวกภิกษุสาวกของเรา    ผู้ทรงธุดงค์
+<span class="LineNumber"> 009 </span> และสรรเสริญคุณแห่งธุดงค์.
+<span class="LineNumber"> 010 </span>         <B>พระอนุรุทธะ</B>      เลิศกว่าพวกภิกษุสาวกของเราผู้มีทิพยจักษุ.
+<span class="LineNumber"> 011 </span>         <B>พระภัตทิยกาฬิโคธาบุตร</B>    เลิศกว่าพวกภิกษุสาวกของเราผู้เกิด 
+<span class="LineNumber"> 012 </span>ในตระกูลสูง.
+<span class="LineNumber"> 013 </span>         <B>พระลกุณฏกภัททิยะ</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้มีเสียง
+<span class="LineNumber"> 014 </span>ไพเราะ.
+<span class="LineNumber"> 015 </span>         <B>พระปิณโฑลภารทวาชะ</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้
+<span class="LineNumber"> 016 </span>บันลือสีหนาท.            
+<span class="LineNumber"> 017 </span>         <B>พระปุณณมันตานีบุตร</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้เป็น
+<span class="LineNumber"> 018 </span>ธรรมกถึก.
+<span class="LineNumber"> 019 </span>         <B>พระมหากัจจานะ</B>      เลิศกว่าพวกภิกษุสาวกของเราผู้จำแนก
+<span class="LineNumber"> 020 </span>อรรถแห่งภาษิตโดยย่อให้พิสดาร.
+<span class="LineNumber"> 021 </span>                                               <B>จบวรรคที่  ๑</B>

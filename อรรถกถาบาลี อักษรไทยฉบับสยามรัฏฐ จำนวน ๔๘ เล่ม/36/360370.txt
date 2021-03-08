@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  370
+
+<span class="LineNumber"> 002 </span>มหาอุมฺมงฺคชาตเก ป€มคาถมาห  
+<span class="LineNumber"> 003 </span>	[๖๐๐]	ปฺจาโล สพฺพเสนาย	พฺรหฺมทตฺโต สมาคโต (๑) 
+<span class="LineNumber"> 004 </span>			สายํ ปฺจาลิยา เสนา		อปฺปเมยฺยา มโหสถ  
+<span class="LineNumber"> 005 </span>			วิทฺธิมตี (๒) ปตฺติมตี		สพฺพสงฺคามโกวิทา  
+<span class="LineNumber"> 006 </span>			โอหารินี สทฺทวตี		เภริสงฺขปฺปโพธนา  
+<span class="LineNumber"> 007 </span>			โลหวิชฺชา อลงฺการา (๓)	ธชนี (๔) วามโรหินี  
+<span class="LineNumber"> 008 </span>			สิปฺปิเยหิ สุสมฺปนฺนา		สูเรหิ สุปฺปติฏฺ€ิตา (๕)  
+<span class="LineNumber"> 009 </span>			ทเสตฺถ ปณฺฑิตา อาหุ		ภูริปฺา รโหคตา  
+<span class="LineNumber"> 010 </span>			มาตา เอกาทสึ รฺโ		ปฺจาลิยํ ปสาสติ  
+<span class="LineNumber"> 011 </span>			อเถตฺเถกสตํ ขตฺยา		อนุยนฺตา ยสสฺสิโน  
+<span class="LineNumber"> 012 </span>			อจฺฉินฺนรฏฺ€า พฺยถิตา	ปฺจาลีนํ (๖) วสํ คตา  
+<span class="LineNumber"> 013 </span>			ยํ วทา ตกฺกรา รฺโ		อกามา ปิยภาณิโน  
+<span class="LineNumber"> 014 </span>			ปฺจาลมนุยายนฺติ		อกามา วสิโน คตา  
+<span class="LineNumber"> 015 </span>			ตาย เสนาย มิถิลา		ติสนฺธิปริวาริตา  
+<span class="LineNumber"> 016 </span>			ราชธานี วิเทหานํ		สมนฺตา ปริขฺติ  
+<span class="LineNumber"> 017 </span>			อุทฺธํ ตารกชาตาว		สมนฺตา ปริวาริตา  
+<span class="LineNumber"> 018 </span>			มโหสถ วิชานาหิ		กถํ โมกฺโข ภวิสฺสตีติ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ส. ม. พฺรหฺมทตฺโตยมาคโต  ฯ  ๒. สี. ยุ. ปิฏฺ€ิมตี ฯ  ม. วีถิมติ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. โลหวิชฺชาลงฺการาภา ฯ  ๔. ส. ม. ธชินี ฯ  ๕. ม. ยุ. รโหคมา ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. ปฺจาลิยํ ฯ  ยุ. ปฺจลีนํ ฯ

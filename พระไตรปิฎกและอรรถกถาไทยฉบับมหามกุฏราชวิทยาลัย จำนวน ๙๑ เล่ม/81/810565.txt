@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>คันธชาติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๔๕]  <B>สกวาที</B>    อุจจาระปัสสาวะของพระผู้มีพระภาคเจ้า   หอม
+<span class="LineNumber"> 003 </span>เกินคันธชาติอื่น ๆ หรือ ?
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. พระผู้มีพระภาคเจ้าทรงบริโภคของหอม หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น    ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. พระผู้มีพระภาคเจ้า     ทรงบริโภคข้าวสุกและขนม
+<span class="LineNumber"> 008 </span>กุมมาส  มิใช่หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. หากว่า    พระผู้มีพระภาคเจ้าทรงบริโภคข้าวสุกและ
+<span class="LineNumber"> 011 </span>ขนมกุมมาส   ก็ต้องไม่กล่าวว่า อุจจาระปัสสาวะของพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 012 </span>หอมเกินคันธชาติอื่น ๆ.
+<span class="LineNumber"> 013 </span>         [๑๗๔๖]  ส.  อุจจาระปัสสาวะของพระผู้มีพระภาคเจ้า     หอมเกิน
+<span class="LineNumber"> 014 </span>คันธชาติอื่น ๆ หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                       ส. คนบางพวกที่อาบ   ทา   เจิม   อุจจาระปัสสาวะของ
+<span class="LineNumber"> 017 </span>พระผู้มีพระภาคเจ้า  เก็บไว้ในลุ้ง<SUP>๑</SUP>  บรรจุไว้ในขวด  แผ่ขายที่ตลาด  กระทำ
+<span class="LineNumber"> 018 </span>กิจด้วยของหอม   ด้วยกลิ่นนั้น  มีอยู่  หรือ ?
+<span class="LineNumber"> 019 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 020 </span>                                  <I>คันธชาติกถา  จบ</I>
+
+<span class='footnote'>๑. ลุ้ง-ภาชนะสำหรับใส่ของ,  ดูนิยามคำในพจนานุกรมฉบับราชบัณฑิต.</span>

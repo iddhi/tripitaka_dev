@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ฉฏฺ€วคฺเค สีวลิตฺเถรคาถาวณฺณนา หน้า 299
+	
+<span class="LineNumber"> 002 </span>		นิพฺพุเต โลกนาถมฺหิ	อตฺถทสฺสีนรุตฺตเม(๑)  
+<span class="LineNumber"> 003 </span>		ตูริยํ สพฺพมาทาย		อคมํ โพธิมุตฺตมํ ฯ  
+<span class="LineNumber"> 004 </span>		วาทิเตน จ นจฺเจน		สมฺมตาฬ(๒)สมาหิโต  
+<span class="LineNumber"> 005 </span>		สมฺมุขา วิย สมฺพุทฺธํ	อุปฏฺ€ึ โพธิมุตฺตมํ ฯ  
+<span class="LineNumber"> 006 </span>		อุปฏฺ€หิตฺวา ตํ โพธึ	ธรณีรุหปาทปํ  
+<span class="LineNumber"> 007 </span>		ปลฺลงฺกํ อาภุชิตฺวาน	ตตฺถ กาลงฺกโต อหํ ฯ  
+<span class="LineNumber"> 008 </span>		สกกมฺมาภิรทฺโธหํ		ปสนฺโน โพธิมุตฺตเม  
+<span class="LineNumber"> 009 </span>		เตน จิตฺตปฺปสาเทน	นิมฺมานํ อุปปชฺชหํ ฯ  
+<span class="LineNumber"> 010 </span>		สฏฺ€ิตูริยสหสฺสานิ(๓)	ปริวาเรนฺติ มํ สทา  
+<span class="LineNumber"> 011 </span>		มนุสฺเสสุ จ เทเวสุ		วตฺตมานํ ภวาภเว ฯ  
+<span class="LineNumber"> 012 </span>		ติวิธคฺคี(๔) นิพฺพุตา มยฺหํ  ภวา สพฺเพ สมูหตา  
+<span class="LineNumber"> 013 </span>		ธาเรมิ อนฺติมํ เทหํ	สมฺมาสมฺพุทฺธสาสเน ฯ  
+<span class="LineNumber"> 014 </span>		สุพาหู นาม นาเมน	จตุตฺตึสาสุ ขตฺติยา  
+<span class="LineNumber"> 015 </span>		สตฺตรตนสมฺปนฺนา	ปฺจกปฺปสเต อิโต ฯ  
+<span class="LineNumber"> 016 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 017 </span>	อรหตฺตํ ปน ปตฺวา วิมุตฺติสุขปฏิสํเวทเนน ปีติเวเคน 
+<span class="LineNumber"> 018 </span>อุทาเนนฺโต  
+<span class="LineNumber"> 019 </span>		เต เม อิชฺฌึสุ สงฺกปฺปา	ยทตฺโถ ปาวิสึ กุฏึ  
+<span class="LineNumber"> 020 </span>		วิชฺชาวิมุตฺตึ ปจฺเจสฺสํ(๕)	มานานุสยมุชฺชหนฺติ(๖)
+<span class="LineNumber"> 021 </span># ๑. สฺยา. อตฺถทสฺสิทิปทุตฺตเม ฯ  ๒. สฺยา. สพฺพตาฬ... ฯ 
+<span class="LineNumber"> 022 </span># ๓. สฺยา. สฏฺ€ี ตุริยสหสฺสานิ ฯ  ๔. สฺยา. ติธคฺคี ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. ปจฺเจสํ ฯ  ๖. ขุ. เถร. ๒๖/๑๙๗/๒๗๓ ฯ 

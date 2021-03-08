@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>            <H1>กุสลติกทวิโคจฉกทุกนกุสลติกนทวิโคจฉกทุกะ</H1>  
+<span class="LineNumber"> 002 </span>         <H2>(กุสลติกะ   ๖๙.-๘๒.  ทวิโคจฉกทุกะ<SUP>๑</SUP>)</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>                                    <H2>อุปาทานบท</H2>
+<span class="LineNumber"> 007 </span>           [๔๑๑] ๑.  <B>ธรรมที่ไม่ใช่อุปาทานธรรม  ที่ไม่ใช่อกุศล  อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นอุปาทานธรรม   ที่เป็นอกุศล   เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>ฯลฯ</B>
+<span class="LineNumber"> 010 </span>                                          <H2>กิเลสบท</H2>
+<span class="LineNumber"> 011 </span>                       ๑.  <B>ธรรมที่ไม่ใช่กิเลสธรรม  ที่ไม่ใช่อกุศล  อาศัย
+<span class="LineNumber"> 012 </span>ธรรมที่เป็นกิเลสธรรม  ที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>     <I>กุสลติกทวิโคจฉกทุกนกุสลติกนทวิโคจฉกทุกะ  จบ</I>
+<span class='footnote'>๑. อุปาทานโคจฉกะ  และ  กิเลสทุกะ</span>

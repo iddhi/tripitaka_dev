@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                       ส. มหาภูตรูป   เป็นสาสวะ<SUP>๑</SUP>   เป็นสัญโญชนียะ  ฯลฯ  เป็น
+<span class="LineNumber"> 002 </span>สังกิเลสิกะ   หรือ ? 
+<span class="LineNumber"> 003 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. อริยรูป   เป็นสาสวะ   เป็นสัญโญชนียะ   ฯลฯ   เป็น
+<span class="LineNumber"> 005 </span>สังกิเลสิกะ หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 007 </span>         [๑๕๖๙]  ป. ไม่พึงกล่าวว่า   อริยรูปอาศัยมหาภูตรูป หรือ ?
+<span class="LineNumber"> 008 </span>                       ส.  ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ป. พระผู้มีพระภาคเจ้าได้ตรัสไว้ว่า   ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 010 </span>รูปอย่างใดอย่างหนึ่ง  คือ  มหาภูตรูป  ๔  และรูปที่อาศัยมหาภูตรูป  ๔
+<span class="LineNumber"> 011 </span>ดังนี้  เป็นสูตรมีอยู่จริง  มิใช่หรือ  ?
+<span class="LineNumber"> 012 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ป.  ถ้าอย่างนั้น  อริยรูปก็อาศัยมหาภูตรูป  น่ะสิ.
+<span class="LineNumber"> 014 </span>                                  <I>อริยรูปกถา   จบ</I>
+
+<span class="LineNumber"> 015 </span>                         <H2>อรรถกถาอริยรูปกถา</H2>
+
+<span class="LineNumber"> 016 </span>                              <H2>ว่าด้วย  อริยรูป</H2>
+
+<span class="LineNumber"> 017 </span>         บัดนี้   ชื่อว่าเรื่องอริยรูป    คือรูปของพระอริยะ  หรือรูปเป็นอริย.
+<span class="LineNumber"> 018 </span>ในเรื่องนั้น    ชนเหล่าใดมีความเห็นผิดดุจลัทธินิกายอุตตราปถกะทั้งหลาย
+<span class="LineNumber"> 019 </span>ว่า     สัมมาวาจา   สัมมากัมมันตะเป็นอุปาทารูป   คือรูปอาศัย    เพราะ
+<span class="LineNumber"> 020 </span>พระบาลีว่า   <B>ดูก่อนภิกษุทั้งหลาย  รูปอย่างใดอย่างหนึ่ง  คือมหาภูตรูป  ๔</B>
+
+<span class='footnote'>๑. สาสวะ  แปลว่า  เป็นอารมณ์ของอาสวะ  แม้คำต่อ ๆ ไป  ก็แปลโดยนัยเดียวกัน  เช่น  สัญโญชนียะ</span>
+<span class='footnote'>แปลว่า  เป็นอารมณ์ของสัญโญชน์  ดูนิทเทสในธรรมสังคณีปกรณ์.</span>

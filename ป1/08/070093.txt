@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	๕.  <B>กึ</B>  ศัพท์ที่มี <B>ย</B> นำหน้า  มี <B>จิ</B>  ต่อท้าย  ถ้าแจกวิภัตติในลิงค์
+<span class="LineNumber"> 002 </span>ทั้งสาม  ก็จะสำเร็จรูปดังนี้ :-   
+<span class="LineNumber"> 003 </span>                                          ปุํลิงค์
+<span class="LineNumber"> 004 </span>                   เอก.                                    พหุ.
+<span class="LineNumber"> 005 </span>ป.            <B>โย     โกจิ                             เย  เกจิ</B>
+<span class="LineNumber"> 006 </span>ทุ.             <B>ยงฺกญฺจิ                               เย  เกจิ</B>
+<span class="LineNumber"> 007 </span>ต.             <B>เยน  เกนจิ                            เยหิ  เกหิจิ</B>
+<span class="LineNumber"> 008 </span>จ.              <B>ยสฺส  กสฺสจิ                          เยสํ   เกสญฺจิ,  เยสานํ  เกสานญฺจิ</B>
+<span class="LineNumber"> 009 </span>ปญฺ.           <B>ยสฺมา  กสฺมาจิ                     เยหิ  เกหิจิ</B>
+<span class="LineNumber"> 010 </span>ฉ.               <B>ยสฺส  กสฺสจิ                          เยสํ  เกสญฺจิ,  เยสานํ  เกสานญฺจิ</B>
+<span class="LineNumber"> 011 </span>ส.               <B>ยสฺมึ  กสฺมิญฺจิ                       เยสุ  เกสุจิ.</B>
+
+<span class="LineNumber"> 012 </span>                                          อิตถีลิงค์
+<span class="LineNumber"> 013 </span>                    เอก.                                        พหุ.
+<span class="LineNumber"> 014 </span>ป.                 <B>ยา   กาจิ                               ยา  กาจิ</B>
+<span class="LineNumber"> 015 </span>ทุ.                  <B>ยงฺกญฺจิ                                ยา กาจิ</B>
+<span class="LineNumber"> 016 </span>ต.                  <B>ยาย  กายจิ                           ยาหิ  กาหิจิ</B>
+<span class="LineNumber"> 017 </span>จ.                   <B>ยสฺสา  กสฺสาจิ                      ยาสํ  กาสญฺจิ,  ยาสานํ  กาสานญฺจิ</B>
+<span class="LineNumber"> 018 </span>ปญฺ.               <B>ยาย  กายจิ                           ยาหิ  กาหิจิ</B>
+<span class="LineNumber"> 019 </span>ฉ.                   <B>ยสฺสา  กสฺสาจิ                       ยาสํ กาสญฺจิ,  ยาสานํ  กาสานญฺจิ</B>
+<span class="LineNumber"> 020 </span>ส.                    <B>ยสฺสํ  กสฺสญฺจิ                       ยาสุ  กาสุจิ.</B>

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                              คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.   คิหิปฏิบัติ     แปลว่าอย่างไร  ?  หมายความว่าอย่างไร  ?
+<span class="LineNumber"> 003 </span>	๒.  กรรมกิเลสมีเท่าไร  ?      เทียบกับปาราชิกของภิกษุได้อย่างไร
+<span class="LineNumber"> 004 </span>               เทียบมาดู ?
+<span class="LineNumber"> 005 </span>	๓.  บุคคลจะบริสุทธิ์   หรือเศร้าหมองเพราะอะไร   จงตอบให้ชัด  ?
+<span class="LineNumber"> 006 </span>	๔.  นักปราชญ์สรรเสริญกรรมอะไร  ?   กี่อย่าง  ?   คืออะไร  ?
+<span class="LineNumber"> 007 </span>	๕.   ถ้าเราไม่อยากให้นักปราชญ์ตำหนิติเตียน   เราควรจะทำอย่างไร  ?
+
+<span class="LineNumber"> 008 </span>				<B>	ดอกเอ๋ย         ดอกพลับพลึง	
+<span class="LineNumber"> 009 </span>				ดูน่าทึ่ง   นักหนา    มีราศี
+<span class="LineNumber"> 010 </span>				หลังกลีบแดง   หน้าขาว   ก้านยาวรี
+<span class="LineNumber"> 011 </span>				แต่ไม่มี    กลิ่นหอม    ย่อมราคา.
+<span class="LineNumber"> 012 </span>					เปรียบหญิงชาย   แต่งกาย   งามภายนอก
+<span class="LineNumber"> 013 </span>				ผุดผ่องผอก    เปล่งปลั่ง   ดั่งเลขา
+<span class="LineNumber"> 014 </span>				หากภายใน   ไร้ธรรม    สัมพุทธา
+<span class="LineNumber"> 015 </span>				ตกราคา   เสียดาย   หญิงชาย     เอย.</B>
+<span class="LineNumber"> 016 </span>									<B>ศรี  ฯ   นคร.</B>

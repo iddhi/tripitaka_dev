@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  17   นนฺทตฺเถรวตฺถุ   หน้า  123
+
+<span class="LineNumber"> 002 </span>กกุฏปาทานิ  (๑)  ปฺจ  อจฺฉราสตานิ  ทสฺเสสิ ฯ  ทสฺเสตฺวา  จ
+<span class="LineNumber"> 003 </span>ปน  เอวมาห  ตํ  กึ  มฺสิ  นนฺท  กตมา  นุโข  อภิรูปตรา  จ
+<span class="LineNumber"> 004 </span>(๒)
+<span class="LineNumber"> 005 </span>ทสฺสนียตรา  จ  (๒)  ปาสาทิกตรา  จ  (๒)  สากิยานี
+<span class="LineNumber"> 006 </span>วา  ชนปทกลฺยาณี  อิมานิ  วา  ปฺจ  อจฺฉราสตานิ
+<span class="LineNumber"> 007 </span>กกุฏปาทานีติ ฯ  ตํ  สุตฺวา  อาห  เสยฺยถาปิ  สา ภนฺเต
+<span class="LineNumber"> 008 </span>ฉินฺนกณฺณนาสนงฺคุฏฺ€า  ปลุฏฺ€มกฺกฏี  เอวเมว  โข  ภนฺเต
+<span class="LineNumber"> 009 </span>สากิยานี ชนปทกลฺยาณี  อิเมสํ  ปฺจนฺนํ  อจฺฉราสตานํ
+<span class="LineNumber"> 010 </span>อุปนิธาย  สงฺขฺยํปิ  น  อุเปติ   กลํปิ  น  อุเปติ  ภาคํปิ  น
+<span class="LineNumber"> 011 </span>อุเปติ  อถโข  อิมาเนว  ปฺจ  อจฺฉราสตานิ  อภิรูปตรานิ เจว
+<span class="LineNumber"> 012 </span>ทสฺสนียตรานิ  จ  ปาสาทิกตรานิ   จาติ ฯ  อภิรม  นนฺท
+<span class="LineNumber"> 013 </span>อภิรม  นนฺท  อหนฺเต  ปาฏิโภโค ปฺจนฺนํ  อจฺฉราสตานํ
+<span class="LineNumber"> 014 </span>ปฏิลาภาย  กกุฏปาทานนฺติ ฯ  สเจ  เม  ภนฺเต  ภควา
+<span class="LineNumber"> 015 </span>ปาฏิโภโค  ปฺจนฺนํ  อจฺฉราสตานํ  ปฏิลาภาย  กกุฏปาทานํ ฯ
+<span class="LineNumber"> 016 </span>อภิรมิสฺสามหํ  ภนฺเต  ภควา  พฺรหฺมจริเยติ ฯ  อถโข  ภควา
+<span class="LineNumber"> 017 </span>อายสฺมนฺตํ  นนฺทํ  คเหตฺวา  ตตฺถ  อนฺตรหิโต  เชตวเนเยว
+<span class="LineNumber"> 018 </span>ปาตุรโหสิ ฯ
+<span class="LineNumber"> 019 </span>	อสฺโสสุํ  โข  ภิกฺขู  อายสฺมา  กิร  นนฺโท  ภควโต
+<span class="LineNumber"> 020 </span>ภาตา  มาตุจฺฉาปุตฺโต  อจฺฉรานํ  เหตุ  พฺรหฺมจริยํ  จรติ  ภควา
+<span class="LineNumber"> 021 </span># ๑  กกุฏปาทานีติ รตฺตวณฺณตาย ปาราวตปาทสทิสปาทานิ ฯปาลิยมฺปน
+<span class="LineNumber"> 022 </span># กุกฺกุฏปาทานีติ ทิสฺสติ ฯ  ๒  ม. ยุ. วา ฯ ปาลิยมฺปิ วาติ ทิสฺสติ ฯ

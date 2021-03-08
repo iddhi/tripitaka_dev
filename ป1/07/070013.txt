@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              อุทาหรณ์  (ข้อ  ข)  
+<span class="LineNumber"> 002 </span>	พยัญชนะที่ ๓  ซ้อนหน้าพยัญชนะที่ ๓ นั้น  ดังนี้ :-
+<span class="LineNumber"> 003 </span>ค    ซ้อน   ค  เช่น    อคฺคิ     ช   ซ้อน     ช    เช่น   อชฺช
+<span class="LineNumber"> 004 </span>ฑ       "      ฑ    "       ฉุฑฺโฑ  ท     "         ท      "     สทฺโท
+<span class="LineNumber"> 005 </span>พ        "      พ    "        สพฺพํ 
+<span class="LineNumber"> 006 </span>	พยัญชนะที่ ๓ ซ้อนหน้าพยัญชนะที่ ๔ ดังนี้ :-
+<span class="LineNumber"> 007 </span>ค     ซ้อน     ฆ   เช่น    อคฺโฆ    ช   ซ้อน    ฌ    เช่น    อชฺฌาสโย
+<span class="LineNumber"> 008 </span>ฑ        "        ฒ     "       วุฑฺฒิ    ท      "       ธ       "        สทฺธา
+<span class="LineNumber"> 009 </span>พ         "        ภ      "       อพฺภานํ
+<span class="LineNumber"> 010 </span>                               อุทาหรณ์  (ข้อ ค)
+<span class="LineNumber"> 011 </span>	พยัญชนะที่สุดวรรค ซ้อนหน้าพยัญชนะในวรรคของตนดังนี้ :-
+<span class="LineNumber"> 012 </span>ง       ซ้อน      ก   เช่น     สุงฺโก     ง    ซ้อน      ข     เช่น    สงฺโข
+<span class="LineNumber"> 013 </span>ง          "         ค      "       องฺคํ       ง      "          ฆ      "       สงฺโฆ
+<span class="LineNumber"> 014 </span>         "         จ      "       ปญฺจ          "          ฉ      "       สญฺฉนฺนํ
+<span class="LineNumber"> 015 </span>         "          ช     "        กุญฺขโร      "           ฌ    "        วญฺฌา
+<span class="LineNumber"> 016 </span>         "              "        ปญฺา
+<span class="LineNumber"> 017 </span>ณ         "          ฏ     "         กณฺฏโก ณ    "           €     "        กณฺโ€
+<span class="LineNumber"> 018 </span>ณ         "          ฑ     "         คณฺฑิ    ณ    "           ฒ    "        สุณฺฒิ
+<span class="LineNumber"> 019 </span>ณ         "           ณ    "         กณฺโณ  
+<span class="LineNumber"> 020 </span>น          "           ต      "         ขนฺติ      น    "            ถ     "         ปนฺโถ
+<span class="LineNumber"> 021 </span>น          "            ท      "         จนฺโท    น   "             ธ     "         สนฺธิ
+
+                 

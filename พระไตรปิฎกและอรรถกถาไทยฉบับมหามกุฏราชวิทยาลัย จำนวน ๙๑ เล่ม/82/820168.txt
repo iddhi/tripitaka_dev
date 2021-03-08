@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   สัญญาขันธ์จักเกิดแก่บุคคลใดในภูมิใด,    เวทนาขันธ์
+<span class="LineNumber"> 002 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ?                   
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>                      <I>จบ    เวทนาขันธมูละ   สัญญาขันธมูลี</I>
+<span class="LineNumber"> 005 </span>                                     <I>เวทนาขันธมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                  <I>ปุคคโลกาสวาระ   จบ</I>
+<span class="LineNumber"> 007 </span>                           <I>อตีตานาคตวาระ   อนุโลม   จบ</I>

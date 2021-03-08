@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่  14  หน้า  13
+
+<span class="LineNumber"> 002 </span>					จริยสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	นวเม ฯ    โลกํ  ปาเลนฺตีติ  โลกํ  สนฺธาเรนฺติ  วาเสนฺติ  
+<span class="LineNumber"> 004 </span>รกฺขนฺติ  ฯ  นยิธ  ปฺาเยถ  มาตาติ  อิมสฺมึ  โลเก  ชนิกา  
+<span class="LineNumber"> 005 </span>มาตา  อยํ  เม  มาตาติ  ครุจิตฺตีการวเสน  น  ปฺาเยถ  ฯ  
+<span class="LineNumber"> 006 </span>อวเสสปเทสุปิ  เอเสว  นโย  ฯ  สมฺเภทนฺติ  สงฺกรํ  มริยาทเภทํ  
+<span class="LineNumber"> 007 </span>วา  ฯ  ยถา  อเชฬกาติอาทีสุ  เอเต  หิ  สตฺตา  อยํ  เม  มาตาติ  
+<span class="LineNumber"> 008 </span>มาตุจฺฉาติ  วาติ  ครุจิตฺตการวเสน (๑)  น  ชานนฺติ  ฯ  ยํ  วตฺถุํ  
+<span class="LineNumber"> 009 </span>นิสฺสาย  อุปฺปนฺนา  ตตฺเถว  วิปฺปฏิปชฺชนฺติ  ฯ  ตสฺมา  อุปมํ  
+<span class="LineNumber"> 010 </span>อาหรนฺโต  ยถา  อเชฬกาติอาทิมาห  ฯ  
+<span class="LineNumber"> 011 </span>					นวมํ  ฯ
+
+<span class="LineNumber"> 012 </span>			วสฺสูปนายิกสุตฺตวณฺณนา  
+<span class="LineNumber"> 013 </span>	ทสเม ฯ (๒) ฯ  อตฺถุปฺปตฺติยํ  วุตฺตํ  กตรอตฺถุปฺปตฺติยํ  มนุสฺสานํ  
+<span class="LineNumber"> 014 </span>อุชฺฌายเน  ฯ  ภควตา  หิ  ป€มโพธิยํ  วีสติ  วสฺสานิ  วสฺสู-
+<span class="LineNumber"> 015 </span>ปนายิกา  อปฺตฺตา  อโหสิ  ฯ  ภิกฺขู  อนิพฺพทฺธวาสา  (๓)  คิเมฺหปิ  
+<span class="LineNumber"> 016 </span>เหมนฺเตปิ  อุตุวสฺเสปิ  ยถาสุขํ  วิจรึสุ  ฯ  เต  ทิสฺวา  มนุสฺสา  
+<span class="LineNumber"> 017 </span>กถฺหิ  นาม  สมณา  สกฺยปุตฺติยา  เหมนฺตํปิ  คิมฺหํปิ  วสฺสํปิ  
+<span class="LineNumber"> 018 </span>จาริกํ  จริสฺสนฺติ  หริตานิ  ติณานิ  สมฺมทฺทนฺตา  เอกินฺทฺริยํ  
+<span class="LineNumber"> 019 </span>ชีวํ  วิเหเ€นฺตา  พหู  ขุทฺทเก  ปาเณ  สงฺฆาตํ  อาปาเทนฺตา 
+<span class="LineNumber"> 020 </span># ๑ ม. ครุจิตฺตีการวเสน ฯ  ๒ ม. ทสมํ ฯ  ๓ ม. อนิพทฺธวาสา  ฯ

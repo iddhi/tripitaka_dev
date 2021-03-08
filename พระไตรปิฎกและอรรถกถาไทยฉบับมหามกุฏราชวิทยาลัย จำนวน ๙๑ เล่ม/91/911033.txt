@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>ปัญหาวาระ</H2>  
+<span class="LineNumber"> 002 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                            <H2>๑. อารัมมณปัจจัย</H2> 
+<span class="LineNumber"> 004 </span>                                   <H2>อัพยากตบท</H2>	
+<span class="LineNumber"> 005 </span>           [๑๘๕] ๑.  <B>ธรรมที่ไม่ใช่อัพยากตธรรม     ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 006 </span>แต่ไม่ใช่อเหตุกธรรม เป็นปัจจัยแก่อัพยากตธรรม ที่เป็นทั้งเหตุธรรม
+<span class="LineNumber"> 007 </span>และสเหตุกธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>  มี ๓ วาระ   ฯลฯ
+<span class="LineNumber"> 008 </span>           รวมมี ๙ วาระ.
+<span class="LineNumber"> 009 </span>           <I>นเหตุสเหตุกทุกนกุสลติกเหตุสเหตุกทุกกุสลติกะ  จบ</I>

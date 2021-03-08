@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>            [๒๓]    ดูก่อนภิกษุทั้งหลาย    ความดับ    ความสงบ    ความไม่มี  
+<span class="LineNumber"> 002 </span>แห่งรูป    เป็นความดับแห่งทุกข์    เป็นความสงบแห่งโรค    เป็นความไม่มี
+<span class="LineNumber"> 003 </span>แห่งชราและมรณะ  ฯลฯ  ความดับ  ความสงบ  ความไม่มีแห่งธรรมารมณ์
+<span class="LineNumber"> 004 </span>เป็นความดับแห่งทุกข์     เป็นความสงบแห่งโรค     เป็นความไม่มีแห่งชรา
+<span class="LineNumber"> 005 </span>และมรณะ.
+<span class="LineNumber"> 006 </span>                       	<I>จบ  ทุติยอุปปาทสูตรที่  ๑๐
+<span class="LineNumber"> 007 </span>                                        ยมกวรรคที่  ๒</I>
+
+<span class="LineNumber"> 008 </span><h1>อรรถกถาปฐมอภินันทสูตรที่  ๗  เป็นต้น</h1>
+<span class="LineNumber"> 009 </span>            ในสูตรที่    ๗   เป็นต้น   พระผู้มีพระภาคเจ้าตรัสวัฏฏะและวิวัฏฏะ
+<span class="LineNumber"> 010 </span>ไว้ใน  ๔  สูตร   แต่อนุปุพพิกกาพึงทราบโดยนัยที่ตรัสแล้วนั่นแหล่ะ   ใน
+<span class="LineNumber"> 011 </span>หนหลังแก่ภิกษุเหล่านั้น.
+<span class="LineNumber"> 012 </span>                       <I>จบ  อรรถกถาปฐมอภินันทสูตรที่  ๗ เป็นต้น
+<span class="LineNumber"> 013 </span>                             จบ  อรรถกถายมกวรรคที่  ๒</I>
+                   
+<span class="LineNumber"> 014 </span>                         <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 015 </span>            ๑.  ปฐมสัมโพธสูตร    ๒.  ทุติยสัมโพธสูตร  ๓.  ปฐมอัสสาทสูตร
+<span class="LineNumber"> 016 </span>๔.   ทุติยอัสสาทสูตร    ๕.  ปฐมโนอัสสาทสูตร    ๖. ทุติยโนอัสสาสูตร
+<span class="LineNumber"> 017 </span>๗.   ปฐมอภินันทสูตร     ๘. ทุติยอภินันทสูตร     ๙.   ปฐมอุปปาทสูตร
+<span class="LineNumber"> 018 </span>๑๐.  ทุติยอุปปาทสูตร       

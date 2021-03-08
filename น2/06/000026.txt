@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                                        ตัวอย่างผ้านิสีทนะ  
+<span class="LineNumber"> 002 </span>                 แบบที่ ๑                                              แบบที่ ๒
+<span class="LineNumber"> 003 </span>           ๑.  ตัวนิสีทนะ                                      ๑.  ตัวนิสีทนะ
+<span class="LineNumber"> 004 </span>           ๒.  ชายผ้าเป็นแฉก                               ๒.  ชายใหญ่ 
+<span class="LineNumber"> 005 </span>                ไม่ได้เย็บติดกันบ้าง                         ๓.  ชายเล็ก.
+<span class="LineNumber"> 006 </span>                ไม่ได้ผ่าทีเดียวบ้าง.

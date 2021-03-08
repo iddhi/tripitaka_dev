@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>ปัญหาวาระ</H1>  
+<span class="LineNumber"> 002 </span>                                        <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                      <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๒๑๔๒]  ๑. <B>อัชฌัตตารัมมณธรรม   เป็นปัจจัยแก่อัชฌัตตา-
+<span class="LineNumber"> 005 </span>รัมมณรรม  ด้วยอำนาจของเหตปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  เหตุทั้งหลายที่เป็นอัชฌัตตารัมมณธรรม   เป็นปัจจัยแก่สัมปยุต-
+<span class="LineNumber"> 007 </span>ขันธ์ทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>           ในปฏิสนธิขณะ  เหตุทั้งหลายที่เป็นอัชฌัตตารัมมณธรรม  เป็นปัจจัย
+<span class="LineNumber"> 009 </span>แก่สัมปยุตตขันธ์ทั้งหลาย.
+<span class="LineNumber"> 010 </span>           [๒๑๔๓] ๒.  <B>พหิทธารัมมณธรรม  เป็นปัจจัยแก่พหิทธารัมมณ-
+<span class="LineNumber"> 011 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  เหตุทั้งหลายที่เป็นพหิทธารัมมณธรรม ฯลฯ
+<span class="LineNumber"> 013 </span>           ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 014 </span>                                     <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 015 </span>           [๒๑๔๔] ๑.  <B>อัชฌัตตารัมมณธรรม  เป็นปัจจัยแก่อัชฌัตตา-
+<span class="LineNumber"> 016 </span>รัมมณธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ   บุคคลพิจารณาวิญญาณัญจายตนะที่เป็นอัชฌัตตารัมมณธรรม,
+<span class="LineNumber"> 018 </span>พิจารณาเนวสัญญายตนะสัญญายตนะ     พิจารณาทิพยจักษุที่เป็นอัชฌัตตธรรม-

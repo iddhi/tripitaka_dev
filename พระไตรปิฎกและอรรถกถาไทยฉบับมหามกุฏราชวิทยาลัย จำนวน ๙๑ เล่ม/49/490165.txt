@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		        <H1>๓. มัตตาเปติวัตถุ</H1>  
+
+<span class="LineNumber"> 002 </span>                     <H2>ว่าด้วยผู้ดุร้ายตายเป็นนางเปรต</H2>
+
+<span class="LineNumber"> 003 </span>	นางติสสาถามหญิงเปรตตนหนึ่งว่า
+<span class="LineNumber"> 004 </span> 	<B>[๑๐๐]    ดูก่อนนางเปรตผู้ซูบผอมมีแต่ซี่โครง  ท่าน
+<span class="LineNumber"> 005 </span>      	   เป็นผู้เปลือยกาย  มีรูปร่างน่าเกลียด   ซูบผอม   มี
+<span class="LineNumber"> 006 </span>      	   ตัวสพรั่งไปด้วยเส้นเอ็น  ท่านเป็นใคร   มายืนอยู่
+<span class="LineNumber"> 007 </span>   	   ในที่นี้.</B>
+<span class="LineNumber"> 008 </span>	นางเปรตนั้นตอบว่า
+<span class="LineNumber"> 009 </span>             	<B>เมื่อก่อน  ท่านชื่อติสสา  ส่วนฉันชื่อมัตตา
+<span class="LineNumber"> 010 </span>     	   เป็นหญิงร่วมสามีกับท่าน     ได้ทำกรรมอันลามก
+<span class="LineNumber"> 011 </span>     	   ไว้  จึงจากมนุษยโลกนี้ไปสู่เปตโลก</B>
+<span class="LineNumber"> 012 </span> 	นางติสสาถามว่า
+<span class="LineNumber"> 013 </span>                	<B>ท่านได้ทำกรรมชั่วอะไรไว้ด้วยกาย   วาจา
+<span class="LineNumber"> 014 </span>           ใจ  หรือ  เพราะวิบากแห่งกรรมอะไร  ท่านจึงจาก
+<span class="LineNumber"> 015 </span>       	   มนุษยโลกนี้ไปสู่เปตโลก.</B>
+<span class="LineNumber"> 016 </span> 	นางเปรตนั้นตอบว่า
+<span class="LineNumber"> 017 </span>              	<B>ฉันเป็นหญิงดุร้ายและหยาบคาย   มักหึง-
+<span class="LineNumber"> 018 </span>      	   หวง  มีความตระหนี่  เป็นคนโอ้อวด ได้กล่าววาจา
+<span class="LineNumber"> 019 </span>     	   ชั่วกะท่าน   จึงจากโลกนี้ไปสู่เปตโลก</B>            

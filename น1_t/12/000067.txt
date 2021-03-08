@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                              จตุกกะ   คือหมวด  ๔   
+					     
+<span class="LineNumber"> 002 </span>                 วุฒิ   คือธรรมเป็นเครื่องเจริญ   ๔  อย่าง 
+<span class="LineNumber"> 003 </span>	<B>  ๑.   สัปปุริสสังเสวะ</B>   คบท่านผู้ประพฤติชอบด้วยกาย  วาจา   ใจ
+<span class="LineNumber"> 004 </span>ที่เรียกว่า   สัตบุรุษ. 
+<span class="LineNumber"> 005 </span>	<B>๒.  สัทธัมมัสสวนะ</B>   ฟังคำสอนของท่านโดยเคารพ.
+<span class="LineNumber"> 006 </span>	<B>๓.  โยนิโสมนสิการ  </B>  ตริตรองให้รู้จักสิ่งที่ดีหรือชั่วโดยอุบาย
+<span class="LineNumber"> 007 </span>                      ที่ชอบ.   
+<span class="LineNumber"> 008 </span>	<B>๔.   ธัมมานุธัมมปฏิปัตติ </B>  ประพฤติธรรมสมควรแก่ธรรมซึ่งได้
+<span class="LineNumber"> 009 </span>ครองเห็นแล้ว.
+<span class="LineNumber"> 010 </span>                                          อธิบายศัพท์ 
+<span class="LineNumber"> 011 </span>	  <B> ๑.   สัปปุริสสังเสวะ</B>   ตัดบทว่า  <B>สัป  </B>(ศัพท์เดิมเป็น   <B>สํ</B>   หรือ
+<span class="LineNumber"> 012 </span><B>สัต</B>)    แปลว่า  <B> ดี,  ปุริสะ</B>   แปลว่า   <B>คน,   สังเสวะ</B>    แปลว่า   <B>คบ</B>.
+<span class="LineNumber"> 013 </span>เมื่อรวมกันเข้าจึงเป็นรูป   <B>สัปปุริสสังเสวะ</B>   แปลตรงศัพท์ว่า   "<B> คบคนดี.</B> "
+<span class="LineNumber"> 014 </span>	<B>คนดี</B>   หมายถึงคนที่มีความรู้ดี   มีความประพฤติดี   มีธรรมดี ๆ
+<span class="LineNumber"> 015 </span>อยู่ในตัว   มีปกติทำดี   พูดดี   คิดดี   และชักนำผู้อื่นให้ทำดี   พูดดี   คิดดี
+<span class="LineNumber"> 016 </span>ด้วย   คนที่มีคุณธรรมดังนี้    ท่านเรียกว่า   <B>สัตบุรุษ</B>บ้าง   <B>บัณฑิต</B>บ้าง
+<span class="LineNumber"> 017 </span><B>นักปราชญ์</B>บ้าง.
+<span class="LineNumber"> 018 </span>	<B>  การคบสัตบุรุษ</B>   ได้แก่การเข้าไปหา    การสนทนา   การปรึกษา
+<span class="LineNumber"> 019 </span>สอบถามสิ่งที่ตนยังไม่รู้หรือสงสัยกะท่าน   และนำเอากิริยามรรยาทของท่าน
+<span class="LineNumber"> 020 </span>อันสมควรแก่ตนมาปรับปรุงมรรยาทของตนให้ดีขึ้น.

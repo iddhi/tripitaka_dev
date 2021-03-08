@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>กามราคานุสย  ปฏิฆานุสยมูล   มานานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ติกมูลกะ - กามราคานุสย - ปฏิฆานุสย - มานานุสยมูล  ทิฏฐา
+<span class="LineNumber"> 003 </span>                 นุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๔๐๕]   บุคคลไม่ละกามราคานุสัย  ปฏิฆานุสัย   และมานา-
+<span class="LineNumber"> 005 </span>นุสัย   จากที่ใด,  ย่อมไม่ละทิฏฐานุสัย  ฯล ฯ  วิจิกิจฉานุสัย   จากที่นั้น
+<span class="LineNumber"> 006 </span>ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า บุคคลไม่ละวิจิกิจฉานุสัย   จากที่ใด,  ย่อมไม่ละกาม-
+<span class="LineNumber"> 009 </span>ราคานุสัย   ปฏิฆานุสัย   และมานานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>  <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ ทิฏฐานุยาทิมูลี</I>
+
+<span class="LineNumber"> 012 </span><H2>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ  ภวราคานุสยมูลี</H2> :-
+<span class="LineNumber"> 013 </span>         บุคคลไม่ละกามราคานุสัย    ปฏิฆานุสัย   และมานานุสัย   จาก
+<span class="LineNumber"> 014 </span>ที่ใด,  ย่อมไม่ละภวราคานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>         ก็หรือว่าบุคคลไม่ละภวราคานุสัย  จากที่ใด,  ย่อมไม่ละกามราคา-
+<span class="LineNumber"> 017 </span>นุสัย   ปฏิฆานุสัย   และมานานุสัย   จากที่นั้น ใช่ไหม ?

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  660
+	
+<span class="LineNumber"> 002 </span>		สพฺเพ  กตา (๑) พุทฺธถูปํ  มยเมตฺถ อการกา  
+<span class="LineNumber"> 003 </span>		มยมฺปิ ถูปํ กริสฺสาม	โลกนาถสฺส ตาทิโน ฯ  
+<span class="LineNumber"> 004 </span>		เวทิโย สตฺต กตฺวาน	ธชํ ฉตฺตํ(๒) อกํสุ เต  
+<span class="LineNumber"> 005 </span>		สพฺพโสณฺณมยํ ถูปํ	คนฺธพฺพา การยุํ ตทา ฯ  
+<span class="LineNumber"> 006 </span>		สตฺตโยชนมุพฺเพโธ	ถูโป โอภาสตี ตทา  
+<span class="LineNumber"> 007 </span>		รตฺตินฺทิวา น ายนฺติ	อาโลโก โหติ สพฺพทา ฯ  
+<span class="LineNumber"> 008 </span>		อภิโภนฺติ น ตสฺสาภา	จนฺทสูรา สตารกา  
+<span class="LineNumber"> 009 </span>		สมนฺตา โยชนสเต		ปทีโปปิ น ปชฺชลิ(๓) ฯ  
+<span class="LineNumber"> 010 </span>		เตน กาเลน เย เกจิ	ถูปํ ปูเชนฺติ มานุสา  
+<span class="LineNumber"> 011 </span>		น เต ถูปํ อารุหนฺติ	อมฺพเร อุกฺขิปนฺติ เต ฯ  
+<span class="LineNumber"> 012 </span>		เทเวหิ €ปิโต ยกฺโข	อภิสมฺมตนามโก  
+<span class="LineNumber"> 013 </span>		ธชํ วา ปุปฺผทามํ วา	อภิโรเปติ อุตฺตรึ ฯ  
+<span class="LineNumber"> 014 </span>		น เต ปสฺสนฺติ ตํ ยกฺขํ	ทามํ ปสฺสนฺติ คจฺฉโต  
+<span class="LineNumber"> 015 </span>		เอวํ ปสฺสิตฺวา คจฺฉนฺติ	สพฺเพ คจฺฉนฺติ สุคฺคตึ ฯ  
+<span class="LineNumber"> 016 </span>		วิรุทฺธา เย ปาวจเน	ปสนฺนา เย จ สาสเน  
+<span class="LineNumber"> 017 </span>		ปาฏิหีรํ ทฏฺ€ุกามา	ถูปํ ปูเชนฺติ มานุสา ฯ  
+<span class="LineNumber"> 018 </span>		นคเร หํสวติยา		อโหสึ ภตโก(๔) ตทา  
+<span class="LineNumber"> 019 </span>		อาโมทิตํ ชนํ ทิสฺวา	เอวํ จินฺเตสหํ ตทา ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อกํสุ ฯ  ๒. สฺยา. ยาว ชงฺฆา ฯ  
+<span class="LineNumber"> 021 </span># ๓. ม. ปทีโปปิ น ปชฺชลิ ฯ  ๔. สฺยา. วรโก ฯ 

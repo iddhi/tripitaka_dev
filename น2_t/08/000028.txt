@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	ต.  อรรถกถาวินัยมี  ๕  คัมภีร์  คือ :-
+<span class="LineNumber"> 002 </span>	๑.  อรรถกถาอาทิกรรม  ชื่อ  ปฐมสมันตปาสาทิกา.
+<span class="LineNumber"> 003 </span>	๒.  อรรถกถาปาจิตติยะ  ชื่อ  ทุกติยสมันตปาสาทิกา.  
+<span class="LineNumber"> 004 </span>	๓.  อรรถกถามหาวรรค  ชื่อ   ตติยสมันตปาสาทิกา.
+<span class="LineNumber"> 005 </span>	๔.  อรรถกถาจุลลวรรค  ชื่อ   จตุตถสมันตปาสาทิกา.
+<span class="LineNumber"> 006 </span>	๕.  อรรถกถาบริวาร      ชื่อ   ปัญจมสมันตปาสาทิกา.
+<span class="LineNumber"> 007 </span>	เพราะเป็นคำอธิบายพระพุทธบัญญัติ  เพื่อให้เข้าใจง่ายขึ้น  จึง
+<span class="LineNumber"> 008 </span>เรียกว่าอรรถกถา.
+<span class="LineNumber"> 009 </span>							ส. ป.
+<span class="LineNumber"> 010 </span>	ถ.  คัมภีร์อรรถกถาพระวินัย  ในครั้งประถมสังคายนาได้มีขึ้น
+<span class="LineNumber"> 011 </span>แล้วหรือยังไม่มี  รู้ได้อย่างไร ?
+<span class="LineNumber"> 012 </span>	ต.  สันนิษฐานดูเห็นได้ว่า   ในครั้งประถมสังคายนานั้น  คง
+<span class="LineNumber"> 013 </span>สังคายนากันเฉพาะที่เป็นส่วนพระพุทธพจน์  ในเวลานั้นคัมภีร์อรรถ-
+<span class="LineNumber"> 014 </span>กถายังไม่มีปรากฏว่าใครได้แต่งขึ้น   ได้มาแต่งกันขึ้นในกาลภายหลัง
+<span class="LineNumber"> 015 </span>เพราะตามเรื่องว่า   อรรถกถา   โดยเฉพาะอรรถกถาวินัย  ก็ปรากฏว่า
+<span class="LineNumber"> 016 </span>พระพุทธโฆษาจารย์ได้แต่งขึ้นภายหลังแต่พุทธปรินิพพาน  ๙๐๐  ปีเศษ
+<span class="LineNumber"> 017 </span>เพราะฉะนั้น  จึงสันนิษฐานเห็นได้ว่า   ในครั้งทำประถมสังคายนานั้น
+<span class="LineNumber"> 018 </span>ยังไม่มีอรรถกถา.
+<span class="LineNumber"> 019 </span>							ส. ป.
+<span class="LineNumber"> 020 </span>	ถ.  จงแสดงอรรถของพระวินัย  ข้อที่ว่า  วิวิธนยัตตา  เพราะมี
+<span class="LineNumber"> 021 </span>นัยต่าง ๆ  มาดูพอได้ในความ.
+

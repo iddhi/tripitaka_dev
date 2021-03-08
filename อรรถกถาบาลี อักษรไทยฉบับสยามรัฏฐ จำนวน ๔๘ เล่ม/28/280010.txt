@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  10
+
+<span class="LineNumber"> 002 </span>	ยถาปิ ปุริโส โจเรหิ		คจฺฉนฺโต ภณฺฑมาทิย  
+<span class="LineNumber"> 003 </span>	ภณฺฑจฺเฉทภยํ ทิสฺวา	ฉฑฺฑยิตฺวาน คจฺฉติ  
+<span class="LineNumber"> 004 </span>	เอวเมว อยํ กาโย		มหาโจรสโม วิย  
+<span class="LineNumber"> 005 </span>	ปหายิมํ คมิสฺสามิ		กุสลจฺเฉทนาภยาติ ฯ  
+<span class="LineNumber"> 006 </span>	เอวํ  สุเมธปณฺฑิโต  นานาวิธาหิ  อุปมาหิ  อิมํ 
+<span class="LineNumber"> 007 </span>เนกฺขมฺมูปสํหิตํ  อตฺถํ  จินฺเตตฺวา  สกนิเวสเน  อปริมิตโภคกฺขนฺธํ  
+<span class="LineNumber"> 008 </span>เหฏฺ€า  วุตฺตนเยน  กปณทฺธิกาทีนํ  วิสฺสชฺเชตฺวา  มหาทานํ
+<span class="LineNumber"> 009 </span>ทตฺวา  วตฺถุกาเม  จ  กิเลสกาเม  จ  ปหาย  อมรนครโต  
+<span class="LineNumber"> 010 </span>นิกฺขมิตฺวา  เอกโกว  หิมวนฺเต  ธมฺมิกํ  นาม  ปพฺพตํ  นิสฺสาย 
+<span class="LineNumber"> 011 </span>อสฺสมํ  กตฺวา ตตฺถ  ปณฺณสาลฺจ  จงฺกมฺจ  มาเปตฺวา
+<span class="LineNumber"> 012 </span>[อตฺตโน  ปุฺพเลน  มาเปสิ] ปฺจหิ  นีวรณโทเสหิ  วิวชฺชิตุํ(๑)
+<span class="LineNumber"> 013 </span>เอวํ  สมาหิเต  จิตฺเตติ  อาทินา  นเยน  วุตฺเตหิ อฏฺ€หิ 
+<span class="LineNumber"> 014 </span>การณคุเณหิ  สมุเปตํ  อภิฺาสงฺขาตํ  พลํ  อาหริตฺวา(๒) ตสฺมึ 
+<span class="LineNumber"> 015 </span>ตสฺสมปเท  นวโทสสมนฺนาคตํ  สาฏกํ  ปชหิตฺวา  ทฺวาทส-
+<span class="LineNumber"> 016 </span>คุณสมนฺนาคตํ  วากจีรํ  นิวาเสตฺวา  อิสิปพฺพชฺชํ  ปพฺพชิ ฯ  
+<span class="LineNumber"> 017 </span>เอวํ  ปพฺพชิโต  อฏฺ€โทสสมากิณฺณํ  ตํ  ปณฺณสาลํ  ปหาย 
+<span class="LineNumber"> 018 </span>ทสคุณสมนฺนาคตํ  รุกฺขมูลํ  อุปคนฺตฺวา  สพฺพํ  ธฺวิกตึ 
+<span class="LineNumber"> 019 </span>ปหาย  ปวตฺตผลโภชโน  หุตฺวา  นิสชฺชฏฺ€านจงฺกมนวเสน  ปธานํ
+<span class="LineNumber"> 020 </span>ปทหนฺโต  สตฺตาหพฺภนฺตเรเยว  อฏฺ€นฺนํ  สมาปตฺตีนํ  ปฺจนฺนํ  
+<span class="LineNumber"> 021 </span># [ ] มรมฺมโปตฺถเก นตฺถิ ฯ  ๑. ม.วิวชฺชิตํ ฯ 
+<span class="LineNumber"> 022 </span># ๒. ม. อาหริตุํ ฯ 

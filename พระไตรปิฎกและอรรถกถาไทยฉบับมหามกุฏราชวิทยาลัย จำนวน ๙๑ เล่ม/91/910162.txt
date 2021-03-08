@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่กิเลสวิปปยุตตธรรม 
+<span class="LineNumber"> 002 </span>และไม่ใช่อสังกิเลสิกธรรม  ฯลฯ</B>
+<span class="LineNumber"> 003 </span>       	   <B>ฯลฯ   อาศัยธรรมที่ไม่ใช่กุศล    ที่เป็นกิเลสวิปปยุตตธรรม
+<span class="LineNumber"> 004 </span>และไม่ใช่อสังกิเลสิกธรรม  ฯลฯ</B> 
+<span class="LineNumber"> 005 </span>                       <I>นกิเลสโคจฉกทุกนกุสลติกะ  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                   <H1>ปิฏฐิทุกนกุสลติกะ</H1>
+<span class="LineNumber"> 007 </span>               <H2>(๘๓-๙๙.  ปิฏฐิทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 008 </span>                                       <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 009 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>                                      <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>      	    [๒๖๔]  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล    ที่ไม่ใช่ทัสสเนน-
+<span class="LineNumber"> 012 </span>ปหาตัพพธรรม   ฯลฯ</B> 
+<span class="LineNumber"> 013 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล    ที่ไม่ใช่ธรรมที่ไม่ใช่ทัสส-
+<span class="LineNumber"> 014 </span>เนนปหาตัพพธรรม  ฯลฯ</B>
+<span class="LineNumber"> 015 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่ภาวนายปหาตัพพ-
+<span class="LineNumber"> 016 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 017 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่ธรรมที่ไม่ใช่ภาว-
+<span class="LineNumber"> 018 </span>นายปหาตัพพธรรม   ฯลฯ</B>

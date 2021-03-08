@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           มีอยู่   สังฆอุโบสถและสังฆปวารณา    ควรแก่สงฆ์     ไม่ควรแก่คณะ  
+<span class="LineNumber"> 002 </span>และบุคคล
+<span class="LineNumber"> 003 </span>           มีอยู่   คณะอุโบสถ   และคณะปวารณา  ควรแก่คณะ  ไม่ควรแก่สงฆ์
+<span class="LineNumber"> 004 </span>และบุคคล                                        
+<span class="LineNumber"> 005 </span>           มีอยู่   อธิษฐานอุโบสถ   และอธิษฐานปวารณา   ควรแก่บุคคล  ไม่
+<span class="LineNumber"> 006 </span>ควรแก่สงฆ์   และคณะ.
+
+<span class="LineNumber"> 007 </span>                                 <H1>ว่าด้วยการปิดเป็นต้น</H1> 
+<span class="LineNumber"> 008 </span>           [๙๕๗]  การปิดมี ๓  คือ  ปิดวัตถุ  ไม่ปิดอาบัติ  ๑  ปิดอาบัติ  ไม่
+<span class="LineNumber"> 009 </span>ปิดวัตถุ  ๑  ปิดทั้งวัตถุและอาบัติ ๑
+<span class="LineNumber"> 010 </span>           เครื่องปกปิดมี  ๓  คือ  เครื่องปกปิด  คือ  เรือนไฟ ๑  เครื่องปกปิด
+<span class="LineNumber"> 011 </span>คือ  น้ำ ๑  เครื่องปกปิด  คือ   ผ้า ๑
+<span class="LineNumber"> 012 </span>           สิ่งที่กำบังไม่เปิดเผยนำไปมี ๓ คือ  มาตุคาม  กำบังไม่เปิดเผยนำไป ๑
+<span class="LineNumber"> 013 </span>มนต์ของพวกพราหมณ์กำบังไม่เปิดเผยนำไป  ๑     มิจฉาทิฏฐิกำบังไม่เปิดเผย
+<span class="LineNumber"> 014 </span>นำไป ๑
+<span class="LineNumber"> 015 </span>           สิ่งที่เปิดเผยไม่กำบังจึงรุ่งเรืองมี  ๓  คือ   ดวงจันทร์เปิดเผย  ไม่กำบัง
+<span class="LineNumber"> 016 </span>จึงรุ่งเรื่อง  ๑     ดวงอาทิตย์เปิดเผยไม่กำบังจึงรุ่งเรื่อง  ๑    ธรรมวินัยอันพระ-
+<span class="LineNumber"> 017 </span>ตถาคตเจ้าประกาศแล้วเปิดเผยไม่กำบังจึงรุ่งเรือง ๑
+<span class="LineNumber"> 018 </span>           การให้ถือเสนาสนะมี  ๓   คือ  ให้ถือในวันเข้าพรรษาต้น   ๑   ให้ถือ
+<span class="LineNumber"> 019 </span>ในวันเข้าพรรษาหลัง ๑  ให้ถือพ้นระหว่างนั้น   ๑.

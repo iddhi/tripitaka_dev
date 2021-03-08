@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๑๔๒]  ในเหตุปัจจัย มี  ๔ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                      <H2>นเหตุบท</H2> 
+<span class="LineNumber"> 004 </span>           [๑๑๔๓] ๑.  <B>ธรรมที่ไม่ใช่นเหตุธรรม    ที่ไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 005 </span>ภาวนายปหาตัพพธรรม  อาศัยนเหตุธรรม  ที่เป็นภาวนายปหาตัพพ-
+<span class="LineNumber"> 006 </span>ธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๑ วาระ. 
+<span class="LineNumber"> 007 </span>                         ๒.   <B>ธรรมที่ไม่ใช่นเหตุธรรมที่ไม่ใช่ภาวนายปหา- 
+<span class="LineNumber"> 008 </span>ตัพพธรรม อาศัยนเหตุธรรม ที่ไม่ใช่ภาวนายปหาตัพพธรรม เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>            
+                                          
+<span class="LineNumber"> 010 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๑๑๔๔]  ในเหตุปัจจัย มี  ๒  วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span> <I>ภาวนายปหาตัพพทุกเหตุทุกนภาวนายปหาตัพพทุกนเหตุทุกะ  จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <H2>รูปังสเหตุกันติกถา</H2> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๖๓ ]  <B>สกวาที</B>  รูปเป็นธรรมที่มีเหตุหรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส.  รูปเป็นธรรมมีเหตุ  โดยเหตุคืออโลภะหรือ ?
+<span class="LineNumber"> 005 </span>                       ป.  ไม่พึงกล่าวอย่างนั้น ฯลฯ 
+<span class="LineNumber"> 006 </span>                       ส.  รูปเป็นธรรมมีเหตุ   โดยเหตุคืออโทสะ  ฯลฯ  โดยเหตุ
+<span class="LineNumber"> 007 </span>คืออโมหะ  ฯลฯ  โดยเหตุคือโลภะ  ฯลฯ  โดยเหตุคือโทสะ  ฯลฯ  โดยเหตุคือ
+<span class="LineNumber"> 008 </span>โมหะ หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ 
+<span class="LineNumber"> 010 </span>         [๑๖๖๔]   ส.  รูปเป็นธรรมมีเหตุหรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ส. รูปเป็นธรรมมีอารมณ์ ความนึก ฯลฯ  ความตั้งใจแห่ง
+<span class="LineNumber"> 013 </span>รูปนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 014 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 015 </span>                       ส. รูปเป็นธรรมไม่มีอารมณ์  ความนึก ฯลฯ  ความตั้งใจ
+<span class="LineNumber"> 016 </span>แห่งรูปนั้นไม่มี มิใช่หรือ ?
+<span class="LineNumber"> 017 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                       ส. หากว่า    รูปเป็นธรรมไม่มีอารมณ์   ความนึก   ฯลฯ
+<span class="LineNumber"> 019 </span>ความตั้งใจแห่งรูปนั้นไม่มี ก็ต้องไม่กล่าวว่า  รูปเป็นธรรมมีเหตุ.
+<span class="LineNumber"> 020 </span>         [๑๖๖๕]  ส. อโลภะเป็นธรรมมีเหตุ   เป็นธรรมมีอารมณ์ ความนึก
+<span class="LineNumber"> 021 </span>ฯลฯ ความตั้งใจแห่งอโลภะนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ถูกแล้ว.

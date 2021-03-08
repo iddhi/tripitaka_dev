@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของอัญญมัญญปัจจัย</B> 
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของนิสสยปัจจัย</B>
+<span class="LineNumber"> 003 </span>           ทั้ง ๓ ปัจจัย   เหมือนกับเหตุปัจจัย   ในปฏิจจวาระ.
+
+<span class="LineNumber"> 004 </span>                                <H1>๙.  อุปนิสสยปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๑๖]  ๑.  <B>ธรรมที่เป็นทั้งเหตุธรรมและสเหตุกธรรม    เป็น
+<span class="LineNumber"> 006 </span>ปัจจัยแก่ธรรมที่เป็นทั้งเหตุธรรมและสเหตุกธรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 007 </span>อุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 008 </span>           มี ๓ อย่าง  คือที่เป็น  <B>อารัมมณูปนิสสยะ   อนันตรูปนิสสยะ</B>  และ
+<span class="LineNumber"> 009 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 010 </span>           ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 011 </span>           เหตุธรรมทั้งหลาย   เป็นปัจจัยแก่เหตุธรรมทั้งหลาย   ด้วยอำนาจของ
+<span class="LineNumber"> 012 </span>อุปนิสสยปัจจัย.
+<span class="LineNumber"> 013 </span>           เหตุธรรมทั้งหลาย    เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นสเหตุกธรรมแต่
+<span class="LineNumber"> 014 </span>ไม่ใช่เหตุธรรม   ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 015 </span>           เหตุธรรมทั้งหลาย   เป็นปัจจัยแก่เหตุธรรมทั้งหลายและสัมปยุตตขันธ์
+<span class="LineNumber"> 016 </span>ทั้งหลาย   ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 017 </span>           พึงถามถึงมูลทั้งหลาย   แห่งหัวข้อปัจจัยทั้งหลาย   แม้ทั้ง ๒ เหล่านี้.
+<span class="LineNumber"> 018 </span>                     ๒.  <B>ธรรมที่เป็นสเหตุกธรรมแต่ไม่ใช่เหตุธรรม     เป็น
+<span class="LineNumber"> 019 </span>ปัจจัยแก่ธรรมที่เป็นสเหตุกธรรมแต่ไม่ใช่เหตุธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 020 </span>อุปนิสสยปัจจัย</B>

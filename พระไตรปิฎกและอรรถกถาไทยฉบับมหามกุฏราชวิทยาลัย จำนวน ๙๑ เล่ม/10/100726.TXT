@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                              <H1>กฐินเภท</H1>  
+<span class="LineNumber"> 002 </span>                          <H1>ว่าด้วยกฐินไม่เป็นอันกรานเป็นต้น</H1>
+<span class="LineNumber"> 003 </span>           [๑,๑๒๔]  กฐินใครไม่ได้กราน   กฐินใครได้กราน   กฐินไม่เป็นอัน
+<span class="LineNumber"> 004 </span>กราน  ด้วยอาการอย่างไร   กฐินเป็นอันกรานด้วยอาการอย่างไร.
+
+<span class="LineNumber"> 005 </span>                                     <H1>กฐินไม่เป็นอันกราน</H1>
+<span class="LineNumber"> 006 </span>           [๑,๑๒๕]  คำว่า    กฐินใครไม่ได้กราน    นั้น     ความว่า   กฐิน
+<span class="LineNumber"> 007 </span>บุคคล ๒ พวก  คือ   ภิกษุผู้ไม่ได้กราน  ๑   ภิกษุผู้ไม่อนุโมทนา ๑   ไม่เป็น
+<span class="LineNumber"> 008 </span>อันกราน  กฐิน  บุคคล ๒ พวกนี้   ไม่เป็นอันกราน.
+
+<span class="LineNumber"> 009 </span>                                     <H1>กฐินเป็นอันกราน</H1>
+<span class="LineNumber"> 010 </span>           [๑,๑๒๖]  คำว่า  กฐินใครได้กราน  นั้น  ความว่า  กฐิน   บุคคล
+<span class="LineNumber"> 011 </span>๒ พวกนี้    คือ   ภิกษุผู้กราน ๑   ภิกษุผู้อนุโมทนา ๑   เป็นอันกราน   กฐิน
+<span class="LineNumber"> 012 </span>บุคคล ๒ พวกนี้   เป็นอันกราน.
+
+<span class="LineNumber"> 013 </span>                                 <H1>เหตุที่กฐินไม่เป็นอันกราน</H1>
+<span class="LineNumber"> 014 </span>           [๑,๑๒๗]  คำว่า  กฐินไม่เป็นอันกรานด้วยอาการอย่างไร  นั้น
+<span class="LineNumber"> 015 </span>คือ  กฐินไม่เป็นอันกรานด้วยอาการ ๒๔ คือ:- 
+<span class="LineNumber"> 016 </span>           ๑.  กฐินไม่เป็นอันกราน  ด้วยอาการเพียงขีดรอย
+<span class="LineNumber"> 017 </span>           ๒.  กฐินไม่เป็นอันกราน  ด้วยอาการเพียงซักผ้า

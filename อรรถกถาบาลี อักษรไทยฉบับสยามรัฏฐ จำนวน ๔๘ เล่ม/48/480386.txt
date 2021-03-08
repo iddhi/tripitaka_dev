@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  386
+
+<span class="LineNumber"> 002 </span>			อาสวกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ อาสวกถา นาม โหติ ฯ ตตฺถ ยสฺมา จตูหิ 
+<span class="LineNumber"> 004 </span>อาสเวหิ อุตฺตรึ อฺโ อาสโว นาม นตฺถิ เยน จตฺตาโร
+<span class="LineNumber"> 005 </span>อาสวา สาสวา  สิยุํ ตสฺมา จตฺตาโร อาสวา อนาสวาติ
+<span class="LineNumber"> 006 </span>เยสํ ลทฺธิ เสยฺยถาปิ เหตุวาทานํ เต  สนฺธาย ปุจฺฉา
+<span class="LineNumber"> 007 </span>สกวาทิสฺส ปฏิฺา อิตรสฺส ฯ อถ นํ ยทิ เต อาสวา 
+<span class="LineNumber"> 008 </span>อนาสวา เอวํ สนฺเต เตหิ มคฺคาทิลกฺขณปฺปตฺเตหิ ภวิตพฺพนฺติ
+<span class="LineNumber"> 009 </span>โจเทตุํ  มคฺโคติอาทิมาห ฯ เสสเมตฺถ อุตฺตานตฺถเมวาติ ฯ 
+<span class="LineNumber"> 010 </span>		อาสวกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 011 </span>			ชรามรณกถาวณฺณนา 
+<span class="LineNumber"> 012 </span>	อิทานิ  ชรามรณกถา  นาม  โหติ ฯ  ตตฺถ  ชรามรณํ 
+<span class="LineNumber"> 013 </span>นาม  อปรินิปฺผนฺนตฺตา  โลกิยนฺติ  วา  โลกุตฺตรนฺติ  วา  น
+<span class="LineNumber"> 014 </span>วตฺตพฺพํ ฯ  โลกิยา ธมฺมา โลกุตฺตรา  ธมฺมาติ  หิ  ทุเก 
+<span class="LineNumber"> 015 </span>ชรามรณํ  เนว  โลกิยปเท  น  โลกุตฺตรปเท  นิทฺทิฏฺ€ํ ฯ  ตตฺถ
+<span class="LineNumber"> 016 </span>เยสํ  อิมํ  ลกฺขณํ  อนาทิยิตฺวา โลกุตฺตรานํ ธมฺมานํ ชรามรณํ
+<span class="LineNumber"> 017 </span>โลกุตฺตรนฺติ  ลทฺธิ  เสยฺยถาปิ  มหาสงฺฆิกานํ  เต  สนฺธาย  ปุจฺฉา 
+<span class="LineNumber"> 018 </span>สกวาทิสฺส ปฏิฺา อิตรสฺส ฯ เสสเมตฺถ ยถาปาลิเมว
+<span class="LineNumber"> 019 </span>นิยฺยาตีติ ฯ 
+<span class="LineNumber"> 020 </span>		ชรามรณกถาวณฺณนา นิฏฺ€ิตา ฯ 

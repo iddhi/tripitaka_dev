@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๙๒๙]  ในเหตุปัจจัย มี ๑ วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                        <H2>อัปปฏิฆบท</H2>
+<span class="LineNumber"> 004 </span>           [๙๓๐] ๑.  <B>ธรรมที่ไม่ใช่อัปปฏิฆธรรม      ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 005 </span>อาศัยอัปปฏิฆธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 006 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 007 </span>           [๙๓๑]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 008 </span>                 <I>เหตุทุกสัปปฏิฆทุกนเหตุทุกนสัปปฏิฆทุกะ  จบ</I>
+
+<span class="LineNumber"> 009 </span>                               <H1>เหตุทุกรูปีทุกนเหตุทุกนรูปีทุกะ</H1>
+<span class="LineNumber"> 010 </span>                              <H2>(๑. เหตุทุกะ  ๑๐. รูปีทุกะ)</H2>
+<span class="LineNumber"> 011 </span>                                            <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 012 </span>                                              <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>                                            <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>                                                    <H2>รูปีบท</H2>			
+<span class="LineNumber"> 015 </span>           [๙๓๒] ๑.  <B>ธรรมที่ไม่ใช่รูปีธรรม  ที่ไม่ใช่นเหตุธรรม  อาศัย
+<span class="LineNumber"> 016 </span>รูปีธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>

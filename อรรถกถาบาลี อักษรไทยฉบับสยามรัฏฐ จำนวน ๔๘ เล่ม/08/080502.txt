@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ มหายมกวคฺควณฺณนา  หน้า  ๕๐๒
+		
+<span class="LineNumber"> 002 </span>ตาวตึสภวเน  นิพฺพตฺติ ฯ
+<span class="LineNumber"> 003 </span>	  ตสฺมึ  กาเล  อสุรคณา  ตาวตึสเทวโลเก  ปฏิวสนฺติ  ฯ
+<span class="LineNumber"> 004 </span>สพฺเพ  เต  เทวานํ  สมานายุกา  สมานวณฺณา  จ  (๑)  โหนฺติ ฯ
+<span class="LineNumber"> 005 </span>เต  สกฺกํ  สปริสํ  ทิสฺวา  อธุนา  นิพฺพตฺตา   นวกเทวปุตฺตา  
+<span class="LineNumber"> 006 </span>อาคตาติ  มหาปานํ  สชฺชยึสุ  สกฺโก  เทวปุตฺตานํ  สฺํ 
+<span class="LineNumber"> 007 </span>อทาสิ  อเมฺหหิ  กุสลํ  กโรนฺเตหิ  น  ปเรหิ  สทฺธึ  สาธารณํ  
+<span class="LineNumber"> 008 </span>กตํ  ตุเมฺห  คณฺฑปานํ  มา  ปิวิตฺถ  ปีตมตฺตเมว  กโรถาติ  ฯ 
+<span class="LineNumber"> 009 </span>เต  ตถา  อกํสุ  พาลอสุรา  คณฺฑปานํ  ปิวิตฺวา  มตฺตา 
+<span class="LineNumber"> 010 </span>นิทฺทํ  โอกฺกมึสุ  สกฺโก  เทวานํ  สฺํ  ทตฺวา  เต  ปาเทสุ  
+<span class="LineNumber"> 011 </span>คเหตฺวา(๒)  สิเนรุปาเท  ขิปาเปสิ  สิเนรุสฺส  หิ  เหฏฺ€ิมตเล  
+<span class="LineNumber"> 012 </span>อสุรภวนํ  นาม  อตฺถิ  ตาวตึสเทวโลกปฺปมาณเมว  ตตฺถ  อสุรา  
+<span class="LineNumber"> 013 </span>วสนฺติ  เตสํ(๓)  จิตฺตปาฏลิ  นาม  รุกฺโข  อตฺถิ  เต  ตสฺส 
+<span class="LineNumber"> 014 </span>ปุปฺผนกาเล  ชานนฺติ  นายํ  ตาวตึสา  สกฺเกน  วฺจิตา  
+<span class="LineNumber"> 015 </span>มยนฺ  ติ  เต  คณฺหถ  นนฺติ  วตฺวา  สิเนรุํ  ปริจรมานา  (๔)  เทเว 
+<span class="LineNumber"> 016 </span>วุฏฺเ€  วมฺมิกปาทโต  วมฺมิกมกฺขิกา  วิย  อภิรุหึสุ  ตตฺถ  
+<span class="LineNumber"> 017 </span>กาเลน  เทวา  ชินนฺติ  กาเลน  อสุรา  ยทา  เทวานํ  
+<span class="LineNumber"> 018 </span>ชโย  โหติ  อสุเร  ยาว  สมุทฺทปิฏฺ€า  อนุพนฺธนฺติ  ยทา  
+<span class="LineNumber"> 019 </span>อสุรานํ  ชโย  โหติ  เทเว  ยาว  เวทิยปาทา  (๕)  อนุพนฺธนฺติ ฯ
+<span class="LineNumber"> 020 </span># ๑. สี. สมานวณฺณาว ฯ  ๒. ม. คาหาเปตฺวา ฯ  ๓. ม. เตสํปิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ปริหรมานา ฯ  ๕. ม. เวทิกปาทา ฯ

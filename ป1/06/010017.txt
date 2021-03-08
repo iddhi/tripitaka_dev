@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>๒๗๔.  แผ่นดิน  เป็น  ที่อยู่  ของสัตว์  ท. ทั้งปวง.  
+<span class="LineNumber"> 002 </span>๒๗๕.  ต้นไม้  ท.  เป็น  ที่อาศัย  ของนก ท. 
+
+<span class="LineNumber"> 003 </span>	<B>๑๑.  กิริยากิตก์  ที่ไม่ใช่อัพยยะ  ถ้ามีกิริยา  ว่ามี  ว่าเป็น
+<span class="LineNumber"> 004 </span>อยู่หลัง  เข้ากับกิริยา  ว่ามี  ว่าเป็น  นั้น  ใช้เหมือนกิริยาอาขยาต
+<span class="LineNumber"> 005 </span>ซึ่งมีธาตุอย่างเดียวกับกิริยากิตก์นั้น เช่น  เสฏฺ€ิโน  ลาโภ อุปฺปนฺโน
+<span class="LineNumber"> 006 </span>โหติ  มีความเป็นอย่างเดียวกันกับ  เสฏฺ€ิโน  ลาโภ  อุปฺปชฺชติ
+<span class="LineNumber"> 007 </span>ดังนี้.</B>
+
+<span class="LineNumber"> 008 </span>                  ประโยคเหล่านี้  ผู้เรียนจงแปลเป็นไทย
+<span class="LineNumber"> 009 </span>๒๗๖.  ราชา  ชเนหิ  มานิโต  โหติ.
+<span class="LineNumber"> 010 </span>๒๗๗.  พุทฺโธ  วิญฺูหิ  ปูชิโต  โหติ.
+<span class="LineNumber"> 011 </span>๒๗๘.  สาวตฺถิยํ  อญฺตโร  ภิกฺขุ  อหินา  ทฏฺโ€  กาลกโต  โหติ.
+<span class="LineNumber"> 012 </span>๒๗๙.  เสฏฺ€ิโน  อาพาโธ  อุปฺปนฺโน  โหติ.
+<span class="LineNumber"> 013 </span>๒๘๐.  สงฺฆสฺส  จีวรํ  อุสฺสนฺนํ  โหติ.
+<span class="LineNumber"> 014 </span>๒๘๑.  ภิกฺขุ  อตฺตโน  สนฺตเกน  ตุฏฺโ€  โหติ.
+<span class="LineNumber"> 015 </span>๒๘๒.  ปาโป  ชาโต'  สิ.
+<span class="LineNumber"> 016 </span>๒๘๓.  ภควโต  สาวกานํ  สงฺโฆ  สุปฏิปนฺโน  โหติ.
+<span class="LineNumber"> 017 </span>๒๘๔.  อิมสฺมึ  อาวาเส  วสฺสํ  วุตฺโถ'   มฺหิ.

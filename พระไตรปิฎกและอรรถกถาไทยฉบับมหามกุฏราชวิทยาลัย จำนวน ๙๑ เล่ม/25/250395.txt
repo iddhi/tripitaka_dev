@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>๔.  มณิภัททสูตร</H1>
+ 
+<span class="LineNumber"> 002 </span>                                 <H1>ผู้มีส่วนแห่งเมตตาไม่มีเวร</H1> 
+
+<span class="LineNumber"> 003 </span>           [๘๑๑]  สมัยหนึ่ง  พระผู้มีพระภาคเจ้าประทับอยู่ที่เจดีย์ชื่อมณิมาฬกะ
+<span class="LineNumber"> 004 </span>อันเป็นที่ครอบครองของยักษ์ชื่อมณิภัททะ  ในแคว้นมคธ.
+<span class="LineNumber"> 005 </span>           [๘๑๒]  ครั้งนั้นแล    ยักษ์ชื่อมณิภัททะเข้าไปเฝ้าพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 006 </span>ได้กล่าวคาถานี้ในสำนักพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 007 </span>                             <B>ความเจริญย่อมมีแก่คนมีสติทุกเมื่อ
+<span class="LineNumber"> 008 </span>                   คนมีสติย่อมได้ความสุข  ความดีย่อมมีแก่
+<span class="LineNumber"> 009 </span>                   คนมีสติเป็นนิตย์ และคนมีสติย่อมหลุดพ้น
+<span class="LineNumber"> 010 </span>                   จากเวร.</B>
+<span class="LineNumber"> 011 </span>           พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 012 </span>                             <B>ความเจริญย่อมมีแก่คนมีสติทุกเมื่อ
+<span class="LineNumber"> 013 </span>                   คนมีสติย่อมได้ความสุข      ความดีย่อมมี 
+<span class="LineNumber"> 014 </span>                   แก่คนมีสติเป็นนิตย์        แต่คนมีสติยังไม่
+<span class="LineNumber"> 015 </span>                   หลุดพ้นจากเวร.</B>
+<span class="LineNumber"> 016 </span>           [๘๑๓]       <B>ผู้ใดมีใจยินดีในความไม่เบียดเบียน
+<span class="LineNumber"> 017 </span>                   ตลอดวันและคืนทั้งหมด       และเป็นผู้มี
+<span class="LineNumber"> 018 </span>                   ส่วนแห่งเมตตาในสรรพสัตว์     ผู้นั้นย่อม
+<span class="LineNumber"> 019 </span>                   ไม่มีเวรกับใคร.</B>

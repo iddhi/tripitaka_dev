@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                            <H2>อวิตักกวิจารมัตตบท</H2>
+<span class="LineNumber"> 002 </span>           [๘๙๑]  ๑.  <B>ธรรมที่ไม่ใช่อวิตักกวิจารมัตตธรรม    ที่ไม่ใช่ 
+<span class="LineNumber"> 003 </span>อนิทัสสนอัปปฏิฆธรรม    อาศัยอวิตักกวิจารมัตตธรรม   ที่เป็นอนิ-
+<span class="LineNumber"> 004 </span>ทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 005 </span>                                             <B>ฯลฯ</B>
+
+<span class="LineNumber"> 006 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 007 </span>           [๘๙๒]  ในเหตุปัจจัย มี ๖ วาระ  ฯลฯ
+
+<span class="LineNumber"> 008 </span>                                <H2>อวิตักกอวิจารบท</H2>
+<span class="LineNumber"> 009 </span>           [๘๙๓] ๑.  <B>ธรรมที่ไม่ใช่อวิตักกอวิจารธรรม    ที่ไม่ใช่สนิ-
+<span class="LineNumber"> 010 </span>ทัสสนสัปปฏิฆธรรม    อาศัยอวิตักกอวิจารธรรม   ที่เป็นอนิทัสสน-
+<span class="LineNumber"> 011 </span>อัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 013 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 014 </span>           [๘๙๔] ในเหตุปัจจัย มี ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 015 </span>                                                <B>ฯลฯ</B> 
+<span class="LineNumber"> 016 </span>          <I>สนิทัสสนติกสวิตักกติกนสนิทัสสนติกนสวิตักกติกะ  จบ</I>

@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๔๐]   ในเหตุปัจจัย มี ๓  วาระ ฯลฯ  ในอวิคตปัจจัย มี  ๓๐ วาระ.
+<span class="LineNumber"> 003 </span>           สหชาตวาระก็ดี    ปัจจยวาระก็ดี    นิสสยวาระก็ดี     สังสัฏฐวาระก็ดี
+<span class="LineNumber"> 004 </span>สัมปยุตตวาระก็ดี   ปัญหาวาระก็ดี   ในกุสลติกะ   ท่านนับไว้อย่างไร   พึงนับ
+<span class="LineNumber"> 005 </span>อย่างนั้น.
+<span class="LineNumber"> 006 </span>                                    <I>ปัจจนียติกปัฏฐาน  จบ</I> 

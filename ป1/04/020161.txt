@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>คมฺ</B>	เป็นไปในความ  ไป  <B>[คมฺ + อ =  คจฺฉ + ติ]</B>  สำเร็จรูปเป็น    
+<span class="LineNumber"> 002 </span>	<B>คจฺฉติ</B>  ย่อมไป.
+<span class="LineNumber"> 003 </span>                                ๒.  หมวด  รุธฺ  ธาตุ
+<span class="LineNumber"> 004 </span><B>รุธฺ</B>	เป็นไปในความ  กั้น,  ในความ  ปิด  <B>[รุํธฺ + อ - เอ + ติ]</B>
+<span class="LineNumber"> 005 </span>	สำเร็จรูปเป็น  <B>รุนฺธติ,  รุนฺเธติ</B>   ย่อมปิด.
+<span class="LineNumber"> 006 </span><B>มุจฺ<SUP>๑</SUP></B>	เป็นไปในความ  ปล่อย  <B>[มุํจฺ + อ + ติ]</B>  สำเร็จรูปเป็น  มุญฺจติ
+<span class="LineNumber"> 007 </span>	ย่อมปล่อย.
+<span class="LineNumber"> 008 </span><B>ภุชฺ</B>	เป็นไปในความ  กิน  <B>[ภุํชฺ + อ + ติ]</B>  สำเร็จรูปเป็น  ภุญฺชติ
+<span class="LineNumber"> 009 </span>	ย่อมกิน.
+<span class="LineNumber"> 010 </span><B>ภิทฺ<SUP>๒</SUP></B>	เป็นไปในความ  ต่อย  <B>[ภึทฺ + อ + ติ]</B>  สำเร็จรูปเป็น   ภินฺทติ
+<span class="LineNumber"> 011 </span>	ย่อมต่อย.
+<span class="LineNumber"> 012 </span><B>ลิปฺ</B>	เป็นไปในความ  ฉาบ  <B>[ลึปฺ + อ + ติ]</B>  สำเร็จรูปเป็น  ลิมฺปติ
+<span class="LineNumber"> 013 </span>	ย่อมฉาบ.
+<span class="LineNumber"> 014 </span>                                  ๓.  หมวด  ทิวฺ  ธาตุ
+<span class="LineNumber"> 015 </span><B>* ทิวฺ<SUP>๓</SUP></B> เป็นไปในความ  เล่น  <B>[ทิวฺ + ย =  พฺพ + ติ]</B>   สำเร็จรูปเป็น
+<span class="LineNumber"> 016 </span>	<B>ทิพฺพติ</B>  ย่อมเล่น.
+
+<span class='footnote'>๑.  ถ้าลง  ย  ปัจจัยในหมวด  ทิวฺ  ธาติ  เป็นอกัมมธาตุ  เป็นไปในความ  หลุด,  พ้น</span>
+<span class='footnote'>สำเร็จรูปเป็น  มุจฺจติ  ย่อมหลุด.    ๒.  ถ้าลง  ย  ปัจจัยในหมวด  ทิวฺ  ธาตุ  เป็น</span>
+<span class='footnote'>อกัมมธาตุ  เป็นไปในความ  แตก,  สำเร็จรูปเป็น  ภิชฺชติ  ย่อมแตก.  ๓.  สํสกฤต  เป็นไป</span>
+<span class='footnote'>ในความ  สว่าง.</span>

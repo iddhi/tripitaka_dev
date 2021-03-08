@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  ขนฺธวารวคฺควณฺณนา  หน้า  ๔๓๒
+
+<span class="LineNumber"> 002 </span>โส  หิ  อิทานาหํ  อุจฺฉิชฺชิสฺสามิ  น  ทานิ  กิฺจิ  ภวิสฺสามีติ 
+<span class="LineNumber"> 003 </span>อตฺตานํ ปปาเต ปตนฺตํ  วิย  ปสฺสติ  อฺตโร  พฺราหฺมโณ  
+<span class="LineNumber"> 004 </span>วิย ฯ  โลหปาสาทสฺส  กิร  เหฏฺ€า  ติปิฏกจูฬนาคตฺเถโร 
+<span class="LineNumber"> 005 </span>ติลกฺขณาหตํ  ธมฺมํ  ปริวตฺเตติ ฯ  อถ  อฺตรสฺส พฺราหฺมณสฺส 
+<span class="LineNumber"> 006 </span>เอกมนฺเต  €ตฺวา  ธมฺมํ  สุณนฺตสฺส  สงฺขารา  สุฺโต  
+<span class="LineNumber"> 007 </span>อุปฏฺ€หึสุ ฯ  โส  ปปาเต ปตนฺโต  วิย  หุตฺวา  วิวฏทฺวาเรน 
+<span class="LineNumber"> 008 </span>ตโต  ปลายิตฺวา  เคหํ  ปวิสิตฺวา  ปุตฺตํ อุเร สยาเปตฺวา  ตาต
+<span class="LineNumber"> 009 </span>สกฺยสมยํ  อาวชฺเชนฺโต  ปนมฺหิ (๑)  นฏฺโ€ติ  อาห ฯ น เหโส(๒)  
+<span class="LineNumber"> 010 </span>ภิกฺขุ  ตาโสติ  เอสา  เอวํ  ปวตฺตา  พลววิปสฺสนา  สุตวโต  อริย-
+<span class="LineNumber"> 011 </span>สาวกสฺส น ตาโส  นาม โหติ ฯ น หิ ตสฺส เอวํ โหติ 
+<span class="LineNumber"> 012 </span>อหํ อุจฺฉิชฺชิสฺสามีติ วา วินสฺสิสฺสามี(๓) วาติ ฯ เอวํ ปนสฺส  โหติ 
+<span class="LineNumber"> 013 </span>สงฺขาราว อุปฺปชฺชนฺติ สงฺขารา นิรุชฺฌนฺตีติ ฯ 
+<span class="LineNumber"> 014 </span>				ตติยํ ฯ  
+
+<span class="LineNumber"> 015 </span>		อุปาทานปริปวตฺตสุตฺตวณฺณนา          
+<span class="LineNumber"> 016 </span>	จตุตฺเถ  จตุปริวฏฺฏนฺติ  เอเกกสฺมึ  ขนฺเธ  จตุนฺนํ  
+<span class="LineNumber"> 017 </span>ปริวฏฺฏานํ วเสน (๔) ฯ  รูปํ  อพฺภฺาสินฺติ  รูปํ  ทุกฺขสจฺจนฺติ 
+<span class="LineNumber"> 018 </span>อพฺภฺาสึ ฯ  เอวํ  สพฺพปเทสุ จตุสจฺจวเสเนว  อตฺโถ  
+<span class="LineNumber"> 019 </span># ๑. ม. มนมฺหิ ฯ  ๒. ม. ส พฺพตฺถ น เหสา ฯ 
+<span class="LineNumber"> 020 </span># ๓. อุจฺฉิชฺชิสฺสามีติ วา วินสฺสิสฺสามีติ วาติ ฯ 
+<span class="LineNumber"> 021 </span># ๔. สี. จตุนฺนํ จตุนฺนํ ปริวตฺตานํ วเสน ฯ ม. จตุนฺนํ 
+<span class="LineNumber"> 022 </span># ปริวฏฺฏนวเสน ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๕  ปญฺจกนิปาตวณฺณนา  หน้า  ๖๘
+
+<span class="LineNumber"> 002 </span>	ทสเม  อตฺตภาวปฏิลาโภติ  สรีรปฏิลาโภ ฯ  เทฺว  วา  
+<span class="LineNumber"> 003 </span>ตีณิ  วา  มาคธกานิ (๑) คามกฺเขตฺตานีติ  เอตฺถ  มาคธิกํ คามกฺเขตฺตํ 
+<span class="LineNumber"> 004 </span>คาวุตํ (๒)  อตฺถิ ขุทฺทกํ อตฺถิ  มชฺฌิมํ(๓)  อตฺถิ  มหนฺตํ ขุทฺทกํ คามกฺเขตฺตํ 
+<span class="LineNumber"> 005 </span>อิโต จตฺตาฬีสํ อุสภานิ อิโต  จตฺตาฬีสนฺติ(๔)  คาวุตํ โหติ ฯ 
+<span class="LineNumber"> 006 </span>มชฺฌิมํ อิโต คาวุตํ อิโต คาวุตนฺติ อฑฺฒโยชนํ โหติ ฯ
+<span class="LineNumber"> 007 </span>มหนฺตํ  อิโต  ทิยฑฺฒคาวุตํ  อิโต  ทิยฑฺฒคาวุตนฺติ  ติคาวุตํ 
+<span class="LineNumber"> 008 </span>โหติ ฯ เตสุ ขุทฺทเกน  คามกฺเขตฺเตน  ตีณิ  ขุทฺทเกน  จ  
+<span class="LineNumber"> 009 </span>มชฺฌิเมน จ เทฺว คามกฺเขตฺตานิ ตสฺส อตฺตภาโว ฯ  ติคาวุตํ  
+<span class="LineNumber"> 010 </span>หิสฺส  สรีรํ ฯ  
+<span class="LineNumber"> 011 </span>	ปริหริสฺสามีติ ปฏิชคฺคิสฺสามิ (๕) โคปยิสฺสามิ ฯ รกฺขสฺเสตนฺติ  
+<span class="LineNumber"> 012 </span>รกฺขสฺสุ เอตํ ฯ  โมฆปุริโสติ  ตุจฺฉปุริโส ฯ นาสฺสสฺสาติ น 
+<span class="LineNumber"> 013 </span>เอตสฺส ภเวยฺย ฯ  สมุทาจเรยฺยามาติ  กเถยฺยาม ฯ  สมฺมนฺนตีติ  
+<span class="LineNumber"> 014 </span>สมฺมานํ  กโรติ ฯ  ยํ  ตุโม กริสฺสติ  ตุโมว  เตน  ปฺายิสฺสตีติ  
+<span class="LineNumber"> 015 </span>ยํ  เอส  กริสฺสติ  เอโสว  เตน  กมฺเมน ปากโฏ ภวิสฺสติ ฯ 
+<span class="LineNumber"> 016 </span>เสสํ สพฺพตฺถ อุตฺตานเมวาติ(๖) ฯ   
+<span class="LineNumber"> 017 </span>					ทสมํ ฯ
+<span class="LineNumber"> 018 </span>				กกุธวคฺโค ปฺจโม ฯ   
+<span class="LineNumber"> 019 </span>				ทุติยปณฺณาสโก นิฏฺ€ิโต ฯ   
+<span class="LineNumber"> 020 </span>#๑. ม. มาคธกานิ ฯ  ๒. ม. อยํ ปาโฐ นตฺถิ ฯ  ๓. ม. อตฺถิ มชฺฌิมํ ฯ
+<span class="LineNumber"> 021 </span>#๔. ม. จตฺตาฬีสํ อุสภานิ จตฺตาฬีสนฺติ ฯ  ๕. ม. ปฏิชคฺคสฺสามิ ฯ
+<span class="LineNumber"> 022 </span>#๖. ม. อุตฺตานตฺถเมวาติ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>อาการเท่าไร     อาบัติชื่อปฐมาปัตติการใน  
+<span class="LineNumber"> 002 </span>                   ศาสนานี้  มีเท่าไร  ทำญัตติมีเท่าไร
+<span class="LineNumber"> 003 </span>                             ตอบว่า   เพราะทำร้ายตนเอง   ต้อง
+<span class="LineNumber"> 004 </span>                   อาบัติ ๒  สงฆ์แตกกันด้วยอาการ ๒  อาบัติ
+<span class="LineNumber"> 005 </span>                   ชื่อปฐมาปัตติการในศาสนานี้มี  ๒  ทำญัตติมี  ๒.</B>
+
+<span class="LineNumber"> 006 </span>                <H2>ต้องอาบัติเพราะปาณาติบาตเป็นต้น</H2>
+<span class="LineNumber"> 007 </span>                             [๑,๒๕๑]  <B>ถามว่า อาบัติเพราะปาณา-
+<span class="LineNumber"> 008 </span>                   ติบาต  มีเท่าไร  อาบัติปาราชิกเนื่องด้วยวาจา
+<span class="LineNumber"> 009 </span>                   มีเท่าไร     อาบัติเกี่ยวด้วยพูดเคาะ    ตรัสไว้
+<span class="LineNumber"> 010 </span>                   เท่าไร  อาบัติเกี่ยวด้วยเที่ยวชักสื่อ   ตรัส ไว้
+<span class="LineNumber"> 011 </span>                   เท่าไร
+<span class="LineNumber"> 012 </span>                             ตอบว่า  อาบัติเพราะปาณาติบาตมี
+<span class="LineNumber"> 013 </span>                   ๓ อาบัติปาราชิกเนื่องด้วยวาจา  มี ๓ อาบัติ 
+<span class="LineNumber"> 014 </span>                   เกี่ยวด้วยพูดเคาะ   ตรัสไว้  ๓  และเกี่ยวด้วย
+<span class="LineNumber"> 015 </span>                   เที่ยวชักสื่อ  ตรัสไว้  ๓.</B>
+
+<span class="LineNumber"> 016 </span>                     <H2>บุคคลไม่ควรให้อุปสมบทเป็นต้น</H2>
+<span class="LineNumber"> 017 </span>                             [๑,๒๕๒]   <B>ถามว่า  บุคคลที่ไม่ควรให้
+<span class="LineNumber"> 018 </span>                   อุปสมบท  มีเท่าไร  กรรมสงเคราะห์มีเท่าไร
+<span class="LineNumber"> 019 </span>                   บุคคลที่ถูกนาสนะตรัสไว้เท่าไร  อนุสาวนา
+<span class="LineNumber"> 020 </span>                   เดียวกันสำหรับบุคคล   มีจำนวนเท่าไร</B>

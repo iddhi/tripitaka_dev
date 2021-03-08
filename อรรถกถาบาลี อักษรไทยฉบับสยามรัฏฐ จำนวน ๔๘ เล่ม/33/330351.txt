@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  33  ปฺจอุโปสถชาตกํ  351  
+
+<span class="LineNumber"> 002 </span>		โส มํ อกฺกมิ ตํ กุปิโต อฑสฺสึ (๑)   
+<span class="LineNumber"> 003 </span>		ทุกฺขาภิตุนฺโน มรณํ อุปาคมิ (๒) ฯ  
+<span class="LineNumber"> 004 </span>		ตโต ชนา นิกฺขมิตฺวาน คามา  
+<span class="LineNumber"> 005 </span>		กนฺทิตฺวา โรทิตฺวา อุปกฺกมึสุ (๓)  
+<span class="LineNumber"> 006 </span>		ตสฺมา อหุโปสถํ (๔)  ปาลยามิ  
+<span class="LineNumber"> 007 </span>		โกโธ มมํ มา ปุนราคมาสีติ ฯ  
+<span class="LineNumber"> 008 </span>	สิงฺคาลํ ปุจฺฉนฺโต อาห  
+<span class="LineNumber"> 009 </span>[๑๙๕๕]มตาน มํสานิ พหู สุสาเน  
+<span class="LineNumber"> 010 </span>		มนุฺรูปํ ตว โภชเนตํ  
+<span class="LineNumber"> 011 </span>		ขุทํ ปิปาสํ อธิวาสยนฺโต  
+<span class="LineNumber"> 012 </span>		กสฺมา ภวูโปสถิโก สิงฺคาลาติ (๕) ฯ  
+<span class="LineNumber"> 013 </span>	สิงฺคาโล อาห  
+<span class="LineNumber"> 014 </span>[๑๙๕๖]ปวิสฺสํ (๖)  กุจฺฉึ มหโต คชสฺส  
+<span class="LineNumber"> 015 </span>		กุณเป รโต หตฺถิมํสคิทฺโธ (๗)  
+<span class="LineNumber"> 016 </span>		อุณฺโห จ วาโต ติขิณา จ รสฺมิโย  
+<span class="LineNumber"> 017 </span>		เตหิ โสสตํ (๘)  ตสฺส กรีสมคฺคํ ฯ  
+<span class="LineNumber"> 018 </span>		กีโส จ ปณฺฑู จ อหํ ภทนฺเต  
+<span class="LineNumber"> 019 </span>#๑.  สฺยา. ม. อฑํสึ ฯ   ๒.  สฺยา. ม. อุปาคา ฯ   ๓.  สฺยา. ม.
+<span class="LineNumber"> 020 </span>#อปกฺกมึสุ ฯ   ๔.  สฺยา. อหํโปสถ ฯ  เอวมุปริปิ ฯ   ๕.  สี.ยุ.
+<span class="LineNumber"> 021 </span>#สิคาโล ฯ   ๖.  สฺยา. ปวิสฺส ฯ  ม. ปวิสิ ฯ   ๗.  สฺยา. ม. 
+<span class="LineNumber"> 022 </span>#หตฺถิมํเสสุ  คิทฺโธ ฯ  สี.ยุ. หตฺถิมํเส  ปคิทฺโธ ฯ   ๘.  สฺยา.
+<span class="LineNumber"> 023 </span>#ม. เต  โสสยุํ ฯ  

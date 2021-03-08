@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ตติยวคฺเค วีตโสกตฺเถรคาถาวณฺณนา หน้า 631
+	
+<span class="LineNumber"> 002 </span>	อรหตฺตํ ปน ปตฺวา อฺํ พฺยากโรนฺโต  
+<span class="LineNumber"> 003 </span>		เกเส เม โอลิขิสฺสนฺติ	กปฺปโก อุปสงฺกมิ  
+<span class="LineNumber"> 004 </span>		ตโต อาทาสมาทาย	สรีรํ ปจฺจเวกฺขิสฺสํ(๑) ฯ  
+<span class="LineNumber"> 005 </span>		ตุจฺโฉ กาโย อทิสฺสิตฺถ	อนฺธกาเร (๒) ตโม พฺยคา (๓)  
+<span class="LineNumber"> 006 </span>		สพฺเพ โจฬา สมุจฺฉินฺนา	นตฺถิ ทานิ ปุนพฺภโวติ (๔) 
+<span class="LineNumber"> 007 </span>คาถาทฺวยํ อภาสิ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  เกเส  เม  โอลิขิสฺสนฺติ  กปฺปโก อุปสงฺกมีติ 
+<span class="LineNumber"> 009 </span>คิหิกาเล มสฺสุกมฺมสมเย มม  เกเส  โอลิขิสฺสํ  กปฺเปมีติ  เกสาทีนํ  
+<span class="LineNumber"> 010 </span>เฉทนาทิวเสน  กปฺปนโต  กปฺปโก  นฺหาปิโต  มํ  อุปคจฺฉิ ฯ  
+<span class="LineNumber"> 011 </span>	ตโตติ  กปฺปกโต ฯ (๕) 
+<span class="LineNumber"> 012 </span>	สรีรํ ปจฺจเวกฺขิสฺสนฺติ สพฺพกายิเก อาทาเส  ปลิตวลิตมุข-
+<span class="LineNumber"> 013 </span>นิมิตฺตาทิทสฺสนมุเขน  อภิภูโต วต ชราย เม กาโยติ ชราภิภูตํ 
+<span class="LineNumber"> 014 </span>อตฺตโน  สรีรํ  ปจฺจเวกฺขึ ฯ 
+<span class="LineNumber"> 015 </span>	เอวํ ปจฺจเวกฺขโต จ ตุจฺโฉ กาโย อทิสฺสิตฺถ นิจฺจธุว- 
+<span class="LineNumber"> 016 </span>สุขสภาวาทีหิ  (๖)  ริตฺโต  หุตฺวา  เม  กาโย  อทิสฺสถ  ปฺายิ ฯ
+<span class="LineNumber"> 017 </span>	กสฺมา อนฺธกาเร  ตโม  พฺยคา  เยน  อโยนิโสมนสิการ-
+<span class="LineNumber"> 018 </span>สงฺขาเตน  ตมสา  อตฺตโน  กาเย อนฺธคตา (๗)  วิชฺชมานมฺปิ
+<span class="LineNumber"> 019 </span># ๑. สฺยา. ม. ปจฺจเวกฺขิสํ ฯ  ๒. ม. อนฺธกาโร ฯ
+<span class="LineNumber"> 020 </span># ๓. สี. พฺยโค ฯ  ๔. ขุ. เถร. ๒๖/๒๘๒/๒๙๔ ฯ 
+<span class="LineNumber"> 021 </span># ๕. สี. ตโต กปฺเป กเต ฯ  ๖. สี. นิจฺจธุวสุขภาวาทีหิ ฯ 
+<span class="LineNumber"> 022 </span># ๗. สี. อนฺธกตา ฯ  ยุ. อนฺวาคตา ฯ 

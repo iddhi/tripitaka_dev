@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  480
+	
+<span class="LineNumber"> 002 </span>			วนวจฺฉตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	อจฺโฉทิกา ปุถุสิลาติ อายสฺมโต วนวจฺฉตฺเถรสฺส คาถา ฯ
+<span class="LineNumber"> 004 </span>กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ ภเว
+<span class="LineNumber"> 006 </span>วิวฏฺฏูปนิสฺสยํ กุสลพีชํ โรเปนฺโต  วิปสฺสิสฺส  ภควโต  กาเล 
+<span class="LineNumber"> 007 </span>กุลเคเห  นิพฺพตฺติตฺวา วิฺุตํ ปตฺโต ปรสฺส กมฺมํ  กตฺวา 
+<span class="LineNumber"> 008 </span>ชีวนฺโต  กสฺสจิ  อปราธํ  กตฺวา  มรณภเยน  ตชฺชิโต  ปลายนฺโต  
+<span class="LineNumber"> 009 </span>อนฺตรามคฺเค  โพธิรุกฺขํ ทิสฺวา ปสนฺนมานโส ตสฺส มูลํ 
+<span class="LineNumber"> 010 </span>สมฺมชฺชิตฺวา ปิณฺฑิพนฺเธหิ อโสกปุปฺเผหิ  ปูชํ  กตฺวา  วนฺทิตฺวา
+<span class="LineNumber"> 011 </span>โพธึ อภิมุโข นมสฺสมาโน ปลฺลงฺเกน นิสินฺโน มาเรตุํ  อาคเต 
+<span class="LineNumber"> 012 </span>ปจฺจตฺถิเก  ทิสฺวา เตสุ จิตฺตํ อโกเปตฺวา โพธึ  เอว (๑) อาวชฺเชนฺโต 
+<span class="LineNumber"> 013 </span>สตโปริเส  ปปาเต  ปปติ ฯ  (๒) 
+<span class="LineNumber"> 014 </span>	โส เตน ปุฺกมฺเมน เทวโลเก นิพฺพตฺติตฺวา อปราปรํ  
+<span class="LineNumber"> 015 </span>ปุฺานิ  กตฺวา  เทวมนุสฺเสสุ  สํสรนฺโต  อิมสฺมึ  พุทฺธุปฺปาเท  
+<span class="LineNumber"> 016 </span>ราชคเห  วิภวสมฺปนฺนสฺส  พฺราหฺมณสฺส  ปุตฺโต  หุตฺวา  นิพฺพตฺติ  
+<span class="LineNumber"> 017 </span>วจฺโฉติสฺส นามํ อโหสิ ฯ โส วยปฺปตฺโต  พิมฺพิสารสมาคเม
+<span class="LineNumber"> 018 </span>ปฏิลทฺธสทฺโธ  ปพฺพชิตฺวา  อรหตฺตํ  ปาปุณิ ฯ  เตน วุตฺตํ อปทาเน (๓)  
+<span class="LineNumber"> 019 </span>		ปรกมฺมายเน ยุตฺโต	อปราธํ อกาสหํ  
+<span class="LineNumber"> 020 </span>		วนนฺตํ อติธาวิสฺสํ 		ภยเวรสมปฺปิโต ฯ (๔)  
+<span class="LineNumber"> 021 </span># ๑. สี. โพธรุกฺขํ เอวํ ฯ  ๒. สี. ปติ ฯ  ๓. ขุ. อ. ๓๒/๑๕๔/๒๕๗ ฯ 
+<span class="LineNumber"> 022 </span># ๔. สี. ภยเภรวสมปฺปิโต ฯ 

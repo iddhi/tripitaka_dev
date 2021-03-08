@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>จักไปเมื่อใด ?    พระฤาษีจึงกล่าวว่า   จักไปเวลาโน้น   เวลาโน้น   ดังนี้
+<span class="LineNumber"> 002 </span>แล้ว  ได้กล่าวคาถาที่เหลือ   ความว่า :-
+<span class="LineNumber"> 003 </span>                        <B>เมื่อใด   ผ้า  ๓  ชนิดจะพึงสำเร็จได้ด้วย
+<span class="LineNumber"> 004 </span>           ขนเต่า    ใช้เป็นเครื่องกันหนาวในคราวน้ำค้าง
+<span class="LineNumber"> 005 </span>           ตกได้  เมื่อนั้น  เราทั้ง  ๒  พึงอยู่ร่วมกันได้แน่.
+<span class="LineNumber"> 006 </span>                        เมื่อใด  เท้ายุงทั้งหลาย     จะพึงทำเป็น
+<span class="LineNumber"> 007 </span>           ป้อมมั่นคงดีไม่หวั่นไหว   อาจจะทนบุรุษผู้ขึ้น
+<span class="LineNumber"> 008 </span>           รบได้ตั้งร้อย  เมื่อนั้น  เราทั้ง  ๒  พึงอยู่ร่วมกัน
+<span class="LineNumber"> 009 </span>           ได้แน่. 
+<span class="LineNumber"> 010 </span>                        เมื่อใด  เขากระต่าย   จะพึงทำเป็นบันได
+<span class="LineNumber"> 011 </span>           เพื่อขึ้นไปสวรรค์ได้    เมื่อนั้น   เราทั้ง   ๒   พึง
+<span class="LineNumber"> 012 </span>           อยู่ร่วมกันได้แน่.
+<span class="LineNumber"> 013 </span>                        เมื่อใด        หนูทั้งหลายจะพึงได้บันได
+<span class="LineNumber"> 014 </span>           ขึ้นไปกัดพระจันทร์    และขับไล่ราหูให้หนีไป
+<span class="LineNumber"> 015 </span>           ได้  เมื่อนั้น   เราทั้ง   ๒  พึงอยู่ร่วมกันได้แน่. 
+<span class="LineNumber"> 016 </span>                        เมื่อใด     แมลงวันทั้งหลายเที่ยวไปเป็น
+<span class="LineNumber"> 017 </span>           หมู่  ๆ      ดื่มเหล้าหมดหม้อเมาแล้ว      จะพึงเข้า</B>

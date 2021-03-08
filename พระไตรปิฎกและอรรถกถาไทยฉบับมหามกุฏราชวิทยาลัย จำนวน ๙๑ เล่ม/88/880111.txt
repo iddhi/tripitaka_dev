@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๑๙.  สัมปยุตตปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๙๕] ๑.  <B>สเหตุกธรรม   เป็นปัจจัยแก่สเหตุกธรรม   ด้วย-
+<span class="LineNumber"> 003 </span>อำนาจของสัมปยุตตปัจจัย   เหมือนกับสัมปยุตตปัจจัย  ในปฏิจจวาระ.</B> 
+<span class="LineNumber"> 004 </span>           พึงกระทำเป็น ๖ วาระ.
+
+<span class="LineNumber"> 005 </span>                                     <H1>๒๐.  วิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           [๙๖] ๑.  <B>สเหตุกธรรม     เป็นปัจจัยแก่อเหตุกธรรม    ด้วย
+<span class="LineNumber"> 007 </span>อำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 008 </span>           มี ๒ อย่าง   คือที่เป็น   <B>สหชาตะ</B>  และ  <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 009 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 010 </span>           ขันธ์ทั้งหลายที่เป็นสเหตุกธรรม    เป็นปัจจัยแก่จิตตสมุฏฐานรูปทั้ง
+<span class="LineNumber"> 011 </span>หลาย   ด้วยอำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 012 </span>           ในปฏิสนธิขณะ  ขันธ์ทั้งหลายที่เป็นสเหตุกธรรม  เป็นปัจจัยแก่กฏัตตา
+<span class="LineNumber"> 013 </span>รูปทั้งหลาย  ด้วยอำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 014 </span>           ที่เป็น  <B>ปัจฉาชาตะ</B>  ได้แก่
+<span class="LineNumber"> 015 </span>           ขันธ์ทั้งหลายที่เป็นสเหตุกธรรมที่เกิดภายหลัง     เป็นปัจจัยแก่กายนี้ 
+<span class="LineNumber"> 016 </span>ที่เกิดก่อน  ด้วยอำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 017 </span>             	       ๒.  <B>อเหตุกธรรม    เป็นปัจจัยแก่อเหตุกธรรม    ด้วย
+<span class="LineNumber"> 018 </span>อำนาจของวิปปยุตตปัจจัย</B>

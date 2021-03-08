@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                            <H3>สูตรที่  ๔</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๘๙ ]   ๑๔๓.  ดูก่อนภิกษุทั้งหลาย       การบริจาค ๒ อย่างนี้
+<span class="LineNumber"> 003 </span>๒ อย่างเป็นไฉน  คือ   การบริจาคอามิส  ๑   การบริจาคธรรม ๑  ดูก่อน
+<span class="LineNumber"> 004 </span>ภิกษุทั้งหลาย   การบริจาค  ๒  อย่างนี้แล   ดูก่อนภิกษุทั้งหลาย   บรรดา
+<span class="LineNumber"> 005 </span>การบริจาค  ๒  อย่างนี้    การบริจาคธรรมเป็นเลิศ.
+<span class="LineNumber"> 006 </span>                                           จบสูตรที่  ๔
+
+<span class="LineNumber"> 007 </span>                             <H3>สูตรที่  ๕</H3>
+
+<span class="LineNumber"> 008 </span>         [๓๙๐]   ๑๔๔.  ดูก่อนภิกษุทั้งหลาย      การบริโภค ๒ อย่างนี้
+<span class="LineNumber"> 009 </span>๒  อย่างเป็นไฉน  คือ  การบริโภคอามิส ๑  การบริโภคธรรม  ๑   ดูก่อน
+<span class="LineNumber"> 010 </span>ภิกษุทั้งหลาย    การบริโภค  ๒  อย่างนี้แล   ดูก่อนภิกษุทั้งหลาย     บรรดา
+<span class="LineNumber"> 011 </span>การบริโภค  ๒  อย่างนี้  การบริโภคธรรมเป็นเลิศ.
+<span class="LineNumber"> 012 </span>                                   	   จบสูตรที่  ๕
+
+<span class="LineNumber"> 013 </span>                              <H3>สูตรที่ ๖</H3>
+
+<span class="LineNumber"> 014 </span>         [๓๙๑]    ๑๔๕.   ดูก่อนภิกษุทั้งหลาย  การสมโภค  ๒  อย่างนี้
+<span class="LineNumber"> 015 </span>๒   อย่างเป็นไฉน  คือ  สมโภคอามิส  ๑  การสมโภคธรรม  ๑  ดูก่อน
+<span class="LineNumber"> 016 </span>ภิกษุทั้งหลาย   การสมโภค  ๒  อย่างนี้แล    ดูก่อนภิกษุทั้งหลาย   บรรดา
+<span class="LineNumber"> 017 </span>การสมโภค  ๒  อย่างนี้  การสมโภคธรรมเป็นเลิศ.
+<span class="LineNumber"> 018 </span>                                                 จบสูตรที่  ๖
+
+<span class="LineNumber"> 019 </span>                               <H3>สูตรที่  ๗</H3>
+
+<span class="LineNumber"> 020 </span>         [๓๙๒]    ๑๔๖.  ดูก่อนภิกษุ ทั้งหลาย  การจำแนก ๒ อย่างนี้  ๒ อย่าง

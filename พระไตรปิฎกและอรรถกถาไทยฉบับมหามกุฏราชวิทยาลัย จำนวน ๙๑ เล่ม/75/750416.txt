@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๒๑]  <B>ธรรมายตนะ</B>  มีในสมัยนั้น    เป็นไฉน ? 
+<span class="LineNumber"> 002 </span>         เวทนาขันธ์  สัญญาขันธ์  สังขารขันธ์ นี้ชื่อว่า  <B>ธรรมายตนะ</B>  มีใน
+<span class="LineNumber"> 003 </span>สมัยนั้น.                                       
+<span class="LineNumber"> 004 </span>         [๑๒๒]  <B>ธรรมธาตุ</B>  มีในสมัยนั้น   เป็นไฉน  ?
+<span class="LineNumber"> 005 </span>         เวทนาขันธ์ สัญญาขันธ์ สังขารขันธ์ นี้ชื่อว่า  <B>ธรรมธาตุ</B> มีในสมัยนั้น.
+<span class="LineNumber"> 006 </span>         [๑๒๓]  หรือว่า นามธรรมที่อิงอาศัยเกิดขึ้นแม้อื่นใด  มีอยู่ในสมัยนั้น
+<span class="LineNumber"> 007 </span>         สภาวธรรมเหล่านี้ ชื่อว่า   <B>ธรรมเป็นกุศล</B>.
+<span class="LineNumber"> 008 </span>                                    <I>สุญญตวาร  จบ</I>
+<span class="LineNumber"> 009 </span>                                   <I>จิตดวงที่  ๑   จบ</I>
+
+<span class="LineNumber"> 010 </span>                              <H1>จิตดวงที่   ๒</H1>
+
+<span class="LineNumber"> 011 </span>         [๑๒๔]  <B>ธรรมเป็นกุศล</B>  เป็นไฉน  ?
+<span class="LineNumber"> 012 </span>         กามาวจรกุศลจิต    สหรคตด้วยโสมนัส   สัมปยุตด้วยญาณ   มีรูปเป็น
+<span class="LineNumber"> 013 </span>อารมณ์ ฯลฯ  มีธรรมเป็นอารมณ์  หรือปรารภอารมณ์ใด ๆ เกิดขึ้นโดยมีกาย
+<span class="LineNumber"> 014 </span>ชักจูง  ในสมัยใด   ผัสสะ ฯลฯ  อวิกเขปะ  มีในสมัยนั้น ฯลฯ
+<span class="LineNumber"> 015 </span>         สภาวธรรมเหล่านี้ชื่อว่า   <B>ธรรมเป็นกุศล</B> ฯลฯ
+<span class="LineNumber"> 016 </span>                                  <I>จิตดวงที่  ๒  จบ</I>
+
+<span class="LineNumber"> 017 </span>                               <H1>จิตดวงที่   ๓</H1>
+
+<span class="LineNumber"> 018 </span>         [๑๒๕]   <B>ธรรมเป็นกุศล</B>  เป็นไฉน  ?
+<span class="LineNumber"> 019 </span>         กามาวจรกุศลจิต   สหรคตด้วยโสมนัส   วิปปยุตจากญาณ    มีรูปเป็น
+<span class="LineNumber"> 020 </span>อารมณ์ ฯลฯ  มีธรรมเป็นอารมณ์  หรือปรารภอารมณ์ใด ๆ เกิดขึ้นในสมัยใด

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๑๙๙]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                     <H2>มัคคาธิปติบท</H2>
+<span class="LineNumber"> 004 </span>           [๑๒๐๐] ๑.  <B>มัคคาธิปติธรรม   ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 005 </span>อาศัยธรรมที่ไม่ใช่มัคคาธิปติธรรม   ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 007 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๑๒๐๑]  ในเหตุปัจจัย มี ๓ วาระ ฯลฯ
+<span class="LineNumber"> 009 </span> <I>นสนิทัสสนติกนมัคคารัมมณติกสนิทัสสนติกมัคคารัมมณติกะ  จบ</I>	

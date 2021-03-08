@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span> 					 <H1>เวทนาติกสรณทุกะ</H1>  
+<span class="LineNumber"> 002 </span>			<H2>(๒. เวทนาติกะ  ๑๐๐.  สรณทุกะ)</H2>
+<span class="LineNumber"> 003 </span>					   <H1>สรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>					      <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>		[๘๖๒]  ๑.  สรณธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 007 </span>อาศัยสรณธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม   เกิดขึ้น  เพราะ 
+<span class="LineNumber"> 008 </span>เหตุปัจจัย
+<span class="LineNumber"> 009 </span>                 	    ๒.  สรณธรรมที่เป็นทุกขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 010 </span>อาศัยสรณธรรมที่เป็นทุกขายเวทนายสัมปยุตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 011 </span>เหตุปัจจัย
+<span class="LineNumber"> 012 </span>                	     ๓.  สรณธรรมที่เป็นอทุกขมสุขายเวทนายสัมปยุตต-
+<span class="LineNumber"> 013 </span>ธรรม     อาศัยสรณธรรมที่เป็นอทุกขมสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                    	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>		[๘๖๓]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ   ในอวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>            	สหชาตวาระก็ดี  ฯลฯ   สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.

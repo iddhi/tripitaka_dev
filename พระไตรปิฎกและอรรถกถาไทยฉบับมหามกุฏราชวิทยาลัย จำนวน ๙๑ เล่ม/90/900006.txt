@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                        	<H1>กุศลบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                          	   <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 003 </span>                                 <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>          	[๑๑]  ๑.  กุศลธรรมที่เป็นเหตุ  เป็นปัจจัยแก่กุศลธรรมที่เป็น
+<span class="LineNumber"> 005 </span>เหตุ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                	  ๒.  กุศลธรรมที่เป็นเหตุ  เป็นปัจจัยแก่กุศลธรรมที่
+<span class="LineNumber"> 007 </span>ไม่ใช่เหตุ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                	  ๓.  กุศลธรรมที่เป็นเหตุ  เป็นปัจจัยแก่กุศลธรรมที่
+<span class="LineNumber"> 009 </span>เป็นเหตุ  และกุศลธรรมที่ไม่ใช่เหตุ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                             <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 011 </span>          	[๑๒]  ๑.  กุศลธรรมที่เป็นเหตุ  เป็นปัจจัยแก่กุศลธรรมที่เป็น
+<span class="LineNumber"> 012 </span>เหตุ  ด้วยอำนาจของอารัมมณปัจจัย   มี ๓ วาระ  (วาระที่ ๑-๒-๓)
+<span class="LineNumber"> 013 </span>                 	  ๔.  กุศลธรรมที่ไม่ใช่เหตุ     เป็นปัจจัยแก่กุศลธรรมที่
+<span class="LineNumber"> 014 </span>ไม่ใช่เหตุ  ด้วยอำนาจของอารัมมณปัจจัย มี ๓ วาระ. (วาระที่ ๔-๕-๖)
+<span class="LineNumber"> 015 </span>                	  ๗.  กุศลธรรมที่เป็นเหตุ     และกุศลธรรมที่ไม่ใช่เหตุ
+<span class="LineNumber"> 016 </span>ทั้งหลาย เป็นปัจจัยแก่กุศลธรรมที่เป็นเหตุ  ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 017 </span>ปัจจัย  มี  ๓ วาระ   (วาระที่ ๗-๘-๙)

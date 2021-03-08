@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>	               <H3>รวมวิมานที่มีในวรรคนี้  คือ</H3>  
+<span class="LineNumber"> 002 </span>         ๑. ปฐมอคาริยวิมาน   ๒.  ทุติยอคาริยวิมาน     ๓.  ผลทายกวิมาน
+<span class="LineNumber"> 003 </span>๔.  ปฐมอุปัสสยทายกวิมาน  ๕.  ทุติยอุปัสสยทายกวิมาน  ๖.  ภิกขาทายก-
+<span class="LineNumber"> 004 </span>วิมาน  ๗. ยวปาลกวิมาน  ๘. ปฐมกุณฑลีวิมาน   ๙. ทุติยกุณฑลีวิมาน
+<span class="LineNumber"> 005 </span>๑๐.  อุตตรวิมาน   และอรรถกถา. 
+<span class="LineNumber"> 006 </span>        		           <I>จบวรรคที่  ๖</I>

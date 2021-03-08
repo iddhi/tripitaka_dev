@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  43  หน้า  501
+
+<span class="LineNumber"> 002 </span>					นิคมนกถา  
+<span class="LineNumber"> 003 </span>	สีหฬทีปเก  อปฺปิจฺฉตาทิคุณวนฺตานํ  เถรวํสปฺปทีปานํ  
+<span class="LineNumber"> 004 </span>อานนฺทตฺเถราทีนํ  สพฺพสตฺตานํ  ตณฺหามานทิฏฺ€าทโย  เฉทน-
+<span class="LineNumber"> 005 </span>นิคฺคหวิเวจนาทฺยตฺถํ  สตฺตหิ  มาเสหิ  อติวิย  อาราธเนน  ลทฺธ-
+<span class="LineNumber"> 006 </span>โกสลฺเลน  โพธิสมฺภารํ  คเวสนฺเตน  สติธิติคติวีริยปรกฺกมนฺเตน  
+<span class="LineNumber"> 007 </span>มหาสมนฺตคุณโสภเนน  ติปิฏกธเรน  ปณฺฑิเตน  อาภตํ  อิมํ  
+<span class="LineNumber"> 008 </span>อปทานฏฺ€กถํ สพฺโพ สเทวโลโก ชานาตูติ ฯ  
+<span class="LineNumber"> 009 </span>			อเนน โลภาทิมลา ปชานํ  
+<span class="LineNumber"> 010 </span>			จกฺขาทิโรคา วิวิธา จ ทุกฺขา  
+<span class="LineNumber"> 011 </span>			กลหาทิภยา ทุกฺขิตา ชาตา (๑)  
+<span class="LineNumber"> 012 </span>			โจราทโยนตฺถกรา จ โลเก ฯ  
+<span class="LineNumber"> 013 </span>			นสฺสนฺตุ เม ปฺจ เวรา จ ปาปา  
+<span class="LineNumber"> 014 </span>			นสฺสนฺตุ คิเมฺห ยถา วุฏฺ€ิวาตา  
+<span class="LineNumber"> 015 </span>			อฏฺ€งฺคิกมคฺควเรน ปตฺวา  
+<span class="LineNumber"> 016 </span>			นิพฺพานปุรํ ปฏิปาทยามิ ฯ  
+<span class="LineNumber"> 017 </span>		สพฺพทิฏฺ€ิฺจ มทฺทนฺโต  ราคโทสาทิปาปเก  
+<span class="LineNumber"> 018 </span>		สํสารวฏฺฏํ ฉินฺทิตฺวา	อุเปมิ สคฺคโมกฺขเก ฯ  
+<span class="LineNumber"> 019 </span>		อาณาเขตฺตมฺหิ สพฺพตฺถ	อวีจิมฺหิ ภวคฺคโต  
+<span class="LineNumber"> 020 </span>		สพฺเพ ธมฺมานุยายนฺตุ	ตโย โลกา อุตุปิ จาติ ฯ  
+<span class="LineNumber"> 021 </span>			อปทานฏฺ€กถาวณฺณนา  นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 022 </span>				_______________
+<span class="LineNumber"> 023 </span># ๑ สี.  กลหา วิวาทา จ ทุพฺภิกฺขชาตา ฯ  

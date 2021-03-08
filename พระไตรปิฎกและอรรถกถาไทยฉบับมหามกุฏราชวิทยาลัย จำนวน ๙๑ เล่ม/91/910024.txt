@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                   ๓.   <B>ธรรมที่ไม่ใช่พหิทธารัมมณธรรม    อาศัยธรรมที่ 
+<span class="LineNumber"> 002 </span>ไม่ใช่พหิทธารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 003 </span>                   ๔.   <B>ธรรมที่ไม่ใช่อัชฌัตตารัมมณธรรม   อาศัยธรรมที่
+<span class="LineNumber"> 004 </span>ไม่ใช่พหิทธารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B> 
+<span class="LineNumber"> 005 </span>                             <I>นอัชฌัตตารัมมณติกะ  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                <H1>๒๒.   นสนิทัสสนติกะ</H1>	
+<span class="LineNumber"> 007 </span>                                       <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 008 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>          [๓๕] ๑.  <B>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม   อาศัยธรรม
+<span class="LineNumber"> 011 </span>ที่ไม่ใช่สนิทัสสนสังปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 012 </span>                   ๒.   <B>ธรรมที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม   อาศัยธรรม
+<span class="LineNumber"> 013 </span>ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 014 </span>                   ๓.   <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิธรรม   อาศัยธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 016 </span>                   ๔.  <B>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  และธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม      อาศัยธรรมที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 018 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+

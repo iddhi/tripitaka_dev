@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>เช่น  <B>กโรนฺโต</B>  กระทำอยู่  ดังนี้  ตามแต่ต้องการ.  
+<span class="LineNumber"> 002 </span>			<B>สตฺถุ </B>(ผู้สอน) ปุํลิงค์ แจกอย่างนี้ :-
+<span class="LineNumber"> 003 </span>                      เอก.                                                     พหุ.
+<span class="LineNumber"> 004 </span>ป.  <B>สตฺถา</B>  เอา อุ การันต์  กับ                   <B>สตฺถาโร</B>  เอา อุ  การันต์  เป็น
+<span class="LineNumber"> 005 </span>                  สิ  เป็น อา                                               อาร  แล้ว  เอา  โย
+<span class="LineNumber"> 006 </span>                                                                                  เป็น โอ
+<span class="LineNumber"> 007 </span>ทุ. <B>สตฺถารํ</B>  เอา อุ การันต์  เป็น                   <B>สตฺถาโร</B>  (แปลงเหมือน ป. พหุ.)
+<span class="LineNumber"> 008 </span>                  อาร  คง อํ ไว้
+<span class="LineNumber"> 009 </span>ต.  <B>สตฺถารา</B> เอา อุ การันต์  เป็น                  <B>สตฺถาเรหิ</B>  เอา อุ  การันต์  เป็น
+<span class="LineNumber"> 010 </span>                   อาร  แปลง  นา เป็น                                  อาร  เอา  อะ เป็น เอ
+<span class="LineNumber"> 011 </span>                    อา                                                            คง  หิ   ไว้
+<span class="LineNumber"> 012 </span>       <B>สตฺถุนา</B>  คง นา ไว้                                  <B>สตฺราถานํ</B>  เอา อุ การันต์ เป็น
+<span class="LineNumber"> 013 </span>                                                                                       อร  เอา  อะ  เป็น เอ
+<span class="LineNumber"> 014 </span>                                                                                        แปลง หิ  เป็น ภิ
+<span class="LineNumber"> 015 </span>จ.  <B>สตฺถุ</B>  ลบ  ส  เสีย                                       <B>สตฺถารานํ</B>  เอา อุ  การันต์  เป็น
+<span class="LineNumber"> 016 </span>      <B>สตฺถุโน</B>  เอา ส  เป็น  โน                                               อาร  นํ อยู่หลัง  ทีฆะ
+<span class="LineNumber"> 017 </span>                                                                                          อะ  เป็น  อา คง นํ ไว้
+<span class="LineNumber"> 018 </span>ปญฺ. <B>สตฺถารา</B>  เอา อุ  การันต์  เป็น                   <B>สตฺถาเรหิ,  สตฺถาเรภิ </B> (แปลง
+<span class="LineNumber"> 019 </span>                        อาร เอา  สฺมา  เป็น                                     เหมือน ต. พหุ.)
+<span class="LineNumber"> 020 </span>                         อา
+

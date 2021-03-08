@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๘   หน้า  ๑๖๐
+	  
+<span class="LineNumber"> 002 </span>	 			 โอปมฺมวคฺควณฺณนา
+	  
+<span class="LineNumber"> 003 </span>	  			กกจูปมสุตฺตวณฺณนา  
+<span class="LineNumber"> 004 </span>	  เอวมฺเม  สุตนฺติ  กกจูปมสุตฺตํ  ตตฺถ  โมลิยผคฺคุโนติ  
+<span class="LineNumber"> 005 </span>โมลีติ  (๑)  จูลา  วุจฺจติ  ยถาห
+<span class="LineNumber"> 006 </span>	  	เฉตฺวาน  โมลึ  (๒)  วรคนฺธวาสิตํ  
+<span class="LineNumber"> 007 </span>	  	เวหายสํ  อุกฺขิปิ  สกฺยปุงฺคโว  
+<span class="LineNumber"> 008 </span>	  	รตนจงฺโกฏวเรน  วาสโว  
+<span class="LineNumber"> 009 </span>	  	สหสฺสเนตฺโต  สิรสา  ปฏิคฺคหีติ  ฯ
+<span class="LineNumber"> 010 </span>	  สา  ตสฺส  คิหิกาเล  มหตี  อโหสิ  เตนสฺส  โมลิยผคฺคุโนติ  
+<span class="LineNumber"> 011 </span>สงฺขา  อุทปาทิ  ปพฺพชิตํปิ  นํ  เตเนว  นาเมน  สฺชานนฺติ  
+<span class="LineNumber"> 012 </span>อติเวลนฺติ  เวลํ  อติกฺกมิตฺวา  ตตฺถ  กาลเวลา  สีมเวลา  
+<span class="LineNumber"> 013 </span>สีลเวลาติ  ติวิธา  เวลา  ตายํ  เวลายํ  อิมํ  อุทานํ  อุทาเนสีติ (๓) 
+<span class="LineNumber"> 014 </span>หิ  อยํ  กาลเวลา  นามฯ  €ิตธมฺโม  เวลํ  นาติวตฺตตีติ(๔)  อยํ  
+<span class="LineNumber"> 015 </span>สีมเวลา  นามฯ  เวลาอนติกฺกโม  เสตุฆาโตติ  (๕)  จ  เวลาเวสา  (๖)
+<span class="LineNumber"> 016 </span>อวีติกฺกมฏฺเ€นาติ(๗)  จ  อยํ  สีลเวลา  นามฯ  ตํ  ติวิธํปิ  โส 
+<span class="LineNumber"> 017 </span># ๑. ม. โมฬิยผคฺคุโนติ โมฬีติ ฯ   ๒. ม. จูฬา โมฬึ ฯ เอวมุปริปิ ฯ 
+<span class="LineNumber"> 018 </span># ๓. วิ. มหา. ๔/๑-๕/๑-๖ ฯ ขุ. อุ. ๒๕/๓๘/๗๓ ฯ  
+<span class="LineNumber"> 019 </span># ๔. วิ. จุล. ๗/๔๕๐/๒๘๕ ฯ  ขุ. อุ. ๒๕/๑๑๗/๑๕๓ ฯ องฺ. อฏฺ€ก.
+<span class="LineNumber"> 020 </span># ๒๓/๑๐๘/๒๐๑ ฯ   ๕. อภิ. สงฺ. ๓๔/๒๑๘/๘๙ ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. เวลา เจสา ฯ  ๗. ม. อติกฺกมนฏฺเ€นาติ ฯ

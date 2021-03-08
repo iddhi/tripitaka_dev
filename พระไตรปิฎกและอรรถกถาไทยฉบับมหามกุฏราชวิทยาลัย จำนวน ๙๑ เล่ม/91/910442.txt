@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>๙.  สนิทัสสนทุกนสนิทัสสนทุกะ<  /H1> 
+<span class="LineNumber"> 002 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๑๔๔] ๑. <B>ธรรมที่ไม่ใช่อนิทัสสนธรรม    อาศัยธรรมที่เป็น
+<span class="LineNumber"> 006 </span>อนิทัสสนธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                       ๒. <B>ธรรมที่ไม่ใช่สนิทัสสนธรรม    อาศัยธรรมที่เป็น
+<span class="LineNumber"> 008 </span>อนิทัสสนธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                       ๓.  <B>ธรรมที่ไม่ใช่สนิทัสสนธรรม   และธรรมที่ไม่ใช่
+<span class="LineNumber"> 010 </span>อนิทัสสนธรรม  อาศัยธรรมที่เป็นอนิทัสสนธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 011 </span>ปัจจัย</B>
+
+<span class="LineNumber"> 012 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๑๔๕]  ในเหตุปัจจัย มี  ๓ วาระ  ฯลฯ  ในปัจจัยทั้งปวง  มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>                          <I>สนิทัสสนทุกนสนิทัสสนทุกะ  จบ</I>	

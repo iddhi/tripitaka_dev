@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                          ๗.  หมวด  ตนฺ  ธาตุ 
+<span class="LineNumber"> 002 </span><B>ตนฺ</B>	เป็นไปในความ  แผ่ไป  <B>[ตนฺ + โอ + ติ]</B>  สำเร็จรูปเป็น
+<span class="LineNumber"> 003 </span>	<B>ตโนติ</B>  ย่อมแผ่ไป.
+<span class="LineNumber"> 004 </span><B>กรฺ</B>	เป็นไปในความ  ทำ  <B>[กรฺ + โอ + ติ]</B>  สำเร็จรูปเป็น  <B>กโรติ</B>
+<span class="LineNumber"> 005 </span>	ย่อมทำ.
+<span class="LineNumber"> 006 </span><B>* สกฺกฺ</B>  เป็นไปในความ  อาจ  <B>[สกฺกฺ + โอ + ติ]</B> สำเร็จรูปเป็น
+<span class="LineNumber"> 007 </span>	<B>สกฺโกติ</B>  ย่อมอาจ.
+<span class="LineNumber"> 008 </span><B>* ชาครฺ</B>  เป็นไปในความ  ตื่น  <B>[ชาครฺ + โอ + ติ]</B>   สำเร็จรูปเป็น
+<span class="LineNumber"> 009 </span>	<B>ชาคโรหิ</B>  ย่อมตื่น.
+
+<span class="LineNumber"> 010 </span>                          ๘.  หมวด  จุรฺ  ธาตุ
+<span class="LineNumber"> 011 </span><B>จุรฺ</B>	เป็นไปในความ  ลัก  <B>[จุรฺ + เณ - ณย + ติ]</B>   สำเร็จรูปเป็น
+<span class="LineNumber"> 012 </span>	<B>โจเรติ,  โจรยติ</B>  ย่อมลัก.
+<span class="LineNumber"> 013 </span><B>ตกฺกฺ</B>	เป็นไปในความ  ตรึก  <B>[ตกฺกฺ + เณ - ณย + ติ]</B>  สำเร็จรูป
+<span class="LineNumber"> 014 </span>	เป็น  <B>ตกฺเกติ,  ตกฺกยติ</B>  ย่อมตรึก.
+<span class="LineNumber"> 015 </span><B>ลกฺขฺ</B>	เป็นไปในความ  กำหนด  <B>[ลกฺขฺ + เณ - ณย + ติ]</B>  สำเร็จรูป
+<span class="LineNumber"> 016 </span>	เป็น  <B>ลกฺเขติ,  ลกฺขยติ</B>  ย่อมกำหนด.
+<span class="LineNumber"> 017 </span><B>* มนฺตฺ</B>  เป็นไปในความ  ปรึกษา  <B>[มนฺตฺ + เณ - ณย + ติ]</B>  สำเร็จรูป
+<span class="LineNumber"> 018 </span>	เป็น  <B>มนฺเตติ,  มนฺตยติ</B>  ย่อมปรึกษา.

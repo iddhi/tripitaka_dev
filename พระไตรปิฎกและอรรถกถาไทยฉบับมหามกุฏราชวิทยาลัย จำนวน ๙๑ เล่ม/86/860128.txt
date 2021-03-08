@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>สัมปยุตตวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                          <H1>เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๑๓๕๓]  <B>วิปากธรรม ประกอบกับวิปากธรรม เกิดขึ้น  เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๓ ประกอบกับขันธ์ ๑ ที่เป็นวิบากขันธ์   เกิดขึ้น. 
+
+<span class="LineNumber"> 007 </span>                       <H1>การนับจำนวนวาระในสัมปยุตตวาระ</H1>  
+<span class="LineNumber"> 008 </span>         ในเหตุปัจจัยมี ๓ วาระ   ฯลฯ.
+<span class="LineNumber"> 009 </span>         ในนเหตุปัจจัย มี ๓ วาระ   ฯลฯ.
+<span class="LineNumber"> 010 </span>         <B>เพราะเหตุปัจจัย</B>  ในนอธิปติปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>         <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>                                   <I>สัมปยุตตวาระ  จบ</I>

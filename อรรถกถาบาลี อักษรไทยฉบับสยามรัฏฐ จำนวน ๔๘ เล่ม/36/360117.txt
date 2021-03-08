@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหาชนกชาตกํ  หน้า  117
+
+<span class="LineNumber"> 002 </span>	[๔๗๔]	โยปิ จตุตฺเถ ภตฺตกาเล น ภุฺเช  
+<span class="LineNumber"> 003 </span>			อชฺฌุฏฺ€มาริว (๑) ขุธาย มิยฺเย  
+<span class="LineNumber"> 004 </span>			น เตฺวว ปิณฺฑํ ลุลิตํ อนริยํ  
+<span class="LineNumber"> 005 </span>			กุลปุตฺตรูโป สปฺปุริโส นุ (๒) เสเว  
+<span class="LineNumber"> 006 </span>			ตยิทํ น สาธุ ตยิทํ น สุฏฺ€ุ  
+<span class="LineNumber"> 007 </span>			สุนขุจฺฉิฏฺ€กํ ชนก ภุฺชเส ตุวนฺติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  อชฺฌุฏฺ€มาริวาติ  อาสนฺนมรณมิว (๓) ฯ  ลุลิตนฺติ 
+<span class="LineNumber"> 009 </span>ปํสุมกฺขิตํ ฯ  อนริยนฺติ  อสุนฺทรํ ฯ  นุ  เสเวติ  นุกาโร  ปฏิปุจฺฉนตฺเถ (๔) 
+<span class="LineNumber"> 010 </span>นิปาโต ฯ  อิทํ  วุตฺตํ  โหติ  สเจปิ  จตุตฺเถ  ภตฺตกาเล  น  ภุฺเชยฺย 
+<span class="LineNumber"> 011 </span>ขุทาย  วา  มเรยฺย  น  นุ  เอวํ  สนฺเตปิ  กุลปุตฺตรูโป  สปฺปุริโส 
+<span class="LineNumber"> 012 </span>เอวรูปํ  ปิณฺฑํ  น  ตเวว  เสเวยฺยาติ ฯ  ตยิทนฺติ  ตํ  อิทํ ฯ  
+<span class="LineNumber"> 013 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 014 </span>	[๔๗๕]	น  จาปิ  เม  สีวลี  โส  อภกฺโข 
+<span class="LineNumber"> 015 </span>			ยํ  โหติ  จตฺตํ  คิหิโน สุนขสฺส วา  
+<span class="LineNumber"> 016 </span>			เยเกจิ โภคา อิธ ธมฺมลทฺธา 
+<span class="LineNumber"> 017 </span>			สพฺโพ โส ภกฺโข อนวโยติ (๕) วุตฺโตติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  อภกฺโขติ  โส  ปิณฺฑปาโต  มม  อภกฺโข  นาม  น  
+<span class="LineNumber"> 019 </span># ๑. สี. อชทฺธุมารีว ฯ  ม. อชุฏฺ€มารีว ฯ  ยุ. อชทฺธุมาริว ฯ  ๒. ม. ยุ. น ฯ
+<span class="LineNumber"> 020 </span># ๓. สี. ยุ. อนาสกมรณเมว ฯ  ม. อนาถมรณเมว ฯ  
+<span class="LineNumber"> 021 </span># ๔. ม. นกาโร ปริปุจฺฉนตฺเถ ฯ  ๕. สี. ยุ. อนวชฺโชติ ฯ

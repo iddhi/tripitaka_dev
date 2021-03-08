@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>              <h1> อรรถกถาธรรมกถิกสูตรที่  ๑๐</h1>  
+<span class="LineNumber"> 002 </span>           อรรถกถาธรรมกถิกสูตรที่  ๑๐  มีนัยดังกล่าวแล้วในหนหลังนั้นแล.
+<span class="LineNumber"> 003 </span>                                          <I>จบ  นวปุราณวรรคที่  ๕</I>
+
+<span class="LineNumber"> 004 </span>                          <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 005 </span>            ๑.   กรรมสูตร      ๒.   ปฐมสัปปายสูตร      ๓.   ทุติยสัปปายสูตร
+<span class="LineNumber"> 006 </span>๔.  ตติยสัปปายสูตร   ๕   จตุตถสัปปายสูตร   ๖.  อนันเตวาสิกานาจริยสูตร
+<span class="LineNumber"> 007 </span>๗.  ติตถิยสูตร   ๘.  ปริยายสูตร  ๙.  อินทรียสูตร    ๑๐.  ธรรมกถิกสูตร.
+
+<span class="LineNumber"> 008 </span>                        <H2>รวมวรรคในตติยปัณณาสก์นี้  คือ</H2>
+<span class="LineNumber"> 009 </span>            ๑.  โยคักเขมิวรรค      ๒.โลกกามคุณวรรค     ๓.   คหปติวรรค
+<span class="LineNumber"> 010 </span>๔. เทวทหวรรค   ๕.  นวปุราณวรรค.
+<span class="LineNumber"> 011 </span>                                              <I>จบ  ตติยปัณณาสก์</I>

@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>รวมกถาที่มีในวรรคนี้คือ</H2> 
+
+<span class="LineNumber"> 002 </span>         ๑.  สังคหิตกถา   ๒. สัมปยุตตกถา  ๓. เจตสิกกถา  ๔. ทานกถา
+<span class="LineNumber"> 003 </span>๕. ปริโภคมยปุญญกถา    ๖.  อิโตทินนกถา    ๗. ปฐวีกัมมวิปาโกติกถา
+<span class="LineNumber"> 004 </span>๘. ชรามรณวิปาโกติกถา  ๙. อริยธัมมวิปากกถา   ๑๐. วิปาโกวิปาก-
+<span class="LineNumber"> 005 </span>ธัมมธัมโมติกถา.                                                                    
+<span class="LineNumber"> 006 </span>                                 <I>วรรคที่  ๗  จบ</I>

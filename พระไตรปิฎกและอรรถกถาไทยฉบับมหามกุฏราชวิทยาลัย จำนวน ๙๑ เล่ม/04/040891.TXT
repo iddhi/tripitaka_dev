@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 002 </span>            ไม่แกล้ง  ๑  เผลอ ๑  ไม่รู้ตัว ๑  อาพาธ ๑  มีอันตราย  ๑  วิกลจริต ๑
+<span class="LineNumber"> 003 </span>อาทิกัมมิกะ ๑   ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 004 </span>                            <I>อุชชัคฆิกวรรค  สิกขาบทที่  ๓  จบ</I>
+
+<span class="LineNumber"> 005 </span>                         <H2>อุชชัคฆิกวรรค  สิกขาบทที่  ๔</H2>
+<span class="LineNumber"> 006 </span>            [๘๑๓]   สาวัตถีนิทาน  ครั้งนั้น    พระฉัพพัคคีย์นั่งส่งเสียงตะเบ็งเสียง
+<span class="LineNumber"> 007 </span>ตะโกนลั่น อยู่ในละแวกบ้าน . . .
+<span class="LineNumber"> 008 </span>                                      <H2>พระบัญญัติ</H2>
+<span class="LineNumber"> 009 </span>           ๑๕๙.  ๑๔.  ภิกษุพึงทำความศึกษาว่า  เราจักมีเสียงน้อย นั่ง
+<span class="LineNumber"> 010 </span>ในละแวกบ้าน.
+<span class="LineNumber"> 011 </span>                                   <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 012 </span>            อันภิกษุพึงมีเสียงเบา  นั่งในละแวกบ้าน  ภิกษุใดอาศัยความไม่เอื้อเฟื้อ
+<span class="LineNumber"> 013 </span>ส่งเสียงตะเบ็งเสียงตะโกน   นั่งในละแวกบ้าน   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 014 </span>                                     <H2>อนาปัตติวาร</H2>                             
+<span class="LineNumber"> 015 </span>            ไม่แกล้ง  ๑  เผลอ ๑  ไม่รู้ตัว  ๑  อาพาธ ๑  มีอันตราย ๑  วิกลจริต ๑
+<span class="LineNumber"> 016 </span>อาทิกัมมิกะ ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 017 </span>                       <I>อุชชัคฆิกวรรค  สิกขาบทที่  ๔  จบ</I>
+
+<span class="LineNumber"> 018 </span>                    <H2>อุชชัคฆิกวรรค  สิกขาบทที่  ๕</H2>	
+<span class="LineNumber"> 019 </span>            [๘๑๔]  สาวัตถีนิทาน  ครั้งนั้น   พระฉัพพัคคีย์เดินโคลงกายไปใน
+<span class="LineNumber"> 020 </span>ละแวกบ้าน   วางท่าภาคภูมิ . . .

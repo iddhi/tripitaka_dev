@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                         <H2>องค์ ๖ แห่งภิกษุผู้ไม่ต้องถือนิสัย</H2>
+<span class="LineNumber"> 002 </span>           ดูก่อนภิกษุทั้งหลาย    ภิกษุผู้ประกอบด้วยองค์   ๖   ไม่ต้องถือนิสัยอยู่
+<span class="LineNumber"> 003 </span>คือ:- 
+<span class="LineNumber"> 004 </span>           ๑.  เป็นผู้ไม่วิบัติด้วยศีล   ในอธิศีล.
+<span class="LineNumber"> 005 </span>           ๒.  เป็นผู้ไม่วิบัติด้วยอาจาระ  ในอัธยาจาระ.
+<span class="LineNumber"> 006 </span>           ๓.  เป็นผู้ไม่วิบัติด้วยทิฏฐิ.   ในทิฏฐิยิ่ง.
+<span class="LineNumber"> 007 </span>           ๔.  เป็นผู้ได้ยินได้ฟังมาก.
+<span class="LineNumber"> 008 </span>           ๕.   เป็นผู้มีปัญญา   และ
+<span class="LineNumber"> 009 </span>           ๖.  มีพรรษาได้ ๕ หรือมีพรรษาเกิน  ๕.
+<span class="LineNumber"> 010 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์ ๖ นี้แล  ไม่ต้องถือนิสัย
+<span class="LineNumber"> 011 </span>อยู่.
+
+<span class="LineNumber"> 012 </span>                           <H2>องค์ ๖ แห่งภิกษุต้องถือนิสัย</H2>
+<span class="LineNumber"> 013 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์  ๖  แม้อื่นอีก   จะไม่ถือ
+<span class="LineNumber"> 014 </span>นิสัยอยู่ไม่ได้  คือ:-
+<span class="LineNumber"> 015 </span>           ๑.  ไม่รู้จักอาบัติ.
+<span class="LineNumber"> 016 </span>           ๒.  ไม่รู้จักอนาบัติ.
+<span class="LineNumber"> 017 </span>           ๓.  ไม่รู้จักอาบัติเบา.
+<span class="LineNumber"> 018 </span>           ๔.  ไม่รู้จักอาบัติหนัก.
+<span class="LineNumber"> 019 </span>           ๕.  เธอจาปาติโมกข์ทั้งสองไม่ได้ดี   โดยพิสดาร   จำแนกไม่ได้ด้วยดี
+<span class="LineNumber"> 020 </span>                 ไม่คล่องแคล่วดี วินิจฉัยไม่เรียบร้อย โดยสุ คะ โดยอนุพยัญชนะ
+<span class="LineNumber"> 021 </span>                 และ

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 531
+
+<span class="LineNumber"> 002 </span>	ทหรกุมาริกาย  วิลปนฺติยา  กมฺปมานาย  คจฺฉนฺติยา  
+<span class="LineNumber"> 003 </span>มหาสตฺตสฺส  พลวโสโก  อุปฺปชฺชิ ฯ  หทยวตฺถุ  อุณฺหํ  อโหสิ ฯ  
+<span class="LineNumber"> 004 </span>นาสิกาย  อปฺปโหนฺติยา มุเขน  อุณฺเห  อสฺสาสปสฺสาเส 
+<span class="LineNumber"> 005 </span>วิสชฺเชสิ ฯ  อสฺสูนิ โลหิตวินฺทูนิ หุตฺวาเนตฺเตหิ  นิกฺขมึสุ ฯ 
+<span class="LineNumber"> 006 </span>โส  อิทํ  เอวรูปํ  ทุกฺขํ สิเนหโทเสน ชาตํ น อฺเน 
+<span class="LineNumber"> 007 </span>การ  เณน  มยา  ตสฺมา  สิเนหํ  อกตฺวา  มชฺฌตฺเตเนว  
+<span class="LineNumber"> 008 </span>ภวิตพฺพนฺติ  ตถารูปํ  โสกํ อตฺตโน าณพเลน วิโนเทตฺวา
+<span class="LineNumber"> 009 </span>ปกตินิสินฺนากาเรเนว นิสีทิ ฯ  
+<span class="LineNumber"> 010 </span>	คิริทฺวารํ อสมฺปตฺตา(๑) กุมาริกา วิลปนฺตี อคมาสิ ฯ  
+<span class="LineNumber"> 011 </span>	[๑๑๘๒]อิเม โน ปาทุกา(๒) ทุกฺขา	ทีโฆ จทฺธา สุทุคฺคโม  
+<span class="LineNumber"> 012 </span>		นีเจ โวลมฺพเก(๓) สุริเย	พฺราหฺมโณว ตเรติ โน  
+<span class="LineNumber"> 013 </span>		โอกนฺทามฺหเส ภูตานิ	ปพฺพตานิ วนานิ จ  
+<span class="LineNumber"> 014 </span>		สรสฺส สิรสา วนฺทาม	สุปติตฺเถ จ อาปเก  
+<span class="LineNumber"> 015 </span>		ติณา ลตา(๔) จ โอสโถฺย  ปพฺพตานิ วนานิ จ  
+<span class="LineNumber"> 016 </span>		อมฺมํ อาโรคฺยํ วชฺชาถ	อยํ โน เนติ พฺราหฺมโณ  
+<span class="LineNumber"> 017 </span>		วชฺชนฺตุ โภนฺโต อมฺมฺจ  มทฺทึ อสฺมากมาตรํ  
+<span class="LineNumber"> 018 </span>		สเจ อนุปฺปติตุกามา(๕)	ขิปฺปํ อนุปฺปเตยฺย โน  
+<span class="LineNumber"> 019 </span>		อยํ เอกปที เอติ		อุชุํ คจฺฉติ อสฺสมํ  
+<span class="LineNumber"> 020 </span>		ตเมว อนุปฺปตฺเตยฺยาสิ	อปิ ปสฺเสสิ โน(๖) ลหุํ  
+<span class="LineNumber"> 021 </span># ๑. ม. อสมฺปตฺตาเยว ฯ ๒. ม. ปาทกา ฯ  ๓. ม. โจรมฺภเต ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. ติณลตานิ ฯ  ๕. ม. อนุปติตุกามาสิ ขิปฺปํ อนุปติยาสิ ฯ
+<span class="LineNumber"> 023 </span># ๖. ม. เน ฯ 

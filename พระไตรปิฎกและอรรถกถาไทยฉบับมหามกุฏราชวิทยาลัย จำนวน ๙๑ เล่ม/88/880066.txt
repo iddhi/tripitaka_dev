@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  สัมปยุตตเจตนา   อาศัยโมหะที่สหรคตด้วยวิจิกิจฉา   ที่สหรคต 
+<span class="LineNumber"> 002 </span>ด้วยอุทธัจจะ. 
+<span class="LineNumber"> 003 </span>                     ๔.  <B>สเหตุกธรรม  อาศัยสเหตุกธรรม และอเหตุกธรรม
+<span class="LineNumber"> 004 </span>เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  สัมปยุตตเจตนา  อาศัยขันธ์ทั้งหลาย  ที่สหรคตด้วยวิจิกิจฉา  ที่
+<span class="LineNumber"> 006 </span>สหรคตด้วยอุทธัจจะ  และโมหะ.
+
+<span class="LineNumber"> 007 </span>                                     <H1>๑๒. นวิปากปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๕๓]   <B>ฯลฯ เพราะนวิปากปัจจัย   ปฏิสนธิ   ไม่มี.</B>
+<span class="LineNumber"> 009 </span>               <H1>๑๓.  นอาหารปัจจัย ฯลฯ   ๑๗.  นสัมปยุตตปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๕๔] ๑.  <B>อเหตุกธรรม  อาศัยอเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 011 </span>นอาหารปัจจัย</B>
+<span class="LineNumber"> 012 </span>           <B>ฯลฯ เพราะนอินทริยปัจจัย</B>
+<span class="LineNumber"> 013 </span>           <B>ฯลฯ เพราะนฌานปัจจัย</B>
+<span class="LineNumber"> 014 </span>           <B>ฯลฯ เพราะนมัคคปัจจัย</B>
+<span class="LineNumber"> 015 </span>           <B>ฯลฯ เพราะนสัมปยุตตปัจจัย</B>
+
+<span class="LineNumber"> 016 </span>                                   <H1>๑๘.  นวิปปยุตตปัจจัย</H1>   
+<span class="LineNumber"> 017 </span>           [๕๕] ๑.  <B>สเหตุกธรรม  อาศัยสเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 018 </span>นวิปปยุตตปัจจัย</B>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H2>พระบัญญัติ</H2>
+<span class="LineNumber"> 002 </span>            ๑๕๗.  ๑๒.  ภิกษุพึงทำความศึกษาว่า  เราจักไม่นั่งในละแวก
+<span class="LineNumber"> 003 </span>บ้าน  ด้วยทั้งความหัวเราะลั่น. 
+<span class="LineNumber"> 004 </span>                                      <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 005 </span>            อันภิกษุไม่พึงนั่งหัวเราะลั่นในละแวกบ้าน     ภิกษุใดอาศัยความไม่
+<span class="LineNumber"> 006 </span>เอื้อเฟื้อ   นั่งในละแวกบ้านหัวเราะลั่น    ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 007 </span>                                       <H2>อนาปัตตวาร</H2>
+<span class="LineNumber"> 008 </span>            ไม่แกล้ง  ๑  เผลอ ๑  ไม่รู้ตัว ๑  อาพาธ* ๑  ทำอาการเพียงยิ้มแย้มใน
+<span class="LineNumber"> 009 </span>เมื่อมีเรื่องที่น่าขัน ๑  มีอันตราย<SUP>๒</SUP>  ๑   วิกลจริต ๑   อาทิกัมมิกะ ๑   ไม่ต้อง
+<span class="LineNumber"> 010 </span>อาบัติแล.
+<span class="LineNumber"> 011 </span>                             <I>อุชชัคฆิกวรรค  สิกขาบทที่  ๒  จบ</I>
+
+<span class="LineNumber"> 012 </span>                             <H2>อุชชัคฆิกวรรค  สิกขาบทที่  ๓</H2>
+<span class="LineNumber"> 013 </span>            [๘๑๒]  สาวัตถีนิทาน    ครั้งนั้น    พระฉัพพัคคีย์เดินส่งเสียงตะเบ็ง
+<span class="LineNumber"> 014 </span>เสียงตะโกน   ไปในละแวกบ้าน . . .
+<span class="LineNumber"> 015 </span>                                            <H2>พระบัญญัติ</H2>
+<span class="LineNumber"> 016 </span>            ๑๕๘ .  ๑๓.  ภิกษุพึงทำความศึกษาว่า  เราจักมีเสียงน้อยไป
+<span class="LineNumber"> 017 </span>ในละแวกบ้าน.
+<span class="LineNumber"> 018 </span>                                           <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 019 </span>             อันภิกษุพึงมีเสียงเบาเดินไปในละแวกบ้าน     ภิกษุใดอาศัยความไม่
+<span class="LineNumber"> 020 </span>เอื้อเฟื้อ   เดินส่งเสียงตะเบ็งเสียงตะโกนไปในละแวกบ้าน   ต้องอาบัติทุกกฏ.
+<span class='footnote'>  ๑.   ๒.  แม้บาลี  ๒  บทนี้   ก็ควรพิจารณาโดยนัยดังกล่าวแล้ว.</span>

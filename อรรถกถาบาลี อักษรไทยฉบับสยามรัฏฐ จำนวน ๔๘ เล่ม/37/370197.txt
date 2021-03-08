@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 197
+
+<span class="LineNumber"> 002 </span>สตฺตา  อุปปาติกา  นตฺถิ  โลเก  สมณพฺราหฺมณา  สมคฺครตา(๑) 
+<span class="LineNumber"> 003 </span>สมฺมาปฏิปนฺนาติ  ปรโลเก  หิ  สติ  อิธโลโก(๒)  นาม  ภเวยฺย
+<span class="LineNumber"> 004 </span>โสเยว  นตฺถิ  มาตาปิตูสุ  จ  สนฺเตสุ  ปุตฺตธีตโร  นาม  ภเวยฺยุํ 
+<span class="LineNumber"> 005 </span>เตเยว  นตฺถิ ธมฺเม สติ ธมฺมิกสมณพฺราหฺมณา  ภเวยฺยุํ  เตเยว 
+<span class="LineNumber"> 006 </span>นตฺถิ  กึ  ทานํ  เทสิ (๓) กึ  สีลํ  รกฺขสิ(๔)  นิรตฺถํ กึ วิหฺสีติ ฯ  
+<span class="LineNumber"> 007 </span>	[๘๕๙]เวเทหสฺส วโจ สุตฺวา	รุจา รุจิรวณฺณินี  
+<span class="LineNumber"> 008 </span>		ชานํ ปุพฺพาปรํ ธมฺมํ	ปิตรํ เอตทพฺรวิ  
+<span class="LineNumber"> 009 </span>		สุตเมว ปุเรอาสิ		ปจฺจกฺขํ (๕)ทิฏฺ€มิทํ มยา  
+<span class="LineNumber"> 010 </span>		พาลูปเสวี โย โหติ		พาโลว สมปชฺชถ  
+<span class="LineNumber"> 011 </span>		มุฬฺโห หิ มุฬฺหมาคมฺม	ภิยฺโย โมหํ นิคจฺฉติ  
+<span class="LineNumber"> 012 </span>		ปฏิรูปํ อลาเตน		วีชเกน จ มุฬฺหิตุนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  ปุพฺพาปรํ  ธมฺมนฺติ  ภิกฺขเว  ปิตุ  วจนํ  สุตฺวา  
+<span class="LineNumber"> 014 </span>รุจา  ราชธีตา  อตีเต  สตฺตชาติวเสน  ปุพฺพธมฺมํ  อนาคเต  
+<span class="LineNumber"> 015 </span>สตฺตชาติวเสน  อนาคตธมฺมฺจ  ชานนฺตี  ปิตรํ  มิจฺฉาทิฏฺ€ิโต 
+<span class="LineNumber"> 016 </span>โมเจตุกามา  เอตํ  สุตเมวาติ  อาทิมาห ฯ  ตตฺถ  สมปชฺชถาติ 
+<span class="LineNumber"> 017 </span>โย  ปุคฺคโล  พาลุปเสวี  โหติ  โส  พาโลว  สมปชฺชตีติ  เอตํ  
+<span class="LineNumber"> 018 </span>มยา  ปุพฺเพ  สุตเมว  อชฺช  ปน  ปจฺจกฺขโต  ทิฏฺ€นฺติ(๖) ฯ 
+<span class="LineNumber"> 019 </span>มุฬฺโห  หีติ(๗)  มคฺคมุฬฺหามคมฺม(๘)  มคฺคมุฬฺโห(๙)  วิย  ทิฏฺ€ิมุฬฺโหปิ
+<span class="LineNumber"> 020 </span># ๑. ม. สมฺมคฺคตา ฯ  ๒. ม. อิธโลโกปิ ฯ ๓. ม. เทนฺตี ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. รกฺขนฺตีฯ  ๕. ม. สกฺขิ ฯ  ๖. ม. ทิฏฺ€ํ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. มูฬฺโหติ ฯ  ๘. ม. มคฺคมูฬฺหํ อาคมฺม ฯ
+<span class="LineNumber"> 023 </span># ๙. ม. มคฺคมูฬฺโห ฯ

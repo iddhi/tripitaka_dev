@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า  วิจิกิจฉานุสัย   อันบุคคลใดยังละไม่ได้,  กามราคานุสัย 
+<span class="LineNumber"> 002 </span>ปฏิฆานุสัย  และมานานุสัย   อันบุคคลนั้นก็ยังละไม่ได้ ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>               <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ
+<span class="LineNumber"> 005 </span>                                       ทิฏฐานุสยาทิมูลี</I>
+
+<span class="LineNumber"> 006 </span><H2>กามราคานุสย - ปฏิฆานุสย - นานานุสยมูละ   ภวราคานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 007 </span>         กามราคานุสัย  ปฏิฆานุสัย   และมานานุสัย   อันบุคคลใดยังละ
+<span class="LineNumber"> 008 </span>ไม่ได้,  ภวราคานุสัย  ฯลฯ  อวิชชานุสัย    อันบุคคลนั้นก็ยังละไม่ได้
+<span class="LineNumber"> 009 </span>ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า อวิชชานุสัย    อันบุคคลใดยังละไม่ได้,  กามราคานุสัย
+<span class="LineNumber"> 012 </span>ปฏิฆานุสัย   และมานานุสัย  อันบุคคลนั้นก็ยังละไม่ได้  ?
+<span class="LineNumber"> 013 </span>         อวิชชานุสัย   และมานานุสัย   พระอนาคามี   ยังละไม่ได้    แต่
+<span class="LineNumber"> 014 </span>กามราคานุสัย    และปฏิฆานุสัย     พระอนาคามีนั้น     ไม่ใช่ละไม่ได้,

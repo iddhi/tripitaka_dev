@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>ปทโสธนวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>         [๘๐๔]   ธรรมที่ไม่ชื่อว่าจักขุ ,  ไม่ชื่อว่าจักขุธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ไม่ชื่อว่าจักขุธาตุ,  ไม่ชื่อว่าจักขุ   ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ทิพพจักขุ    ปัญญาจักขุ    ไม่ชื่อว่าจักขุธาตุ     แต่ขื่อว่า    จักขุ, 
+<span class="LineNumber"> 006 </span>เว้นจักขุ   และจักขุธาตุเสียแล้ว   ธาตุที่เหลือไม่ชื่อว่าจักขุ   และไม่ชื่อว่า     จักขุธาตุ.                                                                   
+<span class="LineNumber"> 007 </span>จักขุธาตุ.
+<span class="LineNumber"> 008 </span>         ธรรมที่ไม่ชื่อว่าโสต, ไม่ชื่อว่าโสตธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>         ธรรมที่ไม่ชื่อว่าโสตธาตุ,  ไม่ชื่อว่าโสต   ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ทิพพโสต     ตัณหาโสต    ไม่ชื่อว่าโสตธาตุ    แต่ชื่อว่าโสต,  เว้น
+<span class="LineNumber"> 012 </span>โสตและโสตธาตุเสียแล้ว    ธาตุที่เหลือไม่ชื่อว่าโสตและไม่ชื่อว่าโสตธาตุ.
+<span class="LineNumber"> 013 </span>         ธรรมที่ไม่ชื่อว่าฆานะ,  ไม่ชื่อว่าฆานธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ธรรมที่ไม่ชื่อว่าฆานธาตุ,  ไม่ชื่อว่าฆานะ  ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         ใช่.

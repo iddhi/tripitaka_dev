@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>อรรถกถาปฐมอัปปิยสูตรที่  ๓</H1>
+<span class="LineNumber"> 002 </span>         <B>ปฐมอัปปิยสูตรที่  ๓</B>   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า   <B>อปฺปิยปสํสี</B>  แปลว่า   เป็นผู้สรรเสริญ   คือ  กล่าวชม
+<span class="LineNumber"> 004 </span>คนที่ไม่เป็นที่รัก.   บทว่า   <B>ปิยครหี</B>  ได้แก่   นินทา  คือ  ติเตียนคนที่เป็น
+<span class="LineNumber"> 005 </span>ที่รัก.
+<span class="LineNumber"> 006 </span>                             <I>จบ  อรรถกถาปฐมอัปปิยสูตรที่  ๓</I>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>ว่าด้วยสุขเวทนาที่เป็นวิบากเป็นปัจจัย</H1>
+<span class="LineNumber"> 002 </span>                              <B>แต่เพราะในนิเทศว่า   เวทนาปจฺจยา 
+<span class="LineNumber"> 003 </span>                       ตณฺหา        ทรงประสงค์เอาสุขเวทนาที่เป็น
+<span class="LineNumber"> 004 </span>                       วิบากอย่างเดียวเท่านั้น  ฉะนั้น  เวทนานี้จึง
+<span class="LineNumber"> 005 </span>                       เป็นปัจจัยต่างเดียวเท่านั้นแก่ตัณหา.</B>
+<span class="LineNumber"> 006 </span>         คำว่า  <B>เป็นปัจจัยอย่างเดียว</B>  คือเป็นปัจจัยด้วยอุปนิสสยปัจจัย.
+
+<span class="LineNumber"> 007 </span>                               <H1>ว่าด้วยเวทนา  ๓  เป็นปัจจัย</H1>
+<span class="LineNumber"> 008 </span>         อีกอย่างหนึ่ง  เพราะว่า
+<span class="LineNumber"> 009 </span>                              <B>คนมีทุกข์  ย่อมปรารถนาสุข  คนมี
+<span class="LineNumber"> 010 </span>                       สุข   ก็ย่อมปรารถนาสุขแม้ยิ่งขึ้นไป  ส่วน
+<span class="LineNumber"> 011 </span>                       อุเบกขาตรัสว่า    สุขนั่นแหละ  เพราะเป็น
+<span class="LineNumber"> 012 </span>                       ธรรมสงบ.</B>
+<span class="LineNumber"> 013 </span>                              <B>ฉะนั้น   เวทนาแม้ทั้ง ๓ จึงเป็นปัจจัย
+<span class="LineNumber"> 014 </span>                       แก่ตัณหา   พระมหาฤาษี   จึงตรัสว่า  ตัณหา 
+<span class="LineNumber"> 015 </span>                       เกิดเพราะเวทนาเป็นปัจจัย.</B>
+<span class="LineNumber"> 016 </span>                              <B>อนึ่ง     เพราะเว้นอนุสัยเสีย   แล้ว
+<span class="LineNumber"> 017 </span>                       ตัณหาย่อมไม่เกิด    เพราะเวทนาเป็นปัจจัย
+<span class="LineNumber"> 018 </span>                       ฉะนั้น  ตัณหานั้นจึงไม่มีแก่พราหมณ์ผู้จบ     		
+<span class="LineNumber"> 019 </span>                       พรหมจรรย์แล.</B>
+<span class="LineNumber"> 020 </span>                       <I>นิเทศตัณหาเกิดเพราะเวทนาเป็นปัจจัย  จบ</I>

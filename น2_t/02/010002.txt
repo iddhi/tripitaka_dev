@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                      กัณฑ์ที่  ๑๑
+<span class="LineNumber"> 002 </span>                                       กายบริหาร  
+
+<span class="LineNumber"> 003 </span>                                <B>กายบริหารมี  ๑๔ คือ</B>
+<span class="LineNumber"> 004 </span>๑.  อย่าพึงไว้ผมยาว  จะไว้ได้เพียง ๒  เดือนหรือ  ๒  นิ้ว.
+<span class="LineNumber"> 005 </span>๒.  อย่าพึงไว้หนวดไว้เครา  พึงโกนเสีย  เช่นเดียวกับผม.
+<span class="LineNumber"> 006 </span>๓.  อย่าพึงไว้เล็บยาว  พึงตัดเสียด้วยมีดเล็กพอเสมอเนื้อ  และอย่า
+<span class="LineNumber"> 007 </span>      พึงขัดเล็บให้เกลี้ยงเกลา.
+<span class="LineNumber"> 008 </span>๔.  อย่าพึงไว้ขนจมูกยาว [ออกนอกรูจมูก]  พึงถอนเสียด้วยแหนบ<SUP>๑</SUP>.
+<span class="LineNumber"> 009 </span>๕.  อย่าพึงให้นำเสียซึ่งขนในที่แคบ  คือในร่มผ้าและที่รักแร้  เว้น
+<span class="LineNumber"> 010 </span>     ไว้แต่อาพาธ.
+<span class="LineNumber"> 011 </span>๖.  อย่าพึงผัดหน้า  ไล้หน้า  ทาหน้า  ย้อมหน้า  เจิมหน้า  ย้อมตัว  เว้นไว้
+<span class="LineNumber"> 012 </span>     แต่อาพาธ.
+<span class="LineNumber"> 013 </span>๗.  อย่าพึงแต่งเครื่องประดับต่าง  ๆ  เป็นต้นว่า  ตุ้มหู  สายสร้อย
+<span class="LineNumber"> 014 </span>     สร้อยคอ  สร้อยเอว  เข็มขัด  บานพับ  [สำหรับรัดแขน]  กำไลมือ
+<span class="LineNumber"> 015 </span>     และแหวน.
+<span class="LineNumber"> 016 </span>๘.  อย่าพึงส่องดูเงาหน้า  ในกระจกหรือในวัตถุอื่น  อาพาธเป็นแผล
+<span class="LineNumber"> 017 </span>     ที่หน้า  ส่องทำกิจได้.
+<span class="LineNumber"> 018 </span>๙.  อย่าพึงเปลือยกายในที่ไม่บังควรและในเวลาไม่บังควร  [เปลือย
+
+<span class='footnote'>๑.  ถอนขนจมูกทำให้เสียสายตา  พึงตัดด้วยกรรไกรดีกว่า.</span>

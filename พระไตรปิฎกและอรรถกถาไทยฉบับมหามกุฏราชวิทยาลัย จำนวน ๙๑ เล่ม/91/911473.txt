@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๓๕๙]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ 
+<span class="LineNumber"> 003 </span><I>นเหตุทุกนภาวนายปหาตัพพเหตุกทุกเหตุทุกภาวนายปหาตัพพเหตุกทุกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                <H1>นเหตุทุกนสวิตักกทุกเหตุทุกสวิตักกทุกะ</H1>
+<span class="LineNumber"> 005 </span>               <H2>(๑. เหตุทุกะ  ๘๖.  สวิตักกทุกะ)</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 007 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>                                       <H2>สวิตักกบท</H2>
+<span class="LineNumber"> 010 </span>           [๑๓๖๐] ๑.  <B>สวิตักกธรรม  ที่เป็นเหตุธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 011 </span>สวิตักกธรรม  ที่ไม่ใช่เหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 013 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>           [๑๓๖๑]  ในเหตุปัจจัย  มี ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 015 </span>           ในทุกะทั้งปวงย่อไว้  ฯลฯ<SUP>๑</SUP>
+<span class="LineNumber"> 016 </span>                  <I>นเหตุทุกนสวิตักกทุกเหตุทุกสวิตักกทุกะ  จบ</I>
+<span class='footnote'>๑. คือ  ๘๗.  สวิจารทุกะ -๙๘. สอุตตรทุกะ   </span>

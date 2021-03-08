@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>					   <H1>อตีตติกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>			     <H2>(๑๘. อตีตติกะ  ๑. กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>					<H1>กุศลบทปัญหาวาระ</H1>
+<span class="LineNumber"> 004 </span>					   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				        <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 006 </span>		[๒๐๕]  ๑.  กุศลธรรมที่เป็นปัจจุปปันนธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 007 </span>กุศลธรรมที่เป็นปัจจุปปันนธรรม    ด้วยอำนาจของเหตุปัจจัย มี ๑  วาระ.
+<span class="LineNumber"> 008 </span>                                    	      ฯลฯ 
+<span class="LineNumber"> 009 </span>		ทุกปัจจัย  มี ๑  วาระ.
+
+<span class="LineNumber"> 010 </span>				   <H1>อกุศลบทปัญหาวาระ</H1>
+<span class="LineNumber"> 011 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>				    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>		[๒๐๖]  ๑.  อกุศลธรรมที่เป็นปัจจุปปันนธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 014 </span>อกุศลธรรมที่เป็นปัจจุปปันนธรรม   ด้วยอำนาจของเหตุปัจจัย  มี  ๑
+<span class="LineNumber"> 015 </span>วาระ.
+<span class="LineNumber"> 016 </span>		พึงให้พิสดารทุกวาระ.

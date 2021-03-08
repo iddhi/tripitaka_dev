@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>หีนติกสรณทุกะ</H1>
+<span class="LineNumber"> 002 </span>			<H2>(๑๔. หีนติกะ  ๑๐๐. สรณทุกะ)</H2>	
+<span class="LineNumber"> 003 </span>				   <H2>สรณบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>					   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>					  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๙๒๔]  ๑.  สรณธรรมที่เป็นหีนธรรม  อาศัยสรณธรรมที่เป็น 
+<span class="LineNumber"> 007 </span>หีนธรรม  เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>			<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>		[๙๒๕]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๑  วาระ.
+
+<span class="LineNumber"> 010 </span>				     <H1>อรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 011 </span>					<H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 012 </span>				      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>		[๙๒๖]  ๑.  อรณธรรมที่เป็นมัชฌิมธรรม  อาศัยอรณธรรม
+<span class="LineNumber"> 014 </span>ที่เป็นมัชฌิมธรรม   เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                        ๒.  อรณธรรมที่เป็นปณีตธรรม  อาศัยอรณธรรมที่เป็น
+<span class="LineNumber"> 016 </span>ปณีตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓ วาระ.

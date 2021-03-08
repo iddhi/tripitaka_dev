@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>วรรคที่  ๒๐</H1> 
+
+<span class="LineNumber"> 002 </span>                                     <H1>อสัญจิจจกถา</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๘๐๙]  <B>สกวาที</B>  บุคคลปลงชีวิตมารดาโดยมิได้แกล้ง   โดยไม่ได้
+<span class="LineNumber"> 004 </span>เจตนา เป็นผู้ชื่อว่า ทำอนันตริยกรรม หรือ ?
+<span class="LineNumber"> 005 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ส. บุคคลฆ่าสัตว์โดยมิได้แกล้ง เป็นผู้ชื่อว่า   ทำปาณาติบาต
+<span class="LineNumber"> 007 </span>หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 009 </span>                       ส. บุคคลปลงชีวิตมารดาโดยมิได้แกล้ง  เป็นผู้ชื่อว่า  ทำ
+<span class="LineNumber"> 010 </span>อนันตริยกรรม หรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ส. บุคคลถือเอาสิ่งของที่เจ้าของเขามิได้ให้  ฯลฯ   กล่าว
+<span class="LineNumber"> 013 </span>คำเท็จโดยมิได้แกล้ง  เป็นผู้ชื่อว่า  กล่าวมุสาวาท หรือ ?
+<span class="LineNumber"> 014 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 015 </span>         [๑๘๑๐]   ส. บุคคลฆ่าสัตว์โดยมิได้แกล้ง     ไม่เป็นผู้ชื่อว่า   ทำ
+<span class="LineNumber"> 016 </span>ปาณาติบาต หรือ ?
+<span class="LineNumber"> 017 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                       ส. บุคคลปลงชีวิตมารดาโดยมิได้แกล้ง     ไม่เป็นผู้ชื่อว่า
+<span class="LineNumber"> 019 </span>ทำอนันตริยกรรม หรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 021 </span>                       ส. บุคคลถือเอาสิ่งของที่เจ้าของเขามิได้ให้   ฯลฯ   กล่าว
+<span class="LineNumber"> 022 </span>คำเท็จโดยมิได้แกล้ง ไม่เป็นผู้ชื่อว่า  กล่าวมุสาวาท  หรือ ?

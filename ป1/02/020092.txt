@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                        อัพยยศัพท์    
+<span class="LineNumber"> 002 </span>	๙๑  ยังมีศัพท์อีกจำพวกหนึ่ง   จะแจกด้วยวิภัตติทั้ง ๗  แปลงรูป
+<span class="LineNumber"> 003 </span>ไปต่าง ๆ  เหมือนนามทั้ง ๓  ไม่ได้   คงรูปอยู่เป็นอย่างเดียว  ศัพท์
+<span class="LineNumber"> 004 </span>เหล่านี้เรียกว่า  อัพยยศัพท์ ๆ  นี้  เป็นอุปสัคบ้าง  นิบาตบ้าง  ปัจจัย
+<span class="LineNumber"> 005 </span>บ้าง.  อุปสัคนั้น  สำหรับใช้นำหน้านามและกิริยา  ให้วิเศษขึ้น  เมื่อ
+<span class="LineNumber"> 006 </span>นำหน้านาม  มีอาการคล้ายคุณศัพท์   เมื่อนำหน้ากิริยา   มีอาการ
+<span class="LineNumber"> 007 </span>คล้ายกิริยาวิเสสนะ.
+
+<span class="LineNumber"> 008 </span>                                        อุปสัค
+<span class="LineNumber"> 009 </span>อติ			ยิ่ง		เกิน			ล่วง
+<span class="LineNumber"> 010 </span>อธิ			ยิ่ง		ใหญ่			ทับ
+<span class="LineNumber"> 011 </span>อนุ			น้อย		ภายหลัง		ตาม
+<span class="LineNumber"> 012 </span>อป			ปราศ	หลีก
+<span class="LineNumber"> 013 </span>อปิ  หรือ  ปิ	ใกล้		บน
+<span class="LineNumber"> 014 </span>อภิ			ยิ่ง		ใหญ่   		จำเพาะ   	ข้างหน้า
+<span class="LineNumber"> 015 </span>อว  หรือ  โอ	ลง
+<span class="LineNumber"> 016 </span>อา			ทั่ว		ยิ่ง			กลับความ
+<span class="LineNumber"> 017 </span>อุ			ขึ้น		นอก

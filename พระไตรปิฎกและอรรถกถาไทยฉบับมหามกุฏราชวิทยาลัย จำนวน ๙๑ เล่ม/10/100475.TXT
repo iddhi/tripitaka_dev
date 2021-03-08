@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>สวน  ๑  ไม่ถาม ๒ อย่าง ๑ ไม่ตอบ ๒  อย่าง  
+<span class="LineNumber"> 002 </span>                   ๑    แม้ซักถามก็ไม่พึงให้  ๑     สนทนา  ๑
+<span class="LineNumber"> 003 </span>                   อุปสมบท ๑ นิสัย  ๑  ให้สามเณรอุปัฏฐาก
+<span class="LineNumber"> 004 </span>                   อุโบสถ ๓ หมวด ๓ อย่าง ๑     ปวารณา ๓
+<span class="LineNumber"> 005 </span>                   หมวด ๔  อย่าง  ๑  เกิดในอุบาย   ๑  อกุศล ๑
+<span class="LineNumber"> 006 </span>                   กุศล  ๑  ทุจริต ๑  สุจริต ๑   โภชนะ ๓ อย่าง
+<span class="LineNumber"> 007 </span>                   ๑   อสัทธรรม  ๑    สมมติ  ๑       เขียงรองเท้า ๑
+<span class="LineNumber"> 008 </span>                   สิ่งของถูเท้า ๑    หัวข้อตามที่กล่าวนี้รวมอยู่
+<span class="LineNumber"> 009 </span>                   ในหมวด ๓.</B>
+<span class="LineNumber"> 010 </span>                                   <I>หัวข้อประจำหมวด  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                               <H1>หมวด  ๔</H1>    
+<span class="LineNumber"> 012 </span>                          <H1>ว่าด้วยต้องและออกจากอาบัติเป็นต้น</H1> 
+<span class="LineNumber"> 013 </span>           [๙๖๕]  มีอยู่  อาบัติ  ภิกษุต้องด้วยวาจาของตน  ออกด้วยวาจาของผู้อื่น  
+<span class="LineNumber"> 014 </span>           มีอยู่   อาบัติ   ภิกษุต้องด้วยวาจาของผู้อื่น   ออกด้วยวาจาของตน
+<span class="LineNumber"> 015 </span>           มีอยู่   อาบัติ   ภิกษุต้องด้วยวาจาของตน  ออกด้วยวาจาของตน
+<span class="LineNumber"> 016 </span>           มีอยู่   อาบัติ   ภิกษุต้องด้วยวาจาของผู้อื่น   ออกด้วยวาจาของผู้อื่น
+<span class="LineNumber"> 017 </span>           มีอยู่   อาบัติ   ภิกษุต้องด้วยกาย  ออกด้วยวาจา
+<span class="LineNumber"> 018 </span>           มีอยู่   อาบัติ   ภิกษุต้องด้วยวาจา   ออกด้วยกาย
+<span class="LineNumber"> 019 </span>           มีอยู่   อาบัติ   ภิกษุต้องด้วยกาย   ออกด้วยกาย

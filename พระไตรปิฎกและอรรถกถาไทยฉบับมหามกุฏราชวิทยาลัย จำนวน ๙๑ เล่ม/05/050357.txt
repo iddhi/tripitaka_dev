@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           บทว่า  <B>ด่าก็ดี</B>  คือ   ด่าด้วยวัตถุสำหรับด่าทั้ง  ๑๐  อย่าง    หรือด้วย
+<span class="LineNumber"> 002 </span>อย่างใดอย่างหนึ่งในทั้ง ๑๐ นั้น    ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 003 </span>           บทว่า  <B>กล่าวขู่ก็ดี</B>   คือ  แสดงเรื่องหรืออาการที่น่ากลัว    ต้องอาบัติ
+<span class="LineNumber"> 004 </span>ปาจิตตีย์.
+
+<span class="LineNumber"> 005 </span>                                              <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 006 </span>                                            <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 007 </span>           [๓๓๖]  อุปสัมบัน     ภิกษุณีสำคัญว่าอุปสัมบัน   ด่าก็ดี    กล่าวขู่ก็ดี
+<span class="LineNumber"> 008 </span>ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 009 </span>           อุปสัมบัน  ภิกษุณีสงสัย  ด่าก็ดี  กล่าวขู่ก็ดี   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 010 </span>            อุปสัมบัน  ภิกษุณีสำคัญว่าอนุสัมบัน   ด่าก็ดี  กล่าวขู่ก็ดี   ต้องอาบัติ
+<span class="LineNumber"> 011 </span>ปาจิตตีย์.
+
+<span class="LineNumber"> 012 </span>                                             <H2>จตุกะทุกกฏ</H2>   
+<span class="LineNumber"> 013 </span>           ด่าก็ดี   กล่าวขู่ก็ดี   ซึ่งอนุปสัมบัน  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 014 </span>           อนุปสัมบัน  ภิกษุณีสำคัญว่าอุปสัมบัน   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 015 </span>           อนุปสัมบัน   ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 016 </span>            อนุปสัมบัน   ภิกษุณีสำคัญว่าอนุปสัมบัน  ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 017 </span>                                              <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 018 </span>           [๓๓๗]  มุ่งอรรถ ๑ มุ่งธรรม  ๑  มุ่งสั่งสอน ๑ วิกลจริต  ๑ อาทิกัมมิกา
+<span class="LineNumber"> 019 </span> ๑ ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 020 </span>                                  <I>อารามวรรค  สิกขาบทที่  ๒  จบ</I>

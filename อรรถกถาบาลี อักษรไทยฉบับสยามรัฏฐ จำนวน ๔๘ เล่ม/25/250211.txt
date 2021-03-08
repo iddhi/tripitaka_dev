@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  จตุตฺถวคฺเค สามฺกานิตฺเถรคาถาวณฺณนา หน้า 211
+
+<span class="LineNumber"> 002 </span>คเหตฺวา  ฌานํ นิพฺพตฺเตตฺวา  ฌานํ  ปาทกํ  กตฺวา  วิปสฺสนํ 
+<span class="LineNumber"> 003 </span>วฑฺเฒตฺวา  อรหตฺตํ  ปาปุณิ ฯ  เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 004 </span>		วิปสฺสิโน ภควโต		โลกเชฏฺ€สฺส ตาทิโน  
+<span class="LineNumber"> 005 </span>		เอก  มฺจํ(๒) มยา ทินฺโน ปสนฺเนน สปาณินา ฯ  
+<span class="LineNumber"> 006 </span>		หตฺถิยานํ อสฺสยานํ	ทิพฺพยานํ สมชฺฌคํ (๓)  
+<span class="LineNumber"> 007 </span>		เตน มฺจก(๔)ทาเนน 	ปตฺโตมฺหิ อาสวกฺขยํ ฯ  
+<span class="LineNumber"> 008 </span>		เอกนวุเต อิโต กปฺเป	ยํ มฺจมททึ ตทา  
+<span class="LineNumber"> 009 </span>		ทุคฺคตึ นาภิชานามิ	มฺจทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 010 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 011 </span>	เถรสฺส  ปน  คิหิสหายโก  กาติยาโน   นาม  ปริพฺพาชโก 
+<span class="LineNumber"> 012 </span>พุทฺธุปฺปาทโต  ปฏฺ€าย  ติตฺถิยานํ  หตลาภสกฺการตาย  
+<span class="LineNumber"> 013 </span>ฆาสจฺฉาทนมตฺตมฺปิ  อลภนฺโต  อาชีวกาปกโต(๕)  เถรํ  อุปสงฺกมิตฺวา
+<span class="LineNumber"> 014 </span>ตุเมฺห  สากิยปุตฺติยา  นาม  มหาลาภคฺคยสคฺคปฺปตฺตา  สุเขน 
+<span class="LineNumber"> 015 </span>ชีวถ  มยํ  ปน  ทุกฺขิตา กิจฺฉชีวิกา กถํ นุ โข ปฏิปชฺชมานสฺส 
+<span class="LineNumber"> 016 </span>ทิฏฺ€ธมฺมิกฺเจว สมฺปรายิกฺจ  สุขํ  สมฺปชฺชตีติ  ปุจฺฉิ ฯ  
+<span class="LineNumber"> 017 </span>	อถสฺส  เถโร  นิปฺปริยายโต สุขํ นาม โลกุตฺตรสุขเมว 
+<span class="LineNumber"> 018 </span>ตฺจ  ตทนุรูปํ  ปฏิปตฺตึ  ปฏิปชฺชนฺตสฺเสวาติ  อตฺตนา  ตสฺส 
+<span class="LineNumber"> 019 </span>อธิคตภาวํ ปริยาเยน วิภาเวนฺโต  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๓/๑๑๒/๑๖๔ ฯ ๒. สฺยา. เวจฺจํ ฯ ยุ. เอกเปจฺฉํ ฯ
+<span class="LineNumber"> 021 </span># ๓. สี. รถยานํ ลภามหํ ฯ  ๔. สฺยา. เวจฺจกทาเนน ฯ 
+<span class="LineNumber"> 022 </span># สี. มฺจสฺส ฯ  ๕. อาชีวาปกโต ฯ 

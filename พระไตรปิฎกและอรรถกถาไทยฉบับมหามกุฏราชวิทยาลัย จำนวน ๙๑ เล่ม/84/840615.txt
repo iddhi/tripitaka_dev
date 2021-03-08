@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า      มนินทรีย์ไม่ใช่จักเกิดแก่บุคคลใด,      ปุริสินทรีย์
+<span class="LineNumber"> 002 </span>ก็ไม่ใช่จักเกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>  <I>จบ  ปุริสินทริยมูละ  สัทธินทริย  ฯลฯ  ปัญญินทริย   มนินทริยมูลี</I>
+<span class="LineNumber"> 005 </span>                                    <I>ปุริสินทริยมูล  จบ</I> 

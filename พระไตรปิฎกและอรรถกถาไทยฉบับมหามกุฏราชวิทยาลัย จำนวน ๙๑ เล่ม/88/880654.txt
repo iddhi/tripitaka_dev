@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ถีนมิทธนิวรณ์   อุทธัจจนิวรณ์   อวิชชานิวรณ์    และสัมปยุตตขันธ์ 
+<span class="LineNumber"> 002 </span>ทั้งหลาย   อาศัยกามฉันทนิวรณ์   และหทยวัตถุ.
+<span class="LineNumber"> 003 </span>           พึงผูกจักรนัย.
+<span class="LineNumber"> 004 </span>                                                 ฯลฯ
+
+<span class="LineNumber"> 005 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>           [๕๘๕]   ในเหตุปัจจัย  มี ๙ วาระ    ในอารัมมณปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 007 </span>ในปัจจัยทั้งปวง มี ๙ วาระ  ในวิปากปัจจัย  มี ๑ วาระ ฯลฯ  ในอวิคตปัจจัย
+<span class="LineNumber"> 008 </span>มี ๙ วาระ.
+
+<span class="LineNumber"> 009 </span>                                            <H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 010 </span>                                          <H2>๑. นเหตุปัจจัย</H2>                             
+<span class="LineNumber"> 011 </span>           [๕๘๖] ๑.  <B>นีวรณธรรม  อาศัยนีวรณธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 012 </span>นเหตุปัจจัย</B>                                                  
+<span class="LineNumber"> 013 </span>           คือ  อวิชชานิวรณ์  อาศัยวิจิกิจฉานิวรณ์.
+<span class="LineNumber"> 014 </span>           อวิชชานิวรณ์  อาศัยอุทธัจจนิวรณ์.
+<span class="LineNumber"> 015 </span>                       ๒.  <B>ธรรมที่ไม่ใช่นีวรณธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 016 </span>นีวรณธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป อาศัยขันธ์  ๑  ที่ไม่ใช่นีวรณธรรม
+<span class="LineNumber"> 018 </span>ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒ ฯลฯ

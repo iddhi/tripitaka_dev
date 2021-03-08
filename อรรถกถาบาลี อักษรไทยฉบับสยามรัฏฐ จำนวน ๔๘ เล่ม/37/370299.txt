@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 299
+
+<span class="LineNumber"> 002 </span>		ภยา ปนุนฺนาปิ ภวนฺติ ทาสา  
+<span class="LineNumber"> 003 </span>		เอเต นรานํ จตุโรปิ (๑)ทาสา  
+<span class="LineNumber"> 004 </span>		อทฺธา หิ โยนิโต อหํปิ ทาโส(๒)  
+<span class="LineNumber"> 005 </span>		ภโว จ รฺโ อภโว จ รฺโ  
+<span class="LineNumber"> 006 </span>		ทาโสหํ เทวสฺส ปรํปิ คนฺตฺวา  
+<span class="LineNumber"> 007 </span>		ธมฺเมน มํ มาณว ตุยฺหํ ทชฺชาติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  อามายทาสาติ  ทาสสฺส(๓)  ทาสิยา  กุจฺฉิมฺหิ  
+<span class="LineNumber"> 009 </span>ชาตทาสา ฯ  สยํปิ  เหเก  อุปยนฺติ  ทาสาติ  เย  เกจิ 
+<span class="LineNumber"> 010 </span>อุปฏฺ€ากชาติกา  สพฺเพ  เต  สยํ  ทาสภาวํ  อุปคตา  ทาสา  
+<span class="LineNumber"> 011 </span>นาม ฯ  ภยา  ปนุนฺนาติ  ราชภเยน  วา  โจรภเยน  วา  อตฺตโน
+<span class="LineNumber"> 012 </span>วสนฏฺ€านโต  ปนุนฺนา  กรมรา  หุตฺวา  ปรวิสยํ  คตาปิ  
+<span class="LineNumber"> 013 </span>ทาสาเยว  นาม ฯ  อทฺธา  หิ  โยนิโต อหํปิ ทาโสติ  มาณว
+<span class="LineNumber"> 014 </span>เอกํเสเนว  อหํปิ  จตูสุ  ทาสโยนีสุ  เอกโต  สยํ  ทาสโยนิโต  
+<span class="LineNumber"> 015 </span>นิพฺพตฺตทาโส ฯ  ภโว  จ  รฺโ  อภโว  จาติ  รฺโ  
+<span class="LineNumber"> 016 </span>วุฑฺฒิ  วา  อวุฑฺฒิ  วา  โหตุ  น  สกฺกา  มยา  มุสาวาทํ(๔)  
+<span class="LineNumber"> 017 </span>ภาสิตุํ ฯ  ปรํปีติ (๕) ทูรํ  คนฺตฺวาปิ  อหํ  เทวสฺส  ทาโสเยว ฯ 
+<span class="LineNumber"> 018 </span>ทชฺชาติ มํ ราชา ชยธเนน  ฉฑฺเฑตฺวา(๖)ตุยฺหํ เทนฺโต ธมฺเมน 
+<span class="LineNumber"> 019 </span>สภาเวเนว ทเทยฺย(๗) ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปิสทฺโท นตฺถิ ฯ  ๒. ม. อหมฺปิ ชาโต ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. อยํ ปาโ€ นตฺถิ ฯ  ๔. ม. มุสา ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. ปรมฺปีติ ฯ  ๖. ม. ขณฺเฑตฺวา ฯ  ๗. ม. สภาเวน 
+<span class="LineNumber"> 023 </span># ทเทยฺยาติ  ฯ

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32     หน้า 128
+		
+<span class="LineNumber"> 002 </span>			มณิชาตกํ  
+<span class="LineNumber"> 003 </span>	จิรสฺสํ  วต  ปสฺสามีติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต
+<span class="LineNumber"> 004 </span>โลลภิกฺขุํ  อารพฺภ กเถสิ ฯ ปจฺจุปฺปนฺนวตฺถุํ เหฏฺ€า 
+<span class="LineNumber"> 005 </span>วุตฺตนยเมว ฯ อตีตํ อาหริ  
+<span class="LineNumber"> 006 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 007 </span>ปาราวโต  หุตฺวา  พาราณสีเสฏฺ€ิสฺส  มหานเส  นิลียปจฺฉิยํ  
+<span class="LineNumber"> 008 </span>วสติ  ฯ  กาโกปิ  เตน  สทฺธึ  วิสฺสาสํ  กตฺวา ตตฺเถว วสีติ 
+<span class="LineNumber"> 009 </span>สพฺพํ วิตฺถาเรตพฺพํ ฯ  ภตฺตการโก  กากสฺส  ปตฺตานิ  ลุฺจิตฺวา
+<span class="LineNumber"> 010 </span>ปิฏฺเ€น  ตํ  มกฺขิตฺวา  เอกํ  ขารขณฺฑํ  วิชฺฌิตฺวา  กณฺเ€  มาลํ 
+<span class="LineNumber"> 011 </span>ปิลนฺธิตฺวา  ปจฺฉิยํ  ปกฺขิปิ  ฯ  โพธิสตฺโต  อรฺโต  อาคนฺตฺวา 
+<span class="LineNumber"> 012 </span>ตํ  ทิสฺวา  ปริหาสํ  กโรนฺโต  ป€มํ คาถมาห  
+<span class="LineNumber"> 013 </span>	[๙๖๓]จริสฺสํ วต ปสฺสามิ  		สหายํ มณิธารินํ  
+<span class="LineNumber"> 014 </span>		สุกตาย(๑) มสฺสุกุตฺติยา  	โสภเต วต เม สขาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ มสฺสุกุตฺติยาติ อิมาย มสฺสุกิริยาย ฯ  
+<span class="LineNumber"> 016 </span>	ตํ สุตฺวา กาโก ทุติยํ คาถมาห  
+<span class="LineNumber"> 017 </span>	[๙๖๔]ปรูฬฺหกจฺฉนขโลโม  	อหํ กมฺเม สุพฺยาวโฏ  
+<span class="LineNumber"> 018 </span>		จิรสฺสํ นหาปิตํ ลทฺธา  	โลมํ อนฺตมหารยีติ(๒) ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  กมฺเม  สุพฺยาวโฏติ  อหํ  สมฺม  ราชกมฺเม  
+<span class="LineNumber"> 020 </span>สุพฺยาวโฏ  โอกาสํ  อลภนฺโต  ปรูฬฺหกจฺฉนขโลโม  อโหสินฺติ
+<span class="LineNumber"> 021 </span>วทติ  ฯ  อหารยีติ  อชฺช อหาเรสิ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ส. ม. สุกตา ฯ  ๒. ส.  โลมนฺตมชฺชหารยีติ ฯ 
+<span class="LineNumber"> 023 </span># ม. โลมํ ตํ อชฺช หารยีติ ฯ 

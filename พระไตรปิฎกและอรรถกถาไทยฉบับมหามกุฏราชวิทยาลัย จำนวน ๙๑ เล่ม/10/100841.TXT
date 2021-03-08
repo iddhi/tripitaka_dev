@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.  ไม่ถึงฉันทาคติ   
+<span class="LineNumber"> 002 </span>           ๒.  ไม่ถึงโทสาคติ                                                    
+<span class="LineNumber"> 003 </span>           ๓.  ไม่ถึงโมหาคติ
+<span class="LineNumber"> 004 </span>           ๔.  ไม่ถึงภยาคติ
+<span class="LineNumber"> 005 </span>           ๕.  เป็นผู้หนักในสัทธรรม  ไม่หนักในอามิส
+<span class="LineNumber"> 006 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  นี้แล   ควรระงับอธิกรณ์ 
+
+<span class="LineNumber"> 007 </span>                                         <H1>สงฆ์แตกกัน </H1>
+<span class="LineNumber"> 008 </span>           [๑,๒๑๒]   อุ.   สงฆ์แตกกันด้วยอาการเท่าไรหนอแล  พระพุทธเจ้าข้า
+<span class="LineNumber"> 009 </span>           พ.   ดูก่อนอุบาลี   สงฆ์แตกกันด้วยอาการ  ๕    อาการ ๕    อะไรบ้าง
+<span class="LineNumber"> 010 </span>คือ   กรรม     อุเทศ ๑   ชี้แจง ๑   สวดประกาศ ๑    ให้จับสลาก ๑    ดูก่อน
+<span class="LineNumber"> 011 </span>อุบาลี   สงฆ์แตกกันด้วยอาการ ๕  นี้แล.
+
+<span class="LineNumber"> 012 </span>                                    <H1>สังฆราชีและสังฆเภท</H1> 
+<span class="LineNumber"> 013 </span>           [๑,๒๑๓]   อุ.   พระพุทธเจ้าข้า   ที่ตรัสว่า  ความร้าวรานแห่งสงฆ์นั้น
+<span class="LineNumber"> 014 </span>ด้วยเหตุเพียงเท่าไร     จึงเป็นความร้าวรานแห่งสงฆ์     แต่ไม่ถึงความแตกแห่ง
+<span class="LineNumber"> 015 </span>สงฆ์    อนึ่ง   ด้วยเหตุเพียงเท่าไร    จึงเป็นความร้าวรานแห่งสงฆ์ทั้งความแตก
+<span class="LineNumber"> 016 </span>แห่งสงฆ์
+<span class="LineNumber"> 017 </span>           พ.  ดูก่อนอุบาลี  อาคันตุกวัตรนั่น  เราบัญญัติไว้แล้ว   สำหรับภิกษุ
+<span class="LineNumber"> 018 </span>พวกอาคันตุกะ  เมื่อสิกขาบทอันเราบัญญัติไว้เรียบร้อยอย่างนี้แล้ว   ภิกษุพวก
+<span class="LineNumber"> 019 </span>อาคันตุกะไม่ประพฤติในอาคันตุกวัตร

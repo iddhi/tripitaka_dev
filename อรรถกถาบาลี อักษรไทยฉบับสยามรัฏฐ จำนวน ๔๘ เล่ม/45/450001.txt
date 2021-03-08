@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>					*เล่มที่  45  หน้า  1
+<span class="LineNumber"> 002 </span>			ปรมตฺถทีปนี นาม ขุทฺทกนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>					จริยาปิฏกฏฺ€กถา  
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>					คนฺถารมฺภกถา  
+<span class="LineNumber"> 006 </span>		จริยา สพฺพโลกสฺส	หิตา ยสฺส มเหสิโน  
+<span class="LineNumber"> 007 </span>		อจินฺเตยฺยานุภาวํ ตํ		วนฺเท โลกคฺคนายกํ ฯ  
+<span class="LineNumber"> 008 </span>		วิชฺชาจรณสมฺปนฺนา	เยน นียนฺติ โลกโต  
+<span class="LineNumber"> 009 </span>		วนฺเท ตมุตฺตมํ ธมฺมํ	สมฺมาสมฺพุทฺธปูชิตํ ฯ  
+<span class="LineNumber"> 010 </span>		สีลาทิคุณสมฺปนฺโน	€ิโต มคฺคผเลสุ โย  
+<span class="LineNumber"> 011 </span>		วนฺเท อริยสํฆํ ตํ		ปุฺกฺเขตฺตํ อนุตฺตรํ ฯ  
+<span class="LineNumber"> 012 </span>		วนฺทนาชนิตํ ปุฺํ	อิติ ยํ รตนตฺตเย  
+<span class="LineNumber"> 013 </span>		หตนฺตราโย สพฺพตฺถ	หุตฺวาหํ ตสฺส เตชสา ฯ  
+<span class="LineNumber"> 014 </span>		อิมสฺมึ ภทฺทกปฺปสฺมึ	สมฺภตา ยา สุทุกฺกรา  
+<span class="LineNumber"> 015 </span>		อุกฺกํสปารมิปฺปตฺตา	ทานปารมิตาทโย ฯ  
+<span class="LineNumber"> 016 </span>		ตาสํ สมฺโพธิจริยานํ	อานุภาววิภาวนํ  
+<span class="LineNumber"> 017 </span>		สกฺเกสุ นิโคฺรธาราเม	วสนฺเตน มเหสินา ฯ  
+<span class="LineNumber"> 018 </span>		ยํ ธมฺมเสนาปติโน		สพฺพสาวกเกตุโน  
+<span class="LineNumber"> 019 </span>		โลกนาเถน จริยา-		ปิฏกํ นาม เทสิตํ ฯ  
+<span class="LineNumber"> 020 </span>		ยํ ขุทฺทกนิกายสฺมึ		สงฺคายึสุ มเหสโย  
+<span class="LineNumber"> 021 </span>		ธมฺมสงฺคาหกา สตฺถุ	เหตุสมฺปตฺติทีปนํ ฯ  

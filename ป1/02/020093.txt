@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>อุป		เข้าไป		ใกล้		มั่น    
+<span class="LineNumber"> 002 </span>ทุ		ชั่ว			ยาก
+<span class="LineNumber"> 003 </span>นิ		เข้า			ลง
+<span class="LineNumber"> 004 </span>นิ		ไม่มี			ออก
+<span class="LineNumber"> 005 </span>ป		ทั่ว			ข้างหน้า	ก่อน		ออก
+<span class="LineNumber"> 006 </span>ปฏิ		เฉพาะ		ตอบ		ทวน		กลับ
+<span class="LineNumber"> 007 </span>ปรา		กลับความ
+<span class="LineNumber"> 008 </span>ปริ		รอบ
+<span class="LineNumber"> 009 </span>วิ		วิเศษ		แจ้ง		ต่าง
+<span class="LineNumber"> 010 </span>สํ		พร้อม		กับ  		ดี
+<span class="LineNumber"> 011 </span>สุ		ดี			งาม  	ง่าย.
+
+<span class="LineNumber"> 012 </span>                                           อุทาหรณ์
+<span class="LineNumber"> 013 </span>                                               อติ
+<span class="LineNumber"> 014 </span>อติสุนฺทโร  ดี    ยิ่ง		อติกฺกมติ  ย่อมก้าวล่วง.
+<span class="LineNumber"> 015 </span>                        เกิน
+<span class="LineNumber"> 016 </span>                                                อธิ
+<span class="LineNumber"> 017 </span>อธิสกฺกาโร  สักการะยิ่ง  อธิปติ  นายใหญ่  อธิเสติ  นอนทับ.
+			

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>ต้องอาบัติทางวาจาในราตรีเป็นต้น</H2>  
+<span class="LineNumber"> 002 </span>                             [๑,๒๔๖]  <B>ถามว่า  อาบัติทางวาจาใน
+<span class="LineNumber"> 003 </span>                   กลางคืนมีเท่าไร  อาบัติทางวาจาในกลางวัน
+<span class="LineNumber"> 004 </span>                   มีเท่าไร  เมื่อไห้  ต้องอาบัติเท่าไร   เมื่อรับ
+<span class="LineNumber"> 005 </span>                   ต้องอาบัติเท่าไร
+<span class="LineNumber"> 006 </span>                             ตอบว่า   อาบัติทางวาจาในกลางคืน
+<span class="LineNumber"> 007 </span>                   มี ๒ อาบัติทางวาจาในกลางวันมี  ๒  เมื่อให้
+<span class="LineNumber"> 008 </span>                   ต้องอาบัติ  ๓  เพราะรับ  ต้องอาบัติ  ๔.</B>
+
+<span class="LineNumber"> 009 </span>                 <H2>ต้องอาบัติเป็นเทสนาคามินีเป็นต้น</H2>
+<span class="LineNumber"> 010 </span>                             [๑,๒๔๗]  <B>ถามว่า อาบัติเป็นเทสนา-
+<span class="LineNumber"> 011 </span>                   คามินี   มีเท่าไร   อาบัติที่ทำคืนได้  จัดไว้
+<span class="LineNumber"> 012 </span>                   เท่าไร     อาบัติที่ทำคืนไม่ได้ในศาสนานี้
+<span class="LineNumber"> 013 </span>                   พระพุทธเจ้าเป็นเผ่าแห่งพระราชาผู้สูงศักดิ์
+<span class="LineNumber"> 014 </span>                   ตรัสไว้เท่าไร
+<span class="LineNumber"> 015 </span>                             ตอบว่า  อาบัติเป็นเทสนาคามินีมี  ๕
+<span class="LineNumber"> 016 </span>                   อาบัติที่ทำคืนได้จัดไว้  ๖ อาบัติที่ทำคืนไม่ได้
+<span class="LineNumber"> 017 </span>                   ในศาสนานี้   พระพุทธเจ้าเป็นเผ่าแห่งพระ- 
+<span class="LineNumber"> 018 </span>                   ราชาผู้สูงศักดิ์ตรัสไว้อย่างเดียว.</B>

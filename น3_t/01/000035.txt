@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>				   ส่วนสังสารวัฏ
+			
+<span class="LineNumber"> 002 </span>				โดยบุคคลาธิษฐาน
+<span class="LineNumber"> 003 </span>					   คติ
+<span class="LineNumber"> 004 </span>					อุทเทส
+<span class="LineNumber"> 005 </span><B>	๑.  จิตฺเต   สงฺกิลิฏฺเ€        ทุคฺคติ    ปาฏิกงฺขา.</B>
+<span class="LineNumber"> 006 </span>	เมื่อจิตเศร้าหมองแล้ว   ทุคติเป็นอันต้องหวัง.
+<span class="LineNumber"> 007 </span>	<B>๒. จิตฺเต   อสงฺกิลิฏฺเ€      สุคติ   ปาฏิกงฺขา.</B>
+<span class="LineNumber"> 008 </span>	เมื่อจิตไม่เศร้าหมองแล้ว  สุคติเป็นอันหวังได้.
+<span class="LineNumber"> 009 </span>				ใจความที่ท่านพรรณนา
+<span class="LineNumber"> 010 </span>					คติ ๒ ประการ
+<span class="LineNumber"> 011 </span>	ใน ๒ อุทเทสข้างต้น     ได้คติคือภูมิเป็นที่ไปถึงเบื้องหน้าแต่
+<span class="LineNumber"> 012 </span>มรณะเป็น ๒  คือ :-
+<span class="LineNumber"> 013 </span>	๑.  ทุคติ   ภูมิเป็นที่ไปข้างชั่ว.
+<span class="LineNumber"> 014 </span>	๒. สุคติ   ภูมิเป็นที่ไปข้างดี.
+<span class="LineNumber"> 015 </span>					ทุคติ  ๒ ประการ
+<span class="LineNumber"> 016 </span>	ทุคติในบางสูตรเป็น ๒ คือ :-
+<span class="LineNumber"> 017 </span>	๑.  นิรยะ   โลกหาความเจริญมิได้.
+<span class="LineNumber"> 018 </span>	๒.  ติรัจฉานโยนิ   กำเนิดแห่งดิรัจฉาน.

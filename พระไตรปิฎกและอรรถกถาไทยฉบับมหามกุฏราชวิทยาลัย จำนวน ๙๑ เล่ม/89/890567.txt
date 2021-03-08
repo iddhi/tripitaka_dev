@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>อารัมมณปัจจัย</B>,   เป็นปัจจัย  <B>ด้วยอำนาจของสหชาตปัจจัย</B>,   เป็นปัจจัย
+<span class="LineNumber"> 002 </span><B>ด้วยอำนาจของอุปนิสสยปัจจัย</B>.
+
+<span class="LineNumber"> 003 </span>                              <H2>การนับจํานวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 004 </span>         [๕๐๗]  ในนเหตุปัจจัย  มี ๙ วาระ   ในนอารัมมณปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 005 </span>ในนอธิปติปัจจัย  มี ๙ วาระ  ในปัจจัยทั้งปวง มี ๙ วาระ   ในโนอวิคตปัจจัย
+<span class="LineNumber"> 006 </span>มี ๙ วาระ.
+
+<span class="LineNumber"> 007 </span>                                        <H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 008 </span>                        <H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 009 </span>         [๕๐๘]  <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย มี ๔ วาระ....   ใน
+<span class="LineNumber"> 010 </span>นอธิปติปัจจัย มี ๔ วาระ    ในนอนันตรปัจจัย   มี ๔ วาระ    ในนสมนันตร-
+<span class="LineNumber"> 011 </span>ปัจจัย มี ๔ วาระ   ในนอัญญมัญญปัจจัย มี ๒ วาระ   ในนอุปนิสสยปัจจัย มี
+<span class="LineNumber"> 012 </span>๔ วาระ    ในปัจจัยทั้งปวง มี ๔ วาระ    ในนสัมปยุตตปัจจัย มี ๒ วาระ  ใน
+<span class="LineNumber"> 013 </span>นวิปปยุตตปัจจัย มี ๔ วาระ   ในโนนัตถิปัจจัย มี ๔ วาระ   ในโนวิคตปัจจัย
+<span class="LineNumber"> 014 </span>มี ๔ วาระ.
+
+<span class="LineNumber"> 015 </span>                                        <H2>ปัจจนียานุโลมนัย</H2>
+<span class="LineNumber"> 016 </span>                          <H2>การนับจำนวนวาระในปัจจนียานุโลม</H2>
+<span class="LineNumber"> 017 </span>         [๕๐๙]  <B>เพราะนเหตุปัจจัย</B>    ในอารัมมณปัจจัย  มี ๙ วาระ....   ใน
+<span class="LineNumber"> 018 </span>อธิปติปัจจัย  มี  ๙  วาระ    พึงกระทำอนุโลมมาติกา  ในอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 019 </span>                                         <I>กิเลสทุกะ  จบ</I>

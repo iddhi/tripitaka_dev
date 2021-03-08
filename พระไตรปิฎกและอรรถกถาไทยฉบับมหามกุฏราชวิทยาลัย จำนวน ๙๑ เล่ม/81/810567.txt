@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>เอกมัคคกถา</H2> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๔๗]   <B>สกวาที</B>    สามัญญผล  ๔  ทำให้แจ้งได้ด้วยอริยมรรคอัน
+<span class="LineNumber"> 003 </span>เดียว  หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. เป็นความประชุมแห่งผัสสะ  ๔  ฯลฯ  แห่งปัญญา  ๔
+<span class="LineNumber"> 006 </span>หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 008 </span>                        ส. สามัญญผล   ๔   ทำให้แจ้งได้ด้วยอริยมรรคอันเดียว
+<span class="LineNumber"> 009 </span>หรือ ?
+<span class="LineNumber"> 010 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 011 </span>                        ส. ด้วยโสดาปัตติมรรค หรือ ?
+<span class="LineNumber"> 012 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 013 </span>                        ส. ด้วยสกทาคามิมรรค ฯลฯ  ด้วยอนาคามิมรรค หรือ ?
+<span class="LineNumber"> 014 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 015 </span>                        ส. ด้วยมรรคไหน?
+<span class="LineNumber"> 016 </span>                        ป. ด้วยอรหัตมรรค.
+<span class="LineNumber"> 017 </span>                        ส. ละสักกายทิฏฐิ  วิจิกิจฉา  สีลัพพตปรามาส  ได้ด้วย
+<span class="LineNumber"> 018 </span>อรหัตมรรค หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 020 </span>                        ส. ละสักกายทิฏฐิ    วิจิกิจฉา   สีลัพพตปรามาสได้ด้วย
+<span class="LineNumber"> 021 </span>อรหัตมรรค  หรือ ?
+<span class="LineNumber"> 022 </span>                        ป.  ถูกแล้ว.

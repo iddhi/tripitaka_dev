@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                   <h1>๒.  รถสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๐๐]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 003 </span>                             <B>อะไรหนอเป็นสง่าของรถ  อะไร
+<span class="LineNumber"> 004 </span>                   หนอเป็นเครื่องปรากฏของไฟ  อะไรหนอ
+<span class="LineNumber"> 005 </span>                   เป็นสง่าของแว่นแคว้น      อะไรหนอเป็น
+<span class="LineNumber"> 006 </span>                   สง่าของสตรี.</B>
+<span class="LineNumber"> 007 </span>         [๒๐๑]   พระผู้มีพระภาคเจ้าตรัสตอบว่า                                
+<span class="LineNumber"> 008 </span>                             <B>ธงเป็นสง่าของรถ    ควันเป็นเครื่อง
+<span class="LineNumber"> 009 </span>                   ปรากฏของไฟ      พระราชาเป็นสง่าของ
+<span class="LineNumber"> 010 </span>                   แว่นแคว้น   ภัสดาเป็นสง่าของสตรี.</B>
+
+<span class="LineNumber"> 011 </span>                                    <h1>อรรถกถารถสูตร</h1>
+
+<span class="LineNumber"> 012 </span>         พึงทราบวินิจฉัยในรถสูตรที่ ๒  ต่อไปนี้ :-
+<span class="LineNumber"> 013 </span>         ธงชื่อว่า   <B>เป็นสง่า</B>    เพราะอรรถว่า    เป็นเครื่องปรากฏ    (แห่งรถ
+<span class="LineNumber"> 014 </span>นั้น).    บทว่า   <B>ธโช รถสฺส</B>    ความว่า  ก็นักรบนั้นเห็นธงแต่ที่ไกล    คือ
+<span class="LineNumber"> 015 </span>บนยอดแห่งสงครามใหญ่   ย่อมทราบว่ารถนี้    เป็นของพระราชาพระนามโน้น
+<span class="LineNumber"> 016 </span>เพราะฉะนั้น    รถนั้นจึงปรากฏได้   (ด้วยธงนั้น)   ด้วยคำนั้นแหละ   พระผู้มี
+<span class="LineNumber"> 017 </span>พระภาคเจ้าจึงตรัสว่า    <B>ธโช  รถสฺส  ปญฺาณํ</B>  แปลว่า    ธงเป็นความสง่า

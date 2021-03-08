@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         จิตใดของบุคคลใดไม่ใช่กำลังเกิด,    จิตนั้นของบุคคลนั้นไม่ใช่
+<span class="LineNumber"> 002 </span>เกิดขึ้นแล้ว   ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         ก็หรือว่าจิตใดของบุคคลใดไม่ใช่เกิดขึ้นแล้ว,   จิตนั้นของบุคคล
+<span class="LineNumber"> 004 </span>นั้นไม่ใช่กำลังเกิด  ใช่ไหม ?
+<span class="LineNumber"> 005 </span><H1>นิโรธุปปันนวาระ</H1> :-
+<span class="LineNumber"> 006 </span>         [๓๑]  จิตใดของบุคคลใดกำลังดับ,   จิตนั้นของบุคคลนั้นเกิด
+<span class="LineNumber"> 007 </span>ขึ้นแล้ว   ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ก็หรือว่าจิตใดของบุคคลใดเกิดขึ้นแล้ว,    จิตนั้นของบุคคลนั้น
+<span class="LineNumber"> 009 </span>กำลังดับ   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         จิตใดของบุคคลใดไม่ใช่กำลังดับ,     จิตนั้นของบุคคลนั้นไม่ใช่
+<span class="LineNumber"> 011 </span>เกิดขึ้นแล้ว  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ก็หรือว่าจิตใดของบุคคลใดไม่ใช่เกิดขึ้นแล้ว     จิตนั้นของบุคคล
+<span class="LineNumber"> 013 </span>นั้นไม่ใช่กำลังดับ  ใช่ไหม ?
+<span class="LineNumber"> 014 </span><H1>อุปปาทวาระ</H1> :-
+<span class="LineNumber"> 015 </span>         [๓๒]  จิตใดของบุคคลใดกำลังเกิด,  จิตนั้นของบุคคลนั้นเคย
+<span class="LineNumber"> 016 </span>เกิด  ใช่ไหม ?

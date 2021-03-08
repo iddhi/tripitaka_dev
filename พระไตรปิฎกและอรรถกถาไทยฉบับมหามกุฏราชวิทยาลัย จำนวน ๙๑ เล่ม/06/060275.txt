@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>องค์ ๖ แห่งภิกษุผู้ไม่ต้องถือนิสัย</H1>
+<span class="LineNumber"> 002 </span>           ดูก่อนภิกษุทั้งหลาย    ภิกษุผู้ประกอบด้วยองค์ ๖ ไม่ต้องถือนิสัยอยู่
+<span class="LineNumber"> 003 </span>คือ:-
+<span class="LineNumber"> 004 </span>           ๑.  ประกอบด้วยกองศีล  อันเป็นของพระอเสขะ.
+<span class="LineNumber"> 005 </span>           ๒. ประกอบด้วยกองสมาธิ  อันเป็นของพระอเสขะ.
+<span class="LineNumber"> 006 </span>           ๓. ประกอบด้วยกองปัญญา  อันเป็นของพระอเสขะ.
+<span class="LineNumber"> 007 </span>           ๔.  ประกอบด้วยกองวิมุตติ  อันเป็นของพระอเสขะ.
+<span class="LineNumber"> 008 </span>           ๕.  ประกอบด้วยกองวิมุตติญาณทัสสนะ  อันเป็นของพระอเสขะ และ
+<span class="LineNumber"> 009 </span>           ๖.   มีพรรษาได้ ๕ หรือมีพรรษาเกิน ๕.
+<span class="LineNumber"> 010 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์ ๖ นี้แล  ไม่ต้องถือนิสัย
+<span class="LineNumber"> 011 </span>อยู่.
+
+<span class="LineNumber"> 012 </span>                    <H2>องค์  ๖  แห่งภิกษุผู้ต้องถือนิสัย</H2>
+<span class="LineNumber"> 013 </span>           ดูก่อนภิกษุทั้งหลาย   ภิกษุผู้ประกอบด้วยองค์ ๖ แม้อื่นอีก   จะไม่ถือ
+<span class="LineNumber"> 014 </span>นิสัยอยู่   ไม่ได้  คือ:-
+<span class="LineNumber"> 015 </span>           ๑.   เป็นผู้ไม่มีศรัทธา.
+<span class="LineNumber"> 016 </span>           ๒.  เป็นผู้ไม่มีหิริ.
+<span class="LineNumber"> 017 </span>           ๓.  เป็นผู้ไม่มีโอตตัปปะ.
+<span class="LineNumber"> 018 </span>           ๔.  เป็นผู้เกียจคร้าน.
+<span class="LineNumber"> 019 </span>           ๕.  เป็นผู้มีสติฟันเฟือน   และ
+<span class="LineNumber"> 020 </span>           ๖.  มีพรรษาหย่อน ๕.
+<span class="LineNumber"> 021 </span>           ดูก่อนภิกษุทั้งหลาย   ภิกษุผู้ประกอบด้วยองค์ ๖ นี้แล   จะไม่ถือนิสัย
+<span class="LineNumber"> 022 </span>อยู่   ไม่ได้.

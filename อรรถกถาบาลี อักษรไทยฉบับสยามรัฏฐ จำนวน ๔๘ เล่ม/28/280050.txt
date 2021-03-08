@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  50
+
+<span class="LineNumber"> 002 </span>วนฺทิตฺวา  อยฺย  สุเมธตาปส  ตยา  อชฺช  ทีปงฺกรทสพลสฺส
+<span class="LineNumber"> 003 </span>ปาทมูเล  มหตี  ปตฺถนา  ปตฺถิตา  สา  เต  อนนฺตราเยน  สมิชฺฌตุ  
+<span class="LineNumber"> 004 </span>มา  เต  ภยํ  วา  ฉมฺภิตตฺตํ  วา  อโหสิ  สรีเร  อปฺปมตฺตโกปิ 
+<span class="LineNumber"> 005 </span>โรโค  มา  อุปฺปชฺชิ  ขิปฺปํ  ปารมิโย  ปูเรตฺวา  สมฺมาสมฺโพธึ  
+<span class="LineNumber"> 006 </span>ปฏิพุชฺฌ  ยถา  ปุปฺผูปคา  ผลูปคา  รุกฺขา  สมเย  ปุปฺผนฺติ 
+<span class="LineNumber"> 007 </span>เจว  ผลนฺติ  จ  ตเถว  ตฺวํปิ  ตํ  สมยํ  อนติกฺกมิตฺวา  ขิปฺปํ  
+<span class="LineNumber"> 008 </span>สมฺโพธิมุตฺตมํ  ผุสสฺสูติ  อาทีนิ  ถุติมงฺคลานิ  ปยิรุทาหํสุ  เอวํ 
+<span class="LineNumber"> 009 </span>ปยิรุทาหิตฺวา  อตฺตโน  อตฺตโน  เทวฏฺ€านเมว  อคมํสุ ฯ 
+<span class="LineNumber"> 010 </span>โพธิสตฺโตปิ  เทวตาหิ  อภิตฺถุโต  อหํ  ทส  ปารมิโย  ปูเรตฺวา 
+<span class="LineNumber"> 011 </span>กปฺปสตสหสฺสาธิกานํ  จตุนฺนํ  อสงฺเขยฺยานํ  มตฺถเก  พุทฺโธ 
+<span class="LineNumber"> 012 </span>ภวิสฺสามีติ  วีริยํ  ทฬฺหํ  กตฺวา  อธิฏฺ€าย นภํ อพฺภุคฺคนฺตฺวา
+<span class="LineNumber"> 013 </span>หิมวนฺตเมว อคมาสิ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 014 </span>	ทิพฺพํ มานุสกํ ปุปฺผํ		เทวา มานุสกา อุโภ  
+<span class="LineNumber"> 015 </span>	สโมกิรนฺติ ปุปฺเผหิ		วุฏฺ€หนฺตสฺส อาสนา ฯ  
+<span class="LineNumber"> 016 </span>	เวทยนฺติ จ เต ตุฏฺ€ึ		เทวา มานุสกา อุโภ  
+<span class="LineNumber"> 017 </span>	มหนฺตํ ปตฺถิตํ ตุยฺหํ		ตํ ลภสฺสุ ยถิจฺฉิตํ ฯ  
+<span class="LineNumber"> 018 </span>	สพฺพีติโย วิวชฺชนฺตุ		สพฺพโรโค(๑) วินสฺสตุ  
+<span class="LineNumber"> 019 </span>	มา เต ภวตฺวนฺตราโย (๒) ผุส ขิปฺปํ โพธิมุตฺตมํ ฯ  
+<span class="LineNumber"> 020 </span>	ยถา สมเย สมฺปตฺเต	ปุปฺผนฺติ ปุปฺผิโน ทุมา  
+<span class="LineNumber"> 021 </span>	ตเถว ตฺวํ มหาวีร		พุทฺธาเณน ปุปฺผสุ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. โสโก โรโค ฯ  ๒. ม. ภวนฺตฺวนฺตรายา ฯ 

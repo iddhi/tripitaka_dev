@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                            คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.   โพธิปักขิยธรรม   แปลว่าอย่างไร  ?   มีจำนวนเท่าไร  ?     คือ
+<span class="LineNumber"> 003 </span>               อะไร  ?
+<span class="LineNumber"> 004 </span>	๒.   พระบรมโพธิสัตว์   ทรงปฏิบัติสมบูรณ์ด้วยธรรมอะไรจึงตรัสรู้  ?
+<span class="LineNumber"> 005 </span>                และตรัสรู้อะไร  ?
+<span class="LineNumber"> 006 </span>	๓.   คนอื่น  ๆ   นอกจากพระบรมโพธิสัตว์         จะตรัสรู้ได้หรือไม่ ?
+<span class="LineNumber"> 007 </span>               เพราะอะไร  ?
+ 
+<span class="LineNumber"> 008 </span>				<B>	ต้นเอ๋ย         ต้นโพธิ์
+<span class="LineNumber"> 009 </span>				พระพุทโธ   ประทับนั่ง    บัลลังก์สถาน
+<span class="LineNumber"> 010 </span>				ทรงปราบเกลส   สิ้นไป    ด้วยไตรญาณ
+<span class="LineNumber"> 011 </span>				โพธิ์สถาน   เลิศล้วน    ควรบูชา.
+<span class="LineNumber"> 012 </span>					พนมกร    ต่างธูปเทียน    น้อมเศียรเกล้า
+<span class="LineNumber"> 013 </span>				จิตโน้มน้าว    พุทธคุณ   ได้บุญหนา
+<span class="LineNumber"> 014 </span>				ถึงพระพุทธ   สุดดี    ดับชีวา
+<span class="LineNumber"> 015 </span>				ไปชาติหน้า     ไม่ตก-    นรก    เอย.</B>
+<span class="LineNumber"> 016 </span>									<B>ศรี  ฯ   นคร.</B>

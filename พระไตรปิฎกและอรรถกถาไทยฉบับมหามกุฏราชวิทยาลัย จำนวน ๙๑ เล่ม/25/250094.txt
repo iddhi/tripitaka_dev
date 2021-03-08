@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๔.  วิชยาสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>                        <H1>ว่าด้วยมารรบกวนวิชยาภิกษุณี</H1> 
+
+<span class="LineNumber"> 003 </span>           [๕๓๑]   สาวัตถีนิทาน.
+<span class="LineNumber"> 004 </span>           ครั้งนั้น   เวลาเช้า   วิชยาภิกษุณีนุ่งห่มแล้ว    ถือบาตรและจีวร  ฯลฯ 
+<span class="LineNumber"> 005 </span>จึงนั่งพักกลางวันที่โคนไม้ต้นหนึ่ง.
+<span class="LineNumber"> 006 </span>           [๕๓๒]  ลำดับนั้น       มารผู้มีบาปใคร่จะให้วิชยาภิกษุณีบังเกิดความ 
+<span class="LineNumber"> 007 </span>กลัว   ความหวาดเสียว   ขนพองสยองเกล้า   และใคร่จะให้เคลื่อนจากสมาธิ  จึง
+<span class="LineNumber"> 008 </span>เข้าไปหาวิชยาภิกษุณีถึงที่นั่งพัก  ครั้นแล้ว  ได้กล่าวกะวิชยาภิกษุณีด้วยคาถาว่า
+<span class="LineNumber"> 009 </span>                             <B>เธอยังเป็นสาวมีรูปงาม  และฉันก็ยัง
+<span class="LineNumber"> 010 </span>              เป็นหนุ่มแน่น   มาเถิดนาง  เรามาอภิรมย์
+<span class="LineNumber"> 011 </span>              กันด้วยดนตรี  มีองค์ห้า.</B>
+<span class="LineNumber"> 012 </span>           [๕๓๓]  ลำดับนั้น   วิชยาภิกษุณีได้มีความดำริว่า   นี่ใครหนอกล่าว
+<span class="LineNumber"> 013 </span>คาถา  จะเป็นมนุษย์หรืออมนุษย์.
+<span class="LineNumber"> 014 </span>           ทันใดนั้น  วิชยาภิกษุณีได้มีความดำริว่า   นี่คือมารผู้มีบาป   ใคร่จะ
+<span class="LineNumber"> 015 </span>ให้เราบังเกิดความกลัว    ความหวาดเสียว    ขนพองสยองเกล้า    และใคร่จะให้
+<span class="LineNumber"> 016 </span>เคลื่อนจากสมาธิ   จึงได้กล่าวคาถา. 
+<span class="LineNumber"> 017 </span>           ครั้นวิชยาภิกษุณีทราบว่า  นี่คือมารผู้มีบาปแล้ว    จึงได้กล่าวกะมารผู้
+<span class="LineNumber"> 018 </span>มีบาปด้วยคาถาว่า
+<span class="LineNumber"> 019 </span>                             <B>ดูก่อนมาร  รูป  เสียง  กลิ่น  รส
+<span class="LineNumber"> 020 </span>              โผฏฐัพพะ  อันน่ารื่นรมย์ใจ เ ราขอมอบให้
+<span class="LineNumber"> 021 </span>              ท่านผู้เดียว  เพราะเราไม่ต้องการมัน  เรา
+<span class="LineNumber"> 022 </span>              อึกอัดระอาด้วยกายเน่า  อันจะแตกทำลาย
+<span class="LineNumber"> 023 </span>              เปื่อยพังไปนี้  กามตัณหา  เราถอนได้แล้ว</B>

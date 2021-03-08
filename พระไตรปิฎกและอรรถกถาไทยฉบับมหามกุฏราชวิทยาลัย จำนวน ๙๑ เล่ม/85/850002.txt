@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>           <B>๑๐.  ปุเรชาตปัจจัย  
+<span class="LineNumber"> 002 </span>           ๑๑.  ปัจฉาชาตปัจจัย
+<span class="LineNumber"> 003 </span>           ๑๒.  อาเสวนปัจจัย
+<span class="LineNumber"> 004 </span>           ๑๓.  กัมมปัจจัย
+<span class="LineNumber"> 005 </span>           ๑๔.  วิปากปัจจัย
+<span class="LineNumber"> 006 </span>           ๑๕.  อาหารปัจจัย
+<span class="LineNumber"> 007 </span>           ๑๖.   อินทริยปัจจัย
+<span class="LineNumber"> 008 </span>           ๑๗.  ฌานปัจจัย
+<span class="LineNumber"> 009 </span>           ๑๘.  มัคคปัจจัย
+<span class="LineNumber"> 010 </span>           ๑๙.  สัมปยุตตปัจจัย
+<span class="LineNumber"> 011 </span>           ๒๐.  วิปปยุตตปัจจัย
+<span class="LineNumber"> 012 </span>           ๒๑.  อัตถิปัจจัย
+<span class="LineNumber"> 013 </span>           ๒๒.  นัตถิปัจจัย
+<span class="LineNumber"> 014 </span>           ๒๓.  วิคตปัจจัย
+<span class="LineNumber"> 015 </span>           ๒๔.  อวิคตปัจจัย.</B>   

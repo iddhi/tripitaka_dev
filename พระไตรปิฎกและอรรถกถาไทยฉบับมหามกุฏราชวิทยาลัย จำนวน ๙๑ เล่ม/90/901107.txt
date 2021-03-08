@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>		<H2>พระอภิธรรมปิฎก  ปัฏฐาน</H2> 
+<span class="LineNumber"> 002 </span>		       <H1>อนุโลมติกติกปัฏฐาน</H1>
+		
+<span class="LineNumber"> 003 </span>		           <H1>กุสลติกเวทนาติกะ</H1>	
+<span class="LineNumber"> 004 </span>		 <H2>(๑. กุสลติกะ ๑. เวทนาติกะ)</H2>
+<span class="LineNumber"> 005 </span>	         <H1>สุขายเวทนายสัมปยุตตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 006 </span>		 	       <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 007 </span>			      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๑]  ๑.  สุขายเวทนายสัมปยุตตธรรมที่เป็นกุศล  อาศัยสุขาย-
+<span class="LineNumber"> 009 </span>เวทนายสัมปยุตตธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                   ๒.  สุขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล  อาศัย	
+<span class="LineNumber"> 011 </span>สุขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                   ๓.  สุขายเวทนายสัมปยุตตธรรมที่เป็นอัพยากตะ   อาศัย
+<span class="LineNumber"> 013 </span>สุขายเวทนายสัมปยุตตธรรมที่เป็นอัพยากตะ  เกิดขึ้นเพราะเหตุปัจจัย
+<span class="LineNumber"> 014 </span>		    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>		[๒]  ในเหตุปัจจัย มี ๓ วาระ    ในอารัมมณปัจจัย  มี ๓ วาระ ฯลฯ
+<span class="LineNumber"> 016 </span>ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>            สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.

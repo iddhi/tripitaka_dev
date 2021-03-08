@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  273
+
+<span class="LineNumber"> 002 </span>			สุพาหุตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	อิตเรหิ  วุตฺตคาถาสุ  ตติยปเทเอว วิเสโส ฯ ตตฺถ 
+<span class="LineNumber"> 004 </span>สุพาหุนา วุตฺตคาถายํ  จิตฺตํ  สุสมาหิตฺจ  กาเยติ  มม  
+<span class="LineNumber"> 005 </span>จิตฺตํ  กรชกาเย  กายคตาสติภาวนาวเสน  สุฏฺ€ุ สมาหิตํ 
+<span class="LineNumber"> 006 </span>สมฺมเทว  อปฺปิตํ ฯ  อยํ  หิ  เถโร  กายคตาสติภาวนาวเสน
+<span class="LineNumber"> 007 </span>ปฏิลทฺธฌานํ  ปาทกํ  กตฺวา  วิปสฺสนํ  วฑฺเฒตฺวา  อรหตฺตํ 
+<span class="LineNumber"> 008 </span>ปาปุณิ ฯ  ตํ  สนฺธายาห  จิตฺตํ สุสมาหิตฺจ กาเยติ ฯ  
+<span class="LineNumber"> 009 </span>		สุพาหุตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+
+<span class="LineNumber"> 010 </span>			วลฺลิยตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 011 </span>	วลฺลิยตฺเถรคาถายํ  ตสฺสํ  วิหรามิ  อปฺปมตฺโตติ  ตสฺสํ 
+<span class="LineNumber"> 012 </span>กุฏิกายํ อปฺปมาทปฏิปตฺติยา  มตฺถกํ  ปาปิตตฺตา  อปฺปมตฺโต 
+<span class="LineNumber"> 013 </span>อริยวิหารูปสํหิเตน  ทิพฺพวิหาราทิสํหิเตน (๑) จ อิริยาปถวิหารามิ
+<span class="LineNumber"> 014 </span>อตฺตภาวํ ปวตฺเตมีติ วุตฺตํ โหติ ฯ 
+<span class="LineNumber"> 015 </span>		วลฺลิยตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 016 </span># ๑. สี. ....สหิเตน ฯ 

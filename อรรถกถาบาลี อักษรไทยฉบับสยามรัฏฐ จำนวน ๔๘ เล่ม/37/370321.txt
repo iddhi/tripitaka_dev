@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 321
+
+<span class="LineNumber"> 002 </span>นิสฺสาย  อจลนสภาโว ฯ  มุทูติ  อนติมานี ฯ  อปฺปมตฺโตติ 
+<span class="LineNumber"> 003 </span>กตฺตพฺพกิจฺเจสุ  ปมาทวิรหิโต ฯ  ทกฺโขติ  อุปฏฺ€านฏฺ€าเน(๑)  เฉโก ฯ
+<span class="LineNumber"> 004 </span>นิวาตวุตฺตีติ  นีจวุตฺติ ฯ  สปฺปติสฺโสติ  ครุสํวาสวสนสีโล(๒) ฯ
+<span class="LineNumber"> 005 </span>สณฺหิตุํ  ปหิตนฺติ  ปรราชูหิ  รฺโ (๓) สนฺติกํ  คุยฺหรกฺขนวเสน
+<span class="LineNumber"> 006 </span>วา  ปฏิจฺฉนฺนปากฏกรณวเสน  วา  เปสิตํ ฯ (๔) ตถารูเปหิ  สทฺธึ  
+<span class="LineNumber"> 007 </span>กเถนฺโต  รฺโ  สมฺมุขา กเถยฺย ฯ  ภตฺตารฺเวุทิกฺเขยฺยาติ
+<span class="LineNumber"> 008 </span>อตฺตโน  สามิกเมว  โอโลเกยฺย ฯ  น  อฺสฺส จ ราชิโนติ 
+<span class="LineNumber"> 009 </span>อฺสฺส จ รฺโ สนฺติเก น ภาเสยฺย(๕) ฯ  
+<span class="LineNumber"> 010 </span>	[๙๖๘]สมเณ พฺราหฺมเณ จาปิ	สีลวนฺเต พหุสฺสุเต  
+<span class="LineNumber"> 011 </span>		สกฺกจฺจํ ปยิรูปาเสยฺย	ส ราชวสตึ วเส  
+<span class="LineNumber"> 012 </span>		สมเณ พฺราหฺมเณ จาปิ	สีลวนฺเต พหุสฺสุเต  
+<span class="LineNumber"> 013 </span>		สกฺกจฺจํ อนุวาเสยฺย	ส ราชวสตึ วเส  
+<span class="LineNumber"> 014 </span>		สมเณ พฺราหฺมเณ จาปิ	สีลวนฺเต พหุสฺสุเต  
+<span class="LineNumber"> 015 </span>		ตปฺเปยฺย อนฺนปาเนน	ส ราชวสตึ วเส  
+<span class="LineNumber"> 016 </span>		สมเณ พฺราหฺมเณ จาปิ	สีลวนฺเต พหุสฺสุเต  
+<span class="LineNumber"> 017 </span>		อาสชฺช ปฺเ เสเวถ	อากงฺขํ วุฑฺฒิมตฺตโน(๖) ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  สกฺกจฺจํ  ปยิรูปาเสยฺยาติ  คารเวน  ปุนปฺปุนํ 
+<span class="LineNumber"> 019 </span>อุปสงฺกเมยฺย ฯ  อนุวาเสยฺยาติ  อุโปสถวาสํ  วสนฺโต  อนุวตฺเตยฺย ฯ
+<span class="LineNumber"> 020 </span># ๑. ม. อุปฏฺ€าเน ฯ  ๒. ม. ครุสํวาสสีโล ฯ  ๓. ม. สกรฺโ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ตถารูเปน หิ สทฺธึ กเถนฺโตปิ รฺโ สมฺมุขาว ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. ภเวยฺย ฯ  ๖. ม. วุฑฺฒิมตฺตโนติ ฯ 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  232
+
+<span class="LineNumber"> 002 </span>		วีรกชาตกํ  
+<span class="LineNumber"> 003 </span>	อปิ  วีรก  ปสฺเสสีติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต
+<span class="LineNumber"> 004 </span>สุคตาลยํ  อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	เทวทตฺตสฺส  ปริสํ  คเหตฺวา  อาคเตสุ  หิ เถเรสุ สตฺถา 
+<span class="LineNumber"> 006 </span>สาริปุตฺต  เทวทตฺโต  ตุมฺเหปิ  ทิสฺวา  กึ  อกาสีติ  ปุจฺฉิตฺวา 
+<span class="LineNumber"> 007 </span>สุคตาลยํ [๑] ทสฺเสสีติ  วุตฺเต  น  โข  สาริปุตฺต  อิทาเนว 
+<span class="LineNumber"> 008 </span>เทวทตฺโต  มม  อนุกิริยํ กโรนฺโต  วินาสํ  ปตฺโต  ปุพฺเพปิ [๒]
+<span class="LineNumber"> 009 </span>ปาปุณีติ  วตฺวา  เถเรน  ยาจิโต  อตีตํ  อาหริ ฯ  
+<span class="LineNumber"> 010 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต 
+<span class="LineNumber"> 011 </span>โพธิสตฺโต  หิมวนฺตปฺปเทเส  อุทกกากโยนิยํ  นิพฺพตฺติตฺวา  เอกํ  
+<span class="LineNumber"> 012 </span>สรํ  อุปนิสฺสาย  วสิ ฯ  วีรโกติสฺส  นามํ  อโหสิ ฯ  ตทา  
+<span class="LineNumber"> 013 </span>กาสิกรฏฺเ€  ทุพฺภิกฺขํ  อโหสิ ฯ  มนุสฺสา  กากภตฺตํ  วา  ทาตุํ 
+<span class="LineNumber"> 014 </span>ยกฺขนาคพลิกมฺมํ  วา  กาตุํ  นาสกฺขึสุ ฯ  ฉาตกรฏฺ€โต  กากา 
+<span class="LineNumber"> 015 </span>เยภุยฺเยน  อรฺํ  ปวิสึสุ ฯ  ตตฺเรโก  พาราณสีวาสี  สวิฏฺ€โก
+<span class="LineNumber"> 016 </span>นาม  กาโก  กากึ  อาทาย  วีรกสฺส  วสนฏฺ€านํ  คนฺตฺวา 
+<span class="LineNumber"> 017 </span>ตํ  สรํ  นิสฺสาย  เอกมนฺเต  วาสํ  กปฺเปสิ ฯ  โส  เอกทิวสํ  
+<span class="LineNumber"> 018 </span>ตสฺมึ  สเร  โคจรํ  คณฺหนฺโต  วีรกํ  สรํ  โอตริตฺวา  มจฺเฉ 
+<span class="LineNumber"> 019 </span>ขาทิตฺวา  ปจฺจุตฺตริตฺวา  สรีรํ  สุกฺขาเปนฺตํ  ทิสฺวา  อิมํ  กากํ (๓)
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร สนฺเตติ ทิสฺสติ ฯ  ๒. ม. เอตฺถนฺตเร วินาสนฺติ ทิสฺสติ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. อุทกากากํ ฯ

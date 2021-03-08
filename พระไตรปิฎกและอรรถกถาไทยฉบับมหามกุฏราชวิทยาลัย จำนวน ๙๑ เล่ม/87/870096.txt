@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ จิตตสมุฏฐานรูป   อาศัยขันธ์ที่เป็นภาวนายปหาตัพพเหตุกธรรม 
+<span class="LineNumber"> 002 </span>และมหาภูตรูปทั้งหลาย,    จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 003 </span>อุทธัจจะและโมหะ.
+<span class="LineNumber"> 004 </span>                       ๑๗.  <B>ภาวนายปหาตัพพเหตุกธรรม     และเนวทัสส-
+<span class="LineNumber"> 005 </span>เนนนภาวนายปหาตัพพเหตุกธรรม    อาศัยภาวนายปหาตัพพเหตุก-
+<span class="LineNumber"> 006 </span>ธรรม  และเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม ฯลฯ</B>
+<span class="LineNumber"> 007 </span>           คือ ขันธ์ ๓ และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ ที่สหรคตด้วยอุทธัจจะ
+<span class="LineNumber"> 008 </span>และโมหะ ฯลฯ
+
+<span class="LineNumber"> 009 </span>                                     <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๗๗๒] ๑.  <B>ทัสสเนนปหาตัพพเหุตกธรรม    อาศัยทัสสเนน
+<span class="LineNumber"> 011 </span>ปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>                  
+<span class="LineNumber"> 012 </span>           คือ   ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นทัสสเนนปหาตัพพเหตุกธรรม ฯลฯ
+<span class="LineNumber"> 013 </span>ขันธ์ ๒ อาศัยขันธ์ ๒.
+<span class="LineNumber"> 014 </span>                       ๒.  <B>เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม อาศัย
+<span class="LineNumber"> 015 </span>ทัสสเนนปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ    โมหะที่สหรคตด้วยวิจิกิจฉา    อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 017 </span>วิจิกิจฉา.
+<span class="LineNumber"> 018 </span>                       ๓.  <B>ทัสสเนนปหาตัพพเหตุกธรรม    และเนวทัสส- 
+<span class="LineNumber"> 019 </span>เนนนภาวนายปหาตัพพเหตุกธรรม   อาศัยทัสสเนนปหาตัพพเหตุก -
+<span class="LineNumber"> 020 </span>ธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>

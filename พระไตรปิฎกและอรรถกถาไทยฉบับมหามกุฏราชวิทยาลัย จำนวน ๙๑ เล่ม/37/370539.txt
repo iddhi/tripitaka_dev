@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                <H1>อรรถกถาทุติยอิธโลกสูตรที่  ๑๐</H1>
+<span class="LineNumber"> 002 </span>         <B>ทุติยอิธโลก  สูตรที่  ๑๐</B>  ตรัสแก่ภิกษุสงฆ์
+<span class="LineNumber"> 003 </span>         ก็คำที่ไม่ได้ตรัสไว้ในพระสูตรทุกสูตร   มีอรรถง่ายทั้งนั้น
+<span class="LineNumber"> 004 </span>เพราะมีนัยที่มาในหนหลังแล้ว.
+<span class="LineNumber"> 005 </span>               <I>จบ   อรรถกถาทุติยอิธโลกสูตรที่  ๑๐</I>
+ 
+<span class="LineNumber"> 006 </span>                      <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 007 </span>         ๑.  สังขิตตสูตร   ๒.  วิตถตสูตร   ๓.  วิสาขาสูตร  ๔.  วาเสฏฐกสูตร 
+<span class="LineNumber"> 008 </span>๕.  โพชฌาสูตร        ๖. อนุรุทธสูตร       ๗. วิสาขสูตร       ๘.  นกุลสูตร
+<span class="LineNumber"> 009 </span>๙.   อิธโลกสูตรที่  ๑   ๑๐.  อิธโลกสูตรที่  ๒. และอรรถกถา
+<span class="LineNumber"> 010 </span>                                      <I>จบ   อุโปสถวรรคที่  ๕</I>
+
+<span class="LineNumber"> 011 </span>                         <H2>รวมวรรคในปัณณาสก์นี้  คือ</H2>
+<span class="LineNumber"> 012 </span>         ๑.   เมตตาวรรค   ๒.  มหาวรรค    ๓.   คหปติวรรค   ๔.  ทานวรรค
+<span class="LineNumber"> 013 </span>๕.   อุโปสถวรรค
+<span class="LineNumber"> 014 </span>                                      <B>จบ  ปฐมปัณณาสก์</B>

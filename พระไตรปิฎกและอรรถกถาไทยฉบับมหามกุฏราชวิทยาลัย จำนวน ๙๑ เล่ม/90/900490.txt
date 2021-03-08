@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>            	ในอนันตรปัจจัย  มี  ๙  วาระ  ฯลฯ  ในสหชาตปัจจัย มี ๕ วาระ  ฯลฯ
+<span class="LineNumber"> 002 </span>ในอุปนิสสยปัจจัย มี ๙  วาระ ในอาเสวนปัจจัย มี ๙ วาระ  ในกัมมปัจจัย  มี ๓  
+<span class="LineNumber"> 003 </span>วาระ  ในอาหารปัจจัย มี ๕ วาระ   ในอินทริยปัจจัย มี ๕ วาระ   ในฌานปัจจัย
+<span class="LineNumber"> 004 </span>มี ๓ วาระ  ในมัคคปัจจัย มี ๓ วาระ  ในสัมปยุตตปัจจัย  มี ๕ วาระ   ในอัตถิ-
+<span class="LineNumber"> 005 </span>ปัจจัย มี  ๕  วาระ  ในนัตถิปัจจัย  มี  ๙  วาระ  ฯลฯ  ในอวิคตปัจจัย มี  ๕  วาระ- 
+
+<span class="LineNumber"> 006 </span>				    <H1>อกุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 007 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>			            <H2>๑. เหตุปัจจัย</H2>                         		
+<span class="LineNumber"> 009 </span>		[๑๔๔๗]  ๑.  อกุศลธรรมที่เป็นเจตสิกธรรม  อาศัยอกุศลธรรม
+<span class="LineNumber"> 010 </span>ที่เป็นเจตสิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 011 </span>                           ๒.  อกุศลธรรมที่ไม่ใช่เจตสิกธรรม    อาศัยอกุศล-
+<span class="LineNumber"> 012 </span>ธรรมที่เป็นเจตสิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>                           ๓.  อกุศลธรรมที่เป็นเจตสิกธรรม  และอกุศลธรรม
+<span class="LineNumber"> 014 </span>ที่ไม่ใช่เจตสิกธรรม   อาศัยอกุศลธรรมที่เป็นเจตสิกธรรม    เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>                           ๔.  อกุศลธรรมที่เป็นเจตสิกธรรม อาศัยอกุศลธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่เจตสิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย

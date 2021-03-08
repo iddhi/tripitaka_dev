@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>         ในอสัญญสัตตภูมิชีวิตินทรีย์เคยเกิดในภูมินั้น   แต่มนินทรีย์
+<span class="LineNumber"> 002 </span>ไม่ใช่เคยเกิดขึ้นในภูมินั้น,   ในจตุโวการภูมิ  ปัญจโวการภูมิชีวิตินทรีย์เคย
+<span class="LineNumber"> 003 </span>เกิด  และมนินทรีย์ก็เคยเกิดในภูมินั้น.
+<span class="LineNumber"> 004 </span>         ก็หรือว่า     มนินทรีย์เคยเกิดในภูมิใด,      ชีวิตินทรีย์ก็เคยเกิด 
+<span class="LineNumber"> 005 </span>ในภูมินั้น    ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>     <I>จบ  ชีวิตินทริยมูละ  อุเปกขินทริย  ฯลฯ  สัทธินทริย  ปัญญินทริย</I>
+<span class="LineNumber"> 008 </span>                                           <I>มนินทริยมูลี</I>
+<span class="LineNumber"> 009 </span>                                       <I>ชีวิตินทริยมูล   จบ</I>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>ด้วยคำมีประมาณเท่านี้    คาถาแม้นี้ก็เป็นอันข้าพเจ้ากล่าวแล้วว่า 
+<span class="LineNumber"> 002 </span>                     <B>ภิกษุย่อมบรรลุประเภทแห่งปริยัติ 
+<span class="LineNumber"> 003 </span>              สมบัติ  และแม้วิบัติอันใด  ในปิฎกใด  โดย
+<span class="LineNumber"> 004 </span>              ประการใด      พึงเจริญเนื้อความแม้นั้น
+<span class="LineNumber"> 005 </span>              ทั้งหมด ด้วยประการนั้น.</B>
+<span class="LineNumber"> 006 </span>         บัณฑิต  ครั้นทราบปิฎกทั้งหลายโดยประการต่าง ๆ ด้วยอาการอย่างนี้
+<span class="LineNumber"> 007 </span>แล้วพึงทราบพุทธพจน์แม้ทั้งหมดที่ประมวลมาด้วยสามารถแห่งปิฎกเหล่านั้นว่า
+<span class="LineNumber"> 008 </span>เป็นปิฎก ๓ ดังนี้.
+
+<span class="LineNumber"> 009 </span>                    <H1>พุทธพจน์มี  ๕  นิกาย</H1>
+
+<span class="LineNumber"> 010 </span>         พระพุทธพจน์ว่าโดยนิกาย มี ๕ นิกาย อย่างไร ? จริงอยู่ พระพุทธพจน์
+<span class="LineNumber"> 011 </span>นั้น  แม้ทั้งหมดมี  ๕  ประเภท  คือ  ทีฆนิกาย  มัชฌิมนิกาย   สังยุตตนิกาย
+<span class="LineNumber"> 012 </span>อังคุตตรนิกาย  ขุททกนิกาย.
+
+<span class="LineNumber"> 013 </span>               <H1>ว่าโดยทีฆนิกาย  ๓๔  สูตร</H1>
+
+<span class="LineNumber"> 014 </span>         บรรดานิกายทั้ง  ๕  นั้น    ทีฆนิกายเป็นไฉน ?    พระสูตร  ๓๔    สูตร
+<span class="LineNumber"> 015 </span>มีพรหมชาลสูตรเป็นต้น    รวบรวมไว้ ๓ วรรค  เรียกว่า  ทีฆนิกาย  ดังคาถา
+<span class="LineNumber"> 016 </span>ที่ท่านประพันธ์ไว้ว่า
+<span class="LineNumber"> 017 </span>                     <B>พระสูตร  ๓๔  สูตรเท่านั้น  มี ๓ วรรค
+<span class="LineNumber"> 018 </span>              ท่านรวบรวมไว้สำหรับนิกายใด     นิกายนั้น
+<span class="LineNumber"> 019 </span>              ชื่อว่า  ทีฆนิกาย  นับตามลำดับ   เป็นนิกาย
+<span class="LineNumber"> 020 </span>              ที่หนึ่ง.</B>

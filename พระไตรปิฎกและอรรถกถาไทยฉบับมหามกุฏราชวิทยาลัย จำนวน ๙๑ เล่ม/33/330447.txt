@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>ธรรมวรรค<SUP>๑</SUP>ที่  ๔</H2>
+
+<span class="LineNumber"> 002 </span>                           <H3>อรรถกถาสูตรที่ ๑</H3> 
+
+<span class="LineNumber"> 003 </span>         <B>วรรคที่  ๔ สูตรที่  ๑</B> (ข้อ ๓๓๒)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 004 </span>         บทว่า  <B>เจโตวิมุตฺติ</B>  ได้แก่ ผลสมาธิ  สมาธิที่สัมปยุตด้วยอรหัตผล.
+<span class="LineNumber"> 005 </span>         บทว่า  <B>ปญฺาวิมุตฺติ</B>    ได้แก่  ผลปัญญา  ปัญญาที่สัมปยุตด้วย
+<span class="LineNumber"> 006 </span>อรหัตผล.
+<span class="LineNumber"> 007 </span>                                    จบอรรถกถาสูตรที่  ๑
+
+<span class="LineNumber"> 008 </span>                          <H3>อรรถกถาสูตรที่  ๒</H3>
+
+<span class="LineNumber"> 009 </span>         ใน<B>สูตรที่  ๒</B>  (ข้อ  ๓๓๓)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 010 </span>         บทว่า  <B>ปคฺคาโห</B>  ได้แก่   ความเพียร.
+<span class="LineNumber"> 011 </span>         บทว่า  <B>อวิกฺเขโป</B>  ได้แก่    ความที่จิตมีอารมณ์เป็นหนึ่ง.
+<span class="LineNumber"> 012 </span>                                            จบอรรถกถาสูตรที่  ๒
+
+<span class="LineNumber"> 013 </span>                            <H3>อรรถกถาสูตรที่  ๓</H3>
+
+<span class="LineNumber"> 014 </span>         ใน<B>สูตรที่  ๓</B>  (ข้อ ๓๓๔)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 015 </span>         บทว่า  <B>นามํ</B>  ได้แก่  อรูปขันธ์ทั้ง  ๔.
+<span class="LineNumber"> 016 </span>         บทว่า  <B>รูปํ</B>  ได้แก่  รูปขันธ์.   ในสูตรนี้   ตรัสญาณเครื่องกำหนด
+<span class="LineNumber"> 017 </span>ธรรมโกฏฐาส.
+<span class="LineNumber"> 018 </span>                                              จบอรรถกถาสูตรที่   ๓
+
+<span class='footnote'>๑.  วรรคที่ ๔ มี ๑๑ สูตรสั้น ๆ จึงรวมอรรถกถาไว้ติดต่อกัน  โดยลงเลขท้ายสูตรกำกับ</span>
+<span class='footnote'>ไว้ด้วย.</span>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  จตุตฺถวคฺเค อุปวาณตฺเถรคาถาวณฺณนา หน้า 661
+	
+<span class="LineNumber"> 002 </span>		โอฬาโร ภควา เอโส 	ยสฺส ธาตุฆเร ทิสํ(๑)  
+<span class="LineNumber"> 003 </span>		อิมา จ ชนตา ตุฏฺ€า	การํ กุพฺพํ น ตปฺปเร ฯ  
+<span class="LineNumber"> 004 </span>		อหมฺปิ การํ กริสฺสามิ(๒)	โลกนาถสฺส ตาทิโน  
+<span class="LineNumber"> 005 </span>		ตสฺส ธมฺเมสุ ทายาโท	ภวิสฺสามิ อนาคเต ฯ  
+<span class="LineNumber"> 006 </span>		สุโธตํ รชเกนาหํ		อุตฺตเรยฺยํ ปฏํ มม  
+<span class="LineNumber"> 007 </span>		เวฬคฺเค(๓) อาลคฺเคตฺวาน ธชํ อุกฺขิปิมมฺพเร ฯ  
+<span class="LineNumber"> 008 </span>		อภิสมฺมตโก คยฺห		อมฺพเร หาสิ เม ธชํ  
+<span class="LineNumber"> 009 </span>		วาเตริตํ ธชํ ทิสฺวา		ภิยฺโย หาสํ ชเนสหํ ฯ  
+<span class="LineNumber"> 010 </span>		ตตฺถ จิตฺตํ ปสาเทตฺวา	สมณํ อุปสงฺกมึ  
+<span class="LineNumber"> 011 </span>		ตํ ภิกฺขุํ อภิวาเทตฺวา	วิปากํ ปุจฺฉหํ ธเช ฯ  
+<span class="LineNumber"> 012 </span>		โส เม กเถสิ อานนฺท -(๔) ปีติสฺชนนํ มม  
+<span class="LineNumber"> 013 </span>		ตสฺส ธชสฺส วิปากํ		อนุโภสฺสสิ สพฺพทา ฯ  
+<span class="LineNumber"> 014 </span>		หตฺถี อสฺสา รถา ปตฺตี	เสนา จ จตุรงฺคินี  
+<span class="LineNumber"> 015 </span>		ปริวาเรสฺสนฺติ ตํ นิจฺจํ	ธชทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 016 </span>		สฏฺ€ี ตูริยสหสฺสานิ	เภริโย สมลงฺกตา  
+<span class="LineNumber"> 017 </span>		ปริวาเรสฺสนฺติ ตํ นิจฺจํ	ธชทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 018 </span>		ฉฬสีติ(๕) สหสฺสานิ	นาริโย สมลงฺกตา  
+<span class="LineNumber"> 019 </span>		วิจิตฺตวตฺถาภรณา		อามุกฺก(๖)มณิกุณฺฑลา ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. ธาตุฆเรทิสํ ฯ ๒. สฺยา. กริสฺสามิ ฯ  ๓. สฺยา.  เวฬุคฺเค ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. อานนฺที  ฯ ๕. สฺยา. ฉฬาสีติ ฯ  ๖. สฺยา. อามุตฺต... ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  ปณฺณตฺติวารวณฺณนา   หน้า 637
+
+<span class="LineNumber"> 002 </span>	เอกูนวีสติมูลเก  ป€มฏฺ€ารสเกน  สทฺธึ  สมฺปยุตฺตปจฺจยาทีสุ 
+<span class="LineNumber"> 003 </span>ฉสุ  ปจฺจเยสุ เอกเมกสฺส โยชนาวเสน ฉ เอกูนวีสติกา
+<span class="LineNumber"> 004 </span>โหนฺติ ฯ เตสุ เอกเมกสฺมึ เอกูนปฺาสํ 
+<span class="LineNumber"> 005 </span>		เทฺว สตา นวุติ เจว	จตสฺโส จ ปุนาปรา 
+<span class="LineNumber"> 006 </span>		ปุจฺฉา คณนโต โหนฺติ	นเย เอกูนวีสเก ฯ (๑) 
+<span class="LineNumber"> 007 </span>	วีสติมูลเก  ป€เมกูนวีสติเกน  สทฺธึ  วิปฺปยุตฺตปจฺจยาทีสุ 
+<span class="LineNumber"> 008 </span>ปฺจสุ  ปจฺจเยสุ เอกเมกสฺส  โยชนาวเสน  ปฺจ วีสติกา
+<span class="LineNumber"> 009 </span>โหนฺติ ฯ  เตสุ  เอกเมกสฺมึ  เอกูนปฺาสํ  กตฺวา
+<span class="LineNumber"> 010 </span>		เทฺว สตา โหนฺติ ปุจฺฉานํ	จตฺตาฬีสา จ ปฺจ จ 
+<span class="LineNumber"> 011 </span>		ปุจฺฉา คณนโต โหนฺติ	นเย วีสติมูลเก ฯ 
+<span class="LineNumber"> 012 </span>	เอกวีสติมูลเก  ป€มวีสติเกน  สทฺธึ  อตฺถิปจฺจยาทีสุ  จตูสุ
+<span class="LineNumber"> 013 </span>ปจฺจเยสุ เอกเมกสฺส  โยชนาวเสน  จตฺตาโร  เอกวีสติกา  โหนฺติ ฯ
+<span class="LineNumber"> 014 </span>เตสุ  เอกเมกสฺมึ  เอกูนปฺาสํ กตฺวา
+<span class="LineNumber"> 015 </span>		สตํ ฉนวุติฺเจว(๒)	ปุจฺฉา โหนฺติ สมฺปิณฺฑิตา 
+<span class="LineNumber"> 016 </span>		คณิตา ลกฺขณฺูหิ	เอกวีสติเก นเย ฯ 
+<span class="LineNumber"> 017 </span>	ทฺวาวีสติมูลเก  ป€เมกวีสติเกน  สทฺธึ  นตฺถิปจฺจยาทีสุ  ตีสุ 
+<span class="LineNumber"> 018 </span>ปจฺจเยสุ เอกเมกสฺส  โยชนาวเสน  ตโย  ทฺวาวีสติกา  โหนฺติ ฯ 
+<span class="LineNumber"> 019 </span>เตสุ  เอกเมกสฺมึ  เอกูนปฺาสํ กตฺวา
+<span class="LineNumber"> 020 </span>		จตฺตาฬีสาธิกํ สตํ	สตฺต เจว ปุนาปรา 
+<span class="LineNumber"> 021 </span>		ปุจฺฉา คณนโต โหนฺติ	นเย ทฺวาวีสติมูลเก ฯ 
+<span class="LineNumber"> 022 </span># ๑. ม. เอกูนวีสติเก ฯ  ๒. ม. สตํ ฉนวุติ เจว ฯ

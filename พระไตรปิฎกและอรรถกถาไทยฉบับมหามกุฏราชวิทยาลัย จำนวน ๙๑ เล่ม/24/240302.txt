@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                 <h1>๔.  วุฏฐิสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๐๔]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 003 </span>                             <B>บรรดาสิ่งที่งอกขึ้น    สิ่งอะไรหนอ
+<span class="LineNumber"> 004 </span>                   ประเสริฐ     บรรดาสิ่งที่ตกไปอะไรหนอ
+<span class="LineNumber"> 005 </span>                   ประเสริฐ  บรรดาสัตว์ที่เดินด้วยเท้า  ใคร
+<span class="LineNumber"> 006 </span>                   เป็นผู้ประเสริฐ      บรรดาชนผู้แถลงคารม
+<span class="LineNumber"> 007 </span>                   ใครเป็นผู้ประเสริฐ.</B>
+<span class="LineNumber"> 008 </span>         [๒๐๕]   เทวดาผู้หนึ่งแก้ว่า
+<span class="LineNumber"> 009 </span>                             <B>บรรดาสิ่งที่งอกขึ้น     ข้าวกล้าเป็น
+<span class="LineNumber"> 010 </span>                   ประเสริฐ    บรรดาสิ่งที่ตกไป    ฝนเป็น
+<span class="LineNumber"> 011 </span>                   ประเสริฐ บรรดาสัตว์ที่เดินด้วยเท้า  เหล่า
+<span class="LineNumber"> 012 </span>                   โคเป็นประเสริฐ    บรรดาชนผู้แถลงคารม
+<span class="LineNumber"> 013 </span>                   บุตรเป็นประเสริฐ.</B>
+<span class="LineNumber"> 014 </span>         [๒๐๖]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 015 </span>                             <B>บรรดาสิ่งที่งอกขึ้น    ความรู้เป็น
+<span class="LineNumber"> 016 </span>                   ประเสริฐ  บรรดาสิ่งที่ตกไป  อวิชชาเป็น
+<span class="LineNumber"> 017 </span>                   ประเสริฐ       บรรดาสัตว์ที่เดินด้วยเท้า
+<span class="LineNumber"> 018 </span>                   พระสงฆ์เป็นประเสริฐ   บรรดาชนผู้แถลง
+<span class="LineNumber"> 019 </span>                   คารม  พระพุทธเจ้าเป็นประเสริฐ</B>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่  43  หน้า  75
+
+<span class="LineNumber"> 002 </span>					กุณฺฑธานวคฺควณฺณนา  
+<span class="LineNumber"> 003 </span>				กุณฺฑธานตฺเถราปทานวณฺณนา  
+<span class="LineNumber"> 004 </span>	สตฺตาหํ  ปฏิสลฺลีนนฺติอาทิกํ  อายสฺมโต  กุณฺฑธานตฺเถรสฺส  
+<span class="LineNumber"> 005 </span>อปทานํ ฯ  
+<span class="LineNumber"> 006 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ  ภเวสุ (๑)
+<span class="LineNumber"> 007 </span>วิวฏฺฏูปนิสฺสยานิ ปุฺานิ  อุปจินนฺโต  ปทุมุตฺตรสฺส  ภควโต  
+<span class="LineNumber"> 008 </span>กาเล  หํสวตีนคเร  กุลเคเห  นิพฺพตฺโต  เหฏฺ€า  (๒)  วุตฺตนเยน  
+<span class="LineNumber"> 009 </span>ภควนฺตํ  อุปสงฺกมิตฺวา  ธมฺมํ  สุณนฺโต  สตฺถารา (๓) เอกํ  ภิกฺขุํ  
+<span class="LineNumber"> 010 </span>ป€มสลากํ  คณฺหนฺตานํ  อคฺคฏฺ€าเน  €ปิยมานํ  (๔)  ทิสฺวา  ตํ  
+<span class="LineNumber"> 011 </span>€านนฺตรํ  ปตฺเถตฺวา  ตทนุรูปํ  ปุฺํ  กโรนฺโต  วิจริ ฯ  โส  
+<span class="LineNumber"> 012 </span>เอกทิวสํ  ปทุมุตฺตรสฺส ภควโต  นิโรธสมาปตฺติโต  วุฏฺ€าย  
+<span class="LineNumber"> 013 </span>นิสินฺนสฺส  มโนสิลาจุณฺณปิฺชรํ(๕) มหนฺตํ กทลิผลกณฺณิกํ  
+<span class="LineNumber"> 014 </span>อุปนาเมสิ (๖)  ตํ  ภควา  ปฏิคฺคเหตฺวา  ปริภุฺชิ ฯ  โส  เตน  
+<span class="LineNumber"> 015 </span>ปุฺกมฺเมน  เอกาทสกฺขตฺตุํ เทเวสุ เทวรชฺชมกาเรสิ (๗)ฯ  จตุ-
+<span class="LineNumber"> 016 </span>วีสติวาโร  จ  ราชา  อโหสิ  จกฺกวตฺตี ฯ  
+<span class="LineNumber"> 017 </span>	โส  เอวํ  ปุนปฺปุนํ (๙) ปุฺานิ  กตฺวา  อปราปรํ (๑๐)
+<span class="LineNumber"> 018 </span># ๑. ม. ภเว ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ  ๓. ม. สตฺถารํ ฯ  
+<span class="LineNumber"> 019 </span># ๔. ม. €เปนฺติ ฯ  ๕. ม. มโนสิลาจุณฺณปิฺชรํ ฯ ๖. ม.  อุปเนสิ ฯ
+<span class="LineNumber"> 020 </span># ๗. ม. เทวรชฺชํ กาเรสิ ฯ  ๘. ม. จตุวีสติวาเร ฯ  
+<span class="LineNumber"> 021 </span># ๙. ม. โส เอวํ อปราปรํ ฯ  ๑๐. ม. อยํ ปาโ€ นตฺถิ ฯ 

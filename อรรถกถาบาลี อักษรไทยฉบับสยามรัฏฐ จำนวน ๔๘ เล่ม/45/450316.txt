@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  45  ยุธฺชยวคฺควณฺณนา  หน้า  316
+
+<span class="LineNumber"> 002 </span>อชฺเชว  เม  ปุตฺตํ  อภิสิฺจถาติ  อมจฺเจ  อาณาเปสิ ฯ  มหาสตฺโต  
+<span class="LineNumber"> 003 </span>ปิตรํ  วนฺทิตฺวา  น  มยฺหํ  รชฺเชน  อตฺโถ  อหํ  ปพฺพชิสฺสามิ  ปพฺพชฺชํ  เม  
+<span class="LineNumber"> 004 </span>อนุชานาถาติ อาห ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 005 </span>		ทุกฺเขน ชีวิโต ลทฺโธ		สมฺปีเฬ ปติโปสิโต  
+<span class="LineNumber"> 006 </span>		อชฺเชว ปุตฺต ปฏิปชฺช	เกวลํ วสุธํ (๑) อิมํ ฯ  
+<span class="LineNumber"> 007 </span>		สรฏฺ€กํ สนิคมํ		สชนํ วนฺทิตฺวา ขตฺติยํ  
+<span class="LineNumber"> 008 </span>		อฺชลึ ปคฺคเหตฺวาน	อิทํ วจนมพฺรวึ ฯ  
+<span class="LineNumber"> 009 </span>		เย เกจิ มหิยา สตฺตา		หีนมุกฺกฏฺ€มชฺฌิมา  
+<span class="LineNumber"> 010 </span>		นิรารกฺขา สเก เคเห	วฑฺฒนฺติ สกาติหิ (๒) ฯ  
+<span class="LineNumber"> 011 </span>		อิทํ โลเก อุตฺตริยํ		สมฺปีเฬ มม โปสนํ  
+<span class="LineNumber"> 012 </span>		อโยฆรมฺหิ สํวฑฺโฒ	อปฺปเภ จนฺทสูริเย ฯ
+<span class="LineNumber"> 013 </span>		ปูติกุณปสมฺปุณฺณา	มุจฺจิตฺวา มาตุ กุจฺฉิโต  
+<span class="LineNumber"> 014 </span>		ตโต โฆรตเร ทุกฺเข		ปุน ปกฺขิตฺตโยฆเร ฯ  
+<span class="LineNumber"> 015 </span>		ยทิหํ ตาทิสํ ปตฺวา		ทุกฺขํ ปรมทารุณํ  
+<span class="LineNumber"> 016 </span>		รชฺเชสุ ยทิ รชฺชามิ (๓)	ปาปานํ อุตฺตโม สิยํ ฯ  
+<span class="LineNumber"> 017 </span>		อุกฺกณฺ€ิโตมฺหิ กาเยน	รชฺเชนมฺหิ อนตฺถิโก  
+<span class="LineNumber"> 018 </span>		นิพฺพุตึ ปริเยสิสฺสํ		ยตฺถ มํ มจฺจุ น มทฺทิเย ฯ  
+<span class="LineNumber"> 019 </span>		เอวาหํ จินฺตยิตฺวาน	วิรวนฺเต (๔) มหาชเน  
+<span class="LineNumber"> 020 </span>		นาโคว พนฺธนํ เฉตฺวา	ปาวิสึ (๕) กานนํ วนํ ฯ  
+<span class="LineNumber"> 021 </span># ๑. สฺยา. วสุนฺทรํ ฯ  ๒. ยุ. สห าติภิ ฯ  ๓. ม. ยุ. รชฺชายิ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ยุ. วิวรนฺตํ มหาชนํ ฯ  ๕. ยุ. ปาวิสิ ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  46  นิทานกถา  หน้า  83
+
+<span class="LineNumber"> 002 </span>		สมาทยิตฺวา พุทฺธคุณํ	ทฬฺหํ กตฺวาน มานสํ  
+<span class="LineNumber"> 003 </span>		ทีปงฺกรํ นมสฺสิตฺวา		อาสนา วุฏฺ€หึ ตทา ฯ  
+<span class="LineNumber"> 004 </span>		ทิพฺพํ มานุสฺสิกํ (๑) ปุปฺผํ   เทวา มานุสกา อุโภ  
+<span class="LineNumber"> 005 </span>		สโมกิรนฺติ ปุปฺเผหิ		วุฏฺ€หนฺตสฺส อาสนา ฯ  
+<span class="LineNumber"> 006 </span>		เวทยนฺติ จ  เต โสตฺถึ	เทวา มานุสกา อุโภ  
+<span class="LineNumber"> 007 </span>		มหนฺตํ ปตฺถิตํ ตุยฺหํ	ตํ ลภสฺสุ ยถิจฺฉิตํ ฯ  
+<span class="LineNumber"> 008 </span>		สพฺพีติโย วิวชฺชนฺตุ	โสโก โรโค วิวชฺชตุ  
+<span class="LineNumber"> 009 </span>		มา  เต  ภวตฺวนฺตราโย (๒)  ผุสฺส ขิปฺปํ โพธิมุตฺตมํ ฯ  
+<span class="LineNumber"> 010 </span>		ยถาปิ สมเย สมฺปตฺเต	ปุปฺผนฺติ ปุปฺผิโน ทุมา  
+<span class="LineNumber"> 011 </span>		ตเถว ตฺวํ มหาวีร		พุทฺธาเณน ปุปฺผสิ (๓) ฯ  
+<span class="LineNumber"> 012 </span>		ยถา เย เกจิ สมฺพุทฺธา	ปูรยุํ ทสปารมี  
+<span class="LineNumber"> 013 </span>		ตเถว ตฺวํ มหาวีร		ปูเรหิ (๕) ทสปารมึ ฯ  
+<span class="LineNumber"> 014 </span>		ยถา  เย  เกจิ  สมฺพุทฺธา	โพธิมณฺฑมฺหิ พุชฺฌเร  
+<span class="LineNumber"> 015 </span>		ตเถว ตฺวํ มหาวีร		พุชฺฌสฺสุ ชินโพธิยํ ฯ  
+<span class="LineNumber"> 016 </span>		ยถา เย  เกจิ สมฺพุทฺธา	ธมฺมจกฺกํ ปวตฺตยุํ  
+<span class="LineNumber"> 017 </span>		ตเถว ตฺวํ มหาวีร		ธมฺมจกฺกํ ปวตฺตย (๖) ฯ  
+<span class="LineNumber"> 018 </span>		ปุณฺณมายํ (๗) ยถา จนฺโท  ปริสุทฺโธ วิโรจติ  
+<span class="LineNumber"> 019 </span>		ตเถว ตฺวํ ปุณฺณมโน	วิโรจ ทสสหสฺสิยํ ฯ  
+<span class="LineNumber"> 020 </span># ๑.  ม. มานุสกํ ฯ เอวมุปริปิ ฯ  ๒. ม. ภวนฺตฺวนฺตรายา  ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ปุปฺผสุ  ฯ ๔.  ทสปารมี ฯ ๕. ขุ. พุทธ. ๓๓/๒/๔๓๔ ปูรย ฯ
+<span class="LineNumber"> 022 </span># ๖. กตฺถจิ. ปวตฺตสุ  ฯ ๗. ม. ปุณฺณมาเย  ฯ

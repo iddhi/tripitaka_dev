@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าระ,                  ชื่อว่าอายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 002 </span>ธรรมที่ชื่อว่าอายตนะ,                 ชื่อว่ารสะ   ใช่ไหม   ? 
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าโผฏฐัพพะ,      ชื่อว่าอายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>ธรรมที่ชื่อว่าอายตนะ,                 ชื่อว่าโผฏฐัพพะ  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ธรรมที่ชื่อว่ามโน,               ชื่อว่าอายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>ธรรมที่ชื่อว่าอายตนะ,                 ชื่อว่ามโน  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าธัมมะ,             ชื่อว่าอายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>ธรรมที่ชื่อว่าอายตนะ,                  ชื่อว่าธัมมะ   ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>                   <I>สุทธายตนวาระ   อนุโลม  จบ</I>

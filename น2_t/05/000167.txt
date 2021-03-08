@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ไหนดับที่นั่น. 
+<span class="LineNumber"> 002 </span>									๒๔๖๑
+<span class="LineNumber"> 003 </span>	ถ.  กำแห่งสังสารจักร  ได้แก่อะไร  ? จงแสดงมาให้ครบ.
+<span class="LineNumber"> 004 </span>	ต.  ได้แก่อวิชชา ตัณหา   อุปาทาน.   กรรม.
+<span class="LineNumber"> 005 </span>									๒๔๗๔
+<span class="LineNumber"> 006 </span>	ถ.  จงย่นองค์แห่งปฏิจจสมุปบาทลงเป็นไตรวัฏมาดู  ?
+<span class="LineNumber"> 007 </span>	ต.  อวิชชา  ตัณหา   อุปาทาน ๓   นี้ย่นลงในกิเลสวัฏ.  สังสาร
+<span class="LineNumber"> 008 </span>ย่นลงในกัมมวัฏ.  วิญญาณ  นามรูป   อายตนะ  ผัสสะ   เวทนา   ภพ
+<span class="LineNumber"> 009 </span>ชาติ  ชรา  มรณะ  โสกะ  ปริเทวะ  ทุกขะ   โทมนัส   อุปายาส  รวม  ๘
+<span class="LineNumber"> 010 </span>ประการนี้  ย่นลงในวิปากวัฏ.   อีกนัยหนึ่ง  ภพท่านแยกออกเป็น  ๒
+<span class="LineNumber"> 011 </span>คือ  กรรมภพ  ๑  อุปปัตติภพ  ๑  กรรมภพจัดไว้ในกัมมวัฏ   ส่วน
+<span class="LineNumber"> 012 </span>อุปปัตติภพจัดไว้ในวิปากวัฏ.
+<span class="LineNumber"> 013 </span>									ส. ป.-๒๕๐๘
+<span class="LineNumber"> 014 </span>	ถ.  สังสาร   แปลว่ากระไร   สังขารในปฏิจจสมุปบาทท่านหมาย
+<span class="LineNumber"> 015 </span>เอาอะไร  ?  ทำไมจึงว่ามีอวิชชาเป็นปัจจัย ?
+<span class="LineNumber"> 016 </span>	ต.  สังขาร   แปลว่าสภาพอันปัจจัยปรุงแต่งก็ได้   แปลว่าสภาพ
+<span class="LineNumber"> 017 </span>ผู้ปรุงแต่งก็ได้.   นัยต้นหมายเอาสังสารที่เป็นส่วนผล   นัยหลังหมาย
+<span class="LineNumber"> 018 </span>เอาสังขารที่เป็นส่วนเหตุ.  ในปฏิจจสมุปบาทท่านหมายความนึกคิด
+<span class="LineNumber"> 019 </span>ซึ่งจัดเป็นสังขารส่วนเหตุ.  สังขารนี้จะมีขึ้นก็เพราะอวิชชาคือความไม่รู้
+<span class="LineNumber"> 020 </span>เป็นปัจจัย   เพราะอาศัยความไม่รู้นั้นเอง  จึงต้องนึกคิดเพื่อให้รู้  ถ้ารู้
+<span class="LineNumber"> 021 </span>แล้ว  ก็ไม่ต้องนึกคิด   เพราะฉะนั้น   ท่านจึงจัดอวิชชาว่าเป็นปัจจัย
+ 

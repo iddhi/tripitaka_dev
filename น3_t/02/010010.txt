@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>กัมมัฏฐานอื่นเป็นพื้นก่อนแล้วจึงควรเจริญ   เพราะเป็นกัมมัฏฐานที่มี
+<span class="LineNumber"> 002 </span>อารมณ์ละเอียดปรากฏได้ยาก.  
+<span class="LineNumber"> 003 </span>	กัมมัฏฐาน  ๔๐  มีนิมิต  ๓  ภาวนา  ๓. 
+<span class="LineNumber"> 004 </span>                                          นิมิต  ๓
+<span class="LineNumber"> 005 </span>	๑.  <B>ปริกัมมนิมิตต์</B>  นิมิตในบริกรรม.
+<span class="LineNumber"> 006 </span>	๒.  <B>อุคคหนิมิตต์</B>  นิมิตติดตา.
+<span class="LineNumber"> 007 </span>	๓.  <B>ปฏิภาคนิมิตต์</B>  นิมิตเทียบเคียง.
+<span class="LineNumber"> 008 </span>	ปริกัมมนิมิตต์และอุคคหนิมิตต์  ได้หรือมีในกัมมัฏฐานทั้งสิ้น.
+<span class="LineNumber"> 009 </span>	ปฏิภาคนิมิตต์  ได้หรือมีเฉพาะในกัมมัฏฐาน  ๒๒  คือ  กสิณ  ๑๐
+<span class="LineNumber"> 010 </span>อสุภ  ๑๐  กายคตาสติ ๑  อานาปานัสสติ  ๑.
+<span class="LineNumber"> 011 </span>                                          ภาวนา  ๓
+<span class="LineNumber"> 012 </span>	๑.  <B>ปริกัมมภาวนา</B>  ภาวนาในบริกรรม.
+<span class="LineNumber"> 013 </span>	๒.  <B>อุปจารภาวนา</B>  ภาวนาในอุปจาร.
+<span class="LineNumber"> 014 </span>	๓.  <B>อัปปนาภาวนา</B>  ภาวนาในอัปปนา.
+<span class="LineNumber"> 015 </span>	ปริกัมมภวนา  ได้หรือมีในกัมมัฏฐานทั้งสิ้น.
+<span class="LineNumber"> 016 </span>	อุปจารภาวนา  ได้หรือมีในกัมมัฏฐาน  ๑๐  คือ  อนุสสติ  ๗๘
+<span class="LineNumber"> 017 </span>	(เว้นกายคตาสติกับอานาปานัสสติ)   อาหาเรปฏิกูลสัญญา ๑
+<span class="LineNumber"> 018 </span>จตุธาตุววัตถาน  ๑.
+<span class="LineNumber"> 019 </span>	อัปปนาภาวนา  ได้หรือมีในกัมมัฏฐาน  ๓๐  คือ  กสิณ  ๑๐
+<span class="LineNumber"> 020 </span>อสุภ  ๑๐  อานาปานัสสติ  ๑  กายคตาสติ  ๑  พรหมวิหาร  ๔  อรูป  ๔.
+<span class="LineNumber"> 021 </span>	กัมมัฏฐาน  ๓๐  ที่ให้สำเร็จอัปปนาภาวนานั้น  มีอานุภาพต่าง ๆ
+
+
+	

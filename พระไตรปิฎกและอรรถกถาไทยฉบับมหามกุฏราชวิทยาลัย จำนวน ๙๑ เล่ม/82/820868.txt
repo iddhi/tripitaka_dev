@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>บุคคลผู้ที่เข้าถึงความเป็นผู้เคยรู้อริยสัจ  ๔  มาแล้ว     ทุกขสัจจะเคยเกิด
+<span class="LineNumber"> 002 </span>และมัคคสัจจะก็เคยเกิดแก่บุคคลเหล่านั้น. 
+<span class="LineNumber"> 003 </span>         ก็หรือว่า   มัคคสัจจะเคยเกิดแก่บุคคลใด,     ทุกขสัจจะก็เคยเกิด
+<span class="LineNumber"> 004 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>                             <I>จบ  ทุกขสัจจะ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 007 </span>                                      <I>ทุกขสัจจมูล  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                       <H1>สมุทยสัจจมูล</H1> 
+<span class="LineNumber"> 009 </span><H2>สมุทยสัจจมูละ  มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๘๕๑]   สมุทยสัจจะเคยเกิดแก่บุคคลใด,          มัคคสัจจะก็เคย
+<span class="LineNumber"> 011 </span>เกิดแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         บุคคลผู้ที่ยังไม่เข้าถึงความเป็นผู้เคยรู้อริยสัจ  ๔  มานั้น  สมุทย-
+<span class="LineNumber"> 013 </span>สัจจะเคยเกิดแก่บุคคลเหล่านั้น       แต่มัคคสัจะไม่ใช่เคยเกิดแก่บุคคล
+<span class="LineNumber"> 014 </span>เหล่านั้น,     บุคคลผู้ที่เข้าถึงความเป็นผู้เคยรู้อริยสัจ ๔ มาแล้ว  สมุทย-
+<span class="LineNumber"> 015 </span>สัจจะเคยเกิด   และมัคคสัจจะก็เคยเกิดแก่บุคคลเหล่านั้น.

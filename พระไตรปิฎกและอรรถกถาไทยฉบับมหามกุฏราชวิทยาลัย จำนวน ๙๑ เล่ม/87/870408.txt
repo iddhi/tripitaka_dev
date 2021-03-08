@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ   ขันธ์ ๑ ที่เป็นมหัคคตธรรม    เป็นปัจจัยแก่ขันธ์ ๓ ด้วยอำนาจ 
+<span class="LineNumber"> 002 </span>ของอัญญมัญญปัจจัย ฯลฯ
+<span class="LineNumber"> 003 </span>           ในปฏิสนธิขณะ  ฯลฯ 
+<span class="LineNumber"> 004 </span>           [๑๔๕๘] ๔.  <B>มหัคคตธรรม  เป็นปัจจัยแก่ปริตตธรรม ฯลฯ</B>
+<span class="LineNumber"> 005 </span>           คือ   ในปฏิสนธิขณะ   ขันธ์ทั้งหลายที่เป็นมหัคคตธรรม   เป็นปัจจัย
+<span class="LineNumber"> 006 </span>แก่หทยวัตถุ  ด้วยอำนาจของอัญญมัญญปัจจัย.
+<span class="LineNumber"> 007 </span>           [๑๔๕๙]  ๕.  <B>มหัคคตธรรม   เป็นปัจจัยแก่ปริตตธรรม    และ
+<span class="LineNumber"> 008 </span>มหัคคตธรรม  ฯลฯ</B>
+<span class="LineNumber"> 009 </span>           คือ   ในปฏิสนธิขณะ   ขันธ์ ๑ ที่เป็นมหัคคตธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 010 </span>ขันธ์ ๓ และหทยวัตถุ   ด้วยอำนาจของอัญญมัญญปัจจัย ฯลฯ
+<span class="LineNumber"> 011 </span>           [๑๔๖๐] ๖.  <B>อัปปมาณธรรม เป็นปัจจัยแก่อัปปมาณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 012 </span>           คือ   ขันธ์ ๑ ที่เป็นอัปปมาณธรรม   เป็นปัจจัยแก่ขันธ์ ๓ ด้วยอำนาจ
+<span class="LineNumber"> 013 </span>ของอัญญมัญญปัจจัย ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 014 </span>           [๑๔๖๑] ๗.  <B>ปริตตธรรม   และมหัคคตธรรม   เป็นปัจจัยแก่
+<span class="LineNumber"> 015 </span>มหัคคตธรรม  ด้วยอำนาจอัญญมัญญปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ   ในปฏิสนธิขณะ  ขันธ์ ๑  ทีเป็นมหัคคตธรรม  และหทยวัตถุ
+<span class="LineNumber"> 017 </span>เป็นปัจจัยแก่ขันธ์ ๓  ด้วยอำนาจของอัญญมัญญปัจจัย ฯลฯ
+
+
+

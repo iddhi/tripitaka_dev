@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  18  ปาปวคฺควณฺณนา หน้า  10
+
+<span class="LineNumber"> 002 </span>มา  เม  อนาคเต  จิตฺตวีชนึ  คเหตฺวา  นิสินฺเนหิ  ธมฺมกถิเกหิ
+<span class="LineNumber"> 003 </span>มหากสฺสปตฺเถรสฺส  กิร  เอกา  เทวธีตา  อาคนฺตฺวา  วตฺตปฏิวตฺตํ
+<span class="LineNumber"> 004 </span>กตฺวา  ปานียํ  ปริโภชนียํ  อุปฏฺ€าเปตีติ  (๑)  วตฺตพฺพตํ  กริ  อิโต
+<span class="LineNumber"> 005 </span>ปฏฺ€าย  อิธ  มาคมิ  ปฏิกฺกมาติ ฯ  สา  มา  มํ  ภนฺเต
+<span class="LineNumber"> 006 </span>นาเสถาติ  ปุนปฺปุนํ  ยาจิเทว ฯ  เถโร  นายํ  มม  วจนํ
+<span class="LineNumber"> 007 </span>สุณาตีติ  จินฺเตตฺวา  ตว  ปมาณํ  น  ชานาสีติ  อจฺฉรํ
+<span class="LineNumber"> 008 </span>ปหริ ฯ  สา  ตตฺถ  สณฺ€าตุํ  อสกฺโกนฺตี  อากาเส  อุปฺปติตฺวา
+<span class="LineNumber"> 009 </span>อฺชลึ  ปคฺคยฺห  ภนฺเต  มยา  ลทฺธสมฺปตฺตึ  มา  นาเสถ
+<span class="LineNumber"> 010 </span>ถาวรํ  กาตุํ  เทถาติ  โรทนฺตี  [๒]  อากาเส  อฏฺ€าสิ ฯ
+<span class="LineNumber"> 011 </span>	สตฺถา  คนฺธกุฏิยํ  นิสินฺโนว  ตสฺสา  โรทิตสทฺทํ  สุตฺวา
+<span class="LineNumber"> 012 </span>โอภาสํ  ผริตฺวา  เทวธีตาย  สมฺมุเข  นิสีทิตฺวา  กเถนฺโต
+<span class="LineNumber"> 013 </span>วิย  เทวธีเต  มม  ปุตฺตสฺส  กสฺสปสฺส  สํวรกรณเมว  ภาโร
+<span class="LineNumber"> 014 </span>ปุฺตฺถิกานมฺปน  อยํ  โน  อตฺโถติ  สลฺลกเขตฺวา ปุฺกรณเมว
+<span class="LineNumber"> 015 </span>ภาโร  ปุฺกรณํ  หิ  อิธ  เจว  สมฺปราเย  จ  สุขเมวาติ
+<span class="LineNumber"> 016 </span>วตฺวา  อนุสนฺธึ  ฆเฏตฺวา ธมฺมํ  เทเสนฺโต  อิมํ  คาถมาห
+<span class="LineNumber"> 017 </span>	ปุฺฺเจ  ปุริโส  กยิรา  	กยิราเถนํ  ปุนปฺปุนํ
+<span class="LineNumber"> 018 </span>	ตมฺหิ  ฉนฺทํ  กยิราถ  สุโข  	ปุฺสฺส  อุจฺจโยติ ฯ
+<span class="LineNumber"> 019 </span>	ตสฺสตฺโถ  สเจ  ปุริโส  ปุฺํ  กเรยฺย  เอกวารํ  เม
+<span class="LineNumber"> 020 </span>ปุฺํ  กตํ  อลํ  เอตฺตาวตาติ  อโนรมิตฺวา  ปุนปฺปุนํ  กโรถ(๓)
+<span class="LineNumber"> 021 </span># ๑.  อุปฏฺ€าเปสีติ  ยุตฺตตรํ ฯ
+<span class="LineNumber"> 022 </span># ๒.  ยุ.  เอตฺถนฺตเร  ปริเทวนฺตีติ  ทิสฺสติ ฯ
+<span class="LineNumber"> 023 </span># ๓.  สี. ยุ. กโรเถว ฯ

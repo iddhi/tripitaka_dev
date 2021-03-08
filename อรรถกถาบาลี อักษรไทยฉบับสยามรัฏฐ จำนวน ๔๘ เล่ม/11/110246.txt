@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๒๔๖
+
+<span class="LineNumber"> 002 </span>				เอกนฺตทุกฺขสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ปฺจเม  เอกนฺตทุกฺขาติ  อติกฺกมิตฺวา  €ิตสฺส  ตตฺตกาโร  (๑)
+<span class="LineNumber"> 004 </span>วิย  เอกนฺเตเนว  ทุกฺขา ฯ  ทุกฺขานุปติตาติ  ทุกฺเขน  อนุปติตา ฯ
+<span class="LineNumber"> 005 </span>ทุกฺขาวกฺกนฺตาติ ทุกฺเขน  โอกฺกนฺตา  โอติณฺณา ฯ  ทุกฺข-
+<span class="LineNumber"> 006 </span>เวทนาย ปจฺจยภูตา (๒) เอวํ สพฺพตฺถ อตฺโถ เวทิตพฺโพ ฯ
+<span class="LineNumber"> 007 </span>อิมสฺมึ สุตฺเต ทุกฺขลกฺขณํ กถิตํ ฯ
+<span class="LineNumber"> 008 </span>				ปฺจมํ ฯ
+
+<span class="LineNumber"> 009 </span>				อภินนฺทสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 010 </span>	ฉฏฺ€สตฺตเมสุ  วิวฏฺฏํ  อวสาเน  ตีสุ  จตุสจฺจเมวาติ ฯ  
+<span class="LineNumber"> 011 </span>				ฉฏฺ€าทีนิ ฯ                    
+<span class="LineNumber"> 012 </span>				จตุตฺโถ วคฺโค ฯ           
+<span class="LineNumber"> 013 </span>				ธาตุสํยุตฺตวณฺณนา นิฏฺ€ิตา ฯ         
+<span class="LineNumber"> 014 </span># ๑. ม. €ิตสฺส ตตฺตกาโร ฯ  ๒. ม. โอติณฺณา สุขาติ สุขเวทนาย 
+<span class="LineNumber"> 015 </span># ปจฺจยภูตา ฯ

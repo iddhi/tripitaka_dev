@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         พึงกระทำมูล  (วาระที่ ๘)
+<span class="LineNumber"> 002 </span>         วาระที่ ๙ แม้นอกนี้  ก็พึงกระทำ.
+
+<span class="LineNumber"> 003 </span>                 <H2>๑๐.   นกัมมปัจจัย   ฯลฯ   ๑๖.  นสัมปยุตตปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         <B>ฯลฯ   เพราะกัมมปัจจัย</B>   มี ๒ วาระ  ฯลฯ
+<span class="LineNumber"> 005 </span>         <B>ฯลฯ   เพราะนวิปยุตตปัจจัย</B>  มี ๓ วาระ
+
+<span class="LineNumber"> 006 </span>                                  <H2>๑๗.  นวิปปยุตตปัจจัย</H2>
+<span class="LineNumber"> 007 </span>         [๗๕๗] ๑.  <B>ธรรมที่ไม่ใช่รูปาวจรธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 008 </span>รูปาวจรธรรม  เกิดขึ้น  เพราะนวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 009 </span>         คือ  ในอรูปภูมิ  ขันธ์ ๓  อาศัยขันธ์ ๑ ที่ไม่ใช่รูปาวจรธรรม ฯลฯ
+<span class="LineNumber"> 010 </span>ขันธ์ ๒.
+<span class="LineNumber"> 011 </span>         พาหิรรูป...  อาหารสมุฏฐานรูป...   อุตุสมุฏฐานรูป ฯลฯ    ส่วน
+<span class="LineNumber"> 012 </span>อสัญญสัตว์ทั้งหลาย ฯลฯ
+
+<span class="LineNumber"> 013 </span>                                                ฯลฯ
+<span class="LineNumber"> 014 </span>                            <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 015 </span>         [๗๕๘]  ในนเหตุปัจจัย มี ๑ วาระ ในนอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 016 </span>ในนอธิปติปัจจัย มี ๙ วาระ   ในนอนันตรปัจจัย มี ๓ วาระ  ในนสมนันตร-
+<span class="LineNumber"> 017 </span>ปัจจัย มี ๓ วาระ  ในนอุปนิสสยปัจจัย มี ๓ วาระ   ในนปุเรชาตปัจจัย มี  ๙
+<span class="LineNumber"> 018 </span>วาระ   ในนปัจฉาชาตปัจจัย  มี ๙ วาระ   ในนอาเสวนปัจจัย มี ๙ วาระ    ใน

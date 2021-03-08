@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  พนฺธนาคารชาตกํ  หน้า  219
+
+<span class="LineNumber"> 002 </span>ฌานกีฬาย  กีฬนฺโต  วิหาสิ ฯ  โส  ตตฺถ  วสนฺโต  เอวรูปมฺปิ 
+<span class="LineNumber"> 003 </span>นาเมตํ  ทุจฺฉินฺทิยํ  ปุตฺตทารพนฺธนํ  กิเลสพนฺธนํ  ฉินฺทินฺติ  (๒)
+<span class="LineNumber"> 004 </span>อุทานํ  อุทาเนนฺโต  อิมา  คาถา อโวจ  
+<span class="LineNumber"> 005 </span>	[๒๕๑]	น ตํ ทฬฺหํ พนฺธนมาหุ ธีรา  
+<span class="LineNumber"> 006 </span>			ยทายสํ ทารูชํ ปพฺพชฺจ  
+<span class="LineNumber"> 007 </span>			สารตฺตรตฺตา มณิกุณฺฑเลสุ  
+<span class="LineNumber"> 008 </span>			ปุตฺเตสุ ทาเรสุ จ ยา อเปกฺขา ฯ  
+<span class="LineNumber"> 009 </span>	[๒๕๒]	เอตํ ทฬฺหํ พนฺธนมาหุ ธีรา  
+<span class="LineNumber"> 010 </span>			โอหารินํ สิถิลํ ทุปฺปมุฺจํ (๓) 
+<span class="LineNumber"> 011 </span>			เอตมฺปิ เฉตฺวาน วชนฺติ ธีรา  
+<span class="LineNumber"> 012 </span>			อนเปกฺขิโน กามสุขํ ปหายาติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  ธีราติ  (๔) ธิติมาติ  ธีรา  วิคตปาปาติ ธีรา (๔) อถ
+<span class="LineNumber"> 014 </span>วา ธี  วุจฺจติ  ปฺา  ตาย  ปฺาย  สมนฺนาคตาติ  
+<span class="LineNumber"> 015 </span>ธีรา  พุทฺธา  ปจฺเจกพุทฺธา  พุทฺธสาวกา  โพธิสตฺตา  จ  อิเม
+<span class="LineNumber"> 016 </span>ธีรา  นาม ฯ  ยทายสนฺติ  อาทีสุ  ยํ  สงฺขลิกสงฺขาตํ  อยสา  นิพฺพตฺตํ  
+<span class="LineNumber"> 017 </span>อยสํ (๕) อนฺทุพนฺธนสงฺขาตํ  ทารุชํ  ยฺจ  ปพฺพชติเณหิ  วา
+<span class="LineNumber"> 018 </span>อฺเหิ  วา  วากาทีหิ  รชฺชุํ  กตฺวา  กตํ  รชฺชุพนฺธนํ  ตํ  [๖]
+<span class="LineNumber"> 019 </span>ธีรา  ทฬฺหํ  ถิรนฺติ  นาหุ  น  กเถนฺติ ฯ  สารตฺตรตฺตาติ  สารตฺตา  
+<span class="LineNumber"> 020 </span># ๑. ม. ฌานกีฬํ ฯ  ๒. ม. ฉินฺทิตนิติ ฯ  ๓. ขุ. ชา. ๒๗/๒๕๒/๗๔ 
+<span class="LineNumber"> 021 </span>สิถิลทุปฺปมุิจํ ฯ  ๔. ม. ธิติมนฺตา  ธิกฺกตปาปาติ ธีรา ฯ  
+<span class="LineNumber"> 022 </span># ๕. ม. อายสํ ฯ  เอวมุปริปิ ฯ  ๖. ม. เอตฺถนฺตเร อายสาทึ 
+<span class="LineNumber"> 023 </span>ฉินฺทิตุํ สกฺกุเณยฺยภาเวนาติ ทิสฺสติ ฯ

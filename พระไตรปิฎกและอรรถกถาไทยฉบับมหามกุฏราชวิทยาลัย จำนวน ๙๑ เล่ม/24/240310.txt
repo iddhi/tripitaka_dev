@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๗.  อิสสรสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>         [๒๑๑]   เทวดาทูลถามว่า
+<span class="LineNumber"> 003 </span>                             <B>อะไรหนอเป็นใหญ่ในโลก    อะไร
+<span class="LineNumber"> 004 </span>                   หนอเป็นสูงสุดแต่งภัณฑะทั้งหลาย  อะไร
+<span class="LineNumber"> 005 </span>                   หนอเป็นดังสนิมศัสตราในโลก  อะไรหนอ
+<span class="LineNumber"> 006 </span>                   เป็นเสนียดในโลก  ใครหนอนำของไปอยู่
+<span class="LineNumber"> 007 </span>                   ย่อมถูกห้าม     แต่ใครนำไปกลับเป็นที่รัก
+<span class="LineNumber"> 008 </span>                   ใครหนอมาหาบ่อย ๆ  บัณฑิตย่อมยินดี
+<span class="LineNumber"> 009 </span>                   ต้อนรับ.</B>
+<span class="LineNumber"> 010 </span>          [๒๑๒]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 011 </span>                             <B>อำนาจเป็นใหญ่ในโลก    หญิงเป็น
+<span class="LineNumber"> 012 </span>                   สูงสุดแห่งภัณฑะทั้งหลาย  ความโกรธเป็น
+<span class="LineNumber"> 013 </span>                   ดังสนิมศัสตราในโลก  พวกโจรเป็นเสนียด
+<span class="LineNumber"> 014 </span>                   ในโลก  โจรนำของไปอยู่ย่อมถูกห้าม  แต่
+<span class="LineNumber"> 015 </span>                   สมณะนำไปกลับเป็นที่รัก    สมณะมาหา
+<span class="LineNumber"> 016 </span>                   บ่อย ๆ บัณฑิตย่อมยินดีต้อนรับ.</B>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>            คือ  ขันธ์ ๓   อาศัยขันธ์ ๑    ที่เป็นมหัคคตารัมมณธรรม    ซึ่งเป็น 
+<span class="LineNumber"> 002 </span>อเหตุกะ  ฯลฯ   อาศัยขันธ์ ๒ ฯลฯ   โมหะ   ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคต
+<span class="LineNumber"> 003 </span>ด้วยอุทธัจจะ  อาศัยขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 004 </span>           [๑๕๔๘] ๓.  <B>อัปปมาณารัมมณธรรม อาศัยอัปปมาณารัมมณ-
+<span class="LineNumber"> 005 </span>ธรรม  ฯลฯ  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑   ที่เป็นอัปปมาณารัมมณธรรม   ซึ่งเป็น
+<span class="LineNumber"> 007 </span>อเหตุกะ ฯลฯ  อาศัยขันธ์ ๒.
+
+<span class="LineNumber"> 008 </span>                                      <H1>๒.  นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๕๔๙] ๑.  <B>ปริตตารัมมณธรรม    อาศัยปริตตารัมมณธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑ ที่เป็นปริตตารัมมณธรรม ฯลฯ  อาศัย
+<span class="LineNumber"> 012 </span>ขันธ์ ๒ ฯลฯ  โนปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 013 </span>           [๑๕๕๐] ๒.  <B>มหัคคตารัมมณธรรม    อาศัยมหัคคตารัมมณ-
+<span class="LineNumber"> 014 </span>ธรรม  เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นมหัคคตารัมมณธรรม ฯลฯ อาศัย
+<span class="LineNumber"> 016 </span>ขันธ์ ๒ ฯลฯ  ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 017 </span>           [๑๕๕๑] ๓.  <B>อัปปมาณารัมมณธรรม อาศัยอัปปมาณารัมมณ-
+<span class="LineNumber"> 018 </span>ธรรม ฯลฯ  เพราะนอธิปติปัจจัย</B>
+

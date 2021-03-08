@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  วคฺคุทฺทานํ  หน้า  421
+
+<span class="LineNumber"> 002 </span>					วคฺคุทฺทานํ
+<span class="LineNumber"> 003 </span>				ทฬฺหิจ วคฺคํ อปเรน สนฺถวํ
+<span class="LineNumber"> 004 </span>				กลิยาณวคฺคาสทิโส จ รุหกํ
+<span class="LineNumber"> 005 </span>				นตํทฬฺหํ พีรณตฺถมฺภกา ปุน
+<span class="LineNumber"> 006 </span>				กาสาวุปาหนสิคาลเกน ทสาติ (๑) ฯ
+
+<span class="LineNumber"> 007 </span>				ทุกนิปาตวณฺณนา  นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 008 </span>				______________________
+<span class="LineNumber"> 009 </span># ๑. ม. 	ทฬฺหวคฺโค จ สนฺถโว	กลฺยาณธมฺมาสทิโส ฯ
+<span class="LineNumber"> 010 </span>		รูหโก ทฬฺหวคฺโค จ 		พีรณตฺถมฺภกาสาโว
+<span class="LineNumber"> 011 </span>		อุปาหโน สิงฺคาโล จ		ทสวคฺคา ทุเก สิยุํ ฯ

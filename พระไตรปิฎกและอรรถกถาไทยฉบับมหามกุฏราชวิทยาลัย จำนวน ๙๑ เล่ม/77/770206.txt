@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>         <B>โสมนัสสธาตุ</B>  เป็นไฉน  ? 
+<span class="LineNumber"> 002 </span>         ความสบายใจ   ความสุขใจ   ความเสวยอารมณ์ที่สบายเป็นสุขอันเกิด
+<span class="LineNumber"> 003 </span>แต่เจโตสัมผัส    กิริยาเสวยอารมณ์ที่สบายเป็นสุขเกิดแต่เจโตสัมผัส   นี้เรียกว่า
+<span class="LineNumber"> 004 </span>โสมนัสสธาตุ.
+<span class="LineNumber"> 005 </span>         <B>โทมนัสสชาตุ</B>    เป็นไฉน  ?
+<span class="LineNumber"> 006 </span>         ความไม่สบายใจ  ความทุกข์ใจ  ความเสวยอารมณ์ที่ไม่สบายเป็นทุกข์
+<span class="LineNumber"> 007 </span>เกิดแต่เจโตสัมผัส   กิริยาเสวยอารมณ์ที่ไม่สบายเป็นทุกข์เกิดแต่เจโตสัมผัส   นี้
+<span class="LineNumber"> 008 </span>เรียกว่า   โทมนัสสธาตุ.
+<span class="LineNumber"> 009 </span>         <B>อุเปกขาธาตุ</B>  เป็นไฉน   ?
+<span class="LineNumber"> 010 </span>         ความสบายใจก็ไม่ใช่   ความไม่สบายใจก็ใม่ใช่   ความเสวยอารมณ์ไม่
+<span class="LineNumber"> 011 </span>ทุกข์ไม่สุขเกิดแต่เจโตสัมผัส  กิริยาเสวยอารมณ์ไม่ทุกข์ไม่สุขเกิดแต่เจโตสัมผัส
+<span class="LineNumber"> 012 </span>นี้เรียกว่า   อุเปกขาธาตุ.
+<span class="LineNumber"> 013 </span>         <B>อวิชชาธาตุ</B>    เป็นไฉน  ? 
+<span class="LineNumber"> 014 </span>         ความไม่รู้  ความไม่เห็น  ฯลฯ<SUP>*</SUP>   ลิ่มคืออวิชชา  อกุศลมูล   คือโมหะ
+<span class="LineNumber"> 015 </span>นี้เรียกว่า   อวิชชาธาตุ.
+<span class="LineNumber"> 016 </span>                                 <I>สภาวธรรมเหล่านี้เรียกว่า  ธาตุ  ๖.</I>
+
+<span class="LineNumber"> 017 </span>                                            <H1>ธาตุ   ๖   นัยที่  ๓</H1>
+<span class="LineNumber"> 018 </span>         [๑๒๒]   ธาตุ   ๖  อีกนัยหนึ่ง  คือ
+<span class="LineNumber"> 019 </span>                           <B>๑.  กามธาตุ
+<span class="LineNumber"> 020 </span>                           ๒.  พยาปาทธาตุ</B>
+<span class='footnote'><SUP>*</SUP>  ความที่  ฯลฯ  พึงดูในธรรมสังคณีปกรณ์  ข้อ(๓๐๐).</span>

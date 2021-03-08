@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๕๒๓
+
+<span class="LineNumber"> 002 </span>					กุกฺกุฬสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 003 </span>	กุกฺกุฬวคฺคสฺส  ป€เม  กุกฺกุฬนฺติ  สนฺตตฺตํ  อาทิตฺตํ  
+<span class="LineNumber"> 004 </span>ฉาริกราสึ วิย  มหาปริฬาหํ ฯ  อิมสฺมึ  สุตฺเต  ทุกฺขลกฺขณํ 
+<span class="LineNumber"> 005 </span>กถิตํ เสเสสุ อนิจฺจลกฺขณาทีนิ ฯ สพฺพานิเปตานิ (๑) ปาฏิเอกฺกํ 
+<span class="LineNumber"> 006 </span>ปุคฺคลชฺฌาสเยน กถิตานีติ ฯ       
+<span class="LineNumber"> 007 </span>			กุกฺกุฬวคฺโค จตุตฺโถ ฯ          
+
+<span class="LineNumber"> 008 </span>				อชฺฌตฺตสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 009 </span>	ทิฏฺ€ิวคฺคสฺส  ป€เม  กึ  อุปาทายาติ  กึ  ปฏิจฺจ    ทุติเย  
+<span class="LineNumber"> 010 </span>กึ  อภินิวิสฺสาติ  กึ  อภินิวิสิตฺวา  ปจฺจยํ  กตฺวาติ  อตฺโถ ฯ 
+<span class="LineNumber"> 011 </span>ตติยาทีสุ ทิฏฺ€ีติอาทีนิ ปุคฺคลชฺฌาสเยน วุตฺตานิ ฯ 
+<span class="LineNumber"> 012 </span>				ป€มาทีนิ ฯ         
+
+<span class="LineNumber"> 013 </span>				อานนฺทสุตฺตวณฺณนา           
+<span class="LineNumber"> 014 </span>	ทสเม  (๒)  อุปสงฺกมีติ  อฺเ  ภิกฺขู  ปฺจกฺขนฺธกมฺมฏฺ€านํ 
+<span class="LineNumber"> 015 </span>กถาเปตฺวา  ยุฺชิตฺวา  ฆเฏตฺวา  อรหตฺตํ  ปตฺวา สตฺถุ สนฺติเก 
+<span class="LineNumber"> 016 </span>อฺํ พฺยากโรนฺเต ทิสฺวา  อหมฺปิ  ปฺจกฺขนฺธกมฺมฏฺ€านํ  
+<span class="LineNumber"> 017 </span>กถาเปตฺวา  ยุฺชนฺโต  ฆเฏนฺโต  อรหตฺตํ ปตฺวา  อฺํ 
+<span class="LineNumber"> 018 </span>พฺยากริสฺสามีติ  จินฺเตตฺวา  อุปสงฺกมิ ฯ  สตฺถา  ปน ธรมานกาเล 
+
+<span class="LineNumber"> 019 </span># ๑. ม. ยุ. สพฺพานิ เจตานิ ฯ  ๒. กตฺถจิ อานนฺทสุตฺเตติ ทิสฺสติ ฯ

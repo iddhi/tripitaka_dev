@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                       [๑๘๘]  เภสัชชักขันธก  วรรณนา
+<span class="LineNumber"> 002 </span>                                    [ว่าด้วยเภสัช]
+<span class="LineNumber"> 003 </span>           วินิจฉัยในเภสัชชักขันธกะ  พึงทราบดังนี้ :-
+<span class="LineNumber"> 004 </span>           สองบทว่า  <B>สารทิเกน  อาพาเธน</B>  ได้แก่  อาพาธมีดีเป็น
+<span class="LineNumber"> 005 </span>สมุฏฐานเกิดขึ้นในสรทกาล<SUP>๑</SUP>  จริงอยู่  ในกาลนั้น  ภิกษุทั้งหลาย
+<span class="LineNumber"> 006 </span>ย่อมเปียกด้วยน้ำฝนบ้าง, ย่อมเหยียบย่ำโคลนบ้าง,  แดดย่อมกล้า
+<span class="LineNumber"> 007 </span>ในระหว่าง ๆ  บ้าง;  เพราะเหตุนั้น  ดีของภิกษุเหล่านั้นย่อมเป็นของ
+<span class="LineNumber"> 008 </span>ซึมเข้าไปในลำไส้.
+<span class="LineNumber"> 009 </span>           สองบทว่า  <B>อาหารตฺถญฺจ  ผเรยฺย</B>  มีความว่า  วัตถุพึงยัง
+<span class="LineNumber"> 010 </span>ประโยชน์ด้วยอาหารให้สำเร็จ.
+<span class="LineNumber"> 011 </span>           บทว่า  <B>นจฺฉาเทนฺติ</B>  มีความว่า  ย่อมไม่ย่อมไป,  คือไม่สามารถ
+<span class="LineNumber"> 012 </span>จะระงับโรคลมได้.
+<span class="LineNumber"> 013 </span>           บทว่า  <B>สิเนสิกานิ</B>  ได้แก่  โภชนะที่สนิท.
+<span class="LineNumber"> 014 </span>           บทว่า  <B>ภตฺตจฺฉาทเกน</B>  คือ  ความไม่ย่อยแห่งอาหาร.
+<span class="LineNumber"> 015 </span>           ในคำว่า  <B>กาเล  ปฏิคฺคหิตํ</B>  เป็นต้น  มีความว่า  รับประเคน
+<span class="LineNumber"> 016 </span>เจียว  กรอง  ในเรื่องเวลาที่ยง  ยังไม่ล่วงเลยไป. 
+<span class="LineNumber"> 017 </span>           สองบทว่า  <B>เตลปริโภเคน  ปริภุญฺชิตุํ</B>  มีความว่า  เพื่อบริโภค
+
+<span class='footnote'>๑.  กล่าวตามฤดู ๖  ในตำราแพทย์  ไท,  สารทฤดู ได้แก่  เดือนสิบเอ็ดกับเดือนสิบสอง  และว่า</span>
+<span class='footnote'>เป็นไข้เพื่อลม.</span>

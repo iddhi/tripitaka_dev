@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>        เจ้าเรือนผู้มิใช่ญาติ  ภิกษุสงสัย   ขอจีวรเกินกำหนด  เป็นนิสสัคคีย์
+<span class="LineNumber"> 002 </span>ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 003 </span>         เจ้าเรือนผู้มิใช่ญาติ     ภิกษุสำคัญว่าเป็นญาติ     ขอจีวรเกินกำหนด
+<span class="LineNumber"> 004 </span>เป็นนิสสัคคีย์  ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 005 </span>                                             <H2>ทุกกฏ</H2>
+<span class="LineNumber"> 006 </span>        เจ้าเรือนเป็นญาติ    ภิกษุสำคัญว่ามิใช่ญาติ    ขอจีวร... ต้องอาบัติ
+<span class="LineNumber"> 007 </span>ทุกกฏ
+<span class="LineNumber"> 008 </span>        เจ้าเรือนเป็นญาติ  ภิกษุสงสัย  ขอจีวร...ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 009 </span>                                       <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 010 </span>        เจ้าเรือนเป็นญาติ  ภิกษุสำคัญว่าเป็นญาติ...ไม่ต้องอาบัติ.
+<span class="LineNumber"> 011 </span>                                        <H1>อนาปัตติวาร</H1>
+<span class="LineNumber"> 012 </span>         [๖๑]    ภิกษุนำเอาไปด้วยคิดว่า  จักนำจีวรที่เหลือมาคืน  ๑  เจ้าเรือน
+<span class="LineNumber"> 013 </span>ถวายบอกว่า   จีวรที่เหลือจงเป็นของท่านรูปเดียว  ๑   เจ้าเรือนไม่ได้ถวาย
+<span class="LineNumber"> 014 </span>เพราะเหตุจีวรถูกชิงไป  ๑    เจ้าเรือนไม่ได้ถวายเพราะเหตุจีวรหาย  ๑  ภิกษุ
+<span class="LineNumber"> 015 </span>ขอต่อญาติ  ๑  ภิกษุขอต่อคนปวารณา  ๑  ภิกษุจ่ายมาด้วยทรัพย์ของตน  ๑
+<span class="LineNumber"> 016 </span>ภิกษุวิกลจริต ๑  ภิกษุอาทิกัมมิกะ ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 017 </span>                                <I>จีวรวรรค  สิกขาบทที่  ๗  จบ</I>

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                             <H1>ปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                              <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                           <H1>๑.  เหตุปัจจัย  ฯลฯ  ๓. อธิปติปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           ใน<B>ปัญหาวาระ</B> ในเหตุปัจจัย ก็ดี ใน<B>อารัมมณปัจจัย</B>ก็ดี  ไม่พึง
+<span class="LineNumber"> 005 </span>กระทำโลกุตตระ  ควรกระทำว่า  " พระเสกขะทั้งหลาย "   ย่อมพิจารณาโคตรภู
+<span class="LineNumber"> 006 </span>ย่อมพิจารณาโวทาน  แม้ใน<B>อธิปติปัจจัย</B>   ผู้ที่รู้ปัจจัยทุกอย่างแล้ว  พึงกระทำ.
+ 
+<span class="LineNumber"> 007 </span>                                         <H1>๔.  อนันตรปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๔๐๔] ๑.  <B>ธรรมที่เป็นทั้งอาสวธรรมและสาสวธรรม     เป็น
+<span class="LineNumber"> 009 </span>ปัจจัยแก่ธรรมที่เป็นทั้งอาสวธรรม  และสาสวธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 010 </span>อนันตรปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ    อาสวธรรมทั้งหลาย    ที่เกิดก่อน ๆ    เป็นปัจจัยแก่อาสวธรรม
+<span class="LineNumber"> 012 </span>ทั้งหลาย  ที่เกิดหลัง ๆ   ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 013 </span>                       ๒.  <B>ธรรมที่เป็นทั้งอาสวธรรมและสาสวธรรม    เป็น
+<span class="LineNumber"> 014 </span>ปัจจัยแก่ธรรมที่เป็นสาสวธรรมแต่ไม่ใช่อาสวธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>อนันตรปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ   อาสวธรรมทั้งหลาย   ที่เกิดก่อน ๆ   เป็นปัจจัยแก่ขันธ์ทั้งหลาย
+<span class="LineNumber"> 017 </span>ที่เป็นสาสวธรรมแต่ไม่ใช่อาสวธรรม  ที่เกิดหลัง ๆ   ด้วยอำนาจของอนันตร-
+<span class="LineNumber"> 018 </span>ปัจจัย.

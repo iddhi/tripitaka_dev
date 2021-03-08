@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>สังสัฏฐวาระ</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         [๑๓๑] ๑.  <B>จิตตสัมปยุตตธรรม      เจือกับจิตตสัมปยุตตธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๒  เจือกับขันธ์ ๑  ที่เป็นจิตตสัมปยุตตธรรม ฯลฯ   เจือ
+<span class="LineNumber"> 007 </span>กับขันธ์ ๒.
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ ฯลฯ
+
+
+<span class="LineNumber"> 009 </span>                             <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>         [๑๓๒]  ในเหตุปัจจัย  มี ๑ วาระ     ในอารัมมณปัจจัย   มี ๑ วาระ
+<span class="LineNumber"> 011 </span>ในอธิปติปัจจัย   มี ๑ วาระ  ในปัจจัยทั้งปวง   มี ๑ วาระ   ในอวิคตปัจจัย   มี
+<span class="LineNumber"> 012 </span>๑ วาระ.
+
+<span class="LineNumber"> 013 </span>                                           <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 014 </span>                             <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 015 </span>         [๑๓๓]  ในนเหตุปัจจัย  มี ๑ วาระ     ในนอธิปติปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 016 </span>ในนปุเรชาตปัจจัย มี ๑ วาระ ในนปัจฉาชาตปัจจัย  มี ๑ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 017 </span>ปัจจัย  มี ๑ วาระ  ในนกัมมปัจจัย   มี ๑ วาระ  ในนวิปากปัจจัย มี ๑ วาระ
+<span class="LineNumber"> 018 </span>ในนฌานปัจจัย  มี ๑ วาระ  ในนมัคคปัจจัย  มี ๑ วาระ  ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 019 </span>มี ๑ วาระ.
+<span class="LineNumber"> 020 </span>         การนับทั้งสองนัยนอกนี้ก็ดี  สัมปยุตตวาระก็ดี  พึงกระทำอย่างนี้.

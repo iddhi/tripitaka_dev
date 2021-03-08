@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>นิโรธสัจจมูล</H1>
+<span class="LineNumber"> 002 </span><H2>๑.  นิโรธสัจจมูละ   ทุกขสัจจมูลี</H2>
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่านิโรธ,  ไม่ชื่อว่านิโรธสัจจะ    ใช่ไหม ? 
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่าสัจจะ,  ไม่ชื่อว่าทุกขสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>                                        ฯ ล ฯ
+<span class="LineNumber"> 007 </span>                   <I>จบ  นิโรธสัจจมูละ   ทุกขสัจจมูลี</I>
+
+<span class="LineNumber"> 008 </span><H2>๒.  นิโรธสัจจมูละ  สมุทยสัจจมูลี</H2>
+<span class="LineNumber"> 009 </span>                                         ฯ ล ฯ
+<span class="LineNumber"> 010 </span>         ธรรมที่ไม่ชื่อว่าสัจจะ,  ไม่ชื่อว่าสมุทยสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>                                         ฯ ล ฯ 
+<span class="LineNumber"> 012 </span>                  <I>จบ  นิโรธสัจจมูละ  สมุทยสัจจมูลี</I>

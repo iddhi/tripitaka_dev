@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  กนฺทคลกชาตกํ  หน้า  255
+
+<span class="LineNumber"> 002 </span>โข  โปตกกาลโต  ปฏฺ€าย  ชาตสารํ  ขทิรํ  อาสทํ (๑) สมฺปาปุณิ ฯ 
+<span class="LineNumber"> 003 </span>ยตฺถพฺภิทา  ครุโฬ  อุตฺตมงฺคนฺติ  ยตฺถพฺภิทาติ  ยสฺมึ  ขทิเร 
+<span class="LineNumber"> 004 </span>อภินฺทิ  ปทาลยิ ฯ  ครุโฬติ  สกุโณ (๒)  สพฺพสกุณานํ เหตํ 
+<span class="LineNumber"> 005 </span>สคารวสมฺปติสฺสวจนํ (๓) ฯ  
+<span class="LineNumber"> 006 </span>	อิติ  นํ  ขทิรวนิโย  โภ  กนฺทคลก  ยตฺถ  ตฺวํ  อุตฺตมงฺคํ  
+<span class="LineNumber"> 007 </span>อภินฺทิ  ขทิโร  นาเมส  สารรุกฺโขติ  อาห ฯ  โส  ตตฺเถว 
+<span class="LineNumber"> 008 </span>ชีวิตกฺขยํ  ปาปุณิ ฯ  
+<span class="LineNumber"> 009 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  ชาตกํ  สโมธาเนสิ 
+<span class="LineNumber"> 010 </span>ตทา  กนฺทคลโก เทวทตฺโต อโหสิ ขทิรวนิโย ปน อหเมวาติ ฯ  
+<span class="LineNumber"> 011 </span>			กนฺทคลกชาตกํ ทสมํ ฯ  
+<span class="LineNumber"> 012 </span>			นตํทฬฺหวคฺโค ฉฏฺโ€ ฯ  
+
+<span class="LineNumber"> 013 </span>				ตสฺสุทฺทานํ
+<span class="LineNumber"> 014 </span>		ทฬฺหพนฺธน หํสวโร จ ปุน
+<span class="LineNumber"> 015 </span>		วิรูปกฺข สวิฏฺ€ก มจฺฉโร
+<span class="LineNumber"> 016 </span>		สกุรุงฺค สอสฺสก อมฺพวโร 
+<span class="LineNumber"> 017 </span>   		ปุน กุกฺกุฏโก ครุเฬน ทส (๔) ฯ
+<span class="LineNumber"> 018 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. สกุเณสูติปิ ฯ  ๓. ม. สคารวสปฺปติสิส วจนํ ฯ
+<span class="LineNumber"> 019 </span># ๔. ม. พนฺธนาคารํ 		ขณฺฑํ วีรกคงฺเคยฺยํ ฯ  
+<span class="LineNumber"> 020 </span>   	กุรุงฺคมสฺสกฺเจว	สุสุมารฺจ กุกฺกุฏํ ฯ
+<span class="LineNumber"> 021 </span>   			กนฺฑคลกนฺติ เต ทส ฯ

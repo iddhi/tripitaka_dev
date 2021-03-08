@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                             <B>พ.  ผู้ที่แกล้งต้องอาบัติ  ปกปิดอาบัติ  
+<span class="LineNumber"> 002 </span>                   และถึงอคติ    คนเช่นนี้เราเรียกว่า    อลัชชี 
+<span class="LineNumber"> 003 </span>                   บุคคล.</B> 
+
+<span class="LineNumber"> 004 </span>                                          <H1>ลัชชีบุคคล</H1>
+<span class="LineNumber"> 005 </span>                             [๑,๐๗๑]  <B>อุ.  จริง   พระพุทธเจ้าข้า
+<span class="LineNumber"> 006 </span>                   แม้ข้าพระพุทธเจ้าก็ทราบเกล้าว่าคนเช่นนี้
+<span class="LineNumber"> 007 </span>                   เป็นอลัชชีบุคคล  แต่ข้าพระพุทธเจ้าทูลถาม
+<span class="LineNumber"> 008 </span>                   พระองค์ถึงข้ออื่น  คนเช่นไร พระองค์ตรัส
+<span class="LineNumber"> 009 </span>                   เรียกว่า  ลัชชีบุคคล
+<span class="LineNumber"> 010 </span>                             พ.  ผู้ที่ไม่แกล้งต้องอาบัติ  ไม่ปกปิด
+<span class="LineNumber"> 011 </span>                   อาบัติ  ไม่ถึงอคติคนเช่นนี้เราเรียกว่า  ลัชชี 
+<span class="LineNumber"> 012 </span>                   บุคคล.</B>
+
+<span class="LineNumber"> 013 </span>                                <H1>บุคคลผู้โจทก์ไม่เป็นธรรม</H1>
+<span class="LineNumber"> 014 </span>                             [๑,๐๗๒]  <B>อุ.  จริง   พระพุทธเจ้าข้า
+<span class="LineNumber"> 015 </span>                   แม้ข้าพระพุทธเจ้าก็ทราบเกล้าว่า  คนเช่นนี้
+<span class="LineNumber"> 016 </span>                   ตรัสเรียกว่า   ลัชชีบุคคล  แต่ข้าพระพุทธเจ้า
+<span class="LineNumber"> 017 </span>                   ทูลถามพระองค์ถึงผู้อื่น คนเช่นไรตรัสเรียก
+<span class="LineNumber"> 018 </span>                   ว่า  ผู้โจทก์ไม่เป็นธรรม</B>

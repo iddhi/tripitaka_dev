@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           		<H2>การนับจำนวนวาระในอนุโลม</H2>    
+<span class="LineNumber"> 002 </span>		[๑๘๕๑]  ในเหตุปัจจัย  มี ๑ วาระ    ในอารัมมณปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑  วาระ.  
+<span class="LineNumber"> 004 </span>             สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  มี ๑ วาระ   ทุกปัจจัย.
+              
+<span class="LineNumber"> 005 </span>    		           <H1>เนวเสกขานาเสกขบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 006 </span>                      		   <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 007 </span>                              	<H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๑๘๕๒]  ๑.  เนวเสกขานาเสกขธรรมที่เป็นสรณธรรม  อาศัย
+<span class="LineNumber"> 009 </span>เนวเสกขานาเสกขธรรมที่เป็นสรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                            ๒.  เนวเสกขานาเสกขธรรมที่เป็นอรณธรรม   อาศัย
+<span class="LineNumber"> 011 </span>เนวเสกขานาเสกขธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                            ๓.  เนวเสกขานาเสกขธรรมที่เป็นอรณธรรม  อาศัย
+<span class="LineNumber"> 013 </span>เนวเสกขานาเสกขธรรมที่เป็นสรณธรรม     และเนวเสกขานาเสกข-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นอรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย                
+<span class="LineNumber"> 015 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>		[๑๘๕๓]  ในเหตุปัจจัย มี ๕ วาระ     ในอารัมมณปัจจัย  มี ๒ วาระ
+<span class="LineNumber"> 017 </span>ในอธิปติปัจจัย  มี  ๕  วาระ ฯลฯ  ในอวิคตปัจจัย  มี  ๕  วาระ.
+<span class="LineNumber"> 018 </span>สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี   มี ๑ วาระ   ทุกปัจจัย.
+<span class="LineNumber"> 019 </span>			     <I>สรณทุกเสกขติกะ  จบ</I>

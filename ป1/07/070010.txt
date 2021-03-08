@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>	ถัดปลายลิ้นเข้ามา  เป็นกรณ์ของอักขระที่เป็น  มุทธชะ  คือ  ฏ €
+<span class="LineNumber"> 002 </span>ฑ ฒ  ณ,  ร  ฬ.  
+<span class="LineNumber"> 003 </span>	ปลายลิ้นเป็นกรณ์ของอักขระที่เป็นทันตชะ คือ ต ถ ท ธ น, ล ส.
+<span class="LineNumber"> 004 </span>	ฐานของตน  เป็นกรณ์ของอักขระที่เหลือจากนี้ คือ ที่เป็นกัณฐชะ
+<span class="LineNumber"> 005 </span>บ้าง  โอฏฐชะบ้าง  นาสิกัฏฐานชะบ้าง  และของอักขระที่เกิดใน ๒ ฐาน
+<span class="LineNumber"> 006 </span>ทั้งหมด. 
+<span class="LineNumber"> 007 </span>                                       เสียงอักขระ
+<span class="LineNumber"> 008 </span>	มาตราที่จะว่าอักขระนั้น  ดังนี้ :-  สระสั้นมาตราเดียว, สระ
+<span class="LineNumber"> 009 </span>ยาว ๒ มาตรา, สระที่มีพยัญชนะสังโยคอยู่เบื้องหลัง ๓ มาตรา, ส่วน
+<span class="LineNumber"> 010 </span>พยัญชนะทุก ๆ ตัว  กึ่งมาตรา แม้พยัญชนะควบกัน เช่น  ตฺย  มฺห
+<span class="LineNumber"> 011 </span>วฺห  เป็นต้น  ก็กึ่งมาตรา  ท่านกำหนดระยะเสียงของอักขระ  เทียบ
+<span class="LineNumber"> 012 </span>กับวินาที  ดังนี้ :-
+<span class="LineNumber"> 013 </span>	สระสั้น ๑ ตัว  =  ๑/๒  วินาที  (ครึ่งวินาที)
+<span class="LineNumber"> 014 </span>	สระยาว ๑ ตัว =  ๑ วินาที  
+<span class="LineNumber"> 015 </span>	สระที่มีพยัญชนะสังโยคอยู่เบื้องหลัง  = ๑  ๑/๒ วินาที  (วินาทีครึ่ง)
+<span class="LineNumber"> 016 </span>พยัญชนะตัวหนึ่ง ๆ  = ๑/๔  วินาที                  (หนึ่งใน ๔ ของวินาที)
+<span class="LineNumber"> 017 </span>พยัญชนะควบ เช่น ตฺย  = ๑/๔  "                      (หนึ่งใน ๔ ของวินาที)
+<span class="LineNumber"> 018 </span>	สระ  ๘ ตัว คือ อ อา อิ อี อุ อู เอ โอ  นี้  มีเสียงอย่างเดียว
+<span class="LineNumber"> 019 </span>กับภาษาไทย  และย่อลงเป็น ๒ คือ เป็น  รัสสะ  มีเสียงสั้นอย่าง ๑
+<span class="LineNumber"> 020 </span>เป็น ทีฆะ  มีเสียงยาวอย่าง ๑.

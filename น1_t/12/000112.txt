@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>	๔.   มรณัสสติ   มีประโยชน์อย่างไร  ? 
+<span class="LineNumber"> 002 </span>	๕.   จตุรารักษ์   ได้แก่อะไร  ?   ทำไมจึงมีชื่อว่า   จตุรารักษ์  ?
+<span class="LineNumber"> 003 </span>	๖.   อารักขกัมมัฏฐาน  ๔      ต้องเจริญพร้อมกันทั้งหมดหรือไม่  ?
+<span class="LineNumber"> 004 </span>                เพราะเหตุไร  ?
+					 
+
+<span class="LineNumber"> 005 </span>			<B>กัมมัฏฐาน   ประจำ   ทำสี่อย่าง
+<span class="LineNumber"> 006 </span>		เป็นแนวทาง   พิทักษ์   ตามรักษา
+<span class="LineNumber"> 007 </span>			หนึ่ง     " พุทธคุณ "  หนุนเพิ่ม   เสริมศรัทธา
+<span class="LineNumber"> 008 </span>		น้อมนึกมา   กำหราบ    ปราบง่วงงุน.
+<span class="LineNumber"> 009 </span>			สอง     " เมตตา "   กำหราบ   ปราบความโกรธ
+<span class="LineNumber"> 010 </span>		ไม่เหี้ยมโหด   กราดเกรี้ยว    ไม่เฉียวฉุน
+<span class="LineNumber"> 011 </span>			สาม     " อสุภ "   นึกกายเน่า   เข้าเจือจุน
+<span class="LineNumber"> 012 </span>		ไม่หมกมุ่น   ในกาม   ห้ามดวงมาน.
+<span class="LineNumber"> 013 </span>			สี่นึกถึง    " ความตาย "  สบายนัก
+<span class="LineNumber"> 014 </span>		ช่วยหักรัก   โกรธหลง    ในสงสาร,
+<span class="LineNumber"> 015 </span>			คุณธรรม   เหล่านี้   สี่ประการ
+<span class="LineNumber"> 016 </span>		กัมมัฏฐาน    รักษา   ประชาชน.</B>
+<span class="LineNumber"> 017 </span> 							<B>ศรี   ฯ  นคร.</B>

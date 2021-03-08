@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 413
+
+<span class="LineNumber"> 002 </span>		อสฺมา รตฺยา วิวสเน(๑)	สุริยสฺสุคฺคมนํ ปติ  
+<span class="LineNumber"> 003 </span>		สมคฺคา สิวิโย(๒) หุตฺวา	รฏฺ€า ปพฺพาชยนฺติ ตนฺติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  กุมารนฺติ  มาตาปิตูนํ  อตฺถิตาย  กุมาโรเตฺวว
+<span class="LineNumber"> 005 </span>สํขฺยํ  คตํ  ราชานํ ฯ  รมฺมานนฺติ อตฺตนา ทินฺนทานสฺส 
+<span class="LineNumber"> 006 </span>วณฺณํ กถยมานํ โสมนสฺสปฺปตฺตํ  หุตฺวา  นิสินฺนํ ฯ 
+<span class="LineNumber"> 007 </span>อมจฺเจหีติ  สหชาเตหิ  สฏฺ€ีสหสฺเสหิ  อมจฺเจหิ  ปริวุตํ 
+<span class="LineNumber"> 008 </span>สมุสฺสิตเสตจฺฉตฺเต  ราชาสเน  นิสินฺนํ ฯ  เวทยิสฺสามีติ  
+<span class="LineNumber"> 009 </span>กถยิสฺสามิ ฯ  ตตฺถ  อสฺสายนฺตุ  มนฺติ  ตสฺมึ ทุกฺขสาสเน  
+<span class="LineNumber"> 010 </span>อาโรจิเต  กิลมนฺตํ(๓)  มํ  เทว  เต  ปาทา  อสฺสาเสนฺตุ  วิสตฺโถ  
+<span class="LineNumber"> 011 </span>กเถหีติ มํ วทถาติ อธิปฺปาเยเนวมาห ฯ  
+<span class="LineNumber"> 012 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 013 </span>	[๑๐๖๖]กิสฺมึ เม สิวิโย(๒) กุทฺธา  โย น(๔) ปสฺสามิ ทุกฺกฏํ  
+<span class="LineNumber"> 014 </span>		ตํ เม กตฺเต วิยาจิกฺข	กสฺมา ปพฺพาชยนฺติมนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  กิสมินฺติ  กตรสฺมึ  การเณ ฯ  วิยาจกฺขาติ  วิตฺถารโต  
+<span class="LineNumber"> 016 </span>กาเถหิ ฯ  
+<span class="LineNumber"> 017 </span>	กตฺตา อาห  
+<span class="LineNumber"> 018 </span>	[๑๐๖๗]ลอุคฺคา จ ราชปุตฺตา จ	เวสิยานา จ พฺราหฺมณา  
+<span class="LineNumber"> 019 </span>		หตฺถาโรหา อนีกฏฺ€า	รถิกา ปตฺติการกา  
+<span class="LineNumber"> 020 </span>		นาคทาเนน ขียนฺติ	ตสฺมา ปพฺพาชยนฺตนฺติ  
+<span class="LineNumber"> 021 </span># ๑. ม. วิวสาเน ฯ  ๒. ม. สิวโย ฯ  ๓. ม. ทุกฺขสาสนาโรจเน 
+<span class="LineNumber"> 022 </span># กเถตุํ อวิสหวเสน กิลนฺตํ ฯ  ๔. ม. นาหํ ฯ

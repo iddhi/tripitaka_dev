@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                     เอก.                                                          พหุ.   
+<span class="LineNumber"> 002 </span>จ.  <B>ปิตุ</B>  ลบ  ส  เสีย                       <B>ปิตรานํ</B>   เอา อุ  การันต์  เป็น
+<span class="LineNumber"> 003 </span>                                                                    อาร  อาเทส  เป็น อร
+<span class="LineNumber"> 004 </span>                                                                     นํ  อยู่หลัง  ทีฆะ  อะ
+<span class="LineNumber"> 005 </span>                                                                     เป็น  อา แล้ว คง นํ
+<span class="LineNumber"> 006 </span>                                                                     ไว้
+<span class="LineNumber"> 007 </span>        <B>ปิตุโน  </B>เอา ส เป็น  โน              <B>ปิตูนํ</B>      นํ  อยู่หลัง  ทีฆะ  อุ
+<span class="LineNumber"> 008 </span>                                                                     เป็น อู คง นํ ไว้
+<span class="LineNumber"> 009 </span>ปญฺ.  <B>ปิตรา</B> เอา อุ  การันต์  เป็น      <B> ปิตเรหิ, ปิตเรภิ</B> (แปลงเหมือน
+<span class="LineNumber"> 010 </span>                    อาร  อาเทส  เป็น อร                  ต.  พหุ.
+<span class="LineNumber"> 011 </span>                    เอา  สฺมา  เป็น อา
+<span class="LineNumber"> 012 </span>ฉ.  <B>ปิตุ,  ปิตุโน</B>  (แปลง                       <B>ปิตรานํ,  ปิตูนํ</B>  (แปลงเหมือน
+<span class="LineNumber"> 013 </span>                    เหมือน  จ. เอก.)                           จ.  พหุ.)
+<span class="LineNumber"> 014 </span>ส.   <B>ปิตริ</B>       เอา อุ  การันต์  เป็น        <B>ปิตเรสุ</B>  เอา อุ การันต์  เป็น
+<span class="LineNumber"> 015 </span>                     อาร  อาเทส  เป็น  อร                  อา  อาเทส  เป็น อร
+<span class="LineNumber"> 016 </span>                      แล้วเอา  สฺมึ  เป็น อิ                    เอา อุ  เป็น  เอ  คง  สุ
+<span class="LineNumber"> 017 </span>                                                                         ไว้
+<span class="LineNumber"> 018 </span>                                                             <B>ปิตูสุ</B>     สุ  อยู่หลัง  ทีฆะ  อุ  เป็น
+<span class="LineNumber"> 019 </span>                                                                          อู  แล้ว คง สุ  ไว้
+<span class="LineNumber"> 020 </span>อา. <B>ปิตา</B>  (แปลงเหมือน  ป. เอก.)          <B>ปิตโร</B>     (แปลงเหมือน  ป. พุห.)
+                                    

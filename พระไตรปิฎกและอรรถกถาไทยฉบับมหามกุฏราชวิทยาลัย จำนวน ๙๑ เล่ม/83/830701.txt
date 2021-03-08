@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>อุปปัชชนวาระ</H1> 
+<span class="LineNumber"> 002 </span>                       <H1>อุปปัตติฏฐานปุคคลวาระ  อนุโลม</H1>
+<span class="LineNumber"> 003 </span>                                    <H1>กามราคานุสยมูล</H1>
+<span class="LineNumber"> 004 </span><H2>เอกมูลกะ - กามราคานุสยมูละ  ปฏิฆานุสยมูลี</H2> :-
+<span class="LineNumber"> 005 </span>         [๑๕๖๒]   กามราคานุสัย  ย่อมเกิดขึ้นแก่บุคคลใด,  ปฏิฆานุสัย
+<span class="LineNumber"> 006 </span>ก็ย่อมเกิดขึ้นแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า  ปฏิฆานุสัย    ย่อมเกิดขึ้นแก่บุคคลใด,  กามราคานุสัย
+<span class="LineNumber"> 009 </span>ก็ย่อมเกิดขึ้นแก่บุคคลนั้น    ใช่ไหม ?
+<span class="LineNumber"> 010 </span>	ใช่.
+<span class="LineNumber"> 011 </span>                      <I>จบ  กามราคานุสยมูละ  ปฏิฆานุสยมูลี</I>
+
+<span class="LineNumber"> 012 </span><H2>กามราคานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 013 </span>          กามราคานุสัย     ย่อมเกิดขึ้นแก่บุคคลใด    มานานุสัย  ก็ย่อม
+<span class="LineNumber"> 014 </span>เกิดขึ้นแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>          ใช่.

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>ที่ดับไป  ย่อมไม่มี. 
+<span class="LineNumber"> 002 </span><H2>กามธาตุมูละ  รูปธาตุมูลี</H2> :-
+<span class="LineNumber"> 003 </span>         เมื่อบุคคลจุติจากกามธาตุ     เข้าถึงรูปธาตุ     บางคนมีอนุสัย  ๗
+<span class="LineNumber"> 004 </span>นอนเนื่อง  บางคนมีอนุสัย ๕ นอนเนื่อง  บางคนมีอนุสัย ๓ นอนเนื่อง
+<span class="LineNumber"> 005 </span>อนุสัยที่ดับไป  ย่อมไม่มี.
+<span class="LineNumber"> 006 </span><H2>กามธาตุมูละ  อรูปธาตุมูลี</H2> :-
+<span class="LineNumber"> 007 </span>         เมื่อบุคคลจุติจากกามธาตุ    เข้าถึงอรูปธาตุ    บางคนมีอนุสัย ๗
+<span class="LineNumber"> 008 </span>นอนเนื่อง  บางคนมีอนุสัย ๕ นอนเนื่อง  บางคนมีอนุสัย ๓ นอนเนื่อง 
+<span class="LineNumber"> 009 </span>อนุสัยที่ดับไป  ย่อมไม่มี.
+<span class="LineNumber"> 010 </span><H2>กามธาตุละ  น  กามธาตุมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         เมื่อบุคคลจุติจากกามธาตุ  เข้าถึงภูมิที่ไม่ใช่กามธาตุ    บางคน
+<span class="LineNumber"> 012 </span>มีอนุสัย ๗ นอนเนื่อง  บางคนมีอนุสัย ๕ นอนเนื่อง  บางคนมีอนุสัย ๓
+<span class="LineNumber"> 013 </span>นอนเนื่อง  อนุสัยที่ดับไป  ย่อมไม่มี.
+<span class="LineNumber"> 014 </span><H2>กามธาตุมูละ  น รูปธาตุมูลี</H2> :-
+<span class="LineNumber"> 015 </span>         เมื่อบุคคลจุติจากกามธาตุ     เข้าถึงภูมิที่ไม่ใช่รูปธาตุ     บางคน

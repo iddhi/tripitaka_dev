@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 40    หน้า  264
+
+<span class="LineNumber"> 002 </span>		สมุทยสจฺจนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 003 </span>	สมุทยสจฺจนิทฺเทเส  ยายํ  ตณฺหาติ  ยา  อยํ  ตณฺหา ฯ 
+<span class="LineNumber"> 004 </span>	โปโนพฺภวิกาติ (๑)  ปุนพฺภวกรณํ  ปุนพฺภโว   ปุนพฺภโว 
+<span class="LineNumber"> 005 </span>สีลมสฺสาติ  โปโนพฺภวิกา ฯ  อปิจ  ปุนพฺภวํ (๒) เทติ ปุนพฺภวาย 
+<span class="LineNumber"> 006 </span>สํวตฺตติ ปุนปฺปุนํ ภวํ(๓) นิพฺพตฺเตตีติ โปโนพฺภวิกา ฯ  สา  
+<span class="LineNumber"> 007 </span>ปเนสา  ปุนพฺภวสฺส  ทายิกาปิ  อตฺถิ  อทายิกาปิ  ปุนพฺภวาย
+<span class="LineNumber"> 008 </span>สํวตฺตนิกาปิ  อตฺถิ  อสํวตฺตนิกาปิ  ทินฺนาย  ปฏิสนฺธิยา  
+<span class="LineNumber"> 009 </span>อุปธิเวปกฺกมตฺตาปิ ฯ สา ติปฺปการาปิ  โปโนพฺภวิกาติ  นามํ 
+<span class="LineNumber"> 010 </span>ลภติ ฯ  โปนพฺภวิกาติปิ  ปาโ€ โสเยวตฺโถ ฯ 
+<span class="LineNumber"> 011 </span>	อภินนฺทนสงฺขาเตน  นนฺทิราเคน  สหคตาติ  นนฺทิราค-
+<span class="LineNumber"> 012 </span>สหคตา  นนฺทิราเคน  สทฺธึ  อตฺถโต  เอกตฺตเมว  คตาติ  วุตฺตํ 
+<span class="LineNumber"> 013 </span>โหติ ฯ
+<span class="LineNumber"> 014 </span>	ตตฺร ตตฺราภินนฺทินีติ ยตฺร ยตฺร อตฺตภาโว นิพฺพตฺตติ 
+<span class="LineNumber"> 015 </span>ตตฺร  ตตฺร  อภินนฺทินี  รูปาทีสุ  วา  อารมฺมเณสุ ตตฺร
+<span class="LineNumber"> 016 </span>ตตฺราภินนฺทินี รูปาภินนฺทินี  สทฺทคนฺธรสโผฏฺ€พฺพธมฺมา-
+<span class="LineNumber"> 017 </span>ภินนฺทินีติ  อตฺโถ ฯ  ตตฺร  ตตฺราภินนฺทีติปิ  ปาโ€ ตตฺร  ตตฺร
+<span class="LineNumber"> 018 </span>อภินนฺทยตีติ  อตฺโถ ฯ 
+<span class="LineNumber"> 019 </span>	เสยฺยถิทนฺติ  นิปาโต  ตสฺส  สา  กตมา  อิติ  เจติ  
+<span class="LineNumber"> 020 </span>อตฺโถ ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. โปโนภวิกาติ ฯ  ๒. สี. ปุโนภวํ ฯ  ๓. ม. ภเว ฯ 

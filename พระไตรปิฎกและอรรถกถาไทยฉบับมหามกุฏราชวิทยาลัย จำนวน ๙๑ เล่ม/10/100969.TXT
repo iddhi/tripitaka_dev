@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                           <H2>ฐานะแห่งอปโลกนกรรม</H2>  
+<span class="LineNumber"> 002 </span>           [๑,๓๕๔]    ถามว่า  อปโลกนกรรมถึงฐานะ  ๕  เป็นไฉน
+<span class="LineNumber"> 003 </span>           ตอบว่า  โอสารณา  นิสสารณา  ภัณฑุกรรม  พรหมทัณฑ์  ทั้งกรรม
+<span class="LineNumber"> 004 </span>ลักษณะเป็นคำรบ ๕  อปโลกนกรรมถึงฐานะ ๕  นี้.
+
+<span class="LineNumber"> 005 </span>                               <H2>ฐานะแห่งญัตติกรรม</H2>
+<span class="LineNumber"> 006 </span>           [๑,๓๕๕]  ถามว่า  ญัตติกรรมถึงฐานะ  ๙  เป็นไฉน
+<span class="LineNumber"> 007 </span>           ตอบว่า  โอสารณา  นิสสารณา  อุโบสถ  ปวารณา  สมมติ  การให้
+<span class="LineNumber"> 008 </span>การรับ  การเลื่อนปวารณาออกไป  ทั้งกรรมลักษณะเป็นคำรบ  ๙  ญัตติกรรม
+<span class="LineNumber"> 009 </span>ถึงฐานะ  ๙  นี้.
+
+<span class="LineNumber"> 010 </span>                            <H2>ฐานะแห่งญัตติทุติยกรรม</H2>
+<span class="LineNumber"> 011 </span>           [๑,๓๕๖]  ถามว่า  ญัตติทุติยกรรม  ถึงฐานะ ๗ อย่าง   เป็นไฉน
+<span class="LineNumber"> 012 </span>           ตอบว่า  โอสารณา  นิสสารณา  สมมติ  การให้  การถอน  การแสดง
+<span class="LineNumber"> 013 </span>ทั้งกรรมลักษณะเป็นคำรบ ๗  ญัตติทุติยกรรมถึงฐานะ ๗ นี้.    
+
+<span class="LineNumber"> 014 </span>                             <H2>ฐานะแห่งญัตติจตุตถกรรม</H2>
+<span class="LineNumber"> 015 </span>           [๑,๓๕๗]  ถามว่า  ญัตติจตุตถกรรม     ถึงฐานะ ๗ อย่าง   เป็นไฉน
+<span class="LineNumber"> 016 </span>           ตอบว่า โอสารณา   นิสสารณา   สมมติ   การให้   นิคคหะ  สมนุภาสน์
+<span class="LineNumber"> 017 </span>ทั้งกรรมลักษณะเป็นคำรบ ๗  ญัตติจตุตถกรรมถึงฐานะ  ๗  นี้.

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  อธิปติธรรมที่เป็นมหัคคตธรรม  อาศัยขันธ์ทั้งหลายที่เป็น 
+<span class="LineNumber"> 002 </span>มหัคคตธรรม  และหทยวัตถุ. 
+<span class="LineNumber"> 003 </span>           ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นมหัคคตธรรม  ซึ่งเป็นวิบาก  และ
+<span class="LineNumber"> 004 </span>หทยวัตถุ ฯลฯ อาศัยขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 005 </span>           ในปฏิสนธิขณะ  ฯลฯ.
+<span class="LineNumber"> 006 </span>                         ๑๒.  <B>ปริตตธรรม  และมหัคคตธรรม  อาศัยปริตต-
+<span class="LineNumber"> 007 </span>ธรรม  และมหัคคตธรรม  ฯลฯ  เพราะนอธิปติปัจจัย.</B>
+<span class="LineNumber"> 008 </span>           คือ ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นมหัคคตธรรม  ซึ่งเป็นวิบาก  และ
+<span class="LineNumber"> 009 </span>หทยวัตถุ ฯลฯ  อาศัยขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 010 </span>           จิตตสมุฏฐานรูป  อาศัยขันธ์ที่เป็นมหัคคตธรรม  ซึ่งเป็นวิบาก  และ
+<span class="LineNumber"> 011 </span>มหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 012 </span>           ในปฏิสนธิขณะ ฯลฯ  กฏัตตารูป  อาศัยขันธ์ทั้งหลายที่เป็นมหัคคต-
+<span class="LineNumber"> 013 </span>ธรรม  ซึ่งเป็นวิบาก  และมหาภูตรูป.
+<span class="LineNumber"> 014 </span>                      <H1>๔.  นอนันตรปัจจัย  ฯลฯ  ๘.  นปุเรชาตปัจจัย</H1>
+<span class="LineNumber"> 015 </span>           [๑๓๘๗]  <B>ปริตตธรรม  อาศัยปริตตธรรม เกิดขึ้น  เพราะ
+<span class="LineNumber"> 016 </span>นอนันตรปัจจัย  เพราะนสมนันตรปัจจัย  เพราะนอัญญมัญญปัจจัย
+<span class="LineNumber"> 017 </span>เพราะนอุปนิสสยปัจจัย  เพราะนปุเรชาตปัจจัย  เหมือนกับปฏิจจวาระ
+<span class="LineNumber"> 018 </span>มี ๑๒ วาระ.</B>
+
+<span class="LineNumber"> 019 </span>                    <H1>๙.  นปัจฉาชาตปัจจัย  ๑๐.  นอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 020 </span>           <B>เพราะนปัจฉาชาตปัจจัย  เพราะนอาเสวนปัจจัย</B>  พึงใส่ให้เต็ม
+<span class="LineNumber"> 021 </span>พึงแสดงว่า  วิบาก,  จิตตสมุฏฐานรูป  ไม่พึงแสดงว่า  วิบาก.
+

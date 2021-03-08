@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>ตนะเกิดขึ้น,  ชิวหาวิญญาณ อาศัยชิวหายตนะเกิดขึ้น, กายวิญญาณ อาศัย 
+<span class="LineNumber"> 002 </span>กายายตนะเกิดขึ้น,   ขันธ์ทั้งหลายที่เป็นอัพยากตวิบาก    อัพยากตกิริยา
+<span class="LineNumber"> 003 </span>อาศัยหทยวัตถุเกิดขึ้น.  
+<span class="LineNumber"> 004 </span> <B>[๒๕๓]  ๔. กุศลธรรม  อาศัยอัพยาตธรรมเกิดขึ้น เพราะอารัมมณ-
+<span class="LineNumber"> 005 </span>ปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ ขันธ์ทั้งหลายที่เป็นกุศล  อาศัยหทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 007 </span>              <B>๕.  อกุศลธรรม  อาศัยอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 008 </span>อารัมมณปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  ขันธ์ทั้งหลายที่เป็นอกุศล   อาศัยหทยวัตถุเกิดขึ้น 
+<span class="LineNumber"> 010 </span> <B>[๒๕๔]  ๖. กุศลธรรม  อาศัยกุศลธรรมและอัพยากตธรรมเกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ ขันธ์ ๓  อาศัยขันธ์ ๑ ที่เป็นกุศลและหทยวัตถุเกิดขึ้น  ฯลฯ
+<span class="LineNumber"> 013 </span>ขันธ์ ๒ อาศัยขันธ์ ๒ และหทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 014 </span> <B>[๒๕๕]  ๗. อกุศลธรรม  อาศัยอกุศลธรรมและอัพยากตธรรมเกิด
+<span class="LineNumber"> 015 </span>ขึ้นเพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอกุศลและหทยวัตถุเกิดขึ้น  ฯลฯ
+<span class="LineNumber"> 017 </span>ขันธ์ ๒ อาศัยขันธ์ ๒  และหทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 018 </span> <B>[๒๕๖]  ๑. กุศลธรรม  อาศัยกุศลธรรมเกิดขึ้น  เพราะอธิปติปัจจัย</B>
+

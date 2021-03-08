@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่  ๔  หน้า  ๕๔๑
+
+<span class="LineNumber"> 002 </span>					โลหิจฺจสุตฺต  
+
+<span class="LineNumber"> 003 </span>				โลหิจฺจพฺราหฺมณวตฺถุวณฺณนา  
+<span class="LineNumber"> 004 </span>	เอวมฺเม  สุตํ  ฯเปฯ  โกสเลสูติ  โลหิจฺจสุตฺตํ  ฯ  ตตฺรายํ  
+<span class="LineNumber"> 005 </span>อนุตฺตานปทวณฺณนา  สาลวติกาติ  ตสฺส  คามสฺส  นามํ  ฯ  
+<span class="LineNumber"> 006 </span>โส  กิร  วติยา  วิย  สมนฺตโต  สาลปนฺติยา  ปริกฺขิตฺโต  ตสฺมา  
+<span class="LineNumber"> 007 </span>สาลวติกาติ  วุจฺจติ  ฯ  โลหิจฺโจติ  ตสฺส  พฺราหฺมณสฺส  นามํ  ฯ  
+<span class="LineNumber"> 008 </span>	ปาปกนฺติ  ปรานุกมฺปา  วิรหิตตฺตา  ลามกํ  ฯ  น  ปน  
+<span class="LineNumber"> 009 </span>อุจฺเฉทสสฺสตานํ  อฺตรํ  ฯ  อุปฺปนฺนํ  โหตีติ  ชาตํ  โหติ  ฯ  
+<span class="LineNumber"> 010 </span>น  เกวลฺจ  จิตฺเต  ชาตมตฺตเมว  ฯ  โส  กิร  ตสฺส  วเสน  
+<span class="LineNumber"> 011 </span>ปริสมชฺเฌปิ  เอวํ  ภาสติเยว  ฯ  กึ  หิ  ปโร  ปรสฺสาติ  ปโร  
+<span class="LineNumber"> 012 </span>โย  อนุสาสิยติ  โส  ตสฺส  อนุสาสกสฺส  กึ  กริสฺสติ  อตฺตนา  
+<span class="LineNumber"> 013 </span>ปฏิลทฺธํ  กุสลํ  ธมฺมํ  อตฺตนาว  สกฺกตฺวา  ครุํ  กตฺวา  
+<span class="LineNumber"> 014 </span>วิหาตพฺพนฺติ  วทติ  ฯ  
+<span class="LineNumber"> 015 </span>	โรสิกํ  นฺหาปิตํ  อามนฺเตสีติ  โรสิกาติ  เอวํ  อิตฺถีลิงฺควเสน  
+<span class="LineNumber"> 016 </span>ลทฺธนามํ  นฺหาปิตํ  อามนฺเตสิ  ฯ  โส  กิร  ภควโต  อาคมนํ  
+<span class="LineNumber"> 017 </span>สุตฺวา  จินฺเตสิ  วิหารํ  คนฺตฺวา  ทฏฺ€พฺพํ  นาม (๒)  ภาโร  เคหมฺปน  
+<span class="LineNumber"> 018 </span>อาณาเปตฺวา  ปสฺสิสฺสามิ  เจว  ยถาสตฺติ  จ  อาคนฺตุกภิกฺขํ  
+<span class="LineNumber"> 019 </span>ทสฺสามีติ  ฯ  ตสฺมา  ตํ (๓)  นฺหาปิตํ  อามนฺเตสิ  ฯ  
+<span class="LineNumber"> 020 </span>	ปิฏฺ€ิโต  ปิฏฺ€ิโตติ  กถาผาสุกตฺถํ  ปจฺฉโต  ปจฺฉโต  
+<span class="LineNumber"> 021 </span># ๑. ม. สาลวติกาติ ฯ  ๒. ม. ทิฏฺฐํ นามํ ฯ  ๓. ม. เอวํ ฯ  

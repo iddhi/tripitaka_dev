@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่ามนินทรีย์กำลังเกิดในภูมิใด,       สัทธินทรีย์ก็กำลังเกิด
+<span class="LineNumber"> 002 </span>ในภูมินั้น   ใช่ไหม   ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>                        <I>จบ  สัทธินทริยมูละ   มนินทริยมูลี</I> 
+<span class="LineNumber"> 005 </span>                                   <I>สัทธินทริยมูล   จบ</I>
+                                           

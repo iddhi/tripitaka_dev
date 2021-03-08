@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  กถาวตฺถุปฺปกรณวณฺณนา หน้า  420
+
+<span class="LineNumber"> 002 </span>สงฺขารกฺขนฺธสุฺตา  เสสกฺขนฺธปริยาปนฺนา  น  โหติ
+<span class="LineNumber"> 003 </span>เสสกฺขนฺธสุฺตาปิ สงฺขารกฺขนฺธปริยาปนฺนา นาม(๑) โหตีติ
+<span class="LineNumber"> 004 </span>ปฏิโลมทสฺสนตฺถํ วุตฺตํ ฯ 
+<span class="LineNumber"> 005 </span>	สุฺมิทํ  ภิกฺขเว  สงฺขาราติ  สุตฺตํ  ปรสมยโต  อาภตํ ฯ 
+<span class="LineNumber"> 006 </span>ตตฺถ  สงฺขาราติ  สพฺเพ  สงฺขารา  อนิจฺจาติ  อาคตฏฺ€าเน  วิย 
+<span class="LineNumber"> 007 </span>ปฺจกฺขนฺธา เต  ว (๒)  อตฺตตฺตนิยสุฺตฺตา  สุฺตาติ  สาสนาวจรํ 
+<span class="LineNumber"> 008 </span>โหติ น วิรุชฺฌติ ตสฺมา อนุฺาตํ ฯ ยสฺมา  ปเนตํ  น  สุฺตาย(๓)
+<span class="LineNumber"> 009 </span>สงฺขารกฺขนฺธปริยาปนฺนภาวํ  ทีเปติ  ตสฺมา  อสาธกนฺติ ฯ 
+<span class="LineNumber"> 010 </span>		สุฺตากถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 011 </span>			สามฺผลกถาวณฺณนา 
+<span class="LineNumber"> 012 </span>	อิทานิ  สามฺผลกถา  นาม  โหติ ฯ  ตตฺถ  มคฺควีถิยมฺปิ 
+<span class="LineNumber"> 013 </span>ผลสมาปตฺติยมฺปิ  (๔)  อริยมคฺคสฺส  วิปากจิตฺตํ  สามฺผลํ  นามาติ
+<span class="LineNumber"> 014 </span>สกสมเย สนฺนิฏฺ€านํ ฯ  เยสํ  ปน  ตถา  อคฺคเหตฺวา  กิเลสปฺปหา-
+<span class="LineNumber"> 015 </span>นฺเจว  ผลุปฺปตฺติ  จ สามฺผลํ  ตสฺมา  อสงฺขตนฺติ  ลทฺธิ
+<span class="LineNumber"> 016 </span>เสยฺยถาปิ  ปุพฺพเสลิยานํ  เต  สนฺธาย ปุจฺฉา  สกวาทิสฺส
+<span class="LineNumber"> 017 </span>ปฏิฺา  อิตรสฺส ฯ  เสสเมตฺถ  เหฏฺ€า วุตฺตนยตฺตา ยถาปาลิเมว
+<span class="LineNumber"> 018 </span>นิยฺยาตีติ ฯ 
+<span class="LineNumber"> 019 </span>		สามฺผลกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. น ฯ  ๒. ม. เต จ ฯ  ๓. ม. น สุฺตาย ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. ผลสมาปตฺติวีถิยมฺปิ ฯ

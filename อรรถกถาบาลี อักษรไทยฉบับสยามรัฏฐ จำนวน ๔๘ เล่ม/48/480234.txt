@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 234
+
+<span class="LineNumber"> 002 </span>			วจนโสธนวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  อตีตํ  นวตฺถีติอาทิวจนโต  โสธนา  (๑)  โหติ ฯ  ตตฺถ 
+<span class="LineNumber"> 004 </span>หฺจิ  อตีตํ  นวตฺถีติ  ยทิ  อตีตํ  โน  อตฺถีติ  อตฺโถ ฯ อตีตํ
+<span class="LineNumber"> 005 </span>อตฺถีติ มิจฺฉาติ อตีตฺจ  ตํ  อตฺถิ  จาติ  มิจฺฉา  เอว ฯ 
+<span class="LineNumber"> 006 </span>ตฺเว  อนาคตํ ตํ ปจฺจุปฺปนฺนนฺติ ปุฏฺโ€ อนาคตกฺขเณเยวสฺส
+<span class="LineNumber"> 007 </span>ปจฺจุปฺปนฺนตาย อภาวํ สนฺธาย กาลนานตฺเตน ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 008 </span>	ทุติยํ  ปุฏฺโ€  ยํ  อุปฺปาทโต  ปุพฺเพ  อนาคตํ  อโหสิ 
+<span class="LineNumber"> 009 </span>ตสฺส  อุปฺปนฺนกาเล ปจฺจุปฺปนฺนตฺตา  ปฏิชานาติ ฯ  หุตฺวา  โหติ 
+<span class="LineNumber"> 010 </span>หุตฺวา  โหตีติ  ยเทตํ  ตยา  อนาคตํ หุตฺวา  ปจฺจุปฺปนฺนํ  โหตีติ
+<span class="LineNumber"> 011 </span>วทตา  ตฺเว  อนาคตํ  ตํ  ปจฺจุปฺปนฺนนฺติ ลทฺธิวเสน  อนาคตํ 
+<span class="LineNumber"> 012 </span>วา  ปจฺจุปฺปนฺนํ  วา  หุตฺวา  โหตีติ วุตฺตํ กินฺเต ตมฺปิ หุตฺวา
+<span class="LineNumber"> 013 </span>โหตีติ ฯ  อิตโร  หุตฺวา  ภูตสฺส  ปุน  หุตฺวา  อภาวโต  น 
+<span class="LineNumber"> 014 </span>เหวนฺติ ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 015 </span>	ทุติยํ  ปุฏฺโ€  ยสฺมา  ตํ  อนาคตํ  หุตฺวา  ปจฺจุปฺปนฺนํ
+<span class="LineNumber"> 016 </span>โหนฺตํ  หุตฺวา โหตีติ  สงฺขฺยํ  คตํ  ตสฺมา  ปฏิชานาติ ฯ  อถ 
+<span class="LineNumber"> 017 </span>นํ  สกวาที  ยทิ  เต  ตํ อนาคตํ หุตฺวา  ปจฺจุปฺปนฺนํ  โหนฺตํ 
+<span class="LineNumber"> 018 </span>หุตฺวา โหตีติ สงฺขฺยํ คตํ ปุน หุตฺวา โหติ ยํ อนาคตํ 
+<span class="LineNumber"> 019 </span>น  หุตฺวา  ปจฺจุปฺปนฺนํ  น  โหนฺตํ  น  หุตฺวา  น  โหตีติ
+<span class="LineNumber"> 020 </span>สงฺขฺยํ คตํ สสวิสาณํ  กินฺเต  ตมฺปิ  ปุน  น  หุตฺวา  น
+<span class="LineNumber"> 021 </span># ๑. ม. วจนโสธนา ฯ

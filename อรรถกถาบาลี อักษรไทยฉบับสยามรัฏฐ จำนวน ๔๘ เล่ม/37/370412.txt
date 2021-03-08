@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  412
+
+<span class="LineNumber"> 002 </span>		เกวโล จาปิ นิคโม		สิวิโย จาปิ สมาคตา  
+<span class="LineNumber"> 003 </span>		อสฺมา รตฺยา วิวสเน	สุริยสฺสสุคฺคมนํ ปติ  
+<span class="LineNumber"> 004 </span>		สมคฺคา สิวิโย(๑) หุตฺวา	รฏฺ€า ปพฺพาชยนฺติ ตํ  
+<span class="LineNumber"> 005 </span>	[๑๐๖๔]สกตฺตา ตรมาโนว	สิวิราเชน เปสิโต  
+<span class="LineNumber"> 006 </span>		อามุตฺตสพฺพาภรโณ(๒)	สุวตฺโถ จนฺทนปฺโผสิโต(๓)  
+<span class="LineNumber"> 007 </span>		สีสํนหาโต อุทเก โส	อามุตฺตมณิกุณฺฑโล  
+<span class="LineNumber"> 008 </span>		อุปาคมิ ปุรํ รมฺมํ		เวสฺสนฺตรนิเวสนํ  
+<span class="LineNumber"> 009 </span>		ตตฺถทฺทส กุมารํ โส	รมฺมมานํ สเก ปุเร  
+<span class="LineNumber"> 010 </span>		ปริกิณฺณํ อวจฺเจหิ		ติทสานํว วาสวํ  
+<span class="LineNumber"> 011 </span>	[๑๐๖๕]โส ตตฺถ คนฺตฺวา รมฺมมานํ (๔) กตฺตา เวสฺสนฺตรมพฺรวิ  
+<span class="LineNumber"> 012 </span>		ทุกฺขํ เต เวทยิสฺสามิ	มา เม กุชฺฌ(๕) รเถสภ  
+<span class="LineNumber"> 013 </span>		วนฺทิตฺวา โรทมาโน โส	กตฺตา ราชานมพฺรวิ  
+<span class="LineNumber"> 014 </span>		ภตฺตา เมสิ มหาราช	สพฺพกามรสาหโร  
+<span class="LineNumber"> 015 </span>		ทุกฺขํ เต เวทยิสฺสามิ	ตตฺถ อสฺสาสยนฺตุ มํ  
+<span class="LineNumber"> 016 </span>		สิวิโย เทว เต กุทฺธา	เนคมา จ สมาคตา  
+<span class="LineNumber"> 017 </span>		อุคฺคา จ ราชปุตฺตา จ	เวสิยานา จ พฺราหฺมณา  
+<span class="LineNumber"> 018 </span>		หตฺถาโรหา อนีกฏฺ€า	รถิกา ปตฺติการกา  
+<span class="LineNumber"> 019 </span>		เกวโล จาปิ นิคโม		สิวิโย(๑) จาปิ สมาคตา  
+<span class="LineNumber"> 020 </span># ๑. ม. สิวโย ฯ  ๒. ม. อามุตฺตหตฺถาภรโณ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. จนฺทนภูสิโต ฯ  ๔. ม. ตรมาโน ฯ  ๕. ม. กุชฺฌิ ฯ 

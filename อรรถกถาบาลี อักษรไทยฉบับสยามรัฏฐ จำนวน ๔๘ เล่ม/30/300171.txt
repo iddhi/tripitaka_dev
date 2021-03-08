@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  171
+
+<span class="LineNumber"> 002 </span>			สีลานิสํสชาตกํ  
+<span class="LineNumber"> 003 </span>	ปสฺส  สทฺธาย  สีลสฺสาติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต 
+<span class="LineNumber"> 004 </span>เอกํ  สทฺธํ อุปาสกํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	โส  กิร  สทฺโธ  ปสนฺโน  อริยสาวโก  เอกทิวสํ  เชตวนํ  
+<span class="LineNumber"> 006 </span>คจฺฉนฺโต  สายํ  อจิรวตีนทีตีรํ (๑) คนฺตฺวา  นาวิเก  นาวํ  ตีเร
+<span class="LineNumber"> 007 </span>€เปตฺวา  ธมฺมสฺสวนตฺถาย  คเต  ติตฺเถ  นาวํ  อทิสฺวา  
+<span class="LineNumber"> 008 </span>พุทฺธารมฺมณํ  ปีตึ  ทฬฺหํ (๒) คเหตฺวา  นทึ  โอตริ ฯ  ตสฺส (๓) ปาทา
+<span class="LineNumber"> 009 </span>อุทกมฺหิ  น  โอสีทึสุ ฯ  โส  ป€วีตเล  คจฺฉนฺโต  วิย  
+<span class="LineNumber"> 010 </span>เวมชฺฌคตกาเล  วีจึ  ปสฺสติ ฯ  อถสฺส  พุทฺธารมฺมณปีติ  มนฺทา 
+<span class="LineNumber"> 011 </span>ชาตา  ตสฺส  ปาทา  โอสีทิตุํ  อารภึสุ ฯ  โส  ปุน  พุทฺธารมฺมณํ 
+<span class="LineNumber"> 012 </span>ปีตึ  ทฬฺหํ  กตฺวา  อุทกปิฏฺเ€เนว  คนฺตฺวา  เชตวนํ  ปวิสิตฺวา 
+<span class="LineNumber"> 013 </span>สตฺถารํ  วนฺทิตฺวา  เอกมนฺตํ  นิสีทิ ฯ  สตฺถา  เตน  สทฺธึ 
+<span class="LineNumber"> 014 </span>ปฏิสนฺถารํ  กตฺวา  อุปาสก  กจฺจิ  มคฺคํ  อาคจฺฉนฺโต  
+<span class="LineNumber"> 015 </span>อปฺปกิลมเถน  อาคโตสีติ  ปุจฺฉิตฺวา  ภนฺเต  พุทฺธารมฺมณํ  ปีตึ 
+<span class="LineNumber"> 016 </span>คเหตฺวา  อุทกปิฏฺเ€  ปติฏฺ€ํ  ลภิตฺวา  ป€วึ  มทฺทนฺโต  วิย  
+<span class="LineNumber"> 017 </span>อาคโตมฺหีติ  วุตฺเต  น  โข  อุปาสก  ตฺวฺเว  พุทฺธคุเณ  
+<span class="LineNumber"> 018 </span>อนุสฺสริตฺวา  ปติฏฺ€ํ  ลทฺโธ  ปุพฺเพปิ  อุปาสกา  สมุทฺทมชฺเฌ  
+<span class="LineNumber"> 019 </span>นาวาย  ภินฺนาย  พุทฺธคุเณ  อนุสฺสรนฺตา ปติฏฺ€ํ ลภึสูติ วตฺวา 
+<span class="LineNumber"> 020 </span>เตน ยาจิโต อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. อจิรวตินทีตีรํ ฯ  เอวมุปริปิ ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. อยํ ปาโ€ นตฺถิ ฯ

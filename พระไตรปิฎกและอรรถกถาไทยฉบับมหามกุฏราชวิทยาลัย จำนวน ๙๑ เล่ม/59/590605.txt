@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>นวกนิบาตชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                        <H1>๑.  คิชฌชาดก</H1>
+
+<span class="LineNumber"> 003 </span>            <H1>ว่าด้วยผู้ไม่ทำตามคำสอนย่อมพินาศ</H1>
+
+<span class="LineNumber"> 004 </span>         <B>[๑๒๐๗]   ทางบนยอดเขาคิชฌกูฏ  มีชื่อว่าปริสัง-
+<span class="LineNumber"> 005 </span>           กุปกะมาแต่ดึกดำบรรพ์    นกแร้งเลี้ยงดูมารดา
+<span class="LineNumber"> 006 </span>           บิดาผู้ชราอยู่ที่ทางนั้น.
+<span class="LineNumber"> 007 </span>         [๑๒๐๘]   โดยมากไปเที่ยวหามันข้นงูเหลือมมาให้
+<span class="LineNumber"> 008 </span>           มารดาบิดาเหล่านั้นกิน   ฝ่ายบิดารู้ว่านี้แร้งสุ- 
+<span class="LineNumber"> 009 </span>           ปัตมีปีกแข็งแล้ว   มีกำลังมาก  มักร่อนขึ้นไป
+<span class="LineNumber"> 010 </span>           สูง  เที่ยวไปไกล ๆ  จึงได้กล่าวสอนลูกว่า.
+<span class="LineNumber"> 011 </span>         [๑๒๐๙]   แน่ะพ่อ   เมื่อใดเจ้าเห็นแผ่นดินมีทะเล
+<span class="LineNumber"> 012 </span>           ล้อมรอบกลมประหนึ่งว่ากงจักร     ลอยลิบ ๆ
+<span class="LineNumber"> 013 </span>           อยู่ดุจใบบัวลอยอยู่ในน้ำ     เจ้าจงรีบกลับเสีย
+<span class="LineNumber"> 014 </span>           จากที่นั้น  อย่าบินต่อจากนั้นไปอีกเลย. 
+<span class="LineNumber"> 015 </span>         [๑๒๑๐]   นกแร้งสุปัตเป็นสัตว์มีร่างกายสมบูรณ์
+<span class="LineNumber"> 016 </span>           มีกำลังมาก    มีปีกแข็ง     บินขึ้นไปถึงอากาศ
+<span class="LineNumber"> 017 </span>           เบื้องบนโดยกำลังเร็ว   เมื่อเหลียวกลับมาแลดู</B>

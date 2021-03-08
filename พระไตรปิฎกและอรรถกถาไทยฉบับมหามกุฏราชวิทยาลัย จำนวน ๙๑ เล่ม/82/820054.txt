@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>ขันธยมกที่ ๒</H1>
+<span class="LineNumber"> 002 </span>                             <H1>ปัณณัตติวารุทเทส</H1>
+<span class="LineNumber"> 003 </span>         [๒๓]  <B>ขันธ์   ๕</B>  คือ :-
+<span class="LineNumber"> 004 </span>                           <B>๑.  รูปขันธ์ 
+<span class="LineNumber"> 005 </span>                           ๒.  เวทนาขันธ์
+<span class="LineNumber"> 006 </span>                           ๓.  สัญญาขันธ์
+<span class="LineNumber"> 007 </span>                           ๔.  สังขารขันธ์
+<span class="LineNumber"> 008 </span>                           ๕.  วิญญาณขันธ์.</B>
+<span class="LineNumber"> 009 </span>                                 <H1>อุทเทสวาระ</H1>
+<span class="LineNumber"> 010 </span>                         <H1>ปทโสธนวาระ  อนุโลม</H1>
+<span class="LineNumber"> 011 </span>         [ ๒๔ ]  ธรรมที่ชื่อว่ารูป  ชื่อว่ารูปขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>ธรรมที่ชื่อว่ารูปขันธ์,                ชื่อว่ารูป  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าเวทนา.        ชื่อว่าเวทนาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>ธรรมที่ชื่อว่าเวทนาขันธ์,          ชื่อว่าเวทนา  ใช่ไหม  ?

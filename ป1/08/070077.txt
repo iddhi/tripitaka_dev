@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span><B>อมฺห</B> ศัพท์เดียวเท่านั้น  สำหรับใช้แทนชื่อผู้พูด  แต่ถ้าจะแปลเป็น
+<span class="LineNumber"> 002 </span>ภาษาไทยก็ได้หลายคำ เช่น  ฉัน  ข้า กู  เป็นต้น  ตามลำดับฐานะ 
+<span class="LineNumber"> 003 </span>ชั้นเชิงของผู้พูดนั้น  เพื่อให้เหมาะสมกับความสูงต่ำหรือเสมอกันกับ
+<span class="LineNumber"> 004 </span>ผู้ฟัง ทั้งให้ถูกต้องตามภาษานิยมด้วย พึงดูวิธีใช้อุดมบุรุษในภาษา  
+<span class="LineNumber"> 005 </span>ไทย ดังต่อไปนี้ :-
+<span class="LineNumber"> 006 </span>	<B>อมฺห</B>  อุดมบุรุษ  แปลเป็นไทย  ใช้ให้ถูกต้องตามชั้นของผู้พูด
+<span class="LineNumber"> 007 </span>           อุดมบุรุษ                         ผู้พูด                             ผู้ฟัง
+<span class="LineNumber"> 008 </span>ข้าพระพุทธเจ้า                 ผู้น้อยทั่วไป                     พระราชา, เจ้านายชั้นสูง
+<span class="LineNumber"> 009 </span>เกล้ากระผม                      ผู้น้อยทั่วไป                     เจ้านายชั้นรองลงมา
+
+<span class="LineNumber"> 010 </span>กระหม่อนฉัน                    เจ้านายผู้ใหญ่  หรือ         เจ้านายเสมอกันหรือ
+<span class="LineNumber"> 011 </span>หม่อนฉัน                          ผู้เสมอกัน,  ขุนนาง          ผู้น้อย
+<span class="LineNumber"> 012 </span>กระหม่อม                          ผู้ใหญ่
+
+<span class="LineNumber"> 013 </span>อาตมภาพ                          พระสงฆ์                           พระราชา, เจ้านาย,
+<span class="LineNumber"> 014 </span>                                                                                    ขุนนาง
+
+<span class="LineNumber"> 015 </span>เกล้ากระผม  เกล้าผม          ผู้น้อยทั่วไป                      ขุนนางชั้นสูง,  พระ
+<span class="LineNumber"> 016 </span>                                                                                    ราชาคณะชั้นสูง
+
+<span class="LineNumber"> 017 </span>กระผม                                  ขุนนางผู้ใหญ่ หรือ           พระสงฆ์,  ขุนนาง  เสมอ
+<span class="LineNumber"> 018 </span>                                             ผู้เสมอกัน, คนสุภาพ        กัน,  คนสุภาพ  ผู้น้อย,
+
+<span class="LineNumber"> 019 </span>ดีฉัน  (โบราณ)                       ผู้ใหญ่                             พระสงฆ์ผู้น้อย
+

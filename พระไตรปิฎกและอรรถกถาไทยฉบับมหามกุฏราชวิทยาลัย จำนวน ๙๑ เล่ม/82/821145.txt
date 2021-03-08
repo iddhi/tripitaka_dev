@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลที่ถึงพร้อมด้วยปรินิพพานจิต   วจีสังขารเคยเกิดแก่บุคคล
+<span class="LineNumber"> 002 </span>เหล่านั้น    แต่จิตตสังขารไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,    บุคคลที่นอก 
+<span class="LineNumber"> 003 </span>จากนั้น   วจีสังขารเคยเกิด     และจิตตสังขารก็จักเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 004 </span>         ก็หรือว่า    จิตตสังขารจักเกิดแก่บุคคลใด,    วจีสังขารก็เคยเกิด
+<span class="LineNumber"> 005 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>                         <I>จบ   วจีสังขารมูละ   จิตตสังขารมูลี</I>
+<span class="LineNumber"> 007 </span>                                      <I>วจีสังขารมูล  จบ</I>
+<span class="LineNumber"> 008 </span>                                       <I>ปุคคลวาระ  จบ</I>
+
+<span class="LineNumber"> 009 </span>                                          <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 010 </span>                                        <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 011 </span><H2>กายสังขารมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 012 </span>         [๑๑๐๕]   กายสังขารเคยเกิดในภูมิใด, ฯ ล ฯ
+<span class="LineNumber"> 013 </span>                                     <I>กายสังขารมูล  จบ</I>
+<span class="LineNumber"> 014 </span>                                      <I>โอกาสวาระ  จบ</I>

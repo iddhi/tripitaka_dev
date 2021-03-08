@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                           <H2>อาบัติระงับและไม่ระงับ</H2>                      
+<span class="LineNumber"> 002 </span>                             [๑,๒๘๐]  <B>ถามว่า   กองอาบัติใด  อัน 
+<span class="LineNumber"> 003 </span>                   พระอนันตชินเจ้าผู้คงที่  ผู้ทรงเห็นวเวก
+<span class="LineNumber"> 004 </span>                   ทรงแสดงแล้ว ในกองอาบัตินั้น   กองอาบัติ
+<span class="LineNumber"> 005 </span>                   เท่าใดเว้นสมถะเสีย  ย่อมระงับ   ข้าแต่ท่าน
+<span class="LineNumber"> 006 </span>                   ผู้ฉลาดในวิภังค์  ข้าพเจ้าถามข้อนั้น  ขอท่าน
+<span class="LineNumber"> 007 </span>                   จงบอก                             
+<span class="LineNumber"> 008 </span>                             ตอบว่า   กองอาบัติใดอันพระอนัน-
+<span class="LineNumber"> 009 </span>                   ตชินเจ้าผู้คงที่  ผู้ทรงเห็นวิเวก  ทรงแสดง
+<span class="LineNumber"> 010 </span>                   แล้ว  ในกองอาบัตินั้น    กองอาบัติกองเดียว
+<span class="LineNumber"> 011 </span>                   เว้นสนถะเสีย  ย่อมระงับ   ข้าแต่ท่านผู้ฉลาด
+<span class="LineNumber"> 012 </span>                   ในวิภังค์   ข้าพเจ้าบอกข้อนั้น   แก่ท่าน.</B>
+
+<span class="LineNumber"> 013 </span>                               <H1>ภิกษุผู้ทำลายสงฆ์ไปสู่อบาย</H1>
+<span class="LineNumber"> 014 </span>                             [๑,๒๘๑]  <B>ถามว่า  ภิกษุผู้ทำลายสงฆ์  
+<span class="LineNumber"> 015 </span>                   ไปสู่อบายอันพระพุทธเจ้าผู้เป็นเผ่าแห่งพระ
+<span class="LineNumber"> 016 </span>                   ราชาผู้สูงศักดิ์ตรัสไว้เท่าไร  ข้าพเจ้าทั้งหลาย
+<span class="LineNumber"> 017 </span>                   ขอฟังวิสัยของท่านผู้รู้เฉพาะพระวินัย
+<span class="LineNumber"> 018 </span>                             ตอบว่า ภิกษุผู้ทำลายสงฆ์ไปสู่อบาย
+<span class="LineNumber"> 019 </span>                   ตกนรกชั่วกัลป์อันพระพุทธเจ้า  ผู้เป็นเผ่า
+<span class="LineNumber"> 020 </span>                   แห่งพระราชาผู้สูงศักดิ์ตรัสไว้  ๑๘  ขอท่าน
+<span class="LineNumber"> 021 </span>                   จงฟังวิสัยของข้าพเจ้าผู้รู้เฉพาะพระวินัย</B>

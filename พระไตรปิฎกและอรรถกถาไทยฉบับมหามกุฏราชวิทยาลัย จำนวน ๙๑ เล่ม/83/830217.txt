@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span><H2>ปฏิฆานุสยมูละ  ภวราคานุสยาทิมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยปฏิฆานุสัย,   บุคคลนั้นก็ไม่
+<span class="LineNumber"> 003 </span>ความนอนเนื่องอยู่ด้วยภวราคานุสัย  ฯ ล ฯ  อวิชชานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         พระอนาคามี  ไม่มีความนอนเนื่องอยู่ด้วยปฏิฆานุสัย   แต่ไม่ใช่
+<span class="LineNumber"> 005 </span>ไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย,     พระอรหันต์ไม่มีความนอน
+<span class="LineNumber"> 006 </span>เนื่องอยู่ด้วยปฏิฆานุสัย   และไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า       บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย,
+<span class="LineNumber"> 008 </span>บุคคลนั้น  ก็ไม่มีความนอนเนื่องอยู่ด้วยปฏิฆานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                  <I>จบ  ปฏิฆานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 011 </span>                                  <I>ปฏิฆานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 012 </span>                                     <H1>มานานุสยมูล</H1>
+<span class="LineNumber"> 013 </span><H2>มานานุสยมูละ  ทิฏฐานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 014 </span>         [๑๓๒๓]   บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยมานานุสัย, บุค-
+<span class="LineNumber"> 015 </span>คลนั้นก็ไม่มีความนอนเนื่องอยู่ด้วยทิฏฐานุสัย    ฯ ล ฯ    วิจิกิจฉานุสัย
+<span class="LineNumber"> 016 </span>ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ใช่.

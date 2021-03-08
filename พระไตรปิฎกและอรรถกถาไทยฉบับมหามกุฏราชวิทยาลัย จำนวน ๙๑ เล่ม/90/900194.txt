@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                    			<H1>อนุโลมปัจจนียนัย</H1> 
+<span class="LineNumber"> 002 </span>           		<H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1>
+<span class="LineNumber"> 003 </span>		[๕๘๖]  <B>เพราะเหตุปัจจัย</B>   ในนอธิปติปัจจัย มี ๙ วาระ... ฯลฯ
+<span class="LineNumber"> 004 </span>                       		       <H1>ปัจจนียานุโลมนัย</H1>  
+<span class="LineNumber"> 005 </span>              		<H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 006 </span>		[๕๘๗]  <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย มี ๒ วาระ... ฯลฯ
+<span class="LineNumber"> 007 </span>           	สหชาตวาระก็ดี    ปัจจยวาระก็ดี     นิสสยวาระก็ดี     สังสัฏฐวาระก็ดี
+<span class="LineNumber"> 008 </span>สัมปยุตตวาระก็ดี   พึงให้พิสดารเหมือนปฏิจจวาระ.
+                             
+<span class="LineNumber"> 009 </span>                      		<H1>ปริตตารัมมณบทปัญหาวาระ</H1>
+<span class="LineNumber"> 010 </span>                          		      <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 011 </span>                                              <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 012 </span>		[๕๘๘]  ๑.  ปริตตารัมมณธรรมที่เป็นเหตุ      เป็นปัจจัยแก่
+<span class="LineNumber"> 013 </span>ปริตตารัมมณธรรมที่เป็นเหตุ   ด้วยอำนาจของเหตุปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 014 </span>(วาระที่ ๑-๒-๓)
+<span class="LineNumber"> 015 </span>                          	        <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 016 </span>		[๕๘๙]  ๑.  ปริตตารัมมณธรรมที่เป็นเหตุ      เป็นปัจจัยแก่
+<span class="LineNumber"> 017 </span>ปริตตารัมมณธรรมที่เป็นเหตุ  ด้วยอำนาจของอารัมณปัจจัย มี ๙ วาระ.

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  17  เทวทตฺตวตฺถ  หน้า  149
+
+<span class="LineNumber"> 002 </span>คจฺฉนฺตํ ทิสฺวา  ภิกฺขู  อาหํสุ  ภนฺเต  อายสฺมา  สารีปุตฺโต
+<span class="LineNumber"> 003 </span>คมนกาเล  อตฺตทุติโยว  คโต  อิทานิ  มหาปริวาโร  อาคจฺฉนฺโต
+<span class="LineNumber"> 004 </span>โสภตีติ ฯ  สตฺถา  น  ภิกฺขเว  อิทาเนว  ติรจฺฉานโยนิยํ
+<span class="LineNumber"> 005 </span>นิพฺพตฺตกาเลปิ  มม ปุตฺโต มม สนฺติกํ อาคจฺฉนฺโต
+<span class="LineNumber"> 006 </span>โสภติเยวาติ วตฺวา
+<span class="LineNumber"> 007 </span>	โหติ สีลวตํ อตฺโถ		ปฏิสนฺถารวุตฺตินํ ฯ
+<span class="LineNumber"> 008 </span>	ลกฺขณํ ปสฺส อายนฺตํ	าติสงฺฆปุรกฺขิตํ
+<span class="LineNumber"> 009 </span>	อถ ปสฺสสิมํ กาลํ		สุวิหีนํว าติภีติ (๑)
+<span class="LineNumber"> 010 </span>อิทํ  ชาตกํ  (๒)  กเถสิ ฯ  ปุน  ภิกฺขูหิ  ภนฺเต  เทวทตฺโต  กิร เทฺว
+<span class="LineNumber"> 011 </span>อคฺคสาวเก  อุโภสุ  ปสฺเสสุ  นิสีทาเปตฺวา  พุทฺธลีฬฺหาย  ธมฺมํ
+<span class="LineNumber"> 012 </span>เทเสสฺสามีติ  ตุมฺหากํ  อนุกิริยํ  กรีติ  วุตฺเต  น  ภิกฺขเว  อิทาเนว
+<span class="LineNumber"> 013 </span>ปุพฺเพเปส  มม  อนุกิริยํ  กาตุํ  วายมิ  น  ปน  สกฺขีติ  วตฺวา
+<span class="LineNumber"> 014 </span>	อปิ วีรก ปสฺเสสิ	สกุณํ มฺชุภาณกํ
+<span class="LineNumber"> 015 </span>	มยุรคีวสงฺกาสํ		ปตึ มยฺหํ สวิฏฺ€กํ
+<span class="LineNumber"> 016 </span>		อุทกถลจรสฺส ปกฺขิโน
+<span class="LineNumber"> 017 </span>		นิจฺจํ อามกมจฺฉโภชิโน
+<span class="LineNumber"> 018 </span>		ตสฺสานุกรํ สวิฏฺ€โก
+<span class="LineNumber"> 019 </span>		เสวาเลหิ ปลิคุณฺ€ิโต มโตติ (๓)
+<span class="LineNumber"> 020 </span>นทีจรกากชาตกํ  (๔)  กเถตฺวา  อปเรสุปิ  ทิวเสสุ  ตถารูปิเมว  กถํ
+<span class="LineNumber"> 021 </span># ๑ ขุ. ชา. เอก.  ๒๗/๔ ฯ  ตทฏฺ€กถา  ๑/๒๒๕ ฯ ๒ ลกฺขณชาตกํ ฯ
+<span class="LineNumber"> 022 </span># ๓ ขุ. ชา. ทุก. ๒๗/๗๕ ฯ  ตทฏฺ€กถา ๓/๒๓๒ ฯ
+<span class="LineNumber"> 023 </span># ๔.  ชาตเก วีรกชาตกนฺติ ขายติ ฯ

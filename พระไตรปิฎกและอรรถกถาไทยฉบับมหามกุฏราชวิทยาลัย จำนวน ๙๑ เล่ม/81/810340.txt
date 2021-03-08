@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>สฬายตนกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๔๘๙]   <B>สกวาที</B>  จักขายตนะเป็นวิบาก  หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. จักขายตนะเป็นผลอันบุคคลเสวยเป็นสุข    เป็นผลอัน
+<span class="LineNumber"> 005 </span>บุคคลเสวยเป็นทุกข์ ฯลฯ  มีอารมณ์   มีความนึก  ฯลฯ ความตั้งใจ หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                        ส. จักขายตนะ   ไม่เป็นผลที่บุคคลเสวยเป็นสุข  ฯลฯ  ไม่
+<span class="LineNumber"> 008 </span>มีอารมณ์ ไม่มีความนึก  ฯลฯ  ความตั้งใจ   มิใช่หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. หากว่า    จักขายตนะไม่เป็นผลอันบุคคลเสวยเป็นสุข
+<span class="LineNumber"> 011 </span>ฯลฯ    ไม่มีอารมณ์   ไม่มีความนึก   ฯลฯ   ความตั้งใจ   ก็ต้องไม่กล่าวว่า
+<span class="LineNumber"> 012 </span>จักขายตนะเป็นวิบาก  ฯลฯ
+<span class="LineNumber"> 013 </span>                       ส. ผัสสะเป็นวิบาก    ผัสสะเป็นผลอันบุคคลเสวยเป็นสุข
+<span class="LineNumber"> 014 </span>ฯลฯ   มีอารมณ์ มีความนึก  ฯลฯ  ความตั้งใจ  หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                       ส. จักขายตนะ    เป็นวิบาก   จักขายตนะเป็นผลที่บุคคล
+<span class="LineNumber"> 017 </span>เสวยเป็นสุข  ฯลฯ  มีอารมณ์  มีความนึก  ฯลฯ  ความตั้งใจ หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 019 </span>                       ส. จักขายตนะเป็นวิบาก    แต่จักขายตนะไม่เป็นผลที่
+<span class="LineNumber"> 020 </span>บุคคลเสวยเป็นสุข  ฯลฯ  ไม่มีอารมณ์   ไม่มีความนึก  ฯลฯ  ความตั้งใจ หรือ ?
+<span class="LineNumber"> 021 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 022 </span>                       ส. ผัสสะเป็นวิบาก     แต่ผัสสะไม่เป็นผลที่บุคคลเสวย

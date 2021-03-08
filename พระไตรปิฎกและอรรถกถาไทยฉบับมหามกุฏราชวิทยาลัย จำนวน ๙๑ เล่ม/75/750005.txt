@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>๑๕.  มิจฉัตตติกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>มิจฺฉตฺตนิยตา  ธมฺมา</B>                       ธรรมเป็นมิจฉาสภาวะและให้ผลแน่นอน
+<span class="LineNumber"> 003 </span><B>สมฺมตฺตนิยตา  ธมฺมา</B>                      ธรรมเป็นสัมมาสภาวะและให้ผลแน่นอน
+<span class="LineNumber"> 004 </span><B>อนิยตา   ธมฺมา</B>                                ธรรมให้ผลไม่แน่นอน
+
+<span class="LineNumber"> 005 </span>                                 <H2>๑๖.  มัคคารัมมณติกะ</H2>
+
+<span class="LineNumber"> 006 </span><B>มคฺคารมฺมณา  ธมฺมา</B>                       ธรรมมีมรรคเป็นอารมณ์
+<span class="LineNumber"> 007 </span><B>มคฺคเหตุกา  ธมฺมา</B>                          ธรรมมีเหตุคือมรรค
+<span class="LineNumber"> 008 </span><B>มคฺคาธิปติโน  ธมฺมา</B>                       ธรรมมีมรรคเป็นอธิบดี
+
+<span class="LineNumber"> 009 </span>                                 <H2>๑๗. อุปปันนติกะ</H2>
+
+<span class="LineNumber"> 010 </span><B>อุปฺปนฺนา ธมฺมา</B>                              ธรรมเกิดขึ้นแล้ว
+<span class="LineNumber"> 011 </span><B>อนุปฺปนฺนา  ธมฺมา</B>                          ธรรมยังไม่เกิดขึ้น
+<span class="LineNumber"> 012 </span><B>อุปฺปาทิโน  ธมฺมา</B>                           ธรรมจักเกิดขึ้น
+
+<span class="LineNumber"> 013 </span>                                 <H2>๑๘.  อตีตติกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>อตีตา  ธมฺมา</B>                                  ธรรมเป็นอดีต 
+<span class="LineNumber"> 015 </span><B>อนาคตา  ธมฺมา</B>                              ธรรมเป็นอนาคต
+<span class="LineNumber"> 016 </span><B>ปจฺจุปฺปนฺนา  ธมฺมา</B>                        ธรรมเป็นปัจจุบัน
+
+<span class="LineNumber"> 017 </span>                                 <H2>๑๙.  อตีตารัมมณติกะ</H2>
+
+<span class="LineNumber"> 018 </span><B>อตีตารมฺมณา   ธมฺมา</B>                      ธรรมมีอารมณ์เป็นอดีต
+<span class="LineNumber"> 019 </span><B>อนาคตารมฺมณา   ธมฺมา</B>                 ธรรมมีอารมณ์เป็นปัจจุบัน
+<span class="LineNumber"> 020 </span><B>ปจฺจุปฺปนฺนารมฺมณา  ธมฺมา</B>            ธรรมมีอารมณ์เป็นปัจจุบัน

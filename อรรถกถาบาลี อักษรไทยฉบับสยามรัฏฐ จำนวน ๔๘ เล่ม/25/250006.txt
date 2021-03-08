@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  คนฺถารมฺภคาถาวณฺณนา  หน้า  6
+	
+<span class="LineNumber"> 002 </span>ติกนิปาเต		-	อฏฺ€  เถริโย  จตุวีสติ  คาถา ฯ  
+<span class="LineNumber"> 003 </span>จตุกฺกนิปาเต		-	เอกา  เถรี  จตสฺโส  คาถา ฯ  
+<span class="LineNumber"> 004 </span>ปฺจกนิปาเต		-	ทฺวาทส  เถริโย  สฏฺ€ิ  คาถา ฯ  
+<span class="LineNumber"> 005 </span>ฉกฺกนิปาเต		-	อฏฺ€  เถริโย  อฏฺ€จตฺตาฬีส  คาถา ฯ  
+<span class="LineNumber"> 006 </span>สตฺตกนิปาเต		-	ติสฺโส  เถริโย  เอกวีสติ  คาถา ฯ  
+<span class="LineNumber"> 007 </span>อฏฺ€กนิปาตโต	-	ปฏฺ€าย ยาว  โสฬสกนิปาตา เอเกกา เถริโย  
+<span class="LineNumber"> 008 </span>					ตํตํนิปาตปริมาณา คาถา ฯ  
+<span class="LineNumber"> 009 </span>วีสตินิปาเต		-	ปฺจ  เถริโย  อฏฺ€ารสสตคาถา ฯ  (๑)  
+<span class="LineNumber"> 010 </span>ตึสนิปาเต		-	เอกา  เถรี  จตุตฺตึส  คาถา ฯ  
+<span class="LineNumber"> 011 </span>จตฺตาฬีสนิปาเต	-	เอกา  เถรี  อฏฺ€จตฺตาฬีส  คาถา ฯ  
+<span class="LineNumber"> 012 </span>มหานิปาเต		-	ปิ  เอกา เถรี ปฺจสตฺตติ คาถา ฯ  
+<span class="LineNumber"> 013 </span>	เอวเมตฺถ นิปาตานํ คาถาวคฺคานํ (๒) คาถานฺจ ปริมาณํ 
+<span class="LineNumber"> 014 </span>เวทิตพฺพํ ฯ  
+<span class="LineNumber"> 015 </span>			คนฺถารมฺภกถา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 016 </span># ๑. สี. -จตสฺโส เถริโย สตฺตนวุติคาถา ฯ 
+<span class="LineNumber"> 017 </span># ๒. สี. อยํ ปาโ€ นตฺถิ ฯ 

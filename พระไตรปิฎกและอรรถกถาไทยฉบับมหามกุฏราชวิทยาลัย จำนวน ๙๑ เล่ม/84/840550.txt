@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><B>ฆานินทริยมูละ  อุเปกขินทริยมูลี:-</B>
+<span class="LineNumber"> 002 </span>         [๘๗๘]   ฆานินทรีย์จักเกิดในภูมิใด,       อุเปกขินทรีย์ก็จักเกิด
+<span class="LineNumber"> 003 </span>ในภูมินั้น    ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่. 
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   อุเปกขินทรีย์จักเกิดในภูมิใด,      ฆานินทรีย์ก็จักเกิด
+<span class="LineNumber"> 006 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ในรูปาวจรภูมิก็ดี  ในอรูปาวจรภูมิก็ดี  อุเปกขินทรีย์จักเกิดในภูมิ
+<span class="LineNumber"> 008 </span>นั้น    แต่ฆานินทรีย์ไม่ใช่จักเกิดในภูมินั้น,   ในกามาวจรภูมิ   อุเปกขิน-
+<span class="LineNumber"> 009 </span>ทรีย์จักเกิด   และฆานินทรีย์ก็จักเกิดขึ้นภูมินั้น.
+<span class="LineNumber"> 010 </span>                     <I>จบ    ฆานินทริยมูละ  อุเปกขินทริยมูลี</I>
+
+<span class="LineNumber"> 011 </span><B>ฆานินทริยมูละ  สัทธินทริย  ฯลฯ  ปัญญินทริย  มนินทริยมูลี:-</B>
+<span class="LineNumber"> 012 </span>         [๘๗๙]   ฆานินทรีย์จักเกิดในภูมิใด,   สัทธินทรีย์  ฯลฯ  ปัญ-
+<span class="LineNumber"> 013 </span>ญินทรีย์   มนินทรีย์ก็จักเกิดในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่. 
+<span class="LineNumber"> 015 </span>         ก็หรือว่า  มนินทรีย์จักเกิดในภูมิใด,   ฆานินทรีย์ก็จักเกิดในภูมิ
+<span class="LineNumber"> 016 </span>นั้น  ใช่ไหม  ?

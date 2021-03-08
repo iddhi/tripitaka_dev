@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย         และมีความนอนเนื่องอยู่ด้วย 
+<span class="LineNumber"> 002 </span>มานานุสัย  ณ ที่นั้น   คือที่เวทนา ๒ ในกามธาตุ   ที่รูปธาตุ  อรูปธาตุ.
+<span class="LineNumber"> 003 </span>                       <I>จบ  มานานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 004 </span>                                    <I>มานานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                      <H1>ทิฏฐานุสยมูล</H1>
+<span class="LineNumber"> 006 </span><H2>ทิฎฐานุสยมูละ   วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 007 </span>         [๑๓๐๒]   บุคคลมีความนอนเนื่องอยู่ด้วยทิฏฐานุสัย   จากที่ใด,
+<span class="LineNumber"> 008 </span>ก็มีความนอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>         ก็หรือว่า   บุคคลมีความนอนเนื่องอยู่ด้วยอวิชชานุสัย  จากที่ใด,
+<span class="LineNumber"> 011 </span>ก็มีความนอนเนื่องอยู่ด้วยทิฏฐานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>                    <I>จบ  ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</I>
+<span class="LineNumber"> 014 </span>                                  <I>ทิฏฐานุสยมูล  จบ</I>

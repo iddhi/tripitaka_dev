@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๖.  สัญญาสูตร</H1>
+<span class="LineNumber"> 002 </span>                             <H2>ว่าด้วยสัญญา   ๙  อย่าง</H2>
+<span class="LineNumber"> 003 </span>         [๒๒๐]  ดูก่อนภิกษุทั้งหลาย   สัญญา  ๙ ประการนี้  อันบุคคล
+<span class="LineNumber"> 004 </span>เจริญแล้ว   กระทำให้มากแล้ว   ย่อมมีผลมาก  มีอานิสงส์มาก   หยั่ง
+<span class="LineNumber"> 005 </span>ลงสู่อมตะ  มีอมตะเป็นที่สุด  ๙ ประการเป็นไฉน  คือ อสุภสัญญา  ๑
+<span class="LineNumber"> 006 </span>มรณสัญญา  ๑  อาหาเรปฏิกูลสัญญา   ๑  สัพพโลเกอนภิรตสัญญา  ๑
+<span class="LineNumber"> 007 </span>อนิจจสัญญา    ๑     อนิจเจทุกขสัญญา     ๑      ทุกเขอนัตตสัญญา   ๑ 
+<span class="LineNumber"> 008 </span>ปหานสัญญา   ๑  วิราคสัญญา   ๑  ดูก่อนภิกษุทั้งหลาย   สัญญา     ๙
+<span class="LineNumber"> 009 </span>ประการนี้แล  อันบุคคลเจริญแล้ว  กระทำให้มากแล้ว  ย่อมมีผลมาก
+<span class="LineNumber"> 010 </span>มีอานิสงส์มาก   หยั่งลงสู่อมตะ   มีอมตะเป็นที่สุด. 
+<span class="LineNumber"> 011 </span>                                <I>จบ   สัญญาสูตรที่  ๖</I>
+
+<span class="LineNumber"> 012 </span>                        <H1>อรรถกถาสัญญาสูตรที่  ๖</H1>
+<span class="LineNumber"> 013 </span>         <B>สัญญาสูตรที่   ๖</B>    มีนัยอันท่านกล่าวแล้ว.   แต่ในสูตรนี้  ท่าน
+<span class="LineNumber"> 014 </span>กล่าวญาณเท่านั้น   โดยมีสัญญาเป็นใหญ่.
+  

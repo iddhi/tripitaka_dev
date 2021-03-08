@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <h1>๑๑.  อรณสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>         [๒๑๙]   เทวดาทูลถามว่า
+<span class="LineNumber"> 003 </span>                             <B>คนพวกไหนหนอไม่เป็นข้าศึกใน
+<span class="LineNumber"> 004 </span>                   โลกนี้       พรหมจรรย์ที่อยู่จบแล้วของชน
+<span class="LineNumber"> 005 </span>                   พวกไหน  ย่อมไม่เสื่อม  คนพวกไหนกำ-
+<span class="LineNumber"> 006 </span>                   หนดรู้ความอยากได้ในโลกนี้     ความเป็น
+<span class="LineNumber"> 007 </span>                   ไทมีแก่คนพวกไหนทุกเมื่อ  มารดาบิดา
+<span class="LineNumber"> 008 </span>                   หรือพี่น้องย่อมไหว้บุคคลนั้น  ผู้ตั้งมั่นใน
+<span class="LineNumber"> 009 </span>                   ศีล  คือ ใครหนอ   พวกกษัตริย์  ย่อมอภิ-
+<span class="LineNumber"> 010 </span>                   วาทใครหนอในธรรมวินัยนี้  ผู้มีชาติต่ำ.</B>
+<span class="LineNumber"> 011 </span>         [๒๒๐]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 012 </span>                             <B>สมณะทั้งหลายในธรรมวินัยนี้   ไม่
+<span class="LineNumber"> 013 </span>                   เป็นข้าศึกในโลก  พรหมจรรย์ที่อยู่จบแล้ว
+<span class="LineNumber"> 014 </span>                   ของสมณะทั้งหลายย่อมไม่เสื่อม  สมณะ
+<span class="LineNumber"> 015 </span>                   ทั้งหลายย่อมกำหนดรู้ความอยากได้  ความ
+<span class="LineNumber"> 016 </span>                   เป็นไทย่อมมีแก่สมณะทั้งหลายทุกเมื่อ
+<span class="LineNumber"> 017 </span>                   มารดาบิดาหรือพี่น้องย่อมไหว้บุคคลนั้น
+<span class="LineNumber"> 018 </span>                   ผู้ตั้งมั่น   (ในศีล)   คือสมณะ     ถึงพวก
+<span class="LineNumber"> 019 </span>                   กษัตริย์ก็อภิวาทสมณะในธรรมวินัยนี้  ผู้มี
+<span class="LineNumber"> 020 </span>                   ชาติต่ำ.</B>
+<span class="LineNumber"> 021 </span>                              <I>จบ  อรณสูตรที่   ๑๑
+<span class="LineNumber"> 022 </span>                               จบ  ฆัตวาวรรคที่ ๘</I>

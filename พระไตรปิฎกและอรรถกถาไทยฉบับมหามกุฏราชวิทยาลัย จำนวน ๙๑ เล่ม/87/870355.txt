@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>            [๑๓๓๑] ๒.  <B>มหัคคตธรรม  อาศัยมหัคคตธรรม  เกิดขึ้น
+<span class="LineNumber"> 002 </span>เพราะอธิปติปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           คือ   ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นมหัคคตธรรม  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 004 </span>                         ๓.  <B>ปริตตธรรม  อาศัยมหัคคตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 005 </span>อธิปติปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นมหัคคตธรรม.
+<span class="LineNumber"> 007 </span>                         ๔.  <B>ปริตตธรรม  และมหัคคตธรรม  อาศัยมหัคคต-
+<span class="LineNumber"> 008 </span>ธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ ที่เป็นมหัคคตธรรม 
+<span class="LineNumber"> 010 </span>ฯลฯ ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 011 </span>           [๑๓๓๒] ๕.  <B>อัปปมาณธรรม  อาศัยอัปปมาณธรรม  เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นอัปปมาณธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 014 </span>                         ๖.  <B>ปริตตธรรม  อาศัยอัปปมาณธรรม  เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอัปปมาณธรรม.
+<span class="LineNumber"> 017 </span>                         ๗.  <B>ปริตตธรรม  และอัปปมาณธรรม  อาศัยอัปป-
+<span class="LineNumber"> 018 </span>มาณธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 019 </span>           คือ  ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ ที่เป็นอัปปมาณ-
+<span class="LineNumber"> 020 </span>ธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ
+
+                        

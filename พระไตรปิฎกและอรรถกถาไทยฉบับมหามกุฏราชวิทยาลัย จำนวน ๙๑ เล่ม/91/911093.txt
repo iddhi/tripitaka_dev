@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๓๓๙]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                       <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>                           <H2>เนววิปากนวิปากธัมมบท</H2>
+<span class="LineNumber"> 007 </span>           [๓๔๐] ๑. <B>เนววิปากนวิปากธัมมธรรม     ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 008 </span>อาศัยธรรมที่ไม่ใช่เนววิปากนวิปากธัมมธรรม     ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                                 <B>ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 012 </span>           [๓๔๑]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 013 </span>                        <I>นเหตุทุกนวิปากติกเหตุทุกวิปากติกะ  จบ</I>

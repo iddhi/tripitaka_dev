@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  276
+
+<span class="LineNumber"> 002 </span>กุมฺภณฺฑสตสหสฺสปริวาโร(๑)  รกฺขติ ฯ  โส  ปน  เตน  กุชฺฌิตฺวา
+<span class="LineNumber"> 003 </span>โอโลกิตมตฺเตเยว  ภีตตสิโต  ปลายิตฺวา  จกฺกวาฬปพฺพตํ  ปตฺวา
+<span class="LineNumber"> 004 </span>กมฺปมาโน  โอโลเกนฺโต  อฏฺ€าสิ ฯ  อิติ  โส  นํ  ปลาเปตฺวา  
+<span class="LineNumber"> 005 </span>ปุณฺณโก  มณิรตนํ  อคฺคหิ (๒)ฯ [๓]โส ตํ(๔) คเหตฺวา อากาเสน 
+<span class="LineNumber"> 006 </span>คจฺฉนฺโต ตํ นครํ ปตฺโต ฯ  
+<span class="LineNumber"> 007 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 008 </span>	[๙๑๕]โส อคมา(๕) นครํ อินฺทปตฺตํ(๖)  
+<span class="LineNumber"> 009 </span>		โอรุยฺหุปาคฺฉิ (๗)สภํ กุรูนํ  
+<span class="LineNumber"> 010 </span>		สมาคเต เอกสตํ สมคฺเค  
+<span class="LineNumber"> 011 </span>		อาหุยิตฺถ ยกฺโข อวิกมฺปมาโน  
+<span class="LineNumber"> 012 </span>		โกนีธ รฺํ วรมาภิเชติ  
+<span class="LineNumber"> 013 </span>		กมาภิเชยฺยาม วรทฺธเนน  
+<span class="LineNumber"> 014 </span>		กมนุตฺตรํ รตนวรํ ชินาม  
+<span class="LineNumber"> 015 </span>		โก วาปิ โน เชติ วรทฺธเนนาติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  โอรุยฺหุปาคฺฉิ  สภํ  กุรูนนฺติ  ภิกฺขเว  โส 
+<span class="LineNumber"> 017 </span>ปุณฺณโก  ยกฺโข  อสฺสโต(๘)  โอรุยฺห  อสฺสํ  อทิสฺสมานรูปํ 
+<span class="LineNumber"> 018 </span># ๑. ม. กุมฺภณฺฑสหสฺสปริวาโร ฯ  ๒. ม. อคฺคเหสิ ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. เอตฺถนฺตเร มโนหรํ นามาติ มนสา จินฺติตํ ธนํ
+<span class="LineNumber"> 020 </span># อาหริตุํ สกฺโกตีติ เอวํ ลทฺธนามนฺติ ทิสฺสนฺติ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. อิติ โส ตํ ฯ  ๕. ม. อคฺคมา ฯ 
+<span class="LineNumber"> 022 </span># ๖. นครมินฺทปตฺตํ ฯ  ๗. ม. โอรุยฺหุปาคจฺฉิ ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม. อสฺสปิฏฺ€ิโต ฯ 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>*เล่มที่ 40  อิทฺธิวิธาณนิทฺเทสวณฺณนา  หน้า 555
+
+<span class="LineNumber"> 002 </span>พหุภาวํ  นิมฺมินิตฺวา  ปุน เอโกว หุตฺวา  จงฺกมิสฺสามิ 
+<span class="LineNumber"> 003 </span>สชฺฌายํ  กริสฺสามิ  ปฺหํ  ปุจฺฉิสฺสามีติ  จินฺเตตฺวา วา อยํ  
+<span class="LineNumber"> 004 </span>วิหาโร  อปฺปภิกฺขุโก สเจ เกจิ อาคมิสฺสนฺติ กุโต อิเม
+<span class="LineNumber"> 005 </span>เอตฺตกา เอกสทิสา ภิกฺขู  อทฺธา  เถรสฺส  เอสานุภาโวติ 
+<span class="LineNumber"> 006 </span>มํ  ชานิสฺสนฺตีติ  อปฺปิจฺฉตาย  วา อนฺตราว เอโก  โหมีติ 
+<span class="LineNumber"> 007 </span>อิจฺฉนฺเตน  ปาทกชฺฌานํ  สมาปชฺชิตฺวา  วุฏฺ€าย  เอโก โหมีติ 
+<span class="LineNumber"> 008 </span>ปริกมฺมํ  กตฺวา  ปุน  สมาปชฺชิตฺวา  วุฏฺ€าย  เอโก โหติ ฯ
+<span class="LineNumber"> 009 </span>อธิฏฺ€าตพฺพํ ฯ อธิฏฺ€านจิตฺเตน  สทฺธึเยว  เอโก
+<span class="LineNumber"> 010 </span>โหติ ฯ
+<span class="LineNumber"> 011 </span>	อาวิภาวนฺติ  ปากฏภาวํ  กโรตีติ  อตฺโถ ฯ  ติโรภาวนฺติ 
+<span class="LineNumber"> 012 </span>ปฏิจฺฉนฺนภาวํ กโรตีติ  อตฺโถ ฯ  อาวิภาวํ  ปจฺจนุโภติ  
+<span class="LineNumber"> 013 </span>ติโรภาวํ  ปจฺจนุโภตีติ  ปุริเมน  วา  สมฺพนฺโธ ฯ  ตตฺรายํ  
+<span class="LineNumber"> 014 </span>อิทฺธิมา  อาวิภาวํ  กตฺตุกาโม  อนฺธการํ  วา  อาโลกํ กโรติ 
+<span class="LineNumber"> 015 </span>ปฏิจฺฉนฺนํ  วา  วิวฏฺฏํ  กโรติ  อนาปาถํ  วา  อาปาถํ  
+<span class="LineNumber"> 016 </span>กโรติ ฯ  กถํ  
+<span class="LineNumber"> 017 </span>	อยํ หิ ยถาปฏิจฺฉนฺโนปิ  ทูเร  €ิโตปิ  วา  ทิสฺสติ 
+<span class="LineNumber"> 018 </span>เอวํ  อตฺตานํ  วา  ปรํ  วา  กตฺตุกาโม ปาทกชฺฌานโต  วุฏฺ€าย
+<span class="LineNumber"> 019 </span>อิทํ อนฺธการํ อาโลกชาตํ โหตูติ วา อิทํ ปฏิจฺฉนฺนํ 
+<span class="LineNumber"> 020 </span>วิวฏฺฏํ(๑) โหตูติ  วา  อิทํ  อนาปาถํ  อาปาถํ  โหตูติ วา 
+<span class="LineNumber"> 021 </span># ๑. ม. วิวฏํ ฯ

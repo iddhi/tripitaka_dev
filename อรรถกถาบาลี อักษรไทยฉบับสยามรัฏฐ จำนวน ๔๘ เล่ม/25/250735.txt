@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  พากุลตฺเถรคาถาวณฺณนา หน้า 735
+	
+<span class="LineNumber"> 002 </span>		อโนมทสฺสี ภควา		สยมฺภู โลกนายโก  
+<span class="LineNumber"> 003 </span>		คเวสํ ปฏิสลฺลานํ		มมสฺสมมุปาคมิ ฯ  
+<span class="LineNumber"> 004 </span>		อุเปตฺจ มหาวีรํ		อโนมทสฺสึ มหายสํ   
+<span class="LineNumber"> 005 </span>		ขเณน โลกนาถสฺส		วาตาพาโธ สมุฏฺ€หิ ฯ  
+<span class="LineNumber"> 006 </span>		วิจรนฺโต อรฺมฺหิ	อทฺทสํ โลกนายกํ  
+<span class="LineNumber"> 007 </span>		อุปคนฺตฺวาน สมฺพุทฺธํ	จกฺขุมนฺตํ มหายสํ ฯ
+<span class="LineNumber"> 008 </span>		อิริยฺจาปิ(๑) ทิสฺวาน	อุปลกฺเขสหํ ตทา  
+<span class="LineNumber"> 009 </span>		อสํสยํ หิ พุทฺธสฺส		พฺยาธิ โน อุปปชฺชถ ฯ (๒)  
+<span class="LineNumber"> 010 </span>		ขิปฺปํ อสฺสมมาคฺฉึ	มม สิสฺสาน สนฺติเก  
+<span class="LineNumber"> 011 </span>		เภสชฺชํ กตฺตุกาโมหํ	สิสฺเส อามนฺตยึ ตทา ฯ  
+<span class="LineNumber"> 012 </span>		ปฏิสุณิตฺวาน เม วากฺยํ	สิสฺสา สพฺเพ สคารวา  
+<span class="LineNumber"> 013 </span>		เอกชฺฌํ สนฺนิปตึสุ		สตฺถุคารวา มม ฯ
+<span class="LineNumber"> 014 </span>		ขิปฺปํ ปพฺพตมารุยฺห	สพฺโพสถมกาสหํ (๓)  
+<span class="LineNumber"> 015 </span>		ปานียโยคํ กตฺวาน		พุทฺธเสฏฺ€สฺสทาสหํ ฯ  
+<span class="LineNumber"> 016 </span>		ปริภุตฺเต มหาวีเร		สพฺพฺุโลกนายเก  
+<span class="LineNumber"> 017 </span>		ขิปฺปํ วาโต วูปสมิ		สุคตสฺส มเหสิโน ฯ  
+<span class="LineNumber"> 018 </span>		ปสฺสทฺธํ ทรถํ ทิสฺวา	อโนมทสฺสี มหายโส  
+<span class="LineNumber"> 019 </span>		สกาสเน นิสีทิตฺวา		อิมา คาถา อภาสถ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. อิริยาปถฺจ ฯ  ๒. สฺยา. พฺยาธิโน อุปปชฺชถ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. สพฺโพสถมกาสหํ ฯ

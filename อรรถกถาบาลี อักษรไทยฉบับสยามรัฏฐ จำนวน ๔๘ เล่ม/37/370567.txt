@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 567
+
+<span class="LineNumber"> 002 </span>สพฺพฺุตํ  ปาปุเณยฺยนฺติ (๑)วทติ ฯ  
+<span class="LineNumber"> 003 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 004 </span>	[๑๒๑๔]ตสฺส ตํ วจนํ สุตฺวา	เทวินฺโท เอตทพฺรวิ  
+<span class="LineNumber"> 005 </span>		อจิรํ วต เต ตาโต(๒)	ปิตา ตํ ทฏฺ€ุเมสฺสตีติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ทฏฺ€ุเมสฺสตีติ  มหาราช  ตว  ปีตา (๓) อจิเรเนว  ตํ  
+<span class="LineNumber"> 007 </span>ปสฺสิตุกาโม  หุตฺวา  อิธาคมิสฺสติ  อาคนฺตฺวา  จ  ปน  เต  
+<span class="LineNumber"> 008 </span>เสตจฺฉตฺตํ  ทตฺวา [๔] เชตุตฺตรนครเมว  เนสฺสติ  สพฺเพ  เต 
+<span class="LineNumber"> 009 </span>มโนรถา  มตฺถกมฺปาปุนิสสนฺติ(๕) มา จินฺตยิ อปฺปมตฺโต โหหิ 
+<span class="LineNumber"> 010 </span>มหาราชาติ ฯ  
+<span class="LineNumber"> 011 </span>	เอวํ มหาสตฺตสฺส โอวาทํ ทตฺวา สกฺโก สกฏฺ€านเมว
+<span class="LineNumber"> 012 </span>คโต ฯ  
+<span class="LineNumber"> 013 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 014 </span>		อิทํ วตฺวาน มฆวา		เทวราชา สุชมฺปติ  
+<span class="LineNumber"> 015 </span>		เวสฺสนฺตเร วรํ ทตฺวา	สคฺคกายํ อปกฺกมีติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  เวสฺสนฺตเรติ  เวสฺสนฺตรสฺส ฯ  อปกฺกมีติ  คโต  
+<span class="LineNumber"> 017 </span>อนุปฺปตฺโตเยวาติ ฯ  
+<span class="LineNumber"> 018 </span>			สกฺกปพฺพํ นิฏฺ€ิตํ(๖) ฯ  
+<span class="LineNumber"> 019 </span>	ตทา  โพธิสตฺโต  จ  มทฺที  จ  สมฺโมทมานา  สกฺกทตฺติเย  
+<span class="LineNumber"> 020 </span>อสฺสเม  วสึสุ ฯ  อถ  ชูชโกปิ  กุมาเร  คเหตฺวา  สฏฺ€ีโยชนมคฺคํ  
+<span class="LineNumber"> 021 </span># ๑. ม. สมฺปาปุเณยฺยนฺติ ฯ  ๒. ม. ตโต ฯ  ๓. ม. มาตา จ ปิตา จ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. เอตฺถนฺตเร รชฺชํ นิยฺยาเทตฺวาติ ทิสฺสนฺติ ฯ
+<span class="LineNumber"> 023 </span># ๕. ม. มตฺถกํ ปาปุณิสฺสนฺติ ฯ  ๖. ม. สกฺกปพฺพวณฺณนา นิฏฺ€ิตา ฯ

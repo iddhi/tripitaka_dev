@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  เอกปุตฺตกสุตฺตาทิวณฺณนา หน้า ๓๓๑
+
+<span class="LineNumber"> 002 </span>เหตุ  อนฺตมโส  กุณฺฑกมุฏฺ€ิโนปิ ฯ ชีวิตเหตูติ  อฏวิยํ  โจเรหิ 
+<span class="LineNumber"> 003 </span>คเหตฺวา  ชีวิเต  โวโรปิยมาเน  ตสฺสปิ  เหตุ ฯ ชนปทกลฺยาณิยาติ 
+<span class="LineNumber"> 004 </span>ชนปเท อุตฺตมิตฺถิยา ฯ
+<span class="LineNumber"> 005 </span>				ตติยาทีนิ ฯ         
+<span class="LineNumber"> 006 </span>				ทุติโย วคฺโค ฯ           
+
+<span class="LineNumber"> 007 </span>				มาตุคามสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 008 </span>	ตติยวคฺคสฺส  ป€เม  น  ตสฺส  ภิกฺขเว  มาตุคาโมติ  ตสฺส 
+<span class="LineNumber"> 009 </span>รโห  เอเกกสฺส  (๑)  นิสินฺนสฺส น(๒) เตน  ธมฺเมน  อตฺถิโกปิ  มาตุคาโม  
+<span class="LineNumber"> 010 </span>จิตฺตํ ปริยาทาตุํ  สกฺโกติ  ยสฺส  ลาภสกฺการสิโลโก  จิตฺตํ  
+<span class="LineNumber"> 011 </span>ปริยาทาตุํ สกฺโกตีติ อตฺโถ ฯ 
+<span class="LineNumber"> 012 </span>	ทุติยํ อุตฺตานเมวาติ ฯ 
+<span class="LineNumber"> 013 </span>				ป€มทุติยานิ ฯ             
+
+<span class="LineNumber"> 014 </span>			เอกปุตฺตกสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 015 </span>	ตติเย  สทฺธาติ  โสตาปนฺนา ฯ  
+<span class="LineNumber"> 016 </span>	เสสเมตฺถ  อุตฺตานเมว ฯ 
+<span class="LineNumber"> 017 </span>	ตถา   จตุตฺเถ ปฺจเม ฉฏฺเ€ จ ฯ
+<span class="LineNumber"> 018 </span>				ตติยาทีนิ ฯ             
+<span class="LineNumber"> 019 </span># ๑. ม. เอกกสฺส ฯ  ๒. อฺตฺถ นาติ สทฺโท นตฺถิ ฯ

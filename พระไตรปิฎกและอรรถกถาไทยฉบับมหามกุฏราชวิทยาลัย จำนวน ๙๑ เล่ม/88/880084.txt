@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ฯลฯ  เจือกับขันธ์ ๑  ที่เป็นสเหตุกธรรม   ซึ่งเป็นวิบาก  ฯลฯ
+<span class="LineNumber"> 002 </span>เจือกับขันธ์ ๒. 
+<span class="LineNumber"> 003 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 004 </span>                     ๒.  <B>อเหตุกธรรม  เจือกับอเหตุกธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 005 </span>วิปากปัจจัย</B> 
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์ ๑  ที่เป็นอเหตุกธรรม ซึ่งเป็นวิปาก ฯลฯ
+<span class="LineNumber"> 007 </span>เจือกับขันธ์ ๒.
+<span class="LineNumber"> 008 </span>           ในปฏิสนธิขณะ ฯลฯ  
+
+<span class="LineNumber"> 009 </span>       	       <H1>๑๔.  อาหารปัจจัย  ฯลฯ    ๒๓.  อวิคตปัจจัย</H1>
+<span class="LineNumber"> 010 </span>	   <B>ฯลฯ เพราะอาหารปัจจัย  ฯลฯ</B> 
+<span class="LineNumber"> 011 </span>           <B>ฯลฯ เพราะอินทริยปัจจัย  ฯลฯ</B> 
+<span class="LineNumber"> 012 </span>           <B>ฯลฯ เพราะฌานปัจจัย   ฯลฯ</B> 
+<span class="LineNumber"> 013 </span>           <B>ฯลฯ เพราะอวิคตปัจจัย</B>
+
+<span class="LineNumber"> 014 </span>                                    <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 015 </span>           [๗๕]  ในเหตุปัจจัย    มี ๓ วาระ    ในอารัมมณปัจจัย    มี ๖ วาระ
+<span class="LineNumber"> 016 </span>ในอธิปติปัจจัย   มี ๑ วาระ  ในอนันตรปัจจัย   มี ๖ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 017 </span>มี ๖ วาระ   ในสหชาตปัจจัย   มี ๖ วาระ   ในอัญญมัญญปัจจัย  มี ๖ วาระ

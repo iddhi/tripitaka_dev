@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>	  <H1>อรรถกถามุฏฐัสสติสูตร</H1>  
+<span class="LineNumber"> 002 </span>         พึงทราบวินิจฉัยใน<B>มุฏฐัสสติสูตรที่  ๑๐</B>  ดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>         บทว่า  <B>ทุกฺขํ  สุปติ</B>   ความว่า    เมื่อฝันเห็นสุบินต่าง ๆ  ก็หลับ
+<span class="LineNumber"> 004 </span>ไม่สบาย.  บทว่า  <B>ทุกฺขํ  ปฏิพุชฺฌติ</B>  ความว่า  แม้เมื่อตื่น  ก็สะดุ้งตื่น
+<span class="LineNumber"> 005 </span>ขนลุก.  ในสูตรนี้ตรัสสติสัมปชัญญะคละกัน.
+<span class="LineNumber"> 006 </span>	          <I>จบอรรถกถามุฏฐัสสติสูตรที่  ๑๐</I>
+<span class="LineNumber"> 007 </span>	             <I>จบกิมพิลวรรควรรณนาที่  ๑</I>
+<span class="LineNumber"> 008 </span>	   <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 009 </span>         ๑.  กิมพิลสูตร     ๒.  ธัมมัสสวนสูตร    ๓.  อาชานิยสูตร   ๔.  พลสูตร
+<span class="LineNumber"> 010 </span>๕.  เจโตขีลสูตร      ๖.  วินิพันธสูตร     ๗.  ยาคุสูตร     ๘.  ทันตกัฏฐสูตร
+<span class="LineNumber"> 011 </span>๙.  คีตสูตร     ๑๐.  มุฏฐัสสติสูตร  และอรรถกถา.

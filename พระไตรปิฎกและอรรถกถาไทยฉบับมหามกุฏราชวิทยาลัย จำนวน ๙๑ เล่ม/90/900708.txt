@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>ปัจจัย มี ๓ วาระ    ในนกัมมปัจจัย มี ๓ วาระ    ในนวิปากปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 002 </span>ฯลฯ  ในนวิปปยุตตปัจจัย มี ๒ วาระ. 
+<span class="LineNumber"> 003 </span>          	สหชาตวาระก็ดี ฯลฯ  สัมปยุตตวาระก็ดี  พึงให้พิสดาร.
+
+<span class="LineNumber"> 004 </span>                         	    <H1>นเหตุบทปัญหาวาระ</H1>
+<span class="LineNumber"> 005 </span>                           	       <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 006 </span>                                  <H2>๑. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๕๐]       ๑.  นเหตุธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม เป็น
+<span class="LineNumber"> 008 </span>ปัจจัยแก่นเหตุธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 009 </span>ของอารัมมณปัจจัย
+<span class="LineNumber"> 010 </span>                 		๒.  นเหตุธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรมเป็น
+<span class="LineNumber"> 011 </span>ปัจจัยแก่นเหตุธรรมที่เป็นทุกขายเวทนายสัมปยุตตธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 012 </span>ของอารัมมณปัจจัย
+<span class="LineNumber"> 013 </span>                		๓.  นเหตุธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม เป็น
+<span class="LineNumber"> 014 </span>ปัจจัยแก่นเหตุธรรมที่เป็นอทุกขมสุขายเวทนายสัมปยุตตธรรม  ด้วย
+<span class="LineNumber"> 015 </span>อำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 016 </span>                		๔.  นเหตุธรรมที่เป็นทุกขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 017 </span>เป็นปัจจัยแก่นเหตุธรรมที่เป็นทุกขายเวทนายสัมปยุตตธรรม     ด้วย
+<span class="LineNumber"> 018 </span>อำนาจของอารัมมณปัจจัย

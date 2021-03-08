@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>นอตีตติกนกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>               <H2>(๑๘. นอตีตติกะ  ๑.  นกุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>                                  <H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>           [๔๑๘] ๑.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่อตีตธรรม
+<span class="LineNumber"> 007 </span>ฯลฯ</B>
+<span class="LineNumber"> 008 </span>                       ๒.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่อนาคต-
+<span class="LineNumber"> 009 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 010 </span>                              <I>นอตีตติกนกุสลติกะ  จบ</I>	

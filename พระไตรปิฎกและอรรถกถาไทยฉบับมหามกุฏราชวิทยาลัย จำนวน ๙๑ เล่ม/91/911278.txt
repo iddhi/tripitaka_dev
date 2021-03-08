@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๗๙๑]  ในเหตุปัจจัย  มี ๒๑  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>   <I>นสนิทัสสนติกโนจิตตสหภูทุกสนิทัสสติกจิตตสหภูทุกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                    <H1>นสนิทัสสนติกโนจิตตานุปริวัตติทุกะ</H1>
+<span class="LineNumber"> 005 </span>                       <H1>สนิทัสสนติกจิตตานุปริวัตติทุกะ</H1>
+<span class="LineNumber"> 006 </span><H2>(๒๒. สนิทัสสนติกะ  ๖๒. จิตตานุปริวัตติทุกะ)</H2>
+<span class="LineNumber"> 007 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 008 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>                                  <H2>จิตตานุปริวัตติบท</H2>	 	 
+<span class="LineNumber"> 011 </span>           [๗๙๒] ๑.  <B>จิตตานุปริวัตติธรรม    ที่เป็นอนิทัสสนอัปปฏิฆ-
+<span class="LineNumber"> 012 </span>ธรรม  อาศัยธรรมที่ไม่ใช่จิตตานุปริวัตติธรรม   ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 013 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                                                 <B>ฯลฯ</B>
+
+<span class="LineNumber"> 015 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 016 </span>           [๗๙๓]  ในเหตุปัจจัย มี ๕ วาระ  ฯลฯ

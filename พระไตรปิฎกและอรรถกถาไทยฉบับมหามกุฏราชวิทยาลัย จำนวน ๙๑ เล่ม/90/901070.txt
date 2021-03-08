@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>			       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 002 </span>		[๘๘๙]  ในเหตุปัจจัย มี ๕  วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๕ วาระ. 
+<span class="LineNumber"> 003 </span>             สหชาตวาระก็ดี  ฯลฯ   ปัญหาวาระก็ดี   พึงให้พิสดารทุกปัจจัย.
+
+<span class="LineNumber"> 004 </span>					    <H1>อรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 005 </span>						<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>					      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๘๙๐]  ๑.  อรณธรรมที่เป็นสวิตักกสวิจารธรรม  อาศัยอรณ-
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นสวิตักกสวิจารธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๗ วาระ.
+<span class="LineNumber"> 009 </span>                         ๘.  อรณธรรมที่เป็นอวิตักกวิจารมัตตธรรม  อาศัย
+<span class="LineNumber"> 010 </span>อรณธรรมที่เป็นอวิตักกวิจารมัตตธรรม    เกิดขึ้น    เพราะเหตุปัจจัย
+<span class="LineNumber"> 011 </span>มี ๕ วาระ.
+<span class="LineNumber"> 012 </span>                         ๓.  อรณธรรมที่เป็นอวิตักกอวิจารธรรม  อาศัยสรณ-
+<span class="LineNumber"> 013 </span>ธรรมที่เป็นอวิตักกอวิจารธรรม  เกิดขึ้น  เพราะเหตุปัจจัย    ฯลฯ 
+<span class="LineNumber"> 014 </span>				<H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 015 </span>		[๘๙๑]  ในเหตุปัจจัย มี ๓๗ วาระฯลฯ ในอวิคตปัจจัย มี ๓๗ วาระ.
+<span class="LineNumber"> 016 </span>สหชาตวาระก็ดี  ฯลฯ   ปัญหาวาระก็ดี  พึงให้พิสดารอย่างนี้.
+<span class="LineNumber"> 017 </span>                     		       <I>วิตักกติกสรณทุกะ  จบ</I>

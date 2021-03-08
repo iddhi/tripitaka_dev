@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>๓.  ปัจจนียานุโลมทุกติกปักฐาน</H1> 
+<span class="LineNumber"> 002 </span>                      <H1>นเหตุทุกนกุสลติกเหตุทุกกุสลติกะ</H1>
+<span class="LineNumber"> 003 </span>                      <H2>(๑. เหตุทุกะ  ๑.  กุสลติกะ)</H2> 
+<span class="LineNumber"> 004 </span>                                      <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 005 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                            <H2>กุศลบท</H2>
+<span class="LineNumber"> 008 </span>           [๑๗๒] ๑.  <B>กุศลธรรม   ที่เป็นเหตุธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 009 </span>กุศล  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                       ๒.  <B>กุศลธรรม ที่เป็นนเหตุธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 011 </span>กุศล  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>                       ๓.  <B>กุศลธรรม ที่เป็นเหตุธรรม  และกุศลธรรม ที่เป็น
+<span class="LineNumber"> 013 </span>นเหตุธรรม   อาศัยธรรมที่ไม่ใช่กุศล   ที่เป็นนเหตุธรรม   เกิดขึ้น
+<span class="LineNumber"> 014 </span>เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 015 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๑๗๓]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ  

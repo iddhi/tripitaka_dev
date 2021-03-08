@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าวิญญาณขันธ์  ชื่อว่าด้วย  ชื่อว่าวิญญาณขันธ์
+<span class="LineNumber"> 002 </span>ด้วย,   ขันธ์ที่เหลือนอกนั้นชื่อว่าขันธ์  แต่ไม่ชื่อว่าวิญญาณขันธ์.   
+<span class="LineNumber"> 003 </span>                                <I>จบ  สังขารขันธมูล</I>
+
+<span class="LineNumber"> 004 </span>                                 <H1>วิญญาณขันธมูล</H1>
+<span class="LineNumber"> 005 </span>         [๕๘]   ธรรม ที่ชื่อว่าวิญญาณ,  ชื่อว่าวิญญาณขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าขันธ์,  ชื่อว่ารูปขันธ์   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ธรรมที่ชื่อว่ารูปขันธ์  ชื่อว่าขันธ์ด้วย  ชื่อว่ารูปขันธ์ด้วย,  ขันธ์
+<span class="LineNumber"> 009 </span>ที่เหลือนอกนั้นชื่อว่าขันธ์   แต่ไม่ชื่อว่ารูปขันธ์.
+<span class="LineNumber"> 010 </span>         [๕๙ ]   ธรรมที่ชื่อว่าวิญญาณ,  ชื่อว่าวิญญาณขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ธรรมที่ชื่อว่าขันธ์,   ชื่อว่าเวทนาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าเวทนาขันธ์     ชื่อว่าขันธ์ด้วย    ชื่อว่าเวทนาขันธ์
+<span class="LineNumber"> 014 </span>ด้วย,   ขันธ์ที่เหลือนอกนั้นชื่อว่าขันธ์  แต่ไม่ชื่อว่าเวทนาขันธ์.
+<span class="LineNumber"> 015 </span>         [๖๐]   ธรรมที่ชื่อว่าวิญญาณ,   ชื่อว่าวิญญาณขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         ใช่.

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  376
+
+<span class="LineNumber"> 002 </span>		วินตานทิยา ตีเร (๑)	ปิลกฺขุ (๒) ผลิโต อหุ(๓)  
+<span class="LineNumber"> 003 </span>		ตาหํ รุกฺขํ คเวสนฺโต	อทฺทสํ โลกนายกํ ฯ  
+<span class="LineNumber"> 004 </span>		เกตกํ ปุปฺผิตํ ทิสฺวา	วณฺเฏ เฉตฺวานหํ ตทา  
+<span class="LineNumber"> 005 </span>		พุทฺธสฺส อภิโรเปสึ		สิขิโน โลกพนฺธุโน ฯ  
+<span class="LineNumber"> 006 </span>		เยน าเณน ปตฺโตสิ(๔)	อจฺจุตํ อมตํ ปทํ  
+<span class="LineNumber"> 007 </span>		ตํ าณํ อภิปูเชมิ		พุทฺธเสฏฺ€ มหามุนิ ฯ  
+<span class="LineNumber"> 008 </span>		าณมฺหิ ปูชํ กตฺวาน	ปิลกฺขุํ อทฺทสํ อหํ  
+<span class="LineNumber"> 009 </span>		ปฏิลทฺโธมฺหิ ตํ ปฺํ (๕)  าณปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 010 </span>		เอกตึเส อิโต กปฺเป	ยํ ปุปฺผมภิโรปยึ  
+<span class="LineNumber"> 011 </span>		ทุคฺคตึ นาภิชานามิ	าณปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 012 </span>		อิโต เตรสกปฺปมฺหิ	ทฺวาทสาสุํ ผลุคฺคตา(๖)  
+<span class="LineNumber"> 013 </span>		สตฺตรตนสมฺปนฺนา	จกฺกวตฺตี มหพฺพลา ฯ  
+<span class="LineNumber"> 014 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	อรหตฺตํ ปน ปตฺวา อตฺตโน วฏฺฏูปจฺเฉท  ทีปเนน อฺํ 
+<span class="LineNumber"> 016 </span>พฺยากโรนฺโต  
+<span class="LineNumber"> 017 </span>		ยํ มยา ปกตํ กมฺมํ		อปฺปํ วา ยทิ วา พหุํ  
+<span class="LineNumber"> 018 </span>		สพฺพเมตํ ปริกฺขีณํ		นตฺถิ ทานิ ปุนพฺภโวติ(๗)  
+<span class="LineNumber"> 019 </span># ๑. สฺยา. โปราณ. วิตฺถตาย นทียา ตีเร ฯ 
+<span class="LineNumber"> 020 </span># ๒. สี. ปิลกฺโข ฯ  ๓. สฺยา. โปราณ. มิลกฺขุผลิโน 
+<span class="LineNumber"> 021 </span># อหุ ฯ  ๔. ม. ยุ. อภิปูเชมิ ฯ  ๕. ม. ปฺํ ฯ  
+<span class="LineNumber"> 022 </span># ๖. สฺยา. พลุคฺคตา ฯ  ยุ. ขลุคฺคตา ฯ 
+<span class="LineNumber"> 023 </span># ๗. ขุ. เถร. ๒๖/๒๑๗/๒๗๘ ฯ

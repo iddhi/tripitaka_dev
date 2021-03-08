@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                   ๓.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่เนวทัสสเนนนภาวนาย- 
+<span class="LineNumber"> 002 </span>ปหาตัพพธรรม  ฯลฯ</B>  
+<span class="LineNumber"> 003 </span>                                    <I>นทัสสนติกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                        <H1>๙.  นทัสสเนนปหาตัพพเหตุกติกะ</H1>
+<span class="LineNumber"> 005 </span>                                        <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 006 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>          [๒๑] ๑.  <B>ฯลฯ    อาศัยธรรมที่ไม่ใช่ทัสสเนนปหาตัพพเหตุก-
+<span class="LineNumber"> 009 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 010 </span>                   ๒.  <B>ฯลฯ   อาศัยธรรมที่ไม่ใช่ภาวนายปหาตัพพเหตุก-
+<span class="LineNumber"> 011 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 012 </span>                   ๓.  <B>ฯลฯ   อาศัยธรรมที่ไม่ใช่เนวทัสสเนนนภาวนาย-
+<span class="LineNumber"> 013 </span>ปหาตัพพเหตุกรรม  ฯลฯ</B> 
+<span class="LineNumber"> 014 </span>                         <I>นทัสสเนนปหาตัพพเหตุกติกะ  จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า 273
+
+<span class="LineNumber"> 002 </span>			สํวรกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  สํวรกถา  นาม  โหติ ฯ  ตตฺถ  เยสํ  ตาวตึเส
+<span class="LineNumber"> 004 </span>เทเว อุปาทาย  ตทุตฺตริเทเวสุ(๑)  ยสฺมา  เต  ปฺจ  เวรานิ น
+<span class="LineNumber"> 005 </span>สมาจรนฺติ ตสฺมา สํวโร อตฺถีติ ลทฺธิ  เต  สนฺธาย  ปุจฺฉา 
+<span class="LineNumber"> 006 </span>สกวาทิสฺส  เวรสมุทาจารํ  อปสฺสโต ปฏิฺา อิตรสฺส ฯ
+<span class="LineNumber"> 007 </span>ตโต  ยสฺมา  สํวโร  นาม  สํวริตพฺเพ  อสํวเร  สติ  โหติ 
+<span class="LineNumber"> 008 </span>ตสฺมา  อสํวรปุจฺฉา  สกวาทิสฺส เทเวสุ ปาณาติปาตาทีนํ
+<span class="LineNumber"> 009 </span>อภาเวน ปน (๒) ปฏิกฺเขโป อิตรสฺส ฯ 
+<span class="LineNumber"> 010 </span>	อตฺถิ  มนุสฺเสสูติอาทิ  สํวเร  สติ  อสํวรสฺส  อสํวเร  จ
+<span class="LineNumber"> 011 </span>สติสํวรสฺส ปวตฺติทสฺสนตฺถํ วุตฺตํ ฯ 
+<span class="LineNumber"> 012 </span>	ปาณาติปาตา  เวรมณีติอาทิปเฺหสุ  ปาณาติปาตาทีนํ
+<span class="LineNumber"> 013 </span>อสมาจรณวเสน  ปฏิฺา  ปาณาติปาตาทีนํ  นตฺถิตาย  ปฏิกฺเขโป
+<span class="LineNumber"> 014 </span>เวทิตพฺโพ ฯ  ปฏิโลมปฺหา  อุตฺตานตฺถาเยว ฯ 
+<span class="LineNumber"> 015 </span>	อวสาเน  นตฺถิ  เทเวสุ  สํวโรติ  ปเฺห  ปาณาติปาตาทีนํ
+<span class="LineNumber"> 016 </span>อสมาจรณวเสน  ปฏิฺา  ปาณาติปาตาทีนํ  นตฺถิตาย  ปฏิกฺเขโป
+<span class="LineNumber"> 017 </span>เวทิตพฺโพ ฯ  ปฏิโลมปฺหา   อุตฺตานตฺถาเยว ฯ  อวสาเน  นตฺถิ
+<span class="LineNumber"> 018 </span>เทเวสุ  สํวโรติ  ปฺเหสุ(๓)  ปาณาติปาตาทีนิ  กตฺวา   ปุน  ตโต
+<span class="LineNumber"> 019 </span>สํวราภาวํ  สนฺธาย  ปฏิฺา  สกวาทิสฺส ฯ  ตโต  ฉลวเสน
+<span class="LineNumber"> 020 </span>ยทิ  สํวโร นตฺถิ สพฺเพ  เทวา  ปาณาติปาติโนติอาทิปุจฺฉา
+<span class="LineNumber"> 021 </span># ๑. ม. ตตุตฺตริ เทเวสุ ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. อิเม ปา€า นตฺถิ ฯ

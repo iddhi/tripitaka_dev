@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ปัญจมฌานกิริยาจิต  ประกอบด้วยอุเบกขาและเอกัคคตา ๑ ชื่อว่า
+<span class="LineNumber"> 002 </span>รูปาวจรกิริยาจิต ฯ  
+<span class="LineNumber"> 003 </span>           กุศลจิต  วิบากจิต  และกิริยาจิต  ฝ่ายรูปาวจร ๑๕
+<span class="LineNumber"> 004 </span>                 จบบริบูรณ์ทุกประการ  ด้วยประการฉะนี้แล ฯ
+<span class="LineNumber"> 005 </span>                                        [สังคหคาถา]
+<span class="LineNumber"> 006 </span>                        <B>รูปาวจรจิต  โดยความต่างแห่งฌาน  มี ๕,
+<span class="LineNumber"> 007 </span>                        โดยความต่างแห่งกุศล  วิบาก และกิริยา
+<span class="LineNumber"> 008 </span>                        รูปาวจรจิตนั้น  มี ๑๕ ฯ</B>
+<span class="LineNumber"> 009 </span>           จิตทั้ง ๔ นี้  คือ  อากาสานัญจายตนกุศลจิต  ๑ วิญญาณัญจายตน-
+<span class="LineNumber"> 010 </span>กุศลจิต ๑  อากิญจัญญายตนกุศลจิต ๑  เนวสัญญานาสัญญายตน-
+<span class="LineNumber"> 011 </span>กุศลจิต ๑ ชื่อว่า  อรูปาวจรกุศลจิต ฯ
+<span class="LineNumber"> 012 </span>           จิตทั้ง ๔ นี้  คือ  อากาสานัญจายตนวิบากจิต ๑ วิญญาณัญจายตน-
+<span class="LineNumber"> 013 </span>วิบากจิต ๑  อากิญจัญญายตนวิบากจิต ๑  เนวสัญญาณสัญญายตนวิบาก-
+<span class="LineNumber"> 014 </span>จิต ๑ ชื่อว่า  อรูปาวจรวิบากจิต ฯ
+<span class="LineNumber"> 015 </span>           จิตทั้ง ๔ นี้  คือ  อากาสานัญจาตนกิริยาจิต ๑  วิญญาณัญจาย-
+<span class="LineNumber"> 016 </span>ตนกิริยาจิต ๑  อากิญจัญญายตนกิริยาจิต ๑  เนวสัญญานาสัญญายตน-
+<span class="LineNumber"> 017 </span>กิริยาจิต ๑ ชื่อว่า  อรูปวจรกิริยาจิต ฯ
+<span class="LineNumber"> 018 </span>           กุศลจิต  วิบากจิต  และกิริยา  ฝ่ายอรูปาวจร ๑๒
+<span class="LineNumber"> 019 </span>                   จบบริบูรณ์ทุกประการ  ด้วยประการฉะนี้แล ฯ
+<span class="LineNumber"> 020 </span>                                          [สังคหคาถา]
+<span class="LineNumber"> 021 </span>                        <B>อรูปจิต  (อรูปาวจรจิต)  มี ๔ โดย</B>
+

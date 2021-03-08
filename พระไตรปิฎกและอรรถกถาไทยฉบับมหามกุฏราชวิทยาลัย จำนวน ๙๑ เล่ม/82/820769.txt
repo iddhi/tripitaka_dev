@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>อตีตานาคตวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>         บุคคลใดไม่ใช่เคยรู้แจ้งจักขายตนะ,   บุคคลนั้นก็ไม่ใช่จักรู้แจ้ง
+<span class="LineNumber"> 003 </span>โสตายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         บุคคลเหล่าใดจักได้มรรค   บุคคลเหล่านั้นไม่ใช่เคยรู้แจ้งจักขา-
+<span class="LineNumber"> 005 </span>ยตนะ   แต่จักรู้แจ้งโสตายตนะ,    อรหัตผลบุคคลก็ดี   ปุถุชนเหล่าใด
+<span class="LineNumber"> 006 </span>จักไม่ได้มรรค    ปุถุชนเหล่านั้นก็ดี  ไม่ใช่เคยรู้แจ้งจักขายตนะ    และ
+<span class="LineNumber"> 007 </span>ไม่ใช่จักรู้แจ้งโสตายตนะ.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า  บุคคลใดไม่ใช่จักรู้แจ้งโสตายตนะ,  บุคคลนั้นก็ไม่ใช่
+<span class="LineNumber"> 009 </span>เคยรู้แจ้งจักขายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         อรหัตผลบุคคลไม่ใช่จักรู้แจ้งโสตายตนะ  แต่เคยรู้แจ้งรูปขันธ์,
+<span class="LineNumber"> 011 </span>อรหัตมรรคบุคคลก็ดี  ปุถุชนเหล่าใดจะไม่ได้มรรค   ปุถุชนเหล่านั้นก็ดี
+<span class="LineNumber"> 012 </span>ไม่ใช่จักรู้แจ้งโสตายตนะ   และก็ไม่ใช่เคยรู้แจ้งจักขายตนะ.
+<span class="LineNumber"> 013 </span>                        <I>จบ   จักขายตนมูละ  โสตายตนมูลี</I>
+<span class="LineNumber"> 014 </span>                                     <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 015 </span>                            <I>อตีตานาคตวาระ  ปัจจนิก  จบ</I>
+<span class="LineNumber"> 016 </span>                                     <I>ปริญญาวาระ  จบ</I>
+<span class="LineNumber"> 017 </span>                                   <I>อายตนยมกที่  ๓ จบ</I>

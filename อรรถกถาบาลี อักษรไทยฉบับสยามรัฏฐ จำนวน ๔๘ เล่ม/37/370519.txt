@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 519
+
+<span class="LineNumber"> 002 </span>		เวธมสฺสฏฺ€ปตฺตํว		ปิตุปาทภิวนฺทติ(๑)  
+<span class="LineNumber"> 003 </span>		ปิตุ ปาทานิ วนฺทิตฺวา	อิทํ วจนมพฺรวิ  
+<span class="LineNumber"> 004 </span>		อมฺมา จ ตาต นิกฺขนฺตา	ตวฺจ โน ตาต ทสฺสสิ  
+<span class="LineNumber"> 005 </span>		ยาว อมฺมํปิ ปสฺเสมุ	อถ โน ตาต ทสฺสสิ  
+<span class="LineNumber"> 006 </span>		อมฺมา จ ตาต นิกฺขนฺตา	ตฺวฺจ โน ตาต ทสฺสสิ  
+<span class="LineNumber"> 007 </span>		มา โน ตฺวํ ตาต อททา	ยาว อมฺมาปิ เอติ (๒)โน  
+<span class="LineNumber"> 008 </span>		ตทายํ พฺราหฺมโณ กามํ	วิกฺกีณาตุ หนาตุ วา  
+<span class="LineNumber"> 009 </span>		พลงฺกปาโท อทฺธนโข	อโถ โอพทฺธปิณฺฑิโก  
+<span class="LineNumber"> 010 </span>		ทีโฆตฺตโรฏฺโ€ จปโล	กฬาโร ภคฺคนาสโก  
+<span class="LineNumber"> 011 </span>		กุมฺโภทโร ภคฺคปิฏฺ€ิ	อโถ วิสมจกฺขุโก  
+<span class="LineNumber"> 012 </span>		โลหมสฺสุ หริตเกโส	วลีนํ ติลกาหโต  
+<span class="LineNumber"> 013 </span>		ปิงฺคโล จ วินโต จ		วิกโฏ จ พฺรหา ขโร  
+<span class="LineNumber"> 014 </span>		อชินานิปิ สนฺนทฺโธ	อมนุสฺโส ภยานโก  
+<span class="LineNumber"> 015 </span>		มนุสฺโส อุทาหุ ยกฺโข	มํสโลหิตโภชโน  
+<span class="LineNumber"> 016 </span>		คามา อรฺํ อาคมฺม	ธนํ ตํ ตาต ยาจติ  
+<span class="LineNumber"> 017 </span>		นียมานา(๓) ปิสาเจน	กินฺนุ ตาต อุทกฺขสิ  
+<span class="LineNumber"> 018 </span>		อสฺมา นูน เต หทยํ	อยสา ทฬฺหพนฺธนํ  
+<span class="LineNumber"> 019 </span>		โย โน พนฺเธ น ชานาสิ	พฺราหฺมเณน ธเนสินา  
+<span class="LineNumber"> 020 </span>		อจฺจายิเกน ลุทฺเทน  โย โน คาโวว สุมฺภติ  
+<span class="LineNumber"> 021 </span># ๑. ม. ปิตุ ปาทานิ วนฺทติ ฯ  ๒. ม. เอตุ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. นียมาเน ฯ 

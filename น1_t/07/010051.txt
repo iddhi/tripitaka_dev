@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	๔.  ให้รู้จักลิ้น  รู้จักรส  รู้จักสัญโญชน์  เกิดขึ้นเพราะอาศัย   
+<span class="LineNumber"> 002 </span>ลิ้นกับรส
+<span class="LineNumber"> 003 </span>	๕.  ให้รู้จักกาย  รู้จักโผฏฐัพพะ  รู้จักสัญโญชน์  เกิดขึ้นเพราะ
+<span class="LineNumber"> 004 </span>อาศัยกายสัมผัส
+<span class="LineNumber"> 005 </span>	๖.  ให้รู้จักมนะ  รู้จักธัมมะ  คือเรื่องที่ใจรู้  รู้จักสัญโญชน์
+<span class="LineNumber"> 006 </span>เกิดขึ้นเพราะอาศัยใจมนะและธรรม
+<span class="LineNumber"> 007 </span><B>เมื่อพิจารณาไปจะเกิดโพชฌงค์มีองค์ ๗</B>
+<span class="LineNumber"> 008 </span>	๑.  เมื่อมีสติสัมโพชฌงค์ก็รู้ชัดว่ามีอยู่  สติในที่นี้หมายถึง
+<span class="LineNumber"> 009 </span>การไม่หลงมีความโพลงอยู่  เมื่อไม่มีก็รู้ชัดว่าไม่มี
+<span class="LineNumber"> 010 </span>	๒.  เมื่อมีธัมมวิจยสัมโพชฌงค์  	ก็รู้ว่ามี	เมื่อไม่มีก็รู้ว่าไม่มี
+<span class="LineNumber"> 011 </span>	๓.  เมื่อมีวิริยสัมโพชฌงค์		     "		    "	   	"
+<span class="LineNumber"> 012 </span>	๔.  เมื่อมีปีติสัมโพชฌงค์	                        "		    "		"
+<span class="LineNumber"> 013 </span>	๕.  เมื่อมีปัสสัทธิสัมโพชฌงค์		     "		    "		"
+<span class="LineNumber"> 014 </span>	๖.  เมื่อมีสมาธิสัมโพชฌงค์		     "		    "		"
+<span class="LineNumber"> 015 </span>	๗.  เมื่อมีอุเบกขาสัมโพชฌงค์		     "		    "		"
+<span class="LineNumber"> 016 </span>	เมื่อพิจารณาไปปัญญายังอ่อนอยู่  ไม่รู้อริยสัจความจริง  ๔  อย่าง
+<span class="LineNumber"> 017 </span>ต้องดำเนินอาศัยมรรคปัญญาให้เกิด
+<span class="LineNumber"> 018 </span>	๑.  สัมมาทิฏฐิ	ความเห็นชอบ		(ปัญญา)
+<span class="LineNumber"> 019 </span>	๒. สัมมาสังกัปปะ	ความดำริชอบ		(ปัญญา)
+<span class="LineNumber"> 020 </span>	๓.  สัมมาวาจา	เจรจาชอบ			(ศีล)
+

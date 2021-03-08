@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           พึงผูกจักรนัย. 
+<span class="LineNumber"> 002 </span>           ทิฏฐาสวะ   อวิชชาสวะ   และสัมปยุตตขันธ์ทั้งหลาย   อาศัยกามาสวะ
+<span class="LineNumber"> 003 </span>และหทยวัตถุ.
+<span class="LineNumber"> 004 </span>           พึงผูกจักรนัย.
+<span class="LineNumber"> 005 </span>                                                   ฯลฯ
+
+<span class="LineNumber"> 006 </span>                                  <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 007 </span>           [๓๓๗]  ในเหตุปัจจัย มี ๙ วาระ  ในอารัมมณปัจจัย มี ๙ วาระ ใน
+<span class="LineNumber"> 008 </span>อธิปติปัจจัย  มี ๙ วาระ ฯลฯ  ในวิปากปัจจัย  มี ๑ วาระ ฯลฯ  ในวิคตปัจจัย
+<span class="LineNumber"> 009 </span>มี ๙ วาระ.
+<span class="LineNumber"> 010 </span>                                             <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                                <H1>ปัจจนียนัย</H1>  
+<span class="LineNumber"> 012 </span>                                             <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 013 </span>           [๓๓๘] ๑.  <B>ธรรมที่ไม่ใช่อาสวธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 014 </span>อาสวธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ   ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑  ที่ไม่ใช่อาสวธรรม
+<span class="LineNumber"> 016 </span>ซึ่งเป็นอเหตุกะ ฯลฯ   ขันธ์ ๒  ฯลฯ
+<span class="LineNumber"> 017 </span>           ในอเหตุกปฏิสนธิขณะ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 018 </span>           จักขุวิญญาณ   อาศัยจักขายตนะ ฯลฯ   กายวิญญาณ  อาศัยกายายตนะ.
+<span class="LineNumber"> 019 </span>           ขันธ์ทั้งหลายที่ไม่ใช่อาสวธรรม   ซึ่งเป็นอเหตุกะ  อาศัยหทยวัตถุ.

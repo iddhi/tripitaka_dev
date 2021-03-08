@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ในอรูปภูมิ ฯลฯ  ขันธ์ ๑  ที่เป็นอัปปมาณธรรม  ฯลฯ. 
+<span class="LineNumber"> 002 </span>           <B>เพราะโนนัตถิปัจจัย  เพราะโนวิคตปัจจัย.</B>
+
+<span class="LineNumber"> 003 </span>                         <H1>การนับจำนวนวาระในปัจจนียนัย</H1>
+<span class="LineNumber"> 004 </span>                                         <H1>สุทธมูลกนัย</H1> 
+<span class="LineNumber"> 005 </span>           [๑๓๗๐]  ในเหตุปัจจัย   มี ๑ วาระ  ในนอารัมมณปัจจัย มี ๕ วาระ
+<span class="LineNumber"> 006 </span>ในนอธิปติปัจจัย มี ๑๐ วาระ  ในนอนันตรปัจจัย  มี ๕ วาระ  ในนสมนันตร-
+<span class="LineNumber"> 007 </span>ปัจจัย  มี ๕ วาระ  ในนอัญญมัญญปัจจัย มี ๕ วาระ ในนอุปนิสสยปัจจัยมี ๕
+<span class="LineNumber"> 008 </span>วาระ  ในนปุเรชาตปัจจัย  มี ๑๒ วาระ  ในนปัจฉาชาตปัจจัย  มี ๑๓ วาระ ใน
+<span class="LineNumber"> 009 </span>นอาเสวนปัจจัย  มี ๑๓ วาระ  ในนกัมมปัจจัย  มี ๓  วาระ  ในนวิปากปัจจัย
+<span class="LineNumber"> 010 </span>มี ๙ วาระ  ในนอาหารปัจจัย  มี ๑ วาระ  ในนอินทริยปัจจัย  ในนฌานปัจจัย
+<span class="LineNumber"> 011 </span>ในนมัคคปัจจัย  แต่ละปัจจัย  มี ๑  วาระ  ในนสัมปยุตตปัจจัย  มี ๕ วาระ  ใน 
+<span class="LineNumber"> 012 </span>นวิปปยุตตปัจจัย  มี ๓ วาระ ในโนนัตถิปัจจัย  มี ๕ วาระ ในโนวิคตปัจจัย
+<span class="LineNumber"> 013 </span>มี ๕ วาระ.
+<span class="LineNumber"> 014 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 015 </span>                                           <I>ปัจจนียนัย  จบ</I>
+
+<span class="LineNumber"> 016 </span>                                          <H1>อนุโลมปัจจนียนัย</H1>
+<span class="LineNumber"> 017 </span>                           <H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1>
+<span class="LineNumber"> 018 </span>           [๑๓๗๑]  <B>เพราะเหตุปัจจัย</B>  ในนอารัมมณปัจจัย มี ๕ วาระ...ในน
+<span class="LineNumber"> 019 </span>อธิปติปัจจัย  มี ๑๐ วาระ ในนอนันตรปัจจัย  มี ๕ วาระ ในนสมนันตร-
+<span class="LineNumber"> 020 </span>ปัจจัย ในนอัญญมัญญปัจจัย  ในนอุปนิสสยปัจจัย  แต่ละปัจจัย  มี ๕ วาระ
+ 

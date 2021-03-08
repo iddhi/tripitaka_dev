@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  350
+
+<span class="LineNumber"> 002 </span>	ยสฺส รุกฺขสฺส ฉายาย  นิสีเทยฺย สเยยฺย วา  
+<span class="LineNumber"> 003 </span>	น ตสฺส สาขํ ภฺเชยฺย  มิตฺตทุพฺโภ หิ ปาปโก  
+<span class="LineNumber"> 004 </span>		ปุณฺณมฺปิ เจ มํ ป€วี ธเนน  
+<span class="LineNumber"> 005 </span>		ทชฺชิตฺถิยา ปุริโส สมฺมตาย  
+<span class="LineNumber"> 006 </span>		ลทฺธา ขณํ อติมฺเยฺย ตมฺปิ  
+<span class="LineNumber"> 007 </span>		ตาสํ วสํ อสตีนํ น คจฺเฉ  
+<span class="LineNumber"> 008 </span>		เอวํ โข ยาตํ อนุยายี โหติ  
+<span class="LineNumber"> 009 </span>		อลฺลฺจ ปาณึ ทหเต ปุเนวํ  
+<span class="LineNumber"> 010 </span>		อสตี จ สาโส ปน มิตฺตทุพฺโภ  
+<span class="LineNumber"> 011 </span>		โส ธมฺมิโก โหหิ ชหสฺสุ อธมฺมนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อสณฺ€ตนฺติ  เอกาหํ  ทวิหมฺปิ  เอกโต  อวุฏฺ€ปุพฺพํ ฯ  
+<span class="LineNumber"> 013 </span>โย  อาสเนนาปีติ  โย  เอวรูปํ [๑] อาสนมตฺเตนาปิ  นิมนฺเตยฺย
+<span class="LineNumber"> 014 </span>ปเคว  อนฺนปานาทีหิ ฯ  ตสฺเสวาติ  ตสฺส  เอว(๒)  ปุพฺพการิสฺส 
+<span class="LineNumber"> 015 </span>อตฺถํ  ปุริโส  กโรเตว ฯ  ยาตานุยายีติ  ปุพฺพการินา(๓)  ยาตสฺส 
+<span class="LineNumber"> 016 </span>มคฺคสฺส (๔) อนุยายี ฯ  ป€มํ  กโรนฺโต  หิ  ยายี  นาม  ปจฺฉา
+<span class="LineNumber"> 017 </span>กโรนฺโต  ปน อนุยายี นามาติ  เอวํ  ปณฺฑิตา  กเถนฺติ  อยํ 
+<span class="LineNumber"> 018 </span>เทวราช  ป€โม  สาธุนรธมฺโม ฯ  อลฺลฺจ  ปาณินฺติ(๕)  ทรูภกํ(๖) 
+<span class="LineNumber"> 019 </span>อตฺตโน  ภุฺชนหตฺถเมว  ทหนฺโต  หิ  มิตฺตทุพฺภี  นาม  โหติ ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร ปุคฺคลนฺติ ทิสฺสติ ฯ ๒. ม. เอวสทฺโท นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ปุพฺพการิตาย ฯ  ๔. ม. ปุคฺคลสฺส ฯ  ๕. ม. อทุพฺภปาณินฺติ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. อทุพฺภกํ ฯ

@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าวิญญาณ,        ชื่อว่าวิญญาณขันธ์  ใช่ไหม  ? 
+<span class="LineNumber"> 002 </span>ธรรมที่ชื่อว่าขันธ์,                        ชื่อว่าสัญญาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าวิญญาณ,         ชื่อว่าวิญญาณขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>ธรรมที่ชื่อว่าขันธ์,                         ชื่อว่าสังขารขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>                               <I>จบ  วิญญาณขันธมูล</I>
+<span class="LineNumber"> 006 </span>                   <I>ปทโสธนมูลจักกวาระ   อนุโลม   จบ</I>

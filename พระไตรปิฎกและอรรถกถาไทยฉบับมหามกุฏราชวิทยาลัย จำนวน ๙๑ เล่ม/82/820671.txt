@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>อุปปาทนิโรธวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                  <H1>ปัจจุปปันนวาระ อนุโลม</H1>
+<span class="LineNumber"> 003 </span>                                           <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 004 </span>                                          <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 005 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 006 </span>         [๖๘๗]   จักขายตนะกำลังเกิดแก่บุคคลใด,   โสตายตนะก็กำลัง
+<span class="LineNumber"> 007 </span>ดับแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   โสตายตนะกำลังดับแก่บุคคลใด,    จักขายตนะก็กำลัง
+<span class="LineNumber"> 010 </span>เกิดแก่บุคคลนั้น  ใช่ไหม   ?
+<span class="LineNumber"> 011 </span>         ไม่ใช่   ฯ ล ฯ
+<span class="LineNumber"> 012 </span>                           <I>จบ   จักขายตนมูละ  โสตายตนมูลี</I>
+
+<span class="LineNumber"> 013 </span><H2>จักขายตนมูละ  ฆานายตนะ ฯลฯ  รูปายตน  มนายตนะ ธัมมา-
+<span class="LineNumber"> 014 </span>ยตนมูลี :-</H2>
+<span class="LineNumber"> 015 </span>         [๖๘๘]   จักขายตนะกำลังเกิดแก่บุคคลใด,  ฆานายตนะ  ฯ ล ฯ
+<span class="LineNumber"> 016 </span>รูปายตนะ  มนายตนะ  ธัมมายตนะก็กำลังดับแก่บุคคลนั้น  ใช่ไหม  ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 175
+
+<span class="LineNumber"> 002 </span>จิตฺตมตํ  มมาติ  เอตํ  ตว  กาเมหิ  อภิรมนํ  นาม  มม
+<span class="LineNumber"> 003 </span>จิตฺตมตํ  น  โหติ  น  เม  เอตฺถ  จิตฺตํ  ปกฺขนฺทติ ฯ  โย  นชฺชาติ 
+<span class="LineNumber"> 004 </span>โย  โน  อชฺช ฯ  อตฺถธมฺมวิทูติ  ปาลีอตฺถฺเจว  ปาลีธมฺมฺจ
+<span class="LineNumber"> 005 </span>ชานนฺโต ฯ  อิเสติ  อิสิ  เอสิตคุโณ(๑) ฯ  
+<span class="LineNumber"> 006 </span>	องฺคติมพฺรวีติ  องฺคติ  อพฺรวิ ฯ  มยฺหํ  เจตํว  รุจฺจตีติ 
+<span class="LineNumber"> 007 </span>มยฺหํปิ เอตํเยว  รุจฺจติ ฯ  สพฺเพว  สนฺตาติ  สพฺเพว  ตุมฺเห
+<span class="LineNumber"> 008 </span>อิธ  วิชฺชมานา  มตึ  กโรถ  จินฺเตถ ฯ  อลาโต  เอตทพฺรวีติ  
+<span class="LineNumber"> 009 </span>ตํ  รฺโ  กถํ  สุตฺวา  อยํ  มม  กุลุปโก  คุโณ  นาม  อาชีวโก 
+<span class="LineNumber"> 010 </span>ราชุยฺยาเน  วสติ  ตํ  ปสํสิตฺวา  ราชกุลุปกํ  กริสฺสามีติ 
+<span class="LineNumber"> 011 </span>จินฺเตตฺวา  เอตํ  อตฺถายนฺติ อาทิวจนํ  อพฺรวิ ฯ [๒] ธีรสมฺมโตติ 
+<span class="LineNumber"> 012 </span>ปณฺฑิโตติ  สมนฺโต (๓) ฯ  กสฺสปโคตฺตายนฺติ  กสฺสปโคตฺโต  อยํ ฯ
+<span class="LineNumber"> 013 </span>สุโตติ  พหุสฺสุโต ฯ  คณีติ คณสตฺถา ฯ โจเทสีติ  อาณาเปสิ ฯ  
+<span class="LineNumber"> 014 </span>	[๔]ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 015 </span>	[๘๔๑]ตสฺส ยานํ อโยเชสุํ	ทนฺตํ รูปิยปกฺขรํ  
+<span class="LineNumber"> 016 </span>		สุกฺกมฏฺ€ปริวารํ		ปณฺฑรํ โทสินา มุขํ  
+<span class="LineNumber"> 017 </span>		ตตฺราสุํ กุมุทายุตฺตา	จตฺตาโร สินฺธวา หยา  
+<span class="LineNumber"> 018 </span>		อนีลุปฺปสมุปฺปาตา	สุทนฺตา สุวณฺณมาลิโน  
+<span class="LineNumber"> 019 </span>		เสตจฺฉตฺตํ เสตรโถ	เสตสฺสา เสตวีชนี  
+<span class="LineNumber"> 020 </span># ๑. ยุ. เอสิตคุเณ ฯ  ๒. ม. เอตฺถนฺตเร ตตฺถาติ ทิสฺสติ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. สมฺมโต ฯ ๔. ม. เอตฺถนฺตเร รฺโ ตํ กถํ สุตฺวา 
+<span class="LineNumber"> 022 </span># สารถิโน ตถา กรึสูติ ทสิสฺสนฺติ ฯ 

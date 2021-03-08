@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           เป็นอันว่ากองทุกข์ทั้งมวลนั่นย่อมดับ   ด้วยประการฉะนี้.
+<span class="LineNumber"> 002 </span>           ลำดับนั้น    พระผู้มีพระภาคเจ้าทรงทราบเนื้อความนั้นแล้ว    จึงทรง
+<span class="LineNumber"> 003 </span>เปล่งอุทานนี้ในเวลานั้น   ว่าดังนี้:-
+
+<span class="LineNumber"> 004 </span>                               <H1>พุทธอุทานคาถาที่  ๑</H1>
+<span class="LineNumber"> 005 </span>                                 <B>เมื่อใดแล   ธรรมทั้งหลาย   ปรากฏ
+<span class="LineNumber"> 006 </span>                     แก่พราหมณ์  ผู้มีเพียรเพ่งอยู่  เมื่อนั้น   ความ
+<span class="LineNumber"> 007 </span>                    สงสัยทั้งปวง    ของพราหมณ์นั้นย่อมสิ้นไป
+<span class="LineNumber"> 008 </span>                     เพราะมารู้ธรรมพร้อมทั้งเหตุ.</B>
+<span class="LineNumber"> 009 </span>           [๒]  ลำดับนั้น  พระผู้มีพระภาคเจ้าทรงมนสิการปฎิจจสมุปบาท  เป็น
+<span class="LineNumber"> 010 </span>อนุโลม   และปฏิโลมตลอดมัชฌิมยามแห่งราตรี   ว่าดังนี้ :-
+
+<span class="LineNumber"> 011 </span>                              <H2>ปฏิจจสมุปบาท  อนุโลม</H2>
+<span class="LineNumber"> 012 </span>                      <B>เพราะอวิชาเป็นปัจจัย      	จึงมีสังขาร
+<span class="LineNumber"> 013 </span>           เพราะสังขารเป็นปัจจัย                  	จึงมีวิญญาณ
+<span class="LineNumber"> 014 </span>           เพราะวิญญาณเป็นปัจจัย              	จึงมีนามรูป
+<span class="LineNumber"> 015 </span>           เพราะนามรูปเป็นปัจจัย                	จึงมีสฬายตนะ
+<span class="LineNumber"> 016 </span>           เพราะสฬายตนะเป็นปัจจัย           	จึงมีผัสสะ
+<span class="LineNumber"> 017 </span>           เพราะผัสสะเป็นปัจจัย                 	จึงมีเวทนา
+<span class="LineNumber"> 018 </span>           เพราะเวทนาเป็นปัจจัย                	จึงมีตัณหา
+<span class="LineNumber"> 019 </span>           เพราะตัณหาเป็นปัจจัย                 	จึงมีอุปาทาน
+<span class="LineNumber"> 020 </span>           เพราะอุปาทานเป็นปัจจัย             	จึงมีภพ
+<span class="LineNumber"> 021 </span>           เพราะภพเป็นปัจจัย                    	จึงมีชาติ</B>

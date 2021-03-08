@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                          อาวุโส    
+<span class="LineNumber"> 002 </span>	เป็นคำสำหรับบรรพชิตที่มีพรรษามากกว่า  เรียกบรรพชิตที่มี
+<span class="LineNumber"> 003 </span>พรรษาน้อยกว่า  และสำหรับบรรพชิตเรียกคฤหัสถ์.
+<span class="LineNumber"> 004 </span>	อุ.   "มา  อุวุโส  เอวํ  อวจ.  อาวุโส  [ท่าน]  อย่า  ได้กล่าวแล้ว
+<span class="LineNumber"> 005 </span>                ๑       ๒      ๓     ๔         ๒                ๑            ๔
+<span class="LineNumber"> 006 </span>อย่างนั้น"   ในภาษาของเราท่านบัญญัติให้แปลว่า  "แน่ะท่านผู้มีอายุ."
+<span class="LineNumber"> 007 </span>      ๓
+<span class="LineNumber"> 008 </span>                                        เร,  อเร
+<span class="LineNumber"> 009 </span>	๒  นี้  เป็นคำสำหรับร้องเรียกคนเลวทราม  ตรงกับภาษาของเรา
+<span class="LineNumber"> 010 </span>ว่า  "เว้ย,  โว้ย"  อุ.  "อเร  ขุชฺเช,  แน่ะหญิงค่อม  เว้ย.  ติฏฺ€  เร.
+<span class="LineNumber"> 011 </span>                                  ๑       ๒             ๒              ๑      ๑     ๒
+<span class="LineNumber"> 012 </span>[เอง]   จงหยุด  โว้ย."
+<span class="LineNumber"> 013 </span>             ๑        ๒
+<span class="LineNumber"> 014 </span>                                           เห
+<span class="LineNumber"> 015 </span>	เป็นคำสำหรับร้องเรียกคนเลว  ตรงกับภาษาของเราว่า  เฮ้ย"
+<span class="LineNumber"> 016 </span>อุง  "เห  มลฺลิกา  กสฺมา  เอวรูป - มกาสิ.  เฮ้ย  แน่ะนางมัลลิกา
+<span class="LineNumber"> 017 </span>        ๑       ๒         ๓         ๔          ๕       ๑              ๒
+<span class="LineNumber"> 018 </span>เหตุไร  [เจ้า]  ได้ทำแล้ว  ซึ่งกรรมมีอย่างนี้เป็นรูป."
+<span class="LineNumber"> 019 </span>   ๓                   ๕                         ๔
+<span class="LineNumber"> 020 </span>                                          เช
+<span class="LineNumber"> 021 </span>	เป็นคำสำหรับนายเรียกหญิงสาวใช้  อุ.  "หนฺท  เช  อิมํ  ภณฺฑํ
+<span class="LineNumber"> 022 </span>                                                                           ๑     ๒   ๓      ๔
+<span class="LineNumber"> 023 </span>คณฺหาหิ.  เอาเถิด  แม่  [เจ้า]  จงถือ  ซึ่งภัณฑะ  สิ่งนี้."  คำว่า  "แม่"
+<span class="LineNumber"> 024 </span>     ๕           ๑        ๒            ๕           ๔           ๓
+ 

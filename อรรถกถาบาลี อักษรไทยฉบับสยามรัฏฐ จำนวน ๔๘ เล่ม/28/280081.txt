@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 81
+
+<span class="LineNumber"> 002 </span>	มงฺคโล จ สุมโน จ			เรวโต โสภิโต มุนิ  
+<span class="LineNumber"> 003 </span>	อโนมทสฺสี ปทุโม			นารโท ปทุมุตฺตโร  
+<span class="LineNumber"> 004 </span>	สุเมโธ จ สุชาโต จ			ปิยทสฺสี มหายโส  
+<span class="LineNumber"> 005 </span>	อตฺถทสฺสี ธมฺมทสฺสี			สิทฺธตฺโถ โลกนายโก  
+<span class="LineNumber"> 006 </span>	ติสฺโส ปุสฺโส(๑) จ สมฺพุทฺโธ	วิปสฺสี สิขิ เวสฺสภู  
+<span class="LineNumber"> 007 </span>	กกุสนฺโธ โกนาคมโน		กสฺสโป จาปิ นายโก  
+<span class="LineNumber"> 008 </span>	เอเต อเหสุํ สมฺพุทฺธา		ธุตราคา(๒) สมาหิตา ฯ  
+<span class="LineNumber"> 009 </span>	สตรํสีว อุปฺปนฺนา			มหาตมวิโนทนา  
+<span class="LineNumber"> 010 </span>	ชลิตฺวา อคฺคิขนฺธาว			นิพฺพุตา เต สสาวกาติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  อมฺหากํ  โพธิสตฺโต  ทีปงฺกราทีนํ  จตุวีสติยา 
+<span class="LineNumber"> 012 </span>พุทฺธานํ  สนฺติเก  อธิการํ  กโรนฺโต  กปฺปสตสหสฺสาธิกานิ  
+<span class="LineNumber"> 013 </span>จตฺตาริ  อสงฺเขยฺยานิ  อาคโต ฯ  กสฺสปสฺส  ปน  ภควโต 
+<span class="LineNumber"> 014 </span>โอรภาเค  €เปตฺวา  อิมํ  สมฺมาสมฺพุทฺธํ  อฺโ  พุทฺโธ  นาม
+<span class="LineNumber"> 015 </span>นตฺถิ ฯ  อิติ  ทีปงฺกราทีนํ  จตุวีสติยา พุทฺธานํ สนฺติเก 
+<span class="LineNumber"> 016 </span>ลทฺธพฺยากรโณ ปน โพธิสตฺโต เยเนน  
+<span class="LineNumber"> 017 </span>	มนุสฺสตฺตํ ลิงฺคสมฺปตฺติ		เหตุ สตฺถารทสฺสนํ  
+<span class="LineNumber"> 018 </span>	ปพฺพชฺชา คุณสมฺปตฺติ		อธิกาโร จ ฉนฺทตา  
+<span class="LineNumber"> 019 </span>	อฏฺ€ธมฺมสโมธานา			อภินีหาโร สมิชฺฌตีติ 
+<span class="LineNumber"> 020 </span>อิเม  อฏฺ€  ธมฺเม  สโมธาเนตฺวา  ทีปงฺกรปาทมูเล  กตาภินีหาเรน  
+<span class="LineNumber"> 021 </span># ๑. ม. ผุสฺโส ฯ  ๒. ม. วีตราคา ฯ  ๓. สี. ยุ. เยน ปน เตน ฯ 
+<span class="LineNumber"> 022 </span># ม. โพธิสตฺโต เยเนน ฯ

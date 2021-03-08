@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๓   อาศัยขันธ์ ๑   ที่สหรคตด้วยโทมนัส    ที่สหรคตด้วย 
+<span class="LineNumber"> 002 </span>วิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  และโมหะ ฯลฯ  ขันธ์ ๒  ฯลฯ
+<span class="LineNumber"> 003 </span>                       ๘.  <B>อาสววิปปยุตตธรรม    อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 004 </span>และอาสววิปปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 006 </span>และมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 007 </span>           จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลาย  ที่สหรคตด้วยโทมนัส  ที่สหรคต
+<span class="LineNumber"> 008 </span>ด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  และโมหะ
+<span class="LineNumber"> 009 </span>                       ๙.  <B>อาสวสัมปยุตตธรรม    และอาสววิปปยุตตธรรม
+<span class="LineNumber"> 010 </span>อาศัยอาสวสัมปยุตตธรรม และอาสววิปปยุตตธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 011 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ   ขันธ์ ๓   และจิตตสมุฏฐานรูป    อาศัยขันธ์ ๑    ที่สหรคตด้วย
+<span class="LineNumber"> 013 </span>โทมนัส    ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ    และโมหะ ฯลฯ
+<span class="LineNumber"> 014 </span>ขันธ์ ๒ ฯลฯ
+
+<span class="LineNumber"> 015 </span>				     <H1>๒. อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           [๓๖๔] ๑.  <B>อาสวสัมปยุตตธรรม  อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 017 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอาสวสัมปยุตตธรรม ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 019 </span>                       ๒.  <B>อาสววิปปยุตตธรรม   อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 020 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>

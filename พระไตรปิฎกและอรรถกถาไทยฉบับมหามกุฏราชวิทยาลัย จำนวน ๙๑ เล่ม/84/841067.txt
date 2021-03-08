@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคล   ๖   จำพวก      จักรู้แจ้งจักขุนทรีย์     แต่ไม่ใช่จักเจริญ
+<span class="LineNumber"> 002 </span>อนัญญาตัญญัสสามีตินทรีย์,    ปุถุชนเหล่าใดจักได้มรรคปุถุชนเหล่านั้น
+<span class="LineNumber"> 003 </span>จักรู้แจ้งจักขุนทรีย์   และก็จักเจริญอนัญญาตัญญัสสามีตินทรีย์.
+<span class="LineNumber"> 004 </span>         ก็หรือว่า  บุคคลใดจักเจริญอนัญญาตัญญัสสามีติทรีย์,   บุคคล  
+<span class="LineNumber"> 005 </span>นั้นก็จักรู้แจ้งจักขุนทรีย์    ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>             <I>จบ   จักขุนทริยมูละ   อนัญญาตัญญัสสามีตินทริยมูลี</I>
+
+<span class="LineNumber"> 008 </span><B>จักขุนทริยมูละ  อัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 009 </span>         [๑๓๗๗]   บุคคลใดจักรู้แจ้งจักขุนทรีย์,    บุคคลนั้นก็จักเจริญ
+<span class="LineNumber"> 010 </span>อัญญินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่. 
+<span class="LineNumber"> 012 </span>         ก็หรือว่า    บุคคลใดจักเจริญอัญญินทรีย์,    บุคคลนั้นก็จักรู้แจ้ง
+<span class="LineNumber"> 013 </span>จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>                       <I>จบ   จักขุนทริยมูละ    อัญญินทริยมูลี</I>
+
+<span class="LineNumber"> 016 </span><B>จักขุนทริยมูละ  อัญญาตาวินทริยมูลี:-</B>
+<span class="LineNumber"> 017 </span>         [๑๓๗๘]   บุคคลใดจักรู้แจ้งจักขุนทรีย์,   บุคคลนั้นก็จักกระทำ
+<span class="LineNumber"> 018 </span>ให้แจ้งอัญญาตาวินทรีย์  ใช่ไหม  ?

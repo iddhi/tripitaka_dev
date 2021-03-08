@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>               		     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 002 </span>		[๑๑๖๔]  ในเหตุปัจจัย  มี ๑ วาระ    ในอารัมมณปัจจัย  มี  ๑ วาระ 
+<span class="LineNumber"> 003 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 004 </span>          	ในสหชาตวาระก็ดี  ฯลฯ  ในปัญหาวาระก็ดี  มี ๑  วาระ  ทุกปัจจัย.
+
+<span class="LineNumber"> 005 </span>					<H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 006 </span>						<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 007 </span>					     <H2>๑.เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๑๑๖๕]   ๑.  อัพยากตธรรมที่เป็นสาสวธรรม  อาศัยอัพยากต-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นสาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                   	      ๒.  อัพยากตธรรมที่เป็นอนาสวธรรม อาศัยอัพยากต-
+<span class="LineNumber"> 011 </span>ธรรมที่เป็นอนาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                  	       ๓.  อัพยากตธรรมที่เป็นสาสวธรรม  อาศัยอัพยากต-
+<span class="LineNumber"> 013 </span>ธรรมที่เป็นอนาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 014 </span>			        ๔.  อัพยากตธรรมที่เป็นสาสวธรรม  และอัพยากต-
+<span class="LineNumber"> 015 </span>ธรรมที่เป็นอนาสวธรรม     อาศัยอัพยากตธรรมที่เป็นอนาสวธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 017 </span>                   	      ๕.  อัพยากตธรรมที่เป็นสาสวธรรม  อาศัยอัพยากต-
+<span class="LineNumber"> 018 </span>ธรรมที่เป็นสาสวธรรม และอัพยากตธรรมที่เป็นอนาสวธรรม เกิดขึ้น
+<span class="LineNumber"> 019 </span>เพราะเหตุปัจจัย

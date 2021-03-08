@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  38  มหานิทฺเทสวณฺณนา  หน้า  154
+
+<span class="LineNumber"> 002 </span>ตพฺพหุลา ฯ  อารมฺมณสฺส  มนาปภาเวน  ตคฺครุกา ฯ  อารมฺมณสฺส 
+<span class="LineNumber"> 003 </span>ปิยภาเวน  ตนฺนินฺนา ฯ  อารมฺมณสฺส  กามูปสฺหิตภาเวน  
+<span class="LineNumber"> 004 </span>ตปฺโปณา ฯ  อารมฺมณสฺส  รชนียภาเวน  ตปฺปพฺภารา 
+<span class="LineNumber"> 005 </span>อารมฺมณสฺส  มุจฺฉนียภาเวน  ตทธิมุตฺตา ฯ อารมฺมณสฺส 
+<span class="LineNumber"> 006 </span>พนฺธนียภาเวน ตทาธิปเตยฺยาติ เอวเมเก วณฺณยนฺติ ฯ  
+<span class="LineNumber"> 007 </span>รูเป  ปริเยสนฺตีติอาทีสุ  ปริเยสนฺตีติ  อลทฺธสฺส  ลาภาย 
+<span class="LineNumber"> 008 </span>เอสนวเสน ฯ  ปฏิลภนฺตีติ  หตฺถคตวเสน ฯ  ปริภุฺชนฺตีติ  
+<span class="LineNumber"> 009 </span>วลฺชนวเสน  วุตฺตนฺติ  าตพฺพํ ฯ กลหํ วิวาทํ  
+<span class="LineNumber"> 010 </span>กโรตีติ  กลหการโม ฯ   ตสฺมึ นิยุตฺโตติ กลหปฺปสุโต ฯ 
+<span class="LineNumber"> 011 </span>กมฺมการกาทีสุปิ เอเสว นโย ฯ  โคจเร  จรนฺโตติ  
+<span class="LineNumber"> 012 </span>เวสิยาทิโคจเร (๑) สติปฏฺ€านาทิโคจเร วา จรมาโน ฯ
+<span class="LineNumber"> 013 </span>เตสุ  นิยุตฺโต  โคจรปฺปสุโต ฯ  อารมฺมณูปนิชฺฌานวเสน
+<span class="LineNumber"> 014 </span>ฌานํ  อสฺส  อตฺถีติ  ฌายี ฯ ตสฺมึ นิยุตฺโต 
+<span class="LineNumber"> 015 </span>ฌานปฺปสุโต ฯ  
+<span class="LineNumber"> 016 </span>	อวคจฺฉนฺตีติ (๒) อปายํ  คจฺฉนฺติ ฯ  มจฺฉริโนติ  สกสมฺปตฺติ-
+<span class="LineNumber"> 017 </span>นิคูหิโน (๓)  ฯ  วจนนฺติ กถนํ ฯ  พฺยปถนฺติ  วากฺยปถํ ฯ 
+<span class="LineNumber"> 018 </span>เทสนนฺติ วิสฺสชฺชโนวาทํ ฯ อนุสิฏฺ€ินฺติ อนุสาสนึ ฯ น 
+<span class="LineNumber"> 019 </span>อาทิยนฺตีติ  น คณฺหนฺติ น ครุกโรนฺติ ฯ น อลฺลียนฺตีติปิ 
+<span class="LineNumber"> 020 </span>ปาโ€ (๔) โสเยว อตฺโถ ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. เวสิยาทิโคจเร ฯ  ๒. ม. อวคจฺฉนฺตีติ ฯ  ๓. สี. สกสมฺปตฺตึ
+<span class="LineNumber"> 022 </span>นิคุหิโน ฯ  ม. สกสมฺปตฺตึ นิคุหนฺตา ฯ  ๔. ม. น ปฏิสฺสนฺตีติ วา ปาโ€ ฯ

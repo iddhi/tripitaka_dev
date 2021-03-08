@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>นิทเทสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>ปุคคลวาระนิทเทส</H1>
+<span class="LineNumber"> 003 </span><H1>อุปปาทนิโรธกาลสัมเภทวาระ</H1> :-
+<span class="LineNumber"> 004 </span>         [๔๔]  จิตของบุคคลใดกำลังเกิด ไม่ใช่กำลังดับ, จิตของบุคคล 
+<span class="LineNumber"> 005 </span>นั้นจักดับ  จักไม่เกิด  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ในอุปปาทักขณะแห่งปัจฉิมจิต   จิตของบุคคลนั้นกำลังเกิด ไม่ใช่
+<span class="LineNumber"> 007 </span>กำลังดับ จักดับไม่ใช่จักเกิด,  ในอุปปาทขณะแห่งจิตของบุคคลนอกจาก
+<span class="LineNumber"> 008 </span>นี้   จิตของบุคคลนั้นกำลังเกิดไม่ใช่กำลังดับ จักดับด้วยเกิดด้วย     
+<span class="LineNumber"> 009 </span>         ก็หรือว่าจิตของบุคคลใดจักดับ จักไม่เกิด จิตของบุคคลนั้นกำลัง
+<span class="LineNumber"> 010 </span>เกิดไม่ใช่กำลังดับ ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         จิตของบุคคลใดไม่ใช่กำลังเกิดกำลังดับ,    จิตของบุคคลนั้นจักไม่
+<span class="LineNumber"> 013 </span>ดับจักเกิด ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ไม่ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่าจิตของบุคคลใดจักไม่ดับจักเกิด   จิตของบุคคลนั้นไม่ใช่
+<span class="LineNumber"> 016 </span>กำลังเกิดกำลังดับ ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ไม่มี.

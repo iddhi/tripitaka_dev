@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  449
+
+<span class="LineNumber"> 002 </span>			น โน สกฺโกติ โมเจตุํ สุเขเนว มโหสโถ  
+<span class="LineNumber"> 003 </span>			อถ เสนกสฺส วจนํ กริสฺสามาติ ฯ  
+<span class="LineNumber"> 004 </span>	ตํ  สุตฺวา  ราชา  ปุพฺเพ  โพธิสตฺตสฺส  กตโทสํ (๑)  สริตฺวา  เตน  
+<span class="LineNumber"> 005 </span>สทฺธึ กเถตุํ อสกฺโกนฺโต ตสฺส สุณนฺตสฺเสว ปริเทวนฺโต 
+<span class="LineNumber"> 006 </span>อาห  
+<span class="LineNumber"> 007 </span>	[๖๔๖]	ยถา กทฺทลิโน สารํ		อเนฺวสํ นาธิคจฺฉติ  
+<span class="LineNumber"> 008 </span>			เอวํ อเนฺวสมานา นํ		ปฺหํ นาชฺฌคมามฺหเส  
+<span class="LineNumber"> 009 </span>			ยถา สิมฺพลิโน สารํ		อเนฺวสํ นาธิคจฺฉติ  
+<span class="LineNumber"> 010 </span>			เอวํ อเนฺวสมานา นํ		ปฺหํ นาชฺฌคมามฺเหส (๒) 
+<span class="LineNumber"> 011 </span>			อเทเส วต โน วุฏฺ€ํ		กุฺชรานํวนูทเก  
+<span class="LineNumber"> 012 </span>			สงฺกาเส (๓) ทุมฺมนุสฺสานํ	พาลานํ อวิชานตํ  
+<span class="LineNumber"> 013 </span>			อุพฺเพธติ เม หทยํ		มุขฺจ ปริสุสฺสติ  
+<span class="LineNumber"> 014 </span>			นิพฺพุตึ นาธิคจฺฉามิ		อคฺคิทฑฺโฒว อาตเป  
+<span class="LineNumber"> 015 </span>			กมฺมารานํ ยถา อุกฺกา		อนฺโต ฌายติ โน พหิ  
+<span class="LineNumber"> 016 </span>			เอวํปิ หทยํ มยฺหํ			อนฺโต ฌายติ โน พหีติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  กทฺทลิโนติ  ยถา  กทฺทลิกฺขนฺทสฺส  นิสฺสารตฺตา  สารตฺถิโก  
+<span class="LineNumber"> 018 </span>ปุริโส  อเนฺวสนฺโตปิ  ตโต  สารํ  นาธิคจฺฉติ  เอวํ  มยํ  อิมมฺหา  
+<span class="LineNumber"> 019 </span>ทุกฺขา  มุฺจนุปายํ  ปฺจ  ปณฺฑิเต  ปุจฺฉิตฺวา  อเนฺวสมานาปิ  นํ  
+<span class="LineNumber"> 020 </span>ปฺหํ ฯ  นาชฺฌคมามฺหเสติ (๒) อมฺเหหิ  ปุจฺฉิตุปายํ  อสุณนฺโต  วิย  
+<span class="LineNumber"> 021 </span># ๑. ม. ยุ. กถิตโทสํ ฯ  ๒. ม. นชฺฌคมามเส ฯ  ยุ. นาชฺฌคมามเส ฯ
+<span class="LineNumber"> 022 </span># ๓. ส. ม. ยุ.สกาเส ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H2>ปัจจุปปันนบท</H2>
+<span class="LineNumber"> 002 </span>           [๙๘๘] ๑.  <B>ธรรมที่ไม่ใช่ปัจจุปันนธรรม  ที่ไม่ใช่กุศล  เป็น- 
+<span class="LineNumber"> 003 </span>ปัจจัยแก่ปัจจุปปันนธรรม  ที่เป็นกุศล  ด้วยอำนาจของอารัมมณปัจจัย</B> 
+<span class="LineNumber"> 004 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 005 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>           [๙๘๙]  ในอารัมมณปัจจัย มี  ๑๘ วาระ  ฯลฯ
+<span class="LineNumber"> 007 </span>              <I>นกุสลติกนอุปปันนติกกุสลติกอุปปันนติกะ  จบ</I>
+
+<span class="LineNumber"> 008 </span>              <H1>นกุสลติกนอตีตารัมมณติกกุสลติกอตีตารัมมณติกะ</H1><SUP>๑</SUP>
+<span class="LineNumber"> 009 </span>               <H2>(๑. กุสลติกะ  ๑๘.  อตีตารัมมณติกะ)</H2>
+<span class="LineNumber"> 010 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 011 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                                   <H2>อตีตารัมมณบท</H2>
+<span class="LineNumber"> 014 </span>           [๙๙๐]  ๑.  <B>อตีตารัมมณธรรม  ที่เป็นอัพยากตะ   อาศัยธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่อตีตารัมมณธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 017 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>           [๙๙๑]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+<span class='footnote'>๑.  อตีตติกะที่  ๑๗  ไม่แสดง.</span>

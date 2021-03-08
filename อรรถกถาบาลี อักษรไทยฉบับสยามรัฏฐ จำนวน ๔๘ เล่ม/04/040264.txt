@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  ๔  สามฺผลสุตฺตวณฺณนา  หน้า  ๒๖๓  
+
+<span class="LineNumber"> 002 </span>			ตสฺส  สุจิณฺณสฺส  อยํ  วิปาโก  ฯ
+<span class="LineNumber"> 003 </span>			อิทฺธีชุตีพลวิริยูปปตฺติ  ฯ  
+<span class="LineNumber"> 004 </span>			อิทฺจ  เม  วีร(๑)   มหาวิมานนฺติ (๒) 
+<span class="LineNumber"> 005 </span>อิมสฺมึ  หิ  ปุณฺณกชาตเก  ทานํ  พฺรหฺมจริยนฺติ  วุตฺตํ  ฯ  
+<span class="LineNumber"> 006 </span>		เกน  ปาณิ  กามทโท 		เกน  ปาณิ  มธุสฺสโว    
+<span class="LineNumber"> 007 </span>		เกน  เต  พฺรหฺมจริเยน  	ปุฺํ  ปาณิมฺหิ  อิชฺฌติ  ฯ  
+<span class="LineNumber"> 008 </span>		เตน  ปาณิ  กามทโท  	เตน  ปาณิ  มธุสฺสโว    
+<span class="LineNumber"> 009 </span>		เตน  เม  พฺรหฺมจริเยน  	ปุฺํ  ปาณิมฺหิ  อิชฺฌตีติ (๓) ฯ  
+<span class="LineNumber"> 010 </span>อิมสฺมึ  องฺกุรเปตวตฺถุมฺหิ  เวยฺยาวจฺจํ  พฺรหฺมจริยนฺติ  วุตฺตํ  ฯ 
+<span class="LineNumber"> 011 </span>อิทํ (๔) โข  ตํ  ภิกฺขเว  ติตฺติริยํ  นาม  พฺรหฺมจริยํ  อโหสีติ (๕)
+<span class="LineNumber"> 012 </span>อิมสฺมึ  ติตฺติรชาตเก  ปฺจสิกฺขาปทสีลํ  พฺรหฺมจริยนฺติ  วุตฺตํ  ฯ  
+<span class="LineNumber"> 013 </span>	ตํ  โข  ปน [๖]  ปฺจสิข  พฺรหฺมจริยํ  เนว  นิพฺพิทาย  
+<span class="LineNumber"> 014 </span>น  วิราคาย  น  นิโรธาย  [๗]  ยาวเทว  พฺรหฺมโลกุปปตฺติยาติ (๘)
+<span class="LineNumber"> 015 </span>อิมสฺมึ  มหาโควินฺทสุตฺเต  จตสฺโส  อปฺปมฺาโย  พฺรหฺม-
+<span class="LineNumber"> 016 </span>จริยนฺติ  วุตฺตา  ฯ ปเร  อพฺรหฺมจารี  ภวิสฺสนฺติ   มยเมตฺถ 
+<span class="LineNumber"> 017 </span>พฺรหฺมจาริโน   ภวิสฺสามาติ (๙)  อิมสฺมึ  สลฺเลขสุตฺเต  เมถุนวิรติ  
+<span class="LineNumber"> 018 </span>พฺรหฺมจริยนฺติ  วุตฺตา  ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. ธีร ฯ  ๒. ขุ. ชา. ๒๘/๑๐๐๙/๓๕๓ ฯ  ๓. ขุ. เปต. ๒๖/๑๐๖/๑๙๐ฯ  
+<span class="LineNumber"> 020 </span># ๔. ม. เอวํ ฯ  ๕. วิ. จุลฺ. ๗/๒๖๒/๑๑๗ ฯ  ๖. ม. เอตฺถนฺตเร เมติ ทิสฺสติ ฯ  
+<span class="LineNumber"> 021 </span># ๗. ม. เอตฺถนฺตเร ฯ เป ฯ อิติ ทิสฺสติ ฯ  ๘. ที. มหา. ๑๐/๒๓๔/๒๘๕ ฯ  
+<span class="LineNumber"> 022 </span># ๙. ม. มู. ๑๒/๑๐๔/๗๕ ฯ  

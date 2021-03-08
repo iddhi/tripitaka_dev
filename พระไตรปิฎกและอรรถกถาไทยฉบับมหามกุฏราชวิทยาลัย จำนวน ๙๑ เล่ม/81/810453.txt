@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>ชรามรณกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๒๐]  <B>สกวาที</B>  ชรามรณะแห่งโลกุตตรธรรม   ก็เป็นโลกุตตระ
+<span class="LineNumber"> 003 </span>หรือ ?
+<span class="LineNumber"> 004 </span>                      <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                      ส. เป็นมรรค เป็นผล เป็นนิพพาน เป็นโสดาปัตติมรรค
+<span class="LineNumber"> 006 </span>เป็นโสดาปัตติผล  ฯลฯ เป็นโพชฌงค์ หรือ ?
+<span class="LineNumber"> 007 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ 
+<span class="LineNumber"> 008 </span>                      ส. ชรามรณะแห่งโสดาปัตติมรรคก็เป็นโสดาปัตติมรรค
+<span class="LineNumber"> 009 </span>หรือ ?
+<span class="LineNumber"> 010 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 011 </span>                      ส. ชรามรณะแห่งโสดาปัตติมรรคก็เป็นโสดาปัตติมรรค
+<span class="LineNumber"> 012 </span>หรือ ?
+<span class="LineNumber"> 013 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                      ส. ชรามรณะแห่งโสดาปัตติผลก็เป็นโสดาปัตติผล  หรือ ?
+<span class="LineNumber"> 015 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 016 </span>                      ส. ชรามรณะแห่งสกทาคามิมรรค ฯลฯ  แห่งสกทาคามิผล
+<span class="LineNumber"> 017 </span>ฯลฯ  แห่งอนาคามิมรรค   ฯลฯ   แห่งอนาคามิผล  ฯลฯ   แห่งอรหัตมรรคก็
+<span class="LineNumber"> 018 </span>เป็นอรหัตมรรค  หรือ ?
+<span class="LineNumber"> 019 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 020 </span>                      ส. ชรามรณะแห่งอรหัตมรรคก็เป็นอรหัตมรรค หรือ ?
+<span class="LineNumber"> 021 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 022 </span>                      ส. ชรามรณะแห่งอรหัตผลก็เป็นอรหัตผล หรือ ?

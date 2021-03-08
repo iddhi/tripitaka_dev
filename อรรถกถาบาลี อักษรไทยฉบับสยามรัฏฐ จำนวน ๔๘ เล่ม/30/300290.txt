@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  290 
+
+<span class="LineNumber"> 002 </span>			ธมฺมทฺธชชาตกํ  
+<span class="LineNumber"> 003 </span>	สุขํ  ชีวิตรูโปสีติ  อิทํ  สตฺถา  เวฬุวเน  วิหรนฺโต  [๑]
+<span class="LineNumber"> 004 </span>วธาย  ปริสกฺกนํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	ตทา  หิ  สตฺถา  น  ภิกฺขเว  อิทาเนว  ปุพฺเพปิ  เทวทตฺโต  
+<span class="LineNumber"> 006 </span>มยฺหํ  วธาย  ปริสกฺกเตว  ตาสมตฺตมฺปิ  กาตุํ  นาสกฺขีติ  วตฺวา  
+<span class="LineNumber"> 007 </span>อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 008 </span>	อตีเต  พาราณสิยํ  ยสปาณี  นาม  ราชา  ธมฺเมน  รชฺชํ  
+<span class="LineNumber"> 009 </span>กาเรสิ ฯ  กาฬโก  นามสฺส  เสนาปติ  อโหสิ ฯ  ตทา  โพธิสตฺโต 
+<span class="LineNumber"> 010 </span>ตสฺเสว  ปุโรหิโต  อโหสิ  นาเมน  ธมฺมทฺธโช ฯ  รฺโ  ปนสฺส  
+<span class="LineNumber"> 011 </span>สีสปสาธนกปฺปโก  ฉตฺตปาณี  นาม ฯ  ราชา  ธมฺเมน  รชฺชํ 
+<span class="LineNumber"> 012 </span>กาเรสิ ฯ  เสนาปติ  ปนสฺส  วินิจฺฉยํ  กโรนฺโต  ลฺจํ  ขาทติ  
+<span class="LineNumber"> 013 </span>ปรปิฏฺ€ิมํสิโก  วิย  ลฺจํ  คเหตฺวา  อสามิเก  สามิเก  กโรติ ฯ 
+<span class="LineNumber"> 014 </span>อเถกทิวสํ วินิจฺฉเย  ปราชิโต  มนุสฺโส  พาหา  ปคฺคยฺห  กนฺทนฺโต
+<span class="LineNumber"> 015 </span>วินิจฺฉยา  นิกฺขนฺโต  ราชุปฏฺ€านํ  คจฺฉนฺตํ  โพธิสตฺตํ  ทิสฺวา 
+<span class="LineNumber"> 016 </span>ตสฺส  ปาเทสุ  ปติตฺวา  ตุมฺหาทิเสสุ  นาม  สามิ  รฺโ
+<span class="LineNumber"> 017 </span>อตฺถฺจ  ธมฺมฺจ  อนุสาสนฺเตสุ  กาฬกเสนาปติ  ลฺจํ  คเหตฺวา 
+<span class="LineNumber"> 018 </span>อสามิเก  สามิเก  กโรตีติ  อตฺตโน  ปราชิตภาวํ [๕] กเถสิ ฯ 
+<span class="LineNumber"> 019 </span>โพธิสตฺโต  การุฺํ  อุปฺปาเทตฺวา  เอหิ  ภเณ  อฏฺฏํ  เต  
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร เทวทตฺตสฺสาติ ทิสฺสติ ฯ  ๒. ม. สนฺตาสมฺตฺตมฺปิ ฯ
+<span class="LineNumber"> 021 </span># ๓. สี. ปายาสปาณิ ฯ  ๔. ม. อยํ ปาโ€ นตฺถิ ฯ  
+<span class="LineNumber"> 022 </span># ๕. ม. เอตฺถตเร โพธิสตฺตสฺสาติ ทิสฺสติ ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่ 10  หน้า  1
+<span class="LineNumber"> 002 </span>					นมตฺถุ  รตนตฺตยสฺส
+<span class="LineNumber"> 003 </span>			สารตฺถปฺปกาสินี  นาม  สํยุตฺตนิกายฏฺ€กถา 
+<span class="LineNumber"> 004 </span>				สํยุตฺตนิกายสฺส  สคาถาวคฺควณฺณนา
+
+<span class="LineNumber"> 005 </span>						อารมฺภกถา  
+<span class="LineNumber"> 006 </span>		กรุณาสีตลหทยํ			ปฺาปชฺโชตวิหตโมหตมํ
+<span class="LineNumber"> 007 </span>		สนรามรโลกครุํ			วนฺเท สุคตํ คติวิมุตฺตํ ฯ
+<span class="LineNumber"> 008 </span>		พุทฺโธปิ พุทฺธภาวฺจ		ภาเวตฺวา เจว สจฺฉิกตฺวา จ 
+<span class="LineNumber"> 009 </span>		ยํ อุปคโต คตมลํ			วนฺเท ตมนุตฺตรํ ธมฺมํ ฯ
+<span class="LineNumber"> 010 </span>		สุคตสฺส โอรสานํ			ปุตฺตานํ มารเสนมถนานํ
+<span class="LineNumber"> 011 </span>		อฏฺ€นฺนมฺปิ จ สมูหํ		สิรสา วนฺเท อริยสงฺฆํ ฯ 
+<span class="LineNumber"> 012 </span>	อิติ เม ปสนฺนมติโน  รตนตฺตยวนฺทนามยํ  ปุฺํ  ยํ  สุวิหตนฺตราโย  หุตฺวา  
+<span class="LineNumber"> 013 </span>ตสฺสานุภาเวน  สํยุตฺตวคฺคปฏิมณฺฑิตสฺส  สํยุตฺตอาคมวรสฺส  พุทฺธานุพุทฺธสํวณฺณิตสฺส
+<span class="LineNumber"> 014 </span>าณปฺปเภทชนนสฺส  อตฺถปฺปกาสนตฺถํ  อฏฺ€กถา อาทิโต วสีสเตหิ ปฺจหิ ยา 
+<span class="LineNumber"> 015 </span>สงฺคีตา  อนุสงฺคีตา จ ปจฺฉาปิ  สีหลทีปมฺปน อาภตาถ วสินา มหามหินฺเทน
+<span class="LineNumber"> 016 </span>€ปิตา สีหลภาสาย  ทีปวาสีนมตฺถาย  อปเนตฺวาน ตโตหํ  สีหลภาสํ  มโนรมํ  
+<span class="LineNumber"> 017 </span>ภาสํ  ตนฺตินยานุจฺฉวิกํ  อาโรเปนฺโต วิคตโทสํ  สมยํ  อวิโลเมนฺโต  เถรานํ 
+<span class="LineNumber"> 018 </span>เถรวํสปฺปทีปานํ (๑)  สุนิปุณวินิจฺฉยานํ  มหาวิหาราธิวาสีนํ (๒)  หิตฺวา 
+<span class="LineNumber"> 019 </span>ปุนปฺปุนาคตมตฺถํ  อตฺถํ  
+<span class="LineNumber"> 020 </span># ๑ ม. เถรวํสทีปานํ  ฯ  ๒  ม. มหาวิหาเร นิวาสีนํ ฯ  

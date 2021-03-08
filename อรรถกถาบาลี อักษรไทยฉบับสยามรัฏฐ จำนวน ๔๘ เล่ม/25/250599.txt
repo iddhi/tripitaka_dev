@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุติยวคฺเค สิริมตฺเถรคาถาวณฺณนา  หน้า 599
+	
+<span class="LineNumber"> 002 </span>		อุสโภว มหี นทติ		มิคราชาว กุชฺชติ   
+<span class="LineNumber"> 003 </span>		อุสุมาโรว สฬติ (๑)	กึ วิปาโก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 004 </span>		ยํ ปกิตฺเตมิ สมฺพุทฺธํ	สิกตาถูปสนฺติเก  
+<span class="LineNumber"> 005 </span>		โส ทานิ ภควา สตฺถา	มาตุกุจฉิมุปาคมิ ฯ  
+<span class="LineNumber"> 006 </span>		เตสํ ธมฺมกถํ วตฺวา	กิตฺตยิตฺวา มหามุนึ  
+<span class="LineNumber"> 007 </span>		อุยฺโยเชตฺวา สเก สิสฺเส	ปลฺลงฺกมาภุชึ อหํ ฯ  
+<span class="LineNumber"> 008 </span>		พลฺจ วต เม ขีณํ		พฺยาธินา ปรเมน ตํ(๒)  
+<span class="LineNumber"> 009 </span>		พุทฺธเสฏฺ€ํ สริตฺวาน	ตตฺถ กาลงฺกโต อหํ ฯ  
+<span class="LineNumber"> 010 </span>		สพฺเพ สิสฺสา สมาคนฺตฺวา  อกํสุ จิตกํ ตทา  
+<span class="LineNumber"> 011 </span>		กเฬวรฺจ เม คยฺห	จิตกํ อภิโรปยย ฯ  
+<span class="LineNumber"> 012 </span>		จิตกํ ปริวาเรตฺวา		สีเส กตฺวาน อฺชลึ  
+<span class="LineNumber"> 013 </span>		โสกสลฺลปเรตา เต	วิกฺกนฺทึสุ สมาคตา ฯ  
+<span class="LineNumber"> 014 </span>		เตสํ ลาลปฺปมานานํ	อคมํ(๓) จิตกํ ตทา (๔)  
+<span class="LineNumber"> 015 </span>		อหํ อาจริโย ตุมฺหํ		มา โสจิตฺถ สุเมธสา ฯ  
+<span class="LineNumber"> 016 </span>		สทตฺเถ วายเมยฺยาถ	รตฺตินฺทิวมตนฺทิตา  
+<span class="LineNumber"> 017 </span>		มา โว ปมตฺตา อหุตฺถ (๕)  ขโณ โว ปฏิปาทิโต ฯ  
+<span class="LineNumber"> 018 </span>		สเก สิสฺเสนุสาสิตฺวา	เทวโลกํ ปุนาคมึ  
+<span class="LineNumber"> 019 </span>		อฏฺ€ารส จ กปฺปานิ (๖)	เทวโลเก รมามหํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. ผลติ ฯ  ยุ. สทฺทติ ฯ  ๒. สฺยา. พฺยาธิโก ปรเมนหํ ฯ
+<span class="LineNumber"> 021 </span># ๓. ยุ. อคมาสึ ฯ  ๔. สฺยา. จิตกนฺติกํ ฯ สี. อคมาสึ จิตนฺติกํ ฯ 
+<span class="LineNumber"> 022 </span># ๕. สี. อหุวตฺถ ฯ  ๖. สี. อฏฺ€านสานิ กปฺปานิ ฯ 
+<span class="LineNumber"> 023 </span># ยุ. อฏฺ€ารสาหํ กปฺปานิ ฯ  ๗. สฺยา. อโหสหํ ฯ ยุ. รมึ อหํ ฯ

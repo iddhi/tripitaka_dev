@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>   
+<span class="LineNumber"> 002 </span>           [๒๙๒]  ในเหตุปัจจัย มี  ๒๔ วาระ ฯลฯ  ในอวิคตปัจจัย มี ๒  วาระ.
+<span class="LineNumber"> 003 </span>           พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 004 </span>                                     <I>นกุสลติกนสเหตุกทุกะ  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                     <H1>นกุสลติกนเหตุสัมปยุตตทุกะ</H1>
+<span class="LineNumber"> 006 </span>                    <H2>(๑. กุสลติกะ  ๓.  นเหตุสัมปยุตตทุกะ)</H2>
+<span class="LineNumber"> 007 </span>	                                      <H2>ปฏิจจวาระ</H2>				 
+<span class="LineNumber"> 008 </span>                                               <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                             <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>           [๒๙๓]  <B>ฯลฯ   อาศัยธรรมที่ไม่ใช่เหตุสัมปยุตตธรรม     ที่
+<span class="LineNumber"> 011 </span>ไม่ใช่กุศล  ฯลฯ</B>
+<span class="LineNumber"> 012 </span>           <B>ฯลฯ   อาศัยธรรมที่ไม่ใช่เหตุวิปปยุตตธรรม  ที่ไม่ใช่กุศล
+<span class="LineNumber"> 013 </span>ฯลฯ</B> 
+<span class="LineNumber"> 014 </span>                                 <I>นกุสลติกนเหตุสัมปยุตตทุกะ  จบ</I>

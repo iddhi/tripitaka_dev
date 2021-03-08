@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>วิเคราะห์ทุกกฏ</H1>  
+<span class="LineNumber"> 002 </span>                             [๑,๐๔๒]  <B>คำใดที่เรากล่าวไว้ว่า  ทุกกฏ 
+<span class="LineNumber"> 003 </span>                   ดังนี้   ท่านจงฟังคำนั้น   ดังจะกล่าวต่อไป
+<span class="LineNumber"> 004 </span>                   กรรมใดผิดพลั้งและพลาด   กรรมนั้นชื่อว่า
+<span class="LineNumber"> 005 </span>                   ทำไม่ดี    คนทำความชั่วอันใด    ในที่แจ้ง
+<span class="LineNumber"> 006 </span>                   หรือในที่ลับ   บัณฑิตทั้งหลาย  ย่อมประกาศ
+<span class="LineNumber"> 007 </span>                   ความชั่วนั้นว่า ทำชั่ว เพราะเหตุนั้น  กรรม-
+<span class="LineNumber"> 008 </span>                   นั่นจึงเรียกว่า  ทุกกฏ.</B>
+
+<span class="LineNumber"> 009 </span>                                      <H1>วิเคราะห์ทุพภาสิต</H1>
+<span class="LineNumber"> 010 </span>                             [๑,๐๔๓]  <B>คำใดที่เรากล่าวไว้ว่า ทุพ-
+<span class="LineNumber"> 011 </span>                   ภาสิต   ดังนี้  ท่านจงฟังคำนั้น     ดังจะกล่าว
+<span class="LineNumber"> 012 </span>                   ต่อไป  บทใด  อันภิกษุกล่าวไม่ดี  พูดไม่ดี
+<span class="LineNumber"> 013 </span>                   และเศร้าหมอง  วิญญูชนทั้งหลายย่อมติเตียน
+<span class="LineNumber"> 014 </span>                   บทใด  เพราะเหตุนั้น   บทนั้น   จึงเรียกว่า
+<span class="LineNumber"> 015 </span>                   ทุพภาสิต.</B>
+
+<span class="LineNumber"> 016 </span>                                           <H1>วิเคราะห์เสขิยะ</H1>
+<span class="LineNumber"> 017 </span>                             [๑,๐๔๔]  <B>คำใดที่เรากล่าวไว้ว่า  เสขิยะ
+<span class="LineNumber"> 018 </span>                   ดังนี้    ท่านจงฟังคำนั้น      ดังจะกล่าวต่อไป
+<span class="LineNumber"> 019 </span>                   ข้อนี้เป็นเบื้องต้น  เป็นข้อประพฤติ เป็นทาง</B>

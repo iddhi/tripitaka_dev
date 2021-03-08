@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                      		<H2>อนุโลมปัจจนียนัย</H2>  
+<span class="LineNumber"> 002 </span>		[๑๙๘]  เพราะเหตุปัจจัย   ในนอารัมมณปัจจัย  มี ๓ วาระ... ฯลฯ
+<span class="LineNumber"> 003 </span>                      		<H2>ปัจจนียานุโลมนัย</H2>  
+<span class="LineNumber"> 004 </span>		[๑๙๙]  เพราะนเหตุปัจจัย   ในอารัมมณปัจจัย มี ๘  วาระ... ฯลฯ
+<span class="LineNumber"> 005 </span>แม้ปัญหาวาระในกุสลติกะฉันใด   พึงให้พิสดารฉันนั้น.
+                     
+<span class="LineNumber"> 006 </span>				     <H1>นเหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 007 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span> 				    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>		[๒๐๐]  ๑.  นเหตุธรรมที่เป็นทัสสเนนปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 010 </span>อาศัยนเหตุธรรมที่เป็นทัสสเนนปหาตัพพเหตุกธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 011 </span>เหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>                        ๔.  นเหตุธรรมที่เป็นภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 013 </span>อาศัยนเหตุธรรมที่เป็นภาวนายปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 014 </span>เหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>                        ๗.  นเหตุธรรมที่เป็นเนวทัสสเนนภาวนายปหาตัพพ-
+<span class="LineNumber"> 016 </span>เหตุกธรรม  อาศัยนเหตุธรรมที่เป็นเนวทัสสเนนนภาวนายปหาตัพพ-
+<span class="LineNumber"> 017 </span>เหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+	

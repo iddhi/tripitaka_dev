@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                                              แผน  ๑๔
+<span class="LineNumber"> 002 </span>           ๑.  แม่น้ำ 
+<span class="LineNumber"> 003 </span>           ๒.  ฝั่งใน 
+<span class="LineNumber"> 004 </span>           ๓.  ฝั่งนอก
+<span class="LineNumber"> 005 </span>           ๔.  นิมิตเหนือน้ำฝั่งใน
+<span class="LineNumber"> 006 </span>           ๕.  นิมิตใต้น้ำฝั่งใน
+<span class="LineNumber"> 007 </span>           ๖.  นิมิตใต้น้ำฝั่งนอก
+<span class="LineNumber"> 008 </span>           ๗.  นิมิตเหนือน้ำฝั่งนอก
+<span class="LineNumber"> 009 </span>           ๘.  แนวนิมิต.

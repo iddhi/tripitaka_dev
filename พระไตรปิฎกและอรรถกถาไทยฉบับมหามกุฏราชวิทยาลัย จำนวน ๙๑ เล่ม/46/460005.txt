@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>	           <B>ภิกษุใดไม่มีกิเลสอันเกิดแต่ตัณหา
+<span class="LineNumber"> 002 </span>	ดุจป่าอะไร ๆ    อันเป็นเหตุเพื่อความผูกพัน
+<span class="LineNumber"> 003 </span>	เพื่อความเกิด     ภิกษุนั้นชื่อว่าย่อมละฝั่งใน
+<span class="LineNumber"> 004 </span>	และฝั่งนอกเสียได้     เหมือนงูละคราบเก่าที่
+<span class="LineNumber"> 005 </span>	คร่ำคร่าแล้วฉะนั้น.</B> 
+<span class="LineNumber"> 006 </span>	           <B>ภิกษุใดละนิวรณ์  ๕  ได้แล้ว    ไม่มี
+<span class="LineNumber"> 007 </span>	ทุกข์  ข้ามความสงสัยได้แล้ว   มีลูกศรปราศ
+<span class="LineNumber"> 008 </span>	ไปแล้ว     ภิกษุนั้นชื่อว่าย่อมละฝั่งในและฝั่ง
+<span class="LineNumber"> 009 </span>	นอกเสียได้     เหมือนงูละคราบเก่าที่คร่ำคร่า
+<span class="LineNumber"> 010 </span>	แล้วฉะนั้น.</B>
+<span class="LineNumber"> 011 </span>                                                    <I>จบอุรคสูตรที่ ๑</I>

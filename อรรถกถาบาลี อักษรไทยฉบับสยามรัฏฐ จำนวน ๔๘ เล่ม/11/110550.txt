@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๕๕๐
+
+<span class="LineNumber"> 002 </span>				วลาหกสํยุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	วลาหกสํยุตฺเต  วลาหกกายิกาติ  พลาหกนามเก  เทวกาเย    
+<span class="LineNumber"> 004 </span>อุปฺปนฺนา  อากาสจาริกเทวา ฯ  สีตวลาหกาติ  สีตกรณพลาหกา ฯ 
+<span class="LineNumber"> 005 </span>เสสปเทสุปิ  เอเสว  นโย ฯ  เจโตปณิธิมนฺวายาติ  จิตฺตฏฺ€ปนํ 
+<span class="LineNumber"> 006 </span>อาคมฺม ฯ  สีตํ  โหตีติ  ยํ วสฺสาเน  วา  เหมนฺเต  วา  
+<span class="LineNumber"> 007 </span>สีตํ โหติ ตํ อุตุสมุฏฺ€านเมว ฯ ยํ ปน สีเตปิ อติสีตํ 
+<span class="LineNumber"> 008 </span>คิเมฺห  จ  อุปฺปนฺนํ  สีตํ ตํ เทวตานุภาเวน นิพฺพตฺตสีตํ 
+<span class="LineNumber"> 009 </span>นาม ฯ อุณฺหํ โหตีติ ยํ คิมฺหาเน  อุณฺหํ  ตํ  อุตุสมุฏฺ€านิกํ 
+<span class="LineNumber"> 010 </span>ปากติกเมว ฯ  ยํ  ปน อุเณฺหปิ อติอุณฺหํ สีตกาเล  จ 
+<span class="LineNumber"> 011 </span>อุปฺปนฺนํ  อุณฺหํ  ตํ  เทวตานุภาเวน  นิพฺพตฺตอุณฺหํ  นาม ฯ  
+<span class="LineNumber"> 012 </span>อพฺภํ โหตีติ  อพฺภมณฺฑโป  (๑)  โหติ ฯ  อิธาปิ  ยํ วสฺสาเน จ 
+<span class="LineNumber"> 013 </span>สิสิเร จ อพฺภํ อุปฺปชฺชติ ตํ  อุตุสมุฏฺ€านิกํ  ปากติกเมว ฯ  
+<span class="LineNumber"> 014 </span>ยํ  ปน  อพฺเภเยว  อติอพฺภํ  สตฺตสตฺตาหมฺปิ จนฺทิมสูริเย 
+<span class="LineNumber"> 015 </span>ฉาเทตฺวา  เอกนฺธการํ  กโรติ  ยฺจ  จิตฺตเวสาขมาเสสุ  อพฺภํ  
+<span class="LineNumber"> 016 </span>ตํ เทวตานุภาเวน  อุปฺปนฺนอพฺภํ  นาม ฯ  วาโต  โหตีติ  โย
+<span class="LineNumber"> 017 </span>ตสฺมึ  ตสฺมึ  อุตุมฺหิ อุตฺตรทกฺขิณาทิ  ปกติวาโต  โหติ  อยํ  
+<span class="LineNumber"> 018 </span>อุตุสมุฏฺ€าโนว ฯ  โยปิ  ปน  รุกฺขกฺขนฺธาทิปทาลโน  อติวาโต
+<span class="LineNumber"> 019 </span>นาม อตฺถิ อยฺเจว โย จ อฺโปิ อกาลวาโต อยํ  
+<span class="LineNumber"> 020 </span># ๑. สี. อพฺภมณฺฑโล ฯ

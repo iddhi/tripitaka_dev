@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>อรรถกถาสักกสูตรที่  ๑๐</H1>
+
+<span class="LineNumber"> 002 </span>           บทว่า   <B>อเวจฺจปฺปสาเทน</B> ได้แก่  ด้วยความเลื่อมใสที่ไม่หวั่นไหว. 
+<span class="LineNumber"> 003 </span>บทว่า <B>ทสหิ  €าเนหิ</B>  คือด้วยเหตุ ๑๐.  บทว่า   <B>อธิคณฺหนฺติ</B>  คือ  ย่อม
+<span class="LineNumber"> 004 </span>ครอบงำ   คือล่วงเกิน.  คำที่เหลือมีเนื้อความง่ายทั้งนั้น   ด้วยประการฉะนี้.
+<span class="LineNumber"> 005 </span>                           <I>จบ  อรรถกถาสักกสูตรที่ ๑๐</I>
+<span class="LineNumber"> 006 </span>                       <I>จบ  อรรถกถาโมคคัลลานสังยุต.</I>
+
+<span class="LineNumber"> 007 </span>                                   <H1>๑๑.  จันทนสูตร</H1> 
+
+<span class="LineNumber"> 008 </span><H1>ว่าด้วยพระมหาโมคคัลลานเถระแสดงธรรมแก่จันทนเทพบุตร</H1>
+
+<span class="LineNumber"> 009 </span>           [๕๓๖]   ครั้งนั้นแล    จันทนเทพบุตร ฯลฯ    ครั้งนั้นแล   สุยาม
+<span class="LineNumber"> 010 </span>เทพบุตร ฯลฯ  ครั้งนั้นแล   สันตุสิจาเทพบุตร ฯลฯ   ครั้งนั้นแล   สุนิมมิต 
+<span class="LineNumber"> 011 </span>เทพบุตร ฯลฯ  ครั้งนั้นแล   วสวัตตีเทพบุตร ฯลฯ  ( เปยยาล ๕ ประการนี้ 
+<span class="LineNumber"> 012 </span>พึงให้พิสดารเหมือนกับในสักกสูตร )
+<span class="LineNumber"> 013 </span>                                     <I>จบ  จันทนสูตรที่  ๑๑</I>
+<span class="LineNumber"> 014 </span>                                      <I>จบ โมคคัลลานสังยุต</I>
+
+<span class="LineNumber"> 015 </span>                             <H2>รวมพระสูตรที่มีในสังยุตนี้  คือ</H2>
+<span class="LineNumber"> 016 </span>          ๑.  สวิตักกปัญหาสูตร   ๒.  อวิตักกปัญหาสูตร   ๓  สุขปัญหาสูตร
+<span class="LineNumber"> 017 </span>๔.  อุเปกขาปัญหาสูตร  ๕.  อากาสานัญจายตนฌานปัญหาสูตร  ๖. วิญญา-
+<span class="LineNumber"> 018 </span>ณัญจายตนฌานปัญหาสูตร  ๗. อากิญจัญญายตนฌานปัญหาสูตร ๘. เนว-
+<span class="LineNumber"> 019 </span>สัญญานาสัญญายตนฌานปัญหาสูตร  ๙. อนิมิตตปัญหาสูตร  ๑๐. สักกสูตร
+<span class="LineNumber"> 020 </span>๑๑.  จันทนสูตร.

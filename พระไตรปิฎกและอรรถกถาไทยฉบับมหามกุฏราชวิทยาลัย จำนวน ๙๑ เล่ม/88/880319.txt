@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ทั้งหลายที่เป็นโลกิยธรรม ที่เกิดภายหลัง เป็นปัจจัยแก่กายนี้
+<span class="LineNumber"> 002 </span>ที่เกิดก่อน   ด้วยอำนาจของปัจฉาชาตปัจจัย. 
+<span class="LineNumber"> 003 </span>                     ๒.  <B>โลกุตตรธรรม   เป็นปัจจัยแก่โลกิยธรรม   ด้วย
+<span class="LineNumber"> 004 </span>อำนาจของปัจฉาชาตปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  ขันธ์ทั้งหลายที่เป็นโลกุตตรธรรม    ที่เกิดภายหลัง   เป็นปัจจัยแก่
+<span class="LineNumber"> 006 </span>กายนี้ที่เกิดก่อน  ด้วยอำนาจของปัจฉาชาตปัจจัย.
+
+<span class="LineNumber"> 007 </span>                                    <H1>๑๒.  อาเสวนปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๓๑๐]  ๑.  <B>โลกิยธรรม  เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 009 </span>ของอาเสวนปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ทั้งหลายที่เป็นโลกิยธรรม ที่เกิดก่อน ๆ  เป็นปัจจัยแก่ขันธ์
+<span class="LineNumber"> 011 </span>ทั้งหลายที่เป็นโลกิยธรรม  ที่เกิดหลัง ๆ  ด้วยอำนาจของอาเสวนปัจจัย.
+<span class="LineNumber"> 012 </span>           อนุโลม   เป็นปัจจัยแก่โคตรภู.
+<span class="LineNumber"> 013 </span>           อนุโลม   เป็นปัจจัยแก่โวทาน  ด้วยอำนาจของอาเสวนปัจจัย.
+<span class="LineNumber"> 014 </span>                     ๒.  <B>โลกิยธรรม    เป็นปัจจัยแก่โลกุตตรธรรม    ด้วย
+<span class="LineNumber"> 015 </span>อำนาจของอาเสวนปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ   โคตรภู   เป็นปัจจัยแก่มรรค,   โวทาน  เป็นปัจจัยแก่มรรค   ด้วย
+<span class="LineNumber"> 017 </span>อำนาจของอาเสวนปัจจัย.

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>ชรามรณวิปาโกติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๑๖๙]  <B>สกวาที</B>   ชรามรณะ เป็นวิบาก หรือ ?
+<span class="LineNumber"> 003 </span>                      <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                      ส.  ชรามรณะ  มีสุขเวทนา  มีทุกขเวทนา  มีอทุกขมสุข
+<span class="LineNumber"> 005 </span>เวทนา   ประกอบด้วยสุขเวทนา   ประกอบด้วยทุกขเวทนา   ประกอบด้วย
+<span class="LineNumber"> 006 </span>อทุกขมสุขเวทนา  ประกอบด้วยผัสสะ  ประกอบด้วยเวทนา  ประกอบด้วย
+<span class="LineNumber"> 007 </span>สัญญา  ประกอบด้วยเจตนา  ประกอบด้วยจิต  มีอารมณ์  ความนึก  ความ
+<span class="LineNumber"> 008 </span>ผูกใจ  ความสนใจ  ความทำไว้ในใจ  ความจงใจ  ความปรารถนา  ความ
+<span class="LineNumber"> 009 </span>ตั้งใจ ของชรามรณะนั้น  มีอยู่หรือ ?
+<span class="LineNumber"> 010 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 011 </span>                      ส. ชรามรณะไม่มีสุขเวทนา  ไม่มีทุกขเวทนา  ฯลฯ ไม่มี
+<span class="LineNumber"> 012 </span>อารมณ์ ความนึก ฯลฯ  ความตั้งใจ ของชรามรณะนั้น  ไม่มี  มิใช่หรือ ?
+<span class="LineNumber"> 013 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                      ส. หากว่า   ชรามรณะไม่มีสุขเวทนา   ไม่มีทุกขเวทนา
+<span class="LineNumber"> 015 </span>ฯลฯ    ไม่มีอารมณ์  ความนึก  ฯลฯ   ความตั้งใจ  ของชรามรณะนั้นไม่มี  ก็
+<span class="LineNumber"> 016 </span>ต้องไม่กล่าวว่า  ชรามรณะ  เป็นวิบาก.
+<span class="LineNumber"> 017 </span>         [๑๑๗๐]  ส. ผัสสะ เป็นวิบาก และผัสสะมีสุขเวทนา มีทุกขเวทนา
+<span class="LineNumber"> 018 </span>ฯลฯ มีอารมณ์ ความนึก  ฯลฯ  ความตั้งใจของผัสสะนั้นมีอยู่  หรือ ?
+<span class="LineNumber"> 019 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                      ส. ชรามรณะ  เป็นวิบาก  และชรามรณะมีสุขเวทนา  มี
+<span class="LineNumber"> 021 </span>ทุกขเวทนา  ฯลฯ   มีอารมณ์  ความนึก  ฯลฯ  ความตั้งใจของชรามรณะนั้น

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 89
+
+<span class="LineNumber"> 002 </span>		ยเทว มจฺจา ปริวชฺชยนฺติ  
+<span class="LineNumber"> 003 </span>		ตทปฺปสฏฺ€ํ ทิรสฺุ ภุฺเช  
+<span class="LineNumber"> 004 </span>		สิขิฺหิ(๑) เทเวสุ วทนฺติ เอเก(๒)  
+<span class="LineNumber"> 005 </span>		อาปํ มิลกฺขู ปน เทวมาหุ  
+<span class="LineNumber"> 006 </span>		สพฺเพว เอเต วิตถํ ภณนฺติ  
+<span class="LineNumber"> 007 </span>		อคฺคิ น เทวฺตโร น อาโป  
+<span class="LineNumber"> 008 </span>		อนินฺทฺริยํ สนฺตมสฺกายํ(๓)  
+<span class="LineNumber"> 009 </span>		เวสฺสานรํ กมฺมกรํ ปชานํ  
+<span class="LineNumber"> 010 </span>		ปริจริยมคฺคึ สุคตึ กถํ วชฺเช  
+<span class="LineNumber"> 011 </span>		ปาปานิ กมฺมานิ จ กุพฺพมาโน(๔)  
+<span class="LineNumber"> 012 </span>		สพฺพาภิภูตาหุธ ชีวิกตฺถา  
+<span class="LineNumber"> 013 </span>		อคฺคิสฺส พฺรหฺมา ปริจาริโกติ  
+<span class="LineNumber"> 014 </span>		สพฺพานุภาวี จ วสี กิมตฺถํ  
+<span class="LineNumber"> 015 </span>		อนิมฺมิโต นิมฺมิตํ วนฺทิตสฺส  
+<span class="LineNumber"> 016 </span>		หาสํ(๕) อนิชฺฌานกฺขมํ อตจฺฉํ  
+<span class="LineNumber"> 017 </span>		สกฺการเหตุ ปริกรึสุ ปุพฺเพ  
+<span class="LineNumber"> 018 </span>		เต ลาภสกฺกาเร อปาตุภูเต(๖)  
+<span class="LineNumber"> 019 </span>		สนฺธาภิตา(๗) ชนฺตุภิ สนฺติธมฺมํ  
+<span class="LineNumber"> 020 </span># ๑. ม. สิขิมฺปิ ฯ  ๒. ม. เหเก ฯ  ๓. ม. อนินฺทฺริยพทฺธสมฺกายํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. ปกุพฺพมาโน ฯ ๕. ม.หสฺสํ ฯ  ๖. ม. อปาตุโภนฺเต ฯ
+<span class="LineNumber"> 022 </span># ๗. ม. ส นฺธาปิตา ฯ 

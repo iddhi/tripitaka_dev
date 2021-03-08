@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า  มนินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด,  ฆานิน-
+<span class="LineNumber"> 002 </span>ทรีย์ก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>  <I>จบ   ฆานินทริยมูละ  สัทธินทริย  ฯลฯ  ปัญญินทริย  มนินทริยมูลี</I>
+<span class="LineNumber"> 005 </span>                                     <I>ฆานินทริยมูล  จบ</I>

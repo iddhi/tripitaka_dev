@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  169
+
+<span class="LineNumber"> 002 </span>		สีหจมฺมชาตกํ  
+<span class="LineNumber"> 003 </span>	เนตํ  สีหสฺส  นทิตนฺติ  อิทํ สตฺถา เชตวเน วิหรนฺโต
+<span class="LineNumber"> 004 </span>โกกาลิกฺเว  อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	โส  อิมสฺมึ  กาเล  สรภฺํ  ภณิตุกาโม  อโหสิ ฯ  สตฺถา  
+<span class="LineNumber"> 006 </span>ตํ ปวตฺตึ สุตฺวา อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 007 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 008 </span>กสกกุเล  นิพฺพตฺติตฺวา  วยปฺปตฺโต  กสิกมฺเมเนว  ชีวิตํ  กปฺเปสิ ฯ  
+<span class="LineNumber"> 009 </span>ตสฺมึ  กาเล  เอโก  วาณิโช  คทฺรภภารเกน โวหารํ กโรนฺโต 
+<span class="LineNumber"> 010 </span>วิจรติ ฯ  โส  คตคตฏฺ€าเน  คทฺรภสฺส  ปิฏฺ€ิโต  ภณฺฑิกํ  
+<span class="LineNumber"> 011 </span>โอตาเรตฺวา  คทฺรภํ  สีหจมฺเมน  ปารุเปตฺวา  สาลิยวเขตฺเตสุ  
+<span class="LineNumber"> 012 </span>วิสฺสชฺเชติ ฯ  เขตฺตรกฺขิกา  (๑) ตํ  ทิสฺวา  สีโหติ  สฺาย  อุปสงฺกมิตุํ 
+<span class="LineNumber"> 013 </span>น  สกฺโกนฺติ ฯ  อเถกทิวสํ  โส  วาณิโช  เอกสฺมึ  คามทฺวาเร
+<span class="LineNumber"> 014 </span>นิวาสํ คเหตฺวา ปาตราสํ ปจาเปนฺโต  ตโต  คทฺรภํ  สีหจมฺเมน (๒)
+<span class="LineNumber"> 015 </span>ปารุเปตฺวา  ยวเขตฺเต  วิสฺสชฺเชสิ ฯ  เขตฺตรกฺขิกา  ตํ  ทิสฺวา (๓)
+<span class="LineNumber"> 016 </span>สีโหติ  สฺาย  ตํ  อุปสงฺกมิตุํ  อสกฺโกนฺโต  เคหํ  คนฺตฺวา  
+<span class="LineNumber"> 017 </span>อาโรเจสุํ ฯ  สกลคามวาสิโน  อาวุธานิ  คเหตฺวา  สงฺเข  ธเมนฺตา
+<span class="LineNumber"> 018 </span>เภริโย  วาเทนฺตา  เขตฺตสมีปํ  คนฺตฺวา  อุนฺนทึสุ ฯ  คทฺรโภ  
+<span class="LineNumber"> 019 </span>มรณภยภีโต  คทฺรภรวํ  รวิ ฯ  อถสฺส  คทฺรภภาวํ  ตฺวา  
+<span class="LineNumber"> 020 </span>โพธิสตฺโต ป€มํ คาถมาห  
+<span class="LineNumber"> 021 </span># ๑. ม. เขตฺตรกฺขกา ฯ  เอวมุปริปิ ฯ  ๒. ม. สีหจมุมํ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. อิเม ปา€า นตฺถิ ฯ

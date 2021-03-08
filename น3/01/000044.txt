@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                      ๕.  สันติ  ความสงบ 
+<span class="LineNumber"> 002 </span>                               อุทเทส
+<span class="LineNumber"> 003 </span>                  <B>๑.  สนฺติมคฺคเมว  พฺรูหย.</B>
+<span class="LineNumber"> 004 </span>            สูจงพูนทางแห่งความสงบนั้นแล.
+<span class="LineNumber"> 005 </span>                      มคฺควคฺค  ธมฺมปท.<SUP>๑</SUP>
+<span class="LineNumber"> 006 </span>                     <B>๒.  นตฺถิ  สนฺติปรํ สุขํ.</B>
+<span class="LineNumber"> 007 </span>               สุขอื่นจากความสงบย่อมไม่มี.
+<span class="LineNumber"> 008 </span>                         สุขวคฺค  ธมฺมปท.<SUP>๒</SUP>
+<span class="LineNumber"> 009 </span>                 <B>๓.  โลกามิสํ  ปชเห  สนฺติเปกฺโข.</B>
+<span class="LineNumber"> 010 </span>            ผู้เพ่งความสงบ  พึงละอามิสในโลกเสีย.
+<span class="LineNumber"> 011 </span>                         สคาถวคฺค  สํยุตฺต.<SUP>๓</SUP>
+<span class="LineNumber"> 012 </span>                            <B>พรรณนาความ</B>
+<span class="LineNumber"> 013 </span>	พระพุทธภาษิตสอนให้พูนทางแห่งสันตินั้น  สันติย่อมเป็นไป
+<span class="LineNumber"> 014 </span>ในไตรทวาร ได้ในบาลีว่า
+<span class="LineNumber"> 015 </span>	<B>สนฺตํ  ตสฺส มนํ  โหติ   สนฺตา  วาจา  จ  กมฺม  จ.</B><SUP>๔</SUP>
+<span class="LineNumber"> 016 </span>	ใจของผู้นั้น  ย่อมเป็นทวารสงบแล้ว  วาจารแล้วการ  [กาย]
+<span class="LineNumber"> 017 </span>ก็ย่อมเป็นทวารสงบแล้ว.
+<span class="LineNumber"> 018 </span>	สงบกาย  สงบวาจา  จัดเป็นสันติภายนอก  สงบใจจัดเป็น
+<span class="LineNumber"> 019 </span>สันติภายใน  การทำ  การพูด  การคิดอย่างใด  ย่อมเป็นไปเพื่อสันติ
+<span class="LineNumber"> 020 </span>เช่นเว้นจากเบียดเบียนกัน  ชักนำเพื่อกายสามัคคี  เว้นจากวิวาทและ
+
+<span class='footnote'>๑. ขุ.  ธ. ๒๕/๕๓.  ๒.  ขุ. ธ.  ๒๕/๔๒.  ๓.  สํ.  ส.  ๑๕/๓.  ๔.  ขุ.  ธ.  ๒๕/๒๘.</span>

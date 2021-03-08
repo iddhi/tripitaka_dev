@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑  หน้า  ๓๔๕
+
+<span class="LineNumber"> 002 </span>			อสิโลมสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	อสิโลมวตฺถุสฺมึ  โส  สูกริโก  ทีฆรตฺตํ  นิวาปวุฏฺเ€  สูกเร 
+<span class="LineNumber"> 004 </span>อสินา วธิตฺวา   ทีฆรตฺตํ  ชีวิตํ กปฺเปสิ ตสฺส อุกฺขิตฺตา-
+<span class="LineNumber"> 005 </span>สิกภาโวว นิมิตฺตํ อโหสิ ฯ ตสฺมา อสิโลมเปโต ชาโต ฯ 
+<span class="LineNumber"> 006 </span>				ปฺจมํ ฯ              
+
+<span class="LineNumber"> 007 </span>			สตฺติสุตฺตวณฺณนา           
+<span class="LineNumber"> 008 </span>	สตฺติโลมวตฺถุสฺมึ  โส  มาควิโก  เอกํ  มิคฺจ  สตฺติฺจ 
+<span class="LineNumber"> 009 </span>คเหตฺวา  วนํ คนฺตฺวา  ตสฺส  มิคสฺส  สมีปํ อาคนฺตฺวา 
+<span class="LineNumber"> 010 </span>€ิเต (๑) มิเค สตฺติยา วิชฺฌิตฺวา มาเรสิ ตสฺส สตฺติยา 
+<span class="LineNumber"> 011 </span>วิชฺฌนกภาโวเยว นิมิตฺตํ อโหสิ ฯ ตสฺมา สตฺติโลมเปโต 
+<span class="LineNumber"> 012 </span>ชาโต ฯ 
+<span class="LineNumber"> 013 </span>				ฉฏฺ€ํ ฯ  
+
+<span class="LineNumber"> 014 </span>			อุสุโลมสุตฺตวณฺณนา           
+<span class="LineNumber"> 015 </span>	อุสุโลมวตฺถุสฺมึ  การณิโกติ  ราชาปราธิเก  อเนกาหิ  
+<span class="LineNumber"> 016 </span>การณาหิ  ปีเฬตฺวา  อวสาเน  กณฺเฑน  วิชฺฌิตฺวา  มารณก-
+<span class="LineNumber"> 017 </span>ปุริโส ฯ  โส  กิร  อมุกสฺมึ  ปเทเส  วิทฺโธ  มรตีติ  ตฺวาว
+<span class="LineNumber"> 018 </span>วิชฺฌติ ฯ  ตสฺเสว  ชีวิตํ กปฺเปตฺวา นรเก อุปฺปนฺนสฺส ตโต
+<span class="LineNumber"> 019 </span># ๑. ม. อาคตาคเต ฯ

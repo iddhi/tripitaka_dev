@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>ความขาดตอนแห่งวัฏฏะ   ไม่มีอนุปาทาปรินิพพาน   หรือ ? 
+<span class="LineNumber"> 002 </span>                  ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 003 </span>                  ส. ความตั้งอยู่ของเวทนา   ฯลฯ    ความตั้งอยู่ของสัญญา
+<span class="LineNumber"> 004 </span>ฯลฯ  ความตั้งอยู่ของสังขารทั้งหลาย   ฯลฯ  ความตั้งอยู่ของวิญญาณ  เป็น
+<span class="LineNumber"> 005 </span>ภาวะที่สำเร็จแล้ว หรือ ?
+<span class="LineNumber"> 006 </span>                  ป. ถูกแล้ว.
+<span class="LineNumber"> 007 </span>                  ส. ความตั้งอยู่แห่งความตั้งอยู่ของวิญญาณนั้น     ก็เป็น
+<span class="LineNumber"> 008 </span>ภาวะที่สำเร็จแล้ว   หรือ ?
+<span class="LineNumber"> 009 </span>                  ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>                  ส. ความตั้งอยู่แห่งความตั้งอยู่ของวิญญาณนั้น เป็นภาวะ
+<span class="LineNumber"> 011 </span>ที่สำเร็จแล้ว  หรือ ?
+<span class="LineNumber"> 012 </span>                  ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                  ส. ความตั้งอยู่นั้น ๆ แล  ไม่มีการทำที่สุดแห่งทุกข์ ไม่มี
+<span class="LineNumber"> 014 </span>ความขาดตอนแห่งวัฏฏะ   ไม่มีอนุปาทาปรินิพพาน   หรือ ?
+<span class="LineNumber"> 015 </span>                  ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 016 </span>                               <I>ธัมมัฏฐิตตากถา  จบ</I>

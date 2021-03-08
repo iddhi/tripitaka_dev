@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  14  หน้า  401
+
+<span class="LineNumber"> 002 </span>			ปฏิจฺฉนฺนสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	นวเม ฯ  วหนฺตีติ  (๑)  นิยฺยนฺติ  ฯ  ปฏิจฺฉนฺโน  วหตีติ (๒) ปฏิจฺฉนฺโนว  
+<span class="LineNumber"> 004 </span>หุตฺวา  นิยฺยาติ (๓) ฯ  วิวโฏ  วิโรจตีติ  เอตฺถ  เอกโต  อุภโต  
+<span class="LineNumber"> 005 </span>อตฺตโต  สพฺพตฺถกโตติ  จตุธา  (๔)  วิวฏตา  เวทิตพฺพา  ฯ  ตตฺถ  
+<span class="LineNumber"> 006 </span>เอกโต  วิวฏํ  นาม  อสาธารณสิกฺขาปทํ  ฯ  อุภโต  วิวฏํ  นาม 
+<span class="LineNumber"> 007 </span>สาธารณสิกฺขาปทํ  ฯ  อตฺตโต  วิวฏํ  นาม  ปฏิลทฺธธมฺมคุโณ  ฯ  
+<span class="LineNumber"> 008 </span>สพฺพตฺถกโต  วิวฏํ  (๕)  นาม  เตปิฏกํ  พุทฺธวจนํ  ฯ  
+
+<span class="LineNumber"> 009 </span>					เลขสุตฺตวณฺณนา  
+<span class="LineNumber"> 010 </span>	ทสเม ฯ  อภิณฺหนฺติ  อภิกฺขณํ  นิรนฺตรํ  ฯ  อาคาเฬฺหนาติ  
+<span class="LineNumber"> 011 </span>คาเฬฺหน  กกฺขเฬน  ฯ  ผรุเสนาติ  ผรุสวจเนน  ฯ  คาฬฺหํ  กตฺวา 
+<span class="LineNumber"> 012 </span>ผรุสํ  กตฺวา  วุจฺจมาโนปีติ  อตฺโถ  ฯ  อมนาเปนาติ  มนํ  
+<span class="LineNumber"> 013 </span>อนลฺลียนฺเตน  อวฑฺฒนฺเตน  ฯ  สนฺธิยติเยวาติ  (๑)  ฆฏิยติเยว  ฯ  
+<span class="LineNumber"> 014 </span>สํสนฺทติเยวาติ  นิรนฺตโรว  โหติ  ฯ  สมฺโมทติเยวาติ  เอกีภาวเมว  
+<span class="LineNumber"> 015 </span>คจฺฉติ  ฯ  เสสํ  สพฺพตฺถ  อุตฺตานเมวาติ  ฯ  
+<span class="LineNumber"> 016 </span>				กุสินาราวคฺโค  ตติโย  ฯ  
+<span class="LineNumber"> 017 </span>#  ๑  ม.  อาวหนฺตีติ  ฯ ๒ ม. อาวหตีติ ฯ  ๓ ม. นิยฺยาติ  ฯ ๔  ม.  จตุพฺพิธา  
+<span class="LineNumber"> 018 </span>#  ๕  ม.  สพฺพตฺถกวิวฏํ  ฯ

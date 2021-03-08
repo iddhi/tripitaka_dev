@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 221
+
+<span class="LineNumber"> 002 </span>เทวฏฺ€าเน  จ  มนุสฺสฏฺ€าเน  จ  คนฺตุํ  อิจฺฉนํ เตน คโตสฺมีติ 
+<span class="LineNumber"> 003 </span>อตฺโถ ฯ  
+<span class="LineNumber"> 004 </span>	ราชา  ตสฺมึ  เอวํ  กเถนฺเตปิ  มิจฺฉาทสฺสนสฺส สุคหิตตฺตา(๑) 
+<span class="LineNumber"> 005 </span>ปรโลกํ  อสทฺทหนฺโต อตฺถิ นุ โข ปุฺานํ วิปาโกติ(๒) วตฺวา 
+<span class="LineNumber"> 006 </span>คาถมาห  
+<span class="LineNumber"> 007 </span>	[๘๗๑]อจฺฉจริยมาจิกฺขสิ(๓) ปุฺสิทฺธึ  
+<span class="LineNumber"> 008 </span>		สเจ หิ เอวํ(๔) ยถา ตฺวํ วเทสิ  
+<span class="LineNumber"> 009 </span>		ปุจฺฉามิ ตํ นารท เอตมตฺถํ  
+<span class="LineNumber"> 010 </span>		ปุฏฺโ€ จ เม สาธุ วิยากโรหีติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  ปุฺสิทฺธินฺติ  ปุฺานํ  สิทฺธึ  ผลทายกตฺตํ  
+<span class="LineNumber"> 012 </span>อาจิกฺขนฺโต  อจฺฉริยํ อาจิกฺขสีติ(๕) ฯ  
+<span class="LineNumber"> 013 </span>	นารโท อาห  
+<span class="LineNumber"> 014 </span>	[๘๗๒]ปุจฺฉสฺสุ มํ ราช ตเวส อตฺโถ  
+<span class="LineNumber"> 015 </span>		ยํ สํสยํ กุรุเต ภูมิปาล  
+<span class="LineNumber"> 016 </span>		อหนฺตํ(๖) นิสฺสํสยตํ คเมมิ  
+<span class="LineNumber"> 017 </span>		นเยหิ าเยหิ จ เหตุภิ(๗) จาติ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  ตเวส  อตฺโถติ  ปุจฺฉิตพฺโพ  นาม  ตว  เอส 
+<span class="LineNumber"> 019 </span>อตฺโถ ฯ  สํสยนฺติ  ยํ  กิสฺมิฺจิเทว  อตฺเถ  สํสยํ  กโรสิ  ตํ  มํ  
+<span class="LineNumber"> 020 </span>ปุจฺฉ ฯ  นิสฺสํสยตนฺติ  อหํ  ตํ  นิสฺสํสยภาวํ  คเมมิ ฯ  นเยหีติ
+<span class="LineNumber"> 021 </span># ๑. ม. คหิตตฺตา ฯ  ๒. ม. ปุฺวิปาโกติ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. อจฺเฉรมาจิกฺขสิ ฯ ๔. ม. เอเตหิ ฯ ๕. ม. อาจิกฺขสิ ฯ
+<span class="LineNumber"> 023 </span># ๖. ม. อหํ ตํ ฯ  ๗. ม. เหตุภี ฯ 

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  ขนฺธวารวคฺควณฺณนา  หน้า  ๔๐๘
+
+<span class="LineNumber"> 002 </span>มม วาทํ อาคมฺม สพฺพํ ขเณน  วิปราวตฺตํ  นิวตฺตํ ฯ 
+<span class="LineNumber"> 003 </span>อาโรปิโต  เต วาโทติ ตุยฺหํ โทโส มยา อาโรปิโต ฯ จร  
+<span class="LineNumber"> 004 </span>วาทปฺปโมกฺขายาติ  ตํ  ตํ  อาจริยํ  อุปสงฺกมิตฺวา  อุตฺตรึ  ปริเยสนฺโต  
+<span class="LineNumber"> 005 </span>อิมสฺส วาทสฺส  โมกฺขาย  จร  อาหิณฺฑาหิ ฯ  นิพฺเพเ€หิ  วา 
+<span class="LineNumber"> 006 </span>สเจ  ปโหสีติ  อถ  สยเมว  ปโหสิ อิเธว นิพฺเพเ€หีติ ฯ
+<span class="LineNumber"> 007 </span>				ตติยํ ฯ             
+
+<span class="LineNumber"> 008 </span>		ทุติยหาลิทฺทิกานิสุตฺตวณฺณนา         
+<span class="LineNumber"> 009 </span>	จตุตฺเถ  สกฺกปเฺหติ  จูฬสกฺกปเฺหปิ  มหาสกฺกปเฺเห-
+<span class="LineNumber"> 010 </span>เปตํ  วุตฺตเมว ฯ ตณฺหาสงฺขยวิมุตฺตาติ  ตณฺหาสงฺขเย  นิพฺพาเน  
+<span class="LineNumber"> 011 </span>ตทารมฺมณาย ผลวิมุตฺติยา วิมุตฺตา ฯ อจฺจนฺตนิฏฺ€าติ  อจฺจนฺตํ (๑)
+<span class="LineNumber"> 012 </span>อติกฺกนฺตนิฏฺ€า  สตตนิฏฺ€า  เสสปเทสุปิ  เอเสว  นโย ฯ 
+<span class="LineNumber"> 013 </span>				จตุตฺถํ ฯ                     
+
+<span class="LineNumber"> 014 </span>			สมาธิสุตฺตวณฺณนา           
+<span class="LineNumber"> 015 </span>	ปฺจเม  สมาธินฺติ  อิทํ  ภควา  เต  ภิกฺขู  จิตฺเตกคฺค-
+<span class="LineNumber"> 016 </span>ตาย  ปริหายนฺเต ทิสฺวา  จิตฺเตกคฺคตาย(๒)  ลภนฺตานํ  อิเมสํ 
+<span class="LineNumber"> 017 </span>กมฺมฏฺ€านํ  ผาตึ คมิสฺสตีติ (๓) ตฺวา อาห ฯ  อภินนฺทตีติ  
+<span class="LineNumber"> 018 </span>ปตฺเถติ ฯ  อภิวทตีติ  ตาย  อภินนฺทนาย  อโห  ปิยํ  อิฏฺ€ํ 
+<span class="LineNumber"> 019 </span># ๑. ม. อนฺตํ อติกฺกนฺตนิฏฺ€า สตตนิฏฺ€า ฯ
+<span class="LineNumber"> 020 </span># ๒. ม. จิตฺเตกคฺคตํ ฯ ๓. สี. ผาติ ภวิสฺสตีติ ฯ

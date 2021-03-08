@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                         <H3>อรรถกถาสูตรที่  ๘</H3> 
+
+<span class="LineNumber"> 002 </span>         ใน<B>สูตรที่  ๘</B>   (ข้อ ๓๑๖)   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า  <B>สปฺปีติกํ</B>  ได้แก่   สุขในปฐมฌานและทุติยฌาน.   บทว่า
+<span class="LineNumber"> 004 </span><B>นิปฺปีติกํ</B>  ได้แก่  สุขในตติยฌานและจตุตถฌาน.  บรรดาสุข ๒ อย่างนั้น
+<span class="LineNumber"> 005 </span>พึงทราบความเป็นเลิศ  โดยไม่แบ่งชั้นอย่างนี้   คือ  สุขปราศจากปีติที่เป็น
+<span class="LineNumber"> 006 </span>โลกิยะ  เลิศกว่าสุขมีปีติที่เป็นโลกิยะ    และสุขปราศจากปีติที่เป็นโลกุตระ
+<span class="LineNumber"> 007 </span>เลิศกว่าสุขมีปีติที่เป็นโลกุตระ.
+<span class="LineNumber"> 008 </span>                                            จบอรรถกถาสูตรที่  ๘
+
+<span class="LineNumber"> 009 </span>                            <H3>อรรถกถาสูตรที่ ๙</H3>
+
+<span class="LineNumber"> 010 </span>         ใน<B>สูตรที่  ๙</B> (ข้อ  ๓๑๗)   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 011 </span>         บทว่า  <B>สาตสุขํ</B>  ได้แก่  สุขในฌานทั้ง  ๓.  บทว่า  <B>อุเปกฺขาสุขํ</B>
+<span class="LineNumber"> 012 </span>ได้แก่  สุขในจตุตถฌาน.
+<span class="LineNumber"> 013 </span>                                          จบอรรถกถาสูตรที่  ๙
+
+<span class="LineNumber"> 014 </span>                          <H3>อรรถกถาสูตรที่  ๑๐</H3>
+
+<span class="LineNumber"> 015 </span>         ใน<B>สูตรที่  ๑๐</B>  (ข้อ ๓๑๘)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 016 </span>         บทว่า   <B>สมาธิสุขํ</B>  ได้แก่  สุขที่ถึงอัปปนาสมาธิ  หรืออุปจารสมาธิ.
+<span class="LineNumber"> 017 </span>บทว่า   <B>อสมาธิสุขํ</B>  ได้แก่  สุขที่ไม่ถึงสมาธิทั้งสองนั้น.
+
+<span class="LineNumber"> 018 </span>                                       จบอรรถกถาสูตรที่  ๑๐

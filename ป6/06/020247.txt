@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>วันครบ  ๔ เดือน,  จะทำภายหลังหรือก่อนกำหนดนั้นไม่ควร. 
+<span class="LineNumber"> 002 </span>                                  [ญัตติวิธาน]
+<span class="LineNumber"> 003 </span>           วินิจฉัยในข้อว่า  <B>เทฺววาจิกํ  ปวาเรตุํ </B>  นี้ พึงทราบดังนี้  :-
+<span class="LineNumber"> 004 </span>           เฉพาะภิกษุผู้ตั้งญัตติ  พึงกล่าวว่า  <B>ยทิ  สงฺฆสฺส  ปตฺตกลฺลํ,
+<span class="LineNumber"> 005 </span>สงฺโฆ  เทฺววาจิกํ  ปวาเรยฺย</B>  แปลว่า  "ถ้าความพร้อมพรั่งของสงฆ์
+<span class="LineNumber"> 006 </span>ถึงที่แล้ว,  สงฆ์พึงปวารณา ๒ หน."
+<span class="LineNumber"> 007 </span>           ในการปวารณาหนเดียว  พึงกล่าวว่า<B> เอกวาจิกํ  ปวาเรยฺย <B> แปล
+<span class="LineNumber"> 008 </span>ว่า  "พึงปวารณาหนเดียว."
+<span class="LineNumber"> 009 </span>           เฉพาะในการปวารณามีพรรษาเท่ากัน  พึงกล่าวว่า  <B>สมานวสฺสิกํ
+<span class="LineNumber"> 010 </span>ปวาเรยฺย</B>  แปลว่า "พึงปวารณามีพรรษาท่านกัน."  ก็แลในการ
+<span class="LineNumber"> 011 </span>ปวารณามีพรรษาเท่ากันนี้  ภิกษุผู้มีพรรษาเท่ากันแม้มากรูป ย่อมได้เพื่อ
+<span class="LineNumber"> 012 </span>ปวารณาพร้อมกัน.
+<span class="LineNumber"> 013 </span>                                   [การงดปวารณา]
+<span class="LineNumber"> 014 </span>           วินิจฉัยในข้อว่า  <B>ภาสิตาย  ลปิตาย  อปริโยสิตาย</B>  นี้  พึงทราบ
+<span class="LineNumber"> 015 </span>ดังนี้  :-
+<span class="LineNumber"> 016 </span>           การงดปวารณา  ๒  อย่าง  คือ  งดครอบไปอย่างหนึ่ง  งดเป็น
+<span class="LineNumber"> 017 </span>ส่วนบุคคลอย่างหนึ่ง.
+<span class="LineNumber"> 018 </span>           การงดปวารณามี ๒ อย่างนั้น  ในการงดครอบทั่วไป  มีวินิจฉัย
+<span class="LineNumber"> 019 </span>ว่า  กรรมวาจาที่สวดว่าเรื่อยไปตั้งแต่  <B>สุ</B>  อักษร  จนถึง  <B>เร</B>  อักษร  ว่า
+   

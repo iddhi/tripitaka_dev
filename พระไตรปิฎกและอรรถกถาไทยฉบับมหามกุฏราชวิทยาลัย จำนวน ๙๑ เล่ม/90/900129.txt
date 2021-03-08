@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                   	<H1>ภาวนายปหาตัพพบทปฏิจจวาระ</H1>  
+<span class="LineNumber"> 002 </span>                         		<H1>อนุโลมนัย</H1> 
+<span class="LineNumber"> 003 </span>                          	    <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>		[๓๗๗]    ๑.  ภาวนายปหาตัพพธรรมที่เป็นเหตุ  อาศัยภาวนาย-
+<span class="LineNumber"> 005 </span>ปหาตัพพธรรมที่เป็นเหตุ   เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                 		๔.  ภาวนายปหาตัพพธรรมที่ไม่ใช่เหตุ อาศัยภาวนาย-
+<span class="LineNumber"> 007 </span>ปหาตัพพธรรมที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                  		๗.  ภาวนายปหาตัพพธรรมที่เป็นเหตุ  อาศัยภาวนาย- 
+<span class="LineNumber"> 009 </span>ปหาตัพพธรรมที่เป็นเหตุ    และภาวนายปหาตัพพธรรมที่ไม่ใช่เหตุ
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>                    	 <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 012 </span>		[๓๗๘]  ในเหตุปัจจัย  มี ๙ วาระ    ในอารัมมณปัจจัย  มี  ๙ วาระ
+<span class="LineNumber"> 013 </span>ฯลฯ ในอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 014 </span>                       		 <H1>ปัจจนียนัย</H1>  
+<span class="LineNumber"> 015 </span>                                     <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 016 </span>		[๓๗๙]  ๑.  ภาวนายปหาตัพพธรรมที่เป็นเหตุ  อาศัยภาวนาย-
+<span class="LineNumber"> 017 </span>ปหาตัพพธรรมที่ไม่ใช่เหตุ  เกิดขึ้น เพราะนเหตุปัจจัย

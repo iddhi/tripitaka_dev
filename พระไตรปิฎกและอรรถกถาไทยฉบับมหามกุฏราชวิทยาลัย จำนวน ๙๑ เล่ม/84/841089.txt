@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>ปัจจุปปันนาตีตวาระ   ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>                                     <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ    โทมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๑๔๐๕]   บุคคลใดไม่ใช่กำลังรู้แจ้งจักขุนทรีย์,  บุคคลนั้นก็
+<span class="LineNumber"> 005 </span>ไม่ใช่เคยละโทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         บุคคล ๒ จำพวก  ไม่ใช่กำลังรู้แจ้งจักขุนทรีย์    แต่เคยละโทม-
+<span class="LineNumber"> 007 </span>นัสสินทรีย์     บุคคล ๖ จำพวก    ไม่ใช่กำลังรู้แจ้งจักขุนทรีย์  และก็
+<span class="LineNumber"> 008 </span>ไม่ใช่เคยละโทมนัสสินทรีย์.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า    บุคคลใดไม่ใช่เคยละโทมนัสสินทรีย์,  บุคคลนั้นก็
+<span class="LineNumber"> 010 </span>ไม่ใช่กำลังรู้แจ้งจักขุนทรีย์  ใช่ไหม   ?
+<span class="LineNumber"> 011 </span>                   <I>จบ  จักขุนทริยมูละ  โสมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 012 </span><B>จักขุนทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 013 </span>         [๑๔๐๖]   บุคคลใดไม่ใช่กำลังรู้แจ้งจักขุนทรีย์,  บุคคลนั้นก็
+<span class="LineNumber"> 014 </span>ไม่ใช่เคยเจริญอนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                      <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 003 </span><H2>จักขายตนมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๗๑๕]  จักขายตนะจักเกิดในภูมิใด, ฯ ลฯ
+<span class="LineNumber"> 005 </span>                                  <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                  <I>โอกาสวาระ   จบ</I>
+
+<span class="LineNumber"> 007 </span>                                   <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                     <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 009 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๗๑๖]  จักขายตนะจักเกิดแก่บุคคลใดในภูมิใด,  โสตายตนะ
+<span class="LineNumber"> 011 </span>ก็จักดับเเก่บุคคลนั้นในภูมินั้น  ใช่ไหม?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         หรือว่า    โสตายตนะจักดับแก่บุคคลใดในภูมิใด,      จักขายตนะ
+<span class="LineNumber"> 014 </span>ก็จักแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         เมื่อปัจฉิมภวิกบุคคลเหล่านั้นกำลังเกิดในปัญจโวการภูมิ   โสตา-
+<span class="LineNumber"> 016 </span>ยตนะจักดับแก่บุคคลเหล่านั้นในภูมินั้น       แต่จักขายตนะไม่ใช่จักเกิด

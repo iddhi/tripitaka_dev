@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	พระพุทธเจ้าของเราทรงบำเพ็ญเพียร ๖ ปี.
+<span class="LineNumber"> 002 </span>	<B>นี้ชื่อว่า  ปธานเวมัตตะ.</B>
+<span class="LineNumber"> 003 </span>		        	<H2>รัศมีเวมัตตะ</H2>
+<span class="LineNumber"> 004 </span>	ที่ชื่อว่า  <B>รัศมีเวมัตตะ</B>  ความแตกต่างกันแห่งพระรัศมี ได้ยินว่า  พระ-
+<span class="LineNumber"> 005 </span>มังคลสัมมาสัมพุทธเจ้า    มีพระรัศมีแห่งพระสรีระ  <B>แผ่ไปในหมื่นโลกธาตุ.</B>
+<span class="LineNumber"> 006 </span>	พระปทุมุตตรพุทธเจ้า   <B>แผ่ไป   ๑๒ โยชน์.</B>
+<span class="LineNumber"> 007 </span>	พระวิปัสสีพุทธเจ้า   <B>แผ่ไป  ๗  โยชน์.</B>
+<span class="LineNumber"> 008 </span>	พระสิขีพุทธเจ้า   <B>แผ่ไป  ๓  โยชน์.</B>
+<span class="LineNumber"> 009 </span>	พระกกุสันธพุทธเจ้า  <B>แผ่ไป  ๑๐ โยชน์.</B>
+<span class="LineNumber"> 010 </span>	พระผู้มีพระภาคเจ้าของเรา   ประมาณหนึ่งวาโดยรอบ.
+<span class="LineNumber"> 011 </span>	พระพุทธเจ้านอกนั้น   ไม่แน่นอน.
+<span class="LineNumber"> 012 </span>	<B>นี้ชื่อว่า  รัศมีเวมัตตะ.</B>
+
+<span class="LineNumber"> 013 </span>	        	         <H2>ยานเวมัตตะ</H2>
+<span class="LineNumber"> 014 </span>	ที่ชื่อว่า  <B>ยานเวมัตตะ</B>  ความแตกต่างกันแห่งพระยาน   ได้แก่   พระ-
+<span class="LineNumber"> 015 </span>พุทธเจ้าบางพระองค์ออกอภิเนษกรมณ์ด้วยยานคือช้าง บางพระองค์ด้วยยานคือ
+<span class="LineNumber"> 016 </span>ม้า  บางพระองค์ด้วยยานคือรถ  ดำเนินด้วยพระบาท  ปราสาทและวอเป็นต้น
+<span class="LineNumber"> 017 </span>อย่างใดอย่างหนึ่ง.
+<span class="LineNumber"> 018 </span>	จริงอย่างนั้น    พระพุทธเจ้าคือพระทีปังกร   พระสุมนะ   พระสุเมธะ
+<span class="LineNumber"> 019 </span>พระปุสสะ พระสิขิ และพระโกนาคมนะ ออกอภิเนษกรมณ์<B>ด้วยยานคือช้าง</B>
+<span class="LineNumber"> 020 </span>	พระโกณฑัญญะ   พระเรวตะ   พระปทุมะ   พระปิยทัสสี  พระวิปัสสี
+<span class="LineNumber"> 021 </span>และพระกกุสันธะ   <B>ด้วยยานคือรถ.</B>
+<span class="LineNumber"> 022 </span>	พระมังคละ  พระสุชาตะ  พระอัตถทัสสี  พระติสสะ  และพระโคตมะ
+<span class="LineNumber"> 023 </span><B>ด้วยยานคือม้า.</B>

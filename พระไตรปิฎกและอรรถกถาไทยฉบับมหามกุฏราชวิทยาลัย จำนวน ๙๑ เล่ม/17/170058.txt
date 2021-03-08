@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>อันบุคคลนั้นยังไม่เห็น  ดังนี้.   
+<span class="LineNumber"> 002 </span>       	สองบทว่า   <B>อริยธมฺมสฺส  อโกวิโท</B>  ความว่า  ไม่ฉลาดในอริย-
+<span class="LineNumber"> 003 </span>ธรรมอันแยกออกเป็นสติปัฏฐาน  เป็นต้น.  
+<span class="LineNumber"> 004 </span>          	<B>ก็ชื่อว่า   วินัย   มี  ๒ อย่าง    แต่ละอย่างในแต่ละ
+<span class="LineNumber"> 005 </span>          	ประเภท  มี  ๕  เพราะความไม่มีวินัยทั้ง  ๒  นั้น  อัน
+<span class="LineNumber"> 006 </span>                นี้ท่านเรียกว่า  อวินีต  ในคำว่า  อริยธมฺเม  อวินีโต
+<span class="LineNumber"> 007 </span>       	        นี้.</B>  
+<span class="LineNumber"> 008 </span>      		                    <H1>วินัย   ๒  อย่าง</H1>
+<span class="LineNumber"> 009 </span>        จริงอยู่วินัยนี้มี ๒   อย่าง  คือ  สังวรวินัย  ๑  ปหานวินัย   ๑.  เละวินัย
+<span class="LineNumber"> 010 </span>แต่ละอย่าง    ในวินัยแม้ทั้ง  ๒  นี้  แยกออกเป็น  ๕. จริงอยู่      แม้สังวร- 
+<span class="LineNumber"> 011 </span>วินัยมี  ๕  คือ  สีลสังวร  สติสังวร   ญาณสังวร     ขันติสังวร     เละวิริย-  
+<span class="LineNumber"> 012 </span>สังวร.      แม้ปหานสังวร    ก็มี  ๕  อย่างเหมือนกัน    คือ   ตทังคปหาน
+<span class="LineNumber"> 013 </span>วิกขัมภนปหาน   สมุจเฉทปหาน  ปฏิปัสสัทธิปหาน   และนิลสรณปหาน. 
+<span class="LineNumber"> 014 </span>        สังวรวินัยทั้ง  ๕  นั้น   สังวรที่ตรัสไว้ว่า  <B>ภิกษุเข้าถึงด้วยปาฏิโมกข์-    
+<span class="LineNumber"> 015 </span>สังวรนี้</B>     นี้เรียกว่า  สีลสังวร.
+<span class="LineNumber"> 016 </span>        สังวรที่ตรัสไว้ว่า    <B>ภิกษุ   ย่อมรักษาจักขุนทรีย์    คือ   ถึงการ
+<span class="LineNumber"> 017 </span>สำรวมในจักขุนทรีย์</B>  นี้เรียกว่า  สติสังวร. 
+<span class="LineNumber"> 018 </span>        สังวรที่ตรัสไว้ว่า
+<span class="LineNumber"> 019 </span>         	<B>พระผู้มีพระภาคเจ้าตรัสว่า  ดูก่อนอชิตะ  กระแส
+<span class="LineNumber"> 020 </span>           	(ตัณหา)  เหล่าใด  ในโลกมีอยู่ สติย่อมเป็นเครื่อง
+<span class="LineNumber"> 021 </span>           	ห้ามกระแสเหล่านั้น  เราตถาคตกล่าวสติว่าเป็น</B>
+

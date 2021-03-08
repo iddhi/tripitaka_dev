@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อมตารัมมณกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๓๐๘]   <B>สกวาที</B>   สัญโญชน์มีอมตะเป็นอารมณ์ หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>    ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. อมตะเป็นอารมณ์ของสัญโญชน์     เป็นอารมณ์ของ
+<span class="LineNumber"> 005 </span>คันถะ    เป็นอารมณ์ของโอฆะ    เป็นอารมณ์ของโยคะ    เป็นอารมณ์ของ
+<span class="LineNumber"> 006 </span>นิวรณ์  เป็นอารมณ์ของปรามาสะ  เป็นอารมณ์ของอุปาทาน  เป็นอารมณ์
+<span class="LineNumber"> 007 </span>ของสังกิเลส  หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 009 </span>                        ส. อมตะไม่เป็นอารมณ์ของสัญโญชน์    ไม่เป็นอารมณ์
+<span class="LineNumber"> 010 </span>ของคันถะ  ฯลฯ ไม่เป็นอารมณ์ของสังกิเลส  มิใช่หรือ  ?
+<span class="LineNumber"> 011 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                        ส. หากว่า  อมตะไม่เป็นอารมณ์ของสัญโญชน์  ฯลฯ  ไม่
+<span class="LineNumber"> 013 </span>เป็นอารมณ์ของสังกิเลส  ก็ต้องไม่กล่าวว่า  สัญโญชน์มีอมตะเป็นอารมณ์.
+<span class="LineNumber"> 014 </span>         [๑๓๐๙]   ส. ราคะปรารภอมตะเกิดขึ้นได้หรือ ?
+<span class="LineNumber"> 015 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                        ส. อมตะเป็นที่ตั้งแห่งราคะ    อันจิตพึงยินดี   พึงใคร่   พึง
+<span class="LineNumber"> 017 </span>มัวเมา  พึงผูกพัน  พึงสยบอยู่  หรือ ?
+<span class="LineNumber"> 018 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 019 </span>                        ส. อมตะไม่เป็นที่ตั้งแห่งราคะ    อันจิตไม่พึงยินดี   ไม่พึง
+<span class="LineNumber"> 020 </span>ใคร่   ไม่พึงมัวเมา ไม่พึงผูกพัน   ไม่พึงสยบอยู่  มิใช่หรือ ?
+<span class="LineNumber"> 021 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 022 </span>                        ส. หากว่า      อมตะไม่เป็นที่ตั้งแห่งราคะ     อันจิตไม่พึง

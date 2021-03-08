@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>อัตถิปัจจัย   มี ๑๐ วาระ   ในนัตถิปัจจัย   มี ๑๖ วาระ   ในวิคตปัจจัย  มี ๑๖  
+<span class="LineNumber"> 002 </span>วาระ  ในอวิคตปัจจัย  มี ๑๐ วาระ.
+<span class="LineNumber"> 003 </span>         ผู้มีปัญญาพึงนับปัจจนียานุโลม.
+<span class="LineNumber"> 004 </span>                                        <I>ปัจจนียานุโลม  จบ</I>
+<span class="LineNumber"> 005 </span>                                          <I>ปีติติกะ ที่ ๗ จบ</I>
+
+<span class="LineNumber"> 006 </span>                                          <H1>อรรถกถาปีติติกะ</H1>
+<span class="LineNumber"> 007 </span>         ใน  <B>ปีติติกะ</B>   คำว่า   <B>ภวังค์ที่สหรคตด้วยสุข    เป็นปัจจัยแก่
+<span class="LineNumber"> 008 </span>ภวังค์ที่สหรคตด้วยอุเบกขา   ด้วยอำนาจของอนันตรปัจจัย</B>   พระผู้มี-
+<span class="LineNumber"> 009 </span>พระภาคเจ้า   ตรัสด้วยอำนาจของตทารัมมณะ   ภวังค์  และมูลภวังค์  คำที่เหลือ
+<span class="LineNumber"> 010 </span>ทั้งหมดในอธิการนี้   พึงทราบด้วยอำนาจบาลีนั่นเอง.
+<span class="LineNumber"> 011 </span>                                       <I>อรรถกถาปีติติกะ  จบ</I>
+
+
+

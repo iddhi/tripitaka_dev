@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 601
+
+<span class="LineNumber"> 002 </span>		สุตตฺจ สุตฺตวชฺชฺจ	อุปนิชฺฌาย เสยฺยสิ  
+<span class="LineNumber"> 003 </span>		อโสภถ ราชปุตฺตี		เทวกฺาว นนฺทเน  
+<span class="LineNumber"> 004 </span>		สีสนหาตา(๑) สุจิวตฺถา	สพฺพาภรณภูสิตา(๒)  
+<span class="LineNumber"> 005 </span>		อโสภถ ราชปุตฺตี		ตาวตึสาว(๓) อจฺฉราภ  
+<span class="LineNumber"> 006 </span>		กทลี วาตจฺฉุปิตา		ชาตา จิตฺตลตาวเน  
+<span class="LineNumber"> 007 </span>		ทนฺตาวรณสมฺปนฺนา	ราชปุตฺตี อโสภถ  
+<span class="LineNumber"> 008 </span>		สกุณี มานุสินีว		ชาตา จิตฺตปฺปตฺตา ปติ  
+<span class="LineNumber"> 009 </span>		นิโคฺรธปกฺกพิมฺโพฏฺ€ี	ราชปุตฺตี อโสภถาติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  โขมฺจ  กายูรนฺติ  สุวณฺณมยํ  ขชฺชูรีผลสณฺ€านํ(๔)  
+<span class="LineNumber"> 011 </span>คีวาปสาธนเมว ฯ  รตนามยนฺติ  อปรํปิ  รตนมยํ  คีเวยฺยํ ฯ 
+<span class="LineNumber"> 012 </span>องฺคทํ  มณิเมขลนฺติ  องฺคทาภรณฺจ  มณิมยเมขลฺจ ฯ  
+<span class="LineNumber"> 013 </span>อุณฺณตนฺติ  เอกํ  ปสาธนํ(๕) ฯ  มุขผุลฺลนฺติ  นลาตนฺเต 
+<span class="LineNumber"> 014 </span>ติลกมาลาภรณํ ฯ  นานารตฺเตติ  นานาวณฺเณ ฯ  มาณิเยติ  
+<span class="LineNumber"> 015 </span>มณิมเย ฯ  อุคฺคตฺถนํ  คิงฺคมกนฺติ  เอตานิปิ  เทฺว
+<span class="LineNumber"> 016 </span>อาภรณานิ ฯ  เมขลนฺติ  สุวณฺณรชตมยํ  เมขลํ ฯ  ปฏิปาทุกนฺติ  
+<span class="LineNumber"> 017 </span>ปาทปสาธนํ ฯ  สุตฺตฺจ  สุตฺตวชฺชฺจาติ  สุตฺตารุฬฺหฺจ  
+<span class="LineNumber"> 018 </span>อสุตฺตารุฬฺหฺจ  ปสาธนํ ฯ  ปาลิยํ  ปน  สุปฺปฺจ
+<span class="LineNumber"> 019 </span>สุปฺปวชฺชฺจาติปิ  ลิขิตํ ฯ  อุปนิชฺฌาย  เสยฺยสีติ  เอตํ 
+<span class="LineNumber"> 020 </span># ๑. ม. สีสํ นหาตา ฯ  ๒. ม. สพฺพาลลงฺการภูสิตา ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ตาวตึเสว ฯ  ๔. ม. วนขขฺชูรีผลสณฺ€านํ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. นลาฏปสาธนํ ฯ

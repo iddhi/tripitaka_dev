@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อฏฺ€มวคฺเค ปิยฺชหตฺเถรคาถาวณฺณนา  หน้า 365
+	
+<span class="LineNumber"> 002 </span>	ตตฺถ  อุปฺปตนฺเตสูติ  อุณฺณมนฺเตสุ  สตฺเตสุ  มานุทฺธจฺจ-
+<span class="LineNumber"> 003 </span>ถมฺภสารมฺภาทีหิ อตฺตุกฺกํสเนน  อนุปสนฺเตสุ ฯ
+<span class="LineNumber"> 004 </span>	นิปเตติ นเมยฺย เตสฺเว ปาปธมฺมานํ ปริวชฺชเนน (๑) 
+<span class="LineNumber"> 005 </span>นิวาตวุตฺติ  ภเวยฺย ฯ  
+<span class="LineNumber"> 006 </span>	นิปตนฺเตสูติ  โอณมนฺเตสุ  หีนาธิมุตฺติกตาย  โกสชฺเชน  จ 
+<span class="LineNumber"> 007 </span>คุณโต  นิหียมาเนสุ ฯ
+<span class="LineNumber"> 008 </span>	อุปฺปเตติ  อุณฺณเมยฺย  ปณีตาธิมุตฺติกตาย  วิริยารมฺเภน 
+<span class="LineNumber"> 009 </span>จ คุณโต  อุสฺสุกฺเกยฺย ฯ (๒)
+<span class="LineNumber"> 010 </span>	อถ  วา
+<span class="LineNumber"> 011 </span>	อุปฺปตนเตสูติ อุฏฺ€หนฺเตสุ กิเลเสสุ ปริยุฏฺ€านวเสน  สีสํ 
+<span class="LineNumber"> 012 </span>อุกฺขิปนฺเตสุ ฯ
+<span class="LineNumber"> 013 </span>	นิปเตติ ปฏิสงฺขานพเลน (๓) ยถา เต น อุปฺปชฺชนฺติ ตถา 
+<span class="LineNumber"> 014 </span>อนุรูปปจฺจเวกฺขณาย นิปเตยฺย  วิกฺขมฺเภยฺย เจว สมุจฺฉินฺเทยฺย
+<span class="LineNumber"> 015 </span>จ ฯ 
+<span class="LineNumber"> 016 </span>	นิปตนฺเตสูติ ปริปตนฺเตสุ  อโยนิโสมนสิกาเรสุ  วิริยปโยค-
+<span class="LineNumber"> 017 </span>มนฺทตาย  วา  ยถารทฺเธสุ  สมถวิปสฺสนาธมฺเมสุ  หายมาเนสุ ฯ 
+<span class="LineNumber"> 018 </span>	อุปฺปเตติ  โยนิโสมนสิกาเรน  วิริยารมฺภสมฺปทาย  จ เต 
+<span class="LineNumber"> 019 </span>อุปฏฺ€าเปยฺย  อุปฺปาเทยฺย  วฑฺเฒยฺย  จ ฯ  
+<span class="LineNumber"> 020 </span>	วเส  อวสมาเนสูติ  สตฺเตสุ  มคฺคพฺรหฺมจริยวาสํ  อริยวาสฺจ
+<span class="LineNumber"> 021 </span># ๑. สี. ปริวิวชฺชเนน ฯ  ๒. สี. คุณโต อุปฺปเตยฺย อุกฺกํเสยฺย ฯ 
+<span class="LineNumber"> 022 </span># ๓. สี. ปฏิสงฺขานวเสน ฯ 

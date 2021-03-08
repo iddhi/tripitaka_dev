@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           ภิกษุณีไม่เป็นไข้   สำคัญว่าไม่เป็นไข้   ขอน้ำอ้อยมาฉัน     ต้องอาบัติ
+<span class="LineNumber"> 002 </span>ปาฏิเทสนียะ.     
+
+<span class="LineNumber"> 003 </span>                                             <H2>ทุกะทุกกฏ</H2>                            
+<span class="LineNumber"> 004 </span>           ภิกษุณีเป็นไข้  สำคัญว่าไม่เป็นไข้   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 005 </span>           ภิกษุณีเป็นไข้   มีความสงสัย   ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 006 </span>                                           <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 007 </span>           ภิกษุณีเป็นไข้  สำคัญว่าเป็นไข้    ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 008 </span>                                            <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 009 </span>           อาพาธ ๑    อาพาธขอได้มา    หายอาพาธแล้วจึงฉัน ๑    ฉันน้ำอ้อย
+<span class="LineNumber"> 010 </span>ที่เหลือของภิกษุณีผู้อาพาธ ๑   ฉันน้ำอ้อยของญาติ  ๑  ฉันน้ำอ้อยของคนปวาร-
+<span class="LineNumber"> 011 </span>ณา ๑    ขอเพื่อประโยชน์ผู้อื่น ๑    จ่ายมาด้วยทรัพย์ของตน ๑    วิกลจริต ๑
+<span class="LineNumber"> 012 </span> อาทิกัมมิกา ๑   ไม่ต้องอาบัติแล.
+
+<span class="LineNumber"> 013 </span>                                 <I>ปาฏิเทสนียะ   สิกขาบทที่  ๔  จบ</I>

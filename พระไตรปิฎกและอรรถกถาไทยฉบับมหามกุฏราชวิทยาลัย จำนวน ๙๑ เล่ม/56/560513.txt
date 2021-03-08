@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>	          <B>รวมชาดกที่มีในวรรคนี้  คือ</B>
+<span class="LineNumber"> 002 </span>	๑.  กุสนาฬิชาดก     ๒. ทุมเมธชาดก     ๓. นังคลีสชาดก
+<span class="LineNumber"> 003 </span>๔.  อัมพชาดก   ๕. กฏาหกชาดก   ๖. อลิลักขณชาดก  ๗.  กลัณ-
+<span class="LineNumber"> 004 </span>ฑุกชาดก   ๘. มูสิกชาดก   ๙. อัคคิกชาดก   ๑๐.  โกลิยชาดก.
+<span class="LineNumber"> 005 </span>	             <I>จบ  กุสนาฬิวรรคที่  ๑๓</I>

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>๔.   จุลลสุวกราชชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                       <H1>ว่าด้วยผู้รักษาไมตรี</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๒๓๖]   ต้นไม้ทั้งหลายที่มีใบเขียว     มีผลดก 
+<span class="LineNumber"> 004 </span>           มีอยู่เป็นอันมาก   เหตุไรพญานกแขกเต้าจึง
+<span class="LineNumber"> 005 </span>           มีใจยินดีในต้นไม้แห้งผุเล่า.  
+<span class="LineNumber"> 006 </span>         [๑๒๓๗]   เราเคยบริโภคผลแห่งต้นไม้นี้นับได้
+<span class="LineNumber"> 007 </span>           หลายปีมาแล้ว    ถึงเราจะรู้ว่าต้นไม้นี้ไม่มีผล
+<span class="LineNumber"> 008 </span>           แล้ว   ก็ต้องรักษาความไมตรีไว้ให้เหมือนดัง
+<span class="LineNumber"> 009 </span>           ก่อน. 
+<span class="LineNumber"> 010 </span>         [๑๒๓๘]   นกทั้งหลายย่อมละทิ้งต้นไม้แห้งผุ  ขาด
+<span class="LineNumber"> 011 </span>           ใบไร้ผลไปในที่อื่น     ดูก่อนพญานกแขกเค้า
+<span class="LineNumber"> 012 </span>           ท่านเห็นโทษอะไรหรือ ? 
+<span class="LineNumber"> 013 </span>         [๑๒๓๙]   นกเหล่าใดคบหาฉันเพราะต้องการผล
+<span class="LineNumber"> 014 </span>           ไม้   ครั้นรู้ว่าต้นไม้นั้นไม่มีผล   ก็ละทิ้งต้นไม้
+<span class="LineNumber"> 015 </span>           นั้นไปเสียนกเหล่านั้นโง่เขลา   มีปัญญาที่เห็น
+<span class="LineNumber"> 016 </span>           แก่ตัว   มักทำฝักใฝ่แห่งมิตรภาพให้ตกไป.</B>

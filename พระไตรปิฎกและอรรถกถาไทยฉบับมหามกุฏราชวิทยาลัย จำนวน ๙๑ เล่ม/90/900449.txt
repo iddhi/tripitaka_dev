@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                          			<H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 002 </span>				<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 003 </span>		[๑๓๔๑]  ในนเหตุปัจจัย  มี ๗ วาระ  ในนอารัมมณปัจจัย มี ๗ วาระ
+<span class="LineNumber"> 004 </span>ฯลฯ
+<span class="LineNumber"> 005 </span>                       			<H2>อนุโลมปัจจนียนัย</H2> 
+<span class="LineNumber"> 006 </span>           		<H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 007 </span>		[๑๓๔๒]  <B>เพราะเหตุปัจจัย</B>  ในนอารัมมณปัจจัยมี ๔  วาระ... ฯลฯ
+<span class="LineNumber"> 008 </span>                          	            <H2>ปัจจนียานุโลมนัย</H2>  
+<span class="LineNumber"> 009 </span>                          <H2>การนับจำนวนวาระในปัจจนียานุโลม</H2>
+<span class="LineNumber"> 010 </span>		[๑๓๔๓]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย  มี  ๓ วาระ... ฯลฯ
+<span class="LineNumber"> 011 </span>           	อนุโลมนัยก็ดี  ปัจจนียนัยก็ดี  อนุโลมปัจจนียนัยก็ดี   ปัจจนียานุโลม-
+<span class="LineNumber"> 012 </span>นัยก็ดี  แห่งปัญหาวาระ  ในกุสลติกะ  ท่านนับไว้อย่างไร   พึงนับอย่างนั้น.
+<span class="LineNumber"> 013 </span>                                <I>คันถวิปปยุตตคันถนิยทุกกุสลติกะ จบ</I>
+<span class="LineNumber"> 014 </span>			             <I>คันถโคจฉกทุกกุสลติกะ  จบ</I>
+
+<span class="LineNumber"> 015 </span>		โอฆโคจฉกะ <SUP>๑</SUP>   ก็ดี  โยคโคจฉ<SUP>๒</SUP> กะก็ดี  เหมือนอาสวโคจฉกทุก-
+<span class="LineNumber"> 016 </span>กุสลติกะ.
+<span class='footnote'>๑. มี  ๖ ทุกะ,  ๒. มี  ๖  ทุกะ  นีวรณทุกะจึงเป็นอันดับที่  ๔๔.</span>

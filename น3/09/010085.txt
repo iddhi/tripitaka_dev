@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span><B>วิวิจฺเจว  กาเมหิ  วิวิจฺจ</B>		สงัดแล้วจากกามารมณ์  สงัดแล้ว   
+<span class="LineNumber"> 002 </span><B>อกุสเลหิ  ธมฺเมหิ</B>			จากธรรมที่เป็นอกุศล
+<span class="LineNumber"> 003 </span><B>สวิตกฺกํ สวิจารํ  วิเวกชมฺปีติ-</B>	เข้าถึงปฐมฌาน [ความเพ่งที่ ๑]
+<span class="LineNumber"> 004 </span><B>สุขํ  ป€มํ  ฌานํ  อุปสมฺปชฺช</B>  	ประกอบด้วยวิตกวิจาร   มีปีติและ
+<span class="LineNumber"> 005 </span><B>วิหรติ</B>					สุขอันเกิดจากวิเวก<SUP>๑</SUP>
+<span class="LineNumber"> 006 </span><B>วิตกฺกวิจารานํ  วูปสมา</B>		เพราะความที่วิตกและวิจารทั้ง ๒
+<span class="LineNumber"> 007 </span>					ระงับลง
+<span class="LineNumber"> 008 </span><B>อชฺฌตฺตํ  สมฺปสาทนํ  เจตโส</B>	เข้าถึงทุติฌาน  [ความเพ่งที่ ๒]
+<span class="LineNumber"> 009 </span><B>เอโกทิภาวํ  อวิตกฺกํ  อวิจารํ</B>	เป็นเครื่องผ่องใสใจ ณ ภายใน ให้
+<span class="LineNumber"> 010 </span><B>สมาธิชมฺปีติสุขํ  ทุติยํ  ฌานํ</B>	สมาธิเป็นธรรมอันเอกผุดมีขึ้น ไม่
+<span class="LineNumber"> 011 </span><B>อุปสมฺปชฺช  วิหรติ</B>			มีวิตกไม่มีวิจาร  มีแต่ปีติและสุขที่
+<span class="LineNumber"> 012 </span>					เกิดจากสมาธิ
+<span class="LineNumber"> 013 </span><B>ปีติยา  จ  วิราคา</B>			อนึ่ง เพราะความที่ปีติวิราช
+<span class="LineNumber"> 014 </span>					[ปราศ]  ไป
+<span class="LineNumber"> 015 </span><B>อุเปกฺขโก  จ  วิหรติ  สโต  จ</B>	ย่อมเป็นผู้เพิกเฉยอยู่  และมีสติ
+<span class="LineNumber"> 016 </span><B>สมฺปชาโน</B>				สัมปชัญญะ
+<span class="LineNumber"> 017 </span><B>สุขญฺจ  กาเยน  ปฏิสํเวเทติ</B>	และรู้รสความสุขด้วยกาย
+
+<span class='footnote'>๑.  คือความที่จิตสงัดจากกามารมณ์และธรรมที่เป็นอกุศลนั้น.</span>

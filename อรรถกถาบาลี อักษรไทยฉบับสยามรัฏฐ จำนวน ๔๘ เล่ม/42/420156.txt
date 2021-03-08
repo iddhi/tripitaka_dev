@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  42   นิทานกถา  หน้า  156
+
+<span class="LineNumber"> 002 </span>		ทสวาโส ทสพโล  
+<span class="LineNumber"> 003 </span>		ทสธมฺมวิทู ทสภิ จุเปโต  
+<span class="LineNumber"> 004 </span>		โส ทสสตปริวาโร  
+<span class="LineNumber"> 005 </span>		ราชคหํ ปาวิสิ ภควาติ(๑)  
+<span class="LineNumber"> 006 </span>อิมาหิ  คาถาหิ  สตฺถุ  วณฺณํ  วทมาโน  ปุรโต  ปายาสิ ฯ  
+<span class="LineNumber"> 007 </span>ตทา  มหาชโน มาณวกสฺส  รูปสิรึ  ทิสฺวา  อติวิย  อภิรูโป  
+<span class="LineNumber"> 008 </span>วตายํ  มาณวโก  น  โข  ปน  อมฺเหหิ  ทิฏฺ€ปุพฺโพติ  จินฺเตตฺวา  
+<span class="LineNumber"> 009 </span>กุโต  อยํ  มาณวโก  กสฺส  วา  อยนฺติ  อาห ฯ  ตํ  สุตฺวา 
+<span class="LineNumber"> 010 </span>มาณโว  
+<span class="LineNumber"> 011 </span>		โย ธีโร สพฺพธิ ทนฺโต  สุทฺโธ อปฺปฏิปุคฺคโล  
+<span class="LineNumber"> 012 </span>		อรหํ สุคโต โลเก  ตสฺสาหํ ปริจารโกติ(๒)  
+<span class="LineNumber"> 013 </span>คาถมาห ฯ  
+<span class="LineNumber"> 014 </span>	สตฺถา  สกฺเกน  กโตกาสํ  มคฺคํ  ปฏิปชฺชิตฺวา  ภิกฺขุ-
+<span class="LineNumber"> 015 </span>สหสฺสปริวุโต  ราชคหํ  ปาวิสิ ฯ  ราชา  พุทฺธปฺปมุขสฺส  สงฺฆสฺส  
+<span class="LineNumber"> 016 </span>มหาทานํ  ทตฺวา  อหํ  ภนฺเต  ตีณิ  รตนานิ  วินา  วสิตุํ  
+<span class="LineNumber"> 017 </span>น  สกฺขิสฺสามิ  เวลาย  วา  อเวลาย  วา  ภควโต  สนฺติกํ  
+<span class="LineNumber"> 018 </span>อาคมิสฺสามิ  ลฏฺ€ิวนุยฺยานฺจ  นาม  อติทูเร  อิทํ  ปน  อมฺหากํ 
+<span class="LineNumber"> 019 </span>เวฬุวนุยฺยานํ  นาติทูรํ  นจฺจาสนฺนํ  คมนาคมนสมฺปนฺนํ  พุทฺธารหํ  
+<span class="LineNumber"> 020 </span>เสนาสนํ ฯ  อิทํ  เม  ภนฺเต  ภควา  ปฏิคฺคณฺหาตูติ  สุวณฺณ-
+<span class="LineNumber"> 021 </span>#  ๑ วิ. มหา.  ๔/๖๑/๖๙ ฯ  ๒ วิ. มหา.  ๔/๖๒/๗๐ ฯ  

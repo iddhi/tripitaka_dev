@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  31  ติกนิปาเต   กุมฺภวคฺควณฺณนา  หน้า  262
+
+<span class="LineNumber"> 002 </span>	[๔๙๐]	อุจฺเจ  สกุณ  เฑมาน	ปตฺตยาน  วิหงฺคม  
+<span class="LineNumber"> 003 </span>			วชฺชาสิ  โข  ตฺวํ วามูรุํ	จิรํ  โข  สา  กริสฺสติ  
+<span class="LineNumber"> 004 </span>	[๔๙๑]	อิทํ โข  สา  น ชานาติ	อสิสตฺติฺจ  โอฑิตํ  (๑)
+<span class="LineNumber"> 005 </span>			สา  จณฺฑี  กาหตี โกธํ	ตํ  เม  ตปฺปติ  โน  อิธ (๒) 
+<span class="LineNumber"> 006 </span>	[๔๙๒]	เอส  อุปฺปลสนฺนาโห	นิกฺขฺจุสฺสีสเก   กตํ  (๓)
+<span class="LineNumber"> 007 </span>			กาสิกฺจ  มุทุํ  วตฺถํ	ตปฺเปตุ   ธนกามิยาติ (๔) ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  เฑมานาติ  เฑยมาน  คจฺฉมาน  (๕) ฯ  ปตฺตยานาติ  
+<span class="LineNumber"> 009 </span>ตเมว  อาลปติ  ตถา  วิหงฺคมาติ ฯ  โส  หิ  ปตฺเตหิ  
+<span class="LineNumber"> 010 </span>ยานํ  กตฺวา  คมนโต  ปตฺตยาโน  อากาเสน  คมนโต  
+<span class="LineNumber"> 011 </span>วิหงฺคโม ฯ  วชฺชาสีติ  วเทยฺยาสิ ฯ  วามูรุนฺติ  กทลิกฺขนฺธสมานอูรุํ 
+<span class="LineNumber"> 012 </span>มม  สูเล  นิสินฺนภาวํ  วเทยฺยาสิ ฯ  จิรํ  โข  สา  กริสฺสตีติ  
+<span class="LineNumber"> 013 </span>สา  อิมํ  ปวุตฺตึ  อชานมานา  มม  อาคมนํ  จิรํ   กริสฺสติ  
+<span class="LineNumber"> 014 </span>จิรเมว  (๖)  คตสฺส  ปิยสฺส  น   จ   อาคจฺฉตีติ  เอวํ  จินฺเตสฺสตีติ  
+<span class="LineNumber"> 015 </span>อตฺโถ ฯ  อสิสตฺติฺจาติ  อสิสมานตาย  สตฺติสมานตาย  จ  
+<span class="LineNumber"> 016 </span>สูลเมว  สนฺธาย  วทติ ฯ  ตฺหิ  ตสฺส  อุตฺตาสนตฺถาย  โอฑิตํ  
+<span class="LineNumber"> 017 </span>€ปิตํ ฯ  จณฺฑีติ  โกธนา ฯ  กาหตี  โกธนฺติ  อติจิรายตีติ  
+<span class="LineNumber"> 018 </span>มยฺหํ  โกธํ  กริสฺสติ ฯ  ตํ  เม  ตปฺปตีติ  ตํ  ตสฺสา  กุชฺฌนํ 
+<span class="LineNumber"> 019 </span>มํ  ตปฺปติ ฯ  โน  อิธาติ  อิธ  ปน  อิมํ  สูลํ  มํ  น  ตปฺปตีติ  
+<span class="LineNumber"> 020 </span>#  ๑.  สฺยา.  ม.  อสึ  สตฺติจ  โอฑฺฑิตํ  ฯ  ๒  ม.  อิทํ  ฯ
+<span class="LineNumber"> 021 </span>#  ๓.  ม.  นิกฺขฺจุสฺสีสฌก  หิตํ  ฯ  ๔.  ม.  ธนิกา  ปิยาติ  ฯ
+<span class="LineNumber"> 022 </span>#  ๕.  ม.  คจฺฉมาน  จรมาน  ฯ  ๖.  ม.  จิรํ  เม  ฯ

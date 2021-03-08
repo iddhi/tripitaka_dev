@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>นเหตุธรรมที่ไม่ใช่อัชฌัตตธรรม  อาศัยเหตุธรรม
+<span class="LineNumber"> 002 </span>ที่เป็นพหิทธาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>    
+
+<span class="LineNumber"> 003 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 004 </span>           [๕๒๙]  ในเหตุปัจจัย  มี   ๒  วาระ  ฯลฯ
+
+<span class="LineNumber"> 005 </span>                                     <H2>นเหตุบท</H2>
+<span class="LineNumber"> 006 </span>           [๕๓๐] ๑.  <B>ธรรมที่ไม่ใช่นเหตุธรรมที่ไม่ใช่พหิทธาธรรม
+<span class="LineNumber"> 007 </span>อาศัยนเหตุธรรมที่เป็นอัชฌัตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 008 </span>                       ๒.  <B>ธรรมที่ไม่ใช่นเหตุธรรมที่ไม่ใช่อัชฌัตตธรรม 
+<span class="LineNumber"> 009 </span>อาศัยนเหตุธรรมที่เป็นพหิทธาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๕๓๑]  ในเหตุปัจจัย  มี ๒ วาระ   ฯลฯ
+<span class="LineNumber"> 012 </span>              <I>อัชฌัตตติกเหตุทุกนอัชฌัตตติกนเหตุทุกะ  จบ</I>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>โดดเดี่ยว 
+<span class="LineNumber"> 002 </span>                              [กำหนดสุญตาโดยอาการ ๑๒]  
+<span class="LineNumber"> 003 </span>           ครั้นกำหนดสุญตาโดยอาการ  ๑๐ อย่างนี้แล้ว  กำหนดโดยอาการ
+<span class="LineNumber"> 004 </span>๑๒  อีก  กำหนดโดยอาการ ๑๒  อย่างไรบ้าง  ?  คือกำหนดว่า  รูปมิใช่
+<span class="LineNumber"> 005 </span>สัตว์  มิใช่ชีวะ  มิใช่นระ  (คน)  มิใช่มาณพ  (ชายหนุ่ม)  มิใช่สตรี
+<span class="LineNumber"> 006 </span>มิใช่บุรุษ  มิใช่อัตตา  มิใช่อัตตนิยะ  มิใช่เรา  มิใช่ของเรา  มิใช่ของ
+<span class="LineNumber"> 007 </span>ผู้อื่น   มิใช่ของใคร ๆ เวทนา  ฯลฯ  วิญญาณ  ฯลฯ  มิใช่ของใคร ๆ<SUP>*</SUP>
+<span class="LineNumber"> 008 </span>                               [กำหนดสุญตาโดยอาการ ๔๒] 
+<span class="LineNumber"> 009 </span>           ครั้นกำหนดสุญตาโดยอาการ  ๑๒  อย่างนี้แล้ว  ยังกำหนดสุญตา
+<span class="LineNumber"> 010 </span>โดยอาการ  ๔๒  ด้วยอำนาจตีรณปริญญาอีก  คือเห็นรูป
+<span class="LineNumber"> 011 </span>           <B>อนิจฺจโต</B>             โดยเป็นของไม่เที่ยง
+<span class="LineNumber"> 012 </span>           <B>ทุกฺขโต</B>               โดยเป็นทุกข์
+<span class="LineNumber"> 013 </span>           <B>โรคโต</B>                 โดยเป็นโรค  (เสียดแทง)
+<span class="LineNumber"> 014 </span>           <B>คณฺฑโต</B>              โดยเป็นแผลฝี
+<span class="LineNumber"> 015 </span>           <B>สลฺลโต</B>                โดยเป็นลูกศร  (เสียบแทง)
+<span class="LineNumber"> 016 </span>           <B>อฆโต</B>                  โดยเป็นของชั่วร้าย
+<span class="LineNumber"> 017 </span>           <B>อาพาธโต</B>            โดยเป็นอาพาธ  (รบกวน เบียดเบียน)
+<span class="LineNumber"> 018 </span>           <B>ปรโต</B>                   โดยเป็นฝ่ายอื่น
+
+<span class='footnote'>  *  มหาฎีกาว่า  ๘ บทข้างต้นแสดง  อัตตสุญตา  ๔  บทข้างหลังแสดง  กิญจนตภาวะ</span>
+<span class='footnote'>(ความไม่เป็นอะไร ๆ ของใคร ๆ).</span>

@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>ปัจจุปปันนาตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                        <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 004 </span><H2>จักขายตนมูละ   โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๗๔๖]  จักขายตนะกำลังเกิดแก่บุคคลใด,    โสตายตนะก็เคย  
+<span class="LineNumber"> 006 </span>ดับแก่บุคคลนั้น  ใช่ไหม  ?                                               
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า  โสตายตนะเคยดับแก่บุคคลใด,  จักขายตนะก็กำลังเกิด
+<span class="LineNumber"> 009 </span>แก่บุคคลนั้น  ใช่ไหม   ?                                                        
+<span class="LineNumber"> 010 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังตายก็ดี    บุคคลที่จักขุเกิดไม่ได้
+<span class="LineNumber"> 011 </span>เหล่านั้นกำลังเกิดก็ดี   โสตายตนะเคยดับแก่บุคคลเหล่านั้น    แต่จักขา-
+<span class="LineNumber"> 012 </span>ยตนะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น,     บุคคลที่มีจักขุเกิดได้เหล่านั้น
+<span class="LineNumber"> 013 </span>กำลังเกิด       โสตายตนะเคยดับ       และจักขายตนะก็กำลังเกิดแก่บุคคล 
+<span class="LineNumber"> 014 </span>เหล่านั้น.

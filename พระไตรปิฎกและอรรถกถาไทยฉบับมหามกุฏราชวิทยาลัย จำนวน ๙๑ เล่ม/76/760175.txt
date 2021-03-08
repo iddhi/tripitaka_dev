@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ปัญจกมาติกา</H1> 
+<span class="LineNumber"> 002 </span>           [๕๐๗]  <B>สงเคราะห์รูปเป็นหมวดละ  ๕</B>   
+<span class="LineNumber"> 003 </span>           ปฐวีธาตุ, อาโปธาตุ, เตโชธาตุ, วาโยธาตุ  และรูปที่เป็นอุปาทา
+<span class="LineNumber"> 004 </span>           สงเคราะห์รูปเป็นหมวดละ  ๕  อย่างนี้.	
+<span class="LineNumber"> 005 </span>                               <I>ปัญจกมาติการ  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                      <H1>ฉักกมาติกา</H1>
+<span class="LineNumber"> 007 </span>           [๕๐๘]  <B>สงเคราะห์รูปเป็นหมวดละ  ๖</B>
+<span class="LineNumber"> 008 </span>           รูปอันจักขุวิญญาณพึงรู้.  รูปอันโสตวิญญาณพึงรู้,   รูปอันฆานวิญญาณ
+<span class="LineNumber"> 009 </span>พึงรู้,   รูปอันชิวหาวิญญาณพึงรู้  รูปอันกายวิญญาณพึงรู้  รูปอันมโนวิญญาณ
+<span class="LineNumber"> 010 </span>พึงรู้ 
+<span class="LineNumber"> 011 </span>           สงเคราะห์รูปเป็นหมวดละ  ๖  อย่างนี้.
+<span class="LineNumber"> 012 </span>                                    <I>ฉักกมาติกา  จบ</I>
+
+<span class="LineNumber"> 013 </span>                                      <H1>สัตตกมาติกา</H1> 
+<span class="LineNumber"> 014 </span>           [๕๐๙]  <B>สงเคราะห์รูปเป็นหมวดละ  ๗</B>
+<span class="LineNumber"> 015 </span>           รูปอันจักขุวิญญาณพึงรู้  รูปอันโสตวิญญาณพึงรู้, รูปอันฆานวิญญาณ
+<span class="LineNumber"> 016 </span>พึงรู้,  รูปอันชิวหาวิญญาณพึงรู้, รูปอันกายวิญญาณพึงรู้,  รูปอันมโนธาตุพึงรู้,
+<span class="LineNumber"> 017 </span>รูปอันมโนวิญญาณธาตุพึงรู้                                                 
+<span class="LineNumber"> 018 </span>           สงเคราะห์รูปเป็นหมวดละ  ๗  อย่างนี้.
+<span class="LineNumber"> 019 </span>                                    <I>สัตตกมาติกา  จบ</I>

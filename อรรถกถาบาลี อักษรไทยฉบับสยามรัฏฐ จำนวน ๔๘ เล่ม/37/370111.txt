@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 111
+
+<span class="LineNumber"> 002 </span>	กสฺเสเต กุณฺฑลา วคฺคู	โสภนฺติ อุภโต มุขํ  
+<span class="LineNumber"> 003 </span>	กสฺส วาเตน ฉุปิตา	(๑)สินิทฺธคฺคา มุทุ กาฬิกา(๑)  
+<span class="LineNumber"> 004 </span>	โสภยนฺติ นลาตนฺตํ	นภา วิชฺชุริวุคฺคตา  
+<span class="LineNumber"> 005 </span>	กสฺส เอตานิ อกฺขีนิ	อายตานิ ปุถูนิ จ  
+<span class="LineNumber"> 006 </span>	โก โสภติ วิสาลกฺโข	กสฺเสตํ อุณฺณชํ มุขํ  
+<span class="LineNumber"> 007 </span>	กสฺเสเต ลปนชาตา	สุทฺธา สํขวรูปมา  
+<span class="LineNumber"> 008 </span>	ภาสมานสฺส โสภนฺติ	ทนฺตา กุปฺปิลสาทิสา  
+<span class="LineNumber"> 009 </span>	กสฺส ลาขา รสสมา	หตฺถปาทา สุเข €ิตา(๒)  
+<span class="LineNumber"> 010 </span>	โก โส พิมฺโพฏฺ€สมฺปนฺโน  ทิวา (๓)สุริโยว โสภติ(๓)  
+<span class="LineNumber"> 011 </span>	หิมจฺจเย หิมวโต(๔)	พฺรหาสาโลว(๕) ปุปฺผิโต  
+<span class="LineNumber"> 012 </span>	โก โส โอทาตปาวาโร	ชยํ อินฺโทว โสภติ  
+<span class="LineNumber"> 013 </span>	สุวณฺณปิลกากิณฺณํ	มณิทณฺฑวิจิตฺตกํ  
+<span class="LineNumber"> 014 </span>	โก โส ปริสโมคยฺห	อํเส(๖ฉ ขคฺคํ ปมุฺจติ  
+<span class="LineNumber"> 015 </span>	สุวณฺณวิกตา จิตฺรา(๗)	สุกตา จิตฺรสิพฺพินี(๘)  
+<span class="LineNumber"> 016 </span>	โก โส โอมุฺจเต ปาทา	มโน กตฺวา มเหสิโนติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  ปฏิปนฺนานีติ  กสฺเสตานิ  ตุริยานิ  ปุรโต
+<span class="LineNumber"> 018 </span>ปฏิปนฺนานิ ฯ  หาสยนฺตาติ  เอตํ  ราชานํ  โตเสนฺตา(๙) ฯ  กสฺส  
+<span class="LineNumber"> 019 </span># ๑. ม. นิทฺธนฺตา  มุทุกาฬกา ฯ  ๒. ม. สุเขธิตา ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. สูริโยว ภาสติ ฯ  ๔. ม. หิมวติ ฯ ๕. ม. มหาสาโลว ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. อีสํ ฯ  ๗. ม. จิตฺตา ฯ ๘. ม. จิตฺตสิพฺพนา ฯ 
+<span class="LineNumber"> 022 </span># ๙. ม. หาสยนฺตา ฯ 

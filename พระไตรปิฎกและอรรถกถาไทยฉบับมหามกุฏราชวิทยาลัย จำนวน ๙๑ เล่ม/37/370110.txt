@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>๒.  ปริกขารสูตร</H1>    
+<span class="LineNumber"> 002 </span>         [๔๒]     ดูก่อนภิกษุทั้งหลาย  องค์แห่งสมาธิ  ๗  ประการนี้
+<span class="LineNumber"> 003 </span>๗ ประการเป็นไฉน คือ สัมมาทิฏฐิ ๑ สัมมาสังกัปปะ ๑ สัมมาวาจา ๑
+<span class="LineNumber"> 004 </span>สัมมากัมมันตะ   ๑  สัมมาอาชีวะ    ๑  สัมมาวายามะ   ๑  สัมมาสติ  ๑
+<span class="LineNumber"> 005 </span>ดูก่อนภิกษุทั้งหลาย    เอกัคคตาจิตประกอบด้วยองค์   ๗   ประการนี้
+<span class="LineNumber"> 006 </span>เรียกว่าอริยสมาธิ     ที่เป็นไปกับด้วยอุปนิสัยก็มี  มีเป็นไปกับด้วย
+<span class="LineNumber"> 007 </span>บริขารก็มี
+<span class="LineNumber"> 008 </span>                             <I>จบ  ปริกขารสูตรที่  ๒</I>
+
+<span class="LineNumber"> 009 </span>                       <H1>อรรถกถาปริกขารสูตรที่  ๒</H1>
+<span class="LineNumber"> 010 </span>         <B>ปริกขารสูตรที่  ๒</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 011 </span>         บทว่า     <B>สมาธิปริกฺขารา</B>  ได้แก่   องค์ประกอบแห่งสมาธิ
+<span class="LineNumber"> 012 </span>อันสัมปยุตด้วยมรรค.
+<span class="LineNumber"> 013 </span>                            <I>จบ  อรถกถาปริกขารสูตรที่  ๒</I>

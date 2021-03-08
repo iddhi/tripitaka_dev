@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  สุลสาชาตกํ   หน้า 314
+		
+<span class="LineNumber"> 002 </span>	[๑๑๔๐]เอหิ ตํ อุปคุยฺหิสฺสํ  	กริสฺสํ ตํ(๑) ปทกฺขิณํ  
+<span class="LineNumber"> 003 </span>		น หิ ทานิ ปุน อตฺถิ  	มม ตุยฺตฺจ สงฺคโมติ ฯ  
+<span class="LineNumber"> 004 </span>	สตฺตุโก  ตสฺสา  อธิปฺปายํ  อชานนฺโต  สาธุ  ภทฺเท  เอหิ  
+<span class="LineNumber"> 005 </span>อุปคุยฺหสฺสุ  มนฺติ  อาห  ฯ  สุลสา  ตํ  ติกฺขตฺตุํ  ปทกฺขิณํ  กตฺวา  
+<span class="LineNumber"> 006 </span>อุปคุยฺหิตฺวา  อิทานิ  ตํ  สามิ  จตูสุ  ปสฺเสสุ  วนฺทิสฺสามีติ  วตฺวา  
+<span class="LineNumber"> 007 </span>ปาทปิฏฺ€ิยํ  สีสํ  €เปตฺวา  วามปสฺเส  วนฺทิตฺวา  ทกฺขิณปสฺเสปิ  
+<span class="LineNumber"> 008 </span>ปจฺฉิมปสฺสํ  คนฺตฺวา  วนฺทมานา  วิย  หุตฺวา  นาคพลา  คณิกา
+<span class="LineNumber"> 009 </span>โจรํ  ทฺวีสุ  ปจฺฉาพาหาสุ  คเหตฺวา  เหฏฺ€าสีสํ  กตฺวา  สตโปริเส 
+<span class="LineNumber"> 010 </span>นรเก  ปกฺขิปิ  ฯ  โส  ตตฺเถว  จุณฺณวิจุณฺณํ  หุตฺวา  มริ  ฯ  ตํ 
+<span class="LineNumber"> 011 </span>กิริยํ  ทิสฺวา ปพฺพตมตฺถเก นิพฺพตฺตเทวตา อิมา คาถา อภาสิ  
+<span class="LineNumber"> 012 </span>	[๑๑๔๑]น หิ สพฺเพสุ €าเนสุ  	ปุริโส โหติ ปณฺฑิโต  
+<span class="LineNumber"> 013 </span>		อิตฺถีปิ ปณฺฑิตา โหติ  	ตตฺถ ตตฺถ วิจกฺขณา ฯ  
+<span class="LineNumber"> 014 </span>	[๑๑๔๒]น หิ สพฺเพสุ €าเนสุ  	ปุริโส โหติ ปณฺฑิโต  
+<span class="LineNumber"> 015 </span>		อิตฺถีปิ ปณฺฑิตา โหติ  	ลหุมตฺถํ วิจินฺติกา ฯ  
+<span class="LineNumber"> 016 </span>	[๑๑๔๓]ลหุฺจ วต สา ขิปฺปํ(๒) 	นิกฏฺเ€ สมเจตยิ  
+<span class="LineNumber"> 017 </span>		มิคํ ปุณฺณายตเนว(๓)	สุลสา สตฺตุกํ วธิ ฯ  
+<span class="LineNumber"> 018 </span>	[๑๑๔๔]โยธ อุปฺปติตํ อตฺถํ  	น ขิปฺปมนุพุชฺฌติ  
+<span class="LineNumber"> 019 </span>		โส หฺเต มนฺทมตี  	โจโรว คิริคพฺภเร ฯ  
+<span class="LineNumber"> 020 </span># ๑. ส. จ ฯ  ๒. ส. ม. วต ขิปฺปฺจ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ปุณฺณายเตเนว ฯ 

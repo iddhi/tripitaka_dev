@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         คือ   ขันธ์ ๓ อาศัยขันธ์ ๑  ที่เป็นวิปากธัมมธรรมและหทยวัตถุ    เกิด
+<span class="LineNumber"> 002 </span>ขึ้น   ฯลฯ  ขันธ์ ๒ อาศัยขันธ์ ๒ และหทยวัตถุเกิดขึ้น  จิตตสมุฏฐานรูปอาศัย
+<span class="LineNumber"> 003 </span>ขันธ์ที่เป็นวิปากธัมมธรรมและมหาภูตรูปเกิดขึ้น.  
+
+<span class="LineNumber"> 004 </span>                                        <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 005 </span>         [๑๓๑๖]  ๑.  วิปากธรรม    อาศัยวิปากธรรมเกิดขึ้น    เพราะ
+<span class="LineNumber"> 006 </span>อารมมณปัจจัย
+<span class="LineNumber"> 007 </span>         คือ   ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นวิบากเกิดขึ้น ฯลฯ ขันธ์ ๒ อาศัย
+<span class="LineNumber"> 008 </span>ขันธ์ ๒ เกิดขึ้น.  ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 009 </span>         [๑๓๑๗]  ๒.  วิปากธัมมธรรม    อาศัยวิปากธัมมธรรมเกิดขึ้น
+<span class="LineNumber"> 010 </span>เพราะอารัมมณปัจจัย
+<span class="LineNumber"> 011 </span>         คือ   ขันธ์   ๓   อาศัยขันธ์   ๑   ที่เป็นวิปากธัมมธรรมเกิดขึ้น   ฯลฯ
+<span class="LineNumber"> 012 </span>ขันธ์ ๒  อาศัยขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 013 </span>         [๑๓๑๘]  ๓.  เนววิปากนวิปากธัมมธรรม    อาศัยเนววิปาก-
+<span class="LineNumber"> 014 </span>นวิปากธัมมธรรมเกิดขึ้น  เพราะอารัมมณปัจจัย
+<span class="LineNumber"> 015 </span>         คือ   ขันธ์ ๓   อาศัยขันธ์ ๑  ที่เป็นเนววิปากนวิปากธัมมธรรมเกิดขึ้น
+<span class="LineNumber"> 016 </span>ฯลฯ   ขันธ์ ๒  อาศัยขันธ์ ๒   เกิดขึ้น,     เนววิปากนวิปากธัมมธรรม    อาศัย
+<span class="LineNumber"> 017 </span>หทยวัตถุเกิดขึ้น.

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>            <H1>อรรถกถาสูตรที่  ๗ - ๘</H1> 
+
+<span class="LineNumber"> 002 </span>         แม้ใน<B>สูตรที่  ๗ - ๘</B>   ก็นัยนี้เหมือนกัน  แต่ในข้อนี้พึงทราบ
+<span class="LineNumber"> 003 </span>อุปมาด้วยประตูเรือนเป็นต้นที่ไม่ระวัง.
+
+<span class="LineNumber"> 004 </span>                        <I>จบ  อรรถกถาสูตรที่  ๗ - ๘</I>
+
+<span class="LineNumber"> 005 </span>                 <H1>อรรถกถาสูตรที่  ๙ - ๑๐</H1>
+
+<span class="LineNumber"> 006 </span>         ใน<B>สูตรที่  ๙ - ๑๐</B> ท่านเอาบท  ๔  บทมาประกอบแล้วกล่าว
+<span class="LineNumber"> 007 </span>ในวรรคนี้   ท่านกล่าวเฉพาะ  วัฏฏะ  และวิวัฏฏะ เท่านั้นแล.
+
+<span class="LineNumber"> 008 </span>                     <I>จบ   อรรถกถาสูตรที่  ๙ - ๑๐</I>
+
+<span class="LineNumber"> 009 </span>                    <I>จบ  อรรถกถาอทันตวรรคที่  ๔</I>

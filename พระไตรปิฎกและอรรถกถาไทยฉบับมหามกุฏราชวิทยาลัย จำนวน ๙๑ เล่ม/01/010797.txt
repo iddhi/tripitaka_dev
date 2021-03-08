@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>	<B>ภิกฺขุสิกฺขํ  	ปจฺจกฺขามิ</B>		 ข้าพเจ้าบอกคืนสิกขาของภิกษุ
+<span class="LineNumber"> 002 </span>	<B>ภิกฺขุนีสิกฺข</B>		"			ข้าพเจ้าบอกคืนสิกขาของภิกษุณี
+<span class="LineNumber"> 003 </span>	<B>อธิสีลสิกฺขํ</B>		"			ข้าพเจ้าบอกคืนอธิสีลสิกขา
+<span class="LineNumber"> 004 </span>	<B>อธิจิตฺตสิกฺขํ</B>		"		      ข้าพเจ้าบอกคืนอธิจิตสิกขา
+<span class="LineNumber"> 005 </span>	<B>อธิปญฺาสิกฺขํ</B>		"		  ข้าพเจ้าบอกคืนอธิปัญญาสิกขา.
+<span class="LineNumber"> 006 </span>	การบอกลาด้วยคำว่า  <B>วินยํ  ปจฺจกฺขามิ</B>  ไม่ใช่เป็นการบอกลาด้วย  
+<span class="LineNumber"> 007 </span>คำไวพจน์.  การบอกลาสิกขา  ย่อมมีได้ด้วยคำไวพจน์แห่งวินัย  มีอาทิอย่างนี้
+<span class="LineNumber"> 008 </span>คือ:-
+<span class="LineNumber"> 009 </span>	<B>ภิกฺขุวินยํ  		ปจฺจกฺขามิ</B>           ข้าพเจ้าบอกคืนวินัยของภิกษุ
+<span class="LineNumber"> 010 </span>	<B>ภิกฺขุนีวินยํ</B>		"		 	 ข้าพเจ้าบอกคืนวินัยของนางภิกษุณี
+<span class="LineNumber"> 011 </span>	<B>ป€มํ	ปาราชิกกํ</B>		"	     ข้าพเจ้าบอกคืนปฐมปาราชิก
+<span class="LineNumber"> 012 </span>	<B>ทุติยํ</B>		"		"		   ข้าพเจ้าบอกคืนทุติยปาราชิก
+<span class="LineNumber"> 013 </span>	<B>ตติยํ</B>		" 		"		   ข้าพเจ้าบอกคืนตติยปาราชิก
+<span class="LineNumber"> 014 </span>	<B>จตุตฺถํ</B>	"		"			  ข้าพเจ้าบอกคืนจตุตถปาราชิก
+<span class="LineNumber"> 015 </span>	<B>สงฺฆาทิเสสํ</B>		"			   ข้าพเจ้าบอกคืนสังฆาทิเสส
+<span class="LineNumber"> 016 </span>	<B>ถุลฺลจฺจยํ</B>			"		        ข้าพเจ้าบอกคืนถุลลัจจัย
+<span class="LineNumber"> 017 </span>	<B>ปาจิตฺติยํ</B>			"		       ข้าพเจ้าบอกคืนปาจิตติยะ
+<span class="LineNumber"> 018 </span>	<B>ปาฏิเทสนียํ</B>		"	                   ข้าพเจ้าบอกคืนปาฏิเทสนียะ
+<span class="LineNumber"> 019 </span>	<B>ทุกฺกฏํ</B>			"			    ข้าพเจ้าบอกคืนทุกกฏ
+<span class="LineNumber"> 020 </span>	<B>ทุพฺภาสิตํ</B>			"			ข้าพเจ้าบอกคืนทุพภาษิต.
+<span class="LineNumber"> 021 </span>	การบอกลาด้วยคำว่า  <B>ปาฏิโมกฺขํ  ปจฺจกฺขามิ</B>  ไม่ใช่เป็นการบอกลา
+<span class="LineNumber"> 022 </span>ด้วยคำไวพจน์.  การบอกลาสิกขา  ย่อมมีได้ด้วยคำไวพจน์แห่งปาฏิโมกข์อย่างนี้
+<span class="LineNumber"> 023 </span>คือ:-
+
+
+	

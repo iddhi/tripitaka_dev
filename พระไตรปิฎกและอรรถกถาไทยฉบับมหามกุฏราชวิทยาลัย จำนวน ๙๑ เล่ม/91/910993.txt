@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H2>นีวรณทุกะ</H2>  
+<span class="LineNumber"> 002 </span>                     ๑. <B>นีวรณธรรม       อาศัยธรรมที่ไม่ใช่นีวรณธรรม
+<span class="LineNumber"> 003 </span>เกิดขึ้น  เพราะเหตุปัจจัย   ฯลฯ</B>
+
+<span class="LineNumber"> 004 </span>                                  <H2>ปรามาสทุกะ</H2>
+<span class="LineNumber"> 005 </span>                      ๑.  <B>ปรามาสธรรม     อาศัยธรรมที่ไม่ใช่ปรามาสธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>
+<span class="LineNumber"> 007 </span>                    <I>นฉโคจฉกทุกฉโคจฉกทุกะ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                    <H1>๕๕.  นสารัมมณทุกสารัมมณทุกะ</H1>
+<span class="LineNumber"> 009 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 010 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>           [๙๙] ๑.  <B>สารัมมณธรรม   อาศัยธรรมที่ไม่ใช่สารัมมณธรรม
+<span class="LineNumber"> 013 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                    ๒.  <B>อนารัมมณธรรม อาศัยธรรมที่ไม่ใช่สารัมมณธรรม
+<span class="LineNumber"> 015 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>                     ๓.  <B>สารัมมณธรรม  และอนารัมมณธรรม อาศัยธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่สารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๓  วาระ.

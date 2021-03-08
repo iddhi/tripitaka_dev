@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         <B>บรรดาบุคคลเหล่านั้น   บุคคลเปรียบด้วยต้นไม้  ๔   ชนิด เป็น
+<span class="LineNumber"> 002 </span>ไฉน  ?</B> 
+<span class="LineNumber"> 003 </span>        [๑๓๑]  <B>ต้นไม้  ๔  ชนิด คือ</B> 
+<span class="LineNumber"> 004 </span>                           ไม้มีกระพี้  แต่บริวารมีแก่น  ๑
+<span class="LineNumber"> 005 </span>                           ไม้มีแก่น   แต่บริวารมีกระพี้ ๑
+<span class="LineNumber"> 006 </span>                           ไม้มีกระพี้  บริวารก็มีกระพี้ ๑
+<span class="LineNumber"> 007 </span>                           ไม้มีแก่น    บริวารก็มีแก่น ๑
+
+<span class="LineNumber"> 008 </span>        [๑๓๒]  <B>บุคคลเปรียบด้วยต้นไม้   ๔  จำพวก  เหล่านี้    มีปรากฏ
+<span class="LineNumber"> 009 </span>อยู่ในโลก   ก็ฉันนั้นเหมือนกัน</B>
+<span class="LineNumber"> 010 </span>        <B>บุคคล  ๔  จำพวก   เป็นไฉน  ?</B>
+<span class="LineNumber"> 011 </span>                           บุคคลมีกระพี้    แต่บริวารมีแก่น  ๑
+<span class="LineNumber"> 012 </span>                           บุคคลมีแก่น   แต่บริวารมีกระพี้  ๑  
+<span class="LineNumber"> 013 </span>                           บุคคลมีกระพี้   บริวารก็มีกระพี้   ๑
+<span class="LineNumber"> 014 </span>                           บุคคลมีแก่น   บริวารก็มีแก่น  ๑
+
+<span class="LineNumber"> 015 </span>                   ๑.  <B>บุคคลมีกระพี้    แต่บริวารมีแก่น   เป็นไฉน  ?</B>
+<span class="LineNumber"> 016 </span>         บุคคลบางคนในโลกนี้   เป็นคนทุศีล  มีธรรมอันลามก แต่บริษัทของ
+<span class="LineNumber"> 017 </span>บุคคลนั้น    เป็นคนมีศีล   มีธรรมอันงาม   บุคคลอย่างนี้ชื่อว่า  บุคคลมีกระพี้ 
+<span class="LineNumber"> 018 </span>แต่บริวารมีแก่น   ต้นไม้นั้นมีกระพี้    แต่บริวารมีแก่น    แม้ฉันใด  บุคคลนี้
+<span class="LineNumber"> 019 </span>ก็อุปไมย  ฉันนั้น.

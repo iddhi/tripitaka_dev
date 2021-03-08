@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ในปฏิสนธิขณะ  ขันธ์ ๓ อาศัยขันธ์ ๑  ที่เป็นมหัคคตธรรม  และ 
+<span class="LineNumber"> 002 </span>หทยวัตถุ ฯลฯ  ขันธ์ ๒ ฯลฯ 
+<span class="LineNumber"> 003 </span>                        ๑๓.  <B>ปริตตธรรม  และมหัคคตธรรม  อาศัยปริตต-
+<span class="LineNumber"> 004 </span>ธรรม  และมหัคคตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  ในปฏิสนธิขณะ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นมหัคคตธรรม  และ
+<span class="LineNumber"> 006 </span>หทยวัตถุ ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>           กฏัตตารูป  อาศัยขันธ์ที่เป็นมหัคคตธรรม  และมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 008 </span>                                       <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๓๒๖] ๑. <B>ปริตตธรรม  อาศัยปริตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 010 </span>อารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นปริตตธรรม  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 012 </span>           ในปฏิสนธิขณะ  ขันธ์ทั้งหลายอาศัยหทยวัตถุ.
+<span class="LineNumber"> 013 </span>                         ๒.  <B>มหัคคตธรรม  อาศัยปริตตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 014 </span>อารัมมณปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ในปฏิสนธิขณะ  ขันธ์ทั้งหลายที่เป็นมหัคคตธรรม อาศัยหทย-
+<span class="LineNumber"> 016 </span>วัตถุ.
+<span class="LineNumber"> 017 </span>           [๑๓๒๗] ๓.  <B>มหัคคตธรรม  อาศัยมหัคคตธรรม  เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะอารัมมณปัจจัย</B>
+
+	

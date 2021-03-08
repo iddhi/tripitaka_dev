@@ -1,0 +1,30 @@
+﻿<span class="LineNumber"> 001 </span><B>นีวรณิยา เจว ธมฺมา โน จ นีวรณา</B>        ธรรมเป็นอารมณ์ของนิวรณ์ แต่ไม่เป็น
+<span class="LineNumber"> 002 </span>                                                             นิวรณ์ 
+
+<span class="LineNumber"> 003 </span>                   <H2>๔๘-๕.  นีวรณนีวรณสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 004 </span><B>นีวรณา เจว ธมฺมา นีวรณ</B>                     ธรรมเป็นนิวรณ์และสัมปยุตด้วยนิวรณ์
+<span class="LineNumber"> 005 </span><B>สมฺปยุตฺตา จ</B>
+<span class="LineNumber"> 006 </span><B>นีวรณสมฺปยุตฺตา เจว ธมฺมา โน จ</B>        ธรรมสัมปยุตด้วยนิวรณ์  แต่ไม่เป็น
+<span class="LineNumber"> 007 </span><B>นีวรณา</B>                                                 นิวรณ์
+
+<span class="LineNumber"> 008 </span>                  <H2>๔๙-๖.  นีวรณวิปปยุตตนีวรณิยทุกะ</H2>
+
+<span class="LineNumber"> 009 </span><B>นีวรณวิปฺปยุตฺต่ โข ปน ธมฺมา</B>             ธรรมวิปปยุตจากนิวรณ์แต่เป็นอารมณ์
+<span class="LineNumber"> 010 </span><B>นีวรณิยาปิ</B>                                           ของนิวรณ์
+<span class="LineNumber"> 011 </span><B>นีวรณวิปฺปยุตฺตา โข ปน ธมฺมา</B>           ธรรมวิปปยุตจากนิวรณ์  และไม่เป็น
+<span class="LineNumber"> 012 </span><B>อนีวรณิยาปิ</B>                                        อารมณ์ของนิวรณ์
+
+<span class="LineNumber"> 013 </span>                              <H1>ปรามาสโคจฉกะ</H1>
+
+<span class="LineNumber"> 014 </span>         [๑๐]   <H1>หมวดที่  ๙ มี   ๕  ทุกะ</H1>  <B>คือ</B>
+
+<span class="LineNumber"> 015 </span>                               <H2>๕๐-๑.  ปรามาสทุกะ</H2>
+
+<span class="LineNumber"> 016 </span><B>ปรามาสา ธมฺมา</B>                                ธรรมเป็นปรามาสะ (ทิฏฐิ)
+<span class="LineNumber"> 017 </span><B>โน ปรามาสา ธมฺมา</B>                           ธรรมไม่เป็นปรามาสะ
+
+<span class="LineNumber"> 018 </span>                              <H2>๕๑-๒.  ปรามัฏฐทุกะ</H2>
+
+<span class="LineNumber"> 019 </span><B>ปรามฏฺ€า  ธมฺมา</B>                              ธรรมเป็นอารมณ์ของปรามาสะ
+<span class="LineNumber"> 020 </span><B>อปรามฏฺ€า  ธมฺมา</B>                            ธรรมไม่เป็นอารมณ์ของปรามาสะ			

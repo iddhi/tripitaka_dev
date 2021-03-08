@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           มีอย่างเดียว  คือที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่ 
+<span class="LineNumber"> 002 </span>           หทยวัตถุ  เป็นปัจจัยแก่คันถธรรมทั้งหลาย  ด้วยอำนาจของวิปปยุตต-
+<span class="LineNumber"> 003 </span>ปัจจัย.
+<span class="LineNumber"> 004 </span>                       ๔.  <B>ธรรมที่ไม่ใช่คันถธรรม  เป็นปัจจัยแก่คันถธรรม
+<span class="LineNumber"> 005 </span>และธรรมที่ไม่ใช่คันถธรรม  ด้วยอํานาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 006 </span>           มีอย่างเดียว  คือที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 007 </span>           หทยวัตถุ   เป็นปัจจัยแก่คันถธรรม  และสัมปยุตตขันธ์ทั้งหลาย  ด้วย
+<span class="LineNumber"> 008 </span>อำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 009 </span>                       ๕.  <B>คันถธรรม    และธรรมที่ไม่ใช่คันถธรรม    เป็น
+<span class="LineNumber"> 010 </span>ปัจจัยแก่ธรรมที่ไม่ใช่คันถธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 011 </span>           มี ๒ อย่าง  คือที่เป็น   <B>สหชาตะ</B>   และ  <B>ปัจฉาชาตะ</B>  ฯลฯ
+
+<span class="LineNumber"> 012 </span>                                  <H2>๒๑. อัตถิปัจจัย</H2>
+<span class="LineNumber"> 013 </span>           [๕๒๐] ๑.  <B>คันถธรรม  เป็นปัจจัยแก่คันถธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 014 </span>ของอัตถิปัจจัย</B>  มี ๑ วาระ  เหมือนกับปฏิจจวาระ.
+<span class="LineNumber"> 015 </span>                       ๒.  <B>คันถธรรม  เป็นปัจจัยแก่ธรรมที่ไม่ใช่คันถธรรม
+<span class="LineNumber"> 016 </span>ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 017 </span>           มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>   และ    <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 018 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่  
+<span class="LineNumber"> 019 </span>           คันถธรรมทั้งหลาย  เป็นปัจจัยแก่สัมปยุตตขันธ์  และจิตตสมุฏฐานรูป
+<span class="LineNumber"> 020 </span>ทั้งหลาย  ด้วยอำนาจของอัตถิปัจจัย.

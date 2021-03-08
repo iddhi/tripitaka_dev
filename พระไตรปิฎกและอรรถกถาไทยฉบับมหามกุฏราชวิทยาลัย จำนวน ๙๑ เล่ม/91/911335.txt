@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๙๖๕]  ในเหตุปัจจัย  มี  ๙ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                            <H2>อัปปมาณารัมมณบท</H2>
+<span class="LineNumber"> 004 </span>           [๙๖๖]  ๑.  <B>อัปปมาณารัมมณธรรม  ที่เป็นกุศล  อาศัยธรรม
+<span class="LineNumber"> 005 </span>ที่ไม่ใช่อัปปมาณารัมมณธรรม   ที่ไม่ใช่กุศล    เกิดขึ้น   เพราะเหตุ
+<span class="LineNumber"> 006 </span>ปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 009 </span>           [๙๖๗]  ในเหตุปัจจัย มี ๖ วาระ   ฯลฯ
+<span class="LineNumber"> 010 </span>       <I>นกุสลติกนปริตตารัมมณติกกุสลติกปริตตารัมมณติกะ  จบ</I>

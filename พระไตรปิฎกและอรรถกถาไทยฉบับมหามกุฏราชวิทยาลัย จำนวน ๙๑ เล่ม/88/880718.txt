@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           พึงผูกจักรนัย. 
+<span class="LineNumber"> 002 </span>                                             ฯลฯ
+
+<span class="LineNumber"> 003 </span>                       <H2>การนับจำนวนวาระในอุโลม</H2>
+<span class="LineNumber"> 004 </span>           [๖๔๕]  ในเหตุปัจจัย มี ๙ วาระ ในอารัมมณปัจจัย มี ๙ วาระ ใน
+<span class="LineNumber"> 005 </span>อธิปติปัจจัย มี ๙ วาระ ฯลฯ ในอวิคตปัจจัย มี ๙ วาระในกัมมปัจจัย มี ๙ วาระ
+<span class="LineNumber"> 006 </span>ในอาหารปัจจัย  มี ๙ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๙ วาระ.
+
+<span class="LineNumber"> 007 </span>                                      <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 008 </span>                                   <H2>๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>           [๖๔๖] ๑.  <B>ธรรมที่เป็นทั้งนีวรณธรรม  และนีวรณสัมปยุตต-
+<span class="LineNumber"> 010 </span>ธรรม  อาศัยธรรมที่เป็นทั้งนีวรณธรรม และนีวรณสัมปยุตตธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  อวิชชานิวรณ์  อาศัยวิจิกิจฉานิวรณ์, อวิชชานิวรณ์  อาศัย
+<span class="LineNumber"> 013 </span>อุทธัจจนิวรณ์.
+<span class="LineNumber"> 014 </span>                       ๒.  <B>ธรรมที่เป็นทั้งนีวรณธรรม  และนีวรณสัมปยุตต-
+<span class="LineNumber"> 015 </span>ธรรม  อาศัยธรรมที่เป็นนีวรณสัมปยุตตธรรม  แต่ไม่ใช่นีวรณธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ     อวิชชานิวรณ์    อาศัยขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่
+<span class="LineNumber"> 018 </span>สหรคตด้วยอุทธัจจะ.

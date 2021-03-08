@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>               		    <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>		[๖๕๐]  ในเหตุปัจจัย มี ๒ วาระ ในอารัมมณปัจจัย  มี ๒ วาระ  ใน
+<span class="LineNumber"> 003 </span>อธิปติปัจจัย  มี ๓ วาระ   ในอนันตรปัจจัย มี ๒ วาระ   ในสมนันตรปัจจัย มี
+<span class="LineNumber"> 004 </span>๒ วาระ   ในสหชาตปัจจัย มี ๒ วาระ   ในอัญญมัญญปัจจัย  มี ๒ วาระ   ใน
+<span class="LineNumber"> 005 </span>นิสสยปัจจัย มี ๒ วาระ   ในอุปนิสสปัจจัย มี ๔ วาระ ฯลฯ   ในอวิคตปัจจัย 
+<span class="LineNumber"> 006 </span>มี ๒ วาระ.
+<span class="LineNumber"> 007 </span>           	แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 008 </span>                           	         <I>กุสลติกสาสวทุกะ จบ</I>

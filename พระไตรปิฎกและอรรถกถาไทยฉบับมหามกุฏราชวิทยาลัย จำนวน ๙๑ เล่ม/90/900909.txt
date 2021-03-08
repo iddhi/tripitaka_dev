@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>              		 	     <H2>อนุโลมปัจจนียนัย</H2> 
+<span class="LineNumber"> 002 </span>		[๕๓๓]  <B>เพราะอารัมมณปัจจัย</B>  ในนเหตุปัจจัย  มี ๙ วาระ... ฯลฯ
+<span class="LineNumber"> 003 </span>				                <H3>ปัจจนียานุโลมนัย</H3>
+<span class="LineNumber"> 004 </span>		[๕๓๔]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย  มี  ๙  วาระ...
+<span class="LineNumber"> 005 </span>		แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 006 </span>		 	            <I>กุสลติกเหตุสเหตุกทุกะ  จบ</I>

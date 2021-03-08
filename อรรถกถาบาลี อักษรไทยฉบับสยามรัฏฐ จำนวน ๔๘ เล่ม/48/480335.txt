@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 335
+
+<span class="LineNumber"> 002 </span>			อมตารมฺมณกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  อมตารมฺมณกถา  นาม  โหติ ฯ  ตตฺถ  เยสํ 
+<span class="LineNumber"> 004 </span>นิพฺพานํ  มฺตีติอาทีนํ  ปทานํ  (๑)  อโยนิโส  อตฺถํ  คเหตฺวา
+<span class="LineNumber"> 005 </span>อมตารมฺมณํ สฺโชนํ โหตีติ ลทฺธิ  เสยฺยถาปิ  ปุพฺพเสลิยานํ
+<span class="LineNumber"> 006 </span>เต สนฺธาย ปุจฺฉา สกวาทิสฺส ปฏิฺา อิตรสฺส ฯ อถ
+<span class="LineNumber"> 007 </span>นํ  สเจ  อมตารมฺมณํ  สฺโชนํ  อมตสฺส  สฺโชนิยาทิภาโว
+<span class="LineNumber"> 008 </span>อาปชฺชตีติ  โจเทตุํ  อมตํ  สฺโชนิยนฺติอาทิมาห  อิตโร
+<span class="LineNumber"> 009 </span>สุตฺตวิโรธภเยน  สพฺพํ  ปฏิกฺขิปติ ฯ อิมินา  อุปาเยน สพฺพวาเรสุ
+<span class="LineNumber"> 010 </span>อตฺโถ เวทิตพฺโพ ฯ นิพฺพานํ นิพฺพานโตติ อาคตสุตฺตํ (๒) ปน
+<span class="LineNumber"> 011 </span>ทิฏฺ€ธมฺมนิพฺพานํ สนฺธาย ภาสิตํ ตสฺมา อสาธกนฺติ ฯ 
+<span class="LineNumber"> 012 </span>		อมตารมฺมณกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 013 </span>			รูปํสารมฺมณนฺติกถาวณฺณนา 
+<span class="LineNumber"> 014 </span>	อิทานิ  รูปํ  สารมฺมณนฺติกถา  นาม  โหติ ฯ  ตตฺถ  รูปํ  
+<span class="LineNumber"> 015 </span>สปฺปจฺจยฏฺเ€น  สารมฺมณํ  นาม  โหติ น อฺํ อารมฺมณํ
+<span class="LineNumber"> 016 </span>กโรตีติ อารมฺมณปจฺจยวเสน ฯ เยสํ  ปน  อวิเสเสน  รูปํ 
+<span class="LineNumber"> 017 </span>สารมฺมณนฺติ  ลทฺธิ  เสยฺยถาปิ  อุตฺตราปถกานํ เต  สนฺธาย
+<span class="LineNumber"> 018 </span>อารมฺมณทฺวยสฺส  (๓)  วิภาคทสฺสนตฺถํ  ปุจฺฉา  สกวาทิสฺส  ปฏิฺา
+<span class="LineNumber"> 019 </span>อิตรสฺส ฯ  เสสเมตฺถ  ปาลิอนุสาเรเนว  เวทิตพฺพํ ฯ
+<span class="LineNumber"> 020 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. อาหฏสุตฺตํ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. อารมฺมณตฺถสฺส ฯ

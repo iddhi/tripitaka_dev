@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>ภญฺชติ</B>	ย่อมหัก ภญฺชฺ ธาตุ  อ ปัจจัย  ติ  วิภัตติ. 
+<span class="LineNumber"> 002 </span><B>ภาเชติ</B>	ย่อมแบ่ง  ภช ธาตุ  ในความแจก-ให้ปั่น  เณ ปัจจัย
+<span class="LineNumber"> 003 </span>		(กัตตุวาจก) ติ  วิภัตติ.  
+<span class="LineNumber"> 004 </span><B>ภาติ</B>  	ย่อมส่องสว่าง ภา ธาตุ  อ ปัจจัย  ติ วิภัตติ.
+<span class="LineNumber"> 005 </span><B>ภายนิติ</B>	ย่อมกลัว ภี  ธาตุ  ในความกลัว  อ ปัจจัย อนฺติ  วิภัตติ
+<span class="LineNumber"> 006 </span>		พฤทธิ์  <B>อี</B> ที  <B>ภี</B>  เป็น <B>เอ  </B>แล้วเอาเป็น อาย.
+<span class="LineNumber"> 007 </span><B>ภาสติ</B> 	ย่อมกล่าว  ภาสฺ  ธาตุ  ในความพูด อ ปัจจัย  ติ วิภัตติ.
+<span class="LineNumber"> 008 </span><B>ภิชฺชิสฺสติ</B>	จักแตก-ทำลาย  ภิทิ  ธาตุ  ในความแตก-ทำลาย ย
+<span class="LineNumber"> 009 </span>		ปัจจัย  สฺสติ วิภัตติ  แปลง <B>ย</B>  กับ <B>ทฺ</B> ที่สุดธาตุเป็น <B>ชฺช</B>
+<span class="LineNumber"> 010 </span>		ลง อิ  อาคมหลังธาตุและปัจจัย.
+<span class="LineNumber"> 011 </span><B>ภินฺทนฺติ</B>	ย่อมทำลาย ภิทฺ ธาตุ  อ ปัจจัย  อนฺติ  วิภัตติ ลง
+<span class="LineNumber"> 012 </span>		นิคคหิตอาคม  แล้ว แปลงเป็น  <B>นฺ</B> เพราะมี <B>ท</B> อยู่หลัง.
+<span class="LineNumber"> 013 </span><B>ภุญฺชสฺส</B>  จงบริโภค  ภุชฺ  ธาตุ  ในความบริโภค  อ ปัจจัย  สฺสุ
+<span class="LineNumber"> 014 </span>		วิภัตติ  ลงนิคคหิตอาคม  แล้วแปลงเป็น <B>ฺ</B>  เพราะมี ช<B></B>
+<span class="LineNumber"> 015 </span>		อยู่หลัง.
+<span class="LineNumber"> 016 </span>                                      ม
+<span class="LineNumber"> 017 </span><B>มญฺิสฺสติ</B> จักสำคัญ-รู้  มฺน  ธาตุ ในความรู้ ย  ปัจจัย  สฺสติ
+<span class="LineNumber"> 018 </span>		วิภัตติ  แปลง  <B>ย</B> กับ  <B>นฺ</B>  ที่สุดธาตุเป็น <B>ฺ</B>  ลง อิ
+<span class="LineNumber"> 019 </span>		อาคมหลังธาตุและปัจจัย.
+<span class="LineNumber"> 020 </span><B>มทฺทิตฺถ</B>	ย่ำยี-เหยียบย่ำแล้ว  มทฺทฺ ธาตุ  อ ปัจจัย  ตฺถ  วิภัตติ
+<span class="LineNumber"> 021 </span>		ลง อิ  อาคมหลังธาตุและปัจจัย.
+  

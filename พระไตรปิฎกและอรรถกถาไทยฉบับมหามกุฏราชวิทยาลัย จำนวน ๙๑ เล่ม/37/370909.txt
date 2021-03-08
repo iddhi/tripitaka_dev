@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>๖.  คติสูตร</H1>
+<span class="LineNumber"> 002 </span>         [๒๗๒]   ดูก่อนภิกษุทั้งหลาย   คติ   ๕  ประการนี้  ๕  ประการ
+<span class="LineNumber"> 003 </span>เป็นไฉน  คือ  นรก  ๑  กำเนิดสัตว์ดิรัจฉาน  ๑  เปรตวิสัย  ๑  มนุษย์ ๑
+<span class="LineNumber"> 004 </span>เทวดา   ๑  ดูก่อนภิกษุทั้งหลาย  คติ  ๕  ประการนี้แล  ฯลฯ
+<span class="LineNumber"> 005 </span>         ดูก่อนภิกษุทั้งหลาย  เธอทั้งหลายพึงเจริญสติปัฏฐาน   ๔   นี้
+<span class="LineNumber"> 006 </span>เพื่อละคติ  ๕  ประการนี้แล.
+<span class="LineNumber"> 007 </span>                               <I>จบ  คติสูตรที่  ๖</I>
+
+<span class="LineNumber"> 008 </span>                               <H1>๗.  มัจฉริยสูตร</H1>
+<span class="LineNumber"> 009 </span>         [๒๗๓]    ดูก่อนภิกษุทั้งหลาย  มัจฉริยะ   ๕ ประการเป็นไฉน
+<span class="LineNumber"> 010 </span>คือ  อาวาสมัจฉริยะ (ตระหนี่ที่อยู่)  ๑   กุลมัจฉริยะ(ตระหนี่ตระกูล) ๑
+<span class="LineNumber"> 011 </span>ลาภมัจฉริยะ (ตระหนี่ลาภ)  ๑  วรรณมัจฉริยะ  (ตระหนี่วรรณะ )  ๑
+<span class="LineNumber"> 012 </span>ธรรมมัจฉริยะ    (ตระหนี่ลาภ)   ๑     ดูก่อนภิกษุทั้งหลาย    มัจฉริยะ   
+<span class="LineNumber"> 013 </span>๕  ประการนี้แล  ฯลฯ
+<span class="LineNumber"> 014 </span>         ดูก่อนภิกษุทั้งหลาย  เธอทั้งหลายพึงเจริญสติปัฏฐาน   ๔  นี้
+<span class="LineNumber"> 015 </span>เพื่อละมัจฉริยะ  ๕  ประการนี้แล.
+<span class="LineNumber"> 016 </span>                              <I>จบ  มัจฉริยสูตรที่  ๗</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  45  อกิตฺติวคฺควณฺณนา  หน้า  40
+
+<span class="LineNumber"> 002 </span>		วรฺเจ เม อโท สกฺก		สพฺพภูตานมิสฺสร่  
+<span class="LineNumber"> 003 </span>		เขตฺตํ วตถุํ หิรฺฺจ	ควาสฺสํ ทาสโปริสํ  
+<span class="LineNumber"> 004 </span>		เยน ชาเตน ชียนฺติ		ส โทโส น มยี วเส ฯ  
+<span class="LineNumber"> 005 </span>		เอตสฺมึ ฯเปฯ			มนสิจฺฉสิ ฯ  
+<span class="LineNumber"> 006 </span>		วรฺเจ เม อโท สกฺก		สพฺพภูตานมิสฺสร  
+<span class="LineNumber"> 007 </span>		พาลํ น ปสฺเส น สุเณ		น จ พาเลน สํวเส  
+<span class="LineNumber"> 008 </span>		พาเลนลฺลาปสลฺลาปํ	น กเร น จ โรจเย ฯ  
+<span class="LineNumber"> 009 </span>		กึ นุ เต อกรํ พาโล		วท กสฺสป การณํ  
+<span class="LineNumber"> 010 </span>		เกน กสฺสป พาลสฺส		ทสฺสนํ นาภิกงฺขสิ ฯ  
+<span class="LineNumber"> 011 </span>		อนยํ นยติ ทุมฺเมโธ		อธุรายํ นิยุฺชติ  
+<span class="LineNumber"> 012 </span>		ทุนฺนโย เสยฺยโส โหติ	สมฺมา วุตฺโต ปกุปฺปติ  
+<span class="LineNumber"> 013 </span>		วินยํ โส น ชานาติ		สาธุ ตสฺส อทสฺสนํ ฯ  
+<span class="LineNumber"> 014 </span>		เอตสฺมึ ฯเปฯ			มนสิจฺฉสิ ฯ  
+<span class="LineNumber"> 015 </span>		วรฺเจ เม อโท สกฺก		สพฺพภูตานมิสฺสร  
+<span class="LineNumber"> 016 </span>		ธีรํ ปสฺเส สุเณ ธีรํ		ธีเรน สห สํวเส  
+<span class="LineNumber"> 017 </span>		ธีเรนลฺลาปสลฺลาปํ		ตํ กเร ตํ จ โรจเย ฯ
+<span class="LineNumber"> 018 </span>		กึ นุ เต อกรํ ธีโร		วท กสฺสป การณํ  
+<span class="LineNumber"> 019 </span>		เกน กสฺสป ธีรสฺส		ทสฺสนํ อภิกงฺขสิ ฯ  
+<span class="LineNumber"> 020 </span>		นยํ นยติ เมธาวี			อธุรายํ น ยุฺชติ  
+<span class="LineNumber"> 021 </span>		สุนโย เสยฺยโส โหติ		สมฺมา วุตฺโต น กุปฺปติ  
+<span class="LineNumber"> 022 </span>		วินยํ โส ปชานาติ		สาธุ เตน สมาคโม ฯ  

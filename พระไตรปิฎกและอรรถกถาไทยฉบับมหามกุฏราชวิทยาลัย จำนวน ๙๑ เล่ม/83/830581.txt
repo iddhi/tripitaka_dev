@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                      <H1>อุปปัตติฏฐานโอกาสวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                   <H1>กามราคานุสยมูล</H1>
+<span class="LineNumber"> 003 </span><H2>เอกมูลกะ - กามราคานุสยมูละ  ปฏิฆานุสยมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๕๐๗]  กามราคานุสัย  อันบุคคลละแล้ว  ในที่ใด,  ปฏิฆา-
+<span class="LineNumber"> 005 </span>นุสัย  เป็นอันบุคคลละแล้วในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ไม่ควรกล่าวว่า   ละแล้วหรือยังละไม่ละแล้ว.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  ปฏิมานุสัย  อันบุคคลละแล้ว  ในที่ใด,  กามราคานุสัย
+<span class="LineNumber"> 008 </span>เป็นอันบุคคลละแล้ว ในที่นั้น   ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ไม่ควรกล่าวว่า   ละแล้วหรือยังไม่ละแล้ว.
+<span class="LineNumber"> 010 </span>                     <I>จบ  กามราคานุสยมูละ  ปฏิมานุสยมูลี</I>
+
+<span class="LineNumber"> 011 </span><H2>กามราคานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 012 </span>         กามราคานุสัย   อันบุคคลละแล้ว  ในที่ใด,  มานานุสัย  เป็นอัน
+<span class="LineNumber"> 013 </span>บุคคลละแล้ว  ในที่นั้น  ใช่ไหม ?

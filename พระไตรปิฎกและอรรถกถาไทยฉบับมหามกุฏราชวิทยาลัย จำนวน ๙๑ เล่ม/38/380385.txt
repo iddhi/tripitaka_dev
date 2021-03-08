@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                          <H2>ปาริสุทธิวรรคที่ ๓</H2>
+<span class="LineNumber"> 002 </span>                              <H3>๑. ปริสุทธิสูตร</H3>
+<span class="LineNumber"> 003 </span>       <H4>ว่าด้วยธรรม ๑๐ ที่เว้นจากสุคตวินัยแล้วไม่มี</H4>
+<span class="LineNumber"> 004 </span>         [๑๒๓]  ดูก่อนภิกษุทั้งหลาย    ธรรม ๑๐ ประการนี้     เป็นธรรม 
+<span class="LineNumber"> 005 </span>บริสุทธิ์ผุดผ่อง   เว้นจากสุคตวินัยแล้วย่อมไม่มี ธรรม ๑๐ ประการเป็นไฉน
+<span class="LineNumber"> 006 </span>คือ  สัมมาทิฏฐิ  สัมมาสังกัปปะ  สัมมาวาจา  สัมมากัมมันตะ  สัมมาอาชีวะ
+<span class="LineNumber"> 007 </span>สัมมาวายามะ  สัมมาสติ  สัมมาสมาธิ  สัมมาญาณะ  สัมมาวิมุตติ  ดูก่อน
+<span class="LineNumber"> 008 </span>ภิกษุทั้งหลาย   ธรรม  ๑๐ ประการนี้แล   เป็นธรรมบริสุทธิ์ผุดผ่อง   เว้น
+<span class="LineNumber"> 009 </span>จากสุคตวินัยแล้วย่อมไม่มี.
+<span class="LineNumber"> 010 </span>                                             จบปริสุทธิสูตรที่  ๑
+
+<span class="LineNumber"> 011 </span>                         <H2>ปาริสุทธิวรรคที่  ๓</H2>
+<span class="LineNumber"> 012 </span>               <H3>อรรถกถาปริสุทธิสูตรที่  ๑</H3>
+<span class="LineNumber"> 013 </span>         <B>ปาริสุทธิวรรคที่  ๓</B>  <B>ปริสุทธิสูตรที่  ๑</B>  พึงทราบวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 014 </span>         บทว่า  <B>ปริสุทฺธา</B>   ได้แก่ ไร้มลทิน.     บทว่า  <B>ปริโยทาตา</B>   ได้แก่
+<span class="LineNumber"> 015 </span>ประภัสสร   เป็นแดนซ่านแห่งรัศมี.
+<span class="LineNumber"> 016 </span>                                                จบอรรถกถาปริสุทธิสูตรที่ ๑
+
+<span class="LineNumber"> 017 </span>                              <H3>๒. อุปปันนสูตร</H3>
+<span class="LineNumber"> 018 </span>      <H4>ว่าด้วยธรรม  ๑๐  ที่เว้นจากสุคตวินัยแล้วย่อมไม่เกิดขึ้น</H4>	
+<span class="LineNumber"> 019 </span>         [๑๒๔]   ดูก่อนภิกษุทั้งหลาย  ธรรมทั้งหลาย  ๑๐  ประการนี้  ที่ยัง

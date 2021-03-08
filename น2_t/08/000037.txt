@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	ถ.  พระสูตรทั้งสิ้นนี้   เมื่อจัดเข้าเป็นคัมภีร์ได้กี่คัมภีร์ ?  อะไร
+<span class="LineNumber"> 002 </span>บ้าง ?  และคัมภีร์หนึ่ง ๆ  ประดับด้วยสูตรเท่าไร  ?  ถ้าจัดเป็นธรรม-
+<span class="LineNumber"> 003 </span>ขันธ์ได้เท่าไร ?  
+<span class="LineNumber"> 004 </span>	ต.  พระสูตรทั้งสิ้น  เมื่อจัดเป็นคัมภีร์ได้  ๕  คัมภีร์  คือ  ทีฆ-
+<span class="LineNumber"> 005 </span>นิกาย  ๑  มัชฌิมนิกาย  ๑  สังยุตตนิกาย  ๑  อังคุตตรนิกาย  ๑
+<span class="LineNumber"> 006 </span>ขุททกนิกาย  ๑   และขุททกนิกายแบ่งออกไปอีกเป็น  ๑๕  คัมภีร์  คือ
+<span class="LineNumber"> 007 </span>ขุททกปาฐ  ๑  ธรรมบท  ๑  อุทาน  ๑  อิติวุตตกะ  ๑  สุตตนิบาต  ๑
+<span class="LineNumber"> 008 </span>วิมานวัตถุ  ๑  เปตวัตถุ  ๑  เถรคาถา  ๑  เถรีคาถา  ๑     ชาดก  ๑
+<span class="LineNumber"> 009 </span>นิทเทส  ๑  ปฏิสัมภิทา  ๑  อปทาน  ๑  พุทธวงศ์  ๑  จริยาปิฎก  ๑.
+<span class="LineNumber"> 010 </span>	ทีฆนิกาย  ประกอบด้วยสูตร  ๓๔  สูตร   มีพรหมชาลสูตรเป็นต้น
+<span class="LineNumber"> 011 </span>	มัชฌิมนิกาย      "        "         ๑๕๒  "      มีมูลปริยานสูตรเป็นต้น
+<span class="LineNumber"> 012 </span>	สังยุตตนิกาย  ประกอบด้วยสูตร  ๗,๗๖๒  สูตร  มีโอฆตรณสูตร
+<span class="LineNumber"> 013 </span>เป็นต้น.
+<span class="LineNumber"> 014 </span>	อังคุตตรนิกาย  ประกอบด้วยสูตร  ๙,๕๕๗  สูตร  มีจิตตปริยา-
+<span class="LineNumber"> 015 </span>ทานสูตรเป็นต้น.
+<span class="LineNumber"> 016 </span>	ขุททกนิกาย  มี  ๑๕  คัมภีร์.
+<span class="LineNumber"> 017 </span>	พระสูตรทั้งสิ้นรวมเป็นพระธรรมขันธ์ได้  ๒๑,๐๐๐  พระธรรมขันธ์
+<span class="LineNumber"> 018 </span>										ส. ป.
+<span class="LineNumber"> 019 </span>	ถ.  พระพุทธวจนะปริยัติธรรม  จำแนกเป็นประการ  ๆ  อย่างไร ?
+<span class="LineNumber"> 020 </span>ด้วยสามารถแห่งอะไร  จึงจำแนกอย่างนั้น  ?  จงแสดงมา.
+<span class="LineNumber"> 021 </span>	ต.  จำแนกออกเป็นประการ  ๆ  ดังนี้  จำแนกออกเป็นประการ  ๑
+

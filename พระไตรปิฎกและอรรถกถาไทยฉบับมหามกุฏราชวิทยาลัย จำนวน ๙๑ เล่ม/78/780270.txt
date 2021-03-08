@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ที่จิตไม่ส่ายไป    ความสงบ    สมาธินทรีย์    สมาธิพละ   สัมมาสมาธิ    สมาธิ- 
+<span class="LineNumber"> 002 </span>สัมโพชฌงค์  อันเป็นองค์แห่งมรรค   นับเนื่องในมรรค    ในสมัยนั้น   อันใด
+<span class="LineNumber"> 003 </span>นี้เรียกว่า  <B>สัมมาสมาธิ</B> ธรรมทั้งหลายที่เหลือ  เรียกว่า  ธรรมที่สัมปยุตด้วย
+<span class="LineNumber"> 004 </span>สัมมาสมาธิ.                                                                           
+<span class="LineNumber"> 005 </span>                                      <I>อภิธรรมภาชนีย์  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                          <H1>ปัญหาปุจฉกะ</H1>
+<span class="LineNumber"> 007 </span>           [๕๙๔]  <B>อริยมรรคมีองค์ ๘</B> คือ
+<span class="LineNumber"> 008 </span>                         <B>๑.  สัมมาทิฏฐิ</B>
+<span class="LineNumber"> 009 </span>                         <B>๒.  สัมมาสังกัปปะ</B>
+<span class="LineNumber"> 010 </span>                         <B>๓.  สัมมาวาจา</B>
+<span class="LineNumber"> 011 </span>                         <B>๔.  สัมมากัมมันตะ</B>
+<span class="LineNumber"> 012 </span>                         <B>๕.  สัมมาอาชีวะ</B>
+<span class="LineNumber"> 013 </span>                         <B>๖.  สัมมาวายามะ</B>
+<span class="LineNumber"> 014 </span>                         <B>๗.  สัมมาสติ</B>
+<span class="LineNumber"> 015 </span>                         <B>๘.  สัมมาสมาธิ</B> 
+<span class="LineNumber"> 016 </span>                            <H1>ติกมาติกาปุจฉา  ทุกมาติกาปุจฉา</H1>
+<span class="LineNumber"> 017 </span>           บรรดาองค์มรรค ๘ ข้อไหนเป็นกุศล    ข้อไหนเป็นอกุศล    ข้อไหน
+<span class="LineNumber"> 018 </span>เป็นอัพยากตะ  ฯลฯ  ข้อไหนเป็นสรณะ  ข้อไหนเป็นอรณะ. 
+<span class="LineNumber"> 019 </span>                                      <H1>ติกมาติกาวิสัชนา</H1>
+<span class="LineNumber"> 020 </span>           [๕๙๕]  องค์มรรค ๘ เป็นกุศลก็มี  เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 021 </span>           สัมมาสังกัปปะ   เป็นสุขเวทนาสัมปยุต    องค์มรรค ๗  เป็นสุขเวทนา.
+<span class="LineNumber"> 022 </span>สัมปยุตก็มี   เป็นอทุกขมสุขเวทนาสัมปยุตก็มี.

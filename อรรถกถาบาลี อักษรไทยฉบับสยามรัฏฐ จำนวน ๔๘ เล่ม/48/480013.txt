@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  สงฺคหิเตนอสงฺคหิตปทวณฺณนา หน้า 13
+
+<span class="LineNumber"> 002 </span>	จตุตฺถปเฺห  ตีหายตเนหีติ  รูปายตนธมฺมายตน-
+<span class="LineNumber"> 003 </span>มนายตเนหิ ฯ  เตสุ  หิ  ภเวสุ  รูปายตนธมฺมายตนวเสน  เทฺวว 
+<span class="LineNumber"> 004 </span>อายตนานิ  เตหิ  อสงฺคหิตานิ ฯ  (๑)  เสสานิ  นว  รูปายตนานิ
+<span class="LineNumber"> 005 </span>เตเหว  ทฺวีหิ  มนายตเนน  จาติ  ตีหิ  อสงฺคหิตานิ  นาม
+<span class="LineNumber"> 006 </span>โหนฺติ ฯ นวหิ ธาตูหีติ รูปธาตุธมฺมธาตูหิ สทฺธึ สตฺตหิ
+<span class="LineNumber"> 007 </span>วิฺาณธาตูหิ ฯ 
+<span class="LineNumber"> 008 </span>	ปฺจมปเฺห  ทฺวีหายตเนหีติ  ป€มปทํ  สนฺธาย  สทฺทาย-
+<span class="LineNumber"> 009 </span>ตนมนายตเนหิ ฯ  ทุติยปทํ  สนฺธาย  รูปายตนมนายตเนหิ ฯ 
+<span class="LineNumber"> 010 </span>ธาตุโยปิ  เตสํเยว  เอเกเกน  สทฺธึ สตฺต วิฺาณธาตุโย
+<span class="LineNumber"> 011 </span>เวทิตพฺพา ฯ 
+<span class="LineNumber"> 012 </span>	ฉฏฺ€ปเฺห  ทสหายตเนหีติ  รูปายตนธมฺมายตนวชฺเชหิ ฯ
+<span class="LineNumber"> 013 </span>โสฬสหิ  ธาตูหีติ  รูปธาตุธมฺมธาตุวชฺเชเหว ฯ  กถํ  อนิทสฺสน-
+<span class="LineNumber"> 014 </span>สปฺปฏิฆา  หิ  ธมฺมา  นาม นว  โอฬาริกายตนานิ ฯ  เตหิ
+<span class="LineNumber"> 015 </span>อิมสฺมึ  (๒)  ขนฺธสงฺคเหน  สงฺคหิเต  รูปกฺขนฺเธ  อายตนสงฺคเหน 
+<span class="LineNumber"> 016 </span>ตาเนวายตนานิ(๓)  สงฺคหิตานิ ฯ รูปายตนธมฺมายตนานิ อสงฺคหิ-
+<span class="LineNumber"> 017 </span>ตานิ ฯ  ธาตุสงฺคเหนปิ  ตาเยว  นว  โอฬาริกธาตุโย  (๔)  สงฺคหิตา ฯ
+<span class="LineNumber"> 018 </span>รูปธาตุธมฺมธาตุโย  อสงฺคหิตา ฯ  อิติ  ยานิ  เตหิ  อสงฺคหิตานิ 
+<span class="LineNumber"> 019 </span>เทฺว  อายตนานิ  ตานิ รูปายตนธมฺมายตนวชฺเชหิ  (๕)  นวหิ
+<span class="LineNumber"> 020 </span># ๑. ม. สงฺคหิตานิ ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ตาเนว นวายตนานิ ฯ  ๔. ม. ธาตุโย ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. รูปายตนวชฺเชหิ ฯ

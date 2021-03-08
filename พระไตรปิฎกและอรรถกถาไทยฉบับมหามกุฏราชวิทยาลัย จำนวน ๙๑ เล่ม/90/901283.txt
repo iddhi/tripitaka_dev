@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>             ฯลฯ  อาศัยอาสวสาสวนเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 002 </span>             ฯลฯ  อาศัยสาสวโนอาสวนเหตุธรรม   ฯลฯ
+<span class="LineNumber"> 003 </span>             [๑๔๓]  ฯลฯ  อาศัยอาสวอาสวสัมปยุตตเหตุธรรม   ฯลฯ
+<span class="LineNumber"> 004 </span>             ฯลฯ  อาศัยอาสวสัมปยุตตโนอาสวเหตุธรรม   ฯลฯ
+<span class="LineNumber"> 005 </span>             ฯลฯ  อาศัยอาสวอาสวสัมปยุตตนเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 006 </span>             ฯลฯ  อาศัยอาสวสัมปยุตตโนอาสวนเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 007 </span>             [๑๔๔]  ฯลฯ  อาศัยอาสววิปปยุตตสาสวเหตุธรรม   ฯลฯ
+<span class="LineNumber"> 008 </span>             ฯลฯ  อาศัยอาสววิปปยุตตอนาสวเหตุธรรม  ฯลฯ 
+<span class="LineNumber"> 009 </span>             ฯลฯ  อาศัยอาสววิปปยุตตสาสวนเหตุธรรม  ฯลฯ 
+<span class="LineNumber"> 010 </span>             ฯลฯ  อาศัยอาสววิปปยุตตอนาสวนเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 011 </span>		         <I>อาสวโคจฉกเหตุทุกะ จบ</I>

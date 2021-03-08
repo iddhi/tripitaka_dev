@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           ข้อว่า  <B>ถามถึงประเทศ</B>   นั้น    หมายถึงในประเทศด้านตะวันออก  
+<span class="LineNumber"> 002 </span>หรือ  ประเทศด้านตะวันตก  ในประเทศด้านเหนือ  หรือประเทศด้านใต้.
+<span class="LineNumber"> 003 </span>                                        <I>มหาสงคราม  จบ</I>
+
+<span class="LineNumber"> 004 </span>                                       <H1>หัวข้อประจำเรื่อง</H1>
+<span class="LineNumber"> 005 </span>                             [๑,๑๒๓]  <B>วัตถุ  นิทาน  อาการ  คำต้น
+<span class="LineNumber"> 006 </span>                   คำหลัง  สิ่งที่ทำแล้ว  สิ่งที่ยังไม่ได้ทำ  กรรม             
+<span class="LineNumber"> 007 </span>                   อธิกรณ์  และสมถะ  และลำเอียง  เพราะชอบ
+<span class="LineNumber"> 008 </span>                   เพราะชัง  เพราะหลง  และเพราะกลัว  ให้
+<span class="LineNumber"> 009 </span>                   เข้าใจและพินิจ  เพ่งเล็ง  เลื่อมใส  มีพรรค-
+<span class="LineNumber"> 010 </span>                   พวก  มีสุตะ  แก่กว่า  เรื่องที่ยังไม่มาถึง
+<span class="LineNumber"> 011 </span>                   เรื่องที่มาถึงแล้ว  โดยธรรม  โดยวินัย  และ
+<span class="LineNumber"> 012 </span>                   แม้โดยสัตถุศาสน์  ชื่อว่า  มหาสงคราม  แล.</B>
+<span class="LineNumber"> 013 </span>              	              <I>หัวข้อประจำเรื่อง  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                     <H1>มหาสังคาม  วัณณา</H1>
+<span class="LineNumber"> 015 </span>           วินิจฉัยในมหาสังคาม  พึงทราบดังนี้:-
+<span class="LineNumber"> 016 </span>           หลายบทว่า  <B>วตฺถุโต  วา  วตฺถุํ  สงฺกมติ</B>  มีความว่า  โจทก์-
+<span class="LineNumber"> 017 </span>กล่าวว่า  วัตถุแห่งปฐมปาราชิก   อันข้าพเจ้าได้เห็นแล้ว   หรือว่าวัตถุแห่งปฐม

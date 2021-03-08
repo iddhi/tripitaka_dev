@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>สุทธอินทริยมูลจักกวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                     <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ  โสตินทริยมูลี :-</B>
+<span class="LineNumber"> 004 </span>         [๔๕๐]   ธรรมที่ไม่ชื่อว่าจักขุ   ชื่อว่า   อินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่าอินทรีย์,   ชื่อว่า  โสตินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         โสตินทรีย์  ชื่อว่าอินทรีย์ด้วย  ชื่อว่าโสตินทรีย์ด้วย   อินทรีย์
+<span class="LineNumber"> 008 </span>ที่เหลือ  ๒๑    ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่า   โสตินทรีย์. 
+<span class="LineNumber"> 009 </span>                     <I>จบ   จักขุนทริยมูละ  โสตินทริยมูลี</I> 
+
+<span class="LineNumber"> 010 </span><B>จักขุนทริยมูละ  ฆานินทริยมูลี :-</B>
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าจักขุ,  ชื่อว่า  อินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าอินทรีย์   ชื่อว่า  ฆานินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ฆานินทรีย์  ชื่อว่าอินทรีย์ด้วย  ชื่อว่าฆานินทรีย์ด้วย,  อินทรีย์
+<span class="LineNumber"> 015 </span>ที่เหลือ   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่า   ฆานินทรีย์.
+<span class="LineNumber"> 016 </span>                     <I>จบ  จักขุนทริยมูละ  ฆานินทริยมูลี</I>

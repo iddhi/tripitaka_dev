@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>พระอภิธรรมปิฎก  ปัฏฐาน</H2> 
+<span class="LineNumber"> 002 </span>                                 <H1>ปัจจนียานุโลมปัฏฐาน</H1>
+<span class="LineNumber"> 003 </span>                            <H1>๑. ปัจจนียานุโลมติกปัฏฐาน</H1>
+<span class="LineNumber"> 004 </span>                                  <H1>๑. นกุสลติกกุสลติกะ</H1>	  
+<span class="LineNumber"> 005 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 006 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>           [๑] ๑.  <B>ธรรมที่เป็นอกุศล  อาศัยธรรมที่ไม่ใช่กุศล  เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑    ที่เป็นอกุศล  ฯลฯ    ขันธ์  ๒    อาศัย
+<span class="LineNumber"> 011 </span>ขันธ์  ๒.
+<span class="LineNumber"> 012 </span>                 ๒.  <B>ธรรมที่เป็นอัพยากตะ  อาศัยธรรมที่ไม่ใช่กุศล   เกิด
+<span class="LineNumber"> 013 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูป     อาศัยขันธ์  ๑    ที่เป็นวิบาก-
+<span class="LineNumber"> 015 </span>อัพยากตะ   และกิริยาอัพยากตะ.
+<span class="LineNumber"> 016 </span>                 ๓.  <B>ธรรมที่เป็นอกุศล  และธรรมที่เป็นอัพยากตะ   อาศัย
+<span class="LineNumber"> 017 </span>ธรรมที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๓ วาระ.

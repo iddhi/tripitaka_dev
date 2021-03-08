@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>	                         <H1>๓.  อุปเนยยสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>         [๗]  เทวดานั้น  ครั้นยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้วแล   ได้กล่าว
+<span class="LineNumber"> 003 </span>คาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า               
+<span class="LineNumber"> 004 </span>                             <B>ชีวิตคืออายุมีประมาณน้อย  ถูกต้อน
+<span class="LineNumber"> 005 </span>                   เข้าไปเรื่อย  เมื่อบุคคลถูกชราต้อนเข้าไป
+<span class="LineNumber"> 006 </span>                   แล้ว   ย่อมไม่มีผู้ป้องกัน   บุคคลเมื่อเห็น
+<span class="LineNumber"> 007 </span>                   ภัยนี้ในมรณะ    พึงทำบุญทั้งหลายที่นำ
+<span class="LineNumber"> 008 </span>                   ความสุขมาให้.</B>
+<span class="LineNumber"> 009 </span>         [๘]     พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 010 </span>                             <B>ชีวิตคืออายุมีประมาณน้อย   ถูกต้อน
+<span class="LineNumber"> 011 </span>                   เข้าไปเรื่อย   เมื่อบุคคลถูกชราต้อนเข้าไป
+<span class="LineNumber"> 012 </span>                   แล้ว   ย่อมไม่มีผู้ป้องกัน   บุคคลเมื่อเห็น
+<span class="LineNumber"> 013 </span>                   ภัยนี้ในมรณะ  พึงละอามิสในโลกเสีย   มุ่ง
+<span class="LineNumber"> 014 </span>                   สันติเถิด.</B>

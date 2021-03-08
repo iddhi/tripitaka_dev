@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ตึสนิปาตวณฺณนา  หน้า  628  
+
+<span class="LineNumber"> 002 </span>		ตเถว  ติตฺถิยา  โลเก  			นานาทิฏฺ€ี  พหุชฺชนา  
+<span class="LineNumber"> 003 </span>		ธมฺมํ  วาทิตุกามา  (๑)  เต  		นาติวตฺตนฺติ  ตํ  มุนึ ฯ  
+<span class="LineNumber"> 004 </span>		สเจ  จ  ตํ  ปาปุณนฺติ  		ปฏิวาเทหิ  (๒)  จกฺขุม  
+<span class="LineNumber"> 005 </span>		ตวนฺติกํ  อุปคนฺตฺวา  			สฺจุณฺณาว  ภวนฺติ  เต ฯ  
+<span class="LineNumber"> 006 </span>		ยถาปิ  อุทเก  ชาตา  			กุมุทา  มนฺทาลกา  (๓)  พหู  
+<span class="LineNumber"> 007 </span>		อุปลิมฺปนฺติ  โตเยน  			กทฺทมกลเลน  จ ฯ  
+<span class="LineNumber"> 008 </span>		ตเถว  พหุกา  สตฺตา  			โลเก  ชาตา  วิรูหเร  
+<span class="LineNumber"> 009 </span>		อฏฺฏิตา  (๔)  ราคโทเสน  		กทฺทเม  กุมุทํ  ยถา ฯ  
+<span class="LineNumber"> 010 </span>		ยถาปิ  ปทุมํ  ชลชํ  			ชลมชฺเฌ  วิรูหติ  (๕)  
+<span class="LineNumber"> 011 </span>		น  โส  ลิมฺปติ  โตเยน  		ปริสุทฺโธ  หิ  เกสรี ฯ  
+<span class="LineNumber"> 012 </span>		ตเถว  ตฺวํ  มหาวีร  			โลเก  ชาโต  มหามุนิ  
+<span class="LineNumber"> 013 </span>		โนปลิมฺปสิ  โลเกน  			โตเยน  ปทุมํ  ยถา ฯ  
+<span class="LineNumber"> 014 </span>		ยถาปิ  (๖)  รมฺมเก  มาเส  		พหู  ปุปฺผนฺติ  วาริชา  
+<span class="LineNumber"> 015 </span>		นาติกฺกมนฺติ  ตํ  มาสํ  		สมโย  ปุปฺผนาย  โส ฯ  
+<span class="LineNumber"> 016 </span>		ตเถว  ตฺวํ  มหาวีร  (๗)  		ปุปฺผิโต  เต  วิมุตฺติยา  
+<span class="LineNumber"> 017 </span>		สาสนํ  นาติวตฺตนฺติ  			ปทุมํ  วาริชํ  (๘)  ยถา ฯ  
+<span class="LineNumber"> 018 </span>		สุปุปฺผิโต  สาลราชา  		ทิพฺพคนฺธํ  ปวายติ  
+<span class="LineNumber"> 019 </span>		อฺสาเลหิ  ปริวุโต  		สาลราชาว  โสภติ  (๙)  ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. ตริตุกามา  ฯ  ๒.  สฺยา. ปฏิวาเรหิ  ฯ  ๓.  ยุ. มทฺทาลกา  ฯ
+<span class="LineNumber"> 021 </span>#๔.  สฺยา. อฑฺฑิตา  ฯ  ๕.  สฺยา. วิโรจติ  ฯ  ๖.  สฺยา. ยถา  หิ  ฯ  
+<span class="LineNumber"> 022 </span>#๗.  สฺยา. สกฺยปุตฺต  ฯ  ๘.  สฺยา. วารินา  ฯ  ๙.  สฺยา. สาลราชาติโสภติ  ฯ  

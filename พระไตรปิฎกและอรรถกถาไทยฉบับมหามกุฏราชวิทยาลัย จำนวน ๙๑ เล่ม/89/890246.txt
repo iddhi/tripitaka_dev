@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                        <H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2> 
+<span class="LineNumber"> 003 </span>         [๒๒๙]   <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย มี ๓ วาระ. . . ฯลฯ
+
+<span class="LineNumber"> 004 </span>                                       <H2>ปัจจนียานุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                         <H2>การนับจำนวนวาระในปัจจนียานุโลม</H2>
+<span class="LineNumber"> 006 </span>         [๒๓๐]   <B>เพราะนเหตุปัจจัย</B>    ในอารัมมณปัจจัย มี ๙ วาระ. . . ฯลฯ
+<span class="LineNumber"> 007 </span>ในอนันตรปัจจัย  มี ๙ วาระ ฯลฯ
+<span class="LineNumber"> 008 </span>         สหชาตวาระ  เหมือนกับปฏิจจวาระ.
+	

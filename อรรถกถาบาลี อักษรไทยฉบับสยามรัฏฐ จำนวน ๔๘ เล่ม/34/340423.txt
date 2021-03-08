@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  34  สงฺขปาลชาตกํ  หน้า  423
+
+<span class="LineNumber"> 002 </span>		ปเถ อทฺทสาสิมฺหิ โภชปุตฺเต  
+<span class="LineNumber"> 003 </span>		ปวฑฺฒกายํ อุรคํ มหนฺตํ  
+<span class="LineNumber"> 004 </span>		อาทาย คจฺฉนฺเต ปโมทมาเน ฯ  
+<span class="LineNumber"> 005 </span>		โสหํ สมาคฺฉิ ชนินฺท เตหิ  
+<span class="LineNumber"> 006 </span>		ปหฏฺ€โลโม อวจสฺมิ ภีโต  
+<span class="LineNumber"> 007 </span>		กุหึ อยํ นียติ ภีมกาโย  
+<span class="LineNumber"> 008 </span>		นาเคน กึ กาหถ โภชปุตฺตา(๑) ฯ  
+<span class="LineNumber"> 009 </span>		นาโค อยํ นียติ โภชนตฺถํ (๒) 
+<span class="LineNumber"> 010 </span>		ปวฑฺฒกาโย อุรโค มหนฺโต  
+<span class="LineNumber"> 011 </span>		สาธุฺจ ถูลฺจ มุทุฺจ มํสํ  
+<span class="LineNumber"> 012 </span>		น ตฺวํ รสฺาสิ วิเทหปุตฺต ฯ  
+<span class="LineNumber"> 013 </span>		อิโต มยํ คนฺตฺวา สกํ นิเกตํ (๓) 
+<span class="LineNumber"> 014 </span>		อาทาย สตฺถานิ วิโกฏยิตฺวา  
+<span class="LineNumber"> 015 </span>		มํสานิ ภกฺขาม ปโมทมานา  
+<span class="LineNumber"> 016 </span>		มยํ หิ โว สตฺตโว ปนฺนคานํ ฯ  
+<span class="LineNumber"> 017 </span>		สเจ อยํ นียติ โภชนตฺถํ  
+<span class="LineNumber"> 018 </span>		ปวฑฺฒกาโย อุรโค มหนฺโต  
+<span class="LineNumber"> 019 </span>		ททามิ โว พลิพทฺทานิ โสฬส  
+<span class="LineNumber"> 020 </span>		นาคํ อิมํ มุฺจถ พนฺธนสฺมา ฯ  
+<span class="LineNumber"> 021 </span>		อทฺธา หิ โน ภกฺโข อยํ มนาโป  
+<span class="LineNumber"> 022 </span># ๑. สี. ยุ. มิลา จ ปุตฺเต ฯ  ๒. ม. โภชนตฺถา ฯ ๓. นิเกตนํ ฯ

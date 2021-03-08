@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                     ๓.  <B>เจตสิกธรรม     และอเจตสิกธรรม     อาศัยธรรม
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่เจตสิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>   
+
+<span class="LineNumber"> 003 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 004 </span>           [๑๐๔]  ในเหตุปัจจัย  มี  ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 005 </span>                           <I>นเจตสิกทุกเจตสิกทุกะ  จบ</I>
+
+<span class="LineNumber"> 006 </span>               <H1>๕๘.  นจิตตสัมปยุตตทุกจิตตสัมปยุตตทุกะ</H1>
+<span class="LineNumber"> 007 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 008 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                      <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 010 </span>           [๑๐๕ ๑. <B>จิตตสัมปยุตตธรรม  อาศัยธรรมที่ไม่ใช่จิตตสัมป-
+<span class="LineNumber"> 011 </span>ยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>                     ๒.  <B>จิตตวิปปยุตตธรรม  อาศัยธรรมที่ไม่ใช่จิตตสัมป-
+<span class="LineNumber"> 013 </span>ยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                     ๓.  <B>จิตตสัมปยุตตธรรม       และจิตตวิปปยุตตธรรม
+<span class="LineNumber"> 015 </span>อาศัยธรรมที่ไม่ใช่จิตตสัมปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>       		    ๔.  <B>จิตตวิปปยุตตธรรม  อาศัยธรรมที่ไม่ใช่จิตตวิปป-
+<span class="LineNumber"> 017 </span>ยุตตธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>

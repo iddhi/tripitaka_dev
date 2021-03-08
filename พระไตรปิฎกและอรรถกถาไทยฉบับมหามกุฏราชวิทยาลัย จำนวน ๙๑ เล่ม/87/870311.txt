@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H1>สังสัฏฐวาระ</H1>
+<span class="LineNumber"> 002 </span>                                              <H1>อนุโลมนัย</H1> 
+<span class="LineNumber"> 003 </span>                                           <H1>๑.  เหตุปัจจัย</H1> 
+<span class="LineNumber"> 004 </span>           [๑๒๒๔] ๑.  <B>เสกขธรรม  เจือกับเสกขธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓ เจือกับขันธ์ ๑  ที่เป็นเสกขธรรม  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>เหตุปัจจัย
+<span class="LineNumber"> 008 </span>                         ๒.  <B>อเสกขธรรม  เจือกับอเสกขธรรม เกิดขึ้น  เพราะ
+<span class="LineNumber"> 009 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอเสกขธรรม  ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 011 </span>                         ๓.  <B>เนวเสกขานาเสกขธรรม  เจือกับเนวเสกขานา
+<span class="LineNumber"> 012 </span>เสกขธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์ ๑ ที่เป็นเนวเสกขานาเสกขธรรม ฯลฯ  ขันธ์
+<span class="LineNumber"> 014 </span>๒ ฯลฯ.
+<span class="LineNumber"> 015 </span>           ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 016 </span>                        <H1>๒.  อารัมมณปัจจัย ฯลฯ  ๒๓.  อวิคตปัจจัย</H1>
+<span class="LineNumber"> 017 </span>           [๑๒๒๕]  <B>เสกขธรรม  เจือกับเสกขธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 018 </span>อารัมมณปัจจัย  เกิดขึ้น  เพราะอธิปติปัจจัย  เกิดขึ้น  เพราะปุเรชาต-
+<span class="LineNumber"> 019 </span>ปัจจัย</B>  (ทุกปัจจัยมี ๓ วาระ)
+<span class="LineNumber"> 020 </span>           <B>เพราะอาเสวนปัจจัย</B>  พึงกระทำเป็น ๒ วาระ ฯลฯ
+<span class="LineNumber"> 021 </span>           <B>เพราะอวิคตปัจจัย.</B>
+ 

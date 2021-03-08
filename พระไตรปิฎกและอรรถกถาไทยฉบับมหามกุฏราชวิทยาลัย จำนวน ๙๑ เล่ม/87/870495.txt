@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๑๖๖๗] ๑. <B> มิจฉัตตนิยตธรรม  เจือกับมิจฉัตตนิยตธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นมิจฉัตตนิยตธรรม  ฯลฯ  ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 007 </span>           [๑๖๖๘] ๒.  <B>สัมมัตตนิยตธรรม  เจือกับสัมมัตตนิยตธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นสัมมัตตนิยตธรรม  ฯลฯ  ขันธ์ ๒
+<span class="LineNumber"> 010 </span>ฯลฯ.
+<span class="LineNumber"> 011 </span>           [๑๖๖๙] ๓.  <B>อนิยตธรรม  เจือกับอนิยตธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 012 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอนิยตธรรม  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 014 </span>           ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 015 </span>                   <H1>๒.  อารัมมณปัจจัย ฯลฯ  ๒๓.  อวิคตปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           [๑๖๗๐] ๑.  <B>มิจฉัตตนิยตธรรม  เจือกับมิจฉัตตนิยตธรรม
+<span class="LineNumber"> 017 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย ฯลฯ  เพราะอวิคตปัจจัย.</B>
+

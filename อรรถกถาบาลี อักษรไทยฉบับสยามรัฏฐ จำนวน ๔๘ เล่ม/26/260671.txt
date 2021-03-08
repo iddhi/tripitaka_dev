@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  อานนฺทตฺเถรคาถาวณฺณนา  671  
+
+<span class="LineNumber"> 002 </span>		หตฺถิกฺขนฺธคโต  อาสึ  		เสตจฺฉตฺตํ  วรุตฺตมํ  
+<span class="LineNumber"> 003 </span>		สุจารุรูปํ  (๑)  ทิสฺวาน  		ปีติ  เม  อุทปชฺชถ ฯ  
+<span class="LineNumber"> 004 </span>		โอรุยฺห  หตฺถิขนฺธมฺหา  		อุปคจฺฉึ  นราสภํ  
+<span class="LineNumber"> 005 </span>		รตนามยฉตฺตํ  เม  			พุทฺธเสฏฺ€สฺส  ธารยึ ฯ  
+<span class="LineNumber"> 006 </span>		มม  สงฺกปฺปมฺาย  		ปทุมุตฺตโร  มหาอิสิ  
+<span class="LineNumber"> 007 </span>		ตํ  กถํ  €ปยิตฺวาน  			อิมา  คาถา  อภาสถ ฯ  
+<span class="LineNumber"> 008 </span>		โย  โส  ฉตฺตมธาเรสิ  (๒)  	โสณฺณาลงฺการภูสิตํ  
+<span class="LineNumber"> 009 </span>		ตมหํ  กิตฺตยิสฺสามิ  			สุณาถ  มม  ภาสโต ฯ  
+<span class="LineNumber"> 010 </span>		อิโต  คนฺตฺวา  อยํ  โปโส  		ตุสิตํ  อาวสิสฺสติ  
+<span class="LineNumber"> 011 </span>		อนุโภสฺสติ  สมฺปตฺตึ  		อจฺฉราหิ  ปุรกฺขโต ฯ  
+<span class="LineNumber"> 012 </span>		จตุตึสติกฺขตฺตุํ  จ  			เทวรชฺชํ  กริสฺสติ  
+<span class="LineNumber"> 013 </span>		นราธิโป  อฏฺ€สตํ  			วสุธํ  อาวสิสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>		อฏฺ€ปฺาสกฺขตฺตุํ  จ  		จกฺกวตฺตี  ภวิสฺสติ  
+<span class="LineNumber"> 015 </span>		ปเทสรชฺชํ  วิปุลํ  			มหิยา  การยิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		กปฺปสตสหสฺสมฺหิ  			โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 017 </span>		โคตโม  นาม  โคตฺเตน  		สตฺถา  โลเก  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>		สกฺยานํ  กุลเกตุสฺส  			าติพนธุ  ภวิสฺสติ  
+<span class="LineNumber"> 019 </span>		อานนฺโท  นาม  นาเมน  		อุปฏฺ€าโก  มเหสิโน ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา.  สุตานุรูปํ  ฯ  ๒.  สฺยา.  ฉตฺตํ  อธารยิ  ฯ  

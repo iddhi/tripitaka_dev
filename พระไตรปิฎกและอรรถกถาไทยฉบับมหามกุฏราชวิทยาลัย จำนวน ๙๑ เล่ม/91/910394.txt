@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>๖.  วิตักกติกนวิตักกติกะ</H1> 
+<span class="LineNumber"> 002 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                    <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 005 </span>           [๕๘] ๑.  <B>ธรรมที่ไม่ใช่สวิตักกสวิจารธรรม อาศัยธรรมที่เป็น
+<span class="LineNumber"> 006 </span>สวิตักกสวิจารธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  
+<span class="LineNumber"> 007 </span>                    ๒.  <B>ธรรมที่ไม่ใช่อวิตักกวิจารมัตตธรรม    อาศัยธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นสวิตักกสวิจารธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                    ๓.  <B>ธรรมที่ไม่ใช่อวิตักกอวิจารธรรม  อาศัยธรรมที่เป็น
+<span class="LineNumber"> 010 </span>สวิตักกสวิจารธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                    ๔.  <B>ธรรมที่ไม่ใช่สวิตักกสวิจารณา  และธรรมที่ไม่ใช่
+<span class="LineNumber"> 012 </span>อวิตักกอวิจารธรรม  อาศัยธรรมที่เป็นสวิตักกสวิจารธรรม  เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 014 </span>                    ๕.   <B>ธรรมที่ไม่ใช่อวิตักกวิจารมัตตธรรม     และธรรม 
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่อวิตักกอวิจารธรรม     อาศัยธรรมที่เป็นสวิตักกสวิจารธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>

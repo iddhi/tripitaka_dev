@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  หน้า  ๓๒๙
+
+<span class="LineNumber"> 002 </span>		เวรมฺภสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	นวเม  เวรมฺภวาตาติ  เอวํนามกา  มหาวาตา ฯ  กีทิเส 
+<span class="LineNumber"> 004 </span>ปน  €าเน  เต  วาตา  วายนฺตีติ  ยตฺถ  €ิตสฺส  จตฺตาโร  
+<span class="LineNumber"> 005 </span>ทีปา  อุปฺปลินิปตฺตมตฺตา(๑)  หุตฺวา ปฺายนฺติ ฯ  โย  ปกฺขี 
+<span class="LineNumber"> 006 </span>คจฺฉตีติ  นววุฏฺเ€  เทเว  วิรวนฺโต  วาตสกุโณ  ตตฺถ คจฺฉติ 
+<span class="LineNumber"> 007 </span>ตํ  สนฺธาเยตํ  วุตฺตํ ฯ อรกฺขิเตเนว กาเยนาติอาทีสุ หตฺถปาเท
+<span class="LineNumber"> 008 </span>กีฬาเปนฺโต ขนฺธฏฺ€ึ  วา  นาเมนฺโต  กายํ  น  รกฺขติ 
+<span class="LineNumber"> 009 </span>นาม  นานาวิธํ  ทุฏฺ€ุลฺลกถํ  กเถนฺโต วาจํ  น  รกฺขติ  นาม
+<span class="LineNumber"> 010 </span>กามวิตกฺกาทโย  วิตกฺเกนฺโต  จิตฺตํ  น  รกฺขติ  นาม ฯ  
+<span class="LineNumber"> 011 </span>อนุปฏฺ€ิตาย สติยาติ กายคตาสตึ อนุปฏฺ€เปตฺวา ฯ 
+<span class="LineNumber"> 012 </span>			นวมํ ฯ         
+
+<span class="LineNumber"> 013 </span>		สคาถกสุตฺตวณฺณนา           
+<span class="LineNumber"> 014 </span>	ทสเม  อสกฺกเรน  จูภยนฺติ  อสกฺกาเรน  จ  อุภเยน ฯ  
+<span class="LineNumber"> 015 </span>สมาธีติ   อรหตฺตผลสมาธิ ฯ  โส  หิ  เตน  น  วิกมฺปติ ฯ  
+<span class="LineNumber"> 016 </span>อปฺปมาณวิหาริโนติ  อปฺปมาเณน  ผลสมาธินา  วิหรนฺตสฺส ฯ
+<span class="LineNumber"> 017 </span>สาตติกนฺติ  สตตการึ ฯ  สุขุมทิฏฺ€วิปสฺสกนฺติ อรหตฺตมคฺค-
+<span class="LineNumber"> 018 </span>ทิฏฺ€ิยา  สุขุมทิฏฺ€ิผลสมาปตฺติอตฺถาย  วิปสฺสนํ  ปฏฺ€เปตฺวา
+<span class="LineNumber"> 019 </span>อาคตตฺตา สุขุมทิฏฺ€ิวิปสฺสนํ(๒) ฯ อุปาทานกฺขยารามนฺติ  อุปาทา-
+<span class="LineNumber"> 020 </span># ๑. ม. อุปฺปลินิปตฺตมตฺตา ฯ  ๒. ม. วิปสฺสกํ ฯ

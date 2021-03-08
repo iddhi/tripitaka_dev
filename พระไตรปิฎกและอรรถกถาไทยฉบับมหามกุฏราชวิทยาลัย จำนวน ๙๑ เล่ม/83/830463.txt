@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span><H2>กามราคานุสยมูละ  ภวราคานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         บุคคลใด   กำหนดรู้กามราคานุสัย   จากที่ใด,   บุคคลนั้น ย่อม
+<span class="LineNumber"> 003 </span>กำหนดรู้ภวราคานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ไม่ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า  บุคคลใด  กำหนดรู้ภวราคานุสัย   จากที่ใด,  บุคคลนั้น
+<span class="LineNumber"> 006 </span>ย่อมกำหนดรู้กามราคานุสัย  ทุกที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ไม่ใช่.
+<span class="LineNumber"> 008 </span>                    <I>จบ  กามราคานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 009 </span><H2>กามราคานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 010 </span>         บุคคลใด  กำหนดรู้กามราคานุสัย  จากที่ใด,   บุคคลนั้น   ย่อม
+<span class="LineNumber"> 011 </span>กำหนดรู้อวิชชานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ย่อมกำหนดรู้กิเลสอันตั้งอยู่ในที่เดียวกันกับอนุสัยนั้น.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า บุคคลใด   กำหนดรู้อวิชชานุสัย  จากที่ใด,  บุคคลนั้น

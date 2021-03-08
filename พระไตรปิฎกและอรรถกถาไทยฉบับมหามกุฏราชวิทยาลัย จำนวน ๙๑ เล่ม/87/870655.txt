@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>๑๔.  นอินทริยปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๒๐๕๓] ๑.  <B>ฯลฯ  อาศัยอัชฌัตตธรรม  ฯลฯ  เพราะนอินทริย-
+<span class="LineNumber"> 003 </span>ปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ  อาหารสมุฏฐานรูป... อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 005 </span>           ส่วนอสัญญสัตว์ทั้งหลาย รูปชีวิตินทรีย์ อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 006 </span>           [๒๐๕๔] ๒. <B>ฯลฯ  อาศัยพหิทธาธรรม  ฯลฯ  เพราะนอินทริย
+<span class="LineNumber"> 007 </span>ปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ   พาหิรรูป . . . อาหารสมุฏฐานรูป... อุตุสมุฏฐานรูป ฯลฯ 
+<span class="LineNumber"> 009 </span>           ส่วนอสัญญสัตว์ทั้งหลาย  รูปชีวิตินทรีย์  อาศัยมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 010 </span>                                          <H1>๑๕.  นฌานปัจจัย</H1>  
+<span class="LineNumber"> 011 </span>           [๒๐๕๕] ๑.  <B>อัชฌัตตธรรม  อาศัยอัชฌัตตธรรม  ฯลฯ เพราะ
+<span class="LineNumber"> 012 </span>นฌานปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  ฯลฯ  อาศัยปัญจวิญญาณ ฯลฯ
+<span class="LineNumber"> 014 </span>           อาหารสมุฏฐานรูป . . . อุตุสมุฏฐานรูป  ฯลฯ
+<span class="LineNumber"> 015 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ.
+<span class="LineNumber"> 016 </span>           [๒๐๕๖] ๒.  <B>พหิทธาธรรม อาศัยพหิทธาธรรม ฯลฯ   เพราะ
+<span class="LineNumber"> 017 </span>นณานปัจจัย</B>

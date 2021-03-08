@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  บุคคลใดจักกระทำให้แจ้งอัญญาตาวินทรีย์,  บุคคล
+<span class="LineNumber"> 003 </span>นั้นก็จักรู้แจ้งจักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         บุคคลที่ถึงพร้อมด้วยอรหัตตมรรค  จักกระทำให้แจ้งอัญญา-
+<span class="LineNumber"> 005 </span>ตาวินทรีย์  แต่ไม่ใช่จักรู้แจ้งจักขุนทรีย์,  บุคคล  ๗  จำพวก  จักกระทำ
+<span class="LineNumber"> 006 </span>ให้แจ้งอัญญาตาวินทรีย์  และก็จักแจ้งจักขุนทรีย์.
+<span class="LineNumber"> 007 </span>                     <I>จบ  จักขุนทริยมูละ  อัญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 008 </span>                                    <I>จักขุนทริยมูล   จบ</I>

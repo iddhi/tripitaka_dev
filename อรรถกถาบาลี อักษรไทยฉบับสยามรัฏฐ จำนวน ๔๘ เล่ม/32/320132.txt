@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  กุกฺกุชาตกํ  หน้า 132
+	
+<span class="LineNumber"> 002 </span>			สา สีสปา(๑) สารมยา อเผคฺคุกา  
+<span class="LineNumber"> 003 </span>			กุหึ €ิตา อุปริโต(๒) น ธํสตีติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  ทิยฑฺฒกุกฺกูติ  ทิยฑฺฒรตนานิ  ฯ  อุทเยนาติ  
+<span class="LineNumber"> 005 </span>อุจฺจตเรน  ฯ  ปริกฺขิปนฺติ  นนฺติ  ตํ  ปเนตํ  อฏฺ€  วิทตฺถิโย
+<span class="LineNumber"> 006 </span>ปริกฺขิปนฺติ  ปริกฺเขปโต  อฏฺ€วิทตฺถิปฺปมาณาติ  อตฺโถ  ฯ  กุหึ
+<span class="LineNumber"> 007 </span>€ิตาติ  กตฺถ  ปติฏฺ€ิตา  หุตฺวา ฯ  น ธํสตีติ น ปตติ ฯ  
+<span class="LineNumber"> 008 </span>	ตํ  สุตฺวา  โพธิสตฺโต  ลทฺโธ  ทานิ  เม  รฺโ
+<span class="LineNumber"> 009 </span>โอวาทนตฺถาย  อุปาโยติ จินฺเตตฺวา อิมา คาถา อาห  
+<span class="LineNumber"> 010 </span>		[๙๗๐]ยา ตึสติ สารมยา อเผคฺคุกา(๓)  
+<span class="LineNumber"> 011 </span>			ปริกิริย โคปาณสิโย สมฏฺ€ิตา(๔)  
+<span class="LineNumber"> 012 </span>			ตาหิ สุสงฺคหีตา(๕) พลสา จ(๖) ปีฬิตา  
+<span class="LineNumber"> 013 </span>			สมฏฺ€ิตา(๔) อุปริโต(๒) น ธํสติ ฯ  
+<span class="LineNumber"> 014 </span>		[๙๗๑]เอวํปิ มิตฺเตหิ ทฬฺเหหิ ปณฺฑิโต  
+<span class="LineNumber"> 015 </span>			อเภชฺชรูเปหิ สุจีหิ มนฺติภิx  
+<span class="LineNumber"> 016 </span>			สุสงฺคหีโต สิริยา น ธํสติ  
+<span class="LineNumber"> 017 </span>			โคปาณสีภารวหาว กณฺณิกาติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  ยา  ตึสติ  สารมยาติ  ยา  เอตา  สารรุกฺขมยา  ตึสติ  
+<span class="LineNumber"> 019 </span>โคปาณสิโย  ฯ  ปริกิริยาติ  ปริวาเรตฺวา  ฯ  สมฏฺ€ิตาติ  สมภาเคน 
+<span class="LineNumber"> 020 </span># ๑. ม. สา สึสปา ฯ  สี. ยุ. สสึสปา ฯ  ๒. ม. อุปฺปริโค ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. อนุชฺชุกา ฯ  ๔. ม. สมํ €ิตา ฯ ๕. สี. ตา สงฺคหิตา ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. จสทฺโท นตฺถิ ฯ 

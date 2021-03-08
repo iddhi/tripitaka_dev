@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ มหาเวทลฺลสุตฺตวณฺณนา หน้า ๕๕๕
+		
+<span class="LineNumber"> 002 </span>ลกฺขณํ  อฺาตํ  โหติ  อทิฏฺ€ํ  อตุลิตํ  อตีริตํ  อวิภูตํ  
+<span class="LineNumber"> 003 </span>อวิภาวิตํ  ตสฺส  าณาย  ทสฺสนาย  ตุลนาย  ตีรณาย  วิภูตาย  
+<span class="LineNumber"> 004 </span>วิภาวนตฺถาย  ปฺหํ  ปุจฺฉติ  อยํ  อทิฏฺ€โชตนาปุจฺฉา ฯ
+<span class="LineNumber"> 005 </span>	  กตมา  ทิฏฺ€สํสนฺทนาปุจฺฉา  ปกติยา  ลกฺขณํ  าตํ 
+<span class="LineNumber"> 006 </span>โหติ  ทิฏฺ€ํ  ตุลิตํ  ตีริตํ (๑) วิภูตํ  วิภาวิตํ  อฺเหิ  
+<span class="LineNumber"> 007 </span>ปณฺฑิเตหิ  สทฺธึ  สํสนฺทนตฺถาย  ปฺหํ  ปุจฺฉติ  อยํ  
+<span class="LineNumber"> 008 </span>ทิฏฺ€สํสนฺทนาปุจฺฉา ฯ 
+<span class="LineNumber"> 009 </span>	  กตมา  วิมติจฺเฉทนาปุจฺฉา  ปกติยา  สํสยปกฺขนฺโน   โหติ  
+<span class="LineNumber"> 010 </span>วิมติปกฺขนฺโน(๒)  เทฺวฬฺหกชาโต  เอวํ  นุ  โข  น  นุ  โข  
+<span class="LineNumber"> 011 </span>กินฺนุโข  กถํ  นุ  โข  ติ  โส  วิมติจฺเฉทนตฺถาย  ปฺหํ  ปุจฺฉติ  
+<span class="LineNumber"> 012 </span>อยํ  วิมติจฺเฉทนาปุจฺฉา  (๓) ฯ
+<span class="LineNumber"> 013 </span>	  ตํ  กึ  มฺถ  ภิกฺขเว  รูปํ  นิจฺจํ  วา  อนิจฺจํ  วาติ  
+<span class="LineNumber"> 014 </span>อนิจฺจํ  ภนฺเตติ (๔)  เอวรูปา  อนุมตึ  คเหตฺวา  ธมฺมเทสนากาเล 
+<span class="LineNumber"> 015 </span>ปุจฺฉา  อนุมติปุจฺฉา  นามฯ  
+<span class="LineNumber"> 016 </span>	  จตฺตาโรเม  ภิกฺขเว  สติปฏฺ€านา  กตเม  จตฺตาโรติ  (๕)  
+<span class="LineNumber"> 017 </span>เอวรูปา  ภิกฺขสงฺฆํ  สยเมว  ปุจฺฉิตฺวา  สยเมว  วิสฺสชฺเชตุกามสฺส  
+<span class="LineNumber"> 018 </span>ปุจฺฉา  กเถตุกามฺยตาปุจฺฉา  [๖]  ฯ  ตาสุ  อิธ  ทิฏฺ€สํสนฺทนา-
+<span class="LineNumber"> 019 </span>ปุจฺฉา  อธิปฺเปตา ฯ
+<span class="LineNumber"> 020 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. สํสยปกฺขนฺโท ฯ เอวมุปริปิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ขุ. มหา. ๒๙/๗๐๐/๔๐๙ ฯ ขุ. จูฬ. ๓๐/๑๒๒/๔๗-๘ ฯ 
+<span class="LineNumber"> 022 </span># ๔. วิ. มหา. ๔/๒๑/๒๖ ฯ ๕. สํ. มหา. ๑๙/๖๗๙/๑๙๐ ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. เอตฺถนฺตเร นามาติ ทิสฺสติ ฯ

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                 		<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 002 </span>		[๑๓๔๙]  ในนเหตุปัจจัย   มี   ๓ วาระ  ในนอธิปติปัจจัย    มี ๙ วาระ 
+<span class="LineNumber"> 003 </span>ในนปุเรชาตปัจจัย มี ๙  วาระ  ฯลฯ  ในนวิปปยุตตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 004 </span>            สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   มี ๙  วาระ  ทุกปัจจัย.
+
+<span class="LineNumber"> 005 </span>					<H1>อกุศลบทปัญหาวาระ</H1>
+<span class="LineNumber"> 006 </span>					     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>					  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๑๓๕๐]  ๑.  อกุศลธรรมที่เป็นนีวรณธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 009 </span>อกุศลธรรมที่เป็นนีวรณธรรม  ด้วยอำนาจของเหตุปัจจัย  ฯลฯ
+<span class="LineNumber"> 010 </span>                   	  <H2>การนับจำนวนวาระในอนุโลม</H2>      
+<span class="LineNumber"> 011 </span>		[๑๓๕๑]  ในเหตุปัจจัย  มี ๓ วาระ   ในอารัมมณปัจจัย  มี  ๙  วาระ
+<span class="LineNumber"> 012 </span>ในอธิปติปัจจัย มี ๙ วาระ  ในอาเสวนปัจจัย มี ๙  วาระ   ในกัมมปัจจัย  มี ๓
+<span class="LineNumber"> 013 </span>วาระ    ในอาหารปัจจัย มี ๓ วาระ    ในอินทริยปัจจัย มี ๓ วาระ    ในฌาน-
+<span class="LineNumber"> 014 </span>ปัจจัย มี ๓ วาระ  ในมัคคปัจจัย มี ๓ วาระ   ในสัมปยุตตปัจจัย มี ๙  วาระ
+<span class="LineNumber"> 015 </span>ฯลฯ  ในอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 016 </span>				           <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 017 </span>		         <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 018 </span>		[๑๓๕๒]  ในนเหตุปัจจัย มี ๙ วาระ ในนอารัมมณปัจจัย มี ๙ วาระ
+<span class="LineNumber"> 019 </span>ฯลฯ

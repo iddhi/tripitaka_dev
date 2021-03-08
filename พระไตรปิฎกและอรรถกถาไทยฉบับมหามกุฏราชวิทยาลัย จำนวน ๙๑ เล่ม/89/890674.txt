@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 002 </span>         พึงกระทำมูล  (วาระที่ ๕)
+<span class="LineNumber"> 003 </span>         โมหะ    ที่สหรคตด้วยวิจิกิจฉา    เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย
+<span class="LineNumber"> 004 </span>ด้วยอำนาจของเหตุปัจจัย 
+<span class="LineNumber"> 005 </span>         พึงกระทำมูล  (วาระที่ ๖)
+<span class="LineNumber"> 006 </span>         โมหะที่สหรคตด้วยวิจิกิจฉา      เป็นปัจจัยแก่สัมปยุตตขันธ์และจิตต-
+<span class="LineNumber"> 007 </span>สมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.
+
+<span class="LineNumber"> 008 </span>                                     <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 009 </span>         [๖๒๒] ๑.  <B>ทัสสเนนปหาตัพพเหตุกธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 010 </span>ทัสสเนนปหาตัพพเหตุกธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ    เพราะปรารภขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 012 </span>ขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพเหตุกธรรม  ย่อมเกิดขึ้น.
+<span class="LineNumber"> 013 </span>         พึงกระทำมูล  (วาระที่ ๒)
+<span class="LineNumber"> 014 </span>         เพราะปรารภขันธ์ทั้งหลาย      ที่เป็นทัสสเนนปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 015 </span>ขันธ์ทั้งหลายที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม   และโมหะ   ย่อมเกิดขึ้น 
+<span class="LineNumber"> 016 </span>         พึงกระทำมูล  (วาระที่ ๓)
+<span class="LineNumber"> 017 </span>         เพราะปรารภขันธ์ทั้งหลาย      ที่เป็นทัสสเนนปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 018 </span>ขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา   และโมหะ   ย่อมเกิดขึ้น.

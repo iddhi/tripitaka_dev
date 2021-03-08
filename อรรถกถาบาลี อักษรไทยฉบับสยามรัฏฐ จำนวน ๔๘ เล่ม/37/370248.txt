@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  248
+
+<span class="LineNumber"> 002 </span>วิย  อหํ  ปน  อชฺช  อาหารเหตุ ปาปํ น กโรมิ ตสฺมา มม(๑) 
+<span class="LineNumber"> 003 </span>สีลํ มหนฺตนฺติ ฯ  
+<span class="LineNumber"> 004 </span>	ตโต  สกฺโก  เทวราชา  อหํ  นานปฺปการํ  สุขปทฏฺ€านํ  
+<span class="LineNumber"> 005 </span>เทวโลเก  สมฺปตฺตึ  ปหาย  สีลํ  รกฺขนตฺถาย(๒)  มนุสฺสโลกํ  อาคโต  
+<span class="LineNumber"> 006 </span>ตสฺมา ตุมฺหากํ สีลโต มม สีลํ มหนฺตนฺติ วตฺวา อิมํ 
+<span class="LineNumber"> 007 </span>คาถมาห  
+<span class="LineNumber"> 008 </span>		ขิฑฺฑํ รตึ วิปฺปชหิตฺวา(๓) สพฺพํ  
+<span class="LineNumber"> 009 </span>		น จาลิกํ ภาสติ กิฺจิ โลเก  
+<span class="LineNumber"> 010 </span>		วิภูสนฏฺ€านา วิรโต เมถุนสฺมา  
+<span class="LineNumber"> 011 </span>		ตํ เว นรํ สมณมาหุ โลเกติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  ขิฑฺฑนฺติ  กายิกวาจสิกขิฑฺฑํ ฯ  รตินฺติ  ทิพฺพกามคุณ-
+<span class="LineNumber"> 013 </span>รตึ ฯ  กิฺจีติ  อปฺปมตฺตกํปิ ฯ  วิภูสนฏฺ€านาติ  มํสวิภูสา  จ 
+<span class="LineNumber"> 014 </span>ฉวิวิภูสา  จ  เทฺว  วิภูสา  ตตฺถ  อชฺโฌหรณิยาหาโร  มํสวิภูสา  
+<span class="LineNumber"> 015 </span>นาม  มาลาคนฺธาทีนิ  ฉวิวิภูสา  นาม  เยน  อกุสลจิตฺเตน  สาทิยติ(๔)  
+<span class="LineNumber"> 016 </span>ตนฺตสฺส  €านํ  ตโต  ปฏิวิรโต ฯ  เมถุนสฺมาติ  เมถุนเสวนโต  จ
+<span class="LineNumber"> 017 </span>โย  ปฏิวิรโต ฯ  ตํ  เว  นรํ  สมณมาหุ  โลเกติ  อหํ ปน อชฺช 
+<span class="LineNumber"> 018 </span>เทวจฺฉรา  ปหาย อิธาคนฺตฺวา สมณธมฺมํ กโรมิ ตสฺมา มม
+<span class="LineNumber"> 019 </span>สีลํ มหนฺตนฺติ ฯ  
+<span class="LineNumber"> 020 </span>	เอวํ สกฺโกปิ อตฺตโน สีลเมว วณฺเณติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. มเมว ฯ  ๒. ม. สีลรกฺขณตฺถาย ฯ  ๓. ม. วิปฺปชหิตฺวาน ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. ธารียติ ฯ 

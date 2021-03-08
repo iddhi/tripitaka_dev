@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>	                       <H1>๗.  อัปปฏิวิทิตสูตร</H1>
+
+<span class="LineNumber"> 002 </span>         [๑๕]   เทวดานั้น  ครั้นยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้วแล  ได้กล่าว
+<span class="LineNumber"> 003 </span>คาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า 
+<span class="LineNumber"> 004 </span>                             <B>ธรรมทั้งหลายอันชนพวกใดยังไม่
+<span class="LineNumber"> 005 </span>                   แทงตลอดแล้ว     ชนพวกนั้นย่อมถูกจูงไป
+<span class="LineNumber"> 006 </span>                   ในวาทะของชนพวกอื่น  ชนพวกนั้นชื่อว่า
+<span class="LineNumber"> 007 </span>                   ยังหลับไม่ตื่น  (กาลนี้)   เป็นกาลสมควร
+<span class="LineNumber"> 008 </span>                   เพื่อจะตื่นของชนพวกนั้น.</B>
+<span class="LineNumber"> 009 </span>         [๑๖]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 010 </span>                             <B>ธรรมทั้งหลาย     อันชนพวกใดแทง
+<span class="LineNumber"> 011 </span>                   ตลอดดีแล้ว     ชนพวกนั้นย่อมไม่ถูกจูงไป
+<span class="LineNumber"> 012 </span>                   ในวาทะของชนพวกอื่น    บุคคลผู้รู้ดีทั้ง-
+<span class="LineNumber"> 013 </span>                   หลายรู้ทั่วถึงโดยชอบแล้ว   ย่อมประพฤติ
+<span class="LineNumber"> 014 </span>                   เสมอในหมู่สัตว์ผู้ประพฤติไม่เสมอ.</B> 

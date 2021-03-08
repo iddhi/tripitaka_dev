@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  120
+
+<span class="LineNumber"> 002 </span>			วนวจฺฉตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	นีลพฺภวณฺณาติ อายสฺมโต วนวจฺฉตฺเถรสฺส คาถา ฯ ตสฺส 
+<span class="LineNumber"> 004 </span>กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	โส  กิร  อตฺถทสฺสิโน  ภควโต  กาเล  กจฺฉปโยนิยํ 
+<span class="LineNumber"> 006 </span>นิพฺพตฺโต  วินตาย  นาม  นทิยา  วสติ ฯ  ตสฺส  ขุทฺทก-
+<span class="LineNumber"> 007 </span>นาวปฺปมาโณ  อตฺตภาโว  อโหสิ ฯ  โส  กิร  เอกทิวสํ  ภควนฺตํ 
+<span class="LineNumber"> 008 </span>นทิยา  ตีเร  €ิตํ  ทิสฺวา  ปารํ  คนฺตุกาโม  มฺเ  ภควาติ 
+<span class="LineNumber"> 009 </span>อตฺตโน ปิฏฺ€ิยํ  อาโรเปตฺวา  เนตุกาโม  ปาทมูเล  นิปชฺชิ ฯ
+<span class="LineNumber"> 010 </span>ภควา  ตสฺส  อชฺฌาสยํ  ตฺวา ตํ  อนุกมฺปนฺโต  อารุหิ ฯ 
+<span class="LineNumber"> 011 </span>โส  ปีติโสมนสฺสชาโต  โสตํ  ฉินฺทนฺโต  ชิยาย  เวเคน ขิตฺตสโร  
+<span class="LineNumber"> 012 </span>วิย  ตาวเทว  ปรตีรํ  ปาเปสิ ฯ 
+<span class="LineNumber"> 013 </span>	ภควา  ตสฺส  ปุฺสฺส  ผลํ  เอตรหิ  นิพฺพตฺตกสมฺปตฺติฺจ 
+<span class="LineNumber"> 014 </span>พฺยากริตฺวา  ปกฺกามิ ฯ  โส  เตน  ปุฺกมฺเมน เทวมนุสฺเสสุ 
+<span class="LineNumber"> 015 </span>สํสรนฺโต  อเนกสตกฺขตฺตุํ  ตาปสปพฺพชฺชํ  ปพฺพชิตฺวา  อรฺ-
+<span class="LineNumber"> 016 </span>วาสีเยว  อโหสิ ฯ  ปุน กสฺสปพุทฺธกาเล  กโปตโยนิยํ  นิพฺพตฺติตฺวา
+<span class="LineNumber"> 017 </span>อรฺเ  วิหรนฺตํ  เมตฺตาวิหารึ เอกํ ภิกฺขุํ ทิสฺวา จิตฺตํ 
+<span class="LineNumber"> 018 </span>ปสาเทสิ ฯ  ตโต  ปน  จุโต  พาราณสิยํ  กุลเคเห  นิพฺพตฺติตฺวา
+<span class="LineNumber"> 019 </span>วยปฺปตฺโต(๑)  สํเวคชาโต  ปพฺพชิตฺวา  วิวฏฺฏูปนิสฺสยํ  พหุปุฺกมฺมํ 
+<span class="LineNumber"> 020 </span># ๑. สี. วยปฺปตฺตกาเล ฯ 

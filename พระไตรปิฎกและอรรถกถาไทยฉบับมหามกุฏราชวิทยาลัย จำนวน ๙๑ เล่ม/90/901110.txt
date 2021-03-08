@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>		<H1>ทุกขายเวทนายสัมปยุตตบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>				<H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>			      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๙]    ๑.  ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล  เป็นปัจจัย	
+<span class="LineNumber"> 005 </span>แก่ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล     ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 006 </span>ปัจจัย
+<span class="LineNumber"> 007 </span>        	         <H2>๒. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๑๐]  ๑.  ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล  เป็น
+<span class="LineNumber"> 009 </span>ปัจจัยแก่ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล   ด้วยอำนาจของ
+<span class="LineNumber"> 010 </span>อารัมมณปัจจัย
+<span class="LineNumber"> 011 </span>                     ๒.  ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอัพยากตะ  เป็น   		   					  	
+<span class="LineNumber"> 012 </span>ปัจจัยแก่ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล   ด้วยอำนาจของ
+<span class="LineNumber"> 013 </span>อารัมมณปัจจัย
+<span class="LineNumber"> 014 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>		[๑๑]  ในเหตุปัจจัย มี ๑ วาระ   ในอารัมมณปัจจัย  มี ๒ วาระ  ฯลฯ
+<span class="LineNumber"> 016 </span>ปัญหาวาระในกุสลติกะฉันใด   พึงให้พิสดารฉันนั้น.

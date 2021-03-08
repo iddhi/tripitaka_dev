@@ -1,0 +1,4 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า      มนินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,      จักขุนทรีย์
+<span class="LineNumber"> 002 </span>ก็ไม่ใช่กำลังเกิดแก่บุคคลนั้น   ใช่ไหม  ?                               
+<span class="LineNumber"> 003 </span>         ไม่มี   ฯลฯ
+<span class="LineNumber"> 004 </span>  <I>จบ  จักขุนทริยมูละ สัทธินทริย  ฯลฯ    ปัญญินทริย   มนินทริยมูลี</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 207
+
+<span class="LineNumber"> 002 </span>ตโต  โกสมฺพิยํ  เสฏฺ€ิกุลโต ฯ  ตํ  สรนฺติ  ตํ  ตสฺมึ  นิรเย 
+<span class="LineNumber"> 003 </span>อนุภูตํ  ทุกฺขํ  สรนฺตี  จิตฺตสุขนฺนาม(๑)  น  ลภามิ  ภยเมว  เม 
+<span class="LineNumber"> 004 </span>อุปฺปชฺชติ ฯ  ภิณฺณาคเตติ  ภินฺนาคกรฏฺเ€(๒)  ภิณฺณาคเต  นาม
+<span class="LineNumber"> 005 </span>นคเร  วา ฯ  อุทฺธตปฺผโลติ  อุทฺธตพีโช ฯ 
+<span class="LineNumber"> 006 </span>	โส  ปน  ฉกลโก  พลสมฺปนฺโน  อโหสิ ฯ  ปิฏฺ€ิยํ  
+<span class="LineNumber"> 007 </span>อภิรุหิตฺวาปิ นํ วาหยึสุ ฯ ตํ ยานเกปิ โยชยึสุ ฯ  
+<span class="LineNumber"> 008 </span>	สา ตมตฺถํ (๓)ปกาเสนฺตี อาห  
+<span class="LineNumber"> 009 </span>	[๘๖๔]สาตปุตฺตา มยา วุฬฺหา	ปิฏฺ€ิยา จ รเถน จ  
+<span class="LineNumber"> 010 </span>		ตสฺส กมฺมสฺส นิสฺสนฺโท	ปรทารคมนสฺส เมติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  สาตปุตฺตาติ  อมจฺจปุตฺตา ฯ  ตสฺส  กมฺมสฺสาติ 
+<span class="LineNumber"> 012 </span>เทว  โรรุวมหานิรเย (๔) ปจนฺจ(๕)  ฉกลกาเล(๖) อณฺฑวีชุปฺปาตนฺจ(๗)  
+<span class="LineNumber"> 013 </span>ปิฏฺ€ิวาหนยานกโยชนานิ  จ  สพฺโพเปส  ตสฺส  กมฺมสฺส  นิสฺสนฺโท  
+<span class="LineNumber"> 014 </span>ปรทารคมนสฺส เมติ ฯ  
+<span class="LineNumber"> 015 </span>	ตโต  ปน  จวิตฺวา  อรฺเ  กปิโยนิยํ  ปฏิสนฺธึ  คณฺหึ 
+<span class="LineNumber"> 016 </span>อถ  เต  มํ(๘)  ชาตทิวเส  ยูถปติโน  ทสฺเสสุํ  โส  อาเนถ  เม 
+<span class="LineNumber"> 017 </span>ปุตฺตนฺติ  ทฬฺหํ คเหตฺวา ตสฺส วิรวนฺตสฺเสว ทนฺเตหิ ผลานิ 
+<span class="LineNumber"> 018 </span>อุปฺปาเฏสิ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. จิตฺตสุขํ นาม ฯ  ๒. ม. ภินฺนาคเตติ นาม รฏฺเ€ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. อิมมตฺถํ ฯ  ๔. ม. โรรุเว มหานิรเย ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. ปจฺจนฺจ ฯ  ๖. ม. ฉคลกกาเล ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. พีชุปฺปาฏนฺจ ฯ  ๘. ม. อถ นํ ฯ

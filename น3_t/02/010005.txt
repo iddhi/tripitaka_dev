@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>	๓.  <B>นขา</B>      เล็บ.   
+<span class="LineNumber"> 002 </span>	๔.  <B>ทันตา</B>   ฟัน.
+<span class="LineNumber"> 003 </span>	๕.  <B>ตโจ</B>      หนัง.
+<span class="LineNumber"> 004 </span>	การพิจารณา  จะพิจารณาทั้ง ๕  หรืออย่างใดอย่างหนึ่งก็ได้
+<span class="LineNumber"> 005 </span>ถ้าไม่ปรากฏ  พึงพิจารณาให้ประกอบด้วยองค์  ๕  คือ :-
+<span class="LineNumber"> 006 </span>	๑.  โดยสี.
+<span class="LineNumber"> 007 </span>	๒.  โดยสัณฐาน.
+<span class="LineNumber"> 008 </span>	๓.  โดยกลิ่น.
+<span class="LineNumber"> 009 </span>	๔.  โดยที่เกิด.
+<span class="LineNumber"> 010 </span>	๕.  โดยที่อยู่.
+<span class="LineNumber"> 011 </span>	นอกจากนี้  พึงทราบโดยลักษณะแห่งกายคตาสติกัมมัฏฐานอัน
+<span class="LineNumber"> 012 </span>จักกล่าวข้างหน้า.
+	

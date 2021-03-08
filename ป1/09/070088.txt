@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		นามกิตก์                ปาจกตฺตํ         ความเป็นแห่งคนหุง
+<span class="LineNumber"> 002 </span>		กิริยากิตก์               คตตา              ความเป็นแห่งผู้ไปแล้ว
+<span class="LineNumber"> 003 </span>กิริยาอาขยาต                             อตฺถิตา        ความเป็นแห่ง...มีอยู่  
+<span class="LineNumber"> 004 </span>                                                   นตฺถิตา        ความเป็นแห่ง...ไม่มี
+<span class="LineNumber"> 005 </span>ลงซ้ำในตัทธิตอีก                         ทณฺฑิตฺตํ      ความเป็นแห่งคนมีไม้เท้า 
+<span class="LineNumber"> 006 </span>                                                    คามตา         ความเป็นแห่งชาวบ้าน
+<span class="LineNumber"> 007 </span>ทณฺฑิตฺตํ  เดิมเป็น  ตทัสสัตถิตัท. คามตา  เดิมเป็น  ราคาทิตัท.
+<span class="LineNumber"> 008 </span>	อนึ่ง  บางทีก็ใช้  ภาว ศัพท์  ต่อท้ายศัพท์นั้นทีเดียวก็ได้ และ
+<span class="LineNumber"> 009 </span>แปลเหมือนลงปัจจัย  เช่น ภิกฺขุภาโว  ความเป็นแห่งภิกษุ. นตฺถิภาโว
+<span class="LineNumber"> 010 </span>ความเป็นแห่ง...ไม่มี.  อตฺถิภาโว ความเป็นแห่ง... มีอยู่. เป็นต้น  แต่ที่
+<span class="LineNumber"> 011 </span>ใช้  ภาว  ศัพท์ต่อท้าย เช่นนี้เป็นรูปของสมาส  ไม่ใช่ตัทธิต.
+<span class="LineNumber"> 012 </span>                                      อัพยยตัทธิต
+<span class="LineNumber"> 013 </span>	ตัทธิตนี้มีปัจจัย  ๒ ตัว  ถา  ถํ,  สำหรับลงที่หลังสัพพนาม
+<span class="LineNumber"> 014 </span>แทน  ปการ  ศัพท์.  สัพพนามนั้น ได้แก่  ต ศัพท์  และ ย  ศัพท์  ตลอด
+<span class="LineNumber"> 015 </span>ถึงศัพท์ที่แจกตาม ย  ศัพท์นั้นได้ด้วย  ท่านแสดงวิเคราะห์ไว้
+<span class="LineNumber"> 016 </span>ในกัจจายนมูลปกรณ์  ดังนี้ :-
+<span class="LineNumber"> 017 </span>	<B>ถา  ปัจจัยลงใน  ต ศัพท์  ในวิภัตติทั้ง ๗ ดังนี้</B>
+<span class="LineNumber"> 018 </span>	ป.       โส   ปกาโร  ตถา  อ. ประการนั้น.
+<span class="LineNumber"> 019 </span>	ทุ.        ตํ   ปการํ   ตถา  ซึ่งประการนั้น.
+<span class="LineNumber"> 020 </span>	ต.         เตน  ปกเรน  ตถา  ด้วยประการนั้น.
+<span class="LineNumber"> 021 </span>	จ.          ตสฺส  ปการสฺส  ตถา  แก่ประการนั้น.
+

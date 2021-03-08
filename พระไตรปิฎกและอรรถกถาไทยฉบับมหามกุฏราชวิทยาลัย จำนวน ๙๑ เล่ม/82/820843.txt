@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๓.  นิโรธสัจจะ</H2>
+<span class="LineNumber"> 002 </span>         ธรรมที่ไม่ชื่อว่านิโรธ,  ไม่ชื่อว่าสัจจะ   ใช่ไหม  ? 
+<span class="LineNumber"> 003 </span>         ยกเว้นนิโรธเสียแล้ว   ฯ ล ฯ
+<span class="LineNumber"> 004 </span>                                     <I>จบ   นิโรธสัจจะ</I>
+
+<span class="LineNumber"> 005 </span>                                   <H2>๔.  มัคคสัจจะ</H2>
+<span class="LineNumber"> 006 </span>         ธรรมที่ไม่ชื่อว่ามรรค,  ไม่ชื่อว่าสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ยกเว้นมรรคเสียแล้ว   สัจจะที่เหลือนอกนั้นไม่ชื่อว่ามรรค   แต่ 
+<span class="LineNumber"> 008 </span>ชื่อว่าสัจจะ,       ยกเว้นมรรคและสัจจะเสียแล้ว     ธรรมที่เหลือนอกนั้น
+<span class="LineNumber"> 009 </span>ไม่ชื่อว่ามรรคและไม่ชื่อว่าสัจจะ.
+<span class="LineNumber"> 010 </span>         ธรรมที่ไม่ชื่อว่าสัจจะ,   ไม่ชื่อว่ามัคคสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>                                       <I>จบ   มัคคสัจจะ</I>
+<span class="LineNumber"> 013 </span>                               <I>สุทธสัจจวาระ  ปัจจนิก จบ</I>

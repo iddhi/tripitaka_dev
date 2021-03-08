@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่คันถธรรม  ที่เป็นนเหตุธรรม  ฯลฯ</B>   
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่โอฆธรรม   ที่เป็นนเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 003 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่โยคธรรม    ที่เป็นนเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 004 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่นีวรณธรรม ที่เป็นนเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 005 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่ปรามาสธรรม    ที่เป็นนเหตุธรรม 
+<span class="LineNumber"> 006 </span>ฯลฯ</B>
+<span class="LineNumber"> 007 </span>                               <I>นเหตุทุกฉโคจฉกทุกะ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                     <H1>นเหตุทุกมหันตรทุกะ</H1>
+<span class="LineNumber"> 009 </span>               <H2>(๑. นเหตุทุกะ  ๕๔.-๖๗. มหันตรทุกะ)</H2>
+<span class="LineNumber"> 010 </span>                                           <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 011 </span>                                            <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>           [๔๗๙]  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่สารัมมณธรรม     ที่เป็น
+<span class="LineNumber"> 014 </span>นเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 015 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่จิตตธรรม  ที่เป็นนเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 016 </span>           <B>ฯลฯ อาศัยธรรมที่ไม่ใช่เจตสิกธรรม  ที่เป็นนเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 017 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่จิตตสัมปยุตตธรรม  ที่เป็นนเหตุ-
+<span class="LineNumber"> 018 </span>ธรรม  ฯลฯ</B>  	 

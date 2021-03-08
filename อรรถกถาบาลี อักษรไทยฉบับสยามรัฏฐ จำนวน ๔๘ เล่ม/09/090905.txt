@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  ๙  หน้า  ๙๐๕
+
+<span class="LineNumber"> 002 </span>					นิคมนกถา  
+<span class="LineNumber"> 003 </span>เอตฺตาวตา  จ  
+<span class="LineNumber"> 004 </span>	อายาจิโต  สุมตินา  เถเรน  ภทนฺตพุทฺธมิตฺเตน
+<span class="LineNumber"> 005 </span>	ปุพฺเพ  มยูรทูตปฏฺฏนมฺหิ  สทฺธึ  นิวสนฺเตน ฯ  
+<span class="LineNumber"> 006 </span>	ปรวาทวิธํสนสฺส  มชฺฌิมนิกายเสฏฺ€สฺส  
+<span class="LineNumber"> 007 </span>	ยมหํ  ปปฺจสูทนิมฏฺ€กถํ  กาตุมารภึ ฯ  
+<span class="LineNumber"> 008 </span>	สา  หิ  มหาอฏฺ€กถาย  สารมาทาย  นิฏฺ€ิตา  เอสา  
+<span class="LineNumber"> 009 </span>	สตฺตุตฺตรสตมตฺตาย  ปาฬิยา  ภาณวาเรหิ ฯ  
+<span class="LineNumber"> 010 </span>	เอกูนสฏฺ€ิมตฺโต  วิสุทฺธมคฺโคปิ  ภาณวาเรหิ  
+<span class="LineNumber"> 011 </span>	อตฺถปฺปกาสนตฺถาย  อาคมานํ  กโต  ยสฺมา ฯ  
+<span class="LineNumber"> 012 </span>	ตสฺมา  เตน  สหายํ  คาถาคณนานเยน  อฏฺ€กถา  
+<span class="LineNumber"> 013 </span>	สมธิกฉสฏฺ€ิสตมิต  วิฺเยฺยา  ภาณวารานํ ฯ
+<span class="LineNumber"> 014 </span>	สมธิฉสฏฺ€ิสตปมาณมิติ  ภาณวารโต  เอสา  
+<span class="LineNumber"> 015 </span>	สมยํ  ปกาสยนฺตี มหาวิหาราธิวาสีนํ ฯ 
+<span class="LineNumber"> 016 </span>	มูลฏฺ€กถาสารํ  อาทาย  มยา  อิมํ  กโรนฺเตน  
+<span class="LineNumber"> 017 </span>	ยํ  ปุฺมุปจิตํ  เตน  โหตุ  โลโก  สทา  สุขิโตติ ฯ  
+<span class="LineNumber"> 018 </span>	ปรมวิสุทฺธสทฺธาพุทฺธิวีริยปฺปฏิมณฺฑิเตน  สีลาจารชฺชว-
+<span class="LineNumber"> 019 </span>มทฺทวาทิคุณสมุทยสมุทิเตน  สกสมยสมยนฺตรคหนชฺโฌคาหน-
+<span class="LineNumber"> 020 </span>สมตฺเถน  ปฺาเวยฺยตฺติยสมนฺนาคเตน  ติปิฏกปริยตฺติปฺปเภเท  

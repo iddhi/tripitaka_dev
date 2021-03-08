@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  240
+	
+<span class="LineNumber"> 002 </span>โส  อฺตรํ  รุกฺขมูลํ อุปคนฺตฺวา  วิเวกํ ลภิตฺวา โยนิโส 
+<span class="LineNumber"> 003 </span>มนสิกโรนฺโต วิปสฺสนํ วฑฺเฒตฺวา มคฺคปฏิปาฏิยา อรหตฺตํ 
+<span class="LineNumber"> 004 </span>ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 005 </span>		อตฺถทสฺสี ชินวโร		โลกเชฏฺโ€ นราสโภ  
+<span class="LineNumber"> 006 </span>		วิหารา อภินิกฺขมฺม	ตฬากํ อุปสงฺกมิ ฯ  
+<span class="LineNumber"> 007 </span>		นฺหายิตฺวา ปิตฺวา จ สมฺพุทฺโธ อุตฺตริเตฺวกจีวโร(๒)  
+<span class="LineNumber"> 008 </span>		อฏฺ€าสิ ภควา ตตฺถ	วิโลเกนฺโต ทิโสทิสํ ฯ
+<span class="LineNumber"> 009 </span>		ภวเน อุปวิฏฺโ€หํ		อทฺทสํ โลกนายกํ  
+<span class="LineNumber"> 010 </span>		หฏฺโ€ หฏฺเ€น จิตฺเตน	อปฺโปเฏสึ (๓) อหํ ตทา ฯ  
+<span class="LineNumber"> 011 </span>		สตรํสึว โชตนฺตํ		ปภาสนฺตํว กฺจนํ  
+<span class="LineNumber"> 012 </span>		นจฺจคีเต ปยุตฺโตหํ	ปฺจงฺคตูริยมฺหิ จ ฯ (๔)  
+<span class="LineNumber"> 013 </span>		ยํ ยํ โยนุปปชฺชามิ		เทวตฺตํ อถ มานุสํ  
+<span class="LineNumber"> 014 </span>		สพฺเพ สตฺเต อภิโภมิ	วิปุโล โหติ เม ยโส ฯ  
+<span class="LineNumber"> 015 </span>		นโม เต ปุริสาชฺ	นโม เต ปุริสุตฺตม  
+<span class="LineNumber"> 016 </span>		อตฺตานํ โตสยิตฺวาน	ปเร โตเสสิ (๕) ตฺวํ มุนิ ฯ  
+<span class="LineNumber"> 017 </span>		ปริคฺคเห(๖) นิสีทิตฺวา	หาสํ กตฺวาน สุพฺพเต (๗)  
+<span class="LineNumber"> 018 </span>		อุปฏฺ€หิตฺวา สมฺพุทฺธํ	ตุสิตํ อุปปชฺชหํ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ขุ. เอ. ๓๒/๑๑๔/๒๑๑ ฯ  ๒. สฺยา. ม. อุตฺตริเตฺวกจีวโร ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. อปฺโปเ€สึ ฯ ม. อปฺโผเฏสึ ฯ  ๔. สฺยา. ปฺจงฺคตุริเยปิจ ฯ
+<span class="LineNumber"> 021 </span># สี. ปจฺจตฺถรสตมฺหิ จ ฯ  ๕. สี. ปริโตเสสิ ฯ ๖. สฺยา. ปริคฺคหิตฺวา ฯ
+<span class="LineNumber"> 022 </span># ๗. สฺยา. สี. สุพฺพโต ฯ 

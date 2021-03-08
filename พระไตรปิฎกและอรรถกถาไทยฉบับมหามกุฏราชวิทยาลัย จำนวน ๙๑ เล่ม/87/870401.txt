@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           [๑๔๓๗] ๗.  <B>อัปปมาณธรรม เป็นปัจจัยแก่ปริตตธรรม  และ 
+<span class="LineNumber"> 002 </span>อัปปมาณธรรม  ด้วยอำนาจของอธิปติปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           มีอย่างเดียว  คือที่เป็น  <B>สหชาตาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 004 </span>           อธิปติธรรมที่เป็นอัปปมาณธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์    และ
+<span class="LineNumber"> 005 </span>จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของอธิปติปัจจัย.
+
+<span class="LineNumber"> 006 </span>                                     <H1>๔.  อนันตรปัจจัย</H1>
+<span class="LineNumber"> 007 </span>           [๑๔๓๕] ๑.  <B>ปริตตธรรม    เป็นปัจจัยแก่ปริตตธรรม  ด้วย
+<span class="LineNumber"> 008 </span>อำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  ขันธ์ทั้งหลายที่เป็นปริตตธรรมที่เกิดก่อน ๆ เป็นปัจจัยแก่ขันธ์
+<span class="LineNumber"> 010 </span>ทั้งหลายที่เกิดหลัง ๆ ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 011 </span>           อนุโลม     เป็นปัจจัยแก่โคตรภู,      อนุโลม     เป็นปัจจัยแก่โวทาน,
+<span class="LineNumber"> 012 </span>อาวัชชนะเป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นปริตตธรรม  ด้วยอำนาจของอนันตร-
+<span class="LineNumber"> 013 </span>ปัจจัย.
+<span class="LineNumber"> 014 </span>           [๑๔๓๖] ๒.  <B>ปริตตธรรม  เป็นปัจจัยแก่มหัคคตธรรม  ด้วย
+<span class="LineNumber"> 015 </span>อำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  จุติจิตที่เป็นปริตตธรรม  เป็นปัจจัยแก่อุปปัตติจิตที่เป็นมหัคคต-
+<span class="LineNumber"> 017 </span>ธรรม  ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 018 </span>           ขันธ์ทั้งหลายที่เป็นปริตตธรรม  เป็นปัจจัยแก่วุฏฐานะที่เป็นมหัคคต-
+<span class="LineNumber"> 019 </span>ธรรม.
+

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  66
+
+<span class="LineNumber"> 002 </span>โสตสมฺผสฺสปจฺจยา  นาม  ชาตา ฯ  เอวํ  ตาว  อุปนิสฺสยวเสน  
+<span class="LineNumber"> 003 </span>ลพฺภนฺติ ฯ  
+<span class="LineNumber"> 004 </span>	โสตทฺวาเร  ปน  สทฺเท  อาปาถคเตติ  สพฺพํ  จกฺขุทฺวาเร 
+<span class="LineNumber"> 005 </span>วุตฺตนเยเนว  เวทิตพฺพํ ฯ เอวํ สทฺทารมฺมเณ อุปฺปนฺนํ กิเลสํ 
+<span class="LineNumber"> 006 </span>สมติกฺกมิตฺวา คตาติ จตุภูมิกเวทนา  โสตสมฺผสฺสปจฺจยา นาม 
+<span class="LineNumber"> 007 </span>ชาตา ฯ เอวํ สมติกฺกมวเสน ลพฺภนฺติ ฯ  
+<span class="LineNumber"> 008 </span>	โสตทฺวาเร  ปน  สทฺเท  อาปาถคเต  เอโก  เอวํ  
+<span class="LineNumber"> 009 </span>ปริคฺคหํ  ปฏฺ€เปติ  อยํ  สทฺโท  กินฺนิสฺสิโตติ  สพฺพํ  จกฺขุทฺวาเร
+<span class="LineNumber"> 010 </span>วุตฺตนเยเนว  เวทิตพฺพํ ฯ เอวํ  สทฺทารมฺมณํ  สมฺมสิตฺวา 
+<span class="LineNumber"> 011 </span>นิพฺพตฺติตาติ  อยํ  เวทนา  โสตสมฺผสฺสปจฺจยา  นาม  ชาตา ฯ
+<span class="LineNumber"> 012 </span>เอวํ ภาวนาวเสน ลพฺภนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	ฆานชิวฺหากายทฺวาเรสุ  ปน  คนฺธารมฺมณาทีสุ  อาปาถคเตสุ 
+<span class="LineNumber"> 014 </span>อิฏฺเ€  เม  อารมฺมเณ  ราโค  อุปฺปนฺโนติ  สพฺพํ  จกฺขุทฺวาเร
+<span class="LineNumber"> 015 </span>วุตฺตนเยเนว  เวทิตพฺพํ ฯ  เอวํ  คนฺธารมฺมณาทีสุ  อุปฺปนฺนํ  
+<span class="LineNumber"> 016 </span>กิเลสํ  สมติกฺกมิตฺวา  คตาติ  จตุภูมิกเวทนา  ฆานชิวฺหากาย-
+<span class="LineNumber"> 017 </span>สมฺผสฺสปจฺจยา  นาม  ชาตา ฯ  เอวํ  ตีสุ  ทฺวาเรสุ  สมติกฺกมวเสน  
+<span class="LineNumber"> 018 </span>ลพฺภนฺติ ฯ  
+<span class="LineNumber"> 019 </span>	ฆานทฺวาราทีสุ  ปน  คนฺธาทีสุ  อาปาถคเตสุ  เอโก  เอวํ  
+<span class="LineNumber"> 020 </span>ปริคฺคหํ  ปฏฺ€เปติ  อยํ  คนฺโธ  อยํ  รโส  อิทํ  โผฏฺ€พฺพํ 
+<span class="LineNumber"> 021 </span>กินฺนิสฺสิตนฺติ  สพฺพํ  จกฺขุทฺวาเร  วุตฺตนเยเนว  เวทิตพฺพํ ฯ  เอวํ  
+<span class="LineNumber"> 022 </span>คนฺธารมฺมณาทีนิ  สมฺมสิตฺวา  นิพฺพตฺติตาติ  อยํ  เวทนา

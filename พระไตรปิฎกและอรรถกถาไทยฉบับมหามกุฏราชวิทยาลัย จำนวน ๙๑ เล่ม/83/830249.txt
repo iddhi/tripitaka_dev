@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>            <H1>กามราคานุสย - ปฏิฆนุสย - มานานุสย - ทิฏฐานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>จตุกกมูลกะ - กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐา-
+<span class="LineNumber"> 003 </span>                     นุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๓๔๐]  บุคคลไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย  ปฏิ-
+<span class="LineNumber"> 005 </span>ฆานุสัย  มานานุสัย  และปิฏฐานุสัย   จากที่ใด    ก็ไม่มีความนอนเนื่อง
+<span class="LineNumber"> 006 </span>อยู่ด้วยวิจิกิจฉานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   บุคคลไม่มีความนอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย   จาก
+<span class="LineNumber"> 009 </span>ที่ใด.   ก็ไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย   ปฏิฆานุสัย   มานา-
+<span class="LineNumber"> 010 </span>นุสัย   และทิฏฐานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่   ฯลฯ
+<span class="LineNumber"> 012 </span>       <I>จบ   กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสยมูละ
+<span class="LineNumber"> 013 </span>                                         วิจิกิจฉานุสยมูลี</I>
+<span class="LineNumber"> 014 </span>       <I>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสยมูล  จบ</I>
+<span class="LineNumber"> 015 </span>                                        <I>จตุกกมูลกะ  จบ</I>

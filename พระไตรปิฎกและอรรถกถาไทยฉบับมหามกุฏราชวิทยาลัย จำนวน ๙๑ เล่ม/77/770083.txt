@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                               <H1>อภิธรรมภาชนีย์</H1>
+<span class="LineNumber"> 002 </span>         [๓๒]   <B>ขันธ์  ๕  คือ</B> 
+<span class="LineNumber"> 003 </span>                         <B>๑.  รูปขันธ์</B>
+<span class="LineNumber"> 004 </span>                         <B>๒.  เวทนาขันธ์</B>   
+<span class="LineNumber"> 005 </span>                         <B>๓.  สัญญาขันธ์</B>
+<span class="LineNumber"> 006 </span>                         <B>๔.  สังขารขันธ์</B>
+<span class="LineNumber"> 007 </span>                         <B>๕.  วิญญาณขันธ์</B>
+
+<span class="LineNumber"> 008 </span>                                                    <H1>รูปขันธ์</H1>
+<span class="LineNumber"> 009 </span>         ในขันธ์  ๕  นั้น  <B>รูปขันธ์</B>  เป็นไฉน ?
+<span class="LineNumber"> 010 </span>         [๓๓]   รูปขันธ์หมวดละ ๑ คือ  <B>รูปทั้งหมด</B>  เป็นเหตุเป็นอเหตุกะ
+<span class="LineNumber"> 011 </span>เป็นเหตุวิปปยุต   เป็นสัปปัจจยะ  เป็นสังขตะ  เป็นรูปเป็นโลกิยะ  เป็นสาสวะ
+<span class="LineNumber"> 012 </span>เป็นสัญโญชนิยะ  เป็นคันถนิยะ   เป็นโอฆนิยะ   เป็นโยคนิยะ   เป็นนีวรณิยะ
+<span class="LineNumber"> 013 </span>เป็นปรามัฏฐะ  เป็นอุปาทานิยะ  เป็นสังกิเลสิกะ เป็นอัพยากฤต  เป็นอนารัมมณะ
+<span class="LineNumber"> 014 </span>เป็นอเจตสิก  เป็นจิตตวิปปยุต   เป็นเนววิปากนวิปากธัมมธรรม   เป็นอสังกิลิฏฐ-
+<span class="LineNumber"> 015 </span>สังกิเลสิกะ    เป็นนสวิตักกสวิจาระ    เป็นนอวิตักกวิจารมัตตะ   เป็นอวิตักกอ-
+<span class="LineNumber"> 016 </span>วิจาระ    เป็นนปีติสหคตะ    เป็นนสุขสหคตะ    เป็นนอุเปกขาสหคตะ   เป็น
+<span class="LineNumber"> 017 </span>เนวทัสสนนภาวนาปหาตัพพะ    เป็นเนวทัสสนนภาวนาปหาตัพพเหตุกะ  เป็น
+<span class="LineNumber"> 018 </span>เนวาจยคามินาปจยคามี   เป็นเนวเสกขนาเสกขะ   เป็นปริตตะ   เป็นกามาวจร
+<span class="LineNumber"> 019 </span>เป็นนรูปาวจร  เป็นนอรูปาวจร  เป็นปริยาปันนะ  เป็นนอปริยาปันนะ   เป็น

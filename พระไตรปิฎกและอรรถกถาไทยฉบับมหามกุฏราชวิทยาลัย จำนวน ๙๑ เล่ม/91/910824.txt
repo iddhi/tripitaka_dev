@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                       ๘.  <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม    ที่ไม่ใช่ 
+<span class="LineNumber"> 002 </span>อกุศล   อาศัยอนิทัสสนอัปปฏิฆธรรม   ที่เป็นอัพยากตะ    เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 004 </span>                       ๙.  <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม    ที่ไม่ใช่
+<span class="LineNumber"> 005 </span>กุศล   และธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม ที่ไม่ใช่อกุศล  อาศัย
+<span class="LineNumber"> 006 </span>อนิทัสสนอัปปฏิฆธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                      ๑๐.  <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม    ที่ไม่ใช่
+<span class="LineNumber"> 009 </span>กุศล    อาศัยอนิทัสสนอัปปฏิฆธรรม   ที่เป็นกุศล    และอนิทัสสน-
+<span class="LineNumber"> 010 </span>อัปปฏิฆธรรม ที่เป็นอัพยากตะ   เกิดขึ้น เพราะเหตุปัจจัย</B>   มี ๓ วาระ
+<span class="LineNumber"> 011 </span>(วาระที่ ๑๐-๑๑-๑๒)
+<span class="LineNumber"> 012 </span>                      ๑๓.  <B>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 013 </span>กุศล      อาศัยอนิทัสสนอัปปฏิฆธรรม  ที่เป็นอกุศล   และอนิทัสสน-
+<span class="LineNumber"> 014 </span>อัปปฏิฆธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓ วาระ
+<span class="LineNumber"> 015 </span>(วาระที่  ๑๓-๑๔-๑๕)
+
+<span class="LineNumber"> 016 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 017 </span>           [๘๓๕]  ในเหตุปัจจัย มี ๑๕  วาระ  ฯลฯ
+<span class="LineNumber"> 018 </span>            <I>กุสลติกสนิทัสสนติกนกุสลติกนสนิสทัสสนติกะ  จบ</I>

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๑๐.   อาเสวนปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ    ไม่ใช่เพราะอาเสวนปัจจัย</B>  มี ๙ วาระ.
+
+<span class="LineNumber"> 003 </span>                                 <H1>๑๑.  นกัมมปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๓๗๑] ๑.  <B>อาสวสัมปยุตตธรรม   อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  สัมปยุตตเจตนา  อาศัยขันธ์ทั้งหลายที่เป็นอาสวสัมปยุตตธรรม.
+<span class="LineNumber"> 007 </span>                       ๒.  <B>อาสววิปปยุตตธรรม     อาศัยอาสววิปปยุตตธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  วิปปยุตตเจตนา  อาศัยขันธ์ทั้งหลายที่เป็นอาสววิปปยุตธรรม.
+<span class="LineNumber"> 010 </span>                       ๓.  <B>อาสวสัมปยุตตธรรม    อาศัยอาสววิปปยุตตธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  สัมปยุตตเจตนา  อาศัยโมหะ   ที่สหรคตด้วยโทมนัส  ที่สหรคต
+<span class="LineNumber"> 013 </span>ด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 014 </span>                       ๔.  <B>อาสวสัมปยุตตธรรม   อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 015 </span>และอาสววิปปยุตตธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ   สัมปยุตตเจตนา    อาศัยขันธ์ทั้งหลายที่สหรคตด้วยโทมนัส   ที่
+<span class="LineNumber"> 017 </span>สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  และโมหะ.

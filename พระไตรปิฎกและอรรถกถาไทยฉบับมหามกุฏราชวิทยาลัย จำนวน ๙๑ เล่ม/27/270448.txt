@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>๗.  อนัตตสูตร</H1>   
+
+<span class="LineNumber"> 002 </span>           [๓๙๕]   ดูก่อนราธะ  สิ่งใดแลเป็นอนัตตา  ฯลฯ.
+<span class="LineNumber"> 003 </span>                                        <I>จบ  อนัตตสูตร</I>
+
+<span class="LineNumber"> 004 </span>                   <H1>๘.  อนัตตธรรมสูตร</H1>
+
+<span class="LineNumber"> 005 </span>           [๓๙๖]   ดูก่อนราธะ  สิ่งใดแลเป็นอนัตตธรรม  ฯลฯ.
+<span class="LineNumber"> 006 </span>                                    <I>จบ  อนัตตธรรมสูตร</I>
+
+<span class="LineNumber"> 007 </span>                          <H1>๙.  ขยธรรมสูตร</H1>
+
+<span class="LineNumber"> 008 </span>           [๓๙๗]    ดูก่อนราธะ  สิ่งใดแลเป็นขยธรรม  ฯลฯ.
+<span class="LineNumber"> 009 </span>                                       <I>จบ  ขยธรรมสูตร</I>
+
+<span class="LineNumber"> 010 </span>                          <H1>๑๐.  วยธรรมสูตร</H1>
+
+<span class="LineNumber"> 011 </span>           [๓๙๘]   ดูก่อนราธะ  สิ่งใดแลเป็นวยธรรม  ฯลฯ.
+<span class="LineNumber"> 012 </span>                                          <I>จบ  วยธรรมสูตร</I>
+
+<span class="LineNumber"> 013 </span>                      <H1>๑๑.  สมุทยธรรมสูตร</H1>
+
+<span class="LineNumber"> 014 </span>           [๓๙๙]   ดูก่อนราธะ  สิ่งใดแลเป็นสมุทยธรรม  ฯลฯ.
+<span class="LineNumber"> 015 </span>                                       <I>จบ    สมุทยธรรมสูตร</I>
+
+<span class="LineNumber"> 016 </span>                            <H1>๑๒. นิโรธธรรมสูตร</H1>
+
+<span class="LineNumber"> 017 </span>        <H2>ว่าด้วยการละความพอใจ  ในสิ่งที่มีความดับ</H2>
+<span class="LineNumber"> 018 </span>           [๔๐๐]   กรุงสาวัตถี.     ครั้งนั้นแล     <B>ท่านพระราธะ</B>ได้เข้าไปเฝ้า

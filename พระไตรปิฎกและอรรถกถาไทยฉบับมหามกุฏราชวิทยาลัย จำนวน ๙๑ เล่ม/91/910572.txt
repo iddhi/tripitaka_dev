@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อัพยากตะ ที่ไม่ใช่สรณธรรม อาศัย 
+<span class="LineNumber"> 002 </span>ธรรมที่เป็นอัพยากตะ  ที่เป็นอรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+
+<span class="LineNumber"> 003 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 004 </span>           [๓๑๖] <B>ในเหตุปัจจัย  มี ๒ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 005 </span>           สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.</B>
+
+<span class="LineNumber"> 006 </span>                                        <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 007 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                   <H2>๑. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 009 </span>                                         <H2>อัพยากตบท</H2>
+<span class="LineNumber"> 010 </span>           [๓๑๗] ๑.  <B>ธรรมที่เป็นอัพยากตะ  ที่เป็นอรณธรรม  เป็นปัจจัย
+<span class="LineNumber"> 011 </span>แก่ธรรมที่ไม่ใช่อัพยากตะ     ที่ไม่ใช่อรณธรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 012 </span>อารัมมณปัจจัย</B>
+<span class="LineNumber"> 013 </span>                       ๒.  <B>ธรรมที่เป็นอัพยากตะ  ที่เป็นอรณธรรม  เป็นปัจจัย
+<span class="LineNumber"> 014 </span>แก่ธรรมที่ไม่ใช่อัพยากตะ     ที่ไม่ใช่สรณธรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>อารัมมณปัจจัย</B>

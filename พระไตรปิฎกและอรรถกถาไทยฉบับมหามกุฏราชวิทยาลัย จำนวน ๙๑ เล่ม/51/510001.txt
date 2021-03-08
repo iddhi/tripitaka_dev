@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>	               <H2>พระสุตตันตปิฎก</H2> 
+<span class="LineNumber"> 002 </span>                           <H1>ขุททกนิกาย     เถรคาถา</H1>
+<span class="LineNumber"> 003 </span>                                <H3>เล่มที่  ๒    ภาคที่  ๓</H3>
+<span class="LineNumber"> 004 </span>                                         <H3>ตอนที่   ๒</H3>             	
+<span class="LineNumber"> 005 </span>  <H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+
+<span class="LineNumber"> 006 </span>	                   <H2>ทุกนิบาต</H2>
+<span class="LineNumber"> 007 </span>                      <H2>เถรคาถา  ทุกนิบาต  วรรคที่  ๑</H2>
+
+<span class="LineNumber"> 008 </span>                                 <H1>๑. อุตตรเถรคาถา</H1>
+<span class="LineNumber"> 009 </span>                  <H1>ว่าด้วยคาถาของพระอุตตรเถระ</H1>
+<span class="LineNumber"> 010 </span>         [๒๕๘]  ได้ยินว่า  พระอุตตรเถระได้ภาษิตคาถานี้ไว้  อย่างนี้ว่า
+<span class="LineNumber"> 011 </span>                  <B>ภพอะไรที่เที่ยงไม่มี      แม้สังขารที่เที่ยงก็ไม่มี
+<span class="LineNumber"> 012 </span>       ขันธ์เหล่านั้น  ย่อมเวียนเกิดและเวียนดับไป  เรารู้โทษ
+<span class="LineNumber"> 013 </span>       อย่างนี้แล้ว  จึงไม่มีความต้องการด้วยภพ  เราสลัดตน
+<span class="LineNumber"> 014 </span>       ออกจากกามทั้งปวง  บรรลุถึงความสิ้นอาสวะแล้ว.</B>

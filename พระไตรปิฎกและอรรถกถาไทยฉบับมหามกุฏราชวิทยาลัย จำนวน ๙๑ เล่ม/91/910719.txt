@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 002 </span>           [๕๗๑]  ในเหตุปัจจัย  มี  ๖  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>      <I>สนิทัสสนติกโลกิยทุกนสทัสสนติกนโลกิยทุกะ  จบ</I> 
+
+<span class="LineNumber"> 004 </span>                          <H1>สนิทัสสนติกเกนจิวิญเญยยทุกะ</H1>
+<span class="LineNumber"> 005 </span>                       <H1>นสนิทัสสนติกนเกนจิวิญเญยยทุกะ</H1>	
+<span class="LineNumber"> 006 </span><H2>(๒๒.  สนิทัสสนติกะ  ๑๓.  เกนจิวิญเญยยทุกะ)</H2>	
+<span class="LineNumber"> 007 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 008 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>                                   <H2>เกนจิวิญเญยยบท</H2>
+<span class="LineNumber"> 011 </span>           [๕๗๒] ๑.  <B>ธรรมที่ไม่ใช่เกนจิวิญเญยยธรรม  ที่ไม่ใช่อนิ-
+<span class="LineNumber"> 012 </span>ทัสสนสัปปฏิฆธรรม  อาศัยเกนจิวิญเญยยธรรม  ที่เป็นอนิทัสสน-
+<span class="LineNumber"> 013 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                       ๒.  <B>ธรรมที่ไม่ใช่เกนจิวิญเญยยธรรม  ที่ไม่ใช่สนิ-
+<span class="LineNumber"> 015 </span>ทัสสนสัปปฏิธรรม  อาศัยเกนจิวิญเญยยธรรม  ที่เป็นอนิทัสสน-
+<span class="LineNumber"> 016 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>

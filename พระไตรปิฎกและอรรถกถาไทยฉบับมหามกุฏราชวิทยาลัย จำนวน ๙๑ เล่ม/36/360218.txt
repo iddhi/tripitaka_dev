@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>	              <H1>กกุธวรรคที่  ๕</H1>  
+<span class="LineNumber"> 002 </span>                            <H1>๑. ปฐมสัมปทาสูตร</H1>
+<span class="LineNumber"> 003 </span>                                <H1>ว่าด้วยสัมปทา ๕</H1>
+<span class="LineNumber"> 004 </span>          [๙๑]   ดูก่อนภิกษุทั้งหลาย  สัมปทา  ๕  ประการนี้  ๕  ประการเป็นไฉน
+<span class="LineNumber"> 005 </span>คือ  <B>สัทธาสัมปทา  สีลสัมปทา   สุตสัมปทา  จาคสัมปทา  ปัญญา-
+<span class="LineNumber"> 006 </span>สัมปทา</B>  ดูก่อนภิกษุทั้งหลาย  สัมปทา ๕ ประการนี้แล.
+<span class="LineNumber"> 007 </span>	                 <I>จบปฐมสัมปทาสูตรที่ ๑</I>
+<span class="LineNumber"> 008 </span>	 <H1>กกุธวรรควรรณนาที่  ๕</H1>
+<span class="LineNumber"> 009 </span>               <H1>อรรถกถาปฐมสัมปทาสูตร</H1>          
+<span class="LineNumber"> 010 </span>          <B>วรรคที่  ๕   สัมปทาสูตรที่  ๑</B>  ท่านกล่าวสัมปทา ๕ เจือกัน.
+<span class="LineNumber"> 011 </span>	            <I>จบอรรถกถาสัมปทาสูตรที่ ๑</I>

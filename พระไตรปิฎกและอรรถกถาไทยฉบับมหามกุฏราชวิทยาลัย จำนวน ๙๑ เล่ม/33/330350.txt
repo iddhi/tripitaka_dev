@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>สูตร<SUP>๑</SUP>ที่  ๕</H1>
+
+<span class="LineNumber"> 002 </span>      <H4>ว่าด้วยคติ ๒ อย่างของผู้มีการงานลามกและไม่ลามก</H4>
+
+<span class="LineNumber"> 003 </span>         [๒๗๐] ๒๕.  ดูก่อนภิกษุทั้งหลาย  คติ ๒  อย่าง  คือ  นรกหรือ
+<span class="LineNumber"> 004 </span>กำเนิดสัตว์ดิรัจฉานอย่างใดอย่างหนึ่ง        อันผู้มีการงานลามกพึงหวังได้
+<span class="LineNumber"> 005 </span>ดูก่อนภิกษุทั้งหลาย  คติ  ๒ อย่าง  คือเทวดาหรือมนุษย์อย่างใดอย่างหนึ่ง
+<span class="LineNumber"> 006 </span>อันผู้มีการงานไม่ลามกพึงหวังได้.
+<span class="LineNumber"> 007 </span>                                                จบสูตรที่  ๕          
+
+<span class="LineNumber"> 008 </span>               <H1>อรรถกถ<SUP>๒</SUP>าสูตรที่  ๖</H1>
+
+<span class="LineNumber"> 009 </span>         ใน<B>สูตรที่  ๖</B>  (บาลีข้อ ๒๗๑)  มีวินิจฉัยดัง        	
+<span class="LineNumber"> 010 </span>         บทว่า  <B>ปฏิจฺฉนฺนกมฺมนฺตสฺส</B>  ได้แก่  ผู้มีการกระทำอันเป็นบาป.
+<span class="LineNumber"> 011 </span>เพราะคนทั้งหลายย่อมทำบาปโดยอาการปกปิด     แม้หากทำโดยอาการไม่
+<span class="LineNumber"> 012 </span>ปกปิด  บาปกรรมก็ได้ชื่อว่า  กรรมอันปกปิดอยู่นั่นเอง.    บทว่า  <B>นิรโย</B>
+<span class="LineNumber"> 013 </span>ได้แก่   ขันธ์พร้อมทั้งโอกาส  และขันธ์ในกำเนิดดิรัจฉาน.
+<span class="LineNumber"> 014 </span>                                           จบอรรถกถาสูตรที่  ๖
+
+<span class="LineNumber"> 015 </span>		 <H1>สูตร<SUP>๓</SUP>ที่  ๖</H1>
+
+<span class="LineNumber"> 016 </span>      <H4>ว่าด้วยคติ  ๒  อย่างที่คนมิจฉาทิฏฐิและสัมมาทิฏฐิพึงหวังได้</H4>
+
+<span class="LineNumber"> 017 </span>         [๒๗๒]  ๒๖.  ดูก่อนภิกษุทั้งหลาย  คติ  ๒  อย่าง  คือ  นรกหรือ
+<span class="LineNumber"> 018 </span>กำเนิดสัตว์ดิรัจฉานอย่างใดอย่างหนึ่ง  อันคนมิจฉาทิฏฐิพึงหวังได้   ดูก่อน
+
+<span class='footnote'>๑.  อรรถกถาเป็นสูตรที่  ๖  แต่แก้บาลีสูตรที่  ๕ (ข้อ ๒๗๑)</span>
+<span class='footnote'>๒.  พระสูตรเป็นสูตรที่  ๕.</span>
+<span class='footnote'>๓.  บาลีเป็นสูตรที่  ๖  แต่อรรถกถาเป็นสูตรที่ ๗-๘.</span>

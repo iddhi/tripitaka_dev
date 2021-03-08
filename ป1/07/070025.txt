@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	เป็น                       เช่น         ธมฺมํ=จเร       เป็น           ธมฺมญฺจเร 
+<span class="LineNumber"> 002 </span>                                                         สํ=ฉวิ              "               สญฺฉวิ 
+<span class="LineNumber"> 003 </span>                                                          สํ=ชโย            "               สญฺชโย
+<span class="LineNumber"> 004 </span>                                                          สํ=าณํ         "                สญฺาณํ
+<span class="LineNumber"> 005 </span>	เป็น            ณ              เช่น        สํ=€ิติ              "                สณฺ€ิติ
+<span class="LineNumber"> 006 </span>	เป็น             น              เช่น         สํ=ตุฏฺ€ี           "                สนฺตุฏฺ€ี
+<span class="LineNumber"> 007 </span>                                                           สํ=ถตํ              "                สนฺถตํ
+<span class="LineNumber"> 008 </span>                                                           สํ=นิฏฺ€ํ            "                สนฺนิฏฺ€ํ
+<span class="LineNumber"> 009 </span>                                                           สํ=ธาเรสุ          "                สนฺธเรสุ
+<span class="LineNumber"> 010 </span>                                                           สํ=นิปาโต         "                สนฺนิปาโต
+<span class="LineNumber"> 011 </span>	เป็น                ม             เช่น        จิรํ=ปวาสึ         "                จิรมฺปวาสึ
+<span class="LineNumber"> 012 </span>                                                             สํ=ผสฺโส          "                สมฺผสฺโส
+<span class="LineNumber"> 013 </span>                                                              สํ=พหุลา         "                สมฺพหุลา
+<span class="LineNumber"> 014 </span>                                                               สํ=ภญฺชมานา "                สมฺภญฺชมานา
+<span class="LineNumber"> 015 </span>                                                               สํ=มุขา             "               สมฺมุขา.
+<span class="LineNumber"> 016 </span>	ข.  ถ้า เอ  และ ห  อยู่เบื้องหลัง  แปลงนิคคหิตเป็น  เช่น
+<span class="LineNumber"> 017 </span>ปจฺจตฺตํ=เอว  เป็น ปจฺจตฺตญฺเว, ตํ= เอว เป็น ตญฺเว,  เอวํ=หิ
+<span class="LineNumber"> 018 </span>เป็น เอวญฺหิ, ตํ=หิ  เป็น  ตญฺหิ.
+<span class="LineNumber"> 019 </span>	ค.  ถ้า ย  อยู่เบื้องหลังแปลงนิคคหิตกับ ย เป็น  เช่น
+<span class="LineNumber"> 020 </span>สํ=โยโค  เป็น   สญฺโโค.
+<span class="LineNumber"> 021 </span>	ฆ.  ในสัททนีติว่า ถ้า ล อยู่เบื้องหลัง  แปลงนิคคหิตเป็น ล เช่น
+    

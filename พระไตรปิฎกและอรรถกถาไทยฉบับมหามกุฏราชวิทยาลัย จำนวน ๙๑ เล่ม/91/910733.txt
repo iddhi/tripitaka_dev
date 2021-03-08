@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>สนิทัสสนติกฉโคฉกทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                      <H1>นสนิทัสสนติกนฉโคฉกทุกะ</H1>  
+<span class="LineNumber"> 003 </span> <H2>(๒๒.  สนิทัสสนติกะ  ๒๐.   ๕๔. ฉโคจฉกทุกะ)</H2>
+<span class="LineNumber"> 004 </span>                                 <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                <H2>สัญโญชนบท</H2>
+<span class="LineNumber"> 008 </span>           [๖๐๐] ๑.  <B>ธรรมที่ไม่ใช่สัญโญชนธรรม   ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 009 </span>อัปปฏิฆธรรม  อาศัยสัญโญชนธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 011 </span>                                      <H2>คันถบท</H2>	
+<span class="LineNumber"> 012 </span>                       ๑.  <B>ธรรมที่ไม่ใช่คันถธรรม    ที่ไม่ใช่อนิทัสสนอัป-
+<span class="LineNumber"> 013 </span>ปฏิฆธรรม  อาศัยคันถธรรม ที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น
+<span class="LineNumber"> 014 </span>เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 015 </span>                                        <H2>โอฆบท</H2>
+<span class="LineNumber"> 016 </span>                       ๑.  <B>ธรรมที่ไม่ใช่โอฆธรรม  ที่ไม่ใช่อนิทัสสนอัป-
+<span class="LineNumber"> 017 </span>ปฏิฆธรรม  อาศัยโอฆธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะเหตุปัจจัย</B>

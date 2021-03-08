@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๑๔. วิปากปัจจัย</H1><SUP>๑</SUP>
+<span class="LineNumber"> 002 </span> <B>[๕๗๒]  อัพยากตธรรม   เป็นปัจจัยแก่อัพยากตธรรม  ด้วยอำนาจ 
+<span class="LineNumber"> 003 </span>ของวิปากปัจจัย</B>  
+<span class="LineNumber"> 004 </span>           คือ  ขันธ์ ๑ ที่เป็นอัพยากตวิบาก เป็นปัจจัยแก่ขันธ์ ๓  และจิตต-
+<span class="LineNumber"> 005 </span>สมุฏฐานรูป  ด้วยอำนาจของวิปากปัจจัย,   ขันธ์ ๓ เป็นปัจจัยแก่ขันธ์ ๑ 
+<span class="LineNumber"> 006 </span>และจิตตสมุฏฐานรูป   ขันธ์ ์๒ เป็นปัจจัยแก่ขันธ์ ๒ และจิตตสมุฏฐานรูป
+<span class="LineNumber"> 007 </span>ด้วยอำนาจของวิปากปัจจัย.
+<span class="LineNumber"> 008 </span>           <B>ในปฏิสนธิขณะ</B>     ขันธ์ ๑ ที่เป็นอัพยากตวิบาก     เป็นปัจจัยแก่
+<span class="LineNumber"> 009 </span>ขันธ์ ๓   และกฏัตตารูป   ด้วยอำนาจของวิปากปัจจัย.   ขันธ์ ๓ เป็นปัจจัย
+<span class="LineNumber"> 010 </span>แกขันธ์  ๑    และกฏัตตารูป    ด้วยอำนาจของวิปากปัจจัย,    ขันธ์ ๒ เป็น
+<span class="LineNumber"> 011 </span>ปัจจัย แก่ขันธ์ ๒   และกฏัตตารูป   ด้วยอำนาจของวิปากปัจจัย.
+<span class="LineNumber"> 012 </span>           ขันธ์ทั้งหลายเป็นปัจจัยแก่หทยวัตถุ   ด้วยอำนาจของวิปากปัจจัย.
+
+<span class="LineNumber"> 013 </span>                                 <H1>๑๕. อาหารปัจจัย</H1>
+<span class="LineNumber"> 014 </span> <B>[๕๗๓]  ๑.  กุศลธรรม  เป็นปัจจัยแก่กุศลธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>อาหารปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ อาหารที่เป็นกุศล    เป็นปัจจัยแก่สัมปยุตตขันธ์     ด้วยอำนาจ
+<span class="LineNumber"> 017 </span>ของอาหารปัจจัย.
+<span class="LineNumber"> 018 </span> <B>[๕๗๔]  ๒.  กุศลธรรม  เป็นปัจจัยแก่อัพยากตธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 019 </span>ของอาหารปัจจัย</B>
+<span class='footnote'>๑.  ไม่มีอรรถกถาแก้.</span>

@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                          <H2>รวมชาดกที่มีในวรรคนี้  คือ :-</H2>
+<span class="LineNumber"> 002 </span>         ๑.  คันธารชาดก     ๒.   มหากบี่ชาดก     ๓.   กุมภการชาดก
+<span class="LineNumber"> 003 </span>๔. ทัฬหธัมมชาดก  ๕. โสมทัตตชาดก ๖.  สุสีมชาดก  ๗. โกฏสิมพลิ
+<span class="LineNumber"> 004 </span>ชาดก    ๘.  ธูมการิชาดก    ๙.  ชาครชาดก     ๑๐.  กุมมาสปิณฑชาดก
+<span class="LineNumber"> 005 </span>๑๑. ปรันตปชาดก. 
+<span class="LineNumber"> 006 </span>                             <I>จบ  คันธารวรรคที่  ๒</I>
+
+<span class="LineNumber"> 007 </span>                    <H2>รวมวรรคที่มีในสัตตกนิบาต  คือ :-</H2>
+<span class="LineNumber"> 008 </span>         ๑.  กุกกุวรรค   ๒.   คันธารวรรค
+<span class="LineNumber"> 009 </span>                                 <I>จบ  สัตตกนิบาต</I>

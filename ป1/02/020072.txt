@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ทุ.	เทฺว				ทุ.	อุโภ    
+<span class="LineNumber"> 002 </span>ต.	ทฺวีหิ				ต.	อุโภหิ
+<span class="LineNumber"> 003 </span>จ.	ทฺวินฺนํ			จ.	อุภินฺนํ
+<span class="LineNumber"> 004 </span>ปญฺ.	ทฺวีหิ				ปญฺ.	อุโภหิ
+<span class="LineNumber"> 005 </span>ฉ.	ทิวินฺนํ			ฉ.	อุภินฺนํ
+<span class="LineNumber"> 006 </span>ส.	ทฺวีสุ				ส.	อุโภสุ
+<span class="LineNumber"> 007 </span>                      วิธีเปลี่ยนวิภัตติ  และ  การันต์
+<span class="LineNumber"> 008 </span>๑  เอา  ทฺวิ  กับ  โย  เป็น  เทฺว  ทุเว<SUP>๑</SUP>.
+<span class="LineNumber"> 009 </span>๒  ใน  อุภ  ศัพท์  เอา  โย  เป็น  โอ.
+<span class="LineNumber"> 010 </span>๓  หิ  สุ  วิภัตติ  อยู่หลัง  เอา  อ  ที่สุด  แห่ง  อุภ  เป็น  โอ.
+<span class="LineNumber"> 011 </span>๔  ซ้อน  นฺ  หน้า  นํ  วิภัตติ  เอา  อ  ที่สุด  แห่ง  อุภ  เป็น  อิ  เอา
+<span class="LineNumber"> 012 </span>     ทฺวินฺนํ  เป็น  ทุวินฺนํ  บ้างก็ได้.
+
+<span class="LineNumber"> 013 </span>                        [๗๗]  ติ  ศัพท์  แจกอย่างนี้ :-
+<span class="LineNumber"> 014 </span>------------------------------------------------------------------------------
+<span class="LineNumber"> 015 </span>		ปุํลิงคื				อิตถีลิงค์
+<span class="LineNumber"> 016 </span>		 พหุ.					    พหุ.
+<span class="LineNumber"> 017 </span>ป.  	ตโย					ป.	ติสฺโส
+<span class="LineNumber"> 018 </span>ทุ.	ตโย					ทุ.	ติสฺโส
+<span class="LineNumber"> 019 </span>ต.	ตีหิ					ต.	ตีหิ
+<span class="LineNumber"> 020 </span>จ.	ติณฺณํ   ติณฺณนฺนํ		จ.	ติสฺสนฺนํ
+
+<span class='footnote'>๑.  คือ  ป.  ทุ.  เป็น  ทุเว  บ้าง  ก็ได้.</span>

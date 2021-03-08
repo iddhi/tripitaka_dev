@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                        ป. ถูกแล้ว. 
+<span class="LineNumber"> 002 </span>                        ส. ผัสสะ  ๓ คือ  สุญญตผัสสะ  อนิมิตตผัสสะ   อัปปณิหิต
+<span class="LineNumber"> 003 </span>ผัสสะ  ย่อมถูกต้อง   ผู้ที่ออกจากอสังขตะแล้ว หรือ ?
+<span class="LineNumber"> 004 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 005 </span>         [๑๑๐๒]  ส. จิตของผู้ที่ออกจากนิโรธแล้ว    เป็นธรรมชาติโน้มไป
+<span class="LineNumber"> 006 </span>สู่วิเวก  เอียงไปสู่วิเวก  น้อมไปสู่วิเวก หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                        ส. จิตของผู้ที่ออกจากอสังขตะแล้ว   ก็เป็นธรรมชาติโน้ม
+<span class="LineNumber"> 009 </span>ไปสู่วิเวก  เอียงไปสู่วิเวก น้อมไปสู่วิเวก หรือ ?
+<span class="LineNumber"> 010 </span>                        ส. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 011 </span>         [๑๑๐๓]  ป. ไม่พึงกล่าวว่า นิโรธสมาบัติเป็นอสังขตะ หรือ ?
+<span class="LineNumber"> 012 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                        ป. นิโรธสมาบัติเป็นสังขตะหรือ ?
+<span class="LineNumber"> 014 </span>                        ส. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 015 </span>                        ป. ถ้าอย่างนั้น   นิโรธสมาบัติก็เป็นอสังขตะ น่ะสิ.
+<span class="LineNumber"> 016 </span>                                  <I>นิโรธสมาปัตติกถา  จบ</I>

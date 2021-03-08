@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                   ๖.  <B>เนวทัสสเนนนภาวนายปหาตัพพธรรม อาศัยธรรม 
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่ภาวนายปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓ วาระ.
+<span class="LineNumber"> 003 </span>                   ๙.  <B>เนวทัสสเนนนภาวนายปหาตัพพธรรม อาศัยธรรม
+<span class="LineNumber"> 004 </span>ที่ไม่ใช่เนวทัสสเนนนภาวนายปหาตัพพธรรม   เกิดขึ้น   เพราะเหตุ 
+<span class="LineNumber"> 005 </span>ปัจจัย</B> 
+<span class="LineNumber"> 006 </span>                  ๑๐.  <B>ทัสสเนนปหาตัพพธรรม       อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 007 </span>เนวทัสสเนนนภาวนายปหาตัพพธรรม    เกิดขึ้น    เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>มี  ๕ วาระ  ฯลฯ
+
+<span class="LineNumber"> 009 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๓๕]  ในเหตุปัจจัย มี ๑๘ วาระ  ฯลฯ
+<span class="LineNumber"> 011 </span>                           <I>นทัสสนติกทัสสนติกะ  จบ</I>
+
+<span class="LineNumber"> 012 </span>                       <H1>๙. นทัสสเนนปหาตัพพเหตุกติกะ</H1>
+<span class="LineNumber"> 013 </span>                           <H1>ทัสสเนนปหาตัพพเหตุกติกะ</H1>
+<span class="LineNumber"> 014 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 015 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 016 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 017 </span>           [๓๖] ๑.  <B>ทัสสเนนปหาตัพพเหตุกธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 018 </span>ทัสสเนนปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 019 </span>                                              <B>ฯลฯ</B>

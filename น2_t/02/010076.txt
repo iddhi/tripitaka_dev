@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>       <B>  วัตถุสำหรับทำน้ำมันรวมเป็น  ๓  ชนิด  คือ</B>
+<span class="LineNumber"> 002 </span>๑.  มันเปลวแห่งสัตว์  [ยกของมนุษย์].  
+<span class="LineNumber"> 003 </span>๒. พืชอันมีกำเนิดเป็นยาวกาลิก  [มีเม็ดงาเป็นตัวอย่าง].
+<span class="LineNumber"> 004 </span>๓.  พืชอันมีกำเนิดเป็นยาวชีวิก  [มีเม็ดพันธ์ผักกาดเป็นตัวอย่าง].
+<span class="LineNumber"> 005 </span>                    <B>มันเปลวแห่งสัตว์ในบาลีมี  ๕  คือ</B>
+<span class="LineNumber"> 006 </span>๑.  เปลวหมี.
+<span class="LineNumber"> 007 </span>๒.  เปลวปลา.
+<span class="LineNumber"> 008 </span>๓.  เปลวปลาฉลาม.
+<span class="LineNumber"> 009 </span>๔.  เปลวหมู.
+<span class="LineNumber"> 010 </span>๕.  เปลวลา.
+<span class="LineNumber"> 011 </span>	มันเปลวสัตว์เหล่านี้  ทรงอนุญาตให้รับประเคนแล้วเจียวเป็น
+<span class="LineNumber"> 012 </span>น้ำมันได้  แต่ให้รับ  ให้เจียว  และให้กรองเสร็จในกาล  ถ้าทำนอก
+<span class="LineNumber"> 013 </span>กาลหรือคาบกาล  ห้ามไม่ให้ฉัน  จัดเป็นวัตถุแห่งทุกกฏทุกกิจการที่
+<span class="LineNumber"> 014 </span>ทำในวิกาล  คือถ้าทำในเวลาวิกาลทั้ง  ๓  สถาน  หรือ  ๒  อย่าง  หรือ
+<span class="LineNumber"> 015 </span>๑  อย่าง  ก็เป็นทุกกฏ  ๓  สถาน  หรือ  ๒  สถาน  หรือสถานเดียว  น้ำมันที่
+<span class="LineNumber"> 016 </span>สะกัดออกจากพืชอันเป็นยาวกาลิก  ภิกษุทำเอง  มีคติอย่างยาวกาลิก
+<span class="LineNumber"> 017 </span>เที่ยงแล้วไป  ไม่ให้ฉัน  ส่วนน้ำมันที่สะกัดออกจากพืชอันเป็นยาวชีวิก
+<span class="LineNumber"> 018 </span>ภิกษุทำเองได้.  น้ำอ้อยที่อนุปสัมบันทำ  กรองหมดกากแล้วจึงใช้ได้
+<span class="LineNumber"> 019 </span>ที่ภิกษุทำ  รับทั้งวัตถุคือลำอ้อย  มีคติอย่างยาวกาลิก.
+

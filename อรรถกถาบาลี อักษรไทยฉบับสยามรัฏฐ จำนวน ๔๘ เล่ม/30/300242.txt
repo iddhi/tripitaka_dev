@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  242
+
+<span class="LineNumber"> 002 </span>				อสฺสกชาตกํ  
+<span class="LineNumber"> 003 </span>	อยมสฺสกราเชนาติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  ปุราณ-
+<span class="LineNumber"> 004 </span>ทุติยิกปโลภนํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	โส  หิ  ภิกฺขุ  สตฺถารา  สจฺจํ  กิร  ตฺวํ  ภิกฺขุ  อุกฺกณฺ€ิโตติ  
+<span class="LineNumber"> 006 </span>ปุฏฺโ€  สจฺจนฺติ  วตฺวา  เกน  อุกฺกณฺ€าปิโตสีติ  วุตฺเต  
+<span class="LineNumber"> 007 </span>ปุราณทุติยิกายาติ  อาห ฯ  อถ  นํ  สตฺถา  น  อิทาเนว  ตสฺสา
+<span class="LineNumber"> 008 </span>ภิกฺขุ  อิตฺถิยา  ตยิ  สิเนโห  อตฺถิ  ปุพฺเพปิ  ตฺวํ  ตํ  นิสฺสาย
+<span class="LineNumber"> 009 </span>มหาทุกฺขํ  ปตฺโตติ วตฺวา อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 010 </span>	อตีเต  กาสิกรฏฺเ€  ปาตลินามนคเร  (๑) อสฺสโก  นาม  ราชา  
+<span class="LineNumber"> 011 </span>รชฺชํ  กาเรสิ ฯ  ตสฺส  อุพฺพรี  นาม  (๒) อคฺคมเหสี  ปิยา  อโหสิ  
+<span class="LineNumber"> 012 </span>มนาปา  อภิรูปา  ทสฺสนียา  ปาสาทิสา  อติกฺกนฺตา  มานุสํ  
+<span class="LineNumber"> 013 </span>วณฺณํ  อปฺปตฺตา  ทิพฺพวณฺณํ ฯ  สา  กาลมกาสิ ฯ  ตสฺสา 
+<span class="LineNumber"> 014 </span>กาลกิริยาย  ราชา  โสกาภิภูโต  อโหสิ  ทุกฺขี  ทุมฺมโน ฯ  โส 
+<span class="LineNumber"> 015 </span>ตสฺสา  สรีรํ  โทณิยํ  นิปชฺชาเปตฺวา  เตลกลลํ  ปกฺขิปาเปตฺวา
+<span class="LineNumber"> 016 </span>เหฏฺ€ามฺเจ  €ปาเปตฺวา  นิราหาโร  โรทมาโน  ปริเทวมาโน
+<span class="LineNumber"> 017 </span>นิปชฺชิ ฯ  มาตาปิตโร  อวเสสาตกา  มิตฺตามจฺจา  พฺราหฺมณ-
+<span class="LineNumber"> 018 </span>คหปติกาทโยปิ  มา  โสจิ  มหาราช  อนิจฺจา  สงฺขาราติอาทีนิ 
+<span class="LineNumber"> 019 </span>วทนฺตา  สฺาเปตุํ  นาสกฺขึสุ ฯ  ตสฺส  วิลปนฺตสฺเสว  สตฺต  
+<span class="LineNumber"> 020 </span># ๑. สี. โปคเล นาม นคเร ฯ  ม. ปาฏลินคเร ฯ  ยุ. โปตลิ นาม นคเร ฯ
+<span class="LineNumber"> 021 </span># ๒. ม. อุปรี นาม ฯ  เอวมุปริปิ ฯ

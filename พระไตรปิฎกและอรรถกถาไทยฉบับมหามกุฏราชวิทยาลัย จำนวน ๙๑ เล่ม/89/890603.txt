@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ขันธ์ ๓     อาศัยขันธ์ ๑   ที่เป็นสังกิลิฏฐะแต่ไม่ใช่กิเลสธรรม
+<span class="LineNumber"> 002 </span>และกิเลสทั้งหลาย ฯลฯ   ขันธ์ ๒.
+<span class="LineNumber"> 003 </span>                     ๙.   <B>ธรรมที่เป็นทั้งกิเลส    และสังกิลิฏฐธรรม    และ
+<span class="LineNumber"> 004 </span>ธรรมที่เป็นสังกิลิฏฐะแต่ไม่ใช่กิเลสธรรม  อาศัยธรรมที่เป็นทั้งกิเลส
+<span class="LineNumber"> 005 </span>และสังกิลิฏฐธรรม     และธรรมที่เป็นสังกิลิฏฐะแต่ไม่ใช่กิเลสธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  ขันธ์ ๓  โมหะ  ทิฏฐิ  ถีนะ  อุทธัจจะ  อหิริกะ   อโนตตัปปะ
+<span class="LineNumber"> 008 </span>อาศัยขันธ์ ๑   ที่เป็นสังกิลิฏฐะแต่ไม่ใช่กิเลสธรรม   และโลภะ  ฯลฯ   ขันธ์ ๒.
+<span class="LineNumber"> 009 </span>         พึงกระทำจักรนัย.
+
+<span class="LineNumber"> 010 </span>                                <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>         [๕๔๗]  ในเหตุปัจจัย  มี ๙ วาระ     ในอารัมมณปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 012 </span>ในปัจจัยทั้งปวง มี ๙ วาระ  ในกัมมปัจจัย มี ๙ วาระ  ในอาหารปัจจัย มี ๙
+<span class="LineNumber"> 013 </span>วาระ ฯลฯ  ในอวิคตปัจจัย มี ๙ วาระ.
+
+<span class="LineNumber"> 014 </span>                                               <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 015 </span>                                            <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>         [๕๔๘]  ๑.  <B>ธรรมที่เป็นทั้งกิเลสและสังกิลิฏฐธรรม      อาศัย
+<span class="LineNumber"> 017 </span>ธรรมที่เป็นกิเลสและสังกิลิฏฐธรรม   เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>         คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา  อาศัยวิจิกิจฉา,  โมหะ  ที่สหรคต
+<span class="LineNumber"> 019 </span>ด้วยอุทธัจจะ  อาศัยอุทธัจจะ.

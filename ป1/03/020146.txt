@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>นอกจาก   ปาปิยิสฺสโก   ที่ท่านยกขึ้นแสดงเป็นอุทาหรณ์  ในคัมภีร์
+<span class="LineNumber"> 002 </span>ศัพทศาสตร์นั้น  ๆ .  
+<span class="LineNumber"> 003 </span>                                  -------------------------
+<span class="LineNumber"> 004 </span>          ในตทัสสัตถิตัทธิต   มีปัจจัย  ๙  ตัว  คือ  วี,  ส,  สี,  อิก,  อี,  ร,
+<span class="LineNumber"> 005 </span>วนฺตุ,  มนฺตุ,   ณ.
+<span class="LineNumber"> 006 </span>                               ศัพท์ที่ลง  วี  ปัจจัย  อย่างนี้
+<span class="LineNumber"> 007 </span>          เมธา  อสฺส  อตฺถี-ติ   เมธาวี   เมธา  [ ปัญญา ]  ของชนนั้น  มีอยู่
+<span class="LineNumber"> 008 </span>             ๑      ๒     ๓    ๔     ๕        ๑                           ๒           ๓
+<span class="LineNumber"> 009 </span>เหตุนั้น  [ ชนนั้น ]  ชื่อว่า  มีเมธา.  มายา  อสฺส  อตฺถี-ติ  มายาวี   มายา
+<span class="LineNumber"> 010 </span>   ๔                        ๕     
+<span class="LineNumber"> 011 </span>ของชนนั้น  มีอยู่  เหตุนั้น  [ ชนนั้น ] ชื่อว่า  มีมายา.
+<span class="LineNumber"> 012 </span>           ศัพท์ที่ลง  ส  ปัจจัย  คือ  สุเมธา  อสฺส  อตฺถี-ติ  สุเมธโส  เมธาดี.
+<span class="LineNumber"> 013 </span>ของชนนั้น  มีอยู่  เหตุนั้น  [ ชนนั้น ]  ชื่อว่า  มีเมธาดี.
+<span class="LineNumber"> 014 </span>                             ศัพท์ที่ลง  สี  ปัจจัย  อย่างนี้
+<span class="LineNumber"> 015 </span>           ตโป  อสฺส  อตฺถี-ติ   ตปสี  ตปะ  [  ความเพียรอันเผาบาป ] ของ
+<span class="LineNumber"> 016 </span>ชนนั้น  มีอยู่   เหตุนั้น [ ชนนั้น ]  ชื่อว่ามีตปะ.  เตโช  อสฺส   อตฺถี-ติ
+<span class="LineNumber"> 017 </span>เตชสี  เดช  ของชนนั้น  มีอยู่   เหตุนั้น  [ ชนนั้น ]  ชื่อว่า  มีเดช.
+<span class="LineNumber"> 018 </span>                            ศัพท์ทีลง  อิก  ปัจจัย   อย่างนี้
+<span class="LineNumber"> 019 </span>            ทณฺโฑ   อสฺส   อตฺถี-ติ  ทณฺฑิโก   ไม้เท้า  ของชนนั้น  มีอยู่
+<span class="LineNumber"> 020 </span>เหตุนั้น  [ ชนนั้น ]  ชื่อว่า  มีไม้เท้า.  อตฺโถ   อสฺส  อตฺถี-ติ  อตฺถิโก
+<span class="LineNumber"> 021 </span>ความต้องการ  ของชนนั้น  มีอยู่  เหตุนั้น  [ ชนนั้น ]  ชื่อว่ามี
+<span class="LineNumber"> 022 </span>ความต้องการ.
+
+
+

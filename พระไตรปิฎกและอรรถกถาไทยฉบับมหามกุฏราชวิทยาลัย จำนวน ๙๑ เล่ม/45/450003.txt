@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>อรรถกถาขุททกนิกาย ชื่อปรมัตถทีปนี</H2>
+<span class="LineNumber"> 002 </span>                                   <H2>อิติวุตตกวรณนา</H2>
+
+<span class="LineNumber"> 003 </span>                                     <H1>อารัมภกถา</H1>
+<span class="LineNumber"> 004 </span>        	       <B>ข้าพเจ้าขอวันทาพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 005 </span>        	ผู้ทรงเป็นนาถะ     ผู้มีพระทัยเปี่ยมล้นไป
+<span class="LineNumber"> 006 </span>        	ด้วยพระมหากรุณาธิคุณ  เสด็จถึงฝั่งสาคร
+<span class="LineNumber"> 007 </span>        	คือไญยธรรมได้แล้ว  ทรงมีนัยเทศนาอัน
+<span class="LineNumber"> 008 </span>        	วิจิตรสุขุมคัมภีรภาพ.
+<span class="LineNumber"> 009 </span>	     ข้าพเจ้าขอวันทาพระธรรมนั้น  อัน
+<span class="LineNumber"> 010 </span>        	อุดมที่สมเด็จพระสัมมาสัมพุทธเจ้าทรง-
+<span class="LineNumber"> 011 </span>        	บูชา    ที่นำพาพระอริยสาวกทั้งหลายผู้
+<span class="LineNumber"> 012 </span>        	สมบูรณ์ด้วยวิชชาและจรณะให้พ้นไปจาก
+<span class="LineNumber"> 013 </span>        	โลก.
+<span class="LineNumber"> 014 </span>       	     ข้าพเจ้าขอวันทาพระสงฆ์   ผู้เป็น
+<span class="LineNumber"> 015 </span>        	พระอริยะนั้น    สถิตมั่นอยู่ในมรรคและผล
+<span class="LineNumber"> 016 </span>        	สมบูรณ์แล้วด้วยศีลาทิคุณเป็นนาบุญอย่าง
+<span class="LineNumber"> 017 </span>        	เยี่ยมยอด.
+<span class="LineNumber"> 018 </span>     	     ด้วยเดชานุภาพแห่งบุญที่เกิดจากการ
+<span class="LineNumber"> 019 </span>        	วันทาพระรัตนตรัยดังได้พรรณนามานี้</B>

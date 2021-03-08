@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  สาริปุตฺตตฺเถรคาถาวณฺณนา  631  
+
+<span class="LineNumber"> 002 </span>		ติตฺถิเย  สมฺปมทฺทามิ  		วตฺเตมิ  ชินสาสนํ  
+<span class="LineNumber"> 003 </span>		ธมฺมเสนาปติ  อชฺช  			สกฺยปุตฺตสฺส  สาสเน ฯ  
+<span class="LineNumber"> 004 </span>		อปริเมยฺเย  กตํ  กมฺมํ  		ผลํ  ทสฺเสสิ  เม  อิธ  
+<span class="LineNumber"> 005 </span>		สุขิตฺโต  (๑)  สารเวโคว  (๒)  	กิเลเส  ฌาปยี  มม.  (๓)  ฯ  
+<span class="LineNumber"> 006 </span>		โย  โกจิ  มนุโช  ภารํ  		ธาเรยฺย  มตฺถเก  สทา  
+<span class="LineNumber"> 007 </span>		ภาเรน  ทุกฺขิโต  อสฺส  		ภาเรหิ  (๔)  ภริโต  ตถา ฯ  
+<span class="LineNumber"> 008 </span>		ฑยฺหมาโน  ตีหคฺคีหิ  		ภเวสุ  สํสรึ  อหํ  
+<span class="LineNumber"> 009 </span>		ภริโต  ภวภาเรน  คิรึ  		อุจฺจาริโต  (๕)  ยถา ฯ  
+<span class="LineNumber"> 010 </span>		โอโรปิโต  จ  เม  ภาโร  		ภวา  อุคฺฆาฏิตา  มยา  
+<span class="LineNumber"> 011 </span>		กรณียํ  กตํ  สพฺพํ  			สกฺยปุตฺตสฺส  สาสเน ฯ  
+<span class="LineNumber"> 012 </span>		ยาวตา  พุทฺธเขตฺตมฺหิ  		€เปตฺวา  สกฺยปุงฺควํ  
+<span class="LineNumber"> 013 </span>		อหํ  อคฺโคมฺหิ  ปฺาย  		สทิโส  เม  น  วิชฺชติ ฯ  
+<span class="LineNumber"> 014 </span>		สมาธิมฺหิ  สุกุสโล  			อิทฺธิยา  ปารมึ  คโต  
+<span class="LineNumber"> 015 </span>		อิจฺฉมาโน  จหํ  อชฺช  		สหสฺสํ  อภินิมฺมิเน ฯ  
+<span class="LineNumber"> 016 </span>		อนุปุพฺพวิหารสฺส  			วสีภูโต  มหามุนิ  
+<span class="LineNumber"> 017 </span>		กเถสิ  สาสนํ  มยฺหํ  			นิโรโธ  สยนํ  มม.  
+<span class="LineNumber"> 018 </span>		ทิพฺพจกฺขุ  วิสุทฺธํ  เม  		สมาธิกุสโล  อหํ  
+<span class="LineNumber"> 019 </span>		สมฺมปฺปธานานุยุตฺโต  (๖)  	โพชฺฌงฺคภาวนารโต ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. สุมุตโต  ฯ  ยุ. สุขิโต  ฯ  ๒.  สฺยา. ม. สรเวโคว  ฯ
+<span class="LineNumber"> 021 </span>#๓.  สฺยา. ฌาปยึ  มมํ  ฯ  ๔.  สฺยา. ภาโร หิ  ฯ  ๕.  สฺยา. เนรุ
+<span class="LineNumber"> 022 </span>#อุทฺธริโต  ฯ  ๖.  สฺยา. สมฺมปฺปธานมนุยุตฺโต  ฯ  

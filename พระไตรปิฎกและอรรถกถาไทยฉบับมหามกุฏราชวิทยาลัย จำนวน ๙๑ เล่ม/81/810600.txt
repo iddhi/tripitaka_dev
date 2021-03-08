@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>สุญญตากถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๗๕]  <B>สกวาที</B> ความว่าง  นับเนื่องในสังขารขันธ์  หรือ  ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. ธรรมหานิมิตมิได้ก็นับเนื่องในสังขารขันธ์  หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 006 </span>                       ส. ความว่าง นับเนื่องในสังขารขันธ์  หรือ ?
+<span class="LineNumber"> 007 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                       ส. ธรรมหาที่ตั้งมิได้ก็นับเนื่องในสังขารขันธ์  หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 010 </span>                       ส. ธรรมหานิมิตได้  ไม่พึงกล่าวว่า นับเนื่องในสังขาร-
+<span class="LineNumber"> 011 </span>ขันธ์  หรือ  ?
+<span class="LineNumber"> 012 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ส. ความว่างก็ไม่พึงกล่าวว่า     นับเนื่องในสังขารขันธ์
+<span class="LineNumber"> 014 </span>หรือ  ?
+<span class="LineNumber"> 015 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 016 </span>                       ส. ธรรมหาที่ตั้งมิได้  ไม่พึงกล่าวว่า  นับเนื่องในสังขาร-
+<span class="LineNumber"> 017 </span>ขันธ์ หรือ  ?
+<span class="LineNumber"> 018 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                       ส. ความว่างก็ไม่พึงกล่าวว่านับเนื่องในสังขารขันธ์  หรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 021 </span>                       ส. ความว่างนับเนื่องในสังขารขันธ์ หรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ถูกแล้ว.

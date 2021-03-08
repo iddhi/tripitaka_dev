@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  516
+	
+<span class="LineNumber"> 002 </span>		ปพฺพตคฺเค ยถา อคฺคิ	ปุณฺณมาเยว จนฺทิมา  
+<span class="LineNumber"> 003 </span>		วนํ(๑) โอภาสเต พุทฺโธ	สาลราชาว ผุลฺลิโต ฯ  
+<span class="LineNumber"> 004 </span>		วนโต (๒) นิกฺขมิตฺวาน	พุทฺธรํสีภิธาวเร  
+<span class="LineNumber"> 005 </span>		นฬคฺคิวณฺณสงฺกาสา (๓)  ทิสฺวา จิตฺตํ ปสาทยึ ฯ  
+<span class="LineNumber"> 006 </span>		วิจินํ อทฺทสํ ปุปฺผํ		กณิการํ เทวคนฺธิกํ  
+<span class="LineNumber"> 007 </span>		ตีณิ ปุปฺผานิ อาทาย	พุทฺธเสฏฺ€มปูชยึ ฯ  
+<span class="LineNumber"> 008 </span>		พุทฺธสฺส อานุภาเวน	ตีณิ ปุปฺผานิ เม ตทา  
+<span class="LineNumber"> 009 </span>		อุทฺธํวณฺฏา อโธปตฺตา	ฉายํ กุพฺพนฺติ สตฺถุโน ฯ  
+<span class="LineNumber"> 010 </span>		เตน กมฺเมน สุกเตน	เจตนาปณิธีหิ จ  
+<span class="LineNumber"> 011 </span>		ชหิตฺวา มานุสํ เทหํ	ตาวตึสมคจฺฉหํ ฯ  
+<span class="LineNumber"> 012 </span>		ตตฺถ เม สุกตํ พฺยมฺหํ	กณิการีติ (๔) ายติ  
+<span class="LineNumber"> 013 </span>		สฏฺ€ิโยชนมุพฺเพธํ		ตึสโยชนมุพฺเพธํ(๕) ฯ  
+<span class="LineNumber"> 014 </span>		สหสฺสกณฺฑํ (๖) สตฺตเคณฺฑุ (๗) ธชาลุ หริตามยํ(๘)  
+<span class="LineNumber"> 015 </span>		สตสหสฺสนิยฺยูหา (๙)	พฺยเมฺห ปาตุภวึสุ เม ฯ
+<span class="LineNumber"> 016 </span>		โสณฺณมยา มณิมยา	โลหิตงฺกมยาปิ จ(๑๐)  
+<span class="LineNumber"> 017 </span>		ผลิกาปิ จ ปลฺลงฺกา	เยนิจฺฉกา ยทิจฺฉกา ฯ  
+<span class="LineNumber"> 018 </span># ๑. สฺยา. วเน ฯ  ๒. สฺยา. วนโต ฯ  ๓. สี. นฬคฺคิวนสงฺกาสา ฯ
+<span class="LineNumber"> 019 </span># ๔. สฺยา. ม. ตึสโยชนวิตฺถตํ ฯ  ๖. สี. สหสฺสขนฺธํ ฯ 
+<span class="LineNumber"> 020 </span># ยุ. สหสฺสกณฺโฑ ฯ  ๗. สฺยา. สตฺตเคณฺฑุ ฯ ม. สตเภณฺฑุ ฯ 
+<span class="LineNumber"> 021 </span># ๘. สฺยา. หริตามโย ฯ  ๙. สี. สตสหสฺสานิ 
+<span class="LineNumber"> 022 </span># พฺยูหานิ ฯ  ๑๐. สฺยา. โลหิตงฺกมยาปิจ ฯ ม. โลหิตงฺกมยาปิ จ ฯ 
+<span class="LineNumber"> 023 </span># ๑๑. สฺยา. ยถิจฺฉกํ ฯ

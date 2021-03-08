@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                    		   <H2>ปัจจนียนัย</H2>   
+<span class="LineNumber"> 002 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>		[๕๐๗]  ๑.  เหตุวิปปยุตตธรรมที่เป็นอัพยากตะ     อาศัยเหตุ-
+<span class="LineNumber"> 004 </span>วิปปยุตตธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะนเหตุปัจจัย
+<span class="LineNumber"> 005 </span>                          <H2>๒.  นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๕๐๘]  ๑.  เหตุวิปปยุตตธรรมที่เป็นอัพยากตะ     อาศัยเหตุ-
+<span class="LineNumber"> 007 </span>วิปปยุตตธรรมที่เป็นอกุศล   เกิดขึ้น  เพราะนอารัมมณปัจจัย
+<span class="LineNumber"> 008 </span>                        ๒.  เหตุวิปปยุตตธรรมที่เป็นอัพยากตะ    อาศัยเหตุ-
+<span class="LineNumber"> 009 </span>วิปปยุตตธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะนอารัมมณปัจจัย
+<span class="LineNumber"> 010 </span>                        ๓.  เหตุวิปปยุตตธรรมที่เป็นอัพยากตะ     อาศัยเหตุ-
+<span class="LineNumber"> 011 </span>วิปปยุตตธรรมที่เป็นอกุศล   และเหตุวิปปยุตตธรรมที่เป็นอัพยากตะ
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะนอารัมมณปัจจัย
+<span class="LineNumber"> 013 </span>                     		   <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 014 </span>                     <H2>การนับจำนวนวาระในปัจจนัยะ</H2>
+<span class="LineNumber"> 015 </span>		[๕๐๙]  ในนเหตุปัจจัย มี ๑ วาระ   ในนอารัมมณปัจจัย มี  ๓  วาระ
+<span class="LineNumber"> 016 </span>ในนอธิปติปัจจัย  มี ๓ วาระ  ฯลฯ  ในโนวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>		สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.

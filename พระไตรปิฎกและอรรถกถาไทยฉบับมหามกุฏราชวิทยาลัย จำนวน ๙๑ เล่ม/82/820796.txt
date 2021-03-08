@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่าคันธาตุ,  ไม่ชื่อว่าคันธะ  ใช่ไหม  ? 
+<span class="LineNumber"> 002 </span>         ศีลคันธะ  สมาธิคันธะ  ปัญญาคันธะ   ไม่ชื่อว่าคันธธาตุ  แต่
+<span class="LineNumber"> 003 </span>ชื่อว่า   คันธะ,   เว้นคันธะและคันธธาตุเสียแล้ว   คันธะที่เหลือไม่ชื่อว่า
+<span class="LineNumber"> 004 </span>คันธะ   และไม่ชื่อว่า   คันธธาตุ.
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่ารส,  ไม่ชื่อว่ารสธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่ารสธาตุ  ไม่ชื่อว่ารส    ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         อรรถรส     ธรรมรส    วิมุตติรส  ไม่ชื่อว่ารสธาตุ   แต่ชื่อว่า  รส,  
+<span class="LineNumber"> 009 </span>เว้นรสและรสธาตุเสียแล้ว  รสที่เหลือไม่ชื่อว่า  รส  และไม่ชื่อว่า รส
+<span class="LineNumber"> 010 </span>ธาตุ.
+<span class="LineNumber"> 011 </span>         ธรรมที่ไม่ชื่อว่าโผฏฐัพพะ   ฯ ล ฯ                               
+<span class="LineNumber"> 012 </span>         ธรรมที่ไม่ชื่อว่าจักขุวิญญาณ,  ไม่ชื่อว่าจักขุวิญญาณธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ธรรมที่ไม่ชื่อว่าจักขุวิญญาณธาตุ,  ไม่ชื่อว่าจักขุวิญญาณ  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>         ธรรมที่ไม่ชื่อว่าโสตวิญญาณ    ฯ ล ฯ    ไม่ชื่อว่าฆานวิญญาณ,
+<span class="LineNumber"> 017 </span>ไม่ชื่อว่าชิวหาวิญญาณ,  ไม่ชื่อว่ากายวิญญาณ.

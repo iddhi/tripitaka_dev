@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                       ๓.  <B>อุเบกขาสหคตธรรม    และธรรมที่ไม่ใช่อุเบกขา-
+<span class="LineNumber"> 002 </span>สหคตธรรม      อาศัยธรรมที่ไม่ใช่อุเบกขาสหคตธรรม      เกิดขึ้น 
+<span class="LineNumber"> 003 </span>เพราะเหตุปัจจัย</B>   มี ๓ วาระ. 
+<span class="LineNumber"> 004 </span>                       ๔.  <B>ธรรมที่ไม่ใช่อุเบกขาสหคตธรรม     อาศัยธรรม
+<span class="LineNumber"> 005 </span>ที่ไม่ใช่ธรรม   ที่ไม่ใช่อุเบกขาสหคตธรรม   เกิดขึ้น   เพราะเหตุ 
+<span class="LineNumber"> 006 </span>ปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 007 </span>                       ๗.  <B>อุเบกขาสหคตธรรม  อาศัยธรรมที่ไม่ใช่อุเบกขา-
+<span class="LineNumber"> 008 </span>สหคตธรรม   และธรรมที่ไม่ใช่ธรรม   ที่ไม่ใช่อุเบกขาสหคตธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                       ๘.  <B>ธรรมที่ไม่ใช่อุเบกขาสหคตธรรม     อาศัยธรรม 
+<span class="LineNumber"> 011 </span>ที่ไม่ใช่อุเบกขาสหคตธรรม     และธรรมที่ไม่ใช่ธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 012 </span>อุเบกขาสหคตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>                       ๙.  <B>อุเบกขาสหคตธรรม    และธรรมที่ไม่ใช่อุเบกขา-
+<span class="LineNumber"> 014 </span>สหคตธรรม    อาศัยธรรมที่ไม่ใช่อุเบกขาสหคตธรรม    และธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่ธรรม   ที่ไม่ใช่อุเบกขาสหคตธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 016 </span>ปัจจัย</B>   มี ๓ วาระ.
+
+<span class="LineNumber"> 017 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>           [๑๔๘]  ในเหตุปัจจัย  มี  ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 019 </span>                     <I>นอุเบกขาสหคตทุกอุเบกขาสหคตทุกะ  จบ</I>

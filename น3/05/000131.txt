@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>           <B>อจริตฺวา  พฺรหฺมจริยํ,</B>	คนพาลทั้งหลายไม่ประพฤติ
+<span class="LineNumber"> 002 </span>						พรหมจรรย์ 
+<span class="LineNumber"> 003 </span><B>อลทฺธา  โยพฺพเน  ธนํ,	</B>		ไม่ได้ทรัพย์ในกาลแห่งคนยังเป็น
+<span class="LineNumber"> 004 </span>						หนุ่มสาว 
+<span class="LineNumber"> 005 </span><B>ชิณฺณโกฺจาย  ฌายนฺติ,</B>		ต้องซบเซาดังนกกะเรียนแก่
+<span class="LineNumber"> 006 </span><B>ขีณมจฺเฉว  ปลฺลเล,</B>			ซึ่งซบเซาอยู่ในเปือกตม  อันมีปลา
+<span class="LineNumber"> 007 </span>						หมดไปแล้ว  ฉะนั้น
+<span class="LineNumber"> 008 </span><B>อจริตฺวา  พฺรหฺมจริยํ,</B>			คนพาลทั้งหลายไม่ประพฤติ
+<span class="LineNumber"> 009 </span>						พรหมจรรย์
+<span class="LineNumber"> 010 </span><B>อลทฺธา  โยพฺพเน  ธนํ,	</B>		ไม่ได้ทรัพย์ในกาลแห่งตนยังเป็น
+<span class="LineNumber"> 011 </span>						หนุ่มสาว
+<span class="LineNumber"> 012 </span><B>เสนฺติ  จาปาติขีณาว</B>			ต้องนอนทอดถอนถึงทรัพย์เก่า
+<span class="LineNumber"> 013 </span><B>ปุราณานิ  อนุตฺถุนํ.</B>			ทั้งหลาย  เหมือนลูกศร  ที่เขายิง
+<span class="LineNumber"> 014 </span>						ไปแล้วจากแล่ง  ฉะนั้น.

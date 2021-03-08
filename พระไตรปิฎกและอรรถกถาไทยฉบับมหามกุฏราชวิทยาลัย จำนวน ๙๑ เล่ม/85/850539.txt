@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>อินทริยฆฏนา ๗๖</H1>  
+<span class="LineNumber"> 002 </span>                             <H1>ปกิณณกฆฏนา ๔</H1><SUP>๑</SUP> 
+<span class="LineNumber"> 003 </span> <B>[๖๕๕]  ๑.  ปัจจัย ๓</B>  คือ อินทริยะ อัตถิ อวิคตปัจจัย มี ๗ วาระ.
+<span class="LineNumber"> 004 </span>              <B>๒.  ปัจจัย ๔</B>  คือ อินทริยะ  นิสสยะ  อัตถิ  อวิคตปัจจัย
+<span class="LineNumber"> 005 </span>มี ๗ วาระ.
+<span class="LineNumber"> 006 </span>              <B>๓.  ปัจจัย ๕</B>  คือ อินทริยะ  นิสสยะ   วิปปยุตตะ   อัตถิ
+<span class="LineNumber"> 007 </span>อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>              <B>๔.  ปัจจัย ๖</B>  คือ อินทริยะ นิสสยะ ปุเรชาตะ วิปปยุตตะ
+<span class="LineNumber"> 009 </span>อัตถิ  อวิคตปัจจัย  มี ๑ วาระ.
+
+<span class="LineNumber"> 010 </span>                              <H1>สหชาตฆฏนา ๗๒</H1>
+<span class="LineNumber"> 011 </span>                                <H1>สามัญญฆฏนา ๙</H1>
+<span class="LineNumber"> 012 </span>              <B>๕.  ปัจจัย ๕</B>  คือ อินทริยะ   สหชาตะ   นิสสยะ   อัตถิ
+<span class="LineNumber"> 013 </span>อวิคตปัจจัย  มี ๗ วาระ.
+<span class="LineNumber"> 014 </span>              <B>๖.  ปัจจัย ๖</B>  คือ อินทริยะ    สหชาตะ    อัญญมัญญะ
+<span class="LineNumber"> 015 </span>นิสสยะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>              <B>๗.  ปัจจัย ๗</B>  คือ อินทริยะ    สหชาตะ   อัญญมัญญะ
+<span class="LineNumber"> 017 </span>นิสสยะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>              <B>๘.  ปัจจัย ๖</B>  คือ อินทริยะ สหชาตะ นิสสยะ วิปปยุตตะ
+<span class="LineNumber"> 019 </span>อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class='footnote'>๑.  ฆ. ๑-๒-๓.  เป็นมิสสกฆฏนา (คือ สหชาตะ+ ปกิณณกะ)</span>

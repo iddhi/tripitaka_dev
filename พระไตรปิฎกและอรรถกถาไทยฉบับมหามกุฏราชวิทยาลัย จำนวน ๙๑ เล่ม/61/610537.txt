@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>จัตตาฬีสนิบาตชาดก</H2> 
+
+<span class="LineNumber"> 002 </span>                        <H1>๑.  เตสกุณชาดก</H1> 
+
+<span class="LineNumber"> 003 </span>         <H1>ว่าด้วยนกตอบปัญหาพระราชา</H1> 
+
+<span class="LineNumber"> 004 </span>                <B>[๒๔๓๘]</B> (พระราชาตรัสว่า) <B>เราขอถามเจ้าเวส-
+<span class="LineNumber"> 005 </span>         สันดร  นกเอ๋ย  ขอความเจริญจงมีแก่เจ้า   กิจอะไรที่
+<span class="LineNumber"> 006 </span>         บุคคลผู้ประสงค์เสวยราชสมบัติกระทำแล้ว    เป็นกิจ
+<span class="LineNumber"> 007 </span>         ประเสริฐ.</B>
+<span class="LineNumber"> 008 </span>                <B>[๒๔๓๙]</B> (นกเวสสันดรทูลว่า)   <B>นานนักหนอ
+<span class="LineNumber"> 009 </span>         พระเจ้ากังสราช  พระราชบิดาของเรา ผู้ทรงสงเคราะห์
+<span class="LineNumber"> 010 </span>         ชาวเมืองพาราณสี   เป็นผู้ประมาท    ได้ตรัสถามเราผู้
+<span class="LineNumber"> 011 </span>         บุตร  ซึ่งหาความประมาทมิได้.</B>
+<span class="LineNumber"> 012 </span>                <B>[๒๔๔๐]  ข้าแต่บรมกษัตริย์   ธรรมดาพระราชา
+<span class="LineNumber"> 013 </span>         ควรห้ามมุสาวาท  ความโกรธ   และความร่าเริงก่อนที 
+<span class="LineNumber"> 014 </span>         เดียว  แต่นั้น พึงตรัสสั่งให้กระทำกิจทั้งหลาย  คำที่ข้า
+<span class="LineNumber"> 015 </span>         พระพุทธเจ้ากล่าวมานั้น  นักปราชญ์ทั้งหลายกล่าวว่า 
+<span class="LineNumber"> 016 </span>         เป็นกิจของพระราชา.
+<span class="LineNumber"> 017 </span>                ข้าแต่พระบิดา    เมื่อก่อนพระองค์ทรงรักใคร่
+<span class="LineNumber"> 018 </span>         และเกลียดชังแล้ว    พึงทรงทำกรรมใด    กรรมนั้นที่
+<span class="LineNumber"> 019 </span>         พระองค์ทรงทำแล้ว    พึงยังพระองค์ให้เดือดร้อนโดย</B>

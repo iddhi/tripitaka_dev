@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  27  หน้า  23
+
+<span class="LineNumber"> 002 </span>			มุตฺตาเถรีคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	สุมุตฺตา สาธุ มุตฺตามฺหีติอาทิกา มุตฺตาย เถริยา 
+<span class="LineNumber"> 004 </span>คาถา ฯ  
+<span class="LineNumber"> 005 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิการา  ตตฺถ ตตฺถ ภเว กุสลํ 
+<span class="LineNumber"> 006 </span>อุปจินิตฺวา อิมสฺมึ พุทฺธุปฺปาเท  โกสลชนปเท  โอฆาตกสฺส  นาม  
+<span class="LineNumber"> 007 </span>ทลิทฺทพฺราหฺมณสฺส  ธีตา  หุตฺวา  นิพฺพตฺติ  ตํ  วยปฺปตฺตกาเล  
+<span class="LineNumber"> 008 </span>มาตาปิตโร  เอกสฺส  ขุชฺชพฺราหฺมณสฺส  อทํสุ ฯ  สา เตน 
+<span class="LineNumber"> 009 </span>ฆราวาสํ  อโรจนฺตี  ตํ  อนุชานาเปตฺวา  ปพฺพชิตฺวา  วิปสฺสนาย 
+<span class="LineNumber"> 010 </span>กมฺมํ กโรติ ฯ ตสฺสา  พหิทฺธารมฺมเณสุ  จิตฺตํ  วิธาวติ ฯ สา 
+<span class="LineNumber"> 011 </span>ตํ  นิคฺคณฺหนฺตี  สุมุตฺตา สาธุ  มุตฺตามฺหีติ คาถํ วทนฺตีเยว 
+<span class="LineNumber"> 012 </span>วิปสฺสนํ อุสฺสุกฺกาเปตฺวา สห ปฏิสมฺภิทาหิ อรหตฺตํ ปาปุณิ ฯ 
+<span class="LineNumber"> 013 </span>เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 014 </span>		ปทุมุตฺตโร นาม ชิโน	สพฺพธมฺเมสุ จกฺขุมา  
+<span class="LineNumber"> 015 </span>		ปาณิเน อนุคฺคณฺหนฺโต	ปิณฺฑาย ปาวิสี ปุรํ ฯ  
+<span class="LineNumber"> 016 </span>		ตสฺส อาคจฺฉโต สตฺถุ	สพฺเพ นครวาสิโน  
+<span class="LineNumber"> 017 </span>		หฏฺ€ตุฏฺ€า สมาคนฺตฺวา	วาลิกา อากิรึสุ เต ฯ  
+<span class="LineNumber"> 018 </span>		วีถิสมฺมชฺชนํ กตฺวา		กทลิปุณฺณกทฺธเช  
+<span class="LineNumber"> 019 </span>		ธูปํ (๒) จุณฺณํ จ มาลํ (๓) จ  สกฺการํ กตฺวาน (๔) สตฺถุโน ฯ  
+<span class="LineNumber"> 020 </span>		มณฺฑปํ ปติยาเทตฺวา	นิมนฺเตตฺวา วินายกํ  
+<span class="LineNumber"> 021 </span>		มหาทานํ ททิตฺวาน		สมฺโพธึ อภิปตฺถยิ ฯ  
+<span class="LineNumber"> 022 </span># ๑ อปทานปาลิยํ นตฺถิ ฯ ๒ ม.  ธูมํ ฯ ๓ ม.  มาสํ ฯ๔ ม.  กจฺจ ฯ 

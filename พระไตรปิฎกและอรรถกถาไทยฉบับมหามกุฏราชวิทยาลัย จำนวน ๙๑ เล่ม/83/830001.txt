@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>พระอภิธรรมปิฎก</H1> 
+<span class="LineNumber"> 002 </span>                                    <H1>เล่มที่  ๕</H1>
+<span class="LineNumber"> 003 </span>                          <H1>ภาคที่  ๑   ตอนที่  ๒</H1>
+<span class="LineNumber"> 004 </span>                              <H4>ขอนอบน้อมแด่</H4>
+<span class="LineNumber"> 005 </span> <H4>พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้า  พระองค์นั้น</H4>
+<span class="LineNumber"> 006 </span>                              <H1>อนุสยยมกที่  ๗</H1>
+<span class="LineNumber"> 007 </span>                                <H1>ปริจเฉทวาระ</H1>
+<span class="LineNumber"> 008 </span><B>อนุสัย  ๗  คือ :-</B>
+<span class="LineNumber"> 009 </span>         <B>๑.  กามราคานุสัย             ๕.  วิจิกิจฉานุสัย
+<span class="LineNumber"> 010 </span>         ๒.  ปฏิฆานุสัย                  ๖.  ภวราคานุสัย
+<span class="LineNumber"> 011 </span>         ๓.  มานานุสัย                   ๗.  อวิชชานุสัย
+<span class="LineNumber"> 012 </span>         ๔.  ทิฏฐานุสัย</B>

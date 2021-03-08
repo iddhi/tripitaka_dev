@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  409
+
+<span class="LineNumber"> 002 </span>			ปาทฺชลิชาตกํ  
+<span class="LineNumber"> 003 </span>	อทฺธา  ปาทฺชลี  สพฺเพติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 004 </span>โลฬุทายิตฺเถรํ (๑) อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	เอกสฺมึ  ทิวเส  เทฺว  มหาสาวกา (๒) ปฺหํ  วินิจฺฉินนฺติ ฯ 
+<span class="LineNumber"> 006 </span>ภิกฺขู  ปฺหํ  สุณนฺตา  เถเร  ปสํสนฺติ ฯ  โลฬุทายิตฺเถโร  
+<span class="LineNumber"> 007 </span>ปริสนฺตเร นิสินฺโน  เอเต  อมฺเหหิ  สมํ  กึ  ชานนฺตีติ  โอฏฺ€ํ  
+<span class="LineNumber"> 008 </span>ภฺชิ ฯ  ตํ  ทิสฺวา เถรา  อุฏฺ€ายาสนา  (๓) ปกฺกมึสุ ฯ  ปริสา
+<span class="LineNumber"> 009 </span>ภิชฺชิ ฯ  ธมฺมสภายํ  ภิกฺขู  กถํ  สมุฏฺ€าเปสุํ  อาวุโส  โลฬุทายี 
+<span class="LineNumber"> 010 </span>เทฺว  อคฺคสาวเก  ครหิตฺวา  โอฏฺ€ํ  ภฺชตีติ ฯ  ต  สุตฺวา
+<span class="LineNumber"> 011 </span>สตฺถา  น  ภิกฺขเว  อิทาเนว  ปุพฺเพปิ  โลฬุทายี €เปตฺวา  
+<span class="LineNumber"> 012 </span>โอฏฺ€ภฺชนํ ตโต อุตฺตรึ (๔) อฺํ น ชานาตีติ วตฺวา อตีตํ 
+<span class="LineNumber"> 013 </span>อาหริ ฯ  
+<span class="LineNumber"> 014 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 015 </span>ตสฺส  อตฺถธมฺมานุสาสโก  อมจฺโจ  อโหสิ ฯ  รฺโ  ปน  
+<span class="LineNumber"> 016 </span>ปาทฺชลี  นาม  ปุตฺโต  โลโล  (๕)  ทนฺธปริสกฺกโน  อโหสิ ฯ  
+<span class="LineNumber"> 017 </span>อปรภาเค ราชา  กาลมกาสิ ฯ  อมจฺจา  รฺโ  มตกิจฺจานิ  
+<span class="LineNumber"> 018 </span>กตฺวา  ตํ  รชฺเช  อภิสิฺจิสฺสามาติ  มนฺตยมานา  ราชปุตฺตํ
+<span class="LineNumber"> 019 </span>ปาทฺชลินฺติ  (๖)  อาหํสุ ฯ  โพธิสตฺโต  ปน  อยํ  กุมาโร  โลโล  
+<span class="LineNumber"> 020 </span># ๑. ม. ลาฬุทายีเถรํ ฯ  เอวมุปริปิ ฯ  ๒. ม. อคฺคสาวกา ฯ  
+<span class="LineNumber"> 021 </span># ๓. ม. อุฏฺ€าย ฯ  ๔. ม. อุตฺตริ ฯ  ๕. ม. ลาโล ฯ  เอวมุปริปิ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. ปาทฺชลึ ฯ  ปาทิชลิกนฺติปิ ฯ

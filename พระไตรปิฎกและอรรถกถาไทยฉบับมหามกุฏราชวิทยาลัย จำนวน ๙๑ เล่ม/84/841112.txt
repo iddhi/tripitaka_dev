@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>อตีตานาคตวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                         <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ  โทมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๑๔๓๕]   บุคคลใดเคยรู้แจ้งจักขุนทรีย์,     บุคคลนั้นก็จักละ
+<span class="LineNumber"> 005 </span>โทมนัสสินทรีย์  ใช่ไหม   ? 
+<span class="LineNumber"> 006 </span>         ไม่ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า   บุคคลใดจักละโทมนัสสินทรีย์,   บุคคลนั้นก็เคยรู้แจ้ง
+<span class="LineNumber"> 008 </span>จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ไม่ใช่.
+<span class="LineNumber"> 010 </span>                     <I>จบ  จักขุนทริยมูละ   โทมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 011 </span><B>จักขุนทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 012 </span>         [๑๔๓๖]   บุคคลนั้นเคยรู้แจ้งจักขุนทรีย์,   บุคคลนั้นก็จักเจริญ
+<span class="LineNumber"> 013 </span>อนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ไม่ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า   บุคคลใดจักเจริญอนัญญาตัญญัสสามีตินทรีย์,   บุคคล
+<span class="LineNumber"> 016 </span>นั้นก็เคยรู้แจ้งจักขุนทรีย์  ใช่ไหม   ?
+<span class="LineNumber"> 017 </span>         ไม่ใช่.
+<span class="LineNumber"> 018 </span>             <I>จบ  จักขุนทริยมูละ   อนัญญาตัญญัสสามีตินทริยมูลี</I>

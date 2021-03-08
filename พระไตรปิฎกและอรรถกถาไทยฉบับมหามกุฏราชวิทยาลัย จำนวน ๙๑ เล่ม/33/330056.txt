@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>วรรคที่   ๖</H2>
+
+<span class="LineNumber"> 002 </span>         <H2>ว่าด้วยอุบาสกผู้มีตำแหน่งเลิศ  ๑๐  ท่าน</H2> 
+
+<span class="LineNumber"> 003 </span>         [๑๕๑]  ดูก่อนภิกษุทั้งหลาย  พ่อค้าชื่อ<B>ตปุสสะและภัลลิกะ</B>  เลิศ
+<span class="LineNumber"> 004 </span>กว่าพวกอุบาสกสาวกของเราผู้ถึงสรณะก่อน.
+<span class="LineNumber"> 005 </span>         <B>สุทัตตอนาถปิณฑิกคฤหบดี</B>    เลิศกว่าพวกอุบาสกสาวกของเรา
+<span class="LineNumber"> 006 </span>ผู้ถวายทาน.
+<span class="LineNumber"> 007 </span>         <B>จิตตคฤหบดีชาวเมืองมัจฉิก<SUP>๑</SUP>สัณฑะ</B>       เลิศกว่าพวกอุบาสกสาวก
+<span class="LineNumber"> 008 </span>ของเราผู้เป็นธรรมกถึก.                                           
+<span class="LineNumber"> 009 </span>         <B>หัตถกอุบาสกชาวเมืองอาฬวี</B>      เลิศกว่าพวกอุบาสกสาวกของเรา
+<span class="LineNumber"> 010 </span>ผู้สงเคราะห์บริษัทด้วยสังคหวัตถุ  ๔. 
+<span class="LineNumber"> 011 </span>         <B>เจ้าศากยะพระนามว่ามหานามะ</B>    เลิศกว่าพวกอุบาสกสาวกของ
+<span class="LineNumber"> 012 </span>เราผู้ถวายรสอันประณีต.
+<span class="LineNumber"> 013 </span>         <B>อุคคคฤหบดีชาวเมื่องเวสาลี</B>       เลิศกว่าพวกอุบาสกสาวกของเรา
+<span class="LineNumber"> 014 </span>ผู้ถวายโภชนะเป็นที่ชอบใจ.
+<span class="LineNumber"> 015 </span>         <B>อุคคคฤหบดี</B>  เลิศกว่าพวกอุบาสกสาวกของเราผู้เป็นสังฆอุปัฏฐาก.
+<span class="LineNumber"> 016 </span>         <B>สูรัมพัฏเศรษฐีบุตร</B>    เลิศกว่าพวกอุบาสกสาวกของเราผู้เลื่อมใส
+<span class="LineNumber"> 017 </span>อย่างแน่นแฟ้น.
+<span class="LineNumber"> 018 </span>         <B>หมอชีวกโกมารภัจ</B>      เลิศกว่าพวกอุบาสกสาวกของเราผู้เลื่อมใส
+<span class="LineNumber"> 019 </span>ในบุคคล.
+<span class="LineNumber"> 020 </span>         <B>นกุลีปิตาคฤหบดี</B>   เลิศกว่าพวกอุบาสกสาวกของเราผู้คุ้นเคย.
+<span class="LineNumber"> 021 </span>                                                                     จบวรรคที่   ๖
+
+<span class='footnote'>๑.  บางแห่งเป็นมัจฉิกาสัณฑะ.</span>

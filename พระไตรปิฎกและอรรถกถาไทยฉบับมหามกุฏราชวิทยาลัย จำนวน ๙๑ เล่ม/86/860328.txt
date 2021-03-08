@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>         <B>เพราะนเหตุปัจจัย   นอารัมมณปัจจัย</B>   ในอธิปติปัจจัย   มี ๗ วาระ
+<span class="LineNumber"> 002 </span>ฯลฯ.
+<span class="LineNumber"> 003 </span>         การนับวาระในปัจจนียานุโลม   ในกุสลติกะ  ได้จำแนกไว้แล้วอย่างไร 
+<span class="LineNumber"> 004 </span>ในที่นี้ก็พึงจำแนกอย่างนั้น. 
+<span class="LineNumber"> 005 </span>                                        <I>ปัจจนียานุโลม  จบ</I>
+<span class="LineNumber"> 006 </span>                                     <I>สังกิลิฏฐติกะที่ ๕  จบ</I> 
+<span class="LineNumber"> 007 </span>                              <I>อนุโลมติกปัฏฐาน ตอนต้น จบ<SUP>๑</SUP></I>  
+
+<span class="LineNumber"> 008 </span>                                   <H1>อรรถกถาสังกิลิฏฐติกะ</H1>
+<span class="LineNumber"> 009 </span>         คำทั้งหมดใน   <B>สังกิลิฏฐสังกิเลสติกะ</B>    ผู้ศึกษาพึงทราบตามแนว
+<span class="LineNumber"> 010 </span>แห่งนัยที่กล่าวแล้วในกุสลติกะ.
+<span class="LineNumber"> 011 </span>                               <I>อรรถกถาสังกิลิฏฐติกะ  จบ</I>
+<span class='footnote'>๑.  จบบาลีเล่ม ๔๐ เพียงติกะที่ ๕</span>

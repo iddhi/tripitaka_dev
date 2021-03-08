@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                 <h1>อันธวรรคที่  ๗</h1>
+
+<span class="LineNumber"> 002 </span>                                 <h1>๑.  นามสูตร</h1>
+
+<span class="LineNumber"> 003 </span>                      <H1>ว่าด้วยเทวตาปัญหา  ๓  ข้อ</H1>
+
+<span class="LineNumber"> 004 </span>         [๑๗๘]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 005 </span>                             <B>อะไรหนอครอบงำสิ่งทั้งปวง  สิ่ง
+<span class="LineNumber"> 006 </span>                   ทั้งปวงที่ยิ่งขึ้นไปกว่าสิ่งอะไร   ย่อมไม่มี
+<span class="LineNumber"> 007 </span>                   สิ่งทั้งปวงเป็นไปตามอำนาจของธรรมอัน
+<span class="LineNumber"> 008 </span>                   หนึ่ง  คืออะไร.</B>
+<span class="LineNumber"> 009 </span>         [๑๗๙]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 010 </span>                             <B>ชื่อย่อมครอบงำสิ่งทั้งปวง  สิ่ง
+<span class="LineNumber"> 011 </span>                   ทั้งปวงที่ยิ่งขึ้นไปกว่าชื่อไม่มี  สิ่งทั้งปวง
+<span class="LineNumber"> 012 </span>                   เป็นไปตามอำนาจของธรรมอันหนึ่งคือชื่อ.</B>

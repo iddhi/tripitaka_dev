@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่าสัจจะ,   ไม่ชื่อว่าทุกขสัจจะ ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>	ใช่. 
+<span class="LineNumber"> 003 </span>                     <I>จบ  สมุทยสัจจมูละ  ทุกขสัจจมูลี</I>
+
+<span class="LineNumber"> 004 </span><H2>๒.   สมุทยสัจจมูละ  นิโรธสัจจมูลี</H2>
+<span class="LineNumber"> 005 </span>          ธรรมที่ไม่ชื่อว่าสมุทัย,  ไม่ชื่อว่าสมุทยสัจจะ.  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>          ใช่.
+<span class="LineNumber"> 007 </span>          ธรรมที่ไม่ชื่อว่าสัจจะ,  ไม่ชื่อว่านิโรธสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>                                       ฯ ล ฯ
+<span class="LineNumber"> 009 </span>                  <I>จบ  สมุทยสัจจะมูละ  นิโรธสัจจมูลี</I>
+
+<span class="LineNumber"> 010 </span><H2>๓.  สมุทยสัจจมูละ  มัคคสัจจมูลี</H2>
+<span class="LineNumber"> 011 </span>                                        ฯ ล ฯ
+<span class="LineNumber"> 012 </span>          ธรรมที่ไม่ชื่อว่าสัจจะ,    ไม่ชื่อว่ามัคคสัจจะ ใช่ไหม ?
+<span class="LineNumber"> 013 </span>          ใช่.
+<span class="LineNumber"> 014 </span>                    <I>จบ   สมุทยสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 015 </span>                                <I>สมุทยสัจจมูล  จบ</I>

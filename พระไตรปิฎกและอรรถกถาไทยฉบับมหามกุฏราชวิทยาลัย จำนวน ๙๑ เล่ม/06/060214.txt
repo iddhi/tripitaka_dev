@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ๓.  ไม่รู้จักอาบัติเบา. 
+<span class="LineNumber"> 002 </span>           ๔.  ไม่รู้จักอาบัติหนัก.
+<span class="LineNumber"> 003 </span>           ๕.   เธอจำปาติโมกข์ทั้งสองไม่ได้ดีโดยพิสดาร      จำแนกไม่ได้ด้วยดี
+<span class="LineNumber"> 004 </span>ไม่คล่องแคล่วดี  วินิจฉัยไม่เรียบร้อย   โดยสุตตะ   โดยอนุพยัญชนะ   และ
+<span class="LineNumber"> 005 </span>           ๖.   มีพรรษาหย่อน  ๑๐.
+<span class="LineNumber"> 006 </span>           ดูก่อนภิกษุทั้งหลาย    ภิกษุผู้ประกอบด้วยองค์   ๖  นี้แล    ไม่พึงให้
+<span class="LineNumber"> 007 </span>อุปสมบท  ไม่พึงให้นิสัย  ไม่พึงให้สามเณรอุปัฏฐาก.
+
+<span class="LineNumber"> 008 </span>                                          <H2>ศุกลปักษ์  ๗</H2>
+<span class="LineNumber"> 009 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์   ๖  พึงให้อุปสมบท  พึง
+<span class="LineNumber"> 010 </span>ให้นิสัย   พึงให้สามเณรอุปัฏฐาก   คือ:-
+<span class="LineNumber"> 011 </span>           ๑.   รู้จักอาบัติ.
+<span class="LineNumber"> 012 </span>           ๒.  รู้จักอนาบัติ.
+<span class="LineNumber"> 013 </span>           ๓.   รู้จักอาบัติเบา.
+<span class="LineNumber"> 014 </span>           ๔.  รู้จักอาบัติหนัก. 
+<span class="LineNumber"> 015 </span>           ๕.  เธอจำปาติโมกข์ทั้งสองได้ดี  โอยพิสดาร จำแนกดี  คล่องแคล่วดี
+<span class="LineNumber"> 016 </span>วินิจฉัยเรียบร้อย   โดยสุตตะ   โดยอนุพยัญชนะ   และ
+<span class="LineNumber"> 017 </span>           ๖.  มีพรรษาได้  ๑๐  หรือมีพรรษาเกิน ๑๐.
+<span class="LineNumber"> 018 </span>           ดูก่อนภิกษุทั้งหลาย ภิกษุผู้ประกอบด้วยองค์  ๖  นี้แล พึงให้อุปสมบท
+<span class="LineNumber"> 019 </span>พึงให้นิสัย    พึงให้สามเณรอุปัฏฐาก. 
+<span class="LineNumber"> 020 </span>                     <I>องค์ ๖ แห่งภิกษุผู้ให้อุปสมบท  ๑๖  หมวด<SUP>๑</SUP>      จบ</I>
+
+<span class='footnote'>๑.  ตามบาลีนับได้  ๑๔  หมวด</span>

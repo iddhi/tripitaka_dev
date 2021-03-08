@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 362
+
+<span class="LineNumber"> 002 </span>			สทฺโทวิปาโกติกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  สทฺโท  วิปาโกติกถา  นาม  โหติ ฯ  ตตฺถ  โส
+<span class="LineNumber"> 004 </span>ตสฺส  กมฺมสฺส  กตตฺตา อุปจิตตฺตา อุสฺสนฺนตฺตา วิปุลตฺตา
+<span class="LineNumber"> 005 </span>พฺรหฺมสฺสโร โหตีติอาทีนิ (๑) อโยนิโส  คเหตฺวา  สทฺโท  วิปาโกติ
+<span class="LineNumber"> 006 </span>เยสํ  ลทฺธิ  เสยฺยถาปิ  มหาสงฺฆิกานํ เตสํ กมฺมสมุฏฺ€านา
+<span class="LineNumber"> 007 </span>อรูปธมฺมา(๒)  วิปากาติ  นามํ  ลภนฺติ  รูปธมฺเมสุ  ปนายํ  โวหาโร
+<span class="LineNumber"> 008 </span>นตฺถีติ  ทสฺเสตุํ  ปุจฺฉา สกวาทิสฺส ปฏิฺา อิตรสฺส ฯ
+<span class="LineNumber"> 009 </span>สุขเวทนีโยติอาทิ วิปาโก นาม  เอวรูโป  โหตีติ  ทสฺสนตฺถํ 
+<span class="LineNumber"> 010 </span>วุตฺตํ ฯ  โส  ตสฺส  กมฺมสฺสาติ  สุตฺตํ ลกฺขณปฏิลาภทสฺสนตฺถํ
+<span class="LineNumber"> 011 </span>วุตฺตํ ฯ มหาปุริโส หิ ปุริมกมฺมสฺส (๓) กตตฺตา สุจิปริวาโรปิ
+<span class="LineNumber"> 012 </span>โหติ น จ ปริวาโร วิปาโก ตสฺมา อสาธกเมตนฺติ ฯ 
+<span class="LineNumber"> 013 </span>		สทฺโทวิปาโกติกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 014 </span>		สฬายตนกถาวณฺณนา 
+<span class="LineNumber"> 015 </span>	อิทานิ  สฬายตนกถา  นาม  โหติ ฯ  ตตฺถ  ยสฺมา
+<span class="LineNumber"> 016 </span>สฬายตนํ  กมฺมสฺส  กตตฺตา  อุปฺปนฺนํ ตสฺมา วิปาโกติ เยสํ
+<span class="LineNumber"> 017 </span>ลทฺธิ เสยฺยถาปิ มหาสงฺฆิกานํ เต  สนฺธาย  จกฺขฺวายตนํ(๔) 
+<span class="LineNumber"> 018 </span>วิปาโกติ  ปุจฺฉา  สกวาทิสฺส  ปฏิฺา  อิตรสฺส ฯ  เสสํ เหฏฺ€า
+<span class="LineNumber"> 019 </span>วุตฺตนยเมว ฯ  สฬายตนํ  วิปาโกติ  เอตฺถ  มนายตนํ  สิยา วิปาโก
+<span class="LineNumber"> 020 </span># ๑. ที. ปา. ๑๑/๑๖๖/๑๘๘ ฯ ๒. ม. อรูปธมฺมาว ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. กมฺมสฺส ฯ  ๔. ม. จกฺขายตนํ ฯ

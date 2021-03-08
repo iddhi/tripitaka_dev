@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>           ข้อหลังนี้  ควรถือเป็นแบบสำหรับตัดสินอธิกรณ์  ตามรูปที่ 
+<span class="LineNumber"> 002 </span>พิจารณา และควรฟังได้อย่างไรตามคำพยาน  ในเมื่อจำเลยปฏิเสธ
+<span class="LineNumber"> 003 </span>ข้อหา. 
+<span class="LineNumber"> 004 </span>                                     สิกขาบทที่ ๒
+<span class="LineNumber"> 005 </span>           <B>ภิกษุนั่งในที่ลับหูกับหญิงสองต่อสอง ถ้ามีคนมี่ควรเชื่อได้
+<span class="LineNumber"> 006 </span>มาพูดขึ้นด้วยธรรม ๒ อย่าง  คือ  สังฆาทิเสส  หรือปาจิตตีย์
+<span class="LineNumber"> 007 </span>อย่างให้อย่างหนึ่ง  ภิกษุรับอย่างใด  ให้ปรับอย่างนั้น  หรือเขา
+<span class="LineNumber"> 008 </span>ว่าจำเพาะธรรมใด  ให้ปรับจำเพาะธรรมนั้น.</B>
+<span class="LineNumber"> 009 </span>                                  ที่ลับ ๒ อย่าง
+<span class="LineNumber"> 010 </span>           ๑.  ที่มีวัตถุกำบัง  แลเห็นไม่ได้  พอจะเสพเมถุนได้  เรียกว่า
+<span class="LineNumber"> 011 </span>ที่ลับตา.
+<span class="LineNumber"> 012 </span>           ๒.  ที่แจ้ง  แต่ห่างพอจะพูดเกี้ยวมาตุคามได้  เรียกว่าที่ลับหู-

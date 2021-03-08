@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>ปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>อนุโลมนัย</H1> 
+<span class="LineNumber"> 003 </span>                                       <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๓๐๓] ๑.  <B>โลกิยธรรม  เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 005 </span>ของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  เหตุทั้งหลายที่เป็นโลกิยธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์  และ
+<span class="LineNumber"> 007 </span>จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 009 </span>            	      ๒.  <B>โลกุตตรธรรม  เป็นปัจจัยแก่โลกุตตรธรรม  ด้วย
+<span class="LineNumber"> 010 </span>อำนาจของเหตุปัจจัย</B>   มี ๓ วาระ   (วาระที่  ๒-๔)
+
+<span class="LineNumber"> 011 </span>                                       <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           [๓๐๔] ๑.  <B>โลกิยธรรม  เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 013 </span>ของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ   บุคคลให้ทาน ฯลฯ   ศีล ฯลฯ   กระทำอุโบสถกรรม ฯลฯ  แล้ว
+<span class="LineNumber"> 015 </span>พิจารณาซึ่งกุศลกรรมนั้น.
+<span class="LineNumber"> 016 </span>           บุคคลพิจารณากุศลกรรมทั้งหลาย  ที่เคยสั่งสมไว้แล้วในกาลก่อน.
+<span class="LineNumber"> 017 </span>           ออกจากฌานแล้ว  ฯลฯ
+<span class="LineNumber"> 018 </span>           พระอริยะทั้งหลายพิจารณาโคตรภู, พิจารณาโวทาน, พิจารณากิเลสที่ละ
+<span class="LineNumber"> 019 </span>แล้ว,   พิจารณากิเลสที่ข่มแล้ว,  รู้ซึ่งกิเลสทั้งหลายที่เคยเกิดขึ้นแล้วในกาลก่อน.

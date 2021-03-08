@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                   <H2>๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>           [๗๒๖] ๑.  <B>ธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม    ที่ 
+<span class="LineNumber"> 004 </span>ไม่ใช่กุศล    อาศัยทุกขายเวทนายสัมปยุตตธรรม   ที่เป็นอัพยากตะ  
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>                       ๒.  <B>ธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม    ที่
+<span class="LineNumber"> 007 </span>ไม่ใช่อกุศล   อาศัยทุกขายเวทนายสัมปยุตตธรรม   ที่เป็นอัพยากตะ
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                       ๓.  <B>ธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม    ที่
+<span class="LineNumber"> 010 </span>ไม่ใช่กุศล  และธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 011 </span>อกุศล  อาศัยทุกขายเวทนายสัมปยุตตธรรม ที่เป็นอัพยากตะ  เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะนเหตุปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                     <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 014 </span>           [๗๒๗]  ในนเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 015 </span>           สหชาตวาระก็ดี  ปัญหาวาระก็ดี พึงให้พิสดาร.

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>พระบัญญัติ </H1>
+<span class="LineNumber"> 002 </span>          <B> ๑๔๔.  ๖.  อนึ่ง  ภิกษุณีใด    อาบน้ำด้วยกำยานที่อบ    เป็น
+<span class="LineNumber"> 003 </span>ปาจิตตีย์. </B>
+<span class="LineNumber"> 004 </span>                              <I>เรื่องภิกษุณีฉัพพัคคีย์  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                   <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 006 </span>            [๔๖๔]  บทว่า  <B>อนึ่ง. . .ใด</B>  ความว่า  ผู้ใด  คือ   ผู้เช่นใด. . .
+<span class="LineNumber"> 007 </span>           บทว่า  <B>ภิกษุณี</B>  ความว่า ที่ชื่อว่า  <B>ภิกษุณี</B>  เพราะอรรถว่าเป็นผู้ขอ. . .
+<span class="LineNumber"> 008 </span>นี้ชื่อว่า  <B>ภิกษุณี</B>  ที่ทรงประสงค์ในอรรถนี้.
+<span class="LineNumber"> 009 </span>            ที่ชื่อว่า  <B>อบ</B>  ได้แก่  วัตถุที่อบด้วยของหอมชนิดใดชนิดหนึ่ง.
+<span class="LineNumber"> 010 </span>             ที่ชื่อว่า   <B>กำยาน</B>   ได้แก่   วัตถุที่เรียกว่า   แป้งงา.
+<span class="LineNumber"> 011 </span>              บทว่า  <B>อาบน้ำ</B> คือ ทำให้สะอาด  เป็นทุกกฏในประโยค  อาบเสร็จ
+<span class="LineNumber"> 012 </span> ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 013 </span>                                     <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 014 </span>            [๔๖๕]   เหตุอาพาธ ๑ อาบน้ำกำยานธรรมดา ๑  วิกลจริต ๑   อาทิ-
+<span class="LineNumber"> 015 </span> กัมมิกา ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 016 </span>                       <I>ฉัตตุปาหนวรรค  สิกขาบทที่  ๖  จบ</I>
+
+<span class="LineNumber"> 017 </span>                   <h2>อรรถกถาฉัตตวรรค  สิกขาบทที่  ๖</h2>
+<span class="LineNumber"> 018 </span>           คำทั้งหมดในสิกขาบทที่   ๖  เป็นเช่นเดียวกันกับคำที่กล่าวแล้วใน
+<span class="LineNumber"> 019 </span>สิกขาบทที่ ๕  นั้นแล.
+<span class="LineNumber"> 020 </span>                      <I>อรรถกถาฉัตตวรรค  สิกขาบทที่  ๖  จบ</I>

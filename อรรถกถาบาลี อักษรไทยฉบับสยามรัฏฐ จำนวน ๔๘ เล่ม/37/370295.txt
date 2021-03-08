@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 295
+
+<span class="LineNumber"> 002 </span>		ชนินฺท ฆินฺโนสิวรนฺธเนน(๑)  
+<span class="LineNumber"> 003 </span>		ชิโต จ เม ขิปฺปมวากโรหีติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  อายูหตนฺติ  อมฺหากํ (๒) ทวินฺนํ  วายมานานํ(๓) 
+<span class="LineNumber"> 005 </span>อฺตรสเสว  โหติ  ตสฺมา  ปราชิโตมฺหีติ  มา  จินฺตยิ ฯ ชินฺโนสีติ  
+<span class="LineNumber"> 006 </span>ปริหีโนสิ  วรนฺธเนนาติ วรธเนน ฯ ขิปฺปมวากโรหีติ ขิปฺปเมว
+<span class="LineNumber"> 007 </span>ชยธนํ เทหีติ ฯ  
+<span class="LineNumber"> 008 </span>	อถ นํ ราชา คณฺห ตาตาติ วทนฺโต คาถมาห  
+<span class="LineNumber"> 009 </span>	[๙๓๙]หตฺถีควสฺสา มณิกุณฺฑลา จ  
+<span class="LineNumber"> 010 </span>		ยฺจาปิ มยฺหํ รตนํ ป€พฺยํ  
+<span class="LineNumber"> 011 </span>		คณฺหาหิ กจฺจายน (๔) วรํ ธนานํ  
+<span class="LineNumber"> 012 </span>		อาทาย เยนิจฺฉสิ เตน คจฺฉาติ ฯ  
+<span class="LineNumber"> 013 </span>	ปุณฺณโก อาห  
+<span class="LineNumber"> 014 </span>	[๙๔๐]หตฺถีควสฺสา มณิกุณฺฑลา จ  
+<span class="LineNumber"> 015 </span>		ยฺจาปิ ตุยฺหํ รตนํ ป€พฺยํ  
+<span class="LineNumber"> 016 </span>		เตสํ วโร วิธุโร นาม กตฺวา  
+<span class="LineNumber"> 017 </span>		โส เม ชิโต ตํ เม อวากโรหีติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  โส  เม  ชิโตติ  มยา  หิ  ตุวํ  ชิโต (๕) อุตฺตมรตนํ(๖)
+<span class="LineNumber"> 019 </span>ชิตํ  โส  จ  สพฺพรตนานํ  วโร  ตสฺมา(๗)  โส  มยา  ชิโต  นาม 
+<span class="LineNumber"> 020 </span># ๑. ม. ชีโนสิ วรทฺธเนน ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. วายามมานานํ ฯ  ๔. ม. กจฺจาน ฯ  
+<span class="LineNumber"> 022 </span># ๕. ม. ตว วิชิเต ฯ  ๖. ม. อุตฺตมํ รตนํ ฯ 
+<span class="LineNumber"> 023 </span># ๗. ม. วโร วิธุโร ตสฺมา เทว ฯ 

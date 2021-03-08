@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  องฺคุลิมาลตฺเถรคาถาวณฺณนา  533  
+
+<span class="LineNumber"> 002 </span>นครํ  ปิณฺฑาย  ปวิสติ  ตทา  อฺเนปิ  ขิตฺโต  เลฑฺฑุ  
+<span class="LineNumber"> 003 </span>เถรสฺส  กาเย  นิปตฺติ  อฺเนปิ  ขิตฺโต  ทณฺโฑ  ตสฺเสว  
+<span class="LineNumber"> 004 </span>กาเย  นิปตฺติ ฯ  โส  ภินฺเนน  ปตฺเตน  วิหารํ  ปวิสิตฺวา  สตฺถุ  
+<span class="LineNumber"> 005 </span>สนฺติกํ  คจฺฉติ ฯ  สตฺถา  ตํ  โอวทิ  อธิวาเสหิ  ตฺวํ  พฺราหฺมณ  
+<span class="LineNumber"> 006 </span>อธิวาเสหิ  ตฺวํ  พฺราหฺมณ  ยสฺส  โข  ตฺวํ  พฺราหฺมณ  กมฺมสฺส  
+<span class="LineNumber"> 007 </span>วิปาเกน  พหูนิ  วสฺสสหสฺสานิ  นิรเย  ปจฺเจยฺยาสิ  ตสฺส  ตฺวํ  
+<span class="LineNumber"> 008 </span>พฺราหฺมณ  กมฺมสฺส  วิปากํ  ทิฏฺเ€ว  ธมฺเม  ปฏิสํเวเทสีติ ฯ  
+<span class="LineNumber"> 009 </span>อถ  เถโร  อโนธิโส  สพฺพสตฺเตสุ  เมตฺตจิตฺตํ  อุปฏฺ€เปตฺวา  
+<span class="LineNumber"> 010 </span>			ทิสาปิ  เม  ธมฺมกถํ  สุณนฺตุ  
+<span class="LineNumber"> 011 </span>			ทิสาปิ  เม  ยุฺชนฺตุ  พุทฺธสาสเน  
+<span class="LineNumber"> 012 </span>			ทิสาปิ  เม  เต  มนุเช  (๑)  ภชนฺตุ  
+<span class="LineNumber"> 013 </span>			เย  ธมฺมเมวาทปยนฺติ  สนฺโต ฯ  
+<span class="LineNumber"> 014 </span>		ทิสา  หิ  เม  ขนฺติวาทานํ  		อวิโรธปฺปสํสินํ  
+<span class="LineNumber"> 015 </span>		สุณนฺตุ  ธมฺมํ  กาเลน  		ตฺจ  อนุวิธียนฺตุ ฯ  
+<span class="LineNumber"> 016 </span>		น  หิ  ชาตุ  โส  มมํ  หึเส  		อฺํ  วา  ปน  กฺจิ  นํ  (๒)  
+<span class="LineNumber"> 017 </span>		ปปฺปุยฺย  ปรมํ  สนฺตึ  		รกฺเขยฺย  ตสถาวเร ฯ  
+<span class="LineNumber"> 018 </span>			อุทกํ  หิ  นยนฺติ  เนตฺติกา  
+<span class="LineNumber"> 019 </span>			อุสุการา  ทมยนฺติ  (๓)  เตชนํ  
+<span class="LineNumber"> 020 </span>			ทารุํ  ทมยนฺติ  ตจฺฉกา  
+<span class="LineNumber"> 021 </span>			อตฺตานํ  ทมยนฺติ  (๓)  ปณฺฑิตา ฯ  
+<span class="LineNumber"> 022 </span>#๑.  สฺยา.  มนุสฺเส  ฯ  ๒.  ม.  กฺจิ  นํ  ฯ  ๓.  สฺยา.  นมยนฺติ  ฯ  

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                   เอก.                                                  พหุ.  
+<span class="LineNumber"> 002 </span>ทุ.  <B>มาตรํ</B>  เอา อุ  การันต์  เป็น            <B>มาตโร</B>  (แปลเหมือน  ป. พหุ.)
+<span class="LineNumber"> 003 </span>                 อา  อาเทส เป็น อร
+<span class="LineNumber"> 004 </span>                 แล้ว  คง อํ  ไว้
+<span class="LineNumber"> 005 </span>ต.  <B>มาตรา</B> เอา อุ การันต์  เป็น              <B>มาตราหิ</B>  เอา  อุ  การันต์  เป็น
+<span class="LineNumber"> 006 </span>                  อาร  อาเทส เป็น อร                            อาร  อาเทส  เป็น อร
+<span class="LineNumber"> 007 </span>                  เอา  นา  เป็น  อา                                 หิ  อยู่หลัง  ทีฆะ  อะ
+<span class="LineNumber"> 008 </span>                                                              <B>มาตราภิ</B>   แปลงเหมือนกัน ต่าง               
+<span class="LineNumber"> 009 </span>                                                                               แต่แปลง  หิ เป็น  ภิ
+<span class="LineNumber"> 010 </span>        <B>มาตุยา</B>  เอา นา  เป็น ยา                 <B>มาตูหิ</B>       หิ อยู่หลัง  ทีฆะ อุ เป็น
+<span class="LineNumber"> 011 </span>                                                                                อู  คง หิ ไว้
+<span class="LineNumber"> 012 </span>                                                                <B>มาตูภิ</B>       แปลงเหมือนกัน  ต่าง
+<span class="LineNumber"> 013 </span>                                                                                 แต่แปลง  หิ  เป็น ภิ
+<span class="LineNumber"> 014 </span>จ.  <B>มาตุ</B> ลบ ส เสีย                                     <B>มาตรานํ</B>  เอา อุ การันต์  เป็น
+<span class="LineNumber"> 015 </span>                                                                                  อาร  อาเทส เป็น อร
+<span class="LineNumber"> 016 </span>                                                                                   นํ  อยู่หลัง  ทีฆะ  อะ
+<span class="LineNumber"> 017 </span>                                                                                   เป็น  อา แล้ว คง นํ
+<span class="LineNumber"> 018 </span>                                                                                    ไว้
+<span class="LineNumber"> 019 </span>        <B>มาตุยา</B>  เอา ส เป็น  ยา                      <B>มาตูนํ</B>         ทีฆะ  อุ  เป็น  อู คง นํ ไว้
+
+ 

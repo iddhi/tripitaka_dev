@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>สมมติ  ให้เป็นปุํลิงค์  และอิตถีลิงค์  เหมือนคำว่า  ทาโร  เมีย  สมมติ   
+<span class="LineNumber"> 002 </span>ให้เป็นปุํลิงค์,  ปเทโส  ประเทศ  สมมติให้เป็นปุํลิงค์,  ภูมิ  แผ่นดิน
+<span class="LineNumber"> 003 </span>สมมติให้เป็นอิตถีลิงค์,  ที่จัดตามกำเนิดนั้น  เหมือน  ปุริโส  ชาย
+<span class="LineNumber"> 004 </span>เป็นปุํลิงค์,  อิตฺถี  หญิง  เป็นอิตถีลิงค์  เป็นต้น.  
+<span class="LineNumber"> 005 </span>	ต่อไปนี้จะแสดงอุทาหรณ์  ศัพท์ที่เป็นลิงค์เดียว ๒  ลิงค์  ๓  ลิงค์
+<span class="LineNumber"> 006 </span>พอเป็นตัวอย่าง.
+<span class="LineNumber"> 007 </span>			[๓๙]  นามนามเป็นลิงค์เดียว
+<span class="LineNumber"> 008 </span>-----------------------------------------------------------------------------------
+<span class="LineNumber"> 009 </span>		ปุํลิงค์			อิตถีลิงค์				นปุํสกลิงค์
+<span class="LineNumber"> 010 </span>อมโร  	เทวดา	      	อจฺฉรา	นามอัปสร	องฺคํ		องค์
+<span class="LineNumber"> 011 </span>อาทิจฺโจ	พระอาทิตย์    	อาภา	รัศมี			อารมฺมณํ	อารมณ์
+<span class="LineNumber"> 012 </span>อินฺโท	พระอินทร์	อิทฺธิ		ฤทธิ์			อิณํ  		หนี้
+<span class="LineNumber"> 013 </span>อีโส		คนเป็นใหญ่	อีสา		งอนไถ  		อีริณํ 	ทุ่งนา
+<span class="LineNumber"> 014 </span>อุทธิ		ทะเล		อุฬุ		ดาว 			อุทกํ		น้ำ
+<span class="LineNumber"> 015 </span>เอรณฺโฑ	ต้นละหุ่ง		เอสิกา	เสาระเนียด	เอฬาลุกํ	ฟักเหลือง
+<span class="LineNumber"> 016 </span>โอโฆ	ห้วงน้ำ		โอชา	โอชา		โอกํ 		น้ำ
+<span class="LineNumber"> 017 </span>กณฺโณ	หู			กฏิ		สะเอว		กมฺมํ		กรรม
+<span class="LineNumber"> 018 </span>จนฺโท	พระจันทร์	จมู		เสนา		จกฺขุ		นัยน์ตา
+<span class="LineNumber"> 019 </span>ตรุ		ต้นไม้		ตารา  	ดาว			เตลํ		น้ำมัน
+<span class="LineNumber"> 020 </span>ปพฺพโต	ภูเขา			ปภา		รัศมี			ปณฺณํ	ใบไม้
+<span class="LineNumber"> 021 </span>ยโม		พระยม		ยาคุ		ข้าวต้ม		ยานํ		ยาน
+

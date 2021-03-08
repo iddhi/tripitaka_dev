@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span><B>ทมฺมิ</B>		ย่อมให้  ทา ธาตุ ในความให้ อ ปัจจัย  มิ วิภัตติ
+<span class="LineNumber"> 002 </span>		เพราะ มิ อยู่หลัง  เอา อา แห่ง ทา เป็น นิคคหิต  แล้ว
+<span class="LineNumber"> 003 </span>		แปลงเป็น  มฺ.   
+<span class="LineNumber"> 004 </span><B>ทิยฺยติ</B>	ย่อมให้  ทา ธาตุ  ย ปัจจัย  ติ วิภัตติ  เอา <B>อา</B> แห่ง
+<span class="LineNumber"> 005 </span>		<B>ทา</B> เป็น  <B>อิ</B> ซ้อน  <B>ยฺ</B>.
+<span class="LineNumber"> 006 </span><B>ทิปฺปติ</B> 	ย่อมส่องสว่าง  ทิปฺ  ธาตุ  ย ปัจจัย  ติ  วิภัตติ  แปลง
+<span class="LineNumber"> 007 </span>		<B>ย</B> กับ  <B>ปฺ</B> ที่สุดธาตุเป็น <B>ปฺป</B>.
+<span class="LineNumber"> 008 </span><B>ทิสฺสติ</B>	ย่อมเห็น  ทิสฺ  ธาตุ ในความเห็น  อ ปัจจัย  ติ วิภัตติ
+<span class="LineNumber"> 009 </span>		แปลง  <B>ทิสฺ</B>  เป็น <B>ทิสฺส</B>.
+<span class="LineNumber"> 010 </span><B>ทิสฺสติ</B><SUP>๑</SUP>  	อัน... ย่อมเห็น-ย่อมปรากฏ  ทิสฺ  ธาตุ  ย ปัจจัย
+<span class="LineNumber"> 011 </span>		(กัมมวาจก) ติ วิภัตติ  แปลง  <B>ย</B> กับ  <B>สฺ</B> ที่สุดธาตุ
+<span class="LineNumber"> 012 </span>		เป็น สฺส.
+<span class="LineNumber"> 013 </span><B>ทียติ</B>		อัน... ย่อมให้  ทา ธาตุ ย ปัจจัย อิ  อาคม ติ  วิภัตติ
+<span class="LineNumber"> 014 </span>		 แปลง  <B>อา</B> ที่ <B>ทา</B>  เป็น <B>อิ</B>  แล้วทีฆะ อิ เป็น  อี ที่เป็น
+<span class="LineNumber"> 015 </span>		ทิยฺยติ  ก็มี  ต่างแต่ซ้อน  <B>ยฺ</B>  และไม่มีทีฆะเท่านั้น.
+<span class="LineNumber"> 016 </span><B>ทูเสติ</B>	ย่อมประทุษร้าย ทุสฺ  ธาตุ  ในความประทุษร้าย  เณ
+<span class="LineNumber"> 017 </span>		ปัจจัย (กัตตุวาจก)  ติ วิภัตติ ลบ ณ คงไว้แต่ เอ
+<span class="LineNumber"> 018 </span>		แล้วทีฆะ  <B>อุ</B> ต้นธาตุเป็น <B>อู</B>.
+<span class="LineNumber"> 019 </span><B>เทเสติ</B>	ย่อมแสดง ทิสฺ ธาตุ  เณ ปัจจัย  (กัตตุวาจก) ติ  วิภัตติ
+<span class="LineNumber"> 020 </span>		ลบ ณ คงไว้แต่  เอ แล้วพฤทธิ์  <B>อิ</B> ต้นธาตุเป็น <B>เอ</B>.
+
+<span class='footnote'>๑.  ธาตุนี้  ถ้าแปลถือเอาความเป็น  กัตตุวาจก  ก็ได้ว่า  ย่อมปรากฏ  วิธีและเปลี่ยนแปลงดูใน</span>
+<span class='footnote'>ทิสฺสติ  ตัวต้น.</span>

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>นกุสลติกนหีนติกกุสลติกหีนติกะ</H1> 
+<span class="LineNumber"> 002 </span>                   <H2>(๑. กุสลติกะ  ๑๓.  หีนติกะ)</H2>       					 
+<span class="LineNumber"> 003 </span>                                    <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                          <H2>หีนบท</H2>	
+<span class="LineNumber"> 007 </span>           [๙๖๘] ๑.  <B>หีนธรรม   ที่เป็นอกุศล    อาศัยธรรมที่ไม่ใช่หีน-
+<span class="LineNumber"> 008 </span>ธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 010 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๙๖๙]  ในเหตุปัจจัย มี ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 013 </span>                                         <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 014 </span>                                         <H2>เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                         <H2>มัชฌิมบท</H2>
+<span class="LineNumber"> 016 </span>           [๙๗๐] ๑.  <B>มัชฌัมธรรม  ที่เป็นอัพยากตะ  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 017 </span>มัชฌิมธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>                                                <B>ฯลฯ</B>

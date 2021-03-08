@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>ด้วยแสดงธรรมแก่มาตุคาม  ยิ่งกว่า  ๕-๖  คำ  
+<span class="LineNumber"> 002 </span>                   เว้นแต่มีบุรุษผู้รู้เดียงสา  ๑      สิกขาบทว่าด้วย
+<span class="LineNumber"> 003 </span>                   ยังไม่ได้รับสมมติสั่งสอนภิกษุณี  ๑ สิกขาบท
+<span class="LineNumber"> 004 </span>                   ว่าด้วยภิกษุได้รับสมมติแล้วสอนภิกษุณีเมื่อ
+<span class="LineNumber"> 005 </span>                   พระอาทิตย์อัสดงคตแล้ว  ๑  สิกขาบทว่า
+<span class="LineNumber"> 006 </span>                   ด้วยภิกษุณีเรียนและบอกติรัจฉานวิชา  ๒
+<span class="LineNumber"> 007 </span>                   สิกขาบท    สิกขาบทว่าด้วยภิกษุณีไม่ขอ
+<span class="LineNumber"> 008 </span>                   โอกาสก่อนถามปัญหา   ๑    สิกขาบทเหล่านี้ 
+<span class="LineNumber"> 009 </span>                   รวม  ๗  สิกขาบท    เกิดแต่วาจา    มิใช่กาย
+<span class="LineNumber"> 010 </span>                   และจิต   เกิดแต่วาจากับจิต   แต่มิใช่เกิดแต่
+<span class="LineNumber"> 011 </span>                   กาย ทุก ๆ สิกขาบท มีสมุฏฐาน ๒ เหมือน
+<span class="LineNumber"> 012 </span>                   ปทโสธัมมสมุฏฐาน  ฉะนั้น.</B>
+<span class="LineNumber"> 013 </span>                                <I>ปทโสธัมมสมุฏฐาน  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                    <H1>อัทธานสมุฏฐาน</H1>
+<span class="LineNumber"> 015 </span>                             [๘๓๔]   <B>สิกขาบทว่าด้วยชักชวน
+<span class="LineNumber"> 016 </span>                   ภิกษุณีเดินทางไกล  ๑     สิกขาบทว่าด้วย
+<span class="LineNumber"> 017 </span>                   ชักชวนภิกษุณีลงเรือลำเดียวกัน  ๑  สิกขาบท
+<span class="LineNumber"> 018 </span>                   ว่าด้วยขอโภชนะอันประณีต ๑    สิกขาบท
+<span class="LineNumber"> 019 </span>                   ว่าด้วยชักชวนมาตุคามเดินทางด้วยกัน  ๑
+<span class="LineNumber"> 020 </span>                   สิกขาบทว่าด้วยภิกษุณีถอนขนในที่แคบ ๑</B>

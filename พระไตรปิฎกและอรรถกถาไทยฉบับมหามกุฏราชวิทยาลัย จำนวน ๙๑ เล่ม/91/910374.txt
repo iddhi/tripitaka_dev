@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                    <H2>๑. นเหตุปัจจัย</H2> 
+<span class="LineNumber"> 003 </span>           [๒๓] ๑.  <B>ธรรมที่ไม่ใช่สุขายเวทนายสัมปยุตตธรรม 
+<span class="LineNumber"> 004 </span>ธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม  เกิดขึ้น   เพราะเหตุปัจจัย</B> 
+
+<span class="LineNumber"> 005 </span>                    <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 006 </span>           [๒๔]  ในนเหตุปัจจัย มี ๒๑ วาระ  ในนอารัมมณปัจจัย มี ๒๑  วาระ
+<span class="LineNumber"> 007 </span>ฯลฯ  ในนวิปปยุตตปัจจัย มี  ๑๔ วาระ  ฯลฯ  ในโนวิคตปัจจัย มี ๒๑ วาระ.
+<span class="LineNumber"> 008 </span>           สหชาตวาระก็ดี    ปัจจยวาระก็ดี    นิสสยวาระก็ดี    สังสัฏฐวาระก็ดี
+<span class="LineNumber"> 009 </span>สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 010 </span>                                       <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 011 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>           [๒๕] ๑.  <B>ธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม เป็นปัจจัย
+<span class="LineNumber"> 014 </span>แก่ธรรม   ที่ไม่ใช่สุขายเวทนายสัมปยุตตธรรม  ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 015 </span>ปัจจัย</B>
+<span class="LineNumber"> 016 </span>                   ๒.  <B>ธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม เป็นปัจจัย
+<span class="LineNumber"> 017 </span>แก่ธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม  ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 018 </span>ปัจจัย</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           มีอยู่   อาบัติ   ภิกษุไม่ต้องภายในสีมาและภายนอกสีมา  
+<span class="LineNumber"> 002 </span>           มีอยู่   อาบัติ  ภิกษุต้องในบ้าน  ไม่ต้องในป่า
+<span class="LineNumber"> 003 </span>           มีอยู่   อาบัติ   ภิกษุต้องในป่า  ไม่ต้องในบ้าน
+<span class="LineNumber"> 004 </span>           มีอยู่   อาบัติ   ภิกษุต้องในบ้านและในป่า
+<span class="LineNumber"> 005 </span>           มีอยู่   อาบัติ   ภิกษุไม่ต้องในบ้านและในป่า.
+
+<span class="LineNumber"> 006 </span>                                <H1>ว่าด้วยการโจทเป็นต้น</H1> 
+<span class="LineNumber"> 007 </span>           [๙๗๕]  การโจทมี ๔  คือ  โจทชี้วัตถุ  ๑  โจทชี้อาบัติ ๑  โจทห้าม
+<span class="LineNumber"> 008 </span>สังวาส ๑  โจทห้ามสามีจิกรรม ๑
+<span class="LineNumber"> 009 </span>           กิจเบื้องต้นมี ๔
+<span class="LineNumber"> 010 </span>           ความพร้อมพรั่งถึงที่แล้วมี ๔
+<span class="LineNumber"> 011 </span>           อาบัติปาจิตตีย์มีเหตุมิใช่อย่างอื่นมี ๔
+<span class="LineNumber"> 012 </span>           สมมติภิกษุมี ๔
+<span class="LineNumber"> 013 </span>           ถึงอคติมี ๔ คือ  ถึงฉันทาคติ ๑  ถึงโทสาคติ ๑  ถึงโมหาคติ ๑  ถึง
+<span class="LineNumber"> 014 </span>ภยาคติ ๑  ไม่ถึงอคติมี  ๔  คือ  ไม่ถึงฉันทาคติ  ๑  ไม่ถึงโทสาคติ ๑  ไม่ถึง
+<span class="LineNumber"> 015 </span>โมหาคติ ๑  ไม่ถึงภยาคติ ๑
+<span class="LineNumber"> 016 </span>           ภิกษุอลัชชีประกอบด้วยองค์  ๔   ย่อมทำลายสงฆ์  คือ  ถึงฉันทาคติ ๑
+<span class="LineNumber"> 017 </span>ถึงโทสาคติ ๑   ถึงโมหาคติ ๑   ถึงภยาคติ  ๑
+<span class="LineNumber"> 018 </span>           ภิกษุผู้มีศีลเป็นที่รักประกอบด้วยองค์ ๔  ย่อมสมานสงฆ์ผู้แตกกันแล้ว
+<span class="LineNumber"> 019 </span>ให้สามัคคี  คือไม่ถึงฉันทาคติ  ๑  ไม่ถึงโทสาคติ  ๑  ไม่ถึงโมหาคติ  ๑  ไม่ถึง
+<span class="LineNumber"> 020 </span>ภยาคติ ๑                                                                                            
+<span class="LineNumber"> 021 </span>           ภิกษุประกอบด้วยองค์  ๔  อันภิกษุไม่ควรถามวินัย คือ ถึงฉันทาคติ ๑
+<span class="LineNumber"> 022 </span>ถึงโทสาคติ ๑   ถึงโมหาคติ ๑   ถึงภยาคติ ๑                       

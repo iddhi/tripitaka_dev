@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  756
+	
+<span class="LineNumber"> 002 </span>		อธิตา เวทคู สพฺเพ	ฉฬงฺเค ปารมึ คตา  
+<span class="LineNumber"> 003 </span>		สกวิชฺชาหุปตฺถทฺธา (๑)	หิมวนฺเต วสนฺติ เต ฯ  
+<span class="LineNumber"> 004 </span>		จวิตฺวา ตุสิตา กายา	เทวปุตฺโต มหายโส  
+<span class="LineNumber"> 005 </span>		อุปฺปชฺชิ มาตุกุจฺฉิสฺมึ	สมฺปชาโน ปติสฺสโต ฯ  
+<span class="LineNumber"> 006 </span>		สมฺพุทฺเธ อุปปชฺชนฺเต	ทสสหสฺสิ กมฺปถ  
+<span class="LineNumber"> 007 </span>		อนฺธา จกฺขุํ อลภึสุ		อุปฺปชฺชนฺตมฺหิ นายเก ฯ  
+<span class="LineNumber"> 008 </span>		ฉปฺปการมกมฺปิตฺถ (๒)	เกวลา วสุธา อยํ  
+<span class="LineNumber"> 009 </span>		นิคฺโฆสสทฺทํ สุตฺวาน	วิมฺหยึสุ (๓) มหาชนา ฯ  
+<span class="LineNumber"> 010 </span>		สพฺเพ ชนา สมาคมฺม	อาคจฺฉุํมม สนฺติกํ  
+<span class="LineNumber"> 011 </span>		วสุธายํ ปกมฺปิตฺถ		กึ วิปาโก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 012 </span>		อวจาสึ (๔) ตทา เตสํ	มา เสถ(๕) นตฺถิ โว ภยํ  
+<span class="LineNumber"> 013 </span>		วิสฏฺ€า โหถ สพฺเพปิ	อุปฺปาโทยํ สุขตฺถิโก ฯ (๖)  
+<span class="LineNumber"> 014 </span>		อฏฺ€เหตูหิ สมฺผสฺส(๗)  วสุธายํ ปกมฺปติ (๘)  
+<span class="LineNumber"> 015 </span>		ตถา นิมิตฺตา ทิสฺสนฺติ	โอภาโส วิปุโล มหา ฯ  
+<span class="LineNumber"> 016 </span>		อสํสยํ พุทฺธเสฏฺโ€		อุปฺปชฺชิสฺสติ จกฺขุมา  
+<span class="LineNumber"> 017 </span>		สฺาเปตฺวาน ชนตํ	ปฺจสีเล กเถสหํ ฯ  
+<span class="LineNumber"> 018 </span># ๑. สี. สกวิชฺชาหุปตฺตพฺพา ฯ  ๒. สฺยา. ฉปฺปการมกมฺปิตฺถ ฯ 
+<span class="LineNumber"> 019 </span># ยุ. ฉพฺพิการํ ๓. สฺยา. วิมฺหยึสุ ฯ  ม. ยุ. อุพฺพิชฺชึสุ ฯ 
+<span class="LineNumber"> 020 </span># ๔. สฺยา. วิทสฺสามิ ฯ ยุ. อวจาสิ ฯ ๕. สฺยา. มา ภายิตฺถ ฯ 
+<span class="LineNumber"> 021 </span># ยุ. เภถ ฯ ๖. สฺยา. สุขตฺถิโก ฯ  ๗. สฺยา. สมฺผสฺสา ฯ 
+<span class="LineNumber"> 022 </span># สี. อตฺถเหตูติ สมฺผสฺสํ ฯ  ๘. สี. วสุธา สมฺปกมฺปติ ฯ

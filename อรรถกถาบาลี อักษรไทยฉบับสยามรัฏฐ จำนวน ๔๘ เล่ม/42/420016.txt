@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  16
+
+<span class="LineNumber"> 002 </span>	นวโทสมุปาคตนฺติ  สาฏกํ  ปชหนฺโต  นว  โทเส  ทิสฺวา  
+<span class="LineNumber"> 003 </span>ปชหินฺติ  ทีเปติ ฯ  ตาปสปพฺพชฺชํ  ปพฺพชิตานํ  หิ  สาฏกสฺมึ  
+<span class="LineNumber"> 004 </span>นว  โทสา  อุปฏฺ€หนฺติ ฯ [๑] 
+<span class="LineNumber"> 005 </span>	มหคฺฆภาโว  เอโก  โทโส  ปรปฏิพทฺธตาย  อุปฺปชฺชน-
+<span class="LineNumber"> 006 </span>ภาโว  เอโก  ปริโภเคน  ลหุํ  กิลิสฺสนภาโว  เอโก ฯ  กิลิฏฺโ€  
+<span class="LineNumber"> 007 </span>หิ (๒)  โธวิตพฺโพ  จ  รชิตพฺโพ  จ  โหติ ฯ  ปริโภเคน  ชีรณภาโว  
+<span class="LineNumber"> 008 </span>เอโก ฯ  ชิณฺณสฺส  หิ  ตุณฺณํ  วา  อคฺคฬทานํ  วา  กาตพฺพํ  
+<span class="LineNumber"> 009 </span>โหติ ฯ  ปุน  ปริเยสนาย  ทุรภิสมฺภวภาโว  เอโก  ตาปสปพฺพชฺชาย  
+<span class="LineNumber"> 010 </span>อสารุปฺปภาโว  เอโก  ปจฺจตฺถิกานํ  สาธารณภาโว  เอโก ฯ  
+<span class="LineNumber"> 011 </span>ยถา  หิ นํ ปจฺจตฺถิกา  น  คณฺหนฺติ  เอวํ  โคเปตพฺโพ  โหติ ฯ  
+<span class="LineNumber"> 012 </span>ปริภุฺชนฺตสฺส  วิภูสนฏฺ€านภาโว  เอโก คเหตฺวา วิจรนฺตสฺส 
+<span class="LineNumber"> 013 </span>ขนฺธภารมหิจฺฉภาโว  เอโกติ ฯ  
+<span class="LineNumber"> 014 </span>	วากจีรํ  นิวาเสสินฺติ  ตทาหํ  สาริปุตฺต  อิเม  นว  โทเส  
+<span class="LineNumber"> 015 </span>ทิสฺวา  สาฏกํ  ปหาย  วากจีรํ  นิวาเสสึ  มุฺชติณํ (๔)  หีรํ หีรํ 
+<span class="LineNumber"> 016 </span>กตฺวา คนฺเถตฺวา กตํ วากจีรํ  นิวาสนปารุปนตฺถาย อาทิยินฺติ 
+<span class="LineNumber"> 017 </span>อตฺโถ ฯ  
+<span class="LineNumber"> 018 </span>	ทฺวาทสคุณมุปาคตนฺติ  ทฺวาทสหิ  อานิสํเสหิ  สมนฺนาคตํ ฯ  
+<span class="LineNumber"> 019 </span>วากจีรสฺมึ  หิ  ทฺวาทส  อานิสํสา  อปฺปคฺฆํ  สุนฺทรํ  กปฺปิยนฺติ  
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร เตสุ ตสฺสาติ ทิสฺสติ ฯ  ๒. สพฺพตฺถ  จ ฯ  
+<span class="LineNumber"> 021 </span># ๓ ม. อคฺคฬทานํ ฯ  ๔ ม. อุสิรมุฺชติณํ ฯ 

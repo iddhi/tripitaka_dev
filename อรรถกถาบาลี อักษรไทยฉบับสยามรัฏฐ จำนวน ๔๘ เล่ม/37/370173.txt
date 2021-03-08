@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 173
+
+<span class="LineNumber"> 002 </span>		นิกฺขิตฺตสตฺถา ปจฺจตฺตา	นิวาตมนุวตฺตเร  
+<span class="LineNumber"> 003 </span>		อุตฺตโม อุสฺสโว อชฺช	น ยุทฺธํ มม รุจฺจติ  
+<span class="LineNumber"> 004 </span>		อนฺนปานฺจ ขชฺชฺจ	ขิปฺปํ อภิหรนฺตุ เต  
+<span class="LineNumber"> 005 </span>		รมสฺสุ เทว กาเมหิ		นจฺจคีเตสุ วาทิเต  
+<span class="LineNumber"> 006 </span>	[๘๓๗]สุนามสฺส วโจ สุตฺวา	วิชโย เอตทพฺรวิ  
+<span class="LineNumber"> 007 </span>		สพฺเพ กามา มหาราช	นิจฺจํ ตวมุปฏฺ€ิตา  
+<span class="LineNumber"> 008 </span>		น เหเต ทุลฺลภา เทว	ตว กาเมหิ โมทิตุํ  
+<span class="LineNumber"> 009 </span>		สทา(๑) หิ กาเม ลภสิ	เนตํ จิตฺตมตํ มม  
+<span class="LineNumber"> 010 </span>		สมณํ พฺราหฺมณํ วาปิ	อุปาเสมุ พหุสฺสุตํ  
+<span class="LineNumber"> 011 </span>		โย นชฺช วินเย กงฺขํ	อตฺถธมฺมวิทู อิเส  
+<span class="LineNumber"> 012 </span>	[๘๓๘]วิชยสฺส วโจ สุตฺวา	ราชา องฺคติมพฺรวิ  
+<span class="LineNumber"> 013 </span>		ยถา วิชโย ภณติ		มยฺหํ(๒) เจตํว(๓) รุจฺจติ  
+<span class="LineNumber"> 014 </span>		สมณํ พฺราหฺมณํ วาปิ	อุปาเสมุ พหุสฺสุตํ  
+<span class="LineNumber"> 015 </span>		โย นชฺช วินเย กงฺขํ	อตฺถธมฺมวิทู อิเส  
+<span class="LineNumber"> 016 </span>		สพฺเพว สนฺตา กโรถ มตึ  กึ(๓) อุปาเสมุ ปณฺฑิตํ  
+<span class="LineNumber"> 017 </span>		โย นชฺช วินเย กงฺขํ	อตฺถธมฺมวิทู อิเส  
+<span class="LineNumber"> 018 </span>	[๘๓๙]เวเทหสฺส วโจ สุตฺวา	อลาโต เอตทพฺรวิ  
+<span class="LineNumber"> 019 </span>		อตฺถายํ มิคทายสฺมึ	อเจโล ธีรสมฺมโต  
+<span class="LineNumber"> 020 </span># ๑. ม. สทาปิ ฯ กามา สุลภา ฯ  ๒. ม. มยฺหมฺเปตํว ฯ 
+<span class="LineNumber"> 021 </span># ส. มยฺหํ เปตํ ว ฯ  ๓. ส. ม. กํ ฯ

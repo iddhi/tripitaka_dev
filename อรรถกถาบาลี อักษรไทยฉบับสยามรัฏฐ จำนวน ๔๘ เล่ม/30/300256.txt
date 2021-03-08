@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  256   
+   
+<span class="LineNumber"> 002 </span>			พีรณตฺถมฺภกวคฺควณฺณนา  
+
+<span class="LineNumber"> 003 </span>			โสมทตฺตชาตกํ ฯ  
+<span class="LineNumber"> 004 </span>	อกาสิ  โยคฺคนฺติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต
+<span class="LineNumber"> 005 </span>โลฬุทายิตฺเถรํ  อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 006 </span>	โส  หิ  ทฺวินฺนํ  ติณฺณํ  ชนานํ  อนฺตเร  เอกวจนมฺปิ 
+<span class="LineNumber"> 007 </span>สมฺปาเทตฺวา  กเถตุํ  น  สกฺโกติ  สารชฺชพหุโล  อฺํ  กเถสฺสามีติ  
+<span class="LineNumber"> 008 </span>อฺเมว  กเถสิ ฯ  ตสฺส  ตํ  ปวตฺตึ  ภิกฺขู  ธมฺมสภายํ  กเถนฺตา  
+<span class="LineNumber"> 009 </span>นิสีทึสุ ฯ  สตฺถา  อาคนฺตฺวา  กายนุตฺถ  ภิกฺขเว  เอตรหิ  
+<span class="LineNumber"> 010 </span>กถาย  สนฺนิสินฺนาติ  ปุจฺฉิตฺวา  อิมาย  นามาติ  วุตฺเต  น 
+<span class="LineNumber"> 011 </span>ภิกฺขเว  โลฬุทายี  อิทาเนว  สารชฺชพหุโล ปุพฺเพปิ สารชฺช-
+<span class="LineNumber"> 012 </span>พหุโล เยวาติ วตฺวา อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 013 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 014 </span>กาสิกรฏฺเ€  อฺตรสฺมึ  พฺราหฺมณกุเล  นิพฺพตฺติตฺวา  วยปฺปตฺโต  
+<span class="LineNumber"> 015 </span>ตกฺกสิลายํ  สิปฺปํ  อุคฺคณฺหิตฺวา  ปุน  เคหํ  อาคนฺตฺวา  มาตาปิตูนํ  
+<span class="LineNumber"> 016 </span>ทุคฺคตภาวํ  ตฺวา  ปริหีนกุลํ (๑) ปติฏฺ€เปสฺสามีติ  มาตาปิตโร
+<span class="LineNumber"> 017 </span>อาปุจฺฉิตฺวา  พาราณสิยํ  คนฺตฺวา  ราชานํ  อุปฏฺ€าสิ ฯ  โส 
+<span class="LineNumber"> 018 </span>รฺโ(๒)  ปิโย  อโหสิ  มนาโป ฯ  อถสฺส  ปิตุโน  ทฺวีหิ  เยว  โคเณหิ 
+<span class="LineNumber"> 019 </span>กสึ  กตฺวา  ชีวิตํ  กปฺเปนฺตสฺส  เอโก  โคโณ  มโต ฯ  โส  
+<span class="LineNumber"> 020 </span># ๑. ม. ปริหีนกุลโต เสฏฺ€ิกุลํ ฯ  ๒. ม. รฺา ฯ

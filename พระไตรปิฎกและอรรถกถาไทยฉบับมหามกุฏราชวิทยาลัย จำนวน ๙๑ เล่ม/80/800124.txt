@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                     ป.  ไม่พึงกล่าวอย่างนั้น   ฯ ล ฯ 
+<span class="LineNumber"> 002 </span>                     ส.  วิญญาณท่องเที่ยวไป   หรือ ?
+<span class="LineNumber"> 003 </span>                     ป.  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                     ส.  ชีพก็อันนั้น  สรีระก็อันนั้น  หรือ ?
+<span class="LineNumber"> 005 </span>                     ป.  ไม่พึงกล่าวอย่างนั้น  ฯ ล ฯ
+<span class="LineNumber"> 006 </span>           [๙๑]  ส.  บุคคลนั้นแหละ    ท่องเที่ยวไปจากโลกนี้สู่โลกอื่น
+<span class="LineNumber"> 007 </span>                       จากโลกอื่นสู่โลกนี้  หรือ ?
+<span class="LineNumber"> 008 </span>                     ป.  ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                     ส.  รูปไม่ท่องเที่ยวไป   หรือ ?
+<span class="LineNumber"> 010 </span>                     ป.  ไม่พึงกล่าวอย่างนั้น   ฯ ล ฯ
+<span class="LineNumber"> 011 </span>                     ส.  รูปไม่ท่องเที่ยวไป  หรือ ?
+<span class="LineNumber"> 012 </span>                     ป.  ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                     ส.  ชีพเป็นอื่น  สรีระก็เป็นอื่น   หรือ ?
+<span class="LineNumber"> 014 </span>                     ป.  ไม่พึงกล่าวอย่างนั้น   ฯ ล ฯ
+<span class="LineNumber"> 015 </span>                     ส.  เวทนา   ฯ ล ฯ     สัญญา   ฯ ล ฯ    สังขาร   ฯ ล ฯ
+<span class="LineNumber"> 016 </span>                          วิญญาณ  ไม่ท่องเที่ยวไป  หรือ  ?
+<span class="LineNumber"> 017 </span>                     ป.  ไม่พึงกล่าวอย่างนั้น   ฯ ล ฯ
+<span class="LineNumber"> 018 </span>                     ส.  วิญญาณไม่ท่องเที่ยวไป  หรือ ?
+<span class="LineNumber"> 019 </span>                     ป.  ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                     ส.  ชีพเป็นอื่น   สรีระก็เป็นอื่น   หรือ ?
+

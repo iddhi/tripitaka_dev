@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           บทว่า   <B>ปาฏิโมกฺขํ</B>    ได้แก่  ไม่รู้จักมาติกา ๒ อย่าง.  
+<span class="LineNumber"> 002 </span>           บทว่า  <B>ปาฏิโมกฺขุทฺเทสํ</B>  ได้แก่  ไม่รู้จักปาฏิโมกขุทเทส  ๙  อย่าง
+<span class="LineNumber"> 003 </span>แม้ทั้งหมด. 
+<span class="LineNumber"> 004 </span>           บทว่า  <B>ปวารณํ</B>  ได้แก่   ไม่รู้จักปวารณา  ๙ อย่าง.   ปวารณากรรม
+<span class="LineNumber"> 005 </span>คล้ายกับอุโบสถกรรมนั่นแล.
+
+<span class="LineNumber"> 006 </span>                                <H1>[วินิจฉัยในอปาสาทิกปัญจกะ]</H1> 
+<span class="LineNumber"> 007 </span>           วินิจฉัยในอปาสาทิกปัญจกะ  พึงทราบดังนี้:- 
+<span class="LineNumber"> 008 </span>           อกุศลกรรม   มีกายทุจริตเป็นต้น    เรียกว่ากรรมไม่น่าเลื่อมใส.
+<span class="LineNumber"> 009 </span>           กุศลกรรม   มีกายสุจริตเป็นต้น   เรียกว่ากรรมน่าเลื่อมใส.
+<span class="LineNumber"> 010 </span>           บทว่า   <B>อติเวลํ</B>    มีความว่า   คลุกคลีอยู่ในสกุลทั้งหลายเกินเวลา   คือ
+<span class="LineNumber"> 011 </span>สิ้นกาลมากกว่า   อยู่ในวิหารน้อย.   การที่กิเลสทั้งหลายหยั่งลงในภายใน  ชื่อว่า
+<span class="LineNumber"> 012 </span>ช่อง.
+<span class="LineNumber"> 013 </span>           บทว่า  <B>สงฺกิลิฏ€ํ</B>  ได้แก่    อาบัติต่างโดยชนิดในเพราะทุฏฐุลลวาจา
+<span class="LineNumber"> 014 </span>และอาบัติในเพราะกายสังสัคคะเป็นอาทิ.
+<span class="LineNumber"> 015 </span>           วินิจฉัยในวิสุทธิปัญจกะ  พึงทราบดังนี้:-
+<span class="LineNumber"> 016 </span>           ปวารณาทั้ง ๙ อย่าง  พึงทราบโดยปวารณาศัพท์.
+<span class="LineNumber"> 017 </span>           บทที่เหลือในที่ทั้งปวง    ตื้นทั้งนั้น  ฉะนี้แล.
+<span class="LineNumber"> 018 </span>                                       <I>พรรณนาหมวด  ๕  จบ</I>
+
+<span class="LineNumber"> 019 </span>                                          <H1>[พรรณนาหมวด  ๖]</H1> 
+<span class="LineNumber"> 020 </span>           วินิจฉัยในหมวด ๖ พึงทราบดังนี้:-
+<span class="LineNumber"> 021 </span>           สองบทว่า  <B>ฉ   สามีจิโย</B>    ได้แก่    สามีจิกรรม  ๖  เฉพาะในภิกขุ-

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>อตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                      <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 004 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๒๓๒]   รูปขันธ์เคยเกิดแก่บุคคลใด,    เวทนาขันธ์ก็เคยดับ
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   เวทนาขันธ์เคยดับแก่บุคคลใด,   รูปขันธ์ก็เคยเกิดแก่ 
+<span class="LineNumber"> 009 </span>บุคคลนั้น    ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>                       <I>จบ  รูปขันธมูละ   เวทนาขันธมูลี</I>
+<span class="LineNumber"> 012 </span>                                     <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 013 </span>                                      <H1>เวทนาขันธมูล</H1>
+<span class="LineNumber"> 014 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 015 </span>         [๒๓๓]   เวทนาขันธ์เคยเกิดแก่บุคคลใด,     สัญญาขันธ์ก็เคย
+<span class="LineNumber"> 016 </span>ดับแก่บุคคลนั้น  ใช่ไหม  ?

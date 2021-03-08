@@ -1,0 +1,32 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>๑๐-๔.  สัปปฏิฆทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>สปฺปฏิฆา  ธมฺมา</B>                   ธรรมที่กระทบได้
+<span class="LineNumber"> 003 </span><B>อปฺปฏิฆา  ธมฺมา</B>                   ธรรมที่กระทบไม่ได้
+
+<span class="LineNumber"> 004 </span>                       <H2>๑๑-๕.  รูปิทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>รูปิโน  ธมฺมา</B>	                   ธรรมเป็นรูป
+<span class="LineNumber"> 006 </span><B>อรูปิโน  ธมฺมา</B>                         ธรรมไม่เป็นรูป
+
+<span class="LineNumber"> 007 </span>                      <H2>๑๒-๖.  โลกิยทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>โลกิยา  ธมฺมา</B>	                  ธรรมเป็นโลกิยะ
+<span class="LineNumber"> 009 </span><B>โลกุตฺตรา  ธมฺมา</B>                     ธรรมเป็นโลกุตระ
+
+<span class="LineNumber"> 010 </span>            <H2>๑๓-๗.  เกนจิวิญเญยยทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>เกนจิ  วิเยฺยา  ธมฺมา</B>           ธรรมที่จิตบางอย่างรู้ได้
+<span class="LineNumber"> 012 </span><B>เกนจิ  น วิญฺเยฺยา ธมฺมา</B>        ธรรมที่จิตบางอย่างรู้ไม่ได้
+
+<span class="LineNumber"> 013 </span>                   <H1>อาสวโคจฉกะ</H1>
+
+<span class="LineNumber"> 014 </span>       <H1>หมวดที่  ๓ มี  ๖ ทุกะ</H1>  <B>คือ</B>
+
+<span class="LineNumber"> 015 </span>[๔]              <H2>๑๔-๑.  อาสวทุกะ</H2>
+<span class="LineNumber"> 016 </span><B>อาสวา  ธมฺมา</B>                        ธรรมเป็นอาสวะ
+<span class="LineNumber"> 017 </span><B>โน อาสวา  ธมฺมา</B>                   ธรรมไม่เป็นอาสวะ
+
+<span class="LineNumber"> 018 </span>                   <H2>๑๕-๒.  สาสวทุกะ</H2>
+
+<span class="LineNumber"> 019 </span><B>สาสวา  ธมฺมา</B>                        ธรรมเป็นอารมณ์ของอาสวะ
+<span class="LineNumber"> 020 </span><B>อนาสวา  ธมฺมา</B>                      ธรรมไม่เป็นอารมณ์ของอาสวะ

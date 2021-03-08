@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  392
+
+<span class="LineNumber"> 002 </span>ปสาโท อุปฺปชฺชิ ฯ
+<span class="LineNumber"> 003 </span>	โส  เตน  จิตฺตปฺปสาเทน  เทวโลเก  นิพฺพตฺโต  อปราปรํ  
+<span class="LineNumber"> 004 </span>เทวมนุสฺเสสุ สํสรนฺโต  อิมสฺมึ  พุทฺธุปฺปาเท  นาลกคาเม 
+<span class="LineNumber"> 005 </span>อฺตรสฺส  พฺราหฺมณสฺส  ปุตฺโต หุตฺวา  นิพฺพตฺติ  สุนาโคติสฺส 
+<span class="LineNumber"> 006 </span>นามํ  อโหสิ ฯ  โส  ธมฺมเสนาปติสฺส  คิหิสหาโย เถรสฺส
+<span class="LineNumber"> 007 </span>สนฺติกํ คนฺตฺวา ธมฺมํ สุตฺวา ทสฺสนภูมิยํ ปติฏฺ€ิโต
+<span class="LineNumber"> 008 </span>ปพฺพชิตฺวา วิปสฺสนํ ปฏฺ€เปตฺวา อรหตฺตํ ปาปุณิ ฯ เตน
+<span class="LineNumber"> 009 </span>วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 010 </span>		หิมวนฺตสฺสาวิทูเร		วสโภ นาม ปพฺพโต  
+<span class="LineNumber"> 011 </span>		ตสฺมึ ปพฺพตปาทมฺหิ	อสฺสโม อาสิ มาปิโต ฯ (๒)  
+<span class="LineNumber"> 012 </span>		ตีณิ สิสฺสสหสฺสานิ		วาเจสึ พฺราหฺมโณ ตทา  
+<span class="LineNumber"> 013 </span>		สํหริตฺวาน(๓) เต สิสฺเส	เอกมนฺตํ อุปาวิสึ ฯ  
+<span class="LineNumber"> 014 </span>		เอกมนฺตํ นิสีทิตฺวา	พฺราหฺมโณ มนฺตปารคู  
+<span class="LineNumber"> 015 </span>		พุทฺธเวทํ(๔) คเวสนฺโต	าเณ จิตฺตํ ปสาทยึ(๕) ฯ  
+<span class="LineNumber"> 016 </span>		ตตฺถ จิตฺตํ ปสาเทตฺวา	นิสีทึ(๖) ปณฺณสนฺถเร  
+<span class="LineNumber"> 017 </span>		ปลฺลงฺกํ อาภุชิตฺวาน	ตตฺถ กาลงฺกโต อหํ ฯ  
+<span class="LineNumber"> 018 </span>		เอกตึเส อิโต กปฺเป	ยํ สฺมลภึ ตทา  
+<span class="LineNumber"> 019 </span>		ทุคฺคตึ นาภิชานามิ	าณสฺายิทํ ผลํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๒/๑๓๗/๒๔๐ ฯ ๒. สี. อสฺสโมสิ สมุมาปิโต ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. สํสาวิตฺวาน ฯ ยุ. สํสาเวตฺวาน ฯ ๔. สฺยา. พุทฺธเวสํ ฯ
+<span class="LineNumber"> 022 </span># ๕. สฺยา. ปสาทยิ ฯ  ๖. สฺยา. นิสีทิ ฯ 

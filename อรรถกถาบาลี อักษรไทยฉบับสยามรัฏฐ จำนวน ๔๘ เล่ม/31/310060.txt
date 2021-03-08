@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  31  มนฺธาตุราชชาตกํ  หน้า  60
+
+<span class="LineNumber"> 002 </span>	ยาวตา  จนฺทิมสูริยาติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 003 </span>เอกํ  อุกฺณฺ€ิตภิกฺขุํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 004 </span>	โส  กิร  สาวตฺถิยํ  ปิณฺฑาย  จรมาโน  เอกํ  อลงฺกต-
+<span class="LineNumber"> 005 </span>ปฏิยตฺตํ  อิตฺถึ  ทิสฺวา  อุกฺกณฺ€ิ ฯ  อถ  นํ  ภิกฺขู  ธมฺมสภายํ  
+<span class="LineNumber"> 006 </span>อาเนตฺวา  อยํ  ภนฺเต  ภิกฺขุ  อุกฺกณฺ€ิโตติ  สตฺถุ  ทสฺเสสุํ ฯ  
+<span class="LineNumber"> 007 </span>สตฺถา  สจฺจํ  กิร  ตฺวํ  ภิกฺขุ  อุกฺกณฺ€ิโตติ  ปุจฺฉิตฺวา  สจฺจํ  
+<span class="LineNumber"> 008 </span>ภนฺเตติ  วุตฺเต  กทา  ตฺวํ  ภิกฺขุ  อคารํ  อชฺฌาวสมาโน 
+<span class="LineNumber"> 009 </span>ตณฺหํ  ปูเรตุํ  สกฺขิสฺสสิ  กามตณฺหา  หิ  นาเมสา  สมุทฺโท  
+<span class="LineNumber"> 010 </span>วิย  ทุปฺปูรา  โปราณา (๑)  หิ  ทฺวิสหสฺสปริตฺตทีปปริวาเรสุ  จตูสุ  
+<span class="LineNumber"> 011 </span>หาทีเปสุ  จกฺกวตฺติรชฺชํ  กาเรตฺวา  มนุสฺสปริวาเรเนว (๒) 
+<span class="LineNumber"> 012 </span>จาตุมฺมหาราชิกเทวโลเก  รชฺชํ  กาเรตฺวา  ตาวตึสเทวโลเก  
+<span class="LineNumber"> 013 </span>ฉตฺตึสาย  สกฺกานํ  วสนฏฺ€าเน  เทวรชฺช ํ กาเรตฺวาปิ  
+<span class="LineNumber"> 014 </span>อตฺตโน  กามตณฺหํ  ปูเรตุํ  อสกฺโกนฺตาว  กาลมกํสุ  ตฺวํ 
+<span class="LineNumber"> 015 </span>ปน  ตํ  กามตณฺหํ กทา ปูเรตุํ สกฺขิสฺสสีติ  วตฺวา อตีตํ 
+<span class="LineNumber"> 016 </span>อาหริ ฯ
+<span class="LineNumber"> 017 </span>	อตีเต  ป€มกปฺเป (๓)  มหาสมฺมโต  นาม  ราชา  อโหสิ ฯ  
+<span class="LineNumber"> 018 </span>ตสฺส  ปุตฺต  โรโช  นาม ฯ  ตสฺส  ปุตฺโต  วรโรโช  นาม ฯ  
+<span class="LineNumber"> 019 </span>ตสฺส  ปุตฺโต  กลฺยาโณ  นาม ฯ  ตสฺส  ปุตฺโต  วรกลฺยาโณ  
+<span class="LineNumber"> 020 </span>#  ๑.  ม.  โปราณกราชาโน  ฯ  ๒.  ม.  มนุสฺสปริหาเรเนว  ฯ
+<span class="LineNumber"> 021 </span>#  ๓.  ม.  ป€มกปฺปิเกสุ  ฯ

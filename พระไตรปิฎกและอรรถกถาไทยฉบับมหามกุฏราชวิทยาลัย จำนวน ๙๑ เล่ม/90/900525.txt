@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>              		<H2>การนับจำนวนวาระในอนุโลม</H2>     
+<span class="LineNumber"> 002 </span>		[๑๕๑๘]  ในเหตุปัจจัย  มี ๙  วาระ    ในอารัมมณปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ  ในอวิคตปัจจัย มี ๙  วาระ.
+<span class="LineNumber"> 004 </span>          	เหมือนกับจิตตสังสัฏฐสมุฏฐานทุกะ  อัพยากตบท.
+<span class="LineNumber"> 005 </span>          	สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดาร.
+<span class="LineNumber"> 006 </span>			<I>จิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกกุสลติกะ</I>	

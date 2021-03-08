@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหาชนกชาตกํ  หน้า  85
+
+<span class="LineNumber"> 002 </span>นิวาสนฏฺ€านํ  ปาเปยฺย  มํ คเหตฺวา คจฺเฉยฺยาติ อตฺโถ ฯ  
+<span class="LineNumber"> 003 </span>	ตสฺส  ปาสาเทเยว  สมณธมฺมํ  กโรนฺตสฺส  จตฺตาโร  มาสา  
+<span class="LineNumber"> 004 </span>อติกฺกนฺตา ฯ  อถสฺส  อติวิย  ปพฺพชฺชาย  จิตฺตํ  โอนมิ ฯ  อคารํ (๑)  
+<span class="LineNumber"> 005 </span>โลกนฺตนิรโย  วิย  ขายติ ฯ  ตสฺส  ตโย  ภวา  อาทิตฺตา  วิย  
+<span class="LineNumber"> 006 </span>อุปฏฺ€หึสุ ฯ  โส  ปพฺพชฺชาภิมุเขน  จิตฺเตน  กทา  นุโข  อิมํ 
+<span class="LineNumber"> 007 </span>สกฺกภวนํ  วิย  อลงฺกตปฏิยตฺตํ  มิถิลํ  ปหาย  หิมวนฺตํ  ปวิสิตฺวา  
+<span class="LineNumber"> 008 </span>ปพฺพชิตเวสคฺ  คหณกาโลมยฺหํ ภวิสฺสตีติ จินฺเตตฺวา มิถิลวณฺณนํ 
+<span class="LineNumber"> 009 </span>นาม อารภิ  
+<span class="LineNumber"> 010 </span>	[๔๕๓]	กทาหํ มิถิลํ ผิตํ		วิภตฺตํ ภาคโส มิตํ  
+<span class="LineNumber"> 011 </span>			ปหาย ปพฺพชิสฺสามิ	ตํ กทา สุ (๒) ภวิสฺสติ  
+<span class="LineNumber"> 012 </span>			กทาหํ มิถิลํ ผิตํ		วิสาลํ สพฺพโต ปภํ  (๓)
+<span class="LineNumber"> 013 </span>			ปหาย ปพฺพชิสฺสามิ	ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 014 </span>			กทาหํ มิถิลํ ผีตํ		พหุปาการโตรณํ  
+<span class="LineNumber"> 015 </span>			ปหาย ปพฺพชิสฺสามิ	ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 016 </span>			กทาหํ มิถิลํ ผีตํ		ทฬฺหมฏฺฏาลโกฏฺ€กํ  
+<span class="LineNumber"> 017 </span>			ปหาย ปพฺพชิสฺสามิ	ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 018 </span>			กทาหํ มิถิลํ ผีตํ		สุวิภตฺตํ มหาปถํ  
+<span class="LineNumber"> 019 </span>			ปหาย ปพฺพชิสฺสามิ	ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 020 </span>			กทาหํ มิถิลํ ผีตํ		สุวิภตฺตนฺตราปณํ  
+<span class="LineNumber"> 021 </span># ๑. อาคารนฺติปิ ปาโ€ ฯ  ๒. ม. กุทาสฺสุ ฯ  ยุ. กทาสฺสุ ฯ  เอวมุปริปิ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. ยุ. สพฺพโตปภํ ฯ

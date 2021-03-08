@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>          ภิกษุณีไม่เป็นไข้  มีความสงสัย  ขอน้ำมันมาฉัน  ต้องอาบัติปาฏิเทสนียะ.
+<span class="LineNumber"> 002 </span>          ภิกษุณีไม่เป็นไข้    สำคัญว่าเป็นไข้     ขอน้ำมันมาฉัน    ต้องอาบัติ
+<span class="LineNumber"> 003 </span>ปาฏิเทสนียะ.
+
+<span class="LineNumber"> 004 </span>                                                   <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 005 </span>          ภิกษุณีเป็นไข้   สำคัญว่าไม่เป็นไข้   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 006 </span>          ภิกษุณีเป็นไข้  มีความสงสัย  ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 007 </span>                                                 <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 008 </span>          ภิกษุณีเป็นไข้  สำคัญว่าเป็นไข้  ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 009 </span>                                                  <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 010 </span>          [๔๙๓]  อาพาธ ๑  อาพาธขอได้มา   หายอาพาธแล้วจึงฉัน ๑   ฉัน
+<span class="LineNumber"> 011 </span>น้ำมันที่เหลือของภิกษุณีผู้อาพาธ ๑   ฉันน้ำมันของญาติ ๑   ฉันน้ำมันของคน
+<span class="LineNumber"> 012 </span>ปวารณา ๑  ขอเพื่อประโยชน์ผู้อื่น ๑  จ่ายมาด้วยทรัพย์ของตน ๑  วิกลจริต ๑
+<span class="LineNumber"> 013 </span>อาทิกัมมิกา ๑   ไม่ต้องอาบัติแล.
+
+<span class="LineNumber"> 014 </span>                                       <I>ปาฏิเทสนียะ  สิกขาบทที่  ๒  จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ติกนิปาตวณฺณนา  หน้า  376
+
+<span class="LineNumber"> 002 </span>อุปสคฺโค(๑)  วิย  ผลิกมณีสุ ปุริสอุปนิสฺสยภูตํ  ปุคฺคลาการํ 
+<span class="LineNumber"> 003 </span>คาหาเปติ  ตสฺมา  ปาปปุคฺคเลน  สหวาโส  น กาตพฺโพติ 
+<span class="LineNumber"> 004 </span>อธิปฺปาโย ฯ
+<span class="LineNumber"> 005 </span>	เสวมาโน  เสวมานนฺติ  ปรํ  ปกติสุทฺธํ  ปุคฺคลํ  กาเลน  กาลํ 
+<span class="LineNumber"> 006 </span>อตฺตานํ เสวมานํ  เสวมาโน  ภชมาโน  ปาปปุคฺคโล  เตน  วา 
+<span class="LineNumber"> 007 </span>เสวิยมาโน ฯ  สมฺผุฏฺโ€ สมฺผุสนฺติ(๒)  เตน  ปกติสุทฺเธน  ปุคฺคเลน
+<span class="LineNumber"> 008 </span>สหวาเสน  สํสคฺเคน  สมฺผุฏฺโ€ ปาปปุคฺคโล  สยมฺปิ  ตถา  
+<span class="LineNumber"> 009 </span>ตํ  สมฺผุสนฺโต ฯ  สโร  ทุฏฺโ€(๓)  กลาปํ  วาติ  ยถา นาม  สโร 
+<span class="LineNumber"> 010 </span>วิเสน  ทิทฺโธ  ลิตฺโต  สรกลาปคโต  สรสมูหสงฺขาตํ  สรกลาปํ
+<span class="LineNumber"> 011 </span>อตฺตนา  ผุฏฺ€ํ  อลิตฺตมฺปิ  อุปลิมฺปติ  เอวํ  ปาเปน  อุปเลปภยา  
+<span class="LineNumber"> 012 </span>ธีโรติ  ธิติสมฺปนฺนตฺตา ธีโร ปณฺฑิตปุริโส ปาปสหาโย น
+<span class="LineNumber"> 013 </span>ภเวยฺย ฯ
+<span class="LineNumber"> 014 </span>	ปูติมจฺฉํ  กุสคฺเคนาติ  ยถา  กุจฺฉิตภาเวน  ปูติภูตํ  มจฺฉํ 
+<span class="LineNumber"> 015 </span>กุสติณคฺเคน โย  ปุริโส  อุปนยฺหติ  ปุฏพนฺธวเสน  พนฺธติ  
+<span class="LineNumber"> 016 </span>ตสฺส  เต  กุสา  อปูติกาปิ ปูติมจฺฉสมฺพนฺเธน  ปูติ  ทุคฺคนฺธเมว
+<span class="LineNumber"> 017 </span>วายนฺติ ฯ  เอวํ  พาลูปเสวนาติ  เอวํสมฺปทา พาลชนูปเสวนา
+<span class="LineNumber"> 018 </span>ทฏฺ€พฺพา ฯ  เอวํ  ธีรูปเสวนาติ  ยถา  อสุรภิโนปิ  ปตฺตา
+<span class="LineNumber"> 019 </span>ตคฺครสมฺพนฺเธน  สุรภึ  วายนฺติ  เอวํ  ปณฺฑิตูปเสวนา  
+<span class="LineNumber"> 020 </span>ปกติยา  อสีลวโต สีลสมาทานาทิวเสน สีลคนฺธวายนสฺส
+<span class="LineNumber"> 021 </span># ๑. ม. อุปราโค ฯ  ๒. กตฺถจิ. สมฺผุ€นฺติ ขายติ ฯ 
+<span class="LineNumber"> 022 </span># ๓. มฺ. ทิฏฺโ€ ฯ  เอวมุปริปิ ฯ 

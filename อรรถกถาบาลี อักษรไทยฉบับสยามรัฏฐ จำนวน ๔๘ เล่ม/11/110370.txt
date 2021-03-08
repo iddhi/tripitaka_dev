@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๓๗๐
+
+<span class="LineNumber"> 002 </span>			สุชาตสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ปฺจเม  อภิรูโปติ  อฺาปิ  รูปานิ  อติกฺกนฺตรูโป ฯ  
+<span class="LineNumber"> 004 </span>ทสฺสนีโยติ ทฏฺ€พฺพยุตฺโต ฯ  ปาสาทิโกติ  ทสฺสเนน  จิตฺตํ  
+<span class="LineNumber"> 005 </span>ปสาเทตุํ  สมตฺโถ ฯ วณฺณโปกฺขรตายาติ ฉวิวณฺณสุนฺทรตาย ฯ
+<span class="LineNumber"> 006 </span>				ปฺจมํ ฯ               
+
+<span class="LineNumber"> 007 </span>			ลกุณฺฏกภทฺทิยสุตฺตวณฺณนา          
+<span class="LineNumber"> 008 </span>	ฉฏฺเ€ ทุพฺพณฺณนฺติ วิรูปสรีรวณฺณํ ฯ โอโกฏิมกนฺติ 
+<span class="LineNumber"> 009 </span>รสฺสํ ฯ ปริภูตรูปนฺติ ปมาณวเสน  ปริภูตชาติกํ ฯ  ตํ  กิร  
+<span class="LineNumber"> 010 </span>ฉพฺพคฺคิยา  ภิกฺขู  อาวุโส  ภทฺทิย  อาวุโส ภทฺทิยาติ 
+<span class="LineNumber"> 011 </span>ตตฺถ  ตตฺถ  ปรามสิตฺวา  นานปฺปารกํ กีฬนฺติ อากฑฺฒนฺติ 
+<span class="LineNumber"> 012 </span>ปริกฑฺฒนฺติ ฯ เตน  วุตฺตํ  ปริภูตรูปนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	กสฺมา  ปเนส  เอวรูโป  ชาโต  อยํ  กิร  อตีเต  เอโก  
+<span class="LineNumber"> 014 </span>มหาราชา  อโหสิ  ตตฺถ(๑)  มหลฺลกา  จ  กาณกุฏฺ€ิโน(๒)  จ 
+<span class="LineNumber"> 015 </span>ปฏิกูลา  โหนฺติ ฯ  โส สเจ มหลฺลเก ปสฺสติ เตสํ จูฬํ 
+<span class="LineNumber"> 016 </span>€ปาเปตฺวา(๓) กจฺฉํ พนฺธาเปตฺวา ยถารุจึ กีฬาเปติ ฯ มหลฺล-
+<span class="LineNumber"> 017 </span>กิตฺถิโยปิ  ทิสฺวา  ตาสมฺปิ  อิจฺฉิติจฺฉิตํ  วิปฺปการํ  กตฺวา 
+<span class="LineNumber"> 018 </span>ยถารุจึ กีฬาเปติ ฯ  มหลฺลกิตฺถิโยปิ ทิสฺวา ตาสมฺปิ อิจฺฉิติจฺฉิตํ 
+<span class="LineNumber"> 019 </span>วิปฺปการํ กตฺวา ยถารุจึ กีฬาเปติ ฯ เตสํ ปุตฺตธีตาทีนํ 
+<span class="LineNumber"> 020 </span># ๑. ม. ตสฺส ฯ  ๒. ม. มหลฺลกิตฺถิโย ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. จูฬํ €ปาเปตฺวา ฯ

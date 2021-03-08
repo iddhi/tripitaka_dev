@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  600
+
+<span class="LineNumber"> 002 </span>อาสีติ  วทติ ฯ สมิทฺธชฺชาติ  ตเมว  วตํ  อชฺช  สมิทฺธํ ฯ  
+<span class="LineNumber"> 003 </span>มาตุชํปิ  ตํ  ปาเลตุ  ปิตุชํปิ  จ  ปุตฺตกาติ  ปุตฺตกา  มาตุชาตํ 
+<span class="LineNumber"> 004 </span>โสมนสฺสํ  ปิตุชาตํ  โสมนสฺสํปิ  ปาเลตุ  มาตาปิตูนํ  สนฺตกํ  
+<span class="LineNumber"> 005 </span>ปุฺํ  ตํ  ปาเลตูติ  อตฺโถ ฯ  เตเนวาห  ยงฺกิฺจิตฺถิ กตํ 
+<span class="LineNumber"> 006 </span>ปุฺนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	ผุสฺสตีปิ  โข  เทวี  อิโต  ปฏฺ€าย  มม  สุณฺหา  อิมาเนว  
+<span class="LineNumber"> 008 </span>วตฺถานิ  นิวาเสตุ  อิมานิ  จ  อาภรณานิ  ธาเรตูติ 
+<span class="LineNumber"> 009 </span>สุวณฺณสมุคฺเค  ปูเรตฺวา ปหิณิ ฯ  
+<span class="LineNumber"> 010 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 011 </span>	[๑๒๖๔]กปฺปาสิกฺจ โกเสยฺยํ	โขมโกทุมฺพรานิ จ  
+<span class="LineNumber"> 012 </span>		สสฺสู สุณฺหาย ปาเหสิ	เยหิ มทฺที อโสภถ  
+<span class="LineNumber"> 013 </span>		ตโต โขมฺจ กายูรํ	องฺคทํ มณิเมขลํ  
+<span class="LineNumber"> 014 </span>		สสฺสู สุณฺหาย ปาเหสิ	เยหิ มทฺที อโสภถ  
+<span class="LineNumber"> 015 </span>		ตโต โขมฺจ(๑) กายูรํ	คีเวยฺยํ รตนามยํ  
+<span class="LineNumber"> 016 </span>		สสฺสู สุณฺหาย ปาเหสิ	เยหิ มทฺที อโสภถ  
+<span class="LineNumber"> 017 </span>		อุณฺณตํ มุขผุลฺลฺจ	นานารตฺเต จ มาณิเย(๒)  
+<span class="LineNumber"> 018 </span>		สสฺสู สุณฺหาย ปาเหสิ	เยหิ มทฺที อโสภถ  
+<span class="LineNumber"> 019 </span>		อุคฺคตฺถนํ คิงฺคมกํ		เมขลํ ปฏิปาทุกํ(๓)  
+<span class="LineNumber"> 020 </span>		สสฺสู สุณฺหาย ปาเหสิ	เยหิ มทฺที อโสภถ  
+<span class="LineNumber"> 021 </span># ๑. ม. เหมฺจ ฯ  ๒. ม. มาณิเก ฯ  ๓. ม. ปาฏิปาทกํ ฯ

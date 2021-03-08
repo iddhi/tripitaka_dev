@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                              <h1>๑๐.  ฆฏิกรสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>                 <H1>ว่าด้วยภิกษุ  ๗  รูป  ตัดเครื่องผูก</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๕๒]   ฆฏิกรพรหมกราบทูลว่า
+<span class="LineNumber"> 004 </span>                             <B>ภิกษุ  ๗ รูปผู้เข้าถึงพรหมโลกชื่อว่า
+<span class="LineNumber"> 005 </span>                   อวิหา  เป็นผู้หลุดพ้นแล้วมีราคะ    โทสะ
+<span class="LineNumber"> 006 </span>                   สิ้นแล้ว      ข้ามเครื่องเกาะเกี่ยวในโลกได้
+<span class="LineNumber"> 007 </span>                   แล้ว.</B>
+<span class="LineNumber"> 008 </span>         พระผู้มีพระภาคเจ้าตรัสถามว่า
+<span class="LineNumber"> 009 </span>                             <B>ก็ภิกษุเหล่านั้นคือผู้ใดบ้าง    ผู้ข้าม
+<span class="LineNumber"> 010 </span>                   เครื่องข้องเป็นบ่วงของมารที่ข้ามได้แสน-
+<span class="LineNumber"> 011 </span>                   ยาก       ละกายของมนุษย์แล้วก้าวล่วงซึ่ง
+<span class="LineNumber"> 012 </span>                   ทิพยโยคะ.</B>
+<span class="LineNumber"> 013 </span>         ฆฏิกรพรหมกราบทูลว่า
+<span class="LineNumber"> 014 </span>                             <B>คือท่านอุปกะ ๑   ท่านผลคัณฑะ  ๑
+<span class="LineNumber"> 015 </span>                   ท่านปุกกุสาติ  ๑  รวมเป็น  ๓  ท่าน  ท่าน
+<span class="LineNumber"> 016 </span>                   ภัททิยะ  ๑  ท่านขัณฑเทวะ ๑  ท่านพหุทันตี
+<span class="LineNumber"> 017 </span>                   ๑   ท่านสิงคิยะ  ๑    (รวมเป็น  ๗  ท่าน)
+<span class="LineNumber"> 018 </span>                   ท่านเหล่านั้นล้วนแต่ละกายของมนุษย์
+<span class="LineNumber"> 019 </span>                   ก้าวล่วงทิพยโยคะได้แล้ว.</B>

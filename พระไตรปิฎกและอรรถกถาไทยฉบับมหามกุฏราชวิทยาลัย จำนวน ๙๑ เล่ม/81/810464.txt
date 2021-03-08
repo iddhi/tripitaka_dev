@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อสัญญสัตตูปิกากถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๓๐]  <B>สกวาที</B> สัญญาเวทยิตนิโรธสมาบัติเป็นเหตุให้เข้าถึงภพ
+<span class="LineNumber"> 003 </span>แห่งอสัญญสัตว์ หรือ ?
+<span class="LineNumber"> 004 </span>                      <B>ปรวาที</B> ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                      ส. กุศลมูลคืออโลภะ    กุศลมูลคืออโทสะ    กุศลมูลคือ
+<span class="LineNumber"> 006 </span>อโมหะ  ศรัทธา วิริยะ  สติ  สมาธิ   ปัญญา ของบุคคลผู้เข้าสัญญาเวทยิต-
+<span class="LineNumber"> 007 </span>นิโรธมีอยู่ หรือ ?
+<span class="LineNumber"> 008 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 009 </span>                      ส. กุศลมูลคืออโลภะ กุศลมูลคืออโทสะ ฯลฯ ปัญญาของ
+<span class="LineNumber"> 010 </span>บุคคลผู้เข้าสัญญาเวทยิตนิโรธสมาบัติ  ไม่มีหรือ ?
+<span class="LineNumber"> 011 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                      ส. หากว่า  กุศลมูลคืออโลภะ  กุศลมูลคืออโทสะ  กุศลมูล
+<span class="LineNumber"> 013 </span>คือ โมหะ  ศรัทธา  วิริยะ  สติ  สมาธิ  ปัญญา ของบุคคลผู้เข้าสัญญาเวท-
+<span class="LineNumber"> 014 </span>ยิตนิโรธไม่มี   ก็ต้องไม่กล่าวว่า   สัญญาเวทยิตนิโรธสมาบัติ    เป็นเหตุให้
+<span class="LineNumber"> 015 </span>เข้าถึงภพแห่งอสัญญสัตว์.
+<span class="LineNumber"> 016 </span>         [๑๖๓๑]  ส. สัญญาเวทยิตนิโรธสมาบัติ     เป็นเหตุให้เข้าถึงภพ
+<span class="LineNumber"> 017 </span>แห่งอสัญญสัตว์ หรือ ?
+<span class="LineNumber"> 018 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                      ส. ผัสสะ  เวทนา  สัญญา  เจตนา  จิต   ของบุคคลผู้เข้า
+<span class="LineNumber"> 020 </span>สัญญาเวทยิตนิโรธ  มีอยู่หรือ ?
+<span class="LineNumber"> 021 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ 
+<span class="LineNumber"> 022 </span>                      ส. ผัสสะ  เวทนา  สัญญา  เจตนา  จิต   ของบุคคลผู้เข้า

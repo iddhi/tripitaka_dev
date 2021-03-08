@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  606
+
+<span class="LineNumber"> 002 </span>จมฺมธราติ  กณฺ€วารณจมฺมธรา ฯ  สุวมฺมิกาติ  วิจิตฺราหิ  
+<span class="LineNumber"> 003 </span>ชาลิกาหิ  สุฏฺ€ุวมฺมิกา ฯ  ปุรโต  ปฏิปชฺชึสูติ  เอวรูปา  มตฺตหตฺถีสุปิ
+<span class="LineNumber"> 004 </span>อาคจฺฉนฺเตสุ  อนิวตฺติโน  สุรโยธา  รฺโ  เวสฺสนฺตรสฺส ปูรโต 
+<span class="LineNumber"> 005 </span>ปฏิปชฺชึสุ ฯ  
+<span class="LineNumber"> 006 </span>	ราชา  สฏฺ€ีโยชนมคฺคํ  ทฺวีหิ  มาเสหิ  อติกมฺม 
+<span class="LineNumber"> 007 </span>เชตุตฺตรนครํ  ปตฺโต อลงฺกตปฏิยตฺตนครํ ปวิสิตฺวา ปาสาทํ 
+<span class="LineNumber"> 008 </span>อภิรุหิ ฯ  
+<span class="LineNumber"> 009 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 010 </span>	[๑๒๖๘]เต ปาวึสุ(๑) ปุรํ รมฺมํ	พหุปาการโตรณํ(๒)  
+<span class="LineNumber"> 011 </span>		อุเปตํ อนฺนปาเนหิ	นจฺจคีเตหิ จูภยํ  
+<span class="LineNumber"> 012 </span>		จิตฺตา ชานปทา อาสุํ	เนคมา จ สมาคตา  
+<span class="LineNumber"> 013 </span>		อนุปฺปตฺเต กุมารมฺหิ	สิวีนํ รฏฺวฑฺฒเน  
+<span class="LineNumber"> 014 </span>		เจลุกฺเขโป ปวตฺเตตฺถ	อาคเต ธนทายเก  
+<span class="LineNumber"> 015 </span>		นนฺทิปฺปเวสิ นคเร		พนฺธโมกฺโข(๓) อโฆสถาติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  พหุปาการโตณนฺติ  พหุเกหิ  อุจฺเจหิ  ปากาเรหิ 
+<span class="LineNumber"> 017 </span>จ  อฏฺฏาลเกหิ  โตรเณหิ  จ  สมนฺนาคตํ ฯ  นจฺจคีเตหิ  จูภยนฺติ
+<span class="LineNumber"> 018 </span>นจฺเจหิ  จ  คีเตหิ  จ  อุภเยหิ  สมนฺคตํ ฯ  จิตฺตาติ  ตุฏฺ€า 
+<span class="LineNumber"> 019 </span>โสมนสฺสปฺปตฺตา ฯ  อาคเต ธนทายเกติ มหาชนสฺส ธนทายเก
+<span class="LineNumber"> 020 </span>มหาสตฺเต  อาคเต ฯ  นนฺทิปฺปเวสีติ  เวสฺสนฺตรสฺส  มหาราชสฺส
+<span class="LineNumber"> 021 </span># ๑. ม. ปาวิสุํ ฯ  ๒. ม. มหาปาการโตรณํ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. พนฺธนา โมกฺโข ฯ 

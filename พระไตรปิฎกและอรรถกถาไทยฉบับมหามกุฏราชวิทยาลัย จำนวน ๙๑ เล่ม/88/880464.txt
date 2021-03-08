@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>๑.  เหตุปัจจัย</H1>      
+<span class="LineNumber"> 004 </span>           [๔๒๗] ๑.  <B>สัญโญชนธรรม  เจือกับสัญโญชนธรรม  เกิดขึ้น
+<span class="LineNumber"> 005 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ทิฏฐิสัญโญชน์  อวิชชาสัญโญชน์  เจือกับกามราคสัญโญชน์.
+<span class="LineNumber"> 007 </span>           พึงกระทำ ๙  วาระ  อย่างนี้   เฉพาะอรูปภูมิเท่านั้น.
+<span class="LineNumber"> 008 </span>           <B>สังสัฏฐวาระ</B>ก็ดี  <B>สัมปยุตตวาระ</B>ก็ดี  พึงกระทำอย่างนี้.

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                             <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>๑.   นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>         [๗๒๔] ๑.  <B>กามาวจรธรรม    อาศัยกามาวจรธรรม    เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑   ที่เป็นกามาวจร-
+<span class="LineNumber"> 006 </span>ธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 007 </span>         ในอเหตุกปฏิสนธิขณะ  ฯลฯ  ตลอดถึงอสัญญสัตว์
+<span class="LineNumber"> 008 </span>         โมหะ   ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ   อาศัยขันธ์
+<span class="LineNumber"> 009 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 010 </span>                                     <H2>๒.   นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 011 </span>         <B>ฯลฯ   เพราะนอารัมมณปัจจัย</B>   มี ๓ วาระ.
+
+<span class="LineNumber"> 012 </span>                                        <H2>๓.   อธิปติปัจจัย</H2>
+<span class="LineNumber"> 013 </span>         [๗๒๕] ๑.  <B>กามาวจรธรรม    อาศัยกามาวจรธรรม    เกิดขึ้น
+<span class="LineNumber"> 014 </span>เพราะนอธิปติปัจจัย</B>  มี ๓ วาระ
+<span class="LineNumber"> 015 </span>                     ๔.  <B>ธรรมที่ไม่ใช่กามาวจรธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 016 </span>กามาวจรธรรม  เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ   อธิปติธรรมที่ไม่ใช่กามาวจรธรรม    อาศัยขันธ์ทั้งหลายที่ไม่ใช่
+<span class="LineNumber"> 018 </span>กามาวจรธรรม.

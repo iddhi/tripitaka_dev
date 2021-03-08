@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                         <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๘๖๔] ๑.  <B>สรณธรรม  เป็นปัจจัยแก่สรณธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 005 </span>ของเหตุปัจจัย</B>  เหมือนกับอรูปทุกะ  มี ๔ วาระ.
+
+<span class="LineNumber"> 006 </span>                                      <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 007 </span>         [๘๖๕] ๑.  <B>สรณธรรม  เป็นปัจจัยแก่สรณธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 008 </span>ของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 009 </span>         คือ   บุคคลย่อมยินดี   ย่อมเพลิดเพลินยิ่ง   ซึ่งราคะ    เพราะปรารภ
+<span class="LineNumber"> 010 </span>ราคะนั้น   ราคะ   ย่อมเกิดขึ้น   ทิฏฐิ  ฯลฯ  วิจิกิจฉา  ฯลฯ   อุทธัจจะ  ฯลฯ
+<span class="LineNumber"> 011 </span>โทมนัส  ย่อมเกิดขึ้น.
+<span class="LineNumber"> 012 </span>         บุคคลย่อมยินดี   ย่อมเพลิดเพลินยิ่ง  ซึ่งทิฏฐิ   เพราะปรารภทิฏฐินั้น
+<span class="LineNumber"> 013 </span>วิจิกิจฉา ฯลฯ  อุทธัจจะ ฯลฯ   เพราะปรารภโทมนัส   โทมนัส   ย่อมเกิดขึ้น
+<span class="LineNumber"> 014 </span>ทิฏฐิ ฯลฯ  วิจิกิจฉา ฯลฯ  อุทธัจจะ  ย่อมเกิดขึ้น.
+<span class="LineNumber"> 015 </span>                     ๒.  <B>สรณธรรม  เป็นปัจจัยแก่อรณธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 016 </span>ของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ   พระอริยะทั้งหลาย    พิจารณากิเลสที่ละแล้ว  ฯลฯ    กิเลสที่ข่ม
+<span class="LineNumber"> 018 </span>แล้ว  ฯลฯ   กิเลสทั้งหลายที่เคยเกิดขึ้นแล้วในกาลก่อน ฯลฯ  พิจารณาเห็นขันธ์
+<span class="LineNumber"> 019 </span>ทั้งหลายที่เป็นสรณธรรม  โดยความเป็นของไม่เที่ยง ฯลฯ

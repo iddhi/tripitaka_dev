@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  36
+
+<span class="LineNumber"> 002 </span>	กุฑฺฑา (๑) กวาฏา เสลา จ  น โหนฺตาวรณา ตทา  
+<span class="LineNumber"> 003 </span>	อากาสภูตา เตปชฺช		ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 004 </span>	จุตี จ อุปปตฺติ จ		ขเณ ตสฺมึ น วิชฺชติ  
+<span class="LineNumber"> 005 </span>	ตานิ อชฺช ปทิสฺสนฺติ	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 006 </span>	ทฬฺหํ ปคฺคณฺห วีริยํ		มา นิวตฺต อภิกฺกม  
+<span class="LineNumber"> 007 </span>	มยมฺเปตํ วิชานาม		ธุวํ พุทฺโธ ภวิสฺสสีติ ฯ  
+<span class="LineNumber"> 008 </span>	โพธิสตฺโต  ทีปงฺกรทสพลสฺส  จ  ทสสหสฺสจกฺกวาฬเทวตานํ  
+<span class="LineNumber"> 009 </span>จ  วจนํ  สุตฺวา  ภิยฺโยโส มตฺตาย สฺชาตุสฺสาโห หุตฺวา 
+<span class="LineNumber"> 010 </span>จินฺเตสิ พุทฺธา  นาม  อโมฆวจนา  นตฺถิ  พุทฺธานํ  กถาย  
+<span class="LineNumber"> 011 </span>อฺถตฺตํ ฯ  ยถา  หิ  อากาเส  ขิตฺตเลฑฺฑุสฺส  ปตนํ  ธุวํ
+<span class="LineNumber"> 012 </span>ชาตสฺส  มรณํ  อรุเณ อุคฺคเต สุริยสฺส  อุฏฺ€านํ  
+<span class="LineNumber"> 013 </span>อาสยา  นิกฺขนฺตสีหสฺส  สีหนาทนทนํ  ครุคพฺภาย  อิตฺถิยา 
+<span class="LineNumber"> 014 </span>ภารโมจนํ  ธุวํ  อวสฺสํภาวี(๒) เอวเมว  พุทฺธานํ  วจนํ  นาม 
+<span class="LineNumber"> 015 </span>ธุวํ อโมฆํ อทฺธา อหํ พุทฺโธ ภวิสฺสามีติ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 016 </span>	พุทฺธสฺส วจนํ สุตฺวา		ทสสหสฺสีน จูภยํ  
+<span class="LineNumber"> 017 </span>	ตุฏฺ€หฏฺโ€ ปโมทิโต		เอวํ จินฺเตสิหนฺตทา ฯ  
+<span class="LineNumber"> 018 </span>	อเทฺวชฺฌวจนา พุทฺธา	อโมฆวจนา ชินา  
+<span class="LineNumber"> 019 </span>	วิตถํ นตฺถิ พุทฺธานํ		ธุวํ พุทฺโธ ภวามิหํ ฯ  
+<span class="LineNumber"> 020 </span>	ยถา ขิตฺตํ นเภ เลฑฺฑุ	ธุวํ ปตติ ภูมิยํ  
+<span class="LineNumber"> 021 </span>	ตเถว พุทฺธเสฏฺ€านํ		วจนํ ธุวสสฺสตํ  
+<span class="LineNumber"> 022 </span>	วิตถํ นตฺถิ พุทฺธานํ		ธุวํ พุทฺโธ ภวามิหํ ฯ  
+<span class="LineNumber"> 023 </span># ๑. ม. กุฏฺฏา ฯ  ๒. ม. ภารโมโรปนํ อวสฺสํภาวี ฯ

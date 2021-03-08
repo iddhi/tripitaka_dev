@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                             <B>องค์ปฏิจจสมุปบาทใด     ในวาระใด
+<span class="LineNumber"> 002 </span>                      ที่ตรัสไว้     โดยประการอื่น     และแม่องค์
+<span class="LineNumber"> 003 </span>                      ปฏิจจสมุปบาทใด    ที่ไม่ตรัสไว้ในวาระใด 
+<span class="LineNumber"> 004 </span>                      องค์ปฏิจจสมุปบาทใด     เป็นปัจจัยแก่องค์
+<span class="LineNumber"> 005 </span>                      ปฏิจจสมุปบาทใด  โดยประการใด  พึงทราบ
+<span class="LineNumber"> 006 </span>                      ว่าองค์ปฏิจจสมุปบาทนั้น  เป็นปัจจัยแก่องค์
+<span class="LineNumber"> 007 </span>                      ปฏิจจสมุปบาทนั้น  โดยประการนั้น</B>  ดังนี้ 
+<span class="LineNumber"> 008 </span>         ในวาระที่หนึ่งอย่างนี้ก่อน.
+<span class="LineNumber"> 009 </span>         แม้ในวาระที่ ๒ เป็นต้นก็นัยนี้เหมือนกัน.
+
+<span class="LineNumber"> 010 </span>                   <H1>ว่าด้วยความต่างกันในวาระที่  ๒</H1>  (บาลีข้อ  ๒๗๔)
+<span class="LineNumber"> 011 </span>         ส่วนความต่างกัน  พึงทราบดังนี้
+<span class="LineNumber"> 012 </span>         <B>ถามว่า</B>  ในวาระที่  ๒  ตรัสว่า  <B>นามปุจฺจยา   ผสฺโส</B>  (ผัสสะเกิด
+<span class="LineNumber"> 013 </span>เพราะนามเป็นปัจจัย)    มิได้ตรัสคำอะไร ๆ   ไว้ในที่แห่งสฬายตนะนั้น    เพื่อ
+<span class="LineNumber"> 014 </span>อะไร  ?
+<span class="LineNumber"> 015 </span>         <B>ตอบว่า</B>  เพื่อแสดงความต่างกันแห่งปัจจัย  และเพื่อสงเคราะห์เข้าด้วย
+<span class="LineNumber"> 016 </span>เทศนาในมหานิทานสูตร.
+<span class="LineNumber"> 017 </span>         จริงอยู่   ผัสสะหามีสฬายตนะเป็นปัจจัยอย่างเดียวเท่านั้นก็หาไม่  ที่แท้
+<span class="LineNumber"> 018 </span>มีแม้ขันธ์   ๓   มีเวทนาขันธ์เป็นต้นเป็นปัจจัยด้วยทีเดียว   ก็ในมหานิทานสูตร
+<span class="LineNumber"> 019 </span>พระผู้มีพระภาคเจ้าตรัสปฏิจจสมุปบาทมีองก์ ๑๑ ทรงทิ้งสฬายตนะเสีย  อย่างนี้ว่า

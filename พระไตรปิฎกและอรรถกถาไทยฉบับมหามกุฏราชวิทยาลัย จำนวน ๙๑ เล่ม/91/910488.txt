@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๒๒๗]  ในเหตุปัจจัย มี ๓ วาระ   ในอธิปติปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 004 </span>           สหชาตวาระก็ดี   นิสสยวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 005 </span>                                        <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 006 </span>                                         <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 007 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>           [๒๒๘] ๑.  <B>ธรรมที่เป็นอกุศล  ที่เป็นเหตุ  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่อกุศล   ที่ไม่ใช่เหตุ  ด้วยอำนาจของเหตุปัจจัย</B>
+
+<span class="LineNumber"> 010 </span>                                 <H2>๒.  อารัมมณปัจจัย</H2> 
+<span class="LineNumber"> 011 </span>           [๒๒๙] ๑.  <B>ธรรมที่เป็นอกุศล   ที่เป็นเหตุ  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 012 </span>ที่ไม่ใช่อกุศล ที่ไม่ใช่เหตุ ด้วยอำนาจของอารัมมณปัจจัย</B>  มี  ๓  วาระ
+<span class="LineNumber"> 013 </span>                       ๒.  <B>ธรรมที่เป็นอกุศล    ที่ไม่ใช่เหตุ    เป็นปัจจัยแก่
+<span class="LineNumber"> 014 </span>ธรรมที่ไม่ใช่อกุศล    ที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ     ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>อารัมมณปัจจัย</B>  มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>                       ๓.  <B>ธรรมที่เป็นอกุศล  ที่เป็นเหตุ  และธรรมที่เป็น
+<span class="LineNumber"> 017 </span>อกุศล   ที่ไม่ใช่เหตุ    เป็นปัจจัยแก่ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่เหตุ
+<span class="LineNumber"> 018 </span>ด้วยอำนาจของอารัมมณปัจจัย</B>  มี  ๓ วาระ.

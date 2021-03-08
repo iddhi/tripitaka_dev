@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>๒.   นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๔๘๒] ๑.  <B>ธรรมที่ไม่ใช่กิเลส  อาศัยธรรมที่เป็นกิเลส  เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยกิเลสทั้งหลาย.
+<span class="LineNumber"> 005 </span>                     ๒.  <B>ธรรมที่ไม่ใช่กิเลส     อาศัยธรรมที่ไม่ใช่กิเลส
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่ไม่ใช่กิเลส.
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ  หทยวัตถุ  อาศัยขันธ์ทั้งหลาย  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 009 </span>                     ๓.   <B>ธรรมที่ไม่ใช่กิเลส  อาศัยธรรมที่เป็นกิเลส  และ
+<span class="LineNumber"> 010 </span>ธรรมที่ไม่ใช่กิเลส  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  จิตตสมุฏฐานรูป   อาศัยทั้งกิเลส    และสัมปยุตตขันธ์ทั้งหลาย
+<span class="LineNumber"> 012 </span>จิตตสมุฏฐานรูป   อาศัยกิเลส   และมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 013 </span>                    <H2>๓.   อธิปติปัจจัย   ฯลฯ    ๗.  นอุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 014 </span>         <B>ฯลฯ   เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 015 </span>         <B>ฯลฯ   เพราะนอนันตรปัจจัย</B>
+<span class="LineNumber"> 016 </span>         <B>ฯลฯ   เพราะนสมนันตรปัจจัย</B>
+<span class="LineNumber"> 017 </span>         <B>ฯลฯ   เพราะนอัญญมัญญปัจจัย</B>
+<span class="LineNumber"> 018 </span>         <B>ฯลฯ   เพราะนอุปนิสสยปัจจัย</B>

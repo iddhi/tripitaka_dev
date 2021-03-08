@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  นิทานคาถาวณฺณนา  หน้า 25
+
+<span class="LineNumber"> 002 </span>กาตุํ  อปฺปฏิวตฺตนียโต ฯ  ยํ  ปเนตฺถ วตฺตพฺพํ ตํ ปรโต อาวิ (๑)
+<span class="LineNumber"> 003 </span>ภวิสฺสติ ฯ เอวเมตฺถ สงฺเขเปเนว ป€มคาถาย อตฺถวิภาวนา
+<span class="LineNumber"> 004 </span>เวทิตพฺพา ฯ  
+<span class="LineNumber"> 005 </span>	ทุติยคาถายํ  ปน  อยํ  สมฺพนฺธทสฺสนมุเขน  อตฺถวิภาวนา ฯ 
+<span class="LineNumber"> 006 </span>ตตฺถ  เยสํ  เถรานํ  คาถา  สาเวตุกาโม  เต  สาธารณวเสน  
+<span class="LineNumber"> 007 </span>นามโต  โคตฺตโต  คุณโต  จ  กิตฺเตตุํ  ยถา  นามาติ  อาทิ 
+<span class="LineNumber"> 008 </span>วุตฺตํ ฯ  อสาธารณโต  ปน  ตตฺถ  ตตฺถ  คาถาเสฺวว  อาวิ
+<span class="LineNumber"> 009 </span>ภวิสฺสติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ยถานามาติ  ยํยํนามา  สุภูติ  มหาโกฏฺ€ิโกติ
+<span class="LineNumber"> 011 </span>อาทินา  นเยน นามเธยฺเยน  ปฺาตาติ  (๒)  อตฺโถ ฯ 
+<span class="LineNumber"> 012 </span>	ยถาโคตฺตาติ  ยํยํโคตฺตา โคตโม กสฺสโปติอาทินา  นเยน
+<span class="LineNumber"> 013 </span>กุลปเทเสน  ยาย  ยาย ชาติยา สมฺาตาติ (๓) อตฺโถ ฯ 
+<span class="LineNumber"> 014 </span>	ยถาธมฺมวิหาริโนติ  ยาทิสธมฺมวิหาริโน  ปริยตฺติปรมตายํ 
+<span class="LineNumber"> 015 </span>อฏฺ€ตฺวา  ยถานุรูปํ สมาปตฺติวิหาริโน  หุตฺวา  วิหรึสูติ  อตฺโถ ฯ  
+<span class="LineNumber"> 016 </span>	อถ  วา  ยถาธมฺมวิหาริโนติ ยถาธมฺมา วิหาริโน จ  (๔)
+<span class="LineNumber"> 017 </span>ยาทิสสีลาทิธมฺมา ทิพฺพวิหาราทีสุ อภิณฺหโส  วิหรมานา 
+<span class="LineNumber"> 018 </span>ยาทิสวิหารา จาติ อตฺโถ ฯ  
+<span class="LineNumber"> 019 </span>	ยถาธิมุตฺตาติ  ยาทิสอธิมุตฺติกา  สทฺธาธิมุตฺติปฺาธิมุตฺตีสุ
+<span class="LineNumber"> 020 </span># ๑. พหูสุ อาวีติ ทิสฺสติ ฯ  ๒. สี. ยถาปฺาตาติ ฯ  
+<span class="LineNumber"> 021 </span># ๓. ม. ปฺาตาติ ฯ  ๔. สี. ยถาธมฺมตาย วิหาริโน จ ฯ 
+<span class="LineNumber"> 022 </span># ยถาธมฺมา ยถาวิหาริโน จ (?) ฯ

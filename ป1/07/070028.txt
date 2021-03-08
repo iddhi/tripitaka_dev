@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>	๓.  ถ้าสระหน้าเป็น  อิ อี  หรือ อุ  อู สระหลังเป็นสระอื่น  มีรูป
+<span class="LineNumber"> 002 </span>ไม่เหมือนกัน  แล้วเอาสระหน้าเป็นพยัญชนะ คือ 
+<span class="LineNumber"> 003 </span>	เอา   อิ   หรือ      อี        เป็น        ย  
+<span class="LineNumber"> 004 </span>	  "      อุ      "         อู          "           ว
+<span class="LineNumber"> 005 </span>	๔.  ถ้าสระหน้าเป็น เอ หรือ โอ  สระหลังเป็น อ ลบ อ
+<span class="LineNumber"> 006 </span>ซึ่งเป็นสระหลังเสีย คงสระหน้าไว้ตามรูปเดิม  (คือ  คงเป็น เอ หรือ
+<span class="LineNumber"> 007 </span>โอ อยู่ตามเดิม). ถ้าสระหลังเป็นสระอื่น นอกจาก อ (เช่นเป็น อา
+<span class="LineNumber"> 008 </span>หรือ อุ)  ลบสระหลังเสียบ้าง เอา อา เป็น อย เอา โอ เป็น อว.
+<span class="LineNumber"> 009 </span>	อนุสาร (คือนิคคหิต) ถ้าพยัญชนะวรรคอยู่หลัง  อาเทสหรือ
+<span class="LineNumber"> 010 </span>อ่านออกเสียงสะกดเป็น  พยัญชนะที่สุดวรรค  ดังกล่าวแล้วในอาเทศ
+<span class="LineNumber"> 011 </span>สระสนธิ.
+  

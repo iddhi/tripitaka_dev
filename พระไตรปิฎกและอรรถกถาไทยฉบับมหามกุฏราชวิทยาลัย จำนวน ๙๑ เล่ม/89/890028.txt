@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                   ๔.  <B>อนารัมมณธรรม      เป็นปัจจัยแก่อนารัมมณธรรม
+<span class="LineNumber"> 002 </span>ด้วยอำนาจของอินทริยปัจจัย</B>
+<span class="LineNumber"> 003 </span>         คือ  รูปชีวิตินทรีย์  เป็นปัจจัยแก่กฏัตตารูปทั้งหลาย  ด้วยอำนาจของ
+<span class="LineNumber"> 004 </span>อินทริยปัจจัย.
+<span class="LineNumber"> 005 </span>                   ๕.  <B>อนารัมมณธรรม       เป็นปัจจัยแก่สารัมมณธรรม
+<span class="LineNumber"> 006 </span>ด้วยอำนาจของอินทริยปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  จักขุนทรีย์   เป็นปัจจัยแก่จักขุวิญญาณ ฯลฯ    กายินทรีย์  เป็น
+<span class="LineNumber"> 008 </span>ปัจจัยแก่กายวิญญาณ   ด้วยอำนาจของอินทริยปัจจัย.
+<span class="LineNumber"> 009 </span>                   ๖.  <B>สารัมมณธรรม  และอนารัมมณธรรม    เป็นปัจจัย
+<span class="LineNumber"> 010 </span>แก่สารัมมณธรรม  ด้วยอำนาจของอินทริยปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  จักขุนทรีย์     และจักขุวิญญาณ     เป็นปัจจัยแก่ขันธ์ทั้งหลายที่
+<span class="LineNumber"> 012 </span>สหรคตด้วยจักขุวิญญาณ  ด้วยอำนาจของอินทริยปัจจัย ฯลฯ  กายินทรีย์   และ
+<span class="LineNumber"> 013 </span>กายวิญญาณ  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่สหรคตด้วยกายวิญญาณ  ด้วยอำนาจ
+<span class="LineNumber"> 014 </span>ของอินทริยปัจจัย.
+
+<span class="LineNumber"> 015 </span>                         <H2>๑๗.  ฌานปัจจัย  ฯลฯ    ๑๙.  สัมปยุตตปัจจัย</H2>
+<span class="LineNumber"> 016 </span>         [๓๒]  ๑.  <B>สารัมมณธรรม  เป็นปัจจัยแก่สารัมมณธรรม  ด้วย
+<span class="LineNumber"> 017 </span>อำนาจของฌานปัจจัย</B>.  มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>         <B>เป็นปัจจัย  ด้วยอำนาจของมัคคปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 019 </span>         <B>เป็นปัจจัย  ด้วยอำนาจของสัมปยุตตปัจจัย</B>   มี ๑ วาระ.

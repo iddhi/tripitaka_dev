@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                    <B>๓.  สัญญาขันธ์</B>  
+<span class="LineNumber"> 002 </span>                    <B>๔.  สังขารขันธ์</B>
+<span class="LineNumber"> 003 </span>                    <B>๕.  วิญญาณขันธ์</B>
+<span class="LineNumber"> 004 </span>         การบัญญัติธรรมที่เป็นหมวดหมู่กันว่า <B>ขันธ์</B> ก็มี ๕ ตามจำนวนหมวด
+<span class="LineNumber"> 005 </span>ธรรมเหล่านั้น.
+
+<span class="LineNumber"> 006 </span>                                       <H1>๒.  อายตนบัญญัติ</H1>
+<span class="LineNumber"> 007 </span>         [๓]  การบัญญัติธรรมอันเป็นบ่อเกิดว่า <B>อายตนะ</B>  มีเท่าไร อายตนะ
+<span class="LineNumber"> 008 </span>มี ๑๒ คือ
+<span class="LineNumber"> 009 </span>                     <B>๑.  จักขวายตนะ</B>
+<span class="LineNumber"> 010 </span>                     <B>๒.  รูปายตนะ</B>
+<span class="LineNumber"> 011 </span>                     <B>๓.  โสตายตนะ</B>
+<span class="LineNumber"> 012 </span>                     <B>๔.  สัททายตนะ</B>
+<span class="LineNumber"> 013 </span>                     <B>๕. ฆานายตนะ</B>
+<span class="LineNumber"> 014 </span>                     <B>๖.  คันธายตนะ</B>
+<span class="LineNumber"> 015 </span>                     <B>๗.  ชิวหายตนะ</B>
+<span class="LineNumber"> 016 </span>                     <B>๘.  รสายตนะ</B>
+<span class="LineNumber"> 017 </span>                     <B>๙.  กายายตนะ</B>  
+<span class="LineNumber"> 018 </span>                     <B>๑๐.  โผฏฐัพพายตนะ</B>
+<span class="LineNumber"> 019 </span>                     <B>๑๑.  มนายตนะ</B>
+<span class="LineNumber"> 020 </span>                     <B>๑๒.  ธัมมายตนะ</B>
+<span class="LineNumber"> 021 </span>         การบัญญัติธรรมที่เป็นบ่อเกิดว่า   <B>อายตนะ</B>   ก็มี ๑๒   ตามจำนวน
+<span class="LineNumber"> 022 </span>ธรรมเหล่านั้น.

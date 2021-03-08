@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  กัณฑ์ที่ ๑๗
+<span class="LineNumber"> 002 </span>                              อุโบสถ  ปวารณา   
+ 
+<span class="LineNumber"> 003 </span>                                     <B>อุโบสถ</B>
+<span class="LineNumber"> 004 </span>                                   <B>[การเข้าอยู่]</B>
+<span class="LineNumber"> 005 </span>        <B>วันอุโบสถในพระพุทธศาสนาให้สำหรับทำกิจ  ดังนี้</B>
+<span class="LineNumber"> 006 </span>๑.  ประชุมกันกล่าวธรรมฟังธรรม.
+<span class="LineNumber"> 007 </span>๒.  สมาทานอุโบสถของคฤหัสถ์.
+<span class="LineNumber"> 008 </span>๓.  ทำอุโบสถของพระภิกษุ  [นี้เฉพาะวัน  ๑๔  หรือ  ๑๕  ค่ำ].
+<span class="LineNumber"> 009 </span>                           <B>วันทำอุโบสถมี  ๓  คือ</B>
+<span class="LineNumber"> 010 </span>๑.  วันจาตุททสี  [๑๔  ค่ำ].
+<span class="LineNumber"> 011 </span>๒.  วันปัณณรสี  [๑๕  ค่ำ].
+<span class="LineNumber"> 012 </span>๓.  วันสามัคคี.
+<span class="LineNumber"> 013 </span>                   <B>การกคือภิกษุผู้ทำอุโบสถ  มี  ๓  คือ</B>
+<span class="LineNumber"> 014 </span>๑.  สงฆ์
+<span class="LineNumber"> 015 </span>๒.  คณะ
+<span class="LineNumber"> 016 </span>๓.  บุคคล.
+<span class="LineNumber"> 017 </span>                         <B>อาการที่ทำอุโบสถ  มี ๓  คือ</B>
+<span class="LineNumber"> 018 </span>๑.  สวดปาฏิโมกข์.
+<span class="LineNumber"> 019 </span>๒.  บอกความบริสุทธิ์.

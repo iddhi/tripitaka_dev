@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๔. นันทาเปติวัตถุ</H1>    
+
+<span class="LineNumber"> 002 </span>                      <H2>ว่าด้วยผู้ดุร้ายตายเป็นนางเปรต</H2>
+
+<span class="LineNumber"> 003 </span>	นันทิเสนอุบาสกถามว่า 
+<span class="LineNumber"> 004 </span> 	<B>[๑๐๑]    	ท่านมีผิวพรรณดำ     มีรูปร่างน่าเกลียด
+<span class="LineNumber"> 005 </span>       	   ตัวขรุขระดูน่ากลัว    มีตาเหลือง    เขี้ยวงอกออก
+<span class="LineNumber"> 006 </span>      	   เหมือนหมู  เราไม่เข้าใจว่าท่านเป็นมนุษย์.</B>
+<span class="LineNumber"> 007 </span> 	นางเปรตตอบว่า
+<span class="LineNumber"> 008 </span>              		<B>ข้าแต่ท่านนันทิเสน    เมื่อก่อน     ฉันชื่อ
+<span class="LineNumber"> 009 </span>     	   นันทา  เป็นภรรยาของท่าน  ได้ทำกรรมอันลามก
+<span class="LineNumber"> 010 </span>     	   ไว้จึงจากโลกนี้ไปสู่เปตโลก.</B>
+<span class="LineNumber"> 011 </span>	นันทิเสนถามว่า
+<span class="LineNumber"> 012 </span>               	 	<B>ท่านทำกรรมชั่วอะไรไว้ด้วยกาย  วาจา ใจ
+<span class="LineNumber"> 013 </span>       	   เพราะวิบากแห่งกรรมอะไรท่านจึงจากโลกนี้
+<span class="LineNumber"> 014 </span>     	   ไปสู่เปตโลก.</B>
+<span class="LineNumber"> 015 </span> 	นางเปรตนั้นตอบว่า
+<span class="LineNumber"> 016 </span>               		<B>เมื่อก่อนฉันเป็นหญิงดุร้าย  หยาบคาย  ไม่
+<span class="LineNumber"> 017 </span>      	   เคารพท่าน  พูดคำชั่วหยาบกะท่าน  จึงจากโลกนี้
+<span class="LineNumber"> 018 </span>      	   ไปสู่เปตโลก.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  289
+
+<span class="LineNumber"> 002 </span>อสมตฺโถ  กิฺจิเทว  เตน  ทิฏฺ€ํ  ภวิสฺสติ  เอกทิวสํ  โอกาสํ  
+<span class="LineNumber"> 003 </span>ลภมาโน  อิมํ  ปฺหํ  นีหริสฺสามิ  เสนโก  เกนจิ  อุปาเยน  อชฺช  
+<span class="LineNumber"> 004 </span>เอกทิวสมตฺตํ  อธิวาสาเปตูติ ฯ  อิตเรปิ  ตโย  ชนา (๑) อนฺธการคพฺภํ  
+<span class="LineNumber"> 005 </span>ปวิฏฺ€า  วิย  น  กิฺจิ  ปสฺสึสุ ฯ  เสนโก  กา  (๒) นุ  โข  มโหสถสฺส  
+<span class="LineNumber"> 006 </span>ปวตฺตีติ  โพธิสตฺตํ  โอโลเกสิ ฯ  โสปิ  ตํ  โอโลเกสิ ฯ  เสนโก  
+<span class="LineNumber"> 007 </span>โพธิสตฺตสฺส  โอโลกิตากาเรน  อธิปฺปายํ  ตฺวา  ปณฺฑิตฺตสฺสาปิ  
+<span class="LineNumber"> 008 </span>น  อุปฏฺ€าติ  เตเนกทิวสํ  โอกาสํ  อิจฺฉติ  ปูเรสฺสามิสฺส  มโนรถนฺติ  
+<span class="LineNumber"> 009 </span>จินฺเตตฺวา  รฺา  สทฺธึ  วิสฺสาเสน  มหาหสิตํ  หสิตฺวา  กึ  
+<span class="LineNumber"> 010 </span>มหาราช  สจฺจเมว (๓)  อมฺเห  ปฺหํ  กเถตุํ  อสกฺโกนฺเต  รฏฺ€า 
+<span class="LineNumber"> 011 </span>ปพฺพาเชสฺสสีติ  ปุจฺฉิ ฯ  อาม  ปณฺฑิตาติ ฯ  เอวํปิ  เอโก  
+<span class="LineNumber"> 012 </span>ปฺโหติ (๔) สลฺลกฺเขสิ  น  มยํ  อชฺช  เอตํ  กเถตุํ  สกฺโกม  อปิจ  
+<span class="LineNumber"> 013 </span>โข  ปน โถกํ  อธิวาเสหิ  คณฺ€ิโก  เอส  ปฺโห  น  สกฺโกม 
+<span class="LineNumber"> 014 </span>มหาชนมชฺเฌ  กเถตุํ  เอกมนฺเต  นิสีทิตฺวา  จินฺเตตฺวา  ปจฺฉา
+<span class="LineNumber"> 015 </span>ตุมฺหากํเยว  กเถสฺสาม  มหาราช โอกาสํ  โน เทหีติ ฯ เสนโก
+<span class="LineNumber"> 016 </span>มหาสตฺตํ โอโลเกตฺวา อิมํ คาถทฺวยมาห  
+<span class="LineNumber"> 017 </span>			มหาชนสมาคมมฺหิ โฆเร  
+<span class="LineNumber"> 018 </span>			ชนโกลาหลสํคมมฺหิ ชาเต  
+<span class="LineNumber"> 019 </span>			วิกฺขิตฺตมนา อเนกจิตฺตา  
+<span class="LineNumber"> 020 </span>			ปฺหํ น สกฺกุณาม วตฺตุเมตํ  
+<span class="LineNumber"> 021 </span># ๑. ม. ยุ. จตฺตาโร ปณฺฑิตา ฯ  ๒. สี. ยุ. กึ ฯ  ๓. ม. ยุ. สพฺเพว ฯ
+<span class="LineNumber"> 022 </span># ๔. ยุ.คณฺ€ิปฺโหติ ฯ

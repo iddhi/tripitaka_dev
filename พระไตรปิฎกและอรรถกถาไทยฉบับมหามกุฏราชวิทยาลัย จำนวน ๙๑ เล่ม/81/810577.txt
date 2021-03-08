@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                        ส. จตุตถฌาน  ก็สหรคตด้วยสุข  หรือ ? 
+<span class="LineNumber"> 002 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 003 </span>                        ส. โยคีบุคคลเลื่อนสู่จตุตถฌานจากตติยฌาน หรือ ?
+<span class="LineNumber"> 004 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. ตติยฌานอันนั้น  จตุตถฌานก็อันนั้นแล หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>         [๑๗๕๔]   ป. ไม่พึงกล่าวว่า     โยคีบุคคลเลื่อนสู่ฌานอันหนึ่งจาก
+<span class="LineNumber"> 008 </span>ฌานอันหนึ่ง 	หรือ ?
+<span class="LineNumber"> 009 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                        ป. พระผู้มีพระภาคเจ้าได้ตรัสไว้ว่า  <B>ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 011 </span>ภิกษุในธรรมวินัยนี้   สงัดแล้วจากกามเทียว  ฯลฯ   เข้าถึงจตุตถฌานอยู่</B>
+<span class="LineNumber"> 012 </span>ดังนี้  เป็นสูตรมีอยู่จริง  มิใช่หรือ ?
+<span class="LineNumber"> 013 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                        ป. ถ้าอย่างนั้น     โยคีบุคคลก็เลื่อนสู่ฌานหนึ่งจากฌาน
+<span class="LineNumber"> 015 </span>หนึ่ง  น่ะสิ.
+<span class="LineNumber"> 016 </span>                                <I>ฌานสังกันติกถา  จบ</I>
+
+<span class="LineNumber"> 017 </span>                      <H2>อรรถกถาฌานสังกันติกถา</H2>
+
+<span class="LineNumber"> 018 </span>                         <H2>ว่าด้วย   การเลื่อนฌาน</H2>
+
+<span class="LineNumber"> 019 </span>         บัดนี้  ชื่อว่าเรื่องการเลื่อนฌาน    คือการเปลี่ยนจากฌานหนึ่งไปสู่
+<span class="LineNumber"> 020 </span>ฌานหนึ่ง. ในเรื่องนั้น  ชนเหล่าใดมีความเห็นผิดดุจจลัทธินิกายมหิสสาสกะ
+<span class="LineNumber"> 021 </span>และนิกายอันธกะบางพวกว่า       โยคีบุคคลย่อมเลื่อนจากฌานมาสู่ฌาน

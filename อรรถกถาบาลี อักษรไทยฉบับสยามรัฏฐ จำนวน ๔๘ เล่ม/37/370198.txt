@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  198
+
+<span class="LineNumber"> 002 </span>ทิฏฺ€ิมุฬฺหมาคมฺม  อุตฺตรึปิ  มุฬฺหํ(๑)  นิคจฺฉติ  มุฬฺหตโร โหติ ฯ 
+<span class="LineNumber"> 003 </span>อลาเตนาติ  เทว  ตุมฺเหหิ  (๒)ชาติโคตฺตกุลปฺปเทสอิสฺสริยปฺา-
+<span class="LineNumber"> 004 </span>สมฺปนฺเนหิ    ปริหีเนน(๒)  อลาตเสนาปตินา  อจฺจนฺตหีเนน  
+<span class="LineNumber"> 005 </span>นิปฺปฺเน(๓)  วิชกทาเสน  จ  คามทารกสทิสํ อหิริกํ พาลํ 
+<span class="LineNumber"> 006 </span>คุณาชีวกํ อาคมฺม  มุฬฺหิตุํ (๔) ปฏิรูปํ อนุจฺฉวิกํ (๕) กินฺเตน
+<span class="LineNumber"> 007 </span>มุฬฺหิสฺสสีติ(๕) ฯ  
+<span class="LineNumber"> 008 </span>	เอวํ  เต  อุโภปิ  ครหิตฺวา  ทิฏฺ€ิโต  โมเจตุกามตาย  ปิตรํ  
+<span class="LineNumber"> 009 </span>วณฺเณนฺตี อาห  
+<span class="LineNumber"> 010 </span>	[๘๖๐]ตฺวฺจ เทวาสิ สปฺปฺโ	ธีโร อตฺถสฺส โกวิโท  
+<span class="LineNumber"> 011 </span>		กถํ พาเลหิ สทิโส		หีนทิฏฺ€ิมุปาคมิ  
+<span class="LineNumber"> 012 </span>			สเจ(๖) หิ สํสารปเถน สุชฺฌนฺติ  
+<span class="LineNumber"> 013 </span>			นิรตฺถิยา ปพฺพชฺชา คุณสฺส  
+<span class="LineNumber"> 014 </span>			กีโฏว อคฺคึ ชลิตํ อปาปตํ  
+<span class="LineNumber"> 015 </span>			อาปชฺชติ(๗) โมหมุฬฺเห(๘) นคฺคภาวํ  
+<span class="LineNumber"> 016 </span>			สํสารสุทฺธีติ ปุเร นิวิฏฺ€า  
+<span class="LineNumber"> 017 </span>			กมฺมํ วิทูเสนฺติ พหู อชานํ  
+<span class="LineNumber"> 018 </span># ๑. ม. ทิฏฺ€ิมูฬฺหํ อาคมฺม ทิฏฺ€ิมูฬฺโหปิ อุตฺตริ โมหํ ฯ 
+<span class="LineNumber"> 019 </span># ๒. ม. ชาติโคตฺตกุลปฺปเทสอิสฺสริยปุฺปฺาหีเนน ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. ทุปฺปฺเน ฯ  ๔. ม. คุณํ อาชีวกํ อาคมฺม มุยฺหิตุํ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. กึ เตน มุยฺหิสฺสนฺตีติ ฯ  ๖. ม. สเจปิ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. อุปปชฺชติ ฯ ๘. ม. โมหมูฬฺโห ฯ 

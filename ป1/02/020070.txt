@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>เอกูนจตฺตาฬีส,  อูนจตฺตาฬีส	๓๙	ปญฺาส,  ปณฺณาส  	๕๐  
+<span class="LineNumber"> 002 </span>จตฺตาฬีส,  ตาฬีส			๔๐	สฏฺ€ี					๖๐
+<span class="LineNumber"> 003 </span>เอกจตฺตาฬีส				๔๑	สตฺตติ				๗๐
+<span class="LineNumber"> 004 </span>เทวฺจตฺตาฬีส				๔๒	อสีติ					๘๐
+<span class="LineNumber"> 005 </span>เตจตฺตาฬีส				๔๓	นวุติ					๙๐
+<span class="LineNumber"> 006 </span>จตุจตฺตาฬีส				๔๔	สตํ					ร้อย
+<span class="LineNumber"> 007 </span>ปญฺจจตฺตาฬีส				๔๕	สหสฺสํ				พัน
+<span class="LineNumber"> 008 </span>ฉจตฺตาฬีส				๔๖	ทสสหสฺสํ			หมื่น
+<span class="LineNumber"> 009 </span>สตฺตจตฺตาฬีส				๔๗	สตสหสฺสํ,  ลกฺขํ		แสน
+<span class="LineNumber"> 010 </span>อฏฺ€จตฺตาฬีส				๔๘	ทสสตสหสฺสํ			ล้าน
+<span class="LineNumber"> 011 </span>เอกูนปญฺาส,  อูนปญฺาส	๔๙	โกฏิ					โกฏิ
+<span class="LineNumber"> 012 </span>	เอกสังขยา  เป็น  เอกวจนะอย่างเดียว.   เอกสัพพนาม   เป็น
+<span class="LineNumber"> 013 </span>ทฺวิวจนะ.  ตั้งแต่  ทฺวิ  จนถึง  อฏฺ€ารส  เป็นพหุวจนะอย่างเดียว
+<span class="LineNumber"> 014 </span>เป็น  ๓  ลิงค์.  ตั้งแต่  เอกูนวีสติ  จนถึง  อฏฺ€นวุติ  เป็นเอกวจนะ
+<span class="LineNumber"> 015 </span>อิตถีลิงค์อย่างเดียว   แม้เข้ากับศัพท์ที่เป็นพหุวจนะลิงค์อื่น  ก็คงอยู่
+<span class="LineNumber"> 016 </span>อย่างนั้น  ไม่เปลี่ยนไปตาม.

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>    
+<span class="LineNumber"> 002 </span><B>๑๔๕  นิตยภัต</B>				อาหารที่เขาถวายประจำเนืองนิตย์.
+<span class="LineNumber"> 003 </span><B>๑๕๖  นิทเทส</B>				คำจำแนก,  คำอธิบาย,  คำขยาย.
+<span class="LineNumber"> 004 </span><B>๙  นิทาน</B>					เหตุ,  เรื่องเดิม.
+<span class="LineNumber"> 005 </span><B>๒๔  นิสสัคคิยปาจิตตีย์</B>		วีติกกมะ  (โทษ)  ชื่อว่าปาจิตตีย์  อัน
+<span class="LineNumber"> 006 </span>						ทำให้สละสิ่งของซึ่งเป็นเหตุให้ต้องโทษ  คือ
+<span class="LineNumber"> 007 </span>						อาบัติ.
+<span class="LineNumber"> 008 </span><B>๔๘  นีวรณ์</B>				ธรรมกั้นจิตมิให้บรรลุความดี.
+<span class="LineNumber"> 009 </span><B>๑๐๙  นุ่งอติเรกจีวร</B>			ใช้สอยสบงหรือจีวร   หรืออังสะซึ่งเป็นผ้าที่
+<span class="LineNumber"> 010 </span>						เหลือจากไตรครอง.
+<span class="LineNumber"> 011 </span><B>๓๐  เนรเทศ</B>				ให้ออกไปเสียจากประเทศ,  ขับไล่ออกจาก
+<span class="LineNumber"> 012 </span>						ถิ่นเดิม.
+<span class="LineNumber"> 013 </span><B>๕๙  ในสำนักมาตุคาม</B>		ในที่ใกล้  (ที่จะฟังได้ยิน)  ของหญิงมนุษย์
+<span class="LineNumber"> 014 </span>						ผู้รู้เดียงสา.
+<span class="LineNumber"> 015 </span>			<B>บ.</B>
+<span class="LineNumber"> 016 </span><B>๔๐  บทภาชนีย์</B>			บทที่ควรแจก,  บทที่ตั้งไว้เพื่อไขความ, คำที่
+<span class="LineNumber"> 017 </span>						ต้องอธิบาย,  อธิบายความแห่งคำ.
+<span class="LineNumber"> 018 </span><B>๓๒  บทภาระ</B>				บทที่ว่าด้วยฐานที่ตั้งสิ่งของที่อวัยวะต่าง ๆ
+<span class="LineNumber"> 019 </span>						เช่น  ป.  สีสภาโร  =  อวัยวะที่ตั้งสิ่งของ  คือ
+<span class="LineNumber"> 020 </span>						ศีรษะ,  หรือหมายเอาสิ่งของที่ศีรษะ.
+<span class="LineNumber"> 021 </span><B>๑๓๒  บ่นว่า</B>				พร่ำพูดอย่างไม่พอใจ,  พูดติเตียนผู้อื่นโดย
+
+	

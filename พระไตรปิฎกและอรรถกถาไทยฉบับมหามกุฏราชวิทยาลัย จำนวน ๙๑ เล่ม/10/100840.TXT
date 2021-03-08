@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>องค์ของภิกษุผู้ควรระงับอธิกรณ์</H1> 
+<span class="LineNumber"> 002 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  ควรระงับอธิกรณ์  องค์ ๕
+<span class="LineNumber"> 003 </span>อะไรบ้าง  คือ :-  
+<span class="LineNumber"> 004 </span>           ๑.  ไม่ถึงฉันทาคติ
+<span class="LineNumber"> 005 </span>           ๒.  ไม่ถึงโทสาคติ
+<span class="LineNumber"> 006 </span>           ๓.  ไม่ถึงโมหาคติ
+<span class="LineNumber"> 007 </span>           ๔.   ไม่ถึงภยาคติ
+<span class="LineNumber"> 008 </span>           ๕.  เป็นผู้หนักในสงฆ์  ไม่หนักในบุคคล
+<span class="LineNumber"> 009 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕ นี้แล  ควรระงับอธิกรณ์
+
+<span class="LineNumber"> 010 </span>                     <H1>องค์ของภิกษุผู้ไม่ควรระงับอธิกรณ์อีกนัยหนึ่ง</H1> 
+<span class="LineNumber"> 011 </span>           ดูก่อนอุบาลี    ภิกษุประกอบด้วยองค์  ๕   แม้อื่นอีก    ไม่ควรระงับ
+<span class="LineNumber"> 012 </span>อธิกรณ์  องค์ ๕ อะไรบ้าง  คือ :-
+<span class="LineNumber"> 013 </span>           ๑.  ถึงฉันทาคติ
+<span class="LineNumber"> 014 </span>           ๒.  ถึงโทสาคติ                                                
+<span class="LineNumber"> 015 </span>           ๓.  ถึงโมหาคติ
+<span class="LineNumber"> 016 </span>           ๔.   ถึงภยาคติ
+<span class="LineNumber"> 017 </span>           ๕.  เป็นผู้หนักในอามิส  ไม่หนักในสัทธรรม        
+<span class="LineNumber"> 018 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕  นี้แล  ไม่ควรระงับอธิกรณ์
+
+<span class="LineNumber"> 019 </span>                                   <H1>องค์ของภิกษุผู้ควรระงับอธิกรณ์</H1> 
+<span class="LineNumber"> 020 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  ควรระงับอธิกรณ์  องค์  ๕
+<span class="LineNumber"> 021 </span>อะไรบ้าง  คือ :-

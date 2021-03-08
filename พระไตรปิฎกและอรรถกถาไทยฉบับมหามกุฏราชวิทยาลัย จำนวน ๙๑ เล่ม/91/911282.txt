@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๘๐๓]  ในเหตุปัจจัย  มี  ๒๑  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>                   <I>นสนิทัสสนติกโนจิตตสังสัฏฐสมุฏฐานสหภูทุก</I>
+<span class="LineNumber"> 004 </span>                 <I>สนิทัสสนติกจิตตสังสัฏฐสมุฏฐานสหภูทุกะ   จบ</I>	
+
+<span class="LineNumber"> 005 </span>               <H1>นสนิทัสสนติกโนจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ</H1>
+<span class="LineNumber"> 006 </span>                  <H1>สนิทัสสนติกจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ</H1>
+<span class="LineNumber"> 007 </span><H2>(๒๒. สนิทัสสนติกะ  ๖๕. จิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ)</H2>	
+<span class="LineNumber"> 008 </span>                                           <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 009 </span>                                            <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>                                           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>                                <H2>จิตตสังสัฏฐสมุฏฐานบท</H2>
+<span class="LineNumber"> 012 </span>           [๘๐๔] ๑.  <B>จิตตสังสัฏฐสมุฏฐานานุปริวัตติธรรม   ที่เป็นอนิ-
+<span class="LineNumber"> 013 </span>ทัสสนอัปปฏิฆธรรม  อาศัยธรรมที่ไม่ใช่จิตตสังสัฏฐสมุฏฐานานุปริ-
+<span class="LineNumber"> 014 </span>วัตติธรรม ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม เกิดขึ้น เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 015 </span>                             <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๘๐๕]  ในเหตุปัจจัย มี ๓ วาระ   ฯลฯ

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>อกุศลบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 002 </span>					      <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>					 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๑๐๕๑]  ๑.  อกุศลธรรมที่ไม่ใช่เหตุธรรม    แต่เป็นสเหตุก-
+<span class="LineNumber"> 005 </span>ธรรม    อาศัยอกุศลธรรมที่ไม่ใช่เหตุธรรม    แต่เป็นสเหตุกธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ
+<span class="LineNumber"> 007 </span>				<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>		[๑๐๕๒]  ในเหตุปัจจัย   มี  ๑ วาระ    ในอารัมมณปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 009 </span>ในปัจจัยทั้งปวง มี  ๑  วาระ   ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>        	ไม่มีด้วยอำนาจของเหตุปัจจัย  แม้ในปัญหาวาระก็มี ๑  วาระ  ทุกปัจจัย.
+<span class="LineNumber"> 011 </span>                เหตุปัจจัยสำหรับบททั้ง  ๓  เหล่านั้น  (คือกุศลบท  อกุศลบท  อัพยากต-
+<span class="LineNumber"> 012 </span>บท)  แม้ในปัญหาวาระ  ก็ไม่มี.
+
+<span class="LineNumber"> 013 </span>				   <H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 014 </span>				            <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 015 </span>				       <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 016 </span>		[๑๐๕๓]  ๑.  อัพยากตธรรมที่ไม่ใช่เหตุธรรม  แต่เป็นสเหตุก-
+<span class="LineNumber"> 017 </span>ธรรม    อาศัยอัพยากตธรรมที่ไม่ใช่เหตุธรรม    แต่เป็นสเหตุกธรรม
+<span class="LineNumber"> 018 </span>เกิดขึ้น  เพราะเหตุปัจจัย

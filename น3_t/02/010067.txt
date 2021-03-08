@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	๑.  ความสำคัญคิดเห็นในของที่ไม่เที่ยงว่าเที่ยง. 
+<span class="LineNumber"> 002 </span>	๒.  ความสำคัญคิดเห็นในของที่เป็นทุกข์ว่าเป็นสุข
+<span class="LineNumber"> 003 </span>	๓.  ความสำคัญคิดเห็นในของที่ไม่ใช่ตนว่าเป็นตน.
+<span class="LineNumber"> 004 </span>	๔.  ความสำคัญคิดเห็นในของที่ไม่งามว่างาม.  
+<span class="LineNumber"> 005 </span>	ใจความที่แสดงวิปัลลาส  ๔  คือ :-
+<span class="LineNumber"> 006 </span>	ข้อ  ๑  ยกอนิจจลักขณะในส่วนแห่งขันธ์  ๕  ขึ้นแสดง  ดังที่
+<span class="LineNumber"> 007 </span>ตรัสแก่พระอานนท์ ในคิริมานนทสูตร.
+<span class="LineNumber"> 008 </span>	ข้อ  ๒  ยกทุกขลักขณะขึ้นแสดง จำแนกอายตนะภายในภายนอก
+<span class="LineNumber"> 009 </span>วิญญาณ  สัมผัส  เวทนา  เป็นต้น  ดังที่ตรัสเทศนาอาทิตตปริยายสูตร
+<span class="LineNumber"> 010 </span>แก่พระภิกษุปราณชฎิล.
+<span class="LineNumber"> 011 </span>	ข้อ  ๓  ยกอนัตตลักขณะขึ้นแสดง  จำแนกธาตุต่าง ๆ  อันเป็นส่วน
+<span class="LineNumber"> 012 </span>แห่งร่างกาย  ซึ่งเรียกว่าธาตุกัมมัฏฐาน  ดังที่ทรงแสดงธาตุกัมมัฏฐาน
+<span class="LineNumber"> 013 </span>แก่พระราหุล.
+<span class="LineNumber"> 014 </span>	ข้อ  ๔  ยกอสุภสัญญาขึ้นแสดง  จำแนกส่วนต่าง ๆ  อันเป็น
+<span class="LineNumber"> 015 </span>อาการกายล้วนแล้วเป็นของไม่น่าสวนงาม  ดังที่ทรงแสดงปฏิกูลบัพพะ
+<span class="LineNumber"> 016 </span>และนวสีวถิกาบัพพะ  ในมหาสติปัฏฐาน.
+<span class="LineNumber"> 017 </span>	<B>ประโยชน์แห่งการเจริญหรือพิจารณา  ๔  คือ :-</B>
+<span class="LineNumber"> 018 </span>	๑.  <B>อนิจจสัญญา</B>  เป็นเครื่องถอนวิปัลลาสข้อ  ๑.
+<span class="LineNumber"> 019 </span>	๒.  <B>ทุกขสัญญา</B>   เป็นเครื่องถอนวิปัลลาสข้อ  ๒.
+<span class="LineNumber"> 020 </span>	๓.  <B>อนัตตสัญญา</B> เป็นเครื่องถอนวิปัลลาสข้อ  ๓.
+<span class="LineNumber"> 021 </span>	๔.  <B>อสุภสัญญา</B>   เป็นเครื่องถอนวิปัลลาสข้อ  ๔.
+

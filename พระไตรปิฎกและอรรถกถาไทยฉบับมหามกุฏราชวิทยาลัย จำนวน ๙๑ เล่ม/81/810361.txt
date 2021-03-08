@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                       ส. บุคคลผู้กัปปัฏฐะ  เป็นผู้มีฤทธิ์  หรือ ? 
+<span class="LineNumber"> 002 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                       ส. บุคคลผู้กัปปัฏฐะ    ได้เจริญฉันทอิทธิบาท   ได้เจริญ
+<span class="LineNumber"> 004 </span>วิริยอิทธิบาท   ได้เจริญจิตตอิทธิบาท   ได้เจริญวิมังสาอิทธิบาท  หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 006 </span>         [๑๕๑๔]  ป. ไม่พึงกล่าวว่า   บุคคลผู้กัปปัฏฐะ   พึงดำรงอยู่ได้ตลอด
+<span class="LineNumber"> 007 </span>กัลป์หรือ ?
+<span class="LineNumber"> 008 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ป. พระผู้มีพระภาคเจ้าได้ตรัสไว้ว่า    <B>บุคคลผู้กัปปัฏฐะ
+<span class="LineNumber"> 010 </span>คือ  ผู้ทำลายสงฆ์ให้แตกจากกัน   จะต้องไปอบาย   จะต้องไปนรก  ผู้ยินดี
+<span class="LineNumber"> 011 </span>ในการแยกพวก  ไม่ตั้งอยู่ในธรรม  ย่อมคลาดจากธรรมเป็นแดนเกษม
+<span class="LineNumber"> 012 </span>จากโยคะ    เขายังสงฆ์ซึ่งพร้อมเพรียงกันให้แตกกันแล้วจะหมกไหม้อยู่
+<span class="LineNumber"> 013 </span>ในนรกตลอดกัลป์</B>    ดังนี้<SUP>๑</SUP>  เป็นสูตรมีอยู่จริง  มิใช่  หรือ ?
+<span class="LineNumber"> 014 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                       ป. ถ้าอย่างนั้น    บุคคลผู้กัปปัฏฐะก็พึงดำรงอยู่ได้ตลอด 
+<span class="LineNumber"> 016 </span>กัลป์  น่ะสิ. 
+<span class="LineNumber"> 017 </span>                                <I>อรรถกถากัปปัฏฐกถา  จบ</I>
+
+<span class='footnote'>๑. วิ. จุ. ๗/๔๐๘.</span>

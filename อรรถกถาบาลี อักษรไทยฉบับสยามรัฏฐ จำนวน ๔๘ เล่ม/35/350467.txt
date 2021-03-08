@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  มหาสุตโสมชาตกํ  หน้า  467
+
+<span class="LineNumber"> 002 </span>		อนานุตปฺปํ ปรโลกํ คมิสฺสํ  
+<span class="LineNumber"> 003 </span>		ยชสฺสุ ยฺํ ขาท(๑) มํ โปริสาท ฯ  
+<span class="LineNumber"> 004 </span>		ปิตา จ มาตา จ อุปฏฺ€ิตา เม  
+<span class="LineNumber"> 005 </span>		ธมฺเมน เม อิสฺสริยํ ปสตฺถํ  
+<span class="LineNumber"> 006 </span>		วิโสธิโต ปรโลกสฺส มคฺโค  
+<span class="LineNumber"> 007 </span>		ธมฺเม €ิโต โก มรณสฺส ภาเย ฯ  
+<span class="LineNumber"> 008 </span>		ปิตา จ มาตา จ อุปฏฺ€ิตา เม  
+<span class="LineNumber"> 009 </span>		ธมฺเมน เม อิสฺสริยํ ปสตฺถํ  
+<span class="LineNumber"> 010 </span>		อนานุตปฺปํ ปรโลกํ คมิสฺสํ  
+<span class="LineNumber"> 011 </span>		ยชสฺสุ ยฺํ ขาท มํ โปริสาท ฯ  
+<span class="LineNumber"> 012 </span>		าตีสุ มิตฺเตส กตูปการา(๒)  
+<span class="LineNumber"> 013 </span>		ธมฺเมน เม อิสฺสริยํ ปสตฺถํ  
+<span class="LineNumber"> 014 </span>		วิโสธิโต ปรโลกสฺส มคฺโค  
+<span class="LineNumber"> 015 </span>		ธมฺเม €ิโต โก มรณสฺส ภาเย ฯ  
+<span class="LineNumber"> 016 </span>		าตีสุ มิตฺเตสุ กตูปการา  
+<span class="LineNumber"> 017 </span>		ธมฺเมน เม อิสฺสริยํ ปสตฺถํ  
+<span class="LineNumber"> 018 </span>		อนานุตปฺปํ ปรโลกํ คมิสฺสํ  
+<span class="LineNumber"> 019 </span>		ยชสฺสุ ยฺํ ขาท มํ โปริสาท ฯ  
+<span class="LineNumber"> 020 </span>		ทินฺนํ เม ทานํ พหุธา พหูนํ  
+<span class="LineNumber"> 021 </span>		สนฺตปฺปิตา สมณพฺราหฺมณา จ  
+<span class="LineNumber"> 022 </span># ๑. ม. อท ฯ อิโต ปรํ อีทิสเมว ฯ  
+<span class="LineNumber"> 023 </span># ๒. ม. กตา เม การา ฯ  อิโต ปรํ อีทิสเมว ฯ

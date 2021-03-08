@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่  42  หน้า  1 
+<span class="LineNumber"> 002 </span>		วิสุทฺธชนวิลาสินี นาม  ขุทฺทกนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>					อปทานวณฺณนา  
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>					คนฺถารมฺภกถา  
+<span class="LineNumber"> 006 </span>		วนฺทิตฺวา สิรสา เสฏฺ€ํ  พุทฺธมปฺปฏิปุคฺคลํ  
+<span class="LineNumber"> 007 </span>		เยฺยสาครมุตฺติณฺณํ   ติณฺณํ สํสารสาครํ ฯ(๑)  
+<span class="LineNumber"> 008 </span>		ตเถว ปรมํ สนฺตํ	คมฺภีรํ ทุทฺทสํ อณุํ  
+<span class="LineNumber"> 009 </span>		ภวาภวกรํ สุทฺธํ	ธมฺมํ สมฺพุทฺธปูชิตํ ฯ  
+<span class="LineNumber"> 010 </span>		ตเถว อนฆํ สงฺฆํ	อสงฺคํ สงฺฆมุตฺตมํ  
+<span class="LineNumber"> 011 </span>		อุตฺตมํ ทกฺขิเณยฺยานํ   สนฺตินฺทฺริยมนาสวํ ฯ  
+<span class="LineNumber"> 012 </span>		กเตน ตสฺส เอตสฺส	ปณาเมน วิเสสโต  
+<span class="LineNumber"> 013 </span>		รตนตฺตเย วิเสเสน	วิเสสสฺสาทเรน เม ฯ  
+<span class="LineNumber"> 014 </span>		เถเรหิ ธีรธีเรหิ(๒)	อาคมฺูหิ วิฺุภิ  
+<span class="LineNumber"> 015 </span>		อปทานฏฺ€กถา ภนฺเต  กาตพฺพาติ วิเสสโต ฯ  
+<span class="LineNumber"> 016 </span>		ปุนปฺปุนาทเรเนว	ยาจิโตหํ ยสสฺสิภิ  
+<span class="LineNumber"> 017 </span>		ตสฺมาหํ สาปทานสฺส   อปทานสฺสเสสโต ฯ  
+<span class="LineNumber"> 018 </span>		วิเสสนยทีปสฺส	ทีปิสฺสํ ปิฏกตฺตเย  
+<span class="LineNumber"> 019 </span>		ยถา ปาฬินเยเนว	อตฺถสํวณฺณนํ สุภํ ฯ  
+<span class="LineNumber"> 020 </span># ๑ สี. ยุ. ติณฺณสํสารสาครํ ฯ  
+<span class="LineNumber"> 021 </span># ๒ สี.  ธีราติวีรธีเรหิ ยุ. เถเรหิ €ิรวีเรหิ ฯ  

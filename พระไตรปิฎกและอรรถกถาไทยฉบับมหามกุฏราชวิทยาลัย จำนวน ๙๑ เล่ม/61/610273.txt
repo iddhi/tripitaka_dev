@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>๑๔.   อโยฆรชาดก</H2> 
+
+<span class="LineNumber"> 002 </span>                          <H1>ว่าด้วยอำนาจของมัจจุราช</H1>
+
+<span class="LineNumber"> 003 </span>                <B>[๒๒๖๑]</B>  (อโยฆรกุมารตรัสว่า)  <B>สัตว์ถือปฏิสนธิ 
+<span class="LineNumber"> 004 </span>         กลางคืนก็ตาม กลางวันก็ตาม  ย่อมอยู่ในครรภ์มารดา
+<span class="LineNumber"> 005 </span>         ก่อน   สัตว์นั้นย่อมเกิดเพราะกำลังลม   ย่อมไปสู่ความ
+<span class="LineNumber"> 006 </span>         เป็นกลละเป็นต้น  ย่อมไม่ย้อนกลับมาสู่ความเป็นกลละ
+<span class="LineNumber"> 007 </span>         เป็นต้นอีก.
+<span class="LineNumber"> 008 </span>                [๒๒๖๒]  นรชนทั้งหลาย    จะยกพลโยธายุทธ-
+<span class="LineNumber"> 009 </span>         นาการกับชรา     พยาธิ     มรณะไม่ได้เลยเป็นอันขาด
+<span class="LineNumber"> 010 </span>         เพราะว่าชีวิตของสัตว์ทั้งมวลนี้ ถูกความเกิดและความ
+<span class="LineNumber"> 011 </span>         แก่เข้าไปประทุษร้ายเบียดเบียน    เพราะเหตุนั้น   ข้า-
+<span class="LineNumber"> 012 </span>         พระพุทธเจ้าจึงคิดว่า  จะบวชประพฤติธรรม. 
+<span class="LineNumber"> 013 </span>                [๒๒๖๓]  พระราชาผู้เป็นอธิบดีในรัฐทั้งหลาย
+<span class="LineNumber"> 014 </span>         ย่อมจะข่มขี่ราชศัตรู  ผู้มีเสนาอันประกอบด้วยองค์ ๔
+<span class="LineNumber"> 015 </span>         ล้วนมีรูปร่างน่าสะพรึงกลัว    เอาชัยชนะได้    แต่ไม่
+<span class="LineNumber"> 016 </span>         สามารถจะชนะเสนาแห่งมัจจุราชได้    เพราะเหตุนั้น 
+<span class="LineNumber"> 017 </span>         ข้าพระพุทธเจ้าจึงคิดว่า  จะบวชประพฤติธรรม.
+<span class="LineNumber"> 018 </span>                [๒๒๖๔]  พระราชาบางพวก  แวดล้อมด้วยพล-
+<span class="LineNumber"> 019 </span>         ม้า   พลรถ   และพลเดินเท้า  ย่อมพ้นจากเงื้อมมือของ
+<span class="LineNumber"> 020 </span>         ข้าศึกได้   แต่ก็ไม่อาจจะพ้นจากสำนักของมัจจุราชได้</B>

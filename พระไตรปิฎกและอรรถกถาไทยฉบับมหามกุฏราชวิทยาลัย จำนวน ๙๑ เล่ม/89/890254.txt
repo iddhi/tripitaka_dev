@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                	๔.  <B>จิตตสังสัฏฐสมุฏฐานธรรม   เจือกับธรรมที่ไม่ใช่
+<span class="LineNumber"> 002 </span>จิตตสังสัฏฐสมุฏฐานธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 003 </span>	คือ  สัมปยุตตขันธ์ทั้งหลาย  เจือกับจิต.
+<span class="LineNumber"> 004 </span>	ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 005 </span>	       	๕.  <B>จิตตสังสัฏฐสมุฏฐานธรรม    เจือกับจิตตสังสัฏฐ-
+<span class="LineNumber"> 006 </span>สมุฏฐานธรรม และธรรมที่ไม่ใช่จิตตสังสัฏฐสมุฏฐานธรรม เกิดขึ้น
+<span class="LineNumber"> 007 </span>เพราะเหคุปัจจัย</B>
+<span class="LineNumber"> 008 </span>	คือ    ขันธ์ ๒    เจือกับขันธ์  ๑    ที่เป็นจิตตสังสัฏฐสมุฏฐานธรรม
+<span class="LineNumber"> 009 </span>และจิต ฯลฯ   อาศัยขันธ์ ๒.
+<span class="LineNumber"> 010 </span>	ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 011 </span>                              <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>	[๒๓๗]  ในเหตุปัจจัย มี ๕ วาระ  ในอารัมมณปัจจัย มี ๕ วาระ ใน
+<span class="LineNumber"> 013 </span>อธิปติปัจจัย  มี ๕ วาระ ในปัจจัยทั้งปวง มี ๕ วาระ ในอวิคตปัจจัย มี ๕ วาระ.
+
+<span class="LineNumber"> 014 </span>                                         <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 015 </span>                                        <H2>๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>	[๒๓๘] ๑.  <B>จิตตสังสัฏฐสมุฏฐานธรรม   เจือกับจิตตสังสัฏฐ-
+<span class="LineNumber"> 017 </span>สมุฏฐานธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B> ฯลฯ มีทั้ง ๓ วาระ,  โมหะ.

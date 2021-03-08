@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                    	<H1>การนับจำนวนวาระในอนุโลม</H1> 
+<span class="LineNumber"> 002 </span>		[๘๒]  ในเหตุปัจจัย  มี ๗ วาระ  ในอารัมมณปัจจัย  มี ๙ วาระ ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย มี ๑๓ วาระ.
+<span class="LineNumber"> 004 </span>            ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+
+<span class="LineNumber"> 005 </span>			      <H1>มหัคคตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 006 </span>				   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>			         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๘๓]  ๑.  มหัคคตธรรมที่เป็นกุศล   อาศัยมหัคคตธรรมที่เป็น 
+<span class="LineNumber"> 009 </span>กุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                      ๒.  มหัคคตธรรมที่เป็นอัพยากตะ  อาศัยมหัคคตธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๘๔]  ในเหตุปัจจัย มี ๒ วาระ  ในอารัมมณปัจจัย มี ๒ วาระ  ฯลฯ
+<span class="LineNumber"> 014 </span>ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 015 </span>            สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดารทุกปัจจัย.

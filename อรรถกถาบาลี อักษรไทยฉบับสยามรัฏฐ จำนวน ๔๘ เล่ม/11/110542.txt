@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑ หน้า  ๕๔๒
+
+<span class="LineNumber"> 002 </span>			โอกฺกนฺตสํยุตฺตวณฺณนา           
+
+<span class="LineNumber"> 003 </span>				จกฺขุสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 004 </span>	โอกฺกนฺตสํยุตฺเต  อธิมุจฺจตีติ  สทฺธาธิโมกฺขํ (๑) ปฏิลภติ ฯ 
+<span class="LineNumber"> 005 </span>โอกฺกนฺโต  สมฺมตฺตนิยามนฺติ  ปวิฏฺโ€  อริยมคฺคํ ฯ  อภพฺโพว(๒)  
+<span class="LineNumber"> 006 </span>ตาว  กาลํ กาตุนฺติ  อิมินา  อุปฺปนฺเน  มคฺเค  ผลสฺส  อนนฺตรายตํ 
+<span class="LineNumber"> 007 </span>ทีเปติ ฯ อุปฺปนฺนสฺมึ หิ มคฺเค  ผลสฺส  อนฺตรายกรณํ  นาม
+<span class="LineNumber"> 008 </span>นตฺถิ ฯ  เตเนวาห  อยฺจ  ปุคฺคโล  โสตาปตฺติผลสจฺฉิกิริยาย
+<span class="LineNumber"> 009 </span>ปฏิปนฺโน  อสฺส  กปฺปสฺส  จ  อุฑฺฑยฺหนเวลา(๓)  อสฺส เนวายํ(๔)
+<span class="LineNumber"> 010 </span>กปฺโป  อุฑเหยฺย(๕)  ยาวายํ  ปุคฺคโล  น  โสตาปตฺติผลํ  
+<span class="LineNumber"> 011 </span>สจฺฉิกโรติ อยํ  วุจฺจติ  ปุคฺคโล  €ิตกปฺปีติ ฯ    มตฺตโส  นิชฺฌานํ 
+<span class="LineNumber"> 012 </span>ขมนฺตีติ  ปมาณโต โอโลกนํ ขมนฺติ ฯ เสสํ สพฺพตฺถ 
+<span class="LineNumber"> 013 </span>อุตฺตานเมวาติ ฯ          
+<span class="LineNumber"> 014 </span>			โอกฺกนฺตสํยุตฺตวณฺณนา นิฏฺ€ิตา         
+
+<span class="LineNumber"> 015 </span>	อุปฺปาทสํยุตฺเต สพฺพํ ปากฏเมว ฯ       
+<span class="LineNumber"> 016 </span>				อุปฺปาทสํยุตฺตวณฺณนา นิฏฺ€ิตา ฯ        
+<span class="LineNumber"> 017 </span># ๑. ม. สทฺธาธิโมกฺขํ ฯ  ๒. ม. อภพฺโพจ ฯ  ๓. ม. อุฑฺฑยฺหนเวลา ฯ
+<span class="LineNumber"> 018 </span># ๔. ม. เนว ตาว ฯ  ๕. ม. อุฑฺฑเยฺหยฺย ฯ

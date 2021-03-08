@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๖๖๓] ๘.  <B>อสังกิลิฏฐสังกิเลสิกธรรม      อาศัยอสังกิลิฏฐ-
+<span class="LineNumber"> 002 </span>สังกิเลสิกธรรม   และอสังกิลิฏฐอสังกิเลสิกธรรม   เกิดขึ้น    เพราะ 
+<span class="LineNumber"> 003 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ    จิตตสมุฏฐานรูป    อาศัยขันธ์ที่เป็นอสังกิลิฏฐอสังกิเลสิกธรรม
+<span class="LineNumber"> 005 </span>และมหาภูตรูป   เกิดขึ้น. 
+<span class="LineNumber"> 006 </span>         [๑๖๖๔] ๙.  <B>อสังกิลิฏฐสังกิเลสิกธรรม   อาศัยสังกิลิฏฐสังกิ-
+<span class="LineNumber"> 007 </span>เลสิกธรรม  และอสังกิลิฏฐสังกิเลสิกธรรม เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ   จิตตสมุฏฐานรูป   อาศัยขันธ์ที่เป็นสังกิลิฏฐสังกิเลสิกธรรม  และ
+<span class="LineNumber"> 009 </span>มหาภูตรูป ฯลฯ
+
+<span class="LineNumber"> 010 </span>                              <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 011 </span>                                           <H1>สุทธมูลกนัย</H1>
+<span class="LineNumber"> 012 </span>         [๑๖๖๘]  ในเหตุปัจจัย  มี ๙ วาระ   ในอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 013 </span>ฯลฯ   ในวิปากปัจจัย   มี ๕ วาระ  ในอวิคตปัจจัย   มี ๙ วาระ.
+<span class="LineNumber"> 014 </span>         ในกุสลติกะท่านจำแนกไว้อย่างไร   พึงจำแนกอย่างนั้น.
+
+<span class="LineNumber"> 015 </span>                                            <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 016 </span>         [๑๖๖๖]  <B>สังกิลิฏฐสังกิเลสิกธรรม  อาศัยสังกิลิฏฐสังกิเลสิก-
+<span class="LineNumber"> 017 </span>ธรรม   เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>         คือ  โมหะที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ   อาศัยขันธ์
+<span class="LineNumber"> 019 </span>ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  เกิดขึ้น.

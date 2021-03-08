@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   บุคคลมีความนอนเนื่องอยู่ด้วยอวิชชานุสัย  จากที่ใด   
+<span class="LineNumber"> 002 </span>ก็มีความนอนเนื่องอยู่ด้วยกามราคานุสัย   จากที่นั้น   ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         บุคคลมีความนอนเนื่องอยู่ด้วยอวิชชานุสัย     จากที่นั้น    คือที่
+<span class="LineNumber"> 004 </span>ทุกขเวทนา    ที่รูปธาตุ     อรูปธาตุ     แต่ไม่ใช่มีความนอนเนื่องอยู่ด้วย
+<span class="LineNumber"> 005 </span>กามราคานุสัย   จากที่นั้น    บุคคลมีความนอนเนื่องอยู่ด้วยอวิชชานุสัย
+<span class="LineNumber"> 006 </span>และมีความนอนเนื่องอยู่ด้วยกามราคานุสัย   จากที่นั้น    คือที่เวทนา ๒
+<span class="LineNumber"> 007 </span>ในกามธาตุ.
+<span class="LineNumber"> 008 </span>                       <I>จบ  กามราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 009 </span>                                    <I>กามราคานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 010 </span>                                        <H1>ปฏิฆานุสยมูล</H1>
+<span class="LineNumber"> 011 </span><H2>ปฏิฆานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 012 </span>         [๑๓๐๐]   บุคคลมีความนอนเนื่องอยู่ด้วยปฏิฆานุสัย  จากที่ใด,
+<span class="LineNumber"> 013 </span>ก็มีความนอนเนื่องอยู่ด้วยมานานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ไม่ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า   บุคคลมีความนอนเนื่องอยู่ด้วยมานานุสัย    จากที่ใด,
+<span class="LineNumber"> 016 </span>ก็มีความนอนเนื่องอยู่ด้วยปฏิฆานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ไม่ใช่.
+<span class="LineNumber"> 018 </span>                          <I>จบ  ปฏิฆานุสยมูละ  มานานุสยมูลี</I>

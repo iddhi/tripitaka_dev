@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                       		<H1>รูปายตนมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>รูปายตนมูละ  มนายตนมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๓๑๔]   รูปายตนะกำลังเกิดในภูมิใด,    มนายตนะก็กำลังเกิด
+<span class="LineNumber"> 004 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ในอสัญญสัตตภูมินั้น  รูปายตนะกำลังเกิดในภูมินั้น    แต่มนา-
+<span class="LineNumber"> 006 </span>ยตนะไม่ใช่กำลังเกิดในภูมินั้น   ในปัญจโวการภูมินั้น   รูปายตนะกำลัง
+<span class="LineNumber"> 007 </span>เกิด  และมนายตนะก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   มนายตนะกำลังเกิดในภูมิใด,    รูปายตนะก็กำลังเกิด
+<span class="LineNumber"> 009 </span>ในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ในอรูปภูมินั้น    มนายตนะกำลังเกิดในภูมินั้น    แต่รูปายตนะ
+<span class="LineNumber"> 011 </span>ไม่ใช่กำลังเกิดในภูมินั้น     ในปัญจโวการภูมินั้น   มนายตนะกำลังเกิด
+<span class="LineNumber"> 012 </span>และรูปายตนะก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 013 </span>                          <I>จบ  รูปายตนมูละ  มนายตนมูลี</I>
+<span class="LineNumber"> 014 </span><H2>รูปายตนมูละ    ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 015 </span>         [๓๐๕]   รูปายตนะกำลังเกิดในภูมิใด,    ธัมมายตนะก็กำลังเกิด
+<span class="LineNumber"> 016 </span>ในภูมินั้น  ใช่ไหม  ?

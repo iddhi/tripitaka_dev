@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>นเหตุทุกจูฬันตรทุกะ</H1> 
+<span class="LineNumber"> 002 </span>           <H2>(๑. นเหตุทุกะ  ๖-๑๒.  จูฬันตรทุกะ)</H2>  
+<span class="LineNumber"> 003 </span>                         <H2>อัปปัจจยบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๔๗๒] ๑.  <B>ธรรมที่ไม่ใช่อัปปัจจยธรรม     ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 007 </span>อาศัยธรรมที่ไม่ใช่อัปปัจจยธรรม ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 008 </span>เหตุปัจจัย.</B>
+<span class="LineNumber"> 009 </span>                       ๒.   <B>ธรรมที่ไม่ใช่อัปปัจจยธรรม   ที่ไม่ใช่นเหตุธรรม
+<span class="LineNumber"> 010 </span>อาศัยธรรมที่ไม่ใช่อัปปัจจยธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 011 </span>เหตุปัจจัย.</B>
+<span class="LineNumber"> 012 </span>                       ๓.  <B>ธรรมที่ไม่ใช่อัปปัจจยธรรม     ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 013 </span>และธรรมที่ไม่ใช่อัปปัจจยธรรม   ที่ไม่ใช่นเหตุธรรม    อาศัยธรรม
+<span class="LineNumber"> 014 </span>ที่ไม่ใช่อัปปัจจยธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 015 </span>           [๔๗๓] ๔.  <B>ธรรมที่ไม่ใช่อัปปัจจยธรรม  ที่ไม่ใช่นเหตุธรรม
+<span class="LineNumber"> 016 </span>อาศัยธรรมที่ไม่ใช่อัปปัจจยธรรม ที่ไม่ใช่นเหตุธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 017 </span>เหตุปัจจัย.</B>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>มักถือเอาความชอบของตน.     
+<span class="LineNumber"> 002 </span>	ค.  ทิฏฐิจริตอย่างอ่อน  เป็นผู้ติดจิต  มุ่งจิตเป็นใหญ่  มักเห็นว่า
+<span class="LineNumber"> 003 </span>จิตเท่านั้นเป็นสิ่งสำคัญ  ถ้าจิตไม่ถูกกวนให้เดือดร้อยขุ่นมัว  ก็เป็นที่
+<span class="LineNumber"> 004 </span>พอใจ.
+<span class="LineNumber"> 005 </span>	ฆ.  ทิฏฐิจริตอย่างกล้า  เป็นผู้ติดธรรม  คืออารมณ์ที่เกิดกับใจ
+<span class="LineNumber"> 006 </span>หนักอยู่ในธรรม  มักเห็นว่าธรรมที่เกิดกับจิตเป็นสิ่งสำคัญ  มักหาเรื่อง
+<span class="LineNumber"> 007 </span>ที่ชอบมาให้จิตนึก.
+<span class="LineNumber"> 008 </span>                         มหาสติปัฏฐานเป็นคู่ปรับกับจริต
+<span class="LineNumber"> 009 </span>	๑.  <B>กายานุปัสสนา</B> 		เป็นคู่ปรับแก่ตัณหาจริตอย่างอ่อน.
+<span class="LineNumber"> 010 </span>	๒.  <B>เวทนานุปัสสนา</B> 	คู่ปรับแก่ตัณหาจริตอย่างกล้า.
+<span class="LineNumber"> 011 </span>	๓.  <B>จิตตานุปัสสนา</B>		เป็นคู่ปรับแก่ทิฏฐิตอย่างอ่อน.
+<span class="LineNumber"> 012 </span>	๔.  <B>ธัมมานุปัสสนา</B>		เป็นคู่ปรับแก่ทิฏฐิจริตอย่างกล้า.
+<span class="LineNumber"> 013 </span>	ผู้เจริญมหาสติปัฏฐาน  ซึ่งจะนำอภิชฌาโทมนัสในโลกออกได้
+<span class="LineNumber"> 014 </span>ต้องประกอบด้วยองคคุณ  ๓  คือ :-
+<span class="LineNumber"> 015 </span>	๑.  <B>อาตาปี</B> 		มีความเพียรเผากิเลสให้เร่าร้อน.
+<span class="LineNumber"> 016 </span>	๒.  <B>สัมปชาโน</B>	รู้ทั่วพร้อม.
+<span class="LineNumber"> 017 </span>	๓.  <B>สติมา</B>		มีสติ.
+<span class="LineNumber"> 018 </span>	ก.  <B>กายานุปัสสนา</B>
+<span class="LineNumber"> 019 </span>	กายานุปัสสนา  พิจารณากาย  ท่านจำแนกไว้  ๖  บรรพ  รวม  ๑๔
+<span class="LineNumber"> 020 </span>ข้อ  คือ  :-
+<span class="LineNumber"> 021 </span>	๑.  <B>อานาปานปัพพะ</B>  ข้อกำหนดด้วยลมหายใจ  คือ  หายใจ
+

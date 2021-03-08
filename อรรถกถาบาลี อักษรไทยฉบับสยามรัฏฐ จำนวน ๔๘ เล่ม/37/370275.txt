@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 275
+
+<span class="LineNumber"> 002 </span>มนุฺตลํ ฯ  หิมวํว  ปพฺพตนฺติ  หิมวนฺตํ  ปพฺพตํ  วิย ฯ
+<span class="LineNumber"> 003 </span>วิปุลมภิรุยฺหาติ  ภิกฺขเว  โส  ปุณฺณโก  เอวรูปํ  วิปุลปพฺพตํ 
+<span class="LineNumber"> 004 </span>อภิรุยฺห(๑) ฯ  ปพฺพตกูฏมชฺเฌติ  ปพฺพตกูฏพฺภนฺตเร(๒)  ตํ มณึ อทฺทส ฯ  
+<span class="LineNumber"> 005 </span>	[๙๑๔]ทิสฺวา มณึ ปภสฺสรํ โชติมนฺตํ (๓) 
+<span class="LineNumber"> 006 </span>		ธนารหํ (๔) มณิรตนํ อุฬารํ  
+<span class="LineNumber"> 007 </span>		ททฺทลฺหมานํ ยสสา ยสสฺสินํ  
+<span class="LineNumber"> 008 </span>		โอภาสตี วิชฺชุริวนฺตลิกฺเข  
+<span class="LineNumber"> 009 </span>		ตมคฺคหี เวฬุริยํ มหคฺฆํ  
+<span class="LineNumber"> 010 </span>		มโนหรนฺนาม(๕) มหานุภาวํ  
+<span class="LineNumber"> 011 </span>		อาชฺมารุยฺห อโนมวณฺโณ  
+<span class="LineNumber"> 012 </span>		ปกฺกามิ เวหายสมนฺตลิกฺเขติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  ธนาหรนฺติ(๔)  มนสา  อภิปฏฺ€ิตสฺส  ธนสฺส
+<span class="LineNumber"> 014 </span>อาหรณสมตฺถํ ฯ  ททฺทลฺหมานนฺติ  ชชฺชลมานํ ฯ  ยสสาติ 
+<span class="LineNumber"> 015 </span>มหาปริวารมณิคเณน(๖) ฯ  โอภาสตีติ  ตํ  มณิรตนํ  อากาเส 
+<span class="LineNumber"> 016 </span>วิชฺชุริว  โอภาสติ ฯ  ตมคฺคหีติ  ตํ  มณิรตนํ  อคฺคหิ(๗) ฯ 
+<span class="LineNumber"> 017 </span>มโนหรนฺนามาติ  มนสา  จินฺติตํ  อาหริตุํ  สกฺโกตีติ  เอวํ 
+<span class="LineNumber"> 018 </span>ลทฺธนามํ ฯ ตํ(๘) มณิรตนํ กุมฺภิโร นาม ยกฺโข 
+<span class="LineNumber"> 019 </span># ๑. ม. เวปุลฺลปพฺพตํ อภิรุหิ ฯ  ๒. ม. ปพฺพตกูฏอนฺตเร ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. ชาติมนฺตํ ฯ  ๔. ม. มโนหรํ ฯ  ๕. ม. มโนหรํ นาม ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. ปริวารมณิคเณน ฯ  ๗. ม.อคฺคเหสิ ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. เอตฺถนฺตเร ปนสทฺโท อตฺถิ ฯ 

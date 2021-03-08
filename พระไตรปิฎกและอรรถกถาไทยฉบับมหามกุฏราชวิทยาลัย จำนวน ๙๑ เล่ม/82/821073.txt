@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าสังขาร,  ชื่อว่าจิตตสังขาร ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         จิตสังขาร   ชื่อว่าสังขารด้วย   ชื่อว่าจิตสังขารด้วย,   สังขาร
+<span class="LineNumber"> 003 </span>ที่เหลือ  ชื่อว่าสังขาร  แต่ไม่ชื่อว่าจิตตสังขาร.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าจิต,   ชื่อว่าจิตตสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่าสังขาร,   ชื่อว่ากายสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         กายสังขาร   ชื่อว่าสังขารด้วย   ชื่อว่ากายสังขารด้วย,    สังขาร
+<span class="LineNumber"> 008 </span>ที่เหลือ  ชื่อว่าสังขาร  แต่ไม่ชื่อว่ากายสังขาร.
+<span class="LineNumber"> 009 </span>         ธรรมที่ชื่อว่าจิต,   ชื่อว่าจิตตสังขาร   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ไม่ใช่.
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าสังขาร,   ชื่อว่าวจีสังขาร   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         วจีสังขาร     ชื่อว่าสังขารด้วย     ชื่อว่าวจีสังขารด้วย,  สังขาร
+<span class="LineNumber"> 013 </span>ที่เหลือ  ชื่อว่าสังขาร  แต่ไม่ชื่อว่าวจีสังขาร.
+<span class="LineNumber"> 014 </span>                      <I>ปทโสธนมูลจักกวาระ  อนุโลม  จบ</I>

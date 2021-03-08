@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  มโนชชาตกํ  หน้า 140
+
+<span class="LineNumber"> 002 </span>ปหารมุเชหิ  ปคฺฆริตโลหิตํ  ปาปชนเสวิตาย  ชีวิตกฺขยํ  ปตฺตํ 
+<span class="LineNumber"> 003 </span>อทฺทสํสุ ฯ  ทิสฺวานสฺส  มาตา  ปิตา  ภคินี  ปชาปติ  ปฏิปาฏิยา  
+<span class="LineNumber"> 004 </span>จตสฺโส  คาถา  อภาสึสุ  
+<span class="LineNumber"> 005 </span>	[๙๗๘]น ปาปชนสํเสวี  		อจฺจนฺตํ สุขเมธติ  
+<span class="LineNumber"> 006 </span>		มโนชํ ปสฺส เสมานํ  	คิริยสฺสานุสาสนี(๑) ฯ  
+<span class="LineNumber"> 007 </span>	[๙๗๙]น ปาปสมฺปวงฺเกน  	มาตา ปุตฺเตน นนฺทติ  
+<span class="LineNumber"> 008 </span>		มโนชํ ปสฺส เสมานํ  	อจฺฉนฺตํ(๒) สมฺหิ โลหิเต ฯ  
+<span class="LineNumber"> 009 </span>	[๙๘๐]เอวมาปชฺชเต โปโส  	ปาปิโย จ นิคจฺฉติ  
+<span class="LineNumber"> 010 </span>		โย เว หิตานํ ชนานํ(๓)  	น กโรติ อตฺถทสฺสินํ ฯ  
+<span class="LineNumber"> 011 </span>		[๙๘๑]เอวฺจ โส โหติ ตโตว(๔) ปาปิโย  
+<span class="LineNumber"> 012 </span>			โย อุตฺตโม อธมชนูปเสวี  
+<span class="LineNumber"> 013 </span>			ปสฺสุตฺตมํ อธมชนูปเสวึ(๕)  
+<span class="LineNumber"> 014 </span>			มิคาธิปํ สรวรเวคนีธุตนฺติ(๖) ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  อจฺจนฺตํ  สุขเมธตีติ  น  จิรํ  สุขํ  ลภติ  ฯ  คิริยสฺสา-  
+<span class="LineNumber"> 016 </span>นุสาสนีติ  อยํ  เอวรูปา  คิริยสฺสานุสาสนีติ  ครหนฺโต  อาห  ฯ  
+<span class="LineNumber"> 017 </span>ปาปสมฺปวงฺเกนาติ  ปาปสหาเยน  ฯ  อจฺฉนฺตนฺติ  นิมุคฺคํ  ฯ  ปาปิโย  
+<span class="LineNumber"> 018 </span>จ  นิคจฺฉตีติ  ปาปกฺจ  วินฺทติ  ฯ  หิตานนฺติ  อตฺถกามานํ  ฯ  
+<span class="LineNumber"> 019 </span>อตฺถทสฺสินนฺติ  อนาคตํ  อตฺถํ  ปสฺสนฺตานํ  ฯ  ปาปิโยติ  ปาปตโร  ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. อริยสฺสานุสาสนี ฯ  ๒. ส. ม. อจฺฉนฺนํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ส. หิตาน วจนํ ฯ ม. หิตานํ วจนํ ฯ  ๔. ม. ตโต จ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. อธมชนูปเสวิตํ ฯ ๖. ส. ม. ...เวคนิทฺธุตํ ฯ

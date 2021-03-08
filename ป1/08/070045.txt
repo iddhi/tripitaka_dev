@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	มน  ศัพท์ที่เป็น  นปุํสกลิงค์  แจกอย่างนี้ :- 
+<span class="LineNumber"> 002 </span> 	เอก. ป.   <B>มนํ</B>  
+<span class="LineNumber"> 003 </span>                ทุ.    <B>มนํ</B>        เหมือน อ การันต์ในนปุํสกลิงค์
+
+<span class="LineNumber"> 004 </span>                 ต.    <B>มนสา</B>
+<span class="LineNumber"> 005 </span>                 จ.    <B>มนโส</B>
+<span class="LineNumber"> 006 </span>                 ปญฺ. <B>มนสา</B>       ๕  วิภัตติ  แปลกจาก อ การันต์  ใน
+<span class="LineNumber"> 007 </span>                  ฉ.    <B>มนโส</B>         นปุํสกลิงค์
+<span class="LineNumber"> 008 </span>                   ส.   <SUB>มนสิ</SUB>
+<span class="LineNumber"> 009 </span>	มนศัพท์บางคราวไม่ได้แจกวิภัตติตามแบบมโนคณะก็มี ดังเช่น
+<span class="LineNumber"> 010 </span>ใน อาทิตตปริยายสูตรว่า <B>มนสฺมึปิ  นิพฺพินฺทตฺ</B> นี้แสดงให้เห็นว่า
+<span class="LineNumber"> 011 </span>ลง สฺมึ  วิภัตติที่มนศัพท์เฉย ๆ โดยไม่ต้องลง ส อาคม  และเปลี่ยน
+<span class="LineNumber"> 012 </span>สฺมึ  เป็น อิ  ตามแบบมโนคณะ.
+<span class="LineNumber"> 013 </span>	ส่วนศัพท์อื่น  ในพวกมโนคณะนี้ มี อย  (เหล็ก)  เป็นต้นนั้น
+<span class="LineNumber"> 014 </span>เป็นปุํลิงค์ทั้งสิ้น  และมีวิธีแจกวิภัตติเหมือน  มน  ศัพท์ในปุํลิงค์
+<span class="LineNumber"> 015 </span>	นอกจากจากจะเปลี่ยนแปลงในตติยาวิภัตติ จนถึงสัตตมีวิภัตติดัง
+<span class="LineNumber"> 016 </span>กล่าวแล้ว  บางคราวก็เอา อํ  ทุติยาวิภัตติเป็น  โอ ได้บ่าง เช่นคำว่า
+<span class="LineNumber"> 017 </span>	<B>อทาเน  กุรุเต  มโน</B>  (แปลว่า)  <B>ชโน</B>  อันว่าชน  กุรุเต
+<span class="LineNumber"> 018 </span>ย่อมทำ มโน  ซึ่งใจ  <B>อทาเน</B>  ในความไม่ให้.
+<span class="LineNumber"> 019 </span>	<B><B>ยโส</B>  ลทฺธา  น มชฺเชยฺย</B>  (แปลว่า)  <B>ชโน</B>  อันว่าชน
+<span class="LineNumber"> 020 </span><B>ลทฺธา</B>  ได้แล้ว  <B>ยโส  </B>ซึ่งยศ <B>น มชฺเชยฺย</B>  ไม่พึงเมา.<SUP>๑</SUP>
+<span class="LineNumber"> 021 </span>	โดยอุทาหรณ์ทั้งสองนี้แสดงให้เห็นว่า  ศัพท์มโนคณะ  เมื่อลง
+
+<span class='footnote'>๑.  แปลตามนัยอรรถชาดก  เล่ม  ๔ หน้า ๓๓๖</span>

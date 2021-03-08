@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>๓.   นอธิปติปัจจัย ฯลฯ  ๑๐. นอาเสวนปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>ฯลฯ   เพราะนอธิปติปัจจัย</B>   มี ๕ วาระ.
+<span class="LineNumber"> 003 </span>         <B>เพราะนอนันตรปัจจัย</B>   มี ๓ วาระ ฯลฯ.
+<span class="LineNumber"> 004 </span>         <B>เพราะนอุปนิสสยปัจจัย</B>   มี ๕ วาระ.
+<span class="LineNumber"> 005 </span>         <B>เพราะนปุเรชาตปัจจัย</B>  มี ๕ วาระ.
+<span class="LineNumber"> 006 </span>         <B>เพราะนปัจฉาชาตปัจจัย</B>   มี ๕ วาระ.
+<span class="LineNumber"> 007 </span>         <B>เพราะนอาเสวนปัจจัย</B>   มี ๕ วาระ.
+
+<span class="LineNumber"> 008 </span>                                       <H2>๑๑. นกัมมปัจจัย</H2>
+<span class="LineNumber"> 009 </span>         [๓๐๐] ๑.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม      อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 010 </span>อุปาทาธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ   สัมปยุตตเจตนา  อาศัยขันธ์ทั้งหลายที่ไม่ใช่อุปาทาธรรม.
+<span class="LineNumber"> 012 </span>         พาหิรรูป. . .อาหารสมุฏฐานรูป. . .อุตุสมุฏฐานรูป ฯลฯ    มหาภูต
+<span class="LineNumber"> 013 </span>รูป ๓   อาศัยมหาภูตรูป ๑ ฯลฯ   มหาภูตรูป ๒  อาศัยมหาภูตรูป ๒. 
+<span class="LineNumber"> 014 </span>                    ๒.  <B>อุปาทาธรรม      อาศัยธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 015 </span>เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ   พาหิรรูป... อาหารสมุฏฐานรูป ...อุตุสมุฏฐานรูป... อุปาทารูป
+<span class="LineNumber"> 017 </span>อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 018 </span>                     ๓.  <B>อุปาทาธรรม       และธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 019 </span>อาศัยธรรมที่ไม่ใช่อุปาทาธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>

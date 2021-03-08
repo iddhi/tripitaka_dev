@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>ฆานินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>ฆานินทริยมูละ  อิตถินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๘๒๐]  ฆานินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด,    อิต-
+<span class="LineNumber"> 004 </span>ถินทรีย์ก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม   ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า   อิตถินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด,   ฆา-
+<span class="LineNumber"> 007 </span>นินทรีย์ก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                   <I>จบ   ฆานินทริยมูละ      อิตถินทริยมูลี</I>
+ 
+<span class="LineNumber"> 010 </span><B>ฆานินทริยมูละ  ปุริสินทริยมูลี:-</B>
+<span class="LineNumber"> 011 </span>         [๘๒๑]   ฆานินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใดในภูมิ       ปุริ-
+<span class="LineNumber"> 012 </span>สินทรีย์ก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม   ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า   ปุริสินทรีย์ใช่เคยเกิดแก่บุคคลใดในภูมิใด,    ฆานิน-
+<span class="LineNumber"> 015 </span>ทรีย์ก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม   ?

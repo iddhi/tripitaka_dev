@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>เป็นปัจจัย    <B>ด้วยอำนาจของอาหารปัจจัย</B>,    เป็นปัจจัย   <B>ด้วยอำนาจของ
+<span class="LineNumber"> 002 </span>อินทริยปัจจัย</B>.<SUP>๑</SUP>
+<span class="LineNumber"> 003 </span>                  ๙.  <B>จิตตสมุฏฐานธรรม   และธรรมที่ไม่ใช่จิตตสมุฏ-
+<span class="LineNumber"> 004 </span>ฐานธรรม     เป็นปัจจัยแก่จิตตสมุฏฐานธรรม     และธรรมที่ไม่ใช่
+<span class="LineNumber"> 005 </span>จิตตสมุฏฐานธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>,  เป็นปัจจัย  <B>ด้วย
+<span class="LineNumber"> 006 </span>อำนาจของสหชาตปัจจัย</B>,  เป็นปัจจัย  <B>ด้วยอำนาจของอุปนิสสยปัจจัย</B>,
+<span class="LineNumber"> 007 </span>เป็นปัจจัย   <B>ด้วยอำนาจของปุเรชาตปัจจัย</B>,  เป็นปัจจัย    <B>ด้วยอำนาจของ
+<span class="LineNumber"> 008 </span>ปัจฉาชาตปัจจัย</B>.
+
+<span class="LineNumber"> 009 </span>                              <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 010 </span>         [๑๘๖]  ในนเหตุปัจจัย   มี ๙ วาระ  ในนอารัมมณปัจจัย มี ๙ วาระ
+<span class="LineNumber"> 011 </span>ในปัจจัยทั้งปวง  มี ๙ วาระ   ฯลฯ   ในโนอวิคตปัจจัย   มี ๙ วาระ.
+
+<span class="LineNumber"> 012 </span>                                       <H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 013 </span>                        <H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 014 </span>         [๑๘๗]   <B>เพราะเหตุปัจจัย</B>    ในนอารัมมณปัจจัย   มี ๓ วาระ ฯลฯ
+<span class="LineNumber"> 015 </span>ในนอธิปติปัจจัย  มี ๓ วาระ  ในนอนันตรปัจจัย  มี ๓ วาระ   ในนสมนันตร- 
+<span class="LineNumber"> 016 </span>ปัจจัย   มี ๓ วาระ   ในนอัญญมัญญปัจจัย   มี ๒ วาระ   ในนอุปนิสสยปัจจัย
+<span class="LineNumber"> 017 </span>มี ๓ วาระ ฯลฯ ในนมัคคปัจจัย  มี ๓ วาระ   ในนสัมปยุตตปัจจัย   มี ๒ วาระ
+<span class="LineNumber"> 018 </span>ในนวิปปยุตตปัจจัย  มี ๓ วาระ  ในโนนัตถิปัจจัย  มี ๓ วาระ  ในโนวิคตปัจจัย
+<span class="LineNumber"> 019 </span>มี ๓ วาระ.
+
+<span class='footnote'>๑.  ม. ไม่มี</span>

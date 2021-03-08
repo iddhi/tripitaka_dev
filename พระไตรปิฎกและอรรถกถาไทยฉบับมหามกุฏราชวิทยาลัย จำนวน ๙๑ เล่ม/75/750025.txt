@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ยมกปกรณ์</H1>
+
+<span class="LineNumber"> 002 </span>         ในลำดับต่อจากกถาวัตถุปกรณ์นั้น   ชื่อว่า  <B>ยมกปกรณ์</B>  ทรงจำแนก
+<span class="LineNumber"> 003 </span>ไว้   ๑๐  อย่าง  คือ 
+<span class="LineNumber"> 004 </span>                       ๑.   มูลยมก
+<span class="LineNumber"> 005 </span>                       ๒.   ขันธยมก
+<span class="LineNumber"> 006 </span>                       ๓.   อายตนยมก
+<span class="LineNumber"> 007 </span>                       ๔.   ธาตุยมก
+<span class="LineNumber"> 008 </span>                       ๕.   สัจจยมก
+<span class="LineNumber"> 009 </span>                       ๖.   สังขารยมก
+<span class="LineNumber"> 010 </span>                       ๗.   อนุสสยยมก
+<span class="LineNumber"> 011 </span>                       ๘.   จิตตยมก
+<span class="LineNumber"> 012 </span>                       ๙.   ธรรมยมก
+<span class="LineNumber"> 013 </span>                      ๑๐. อินทริยยมก
+<span class="LineNumber"> 014 </span>         ยมกปกรณ์นั้น      ว่าโดยทางแห่งถ้อยคำ     มีประมาณ  ๑๒๐  ภาณวาร
+<span class="LineNumber"> 015 </span>เมื่อว่าโดยพิสดาร   ย่อมไม่มีที่สุด  ไม่มีประมาณ.
+
+<span class="LineNumber"> 016 </span>                                  <H1>มหาปกรณ์</H1>
+
+<span class="LineNumber"> 017 </span>         ในลำดับแห่งยมกปกรณ์นั้น  ชื่อว่า <B>มหาปกรณ์</B>   แม้คำว่า   <B>ปัฏฐาน</B>
+<span class="LineNumber"> 018 </span>ดังนี้   ก็เป็นชื่อของ<B>มหาปกรณ์</B>นั้นนั่นแหละ   มหาปกรณ์นั้น     เบื้องต้นทรง
+<span class="LineNumber"> 019 </span>จำแนกไว้  ๒๔  อย่าง   ด้วยอำนาจแห่งปัจจัย   คือ
+<span class="LineNumber"> 020 </span>                      ๑.  เหตุปัจจัย               (เหตุเป็นปัจจัย)
+<span class="LineNumber"> 021 </span>                      ๒.  อารัมมณปัจจัย     (อารมณ์เป็นปัจจัย)
+<span class="LineNumber"> 022 </span>                      ๓.  อธิปติปัจจัย          (อธิบดีเป็นปัจจัย)

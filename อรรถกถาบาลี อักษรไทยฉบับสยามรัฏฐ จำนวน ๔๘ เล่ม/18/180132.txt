@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  18  ชราวคฺควณฺณนา  หน้า  132
+
+<span class="LineNumber"> 002 </span>วฑฺฒติ ฯ  อรฺเ  ปน  คจฺฉลตาทีนิ  วิย(๑) ฉทฺวารานิ  นิสฺสาย
+<span class="LineNumber"> 003 </span>ตณฺหา  เจว  นววิธมาโน  จ  วฑฺฒตีติ  อตฺโถ ฯ
+<span class="LineNumber"> 004 </span>	เทสนาวสาเน  มหาชโน  โสตาปตฺติผลาทีนิ  ปาปุณีติ ฯ
+<span class="LineNumber"> 005 </span>				โลฬุทายิตฺเถรวตฺถุ ฯ
+<span class="LineNumber"> 006 </span>				___________
+
+<span class="LineNumber"> 007 </span>					ป€มโพธิวตฺถุ (๒)
+<span class="LineNumber"> 008 </span>	อเนกชาติสํสารนฺติ  อิมํ  ธมฺมเทสนํ  สตฺถา  โพธิรุกฺขมูเล
+<span class="LineNumber"> 009 </span>นิสินฺโน  อุทานวเสน  อุทาเนตฺวา  อปรภาเค  อานนฺทตฺเถเรน 
+<span class="LineNumber"> 010 </span>ปุฏฺโ€  (๓)  กเถสิ ฯ
+<span class="LineNumber"> 011 </span>	โส  หิ  โพธิรุกฺขมูเล  นิสินฺโน  สุริเย  อนตฺถงฺคเตเยว 
+<span class="LineNumber"> 012 </span>มารพลํ  วิธมิตฺวา  ป€มยาเม  ปุพฺเพนิวาสปฏิจฺฉาทกํ  ตมํ 
+<span class="LineNumber"> 013 </span>ปทาเลตฺวา  มชฺฌิมยาเม  ทิพฺพจกฺขุํ  วิโสเธตฺวา  ปจฺฉิมยาเม
+<span class="LineNumber"> 014 </span>สตฺเตสุ  การุฺตํ  ปฏิจฺจ  ปจฺจยากาเร  าณํ  โอตาเรตฺวา 
+<span class="LineNumber"> 015 </span>ตํ  อนุโลมปฏิโลมวเสน  สมฺมสนฺโต  อรุณุคฺคมนเวลาย  สห
+<span class="LineNumber"> 016 </span>อจฺฉริเยหิ(๔)  สมฺมาสมฺโพธึ  อภิสมฺพุชฺฌิตฺวา  อเนเกหิ  พุทฺธสต-
+<span class="LineNumber"> 017 </span>สหสฺเสหิ  อวิชหิตํ  อุทานํ  อุทาเนนฺโต  อิมา  คาถา  อภาสิ
+<span class="LineNumber"> 018 </span>	อเนกชาติสํสารํ  		สนฺธาวิสฺสํ  อนิพฺพิสํ
+<span class="LineNumber"> 019 </span>	คหการํ  คเวสนฺโต  	ทุกฺขา  ชาติ  ปุนปฺปุนํ
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. วิยสฺส ฯ
+<span class="LineNumber"> 021 </span># ๒. ม. อุทานวตฺถุ  ฯ
+<span class="LineNumber"> 022 </span>#๓. สี. ยุ.  อานนฺทตฺเถรสฺส  อุทานคาถาวตฺถุ ฯ  
+<span class="LineNumber"> 023 </span>#๔. สี. ยุ.  สห  อจฺฉริเยหีติ  นตฺถิ ฯ

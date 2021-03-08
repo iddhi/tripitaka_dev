@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                               มหาสติปัฏฐานสูตร แปล  
+<span class="LineNumber"> 002 </span>	ในทีฆนิกาย  มหาวรรค  หน้า  ๓๒๕  ถึงหน้า  ๓๕๑
+<span class="LineNumber"> 003 </span>และในมัชฌิมนิกาย  มูลปัณณาสก์  เล่ม  ๑๒  หน้า  ๑๐๓  ถึงหน้า  ๑๒๗
+<span class="LineNumber"> 004 </span>                                        ในสุตตันตปิฎก
+	
+<span class="LineNumber"> 005 </span>	<B>เอวมฺเม  สุตํ</B>  		      	    ข้าพเจ้าได้ฟังมาแล้วอย่างนี้ :
+<span class="LineNumber"> 006 </span><B>เอกํ  สมยํ  ภควา</B>			   	  สมัยหนึ่งพระผู้มีพระภาค
+<span class="LineNumber"> 007 </span><B>กุรูสุ  วิหรติ</B>				 	    เสด็จประทับอยู่ในแว่นเคว้นกุรุ
+<span class="LineNumber"> 008 </span><B>กมฺมาสธมฺมํ  นาม  กุรูนํ  นิคโม</B>               นิคมหนึ่งของแว่นแคว้นกุรุ  ชื่อ
+<span class="LineNumber"> 009 </span>					     	           กัมมาสธัมมะ<SUP>๑</SUP>
+<span class="LineNumber"> 010 </span><B>ตตฺร  โข  ภควา  ภิกฺขู  อามนฺเตสิ</B>	     ในกาลนั้นแล  พระผู้มีพระภาค
+<span class="LineNumber"> 011 </span><B>ภิกฺขโวติ</B>					           ตรัสเรียกภิกษุทั้งหลายว่า  ดูก่อน
+<span class="LineNumber"> 012 </span>						                ภิกษุทั้งหลาย
+<span class="LineNumber"> 013 </span><B>ภทนฺเตติ  เต  ภิกฺขู  ภควโต</B>	  	    ภิกษุเหล่านั้นทูลรับว่า   ข้าแต่
+<span class="LineNumber"> 014 </span><B>ปจฺจสฺโสสุํ</B>					        พระองค์ผู้เจริญ
+<span class="LineNumber"> 015 </span><B>ภควา  เอตทาโวจ</B>				      พระผู้มีพระภาคได้ตรัสพระพุทธ-
+<span class="LineNumber"> 016 </span>						ภาษิตนี้ว่า :-
+
+<span class='footnote'>๑.  หมายความตามอรรถกถานัยว่า  ทรงทำนิคมนั้นให้เป็นโคจรคาม.</span>
+

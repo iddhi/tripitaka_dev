@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๑๖.  นมัคคปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>                         ๑.  <B>ฯลฯ  เพราะนมัคคปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           คือ  ฯลฯ  อาศัยขันธ์ ๑  ที่เป็นปริตตธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ
+<span class="LineNumber"> 004 </span>           ในอเหตุกปฏิสนธิขณะ ฯลฯ  มหาภูตรูป ๑ ฯลฯ  พึงกระทำมหาภูตรูป
+<span class="LineNumber"> 005 </span>ทั้งหมด.
+
+<span class="LineNumber"> 006 </span>                                   <H1>๑๗.  นสัมปยุตตปัจจัย</H1>
+<span class="LineNumber"> 007 </span>                         ๑.  <B>ฯลฯ  เพราะนสัมปยุตตปัจจัย  ฯลฯ (มี ๕ วาระ)</B>
+
+<span class="LineNumber"> 008 </span>                                   <H1>๑๘.  นวิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๓๖๘] ๑.  ฯลฯ  เพราะนวิปปยุตตปัจจัย  ฯลฯ
+<span class="LineNumber"> 010 </span>           คือ  ในอรูปภูมิ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นปริตตธรรม  ฯลฯ  ขันธ์
+<span class="LineNumber"> 011 </span>๒ ฯลฯ
+<span class="LineNumber"> 012 </span>           พาหิรรูป...อาหารสมุฏฐานรูป...อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 013 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ
+<span class="LineNumber"> 014 </span>                         ๒.  <B>มหัคคตธรรม  อาศัยมหัคคตธรรม  เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะนวิปยุตตปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  ในอรูปภูมิ ฯลฯ  ขันธ์ ๑  ที่เป็นมหัคคตธรรม ฯลฯ.
+<span class="LineNumber"> 017 </span>           [๑๓๖๙] ๓.  <B>อัปปมาณธรรม  อาศัยอัปปมาณธรรม  เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะวิปปยุตตปัจจัย</B>
+                             

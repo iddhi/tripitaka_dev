@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  78
+
+<span class="LineNumber"> 002 </span>โสปิ  นํ  ภควา  อิโต  เอกตฺตึสกปฺเป  พุทฺโธ  ภวิสฺสสีติ
+<span class="LineNumber"> 003 </span>พฺยากาสิ ฯ  ตสฺส  ปน  ภควโต  อโนมนฺนาม  นครํ  อโหสิ  
+<span class="LineNumber"> 004 </span>สุปฺปตีโต  นาม  ราชา  ปิตา  ยสวตี  นาม  มาตา  โสโณ 
+<span class="LineNumber"> 005 </span>จ  อุตฺตโร  จ  เทฺว  อคฺคสาวกา  อุปสนฺโต  นามุปฏฺ€าโก  
+<span class="LineNumber"> 006 </span>ทามา  จ  สุมาลา(๑)  จ  เทฺว  อคฺคสาวิกา  สาลรุกฺโข  โพธิ  สรีรํ  
+<span class="LineNumber"> 007 </span>สฏฺ€ิหตฺถุพฺเพธํ อโหสิ สฏฺ€ิ วสฺสสหสฺสานิ อายูติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺเถว มณฺฑกปฺปมฺหิ	อสโม อปฺปฏิปุคฺคโล  
+<span class="LineNumber"> 009 </span>	เวสฺสภู นาม นาเมน		โลเก อุปฺปชฺชิ โส ชิโนติ ฯ  
+<span class="LineNumber"> 010 </span>	ตสฺส  อปรภาเค  อิมสฺมึ  กปฺเป  จตฺตาโร  พุทฺธา 
+<span class="LineNumber"> 011 </span>นิพฺพตฺตึสุ  กกุสนฺโธ  โกนาคมโน  กสฺสโป  อมฺหากํ  ภควาติ ฯ
+<span class="LineNumber"> 012 </span>กกุสนฺธสฺส  ภควโต  เอโกว  สาวกสนฺนิปาโต  ตตฺถ  จตฺตาฬีส-
+<span class="LineNumber"> 013 </span>ภิกฺขุสหสฺสานิ  อเหสุํ ฯ  ตทา  โพธิสตฺโต  เขโม  นาม  ราชา  
+<span class="LineNumber"> 014 </span>หุตฺวา  พุทฺธปฺปมุขสฺส  ภิกฺขุสํฆสฺส  สปตฺตจีวรํ  มหาทานฺเจว 
+<span class="LineNumber"> 015 </span>อฺชนาทีนิ  เภสชฺชานิ  จ  ทตฺวา  สตฺถุ  ธมฺมเทสนํ  สุตฺวา 
+<span class="LineNumber"> 016 </span>ปพฺพชิ ฯ  โสปิ  นํ  สตฺถา  พฺยากาสิ ฯ  กกุสนฺธสฺส  ปน
+<span class="LineNumber"> 017 </span>ภควโต  เขมํ  นาม  นครํ  อโหสิ  อคฺคิทตฺโต  นาม  พฺราหฺมโณ
+<span class="LineNumber"> 018 </span>ปิตา  วิสาขา  นาม  พฺราหฺมณี  มาตา  วิธุโร  จ  สฺชีโว 
+<span class="LineNumber"> 019 </span>จ  อคฺคสาวกา  พุทฺธิโช  นามุปฏฺ€าโก  สาขา จ  
+<span class="LineNumber"> 020 </span>สารมฺภา(๒) จ   อคฺคสาวิกา  มหาสิรีสรุกฺโข  โพธิ  สรีรํ  
+<span class="LineNumber"> 021 </span># ๑. ม. ทามา จ สมาลา จ ฯ  ๒. ม. สามา จ จมฺปกา จ ฯ

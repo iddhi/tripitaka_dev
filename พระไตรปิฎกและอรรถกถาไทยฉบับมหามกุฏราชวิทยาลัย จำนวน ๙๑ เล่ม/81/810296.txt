@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                              <H1>ญาณกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๔๔๙]   <B>สกวาที</B>  ถึงความไม่รู้จะปราศไปแล้ว  เมื่อจิตที่เป็นญาณ
+<span class="LineNumber"> 003 </span>วิปปยุตเป็นไปอยู่  ไม่พึงกล่าวว่า  ผู้มีความรู้  หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. เมื่อราคะปราศไปแล้ว  ไม่พึงกล่าวว่า  ผู้ปราศจาก
+<span class="LineNumber"> 006 </span>ราคะ  หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 008 </span>                        ส.  ถึงความไม่รู้จะปราศไปแล้ว  เมื่อจิตที่เป็นญาณ
+<span class="LineNumber"> 009 </span>วิปปยุตเป็นไปอยู่    ไม่พึงกล่าวว่า  ผู้มีความรู้  หรือ ?
+<span class="LineNumber"> 010 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 011 </span>                        ส. เมื่อโทสะปราศไปแล้ว    ฯลฯ  เมื่อโมหะปราศไปแล้ว
+<span class="LineNumber"> 012 </span>ฯลฯ  เมื่อกิเลสปราศไปแล้ว  ไม่พึงกล่าวว่า  ผู้หมดกิเลส  หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 014 </span>         [๑๔๕๐]   ส. เมื่อราคะปราศไปแล้ว  พึงกล่าวว่า  ผู้ปราศจากราคะ
+<span class="LineNumber"> 015 </span>หรือ ?
+<span class="LineNumber"> 016 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                        ส. เมื่อความไม่รู้ปราศไปแล้ว  พึงจิตที่เป็นญาณวิปปยุต
+<span class="LineNumber"> 018 </span>จะเป็นไปอยู่  ก็พึงกล่าวว่า  ผู้มีความรู้  หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 020 </span>                        ส. เมื่อโทสะปราศไปแล้ว  ฯลฯ  เมื่อโมหะปราศไปแล้ว
+<span class="LineNumber"> 021 </span>ฯลฯ  เมื่อกิเลสปราศไปแล้ว  พึงกล่าวว่า  ผู้หมดกิเลส   หรือ ?
+<span class="LineNumber"> 022 </span>                        ป. ถูกแล้ว.  

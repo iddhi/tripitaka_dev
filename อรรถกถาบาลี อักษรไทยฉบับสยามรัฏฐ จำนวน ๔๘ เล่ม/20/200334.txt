@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ติกนิปาตวณฺณนา  หน้า  334
+
+<span class="LineNumber"> 002 </span>กาเยน  สุจีติ  กายสุจิ ฯ โสเจยฺยสมฺปนฺนนฺติ  ปฏิปฺปสฺสทฺธกิเลสตฺตา
+<span class="LineNumber"> 003 </span>สุปริสุทฺธาย  โสเจยฺยสมฺปตฺติยา  อุเปตํ ฯ เสสํ วุตฺตนยเมว ฯ
+<span class="LineNumber"> 004 </span>		สตฺตมสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+		
+<span class="LineNumber"> 005 </span>		โมเนยฺยสุตฺตวณฺณนา
+<span class="LineNumber"> 006 </span>	อฏฺ€เม  โมเนยฺยานีติ  เอตฺถ  อิธโลกปรโลกํ  อตฺตหิต-
+<span class="LineNumber"> 007 </span>ปรหิตฺจ มุนาตีติ  มุนิ  กลยาณปุถุชฺชเนน  สทฺธึ  สตฺต 
+<span class="LineNumber"> 008 </span>เสกฺขา  อรหา  จ ฯ  อิธ  ปน อรหาว อธิปฺเปโต ฯ 
+<span class="LineNumber"> 009 </span>มุนิโน ภาวาติ โมเนยฺยานิ ฯ อรหโต กายวจีมโนสมาจารา ฯ
+<span class="LineNumber"> 010 </span>อถ  วา  มุนิภาวกรา  โมเนยฺยปฏิปทาธมฺมา  โมเนยฺยานิ ฯ 
+<span class="LineNumber"> 011 </span>	เตสมยํ วิตฺถาโร ตตฺถ กตมํ กายโมเนยฺยํ ติวิธกาย-
+<span class="LineNumber"> 012 </span>ทุจฺจริตสฺส ปหานํ กายโมเนยฺยํ ติวิธํ กายสุจริตํ กายโมเนยฺยํ 
+<span class="LineNumber"> 013 </span>กายารมฺมเณ าณํ กายโมเนยฺยํ กายปริฺา กายโมเนยฺยํ 
+<span class="LineNumber"> 014 </span>ปริฺาสหคโต(๑) มคฺโค กายโมเนยฺยํ กายสฺมึ ฉนฺทราคปฺ-
+<span class="LineNumber"> 015 </span>ปหานํ กายโมเนยฺยํ กายสงฺขารนิโรธา จตุตฺถชฺฌานสมาปตฺติ 
+<span class="LineNumber"> 016 </span>กายโมเนยฺยํ ฯ
+<span class="LineNumber"> 017 </span>	ตตฺถ กตมํ วจีโมเนยฺยํ จตุพฺพิธวจีทุจฺจริตสฺส ปหานํ
+<span class="LineNumber"> 018 </span>วจีโมเนยฺยํ จตุพฺพิธํ วจีสุจริตํ วาจารมฺมเณ าณํ วาจา-
+<span class="LineNumber"> 019 </span>ปริฺา ปริฺาสหคโต มคฺโค วาจสฺมึ(๒) ฉนฺทราคปฺ-
+<span class="LineNumber"> 020 </span># ๑. ม. ปริฺาสหคโต ฯ  ๒. ม. วาจาย ฯ

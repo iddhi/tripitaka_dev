@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>ปภูติ		จำเดิม			สทฺธึ		พร้อม,  กับ 
+<span class="LineNumber"> 002 </span>ปุน		อีก				สณิกํ	ค่อย ๆ
+<span class="LineNumber"> 003 </span>ปุนปฺปุนํ	บ่อย ๆ			สยํ		เอง
+<span class="LineNumber"> 004 </span>ภิยฺโย	ยิ่ง				สห		กับ  
+<span class="LineNumber"> 005 </span>ภิยฺโยโส	โดยยิ่ง			สามํ		เอง
+<span class="LineNumber"> 006 </span>	[๙๓]  ปัจจัยนั้น  ลงท้ายนามศัพท์  เป็นเครื่องหมายวิภัตติบ้าง
+<span class="LineNumber"> 007 </span>ลงท้ายธาตุ  เป็นเครื่องหมายกิริยาบ้าง  อย่างนี้ :-
+<span class="LineNumber"> 008 </span>	โต  ปัจจัย  เป็นเครื่องหมายตติยาวิภัตติ  แปลว่า  "ข้าง"
+<span class="LineNumber"> 009 </span>เป็นเครื่องหมายปัญจมีวิภัตติ   แปลว่า  "แต่"  เป็นต้น  ดังนี้ :-
+<span class="LineNumber"> 010 </span>สพฺพโต		แต่-ทั้งปวง		ปุรโต	ข้างหน้า
+<span class="LineNumber"> 011 </span>อญฺโต		แต่-อื่น			ปจฺฉโต	ข้างหลัง
+<span class="LineNumber"> 012 </span>อญฺตรโต	แต่-อันใดอันหนึ่ง	ทกฺขิณโต	ข้างขวา
+<span class="LineNumber"> 013 </span>อิตรโต		แต่-นอกนี้		วามโต	ข้างซ้าย
+<span class="LineNumber"> 014 </span>เอกโต		ข้างเดียว			อุตฺตรโต	ข้างเหนือ
+<span class="LineNumber"> 015 </span>อุภโต		สองข้าง			อธรโต	ข้างล่าง
+<span class="LineNumber"> 016 </span>ปรโต		ข้างอื่น			ยโต		แต่-ใด
+<span class="LineNumber"> 017 </span>ตโต			แต่-นั้น			อมุโต	แต่-โน้น
+<span class="LineNumber"> 018 </span>เอโต  อโต	แต่-นั่น			กตรโต	แต่-อะไร
+<span class="LineNumber"> 019 </span>อิโต			แต่-นี้			กุโต		แต่-ไหน
+<span class="LineNumber"> 020 </span>อปรโต		ข้างอื่นอีก			
+

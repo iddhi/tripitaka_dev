@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         ที่เป็น  <B>อารัมมณปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 002 </span>         พิจารณาเห็นจักษุ  ฯลฯ      เพราะปรารภหทยวัตถุ     ขันธ์ทั้งหลายที่
+<span class="LineNumber"> 003 </span>สหรคตด้วยวิจิกิจฉา   และโมหะ   ย่อมเกิดขึ้น.
+<span class="LineNumber"> 004 </span>         ที่เป็น  <B>วัตถุปุเรชาตะ</B>  ฯลฯ
+
+<span class="LineNumber"> 005 </span>                                  <H2>๑๑.  ปัจฉาชาตปัจจัย</H2>
+<span class="LineNumber"> 006 </span>         [๖๒๗] ๑.  <B>ทัสสเนนปหาตัพพเหตุกธรรม เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 007 </span>ที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม     ด้วยอำนาจของปัจฉาชาต-
+<span class="LineNumber"> 008 </span>ปัจจัย   ฯลฯ</B>
+<span class="LineNumber"> 009 </span>                     ๒.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม  เป็น
+<span class="LineNumber"> 010 </span>ปัจจัยแก่ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพเหตุกธรรม ด้วยอำนาจของ
+<span class="LineNumber"> 011 </span>ปัจฉาชาตปัจจัย   ฯลฯ</B> 
+<span class="LineNumber"> 012 </span>                     ๓.  <B>ทัสสเนนปหาตัพพเหตุกธรรม  และธรรมที่ไม่ใช่
+<span class="LineNumber"> 013 </span>ทัสสเนนปหาตัพพเหตุกธรรม   เป็นปัจจัยแก่ธรรมที่ไม่ใช่ทัสสเนน-
+<span class="LineNumber"> 014 </span>ปหาตัพพเหตุกธรรม  ด้วยอำนาจของปัจฉาชาตปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 015 </span>                                   <H2>๑๒.  อาเสวนปัจจัย</H2>
+<span class="LineNumber"> 016 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของอาเสวนปัจจัย</B>
+<span class="LineNumber"> 017 </span>                                     <H2>๑๓.  กัมมปัจจัย</H2>
+<span class="LineNumber"> 018 </span>         [๖๒๘] ๑.  <B>ทัสสเนนปหาตัพพเหตุกธรรม เป็นปัจจัยแก่ทัสส- 
+<span class="LineNumber"> 019 </span>เนนปหาตัพพเหตุกธรรม  ด้วยอำนาจของกัมมปัจจัย</B>

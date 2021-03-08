@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๔๒๑
+
+<span class="LineNumber"> 002 </span>				อนิจฺจสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ตติเย  สมฺมปฺปฺาย  ทฏฺ€พฺพนฺติ  สห  วิปสฺสนาย  
+<span class="LineNumber"> 004 </span>มคฺคปฺาย  ทฏฺ€พฺพํ ฯ วิรชฺชติ วิมุจฺจตีติ มคฺคกฺขเณ วิรชฺชติ 
+<span class="LineNumber"> 005 </span>ผลกฺขเณ วิมุจฺจติ ฯ อนุปาทาย อาสเวหีติ  อนุปฺปาทนิโรเธน  
+<span class="LineNumber"> 006 </span>นิรุทฺเธหิ  อาสเวหิ  อคฺคเหตฺวา  อิติ  วิมุจฺจติ ฯ รูปธาตุยาติอาทิ 
+<span class="LineNumber"> 007 </span>ปจฺจเวกฺขณทสฺสนตฺถํ  วุตฺตํ ฯ  สห  ผเลน ปจฺจเวกฺขณทสฺส-
+<span class="LineNumber"> 008 </span>นตฺถนฺติ วทนฺติเยว ฯ  €ิตนฺติ  อุปริ  กตฺตพฺพกิจฺจภาเวน 
+<span class="LineNumber"> 009 </span>€ิตํ ฯ  €ิตตฺตา  สนฺตุสิตนฺติ ปตฺตพฺพํ  ปตฺตภาเวน สนฺตุฏฺ€ํ(๑) ฯ
+<span class="LineNumber"> 010 </span>ปจฺจตฺตํเยว  ปรินิพฺพายตีติ  สยเมว ปรินิพฺพายติ ฯ
+<span class="LineNumber"> 011 </span>				ตติยํ ฯ                 
+
+<span class="LineNumber"> 012 </span>			ทุติยอนิจฺจสุตฺตวณฺณนา          
+<span class="LineNumber"> 013 </span>	จตุตฺเถ  ปุพฺพนฺตานุทิฏฺ€ิโยติ  ปุพฺพนฺตํ  อนุคตา  อฏฺ€ารส  
+<span class="LineNumber"> 014 </span>ทิฏฺ€ิโย น  โหนฺติ ฯ  อปรนฺตานุทิฏฺ€ิโยติ  อปรนฺตํ  อนุคตา 
+<span class="LineNumber"> 015 </span>จตุจตฺตาฬีส  ทิฏฺ€ิโย  น โหนฺติ ฯ  ถามโส  (๒)  ปรามาโสติ  
+<span class="LineNumber"> 016 </span>ทิฏฺ€ิถามโส  เจว ทิฏฺ€ิปรามาโส จ น โหติ ฯ (๓)  เอตฺตาวตา 
+<span class="LineNumber"> 017 </span>ป€มมคฺโค  ทสฺสิโต ฯ  อิทานิ  สห  วิปสฺสนาย  ตโย  มคฺเค
+<span class="LineNumber"> 018 </span>จ ผลานิ จ  ทสฺเสตุํ  รูปสฺมินฺติอาทิ  อารทฺธํ ฯ  อถ  วา
+<span class="LineNumber"> 019 </span>ทิฏฺ€ิโย  นาม  วิปสฺสนาย  เอว ปหีนา อิทํ ปน อุปริ สห 
+<span class="LineNumber"> 020 </span># ๑. กตฺถจิ สนฺตุฏฺ€ภาเวนาติ ทิสฺสติ ฯ  ๒. สี. ถามสา ฯ
+<span class="LineNumber"> 021 </span># ๓. สี. ทิฏฺ€ิยา ถามภาเว ทิฏฺ€ิปรามาโส จ โหติ ฯ

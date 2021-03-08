@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  ๔  หน้า  ๕๒๖  
+
+<span class="LineNumber"> 002 </span>				สุภสุตฺตวณฺณนา  
+
+<span class="LineNumber"> 003 </span>				สุภมาณววตฺถุวณฺณนา  
+<span class="LineNumber"> 004 </span>	เอวมฺเม  สุตํ  ฯเปฯ  สาวตฺถิยนฺติ  สุภสุตฺตํ  ฯ  ตตฺรายํ  
+<span class="LineNumber"> 005 </span>อนุตฺตานปทวณฺณนา ฯ  อจิรปรินิพฺพุเต  ภควตีติ  อจิรํ  ปรินิพฺพุเต  
+<span class="LineNumber"> 006 </span>ภควติ  ปรินิพฺพานโต  อุทฺธํ  มาสมตฺเต  กาเล  ฯ  นิทานวณฺณนายํ  
+<span class="LineNumber"> 007 </span>วุตฺตนเยเนว  ภควโต  ปตฺตจีวรํ  อาทาย  อาคนฺตฺวา  ขีรวิเรจนํ  
+<span class="LineNumber"> 008 </span>ปิวิตฺวา  วิหาเร  นิสินฺนทิวสํ  สนฺธาเยตํ  วุตฺตํ  ฯ  โตเทยฺยปุตฺโตติ  
+<span class="LineNumber"> 009 </span>โตเทยฺยพฺราหฺมณสฺส  ปุตฺโต  ฯ  โส  กิร  สาวตฺถิยา  อวิทูเร  
+<span class="LineNumber"> 010 </span>ตุทิคาโม  นาม  อตฺถิ  ฯ  ตสฺส  อธิปติตฺตา  โตเทยฺโยติ  สงฺขฺยํ  
+<span class="LineNumber"> 011 </span>คโต  ฯ  มหทฺธโน  ปน  โหติ  ปฺจจตฺตาลีสโกฏิวิภโว  ปรมมจฺฉรี  
+<span class="LineNumber"> 012 </span>ททโต  โภคานํ  อปริกฺขโย  นาม  นตฺถีติ  จินฺเตตฺวา  กสฺสจิ  
+<span class="LineNumber"> 013 </span>กิฺจ  น  เทติ    ปุตฺตํปิ  อาห  
+<span class="LineNumber"> 014 </span>		อฺชนานํ  ขยํ  ทิสฺวา    วมฺมิกานฺจ  สฺจยํ    
+<span class="LineNumber"> 015 </span>		มธูนฺจ  สมาหารํ  	ปณฺฑิโต  ฆรมาวเสติ  ฯ  
+<span class="LineNumber"> 016 </span>	เอวํ  อทานเมว  สิกฺขาเปตฺวา  กายสฺส  เภทา  ตสฺมึเยว  
+<span class="LineNumber"> 017 </span>ฆเร  สุนโข  หุตฺวา  นิพฺพตฺติ  ฯ  สุโภ  ตํ  สุนขํ  อติวิย  
+<span class="LineNumber"> 018 </span>ปิยายติ  อตฺตโน  ภุฺชนกภตฺตํเยว  โภเชติ  อุกฺขิปิตฺวา  วรสยเน  
+<span class="LineNumber"> 019 </span>สยาเปติ  ฯ  อถ  ภควา  เอกทิวสํ  นิกฺขนฺเต  มาณเว  ตํ  ฆรํ  
+<span class="LineNumber"> 020 </span>ปิณฺฑาย  ปาวิสิ  ฯ  สุนโข  ภควนฺตํ  ทิสฺวา  ภุกฺการํ  กโรนฺโต  

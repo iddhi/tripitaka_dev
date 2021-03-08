@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                <H1>นกุสลติกนสอุตตรทุกกุสลติกสอุตตรทุกะ</H1>    
+<span class="LineNumber"> 002 </span>                <H2>(๑. กุสลติกะ  ๙๙. สอุตตรทุกะ)</H2>	
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                      <H2>สอุตตรบท</H2>
+<span class="LineNumber"> 007 </span>           [๖๔๓] ๑.  <B>สอุตตรธรรม     ที่เป็นอัพยากตะ      อาศัยธรรม
+<span class="LineNumber"> 008 </span>ที่ไม่ใช่สอุตตรธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                       ๒.  <B>สอุตตรธรรม     ที่เป็นอัพยากตะ     อาศัยธรรม
+<span class="LineNumber"> 010 </span>ที่ไม่ใช่สอุตตรธรรม   ที่ไม่ใช่อกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                       ๓.  <B>สอุตตรธรรม  ที่เป็นอัพยากตะ  อาศัยธรรม
+<span class="LineNumber"> 012 </span>ที่ไม่ใช่สอุตตรธรรม  ที่ไม่ใช่อัพยากตะ  เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>                       ๔.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่สอุตตรธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 014 </span>อกุศล  และธรรมที่ไม่ใช่สอุตตรธรรม   ที่ไม่ใช่อัพยากตะ  เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 016 </span>                       ๕.  <B>ฯลฯ    อาศัยธรรมที่ไม่ใช่สอุตตรธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 017 </span>กุศล     และธรรมที่ไม่ใช่สอุตตรธรรม     ที่ไม่ใช่อกุศล     เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 019 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 020 </span>           [๖๔๔]  ในเหตุปัจจัย  มี ๕ วาระ   ฯลฯ

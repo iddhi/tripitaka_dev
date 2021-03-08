@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>ปกิณณกนิบาตชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                             <H1>๑.  สาลิเกทารชาดก</H1>
+<span class="LineNumber"> 003 </span>                       <H2>ว่าด้วยนกแขกเต้าเลี้ยงพ่อแม่</H2>
+<span class="LineNumber"> 004 </span>                        [๑๘๗๒]     <B>ข้าแต่ท่านโกสิยะ  นาข้าวสาลีบริบูรณ์
+<span class="LineNumber"> 005 </span>              ดี   แต่นกแขกเต้าทั้งหลายพากันมากินเสีย   ข้าพเจ้า
+<span class="LineNumber"> 006 </span>              ขอคืนนานั้นให้แก่ท่าน    เพราะข้าพเจ้าไม่อาจจะห้าม
+<span class="LineNumber"> 007 </span>              นกแขกเต้าเหล่านั้นได้   ก็ในนกแขกเต้าเหล่านั้น   มีนก
+<span class="LineNumber"> 008 </span>              แขกเต้าตัวหนึ่งงามกว่าทุก ๆ  ตัว  กินข้าวสาลีตามต้อง
+<span class="LineNumber"> 009 </span>              การแล้วยังคาบเอาไปด้วยจะงอยปากอีก.</B>
+<span class="LineNumber"> 010 </span>                        [๑๘๗๓]     <B>เจ้าจงดักบ่วงพอที่จะให้นกนั้นติดได้
+<span class="LineNumber"> 011 </span>              แล้วจงจับนกนั้นทั้งยังเป็นมาให้เราเถิด.</B>
+<span class="LineNumber"> 012 </span>                        [๑๘๗๔]     <B>ฝูงนกเหล่านั้นกินและดื่มแล้ว ย่อมพา
+<span class="LineNumber"> 013 </span>              กันบินไป   เราตัวเดียวติดบ่วง   เราทำบาปอะไรไว้.</B>
+<span class="LineNumber"> 014 </span>                        [๑๘๗๕]     <B>ดูก่อนนกแขกเต้า   ท้องของเจ้าเห็นจะ
+<span class="LineNumber"> 015 </span>              ใหญ่กว่าท้องของนกเหล่าอื่นเป็นแน่    เจ้ากินข้าวสาลี
+<span class="LineNumber"> 016 </span>              ตามต้องการแล้ว       ยังคาบเอาไปด้วยจะงอยปากอีก
+<span class="LineNumber"> 017 </span>              ดูก่อนนกแขกเต้า  เจ้าจะบรรจุฉาง  ในป่าไม้งิ้วนั้นให้
+<span class="LineNumber"> 018 </span>              เต็มหรือ  หรือว่าเจ้ากับเรามีเวรกันมา  สหายเอ๋ย  เรา
+<span class="LineNumber"> 019 </span>              ถามเจ้าแล้ว    ขอเจ้าจงบอกแก่เราเถิด  เจ้าฝังข้าวสาลี
+<span class="LineNumber"> 020 </span>              ไว้ที่ไหน.</B>

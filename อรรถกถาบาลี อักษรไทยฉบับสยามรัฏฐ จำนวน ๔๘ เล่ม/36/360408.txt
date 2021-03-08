@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  408
+
+<span class="LineNumber"> 002 </span>โข  ปน  สุวโปตกํ  เปเสตฺวา  ตตฺตโต  ตฺวา  ปจฺฉา  สยํ
+<span class="LineNumber"> 003 </span>คมิสฺสามีติ จินฺเตตฺวา สุวโปตกํ ปกฺโกสิตฺวา ตตฺถ เปเสสิ ฯ  
+<span class="LineNumber"> 004 </span>	ตมตฺถํ ปกาเสนโต สตฺถา อาห  
+<span class="LineNumber"> 005 </span>	[๖๑๐]	ตโต จ โส อปกฺกมฺม		เวเทหสฺส อุปนฺติกา  
+<span class="LineNumber"> 006 </span>			อถ อามนฺตยี ทูตํ			มาถูรํ (๑) สุวปณฺฑิตํ  
+<span class="LineNumber"> 007 </span>			เอหิ สมฺม หริตปกฺข		เวยฺยาวจฺจํ กโรหิ เม  
+<span class="LineNumber"> 008 </span>			อตฺถิ ปฺจาลราชสฺส		สาลิกา สยนปาลิกา  
+<span class="LineNumber"> 009 </span>			ตํ ปตฺถเรน (๒) ปุจฺฉสฺสุ	สา หิ สพฺพตฺถ (๓) โกวิทา  
+<span class="LineNumber"> 010 </span>			สา เนสํ สพฺพํ ชานาติ		รฺโ จ โกสิยสฺส จ  
+<span class="LineNumber"> 011 </span>			อาโมติ โส ปฏิสุตฺวา		มาถูโร สุวปณฺฑิโต  
+<span class="LineNumber"> 012 </span>			อคมาสิ หริตปกฺโข		สาลิกาย อุปนฺติกํ  
+<span class="LineNumber"> 013 </span>			ตโต จ โส โข คนฺตฺวาน	มาถูโร สุวปณฺฑิโต  
+<span class="LineNumber"> 014 </span>			อถ อามนฺตยี สุฆรํ		สาลิกํ มฺชุภาณิกํ  
+<span class="LineNumber"> 015 </span>			กจฺจิ เต สุฆเร ขมนียํ		กจฺจิ เวเส (๔) อนามยํ  
+<span class="LineNumber"> 016 </span>			กจฺจิ เต มธุนา ลาชา		ลพฺภเต สุฆเร ตว (๕) 
+<span class="LineNumber"> 017 </span>			กุสลฺเจว เม สมฺม		อโถ สมฺม อนามยํ  
+<span class="LineNumber"> 018 </span>			อโถ เม มธุนา ลาชา		ลพฺภเต สุวปณฺฑิต  
+<span class="LineNumber"> 019 </span># ๑. ส. มาธุรํ ฯ  สี. มาฬฺหรํ ฯ  ม. มาธรํ ฯ  ยุ. มา€รํ ฯ  เอวมุปริปิ ฯ
+<span class="LineNumber"> 020 </span># ๒. ส. สนฺถเวน ฯ  ม. พนฺธเนน ฯ  ๓. ส. ม. ยุ. สพฺพสฺส ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. ยุ. เวสฺเส ฯ  ๕. ส. ม. ตุวํ ฯ

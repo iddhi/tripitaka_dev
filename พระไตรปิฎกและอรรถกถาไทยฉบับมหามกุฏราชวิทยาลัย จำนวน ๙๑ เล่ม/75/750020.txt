@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ผู้เรียนมหาปกรณ์ไม่กำหนดถึงจำนวนในมหาปกรณ์     แต่ย่อมรวมจำนวนไว้
+<span class="LineNumber"> 002 </span>มหาปกรณ์นั้น   ว่าโดยทางแห่งถ้อยคำมีประมาณ  ๒  ภาณวาร  แต่เมื่อให้พิสดาร
+<span class="LineNumber"> 003 </span>ก็ไม่มีที่สุด   ไม่มีประมาณ    ธรรมสังคณีปกรณ์ทั้งสิ้นย่อมมีด้วยประการฉะนี้
+<span class="LineNumber"> 004 </span>ธรรมสังคณีปกรณ์นั้น ว่าโดยทางถ้อยคำมีเกิน  ๑๓  ภาณวาร แต่เมื่อให้พิสดาร
+<span class="LineNumber"> 005 </span>ก็ไม่มีที่สุด  ไม่มีประมาณ. 
+<span class="LineNumber"> 006 </span>                       <B>ธรรมสังคณีปกรณ์   คือ  จิตตวิภัตติ
+<span class="LineNumber"> 007 </span>                รูปวิภัตติ   นิกเขปะ  และอรรถโชตนา
+<span class="LineNumber"> 008 </span>                (อธิบายอรรถ)  นี้   มีอรรถลึกซึ้ง   ละเอียด
+<span class="LineNumber"> 009 </span>                แม้ฐานะนี้     พระองค์ก็ทรงแสดงแล้วด้วย
+<span class="LineNumber"> 010 </span>                ประการฉะนี้.</B>
+
+<span class="LineNumber"> 011 </span>                                 <H1>วิภังคปกรณ์</H1>
+
+<span class="LineNumber"> 012 </span>         ในลำดับต่อจากธรรมสังคณีปกรณ์นั้น    ชื่อว่า  <B>วิภังคปกรณ์</B>  วิภังค-
+<span class="LineNumber"> 013 </span>ปกรณ์นั้น    พระผู้มีพระภาคเจ้าทรงจำแนกธรรม  ๑๘  อย่าง  คือ
+<span class="LineNumber"> 014 </span>                            ๑.  ขันธวิภังค์
+<span class="LineNumber"> 015 </span>                            ๒.  อายตนวิภังค์
+<span class="LineNumber"> 016 </span>                            ๓.  ธาตุวิภังค์
+<span class="LineNumber"> 017 </span>                            ๔.  สัจจวิภังค์
+<span class="LineNumber"> 018 </span>                            ๕.  อินทรียวิภังค์
+<span class="LineNumber"> 019 </span>                            ๖.  ปัจจยาการวิภังค์
+<span class="LineNumber"> 020 </span>                           ๗.  สติปัฏฐานวิภังค์
+<span class="LineNumber"> 021 </span>                           ๘.  สัมมัปปธานวิภังค์

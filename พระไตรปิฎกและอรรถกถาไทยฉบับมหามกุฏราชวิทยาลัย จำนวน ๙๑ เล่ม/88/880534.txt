@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 002 </span>                                 <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>           [๔๘๕] ๑.  <B>ธรรมที่เป็นทั้งสัญโญชนธรรม   และสัญโญชน- 
+<span class="LineNumber"> 004 </span>สัมปยุตตธรรม  อาศัยธรรมที่เป็นทั้งสัญโญชนธรรม และสัญโญชน-
+<span class="LineNumber"> 005 </span>สัมปยุตตธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  อวิชชาสัญโญชน์  อาศัยวิจิกิจฉาสัญโญชน์.
+<span class="LineNumber"> 007 </span>           	      ๒.  <B>ธรรมที่เป็นทั้งสัญโญชนธรรม   และสัญโญชน-
+<span class="LineNumber"> 008 </span>สัมปยุตตธรรม  อาศัยธรรมที่เป็นสัญโญชนสัมปยุตตธรรม แต่ไม่ใช่
+<span class="LineNumber"> 009 </span>สัญโญชนธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา  อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 011 </span>วิจิกิจฉา.
+<span class="LineNumber"> 012 </span>         	      ๓.  <B>ธรรมที่เป็นทั้งสัญโญชนธรรม  และสัญโญชน-
+<span class="LineNumber"> 013 </span>สัมปยุตตธรรม  อาศัยธรรมที่เป็นทั้งสัญโญชนธรรม  และสัญโญชน-
+<span class="LineNumber"> 014 </span>สัมปยุตตธรรม  และธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  แต่ไม่ใช่
+<span class="LineNumber"> 015 </span>สัญโญชนธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  อวิชชาสัญโญชน์   อาศัยวิจิกิจฉาสัญโญชน์   และสัมปยุตตขันธ์
+<span class="LineNumber"> 017 </span>ทั้งหลาย. 
+
+<span class="LineNumber"> 018 </span>                        <H2>การนับจํานวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 019 </span>           [๔๘๖]  ในนเหตุปัจจัย   มี ๓ วาระ    ในนอธิปติปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 020 </span>ในนปุเรชาตปัจจัย มี ๙ วาระ   ในนปัจฉาชาตปัจจัย มี ๙ วาระ   ในนอาเสวน-

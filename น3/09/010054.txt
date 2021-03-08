@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span><B>ยา  เตสํ  เตสํ  สตฺตานํ  ตมฺหา</B>	ความจุติ  ความเคลื่อนไป  ความ  
+<span class="LineNumber"> 002 </span><B>ตมฺหา  สตฺตนิกายา  จุติ  จวนตา</B>	แตกทำลาย  ความหายไป  มฤตยู
+<span class="LineNumber"> 003 </span><B>เภโท  อนฺตรธานํ  มจฺจุ มรณํ</B>	ความตาย  ความทำกาละ  ความ
+<span class="LineNumber"> 004 </span><B>กาลกิริยา ขนฺธานํ   เภท  กเฬ-</B>	แตกแห่งขันธ์  ความทิ้งซากศพ
+<span class="LineNumber"> 005 </span><B>วรสิส  นิกฺเขโป  ชีวิตินฺทฺริยสฺส</B>	ไว้  ความขาดไปแห่งชีวิตินทรีย์
+<span class="LineNumber"> 006 </span><B>อุปจฺเฉโท</B>				จากหมู่สัตว์นั้น ๆ  ของเหล่าสัตว์
+<span class="LineNumber"> 007 </span>					นั้น  ๆ  อันใด
+<span class="LineNumber"> 008 </span><B>อิทํ  วุจฺจติ  ภิกฺขเว  มรณํ</B>		ดูก่อนภิกษุทั้งหลาย  อันนี้  [เรา]
+<span class="LineNumber"> 009 </span>					กล่าวว่ามรณะ [ความตาย].
+<span class="LineNumber"> 010 </span>	<B>กตโม จ  ภิกฺขเว โสโก</B>	ดูก่อนภิกษุทั้งหลาย  โสกะ  ความ
+<span class="LineNumber"> 011 </span>					แห้งใจ  เป็นอย่างไรเล่า ?
+<span class="LineNumber"> 012 </span><B>โย โข ภิกฺขเว อญฺตรญฺตเรน</B>	ดูก่อนภิกษุทั้งหลาย  ความโศก
+<span class="LineNumber"> 013 </span><B>พฺยสเนน สมนินาคตสฺส อญฺ-</B>	ความเศร้าใจ  ความแห้งใจ  ความ
+<span class="LineNumber"> 014 </span><B>ตรญฺตเรน  ทุกฺขธมฺเมน<SUP>๑</SUP> ผุฏฺ</B>-	ผาก ณ  ภายใน  ความเศร้าโศก  ณ
+<span class="LineNumber"> 015 </span><B>€สฺส  โสโก โสจนา โสจิตตฺตํ</B>	ภายใน  ของสัตว์ผู้ประกอบด้วย
+<span class="LineNumber"> 016 </span><B>อนฺโตโสโก  อนฺโตปริโสโก</B>	ความฉิบหายอันใดอันหนึ่ง  และ
+<span class="LineNumber"> 017 </span>					ผู้ที่ความทุกข์อันใดอันหนึ่งมาถูก
+<span class="LineNumber"> 018 </span>					ต้องแล้วอันใด
+<span class="LineNumber"> 019 </span><B>อยํ  วุจฺจติ  ภิกฺขเว  โสโก</B>		ดูก่อนภิกษุทั้งหลาย  อันนี้  [เรา]
+<span class="LineNumber"> 020 </span>					กล่าวว่าโสกะ  [ความโศก].
+
+<span class='footnote'>๑.  อรรถกถาว่า  เหตุแห่งทุกข์.  ธมฺมศัพท์เป็นไวพจน์ของเหตุ.  ดังนั้นน่าจะแปลว่า----ผู้ที่เหตุแห่ง</span>
+<span class='footnote'>ทุกข์อันใดอันหนึ่ง----</span>

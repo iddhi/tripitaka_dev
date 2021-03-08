@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>มนายตนมูล</H1>
+<span class="LineNumber"> 002 </span><H2>มนายตนมูละ    ธัมมายตนมูลี :-</H2> 
+<span class="LineNumber"> 003 </span>         [๓๒๙]   มนายตนะไม่ใช่กำลังเกิดแก่บุคคลใด,      ธัมมายตนะ
+<span class="LineNumber"> 004 </span>ก็ไม่ใช่กำลังเกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         บุคคลที่จิตเกิดไม่ได้เหล่านั้นกำลังเกิด       มนายตนะไม่ใช่กำลัง
+<span class="LineNumber"> 006 </span>เกิดแก่บุคคลเหล่านั้น          แต่ธัมมายตนะกำลังเกิดแก่บุคคลเหล่านั้น,
+<span class="LineNumber"> 007 </span>บุคคลเหล่านั้นทั้งหมดกำลังตาย   มนายตนะไม่ใช่กำลังเกิด  และธัมมา-
+<span class="LineNumber"> 008 </span>ยตนะก็ไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า  ธัมมายตนะไม่ใช่กำลังเกิดแก่บุคคลใด,     มนายตนะ
+<span class="LineNumber"> 010 </span>ก็ไม่ใช่กำลังเกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>          ใช่.
+<span class="LineNumber"> 012 </span>                           <I>จบ  มนายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 013 </span>                                       <I>มนายตนมูล  จบ</I>
+<span class="LineNumber"> 014 </span>                                        <I>ปุคคลวาระ  จบ</I>

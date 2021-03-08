@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                 <H1>อัชฌัตติกทุกกุสลติกนอัชฌัตติกทุกนกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>                   <H2>(๖๖.  อัชฌัตติทุกะ   ๑.  กุสลติกะ)</H2>	
+<span class="LineNumber"> 003 </span>                                       <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 004 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                            <H2>กุศลบท</H2>
+<span class="LineNumber"> 007 </span>          	[๒๙๒]  ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่อัชฌัตตติกรรม อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นกุศล   ที่เป็นอัชฌัตติกธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                  	    ๒.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่อัชฌัตติกธรรม  อาศัย
+<span class="LineNumber"> 010 </span>ธรรมที่เป็นกุศลที่ เป็นพาหิรธรรม  เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                  	    ๓.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่อัชฌัตติกธรรม อาศัย
+<span class="LineNumber"> 012 </span>ธรรมที่เป็นกุศล  ที่เป็นอัชฌัตติกธรรม  และธรรมที่เป็นกุศล  ที่เป็น
+<span class="LineNumber"> 013 </span>พาหิรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓ วาระ.
+
+<span class="LineNumber"> 014 </span>                                           <H2>อกุศลบท</H2>
+<span class="LineNumber"> 015 </span>                  	     ๑.  <B>ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่อัชฌัตติกธรรม อาศัย
+<span class="LineNumber"> 016 </span>ธรรมที่เป็นอกุศล  ที่เป็นอัชฌัตติกธรรม  เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>                  	     ๒.  <B>ธรรมที่ไม่ใช่อกุศล ทีไม่ใช่อัชฌัตติกธรรม อาศัย
+<span class="LineNumber"> 018 </span>ธรรมที่เป็นอกุศล    ที่เป็นพาหิรธรรม    เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 019 </span>มี ๓ วาระ.                            
+<span class="LineNumber"> 020 </span>                                                   ฯลฯ
+<span class="LineNumber"> 021 </span>	อัพยากตมูล  มี  ๓ วาระ.
+<span class="LineNumber"> 022 </span>                  <I>อัชฌัตติกทุกกุสลติกนอัชฌัตติกทุกนกุสลติกะ  จบ</I>

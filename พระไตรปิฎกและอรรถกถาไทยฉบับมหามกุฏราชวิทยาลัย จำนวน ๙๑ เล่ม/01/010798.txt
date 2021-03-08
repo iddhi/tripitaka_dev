@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	<B>ภิกขุปาฏิโมกฺขํ  		ปจฺจกฺขามิ</B>		ข้าพเจ้าบอกคืนภิกขุปาฏิโมกข์	
+<span class="LineNumber"> 002 </span>	<B>ภิกขุนีปาฏิโมกฺขํ</B>			"		      ข้าพเจ้าบอกคืนภิกขุนีปาฏิโมกข์.
+<span class="LineNumber"> 003 </span>	การบอกลาด้วยคำว่า  <B>อุทฺเทสํ  ปจฺจกฺขามิ</B>  ไม่ใช่เป็นการบอกลา
+<span class="LineNumber"> 004 </span>ด้วยคำไวพจน์.  การบอกลาสิกขา  ย่อมมีได้ด้วยคำไวพจน์แห่งอุเทศ  มีอาทิ  
+<span class="LineNumber"> 005 </span>อย่างนี้คือ:-
+<span class="LineNumber"> 006 </span>	<B>ภิกขุปาฏิโมกฺขุทฺเทสํ	ปจฺจกฺขามิ</B>		ข้าพเจ้าบอกคืนปาฏิโมก-
+<span class="LineNumber"> 007 </span>									         ขุทเทส
+<span class="LineNumber"> 008 </span>	<B>ป€มํ   ปาฏิโมกฺขุทฺเทสํ</B>		"  		  ข้าพเจ้าบอกคืนปาฏิโมก-
+<span class="LineNumber"> 009 </span>									          ขุทเทสที่  ๑
+<span class="LineNumber"> 010 </span>	<B>ทุติยํ</B>		"				"		ข้าพเจ้าบอกคืนปาฏิโมก-
+<span class="LineNumber"> 011 </span>									          ขุทเทสที่  ๒
+<span class="LineNumber"> 012 </span>	<B>ตติยํ</B>		"				"		ข้าพเจ้าบอกคืนปาฏิโมก-
+<span class="LineNumber"> 013 </span>									          ขุทเทสที่  ๓
+<span class="LineNumber"> 014 </span>	<B>จตุตฺถํ</B>	"				"	 	     ข้าพเจ้าบอกคืนปาฏิโมก-
+<span class="LineNumber"> 015 </span>								 	          ขุทเทสที่  ๔
+<span class="LineNumber"> 016 </span>	<B>ปญฺจมํ</B>	"				"	 	     ข้าพเจ้าบอกคืนปาฏิโมกขุท-
+<span class="LineNumber"> 017 </span>									            เทสที่  ๕
+<span class="LineNumber"> 018 </span>	<B>สมฺมาสมฺพุทฺธุทฺเทสํ</B>			"		  ข้าพเจ้าบอกคืนอุเทศแห่ง
+<span class="LineNumber"> 019 </span>									            พระสัมมาสัมพุทธเจ้า
+<span class="LineNumber"> 020 </span>	<B>อนนฺตพุทฺธิอุทฺเทสํ</B>			"		    ข้าพเจ้าบอกคืนอุเทศแห่ง
+<span class="LineNumber"> 021 </span>									           พระอนันตพุทธิเจ้า
+	

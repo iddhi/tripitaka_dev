@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        กัณฑ์ที่ ๒๒
+<span class="LineNumber"> 002 </span>                                          ปกิรณกะ     
+
+<span class="LineNumber"> 003 </span>                                       <B>มหาปเทศ  ๔
+<span class="LineNumber"> 004 </span>                    มหาปเทศข้อสำหรับอ้างใหญ่มี  ๔  คือ</B>
+<span class="LineNumber"> 005 </span>๑.  สิ่งใดไม่ได้ทรงห้ามไว้ว่าไม่ควร   แต่เข้ากันกับสิ่งเป็นอกัปปิยะ
+<span class="LineNumber"> 006 </span>     ขัดกันต่อสิ่งเป็นกัปปิยะ  สิ่งนั้นไม่ควร.  
+<span class="LineNumber"> 007 </span>๒.  สิ่งใดไม่ได้ทรงห้ามไว้ว่าไม่ควร  แต่เข้ากันกับสิ่งเป็นกัปปิยะ  ขัด
+<span class="LineNumber"> 008 </span>      กันต่อสิ่งเป็นอกัปปิยะ  สิ่งนั้นควร.
+<span class="LineNumber"> 009 </span>๓.  สิ่งใดไม่ได้ทรงอนุญาตไว้ว่าควร  แต่เข้ากันกับสิ่งเป็นอกัปปิยะ
+<span class="LineNumber"> 010 </span>      ขัดกันต่อสิ่งเป็นกัปปิยะ  สิ่งนั้นไม่ควร.
+<span class="LineNumber"> 011 </span>๔.  สิ่งใดไม่ได้ทรงอนุญาตไว้ว่าควร  แต่เข้ากันกับสิ่งเป็นกัปปิยะ  ขัด
+<span class="LineNumber"> 012 </span>      กันต่อสิ่งเป็นอกัปปิยะ  สิ่งนั้นควร.
+<span class="LineNumber"> 013 </span>                             <B>พระพุทธานุญาตพิเศษ
+<span class="LineNumber"> 014 </span>                ข้อที่ทรงอนุญาตเป็นพิเศษแท้ ๆ  นั้นมี  ๕  คือ</B>
+<span class="LineNumber"> 015 </span>๑.  ทรงอนุญาตเฉพาะอาพาธ  [ยามหาวิกัฏ  ๔  มูตร  คูถ  เถ้า (ไฟ)
+<span class="LineNumber"> 016 </span>ดิน]  ทรงอนุญาตแก่ภิกษุผู้ถูกงูกัด  แม้ไม่ได้รับประเคน  ฉันก็ได้
+<span class="LineNumber"> 017 </span>ไม่เป็นอาบัติ  น้ำข้าวใสที่เข้าใจว่าน้ำข้าวต้มไม่มีกาก  และน้ำเนื้อต้ม
+<span class="LineNumber"> 018 </span>ที่ไม่มีกากเหมือนกัน ทรงอนุญาตแก่ภิกษุไข้  ที่จำจะต้องได้อาหาร
+<span class="LineNumber"> 019 </span>ในเวลาวิกาล.

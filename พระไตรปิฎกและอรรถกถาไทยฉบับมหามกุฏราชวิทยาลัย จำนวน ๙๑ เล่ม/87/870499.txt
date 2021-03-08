@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๑๐. นวิปปยุตตปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           [๑๖๘๒] ๑.  <B>สัมมัตตนิยตธรรม  เจือกับสัมมัตตนิยตธรรม
+<span class="LineNumber"> 003 </span>เกิดขึ้น  เพราะนวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 004 </span>           คือ    ในอรูปภูมิ  ขันธ์ ๓  เจือกับขันธ์ ๑  ที่เป็นสัมมัตตนิยตธรรม
+<span class="LineNumber"> 005 </span>ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 006 </span>           [๑๖๘๓] ๒.  <B>อนิยตธรรม เจือกับอนิยตธรรม เกิดขึ้น  เพราะ
+<span class="LineNumber"> 007 </span>นวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ  ในอรูปภูมิ  ขันธ์ ๓ เจือกับขันธ์ ๑  ที่เป็นอนิยตธรรม  ฯลฯ
+<span class="LineNumber"> 009 </span>ขันธ์ ๒ ฯลฯ
+
+<span class="LineNumber"> 010 </span>                              <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 011 </span>           [๑๖๘๔]   ในนเหตุปัจจัย  มี ๑ วาระ  ในนอธิปติปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 012 </span>ในนปุเรชาตปัจจัย  มี ๒  วาระ  ในนปัจฉาชาตปัจจัย มี ๓ วาระ  ในนอา-
+<span class="LineNumber"> 013 </span>เสวนปัจจัย  มี ๑ วาระ ในนกัมมปัจจัย  มี ๓ วาระ ในนวิปากปัจจัย มี ๓ 
+<span class="LineNumber"> 014 </span>วาระ  ในนฌานปัจจัย มี ๑ วาระ ในนมัคคปัจจัย  มี ๑ วาระ ในนวิปปยุตต-
+<span class="LineNumber"> 015 </span>ปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 016 </span>           พึงนับอย่างนี้. 
+<span class="LineNumber"> 017 </span>                                             <I>ปัจจนียนัย  จบ</I>
+
+<span class="LineNumber"> 018 </span>                                            <H1>อนุโลมปัจนียนัย</H1>
+<span class="LineNumber"> 019 </span>                            <H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1>
+<span class="LineNumber"> 020 </span>           [๑๖๘๕]  <B>เพราะเหตุปัจจัย</B> ในนอธิปติปัจจัย มี ๓ วาระ... ในน-
+<span class="LineNumber"> 021 </span>ปุเรชาตปัจจัย มี ๒ วาระ ในนปัจฉาปัจจัย มี ๓  วาระ ในนอาเสวนปัจจัย

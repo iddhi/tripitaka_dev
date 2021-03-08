@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>องค์   ๕ แห่งภิกษุผู้ไม่ต้องถือนิสัย</H1> 
+<span class="LineNumber"> 002 </span>           ดูก่อนภิกษุทั้งหลาย    ภิกษุผู้ประกอบด้วยองค์  ๕  ไม่ต้องถือนิสัยอยู่
+<span class="LineNumber"> 003 </span>           ๑.  รู้จักอาบัติ. 
+<span class="LineNumber"> 004 </span>           ๒.  รู้จักอนาบัติ.
+<span class="LineNumber"> 005 </span>           ๓.   รู้จักอาบัติเบา.
+<span class="LineNumber"> 006 </span>           ๔.   รู้จักอาบัติหนัก   และ
+<span class="LineNumber"> 007 </span>           ๕.   เธอจำปาติโมกข์ทั้งสองได้ดี  โดยพิสดาร  จำแนกดี  คล่องแคล่วดี
+<span class="LineNumber"> 008 </span>                 วินิจฉัยเรียบร้อย  โดยสุตตะ   โดยอนุพยัญชนะ.
+<span class="LineNumber"> 009 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์  ๕  นี้แล  ไม่ต้องถือนิสัย
+<span class="LineNumber"> 010 </span>อยู่.
+
+<span class="LineNumber"> 011 </span>                   ห   <H2>องค์   ๕  แห่งภิกษุต้องถือนิสัย</H2>
+<span class="LineNumber"> 012 </span>           ดูก่อนภิกษุทั้งหลาย   ภิกษุผู้ประกอบด้วยองค์ ๕ แม้อื่นอีก   จะไม่ถือ
+<span class="LineNumber"> 013 </span>นิสัยอยู่   ไม่ได้  คือ:-
+<span class="LineNumber"> 014 </span>           ๑.  ไม่รู้จักอาบัติ.
+<span class="LineNumber"> 015 </span>           ๒. ไม่รู้จักอนาบัติ.
+<span class="LineNumber"> 016 </span>           ๓.  ไม่รู้จักอาบัติเบา.
+<span class="LineNumber"> 017 </span>           ๔.  ไม่รู้จักอาบัติหนัก   และ
+<span class="LineNumber"> 018 </span>           ๕.  มีพรรษาหย่อน  ๕.
+<span class="LineNumber"> 019 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุประกอบด้วยองค์  ๕ นี้แล  จะไม่ถือนิสัยอยู่
+<span class="LineNumber"> 020 </span>ไม่ได้.

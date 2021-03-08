@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>               	                <H1>๗. เปตเตยยสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                          <H1>ว่าด้วยสัตว์ผู้เกื้อกูลบิดามีน้อย</H1>                
+
+<span class="LineNumber"> 003 </span>           [๑๗๖๒]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน  สัตว์ผู้เกื้อกูลแก่บิดา
+<span class="LineNumber"> 004 </span>มีน้อย  โดยที่แท้   สัตว์ผู้ไม่เกื้อกูลแก่บิดา   มีมากกว่า ฯลฯ
+<span class="LineNumber"> 005 </span>	               	     <I>จบเปตเตยยสูตรที่ ๗</I>
+
+<span class="LineNumber"> 006 </span>                                 <H1>๘.  สามัญญสูตร</H1>                    
+
+<span class="LineNumber"> 007 </span>                     <H1>ว่าด้วยสัตว์ผู้เกื้อกูลสมณะมีน้อย</H1>
+
+<span class="LineNumber"> 008 </span>           [๑๗๖๓]  ดูก่อนภิกษุทั้งหลาย   ฉันนั้นเหมือนกัน   สัตว์ผู้เกื้อกูลแก่
+<span class="LineNumber"> 009 </span>สมณะมีน้อย  โดยที่แท้   สัตว์ผู้ไม่เกื้อกูลแก่สมณะ  มีมากกว่า  ฯลฯ
+<span class="LineNumber"> 010 </span>                                     <I>จบสามัญญสูตรที่  ๘</I>
+
+<span class="LineNumber"> 011 </span>                                   <H1>๙.  พราหมัญญสูตร</H1>
+
+<span class="LineNumber"> 012 </span>                      <H1>ว่าด้วยสัตว์ผู้เกื้อกูลพราหมณ์มีน้อย</H1>
+
+<span class="LineNumber"> 013 </span>           [๑๗๖๔]  ดูก่อนภิกษุทั้งหลาย    ฉันนั้นเหมือนกัน   สัตว์ผู้เกื้อกูลแก่
+<span class="LineNumber"> 014 </span>พราหมณ์มีน้อย  โดยที่แท้  สัตว์ผู้ไม่เกื้อกูลแก่พราหมณ์   มีมากกว่า  ฯลฯ
+<span class="LineNumber"> 015 </span>                                   <I>จบพราหมัญญสูตรที่  ๙</I>

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๑๐. ทุติยภยสูตร</h1>  
+<span class="LineNumber"> 002 </span>                                 <h2>ว่าด้วยภัย  ๔  ประการ</h2>
+<span class="LineNumber"> 003 </span>            [๑๒๐]    ดูก่อนภิกษุทั้งหลาย  ภัย  ๔  ประการนี้   ภัย  ๔  ประการ
+<span class="LineNumber"> 004 </span>เป็นไฉน  คือ  <B>อัคคีภัย ๑  อุทกภัย ๑  ราชภัย ๑  โจรภัย ๑</B>  นี้แลภัย
+<span class="LineNumber"> 005 </span>๔    ประการ.
+<span class="LineNumber"> 006 </span>                                        <I>จบทุติยภยสูตรที่ ๑๐</I>
+<span class="LineNumber"> 007 </span>                                           <I>จบเกสีวรรคที่ ๒</I>
+<span class="LineNumber"> 008 </span>                      <H2>รวมพระสูตรที่มีในวรรคนี้ คือ</H2>
+<span class="LineNumber"> 009 </span>            ๑.  เกสีสูตร  ๒. ชวสูตร  ๓. ปโตทสูตร  ๔ . นาคสูตร  ๕.  ฐาน-
+<span class="LineNumber"> 010 </span>สูตร  ๖.  อัปปมาทสูตร  ๗   อารักขสูตร  ๘.  สังเวชนียสูตร  ๙.  ปฐมภย-
+<span class="LineNumber"> 011 </span>สูตร  ๑๐.  ทุติยภยสูตร  และอรรถกถา.

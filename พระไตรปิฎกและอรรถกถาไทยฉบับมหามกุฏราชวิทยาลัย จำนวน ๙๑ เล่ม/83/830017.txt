@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   วิจิกิจฉานุสัย   นอนเนื่องอยู่แก่บุคคลใด,  กามราคา- 
+<span class="LineNumber"> 002 </span>นุสัย  ปฏิฆานุสัย  มานานุสัย  และทิฏฐานุสัย  ก็นอนเนื่องอยู่แก่บุคคล
+<span class="LineNumber"> 003 </span>นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่
+<span class="LineNumber"> 005 </span>      <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสยมูละ
+<span class="LineNumber"> 006 </span>                                       วิจิกิจฉานุสยมูลี</I>
+
+<span class="LineNumber"> 007 </span><H2>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฎฐานุสยมูละ  ภว-
+<span class="LineNumber"> 008 </span>ราคานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 009 </span>         กามราคานุสัย      ปฏิฆานุสัย      มานานุสัย      และทิฏฐานุสัย
+<span class="LineNumber"> 010 </span>นอนเนื่องอยู่แก่บุคคลใด,   ภวราคานุสัย   ฯ ล ฯ  อวิชชานุสัย   ก็นอน-
+<span class="LineNumber"> 011 </span>เนื่องอยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ก็หรือว่า   อวิชชานุสัย    นอนเนื่องอยู่แก่บุคคลใด,   กามราคา-
+<span class="LineNumber"> 013 </span>นุสัย    ปฏิฆานุสัย    มานานุสัย    และทิฏฐานุสัย   ก็นอนเนื่องอยู่แก่
+<span class="LineNumber"> 014 </span>บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         อวิชชานุสัย     และมานานุสัย     นอนเนื่องอยู่แก่พระอนาคามี
+<span class="LineNumber"> 016 </span>แต่กามราคานุสัย   ปฏิฆานุสัย   และทิฏฐานุสัย   ไม่ใช่นอนเนื่องอยู่แก่
+<span class="LineNumber"> 017 </span>พระอนาคามีนั้น,   อวิชชานุสัย    กามราคานุสัย    ปฏิฆานุสัย    และ

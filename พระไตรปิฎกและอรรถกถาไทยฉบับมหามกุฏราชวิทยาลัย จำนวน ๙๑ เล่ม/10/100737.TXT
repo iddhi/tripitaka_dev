@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ทำด้วยฝ้าย  ๑  ผ้าทำด้วยไหม ๑  ผ้าทำด้วยขนสัตว์  ๑  ผ้าทำด้วยป่าน ๑  ผ้าทำ  
+<span class="LineNumber"> 002 </span>ด้วยสัมภาระเจือกัน  ๑.
+
+<span class="LineNumber"> 003 </span>                          <H2>เบื้องต้นแห่งกฐินเป็นต้น</H2>
+<span class="LineNumber"> 004 </span>           [๑,๑๔๑]  ถามว่า  กฐิน  มีอะไรเป็นเบื้องต้น   มีอะไรเป็นท่ามกลาง
+<span class="LineNumber"> 005 </span>มีอะไรเป็นที่สุด
+<span class="LineNumber"> 006 </span>           ตอบว่า  กฐิน   มีบุพกรณ์เป็นเบื้องต้น    มีการทำเป็นท่ามกลาง   มี
+<span class="LineNumber"> 007 </span>การกรานเป็นที่สุด.
+
+<span class="LineNumber"> 008 </span>                                 <H1>องค์ของภิกษุผู้  กรานกฐิน</H1>
+<span class="LineNumber"> 009 </span>           [๑,๑๔๒]  ถามว่า   ภิกษุประกอบด้วยองค์เท่าไร   ไม่ควรกรานกฐิน
+<span class="LineNumber"> 010 </span>ภิกษุประกอบด้วยองค์เท่าไร  ควรกรานกฐิน
+<span class="LineNumber"> 011 </span>           ตอบว่า   ภิกษุประกอบด้วยองค์  ๘  ไม่ควรกรานกฐิน   ภิกษุประกอบ
+<span class="LineNumber"> 012 </span>ด้วยองค์ ๘ ควรกรานกฐิน                                               
+<span class="LineNumber"> 013 </span>           ถ.  ภิกษุประกอบด้วยองค์  ๘  เป็นไฉน  ไม่ควรกรานกฐิน
+<span class="LineNumber"> 014 </span>           ต.  ภิกษุไม่รู้บุพกรณ์ ๑  ไม่รู้การถอนผ้า   ๑  ไม่รู้การอธิษฐานผ้า  ๑
+<span class="LineNumber"> 015 </span>ไม่รู้การกราน ๑   ไม่รู้มาติกา ๑  ไม่รู้ปลิโพธ ๑   ไม่รู้การเคาะกฐิน  ๑   ไม่รู้
+<span class="LineNumber"> 016 </span>อานิสงส์ ๑
+<span class="LineNumber"> 017 </span>           ภิกษุประกอบด้วยองค์  ๘  นี้   ไม่ควรกรานกฐิน
+<span class="LineNumber"> 018 </span>           ถ.  ภิกษุประกอบด้วยองค์ ๘ เป็นไฉน  ควรกรานกฐิน
+<span class="LineNumber"> 019 </span>           ต.  ภิกษุรู้บุพกรณ์  ๑  รู้การถอนผ้า ๑  รู้การอธิษฐานผ้า ๑   รู้การ
+<span class="LineNumber"> 020 </span>กราน  ๑  รู้มาติกา ๑  รู้ปลิโพธ ๑  รู้การเดาะกฐิน  ๑  รู้อานิสงส์ ๑
+<span class="LineNumber"> 021 </span>           ภิกษุประกอบด้วยองค์  ๘ นี้   ควรกรานกฐิน.

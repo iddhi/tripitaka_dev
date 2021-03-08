@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ฯลฯ  เป็นปัจจัย  ด้วยอำนาจของอินทริยปัจจัย</B>  มี ๔ วาระ. 
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ  เป็นปัจจัย  ด้วยอำนาจของฌานปัจจัย</B>  มี ๔ วาระ. 
+<span class="LineNumber"> 003 </span>           <B>ฯลฯ  เป็นปัจจัย  ด้วยอำนาจของมัคคปัจจัย</B>  มี ๔ วาระ.
+<span class="LineNumber"> 004 </span>           <B>ฯลฯ  เป็นปัจจัย  ด้วยอำนาจของสัมปยุตตปัจจัย</B> มี ๒ วาระ.
+
+<span class="LineNumber"> 005 </span>                                 <H1>๒๐.  วิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           [๗๒๐] ๑.  <B>ปรามาสสัมปยุตตธรรม    เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 007 </span>สัมปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 008 </span>           มี ๒ อย่าง  คือที่เป็น <B>สหชาตะ</B> และ <B>ปัจฉาชาตะ</B> ฯลฯ
+<span class="LineNumber"> 009 </span>                       ๒.  <B>ปรามาสวิปปยุตตธรรม  เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 010 </span>วิปปยุตตธรรม ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 011 </span>           มี ๓ อย่าง   คือที่เป็น  <B>สหชาตะ ปุเรชาตะ</B> และ <B>ปัจฉาชาตะ</B>  ฯลฯ
+<span class="LineNumber"> 012 </span>                       ๓.  <B>ปรามาสวิปปยุตตธรรม  เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 013 </span>สัมปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 014 </span>           มีอย่างเดียว   คือที่เป็น  <B>ปุเรชาตะ</B> ได้แก่
+<span class="LineNumber"> 015 </span>           หทยวัตถุ  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นปรามาสสัมปยุตตธรรม
+<span class="LineNumber"> 016 </span>ด้วยอำนาจของวิปปยุตตปัจจัย.
+
+<span class="LineNumber"> 017 </span>                                          <H1>๒๑.  อัตถิปัจจัย</H1>
+<span class="LineNumber"> 018 </span>           [๗๒๑] ๑.  <B>ปรามาสสัมปยุตตธรรม  เป็นปัจจัยแก่ปรามาส-
+<span class="LineNumber"> 019 </span>สัมปยุตตธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  18  หน้า  128
+
+<span class="LineNumber"> 002 </span>				 โลฬุทายิตฺเถรวตฺถุ (๑)
+<span class="LineNumber"> 003 </span>	อปฺปสฺสุตายํ  ปุริโสติ  อิมํ  ธมฺมเทสนํ  สตฺถา  เชตวเน
+<span class="LineNumber"> 004 </span>วิหรนฺโต  โลฬุทายิตฺเถรํ  อารพฺภ  กเถสิ ฯ
+<span class="LineNumber"> 005 </span>	โส  กิร  มงฺคลํ  กโรนฺตานํ  เคหํ  คนฺตฺวา  ติโรกุฑฺเฑสุ
+<span class="LineNumber"> 006 </span>ติฏฺ€นฺตีติ  อาทินา  นเยน  อวมงฺคลํ  กเถสิ  อวมงฺคลํ  กโรนฺตานํ
+<span class="LineNumber"> 007 </span>เคหํ  คนฺตฺวา  ติโรกุฑฺฑาทีสุ  กเถตพฺเพสุ  ทานฺจ  ธมฺมจริยา 
+<span class="LineNumber"> 008 </span>จาติ  อาทินา  นเยน  มงฺคลคาถา  วา  ยงฺกิฺจิ  วิตฺตํ  อิธ 
+<span class="LineNumber"> 009 </span>วา  หุรํ  วาติ  รตนสุตฺตํ  วา  กเถสิ ฯ  เอวํ  เตสุ  เตสุ 
+<span class="LineNumber"> 010 </span>€าเนสุ อฺํ  กเถสฺสามีติ  อฺํ  กเถนฺโตปิ  อฺํ 
+<span class="LineNumber"> 011 </span>กเถมีติ  น ชานาติ ฯ  ภิกฺขู  ตสฺส  กถํ  สุตฺวา  สตฺถุ 
+<span class="LineNumber"> 012 </span>อาโรเจสุํ  กึ(๒) ภนฺเต  โลฬุทายิ  มงฺคลามงฺคลฏฺ€าเนสุ 
+<span class="LineNumber"> 013 </span>อฺสฺมึ  กเถตพฺเพ  อฺเมว  กเถตีติ ฯ  สตฺถา  น  ภิกฺขเว
+<span class="LineNumber"> 014 </span>อิทาเนเวส  เอวํ  กเถติ  ปุพฺเพปิ  อฺสฺมึ  กเถตพฺเพ  อฺเมว
+<span class="LineNumber"> 015 </span>กเถสีติ  วตฺวา  เตหิ  ยาจิโต  (๓)  อตีตํ  อาหริ ฯ
+<span class="LineNumber"> 016 </span>	อตีเต  พาราณสิยํ  อคฺคิทตฺตสฺส  นาม  พฺราหฺมณสฺส
+<span class="LineNumber"> 017 </span>ปุตฺโต  โสมทตฺตกุมาโร  นาม  ราชานํ  อุปฏฺ€หิ ฯ  โส  ตสฺส
+<span class="LineNumber"> 018 </span>ปิโย  อโหสิ  มนาโป ฯ  พฺราหฺมโณ  ปน  กสิกมฺมํ  นิสฺสาย
+<span class="LineNumber"> 019 </span>ชีวติ ฯ  ตสฺส  เทฺว  โคณา  อเหสุํ  เตสุ  เอโก  มโต ฯ
+<span class="LineNumber"> 020 </span>#๑. สี. ยุ. ลาฬุทายิตฺเถรวตฺถุ ฯ 
+<span class="LineNumber"> 021 </span>#๒. กินฺติ อติเรกปเทน ภวิตพฺพํ ฯ
+<span class="LineNumber"> 022 </span>#๓. สี. ยุ.  เตหิ  ยาจิโตติ  นตฺถิ ฯ 

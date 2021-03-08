@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>ที่ประกอบ    ด้วยอำนาจปัจจัย ๗ ปัจจัย<SUP>๑</SUP>ที่เหลือเว้นวิปากปัจจัย,    เป็น
+<span class="LineNumber"> 002 </span>ปัจจัยแก่เวทนาที่ประกอบกับชวนะเป็นลำดับไป  คือชวนะดวงที่  ๒  ด้วย
+<span class="LineNumber"> 003 </span>อำนาจปัจจัย  ๕  ปัจจัย<SUP>๒</SUP>เหล่านั้นเหมือนกัน,  เป็นปัจจัยแก่ชวนะที่เหลือ
+<span class="LineNumber"> 004 </span>คือชวนะดวงที่ ๓-๗ ด้วยอำนาจอุปนิสัยปัจจัยเท่านั้น.   
+
+<span class="LineNumber"> 005 </span>                                          <H1>ขันธ์  ๕</H1>
+<span class="LineNumber"> 006 </span>            ๔]   วิสัชนา ๕ มีวิสัชนาในรูปเป็นต้น  พระธรรมเสนาบดี-
+<span class="LineNumber"> 007 </span>สารีบุตรแสดงด้วยสามารถแห่งขันธ์.
+<span class="LineNumber"> 008 </span>            ธรรมชาติใด  ย่อมเสื่อมสลาย ย่อมถูกเบียดเบียนด้วยวิโรธิปัจจัย
+<span class="LineNumber"> 009 </span>มีความเย็นเป็นต้น   ฉะนั้น    ธรรมชาตินั้น   ชื่อว่า  <B>รูป</B>.
+<span class="LineNumber"> 010 </span>            ธรรมชาติใด   ย่อมเสวยอารมณ์  ฉะนั้น  ธรรมชาตินั้น   ชื่อว่า
+<span class="LineNumber"> 011 </span><B>เวทนา</B>.
+<span class="LineNumber"> 012 </span>            ธรรมชาติใด   ย่อมจำอารมณ์   ฉะนั้น    ธรรมชาตินั้น   ชื่อว่า
+<span class="LineNumber"> 013 </span><B>สัญญา</B>.
+<span class="LineNumber"> 014 </span>            ธรรมชาติใด     ย่อมปรุงแต่ง    ฉะนั้น     ธรรมชาตินั้น    ชื่อว่า
+<span class="LineNumber"> 015 </span><B>สังขาร</B>.
+<span class='footnote'>๑. สหชาตะ, อัญญมัญญะ, นิสสยะ, อาหาระ, สัมปยุตตะ, อัตถิ, อวิคตะ.</span>
+<span class='footnote'>๒. อนันตระ, สมนันตระ, อนันตรูปนิสสยะ, นัตถิ, วิคตะ.</span>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>มิจฉัตตวรรคที่  ๓</h1> 
+
+<span class="LineNumber"> 002 </span>                                    <H1>๑.  มิจฉัตตสูตร*</H1>
+
+<span class="LineNumber"> 003 </span>                             <h2> ความเห็นผิดและความเห็นถูก</h2>
+<span class="LineNumber"> 004 </span>	[๕๙]   สาวัตถีนิทาน.    ดูก่อนภิกษุทั้งหลาย     เราจะแสดงมิจฉัตตะ
+<span class="LineNumber"> 005 </span>(ความผิด)   และสัมมัตตะ   (ความถูก)    แก่เธอทั้งหลาย    เธอทั้งหลายจงฟัง
+<span class="LineNumber"> 006 </span>เรื่องนั้น.
+<span class="LineNumber"> 007 </span>	[๖๐]  ดูก่อนภิกษุทั้งหลาย  ก็มิจฉัตตะเป็นไฉน  ความเห็นผิด ฯลฯ
+<span class="LineNumber"> 008 </span>ความตั้งใจผิด   นี้เรียกว่า   มิจฉัตตะ.
+<span class="LineNumber"> 009 </span>	[๖๑]  ดูก่อนภิกษุทั้งหลาย ก็สัมมัตตะเป็นไฉน  ความเห็นชอบ ฯลฯ
+<span class="LineNumber"> 010 </span>ความตั้งใจชอบ   นี้เรียกว่า   สัมมัตตะ.
+<span class="LineNumber"> 011 </span>                                        <I>จบมิจฉัตตสูตรที่  ๑</I>
+
+<span class="LineNumber"> 012 </span>                                      <h1>๒.  อกุศลธรรมสูตร</h1>
+
+<span class="LineNumber"> 013 </span>                                    <h2> อกุศลธรรมและกุศลธรรม</h2>
+<span class="LineNumber"> 014 </span>	[๖๒]   สาวัตถีนิทาน.   ดูก่อนภิกษุทั้งหลาย   เราจักแสดงอกุศลธรรม
+<span class="LineNumber"> 015 </span>และกุศลธรรมแก่เธอทั้งหลาย   เธอทั้งหลายจงฟังเรื่องนั้น.
+<span class='footnote'>*  อรรถกถาแก้รวมกันไว้ท้ายวรรคนี้.</span>

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>เว้นอกุศลด้วย   ธรรมด้วย  ไม่ชื่อว่าอกุศลด้วย  ไม่ชื่อว่าธรรมด้วย.  
+<span class="LineNumber"> 002 </span>         ไม่ใช่ธรรม  ไม่ชื่อว่ากุศลธรรม  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ไม่ใช่อกุศล  ไม่ชื่อว่าธรรม  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ธรรมที่เหลือ    เว้นอกุศล  ไม่ชื่อว่าอกุศลธรรม    และธรรมที่
+<span class="LineNumber"> 006 </span>เหลือ   เว้นอกุศลด้วย   ธรรมด้วย  ไม่ชื่อว่าอกุศลด้วย  ไม่ชื่อว่าธรรม
+<span class="LineNumber"> 007 </span>ด้วย.
+<span class="LineNumber"> 008 </span>         ไม่ใช่ธรรม  ไม่ชื่อว่าอัพยากตธรรม  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>         ไม่ใช่อัพยากตะ  ไม่ชื่อว่าธรรม  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ธรรมที่เหลือ    เว้นอัพยากตะ    ไม่ชื่อว่าอัพยากตธรรม   และ
+<span class="LineNumber"> 012 </span>ธรรมที่เหลือ   เว้นอัพยากตะด้วย   ธรรมด้วย   ไม่ชื่อว่าอัพยากตะด้วย
+<span class="LineNumber"> 013 </span>ไม่ชื่อว่าธรรมด้วย.
+<span class="LineNumber"> 014 </span>         ไม่ใช่ธรรม  ไม่ใช่ชื่อว่ากุศลธรรม  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>         ไม่ใช่อัพยากตะ  ไม่ชื่อว่าธรรม  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ธรรมที่เหลือ    เว้นอัพยากตะ    ไม่ชื่อว่าอัพยากตธรรม   และ

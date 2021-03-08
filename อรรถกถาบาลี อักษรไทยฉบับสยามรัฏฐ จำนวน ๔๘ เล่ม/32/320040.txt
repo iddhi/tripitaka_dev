@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32    หน้า  40
+	
+<span class="LineNumber"> 002 </span>		มิคโลปชาตกํ  
+<span class="LineNumber"> 003 </span>	น  เม  รุจีติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  เอกํ 
+<span class="LineNumber"> 004 </span>ทุพฺพจภิกฺขุํ  อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	อถ  สตฺถา  ตํ  ภิกฺขุํ  ปกฺโกสาเปตฺวา  สจฺจํ  กิร  ตฺวํ  
+<span class="LineNumber"> 006 </span>ภิกฺขุ  ทุพฺพโจติ  ปุจฺฉิตฺวา  อาม  ภนฺเตติ  วุตฺเต  น  โข 
+<span class="LineNumber"> 007 </span>ภิกฺขุ  อิทาเนว  ปุพฺเพปิ  ทุพฺพโจเยว  ทุพฺพจภาวํ  ปน  นิสฺสาย
+<span class="LineNumber"> 008 </span>ปณฺฑิตานํ  วจนํ  อกโรนฺโต เวรมฺภวาตมุเข พฺยสนํ คโตสีติ 
+<span class="LineNumber"> 009 </span>วตฺวา อตีตํ อาหริ  
+<span class="LineNumber"> 010 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 011 </span>คิชฺฌโยนิยํ  นิพฺพตฺติตฺวา  อปรณฺณคิชฺโฌ(๑)  นาม  อโหสิ  ฯ  โส  
+<span class="LineNumber"> 012 </span>คิชฺฌคณปริวุโต  คิชฺฌกูฏปพฺพเต  วสิ  ฯ  ปุตฺโต  ปนสฺส  มิคโลโป 
+<span class="LineNumber"> 013 </span>นาม  ถามสมฺปนฺโน  อโหสิ  ฯ  โส  อฺเสํ  คิชฺฌานํ  สีมํ  
+<span class="LineNumber"> 014 </span>อติกฺกมิตฺวา  อติอุจฺจํ  อุปฺปคติ(๒)  ฯ  คิชฺฌา  ปุตฺโต  เต  อติทูรํ 
+<span class="LineNumber"> 015 </span>อุปฺปคตีติ(๓)  คิชฺฌรฺโ  อาจิกฺขึสุ  ฯ  ตํ  สุตฺวา  โส  ตํ  
+<span class="LineNumber"> 016 </span>ปกฺโกสาเปตฺวา  ตฺวํ กิร  ตาต  อติอุจฺจํ  คจฺฉสิ  อติอุจฺจํ  
+<span class="LineNumber"> 017 </span>คจฺฉนฺโต  ชีวิตกฺขยํ  ปาปุณิสฺสตีติ  วตฺวา ติสฺโส คาถา อภาสิ  
+<span class="LineNumber"> 018 </span>	[๘๖๓] น เม รุจิ มิคโลป(๔)  	ยสฺส เต ตาทิสา คติ  
+<span class="LineNumber"> 019 </span>		อตุจฺจํ ตาต คจฺฉสิ  		อภูมึ ตาต เสวสิ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อปนนฺทคิชฺโฌ ฯ  ๒. ม. อุปฺปติ ฯ  ๓. ม. อุปฺปตตีติ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. รุจฺจิ มิคาโลป ฯ  ๕. ม. ปตสิ ฯ ๖. ส. เสวติ ฯ 

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>นเหตุบท</H2>  
+<span class="LineNumber"> 002 </span>           [๑๐๔๖]  ๑.  <B>ธรรมที่ไม่ใช่นเหตุธรรม ที่ไม่ใช่นเหตุวิปปยุตต-
+<span class="LineNumber"> 003 </span>ธรรม  และไม่ใช่นเหตุธรรม อาศัยนเหตุธรรม  ที่เป็นเหตุสัมปยุตต-
+<span class="LineNumber"> 004 </span>ธรรม  แต่ไม่ใช่เหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 005 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>           [๑๐๔๗]  ในเหตุปัจจัย มี  ๑ วาระ  ฯลฯ
+<span class="LineNumber"> 007 </span> <I>เหตุเหตุสัมปยุตตทุกเหตุทุกนเหตุเหตุสัมปยุตตทุกนเหตุทุกะ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                  <H1>สัปปัจจยทุกเหตุทุกนสัปปัจจยทุกนเหตุทุกะ</H1>
+<span class="LineNumber"> 009 </span>                    <H2>(๗. สัปปัจจยทุกะ<SUP>๑</SUP>  ๑. เหตุทุกะ)</H2>
+<span class="LineNumber"> 010 </span>                                          <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 011 </span>                                           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                                                <H2>เหตุบท</H2>
+<span class="LineNumber"> 014 </span>           [๑๐๔๘]  ๑. <B>นเหตุธรรม  ที่ไม่ใช่อัปปัจจยธรรม  อาศัยเหตุ-
+<span class="LineNumber"> 015 </span>ธรรม  ที่เป็นอนิทัสสนธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 016 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 017 </span>           [๑๐๕๙]  ในเหตุปัจจัย  มี  ๓ วาระ  ฯลฯ
+<span class='footnote'>๑.  ๖.  นเหตุสเหตุกทุกะ  ไม่แสดง  	</span>

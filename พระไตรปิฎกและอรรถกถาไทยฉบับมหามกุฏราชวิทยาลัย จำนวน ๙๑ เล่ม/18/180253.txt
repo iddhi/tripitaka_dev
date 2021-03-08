@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>            บทว่า  <B>ยํ  วิตกฺกํ  อากงฺขิสฺสติ</B>  แปลว่า  เธอจักจำนงวิตกใดนี้  พระ-
+<span class="LineNumber"> 002 </span>ผู้มีพระภาคเจ้าตรัสเพื่อแสดงถึงลักษณะของความเป็นผู้ชำนาญ.         เพราะว่า
+<span class="LineNumber"> 003 </span>บุคคลนี้   ครั้งก่อน  อยากจะตรึกวิตกใด  ย่อมตรึกวิตกนั้นไม่ได้   ไม่ประสงค์
+<span class="LineNumber"> 004 </span>จะตรึกวิตกใด   ย่อมตรึกวิตกนั้นได้   แต่บัดนี้    เพราะความเป็นผู้ชำนาญแล้ว
+<span class="LineNumber"> 005 </span>เธอเป็นผู้ใคร่เพื่อจะตรึกถึงวิตกใด    ย่อมตรึกถึงวิตกนั้นได้    ไม่ต้องการตรึก
+<span class="LineNumber"> 006 </span>วิตกใด  ก็ไม่ต้องตรึกวิตกนั้น   เพราะเหตุนั้น    พระผู้มีพระภาคเจ้าจึงตรัสว่า
+<span class="LineNumber"> 007 </span>เธอจักจำนงวิตกใดก็จักตรึกวิตกนั้นได้    จักไม่จำนงวิตกโคก็จักไม่ตรึกวิตกนั้น
+<span class="LineNumber"> 008 </span>ได้  ดังนี้.
+<span class="LineNumber"> 009 </span>            บทว่า  <B>อจฺเฉชฺชิ  ตณฺหํ</B>  แปลว่า  ตัดตัณหาได้แล้วเป็นต้นนี้   ได้
+<span class="LineNumber"> 010 </span>กล่าวไว้ในสัพพาสวสูตรแล้ว    แล.
+<span class="LineNumber"> 011 </span>	             <I>จบอรรถกถาวิตักกสัณฐานสูตรที่  ๑๐
+<span class="LineNumber"> 012 </span>                                   จบอรรถกถาวรรคที่ ๒</I>
+                 
+<span class="LineNumber"> 013 </span>                                       <H2>รวมพระสูตรในเล่มนี้</H2>
+<span class="LineNumber"> 014 </span>           ๑.  จูฬสีหนาทสูตร               	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 015 </span>           ๒.  มหาสีหนาทสูตร             	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 016 </span>           ๓.  มหาทุกขักขันธสูตร         	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 017 </span>           ๔.  จูฬทุกขักขันธสูตร           	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 018 </span>           ๕.  อนุมานสูตร                   	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 019 </span>           ๖.  เจโตขีลสูตร                    	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 020 </span>           ๗. วนปัตถสูตร                     	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 021 </span>           ๘. มธุปิณฑิกสูตร                 	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 022 </span>           ๙.  เทวธาวิตักกสูตร              	พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 023 </span>        ๑๐. วิตักกสัณฐานสูตร          	พร้อมทั้งอรรถกถา
+

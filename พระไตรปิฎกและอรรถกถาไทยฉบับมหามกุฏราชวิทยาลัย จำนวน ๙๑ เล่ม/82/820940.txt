@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>๒. นิโรธวาระ</H1>
+<span class="LineNumber"> 002 </span>                               <H1>ปัจจุปปันนวาระ  อนุโลม</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 004 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 005 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2> 
+<span class="LineNumber"> 006 </span>         [๙๑๙]   ทุกขสัจจะกำลังดับแก่บุคคลใด,  สมุทยสัจจะก็กำลัง
+<span class="LineNumber"> 007 </span>ดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังตายก็ดี  ในภังคขณะแห่งตัณหา
+<span class="LineNumber"> 009 </span>วิปปยุตตจิตในปวัตติกาลก็ดี   ทุกขสัจจะกำลังดับแก่บุคคลเหล่านั้น   แต่
+<span class="LineNumber"> 010 </span>สมุทยสัจจะไม่ใช่กำลังดับแก่บุคคลเหล่านั้น,      ในภังคขณะแห่งตัณหา
+<span class="LineNumber"> 011 </span>ทุกขสัจจะกำลังดับ   และสมุทยสัจจะก็กำลังดับแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า    สมุทยสัจจะกำลังดับแก่บุคคลใด,  ทุกขสัจจะก็กำลังดับ
+<span class="LineNumber"> 013 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่. 
+<span class="LineNumber"> 015 </span>                         <I>จบ   ทุกขสัจจมูละ   สมุทยสัจจะมูลี</I>

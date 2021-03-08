@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                         ป.   ถูกแล้ว.
+<span class="LineNumber"> 002 </span>                         ส.   ดินมีอยู่  และบางคนที่เข้าปฐวีกสิณจากดินก็มีอยู่	 	
+<span class="LineNumber"> 003 </span>                               มิใช่หรือ  ?		
+<span class="LineNumber"> 004 </span>                         ป.   ถูกแล้ว.   		
+<span class="LineNumber"> 005 </span>                         ส.   หากว่า   ดินมีอยู่  และบางคนที่ถ้าปฐวีกสิณจาก     	
+<span class="LineNumber"> 006 </span>ดินก็มีอยู่  ก็ต้องไม่กล่าวว่า  ผู้เข้าสมาบัติมีปฐวีกสิณเป็นอารมณ์  มีความ
+<span class="LineNumber"> 007 </span>รู้วิปริต
+<span class="LineNumber"> 008 </span>           [๑๐๔๕]   ส.   ดินมีอยู่     แต่ความรู้ของผู้เข้าปฐวีกสิณจากดิน		
+<span class="LineNumber"> 009 </span>                               เป็นความรู้วิปริต  หรือ ?	
+<span class="LineNumber"> 010 </span>                         ป.  ถูกแล้ว. 		
+<span class="LineNumber"> 011 </span>                         ส.   นิพพานมีอยู่   แต่ความรู้ของผู้เข้าสมาบัติมีนิพ-	
+<span class="LineNumber"> 012 </span>                               พานเป็นอารมณ์จากนิพพาน       ก็เป็นความรู้
+<span class="LineNumber"> 013 </span>                               วิปริต   หรือ ?       	                                  
+<span class="LineNumber"> 014 </span>                         ป.   ไม่พึงกล่าวอย่างนั้น  ฯ ล ฯ    	
+<span class="LineNumber"> 015 </span>                         ส.   ถ้าอย่างนั้น  ก็ไม่พึงกล่าวว่า  ผู้เข้าสมาบัติมีปฐ-
+<span class="LineNumber"> 016 </span>                               วีกสิณเป็นอารมณ์  มีความรู้วิปริต.   	   	
+<span class="LineNumber"> 017 </span>                                           <I>วิปริตกถา   จบ</I>			

@@ -1,0 +1,28 @@
+﻿<span class="LineNumber"> 001 </span>                      <H1>๒๓.  เอกันตสุขีสูตร</H1>  
+
+<span class="LineNumber"> 002 </span>   <H1>ว่าด้วยอัตตาที่มีสุขโดยส่วนเดียว</H1>
+
+<span class="LineNumber"> 003 </span>           [๔๕๔]  ฯลฯ    อัตตาที่มีสุขโดยส่วนเดียว    หลังจากตายไปแล้ว 
+<span class="LineNumber"> 004 </span>ย่อมไม่สลายไป. ฯลฯ
+<span class="LineNumber"> 005 </span>                                     <I>จบ  เอกันตสุขีสูตร</I>
+
+<span class="LineNumber"> 006 </span>             <H1>อรรถกถาเอกันตสุขีสูตรที่  ๒๓</H1>
+
+<span class="LineNumber"> 007 </span>           บทว่า  <B>เอกนฺตสุขี</B>  ได้แก่     ทิฏฐิที่เกิดขึ้นแก่บุคคลผู้ได้ฌาน
+<span class="LineNumber"> 008 </span>ผู้ใช้ตักกะ (เป็นนักตักกวิทยา) และผู้ระลึกชาติได้.
+<span class="LineNumber"> 009 </span>           อธิบายว่า  ทิฏฐิอย่างนี้  (อัตตามีสุขโดยส่วนเดียว)  ย่อมเกิดขึ้น
+<span class="LineNumber"> 010 </span>แม้แก่บุคคลผู้ได้ฌาน ใส่ใจถึงอัตตภาพที่มีสุขส่วนเดียวในอดีต.
+<span class="LineNumber"> 011 </span>           สำหรับบุคคลผู้ใช้<B>ตักกะ</B> ทิฏฐิย่อมเกิดขึ้น (อย่างนี้) ว่า ในปัจจุบัน
+<span class="LineNumber"> 012 </span>เรามีสุขโดยส่วนเดียว. ฉันใด   แม้ในอนาคต     เราก็จักเป็นผู้มีสุขโดย
+<span class="LineNumber"> 013 </span>ส่วนเดียว  ฉันนั้น.                                             
+<span class="LineNumber"> 014 </span>           ทิฏฐิอย่างนี้ย่อมเกิดขึ้น  แม้แก่บุคคลผู้ระลึกชาติได้  คือระลึกถึง
+<span class="LineNumber"> 015 </span>ภาวะที่เป็นสุขได้ถึง ๗-๘  ภพ.
+<span class="LineNumber"> 016 </span>                             <I>จบ  อรรถกถาเอกันตสุขีสูตรที่  ๒๓</I>
+
+<span class="LineNumber"> 017 </span>                        <H1>๒๔.  เอกันตทุกขีสูตร</H1>
+
+<span class="LineNumber"> 018 </span>    <H1>ว่าด้วยอัตตาที่มีทุกข์โดยส่วนเดียว</H1>
+
+<span class="LineNumber"> 019 </span>           [๔๕๕]   อัตตาที่มีทุกข์โดยส่วนเดียว   หลังจากตายไปแล้ว
+<span class="LineNumber"> 020 </span>ย่อมไม่สลายไป  ฯลฯ.
+<span class="LineNumber"> 021 </span>                                         <I>จบ  เอกันตทุกขีสูตร</I>

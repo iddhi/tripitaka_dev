@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  มหาปฏฺ€านปฺปกรณวณฺณนา หน้า  634
+
+<span class="LineNumber"> 002 </span>	สตฺตมูลเก  ป€มฉกฺเกน  สทฺธึ  อฺมฺปจฺจยาทีสุ 
+<span class="LineNumber"> 003 </span>อฏฺ€ารสสุ  ปจฺจเยสุ เอกเมกสฺส  โยชนาวเสน  อฏฺ€ารส  สตฺตกา
+<span class="LineNumber"> 004 </span>โหนฺติ ฯ  เตสุ  เอกเมกสฺมึ  เอกูนปฺาสํ กตฺวา
+<span class="LineNumber"> 005 </span>		สตานิ อฏฺ€ ปุจฺฉานํ	ทฺวาสีติ จ ตโตปรา 
+<span class="LineNumber"> 006 </span>		ปุจฺฉา คณนโต โหนฺติ	นยมฺหิ สตฺตมูลเก ฯ 
+<span class="LineNumber"> 007 </span>	อฏฺ€มูลเก  ป€มสตฺตเกน  สทฺธึ  นิสฺสยปจฺจยาทีสุ  สตฺตรสสุ
+<span class="LineNumber"> 008 </span>ปจฺจเยสุ เอกเมกสฺส  โยชนาวเสน  สตฺตรส  อฏฺ€กา  โหนฺติ ฯ
+<span class="LineNumber"> 009 </span>เตสุ เอกเมกสฺมึ เอกูนปฺาสํ  กตฺวา
+<span class="LineNumber"> 010 </span>		สตานิ อฏฺ€ ปุจฺฉานํ	เตตฺตึสา จ ตโตปรา 
+<span class="LineNumber"> 011 </span>		ปุจฺฉา คณนโต โหนฺติ	นยมฺหิ อฏฺ€มูลเก ฯ 
+<span class="LineNumber"> 012 </span>	นวมูลเก  ป€มฏฺ€เกน  สทฺธึ  อุปนิสฺสยาทีสุ(๑)  โสฬสสุ
+<span class="LineNumber"> 013 </span>ปจฺจเยสุ  เอกเมกสฺส  โยชนาวเสน โสฬส นวกา โหนฺติ ฯ
+<span class="LineNumber"> 014 </span>เตสุ เอกเมกสฺมึ เอกูนปฺาสํ กตฺวา 
+<span class="LineNumber"> 015 </span>		สตานิ สตฺต ปุจฺฉานํ	จตุราสีติ ตโตปรา(๒) 
+<span class="LineNumber"> 016 </span>		ปุจฺฉา คณนโต โหนฺติ	นยมฺหิ นวมูลเก ฯ 
+<span class="LineNumber"> 017 </span>	ทสมูลเก  ป€มนวเกน  สทฺธึ  ปุเรชาตปจฺจยาทีสุ  ปณฺณรสสุ
+<span class="LineNumber"> 018 </span>ปจฺจเยสุ  เอกเมกสฺส  โยชนาวเสน  ปณฺณรส  ทสกา  โหนฺติ ฯ
+<span class="LineNumber"> 019 </span>เตสุ  เอกเมกสฺมึ เอกูนปฺาสํ  กตฺวา
+<span class="LineNumber"> 020 </span>		สตานิ สตฺต ปุจฺฉานํ	ปฺจตฺตึส ตโตปรา 
+<span class="LineNumber"> 021 </span>		ปุจฺฉา คณนโต โหนฺติ	นยมฺหิ ทสมูลเก ฯ 
+<span class="LineNumber"> 022 </span># ๑. ม. อุปนิสฺสยปจฺจยาทีสุ ฯ  ๒. ม. ปฺจตึส ตโตปรา ฯ

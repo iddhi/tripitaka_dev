@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                  		<H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 002 </span>		[๘๑๐]  ในเหตุปัจจัย  มี ๗ วาระ     ในอารัมมณปัจจัย  มี  ๙ วาระ 
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย  มี  ๑๓  วาระ.
+<span class="LineNumber"> 004 </span>         	แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 005 </span>                        	   <I>กุสลติกสัปปีติกทุกะ จบ</I>

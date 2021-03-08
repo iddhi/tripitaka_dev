@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๓  เอกกนิปาตวณฺณนา  หน้า ๑๑๒
+
+<span class="LineNumber"> 002 </span>	ทสมํปิ  อตฺถุปฺปตฺติยํ  วุตฺตํ ฯ  ธมฺมสภายํ กิร ภิกฺขู โกสลมหาราชานํ อารพฺภ  อสุกํ 
+<span class="LineNumber"> 003 </span>นาม  กุลํ  ปุพฺเพ  มหายสํ  มหาปริวารํ  อโหสิ  อิทานิ  อปฺปยสํ อปฺปปริวารํ  ชาตนฺติ 
+<span class="LineNumber"> 004 </span>กถยึสุ ฯ  สตฺถา  ปุริมนเยเนว อาคนฺตฺวา เตสํ  วจนํ สุตฺวา อิมํ เทสนํ (๑) อารภิ ฯ เสสํ
+<span class="LineNumber"> 005 </span>วุตฺตนเยเนว เวทิตพฺพํ ฯ
+<span class="LineNumber"> 006 </span>					ทสมํ  ฯ
+<span class="LineNumber"> 007 </span>		กลฺยาณมิตฺตตาทิวคโฺค  อฏฺ€โม  ฯ
+
+<span class="LineNumber"> 008 </span>			ปมาทาทิวคฺควณฺณนา
+<span class="LineNumber"> 009 </span>	นวมสฺสาปิ  ป€มํ  อตฺถุปฺปตฺติยเมว  กถิตํ ฯ  สมฺพหุลา  กิร  ภิกฺขู ธมฺมสภายํ  สนฺนิสินฺนา
+<span class="LineNumber"> 010 </span>กุมฺภโฆสกํ  อารพฺภ  อสุกํ  นาม  กุลํ  ปุพฺเพ  อปฺปยสํ อปฺปปริวารํ อโหสิ อิทานิ มหายสํ
+<span class="LineNumber"> 011 </span>มหาปริวารํ ชาตนฺติ กถยึสุ ฯ สตฺถา ปุริมนเยเนว อาคนฺตฺวา  เตสํ  วจนํ  สุตฺวา  อิมํ  สุตฺตํ
+<span class="LineNumber"> 012 </span>อารภิ ฯ ตสฺสตฺโถ เหฏฺ€า วุตฺตนเยเนว เวทิตพฺโพ ฯ
+<span class="LineNumber"> 013 </span>				ป€มํ ฯ
+<span class="LineNumber"> 014 </span>	ทุติยาทีสุ  มหโต  อนตฺถายาติ  มหนฺตสฺส  อนตฺถสฺส อตฺถาย ฯ เสสเมตฺถ
+<span class="LineNumber"> 015 </span>อุตฺตานเมวาติ ฯ
+<span class="LineNumber"> 016 </span>		ปมาทาทิวคฺโค นวโม  ฯ
+<span class="LineNumber"> 017 </span># ๑. ม. ธมฺมเทสนํ  ฯ

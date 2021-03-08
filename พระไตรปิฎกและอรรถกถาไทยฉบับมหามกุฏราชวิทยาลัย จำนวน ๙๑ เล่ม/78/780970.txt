@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>ชิวหาวิญญาณธาตุ    กายธาตุ    โผฏฐัพพธาตุ    กายวิญญาณธาตุ     มโนธาตุ 
+<span class="LineNumber"> 002 </span>ธัมมธาตุ   มโนวิญญาณธาตุ.
+<span class="LineNumber"> 003 </span>           เหล่านี้เรียกว่า   <B>ธาตุ ๑๘.</B>
+<span class="LineNumber"> 004 </span>           [๑๐๗๘]   <B>สัจจะ ๔</B>  เป็นไฉน ?
+<span class="LineNumber"> 005 </span>           คือ   ทุกขสัจจะ   สมุทยสัจจะ   มัคคสัจจะ   นิโรธสัจจะ
+<span class="LineNumber"> 006 </span>           เหล่านั้นเรียกว่า   <B>สัจจะ ๔.</B>
+<span class="LineNumber"> 007 </span>           [๑๐๗๙]  <B>อินทรีย์ ๒๒</B> เป็นไฉน ?
+<span class="LineNumber"> 008 </span>           คือ  จักขุนทรีย์  โสตินทรีย์   ฆานินทรีย์   ชิวหินทรีย์    กายินทรีย์
+<span class="LineNumber"> 009 </span>มนินทรีย์    อิตถินทรีย์    ปุริสินทรีย์    ชีวิตินทรีย์    สุขินทรีย์    ทุกขินทรีย์
+<span class="LineNumber"> 010 </span>โสมนัสสินทรีย์    โทมนัสสินทรีย์    อุเปกขินทรีย์    สัทธินทรีย์    วิริยินทรีย์
+<span class="LineNumber"> 011 </span>สตินทรีย์  สมาธินทรีย์  ปัญญินทรีย์  อนัญญตัญญัสสามีตินทรีย์<SUP>๑</SUP>  อัญญินทรีย์
+<span class="LineNumber"> 012 </span>อัญญาตาวินทรีย์.
+<span class="LineNumber"> 013 </span>           เหล่านั้นเรียกว่า   <B>อินทรีย์  ๒๒.</B>
+<span class="LineNumber"> 014 </span>           [๑๐๘๐]  <B>เหตุ  ๙</B> เป็นไฉน ?
+<span class="LineNumber"> 015 </span>           คือ   กุศลเหตุ ๓  อกุศลเหตุ ๓  อัพยากตเหตุ ๓
+<span class="LineNumber"> 016 </span>           ในเหตุ ๙ เหล่านั้น  <B>กุศลเหตุ ๓</B> เป็นไฉน ?  
+<span class="LineNumber"> 017 </span>           คือ กุศลเหตุ  คือ  อโลภะ กุศลเหตุ คือ อโทสะ กุศลเหตุ คือ อโมหะ
+<span class="LineNumber"> 018 </span>เหล่านี้เรียกว่า   <B>กุศลเหตุ ๓.</B>
+<span class="LineNumber"> 019 </span>           <B>อกุศลเหตุ ๓</B> เป็นไฉน ?
+<span class="LineNumber"> 020 </span>           คือ อกุศลเหตุ คือ โลภะ อกุศลเหตุ คือ โทสะ  อกุศลเหตุ  คือ โมหะ
+<span class="LineNumber"> 021 </span>           เหล่านี้ เรียกว่า   <B>อกุศลเหตุ ๓.</B>
+<span class="LineNumber"> 022 </span>           <B>อัพยากตเหตุ ๓</B> เป็นไฉน ?
+
+<span class='footnote'>๑. ม.  อนัญญาตัญญัสสามีตินทรีย์</span>

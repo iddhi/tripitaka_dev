@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           เจตนาที่เป็นนีวรณสัมปยุตตธรรม เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย 
+<span class="LineNumber"> 002 </span>ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 003 </span>                       ๒.  <B>นีวรณสัมปยุตตธรรม   เป็นปัจจัยแก่นีวรณวิปป-
+<span class="LineNumber"> 004 </span>ยุตตธรรม ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 005 </span>           ที่เป็น  <B>สหชาตะ</B> ได้แก่
+<span class="LineNumber"> 006 </span>           เจตนาที่เป็นนีวรณสัมปยุตตธรรม    เป็นปัจจัยแก่    จิตตสมุฏฐานรูป
+<span class="LineNumber"> 007 </span>ทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย.                        
+<span class="LineNumber"> 008 </span>           ที่เป็น <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 009 </span>           เจตนาที่เป็นนีวรณสัมปยุตตธรรม    เป็นปัจจัยแก่วิบากขันธ์     และ
+<span class="LineNumber"> 010 </span>กฏัตตารูปทั้งหลาย   ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 011 </span>                       ๓.  <B>นีวรณสัมปยุตตธรรม   เป็นปัจจัยแก่นีวรณสัมป-
+<span class="LineNumber"> 012 </span>ยุตตธรรม  และนีวรณวิปปยุตตธรรม  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 013 </span>           เจตนาที่เป็นนีวรณสัมปยุตตธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์  และ
+<span class="LineNumber"> 014 </span>จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย.  
+<span class="LineNumber"> 015 </span>                       ๔.  <B>นีวรณวิปปยุตตธรรม    เป็นปัจจัยแก่นีวรณวิปป-
+<span class="LineNumber"> 016 </span>ยุตตธรรม  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 017 </span>           มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ <B>นานาขณิกะ</B> ฯลฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ขันธ์ ๓   และโลภะ    อาศัยขันธ์ ๑     ที่สหรคตด้วยโลภะที่เป็น
+<span class="LineNumber"> 002 </span>ทิฏฐิคตวิปปยุต  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 003 </span>                   ๔.  <B>อุปาทานวิปปยุตตธรรม  อาศัยอุปาทานวิปปยุตต-
+<span class="LineNumber"> 004 </span>ธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอุปาทานวิปปยุตตธรรม
+<span class="LineNumber"> 006 </span>ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นอุปาทานวิปปยุตตธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>         ในปฏิสนธิขณะ ฯลฯ  หทยวัตถุ   อาศัยขันธ์ทั้งหลาย,    ขันธ์ทั้งหลาย
+<span class="LineNumber"> 008 </span>อาศัยหทยวัตถุ.
+<span class="LineNumber"> 009 </span>                   ๕.  <B>อุปาทานสัมปยุตตธรรม  อาศัยอุปาทานวิปปยุตต-
+<span class="LineNumber"> 010 </span>ธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  สัมปยุตตขันธ์ทั้งหลาย  อาศัยโลภะที่เป็นทิฏฐิคตวิปปยุต.
+<span class="LineNumber"> 012 </span>                    ๖.  <B>อุปาทานสัมปยุตตธรรม  อาศัยอุปาทานสัมปยุตต-
+<span class="LineNumber"> 013 </span>ธรรม  และอุปาทานวิปปยุตตธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่สหรคตด้วยโลภะที่เป็นทิฏฐิคตวิปปยุตต- 
+<span class="LineNumber"> 015 </span>และโลภะ ฯลฯ   ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 016 </span>                                                   ฯลฯ
+
+<span class="LineNumber"> 017 </span>                                <H2>การนับจํานวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>         [๔๒๘]  ในเหตุปัจจัย   มี ๙ วาระ    ในอารัมมณปัจจัย  มี ๖ วาระ
+<span class="LineNumber"> 019 </span>ในอธิปติปัจจัย   มี ๙ วาระ  ในอนันตรปัจจัย  มี ๖ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 020 </span>มี ๖ วาระ    ในสหชาตปัจจัย  มี ๙ วาระ    ในอัญญมัญญปัจจัย   มี ๖ วาระ

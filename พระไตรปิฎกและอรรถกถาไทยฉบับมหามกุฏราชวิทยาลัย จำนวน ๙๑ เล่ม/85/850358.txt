@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>สมนันตรปัจจัย   มี ๗ วาระ   ในสหชาตปัจจัย   มี ๑๗ วาระ   ในอัญญ- 
+<span class="LineNumber"> 002 </span>มัญญปัจจัย  มี ๗ วาระ  ในนิสสยปัจจัย  มี ๑๗ วาระ  ในอุปนิสสยปัจจัย
+<span class="LineNumber"> 003 </span>มี ๗ วาระ    ในปุเรชาตปัจจัย     มี ๗ วาระ    ในอาเสวนปัจจัย     มี ๗ 
+<span class="LineNumber"> 004 </span>วาระ    ในกัมมปัจจัย   มี ๑๗ วาระ    ในวิปากปัจจัย  มี ๑ วาระ     ใน
+<span class="LineNumber"> 005 </span>อาหารปัจจัย  มี ๑๗ วาระ  ในอินทริยปัจจัย  มี ๑๗ วาระ  ในฌานปัจจัย
+<span class="LineNumber"> 006 </span>มี ๑๗ วาระ  ในมัคคปัจจัย   มี ๑๗ วาระ  ในสัมปยุตตปัจจัย  มี ๗ วาระ
+<span class="LineNumber"> 007 </span>ในวิปปยุตตปัจจัย   มี ๗ วาระ  ในอัตถิปัจจัย  มี ๑๗ วาระ   ในนัตถิ-
+<span class="LineNumber"> 008 </span>ปัจจัย   มี ๗ วาระ   ในวิคตปัจจัย  มี ๗ วาระ   ในอวิคตปัจจัย    มี ๑๗
+<span class="LineNumber"> 009 </span>วาระ.
+<span class="LineNumber"> 010 </span>                           <I>อนุโลมนัย  ในนิสสยวาระ  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                        <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 012 </span> <B>[๓๘๕] ๑. อกุศลธรรม  อาศัยอกุศลธรรมเกิดขึ้น  เพราะเหตุ-
+<span class="LineNumber"> 013 </span>ปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ โมหะ   ที่สหรคตด้วยวิจิกิจฉา  สหรคตด้วยอุทธัจจะ  อาศัย
+<span class="LineNumber"> 015 </span>ขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  สหรคตด้วยอุทธัจจะเกิดขึ้น.
+<span class="LineNumber"> 016 </span>              <B>๒. อัพยากตธรรม  อาศัยอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 017 </span>นเหตุปัจจัย</B>   
+<span class="LineNumber"> 018 </span>           คือ ขันธ์ ๓ และจิตตสมุฏฐานรูป    อาศัยขันธ์ ๑ ที่เป็นอัพยากต- 
+<span class="LineNumber"> 019 </span>วิบาก    และอัพยากกิริยา    ซึ่งเป็นนอเหตุกะเกิดขึ้น,   ขันธ์ ๑ และจิตต-

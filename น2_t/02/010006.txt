@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>             <B>เครื่องนุ่งห่มที่ทำด้วยของอื่น  ห้ามไม่ให้ใช้  คือ</B>
+<span class="LineNumber"> 002 </span>๑.  คากรอง                                                    [กุสจีร].  
+<span class="LineNumber"> 003 </span>๒.  เปลือกต้นไม้กรอง                                   [วากจีร].
+<span class="LineNumber"> 004 </span>๓.  ผลไม้กรอง                                               [ผลกจีร].
+<span class="LineNumber"> 005 </span>๔.  ผ้ากำพลทำด้วยผมคน                              [เกสกมฺพล].
+<span class="LineNumber"> 006 </span>๕.  ผ้ากำพลทำด้วยหางขนสัตว์                     [วาลกมฺพล].
+<span class="LineNumber"> 007 </span>๖.  ปีกนกเค้า                                                  [อุลูกปกฺข].
+<span class="LineNumber"> 008 </span>๗.  หนังสือ                                                     [อชินขิป].
+<span class="LineNumber"> 009 </span>๘.  ทำด้วยปอ                                                 [โปตฺถก].
+<span class="LineNumber"> 010 </span>	นุ่งห่มผ้าเหล่านี้เป็นวัตร  ต้องถุลลัจจัย  เป็นแต่สักว่านุ่งห่ม
+<span class="LineNumber"> 011 </span>ต้องทุกกฏ.
+<span class="LineNumber"> 012 </span>                 <B>จีวรนั้นโปรดให้ตัดเป็นกระทงมีชื่อดังนี้</B>
+<span class="LineNumber"> 013 </span>๑.  อัฑฒมณฑล                                            คีเวยยกะ.
+<span class="LineNumber"> 014 </span>๒.  มณฑล                                                    วิวัฏฏะ.
+<span class="LineNumber"> 015 </span>๓.  อัฑฒมณฑล                                            ชังเฆยยกะ.
+<span class="LineNumber"> 016 </span>๔.  มณฑล                                                     อนุวิวัฏฏะ.
+<span class="LineNumber"> 017 </span>๕.  อัฑฒมณฑล                                             พาหันตะ.
+<span class="LineNumber"> 018 </span>๖.  มณฑล	                                              อนุวิวัฏฏะ.
+<span class="LineNumber"> 019 </span>๗.  อัฑฒกุสิ.
+<span class="LineNumber"> 020 </span>๘.  กุสิ.
+

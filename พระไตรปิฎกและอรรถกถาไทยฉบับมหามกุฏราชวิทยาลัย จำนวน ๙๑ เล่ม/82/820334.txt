@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>สุทธายตนมูลจักกวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>         [๒๙๔]   ธรรมที่ชื่อว่าจักขุ,   ชื่อว่าอายตนะ  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าอายตนะ   ชื่อว่าโสตายตะ   ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         โสตายตนะชื่อว่าอายตนะด้วย   ชื่อว่าโสตายตนะด้วย,   อายตนะ
+<span class="LineNumber"> 006 </span>ที่เหลือนอกนั้นชื่อว่าอายตนะ   แต่ไม่ชื่อว่าโสตายตนะ. 
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าจักขุ,   ชื่อว่าอายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ธรรมที่ชื่อว่าอายตนะ,   ชื่อว่าฆานายตนะ   ใช่ไหม  ?                
+<span class="LineNumber"> 010 </span>                                           ฯ ล ฯ
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าอายตนะ,  ไม่ชื่อว่าธัมมายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ธัมมายตนะชื่อว่าอายตนะด้วย   ชื่อว่าธัมมายตนะด้วย,  อายตนะ
+<span class="LineNumber"> 013 </span>ที่เหลือนอกนั้นชื่อว่าอายตนะ   แต่ไม่ชื่อว่าธัมมายตนะ.
+<span class="LineNumber"> 014 </span>         ธรรมที่ชื่อว่าโสตะ,   ชื่อว่าอายตนะ   ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>         ธรรมที่ชื่อว่าอายตนะ,   ชื่อว่าจักขายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 017 </span>                                            ฯ ล ฯ
+<span class="LineNumber"> 018 </span>         ธรรมที่ไม่ชื่อว่าจักขายตนะ   ฯ ล ฯ
+

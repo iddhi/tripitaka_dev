@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 369
+
+<span class="LineNumber"> 002 </span>	[๑๐๒๗]เอวฺจ(๑) เต ลทฺธมิทํ วิมานํ  
+<span class="LineNumber"> 003 </span>		ชานาสิ ปุฺาน ผลูปปตฺตึ  
+<span class="LineNumber"> 004 </span>		ตสฺมา หิ ธมฺมฺจร อปฺปมตฺตา  
+<span class="LineNumber"> 005 </span>		ยถา วิมานํ ปุน มาวเสสีติ(๒) ฯ  
+<span class="LineNumber"> 006 </span>	วิมลา อาห  
+<span class="LineNumber"> 007 </span>	[๑๐๒๘]มยีธ สนฺตี (๓)สมณพฺราหฺมณา จ  
+<span class="LineNumber"> 008 </span>		เยสนฺนปานานิ ทเทมุ กตฺเต  
+<span class="LineNumber"> 009 </span>		อกฺขาหิ เม ปุจฺฉิโต เอตมตฺถํ  
+<span class="LineNumber"> 010 </span>		ยถา วิมานํ ปุน มาวเสมาติ(๔) ฯ  
+<span class="LineNumber"> 011 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 012 </span>	[๑๐๒๙]โภคี หิ เต สนฺติ อิธูปปนฺนา  
+<span class="LineNumber"> 013 </span>		ปุตฺตา จ สามี(๕) อนุชีวโน จ  
+<span class="LineNumber"> 014 </span>		เตสุ ตุวํ วจสา กมฺมุนา จ  
+<span class="LineNumber"> 015 </span>		อสมฺปทุฏฺ€า จ ภวาหิ นิจฺจํ  
+<span class="LineNumber"> 016 </span>		เอวํ ตุวํ นาคิ อสมฺปโทสํ  
+<span class="LineNumber"> 017 </span>		อนุปาลย วจสา กมฺมุนา จ  
+<span class="LineNumber"> 018 </span>		€ตฺวา อิธ ยาวตายุกํ วิมาเน  
+<span class="LineNumber"> 019 </span>		อุทฺธํ อิโต คจฺฉสิ เทวโลกนฺติ(๖) ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. เอวํ เจ ฯ  ๒. ม. มาวเสสิ ฯ  ๓. ม. นยิธ สนฺติ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม.มาวเสม ฯ  ๕. ม. ทารา ฯ  ๖. ม. เทวโลกํ ฯ

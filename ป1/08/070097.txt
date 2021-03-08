@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>ยกศัพท์ <B>  ย </B> กับ<B>   ภิกฺขุ </B>  ขึ้นแจกเปรียบเทียบในวาระเดียวกัน  พอ
+<span class="LineNumber"> 002 </span>เป็นตัวอย่าง  ดังต่อไปนี้ :-   
+<span class="LineNumber"> 003 </span>        วิภัตติ                    เอก.                                           พหุ.
+<span class="LineNumber"> 004 </span>                         สัพพนาม    นามนาม                 สัพพนาม    นามนาม
+<span class="LineNumber"> 005 </span>ป.                          <B>โย              ภิกฺขุ                         เย               ภิกฺขโว</B>
+<span class="LineNumber"> 006 </span>ทุ.                            <B>ยํ              ภิกฺขุ                         เย               ภิกฺขโว</B>
+<span class="LineNumber"> 007 </span>ต.                           <B>เยน            ภิกฺขุนา                    เยหิ             ภิกฺขูหิ</B>
+<span class="LineNumber"> 008 </span>จ.                          <B>ยสฺส             ภิกฺขุสฺส                    เยสํ             ภิกฺขูนํ</B>
+<span class="LineNumber"> 009 </span>ปญฺ.                     <B>ยสฺมา            ภิกฺขุสฺมา                  เยหิ             ภิกฺขูหิ</B>
+<span class="LineNumber"> 010 </span>ฉ.                          <B>ยสฺส              ภิกฺขุสฺส                    เยสํ             ภิกฺขูนํ</B>
+<span class="LineNumber"> 011 </span>ส.                          <B>ยสฺมึ              ภิกฺขุสฺมึ                    เยสุ  ภิกฺขูสุ</B>
+<span class="LineNumber"> 012 </span>	ตามรูปแจกเปรียบเทียบข้างบนนี้  ผู้ศึกษาคงเห็นได้แล้วว่า
+<span class="LineNumber"> 013 </span>สัพพนาม  กับ นามนาม  ต้องมี ลิงค์  วจนะ  วิภัตติ  ตรงกัน
+<span class="LineNumber"> 014 </span>อย่างไร  นี่เป็นแต่เพียงระหว่าง <B>ย</B> สัพพนาม  กับ นามนาม ที่เป็น
+<span class="LineNumber"> 015 </span>อุ การันต์ คือ <B>ภิกฺขุ</B>  ซึ่งอยู่ในฐานะที่เป็น  <B>ปุํลิงค์</B> ด้วยกัน.  ส่วน
+<span class="LineNumber"> 016 </span>สัพพนามอื่น  และนามที่เป็นลิงค์อื่น การันต์อื่นนั้น  ก็พึงฝึกหัด
+<span class="LineNumber"> 017 </span>แจกตามแบบเปรียบเทียบนี้ ตามลิงค์  และการันต์นั้น  ๆ เถิด.

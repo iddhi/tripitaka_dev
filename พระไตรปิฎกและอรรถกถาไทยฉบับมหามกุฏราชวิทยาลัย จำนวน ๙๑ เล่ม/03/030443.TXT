@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>คำสั่งสร้างวิหารให้แก่เธอ  ซึ่งมีพื้นที่อันสงฆ์แสดงให้   ไม่มีผู้จองไว้  มี
+<span class="LineNumber"> 002 </span>ชานรอบ  ไม่ต้องอาบัติ.
+<span class="LineNumber"> 003 </span>                                <H2>สร้างค้าง  สร้างต่อ</H2>
+<span class="LineNumber"> 004 </span>         [๕๓๖]   วิหารที่ตนสร้างค้างไว้  ภิกษุสร้างต่อให้สำเร็จด้วยตนเอง
+<span class="LineNumber"> 005 </span>ต้องอาบัติสังฆาทิเสส
+<span class="LineNumber"> 006 </span>        วิหารที่คนสร้างค้างไว้     ภิกษุให้คนอื่นสร้างต่อให้สำเร็จ     คือ
+<span class="LineNumber"> 007 </span>อาบัติสังฆาทิเสส
+<span class="LineNumber"> 008 </span>        วิหารที่คนอื่นสร้างค้างไว้  ภิกษุสร้างต่อให้สำเร็จด้วยตนเอง    ต้อง
+<span class="LineNumber"> 009 </span>อาบัติสังฆาทิเสส
+<span class="LineNumber"> 010 </span>        วิหารที่คนอื่นสร้างค้างไว้   ภิกษุให้คนอื่นสร้างต่อให้สำเร็จ    ต้อง
+<span class="LineNumber"> 011 </span>อาบัติสังฆาทิเสส.
+<span class="LineNumber"> 012 </span>                                   <H1>อนาปัตติวาร</H1>
+<span class="LineNumber"> 013 </span>           [๕๓๗]   ภิกษุสร้างถ้ำ  ๑   ภิกษุสร้างคูหา ๑   ภิกษุสร้างกุฎีหญ้า ๑
+<span class="LineNumber"> 014 </span>ภิกษุสร้างวิหารเพื่อภิกษุอื่น ๑    เว้นอาคารเป็นที่อยู่เสีย     ภิกษุสร้างนอก
+<span class="LineNumber"> 015 </span>จากนั้น   ๑   ภิกษุวิกลจริต ๑   ภิกษุอาทิกัมมิกะ  ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 016 </span>                        <I>สังฆาทิเสสสิกขาบทที่  ๗  จบ</I>

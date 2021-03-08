@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>				<H1>อาจยคามิติกสรณทุกะ</H1> 
+<span class="LineNumber"> 002 </span>			 <H2>(๑๐.  อาจยคามิติกะ  ๑๐๐.  สรณทุกะ)</H2>
+<span class="LineNumber"> 003 </span>					  <H1>สรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>					    <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 006 </span>		[๙๐๓]  ๑.  สรณธรรมที่เป็นอาจยคามิธรรม  อาศัยสรณธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นอาจยคามิธรรม   เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                      	  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>		[๙๐๔]  ในเหตุปัจจัย  มี ๑ วาระ  ฯลฯ  ในอวิคตปัจจัย มี  ๑ วาระ.
+<span class="LineNumber"> 010 </span>           	สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  ทุกปัจจัย   มี ๑ วาระ.
+
+<span class="LineNumber"> 011 </span>                          		<H1>อรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 012 </span>                           		  <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 013 </span>                                           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๙๐๕]  ๑.  อรณธรรมที่เป็นอาจยคามิธรรม   อาศัยอรณธรรม
+<span class="LineNumber"> 015 </span>ที่เป็นอาจยคามิธรรม  เกิดขึ้น   เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>			     ๔.  อรณธรรมที่เป็นอปจยคามิธรรม  อาศัยอรณธรรม
+<span class="LineNumber"> 017 </span>ที่เป็นอปจยคามิธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓  วาระ.			

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  อินทรีย์ทั้งหลายที่เป็นอเหตุกธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 002 </span>และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของอินทริยปัจจัย. 
+<span class="LineNumber"> 003 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 004 </span>           จักขุนทรีย์เป็นปัจจัยแก่จักขุวิญญาณ ฯลฯ กายินทรีย์   เป็นปัจจัยแก่
+<span class="LineNumber"> 005 </span>กายวิญญาณ  ด้วยอำนาจของอินทริยปัจจัย.
+<span class="LineNumber"> 006 </span>           รูปชีวิตินทรีย์    เป็นปัจจัยแก่กฏัตตารูปทั้งหลาย    ด้วยอำนาจของ
+<span class="LineNumber"> 007 </span>อินทริยปัจจัย
+
+<span class="LineNumber"> 008 </span>                                        <H1>๑๗.  ฌานปัจจัย</H1> 
+<span class="LineNumber"> 009 </span>           [๙๓] ๑.  <B>สเหตุกธรรม     เป็นปัจจัยแก่สเหตุกธรรม    ด้วย
+<span class="LineNumber"> 010 </span>อำนาจของฌานปัจจัย</B>   มี ๓ วาระ  (วาระที่ ๑-๓)
+<span class="LineNumber"> 011 </span>                     ๔.  <B>อเหตุกธรรม     เป็นปัจจัยแก่อเหตุกธรรม    ด้วย
+<span class="LineNumber"> 012 </span>อำนาจของฌานปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  องค์ฌานทั้งหลายที่เป็นอเหตุกธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 014 </span>และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของฌานปัจจัย.
+<span class="LineNumber"> 015 </span>           ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 016 </span>                                         <H1>๑๘.  มัคคปัจจัย</H1>
+<span class="LineNumber"> 017 </span>           [๙๔]  ๑.  <B>สเหตุกธรรม    เป็นปัจจัยแก่สเหตุกธรรม    ด้วย
+<span class="LineNumber"> 018 </span>อำนาจของมัคคปัจจัย</B>  มี ๓ วาระ  (วาระที่ ๑-๓)

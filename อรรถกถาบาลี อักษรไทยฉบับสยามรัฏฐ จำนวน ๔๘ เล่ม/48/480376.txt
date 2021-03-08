@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  376
+
+<span class="LineNumber"> 002 </span>		ธมฺมตณฺหานทุกฺขสมุทโยติกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  ธมฺมตณฺหา  น  ทุกฺขสมุทโยติกถา  นาม  โหติ ฯ 
+<span class="LineNumber"> 004 </span>ตตฺราปิ  ยสฺมา  สา  ธมฺมตณฺหาติ  วุตฺตา  ตสฺมา  น
+<span class="LineNumber"> 005 </span>ทุกฺขสมุทโยติ  เยสํ  ลทฺธิ เสยฺยถาปิ  ปุพฺพเสลิยานํเยว  เต 
+<span class="LineNumber"> 006 </span>สนฺธาย  ปุจฺฉา  สกวาทิสฺส  ปฏิฺา อิตรสฺส ฯ เสสํ
+<span class="LineNumber"> 007 </span>ปุริมกถาสทิสเมวาติ ฯ 
+<span class="LineNumber"> 008 </span>		ธมฺมตณฺหานทุกฺขสมุทโยติกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 009 </span>			เตรสโม วคฺโค สมตฺโต ฯ 
+
+<span class="LineNumber"> 010 </span>		กุสลากุสลปฏิสนฺทหนกถาวณฺณนา 
+<span class="LineNumber"> 011 </span>	อิทานิ  กุสลากุสลปฏิสนฺทหนกถา  นาม  โหติ ฯ  ตตฺถ
+<span class="LineNumber"> 012 </span>กุสลํ  วา  อกุสลสฺส  อกุสลํ  วา  กุสลสฺส  อนนฺตรา  อุปฺปชฺชนกํ 
+<span class="LineNumber"> 013 </span>นาม  นตฺถีติ  เตสํ อฺมฺํ  ปฏิสนฺทหนํ  (๑)  น  ยุชฺชติ ฯ
+<span class="LineNumber"> 014 </span>เย  ปน  ยสฺมา เอกวตฺถุสฺมิฺเว รชฺชติ วิรชฺชติ  จ  ตสฺมา
+<span class="LineNumber"> 015 </span>ตํ  อฺมฺํ  ปฏิสนฺทหตีติ  ลทฺธึ คเหตฺวา €ิตา เสยฺยถาปิ
+<span class="LineNumber"> 016 </span>มหาสงฺฆิกานํ  (๒) เต สนฺธาย ปุจฺฉา สกวาทิสฺส ปฏิฺา
+<span class="LineNumber"> 017 </span>อิตรสฺส ฯ อาวชฺชนา(๓) ปณิธีติ อุภยํ  อาวชฺชนสฺเสว  นามํ ฯ
+<span class="LineNumber"> 018 </span>ตฺหิ  ภวงฺคํ  อาวชฺเชตีติ อาวชฺชนา ภวงฺคารมฺมณโต
+<span class="LineNumber"> 019 </span>อฺสฺมึ  อารมฺมเณ  จิตฺตํ  ปณิทหติ  €เปตีติ  ปณิธิ ฯ  กุสลํ
+<span class="LineNumber"> 020 </span># ๑. ม. ปฏิสนฺธานํ ฯ  ๒. ม. มหาสงฺฆิกา ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. อาวฏฺฏนา ฯ  เอวมุปริปิ ฯ

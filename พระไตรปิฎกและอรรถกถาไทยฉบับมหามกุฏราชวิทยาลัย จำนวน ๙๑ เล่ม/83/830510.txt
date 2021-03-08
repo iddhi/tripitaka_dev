@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า  บุคคลไม่กำหนดรู้ภวราคานุสัย    จากที่ใด,   ย่อมไม่ 
+<span class="LineNumber"> 002 </span>กำหนดรู้มานานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         บุคคลย่อมไม่กำหนดรู้ภวราคานุสัย  จากที่นั้น    คือที่เวทนา ๒
+<span class="LineNumber"> 004 </span>ในกามธาตุ    แต่จะไม่ใช่ไม่กำหนดรู้มานานุสัย   จากที่นั้น,  บุคคลย่อม
+<span class="LineNumber"> 005 </span>กำหนดรู้ภวราคานุสัย    และไม่กำหนดรู้มานานุสัย  จากที่นั้น    คือใน
+<span class="LineNumber"> 006 </span>ทุกขเวทนา    ที่อปริยาปันนธรรม.
+<span class="LineNumber"> 007 </span>                        <I>จบ  มานานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 008 </span><H2>มานานุสยมูละ   อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 009 </span>         บุคคล    ไม่กำหนดรู้มานานุสัย    จากที่ใด,   ย่อมไม่กำหนดรู้
+<span class="LineNumber"> 010 </span>อวิชชานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         บุคคลย่อมไม่กำหนดรู้มานานุสัย   จากที่นั้น    คือที่ทุกขเวทนา
+<span class="LineNumber"> 012 </span>แต่จะไม่ใช่ไม่กำหนดรู้อวิชชานุสัย    จากที่นั้น,  บุคคลย่อมไม่กำหนดรู้
+<span class="LineNumber"> 013 </span>มานานุสัย  และไม่กำหนดรู้อวิชชานุสัย  จากที่นั้น    คือที่อปริยาปันน-
+<span class="LineNumber"> 014 </span>ธรรม.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า   บุคคลไม่กำหนดรู้อวิชชานุสัย     จากที่ใด     ย่อมไม่ 
+<span class="LineNumber"> 016 </span>กำหนดรู้มานานุสัย  จากที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ใช่.               
+<span class="LineNumber"> 018 </span>                         <I>จบ  มานานุสยมูละ   อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 019 </span>                                       <I>มานานุสยมูล  จบ</I>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>อัฏฐกมาติกา</H1> 
+<span class="LineNumber"> 002 </span>           [๕๑๐]  <B>สงเคราะห์รูปเป็นหมวดละ   ๘</B>
+<span class="LineNumber"> 003 </span>           รูปอันจักขุวิญญาณพึงรู้,  รูปอันโสตวิญญาณพึงรู้, รูปอันฆานวิญญาณ
+<span class="LineNumber"> 004 </span>พึงรู้,  รูปอันชิวหาวิญญาณพึงรู้.    รูปอันกายวิญญาณพึงรู้   ที่มีสัมผัสเป็นสุข
+<span class="LineNumber"> 005 </span>ก็มี,  ที่มีสัมผัสเป็นทุกข์ก็มี.   รูปอันมโนธาตุพึงรู้  รูปอันมโนวิญญาณธาตุพึงรู้
+<span class="LineNumber"> 006 </span>           สงเคราะห์รูปเป็นหมวดละ  ๘  อย่างนี้.
+<span class="LineNumber"> 007 </span>                                       <I>อัฏฐกมาติกา  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                           <H1>นวกมาติกา</H1>
+<span class="LineNumber"> 009 </span>           [๕๑๑]  <B>สงเคราะห์รูปเป็นหมวดละ  ๙</B>
+<span class="LineNumber"> 010 </span>           จักขุนทรีย์,   โสตินทรีย์,    ฆานินทรีย์,   ชิวหินทรีย์,  กายินทรีย์,
+<span class="LineNumber"> 011 </span>อิตถินทรีย์,  ปุริสินทรีย์,  ชีวิตินทรีย์,  และรูปที่ไม่เป็นอินทรีย์
+<span class="LineNumber"> 012 </span>           สงเคราะห์รูปเป็นหมวดละ  ๙   อย่างนี้.
+<span class="LineNumber"> 013 </span>                                        <I>นวกมาติการ   จบ</I>
+
+<span class="LineNumber"> 014 </span>                                             <H1>ทสกมาติกา</H1>
+<span class="LineNumber"> 015 </span>           [๕๑๒]  <B>สงเคราะห์รูปเป็นหมวดละ  ๑๐</B>
+<span class="LineNumber"> 016 </span>           จักขุนทรีย์,  โสตินทรีย์,  ฆานินทรีย์,  ชิวหินทรีย์,  กายินทรีย์,
+<span class="LineNumber"> 017 </span>อิตถินทรีย์,  ปุริสินทรีย์,  ชีวิตินทรีย์,  รูปไม่เป็นอินทรีย์ที่กระทบได้ก็มี,
+<span class="LineNumber"> 018 </span>ที่กระทบไม่ได้ก็มี
+<span class="LineNumber"> 019 </span>           สงเคราะห์รูปเป็นหมวดละ   ๑๐  อย่างนี้.
+<span class="LineNumber"> 020 </span>                                           <I>ทสกมาติกา   จบ</I>

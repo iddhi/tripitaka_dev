@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  นวมวคฺเค กสฺสปตฺเถรคาถาวณฺณนา   หน้า 385
+	
+<span class="LineNumber"> 002 </span>	อรหตฺตํ  ปน  ปตฺวา  อิทเมว มาตุ วจนํ อรหตฺตปฺปตฺติยา 
+<span class="LineNumber"> 003 </span>องฺกุสํ ชาตนฺติ ตเมว คาถํ ปจฺจุทาหาสิ ฯ  
+<span class="LineNumber"> 004 </span>		กสฺสปตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+
+<span class="LineNumber"> 005 </span>			สีหตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 006 </span>	สีหปฺปมตฺโต วิหราติ อายสฺมโต สีหตฺเถรสฺส คาถา ฯ
+<span class="LineNumber"> 007 </span>กา อุปฺปตฺติ  
+<span class="LineNumber"> 008 </span>	โส  กิร  ปุริมพุทฺเธสุ กตาธิกาโร อิโต อฏฺ€ารสกปฺป-
+<span class="LineNumber"> 009 </span>สตมตฺถเก (๑) อตฺถทสฺสิสฺส ภควโต  กาเล  จนฺทภาคาย  นทิยา 
+<span class="LineNumber"> 010 </span>ตีเร  กินฺนรโยนิยํ  นิพฺพตฺติตฺวา  ปุปฺผภกฺโข ปุปฺผนิวสโน  
+<span class="LineNumber"> 011 </span>หุตฺวา  วิหรนฺโต  อากาเสน  คจฺฉนฺตํ  อตฺถทสฺสึ  ภควนฺตํ  
+<span class="LineNumber"> 012 </span>ทิสฺวา ปสนฺนจิตฺโต  ปูเชตุกาโม  อฺชลึ  ปคฺคยฺห  อฏฺ€าสิ ฯ 
+<span class="LineNumber"> 013 </span>ภควา  ตสฺส  อชฺฌาสยํ ตฺวา อากาสโต  โอรุยฺห  อฺตรสฺมึ 
+<span class="LineNumber"> 014 </span>รุกฺขมูเล  ปลฺลงฺเกน  นิสีทิ ฯ  กินฺนโร จนฺทนสารํ ฆํสิตฺวา  
+<span class="LineNumber"> 015 </span>จนฺทนคนฺเธน  ปุปฺเผหิ จ ปูชํ กตฺวา วนฺทิตฺวา ปทกฺขิณํ
+<span class="LineNumber"> 016 </span>กตฺวา ปกฺกามิ ฯ	
+<span class="LineNumber"> 017 </span>	โส  เตน  ปุฺกมฺเมน เทวมนุสฺเสสุ สํสรนฺโต อิมสฺมึ 
+<span class="LineNumber"> 018 </span>พุทฺธุปฺปาเท มลฺลราชกุเล (๒) นิพฺพตฺติ  ตสฺส  สีโหติ  นามํ  
+<span class="LineNumber"> 019 </span>อโหสิ ฯ  โส ภควนฺตํ ทิสฺวา ปสนฺนมานโส วนฺทิตฺวา 
+<span class="LineNumber"> 020 </span># ๑. สี. อฏฺ€ารสาธิกกปฺปสตมตฺถเก ฯ 
+<span class="LineNumber"> 021 </span># ๒. สี. มลฺลรฏฺเ€ มลฺลราชกุเล ฯ 

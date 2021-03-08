@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                     ๓.  <B>อุปาทาธรรม       และธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 002 </span>อาศัยธรรมที่ไม่ใช่อุปาทาธรรม  เกิดขึ้น  เพราะนอาหารปัจจัย</B>
+<span class="LineNumber"> 003 </span>         คือ  พาหิรรูป. . .อุตุสมุฏฐานรูป... มหาภูตรูป ๓  และอุปาทารูป
+<span class="LineNumber"> 004 </span>อาศัยมหาภูตรูป ๑ ฯลฯ
+
+<span class="LineNumber"> 005 </span>                                     <H2>๑๔. นอินทริยปัจจัย</H2>
+<span class="LineNumber"> 006 </span>         [๓๐๓] ๑.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม      อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 007 </span>อุปาทาธรรม  เกิดขึ้น  เพราะนอินทริยปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ  พาหิรรูป. . .อาหารสมุฏฐานรูป. . .อุตุสมุฏฐานรูป. . .ฯลฯ
+<span class="LineNumber"> 009 </span>อาศัยมหาภูตรูป  
+<span class="LineNumber"> 010 </span>                     ๒.  <B>อุปาทาธรรม      อาศัยธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะนอินทริยปัจจัย</B>
+<span class="LineNumber"> 012 </span>         คือ  พาหิรรูป. . . อาหารสมุฏฐานรูป. . .อุตุสมุฏฐานรูป  ฯลฯ
+<span class="LineNumber"> 013 </span>อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 014 </span>         อสัญญสัตว์ทั้งหลาย  รูปชีวิตินทรีย์  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 015 </span>                      ๓.  <B>อุปาทาธรรม       และธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 016 </span>อาศัยธรรมที่ไม่ใช่อุปาทาธรรม  เกิดขึ้น  เพราะนอินทริยปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  พาหิรรูป. . .อาหารสมุฏฐานรูป. . .อุตุสมุฏฐานรูป  ฯลฯ
+<span class="LineNumber"> 018 </span>อาศัยมหาภูตรูป ๑ ฯลฯ

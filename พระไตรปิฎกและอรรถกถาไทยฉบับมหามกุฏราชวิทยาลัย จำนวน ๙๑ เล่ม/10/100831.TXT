@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.   รู้วัตถุ  
+<span class="LineNumber"> 002 </span>           ๒.   รู้นิทาน
+<span class="LineNumber"> 003 </span>           ๓.   รู้บัญญัติ
+<span class="LineNumber"> 004 </span>           ๔.   รู้บทอันตกหล่นภายหลัง
+<span class="LineNumber"> 005 </span>           ๕.   รู้ทางถ้อยคำอันเข้าสนธิกันได้
+<span class="LineNumber"> 006 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์  ๕  นี้แล    ถึงความนับว่าเป็นผู้
+<span class="LineNumber"> 007 </span>ฉลาดแท้ 
+
+<span class="LineNumber"> 008 </span>                          <H1>องค์ของภิกษุผู้โง่แท้อีกนัยหนึ่ง</H1> 
+<span class="LineNumber"> 009 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕ แม้อื่นอีก  ถึงความนับว่าเป็น
+<span class="LineNumber"> 010 </span>ผู้โง่แท้   องค์ ๕  อะไรบ้าง  คือ :-
+<span class="LineNumber"> 011 </span>           ๑.  ไม่รู้อาบัติ
+<span class="LineNumber"> 012 </span>           ๒.  ไม่รู้สมุฏฐานอาบัติ
+<span class="LineNumber"> 013 </span>           ๓.  ไม่รู้ประโยคอาบัติ
+<span class="LineNumber"> 014 </span>           ๔.  ไม่รู้ความระงับอาบัติ
+<span class="LineNumber"> 015 </span>           ๕.  ไม่ฉลาดในการวินิจฉัยอาบัติ
+<span class="LineNumber"> 016 </span>           ดูก่อนอุบาลี    ภิกษุประกอบด้วยองค์ ๕ นี้แล    ถึงความนับว่าเป็นผู้
+<span class="LineNumber"> 017 </span>โง่แท้
+
+<span class="LineNumber"> 018 </span>                                  <H1>องค์ของภิกษุผู้ฉลาดแท้</H1> 
+<span class="LineNumber"> 019 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์  ๕  ถึงความนับว่าเป็นผู้ฉลาดแท้
+<span class="LineNumber"> 020 </span>องค์ ๕  อะไรบ้าง  คือ :-

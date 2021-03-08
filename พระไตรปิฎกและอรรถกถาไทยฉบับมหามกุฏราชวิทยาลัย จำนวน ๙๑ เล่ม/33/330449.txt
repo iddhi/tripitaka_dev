@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                         <H3>อรรถกถาสูตรที่  ๑๐</H3>
+
+<span class="LineNumber"> 002 </span>         ใน<B>สูตรที่  ๑๐</B>  (ข้อ ๓๔๑)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า   <B>ธาตุกุสลตา</B>  ได้แก่  รู้ธาตุ  ๑๘ อย่าง  ว่าเป็นธาตุ.
+<span class="LineNumber"> 004 </span>         บทว่า   <B>มนสิการกุสลตา</B>  ได้แก่   รู้ธาตุเหล่านั้นนั่นแล ยกขึ้นสู่
+<span class="LineNumber"> 005 </span>ลักษณะ  ๓  มีอนิจจลักษณะเป็นต้น.
+<span class="LineNumber"> 006 </span>                                             จบอรรถกถาสูตรที่  ๑๐
+
+<span class="LineNumber"> 007 </span>                         <H3>อรรถกถาสูตรที่ ๑๑</H3>
+
+<span class="LineNumber"> 008 </span>         ใน<B>สูตรที่  ๑๑</B>  (ข้อ ๓๔๒)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 009 </span>         บทว่า    <B>อาปตฺติกุสลตา</B>  ได้แก่  รู้อาบัติ  ๕  กอง  และ  ๗  กอง.
+<span class="LineNumber"> 010 </span>         บทว่า   <B>อาปตฺติวุฏฺ€านกุสลตา</B>   ได้แก่    รู้การออกจากอาบัติทั้ง
+<span class="LineNumber"> 011 </span>หลาย  ด้วยการแสดงอาบัติก็ตาม  ด้วยสวดกรรมวาจาก็ตาม.
+<span class="LineNumber"> 012 </span>                                        จบอรรถกถาสูตรที่   ๑๑
+<span class="LineNumber"> 013 </span>                                 <I>จบธรรมวรรคที่ ๔</I>

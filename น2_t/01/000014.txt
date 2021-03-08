@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                              องค์ที่ ๒
+<span class="LineNumber"> 002 </span>                     แต่งอธิบายเป็นทำนองเทศนาโวหาร
+
+<span class="LineNumber"> 003 </span>           ๑.  ในชั้นต้น  นักเรียนพึงทราบก่อนว่า  การแต่งหนังสือมี ๔
+<span class="LineNumber"> 004 </span>ทำนอง  คือ :-     
+<span class="LineNumber"> 005 </span>           ( ๑ )  ทำนองอธิบาย
+<span class="LineNumber"> 006 </span>           ( ๒ )  ทำนองบรรยาย
+<span class="LineNumber"> 007 </span>           ( ๓ )  ทำนองพรรณนา
+<span class="LineNumber"> 008 </span>           ( ๔ )  ทำนองเทศน์  ที่ท่านเรียกว่าเทศนาโวหาร
+<span class="LineNumber"> 009 </span>ใน ๔ ทำนองนี้  ทำนองเทศน์เป็นยอดของทำนองอื่น ๆ  และเป็นของ
+<span class="LineNumber"> 010 </span>ยากกว่าทำนองใด ๆ เหมือนกัน   เมื่อแต่งทำนองเทศน์ได้แล้ว  ก็เป็น
+<span class="LineNumber"> 011 </span>อันแต่งทำนองอื่น ๆ  ได้ด้วย   เราะเป็นยอดและเป็นของยากดังกล่าว
+<span class="LineNumber"> 012 </span>แล้ว  นอกจากนี้  ทำนองเทศน์เป็นทำนองโดยตรงของพระ  หรือ
+<span class="LineNumber"> 013 </span>กล่าวอีกนัยหนึ่งว่า  ทำนองเทศน์เป็นทำนองที่เหมาะสำหรับน้อมนำ
+<span class="LineNumber"> 014 </span>พระพุทธศาสนามาสั่งสอนแก่พุทธมามกชน  น่าจะเป็นเพราะเหตุดัง
+<span class="LineNumber"> 015 </span>กล่าวมาแล้วนี้  ท่านจึงได้แต่งเป็นทำนองเทศน์.
+<span class="LineNumber"> 016 </span>           ๒.  การแต่งเป็นทำนองเทศน์นั้น  มีหลักสำคัญ ๆ  ดังจะกล่าว
+<span class="LineNumber"> 017 </span>ต่อไปนี้ :-
+<span class="LineNumber"> 018 </span>           ( ๑ )  ไม่ใช้ถ้อยคำกระทบตนและผู้อื่น.
+<span class="LineNumber"> 019 </span>           ( ๒ )  ไม่ใช้ถ้อยคำและสำนวนที่ห้วน ๆ สั้น ๆ.
