@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  38  กามสุตฺตนิทฺเทสวณฺณนา  หน้า  103
+
+<span class="LineNumber"> 002 </span>	โสกปริเทวทุกฺขโทมนสฺสุปายาสทุกฺขนฺติ  เอตฺถ  โสกาทีสุ  
+<span class="LineNumber"> 003 </span>โสโก  นาม  าติพฺยสนาทีหิ  ผุฏฺ€สฺส  อนฺโตนิชฺฌานํ  (๑) ลกฺขณโต 
+<span class="LineNumber"> 004 </span>จิตฺตสนฺตาโป ฯ ทุกฺขฏฺโ€  (๒)  ปนสฺส ทุกฺขทุกฺขตฺตา เจว ทุกฺขสฺส
+<span class="LineNumber"> 005 </span>จ วตฺถุภาวโต ฯ เตเนตํ วุจฺจติ  
+<span class="LineNumber"> 006 </span>		สตฺตานํ หทยํ โสโก  		วิสสลฺลํว (๓)  ตุชฺชติ 
+<span class="LineNumber"> 007 </span>		อคฺคิตตฺโตว นาราโจ  		ภฺสํว (๔)  ฑหเต ปุน ฯ  
+<span class="LineNumber"> 008 </span>		สมาวหติ จ พฺยาธิ			ชรามรณเภทนํ  
+<span class="LineNumber"> 009 </span>		ทุกฺขฺจ (๕) วิวิธํ ยสฺมา 	ตสฺมา ทุกฺโขติ วุจฺจตีติ ฯ 
+<span class="LineNumber"> 010 </span>	ปริเทโว  นาม าติพฺยสนาทีหิ ผุฏฺ€สฺส วจีปลาโป ฯ 
+<span class="LineNumber"> 011 </span>ทุกฺโข ปนสฺส สํสารทุกฺขภาวโต ทุกฺขวตฺถุโต จ ฯ เตเนตํ 
+<span class="LineNumber"> 012 </span>วุจฺจติ  
+<span class="LineNumber"> 013 </span>		ยํ โสกสลฺลวิหโต ปริเทวมาโน  
+<span class="LineNumber"> 014 </span>		กณฺโ€ฏฺ€ตาลุคลโสสชมปฺปสยฺหํ 
+<span class="LineNumber"> 015 </span>		ภิยฺโยธิมตฺตมธิคจฺฉติ  เยน (๖) ทุกฺขํ  
+<span class="LineNumber"> 016 </span>		ทุกฺโขติ เตน ภควา ปริเทวมาหาติ ฯ 
+<span class="LineNumber"> 017 </span>	ทุกฺขํ  นาม  กายปีฬนลกฺขณํ  กายิกํ  ทุกฺขํ ฯ  ทุกฺขฏฺโ€
+<span class="LineNumber"> 018 </span>ปนสฺส  ทุกฺขทุกฺขตฺตา กายิกทุกฺขาวหนโต เจว มานสทุกฺขาวหนโต
+<span class="LineNumber"> 019 </span>จ ฯ เตเนตํ วุจฺจติ  
+<span class="LineNumber"> 020 </span># ๑. ม. อนฺโตนิชฺฌานลกฺขโณ ฯ  ๒. ม. ทุกฺโข ฯ  เอวมุปริปิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. สลฺลํ วิย วิตุชฺชติ ฯ  ๔. ม. ภุสฺจ ฯ  ๕. ม. ทุกฺขมฺปิ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. ภิยฺโยธิมตฺตมธิคจฺฉติเยว ฯ

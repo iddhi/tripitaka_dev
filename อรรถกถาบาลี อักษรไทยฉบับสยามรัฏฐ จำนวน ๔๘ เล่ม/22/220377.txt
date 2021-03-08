@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 22  เสลสุตฺตวณฺณนา หน้า 377
+
+<span class="LineNumber"> 002 </span>เตสุ  ทฺวีสุ  ลกฺขเณสุ  กงฺขี  อโหสิ  วิจิกิจฺฉี ฯ
+<span class="LineNumber"> 003 </span>	ตถารูปนฺติ กถํ รูปํฯ  กิเมตฺถ อเมฺหหิ วตฺตพฺพํฯ วุตฺตเมตํ
+<span class="LineNumber"> 004 </span>นาคเสนตฺเถเรเนว มิลินฺทรฺา ปุฏฺเ€น  ทุกฺกรํ ภนฺเต 
+<span class="LineNumber"> 005 </span>นาคเสน ภควตา กตนฺติ ฯ กึ มหาราชาติ ฯ  มหาชเนน 
+<span class="LineNumber"> 006 </span>หิริกรโณกาสํ พฺรหฺมายุพฺราหฺมณสฺส จ อนฺเตวาสิอุตฺตรสฺส  จ
+<span class="LineNumber"> 007 </span>พาวริสฺส อนฺเตวาสีนํ โสฬสนฺนํ พฺราหฺมณานฺจ เสลสฺส  
+<span class="LineNumber"> 008 </span>พฺราหฺมณสฺส อนฺเตวาสีนํ ติสตมาณวานฺจ ทสฺเสสิ ภนฺเตติ ฯ
+<span class="LineNumber"> 009 </span>น  มหาราช ภควา คุยฺหํ ทสฺเสติฯ ฉายํ ภควา ทสฺเสติฯ 
+<span class="LineNumber"> 010 </span>อิทฺธิยา  อภิสงฺขริตฺวา นิวาสนนิวตฺถํ กายพนฺธนพทฺธํ (๑)
+<span class="LineNumber"> 011 </span>จีวรปารุตํ ฉายารูปกมตฺตํ  ทสฺเสติ มหาราชาติ ฯ ฉายํ
+<span class="LineNumber"> 012 </span>ทิฏฺเ€ (๒)  สติ ทิฏฺโ€ เอว นนุ  ภนฺเตติ ฯ ติฏฺ€เตตํ มหาราชฯ 
+<span class="LineNumber"> 013 </span>หทยรูปํ ทิสฺวา พุชฺฌนกสตฺโต  ภเวยฺยฯ (๓)  หทยมํสํ 
+<span class="LineNumber"> 014 </span>นินฺนาเมตฺวา (๔)  ทสฺเสยฺย สมฺมาสมฺพุทฺโธติ ฯ กลฺโลสิ  ภนฺเต
+<span class="LineNumber"> 015 </span>นาคเสนาติ ฯ  
+<span class="LineNumber"> 016 </span>	นินฺนาเมตฺวาติ  นีหริตฺวา ฯ  กณฺณโสตานุมสเนน  เจตฺถ 
+<span class="LineNumber"> 017 </span>ทีฆภาโวฯ  นาสิกาโสตานุมสเนน  ตนุภาโวฯ  นลาฏจฺฉาทเนน 
+<span class="LineNumber"> 018 </span>ปุถุลภาโว  ปกาสิโตติ เวทิตพฺโพ ฯ  
+<span class="LineNumber"> 019 </span>	อาจริยปาจริยานนฺติ  อาจริยานฺเจว  อาจริยานํ
+<span class="LineNumber"> 020 </span>อาจริยานฺจ ฯ  สเก  วณฺเณติ  อตฺตโน  คุเณ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. กายพนฺธนพทฺธํ ฯ ๒. ม.ฉายารูเป ทิฏฺเ€ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม . ภเวยฺย ฯ  ๔. ม. นีหริตฺวา ฯ

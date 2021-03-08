@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H3>สูตรที่  ๔</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๖๖]  ๑๒๐.  ดูก่อนภิกษุทั้งหลาย     บุคคล ๒ จำพวกนี้ให้อิ่ม 
+<span class="LineNumber"> 003 </span>ได้ยาก  ๒  จำพวกเป็นไฉน  คือ  บุคคลผู้เก็บสิ่งที่ได้ไว้แล้ว ๆ  ๑  บุคคล
+<span class="LineNumber"> 004 </span>ผู่สละสิ่งที่ได้เเล้ว ๆ  ๑   ดูก่อนภิกษุทั้งหลาย    บุคคล  ๒  จำพวกนี้แลให้
+<span class="LineNumber"> 005 </span>อิ่มได้ยาก.
+<span class="LineNumber"> 006 </span>                                            จบสูตรที่  ๔
+
+<span class="LineNumber"> 007 </span>                                        <H3>สูตรที่  ๕</H3>
+
+<span class="LineNumber"> 008 </span>         [๓๖๗]  ๑๒๑.  ดูก่อนภิกษุทั้งหลาย   บุคคล ๒ จำพวกนี้ให้อิ่ม
+<span class="LineNumber"> 009 </span>ได้ง่าย   ๒ จำพวกเป็นไฉน   คือ  บุคคลผู้ไม่เก็บสิ่งที่คนได้ไว้แล้ว ๆ  ๑
+<span class="LineNumber"> 010 </span>บุคคลผู้ไม่สละสิ่งที่ตนได้แล้ว ๆ  ๑  ดูก่อนภิกษุทั้งหลาย บุคคล ๒ จำพวก
+<span class="LineNumber"> 011 </span>นี้แลให้อิ่มได้ง่าย.
+<span class="LineNumber"> 012 </span>                                             จบสูตรที่   ๕
+
+<span class="LineNumber"> 013 </span>                                         <H3>สูตรที่ ๖</H3>
+
+<span class="LineNumber"> 014 </span>         [๓๖๘]   ๑๒๒.  ดูก่อนภิกษุทั้งหลาย   ปัจจัยเพื่อความเกิดขึ้นแห่ง
+<span class="LineNumber"> 015 </span>ราคะ  ๒ อย่างนี้  ๒ อย่างเป็นไฉน  คือ สุภนิมิต  ๑  อโยนิโสมนสิการ  ๑
+<span class="LineNumber"> 016 </span>ดูก่อนภิกษุทั้งหลาย   ปัจจัยเพื่อความเกิดขึ้นแห่งราคะ  ๒  อย่างนี้แล.
+<span class="LineNumber"> 017 </span>                                               จบสูตรที่  ๖
+
+<span class="LineNumber"> 018 </span>                                         <H3>สูตรที่  ๗</H3>
+
+<span class="LineNumber"> 019 </span>         [๓๖๙]  ๑๒๓.  ดูก่อนภิกษุทั้งหลาย  ปัจจัยเพื่อความเกิดขึ้นแห่ง
+<span class="LineNumber"> 020 </span>โทสะ  ๒  อย่างนี้   ๒  อย่างเป็นไฉน  คือ  ปฏิฆนิมิต  ๑  อโยนิโสมนสิการ ๑

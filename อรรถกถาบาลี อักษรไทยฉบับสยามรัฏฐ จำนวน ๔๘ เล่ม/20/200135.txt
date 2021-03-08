@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  มุสาวาทสุตฺตวณฺณนา  หน้า 135
+
+<span class="LineNumber"> 002 </span>วิตฺวานาติ ฯ ทุกฺขสฺสนฺตกโร โหตีติ วฏฺฏทุกฺขสฺส  อนฺตกโร 
+<span class="LineNumber"> 003 </span>ปริโยสานกโร  โหติ ฯ  กถํ  สพฺพสฺโชนกฺขยาติ(๑) อนุปุพฺเพน 
+<span class="LineNumber"> 004 </span>อคฺคมคฺคํ  อธิคนฺตฺวา  นิรวเสสานํ  สํโยชนานํ  เขปนาติ
+<span class="LineNumber"> 005 </span>	อรหตฺตผเลเนว เทสนาย กูฏํ คณฺหิ ฯ
+<span class="LineNumber"> 006 </span>		จตุตฺถสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+
+<span class="LineNumber"> 007 </span>		มุสาวาทสุตฺตวณฺณนา
+<span class="LineNumber"> 008 </span>	ปฺจเม  เอกธมฺมํ  อตีตสฺสาติ  กา  อุปฺปตฺติ  ฯ
+<span class="LineNumber"> 009 </span>	ภควโต  ภิกฺขุสํฆสฺส จ  มหาลาภสกฺกาโร  อุปฺปชฺชติ(๒)
+<span class="LineNumber"> 010 </span>ติตฺถิยานํ  ปริหายิ ฯ  เต  หตลาภสกฺการา  นิปฺปภา นิตฺเตชา 
+<span class="LineNumber"> 011 </span>อิสฺสาปกตา  จิฺจมาณวิกํ  นาม  ปริพฺพาชิกํ  อุยฺโยเชสุํ(๓)  เอหิ 
+<span class="LineNumber"> 012 </span>ตฺวํ ภคินิ  สมณํ  โคตมํ  อภูเตน  อพฺภาจิกฺขสฺสูติ ฯ  สา  
+<span class="LineNumber"> 013 </span>ภควนฺตํ  จตุปริสมชฺเฌ ธมฺมํ  เทเสนฺตํ  อุปคนฺตฺวา  อภูเตน 
+<span class="LineNumber"> 014 </span>อพฺภาจิกฺขิตฺวา  สกฺเกนสฺสา  อภูตภาเว ปกาสิเต  มหาชเนน 
+<span class="LineNumber"> 015 </span>ธิ(๔)  กาฬกณฺณีติ  วิหารโต  นิกฺกฑฺฒาปิตา  ป€วิยา วิวเร  ทินฺเน
+<span class="LineNumber"> 016 </span>อวีจิชาลานํ  อินฺธนํ  หุตฺวาว  อวีจินิรเย  นิพฺพตฺติ  ภิยฺโยโส
+<span class="LineNumber"> 017 </span>มตฺตาย  ติตฺถิยานํ  ลาภสกฺกาโร  ปริหายิ ฯ  
+<span class="LineNumber"> 018 </span>	ภิกฺขู  ธมฺมสภายํ  กถํ  สมุฏฺ€าเปสส อาวุโส  จิฺจ-
+<span class="LineNumber"> 019 </span>มาณวิกา  เอวํ  อุฬารคุณํ  อคฺคทกฺขิเณยฺยํ  สมฺมาสมฺพุทฺธํ 
+<span class="LineNumber"> 020 </span># ๑. ม. อิติสทฺโท นตฺถิ ฯ  ๒. ม. อุปฺปชฺชิ ฯ  
+<span class="LineNumber"> 021 </span># ๓. ม. อุยฺโยเชสุํ ฯ  ๔. ม. ธี ฯ

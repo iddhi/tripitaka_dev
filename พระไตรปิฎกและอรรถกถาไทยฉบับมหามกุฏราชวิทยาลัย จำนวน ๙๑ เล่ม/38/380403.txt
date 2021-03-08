@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                       <H3>รวมพระสูตรที่มีในวรรคนี้.</H3>
+<span class="LineNumber"> 002 </span>        ๑.  อริยมรรคสูตร      ๒.   กัณหมรรคสูตร      ๓.   สัทธรรมสูตร
+<span class="LineNumber"> 003 </span>๔. สัปปุริสธรรมสูตร  ๕. อุปปาเทตัพพธรรมสูตร  ๖.อาเสวิตัพพธรรมสูตร
+<span class="LineNumber"> 004 </span>๗.  ภาเวตัพพธรรมสูตร   ๘. พหุลีกาตัพพธรรมสูตร   ๙. อนุสสริตัพพ- 
+<span class="LineNumber"> 005 </span>ธรรมสูตร   ๑๐. สัจฉิกาตัพพธรรมสูตร.                                     
+<span class="LineNumber"> 006 </span>                                          จบตติยปัณณาสก์

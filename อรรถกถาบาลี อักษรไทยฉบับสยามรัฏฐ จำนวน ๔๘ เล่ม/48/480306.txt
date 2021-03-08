@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  306
+
+<span class="LineNumber"> 002 </span>			เจตสิกกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  เจตสิกกถา  นาม  โหติ ฯ  ตตฺถ  ยสฺมา  ผสฺสิกาทโย 
+<span class="LineNumber"> 004 </span>นาม  นตฺถิ  ตสฺมา  เจตสิเกนาปิ  น  ภวิตพฺพํ  อิติ  นตฺถิ  เจตสิโก
+<span class="LineNumber"> 005 </span>ธมฺโมติ เยสํ  ลทฺธิ  เสยฺยถาปิ  ราชคิริกสิทฺธตฺถิกานํ  เต  สนฺธาย 
+<span class="LineNumber"> 006 </span>ปุจฺฉา  สกวาทิสฺส ปฏิฺา  อิตรสฺส ฯ  สหชาโตติ  สมฺปยุตฺต-
+<span class="LineNumber"> 007 </span>สหชาตํ  สนฺธาย  วุตฺตํ ฯ ผสฺสิกาติ ตาทิสํ โวหารํ  อปสฺสนฺตสฺส 
+<span class="LineNumber"> 008 </span>ปุจฺฉา  สกวาทิสฺส(๑)  กึ  โวหาเรน  ยถา  จิตฺตนิสฺสิตโกติ เจตสิโก
+<span class="LineNumber"> 009 </span>เอวํ  โสปิ  ผสฺสนิสฺสิตตฺตา  ผสฺสิโกติ  วุตฺเต  โทโส นตฺถีติ
+<span class="LineNumber"> 010 </span>ปฏิฺา สกวาทิสฺส ฯ เสสํ อุตฺตานตฺถเมวาติ ฯ 
+<span class="LineNumber"> 011 </span>		เจตสิกกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 012 </span>			ทานกถาวณฺณนา 
+<span class="LineNumber"> 013 </span>	อิทานิ  ทานกถา  นาม  โหติ ฯ  ตตฺถ  ทานํ  นาม
+<span class="LineNumber"> 014 </span>ติวิธํ จาคเจตนาปิ  วิรติปิ  เทยฺยธมฺโมปิ ฯ  สทฺธา  หิริยํ
+<span class="LineNumber"> 015 </span>กุสลฺจ ทานนฺติ (๒) อาคตฏฺ€าเน จาคเจตนา ทานํ ฯ  อภยํ 
+<span class="LineNumber"> 016 </span>เทตีติ  (๓)  อาคตฏฺ€าเน  วิรติ ฯ  ทานํ  เทติ  อนฺนํ  ปานนฺติ 
+<span class="LineNumber"> 017 </span>อาคตฏฺ€าเน  เทยฺยธมฺโม ฯ  ตตฺถ  จาคเจตนา  เทติ  วา  เทยฺยธมฺมํ 
+<span class="LineNumber"> 018 </span>เทนฺติ วา  เอตาย  เทยฺยธมฺมนฺติ  ทานํ ฯ  วิรติ  อวขณฺฑนตฺเถน
+<span class="LineNumber"> 019 </span>ลวนฏฺเ€น  วา  ทานํ ฯ สา หิ  อุปฺปชฺชมานา  ภยเภรวาทิ-
+<span class="LineNumber"> 020 </span># ๑. ม. ปรวาทิสฺสฯ  ๒. องฺ. อฏฺ€ก. ๒๓/๑๒๒/๒๔๐ ฯ
+<span class="LineNumber"> 021 </span># ๓. องฺ. อฏฺ€ก. ๒๓/๑๒๙/๒๕๐ ฯ

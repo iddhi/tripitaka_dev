@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>ปัจจยวาระ</H2>  
+<span class="LineNumber"> 002 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                                       <H2>อัพยากตบท</H2>			
+<span class="LineNumber"> 005 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อัพยากตะ ที่เป็นอาสววิปปยุตตธรรม
+<span class="LineNumber"> 006 </span>แต่ไม่ใช่สาสวธรรม  อาศัยธรรมที่เป็นอัพยากตะ   ที่เป็นอาสววิปป-
+<span class="LineNumber"> 007 </span>ยุตตสาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๒ วาระ.     
+<span class="LineNumber"> 008 </span>                                                 ฯลฯ
+<span class="LineNumber"> 009 </span> <I>อาสววิปปยุตตสาสวทุกกุสลติกอาสววิปปยุตตนสาสวทุกนกุสลติกะ  จบ</I>
+
+<span class="LineNumber"> 010 </span>                     <H1>ฉโคจฉกทุกกุสลติกนฉโคจฉกทุกนกุสลติกะ</H1>
+<span class="LineNumber"> 011 </span>              <H2>(๒๐.-๕๔.  ฉโคจฉกทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 012 </span>                                          <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 013 </span>                                           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>                                          <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                              <H2>กุศลบท</H2>
+<span class="LineNumber"> 016 </span>       	[๒๘๐]  ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่สัญโญชนธรรม อาศัย
+<span class="LineNumber"> 017 </span>ธรรมที่เป็นกุศล  ที่ไม่ใช่สัญโญชนธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>               	    ๑.  <B>ธรรมที่ไม่ใช่กุศล ที่ไม่ใช่คันถธรรม อาศัยธรรม
+<span class="LineNumber"> 019 </span>ที่เป็นกุศล  ที่ไม่ใช่คันถธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 020 </span>              	     ๑.  <B>ธรรมที่ไม่ใช่กุศล ที่ไม่ใช่โอฆธรรม อาศัยธรรม
+<span class="LineNumber"> 021 </span>ที่เป็นกุศลที่ไม่ใช่โอฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>

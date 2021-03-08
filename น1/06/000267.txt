@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>  
+<span class="LineNumber"> 002 </span><B>๕  วัตถุ</B>					องค์ประกอบของผู้จะอุปสมบท
+<span class="LineNumber"> 003 </span>						<B>ที่สำคัญ</B>  มี  ๕  อย่าง  คือ :-
+<span class="LineNumber"> 004 </span>						๑.  เป็นคนผู้ชาย.
+<span class="LineNumber"> 005 </span>						๒.  มีอายุครบ  ๒๐  ปี.
+<span class="LineNumber"> 006 </span>						๓.  ไม่เป็นมนุษย์วิบัติ เช่นถูกตอน  หรือ
+<span class="LineNumber"> 007 </span>							กระเทย.
+<span class="LineNumber"> 008 </span>						๔.  ไม่เคยทำอนันตริยกรรม.
+<span class="LineNumber"> 009 </span>						๕.  ไม่เคยต้องปาราชิก  หรือไม่เคยเข้ารีต
+<span class="LineNumber"> 010 </span>							เดียรถีย์.
+<span class="LineNumber"> 011 </span>						<B>ที่ไม่สำคัญ</B>  มี  ๗  อย่าง  คือ :-
+<span class="LineNumber"> 012 </span>						๑.  ไม่เป็นคนเสียชื่อเสียง.
+<span class="LineNumber"> 013 </span>						๒.        "        มีอวัยวะพิกลพิการ.
+<span class="LineNumber"> 014 </span>						๓.         "       มีโรคไม่รู้จักหาย.
+<span class="LineNumber"> 015 </span>						๔.         "        มีโรคติดต่อ.
+<span class="LineNumber"> 016 </span>						๕.         "        อยู่ในหวงห้าม.
+<span class="LineNumber"> 017 </span>						๖.          "        มีหนี้สิน.
+<span class="LineNumber"> 018 </span>						๗.         "        ทาส.
+<span class="LineNumber"> 019 </span><B>๕  วัตถุวิบัติ</B>				บกพร่องโดยวัตถุ.
+<span class="LineNumber"> 020 </span><B>๕  วัตถุสมบัติ</B>				สมบูรณ์โดยวัตถุ  คือ  ตรงกันข้ามกับวัตถุ-
+<span class="LineNumber"> 021 </span>						วิบัติ.
+	

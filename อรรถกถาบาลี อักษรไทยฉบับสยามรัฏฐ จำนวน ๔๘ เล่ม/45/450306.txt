@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  45  ยุธฺชยวคฺควณฺณนา  หน้า  306
+
+<span class="LineNumber"> 002 </span>สีมนฺตริกวาสิโน  เตหิ  ปรนฺตีหิ  อฏวิเกหิ  ปจฺจนฺตเทโส  โขภิโต 
+<span class="LineNumber"> 003 </span>อโหสิ  ตํ  ปจฺจนฺตโกปํ  นิเสเธตุํ  วูปสเมตุํ  คจฺฉนฺโต  มม  
+<span class="LineNumber"> 004 </span>ปิตา กุรุราชา ตาต โสมนสฺสกุมาร  มยฺหํ  สามิกํ  อุคฺคตาปนํ  (๑)  
+<span class="LineNumber"> 005 </span>โฆรตปํ  ปรมสนฺตินฺทฺริยํ  ชฏิลํ มา ปมชฺชิ ฯ โสปิ  อมฺหากํ  
+<span class="LineNumber"> 006 </span>สพฺพกามทโท  ตสฺมา  ยทิจฺฉกํ  จิตฺตรุจิยํ  ตสฺส จิตฺตานุกูลํ 
+<span class="LineNumber"> 007 </span>ปวตฺเตหิ  อนุวตฺเตหีติ ตทา มํ อนุสาสีติ ทสฺเสติ ฯ  
+<span class="LineNumber"> 008 </span>		ตมหํ คนฺตฺวานุปฏฺ€านํ	อิทํ วจนมพฺรวึ  
+<span class="LineNumber"> 009 </span>		กจฺจิ เต คหปติ กุสลํ		กึ วา เต อาหรียตุ ฯ  
+<span class="LineNumber"> 010 </span>		เตน โส กุปิโต อาสิ		กุหโก มานนิสฺสิโต  
+<span class="LineNumber"> 011 </span>		ฆาตาเปมิ ตุวํ อชฺช		รฏฺ€า ปพฺพาชยามิ วา ฯ  
+<span class="LineNumber"> 012 </span>		นิเสธยิตฺวา ปจฺจนฺตํ		ราชา กุหกมพฺรวิ  
+<span class="LineNumber"> 013 </span>		กจฺจิ (๒)  ขมนียํ  ตว (๒)	สมฺมาโน เต ปวตฺติโต ฯ  
+<span class="LineNumber"> 014 </span>		ตสฺส อาจิกฺขตี ปาโป		กุมาโร ยถา นาสิโย  (๓)
+<span class="LineNumber"> 015 </span>		ตสฺส ตํ วจนํ สุตฺวา		อาณาเปสิ มหีปติ ฯ  
+<span class="LineNumber"> 016 </span>		สีสํ ตตฺเถว ฉินฺทิตฺวา		กตฺวาน จตุขณฺฑิกํ  
+<span class="LineNumber"> 017 </span>		รถิยา รถิยํ ทสฺเสถ		สา คติ ชฏิลหีฬิตา ฯ  
+<span class="LineNumber"> 018 </span>		ตตฺถ การณิกา คนฺตฺวา (๔)  จณฺฑา ลุทฺทา (๕) อการุณา  
+<span class="LineNumber"> 019 </span>		มาตุ องฺเก นิสินฺนสฺส		อากฑฺฒิตฺวา นยนฺติ มนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. อุคฺคตปํ ฯ  ๒. ม. กจฺจิ เต ภนฺเต ขมนียํ ฯ  ๓. ยุ. นาสิโต ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ตตฺถ การณิกา คนฺตฺวา ฯ  ยุ. ...การุณิกา... ฯ  ๕. สฺยา. ลุทฺธา ฯ

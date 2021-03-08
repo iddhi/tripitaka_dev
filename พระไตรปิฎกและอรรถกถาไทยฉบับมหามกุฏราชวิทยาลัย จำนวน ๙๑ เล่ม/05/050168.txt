@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                                <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 002 </span>                                   <H2>ติกะนิสสัคคิยปาจิตตีย์</H2>
+<span class="LineNumber"> 003 </span>           [๑๔๐]   ผ้าห่มหนักมีราคาเกิน  ๔  กังสะ ภิกษุณีสำคัญว่าเกิน ขอได้มา
+<span class="LineNumber"> 004 </span>เป็นนิสสัคคีย์  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 005 </span>           ผ้าห่มหนักมีราคาเกิน ๔ กังสะ ภิกษุณีสงสัย  ขอได้มา  เป็นนิสสัคคีย์
+<span class="LineNumber"> 006 </span>ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 007 </span>           ผ้าห่มหนักมีราคาเกิน  ๔  กังสะ ภิกษุณีสำคัญว่าหย่อน  ขอได้มา  เป็น
+<span class="LineNumber"> 008 </span>นิสสัคคีย์  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 009 </span>                                                <H2>ทุกะทุกกฏ</H2> 
+<span class="LineNumber"> 010 </span>           ผ้าห่มหนักราคาหย่อน ๔ กังสะ    ภิกษุณีสำคัญว่าเกิน    ต้องอาบัติ
+<span class="LineNumber"> 011 </span>ทุกกฏ.
+<span class="LineNumber"> 012 </span>           ผ้าห่มหนักมีราคาหย่อน  ๔  กังสะ  ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 013 </span>                                              <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 014 </span>           ผ้าห่มหนักมีราคาหย่อน ๔ กังสะ    ภิกษุณีสำคัญว่าหย่อน    ไม่ต้อง
+<span class="LineNumber"> 015 </span>อาบัติ.
+
+<span class="LineNumber"> 016 </span>                                             <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 017 </span>           [๑๔๑]   ขอผ้าห่มหนักมีราคา ๔ กังสะ  เป็นอย่างยิ่ง  ๑  ขอผ้าห่มหนัก
+<span class="LineNumber"> 018 </span>มีราคาหย่อน ๔ กังสะ ๑ ขอต่อญาติ  ๑  ขอต่อคนปวารณา  ๑  ขอเพื่อประโยชน์
+<span class="LineNumber"> 019 </span>ของผู้อื่น  ๑   จ่ายมาด้วยทรัพย์ของตน ๑  ทายกประสงค์ให้จ่ายผ้าห่มหนักมีราคา

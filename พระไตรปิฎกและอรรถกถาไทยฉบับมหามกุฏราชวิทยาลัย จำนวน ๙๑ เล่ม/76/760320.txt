@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>รูปไม่เป็นมหาภูติที่อยู่ไกล</B>  นั้น  เป็นไฉน  ? 
+<span class="LineNumber"> 002 </span>           อิตถินทรีย์ ฯลฯ  กพฬิงการาหาร  รูปทั้งนี้เรียกว่า  รูปไม่เป็นมหาภูต 
+<span class="LineNumber"> 003 </span>ที่อยู่ไกล.
+<span class="LineNumber"> 004 </span>           <B>รูปไม่เป็นมหาภูตที่อยู่ใกล้</B>  นั้น  เป็นไฉน ?
+<span class="LineNumber"> 005 </span>           จักขายตนะ ฯลฯ  รสายตนะ  รูปทั้งนี้เรียกว่า  รูปไม่เป็นมหาภูตที่อยู่ 
+<span class="LineNumber"> 006 </span>ใกล้.
+<span class="LineNumber"> 007 </span>           [๖๕๕]  รูปที่เห็นได้  คือ  รูปายตนะ
+<span class="LineNumber"> 008 </span>           รูปที่ฟังได้  คือ  สัททายตนะ
+<span class="LineNumber"> 009 </span>           รูปที่รู้ได้  คือ  คันธายตนะ  รสายตนะ  โผฏฐัพพายตนะ
+<span class="LineNumber"> 010 </span>           รูปที่รู้แจ้งได้ด้วยใจ   คือ   รูปทั้งหมด
+<span class="LineNumber"> 011 </span>           สงเคราะห์รูปเป็นหมวดละ ๔ อย่างนี้.
+<span class="LineNumber"> 012 </span>                              <I>จตุกกนิทเทศ   จบ</I>      
+                         
+<span class="LineNumber"> 013 </span>                                    <H1>ปัญจกนิเทศ</H1>
+<span class="LineNumber"> 014 </span>           [๖๕๖]  รูปที่เรียกว่า  <B>ปฐวีธาตุ</B>  นั้น   เป็นไฉน ?
+<span class="LineNumber"> 015 </span>           ธรรมชาติที่แข็ง   ธรรมชาติที่กระด้าง   ความแข็ง    ภาวะที่แข็ง   เป็น
+<span class="LineNumber"> 016 </span>ภายในหรือภายนอกก็ตาม  เป็นอุปาทินนะหรืออนุปาทินนะก็ตาม  รูปทั้งนี้เรียก
+<span class="LineNumber"> 017 </span>ว่า  ปฐวีธาตุ.
+<span class="LineNumber"> 018 </span>           รูปที่เรียกว่า   <B>อาโปธาตุ</B>  นั้น  เป็นไฉน  ?
+<span class="LineNumber"> 019 </span>           ความเอิบอาบ   ธรรมชาติที่เอิบอาบ  ความเหนียว  ธรรมชาติที่เหนียว
+<span class="LineNumber"> 020 </span>ธรรมชาติเครื่องเกาะกุมรูป เป็นภายในหรือภายนอกก็ตาม เป็นอุปาทินนะหรือ
+<span class="LineNumber"> 021 </span>อนุปาทินนะก็ตาม  อันใด  รูปทั้งนี้เรียกว่า  อาโปธาตุ.

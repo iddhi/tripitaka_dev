@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑  หน้า  ๔๔๔
+
+<span class="LineNumber"> 002 </span>				ทุติยอรหนฺตสุตฺตวณฺณนา          
+<span class="LineNumber"> 003 </span>	ปฺจมํ  (๑)  วินา  คาถาหิ  สุทฺธกเมว  กตฺวา  กถิยมานํ  (๒)
+<span class="LineNumber"> 004 </span>พุชฺชนกานํ  อชฺฌาสเยน วุตฺตํ ฯ 
+<span class="LineNumber"> 005 </span>				ปฺจมํ ฯ               
+
+<span class="LineNumber"> 006 </span>				สีหสุตฺตวณฺณนา            
+<span class="LineNumber"> 007 </span>	ฉฏฺเ€  สีโหติ  จตฺตาโร  สีหา  ติณสีโห  กาฬสีโห 
+<span class="LineNumber"> 008 </span>ปณฺฑุสีโห  เกสรสีโหติ ฯ  เตสุ  ติณสีโห  กโปตวณฺณคาวีสทิโส
+<span class="LineNumber"> 009 </span>ติณภกฺโข  จ  โหติ ฯ  กาฬสีโห  กาฬคาวีสทิโส  ติณภกฺโขเยว ฯ
+<span class="LineNumber"> 010 </span>ปณฺฑุสีโห  ปณฺฑุปลาสวณฺณคาวีสทิโส  มํสภกฺโข ฯ  เกสรสีโห 
+<span class="LineNumber"> 011 </span>ลาขารสปริกมฺมกเตเนว  มุเขน  อคฺคนงฺคุฏฺเ€น  จตูหิ  ปาทปริ-
+<span class="LineNumber"> 012 </span>ยนฺเตหิ  สมนฺนาคโต  มตฺถกโตปิสฺส  ปฏฺ€าย  ลาขาตูลิกาย(๓)
+<span class="LineNumber"> 013 </span>กตา  วิย  ติสฺโส  ราชิโย  ปิฏฺ€ิมชฺเฌน  คนฺตฺวา  อนฺตรสตฺถิมฺหิ
+<span class="LineNumber"> 014 </span>ทกฺขิณาวตฺตา หุตฺวา €ิตา  ขนฺเธ  ปนสฺส  สตสหสฺสคฺฆนิก-
+<span class="LineNumber"> 015 </span>กมฺพลปริกฺเขโป  วิย  เกสรภาโร  โหติ  อวเสสฏฺ€านํ  ปริสุทฺธํ  
+<span class="LineNumber"> 016 </span>สาลิปิฏฺ€สงฺขจุณฺณปิจุวณฺณํ (๔) โหติ ฯ อิเมสุ จตูสุ สีเหสุ อยํ 
+<span class="LineNumber"> 017 </span>เกสรสีโห อิธ อธิปฺเปโต ฯ               
+<span class="LineNumber"> 018 </span>	มิคราชาติ  มิคคณสฺส  ราชา ฯ  อาสยาติ  วสนฏฺ€านโต 
+<span class="LineNumber"> 019 </span># ๑. สี. ปฺจเม ฯ  ๒. สี. กถิยมาเน ฯ  ๓. ม. ลาขาตูลิกาย ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. สาลิปิฏฺ€สงฺขจุณฺณปิจุวณฺณํ ฯ

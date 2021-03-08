@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>          				<H1>สวิตักกสวิจารบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>						   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>						<H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 004 </span>		[๔๒]   ๑.  สวิตักกสวิจารธรรมที่เป็นกุศล    เป็นปัจจัยแก่สวิ-
+<span class="LineNumber"> 005 </span>ตักกสวิจารธรรมที่เป็นกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                    	  ๒.  สวิตักกสวิจารธรรมที่เป็นอกุศล     เป็นปัจจัยแก่
+<span class="LineNumber"> 007 </span>สวิตักกสวิจารธรรมที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                    	  ๓.  สวิตักกสวิจารธรรมที่เป็นอัพยากตะ เป็นปัจจัยแก่
+<span class="LineNumber"> 009 </span>สวิตักกสวิจารธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 010 </span>			     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๔๓]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ ในอารัมมณปัจจัย  มี ๙  วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 013 </span>          	ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+
+<span class="LineNumber"> 014 </span>				<H1>อวิตักกวิจารมัตตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 015 </span>                 		  	<H2>อนุโลมนัย</H2>             
+<span class="LineNumber"> 016 </span>                               	 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 017 </span>		[๔๔]  ๑.  อวิตักกวิจารมัตตธรรมที่เป็นกุศล    อาศัยอวิตักก-
+<span class="LineNumber"> 018 </span>วิจารมัตตธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย

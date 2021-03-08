@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	        	                  <H1>พระบัญญัติ</H1> 
+<span class="LineNumber"> 002 </span>            ๑๐๒.  ๗.  <B>อนึ่ง  ภิกษุใด  ใช้ผ้าอาศัยไม่ละ  เป็นปาจิตตีย์</B>
+<span class="LineNumber"> 003 </span>                               <I>เรื่องภิกษุณีถุลลนันทา  จบ</I>
+
+<span class="LineNumber"> 004 </span>                                    <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 005 </span>            [๓๑๕]  บทว่า  <B>อนึ่ง. . .ใด</B>  ความว่า  ผู้ใด  คือ  ผู้เช่นใด. . .
+<span class="LineNumber"> 006 </span>            บทว่า  <B>ภิกษุณี  </B>ความว่า  ที่ชื่อว่า   <B>ภิกษุณี</B>  เพราะอรรถว่าเป็นผู้
+<span class="LineNumber"> 007 </span>ขอ. . .  นี้ชื่อว่า  <B>ภิกษุณี</B>   ที่ทรงประสงค์ในอรรถนี้.
+<span class="LineNumber"> 008 </span>            ที่ชื่อว่า    <B>ผ้าอาศัย     </B>ได้แก่    ผ้าที่เขาถวายไว้สำหรับให้ภิกษุณีผู้มี
+<span class="LineNumber"> 009 </span>ประจำเดือนใช้.
+<span class="LineNumber"> 010 </span>            บทว่า  <B>ใช้. . .ไม่ละ</B>  คือใช้   ๒-๓  ราตรี  ซักในวันที่  ๔  แล้วยัง
+<span class="LineNumber"> 011 </span>ใช้อีก  ไม่ยอมให้ภิกษุณี   สิกขมานา หรือสามเณรี  ใช้บ้าง ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 012 </span>                                         <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 013 </span>	                     	    <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 014 </span>            [๓๑๖]  ยังไม่ละ  ภิกษุณีสำคัญว่ายังไม่ละ  ใช้  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 015 </span>            ยังไม่ละ  ภิกษุณีมีความสงสัย  ใช้  ต้องอาบัติปาจิตตีย์.                  
+<span class="LineNumber"> 016 </span>            ยังไม่ละ   ภิกษุณีสำคัญว่าละแล้ว   ใช้   ต้องอาบัติปาจิตตีย์.             
+
+<span class="LineNumber"> 017 </span>		                           <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 018 </span>            ละแล้ว  ภิกษุณีสำคัญว่ายังไม่ล ะ   ต้องอาบัติทุกกฏ.              
+<span class="LineNumber"> 019 </span>            ละแล้ว  ภิกษุณีมีความสงสัย   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 020 </span>            ละแล้ว   ภิกษุณีสำคัญว่าละแล้ว   ไม่ต้องอาบัติ.                     

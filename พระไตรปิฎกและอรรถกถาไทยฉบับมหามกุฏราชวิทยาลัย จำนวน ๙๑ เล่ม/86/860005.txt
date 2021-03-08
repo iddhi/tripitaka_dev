@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อารัมมณ   อธิปติมูลกนัย</H1>  
+<span class="LineNumber"> 002 </span>         <B>เพราะอารัมมณปัจจัย... เพราะอธิปติปัจจัย</B>   ในเหตุปัจจัย   มี ๓
+<span class="LineNumber"> 003 </span>วาระ ... ในวิปากปัจจัย   มี ๒ วาระ   ในอวิคตปัจจัย  มี ๓ วาระ.
+
+<span class="LineNumber"> 004 </span>                                        <H1>อาเสวนมูลกนัย</H1>
+<span class="LineNumber"> 005 </span>         <B>เพราะอาเสวนปัจจัย</B>  ในเหตุปัจจัย   มี ๓ วาระ ... ในกัมมปัจจัย
+<span class="LineNumber"> 006 </span>มี ๓ วาระ  ในอาหารปัจจัย  มี ๓ วาระ  ในอวิคตปัจจัย   มี ๓ วาระ.
+
+<span class="LineNumber"> 007 </span>                                          <H1>วิปากมูลกนัย</H1>
+<span class="LineNumber"> 008 </span>         <B>เพราะวิปากปัจจัย</B>  ในเหตุปัจจัย  มี ๒ วาระ ... ในอารัมมณปัจจัย
+<span class="LineNumber"> 009 </span>มี ๓ วาระ  ในอธิปติปัจจัย   มี ๒ วาระ  ฯลฯ ในปุเรชาตปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 010 </span>ในกัมมปัจจัย  มี ๓ วาระ   ในฌานปัจจัย   มี ๒ วาระ   ในมัคคปัจจัย   มี ๒
+<span class="LineNumber"> 011 </span>วาระ ในอวิคตปัจจัย   มี ๓ วาระ.
+  
+<span class="LineNumber"> 012 </span>                                          <H1>ฌานมูลกนัย</H1>
+<span class="LineNumber"> 013 </span>         <B>เพราะฌานปัจจัย</B>   ในเหตุปัจจัย   มี  ๓ วาระ ... ในวิปากปัจจัย
+<span class="LineNumber"> 014 </span>มี ๒ วาระ  ในอวิคตปัจจัย   มี ๓  วาระ.
+
+<span class="LineNumber"> 015 </span>                                          <H1>มัคคมูลกนัย</H1>
+<span class="LineNumber"> 016 </span>         <B>เพราะมัคคปัจจัย</B>  ในเหตุปัจจัย  มี ๓ วาระ ... ในวิปากปัจจัย   มี
+<span class="LineNumber"> 017 </span>๒ วาระ  ในอวิคตปัจจัย   มี ๓ วาระ.

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>นิทเทสวาระ</H1>
+<span class="LineNumber"> 002 </span>                             <H1>ปทโสธนวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 003 </span>         [๒๘๘]   ธรรมที่ชื่อว่าจักขุ,  ชื่อว่าจักขายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ทิพพจักขุ    ปัญญาจักขุ     ชื่อว่าจักขุ    แต่ไม่ชื่อว่าจักขายตนะ,
+<span class="LineNumber"> 005 </span>จัขายตนะชื่อว่าจักขุด้วย   ชื่อว่าจักขายตนะด้วย.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่าจักขายตนะ,   ชื่อว่าจักขุ   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ธรรมที่ชื่อว่าโสตะ,    ชื่อว่าโสตายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ทิพพโสตะ   ตัณหาโสตะ   ชื่อว่าโสตะ  แต่ไม่ชื่อว่าโสตายตนะ,
+<span class="LineNumber"> 010 </span>โสตายตนะชื่อว่าโสตะด้วย   ชื่อว่าโสตายตนะด้วย.
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าโสตายตนะ,   ชื่อว่าโสตะ   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าฆานะ,  ชื่อว่าฆานายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ธรรมที่ชื่อว่าฆานายตนะ,  ชื่อว่าฆานะ ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         ใช่.

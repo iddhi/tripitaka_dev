@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                <H2>๘๔.  ภาวนาทุกะ</H2><SUP>๑</SUP>
+<span class="LineNumber"> 002 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                    <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>         [๕๙๐] ๑.  <B>ภาวนายปหาตัพพธรรม  อาศัยภาวนายปหาตัพพ-
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>         ทัสสนทุกะ  ฉันใด  พึงให้พิสดารฉันนั้น  ไม่มีแตกต่างกัน.
+
+<span class="LineNumber"> 008 </span>                          <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>         [๕๙๑]  ในเหตุปัจจัย มี ๕ วาระ ฯลฯ  ในอวิตตปัจจัย มี ๕ วาระ.
+
+<span class="LineNumber"> 010 </span>                                       <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 011 </span>                                    <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>         [๕๙๒] ๑.  <B>ภาวนายปหาตัพพธรรม  อาศัยภาวนายปหาตัพพ-
+<span class="LineNumber"> 013 </span>ธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  โมหะ  ที่สหรคตด้วยอุทธัจจะ   อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 015 </span>อุทธัจจะ.
+<span class="LineNumber"> 016 </span>                     ๒.  <B>ธรรมที่ไม่ใช่ภาวนายปหาตัพพธรรม  อาศัยธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่ภาวนายปหาตัพพธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+
+<span class='footnote'>๑.  ม.  ภาวนายปหาตัพพทุกะ.</span>

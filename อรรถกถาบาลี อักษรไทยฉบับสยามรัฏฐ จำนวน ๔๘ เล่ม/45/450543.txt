@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  45  หน้า  453
+
+<span class="LineNumber"> 002 </span>					นิคมนกถา  
+<span class="LineNumber"> 003 </span>เอตฺตาวตา จ  
+<span class="LineNumber"> 004 </span>		วิสุทฺธจริโต (๑) สตฺถา	พุทฺธิจริยาย ปารคู  
+<span class="LineNumber"> 005 </span>		สพฺพจริยาสุ (๒) กุสโล	โลกาจริโย อนุตฺตโร ฯ  
+<span class="LineNumber"> 006 </span>		ยํ อจฺฉริยธมฺมานํ		สพฺพมจฺฉริยาติโค  
+<span class="LineNumber"> 007 </span>		อตฺตโน ปุพฺพจริยานํ		อานุภาววิภาวนํ ฯ  
+<span class="LineNumber"> 008 </span>		เทเสสิ นาโถ จริยา-		ปิฏกํ ยฺจ ตาทิโน  
+<span class="LineNumber"> 009 </span>		ธมฺมสงฺคาหกา เถรา		สงฺคายึสุ ตเถว จ ฯ  
+<span class="LineNumber"> 010 </span>		ตสฺส อตฺถํ ปกาเสตุํ		โปราณตฺถกถานยํ  
+<span class="LineNumber"> 011 </span>		นิสฺสาย ยา สมารทฺธา		อตฺถสํวณฺณนา มยา ฯ  
+<span class="LineNumber"> 012 </span>		ยา ตตฺถ ปรมตฺถานํ		นิทฺธาเรตฺวา ยถารหํ  
+<span class="LineNumber"> 013 </span>		ปกาสนา ปรมตฺถ-		ทีปนี นาม นามโต ฯ  
+<span class="LineNumber"> 014 </span>		สมฺปตฺตา ปรินิฏฺ€านํ		อนากุลวินิจฺฉยา  
+<span class="LineNumber"> 015 </span>		สาธิกายฏฺ€วีสาย		ปาฬิยา ภาณวารโต ฯ  
+<span class="LineNumber"> 016 </span>		อิติ ตํ สงฺขโรนฺเตน		ยํ ตํ อธิคตํ มยา  
+<span class="LineNumber"> 017 </span>		ปุฺํ ตสฺสานุภาเวน		โลกนาถสฺส สาสนํ ฯ  
+<span class="LineNumber"> 018 </span>		โอคาเหตฺวา วิสุทฺธาย		สีลาทิปฏิปตฺติยา  
+<span class="LineNumber"> 019 </span>		สพฺเพปิ เทหิโน โหนฺตุ	วิมุตฺติรสภาคิโน ฯ  
+<span class="LineNumber"> 020 </span># ๑. กตฺถจิ. วิสุทฺธวิยโต ฯ   ๒. กตฺถจิ. พุทฺธจริยาสุ ฯ

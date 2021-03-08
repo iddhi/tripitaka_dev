@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>ปัจจยวาระ</H2>  
+<span class="LineNumber"> 002 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>อนิยตบท</H2>
+<span class="LineNumber"> 005 </span>           [๘๐๘] ๑.  <B>ธรรมที่ไม่ใช่อนิยตธรรมที่ไม่ใช่อัพยากตะ อาศัย
+<span class="LineNumber"> 006 </span>อนิยตธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                          <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๘๐๙]  ในเหตุปัจจัย  มี ๕ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>            <I>กุสลติกมิจฉัตตติกนกุสลติกนมิจฉัตตติกะ  จบ</I>
+
+<span class="LineNumber"> 011 </span>         <H1>กุสลติกมัคคารัมมณติกนกุสลติกนมัคคารัมมณติกะ</H1>
+<span class="LineNumber"> 012 </span>           <H2>(๑. กุสลติกะ  ๑๕.  มัคคารัมมณติกะ)</H2>
+<span class="LineNumber"> 013 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 014 </span>                                     <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 015 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>                                 <H2>มัคคารัมมณบท</H2>
+<span class="LineNumber"> 017 </span>           [๘๑๐] ๑.  <B>ธรรมที่ไม่ใช่มัคคารัมมณธรรม  ที่ไม่ใช่กุศล  อาศัย
+<span class="LineNumber"> 018 </span>มัคคารัมมณธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 019 </span>                                                <B>ฯลฯ</B>	

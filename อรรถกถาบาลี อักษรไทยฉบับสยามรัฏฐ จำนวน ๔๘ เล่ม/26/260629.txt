@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  สาริปุตฺตตฺเถรคาถาวณฺณนา  629 
+
+<span class="LineNumber"> 002 </span>		ตเถว  ตฺวํ  มหาวีร  			พุทฺธาเณน  ปุปฺผิโต  
+<span class="LineNumber"> 003 </span>		ภิกฺขุสํฆปริวุโต  			สาลราชาว  โสภสิ ฯ  
+<span class="LineNumber"> 004 </span>		ยถาปิ  เสโล  หิมวา  			โอสโถ  สพฺพปาณินํ  
+<span class="LineNumber"> 005 </span>		นาคานํ  อสุรานฺจ  			เทวตานฺจ  อาลโย  (๑) ฯ  
+<span class="LineNumber"> 006 </span>		ตเถว  ตฺวํ  มหาวีร  			โอสโถ  วิย  ปาณินํ  
+<span class="LineNumber"> 007 </span>		เตวิชฺชา  ฉฬภิฺา  จ  		อิทฺธิยา  ปารมึ  คตา ฯ  
+<span class="LineNumber"> 008 </span>		อนุสิฏฺ€า  มหาวีร  			ตยา  การุณิเกน  เต  
+<span class="LineNumber"> 009 </span>		รมนฺติ  ธมฺมรติยา  			วสนฺติ  ตว  สาสเน ฯ  
+<span class="LineNumber"> 010 </span>		มิคราชา  ยถา  สีโห  			อภินิกฺขมฺม  อาสยา  
+<span class="LineNumber"> 011 </span>		จตุทฺทิสานุวิโลเกตฺวา  (๒)  	ติกฺขตฺตุํ  อภินาทติ ฯ  
+<span class="LineNumber"> 012 </span>		สพฺเพ  มิคา  อุตฺตสนฺติ  		มิคราชสฺส  คชฺชโต  
+<span class="LineNumber"> 013 </span>		ตถา  หิ  ชาติมา  เอโส  		ปสู  (๓)  ตาเสติ  สพฺพทา ฯ  
+<span class="LineNumber"> 014 </span>		คชฺชโต  เต  มหาวีร  			วสุธา  สมฺปกมฺปติ  (๔)  
+<span class="LineNumber"> 015 </span>		โพธเนยฺยาวพุชฺฌนฺติ  (๕)  	ตสนฺติ  มารกายิกา ฯ  
+<span class="LineNumber"> 016 </span>		ตสนฺติ  ติตฺถิยา  สพฺเพ  		นทโต  เต  มหามุนิ  
+<span class="LineNumber"> 017 </span>		กากา  เสนาว  วิพฺภนฺตา  		มิครฺา  ยถา  มิคา ฯ  
+<span class="LineNumber"> 018 </span>		เย  เกจิ  คณิโน  โลเก  		สตฺถาโรติ  ปวุจฺจเร  
+<span class="LineNumber"> 019 </span>		ปรมฺปราคตํ  (๖)  ธมฺมํ  		เทเสนฺติ  ปริสาย  เต ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. เทวานํ  อาลโยปิจ  ฯ  ๒.  สฺยา. จตุทฺทิสา  วิโลเกตฺวา  ฯ  
+<span class="LineNumber"> 021 </span>#๓.  สฺยา. ปสุํ  ฯ  ๔.  สฺยา. พสุธายํ  ปกมฺปติ  ฯ  ๕.  สฺยา. โพธเนยฺยา  
+<span class="LineNumber"> 022 </span>#ปพุชฺฌนฺติ  ฯ  ๖.  สฺยา. ปรมฺปราภตํ  ฯ  

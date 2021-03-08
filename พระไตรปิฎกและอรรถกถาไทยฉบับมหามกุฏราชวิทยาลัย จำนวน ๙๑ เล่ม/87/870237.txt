@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ที่เป็นอาจยคามิธรรม  และมหาภูตรูป
+<span class="LineNumber"> 002 </span>ทั้งหลาย.  
+<span class="LineNumber"> 003 </span>                         ๑๐.  <B>อาจยคามิธรรม      และเนวาจยคามินาปจยคามิ-
+<span class="LineNumber"> 004 </span>ธรรม  อาศัยอาจยคามิธรรม  และเนวาจยคามินาปจยคามิธรรม  ฯลฯ</B>
+<span class="LineNumber"> 005 </span>           คือ   ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอาจยคามิธรรม   และหทยวัตถุ ฯลฯ
+<span class="LineNumber"> 006 </span>อาศัยขันธ์ ๒ และหทยวัตถุ.
+<span class="LineNumber"> 007 </span>           จิตตสมุฏฐานรูป    อาศัยขันธ์ที่เป็นอาจยคามิธรรม     และมหาภูตรูป
+<span class="LineNumber"> 008 </span>ทั้งหลาย.
+<span class="LineNumber"> 009 </span>                         ๑๑.  <B>เนวาจยคามินาปจยาคามิธรรม   อาศัยอปจยคามิ-
+<span class="LineNumber"> 010 </span>ธรรม  และเนวาจยคามินาปจยคามิธรรม  ฯลฯ  เพราะนอาเสวนปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ    จิตตสมุฏฐานรูป   อาศัยขันธ์ที่เป็นอปจยคามิธรรม   และมหา-
+<span class="LineNumber"> 012 </span>ภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 013 </span>                                     <H1>๑๑.  นกัมมปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๑๐๖๑] ๑.  <B>อาจยคามิธรรม   อาศัยอาจยคามิธรรม   เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  เจตนาที่เป็นอาจยคามิธรรม   อาศัยขันธ์ทั้งหลายที่เป็นอาจยคามิ-
+<span class="LineNumber"> 017 </span>ธรรม.
+<span class="LineNumber"> 018 </span>                         ๒.  <B>อปจยคามิธรรม    อาศัยอปจยคามิธรรม  ฯลฯ 
+<span class="LineNumber"> 019 </span>เพราะนกัมมปัจจัย</B>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ปจฺจยตฺเถรคาถาวณฺณนา  หน้า 729
+
+<span class="LineNumber"> 002 </span>	ตสฺมึ  สมาคเม  ตสฺส  ปสาทฺชนนตฺถํ  สตฺถา  มหาชนสฺส
+<span class="LineNumber"> 003 </span>เปกฺขนฺตสฺเสว  อากาเส  เวสฺสวเณน  นิมฺมิเต  รตนมยกูฏาคาเร  
+<span class="LineNumber"> 004 </span>รตนมยสีหาสเน  นิสีทิตฺวา  ธมฺมํ  เทเสสิ ฯ  มหโต  ชนกายสฺส 
+<span class="LineNumber"> 005 </span>ธมฺมาภิสมโย อโหสิ ฯ  ตํ  ธมฺมํ  สุตฺวา  ปจฺจยราชาปิ  รชฺชํ 
+<span class="LineNumber"> 006 </span>ปหาย  ปุริมเหตุสฺโจทิโต  ปพฺพชิ ฯ  โส [๑]  ยถา   กสฺสปสฺส  
+<span class="LineNumber"> 007 </span>ภควโต  กาเล  ปฏิฺํ  อกาสิ  เอวํ ปฏิฺํ กตฺวา (๒) วิหารํ  
+<span class="LineNumber"> 008 </span>ปวิสิตฺวา  วิปสฺสนํ  วฑฺเฒตฺวา าณสฺส ปริปากํ กตตฺตา
+<span class="LineNumber"> 009 </span>ตาวเทว อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๓)  
+<span class="LineNumber"> 010 </span>		วินตานทิยา (๔) ตีเร	วิหาสิ ปุริสุตฺตโม  
+<span class="LineNumber"> 011 </span>		อทฺทสํ วิรชํ พุทฺธํ		เอกคฺคํ สุสมาหิตํ ฯ  
+<span class="LineNumber"> 012 </span>		ตสฺมึ ปสนฺนมานโส	กิเลสมลโธวเน  
+<span class="LineNumber"> 013 </span>		อุทุมฺพรผลํ คยฺห		พุทฺธเสฏฺ€สฺสทาสหํ ฯ  
+<span class="LineNumber"> 014 </span>		เอกนวุเต อิโต กปฺเป	ยํ ผลมททึ ตทา  
+<span class="LineNumber"> 015 </span>		ทุคฺคตึ นาภิชานามิ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 016 </span>		[ อิมมฺหิ ภทฺทเก กปฺเป	สํวิคฺคตรมานโส (๕)  
+<span class="LineNumber"> 017 </span>		กสฺสปสฺส ภควโต  สาสเน ปพฺพชึ อหํ ฯ  
+<span class="LineNumber"> 018 </span>		ตถา ปพฺพชิโต สนฺโต	ภาวนํ อนุยุฺชิสํ (๖)  
+<span class="LineNumber"> 019 </span>		น วิหารา นิกฺขมิสฺสํ	อิติ กตฺวาน มานสํ ฯ
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. เอตฺถนฺตเร สทฺธาย ปพฺพชิโตติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ยุ. กาเล ปฏิฺํ กตฺวา ฯ  ๓. ขุ. อ. ๓๒/๓๘๕/๔๖๔ ฯ 
+<span class="LineNumber"> 022 </span># ๔. สฺยา. นินฺนคานทิยา ฯ ๕.  ม. สํวิคฺคมานมานโส ฯ 
+<span class="LineNumber"> 023 </span># ๖. สี. อนุยุฺชิหํ ฯ 

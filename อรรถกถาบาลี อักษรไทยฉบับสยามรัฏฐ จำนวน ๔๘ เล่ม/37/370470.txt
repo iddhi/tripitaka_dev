@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  470
+
+<span class="LineNumber"> 002 </span>	[๑๑๒๖]นาหํ ตมฺหิ กุเล ชาตา	ยํ ตฺวํ อุทกมาหเร  
+<span class="LineNumber"> 003 </span>		เอวํ พฺราหฺมณ ชานาหิ	น เต วจฺฉามิหํ (๑)ฆเร  
+<span class="LineNumber"> 004 </span>		สเจ เม ทาสํ ทาสึ วา	นานยิสฺสสิ พฺราหฺมณ  
+<span class="LineNumber"> 005 </span>		เอวํ พฺราหฺมณ ชานาหิ	น เต วจฺฉามิ สนฺติเกติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  นาหํ  ตมฺหีติ(๒)  ยมฺหิ  กุเล  สามิเก  กมฺมํ  กาเรนฺติ(๓) 
+<span class="LineNumber"> 007 </span>นาหํ  ตตฺถ  ชาตา ฯ  ยํ  ตฺวนฺติ  ตสฺมา  ยํ  อุทกํ  ตฺวํ  อาหริสฺสสิ 
+<span class="LineNumber"> 008 </span>น มยฺหํ  เตน อตฺโถติ ฯ  
+<span class="LineNumber"> 009 </span>	ชูชโก อาห  
+<span class="LineNumber"> 010 </span>	[๑๑๒๗]นตฺถิ เม สิปฺปฏฺ€านํ	วา  ธนธฺํ(๔)วา พฺราหฺมณิ  
+<span class="LineNumber"> 011 </span>		กุโตหํ ทาสํ ทาสึ วา	อานยิสฺสามิ โภติยา  
+<span class="LineNumber"> 012 </span>		อหํ โภตึ อุปฏฺ€ิสฺสํ	มา โภตี กุปฺปิตา อหูติ ฯ  
+<span class="LineNumber"> 013 </span>	สา เทวตาย วิคฺคหิตา หุตฺวา พฺราหฺมณํ อาห  
+<span class="LineNumber"> 014 </span>		[๕]
+<span class="LineNumber"> 015 </span>	[๑๑๒๘]เอหิ เต อหมกฺขิสฺสํ	ยถา เม วจนํ สุตํ  
+<span class="LineNumber"> 016 </span>		เอส เวสฺสนฺตโร ราชา	วงฺเก วสติ ปพฺพเต  
+<span class="LineNumber"> 017 </span>		ตํ ตฺวํ คนฺตฺวาน ยาจสฺสุ	ทาสํ ทาสิฺจ พฺราหฺมณ  
+<span class="LineNumber"> 018 </span>		โส เต ทสฺสติ ยาจิโต	ทาสํ ทาสิฺจ ขตฺติโยติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  เอหิ  เต  อหมกฺขิสฺสนฺติ  อหํ  เต  อาจิกฺขิสฺสามิ ฯ
+<span class="LineNumber"> 020 </span>อิทํ  สา เทวตาวิคฺคหิตา หุตฺวา อาห ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. วจฺฉามหํ ฯ  ๒. ม. นาหนฺติ พฺราหฺมณ ฯ 
+<span class="LineNumber"> 022 </span># ๓.ม. สามิโก กมฺมํ กโรติ ฯ ๔. ม. ธนํ ธฺฺจ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. เอตฺถนฺตเร พฺราหหฺมณี อาหาติ ทิสฺสนฺติ ฯ 

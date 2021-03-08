@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36 ํ เนมิราชชาตกํ หน้า  225
+
+<span class="LineNumber"> 002 </span>			ทิพฺพา สทฺทา นิจฺฉรนฺติ	สวนียา มโนรมา  
+<span class="LineNumber"> 003 </span>			นาหํ เอวํ คตํ ชาตุ		เอวํ สุรุจิรํ ปุเร  
+<span class="LineNumber"> 004 </span>			สทฺทํ สมภิชานามิ		ทิฏฺ€ํ วา ยทิ วา สุตํ  
+<span class="LineNumber"> 005 </span>					วิตฺตี หิ มํ วินฺทติ สูต ทิสฺวา  
+<span class="LineNumber"> 006 </span>					ปุจฺฉามิ ตํ มาตลิ เทวสารถิ  
+<span class="LineNumber"> 007 </span>					อิเม นุ มจฺจา กิมกํสุ สาธุํ  
+<span class="LineNumber"> 008 </span>					เย โมทเร สคฺคปฺปตฺตา วิมาเน  
+<span class="LineNumber"> 009 </span>	[๕๗๘]	ตสฺส ปุฏฺโ€ วิยากาสิ		มาตลิ เทวสารถิ  
+<span class="LineNumber"> 010 </span>			วิปากํ ปุฺกมฺมานํ		ชานํ อกฺขาสิชานโต  
+<span class="LineNumber"> 011 </span>			เย เกจิ มจฺจา อิธ ชีวโลเก	สีลวนฺตา (๑) อุปาสกา  
+<span class="LineNumber"> 012 </span>			อาราเม อุทปาเนจ		ปปาเต สงฺกมนานิ จ (๒) 
+<span class="LineNumber"> 013 </span>			อรหนฺเต สีตภูเต (๓)		สกฺกจฺจํ ปฏิปาทยุํ  
+<span class="LineNumber"> 014 </span>			จีวรํ ปิณฺฑปาตฺจ		ปจฺจยํ สยนาสนํ๕  
+<span class="LineNumber"> 015 </span>			อทํสุ อุชุภูเตสุ			วิปฺปสนฺเนน เจตสา  
+<span class="LineNumber"> 016 </span>			จาตุทฺทสี ปฺจทสี		ยาว (๔) ปกฺขสฺส อฏฺ€มี  
+<span class="LineNumber"> 017 </span>			ปาฏิหาริกปกฺขฺจ		อฏฺ€งฺคสุสมาหิตํ  
+<span class="LineNumber"> 018 </span>			อุโปสถํ อุปวสุํ			สทา สีเลสุ สํวุตา  
+<span class="LineNumber"> 019 </span>			สฺมา สํวิภาคา จ		เต วิมานสฺมิ โมทเรติ ฯ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  เวฬุริยาสูติ  เวฬุริยภิตฺตีสุ ฯ  อุเปตํ  ภูมิภาเคหีติ  
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ. สีลวนฺโต ฯ  ๒. ส. ม. ปปา สงฺกมนานิ จ ฯ  ยุ. ปปาสงฺกมนานิ จ ฯ
+<span class="LineNumber"> 022 </span># ๓. ส. ม. ยุ. สีติภูเต ฯ  ๔. ส. ม. ยา จ ฯ

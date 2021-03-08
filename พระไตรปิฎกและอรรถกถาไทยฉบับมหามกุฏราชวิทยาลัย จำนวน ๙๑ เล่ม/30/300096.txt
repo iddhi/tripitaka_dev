@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                      <h1>๑๐.  ทุติยฉันทสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 002 </span>             <h2> ฉันทสัมปทาเป็นเหตุให้เกิดอริยมรรค</h2>
+<span class="LineNumber"> 003 </span>	[๑๗๗]  . . . เหมือนความถึงพร้อมแห่งฉันทะเลย ฯลฯ
+<span class="LineNumber"> 004 </span>		     <I>จบทุติยฉันทสัมปทาสูตรที่  ๑๐</I>
+
+<span class="LineNumber"> 005 </span>	           <h1>๑๑.  ทุติยอัตตสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 006 </span>	     <h2>อัตตสัมปทาเป็นเหตุให้เกิดอริยมรรค</h2>
+<span class="LineNumber"> 007 </span>	[๑๗๘]  . . . เหมือนความถึงพร้อมแห่งตนเลย  ฯลฯ
+<span class="LineNumber"> 008 </span>		     <I>จบทุติยอัตตสัมปทาสูตรที่ ๑๑</I>
+
+<span class="LineNumber"> 009 </span>       	           <h1>๑๒.  ทติยทิฏฐิสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 010 </span>              <h2> ทิฏฐิสัมปทาเป็นเหตุให้เกิดอริยมรรค</h2>
+<span class="LineNumber"> 011 </span>	[๑๗๙]  . . . เหมือนความถึงพร้อมแห่งทิฏฐิเลย  ฯลฯ
+<span class="LineNumber"> 012 </span>		     <I>จบทุติยทิฏฐิสัมปทาสูตรที่  ๑๒
+<span class="LineNumber"> 013 </span>		     จบทุติยทิฏฐิสัมปทาสูตรที่   ๑๒</I>

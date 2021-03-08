@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 003 </span>           [๓๗๘]  ๑.  <B>อาสววิปปยุตตธรรม    อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 004 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B> 
+<span class="LineNumber"> 005 </span>           คือ   โมหะ   ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ   อาศัย
+<span class="LineNumber"> 006 </span>ขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 007 </span>                       ๒.  <B>อาสววิปปยุตตธรรม    อาศัยอาสววิปปยุตตธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ ขันธ์ ๓ และจิตตสมุฏฐานรูป อาศัยขันธ์ ๑ ที่เป็นอาสววิปปยุตต-
+<span class="LineNumber"> 010 </span>ธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒  ฯลฯ.
+<span class="LineNumber"> 011 </span>           อเหตุกปฏิสนธิ  ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 012 </span>           จักขุวิญญาณ  อาศัยจักขายตนะ ฯลฯ  กายวิญญาณ  อาศัยกายายตนะ.
+<span class="LineNumber"> 013 </span>           ขันธ์ทั้งหลายที่เป็นอาสววิปปยุตตธรรม      ซึ่งเป็นอเหตุกะ     อาศัย
+<span class="LineNumber"> 014 </span>หทยวัตถุ.
+<span class="LineNumber"> 015 </span>           โมหะ ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 016 </span>                       ๓.  <B>อาสววิปปยุตตธรรม    อาศัยอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 017 </span>และอาสววิปปยุตตธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ  โมหะ ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ อาศัยขันธ์
+<span class="LineNumber"> 019 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  และหทยวัตถุ.
+<span class="LineNumber"> 020 </span>                                                  ฯลฯ
+ 

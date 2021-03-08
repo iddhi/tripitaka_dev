@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑    หน้า  ๓๘๙
+
+
+<span class="LineNumber"> 002 </span>	นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ
+<span class="LineNumber"> 003 </span>			ขนฺธวารวคฺควณฺณนา            
+
+<span class="LineNumber"> 004 </span>			นกุลปิตุสุตฺตวณฺณนา           
+<span class="LineNumber"> 005 </span>	นกุลปิตุวคฺคสฺส  (๑)  ป€เม ฯ  ภคฺเคสูติ  เอวํนามเก ชนปเท ฯ 
+<span class="LineNumber"> 006 </span>สสสุมารคิเรติ  สสสุมารคิรนคเร ฯ  ตสฺมึ  กิร  มาปิยมาเน  สสสุมาโร
+<span class="LineNumber"> 007 </span>สทฺทมกาสิ  เตนสฺส  สสสุมารคิรนฺเตฺวว(๒)  นามํ  อกํสุ ฯ  เภสก-
+<span class="LineNumber"> 008 </span>ฬาวเนติ  เภสกฬาย  นาม  ยกฺขินิยา  อธิวุตฺถตฺตา  เอวํ
+<span class="LineNumber"> 009 </span>ลทฺธนาเม  วเน ฯ  ตเทว  มิคคณสฺส  (๓)  อภยตฺถาย  ทินฺนตฺตา  
+<span class="LineNumber"> 010 </span>มิคทาโยติ  วุจฺจติ ฯ  ภควา  ตสฺมึ  ชนปเท  ตํ  นครํ  นิสฺสาย 
+<span class="LineNumber"> 011 </span>ตสฺมึ  วนสณฺเฑ วิหรติ ฯ นกุลปิตาติ นกุลสฺส นาม ทารกสฺส
+<span class="LineNumber"> 012 </span>ปิตา ฯ          
+<span class="LineNumber"> 013 </span>	ชิณฺโณติ  ชราชิณฺโณ ฯ  วุฑฺโฒติ  วโยวุฑฺโฒ ฯ  มหลฺลโกติ 
+<span class="LineNumber"> 014 </span>ชาติมหลฺลโก ฯ อทฺธคโตติ  ติยทฺธคโต ฯ  วโยอนุปฺปตฺโตติ เตสุ 
+<span class="LineNumber"> 015 </span>ตีสุ อทฺเธสุ ปจฺฉิมวยํ อนุปฺปตฺโต ฯ อาตุรกาโยติ  คิลานกาโย ฯ 
+<span class="LineNumber"> 016 </span>อิทฺหิ  สรีรํ  สุวณฺณวณฺณมฺปิ  นิจฺจปคฺฆรณฏฺเ€น อาตุรํเสว(๔)
+<span class="LineNumber"> 017 </span># ๑. สี. ขนฺธกวคฺคสฺส ฯ  ม. ขนฺธิยวคฺคสฺส ฯ  
+<span class="LineNumber"> 018 </span># ๒. ม. สุสุมารคิรนฺเตฺวว ฯ ๓. สี. มิคานํ ฯ ๔. ม. อาตุรํเยว ฯ

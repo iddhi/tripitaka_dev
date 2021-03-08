@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ภิกษุร่วมฉันเป็นหมู่ด้วยอาการ ๒  คือ   เพราะเขานิมนต์ ๑    เพราะ.  
+<span class="LineNumber"> 002 </span>ขอเขา ๑              
+<span class="LineNumber"> 003 </span>           วัน เข้าพรรษามี  ๒  คือ  วันเข้าพรรษาต้น  ๑   วันเข้าพรรษาหลัง ๑
+<span class="LineNumber"> 004 </span>           งดปาติโมกข์ไม่เป็นธรรมมี ๒  งดปาติโมกข์เป็นธรรมมี ๒.
+
+<span class="LineNumber"> 005 </span>                               <H1>ว่าด้วยบุคคลพาลและบัณฑิต</H1>
+<span class="LineNumber"> 006 </span>           [๙๕๑]  บุคคลพาลมี ๒  คือ  ผู้รับภาระที่ยังไม่มาถึง ๑  ผู้ไม่รับภาระ
+<span class="LineNumber"> 007 </span>ที่มาถึงแล้ว  ๑                              
+<span class="LineNumber"> 008 </span>           บุคคลบัณฑิตมี ๒  คือ   ผู้ไม่รับภาระที่ยังไม่มาถึง ๑  ผู้รับภาระที่มา
+<span class="LineNumber"> 009 </span>ถึงแล้ว  ๑
+<span class="LineNumber"> 010 </span>           บุคคลพาลแม้อื่นอีก ๒  คือ  ผู้สำคัญว่าควรในสิ่งที่ไม่ควร ๑  ผู้สำคัญ
+<span class="LineNumber"> 011 </span>ว่าไม่ควรในสิ่งที่ควร  ๑                                                        
+<span class="LineNumber"> 012 </span>           บุคคลบัณฑิตมี ๒  คือ   ผู้สำคัญว่าไม่ควรในสิ่งที่ไม่ควร ๑   ผู้สำคัญ
+<span class="LineNumber"> 013 </span>ว่าควรในสิ่งควร  ๑                                                                 
+<span class="LineNumber"> 014 </span>           บุคคลพาลแม้อื่นอีก ๒  คือ   ผู้สำคัญในอนาบัติว่าเป็นอาบัติ    ๑    ผู้
+<span class="LineNumber"> 015 </span>สำคัญในอาบัติว่าเป็นอนาบัติ  ๑                                                      
+<span class="LineNumber"> 016 </span>           บุคคลบัณฑิตมี  ๒  คือ  ผู้สำคัญในอาบัติว่าเป็นอาบัติ  ๑    ผู้สำคัญ
+<span class="LineNumber"> 017 </span>ในอนาบัติว่าเป็นอนาบัติ  ๑                                                    
+<span class="LineNumber"> 018 </span>           บุคคลพาลแม้อื่นอีก  ๒  คือ   ผู้สำคัญในอธรรมว่าเป็นธรรม  ๑    ผู้
+<span class="LineNumber"> 019 </span>สำคัญในธรรมว่าเป็นอธรรม  ๑                                                      

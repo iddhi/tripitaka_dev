@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 39    หน้า  248
+
+<span class="LineNumber"> 002 </span>				จูฬนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 003 </span>				ปารายนวคฺควณฺณนา  
+<span class="LineNumber"> 004 </span>			อชิตมาณวสุตฺตนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 005 </span>		ปารายนวคฺคสฺส ป€เม อชิตสุตฺตนิทฺเทเส  ฯ  
+
+<span class="LineNumber"> 006 </span>		เกนสฺสุ นิวุโต โลโก		(อิจฺจายสฺมา อชิโต)  
+<span class="LineNumber"> 007 </span>		............................			เกนสฺสุ นปฺปกาสติ  
+<span class="LineNumber"> 008 </span>		กิสฺสาภิเลปนํ พฺรูสิ (๑)		กึสุ ตสฺส มหพฺภยนฺติ  
+<span class="LineNumber"> 009 </span>อชิตมาณวสฺส  ปุจฺฉิเต  ป€มปเฺห  จ  อุปรูปริ  ปเฺห  จ  
+<span class="LineNumber"> 010 </span>นิทฺเทเสสุ  จ วุตฺตฺจ อุตฺตานฺจ  วชฺเชตฺวา  วิเสสเมว  
+<span class="LineNumber"> 011 </span>วกฺขาม ฯ  ตตฺถ  นิวุโตติ  ปฏิจฺฉาทิโต ฯ กิสฺสาภิเลปนํ พฺรูสีติ 
+<span class="LineNumber"> 012 </span>กึ อสฺส โลกสฺส อภิเลปนํ วเทสิ ฯ  
+<span class="LineNumber"> 013 </span>	อาวุโตติ  อาวริโต ฯ  นิวุโตติ  ปฏิจฺฉาทิโต ฯ  โอผุโฏติ  (๒) 
+<span class="LineNumber"> 014 </span>เหฏฺ€า  ปฏิจฺฉาทิโต ฯ  ปิหิโตติ  อุปริภาเคน  ฉาทิโต ฯ 
+<span class="LineNumber"> 015 </span>ปฏิจฺฉนฺโนติ อวิวโฏ ฯ ปฏิกุชฺชิโตติ อโธมุขํ ฉาทิโต ฯ  
+<span class="LineNumber"> 016 </span>	นปฺปกาสตีติ  นปฺปกาโส  โหติ ฯ  นปฺปภาสตีติ  าณปฺปภาสํ  
+<span class="LineNumber"> 017 </span>น  กโรติ ฯ  น  ตปตีติ  าณตปํ  (๓)  น  กโรติ ฯ  น  วิโรจตีติ 
+<span class="LineNumber"> 018 </span>าณวิโรจนํ  น  กโรติ ฯ  น  ายตีติ (๔) น ชานียติ ฯ 
+<span class="LineNumber"> 019 </span>น ปฺายตีติ นปฺปฺายเต ฯ  
+<span class="LineNumber"> 020 </span># ๑. กตฺถจิ. พฺรูหิ ฯ  ๒. ม. โอวุโตติ ฯ ๓. ม. าณตปํ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ายตีติ ฯ 

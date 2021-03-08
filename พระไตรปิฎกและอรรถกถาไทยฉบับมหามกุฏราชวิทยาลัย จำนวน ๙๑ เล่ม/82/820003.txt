@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>๓.  อัญญมัญญมูลกะ :-</H2> 
+<span class="LineNumber"> 002 </span>         ธรรมเหล่าใดเหล่าหนึ่ง      มีมูลที่เรียกว่าเป็นมูลอันเดียวกันกับ
+<span class="LineNumber"> 003 </span>กุศลมูล   มีอยู่,    ธรรมเหล่านั้นทั้งหมด    ชื่อว่ามูลที่เรียกว่าเป็นมูลแก่
+<span class="LineNumber"> 004 </span>กันและกันกับกุศลมูล  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ก็หรือว่าธรรมเหล่าใด    ชื่อว่ามูลที่เรียกว่าเป็นมูลแก่กันและกัน
+<span class="LineNumber"> 006 </span>กับกุศลมูล   มีอยู่,   ธรรมเหล่านั้นทั้งหมด  เป็นกุศล   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>                                      <H1>มูลกนยะที่  ๓</H1>
+<span class="LineNumber"> 008 </span><H2>๑.  มูลยมกะ :-</H2>
+<span class="LineNumber"> 009 </span>         ธรรมเหล่าใดเหล่าหนึ่ง   ที่เป็นกุศล   มีอยู่,     ธรรมเหล่านั้นทั้ง
+<span class="LineNumber"> 010 </span>หมด  มีมูลที่เป็นกุศล  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ก็หรือว่าธรรมเหล่าใด   มีมูลที่เป็นกุศล   มีอยู่   ธรรมเหล่านั้น
+<span class="LineNumber"> 012 </span>ทั้งหมด   เป็นกุศล  ใช่ไหม ?
+<span class="LineNumber"> 013 </span><H2>๒.  เอกมูลยมกะ :-</H2>
+<span class="LineNumber"> 014 </span>         ธรรมเหล่าใดเหล่าหนึ่ง   ที่เป็นกุศล   มีอยู่,    ธรรมเหล่านั้นทั้ง
+<span class="LineNumber"> 015 </span>หมด มีมูลเป็นอันเดียวกันกับกุศลมูล  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ก็หรือว่าธรรมเหล่าใด   มีมูลเป็นอันเดียวกันกับกุศลมูล    มีอยู่,
+<span class="LineNumber"> 017 </span>ธรรมเหล่านั้นทั้งหมด  เป็นกุศล  ใช่ไหม ?

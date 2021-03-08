@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  ปลายิชาตกํ  หน้า  339
+
+<span class="LineNumber"> 002 </span>วสฺสถาติ  เสนํ วิจาเรนฺโต อิมํ คาถาทฺวยมาห  
+<span class="LineNumber"> 003 </span>	[๓๐๗]	คชคฺคเมเฆภิ หยคฺคมาลิภิ  
+<span class="LineNumber"> 004 </span>			รถูมิชาเตภิ สราภิวสฺสภิ (๑) 
+<span class="LineNumber"> 005 </span>			ธนุคฺคหาวฏฺฏทฬฺหปฺปหาริภิ  (๒)
+<span class="LineNumber"> 006 </span>			ปริวาริตา ตกฺกสิลา สมนฺตโต ฯ  
+<span class="LineNumber"> 007 </span>	[๓๐๘]	อภิธาวถา จุปฺปตถา (๓) จ  
+<span class="LineNumber"> 008 </span>			วิวิธวินทิตา (๔) ว ทนฺตีภิ  
+<span class="LineNumber"> 009 </span>			วตฺตตชฺช ตุมุโล โฆโส (๕) 
+<span class="LineNumber"> 010 </span>			ยถา (๕) วิชฺชุตา (๖) ชลธรสฺส คชฺชโตติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  คชคฺคเมเฆภีติ  อคฺคคชเมเฆภิ  โกฺจนาทํ คชฺชิตํ (๗) 
+<span class="LineNumber"> 012 </span>คชฺเชนฺเตหิ  มตฺตวารณวลาหเกหีติ  อตฺโถ ฯ  หยคฺคมาลิภีติ  
+<span class="LineNumber"> 013 </span>อคฺคหยมาลีภิ  วรสินฺธวมาลาคุเลหิ  อสฺสานิเกหีติ (๘) อตฺโถ ฯ 
+<span class="LineNumber"> 014 </span>รถูมิชาเตภีติ  สฺชาตอูมิเวเคหิ  สาคเร  สลิเลหิ  วิย  สฺชาต-
+<span class="LineNumber"> 015 </span>รถอูมีหิ  รถานิเกหีติ อตฺโถ ฯ  สราภิวสฺสภีติ  เตหิ  เยว  รถานิเกหิ 
+<span class="LineNumber"> 016 </span>ฆนวสฺสเมโฆ  วิย  สรวสฺสํ  วสฺสนฺเตหิ ฯ  ธนุคฺคหาวฏฺฏทฬฺหปฺ-
+<span class="LineNumber"> 017 </span>ปหาริภีติ  ธนุคฺคเหหิ  (๙) อาวฏฺฏทฬฺหปฺปหาริภิ  อิโต  จิโต  จ
+<span class="LineNumber"> 018 </span># ๑. ม. สราภิวสฺเสภิ ฯ  ๒. สี. ม. ถรุคฺคหาวฏฺฏทฬฺหปฺปหาริภิ ฯ 
+<span class="LineNumber"> 019 </span>เอวมุปริปิ ฯ  ๓. ม. อภิธาวถจูปธาวถ ฯ  เอวมุปริปิ ฯ  
+<span class="LineNumber"> 020 </span># ๔. ม. วิวิธา วินาทิตา ฯ  เอวมุปริปิ ฯ  ๕. ม. โฆโส ยถา ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. วิชฺชุลตา ฯ  เอวมุปริปิ ฯ  ๗. ม. อยํ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๘. ม. วรสินฺธวลาหถกุเลหิ อสฺสานีเกหีติ ฯ  
+<span class="LineNumber"> 023 </span># ๙. ม. ถรุคฺคเหหิ ฯ  เอวมุปริปิ ฯ

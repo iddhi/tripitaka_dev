@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                     <B>รวมชาดกที่มีในวรรคนี้ คือ</B>
+<span class="LineNumber"> 002 </span>            ๑.  ปโรสชาดก    ๒.  ปัณณิกชาดก    ๓.  เวริชาดก
+<span class="LineNumber"> 003 </span>๔.  มิตตวินทชาดก      ๕.  ทุพพลกัฏฐชาดก     ๖.  อุทัญจนีชาดก
+<span class="LineNumber"> 004 </span>๗. สาลิตตกชาดก    ๘. พาหิยชาดก     ๙. กุณฑกปูวชาดก
+<span class="LineNumber"> 005 </span>                             ๑๐.  สัพพสังหารกปัญหา
+<span class="LineNumber"> 006 </span>      	                  <I>จบ  ปโรสตวรรคที่ ๑๑</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>อัพยากฤต   หรือ ? 
+<span class="LineNumber"> 002 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 003 </span>         [๑๕๔๐]   ส. โลภะคือรูปตัณหาเป็นอกุศล  หรือ ?
+<span class="LineNumber"> 004 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. โลภะคือธัมมตัณหาเป็นอกุศล   หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                        ส. โลภะคือสัททตัณหา    ฯลฯ    คือโผฏฐัพพตัณหาเป็น
+<span class="LineNumber"> 008 </span>อกุศล หรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                        ส. โลภะคือธัมมตัณหาเป็นอกุศล หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>         [๑๕๔๑]   ส. ธัมมตัณหาเป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ถูกแล้ว
+<span class="LineNumber"> 014 </span>                        ส. พระผู้มีพระภาคเจ้าได้ตรัสไว้ว่า    <B>ตัณหานี้ใด  ทำ
+<span class="LineNumber"> 015 </span>ความเกิดอีก  เป็นไปกับด้วยความกำหนัดด้วยอำนาจความเพลิดเพลิน
+<span class="LineNumber"> 016 </span>เพลิดเพลินยิ่งในอารมณ์นั้น  ๆ  ตัณหาดังกล่าวนี้คือ  กามตัณหา  ภวตัณหา
+<span class="LineNumber"> 017 </span>วิภวตัณหา</B>  ดังนี้<SUP>๑</SUP>  เป็นสูตรมีอยู่จริง  มิใช่หรือ  ?
+<span class="LineNumber"> 018 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                        ส. ถ้าอย่างนั้น   ก็ไม่พึงกล่าวว่า   ธัมมตัณหาเป็นอัพยากฤต.
+<span class="LineNumber"> 020 </span>         [๑๕๔๒]   ป. ไม่พึงกล่าวว่า  ธัมมตัณหาเป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 021 </span>                        ส. ถูกแล้ว.
+
+<span class='footnote'>๑. สํ. มหา. ๑๙/๑๖๖๕.</span>

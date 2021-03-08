@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                        ศัพท์ที่ลง   เณยฺย   ปัจจัยอย่างนี้  
+<span class="LineNumber"> 002 </span>          ภคินิยา  อปจฺจํ  ภาคิเนยฺโย    เหล่ากอ   แห่งพี่น้องหญิง  ชื่อ
+<span class="LineNumber"> 003 </span>              ๑           ๒          ๓              ๒                 ๑             
+<span class="LineNumber"> 004 </span>ภาคิเนยยะ.    วินตาย   อปจฺจํ   เวนเตยฺโย   เหล่ากอ    แห่งนางวินตา
+<span class="LineNumber"> 005 </span>      ๓                ๑           ๒            ๓            ๒                ๑
+<span class="LineNumber"> 006 </span>ชื่อเวนเตยยะ.      โรหิณิยา     อปจฺจ    โรหิเณยฺโย   เหล่ากอ    แห่งนาง  
+<span class="LineNumber"> 007 </span>        ๓                    ๑              ๒             ๓             ๒             ๑
+<span class="LineNumber"> 008 </span>โรหิณี    ชื่อโรหิเณยยะ.
+<span class="LineNumber"> 009 </span>                   ๓
+<span class="LineNumber"> 010 </span>                           ศัพท์ที่ลง   ณิ   ปัจจัย    อย่างนี้
+<span class="LineNumber"> 011 </span>          ทกฺขสฺส   อปจฺจํ   ทกฺขิ   เหล่ากอ   แห่งทักขะ   ชื่อทักขิ.   วสวสฺส
+<span class="LineNumber"> 012 </span>อปจฺจํ   วาสวิ  เหล่ากอ  แห่งวสวะ  ชื่วาสวิ.   วรุณสฺส  อปจฺจํ
+<span class="LineNumber"> 013 </span>วารุณ  เหล่ากอ  แห่งวรุณะ  ชื่อวารุณิ.
+<span class="LineNumber"> 014 </span>                            ศัพท์ที่ลง  ณิก   ปัจจัย  อย่างนี้
+<span class="LineNumber"> 015 </span>          สกฺยปุตฺตสฺส   อปจฺจํ   สากฺยปุตฺติโก  เหล่ากอ   แห่งบุตร
+<span class="LineNumber"> 016 </span>แห่งสักยะ    ชื่อสากยปุตติกะ.   นาฏปุตฺตสฺส  อปจฺจํ  นาฏปุตฺติโก  เหล่ากอ
+<span class="LineNumber"> 017 </span>แห่งบุตรแห่งชนรำ   ชื่อนาฏปุตติกะ.  ชินทตฺตสฺส  อปจฺจํ  เชนทตฺติโก
+<span class="LineNumber"> 018 </span>เหล่ากอ   แห่งชินทัตตะ   ชื่อเชนทัตติกะ.
+<span class="LineNumber"> 019 </span>                           ศัพท์ที่ลง  ณว  ปัจจัย  อย่างนี้
+<span class="LineNumber"> 020 </span>          อุปกุสฺส  อปจฺจํ   โอปกโว  เหล่ากอ   แห่งอุปกุ  ชื่อโอปกวะ.
+<span class="LineNumber"> 021 </span>มนุโน   อปจฺจํ   มานโว   เหล่ากอ   แห่งมนุ   ชื่อมานวะ.
+      

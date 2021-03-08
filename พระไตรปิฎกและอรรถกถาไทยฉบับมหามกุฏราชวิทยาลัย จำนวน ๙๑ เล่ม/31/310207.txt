@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>๙. อธิมุตติสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                                     <H1>ว่าด้วยการรู้อธิมุตติต่าง ๆ</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๒๙๔]  ดูก่อนผู้มีอายุทั้งหลาย อนึ่ง เราย่อมรู้อธิมุตติอันเป็นต่างๆ
+<span class="LineNumber"> 004 </span>กันของสัตว์ทั้งหลาย    ตามความเป็นจริง   เพราะได้เจริญ   ได้กระทำให้มากซึ่ง
+<span class="LineNumber"> 005 </span>สติปัฎฐาน ๔ เหล่านี้.
+<span class="LineNumber"> 006 </span>                                            <I>จบอธิมุตติสูตรที่    ๙</I>
+
+<span class="LineNumber"> 007 </span>                                           <H1>๑๐. อินทริยสูตร</H1>
+ 
+<span class="LineNumber"> 008 </span>                            <H1>ว่าด้วยการรู้ความยิ่งหย่อนแห่งอินทรีย์</H1>
+
+<span class="LineNumber"> 009 </span>           [๑๒๙๕]   ดูก่อนผู้มีอายุทั้งหลาย   อนึ่ง   เราย่อมรู้ความยิ่งและหย่อน
+<span class="LineNumber"> 010 </span>แห่งอินทรีย์ของสัตว์อื่น   ของบุคคลอื่น    ตามความเป็นจริง   เพราะได้เจริญ
+<span class="LineNumber"> 011 </span>ได้กระทำให้มากซึ่งสติปัฏฐาน ๔ เหล่านี้.
+<span class="LineNumber"> 012 </span>                                           <I>จบอินทริยสูตรที่     ๑๐</I>

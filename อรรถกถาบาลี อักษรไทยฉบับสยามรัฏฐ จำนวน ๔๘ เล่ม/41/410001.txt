@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  41  หน้า  1
+
+<span class="LineNumber"> 002 </span>	สทฺธมฺมปกาสินี  นาม  ขุทฺทกนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>		ปฎิสมฺภิทามคฺควณฺณนา  
+
+<span class="LineNumber"> 004 </span>นโม  ตสฺส  ภควโต  อรหโต  สมฺมาสมฺพุทฺธสฺส ฯ
+<span class="LineNumber"> 005 </span>			ทิฏฺ€ิกถาวณฺณนา  
+
+<span class="LineNumber"> 006 </span>		อสฺสาททิฏฺ€ินิทฺเทสวณฺณนา  
+<span class="LineNumber"> 007 </span>	อิทานิ  าณกถานนฺตรํ  กถิตาย  ทิฏฺ€ิกถาย อนุปุพฺพ- 
+<span class="LineNumber"> 008 </span>อนุวณฺณนา (๑)  อนุปฺปตฺตา ฯ  อยํ  หิ  ทิฏฺ€ิกถา  าณกถาย  
+<span class="LineNumber"> 009 </span>กตาณปริจยสฺส  สมธิคตสมฺมาทิฏฺ€ิสฺส  มิจฺฉาทิฏฺ€ิมลวิโสธนา 
+<span class="LineNumber"> 010 </span>สุกรา  โหติ  สมฺมาทิฏฺ€ิ  จ  สุปริสุทฺธา  โหตีติ าณกถานนฺตรํ  
+<span class="LineNumber"> 011 </span>กถิตา ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  กา  ทิฏฺ€ีติอาทิกา  ปุจฺฉา  กา  ทิฏฺ€ีติ อภินิเวส-  
+<span class="LineNumber"> 013 </span>ปรามาโส ทิฏฺ€ีติอาทิกํ ปุจฺฉิตปุจฺฉาย วิสฺสชฺชนํ กถํ อภินิเวส-  
+<span class="LineNumber"> 014 </span>ปรามาโส ทิฏฺ€ีติอาทิโก  วิสฺสชฺชิตวิสฺสชฺชนสฺส  วิตฺถารนิทฺเทโส  
+<span class="LineNumber"> 015 </span>สพฺพาว  ตา  ทิฏฺ€ิโย อสฺสาททิฏฺ€ิโยติอาทิกา  ทิฏฺ€ิสุตฺต-  
+<span class="LineNumber"> 016 </span>สํสนฺทนาติ  เอวมิเม จตฺตาโร  ปริจฺเฉทา ฯ 
+<span class="LineNumber"> 017 </span>	ตตฺถ  ปุจฺฉาปริจฺเฉเท  ตาว  กา  ทิฏฺ€ีติ  ธมฺมปุจฺฉา  
+<span class="LineNumber"> 018 </span>สภาวปุจฺฉา ฯ  
+<span class="LineNumber"> 019 </span>	กติ ทิฏฺ€ิฏฺ€านานีติ  เหตุปุจฺฉา  ปจฺจยปุจฺฉา กิตฺตกานิ 
+<span class="LineNumber"> 020 </span>#๑.  กตฺถจิ. อปุพฺพตฺถานุวณฺณนา ฯ

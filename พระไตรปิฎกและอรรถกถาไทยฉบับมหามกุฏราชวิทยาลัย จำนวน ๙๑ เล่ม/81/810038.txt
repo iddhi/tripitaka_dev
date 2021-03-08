@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>จักขุนทริยสนิทัสสนันติอาทิกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๑๒๑]  <B>สกวาที</B>  จักขุนทรีย์เป็นสนิทัสสนะ  หรือ ?        
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>  ถูกแล้ว
+<span class="LineNumber"> 004 </span>                        ส. เป็นรูป  เป็นรูปายตนะ  เป็นรูปธาตุ ฯลฯ  มาสู่คลอง      
+<span class="LineNumber"> 005 </span>แห่งจักษุ  หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>         [๑๑๒๒]  ส. จักขุนทรีย์เป็นสนิทัสสนะ หรือ?
+<span class="LineNumber"> 008 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                        ส. อาศัยจักษุและจักขุนทรีย์ จึงเกิดจักขุวิญญาณขึ้น หรือ ?
+<span class="LineNumber"> 010 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 011 </span>         [๑๑๒๓]  ส.  อาศัยจักษุและจักขุนทรีย์    จึงเกิดจักขุวิญญาณขึ้น
+<span class="LineNumber"> 012 </span>หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                        ส. คำว่า  อาศัยจักษุและจักขุนทรีย์ จึงเกิดจักขุวิญญาณ
+<span class="LineNumber"> 015 </span>ขึ้น ดังนี้  เป็นสูตรมีอยู่จริง  หรือ ?
+<span class="LineNumber"> 016 </span>                        ป. ไม่มี
+<span class="LineNumber"> 017 </span>                        ส. คำว่า  <B>อาศัยจักษุและรูปจึงเกิดจักขุวิญญาณขึ้น</B>  ดังนี้
+<span class="LineNumber"> 018 </span>เป็นสูตรมีอยู่จริง  หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ถูกแล้ว
+<span class="LineNumber"> 020 </span>                        ส. หากว่า  คำว่า  <B>อาศัยจักษุและรูป  จึงเกิดจักขุวิญญาณ
+<span class="LineNumber"> 021 </span>ขึ้น</B>  ดังนี้  เป็นสูตรมีอยู่จริง  ก็ต้องไม่กล่าวว่า  อาศัยจักษุและจักขุนทรีย์
+<span class="LineNumber"> 022 </span>จึงเกิดจักขุวิญญาณขึ้น.

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>		<B>กระทำ   และไม่พึงชอบใจการสนทนาปราศรัย
+<span class="LineNumber"> 002 </span>		ด้วยคนพาล.</B>
+<span class="LineNumber"> 003 </span>            		<B>ข้าแต่ท่านกัสสปะ     เพราะอะไรท่านจึง
+<span class="LineNumber"> 004 </span>		ไม่ชอบคนพาล  ขอจงบอกเหตุ   เพราะเหตุไร
+<span class="LineNumber"> 005 </span>		พระคุณเจ้าจึงไม่ปรารถนาที่จะเห็นคนพาล.</B>
+<span class="LineNumber"> 006 </span>       			<B>คนพาลย่อมแนะนำสิ่งไม่ควรแนะนำ
+<span class="LineNumber"> 007 </span>		ย่อมขวนขวายในกิจอันไม่ใช่ธุระ        คนพาล
+<span class="LineNumber"> 008 </span>		แนะนำให้ดีได้ยาก   พูดดีหวังจะให้เขาเป็นคน
+<span class="LineNumber"> 009 </span>		ประเสริฐกลับโกรธ   คนพาลนั้นไม่รู้วินัย  การ
+<span class="LineNumber"> 010 </span>		ไม่เห็นคนพาลได้เป็นความดี.</B>
+<span class="LineNumber"> 011 </span>         		<B>ข้าแต่ท่านกัสสปะ  พระคุณเจ้าปรารถนา
+<span class="LineNumber"> 012 </span>		อะไรอีก.</B>
+<span class="LineNumber"> 013 </span>         		<B>ท่านท้าวสักกะจอมเทพ   หากท่านจะให้
+<span class="LineNumber"> 014 </span>		พรแก่อาตมา   ขอจงให้พรดังนี้   บุคคลพึงเห็น
+<span class="LineNumber"> 015 </span>		นักปราชญ์   พึงฟังนักปราชญ์   พึงอยู่ร่วมกับ
+<span class="LineNumber"> 016 </span>		นักปราชญ์       พึงกระทำและพึงชอบใจการ
+<span class="LineNumber"> 017 </span>		สนทนาปราศรัยกับนักปราชญ์.</B>

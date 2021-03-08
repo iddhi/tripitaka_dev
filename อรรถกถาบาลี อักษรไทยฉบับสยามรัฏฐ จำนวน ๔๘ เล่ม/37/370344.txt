@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  344
+
+<span class="LineNumber"> 002 </span>		ภูมินฺธโร วรุโณ นาม นาโค  
+<span class="LineNumber"> 003 </span>		พฺรหา สุจี วณฺณพลูปปนฺโน  
+<span class="LineNumber"> 004 </span>		ตสฺสานุชํ ธีตรํ กามยามิ  
+<span class="LineNumber"> 005 </span>		อิรนฺทตี นาม สา นาคกฺา  
+<span class="LineNumber"> 006 </span>		ตสฺสา สุมชฺฌาย ปิยาย เหตุ  
+<span class="LineNumber"> 007 </span>		ปตารยึ ตุยฺหํ วธาย ธีราติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  สชีโวติ  สชีโว  อมจฺโจ ฯ พฺรหาติ อาโรหปรินาห-
+<span class="LineNumber"> 009 </span>สมฺปนฺโน ฯ  สุจีติ (๑) อุฏฺ€าปิตกาฺจนรูปสทิโส ฯ  วณฺณพลูปปนฺโนติ  
+<span class="LineNumber"> 010 </span>สรีรวณฺเณน  จ  กายพเลน  จ  อุปคโต ฯ  ตสฺสานุชนฺติ  ตสฺส
+<span class="LineNumber"> 011 </span>อนุชาตํ  ธีตรํ ฯ ปตารยินฺติ จิตฺตํ ปวตฺเตสึ สนฺนิฏฺ€านํ 
+<span class="LineNumber"> 012 </span>อกาสินฺติ (๒)อตฺโถ ฯ  
+<span class="LineNumber"> 013 </span>	ตํ  สุตฺวา  มหาสตฺโต  อยํ  โลโก  ทุคฺคหิเตน  นสฺสติ  
+<span class="LineNumber"> 014 </span>นาคมาณวิกมฺปตฺเถนฺตสฺส(๓)  มม  มรเณน  กึ  ปโยชนํ  ตตฺตโต  นํ (๔) 
+<span class="LineNumber"> 015 </span>ชานิสฺสามีติ จินฺเตตฺวา คาถมาห  
+<span class="LineNumber"> 016 </span>	[๙๘๙]มาเหว เต (๕)ยกฺข อโหสิ โมโห(๖)  
+<span class="LineNumber"> 017 </span>		นฏฺ€า พหู ทุคฺคหิเตน โลกา (๗) 
+<span class="LineNumber"> 018 </span>		กินฺเต (๘) สุมชฺฌาย ปิยาย กิจฺจํ  
+<span class="LineNumber"> 019 </span>		มรเณน เม อิงฺฆ สุโณหิ สพฺพนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. สนฺนิฏฺ€านมกาสินฺติ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. นาคมาณวิกํ ปตฺเถนฺตสฺส ฯ  ๔. ม. ตถโต การณํ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. ตฺวํ ฯ  ๖. ม. มูฬฺโห ฯ  ๗. ม. โลเก ฯ  
+<span class="LineNumber"> 023 </span># ๘. ม. กึ เต ฯ 

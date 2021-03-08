@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  จตุกฺกนิปาตวณฺณนา  หน้า  518
+		
+<span class="LineNumber"> 002 </span>สปฺปฺชาติกานํ เอกนฺเตเนว ปีติปาโมชฺชการณนฺติ ฯ
+<span class="LineNumber"> 003 </span>	อิทานิ  ตํ  ตสฺส  การณภาวํ  ทสฺเสตุํ  เต โชตยนฺตีติ
+<span class="LineNumber"> 004 </span>โอสานคาถาทฺวยมาห ฯ
+<span class="LineNumber"> 005 </span>	ตตฺถ  เตติ  เต  ภาวิตตฺตา  ธมฺมชีวิโน  อริยา ฯ  โชตยนฺตีติ(๑)
+<span class="LineNumber"> 006 </span>ปกาสยนฺติ ฯ ภาสยนฺตีติ  สทฺธมฺโมภาเสน  โลกํ  ปภาสยนฺติ  ธมฺมํ 
+<span class="LineNumber"> 007 </span>เทเสนฺตีติ  อตฺโถ ฯ เยสนฺติ เยสํ  อริยานํ ฯ  สาสนนฺติ  โอวาทํ ฯ
+<span class="LineNumber"> 008 </span>สมฺมทฺายาติ  ปุพฺพภาคาเณหิ  สมฺมเทว ชานิตฺวา ฯ เสสํ 
+<span class="LineNumber"> 009 </span>วุตฺตนยเมว ฯ
+<span class="LineNumber"> 010 </span>		ปฺจมสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+
+<span class="LineNumber"> 011 </span>		ตณฺหุปฺปาทสุตฺตวณฺณนา
+<span class="LineNumber"> 012 </span>	ฉฏฺเ€  ตณฺหุปฺปาทาติ  เอตฺถ  อุปฺปชฺชติ  เอเตสูติ  
+<span class="LineNumber"> 013 </span>อุปฺปาทา ฯ  กา อุปฺปชฺชติ  ตณฺหา ฯ  ตณฺหาย  อุปฺปาทา 
+<span class="LineNumber"> 014 </span>ตณฺหุปฺปาทา ตณฺหาวตฺถูนิ ตณฺหาการณานีติ อตฺโถ ฯ 
+<span class="LineNumber"> 015 </span>ยตฺถาติ  เยสุ  นิมิตฺตภูเตสุ ฯ อุปฺปชฺชมานาติ อุปฺปชฺชนสีลา ฯ 
+<span class="LineNumber"> 016 </span>จีวรเหตูติ เอตฺถ(๒)  มนาปํ  จีวรํ  ลภิสฺสามีติ  จีวรการณา 
+<span class="LineNumber"> 017 </span>อุปฺปชฺชติ ฯ เสสปเทสุปิ เอเสว นโย ฯ  อิติ  ภวาภวเหตูติ
+<span class="LineNumber"> 018 </span>เอตฺถ  ปน  อิตีติ นิทสฺสนตฺเถ นิปาโต ฯ ยถา จีวรทิเหตุปีติ(๓)
+<span class="LineNumber"> 019 </span># ๑. โวหรนฺตีติปิ ปาโ€ ฯ ปาลิยา ปน วิสทิสํ ฯ  
+<span class="LineNumber"> 020 </span># ๒. ที. ปา. ๑๑/๒๓๗/๒๓๖ ฯ  องฺ. จตุกฺก. ๒๑/๙/๒๑ ฯ
+<span class="LineNumber"> 021 </span># ม. กตฺถ ฯ ๓. ม. จีวราทิเหตุ เอวํ ภวาภวเหตุปีติ ฯ 

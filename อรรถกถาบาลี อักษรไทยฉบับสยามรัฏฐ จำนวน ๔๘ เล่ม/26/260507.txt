@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  เสลตฺเถรคาถาวณฺณนา  507  
+
+<span class="LineNumber"> 002 </span>		ติสตาปิ  จ  เชฏฺโ€  จ  		อนุวตฺตึสุ  เอกโต  
+<span class="LineNumber"> 003 </span>		สมฺปตฺตึ  (๑)  หิ  กริตฺวาน  	สพฺเพ  อนุภวิสฺสถ ฯ  
+<span class="LineNumber"> 004 </span>		ปจฺฉิเม  ภเว  สมฺปตฺเต  		สีติภาวมนุตฺตรํ  
+<span class="LineNumber"> 005 </span>		อชรํ  อมรํ  สนฺตํ  			นิพฺพานํ  ปสฺสยิสฺสถ ฯ  (๒)  
+<span class="LineNumber"> 006 </span>		เอวํ  พุทฺโธ  วิยากาสิ  		สพฺพฺู  สมณุตฺตโร  (๓)
+<span class="LineNumber"> 007 </span>		พุทฺธสฺส  วจนํ  สุตฺวา  		โสมนสฺสํ  ปเวทยึ ฯ  
+<span class="LineNumber"> 008 </span>		ตึสกปฺปสหสฺสานิ  			เทวโลเก  รมึ  อหํ  
+<span class="LineNumber"> 009 </span>		เทวาธิโป  ปฺจสตํ  			เทวรชฺชมการยึ ฯ  
+<span class="LineNumber"> 010 </span>		สหสฺสกฺขตฺตุํ  ราชา  จ  		จกฺกวตฺตี  อโหสหํ  
+<span class="LineNumber"> 011 </span>		เทวรชฺชํ  กโรนฺตสฺส			มหาเทวา อวนฺทิสุํ  (๒)  
+<span class="LineNumber"> 012 </span>		อิธ  มานุสเก  รชฺชํ  (๕)		ปริสา  โหนฺติ  พนฺธวา  
+<span class="LineNumber"> 013 </span>		ปจฺฉิเม  ภเว  สมฺปตฺเต  		วาเสฏฺโ€  นาม  พฺราหฺมโณ ฯ  
+<span class="LineNumber"> 014 </span>		อสีติโกฏิ  นิจโย  			ตสฺส  ปุตฺโต  อโหสหํ  
+<span class="LineNumber"> 015 </span>		เสโล  อิติ  มมํ  นามํ  			ฉฬงฺเค  ปารมึ  คโต ฯ  
+<span class="LineNumber"> 016 </span>		ชงฺฆาวิหารํ  วิจรํ  			สสิสฺเสหิ  ปุรกฺขโต  
+<span class="LineNumber"> 017 </span>		ชฏาภาริกภริตํ  	(๖)			เกณิยํ  นาม  ตาปสํ ฯ  
+<span class="LineNumber"> 018 </span>		ปฏิยตฺตาหุตึ  ทิสฺวา  			อิทํ  วจนมพฺรวึ  
+<span class="LineNumber"> 019 </span>		อาวาโห  วา  วิวาโห  วา  		ราชา  วา  เต  นิมนฺติโต ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. สมฺปตฺตี  ฯ  ๒.  สฺยา. ปสฺสยิสฺสถ  ฯ  ยุ.  ผุสฺสยิสฺสถ  ฯ  
+<span class="LineNumber"> 021 </span>#๓.  สฺยา. สพฺพฺูตมนุตฺตโร  ฯ  ม.  สมณุตฺตโร  ฯ  ๔.  สฺยา.
+<span class="LineNumber"> 022 </span>#ปเทสรชฺชํ  วิปุลํ  คณนาโต  อสงฺขยํ  ฯ  ๕.  สฺยา. รชฺเช  ฯ  
+<span class="LineNumber"> 023 </span>#๖.  สฺยา. ชฏาภารภริตํปิ  ฯ  

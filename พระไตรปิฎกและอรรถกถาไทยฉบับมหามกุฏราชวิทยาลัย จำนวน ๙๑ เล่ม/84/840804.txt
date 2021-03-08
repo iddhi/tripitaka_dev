@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>ปัจจุปันนานาคต  โอกาสวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                  <H2>จักขุนทริยมูล</H2>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ   ฯลฯ</B>
+<span class="LineNumber"> 004 </span>         [๑๑๑๒]   จักขุนทรีย์กำลังเกิดในภูมิใด     ฯลฯ
+<span class="LineNumber"> 005 </span>                            <I>จบ    จักขุนทริยมูละ   ฯลฯ</I>
+
+<span class="LineNumber"> 006 </span>               <I>ปัจจุปันนานาคต   โอกาสวาระ   อนุโลม  จบ</I> 

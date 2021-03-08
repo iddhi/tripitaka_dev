@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>                                      คำนำ  
+<span class="LineNumber"> 002 </span>	วินัยมุข  เล่ม ๒  เป็นหลักสูตรนักธรรมชั้นโท  พิมพ์ครั้งนี้
+<span class="LineNumber"> 003 </span>ได้จัดวรรคตอนให้เรียบร้อยดียิ่งขึ้น  และแก้ไขอักษรให้ถูกต้องตาม
+<span class="LineNumber"> 004 </span>ความนิยมของชนหมู่มาก  ส่วนข้อความคงไว้ตามเดิม  มิได้แก้ไข
+<span class="LineNumber"> 005 </span>เปลี่ยนแปลงอย่างไร.
+<span class="LineNumber"> 006 </span>							<B>กองตำรา</B>
+<span class="LineNumber"> 007 </span>มหามกุฏราชวิทยาลัย
+<span class="LineNumber"> 008 </span>๒๕  มิถุนายน  ๒๔๘๑

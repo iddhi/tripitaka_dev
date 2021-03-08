@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                      <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 003 </span><H2>จักขายตนมูละ   ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๕๔๕]  จักขายตนะไม่ใช่กำลังดับในภูมิใด,  ฯ ล ฯ
+<span class="LineNumber"> 005 </span>                                   <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                    <I>โอกาสวาระ   จบ</I>
+
+<span class="LineNumber"> 007 </span>                                     <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                       <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 009 </span><H2>จักขายตนมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 010 </span>         [๕๔๖]   จักขายตนะไม่ใช่กำลังดับแก่บุคคลใดในภูมิใด,  ฯ ล ฯ
+<span class="LineNumber"> 011 </span>         ( คำว่า   แก่บุคคลใดก็ดี     แก่บุคคลใดในภูมิใดก็ดี     เป็นเช่น
+<span class="LineNumber"> 012 </span>เดียวกัน )
+<span class="LineNumber"> 013 </span>                                     <I>จักขายตนมูล จบ</I>
+<span class="LineNumber"> 014 </span>                                   <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 015 </span>                            <I>ปัจจุปปันนวาระ  ปัจจนิก  จบ</I>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  510
+
+<span class="LineNumber"> 002 </span>หุตฺวา  เอเต  นย  อปิจ  โข  ปเนตํ  การณํ  อตฺถิ  เอเตสํ 
+<span class="LineNumber"> 003 </span>มาตา ราชปุตฺตี  ผลาผลตฺถาย  ปาโตว  คตา  สายํ 
+<span class="LineNumber"> 004 </span>อรฺโต  อาคมิสฺสติ  ตาย  อานีตานิ  มธุรผลาผลานิ 
+<span class="LineNumber"> 005 </span>ปริภุฺชิตฺวา(๑)  อิเธว  วเน  อชฺเชกรตฺตึ  วสิตฺวา  ปาโตว  ทารเก  
+<span class="LineNumber"> 006 </span>คเหตฺวา  คมิสฺสสีติ ฯ  ตสฺสา  นหาเตติ  ตาย  นหาปิเต ฯ 
+<span class="LineNumber"> 007 </span>อุปสึฆาเฏติ  สีเส(๒)  อุปสึฆาเฏ ฯ  อถ  เน  มาลธาริเนติ  อถ 
+<span class="LineNumber"> 008 </span>[๓] วิจิตฺราย  มาลาย  อลงฺกเต  ตํ  มาลํ  วหมาเน ฯ  
+<span class="LineNumber"> 009 </span>ปาลิโปตฺถเกสุ  ปน  อถ  เนติ (๔) ลิขิตํ ฯ  ตสฺสตฺโถ  น  
+<span class="LineNumber"> 010 </span>วิจาริโต ฯ  มูลผลากิณฺเณติ  มคฺเค  ปาเถยฺยสฺสตฺถาย(๕)  ทินฺเนหิ  
+<span class="LineNumber"> 011 </span>นานามูลผลาผเลหิ  อากิณฺเณ ฯ  
+<span class="LineNumber"> 012 </span>	ชูชโก อาห  
+<span class="LineNumber"> 013 </span>	[๑๑๖๔]น วาสมภิโรจามิ		คมนํ มยฺหํปิ(๖) รุจฺจติ  
+<span class="LineNumber"> 014 </span>		อนฺตราโยปิ เม อสฺส	คจฺฉฺเว รเถสภ  
+<span class="LineNumber"> 015 </span>		น เหตา ยาจโยคี นํ	อนฺตรายสฺส การิยา  
+<span class="LineNumber"> 016 </span>		อิตฺถิโย มนฺตํ ชานนฺติ	สพฺพํ คณฺหนฺติ วามโต  
+<span class="LineNumber"> 017 </span>		สทฺธาย ทานํ ททโต	มา สมทกฺขิ(๗) มาตรํ  
+<span class="LineNumber"> 018 </span>		อนฺตรายํปิ สา กยิรา	คจฺฉฺเว รเถสภ  
+<span class="LineNumber"> 019 </span># ๑. ม. ภุฺชิตฺวา ฯ  ๒. ม. สีสมฺหิ ฯ  ๓. ม. เอตฺถนฺตเร เนติ
+<span class="LineNumber"> 020 </span># ทิสฺสติ ฯ  ๔. ม. อถ เน มาลาธาริโนติ ฯ  ๕. ม. ปาเถยฺยตฺถาย ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. มยฺห ฯ ๗. ม. สํ อทกฺขิ ฯ 

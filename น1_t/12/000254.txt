@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>	๓.  งานส่วนตัวของคนเรามากอยู่แล้ว       เหตุใดพระจึงสอนให้ 
+<span class="LineNumber"> 002 </span>              ทำงานของเพื่อน  ?   ผู้จะทำงานของเพื่อนต้องประกอบด้วย
+<span class="LineNumber"> 003 </span>              องค์คุณอย่างไร  ?
+<span class="LineNumber"> 004 </span>	๔.  คนเช่นไร   ชื่อว่า   ผู้ใคร่ในธรรมที่ชอบ  ?
+<span class="LineNumber"> 005 </span>	๕.  ความสันโดษ  ช่วยให้คนเป็นสุขได้อย่างไร  ?
+<span class="LineNumber"> 006 </span>	๖.  ถ้าเราอยากทำตนให้เป็นที่พึ่งแก่ตน   จะต้องปฏิบัติอย่างไร  ?
+
+<span class="LineNumber"> 007 </span>					<B>	ต้นเอ๋ย     ต้นยี่โถ
+<span class="LineNumber"> 008 </span>					ปลูกไว้โชว์    พวงช่อ   ลออสม
+<span class="LineNumber"> 009 </span>					พอผลิดอก   ออกมา    งามน่าชม
+<span class="LineNumber"> 010 </span>					ต้องสายลม   พัดแรง   โยนแกว่งไกว
+<span class="LineNumber"> 011 </span>						เหมือนคนดี   มีวิชา   มารยาทพร้อม
+<span class="LineNumber"> 012 </span>					โอนอ่อนน้อม   เป็นนิตย์   จิตผ่องใส
+<span class="LineNumber"> 013 </span>					ไม่อวดเบ่ง   แข็งข้อ  ต่อผู้ใด
+<span class="LineNumber"> 014 </span>					งามวิไล    ควรโชว์    โอ่อ่า   เอย.</B>
+<span class="LineNumber"> 015 </span>										<B>ศรี ฯ   นคร.</B>

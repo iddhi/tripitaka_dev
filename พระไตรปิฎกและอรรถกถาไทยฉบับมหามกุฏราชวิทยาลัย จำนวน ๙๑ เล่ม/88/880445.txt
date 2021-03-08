@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๓    ทิฏฐาสวะ  อวิชชาสวะ   อาศัยขันธ์ ๑   ที่เป็นอาสว-
+<span class="LineNumber"> 002 </span>สัมปยุตตธรรมแต่ไม่ใช่อาสวธรรม   และกามาสวะ ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 003 </span>           พึงผูกจักรนัย 
+<span class="LineNumber"> 004 </span>           ทุกปัจจัยพึงกระทำอย่างนี้.
+
+<span class="LineNumber"> 005 </span>                              <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 006 </span>           [๔๐๖]  ในเหตุปัจจัย  มี ๙ วาระ   ในอารัมมณปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 007 </span>ในอธิปติปัจจัย  มี ๙ วาระ    ในปัจจัยทั้งปวง  มี ๙ วาระ    ในกัมมปัจจัย
+<span class="LineNumber"> 008 </span>มี ๙ วาระ  ในวิปากปัจจัย ไม่มี  ในอาหารปัจจัย  มี ๙ วาระ  ฯลฯ ในอวิคต-
+<span class="LineNumber"> 009 </span>ปัจจัย  มี ๙ วาระ.
+
+<span class="LineNumber"> 010 </span>                                             <H1>ปัจจนียนัย</H1>  
+<span class="LineNumber"> 011 </span>                                       <H1>๑.   นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           [๔๐๗]  <B>ธรรมที่เป็นทั้งอาสวธรรมและอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 013 </span>อาศัยธรรมที่เป็นทั้งอาสวธรรมและอาสวสัมปยุตตธรรม    เกิดขึ้น
+<span class="LineNumber"> 014 </span>เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 015 </span>           นเหตุมูลกะ  ไม่มี.
+<span class="LineNumber"> 016 </span>           <B>ฯลฯ   เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 017 </span>           <B>ฯลฯ   เพราะนปัจฉาชาตปัจจัย</B>
+<span class="LineNumber"> 018 </span>                                                   ฯลฯ

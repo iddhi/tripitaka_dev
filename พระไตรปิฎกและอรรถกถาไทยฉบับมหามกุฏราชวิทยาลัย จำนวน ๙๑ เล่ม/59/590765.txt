@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ลำดับนั้น   เทวราชเมื่อจะบอกเหตุแก่เขา  จึงได้กล่าวคาถา  ๖
+<span class="LineNumber"> 002 </span>คาถาว่า :-
+<span class="LineNumber"> 003 </span>                        <B>ท่านได้ทรัพย์มากมายแสนสองหมื่นแล้ว
+<span class="LineNumber"> 004 </span>           ยังไม่เชื่อคำของญาติผู้เอ็นดู.
+<span class="LineNumber"> 005 </span>                        ท่านแล่นเรือไปสู่สมุทรอันอาจทำให้ 
+<span class="LineNumber"> 006 </span>           เรือโลดขึ้นได้    เงินสาครที่มีสิทธิ์น้อย    ได้
+<span class="LineNumber"> 007 </span>           ประสบนางเวมานิกเปรต  ๔ นาง จาก ๔ นาง 
+<span class="LineNumber"> 008 </span>           เป็น  ๘ นาง จาก ๘ นาง  เป็น  ๑๖ นาง.
+<span class="LineNumber"> 009 </span>                        ถึงจะได้ประสบนางเวมานิกเปรตจาก ๑๖
+<span class="LineNumber"> 010 </span>           นาง  เป็น  ๓๒ นาง  ก็ยังปรารถนายิ่งไปกว่านั้น 
+<span class="LineNumber"> 011 </span>           จึงได้ประสบจักรนี้     จักรกรดย่อมพัดพันบน
+<span class="LineNumber"> 012 </span>           ศีรษะของคนผู้ถูกความอยากครอบงำ.
+<span class="LineNumber"> 013 </span>                        ความอยากเป็นของสูงใหญ่ไพศาล  ยาก
+<span class="LineNumber"> 014 </span>           ที่จะให้เต็ม   มักให้ถึงความวิบัติ    ชนเหล่าใด
+<span class="LineNumber"> 015 </span>           ย่อมยินดีไปตามความอยาก    ชนเหล่านั้นย่อม
+<span class="LineNumber"> 016 </span>           เป็นผู้ทรงจักรกรดไว้.</B>

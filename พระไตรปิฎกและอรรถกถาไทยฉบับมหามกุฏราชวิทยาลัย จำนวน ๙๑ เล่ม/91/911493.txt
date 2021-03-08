@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>นสรณทุกนเหตุสัมปยุตตทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                           <H1>สรณทุกเหตุสัมปยุตตทุกะ</H1>  
+<span class="LineNumber"> 003 </span>     <H2>(๑๐๐.  สรณทุกะ  ๓.  เหตุสัมปยุตตทุกะ)</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                 <H2>เหตุสัมปยุตตบท</H2>
+<span class="LineNumber"> 008 </span>           [๑๔๑๕] ๑.  <B>เหตุสัมปยุตตธรรม  ที่เป็นอรณธรรม  อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่เหตุสัมปยุตตธรรม  ที่ไม่ใช่สรณธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 010 </span>ปัจจัย</B>                                                                            
+<span class="LineNumber"> 011 </span>                         ๒.  <B>เหตุสัมปยุตตธรรม  ที่เป็นสรณธรรม  อาศัยธรรม
+<span class="LineNumber"> 012 </span>ที่ไม่ใช่เหตุสัมปยุตตธรรม  ที่ไม่ใช่อรณธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 013 </span>ปัจจัย</B>     
+                                                                   
+<span class="LineNumber"> 014 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>           [๑๔๑๖] ในเหตุปัจจัย มี ๒ วาระ   ฯลฯ
+
+<span class="LineNumber"> 016 </span>                                  <H2>เหตุวิปปยุตตบท</H2>
+<span class="LineNumber"> 017 </span>           [๑๔๑๗] ๑.  <B>เหตุวิปปยุตตธรรม ที่เป็นอรณธรรม  อาศัยธรรม
+<span class="LineNumber"> 018 </span>ที่ไม่ใช่เหตุวิปปยุตตธรรม  ที่ไม่ใช่สรณธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 019 </span>ปัจจัย</B>                                                                     

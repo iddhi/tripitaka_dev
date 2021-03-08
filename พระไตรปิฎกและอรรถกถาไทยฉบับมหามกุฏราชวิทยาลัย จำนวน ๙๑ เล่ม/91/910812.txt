@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>	  
+<span class="LineNumber"> 002 </span>           [๘๐๑]  ในเหตุปัจจัย  มี ๖  วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                   <H2>ปณีตบท</H2>
+<span class="LineNumber"> 004 </span>           [๘๐๒] ๑.  <B>ธรรมที่ไม่ใช่ปณีตธรรม   ที่ไม่ใช่กุศล     อาศัย
+<span class="LineNumber"> 005 </span>ปณีตธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>                                          <B>ฯลฯ</B>
+
+<span class="LineNumber"> 007 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๘๐๓]  ในเหตุปัจจัย มี ๖ วาระ  ฯลฯ
+<span class="LineNumber"> 009 </span>                     <I>กุสลติกหีนติกนกุสลติกนหีนติกะ  จบ</I>

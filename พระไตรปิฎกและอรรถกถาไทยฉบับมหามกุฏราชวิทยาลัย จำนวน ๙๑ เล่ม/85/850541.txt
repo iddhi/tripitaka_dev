@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>              <B>๑๘.  ปัจจัย ๘</B>  คือ อินทริยะ  สหชาตะ  นิสสยะ วิปากะ
+<span class="LineNumber"> 002 </span>มัคคะ  อัตถิ  อวิคตปัจจัย  มี ๑  วาระ.   
+<span class="LineNumber"> 003 </span>              <B>๑๙.  ปัจจัย ๘</B>  คือ อินทริยะ   สหชาตะ    อัญญมัญญะ
+<span class="LineNumber"> 004 </span>นิสสยะ  วิปากะ  มัคคะ  อัตถิ  อวิคตปัจจัย มี ๑  วาระ.
+<span class="LineNumber"> 005 </span>              <B>๒๐.  ปัจจัย ๙</B>  คือ อินทริยะ   สหชาตะ    อัญญมัญญะ
+<span class="LineNumber"> 006 </span>นิสสยะ  วปากะ  มัคคะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 007 </span>              <B>๒๑.  ปัจจัย ๘</B>  คือ อินทริยะ  สหชาตะ นิสสยะ  วิปากะ
+<span class="LineNumber"> 008 </span>มัคคะ  วิปปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 009 </span>              <B>๒๒.  ปัจจัย ๙</B> คือ อินทริยะ   สหชาตะ    อัญญมัญญะ
+<span class="LineNumber"> 010 </span>นิสสยะ วิปากะ มัคคะ  วิปปยุตตะ  อัตถิ  อวิคตปัจจัย   มี ๑ วาระ.
+
+<span class="LineNumber"> 011 </span>                                  <H1>สฌานฆฏนา ๙</H1>
+<span class="LineNumber"> 012 </span>              <B>๒๓.  ปัจจัย ๖</B>   คือ อินทริยะ   สหชาตะ  นิสสยะ  ณานะ
+<span class="LineNumber"> 013 </span>อัตถิ  อวิคตปัจจัย  มี ๗ วาระ.
+<span class="LineNumber"> 014 </span>              <B>๒๔.  ปัจจัย ๗</B>  คือ อินทริยะ    สหชาตะ    อัญญมัญญะ 
+<span class="LineNumber"> 015 </span>นิสสยะ  ณานะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>              <B>๒๕.  ปัจจัย ๘</B>  คือ อินทริยะ   สหชาตะ    อัญญมัญญะ
+<span class="LineNumber"> 017 </span>นิสสยะ  ณานะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>              <B>๒๖.  ปัจจัย ๗</B>   คือ อินทริยะ  สหชาตะ  นิสสยะ  ฌานะ
+<span class="LineNumber"> 019 </span>วิปปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.

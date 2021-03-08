@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ติกมูลกะ - กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ ทิฏฐา-
+<span class="LineNumber"> 003 </span>                 นุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๓๖๑]   บุคคลใด    ละกามราคานุสัย     ปฏิฆานุสัย    และ
+<span class="LineNumber"> 005 </span>มานานุสัย,  บุคคลนั้นย่อมละทิฏฐานุสัย  ฯลฯ วิจิกิจฉานุสัย ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ไม่มี.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า บุคคลใด   ละวิจิกิจฉานุสัย,  บุคคลนั้น    ย่อมละกาม.
+<span class="LineNumber"> 008 </span>ราคานุสัย   ปฏิฆานุสัย   และมานานุสัย ใช่ไหม ? 
+<span class="LineNumber"> 009 </span>         ย่อมละกิเลสอันตั้งอยู่ในที่เดียวกันกับอนุสัยนั้น.
+<span class="LineNumber"> 010 </span>      <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ  ทิฏฐานุสยมูลี</I>
+
+<span class="LineNumber"> 011 </span><H2>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ  ทิฏฐานุสยมูลี</H2> :-
+<span class="LineNumber"> 012 </span>         บุคคลใด   ละกามราคานุสัย  ปฏิฆานุสัย   และมานานุสัย,  บุคคล
+<span class="LineNumber"> 013 </span>นั้น  ย่อมละภวราคานุสัย  ฯลฯ  อวิชชานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ไม่มี.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า บุคคลใด  ละอวิชชานุสัย,  บุคคลนั้น  ย่อมละกามราคา-
+<span class="LineNumber"> 016 </span>นุสัย   ปฏิฆานุสัย   และมานานุสัย  ใช่ไหม ?

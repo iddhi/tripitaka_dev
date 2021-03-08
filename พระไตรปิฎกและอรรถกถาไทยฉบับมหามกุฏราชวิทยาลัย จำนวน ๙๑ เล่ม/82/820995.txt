@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>อตีตานาคตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 004 </span><H2>ทุกขสัจจมูละ   สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๙๗๐]   ทุกขสัจจะเคยดับแก่บุคคลใด,     สมุทยสัจจะก็จับดับ
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         บุคคลผู้ถึงพร้อมด้วยอรหัตมรรคก็ดี      พระอรหันต์ทั้งหลายก็ดี
+<span class="LineNumber"> 008 </span>บุคคลเหล่าใดจะได้อรหัตมรรคในลำดับแห่งจิตใดก็ดี    ทุกขสัจจะเคยดับ
+<span class="LineNumber"> 009 </span>แก่บุคคลเหล่านั้น  แต่สมุทยสัจจะไม่ใช่จักดับแก่บุคคลเหล่านั้น,  บุคคล
+<span class="LineNumber"> 010 </span>ที่นอกจากนี้ ทุกขสัจจะเคยดับ และสมุทยสัจจะก็จักดับแก่บุคคลเหล่านั้น. 
+<span class="LineNumber"> 011 </span>         ก็หรือว่า    สมุทยสัจจะจักดับแก่บุคคลใด,  ทุกขสัจจะก็เคยดับแก่
+<span class="LineNumber"> 012 </span>บุคคลนั้น    ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>                        <I>จบ   ทุกขสัจจมูละ    สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 015 </span><H2>ทุกขสัจจะมูละ  มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 016 </span>         [๙๗๑]   ทุกขสัจจะเคยดับแก่บุคคลใด,  มัคคสัจจะก็จักดับแก่
+<span class="LineNumber"> 017 </span>บุคคลนั้น  ใช่ไหม ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 319
+
+<span class="LineNumber"> 002 </span>		ปฏิโลมํ น มนฺเตยฺย	ส ราชวสตึ วเส  
+<span class="LineNumber"> 003 </span>		จาโปวูโนทโร(๑) อสฺส	มจฺโฉวสฺส อชิวหตา(๒)  
+<span class="LineNumber"> 004 </span>		อปฺปาสิ นิปโก สูโร	ส ราชวสตึ วเสติ ฯ  
+<span class="LineNumber"> 005 </span>	ตตฺถ  น  เตสํ  อนฺตรํ (๓) คจฺเฉติ  เตสํ  ลาภสฺส  อนฺตรายํ
+<span class="LineNumber"> 006 </span>น  คจฺเฉยฺย  อนฺตรายํ  น  กเรยฺย ฯ  วํโส  วาติ  ยถา  
+<span class="LineNumber"> 007 </span>วํสคุมฺพโต  อุคฺคตวํโส  วาเตน  ปหตกาเล  กมฺปติ  เอวํ  รฺา
+<span class="LineNumber"> 008 </span>กถิตกาเล  กมฺเปยฺย ฯ  ผ๔)จาโปวูโนทโรติ  ยถา  จาปธนุ  น  
+<span class="LineNumber"> 009 </span>มโหทโร  โหติ เอวํ  น  มโหทฺโร  สิยา ฯ  อชิวฺหตาติ (๕) ยถา 
+<span class="LineNumber"> 010 </span>มจฺโฉ  อชิวฺหตาย  น กเถติ  ตถา(๖) มนฺทกถาย อชิวฺหตา(๖) 
+<span class="LineNumber"> 011 </span>ภเวยฺย ฯ อปฺปาสีติ โภชเน มตฺตฺู ฯ  
+<span class="LineNumber"> 012 </span>	[๙๖๖]น พาฬฺหํ อิตฺถึ คจฺเฉยฺย	สมฺผสฺสํ เตชสํขฺยํ  
+<span class="LineNumber"> 013 </span>		กาสํ สาสํ ทรํ พาลฺยํ	ขีณเมโธ นิคจฺฉติ  
+<span class="LineNumber"> 014 </span>		นาติเวลํ ปภาเสยฺย	น ตุณฺหี สพฺพทา สิยา  
+<span class="LineNumber"> 015 </span>		อวิกิณฺณํ มิตํ วาจํ		ปตฺเต กาเล อุทีริเย(๗)  
+<span class="LineNumber"> 016 </span>		อโกธโน อสงฺฆฏฺโฏ	สจฺโจ สณฺโห อเปสุโณ  
+<span class="LineNumber"> 017 </span>		สมฺผํ คิรํ น ภาเสยฺย	ส ราชวสตึ วเสติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  น  พาฬหนฺติ  น  ปุนปฺปุนํ  กิเลเสน(๘) คจฺเฉยฺย ฯ
+<span class="LineNumber"> 019 </span># ๑. ม. จาโปวูนุทโร ฯ  ๒. ม. อชิวฺหวา ฯ  ๓. ม. อนฺตรา ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. จาโปวูนุทโรติ ยถา จาโป มโหทโร น โหติ ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. อชิวฺหวาติ ฯ  ๖. ม. ตถา เสวโก มนฺทกถตาย 
+<span class="LineNumber"> 022 </span># อชิวฺหวา ฯ ๗. ม. อุทีรเย ฯ ๘. ม.กิเลสวเสน ฯ

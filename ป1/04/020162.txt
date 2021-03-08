@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span><B>สิวฺ</B>	เป็นไปในความ  เย็บ  <B>[สิวฺ + ย = พฺพ + ติ]</B>  สำเร็จรูปเป็น  
+<span class="LineNumber"> 002 </span>	<B>สิพฺพติ</B>  ย่อมเย็บ.  
+<span class="LineNumber"> 003 </span><B>พุธฺ</B> 	เป็นไปในความ  ตรัสรู้  <B>[พุธฺ + ย = ชฺฌ + ติ]</B>  สำเร็จรูปเป็น
+<span class="LineNumber"> 004 </span>	<B>พุชฺฌติ</B>  ย่อมตรัสรู้.
+<span class="LineNumber"> 005 </span><B>* ขี</B>	เป็นไปในความ  สิ้น  <B>[ขี + ย + ติ]</B>  สำเร็จรูปเป็น <B>ขียติ</B>
+<span class="LineNumber"> 006 </span>	ย่อมสิ้น.
+<span class="LineNumber"> 007 </span><B>* มุหฺ</B>  เป็นไปในความ  หลง  [มุหฺ + ย = ยฺห + ติ]   สำเร็จรูปเป็น
+<span class="LineNumber"> 008 </span>	<B>มุยฺหติ</B>  ย่อมหลง.
+<span class="LineNumber"> 009 </span><B>มุสฺ</B>	เป็นไปในความ  ลืม  <B>[มุสฺ + ย = สฺส + ติ]</B>  สำเร็จรูปเป็น
+<span class="LineNumber"> 010 </span>	<B>มุสฺสติ</B>  ย่อมลืม.
+<span class="LineNumber"> 011 </span><B>รชฺ</B>	เป็นไปในความ  ย้อม  <B>[รชฺ + ย = ชฺช + ติ]</B>  สำเร็จรูปเป็น
+<span class="LineNumber"> 012 </span>	<B>รชฺชติ</B>  ย่อมย้อม.
+<span class="LineNumber"> 013 </span>                                  ๔.  หมวด  สุ  ธาติ
+<span class="LineNumber"> 014 </span><B>สุ</B>	เป็นไปในความ  ฟัง  <B>[สุ + ณา + ติ]</B>  สำเร็จรูปเป็น  <B>สุณาติ</B>
+<span class="LineNumber"> 015 </span>	ย่อมฟัง.
+<span class="LineNumber"> 016 </span><B>วุ</B>	เป็นไปในความ  ร้อย  <B>[วุ + ณา + ติ]</B>  สำเร็จรูปเป็น  <B>วุณาติ</B>-
+<span class="LineNumber"> 017 </span>	ย่อมร้อย.
+<span class="LineNumber"> 018 </span><B>สิ</B>  	เป็นไปในความ  ผูก  <B>[สิ + ณุ = โณ + ติ]</B>  สำเร็จรูปเป็น
+<span class="LineNumber"> 019 </span>	<B>สิโณติ</B>  ย่อมถูก.

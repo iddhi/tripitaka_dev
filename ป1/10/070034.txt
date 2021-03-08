@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                  หมวดของธาตุ 
+<span class="LineNumber"> 002 </span>	ธาตุ เป็นของวิจิตรพิสดารมาก  เหลือที่จะนำมาแสดงให้ 
+<span class="LineNumber"> 003 </span>หมดสิ้นและถี่ถ้วนได้  แต่เมื่อจะประมวลกล่าวโดยย่อ  ดังที่ท่านจัด
+<span class="LineNumber"> 004 </span>ไว้เป็นหมวด ๆ ด้วยสามารถที่ใช้กันดื่นเป็นปกรณ์ต่าง ๆ แล้ว ก็มี ๗
+<span class="LineNumber"> 005 </span>หมวด คือ :   ๑.  หมวดภูธาตุ ๒.  หมวดรุธฺธาตุ  ๓.  หมวดทิวฺธาตุ 
+<span class="LineNumber"> 006 </span>๔.  หมวดสุธาตุ  ๕.  หมวดกีธาตุ  ๖.  หมวดคหฺธาตุ  ๗.  หมวดตนฺธาตุ
+<span class="LineNumber"> 007 </span>๘.  หมวดจุรฺธาตุ.
+<span class="LineNumber"> 008 </span>	การที่ท่านจัดธาตุเข้าเป็นหมวดดังนี้   โดยถือปัจจัยเป็นเกณฑ์
+<span class="LineNumber"> 009 </span>เพราะหมวดธาตุทั้ง ๘  ล้วนมีปัจจัยประกอบอยู่ทุกหมวด  ธาตุที่
+<span class="LineNumber"> 010 </span>ประกอบด้วยปัจจัยอย่างเดียวกัน  ก็จัดเข้าไว้เป็นหมวดเดียวกัน  และ
+<span class="LineNumber"> 011 </span>มีวิธีเปลี่ยนแปลงไปตามหมวดของตน  ซึ่งจะได้กล่าวในหมวดธาตุ
+<span class="LineNumber"> 012 </span>นั้น ๆ ต่อไป ดังนี้ :-
+<span class="LineNumber"> 013 </span>	ธาตุที่ประกอบด้วย อ, เอ  ปัจจัยจัดเข้าในหมวกภูธาตุและรุธฺธาตุ
+<span class="LineNumber"> 014 </span>		ธาตุที่ประกอบด้วย   ย   ปัจจัย  จัดเข้าในหมวด  ทิวฺ  ธาตุ
+<span class="LineNumber"> 015 </span>		  "          "              ณุ, ณา    "              "         "       สุ       "
+<span class="LineNumber"> 016 </span>		  "          "               นา          "              "         "       กี       "
+<span class="LineNumber"> 017 </span>                  "          "               ณฺหา       "              "         "       คหฺ    "
+<span class="LineNumber"> 018 </span>		  "          "                โอ           "              "         "       ตนฺ    "
+<span class="LineNumber"> 019 </span>		  "          "                 เณ, ณฺย  "              "         "       จุรฺ     "
+<span class="LineNumber"> 020 </span>                               ธาตุอาจเปลี่ยนหมวดได้
+<span class="LineNumber"> 021 </span>	มีธาตุบางตัว  ถึงแม้ว่าท่านจะได้จัดไว้ประจำในหมวดธาตุนั้น ๆ
+        

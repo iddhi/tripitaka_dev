@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคล ๓ จำพวก  ไม่มีความนอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย  แต่ 
+<span class="LineNumber"> 002 </span>ไม่ใช่ไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย,      พระอรหันต์ไม่มีความ
+<span class="LineNumber"> 003 </span>นอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย   และไม่มีความนอนเนื่องอยู่ด้วยอวิชชา-
+<span class="LineNumber"> 004 </span>นุสัย.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า      บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย,
+<span class="LineNumber"> 006 </span>บุคคลนั้นก็ไม่มีความนอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                   <I>จบ  วิจิกิจฉานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 009 </span>                                   <I>วิจิกิจฉานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 010 </span><H2>ภวราคานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         [๑๓๒๖]   บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยภวราคานุสัย,
+<span class="LineNumber"> 012 </span>บุคคลนั้นก็ไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า       บุคคลใดไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>แล้ว   ด้วยเหตุนั้นนะ   ท่านจึงต้องกล่าวว่า   บุคคลผู้ยังพระโลหิตให้ห้อขึ้น 
+<span class="LineNumber"> 002 </span>เป็นผู้ชื่อว่า  ทำอนันตริยกรรม.
+<span class="LineNumber"> 003 </span>                ส. บุคคลทำสังฆเภท   เป็นผู้ชื่อว่า   ทำอนันตริยกรรม
+<span class="LineNumber"> 004 </span>หรือ  ?
+<span class="LineNumber"> 005 </span>                ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                ส. บุคคลผู้ทำสังฆเภท   เป็นผู้ชื่อว่า   ทำอนันตริยกรรม
+<span class="LineNumber"> 007 </span>ทั้งหมด  หรือ ?
+<span class="LineNumber"> 008 </span>                ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 009 </span>                ส. บุคคลผู้ทำสังฆเภท   เป็นผู้ชื่อว่า   ทำอนันตริยกรรม
+<span class="LineNumber"> 010 </span>ทั้งหมด  หรือ ?
+<span class="LineNumber"> 011 </span>                ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                ส. บุคคลเป็นผู้มีความสำคัญว่า    ถูกธรรมอันยังสงฆ์ให้
+<span class="LineNumber"> 013 </span>แตกกัน  เป็นผู้ชื่อว่า ทำอนันตริยกรรม หรือ ?
+<span class="LineNumber"> 014 </span>                ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 015 </span>                ส. บุคคลเป็นผู้มีความสำคัญว่า    ถูกธรรมอันยังสงฆ์ให้
+<span class="LineNumber"> 016 </span>แตกกัน เป็นผู้ชื่อว่า ทำอนันตริยกรรม หรือ ?
+<span class="LineNumber"> 017 </span>                ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                ส. พระผู้มีพระภาคเจ้าได้ตรัสไว้ว่า   <B>ดูก่อนอุบาลี  บุคคล
+<span class="LineNumber"> 019 </span>ผู้ทำสังฆเภท   ที่จะต้องไปอบาย   จะต้องไปนรก   ตั้งอยู่ตลอดกัลป์  แก้ไข
+<span class="LineNumber"> 020 </span>ไม่ได้   มีอยู่   บุคคลผู้ทำสังฆเภท  ที่ไม่ต้องไปสู่อบาย   ไม่ต้องไปนรก  ไม่
+<span class="LineNumber"> 021 </span>ตั้งอยู่ตลอดกัลป์   มิใช่ผู้แก้ไขไม่ได้  มีอยู่</B>  ดังนี้<SUP>๑</SUP>  เป็นสูตรมีอยู่จริง  มิใช่หรือ ?
+<span class="LineNumber"> 022 </span>                ป. ถูกแล้ว.
+
+<span class='footnote'>๑.  วิ. จุ.  ๗/๔๑๑.</span>

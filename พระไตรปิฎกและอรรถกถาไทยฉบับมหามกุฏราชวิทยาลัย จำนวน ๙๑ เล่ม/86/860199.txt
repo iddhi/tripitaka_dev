@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๔๕๗]  ๖.  <B>อนุปาทินนอนุปาทานิยธรรม    อาศัยอุปาทินนุ-
+<span class="LineNumber"> 002 </span>ปาทานิยธรรม   และอนุปาทินนอนุปาทานิยธรรม   เกิดขึ้น   เพราะ 
+<span class="LineNumber"> 003 </span>อารัมมณปัจจัย</B> 
+<span class="LineNumber"> 004 </span>         คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอนุปาทินนอนุปาทานิยธรรม   และ
+<span class="LineNumber"> 005 </span>หทยวัตถุ  เกิดขึ้น ฯลฯ ขันธ์ ๒ อาศัยขันธ์ ๒ และหทยวัตถุ  เกิดขึ้น.
+<span class="LineNumber"> 006 </span>                         ๗.  <B>อนุปาทินนุปาทานิยธรรม อาศัยอุปาทินนุปาทา-
+<span class="LineNumber"> 007 </span>นิยธรรม   และอนุปาทินนุปาทานิยธรรม  เกิดขึ้น  เพราะอารัมมณ-
+<span class="LineNumber"> 008 </span>ปัจจัย</B>
+<span class="LineNumber"> 009 </span>         คือ  ขันธ์ ๓ อาศัยขันธ์ ๑  ที่เป็นอนุปาทินนุปาทานิยธรรม  และหทย-
+<span class="LineNumber"> 010 </span>วัตถุ  เกิดขึ้น ฯลฯ  ขันธ์ ๒  อาศัยขันธ์ ๒  และหทยวัตถุ   เกิดขึ้น.
+
+<span class="LineNumber"> 011 </span>                                       <H1>๓.  อธิปติปัจจัย</H1>
+<span class="LineNumber"> 012 </span>         [๑๔๕๘] ๑.  <B>อนุปาทินนุปาทานิยธรรม อาศัยอุปาทินนุปาทา-
+<span class="LineNumber"> 013 </span>นิยธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  ขันธ์ที่เป็นอนุปาทินนุปาทานิยธรรม  อาศัย  หทยวัตถุ  เกิดขึ้น.
+<span class="LineNumber"> 015 </span>                        ๒.  <B>อนุปาทินนอนุปาทานิยธรรม   อาศัยอุปาทินนุ-
+<span class="LineNumber"> 016 </span>ปาทานิยธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  ขันธ์ที่เป็นอนุปาทินนอนุปาทานิยธรรม  อาศัยหทยวัตถุ เกิดขึ้น.
+<span class="LineNumber"> 018 </span>                        ๓.  <B>อนุปาทินนุปาทานิยธรรม  อาศัยอนุปาทินนุปา-
+<span class="LineNumber"> 019 </span>ทานิยธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 020 </span>         มี ๑ วาระ.

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span><B>จักขุนทริยมูละ  มนินทริยมูลี :-</B>
+<span class="LineNumber"> 002 </span>         ธรรมที่ชื่อว่าจักขุ,   ชื่อว่า   อินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าอินทรีย์,   ชื่อว่า   มนินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         มนินทรีย์  ชึ่อว่าอินทรีย์ด้วย   ชื่อว่ามนินทรีย์ด้วย,   อินทรีย์ที่
+<span class="LineNumber"> 006 </span>เหลือ   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่า   มนินทรีย์.
+<span class="LineNumber"> 007 </span>                       <I>จบ  จักขุนทริยมูละ   มนินทริยมูลี</I>
+
+<span class="LineNumber"> 008 </span><B>จักขุนทริยมูละ  อิตถินทริยมูลี :-</B>
+<span class="LineNumber"> 009 </span>         [๔๕๑]    ธรรมที่ชื่อว่าจักขุ,   ชื่อว่า   อินทรีย์   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าอินทรีย์,   ชื่อว่า   อิตถินทรีย์   ใช่ไหม   ?
+<span class="LineNumber"> 012 </span>         อิตถินทรีย์  ชื่อว่าอินทรีย์ด้วย   ชื่อว่าอิตถินทรีย์ด้วย,   อินทรีย์
+<span class="LineNumber"> 013 </span>ที่เหลือ   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่า   อิตถินทรีย์.
+<span class="LineNumber"> 014 </span>                       <I>จบ  จักขุนทริยมูละ  อิตถินทริยมูลี</I> 

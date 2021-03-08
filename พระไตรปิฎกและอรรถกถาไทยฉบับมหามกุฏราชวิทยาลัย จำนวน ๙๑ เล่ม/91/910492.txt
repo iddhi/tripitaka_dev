@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>เหตุทุกวิปากติกนเหตุทุกนวิปากติกะ</H1> 
+<span class="LineNumber"> 002 </span>                            <H2>(๑. เหตุทุกะ  ๓. วิปากติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                         <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                           <H2>วิปากบท</H2>	
+<span class="LineNumber"> 007 </span>           [๒๓๙] ๑.  <B>ธรรมที่ไม่ใช่วิปากธรรม  ที่ไม่ใช่เหตุ  อาศัยธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นวิปากธรรม  ที่เป็นเหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓ วาระ.
+
+<span class="LineNumber"> 009 </span>                                      <H2>วิปากธัมมบท</H2>
+<span class="LineNumber"> 010 </span>                       ๑.  <B>ธรรมที่ไม่ใช่วิปากธัมมธรรม ที่ไม่ใช่เหตุ  อาศัย
+<span class="LineNumber"> 011 </span>ธรรมที่เป็นวิปากธัมมธรรม  ที่เป็นเหตุ    เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>มี ๓ วาระ.
+
+<span class="LineNumber"> 013 </span>                          <H2>เนววิปากนวิปากธัมมบท</H2>							
+<span class="LineNumber"> 014 </span>                       ๑.  <B>ธรรมที่ไม่ใช่เนววิปากนวิปากธัมมธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 015 </span>ธรรมที่ไม่ใช่เหตุ    อาศัยธรรมที่เป็นเนววิปากนวิปากธัมมธรรม  ที่
+<span class="LineNumber"> 016 </span>ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๓ วาระ.
+<span class="LineNumber"> 017 </span>                   <I>เหตุทุกวิปากติกนเหตุทุกนวิปากติกะ  จบ</I>

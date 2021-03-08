@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๔๔๑]  ในเหตุปัจจัย  มี  ๑๓  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>                                  <H2>นปีติสหคตบท</H2>
+<span class="LineNumber"> 004 </span>           [๔๔๒] ๑.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่ปีติสหคตธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 005 </span>อกุศล  อาศัยธรรมที่ไม่ใช่ปีติสหคตธรรม  ที่เป็นกุศล  เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะเหตุปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 007 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๔๔๓] ในเหตุปัจจัย  มี  ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 009 </span>            <I>กุสลติกปีติสหคตทุกนกุสลติกนปีติสหคตทุกะ  จบ</I>
+
+<span class="LineNumber"> 010 </span>                  <H1>กุสลติกสุขสหคตทุกนกุสลติกนสุขสหคตทุกะ</H1>
+<span class="LineNumber"> 011 </span>                    <H2>(๑.  กุสลติกะ  ๙๑. สุขสหคตทุกะ)</H2>
+<span class="LineNumber"> 012 </span>                                           <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 013 </span>                                            <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>                                           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                           <H2>สุขสหคตบท</H2>
+<span class="LineNumber"> 016 </span>           [๔๔๔] ๑.  <B>ธรรมที่ไม่ใช่สุขสหคตธรรม  ที่ไม่ใช่กุศล  อาศัย
+<span class="LineNumber"> 017 </span>ธรรมที่เป็นสุขสหคตธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>

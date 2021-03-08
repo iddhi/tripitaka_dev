@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ขันธ์ทั้งหลาย    ที่เป็นเนวทัสสเนนนภาวนายปหาตัพพธรรม   อาศัย 
+<span class="LineNumber"> 002 </span>หทยวัตถุ 
+<span class="LineNumber"> 003 </span>                       ๘.  <B>ทัสสเนนปหาตัพพธรรม    อาศัยเนวทัสสเนน-
+<span class="LineNumber"> 004 </span>นภาวนายปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  ขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 006 </span>                       ๙.  <B>ภาวนายปหาตัพพธรรม     อาศัยเนวทัสสเนน-
+<span class="LineNumber"> 007 </span>นภาวนายปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ  ขันธ์ทั้งหลายที่เป็นภาวนายปหาตัพพธรรม   อาศัยหทยวัตถุ,
+<span class="LineNumber"> 009 </span>                       ๑๐.  <B>ทัสสเนนปหาตัพพธรรม    และเนวทัสสเนนน-
+<span class="LineNumber"> 010 </span>ภาวนายปหาตัพพธรรม  อาศัยเนวทัสสเนนนภาวนายปหาตัพพธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ   ขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพธรรม     อาศัยหทยวัตถุ,
+<span class="LineNumber"> 013 </span>จิตตสมุฏฐานรูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 014 </span>                       ๑๑.  <B>ภาวนายปหาตัพพธรรม   และเนวทัสสเนนนภาว-
+<span class="LineNumber"> 015 </span>นายปหาตัพพธรรม  อาศัยเนวทัสสเนนนภาวนายปหาตัพพธรรม เกิด
+<span class="LineNumber"> 016 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ  ขันธ์ทั้งหลายที่เป็นภาวนายปหาตัพพธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 018 </span>          จิตตสมุฏฐานรูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 019 </span>           [๖๑๙] ๑๒.  <B>ทัสสเนนปหาตัพพธรรม    อาศัยทัสสเนนปหา-
+<span class="LineNumber"> 020 </span>ตัพพธรรม    และเนวทัสสเนนนภาวนายปหาตัพพธรรม   เกิดขึ้น
+<span class="LineNumber"> 021 </span>เพราะเหตุปัจจัย</B>
+

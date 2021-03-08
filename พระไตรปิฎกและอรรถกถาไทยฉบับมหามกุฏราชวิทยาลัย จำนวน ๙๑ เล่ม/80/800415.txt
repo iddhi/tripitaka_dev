@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                               ขึ้น  หรือ ? 
+<span class="LineNumber"> 002 </span>                         ป.   ไม่พึงกล่าวอย่างนั้น   ฯ ล ฯ
+<span class="LineNumber"> 003 </span>                         ส.   ชื่อว่าปัจจุบัน  เพราะทำอธิบายไว้ว่า  จักบังเกิด
+<span class="LineNumber"> 004 </span>                               ขึ้น   หรือ ?
+<span class="LineNumber"> 005 </span>                         ป.   ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                         ส.   ธรรมที่เป็นปัจจุบัน   ชื่อว่าไม่มีอยู่    เพราะทำ
+<span class="LineNumber"> 007 </span>                               อธิบายว่า   จักดับไป   หรือ ?
+<span class="LineNumber"> 008 </span>                         ป.   ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 009 </span>                                 <I>เอกัจจมัตถีติกถา  จบ</I>
+
+<span class="LineNumber"> 010 </span>                        <H2>อรรถกถาเอกัจจมัตถีติกถา</H2>
+<span class="LineNumber"> 011 </span>                             <H2>ว่าด้วยบางอย่างมีอยู่</H2>	
+<span class="LineNumber"> 012 </span>           บัดนี้  ชื่อว่า  เรื่องบางอย่างมีอยู่.  ในปัญหาเหล่านั้น  ชนเหล่า
+<span class="LineNumber"> 013 </span>ใด   ย่อมสำคัญว่าอดีตธรรมบางอย่างมีอยู่    ดุจนิกายกัสสปิกะทั้งหลาย
+<span class="LineNumber"> 014 </span>เพื่อทำลายลัทธิแห่งชนเหล่านั้น    สกวาทีจึงถามว่า  <B>"อดีตมีอยู่หรือ"</B>
+<span class="LineNumber"> 015 </span>คำวิสัชชนาว่า  <B>"อดีตบางอย่างมีอยู่"</B>  เป็นต้น    เป็นของปรวาที.
+<span class="LineNumber"> 016 </span>พึงทราบความหมายแห่งคำวิสัชชนาของปรวาทีนั้นว่า  วิปากธรรมอันยัง
+<span class="LineNumber"> 017 </span>ไม่ให้ผลมีอยู่   วิปากธรรมที่ให้ผลแล้วไม่มีอยู่.  คำซักถามว่า  <B>"อดีต   
+<span class="LineNumber"> 018 </span>บางอย่างดับไปแล้ว"</B>      เป็นของสกวาที.

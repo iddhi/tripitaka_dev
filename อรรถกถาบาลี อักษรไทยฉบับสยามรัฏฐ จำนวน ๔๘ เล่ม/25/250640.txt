@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  640
+	
+<span class="LineNumber"> 002 </span>		สกํ จิตฺตํ ปสาเทตฺวา	นีหริตฺวาน ปานธึ  
+<span class="LineNumber"> 003 </span>		ปาทมูเล €เปตฺวาน	อิทํ วจนมพฺรวึ ฯ  
+<span class="LineNumber"> 004 </span>		อภิรูห มหาวีร		สุคตินฺท วินายก  
+<span class="LineNumber"> 005 </span>		อิโต ผลํ ลภิสฺสามิ		โส เม อตฺโถ สมิชฺฌตุ ฯ  
+<span class="LineNumber"> 006 </span>		อโนมทสฺสี ภควา		โลกเชฏฺโ€ นราสโภ  
+<span class="LineNumber"> 007 </span>		ปานธึ อภิรูหิตฺวา		อิทํ วจนมพฺรวิ ฯ
+<span class="LineNumber"> 008 </span>		โย ปานธึ เม อทาสิ(๑)	ปสนฺโน เสหิ ปาณิภิ  
+<span class="LineNumber"> 009 </span>		ตมหํ กิตฺตยิสฺสามิ		สุณาถ มม ภาสโต ฯ  
+<span class="LineNumber"> 010 </span>		พุทฺธสฺส คิรมฺาย	สพฺเพ เทวา สมาคตา  
+<span class="LineNumber"> 011 </span>		อุทคฺคจิตฺตา สุมนา	เวทชาตา กตฺชลี ฯ  
+<span class="LineNumber"> 012 </span>		ปานธีนํ (๒) ปทาเนน(๓)	สุขิโตยํ ภวิสฺสติ  
+<span class="LineNumber"> 013 </span>		ปฺจปฺาสกฺขตฺตุฺจ	เทวรชฺชํ กริสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>		สหสฺสกฺขตฺตุํ ราชา จ (๔)  จกฺกวตฺตี ภวิสฺสติ  
+<span class="LineNumber"> 015 </span>		ปเทสรชฺชํ วิปุลํ		คณนาโต อสงฺขิยํ ฯ  
+<span class="LineNumber"> 016 </span>		อปริเมยฺเย อิโต กปฺเป	โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 017 </span>		โคตโม นาม โคตฺเตน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>		ตสฺส ธมฺเมสุ ทายาโท	โอรโส ธมฺมนิมฺมิโต  
+<span class="LineNumber"> 019 </span>		สพฺพาสเว ปริฺาย	นิพฺพายิสฺสตินาสโว ฯ  
+<span class="LineNumber"> 020 </span>		เทวโลเก มนุสฺเส วา	นิพฺพตฺติสฺสติ ปุฺวา  
+<span class="LineNumber"> 021 </span>		เทวยานปฏิภาคํ		ยานํ ปฏิลภิสฺสติ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ยุ. อททา ฯ  ๒. สี. ปนฺนธีนํ ฯ  ๓. สฺยา. ปานธิเมว ฯ 
+<span class="LineNumber"> 023 </span># ๔. สี. ราชา ฯ 

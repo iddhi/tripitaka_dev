@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 317
+
+<span class="LineNumber"> 002 </span>		นาสฺส ปี€ํ น ปลฺลงฺกํ	น โกจฺฉํ น นาวํ (๑)รถํ  
+<span class="LineNumber"> 003 </span>		สมฺมโตมฺหีติ อารุฬฺเห	ส ราชวสตึ วเส  
+<span class="LineNumber"> 004 </span>		นาติทูเร ภเช รฺโ	นาจฺจาสนฺเน วิจกฺขโณ  
+<span class="LineNumber"> 005 </span>		สเมกฺขฺจสฺส(๒) ติฏฺเ€ยฺย  สนฺทิสฺสนฺโต สภตฺตุโน  
+<span class="LineNumber"> 006 </span>		น เม(๓) ราชา สขา โหติ  น ราชา โหติ เมถุโน  
+<span class="LineNumber"> 007 </span>		ขิปฺปํ กุชฺฌนฺติ ราชาโน	สุเกนกฺขีว ฆฏฺฏิตํ  
+<span class="LineNumber"> 008 </span>		น ปูชิโต มฺมาโน	เมธาวี ปณฺฑิโต นโร  
+<span class="LineNumber"> 009 </span>		ผรุสมฺปฏิมนฺเตยฺย(๔)	ราชานํ ปริสํ คตนฺติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  น  มนฺเตยฺยาติ  ตสฺส  รฺโ  ภริยาหิ  สทฺธึ
+<span class="LineNumber"> 011 </span>เนว กีเฬยฺย  น  รโห  มนฺเตยฺย ฯ  โกสา  ธนุํ ฺติ  รฺโ
+<span class="LineNumber"> 012 </span>โกสา ธนํ น เถเนตฺวา  คณฺเหยฺย ฯ  น  มทายาติ  ตาตา
+<span class="LineNumber"> 013 </span>ราชเสวโก  นาม  มทตฺถาย  สุรํ  น  ปิเวยฺย ฯ  ทาเยติ(๕) 
+<span class="LineNumber"> 014 </span>ทินฺนาภเย  มิเค  น  หฺเ  น  หเนยฺย ฯ  โกจฺฉนฺติ 
+<span class="LineNumber"> 015 </span>ภทฺทปี€ํ ฯ  สมฺมโตมฺหีติ  อหํ  สมฺมโต  หุตฺวา  เอวํ  กโรมีติ 
+<span class="LineNumber"> 016 </span>น  อาโรเหยฺย ฯ  สเมกฺขฺจสฺส  ติฏฺเ€ยฺยาติ  อสฺส  รฺโ
+<span class="LineNumber"> 017 </span>ปุรโต  ขุทฺทกมหนฺตกถาสวนฏฺ€าเน  ติฏฺเ€ยฺย ฯ  สนฺทิสฺสนฺโต
+<span class="LineNumber"> 018 </span>สภตฺตุโนติ  โส  เสวโก (๖) ตสฺส  ภตฺตุโน  ทสฺสนฏฺ€าเน 
+<span class="LineNumber"> 019 </span>ติฏฺเ€ยฺย ฯ  สุเกนาติ  อกฺขิมฺหิ  ปติเตน  วีหิสุกาทินา  ฆฏฺฏิตํ 
+<span class="LineNumber"> 020 </span>อกฺขิ  ปกติภาวํ  ชหนฺตํ  ยถา  กุชฺฌติ  นาม  เอวํ  กุชฺฌนฺติ  
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ. นาคํ ฯ  ๒. ม. สมฺมุขฺจสฺส ฯ  ๓. ม. เว ฯ 
+<span class="LineNumber"> 022 </span># ๔. มง ผรุสํ ปติมนฺเตยฺย ฯ  ๕. ม. นาสฺส ทาเย มิเคติ อสฺส
+<span class="LineNumber"> 023 </span># รฺโ ฯ  ๖. ม. ราชเสวโก ฯ 

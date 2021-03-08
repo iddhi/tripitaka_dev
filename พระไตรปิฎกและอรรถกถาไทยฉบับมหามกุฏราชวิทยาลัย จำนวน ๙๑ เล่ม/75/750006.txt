@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>๒๐.  อัชฌัตตติกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>อชฺฌตฺตา  ธมฺมา</B>                              ธรรมเป็นภายใน
+<span class="LineNumber"> 003 </span><B>พหิทฺธา   ธมฺมา</B>                               ธรรมเป็นภายนอก
+<span class="LineNumber"> 004 </span><B>อชฺฌตฺตพหิทฺธา  ธมฺมา</B>                   ธรรมเป็นทั้งภายในและภายนอ
+
+<span class="LineNumber"> 005 </span>                                 <H2>๒๑.  อัชฌัตตารัมมณติกะ</H2> 
+
+<span class="LineNumber"> 006 </span><B>อชฺฌตฺตารมฺมณา  ธมฺมา</B>                 ธรรมมีอารมณ์เป็นภายใน
+<span class="LineNumber"> 007 </span><B>พหิทฺธารามฺมณา  ธมฺมา</B>                 ธรรมมีอารมณ์เป็นภายนอก
+<span class="LineNumber"> 008 </span><B>อชฺฌตฺตพหิทฺธารมฺมณา  ธมฺมา</B>      ธรรมมีอารมณ์เป็นภายในและเป็น
+<span class="LineNumber"> 009 </span>                                                      ภายนอก
+
+<span class="LineNumber"> 010 </span>                                 <H2>๒๒.  สนิทัสสนติกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>สนิทสฺสนสปฺปฏิฆา  ธมฺมา</B>           ธรรมที่เห็นได้และกระทบได้
+<span class="LineNumber"> 012 </span><B>อนิทสฺสนสปฺปฏิฆา  ธมฺมา</B>           ธรรมที่เห็นไม่ได้แต่กระทบได้
+<span class="LineNumber"> 013 </span><B>อนิทสฺสนาปฺปฏิฆา  ธมฺมา</B>            ธรรมที่เห็นไม่ได้และกระทบไม่ได้
+
+<span class="LineNumber"> 014 </span>                         <I>ติกมาติกา  ๒๒  ติกะ   จบ</I>

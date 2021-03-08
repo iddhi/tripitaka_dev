@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๕   หน้า  ๕๕๘
+
+<span class="LineNumber"> 002 </span>			เอกาทสกนิปาตวณฺณนา   
+<span class="LineNumber"> 003 </span>			นิสฺสยวคฺควณฺณนา   
+<span class="LineNumber"> 004 </span>	เอกาทสกนิปาตสฺส  ป€มาทีนิ  เหฏฺ€า  วุตฺตนยาเนว ฯ  
+<span class="LineNumber"> 005 </span>เกวลเฺหตฺถ  อาทิโต  ปฺจสุ  นิพฺพิทาวิราคํ  ทฺวิธา  ภินฺทิตฺวา
+<span class="LineNumber"> 006 </span>เอกาทสงฺคานิ  กตานิ ฯ 
+<span class="LineNumber"> 007 </span>	ฉฏฺเ€ สิกฺขาปจฺจกฺขานํ อธิกํ ฯ    
+<span class="LineNumber"> 008 </span>				ฉฏฺฐํ ฯ
+<span class="LineNumber"> 009 </span>	สตฺตเม ทิฏฺฐาทีนิ(๑) อตฺเถน  อตฺโถติ  อตฺเถน  สทฺธึ 
+<span class="LineNumber"> 010 </span>อตฺโถ ฯ พฺยฺชเนน พฺยฺชนนฺติ พฺยฺชเนน  สทฺธึ  พฺยฺชนํ ฯ 
+<span class="LineNumber"> 011 </span>สํสนฺทิสฺสตีติ  ปวตฺติสฺสติ ฯ (๒) สเมสฺสตีติ สมานํ ภวิสฺสติ ฯ  น
+<span class="LineNumber"> 012 </span>วิคฺคยฺหิสฺสตีติ  น  วิรุชฺฌิสฺสติ ฯ  (๓) อคฺคปทสฺมินฺติ นิพฺพาเน ฯ 
+<span class="LineNumber"> 013 </span>				สตฺตมํ ฯ
+<span class="LineNumber"> 014 </span>	อฏฺ€เม ปจฺจเวกฺขณา กถิตา ฯ    
+<span class="LineNumber"> 015 </span>				อฏฺฐมํ ฯ
+<span class="LineNumber"> 016 </span>	นวเม  โทณิยา  พทฺโธติ  ยวสสฺสโทณิยา  สมีเป  พทฺโธ ฯ
+<span class="LineNumber"> 017 </span>อนนฺตรํ  (๔)  กริตฺวาติ  อพฺภนฺตเร  กตฺวา ฯ  ฌายตีติ  จินฺเตติ ฯ 
+<span class="LineNumber"> 018 </span>ปชฺฌายตีติ อิโต จิโต จ นานปฺปการกชฺฌานํ (๕) ฌายติ ฯ 
+<span class="LineNumber"> 019 </span>#๑. ม. อยํ ปาโฐ นตฺถิ ฯ  ๒. ม. สมฺปวตฺติสฺสติ ฯ  
+<span class="LineNumber"> 020 </span>#๓. ม. วิรชฺฌิสฺสติ ฯ  ๔. ม. อนฺตรํ ฯ  ๕. ม. นานปฺปการกํ ฯ

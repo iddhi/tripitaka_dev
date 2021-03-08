@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                 เอกวจนะ                                                            พหุวจนะ   
+<span class="LineNumber"> 002 </span>ลิงค์         ประถมบุรุษ         นามนาม                    ประถมบุรุษ         นามนาม
+<span class="LineNumber"> 003 </span>                                               <B>ชโน                                                      ชนา
+<span class="LineNumber"> 004 </span>                                                มุนิ                                                       มุนโน, มุนี
+<span class="LineNumber"> 005 </span>  ปุํ.                 โส                      กรี                                เต                    กริโน,  กรี
+<span class="LineNumber"> 006 </span>                                                 ครุ                                                        ครโว,  ครู
+<span class="LineNumber"> 007 </span>                                                 วิฺญู                                                    วิญฺญุโน, วิญฺู
+
+<span class="LineNumber"> 008 </span>                                                  ตารา                                                    ตาราโย,  ตารา
+<span class="LineNumber"> 009 </span>                                                   อีติ                                                       อีติโย,  อีตี
+<span class="LineNumber"> 010 </span>   อิต.                สา                      ธานี                              ตา                   ธานิโย,  ธานี
+<span class="LineNumber"> 011 </span>                                                    ยาคุ                                                     ยาคุโย,  ยาคู
+<span class="LineNumber"> 012 </span>                                                    จมู                                                        จมุโย,  จมู
+
+<span class="LineNumber"> 013 </span>                                                     ธนํ                                                        ธนานิ
+<span class="LineNumber"> 014 </span>   นปุํ.                  ตํ                        อจฺจิ                            ตานิ                   อจฺจีนิ
+<span class="LineNumber"> 015 </span>                                                      มธุ                                                         มธูนิ</B>
+<span class="LineNumber"> 016 </span>	ตามตัวอย่างข้างบนนี้จะเห็นได้ว่า นามนาม  มีการันต์ต่างกัน
+<span class="LineNumber"> 017 </span>แต่ ต ศัพท์  แจกวิภัตติแล้วยังคงรูปอยู่อย่างเดียว  และจะต้องตรง
+<span class="LineNumber"> 018 </span>กันเช่นนี้ไปทุก ๆวิภัตติ  ส่วนการแจกและการเปลี่ยนแปลงวิภัตตินั้น

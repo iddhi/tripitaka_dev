@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>เป็นไปได้ ?
+<span class="LineNumber"> 002 </span>	ต.  รูปธรรมที่เกิดขึ้นเป็นไปก็เพราะอาศัยอวิชชา  ตัณหา  อุปา- 
+<span class="LineNumber"> 003 </span>ทาน  กรรม  อาหาร  เป็นเหตุเป็นปัจจัย  ส่วนนามธรรม  ๓  อย่างคือ
+<span class="LineNumber"> 004 </span>เวทนา  สัญญา  สังขาร  นั้น  อาศัยอวิชชา  ตัณหา  อุปาทาน  กรรม
+<span class="LineNumber"> 005 </span>ผัสสะ  เป็นเหตุเป็นปัจจัย  วิญญาณอาศัยอวิชชา  ตัณหา  อุปาทาน
+<span class="LineNumber"> 006 </span>กรรม  นามรูป  เป็นเหตุเป็นปัจจัย  อาศัยธรรมเหล่านี้   จึงเกิดขึ้น
+<span class="LineNumber"> 007 </span>เป็นไปได้.		
+<span class="LineNumber"> 008 </span>											ส. ป.
+<span class="LineNumber"> 009 </span>	ถ.  เพราะเหตุไร  นามธรรม  คือวิญญาณ  จึงต้องอาศัยนามรูป
+<span class="LineNumber"> 010 </span>เป็นเหตุเป็นปัจจัย  สวนนามธรรมนอกนั้น  ไม่ต้องอาศัยนามรูปด้วย
+<span class="LineNumber"> 011 </span>หรืออย่างไร ?
+<span class="LineNumber"> 012 </span>	ต.  เพื่อเพ่งโดยส่วนรวม  นามธรรมทั้งสิ้นจำต้องอาศัยรูปธรรม
+<span class="LineNumber"> 013 </span>ถ้าเพ่งโดยส่วนเฉพาะ ก็เป็นคนละส่วน  สำหรับนามธรรมคือวิญญาณ
+<span class="LineNumber"> 014 </span>นั้น  จำเป็นต้องอาศัยนามรูปแท้  เพราะถ้ามีวิญญาณอย่างเดียวไม่
+<span class="LineNumber"> 015 </span>อาศัยนามธรรมทั้ง ๓  ข้างต้น  ก็คงปรากฏเป็นผลว่า  วิญญาณไม่ได้
+<span class="LineNumber"> 016 </span>เมื่อได้อาศัยนามธรรมทั้ง  ๓  อย่างนั้นแล้ว  ถ้าไม่มีรูปเป็นเหตุเป็นปัจจัย
+<span class="LineNumber"> 017 </span>อีก  วิญญาณแม้มี  ก็ต้องเป็นสักว่าวิญญาณเท่านั้น  จะยังผลอะไรให้
+<span class="LineNumber"> 018 </span>ปรากฏขึ้นไม่ได้อีกเหมือนกัน.
+<span class="LineNumber"> 019 </span>											ส. ป.
+<span class="LineNumber"> 020 </span>	ถ.  อะไรเป็นปัจจัยของนามธรรม ?
+<span class="LineNumber"> 021 </span>	ต.  อวิชชา  ตัณหา  อุปาทาน  กรรม  ผัสสะ  เป็นเหตุเป็น
+

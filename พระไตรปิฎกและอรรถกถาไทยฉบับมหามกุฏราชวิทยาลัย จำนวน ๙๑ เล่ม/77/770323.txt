@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>แห่งวัตรมีอเจลกวัตรเป็นต้น ก็ดี    ผู้อดอาหาร     และผู้ผูกแขวนตัวด้วยอำนาจ
+<span class="LineNumber"> 002 </span>ความโกรธก็ดี 
+<span class="LineNumber"> 003 </span>         ทุกข์นี้   เป็นทุกข์มีการพยายามของตนเป็นมูล.
+
+<span class="LineNumber"> 004 </span>                       <H1>ว่าด้วยทุกข์มีความพยายามของผู้อื่นเป็นมูล</H1>
+<span class="LineNumber"> 005 </span>         อนึ่ง   ทุกข์ใด     ย่อมเกิดแก่ผู้เสวยทุกข์มีถูกฆ่าและจองจำเป็นต้นจาก
+<span class="LineNumber"> 006 </span>ผู้อื่น  ทุกข์นี้    เป็นทุกข์มีการพยายามของผู้อื่นเป็นมูล. 
+<span class="LineNumber"> 007 </span>         ชาตินี้  เป็นวัตถุที่ตั้งแห่งทุกข์นี้แม้ทั้งหมด  ด้วยประการฉะนี้  เพราะ
+<span class="LineNumber"> 008 </span>ฉะนั้น    ท่านจึงกล่าวคำคาถานี้ไว้ว่า
+<span class="LineNumber"> 009 </span>                             <B>ชาเยถ  โน  เจ  นรเกสุ  สตฺโต
+<span class="LineNumber"> 010 </span>                             ตตฺถคฺคิทาหาทิกมปฺปสยฺหํ
+<span class="LineNumber"> 011 </span>                             ลเภถ   ทุกขํ  น  กุหึ  ปติฏฺ€ํ
+<span class="LineNumber"> 012 </span>                             อิจฺจาห  ทุกฺชาติ  มนีธ  ชาตึ</B>
+<span class="LineNumber"> 013 </span>                             หากว่า    สัตว์ไม่พึงเกิดในนรกไซร้
+<span class="LineNumber"> 014 </span>                      เขาก็ไม่พึงได้ทุกข์ มีการถูกเผาไหม้ในนรก
+<span class="LineNumber"> 015 </span>                      นั้นเป็นต้น   ที่ใคร ๆ อดกลั้นไม่ได้  ไม่มีที่
+<span class="LineNumber"> 016 </span>                      พึ่ง  ในที่ไหน ๆ เพราะเหตุนั้น    พระมุนีจึง
+<span class="LineNumber"> 017 </span>                      กล่าว  ความเกิดในโลกนี้ว่า  เป็นทุกข์. 
+<span class="LineNumber"> 018 </span>                              <B>ทุกฺขํ  ติรจฺเฉสุ  กสาปโตท
+<span class="LineNumber"> 019 </span>                              ทณฺฑาภิฆาฏาทิภวํ  อเนกํ
+<span class="LineNumber"> 020 </span>                              ยนฺตํ  กถํ  ตตฺถ  ภเวยฺย  ชาตึ
+<span class="LineNumber"> 021 </span>                              วินา   ตหึ    ชาติ  ตโตปิ  ทุกฺขา</B>

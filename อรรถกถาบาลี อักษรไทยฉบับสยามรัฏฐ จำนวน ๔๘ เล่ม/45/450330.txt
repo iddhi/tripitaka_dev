@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  45  ยุธฺชยวคฺควณฺณนา  หน้า  330
+
+<span class="LineNumber"> 002 </span>			อวีตราโค มรณํ อุเปตุ  
+<span class="LineNumber"> 003 </span>			ภิสานิ เต พฺราหฺมณ โย อหาสิ ฯ
+<span class="LineNumber"> 004 </span>			โส คามณี โหตุ สหายมชฺเฌ  
+<span class="LineNumber"> 005 </span>			นจฺเจหิ คีเตหิ ปโมทมาโน  
+<span class="LineNumber"> 006 </span>			มา ราชโต พฺยสนมลตฺถ (๑) กิฺจิ  
+<span class="LineNumber"> 007 </span>			ภิสานิ เต พฺราหฺมณ โย อหาสิ ฯ  
+<span class="LineNumber"> 008 </span>			ตํ (๒) เอกราชา ป€วึ วิเชตฺวา  
+<span class="LineNumber"> 009 </span>			อิตฺถีสหสฺสสฺส €เปตุ อคฺเค (๓)  
+<span class="LineNumber"> 010 </span>			สีมนฺตินีนํ ปวรา ภวาตุ  
+<span class="LineNumber"> 011 </span>			ภิสานิ เต พฺราหฺมณ โย (๔) อหาสิ ฯ  
+<span class="LineNumber"> 012 </span>			ทาสีนํ (๕) หิ สา สพฺพสมาคตานํ  
+<span class="LineNumber"> 013 </span>			ภุฺเชยฺย สาทุํ อวิกมฺปมานา  
+<span class="LineNumber"> 014 </span>			จราตุ ลาเภน วิกตฺถมานา  
+<span class="LineNumber"> 015 </span>			ภิสานิ เต พฺราหฺมณ โย (๔) อหาสิ ฯ  
+<span class="LineNumber"> 016 </span>			อาวาสิโก โหตุ มหาวิหาเร  
+<span class="LineNumber"> 017 </span>			นวกมฺมิโก โหตุ คชงฺคลายํ (๖)  
+<span class="LineNumber"> 018 </span>			อาโลกสนฺธึ ทิวสํ (๗) กโรตุ  
+<span class="LineNumber"> 019 </span>			ภิสานิ เต พฺราหฺมณ โย อหาสิ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. มา ราชโต พฺยสนมลตฺถ กิฺจิ ฯ  ๒. สฺยา. ยํ ฯ
+<span class="LineNumber"> 021 </span># ๓. สฺยา. อิตฺถีสหสฺสานํ €เปตุอคฺคํ ฯ  ๔. ม. ยา ฯ  
+<span class="LineNumber"> 022 </span># ๕. ขุ. ชา. ๒๗/๑๙๓๐/๓๗๙ ทาสีนํ ฯ  ๖. สฺยา. กชงฺคลายํ ฯ
+<span class="LineNumber"> 023 </span># ๗. สฺยา. ทิวสา ฯ

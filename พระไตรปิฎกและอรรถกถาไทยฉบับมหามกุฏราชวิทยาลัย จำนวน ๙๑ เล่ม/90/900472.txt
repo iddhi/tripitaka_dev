@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>              			<H1>ปรามาสปรามัฏฐทุกกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>           	<H2>(๕๓.  ปรามาสปรามัฏฐทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 003 </span>                        	         <H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>		[๑๔๐๕]  ๑.  กุศลธรรมที่เป็นปรามัฏฐธรรม      แต่ไม่ใช่
+<span class="LineNumber"> 005 </span>ปรามาสธรรม     อาศัยกุศลธรรมที่เป็นปรามัฏฐธรรม     แต่ไม่ใช่
+<span class="LineNumber"> 006 </span>ปรามาสธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 007 </span>                	     <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 008 </span>		[๑๔๐๖]  ในเหตุปัจจัย  มี ๑ วาระ     ในอารัมมณปัจจัย มี  ๑ วาระ
+<span class="LineNumber"> 009 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>                 ในสหชาตวาระก็ดี ฯลฯ  ในปัญหาวาระก็ดี มี ๑ วาระ  ทุกปัจจัย.
+           
+<span class="LineNumber"> 011 </span>            			<H1>อกุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 012 </span>                        	     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 013 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๑๔๐๗]  ๑.  อกุศลธรรมที่เป็นปรามัฏฐธรรม    แต่ไม่ใช่
+<span class="LineNumber"> 015 </span>ปรามาสธรรม   อาศัยอกุศลธรรมที่เป็นทั้งปรามาสธรรม   และปรา-
+<span class="LineNumber"> 016 </span>มัฏฐธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๑ วาระ.

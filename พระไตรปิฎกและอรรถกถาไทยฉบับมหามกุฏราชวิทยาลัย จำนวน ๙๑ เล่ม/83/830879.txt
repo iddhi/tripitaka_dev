@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่. 
+<span class="LineNumber"> 002 </span>         ธรรมชื่อว่าอกุศลธรรม  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         อกุศลธรรม    ชื่อว่าธรรมด้วย   ชื่อว่าอกุศลธรรมด้วย  ธรรมที่
+<span class="LineNumber"> 004 </span>เหลือ  ไม่ชื่อว่าอกุศลธรรม.
+<span class="LineNumber"> 005 </span><H1>สุทธธัมมจักกวาระ  ปฏิโลม</H1> :-
+<span class="LineNumber"> 006 </span>         [๙๓]  ไม่ใช่กุศล  ไม่ชื่อว่าธรรม  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ธรรมที่เหลือ   เว้นกุศล  ไม่ชื่อว่ากุศลธรรม  และธรรมที่เหลือ
+<span class="LineNumber"> 008 </span>เว้นกุศลด้วย   ธรรมด้วย  ไม่ชื่อว่ากุศลด้วย  ไม่ชื่อว่าธรรมด้วย.
+<span class="LineNumber"> 009 </span>         ไม่ใช่ธรรม  ไม่ชื่อว่าอกุศลธรรม  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ไม่ใช่กุศล  ไม่ชื่อว่าธรรม  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ธรรมที่เหลือ   เว้นกุศล  ไม่ชื่อว่ากุศลธรรม  และธรรมที่เหลือ
+<span class="LineNumber"> 013 </span>เว้นกุศลด้วย   ธรรมด้วย  ไม่ชื่อว่ากุศลด้วย  ไม่ชื่อว่า   ธรรมด้วย.
+<span class="LineNumber"> 014 </span>         ไม่ใช่ธรรม  ไม่ชื่อว่าอัพยากตธรรม  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>         ไม่ใช่อกุศล   ไม่ชื่อว่าธรรม  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ธรรมที่เหลือ  เว้นอกุศล  ไม่ชื่อว่าอกุศลธรรม และธรรมที่เหลือ

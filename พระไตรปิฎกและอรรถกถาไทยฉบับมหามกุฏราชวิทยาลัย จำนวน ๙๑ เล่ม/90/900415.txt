@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                        		<H1>อกุศลบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>                          		     <H1>อนุโลมนัย</H1>   
+<span class="LineNumber"> 003 </span>                               	  <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๑๒๔๙]  ๑.  อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  เป็น
+<span class="LineNumber"> 005 </span>ปัจจัยแก่อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม   ด้วยอำนาจของ
+<span class="LineNumber"> 006 </span>เหตุปัจจัย
+<span class="LineNumber"> 007 </span>                           ๒.  อกุศลธรรมที่เป็นสัญโญชนวิปปยุตตธรรม  เป็น
+<span class="LineNumber"> 008 </span>ปัจจัยแก่อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 009 </span>เหตุปัจจัย
+<span class="LineNumber"> 010 </span>                           	<H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 011 </span>                           ๑.  อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  เป็น
+<span class="LineNumber"> 012 </span>ปัจจัยแก่อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 013 </span>อารัมมณปัจจัย.
+<span class="LineNumber"> 014 </span>                           	<H2>๓.  อธิปติปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                           ๑.  อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  เป็น
+<span class="LineNumber"> 016 </span>ปัจจัยแก่อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม   ด้วยอำนาจของ
+<span class="LineNumber"> 017 </span>อธิปติปัจจัย

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                            	<H1>อกุศลบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                           		<H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 003 </span>                                      <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 004 </span>		[๑๓๒๘]  ๑.  อกุศลธรรมที่เป็นทั้งคันถธรรม      และคันถ- 
+<span class="LineNumber"> 005 </span>สัมปยุตตธรรม   เป็นปัจจัยแก่อกุศลธรรมที่เป็นทั้งคันถธรรม   และ
+<span class="LineNumber"> 006 </span>คันถสัมปยุตตธรรม  ด้วยอำนาจของเหตุปัจจัย   ฯลฯ 
+<span class="LineNumber"> 007 </span>			   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>		[๑๓๒๙]  ในเหตุปัจจัย  มี ๙ วาระ     ในอารัมมณปัจจัย มี ๙ วาระ
+<span class="LineNumber"> 009 </span>ในกัมมปัจจัย มี ๓ วาระ   ในอาหารปัจจัย มี ๓ วาระ   ในอินทริยปัจจัย มี ๓
+<span class="LineNumber"> 010 </span>วาระ   ในฌานปัจจัย มี ๓ วาระ ฯลฯ  ในอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 011 </span>                           		<H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 012 </span>                    	<H2>การนับจำนวนวาระในปัจจนียะ</H2>     
+<span class="LineNumber"> 013 </span>		[๑๓๓๐]  ในนเหตุปัจจัย มี ๙ วาระ ในนอารัมมณปัจจัย  มี  ๙  วาระ
+<span class="LineNumber"> 014 </span>ฯลฯ
+<span class="LineNumber"> 015 </span>                       		<H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 016 </span>                  <H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 017 </span>		[๑๓๓๑]  <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย มี ๙ วาระ... ฯลฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  42   นิทานกถา  หน้า  50
+
+<span class="LineNumber"> 002 </span>วีริยํ ทฬฺหํ กตฺวา อธิฏฺ€าย นิสินฺนาสนา วุฏฺ€าสิ ฯ เตน 
+<span class="LineNumber"> 003 </span>วุตฺตํ  
+<span class="LineNumber"> 004 </span>	พุทฺธสฺส วจนํ สุตฺวา   มโน นิพฺพายิ ตาวเท  
+<span class="LineNumber"> 005 </span>	สพฺเพ มํ อุปสงฺกมฺม   ปุนาปิ อภิวนฺทิสุํ ฯ(๑)  
+<span class="LineNumber"> 006 </span>	สมาทิยิตฺวา พุทฺธคุณํ   ทฬฺหํ กตฺวาน มานสํ  
+<span class="LineNumber"> 007 </span>	ทีปงฺกรํ นมสฺสิตฺวา   อาสนา วุฏฺ€หึ ตทาติ ฯ 
+<span class="LineNumber"> 008 </span>	อถ  โพธิสตฺตํ  อาสนา  วุฏฺ€หนฺตํ  สกลทสสหสฺสจกฺก-
+<span class="LineNumber"> 009 </span>วาฬเทวตา  สนฺนิปติตฺวา  ทิพฺเพหิ  มาลาคนฺเธหิ  ปูเชตฺวา  
+<span class="LineNumber"> 010 </span>วนฺทิตฺวา  อยฺย  สุเมธตาปส  ตยา  อชฺช  ทีปงฺกรทสพลสฺส  
+<span class="LineNumber"> 011 </span>ปาทมูเล  มหตี  ปตฺถนา  ปตฺถิตา  สา  เต  อนนฺตราเยน  
+<span class="LineNumber"> 012 </span>สมิชฺฌตุ  มา  เต  ภยํ  วา  ฉมฺภิตตฺตํ  วา  อโหสิ  สรีเร  
+<span class="LineNumber"> 013 </span>อปฺปมตฺตโกปิ  โรโค  มา  อุปฺปชฺชตุ  ขิปฺปํ  ปารมิโย  ปูเรตฺวา  
+<span class="LineNumber"> 014 </span>สมฺมาสมฺโพธึ  ปฏิวิชฺฌ ฯ  ยถา  ปุปฺผูปคผลูปครุกฺขา  สมเย  
+<span class="LineNumber"> 015 </span>ปุปฺผนฺติ  เจว  ผลนฺติ  จ  ตเถว  ตฺวมฺปิ  ตํ  สมยํ  อนติกฺกมิตฺวา  
+<span class="LineNumber"> 016 </span>ขิปฺปํ สมฺโพธิมุตฺตมํ ผุสสฺสูติอาทีนิ  ถุติมงฺคลานิ  ปยิรุทาหํสุ  
+<span class="LineNumber"> 017 </span>เอวฺจ  ปยิรุทาหิตฺวา  อตฺตโน  อตฺตโน  เทวฏฺ€านเมว  อคมํสุ ฯ  
+<span class="LineNumber"> 018 </span>โพธิสตฺโตปิ  เทวตาหิ  อภิตฺถวิโต  อหํ  ทส  ปารมิโย  ปูเรตฺวา  
+<span class="LineNumber"> 019 </span>กปฺปสตสหสฺสาธิกานํ  จตุนฺนํ  อสงฺเขยฺยานํ  มตฺถเก  พุทฺโธ  
+<span class="LineNumber"> 020 </span>ภวิสฺสามีติ  วีริยํ  ทฬฺหํ  กตฺวา  อธิฏฺ€าย  นภํ  อพฺภุคฺคนฺตฺวา  
+<span class="LineNumber"> 021 </span>หิมวนฺตเมว  อคมาสิ ฯ  เตน วุตฺตํ  
+<span class="LineNumber"> 022 </span>#  ๑ สี. มํ  อภิวนฺทิย  ฯ  

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>นกุสลติกนอาสวสัมปยุตตทุกะ</H1>  
+<span class="LineNumber"> 002 </span>                            <H1>กุสลติกอาสวสัมปยุตตทุกะ</H1>
+<span class="LineNumber"> 003 </span>         <H2>(๑. กุสลติกะ  ๑๖. อาสวสัมปยุตตทุกะ)</H2>
+<span class="LineNumber"> 004 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                               <H2>อาสวสัมปยุตตบท</H2>
+<span class="LineNumber"> 008 </span>           [๖๐๘] ๑.  <B>อาสวสัมปุตตธรรม   ที่เป็นอกุศล   อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่อาสวสัมปยุตตธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๖๐๙]  ในเหตุปัจจัย  มี  ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 013 </span>                                 <H2>อาสววิปปยุตตบท</H2>
+<span class="LineNumber"> 014 </span>           [๖๑๐]  ๑.  <B>อาสววิปปยุตตธรรม    ที่เป็นอกุศล    อาศัยธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่อาสววิปปยุตตธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>มี ๙  วาระ.
+<span class="LineNumber"> 017 </span>     <I>นกุสลติกนอาสวสัมปยุตตทุกกุสลติกอาสวสัมปยุตตทุกะ  จบ</I>
+

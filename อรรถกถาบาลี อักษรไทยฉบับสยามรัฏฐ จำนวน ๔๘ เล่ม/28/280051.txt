@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 51
+
+<span class="LineNumber"> 002 </span>	ยถา เย เกจิ สมฺพุทฺธา	ปูรยุํ ทส ปารมี  
+<span class="LineNumber"> 003 </span>	ตเถว ตฺวํ มหาวีร		ปูรย ทสปารมี ฯ  
+<span class="LineNumber"> 004 </span>	ยถา เย เกจิ สมฺพุทฺธา	โพธิมณฺฑมฺหิ พุชฺฌเร  
+<span class="LineNumber"> 005 </span>	ตเถว ตฺวํ มหาวีร		พุชฺฌสฺสุ ชินโพธิยํ ฯ  
+<span class="LineNumber"> 006 </span>	ยถา เย เกจิ สมฺพุทฺธา	ธมฺมจกฺกํ ปวตฺตยุํ  
+<span class="LineNumber"> 007 </span>	ตเถว ตฺวํ มหาวีร		ธมฺมจกฺกํ ปวตฺตย ฯ  
+<span class="LineNumber"> 008 </span>	ปุณฺณมาเย ยถา จนฺโท	ปริปุณฺโณ  วิโรจติ  
+<span class="LineNumber"> 009 </span>	ตเถว ตฺวํ ปุณฺณมโน	วิโรจ ทสสหสฺสิยํ ฯ  
+<span class="LineNumber"> 010 </span>	ราหุมุตฺโต ยถา สุริโย	ตาเปน อติโรจติ  
+<span class="LineNumber"> 011 </span>	ตเถว โลกา มุจฺจิตฺวา	วิโรจ สิริยา ตุวํ ฯ  
+<span class="LineNumber"> 012 </span>	ยถา ยา กาจิ นทิโย		โอสรนฺติ มโหทธึ  
+<span class="LineNumber"> 013 </span>	เอวํ สเทวกา โลกา		โอสรนฺตุ ตวนฺติเก  
+<span class="LineNumber"> 014 </span>	เตหิ ถุตปฺปสตฺโถ โส	ทส ธมฺเม สมาทิย  
+<span class="LineNumber"> 015 </span>	เต ธมฺเม ปริปูเรนฺโต	หิมวนฺตํ(๑) ปาวิสี ตทา ฯ  
+<span class="LineNumber"> 016 </span>		สเมธกถา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 017 </span>	รมฺมนครวาสิโนปิ  โข  นครํ  ปวิสิตฺวา  พุทฺธปฺปมุขสฺส  
+<span class="LineNumber"> 018 </span>ภิกฺขุสํฆสฺส  มหาทานํ  อทํสุ ฯ  สตฺถา  เตสํ  ธมฺมํ  เทเสตฺวา  
+<span class="LineNumber"> 019 </span>มหาชนํ  สรณาทีสุ  ปติฏฺ€าเปตฺวา  รมฺมนครมฺหา  นิกฺขมิตฺวา  ตโต  
+<span class="LineNumber"> 020 </span>อุทฺธํปิ  ยาวตายุกํ  ติฏฺ€นฺโต  สพฺพํ  พุทฺธกิจฺจํ  กตฺวา  อนุกฺกเมน  
+<span class="LineNumber"> 021 </span>อนุปาทิเสสาย  นิพฺพานธาตุยา  ปรินิพฺพายิ ฯ  ตตฺถ  ยํ  วตฺตพฺพํ 
+<span class="LineNumber"> 022 </span># ๑. ม. ปวนํ ฯ 

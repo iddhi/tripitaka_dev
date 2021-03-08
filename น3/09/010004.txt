@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                        <B>อุทฺเทโส  จบอุทเทส</B>  [เนื้อความย่อ].  
+<span class="LineNumber"> 002 </span>                               [กายานุปัสสนาสติปัฏฐาน]
+<span class="LineNumber"> 003 </span>	<B>๑.  กถญฺจ ภิกฺขเว  ภิกฺขุ</B> 		ดูก่อนภิกษุทั้งหลาย  ภิกษุย่อม
+<span class="LineNumber"> 004 </span><B>กาเย  กายานุปสฺสี  วิหรติ</B>		      พิจารณาเห็นกายในกายเนือง ๆ
+<span class="LineNumber"> 005 </span>						             อยู่อย่างไรเล่า ?
+<span class="LineNumber"> 006 </span><B>อิธ  ภิกฺขเว  ภิกฺขุ</B>				   ดูก่อนภิกษุทั้งหลาย  ภิกษุใน
+<span class="LineNumber"> 007 </span>						             ศาสนานี้
+<span class="LineNumber"> 008 </span><B>อรญฺคโต  วา</B>				     ไปที่ป่าก็ตาม
+<span class="LineNumber"> 009 </span><B>รุกฺขมูลคโต  วา</B>				     ไปที่รุกขมูล  [โคนไม้]  ก็ตาม
+<span class="LineNumber"> 010 </span><B>สุญฺาคารคโต  วา</B>				ไปสู่เรือนว่างเปลาก็ตาม
+<span class="LineNumber"> 011 </span><B>นิสีทติ ปลฺลงฺกํ  อาภุชิตฺวา</B>		     นั่งคู้บัลลังก์  [คือขันสมาธิ]
+<span class="LineNumber"> 012 </span><B>อุชุํ  กายํ  ปณิธาย  ปริมุขํ  สตึ</B>		ตั้งกายให้ตรง  ดำรงสติไว้มั่น
+<span class="LineNumber"> 013 </span><B>อุปฏฺ€เปตฺวา</B>					  เฉพาะหน้า
+<span class="LineNumber"> 014 </span><B>โส  สโตว  อสฺสสติ<SUP>๑</SUP></B>				เธอย่อมมีสติหายใจออก
+<span class="LineNumber"> 015 </span><B>สโต  ปสฺสสติ</B>				         ย่อมมีสติหายใจเข้า.
+<span class="LineNumber"> 016 </span>	<B>[๑]  ทีฆํ  วา  อสฺสสนฺโต</B>		  เมื่อหายใจออกยาว  ก็รู้ชัดว่า  เรา
+<span class="LineNumber"> 017 </span><B>ทีฆํ  อสฺสสามีติ  ปชานาติ</B>		      หายใจออกยาว
+<span class="LineNumber"> 018 </span><B>ทีฆํ  วา  ปสฺสสนฺโต  ทีฆํ</B>			หรือหายใจเข้ายาว  ก็รู้ชัดว่า  เรา
+<span class="LineNumber"> 019 </span><B>ปสฺสสามีติ  ปชานาติ</B>			      หายใจเข้ายาว.
+
+<span class='footnote'>๑.  นี้  แปลตามนัยแห่งอรรถกถาพระวินัย  แต่ตามนัยแห่งอรรถกถาพระสูตร  ท่านแปล</span>
+<span class='footnote'>"อสฺสสติ"  ว่า  "หายใจเข้า"  "ปสฺสติ"  ว่า  "หายใจออก"</span>

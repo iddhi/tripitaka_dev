@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	ู				เ-ึ     	(สือ)  
+<span class="LineNumber"> 002 </span>	เ				เ-ืะ	(เกือะ)
+<span class="LineNumber"> 003 </span>	เ-ะ	(เกะ)		แ
+<span class="LineNumber"> 004 </span>	เ-า	(เขา)			แ-ะ	(แพะ)
+<span class="LineNumber"> 005 </span>	เ-าะ	(เจาะ)		โ
+<span class="LineNumber"> 006 </span>	เ-ิ	(เกิน)		โ-ะ	(โป๊ะ)  
+<span class="LineNumber"> 007 </span>	เ-ี	(เสีย)		ใ
+<span class="LineNumber"> 008 </span>	เ-ีะ	(เผียะ)		ไ
+<span class="LineNumber"> 009 </span>	ส่วนตัว   "อ  ว  ย"   นับลำดับอยู่ในพยัญชนะเสมอ.
+<span class="LineNumber"> 010 </span>	๓.  ในการเรียงนี้ ได้เลือกเอาเฉพาะศัพท์ที่มีเนื้อความยังไม่ชัด
+<span class="LineNumber"> 011 </span>และศัพท์ที่เป็นภาษาบาลี  ซึ่งคิดว่าผู้เข้ามาใหม่ไม่เข้าใจ  มาเรียงลำดับ
+<span class="LineNumber"> 012 </span>ไว้  บอกชื่อหน้าหนังสือกำกับไว้เพื่อจะให้รู้ว่า   ศัพท์นั้นอยู่หน้าไหน  มี
+<span class="LineNumber"> 013 </span>ความหมายอย่างไร  เพราะเฉพาะศัพท์หนึ่ง ๆ  ที่อยู่ในหน้าใด  ๆ  ก็แปล
+<span class="LineNumber"> 014 </span>เป็นทำนองอธิบายเฉพาะเนื้อความของศัพท์ที่อยู่ในหน้านั้น   ๆ   เป็น
+<span class="LineNumber"> 015 </span>ประมาณ.
+<span class="LineNumber"> 016 </span>	๔.  หากศัพท์นั้น  ๆ   มีอยู่ในหน้าอื่นนอกจากที่บอกกำกับไว้  ก็
+<span class="LineNumber"> 017 </span>ขอให้ผู้ศึกษาเปรียบเทียบเอาเอง  ถ้าเนื้อความเข้ากันได้   ก็ถือเอา
+<span class="LineNumber"> 018 </span>คำแปลหรืออธิบายตามที่เขียนไว้นั้น  เช่นคำว่า  <B>"จับพลัดจับผลู"</B>
+<span class="LineNumber"> 019 </span>หน้า  ๕  แปลว่า  "ทำผิด ๆ  ถูก ๆ,   เป็นไปโดยมิได้ตั้งใจ"   กับใน
+<span class="LineNumber"> 020 </span>หน้า  ๓๘  ก็มีเนื้อความเท่ากัน  จึงเข้ากันได้,  ถ้าเนื้อความขัดกัน  ก็ให้
+<span class="LineNumber"> 021 </span>หัดแปลยักย้ายความหมาย  ถือเอาโดยอนุโลมที่แปลไว้นั้น  เช่นศัพท์
+
+	

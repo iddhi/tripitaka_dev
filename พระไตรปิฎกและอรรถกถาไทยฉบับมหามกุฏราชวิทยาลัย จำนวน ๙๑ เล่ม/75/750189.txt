@@ -1,0 +1,31 @@
+﻿<span class="LineNumber"> 001 </span>               <H2>๙๕-๑๓.  อรูปาวจรทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>อรูปาวจรา ธมฺมา</B>          ธรรมเป็นอรูปาวจร
+<span class="LineNumber"> 003 </span><B>น รูปาวจรา ธมฺมา</B>         ธรรมไม่เป็นรูปาวจร
+
+<span class="LineNumber"> 004 </span>               <H2>๙๖-๑๔.  ปริยาปันนทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>ปริยาปนฺนา ธมฺมา</B>       ธรรมเป็นปริยาปันนะ
+<span class="LineNumber"> 006 </span><B>อปริยาปนฺนา ธมฺมา</B>     ธรรมเป็นอปริยาปันนะ
+
+<span class="LineNumber"> 007 </span>                <H2>๙๗-๑๕.  นิยยานิกทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>นิยฺยานิกา ธมฺมา</B>         ธรรมเป็นเหตุนำออกจากสังสารวัฏ
+<span class="LineNumber"> 009 </span><B>อนิยฺยานิกา ธมฺมา</B>       ธรรมไม่เป็นเหตุนำออกจากสังสารวัฏ
+
+<span class="LineNumber"> 010 </span>                   <H2>๙๘-๑๖.  นิยตทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>นียตา ธมฺมา</B>               ธรรมให้ผลแน่นอน
+<span class="LineNumber"> 012 </span><B>อนิยตา ธมฺมา</B>             ธรรมให้ผลไม่แน่นอน
+
+<span class="LineNumber"> 013 </span>                 <H2>๙๙-๑๗.  สอุตตรทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>สอุตตฺรา ธมฺมา</B>          ธรรมมีธรรมอื่นยิ่งกว่า
+<span class="LineNumber"> 015 </span><B>อนุตฺตรา ธมฺมา</B>          ธรรมไม่มีธรรมอื่นยิ่งกว่า
+
+<span class="LineNumber"> 016 </span>                  <H2>๑๐๐-๑๘.  สรณทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>สรณา ธมฺมา</B>                  ธรรมเกิดกับกิเลส
+<span class="LineNumber"> 018 </span><B>อรณา ธมฺมา</B>                  ธรรมไม่เกิดกับกิเลส
+
+<span class="LineNumber"> 019 </span>                       <I>อภิธรรมมาติกา  ๑๐๐ ทุกะ จบ</I>

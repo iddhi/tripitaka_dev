@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>๔.  นอนันตรปัจจัย   ฯลฯ  ๗.  นอุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>ฯลฯ  เพราะนอนันตรปัจจัย   ฯลฯ</B>
+<span class="LineNumber"> 003 </span>         <B>ฯลฯ  เพราะนอุปนิสสยปัจจัย</B>
+
+<span class="LineNumber"> 004 </span>                                    <H2>๘.  นปุเรชาตปัจจัย</H2>
+<span class="LineNumber"> 005 </span>         [๗๘๖] ๑.  <B>อรูปาวจรธรรม   อาศัยอรูปาวจรธรรม   เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  ในอรูปภูมิ ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นอรูปาวจรธรรม ฯลฯ
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 009 </span>         พึงกระทำมูล  (วาระที่ ๒)
+<span class="LineNumber"> 010 </span>         จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่ไม่ใช่อรูปาวจรธรรม.
+<span class="LineNumber"> 011 </span>                     ๓.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 012 </span>อรูปาวจรธรรม  เกิดขึ้น  เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  ในอรูปภูมิ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่ไม่ใช่อรูปาวจรธรรม ฯลฯ
+<span class="LineNumber"> 014 </span>ขันธ์ ๒.
+<span class="LineNumber"> 015 </span>         ในปฏิสนธิขณะ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 016 </span>                     ๔.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม     อาศัยอรูปาวจร-
+<span class="LineNumber"> 017 </span>ธรรม  และธรรมที่ไม่ใช่อรูปาวจรธรรม   เกิดขึ้น  เพราะนปุเรชาต-
+<span class="LineNumber"> 018 </span>ปัจจัย</B>
+<span class="LineNumber"> 019 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอรูปาวจรธรรม  และ
+<span class="LineNumber"> 020 </span>มหาภูตรูปทั้งหลาย.

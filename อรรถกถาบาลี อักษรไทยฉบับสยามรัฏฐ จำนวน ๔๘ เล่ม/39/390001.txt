@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ 39    หน้า 1
+
+<span class="LineNumber"> 002 </span>		สทฺธมฺมปฺปชฺโชติกา  นาม  ขุทฺทกนิกายฏฺ€กถา
+<span class="LineNumber"> 003 </span>				นิทฺเทสวณฺณนา
+<span class="LineNumber"> 004 </span>		นโม  ตสฺส  ภควโต  อรหโต  สมฺมาสมฺพุทฺธสฺส  ฯ
+<span class="LineNumber"> 005 </span>				มหานิทฺเทสวณฺณนา
+<span class="LineNumber"> 006 </span>				อฏฺ€กวคฺควณฺณนา
+
+<span class="LineNumber"> 007 </span>			ปุราเภทสุตฺตนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 008 </span>	ทสเม  ปุราเภทสุตฺตนิทฺเทเส  กถํ  ทสฺสีติ อิมสฺส สุตฺตสฺส
+<span class="LineNumber"> 009 </span>อิโต ปเรสฺจ ปฺจนฺนํ  กลหวิวาทจูฬวิยูหมหาวิยู(๑)หตุวฏกอตฺต-
+<span class="LineNumber"> 010 </span>ทณฺฑสุตฺตานํ  สมฺมาปริพฺพาชนียสุตฺตวณฺณนายํ วุตฺตนเยเนว 
+<span class="LineNumber"> 011 </span>สามฺโต  อุปฺปตฺติ เวทิตพฺพา ฯ วิเสสโต ปน ยเถว ตสฺมึ 
+<span class="LineNumber"> 012 </span>มหาสมเย ราคจริตเทวตานํ สปฺปายวเสน ธมฺมํ เทเสตุํ นิมฺมิต-
+<span class="LineNumber"> 013 </span>พุทฺธํ (๒) อตฺตานํ ปุจฺฉาเปตฺวา  สมฺมาปริพฺพาชนียสุตฺตนฺตมภาสิ  (๓) 
+<span class="LineNumber"> 014 </span>เอวํ ตสฺมึเยว มหาสมเย กึ นุ โข  ปุรา  สรีรเภทา  
+<span class="LineNumber"> 015 </span>กตฺตพฺพนฺติ  อุปฺปนฺนจิตฺตานํ  เทวตานํ  จิตฺตํ ตฺวา ตาสํ 
+<span class="LineNumber"> 016 </span>อนุคฺคหตฺถํ  อฑฺฒเตฬสภิกฺขุสตปริวารํ  นิมฺมิตพุทฺธํ  อากาเสน
+<span class="LineNumber"> 017 </span>อาเนตฺวา  เตน อตฺตานํ ปุจฺฉาเปตฺวา อิมํ สุตฺตมภาสิ ฯ  
+<span class="LineNumber"> 018 </span>	กถํ  พุทฺธา  นาม  มหนฺตา  เอเต  สตฺตวิเสสา  สยํ  (๔) 
+<span class="LineNumber"> 019 </span># ๑. ม. ...จูฬพฺยูหมหาพฺยูห... ฯ เอวมุปริปิ ฯ  ๒.ม. นิมฺมิตพุทฺเธน ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. ขุ. สุ. ๒๕/๓๓๑/๓๙๕ ฯ  ๔. ม. ยํ ฯ 

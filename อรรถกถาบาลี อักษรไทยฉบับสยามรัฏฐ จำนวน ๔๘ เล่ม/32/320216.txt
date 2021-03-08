@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  มหากปิชาตกํ   หน้า 216
+	
+<span class="LineNumber"> 002 </span>	[๑๐๕๑]ราชาหํ อิสฺสโร เตสํ  	ยูถสฺส ปริหารโก  
+<span class="LineNumber"> 003 </span>		เตสํ โสกปเรตานํ  		ภีตานนฺเต อรินฺทม ฯ  
+<span class="LineNumber"> 004 </span>	[๑๐๕๒]อุลฺลงฺฆยิตฺวา อตฺตานํ  	วิสฺสฏฺ€ธนุโน สตํ  
+<span class="LineNumber"> 005 </span>		ตโต อปรปาเทสุ  		ทฬฺหํ พนฺธํ ลตาคุลํ(๑) ฯ  
+<span class="LineNumber"> 006 </span>	[๑๐๕๓]ฉินฺนพฺภมิว วาเตน  	นุณฺโณ รุกฺขมุปาคมึ  
+<span class="LineNumber"> 007 </span>		โสหํ อปฺปภวํ ตตฺถ  	สาขํ หตฺเถหิ อคฺคหึ ฯ  
+<span class="LineNumber"> 008 </span>	[๑๐๕๔]ตํ มํ วีณายตํ(๒) สนฺตํ  	สาขาย จ ลตาย จ  
+<span class="LineNumber"> 009 </span>		สมนุกฺกมนฺตา ปาเทหิ  	โสตฺถึ สาขมิคา คตา ฯ  
+<span class="LineNumber"> 010 </span>	[๑๐๕๕]ตํ มํ น ตปฺปตี(๓) พนฺโธ  วโธ(๔) เม น ตเปสฺสติ  
+<span class="LineNumber"> 011 </span>		สุขมาหริตํ เตสํ  		เยสํ รชฺชมการยึ ฯ  
+<span class="LineNumber"> 012 </span>	[๑๐๕๖]เอสา เต อุปมา ราช  	ตํ สุณาหิ อรินฺทม(๕)  
+<span class="LineNumber"> 013 </span>		รฺา รฏฺ€สฺส โยคฺคสฺส  	พลสฺส นิคมสฺส จ  
+<span class="LineNumber"> 014 </span>		สพฺเพสํ สุขเมตพฺพํ  	ขตฺติเยน ปชานตาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  เตสนฺติ  เตสํ  อสีติสหสฺสานํ  วานรานํ  ฯ  
+<span class="LineNumber"> 016 </span>ภีตานนฺเตติ  ตว  วิชฺฌนตฺถาย  อาณาเปตฺวา  €ิตสฺส  ภีตานํ  ฯ
+<span class="LineNumber"> 017 </span>อรินฺทมาติ  ราชานํ  อาลปติ  ฯ  ราชา  หิ  โจราทีนํ  อรีนํ  ทมนโต 
+<span class="LineNumber"> 018 </span>อรินฺทโมติ  วุจฺจติ  ฯ  วิสฺสฏฺ€ธนุโน  สตนฺติ  อาโรปิต(๖)ธนุสตปฺปมาณํ 
+<span class="LineNumber"> 019 </span>€านํ  อตฺตานํ  อากาเส  อุลฺลงฺฆยิตฺวา  วิสฺสชฺเชตฺวา  ฯ  ตโตติ  อิมมฺหา  
+<span class="LineNumber"> 020 </span># ๑. ม. ลตาคณํ ฯ  ๒. ม. วิยายตํ ฯ  ๓. ม. ตปเต ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. มโต ฯ  ๕. ส. อรินฺทมํ ฯ  สี. ยุ. อตฺถสนฺทสฺสนี กตา ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. อนาโรปิต... ฯ 

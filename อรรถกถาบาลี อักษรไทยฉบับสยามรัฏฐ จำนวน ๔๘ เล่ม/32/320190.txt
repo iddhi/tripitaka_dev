@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  กปิชาตกํ  หน้า 190
+
+<span class="LineNumber"> 002 </span>พหู  มกฺกฏาติ ฯ  ราชา  อุยฺยานมกฺกเฏ  มาเรตฺวา  วสํ 
+<span class="LineNumber"> 003 </span>อาเนถาติ  อาห  ฯ  ธนุคฺคหา  คนฺตฺวา  ปฺจสเตปิ  มกฺกเฏ  
+<span class="LineNumber"> 004 </span>วิชฺฌิตฺวา  มาเรสุํ  ฯ  เอโก  ปน  เชฏฺ€กมกฺกโฏ  ปลายนฺโต  
+<span class="LineNumber"> 005 </span>สรปฺปหารํ  ลภิตฺวาปิ  ตตฺเถว  อปติตฺวา  โพธิสตฺตสฺส  วสนฏฺ€านํ
+<span class="LineNumber"> 006 </span>ปตฺวา  ปติ  ฯ  วานรา  อมฺหากํ  วสนฏฺ€านํ  ปตฺวา  มโตติ  
+<span class="LineNumber"> 007 </span>ตสฺส  ปหารลทฺธมตภาวํ  โพธิสตฺตสฺส  อาโรเจสุํ  ฯ  โส  อาคนฺตฺวา
+<span class="LineNumber"> 008 </span>กปิคณมชฺเฌ  นิสินฺโน  ปณฺฑิตานํ  โอวาทํ  อกตฺวา  เวริฏฺ€าเน  
+<span class="LineNumber"> 009 </span>วสนฺตา  นาม  เอวํ  วินสฺสนฺตีติ  กปิคณสฺส  โอวาทวเสน  อิมา 
+<span class="LineNumber"> 010 </span>คาถา อภาสิ  
+<span class="LineNumber"> 011 </span>	[๑๐๒๘]ยตฺถ เวรี นิวสติ(๑)	น วเส ตตฺถ ปณฺฑิโต  
+<span class="LineNumber"> 012 </span>		เอกรตฺตํ ทิรตฺตํ วา  	ทุกฺขํ วสติ เวริสุ ฯ  
+<span class="LineNumber"> 013 </span>	[๑๐๒๙]ทิโส เว ลหุจิตฺตสฺส  	โปสสฺส อนุวิธิยฺยโต(๒)  
+<span class="LineNumber"> 014 </span>		เอกสฺส กปิโน เหตุ  	ยูถสฺส อนโย กโต ฯ  
+<span class="LineNumber"> 015 </span>	[๑๐๓๐]พาโล จ ปณฺฑิตมานี  	ยูถสฺส ปริหารโก  
+<span class="LineNumber"> 016 </span>		สจิตฺตสฺส วสํ คนฺตฺวา  	สเยถายํ ยถา กปิ ฯ  
+<span class="LineNumber"> 017 </span>	[๑๐๓๑]น สาธุ พลวา พาโล  	ยูถสฺส ปริหารโก  
+<span class="LineNumber"> 018 </span>		อหิโต ภวติ าตีนํ  	สกุณานํว เจกโต(๓) ฯ  
+<span class="LineNumber"> 019 </span>	[๑๐๓๒]ธีโร จ พลวา สาธุ 	ยูถสฺส ปริหารโก  
+<span class="LineNumber"> 020 </span>		หิโต ภวติ าตีนํ  		ติทสานํว วาสโว ฯ  
+<span class="LineNumber"> 021 </span># ๑. ส. นิวิสติ ฯ  ๒. ส. โปสสฺสานุวิธิยฺยโต ฯ 
+<span class="LineNumber"> 022 </span># ม. โปสสฺสานุวิธียโต ฯ  ๓. ส. ม. เจตโก ฯ 

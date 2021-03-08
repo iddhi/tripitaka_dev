@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 149
+
+<span class="LineNumber"> 002 </span>	อิทมสฺส อสฺสรตนํ		เอกขุโร เวควาโต อยํ อสฺโส  
+<span class="LineNumber"> 003 </span>	เตทานิ อยฺยปุตฺตา		จตฺตาโร วธาย นินฺนีตา  
+<span class="LineNumber"> 004 </span>	อยมสฺส อสฺสรโถ		(๑)สาลิยา วิย นิคฺโฆโส(๑)  
+<span class="LineNumber"> 005 </span>	สุโภ รตนขจิโต ยตฺถสฺสุ  อยฺยปุตฺตา โสภึสุ นนฺทเน วิย เทวา  
+<span class="LineNumber"> 006 </span>	เตทานิ อยฺยปุตฺตา		จตฺตาโร วธาย นินฺนีตา  
+<span class="LineNumber"> 007 </span>	กถนฺนาม(๓) สามสมสุนฺทเรหิ  จนฺทนมรุกคตฺเตหิ(๔)  
+<span class="LineNumber"> 008 </span>	ราชา ยชิสฺสเต ยฺํ	สมฺมุฬฺโห จตูหิ ปุตฺเตหิ  
+<span class="LineNumber"> 009 </span>	กถนฺนาม(๓) สามสมสุนฺทราหิ  จนฺทนมรุกคตฺตาหิ(๕)  
+<span class="LineNumber"> 010 </span>	ราชา ยชิสฺสเต ยฺํ	สมฺมุฬฺโห จตูหิ กฺาหิ  
+<span class="LineNumber"> 011 </span>	กถนฺนาม(๓) สามสมสุนฺทราหิ  จนฺทนมรุกคตฺตาหิ(๕)  
+<span class="LineNumber"> 012 </span>	ราชา ยชิสฺสเต ยฺํ	สมฺมุฬฺโห จตูหิ มเหสีหิ  
+<span class="LineNumber"> 013 </span>	กถนฺนาม(๓) สามสมสุนฺทเรหิ  จนฺทนมรุกคตฺเตหิ (๔) 
+<span class="LineNumber"> 014 </span>	ราชา ยชิสฺสเต ยฺํ	สมฺมุฬฺโห จตูหิ คหปตีหิ  
+<span class="LineNumber"> 015 </span>	ยถา โหนฺติ คามนิคมา สุฺา นิมฺมนุสฺสกา(๖) พฺรหารฺา  
+<span class="LineNumber"> 016 </span>	ตถา เหสฺสติ ปุปฺผวติยา	ยิฏฺเ€สุ จนฺทสุริเยสูติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  เอราวโณติ  ตสฺส  หตฺถิโน  นามํ ฯ  เอกขุโรติ 
+<span class="LineNumber"> 018 </span>อภินฺนขุโร ฯ  (๗)สาลิยา  วิย  นิคฺโฆโสติ (๗) คมนกาเล  สาลิยานํ  วิย
+<span class="LineNumber"> 019 </span>มธุเรน นิคฺโฆเสน  สมนฺนาคโต ฯ  กถนฺนาม  สามสมสุนฺทเรหีติ  
+<span class="LineNumber"> 020 </span># ๑. ม. สาฬิยนิคฺโฆโส ฯ  ๒. ส. ม. รตนวิจิตฺโต ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. กถํ นาม ฯ  ๔. ม. จนฺทนมุทุกคตฺเตหิ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. จนฺทนมุทุกคตฺตาหิ ฯ ๖. ม. อมนุสฺสกา ฯ 
+<span class="LineNumber"> 023 </span># ๗. ม. สาฬิยนิคฺโฆโสติ ฯ 

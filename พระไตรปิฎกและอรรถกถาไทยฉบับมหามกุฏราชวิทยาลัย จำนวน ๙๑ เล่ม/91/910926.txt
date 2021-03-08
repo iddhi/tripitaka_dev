@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๑๓๕]  ในเหตุปัจจัย  มี  ๒ วาระ ฯลฯ
+<span class="LineNumber"> 003 </span>          <I>อุปาทินนทุกเหตุทุกนอุปาทินนทุกนเหตุทุกะ  จบ</I> 
+
+<span class="LineNumber"> 004 </span>              <H1>ทวิโคจฉกทุกเหตุทุกนทวิโคจฉกทุกนเหตุทุกะ</H1>
+<span class="LineNumber"> 005 </span>          <H2>(๖๙.-๘๒.  ทวิโคจฉกทุกะ  ๑. เหตุทุกะ)</H2>
+<span class="LineNumber"> 006 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 007 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                              <H2>อุปาทานโคจฉกะ</H2>
+<span class="LineNumber"> 009 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>                                      <H2>นเหตุบท</H2>	        
+<span class="LineNumber"> 011 </span>           [๑๑๓๖] ๑.  <B>นเหตุธรรม  ที่ไม่ใช่อุปาทานธรรม  อาศัยนเหตุ-
+<span class="LineNumber"> 012 </span>ธรรมที่เป็นอุปาทานธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                                  <H2>กิเลสโคจฉกะ</H2>
+<span class="LineNumber"> 014 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                        <H2>เหตุบท</H2>	
+<span class="LineNumber"> 016 </span>                         ๑. <B>นเหตุธรรม  ที่ไม่ใช่กิเลสธรรม  อาศัยเหตุธรรม
+<span class="LineNumber"> 017 </span>ที่เป็นกิเลสธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>            <I>ทวิโคจฉกทุกเหตุทุกนทวิโคจฉกทุกนเหตุทุกะ จบ</I>

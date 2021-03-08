@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  104
+
+<span class="LineNumber"> 002 </span>			ปิลินฺทวจฺฉตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	สฺวาคตนฺติ อายสฺมโต ปิลินฺทวจฺฉตฺเถรสฺส คาถา ฯ กา
+<span class="LineNumber"> 004 </span>อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยํ  กิร  ปทุมุตฺตรพุทฺธกาเล  หํสวตีนคเร  มหาโภคกุเล 
+<span class="LineNumber"> 006 </span>นิพฺพตฺโต  เหฏฺ€า วุตฺตนเยเนว  สตฺถุ  สนฺติเก  ธมฺมํ  สุณนฺโต  
+<span class="LineNumber"> 007 </span>สตฺถารํ  เอกํ  ภิกฺขุํ  เทวตานํ ปิยมนาปภาเวน  อคฺคฏฺ€าเน 
+<span class="LineNumber"> 008 </span>€เปนฺตํ  ทิสฺวา  อคฺคฏฺ€านนฺตรํ (๑) ปตฺเถตฺวา ยาวชีวํ กุสลํ 
+<span class="LineNumber"> 009 </span>กตฺวา  ตโต  จุโต  เทวมนุสฺเสสุ  สํรนฺโต สุเมธสฺส ภควโต 
+<span class="LineNumber"> 010 </span>กาเล มนุสฺสโลเก  นิพฺพตฺติตฺวา  ภควติ  ปรินิพฺพุเต  สตฺถุ  ถูปสฺส 
+<span class="LineNumber"> 011 </span>ปูชํ  กตฺวา  สงฺเฆ  จ มหาทานํ ปวตฺเตตฺวา  ตโต จุโต
+<span class="LineNumber"> 012 </span>เทวมนุสฺเสสุเอว สํสรนฺโต อนุปฺปนฺเน พุทฺเธ จกฺกวตฺตี ราชา 
+<span class="LineNumber"> 013 </span>หุตฺวา  มหาชนํ  ปฺจสุ สีเลสุ ปติฏฺ€าเปตฺวา สคฺคปรายนํ 
+<span class="LineNumber"> 014 </span>อกาสิ ฯ 
+<span class="LineNumber"> 015 </span>	โส อนุปฺปนฺเนเยว อมฺหากํ  ภควติ  สาวตฺถิยํ 
+<span class="LineNumber"> 016 </span>พฺราหฺมณเคเห  นิพฺพตฺติ ฯ  ปิลินฺโทติสฺส  (๒) นามํ  อกํสุ ฯ วจฺโฉติ 
+<span class="LineNumber"> 017 </span>ปน โคตฺตํ ฯ เตน โส อปรภาเค ปิลินฺทวจฺโฉติ (๓) ปฺายิตฺถ ฯ 
+<span class="LineNumber"> 018 </span>สํสาเร  ปน  สํเวคพหุลตาย  ปริพฺพาชกปพฺพชฺชํ  ปพฺพชิตฺวา  
+<span class="LineNumber"> 019 </span>จูฬคนฺธารํ  นาม วิชฺชํ  สาเธตฺวา  ตาย  วิชฺชาย  อากาสจารี 
+<span class="LineNumber"> 020 </span>ปรจิตฺตวิทู  จ  หุตฺวา  ราชคเห  ลาภคฺคยสคฺคปฺปตฺโต ปฏิวสติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ตํ €านนฺตรํ ฯ  ๒. สี. ปิลินฺทีติสฺส ฯ 
+<span class="LineNumber"> 022 </span># ๓. สี. ปิลินฺทิวจฺโฉติ ฯ 

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>อัพยากตกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๘๖]  <B>สกวาที</B>  ทิฏฐิเป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. เป็นวิบากอัพยากฤต    เป็นกิริยาอัพยากฤต   เป็นรูป
+<span class="LineNumber"> 005 </span>เป็นนิพพาน  เป็นจักขายตนะ ฯลฯ เป็นโผฏฐัพพายตนะ หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. ทิฏฐิเป็นอัพยากฤต หรือ ?
+<span class="LineNumber"> 008 </span>                       ป.  ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ส. ผัสสะที่สัมปยุตด้วยทิฏฐิเป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 010 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 011 </span>                       ส. ทิฏฐิเป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ถูกเเล้ว.
+<span class="LineNumber"> 013 </span>                       ส. เวทนา  ฯลฯ  สัญญา  ฯลฯ  เจตนา  ฯลฯ  จิตที่สัมปยุต 
+<span class="LineNumber"> 014 </span>ด้วยทิฏฐิ เป็นอัพยากฤต  หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 016 </span>         [๑๕๘๗]  ส. ผัสสะที่สัมปยุตด้วยทิฏฐิเป็นอกุศล หรือ ?
+<span class="LineNumber"> 017 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                       ส. ทิฏฐิเป็นอกุศล หรือ ?
+<span class="LineNumber"> 019 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 020 </span>                       ส. เวทนา  ฯลฯ   สัญญา  เจตนา  จิตที่สัมปยุตด้วยทิฏฐิ
+<span class="LineNumber"> 021 </span>เป็นอกุศล หรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ถูกแล้ว.

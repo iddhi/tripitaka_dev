@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span> <B>[๖๐๗]  ๔.  อัพยากตธรรม  เป็นปัจจัยแก่กุศลธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 002 </span>ของวิปปยุตตปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           มีอย่างเดียว คือ ที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 004 </span>              ๑.  หทยวัตถุที่เกิดก่อน  เป็นปัจจัยแก่กุศลขันธ์  ด้วยอำนาจ
+<span class="LineNumber"> 005 </span>ของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 006 </span> <B>[๖๐๘]  ๕.  อัพยากตธรรม  เป็นปัจจัยแก่อกุศลธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 007 </span>ของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 008 </span>           มีอย่างเดียว คือ  ที่เป็น <B>ปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 009 </span>              ๑.  หทยวัตถุที่เกิดก่อน  เป็นปัจจัยแก่อกุศลขันธ์  ด้วยอำนาจ
+<span class="LineNumber"> 010 </span>ของวิปปยุตตปัจจัย.
+
+<span class="LineNumber"> 011 </span>                                 <H1>๒๑. อัตถิปัจจัย</H1>
+<span class="LineNumber"> 012 </span> <B>[๖๐๙]  ๑.  กุศลธรรม  เป็นปัจจัยแก่กุศลธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 013 </span>อัตถิปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ ขันธ์ ๑  ที่เป็นกุศล     เป็นปัจจัย  แก่ขันธ์  ๓     ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>อัตถิปัจจัย,     ขันธ์ ๓ เป็นปัจจัยแก่ขันธ์ ๑   ด้วยอำนาจของอัตถิปัจจัย,
+<span class="LineNumber"> 016 </span>ขันธ์ ๒ เป็นปัจจัยแก่ขันธ์ ๒  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 017 </span> <B>[๖๑๐]  ๒.  กุศลธรรม  เป็นปัจจัยแก่อัพยากตธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 018 </span>ของอัตถิปัจจัย</B>

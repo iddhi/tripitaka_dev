@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>		<B>ความเสมอกันเพราะอาหาร    คือต่างก็มีสัตว์
+<span class="LineNumber"> 002 </span>		ตัวเมียและอาหารคนละชนิดไม่เหมือนกัน
+<span class="LineNumber"> 003 </span>		ภายหลัง   เมื่อสุนัขจิ้งจอกยุยงทำลายความ
+<span class="LineNumber"> 004 </span>		สนิทสนมจนถึงให้ตาย   ท่านจงเห็นเหตุนั้น
+<span class="LineNumber"> 005 </span>		ซึ่งฉันคิดไว้ถูกต้องแล้ว.
+<span class="LineNumber"> 006 </span>        			พวกสุนัขจิ้งจอกพากันกัดกินโคผู้และ
+<span class="LineNumber"> 007 </span>		ราชสีห์    เพราะคำส่อเสียดใด   คำส่อเสียด 
+<span class="LineNumber"> 008 </span>		นั้น   ย่อมเป็นไปถึงตัดมิตรภาพ    เพราะเนื้อ
+<span class="LineNumber"> 009 </span>		คือสุนัขจิ้งจอกเป็นเหตุ    ดุจดาบคน  ฉะนั้น.
+<span class="LineNumber"> 010 </span>         			ดูก่อนนายสารถี   ท่านจงดูการนอนตาย
+<span class="LineNumber"> 011 </span>		ของสัตว์ทั้งสองนี้      ผู้ใดเชื่อถือถ้อยคำของ
+<span class="LineNumber"> 012 </span>		คนส่อเสียด  ผู้มุ่งทำลายความสนิทสนม   ผู้
+<span class="LineNumber"> 013 </span>		นั้นจะต้องนอนตายอย่างนี้.
+<span class="LineNumber"> 014 </span>         			ดูก่อนนายสารถี   นรชนเหล่าใดไม่เชื่อ
+<span class="LineNumber"> 015 </span>		ถือถ้อยคำของตนส่อเสียด   ผู้มุ่งทำลายความ
+<span class="LineNumber"> 016 </span>		สนิทสนม     นรชนเหล่านั้นย่อมได้ประสบ 
+<span class="LineNumber"> 017 </span>		สุขเหมือนคนไปสวรรค์  ฉะนั้น.</B>

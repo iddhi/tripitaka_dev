@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>อารัมมณปกิณณกฆฏนา ๕</H1> 
+<span class="LineNumber"> 002 </span> <B>[๖๒๗]  ๑.  ปัจจัย ๓</B> คือ อารัมมณะ  อธิปติ     อุปนิสสยปัจจัย
+<span class="LineNumber"> 003 </span>มี ๗ วาระ.  
+<span class="LineNumber"> 004 </span>              <B>๒.  ปัจจัย ๔</B>  คือ  อารัมมณะ   ปุเรชาตะ  อัตถิ  อวิคต-
+<span class="LineNumber"> 005 </span>ปัจจัย   มี ๓ วาระ.  
+<span class="LineNumber"> 006 </span>              <B>๓.  ปัจจัย ๖</B>  คือ อารัมมณะ  นิสสยะ  ปุเรชาตะ วิปป-
+<span class="LineNumber"> 007 </span>ยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓  วาระ.                 
+<span class="LineNumber"> 008 </span>              <B>๔.  ปัจจัย  ๖</B> คือ อารัมมณะ  อธิปติ  อุปนิสสยะ  ปุเร-
+<span class="LineNumber"> 009 </span>ชาตะ  อัตถิ  อวิคตปัจจัย  มี ๑  วาระ.     
+<span class="LineNumber"> 010 </span>              <B>๕.  ปัจจัย ๘</B>  คือ  อารัมมณะ อธิปติ นิสสยะ อุปนิสสยะ
+<span class="LineNumber"> 011 </span>ปุเรชาตะ  วิปปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 012 </span>                                <I>จบอารัมมณมูลกนัย</I>
+
+<span class="LineNumber"> 013 </span>                                   <H1>๓. อธิปติมูลกนัย</H1> 
+<span class="LineNumber"> 014 </span>                                   <H1>อธิปติสภาคะ ๑๕</H1>
+<span class="LineNumber"> 015 </span> <B>[๖๓๐]  เพราะอธิปติปัจจัย</B>   ในเหตุปัจจัย  มี ๔ วาระ... ในอารัมมณ-
+<span class="LineNumber"> 016 </span>ปัจจัย   มี ๗ วาระ    ในสหชาตปัจจัย  มี ๗ วาระ    ในอัญญมัญญปัจจัย 
+<span class="LineNumber"> 017 </span>มี  ๓ วาระ   ในนิสสยปัจจัย  มี ๘ วาระ    ในอุปนิสสยปัจจัย  มี ๗ วาระ
+<span class="LineNumber"> 018 </span>ในปุเรชาตปัจจัย  มี ๑ วาระ   โนวิปากปัจจัย  มี ๑ วาระ ในอาหารปัจจัย 
+<span class="LineNumber"> 019 </span>มี ๗ วาระ    ในอินทริยปัจจัย   มี ๗ วาระ    ในมัคคปัจจัย   มี ๗ วาระ

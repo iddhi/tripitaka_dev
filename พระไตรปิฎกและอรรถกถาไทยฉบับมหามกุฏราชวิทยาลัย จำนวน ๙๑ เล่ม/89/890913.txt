@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         หทยวัตถุ     เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นอรูปาวจรธรรม     ด้วย
+<span class="LineNumber"> 002 </span>อำนาจของวิปปยุตตปัจจัย.
+
+<span class="LineNumber"> 003 </span>                                       <H2>๒๑.  อัตถิปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         [๘๐๖] ๑.  <B>อรูปาวจรธรรม เป็นปัจจัยแก่อรูปาวจรธรรม ด้วย
+<span class="LineNumber"> 005 </span>อำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 006 </span>         มีอย่างเดียว  คือที่เป็น  <B>สหชาตะ</B> ฯลฯ
+<span class="LineNumber"> 007 </span>                     ๒.  <B>อรูปาวจรธรรม เป็นปัจจัยแก่ธรรมที่ไม่ใช่อรูปา-
+<span class="LineNumber"> 008 </span>วจรธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 009 </span>         มี  ๒ อย่าง   คือที่เป็น   <B>สหชาตะ</B>   และ   <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 010 </span>                     ๓.  <B>อรูปาวจรธรรม เป็นปัจจัยแก่อรูปาวจรธรรม และ
+<span class="LineNumber"> 011 </span>ธรรมที่ไม่ใช่อรูปาวจรธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 012 </span>         มีอย่างเดียว  คือที่เป็น  <B>สหชาตะ</B> ฯลฯ
+<span class="LineNumber"> 013 </span>                     ๔.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม   เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 014 </span>ที่ไม่ใช่อรูปาวจรธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 015 </span>         มี ๕ อย่าง  คือที่เป็น  <B>สหชาตะ  ปุเรชาตะ  ปัจฉาชาตะ  อาหาระ</B>
+<span class="LineNumber"> 016 </span>และ  <B>อินทริยะ</B> ฯลฯ
+<span class="LineNumber"> 017 </span>                     ๕.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม เป็นปัจจัยแก่อรูปา-
+<span class="LineNumber"> 018 </span>วจรธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 019 </span>         มีอย่างเดียว   คือที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่

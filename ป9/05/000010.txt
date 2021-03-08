@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                     อภิธัมมัตถสังคหฎีกาแปล
+<span class="LineNumber"> 002 </span>                                       [ชื่ออภิธัมมัตถวิภาวินี<SUP>*</SUP>]
+<span class="LineNumber"> 003 </span>                                                คาถาเริ่มต้น  
+<span class="LineNumber"> 004 </span>                        <B>ข้าพเจ้า<SUP>๑</SUP>  ผู้ชื่อว่าสุมังคละ  ขอถวายนมัสการ
+<span class="LineNumber"> 005 </span>                        พระพุทธเจ้า  ผู้มีพระกรุณาและพระญาณ
+<span class="LineNumber"> 006 </span>                        อันหมดจดโดยพิเศษ  พระธรรมอันพระสัมพุทธ-
+<span class="LineNumber"> 007 </span>                        เจ้าทรงบูชาแล้ว  พระสงฆ์ผู้หมดกิเลส  (ที่เป็น
+<span class="LineNumber"> 008 </span>                        เครื่องถึงความเป็นความเลว)  ผู้เกิดดีแล้วแต่
+<span class="LineNumber"> 009 </span>                        พระสัทธรรม  และขอกราบไหว้ท่านพระสารี-
+<span class="LineNumber"> 010 </span>                        บุตรมหาเถระ  ผู้เป็นปราชญ์องอาจในพระปริยัติ
+<span class="LineNumber"> 011 </span>                        เป็นครู  เป็นภาชนะแห่คารวะ  ด้วยเศียรเกล้า
+<span class="LineNumber"> 012 </span>                        แล้วจักพรรณนาโดยย่อ  ซึ่งพระอภิธัมมัตถ-
+<span class="LineNumber"> 013 </span>                        สังคหะ  เป็นที่ยังปีติให้เจริญยิ่งแก่เหล่าภิกษุ
+<span class="LineNumber"> 014 </span>                        นักอภิธรรม  เพราะกุลบุตรทั้งหลาย  ไม่
+<span class="LineNumber"> 015 </span>                        สามารถจะรู้อรรถในบททั้งปวงในปกรณ์นี้ได้
+<span class="LineNumber"> 016 </span>                        จากวรรณนาแม้เป็นอันมาก ที่ท่านโบราณาจารย์
+<span class="LineNumber"> 017 </span>                        รจนาไว้  ฉะนั้น  ข้าพเจ้าจักรจนาอรรถวรรณนา</B>
+
+<span class='footnote'>*  พระมหาแพร  กมฺมสาโร  ป.  ธ.  ๙  วัดเขมาภิรตาราม  นนทบุรี  แปล.</span>
+<span class='footnote'>๑-๑.  เฉลยสนามหลวง  พ.ศ.  ๒๔๘๗-๘๘-๘๙.</span>

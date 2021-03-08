@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  324
+	
+<span class="LineNumber"> 002 </span>อนุสิฏฺ€ึ  อทาสิ ฯ
+<span class="LineNumber"> 003 </span>	มหาวีโรติ  มหาวิกฺกนฺโต วิริยปารมิปาริปูริยา  จตุรงฺค-
+<span class="LineNumber"> 004 </span>สมนฺนาคตวิริยาธิฏฺ€าเนน  อนฺสาธารณ(๑)จตุพฺพิธสมฺมปฺ- 
+<span class="LineNumber"> 005 </span>ปธานสมฺปตฺติยา  จ  มหาวิริโยติ  อตฺโถ ฯ  
+<span class="LineNumber"> 006 </span>	สพฺพธมฺมาน  ปารคูติ  สพฺเพสฺจ  เยฺยธมฺมานํ  ปารํ  
+<span class="LineNumber"> 007 </span>ปริยนฺตํ  าณคมเนน  คโต  อธิคโตติ  สพฺพธมฺมาน  ปารคู  
+<span class="LineNumber"> 008 </span>สพฺพฺูติ  อตฺโถ ฯ  สพฺเพสํ  วา  สงฺขตธมฺมานํ  ปารภูตํ  
+<span class="LineNumber"> 009 </span>นิพฺพานํ  สยมฺภูาเณน คโต  อธิคโตติ  สพฺพธมฺมาน  ปารคู ฯ  (๒)
+<span class="LineNumber"> 010 </span>	ตสฺสาหํ  ธมฺมํ สุตฺวานาติ ตสฺส พุทฺธสฺส ภควโต  
+<span class="LineNumber"> 011 </span>สามุกฺกํสิกํ  ตํ  จตุสจฺจธมฺมํ  สุณิตฺวา ฯ 
+<span class="LineNumber"> 012 </span>	วิหาสึ  สนฺติเกติ  อมฺพวเน มิจฺฉาวิตกฺเกหิ  อุปทฺทุโต  
+<span class="LineNumber"> 013 </span>จาลิกา (๓) วิหารํ คนฺตฺวา สตฺถุ สมีเปเยว (๔) วิหาสึ ฯ 
+<span class="LineNumber"> 014 </span>	สโตติ  สติมา สมถวิปสฺสนาภาวนาย อปฺปมตฺโตติ 
+<span class="LineNumber"> 015 </span>อตฺโถ ฯ
+<span class="LineNumber"> 016 </span>	อหนฺติ อิทํ ยถา อนุสาสีติ เอตฺถ  มนฺติ  เอวํ วิชฺชา 
+<span class="LineNumber"> 017 </span>อนุปฺปตฺตา กตํ พุทฺธสฺส สาสนนฺติ เอตฺถ มยาติ 
+<span class="LineNumber"> 018 </span># ๑. สี. อนฺสาธารเณน... ฯ  ๒. สี. สพฺพธมฺมาน ปารคูติ สพฺเพสํ 
+<span class="LineNumber"> 019 </span># วา สงฺขตธมฺมานํ ปารภูตํ นิพฺพานํ สยมฺภูาเณน คโต สพฺเพสํ 
+<span class="LineNumber"> 020 </span># เยฺยธมฺมานํ ปารํ ปริยนฺตํ าณคมเนน คโต อธิคโตติ สพฺพธมฺมาน
+<span class="LineNumber"> 021 </span># ปารคู สพฺพฺูติ อตฺโถ ฯ  ๓. สี. วาลิกา ฯ ๔. สี. สนฺติเกเยว ฯ 

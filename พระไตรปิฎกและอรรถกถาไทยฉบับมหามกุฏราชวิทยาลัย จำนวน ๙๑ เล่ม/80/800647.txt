@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           ส.  หากว่า     พระผู้มีพระภาคเจ้าได้ตรัสโสตว่ามี  ๒ 
+<span class="LineNumber"> 002 </span>อย่าง   คือ   มังสโสต  และทิพยโสต  ก็ต้องไม่กล่าวว่า  โสตมีอย่างเดียว
+<span class="LineNumber"> 003 </span>เท่านั้น.
+<span class="LineNumber"> 004 </span>                                      <I>ทิพพโสตกถา   จบ</I>
+
+<span class="LineNumber"> 005 </span>                             <H2>อรรถกถาทิพพโสตกถา</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>ว่าด้วยทิพพโสต<SUP>๑</SUP></H2>
+<span class="LineNumber"> 007 </span>           บัดนี้  ชื่อว่า   เรื่องทิพพโสต.   ในเรื่องนั้น   ปรวาทีถูกสกวาที
+<span class="LineNumber"> 008 </span>ถามว่า     <B>โสตมีอย่างเดียวเท่านั้นหรือ</B>     ก็ตอบปฏิเสธ   เพราะโสต 
+<span class="LineNumber"> 009 </span>มีอยู่ ๒   คือ   มังสโสต   ทิพยโสต   ถูกถามอีก  ก็ตอบรับรอง  เพราะว่า
+<span class="LineNumber"> 010 </span>มังสโสตนั้นนั่นแหละ    อันธรรมอุปถัมภ์แล้ว    ชื่อว่าเป็นทิพพโสต.
+<span class="LineNumber"> 011 </span>คำที่เหลือมีนัยดังกล่าวแล้วในหนหลังนั่นแล.
+<span class="LineNumber"> 012 </span>                                <I>อรรถกถาทิพพโสตกถา  จบ</I>
+<span class='footnote'>๑.  โสต  ๒ อย่าง คือ    ๑.  มังสโสต    ได้แก่   โสตปสาท</span>
+<span class='footnote'>                                      ๒. ทิพพโสต   ได้แก่   อภิญญาญาณ				</span>
+<span class='footnote'>ในคัมภีร์ยมกกล่าว     โสต   ๓  คือ     ๑.  มังสโสต      ได้แก่   โสตปสาท</span>
+<span class='footnote'>                                                               ๒.  ทิพยโสต     ได้แก่   อภิญญาจิตตุปสาท						     </span>
+<span class='footnote'>                                                               ๓.  ตัณหาโสต	 ได้แก่   โลกเจตสิก	</span>

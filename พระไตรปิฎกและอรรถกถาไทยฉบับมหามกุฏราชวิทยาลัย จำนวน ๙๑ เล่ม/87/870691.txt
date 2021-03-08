@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๒๑.  อัชฌัตตารัมมณติกะ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                           <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 004 </span>                                        <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๒๑๒๗] ๑.  <B>อัชฌัตตารัมมณธรรม    อาศัยอัชฌัตตารัมมณ-
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอัชฌตตารัมมณธรรม ฯลฯ ขันธ์ ๒
+<span class="LineNumber"> 008 </span>           ในปฏิสนธิขณะ    ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอัชฌัตตารัมมณธรรม
+<span class="LineNumber"> 009 </span>ฯลฯ ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 010 </span>           [๒๑๒๘] ๒.  <B>พหิทธารัมมณธรรม   อาศัยพหิทธารัมมณธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ   ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นพหิทธารัมมณธรรม ฯลฯ ขันธ์ ๒
+<span class="LineNumber"> 013 </span>ฯลฯ
+<span class="LineNumber"> 014 </span>           ในปฏิสนธิขณะ     ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นพหิทธารัมมณธรรม
+<span class="LineNumber"> 015 </span>ฯลฯ ขันธ์ ๒ ฯลฯ.

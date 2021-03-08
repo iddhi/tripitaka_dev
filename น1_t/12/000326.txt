@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	<B>๒  ทนสาบาน</B>   เช่นเข้าสาบานตัว  แสดงว่าเป็นผู้บริสุทธิ์. 
+<span class="LineNumber"> 002 </span>	<B>๓.  ทำเล่ห์กระเท่ห์. </B> เช่นทำที่เป็นคนพิการ  ให้คนสงสารให้ทรัพย์
+<span class="LineNumber"> 003 </span>หรืออวดฤทธิ์เดชให้คนหลงเชื่อ   เพื่อหาลาภจากผู้หลงเชื่อ.
+<span class="LineNumber"> 004 </span>	<B>๔.  มายา</B>             เช่นเจ็บน้อย  ทำเป็นเจ็บมาก.
+<span class="LineNumber"> 005 </span>	<B>๕.  ทำเลศ</B>	    พูดเล่นสำนวน   เช่นเห็นคนวิ่งหนีมา   เมื่อเขา
+<span class="LineNumber"> 006 </span>				     ถามว่า   เห็นคนวิ่งมาทางนี้บ้างหรือไม่ ?   ก็เดิน
+<span class="LineNumber"> 007 </span>				     ไปก้าว   ๑  แล้วพูดว่า  ยืนตรงนี้ไม่เห็นใครวิ่งมา.
+<span class="LineNumber"> 008 </span>	<B>๖.  เสริมความ </B>      เรื่องจริงมีเล็กน้อย  พูดให้เป็นเรื่องใหญ่.
+<span class="LineNumber"> 009 </span>	<B>   ๗.  อำความ</B>        เรื่องจริงมีมาก      พูดตัดที่สำคัญออกเสียให้เรื่อง
+<span class="LineNumber"> 010 </span>				      เล็ก.
+<span class="LineNumber"> 011 </span>                                มุสาวาทมีองค์  ๔  คือ:- 
+<span class="LineNumber"> 012 </span>	๑.  เรื่องที่พูด  ๒.  คิดจะพูดให้ผิด   ๓.  พยายามพูด   ๔.  คนอื่น
+<span class="LineNumber"> 013 </span>เข้าใจคำพูด.
+<span class="LineNumber"> 014 </span>	เมื่อครบองค์  ๔  ศีลจึงขาด  ถ้าไม่ครบ   ศีลไม่ขาด   แต่ด่างพร้อย.
+<span class="LineNumber"> 015 </span>                               ๒.  อนุโลมมุสา  ๓  อย่าง <SUP>*</SUP>
+<span class="LineNumber"> 016 </span>	   อนุโลมมุสา  แปลว่า   เท็จโดยอนุโลม.  คือเรื่องไม่จริง   แต่ผู้พูด
+<span class="LineNumber"> 017 </span>ไม่มุ่งพูดเท็จ   มุ่งเพียง   ๓  อย่าง คือ
+<span class="LineNumber"> 018 </span>	<B>๑.   เสียดแทง   คำหยาบ</B>  คือพูดให้เจ็บใจ  ยกให้สูงเรียกประชด
+<span class="LineNumber"> 019 </span>					          กดให้ต่ำเรียกด่า.
+<span class="LineNumber"> 020 </span>	<B> ๒.  สัปปลับ  เพ้อเจ้อ </B>  พูดด้วยคะนองวาจา  ไม่จงใจให้เขาเข้าใจผิด.
+<span class="LineNumber"> 021 </span>	<B>๓.  ยุยง   ส่อเสียด</B>   พูดความจริงบ้างเท็จบ้าง   ยุให้แตกสามัคคีกัน.
+
+<span class='footnote'>*  ศีลไม่ขาด   แต่ด่างพร้อย.</span>

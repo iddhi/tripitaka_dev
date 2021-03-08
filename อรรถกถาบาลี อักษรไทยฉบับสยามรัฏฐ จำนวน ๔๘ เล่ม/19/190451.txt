@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๙  อุโปสถสุตฺตวณฺณนา  หน้า  ๔๕๑
+		
+<span class="LineNumber"> 002 </span>คุเณ  ทิสฺวาติ  อาห  เย  ทิสฺวา  ทิสฺวา  อสุรา  มหาสมุทฺเท  
+<span class="LineNumber"> 003 </span>อภิรมนฺตีติ ฯ  ตตฺถ  อภิรมนฺตีติ  รตึ  วินฺทนฺติ  อนุกฺกณฺ€มานา
+<span class="LineNumber"> 004 </span>วสนตีติ  อตฺโถ ฯ  
+<span class="LineNumber"> 005 </span>	อนุปุพฺพนินฺโนติอาทีนิ  สพฺพานิ  ปทานิ(๑)  อนุปฏิปาฏิยา  
+<span class="LineNumber"> 006 </span>นินฺนภาวสฺเสว  เววจนานิ ฯ  นายตเกเนว  ปปาตโตติ  น  
+<span class="LineNumber"> 007 </span>ฉิทฺทาวาฏ(๒)มหาโสพฺโภ  วิย  อาทิโต  เอว  ปปาโต ฯ  โส  หิ  
+<span class="LineNumber"> 008 </span>ตีรเทสโต  ปฏฺ€าย  เอกงฺคุลทฺวงฺคุลวิทตฺถิรตนยฏฺ€ิอุสภอฑฺฒ-
+<span class="LineNumber"> 009 </span>คาวุตคาวุตโยชนาทิวเสน(๓)  คมฺภีโร  หุตฺวา  คจฺฉนฺโต  คจฺฉนฺโต  
+<span class="LineNumber"> 010 </span>สิเนรุปาทมูเล  จตุราสีติโยชนสหสฺสคมฺภีโร  หุตฺวา  €ิโตติ  
+<span class="LineNumber"> 011 </span>ทสฺเสติ ฯ  
+<span class="LineNumber"> 012 </span>	€ิตธมฺโมติ  €ิตสภาโว  อวฏฺ€ิตสภาโว ฯ  (๔)มเตน  กุณเปนาติ(๔)
+<span class="LineNumber"> 013 </span>เยน  เกนจิ  หตฺถิอสฺสาทีนํ  กเฬวเรน  [๕] ฯ  (๖)วาเหตีติ  ตีรํ  อปเนติ ฯ  
+<span class="LineNumber"> 014 </span>ถลํ  อุสฺสาเรตีติ(๖)  หตฺเถน  คเหตฺวา  วิย  วีจิปฺปกาเรเนว  ถเล  
+<span class="LineNumber"> 015 </span>สงฺขิปติ(๗) ฯ  คงฺคา  ยมุนาติ  อโนตตฺตทหสฺส  ทกฺขิณมุขโต  
+<span class="LineNumber"> 016 </span>นิกฺขนฺตนที  ปฺจธารา  หุตฺวา  ปวตฺตฏฺ€าเน  คงฺคาติอาทินา  
+<span class="LineNumber"> 017 </span>ปฺจธา  สงฺขํ  คตา ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺรายํ  อิมาสํ  นทีนํ  อาทิโต  ปฏฺ€าย  อุปฺปตฺติกถา  
+<span class="LineNumber"> 019 </span>#  ๑.  ม.  อยํ  ปาโ€  นตฺถิ ฯ  ๒.  สี.  ม.  ฉินฺนตโฏ ฯ  
+<span class="LineNumber"> 020 </span>#  ๓.  ม.  ...อฑฺฒคาวุตคาวุตฑฺฒโยชนทิวเสน ฯ  ๔.  ม.  น  มเตน  กุณเปน
+<span class="LineNumber"> 021 </span>#  สํวสตีติ ฯ  ๕.  ม.  เอตฺถนฺตเร  สทฺธึ  น  สํวสตีติ  ทิสฺสติ ฯ  
+<span class="LineNumber"> 022 </span>#  ๖.  ม.  ตีรํ  วาเหตีติ  ตีรํ  อปเนติ ฯ  ถลํ  อุสฺสาเรตีติ ฯ  
+<span class="LineNumber"> 023 </span>#  ๗.  ม.  ขิปติ ฯ

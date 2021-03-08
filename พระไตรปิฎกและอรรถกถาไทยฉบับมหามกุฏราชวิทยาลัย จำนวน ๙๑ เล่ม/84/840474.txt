@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   ชีวิตินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,     จักขุนทรีย์ก็
+<span class="LineNumber"> 002 </span>ไม่ใช่เคยเกิดแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ไม่มี.
+<span class="LineNumber"> 004 </span>                       <I>จบ   จักขุนทริยมูละ  ชีวิตินทริยมูลี</I>
+
+<span class="LineNumber"> 005 </span><B>จักขุนทริยมูละ  โสมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 006 </span>         [๗๘๔]  จักขุนทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,  โสมนัสสินทรีย์
+<span class="LineNumber"> 007 </span>ก็ไม่ใช่เคยเกิดแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ไม่มี.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   โสมนัสสินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,  จักขุนทรีย์
+<span class="LineNumber"> 010 </span>ก็ไม่ใช่เคยเกิดแก่บุคคลนั้น   ใช่ไหม   ?                                             
+<span class="LineNumber"> 011 </span>         ไม่มี.
+<span class="LineNumber"> 012 </span>                    <I>จบ  จักขุนทริยมูละ  โสมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 013 </span><B>จักขุนทริยมูละ  อุเปกขินทริยมูลี:-</B>
+<span class="LineNumber"> 014 </span>         [๗๘๕]  จักขุนทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,    อุเปกขินทรีย์
+<span class="LineNumber"> 015 </span>ไม่ใช่เคยเกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         ไม่มี.

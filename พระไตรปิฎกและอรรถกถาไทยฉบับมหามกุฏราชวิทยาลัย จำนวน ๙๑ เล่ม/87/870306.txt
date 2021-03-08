@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ 
+<span class="LineNumber"> 002 </span>           จักขายตนะ ฯลฯ 
+<span class="LineNumber"> 003 </span>                         ๔.  <B>เสกขธรรม  อาศัยเนวเสกขานาเสกขธรรม ฯลฯ
+<span class="LineNumber"> 004 </span>เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 005 </span>                         ๕. <B>อเสกขธรรม  อาศัยเนวเสกขานาเสกขธรรม  ฯลฯ
+<span class="LineNumber"> 006 </span>เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ อธิปติธรรมที่เป็นอเสกขธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 008 </span>           [๑๒๐๖]  ๖.  <B>เสกขธรรมอาศัยเสกขธรรม และเนวเสกขานา-
+<span class="LineNumber"> 009 </span>เสกขธรรม  ฯลฯ  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  อธิปติธรรมที่เป็นเสกขธรรม  อาศัยขันธ์ทั้งหลายที่เป็นเสกข-
+<span class="LineNumber"> 011 </span>ธรรมและหทยวัตถุ.
+<span class="LineNumber"> 012 </span>                         ๗.  <B>อเสกขธรรม  อาศัยอเสกขธรรม  และเนวเสก-
+<span class="LineNumber"> 013 </span>ขานาเสกขธรรม  ฯลฯ  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  อธิปติธรรมที่เป็นอเสกขธรรม  อาศัยขันธ์ทั้งหลายที่เป็นอเสกข-
+<span class="LineNumber"> 015 </span>ธรรมและหทยวัตถุ.
+
+<span class="LineNumber"> 016 </span>               <H1>๔.  นอนันตรปัจจัย  ฯลฯ  ๑๐.  นอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 017 </span>           [๑๒๑๗]  <B>เนวเสกขานาเสกขธรรม  อาศัยเสกขธรรม  ฯลฯ
+<span class="LineNumber"> 018 </span>เพราะนอนันตรปัจจัย  เพราะนสมนันตรปัจจัย  เพราะนอัญญมัญญ-</B>
+

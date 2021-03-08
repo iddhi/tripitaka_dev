@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>รวมกถาที่มีในวรรคนี้คือ</H2> 
+<span class="LineNumber"> 002 </span>           ๑.  วิมุตตกถา     ๒.  อเสกขญาณกถา   ๓.  วิปรีตกถา    ๔.  นิยามกถา
+<span class="LineNumber"> 003 </span>๕.  ปฏิสัมภิทากถา     ๖.  สัมมติญาณกถา       ๗.  จิตตาสัมมณกถา
+<span class="LineNumber"> 004 </span>๘.  อนาคตญาณกถา   ๙.   ปัจจุปันนญาณกถา    ๑๐.  ผลญาณกถา.
+<span class="LineNumber"> 005 </span>                                                <I>วรรคที่  ๕  จบ</I>
+<span class="LineNumber"> 006 </span>                               <H2> รวมวรรคที่มีในปัณณาสก์นี้</H2>
+<span class="LineNumber"> 007 </span>           ๑.   วรรคที่  ๑   ๒.  วรรคที่  ๒  ๓.  วรรคที่  ๓.   ๔.  วรรคที่  ๔
+<span class="LineNumber"> 008 </span>๕.  วรรคที่  ๕
+<span class="LineNumber"> 009 </span>                                                <I>มหาปัณณาสก์  จบ</I>
+<span class="LineNumber"> 010 </span>                                              <I>กถาวัตถุภาคที่   ๑   จบ</I>		  

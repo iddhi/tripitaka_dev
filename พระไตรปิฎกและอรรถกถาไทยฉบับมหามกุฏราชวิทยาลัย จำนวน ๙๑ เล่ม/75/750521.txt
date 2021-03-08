@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>วิโมกข์  ๓</H1>
+
+<span class="LineNumber"> 002 </span>         [๑๘๙]   <B>ธรรมเป็นกุศล</B>  เป็นไฉน  ? 
+<span class="LineNumber"> 003 </span>         โยคาวจรบุคคลเจริญมรรคปฏิปทาเพื่อเข้าถึงรูปภูมิ     เป็นผู้ได้ฌาน
+<span class="LineNumber"> 004 </span>มีรูปภายในเป็นอารมณ์   เห็นรูปทั้งหลาย   สงัดจากกาม   สงัดจากอกุศลธรรม
+<span class="LineNumber"> 005 </span>ทั้งหลายแล้ว   บรรลุปฐมฌาน ฯลฯ    อยู่ในสมัยใด   ผัสสะ ฯลฯ    อวิกเขปะ
+<span class="LineNumber"> 006 </span>มีในสมัยนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>         สภาวธรรมเหล่านั้นชื่อว่า  ธรรมเป็นกุศล.
+<span class="LineNumber"> 008 </span>         <B>ธรรมเป็นกุศล</B>   เป็นไฉน ?
+<span class="LineNumber"> 009 </span>         โยคาวจรบุคคลเจริญมรรคปฏิปทาเพื่อเข้าถึงรูปภูมิ     ไม่มีบริกรรม
+<span class="LineNumber"> 010 </span>สัญญาในรูปภายใน    เห็นรูปภายนอก    สงัดจากกาม    สงัดจากอกุศลธรรม
+<span class="LineNumber"> 011 </span>ทั้งหลายแล้ว    บรรลุปฐมฌาน ฯลฯ   อยู่ในสมัยใด   ผัสสะ ฯลฯ   อวิกเขปะ
+<span class="LineNumber"> 012 </span>มีในสมัยนั้น ฯลฯ
+<span class="LineNumber"> 013 </span>         สภาวธรรมเหล่านี้ ชื่อว่า  ธรรมเป็นกุศล.
+<span class="LineNumber"> 014 </span>         <B>ธรรมเป็นกุศล</B>   เป็นไฉน ?
+<span class="LineNumber"> 015 </span>         โยคาวจรบุคคลเจริญมรรคปฏิปทาเพื่อเข้าถึงรูปภูมิ ผูกใจอยู่ในวรรณ-
+<span class="LineNumber"> 016 </span>กสิณว่างาม   สงัดจากกาม  สงัดจากอกุศลธรรมทั้งหลายแล้ว บรรลุปฐมฌาน
+<span class="LineNumber"> 017 </span>ฯลฯ  อยู่ ในสมัยใด  ผัสสะ ฯลฯ  อวิกเขปะ  มีในสมัยนั้น ฯลฯ
+<span class="LineNumber"> 018 </span>         สภาวธรรมเหล่านี้ชื่อว่า   ธรรมเป็นกุศล.
+<span class="LineNumber"> 019 </span>                          แม้วิโมกข์ ๓ นี้  ก็แจกอย่างละ ๑๖

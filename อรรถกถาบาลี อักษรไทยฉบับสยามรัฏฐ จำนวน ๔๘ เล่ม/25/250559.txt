@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุติยวคฺเค มหาจุนฺทตฺเถรคาถาวณฺณนา   หน้า 559
+	
+<span class="LineNumber"> 002 </span>	ฉฬภิฺโ  ปน  หุตฺวา  อตฺตนา  ปฏิลทฺธสมฺปตฺติยา
+<span class="LineNumber"> 003 </span>การณภูตํ  ครุปนิสฺสยํ วิเวกวาสฺจ กิตฺเตนฺโต  
+<span class="LineNumber"> 004 </span>		สุสฺสูสา สุตวฑฺฒนี(๑)	สุตํ ปฺาย วฑฺฒนํ(๒)  
+<span class="LineNumber"> 005 </span>		ปฺาย อตฺถํ ชานาติ	าโต อตฺโถ สุขาวโห ฯ  
+<span class="LineNumber"> 006 </span>			เสเวถ ปนฺตานิ(๓)  เสนาสนานิ  
+<span class="LineNumber"> 007 </span>			จเรยฺย สํโยชนวิปฺปโมกฺขํ  
+<span class="LineNumber"> 008 </span>			สเจ รตึ นาธิคจฺเฉยฺย ตตฺถ  
+<span class="LineNumber"> 009 </span>			สงฺเฆ วเส รกฺขิตตฺโต สตีมาติ(๔)  
+<span class="LineNumber"> 010 </span>คาถาทฺวยํ อภาสิ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  สุสฺสูสาติ  โสตพฺพยุตฺตสฺส  สพฺพสุตสฺส  โสตุมิจฺฉา
+<span class="LineNumber"> 012 </span>ครุสนฺนิวาโสปิ ฯ ทิฏฺ€ธมฺมิกาทิเภทํ  หิ  อตฺถํ  โสตุมิจฺฉนฺเตน  (๕)
+<span class="LineNumber"> 013 </span>กลฺยาณมิตฺเต  อุปสงฺกมิตฺวา วตฺตกรเณน  ปยิรุปาสิตฺวา  (๖)  ยทา 
+<span class="LineNumber"> 014 </span>เต  ปยิรุปาสนาย  อาราธิตจิตฺตา  กฺจิ  อุปนิสีทิตุกามา  โหนฺติ 
+<span class="LineNumber"> 015 </span>อถ  เน  อุปนิสีทิตฺวา อธิคตาย โสตุมิจฺฉาย โอหิตโสเตน 
+<span class="LineNumber"> 016 </span>โสตพฺพํ  โหตีติ  ครุสนฺนิวาโสปิ สุสฺสูสาเหตุตาย สุสฺสูสาติ 
+<span class="LineNumber"> 017 </span>วุจฺจติ ฯ สา ปนายํ สุสฺสูสา  สจฺจปฏิจฺจสมุปฺปาทาทิปฏิสํยุตฺตํ  
+<span class="LineNumber"> 018 </span>สุตํ  ตํสมงฺคิโน ปุคฺคลสฺส วฑฺเฒติ พฺรูเหตีติ  สุตวทฺธนี 
+<span class="LineNumber"> 019 </span>พาหุสจฺจการีติ  อตฺโถ ฯ
+<span class="LineNumber"> 020 </span># ๑. สฺยา. สุตวฑฺฒนี ฯ  ๒. สฺยา. วฑฺฒนํ ฯ  ๓. สี. ปนฺถานิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ขุ. เถร. ๒๖/๒๖๘/๒๙๐ ฯ  ๕. สี. โสตุมิจฺฉนฺโต ฯ 
+<span class="LineNumber"> 022 </span># ๖. สี. ปยิรุปาสนฺติ ฯ 

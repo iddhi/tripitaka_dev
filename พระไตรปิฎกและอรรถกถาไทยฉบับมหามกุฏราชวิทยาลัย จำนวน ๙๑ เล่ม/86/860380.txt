@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>๑๑. นกัมมปัจจัย</H1>
+<span class="LineNumber"> 002 </span>         [๘๔] ๑.  <B>สวิตักกสวิจารธรรม อาศัยสวิตักกสวิจารธรรมเกิด 
+<span class="LineNumber"> 003 </span>ขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ   เจตนาที่เป็นสวิตักกสวิจารธรรม อาศัยขันธ์ที่เป็นสวิตักกสวิจาร-  
+<span class="LineNumber"> 005 </span>ธรรม  เกิดขึ้น.
+<span class="LineNumber"> 006 </span>         [๘๕] ๒.  <B>อวิตักกวิจารมัตตธรรม    อาศัยอวิตักกวิจารมัตต-
+<span class="LineNumber"> 007 </span>ธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ   เจตนาที่เป็นอวิตักกวิจารมัตตธรรม    อาศัยขันธ์ที่เป็นอวิตักก-
+<span class="LineNumber"> 009 </span>วิจารมัตตธรรม   เกิดขึ้น.
+<span class="LineNumber"> 010 </span>                  ๓.  <B>สวิตักกสวิจารธรรม  อาศัย อวิตักกวิจารมัตตธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 012 </span>         คือ   เจตนาที่เป็นสวิตักกสวิจารธรรม   อาศัยวิตก   เกิดขึ้น.
+<span class="LineNumber"> 013 </span>         [๘๖] ๔.  <B>อวิตักกอวิจารธรรม อาศัย อวิตักกอวิจารธรรม เกิด
+<span class="LineNumber"> 014 </span>ขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 015 </span>         คือ   เจตนาที่เป็นอวิตักกอวิจารธรรม  อาศัยขันธ์ที่เป็นอวิตักกอวิจาร-
+<span class="LineNumber"> 016 </span>ธรรม   เกิดขึ้น.   พาหิรรูป . . . อาหารสมุฏฐานรูป . . . อุตุสมุฏฐาน ฯลฯ อาศัย
+<span class="LineNumber"> 017 </span>มหาภูตรูป ๑ ฯลฯ

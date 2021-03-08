@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           พึงผูกจักรนัย. 
+<span class="LineNumber"> 002 </span>           ขันธ์ ๑ ที่เป็นนเหตุธรรม  และโลภะ  เป็นปัจจัยแก่ขันธ์ ๓, แก่โมหะ
+<span class="LineNumber"> 003 </span>และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 004 </span>           พึงผูกจักรนัย.
+<span class="LineNumber"> 005 </span>           ในปฏิสนธิขณะ  ขันธ์ ๑ ที่เป็นนเหตุธรรม   และอโลภะ ฯลฯ
+<span class="LineNumber"> 006 </span>           พึงผูกจักรนัย.
+<span class="LineNumber"> 007 </span>           ในปฏิสนธิขณะ   อโลภะ   และหทยวัตถุ   เป็นปัจจัยแก่อโทสะ,    แก่
+<span class="LineNumber"> 008 </span>อโมหะและสัมปยุตตขันธ์ทั้งหลาย   ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 009 </span>           โลภะ   และหทยวัตถุ   เป็นปัจจัยแก่โมหะ  และสัมปยุตตขันธ์ทั้งหลาย
+<span class="LineNumber"> 010 </span>ด้วยอำนาจของอัตถิปัจจัย.
+
+<span class="LineNumber"> 011 </span>                         <H1>๒๒.   นัตถิปัจจัย  ฯลฯ   ๒๔.  อวิคตปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           ฯลฯ  เป็นปัจจัย  <B>ด้วยอำนาจของอัตถิปัจจัย.</B> 
+<span class="LineNumber"> 013 </span>           ฯลฯ  เป็นปัจจัย  <B>ด้วยอำนาจของวิคตปัจจัย.</B>
+<span class="LineNumber"> 014 </span>           ฯลฯ  เป็นปัจจัย  <B>ด้วยอำนาจของอวิคตปัจจัย.</B>
+
+<span class="LineNumber"> 015 </span>                                   <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 016 </span>                                               <H1>สุทธมูลกนัย</H1>
+<span class="LineNumber"> 017 </span>           [๓๔]  ในเหตุปัจจัย    มี ๓ วาระ    ในอารัมมณปัจจัย    มี ๙ วาระ
+<span class="LineNumber"> 018 </span>ในอธิปติปัจจัย   มี ๙ วาระ  ในอนันตรปัจจัย  มี ๙ วาระ  ในสมนันตรปัจจัย

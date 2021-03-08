@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                       		<H2>๒.  อารัมมณปัจจัย</H2>  
+<span class="LineNumber"> 002 </span>		[๔๕๗]  ๑.  นเหตุธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   อาศัย
+<span class="LineNumber"> 003 </span>นเหตุธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   เกิดขึ้น  เพราะอารัมมณ-
+<span class="LineNumber"> 004 </span>ปัจจัย
+<span class="LineNumber"> 005 </span>               		<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>		[๔๕๘]  ในเหตุปัจจัย  มี ๒๑ วาระ    ในอารัมมณปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 007 </span>ในอธิปติปัจจัย มี ๒๑ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๒  วาระ.
+<span class="LineNumber"> 008 </span>                       	          <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 009 </span>		[๔๕๙]  ในนเหตุปัจจัย  มี  ๒๑ วาระ    ในนอารัมมณปัจจัย  มี ๒๑
+<span class="LineNumber"> 010 </span>วาระ ฯลฯ                                   
+<span class="LineNumber"> 011 </span>                       	   <H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 012 </span>		[๔๖๐]  <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย  มี ๒๑ วาระ... ฯลฯ
+<span class="LineNumber"> 013 </span>                       	 <H2>ปัจจนียานุโลมนัย</H2>  
+<span class="LineNumber"> 014 </span>		[๔๖๑]  <B>เพราะเหตุปัจจัย</B>    ในอารัมมณปัจจัย มี ๑ วาระ... ฯลฯ
+<span class="LineNumber"> 015 </span>           สหชาตวาระก็ดี  ฯลฯ   สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.

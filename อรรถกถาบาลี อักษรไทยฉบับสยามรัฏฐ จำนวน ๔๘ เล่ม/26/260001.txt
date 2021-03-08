@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  26  หน้า  1
+
+<span class="LineNumber"> 002 </span>				จตุกฺกนิปาตวณฺณนา
+<span class="LineNumber"> 003 </span>			นาคสมาลตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 004 </span>	อลงฺกตาติ  อาทิกา  อายสฺมโต  นาคสมาลตฺเถรสฺส  คาถา ฯ  กา 
+<span class="LineNumber"> 005 </span>อุปฺปตฺติ ฯ  
+<span class="LineNumber"> 006 </span>	อยมฺปิ  ปทุมุตฺตรสฺส  ภควโต  กาเล  กุลเคเห  นิพฺพตฺติตฺวา  
+<span class="LineNumber"> 007 </span>วิฺุตํ  ปตฺโต  คิมฺหสมเย (๑)  สุริยาตปสนฺตตฺตาย  ภูมิยา คจฺฉนฺตํ  
+<span class="LineNumber"> 008 </span>สตฺถารํ  ทิสฺวา  ปสนฺนมานโส  ฉตฺตํ  อทาสิ ฯ 
+<span class="LineNumber"> 009 </span>	โส  เตน  ปุฺกมฺเมน  เทวมนุสฺเสสุ  สํสรนฺโต  อิมสฺมึ 
+<span class="LineNumber"> 010 </span>พุทฺธุปฺปาเท  สกฺยราชกุเล  นิพฺพตฺติตฺวา  นาคสมาโลติ  ลทฺธนาโม 
+<span class="LineNumber"> 011 </span>วยปฺปตฺโต  าติสมาคเม  ปฏิลทฺธสทฺโธ  ปพฺพชิตฺวา  กิฺจิ  
+<span class="LineNumber"> 012 </span>กาลํ  ภควโต  อุปฏฺ€าโก  อโหสิ ฯ  โส  เอกทิวสํ  นครํ  
+<span class="LineNumber"> 013 </span>ปิณฺฑาย  ปวิฏฺโ€  อลงฺกตปฏิยตฺตํ  อฺตรํ นจฺจกึ  มหาปเถ  
+<span class="LineNumber"> 014 </span>ตูริเยสุ  วชฺชนฺเตสุ  นจฺจนฺตึ  ทิสฺวา  อยํ  จิตฺตกิริยวาโยธาตุ  
+<span class="LineNumber"> 015 </span>วิปฺผารวเสน (๒)  กรชกายสฺส  ตถา  ตถา  ปริวตฺติ  อโห  อนิจฺจา  
+<span class="LineNumber"> 016 </span>สงฺขาราติ  ขยวยํ  ปฏฺ€เปตฺวา  วิปสฺสนํ  อุสฺสุกฺกาเปตฺวา  
+<span class="LineNumber"> 017 </span>อรหตฺตํ  ปาปุณิ ฯ  เตน  วุตฺตํ  อปทาเน (๓)  
+<span class="LineNumber"> 018 </span>	องฺคารชาตา  ป€วี  		กุกฺกุฬานุคตา  มหี  
+<span class="LineNumber"> 019 </span>	ปทุมุตฺตโร  ภควา  		อพฺโภกาสมฺหิ  จงฺกมิ ฯ  
+<span class="LineNumber"> 020 </span>#๑  สี.ยุ  ฆมฺมสมเย ฯ  ๒  ม. จิตฺตกิริยวาโยธาตุวิปฺผารวเสน ฯ  
+<span class="LineNumber"> 021 </span>#๓.  ขุ.อ.  ๓๓/๔๗/๗๒ ฯ

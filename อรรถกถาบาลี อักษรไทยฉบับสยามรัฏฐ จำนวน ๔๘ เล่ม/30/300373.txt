@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  373
+
+<span class="LineNumber"> 002 </span>		มหาปิงฺคลชาตกํ  
+<span class="LineNumber"> 003 </span>	สพฺโพ  ชโนติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  เทวทตฺตํ  
+<span class="LineNumber"> 004 </span>อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	เทวทตฺเต  สตฺถริ  อาฆาฏํ  พนฺธิตฺวา  นวมาสจฺจเยน  
+<span class="LineNumber"> 006 </span>เชตวเน  ทฺวารโกฏฺ€เก  ป€วิยํ  นิมฺมุคฺเค  สาวตฺถิวาสิโน(๑)  จ
+<span class="LineNumber"> 007 </span>สกลรฏฺ€วาสิโน  จ  พุทฺธปฏิกณฺฏโก  (๒)  เทวทตฺโต  ป€วิยา  คิลิโต
+<span class="LineNumber"> 008 </span>นิหตปจฺจามิตฺโต  อิทานิ  สมฺมาสมฺพุทฺโธ  ชาโตติ  ตุฏฺ€หฏฺ€า  
+<span class="LineNumber"> 009 </span>อเหสุํ ฯ  เตสํ  สุตฺวา  ปรมฺปราโฆเสน (๓) สกลชมฺพุทีปวาสิโน
+<span class="LineNumber"> 010 </span>ยกฺขภูตเทวคณา  จ  ตุฏฺ€หฏฺ€า  เอวเมว  อาหํสุ (๔) ฯ  อเถกทิวสํ
+<span class="LineNumber"> 011 </span>ภิกฺขู  ธมฺมสภายํ  กถํ  สมุฏฺ€าเปสุํ  อาวุโส  เทวทตฺเต  ป€วิยํ  
+<span class="LineNumber"> 012 </span>นิมฺมุคฺเค  พุทฺธปฏิกณฺฏโก  เทวทตฺโต  ป€วิยา  คิลิโตติ  มหาชโน 
+<span class="LineNumber"> 013 </span>อตฺตมโน  ชาโตติ ฯ  สตฺถา  อาคนฺตฺวา  กายนุตฺถ  ภิกฺขเว
+<span class="LineNumber"> 014 </span>เอตรหิ  กถาย  สนฺนิสินฺนาติ  ปุจฺฉิตฺวา  อิมาย  นามาติ  วุตฺเต
+<span class="LineNumber"> 015 </span>น  ภิกฺขเว  อิทาเนว  เทวทตฺเต มเต มหาชโน ตุสฺสติ  เจว
+<span class="LineNumber"> 016 </span>หสติ จ ปุพฺเพปิ ตุสฺสติ เจว หสติ จาติ วตฺวา อตีตํ 
+<span class="LineNumber"> 017 </span>อาหริ ฯ  
+<span class="LineNumber"> 018 </span>	อตีเต  พาราณสิยํ  มหาปิงฺคโล  นาม  ราชา  อธมฺเมน
+<span class="LineNumber"> 019 </span>วิสเมน  รชฺชํ  กาเรสิ  ฉนฺทาทิวเสน  ปาปกมฺมานิ  กโรนฺโต
+<span class="LineNumber"> 020 </span># ๑. ม. เชตวนวาสิโน ฯ  ๒. ปฏิกณฺฏโกติปิ ฯ  ๓. ม. ปรมฺปรโฆเสน ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. อเหสุํ ฯ  ๕. ม. ตุสฺสิ เจว หสิ จาติ ฯ

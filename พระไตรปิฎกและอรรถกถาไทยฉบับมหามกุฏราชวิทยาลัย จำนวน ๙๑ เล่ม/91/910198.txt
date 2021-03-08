@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>ฯลฯ  อาศัยนเหตุธรรม ที่ไม่ใช่อนุปาทินนุปาทา- 
+<span class="LineNumber"> 002 </span>นิยธรรม  ฯลฯ</B> 
+<span class="LineNumber"> 003 </span>                       ๓.  <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่อนุปาทินนอนุปา-
+<span class="LineNumber"> 004 </span>ทานิยธรรม  ฯลฯ</B>  
+<span class="LineNumber"> 005 </span>                              <I>นอุปาทินนติกนเหตุทุกะ  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                   <H1>นสังกิลิฏฐติกนเหตุทุกะ</H1>
+<span class="LineNumber"> 007 </span>                 <H2>(๕.  นสังกิลิฏฐติกะ  ๑. นเหตุทุกะ)</H2>	
+<span class="LineNumber"> 008 </span>                                <H2>นเหตุบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 009 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>                                      <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 011 </span>           [๓๑๐] ๑.  <B>ฯลฯ  อาศัยนเหตุธรรม   ที่ไม่ใช่สังกิลิฏฐสังกิเล-
+<span class="LineNumber"> 012 </span>สิกธรรม  ฯลฯ</B>
+<span class="LineNumber"> 013 </span>                       ๒.  <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่อสังกิลิฏฐสังกิ-
+<span class="LineNumber"> 014 </span>เลสิกธรรม  ฯลฯ</B>
+<span class="LineNumber"> 015 </span>                       ๓.  <B>ฯลฯ  อาศัยนเหตุธรรม ที่ไม่ใช่อสังกิลิฏฐอสัง-
+<span class="LineNumber"> 016 </span>กิเลสิกธรรม   ฯลฯ</B>
+<span class="LineNumber"> 017 </span>                                   <I>นสังกิลิฏฐติกนเหตุทุกะ  จบ</I>

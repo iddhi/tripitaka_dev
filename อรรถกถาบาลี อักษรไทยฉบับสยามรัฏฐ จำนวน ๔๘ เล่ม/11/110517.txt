@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  อนิจฺจสฺาสุตฺตวณฺณนา  หน้า  ๕๑๗
+
+<span class="LineNumber"> 002 </span>อปณฺณตฺติกภาวูปคตกาโลติ(๑)  อิมาย  อุปมาย สํโยชนานํ  ทุพฺพลตา 
+<span class="LineNumber"> 003 </span>ทีปิตา ฯ 
+<span class="LineNumber"> 004 </span>					นวมํ ฯ                 
+
+<span class="LineNumber"> 005 </span>				อนิจฺจสฺาสุตฺตวณฺณนา          
+<span class="LineNumber"> 006 </span>	ทสเม  อนิจฺจสฺาติ  อนิจฺจํ  อนิจฺจนฺติ  ภาเวนฺตสฺส  
+<span class="LineNumber"> 007 </span>อุปฺปนฺนสฺา ฯ ปริยาทิยตีติ  เขปยติ ฯ  สพฺพํ  อสฺมิมานนฺติ  
+<span class="LineNumber"> 008 </span>นววิธมฺปิ อสฺมิมานํ ฯ มูลสนฺตานกานีติ  สนฺตาเนตฺวา  €ิตมูลานิ ฯ 
+<span class="LineNumber"> 009 </span>มหานงฺคลํ  วิย  หิ  อนิจฺจสฺา ขุทฺทานุขุทฺทกานิ  มูล-
+<span class="LineNumber"> 010 </span>สนฺตานกานิ  วิย  กิเลสา  ยถา  กสฺสโก  กสนฺโต  นงฺคเลน 
+<span class="LineNumber"> 011 </span>ตานิ  ปทาเลติ  เอวํ  โยคี  อนิจฺจสฺํ  ภาเวนฺโต  อนิจฺจ-
+<span class="LineNumber"> 012 </span>สฺาาเณน  กิเลเส  ปทาเลตีติ อิทเมตฺเถ(๒) โอปมฺมสํสนฺทนํ ฯ             
+<span class="LineNumber"> 013 </span>	โอธุนาตีติ  เหฏฺ€า  ธุนาติ ฯ  นิธุนาตีติ  (๒)  ปปฺโผเฏติ ฯ
+<span class="LineNumber"> 014 </span>นิปฺโผเฏตีติ  (๓) ปปฺโผเฏตฺวา  ฉฑฺเฑติ ฯ  อิธาปิ  ปพฺพชานิ  วิย 
+<span class="LineNumber"> 015 </span>กิเลสา  ลายนํ  นิปฺโผฏนํ (๔) วิย อนิจฺจสฺาาณนฺติ อิมินา
+<span class="LineNumber"> 016 </span>อตฺเถน อุปมา สํสนฺเทตพฺพา ฯ       
+<span class="LineNumber"> 017 </span>	วณฺฑจฺฉินฺนายาติ  ติเณฺหน  ขุรปฺเปน  วณฺฏจฺฉินฺนาย ฯ  
+<span class="LineNumber"> 018 </span>ตนฺวยานิ(๕)  ภวนฺตีติ ตํ  อมฺพปิณฺฑํ  อนุคจฺฉนฺติ  ตสฺสา 
+<span class="LineNumber"> 019 </span># ๑. ม. ...ภาวูปคโมติ ฯ  ๒. ม. อิทเมตฺถ ฯ  ๓. สี. นิจฺเฉเทตีติ ฯ
+<span class="LineNumber"> 020 </span># ม. นิจฺโฉเฏตีติ ฯ  ๔. สี. นิจฺเฉทนํ ฯ  ม. นิจฺโฉฏนํ ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. ตทนฺวยานิ ฯ

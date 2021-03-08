@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  18  สิริมาวตฺถุ  หน้า  111
+
+<span class="LineNumber"> 002 </span>สาธุ  อยฺเยติ  ภิกฺขู  ปเวเสตฺวา  ยาคุํ  ปาเยตฺวา  ขชฺชกํ  ทตฺวา
+<span class="LineNumber"> 003 </span>ภตฺตเวลาย  ภตฺตสฺส  ปตฺเต  ปูเรตฺวา  ตสฺสา  อาโรเจสุํ ฯ
+<span class="LineNumber"> 004 </span>สา  มํ  ปริคฺคเหตฺวา  เนถ  อยฺเย  วนฺทิสฺสามีติ  วตฺวา
+<span class="LineNumber"> 005 </span>ตาหิ  ปริคฺคเหตฺวา  ภิกฺขูนํ  สนฺติกํ  นีตา  ปเวธมาเนน
+<span class="LineNumber"> 006 </span>สรีเรน  ภิกฺขู  วนฺทิ ฯ  โส  ภิกฺขุ  ตํ  โอโลเกตฺวา  จินฺเตสิ
+<span class="LineNumber"> 007 </span>คิลานาย  ตาว อยํ  เอติสฺสา  รูปโสภา  อโรคกาเล  ปน 
+<span class="LineNumber"> 008 </span>สพฺพาภรณปฏิมณฺฑิตาย  อิมิสฺสา  กีทิสี  รูปสมฺปตฺตีติ ฯ  อถสฺส
+<span class="LineNumber"> 009 </span>อเนกวสฺสโกฏิสนฺนิจิโต  กิเลโส  สมุทาจริ ฯ โส  อนฺมโน(๑)
+<span class="LineNumber"> 010 </span>หุตฺวา  ภตฺตํ  ภุฺชิตุํ  อสกฺโกนฺโต  ปตฺตมาทาย  วิหารํ
+<span class="LineNumber"> 011 </span>คนฺตฺวา  ปตฺตํ  ปิธาย  เอกมนฺเต  €เปตฺวา  จีวรํ  อตฺถริตฺวา
+<span class="LineNumber"> 012 </span>นิปชฺชิ ฯ  อถ  นํ  เอโก  สหายโก  ภิกฺขุ  ยาจนฺโตปิ 
+<span class="LineNumber"> 013 </span>โภเชตุํ  นาสกฺขิ ฯ  โส  ฉินฺนภตฺโต  อโหสิ ฯ  ตํทิวสเมว
+<span class="LineNumber"> 014 </span>สายณฺหสมเย  สิริมา กาลมกาสิ ฯ  ราชา  สตฺถุ  สาสนํ
+<span class="LineNumber"> 015 </span>เปเสสิ  ภนฺเต  ชีวกสฺส  กนิฏฺ€ภคินี  สิริมา  กาลมกาสีติ ฯ
+<span class="LineNumber"> 016 </span>สตฺถา  ตํ  สุตฺวา  รฺโ สาสนํ  ปหิณิ  สิริมาย
+<span class="LineNumber"> 017 </span>ฌาปนกิจฺจํ  นตฺถิ  อามกสุสาเน  ตํ   ยถา  กากสุนขา  (๒)  น
+<span class="LineNumber"> 018 </span>ขาทนฺติ  ตถา  นิปชฺชาเปตฺวา  รกฺขาเปถาติ ฯ  ราชา  ตถา
+<span class="LineNumber"> 019 </span>อกาสิ ฯ  ปฏิปาฏิยา  ตโย  ทิวสา  อติกฺกนฺตา  จตุตฺเถ  ทิวเส
+<span class="LineNumber"> 020 </span>สรีรํ  อุทฺธุมายิ ฯ นวหิ  วณมุเขหิ  ปุฬวา  ปคฺฆรึสุ ฯ 
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ.  อฺาณี ฯ  
+<span class="LineNumber"> 022 </span># ๒. สี.  กากสุนขาทโย ฯ  ยุ.  กากาทโย ฯ 

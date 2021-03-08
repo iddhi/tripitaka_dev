@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  หน้า  ๓๓๖
+	
+<span class="LineNumber"> 002 </span>		ราหุลสํยุตฺตวณฺณนา            
+<span class="LineNumber"> 003 </span>		จกฺขุสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 004 </span>	ราหุลสํยุตฺตสฺส  ป€เม  เอโกติ  จตูสุ  อิริยาปเถสุ 
+<span class="LineNumber"> 005 </span>เอกวิหารี ฯ  วูปกฏฺโ€ติ วิเวกฏฺโ€ นิสฺสฏฺโ€(๑) ฯ อปฺปมตฺโตติ 
+<span class="LineNumber"> 006 </span>สติยา อวิปฺปวาเส €ิโต ฯ (๒) อาตาปีติ วีริยสมฺปนฺโน ฯ  ปหิตตฺโต 
+<span class="LineNumber"> 007 </span>วิหเรยฺยนฺติ  วิเสสาธิคมตฺถาย  เปสิตตฺโต  หุตฺวา วิหเรยฺยํ ฯ
+<span class="LineNumber"> 008 </span>อนิจฺจนฺติ  หุตฺวา  อภาวากาเรน  อนิจฺจํ ฯ  อถวา  อุปฺปาท-
+<span class="LineNumber"> 009 </span>วยวนฺตตาย ตาวกาลิกตาย  วิปริณามโกฏิยา  นิจฺจปฏิกฺเขปโตติ
+<span class="LineNumber"> 010 </span>อิเมหิปิ  การเณหิ  อนิจฺจํ ฯ  ทุกฺขนฺติ  จตูหิ  การเณหิ  ทุกฺขํ  
+<span class="LineNumber"> 011 </span>ทุกฺขมนฏฺเ€น(๓)ทุกฺขวตฺถุกฏฺเ€น สตตปฏิปีฬนฏฺเ€น(๔) สุขปฏิกฺ-
+<span class="LineNumber"> 012 </span>เขเปนาติ ฯ  กลฺลนฺติ ยุตฺตํ ฯ เอตํ มมาติ ตณฺหาคาโห ฯ  
+<span class="LineNumber"> 013 </span>เอโสหมสฺมีติ  มานคฺคาโห ฯ  เอโส  เม  อตฺตาติ  เวทิตพฺ ฯ  
+<span class="LineNumber"> 014 </span>นิพฺพินฺทํ วรชฺชตีติ เอตฺถ วิราควเสน จตฺตาโร มคฺคา
+<span class="LineNumber"> 015 </span>กถิตา ฯ วิราคา วิมุจฺจตีติ เอตฺถ วิมุตฺติวเสน จตฺตาริ ฯ
+<span class="LineNumber"> 016 </span>สามฺผลานิ ฯ        
+<span class="LineNumber"> 017 </span># ๑. ม. วิเวกฏฺโ€ นิสทฺโท ฯ  ๒. ม. อวิปฺปวสนฺโต ฯ 
+<span class="LineNumber"> 018 </span># ยุ. อวิปฺปวาสนฺโต ฯ ๓. ม. ทุกขมนฏฺเ€น ฯ 
+<span class="LineNumber"> 019 </span># ๔. ม. ยุ. สตฺตสมฺปีฬนฏฺเ€น ฯ

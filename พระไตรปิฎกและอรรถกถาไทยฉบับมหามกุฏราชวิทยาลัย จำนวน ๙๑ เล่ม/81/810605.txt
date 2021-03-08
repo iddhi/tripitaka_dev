@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>สามัญญผลกถา</H2> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๗๙]  สกวาที  สามัญญผล เป็นอสังขตะ  หรือ ?
+<span class="LineNumber"> 003 </span>ปรวาที   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. เป็นนิพพาน   เป็นที่ต้านทาน   เป็นที่เร้น   เป็นที่พึ่ง
+<span class="LineNumber"> 005 </span>เป็นที่หมาย เป็นฐานะอันไม่เคลื่อน  เป็นอมตะ  หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. สามัญญผล เป็นอสังขตะ นิพพานก็เป็นอสังขตะ  หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ส. อสังขตะเป็น ๒ อย่าง หรือ ?
+<span class="LineNumber"> 010 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 011 </span>                       ส. อสังขตะเป็น ๒  อย่าง หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ส. ที่ต้านทานเป็น  ๒  อย่าง  ฯลฯ  ที่เร้นก็เป็น  ๒  อย่าง
+<span class="LineNumber"> 014 </span>ที่พึ่งก็เป็น  ๒  อย่าง  ที่หมายก็เป็น  ๒  อย่าง  ฐานะอันไม่เคลื่อนก็เป็น  ๒
+<span class="LineNumber"> 015 </span>อย่าง อมตะก็เป็น ๒ อย่าง นิพพานก็เป็น ๒ อย่าง หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 017 </span>         [๑๗๘๐]  ส. สามัญญผล เป็นอสังขตะ หรือ?
+<span class="LineNumber"> 018 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                       ส. สามัญญะ   เป็นอสังขตะ หรือ?
+<span class="LineNumber"> 020 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 021 </span>                       ส. สามัญญะ   เป็นสังขตะ   หรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ถูกแล้ว.

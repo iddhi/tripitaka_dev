@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>              <B>๑.  เถยยาวหาร</B>  (การลักโดยขโมย)
+<span class="LineNumber"> 002 </span>              <B>๒.  ปสัยหาวหาร</B>  (การลักโดยข่มขู่)
+<span class="LineNumber"> 003 </span>              <B>๓.  ปฏิจฉันนาวทาร</B>  (การลักโดยปกปิด)
+<span class="LineNumber"> 004 </span>              <B>๔.  ปริกัปปาวหาร</B>  (การลักโดยกำหนดไว้) 
+<span class="LineNumber"> 005 </span>              <B>๕.  กุสาวหาร</B>   (การลักโดยจับสลาก)
+<span class="LineNumber"> 006 </span>         เนื้อความในที่นี้ท่านย่อไว้  ส่วนความพิสดาร  ท่านกล่าวไว้ในสมันต-
+<span class="LineNumber"> 007 </span>ปาสาทิกาแล้ว.
+
+<span class="LineNumber"> 008 </span>                         <H1>ว่าด้วยกาเมสุมิจฉาจาร</H1>
+
+<span class="LineNumber"> 009 </span>         ก็พึงทราบวินิจฉัยในคำว่า   กาเมสุมิจฉาจาร  ต่อไป
+<span class="LineNumber"> 010 </span>         คำว่า   <B>กาเมสุ</B>   ได้แก่การเสพเมถุน.  การประพฤติลามกอันบัณฑิต 
+<span class="LineNumber"> 011 </span>ติเตียนโดยส่วนเดียว    ชื่อว่า    <B>มิจฉาจาร</B>.    แต่เมื่อว่าโดยลักษณะ   ได้แก่
+<span class="LineNumber"> 012 </span>เจตนาเป็นเหตุก้าวล่วงฐานะที่ไม่ควรเกี่ยวข้องที่เป็นไปทางกายทวารโดยประสงค์
+<span class="LineNumber"> 013 </span>อสัทธรรม  ชื่อว่า  <B>กาเมสุมิจฉาจาร</B>.
+
+<span class="LineNumber"> 014 </span>                            <H1>อคมนียฐาน  ๒๐</H1>
+
+<span class="LineNumber"> 015 </span>         ในกาเมสุมิจฉาจารนั้น    มีหญิง  ๒๐ จำพวก ได้แก่หญิงที่มารดารักษา
+<span class="LineNumber"> 016 </span>เป็นต้น   ๑๐ จำพวกแรก  คือ
+<span class="LineNumber"> 017 </span>                ๑.  หญิงที่มารดารักษา
+<span class="LineNumber"> 018 </span>                ๒.  หญิงที่บิดารักษา
+<span class="LineNumber"> 019 </span>                ๓.  หญิงที่มารดาบิดารักษา
+<span class="LineNumber"> 020 </span>                ๔.  หญิงที่พี่ชายน้องชายรักษา
+<span class="LineNumber"> 021 </span>                ๕ . หญิงที่พี่สาวน้องสาวรักษา
+<span class="LineNumber"> 022 </span>                ๖.  หญิงที่ญาติรักษา

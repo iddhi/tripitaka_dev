@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 483
+
+<span class="LineNumber"> 002 </span>		กุฏชี กุฏฺ€ตครา		ปาฏลิโย จ ปุปฺผิตา  
+<span class="LineNumber"> 003 </span>		ปุนฺนาคา คิริปุนฺนาคา	โกวิฬารา จ ปุปฺผิตา  
+<span class="LineNumber"> 004 </span>		อุทฺธาลกา โสมรุกฺขา	อครุภลฺลิยา พหู  
+<span class="LineNumber"> 005 </span>		ปุตฺตชีวา จ กุกฺกุฏา	อสนา เจตฺถ ปุปฺผิตา  
+<span class="LineNumber"> 006 </span>		กุฏชา สลฬา นีปา		โกสมฺพลพุชา(๑) ธวา  
+<span class="LineNumber"> 007 </span>		สาลา จ ปุปฺผิตา ตตฺถ	ปลาลขลสนฺนิภา  
+<span class="LineNumber"> 008 </span>		ตสฺสาวิทูเร โปกฺขรณี	ภูมิภาเค สโนรเม  
+<span class="LineNumber"> 009 </span>		ปทุมุปฺปลสฺฉนฺนา	เทวานมิว นนฺทเน  
+<span class="LineNumber"> 010 </span>		อเถตฺถ ปุปฺผรสมตฺตา	โกกิลา มฺชุภาณิกา  
+<span class="LineNumber"> 011 </span>		อภิปฺปนาเทนฺติ ตํ วนํ (๒)	อุตุสมฺปุปฺผิเต ทุเม  
+<span class="LineNumber"> 012 </span>		ภสฺสนฺติ มกรนฺเทหิ	โปกฺขเร โปกฺขเรมธู  
+<span class="LineNumber"> 013 </span>		อเถตฺถ วาตา วายนฺติ	ทกฺขิณา อถ ปจฺฉิมา  
+<span class="LineNumber"> 014 </span>		ปทุมกิฺชกฺขเรณูหิ	โอกิณฺโณ โหติ อสฺสโม  
+<span class="LineNumber"> 015 </span>		ถูลา สึฆาฏกา เจตฺถ	สสาทิยา(๓) ปสาทิยา  
+<span class="LineNumber"> 016 </span>		มจฺฉกจฺฉปพฺยาวิธา	พหู เจตฺถ มูปยานกา  
+<span class="LineNumber"> 017 </span>		มธุํ ภึเสหิ สวติ		ขีรํ สปฺปิ มุฬาลิภิ  
+<span class="LineNumber"> 018 </span>		สุรภิ (๔)ตํ วนํ วายติ	นานาคนฺธสมีริตํ(๕)  
+<span class="LineNumber"> 019 </span>		สมฺโมทิเตว คนฺเธหิ (๖)	ปุปฺผสาขาหิ ตํ วนํ  
+<span class="LineNumber"> 020 </span># ๑. ม. โกสมฺพา ลพุชา ฯ  ๒. ม. อภินาเทนฺติ ปวนํ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. สํสาทิยา ฯ  ๔. ม. สุรภี ฯ ๕. ม. นานาคนฺธสโมทิตํ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. สมฺมทฺทโต คนฺเธน ฯ 

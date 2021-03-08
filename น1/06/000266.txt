@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>   
+<span class="LineNumber"> 002 </span><B>๒  ลัทธิ</B>  					ความเชื่อถือ  ความรู้  และประเพณีที่ได้รับ
+<span class="LineNumber"> 003 </span>						สืบต่อกันมา.
+<span class="LineNumber"> 004 </span><B>๑๙๙  ลีลา	</B>				ท่านทางอันงาม,  การเยื้องกราย,  นวยนาด.
+<span class="LineNumber"> 005 </span><B>๑๘๙  ลูกถวิน</B>				วัตถุมีรูปกลม - แบน  มีรูตรงกลาง  (คล้าย
+<span class="LineNumber"> 006 </span>						สตางค์สยามรัฐ)  ที่ข้างมีร่องโดยรอบสำหรับ
+<span class="LineNumber"> 007 </span>						ผูกติดไว้กับสายรัดประคดเอวข้างหนึ่ง  และรู
+<span class="LineNumber"> 008 </span>						นั้นมีไว้สำหรับสอดสายรัดประคดอีกข้างหนึ่ง
+<span class="LineNumber"> 009 </span>						ในเวลาคาด.
+<span class="LineNumber"> 010 </span><B>๑๐  เลส</B>					อาการที่อ้างเอาเป็นอุบาย,  ส่วนเล็กน้อยที่
+<span class="LineNumber"> 011 </span>						ยกขึ้นเป็นข้ออ้าง.
+<span class="LineNumber"> 012 </span><B>๘๗  เลฑฑุบาต</B>			ที่ตกแห่งก้อนดิน  (อันบุรุษผู้มีกำลังปาน
+<span class="LineNumber"> 013 </span>						กลางขว้างไป).
+<span class="LineNumber"> 014 </span><B>๑๘๘  แล้วด้วย	</B>			ทำด้วย----สำเร็จด้วย----  (ป.  ทนฺตมยํ =
+<span class="LineNumber"> 015 </span>						ทำด้วยงา,  สำเร็จด้วยงา).
+<span class="LineNumber"> 016 </span>๑๕  โลกวัชชะ				โทษทางโลก  (มีโทษทางโลก).
+<span class="LineNumber"> 017 </span>			<B>ว</B>
+<span class="LineNumber"> 018 </span><B>๒๒๘  วัฑฒกี</B>				ช่างไม้.
+<span class="LineNumber"> 019 </span><B>๒๔  วัตตขันธกะ</B>			หมวดแห่งข้อวัตรปฏิบัติ.
+<span class="LineNumber"> 020 </span><B>๙๗  วัตตเภท</B>				เสียธรรมเนียม.
+

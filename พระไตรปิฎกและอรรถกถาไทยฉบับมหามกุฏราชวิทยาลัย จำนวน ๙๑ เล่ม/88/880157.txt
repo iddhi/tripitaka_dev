@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                     ๙.  <B>นเหตุสเหตุกธรรม  และนเหตุอเหตุกธรรม  อาศัย
+<span class="LineNumber"> 002 </span>นเหตุสเหตุกธรรม  และนเหตุอเหตุกธรรม   เกิดขึ้น เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 003 </span>           คือ  ในปฏิสนธิขณะ   ขันธ์ ๓ อาศัยขันธ์   ที่เป็นนเหตุสเหตุกธรรม
+<span class="LineNumber"> 004 </span>และหทยวัตถุ ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 005 </span>           กฏัตตารูปที่เป็นอุปาทารูป อาศัยขันธ์ทั้งหลายที่เป็นนเหตุสเหตุกธรรม
+<span class="LineNumber"> 006 </span>และมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 007 </span>                                      <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๑๓๑] ๑.  <B>นเหตุสเหตุกธรรม  อาศัยนเหตุสเหตุกธรรม  เกิด
+<span class="LineNumber"> 009 </span>ขึ้น  เพราะอารัมมณปัจจัย</B> 
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นนเหตุสเหตุกธรรม  ฯลฯ ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 011 </span>           ในปฏิสนธิขณะ  ฯลฯ
+<span class="LineNumber"> 012 </span>           	      ๒.  <B>นเหตุอเหตุกธรรม  อาศัยนเหตุอเหตุกธรรม  เกิด
+<span class="LineNumber"> 013 </span>ขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ ฯลฯ อาศัย ขันธ์ ๑ ที่เป็นนเหตุอเหตุกธรรม ฯลฯ
+<span class="LineNumber"> 015 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 016 </span>            	      ๓.  <B>นเหตุสเหตุกธรรม  อาศัยนเหตุอเหตุกธรรม  เกิด
+<span class="LineNumber"> 017 </span>ขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ  ในปฏิสนธิขณะ   ขันธ์ทั้งหลายที่เป็นนเหตุสเหตุกธรรม   อาศัย
+<span class="LineNumber"> 019 </span>หทยวัตถุ.

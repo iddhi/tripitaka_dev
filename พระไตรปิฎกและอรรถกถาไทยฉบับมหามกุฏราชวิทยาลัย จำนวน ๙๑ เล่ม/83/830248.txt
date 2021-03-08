@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>อยู่ด้วยกามราคานุสัย    ปฏิฆานุสัย   และมานานุสัย   จากที่นั้น     คือที่
+<span class="LineNumber"> 002 </span>อปริยาปันนธรรม. 
+<span class="LineNumber"> 003 </span>      <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 004 </span><H2>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 005 </span>         บุคคลไม่ฝึกความนอนเนื่องอยู่ด้วยกามราคานุสัย  ปฏิฆานุสัย  และ
+<span class="LineNumber"> 006 </span>มานานุสัย     จากที่ใด      ก็ไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย   จาก
+<span class="LineNumber"> 007 </span>ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า    บุคคลไม่มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย     จาก
+<span class="LineNumber"> 010 </span>ที่ใด,     ก็ไม่มีความนอนเนื่องอยู่ด้วยกามราคานุสัย   ปฏิฆานุสัย    และ
+<span class="LineNumber"> 011 </span>มานานุสัย    จากที่นั้น   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>     <I>จบ   กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 014 </span>                  <I>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูล  จบ</I>
+<span class="LineNumber"> 015 </span>                                          <I>ติกมูลกะ   จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>ญาณกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๘๑๔]  <B>สกวาที</B>  ญาณไม่มีแก่ปุถุชนหรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส.  ปัญญา  กิริยาที่รู้ชัด  ความวิจัย  ความเลือกสรร  ความ
+<span class="LineNumber"> 005 </span>วิจัยธรรม  ความกำหนดหมาย   ความเข้าไปกำหนด   ความเข้าไปกำหนด
+<span class="LineNumber"> 006 </span>เฉพาะ  ไม่มีแก่ปุถุชน หรือ  ?
+<span class="LineNumber"> 007 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ    
+<span class="LineNumber"> 008 </span>                       ส. ปัญญา   กิริยาที่รู้ชัด    ความวิจัย    ฯลฯ  ความเข้าไป
+<span class="LineNumber"> 009 </span>กำหนดรู้เฉพาะ  ของปุถุชน มีอยู่  มิใช่หรือ ?
+<span class="LineNumber"> 010 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 011 </span>                       ส. หากว่า   ปัญญา  กิริยาที่รู้ชัด   ความวิจัย  ฯลฯ   ความ
+<span class="LineNumber"> 012 </span>เข้าไปกำหนดเฉพาะ   ของปุถุชน  มีอยู่    ก็ต้องไม่กล่าวว่า   ญาณไม่มีแก่
+<span class="LineNumber"> 013 </span>ปุถุชน.
+<span class="LineNumber"> 014 </span>         [๑๘๑๕]  ส. ญาณไม่มีแก่ปุถุชน หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                       ส. ปุถุชนพึงเข้าปฐมฌาน หรือ ?
+<span class="LineNumber"> 017 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                       ส. หากว่า     ปุถุชนพึงเข้าปฐมฌาน    ก็ต้องไม่กล่าวว่า
+<span class="LineNumber"> 019 </span>ญาณไม่มีแก่ปุถุชน.
+<span class="LineNumber"> 020 </span>         [๑๘๑๖]  ส.  ปุถุชนพึงเข้าทุติยฌาน  ฯลฯ  ตติยฌาน  ฯลฯ   จตุตถฌาน
+<span class="LineNumber"> 021 </span>ฯลฯ   พึงเข้าอากาสานัญจายตนะ  วิญญาณัญจายตนะ  อากิญจัญญายตนะ
+<span class="LineNumber"> 022 </span>เนวสัญญาสัญายตนะ  ปุถุชนพึงให้ทาน  ฯลฯ   พึงให้จีวร  ฯลฯ  พึงให้

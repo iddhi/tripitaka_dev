@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>จำพวก   และบุคคลที่ ๘  ย่อมไม่กำหนดรู้อวิชชานุสัย   และไม่กำหนดรู้ 
+<span class="LineNumber"> 002 </span>กามราคานุสัย   ปฏิฆานุสัย   มานานุสัย  ทิฏฐานุสัย  วิจิกิจฉานุสัย  และ
+<span class="LineNumber"> 003 </span>ภวราคานุสัย.
+<span class="LineNumber"> 004 </span>         <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสย -
+<span class="LineNumber"> 005 </span>               วิจิกิจฉานุสย - ภวราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 006 </span>            <I>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสย -
+<span class="LineNumber"> 007 </span>                        วิจิกิจฉานุสย - ภวราคานุสยมูล  จบ</I>
+<span class="LineNumber"> 008 </span>                                      <I>ฉักกมูลกะ  จบ</I>
+<span class="LineNumber"> 009 </span>                     <I>อุปปัตติฏฐาน  ปุคคลวาระ  ปัจจนิก  จบ</I>

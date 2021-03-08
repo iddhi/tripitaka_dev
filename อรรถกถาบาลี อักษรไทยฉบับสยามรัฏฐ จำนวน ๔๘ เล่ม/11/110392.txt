@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  ขนฺธวารวคฺควณฺณนา  หน้า  ๓๙๒
+
+<span class="LineNumber"> 002 </span>	อยํ  กิร  สตฺถุ ทิฏฺ€กาลโต ปฏฺ€าย  ปิติเปมํ  อุปาสิกา
+<span class="LineNumber"> 003 </span>จสฺส  มาติเปมํ  ปฏิลภติ ฯ  อุโภปิ  มม  ปุตฺโตติ สตฺถารํ 
+<span class="LineNumber"> 004 </span>วทนฺติ ฯ  ภวนฺตรคโต  หิ  เนสํ  สิเนโห ฯ  สา  กิร  อุปาสิกา  
+<span class="LineNumber"> 005 </span>ปฺจ  ชาติสตานิ  ตถาคตสฺส  มาตาว  โส  จ  คหปติ  ปิตาว  
+<span class="LineNumber"> 006 </span>อโหสิ ฯ  ปุน  ปฺจ   ชาติสตานิ  อุปาสิกา  มหามาตา  ตถา
+<span class="LineNumber"> 007 </span>มาตุจฺฉา (๑) อุปาสโก มหาปิตา [๒] ตถา จูฬมาตา เอวํ  สตฺถา
+<span class="LineNumber"> 008 </span>ทิยฑฺฒอตฺตภาวสหสฺสํ  เตสํเยว  หตฺเถ  วฑฺฒิโต ฯ  เตเนว  
+<span class="LineNumber"> 009 </span>เต  ยํ  เนว  ปุตฺตสฺส  น  ธีตุ(๓)  สนฺติเก  กเถตุํ  สกฺกา  ตํ  
+<span class="LineNumber"> 010 </span>สตฺถุ  สนฺติเก นิสินฺนา  กเถนฺติ ฯ  อิมินาเยว  จ  การเณน 
+<span class="LineNumber"> 011 </span>ภควา  เอตทคฺคํ  ภิกฺขเว  มม  สาวกานํ  อุปาสกานํ  วิสฺสาสิกานํ 
+<span class="LineNumber"> 012 </span>ยทิทํ  นกุลปิตา  คหปติ  เอตทคฺคํ ภิกฺขเว มม  สาวิกานํ 
+<span class="LineNumber"> 013 </span>อุปาสิกานํ  วิสฺสาสิกานํ   ยทิทํ  นกุลมาตา  คหปตานีติ เต 
+<span class="LineNumber"> 014 </span>เอตทคฺเค  €เปสิ ฯ  อิติ  โส  อิมํ  วิสฺสาสิกภาวํ  ปกาเสนฺโต  
+<span class="LineNumber"> 015 </span>กถํ  หิ  โน สิยาติ(๔) อาห ฯ 
+<span class="LineNumber"> 016 </span>	อมเตน  อภิสิตฺโตติ  นยิธ    อฺํ  กิฺจิ  ฌานํ  วา 
+<span class="LineNumber"> 017 </span>วิปสฺสนา  วา  มคฺโค  วา  ผลํ  วา  อมตาภิเสโกติ  ทฏฺ€พฺพํ ฯ
+<span class="LineNumber"> 018 </span>มธุรธมฺมเทสนาเยว(๕)  ปน  อมตาภิเสโกติ เวทิตพฺพา ฯ  ทูรโตปีติ 
+<span class="LineNumber"> 019 </span>ติโรรฏฺ€าปิ ติโรชนปทาปิ ฯ     
+<span class="LineNumber"> 020 </span># ๑. อฺตฺถ ตถา มาตุจฺฉาติ นตฺถิ ฯ  ๒. ม. เอตฺถนฺตเร ตถา
+<span class="LineNumber"> 021 </span># จูฬมาตาติ ทิสฺสติ ฯ  ๓. ม. ปิตุ ฯ  ๔. ม. กหํ หิ โน สิยา ฯ
+<span class="LineNumber"> 022 </span># ๕. สี. มธุรธมฺมสวนํ เยว ฯ

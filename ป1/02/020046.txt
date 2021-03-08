@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>     กับ   อา  เป็น  อาย.  
+<span class="LineNumber"> 002 </span>๓  เอา  สฺมึ  เป็น  ยํ  บ้างก็ได้.
+<span class="LineNumber"> 003 </span>๔  อา.  เอก.  เอา  อา  เป็น  เอ.  
+  
+<span class="LineNumber"> 004 </span>    [๕๓]  อิ  การันต์  ในอิตถีลิงค์  แจกอย่าง  รตฺติ  [ราตรี]   ดังนี้ :-
+<span class="LineNumber"> 005 </span>-----------------------------------------------------------------------------
+<span class="LineNumber"> 006 </span>		เอก.						พหุ.
+<span class="LineNumber"> 007 </span>ป.	รตฺติ					รตฺติโย	รตฺตี
+<span class="LineNumber"> 008 </span>ทุ.	รตฺตึ					รตฺติโย	รตฺตี
+<span class="LineNumber"> 009 </span>ต.	รตฺติยา				รตฺตีหิ	รตฺตีภิ
+<span class="LineNumber"> 010 </span>จ.	รตฺติยา				ตตฺตีนํ
+<span class="LineNumber"> 011 </span>ปญฺ.	รตฺติยา	รตฺยา		รตฺตีหิ	รตฺตีภิ
+<span class="LineNumber"> 012 </span>ฉ.	รตฺติยา				รตฺตีนํ
+<span class="LineNumber"> 013 </span>ส.	รตฺติยา	รตฺติยํ	รตฺยํ	รตฺตีสุ
+<span class="LineNumber"> 014 </span>อา.	รตฺติ					รตฺติโย	รตฺตี
+<span class="LineNumber"> 015 </span>           ศัพท์ที่เป็น  อิ  การันต์  เช่นนี้  แจกเหมือน  รตฺติ
+<span class="LineNumber"> 016 </span>----------------------------------------------------------------------------
+<span class="LineNumber"> 017 </span>อาณิ		ลิ่ม				กฏิ		สะเอว
+<span class="LineNumber"> 018 </span>อิทฺธิ		ฤทธิ์				ขนฺติ		ความอดทน
+<span class="LineNumber"> 019 </span>อีติ		จัญไร			คณฺฑิ	ระฆัง
+<span class="LineNumber"> 020 </span>อุกฺขฺลิ	หม้อข้าว			ฉวิ		ผิว
+<span class="LineNumber"> 021 </span>อูมิ		คลื่น				ชลฺลิ		สะเก็ดไม้

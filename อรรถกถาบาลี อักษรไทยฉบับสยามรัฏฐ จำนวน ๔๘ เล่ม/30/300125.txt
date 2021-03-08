@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  สตธมฺมชาตกํ  หน้า  125
+
+<span class="LineNumber"> 002 </span>โอวาทมทาสิ ฯ  โส  โอวาโท  สกลชมฺพุทีปํ  ปตฺถริตฺวา  สตฺตมตฺตานิ  (๑)
+<span class="LineNumber"> 003 </span>วสฺสสหสฺสานิ  อฏฺ€าสิ ฯ  มหาชโน  โพธิสตฺตสฺส โอวาเท €ตฺวา 
+<span class="LineNumber"> 004 </span>ทานาทีนิ  ปุฺานิ  กตฺวา อายุหปริโยสาเน (๒) สคฺคปุรํ (๓) ปูเรสิ ฯ  
+<span class="LineNumber"> 005 </span>โพธิสตฺโตปิ ตเถว ปุฺานิ กตฺวา สคฺคปุรํ ปูเรสิ ฯ  
+<span class="LineNumber"> 006 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  สจฺจานิ  ปกาเสตฺวา 
+<span class="LineNumber"> 007 </span>ชาตกํ  สโมธาเนสิ ฯ  สจฺจปริโยสาเน โส กุลปุตฺโต โสตาปตฺติผเล
+<span class="LineNumber"> 008 </span>ปติฏฺ€าสิ ฯ  ตทา กจฺฉโป อานนฺโท อโหสิ กุมฺภกาโร ปน 
+<span class="LineNumber"> 009 </span>อหเมวาติ ฯ  
+<span class="LineNumber"> 010 </span>				กจฺฉปชาตกํ อฏฺ€มํ ฯ  
+
+<span class="LineNumber"> 011 </span>				สตธมฺมชาตกํ  
+<span class="LineNumber"> 012 </span>	ตฺจ  อปฺปฺจ  อุจฺฉิฏฺ€นฺติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 013 </span>เอกวีสติวิธํ อเนสนํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 014 </span>	เอกสฺมึ  หิ  กาเล  พหู  ภิกฺขู เวชฺชกมฺเมน ทูตกมฺเมน 
+<span class="LineNumber"> 015 </span>ปหิณคมเนน (๔)  ชงฺฆเปสนิเกน  (๕)  ทนฺตกฏฺ€ทาเนน  เวฬุทาเนน 
+<span class="LineNumber"> 016 </span>ปุปฺผทาเนน  ผลทาเนน  จุณฺณทาเนน  ครุภณฺฑทาเนน  โอสธ-
+<span class="LineNumber"> 017 </span>ทาเนน (๕)  ปิณฺฑปาติเกนาติ  เอวรูปาย  เอกวีสติวิธาย  อเนสนาย
+<span class="LineNumber"> 018 </span># ๑. สี. ยุ. สตฺตมตฺตานิ วสิสสตานิ ฯ  ม. สฏฺ€ิมาตฺตานิ วสิสสหสฺสานิ ฯ
+<span class="LineNumber"> 019 </span># ๒. ม. อายุปริโยสาเน ฯ  ๓. สคฺคปทนฺติปิ ฯ  ๔. สี. ยุ. ปเหนคมเนน ฯ 
+<span class="LineNumber"> 020 </span>ม. ปหิณกมฺเมน ฯ  ๕. ม. อิเม  ปา€า  นตฺถิ ฯ

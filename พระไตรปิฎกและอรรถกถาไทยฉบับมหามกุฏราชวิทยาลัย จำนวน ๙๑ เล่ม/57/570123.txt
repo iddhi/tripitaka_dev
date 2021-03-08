@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>รวมชาดกที่มีในวรรคนี้   คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑. อินทสมานโคตตชาดก  ๒. สันถวชาดก  ๓. สุสีมชาดก
+<span class="LineNumber"> 003 </span>๔. คิชฌชาดก  ๕. นกุลชาดก  ๖. อุปสาฬหกชาดก  ๗. สมิทธิ-
+<span class="LineNumber"> 004 </span>ชาดก ๘. สกุณัคฆิชาดก  ๙. อรกชาดก  ๑๐. กกัณฏกชาดก.      
+<span class="LineNumber"> 005 </span>                                 <I>จบ   สันถววรรคที่  ๒</I>

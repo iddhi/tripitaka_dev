@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>อสาตราคกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๓๑]   <B>สกวาที</B>  ความยินดีในสิ่งที่ไม่ชอบใจ มีอยู่  หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส.  สัตว์ทั้งหลายเป็นผู้ชื่นชมยิ่งในทุกข์     มีอยู่บางพวก
+<span class="LineNumber"> 005 </span>ที่ปรารถนา  กระหยิ่ม แสวงหา  ค้นหา  เสาะหาทุกข์  หมกมุ่นทุกข์ ตั้งอยู่
+<span class="LineNumber"> 006 </span>หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 008 </span>                        ส. สัตว์ทั้งหลายเป็นผู้ชื่นชมยิ่งในสุข     มีอยู่บางพวกที่
+<span class="LineNumber"> 009 </span>ปรารถนา   กระหยิ่ม  แสวงหา   ค้นหา   เสาะหาสุข   หมกมุ่นสุขตั้งอยู่
+<span class="LineNumber"> 010 </span>มิใช่หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                        ส. หากว่า   สัตว์ทั้งหลายเป็นผู้ชื่นชมยิ่งในสุข    มีอยู่บาง
+<span class="LineNumber"> 013 </span>พวกที่ปรารถนา  กระหยิ่ม   แสวงหา   ค้นหา  เสาะหาสุข    หมกมุ่นสุขตั้งอยู่
+<span class="LineNumber"> 014 </span>ก็ต้องไม่กล่าวว่า ความยินดีในสิ่งที่ไม่ชอบใจมีอยู่   ดังนี้
+<span class="LineNumber"> 015 </span>         [๑๕๓๒]   ส. ความยินดีในสิ่งที่ไม่ชอบใจมีอยู่   หรือ ?
+<span class="LineNumber"> 016 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                        ส. ราคานุสัยนอนเนื่องอยู่ในทุกขเวทนา     ปฏิฆานุสัย
+<span class="LineNumber"> 018 </span>นอนเนื่องอยู่ในสุขเวทนา   หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 020 </span>                        ส. ราคานุสัยนอนเนื่องอยู่ในสุขเวทนา    ปฏิฆานุสัยนอน
+<span class="LineNumber"> 021 </span>เนื่องอยู่ในทุกขเวทนา   มิใช่หรือ ?
+<span class="LineNumber"> 022 </span>                        ป. ถูกแล้ว.

@@ -1,0 +1,3 @@
+﻿<span class="LineNumber"> 001 </span>                               หมวดที่  ๓  [รูปฌาน]   
+<span class="LineNumber"> 002 </span>	ฌาน   ๔  นี้   มีอธิบายแล้วในหมวด  ๔  ผู้ปรารถนาพึงดูใน
+<span class="LineNumber"> 003 </span>หมวดนั้น.

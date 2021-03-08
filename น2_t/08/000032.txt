@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>เมื่อรวมเข้าในธรรมขันธ์ได้เท่าไร ?
+<span class="LineNumber"> 002 </span>	ต.  สิกขาบทที่นางภิกษุณีรักษานั้น  ท่านจำแนกไว้ดังนี้ :-
+<span class="LineNumber"> 003 </span>	๑.  ปาราชิก  มี  ๘  สิกขาบท.  
+<span class="LineNumber"> 004 </span>	๒.  สังฆาทิเสส  มี  ๑๗  สิกขาบท.
+<span class="LineNumber"> 005 </span>	๓.  นิสสัคคิยปาจิตตีย์  มี  ๓๐  สิกขาบท.
+<span class="LineNumber"> 006 </span>	๔.  ปาจิตตีย์  มี  ๑๖๖  สิกขาบท.
+<span class="LineNumber"> 007 </span>	๕.  ปาฏิเทสนียะ  มี  ๘  สิกขาบท.
+<span class="LineNumber"> 008 </span>	๖.  เสขิยะ  มี  ๗๕  สิกขาบท.
+<span class="LineNumber"> 009 </span>	๗.  อธิกรณสมถะ  มี  ๗  สิกขาบท.
+<span class="LineNumber"> 010 </span>	รวมเป็นสิกขาบทของภิกษุณี  ๓๑๑   สิกขาบท.
+<span class="LineNumber"> 011 </span>	เมื่อจัดพระวินัยทั้งสิ้นเข้าเป็นธรรมขันธ์  คงได้  ๒๑,๐๐๐  พระ
+<span class="LineNumber"> 012 </span>ธรรมขันธ์.
+<span class="LineNumber"> 013 </span>								ส. ป.
+<span class="LineNumber"> 014 </span>	ถ.  พรหมชาลสูตร  พระผู้มีพระภาคตรัสเทศนาแก่ใคร ?  ที่ไหน ?
+<span class="LineNumber"> 015 </span>	ต.  ตรัสเทสนาที่ตำหนักสวนอุทยาน  ชื่ออัมพลัฏฐิกา  ในระหว่าง
+<span class="LineNumber"> 016 </span>กรุงราชคฤห์กับบ้านนาลันทาต่อกัน.   ทรงปรารภสุปปิปริพาชกและ
+<span class="LineNumber"> 017 </span>พรหมทัตตมาณพกล่าวถ้อยคำเป็นข้าศึกกัน  คือสุปปิยปริพาชกผู้อาจารย์
+<span class="LineNumber"> 018 </span>กล่าวติเตียนพระรัตนตรัย   ส่วนพรหมทัตตมาณพผู้เป็นศิษย์กล่าวสรร-
+<span class="LineNumber"> 019 </span>เสริญพระรัตนตรัย.
+<span class="LineNumber"> 020 </span>								ส. ป.
+<span class="LineNumber"> 021 </span>	ถ.  พรหมชาลสูตร  เมื่อกล่าวโดยใจความ  พระผู้มีพระภาคทรง
+

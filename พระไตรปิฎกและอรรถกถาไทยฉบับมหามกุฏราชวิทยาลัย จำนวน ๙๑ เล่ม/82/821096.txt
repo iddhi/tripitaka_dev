@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า    จิตตสังขารเคยเกิดแก่บุคคลใดในภูมิใด,     วจีสังขาร
+<span class="LineNumber"> 003 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ? 
+<span class="LineNumber"> 004 </span>         บุคคลที่กำลังเข้าทุติยฌาน   ตติยฌาน  จตุตถฌานอยู่ก็ดี  เมื่อ
+<span class="LineNumber"> 005 </span>ทุติยจิตเกิดขึ้นแก่บุคคลที่เกิดอยู่ในสุทธาวาสภูมิก็ดี   จิตตสังขารเคยเกิด
+<span class="LineNumber"> 006 </span>แก่บุคคลเหล่านั้นในภูมินั้น    แต่วจีสังขารไม่ใช่เคยเกิดแก่บุคคลเหล่า- 
+<span class="LineNumber"> 007 </span>นั้นในภูมินั้น,    บุคคลที่กำลังเข้าปฐมฌานอยู่ก็ดี  บุคคลซึ่งเกิดอยู่ใน
+<span class="LineNumber"> 008 </span>กามาวจรภูมิก็ดี  บุคคลที่นอกจากนั้นเกิดอยู่ในรูปาวจรภูมิ อรูปาวจรภูมิ
+<span class="LineNumber"> 009 </span>ก็ดี  จิตตสังขารเคยเกิด และวจีสังขารก็เคยเกิดแก่บุคคลเหล่านั้นในภูมิ
+<span class="LineNumber"> 010 </span>นั้น.
+<span class="LineNumber"> 011 </span>                       <I>จบ   วจีสังขารมูละ   จิตตสังขารมูลี</I>
+<span class="LineNumber"> 012 </span>                                     <I>วจีสังขารมูล  จบ</I>
+<span class="LineNumber"> 013 </span>                                 <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 014 </span>                                <I>อตีตวาระ  อนุโลม  จบ</I>

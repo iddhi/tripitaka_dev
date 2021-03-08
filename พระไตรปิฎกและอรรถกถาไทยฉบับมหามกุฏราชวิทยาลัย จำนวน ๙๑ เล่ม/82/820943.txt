@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ในอสัญญสัตตภูมิ   ทุกขสัจจะกำลังดับ ฯ ล ฯ   คำที่กำหนดด้วย 
+<span class="LineNumber"> 002 </span>บทว่า   <B>ยตฺถ</B>   ( ในภูมิใด  )   เป็นเช่นเดียวกันทั้งในอุปปาทวาระ  ทั้งใน
+<span class="LineNumber"> 003 </span>นิโรธวาระ    ทั้งในอุปปาทนิโรธวาระ   เหตุเครื่องกระทำให้ต่างกันย่อม
+<span class="LineNumber"> 004 </span>ไม่มี.
+<span class="LineNumber"> 005 </span>                         <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 006 </span>                                     <I>ทุกขสัจจมูล   จบ</I>
+<span class="LineNumber"> 007 </span>                                     <I>โอกาสวาระ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                      <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 009 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 010 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 011 </span>         [๙๒๓]   ทุกขสัจจะกำลังดับแก่บุคคลใดในภูมิใด ฯ ล ฯ     แม้
+<span class="LineNumber"> 012 </span>คำที่กำหนดด้วยบทว่า   <B>ยสฺส</B>   ( ของบุคคลใด )    <B>ยตฺถ</B>   ( ในภูมิใด )
+<span class="LineNumber"> 013 </span>พึงให้พิสดารเช่นเดียวกัน.
+<span class="LineNumber"> 014 </span>                        <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจะมูลี</I>
+<span class="LineNumber"> 015 </span>                                  <I>ปุคคโลกาสวาระ   จบ</I>
+<span class="LineNumber"> 016 </span>                           <I>ปัจจุปปันนาวาระ  อนุโลม  จบ</I>

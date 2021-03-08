@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  374
+
+<span class="LineNumber"> 002 </span>		อานนฺทจิตฺโต สุมโน ปีติโต(๑)  
+<span class="LineNumber"> 003 </span>		ทตฺวา มณึ มม นยินฺทปตฺตนฺติ(๒) ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  อชฺเชยฺยเมสาติ  เอสา  ตว  ภริยาย  สทฺธึ 
+<span class="LineNumber"> 005 </span>ปิยสํวา สเมตฺตี  อเชยฺยา  โหตุ ฯ  อานนฺทจิตฺโตติ  อาทีหิ 
+<span class="LineNumber"> 006 </span>ปีติสมงฺคีภาวเมวสฺส วทติ ฯ  นยินฺทปตฺตนฺติ นย อินฺทปตฺตํ ฯ  
+<span class="LineNumber"> 007 </span>	เตน วุตฺตํ ฯ  
+<span class="LineNumber"> 008 </span>	[๑๐๓๘]ส ปุณฺณโก กุรูนํ กตฺตุเสฏฺ€ํ  
+<span class="LineNumber"> 009 </span>		นิสีทยิ ปุรโต อาสนสฺมึ  
+<span class="LineNumber"> 010 </span>		อาทาย กตฺตารมโนมปฺํ  
+<span class="LineNumber"> 011 </span>		อุปานยิ นครํ อินฺทปตฺตํ  
+<span class="LineNumber"> 012 </span>		มโน มนุสฺสสฺส ยถาปิ คจฺเฉ  
+<span class="LineNumber"> 013 </span>		ตโตปิ สํขิปฺปตรํ อโหสิ  
+<span class="LineNumber"> 014 </span>		(๓)ยํ ปุณฺณโก กุรูนํ กตฺตุเสฏฺ€ํ  
+<span class="LineNumber"> 015 </span>		อุปานยิ นครํ อินฺทปตฺตนฺติ(๔) ฯ  
+<span class="LineNumber"> 016 </span>	อถ นํ ปุณฺณโก อาห  
+<span class="LineNumber"> 017 </span>	[๑๐๓๙]เอตินฺทปตฺตํ (๕) นครํ ปทิสฺสติ  
+<span class="LineNumber"> 018 </span>		รมฺมานิ จ อมฺพวนานิ ภาคโส  
+<span class="LineNumber"> 019 </span>		อหฺจ ภริยาย สมงฺคีภูโต  
+<span class="LineNumber"> 020 </span>		ตุวฺจ ปตฺโตสิ สกํ นิเกตนฺติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ปตีโต ฯ  ๒. มํ จ นยินฺทปตฺถนฺติ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. ส ฯ  ๔. ม. อุปาานยี นครํ อินฺทปตฺถํ ฯ
+<span class="LineNumber"> 023 </span># ๕. ม. เอตินฺทปตฺถํ ฯ

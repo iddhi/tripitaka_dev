@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                         <h1>๕.  สกมานสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>                 <H1>ว่าด้วยเหตุเดียวแต่ความรู้สึกต่างกัน</H1>
+
+<span class="LineNumber"> 003 </span>         [๓๒]   เทวดากล่าวว่า
+<span class="LineNumber"> 004 </span>                             <B>เมื่อนกทั้งหลายพักร้อน      ในเวลา
+<span class="LineNumber"> 005 </span>                   ตะวันเที่ยง  ป่าใหญ่ประหนึ่งว่าครวญคราง
+<span class="LineNumber"> 006 </span>                   ความครวญครางของป่านั้นเป็นภัยปรากฏ
+<span class="LineNumber"> 007 </span>                   แก่ข้าพเจ้า.</B>
+<span class="LineNumber"> 008 </span>         [๓๓]  พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>เมื่อนกทั้งหลายพักร้อน      ในเวลา
+<span class="LineNumber"> 010 </span>                   ตะวันเที่ยง  ป่าใหญ่ประหนึ่งว่าครวญคราง
+<span class="LineNumber"> 011 </span>                   นั้นเป็นความยินดีปรากฏแก่เรา.</B>

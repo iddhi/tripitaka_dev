@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>๗. ธรรมสูตร</H2>
+<span class="LineNumber"> 002 </span>       <H1>ว่าด้วยปฏิบัติธรรมสมควรแก่ธรรม</H1>
+<span class="LineNumber"> 003 </span>           [๒๖๕]  เมื่อภิกษุกล่าวว่า  ผู้นี้ปฏิบัติธรรมอันสมควรแก่ธรรม  ด้วย
+<span class="LineNumber"> 004 </span>การพยากรณ์ด้วยธรรมอันสมควรใด    ธรรมอันสมควรนี้    ย่อมมีแก่ภิกษุผู้
+<span class="LineNumber"> 005 </span>ปฏิบัติธรรมอันสมควรแก่ธรรม  ดังนี้  ชื่อว่าย่อมกล่าวธรรมอย่างเดียว   ย่อม
+<span class="LineNumber"> 006 </span>ไม่ตรึกถึงวิตกที่ไม่เป็นธรรม  ภิกษุเว้นการกล่าวอธรรมและการตรึกถึงอธรรม
+<span class="LineNumber"> 007 </span>ทั้ง ๒ นั้น   เป็นผู้มีอุเบกขา   มีสติสัมปชัญญะอยู่.
+<span class="LineNumber"> 008 </span>	         <B>ภิกษุมีธรรมเป็นที่มายินดี  ยินดีแล้ว
+<span class="LineNumber"> 009 </span>	ในธรรม  ค้นคว้าธรรมอยู่  ระลึกถึงธรรม
+<span class="LineNumber"> 010 </span>	อยู่เนื่อง ๆ  ย่อมไม่เสื่อมจากพระสัทธรรม
+<span class="LineNumber"> 011 </span>	ภิกษุเดินอยู่ก็ดี  ยืนอยู่ก็ดี  นั่งอยู่ก็ดี  นอน
+<span class="LineNumber"> 012 </span>	อยู่ก็ดี  ให้จิตของตนสงบอยู่  ณ  ภายใน
+<span class="LineNumber"> 013 </span>	ย่อมถึงความสงบอันแท้จริง.</B>
+<span class="LineNumber"> 014 </span>                                      <I>จบธรรมสูตรที่  ๗</I>

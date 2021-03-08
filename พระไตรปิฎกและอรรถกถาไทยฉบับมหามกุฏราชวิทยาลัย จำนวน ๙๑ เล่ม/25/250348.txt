@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>๑๒.  วังคีสสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>                              <H1>ว่าด้วยพระวังคีสะภาษิตคาถา</H1> 
+
+<span class="LineNumber"> 003 </span>           [๗๖๐]  สมัยหนึ่ง  ท่านพระวังคีสะ  อยู่ที่พระวิหารเชตวัน     อาราม 
+<span class="LineNumber"> 004 </span>ของท่านอนาถบิณฑิกเศรษฐี  กรุงสาวัตถี.
+<span class="LineNumber"> 005 </span>           ก็สมัยนั้นแล     ท่านพระวังคีสะ    เป็นผู้บรรลุพระอรหัตแล้วไม่นาน
+<span class="LineNumber"> 006 </span>เสวยวิมุตติสุขอยู่  ได้ภาษิตคาถาเหล่านี้   ในเวลานั้นว่า
+<span class="LineNumber"> 007 </span>                             <B>ในกาลก่อน      เราเป็นผู้มัวเมาด้วย
+<span class="LineNumber"> 008 </span>                   ความเป็นกวี      ได้เที่ยวไปแล้ว     สู่บ้าน
+<span class="LineNumber"> 009 </span>                   จากบ้าน  สู่เมืองจากเมือง  ครั้นเราได้เห็น           
+<span class="LineNumber"> 010 </span>                   พระสัมพุทธเจ้า        ศรัทธาจึงบังเกิดขึ้น
+<span class="LineNumber"> 011 </span>                   แก่เรา  พระสัมพุทธเจ้านั้น  ได้ทรงแสดง
+<span class="LineNumber"> 012 </span>                   ธรรมคือขันธ์  อายตนะ    ธาตุแก่เรา  เรา 
+<span class="LineNumber"> 013 </span>                   ได้ฟังธรรมของพระองค์แล้ว   ก็บรรพชา
+<span class="LineNumber"> 014 </span>                   เป็นผู้หาเรือนมิได้  พระมุนีได้ตรัสรู้พระ-
+<span class="LineNumber"> 015 </span>                   โพธิญาณ   เพื่อประโยชน์แก่ประชุมชน
+<span class="LineNumber"> 016 </span>                   เป็นะอันมากแก่ภิกษุ   และภิกษุณีทั้งหลาย
+<span class="LineNumber"> 017 </span>                   ผู้ได้ถึง  ได้เห็นนิยามธรรม  การมาของเรา
+<span class="LineNumber"> 018 </span>                   ในสำนักของพระพุทธเจ้าของเรา  เป็นการ
+<span class="LineNumber"> 019 </span>                   มาดีจริงหนอ     วิชชา ๓ อันเราได้บรรลุ
+<span class="LineNumber"> 020 </span>                   แล้วโดยลำดับ   พระศาสนาของพระพุทธ-</B>          

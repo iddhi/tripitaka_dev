@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  หน้า  ๓๒๗
+
+<span class="LineNumber"> 002 </span>		มีฬฺหกสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ปฺจเม  กํสฬกาติ  (๑)  คูถปาณกา ฯ  คูถาทีติ คูถภกฺขา ฯ
+<span class="LineNumber"> 004 </span>คูถปูราติ อนฺโต  คูเถน  ปูริตา ฯ  (๒)  ปุณฺณา คูถสฺสาติ อิทํ
+<span class="LineNumber"> 005 </span>ปุริมสฺเสว อตฺถทีปนํ ฯ อติมฺเยฺยาติ ปจฺฉิมปาเท  ภูมิยํ  
+<span class="LineNumber"> 006 </span>€เปตฺวา  ปุริมปาเท  คูถสฺส  อุปริ  อาโรเปตฺวา €ิตา อหมฺหิ 
+<span class="LineNumber"> 007 </span>คูถาทีติ  ภณนฺตี  อติมฺเยฺย ฯ  ปิณฺฑปาโตปสฺส   ปูโรติ
+<span class="LineNumber"> 008 </span>อปโรปิสฺส ปตฺตปูโร ปณีตปิณฺฑปาโต ภเวยฺย ฯ
+<span class="LineNumber"> 009 </span>			ปฺจมํ ฯ               
+
+<span class="LineNumber"> 010 </span>		อสนิสุตฺตวณฺณนา            
+<span class="LineNumber"> 011 </span>	ฉฏฺเ€  กํ  ภิกฺขเว  อสนิวิจกฺกนฺติ  ภิกฺขเว  กํ  ปุคฺคลํ  
+<span class="LineNumber"> 012 </span>มตฺถเก ปติตฺวา  มทฺทมานํ    สุกฺกาสนิจกฺกํ อาคจฺฉตุ ฯ 
+<span class="LineNumber"> 013 </span>อปฺปตฺตมานสนฺติ อนธิคตารหตฺตํ ฯ อิติ  ภควา  น  สตฺตานํ 
+<span class="LineNumber"> 014 </span>ทุกฺขกามตาย  อาทีนวํ  ทสฺเสตุํ  เอวมาห ฯ  อสนิจกฺกํ หิ
+<span class="LineNumber"> 015 </span>มตฺถเก ปติตํ  เอกเมว  อตฺตภาวํ  นาเสติ  ลาภสกฺการสิโลเกน
+<span class="LineNumber"> 016 </span>ปริยาทิณฺณจิตฺโต  นิรยาทีสุ  อนนฺตทุกฺขํ อนุโภติ ฯ 
+<span class="LineNumber"> 017 </span>			ฉฏฺ€ํ ฯ               
+<span class="LineNumber"> 018 </span># ๑. ม. ยุ. มีฬฺหกาติ ฯ  ๒. ม. ภริตา ฯ

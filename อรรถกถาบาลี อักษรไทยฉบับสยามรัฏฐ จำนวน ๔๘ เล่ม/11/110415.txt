@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑    หน้า  ๔๑๕
+
+<span class="LineNumber"> 002 </span>				อฆมูลสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ทสเม อฆนฺติ ทุกฺขํ เอวเมตฺถ ทุกฺขลกฺขณเมว กถิตํ ฯ
+<span class="LineNumber"> 004 </span>				ทสมํ ฯ     
+
+<span class="LineNumber"> 005 </span>				ปภงฺคุสุตฺตวณฺณนา           
+<span class="LineNumber"> 006 </span>	เอกาทสเม  ปภงฺคุนฺติ  ปภิชฺชนภาวํ ฯ  เอวมิธ  อนิจฺจ-
+<span class="LineNumber"> 007 </span>ลกฺขณเมว  กถิตนฺติ ฯ
+<span class="LineNumber"> 008 </span>				เอกาทสมํ ฯ                 
+<span class="LineNumber"> 009 </span>			ภารวคฺโค ตติโย ฯ           
+
+<span class="LineNumber"> 010 </span>			นตุมฺหากสุตฺตวณฺณนา           
+<span class="LineNumber"> 011 </span>	นตุมฺหากวคฺคสฺส  ป€เม  ปชหถาติ  ฉนฺทราคปฺปหาเนน 
+<span class="LineNumber"> 012 </span>ปชหถ ฯ   ติณาทีสุ  ติณํ  นาม  อนฺโตเผคฺคุ  พหิสารํ  
+<span class="LineNumber"> 013 </span>ตาลนาฬิเกราทิ ฯ  กฏฺ€ํ  นาม อนฺโตสารํ  พหิเผคฺคุ  ขทิร-
+<span class="LineNumber"> 014 </span>สาลสากปนสาทิ ฯ  (๑)  สาขา  นาม  รุกฺขสฺส  พาหา  วิย  นิกฺขนฺตา ฯ 
+<span class="LineNumber"> 015 </span>ปลาสํ นาม ตาลนาฬิเกรปณฺณาทิ ฯ 
+<span class="LineNumber"> 016 </span>				ป€มํ ฯ          
+<span class="LineNumber"> 017 </span># ๑. ม. ขทิรสาลสากปนสาทิ ฯ

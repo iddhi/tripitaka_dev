@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span><B>คนอื่นให้หมดจดไม่ได้ ดังนี้</B><SUP>๑</SUP>   เป็นสูตรมีอยู่จริง มิใช่หรือ ?
+<span class="LineNumber"> 002 </span>                       ป.  ถูกแล้ว. 
+<span class="LineNumber"> 003 </span>                       ส. ถ้าอย่างนั้นก็ไม่พึงกล่าวว่า  บุคคลอื่นข่มจิตเพื่อบุคคล
+<span class="LineNumber"> 004 </span>อื่นได้ดังนี้.
+<span class="LineNumber"> 005 </span>         [๑๖๔๕]  ป. ไม่พึงกล่าวว่า บุคคลอื่นข่มจิตของบุคคลอื่นได้  หรือ ?
+<span class="LineNumber"> 006 </span>                       ส. ถูกแล้ว
+<span class="LineNumber"> 007 </span>                       ป. ชนผู้บรรลุความเป็นผู้มีกำลังมีอยู่  ชนซึ่งเป็นผู้มีความ
+<span class="LineNumber"> 008 </span>ชำนาญมีอยู่  มิใช่หรือ ?
+<span class="LineNumber"> 009 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ป. หากว่า ชนผู้บรรลุความเป็นผู้มีกำลังมีอยู่   ชนซึ่งเป็น
+<span class="LineNumber"> 011 </span>มีความชำนาญมีอยู่   ด้วยเหตุนั้นนะท่านจึงต้องกล่าวว่า   บุคคลอื่นข่มจิต 
+<span class="LineNumber"> 012 </span>ของบุคคลอื่นได้.  
+<span class="LineNumber"> 013 </span>                                  <I>นิคคหกถา  จบ</I> 
+                
+<span class="LineNumber"> 014 </span>                         <H2>อรรถกถานิคคหกถา</H2>
+
+<span class="LineNumber"> 015 </span>                             <H2>ว่าด้วย  การข่ม</H2>
+
+<span class="LineNumber"> 016 </span>         บัดนี้  ชื่อว่าเรื่องการข่ม.    ในเรื่องนั้น  ชนเหล่าใดมีความเห็นผิด 
+<span class="LineNumber"> 017 </span>ดุจลัทธินิกายมหาสังฆิกะทั้งหลายว่า   ผู้ใดมีกำลัง  มีอำนาจในโลก  ถ้าว่า
+<span class="LineNumber"> 018 </span>เขาไม่พึงอาจเพื่อข่มจิตของผู้อื่นได้ไซร้  ความมีกำลัง  หรือความมีอำนาจ
+<span class="LineNumber"> 019 </span>จะมีประโยชน์อะไรแก่ชนเหล่านั้น  ก็เพราะความเป็นผู้มีกำลังและมีอำนาจ
+
+<span class='footnote'>๑.   ขุ.ธ. ๒๕/๒๒.</span>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 497
+
+<span class="LineNumber"> 002 </span>วลฺลิผลานิ ฯ  ตตฺถ  เอกิสฺสา  วลฺลิยา  ผลานิ  มหาฆฏมตฺตานิ
+<span class="LineNumber"> 003 </span>ทฺวินฺนํ มุทิงฺคมตฺตานิ ฯ  เตน วุตฺตํ ฯ มูรมตฺตานิ วา(๑) อุโภติ  
+<span class="LineNumber"> 004 </span>	[๑๑๕๓]อเถตฺถ สาสโป พหุโก  นาทิโย หริตายุโต  
+<span class="LineNumber"> 005 </span>		อสีตาลาว ติฏฺ€นฺติ	เฉชฺชา อินฺทวรา พหู  
+<span class="LineNumber"> 006 </span>		อปฺโผฏา สุริยวลฺลี จ	กาฬิยา มธุคนฺธิยา  
+<span class="LineNumber"> 007 </span>		อโสกา มุทยนฺตี จ		วลฺลิโภ ขุทฺทปุปฺผิโย  
+<span class="LineNumber"> 008 </span>		โกรณฺฑกา อโนชา จ	ปุปฺผิตา นาคมลฺลิกา  
+<span class="LineNumber"> 009 </span>		รุกฺขมารุยฺห ติฏฺ€นฺติ	ผุลฺลา กึสุกวลฺลิโย  
+<span class="LineNumber"> 010 </span>		กเตรุหา ปวาเสนฺติ(๒)	โยธิกา(๓) มธุคนฺธิยา  
+<span class="LineNumber"> 011 </span>		นิลิยา สุมนา ภณฺฑี	โสภติ ปทุมุตฺตโร  
+<span class="LineNumber"> 012 </span>		ปาฏลิสมุทฺทกปฺปาสี	กณิการา จ ปุปฺผิตา  
+<span class="LineNumber"> 013 </span>		เหมชลาว ทิสฺสนฺติ	รุจิรา อคฺคิสิขูปมา(๔)  
+<span class="LineNumber"> 014 </span>		ยานิ ตานิ จ ปุปฺผานิ	ถลชานูทกานิ จ  
+<span class="LineNumber"> 015 </span>		สพฺพานิ ตตฺถ ทิสฺสนฺติ	เอวํ รมฺโม มโหทธีติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  สาสโปติ  สิทฺธตฺถโก ฯ  พหุโกติ  พหุ ฯ  นาทิโย  
+<span class="LineNumber"> 017 </span>หริตายุโตติ  หริเตน  อายุตฺโต  นาทิโย  อิมา  เทฺวปิ  ลสุนชาติโย  
+<span class="LineNumber"> 018 </span>โสปิ  ลสุโน  ตตฺถ  พหุโกติ  อตฺโถ ฯ  อสีตาลาว  ติฏฺ€นฺตีติ 
+<span class="LineNumber"> 019 </span>อสีติ  เอวํ  นามกา  รุกฺขา  สินิทฺธาย  ภูมิยา  อุปฏฺ€ิตา(๕)  ตาลา
+<span class="LineNumber"> 020 </span># ๑. ม. มุรชมตฺตานิ ตา ฯ  ๒. ม. จ วาสนฺติ ฯ  ๓. ม. ยูธิกา ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. รุจิรคฺคิ สิขูปมา ฯ  ๕. ม. €ิตา ฯ

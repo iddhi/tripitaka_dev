@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  246
+
+<span class="LineNumber"> 002 </span>มนุฺฏฺ€าเน  นิสีทิตฺวา  สมณธมฺมํ  อกาสิ ฯ  เตปิ  จตฺตาโร
+<span class="LineNumber"> 003 </span>ชนา  สายณฺหสมเย  สกสกฏฺ€านา(๑)  นิกฺขมิตฺวา  มงฺคลโปกฺขรณีตีเร 
+<span class="LineNumber"> 004 </span>สมาคนฺตฺวา  อฺมฺํ  โอโลเกตฺวา  ปุพฺพสิเนหวเสน  สมคฺคา 
+<span class="LineNumber"> 005 </span>สมฺโมทมานา  หุตฺวา  อฺมฺํ  เมตฺตจิตฺตํ  ปจฺจุปฏฺ€เปตฺวา(๒)
+<span class="LineNumber"> 006 </span>มธุรปฏิสนฺถารํ  กตฺวา  (๓) [๔] สกฺโกปิ  มงฺคลสิลาตเล  นิสีทิ  อิตเร(๕)
+<span class="LineNumber"> 007 </span>อตฺตโน  อตฺตโน  ยุตฺตํ (๖) โอกาสํ  ตฺวา  นิสีทึสุ ฯ  อถ  เน  
+<span class="LineNumber"> 008 </span>สกฺโก  อาห  มยํปิ  จตฺตาโร  ราชาโนว  สมาทินฺนุโปสถา (๗) อมฺเหสุ 
+<span class="LineNumber"> 009 </span>ปน  กสฺส  สีลํ  มหนฺตนฺติ ฯ  อถ  นํ  วรุณนาคราชา  อาห  
+<span class="LineNumber"> 010 </span>ตุมฺหากํปิ  ติณฺณํ  ชนานํ  สีลโต  มยฺหเมว (๘) สีลํ  มหนฺตนฺติ ฯ
+<span class="LineNumber"> 011 </span>กิเมตฺถ  การณนฺติ ฯ  อยํ  ตาว  สุปณฺณราชา  อมฺหากํ  
+<span class="LineNumber"> 012 </span>ชาตานมฺปิ  อชาตานมฺปิ  ปจฺจามิตฺโต  อหํ  เอวรูปํ  อมฺหากํ  
+<span class="LineNumber"> 013 </span>ชีวิตกฺขยกรํ  ปจฺจามิตฺตํ  ทิสฺวาปิ  ตสฺส (๙) โกปํ (๑๐) น  กโรมิ  อิมินา
+<span class="LineNumber"> 014 </span>การเณน  มม  สีลํ  มหนฺตนฺติ  วตฺวา  อิทํ  ทสนิปาเต(๑๑)  
+<span class="LineNumber"> 015 </span>จตุโปสถชาตเก ป€มํ คาถมาห  
+<span class="LineNumber"> 016 </span>		โย โกปเนยฺเย น กโรติ โกปํ  
+<span class="LineNumber"> 017 </span>		น กุชฺฌติ สปฺปุริโส กทาจิ  
+<span class="LineNumber"> 018 </span>		กุทฺโธปิ โส นาวีกโรติ โกปํ  
+<span class="LineNumber"> 019 </span>		ตํ เว นรํ สมณมาหุ โลเกติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. สกฏฺ€าเนหิ ฯ  ๒. ม. อุปฏฺ€เปตฺวา ฯ  ๓. ม. กรึสุ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. เอตฺถนฺตเร เตสูติ ทิสฺสติ ฯ  ๕. ม. อิตเรปิ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ยุตฺตาสนํ ฯ  ๗. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม. มยฺหนฺติ ฯ  ๙. ม. ตสฺสาติ ฯ  ๑๐. ม.โกธํ ฯ
+<span class="LineNumber"> 024 </span># ๑๑. ม. ทสกนิปาเต ฯ 

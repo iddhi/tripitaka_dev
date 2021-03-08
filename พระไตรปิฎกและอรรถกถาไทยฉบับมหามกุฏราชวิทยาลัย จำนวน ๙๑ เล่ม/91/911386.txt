@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๑๑๕]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                  <H2>อทุกขมสุขายเวทนายสัมปยุตตบท</H2>
+<span class="LineNumber"> 004 </span>           [๑๑๑๖] ๑.  <B>อทุกขมสุขายเวทนายสัมปยุตตธรรม   ที่เป็นอนิ-
+<span class="LineNumber"> 005 </span>ทัสสนอัปปฏิฆธรรม   อาศัยธรรมที่ไม่ใช่อทุกขมสุขายเวทนายสัมป-
+<span class="LineNumber"> 006 </span>ยุตตธรรม ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 007 </span>                                                <H2>ฯลฯ</H2>
+<span class="LineNumber"> 008 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๑๑๑๗]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>          <I>นสนิทัสสนติกนเวทนาติกสนิทัสสนติกเวทนาติกะ จบ</I>

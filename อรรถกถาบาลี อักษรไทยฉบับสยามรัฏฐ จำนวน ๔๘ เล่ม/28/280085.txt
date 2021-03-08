@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 85
+
+<span class="LineNumber"> 002 </span>เอวํ  อเจตนภาเวน   วิย  มหาทุกฺขํ  อธิวาเสนฺตสฺส  ขนฺติปารมิตา  
+<span class="LineNumber"> 003 </span>ปรมตฺถปารมี นาม ชาตา ฯ มหาสุตโสมชาตเก  
+<span class="LineNumber"> 004 </span>	สจฺจวาจํ อนุรกฺขนฺโต	จชิตฺวา มม ชีวิตํ  
+<span class="LineNumber"> 005 </span>	โมเจสึ เอกสตํ ขตฺติเย	เอสา เม สจฺจปารมีติ (๑)  
+<span class="LineNumber"> 006 </span>เอวํ  ชีวิตํ  จชิตฺวา สจฺจมนุรกฺขนฺตสฺส สจฺจปารมิตา
+<span class="LineNumber"> 007 </span>ปรมตฺถปารมี  นาม ชาตา ฯ มูคปกฺขชาตเก  
+<span class="LineNumber"> 008 </span>	มาตา ปิตา น เม เทสฺสา	นปิ เทสฺสํ มหายสํ
+<span class="LineNumber"> 009 </span>	สพฺพฺุตํ ปิยํ มยฺหํ	ตสฺมา วตมธิฏฺ€หินฺติ (๒) ฯ  
+<span class="LineNumber"> 010 </span>เอวํ  ชีวิตํปิ  จชิตฺวา  วตํ  อธิฏฺ€หนฺตสฺส อธิฏฺ€านปารมิตา 
+<span class="LineNumber"> 011 </span>ปรมตฺถปารมี  นาม ชาตา ฯ สุวณฺณสามชาตเก  
+<span class="LineNumber"> 012 </span>	น มํ โกจิ อุตฺตสติ		นปิหํ ภายามิ กสฺสจิ  
+<span class="LineNumber"> 013 </span>	เมตฺตาพเลนุปตฺถทฺโธ	รมามิ ปวเน (๓)สทาติ (๔)  
+<span class="LineNumber"> 014 </span>เอวํ  ชีวิตํปิ  อโนโลเกตฺวา  เมตฺตายนฺตสฺส  เมตฺตาปารมิตา  
+<span class="LineNumber"> 015 </span>ปรมตฺถปารมี นาม ชาตา ฯ โลมหํสชาตเก  
+<span class="LineNumber"> 016 </span>	สุสาเน เสยฺยํ กปฺเปมิ		ฉวฏฺ€ิกํ อุปธายหํ 
+<span class="LineNumber"> 017 </span>	คามมณฺฑลา  อุปาคนฺตฺวาน(๕)  รูปํ ทสฺเสนฺติน(๖)ปฺปกนฺติ (๗)  
+<span class="LineNumber"> 018 </span>เอวํ  คามทารเกสุ  นิฏฺ€ุภนาทีหิ  เจว  มาลาคนฺธูปหาราทีหิ  จ  
+<span class="LineNumber"> 019 </span># ๑. สี. ปรมตฺถสจฺจปารมีติ ฯ  ๒. ขุ. จริยา. ๓๓/๒๑/๕๗๑ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม.ตทาติ ฯ  ๔. ขุ. จริยา. ๓๓/๓๓/๕๙๓ ฯ  ๕. สี. ยุ. โคมณฺฑลา 
+<span class="LineNumber"> 021 </span># อุปคนฺตฺวา ฯ  ม. คามณฺฑลา อุปาคนฺตฺวา ฯ ๖. ม.ทสฺเสนฺตินปฺปกนฺติ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ขุ. จริยา. ๓๓/๓๕/๕๙๔ ฯ 

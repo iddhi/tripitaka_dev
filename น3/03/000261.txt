@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>แล  ภิกษุทั้งหลายจักถามเจ้าอย่างนี้  อาพาธเหมือนอย่างนี้ของเจ้า 
+<span class="LineNumber"> 002 </span>มีหรือ ?
+<span class="LineNumber"> 003 </span>                        ถาม                                        ตอบ
+<span class="LineNumber"> 004 </span>           โรคเรื้อน                                       ไม่มี  เจ้าข้า
+<span class="LineNumber"> 005 </span>           ฝี                                                  ไม่มี  เจ้าข้า
+<span class="LineNumber"> 006 </span>           โรคกลาก                                       ไม่มี  เจ้าข้า
+<span class="LineNumber"> 007 </span>           โรคมองคร่อ                                   ไม่มี  เจ้าข้า 
+<span class="LineNumber"> 008 </span>           ลมบ้าหมู                                        ไม่มี  เจ้าข้า
+<span class="LineNumber"> 009 </span>           เจ้าเป็นมนุษย์หรือ ?                        ขอรับ  เจ้าข้า 
+<span class="LineNumber"> 010 </span>           เจ้าเป็นชายหรือ ?                            ขอรับ  เจ้าข้า
+<span class="LineNumber"> 011 </span>           เจ้าเป็นไท  [ มิใช่ทาส ]  หรือ ?          ขอรับ  เจ้าข้า
+<span class="LineNumber"> 012 </span>           เจ้าหาหนี้สินมิได้หรือ ?                      ขอรับ  เจ้าข้า
+<span class="LineNumber"> 013 </span>           เจ้ามิใช้ราชภัฏ  [ คนอันพระราชา
+<span class="LineNumber"> 014 </span>           ชุบเลี้ยง  คือ  ข้าราชการ ]  หรือ ?        ขอรับ  เจ้าข้า   
+<span class="LineNumber"> 015 </span>           เจ้าเป็นผู้อันมารดาบิดาอนุญาต
+<span class="LineNumber"> 016 </span>           แล้วหรือ ?                                           ขอรับ  เจ้าข้า
+<span class="LineNumber"> 017 </span>           เจ้ามีปี  [ อายุ ]  ครบ  ๒๐                     
+<span class="LineNumber"> 018 </span>           แลหรือ ?                                              ขอรับ  เจ้าข้า
+<span class="LineNumber"> 019 </span>           บาตรจีวรของเจ้ามีครบ
+<span class="LineNumber"> 020 </span>           แล้วหรือ ?                                             ขอรับ  เจ้าข้า
+<span class="LineNumber"> 021 </span>           เจ้าชื่ออะไร ?                                         ข้าพเจ้าชื่อ----
+         

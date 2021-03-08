@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>๑๖.  สัฏฐีกูฏหัสสเปตวัตถุ</H1>     
+
+<span class="LineNumber"> 002 </span>                       <H2>ว่าด้วยเปรตถูกฆ้อนต่อยศีรษะ</H2>
+
+<span class="LineNumber"> 003 </span>        วันหนึ่ง     พระมหาโมคคัลลานเถระลงจากเขาคิชฌกูฏ  ได้
+<span class="LineNumber"> 004 </span>เห็นเปรตตนหนึ่ง  จึงซักถามด้วยคาถาว่า :-
+<span class="LineNumber"> 005 </span>        <B>[๑๓๖]             ทำไมหนอ     ท่านจึงวิ่งพล่านไปเหมือน
+<span class="LineNumber"> 006 </span>             	คนบ้า  เหมือนเนื้อผู้ระแวงภัย   ท่านมาร้องอื้ออึง
+<span class="LineNumber"> 007 </span>               	ไปทำไม ท่านคงทำบาปกรรมไว้เป็นแน่.</B>
+<span class="LineNumber"> 008 </span>        เปรตนั้นตอบว่า  :-
+<span class="LineNumber"> 009 </span>                              <B>ข้าแต่ท่านผู้เจริญ     ข้าพเจ้าเป็นเปรตเสวย
+<span class="LineNumber"> 010 </span>             	ทุกข์  เกิดในยมโลก   เพราะทำบาปกรรมไว้   จึง
+<span class="LineNumber"> 011 </span>           	จากมนุษยโลกนี้ไปสู่เปตโลก   ฆ้อนเหล็ก ๖  หมื่น
+<span class="LineNumber"> 012 </span>             	ครบบริบูรณ์โดยประการทั้งปวง    ตกใส่ศีรษะ
+<span class="LineNumber"> 013 </span>            	และต่อยกระหม่อมของข้าพเจ้า.</B>
+<span class="LineNumber"> 014 </span>        พระเถระถามว่า :-
+<span class="LineNumber"> 015 </span>                             <B>ท่านทำกรรมชั่วอะไรไว้ด้วยกาย     วาจา
+<span class="LineNumber"> 016 </span>            	ใจ   เพราะผลแห่งกรรมอะไร   ท่านจึงได้รับทุกข์
+<span class="LineNumber"> 017 </span>           	เช่นนี้  อนึ่งฆ้อนเหล็ก  ๖ หมื่น ครบบริบูรณ์โดย
+<span class="LineNumber"> 018 </span>            	ประการทั้งปวง    ตกใส่ศีรษะและต่อยศีรษะของ
+<span class="LineNumber"> 019 </span>             	ท่าน  เพราะผลแห่งกรรมอะไร.</B>

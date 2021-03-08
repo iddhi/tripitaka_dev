@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คำว่า  <B>เกินกว่านั้น</B>     ความว่า    ภิกษุณียินดีสัมผัสให้ล่วงเลยเข้าไป
+<span class="LineNumber"> 002 </span>โดยที่สุดแม้ชั่วปลายเส้นผม   ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 003 </span>                                           <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 004 </span>                                         <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 005 </span>            [๑๖๖]   เกินสองข้อองคุลี   ภิกษุณีสำคัญว่าเกิน   ใช้ชำระ  ต้องอาบัติ
+<span class="LineNumber"> 006 </span>ปาจิตตีย์
+<span class="LineNumber"> 007 </span>            เกินสองข้อองคุลี  ภิกษุณีสงสัย  ใช้ชำระ  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 008 </span>            เกินสองข้อองคุลี ภิกษุณีสำคัญว่าไม่ถึง  ใช้ชำระ  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 009 </span>                                          <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 010 </span>            ไม่ถึงสองข้อองคุลี  ภิกษุณีสำคัญว่าเกิน  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 011 </span>            ไม่ถึงสองข้อองคุลี  ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 012 </span>                                       <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 013 </span>            ไม่ถึงสองข้อองคุลี  ภิกษุณีสำคัญว่าไม่ถึง   ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 014 </span>                                         <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 015 </span>             [๑๖๗]   ใช้ชำระลึกเพียงสองข้อองคุลี  ๑   ใช้ชำระลึกไม่ถึงสองข้อ 
+<span class="LineNumber"> 016 </span>องคุลี  ๑   เพราะเหตุอาพาธ  ๑   วิกลจริต ๑   อาทิกัมมิกา ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 017 </span>                                   <I>ลสุณวรรค  สิกขาบทที่  ๕  จบ</I>

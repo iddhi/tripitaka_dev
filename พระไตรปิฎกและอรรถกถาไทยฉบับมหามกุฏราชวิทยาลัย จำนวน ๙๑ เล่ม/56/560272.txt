@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                          <B>รวมชาดกที่มีในวรรคนี้  คือ</B>
+<span class="LineNumber"> 002 </span>            ๑.  วรุณชาดก         ๒.  สีลวนาคชาดก       ๓.  สัจจังกิรชาดก
+<span class="LineNumber"> 003 </span>๔.  รุกขธรรมชาดก      ๕.  มัจฉชาดก    ๖.  อสังกิยชาดก    ๗.  มหา-
+<span class="LineNumber"> 004 </span>สุบินชาดก   ๘.  อิลลีสชาดก      ๙.  ขรัสสรชาดก   ๑๐.  ภีมเสนชาดก.
+<span class="LineNumber"> 005 </span>	                   <I>จบ  วรุณวรรคที่  ๘</I>

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๙. ชาครชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                          <H1>ว่าด้วยผู้หลับและผู้ตื่น</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๑๐๐]   เมื่อคนทั้งหลายในโลกนี้ตื่นอยู่    ใคร
+<span class="LineNumber"> 004 </span>           เป็นผู้หลับแล้ว  แต่เมื่อคนทั้งหลายในโลกนี้
+<span class="LineNumber"> 005 </span>           หลับแล้ว   ใครเป็นผู้ตื่น      ใครเข้าใจปัญหา 
+<span class="LineNumber"> 006 </span>           ข้อนี้ของเรา      ใครจะแก้ปัญหาข้อนี้ของเรา
+<span class="LineNumber"> 007 </span>           ได้. 
+<span class="LineNumber"> 008 </span>         [๑๑๐๑]   เมื่อพระอริยเจ้าทั้งหลายตื่นอยู่    ข้าพเจ้า
+<span class="LineNumber"> 009 </span>           เป็นผู้หลับแล้ว    แต่เมื่อคนทั้งหลายหลับแล้ว
+<span class="LineNumber"> 010 </span>           ข้าพเจ้าเป็นผู้ตื่น    ข้าพเจ้าเข้าใจปัญหาข้อนั้น
+<span class="LineNumber"> 011 </span>           ข้าพเจ้าจะแก้ปัญหาของท่านได้. 
+<span class="LineNumber"> 012 </span>         [๑๑๐๒]   เมื่อคนทั้งหลายตื่นอยู่      ท่านจะเป็นผู้
+<span class="LineNumber"> 013 </span>           หลับได้อย่างไร       เมื่อคนทั้งหลายหลับแล้ว
+<span class="LineNumber"> 014 </span>           ท่านจะเป็นผู้ตื่นได้อย่างไร   ท่านเข้าใจปัญหา
+<span class="LineNumber"> 015 </span>           ข้อนี้อย่างไร        ท่านจะแก้ปัญหาของข้าพเจ้า
+<span class="LineNumber"> 016 </span>           อย่างไร ?</B>

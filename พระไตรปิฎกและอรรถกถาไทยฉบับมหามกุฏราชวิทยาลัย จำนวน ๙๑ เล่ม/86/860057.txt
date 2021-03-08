@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>         <B>ปัจจัย ๘</B>  คือ   ฌานะ    สหชาตะ   อัญญมัญญะ      นิสสยะ   วิปากะ
+<span class="LineNumber"> 002 </span>สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ. 
+<span class="LineNumber"> 003 </span>         <B>ปัจจัย ๘</B>  คือ  ฌานะ  สหชาตะ   อัญญมัญญะ   นิสสยะ  อินทริยะ
+<span class="LineNumber"> 004 </span>สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.  
+<span class="LineNumber"> 005 </span>         <B>ปัจจัย ๙</B>   คือ   ฌานะ   สหชาตะ   อัญญมัญญะ    นิสสยะ   วิปากะ
+<span class="LineNumber"> 006 </span>อินทริยะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 007 </span>         <B>ปัจจัย ๘</B>  คือ   ฌานะ   สหชาตะ   อัญญมัญญะ     นิสสยะ   มัคคะ
+<span class="LineNumber"> 008 </span>สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 009 </span>         <B>ปัจจัย ๙</B>  คือ   ฌานะ   สหชาตะ   อัญญมัญญะ    นิสสยะ  วิปากะ
+<span class="LineNumber"> 010 </span>มัคคะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 011 </span>         <B>ปัจจัย  ๙</B>   คือ  ฌานะ  สหชาตะ   อัญญมัญญะ    นิสสยะ  อินทริยะ
+<span class="LineNumber"> 012 </span>มัคคะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.                           
+<span class="LineNumber"> 013 </span>         <B>ปัจจัย ๑๐</B>  คือ  ฌานะ  สหชาตะ   อัญญมัญญะ    นิสสยะ   วิปากะ
+<span class="LineNumber"> 014 </span>อินทริยะ   มัคคะ   สัมปยุตตะ   อัตถิ   อวิคตปัจจัย   มี ๒ วาระ.
+
+<span class="LineNumber"> 015 </span>                                      <H1>๑๘.  มัคคมูลกนัย</H1>  
+<span class="LineNumber"> 016 </span>                                           <H1>มัคคสภาคะ</H1>
+<span class="LineNumber"> 017 </span>         [๑๒๑๕]  <B>เพราะมัคคะปัจจัย</B>    ในเหตุปัจจัย    มี ๒ วาระ . . . ใน
+<span class="LineNumber"> 018 </span>อธิปติปัจจัย   มี ๓ วาระ   ในสหชาตปัจจัย   มี ๓ วาระ   ในอัญญมัญญปัจจัย
+<span class="LineNumber"> 019 </span>มี ๓ วาระ    ในนิสสยปัจจัย   มี ๓ วาระ    ในวิปากปัจจัย   มี ๒ วาระ   ใน
+<span class="LineNumber"> 020 </span>อินทริยปัจจัย  มี ๓ วาระ   ในฌานปัจจัย   มี ๓ วาระ   ในสัมปยุตตปัจจัย  มี
+<span class="LineNumber"> 021 </span>๓ วาระ   ในอัตถิปัจจัย   มี ๓ วาระ   ในอวิคตปัจจัย   มี ๓ วาระ.

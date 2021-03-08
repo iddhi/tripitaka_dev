@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  278
+
+<span class="LineNumber"> 002 </span>	ตํ  สุตฺวา  อิตโร  อยํ  ราชา  มม  นามํ  ปุจฺฉติ  
+<span class="LineNumber"> 003 </span>ปุณฺณโก  นาม (๑) ทาโส  โหติ  สจาหํ  ปุณฺณโกสฺมีติ  วกฺขามิ 
+<span class="LineNumber"> 004 </span>เอส  เอโก  ทาโส กสฺมา  มํ  ปคพฺภตาย  เอวํ  วทตีติ (๒)
+<span class="LineNumber"> 005 </span>อวมฺิสฺสติ  อนนฺตราตีเต  อตฺตโน  อตฺตภาเว นามมสฺส 
+<span class="LineNumber"> 006 </span>กเถสฺสามีติ จินฺเตตฺวา คาถมาห  
+<span class="LineNumber"> 007 </span>	[๙๑๗]กจฺจายโน มาณวโกสฺมิ ราช  
+<span class="LineNumber"> 008 </span>		อนูนนาโม อิติ มาหุยนฺติ  
+<span class="LineNumber"> 009 </span>		องฺเคสุ เม าตกา(๓) พนฺธวา จ  
+<span class="LineNumber"> 010 </span>		อตฺเถน เทวสฺมิ อิธานุปฺปตฺโตติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  อนูนนาโมติ  นโอนนาโม(๔)  อิมินา  อตฺตโน
+<span class="LineNumber"> 012 </span>ปุณฺณนามเมว  ปฏิจฺฉนฺนํ  กตฺวา  กเถสิ ฯ  อิติ  มาหุยนฺตีติ  อิติ 
+<span class="LineNumber"> 013 </span>มํ  อาหุยนฺติ  ปกฺโกสนฺติ  าตโย ฯ  องฺเคสูติ  องฺครฏฺเ€ 
+<span class="LineNumber"> 014 </span>กาลจมฺปากนคเร วสนฺติ ฯ  อตฺเถน เทวสฺมีติ เทว ชูตกีฬนตฺเถน 
+<span class="LineNumber"> 015 </span>อิธานุปฺปตฺโตสฺมิ(๕) ฯ  
+<span class="LineNumber"> 016 </span>	อถ  นํ  ราชา  มาณว  ตฺวํ  ชูเตน  ชิโต  กึ  ทสฺสสิ 
+<span class="LineNumber"> 017 </span>กินฺเต(๖)  อตฺถีติ ปุจฺฉนฺโต คาถมาห  
+<span class="LineNumber"> 018 </span>	[๙๑๘]กึ มาณวสฺส รตนานิ อตฺถิ  
+<span class="LineNumber"> 019 </span>		เย ตํ ชินนฺโต หเร อกฺขธุตฺโต  
+<span class="LineNumber"> 020 </span># ๑. ม. ปุณฺณโก จ นาม ฯ  ๒. ม. วเทตีติ ฯ  ๓. ม. าตโย ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. น อูนนาโม ฯ ๕. ม. อิธ อนุปฺปตฺโตสฺมิ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. กึ เต ฯ

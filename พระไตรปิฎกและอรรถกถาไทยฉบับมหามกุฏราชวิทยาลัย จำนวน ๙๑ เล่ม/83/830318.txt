@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         ไม่ใช่. 
+<span class="LineNumber"> 002 </span>          <I>จบ กามราคานุสย - ปฏิฆานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 003 </span><H2>กามราคานุสย - ปฎิฆานุสยมูละ อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         บุคคลละกามราคานุสัย     และปฏิฆานุสัย    จากที่ใด    ย่อมละ
+<span class="LineNumber"> 005 </span>อวิชชานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ไม่มี.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  บุคคลละอวิชชานุสัย   จากที่ใด,  ย่อมละกามราคานุสัย
+<span class="LineNumber"> 008 </span>และปฏิฆานุสัย   จากที่นั้น   ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         บุคคลละอวิชชานุสัย   จากที่นั้น   คือที่รูปธาตุ   อรูปธาตุ    แต่
+<span class="LineNumber"> 010 </span>ไม่ใช่ย่อมละกามราคานุสัย   และปฏิฆานุสัย   จากที่นั้น,   บุคคลย่อมละ
+<span class="LineNumber"> 011 </span>อวิชชานุสัย  และกามราคานุสัย  จากที่นั้น  คือที่เวทนา ๒   ในกามธาตุ
+<span class="LineNumber"> 012 </span>แต่ไม่ใช่ย่อมละกามราคานุสัย   จากที่นั้น     บุคคลย่อมละอวิชชานุสัย
+<span class="LineNumber"> 013 </span>และปฏิฆานุสัย   จากที่นั้น  คือที่ทุกขเวทนา    แต่ไม่ใช่ย่อมละกามรา-
+<span class="LineNumber"> 014 </span>คานุสัย   จากที่นั้น.
+<span class="LineNumber"> 015 </span>           <I>จบ   กามราคานุสย - ปฏิฆานุสยมูละ  อวิชชานุสยมูลี
+<span class="LineNumber"> 016 </span>               กามราคานุสย - ปฏิฆานุสย - มานานุสยมูล  จบ</I>
+<span class="LineNumber"> 017 </span>                                        <I>ทุกมูลกะ  จบ</I> 

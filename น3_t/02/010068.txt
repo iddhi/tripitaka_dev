@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>	<B>อุปมาแห่งชีวิตซึ่งแสดงไว้ในอรกสูตรรวม  ๗  ข้อ  คือ :-</B> 
+<span class="LineNumber"> 002 </span>	๑.  อุปมาเหมือนหยาดน้ำค้าง.
+<span class="LineNumber"> 003 </span>	๒.  อุปมาเหมือนต่อมน้ำ.    
+<span class="LineNumber"> 004 </span>	๓.  อุปมาเหมือนรอยไม้ที่ขีดลงในน้ำ.
+<span class="LineNumber"> 005 </span>	๔.  อุปมาเหมือนลำธารอันไหลมาจากภูเขา.
+<span class="LineNumber"> 006 </span>	๖.  อุปมาเหมือนชิ้นเนื้อนาบไฟ.
+<span class="LineNumber"> 007 </span>	๗.  อุปมาเหมือนโคที่เขาจะฆ่า.
+
+<span class="LineNumber"> 008 </span>                                         มหาสติปัฏฐาน
+<span class="LineNumber"> 009 </span>	ธรรมเป็นที่ตั้งแห่งสติอย่างใหญ่  ชื่อมหาสติปัฏฐาน  พระผู้มี
+<span class="LineNumber"> 010 </span>พระภาคตรัสแก่เหล่าภิกษุ  ในเวลาที่พระองค์ประทับอยู่ในหมู่ชนชาวกุรุ
+<span class="LineNumber"> 011 </span>ในนิคมชื่อกัมมาสธัมมะ.
+<span class="LineNumber"> 012 </span>	มหาสติปัฏฐาน  เป็นเอกายนมรรค 	คือเป็นทางไปทางเดียว
+<span class="LineNumber"> 013 </span>เพื่อให้ได้รับอานิสงส์  ๕  คือ  :-
+<span class="LineNumber"> 014 </span>	๑.  <B>สตฺตานํ  วิสุทฺธิยา</B>			เพื่อความบริสุทธิ์  แห่ง
+<span class="LineNumber"> 015 </span>							สัตว์ทั้งหลาย.
+<span class="LineNumber"> 016 </span>	๒.  <B>โสกปริเทวานํ  สมติกฺกมาย</B> 		เพื่อข้ามพ้น  โสกะ  และ
+<span class="LineNumber"> 017 </span>							ปริเทวะ.
+<span class="LineNumber"> 018 </span>	๓.  <B>ทุกฺขโทมสฺสานํ  อตฺถงฺคมาย</B>		เพื่อความดับสูญ  แห่ง
+<span class="LineNumber"> 019 </span>							ทุกข์และโทมนัส.

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๑๒.  นโลกิยทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                      <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 004 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>          [๗๖]  ๑.   <B>ธรรมที่ไม่ใช่โลกิยธรรม อาศัยธรรมที่ไม่ใช่โลกิย-
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 007 </span>                   ๒.   <B>ธรรมที่ไม่ใช่โลกุตรธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 008 </span>โลกิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 009 </span>                   ๓.   <B>ธรรมที่ไม่ใช่โลกิยธรรม  และไม่ใช่โลกุตตรธรรม
+<span class="LineNumber"> 010 </span>อาศัยธรรมที่ไม่ใช่โลกิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 011 </span>                   ๔.  <B>ธรรมที่ไม่ใช่โลกุตตรธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 012 </span>โลกุตตรธรรม  เกิดขึ้น   เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 013 </span>                   ๕.   <B>ธรรมที่ไม่ใช่โลกุตตรธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 014 </span>โลกิยธรรม  และไม่ใช่โลกุตตรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B> 
+
+<span class="LineNumber"> 015 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๗๗]  ในเหตุปัจจัย มี  ๕  วาระ  ในอารัมมณปัจจัย มี  ๒  วาระ  ฯลฯ
+<span class="LineNumber"> 017 </span>ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 018 </span>           พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 019 </span>                                          <I>นโลกิยทุกะ  จบ</I>

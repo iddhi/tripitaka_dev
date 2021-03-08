@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  327
+
+<span class="LineNumber"> 002 </span>			เอวมฺปิ อนุปาเยน		อตฺถํ น ลภเต มูโค (๑) 
+<span class="LineNumber"> 003 </span>			วิสาณโต ควํ โทหํ		ยตฺถ ขีรํ น วินฺทติ  
+<span class="LineNumber"> 004 </span>			วิวิเธหิ อุปาเยหิ			อตฺถํ ปปฺโปนฺติ มาณวา  
+<span class="LineNumber"> 005 </span>			นิคฺคเหน อมิตฺตานํ		มิตฺตานํ ปคฺคเหน จ  
+<span class="LineNumber"> 006 </span>			เสนีโมกฺขูปลาเภน (๒)	วลฺลภานํ นเยน จ  
+<span class="LineNumber"> 007 </span>			ชคตึ ชคตีปาลา			อาวสนฺติ วสุนฺธรนฺติ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  สนฺตมฺหิ  ปชฺโชเตติ  อคฺคิมฺหิ  สนฺเต ฯ  อคฺคิปริเยสนํ  
+<span class="LineNumber"> 009 </span>จรนฺติ  อนุปาเยน  จรนฺโต ฯ  อทฺทกฺขีติ  ปสฺสิ ฯ  ปสฺสิตฺวา  
+<span class="LineNumber"> 010 </span>ปน  วณฺณสามฺตาย  จ  ตํ  ชาตเวโท  อยํ  ภวิสฺสตีติ  เอวํ 
+<span class="LineNumber"> 011 </span>มฺิตฺถ ฯ  สวาสฺสาติ  โส  อสฺส  ขชฺโชปนกสฺส  อุปริ  สุขุมานิ  
+<span class="LineNumber"> 012 </span>โคมยจุณฺณานิ  เจว  ติณานิ  จ ฯ  อภิมตฺถนฺติ  หตฺเถหิ  ฆํสิตฺวา  
+<span class="LineNumber"> 013 </span>อากีรนฺโต  ชณฺณุเกหิ  ภูมิยํ  ปติฏฺ€าย  มุเขน  ธมนฺโต  ชาเลสฺสามิ  
+<span class="LineNumber"> 014 </span>นนฺติ วิปรีตาย  สฺาย  วายมนฺโตปิ  สฺชาเลตุํ  นาสกฺขิ  
+<span class="LineNumber"> 015 </span>โก  นาเมโส ฯ  มูโคติ  มูคสทิโส  (๓) อนฺธพาโล  เอวํ  อนุปาเยน 
+<span class="LineNumber"> 016 </span>ปริเยสนฺโตปิ  ตมตฺถํ  น  ลภติ ฯ  ยตฺถาติ  ยสฺมึ  วิสาเณ  ขีรเมว
+<span class="LineNumber"> 017 </span>นตฺถิ  ตโต  วิสาณโต  คาวึ  ทูหนฺโต  วิย  จ  อตฺถํ  น  วินฺทติ ฯ  
+<span class="LineNumber"> 018 </span>เสนีโมกฺขูปลาเภนาติ  เสนิปฺปมุขานํ (๔) อมจฺจานํ  อุปลาเภน ฯ  
+<span class="LineNumber"> 019 </span>วลฺลภานํ  นเยน  จาติ  ปิยมนาปานํ  วิสฺสาสิกอมจฺจานํ  นเยน  
+<span class="LineNumber"> 020 </span>จ ฯ  อิมํ ว สุสํขาตานํ รตนานํ  ธารณโต วสุนฺธรนฺติ 
+<span class="LineNumber"> 021 </span># ๑. ม. มิโค ฯ  ยุ. มโค ฯ  ๒. ม. เสนาโมกฺขปลาเภน ฯ  
+<span class="LineNumber"> 022 </span>ยุ. เสณีโมกฺขปลาเภน ฯ  ๓. ม. มิคสทิโส ฯ  ยุ. มคสทิโส ฯ
+<span class="LineNumber"> 023 </span># ๔. ม. เสนาโมกฺขานํ ฯ

@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๑๐.  อปจายิกสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                      <H1>ว่าด้วยสัตว์ผู้นอบน้อมต่อผู้เจริญมีน้อย</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๗๖๕]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน  สัตว์ผู้นอบน้อม
+<span class="LineNumber"> 004 </span>ต่อบุคคลผู้เจริญในสกุล  มีน้อย  โดยที่แท้  สัตว์ผู้ไม่นอบน้อมต่อบุคคลผู้เจริญ
+<span class="LineNumber"> 005 </span>ในสกุล  มีมากกว่า  ฯลฯ
+<span class="LineNumber"> 006 </span>   	                            <I>จบอปจายิกสูตรที่  ๑๐</I>
+<span class="LineNumber"> 007 </span>                         <I>จบอามกธัญญเปยยาล  ปฐมวรรคที่  ๗</I>
+
+<span class="LineNumber"> 008 </span>                           <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 009 </span>           ๑.  อัญญตรสูตร  ๒.  ปัจจันตสูตร  ๓. ปัญญาสูตร  ๔. สุราเมรัยสูตร
+<span class="LineNumber"> 010 </span>๕.  อุทกสูตร   ๖.  มัตเตยยสูตร  ๗.  เปตเตยยสูตร  ๘.  สามัญญสูตร
+<span class="LineNumber"> 011 </span>๙. พราหมัญญสูตร  ๑๐.  อปจายิกสูตร.

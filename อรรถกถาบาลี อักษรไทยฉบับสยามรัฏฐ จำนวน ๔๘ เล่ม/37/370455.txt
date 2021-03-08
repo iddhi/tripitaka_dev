@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 455
+
+<span class="LineNumber"> 002 </span>		กจฺจิ ปิตา อโรโค เต	สิวีนฺจ อนามยํ  
+<span class="LineNumber"> 003 </span>		โก เต พลํ มหาราช	โก นุ เต รถมณฺฑลํ  
+<span class="LineNumber"> 004 </span>		อนสฺสโก อรถโก		ทีฆมทฺธานมาคโต  
+<span class="LineNumber"> 005 </span>		กจฺจามิตฺเตหิ ปกโต	อนุปฺปตฺโตสิมํ ทิสนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ทิสฺวาติ  ทูรโตว ปสฺสิตฺวา ฯ เจตปาโมกฺขาติ
+<span class="LineNumber"> 007 </span>เจตราชาโน ฯ  อุปาคมุนฺติ  อุปสงฺกมึสุ ฯ  กุสลนฺติ  อาโรคฺยํ ฯ
+<span class="LineNumber"> 008 </span>อนามยนฺติ  นิทฺทุกฺขภาวํ ฯ  โก  เต  พลนฺติ  กุหึ  นุ  ตว  
+<span class="LineNumber"> 009 </span>พลนิกาโย ฯ  อนสฺสโกติ  อนสฺสโกเยว(๑) ฯ  อรถโกติ  อยานโก ฯ
+<span class="LineNumber"> 010 </span>ทีฆมทฺธานมาคโตติ  ทีฆมคฺคํ อาคโตสิ ฯ ปกโตติ อภิภูโต 
+<span class="LineNumber"> 011 </span>อุปทฺทุโต ฯ  
+<span class="LineNumber"> 012 </span>	อถ  เนสํ  สฏฺ€ีสหสฺสานํ  ราชูนํ(๒)  มหาสตฺโต  อตฺตโน  
+<span class="LineNumber"> 013 </span>อาคตการณํ กเถนฺโต อาห  
+<span class="LineNumber"> 014 </span>	[๑๑๑๔]กุสลฺเจว เม สมฺมา	อโถ สมฺมา อนามยํ  
+<span class="LineNumber"> 015 </span>		อโถ ปิตา อโรโค เม	สิวีนฺจ อนามยํ  
+<span class="LineNumber"> 016 </span>		อหํ หิ กุฺชรํ ทชฺชํ		อีสาทนฺตํ อุรุฬฺหวํ  
+<span class="LineNumber"> 017 </span>		เขตฺตฺ สพฺพยุทฺธานํ  สพฺพเสตํ คชุตฺตมํ  
+<span class="LineNumber"> 018 </span>		ปณฺฑุกมฺพลสฺฉนฺนํ	ปภินฺนํ สตฺตุมทฺทนํ  
+<span class="LineNumber"> 019 </span>		ทนฺตึ สวาลวีชนึ  เสตํ	เกลาสสาทิสํ  
+<span class="LineNumber"> 020 </span>		สเสตจฺฉนฺตํ สุปตฺเถยฺยํ(๓)สาถพฺพนํ สหตฺถิปํ  
+<span class="LineNumber"> 021 </span># ๑. ม. อสฺสวิรหิโต ฯ  ๒. ม. อิเม ปา€า นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. อหฺหิ ฯ  ๔. ม. สเสตจฺฉตฺตํ สอุปาเธยฺยํ ฯ

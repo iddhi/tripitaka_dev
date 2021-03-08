@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>เห็นปานดังนี้.
+<span class="LineNumber"> 002 </span>                               จบสามเณรีสูตรที่  ๑๑
+<span class="LineNumber"> 003 </span>                                  <I>จบทุติยวรรคที่  ๒</I>
+
+<span class="LineNumber"> 004 </span>                  <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+
+<span class="LineNumber"> 005 </span>         ๑.  กูปนิมุคคสูตร                 ๒.  คูถขาทิสูตร
+<span class="LineNumber"> 006 </span>         ๓.  นิจฉวิตถีสูตร                 ๔.  มังคุฬิตถีสูตร
+<span class="LineNumber"> 007 </span>         ๕.  โอกิลินีสูตร                    ๖.  สีสัจฉินนสูตร
+<span class="LineNumber"> 008 </span>         ๗.  ภิกษุสูตร                        ๘.  ภิกขุนีสูตร
+<span class="LineNumber"> 009 </span>         ๙.  สิกขมานาสูตร               ๑๐.  สามเณรสูตร
+<span class="LineNumber"> 010 </span>         ๑๑.  สามเณรีสูตร
+<span class="LineNumber"> 011 </span>                                จบลักขณสังยุตที่  ๗
+
+<span class="LineNumber"> 012 </span>              <H1>อรรถกถาภิกขุนีสูตรที่  ๘  เป็นต้น</H1>
+
+<span class="LineNumber"> 013 </span>        แม้ในเรื่องของนางภิกษุณี   สิกขมานา   สามเณร   สามเณรี   ก็มี
+<span class="LineNumber"> 014 </span>วินิจฉัยอย่างนี้เหมือนกันแล.
+<span class="LineNumber"> 015 </span>                      จบอรรถกถาภิกขุนีสูตรที่  ๘  เป็นต้น
+<span class="LineNumber"> 016 </span>                             <I>จบอรรถกถาลักขณสังยุต</I>

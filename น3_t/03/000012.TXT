@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>๓.  จะทำบนร้านที่ปลูกขึ้นในน้ำ  (ย่อมทำได้ทั้งนั้น).  
+<span class="LineNumber"> 002 </span>       หาดที่จะกำหนดเอาโดยฐานเป็นอุทกุกเขปได้นั้น  ต้องประกอบ
+<span class="LineNumber"> 003 </span>ด้วยองค์  ๒  คือ :- 
+<span class="LineNumber"> 004 </span>๑.  หาดนั้นน้ำยังท่วมถึง  แม้เฉพาะในฤดูน้ำ.
+<span class="LineNumber"> 005 </span>๒.  ยังเป็นที่สาธารณะ  ไม่เปิดให้จับจอง.
+<span class="LineNumber"> 006 </span>                                        สีมาสังกระ  ๔
+<span class="LineNumber"> 007 </span>๑.  สมมติสีมาคาบเกี่ยวกัน.
+<span class="LineNumber"> 008 </span>๒.  วัตถุพาดพิงถึงกันในระหว่างสีมาทั้งสอง.
+<span class="LineNumber"> 009 </span>๓.  สงฆ์สองหมู่จะทำสังฆกรรมเวลาเดียวกัน  ไม่เว้นระหว่างแนว
+<span class="LineNumber"> 010 </span>    สงฆ์ให้ห่างกันพอได้ตามกำหนด.
+<span class="LineNumber"> 011 </span>๔.  ทำสังฆกรรมในเรือหรือแพที่ผูกกับหลักปักไว้บนตลิ่ง  หรือทำ
+<span class="LineNumber"> 012 </span>    ในที่ไม่ได้กำหนดจามอุทกุกเขป.

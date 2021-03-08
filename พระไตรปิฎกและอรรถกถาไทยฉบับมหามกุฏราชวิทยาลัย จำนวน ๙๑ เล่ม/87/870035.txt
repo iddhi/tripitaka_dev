@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ในปฏิสนธิขณะ  กฏัตตารูป   อาศัยขันธ์ทั้งหลาย,   หทยวัตถุ อาศัย 
+<span class="LineNumber"> 002 </span>ขันธ์ทั้งหลาย,  ขันธ์ทั้งหลาย  อาศัยหทยวัตถุ. 
+<span class="LineNumber"> 003 </span>           มหาภูตรูป ๑ ฯลฯ พาหิรรูป...อาหารสมุฏฐานรูป ...อุตุสมุฏฐานรูป
+<span class="LineNumber"> 004 </span>ฯลฯ.                                          
+<span class="LineNumber"> 005 </span>           ส่วนอสัญญสัตว์ทั้งหลาย  มหาภูตรูป ๑ ฯลฯ.
+<span class="LineNumber"> 006 </span>                       ๖. <B>เนวทัสสเนนภาวนายปหาตัพพธรรม อาศัยทัสส-
+<span class="LineNumber"> 007 </span>เนนปหาตัพพธรรม  และเนวทัสสเนนนภาวนายปหาตัพพธรรม ฯลฯ
+<span class="LineNumber"> 008 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ   จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 010 </span>ธรรม   และมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 011 </span>                       ๗.  <B>เนวทัสสเนนนภาวนายปหาตัพพธรรมอาศัยภาว-
+<span class="LineNumber"> 012 </span>นายปหาตัพพธรรม  และเนวทัสสเนนนภาวนายปหาตัพพธรรม ฯลฯ
+<span class="LineNumber"> 013 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ    จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นภาวนายปหาตัพพ-
+<span class="LineNumber"> 015 </span>ธรรม   และมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 016 </span>                      <H1>๙.  นปัจฉาชาตปัจจัย  ๑๐.  นอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 017 </span>           <B>ทัสสเนนปหาตัพพธรรม ฯลฯ เพราะนปัจฉาชาตปัจจัย  เพราะ
+<span class="LineNumber"> 018 </span>นอาเสวนปัจจัย ฯลฯ</B>
+

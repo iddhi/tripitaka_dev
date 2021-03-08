@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>						<H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>		[๑๒๔๕]  ๑.  อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  อาศัย
+<span class="LineNumber"> 003 </span>อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  เกิดขึ้น เพราะอารัมมณ-  
+<span class="LineNumber"> 004 </span>ปัจจัย   ฯลฯ 
+<span class="LineNumber"> 005 </span>                              	 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>		[๑๒๔๖]  ในเหตุปัจจัย  มี  ๓   วาระ    ในอารัมมณปัจจัย   มี  ๕ วาระ
+<span class="LineNumber"> 007 </span>ในอธิปติปัจจัย  มี ๑ วาระ  ฯลฯ  ในอวิคตปัจจัย มี  ๕ วาระ.
+<span class="LineNumber"> 008 </span>                            			<H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 009 </span>                                  	   <H2>๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>		[๑๒๔๗]  ๑.  อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม อาศัย
+<span class="LineNumber"> 011 </span>อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม เกิดขึ้น  เพราะนเหตุปัจจัย
+<span class="LineNumber"> 012 </span>           	คือ     โมหะที่สหรคตด้วยวิจิกิจฉา    อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 013 </span>วิจิกิจฉา.
+<span class="LineNumber"> 014 </span>                  		๒.  อกุศลธรรมที่เป็นสัญโญชนวิปปยุตตธรรม  อาศัย
+<span class="LineNumber"> 015 </span>อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย
+<span class="LineNumber"> 016 </span>           	คือ   โมหะที่สหรคตด้วยอุทธัจจะ    อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 017 </span>อุทธัจจะ.
+<span class="LineNumber"> 018 </span>                      	<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 019 </span>		[๑๒๔๘]  ในนเหตุปัจจัย  มี   ๒  วาระ   ในนอธิปติปัจจัย มี  ๕ วาระ
+<span class="LineNumber"> 020 </span>ในนปุเรชาตปัจจัย  มี  ๕  วาระ   ฯลฯ    ในนกัมมปัจจัย  มี ๓ วาระ ฯลฯ   ในน
+<span class="LineNumber"> 021 </span>วิปปยุตตปัจจัย  มี ๕ วาระ.
+		

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                     	   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 002 </span>		[๑๗๐๔]  ในเหตุปัจจัย   มี ๖ วาระ    ในปัจจัยทั้งปวง มี  ๖ วาระ 
+<span class="LineNumber"> 003 </span>ฯลฯ  ในวิคตปัจจัย มี ๖ วาระ.
+<span class="LineNumber"> 004 </span>                           	  	<H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 005 </span>			<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 006 </span>		[๑๗๐๕]  ในนอธิปติปัจจัย มี ๖ วาระ ในนปุเรชาตปัจจัย มี ๖ วาระ
+<span class="LineNumber"> 007 </span>ฯลฯ  ในนกัมมปัจจัย มี ๔ วาระ  ในนวิปปยุตตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 008 </span>           	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  พึงให้พิสดาร.
+
+<span class="LineNumber"> 009 </span>				       <H1>กุศลบทปัญหาวาระ</H1>
+<span class="LineNumber"> 010 </span>				          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>				       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>		[๑๗๐๖]    ๑.  กุศลธรรมที่เป็นสัปปีติกธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 013 </span>กุศลธรรมที่เป็นสัปปีติกธรรม   ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 014 </span>(วาระที่  ๑-๒-๓)
+<span class="LineNumber"> 015 </span>                  		๔.  กุศลธรรมที่เป็นอัปปีติกธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 016 </span>กุศลธรรมที่เป็นอัปปีติกธรรม  ด้วยอำนาจของเหตุปัจจัย

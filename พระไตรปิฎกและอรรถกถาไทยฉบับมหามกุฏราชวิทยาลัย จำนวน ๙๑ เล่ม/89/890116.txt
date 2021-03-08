@@ -1,0 +1,43 @@
+﻿<span class="LineNumber"> 001 </span>         มี ๒ อย่าง  คือที่เป็น <B>สหชาตะ</B>  และ  <B>ปุเรชาตะ</B>
+<span class="LineNumber"> 002 </span>         ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 003 </span>         จิต เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นเจตสิก ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 004 </span>         ในปฏิสนธิขณะ  จิต  ฯลฯ
+<span class="LineNumber"> 005 </span>         ในปฏิสนธิขณะ  หทยวัตถุ   เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นเจตสิก
+<span class="LineNumber"> 006 </span>ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 007 </span>         ที่เป็น  <B>ปุเรชาตะ</B> ได้แก่
+<span class="LineNumber"> 008 </span>         บุคคลพิจารณาจักษุ ฯลฯ  หทยวัตถุ   โดยความเป็นของไม่เที่ยง ฯลฯ
+<span class="LineNumber"> 009 </span>เหมือนปุเรชาตะ ไม่แตกต่างกัน.
+<span class="LineNumber"> 010 </span>                ๖.  <B>ธรรมที่ไม่ใช่เจตสิก  เป็นปัจจัยแก่ธรรมที่เป็น
+<span class="LineNumber"> 011 </span>เจตสิก  และธรรมที่ไม่ใช่เจตสิก  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 012 </span>         มี  ๒  อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>ปุเรชาตะ</B>
+<span class="LineNumber"> 013 </span>         ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 014 </span>         จิต     เป็นปัจจัยแก่สัมปยุตตขันธ์  และจิตตสมุฏฐานรูปทั้งหลายที่เป็นเจตสิก
+<span class="LineNumber"> 015 </span>และจิต   ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 016 </span>         ที่เป็น   <B>ปุเรชาตะ</B>   ได้แก่
+<span class="LineNumber"> 017 </span>         บุคคลพิจารณาจักษุ  ฯลฯ  หทยวัตถุ  โดยความเป็นของไม่เที่ยง  ฯลฯ
+<span class="LineNumber"> 018 </span>เหมือนกับปุเรชาตะ  ไม่แตกต่างกัน.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<span class="LineNumber"> 019 </span>เจตสก  และ รรมท ไม่ใ ่เจตส้ก  ดว่ยอำนาจ องอตั  ปัจจัย
+<span class="LineNumber"> 020 </span>            มี ๒ อย่าง  คือทีเป็น  ส  าตะ  แล่  ปุเรฬาต 
+<span class="LineNumber"> 021 </span>           ท เป็น  สทซาดะ  ได้แก่             ้            ่
+<span class="LineNumber"> 022 </span>            จิค  เป็นปัจจัยยแก่สัมปยุต  ชัน ์   และ.จิค สมุ ฐานรูปทง่หลาย  คว้ย
+<span class="LineNumber"> 023 </span>อำนาจ องอั ่ ปัจจัยย.
+<span class="LineNumber"> 024 </span>         ในปฏิสน ิขณะ  จิ  ฯลฯ
+<span class="LineNumber"> 025 </span>           ในปฎิสนิ  ณะ    หทยวัตถุ    เบ่หปัจจัยแก่ ัห์ ่งหลายทีเป็นเจตสิก
+<span class="LineNumber"> 026 </span>แล่จิค  คว้ยอำนาจของอั ถิปัจจัย.
+<span class="LineNumber"> 027 </span>           ท เป็น  ปุเร าดะ  ได้แก่
+<span class="LineNumber"> 028 </span>          บุคคลพิจารณาจักษุ ฯลฯ  หทยวัตถุ  โคยความเบืหของไห่่เท ยง ฯลฯ
+<span class="LineNumber"> 029 </span>เหหือนกบั ปุเรชา ะ  ไ ่แคกค่างกนั ่

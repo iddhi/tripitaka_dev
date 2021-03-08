@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>	       <H2>พระสุตตันตปิฎก</H2>
+<span class="LineNumber"> 002 </span>          <H2>ขุททกนิกาย คาถาธรรมบท</H2>
+<span class="LineNumber"> 003 </span>	        <H2>เล่มที่  ๑ ภาคที่  ๒</H2>
+<span class="LineNumber"> 004 </span>	          <H2>ตอนที่ ๑</H2>
+
+<span class="LineNumber"> 005 </span><H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+
+<span class="LineNumber"> 006 </span>	       <H2>คาถาธรรมบท</H2>
+<span class="LineNumber"> 007 </span>	       <H2>ยมกวรรคที่ ๑</H2>
+<span class="LineNumber"> 008 </span>	 <H4>ว่าด้วยคู่แห่งความดีและความชั่ว</H4>
+<span class="LineNumber"> 009 </span><B>[๑๑<SUP>๑</SUP>]	๑.  ธรรมทั้งหลายมีใจเป็นหัวหน้า  มีใจเป็น
+<span class="LineNumber"> 010 </span>          ใหญ่   สำเร็จแล้วด้วยใจ  ถ้าบุคคลมีใจร้ายแล้ว  พูด
+<span class="LineNumber"> 011 </span>          อยู่ก็ดี  ทำอยู่ก็ดี   ทุกข์ย่อมไปตามเขา   เพราะเหตุ
+<span class="LineNumber"> 012 </span>          นั้น   ดุจล้อหมุนไปตามรอยเท้าโค  ผู้นำแอกไปอยู่
+<span class="LineNumber"> 013 </span>          ฉะนั้น.
+<span class="LineNumber"> 014 </span>                ๒.  ธรรมทั้งหลายมีใจเป็นหัวหน้า  มีใจเป็น
+<span class="LineNumber"> 015 </span>          ใหญ่   สำเร็จแล้วด้วยใจ   ถ้าบุคคลมีใจผ่องใสแล้ว</B>
+
+<span class='footnote'>๑. เลขในวงเล็บเป็นเลขข้อในพระบาลี  เลขหลังวงเล็บ เป็นเลขลำดับคาถา ที่จัดไว้ตามลำดับ</span>
+<span class='footnote'>เรื่องในอรรถกถา วรรคที่ ๑ มีอรรถกถา ๑๔ เรื่อง.</span>

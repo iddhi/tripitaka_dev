@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.  เป็นผู้ไม่ประกอบด้วยกองศีล   ของพระอเสขะ     
+<span class="LineNumber"> 002 </span>           ๒.  เป็นผู้ไม่ประกอบด้วยกองสมาธิ   ของพระอเสขะ
+<span class="LineNumber"> 003 </span>           ๓.  เป็นผู้ไม่ประกอบด้วยกองปัญญา   ของพระอเสขะ
+<span class="LineNumber"> 004 </span>           ๔.  เป็นผู้ไม่ประกอบด้วยกองวิมุตติ  ของพระอเสขะ
+<span class="LineNumber"> 005 </span>           ๕.  เป็นผู้ไม่ประกอบด้วยกองวิมุตติญาณทัสสนะ  ของพระอเสขะ
+<span class="LineNumber"> 006 </span>           ดูก่อนอุบาลี   ภิกษุทั้งหลายไม่พึงสนทนากับภิกษุประกอบด้วยองค์ ๕
+<span class="LineNumber"> 007 </span>นี้แล      
+
+<span class="LineNumber"> 008 </span>                              <H1>องค์ของภิกษุผู้ควรสนทนาด้วย</H1> 
+<span class="LineNumber"> 009 </span>           ดูก่อนอุบาลี    ภิกษุทั้งหลายพึงสนทนากับภิกษุประกอบด้วยองค์  ๕
+<span class="LineNumber"> 010 </span>องค์  ๕  อะไรบ้าง  คือ :-
+<span class="LineNumber"> 011 </span>           ๑.  เป็นผู้ประกอบด้วยกองศีล  ของพระอเสขะ
+<span class="LineNumber"> 012 </span>           ๒.  เป็นผู้ประกอบด้วยกองสมาธิ  ของพระอเสขะ
+<span class="LineNumber"> 013 </span>           ๓.  เป็นผู้ประกอบด้วยกองปัญญา  ของพระอเสขะ
+<span class="LineNumber"> 014 </span>           ๔.  เป็นผู้ประกอบด้วยกองวิมุตติ  ของพระอเสขะ
+<span class="LineNumber"> 015 </span>           ๕.  เป็นผู้ประกอบด้วยกองวิมุตติญาณทัสสนะ  ของพระอเสขะ
+<span class="LineNumber"> 016 </span>           ดูก่อนอุบาลี  ภิกษุทั้งหลายพึงสนทนากับภิกษุประกอบด้วยองค์  ๕  นี้แล
+
+<span class="LineNumber"> 017 </span>                             <H1>องค์ของภิกษุผู้ไม่ควรสนทนาอีกนัยหนึ่ง</H1>
+<span class="LineNumber"> 018 </span>           ดูก่อนอุบาลี   ภิกษุทั้งหลายไม่พึงสนทนากับภิกษุประกอบด้วยองค์แม้
+<span class="LineNumber"> 019 </span>อื่นอีก ๕  องค์ ๕ อะไรบ้าง   คือ :-
+<span class="LineNumber"> 020 </span>           ๑.   ไม่เป็นผู้บรรลุอรรถปฏิสัมภิทา
+<span class="LineNumber"> 021 </span>           ๒.  ไม่เป็นผู้บรรลุธรรมปฏิสัมภิทา     

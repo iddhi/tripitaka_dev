@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 145
+
+<span class="LineNumber"> 002 </span>	มํสรสโภชนา นหาปกสุนหาตา  กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตาm  
+<span class="LineNumber"> 003 </span>	นียนฺติ จนฺทสุริยา		ชนสฺส กตฺวา หทยโสกํ  
+<span class="LineNumber"> 004 </span>	ยสฺสุ ปุพฺเพ หตฺถิวรธุรคเต  หตฺถิกา(๑) อนุวชฺชนฺติ  
+<span class="LineNumber"> 005 </span>	ตฺยชฺช จนฺทสุริยา		อุโภว ปตฺติกา ยนฺติ  
+<span class="LineNumber"> 006 </span>	ยสฺสุ ปุพฺเพ อสฺสวรธุรคเต  อสฺสกา อนุวชฺชนฺติ  
+<span class="LineNumber"> 007 </span>	ตฺยชฺช จนฺทสุริยา		อุโภว ปตฺติกา ยนฺติ  
+<span class="LineNumber"> 008 </span>	ยสฺสุ ปุพฺเพ รถวรธุรคเต	รถิกา(๒) อนุวชฺชนฺติ  
+<span class="LineNumber"> 009 </span>	ตฺยชฺช จนฺทสุริยา		อุโภว ปตฺติกา ยนฺติ  
+<span class="LineNumber"> 010 </span>	เยหิสฺสุ ปุพฺเพ นียึสุ(๓)	ตปนียกปฺปเนหิ ตุรงฺเคหิ  
+<span class="LineNumber"> 011 </span>	ตฺยชฺช จนฺทสุริยา		อุโภว ปตฺติกา ยนฺตีติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  กาสิกสุจิวตฺถธราติ  กาสิยานิ  สุจิวตฺถานิ  
+<span class="LineNumber"> 013 </span>ธาริยมานา(๔) ฯ  จนฺทสุริยาติ  จนฺทกุมาโร  จ  สุริยกุมาโร  จ ฯ  
+<span class="LineNumber"> 014 </span>นหาปกสุนหาตาติ  จนฺทนจุณฺเณน  อุพฺพตฺเตตฺวา  นหาปเกหิ 
+<span class="LineNumber"> 015 </span>กตปริกมฺมกตาย  สุนหาตา (๕) ฯ  ยสฺสูติ  เย  อสฺสูติ  นิปาตมตฺตํ ฯ
+<span class="LineNumber"> 016 </span>เย กุมาเรติ อตฺโถ ฯ ปุพฺเพติ อิโต  ปุพฺเพ ฯ 
+<span class="LineNumber"> 017 </span>หตฺถิวรธุรคเตติ หตฺถิวรานํ ธุรคเต อลงฺกตหตฺถิกฺขนฺธ-
+<span class="LineNumber"> 018 </span>วรคเต ฯ  อสฺสวรธุรคเตติ  อสฺสวรปิฏฺ€ิคเต ฯ  รถวรธุรคเตติ 
+<span class="LineNumber"> 019 </span>รถวรมชฺฌคเต ฯ  นียึสูติ นิกฺขมึสุ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. หตฺถีหิ ฯ  ๒. ม. รเถหิ ฯ  ๓. ม. นิยฺยํสุ ฯ เอวมุปริปิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ธารยมานา ฯ  ๕. ม. สุนฺหาปิตา ฯ

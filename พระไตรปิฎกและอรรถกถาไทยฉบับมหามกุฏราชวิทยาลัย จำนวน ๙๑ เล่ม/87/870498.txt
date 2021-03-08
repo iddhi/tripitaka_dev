@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๔.  นปัจฉาชาตปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๑๖๗๘]  <B>มิจฉัตนิยตธรรม  เจือกับมิจฉัตตนิยตธรรม 
+<span class="LineNumber"> 003 </span>เกิดขึ้น  เพราะนปัจฉาชาตปัจจัย</B>  พึงใส่ให้เต็ม. (๓ วาระ)
+
+<span class="LineNumber"> 004 </span>                                     <H1>๕. นอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๖๗๙] ๑.  <B>อนิยตธรรม  เจือกับอนิยตธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 006 </span>นอาเสวนปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอนิยตธรรม  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 008 </span>ในปฏิสนธิขณะ  ฯลฯ.
+
+<span class="LineNumber"> 009 </span>                          <H1>๖.  นกัมมปัจจัย  ๗.  นวิปากปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๑๖๘๐] ๑.  <B>มิจฉัตตนิยตธรรม  เจือกับมิจฉัตตนิยตธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น เพราะนกัมมปัจจัย เพราะนวิปากปัจจัย ฯลฯ.</B>
+
+<span class="LineNumber"> 012 </span>                           <H1>๘.  นฌานปัจจัย  ๙.  นมัคคปัจจัย</H1>
+<span class="LineNumber"> 013 </span>           [๑๖๘๑] ๑.  <B>อนิยตธรรม  เจือกับอนิยตธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 014 </span>นฌานปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ ปัญจวิญญาณ ฯลฯ
+<span class="LineNumber"> 016 </span>           <B>เพราะนมัคคปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ  ฯลฯ  อาศัยอนิยตธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ
+	

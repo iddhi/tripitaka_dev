@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span><B>กินฺเต  อชินสาฏิยา</B>				จักเป็นประโยชน์อะไรแก่ท่าน  
+<span class="LineNumber"> 002 </span>							ด้วยผ้าหนังเสือ
+<span class="LineNumber"> 003 </span><B>อพฺภนฺตรนฺเต</B>					ข้างในของท่านรกขัฏ
+<span class="LineNumber"> 004 </span><B>พาหิรํ  ปริมชฺชสิ.</B>				เกลี้ยงเกลาแต่ข้างนอก.
+<span class="LineNumber"> 005 </span>                                     ดาบสพูดล่อว่า
+<span class="LineNumber"> 006 </span><B>เอหิ  โคธ นิวตฺตสฺสุ</B>				มาเถิดเหี้ยเอย !  กลับมาเถิด
+<span class="LineNumber"> 007 </span><B>ภุฺช  สาลีนโมทนํ</B>				จงกินข้าวสาลี
+<span class="LineNumber"> 008 </span><B>เตลํ  โลณฺจ  เม  อตฺถิ</B>			น้ำมันและเกลือของเรามีอยู่
+<span class="LineNumber"> 009 </span><B>ปหูตํ  มยฺห  ปิปฺผลิ.</B>				ดีปลีของเรามีมากพอ.
+<span class="LineNumber"> 010 </span>                                       พญาเหี้ยตอบว่า
+<span class="LineNumber"> 011 </span><B>เอส  ภิยฺโย  ปเวกิขามิ</B>				เรานี้จักยิ่งเข้าไป
+<span class="LineNumber"> 012 </span><B>วมฺมิกํ  สตโปริสํ	</B>				สู่จอมปลวกลึก ๑๐๐ ชั่วคน
+<span class="LineNumber"> 013 </span><B>เตลํ  โลณฺจ  กินฺเตสิ</B>				น้ำมันและเกลือของท่านจักเป็น
+<span class="LineNumber"> 014 </span>							ประโยชน์อะไรเล่า
+<span class="LineNumber"> 015 </span><B>อหิตํ  มยฺห  ปิปฺผลิ.</B>				ดีปลีก็ไม่เป็นประโยชน์เกื้อกูลแก่
+<span class="LineNumber"> 016 </span>							เรา.

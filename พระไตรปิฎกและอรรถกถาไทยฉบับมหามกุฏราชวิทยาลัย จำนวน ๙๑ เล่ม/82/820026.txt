@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         <H1>[๑๐]            มูลวารนิทเทสในอกุสลบท</H1> 
+<span class="LineNumber"> 002 </span>                                       <H1>มูลนยะที่  ๑</H1>
+<span class="LineNumber"> 003 </span><H2>๑.  มูลยมกะ :-</H2>
+<span class="LineNumber"> 004 </span>         ธรรมเหล่าใดเหล่าหนึ่ง   ที่เป็นอกุศล   มีอยู่,    ธรรมเหล่านั้น
+<span class="LineNumber"> 005 </span>ทั้งหมด  ชื่อว่าอกุศลมูล   ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         มูลมี  ๓   เท่านั้น  ชื่อว่าอกุศลมูล  อกุศลธรรมที่เหลือนอกนั้น
+<span class="LineNumber"> 007 </span>ไม่ชื่อว่ากุศลมูล.
+<span class="LineNumber"> 008 </span>         ก็หรือว่าธรรมเหล่าใด   ชื่อว่าอกุศลมูล  มีอยู่,    ธรรมเหล่านั้น
+<span class="LineNumber"> 009 </span>ทั้งหมด เป็นอกุศล   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span><H2>๒.  เอกมูลยมกะ :-</H2>
+<span class="LineNumber"> 012 </span>         ธรรมเหล่าใดเหล่าหนึ่ง    ที่เป็นอกุศล   มีอยู่,    ธรรมเหล่านั้น
+<span class="LineNumber"> 013 </span>ทั้งหมด   มีมูลเป็นอันเดียวกันกับอกุศลมูล  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         อกุศลที่เป็นอเหตุกะ          ไม่มีมูลเป็นอันเดียวกันกับอกุศลมูล
+<span class="LineNumber"> 015 </span>อกุศลที่เป็นสาเหตุกะ   มีมูลเป็นอันเดียวกันกับอกุศลมูล.                  
+<span class="LineNumber"> 016 </span>         ก็หรือว่าธรรมเหล่าใด   มีมูลเป็นอันเดียวกันกับอกุศลมูล  มีอยู่,
+<span class="LineNumber"> 017 </span>ธรรมเหล่านั้นทั้งหมด  เป็นอกุศล   ใช่ไหม ?

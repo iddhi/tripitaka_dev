@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>นฌานปัจจัย</H1>
+<span class="LineNumber"> 002 </span>         [๑๒๙๐]  ๑.  <B>วิปากธรรม    อาศัยวิปากธรรมเกิดขึ้น    เพราะ 
+<span class="LineNumber"> 003 </span>นฌานปัจจัย</B> 
+<span class="LineNumber"> 004 </span>         คือ   ขันธ์ ๓  อาศัยขันธ์ ๑  ที่สหรคตด้วยปัญจวิญญาณเกิดขึ้น  ฯลฯ
+<span class="LineNumber"> 005 </span>ขันธ์ ๒ อาศัยขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 006 </span>         [๑๒๙๑]  ๒.  <B>เนววิปากนวิปากธัมมธรรม   อาศัยเนววิปากนวิ-
+<span class="LineNumber"> 007 </span>ปากธัมมธรรมเกิดขึ้น  เพราะนฌานปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ  พาหิรรูป. . . อาหารสมุฏฐานรูป . . . อุตุสมุฏฐานรูป ฯลฯ.
+<span class="LineNumber"> 009 </span>         สำหรับพวกอสัญญสัตว์ มหาภูตรูป ๓ อาศัยมหาภูตรูป ๑ เกิดขึ้น ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                          <H1>นมัคคปัจจัย</H1>
+<span class="LineNumber"> 011 </span>         [๑๒๙๒]  ๑.  <B>วิปากธรรม    อาศัยวิปากธรรมเกิดขึ้น   เพราะ-
+<span class="LineNumber"> 012 </span>นมัคคปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ   ฯลฯ  อาศัยขันธ์ ๑  ที่เป็นอเหตุกวิบากเกิดขึ้น  มี ๓ วาระ<SUP>๑</SUP>
+<span class="LineNumber"> 014 </span>         [๑๒๙๓]  ๔.  <B>เนววิปากนวิปากธัมมธรรม     อาศัยเนววิปาก
+<span class="LineNumber"> 015 </span>นวิปากธัมมธรรมเกิดขึ้น  เพราะนมัคคปัจจัย</B>                              
+<span class="LineNumber"> 016 </span>         คือ   ฯลฯ   อาศัยขันธ์ ๑  ที่เป็นเนววิปากนวิปากธัมมธรรม   ซึ่งเป็น
+<span class="LineNumber"> 017 </span>อเหตุกะเกิดขึ้น   มี ๓ วาระ<SUP>๒</SUP>. 
+<span class="LineNumber"> 018 </span>         [๑๒๙๔]  ๗.  <B>วิปากธรรม     อาศัยวิปากธรรมและเนววิปาก-
+<span class="LineNumber"> 019 </span>นวิปากธัมมธรรมเกิดขึ้น  เพราะนมัคคปัจจัย</B>                             
+<span class='footnote'>๑.  บาลีแสดงวาระเดียว  อีก ๒ วาระย่อไว้  เพราะฉะนั้น  ในข้อ (๑๒๙๓)  จึงเป็น   ข้อ  ๔. </span>
+<span class='footnote'>๒.  ย่อไว้นัยเดียวกับข้อ (๑๒๙๒)                          </span>

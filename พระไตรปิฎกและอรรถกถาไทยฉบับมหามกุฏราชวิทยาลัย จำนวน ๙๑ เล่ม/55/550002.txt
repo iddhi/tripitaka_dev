@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>ชาตกัฏฐกถา</H2>  
+<span class="LineNumber"> 002 </span>                           <H2>อรรถกถาชาดก  เอกนิบาต</H2>
+<span class="LineNumber"> 003 </span><H3>ขอนอบน้อมแด่พระผู้มีพระภาคเจ้าอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H3>
+
+<span class="LineNumber"> 004 </span>                                           <H1>ทูเรนิทาน</H1>
+
+<span class="LineNumber"> 005 </span>                                       <H1>ประณามคาถา</H1>
+
+<span class="LineNumber"> 006 </span>                     <B>ข้าพเจ้าขอกราบไหว้พระพุทธเจ้า    ผู้ประเสริฐ
+<span class="LineNumber"> 007 </span>         สุดหาบุคคลผู้เปรียบปานมิได้     ผู้เสด็จขึ้นจากสาคร
+<span class="LineNumber"> 008 </span>         แห่งไญยธรรม       ผู้ทรงข้ามสงสารสาครเสียได้ด้วย
+<span class="LineNumber"> 009 </span>         เศียรเกล้า     พร้อมทั้งพระธรรมอันลึกซึ้ง    สงบยิ่ง
+<span class="LineNumber"> 010 </span>         ละเอียดยากที่คนจะมองเห็นได้  ที่ทำลายเสียได้ซึ่งภพ
+<span class="LineNumber"> 011 </span>         น้อยและภพใหญ่  สะอาดอันเขาบูชาแล้ว  เพราะพระ-
+<span class="LineNumber"> 012 </span>         สัทธรรม  อีกทั้งพระสงฆ์ผู้ไม่มีกิเลสเครื่องข้อง ผู้สูง
+<span class="LineNumber"> 013 </span>         สุดแห่งหมู่  ผู้สูงสุดแห่งทักขิไณยบุคคล   ผู้มีอินทรีย์      
+<span class="LineNumber"> 014 </span>         อันสงบแล้ว  หาอาสวะมิได้.</B>
+<span class="LineNumber"> 015 </span>                     <B>ด้วยการประณามที่ข้าพเจ้าได้กระทำแล้วต่อ-
+<span class="LineNumber"> 016 </span>         พระรัตนตรัยด้วยความนับถือเป็นพิเศษนี้นั้น   ข้าพเจ้า
+<span class="LineNumber"> 017 </span>         อันผู้ที่เป็นนักปราชญ์ยิ่งกว่านักปราชญ์       ผู้รู้อาคม
+<span class="LineNumber"> 018 </span>         [ปริยัติ]    เป็นวิญญูชน    มียศใหญ่ได้ขอร้องด้วยการ
+<span class="LineNumber"> 019 </span>         เอาใจแล้ว  ๆ  เล่า  ๆ   เป็นพิเศษว่า   ท่านขอรับ   ท่าน</B>

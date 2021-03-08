@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 347
+
+<span class="LineNumber"> 002 </span>สาธุนรธมฺมํ  วณฺเณนฺโต  ชีวิตํ  อาหราเปยฺยนฺติ(๑) ฯ  โส  อโธสิโร 
+<span class="LineNumber"> 003 </span>โอลมฺพนฺโตว  คาถมาห  
+<span class="LineNumber"> 004 </span>	[๙๙๑]ขิปฺปํ มมํ อุทฺธร กาติยาน  
+<span class="LineNumber"> 005 </span>		หทเยน เม ยทิ เต อตฺถิ กิจฺจํ  
+<span class="LineNumber"> 006 </span>		เยเกจิเม สาธุ นรสฺส ธมฺมา  
+<span class="LineNumber"> 007 </span>		สพฺเพว เต ปาตุกโรมิ อชฺชาติ ฯ  
+<span class="LineNumber"> 008 </span>	ตํ  สุตฺวา  ปุณฺณโก  อยํ  กิร  ปณฺฑิเตน  เทวมนุสฺสานํ 
+<span class="LineNumber"> 009 </span>อกถิตปุพฺโพ  ธมฺโม  ภวิสฺสติ  หนฺทาหํ  ขิปฺปเมว  นํ  อุทฺธริตฺวา 
+<span class="LineNumber"> 010 </span>สาธุนรธมฺมํ  โสสฺสามีติ (๒)จินฺเตตฺวา มหาสตฺตํ อุกฺขิปิตฺวา 
+<span class="LineNumber"> 011 </span>ปพฺพตมุทฺธนิ นิสีทาเปสิ ฯ  
+<span class="LineNumber"> 012 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 013 </span>	[๙๙๒]ส(๓) ปุณฺณโก กุรูนํ กตฺตุเสฏฺ€ํ  
+<span class="LineNumber"> 014 </span>		นคมุทฺธนิ ขิปฺปํ ปติฏฺ€เปตฺวา  
+<span class="LineNumber"> 015 </span>		อสฺสฏฺ€มาสีนํ สเมกฺขิยาน  
+<span class="LineNumber"> 016 </span>		ปริปุจฺฉิ กตฺตารมโนมปฺํ  
+<span class="LineNumber"> 017 </span>		สมุฏฺ€ิโต(๔) เมสิ ตุวํ ปปาตา  
+<span class="LineNumber"> 018 </span>		หทเยน เต อชฺช มมตฺถิ กิจฺจํ  
+<span class="LineNumber"> 019 </span>		เยเกจิเม สาธุ นรสฺส ธมฺมา  
+<span class="LineNumber"> 020 </span>		สพฺเพว เม ปาตุกโรหิ อชฺชาติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. วณฺเณตฺวา อตฺตโน ชีวิตํ อาหราเปนฺโต ฯ 
+<span class="LineNumber"> 022 </span># ๒. ม. สุณิสฺสามีติ ฯ  ๓. ม. โส ฯ 
+<span class="LineNumber"> 023 </span># ๔. ม. สมุทฺธโฏ ฯ

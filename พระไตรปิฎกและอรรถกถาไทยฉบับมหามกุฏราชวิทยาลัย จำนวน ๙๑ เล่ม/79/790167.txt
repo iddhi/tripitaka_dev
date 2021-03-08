@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>ควรคบ   ไม่ควรเข้าใกล้ 
+<span class="LineNumber"> 002 </span>                     บุคคลบางคนควรสมาคม  ควรคบ  ควรเข้าใกล้</H1> 
+<span class="LineNumber"> 003 </span>              <H1>๑๕.  บุคคลบางคนมีปกติทำให้บริบูรณ์ในศีล    มีปกติ
+<span class="LineNumber"> 004 </span>                     ทำพอประมาณในสมาธิ   มีปกติทำพอประมาณใน
+<span class="LineNumber"> 005 </span>                     ปัญญา
+<span class="LineNumber"> 006 </span>                     บุคคลบางคนมีปกติทำให้บริบูรณ์ในศีลด้วย  มี
+<span class="LineNumber"> 007 </span>                     ปกติทำให้บริบูรณ์ ในสมาธิด้วย  มีปกติทำพอประ-
+<span class="LineNumber"> 008 </span>                     มาณในปัญญา
+<span class="LineNumber"> 009 </span>                     บุคคลบางคนมีปกติทำให้บริบูรณ์ในศีลด้วย     มี
+<span class="LineNumber"> 010 </span>                     ปกติทำให้บริบูรณ์ในสมาธิด้วย   มีปกติทำให้บริ-
+<span class="LineNumber"> 011 </span>                     บูรณ์ในปัญญาด้วย</H1>
+<span class="LineNumber"> 012 </span>              <H1>๑๖.  ศาสดา ๓ ประเภท</H1>
+<span class="LineNumber"> 013 </span>              <H1>๑๗.  ศาสดา ๓ ประเภท  แม้อื่นอีก</H1>
+<span class="LineNumber"> 014 </span>                                       <I>จบติกมาติกา</I>
+
+<span class="LineNumber"> 015 </span>                                       <H1>จตุกกมาติกา</H1>
+<span class="LineNumber"> 016 </span>         [๑๐]   <H1>บุคคล   ๔  จำพวก</H1>
+<span class="LineNumber"> 017 </span>              <H1>๑.  คนที่เป็นอสัตบุรุษ
+<span class="LineNumber"> 018 </span>                    คนที่เป็นอสัตบุรุษยิ่งกว่าอสัตบุรุษ
+<span class="LineNumber"> 019 </span>                    คนที่เป็นสัตบุรุษ
+<span class="LineNumber"> 020 </span>                    คนที่เป็นสัตบุรุษยิ่งกว่าสัตบุรุษ</H1>

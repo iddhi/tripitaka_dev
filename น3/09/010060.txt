@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>น  โข  ปเนตํ  อิจฺฉาย</B>		ข้อนั้นสัตว์ไม่พึงได้ตามความ  
+<span class="LineNumber"> 002 </span><B>ปตฺตพฺพํ</B>				ปรารถนาโดยแท้.
+<span class="LineNumber"> 003 </span><B>อิทมฺปิ  ยมฺปิจฺฉํ  น</B>			แม้ข้อนี้ก็ชื่อว่า  ยันปิจฉังนลภติ
+<span class="LineNumber"> 004 </span><B>ลภติ  ตมฺปิทุกฺขํ</B>			ตัมปิทุกข์.
+<span class="LineNumber"> 005 </span>	<B>[๒]  ชราธมฺมานํ</B>		ดูก่อนภิกษุทั้งหลาย  ความ
+<span class="LineNumber"> 006 </span><B>ภิกฺขเว  สตฺตานํ  เอวํ</B>		ปรารถนาย่อมเกิดขึ้นแก่เหล่าสัตว์
+<span class="LineNumber"> 007 </span><B>อิจฺฉา   อุปฺปชฺชติ</B>			ที่มีความแก่เป็นธรรมดาอย่างนี้ว่า
+<span class="LineNumber"> 008 </span><B>อโห  วต  มยํ  น</B>			อือนะ  ขอเราพึงเป็นผู้ไม่มีความ
+<span class="LineNumber"> 009 </span><B>ชราธมฺมา  อสฺสาม</B>			แก่เป็นธรรมดาเถิด
+<span class="LineNumber"> 010 </span><B>น   จ  วต  โน</B>			อนึ่ง  ขอความแก่อย่ามีมาถึงแก่
+<span class="LineNumber"> 011 </span><B>ชรา  อาคจฺเฉยฺย</B>			เราเลย
+<span class="LineNumber"> 012 </span><B>น  โข ปเนตํ</B>				ข้อนั้นสัตว์ไม่พึงได้ตามความ
+<span class="LineNumber"> 013 </span><B>อิจฺฉาย  ปตฺตพฺพํ</B>			ปรารถนาโดยแท้
+<span class="LineNumber"> 014 </span><B>อิทมฺปิ  ยมฺปิจฺฉํ  น</B>			แม้ข้อนี้ก็ชื่อว่า  ยัมปิจฉังนลภติ
+<span class="LineNumber"> 015 </span><B>ลภติ  ตมฺปิ  ทุกฺขํ</B>			ตัมปิทุกข์.
+<span class="LineNumber"> 016 </span>	<B>[๓]  พฺยาธิธมฺมานํ</B>		ดูก่อนภิกษุทั้งหลาย  ความปรา-
+<span class="LineNumber"> 017 </span><B>ภิกฺขเว  สตฺตานํ  เอวํ</B>		รถนาย่อมเกิดขึ้น  แก่เหล่าสัตว์ที่
+<span class="LineNumber"> 018 </span><B>อิจฺฉา  อุปฺปชฺชติ</B>			มีความเจ็บไข้เป็นธรรมดาอย่าง
+<span class="LineNumber"> 019 </span>					นี้ว่า
+<span class="LineNumber"> 020 </span><B>อโห  วต  มยํ  น</B>			อือนะ  ขอเราพึงเป็นผู้ไม่มีความ
+<span class="LineNumber"> 021 </span><B>พฺยาธิธมฺมา  อสฺสาม</B>		เจ็บไข้เป็นธรรมดาเถิด
+

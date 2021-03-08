@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>					  ตัวอย่างที่ ๑ 
+
+<span class="LineNumber"> 002 </span>			เรียงความแก้กระทู้ธรรม น.ธ.   เอก<SUP>๑</SUP>
+<span class="LineNumber"> 003 </span>				   สอบในสนามหลวง
+<span class="LineNumber"> 004 </span>			วันที่  ๒๔  พฤศจิกายน   พ.ศ.  ๒๔๗๓<SUP>๒</SUP>
+
+<span class="LineNumber"> 005 </span>				๑.  สทฺธา  ทุติยา   ปุริสสฺส   โหติ
+<span class="LineNumber"> 006 </span>				    ศรัทธาเป็นเพื่อนสองของคน ฯ
+<span class="LineNumber"> 007 </span>				๒.  ปฺา   เจนํ   ปสาสติ
+<span class="LineNumber"> 008 </span>				    ปัญญาย่อมปกครองเขา ฯ
+<span class="LineNumber"> 009 </span>	๓.  นิพฺพานาภิรโต   มจฺโจ   สพฺพทุกฺขา  ปมุจฺจติ
+<span class="LineNumber"> 010 </span>	     ผู้ยินดีต่อพระนิพพาน   ย่อมพ้นจากทุกข์ทั้งปวง ฯ
+<span class="LineNumber"> 011 </span>	พรรณนาเนื้อความแห่งกระทู้พุทธภาษิตทั้ง ๓ นี้ว่า   คนเราที่
+<span class="LineNumber"> 012 </span>เอากำเนิดเกิดมาในมนุษยโลกนี้     ต่างย่อมหวังความสุขความเจริญ
+<span class="LineNumber"> 013 </span>แก่ตนสิ้น   แต่ความสุขความเจริญเหล่านั้นต่างมีเหตุประจำ   ผู้หวัง
+<span class="LineNumber"> 014 </span>ความสุขความเจริญ   ต้องผจญต่อเหตุของสิ่งเหล่านั้นก่อน     ผลคือ
+<span class="LineNumber"> 015 </span>ความสุขและความเจริญจึงจะเกิดมีได้   ฉะนั้น  ในทางพระพุทธศาสนา
+<span class="LineNumber"> 016 </span>จึงได้สอนให้คนมีความเพียรมั่น      ดังมีแจ้งในพระบรมพุทโธวาท
+
+<span class='footnote'>๑.  ถ้าเป็นธรรมศึกษาชั้นเอก  ก็ใช้ว่า  ธ.ศ.  เอก  น.ธ.  เอก ฯ</span>
+<span class='footnote'>๒.  พึงถือแบบฟอร์มนี้เป็นหลัก  ตัวอย่างต่อไปจักไม่แสดงแบบฟอร์มไว้ ฯ</span>

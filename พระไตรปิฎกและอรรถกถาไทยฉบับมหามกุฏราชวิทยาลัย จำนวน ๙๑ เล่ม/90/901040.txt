@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>				      <H1>กุสลติกอรูปาวจรทุกะ</H1>
+<span class="LineNumber"> 002 </span>		      <H2>(๑.  กุสลติกะ  ๙๕. อรูปาวจรทุกะ)</H2>   
+<span class="LineNumber"> 003 </span>			           <H1>อรูปาวจรบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				        <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>		[๘๒๗]  ๑.  อรูปาวจรธรรมที่เป็นกุศล   อาศัยอรูปาวจรธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                       ๒.  อรูปาวจรธรรมที่เป็นอัพยากตะ   อาศัยอรูปาวจร-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>				<H1>นอรูปาวจรบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 011 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>				      <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 013 </span>		[๘๒๘]  ๑.  นอรูปาวจรธรรมที่เป็นกุศล     อาศัยนอรูปาวจร-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย                               
+<span class="LineNumber"> 015 </span>                                   เหมือนรูปาวจรทุกะ.
+<span class="LineNumber"> 016 </span>                              <I>กุสลติกอรูปาวจรทุกะ  จบ</I>	

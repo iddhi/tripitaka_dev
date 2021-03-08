@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                             <h1>๑๐.  โลกสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>         [๑๙๖]   เทวดาทูลถามว่า
+<span class="LineNumber"> 003 </span>                             <B>เมื่ออะไรเกิดขึ้น  โลกจึงเกิดขึ้น  โลก
+<span class="LineNumber"> 004 </span>                   ย่อมชมเชยในอะไร     โลกยึดถือซึ่งอะไร
+<span class="LineNumber"> 005 </span>                   โลกย่อมเดือดร้อนเพราะอะไร.</B>
+<span class="LineNumber"> 006 </span>         [๑๙๗]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 007 </span>                             เมื่ออายตนะ ๖ เกิดขึ้น   โลกจึงเกิด
+<span class="LineNumber"> 008 </span>                   ขึ้น โลกย่อมทำความชมเชยในอายตนะ ๖
+<span class="LineNumber"> 009 </span>                   โลกยึดถืออายตนะ ๖  นั่นแหละ  โลกย่อม
+<span class="LineNumber"> 010 </span>                   เดือดร้อนเพราะอายตนะ ๖
+<span class="LineNumber"> 011 </span>                                       <I>จบโลกสูตร
+<span class="LineNumber"> 012 </span>                                  จบ  อันธวรรค  ที่  ๗</I>
+

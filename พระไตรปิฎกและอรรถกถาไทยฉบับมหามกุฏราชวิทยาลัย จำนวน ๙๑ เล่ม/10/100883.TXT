@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ถ.  ปาราชิกสิกขาบทที่  ๒  เกิดด้วยสมุฏฐานเท่าไร   
+<span class="LineNumber"> 002 </span>           ต.  ปาราชิกสิกขาบทที่ ๒   เกิดด้วยสมุฏฐาน ๓   คือ   บางทีเกิดแต่
+<span class="LineNumber"> 003 </span>กายกับจิต   มิใช่วาจา ๑   บางทีเกิดแต่วาจากับจิต     มิใช่กาย ๑    บางทีเกิดแต่
+<span class="LineNumber"> 004 </span>กาย   วาจาและจิต ๑
+<span class="LineNumber"> 005 </span>           ถ.  ปาราชิกสิกขาบทที่ ๓  เกิดด้วยสมุฏฐานเท่าไร
+<span class="LineNumber"> 006 </span>           ต.   ปาราชิกสิกขาบทที่ ๓   เกิดด้วยสมุฏฐาน ๓   คือ   บางทีเกิดแต่
+<span class="LineNumber"> 007 </span>กายกับจิต   มิใช่วาจา  ๑   บางทีเกิดแต่วาจากับจิต    มิใช่กาย ๑    บางทีเกิดแต่
+<span class="LineNumber"> 008 </span>กาย   วาจาและจิต ๑
+<span class="LineNumber"> 009 </span>           ถ.  ปาราชิกสิกขาบทที่  ๔    เกิดด้วยสมุกฐานเท่าไร
+<span class="LineNumber"> 010 </span>           ต. ปาราชิกสิกขาบทที่   ๔  เกิดด้วยสมุฏฐาน ๓   คือ   บางทีเกิดแต่
+<span class="LineNumber"> 011 </span>กายกับจิต   มิใช่วาจา  ๑   บางทีเกิดแต่วาจากับจิต    มิใช่กาย ๑   บางทีเกิดแต่
+<span class="LineNumber"> 012 </span>กาย   วาจาและจิต ๑.
+<span class="LineNumber"> 013 </span>                               <I>ปาราชิก  ๔  สิกขาบท  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                        <H1>สังฆาทิเสส  ๑๓</H1>
+<span class="LineNumber"> 015 </span>           [๑,๒๓๒]  ถามว่า  สังฆาทิเสสของภิกษุผู้พยายามปล่อยอสุจิ  เกิดด้วย
+<span class="LineNumber"> 016 </span> สมุฏฐานเท่าไร                                                                                
+<span class="LineNumber"> 017 </span>             ตอบว่า   สังฆาทิเสสของภิกษุผู้พยายามปล่อยอสุจิ   เกิดด้วยสมุฏฐาน
+<span class="LineNumber"> 018 </span>อันหนึ่ง   คือ   เกิดแต่กายกับจิต   มิใช่วาจา
+<span class="LineNumber"> 019 </span>           ถ.  สังฆาทิเสสของภิกษุผู้ถึงความเคล้าคลึงด้วยกายกับมาตุคาม    เกิด
+<span class="LineNumber"> 020 </span>ด้วยสมุฏฐานเท่าไร

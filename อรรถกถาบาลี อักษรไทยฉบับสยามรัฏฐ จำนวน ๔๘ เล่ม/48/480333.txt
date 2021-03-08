@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 333
+
+<span class="LineNumber"> 002 </span>			อานิสํสกถาวณฺณนา(๑) 
+<span class="LineNumber"> 003 </span>	อิทานิ  อานิสํสทสฺสาวีกถา  นาม  โหติ ฯ  ตตฺถ  สกสมเย  สงฺขาเร 
+<span class="LineNumber"> 004 </span>อาทีนวโต   นิพฺพานฺจ  อานิสํสโต  ปสฺสนฺตสฺส  สฺโชนปฺ-
+<span class="LineNumber"> 005 </span>ปหานํ  โหตีติ นิจฺฉโย ฯ  เยสํ  ปน  เตสุ  ทฺวีสุปิ  เอกํสิกวาทํ 
+<span class="LineNumber"> 006 </span>คเหตฺวา  อานิสํสทสฺสาวิโนว สฺโชนปฺปหานํ  โหตีติ  ลทฺธิ
+<span class="LineNumber"> 007 </span>เสยฺยถาปิ  อนฺธกานํ  เต  สนฺธาย  ปุจฺฉา สกวาทิสฺส ฯ
+<span class="LineNumber"> 008 </span>ปฏิฺา  อิตรสฺส ฯ อถสฺส  เอส  สกวาโท (๒) ตยา คหิโต
+<span class="LineNumber"> 009 </span>อาทีนโวปิ  ทฏฺ€พฺโพเยวาติ วิภาคทสฺสนตฺถํ สกวาที สงฺขาเรติ-
+<span class="LineNumber"> 010 </span>อาทิมาห ฯ 
+<span class="LineNumber"> 011 </span>	สงฺขาเร  จ  อนิจฺจโต  มนสิกโรติ  นิพฺพาเน  จ  อานิสํส-
+<span class="LineNumber"> 012 </span>ทสฺสาวี  โหตีติ  ปฺหสฺมึ  อยมธิปฺปาโย  อานิสํสทสฺสาวิสฺส 
+<span class="LineNumber"> 013 </span>สฺโชนานํ  ปหานํ  โหตีติ  เตสํ ลทฺธิ ฯ  นนุ  สงฺขาเร 
+<span class="LineNumber"> 014 </span>อนิจฺจโต  มนสิกโรโต  สฺโชนา  ปหิยฺยนฺตีติ  จ  ปุฏฺโ€ อามนฺตาติ
+<span class="LineNumber"> 015 </span>ปฏิชานาติ ฯ  เตน  เต  สงฺขาเร  จ  อนิจฺจโต  มนสิกโรติ 
+<span class="LineNumber"> 016 </span>นิพฺพาเน  จ  อานิสํสทสฺสาวี  โหตีติ  อิทํ  อาปชฺชติ  กึ
+<span class="LineNumber"> 017 </span>สมฺปฏิจฺฉสิ เอตนฺติ ฯ ตโต ปรวาที เอกจิตฺตกฺขณํ  สนฺธาย 
+<span class="LineNumber"> 018 </span>ปฏิกฺขิปติ  ทุติยํ  ปุฏฺโ€  นานาจิตฺตวเสน  ปฏิชานาติ ฯ สกวาที 
+<span class="LineNumber"> 019 </span>ปนสฺส  อธิปฺปายํ  มทฺทิตฺวา  อนิจฺจมนสิการสฺส  อานิสํสทสฺสา-
+<span class="LineNumber"> 020 </span>วิตาย  จ เอกโต  ปฏิฺาตตฺตา ทฺวินฺนํ ผสฺสานํ ทฺวินฺนํ
+<span class="LineNumber"> 021 </span># ๑. ม. อานิสํสทสฺสาวีกถา ฯ  เอวมุปริปิ ฯ
+<span class="LineNumber"> 022 </span># ๒. ม. เอกํสิกวาโท ฯ

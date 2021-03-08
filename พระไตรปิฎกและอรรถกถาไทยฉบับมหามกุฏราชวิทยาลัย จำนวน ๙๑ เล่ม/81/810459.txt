@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>สัญญาเวทยิตกถา  ที่  ๓</H1>
+ 
+<span class="LineNumber"> 002 </span>         [๑๖๒๕]  <B>สกวาที</B>  บุคคลผู้เข้าสัญญาเวทยิตนิโรธ   พึงกระทำกาละ
+<span class="LineNumber"> 003 </span>คือตาย  หรือ ?
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. ผัสสะอันเกิดในสมัยมีความตายเป็นที่สุด     เวทนาอัน
+<span class="LineNumber"> 006 </span>เกิดในสมัยมีความตายเป็นที่สุด     สัญญาอันเกิดในสมัยมีความตายเป็นที่สุด
+<span class="LineNumber"> 007 </span>เจตนาอันเกิดในสมัยมีความตายเป็นที่สุด     จิตอันเกิดในสมัยมีความตาย
+<span class="LineNumber"> 008 </span>เป็นที่สุดของบุคคลผู้เข้าสัญญาเวทยิตนิโรธ  มีอยู่หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 010 </span>                       ส. ผัสสะ  เวทนา  สัญญา  เจตนา  จิต   อันเกิดในสมัยมี
+<span class="LineNumber"> 011 </span>ความตายเป็นที่สุด ของบุคคลผู้เข้าสัญญาเวทยิตนิโรธ ไม่มีหรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ส. หากว่า  ผัสสะ   สัญญา  เจตนา  จิตอันเกิดในสมัยมี
+<span class="LineNumber"> 014 </span>ความตายเป็นที่สุด     ของบุคคลผู้เข้าสัญญาเวทยิตนิโรธ    ไม่มี   ก็ต้องไม่
+<span class="LineNumber"> 015 </span>กล่าวว่า บุคคลผู้เข้าสัญญาเวทยิตนิโรธ พึงทำกาละ ดังนี้.
+<span class="LineNumber"> 016 </span>         [๑๖๒๖]  ส. บุคคลผู้เข้าสัญญาเวทยิตนิโรธ  พึงทำกาละ หรือ ?
+<span class="LineNumber"> 017 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                      ส. ผัสสะ  เวทนา  สัญญา  เจตนา  จิต  ของบุคคลผู้เข้า
+<span class="LineNumber"> 019 </span>สัญญาเวทยิตนิโรธ มีอยู่หรือ ?
+<span class="LineNumber"> 020 </span>                      ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 021 </span>                      ส. ผัสสะ  เวทนา  สัญญา  เจตนา  จิต  ของบุคคลผู้เข้า
+<span class="LineNumber"> 022 </span>สัญญาเวทยิตนิโรธ ไม่มีหรือ ?

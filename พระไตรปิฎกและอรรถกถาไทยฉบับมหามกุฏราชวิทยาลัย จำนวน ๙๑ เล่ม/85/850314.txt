@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           คือ อกุศลเจตนา  อาศัยขันธ์ทั้งหลายที่เป็นอกุศลเกิดขึ้น. 
+<span class="LineNumber"> 002 </span>              <B>๓.  อัพยากตธรรม  อาศัยอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 003 </span>นกัมมปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ เจตนาที่เป็นอัพยากตกิริยา  อาศัยขันธ์ทั้งหลายที่เป็นอัพยากต
+<span class="LineNumber"> 005 </span>กิริยาเกิดขึ้น   พาหิรรูป...อาหารสมุฏฐานรูป...อุตุสมุฏฐานรูป มหาภูต-
+<span class="LineNumber"> 006 </span>รูป ๓ อาศัยมหาภูตรูป ๑ เกิดขึ้น  ฯลฯ    อุปาทารูป   อาศัยมหาภูตรูป
+<span class="LineNumber"> 007 </span>ทั้งหลายเกิดขึ้น,   เจตนาที่เป็นอัพยากตกิริยา  อาศัยหทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 008 </span>              <B>๔. กุศลธรรม  อาศัยอัพยากตธรรมเกิดขึ้น เพราะนกัมม-
+<span class="LineNumber"> 009 </span>ปัจจัย</B> 
+<span class="LineNumber"> 010 </span>           คือ อกุศลเจตนา  อาศัยหทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 011 </span>              <B>๕. อกุศลธรรม อาศัยอัพยากตธรรมเกิดขึ้น เพราะนกัมม-
+<span class="LineNumber"> 012 </span>ปัจจัย</B> 
+<span class="LineNumber"> 013 </span>           คือ อกุศลเจตนา  อาศัยหทยวัตถุเกิดขึ้น.          
+<span class="LineNumber"> 014 </span>              <B>๖. กุศลธรรม  อาศัยกุศลธรรมและอัพยากตธรรมเกดขึ้น
+<span class="LineNumber"> 015 </span>เพราะนกัมมปัจจัย</B>                  
+<span class="LineNumber"> 016 </span>           คือ  กุศลเจตนา  อาศัยขันธ์ทั้งหลายที่เป็นกุศลและหทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 017 </span>              <B>๗. อกุศลธรรม  อาศัยอกุศลธรรมและอัพยากตธรรมเกิด
+<span class="LineNumber"> 018 </span>ขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 019 </span>           คือ  อกุศลเจตนา        อาศัยขันธ์ทั้งหลายที่เป็นอกุศลและหทยวัตถุ
+<span class="LineNumber"> 020 </span>เกิดขึ้น.
+<span class="LineNumber"> 021 </span> <B>[๒๘๙]  ๑. กุศลธรรม อาศัยกุศลธรรมเกิดขึ้น เพราะนวิปากปัจจัย</B>
+

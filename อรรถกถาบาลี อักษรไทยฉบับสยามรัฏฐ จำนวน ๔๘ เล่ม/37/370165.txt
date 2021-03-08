@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 165
+
+<span class="LineNumber"> 002 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 003 </span>	[๘๓๒]สพฺเพ ปตนฺติ(๑) นิรยํ	ยถา ตํ ปาปกมฺมํ(๒) กตฺวา(๓)  
+<span class="LineNumber"> 004 </span>		น หิ ปาปกมฺมํ กตฺวา	ลพฺภา สุคติ(๔) อิโต คนฺตุนฺติ ฯ  
+<span class="LineNumber"> 005 </span>	เตปิ(๕)  โข  มหาชนา(๖)  เทฺว  กาฬกณฺณิโย  หาเรตฺวา  ตตฺเถว  
+<span class="LineNumber"> 006 </span>อภิเสกสมฺภาเร อาหริตฺวา จนฺทกุมารํ อภิสิฺจึสุ(๗) ฯ  
+<span class="LineNumber"> 007 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 008 </span>	[๘๓๓]สพฺเพสุ วิปฺปมุตฺเตสุ	เย ตตฺถ สมาคตา ตทา  
+<span class="LineNumber"> 009 </span>		อาสุํ จนฺทํ อภิสิฺจึสุ	สมาคตา ราชปริสา จ  
+<span class="LineNumber"> 010 </span>		สพฺเพสุ วิปฺปมุตฺเตสุ	ยา(๘) ตตฺถ สมาคตา ตทา  
+<span class="LineNumber"> 011 </span>		อาสุํ จนฺทํ อภิสิฺจึสุ	สมาคตา ราชกฺาโย(๙)  
+<span class="LineNumber"> 012 </span>		สพฺเพสุ วิปฺปมุตฺเตสุ	เย ตตฺถ สมาคตา ตทา  
+<span class="LineNumber"> 013 </span>		อาสุํ จนฺทํ อภิสิฺจึสุ	สมาคตา เทวปริสา จ  
+<span class="LineNumber"> 014 </span>		สพฺเพสุ วิปฺปมุตฺเตสุ	ยา ตตฺถ สมาคตา ตทา  
+<span class="LineNumber"> 015 </span>		อาสุํ จนฺทํ อภิสิฺจึสุ	สมาคตา เทวกฺาโย  
+<span class="LineNumber"> 016 </span>		สพฺเพสุ วิปฺปมุตฺเตสุ	เย ตตฺถ สมาคตา ตทา  
+<span class="LineNumber"> 017 </span>		อาสุํ เจลุกฺเขปมกรุํ	สมาคตา ราชปริสา จ  
+<span class="LineNumber"> 018 </span>		สพฺเพสุ วิปฺปมุตฺเตสุ	ยา ตตฺถ สมาคตา ตทา  
+<span class="LineNumber"> 019 </span>		อาสุํ เจลุกฺเขปมกรุํ	สมาคตา ราชกฺาโย  
+<span class="LineNumber"> 020 </span># ๑. สี. ปตึสุ ฯ  ยุ. ปติตฺวา ฯ  ส. ม. ปวิฏฺ€า ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. ปาปกํ ฯ  ๓. ส. ม. กริตฺวาน ฯ ๔. ม. สุคตึ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. โสปิ ฯ ๖. ม. มหาชโน ฯ  ๗. ฒ. อภิสิฺจิ ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม. เย ฯ เอวมุปริปิ ฯ ๙. ม. ราชกฺาโย จ ฯ เอวมุปริปิ ฯ 

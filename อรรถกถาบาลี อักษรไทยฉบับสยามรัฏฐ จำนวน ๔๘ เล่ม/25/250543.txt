@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  543
+
+<span class="LineNumber"> 002 </span>			สุราธตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	ขีณา หิ มยฺหํ ชาตีติอาทิกา อายสฺมโต สุราธตฺเถรสฺส
+<span class="LineNumber"> 004 </span>คาถา ฯ กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ  ภเว  ปุฺานิ 
+<span class="LineNumber"> 006 </span>อุปจินนฺโต สิขิสฺส  ภควโต  กาเล  กุลเคเห  นิพฺพตฺติตฺวา  วิฺุตํ 
+<span class="LineNumber"> 007 </span>ปตฺโต เอกทิวสํ สตฺถารํ ทิสฺวา  ปสนฺนมานโส  มาตุลุงฺคผลํ  
+<span class="LineNumber"> 008 </span>อทาสิ ฯ  
+<span class="LineNumber"> 009 </span>	โส  เตน  ปุฺกมฺเมน  เทวโลเก  นิพฺพตฺติตฺวา  อปราปรํ 
+<span class="LineNumber"> 010 </span>ปุฺานิ กตฺวา สุคตีสุเยว สํสรนฺโต อิมสฺมึ พุทฺธุปฺปาเท 
+<span class="LineNumber"> 011 </span>อนนฺตรํ วุตฺตสฺส ราธตฺเถรสฺส กนิฏฺโ€ หุตฺวา นิพฺพตฺติ 
+<span class="LineNumber"> 012 </span>สุราโธติสฺส นามํ อโหสิ ฯ โส  เชฏฺ€ภาตริ  ราเธ  (๑)  ปพฺพชิเต 
+<span class="LineNumber"> 013 </span>สยมฺปิ  ปพฺพชิตฺวา วิปสฺสนาย กมฺมํ กโรนฺโต น จิรสฺเสว
+<span class="LineNumber"> 014 </span>อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๒)  
+<span class="LineNumber"> 015 </span>		กณิการํว ชลิตํ		ปุณฺณมาเยว จนฺทิมํ  
+<span class="LineNumber"> 016 </span>		ชลนฺตํ ทีปรุกฺขํว		อทฺทสํ โลกนายกํ ฯ  
+<span class="LineNumber"> 017 </span>		มาตุลุงฺคผลํ คยฺห		อทาสึ สตฺถุโน อหํ  
+<span class="LineNumber"> 018 </span>		ทกฺขิเณยฺยสฺส วีรสฺส	ปสนฺโน เสหิ ปาณิภิ ฯ  
+<span class="LineNumber"> 019 </span>		เอกตึเส อิโต กปฺเป	ยํ ผลํ อททึ ตทา  
+<span class="LineNumber"> 020 </span>		ทุคฺคตึ นาภิชานามิ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 021 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ยุ. อยํ ปาโ€ นตฺถิ ฯ ๒. ขุ. อ. ๓๓/๙๖/๑๔๗ ฯ 

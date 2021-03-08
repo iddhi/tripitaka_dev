@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ 37    หน้า  1
+
+<span class="LineNumber"> 002 </span>				มหานิปาตวณฺณนา  
+
+<span class="LineNumber"> 003 </span>				ภูริทตฺตชาตกํ  
+<span class="LineNumber"> 004 </span>	ยงฺกิฺจิ  รตนมตฺถีติ  อิทํ  สตฺถา  สาวตฺถิยํ  อุปนิสฺสาย
+<span class="LineNumber"> 005 </span>เชตวเน  วิหรนฺโต อุโปสถิเก อุปาสเก อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 006 </span>	เต  กิร  อุโปสถทิวเส  ปาโตว  อุโปสถํ  อธิฏฺ€าย  ทานํ 
+<span class="LineNumber"> 007 </span>ทตฺวา  ปจฺฉาภตฺตํ  คนฺธมาลาทิหตฺถา  เชตวนํ  คนฺตฺวา 
+<span class="LineNumber"> 008 </span>ธมฺมสฺสวนเวลาย  เอกมนฺตํ  นิสีทึสุ ฯ  ตทา  ปน(๑)  สตฺถา
+<span class="LineNumber"> 009 </span>ธมฺมสภํ  อาคนฺตฺวา  อลงฺกตพุทฺธาสเน  นิสีทิตฺวา  ภิกฺขุสงฺฆํ 
+<span class="LineNumber"> 010 </span>โอโลเกตฺวา(๒)  ภิกฺขุอาทีสุ  ปน เย  อารพฺภ  ธมฺมกถา  สมุฏฺ€าติ
+<span class="LineNumber"> 011 </span>เตหิ  สทฺธึ  ตถาคตา  สลฺลปนฺติ  ตสฺมา  อชฺช  อุปาสเก  อารพฺภ
+<span class="LineNumber"> 012 </span>ปุพฺพจริยปฏิสํยุตฺตา  ธมฺมกถา  สมุฏฺ€หิสฺสตีติ  ตฺวา  อุปาสเกหิ 
+<span class="LineNumber"> 013 </span>สทฺธึ  สลฺลปนฺโต  อุโปสถิกตฺถ  อุปาสกาติ(๓)  ปุจฺฉิตฺวา  อาม
+<span class="LineNumber"> 014 </span>ภนฺเตติ  วุตฺเต  สาธุ  อุปาสกา  กลฺยาณํ  โว  กตํ[๔]  อนจฺฉริยํ 
+<span class="LineNumber"> 015 </span>โข  ปเนตํ  ยํ  ตุมฺเห  มาทิสํ  พุทฺธํ  โอวาททายกํ [๕] ลภนฺตา  
+<span class="LineNumber"> 016 </span>อุโปสถํ  กเรยฺยาถ  โปราณกปณฺฑิตา  อนาจริยกาปี  มหนฺตํ 
+<span class="LineNumber"> 017 </span>ยสํ  ปหาย  อุโปสถํ  กรึสุเยวาติ  วตฺวา  ตุณฺหี  อโหสิ  เตหิ  
+<span class="LineNumber"> 018 </span>ยาจิโต  อตีตํ อาหริ  
+<span class="LineNumber"> 019 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. สี. โอโลเกสิ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. อุปาสเกติ ฯ  ๔. ม. เอตฺถนฺตเร อปิจสทฺโท อตฺถิ ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. เอตฺถนฺตเร อาจริยนฺติ ทิสฺสติ ฯ 

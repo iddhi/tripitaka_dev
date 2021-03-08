@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                      <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>         [๗๙๑]  ๑.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 004 </span>อรูปาวจรธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่ไม่ใช่อรูปาวจรธรรม  ซึ่งเป็นอเหตุกะ
+<span class="LineNumber"> 006 </span>ฯลฯ ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 007 </span>         จักขุวิญญาณ  อาศัยจักขายตนะ ฯลฯ  กายายตนะ.
+<span class="LineNumber"> 008 </span>         ขันธ์ทั้งหลายที่ไม่ใช่อรูปาวจรธรรม  ซึ่งเป็นอเหตุกะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 009 </span>         โมหะ  ที่สหรคตด้วยวิจิกิจฉา    ที่สหรคตด้วยอุทธัจจะ    อาศัยขันธ์
+<span class="LineNumber"> 010 </span>ทั้งหลายที่สหรคตด้วยวิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 011 </span>                                    <H2>๒.  นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 012 </span>         <B>ฯลฯ     เพราะนอารัมมณปัจจัย</B>   มี ๓ วาระ.
+
+<span class="LineNumber"> 013 </span>                                       <H2>๓.  นอธิปติปัจจัย</H2>
+<span class="LineNumber"> 014 </span>         [๗๙๒] ๑.  <B>อรูปาวจรธรรม    อาศัยอรูปาวจรธรรม    เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ   อธิปติธรรมที่เป็นอรูปาวจรธรรม     อาศัยขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 017 </span>อรูปาวจรธรรม  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นอรูปาวจรธรรม  ซึ่งเป็นวิบาก
+<span class="LineNumber"> 018 </span>ฯลฯ
+<span class="LineNumber"> 019 </span>         ในปฏิสนธิขณะ ฯลฯ

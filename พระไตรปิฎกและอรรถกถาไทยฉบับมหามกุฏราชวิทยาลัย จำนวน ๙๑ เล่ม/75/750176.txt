@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span><B>คนฺถนิยา เจว ธมฺมา โน จ คนฺถา</B>         ธรรมเป็นอารมณ์ของคันถะ  แต่ไม่
+<span class="LineNumber"> 002 </span>                                                      เป็นคันถะ 
+
+<span class="LineNumber"> 003 </span>                   <H2>๓๐-๕.  คันถคันถสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 004 </span><B>คนฺถา เจว ธมฺมา คนฺถสมฺปยุตฺตา จ</B>     ธรรมเป็นคันถะ และสัมปยุตด้วยคันถะ
+<span class="LineNumber"> 005 </span><B>คนฺถสมฺปยุตฺตา เจว ธมฺมา</B>                  ธรรมสัมปยุตด้วยคันถะ  แต่ไม่เป็น
+<span class="LineNumber"> 006 </span><B>โน จ คนฺถา</B>                                      คันถะ
+
+<span class="LineNumber"> 007 </span>                  <H2>๓๑-๖.  คันถวิปปยุตตคันถนิยทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>คนฺถวิปปยุตฺตา โข ปน ธมฺมา</B>             ธรรมวิปปยุตจากคันถะ แต่เป็นอารมณ์
+<span class="LineNumber"> 009 </span><B>คนฺถนิยาปิ</B>                                       ของคันถะ
+<span class="LineNumber"> 010 </span><B>คนฺถวิปฺปยุตฺตา โข ปน ธมฺมา</B>             ธรรมวิปปยุตจากคันถะ  และไม่เป็น
+<span class="LineNumber"> 011 </span><B>อคนฺถนิยาปิ</B>                                     อารมณ์ของคันถะ
+
+<span class="LineNumber"> 012 </span>                                <H1>โอฆโคจฉกะ</H1>
+
+<span class="LineNumber"> 013 </span>                 <H1>หมวดที่  ๖  มี  ๖  ทุกะ</H1>  <B>คือ</B>
+
+<span class="LineNumber"> 014 </span>         [๗]                  <H2>๓๒-๑.  โอฆทุกะ</H2>
+
+<span class="LineNumber"> 015 </span><B>โอฆา  ธมฺมา</B>                                    ธรรมเป็นโอฆะ
+<span class="LineNumber"> 016 </span><B>โน  โอฆา  ธมฺมา</B>                              ธรรมไม่เป็นโอฆะ
+
+<span class="LineNumber"> 017 </span>                             <H2>๓๓-๒.  โอฆนิยทุกะ</H2>
+
+<span class="LineNumber"> 018 </span><B>โอฆนิยา  ธมฺมา</B>                               ธรรมเป็นอารมณ์ของโอฆะ
+<span class="LineNumber"> 019 </span><B>อโนฆนิยา  ธมฺมา</B>                             ธรรมไม่เป็นอารมณ์ของโอฆะ

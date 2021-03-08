@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>อาตาปี  สมฺปชาโน  สติมา  วิเนยฺย</B>	     มีความเพียรเผากิเลส  มีสัมปชัญญะ  
+<span class="LineNumber"> 002 </span><B>โลเก  อภิชฺฌาโทมนสฺสํ</B>			      [ความรู้สึก]  มีสติ  [ความระลึก]
+<span class="LineNumber"> 003 </span>						                  นำอภิชฌาและโทมนัส  [ความ
+<span class="LineNumber"> 004 </span>						                  ยินดีและคามยินร้าย]  ในโลก
+<span class="LineNumber"> 005 </span>						                  เสียให้พินาศ.
+<span class="LineNumber"> 006 </span>	<B>๒.  เวทนาสุ  เวทนานุปสฺสี</B>	         เธอย่อมพิจารณาเห็นเวทนาใน
+<span class="LineNumber"> 007 </span><B>วิหรติ</B>                                                         เวทนาเนือง ๆ  อยู่
+<span class="LineNumber"> 008 </span><B>อาตาปี  สมฺปชาโน สติมา  วิเนยฺย</B>              มีความเพียรเผากิเลส มีสัมปชัญญะ
+<span class="LineNumber"> 009 </span><B>โลเก  อภิชฺฌาโทมนสฺสสํ</B>		            มีสตินำอภิชฌาและโทมนัสในโลก
+<span class="LineNumber"> 010 </span>						                   เสียให้พินาศ.
+<span class="LineNumber"> 011 </span>	<B>๓.  จิตฺเต  จิตฺตานุปสฺสี</B>		       เธอย่อมพิจารณาเห็นจิตในจิต
+<span class="LineNumber"> 012 </span><B>วิหรติ</B>						         เนือง   ๆ อยู่
+<span class="LineNumber"> 013 </span><B>อาตาปี  สมฺปชาโน  สติมา</B>		          มีความเพียรเผากิเลส  มีสัมปชัญญะ
+<span class="LineNumber"> 014 </span><B>วิเนยฺย  โลเก  อภิชฺฌาโทมนสฺสํ</B>		  มีสตินำอภิชฌาและโทมนัสในโลก
+<span class="LineNumber"> 015 </span>						                  เสียให้พินาศ.
+<span class="LineNumber"> 016 </span>	<B>๔.  ธมฺเมสุ  ธมฺมานุปสฺสี</B>		    เธอย่อมพิจารณาเห็นธรรมในธรรม
+<span class="LineNumber"> 017 </span><B>วิหรติ</B>					                 เนือง ๆ  อยู่
+<span class="LineNumber"> 018 </span><B>อาตาปี  สมฺปชาโน  สติมา</B>		          มีความเพียรเผากิเลส  มีสัมปชัญญะ
+<span class="LineNumber"> 019 </span><B>วิเนยฺย  โลเก  อภิชฺฌาโทมนสฺสํ</B>		  มีสตินำอภิชฌาและโทมนัสในโลก
+<span class="LineNumber"> 020 </span>						                  เสียให้พินาศ.
+

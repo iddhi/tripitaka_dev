@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ      ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๙๒๗]   ทุกขสัจจะไม่ใช่กำลังดับในภูมิใด, ฯ เป ฯ
+<span class="LineNumber"> 005 </span>                                     <I>ทุกขสัจจมูล   จบ</I>
+<span class="LineNumber"> 006 </span>                                     <I>โอกาสวาระ   จบ</I>
+
+<span class="LineNumber"> 007 </span>                                      <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 009 </span><H2>ทุกขสัจจมูละ   ฯ ล ฯ</H2>
+<span class="LineNumber"> 010 </span>         [๙๒๘]   ทุกขสัจจะไม่ใช่กำลังดับแก่บุคคลใดในภูมิใด,   ฯ ล ฯ
+<span class="LineNumber"> 011 </span>คำที่กำหนดด้วยบทว่า <B>ยสฺส</B> (ของบุคคลใด)   <B>ยตฺถ</B>   (ในภูมิใด)  ก็ดี
+<span class="LineNumber"> 012 </span>เป็นเช่นเดียวกัน   อนึ่ง  ไม่พึงกระทำคำว่า  <B>นิโรธสมาปนฺนานํ</B>  นี้  แม้
+<span class="LineNumber"> 013 </span>ในคำที่กำหนดด้วยบทว่า  <B>ยสฺส  ยตฺถ</B>.
+<span class="LineNumber"> 014 </span>                                     <I>ทุกขสัจจมูล   จบ</I>
+<span class="LineNumber"> 015 </span>                                  <I>ปุคคโลกาสวาระ   จบ</I>
+<span class="LineNumber"> 016 </span>                            <I>ปัจจุปปันนวาระ  ปัจจนิก  จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42  ทูเรนิทานกถา หน้า  21
+
+<span class="LineNumber"> 002 </span>		ตถปฺปธานํ ปทหึ    นิสชฺชฏฺ€านจงฺกเม 
+<span class="LineNumber"> 003 </span>		อพฺภนฺตรมฺหิ สตฺตาเห  อภิฺาพล ปาปุณินฺติ ฯ  
+<span class="LineNumber"> 004 </span>	เอวํ  อภิฺาพลํ  ปตฺวา  สุเมธตาปเส  สมาปตฺติสุเขน  
+<span class="LineNumber"> 005 </span>วีตินาเมนฺเต  ทีปงฺกโร  นาม  สตฺถา โลเก อุทปาทิ ฯ ตสฺส 
+<span class="LineNumber"> 006 </span>ปฏิสนฺธิชาติโพธิธมฺมจกฺกปฺปวตฺตเนสุ  สกลาปิ  ทสสหสฺสิโลกธาตุ  
+<span class="LineNumber"> 007 </span>สงฺกมฺปิ  สมฺปกมฺปิ  สมฺปเวธิ  มหาวิรวํ  รวิ  ทฺวตฺตึส  ปุพฺพ-
+<span class="LineNumber"> 008 </span>นิมิตฺตานิ  ปาตุรเหสุํ(๑) ฯ   สุเมธตาปโส  สมาปตฺติสุเขน  วีตินาเมนฺโต  
+<span class="LineNumber"> 009 </span>เนว  ตํ  สทฺทมสฺโสสิ  น  จ  ตานิ  นิมิตฺตานิ  อทฺทส ฯ  
+<span class="LineNumber"> 010 </span>เตน  วุตฺตํ  
+<span class="LineNumber"> 011 </span>		เอวํ เม สิทฺธิปฺปตฺตสฺส  วสีภูตสฺส สาสเน  
+<span class="LineNumber"> 012 </span>		ทีปงฺกโร นาม ชิโน   อุปฺปชฺชิ โลกนายโก ฯ  
+<span class="LineNumber"> 013 </span>		อุปฺปชฺชนฺเต จ ชายนฺเต  พุชฺฌนฺเต ธมฺมเทสเน  
+<span class="LineNumber"> 014 </span>		จตุโร นิมิตฺเต นาทฺทสํ  ฌานรติสมปฺปิโตติ ฯ  
+<span class="LineNumber"> 015 </span>	ตสฺมึ  กาเล (๒)  ทีปงฺกรทสพโล  จตูหิ  ขีณาสวสตสหสฺเสหิ  
+<span class="LineNumber"> 016 </span>ปริวุโต  อนุปุพฺเพน  จาริกํ  จรมาโน  ธมฺมํ  นาม  นครํ  ปตฺวา  
+<span class="LineNumber"> 017 </span>สุทสฺสนมหาวิหาเร  ปฏิวสติ  รมฺมนครวาสิโน  ทีปงฺกโร  กิร  
+<span class="LineNumber"> 018 </span>สมณิสฺสโร  ปรมาภิสมฺโพธึ  ปตฺวา  ปวตฺตวรธมฺมจกฺโก  อนุ-
+<span class="LineNumber"> 019 </span>ปุพฺเพน  จาริกํ  จรมาโน  อมฺหากํ  รมฺมนครํ  ปตฺวา  สุทสฺสน-
+<span class="LineNumber"> 020 </span>มหาวิหาเร  ปฏิวสตีติ  สุตฺวา  สปฺปินวนีตาทีนิ  เจว  เภสชฺชานิ  
+<span class="LineNumber"> 021 </span>วตฺถจฺฉาทนานิ  จ  คาหาเปตฺวา  คนฺธมาลาทิหตฺถา  เยน  พุทฺโธ  
+<span class="LineNumber"> 022 </span># ๑ สี.  ปาตุรหํสุ ฯ  ๒.  สี.  ขเณ ฯ  

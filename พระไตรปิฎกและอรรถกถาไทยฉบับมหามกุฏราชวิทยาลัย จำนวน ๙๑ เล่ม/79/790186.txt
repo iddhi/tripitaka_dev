@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>         ก็บัญญัติใด   มีคำว่า  ไม้ ๓ อัน   บท ๘ บท   กองข้าวเปลือก    กอง  
+<span class="LineNumber"> 002 </span>ดอกไม้   เป็นต้น   เพราะมุ่งการประชุมของวัตถุเหล่านั้น ๆ   บัญญัตินี้    ชื่อว่า
+<span class="LineNumber"> 003 </span><B>สโมธานบัญญัติ.</B>
+<span class="LineNumber"> 004 </span>         บัญญัติใดมีคำว่า  ๒,๓,๔  เป็นต้น    เพราะมุ่งยกบทต้น ๆ   นี้ก่อนแล้ว
+<span class="LineNumber"> 005 </span>บัญญัติ  นี้ชื่อว่า  <B>อุปนิกขิตตบัญญัติ.</B>
+<span class="LineNumber"> 006 </span>         บัญญัติใด   มีคำว่า    ปฐวี    เตโช    ความแข็ง    ความร้อนเป็นต้น
+<span class="LineNumber"> 007 </span>เพราะเพ่งสภาวธรรมนั้น ๆ บัญญัตินี้   ชื่อว่า  <B>ตัชชาบัญญัติ.</B>
+<span class="LineNumber"> 008 </span>         ก็บัญญัติใด   มีคำเป็นต้นว่า   คนมีอายุ  ๘๐ ปี  คนมีอายุ ๙๐ ปี ดังนี้
+<span class="LineNumber"> 009 </span>เพราะเพ่งความเป็นของสืบต่อกันไม่ขาดสาย  บัญญัตินี้   ชื่อว่า  <B>สันตติบัญญัติ.</B>
+<span class="LineNumber"> 010 </span>         อนึ่ง  ในบรรดาบัญญัติ ๖ เหล่านั้น   ตัชชาบัญญัติ   ก็คือ  วิชชมาน-
+<span class="LineNumber"> 011 </span>บัญญัตินั่นเอง.  บัญญัติที่เหลือย่อมรวมเป็นพวกอวิชชมานบัญญัติ   และอวิชช-
+<span class="LineNumber"> 012 </span>มาเนน  อวิชชมานบัญญัติ.
+
+<span class="LineNumber"> 013 </span>                             <H1>อีกนัยหนึ่งบัญญัติ  ๖  ของอาจารย์</H1>
+<span class="LineNumber"> 014 </span>         อีกนัยหนึ่ง   บัญญัติ  ๖  ตามนัยของอาจารย์   นอกจากอรรถกถา คือ
+<span class="LineNumber"> 015 </span>        <B>๑.  กิจจบัญญัติ
+<span class="LineNumber"> 016 </span>        ๒.  สัณฐานบัญญัติ
+<span class="LineNumber"> 017 </span>        ๓.  ลิงคบัญญัติ
+<span class="LineNumber"> 018 </span>        ๔.  ภูมิบัญญัติ
+<span class="LineNumber"> 019 </span>        ๕.  ปัจจัตตบัญญัติ
+<span class="LineNumber"> 020 </span>        ๖.  อสังขตบัญญัติ</B>
+<span class="LineNumber"> 021 </span>        บรรดาบัญญัติ  ๖   เหล่านั้น      การบัญญัติด้วยสามารถแห่งกิจมีคำว่า
+<span class="LineNumber"> 022 </span>นักธรรมกถึก  เป็นต้น   ชื่อว่า  <B>กิจจบัญญัติ.</B>

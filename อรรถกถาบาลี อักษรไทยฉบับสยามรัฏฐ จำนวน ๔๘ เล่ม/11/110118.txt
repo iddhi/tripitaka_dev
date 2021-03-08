@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑ หน้า  ๑๑๘
+
+<span class="LineNumber"> 002 </span>			โลกสุตฺตวณฺณนา            
+<span class="LineNumber"> 003 </span>	จตุตฺเถ โลกสฺสาติ สงฺขารโลกสฺส ฯ อยเมตฺถ วิเสโส ฯ 
+<span class="LineNumber"> 004 </span>				จตุตฺถํ ฯ    
+
+<span class="LineNumber"> 005 </span>			าติกสุตฺตวณฺณนา           
+<span class="LineNumber"> 006 </span>	ปฺจเม  าติเกติ  ทฺวินฺนํ  าตกานํ  คาเม ฯ  
+<span class="LineNumber"> 007 </span>คิฺชกาวสเถติ  อิฏฺ€กาหิ กเต  มหาปาสาเท ฯ  ธมฺมปริยายนฺติ  
+<span class="LineNumber"> 008 </span>ธมฺมการณํ ฯ  อุปสฺสุตีติ  (๑)  อุปสฺสติฏฺ€านํ ยํ  €านํ  อุปคเตน 
+<span class="LineNumber"> 009 </span>สกฺกา  โหติ  ภควโต  สทฺทํ  โสตุํ  ตตฺถ  €ิโตติ  อตฺโถ ฯ  โส 
+<span class="LineNumber"> 010 </span>กิร  คนฺธกุฏิปริเวณสมฺมชฺชนตฺถํ  อาคโต  อตฺตโน  กมฺมํ  ปหาย  
+<span class="LineNumber"> 011 </span>ภควโต  ธมฺมโฆสํ  สุณนฺโต  อฏฺ€าสิ ฯ  อทฺทสาติ  ตทา  กิร  
+<span class="LineNumber"> 012 </span>ภควโต  อาทิโตว  ปจฺจยาการํ  มนสิกโรนฺตสฺส  อิทํ  อิมินา  
+<span class="LineNumber"> 013 </span>ปจฺจเยน  โหติ  อิทํ  อิมินาติ  อาวชฺชโต  ยาว   ภวคฺคา 
+<span class="LineNumber"> 014 </span>เอกงฺคณํ  อโหสิ  สตฺถา  มนสิการํ  ปหาย  วจสา  สชฺฌายํ 
+<span class="LineNumber"> 015 </span>กโรนฺโต  ยถานุสนฺธินา  เทสนํ  นิฏฺ€เปตฺวา(๒)  อปิ  นุ โข 
+<span class="LineNumber"> 016 </span>อิมํ ธมฺมปริยายํ โกจิ อสฺโสสีติ  อาวชฺเชนฺโต ตํ ภิกฺขุํ 
+<span class="LineNumber"> 017 </span>อทฺทส ฯ เตน วุตฺตํ อทฺทสา โข ภควาติ ฯ  อสฺโสสิ  
+<span class="LineNumber"> 018 </span>โนติ อสฺโสสิ  นุ ฯ  อถวา  อสฺโสสิ  โนติ  อมฺหากํ  ภาสนฺตานํ 
+<span class="LineNumber"> 019 </span>อสฺโสสีติ ฯ  อุคฺคณฺหาหีติอาทีสุ สุตฺวา ตุณฺหีภูโตว ปคุณํ 
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. อุปสฺสุตินฺติ ฯ ๒. นิฏฺ€าเปตฺวาติ ยุตฺตตรํ ฯ

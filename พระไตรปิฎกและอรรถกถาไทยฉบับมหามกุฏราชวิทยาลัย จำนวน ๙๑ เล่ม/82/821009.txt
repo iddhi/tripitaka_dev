@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 002 </span>                                         <H1>ทุกขสัจจมูล</H1> 
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         ทุกขสัจจะกำลังเกิดในภูมิใด,     สมุทยสัจจะก็กำลังดับในภูมินั้น
+<span class="LineNumber"> 005 </span>ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ในอสัญญสัตตภูมิ    ทุกขสัจจะกำลังเกิด      แต่สมุทยสัจจะไม่ใช่
+<span class="LineNumber"> 007 </span>กำลังดับในภูมินั้น.
+<span class="LineNumber"> 008 </span>                        <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจมูลี</I>
+
+<span class="LineNumber"> 009 </span>         คำว่า   <B>ยตฺถ</B>   ( ในภูมิใด )   เหมือนกัน    ทั้งอุปปาทวาระ  ทั้ง
+<span class="LineNumber"> 010 </span>ทั้งนิโรธวาระ   ทั้งอุปปาทนิโรธวาระ  เหตุเครื่องกระทำให้ต่างกันย่อม
+<span class="LineNumber"> 011 </span>ไม่มี.
+<span class="LineNumber"> 012 </span>                                    <I>ทุกขสัจจมูล   จบ</I>
+<span class="LineNumber"> 013 </span>                                     <I>โอกาสวาระ  จบ</I>

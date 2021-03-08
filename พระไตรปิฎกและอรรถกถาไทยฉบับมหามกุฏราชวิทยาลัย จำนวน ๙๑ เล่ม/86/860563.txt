@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>อนุโลมปัจจนียนัย</H1>
+<span class="LineNumber"> 002 </span>                         <H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1> 
+<span class="LineNumber"> 003 </span>         [๔๗๙]  <B>เพราะเหตุปัจจัย</B>  ในนอธิปติปัจจัย  มี  ๑๐ วาระ. . .ในน
+<span class="LineNumber"> 004 </span>ปุเรชาตปัจจัย   มี ๑๐ วาระ  ในนปัจฉาชาตปัจจัย  มี ๑๐ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 005 </span>ปัจจัย   มี ๑๐ วาระ   ในนกัมมปัจจัย  มี ๑๐ วาระ   ในวิปากปัจจัย  มี ๑๐
+<span class="LineNumber"> 006 </span>วาระ  ในนวิปปยุตตปัจจัย  มี ๑๐ วาระ. 
+<span class="LineNumber"> 007 </span>         อนุโลมปัจจนียะ  พึงนับโดยพิสดาร.
+<span class="LineNumber"> 008 </span>                                       <I>อนุโลมปัจจนียะ  จบ</I>
+
+<span class="LineNumber"> 009 </span>                                          <H1>ปัจจนียานุโลมนัย</H1>
+<span class="LineNumber"> 010 </span>                           <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 011 </span>         [๔๘๐]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย  มี ๑๐ วาระ. . .ใน
+<span class="LineNumber"> 012 </span>อนันตรปัจจัย  มี ๑๐ วาระ ในสมนันตรปัจจัย  มี  ๑๐ วาระ   ในสหชาตปัจจัย
+<span class="LineNumber"> 013 </span>มี ๑๐ วาระ  ในอัญญมัญญปัจจัย  มี ๑๐ วาระ  ในนิสสยปัจจัย  มี ๑๐ วาระ
+<span class="LineNumber"> 014 </span>ในอุปนิสสยปัจจัย มี  ๑๐ วาระ ในปุเรชาตปัจจัย มี ๑๐ วาระ ในอาเสวนปัจจัย
+<span class="LineNumber"> 015 </span>มี  ๑๐ วาระ    ในกัมมปัจจัย   มี ๑๐ วาระ   ในวิปากปัจจัย    มี ๑๐ วาระ   ใน
+<span class="LineNumber"> 016 </span>อาหารปัจจัย   มี ๑๐ วาระ     ในอินทริยปัจจัย   มี  ๑๐ วาระ    ในฌานปัจจัย 
+<span class="LineNumber"> 017 </span>มี ๑๐ วาระ     ในมัคคปัจจัย    มี ๑ วาระ  ในสัมปยุตตปัจจัย    มี  ๑๐ วาระ
+<span class="LineNumber"> 018 </span>ในวิปปยุตตปัจจัย  มี ๑๐ วาระ   ในอัตถิปัจจัย   มี  ๑๐ วาระ    ในนัตถิปัจจัย
+<span class="LineNumber"> 019 </span>มี ๑๐ วาระ   ในวิคตปัจจัย   มี  ๑๐ วาระ   ในอวิคตปัจจัย   มี  ๑๐ วาระ.
+<span class="LineNumber"> 020 </span>                                        <I>ปัจจนียานุโลม  จบ</I>
+<span class="LineNumber"> 021 </span>                                          <I>ปฏิจจวาระ  จบ</I>
+<span class="LineNumber"> 022 </span>         สหชาตวาระก็ดี   ปัจจยวาระก็ดี   นิสสยวาระก็ดี   สังสัฏฐวาระก็ดี
+<span class="LineNumber"> 023 </span>สัมปยุตตวาระก็ดี  เหมือนกับ  ปฏิจจวาระ.

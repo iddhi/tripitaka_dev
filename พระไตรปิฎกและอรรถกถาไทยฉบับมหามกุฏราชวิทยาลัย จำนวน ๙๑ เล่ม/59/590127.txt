@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๒.  สูจิชาดก</H1> 
+
+<span class="LineNumber"> 002 </span>                                 <H1>ว่าด้วยเห็น</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๙๑๑]   ใครต้องการซื้อเข็มที่ไม่ขรุขระ.   ไม่หยาบ
+<span class="LineNumber"> 004 </span>           ขัดด้วยหินแข็ง   มีรูสำหรับร้อยด้ายดี    ทั้งเล่ม
+<span class="LineNumber"> 005 </span>           เล็ก  ทั้งปลายคม.
+<span class="LineNumber"> 006 </span>         [๙๑๒]   ใครต้องการซื้อเข็มที่ขัดดีแล้ว      มีรูร้อย
+<span class="LineNumber"> 007 </span>           ด้ายเรียบร้อย  ที่ให้เป็นไปดีแล้วตามลำดับ  ที่
+<span class="LineNumber"> 008 </span>           กัดทั่งทะลุและแข็งแกร่ง.
+<span class="LineNumber"> 009 </span>         [๙๑๓]   เดี๋ยวนี้   เข็มและเบ็ดทั้งหลายเป็นสินค้า
+<span class="LineNumber"> 010 </span>           ออกไปจากบ้านนี้   นี้ใครต้องการขายเข็ม  ใน
+<span class="LineNumber"> 011 </span>           หมู่บ้านช่างเหล็ก ?  
+<span class="LineNumber"> 012 </span>         [๙๑๔]   ศัสตราทั้งหลายไปจากหมู่บ้านนี้.      การ
+<span class="LineNumber"> 013 </span>           งานมากอย่างต่าง ๆ ชนิด   เป็นไปในหมู่บ้านนี้
+<span class="LineNumber"> 014 </span>           นี้ใครควรจะขายเข็มในหมู่บ้านช่างเหล็ก.
+<span class="LineNumber"> 015 </span>         [๙๑๕]   ผู้ฉลาดจะต้องขายเข็มในหมู่บ้านช่าง-
+<span class="LineNumber"> 016 </span>           เหล็ก    อาจารย์ช่างทั้งหลาย    จึงจะเข้าใจงาน
+<span class="LineNumber"> 017 </span>           ว่าทำดีหรือไม่ดี.</B>

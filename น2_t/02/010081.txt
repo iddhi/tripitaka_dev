@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>๓.  ภิสี  ฟูก.
+<span class="LineNumber"> 002 </span>๔.  พิมฺโพหนํ.  หมอน.    
+<span class="LineNumber"> 003 </span>          <B>เครื่องโลหะที่เป็นภาชนะและเครื่องมือ  จำแนกเป็น  ๙  คือ</B>
+<span class="LineNumber"> 004 </span>๑.  โลหกุมฺภี  หม้อโลหะ.
+<span class="LineNumber"> 005 </span>๒.  โลหภาณกํ  อ่างโลหะ.
+<span class="LineNumber"> 006 </span>๓.  โลหวารโก  กระถางโลหะ.
+<span class="LineNumber"> 007 </span>๔.  โลหกฏาหํ  กระทะโลหะ.
+<span class="LineNumber"> 008 </span>๕.  วาสี  มีดใหญ่หรือพร้าได้.
+<span class="LineNumber"> 009 </span>๖.  ผรสุ  ขวาน.
+<span class="LineNumber"> 010 </span>๗.  กุ€ารี  ผึ่ง สำหรับถากไม้.
+<span class="LineNumber"> 011 </span>๘.  กุทฺทาโล  จอบหรือเสียม  สำหรับขุดดิน.
+<span class="LineNumber"> 012 </span>๙.  นิขาทนํ  สว่าน  สำหรับเจาะไม้.
+<span class="LineNumber"> 013 </span>    <B>เครื่องสัมภาระสำหรับทำเสนาสนะและเครื่องใช้จำแนกเป็น ๘ คือ</B>
+<span class="LineNumber"> 014 </span>๑.  วลฺลี  เถาวัลย์  เช่นหวาย.
+<span class="LineNumber"> 015 </span>๒.  เวฬุ  ไม้ไผ่.
+<span class="LineNumber"> 016 </span>๓.  มุญฺชํ  เป็นหญ้าชนิดหนึ่ง  แปลว่าหญ้ามุงกระต่าย.
+<span class="LineNumber"> 017 </span>๔.  ปพฺพชํ  เป็นหญ้าชนิดหนึ่ง  แปลว่าหญ้าปล้อง.
+<span class="LineNumber"> 018 </span>๕.  ติณํ  หญ้าสามัญ.
+<span class="LineNumber"> 019 </span>๖.  มตฺติกา  ดินเหนียว.
+<span class="LineNumber"> 020 </span>๗.  ทารุภณฺฑํ  ของทำด้วยไม้.
+<span class="LineNumber"> 021 </span>๘.  มตฺติกาภณฺฑํ  ของทำด้วยดินเผา.
+

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๘. นันทนสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                        <H1>ว่าด้วยเหตุเศร้าโศกของนรชน</H1>
+
+<span class="LineNumber"> 003 </span>           [๔๓๗]    ข้าพเจ้าได้สดับมาแล้วอย่างนี้:-  
+<span class="LineNumber"> 004 </span>           สมัยหนึ่ง  พระผู้มีพระภาคเจ้าประทับ อยู่ ณ พระวิหารเชตวัน  อาราม
+<span class="LineNumber"> 005 </span>ของท่านอนาถบิณฑิกเศรษฐี  กรุงสาวัตถี.
+<span class="LineNumber"> 006 </span>           [๔๓๘]   ครั้งนั้น  มารผู้มีบาปได้เข้าไปเฝ้าพระผู้มีพระภาคเจ้าแล้วได้
+<span class="LineNumber"> 007 </span>กล่าวคาถานี้ในสำนัก พระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 008 </span>                             <B>คนมีบุตร   ย่อมเพลิดเพลินเพราะ
+<span class="LineNumber"> 009 </span>              บุตร    คนมีโคก็ย่อมเพลิดเพลินเพราะโค
+<span class="LineNumber"> 010 </span>              ฉันนั้นเหมือนกัน    อุปธิทั้งหลายนั่นแล
+<span class="LineNumber"> 011 </span>              เป็นเครื่องเพลิดเพลินของนรชน    เพราะ
+<span class="LineNumber"> 012 </span>              คนที่ไม่มีอุปธิหาเพลิดเพลินไม่.</B>
+<span class="LineNumber"> 013 </span>           [๔๓๙]  ครั้งนั้น    พระผู้มีพระภาคเจ้าทรงทราบว่า    นี่มารผู้มีบาป
+<span class="LineNumber"> 014 </span>จึงได้ตรัสกะมารผู้มีบาปด้วยพระคาถาว่า
+<span class="LineNumber"> 015 </span>                             <B>คนมีบุตร   ย่อมเศร้าโศกเพราะบุตร
+<span class="LineNumber"> 016 </span>              คนมีโคก็ย่อมเศร้าโศกเพราะโค    ฉันนั้น 
+<span class="LineNumber"> 017 </span>              เหมือนกัน  อุปธิทั้งหลายนั่นแล  เป็นเหตุ
+<span class="LineNumber"> 018 </span>              เศร้าโศกของนรชน  เพราะคนที่ไม่มีอุปธิ
+<span class="LineNumber"> 019 </span>              หาเศร้าโศกไม่.</B>

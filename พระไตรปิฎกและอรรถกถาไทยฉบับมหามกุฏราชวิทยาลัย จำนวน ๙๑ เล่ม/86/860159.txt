@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         กายินทรีย์และกายวิญญาณ        เป็นปัจจัยแก่ขันธ์ที่สหรคตด้วย
+<span class="LineNumber"> 002 </span>กายวิญญาณ  ด้วยอำนาจของอินทริยปัจจัย. 
+
+<span class="LineNumber"> 003 </span>                                       <H1>๑๗.  ฌานปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๑๓๙๓] ๑.  <B>วิปากธรรม   เป็นปัจจัยแก่ปากธรรม  ด้วยอำ-
+<span class="LineNumber"> 005 </span>นาจของฌานปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                        ๔.  <B>วิปากธัมมธรรม    เป็นปัจจัยแก่วิปากธัมมธรรม
+<span class="LineNumber"> 007 </span>ด้วยอำนาจของฌานปัจจัย</B>  มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                        ๗.  <B>เนววิปากนวิปากธัมมธรรม    เป็นปัจจัยแก่เนว-
+<span class="LineNumber"> 009 </span>วิปากนวิปากธัมมธรรม  ด้วยอำนาจของฌานปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ   องค์ฌานที่เป็นเนววิปากนวิปากธัมมธรรม      เป็นปัจจัยแก่สัม-
+<span class="LineNumber"> 011 </span>ปยุตตขันธ์และจิตตสมุฏฐานรูป   ด้วยอำนาจของฌานปัจจัย.
+
+<span class="LineNumber"> 012 </span>                                       <H1>๑๘. มัคคปัจจัย</H1>
+<span class="LineNumber"> 013 </span>         [๑๓๙๔] ๑.  <B>วิปากธรรม     เป็นปัจจัยแก่วิปากธรรม     ด้วย
+<span class="LineNumber"> 014 </span>อำนาจของมัคคปัจจัย</B> มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>                        ๔.  <B>วิปากธัมมธรรม    เป็นปัจจัยแก่วิปากธัมมธรรม
+<span class="LineNumber"> 016 </span>ด้วยอำนาจของมัคคปัจจัย</B>  มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>                        ๗.  <B>เนววิปากนวิปากธัมมธรรม    เป็นปัจจัยแก่เนว-
+<span class="LineNumber"> 018 </span>วิปากนวิปากธัมมธรรม  ด้วยอำนาจของมัคคปัจจัย</B>

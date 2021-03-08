@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ วิตกฺกสณฺ€านสุตฺตวณฺณนา หน้า ๑๔๙
+		
+<span class="LineNumber"> 002 </span>เตนสฺส  อสุภโต  อุปสํหรณํ  อฺํ  นิมิตฺตํ  นาม  โหติฯ  
+<span class="LineNumber"> 003 </span>	ปตฺตจีวราทีสุ (๑) สงฺขาเรสุ  โลเภ  อุปฺปนฺเน  ทฺวีหากาเรหิ  สงฺขาร-
+<span class="LineNumber"> 004 </span>มชฺฌตฺตตํ  สมุฏฺ€เปตีติ  สติปฏฺ€านวณฺณนายํ  วุตฺตนเยน  อสฺสา-
+<span class="LineNumber"> 005 </span>มิกตาวกาลิกภาววเสน  มนสิกโรโต  โส  ปหียติ  เตนสฺส  
+<span class="LineNumber"> 006 </span>อนิจฺจโต  มนสิกาโร  อฺํ  นิมิตฺตํ  นาม  โหติ  สตฺเตสุ  
+<span class="LineNumber"> 007 </span>โทเส  อุปฺปนฺเน  ปน  อาฆาตวินยกกโจปมาทีนํ (๒)  วเสน  เมตฺตา  
+<span class="LineNumber"> 008 </span>ภาเวตพฺพา  ตํ  ภาวยโต  โส(๓)  ปหียติ  เตนสฺส  เมตฺตาภาวนา  
+<span class="LineNumber"> 009 </span>อฺํ  นิมิตฺตํ  นาม  โหติฯ  ขานุกณฺฏกติณปณฺณาทีสุ  ปน  
+<span class="LineNumber"> 010 </span>โทเส  อุปฺปนฺเน  ตฺวํ  กสฺส  กุปฺปสิ  กึ  ป€วิธาตุยา  อุทาหุ  
+<span class="LineNumber"> 011 </span>อาโปธาตุยา  โก  วา  ปนายํ  กุปฺปติ  นาม  กึ  ป€วีธาตุ  
+<span class="LineNumber"> 012 </span>อุทาหุ  อาโปธาตูติอาทินา  นเยน  ธาตุมนสิการํ   กโรนฺตสฺส 
+<span class="LineNumber"> 013 </span>โทโส  ปหียติ  เตนสฺส  ธาตุมนสิกาโร  อฺํ  นิมิตฺตํ  นาม  
+<span class="LineNumber"> 014 </span>โหติฯ  
+<span class="LineNumber"> 015 </span>	โมเห  ปน  ยตฺถ  กตฺถจิ  อุปฺปนฺเน  
+<span class="LineNumber"> 016 </span>		ครุสํวาโส  อุทฺเทโส  อุทฺทิฏฺ€ปริปุจฺฉนํ  
+<span class="LineNumber"> 017 </span>		กาเลน  ธมฺมสฺสวนํ  €านาฏฺ€านวินิจฺฉโย(๔)  
+<span class="LineNumber"> 018 </span>ปฺจ  ธมฺเม  อุปนิสฺสาย  โมโห  (๕)ปหียตีติฯ  
+<span class="LineNumber"> 019 </span>	อิเม  ปฺจ  ธมฺมา  อุปนิสฺสิตพฺพาฯ  ครุํ  อุปนิสฺสาย  วิหรนฺโต(๖)  
+<span class="LineNumber"> 020 </span># ๑. ม. ปตฺตจีวราทีสุ สงฺขาเรสุ ฯ   ๒. ม. ...กโจปโมวาทาทีนํ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. โทโส ฯ   ๔. ม. อิติสทฺโท นตฺถิ ฯ   ๕. ม. โมหธาตุ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. วิหรนฺโต หิ ภิกฺขุ ฯ

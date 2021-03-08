@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                            ปาจิตตีย์  คัพภินีวรรคที่  ๗
+<span class="LineNumber"> 002 </span>                                     สิกขาบทที่  ๑
+<span class="LineNumber"> 003 </span>           วินิจฉัย  ในสิกขาบทที่  ๑  แห่งคัพภินีวรรค  พึงทราบดังนี้ :-
+<span class="LineNumber"> 004 </span>           บทว่า  <B>อาปนฺนสตฺตา</B>  ได้แก่  สตรีผู้มีบุตรเข้ามาเกิดยังท้อง.
+<span class="LineNumber"> 005 </span>                                 สิกขาบทที่  ๑  จบ.
+<span class="LineNumber"> 006 </span>                                     สิกขาบทที่  ๒
+<span class="LineNumber"> 007 </span>           วินิจฉัย  ในสิกขาบทที่  ๒  พึงทราบดังนี้ :-
+<span class="LineNumber"> 008 </span>           บทว่า  <B>ปายนฺตึ </B> ได้แก่  สตรีผู้ยังทารกให้ดื่มน้ำนมอยู่.
+<span class="LineNumber"> 009 </span>           สองบทว่า <B> มาตา  วา  โหติ </B> มีความว่า  เป็นมารดาก็ดี  เป็น
+<span class="LineNumber"> 010 </span>นางนมก็ดี  แห่งทารกผู้ซึ่งยังดื่มน้ำนม.  คำที่เหลือ  ตื้นทั้งนั้น.  แม้
+<span class="LineNumber"> 011 </span>ทั้ง ๒  สิกขาบทนี้  มีสมุฏฐาน ๓  เป็นกิริยา  สัญญาวิโมกข์  สจิตตกะ
+<span class="LineNumber"> 012 </span>ปัณณัตติวัชชะ  กายกรรม  วจีกรรม  มีจิต ๓  มีเวทนา ๓  แล.
+<span class="LineNumber"> 013 </span>                                  สิกขาบทที่  ๒  จบ.
+<span class="LineNumber"> 014 </span>                                      สิกขาบทที่  ๓
+<span class="LineNumber"> 015 </span>           วินิจฉัย  ในสิกขาบทที่  ๓  พึงทราบดังนี้ :-
+<span class="LineNumber"> 016 </span>           สองบทว่า  <B>สิกฺขาสมฺมตึ  ทาตุํ  </B>มีความว่า  ถามว่า   " เพราะ
+<span class="LineNumber"> 017 </span>เหตุไร  พระผู้มีพระภาคจึงทรงประทานให้สงฆ์  ให้สิกขาสมมติ. "

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>๕.  นกัมมปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๑๐๗] ๑.  <B>ธรรมที่เป็นสเหตุกธรรมแต่ใช่เหตุธรรม    อาศัย
+<span class="LineNumber"> 003 </span>ธรรมที่เป็นทั้งเหตุธรรม  และสเหตุกธรรมเกิดขึ้น เพราะนกัมมปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือสัมปยุตตเจตนา   อาศัยเหตุธรรม.
+<span class="LineNumber"> 005 </span>              	      ๒.  <B>ธรรมที่เป็นสเหตุกธรรมแต่ไม่ใช่เหตุธรรม  อาศัย
+<span class="LineNumber"> 006 </span>ธรรมที่เป็นสเหตุกธรรมแต่ไม่ใช่เหตุธรรม   เกิดขึ้น    เพราะนกัมม-
+<span class="LineNumber"> 007 </span>ปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ   สัมปยุตตเจตนา  อาศัยขันธ์ทั้งหลายที่เป็นสเหตุกธรรม  แต่ไม่ใช่
+<span class="LineNumber"> 009 </span>เหตุธรรม.
+<span class="LineNumber"> 010 </span>               	      ๓.  <B>ธรรมที่เป็นสเหตุกธรรมแต่ไม่ใช่เหตุธรรม     อาศัย
+<span class="LineNumber"> 011 </span>ธรรมแต่ไม่ใช่เหตุธรรม    เกิดขึ้น   เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ   สัมปยุตตเจตนา   อาศัยเหตุธรรม   และสัมปยุตตขันธ์ทั้งหลาย.
+
+<span class="LineNumber"> 013 </span>                        <H1>๖. นวิปากปัจจัย       ๗.  นวิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           <B>ฯลฯ  เพราะนวิปากปัจจัย</B>
+<span class="LineNumber"> 015 </span>           <B>ฯลฯ  เพราะนวิปปยุตตปัจจัย</B>
+
+<span class="LineNumber"> 016 </span>                                   <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 017 </span>           [๑๐๘]  ในนอธิปติปัจจัย    มี ๙ วาระ   ในนปุเรชาตปัจจัย    มี ๙
+<span class="LineNumber"> 018 </span>วาระ  ในนปัจฉาชาตปัจจัย   มี ๙ วาระ   ในนอาเสวนปัจจัย  มี ๘ วาระ  ใน
+<span class="LineNumber"> 019 </span>นกัมมปัจจัย   มี ๓ วาระ   ในนวิปากปัจจัย   มี ๙ วาระ   ในนวิปปยุตตปัจจัย 
+<span class="LineNumber"> 020 </span>มี ๙ วาระ.

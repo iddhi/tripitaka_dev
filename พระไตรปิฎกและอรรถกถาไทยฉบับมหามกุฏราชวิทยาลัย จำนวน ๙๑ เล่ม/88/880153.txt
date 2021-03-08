@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>ในมัคคปัจจัย   มี ๓ วาระ    ในสัมปยุตตปัจจัย   มี ๓ วาระ    ในอัตถิปัจจัย
+<span class="LineNumber"> 002 </span>มี ๓ วาระ  ในนัตถิปัจจัย  มี ๙ วาระ  ในวิคตปัจจัย  มี ๙ วาระ   ในอวิคต- 
+<span class="LineNumber"> 003 </span>ปัจจัย  มี ๙ วาระ.
+<span class="LineNumber"> 004 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 005 </span>                                         <I>ปัจจนียานุโลมนัย   จบ</I>
+<span class="LineNumber"> 006 </span>                                          <I>เหตุสเหตุกทุกะ   จบ </I>
+            

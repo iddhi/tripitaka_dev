@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  31  กสฺสปมนฺทิยชาตกํ  หน้า  333  
+
+<span class="LineNumber"> 002 </span>โอวทนฺโต    อิมา   คาถา    อาภาสิ  
+<span class="LineNumber"> 003 </span>	[๕๔๖]	อปิ  กสฺสป  มนฺทิยา		ยุวา  สปติ  หนฺติ  วา  
+<span class="LineNumber"> 004 </span>			สพฺพนฺตํ  ขมเต  ธีโร		ปณฺฑิโต  ตํ  ติติกฺขติ  
+<span class="LineNumber"> 005 </span>	[๕๔๗]	สเจปิ  นฺตา  วิวทนฺติ		ขิปฺป ํ สนฺธิยเร (๑)  ปุน  
+<span class="LineNumber"> 006 </span>			พาลา  ปตฺตาว  ภิชฺชนฺติ	น  เต  สมถมชฺฌคู  
+<span class="LineNumber"> 007 </span>	[๕๔๘]	เอเต  ภิยฺโย  สมายนฺติ		สนฺธิ  เตสํ  น  ชีรติ  
+<span class="LineNumber"> 008 </span>			โย  จาธิปนฺนํ  ชานาติ		โย  จ  ชานาติ  เทสนํ  
+<span class="LineNumber"> 009 </span>	[๕๔๙]	เอโส  หิ  อุตฺตริตโร		ภารวาโห   ธุรํธโร (๒)   
+<span class="LineNumber"> 010 </span>			โย  ปเรสาธิปนฺนานํ		สยํ   สนฺธาตุมรหตีติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  กสฺสปาติ  ปิตรํ  นาเมนาลปติ ฯ  มนฺทิยาติ  มนฺทีภาเวน  
+<span class="LineNumber"> 012 </span>ตรุณตาย ฯ  ยุวา  สปติ  หนฺติ  วาติ  ตรุณทารโก  อกฺโกสติปิ  
+<span class="LineNumber"> 013 </span>ปหรติปิ ฯ  ธีโรติ   วิคตปาโป  วิริโยติ  วุจฺจติ ฯ  ปฺาย  
+<span class="LineNumber"> 014 </span>สมนฺนาคโตติปิ  อตฺโถ  (๓) ฯ  อิตรํ   ปน  อิมสฺเสว   เววจนํ ฯ 
+<span class="LineNumber"> 015 </span>อุภเยนาปิ  สพฺพนฺตํ  พาลทารเกหิ  กตํ  อปราธํ  มหลฺลกธีโร  
+<span class="LineNumber"> 016 </span>ปณฺฑิโต  สหติ  ติติกฺขตีติ  ทสฺเสติ ฯ  สนฺธิยเรติ  ปุน  มิตฺตภาเวน  
+<span class="LineNumber"> 017 </span>สนฺธิยนฺติ  ฆฏิยนฺติ ฯ  พาลา  ปตฺตาวาติ  พาลกา  ปน  
+<span class="LineNumber"> 018 </span>มตฺติกปตฺตาว  ภิชฺชนฺติ ฯ  น  เต  สมถมชฺฌคูติ  เต พาลกา 
+<span class="LineNumber"> 019 </span>อปฺปมตฺตกมฺป ิ วิวาท ํ กตฺวา  เวรวูปสมนํ  น  วินฺทนฺติ  
+<span class="LineNumber"> 020 </span>#  ๑. ม.  สนฺธียเร  ฯ    ๒.  สฺยา.  ภาราวโห  ธุรนฺธโร  ฯ  ม.  ภารวโห
+<span class="LineNumber"> 021 </span>#  ธุรทฺธโร  ฯ    ๓.  ธีโรติ  ธิกฺกตปาโป  ธี  วา  วุจฺจติ  ปฺา  ตาย  
+<span class="LineNumber"> 022 </span>#  สมนฺนาคโตติปิ   อตฺโถ ฯ  

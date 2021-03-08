@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                       <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๑๓๔] ๑. <B>จิตตสัมปยุตตธรรม   เป็นปัจจัยแก่จิตตสัมปยุตต-
+<span class="LineNumber"> 005 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ   เหตุทั้งหลาย   ที่เป็นจิตสัมปยุตตธรรม    เป็นปัจจัยแก่สัมปยุตต-
+<span class="LineNumber"> 007 </span>ขันธ์ทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ  ฯลฯ
+<span class="LineNumber"> 009 </span>                     ๒.  <B>จิตตสัมปยุตตธรรม   เป็นปัจจัยแก่จิตตวิปปยุตต-
+<span class="LineNumber"> 010 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ   เหตุทั้งหลาย  ที่เป็นจิตตสัมปยุตตธรรม  เป็นปัจจัยแก่จิตตสมุฏ-
+<span class="LineNumber"> 012 </span>ฐานรูปทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 013 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 014 </span>                     ๓.  <B>จิตตสัมปยุตตธรรม   เป็นปัจจัยแก่จิตตสัมปยุตต-
+<span class="LineNumber"> 015 </span>ธรรม  และจิตตวิปปยุตตธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ   เหตุทั้งหลาย  ที่เป็นจิตตสัมปยุตตธรรม  เป็นปัจจัยแก่สัมปยุตต-
+<span class="LineNumber"> 017 </span>ขันธ์  และจิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 018 </span>         ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 019 </span>                                       <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 020 </span>         [๑๓๕] ๑.  <B>จิตตสัมปยุตตธรรม   เป็นปัจจัยแก่จิตตสัมปยุตต-
+<span class="LineNumber"> 021 </span>ธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 22  อามคนฺธสุตฺตวณฺณนา หน้า 71
+
+<span class="LineNumber"> 002 </span>อามคนฺธํ  ภุฺชามีติ  ยนฺนุนาหํ  เอตํ  อิมํ  คาถาเสสํ  อาห  อาห  
+<span class="LineNumber"> 003 </span>	  	ปุจฺฉามิ ตํ กสฺสป เอตมตฺถํ  
+<span class="LineNumber"> 004 </span>	  	กถํปกาโร ตว อามคนฺโธติ ฯ  
+<span class="LineNumber"> 005 </span>	อถสฺส  ภควา  อามคนฺธํ  วิสฺสชฺเชตุํ  ปาณาติปาโตติ  
+<span class="LineNumber"> 006 </span>เอวมาทิมาห ฯ 
+<span class="LineNumber"> 007 </span>	ตตฺถ  ปาณาติปาโตติ  ปาณวโธ ฯ  วธเฉทพนฺธนนฺติ 
+<span class="LineNumber"> 008 </span>เอตฺถ  สตฺตานํ  ทณฺฑาทีหิ  อาโกฏนํ  วโธฯ  หตฺถปาทาทีนํ  
+<span class="LineNumber"> 009 </span>เฉทนํ  เฉโทฯ รชฺชุอาทีหิ พนฺโธ พนฺธนํ ฯ เถยฺยํมุสาวาโทติ(๑)
+<span class="LineNumber"> 010 </span>เถยฺยฺจ  มุสาวาโท  จ ฯ นิกตีติ ทสฺสามิฯ กริสฺสามีติ- 
+<span class="LineNumber"> 011 </span>อาทินา  นเยน  อาสํ  อุปฺปาเทตฺวา  นิราสากรณํ(๒) ฯ  วฺจนานีติ  
+<span class="LineNumber"> 012 </span>อสุวณฺณํ  สุวณฺณนฺติ  คาหาปนาทีนิ ฯ  อชฺเฌนกุตฺตนฺติ  
+<span class="LineNumber"> 013 </span>นิรตฺถกมเนกคนฺถปริยาปุณนํ ฯ  (๓)  ปรทารเสวนาติ  ปรปริคฺคหิตาสุ  
+<span class="LineNumber"> 014 </span>จาริตฺตาปชฺชนํ ฯ  เอสามคนฺโธ  นหิ  มํสโภชนนฺติ เอส
+<span class="LineNumber"> 015 </span>ปาณาติปาตาทิอกุสลธมฺมสมุทาจาโร  อามคนฺโธ  วิสฺสคนฺโธ 
+<span class="LineNumber"> 016 </span>กุณปคนฺโธ ฯ  กึการณาฯ  อมนุฺตฺตา  กิเลสอสุจิมิสฺสกตฺตา
+<span class="LineNumber"> 017 </span>สพฺภิชิคุจฺฉิตตฺตา  ปรมทุคฺคนฺธภาวาวหตฺตา  จ ฯ  เย  
+<span class="LineNumber"> 018 </span>หิ  อุสฺสนฺนกิเลสา  (๔)  สตฺตาฯ  เต  เตหิ  อติทุคฺคนฺธา  โหนฺติฯ
+<span class="LineNumber"> 019 </span>นิกฺกิเลสานํ  มตสรีรมฺปิ  ทุคฺคนฺธํ  น  โหติฯ  ตสฺมา
+<span class="LineNumber"> 020 </span># ๑. ม. เถยฺยํ มุสาวาโทติ ฯ ยุ. เถยฺยามุสาวาโทติ ฯ 
+<span class="LineNumber"> 021 </span># ๒. สี. ยุ. นิราสงฺกรณํ ฯ 
+<span class="LineNumber"> 022 </span># ๓. สี. ยุ. อชฺเฌนกุชฺชนฺติ นิรตฺถกานตฺถชนกคนฺถปริยาปุณนํ ฯ
+<span class="LineNumber"> 023 </span># ๔. ม. อุสฺสนฺนกิเลสา ฯ 

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 002 </span>	                                <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 003 </span>           [๓๒๐]  มิได้มอบหมาย    ภิกษุณีสำคัญว่ามิได้มอบหมาย    หลีกไป
+<span class="LineNumber"> 004 </span>ต้องอาบัติปาจิตตีย์.                                                                
+<span class="LineNumber"> 005 </span>           มิได้มอบหมาย  ภิกษุณีมีความสงสัย  หลีกไป  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 006 </span>           มิได้มอบหมาย  ภิกษุณีสำคัญว่ามอบหมายแล้ว  หลีกไป   ต้องอาบัติ
+<span class="LineNumber"> 007 </span>ปาจิตตีย์.                                                                  
+
+<span class="LineNumber"> 008 </span>                                            <H2>ติกะทุกกฏ</H2>
+<span class="LineNumber"> 009 </span>           ห้องที่อยู่มิได้ติดบานประตู   ภิกษุณีมิได้มอบหมาย   หลีกไป   ต้อง
+<span class="LineNumber"> 010 </span>อาบัติทุกกฏ.
+<span class="LineNumber"> 011 </span>           ห้องที่อยู่ซึ่งมิได้ติดบานประตู  ภิกษุณีมอบหมายแล้ว    สำคัญว่ามิได้
+<span class="LineNumber"> 012 </span>มอบหมาย   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 013 </span>           ห้องที่อยู่ซึ่งมิได้ติดบานประตู  ภิกษุณีมอบหมายแล้ว    มีความสงสัย
+<span class="LineNumber"> 014 </span> ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 015 </span>           ห้องที่อยู่ซึ่งมิได้ติดบานประตู   ภิกษุณีมอบหมายแล้ว  สำคัญว่า  มอบ-
+<span class="LineNumber"> 016 </span> หมายแล้ว   ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 017 </span>                                         <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 018 </span>            [๓๒๑]   มอบหมายแล้วหลีกไป  ๑   หลีกไปในเมื่อมีอันตราย ๑  แสวง
+<span class="LineNumber"> 019 </span> หาแล้วไม่ได้  ๑ อาพาธ ๑  มีเหตุขัดข้อง  ๑ วิกลจริต ๑  อาทิกัมมิกา ๑ ไม่ต้อง
+<span class="LineNumber"> 020 </span> อาบัติแล.
+<span class="LineNumber"> 021 </span>                            <I>จิตตาคารวรรค  สิกขาบทที่  ๘  จบ</I>

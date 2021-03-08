@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                             [ว่าด้วยรสสี่อย่าง]
+<span class="LineNumber"> 002 </span>           <B>ธัญญผลรส</B>  นั้น  ได้แก่  รสแห่งข้าวเจ็ดชนิด.<SUP>๑</SUP>
+<span class="LineNumber"> 003 </span>           <B>ฑากรส</B>  นั้น  ได้แก่  รสแห่งผักที่สุด.  จริงอยู่  รสแห่งผัก
+<span class="LineNumber"> 004 </span>ที่เป็นยาวกาลิก  ย่อมควรในปุเรภัตเท่านั้น. รสแห่งผักที่เป็นยาว-
+<span class="LineNumber"> 005 </span>ชีวิกที่สุกพร้อมกับเนยใสเป็นต้น ที่รับประเคนเก็บไว้ ควรฉันได้
+<span class="LineNumber"> 006 </span>เจ็ดวัน.  แต่ถ้ารสแห่งผักนั้น สุกด้วยน้ำล้วน,  ควรฉันได้จนตลอด
+<span class="LineNumber"> 007 </span>ชีวิต.  ภิกษุจะต้มผักที่เป็นยาวชีวิกนั้นให้สุกพร้อมกับนมสดเป็นต้นเอง
+<span class="LineNumber"> 008 </span>ไม่ควร,  แม้ที่ชนเหล่าอื่นให้สุกแล้ว  ย่อมนับว่ารสผักเหมือนกัน.
+<span class="LineNumber"> 009 </span>ส่วนในกุรุนที  แก้ว่า  "รสแม้แห่งผักซึ่งเป็นยาวกาลิก  ที่คั้นในน้ำเย็น
+<span class="LineNumber"> 010 </span>ทำก็ดี  สุกด้วยแสงอาทิตย์ก็ดี  ย่อมควร.
+<span class="LineNumber"> 011 </span>           วินิจฉัยในข้อว่า  <B>€เปตฺวา มธุกปุปฺผรสํ </B> นี้ พึงทราบดังนี้ :-
+<span class="LineNumber"> 012 </span>           รสดอกมะซางจะสุกด้วยไฟ หรือสุกด้วยแสงอาทิตย์ก็ตาม
+<span class="LineNumber"> 013 </span>ย่อมไม่ควร  ในปัจฉาภัต. ชนทั้งหลายถือเอารสดอกไม้อันใดซึ่ง
+<span class="LineNumber"> 014 </span>สุกแล้ว  ทำให้เป็นน้ำเมา,  รสแห่งดอกไม้นั้น  ย่อมไม่ควรแต่ต้น  แม้
+<span class="LineNumber"> 015 </span>ในปุเรภัต.  ส่วนดอกมะซาง  จะสดหรือแห้ง  หรือคั่วแล้ว  หรือ
+<span class="LineNumber"> 016 </span>คลุมน้ำอ้อยแล้วก็ตามที,  เขายังไม่ทำเป็นน้ำเมา  จำเดิมแต่ดอก
+<span class="LineNumber"> 017 </span>ชนิดใด,  ดอกชนิดนั้นทั้งหมด  ย่อมควรในปุเรภัต.  รสอ้อยที่
+
+<span class='footnote'>๑.  ๑.  สาลิ  [ศาลิ] ข้าวสาลี  Rice. ๒.  วีหี  [วฺรีหิ ] ข้าวเปลือก  Rice.  Pabby.</span>
+<span class='footnote'>๓.  กุทรูส  [กฺทรุษ]  หญ้ากับแก้  ข้าวชนิดหนึ่ง  A  kind  of  grain"  ๔.  โคธูม</span>
+<span class='footnote'>[โคธูม]  ข้าวละมาน  wheat"  ๕.  วรก  [วรก ] ลูกเดือย  The  bean Phaseolus</span>
+<span class='footnote'>trilobus"  ๖.  ยว  [ยว]  ข้าวยวะ  Corn,  barlys.  ๗.  กงฺค  หรือ  กงฺคุ  [กงฺคุ]</span>
+<span class='footnote'>ข้าวฟ่าง  Pamic  seed.</span>

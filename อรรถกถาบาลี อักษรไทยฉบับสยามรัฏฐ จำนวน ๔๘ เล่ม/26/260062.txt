@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ปฺจกนิปาตวณฺณนา  หน้า  62  
+
+<span class="LineNumber"> 002 </span>	อนุพฺยฺชนสมฺปนฺโน  		พาตฺตึสวรลกฺขโณ  
+<span class="LineNumber"> 003 </span>	พฺยามปฺปภาปริวุโต  		รํสิชาลสโมตฺถโฏ (๑)  ฯ  
+<span class="LineNumber"> 004 </span>	อสฺสาเสตา  ยถา  จนฺโท  		สูริโยว  ปภงฺกโร  
+<span class="LineNumber"> 005 </span>	นิพฺพาเปตา  ยถา  เมโฆ  		สาคโรว  คุณากโร ฯ  
+<span class="LineNumber"> 006 </span>	ธรณีริว  สีเลน  			หิมวาว  สมาธินา  
+<span class="LineNumber"> 007 </span>	อากาโส  วิย  ปฺาย  		อสงฺโค  อนิโล  ยถา ฯ  
+<span class="LineNumber"> 008 </span>	ตทาหํ  พาราณสิยํ  			อุปปนฺโน  มหากุเล  
+<span class="LineNumber"> 009 </span>	ปหูตธนธฺสฺมึ  			นานารตนสฺจเย ฯ  
+<span class="LineNumber"> 010 </span>	มหตา  ปริวาเรน  			นิสนฺนํ  โลกนายกํ  
+<span class="LineNumber"> 011 </span>	อุเปจฺจ  ธมฺมมสฺโสสึ  		อมตํว (๒)  มโนรหํ (๓)  ฯ  
+<span class="LineNumber"> 012 </span>	ทฺวตฺตึสลกฺขณธโร  		สนกฺขตฺโตว (๔)  จนฺทิมา  
+<span class="LineNumber"> 013 </span>	อนุพฺยฺชนสมฺปนฺโน  		สาลราชาว  ผุลฺลิโต ฯ  
+<span class="LineNumber"> 014 </span>	รํสิชาลปริกฺขิตฺโต  			ทิตฺโตว  กนกาจโล  
+<span class="LineNumber"> 015 </span>	พฺยามปฺปภาปริวุโต  		สตรํสี (๕)  ทิวากโร ฯ  
+<span class="LineNumber"> 016 </span>	โสณฺณานโน  ชินวโร  		สมณีว (๖)  สิลุจฺจโย  
+<span class="LineNumber"> 017 </span>	กรุณาปุณฺณหทโย  			คุเณน (๗)  วิย  สาคโร ฯ  
+<span class="LineNumber"> 018 </span>	โลกวิสฺสุตกิตฺติ  จ  			สิเนรูว  นคุตฺตโม  
+<span class="LineNumber"> 019 </span>	ยสสา  วิตฺถโต (๘)  ธีโร  	อากาสสทิโส  มุนิ  ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา.  สโมเคโต  ฯ  ๒.  ยุ.  อมตํ  ฯ  ๓.  สฺยา.  มโนหรํ  ฯ  
+<span class="LineNumber"> 021 </span>#๔.  สฺยา.  สุนกฺขตฺโตว  ฯ  ๕.  สฺยา.  สตรํสีว  ฯ  ๖.  สฺยา.  
+<span class="LineNumber"> 022 </span>#รมฺมณีว  ฯ  ๗.  ยุ.  วิวทฺโธ  ฯ  ๘.  สฺยา.  วิตโต  ฯ  

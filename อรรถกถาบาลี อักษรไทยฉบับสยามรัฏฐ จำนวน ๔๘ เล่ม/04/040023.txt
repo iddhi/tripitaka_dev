@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  ๔  นิทานกถา  หน้า  ๒๓	
+
+<span class="LineNumber"> 002 </span>	ตโต  อนนฺตรํ  
+<span class="LineNumber"> 003 </span>		ธมฺมสงฺคณี (๑) วิภงฺคฺจ  	กถาวตฺถุฺจ  ปุคฺคลํ  
+<span class="LineNumber"> 004 </span>		ธาตุยมกปฏฺ€านํ  		อภิธมฺโมติ  วุจฺจตีติ (๑)  
+<span class="LineNumber"> 005 </span>เอวํ  สํวณฺณิตํ  สุขุมาณโคจรํ  ตนฺตึ  สงฺคายิตฺวา  อิทํ  อภิธมฺม-  
+<span class="LineNumber"> 006 </span>ปิฏกํ  นามาติ  วตฺวา  ปฺจ  อรหนฺตสตานิ  สชฺฌายมกํสุ  ฯ  
+<span class="LineNumber"> 007 </span>วุตฺตนเยเนว  ป€วีกมฺโป  อโหสีติ  ฯ  
+<span class="LineNumber"> 008 </span>	ตโต  ปรํ  ชาตกํ  นิทฺเทโส (๒)  ปฏิสมฺภิทามคฺโค  อปทานํ  
+<span class="LineNumber"> 009 </span>สุตฺตนิปาโต  ขุทฺทกปาโ€  ธมฺมปทํ  อุทานํ  อิติวุตฺตกํ  วิมานวตฺถุ  
+<span class="LineNumber"> 010 </span>เปตวตฺถุ  เถรคาถา  เถรีคาถาติ  อิมํ  ตนฺตึ  สงฺคายิตฺวา  
+<span class="LineNumber"> 011 </span>ขุทฺทกคนฺโถ  นามายนฺติ  จ  วตฺวา  อภิธมฺมปิฏกสฺมึเยว  สงฺคหํ  
+<span class="LineNumber"> 012 </span>อาโรปยึสูติ  ทีฆภาณกา  วทนฺติ  ฯ  มชฺฌิมภาณกา  ปน  จริยา-  
+<span class="LineNumber"> 013 </span>ปิฏกพุทฺธวํเสหิ (๓)  สทฺธึ  สพฺพมฺเปตํ  ขุทฺทกคนฺถํ  นาม  สุตฺตนฺต-  
+<span class="LineNumber"> 014 </span>ปิฏเก  ปริยาปนฺนนฺติ  วทนฺติ  ฯ  
+<span class="LineNumber"> 015 </span>	เอวเมตํ  สพฺพมฺปิ  พุทฺธวจนํ  รสวเสน  เอกวิธํ  ฯ  ธมฺม-  
+<span class="LineNumber"> 016 </span>วินยวเสน  ทุวิธํ  ป€มมชฺฌิมปจฺฉิมวเสน  ติวิธํ  ฯ  ตถา  ปิฏกวเสน  
+<span class="LineNumber"> 017 </span>นิกายวเสน  ปฺจวิธํ  องฺควเสน  นววิธํ  ฯ  ธมฺมกฺขนฺธวเสน  
+<span class="LineNumber"> 018 </span>จตุราสีติสหสฺสวิธนฺติ  เวทิตพฺพํ  ฯ  
+<span class="LineNumber"> 019 </span>	กถํ  รสวเสน  เอกวิธํ  ฯ  ยํ  หิ  ภควตา  อนุตฺตรํ  
+<span class="LineNumber"> 020 </span># ๑. ม. ธมฺมสงฺคหวิภงฺคธาตุกถาปุคฺคลปญฺญตฺติกถาวตฺถุยมกปฏฺฐานํ  
+<span class="LineNumber"> 021 </span># อภิธมฺโมติ วุจฺจติ ฯ  ๒. ยุ. มหานิทฺเทโส จูลนิทฺเทโส ฯ  
+<span class="LineNumber"> 022 </span># ๓. ยุ. จริยาปิฏกอปทานพุทฺธวํเสหิ ฯ  

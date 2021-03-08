@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>๑๖-๓.  อาสวสัมปยุตตทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>อาสวสมฺปยุตฺตา  ธมฺมา</B>               ธรรมสัมปยุตด้วยอาสวะ
+<span class="LineNumber"> 003 </span><B>อาสววิปฺปยุตฺตา   ธมฺมา</B>              ธรรมวิปปยุตจากอาสวะ
+
+<span class="LineNumber"> 004 </span>                     <H2>๑๗-๔.  อาสวสาสวทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>อาสวา  เจว ธมฺมา สาสวา จ</B>         ธรรมเป็นอาสวะ  และเป็นอารมณ์ของ
+<span class="LineNumber"> 006 </span>                                                อาสวะ
+<span class="LineNumber"> 007 </span><B>สาสวา เจว ธมฺมา โน จ อาสวา</B>     ธรรมเป็นอารมณ์ของอาสวะ  แต่ไม่
+<span class="LineNumber"> 008 </span>                                                เป็นอาสวะ
+
+<span class="LineNumber"> 009 </span>              <H2>๑๘-๕.  อาสวอาสวสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 010 </span><B>อาสวา เจว ธมฺมา อาสวา-</B>            ธรรมเป็นอาสวะ  และสัมปยุตด้วย
+<span class="LineNumber"> 011 </span><B>สมฺปยุตฺตา จ</B>                              อาสวะ
+<span class="LineNumber"> 012 </span><B>อาสวสมฺปยุตฺตา เจว ธมฺมา</B>           ธรรมสัมปยุตด้วยอาสวะ  แต่ไม่เป็น
+<span class="LineNumber"> 013 </span><B>โน จ อาสวา</B>                               อาสวะ
+
+<span class="LineNumber"> 014 </span>              <H2>๑๙-๖.  อาสววิปปยุตตสาสวทุกะ</H2>
+
+<span class="LineNumber"> 015 </span><B>อาสววิปปยุตฺตา โข ปน ธมฺมา</B>     ธรรมวิปปยุตจากอาสวะ  แต่ธรรมเป็น
+<span class="LineNumber"> 016 </span><B>สาสวปิ</B>                                     อารมณ์ของอาสวะ
+<span class="LineNumber"> 017 </span><B>อาสววิปฺปยุตฺตา โข ปน ธมฺมา</B>     ธรรมวิปปยุตจากอาสวะ  และไม่เป็น
+<span class="LineNumber"> 018 </span><B>อนาสวาปิ</B>                                 อารมณ์ของอาสวะ

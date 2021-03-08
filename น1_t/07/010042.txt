@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>การทำสมถกัมมัฏฐานต้องรู้จักชื่อเหล่านี้</B>   
+<span class="LineNumber"> 002 </span>	ผู้ทำการสอน  เมื่อสอนมาถึงตรงนี้  จงชี้แจงเปิดนวโกวาท
+<span class="LineNumber"> 003 </span>หน้า  ๓๙  วิญญาณ  ๖  สัมผัส ๖  และเวทนา  ๖  ธาตุ  ๖  ให้นักเรียนเข้า
+<span class="LineNumber"> 004 </span>ใจ  โดยตั้งปัญหาว่า  พระเดินไปบิณฑบาตเห็นโยมถือของใส่บาตร เป็น
+<span class="LineNumber"> 005 </span>วิญญาณอะไร,  โยนใส่บาตร  เป็นสัมผัสอะไร,  พระพอใจที่ได้รับบาตร
+<span class="LineNumber"> 006 </span>เป็นเวทนาอะไรเป็นต้น.
+<span class="LineNumber"> 007 </span>	บริกรรมนิมิต  	บริกรรมภาวนา	บริกรรมสมาธิ
+<span class="LineNumber"> 008 </span>	อุคคหนิมิต	อุปจารภาวนา		อุปจารสมาธิ
+<span class="LineNumber"> 009 </span>	ปฏิภาคนิมิต	อัปปนาภาวนา		อัปปนาสมาธิ
+<span class="LineNumber"> 010 </span>	เมื่อรู้จักชื่อแล้ว			ลองนึกเอา
+<span class="LineNumber"> 011 </span>	ลมหายใจเป็นนิมิต			เป็นบริกรรมนิมิต
+<span class="LineNumber"> 012 </span>		การบริกรรม			เป็นบริกรรมภาวนา
+<span class="LineNumber"> 013 </span>		เกิดความสงบ			เป็นบริกรรมสมาธิ
+<span class="LineNumber"> 014 </span>		นิมิตติดตา			เป็นอุคคหนิมิต
+<span class="LineNumber"> 015 </span>		การบริกรรม			เป็นอุปจารภาวนา
+<span class="LineNumber"> 016 </span>		ความสงบ 			เป็นอุปจารสมาธิ
+<span class="LineNumber"> 017 </span>		เปลี่ยนนิมิต			เป็นปฏิภาคนิมิต
+<span class="LineNumber"> 018 </span>		จิตแน่วแน่			เป็นอัปปนาภาวนา
+<span class="LineNumber"> 019 </span>		จิตตั้งมั่น 				เป็นอัปปนาสมาธิ
+<span class="LineNumber"> 020 </span><B>การทำสมาธิหวังผล  ๔  อย่าง</B>
+<span class="LineNumber"> 021 </span>	๑.  เพื่อความสุขในปัจจุบัน
+	

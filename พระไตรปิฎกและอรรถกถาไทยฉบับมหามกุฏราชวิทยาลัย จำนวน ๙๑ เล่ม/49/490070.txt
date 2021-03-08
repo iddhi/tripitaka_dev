@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๗.  สัตตปุตตขาทิกเปติวัตถุ</H1>
+
+<span class="LineNumber"> 002 </span>                  <H2>ว่าด้วยนางเปรตเปลือยกายมีกลิ่นเหม็น</H2>
+
+<span class="LineNumber"> 003 </span>     	พระเถระถามหญิงเปรตตนหนึ่งว่า  
+<span class="LineNumber"> 004 </span>     	<B>[๙๒]      	ท่านเปลือยกายมีผิวพรรณเลวทราม     มี
+<span class="LineNumber"> 005 </span>       	     กลิ่นเหม็นเน่าฟุ้งไป      หมู่แมลงวันพากันตอม
+<span class="LineNumber"> 006 </span>      	     เกลื่อนกล่น  ท่านเป็นใครหนอนายืนอยู่ที่นี่.</B>
+<span class="LineNumber"> 007 </span>	หญิงเปรตนั้นตอบว่า
+<span class="LineNumber"> 008 </span>               		<B>ข้าแต่ท่านผู้เจริญ  ดิฉันเป็นเปรต  ถึงทุคติ 
+<span class="LineNumber"> 009 </span>       	     เกิดในยมโลก      เพราะทำกรรมอันลามกจึงต้อง
+<span class="LineNumber"> 010 </span>       	     จากโลกนั้นไปสู่เปตโลก   เวลาเช้าตลอดบุตร  ๗
+<span class="LineNumber"> 011 </span>       	     คน  เวลาเย็นอีก ๗  คน  แล้วกินบุตรเหล่านั้นหมด
+<span class="LineNumber"> 012 </span>       	     ทั้ง  ๑๔   คนนั้น   ก็ยังไม่อาจบรรเทาความหิว
+<span class="LineNumber"> 013 </span>       	     ของดิฉันได้    หัวใจของดิฉันเร่าร้อนอยู่เป็นนิจ
+<span class="LineNumber"> 014 </span>      	     เพราะความหิว    ดิฉันเป็นดุจถูกเผาด้วยไฟในที่ 
+<span class="LineNumber"> 015 </span>       	     อันร้อนยิ่ง  ไม่ได้ประสบความเย็นเลย.</B>
+<span class="LineNumber"> 016 </span>     	พระเถระถามว่า
+<span class="LineNumber"> 017 </span>               		<B>ท่านทำกรรมชั่วอะไรไว้ด้วย   กาย   วาจา
+<span class="LineNumber"> 018 </span>       	     ใจ  หรือท่านกินเนื้อบุตร    เพราะวิบากแห่งกรรม
+<span class="LineNumber"> 019 </span>	     อะไร.</B>

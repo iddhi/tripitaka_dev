@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  กุศลขันธ์ที่เกิดก่อน ๆ       เป็นปัจจัยแก่กุศลขันธ์ที่เกิดหลัง ๆ 
+<span class="LineNumber"> 002 </span>ด้วยอำนาจของวิคตปัจจัย   ฯลฯ. 
+<span class="LineNumber"> 003 </span>           พึงให้พิสดารเหมือนอย่างอนันตรปัจจัย.
+
+<span class="LineNumber"> 004 </span>                                <H1>๒๔.  อวิคตปัจจัย</H1>
+<span class="LineNumber"> 005 </span> <B>[๖๒๔]  กุศลธรรม  เป็นปัจจัยแก่กุศลธรรม  ด้วยอำนาจของอวิคต-
+<span class="LineNumber"> 006 </span>ปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ   ขันธ์ ๑ ที่เป็นกุศล     เป็นปัจจัยแก่ขันธ์ ๓    ด้วยอำนาจของ
+<span class="LineNumber"> 008 </span>อวิคตปัจจัย,   ขันธ์ ๓ เป็นปัจจัยแก่ขันธ์ ๑   ด้วยอำนาจของอวิคตปัจจัย, 
+<span class="LineNumber"> 009 </span>ขันธ์ ๒ เป็นปัจจัยแก่ขันธ์ ๒   ด้วยอำนาจของอวิคตปัจจัย.
+<span class="LineNumber"> 010 </span>           พึงให้พิสดารเหมือนอย่างอัตถิปัจจัย.
+<span class="LineNumber"> 011 </span>                                  <I>ปัญหาวารวิภังค์ จบ</I>
+
+<span class="LineNumber"> 012 </span>                 <H1>การนับจำนวนวาระในอนุโลมแห่งปัญหาวาระ</H1>
+<span class="LineNumber"> 013 </span>                                         <H1>สุทธมูลกนัย</H1>
+<span class="LineNumber"> 014 </span> <B>[๖๒๕]</B> ในเหตุปัจจัย  มี ๗ วาระ     ในอารัมมณปัจจัย    มี ๙ วาระ
+<span class="LineNumber"> 015 </span>ในอธิปติปัจจัย  มี ๑๐ วาระ ในอนันตรปัจจัย มี ๗ วาระ  ในสมนันตร-
+<span class="LineNumber"> 016 </span>ปัจจัย  มี ๗ วาระ    ในสหชาตปัจจัย  มี ๙ วาระ    ในอัญญมัญญปัจจัย
+<span class="LineNumber"> 017 </span>มี ๓ วาระ   ในนิสสยปัจจัย   มี  ๓ วาระ  ในอุปนิสสยปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 018 </span>ในปุเรชาตปัจจัย มี ๓ วาระ ในปัจฉาชาตปัจจัย  มี ๓ วาระ ในอาเสวน-

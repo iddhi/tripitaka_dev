@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                            <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>๑.  เหตุปัจจัย</H1> 
+<span class="LineNumber"> 004 </span>           [๘๕๗] ๑.  <B>ทัสสเนนปหาตัพพเหตุกธรรม  เจือกับทัสสเนน-
+<span class="LineNumber"> 005 </span>ปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นทัสสเนนปหาตัพพเหตุกธรรม ฯลฯ
+<span class="LineNumber"> 007 </span>ขันธ์ ๒ เจือกับขันธ์  ๒.
+<span class="LineNumber"> 008 </span>           [๘๕๘] ๒.  <B>ภาวนายปหาตัพพเหตุกธรรม     เ จือกับภาวนาย-
+<span class="LineNumber"> 009 </span>ปหาตัพพเหตุกธรรม ฯลฯ</B> 
+<span class="LineNumber"> 010 </span>           คือ ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นภาวนายปหาตัพพเหตุกธรรม ฯลฯ
+<span class="LineNumber"> 011 </span>ขันธ์  ๒ เจือกับขันธ์ ๒
+<span class="LineNumber"> 012 </span>           [๘๕๙] ๓.  <B>เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม  เจือ
+<span class="LineNumber"> 013 </span>กับเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม ฯลฯ</B> 
+<span class="LineNumber"> 014 </span>           คือ   ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นเนวทัสสเนนนภาวนายปหาตัพพ-
+<span class="LineNumber"> 015 </span>เหตุกธรรม ฯลฯ
+<span class="LineNumber"> 016 </span>           ในปฏิสนธิขณะ ฯลฯ

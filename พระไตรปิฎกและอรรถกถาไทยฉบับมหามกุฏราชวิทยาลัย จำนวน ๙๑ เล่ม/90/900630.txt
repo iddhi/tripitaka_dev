@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>นิยยานิกทุกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>			<H2>(๙๗. นิยยานิกทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 003 </span>					<H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				        <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>		[๑๗๖๔]  ๑. กุศลธรรมที่เป็นนิยยานิกธรรม  อาศัยกุศลธรรม 
+<span class="LineNumber"> 007 </span>ที่เป็นนิยยานิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                           ๒.  กุศลธรรมที่เป็นอนิยยานิกธรรม อาศัยกุศลธรรม
+<span class="LineNumber"> 009 </span>ืที่เป็นนิยยานิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                    	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๑๗๖๕]  ในเหตุปัจจัย มี ๒ วาระ ในอารัมมณปัจจัย มี ๒ วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>ในอวิคตปัจจัย มี ๒ วาระ
+<span class="LineNumber"> 013 </span>            เหมือนกับโลกิยโลกุตตรทุกะ.
+<span class="LineNumber"> 014 </span>            สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดาร.
+
+<span class="LineNumber"> 015 </span>                       		<H1>อกุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 016 </span>                        	           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 017 </span>                                         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 018 </span>		[๑๗๖๖]  ๑.  อกุศลธรรมที่เป็นอนิยยานิกธรรม   อาศัยอกุศล-
+<span class="LineNumber"> 019 </span>ธรรมที่เป็นอนิยยานิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย

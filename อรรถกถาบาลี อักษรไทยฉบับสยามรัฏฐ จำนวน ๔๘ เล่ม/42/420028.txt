@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  28
+
+<span class="LineNumber"> 002 </span>	พุทฺธานํ  สนฺติเก  ปตฺเถนฺตสฺสปิ  ปพฺพชฺชาลิงฺเค  €ิตสฺเสว  
+<span class="LineNumber"> 003 </span>สมิชฺฌติ  โน  คิหิลิงฺเค  €ิตสฺส ฯ  
+<span class="LineNumber"> 004 </span>	ปพฺพชิตสฺสปิ  ปฺจาภิฺาอฏฺ€สมาปตฺติลาภิโนเยว  สมิชฺฌติ  
+<span class="LineNumber"> 005 </span>น  อิมาย  คุณสมฺปตฺติยา  วิรหิตสฺส ฯ  
+<span class="LineNumber"> 006 </span>	คุณสมฺปนฺเนนปิ  เยน  อตฺตโน  ชีวิตํ  พุทฺธานํ  ปริจฺจตฺตํ  
+<span class="LineNumber"> 007 </span>โหติ  ตสฺเสว  อิมินา  อธิกาเรน  อธิการสมฺปนฺนสฺส  สมิชฺฌติ  
+<span class="LineNumber"> 008 </span>น  อิตรสฺส ฯ  
+<span class="LineNumber"> 009 </span>	อธิการสมฺปนฺนสฺสาปิ  ยสฺส  พุทฺธการกธมฺมานํ  อตฺถาย  
+<span class="LineNumber"> 010 </span>มหนฺโต  ฉนฺโท  จ  อุสฺสาโห  จ  วายาโม  จ  ปริเยฏฺ€ิ  จ  
+<span class="LineNumber"> 011 </span>ตสฺเสว  สมิชฺฌติ  น อิตรสฺส ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺริทํ  ฉนฺทมหนฺตตาย  โอปมฺมํ  
+<span class="LineNumber"> 013 </span>	สเจ  หิ  เอวมสฺส  โย สกลจกฺกวาฬคพฺภํ  เอโกทกีภูตํ  
+<span class="LineNumber"> 014 </span>อตฺตโน  พาหุพเลน  อุตฺตริตฺวา(๑)  ปารํ  คนฺตุํ  สมตฺโถ  โส  พุทฺธตฺตํ  
+<span class="LineNumber"> 015 </span>ปาปุณาติ ฯ  โย  วา  ปน  สกลจกฺกวาฬคพฺภํ  เวฬุคุมฺพสฺฉนฺนํ  
+<span class="LineNumber"> 016 </span>วิยูหิตฺวา (๒)  มทฺทิตฺวา  ปทสา  คจฺฉนฺโต  ปารํ  คนฺตุํ  สมตฺโถ  
+<span class="LineNumber"> 017 </span>โส  พุทฺธตฺตํ  ปาปุณาติ ฯ  โย  วา  ปน  สกลจกฺกวาฬคพฺภํ  
+<span class="LineNumber"> 018 </span>สตฺติโย  อาโกเฏตฺวา  นิรนฺตรํ  สตฺติผลสมากิณฺณํ  ปทสา  
+<span class="LineNumber"> 019 </span>อกฺกมมาโน  ปารํ  คนฺตุํ  สมตฺโถ  โส  พุทฺธตฺตํ  ปาปุณาติ ฯ  
+<span class="LineNumber"> 020 </span>โย  วา  ปน  สกลจกฺกวาฬคพฺภํ  วีตจฺจิตงฺคารภริตํ ปาเทหิ 
+<span class="LineNumber"> 021 </span># ๑  สี.  ปตริตฺวา ฯ  ๒. ม. พฺยูหิตฺวา ฯ  

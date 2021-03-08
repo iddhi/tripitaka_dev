@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           ส่วนปฏิฆะเกิดร่วมกัน  ๒   อย่าง     อย่างนี้   คือ   เกิดร่วมกับโมหะ 
+<span class="LineNumber"> 002 </span>อุทธัจจะ    อหิริกะ    อโนตตัปปะในอสังขาริกจิต  ๑   เกิดร่วมกับโมหะ    ถีนะ
+<span class="LineNumber"> 003 </span>อุทธัจจะ  อหิริกะ  อโนตตัปปะในสสังขาริกจิต ๑.
+<span class="LineNumber"> 004 </span>           ส่วนโมหะเกิดร่วมกัน  ๒ อย่าง  คือ  เกิดพร้อมกับวิจิกิจฉา  อุทธัจจะ
+<span class="LineNumber"> 005 </span>อหิรกะ     อโนตตัปปะในจิตที่สัมปยุตด้วยวิจิกิจฉา  ๑  เกิดพร้อมกับอุทธัจจะ
+<span class="LineNumber"> 006 </span>อหิริกะ  อโนตตัปปะในจิตที่สัมปยุตด้วยอุทธัจจะ  ๑. คำที่เหลือในที่ทั้งปวง  มี
+<span class="LineNumber"> 007 </span>เนื้อความตื้นทั้งนั้นแล.
+<span class="LineNumber"> 008 </span>                                       <I>อัฏฐกถากัณฑวรรณนา</I>
+<span class="LineNumber"> 009 </span>                        <I>แห่งอัฏฐสาลินี  อรรถกถาธรรมสังคณี  จบ</I>	
+
+<span class="LineNumber"> 010 </span>                                                  <H1>นิคมกถา</H1>
+<span class="LineNumber"> 011 </span>              ก็ด้วยคำมีประมาณเท่านี้
+<span class="LineNumber"> 012 </span>                        <B>พระโลกนารถเจ้า เมื่อจะทรงจำแนก
+<span class="LineNumber"> 013 </span>              จิตตุปปากัณฑ์  รูปกัณฑ์  นิกเขปกัณฑ์  และ   	
+<span class="LineNumber"> 014 </span>              อัตถุทธารกัณฑ์   อันน่ารื่นรมย์ใจ  ทรงแสดง
+<span class="LineNumber"> 015 </span>              พระธรรมสังคณีใด    การพรรณนาเนื้อความ
+<span class="LineNumber"> 016 </span>              แห่งพระธรรมสังคณีที่ได้ทรงรวบรวมธรรม</B>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                <H2>อนุโลมปัจจนียนัย</H2>  
+<span class="LineNumber"> 002 </span>           [๑๒]  <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย มี ๖ วาระ... ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                 <H2>ปัจจนียานุโลมนัย</H2>	
+<span class="LineNumber"> 004 </span>           [๑๓]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย มี  ๖ วาระ... ฯลฯ
+<span class="LineNumber"> 005 </span>        สหชาตวาระก็ดี  ฯลฯ   สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 006 </span>                                         <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 007 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>           [๑๔] ๑.  <B>ธรรมที่เป็นกุศล  อาศัยธรรมที่ไม่ใช่กุศล  เกิดขึ้น
+<span class="LineNumber"> 010 </span>เพราะเหตุปัจจัย</B>                                                        
+<span class="LineNumber"> 011 </span>                    ๒.  <B>ธรรมที่เป็นอกุศล อาศัยธรรมที่ไม่ใช่กุศล  เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>                    ๓.  <B>ธรรมที่เป็นอัพยากตะ     อาศัยธรรมที่ไม่ใช่กุศล
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>                    ๔. <B>ธรรมที่เป็นกุศล  และธรรมที่เป็นอัพยากตะ  อาศัย
+<span class="LineNumber"> 016 </span>ธรรมที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>                    ๕. <B>ธรรมที่เป็นอกุศล และธรรมที่เป็นอัพยากตะ อาศัย
+<span class="LineNumber"> 018 </span>ธรรมที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๖  วาระ.

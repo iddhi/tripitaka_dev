@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>            ฯลฯ  อาศัยเหตุนิยยานิกธรรม  ฯลฯ 
+<span class="LineNumber"> 002 </span>            ฯลฯ  อาศัยเหตุอนิยยานิกธรรม  ฯลฯ
+<span class="LineNumber"> 003 </span>            ฯลฯ  อาศัยเหตุนิยตธรรม   ฯลฯ
+<span class="LineNumber"> 004 </span>            ฯลฯ  อาศัยเหตุอนิยตธรรม   ฯลฯ
+<span class="LineNumber"> 005 </span>            ฯลฯ  อาศัยเหตุสอุตตรธรรม  ฯลฯ
+<span class="LineNumber"> 006 </span>            ฯลฯ  อาศัยเหตุอนุตตธรรม  ฯลฯ 
+<span class="LineNumber"> 007 </span>            ฯลฯ  อาศัยเหตุสรณธรรม  ฯลฯ 
+
+<span class="LineNumber"> 008 </span>				    <H1>อรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 009 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>				       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 011 </span>		[๑๒๑]  ๑.  เหตุอรณธรรม  อาศัยเหตุอรณธรรม  เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>			<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>		[๑๒๒]  ในเหตุปัจจัย  มี  ๙ วาระ ฯลฯ  ในอวิคตปัจจัย  มี ๙ วาระ.
+<span class="LineNumber"> 015 </span>พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 016 </span>				<I>เหตุทุกปิฏฐทุกะ  จบ</I>		 

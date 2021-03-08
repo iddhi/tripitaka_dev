@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  90
+
+<span class="LineNumber"> 002 </span>		อชฺเฌนมริยา ป€วึ ชนินฺทา  
+<span class="LineNumber"> 003 </span>		เวสฺสา กสึ ปาริจริยฺจ สุทฺทา  
+<span class="LineNumber"> 004 </span>		อุปาคู(๑) ปจฺเจกํ ยถา ปเทสํ  
+<span class="LineNumber"> 005 </span>		กตาหุ เอเต วสินาติ อาหุ  
+<span class="LineNumber"> 006 </span>		เอตฺจ สจฺจํ วจนํ ภเวยฺย  
+<span class="LineNumber"> 007 </span>		ยถา อิทํ ภาสิตํ พฺราหฺมเณหิ  
+<span class="LineNumber"> 008 </span>		นาขตฺติโย ชาตุ ลเภถ รชฺชํ  
+<span class="LineNumber"> 009 </span>		นาพฺราหฺมโณ มนฺตปทานิ สิกฺเข  
+<span class="LineNumber"> 010 </span>		นาฺตฺร เวสฺสา หิ(๒) กสึ กเรยฺยุํ(๓)  
+<span class="LineNumber"> 011 </span>		สุทฺโท น มุฺเจ(๔) ปรเปสนาย  
+<span class="LineNumber"> 012 </span>		ยสฺมา จ เอตํ วจนํ อภูตํ  
+<span class="LineNumber"> 013 </span>		มุสาวิเม โอทริยา ภณนฺติ  
+<span class="LineNumber"> 014 </span>		ตทปฺปปฺา อภิสทฺทหนฺติ  
+<span class="LineNumber"> 015 </span>		ปสฺสนฺติ ตํ ปณฺฑิตา อตฺตนาว  
+<span class="LineNumber"> 016 </span>		ขตฺยา หิ เวสฺสานํ พลึ หรนฺติ  
+<span class="LineNumber"> 017 </span>		อาทาย สตฺถานิ หนนฺติ พฺราหฺมณา  
+<span class="LineNumber"> 018 </span>		ตํ ตาทิสํ สํขุภิตํ วิภินฺนํ(๕)  
+<span class="LineNumber"> 019 </span>		กสฺมา พฺรหฺมา น อุชุํ(๖) กโรติ โลกํ  
+<span class="LineNumber"> 020 </span># ๑. ม. อุปาคุ ฯ  ๒. ม. เวสฺเสหิ ฯ  ๓. ม. กเรยฺย ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. มุจฺเจ ฯ  ๕. ม. ปภินฺนํ ฯ ๖. ม. นุชฺชุ ฯ 

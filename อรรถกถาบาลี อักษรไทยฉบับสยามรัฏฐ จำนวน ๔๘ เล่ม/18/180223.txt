@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  18   ยมกปฺปาฏิหาริยวตฺถุ  หน้า  223
+
+<span class="LineNumber"> 002 </span>สตฺถา  มยา  อุตฺตริตรํ  ปาฏิหาริยํ  กาตุํ  สมตฺถนฺติ  เอกมนฺตํ 
+<span class="LineNumber"> 003 </span>อฏฺ€าสิ ฯ
+<span class="LineNumber"> 004 </span>	อถ  นํ  สตฺถา  นายํ  โมคฺคลฺลาน  ตวตฺถาย  พทฺโธ 
+<span class="LineNumber"> 005 </span>มาลาปุโฏ  อหํ  หิ  อสมธุโร  มม  ธุรํ  อฺโ  วหิตุํ  สมตฺโถ
+<span class="LineNumber"> 006 </span>นาม  นตฺถิ  อนจฺฉริยฺเจตํ  ยํ  อิทานิ  มม  ธุรํ  วหิตุํ  สมตฺโถ
+<span class="LineNumber"> 007 </span>น  ภเวยฺย  อเหตุกติรจฺฉานโยนิยํ  นิพฺพตฺตกาเลปิ  มม  ธุรํ 
+<span class="LineNumber"> 008 </span>อฺโ  วหิตุํ  สมตฺโถ  นาโหสิเยวาติ  วตฺวา  กทา  ปน 
+<span class="LineNumber"> 009 </span>ภนฺเตติ  เถเรน  ปุฏฺโ€  อตีตํ  อาหริตฺวา
+<span class="LineNumber"> 010 </span>	ยโต  ยโต  ครุ  	ธุรํ  ยโต  คมฺภีรวตฺตนี
+<span class="LineNumber"> 011 </span>	ตทาสฺสุ  กณฺหํ  	ยุฺชนฺติ  สวาสฺสุ  ตํ  วหเต  ธุรนฺติ
+<span class="LineNumber"> 012 </span>อิทํ  กณฺหอุสภชาตกํ  (๑)  วิตฺถาเรตฺวา  ปุน  ตเทว  วตฺถุํ  วิเสเสตฺวา
+<span class="LineNumber"> 013 </span>ทสฺเสนฺโต
+<span class="LineNumber"> 014 </span>	มนาปเมว  ภาเสยฺย  	นามนาปํ (๒) กุทาจนํ
+<span class="LineNumber"> 015 </span>	มนาปํ  ภาสมานสฺส  	ครุภารํ  อุทพฺพหิ  (๓)
+<span class="LineNumber"> 016 </span>	ธนฺจ  นํ  อลาเภสิ  	เตน  จตฺตมโน  อหูติ
+<span class="LineNumber"> 017 </span>อิทํ  นนฺทวิสาลชาตกํ  (๔)  วิตฺถาเรตฺวา  กเถสิ ฯ  กเถตฺวา  จ  ปน
+<span class="LineNumber"> 018 </span>สตฺถา  ตํ  รตนจงฺกมํ  อภิรุหิ ฯ  ปุรโต  ทฺวาทสโยชนิกา  ปริสา 
+<span class="LineNumber"> 019 </span>อโหสิ  ตถา  ปจฺฉโต  จ  อุตฺตรโต  จ  ทกฺขิณโต  จ  อุชุกํ 
+<span class="LineNumber"> 020 </span>#๑. ขุ. ชา. เอก.  ๒๗/๑๐ ฯ  ตทฏฺ€กถา  ๑/๓๔๑ ฯ
+<span class="LineNumber"> 021 </span>#๒. ส. มนุฺ  ฯ  ๓. ส. อุททฺธริ ฯ
+<span class="LineNumber"> 022 </span>#๔. ส.ม. นนฺทิวิสาลชาตกํ ฯ ขุ. ชา. เอก.  ๒๗/๑๐ ฯ  
+<span class="LineNumber"> 023 </span>#  ตทฏฺ€กถา  ๑/๓๓๗ ฯ

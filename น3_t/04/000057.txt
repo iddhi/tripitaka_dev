@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>					   ตัวอย่างที่ ๘ 
+
+<span class="LineNumber"> 002 </span>				<B>๑.  โยนิโส   วิจิเน  ธมฺมํ</B> 
+<span class="LineNumber"> 003 </span>				พึงเลือกเฟ้นธรรมโดยแยบคาย ฯ
+<span class="LineNumber"> 004 </span>		<B>๒.   ราคาโทสปเรเตหิ   นายํ   ธมฺโม   สุสมฺพุโธ</B>
+<span class="LineNumber"> 005 </span>	     ธรรมนี้   อันชนผู้เพียบพูนด้วยราคะโทสะไม่ตรัสรู้ง่าย ฯ
+<span class="LineNumber"> 006 </span>				<B>๓.  อติปตติ  วโย   ขโณ   ตเถว</B>
+<span class="LineNumber"> 007 </span>			     วัยย่อมผ่านพ้นไปเหมือนขณะทีเดียว<SUP>๑</SUP>  ฯ
+<span class="LineNumber"> 008 </span>	จะได้อธิบายความในกระทู้ธรรมทั้ง ๓  นี้เป็นตัวอย่างทางดำเนิน
+<span class="LineNumber"> 009 </span>เป็นลำดับไป   ข้อต้น    การเลือกเฟ้นคือการใคร่ครวญพิจารณาโดย
+<span class="LineNumber"> 010 </span>แยบคา   หมายความว่ารอบคอบ   การจะทำอะไร  ถ้าประกอบด้วย
+<span class="LineNumber"> 011 </span>วิธีนี้   เป็นทางดี    มีพระนิพนธ์ของสมเด็จพระมหาสมณะเจ้า ฯ  ใน
+<span class="LineNumber"> 012 </span>พุทธศาสนสุภาษิตแสดงไว้   ดังนี้ว่า
+<span class="LineNumber"> 013 </span>					<B>นิสมฺม   กรณํ   เสยฺโย</B> 
+<span class="LineNumber"> 014 </span>				ใคร่ครวญก่อนแล้วจึงทำ  ดีกว่า ฯ
+<span class="LineNumber"> 015 </span>	แม้พระบรมศาสดา  ก็ได้ทรงสอนพระราหุลพุทธชิโนรส    ใน
+<span class="LineNumber"> 016 </span>พระสูตร ๆ หนึ่ง  โดยใจความว่า   เมื่อจะทำอะไรด้วยกาย   วาจา  ใจ
+<span class="LineNumber"> 017 </span>พึงใคร่ครวญพิจารณาเสียก่อนว่า   จะชั่วหรือดี   เมื่อเห็นว่าชั่ว  ก็อย่า
+<span class="LineNumber"> 018 </span>ทำ   เมื่อเห็นว่าดี   ก็จงทำ    เมื่อกำลังทำอยู่   ก็พึงใคร่ครวญพิจารณา
+<span class="LineNumber"> 019 </span>เช่นนั้น   เมื่อเห็นว่าชั่ว   ก็จงเลิกเสีย   เมื่อเห็นว่าดี   ก็จงทำต่อไป
+
+<span class='footnote'>๑.  สอบในสนามหลวง  พ.ศ. ๒๔๘๐</span>

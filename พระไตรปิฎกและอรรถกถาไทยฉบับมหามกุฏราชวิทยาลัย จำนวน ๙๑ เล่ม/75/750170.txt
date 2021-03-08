@@ -1,0 +1,30 @@
+﻿<span class="LineNumber"> 001 </span>               <H1>ทุกมาติกา  ๑๔๒  ทุกะ</H1>
+
+<span class="LineNumber"> 002 </span>               <H2>อภิธรรมมาติกา  ๑๐๐ ทุกะ</H2> 
+
+<span class="LineNumber"> 003 </span>                        <H1>เหตุโคจฉกะ</H1>
+
+<span class="LineNumber"> 004 </span>         <H1>หมวดที่  ๑  มี  ๖  ทุกะ</H1>  <B>คือ</B>
+
+<span class="LineNumber"> 005 </span>              [๒]         <H2>๑.  เหตุทุกะ</H2>
+<span class="LineNumber"> 006 </span><B>เหตู  ธมฺมา</B>                                  ธรรมเป็นเหตุ
+<span class="LineNumber"> 007 </span><B>นเหตู  ธมฺมา</B>                                ธรรมไม่เป็นเหตุ
+
+<span class="LineNumber"> 008 </span>                         <H2>๒.  สเหตุกทุกะ</H2>
+
+<span class="LineNumber"> 009 </span><B>สเหตุกา  ธมฺมา</B>                            ธรรมมีเหตุ
+<span class="LineNumber"> 010 </span><B>อเหตุกา  ธมฺมา</B>                            ธรรมไม่มีเหตุ
+
+<span class="LineNumber"> 011 </span>                     <H2>๓.  เหตุสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 012 </span><B>เหตุสมฺปยุตฺตา  ธมฺมา</B>                    ธรรมสัมปยุตด้วยเหตุ
+<span class="LineNumber"> 013 </span><B>เหตุวิปฺปยุตฺตา  ธมฺมา</B>                    ธรรมวิปปยุตจากเหตุ
+
+<span class="LineNumber"> 014 </span>                        <H2>๔.  เหตุสเหตุทุกะ</H2>
+
+<span class="LineNumber"> 015 </span><B>เหตู เจว ธมฺมา สเหตุกา จ</B>                 ธรรมเป็นเหตุและมีเหตุ
+<span class="LineNumber"> 016 </span><B>สเหตุกา เจว ธมฺมา น จ เหตู</B>	     ธรรมมีเหตุแต่ไม่เป็นเหตุ 
+
+<span class="LineNumber"> 017 </span>                  <H2>๕.  เหตุเหตุสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 018 </span><B>เหตู เจว ธมฺมา  เหตุสมฺปยุตฺตา จ</B>       ธรรมเป็นเหตุและสัมปยุตด้วยเหตุ			

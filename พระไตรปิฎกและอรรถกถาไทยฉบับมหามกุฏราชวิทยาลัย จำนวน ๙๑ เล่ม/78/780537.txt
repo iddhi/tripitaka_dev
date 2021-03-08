@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>ปัญหาปุจฉกะ</H1>
+<span class="LineNumber"> 002 </span>           [๗๘๙]  <B>ปฏิสัมภิทา ๔</B> คือ  
+<span class="LineNumber"> 003 </span>                         <B>๑.  อัตถปฏิสัมภิทา</B>
+<span class="LineNumber"> 004 </span>                         <B>๒.  ธัมมปฏิสัมภิทา</B>
+<span class="LineNumber"> 005 </span>                         <B>๓.  นิรุตติปฏิสัมภิทา</B>
+<span class="LineNumber"> 006 </span>                         <B>๔.  ปฏิภาณปฏิสัมภิทา</B>
+
+<span class="LineNumber"> 007 </span>                              <H1>ติกมาติกาปุจฉา - ทุกมาติกาปุจฉา</H1>
+<span class="LineNumber"> 008 </span>           บรรดาปฏิสัมภิทา ๔ ข้อไหนเป็นกุศล ข้อไหนเป็นอกุศล ข้อไหนเป็น
+<span class="LineNumber"> 009 </span>อัพยากตะ  ฯลฯ ข้อไหนเป็นสรณะ  ข้อไหนเป็นอรณะ ? 
+
+<span class="LineNumber"> 010 </span>                                        <H1>ติกมาติกาวิสัชนา</H1>
+<span class="LineNumber"> 011 </span>           [๗๙๐]  <B>ปฏิสัมภิทา  ๔</B>  เป็นกุศลก็มี  เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 012 </span>           เป็นสุขเวทนาสัมปยุตก็มี  เป็นอทุกขมสุขเวทนาสัมปยุตก็มี.
+<span class="LineNumber"> 013 </span>           ปฏิสัมภิทา ๓ เป็นวิปากธัมมธรรมก็มี  เป็นเนววิปากนวิปากธัมมธรรม
+<span class="LineNumber"> 014 </span>ก็มี,  อัตถปฏิสัมภิทา   เป็นวิบากก็มี   เป็นวิปากธัมมธรรมก็มี   เป็นเนววิปาก-
+<span class="LineNumber"> 015 </span>นวิปากธัมมธรรมก็มี.
+<span class="LineNumber"> 016 </span>           ปฏิสัมภิทา ๓ เป็นอนุปาทินนุปาทานิยะ,  อัตถปฏิสัมภิทา เป็นอนุปา-
+<span class="LineNumber"> 017 </span>ทานิยะก็มี   เป็นอนุปาทินนานุปาทานิยะก็มี.  
+<span class="LineNumber"> 018 </span>           ปฏิสัมภิทา ๓ เป็นอสังกิลิฏฐสังกิเลสิกะ,   อัตถปฏิสัมภิทา   เป็นอสัง-
+<span class="LineNumber"> 019 </span>กิลิฏฐสังกิเลสิกะก็มี   เป็นอสังกิลิฏฐาสังกิเลสิกะก็มี.

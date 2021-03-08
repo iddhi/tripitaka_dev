@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           รา.  ข้าแต่พระองค์ผู้เจริญ   ก็ความเห็นชอบมีประโยชน์อย่างไร   
+<span class="LineNumber"> 002 </span>พระเจ้าข้า ?
+<span class="LineNumber"> 003 </span>           ภ.  ดูก่อนราธะ   <B>ความเห็นชอบ</B>มีประโยชน์ให้<B>้เบื่อหน่าย.</B>
+<span class="LineNumber"> 004 </span>           รา. <B>ความเบื่อหน่าย</B>มีประโยชน์อย่างไร  พระเจ้าข้า  ? 
+<span class="LineNumber"> 005 </span>           ภ.  ดูก่อนราธะ  <B>ความเบื่อหน่าย</B>มีประโยชน์ให้<B>คลายกำหนัด.</B>
+<span class="LineNumber"> 006 </span>           รา. ก็<B>ความคลายกำหนัดเล่า</B> มีประโยชน์อย่างไร พระเจ้าข้า  ?
+<span class="LineNumber"> 007 </span>           ภ.  ดูก่อนราธะ <B>ความคลายกำหนัด</B>มีประโยชน์ให้<B>หลุดพ้น.</B>
+<span class="LineNumber"> 008 </span>           รา. <B>ความหลุดพ้น</B>เล่า มีประโยชน์อย่างไร พระเจ้าข้า  ?
+<span class="LineNumber"> 009 </span>           ภ.  ดูก่อนราธะ <B>ความหลุดพ้น</B>มีประโยชน์เพื่อ<B>นิพพาน.</B>
+<span class="LineNumber"> 010 </span>           รา. <B>นิพพาน</B>เล่า  มีประโยชน์อย่างไร พระเจ้าข้า  ?
+<span class="LineNumber"> 011 </span>           ภ.  ดูก่อนราธะ  เธอถามเลยปัญหาไปเสียแล้ว  เธอไม่อาจถือเอา
+<span class="LineNumber"> 012 </span>ที่สุดของปัญหาได้    ดูก่อนราธะ    อัน<B>พรหมจรรย์</B>เป็นคุณชาติหยั่งลงสู่
+<span class="LineNumber"> 013 </span><B>นิพพาน</B> มี<B>นิพพาน</B>เป็นที่สุด อันกุลบุตรย่อมอยู่ประพฤติแล.
+<span class="LineNumber"> 014 </span>                                             <I>จบ  มารสูตร</I>
+
+<span class="LineNumber"> 015 </span>                           <H1>อรรถกถาราธสังยุต</H1>
+
+<span class="LineNumber"> 016 </span>                             <H1>อรรถกถามารสูตร</H1>
+
+<span class="LineNumber"> 017 </span>           พึงทราบวินิจฉัยใน<B>มารสูตรที่  ๑</B> ดังต่อไปนี้  :-
+<span class="LineNumber"> 018 </span>           บทว่า  <B>มาโร  วา  อสฺส</B> ความว่า  ความตายพึงมี.

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>เมื่อเบื่อหน่ายย่อมคลายกำหนัด   เพราะคลายกำหนัดจึงหลุดพ้น   เมื่อหลุด  
+<span class="LineNumber"> 002 </span>พ้นแล้ว  ย่อมมีญาณ   หยั่งรู้ว่าหลุดพ้นแล้ว  รู้ชัดว่า  ชาติสิ้นแล้ว   พรหม-
+<span class="LineNumber"> 003 </span>จรรย์อยู่จบแล้ว   กิจที่ควรทำ   ทำเสร็จแล้ว   กิจอื่นเพื่อความเป็นอย่างนี้มิ
+<span class="LineNumber"> 004 </span>ได้มี.
+<span class="LineNumber"> 005 </span>                               <I>จบ  ตติยผัสสายตนสูตรที่  ๑๑ 
+<span class="LineNumber"> 006 </span>                                มิคชาลวรรคที่  ๒</I>
+ 
+<span class="LineNumber"> 007 </span>             <h2>  อรรถกถาตติยผัสสายตนสูตรที่  ๑๑</h2>
+<span class="LineNumber"> 008 </span>            ใน  ตติยผัสสายตนสูตรที่ ๑๑   มีวินิจฉัยดังต่อไปนี้ 
+<span class="LineNumber"> 009 </span>            บทว่า   <B>อนสฺสาสํ</B> แปลว่า ฉิบหายแล้ว. บทว่า <B>ปนสฺสาสํ</B> แปลว่า
+<span class="LineNumber"> 010 </span>ฉิบหายนักแล้ว.   คำที่เหลือ   พึงทราบตามนัยดังกล่าวแล้วแล.
+<span class="LineNumber"> 011 </span>                          <I>จบ  อรรถกถาตติยผัสสายตนสูตรที่  ๑๑
+<span class="LineNumber"> 012 </span>                                จบ  มิคชาลวรรคที่  ๒</I>
+
+<span class="LineNumber"> 013 </span>                        <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 014 </span>            ๑.  ปฐมมิคชาลสูตร     ๒.  ทุติยมิคชาลสูตร     ๓.  ปฐมสมิทธิ
+<span class="LineNumber"> 015 </span>สูตร   ๔.   ทุติยสมิทธิสูตร       ๕.   ตติยสมิทธิสูตร       ๖.  จตุตถสมิทธิ
+<span class="LineNumber"> 016 </span>สูตร     ๗.   อุปเสนสูตร     ๘.   อุปวาณสูตร     ๙.   ปฐมผัสสายตนสูตร
+<span class="LineNumber"> 017 </span>๑๐.   ทุติยผัสสายตนสูตร      ๑๑.   ตติยยผัสสตนสูตร.
+
+<span class='footnote'>๑.  บาลี  เป็น  ปนสฺสาสํ</span>

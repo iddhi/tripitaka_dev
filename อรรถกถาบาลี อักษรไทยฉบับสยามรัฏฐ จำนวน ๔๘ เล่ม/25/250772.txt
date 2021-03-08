@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  772
+	
+<span class="LineNumber"> 002 </span>		อิทํ เม อมิตํ โภคํ		อกฺโขภํ สาครูปมํ  
+<span class="LineNumber"> 003 </span>		เตน โภเคน พุทฺธสฺส	อารามํ มาปเย อหํ ฯ  
+<span class="LineNumber"> 004 </span>		โสภนํ นาม อารามํ	นครสฺส ปุรตฺถโต  
+<span class="LineNumber"> 005 </span>		กตฺวา (๑) สตสหสฺเสน	สํฆารามํ(๒) อมาปยึ ฯ  
+<span class="LineNumber"> 006 </span>		กูฏาคาเร จ ปาสาเท	มณฺฑเป หมฺมิเย คุหา  
+<span class="LineNumber"> 007 </span>		จงฺกเม สุกเต กตฺวา	สํฆาราเม  อมาปยึ ฯ  
+<span class="LineNumber"> 008 </span>		ชนฺตาฆรํ อคฺคิสาลํ	อโถ อุทกมาฬกํ  
+<span class="LineNumber"> 009 </span>		นฺหานฆรํ มาปยิตฺวา	ภิกฺขุสํฆสฺสทาสหํ ฯ  
+<span class="LineNumber"> 010 </span>		อาสนฺทิโย ปี€เก จ	ปริโภเค จ ภาชเน  
+<span class="LineNumber"> 011 </span>		อารามิกฺจ เภสชฺชํ	สพฺพเมตํ อทาสหํ ฯ  
+<span class="LineNumber"> 012 </span>		อารกฺขํ ปฏฺ€เปตฺวาน	ปาการํ การยึ ทฬฺหํ  
+<span class="LineNumber"> 013 </span>		มา นํ โกจิ วิเหเ€สิ	สนฺตจิตฺตาน ตาทินํ ฯ  
+<span class="LineNumber"> 014 </span>		สตสหสฺเสนาวาสํ(๓)	สํฆาราเม(๔) อมาปยึ  
+<span class="LineNumber"> 015 </span>		เวปุลฺลํ ตํ(๕) มาปยิตฺวา (๖)  สมฺพุทฺธํ อุปนามยึ ฯ  
+<span class="LineNumber"> 016 </span>		นิฏฺ€าปิโต มยาราโม	สมฺปฏิจฺฉ ตุวํ มุนิ  
+<span class="LineNumber"> 017 </span>		นิยฺยาเทสฺสามิ ตํ ธีร	อธิวาเสหิ จกฺขุม ฯ
+<span class="LineNumber"> 018 </span>		ปทุมุตฺตโร โลกวิทู	อาหุตีนํ ปฏิคฺคโห  
+<span class="LineNumber"> 019 </span>		มม สงฺกปฺปมฺาย	อธิวาเสสิ นายโก ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. กตฺวา ฯ  ๒. สฺยา. สงฺฆาราเม ฯ  ๓. สฺยา. อาวาเส  สตสหสฺเส ฯ 
+<span class="LineNumber"> 021 </span># ๔. ยุ. สงฺฆารามํ ฯ  ๕. สฺยา. เวปุลฺลตํ ฯ  ๖. สี. ปาปยิตฺวา ฯ 

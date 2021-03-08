@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>					    <H2>ปัจจนียนัย</H2>         
+<span class="LineNumber"> 002 </span>			<H2>การนับจำนวนวาระในปัจจนียะ</H2> 
+<span class="LineNumber"> 003 </span>		[๑๘๙]  ในนเหตุปัจจัย มี ๑๔ วาระ ในนอารัมมณปัจจัย  มี ๑๔ วาระ
+<span class="LineNumber"> 004 </span>ฯลฯ
+<span class="LineNumber"> 005 </span>            			<H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๙๐]  เพราะอารัมมณปัจจัย   ในนเหตุปัจจัย มี ๘ วาระ...  ฯลฯ
+<span class="LineNumber"> 007 </span>              			<H2>ปัจจนียานุโลมนัย</H2> 
+<span class="LineNumber"> 008 </span>		[๑๙๑]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย มี   ๙  วาระ ...  ฯลฯ
+<span class="LineNumber"> 009 </span>แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 010 </span>                     	         <I>ทัสสนติกเหตุทุกะ  จบ</I>

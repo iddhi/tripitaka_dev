@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H1>วิปากฆฏนา</H1>  
+<span class="LineNumber"> 002 </span>         <B>ปัจจัย  ๗</B>  คือ  วิปากะ  สหชาตะ  อัญญมัญญะ   นิสสยะ  สัมปยุตตะ
+<span class="LineNumber"> 003 </span>อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+
+<span class="LineNumber"> 004 </span>                                       <H1>๑๓. อาหารมูลกนัย</H1>
+<span class="LineNumber"> 005 </span>                                            <H1>อาหารสภาคะ</H1>
+<span class="LineNumber"> 006 </span>         [๑๒๐๙]  <B>เพราะอาหารปัจจัย</B>   ในอธิปติปัจจัย มี ๓ วาระ ในสหชาต-
+<span class="LineNumber"> 007 </span>ปัจจัย  มี ๓ วาระ   ในอัญญมัญญปัจจัย  มี ๓ วาระ    ในนิสสยปัจจัย  มี ๓
+<span class="LineNumber"> 008 </span>วาระ  ในกัมมปัจจัย  มี ๓ วาระ  ในวิปากปัจจัย  มี ๓ วาระ   ในอินทริยปัจจัย
+<span class="LineNumber"> 009 </span>มี ๓ วาระ  ในสัมปยุตตปัจจัย มี ๓ วาระ ในอัตถิปัจจัย  มี ๓ วาระ ในอวิคต-
+<span class="LineNumber"> 010 </span>ปัจจัย   มี ๓ วาระ.
+
+<span class="LineNumber"> 011 </span>                                             <H1>อาหารฆฏนา</H1>
+<span class="LineNumber"> 012 </span>         [๑๒๑๐]  <B>ปัจจัย ๗</B>  คือ  อาหาระ  สหชาตะ  อัญญมัญญะ   นิสสยะ
+<span class="LineNumber"> 013 </span>สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>         <B>ปัจจัย ๘</B>   คือ  อาหาระ  สหชาตะ   อัญญมัญญะ  นิสสยะ   วิปากะ
+<span class="LineNumber"> 015 </span>สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>         <B>ปัจจัย ๘</B>  คือ  อาหาระ  สหชาตะ   อัญญมัญญะ   นิสสยะ   กัมมะ
+<span class="LineNumber"> 017 </span>สัมปยุตตะ  อัตถิ  อวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>         <B>ปัจจัย ๙</B>  คือ  อาหาระ  สหชาตะ  อัญญมัญญะ   นิสสยะ    กัมมะ
+<span class="LineNumber"> 019 </span>วิปากะ   สัมปยุตตะ   อัตถิ   อวิคตปัจจัย   มี ๓ วาระ.

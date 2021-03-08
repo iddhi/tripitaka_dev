@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                  ๔. ธรรมที่เป็นจิต    และธรรมที่ไม่ใช่จิต    อาศัยธรรม
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่จิต   เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 003 </span>         คือ  ขันธ์ ๒,   จิต  และจิตตสมุฏฐานรูป   อาศัยขันธ์  ๑   ที่ไม่ใช่จิต,
+<span class="LineNumber"> 004 </span>ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 005 </span>         ในปฏิสนธิขณะ ขันธ์ ๒ จิต และกฏัตตารูป อาศัยขันธ์ ๑  ที่ไม่ใช่จิต.
+<span class="LineNumber"> 006 </span>ขันธ์  ๑,  จิต   และกฏัตตารูป  อาศัยขันธ์ ๒.
+<span class="LineNumber"> 007 </span>         ในปฏิสนธิขณะ  จิตและสัมปยุตตขันธ์ทั้งหลาย  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 008 </span>                  ๕.  <B>ธรรมที่ไม่ใช่จิต   อาศัยธรรมที่เป็นจิต และธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่จิต   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>         ขันธ์ ๒   และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑  ที่ไม่ใช่จิต    และจิต,
+<span class="LineNumber"> 011 </span>ขันธ์ ๒ ฯลฯ                                                                  
+<span class="LineNumber"> 012 </span>         จิตตสมุฏฐานรูป   อาศัยจิตและมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 013 </span>         ในปฏิสนธิขณะ ขันธ์ ๒  และกฏัตตารูป   อาศัยขันธ์ ๑ ที่ไม่ใช่จิต
+<span class="LineNumber"> 014 </span>และจิต, ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 015 </span>         ในปฏิสนธิขณะ  ขันธ์ทั้งหลายที่ไม่ใช่จิต  อาศัยจิต  และหทยวัตถุ.
+
+<span class="LineNumber"> 016 </span>                                     <H2>๒.  อารัมมณปัจจัย</H2> 
+<span class="LineNumber"> 017 </span>         [๔๑] ๑.  <B>ธรรมที่ไม่ใช่จิต   อาศัยธรรมที่เป็นจิต  เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 019 </span>         คือ  สัมปยุตตขันธ์ทั้งหลาย  อาศัยจิต.
+<span class="LineNumber"> 020 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 021 </span>                  ๒.  <B>ธรรมที่ไม่ใช่จิต  อาศัยธรรมที่ไม่ใช่จิต  เกิดขึ้น
+<span class="LineNumber"> 022 </span>เพราะอารัมมณปัจจัย</B>

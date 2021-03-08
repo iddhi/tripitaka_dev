@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>นวัตตัพพังสังโห  ภุญชตีติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๑๘]  <B>สกวาที</B>  ไม่พึงกล่าวว่า พระสงฆ์  ฉัน ดื่ม  เคี้ยว  ลิ้ม ได้
+<span class="LineNumber"> 003 </span>หรือ ?
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. คนบางพวกที่ทำสังฆภัต   อุทเทสภัต   ยาคูและปานะ
+<span class="LineNumber"> 006 </span>มีอยู่  มิใช่หรือ  ?
+<span class="LineNumber"> 007 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                       ส. หากว่า คนบางพวกที่ทำสังฆภัต  อุทเทสภัต  ยาคู  และ
+<span class="LineNumber"> 009 </span>ปานะ   มีอยู่  ด้วยเหตุนั้นนะท่านจึงต้องกล่าวว่า  พระสงฆ์  ฉัน  ดื่ม  เคี้ยว
+<span class="LineNumber"> 010 </span>ลิ้ม  ได้.
+<span class="LineNumber"> 011 </span>         [๑๗๑๙]  ส. ไม่พึงกล่าวว่า พระสงฆ์ ฉัน  ดื่ม เคี้ยว  ลิ้ม  ได้หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ส. พระผู้มีพระภาคเจ้าได้ตรัสคณะโภชนะ ปรัมปรโภชนะ
+<span class="LineNumber"> 014 </span>อติริตตโภชนะ อนติริตตโภชนะ ไว้มิใช่หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                       ส. หากว่า     พระผู้มีพระภาคเจ้าได้ตรัสคณะโภชนะ
+<span class="LineNumber"> 017 </span>ปรัมปรโภชนะ  อติริตตโภชนะ  อนติริตตโภชนะไว้  ด้วยเหตุนั้นนะท่านจึง
+<span class="LineNumber"> 018 </span>ต้องกล่าวว่า พระสงฆ์ ฉัน  ดื่ม   เคี้ยว   ลิ้ม  ได้.
+<span class="LineNumber"> 019 </span>         [๑๗๒๐]  ส. ไม่พึงกล่าวว่า พระสงฆ์  ฉัน  ดื่ม เคี้ยว  ลิ้ม  ได้  หรือ  ?
+<span class="LineNumber"> 020 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 021 </span>                       ส. พระผู้มีพระภาคเจ้าได้ตรัสปานะ  ๘  คือ  น้ำมะม่วง
+<span class="LineNumber"> 022 </span>น้ำลูกหว้า   น้ำกล้วยมีเมล็ด   น้ำกล้วยไม่มีเมล็ด  น้ำมะซาง  น้ำลูกจันทน์

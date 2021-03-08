@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>					      <H1>ปัจจนียนัย</H1> 
+<span class="LineNumber"> 002 </span>				     <H1>การยกปัจจัยในปัจจนียะ</H1>                        	
+<span class="LineNumber"> 003 </span>		[๖๗๖]  ๑.  มิจฉัตตนิยตธรรมที่เป็นเหตุ    เป็นปัจจัยแก่มิจ-
+<span class="LineNumber"> 004 </span>ฉัตตนิยตธรรมที่เป็นเหตุ   ด้วยอำนาจของสหชาตปัจจัย,   เป็นปัจจัย
+<span class="LineNumber"> 005 </span>ด้วยอำนาจของอุปนิสสยปัจจัย  ฯลฯ 
+<span class="LineNumber"> 006 </span>				<H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 007 </span>		[๖๗๗]  ในนเหตุปัจจัย มี ๙ วาระ  ในนอารัมมณปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 008 </span>ฯลฯ
+<span class="LineNumber"> 009 </span>                      		<H1>อนุโลมปัจจนียนัย</H1>  
+<span class="LineNumber"> 010 </span>                      <H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1>	
+<span class="LineNumber"> 011 </span>		[๖๗๘]  เพราะเหตุปัจจัย   ในนอธิปติปัจจัย มี ๓  วาระ... ฯลฯ
+<span class="LineNumber"> 012 </span>                        	     <H1>ปัจจนียานุโลมนัย</H1>  
+<span class="LineNumber"> 013 </span>           	   <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 014 </span>		[๖๗๙]  <B>เพราะนเหตุปัจจัย</B>    ในอธิปติปัจจัย มี ๓ วาระ...  ฯลฯ
+<span class="LineNumber"> 015 </span>           	อนุโลมนัยก็ดี  ปัจจนียนัยก็ดี  อนุโลมปัจจนียนัยก็ดี    ปัจจนียานุโลม-
+<span class="LineNumber"> 016 </span>นัยก็ดี  แห่งปัญหาวาระ  ในกุสลติกะท่านนับไว้อย่างไร   พึงนับอย่างนั้น.

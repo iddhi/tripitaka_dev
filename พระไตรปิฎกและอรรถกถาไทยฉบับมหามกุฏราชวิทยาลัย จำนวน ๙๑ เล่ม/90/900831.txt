@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                			<H1>มิจฉัตตติกเหตุทุกะ</H1> 
+<span class="LineNumber"> 002 </span>           	     <H2>(๑๕. มิจฉัตตติกะ  ๑.  เหตุทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>เหตุบทปฏิจจวาระ</H2>  
+<span class="LineNumber"> 004 </span>                           		  <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๓๒๓]  ๑.  เหตุธรรมที่เป็นมิจฉัตตนิยตธรรม อาศัยเหตุธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นมิจฉัตตนิยตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                         ๒.  เหตุธรรมที่เป็นสัมมัตตนิยตธรรม  อาศัยเหตุธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นสัมมัตตนิยตธรรม  เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                         ๓.  เหตุธรรมที่เป็นอนิยตธรรม  อาศัยเหตุธรรมที่เป็น
+<span class="LineNumber"> 011 </span>อนิยตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                  	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๓๒๔]  ในเหตุปัจจัย  มี ๓ วาระ    ในอารัมมณปัจจัย  มี  ๓ วาระ
+<span class="LineNumber"> 014 </span>ในอธิปติปัจจัย มี ๓ วาระ ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>                        	       <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 016 </span>                    <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 017 </span>		[๓๒๕]  ในนอธิปติปัจจัย มี ๒ วาระ  ในนปุเรชาตปัจจัย มี ๓ วาระ

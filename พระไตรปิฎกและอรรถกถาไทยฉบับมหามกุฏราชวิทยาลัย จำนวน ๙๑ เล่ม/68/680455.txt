@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                 <B>อนาลโย</B> - ความไม่อาลัย.
+<span class="LineNumber"> 002 </span>                 <B>ราคกฺขโย</B> - ความสิ้นราคะ.
+<span class="LineNumber"> 003 </span>                 <B>โทสกฺขโย</B> - ความสิ้นโทสะ.
+<span class="LineNumber"> 004 </span>                 <B>โมหกฺขโย</B> - ความสิ้นโมหะ.
+<span class="LineNumber"> 005 </span>                 <B>ตณฺหกฺขโย</B> - ความสิ้นตัณหา.
+<span class="LineNumber"> 006 </span>                 <B>อนุปฺปาโท</B> -  ความไม่เกิด.  
+<span class="LineNumber"> 007 </span>                 <B>อปฺปวตฺตํ</B> - ความไม่เป็นไป.
+<span class="LineNumber"> 008 </span>                 <B>อนิมิตฺตํ </B>- ความไม่เป็นไป.
+<span class="LineNumber"> 009 </span>                 <B>อปฺปณิหิตํ</B> - ความไม่มีที่ตั้ง.
+<span class="LineNumber"> 010 </span>                 <B>อนายูหนํ</B> - ความไม่มีกรรมเป็นเหตุปฏิสนธิ.
+<span class="LineNumber"> 011 </span>                 <B>อปฺปฏิสนฺธิ</B> - ความไม่สืบต่อ.
+<span class="LineNumber"> 012 </span>                 <B>อนุปปตฺติ</B> - ความไม่อุบัติ.
+<span class="LineNumber"> 013 </span>                 <B>อคติ</B> - ความไม่มีคติ.
+<span class="LineNumber"> 014 </span>                 <B>อชาตํ </B>- ความไม่เกิด.
+<span class="LineNumber"> 015 </span>                 <B>อชรํ </B>- ความไม่แก่.
+<span class="LineNumber"> 016 </span>                 <B>อพฺยาธิ </B>- ความไม่เจ็บ.
+<span class="LineNumber"> 017 </span>                 <B>อมตํ </B>- ความไม่ตาย.
+<span class="LineNumber"> 018 </span>                 <B>อโสกํ </B>- ความไม่โศก.
+<span class="LineNumber"> 019 </span>                 <B>อปริเทวํ </B>- ความไม่ร้องไห้คร่ำครวญ.
+ 

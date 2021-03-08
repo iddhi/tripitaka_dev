@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         เมื่อปัจฉิมภวิกบุคคลเหล่านั้นกำลังเกิดในรูปาวจรภูมิก็ดี   บุคคล  
+<span class="LineNumber"> 002 </span>เหล่าใดจักเกิดในรูปาวจรภูมิ   แล้วจักปรินิพพาน   บุคคลเหล่านั้นกำลัง
+<span class="LineNumber"> 003 </span>ตายก็ดี      จักขายตนะจักดับแก่บุคคลเหล่านั้น      แต่ฆานายตนะไม่ใช่
+<span class="LineNumber"> 004 </span>จักดับแก่บุคคลเหล่านั้น,   บุคคลที่นอกจากนั้น  จักขายตนะจักดับ และ
+<span class="LineNumber"> 005 </span>ฆานายตนะก็จักดับแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า    ฆานายตนะจักดับแก่บุคคลใด,     จักขายตนะก็จักดับ
+<span class="LineNumber"> 007 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                          <I>จบ   จักขายตนมูละ  ฆานายตนมูลี</I>
+<span class="LineNumber"> 010 </span><H2>จักขายตนมูละ  รูปายตนมูลี :-</H2>
+<span class="LineNumber"> 011 </span>         [๕๕๐]   จักขายตนะจักดับแก่บุคคลใด,       รูปายตนะก็จักดับ
+<span class="LineNumber"> 012 </span>แก่บุคคลนั้น  ใช่ไหม   ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า    รูปายตนะจักดับแก่บุคคลใด,     จักขายตนะก็จักดับ
+<span class="LineNumber"> 015 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         ใช่.
+<span class="LineNumber"> 017 </span>                           <I>จบ  จักขายตนมูละ  รูปายตนมูลี</I>

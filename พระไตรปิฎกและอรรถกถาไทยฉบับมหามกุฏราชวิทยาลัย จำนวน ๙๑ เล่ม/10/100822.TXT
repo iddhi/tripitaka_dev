@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>อุพพาหิกวรรคที่  ๙ </H1>  
+<span class="LineNumber"> 002 </span>                                  <H1>ไม่สมมติด้วยอุพพาหิกา</H1> 
+<span class="LineNumber"> 003 </span>           [๑,๒๐๘]  อุ.  ภิกษุประกอบด้วยองค์เท่าไรหนอแล  สงฆ์ไม่พึงสมมติ
+<span class="LineNumber"> 004 </span>ด้วยอุพพาหิกา  พระพุทธเจ้าข้า
+<span class="LineNumber"> 005 </span>           พ.  ดูก่อนอุบาลี    ภิกษุประกอบด้วยองค์  ๕   สงฆ์ไม่พึงสมมติด้วย
+<span class="LineNumber"> 006 </span>อุพพาหิกา  องค์ ๕ อะไรบ้าง  คือ  :-
+<span class="LineNumber"> 007 </span>           ๑.  เป็นผู้ไม่ฉลาดในอรรถ
+<span class="LineNumber"> 008 </span>           ๒.  เป็นผู้ไม่ฉลาดในธรรม
+<span class="LineNumber"> 009 </span>           ๓.  เป็นผู้ไม่ฉลาดในนิรุตติ
+<span class="LineNumber"> 010 </span>           ๔.  เป็นผู้ไม่ฉลาดในพยัญชนะ
+<span class="LineNumber"> 011 </span>           ๕.   เป็นผู้ไม่ฉลาดในคำต้นและคำหลัง                        
+<span class="LineNumber"> 012 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕ นี้แล    สงฆ์ไม่พึงสมมติด้วย
+<span class="LineNumber"> 013 </span>อุพพาหิกา.
+
+<span class="LineNumber"> 014 </span>                                        <H1>สมมติด้วยอุพพาหิกา</H1> 
+<span class="LineNumber"> 015 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕  สงฆ์พึงสมมติด้วยอุพพาหิกา
+<span class="LineNumber"> 016 </span>องค์ ๕ อะไรบ้าง  คือ :-
+<span class="LineNumber"> 017 </span>              ๑.  เป็นผู้ฉลาดในอรรถ
+<span class="LineNumber"> 018 </span>              ๒.  เป็นผู้ฉลาดในธรรม
+<span class="LineNumber"> 019 </span>              ๓.  เป็นผู้ฉลาดในนิรุตติ
+<span class="LineNumber"> 020 </span>              ๔.  เป็นผู้ฉลาดในพยัญชนะ
+<span class="LineNumber"> 021 </span>              ๕.  เป็นผู้ฉลาดในคำต้นและคำหลัง

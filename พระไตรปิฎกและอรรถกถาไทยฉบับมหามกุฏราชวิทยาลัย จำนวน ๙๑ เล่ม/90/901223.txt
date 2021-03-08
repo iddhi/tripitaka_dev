@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>				<H1>เหตุทุกเหตุเหตุสัมปยุตตทุกะ</H1>
+<span class="LineNumber"> 002 </span>		<H2>(๑.  เหตุทุกะ   ๔.  เหตุเหตุสัมปยุตตทุกะ)</H2>
+<span class="LineNumber"> 003 </span>			    <H1>เหตุเหตุสัมปยุตตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				  <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 006 </span>		[๒๕]  ๑.  ธรรมที่เป็นทั้งเหตุธรรม  และเหตุสัมปยุตตธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นเหตุธรรม  อาศัยธรรมที่เป็นทั้งเหตุธรรม    และเหตุสัมปยุตต-
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>            ทุกปัจจัย  มี ๑ วาระ.
+
+<span class="LineNumber"> 010 </span>               	<H1>เหตุสัมปยุตตนเหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 011 </span>                 		  <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 012 </span>                               <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 013 </span>		[๒๖]  ๑.  ธรรมที่เป็นเหตุสัมปยุตตธรรม  แต่ไม่ใช่เหตุธรรม
+<span class="LineNumber"> 014 </span>ที่เป็นนเหตุธรรม  อาศัยธรรมที่เป็นเหตุสัมปยุตตธรรม  แต่ไม่ใช่
+<span class="LineNumber"> 015 </span>เหตุธรรมที่เป็นนเหตุธรรม  เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>		ทุกปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 017 </span>		<I>เหตุทุกเหตุเหตุสัมปยุตตทุกะ  จบ</I>

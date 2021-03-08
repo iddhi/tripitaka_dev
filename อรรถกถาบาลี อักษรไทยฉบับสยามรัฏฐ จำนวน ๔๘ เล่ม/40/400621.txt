@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>*เล่มที่ 40   อินฺทฺริยปโรปริยตฺตาณนิทฺเทสวณฺณนา  หน้า 621
+
+<span class="LineNumber"> 002 </span>เอเตสนฺติ  วา  มหารชกฺขา  มหนฺตํ  ราคาทิรโช  เอเตสนฺติ  วา 
+<span class="LineNumber"> 003 </span>มหารชกฺขา ฯ  
+<span class="LineNumber"> 004 </span>	ติกฺขินฺทฺริเย  มุทินฺทฺริเยติ  ติกฺขานิ  สทฺธาทีนิ
+<span class="LineNumber"> 005 </span>เอเตสนฺติ ติกฺขินฺทฺริยา มุทูนิ  สทฺธาทีนิ  อินฺทฺริยานิ  เอเตสนฺติ  
+<span class="LineNumber"> 006 </span>มุทินฺทฺริยา ฯ
+<span class="LineNumber"> 007 </span>	สฺวากาเร ทฺวากาเรติ สุนฺทรา  สทฺธาทโย  อาการา
+<span class="LineNumber"> 008 </span>โกฏฺ€าสา  เอเตสนฺติ  สฺวาการา  กุจฺฉิตา  ครหิตา  สทฺธาทโย
+<span class="LineNumber"> 009 </span>อาการา  โกฏฺ€าสา  เอเตสนฺติ ทฺวาการา ฯ 
+<span class="LineNumber"> 010 </span>	สุวิฺาปเย ทุวิฺาปเยติ เย  กถิตํ  การณํ  สลฺลกฺเขนฺติ 
+<span class="LineNumber"> 011 </span>สุเขน  สกฺกา  โหนฺติ  วิฺาเปตุํ  เต สุวิฺาปยา ตพฺพิปรีตา 
+<span class="LineNumber"> 012 </span>ทุวิฺาปยา ฯ
+<span class="LineNumber"> 013 </span>	อปฺเปกจฺเจ  ปรโลกวชฺชภยทสฺสาวิโนติ  อปิ  เอเก  ปร-
+<span class="LineNumber"> 014 </span>โลกฺเจว  ราคาทิวชฺชฺจ  ภยโต  ปสฺสนฺเต  อิมสฺส  ปน 
+<span class="LineNumber"> 015 </span>ปทสฺส  นิทฺเทเส  ปรโลกสฺเสว  น  วุตฺตตฺตา  ขนฺธาทิโลเก  จ
+<span class="LineNumber"> 016 </span>ราคาทิวชฺเช  จ  ปรํ  พาฬฺหํ  ยํ  ปสฺสนสีลาติ  ปรโลกวชฺช-
+<span class="LineNumber"> 017 </span>ภยทสฺสาวิโน ฯ  เต  ปรโลกวชฺชภยทสฺสาวิเนติ  (๑) เอวมตฺโถ  
+<span class="LineNumber"> 018 </span>คเหตพฺโพ ฯ 
+<span class="LineNumber"> 019 </span>	อปฺเปกจฺเจ  น  ปรโลกวชฺชภยทสฺสาวิโนติ  ตพฺพิปรีเต ฯ
+<span class="LineNumber"> 020 </span>	โลโกติ  จ  ปลุชฺชนฏฺเ€น(๒) ฯ
+<span class="LineNumber"> 021 </span># ๑. สี. ...ทสฺสาวิโนติ ฯ  ๒. ม. ลุชฺชนปลุชฺชนฏฺเ€ ฯ

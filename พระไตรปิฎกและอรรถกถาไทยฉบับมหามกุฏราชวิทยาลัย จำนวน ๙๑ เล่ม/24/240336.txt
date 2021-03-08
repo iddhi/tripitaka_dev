@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                       <h1>๘.  ตายนสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๓๘]   ครั้งนั้น    ตายนเทวบุตรผู้เป็นเจ้าลัทธิมาเก่าก่อน    เมื่อสิ้น
+<span class="LineNumber"> 003 </span>ราตรีปฐมยาม  มีวรรณะอันงามยิ่งนัก   ทำพระวิหารเชตวันให้สว่างทั่วแล้ว   เข้า 
+<span class="LineNumber"> 004 </span>ไปเฝ้าพระผู้มีพระภาคเจ้าถึงที่ประทับ ครั้นแล้วก็ถวายบังคมพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 005 </span>แล้วได้ยืนอยู่   ณ  ที่ควรส่วนข้างหนึ่ง.
+<span class="LineNumber"> 006 </span>         [๒๓๙]   ตายนเทวบุตร   ยืนอยู่   ณ  ที่ควรส่วนข้างหนึ่งแล้วได้กล่าว
+<span class="LineNumber"> 007 </span>คาถาเหล่านี้   ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 008 </span>                             <B>ท่านจงพยายามตักกระแสตัณหา  จง
+<span class="LineNumber"> 009 </span>                   บรรเทากามเสียเถิดพราหมณ์.
+<span class="LineNumber"> 010 </span>                             มุนีไม่ละกาม   ย่อมเข้าไม่ถึงความที่
+<span class="LineNumber"> 011 </span>                   จิตมีอารมณ์เป็นหนึ่งได้    ถ้าบุคคลจะพึง
+<span class="LineNumber"> 012 </span>                   ทำความเพียร  พึงทำความเพียรนั้นจริง ๆ
+<span class="LineNumber"> 013 </span>                   พึงบากบั่นทำความเพียรนั้นให้มั่น  เพราะ
+<span class="LineNumber"> 014 </span>                   ว่าการบรรพชาที่ปฏิบัติย่อหย่อน  ยิ่งโปรย
+<span class="LineNumber"> 015 </span>                   โทษดุจธุลี.
+<span class="LineNumber"> 016 </span>                             ความชั่วไม่ทำเสียเลยประเสริฐกว่า
+<span class="LineNumber"> 017 </span>                   ความชั่วย่อมเผาผลาญในภายหลัง.
+<span class="LineNumber"> 018 </span>                             ก็กรรมใดทำแล้ว    ไม่เดือดร้อนใน
+<span class="LineNumber"> 019 </span>                   ภายหลัง    กรรมนั้นเป็นความดี    ทำแล้ว
+<span class="LineNumber"> 020 </span>                   ประเสริฐกว่า     หญ้าคาอันบุคคลจับไม่ดี
+<span class="LineNumber"> 021 </span>                   ย่อมบาดมือนั่นเอง  ฉันใด.</B>

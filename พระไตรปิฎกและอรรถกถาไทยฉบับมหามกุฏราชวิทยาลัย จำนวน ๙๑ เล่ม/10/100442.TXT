@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>หัวข้อประจำวาร</H1>   
+<span class="LineNumber"> 002 </span>           [๙๑๗]   ปริยายวาร ๑   สาธารณวาร ๑    ตัพภาติยวาร ๑    สมถสา-
+<span class="LineNumber"> 003 </span>ธารณวาร ๑ สมถตัพภาติยวาร ๑ สมถสัมมุขาวินัยวาร ๑  วินัยวาร ๑  กุศลวาร
+<span class="LineNumber"> 004 </span>๑    ยัตถวาร ๑   สมยวาร ๑   สังสัฏฐวาร ๑   สัมมันติวาร ๑   นสัมมันติวาร ๑
+<span class="LineNumber"> 005 </span>สมถาธิกรณวาร  ๑   สมุฏฐาเปิวาร  ๑  อธิกรณ์บ่งถึงอธิกรณ์ ๑.
+<span class="LineNumber"> 006 </span>                                <I>หัวข้อประจำวาร  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                       <H1>ขันธกปุจฉา</H1>
+<span class="LineNumber"> 008 </span>                               <H1>คำถามแลคำตอบอาบัติ</H1>
+<span class="LineNumber"> 009 </span>           [๙๑๘]   ข้าพเจ้าจักถามอุปสัมปทาขันธกะ    พร้อมทั้งนิทาน   พร้อม
+<span class="LineNumber"> 010 </span>ทั้งนิเทศ  พระบัญญัติสูงสุด  ปรับอาบัติเท่าไร                            
+<span class="LineNumber"> 011 </span>           ข้าพเจ้าจักตอบอุปสัมปทาขันธกะ    พร้อมทั้งนิทาน   พร้อมทั้งนิเทศ
+<span class="LineNumber"> 012 </span>พระบัญญัติสูงสุด  ปรับอาบัติ ๒ ตัว.
+<span class="LineNumber"> 013 </span>           [๙๑๙]  ข้าพเจ้าจักถามอุโบสถขันธกะ    พร้อมทั้งนิทาน    พร้อมทั้ง
+<span class="LineNumber"> 014 </span>นิเทศ  พระบัญญัติสูงสุด  ปรับอาบัติเท่าไร
+<span class="LineNumber"> 015 </span>           ข้าพเจ้าจักตอบอุโบสถขันธกะ  พร้อมทั้งนิทาน พร้อมทั้งนิเทศ พระ
+<span class="LineNumber"> 016 </span>บัญญัติสูงสุด  ปรับอาบัติ  ๓  ตัว.
+<span class="LineNumber"> 017 </span>           [๙๒๐]   ข้าพเจ้าจักถามวัสสูปนายิกขันธกะ  พร้อมทั้งนิทาน พร้อม
+<span class="LineNumber"> 018 </span>ทั้งนิเทศ  พระบัญญัติสูงสุด  ปรับอาบัติเท่าไร

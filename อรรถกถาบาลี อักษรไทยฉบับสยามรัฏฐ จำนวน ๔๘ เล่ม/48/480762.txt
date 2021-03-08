@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 48    หน้า 762
+
+<span class="LineNumber"> 002 </span>		อนุโลมปจฺจนียวณฺณนา 
+<span class="LineNumber"> 003 </span>	อนุโลมปจฺจนีเย  เหตุยา  สตฺต  อารมฺมเณ  นวาติ  เอวํ
+<span class="LineNumber"> 004 </span>อนุโลเม  นเหตุยา  ปณฺณรส  นารมฺมเณ  ปณฺณรสาติ  เอวํ
+<span class="LineNumber"> 005 </span>ปจฺจนีเย  จ  ลทฺธคณเนสุ  ปจฺจเยสุ  โย  โย  ปจฺจโย  อนุโลมโต
+<span class="LineNumber"> 006 </span>€ิโต  ตสฺส  ตสฺส  อนุโลเม  ลทฺธวาเรหิ  สทฺธึ  เย  ปจฺจนียโต
+<span class="LineNumber"> 007 </span>€ิตสฺส  ปจฺจนีเย  ลทฺธวาเรสุ  สทิสวารา  เตสํ  วเสน  คณนา
+<span class="LineNumber"> 008 </span>เวทิตพฺพา ฯ  อนุโลมสฺมิฺหิ  เหตุปจฺจเย  เหตุยา  สตฺตาติ  สตฺต  วารา 
+<span class="LineNumber"> 009 </span>ลทฺธา  ปจฺจนีเย  นารมฺมณปจฺจเย  นารมฺมเณ  ปณฺณรสาติ 
+<span class="LineNumber"> 010 </span>ปณฺณรส  ลทฺธา ฯ  เตสุ  เย  เหตุยา  สตฺต  วุตฺตา  เตหิ  สทฺธึ 
+<span class="LineNumber"> 011 </span>นารมฺมเณ  วุตฺเตสุ  ปณฺณรสสุ กุสโล  กุสลสฺส  อพฺยากตสฺส
+<span class="LineNumber"> 012 </span>กุสลาพฺยากตสฺส  อกุสโล  อกุสลสฺส อพฺยากตสฺส  อกุสลาพฺยา-
+<span class="LineNumber"> 013 </span>กตสฺส  อพฺยากโต  อพฺยากตสฺสาติ  อิเม  สตฺต  สทิสา  เต
+<span class="LineNumber"> 014 </span>สนฺธาย  เหตุปจฺจยา นารมฺมเณ สตฺตาติ วุตฺตํ ฯ นาธิปติยา
+<span class="LineNumber"> 015 </span>สตฺตาติอาทีสุปิ เอเสว นโย ฯ
+<span class="LineNumber"> 016 </span>	นสหชาตสฺส  ปน  เหตุปจฺจยสฺส  อภาวา  นสหชาเต
+<span class="LineNumber"> 017 </span>เอโกปิ  น  ลพฺภติ  ตสฺมา  เตน  สทฺธึ  โยชนา  น  กตาติ ฯ  (๑)
+<span class="LineNumber"> 018 </span>นอฺมฺเ  กุสลาทโย  ตโย  รูปาพฺยากตสฺส ลพฺภนฺติ เต
+<span class="LineNumber"> 019 </span>สนฺธาย ตีณีติ วุตฺตํ ฯ ตถา นสมฺปยุตฺเต ฯ นวิปฺปยุตฺเต ปน
+<span class="LineNumber"> 020 </span>กุสโล  (๒)  กุสลสฺส  อกุสโล  (๓)  อกุสลสฺส  อพฺยากโต  (๔) อพฺยากตสฺสาติ 
+<span class="LineNumber"> 021 </span>อรูปธมฺมวเสน  ตีณิ  เวทิตพฺพานิ ฯ  นนิสฺสยโนอตฺถิโนอวิคตา 
+<span class="LineNumber"> 022 </span># ๑. ม. น กตา ฯ  ๒. ม. กุสลํ ฯ  ๓. ม. อกุสลํ ฯ
+<span class="LineNumber"> 023 </span># ๔. ม. อพฺยากตํ ฯ

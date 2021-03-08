@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                   มิตตปฏิรูป    คือ    คนเทียมมิตร   ๔  จำพวก  
+<span class="LineNumber"> 002 </span>		<B>๑.  คนปอกลอก      	๒.  คนดีแต่พูด,
+<span class="LineNumber"> 003 </span>		๓.  คนหัวประจบ. 	๔.   คนชักชวนในทางฉิบหาย.</B>
+<span class="LineNumber"> 004 </span>	คน  ๔  จำพวกนี้  ไม่ใช่มิตร    เป็นแต่คนเทียมมิตร   ไม่ควรคบ.
+<span class="LineNumber"> 005 </span>                       <B>๑.  คนปอกลอก    มีลักษณะ ๔</B>
+<span class="LineNumber"> 006 </span>	(๑)   คิดเอาแต่ได้ฝ่ายเดียว.
+<span class="LineNumber"> 007 </span>	(๒)  เสียให้น้อย   คิดเอาให้ได้มาก.
+<span class="LineNumber"> 008 </span>	(๓)  เมื่อมีภัยแก่ตัว   จึงรับทำกิจของเพื่อน.
+<span class="LineNumber"> 009 </span>	(๔)  คบเพื่อนเพราะเห็นแก่ประโยชน์ของตัว.
+<span class="LineNumber"> 010 </span>			<B>	๒.  คนดีแต่พูด   มีลักษณะ  ๔</B>
+<span class="LineNumber"> 011 </span>	(๑)  เก็บเอาของที่ล่วงแล้วมาปราศรัย.
+<span class="LineNumber"> 012 </span>	(๒) อ้างเอาของที่ยังไม่มีมาปราศรัย.
+<span class="LineNumber"> 013 </span>	(๓)  สงเคราะห์ด้วยสิ่งหาประโยชน์มิได้.
+<span class="LineNumber"> 014 </span>	(๔)  ออกปากพึ่งมิได้.
+<span class="LineNumber"> 015 </span>			<B>	๓.   คนหัวประจบ   มีลักษณะ  ๔</B>
+<span class="LineNumber"> 016 </span>	(๑)   จะทำชั่วก็คล้อยตาม.  		(๒)   จะทำดีก็คล้อยตาม
+<span class="LineNumber"> 017 </span>	(๓)   ต่อหน้าว่าสรรเสริญ.  		(๔)    ลับหลังตั้งนินทา.

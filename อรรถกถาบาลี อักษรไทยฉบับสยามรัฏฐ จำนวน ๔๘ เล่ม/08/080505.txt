@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ จุลฺลตณฺหาสงฺขยสุตฺตวณฺณนา หน้า ๕๐๕
+		
+<span class="LineNumber"> 002 </span>สํวิคฺคโลมหฏฺ€ํ  วิทิตฺวาติ  อตฺโถ ฯ
+<span class="LineNumber"> 003 </span>	  อิธาหํ  มาริสาติ  อิทานิสฺส  ยสฺมา  เถเรน  โสมนสฺสสํเวคํ  
+<span class="LineNumber"> 004 </span>ชนยิตฺวา  ตมํ  วิโนทิตํ  ตสฺมา  สลฺลกฺเขตฺวา  เอวมาหฯ
+<span class="LineNumber"> 005 </span>เอโส  นุ  เต  มาริส  โส  ภควา  สตฺถาติ  มาริส  ตฺวํ  กุหึ  
+<span class="LineNumber"> 006 </span>คโตสีติ  วุตฺเต  มยฺหํ  สตฺถุ  สนฺติกนฺติ  วเทสิ  อิมสฺมึ  เทวโลเก
+<span class="LineNumber"> 007 </span>เอกปาทเกน  วิย  ติฏฺ€สิ  ยํ  ตฺวํ  เอวํ  วเทสิ  เอโส  นุ  
+<span class="LineNumber"> 008 </span>เต  มาริส  โส  ภควา  สตฺถาติ  ปุจฺฉึสุ  สพฺรหฺมจารี  เม 
+<span class="LineNumber"> 009 </span>เอโสติ  เอตฺถ  กิฺจาปิ  เถโร  อนคาริโย(๑)  อภินีหารสมฺปนฺโน 
+<span class="LineNumber"> 010 </span>อคฺคสาวโก  สกฺโก  อคาริโย(๒)  มคฺคพฺรหฺมจริยวเสน  ปเนเต  
+<span class="LineNumber"> 011 </span>สพฺรหฺมจาริโน(๓)โหนฺติ  ตสฺมา  เอวมาห  อโห  นูน  เต  
+<span class="LineNumber"> 012 </span>โส  ภควา  สตฺถาติ  สพฺรหฺมจารี  ตาว  เต  เอวํ  มหิทฺธิโก ฯ
+<span class="LineNumber"> 013 </span>โส  ปน  เต  ภควา  สตฺถา  อโห  นูน  มหิทฺธิโกติ  สตฺถุ  
+<span class="LineNumber"> 014 </span>อิทฺธิปาฏิหารยทสฺสเน  ชาตาภิลาปา  หุตฺวา  เอวมาหํสุ ฯ
+<span class="LineNumber"> 015 </span>	  าตฺตรสฺสาติ  (๔)  ปฺาตฺตรสฺส  สกฺโก  หิ  ปฺา-
+<span class="LineNumber"> 016 </span>ตานํ  อฺตโร  เสสํ  สพฺพตฺถ  ปากฏเมว  เทสนํ  ปน  
+<span class="LineNumber"> 017 </span>ภควา  ยถานุสนฺธิโตว  (๕)  นิฏฺ€เปสีติ  ฯ
+<span class="LineNumber"> 018 </span>	  	  จุลฺลตณฺหาสงฺขยสุตฺตวณฺณนา  นิฏฺ€ิตา  ฯ
+<span class="LineNumber"> 019 </span>	  				สตฺตมํ ฯ
+<span class="LineNumber"> 020 </span># ๑. ม. อนคาริโย ฯ  ๒. ม. อคาริโย ฯ  ๓. ม. สพฺรหฺมจริโน ฯ 
+<span class="LineNumber"> 021 </span># ๔. สี. อฺาตฺตรสฺสาติ ฯ  ๕. ม. ยถานุสนฺธินาว ฯ

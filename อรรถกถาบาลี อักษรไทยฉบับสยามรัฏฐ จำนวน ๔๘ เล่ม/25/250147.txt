@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุติยวคฺเค สิงฺคาลปิตาเถรคาถาวณฺณนา หน้า 147
+
+<span class="LineNumber"> 002 </span>สิงฺคาโลติ   นามํ  อทาสิ ฯ   เตน นํ สิงฺคาลปิตาติ โวหรนฺติ ฯ
+<span class="LineNumber"> 003 </span>โส อปรภาเค  ฆรพนฺธํ  (๑)  ปหาย  สาสเน  ปพฺพชิ ฯ  ตสฺส  
+<span class="LineNumber"> 004 </span>ภควา  อชฺฌาสยํ  โอโลเกนฺโต  (๒)  อฏฺ€ิกสฺากมฺมฏฺ€านํ  อทาสิ ฯ
+<span class="LineNumber"> 005 </span>โส  ตํ  คเหตฺวา  ภคฺเคสุ  วิหรติ สสสุมารคิเร (๓) เภสกฬาวเน 
+<span class="LineNumber"> 006 </span>อถสฺส  ตสฺมึ  วเน  อธิวฏฺ€า  เทวตา อุสฺสาหชนนตฺถํ ภาวนาผลํ   
+<span class="LineNumber"> 007 </span>น จิรสฺเสว หตฺถคตํ กริสฺสตีติ (๔) อิมมตฺถํ อฺาปเทเสน 
+<span class="LineNumber"> 008 </span>วิภาเวนฺตี  
+<span class="LineNumber"> 009 </span>		อหุ พุทฺธสฺส ทายาโท	ภิกฺขุ เภสกฬาวเน  
+<span class="LineNumber"> 010 </span>		เกวลํ อฏฺ€ิสฺาย	อผริ ป€วึ อิมํ  
+<span class="LineNumber"> 011 </span>		มฺเหํ กามราคํ โส	ขิปฺปเมว ปหียตีติ(๕)  
+<span class="LineNumber"> 012 </span>คาถํ อาห ฯ (๖)  
+<span class="LineNumber"> 013 </span>	ตตฺถ  อหูติ  โหติ  วตฺตมานตฺเถ  หิ  อิทํ  อตีตกาลวจนํ ฯ 
+<span class="LineNumber"> 014 </span>	พุทฺธสฺสาติ สพฺพฺุพุทฺธสฺส ฯ  
+<span class="LineNumber"> 015 </span>	ทายาโทติ  ธมฺมทายาโท  นววิธสฺส  โลกุตฺตรธมฺมทายสฺส  (๗) 
+<span class="LineNumber"> 016 </span>อตฺตโน  สมฺมาปฏิปตฺติยา  อาทายโก  คณฺหนโก ฯ 
+<span class="LineNumber"> 017 </span>	อถวา  อหูติ  อโหสิ ฯ  เอวํนามสฺส  พุทฺธสฺส  ทายาทภาเว 
+<span class="LineNumber"> 018 </span>โกจิ นิพนฺโธ อิทาเนว ภวิสฺสตีติ อธิปฺปาโย ฯ เตนาห 
+<span class="LineNumber"> 019 </span>มฺเหํ กามราคํ โส ขิปฺปเมว ปหียตีติ ฯ (๘) 
+<span class="LineNumber"> 020 </span># ๑. ม. ฆรพนฺธนํ ฯ  ๒. สี. โอโลเกตฺวา ฯ  ๓. สี. สุํสุมารคิเร ฯ 
+<span class="LineNumber"> 021 </span># ๔. สี. กริสฺสามีติ ฯ  ๕. ขุ. เถร. ๒๖/๑๕๕/๒๖๔ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. อภาสิ ฯ ๗. สี. ...ธมฺมทายาทสฺส ฯ ๘. ม. วหิสฺสตีติ ฯ 

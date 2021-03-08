@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  468
+
+<span class="LineNumber"> 002 </span>	ปทหตีติ ปธานวิริยํ กโรติ ฯ ปฏิปาฏิยา  ปเนตานิ 
+<span class="LineNumber"> 003 </span>จตฺตาริปิ ปทานิ อาเสวนาภาวนาพหุลีกมฺมสาตจฺจกิริยาหิ 
+<span class="LineNumber"> 004 </span>โยเชตพฺพานิ ฯ  
+<span class="LineNumber"> 005 </span>	อุปฺปนฺนานํ  ปาปกานนฺติ  อนุปฺปนฺนานนฺติ  อวตฺตพฺพตํ 
+<span class="LineNumber"> 006 </span>อาปนฺนานํ ปาปธมฺมานํ ฯ  
+<span class="LineNumber"> 007 </span>	ปหานายาติ  ปชหนตฺถาย ฯ  
+<span class="LineNumber"> 008 </span>	อนุปฺปนฺนานํ  กุสลานํ  ธมฺมานนฺติ  อนิพฺพตฺตานํ  
+<span class="LineNumber"> 009 </span>โกสลฺลสมฺภูตานํ  ธมฺมานํ ฯ  
+<span class="LineNumber"> 010 </span>	อุปฺปาทายาติ  อุปฺปาทนตฺถาย ฯ 
+<span class="LineNumber"> 011 </span>	อุปฺปนฺนานนฺติ  นิพฺพตฺตานํ ฯ
+<span class="LineNumber"> 012 </span>	€ิติยาติ  €ิตตฺถาย ฯ  
+<span class="LineNumber"> 013 </span>	อสมฺโมสายาติ  อนสฺสนตฺถํ ฯ  ภิยฺโยภาวายาติ  ปุนปฺปุนํ  
+<span class="LineNumber"> 014 </span>ภาวาย ฯ
+<span class="LineNumber"> 015 </span>	เวปุลฺลายาติ วิปุลภาวาย ฯ 
+<span class="LineNumber"> 016 </span>	ภาวนายาติ วุฑฺฒิยา ฯ(๑)
+<span class="LineNumber"> 017 </span>	ปาริปูริยาติ  ปริปูรณตฺถาย ฯ  อยํ  ตาว  จตุนฺนํ 
+<span class="LineNumber"> 018 </span>สมฺมปฺปธานานํ  อุทฺเทสวารวเสน  เอกปทิโก  อตฺถุทฺธาโร ฯ  
+<span class="LineNumber"> 019 </span>	อิทานิ  ปฏิปาฏิยา  ตานิ  ปทานิ  ภาเชตฺวา  ทสฺเสตุํ  
+<span class="LineNumber"> 020 </span>กถฺจ  ภิกฺขุ  อนุปฺปนฺนานนฺติอาทินา  นเยน  นิทฺเทสวาโร  
+<span class="LineNumber"> 021 </span># ๑. ม. วฑฺฒิยา ฯ 

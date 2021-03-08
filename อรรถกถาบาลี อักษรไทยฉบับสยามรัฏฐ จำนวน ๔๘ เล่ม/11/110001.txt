@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๑
+
+<span class="LineNumber"> 002 </span>		สารตฺถปฺปกาสินี นาม สํยุตฺตนิกายฏฺ€กถา        
+<span class="LineNumber"> 003 </span>				นิทานวคฺควณฺณนา  
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>				นิทานสํยุตฺตวณฺณนา   
+
+<span class="LineNumber"> 006 </span>			ปฏิจฺจสมุปฺปาทสุตฺตวณฺณนา  
+<span class="LineNumber"> 007 </span>	เอวมฺเม  สุตนฺติ  นิทานวคฺเค  ป€มํ  ปฏิจฺจสมุปฺปาทสุตฺตํ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺรายํ อนุปุพฺพปทวณฺณนา  ตตฺร  โข  ภควา  ภิกฺขู  
+<span class="LineNumber"> 009 </span>อามนฺเตสีติ  ตตฺร  (๑)  ตตฺราติ เทสกาลปริทีปนํ(๒) ฯ  ตฺหิ  ยํ  
+<span class="LineNumber"> 010 </span>สมยํ  วิหรติ  ตตฺร  สมเย  ยสฺมิฺจ  เชตวเน  วิหรติ  ตตฺถ  (๓) .
+<span class="LineNumber"> 011 </span>เชตวเนติ  ทีเปติ ฯ  ภาสิตพฺพยุตฺเต  วา เทสกาเล  ทีเปติ ฯ  
+<span class="LineNumber"> 012 </span>น  หิ  ภควา  อยุตฺเต  เทเส  กาเล  จ  (๔)  ธมฺมํ  ภาสติ ฯ 
+<span class="LineNumber"> 013 </span>อกาโล  โข ตาว  พาหิยาติอาทิ   เจตฺถ  สาธกํ ฯ  โขติ  
+<span class="LineNumber"> 014 </span>ปทปูรณมตฺเต อวธารเณ  อาทิกาลตฺเถ  วา  นิปาโต ฯ  ภควาติ  
+<span class="LineNumber"> 015 </span>โลกครุทีปนํ ฯ  ภิกฺขูติ  กถาย(๕) สวนยุตฺตปุคฺคลวจนํ ฯ อปิเจตฺถ 
+<span class="LineNumber"> 016 </span>ภิกฺขโกติ  ภิกฺขุ  ภิกฺขาจริยํ  อชฺฌูปคโตติ  ภิกฺขูติ  อาทินา  
+<span class="LineNumber"> 017 </span>นเยน  วจนตฺโถ  เวทิตพฺโพ ฯ  อามนฺเตสีติ  อาลปิ  อภาสิ  
+<span class="LineNumber"> 018 </span># ๑. สี. ยุ. ตตฺถ ฯ  ม. เอตฺถน ฯ  ๒. กาลเทสปริทีปนนฺติ ปทํ ภเวยฺย ยํ สมยํ
+<span class="LineNumber"> 019 </span># วิหรติ ตตฺร สมเย ยสฺมิฺจ เชตวเน วิหรติ ตตฺร เชตวเนติ วจนานุกฺกมโต เจว
+<span class="LineNumber"> 020 </span># กาลเทส...ปกิมณฺฑิตนฺติ ปรํ วกฺขมานปทโต จ ฯ ๓. ม. ยุ. ตตฺร ฯ
+<span class="LineNumber"> 021 </span># ๔. ยุ. วา ฯ  ๕. ม. กถาสวน... ฯ

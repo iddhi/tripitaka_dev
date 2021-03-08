@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                  ปัจฉิมกิจ  มี  ๖  คือ :- 
+<span class="LineNumber"> 002 </span>๑.  วัดเงาแดดในทันใด.
+<span class="LineNumber"> 003 </span>๒.  บอกประมาณแห่งฤดู.
+<span class="LineNumber"> 004 </span>๓.  บอกส่วนแห่งวัน.
+<span class="LineNumber"> 005 </span>๔.  บอกสังคีติ.
+<span class="LineNumber"> 006 </span>๕.  บอกนิสัย.
+<span class="LineNumber"> 007 </span>๖.  บอกอกรณียกิจ ๔.
+<span class="LineNumber"> 008 </span>                           เงาแดดนั้นปันเป็น  ๒  ภาค  คือ :-
+<span class="LineNumber"> 009 </span>๑.  หายมานจฺฉายา  เวลามีเงาเสื่อม.
+<span class="LineNumber"> 010 </span>๒.  วฑฺฒมานจฺฉายา  เวลามีเงาเจริญ.

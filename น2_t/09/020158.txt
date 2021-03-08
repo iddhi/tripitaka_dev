@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	๑๓	       "			       "			เตรสุตฺตร
+<span class="LineNumber"> 002 </span>	๑๔	       "			       "			จตุทฺทสุตฺตร	  	
+<span class="LineNumber"> 003 </span>	๑๕	       "			       "			ปณฺณรสุตฺตร
+<span class="LineNumber"> 004 </span>	๑๖	       "			       "			โสฬสุตฺตร		
+<span class="LineNumber"> 005 </span>	๑๗	       "			       "			สุตฺตรสุตฺตร
+<span class="LineNumber"> 006 </span>	๑๘	       "			       "			อฏฺ€ารสุตฺตร
+<span class="LineNumber"> 007 </span>	๑๙	       "			       "			อูนวีสุตฺตร		
+<span class="LineNumber"> 008 </span>	๒๐	       "			       "			วีสุตฺตร
+<span class="LineNumber"> 009 </span>	๓๐	       "			       "			ตึสุตฺตร
+<span class="LineNumber"> 010 </span>	๔๐	       "			       "			จตฺตาฬีสุตฺตร		
+<span class="LineNumber"> 011 </span>	๕๐	       "			       "			ปณฺณาสุตฺตร
+<span class="LineNumber"> 012 </span>	๖๐	       "			       "			สฏฺ€ยุตฺตร
+<span class="LineNumber"> 013 </span>	๗๐	       "			       "			สตฺตตฺยุตฺตร
+<span class="LineNumber"> 014 </span>	๘๐	       "			       "			อสีตยุตฺตร
+<span class="LineNumber"> 015 </span>	๙๐	       "			       "			นวุตยุตฺตร
+
+<span class="LineNumber"> 016 </span>	จำนวนในระหว่างสิบ  ต่อจาก  ๒๐  ไป  มีหลักเปลี่ยนคล้ายกันคือ  <B>เอ็ด  </B>
+<span class="LineNumber"> 017 </span>เติม  <B>เอก  ๒</B>  เติม  <B>ทฺวา  ๓</B>  เติม  <B>เต ๔</B>  เติม  จตุ  ๕  <B>ปญฺจ ๖</B>  เติม  <B>สตฺต ๘</B>  เติม  
+<span class="LineNumber"> 018 </span><B>อฏฺ€</B>  ทั้งนี้ให้เติมเข้าหน้าจำนวนครบสิบนั้น ๆ  เช่น  <B>๒๑</B>  เป็น  <B>เอกวีสุตฺตร</B>  ๓๒  เป็น  
+<span class="LineNumber"> 019 </span><B>ทฺวตฺตึสุตฺตร  ๔๓</B>  เป็น  <B>เตจตฺตาฬีสุตฺตร  ๕๔</B>  เป็น  <B>จตุปณฺณาสุตฺตร  ๖๕</B>  เป็น  
+<span class="LineNumber"> 020 </span><B>ปญฺจสฏฺ€ยุตฺตร  ๗๖</B>  เป็น  <B>ฉสตฺตตฺยุตฺตร  ๘๗</B>  เป็น  <B>สตฺตาสีตยุตฺตร  ๙๘</B>  เป็น  
+<span class="LineNumber"> 021 </span><B>อฏฺ€นวุยุตฺตร</B>  ดังนี้เป็นต้น
+<span class="LineNumber"> 022 </span>	สำหรับผู้ไม่รู้ภาษาบาลีเลย  จำเป็นต้องศึกษาต่อท่านผู้รู้โดยเฉพาะจึงจะ
+<span class="LineNumber"> 023 </span>เปลี่ยนถูกนิยม  ส่วนจำนวนครบ  <B>๙</B>  ในระหว่างให้เติม  <B>อูน</B>  หน้าจำนวนครบสิบข้าง

@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   มนินทรีย์ไม่ใช่กำลังเกิดในภูมิใด,    ชีวิตินทรีย์ก็ไม่
+<span class="LineNumber"> 002 </span>ใช่กำลังเกิดในภูมินั้น   ใช่ไหม   ?
+<span class="LineNumber"> 003 </span>         กำลังเกิด.
+<span class="LineNumber"> 004 </span><I>จบ  ชีวิตินทริยมูละ  อุเปกขินทริย  ฯลฯ   สัทธินทริย  ปัญญินทริยมูลี</I>
+<span class="LineNumber"> 005 </span>                                    <I>ชีวิตินทริยมูล   จบ</I>

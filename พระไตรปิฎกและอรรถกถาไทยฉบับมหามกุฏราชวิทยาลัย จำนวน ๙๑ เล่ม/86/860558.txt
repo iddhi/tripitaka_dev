@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                 <H1>การนับจำนวนวาระในอนุโลมนัยแห่งปฏิจจวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                           <H1>สุทธมูลกนัย</H1> 
+<span class="LineNumber"> 003 </span>         [๔๗๐]   ในเหตุปัจจัย   มี  ๑๐ วาระ   ในอารัมมณปัจจัย  มี ๑๐ วาระ
+<span class="LineNumber"> 004 </span>ในอธิปติปัจจัย มี  ๑๐ วาระ ในอนันตรปัจจัย  มี ๑๐ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 005 </span>มี ๑๐ วาระ   ในสหชาตปัจจัย  มี ๑๐ วาระ   ในอัญญมัญญปัจจัย  มี ๑๐ วาระ
+<span class="LineNumber"> 006 </span>ในนิสสยปัจจัย  มี  ๑๐ วาระ  ในอุปนิสสยปัจจัย  มี ๑๐ วาระ   ในปุเรชาตปัจจัย
+<span class="LineNumber"> 007 </span>มี  ๑๐ วาระ    ในอาเสวนปัจจัย  มี  ๑๐ วาระ    ในกัมมปัจจัย   มี ๑๐ วาระ   ใน
+<span class="LineNumber"> 008 </span>วิปากปัจจัย  มี  ๑๐ วาระ    ในอาหารปัจจัย   มี ๑๐ วาระ    ในอินทริยปัจจัย  มี
+<span class="LineNumber"> 009 </span>๑๐ วาระ   ในฌานปัจจัย  มี  ๑๐ วาระ    ในมัคคปัจจัย  มี ๑๐ วาระ    ในสัม- 
+<span class="LineNumber"> 010 </span>ปยุตตปัจจัย  มี  ๑๐ วาระ    ในวิปปยุตตปัจจัย  มี  ๑๐ วาระ    ในอัตถิปัจจัย  มี
+<span class="LineNumber"> 011 </span>๑๐  วาระ  ในนัตถิปัจจัย  มี ๑๐ วาระ  ในวิคตปัจจัย มี ๑๐ วาระ   ในอวิคต-
+<span class="LineNumber"> 012 </span>ปัจจัย   ทั้งหมด  มีปัจจัยละ  ๑๐ วาระ.
+<span class="LineNumber"> 013 </span>         การนับอนุโลม  พึงนับอย่างนี้.
+<span class="LineNumber"> 014 </span>                                            <I>อนุโลม  จบ</I>
+
+<span class="LineNumber"> 015 </span>                                            <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 016 </span>                                           <H1>นเหตุปัจจัย</H1>
+<span class="LineNumber"> 017 </span>         [๔๗๑] ๑. <B>ปีติสหคตธรรม   อาศัยปีติสหคตธรรม   เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 019 </span>         คือ   ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นปีติสหคตธรรม   ซึ่งเป็นอเหตุกะ
+<span class="LineNumber"> 020 </span>ฯลฯ ขันธ์ ๒ อาศัยขันธ์ ๒ ฯลฯ

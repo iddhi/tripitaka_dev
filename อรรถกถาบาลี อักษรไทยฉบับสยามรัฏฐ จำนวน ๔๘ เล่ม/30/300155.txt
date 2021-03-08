@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  อนภิรติชาตกํ  หน้า  155
+
+<span class="LineNumber"> 002 </span>พฺราหฺมณมหาสาลกุเล  นิพฺพตฺติตฺวา  วยปฺปตฺโต  ตกฺกสิลายํ  
+<span class="LineNumber"> 003 </span>คนฺตฺวา (๑) มนฺเต  อุคฺคณฺหิตฺวา  ทิสาปาโมกฺโข  อาจริโย  หุตฺวา 
+<span class="LineNumber"> 004 </span>พาราณสิยํ  พหู  ขตฺติยพฺราหฺมณกุมาเร  มนฺเต  วาเจสิ ฯ  ตสฺส 
+<span class="LineNumber"> 005 </span>สนฺติเก  เอโก  พฺราหฺมณมาณโว  ตโย  เวเท  ปคุเณ  อกาสิ  
+<span class="LineNumber"> 006 </span>เอกปเทปิ  นิกฺกงฺโข  อาจริโย  หุตฺวา  มนฺเต  วาเจสิ ฯ  โส 
+<span class="LineNumber"> 007 </span>อปเรน  สมเยน  ฆราวาสํ  คเหตฺวา  ฆราวาสจินฺตาย (๒) อาวิลจิตฺโต
+<span class="LineNumber"> 008 </span>มนฺเต  ปริวตฺเตตุํ  นาสกฺขิ ฯ  อถ  นํ  อาจริโย  อตฺตโน  สนฺติกํ  
+<span class="LineNumber"> 009 </span>อาคตํ  กึ  มาณว  ปคุณา  เต  มนฺตาติ  ปุจฺฉิตฺวา  ฆราวาสสฺส 
+<span class="LineNumber"> 010 </span>คหิตกาลโต  ปฏฺ€าย  เม  จิตฺตํ  อาวิลํ  ชาตํ  มนฺเต  ปริวตฺเตตุํ 
+<span class="LineNumber"> 011 </span>น  สกฺโกมีติ  วุตฺเต  ตาต  อาวิลจิตฺตมฺหิ  ปคุณาปิ  มนฺตา  
+<span class="LineNumber"> 012 </span>น  ปฏิภนฺติ  อนาวิเล (๓) ปน  อปฺปฏิภาณนฺนาม นตฺถีติ วตฺวา
+<span class="LineNumber"> 013 </span>อิมา เทฺว (๔)  คาถา อาห  
+<span class="LineNumber"> 014 </span>	[๒๑๙]	ยโถทเก อาวิเล อปฺปสนฺเน  
+<span class="LineNumber"> 015 </span>			น ปสฺสติ สิปฺปิกสมฺพุกฺจ  
+<span class="LineNumber"> 016 </span>			สกฺขรํ วาลุกํ มจฺฉคุมฺพํ  
+<span class="LineNumber"> 017 </span>			เอวํ อาวิลมฺหิ จิตฺเต  
+<span class="LineNumber"> 018 </span>			น โส ปสฺสติ อตฺตทตฺถํ ปรตฺถํ  
+<span class="LineNumber"> 019 </span>	[๒๒๐]	ยโถทเก อจฺเฉ วิปฺปสนฺเน  
+<span class="LineNumber"> 020 </span>			โส ปสฺสติ สิปฺปิกสมฺพุกฺจ  
+<span class="LineNumber"> 021 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. สฆราวาสจิตฺตตาย ฯ  
+<span class="LineNumber"> 022 </span># ๓. ม. อนาวิเล จิตฺเต ฯ  ๔. ม. อยํ ปาโ€ นตฺถิ ฯ

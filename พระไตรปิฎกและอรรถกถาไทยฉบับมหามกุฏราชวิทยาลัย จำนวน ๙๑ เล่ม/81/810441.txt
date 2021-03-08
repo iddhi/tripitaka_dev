@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>อัญญมัญญปัจจยกถา</H1>  
+
+<span class="LineNumber"> 002 </span>         [๑๖๑๑]  <B>สกวาที</B>  สังขารเกิด  เพราะอวิชชาเป็นปัจจัยเท่านั้น  ไม่ 
+<span class="LineNumber"> 003 </span>พึงกล่าวว่า แม้เพราะสังขารเป็นปัจจัยก็เกิดอวิชชาได้ หรือ ?  
+<span class="LineNumber"> 004 </span>                      <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                      ส. อวิชชาเกิดพร้อมกับสังขาร มิใช่หรือ ?
+<span class="LineNumber"> 006 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 007 </span>                      ส. หากว่า   อวิชชาเกิดพร้อมกับสังขาร   ด้วยเหตุนั้นนะ
+<span class="LineNumber"> 008 </span>ท่านจึงต้องกล่าวว่า   แม้เพราะอวิชชาเป็นปัจจัยก็เกิดสังขารได้ แม้เพราะ
+<span class="LineNumber"> 009 </span>สังขารเป็นปัจจัยก็เกิดอวิชชาได้.
+<span class="LineNumber"> 010 </span>         [๑๖๑๒]  ส. อุปาทานเกิดเพราะตัณหาเป็นปัจจัยเท่านั้น     ไม่พึง
+<span class="LineNumber"> 011 </span>กล่าวว่า แม้เพราะอุปาทานเป็นปัจจัยก็เกิดตัณหาได้ หรือ ?
+<span class="LineNumber"> 012 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                      ส. ตัณหาเกิดพร้อมกับอุปาทาน มิใช่หรือ ?
+<span class="LineNumber"> 014 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                      ส. หากว่า   ตัณหาเกิดพร้อมกับอุปาทาน   ด้วยเหตุนั้น
+<span class="LineNumber"> 016 </span>ท่านจึงต้องกล่าวว่า แม้เพราะตัณหาเป็นปัจจัยก็เกิดอุปาทานได้  แม้เพราะ
+<span class="LineNumber"> 017 </span>อุปาทานเป็นปัจจัยก็เกิดตัณหาได้.
+<span class="LineNumber"> 018 </span>         [๑๖๑๓]  ป. คำว่า  <B>ดูก่อนภิกษุทั้งหลาย  เพราะชราและมรณะเป็น 
+<span class="LineNumber"> 019 </span>ปัจจัย  จึงเกิดชาติ  เพราะชาติเป็นปัจจัย  จึงเกิดภพ</B> ดังนี้  เป็นสูตรมีอยู่จริง
+<span class="LineNumber"> 020 </span>หรือ ?
+<span class="LineNumber"> 021 </span>                       ส. ไม่มี.
+<span class="LineNumber"> 022 </span>                       ป. ถ้าอย่างนั้น     สังขารก็เกิดเพราะอวิชชาเป็นปัจจัย

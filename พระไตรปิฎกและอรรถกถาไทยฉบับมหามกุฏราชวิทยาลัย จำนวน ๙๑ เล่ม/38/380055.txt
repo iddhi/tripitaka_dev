@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>เป็นต้น   ตรัสผลด้วยปัจจเวกขณญาณ.  คำที่เหลือในที่ทุกแห่ง  ง่ายทั้งนั้น
+<span class="LineNumber"> 002 </span>แล.                                                              
+<span class="LineNumber"> 003 </span>                                 จบอรรถกถาทุติยอริยวสสูตรที่  ๑๐
+<span class="LineNumber"> 004 </span>                                          <I>จบนาถกรณวรรคที่ ๒</I>
+
+<span class="LineNumber"> 005 </span>                             <H3>รวมพระสูตรที่มีในวรรคนี้  คือ</H3> 
+<span class="LineNumber"> 006 </span>         ๑. เสนาสนสูตร    ๒. อังคสูตร    ๓. สังโยชนสูตร   ๔. ขีลสูตร
+<span class="LineNumber"> 007 </span>๕. อัปปมาทสูตร   ๖. อาหุเนยยสูตร   ๗. ปฐมนาถสูตร    ๘. ทุติยนาถ-
+<span class="LineNumber"> 008 </span>สูตร  ๙. ปฐมอริยวสสูตร  ๑๐. ทุติยอริยวสสูตร.

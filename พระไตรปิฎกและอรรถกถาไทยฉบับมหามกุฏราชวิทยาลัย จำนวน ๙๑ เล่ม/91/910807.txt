@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๗๘๓]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                          <H2>เนวเสกขานาเสกขบท</H2>
+<span class="LineNumber"> 004 </span>           [๗๘๔] ๑.  <B>ธรรมที่ไม่ใช่เนวเสกขาเสกขธรรม    ที่ไม่ใช่
+<span class="LineNumber"> 005 </span>อัพยากตะ  อาศัยเนวเสกขานาเสกขธรรม  ที่เป็นอัพยากตะ  เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                            <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๗๘๕]  ในเหตุปัจจัย  มี  ๕  วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>                <I>กุสลติกเสกขติกนกุสลติกนเสกขติกะ  จบ</I>

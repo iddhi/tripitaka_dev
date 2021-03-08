@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>๗.  สุปปติสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>                              <H1>ว่าด้วยสำเร็จสีหไสยาสน์</H1> 
+
+<span class="LineNumber"> 003 </span>           [๔๓๔]   ข้าพเจ้าได้สดับมาแล้วอย่างนี้ :-
+<span class="LineNumber"> 004 </span>           สมัยหนึ่ง  พระผู้มีพระภาคเจ้าประทับ อยู่  ณ  พระวิหารเวฬุวัน   อัน
+<span class="LineNumber"> 005 </span>เป็นสถานที่พระราชทานเหยื่อแก่กระแต   กรุงราชคฤห์.
+<span class="LineNumber"> 006 </span>           ครั้งนั้น   พระผู้มีพระภาคเจ้าเสด็จจงกรมอยู่กลางแจ้งเกือบตลอดราตรี
+<span class="LineNumber"> 007 </span>ในเวลาใกล้รุ่ง     ทรงล้างพระบาทแล้วเสด็จเข้าพระวิหารทรงสำเร็จสีหไสยาสน์
+<span class="LineNumber"> 008 </span>โดยพระปรัศว์เบื้องขวา   ทรงเหลี่อมพระบาทด้วยพระบาท    ทรงมีพระสติ- 
+<span class="LineNumber"> 009 </span>สัมปชัญญะ  ทรงทำความหมายในอันจะเสด็จลุกขึ้นไว้ในพระทัย.
+<span class="LineNumber"> 010 </span>           [๔๓๕]   ครั้งนั้น     มารผู้มีบาปได้เข้าไปเฝ้าพระผู้มีพระภาคเจ้า   แล้ว
+<span class="LineNumber"> 011 </span>ได้กราบทูลพระผู้มีพระภาคเจ้าด้วยพระคาถาว่า
+<span class="LineNumber"> 012 </span>                             <B>ท่านหลับหรือ      ท่านหลับเสีย
+<span class="LineNumber"> 013 </span>              ทำไมนะ     ท่านหลับเป็นตายเทียวหรือนี่
+<span class="LineNumber"> 014 </span>              ท่านหลับโดยสำคัญว่า     เรือนว่างเปล่า
+<span class="LineNumber"> 015 </span>              กระนั้นหรือ   เมื่อตะวันโด่งแล้ว   ท่านยัง
+<span class="LineNumber"> 016 </span>              จะหลับอยู่หรือนี่.</B>
+<span class="LineNumber"> 017 </span>           [๔๓๖]  ครั้งนั้น    พระผู้มีพระภาคเจ้าทรงทราบว่า    นี่มารผู้มีบาป
+<span class="LineNumber"> 018 </span>จึงได้ตรัสกะมารผู้มีบาปด้วยพระคาถาว่า
+<span class="LineNumber"> 019 </span>                             <B>พระพุทธเจ้าซึ่งไม่มีตัณหาดุจข่าย
+<span class="LineNumber"> 020 </span>              อันซ่านไปในอารมณ์ต่าง ๆ สำหรับจะนำ 
+<span class="LineNumber"> 021 </span>              ไปสู่ภพไหน ๆ ย่อมบรรทมหลับ    เพราะ</B>

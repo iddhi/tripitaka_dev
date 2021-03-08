@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  40  คนฺถารมฺภกถา  หน้า  11
+
+<span class="LineNumber"> 002 </span>ปฏิสมฺภิทา  นาม  นตฺถิ ฯ  อิเม  ปน  เทฺวปิ  เอกโต  หุตฺวา  
+<span class="LineNumber"> 003 </span>ปฏิสมฺภิทา  อุปตฺถมฺเภตฺวา วิสทา  กโรนฺตีติ ฯ อปเร อาหุ  
+<span class="LineNumber"> 004 </span>		ปุพฺพโยโค พาหุสจฺจํ  เทสภาสา จ อาคโม  
+<span class="LineNumber"> 005 </span>		ปริปุจฺฉา อธิคโม  ครุสนฺนิสฺสโย ตถา  
+<span class="LineNumber"> 006 </span>		มิตฺตสมฺปตฺติ เจวาติ  ปฏิสมฺภิทปจฺจยาติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  ปุพฺพโยโค  วุตฺตนโยว ฯ  
+<span class="LineNumber"> 008 </span>	พาหุสจฺจํ  นาม  เตสุ  เตสุ  สตฺเถสุ  จ (๑) สิปฺปายตเนสุ  
+<span class="LineNumber"> 009 </span>จ  กุสลตา ฯ  
+<span class="LineNumber"> 010 </span>	เทสภาสา  นาม  เอกสตโวหารกุสลตา  วิเสเสน  มาคธิเก-
+<span class="LineNumber"> 011 </span>โกสลฺลํ (๒)ฯ  
+<span class="LineNumber"> 012 </span>	อาคโม  นาม  อนฺตมโส  โอปมฺมวคฺคมตฺตสฺสปิ  พุทฺธ-
+<span class="LineNumber"> 013 </span>วจนสฺส  ปริยาปุณนํ ฯ  
+<span class="LineNumber"> 014 </span>	ปริปุจฺฉา  นาม  เอกคาถายปิ  อตฺถวินิจฺฉยปุจฺฉนํ ฯ  
+<span class="LineNumber"> 015 </span>	อธิคโม  นาม  โสตาปนฺนตา  วา  สกทาคามิตา  วา  
+<span class="LineNumber"> 016 </span>อนาคามิตา  วา  อรหตฺตํ  วา ฯ  
+<span class="LineNumber"> 017 </span>	ครุสนฺนิสฺสโย  นาม  สุตปฏิภานพหุลานํ  ครูนํ  สนฺติเก  
+<span class="LineNumber"> 018 </span>วาโส ฯ  
+<span class="LineNumber"> 019 </span>	มิตฺตสมฺปตฺติ นาม  ตถารูปานํเยว มิตฺตานํ ปฏิลาโภติ ฯ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  พุทฺธา  จ  ปจฺเจกพุทฺธา  จ  ปุพฺพโยคฺเจว  
+<span class="LineNumber"> 021 </span># ๑. ม. สตฺเถสุ จ ฯ  ๒. ม. วิเสเสน ปน มาคธิเก โกสลฺลํ ฯ

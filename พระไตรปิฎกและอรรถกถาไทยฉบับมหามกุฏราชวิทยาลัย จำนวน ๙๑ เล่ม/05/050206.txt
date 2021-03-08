@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>            ที่ชื่อว่า   <B>อุจจาระ</B>   ได้แก่   สิ่งที่เขาเรียกกันว่าคูถ.
+<span class="LineNumber"> 002 </span>            ที่ชื่อว่า   <B>ปัสสาวะ</B>   ได้แก่   สิ่งที่เขาเรียกกันว่ามูตร. 
+<span class="LineNumber"> 003 </span>            ที่ชื่อว่า   <B>หยากเยื่อ</B>   ได้แก่   สิ่งที่เขาเรียกว่าขยะมูลฝอย.
+<span class="LineNumber"> 004 </span>            ที่ชื่อว่า   <B>ของเป็นเดน</B>  ได้แก่  อามิสเป็นเดน  หรือกระดูก  หรือน้ำ
+<span class="LineNumber"> 005 </span>ที่เป็นเดน.
+<span class="LineNumber"> 006 </span>            ที่ชื่อว่า   <B>ฝา</B>   ได้แก่ฝา ๓ ชนิด   คือ   ฝาอิฐ   ฝาศิลา   ฝาไม้.
+<span class="LineNumber"> 007 </span>            ที่ชื่อว่า   <B>กำแพง</B>   ได้แก่   กำแพง  ๓ ชนิด  คือ  กำแพงอิฐ   กำแพง
+<span class="LineNumber"> 008 </span>ศิลา   กำแพงไม้.
+<span class="LineNumber"> 009 </span>            บทว่า  <B>ภายนอกฝา</B>  คือ  ข้างนอกฝาที่อยู่.
+<span class="LineNumber"> 010 </span>            บทว่า   <B>ภายนอกกำแพง</B>   คือ   ข้างนอกกำแพง.
+<span class="LineNumber"> 011 </span>            บทว่า   <B>เท</B>   ความว่า   เทเอง   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 012 </span>            บทว่า  <B>ให้เท</B>  ความว่า  ใช้คนอื่น   ต้องอาบัติทุกกฏ ใช้เขาครั้งเดียว
+<span class="LineNumber"> 013 </span>เขาเทแม้หลายครั้ง   ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 014 </span>                                            <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 015 </span>            [๑๗๗]   มองดูก่อนแล้วจึงเท  ๑   เทในที่ที่เขาไม่ใช้ ๑    วิกลจริต ๑
+<span class="LineNumber"> 016 </span>อาทิกัมมิกา ๑  ไม่ต้องอาบัติแล.

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  กถาวตฺถุปฺปกรณวณฺณนา หน้า  170
+
+<span class="LineNumber"> 002 </span>	ปริวารํ อตฺถุทฺธารํ	อภิธมฺมํ ฉปฺปกรณํ 
+<span class="LineNumber"> 003 </span>	ปฏิสมฺภิทฺจ นิทฺเทสํ	เอกเทสฺจ ชาตกํ ฯ 
+<span class="LineNumber"> 004 </span>	เอตฺตกํ วิภชิตฺวาน (๑)	อฺานิ อกรึสุ เต 
+<span class="LineNumber"> 005 </span>	นามํ ลิงฺคํ ปริกฺขารํ	อากปฺปกรณิยานิ จ ฯ (๒) 
+<span class="LineNumber"> 006 </span>	ปกติภาวํ วิชหิตฺวา (๓)	ตฺจ อฺํ อกํสุ เต 
+<span class="LineNumber"> 007 </span>	ปุพฺพงฺคมา ภินฺนวาทา	มหาสงฺคีติการกา ฯ 
+<span class="LineNumber"> 008 </span>	เตสฺจ อนุกาเรน	ภินฺนวาทา พหู อหุ 
+<span class="LineNumber"> 009 </span>	ตโต อปรกาลมฺหิ	ตสฺมึ เภโท อชายถ ฯ 
+<span class="LineNumber"> 010 </span>	โคกุลิกา เอกโพฺยหารี	ทฺวิธา ภิชฺชิตฺถ ภิกฺขโว 
+<span class="LineNumber"> 011 </span>	โคกุลิกานํ เทฺว เภทา	อปรกาลมฺหิ ชายถ ฯ 
+<span class="LineNumber"> 012 </span>	พหุสฺสุติกา จ ปฺตฺติ	ทฺวิธา ภิชฺชิตฺถ ภิกฺขโว 
+<span class="LineNumber"> 013 </span>	เจติยา จ ปุนวาที	มหาสงฺคีติเภทกา ฯ 
+<span class="LineNumber"> 014 </span>	ปฺจวาทา อิเม สพฺเพ	มหาสงฺคีติมูลกา 
+<span class="LineNumber"> 015 </span>	อตฺถํ ธมฺมฺจ ภินฺทึสุ	เอกเทสฺจ สงฺคหํ ฯ 
+<span class="LineNumber"> 016 </span>	คนฺถฺจ เอกเทสฺหิ	ฉฑฺเฑตฺวา อฺํ อกํสุ เต 
+<span class="LineNumber"> 017 </span>	นามํ ลิงฺคํ ปริกฺขารํ	อากปฺปกรณิยานิ จ ฯ 
+<span class="LineNumber"> 018 </span>	ปกติภาวํ วิชหิตฺวา	ตฺจ อฺํ อกํสุ เต 
+<span class="LineNumber"> 019 </span>	วิสุทฺธตฺเถรวาทมฺหิ	ปุน เภโท อชายถ ฯ 
+<span class="LineNumber"> 020 </span># ๑. สี. วิสฺสชฺเชตฺวานฯ ม. วิสฺสชฺชิตฺวาน ฯ
+<span class="LineNumber"> 021 </span># ๒. ม. อากปฺปกรณานิ จ ฯ  เอวมุปริปิ ฯ  ๓. ม. ชหิตฺวา ฯ

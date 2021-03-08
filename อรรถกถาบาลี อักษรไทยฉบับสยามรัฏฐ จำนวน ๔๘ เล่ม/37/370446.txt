@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  446
+
+<span class="LineNumber"> 002 </span>		รุกฺขปตฺเตสุ ภุฺชนฺตา	กถํ กาหนฺติ ทารกา  
+<span class="LineNumber"> 003 </span>		กาสิยานิ ปธาเรตฺวา (๑)	โขมโกทุมฺพรานิ จ  
+<span class="LineNumber"> 004 </span>		กุสจีรานิ ธาเรนฺตา	กถํ กาหนฺติ ทารกา  
+<span class="LineNumber"> 005 </span>		วยฺหาหิ ปริยายิตฺวา	สิวิกาย รเถน จ  
+<span class="LineNumber"> 006 </span>		ปตฺติกา ปริธาวนฺตา	กถํ กาหนฺติ ทารกา  
+<span class="LineNumber"> 007 </span>		กูฏาคาเร สยิตฺวาน	นิวาเต ผุสฺสิตคฺคเฬ(๒)  
+<span class="LineNumber"> 008 </span>		สยนฺตา รุกฺขมูลสฺมึ	กถํ กาหนฺติ ทารกา  
+<span class="LineNumber"> 009 </span>		ปลฺลงฺเกสุ สยิตฺวาน	โคนเก จิตฺรสนฺถิเต  
+<span class="LineNumber"> 010 </span>		สยนฺตา ติณสนฺถเร(๓)	กถํ กาหนฺติ ทารกา  
+<span class="LineNumber"> 011 </span>		คนฺธิเกน(๔) วิลิมฺเปตฺวา	อคฺคลุจนฺทเนน จ  
+<span class="LineNumber"> 012 </span>		รโชชลานิ(๕) ธาเรนฺตา	กถํ กาหนฺติ ทารกา  
+<span class="LineNumber"> 013 </span>		จามรโมรหตฺเถหิ		วิชิตงฺคา(๖) สุเข €ิตา  
+<span class="LineNumber"> 014 </span>		ผุฏฺ€า ฑํเสหิ มกเสหิ	กถํ กาหนฺติ ทารกาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  สตปเล  กํเสติ  ปลสเตน  กตาย  กาฺจนปาติยา ฯ  
+<span class="LineNumber"> 016 </span>โคนเก  จิตฺรสนฺถเตติ  มหาปี€ิยํ  กาฬโกชเวหิ  เจว  จิตฺรสนฺถเรหิ 
+<span class="LineNumber"> 017 </span>จ  สนฺถเต(๗) ฯ จามรโมรหตฺเถหีติ จามเรหิเจว โมรหตฺเถหิ จ
+<span class="LineNumber"> 018 </span>วิชิตงฺคา ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. กาสิยานิ จ ธาเรตฺวา ฯ  ๒. ม. ผุสิตคฺคเฬ ฯ  ๓. ม. ติณสนฺถาเร ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. คนฺธเกน ฯ  ๕. ม. รโชชลฺลานิ ฯ  ๖. มง พิชิตงฺคา ฯ 
+<span class="LineNumber"> 021 </span># ๗. ม. มหาปิฏฺ€ิยํ กาฬโชเว เจว วิจิตฺตเก สนฺถเร จ ฯ 

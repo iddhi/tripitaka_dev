@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>กำลังเกิด      ธัมมายตนะเคยเกิด     และจักขายตนะก็กำลังเกิดแก่บุคคล
+<span class="LineNumber"> 002 </span>เหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 003 </span>                          <I>จบ  จักขายตนมูละ  ธัมมายตนมูลี</I> 
+<span class="LineNumber"> 004 </span>                                      <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 005 </span>                                         <H1>ฆานายตนมูล</H1>
+<span class="LineNumber"> 006 </span><H2>ฆานายตนมูละ  รูปายตนมูลี :-</H2>
+<span class="LineNumber"> 007 </span>         [๔๒๒]  ฆานายตนะกำลังเกิดแก่บุคคลใดในภูมิใด,  รูปายตนะ
+<span class="LineNumber"> 008 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>         ก็หรือว่า   รูปายตนะเคยเกิดแก่บุคคลใดในภูมิใด,   ฆานายตนะ
+<span class="LineNumber"> 011 </span>ก็กำลังเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         เมื่อบุคคลเหล่านั้นกำลังตายในกามาวจรภูมิก็ดี     บุคคลที่ฆานะ
+<span class="LineNumber"> 013 </span>ก็กำลังเกิดไม่ได้กำลังเกิดในกามาวจรภูมิก็ดี     บุคคลที่เกิดอยู่ในรูปาวจรภูมิก็ดี
+<span class="LineNumber"> 014 </span>รูปายตนะเคยเกิดแก่บุคคลเหล่านั้นในภูมินั้น  แต่ฆานายตนะไม่ใช่กำลัง
+<span class="LineNumber"> 015 </span>เกิดแก่บุคคลเหล่านั้นในภูมินั้น,   บุคคลที่มีฆานะเกิดได้กำลังเกิด  รูปา-
+<span class="LineNumber"> 016 </span>ยตนะเคยเกิด    และฆานายตนะก็กำลังเกิดแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 017 </span>                          <I>จบ  ฆานายตนมูละ   รูปายตนมูลี</I>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  มหาปฏฺ€านปฺปกรณวณฺณนา หน้า  798
+
+<span class="LineNumber"> 002 </span>		กุสลาทิธมฺมเภทํ		นิสฺสาย นเยหิ วิวิธคณเนหิ 
+<span class="LineNumber"> 003 </span>		วิตฺถาเรนฺโต สตฺตม-	มภิธมฺมปฺปกรณํ สตฺถา ฯ 
+<span class="LineNumber"> 004 </span>		สุวิหิตสนฺนิฏฺ€าโน	ปฏฺ€านํ นาม ยํ ปกาเสสิ 
+<span class="LineNumber"> 005 </span>		สทฺธาเยสา (๑) สมารทฺธา  ยา อฏฺ€กถา มยา ตสฺส ฯ 
+<span class="LineNumber"> 006 </span>		อาจริยานํ วาทมฺปิ (๒)	อวิหาย วิภชฺชวาทิสีหานํ (๓) 
+<span class="LineNumber"> 007 </span>		อติพหุวิธนฺตราเย		โลกมฺหิ อนนฺตราเยน ฯ 
+<span class="LineNumber"> 008 </span>		สา เอสา อชฺช ยถา (๔)	จุทฺทสมตฺเตหิ ภาณวาเรหิ 
+<span class="LineNumber"> 009 </span>		อตฺถํ ปกาสยนฺตี		ปฏฺ€านวรสฺส สกลสฺส ฯ 
+<span class="LineNumber"> 010 </span>		สนฺนิฏฺ€านํ ปตฺตา		ยเถว นิฏฺ€ํ ตถา พหุชนสฺส 
+<span class="LineNumber"> 011 </span>		สมฺปาปุณนฺตุ สีฆํ		กลฺยาณา สพฺพสงฺกปฺปา ฯ 
+<span class="LineNumber"> 012 </span>	เอตฺตาวตา
+<span class="LineNumber"> 013 </span>		สตฺตปฺปกรณํ นาโถ	อภิธมฺมมเทสยิ 
+<span class="LineNumber"> 014 </span>		เทวาติเทโว เทวานํ	เทวโลกมฺหิ ยํ ปุเร ฯ 
+<span class="LineNumber"> 015 </span>		ตสฺส อฏฺ€กถา เอสา	สกลสฺสาปิ นิฏฺ€ิตา 
+<span class="LineNumber"> 016 </span>		จิรฏฺ€ิตตฺถํ ธมฺมสฺส	นิฏฺ€เปนฺเตน ตํ มยา ฯ 
+<span class="LineNumber"> 017 </span>		ยํ ปตฺตํ กุสลํ ตสฺส	อานุภาเวน ปาณิโน 
+<span class="LineNumber"> 018 </span>		สพฺเพ สทฺธมฺมราชสฺส	ตฺวา ธมฺมํ สุขาวหํ ฯ 
+<span class="LineNumber"> 019 </span># ๑. ม. สทฺธาย ฯ  ๒. ม. วาทํ ฯ  ๓. ม. วิภชฺชวาทิสิสฺสานํ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. สา เอวํ อชฺช กตา ฯ

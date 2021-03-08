@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                     <h1>๖.  วาสุทัตตสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๖๒]   วาสุทัตตเทวบุตร    ยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้ว    ได้ 
+<span class="LineNumber"> 003 </span>กล่าวคาถานี้  ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 004 </span>                             <B>ภิกษุพึงมีสติเพื่อละกามราคะ   งด
+<span class="LineNumber"> 005 </span>                   เว้นเสีย    ประดุจบุคคลถูกแทงด้วยหอก
+<span class="LineNumber"> 006 </span>                   ประดุจบุคคลถูกไฟไหม้ศีรษะอยู่.</B>
+<span class="LineNumber"> 007 </span>         [๒๖๓]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 008 </span>                             <B>ภิกษุพึงมีสติเพื่อการละสักกายทิฏฐิ
+<span class="LineNumber"> 009 </span>                   งดเว้นเสีย  ประดุจบุคคลถูกแทงด้วยหอก
+<span class="LineNumber"> 010 </span>                   ประดุจบุคคลถูกไฟไหม้ศีรษะอยู่.</B>
+<span class="LineNumber"> 011 </span>                                         <H2>อรรถกถา</H2>
+<span class="LineNumber"> 012 </span>         วาสุทัตตสูตรที่   ๖ มีเนื้อความกล่าวมาแล้วทั้งนั้น.

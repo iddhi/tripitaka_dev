@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  622
+
+<span class="LineNumber"> 002 </span>วตฺวา  ปกฺกามิ ฯ 
+<span class="LineNumber"> 003 </span>	โส เตน ปุฺกมฺเมน เทวมนุสฺเสสุ สํสรนฺโต อิมสฺมึ 
+<span class="LineNumber"> 004 </span>พุทฺธุปฺปาเท เวสาลิยํ พฺราหฺมณกุเล นิพฺพตฺติตฺวา กณฺหมิตฺโตติ (๑)
+<span class="LineNumber"> 005 </span>ลทฺธนาโม วยปฺปตฺโต สตฺถุ เวสาลิคมเน  พุทฺธานุภาวํ  ทิสฺวา
+<span class="LineNumber"> 006 </span>ปฏิลทฺธสทฺโธ  มหากจฺจานตฺเถรสฺส  (๒)  สนฺติเก ปพฺพชิ ฯ  โส
+<span class="LineNumber"> 007 </span>มนฺทปฺโ  ทนฺธปรกฺกโม  จ  หุตฺวา  จิรํ  กาลํ  วิฺ
+<span class="LineNumber"> 008 </span>สพฺรหฺมจารึ นิสฺสาเยว  วสติ ฯ  
+<span class="LineNumber"> 009 </span>	ภิกฺขู  ยถา  นาม  วลฺลิ  รุกฺขาทีสุ กิฺจิ อนิสฺสาย
+<span class="LineNumber"> 010 </span>วฑฺฒิตุํ น  สกฺโกติ เอวมยมฺปิ กฺจิ ปณฺฑิตํ อนิสฺสาย
+<span class="LineNumber"> 011 </span>วฑฺฒิตุํ น สกฺโกตีติ วลฺลิโยเตฺวว สมุทาจรึสุ ฯ  อปรภาเค
+<span class="LineNumber"> 012 </span>ปน  เวณุทตฺตตฺเถรํ  อุปสงฺกมิตฺวา  ตสฺส  โอวาเท  €ตฺวา  สโต
+<span class="LineNumber"> 013 </span>สมฺปชาโน  หุตฺวา  วิหรนฺโต  าณสฺส  ปริปากํ  กตตฺตา
+<span class="LineNumber"> 014 </span>ปฏิปตฺติกฺกมํ (๓) เถรํ ปุจฺฉนฺโต  
+<span class="LineNumber"> 015 </span>		ยํ กิจฺจํ ทฬฺหวีริเยน	ยํ กิจฺจํ โพทฺธุมิจฺฉตา (๔)  
+<span class="LineNumber"> 016 </span>		กริสฺสํ นาวรชฺฌิสฺสํ (๕)	ปสฺส วีริยํ ปรกฺกมํ ฯ  
+<span class="LineNumber"> 017 </span>		ตวฺจ เม มคฺคมกฺขาหิ	อฺชสํ อมโตคธํ  
+<span class="LineNumber"> 018 </span>		อหํ โมเนน โมนิสฺสํ	คงฺคาโสโตว สาครนฺติ(๖)  
+<span class="LineNumber"> 019 </span>คาถาทฺวยํ อภาสิ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. คณฺฑิมิตฺโตติ ฯ  ๒. สี. มหากจฺจายนตฺเถรสฺส ฯ 
+<span class="LineNumber"> 021 </span># ๓. ยุ. ปฏิปตฺติปรกฺกมํ ฯ  ๔. สฺยา. โพธุมิจฺฉตา ฯ 
+<span class="LineNumber"> 022 </span># ๕. สี. ยุ. นาวรุชฺฌิสฺสํ ฯ  ๖. ขุ. เถร. ๒๖/๒๘๑/๒๙๔ ฯ 

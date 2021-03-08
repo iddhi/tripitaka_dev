@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ มหาสีหนาทสุตฺตวณฺณนา หน้า ๖๙
+		
+<span class="LineNumber"> 002 </span>มุเขเนว  ภุฺชตีติเอวมาทินา  ปาฏิกสุตฺเต  (๑)อาคตนเยน  
+<span class="LineNumber"> 003 </span>เวทิตพฺโพฯ
+<span class="LineNumber"> 004 </span>	อถ  ภควา(๒)  อยํ  ทุกฺกรการิกาย  ปสนฺโน  มยา  จ  เอตสฺมึ  
+<span class="LineNumber"> 005 </span>อตฺตภาเว  €ตฺวา  จตุรงฺคสมนฺนาคตํ  ทุกฺกรํ  กตํ  ทุกฺกรกาเร  
+<span class="LineNumber"> 006 </span>ปสีทนฺเตนาปิ  อเนน  มยิ  ปสีทิตพฺพํ  สิยา  โสปิสฺส  ปสาโท  
+<span class="LineNumber"> 007 </span>มยิ  นตฺถีติ  ทสฺเสนฺโต    อิทํ  เทสนํ  อารภิฯ  
+<span class="LineNumber"> 008 </span>	ตตฺร  พฺรหฺมจริยนฺติ  ทานํปิ  เวยฺยาวจฺจํปิ  สิกฺขาปทํปิ  
+<span class="LineNumber"> 009 </span>พฺรหฺมวิหาราปิ  ธมฺมเทสนาปิ  เมถุนวิรติปิ  สทารสนฺโตโสปิ  
+<span class="LineNumber"> 010 </span>อุโปสโถปิ  อริยมคฺโคปิ  สกลสาสนํปิ  อชฺฌาสโยปิ  
+<span class="LineNumber"> 011 </span>วิริยํปิ  วุจฺจติฯ  
+<span class="LineNumber"> 012 </span>		กินฺเต  ตํ(๓)  กึ  ปน  พฺรหฺมจริยํ  
+<span class="LineNumber"> 013 </span>		กิสฺส  สุจิณฺณสฺส  อยํ  วิปาโก  
+<span class="LineNumber"> 014 </span>		อิทฺธี  ชุตี  พลวิริยูปปตฺติ  
+<span class="LineNumber"> 015 </span>		อกฺขาหิ  เม(๔)นาค  มหาวิมานํฯ  
+<span class="LineNumber"> 016 </span>		อหฺจ  ภริยา  จ  มนุสฺสโลเก  
+<span class="LineNumber"> 017 </span>		สทฺธา  อุโภ  ทานปตี  อหุมฺหา
+<span class="LineNumber"> 018 </span>		โอปานภูตํ  เม  ฆรํ  ตทาสิ  
+<span class="LineNumber"> 019 </span>		สนฺตปฺปิตา  สมณพฺราหฺมณา  จฯ  
+<span class="LineNumber"> 020 </span>		ตํ  เม  วตํ  ตํ  ปน  พฺรหฺมจริยํ  
+<span class="LineNumber"> 021 </span>		ตสฺส  สุจิณฺณสฺส  อยํ  วิปาโก  
+<span class="LineNumber"> 022 </span># ๑. ที. ปา. ๑๑/๔/๖ ฯ   ๒. ม. ภควา อยํ ฯ 
+<span class="LineNumber"> 023 </span># ๓. ม. กึ เต วตํ ฯ    ๔. ม. อิทฺเจ เต ฯ

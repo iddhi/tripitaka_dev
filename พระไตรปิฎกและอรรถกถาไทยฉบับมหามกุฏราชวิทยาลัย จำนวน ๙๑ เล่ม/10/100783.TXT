@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           พ.  ดูก่อนอุบาลี   การรับประเคนที่ใช้ไม่ได้นี้   มี  ๕ อย่าง  ๕  อย่าง  
+<span class="LineNumber"> 002 </span>อะไรบ้าง  คือ:-
+<span class="LineNumber"> 003 </span>           ๑.   ของเขาให้ด้วยกาย   ไม่รับประเคนด้วยกาย
+<span class="LineNumber"> 004 </span>           ๒.   ของเขาให้ด้วยกาย   ไม่รับประเคนด้วยของเนื่องด้วยกาย
+<span class="LineNumber"> 005 </span>           ๓.   ของเขาให้ด้วยของเนื่องด้วยกาย   ไม่รับประเคนด้วยกาย
+<span class="LineNumber"> 006 </span>           ๔.   ของเขาให้ด้วยของเนื่องด้วยกาย     ไม่รับประเคนด้วยของเนื่อง
+<span class="LineNumber"> 007 </span>ด้วยกาย                                                                                  
+<span class="LineNumber"> 008 </span>           ๕.   ของเขาให้ด้วยโยนให้     ไม่รู้ประเคนด้วยกาย     หรือด้วยของ
+<span class="LineNumber"> 009 </span>เนื่องด้วยกาย                           
+<span class="LineNumber"> 010 </span>           ดูก่อนอุบาลี  การรับประเคนที่ใช้ไม่ได้  มี ๕ อย่าง  นี้แล
+
+<span class="LineNumber"> 011 </span>                                <H1>การรับประเคนที่ใช้ได้ </H1>
+<span class="LineNumber"> 012 </span>           ดูก่อนอุบาลี  การรับประเคนที่ใช้ได้นี้   มี  ๕ อย่าง  ๕ อย่างอะไรบ้าง
+<span class="LineNumber"> 013 </span>คือ :-
+<span class="LineNumber"> 014 </span>           ๑.   ของเขาให้ด้วยกาย   รับประเคนด้วยกาย
+<span class="LineNumber"> 015 </span>           ๒.   ของเขาให้ด้วยกาย   รับประเคนด้วยของเนื่องด้วยกาย
+<span class="LineNumber"> 016 </span>           ๓.   ของเขาให้ด้วยของเนื่องด้วยกาย   รับประเคนด้วยกาย   
+<span class="LineNumber"> 017 </span>           ๔.   ของเขาให้ด้วยของเนื่องด้วยกาย  รับประเคนด้วยของเนื่องด้วยกาย
+<span class="LineNumber"> 018 </span>           ๕.   ของเขาให้ด้วยโยนให้   รับประเคนด้วยกาย    หรือด้วยของเนื่อง
+<span class="LineNumber"> 019 </span>ด้วยกาย
+<span class="LineNumber"> 020 </span>           ดูก่อนอุบาลี  การรับประเคนที่ใช้ได้ ๕  อย่าง  นี้แล.           

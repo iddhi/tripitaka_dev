@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	๔.  สัมมากัมมันตะ  	การทำงานชอบ 	(ศีล)  
+<span class="LineNumber"> 002 </span>	๕.  สัมมาอาชีวะ	เลี้ยงชีพชอบ	(ศีล)
+<span class="LineNumber"> 003 </span>	๖.  สัมมาวายามะ	พยายามชอบ	(สมาธิ)
+<span class="LineNumber"> 004 </span>	๗.  สัมมาสติ	ระลึกชอบ		(สมาธิ)
+<span class="LineNumber"> 005 </span>	๘.  สัมมาสมาธิ	ความตั้งใจชอบ	(สมาธิ)
+<span class="LineNumber"> 006 </span>	อาศัยมรรคมีองค์ ๘  นี้  พิจารณาไป  ปฏิบัติไป  เรียกว่าเดินทาง
+<span class="LineNumber"> 007 </span>สายกลาง  เป็นเหตุให้รู้อริยสัจ  ๔  คือ
+<span class="LineNumber"> 008 </span>	๑.  รู้ว่านี่ทุกข์มีจริงเป็นผลเกิดจากสมุทัย		เหตุผลทางคดีโลก
+<span class="LineNumber"> 009 </span>	๒.  รู้ว่าสมุทัยมีจริงเป็นตัวเหตุก่อให้เกิดทุกข์	
+<span class="LineNumber"> 010 </span>	๓.  รู้ว่านิโรธมีจริงเป็นผลของความดับทุกข์		เหตุผลทางคดีธรรม
+<span class="LineNumber"> 011 </span>	๔.  รู้ว่าทางมีจริงเป็นเหตุให้ถึงความดับทุกข์
+
+<span class="LineNumber"> 012 </span>	<B>ทุกข์มี  ๑๑  ประการ</B>
+<span class="LineNumber"> 013 </span>		๑.  ชาติทุกข์  ความเกิดเป็นทุกข์
+<span class="LineNumber"> 014 </span>		๒.  ชราทุกข์  ความแก่เป็นทุกข์
+<span class="LineNumber"> 015 </span>		๓.  มรณทุกข์  ความตายเป็นทุกข์
+<span class="LineNumber"> 016 </span>		๔.  โสกทุกข์   ทุกข์คือเศร้าโศก
+<span class="LineNumber"> 017 </span>		๕.  ปริเทวทุกข์  ทุกข์คือปริเทวนาการ
+<span class="LineNumber"> 018 </span>		๖.  ทุกข์  คือความไม่สบายทางกาย
+<span class="LineNumber"> 019 </span>		๗.  ทุกขโทมนัส  ความไม่สบายทางใจ
+<span class="LineNumber"> 020 </span>		๘.  อุปายาส  ความคับแค้นใจ
+

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                    		<H1>การนับจำนวนวาระในปัจจนียะ</H1> 
+<span class="LineNumber"> 002 </span>		[๓๔๓]  ในนเหตุปัจจัย มี ๙ วาระ    ในนอารัมมณปัจจัย มี ๙ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ                           
+<span class="LineNumber"> 004 </span>                       			<H1>อนุโลมปัจจนียนัย</H1>  
+<span class="LineNumber"> 005 </span>               		   <H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1>
+<span class="LineNumber"> 006 </span>		[๓๔๔]  <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย มี ๓ วาระ... ฯลฯ
+<span class="LineNumber"> 007 </span>                       			<H1>ปัจจนียานุโลมนัย</H1>  
+<span class="LineNumber"> 008 </span>                  	   <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 009 </span>		[๓๔๕]  <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย  มี ๙ วาระ...ฯลฯ
+<span class="LineNumber"> 010 </span>           	อนุโลมนัยก็ดี  ปัจจนียนัยก็ดี  อนุโลมปัจจนียนัยก็ดี  ปัจจนียานุโลม-
+<span class="LineNumber"> 011 </span>นัยก็ดี   แห่งปัญหาวาระ   ในกุสลติกะ   ท่านนับไว้อย่างไร   พึงนับอย่างนั้น.
+
+<span class="LineNumber"> 012 </span>                    		<H1>อุเบกขาสหคตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 013 </span>                           		    <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 014 </span>                                           <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 015 </span>		[๓๔๖]    ๑.  อุเบกขาสหคตธรรมที่เป็นเหตุ      อาศัยอุเบกขา-
+<span class="LineNumber"> 016 </span>สหคตธรรมที่เป็นเหตุ  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 017 </span>                  	      ๔.  อุเบกขาสหคตธรรมที่ไม่ใช่เหตุ    อาศัยอุเบกขา-
+<span class="LineNumber"> 018 </span>สหคตธรรมที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๓  วาระ.

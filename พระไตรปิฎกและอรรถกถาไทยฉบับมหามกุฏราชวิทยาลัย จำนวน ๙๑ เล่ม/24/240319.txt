@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                             <H2>รวมสูตรที่กล่าวในฆัตวาวรรค  คือ</H2> 
+<span class="LineNumber"> 002 </span>          ๑. ฆัตวาสูตร  ๒. รถสูตร  ๓. วิตตสูตร  ๔. วุฏฐิสูตร ๕. ภีตสูตร
+<span class="LineNumber"> 003 </span>๖.  นชีรติสูตร  ๗.  อิสสรสูตร  ๘. กามสูตร  ๙. ปาเถยยสูตร  ๑๐.  ปัชโชตสูตร
+<span class="LineNumber"> 004 </span>๑๑.  อรณสูตร  พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 005 </span>                                          <I>จบ  เทวตาสังยุต</I>

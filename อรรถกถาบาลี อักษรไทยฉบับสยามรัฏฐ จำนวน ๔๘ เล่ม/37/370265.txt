@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 265
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  ปวิสิตฺวาติ [๑] ปุณฺณกํ  ตตฺเถว  €เปตฺวา  สยํ 
+<span class="LineNumber"> 003 </span>อุฏฺ€าย  ยตฺถสฺส  ภริยา  นิปนฺนา  ตํ  นิเวสนํ  ปวิสิตฺวา ฯ
+<span class="LineNumber"> 004 </span>ปิยํ  มมนฺติ  มม  ปิยํ ธีตรํ ตสฺส พหุวิตฺตลาเภน(๒) เทมาติ 
+<span class="LineNumber"> 005 </span>ปุจฺฉติ ฯ  
+<span class="LineNumber"> 006 </span>	วิมลา อาห  
+<span class="LineNumber"> 007 </span>	[๙๐๖]น ธเนน น วิตฺเตน	ลพฺภา อมฺหํ อิรนฺทตี  
+<span class="LineNumber"> 008 </span>			สเจ หิ(๓) โข หทยํ ปณฺฑิตสฺส  
+<span class="LineNumber"> 009 </span>			ธมฺเมน ลทฺธา อิธ มาหเรยฺย  
+<span class="LineNumber"> 010 </span>			เอเตน วิตฺเตน กุมาริ ลพฺภา  
+<span class="LineNumber"> 011 </span>			นาฺํ ธนํ อุตฺตรึ ปตฺถยามาติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อมฺหํ  อิรนฺธตีติ  อมฺหากํ  ธีตา  อิรนฺทตี ฯ  เอเตน  
+<span class="LineNumber"> 013 </span>จิตฺเตนาติ เอเตน ตุฏฺ€ากาเรเนว(๔)  
+<span class="LineNumber"> 014 </span>	[๙๐๗][๕]ตโต โส วรุโณ นาโค	นิกฺขมิตฺวา นิเวสนา  
+<span class="LineNumber"> 015 </span>		ปุณฺณกามนฺตยิตฺวาน	อิทํ วจนมพฺรวิ  
+<span class="LineNumber"> 016 </span>		น ธเนน น วิตฺเตน	ลพฺภา อมฺหํ อิรนฺทตี  
+<span class="LineNumber"> 017 </span>			สเจ ตุวํ หทยํ ปณฺฑิตสฺส  
+<span class="LineNumber"> 018 </span>			ธมฺเมน ลทฺธา อิธมาหเรสิ  
+<span class="LineNumber"> 019 </span># ๑. ม. เอตฺถนฺตเร วรุโณติ ทิสฺสติ ฯ ๒. ม. พหุนา วิตฺตลาเภน ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. สเจ จ ฯ ๔. ม. ตุฏฺ€ิการเกน ฯ  ๕. ม.เอตฺถนฺตเร โส ตาย
+<span class="LineNumber"> 021 </span># มนฺเตตฺวา ปุนเทว ปุณฺณเกน สทฺธึ มนฺเตสิ ฯ  ตมตฺถํ ปกาเสนฺโต
+<span class="LineNumber"> 022 </span># สตฺถา อาหาติ ทิสฺสนฺติ ฯ 

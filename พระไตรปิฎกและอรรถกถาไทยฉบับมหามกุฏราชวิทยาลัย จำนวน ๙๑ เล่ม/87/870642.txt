@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>มี ๓ วาระ   ในกัมมปัจจัย  มี ๙ วาระ  ในวิปากปัจจัย  มี ๓ วาระ  ในอาหาร- 
+<span class="LineNumber"> 002 </span>ปัจจัย  มี ๓ วาระ  ในอินทริยปัจจัย  มี ๓ วาระ  ในฌานปัจจัย ๓ วาระ  ใน
+<span class="LineNumber"> 003 </span>มัคคปัจจัย   มี ๓ วาระ  ในสัมปยุตตปัจจัย   มี ๓ วาระ   ในอัตถิปัจจัย   มี ๓
+<span class="LineNumber"> 004 </span>วาระ   ในนัตถิปัจจัย   มี ๗ วาระ   ในวิคตปัจจัย   มี ๗ วาระ   ในอวิคตปัจจัย
+<span class="LineNumber"> 005 </span>มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>           พึงนับอย่างนี้. 
+<span class="LineNumber"> 007 </span>                                            <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                               <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 009 </span>                                     <H1>การยกปัจจัยในปัจจนียะ</H1>
+<span class="LineNumber"> 010 </span>           [๒๐๒๑] ๑.  <B>อตีตารัมมณธรรม   เป็นปัจจัย แก่อตีตารัมมณ-
+<span class="LineNumber"> 011 </span>ธรรม  ด้วยอำนาจของอารัมมณปัจจัย,   เป็นปัจจัย    ด้วยอำนาจของ
+<span class="LineNumber"> 012 </span>สหชาตปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของอุปนิสสยปัจจัย,   เป็นปัจจัย
+<span class="LineNumber"> 013 </span>ด้วยอำนาจของกัมมปัจจัย.</B>
+<span class="LineNumber"> 014 </span>           [๒๐๒๒] ๒.  <B>อตีตารัมมณธรรม เป็นปัจจัยแก่อนาคตารัมมณ-
+<span class="LineNumber"> 015 </span>ธรรม    ด้วยอำนาจของอารัมมณปัจจัย,   เป็นปัจจัย  ด้วยอำนาจของ
+<span class="LineNumber"> 016 </span>อุปนิสสยปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของกัมมปัจจัย.</B>
+<span class="LineNumber"> 017 </span>           [๒๐๒๓] ๓.  <B>อตีตารัมมณธรรม     เป็นปัจจัยแก่ปัจจุปปันนา-
+<span class="LineNumber"> 018 </span>รัมมณธรรม  ด้วยอำนาจของอารัมมณปัจจัย,  เป็นปัจจัย  ด้วยอำนาจ
+<span class="LineNumber"> 019 </span>ของอุปนิสสยปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของกัมมปัจจัย.</B> 

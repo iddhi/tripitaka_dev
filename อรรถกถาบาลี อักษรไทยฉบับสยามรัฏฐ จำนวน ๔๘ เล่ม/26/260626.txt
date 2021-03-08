@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ตึสนิปาตวณฺณนา  หน้า  626  
+
+<span class="LineNumber"> 002 </span>		สุวินีตา  จ  เต  สิสฺสา  		ปริสา  จ  สุสิกฺขิตา  
+<span class="LineNumber"> 003 </span>		อุตฺตเม  ทมเถ  ทนฺตา  		ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 004 </span>		ฌายี  ฌานรตา  ธีรา  			สนฺตจิตฺตา  สมาหิตา  
+<span class="LineNumber"> 005 </span>		มุนี  โมเนยฺยสมฺปนฺนา  		ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 006 </span>		อปฺปิจฺฉา  นิปกา  ธีรา  		อปฺปาหารา  อโลลุปา  
+<span class="LineNumber"> 007 </span>		ลาภาลาเภน  สนฺตุฏฺ€า  		ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 008 </span>		อารฺิกา  ธุตรตา  			ฌายิโน  ลูขจีวรา  
+<span class="LineNumber"> 009 </span>		วิเวกาภิรตา  ธีรา  			ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 010 </span>		ปฏิปนฺนา  ผลฏฺ€า  จ  		เสขา  ผลสมงฺคิโน  
+<span class="LineNumber"> 011 </span>		อาสีสกา  (๑)  อุตฺตมตฺถํ  		ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 012 </span>		โสตาปนฺนา  จ  วิมลา  		สกทาคามิโน  จ  เย  
+<span class="LineNumber"> 013 </span>		อนาคามี  จ  อรหา  			ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 014 </span>		สติปฏฺ€านกุสลา  			โพชฺฌงฺคภาวนารตา  
+<span class="LineNumber"> 015 </span>		สาวกา  โว  พหู  สพฺเพ  		ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 016 </span>		อิทฺธิปาเทสุ  กุสลา  			สมาธิภาวนารตา  
+<span class="LineNumber"> 017 </span>		สมฺมปฺปธานานุยุตฺตา  (๒)  	ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 018 </span>		เตวิชฺชา  ฉฬภิฺา  จ  		อิทฺธิยา  ปารมึ  คตา  
+<span class="LineNumber"> 019 </span>		ปฺาย  ปารมึ  ปตฺตา  		ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 020 </span>		เอทิสา  (๓)  โว  มหาวีร  		ตว  สิสฺสา  สุสิกฺขิตา  
+<span class="LineNumber"> 021 </span>		ทุราสทา  อุคฺคเตชา  			ปริวาเรนฺติ  ตํ  สทา ฯ  
+<span class="LineNumber"> 022 </span>#๑.  สฺยา.  อาสึสกา  ฯ  ๒.  สฺยา. สมฺมปฺธานมนุยุตฺตา  ฯ  
+<span class="LineNumber"> 023 </span>#๓.  สฺยา.  อีทิสา  ฯ  

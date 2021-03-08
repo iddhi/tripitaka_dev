@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  นิทานคาถาวณฺณนา  หน้า 9
+
+<span class="LineNumber"> 002 </span>อฺทตฺถุ  หนฺตฺวา ตตฺถ  มุทุมํสานิ  ภกฺขยิตฺวา  สุเขเนว
+<span class="LineNumber"> 003 </span>วิหรติ  เอวเมเตปิ มหาเถรา อริยพลวิเสสโยเคน  สพฺเพสมฺปิ 
+<span class="LineNumber"> 004 </span>ปริสฺสยานํ  สหนโต  ราคาทิสงฺกิเลสพลสฺส  อภิภวิตฺวา  หนนโต  
+<span class="LineNumber"> 005 </span>ปชหนโต  เตฺสฺสทภาเวน  กุโตจิปิ  อภีรู  อจฺฉมฺภี  ฌานาทิสุเขน  
+<span class="LineNumber"> 006 </span>วิหรนฺตีติ สหนโต หนนโต  จ  สีหา  วิยาติ  สีหา ฯ  
+<span class="LineNumber"> 007 </span>สทฺทตฺถโต  ปน  ยถา  กนฺตนตฺเถน  อาทิอนฺตวิปฺปลฺลาสโต
+<span class="LineNumber"> 008 </span>ตกฺกํ วุจฺจติ เอวํ หึสนฏฺเ€น สีโห เวทิตพฺโพ ฯ ตถา 
+<span class="LineNumber"> 009 </span>สหนตฺเถนาปิ (๑) วิโสทราทิปกฺเขเปน  (๒)  นิรุตฺตินเยน  ปน  วุจฺจมาเน
+<span class="LineNumber"> 010 </span>วตฺตพฺพเมว นตฺถิ ฯ 
+<span class="LineNumber"> 011 </span>	อถ  วา ยถา  มิคราชา  เกสรสีโห  อตฺตโน  
+<span class="LineNumber"> 012 </span>เตชุสฺสทตาย  เอกจารี วิหรติ น กฺจิ สหายํ ปจฺจาสึสติ  (๓)
+<span class="LineNumber"> 013 </span>เอวเมเตปิ  เตชุสฺสทตาย วิเวกาภิรติยา จ เอกจาริโนติ
+<span class="LineNumber"> 014 </span>เอกจริยฏฺเ€นปิ  สีหา วิยาติ สีหา เตนาห ภควา สีหํเวกจรํ 
+<span class="LineNumber"> 015 </span>นาคนฺติ ฯ 
+<span class="LineNumber"> 016 </span>	อถ  วา  อสนฺตาสนชวปรกฺกมาทิวิเสสโยคโต  สีหา  วิยาติ 
+<span class="LineNumber"> 017 </span>สีหา  เอเต  มหาเถรา ฯ วุตฺตํ เหตํ ภควตา  เทฺวเม
+<span class="LineNumber"> 018 </span>ภิกฺขเว อสนิยา ผลนฺติยา น สนฺตสนฺติ กตเม  เทฺว 
+<span class="LineNumber"> 019 </span>ภิกฺขุ จ ขีณาสโว สีโห จ มิคราชาติ ฯ  ชโวปิ  สีหสฺส  
+<span class="LineNumber"> 020 </span>อฺเหิ  อสาธารโณ  ตถา  ปรกฺกโม ฯ ตถา หิ โส 
+<span class="LineNumber"> 021 </span># ๑. ม. สหนฏฺเ€น ฯ  ๒. สี. โสทราทิปฏกฺเขเปน ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ปจฺจาสีสติ ฯ 

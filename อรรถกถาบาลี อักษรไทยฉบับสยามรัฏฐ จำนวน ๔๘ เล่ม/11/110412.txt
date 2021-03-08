@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑  หน้า  ๔๑๒
+
+<span class="LineNumber"> 002 </span>				อนิจฺจสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 003 </span>	อนิจฺจวคฺเค  ปริโยสานสุตฺตํ  ปุจฺฉาวสิกํ  เสสานิ  ตถา  
+<span class="LineNumber"> 004 </span>ตถา  พุชฺฌนกานฺจ วเสน เทสิตานีติ ฯ 
+<span class="LineNumber"> 005 </span>				ป€มาทีนิ ฯ           
+<span class="LineNumber"> 006 </span>				อนิจฺจวคฺโค ทุติโย ฯ          
+
+<span class="LineNumber"> 007 </span>				ภารสุตฺตวณฺณนา            
+<span class="LineNumber"> 008 </span>	ภารวคฺคสฺส  ป€เม  ปฺจุปาทานกฺขนฺธาติสฺส  วจนียนฺติ 
+<span class="LineNumber"> 009 </span>ปฺจุปาทานกฺขนฺธา อิติ อสฺส วจนียํ เอวํ วตฺตพฺพํ ภเวยฺยาติ 
+<span class="LineNumber"> 010 </span>อตฺโถ ฯ อยํ วุจฺจติ ภิกฺขเว ภาโรติ เย อิเม  ปฺจุปาทานกฺ-
+<span class="LineNumber"> 011 </span>ขนฺธา  อยํ  ภาโรติ  วุจฺจติ ฯ เกนฏฺเ€นาติ  ปริหารภาริยฏฺเ€น ฯ 
+<span class="LineNumber"> 012 </span>เอเตสฺหิ  €าปนคมนนิสีทาปนนิสชฺชาปนมณฺฑน-
+<span class="LineNumber"> 013 </span>ขาทาปนภุฺชาปนาทิปริหาโร  ภาริโยติ  ปริหารภาริยฏฺเ€น 
+<span class="LineNumber"> 014 </span>ภาโรติ  วุจฺจติ ฯ  
+<span class="LineNumber"> 015 </span>	เอวํนาโมติ  ติสฺโส  ทตฺโตติอาทินาโม ฯ เอวํโคตฺโตติ
+<span class="LineNumber"> 016 </span>กณฺหายโน  วจฺฉายโนติอาทิโคตฺโต ฯ  อิติ  โวหารมตฺตสิทฺธํ  ปุคฺคลํ 
+<span class="LineNumber"> 017 </span>ภารหาโรติ    กตฺวา    ทสฺเสติ ฯ   ปุคฺคโล   หิ  ปฏิสนฺธิกฺขเณเยว  
+<span class="LineNumber"> 018 </span>ขนฺธภารํ  อุกฺขิปิตฺวา ทสปิ วสฺสานิ วีสติปิ วสฺสสตมฺปีติ 
+<span class="LineNumber"> 019 </span>ยาวชีวํ  อิมํ  ขนฺธภารํ นฺหาเปนฺโต โภเชนฺโต มุทุสมฺผสฺส-
+<span class="LineNumber"> 020 </span>มฺจปีเ€สุ นิสีทาเปนฺโต นิปชฺชาเปนฺโต  ปริหริตฺวา  จุติกฺขเณ

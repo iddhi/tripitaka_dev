@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 7
+
+<span class="LineNumber"> 002 </span>	อปรํปิ  จินฺเตสิ  ยถา  นาม  คูถราสิมฺหิ  นิมุคฺเคน
+<span class="LineNumber"> 003 </span>ปุริเสน  ทูรโต  ปฺจวณฺณปทุมสฺฉนฺนํ  มหาตฬากํ  ทิสฺวา 
+<span class="LineNumber"> 004 </span>กตเรน  นุ  โข  มคฺเคน  เอตฺถ  คนฺตพฺพนฺติ  ตํ  ตฬากํ  คเวสิตุํ  
+<span class="LineNumber"> 005 </span>ยุตฺตํ ฯ  ยํ  ตสฺส  อคเวสนํ  น  โส  ตฬากสฺส  โทโส  [ ปุริสสฺเสว
+<span class="LineNumber"> 006 </span>โทโส]  เอวเมว  กิเลสมลโธวเน(๑)  อมตมหานิพฺพานตฬาเก
+<span class="LineNumber"> 007 </span>วิชฺชนฺเต  ยํ  ตสฺส  อคเวสนํ  น โส  อมตนิพฺพานมหาตฬากสฺส 
+<span class="LineNumber"> 008 </span>โทโส ปุริสสฺเสว โทโส ฯ  ยถา  จ  โจเรหิ  สมฺปริวาริโต 
+<span class="LineNumber"> 009 </span>ปุริโส ปลายนมคฺเค วิชฺชมาเนปิ สเจ น  ปลายติ  น 
+<span class="LineNumber"> 010 </span>โส  มคฺคสฺส โทโส ปุริสสฺเสว โทโส เอวเมว กิเลเสหิ  
+<span class="LineNumber"> 011 </span>ปริวาเรตฺวา  คหิตสฺส  ปุริสสฺส  วิชฺชมาเนเยว  นิพฺพานคามิมฺหิ 
+<span class="LineNumber"> 012 </span>สิเว  มคฺเค  มคฺคสฺส  อคเวสนํ  นาม  น มคฺคสฺส
+<span class="LineNumber"> 013 </span>โทโส ปุคฺคลสฺเสว โทโส ฯ  ยถา  จ  พฺยาธิปีฬิโต  ปุริโส
+<span class="LineNumber"> 014 </span>วิชฺชมาเน พฺยาธิติกิจฺฉเก เวชฺเช สเจ ตํ  เวชฺชํ  คเวสิตฺวา
+<span class="LineNumber"> 015 </span>พฺยาธึ  น  ติกิจฺฉาเปติ  น  โส  เวชฺชสฺส โทโส  ปุริสสฺเสว 
+<span class="LineNumber"> 016 </span>โทโส  เอวเมว  โย  กิเลสพฺยาธิปีฬิโต  ปุริโส  กิเลสวูปสมมคฺคโกวิทํ(๒) 
+<span class="LineNumber"> 017 </span>วิชฺชมานเมว  อาจริยํ  น  คเวสติ  ตสฺเสว  โทโส น กิเลส-
+<span class="LineNumber"> 018 </span>วินาสกสฺส อาจริยสฺสาติ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 019 </span>	ยถา คูถคโต ปุริโส		ตฬากํ ทิสฺวาน ปูริตํ  
+<span class="LineNumber"> 020 </span>	น คเวสติ ตํ ตฬากํ		น โทโส ตฬากสฺส โส ฯ  
+<span class="LineNumber"> 021 </span># [ ]	มรมฺมโปตฺถเก นตฺถิฯ  ๑. ม. ...โธวเน ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. กิเลสวุปสมมคฺคโกวิทํ ฯ

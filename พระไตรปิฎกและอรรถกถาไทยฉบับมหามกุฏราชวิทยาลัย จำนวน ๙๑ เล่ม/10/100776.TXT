@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๓.  รู้บัญญัติ   
+<span class="LineNumber"> 002 </span>           ๔.  รู้บทที่ตกในภายหลัง
+<span class="LineNumber"> 003 </span>           ๕.  รู้ทางถ้อยคำอันเข้าสนธิกันได้
+<span class="LineNumber"> 004 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  นี้แล   พึงพูดในสงฆ์
+
+<span class="LineNumber"> 005 </span>                            <H1>ภิกษุไม่ควรพูดในสงฆ์อีกนัยหนึ่ง</H1>
+<span class="LineNumber"> 006 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์  ๕  แม้อื่นอีก  ไม่ควรพูดในสงฆ์
+<span class="LineNumber"> 007 </span>องค์ ๕  อะไรบ้าง  คือ:-
+<span class="LineNumber"> 008 </span>           ๑.  ถึงฉันทาคติ                               
+<span class="LineNumber"> 009 </span>           ๒.  ถึงโทสาคติ
+<span class="LineNumber"> 010 </span>           ๓.  ถึงโมหาคติ   
+<span class="LineNumber"> 011 </span>           ๔.  ถึงภยาคติ 
+<span class="LineNumber"> 012 </span>           ๕.  เป็นอลัชชี
+<span class="LineNumber"> 013 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  นี้แล  ไม่พึงพูดในสงฆ์
+
+<span class="LineNumber"> 014 </span>                                         <H1>ภิกษุควรพูดในสงฆ์</H1>
+<span class="LineNumber"> 015 </span>           ดูก่อนอุบาลี    ภิกษุประกอบด้วยองค์  ๕ พึงพูดในสงฆ์     องค์  ๕
+<span class="LineNumber"> 016 </span>อะไรบ้าง   คือ:-
+<span class="LineNumber"> 017 </span>           ๑.  ไม่ถึงฉันทาคติ
+<span class="LineNumber"> 018 </span>           ๒.  ไม่ถึงโทสาคติ
+<span class="LineNumber"> 019 </span>           ๓.  ไม่ถึงโมหาคติ                                                              

@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๖๕๐]  ในเหตุปัจจัย  มี  ๖  วาระ ฯลฯ
+
+<span class="LineNumber"> 003 </span>                    <H2>นทัสสเนนปหาตัพพเหตุกบท</H2>
+<span class="LineNumber"> 004 </span>           [๖๕๑]  ๑.  <B>ธรรมที่ไม่ใช่ธรรม    ที่ไม่ใช่ทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 005 </span>เหตุกธรรม   ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 006 </span>ทัสสเนนปหาตัพพเหตุกธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม   เกิด
+<span class="LineNumber"> 007 </span>ขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 008 </span>                                             <B>ฯลฯ</B>
+
+<span class="LineNumber"> 009 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๖๕๒]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 011 </span>                    <I>สนิทัสสนติกทัสสเนนปหาตัพพเหตุกทุกะ</I>
+<span class="LineNumber"> 012 </span>               <I>นสนิทัสสนติกนัสสเนนปหาตัพพเหตุกทุกะ  จบ</I>	

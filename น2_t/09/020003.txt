@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                     หมวดที่   ๑  กุศลพิธี  <SUP>(๒)</SUP>  
+<span class="LineNumber"> 002 </span>	<B>กุศลพิธีคืออะไร</B>   ไม่จำเป็นต้องชี้แจงให้ซ้ำความอีก  แต่กุศลพิธีที่จะกล่าว
+<span class="LineNumber"> 003 </span>ในหมวดนี้  จัดสำหรับภูมินักศึกษาธรรมชั้นโทโดยเฉพาะ  ซึ่งส่วนใหญ่เป็นพิธีของสงฆ์
+<span class="LineNumber"> 004 </span>เป็นพิธีกรรมที่สงฆ์พึงปฏิบัติเพื่อความดีงามในพระวินัย  ทั้งส่วนตัวผู้ปฏิบัติและ
+<span class="LineNumber"> 005 </span>หมู่คณะ  บางอย่างเป็นจารีตนิยมปฏิบัติสืบ  ๆ กันมา   ถือเป็นความชอบในคณะสงฆ์
+<span class="LineNumber"> 006 </span>แล้วจึงกลายเป็นพิธีประเพณีของสงฆ์หรือพิธีประเพณีของหมู่คณะ  จะนำมาชี้แจ้ง
+<span class="LineNumber"> 007 </span>ในที่นี้  ๗  เรื่องคือ
+<span class="LineNumber"> 008 </span>	<B>ก.  พิธีเข้าพรรษา
+<span class="LineNumber"> 009 </span>	ข.  พิธีถือนิสสัย
+<span class="LineNumber"> 010 </span>	ค.  พิธีทำสามีจิกรรม
+<span class="LineNumber"> 011 </span>	ฆ.  พิธีกรรมวันธรรมสวนะ
+<span class="LineNumber"> 012 </span>	ง.  พิธีทำสังฆอุโบสถ
+<span class="LineNumber"> 013 </span>	ฉ.  พิธีออกพรรษา</B>
+
+<span class="LineNumber"> 014 </span>	แต่ละเรื่องล้วนมีความสำคัญแก่ชีวิตพระสงฆ์ทั้งนั้น  ซึ่งจะได้ชี้แจ้งราย
+<span class="LineNumber"> 015 </span>ละเอียดโดยลำดับไป

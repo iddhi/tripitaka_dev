@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>อนารัมมณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 002 </span>					      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>				           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๖๘๔]  ๑.  อนารัมมณธรรมที่เป็นอัพยากตะ  อาศัยอนา-
+<span class="LineNumber"> 005 </span>รัมมณธรรมที่เป็นอัพยากตะ  เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>			<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 007 </span>		[๖๘๕]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ  ในอวิคตปัจจัย มี  ๑ วาระ.
+<span class="LineNumber"> 008 </span>					<H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 009 </span>		[๖๘๖]  ในนเหตุปัจจัย  มี  ๑  วาระ
+<span class="LineNumber"> 010 </span>		สหชาตวาระก็ดี ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ
+	
+<span class="LineNumber"> 011 </span>			          <H1>อนารัมมณบทปัญหาวาระ</H1>	
+<span class="LineNumber"> 012 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>				     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๖๘๗]  ๑.  อนารัมมณธรรมที่เป็นอัพยากตะ    เป็นปัจจัยแก่
+<span class="LineNumber"> 015 </span>อนารัมมณธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของสหชาตปัจจัย, เป็น
+						

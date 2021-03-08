@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                      ๒.  <B>อวิตักกธรรม     อาศัยธรรมที่ไม่ใช่สวิตักกธรรม
+<span class="LineNumber"> 002 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>   
+<span class="LineNumber"> 003 </span>                      ๓.  <B>สวิตักกธรรม     และอวิตักกธรรม     อาศัยธรรม
+<span class="LineNumber"> 004 </span>ที่ไม่ใช่สวิตักกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 005 </span>                      ๔.  <B>อวิตักกธรรม     อาศัยธรรมที่ไม่ใช่อวิตักกธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                      ๕.  <B>สวิตักกธรรม  อาศัยธรรมที่ไม่ใช่อวิตักกธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                      ๖.  <B>สวิตักกธรรม     และอวิตักกธรรม     อาศัยธรรม
+<span class="LineNumber"> 010 </span>ที่ไม่ใช่อวิตักกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                      ๗.  <B>สวิตักกธรรม     อาศัยธรรมที่ไม่ใช่สวิตักกธรรม
+<span class="LineNumber"> 012 </span>และธรรมที่ไม่ใช่อวิตักกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>                      ๙.  <B>อวิตักกธรรม     อาศัยธรรมที่ไม่ใช่สวิตักกธรรม
+<span class="LineNumber"> 014 </span>และธรรมที่ไม่ใช่อวิตักกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>                    ๑๐. <B>สวิตักกธรรม     และอวิตักกธรรม     อาศัยธรรม
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่สวิตักกธรรม     และธรรมที่ไม่ใช่อวิตักกธรรม   เกิดขึ้น  
+<span class="LineNumber"> 017 </span>เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 018 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 019 </span>           [๑๓๘]  ในเหตุปัจจัย  มี ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 020 </span>                            <I>นสวิตักกทุกสวิตักกทุกะ  จบ</I>

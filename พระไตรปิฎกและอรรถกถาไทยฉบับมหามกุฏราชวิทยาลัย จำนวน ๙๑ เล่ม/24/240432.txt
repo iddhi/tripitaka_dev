@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                             <B>สัตว์ทั้งหลายเป็นผู้กำหนัดกล้าใน  
+<span class="LineNumber"> 002 </span>                   โภคทรัพย์ที่น่าใคร่    มักมากหมกมุ่นใน
+<span class="LineNumber"> 003 </span>                   กามคุณย่อมไม่รู้สึกตัวว่าละเมิด (ประพฤติ
+<span class="LineNumber"> 004 </span>                   ผิดในสัตว์พวกอื่น)   เหมือนพวกเนื้อไม่รู้
+<span class="LineNumber"> 005 </span>                   สึกตัวว่ามีแร้วโก่งดักไว้   ฉะนั้น   ผลเผ็ด
+<span class="LineNumber"> 006 </span>                   ร้อนย่อมมีแก่สัตว์พวกนั้นในภายหลัง
+<span class="LineNumber"> 007 </span>                   เพราะว่ากรรมนั้นมีวิบากเลวทราม.</B>
+
+<span class="LineNumber"> 008 </span>                                     <h1>อรรถกถาอัปปกสูตร</h1>
+
+<span class="LineNumber"> 009 </span>         พึงทราบวินิจฉัยในอัปปกสูตรที่  ๖  ต่อไป :-
+<span class="LineNumber"> 010 </span>         บทว่า <B>อุฬาเร  อุฬาเร</B>  ได้แก่อันประณีตและมาก. บทว่า  <B>มชฺชนฺติ</B>
+<span class="LineNumber"> 011 </span>ได้แก่เมาด้วยความเมาด้วยมานะ.   บทว่า   <B>อติสารํ</B>   ได้แก่ล่วงเข้าไป.   บทว่า
+<span class="LineNumber"> 012 </span><B>กูฏํ</B>  ได้แก่บ่วง.  บทว่า  <B>ปจฺฉาสํ</B>  แยกออกว่า  <B>ปจฺฉา   เตสํ</B>.
+<span class="LineNumber"> 013 </span>                                   <I>จบอรรถกถาอัปปกสูตรที่  ๖</I>

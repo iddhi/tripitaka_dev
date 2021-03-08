@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๕   หน้า  ๕๘๑
+
+<span class="LineNumber"> 002 </span>				นิคมนกถา    
+<span class="LineNumber"> 003 </span>เอตฺตาวตา จ    
+<span class="LineNumber"> 004 </span>		อายาจิโต สุมตินา เถเรน ภทนฺตโชติปาเลน   
+<span class="LineNumber"> 005 </span>		กฺจิปุราทีสุ มยา ปุพฺเพ สทฺธึ วสนฺเตน ฯ  
+<span class="LineNumber"> 006 </span>		วรตมฺพปณฺณิทีเป มหาวิหารมฺปิ วสนกาเลปิ  
+<span class="LineNumber"> 007 </span>		(๑)วาตหเต วิย  ทุเม วลฺชมานมฺหิ (๑)สทฺธมฺเม ฯ  
+<span class="LineNumber"> 008 </span>		ปารํ ปิฏกตฺตยสาครสฺส คนฺตฺวา €ิเตน สุมตินา  
+<span class="LineNumber"> 009 </span>		ปริสุทฺธาชีเวนาภิยาจิโตปิ ชีวเกนาปิ ฯ   
+<span class="LineNumber"> 010 </span>		ธมฺมกถานยนิปุเณหิ ธมฺมกถิเกหิ อปริมาเณหิ  
+<span class="LineNumber"> 011 </span>		(๓) (ปริกิฬิตปริปชฺชิตสฺส สมายจิตฺรสฺส ฯ  
+<span class="LineNumber"> 012 </span>		อฏฺ€กถํ องฺคุตฺตรมหานิกายสฺส กาตุมารทฺโธ (๓)
+<span class="LineNumber"> 013 </span>		ยมหํ จิรกาลฏฺ€ิติมิจฺฉนฺโต สาสนวรสฺส ฯ   
+<span class="LineNumber"> 014 </span>		สา หิ มหาอฏฺ€กถาย สารมาทาย นิฏฺ€ิตา เอสา  
+<span class="LineNumber"> 015 </span>		จตุนวุติปฺปริมาณาย ปาลิยา ภาณวาเรหิ ฯ   
+<span class="LineNumber"> 016 </span>		สพฺพาคมสํวณฺณนมโนรโถ ปูริโต [๔] เม ยสฺมา  
+<span class="LineNumber"> 017 </span>		เอตาย มโนรถปูรณีติ นามํ ตโต อสฺสา ฯ   
+<span class="LineNumber"> 018 </span>#๑. ม. ปากํ คเต วิย ทุเม วลญฺชมานมฺหิ ฯ  
+<span class="LineNumber"> 019 </span>#๒. ม. ธมฺมกถาย นิปุณปรมนิกายสฺสฏฺฐกถํ อารทฺโธ ฯ
+<span class="LineNumber"> 020 </span>#๓. ม. อิเม ปาฐา นตฺถิ ฯ  ๔. ม. เอตฺถนฺตเร จสทฺโท
+<span class="LineNumber"> 021 </span>#อตฺถิ ฯ

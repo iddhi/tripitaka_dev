@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>๗๘.  กิเลสสัมปยุตตทุกะ</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                        <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>         [๕๔๐] ๑.  <B>กิเลสสัมปยุตตธรรม    อาศัยกิเลสสัมปยุตตธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นกิเลสสัมปยุตตธรรม ฯลฯ ขันธ์ ๒.
+<span class="LineNumber"> 008 </span>                     ๒.  <B>กิเลสวิปปยุตตธรรม    อาศัยกิเลสสัมปยุตตธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ  จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลายที่เป็นกิเลสสัมปยุตตธรรม.
+<span class="LineNumber"> 011 </span>         กิเลสสัมปยุตตทุกะ  เหมือนกับสังกิลิฏฐทุกะ  ไม่มีแตกต่างกัน.
+<span class="LineNumber"> 012 </span>                                 <I>กิเลสสัมปยุตตทุกะ  จบ</I>

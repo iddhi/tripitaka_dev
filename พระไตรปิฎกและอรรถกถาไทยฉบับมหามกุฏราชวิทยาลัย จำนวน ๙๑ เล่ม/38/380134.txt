@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>            <H3>อรรถกถาอุปสัมปทาสูตรที่ ๔</H3> 
+<span class="LineNumber"> 002 </span>          <B>อุปสัมปทาสูตรที่  ๔</B>  พึงทราบวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>          บทว่า  <B>อนภิรตึ</B>  ได้แก่  ความเป็นผู้กระสัน.  บทว่า  <B>วูปกาเสตุํ</B>
+<span class="LineNumber"> 004 </span>ได้แก่  กำจัด.  บทว่า  <B>อธิสีเล</B>  ได้แก่  ศีลสูงสุด.  แม้ในจิตและปัญญาก็นัยนี้
+<span class="LineNumber"> 005 </span>เหมือนกัน.
+<span class="LineNumber"> 006 </span>	                       จบอรรถกถาอุปสัมปทาสูตรที่  ๔
+
+<span class="LineNumber"> 007 </span>	           <H3>๕.  นิสสยสูตร<SUP>๑</SUP></H3>
+<span class="LineNumber"> 008 </span>     <H4>ว่าด้วยภิกษุประกอบด้วยธรรม ๑๐ ประการถึงให้นิสัย</H4>
+<span class="LineNumber"> 009 </span>          [๓๔]  อุ.  ข้าแต่พระองค์ผู้เจริญ  ภิกษุผู้ประกอบด้วยธรรมเท่าไร
+<span class="LineNumber"> 010 </span>หนอแล  พึงให้นิสัย. ฯลฯ
+<span class="LineNumber"> 011 </span>                                            จบนิสสยสูตรที่  ๕
+
+<span class="LineNumber"> 012 </span>	      <H3>๖.  สามเณรสูตร<SUP>๒</SUP></H3>
+<span class="LineNumber"> 013 </span><H4>ว่าด้วยภิกษุประกอบด้วยธรรม  ๑๐  ประการ  พึงให้สามเณรอุปัฏฐาก</H4>
+<span class="LineNumber"> 014 </span>          อุ.  ข้าแต่พระองค์ผู้เจริญ  ภิกษุผู้ประกอบด้วยธรรมเท่าไรหนอแล
+<span class="LineNumber"> 015 </span>พึงให้สามเณรอุปัฏฐาก.
+<span class="LineNumber"> 016 </span>          พ.  ดูก่อนอุบาลี  ภิกษุผู้ประกอบด้วยธรรม  ๑๐  ประการแล  พึง
+<span class="LineNumber"> 017 </span>ให้สามเณรอุปัฏฐาก  ๑๐  ประการเป็นไฉน  คือ  ภิกษุในธรรมวินัยนี้  เป็น
+<span class="LineNumber"> 018 </span>ผู้มีศีล  สำรวมแล้วในปาติโมกขสังวร  ถึงพร้อมด้วยอาจาระและโคจร  มี
+<span class="LineNumber"> 019 </span>ปกติเห็นภัยในโทษอันมีประมาณน้อย  สมาทานศึกษาอยู่ในสิกขาบท
+
+<span class='footnote'>๑-๒.  สูตรที่  ๕-๖  ไม่มีอรรถกถาอธิบาย.</span>

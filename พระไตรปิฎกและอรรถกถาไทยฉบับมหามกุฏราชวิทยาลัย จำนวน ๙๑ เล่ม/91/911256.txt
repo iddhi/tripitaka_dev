@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>นสนิทัสสนติกนเกนจิวิญเญยยทุกะ</H1>  
+<span class="LineNumber"> 002 </span>                       <H1>สนิทัสสนติกเกนจิวิญเญยยทุกะ</H1>
+<span class="LineNumber"> 003 </span><H2>(๒๒.  สนิทัสสนติกะ  ๑๓. เกนจิวิญเญยยทุกะ)</H2>		
+<span class="LineNumber"> 004 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                             <H2>เกนจิวิญเญยยบท</H2>		
+<span class="LineNumber"> 008 </span>           [๗๒๘] ๑.  <B>เกนจิวิญเญยยธรรม     ที่เป็นสนิทัสสนสัปปฏิฆ-
+<span class="LineNumber"> 009 </span>ธรรม   อาศัยธรรมที่ไม่ใช่เกนจิวิญเญยยธรรม    ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 010 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 012 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๗๒๙]  ในเหตุปัจจัย มี ๓๕  วาระ  ฯลฯ
+
+<span class="LineNumber"> 014 </span>                                          <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 015 </span>                                           <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 016 </span>                                         <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 017 </span>                                   <H2>เกนจินวิญเญยยบท</H2>
+<span class="LineNumber"> 018 </span>           [๗๓๐] ๑.  <B>ธรรมที่ไม่ใช่เกนจินวิญเญยยธรรม  ที่เป็นสนิทัสสน
+<span class="LineNumber"> 019 </span>สัปปฏิฆธรรม   อาศัยธรรมที่ไม่ใช่ธรรม ที่ไม่ใช่เกนจินวิญเญยย-
+<span class="LineNumber"> 020 </span>ธรรม  ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 021 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 022 </span>           [๗๓๑]  ในเหตุปัจจัย มี ๓๕ วาระ  ฯลฯ
+<span class="LineNumber"> 023 </span><I>นสนิทัสสนติกนเกนจิวิญเญยยทุกสนิทัสสนติกเกนจิวิญเญยยทุกะ  จบ</I>

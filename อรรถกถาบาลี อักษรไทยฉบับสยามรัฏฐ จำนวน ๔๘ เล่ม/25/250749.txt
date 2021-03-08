@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ขุชฺชโสภิตตฺเถรคาถาวณฺณนา   หน้า 749
+	
+<span class="LineNumber"> 002 </span>		ยาวตา พฺรหฺมโลกมฺหา		อาคนฺตฺวาน สพฺรหฺมกา  
+<span class="LineNumber"> 003 </span>		ปุจฺฉนฺติ นิปุเณ ปเฺห		โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 004 </span>		ยสฺสฺชลึ กริตฺวาน		อาธาวนฺติ (๑) สเทวกา  
+<span class="LineNumber"> 005 </span>		เตน ปุฺํ อนุโภนฺติ		โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 006 </span>		สพฺเพ ชนา สมาคนฺตฺวา		สมฺปวาเรนฺติ จกฺขุมํ  
+<span class="LineNumber"> 007 </span>		น วิกมฺปติ อชฺฌิฏฺโ€		โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 008 </span>		นครํ ปวิสโต ยสฺส			รวนฺติ (๒) เภริโย พหู  
+<span class="LineNumber"> 009 </span>		วินทนฺติ คชา มตฺตา(๓)		โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 010 </span>		วีถิยา คจฺฉโต ยสฺส		สพฺพาภา (๔) โชตเต สทา  
+<span class="LineNumber"> 011 </span>		อพฺภุนฺนตา สมา โหนฺติ		โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 012 </span>		พฺยาหรนฺตสฺส พุทฺธสฺส		จกฺกวาฬมฺปิ(๕) สุยฺยติ  
+<span class="LineNumber"> 013 </span>		สพฺเพ สตฺเต วิฺาเปติ		โก ทิสฺวา นปฺปสีทติ ฯ  
+<span class="LineNumber"> 014 </span>		สตสหสฺเส อิโต กปฺเป		ยํ พุทฺธมภิกิตฺตยึ  
+<span class="LineNumber"> 015 </span>		ทุคฺคตึ นาภิชานามิ		กิตฺตนาย อิทํ ผลํ ฯ  
+<span class="LineNumber"> 016 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 017 </span>	ฉฬภิฺโ ปน หุตฺวา ป€มมหาสงฺคีติกาเล ราชคเห 
+<span class="LineNumber"> 018 </span>สตฺตปณฺณคุหายํ (๖) สนฺนิปติเตน สงฺเฆน  อายสฺมนฺตํ  อานนฺทํ 
+<span class="LineNumber"> 019 </span>อามนฺเตหีติ  (๗)  อาณตฺโต  ป€วิยํ  นิมุชฺชิตฺวา เถรสฺส  ปุรโต  
+<span class="LineNumber"> 020 </span>อุฏฺ€หิตฺวา  สํฆสฺส  สาสนํ  อาโรเจตฺวา  สยํ  ปุเรตรํ  อากาเสน  
+<span class="LineNumber"> 021 </span># ๑. สฺยา. อาธาวนฺติ ฯ  ๒. สฺยา. นทนฺติ ฯ ยุ. รวนฺเต ฯ 
+<span class="LineNumber"> 022 </span># ๓. ยุ. อนุคชฺชา ฯ  ๔. สฺยา. ปภา วา ฯ  ๕. สฺยา. จกฺกวาฬมฺหิ ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. สตฺตปณฺณิคุหายํ ฯ เอวมุปริปิ ฯ ๗. ยุ. อาเนหีติ ฯ 

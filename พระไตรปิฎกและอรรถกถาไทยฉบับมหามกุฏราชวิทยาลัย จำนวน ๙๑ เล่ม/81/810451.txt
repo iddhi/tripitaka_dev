@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>อาสวกถา</H1> 
+ 
+<span class="LineNumber"> 002 </span>         [๑๖๑๙]  <B>สกวาที</B>  อาสวะ  ๔  ไม่เป็นอารมณ์ของอาสวะ หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. เป็นมรรค เป็นผล  เป็นนิพพาน เป็นโสดาปัตติมรรค
+<span class="LineNumber"> 005 </span>เป็นโสดาปัตติผล ฯลฯ เป็นโพชฌงค์  หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวว่า  อาสวะ ๔   ไม่เป็นอารมณ์ของอาสวะ
+<span class="LineNumber"> 007 </span>หรือ ?
+<span class="LineNumber"> 008 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ป. อาสวะเหล่านั้น     เป็นอารมณ์ของอาสวะโดยอาสวะ
+<span class="LineNumber"> 010 </span>เหล่าใด  อาสวะเหล่านั้น มีอยู่พวกหนึ่ง หรือ ?
+<span class="LineNumber"> 011 </span>                       ส. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 012 </span>                       ป. ถ้าอย่างนั้น อาสวะ ๔ ก็ไม่เป็นอารมณ์ของอาสวะ
+<span class="LineNumber"> 013 </span>น่ะสิ.
+<span class="LineNumber"> 014 </span>                                    <I>อาสวกถา จบ</I>
+
+<span class="LineNumber"> 015 </span>                           <H2>อรรถกถาอาสวกถา</H2>
+
+<span class="LineNumber"> 016 </span>                                <H2>ว่าด้วย อาสวะ</H2>
+
+<span class="LineNumber"> 017 </span>         บัดนี้  ชื่อว่าเรื่องอาสวะ  ๔.    ในเรื่องนั้น  ชนเหล่าใดมีความเห็น
+<span class="LineNumber"> 018 </span>ผิดดุจลัทธิของนิกายเหตุวาทว่า   ชื่อว่า  อาสวะอื่นยิ่งกว่าอาสวะ  ๔ ไม่มี
+<span class="LineNumber"> 019 </span>อาสวะ   ๔   จะพึงเป็นอารมณ์ของอาสวะได้ด้วยอาสวะใดเล่า    เพราะ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>รูปธาตุกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๒๑๗]   <B>สกวาที</B>  รูปธรรม  รูปเป็นธาตุ  หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. รูป  เป็นภพ  เป็นคติ เป็นสัตตาวาส เป็นสงสาร เป็น
+<span class="LineNumber"> 005 </span>กำเนิด  เป็นวิญญาณฐิติ เป็นการได้อัตภาพ หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                        ส. กรรมอันยังสัตว์ให้เข้าถึงรูปมีอยู่ หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 009 </span>                        ส. สัตว์ผู้เข้าถึงรูปมีอยู่ หรือ ?
+<span class="LineNumber"> 010 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 011 </span>                        ส. สัตว์ทั้งหลาย  เกิดอยู่   แก่อยู่  ตายอยู่   จุติอยู่   อุบัติอยู่
+<span class="LineNumber"> 012 </span>ในรูป  หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 014 </span>                        ส. รูป  เวทนา สัญญา สังขาร วิญญาณ มีอยู่ในรูป หรือ ?
+<span class="LineNumber"> 015 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 016 </span>                        ส. รูป เป็นปัญจโวการภพ หรือ ?
+<span class="LineNumber"> 017 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 018 </span>         [๑๒๑๘]   ส. รูปธาตุ เป็นภพ   เป็นคติ ฯลฯ เป็นการได้อัตภาพ หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                        ส. รูป เป็นภพ  เป็นคติ ฯลฯ   เป็นการได้อัตภาพ หรือ ?
+<span class="LineNumber"> 021 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 022 </span>                        ส. กรรมอันยังสัตว์ให้เข้าถึงรูปธาตุมีอยู่  หรือ ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  82
+
+<span class="LineNumber"> 002 </span>หนฺท  พุทฺธกเร  ธมฺเม  วิจินามิ อิโต จิโตติ อุสฺสาหํ กตฺวา
+<span class="LineNumber"> 003 </span>วิจินนฺโต  ตทาทกฺขึ  ป€มํ  ทานปารมินฺติ  ทานปารมิตาทโย  
+<span class="LineNumber"> 004 </span>พุทฺธการกา  ธมฺมา  ทิฏฺ€า  เต  ปูเรนฺโตเยว  ยาว  เวสฺสนฺตรตฺต-
+<span class="LineNumber"> 005 </span>ภาวา  อาคมิ ฯ  อาคจฺฉนฺโต  จ  เย  เต  กตาภินีหารานํ 
+<span class="LineNumber"> 006 </span>โพธิสตฺตานํ  อานิสํสา  สํวณฺณิตา  
+<span class="LineNumber"> 007 </span>	เอวํ สพฺพงฺคสมฺปนฺนา	โพธิยา นิยตา นรา  
+<span class="LineNumber"> 008 </span>	สํสาร(๑)ทีฆมทฺธานํ	กปฺปโกฏิสเตหิปิ ฯ  
+<span class="LineNumber"> 009 </span>	อวีจิมฺหิ นุปฺปชฺชนฺติ		ตถา โลกนฺตเรสุ จ  
+<span class="LineNumber"> 010 </span>	นิชฺฌามตณฺหา ขุปฺปิปาสา  น โหนฺติ กาลกฺชิกา ฯ  
+<span class="LineNumber"> 011 </span>	น โหนฺติ ขุทฺทกา ปาณา	อุปฺปชฺชนฺตาปิ ทุคฺคตึ  
+<span class="LineNumber"> 012 </span>	ชายมานา มนุสฺเสสุ		ชจฺจนฺธานภวนฺติเต ฯ  
+<span class="LineNumber"> 013 </span>	โสตเวกลฺลตา นตฺถิ		น ภวนฺติ มูคปกฺขิกา  
+<span class="LineNumber"> 014 </span>	อิตฺถีภาวํ น คจฺฉนฺติ	อุภโตพฺยฺชนปณฺฑกา ฯ  
+<span class="LineNumber"> 015 </span>	น ภวนฺติ ปริยาปนฺนา	โพธิยา นิยตา นรา  
+<span class="LineNumber"> 016 </span>	มุตฺตา อานนฺตริเกหิ		สพฺพตฺถ สุทฺธโคจรา ฯ  
+<span class="LineNumber"> 017 </span>	มิจฺฉาทิฏฺ€ึ น เสวนฺติ	กมฺมกิริยทสฺสนา  
+<span class="LineNumber"> 018 </span>	วสมานาปิ (๒)สตฺเตสุ	อสฺํ นูปปชฺชเร ฯ  
+<span class="LineNumber"> 019 </span>	สุทฺธาวาเสสุ เทเวสุ		เหตุ นาม น วิชฺชติ  
+<span class="LineNumber"> 020 </span>	เนกฺขมฺมนินฺนา สปฺปุริสา  วิสํยุตฺตา ภวาภเว  
+<span class="LineNumber"> 021 </span>	จรนฺติ โลกตฺถจริยาโย	ปูเรนฺติ สพฺพปารมีติ  
+<span class="LineNumber"> 022 </span># ๑. ม. สํสรํ... ฯ  ๒. ม. สคฺเคสุ อสฺํ นูปปชฺชเร ฯ 

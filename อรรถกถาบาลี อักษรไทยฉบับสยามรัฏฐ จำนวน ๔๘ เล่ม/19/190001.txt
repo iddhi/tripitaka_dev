@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๙  คนฺถารมฺภกถา  หน้า  ๑
+
+<span class="LineNumber"> 002 </span>			ปรมตฺถทีปนี  นาม  ขุทฺทกนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>					อุทานวณฺณนา  
+<span class="LineNumber"> 004 </span>		นโม  ตสฺส  ภควโต  อรหโต  สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>					คนฺถารมฺภกถา  
+<span class="LineNumber"> 006 </span>		มหาการุณิกํ  นาถํ  เยฺยสาครปารคุํ  
+<span class="LineNumber"> 007 </span>		วนฺเท  นิปุณคมฺภีร  วิจิตฺรนยเทสนํ ฯ  
+<span class="LineNumber"> 008 </span>		วิชฺชาจรณสมฺปนฺนา  เยน  นิยฺยนฺติ  โลกโต  
+<span class="LineNumber"> 009 </span>		วนฺเท  ตมุตฺตมํ  ธมฺมํ  สมฺมาสมฺพุทฺธปูชิตํ ฯ  
+<span class="LineNumber"> 010 </span>		สีลาทิคุณสมฺปนฺโน  €ิโต  มคฺคผเลสุ  โย  
+<span class="LineNumber"> 011 </span>		วนฺเท  อริยสงฺฆํ  ตํ  ปุฺกฺเขตฺตํ  อนุตฺตรํ ฯ  
+<span class="LineNumber"> 012 </span>		วนฺทนาชนิตํ  ปุฺํ  อิติ  ยํ  รตนตฺตเย  
+<span class="LineNumber"> 013 </span>		หตนฺตราโย  สพฺพตฺถ  หุตฺวาหํ  ตสฺส  เตชสา ฯ  
+<span class="LineNumber"> 014 </span>		เตน  เตน  นิทาเนน  เทสิตานิ  หิเตสินา  
+<span class="LineNumber"> 015 </span>		ยานิ  สุทฺธาปทาเนว  (๑)  อุทานานิ  มเหสินา ฯ  
+<span class="LineNumber"> 016 </span>		ตานิ  สพฺพานิ  เอกชฺฌํ  อาโรเปนฺเตหิ  สงฺคหํ  
+<span class="LineNumber"> 017 </span>		อุทานํ  นาม  สงฺคีตํ  ธมฺมสงฺคาหเกหิ  ยํ ฯ  
+<span class="LineNumber"> 018 </span>		ชินสฺส  ธมฺมสํเวค-  ปาโมชฺชปริทีปนํ  
+<span class="LineNumber"> 019 </span>		โสมนสฺสสมุฏฺ€าน-  คาถาหิ  ปฏิมณฺฑิตํ ฯ  
+<span class="LineNumber"> 020 </span>#  ๑.  สี.  ม.  ยานิ  สุทฺธาปทาเนน ฯ

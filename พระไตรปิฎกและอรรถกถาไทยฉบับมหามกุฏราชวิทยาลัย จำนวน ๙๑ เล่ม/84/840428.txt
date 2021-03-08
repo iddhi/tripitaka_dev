@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><B>จักขุนทริยมูละ  โสมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 002 </span>         [๗๒๕]   จักขุนทรีย์เคยเกิดแก่บุคคลใด,   โสมนัสสินทรีย์ก็เคย
+<span class="LineNumber"> 003 </span>เกิดแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   โสมนัสสินทรีย์เคยเกิดแก่บุคคลใด,  จักขุนทรีย์ก็เคย
+<span class="LineNumber"> 006 </span>เกิดแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                      <I>จบ   จักขุนทริยมูละ  โสมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 009 </span><B>จักขุนทริยมูละ  อุเปกขินทริยมูลี:-</B>
+<span class="LineNumber"> 010 </span>         [๗๒๖]   จักขุนทรีย์เคยเกิดแก่บุคคลใด,      อุเปกขินทรีย์ก็เคย 
+<span class="LineNumber"> 011 </span>เกิดแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า   อุเปกขินทรีย์เคยเกิดแก่บุคคลใด,     จักขุนทรีย์ก็เคย
+<span class="LineNumber"> 014 </span>เกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>                      <I>จบ   จักขุนทริยมูละ   อุเปกขินทริยมูลี</I>

@@ -1,0 +1,28 @@
+﻿<span class="LineNumber"> 001 </span>                          <H3>สูตรที่  ๑๕</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๕๗]  ๑๑๑.  ดูก่อนภิกษุทั้งหลาย    อาสวะย่อมเจริญแก่คน ๒
+<span class="LineNumber"> 003 </span>จำพวก   ๒   จำพวกเป็นไฉน  คือ ผู้ที่เข้าใจว่าเป็นอาบัติในข้อที่ไม่เป็น
+<span class="LineNumber"> 004 </span>อาบัติ   ๑   ผู้ที่เข้าใจว่าไม่เป็นอาบัติในข้อที่เป็นอาบัติ  ๑    ดูก่อนภิกษุทั้ง
+<span class="LineNumber"> 005 </span>หลาย   อาสวะย่อมเจริญแก่คน ๒  จำพวกนี้แล.
+<span class="LineNumber"> 006 </span>                                           จบสูตรที่  ๑๕
+
+<span class="LineNumber"> 007 </span>                           <H3>สูตรที่  ๑๖</H3>
+
+<span class="LineNumber"> 008 </span>         [๓๕๘]   ๑๑๒.  ดูก่อนภิกษุทั้งหลาย   อาสวะย่อมไม่เจริญแก่คน ๒
+<span class="LineNumber"> 009 </span>จำพวก  ๒  จำพวกเป็นไฉน  คือ  ผู้ที่เข้าใจว่าไม่เป็นอาบัติในข้อที่ไม่เป็น
+<span class="LineNumber"> 010 </span>อาบัติ  ๑  ผู้ที่เข้าใจว่าเป็นอาบัติในข้อที่เป็นอาบัติ    ดูก่อนภิกษุทั้งหลาย 
+<span class="LineNumber"> 011 </span>อาสวะย่อมไม่เจริญแก่คน  ๒  จำพวกนี้แล.
+<span class="LineNumber"> 012 </span>                                              จบสูตรที่  ๑๖ 
+
+<span class="LineNumber"> 013 </span>                           <H3>สูตรที่ ๑๗</H3>
+
+<span class="LineNumber"> 014 </span>         [๓๕๙]  ๑๑๓.  ดูก่อนภิกษุทั้งหลาย    อาสวะย่อมเจริญแก่คน  ๒
+<span class="LineNumber"> 015 </span>จำพวก   ๒  จำพวกเป็นไฉน  คือ  ผู้ที่เข้าใจว่าเป็นธรรมในข้อที่ไม่เป็น
+<span class="LineNumber"> 016 </span>ธรรม  ๑    ผู้ที่เข้าใจว่าไม่เป็นธรรมในข้อที่เป็นธรรม  ๑   ดูก่อนภิกษุ
+<span class="LineNumber"> 017 </span>ทั้งหลาย  อาสวะย่อมเจริญแก่คน  ๒  จำพวกนี้แล.
+<span class="LineNumber"> 018 </span>                                               จบสูตรที่   ๑๗
+
+<span class="LineNumber"> 019 </span>                           <H3>สูตรที่  ๑๘</H3>
+
+<span class="LineNumber"> 020 </span>         [๓๖๐]  ๑๑๔.  ดูก่อนภิกษุทั้งหลาย  อาสวะย่อมไม่เจริญแก่คน  ๒
+<span class="LineNumber"> 021 </span>จำพวก    ๒ จำพวกเป็นไฉน  คือ ผู้ที่เข้าใจว่าไม่เป็นธรรมในข้อที่ไม่เป็น

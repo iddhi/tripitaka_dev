@@ -1,0 +1,3 @@
+﻿<span class="LineNumber"> 001 </span>           มีนิมิต  ๔  มีสัณฐานเป็นสี่เหลี่ยมรูปต่าง ๆ  ดังนี้ :-
+<span class="LineNumber"> 002 </span>                                    แผน  ๓  สี่เหลี่ยมจตุรัส 
+<span class="LineNumber"> 003 </span>                                       แผน  ๔  สี่เหลี่ยมรี 

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ๓.   นวดเท้าด้วยฝ่ามือทั้งสอง  
+<span class="LineNumber"> 002 </span>           ๔.   มีความรัก         
+<span class="LineNumber"> 003 </span>           ๕.   มีความเคารพ   แล้วไหว้เท้า
+<span class="LineNumber"> 004 </span>           ดูก่อนอุบาลี  อันภิกษุผู้อ่อนกว่า   เมือไหว้เท้าภิกษุผู้แก่กว่า   พึงเข้า
+<span class="LineNumber"> 005 </span>ไปตั้งธรรม  ๕ นี้ไว้ในตน  แล้วไหว้เท้า.
+<span class="LineNumber"> 006 </span>                            <I>กฐินนัตถารวรรค  ที่  ๑๔  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                   <H1> หัวข้อประจำวรรค</H1> 
+<span class="LineNumber"> 008 </span>           [๑,๒๒๘]  กรานกฐิน  ๑ หลับ ๑  ละแวกบ้าน  ๑   ดื่มยาคู  ๑   เคี้ยว  ๑
+<span class="LineNumber"> 009 </span>อุปสมบทก่อน ๑   อยู่ปริวาส  ๑    บุคคลควรไหว้  ๑   ภิกษุอ่อนกว่าไหว้ภิกษุ
+<span class="LineNumber"> 010 </span>แก่กว่า ๑.
+<span class="LineNumber"> 011 </span>                                      <I>อุปาลิปัญจกะ  จบ</I>
+
+<span class="LineNumber"> 012 </span>                          <H2>หัวข้อบอกวรรคเหล่านั้น</H2>
+<span class="LineNumber"> 013 </span>           [๑,๒๒๙]  อนิสสิตวรรค ๑  กรรมวรรค<SUP>๑</SUP> ๑  โวหารวรรค ๑  ทิฏฐา-
+<span class="LineNumber"> 014 </span>วิกัมมวรรค ๑  โจทนาวรรค<SUP>๒</SUP>   ๑  ธุตังควรรค ๑   มุสาวาทวรรค ๑   ภิกขุนี
+<span class="LineNumber"> 015 </span>โอวาทวรรค ๑  อุพพาหิกวรรค  ๑  อธิกรณวูปสมวรรค  ๑  สังฆเภทวรรค  ๑
+<span class="LineNumber"> 016 </span>สังฆเภท ๕  อย่างเหมือนก่อน<SUP>๓</SUP>๑  อาวาสิกวรรค  ๑  กฐินัตถารวรรค  ๑  รวม
+<span class="LineNumber"> 017 </span>๑๔  วรรค   ท่านประกาศไว้ดีแล้วแล.
+<span class='footnote'>๑.  นัปปฏิปัสสัมภนวรรค            ๒.  อัตตาทานวรรค            ๓.  ทุติสังเภทวรรค. </span>

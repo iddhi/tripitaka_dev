@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         เคยเกิด.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  ชีวิตินทรีย์ไม่ใช่เคยเกิดในภูมิใด,   จักขุนทรีย์ก็ไม่ใช่
+<span class="LineNumber"> 003 </span>เคยเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ไม่มี.
+<span class="LineNumber"> 005 </span>                        <I>จบ  จักขุนทริยมูละ ชีวิตินทริยมูลี</I>
+
+<span class="LineNumber"> 006 </span><B>จักขุนทริยมูละ  โสมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 007 </span>         [๗๙๓]  จักขุนทรีย์ไม่ใช่เคยเกิดในภูมิใด,   โสมนัสสินทรีย์ก็
+<span class="LineNumber"> 008 </span>ไม่ใช่เคยเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่. 
+<span class="LineNumber"> 010 </span>         ก็หรือว่า  โสมนัสสินทรีย์ไม่ใช่เคยเกิดในภูมิใด,   จักขุนทรีย์ก็
+<span class="LineNumber"> 011 </span>ไม่ใช่เคยเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>                    <I>จบ  จักขุนทริยมูละ  โสมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 014 </span><B>จักขุนทริยมูละ  อุเปกขินทริยมูลี:-</B>
+<span class="LineNumber"> 015 </span>         [๗๙๔]  จักขุนทรีย์ไม่ใช่เคยเกิดในภูมิใด,       อุเปกขินทรีย์
+<span class="LineNumber"> 016 </span>ก็ไม่ใช่เคยเกิดในภูมินั้น  ใช่ไหม  ?

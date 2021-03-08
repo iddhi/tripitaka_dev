@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  264
+
+<span class="LineNumber"> 002 </span>นามํ อกํสุ ฯ 
+<span class="LineNumber"> 003 </span>	โส วยปฺปตฺโต ราชคหปฺปเวสเน  พุทฺธานุภาวํ  ทิสฺวา 
+<span class="LineNumber"> 004 </span>ปฏิลทฺธสทฺโธ  ปพฺพชิตฺวา  กมฺมฏฺ€านํ คเหตฺวา  โกสลรฏฺเ€ 
+<span class="LineNumber"> 005 </span>ปพฺพตคุหายํ  วิหรติ ฯ อเถกทิวสํ จาตุทฺธีปิก (๑) มหาเมโฆ สกลํ 
+<span class="LineNumber"> 006 </span>จกฺกวาฬคพฺภํ  ปตฺถริตฺวา  ปาวสฺสิ ฯ  วิวฏฺฏฏฺ€ายิมฺหิ  พุทฺธานํ  
+<span class="LineNumber"> 007 </span>จกฺกวตฺตีนฺจ ธรมานกาเลเอว  กิร  เอวํ วสฺสติ ฯ 
+<span class="LineNumber"> 008 </span>ฆมฺมปริฬาหวูปสมโต (๒) อุตุสปฺปายลาเภน เถรสฺส  จิตฺตํ สมาหิตํ
+<span class="LineNumber"> 009 </span>อโหสิ เอกคฺคํ ฯ โส สมาหิตจิตฺโต ตาวเทว วิปสฺสนํ 
+<span class="LineNumber"> 010 </span>อุสฺสุกฺกาเปตฺวา มคฺคปฏิปาฏิยา อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ
+<span class="LineNumber"> 011 </span>อปทาเน (๓)  
+<span class="LineNumber"> 012 </span>		วิปสฺสิโน(๔)  ภควโต	อโหสึ สงฺขธมฺมโก  
+<span class="LineNumber"> 013 </span>		นิจฺจุปฏฺ€านยุตฺโตมฺหิ	สุคตสฺส มเหสิโน ฯ  
+<span class="LineNumber"> 014 </span>		อุปฏฺ€านผลํ ปสฺส(๕)	โลกนาถสฺส ตาทิโน  
+<span class="LineNumber"> 015 </span>		สฏฺ€ิ ตูริยสหสฺสานิ	ปริวาเรนฺติ มํ สทา ฯ  
+<span class="LineNumber"> 016 </span>		เอกนวุติโต กปฺเป		อุปฏฺ€หึ มหาอิสึ  
+<span class="LineNumber"> 017 </span>		ทุคฺคตึ นาภิชานามิ	อุปฏฺ€านสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 018 </span>		จตุวีเส(๖) อิโต กปฺเป	มหานิคฺโฆสนามกา  
+<span class="LineNumber"> 019 </span># ๑. สี. จาตุทฺทีปก... ฯ  ๒. สี. สพฺพปริฬาห... ฯ 
+<span class="LineNumber"> 020 </span># ๓. ขุ. อ. ๓๒/๑๐๒/๑๙๘ ฯ  ๔. ม. วิปสฺสิสฺส ฯ 
+<span class="LineNumber"> 021 </span># ๕. สฺยา. อุปฏฺ€านผลมฺปสฺสํ ฯ  ๖. สฺยา. จตุนวุเต ฯ 

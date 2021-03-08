@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>กรรมเหตุกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๓๐๓]  <B>สกวาที</B>   พระอรหันต์เสื่อมจากอรหัตตผลได้  เพราะเหตุ
+<span class="LineNumber"> 003 </span>แห่งกรรมหรือ ?
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>    ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. พระโสดาบัน  เสื่อมจากโสดาปัตติผลได้  เพราะเหตุ
+<span class="LineNumber"> 006 </span>แห่งกรรมหรือ ?
+<span class="LineNumber"> 007 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 008 </span>                       ส. พระอรหันต์เสื่อมจากอรหัตผลได้   เพราะเหตุแห่ง
+<span class="LineNumber"> 009 </span>กรรมหรือ ?
+<span class="LineNumber"> 010 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 011 </span>                       ส. พระสกทาคามี   ฯลฯ  พระอนาคามี เสื่อมจากอนาคา-
+<span class="LineNumber"> 012 </span>มิผลได้ เพราะเหตุแห่งกรรมหรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 014 </span>         [๑๓๐๔]  ส. โสดาบัน  ไม่เสื่อมจากโสดาปัตติผล   เพราะเหตุแห่ง
+<span class="LineNumber"> 015 </span>กรรมหรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                       ส. พระอรหันต์  ไม่เสื่อมจากอรหัตผล   เพราะเหตุแห่ง
+<span class="LineNumber"> 018 </span>กรรมหรือ ?
+<span class="LineNumber"> 019 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 020 </span>                       ส. พระสกทาคามี   ฯลฯ   พระอนาคามี   ไม่เสื่อมจาก
+<span class="LineNumber"> 021 </span>อนาคามิผล เพราะเหตุแห่งกรรมหรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 023 </span>                       ส. พระอรหันต์ไม่เสื่อมจากอรหัตผล     เพราะเหตุแห่ง
+<span class="LineNumber"> 024 </span>กรรมหรือ ?

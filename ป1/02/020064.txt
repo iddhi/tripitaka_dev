@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>ที่งอกบนหัว  ผม  เป็นต้น.   เหตุนั้นไม่ต้องแจกให้พิสดาร  จะแจก  
+<span class="LineNumber"> 002 </span>แต่ที่แปลก,  ที่ไม่แจก  ศัพท์ใด  เป็นลิงค์ใด  ก็พึงเทียบศัพท์นั้นใน
+<span class="LineNumber"> 003 </span>แบบการันต์ของลิงค์นั้นเถิด.   ในศัพท์ที่จะเขียนต่อไปนี้  มน  เป็น
+<span class="LineNumber"> 004 </span>ทฺวิลิงค์  คือ ปุํ.  นปุํ.  เหลือนั้นเป็น ปุํลิงค์  สิ้น.  
+
+<span class="LineNumber"> 005 </span>                                  ศัพท์ชื่อมโนคณะ
+<span class="LineNumber"> 006 </span>มน		ใจ				เตช		เดช
+<span class="LineNumber"> 007 </span>อย		เหล็ก			ปย		น้ำนม
+<span class="LineNumber"> 008 </span>อุร		อก				ยส		ยศ
+<span class="LineNumber"> 009 </span>เจต		ใจ				วจ		วาจา
+<span class="LineNumber"> 010 </span>ตป		ความร้อน			วย		วัย
+<span class="LineNumber"> 011 </span>ตม		มืด				สิร		หัว
+
+<span class="LineNumber"> 012 </span>	เอก.	            ต.            จ.           ปญฺ.          ฉ.            ส.
+<span class="LineNumber"> 013 </span>			มนสา      มนโส	มนสา	มนโส	มนสิ
+<span class="LineNumber"> 014 </span>			อยสา	อยโส	อยสา	อยโส	อยสิ
+<span class="LineNumber"> 015 </span>			อุรสา	อุรโส	อุรสา	อุรโส	อุรสิ
+<span class="LineNumber"> 016 </span>			เจตสา	เจตโส	เจตสา	เจตโส	เจตสิ
+<span class="LineNumber"> 017 </span>                                  เท่านี้เป็นตัวอย่าง.

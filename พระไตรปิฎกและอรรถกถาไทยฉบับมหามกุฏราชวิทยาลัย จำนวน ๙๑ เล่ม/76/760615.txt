@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ธรรมวิปปยุตจากอุปาทานและไม่เป็นอารมณ์ของอุปาทาน</B>
+<span class="LineNumber"> 002 </span>เป็นไฉน  ?   
+<span class="LineNumber"> 003 </span>           มรรค  ๔ ที่เป็นโลกุตระ  สามัญผล  ๔  และนิพพาน  สภาวธรรมเหล่า
+<span class="LineNumber"> 004 </span>นี้ชื่อว่า   ธรรมวิปปยุตจากอุปทานและไม่เป็นอารมณ์ของอุปาทาน
+<span class="LineNumber"> 005 </span>           ธรรมสัมปยุตด้วยอุปาทาน     จะกล่าวว่าธรรมวิปปยุตจากอุปาทานแต่
+<span class="LineNumber"> 006 </span>เป็นอารมณ์ของอุปาทานก็ไม่ได้     ว่าธรรมวิปปยุตจากอุปาทานและไม่เป็น
+<span class="LineNumber"> 007 </span>อารมณ์ของอุปาทานก็ไม่ได้.
+<span class="LineNumber"> 008 </span>                                  <I>อุปาทานโคจฉกะ  จบ</I>
+
+<span class="LineNumber"> 009 </span>                                         <H1>กิเลสโคจฉกะ</H1>
+<span class="LineNumber"> 010 </span>           [๙๖๒]   <B>กิเลสธรรม</B>  เป็นไฉน  ?
+<span class="LineNumber"> 011 </span>           กิเลสวัตถุ  ๑๐ คือ  โลภะ   โทสะ   โมหะ   มานะ   ทิฏฐิ   วิจิกิจฉา
+<span class="LineNumber"> 012 </span>ถีนะ  อุทธัจจะ  อหิริกะ  อโนตตัปปะ
+<span class="LineNumber"> 013 </span>           โลภะ  บังเกิดในจิตตุปบาทที่สหรคตด้วยโลภะ   ๘  ดวง
+<span class="LineNumber"> 014 </span>           โทสะ  บังเกิดในจิตตุปบาทที่สหรคตด้วยโทมนัสเวทนา  ๒  ดวง
+<span class="LineNumber"> 015 </span>           โมหะ  บังเกิดในอกุศลทั้งปวง
+<span class="LineNumber"> 016 </span>           มานะ  บังเกิดในจิตตุปบาทที่สหรคตด้วยโลภวิปปยุตจากทิฏฐิ  ๔ ดวง
+<span class="LineNumber"> 017 </span>           ทิฏฐิ  บังเกิดในจิตตุปบาทที่สัมปยุตด้วยทิฏฐิ   ๔  ดวง
+<span class="LineNumber"> 018 </span>           วิจิกิจฉา  บังเกิดในจิตตุปบาทที่สหรคตด้วยวิจิกิจฉา
+<span class="LineNumber"> 019 </span>           ถีนะ  บังเกิดในอกุศลที่เป็นสสังขาริก
+<span class="LineNumber"> 020 </span>           อุทธัจจะ  อหิริกะ  และอโนตตัปปะ  บังเกิดในอกุศลจิตทั้งปวง
+<span class="LineNumber"> 021 </span>           สภาวธรรมเหล่านี้ชื่อว่า  กิเลสธรรม.  

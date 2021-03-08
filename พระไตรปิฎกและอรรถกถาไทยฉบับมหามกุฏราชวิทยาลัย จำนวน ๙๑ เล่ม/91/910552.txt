@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>ทัสสเนนปหาตัพพทุกกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>                     <H1>นทัสสเนนปหาตัพพทุกนกุสลติกะ</H1>
+<span class="LineNumber"> 003 </span>    <H2>(๘๓. ทัสสเนนปหาตัพพทุกะ ๑. กุสลติกะ)</H2>	
+<span class="LineNumber"> 004 </span>                                 <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 005 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                     <H2>กุศลบท</H2>	
+<span class="LineNumber"> 008 </span>           [๒๙๗] ๑.  <B>ธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่ทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 009 </span>ธรรม  อาศัยธรรมที่เป็นกุศล  ที่ไม่ใช่ทัสสเนนปหาตัพพธรรม  เกิด
+<span class="LineNumber"> 010 </span>ขึ้น  เพราะเหตุปัจจัย</B>   มี  ๑ วาระ.
+
+<span class="LineNumber"> 011 </span>                                     <H2>อกุศลบท</H2>
+<span class="LineNumber"> 012 </span>                        ๑.  ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่ทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 013 </span>ธรรม  อาศัยธรรมที่เป็นอกุศล    ที่เป็นทัสสเนนปหาตัพพธรรม  เกิด
+<span class="LineNumber"> 014 </span>ขึ้น  เพราะเหตุปัจจัย  มี ๒ วาระ.
+

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>ปัจจุปปันนาตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 004 </span><H2>กายสังขารมูละ   วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๑๐๗๔]   กายสังขารกำลังเกิดแก่บุคคลใด,      วจีสังขารก็เคย
+<span class="LineNumber"> 006 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.             
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   วจีสังขารเคยเกิดแก่บุคคลใด,    กายสังขารก็กำลังเกิด
+<span class="LineNumber"> 009 </span>แก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ในภังคขณะแห่งจิตของบุคคลเหล่านั้นทั้งหมด   เว้นลมอัสสาสะ
+<span class="LineNumber"> 011 </span>ปัสสาสะเสียแล้ว    ในอุปปาทขณะแห่งจิตก็ดี    บุคคลที่กำลังเข้านิโรธ-
+<span class="LineNumber"> 012 </span>สมาบัติอยู่ก็ดี    บุคคลที่เกิดอยู่ในอสัญญสัตตภูมิก็ดี     วจีสังขารเคยเกิด 
+<span class="LineNumber"> 013 </span>แก่บุคคลเหล่านั้น  แต่กายสังขารไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น,   ใน
+<span class="LineNumber"> 014 </span>อุปปาทขณะแห่งลมอัสสาสะปัสสาสะ  วจีสังขารเคยเกิด  และกายสังขาร
+<span class="LineNumber"> 015 </span>ก็กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 016 </span>                          <I>จบ   กายสังขารมูละ   วจีสังขารมูลี</I>

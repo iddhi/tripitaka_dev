@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   อุเปกขินทรีย์ไม่ใช่จักเกิดแก่บุคคลใด,    จักขุนทรีย์ก็
+<span class="LineNumber"> 002 </span>ไม่ใช่เคยเกิดเเก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         เคยเกิด.
+<span class="LineNumber"> 004 </span>      <I>จบ   จักขุนทริยมูละ   โสมนัสสินทริย  ฯลฯ  อุเปกขินทริยมูลี</I>
+
+<span class="LineNumber"> 005 </span><B>จักขุนทริยมูละ    สัทธินทริย  ฯลฯ   ปัญญินทริย   มนินทริยมูลี:-</B>
+<span class="LineNumber"> 006 </span>         [๑๒๙๘]   จักขุนทรีย์ไม่ใช่เคยเกิดแก่บุคคลใด,     สัทธินทรีย์
+<span class="LineNumber"> 007 </span>ฯลฯ  ปัญญินทรีย์  มนินทรีย์ก็ไม่ใช่จักเกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ไม่มี.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   มนินทรีย์ไม่ใช่จักเกิดแก่บุคคลใด,    จักขุนทรีย์ก็ไม่
+<span class="LineNumber"> 010 </span>ใช่เคยเกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         เคยเกิด.
+<span class="LineNumber"> 012 </span>  <I>จบ  จักขุนทริยมูละ  สัทธินทริย  ฯลฯ   ปัญญินทริย  มนินทริยมูลี</I>
+<span class="LineNumber"> 013 </span>                                     <I>จักขุนทริยมูล  จบ</I> 

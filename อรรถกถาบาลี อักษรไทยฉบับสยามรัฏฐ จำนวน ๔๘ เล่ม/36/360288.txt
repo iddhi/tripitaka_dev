@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  288
+
+<span class="LineNumber"> 002 </span>ปน  เอวรูโป  ปณฺฑิโต  นตฺถีติ  สกฺการํ  กริสฺสามิ  อชฺช 
+<span class="LineNumber"> 003 </span>ตาว  อเวลา  เสฺว เต อุปฏฺ€านํ อาคตกาเล  ปุจฺฉิสฺสามีติ ฯ
+<span class="LineNumber"> 004 </span>โส  ปุน  ทิวเส  ปณฺฑิเตสุ  อุปฏ€านํ  อาคนฺตฺวา  นิสินฺเนสุ
+<span class="LineNumber"> 005 </span>ปฺหํ ปุจฺฉนฺโต อิมํ คาถมาห  
+<span class="LineNumber"> 006 </span>			เยสํ น กทาจิ ภูตปุพฺพํ  
+<span class="LineNumber"> 007 </span>			สขิ (๑) สตฺตปทมฺปิ อิมสฺมึ โลเก  (๒)
+<span class="LineNumber"> 008 </span>			ชาตา อมิตฺตา เทฺว (๓) สหายา  
+<span class="LineNumber"> 009 </span>			ปฏิสนฺถาย จรนฺติ กิสฺส เหตูติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ปฏิสนฺถายาติ  อฺมฺํ  สทฺทหิตฺวา  ฆฏิตา (๔) 
+<span class="LineNumber"> 011 </span>หุตฺวา ฯ อิทฺจ ปน วตฺวา ปุน เอวมาห  
+<span class="LineNumber"> 012 </span>			ยทิ เม อชฺช ปาตราสกาเล  
+<span class="LineNumber"> 013 </span>			ปฺหํ น สกฺกุณาถ (๕) วตฺตุเมตํ  
+<span class="LineNumber"> 014 </span>			รฏฺ€า ปพฺพาชยิสฺสามิ โว สพฺเพ  
+<span class="LineNumber"> 015 </span>			น หิ มมตฺโถ (๖) ทุปฺปฺชาติเกหีติ  
+<span class="LineNumber"> 016 </span>	เสนโก  อคฺคาสเน  นิสินฺโน ฯ  ปณฺฑิโต  อาสนปริยนฺเต  
+<span class="LineNumber"> 017 </span>นิสีทิ ฯ  โส  มหาสตฺโต  ตํ  ปฺหํ  อุปธาเรนฺโต  อตฺถํ  อทิสฺวา  
+<span class="LineNumber"> 018 </span>จินฺเตสิ  อยํ  ราชา  ทนฺธธาตุโก  อิมํ  ปฺหํ  จินฺเตตฺวา  สํกฑฺฒิตุํ (๗)
+<span class="LineNumber"> 019 </span># ๑. ม. สขฺยํ ฯ  ยุ. สกฺขึ ฯ  ๒. ม. สติตปทมฺปิมสฺมิ ฯ  ยุ. อิมสฺมิ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. ทุเว ฯ  ๔. ยุ. คฏิตา ฯ  ๕. ม. สกฺกุเณยฺยาถ ฯ  ยุ. สกฺกุเณถ ฯ  
+<span class="LineNumber"> 021 </span># ๖. ม. ยุ. มตฺโถ ฯ  ๗. ม. สงฺขริตุํ ฯ

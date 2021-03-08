@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>ปัญหาวาระ</H2>  
+<span class="LineNumber"> 002 </span>                                     <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>                             <H2>๑.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                                 <H2>นสนิทัสสนบท</H2>
+<span class="LineNumber"> 005 </span>                       ๑.  <B>ธรรมที่ไม่ใช่ธรรม   ที่ไม่ใช่สนิทัสสนธรรม  ที่
+<span class="LineNumber"> 006 </span>ไม่ใช่อนิทัสสนอัปปฏิฆธรรม  เป็นปัจจัยแก่ธรรมที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 007 </span>ธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม ด้วยอำนาจของอารัมมณปัจจัย</B>
+
+<span class="LineNumber"> 008 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           ในอารัมมณปัจจัย   มี ๓ วาระ    ในอธิปติปัจจัย    อุปนิสสยปัจจัย
+<span class="LineNumber"> 010 </span>ปุเรชาตปัจจัย  อัตถิปัจจัย   และอวิคตปัจจัย  และปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>      <I>นสนิทัสสนติกนสนิทัสสนทุกสนิทัสสนติกสนิทัสสนทุกะ  จบ</I>
+
+<span class="LineNumber"> 012 </span>                             <H1>นสนิทัสสนติกนสัปปฏิฆทุกะ</H1>
+<span class="LineNumber"> 013 </span>                                <H1>สนิทัสสนติกสัปปฏิฆทุกะ</H1>
+<span class="LineNumber"> 014 </span>             <H2>(๒๒. สนิทัสสนติกะ  ๑๐. สัปปฏิฆทุกะ)</H2>	
+<span class="LineNumber"> 015 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 016 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 017 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 018 </span>                                        <H2>สัปปฏิฆบท</H2>
+<span class="LineNumber"> 019 </span>           [๗๑๘] ๑.  <B>สัปปฏิฆธรรม    ที่เป็นสนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 020 </span>อาศัยธรรมที่ไม่ใช่สัปปฏิฆธรรม      ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 021 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>           
+<span class="LineNumber"> 022 </span>                                                 <B>ฯลฯ</B>

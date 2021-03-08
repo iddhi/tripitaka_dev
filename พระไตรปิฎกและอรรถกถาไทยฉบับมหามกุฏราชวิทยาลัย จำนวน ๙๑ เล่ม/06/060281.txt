@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ลำดับนั้น    พระผู้มีพระภาคเจ้าทรงทำธรรมีกถา    ในเพราะเหตุเป็น
+<span class="LineNumber"> 002 </span>เค้ามูลนั้น    ในเพราะเหตุแรกเกิดนั้น   แล้วรับสั่งกะภิกษุทั้งหลายว่า  ดูก่อนภิกษุ
+<span class="LineNumber"> 003 </span>ทั้งหลาย   เราอนุญาตการบวชกุลบุตรเป็นสามเณรด้วยไตรสรณคมน์.
+
+<span class="LineNumber"> 004 </span>                                            <H1>วิธีให้บรรพชา</H1> 
+<span class="LineNumber"> 005 </span>           ดูก่อนภิกษุทั้งหลาย   ก็แลภิกษุพึงให้กุลบุตรบวชอย่างนี้:-
+<span class="LineNumber"> 006 </span>           ชั้นต้น   พึงให้โกนผมและหนวด   แล้วให้ครองผ้าย้อมฝาค  ให้ห่มผ้า
+<span class="LineNumber"> 007 </span>เฉวียงบ่า   ให้กราบเท้าภิกษุทั้งหลาย   ให้นั่งกระโหย่ง  ให้ประคองอัญชลี   แล้ว
+<span class="LineNumber"> 008 </span>สั่งว่า   จงว่าอย่างนี้    แล้วสอนให้ว่าสรณคมน์ดังนี้:-
+
+<span class="LineNumber"> 009 </span>                                        <H1>ไตรสรณคมน์</H1>
+<span class="LineNumber"> 010 </span>           <B>พุทธํ  สรณํ  คจฺฉามิ</B>
+<span class="LineNumber"> 011 </span>           ข้าพเจ้าถึงพระพุทธเจ้า   เป็นที่พึ่ง
+<span class="LineNumber"> 012 </span>           <B>ธมฺมํ  สรณํ  คจฺฉามิ</B>
+<span class="LineNumber"> 013 </span>           ข้าพเจ้าถึงพระธรรม    เป็นที่พึ่ง
+<span class="LineNumber"> 014 </span>           <B>สงฺฆํ  สรณํ  คจฺจามิ</B>
+<span class="LineNumber"> 015 </span>           ข้าพเจ้าถึงพระสงฆ์  เป็นที่พึ่ง
+<span class="LineNumber"> 016 </span>           <B>ทุติยมฺปิ  พุทฺธํ  สรณํ  คจฺฉามิ</B>
+<span class="LineNumber"> 017 </span>           ข้าพเจ้าถึงพระพุทธเจ้า   เป็นที่พึ่ง   แม้ครั้งที่ ๒
+<span class="LineNumber"> 018 </span>           <B>ทุติยมฺปิ   ธมฺมํ  สรณํ  คจฺฉามิ</B>
+<span class="LineNumber"> 019 </span>           ข้าพเจ้าถึงพระธรรม   เป็นที่พึ่ง   แม้ครั้งที่ ๒
+<span class="LineNumber"> 020 </span>           <B>ทุติยมฺปิ  สงฺฆํ  สรณํ  คจฺฉามิ</B>

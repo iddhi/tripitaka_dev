@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลผู้มีความพร้อมเพรียงด้วยอนาคามิมรรคไม่ละอวิชชานุสัย 
+<span class="LineNumber"> 002 </span>แต่บุคคลผู้มีความพร้อมเพรียงด้วยอนาคามิมรรคนั้น     ไม่ใช่ย่อมไม่ละ
+<span class="LineNumber"> 003 </span>กามราคานุสัย,       บุคคลทั้งหลายที่เหลือ        เว้นบุคคลผู้มีความพร้อม
+<span class="LineNumber"> 004 </span>เพรียงด้วยมรรค   ๒   จำพวก  ไม่ละอวิชชานุสัย   และไม่ละกามราคา-
+<span class="LineNumber"> 005 </span>นุสัย.
+<span class="LineNumber"> 006 </span>                  <I>จบ  กามราคานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 007 </span>                                  <I>กามราคานุสยมูล  จบ</I>
+ 
+<span class="LineNumber"> 008 </span>                                     <H1>ปฏิฆานุสยมูล</H1> 
+<span class="LineNumber"> 009 </span><H2>ปฏิฆานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 010 </span>         [๑๓๘๘]   บุคคลใด  ไม่ละปฏิฆานุสัย,  บุคคลนั้น  ย่อมไม่ละ
+<span class="LineNumber"> 011 </span>มานานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         บุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรค    และปฏิฆานุสัย
+<span class="LineNumber"> 013 </span>แต่บุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรคนั้น      ไม่ใช่ย่อมไม่ละ
+<span class="LineNumber"> 014 </span>มานานุสัย      บุคคลทั้งหลายที่เหลือ    เว้นบุคคลผู้มีความพร้อมเพรียง
+<span class="LineNumber"> 015 </span>ด้วยมรรค  ๒  จำพวก  ไม่ละปฏิฆานุสัย   และไม่ละมานานุสัย.
+<span class="LineNumber"> 016 </span>         ก็หรือว่า  บุคคลใด   ไม่ละมานานุสัย    บุคคลนั้น    ย่อมไม่ละ
+<span class="LineNumber"> 017 </span>ปฏิฆานุสัย   ใช่ไหม ?

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>มหาวรรคที่  ๔</H1>
+<span class="LineNumber"> 002 </span>                           <H1>๑.  ปฐมวิหารสูตร</H1>
+<span class="LineNumber"> 003 </span>                 <H2>ว่าด้วยอนุปุพพวิหาร   ๙  ประการ</H2>
+<span class="LineNumber"> 004 </span>         [๒๓๖]  ดูก่อนภิกษุทั้งหลาย    อนุปุพพวิหาร   (ธรรมเป็น
+<span class="LineNumber"> 005 </span>เครื่องอยู่ตามลำดับ)    ๙    ประการนี้   ๙   ประการเป็นไฉน   คือ
+<span class="LineNumber"> 006 </span>ปฐมฌาน  ๑  ทุติยฌาน  ๑  ตติยฌาน  ๑  จตุตถฌาน  ๑ อากาสานัญ-
+<span class="LineNumber"> 007 </span>จายตนฌาน  ๑ วิญญาณัญจายตนฌาน  ๑  อากิญจัญญายตนฌาน  ๑
+<span class="LineNumber"> 008 </span>เนวสัญญานาสัญญายตนฌาน   ๑   สัญญาเวทยิตนิโรธ    ๑    ดูก่อน
+<span class="LineNumber"> 009 </span>ภิกษุทั้งหลาย อนุปุพพวิหาร  ๙ ประการนี้แล.
+<span class="LineNumber"> 010 </span>                             <I>จบ  ปฐมวิหารสูตรที่  ๑</I>
+
+<span class="LineNumber"> 011 </span>                        <H1>มหาวรรควารณนาที่  ๔</H1>
+<span class="LineNumber"> 012 </span>                    <H1>อรรถกถาปฐมวิหารสูตรที่  ๑</H1>
+<span class="LineNumber"> 013 </span>         <B>มหาวรรคที่  ๔</B>  ปฐมวิหารสูตรที่  ๑ มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 014 </span>         บทว่า  <B>อนุปุพฺพวิหารา</B>  ได้วิหารธรรมอันควรเข้าถึงตามลำดับ 
+<span class="LineNumber"> 015 </span>                               <I>จบ  อรรถกถาปฐมวิหารสูตรที่  ๑</I>

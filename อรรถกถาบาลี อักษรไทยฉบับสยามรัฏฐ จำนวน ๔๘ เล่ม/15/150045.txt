@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๕  นีวรณวคฺควณฺณนา  หน้า ๔๕
+
+<span class="LineNumber"> 002 </span>อุฺฉาจริยาย  ยาเปตุํ  อิมสฺมึปิ(๑)  สุตฺเต วฏฺฏวิวฏฺฏเมว กถิตํ ฯ    
+<span class="LineNumber"> 003 </span>					จตุตฺถํ ฯ 
+<span class="LineNumber"> 004 </span>	ปฺจเม  ปริยาทาย  ติฏฺ€ตีติ  ปริยาทิยิตฺวา  คเหตฺวา  
+<span class="LineNumber"> 005 </span>เขเปตฺวา  ติฏฺ€ติ ฯ อุคฺฆาติตาติ (๒) อุทฺธุมาตา ฯ    
+<span class="LineNumber"> 006 </span>	อสิหตฺเถนาติ  สีสจฺเฉทนตฺถาย  อสึ  อาทาย  อาคเตนาปิ ฯ  
+<span class="LineNumber"> 007 </span>ปิสาเจนาติ  ขาทิตุํ  อาคตยกฺเขนาปิ ฯ  อาสทฺเทติ  (๓)  ฆฏฺเฏยฺย ฯ  
+<span class="LineNumber"> 008 </span>มฺชุนาติ  มุทุเกน ฯ กาโมฆวุฬฺหานนฺติ กาโมเฆน  วุฬฺหานํ  
+<span class="LineNumber"> 009 </span>กฑฺฒิตานํ ฯ  กาลํ  คตึ  ภวาภวนฺติ  วฏฺฏกาลํ  คติฺจ 
+<span class="LineNumber"> 010 </span>ปุนปฺปุนพฺภเว  จ ฯ  ปุรกฺขตาติ  ปุเรจาริกา  ปุรโต  กตาเยว ฯ  (๔)  
+<span class="LineNumber"> 011 </span>เย  จ  กาเม  ปริฺายาติ  เย  ปณฺฑิตา  ทุวิเธปิ  กาเม  ตีหิ 
+<span class="LineNumber"> 012 </span>ปริฺาหิ  ปริชานิตฺวา ฯ จรนฺติ อกุโตภยาติ  ขีณาสวานํ  
+<span class="LineNumber"> 013 </span>กุโตภยํ  (๕)  นาม  นตฺถิ  ตสฺมา  เต  อกุโตภยา  หุตฺวา  จรนฺติ ฯ 
+<span class="LineNumber"> 014 </span>ปารคตาติ (๕)  ปารํ วุจฺจติ นิพฺพานํ ตํ อุปคตา สจฺฉิกตฺวา 
+<span class="LineNumber"> 015 </span>€ิตาติ อตฺโถ ฯ อาสวกฺขยนฺติ อรหตฺตํ ฯ อิมสฺมึ สุตฺเต วฏฺฏเมว 
+<span class="LineNumber"> 016 </span>กเถตฺวา คาถาสุ วฏฺฏวิวฏฺฏํ กถิตํ ฯ 
+<span class="LineNumber"> 017 </span>					ปญฺจมํ ฯ
+<span class="LineNumber"> 018 </span>	ฉฏฺเ€  มธุรกชาโตติ  สฺชาตครุภาโว ฯ  ทิสา  จ  เม  
+<span class="LineNumber"> 019 </span>น  ปกฺขายนฺตีติ  จตสฺโส  ทิสา  จ  อนุทิสา  จ  มยฺหํ  น 
+<span class="LineNumber"> 020 </span>#๑. ม. อิมสฺมิมฺปิ ฯ  ๒.  ม. อุคฺคาติตาติ ฯ  ๓. ม. อาสีเทติ ฯ  ๔. ม. คตาเยว ฯ
+<span class="LineNumber"> 021 </span>#๕. ม. กุโตจิ ภยํ ฯ

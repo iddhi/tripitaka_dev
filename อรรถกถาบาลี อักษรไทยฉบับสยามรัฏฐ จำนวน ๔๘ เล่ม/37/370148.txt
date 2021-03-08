@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  148
+
+<span class="LineNumber"> 002 </span>	อิทมสฺส อุยฺยานํ		ปุปฺผิตํ(๑) สพฺพกาลิกํ รมฺมํ  
+<span class="LineNumber"> 003 </span>	เตทานิ อยฺยปุตฺตา		จตฺตาโร วธาย สนฺนีตา  
+<span class="LineNumber"> 004 </span>	อิทมสฺส อโสกวนํ		ปุปฺผิตํ(๑) สพฺพกาลิกํ รมฺมํ  
+<span class="LineNumber"> 005 </span>	เตทานิ อยฺยปุตฺตา		จตฺตโร วธาย สนฺนีตา  
+<span class="LineNumber"> 006 </span>	อิทมสฺส กณิการวนํ	ปุปฺผิตํ(๑) สพฺพกาลิกํ รมฺมํ  
+<span class="LineNumber"> 007 </span>	เตทานิ อยฺยปุตฺตา		จตฺตาโร วธาย นินฺนีตา  
+<span class="LineNumber"> 008 </span>	อิทมสฺส ปาฏลิวนํ		ปุปฺผิตํ(๑) สพฺปกาลิกํ รมฺมํ  
+<span class="LineNumber"> 009 </span>	เตทานิ อยฺยปุตฺตา		จตฺตาโร วธาย นินฺนีตา  
+<span class="LineNumber"> 010 </span>	อิทมสฺส อมฺพวนํ		ปุปฺผิตํ(๑) สพฺพกาลิกํ รมฺมํ  
+<span class="LineNumber"> 011 </span>	เตทานิ อยฺยปุตฺตา		จตฺตาโร วธาย นินฺนีตา  
+<span class="LineNumber"> 012 </span>	อยมสฺส โปกฺขรณี		สฺฉนฺนา ปทุมปุณฺฑรีเกหิ  
+<span class="LineNumber"> 013 </span>	นาวา จ โสวณฺณวิกตา	ปุปฺผวลฺลิยา จิตฺตา สุรมฺมณียา  
+<span class="LineNumber"> 014 </span>	เตทานิ อยฺยปุตฺตา		จตฺตาโร วธาย นินฺนีตาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  เตทานีติ  อิทานิ  เต  จนฺทกุมารปฺปมุขา  อมฺหากํ  
+<span class="LineNumber"> 016 </span>อยฺยปุตฺตา  เอวรูปํ  ปาสาทํ  ฉฑฺเฑตฺวา  วธาย  นีหริยนฺติ(๒)ฯ  
+<span class="LineNumber"> 017 </span>โสวณฺณวิกตาติ สุวณฺณขจิตา ฯ  
+<span class="LineNumber"> 018 </span>	เอตฺตเกสุ  €าเนสุ  วิลปิตฺวา(๓)  ปุน  หตฺถิสาลาทีนิ
+<span class="LineNumber"> 019 </span>อุปสํกมิตฺวา  อาหํสุ  
+<span class="LineNumber"> 020 </span>[๘๑๕]อิทมสฺส หตฺถิรตนํ	เอราวโณ คโช วรุณทนฺตี(๔)  
+<span class="LineNumber"> 021 </span>	เตทานิ อยฺยปุตฺตา		จตฺตาโร วธาย นินฺนีตา  
+<span class="LineNumber"> 022 </span># ๑. ม. สุปุปฺผิตํ ฯ  ๒. ม. นียนฺติ ฯ  ๓. ม. วิลปนฺตา ฯ 
+<span class="LineNumber"> 023 </span># ๔. ส. ม. พลี ทนฺตี ฯ

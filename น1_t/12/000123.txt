@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>ไม่ยินดี   ไม่ยินร้าย  ในร่างกาย   ทั้งที่เป็นอิฏฐารมณ์   ทั้งที่เป็นอนิฏฐารมณ์ 
+<span class="LineNumber"> 002 </span>ประกอบด้วยปัญญาวิมุติ   หลุดพ้นจากกิเลสด้วยปัญญา   ถ้ายังมิได้บรรลุ
+<span class="LineNumber"> 003 </span>นิพพาน   ก็ย่อมมีสุคติเป็นเบื้องหน้า.
+<span class="LineNumber"> 004 </span>                           คำถามสอบความเข้าใจ 
+<span class="LineNumber"> 005 </span>	๑.   อะไรเรียกว่าธาตุ  ?   ธาตุ   แปลว่ากระไร  ?
+<span class="LineNumber"> 006 </span>	๒.  เมื่อรวมธาตุหลายอย่างเข้าด้วยกันเป็นอะไร  ?
+<span class="LineNumber"> 007 </span>	๓.  คน   สัตว์   รถ   เรือ   เป็นต้น   จะหมดสภาพได้อย่างไร  ?
+<span class="LineNumber"> 008 </span>	๔.  ธาตุกัมมัฏฐาน  ที่ได้ชื่อเช่นนี้   เพราะเหตุไร  ?
+<span class="LineNumber"> 009 </span>	๕.  ผู้เจริญธาตุกัมมัฏฐาน   ย่อมได้ผลดีอย่างไร  ?
+						
+<span class="LineNumber"> 010 </span>			<B>	ธาตุดิน,   น้ำ,   ลม,   ไฟ,   ในเรือนร่าง
+<span class="LineNumber"> 011 </span>			เป็นจุดทาง    ย    ปฏิบัติ      กัมมัฏฐาน
+<span class="LineNumber"> 012 </span>			จิตตั้งมั่น - คงดี    เกิดมีญาณ
+<span class="LineNumber"> 013 </span>			แยกสังขาร    เป็นธาตุ    ขาดสมมุติ.
+<span class="LineNumber"> 014 </span>				จะเป็นคน    นั่นนี่    ได้ที่ไหน
+<span class="LineNumber"> 015 </span>			เพียงดิน,    น้ำ,   ลม,   ไฟ,   ในที่สุด
+<span class="LineNumber"> 016 </span>			ปล่อยสมมติ   บัญญัติ   สัตว์มนุษย์
+<span class="LineNumber"> 017 </span>			มองเห็นจุด   ธาตุสี่   มีสุข   เอย.   </B>
+<span class="LineNumber"> 018 </span>								<B>ศรี  ฯ    นคร.</B>

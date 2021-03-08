@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>			<B>แต่นั้น    สาวกผู้มีใจเลื่อมใส  พึงเข้า
+<span class="LineNumber"> 002 </span>		จำอุโบสถอันประกอบด้วยองค์   ๘  ประการ
+<span class="LineNumber"> 003 </span>		ให้บริบูรณ์ดี  ตลอดวัน  ๑๔  ค่ำ  ๑๕  ค่ำ  และ
+<span class="LineNumber"> 004 </span>		๘  ค่ำแห่งปักษ์  และตลอดปาฏิหาริกปักษ์.
+<span class="LineNumber"> 005 </span>			แต่นั้นสาวกผู้รู้แจ้งเข้าจำอุโบสถอยู่
+<span class="LineNumber"> 006 </span>		แต่เช้าแล้ว  มีจิตเลื่อมใส  ชื่นชมอยู่เนือง ๆ
+<span class="LineNumber"> 007 </span>		พึงแจกจ่ายภิกษุสงฆ์ด้วยข้าวและน้ำตามควร
+<span class="LineNumber"> 008 </span>		พึงเลี้ยงมารดาและบิดาด้วยโภคสมบัติที่ได้
+<span class="LineNumber"> 009 </span>		มาโดยชอบธรรม    พึงประกอบการค้าขาย
+<span class="LineNumber"> 010 </span>		อันชอบธรรม   ไม่ประมาท   ประพฤติวัตร
+<span class="LineNumber"> 011 </span>		แห่งคฤหัสถ์นี้อยู่     ย่อมเข้าถึงเหล่าเทวดา
+<span class="LineNumber"> 012 </span>		ชื่อว่า  สยัมปภา  ผู้มีรัศมีในตน.</B>
+<span class="LineNumber"> 013 </span>                             <I>จบธรรมิกสูตรที่  ๑๔
+<span class="LineNumber"> 014 </span>                             จบจูฬวรรคที่  ๒</I>

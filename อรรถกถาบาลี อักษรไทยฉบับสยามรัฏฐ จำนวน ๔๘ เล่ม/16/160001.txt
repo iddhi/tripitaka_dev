@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  16  หน้า  ๑
+
+<span class="LineNumber"> 002 </span>		ปรมตฺถโชติกา นาม ขุทฺทกนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>				ขุทฺทกปา€วณฺณนา  
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส  
+<span class="LineNumber"> 005 </span>				คนฺถารมฺภกถา  
+<span class="LineNumber"> 006 </span>				พุทฺธํ สรณํ คจฺฉามิ  
+<span class="LineNumber"> 007 </span>				ธมฺมํ สรณํ คจฺฉามิ  
+<span class="LineNumber"> 008 </span>				สํฆํ  สรณํ คจฺฉามิ  
+<span class="LineNumber"> 009 </span>				ตถา ทุติยํ ตติยมฺปีติ  
+<span class="LineNumber"> 010 </span>อยํ สรณตฺตยนิทฺเทโส ขุทฺทกานํ อาทิ ฯ  
+<span class="LineNumber"> 011 </span>	อมิสฺส ทานิ อตฺถํ ปรมตฺถโชติกาย ขุทฺทกฏฺ€-
+<span class="LineNumber"> 012 </span>กถาย วิวริตุํ  วิภชิตุํ  อุตฺตานีกาตุํ  อิทํ วุจฺจติ  
+<span class="LineNumber"> 013 </span>	อุตฺตมํ วนฺทเนยฺยานํ	 วนฺทิตฺวา รตนตฺตยํ  
+<span class="LineNumber"> 014 </span>	ขุทฺทกานํ กริสฺสามิ	 เกสฺจิ อตฺถวณฺณนํ ฯ  
+<span class="LineNumber"> 015 </span>	ขุทฺทกานํ คมฺภีรตฺตา (๑) 	กิฺจาปิ อติทุกฺกรา  
+<span class="LineNumber"> 016 </span>	วณฺณนา มาทิเสเนว (๒)  	อจาเรนฺเตน สาสนํ ฯ  
+<span class="LineNumber"> 017 </span>	อชฺชาปิ ตุ อนจฺฉินฺโน        ปุพฺพาจริยนิจฺฉโย  
+<span class="LineNumber"> 018 </span>	ตเถว จ  €ิตํ  ยสฺมา  		นวงฺคํ สตฺถุ สาสนํ ฯ  
+<span class="LineNumber"> 019 </span># ๑. สี. คภีรตฺตา ฯ    ๒. ม. มาทิเสเนสา ฯ  

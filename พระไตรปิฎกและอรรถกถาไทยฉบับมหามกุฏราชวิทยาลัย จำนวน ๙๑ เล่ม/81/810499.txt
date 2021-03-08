@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>รูปังกุสลากุสลันติกถา</H1> 
+ 
+<span class="LineNumber"> 002 </span>         [๑๖๖๘]  <B>สกวาที</B>  รูปเป็นกุศล หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. รูปเป็นธรรมมีอารมณ์   ความนึก   ฯลฯ   ความตั้งใจ
+<span class="LineNumber"> 005 </span>แห่งรูปนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. รูปเป็นธรรมไม่มีอารมณ์ ความนึก ฯลฯ ความตั้งใจ
+<span class="LineNumber"> 008 </span>แห่งรูปนั้น ไม่มี มิใช่หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. หากว่า    รูปเป็นธรรมไม่มีอารมณ์   ความนึก   ฯลฯ
+<span class="LineNumber"> 011 </span>ความตั้งใจแห่งรูปนั้น ไม่มี ก็ต้องไม่กล่าวว่า  รูปเป็นกุศล.
+<span class="LineNumber"> 012 </span>         [๑๖๖๙]  ส. อโลภะเป็นกุศล   เป็นธรรมมีอารมณ์  ความนึก  ฯลฯ
+<span class="LineNumber"> 013 </span>ความตั้งใจแห่งอโลภะนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 014 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                       ส. รูปเป็นกุศล เป็นธรรมมีอารมณ์ ความนึก ฯลฯ ความ
+<span class="LineNumber"> 016 </span>ตั้งใจแห่งรูปนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 017 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 018 </span>                       ส. อโทสะเป็นกุศล  ฯลฯ  อโมหะเป็นกุศล   ฯลฯ   ศรัทธา
+<span class="LineNumber"> 019 </span>วิริยะ  สติ  สมาธิ  ฯลฯ   ปัญญา  เป็นกุศล  เป็นธรรมมีอารมณ์  ความนึก ฯลฯ
+<span class="LineNumber"> 020 </span>ความตั้งใจแห่งปัญญานั้นมีอยู่หรือ ?
+<span class="LineNumber"> 021 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 022 </span>         [๑๖๗๐]  ส. รูปเป็นกุศล     แต่เป็นธรรมไม่มีอารมณ์    ความนึก

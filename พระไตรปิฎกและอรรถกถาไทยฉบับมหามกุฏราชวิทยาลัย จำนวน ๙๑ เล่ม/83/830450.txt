@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่. 
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  บุคคลกำหนดรู้อวิชชานุสัย   จากที่ใด,  ย่อมกำหนดรู้   
+<span class="LineNumber"> 003 </span>วิจิกิจฉานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>                  <I>จบ  วิจิกิจฉานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 006 </span>                               <I>วิจิกิจฉานุสยมูล   จบ</I>
+
+<span class="LineNumber"> 007 </span>                                   <H1>ภวราคานุสยมูล</H1>
+<span class="LineNumber"> 008 </span><H2>ภวราคานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 009 </span>         [๑๔๓๖]   บุคคลกำหนดรู้ภวราคานุสัย  จากที่ใด, ย่อมกำหนด 
+<span class="LineNumber"> 010 </span>รู้อวิชชานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า   บุคคลกำหนดรู้อวิชชานุสัย  จากที่ใด,  ย่อมกำหนดรู้
+<span class="LineNumber"> 013 </span>ภวราคานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         บุคคลย่อมกำหนดรู้อวิชชานุสัย    จากที่นั้น     คือที่เวทนา   ๓
+<span class="LineNumber"> 015 </span>ในกามธาตุ  แต่ไม่ใช่จะกำหนดรู้ภวราคานุสัย   จากที่นั้น,   บุคคลย่อม
+<span class="LineNumber"> 016 </span>กำหนดรู้อวิชชานุสัย   และย่อมกำหนดรู้ภวราคานุสัย    จากที่นั้น   คือ
+<span class="LineNumber"> 017 </span>ที่รูปธาตุ   อรูปธาตุ.
+<span class="LineNumber"> 018 </span>                     <I>จบ  ภวราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 019 </span>                                  <I>ภวราคานุสยมูล  จบ</I>
+<span class="LineNumber"> 020 </span>                                      <I>เอกมูลกะ  จบ</I>

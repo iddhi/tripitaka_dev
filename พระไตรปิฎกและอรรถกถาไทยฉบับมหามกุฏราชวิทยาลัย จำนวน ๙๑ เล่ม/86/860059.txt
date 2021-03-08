@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         <B>ปัจจัย ๑๐</B>  คือ มัคคะ เหตุ สหชาตะ  อัญญมัญญะ  นิสสยะ วิปากะ
+<span class="LineNumber"> 002 </span>อินทริยะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.       
+<span class="LineNumber"> 003 </span>         <B>ปัจจัย ๑๐</B>  คือ  มัคคะ  เหตุ  อธิปติ  สหชาตะ  อัญญมัญญะ นิสสยะ 
+<span class="LineNumber"> 004 </span>อินทริยะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.           
+<span class="LineNumber"> 005 </span>         <B>ปัจจัย ๑๑</B>  คือ  มัคคะ  เหตุ  อธิปติ  สหชาตะ  อัญญมัญญะ  นิสสยะ
+<span class="LineNumber"> 006 </span>วิปากะ  อินทริยะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.
+
+<span class="LineNumber"> 007 </span>                                     <H1>๑๙. สัมปยุตตมูลกนัย</H1>
+<span class="LineNumber"> 008 </span>                                         <H1>สัมปยุตตสภาคะ</H1>
+<span class="LineNumber"> 009 </span>         [๑๒๐๗]  <B>เพราะสัมปยุตตปัจจัย</B>     ในเหตุปัจจัย    มี ๓ วาระ   ใน
+<span class="LineNumber"> 010 </span>อธิปติปัจจัย   มี ๓ วาระ   ในสหชาตปัจจัย   มี ๓ วาระ   ในอัญญมัญญปัจจัย
+<span class="LineNumber"> 011 </span>มี ๓ วาระ   ในนิสสยปัจจัย   มี ๓ วาระ  ในกัมมปัจจัย   มี ๓ วาระ   ในวิปาก
+<span class="LineNumber"> 012 </span>ปัจจัย  มี ๓ วาระ  ในอาหารปัจจัย  มี ๓ วาระ  ในอินทริยปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 013 </span>ในฌานปัจจัย   มี ๓ วาระ   ในมัคคปัจจัย  มี  ๓ วาระ   ในอัตถิปัจจัย   มี ๓
+<span class="LineNumber"> 014 </span>วาระ  ในอวิคตปัจจัย   มี ๓ วาระ
+
+<span class="LineNumber"> 015 </span>                                          <H1>สัมปยุตตฆฏนา</H1>
+<span class="LineNumber"> 016 </span>         [๑๒๑๘]  <B>ปัจจัย ๖</B> คือ สัมปยุตตะ  สหชาตะ  อัญญมัญญะ   นิสสยะ
+<span class="LineNumber"> 017 </span>อัตถิ   อวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>         ปัจจัย ๗   คือ  สัมปยุตตะ  สหชาตะ  อัญญมัญญะ   นิสสยะ  วิปากะ
+<span class="LineNumber"> 019 </span>อัตถิ   อวิคตปัจจัย   มี ๓ วาระ.

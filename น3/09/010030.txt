@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span><B>วยธมฺมานุปสฺสี  วา</B>			ย่อมพิจารณาเห็นธรรมดา คือความ   
+<span class="LineNumber"> 002 </span><B>จิตฺตสฺมึ  วิหรติ</B>			เสื่อมไปในจิตบ้าง  
+<span class="LineNumber"> 003 </span><B>สมุทยวยธมฺมานุปสฺสี วา</B>		ย่อมพิจารณาเห็นธรรมดาคือทั้ง
+<span class="LineNumber"> 004 </span><B>จิตฺตสฺมึ  วิหรติ</B>			ความเกิดขึ้นทั้งความเสื่อมไปใน
+<span class="LineNumber"> 005 </span>					จิตบ้าง
+<span class="LineNumber"> 006 </span><B>อตฺถิ  จิตฺตนฺติ  วา  ปนสฺส  สติ</B>	หรือสติ  (ความระลึก) ว่า จิตมีอยู่
+<span class="LineNumber"> 007 </span><B>ปจฺจุปฏ€ิตา  โหติ</B>			เข้าไปตั้งอยู่เฉพาะหน้าแก่เธอนั้น
+<span class="LineNumber"> 008 </span><B>ยาวเทว  าณมตฺตาย</B>		แต่เพียงสักว่าญาณ  (ความรู้)
+<span class="LineNumber"> 009 </span><B>ปติสฺสติมตฺตาย</B>			แต่เพียงสักวาอาศัยความระลึก
+<span class="LineNumber"> 010 </span><B>อนิสฺสิโต  จ  วิหรติ</B>			เธอย่อมเป็นผู้มีสันดานอันตัณหา
+<span class="LineNumber"> 011 </span>					และทิฏฐิไม่อาศัยอยู่ด้วย
+<span class="LineNumber"> 012 </span><B>น  จ  กิญฺจิ โลเก  อุปาทิยติ</B>	ย่อมไม่ถือมั่นอะไร ๆ ในโลกด้วย
+<span class="LineNumber"> 013 </span><B>เอวํ  โข  ภิกฺขเว  ภิกฺขุ  จิตฺเต</B>	ดูก่อนภิกษุทั้งหลาย  ภิกษุย่อม
+<span class="LineNumber"> 014 </span><B>จิตฺตานุปสฺสี  วิหรติ</B>			พิจารณาเห็นจิตในจิตเนือง ๆ  อยู่
+<span class="LineNumber"> 015 </span>					อย่างนี้แล.
+<span class="LineNumber"> 016 </span>                            <B>จิตฺตานุปสฺสนาสติปฏฺ€านํ</B>
+<span class="LineNumber"> 017 </span>                          จบจิตตานุปัสสนาสติปัฏฐาน.
+<span class="LineNumber"> 018 </span>                            [ธัมมานุปัสสนาสติปัฏฐาน]
+<span class="LineNumber"> 019 </span>	<B>๑.  กถญฺจ  ภิกฺขเว  ภิกฺขุ</B>  ดูก่อนภิกษุทั้งหลาย ก็อย่างไรภิกษุ,
+

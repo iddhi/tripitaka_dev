@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                       <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>         [๖๕๐]  ๑.  <B>สวิตักกธรรม อาศัยสวิตักกธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 004 </span>นเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>         พึงกระทำเป็น ๙ วาระ.
+<span class="LineNumber"> 006 </span>         พึงกำหนดคำว่า  เป็นอเหตุกะ ๓ วาระเท่านั้น   พึงยกโมหะออกเสีย.
+<span class="LineNumber"> 007 </span>เหมือนเหตุปัจจัยในปฏิจจวาระ  เพิ่มปัญจวิญญาณ  โมหะ  วิตก.
+
+<span class="LineNumber"> 008 </span>                                          <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 009 </span>                           <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 010 </span>         [๖๕๑]  ในนเหตุปัจจัย  มี ๙ วาระ  ในนอารัมมณปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 011 </span>ในนอธิปติปัจจัย  มี ๙ วาระ  ในนอนันตรปัจจัย มี ๓ วาระ  ฯลฯ    ในนอุป-
+<span class="LineNumber"> 012 </span>นิสสยปัจจัย  มี ๓ วาระ   ในนปุเรชาตปัจจัย  มี ๙ วาระ  ในนปัจฉาชาตปัจจัย
+<span class="LineNumber"> 013 </span>มี ๙ วาระ  ในนอาเสวนปัจจัย   มี ๙ วาระ  ในนกัมมปัจจัย มี ๔ วาระ  ใน
+<span class="LineNumber"> 014 </span>นวิปากปัจจัย  มี ๙ วาระ    ในนอาหารปัจจัย มี ๑ วาระ    ในนอินทริยปัจจัย
+<span class="LineNumber"> 015 </span>มี  ๑ วาระ  ในนฌานปัจจัย มี ๑ วาระ  ในนมัคคปัจจัย มี ๙ วาระ  ในนสัมป-  
+<span class="LineNumber"> 016 </span>ยุตตปัจจัย มี ๓ วาระ    ในนวิปปยุตตปัจจัย   มี ๖ วาระ     ในโนนัตถิปัจจัย
+<span class="LineNumber"> 017 </span>มี  ๓ วาระ  ในโนวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>         การนับทั้งสองนัยนอกนี้ก็ดี  นิสสยวาระก็ดี  พึงกระทำอย่างนี้.

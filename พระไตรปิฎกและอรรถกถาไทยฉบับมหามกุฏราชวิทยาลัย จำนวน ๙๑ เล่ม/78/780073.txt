@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                   กระดูกส้นเท้า                        ๒ ท่อน
+<span class="LineNumber"> 002 </span>                   กระดูกข้อเท้าสองข้าง            ๒ ท่อน 
+<span class="LineNumber"> 003 </span>                   กระดูก แข้งสองข้าง              ๒ ท่อน
+<span class="LineNumber"> 004 </span>                   กระดูกเข่าสองข้าง                 ๒ ท่อน
+<span class="LineNumber"> 005 </span>                   กระดูกขา                               ๒ ท่อน
+<span class="LineNumber"> 006 </span>                   กระดูกสะเอว                         ๒ ท่อน
+<span class="LineNumber"> 007 </span>                   กระดูกสันหลัง                     ๑๘ ท่อน
+<span class="LineNumber"> 008 </span>                   กระดูกซี่โครง                       ๒๔ ท่อน
+<span class="LineNumber"> 009 </span>                   กระดูกหน้าอก                      ๑๔ ท่อน
+<span class="LineNumber"> 010 </span>                   กระดูกใกล้หัวใจ                      ๑ ท่อน
+<span class="LineNumber"> 011 </span>                   กระดูกไหปลาร้า                      ๒ ท่อน
+<span class="LineNumber"> 012 </span>                   กระดูกสะบัก                            ๒ ท่อน
+<span class="LineNumber"> 013 </span>                   กระดูกแขนท่อนบน                  ๒ ท่อน
+<span class="LineNumber"> 014 </span>                   กระดูกแขนท่อนล่างสองข้าง    ๔ ท่อน
+<span class="LineNumber"> 015 </span>                   กระดูกคอ                                  ๗ ท่อน
+<span class="LineNumber"> 016 </span>                   กระดูกคาง                                 ๒ ท่อน
+<span class="LineNumber"> 017 </span>                   กระดูกดั้งจมูก                            ๑ ท่อน
+<span class="LineNumber"> 018 </span>                   กระดูกเบ้าตา                              ๒ ท่อน
+<span class="LineNumber"> 019 </span>                   กระดูกหู                                     ๒ ท่อน
+<span class="LineNumber"> 020 </span>                   กระดูกหน้าผาก                           ๑ ท่อน
+<span class="LineNumber"> 021 </span>                   กระดูกกระหม่อม                        ๑ ท่อน
+<span class="LineNumber"> 022 </span>                   กระดูก  (กระโหลก)  ศีรษะ         ๙ ท่อน
+	

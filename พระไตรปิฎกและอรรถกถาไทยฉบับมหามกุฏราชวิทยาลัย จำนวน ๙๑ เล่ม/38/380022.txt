@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>ผู้ก่อให้ความเสื่อมใสโดยรอบ   และเป็นผู้บริบูรณ์ด้วยอาการทั้งปวง. 
+<span class="LineNumber"> 002 </span>                                            จบวิชชยสูตรที่  ๑๐
+<span class="LineNumber"> 003 </span>                                   <I>จบอานิสังสสูตรที่ ๑</I>
+<span class="LineNumber"> 004 </span>                  <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 005 </span>         ๑.  กิมัตถิยสูตร   ๒.  เจตนาสูตร   ๓.  สีลสูตร   ๔.  อุปนิสาสูตร
+<span class="LineNumber"> 006 </span>๕.  อานันทสูตร    ๖. สมาธิสูตร     ๗. สาริปุตตสูตร    ๘. สัทธาสูตร
+<span class="LineNumber"> 007 </span>๙. สันตสูตร    ๑๐. วิชชยสูตร.

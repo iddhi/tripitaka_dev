@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>ปรมัตถทีปนี</H2> 
+<span class="LineNumber"> 002 </span>                                <H2>อรรถกถาปัญจปกรณ์</H2>
+<span class="LineNumber"> 003 </span>                                   <H2>อรรถกถากถาวัตถุ</H2>	 
+<span class="LineNumber"> 004 </span>                                          <H2>อารัมภกถา</H2>
+<span class="LineNumber"> 005 </span>                             <B>พระสัมมาสัมพุทธะผู้เป็นศาสดาของชาว
+<span class="LineNumber"> 006 </span>                   โลกพร้อมทั้งเทวโลก      ผู้หาบุคคลอื่นเปรียบ
+<span class="LineNumber"> 007 </span>                   มิได้   ผู้อันหมู่แห่งทวยเทพยกย่องแล้ว    ทรง
+<span class="LineNumber"> 008 </span>                   ประทับนั่ง  ณ  เทวโลก.      พระองค์ทรงเป็นผู้
+<span class="LineNumber"> 009 </span>                   ฉลาดในบัญญัติทั้งปวง   ทรงเป็นอุตตมบุคคล
+<span class="LineNumber"> 010 </span>                   ในโลก  ครั้นตรัสคัมภีร์ปุคคลบัญญัติอันแสดง
+<span class="LineNumber"> 011 </span>                   ถึงบัญญัติจบลงแล้ว      จึงทรงแสดงกถาวัตถุ
+<span class="LineNumber"> 012 </span>                   ปกรณ์โดยความเป็นเรื่องแห่งถ้อยคำ     มีเรื่อง
+<span class="LineNumber"> 013 </span>                   บุคคลเป็นต้นอันใดไว้แล้วโดยสังเขป.
+<span class="LineNumber"> 014 </span>                             บัดนี้     ลำดับแห่งการสังวรรณนาเนื้อ
+<span class="LineNumber"> 015 </span>                   ความที่พระผู้มีพระภาคเจ้าทรงตั้งไว้แล้วใน
+<span class="LineNumber"> 016 </span>                   สุราลัยเทวโลกโดยการเริ่มตั้งไว้แต่เพียงหัวข้อ
+<span class="LineNumber"> 017 </span>                   นั่นแหละ   อันพระโมคคัลลีบุตรติสสเถระเจ้า</B>

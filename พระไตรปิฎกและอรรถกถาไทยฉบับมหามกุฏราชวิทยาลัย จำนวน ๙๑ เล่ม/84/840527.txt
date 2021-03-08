@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า    มนินทรีย์จักเกิดแก่บุคคลใด,     ฆานินทรีย์ก็จักเกิด
+<span class="LineNumber"> 003 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         บุคคลเหล่าใดจักเกิดในรูปาวจรภูมิก็ดี  ในอรูปาวจรภูมิก็ดี มนิน-
+<span class="LineNumber"> 005 </span>ทรีย์จักเกิดแก่บุคคลเหล่านั้น   แต่ฆานินทรีย์ไม่ใช่จักเกิดแก่บุคคลเหล่า
+<span class="LineNumber"> 006 </span>นั้น   บุคคลนอกนี้   มนินทรีย์จักเกิด  และฆานินทรีย์ก็จักเกิดแก่บุคคล
+<span class="LineNumber"> 007 </span>เหล่านั้น.
+<span class="LineNumber"> 008 </span>  <I>จบ  ฆานินทริยมูละ   สัทธินทริย  ฯลฯ   ปัญญินทริย   มนินทริยมูลี</I>
+<span class="LineNumber"> 009 </span>                                    <I>ฆานินทริยมูล   จบ</I>

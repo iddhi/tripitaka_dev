@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อุปาลิตฺเถรคาถาวณฺณนา  หน้า 777
+	
+<span class="LineNumber"> 002 </span>		ตํ เทวา ปยิรุปาสนฺติ	ตาวทูรผเล สติ(๑)  
+<span class="LineNumber"> 003 </span>		เทวานํ สา ปิยา เอวํ	อาสาวตี ลตุตฺตมา(๒) ฯ  
+<span class="LineNumber"> 004 </span>		สตสหสฺสุปาทาย		ตาหํ ปริจเร มุนิ(๓)  
+<span class="LineNumber"> 005 </span>		สายํ ปาตํ นมสฺสามิ	เทวา อาสาวตึ ยถา ฯ  
+<span class="LineNumber"> 006 </span>		อวฺฌา ปาริจริยา (๔)	อโมฆา จ นมสฺสนา  
+<span class="LineNumber"> 007 </span>		ทูราคตมฺปิ มํ สนฺตํ	ขโณ มํ (๕) น วิราธยิ ฯ  
+<span class="LineNumber"> 008 </span>		ปฏิสนฺธึ น ปสฺสามิ	วิจินนฺโต ภเว อหํ  
+<span class="LineNumber"> 009 </span>		นิรูปธิ วิปฺปมุตฺโต		อุปสนฺโต จรามหํ ฯ  
+<span class="LineNumber"> 010 </span>		ยถาปิ ปทุมํ นาม		สูริยรํเสน ปุปฺผติ  
+<span class="LineNumber"> 011 </span>		ตเถวาหํ มหาวีร		พุทฺธรํเสน ปุปฺผิโต ฯ  
+<span class="LineNumber"> 012 </span>		ยถา พลากโยนิมฺหิ  น	วิชฺชติ ปุมา (๖) สทา  
+<span class="LineNumber"> 013 </span>		เมเฆสุ คชฺชมาเนสุ	คพฺภํ คณฺหนฺติ ตา สทา ฯ  
+<span class="LineNumber"> 014 </span>		จิรมฺปิ คพฺภํ ธาเรนฺติ	ยาว เมโฆ น คชฺชติ  
+<span class="LineNumber"> 015 </span>		ภารโต ปริมุจฺจนฺติ		ยทา เมโฆ ปวสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		ปทุมุตฺตรพุทฺธสฺส		ธมฺมเมเฆน คชฺชโต(๗) 
+<span class="LineNumber"> 017 </span>		สทฺเทน ธมฺมเมฆสฺส	ธมฺมคพฺภํ อคณฺหหํ ฯ  
+<span class="LineNumber"> 018 </span>		สตสหสฺสุปาทาย		ปุฺคพฺภํ ธเรมหํ  
+<span class="LineNumber"> 019 </span>		นปฺปมุจฺจามิ ภารโต	ธมฺมเมโฆ น คชฺชติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. ตาว ทูรผลํ สกึ ฯ  ๒. สฺยา. ผลุตฺตมา ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. มุนึ ฯ  ๔. สี. ปริจริยา เม ฯ  ๕. สฺยา. สี. ขโณ มํ ฯ
+<span class="LineNumber"> 022 </span># ๖. สฺยา. สี. ปุมา ฯ ๗. สี. คชฺชิโต ฯ 

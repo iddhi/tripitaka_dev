@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                               ธรรมวิจารณ์ 
+<span class="LineNumber"> 002 </span>                               ส่วนสังสารวัฏ
+<span class="LineNumber"> 003 </span>                           โดยบุคคลาธิษฐาน
+<span class="LineNumber"> 004 </span>                                        คติ
+<span class="LineNumber"> 005 </span>                                     อุทเทส
+<span class="LineNumber"> 006 </span>	<B>๑.  จิตฺเต  สงฺกิลิฏฺเ€  ทุคฺคติ  ปาฏิกงฺขา.</B>
+<span class="LineNumber"> 007 </span>	เมื่อจิตเศร้าหมองแล้ว  ทุคติเป็นอันต้องหวัง.
+<span class="LineNumber"> 008 </span>	<B>๒.  จิตฺเต  อสงฺกิลิฏฺเ€  สุคติ  ปาฏิกงฺขา.</B>
+<span class="LineNumber"> 009 </span>	เมื่อจิตไม่เศร้าหมองแล้ว  สุคติเป็นอันหวังได้.
+<span class="LineNumber"> 010 </span>                                วตฺถูปมสุตฺต.<SUP>๑</SUP>
+<span class="LineNumber"> 011 </span>                                 พรรณนาความ
+<span class="LineNumber"> 012 </span>	ลัทธิทั้งหลายรับรองการเวียนเกิดในกำเนิดต่าง ๆ  อย่างไร และ
+<span class="LineNumber"> 013 </span>พระพุทธศาสนาอนุมัติเพียงไร ได้กล่าวแล้วในเรื่องนี้  ส่วนปรมัตถ-
+<span class="LineNumber"> 014 </span>ปฏิปทาอธิการแห่งนิพพาน  จักไม่กล่าวซ้ำอีก  ในอธิการนี้ จักพรรณนา
+<span class="LineNumber"> 015 </span>ความแห่งอุทเทสทีเดียว.  ใน ๒  อุทเทสข้างต้น  ได้คติคือ  ภูมิเป็นที่
+<span class="LineNumber"> 016 </span>ไปหรือเป็นที่ถึงเบื้องหน้าแต่มรณะเป็น ๒ คือ  ทุคติ  ภูมิเป็นที่ไปข้าง
+<span class="LineNumber"> 017 </span>ชั่ว ๑ สติ  ภูมิเป็นที่ไปข้างดี  ๑.  คติทั้ง ๒ นั้น  แจกออกไปโดย
+<span class="LineNumber"> 018 </span>ประเภทในบาลีแห่งสูตรทั้งหลายต่าง ๆ กัน.
+
+<span class='footnote'>๑.  ม. มู.  ๑๒/๖๔.</span>

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อฏฺ€มวคฺเค มาณวตฺเถรคาถาวณฺณนา หน้า 353
+	
+<span class="LineNumber"> 002 </span>		ราชา วิโลกโน นาม	กปฺปานํ เอกสีติยา  
+<span class="LineNumber"> 003 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 004 </span>		คิรสาโรติ(๑) นาเมน	กปฺเปสีติมฺหิ ขตฺติโย  
+<span class="LineNumber"> 005 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 006 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	อธิคตารหตฺโต  ปน  ภิกฺขูหิ  เกน  ตฺวํ  อาวุโส  สํเวเคน
+<span class="LineNumber"> 008 </span>อติทหโรว สมาโน  ปพฺพชิโตติ ปุจฺฉิโต อตฺตโน ปพฺพชฺชา
+<span class="LineNumber"> 009 </span>นิมิตฺตกิตฺตนาปเทเสน อฺํ พฺยากโรนฺโต  
+<span class="LineNumber"> 010 </span>		ชิณฺณฺจ ทิสฺวา ทุขิตฺจ พฺยาธิตํ  
+<span class="LineNumber"> 011 </span>		มตฺจ ทิสฺวา คตมายุสงฺขยํ  
+<span class="LineNumber"> 012 </span>		ตโต อหํ นิกฺขมิตูน ปพฺพชึ  
+<span class="LineNumber"> 013 </span>		ปหาย (๒) กามานิ มโนรมานีติ(๓)  
+<span class="LineNumber"> 014 </span>คาถํ อภาสิ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  ชิณฺณนฺติ  ชราย  อภิภูตํ  ขณฺฑิจฺจปาลิจฺจ-
+<span class="LineNumber"> 016 </span>วลิตฺตจตาทีหิ สมงฺคีภูตํ ฯ 
+<span class="LineNumber"> 017 </span># ๑. สฺยา. คิริสาโรติ ฯ  ๒. สี. หิตฺวาน ฯ  ๓. ขุ. เถร. ๒๖/๒๑๐/๒๗๗ ฯ 

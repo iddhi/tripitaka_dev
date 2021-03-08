@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>๘. นิสสยมูลกนัย</H1> 
+<span class="LineNumber"> 002 </span>                                <H1>นิสสยสภาคะ ๑๗</H1>
+<span class="LineNumber"> 003 </span> <B>[๖๔๐]  เพราะนิสสยปัจจัย</B>   ในเหตุปัจจัย มี ๗ วาระ... ในอารัมมณ-
+<span class="LineNumber"> 004 </span>ปัจจัย  มี ๓ วาระ   โนอธิปติปัจจัย   มี ๘ วาระ   ในสหชาตปัจจัย   มี ๙  
+<span class="LineNumber"> 005 </span>วาระ    ในอัญญมัญญปัจจัย  มี ๓ วาระ    ในอุปนิสสยปัจจัย   มี ๑ วาระ
+<span class="LineNumber"> 006 </span>ในปุเรชาตปัจจัย   มี๓ วาระ   ในกัมมปัจจัย   มี ๗ วาระ  ในวิปากปัจจัย
+<span class="LineNumber"> 007 </span>มี ๑ วาระ    ในอาหารปัจจัย   มี ๗ วาระ   ในอินทริยปัจจัย  มี ๗ วาระ
+<span class="LineNumber"> 008 </span>ในฌานปัจจัย   มี๗ วาระ   ในมัคคปัจจัย   มี ๗ วาระ  ในสัมปยุตตปัจจัย
+<span class="LineNumber"> 009 </span>มี ๓ วาระ   ในวิปปยุตตปัจจัย   มี ๕ วาระ   ในอัตถิปัจจัย    มี ๑๓ วาระ
+<span class="LineNumber"> 010 </span>ในอวิคตปัจจัย   มี ๑๓ วาระ. 
+
+<span class="LineNumber"> 011 </span>                                    <H1>นิสสยฆฏนา ๒๐</H1>
+<span class="LineNumber"> 012 </span>                                  <H1>ปกิณณกฆฏนา ๑๐</H1><SUP>๑</SUP>
+<span class="LineNumber"> 013 </span> <B>[๖๔๑] ๑.  ปัจจัย ๓</B>  คือ นิสสยะ   อัตถิ   อวิคตปัจจัย   มี ๑๓
+<span class="LineNumber"> 014 </span>วาระ.
+<span class="LineNumber"> 015 </span>             <B>๒.  ปัจจัย  ๔</B>   คือ  นิสสยะ   อธิปติ   อัตถิ   อวิคตปัจจัย
+<span class="LineNumber"> 016 </span>มี ๘ วาระ.
+<span class="LineNumber"> 017 </span>             <B>๓.  ปัจจัย  ๔</B>  คือ นิสสยะ  อินทริยะ  อัตถิ อวิคตปัจจัย
+<span class="LineNumber"> 018 </span>มี ๗ วาระ.
+<span class="LineNumber"> 019 </span>            <B>๔.  ปัจจัย ๔</B>  คือ นิสสยะ  วิปปยุตตะ อัตถิ อวิคตปัจจัย
+<span class="LineNumber"> 020 </span>มี ๕ วาระ.
+<span class='footnote'>๑.  ฆ. ๑  ถึง  ฆ. ๖  เป็นมิสสกฆฏนา.</span>

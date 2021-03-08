@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         [ ๘๖ ]   ธรรมที่ชื่อว่าสัญญา,   ชื่อว่าขันธ์  ใช่ไหม  ? 
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าขันธ์,   ชื่อว่าเวทนาขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         เวทนาขันธ์ชื่อว่าขันธ์ด้วย   ชื่อว่าเวทนาขันธ์ด้วย   ขันธ์ที่เหลือ
+<span class="LineNumber"> 005 </span>นอกนั้นชื่อว่าขันธ์  ไม่ชื่อว่าเวทนาขันธ์.
+<span class="LineNumber"> 006 </span>         [ ๘๗ ]   ธรรมที่ชื่อว่าสัญญา,   ชื่อว่าขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ธรรมที่ชื่อว่าขันธ์,   ชื่อว่าสังขารขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         สังขารขันธ์ชื่อว่าขันธ์ด้วย   ชื่อว่าสังขารขันธ์ด้วย  ขันธ์ที่เหลือ
+<span class="LineNumber"> 010 </span>นอกนั้นชื่อว่าขันธ์  ไม่ชื่อว่าสังขารขันธ์.
+<span class="LineNumber"> 011 </span>         [ ๘๘ ]   ธรรมที่ชื่อว่าสัญญา,   ชื่อว่าขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าขันธ์,  ชื่อว่าวิญญาณขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         วิญญาณขันธ์ชื่อว่าขันธ์ด้วย   ชื่อว่าวิญญาณขันธ์ด้วย   ขันธ์ที่
+<span class="LineNumber"> 015 </span>เหลือนอกนั้นชื่อว่าขันธ์  ไม่ชื่อว่าวิญญาณขันธ์.
+<span class="LineNumber"> 016 </span>                                  <I>จบ  สัญญาขันธมูล</I>

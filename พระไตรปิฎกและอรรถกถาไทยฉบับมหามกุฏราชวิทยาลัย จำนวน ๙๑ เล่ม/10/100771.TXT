@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.  ไม่รู้อาบัติ  
+<span class="LineNumber"> 002 </span>           ๒.  ไม่รู้สมุฏฐานอาบัติ
+<span class="LineNumber"> 003 </span>           ๓.  ไม่รู้ประโยคอาบัติ
+<span class="LineNumber"> 004 </span>           ๔.  ไม่รู้ความระงับอาบัติ
+<span class="LineNumber"> 005 </span>           ๕.  ไม่ฉลาดในการวินิจฉัยอาบัติ
+<span class="LineNumber"> 006 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  นี้แล  ไม่พึงพูดในสงฆ์
+
+<span class="LineNumber"> 007 </span>                                    <H1>ภิกษุควรพูดในสงฆ์</H1>
+<span class="LineNumber"> 008 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕ พึงพูดในสงฆ์  องค์ ๕ อะไร
+<span class="LineNumber"> 009 </span>บ้าง  คือ:-
+<span class="LineNumber"> 010 </span>           ๑.  รู้อาบัติ
+<span class="LineNumber"> 011 </span>           ๒.  รู้สมุฏฐานอาบัติ
+<span class="LineNumber"> 012 </span>           ๓.  รู้ประโยคอาบัติ
+<span class="LineNumber"> 013 </span>           ๔.  รู้ความระงับอาบัติ
+<span class="LineNumber"> 014 </span>           ๕.  ฉลาดในการวินิจฉัยอาบัติ
+<span class="LineNumber"> 015 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  นี้แล  พึงพูดในสงฆ์
+
+<span class="LineNumber"> 016 </span>                             <H1>ภิกษุไม่ควรพูดในสงฆ์อีกนัยหนึ่ง</H1>
+<span class="LineNumber"> 017 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕ แม้อื่นอีก   ไม่พึงพูดในสงฆ์  
+<span class="LineNumber"> 018 </span>องค์ ๕  อะไรบ้าง  คือ:-
+<span class="LineNumber"> 019 </span>           ๑.  ไม่รู้อธิกรณ์
+<span class="LineNumber"> 020 </span>           ๒.  ไม่รู้สมุฏฐานอธิกรณ์                     

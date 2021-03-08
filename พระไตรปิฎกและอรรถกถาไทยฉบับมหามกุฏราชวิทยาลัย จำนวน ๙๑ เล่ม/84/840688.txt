@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า     มนินทรีย์เคยเกิดแก่บุคคลใด,     ชีวิตินทรีย์ก็กำลัง
+<span class="LineNumber"> 003 </span>เกิดแก่บุคคลนั้น    ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         เมื่อบุคคลทั้งหมดกำลังตายก็ดี  ในภังคขณะแห่งจิตในปวัตติกาล 
+<span class="LineNumber"> 005 </span>ก็ดี       มนินทรีย์เคยเกิดแก่บุคคลเหล่านั้น        แต่ชีวิตินทรีย์ไม่ใช่กำลัง
+<span class="LineNumber"> 006 </span>เกิดแก่บุคคลเหล่านั้น,     เมื่อบุคคลทั้งหมดกำลังเกิดอยู่ก็ดี   ในอุปปาท-
+<span class="LineNumber"> 007 </span>ขณะแห่งจิตในปวัตติกาลก็ดี   มนินทรีย์เคยเกิด   และชีวิตินทรีย์ก็กำลัง
+<span class="LineNumber"> 008 </span>เกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 009 </span>  <I>จบ   ชีวิตินทริยมูละ   อุเปกขินทริย   ฯลฯ    สัทธินทริย    ปัญญินทริย</I> 
+<span class="LineNumber"> 010 </span>                                          <I>มนินทริยมูลี</I>                              
+<span class="LineNumber"> 011 </span>                                      <I>ชีวิตินทริยมูล   จบ</I>

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>๓.  ทิฆะ  สระที่ออกเสียงยาว. 
+<span class="LineNumber"> 002 </span>๔.  รัสสะ  สระที่ออกเสียงสั้น.
+<span class="LineNumber"> 003 </span>๕.  ครุ  สระที่มีพยัญชนะสังโยค.
+<span class="LineNumber"> 004 </span>๖.  ลหุ  สระที่ไม่มีพยัญชนะสังโยค.
+<span class="LineNumber"> 005 </span>๗.  นิคคหิต  อักขระที่ว่ากดเสียง.
+<span class="LineNumber"> 006 </span>๘.  วิมุต  อักขระที่ว่าปล่อยเสียง.
+<span class="LineNumber"> 007 </span>๙.  สัมพันธ์  บทเข้าสนธิเชื่อมกับบทอื่น.
+<span class="LineNumber"> 008 </span>๑๐. ววัตถิตะ  บทแยกกัน.
+<span class="LineNumber"> 009 </span>     กรรมย่อมเสียเพราะว่าผิดพลาดในประเภทพยัญชนะ  ๔  คือ :-
+<span class="LineNumber"> 010 </span>๑.  ว่าสิถิลเป็นธนิต  เช่นว่า  <B>" สุณาตุ  เม "</B>  เป็น  <B>" สุณาถุ  เม."</B>
+<span class="LineNumber"> 011 </span>๒.  ว่าธนิตเป็นสิถิล  เช่นว่า  <B>" ภนฺเต  สงฺโฆ "</B>  เป็น  <B>"พนฺเต  สงฺโค."</B>
+<span class="LineNumber"> 012 </span>๓.  ว่าวิมุตเป็นนิคคหิต  เช่นว่า  <B>" เอสาตฺติ "</B>  เป็น  <B>" เอสํ  ตฺติ."</B>
+<span class="LineNumber"> 013 </span>๔.  ว่านิคคหิตเป็นวิมุต  เช่นว่า  <B>" ปตฺตกลฺลํ "</B>  เป็น  <B>" ปตฺตกลฺลา."</B>
+<span class="LineNumber"> 014 </span>(ส่วนอีก  ๖ สถานนั้น  ว่ากลับกันหรือแยกกัน  กรรมวาจาไม่
+<span class="LineNumber"> 015 </span>เสีย  แต่ควรว่าให้ถูกและดี).

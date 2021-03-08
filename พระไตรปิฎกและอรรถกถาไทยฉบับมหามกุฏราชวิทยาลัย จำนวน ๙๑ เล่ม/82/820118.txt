@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๑๑]   ธรรมที่ไม่ชื่อว่าสังขาร,  ไม่ชื่อว่าขันธ์  ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         ใช่.   
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่าขันธ์,  ไม่ชื่อว่าสัญญาขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         [๑๑๒]   ธรรมที่ไม่ชื่อว่าสังขาร,  ไม่ชื่อว่าขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่าขันธ์,  ไม่ชื่อว่าวิญญาณขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ใช่. 
+<span class="LineNumber"> 009 </span>                                <I>จบ  น  สังขารขันธมูล</I>
+<span class="LineNumber"> 010 </span>                                  <H1>น  วิญญาณขันธมูล</H1>
+<span class="LineNumber"> 011 </span>         [๑๑๓]   ธรรมที่ไม่ชื่อว่าวิญญาณ,  ไม่ชื่อว่าขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ยกเว้นวิญญาณเสียแล้ว    ขันธ์ที่เหลือนอกนั้นไม่ชื่อว่าวิญญาณ
+<span class="LineNumber"> 013 </span>ชื่อว่าขันธ์    ยกเว้นวิญญาณและขันธ์เสียแล้ว    สภาวธรรมที่เหลือนอก 
+<span class="LineNumber"> 014 </span>นั้น  ไม่ชื่อว่าวิญญาณและไม่ชื่อว่าขันธ์.
+<span class="LineNumber"> 015 </span>         ธรรมที่ไม่ชื่อว่าขันธ์,  ไม่ชื่อว่ารูปขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         ใช่.

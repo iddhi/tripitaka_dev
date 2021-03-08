@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  30
+
+<span class="LineNumber"> 002 </span>อตฺตภาเว กปิลวตฺถุ  นาม  นครํ  นิวาโส  ภวิสฺสติ มายา
+<span class="LineNumber"> 003 </span>นาม เทวี มาตา สุทฺโธทโน นาม  ราชา  ปิตา  อคฺคสาวโก  
+<span class="LineNumber"> 004 </span>อุปติสฺโส  นาม เถโร ทุติยสาวโก โกลิโต  นาม  เถโร
+<span class="LineNumber"> 005 </span>พุทฺธุปฏฺ€าโก  อานนฺโท  นาม  อคฺคสาวิกา  เขมา นาม เถรี  
+<span class="LineNumber"> 006 </span>ทุติยสาวิกา  อุปฺปลวณฺณา  นาม  เถรี  ภวิสฺสติ  ปริปกฺกาโณ  
+<span class="LineNumber"> 007 </span>มหาภินิกฺขมนํ  กตฺวา  มหาปธานํ  ปทหิตฺวา  นิโคฺรธมูเล 
+<span class="LineNumber"> 008 </span>ปายาสํ  ปฏิคฺคเหตฺวา  เนรฺชราย  ตีเร  ปริภุฺชิตฺวา  โพธิมณฺฑํ  
+<span class="LineNumber"> 009 </span>อารุยฺห  อสฺสตฺถรุกฺขมูเล อภิสมฺพุชฺฌิสฺสตีติ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 010 </span>	ทีปงฺกโร โลกวิทู		อาหุตีนํ ปฏิคฺคโห  
+<span class="LineNumber"> 011 </span>	อุสฺสีสเก มํ €ตฺวาน		อิทํ วจนมพฺรวิ  
+<span class="LineNumber"> 012 </span>	ปสฺสถ อิมํ ตาปสํ		ชฏิลํ อุคฺคตาปนํ  
+<span class="LineNumber"> 013 </span>	อปริเมยฺเย อิโต กปฺเป	พุทฺโธ โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>	อหู กปิลวฺหยา รมฺมา	นิกฺขมิตฺวา ตถาคโต  
+<span class="LineNumber"> 015 </span>	ปธานํ ปทหิตฺวาน		กตฺวา ทุกฺกรการิกํ ฯ  
+<span class="LineNumber"> 016 </span>	อชปาลรุกฺขมูลสฺมึ		นิสีทิตฺวา ตถาคโต  
+<span class="LineNumber"> 017 </span>	ตตฺถ ปายาสํ ปคฺคยฺห	เนรฺชรมุเปหิติ ฯ  
+<span class="LineNumber"> 018 </span>	เนรฺชราย ตีรมฺหิ		ปายาสํ อาทาย (๑) โส ชิโน  
+<span class="LineNumber"> 019 </span>	ปฏิยตฺตวรมคฺเคน		โพธิมูลมฺหิ เอหิติ (๒)  
+<span class="LineNumber"> 020 </span>	ตโต ปทกฺขิณํ กตฺวา		โพธิมณฺฑํ อนุตฺตโร  
+<span class="LineNumber"> 021 </span>	อสฺสตฺถรุกฺขมูลมฺหิ(๓)	พุชฺฌิสฺสติ มหายโส ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. อทฯ ๒. ม. โพธิมูลมุเปหิติ ฯ  ๓. ม. อสฺสตฺถรุกฺขมูลมฺหิ ฯ 

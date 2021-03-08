@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                           		<H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 002 </span>		[๕๑๙]  ในนอธิปติปัจจัย มี ๓ วาระ  ในนปุเรชาตปัจจัย มี ๓ วาระ 
+<span class="LineNumber"> 003 </span>ในนปัจฉาชาตปัจจัย  มี ๓ วาระ  ในนอาเสวนปัจจัย มี ๓ วาระ   ในนวิปาก-
+<span class="LineNumber"> 004 </span>ปัจจัย  มี ๓ วาระ  ในนวิปปยุตตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 005 </span>            สหชาตวาระก็ดี   ฯลฯ   สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+                                       
+<span class="LineNumber"> 006 </span>                       	     <H1>เหตุสเหตุกบทปัญหาวาระ</H1>
+<span class="LineNumber"> 007 </span>                           		<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                            	     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>		[๕๒๐]  ๑.  ธรรมที่เป็นทั้งเหตุธรรม  และสเหตุกธรรมที่เป็น
+<span class="LineNumber"> 010 </span>กุศล  เป็นปัจจัยแก่ธรรมที่เป็นทั้งเหตุธรรม   และสเหตุกธรรมที่เป็น
+<span class="LineNumber"> 011 </span>กุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                        ๒.  ธรรมที่เป็นทั้งเหตุธรรม   และสเหตุกธรรมที่เป็น
+<span class="LineNumber"> 013 </span>อกุศล  เป็นปัจจัยแก่ธรรมที่เป็นทั้งเหตุธรรม  และสเหตุกธรรมที่เป็น
+<span class="LineNumber"> 014 </span>อกุศล   ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                        ๓.  ธรรมที่เป็นทั้งเหตุธรรม  และสเหตุกธรรมที่เป็น
+<span class="LineNumber"> 016 </span>อัพยากตะ   เป็นปัจจัยแก่ธรรมที่เป็นทั้งเหตุธรรม   และสเหตุกธรรม
+<span class="LineNumber"> 017 </span>ที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย

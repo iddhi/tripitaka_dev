@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  อุมฺมาทนฺตีชาตกํ  หน้า  41
+
+<span class="LineNumber"> 002 </span>	[๔๑]อหํ สหิสฺสํ อุปวาทเมตํ  
+<span class="LineNumber"> 003 </span>		นินฺทํ ปสํสํ ครหฺจ สพฺพํ  
+<span class="LineNumber"> 004 </span>		มเมตํ อาคจฺฉตุ ภูมิปาล  
+<span class="LineNumber"> 005 </span>		ยถาสุขํ สีวิ กโรหิ กามํ ฯ  
+<span class="LineNumber"> 006 </span>		โย เนว นินฺทํ น ปุนปฺปสํสํ  
+<span class="LineNumber"> 007 </span>		อาทิยติ ครหํ โนปิ ปูชํ  
+<span class="LineNumber"> 008 </span>		สิรี จ ลกฺขี จ อเปติ ตมฺหา  
+<span class="LineNumber"> 009 </span>		อาโป สุวุฏฺ€ีว ยถา ถลมฺหา ฯ  
+<span class="LineNumber"> 010 </span>		ยงฺกิฺจิ ทุกฺขฺจ สุขฺจ เอโต  
+<span class="LineNumber"> 011 </span>		ธมฺมาติสารฺจ มโนวิฆาฏํ  
+<span class="LineNumber"> 012 </span>		อุรสา อหํ ปฏิจฺฉิสฺสามิ สพฺพํ  
+<span class="LineNumber"> 013 </span>		ป€วี ยถา ถาวรานํ ตสานํ ฯ  
+<span class="LineNumber"> 014 </span>	[๔๒]ธมฺมาติสารฺจ มโนวิฆาฏํ  
+<span class="LineNumber"> 015 </span>		ทุกฺขฺจ นิจฺฉามิ อหํ ปเรสํ  
+<span class="LineNumber"> 016 </span>		เอโกปิมํ ตารยิสฺสามิ ภารํ  
+<span class="LineNumber"> 017 </span>		ธมฺเม €ิโต กิฺจิ อหาปยนฺโต ฯ  
+<span class="LineNumber"> 018 </span>	[๔๓]สคฺคูปคํ ปุฺกมฺมํ ชนินฺท  
+<span class="LineNumber"> 019 </span>		มา เม ตุวํ อนฺตรายํ อกาสิ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปนปฺปสํสํ ฯ  ๒. ม. เอตฺโต ฯ  
+<span class="LineNumber"> 021 </span>#๓. ม. ปจฺจุตฺตริสามิ ฯ ยุ. ปจฺจุปทิสฺสามิ ฯ 
+<span class="LineNumber"> 022 </span>#๔. ม. หารยิสฺสามิ ฯ

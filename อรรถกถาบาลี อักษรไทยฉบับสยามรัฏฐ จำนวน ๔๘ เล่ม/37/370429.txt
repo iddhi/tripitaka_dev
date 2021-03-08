@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 429
+
+<span class="LineNumber"> 002 </span>	เทวิยา  ปริเทวสทฺทํ  สุตฺวา  สพฺพา  สฺชยสฺส  สิวิกฺาโย(๑)  
+<span class="LineNumber"> 003 </span>สมาคตา  ปกฺกนฺทึสุ ฯ  ตาสํ  ปกฺกนฺทิตสทฺทํ  สุตฺวา  มหาสตฺตสฺส  
+<span class="LineNumber"> 004 </span>นิเวสเน  ตเถว  ปกฺกนฺทึสุ ฯ  อิติ  ทฺวีสุ  ราชกุเลสุ  โกจิ 
+<span class="LineNumber"> 005 </span>สกภาเวน  สณฺ€าเรตุํ(๒)  อสกฺโกนฺโต  วาตเวเคน  ปมทฺทิตา 
+<span class="LineNumber"> 006 </span>สาลา  วิย  ปติตฺวา  ปริเทวมาโน ปริเทวิ (๓)ฯ  
+<span class="LineNumber"> 007 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 008 </span>	[๑๐๘๒]ตสฺสา ลาลปิตํ (๔)สุตฺวา   สพฺพา อนฺเตปุเร อหุ  
+<span class="LineNumber"> 009 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	สิวิกฺา สมาคตา  
+<span class="LineNumber"> 010 </span>		สาลาว สมฺปมถิตา		มาลุเตน ปมทฺทิตา  
+<span class="LineNumber"> 011 </span>		เสนฺติ ปุตฺตา จ ทารา จ	เวสฺสนฺตรนิเวสเน  
+<span class="LineNumber"> 012 </span>		โอโรธา จ กุมารา จ	เวสิยานา จ พฺราหฺมณา  
+<span class="LineNumber"> 013 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	เวสฺสนฺตรนิเวสเน  
+<span class="LineNumber"> 014 </span>		หตฺถาโรหา อนีกฏฺ€า	รถิกา ปตฺติการกา  
+<span class="LineNumber"> 015 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	เวสฺสนฺตรนิเวสเน  
+<span class="LineNumber"> 016 </span>		ตโต รตฺยา วิวสเน		สุริยสฺสุคฺคมนํ ปติ  
+<span class="LineNumber"> 017 </span>		อถ เวสฺสนฺตโร ราชา	ทานํ ทาตุํ อุปาคมิ  
+<span class="LineNumber"> 018 </span>		วตฺถานิ วตฺถกามานํ	โสณฺฑานํ เทถ วารุณึ  
+<span class="LineNumber"> 019 </span>		โภชนํ โภชนตฺถีนํ		สมฺมาเทว ปเวจฺฉถ  
+<span class="LineNumber"> 020 </span># ๑. ม. สิวิกฺา ฯ  ๒. ม. สณฺ€าตุํ ฯ  ๓. ม. ปริวตฺตมานา 
+<span class="LineNumber"> 021 </span># ปริเทวึสุ ฯ  ๔. ม. ลาลปฺปิตํ ฯ

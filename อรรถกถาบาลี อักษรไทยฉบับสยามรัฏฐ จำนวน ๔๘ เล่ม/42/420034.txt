@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  34
+
+<span class="LineNumber"> 002 </span>	สีตํ พฺยปคตํ โหติ    อุณฺหฺจ อุปสมฺมติ  
+<span class="LineNumber"> 003 </span>	ตานิ อชฺช ปทิสฺสนฺติ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 004 </span>	ทสสหสฺสี โลกธาตู   นิสฺสทฺทา โหนฺติ นิรากุลา  
+<span class="LineNumber"> 005 </span>	ตานิ อชฺช ปทิสฺสนฺติ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 006 </span>	มหาวาตา น วายนฺติ   น สนฺทนฺติ สวนฺติโย  
+<span class="LineNumber"> 007 </span>	ตานิ อชฺช ปทิสฺสนฺติ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 008 </span>	ถลชา ทกชา ปุปฺผา   สพฺเพ ปุปฺผนฺติ ตาวเท  
+<span class="LineNumber"> 009 </span>	เตปชฺช ปุปฺผิตา สพฺเพ  ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 010 </span>	ลตา วา ยทิ วา รุกฺขา  ผลภารา โหนฺติ ตาวเท  
+<span class="LineNumber"> 011 </span>	เตปชฺช ผลิตา สพฺเพ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 012 </span>	อากาสฏฺ€า จ ภูมฏฺ€า  รตนา โชตนฺติ ตาวเท  
+<span class="LineNumber"> 013 </span>	เตปชฺช รตนา โชตนฺติ  ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 014 </span>	มานุสกา จ ทิพฺพา จ   ตุริยา วชฺชนฺติ ตาวเท  
+<span class="LineNumber"> 015 </span>	เตปชฺชุโภ อภิรวนฺติ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 016 </span>	วิจิตฺตปุปฺผา คคนา   อภิวสฺสนฺติ ตาวเท  
+<span class="LineNumber"> 017 </span>	เตปิ อชฺช ปวสฺสนฺติ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 018 </span>	มหาสมุทฺโท อาภุชติ   ทสสหสฺสี ปกมฺปติ  
+<span class="LineNumber"> 019 </span>	เตปชฺชุโภ อภิรวนฺติ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 020 </span>	นิรเยปิ ทสสหสฺเส   อคฺคี นิพฺพนฺติ ตาวเท  
+<span class="LineNumber"> 021 </span>	เตปชฺช นิพฺพุตา อคฺคี   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  

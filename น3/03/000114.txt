@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                        กัณฑ์ที่ ๒๘  
+<span class="LineNumber"> 002 </span>                                 วิธีระงับวิวาทาธิกรณ์
+<span class="LineNumber"> 003 </span>           วิวาทที่จัดเป็นอธิกรณ์  รวมเรียกว่าวิวาทาธิกรณ์นั้น  เฉพาะ
+<span class="LineNumber"> 004 </span>วิวาทปรารภพระธรรมวินัย  ในบาลีแจกไว้ ๙ คู่  ดังนี้ :- 
+<span class="LineNumber"> 005 </span>           ๑.  วิวาทกันว่า  นี้เป็นธรรม นี้ไม่เป็นธรรม.
+<span class="LineNumber"> 006 </span>           ๒.  นี้เป็นวินัย  นี้ไม่เป็นวินัย.
+<span class="LineNumber"> 007 </span>           ๓.  นี้พระตถาคตเจ้าตรัสภาษิตไว้  นี้พระตถาคตเจ้าไม่ได้ตรัส
+<span class="LineNumber"> 008 </span>ภาษิตไว้.
+<span class="LineNumber"> 009 </span>           ๔.  นี้พระตถาคตเจ้าทรงประพฤติมา  นี้พระตถาคตเจ้าไม่ได้ทรง
+<span class="LineNumber"> 010 </span>ประพฤติมา.
+<span class="LineNumber"> 011 </span>           ๕.  นี้พระตถาคตเจ้าทรงบัญญัติไว้  นี้พระตถาคตเจ้าไม่ได้ทรง
+<span class="LineNumber"> 012 </span>บัญญัติไว้.
+<span class="LineNumber"> 013 </span>          ๖.  นี้เป็นอาบัติ  นี้ไม่เป็นอาบัติ.
+<span class="LineNumber"> 014 </span>           ๗.  นี้เป็นอาบัติเบา  นี้เป็นอาบัติหนัก.
+<span class="LineNumber"> 015 </span>           ๘.  นี้เป็นอาบัติมีส่วนเหลือ  นี้เป็นอาบัติหาส่วนเหลือมิได้.
+<span class="LineNumber"> 016 </span>           ๙.  นี้เป็นอาบัติหยาบคาย  นี้ไม่เป็นอาบัติหยาบคาย.
+<span class="LineNumber"> 017 </span>           ในปกรณ์ทั้งหลายเรียกกระจายออกว่า  อฎฺ€ารสเภทกรวตฺถุ
+<span class="LineNumber"> 018 </span>แปลว่า เรื่องทำความแตกกัน ๑๘  อย่าง.  แต่อันจะเกิดเป็นวิวาทา-
+<span class="LineNumber"> 019 </span>ธิกรณ์ขึ้น  ทั้ง ๒  ฝ่ายต้องกล่าวตรงกันข้าม  ในวิวาทาธิกรณ์เรื่องหนึ่ง
+<span class="LineNumber"> 020 </span>จึงได้เภทกรวัตถุเป็นคู่หนึ่ง  ดังจัดไว้ข้างต้น.
+   

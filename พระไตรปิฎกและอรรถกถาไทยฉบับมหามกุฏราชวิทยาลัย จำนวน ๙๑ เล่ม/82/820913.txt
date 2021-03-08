@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๘๙๔]  ทุกขสัจจะกำลังเกิดแก่บุคคลใด, ฯ ล ฯ            แม้ใน
+<span class="LineNumber"> 005 </span>ปุคคโลกาสวาระ   ก็พึงจำแนกเช่นเดียวกันกับโอกาสวาระ.
+<span class="LineNumber"> 006 </span>                                    <I>ทุกขสัจจมูละ  จบ</I>
+<span class="LineNumber"> 007 </span>                                     <I>โอกาสวาระ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                     <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 009 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 010 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 011 </span>         [๘๙๕]  ทุกขสัจจะกำลังเกิดแก่บุคคลใดในภูมิใด,     สมุทย-
+<span class="LineNumber"> 012 </span>สัจจะก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ในอุปปาทขณะแห่งอรหัตมัคคจิตก็ดี       ในอุปปาทขณะแห่งจิต 
+<span class="LineNumber"> 014 </span>ของพระอรหันต์ทั้งหลายก็ดี      บุคคลเหล่าใดจักได้อรหัตมรรคในลำดับ
+<span class="LineNumber"> 015 </span>แห่งจิตใด  ในอุปปาทขณะแห่งจิตนั้นก็ดี  บุคคลที่เกิดอยู่ในอสัญญสัตต-
+<span class="LineNumber"> 016 </span>ภูมิก็ดี   ทุกขสัจจะกำลังเกิดแก่บุคคลเหล่านั้นในภูมินั้น   แต่สมุทยสัจจะ

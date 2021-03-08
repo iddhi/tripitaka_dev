@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.  วุฏฐสูตร  ๒.  สอุปาทิเสสสูตร  ๓.  โกฏฐิตสูตร  ๔.  สมัทธิ-
+<span class="LineNumber"> 003 </span>สูตร    ๕.   คัณฑสูตร    ๖.   สัญญาสูตร    ๗.   กุลสูตร    ๘.   สัตตสูตร
+<span class="LineNumber"> 004 </span>๙.   เทวตาสูตร   ๑๐.   เวลามสูตร.   และอรรถกถา.
+<span class="LineNumber"> 005 </span>                                  <I>จบ  สีหนาทวรรคที่  ๒</I>

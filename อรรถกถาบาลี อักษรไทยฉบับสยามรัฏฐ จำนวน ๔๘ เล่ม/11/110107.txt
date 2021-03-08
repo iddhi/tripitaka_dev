@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๑๑  หน้า ๑๐๗
+
+<span class="LineNumber"> 002 </span>ธมฺมฏฺ€ิติาณํ เอตสฺเสว ฉพฺพิธสฺส  าณสฺเสตํ  อธิวจนํ ฯ  
+<span class="LineNumber"> 003 </span>ขยธมฺมนฺติ  ขยคมนสภาวํ ฯ วยธมฺมนฺติ วยคมนสภาวํ ฯ 
+<span class="LineNumber"> 004 </span>วิราคธมฺมนฺติ  วิรชฺชนสภาวํ ฯ  นิโรธธมฺมนฺติ  นิรุชฺฌนสภาวํ ฯ  
+<span class="LineNumber"> 005 </span>สตฺตสตฺตรีติ เอเกกสฺมึ  สตฺต  สตฺต  กตฺวา เอกาทสสุ  ปเทสุ  
+<span class="LineNumber"> 006 </span>สตฺตสตฺตริ ฯ  อิมสฺมึ  สุตฺเต วิปสฺสนาปตฺติวิปสฺสนา(๑) นาม
+<span class="LineNumber"> 007 </span>กถิตา ฯ 
+<span class="LineNumber"> 008 </span>					จตุตฺถํ ฯ          
+
+<span class="LineNumber"> 009 </span>				อวิชฺชาปจฺจยสุตฺตวณฺณนา          
+<span class="LineNumber"> 010 </span>	ปฺจเม  สมุทโย  โหตีติ  สตฺถา  อิเธว  เทสนํ  
+<span class="LineNumber"> 011 </span>โอสาเปสิ ฯ   กึการณาติ  ทิฏฺ€ิคติกสฺส  โอกาสทานตฺถํ ฯ  ตสฺสํ  
+<span class="LineNumber"> 012 </span>หิ  ปริสติ  อุปารมฺภจิตฺโต ทิฏฺ€ิคติโก  อตฺถิ  โส  ปฺหํ  
+<span class="LineNumber"> 013 </span>ปุจฺฉิสฺสติ  อถสฺสาหํ  วิสฺสชฺเชสฺสามีติ ตสฺส โอกาสทสฺสนตฺถํ 
+<span class="LineNumber"> 014 </span>เทสนํ  โอสาเปสิ ฯ  โน  กลฺโล  ปโฺหติ  อยุตฺโต  ปโฺห 
+<span class="LineNumber"> 015 </span>ทุปฺปโฺห  เอโสติ  อตฺโถ ฯ  นนุ  จ  กตมํ  นุ  โข  ภนฺเต  
+<span class="LineNumber"> 016 </span>ชรามรณนฺติ  อิทํ  สุปุจฺฉิตนฺติ  กิฺจาปิ  สุปุจฺฉิตํ  ยถา  
+<span class="LineNumber"> 017 </span>ปน  สตสหสฺสคฺฆนิเก  (๒)  สุวณฺณถาเล วฑฺฒิตสฺส  สุโภชนสฺส
+<span class="LineNumber"> 018 </span>มตฺถเก  อามลกมตฺเต  คูถปิณฺเฑ  €ปิเต  สพฺพํ  โภชนํ ทุพฺโภชนํ 
+<span class="LineNumber"> 019 </span>โหติ  ฉฑฺเฑตพฺพํ  เอวเมว  กสฺส  จ  ปนิทํ  ชรามรณนฺติ 
+<span class="LineNumber"> 020 </span># ๑. ม. วิปสฺสาปฏิวิปสฺสนา ฯ  ๒. สี. สหสฺสคฺฆนเก ฯ

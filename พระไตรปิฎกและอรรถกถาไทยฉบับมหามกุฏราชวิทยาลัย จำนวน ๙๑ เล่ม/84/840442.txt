@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า    โสมนัสสินทรีย์เคยเกิดในภูมิใด,     ปุริสินทรีย์ก็เคย
+<span class="LineNumber"> 002 </span>เกิดในภูมินั้น    ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ในรูปาวจรภูมิ    โสมนัสสินทรีย์เคยเกิดในภูมินั้น  แต่ปุริสิน-
+<span class="LineNumber"> 004 </span>ทรีย์ไม่ใช่เคยเกิดในภูมินั้น,      ในกามาวจรภูมิโสมนัสสินทรีย์เคยเกิด 
+<span class="LineNumber"> 005 </span>และปุริสินทรีย์ก็เคยเกิดในภูมินั้น.
+<span class="LineNumber"> 006 </span>                     <I>จบ  ปุริสินทริยมูละ  โสมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 007 </span><B>ปุริสนิทริยมูละ   อุเปกขินทริย  ฯลฯ  สัทธินทริย   ปัญญินทริย
+<span class="LineNumber"> 008 </span>มนินทริยมูลี:-</B>
+<span class="LineNumber"> 009 </span>         [๗๔๕]   ปุริสินทรีย์เคยเกิดในภูมิใด,    อุเปกขินทรีย์   ฯลฯ
+<span class="LineNumber"> 010 </span>สัทธินทรีย์  ปัญญินทรีย์   มนินทรีย์ก็เคยเกิดในภูมินั้น  ใช่ไหม   ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า     มนินทรีย์เคยเกิดในภูมิใด,       ปุริสินทรีย์ก็เคยเกิด
+<span class="LineNumber"> 013 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ในรูปาวจรภูมิ    อรูปาวจรภูมิมนินทรีย์เคยเกิดในภูมินั้น    แต่
+<span class="LineNumber"> 015 </span>ปุริสินทรีย์ไม่ใช่เคยเกิดขึ้นในภูมินั้น,      ในกามาวจรภูมิมนินทรีย์เคยเกิด 
+<span class="LineNumber"> 016 </span>และปุริสินทรีย์ก็เคยเกิดในภูมินั้น.
+<span class="LineNumber"> 017 </span>    <I>จบ   ปุริสินทริยมูละ   อุเปกขินทริย   ฯลฯ  สัทธินทริย   ปัญญินทริย</I>
+<span class="LineNumber"> 018 </span>                                           <I>มนินทริยมูลี</I>
+<span class="LineNumber"> 019 </span>                                       <I>ปุริสินทริยมูล  จบ</I>

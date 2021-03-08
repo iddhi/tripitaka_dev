@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                         <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๘๔๑] ๑.  <B>นิยตธรรม   เป็นปัจจัยแก่นิยตธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 005 </span>ของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         มี ๔ วาระ  เหมือนกับนิยยานิกทุกะ  ไม่มีแตกต่างกัน.
+
+<span class="LineNumber"> 007 </span>                                     <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 008 </span>         [๘๔๒] ๑.  <B>นิยตธรรม เป็นปัจจัยแก่อนิยตธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 009 </span>ของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ   พระอริยะทั้งหลายออกจากมรรคแล้ว  พิจารณามรรค,  พิจารณา
+<span class="LineNumber"> 011 </span>กิเลสที่ละแล้ว   ที่เป็นนิยตธรรม,  กิเลสทั้งหลายที่เกิดขึ้นแล้วในกาลก่อน ฯลฯ
+<span class="LineNumber"> 012 </span>พิจารณาเห็นขันธ์ทั้งหลายที่เป็นนิยตธรรม   โดยความเป็นของไม่เที่ยง  ฯลฯ
+<span class="LineNumber"> 013 </span>         บุคคลรู้จิตของบุคคลผู้พร้อมเพรียงด้วยจิต  ที่เป็นนิยตธรรม  ด้วย
+<span class="LineNumber"> 014 </span>เจโตปริยญาณ
+<span class="LineNumber"> 015 </span>         ขันธ์ทั้งหลายที่เป็นนิยตธรรม เป็นปัจจัยแก่เจโตปริยญาณ,  แก่ปุพเพ-
+<span class="LineNumber"> 016 </span>นิวาสานุสสติญาณ,   แก่ยถากัมมูปคญาณ,    แก่อนาคตังสญาณ,    แก่อาวัชชนะ
+<span class="LineNumber"> 017 </span>ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 018 </span>                     ๒.  <B>อนิยตธรรม     เป็นปัจจัยแก่อนิยตธรรม     ด้วย
+<span class="LineNumber"> 019 </span>อำนาจของอารัมมณปัจจัย</B>

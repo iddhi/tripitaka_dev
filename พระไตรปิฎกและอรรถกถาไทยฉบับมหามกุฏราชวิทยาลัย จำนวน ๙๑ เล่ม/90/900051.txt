@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       		 	     <H1>อนุโลมปัจจนียนัย</H1>  
+<span class="LineNumber"> 002 </span>                		<H2>การนับจำนวนวาระในอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 003 </span>		[๑๒๙]  <B>เพราะเหตุปัจจัย</B>   ในอธิปติปัจจัย มี ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 004 </span>                        		           <H1>ปัจจนียานุโลมนัย</H1>
+<span class="LineNumber"> 005 </span>                  	           <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 006 </span>		[๑๓๐]  <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย มี ๑ วาระ  ฯลฯ
+<span class="LineNumber"> 007 </span>             	สหชาตวาระก็ดี    ปัจจยวาระก็ดี      นิสสยวาระก็ดี     สังสัฏฐวาระก็ดี
+<span class="LineNumber"> 008 </span>สัมปยุตตวาระก็ดี   พึงให้พิสดารเหมือนปฏิจจวาระ.
+                       
+<span class="LineNumber"> 009 </span>					  <H1>วิปากบทปัญหาวาระ</H1>
+<span class="LineNumber"> 010 </span>						<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 011 </span>		  			   <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 012 </span>		[๑๓๑]  ๑.  วิปากธรรมที่เป็นเหตุ       เป็นปัจจัยแก่วิปากธรรม
+<span class="LineNumber"> 013 </span>ที่เป็นเหตุ  ด้วยอำนาจของเหตุปัจจัย  มี  ๓ วาระ.
+<span class="LineNumber"> 014 </span>		[๑๓๒]  ๑.  วิปากธรรมที่เป็นเหตุ     เป็นปัจจัยแก่วิปากธรรม
+<span class="LineNumber"> 015 </span>ที่เป็นเหตุ  ด้วยอำนาจของอารัมมณปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>                   	 ๔.  วิปากธรรมที่ไม่ใช่เหตุ    เป็นปัจจัยแก่วิปากธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่เหตุ  ด้วยอำนาจของอารัมมณปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>                   	 ๗.  วิปากธรรมที่เป็นเหตุ  และวิปากธรรมที่ไม่ใช่เหตุ
+<span class="LineNumber"> 019 </span>ทั้งหลาย     เป็นปัจจัยแก่วิปากธรรมที่เป็นเหตุ     ด้วยอำนาจของ
+<span class="LineNumber"> 020 </span>อารัมมณปัจจัย   มี ๓ วาระ  ได้แก่ตทารัมมณะเท่านั้น.

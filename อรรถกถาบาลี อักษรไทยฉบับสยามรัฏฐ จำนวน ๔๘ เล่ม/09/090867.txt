@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  ๙  หน้า  ๘๖๗
+
+<span class="LineNumber"> 002 </span>					สฬายตนวคฺควณฺณนา  
+<span class="LineNumber"> 003 </span>				อนาถปิณฺฑิโกวาทสุตฺตวณฺณนา  
+<span class="LineNumber"> 004 </span>	เอวมฺเม  สุตนฺติ  อนาถปิณฺฑิโกวาทสุตฺตํ ฯ  ตตฺถ  พาฬฺห-
+<span class="LineNumber"> 005 </span>คิลาโนติ  อธิมตฺตคิลาโน  มรณเสยฺยํ  อุปคโต ฯ  อามนฺเตสีติ  
+<span class="LineNumber"> 006 </span>คหปติสฺส  กิร  ยาว  ปาทาวหึสุ ฯ  ตาว  ทิวเส  สกึ  
+<span class="LineNumber"> 007 </span>วา  ทฺวิกฺขตฺตุํ  วา  ติกฺขตฺตุํ วา  พุทฺธุปฏฺ€านํ  อขณฺฑํ  
+<span class="LineNumber"> 008 </span>อกาสิ ฯ  ยตฺตกํ  จสฺส  สตฺถุ  อุปฏฺ€านํ  อโหสิ ฯ  ตตฺตกํเยว 
+<span class="LineNumber"> 009 </span>มหาเถรานํ ฯ  โส  อชฺช  คมนปาทสฺส  ปจฺฉินฺนตฺตา  อนุฏฺ€านเสยฺยํ  
+<span class="LineNumber"> 010 </span>อุปคโต  สาสนํ  เปเสตุกาโม  อฺตรํ  ปุริสํ  อามนฺเตสิ ฯ 
+<span class="LineNumber"> 011 </span>เตนุปสงฺกมีติ  ภควนฺตํ  อาปุจฺฉิตฺวา  สูริยตฺถงฺคมนเวลาย  
+<span class="LineNumber"> 012 </span>อุปสงฺกมิ ฯ  
+<span class="LineNumber"> 013 </span>	ปฏิกฺกมนฺตีติ  โอสกฺกนฺติ ฯ  ตนุกา  ภวนฺติ ฯ  อภิกฺกมนฺตีติ  
+<span class="LineNumber"> 014 </span>อภิวฑฺฒนฺติ  โอตฺถรนฺติ ฯ  พลวติโย  โหนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	อภิกฺกโมสานํ  ปฺายติ  โน  ปฏิกฺกโมติ  ยสฺมึ  หิ  สมเย  
+<span class="LineNumber"> 016 </span>มารณนฺติกา  เวทนา  อุปฺปชฺชติ ฯ  อุปริวาเต  ชลิตคฺคิ  วิย  
+<span class="LineNumber"> 017 </span>โหติ ฯ  ยาว  อุสฺมา  น  ปริยาทิยติ ฯ  ตาว  มหตาปิ  อุปกฺกเมน 
+<span class="LineNumber"> 018 </span>น  สกฺกา  วูปสเมตุํ ฯ  อุสฺมาย  ปน  ปริยาทินฺนาย  วูปสมติ ฯ  
+<span class="LineNumber"> 019 </span>	อถายสฺมา  สาริปุตฺโต  จินฺเตสิ  อยํ  มหาเสฏฺ€ิสฺส  เวทนา  
+<span class="LineNumber"> 020 </span>มารณนฺติกา  น  สกฺกา  ปฏิพาหิตุํ  อวเสสา  กถา  นิรตฺถกา

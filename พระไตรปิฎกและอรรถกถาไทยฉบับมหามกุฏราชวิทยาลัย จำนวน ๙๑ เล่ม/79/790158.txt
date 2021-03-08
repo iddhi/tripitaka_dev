@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>๔.  สัจจบัญญัติ</H1>
+<span class="LineNumber"> 002 </span>         [๕]   การบัญญัติธรรมที่เป็นของจริงว่า    <B>สัจจะ</B>     มีเท่าไร    สัจจะ 
+<span class="LineNumber"> 003 </span>มี   ๔  คือ
+<span class="LineNumber"> 004 </span>                         <B>๑.  ทุกขสัจจะ</B>
+<span class="LineNumber"> 005 </span>                         <B>๒.  สมุทยสัจจะ</B>
+<span class="LineNumber"> 006 </span>                         <B>๓.  นิโรธสัจจะ</B>
+<span class="LineNumber"> 007 </span>                         <B>๔.  มัคคสัจจะ</B>
+<span class="LineNumber"> 008 </span>         การบัญญัติธรรมที่เป็นของจริงว่า  <B>สัจจะ</B>   ก็มี ๔  ตามจำนวนธรรม
+<span class="LineNumber"> 009 </span>เหล่านี้.
+
+<span class="LineNumber"> 010 </span>                                       <H1>๕.  อินทริยบัญญัติ</H1>
+<span class="LineNumber"> 011 </span>         [๖]   การบัญญัติธรรมที่เป็นใหญ่ว่า  <B>อินทรีย์</B>  มีเท่าไร  อินทรีย์
+<span class="LineNumber"> 012 </span>มี ๒๒ คือ
+<span class="LineNumber"> 013 </span>                         <B>๑.  จักขุนทรีย์</B> 
+<span class="LineNumber"> 014 </span>                         <B>๒.  โสตินทรีย์</B>
+<span class="LineNumber"> 015 </span>                         <B>๓.  ฆานินทรีย์</B> 
+<span class="LineNumber"> 016 </span>                         <B>๔.  ชิวหินทรีย์</B>
+<span class="LineNumber"> 017 </span>                         <B>๕.  กายินทรีย์</B>
+<span class="LineNumber"> 018 </span>                         <B>๖.  มนินทรีย์</B>
+<span class="LineNumber"> 019 </span>                         <B>๗.  อิติถินทรีย์</B>
+<span class="LineNumber"> 020 </span>                         <B>๘.  ปุริสินทรีย์</B>
+<span class="LineNumber"> 021 </span>                         <B>๙.  ชีวิตินทรีย์</B>

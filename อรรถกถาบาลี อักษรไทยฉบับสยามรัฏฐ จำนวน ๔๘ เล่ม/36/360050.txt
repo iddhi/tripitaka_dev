@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  50
+
+<span class="LineNumber"> 002 </span>	พฺรหฺมจริยํ จริสฺสามิ		นาหํ รชฺเชนมตฺถิโก  
+<span class="LineNumber"> 003 </span>	ปสฺสามิ โวหํ ทหรํ		อมฺมตาต วทนฺนรํ  (๑)
+<span class="LineNumber"> 004 </span>	กิจฺฉาลทฺธํ ปิยํ ปุตฺตํ		อปตฺวาว ชรํ มตํ  
+<span class="LineNumber"> 005 </span>	ปสฺสามิ โวหํ ทหรึ		กุมาริฺจารุทสฺสนึ  
+<span class="LineNumber"> 006 </span>	นววงฺสกลีรํ ว			ปลุตฺตํ (๒) ชีวิตกฺขยํ  (๓)
+<span class="LineNumber"> 007 </span>	ทหราปิ หิ มียนฺติ			นรา จ อถ นาริโย  
+<span class="LineNumber"> 008 </span>	ตตฺถ โก วิสฺสเส โปโส	ทหโรมฺหีติ ชีวิเต  
+<span class="LineNumber"> 009 </span>	ยสฺส รตฺยาธิวาเสน  (๔)	อายุํ อปฺปตรํ สิยา  
+<span class="LineNumber"> 010 </span>	อปฺโปทเกว มจฺฉานํ		กินฺนุ โกมาริกํ ตหึ  
+<span class="LineNumber"> 011 </span>	นิจฺจมพฺภาหโต โลโก	นิจฺจฺจ ปริวาริโต  
+<span class="LineNumber"> 012 </span>	อโมฆาสุ วชฺชนฺตีสุ		กึ มํ รชฺเชภิสิฺจสีติ ฯ  
+<span class="LineNumber"> 013 </span>ราชา อาห  
+<span class="LineNumber"> 014 </span>	[๔๓๘]	เกนมพฺภาหโต โลโก		เกน จ ปริวาริโต  
+<span class="LineNumber"> 015 </span>			กาโย อโมฆา คจฺฉนฺติ	ตํ เม อกฺขาหิ ปุจฺฉิโตติ ฯ  
+<span class="LineNumber"> 016 </span>มหาสตฺโต อาห  
+<span class="LineNumber"> 017 </span>	[๔๓๙]	มจฺจุมพฺภาหโต โลโก		ชราย ปริวาริโต  
+<span class="LineNumber"> 018 </span>			รตฺยา อโมฆา คจฺฉนฺติ	เอวํ ชานาหิ ขตฺติย  
+<span class="LineNumber"> 019 </span>			ยถาปิ ตนฺเต วิตนฺเต  (๖)	ยํ ยํ เทโว ปวุยฺหติ (๗) 
+<span class="LineNumber"> 020 </span># ๑. ม. ยุ. วทนฺตรํ ฯ  ๒. ม. ยุ. ปลุคิคํ ฯ  ๓. สี. ยุ. ชีวิตกฺขเย ฯ
+<span class="LineNumber"> 021 </span># ๔. ส. ม. ยุ. รตฺยา วิวสาเน ฯ  ๕. ส. ม. รโตฺย ฯ  ๖. ม. ยุ. วิตเต ฯ
+<span class="LineNumber"> 022 </span># ๗. สี. ยุ. ยํ ยํ เทวูปวิยฺยติ ฯ  ม. ยํ ยเทวูปวียติ ฯ

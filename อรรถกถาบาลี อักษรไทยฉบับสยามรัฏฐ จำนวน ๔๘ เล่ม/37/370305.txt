@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 305
+
+<span class="LineNumber"> 002 </span>เอกสตราชปริวุโต(๑) อตฺตโน นิเวสนเมว คโต ฯ  
+<span class="LineNumber"> 003 </span>		ฆราวาสปฺโห นิฏฺ€ิโต(๒) ฯ  
+<span class="LineNumber"> 004 </span>	มหาสตฺโต ปน นิวตฺโต(๓) ฯ อถ นํ ปุณฺณโก อาห  
+<span class="LineNumber"> 005 </span>	[๙๕๐]เอหิ ทานิ คมิสฺสาม	ทินฺโน โน อิสฺสเรน เม  
+<span class="LineNumber"> 006 </span>		มเมวตฺถํ ปฏิปชฺช		เอส ธมฺโม สนนฺตโนติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  ทินฺโน  โนติ  เอตฺถ  โนติ  นิปาตมตฺตํ ฯ  ตฺวํ  
+<span class="LineNumber"> 008 </span>อิสฺสเรน  มยฺหํ  ทินฺโนติ  อตฺโถ ฯ  เอส  ธมฺโม  สนนฺตโนติ 
+<span class="LineNumber"> 009 </span>มมตฺถํ ปฏิปชฺชนฺเตน  หิ  ตยา  อตฺตโน  สามิกสฺส  อตฺโถ 
+<span class="LineNumber"> 010 </span>ปฏิปนฺโน  โหติ  ยฺเจตํ  สามิกสฺส  อตฺถกรณํ  นาม  เอส
+<span class="LineNumber"> 011 </span>ธมฺโม  สนนฺตโน  โปราณกปณฺฑิตานํ  สภาโว(๔) ฯ  
+<span class="LineNumber"> 012 </span>	วิธุรปณฺฑิโต อาห  
+<span class="LineNumber"> 013 </span>	[๙๕๑]ชานามิ มาณว ตยาหมสฺมิ  
+<span class="LineNumber"> 014 </span>		ทินฺโนหมสฺมิ ตว อิสฺสเรน  
+<span class="LineNumber"> 015 </span>		ตีหฺจ(๕) ตํ วาสเยมุ อคาเร  
+<span class="LineNumber"> 016 </span>		เยนทฺธุนา อนุสาเสมุ ปุตฺตทาเรติ(๖) ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  ตยาหมสฺมีติ  ตยา  ลทฺโธหมสฺมีติ  อหํ  ชานามิ  มํ  
+<span class="LineNumber"> 018 </span>ลภนฺเตน  จ  นาฺถา  ลทฺโธ ฯ  ทินฺโนหมสฺมิ  ตว  อิสฺสเรนาติ  
+<span class="LineNumber"> 019 </span>มม  อิสฺสเรน  รฺา  ตว  อหํ  ทินฺโน ฯ  ตีหฺจาติ  มาณว 
+<span class="LineNumber"> 020 </span># ๑. ม. เอกสตราชูหิ ปริวุโต ฯ  ๒. ม. ฆราวาสปฺหา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ปฏินิวตฺโต ฯ  ๔. ม.สภาโวติ ฯ  ๕. ม. ตีหํ จ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. ปุตฺเตติ ฯ 

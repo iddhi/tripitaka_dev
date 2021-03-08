@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๑๒  หน้า  ๔๖
+
+<span class="LineNumber"> 002 </span>				ตติยปรฺณาสกวณฺณนา
+<span class="LineNumber"> 003 </span>	โยคกฺเขมิวคฺคสฺส  ป€เม ฯ  โยคกฺเขมิปริยายนฺติ  จตูหิ  โยเคหิ  
+<span class="LineNumber"> 004 </span>เขมิโน  การณภูตํ ฯ  ธมฺมปริยายนฺติ  ธมฺมการณํ ฯ  อกฺขาสิ  
+<span class="LineNumber"> 005 </span>โยคนฺติ  ยุตฺตึ  กเถสิ ฯ  ตสฺมา  ยสฺมา  กึ  อกฺขาตตฺตา  อุทาหุ  
+<span class="LineNumber"> 006 </span>ปหีนตฺตา   หิ  อกฺขาเนน  โยคกฺเขมิ  นาม  โหติ ฯ  
+<span class="LineNumber"> 007 </span>	ทุติเย ฯ  เวทนาสุขทุกฺขํ  กถิตํ  ตํ  ปน  วิปากสุขทุกฺขํ  
+<span class="LineNumber"> 008 </span>วฏฺฏติ ฯ  
+<span class="LineNumber"> 009 </span>	ตติเย ฯ  ทุกฺขสฺสาติ  วฏฺฏทุกฺขสฺส ฯ  
+<span class="LineNumber"> 010 </span>	จตุตฺเถ ฯ  โลกสฺสาติ  สงฺขารโลกสฺส ฯ  ปฺจมาทีสุ  ยํ  
+<span class="LineNumber"> 011 </span>วตฺตพฺพํ  สิยา  ตํ  ขนฺธิยวคฺเค  วุตฺตนยเมว ฯ  
+<span class="LineNumber"> 012 </span>				โยคกฺเขมิวคฺโค  ป€โม ฯ  
+<span class="LineNumber"> 013 </span>	โลกกามคุณวคฺคสฺส  ป€เม  อาวาสคโตติ  วสนฏฺ€านํ  
+<span class="LineNumber"> 014 </span>คโต ฯ  มารสฺส  วสคโตติ  มารสฺส  วสํ  คโต ฯ  ปฏิมุกฺกสฺส  
+<span class="LineNumber"> 015 </span>มารปาโสติ  อสฺส  คีวาย  มารปาโส  ปฏิมุกฺโก  ปเวสิโต ฯ  
+<span class="LineNumber"> 016 </span>ทุติยํ  อุตฺตานเมว ฯ  
+<span class="LineNumber"> 017 </span>	ตติเย ฯ  โลกสฺสาติ  จกฺกวาฬโลกสฺส ฯ  โลกสฺส  อนฺตนฺติ  
+<span class="LineNumber"> 018 </span>สงฺขารโลกสฺส  อนฺตํ ฯ  วิหารํ  ปาวิสีติ  มยิ  วิหารํ  ปวิฏฺเ€  
+<span class="LineNumber"> 019 </span>อิเม  ภิกฺขู  อิมํ  อุทฺเทสํ  อานนฺทํ  ปุจฺฉิสฺสนฺติ  โส  จ  เตสํ  
+<span class="LineNumber"> 020 </span>มม  สพฺพฺุตาเณน  สํสนฺทิตฺวา  กเถสฺสติ  ตโต  นํ  
+<span class="LineNumber"> 021 </span>โถเมสฺสามิ  มม  โถมนํ  สุตฺวา  ภิกฺขู  อานนฺทํ  อุปสงฺกมิตพฺพํ  

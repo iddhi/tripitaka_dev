@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                         ปริโยสานคาถา  
+<span class="LineNumber"> 002 </span>              <B>ปตฺตํ  ธมฺมปทํ  เยน			ธมฺมราเชนนุตฺตรํ
+<span class="LineNumber"> 003 </span>              คาถา  ธมฺมปเท  เตน		ภาสิตา  ยา  มเหสินา
+<span class="LineNumber"> 004 </span>              สเตวีสา  จตุสตา			จตุสจฺจวิภาวินา
+<span class="LineNumber"> 005 </span>              สตตฺตยมฺหิ  วตฺถูนํ			เอกาธิเก  สมุฏฺ€ิตา
+<span class="LineNumber"> 006 </span>              วิเหเร  อธิราเชน			การิตมฺหิ  กตฺุนา
+<span class="LineNumber"> 007 </span>              ปาสาเท  สิริกูฏสฺส			รฺโ วิหรตา  มยา
+<span class="LineNumber"> 008 </span>              อตฺถพฺยฺชนสมฺปนฺนํ		อตฺถาย  จ  หิตาย  จ
+<span class="LineNumber"> 009 </span>              โลกสฺส  โลกนาถสฺส		สทฺธมฺมฏฺ€ิติกามตา
+<span class="LineNumber"> 010 </span>              ตาสํ  อฏฺ€กถํ เอตํ			กโรนฺเตน  สุนิมฺมลํ
+<span class="LineNumber"> 011 </span>              ทฺวาสตฺตติปฺปมาณาย		ภาณวาเรหิ ปาลิยา
+<span class="LineNumber"> 012 </span>              ยํ  ปตฺตํ  กุสลํ  เตน			กุสลา  สพฺพปาณินํ
+<span class="LineNumber"> 013 </span>              สพฺเพ  อิชฺฌนฺตุ  สงฺกปฺปา	ผลนฺตา  มธุรํ  ผลํ.	</B> 											

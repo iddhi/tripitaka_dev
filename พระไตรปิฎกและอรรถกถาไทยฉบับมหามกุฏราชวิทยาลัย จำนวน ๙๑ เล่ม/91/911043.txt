@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H2>อัพยากตบท</H2>   
+<span class="LineNumber"> 002 </span>           [๒๑๒] ๑.  <B>อัพยากตธรรม ที่เป็นรูปีธรรม อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 003 </span>อัพยากตธรรม  ที่ไม่ใช่รูปีธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 004 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 005 </span>           [๒๑๓]  ในเหตุปัจจัย มี ๑ วาระ  ฯลฯ
+<span class="LineNumber"> 006 </span>                    <I>นรูปีทุกนกุสลติกรูปีทุกกุสลติกะ จบ</I>
+
+<span class="LineNumber"> 007 </span>                     <H1>นโลกิยทุกนกุสลติกโลกิยทุกกุสลติกะ</H1>
+<span class="LineNumber"> 008 </span>                    <H2>(๑๒.  โลกิยทุกะ  ๑  กุสลติกะ)</H2>
+<span class="LineNumber"> 009 </span>                                        <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 010 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>                                            <H2>กุศลบท</H2>					
+<span class="LineNumber"> 013 </span>           [๒๑๔] ๑.  <B>กุศลธรรม  ที่เป็นโลกิยธรรม อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 014 </span>กุศล  ที่ไม่ใช่โลกุตตรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>           <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศลธรรม   ที่ไม่ใช่โลกุตตรธรรม
+<span class="LineNumber"> 016 </span>ฯลฯ</B>  มี  ๒  วาระ.

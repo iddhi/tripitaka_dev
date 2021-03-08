@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  370
+
+<span class="LineNumber"> 002 </span>	วิมลา อาห  
+<span class="LineNumber"> 003 </span>	[๑๐๓๐]อทฺธา หิ โส โสจติ ราชเสฏฺโ€  
+<span class="LineNumber"> 004 </span>		ตยา วินา ยสฺส ตุวํ สชีโว(๑)  
+<span class="LineNumber"> 005 </span>		ทุกฺขูปโตนีปิ (๒)ตยา สเมจฺจ  
+<span class="LineNumber"> 006 </span>		วินฺเทยฺย โปโส สุขมาตุโรปีติ(๓) ฯ  
+<span class="LineNumber"> 007 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 008 </span>	[๑๐๓๑]อทฺธา สตํ ภาสสิ นาคิ ธมฺมํ  
+<span class="LineNumber"> 009 </span>		อนุตฺตรํ อตฺถปทํ สุจิณฺณํ  
+<span class="LineNumber"> 010 </span>		เอตาทิสิยาสุ หิ อาปทาสุ  
+<span class="LineNumber"> 011 </span>		ปฺายเต มาทิสานํ วิเสโสติ(๔) ฯ  
+<span class="LineNumber"> 012 </span>	วิมลา อาห  
+<span class="LineNumber"> 013 </span>	[๑๐๓๒]อกฺขาหิ โน ตายํ มุธานุลทฺโธ  
+<span class="LineNumber"> 014 </span>		อกฺขาหิ โน ตายํ อเชสิ ชูเต  
+<span class="LineNumber"> 015 </span>		ธมฺเมน ลทฺโธ อิติมายมาห(๕)  
+<span class="LineNumber"> 016 </span>		กถํ ตุวํ (๖)หตฺถมิมสฺส มาคโตติ(๗) ฯ  
+<span class="LineNumber"> 017 </span>	อถ นํ มหาสตฺโต อาห  
+<span class="LineNumber"> 018 </span>	[๑๐๓๓]โย มิสฺสโร ตตฺถ อโหสิ ราชา  
+<span class="LineNumber"> 019 </span>		ตมายมกฺเขหิ อเชสิ ชูเต  
+<span class="LineNumber"> 020 </span># ๑. ม. สชิพฺโพ ฯ  ๒. ม. ทุกฺขูปนีโตปิ ฯ  ๓. ม. สุขมาตุโรปิ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. วิเสโส ฯ  ๕. ม. อิติ ตายมาห ฯ  ๖. ม. กถํ นุ ตฺวํ ฯ
+<span class="LineNumber"> 022 </span># ๗. ม. มาคโต ฯ 

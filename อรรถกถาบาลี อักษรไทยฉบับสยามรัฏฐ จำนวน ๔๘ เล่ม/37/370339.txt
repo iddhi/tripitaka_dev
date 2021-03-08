@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 339
+
+<span class="LineNumber"> 002 </span>		น อิมสฺส(๑) ชีเวน มมตฺถิ กิฺจิ  
+<span class="LineNumber"> 003 </span>		หนฺตฺวานิมํ หทยํ อานยิสฺสนฺติ(๒) ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  โสติ  โส  ปุณฺณโก ฯ  ตตฺถ  คนฺตฺวานาติ  
+<span class="LineNumber"> 005 </span>คนฺตฺวา  ตตฺถ  กาฬาคิริมตฺถเก  €ิโต ฯ  เจตนกาติ  ขเณ  ขเณ
+<span class="LineNumber"> 006 </span>อุปฺปชฺชมานา  เจตฺนา  อุจฺจาปิ  อวจาปิ  อุปฺปชฺชนฺติ  €านํ  โข
+<span class="LineNumber"> 007 </span>ปเนตํ  น  วิชฺชติ  ยเมตสฺส(๓)  ชีวิตทานเจตนาปิ  อุปฺปชฺเชยฺยาติ 
+<span class="LineNumber"> 008 </span>อิมสฺส  ปน  ชีเวน(๔)  ตหึ  นาคภวเน  มม  อปฺปมตฺตกมฺปิ 
+<span class="LineNumber"> 009 </span>กิฺจิ  กิจฺจํ  นตฺถิ อิเธวิมํ หนฺตฺวาน(๕) อสฺส  หทยํ อานยิสฺสามีติ 
+<span class="LineNumber"> 010 </span>สนฺนิฏฺ€านมกาสีติ อตฺโถ ฯ  
+<span class="LineNumber"> 011 </span>	ตโต  ปุณฺณโก(๖)  จินฺเตสิ  ยนฺนูนาหํ  อิมํ  สหตฺเถน 
+<span class="LineNumber"> 012 </span>อมาเรตฺวา  เภรวรูปทสฺสเนน  ชีวิตกฺขยํ  ปาเปยฺยนฺติ ฯ  โส
+<span class="LineNumber"> 013 </span>เภรวยกฺขรูปํ นิมฺมิตฺวา (๗) ตชฺเชนฺโต  อาคนฺตฺวา  ตมฺปาเตตฺวา 
+<span class="LineNumber"> 014 </span>ปาเท  คเหตฺวา ทนฺตนฺตเร(๘) กตฺวา  ขาทิตุกาโม  วิย  อโหสิ ฯ
+<span class="LineNumber"> 015 </span>เอวํ  สนฺเตปิ มหาสตฺตสฺส โลมหํสนมตฺตมฺปิ  นาโหสิ ฯ  ตโต
+<span class="LineNumber"> 016 </span>สีหรูเปน  จ  มตฺตมหาหตฺถิรูเปน  จ  อาคนฺตฺวา  ทา€าหิ  เจว 
+<span class="LineNumber"> 017 </span>ทนฺเตหิ  จ  โอวิชฺฌิตุกาโม  วิย  หุตฺวา(๙)  ตถาปิ  อภายนฺตสฺส 
+<span class="LineNumber"> 018 </span># ๑. ม. นยิมสฺส ฯ  ๒. สี. ยุ. หทยํ อาทิยิสฺสนฺติ ฯ
+<span class="LineNumber"> 019 </span># ม. หทยมานยิสฺสนฺติ ฯ  ๓. ม. ยํ มเมตสฺส ฯ  
+<span class="LineNumber"> 020 </span># ๔. ม. ชีวิเตน ฯ  ๕. ม. มาเรตฺวา ฯ ๖. ม. ปุน ฯ 
+<span class="LineNumber"> 021 </span># ๗. ม. นิมฺมินิตฺวา มหาสตฺตํ ฯ  ๘. ม. ตํ ปาเตตฺวา ทา€านํ
+<span class="LineNumber"> 022 </span># อนฺตเร ฯ  ๙. ม. วิชฺฌิตุกาโม วิย อโหสิ ฯ 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  175
+
+<span class="LineNumber"> 002 </span>		อภยตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	สุตฺวา สุภาสิตํ วาจนฺติ อายสฺมโต อภยตฺเถรสฺส 
+<span class="LineNumber"> 004 </span>คาถา ฯ กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	โส  กิร  ปทุมุตฺตรสฺส  ภควโต  สาสเน  ปพฺพชิตฺวา
+<span class="LineNumber"> 006 </span>ธมฺมกถิโก  หุตฺวา  ธมฺมกถนกาเล  ป€มํ  จตูหิ  คาถาหิ  ภควนฺตํ 
+<span class="LineNumber"> 007 </span>อภิตฺถวิตฺวา  ปจฺฉา  ธมฺมํ  กเถสิ ฯ เตนสฺส  ปุฺกมฺมพเลน
+<span class="LineNumber"> 008 </span>กปฺปานํ  สตสหสฺสํ  อปายปฏิสนฺธิ  นาม  นาโหสิ ฯ  ตถา  
+<span class="LineNumber"> 009 </span>หิ วุตฺตํ  
+<span class="LineNumber"> 010 </span>		อภิตฺถวิตฺวา ปทุมุตฺตราหํ   
+<span class="LineNumber"> 011 </span>		ปสนฺนจิตฺโต อสมํ  สยมฺภภ  
+<span class="LineNumber"> 012 </span>		น  คจฺฉิ (๑) กปฺปานิ อปายภูมึ  
+<span class="LineNumber"> 013 </span>		สตํ สหสฺสานิ ผเลน ตสฺสาติ ฯ 
+<span class="LineNumber"> 014 </span>	เขตฺตสมฺปตฺติยาทีหิ  ตสฺส  จ  ปุพฺพปจฺฉิม(๒)สนฺนิฏฺ€าน-
+<span class="LineNumber"> 015 </span>เจตนานํ  อติวิย อุฬารภาเวน  โส อปริเมยฺโย ปุฺาภิสนฺโท
+<span class="LineNumber"> 016 </span>กุสลาภิสนฺโท (๓) ตาทิโส อโหสิ ฯ อจินฺติเย (๔) ปสนฺนานํ  วิปาโก 
+<span class="LineNumber"> 017 </span>โหติ  อจินฺติโยติ   หิ วุตฺตํ ฯ ตตฺถ ตตฺถ หิ ภเว อุปจิตํ 
+<span class="LineNumber"> 018 </span>ปุฺํ  ตสฺส  อุปตฺถมฺภกมโหสิ ฯ  ตถา  หิ  โส  วิปสฺสิสฺส 
+<span class="LineNumber"> 019 </span>ภควโต  เกตกปุปฺเผหิ ปูชมกาสิ ฯ เอวํ อุฬาเรหิ ปุฺวิเสเสหิ 
+<span class="LineNumber"> 020 </span># ๑. สี. นาคจฺฉิ ฯ  ๒. พหูสุ ปุพฺพมชฺฌิม... อิติ ทิสฺสติ ฯ  
+<span class="LineNumber"> 021 </span># ๓. สี. ทานาทิกุสลาภิสนฺโท ฯ  ๔. สี. อจินฺติเยสุ ฯ 

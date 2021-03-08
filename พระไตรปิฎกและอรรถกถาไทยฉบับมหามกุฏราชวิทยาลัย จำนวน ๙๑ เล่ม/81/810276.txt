@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                   ส. ถูกแล้ว. 
+<span class="LineNumber"> 002 </span>                   ป. ถ้าอย่างนั้น  ศีลที่มีการสมาทานเป็นเหตุ   ก็เจริญได้
+<span class="LineNumber"> 003 </span>น่ะสิ
+<span class="LineNumber"> 004 </span>                              <I>สมาทานเหตุกกถา  จบ</I>
+<span class="LineNumber"> 005 </span>                   <H2>อรรถกถาสมาทานเหตุกกถา</H2>
+<span class="LineNumber"> 006 </span>              <H2>ว่าด้วย   ศีลมีการสมาทานเป็นเหตุ</H2>
+<span class="LineNumber"> 007 </span>         บัดนี้   ชื่อว่าเรื่องศีลมีการสมาทานเป็นเหตุ.  ในเรื่องนั้น  ชนเหล่าใด
+<span class="LineNumber"> 008 </span>มีความเห็นผิดดุจลัทธิของนิกายมหาสังฆิกะทั้งหลายนั่นแหละว่า       ศีลมี
+<span class="LineNumber"> 009 </span>การสมาทานเป็นเหตุย่อมเจริญ    เพราะอาศัยพระบาลีว่า   <B>บุญย่อมเจริญ
+<span class="LineNumber"> 010 </span>ทุกเมื่อ</B>   เพราะถือเอาอรรถโดยไม่พิจารณาในเรื่องการสร้างอาราม  ดังนี้
+<span class="LineNumber"> 011 </span>คำถามของสกวาที   หมายถึงชนเหล่านั้น   คำตอบรับรองเป็นของปรวาที
+<span class="LineNumber"> 012 </span>หมายเอาการสั่งสมศีลที่ไม่ประกอบด้วยจิต.    คำที่เหลือเช่นกับเรื่องก่อน
+<span class="LineNumber"> 013 </span>นั่นแหละ   ดังนี้แล.
+<span class="LineNumber"> 014 </span>                        <I>อรรถกถา  สมาทานเหตุกกถา  จบ</I>

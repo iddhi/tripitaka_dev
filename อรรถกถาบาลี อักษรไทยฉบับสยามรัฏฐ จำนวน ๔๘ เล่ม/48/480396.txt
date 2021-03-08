@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  396
+
+<span class="LineNumber"> 002 </span>			รูปํวิปาโกติกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  รูปํ  วิปาโกติกถา  นาม  โหติ ฯ  ตตฺถ  ยํ  กมฺมสฺส 
+<span class="LineNumber"> 004 </span>กตตฺตา  อุปฺปนฺนา  จิตฺตเจตสิกา  วิย  กมฺมสฺส  กตตฺตา  อุปฺปนฺนํ 
+<span class="LineNumber"> 005 </span>ตํ  รูปมฺปิ วิปาโกติ  เยสํ  ลทฺธิ  เสยฺยถาปิ  อนฺธกานฺเจว 
+<span class="LineNumber"> 006 </span>สมิติยานฺจ  เต  สนฺธาย  ปุจฺฉา  สกวาทิสฺส  ปฏิฺา
+<span class="LineNumber"> 007 </span>อิตรสฺส ฯ  อถ  นํ  ยทิ  เต  รูปํ  วิปาโก  เอวํวิเธนาเนน
+<span class="LineNumber"> 008 </span>ภวิตพฺพนฺติ  โจเทตุํ  สุขเวทนียนฺติอาทิมาห ฯ  เสสเมตฺถ  (๑)  ยถา-
+<span class="LineNumber"> 009 </span>ปาลิเมว นิยฺยาตีติ ฯ 
+<span class="LineNumber"> 010 </span>		รูปํวิปาโกติกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 011 </span>		รูปํรูปาวจรารูปาวจรนฺติกถาวณฺณนา 
+<span class="LineNumber"> 012 </span>	อิทานิ  รูปํ  รูปาวจรารูปาวจรนฺติกถา  นาม  โหติ ฯ  ตตฺถ 
+<span class="LineNumber"> 013 </span>ยํ  กามาวจรกมฺมสฺส  กตตฺตา  รูปํ  ตํ  ยสฺมา  กามาวจรํ 
+<span class="LineNumber"> 014 </span>ตสฺมา รูปาวจรารูปาวจรกมฺมานมฺปิ  กตตฺตา  รูเปน  รูปาวจเรน  (๒)
+<span class="LineNumber"> 015 </span>ภวิตพฺพนฺติ  เยสํ  ลทฺธิ เสยฺยถาปิ  อนฺธกานํ  เต  สนฺธาย
+<span class="LineNumber"> 016 </span>อตฺถิ  รูปํ  รูปาวจรารูปาวจรนฺติ  ปุจฺฉา สกวาทิสฺส ปฏิฺา
+<span class="LineNumber"> 017 </span>อิตรสฺส ฯ เสสเมตฺถ เหฏฺ€า วุตฺตนยเมวาติ ฯ 
+<span class="LineNumber"> 018 </span>		รูปํรูปาวจรารูปาวจรนฺติกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 019 </span># ๑. ม. เสสํ ฯ  ๒. ม. รูปาวจรารูปาวจเรน ฯ

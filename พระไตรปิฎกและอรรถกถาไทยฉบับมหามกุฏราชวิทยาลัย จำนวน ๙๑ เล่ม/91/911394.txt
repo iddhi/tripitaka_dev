@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๑๑๓๙]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                            <H2>อวิตักกอวิจารบท</H2>
+<span class="LineNumber"> 004 </span>           [๑๑๔๐] ๑.  <B>อวิตักกอวิจารธรรม    ที่เป็นสนิทัสสนสัปปฏิฆ- 
+<span class="LineNumber"> 005 </span>ธรรม  อาศัยธรรมที่ไม่ใช่อวิตักกอวิจารธรรม  ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 006 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                             <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๑๑๔๑]  ในเหตุปัจจัย  มี  ๒๑  วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>       <I>นสนิทัสสนติกนสวิตักกติกสนิทัสสนติกสวิตักกติกะ  จบ</I>

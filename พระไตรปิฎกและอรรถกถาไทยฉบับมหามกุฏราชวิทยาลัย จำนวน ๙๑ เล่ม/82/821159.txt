@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 003 </span><H2>กายสังขารมูละ  วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         [ ๑๑๑๙ ]   กายสังขารกำลังดับในภูมิใด,        วจีสังขารก็กำลังดับ
+<span class="LineNumber"> 005 </span>ในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ในทุติยฌานภูมิก็ดี     ในตติยฌานภูมิก็ดี     กายสังขารกำลังดับ
+<span class="LineNumber"> 007 </span>ในภูมินั้น   แต่วจีสังขารไม่ใช่กำลังดับในภูมินั้น   ฯ ล ฯ
+<span class="LineNumber"> 008 </span>                       <I>จบ  กายสังขารมูละ  วจีสังขารมูลี</I>
+<span class="LineNumber"> 009 </span>                                  <I>กายสังขารมูล  จบ</I>
+<span class="LineNumber"> 010 </span>                                   <I>โอกาสวาระ  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                    <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 012 </span>                                      <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 013 </span><H2>กายสังขารมูละ วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 014 </span>         [๑๑๒๐]   กายสังขารกำลังดับแก่บุคคลใดในภูมิใด,   วจีสังขาร
+<span class="LineNumber"> 015 </span>ก็กำลังดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>สมุทยสัจจมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>สมุทยสัจจมูละ  มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๘๖๕]   สมุทยสัจจะจักเกิดแก่บุคคลใด,     มัคคสัจจะก็จักเกิด
+<span class="LineNumber"> 004 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ปุถุชนเหล่าใดจักไม่ได้มรรค    ปุถุชนเหล่านั้น     สมุทยสัจจะ
+<span class="LineNumber"> 006 </span>จักเกิดแก่บุคคลเหล่านั้นแต่มัคคสัจจะไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,
+<span class="LineNumber"> 007 </span>บุคคลเหล่าใดจักได้มรรค  สมุทยสัจจะจักเกิด และมัคคสัจจะก็จักเกิดแก่
+<span class="LineNumber"> 008 </span>บุคคลเหล่านั้น.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า    มัคคสัจจะจักเกิดแก่บุคคลใด,    สมุทยสัจจะก็จักเกิด 
+<span class="LineNumber"> 010 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         บุคคลเหล่าใดจักได้อรหัตมรรคในลำดับแห่งจิตใด     มัคคสัจจะ
+<span class="LineNumber"> 012 </span>จักเกิดแก่บุคคลเหล่านั้น  แต่สมุทยสัจจะไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,
+<span class="LineNumber"> 013 </span>บุคคลเหล่าใดจักได้มรรคที่นอกจากจิตนั้น      มัคคสัจจะจักเกิด      และ
+<span class="LineNumber"> 014 </span>สมุทยสัจจะก็จักเกิดแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 015 </span>                          <I>จบ  สมุทยสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 016 </span>                                      <I>สมุทยสัจจมูล  จบ</I>
+<span class="LineNumber"> 017 </span>                                       <I>ปุคคลวาระ   จบ</I>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  วิกณิณกชาตกํ  หน้า  355  
+
+<span class="LineNumber"> 002 </span>		หโตสิ ภตฺเตน สวาทิเตน  (๑)
+<span class="LineNumber"> 003 </span>		โลโล ว (๒) มจฺเฉ อนุพนฺธมาโนติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  กามนฺติ  เอกํเสน ฯ  ยหึ  อิจฺฉสิ  เตน  คจฺฉาติ  ยสฺมึ  
+<span class="LineNumber"> 005 </span>อิจฺฉสิ  ตตฺถ  คจฺฉ ฯ  มมฺมมฺหีติ  มมฺมฏฺ€าเน ฯ  วิกณฺณเกนาติ  
+<span class="LineNumber"> 006 </span>วิกณฺณกสลฺเลน ฯ  หโตสิ  ภตฺเตน  สวาทิเตน  โลโล  ว  มจฺเฉ  
+<span class="LineNumber"> 007 </span>อนุพนฺธมาโนติ  ตฺวํ  เภริวาทิตสฺาย  ภตฺเต  ทิยฺยมาเน  โลโล  
+<span class="LineNumber"> 008 </span>หุตฺวา  ขาทนตฺถาย  มจฺเฉ  อนุพนฺธมาโน  เตน  สวาทิเตน  ภตฺเตน  
+<span class="LineNumber"> 009 </span>หโต คตฏฺ€าเนปิ เต ชีวิตํ นตฺถีติ ฯ  
+<span class="LineNumber"> 010 </span>	โส อตฺตโน วสนฏฺ€านํ ปตฺวา ชีวิตกฺขยํ ปตฺโต ฯ  
+<span class="LineNumber"> 011 </span>	สตฺถา อิมํ [๓] ทสฺเสตฺวา อภิสมฺพุทฺโธ หุตฺวา ทุติยํ 
+<span class="LineNumber"> 012 </span>คาถมาห  
+<span class="LineNumber"> 013 </span>	[๓๑๖]	เอวมฺปิ โลกามิสํ โอปตนฺโต  
+<span class="LineNumber"> 014 </span>			วิหฺติ จิตฺตวสานุวตฺตี  
+<span class="LineNumber"> 015 </span>			โส หฺติ าติสขาน มชฺเฌ  
+<span class="LineNumber"> 016 </span>			มจฺฉานุโค โสริว สสสุมาโรติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  โลกามิสนฺติ  ปฺจ  กามคุณา  เต  หิ  โลโก  
+<span class="LineNumber"> 018 </span>อิฏฺ€โต  กนฺตโต  มนาปโต  คณฺหาติ  ตสฺมา  โลกามิสนฺติ  
+<span class="LineNumber"> 019 </span>วุจฺจนฺติ  (๔) ฯ  โอปตนฺโตติ  ตํ  โลกามิสํ  อนุวตฺตนฺโต  กิเลสวเสน  
+<span class="LineNumber"> 020 </span>จิตฺตวสานุวตฺตี  ปุคฺคโล  วิหฺติ  กิลมติ  (๕) วินาสํ  ปาปุณาติ ฯ (๕)
+<span class="LineNumber"> 021 </span># ๑. ม. สุวาทิเตน ฯ  เอวมุปริปิ ฯ  ๒. ม. จ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. เอตฺถนฺตเร การณนฺติ ทิสฺสติ ฯ  ๔. ม. วุจิจติ ฯ
+<span class="LineNumber"> 023 </span># ๕. ม. เทฺว ปา€า นตฺถิ ฯ

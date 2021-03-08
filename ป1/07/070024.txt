@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ที่ ๒  ในวรรคของตน  และพยัญชนะที่ ๓ ซ้อนหน้าพยัญชนะที่ ๔  ใน
+<span class="LineNumber"> 002 </span>วรรคของตน  เช่น ปริ=ขยํ  เป็น ปริกฺขยํ, อนุ=ฉวิโก  เป็น อนุจฺฉวิโก
+<span class="LineNumber"> 003 </span>อธิ=€านํ  เป็น อธิฏฺ€านํ, สารีปุตฺต=เถโร  เป็น สารีปุตฺตตฺเถโร,
+<span class="LineNumber"> 004 </span>มห=ผลานิ  เป็น มหปฺผลานิ,  มห=ฆโส  เป็น มหคฺฆโส  นิ=ฌานํ
+<span class="LineNumber"> 005 </span>เป็น   นิชฺฌานํ,  อุ=ธมฺโม  เป็น  อุทฺธมฺโม,  อุ=ภโว  เป็น อุพฺภโว
+<span class="LineNumber"> 006 </span>เป็นต้น.   
+<span class="LineNumber"> 007 </span>                                นิคคหิตสนธิ
+<span class="LineNumber"> 008 </span>	ในนิคคหิตสนธิ  ได้สนธิกิริโยปกรณ์  ๔ คือ โลโป  ๑  อาเทโส ๑
+<span class="LineNumber"> 009 </span>อาคโม  ๑ ปกติ ๑.
+<span class="LineNumber"> 010 </span>	ในโลปนิคคหิตนั้น เมื่อมีสระหรือพยัญชนะเบื้องหลัง  ลบ
+<span class="LineNumber"> 011 </span>นิคคหิตซึ่งอยู่หนึ่งได้บ้าง  เช่น  ตาสํ=อหํ  เป็น  ตาสาหํ,  วิทูนํ=อคฺคํ
+<span class="LineNumber"> 012 </span>เป็น  วิทูนคฺคํ  นี้สระอยู่หลัง, อริยสจฺจานํ=ทสฺสนํ  เป็น  อริยสจฺจาน-
+<span class="LineNumber"> 013 </span>ทสฺสนํ, พุทฺธานํ=สาสนํ  เป็นพุทฺธานสาสนํ   นี้พยัญชนะอยู่หลัง.
+<span class="LineNumber"> 014 </span>	อาเทสนิคคหิตนั้น  ดังนี้:-
+<span class="LineNumber"> 015 </span>	ก.  เมื่อมีพยัญชนะอยู่หลัง  นิคคหิตอยู่หน้า  แปลงนิคคหิตเป็น
+<span class="LineNumber"> 016 </span>พยัญชนะที่สุดวรรคได้ทั้ง ๕ ตัว  ตามสมควรแก่พยัญชนะวรรคที่
+<span class="LineNumber"> 017 </span>อยู่เบื้องหลัง ดังนี้ :-
+<span class="LineNumber"> 018 </span>	เป็น    ง    เช่น         อลํ=กโต           เป็น          อลงฺโก
+<span class="LineNumber"> 019 </span>	                               เอวํ=โข                "             เอวงฺโข
+<span class="LineNumber"> 020 </span>                                       สํ=คโห                 "             สงฺคโห
+<span class="LineNumber"> 021 </span>	                               สํ=ฆรนฺติ              "              สงฺฆรนฺติ
+   

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  50
+
+<span class="LineNumber"> 002 </span>วุจฺจติ  วิฺาณูปาทานกฺขนฺโธ  ฯ  อิเม  วุจฺจนฺติ  ภิกฺขเว 
+<span class="LineNumber"> 003 </span>ปฺจุปาทานกฺขนฺธาติ(๑) ฯ
+<span class="LineNumber"> 004 </span>	เอตฺถ  จ  ยถา  เวทนาทโย  อนาสวาปิ  อตฺถิ  สาสวาปิ
+<span class="LineNumber"> 005 </span>น เอวํ  รูปํ ฯ  ยสฺมา  ปนสฺส  ราสฏฺเ€น  ขนฺธภาโว  ยุชฺชติ
+<span class="LineNumber"> 006 </span>ตสฺมา  ขนฺเธสุ  วุตฺตํ ฯ  ยสฺมา  ราสฏฺเ€น  จ(๒)  สาสวฏฺเ€น
+<span class="LineNumber"> 007 </span>จ  อุปาทานกฺขนฺธภาโว  ยุชฺชติ  ตสฺมา  อุปาทานกฺขนฺเธสุ
+<span class="LineNumber"> 008 </span>วุตฺตํ ฯ  เวทนาทโย  ปน  อนาสวาว  ขนฺเธสุ  วุตฺตา  สาสวา
+<span class="LineNumber"> 009 </span>อุปาทานกฺขนฺเธสุ ฯ
+<span class="LineNumber"> 010 </span>	อุปาทานกฺขนฺธาติ  จ  เอตฺถ  อุปาทานโคจรา  ขนฺธา
+<span class="LineNumber"> 011 </span>อุปาทานกฺขนฺธาติ  เอวมตฺโถ ทฏฺ€พฺโพ ฯ  อิธ  ปน  สพฺเพเปเต
+<span class="LineNumber"> 012 </span>เอกชฺฌํ  กตฺวา   ขนฺธาติ  อธิปฺเปตา ฯ
+<span class="LineNumber"> 013 </span>	อนูนาธิกโตติ  กสฺมา  ปน  ภควตา  ปฺเจว  ขนฺธา 
+<span class="LineNumber"> 014 </span>วุตฺตา  อนูนา  อนธิกาติ ฯ  สพฺพสงฺขตสภาเคกสงฺคหโต 
+<span class="LineNumber"> 015 </span>อตฺตตฺตนิยคฺคาหวตฺถุสฺส  เอตปฺปรมโต  อฺเสฺจ  ตทวโรธโต ฯ 
+<span class="LineNumber"> 016 </span>อเนกปฺปเภเทสุ  หิ  สงฺขตธมฺเมสุ  สภาควเสน  สงฺคยฺหมาเนสุ  
+<span class="LineNumber"> 017 </span>รูปํ  รูปสภาเคกสงฺคหวเสน (๓) เอโก  ขนฺโธ  โหติ  เวทนา  
+<span class="LineNumber"> 018 </span>เวทนาสภาเคกสงฺคหวเสน(๔)  เอโก  ขนฺโธ  โหติ ฯ  เอส  นโย  
+<span class="LineNumber"> 019 </span>สฺาทีสุปิ ฯ  ตสฺมา  สพฺพสงฺขตสภาเคกสงฺคหโต(๕)  ปฺเจว
+<span class="LineNumber"> 020 </span># ๑. สํ. ข. ๑๗/๙๕, ๙๖/๕๘, ๕๙ ฯ  ๒. ม. จสทฺโท นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. รูปสภาคสงฺคหวเสน ฯ  ๔. ม. เวทนาสภาคสงฺคหวเสน ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. สภาคสงฺคหโต ฯ 

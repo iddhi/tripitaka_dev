@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 267
+
+<span class="LineNumber"> 002 </span>	[๙๑๐]อิทฺจ สุตฺวา [๑]วรุณสฺส วากฺยํ  
+<span class="LineNumber"> 003 </span>		อุฏฺ€าย ยกฺโข ปรมปฺปีติโต  
+<span class="LineNumber"> 004 </span>		ตตฺเถว สนฺโต ปุริสํ อสํสิ  
+<span class="LineNumber"> 005 </span>		อาเนหิ อาชฺมิเธว ยุตฺตนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  อสํสีติ (๒) อตฺตโน  อุปฏฺ€ากํ  อาณาเปสิ ฯ 
+<span class="LineNumber"> 007 </span>อาชฺนฺติ  การณาการณชานนกํ สินฺธวํ (๓)ฯ ยุตฺตนฺติ 
+<span class="LineNumber"> 008 </span>กปฺปิตํ ฯ  
+<span class="LineNumber"> 009 </span>	ชาตรูปมยา กณฺณา	กาจมฺหิจมยา ขุรา  
+<span class="LineNumber"> 010 </span>	ชมฺโพนทสฺส ปากสฺส	สุวณฺณสฺส อุรจฺฉโทติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  ชาตรูปมยาติ  ตเมว  สินฺทวํ  วณฺเณนฺโต  อาห ฯ  
+<span class="LineNumber"> 012 </span>ตสฺส หิ  มโนมยสินฺธวสฺส(๔)  ชาตรูปมยา  กณฺณา ฯ  กาจมฺหิจมยา
+<span class="LineNumber"> 013 </span>ขุราติ  ตสฺส  ขุรา  รตฺตมณิมยาติ  อตฺโถ ฯ  ชมฺโพนทสฺส  
+<span class="LineNumber"> 014 </span>ปากสฺสาติ  ชมฺโพรสโต(๕)  ชาตสฺส ปากสฺส(๖) รตฺตสุวณฺณสฺส มโย 
+<span class="LineNumber"> 015 </span>อุรจฺฉโท ฯ  
+<span class="LineNumber"> 016 </span>	โส  ปุริโส  ตาวเทว  ตํ  สินฺธวํ  อาเนสิ ฯ  ปุณฺณโก 
+<span class="LineNumber"> 017 </span>ตํ  อภิรุยฺห  อากาเสน  ปกฺขนฺทิตฺวา  เวสฺสวณสฺส  สนฺติกํ  
+<span class="LineNumber"> 018 </span>คนฺตฺวา  นาคภวนํ  วณฺเณตฺวา  ตํ  ปวุตฺตึ(๗)  อาโรเจสิ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. เอตฺถนฺตเร ตํ สุตฺวา ปุณฺณโก โสมนสฺสปฺปตฺโต 
+<span class="LineNumber"> 020 </span># สินฺธวํ นยนตฺถาย อุปฏฺ€ากํ อาณาเปสิ ฯ 
+<span class="LineNumber"> 021 </span># ตมตฺถํ ปกาเสนฺโต สตฺถา อาหาติ ทิสฺสนฺติ ฯ 
+<span class="LineNumber"> 022 </span># ๒. ม. ปุริสํ อสํสีติ ฯ  ๓. ม. การณาการณชานนกสินฺธวํ ฯ
+<span class="LineNumber"> 023 </span># ๔. ม. มโนมยสฺส สินฺธวสฺส ฯ  ๕. ม. ขมฺโพนทสฺส ฯ 
+<span class="LineNumber"> 024 </span># ๖. ม. ปกฺกสฺส ฯ  ๗. ม. ปวตฺตึ ฯ 

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                ๖.  นิพพาน  
+<span class="LineNumber"> 002 </span>                                    อุทเทส
+<span class="LineNumber"> 003 </span>                <B>๑.  นิพฺพานํ  ปรมํ  วทนฺติ  พุทฺธา.</B>
+<span class="LineNumber"> 004 </span>       พระพุทธเจ้าทั้งหลาย  ย่อมกล่าวนิพพานว่ายวดยิ่ง.
+<span class="LineNumber"> 005 </span>ุ                           พุทฺธวคฺค  ธมฺมปท.<SUP>๑</SUP>
+<span class="LineNumber"> 006 </span>             <B>๒.  นิพฺพานคมนํ  มคฺคํ  ขิปฺปเมว  วิโสธเย.</B>
+<span class="LineNumber"> 007 </span>                       พึงรีบรัดชำระทางไปนิพพาน.
+<span class="LineNumber"> 008 </span>                             มคฺควคฺค  ธมฺมปท.<SUP>๒</SUP>
+<span class="LineNumber"> 009 </span>                             <B>๓.  นิพฺพานํ  ปรมํ  สุขํ.</B>
+<span class="LineNumber"> 010 </span>                          นิพพานเป็นสุขอย่างยวดยิ่ง.
+<span class="LineNumber"> 011 </span>                                  สุขวคฺค  ธมฺมปท.<SUP>๓</SUP>
+<span class="LineNumber"> 012 </span>                                      <B>พรรณนาความ</B>
+<span class="LineNumber"> 013 </span>	นิพพานศัพท์  นัยหนึ่ง  แปลว่า  ดับ  ออกจากธาตุ  <B>วา</B>  มี  <B>นี</B>
+<span class="LineNumber"> 014 </span>เป็นบทหน้า  <B>ยุ</B>  ปัจจัย  ที่แปลงเป็น  <B>อน</B>   อีกนัยหนึ่ง  แปลว่า  หาของ
+<span class="LineNumber"> 015 </span>เสียบแทงมิได้  ออกจาก  <B>วาน</B>  ศัพท์  อันเป็นชื่อของลูกศร มี <B> นี<B>
+<span class="LineNumber"> 016 </span>เป็นบทหน้า  หมายความปฏิเสธ  เข้ารูปเป็นปัญจมีหรือฉัฏฐีพหุพพิหิ-
+<span class="LineNumber"> 017 </span>สมาส  เทียบได้กับบทว่า  "อพฺพุฬฺหสลฺโล"  มีลูกศรอันถอนแล้ว
+<span class="LineNumber"> 018 </span>เป็นคูณบทของพระอรหันต์.	
+<span class="LineNumber"> 019 </span>	จะอธิบายนิพพานให้เข้าใจชัด  จำจะเล่ามติแห่งลัทธิภาย
+
+<span class='footnote'>๑.  ขุ.  ธ.  ๒๕/๔๐.  ที.  มหา.  ๑๐/๕๗.  ๒. ขุ.  ธ.  ๒๕/๕๓.  ๓.  ขุ.  ธ.  ๒๕/๔๒.  ม. ม.  ๑๓/๓๘๑.</span>

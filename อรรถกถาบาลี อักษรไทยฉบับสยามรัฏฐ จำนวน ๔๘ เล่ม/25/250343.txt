@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  343
+
+<span class="LineNumber"> 002 </span>				อฏฺ€มวคฺควณฺณนา  
+<span class="LineNumber"> 003 </span>			วจฺฉปาลตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 004 </span>	สุสุขุมนิปุณตฺถทสฺสินาติ  อายสฺมโต  วจฺฉปาลตฺเถรสฺส  
+<span class="LineNumber"> 005 </span>คาถา ฯ  กา  อุปฺปตฺติ  
+<span class="LineNumber"> 006 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ  ภเว  
+<span class="LineNumber"> 007 </span>ปุฺานิ  อาจินนฺโต เทวมนุสฺเสสุ  สํสรนฺโต  อิโต  เอกนวุเต 
+<span class="LineNumber"> 008 </span>กปฺเป  พฺราหฺมณกุเล  นิพฺพตฺติตฺวา พฺราหฺมณสิปฺเปสุ  นิปฺผตฺตึ 
+<span class="LineNumber"> 009 </span>คนฺตฺวา อคฺคึ ปริจรนฺโต เอกทิวสํ มหติยา กํสปาติยา
+<span class="LineNumber"> 010 </span>ปายาสํ (๑) อาทาย ทกฺขิเณยฺยํ ปริเยสนฺโต วิปสฺสึ ภควนฺตํ 
+<span class="LineNumber"> 011 </span>อากาเส จงฺกมนฺตํ ทิสฺวา อจฺฉริยพฺภุตจิตฺตชาโต  ภควนฺตํ
+<span class="LineNumber"> 012 </span>อภิวาเทตฺวา  ทาตุกามตํ  ทสฺเสติ ฯ  ปฏิคฺคเหสิ ภควา 
+<span class="LineNumber"> 013 </span>อนุกมฺปํ  อุปาทาย ฯ  
+<span class="LineNumber"> 014 </span>	โส  เตน  ปุฺกมฺเมน  เทวมนุสฺเสสุ  สํสรนฺโต อิมสฺมึ 
+<span class="LineNumber"> 015 </span>พุทฺธุปฺปาเท  ราชคเห  วิภวสมฺปนฺนสฺส  พฺราหฺมณสฺส  ปุตฺโต  
+<span class="LineNumber"> 016 </span>หุตฺวา  นิพฺพตฺติ วจฺฉปาโลติสฺส  นามํ  อโหสิ ฯ  โส
+<span class="LineNumber"> 017 </span>พิมฺพิสารสมาคเม  อุรุเวลกสฺสปตฺเถเรน  สทฺธึ อิทฺธิปาฏิหาริยํ 
+<span class="LineNumber"> 018 </span>ทสฺเสตฺวา  สตฺถุ  ปรมนิปจฺจกาเร  กเต  ตํ ทิสฺวา ปฏิลทฺธสทฺโธ 
+<span class="LineNumber"> 019 </span>ปพฺพชิตฺวา  สตฺตาหปพฺพชิโตเอว  วิปสฺสนํ  วฑฺเฒตฺวา
+<span class="LineNumber"> 020 </span># ๑. สี. กํสปาติยา หวฺยเสสํ ปายาสํ ฯ

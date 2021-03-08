@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>                        <H3>อรรถกถาสูตรที่  ๑๗</H3> 
+
+<span class="LineNumber"> 002 </span>         ใน<B>สูตรที่  ๑๗</B>   (ข้อ  ๔๒๔)   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         <B>สติ</B>   มีใจไม่ลอยเป็นลักษณะ.  <B>สัมปชัญญะ</B>   มีรู้สึกตัวเป็นลักษณะ.
+<span class="LineNumber"> 004 </span>                                    จบอรรถกถาสูตรที่  ๑๗ 
+<span class="LineNumber"> 005 </span>                                      <I>จบสมาปัตติวรรคที่ ๕</I>
+<span class="LineNumber"> 006 </span>                                        <B>จบตติยปัณณาสก์</B>

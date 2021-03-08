@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>อย่างนี้แล    ดูก่อนภิกษุทั้งหลาย    บรรดาสุข  ๒  อย่างนี้     สุขที่ถึงสมาธิ
+<span class="LineNumber"> 002 </span>เป็นเลิศ. 
+<span class="LineNumber"> 003 </span>                                             จบสูตรที่ ๑๐
+
+<span class="LineNumber"> 004 </span>                           <H3>สูตรที่ ๑๑</H3>
+
+<span class="LineNumber"> 005 </span>         [๓๑๙ ]  ๗๓.  ดูก่อนภิกษุทั้งหลาย    สุข   ๒ อย่างนี้    ๒ อย่าง
+<span class="LineNumber"> 006 </span>เป็นไฉน  คือ    สุขเกิดแต่ฌานมีปีติเป็นอารมณ์      สุขเกิดแต่ฌานไม่มี
+<span class="LineNumber"> 007 </span>ปีติเป็นอารมณ์ ๑  ดูก่อนภิกษุทั้งหลาย    สุข ๒ อย่างนี้แล    ดูก่อนภิกษุ
+<span class="LineNumber"> 008 </span>ทั้งหลาย   บรรดาสุข  ๒  อย่างนี้     สุขเกิดแต่ฌานไม่มีปีติเป็นอารมณ์เป็น
+<span class="LineNumber"> 009 </span>เลิศ.
+<span class="LineNumber"> 010 </span>                                           จบสูตรที่ ๑๑
+
+<span class="LineNumber"> 011 </span>                           <H3>สูตรที่ ๑๒</H3> 
+
+<span class="LineNumber"> 012 </span>         [๓๒๐]  ๗๔.  ดูก่อนภิกษุทั้งหลาย    สุข  ๒ อย่างนี้   ๒ อย่าง
+<span class="LineNumber"> 013 </span>เป็นไฉน   คือ  สุขที่มีความยินดีเป็นอารมณ์   ๑  สุขที่มีความวางเฉยเป็น
+<span class="LineNumber"> 014 </span>อารมณ์  ๑  ดูก่อนภิกษุทั้งหลาย  สุข  ๒ อย่างนี้แล   ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 015 </span>บรรดาสุข  ๒  อย่างนี้  สุขที่มีความวางเฉยเป็นอารมณ์เป็นเลิศ.
+<span class="LineNumber"> 016 </span>                                             จบสูตรที่ ๑๒
+
+<span class="LineNumber"> 017 </span>                           <H3>สูตรที่ ๑๓</H3>
+
+<span class="LineNumber"> 018 </span>         [๓๒๑] ๗๕.  ดูก่อนภิกษุทั้งหลาย   สุข ๒ อย่างนี้     ๒ อย่าง
+<span class="LineNumber"> 019 </span>เป็นไฉน    คือ    สุขที่มีรูปเป็นอารมณ์   ๑  สุขที่ไม่มีรูปเป็นอารมณ์  ๑
+<span class="LineNumber"> 020 </span>ดูก่อนภิกษุทั้งหลาย   สุข ๒ อย่างนี้แล   ดูก่อนภิกษุทั้งหลาย    บรรดาสุข
+<span class="LineNumber"> 021 </span>๒ อย่างนี้   สุขที่ไม่มีรูปเป็นอารมณ์เป็นเลิศ.
+<span class="LineNumber"> 022 </span>                                                จบสูตรที่  ๑๓
+<span class="LineNumber"> 023 </span>                             <I>จบสุขวรรคที่  ๒</I>

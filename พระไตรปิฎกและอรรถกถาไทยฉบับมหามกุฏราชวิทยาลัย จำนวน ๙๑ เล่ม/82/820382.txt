@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>ใช่เคยเกิดแก่บุคคลเหล่านั้นในภูมินั้น,     บุคคลที่เกิดอยู่ในกามาวจรภูมิ
+<span class="LineNumber"> 002 </span>นั้น      ธัมมายตนะเคยเกิด    และฆานายตนะก็เคยเกิดแก่บุคคลเหล่านั้น 
+<span class="LineNumber"> 003 </span>ในภูมินั้น.
+<span class="LineNumber"> 004 </span>                           <I>จบ  ฆานายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 005 </span>                                       <I>ฆานายตนมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                            <H1>รูปายตนมูล</H1>
+<span class="LineNumber"> 007 </span><H2>รูปายตนมูละ  มนายตนมูลี :-</H2>
+<span class="LineNumber"> 008 </span>         [๓๕๕]   รูปายตนะเคยเกิดแก่บุคคลใดในภูมิใด,    มนาตยนะ
+<span class="LineNumber"> 009 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         บุคคลที่เกิดอยู่ในอสัญญสัตตภูมินั้น รูปายตนะเคยเกิดแก่บุคคล
+<span class="LineNumber"> 011 </span>เหล่านั้นในภูมินั้น    แต่มนายตนะไม่ใช่เคยเกิดแก่บุคคลเหล่านั้นในภูมิ
+<span class="LineNumber"> 012 </span>นั้น,    บุคคลที่เกิดอยู่ในปัญจโวการภูมินั้น    รูปายตนะเคยเกิด    และ
+<span class="LineNumber"> 013 </span>มนายตนะก็เคยเกิดแก่บุคคลเหล่านั้นในภูมินั้น.                             
+<span class="LineNumber"> 014 </span>         ก็หรือว่า   มนายตนะเคยเกิดแก่บุคคลใดในภูมิใด,    รูปายตนะ
+<span class="LineNumber"> 015 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?

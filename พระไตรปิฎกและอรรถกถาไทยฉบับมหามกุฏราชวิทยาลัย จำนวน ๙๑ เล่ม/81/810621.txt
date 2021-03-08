@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>อัจจันตนิยามกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๙๒]  <B>สกวาที</B>    ปุถุชนมีความแน่นอนโดยส่วนเดียว หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. บุคคลทำมาตุฆาตเป็นแน่นอนโดยส่วนเดียว บุคคล
+<span class="LineNumber"> 005 </span>ผู้ทำปิตุฆาต    ฯลฯ   บุคคลผู้ทำอรหันตฆาต   ฯลฯ  บุคคลทำโลหิตุปบาท
+<span class="LineNumber"> 006 </span>บุคคลผู้ทำสังฆเภท  เป็นผู้แน่นอนโดยส่วนเดียว  หรือ ?
+<span class="LineNumber"> 007 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 008 </span>                       ส. ปุถุชนมีความแน่นอนโดยส่วนเดียว หรือ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. วิจิกิจฉา พึงเกิดแก่บุคคลแน่นอนโดยส่วนเดียว หรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ถูกแล้ว.                    
+<span class="LineNumber"> 012 </span>                       ส. หากว่า   วิจิกิจฉา  พึงเกิดแก่บุคคลผู้แน่นอนโดยส่วน
+<span class="LineNumber"> 013 </span>เดียว ก็ต้องไม่กล่าวว่า  ปุถุชนมีความแน่นอนโดยส่วนเดียว.
+<span class="LineNumber"> 014 </span>         [๑๗๙๓]  ส. วิจิกิจฉา     ไม่พึงเกิดแก่บุคคลแน่นอนโดยส่วนเดียว
+<span class="LineNumber"> 015 </span>หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                       ส. ละวิจิกิจฉาได้  หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 019 </span>                       ส. ละวิจิกิจฉาได้ หรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 021 </span>                       ส. ละได้ด้วยโสดาปัตติมรรค หรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ

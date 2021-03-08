@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>             <B>๑๒.  ปัจจัย ๔</B> คือ อวิคตะ  ปัจฉาชาตะ วิปปยุตตะ  อัตถิ-
+<span class="LineNumber"> 002 </span>ปัจจัย   มี ๓ วาระ. 
+<span class="LineNumber"> 003 </span>             <B>๑๓.  ปัจจัย ๓</B>  คือ อวิคตะ   ปุเรชาตะ   อัตถิปัจจัย  มี ๓
+<span class="LineNumber"> 004 </span>วาระ. 
+<span class="LineNumber"> 005 </span>             <B>๑๔.  ปัจจัย ๕</B>  คือ อวิคตะ นิสสยะ ปุเรชาตะ วิปปยุตตะ
+<span class="LineNumber"> 006 </span>อัตถิปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 007 </span>             <B>๑๕.  ปัจจัย ๔</B> คือ อวิคตะ  อารัมมณะ  ปุเรชาตะ  อัตถิ-
+<span class="LineNumber"> 008 </span>ปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 009 </span>             <B>๑๖.  ปัจจัย ๖</B> คือ อวิคตะ อารัมมณะ นิสสยะ  ปุเรชาตะ
+<span class="LineNumber"> 010 </span>วิปปยุตตะ  อัตถิปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>             <B>๑๗.  ปัจจัย ๖</B> คือ อวิคตะ อารัมมณะ อธิปติ อุปนิสสยะ
+<span class="LineNumber"> 012 </span>ปุเรชาตะ   อัตถิปัจจัย   มี ๑ วาระ.
+<span class="LineNumber"> 013 </span>             <B>๑๘.  ปัจจัย ๘</B> คือ อวิคตะ  อารัมมณะ   อธิปติ  นิสสยะ
+<span class="LineNumber"> 014 </span>อุปนิสสยะ  ปุเรชาตะ  วิปปยุตตะ  อัตถิปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 015 </span>             <B>๑๙.  ปัจจัย ๖</B> คือ อวิคตะ  นิสสยะ  ปุเรชาตะ อินทริยะ
+<span class="LineNumber"> 016 </span>วิปปยุตตะ  อัตถิปัจจัย  มี ๑ วาระ.
+
+<span class="LineNumber"> 017 </span>                               <H1>สหชาตฆฏนา ๑๐</H1>
+<span class="LineNumber"> 018 </span> <B>[๖๗๓]  ๒๐.  ปัจจัย ๔</B>  คือ อวิคตะ  สหชาตะ   นิสสยะ   อัตถิ-
+<span class="LineNumber"> 019 </span>ปัจจัย    มี ๙ วาระ.

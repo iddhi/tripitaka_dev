@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ   ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๙๔๕]  ทุกขสัจจะกำลังดับในภูมิใด,  ฯ ล ฯ
+<span class="LineNumber"> 005 </span>                                     <I>ทุกขสัจจมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                     <I>โอกาสวาระ  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                      <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                         <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 009 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๙๔๖]  ทุกขสัจจะกำลังดับแก่บุคคลใดในภูมิใด,    สมุทยสัจจะ
+<span class="LineNumber"> 011 </span>ก็เคยดับแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ในภังคขณะแห่งปฏิสนธิจิตของบุคคลผู้เกิดอยู่ในสุทธาวาสภูมิ
+<span class="LineNumber"> 013 </span>ก็ดี  บุคคลผู้ที่กำลังตายในอสัญญสัตตภูมิก็ดี ทุกขสัจจะกำลังดับแก่บุคคล
+<span class="LineNumber"> 014 </span>เหล่านั้นในภูมินั้น       แต่สมุทยสัจจะไม่ใช่เคยดับแก่บุคคลเหล่านั้นใน
+<span class="LineNumber"> 015 </span>ภูมินั้น,      บุคคลที่นอกนี้ผู้กำลังตายในจตุโวการภูมิ      ปัญจโวการภูมิ
+<span class="LineNumber"> 016 </span>เหล่านั้นก็ดี        ในภังคขถเะแห่งจิตในปวัตติกาลของบุคคลเหล่านั้นก็ดี
+<span class="LineNumber"> 017 </span>ทุกขสัจจะกำลังดับและสมุทยสัจจะก็เคยดับแก่บุคคลเหล่านั้นในภูมินั้น.

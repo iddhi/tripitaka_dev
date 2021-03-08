@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>	ในกัมมวาจก  ลง  <B>ย</B>  ปัจจัย  กับทั้ง  <B>อิ</B>  อาคม  หน้า  <B>ย</B>   ด้วย  
+<span class="LineNumber"> 002 </span>อุ.  ดังนี้ :-
+<span class="LineNumber"> 003 </span>	<B>ปจิเต  สิวิยเต</B>  เป็นต้น.
+<span class="LineNumber"> 004 </span>	ในภาววาจก  ลง  <B>ย</B>  ปัจจัย  อุ.  <B>ภูยเต</B>  เป็นต้น
+<span class="LineNumber"> 005 </span>	ในเหตุกัตตุวาจก   ลงปัจจัย  ๔  ตัว  คือ  <B>เณ.  ณย,  ณาเป,
+<span class="LineNumber"> 006 </span>ณาปย.</B>  ตัวใดตัวหนึ่ง.  อุ.  ดังนี้ :-
+<span class="LineNumber"> 007 </span>	<B>เณ = ปาเจติ,  สิพฺเพติ.  ณย = ปาจยติ,  สิพฺพยติ.  ณาเป =
+<span class="LineNumber"> 008 </span>ปาจาเปติ,  สิพฺพาเปติ.  ณาปย = ปาจาปยติ,  ลิพฺพาปยติ.</B>  เป็นต้น.
+<span class="LineNumber"> 009 </span>	ในเหตุกัมมวาจก  ลงปัจจัย  ๑๐  ตัวนั้นด้วย,  ลงเหตุปัจจัย  คือ
+<span class="LineNumber"> 010 </span><B>ณาเป</B>  ด้วย,  ลง  <B>ย</B>  ปัจจัยกับทั้ง  <B>อิ</B>  อาคม  หน้า  <B>ย</B>    ด้วย  อุ.
+<span class="LineNumber"> 011 </span>ดังนี้ :-
+<span class="LineNumber"> 012 </span>	<B>ปาจาปิยเต,  สิพฺพาปิยเต.</B>  เป็นต้น.
+<span class="LineNumber"> 013 </span>	ยังมีปัจจัยที่สำหรับประกอบกับธาตุอีก ๓  ตัว  คือ  <B>ข,  ฉ, ส,</B>
+<span class="LineNumber"> 014 </span>เป็นไปในความปรารถนา  อุ.  ดังนี้ :-
+<span class="LineNumber"> 015 </span>	<B>ภุชฺ</B>  ธาตุ  เป็นไปในความ กิน  <B>ข</B>  ปัจจัย  <B>[ภุชฺ + ข = พุภุกฺข + ติ]</B>
+<span class="LineNumber"> 016 </span>สำเร็จรูปเป็น  พุภุกฺขติ  ปรารถนาจะกิน.
+<span class="LineNumber"> 017 </span>	<B>ฆสฺ</B>  ธาตุ  เป็นไปในความ  กิน  <B>ฉ</B>  ปัจจัย  <B>[ฆสฺ + ฉ = ชิฆจฺฉ + ติ]</B>
+<span class="LineNumber"> 018 </span>สำเร็จรูปเป็น  <B>ชิฆจฺฉติ</B>  ปรารถนาจะกิน.
+<span class="LineNumber"> 019 </span>	<B>หรฺ</B>  ธาตุ  เป็นไปในความ  นำไป  <B>ส</B>  ปัจจัย  <B>[หรฺ + ส = ชิคึส + ติ]</B>
+<span class="LineNumber"> 020 </span>สำเร็จรูปเป็น  <B>ชิคึสติ</B>  ปรารถนาจะนำไป.

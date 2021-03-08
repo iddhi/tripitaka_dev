@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>สัตตกนิบาตชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                                 <H1>๑.  กุกกุวรรค</H1>
+
+<span class="LineNumber"> 003 </span>                                 <H1>๑.  กุกกุชาดก</H1>
+
+<span class="LineNumber"> 004 </span>                <H1>ว่าด้วยปฏิปทาของพระราชาผู้เป็นบัณฑิต</H1> 
+
+<span class="LineNumber"> 005 </span>         <B>[๙๖๙]   ยอดโดมสูงศอกครึ่ง     จันทันประมาณ
+<span class="LineNumber"> 006 </span>           ๘  คืบ  ยันยอดโดมนั้นไว้  ยอดโดมนั้นทำด้วย
+<span class="LineNumber"> 007 </span>           ไม้แก่นไม่มีกระพี้    ทรงตัวอยู่ได้อย่างไร     จึง
+<span class="LineNumber"> 008 </span>           ไม่ตกลงจากข้างบน. 
+<span class="LineNumber"> 009 </span>         [๙๗๐]   จันทัน  ๓๐  ตัว ทำด้วยไม้แก่นไม่มีกระพี้
+<span class="LineNumber"> 010 </span>           เหล่าใดวางเรียงยันกันไว้      ยอดโดมที่จันทัน
+<span class="LineNumber"> 011 </span>           เหล่านั้นยึดไว้ดีแล้ว     และถูกกำลังจันทันบีบ
+<span class="LineNumber"> 012 </span>           บังคับวางขนาบไว้        จึงไม่ตกไปจากข้างบน
+<span class="LineNumber"> 013 </span>           ฉันใด. 
+<span class="LineNumber"> 014 </span>         [๙๗๑]   แม้พระราชาผู้ทรงเป็นบัณฑิต   ก็ฉันนั้น
+<span class="LineNumber"> 015 </span>           ที่เหล่าองคมนตรีผู้เป็นมิตรมั่นคง     มีรูปแบบ
+<span class="LineNumber"> 016 </span>           ไม่แตกแยกกัน     มีความสะอาด     ยึดเหนี่ยว</B>

@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>สัจจะก็ไม่ใช่กำลังเกิดแก่บุคคล, เหล่านั้นในภูมินั้น. 
+<span class="LineNumber"> 002 </span>                     <I>จบ  สมุทยสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 003 </span>                                <I>สมุทยสัจจมูล  จบ</I>
+<span class="LineNumber"> 004 </span>                              <I>ปุคคโลกาสวาระ   จบ</I>
+<span class="LineNumber"> 005 </span>                      <I>ปัจจุปปันนาตีตวาระ  ปัจจนิก  จบ</I>

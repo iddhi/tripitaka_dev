@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>	ถ้าพยัญชนะอยู่หลัง แปลง เอว เป็น โอ ได้บ้าง เช่น อว=นทฺธา
+<span class="LineNumber"> 002 </span>เป็น โอนทฺธา   
+<span class="LineNumber"> 003 </span>	แปลง ธ เป็น  ห  เช่น       สาธุ=ทสฺสนํ       เป็น      สาหุทสฺสนํ
+<span class="LineNumber"> 004 </span>	"    ท   "     ต     "         สุคโท                   "         สุคโต
+<span class="LineNumber"> 005 </span>	"    ต   "     ฏ     "         ทุกฺกตํ                  "          สุคโต
+<span class="LineNumber"> 006 </span>	"    ต   "     ธ      "         คนฺพพฺโพ             "          ทุกฺกฏํ
+<span class="LineNumber"> 007 </span>	"    ต   "     ตฺร    "         อตฺตโช                 "          อตฺรโช
+<span class="LineNumber"> 008 </span>	"    ต   "     ก      "         นิยโต                    "          นิยโก
+<span class="LineNumber"> 009 </span>	"    ต   "      จ      "         ภโต                      "          ภจฺโจ
+<span class="LineNumber"> 010 </span>	"    ค    "     ก       "        กุลุปโค                 "          กุลุปโก
+<span class="LineNumber"> 011 </span>	"    ร     "     ล       "         มหาสาโร             "          มหาสาโล
+<span class="LineNumber"> 012 </span>	"    ย     "     ช       "         คฺวโย                   "           ควฺโช
+<span class="LineNumber"> 013 </span>	"    ย     "     ก       "          สยํ                      "           สกํ
+<span class="LineNumber"> 014 </span>	"    ว      "     พ      "          กุวโต                   "           กุพฺพโต
+<span class="LineNumber"> 015 </span>	"    ช      "      ช      "          นิชํ                       "          นิยํ
+<span class="LineNumber"> 016 </span>	"    ป      "      ผ      "          นิปฺปตฺติ               "          นิปฺผตฺติ
+<span class="LineNumber"> 017 </span>(๑๔ นี้  ไม่นิยมสระหรือพยัญชนะอยู่เบื้องปลาย  แม้ไม่มีสระหรือ
+<span class="LineNumber"> 018 </span>พยัญชนะอยู่เบื้องหลัง  คือไม่มีศัพท์หลัง  ก็แปลงได้).
+<span class="LineNumber"> 019 </span>	<B>พยัญชนะอาคม</B>  ๘ ตัว คือ  ย  ว  ม ท  น  ต  ร ฬ นี้  ถ้าสระ
+<span class="LineNumber"> 020 </span>อยู่เบื้องหลัง  ลงได้บ้าง ดังนี้ :-
+<span class="LineNumber"> 021 </span> 	ย   อาคม    เช่น   ยถา=อิทํ          เป็น       ยถยิทํ
+<span class="LineNumber"> 022 </span>	ว       "           "      อุ=ทิกฺขติ            "          วุทิกฺขติ
+
+
+ 
+

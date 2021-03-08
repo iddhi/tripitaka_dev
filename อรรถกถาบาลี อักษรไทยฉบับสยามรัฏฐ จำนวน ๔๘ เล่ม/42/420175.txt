@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่  42  หน้า  175
+
+<span class="LineNumber"> 002 </span>					พุทฺธาปทานวณฺณนา (๑)
+<span class="LineNumber"> 003 </span>					พุทฺธวคฺควณฺณนา
+<span class="LineNumber"> 004 </span>					อพฺภนฺตรนิทานวณฺณนา  
+<span class="LineNumber"> 005 </span>		อถ พุทฺธาปทานานิ  สุณาถ สุทฺธมานสา  
+<span class="LineNumber"> 006 </span>		ตึสปารมิสมฺปุณฺณา   ธมฺมราชา อสงฺขิยาติ  
+<span class="LineNumber"> 007 </span>	เอตฺถ   อถาติ   อธิการนฺตรูปทสฺสนตฺเถ   นิปาตปทํ  วิภตฺติ-
+<span class="LineNumber"> 008 </span>ยุตฺตายุตฺตนิปาตทฺวเยสุ วิภตฺติยุตฺตนิปาตปทํ ฯ อถ วา  
+<span class="LineNumber"> 009 </span>		อธิกาเร มงฺคเล เจว  นิปฺผนฺนตฺเถวธารเณ  
+<span class="LineNumber"> 010 </span>		อนนฺตเรปคมเน(๒)  อถสทฺโท ปวตฺตติ ฯ  
+<span class="LineNumber"> 011 </span>ตถา หิ  
+<span class="LineNumber"> 012 </span>		อธิกิจฺจํ อธิฏฺ€านํ  อธิอตฺถํ วิภาสติ  
+<span class="LineNumber"> 013 </span>		เสฏฺ€เชฏฺ€กภาเวน  อธิกาโร วิธียเตติ  
+<span class="LineNumber"> 014 </span>วุตฺตตฺตา  พุทฺธานํ  สมตฺตึสปารมิธมฺมานํ  อธิกิจฺจโต เสฏฺ€-
+<span class="LineNumber"> 015 </span>เชฏฺ€โต อธิการฏฺเ€น  อถสทฺเทน  ยุตฺตมปทานานีติ ฯ  ติวิธโพธิ-
+<span class="LineNumber"> 016 </span>สตฺตานํ  ปูชามงฺคลสภาวโต  ปูชา  จ  ปูชเนยฺยานํ  เอตํ  มงฺคล-
+<span class="LineNumber"> 017 </span>มุตฺตมนฺติ  วจนโต (๓)  มงฺคลฏฺเ€น  อถสทฺเทน  ยุตฺตมปทานานีติ ฯ  
+<span class="LineNumber"> 018 </span>พุทฺธาทีนํ  ภควนฺตานํ  สมฺปตฺติกิจฺจสฺส  อรหตฺตมคฺเคน  
+<span class="LineNumber"> 019 </span>นิปฺผนฺนโต  นิปฺผนฺนฏฺเ€น  อถสทฺเทน  ยุตฺตมปทานานีติ ฯ  
+<span class="LineNumber"> 020 </span># ๑ ม. เถราปทาน พุทฺธวคฺค ฯ  ๒. สี. ยุ. อนนฺตเร จ คมเน ฯ  
+<span class="LineNumber"> 021 </span># ๓. ขุ. ขุ.  ๒๕/๖/๓ ฯ  

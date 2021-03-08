@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                           		  <H2>ปัจจนียนัย</H2>   
+<span class="LineNumber"> 002 </span>		[๒๓๕]  ในนเหตุปัจจัย มี ๙ วาระ  ในนอารัมมณปัจจัย มี  ๙ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ
+<span class="LineNumber"> 004 </span>                     		<H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 005 </span>		[๒๗๖]  <B>เพราะเหตุปัจจัย</B>  ในนอารัมมณปัจจัย มี ๓ วาระ... ฯลฯ
+<span class="LineNumber"> 006 </span>                      		<H2>ปัจจนียานุโลมนัย</H2>  
+<span class="LineNumber"> 007 </span>		[๒๗๗]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย มี ๖ วาระ... ฯลฯ
+<span class="LineNumber"> 008 </span>           	แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+                        	
+<span class="LineNumber"> 009 </span>			              <H1>นเหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 010 </span>                         	        <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 011 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>		[๒๗๘]  ๑.  นเหตุธรรมที่เป็นปริตตธรรม    อาศัยนเหตุธรรม
+<span class="LineNumber"> 013 </span>ที่เป็นปริตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ   (วาระที่ ๑-
+<span class="LineNumber"> 014 </span>๒-๓)
+<span class="LineNumber"> 015 </span>                  	   ๔.  นเหตุธรรมที่เป็นมหัคคตธรรม  อาศัยนเหตุธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นมหัคคตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย

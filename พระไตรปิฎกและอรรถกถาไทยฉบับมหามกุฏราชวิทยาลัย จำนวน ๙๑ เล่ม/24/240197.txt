@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                         <h1>๖.  สัทธาสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                                          <H1>ว่าด้วยศรัทธา</H1>
+<span class="LineNumber"> 003 </span>         [๑๑๒] สมัยหนึ่ง พระผู้มีพระภาคเจ้าประทับอยู่  ณ พระวิหารเชตวัน 
+<span class="LineNumber"> 004 </span>อารามของท่านอนาถบิณฑิกเศรษฐี  กรุงสาวัตถี  ครั้งนั้นแล  เมื่อปฐมยามล่วง
+<span class="LineNumber"> 005 </span>ไปแล้ว พวกเทวดาสตุลลปกายิกามากด้วยกัน มีวรรณะงาม ยังพระวิหารเชตวัน
+<span class="LineNumber"> 006 </span>ทั้งสิ้นให้สว่าง  เข้าไปเฝ้าพระผู้มีพระภาคเจ้า   ครั้นแล้วจึงถวายอภิวาทพระผู้มี
+<span class="LineNumber"> 007 </span>พระภาคเจ้าแล้วยืนอยู่ ณ ที่ควรส่วนข้างหนึ่ง.
+<span class="LineNumber"> 008 </span>         [๑๑๓] เทวดาองค์หนึ่ง  ครั้นยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้ว   ได้
+<span class="LineNumber"> 009 </span>กล่าวคาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 010 </span>                             <B>ศรัทธาเป็นเพื่อนสองของคน   หาก
+<span class="LineNumber"> 011 </span>                   ว่าความเป็นผู้ไม่มีศรัทธาไม่ตั้งอยู่  แต่นั้น
+<span class="LineNumber"> 012 </span>                   บริวารยศและเกียรติยศย่อมมีแก่เขานั้น
+<span class="LineNumber"> 013 </span>                   อนึ่ง  เขานั้นละทิ้งสรีระแล้วก็ไปสู่สวรรค์ 
+<span class="LineNumber"> 014 </span>                   บุคคลพึงละความโกรธเสีย    พึงทิ้งมานะ
+<span class="LineNumber"> 015 </span>                   เสีย  พึงล่วงสังโยชน์ทั้งปวงเสีย  กิเลส
+<span class="LineNumber"> 016 </span>                   เป็นเครื่องเกี่ยวข้อง  ย่อมไม่เกาะเกี่ยว
+<span class="LineNumber"> 017 </span>                   บุคคลนั้น  ผู้ไม่เกี่ยวข้องในนามรูป  ผู้ไม่
+<span class="LineNumber"> 018 </span>                   มีกิเลสเป็นเครื่องกังวล.</B>
+<span class="LineNumber"> 019 </span>         [๑๑๔] พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 020 </span>                             <B>พวกชนพาลผู้มีปัญญาทราม  ย่อมตาม
+<span class="LineNumber"> 021 </span>                   ประกอบความประมาท    ส่วนนักปราชญ์</B>

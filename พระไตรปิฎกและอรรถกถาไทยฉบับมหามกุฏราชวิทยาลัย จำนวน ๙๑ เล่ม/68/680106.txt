@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>            ประโยชน์,   นี้เป็นธรรมไม่มีทุกข์   ฯลฯ   เพราะ  
+<span class="LineNumber"> 002 </span>            ฉะนั้น  ธรรมนี้ชื่อว่า  อรณธรรม<SUP>๑</SUP>.
+<span class="LineNumber"> 003 </span>                   <B>ดูก่อนภิกษุทั้งหลาย      ในอรณวิภังค์นั้น
+<span class="LineNumber"> 004 </span>            คำกล่าวล่วงเกินต่อหน้า   ที่จริง   ที่แท้  ประกอบ  
+<span class="LineNumber"> 005 </span>            ด้วยประโยชน์,     นี้เป็นธรรมไม่มีทุกข์     ฯลฯ 
+<span class="LineNumber"> 006 </span>       	    เพราะฉะนั้น    ธรรมนี้ชื่อว่า   อรณธรรม<SUP>๒</SUP>.
+<span class="LineNumber"> 007 </span>                   ดูก่อนภิกษุทั้งหลาย    ในอรณวิภังค์นั้น
+<span class="LineNumber"> 008 </span>            คำที่ไม่รีบด่วนพูด    นี้เป็นธรรมไม่มีทุกข์    ฯลฯ
+<span class="LineNumber"> 009 </span>            เพราะฉะนั้น   ธรรมนี้ชื่อว่า   อรณธรรม<SUP>๓</SUP>.
+<span class="LineNumber"> 010 </span>                   ดูก่อนภิกษุทั้งหลาย    ในอรณวิภังค์นั้น
+<span class="LineNumber"> 011 </span>            การไม่ปรับปรำภาษาชนบท    และการไม่ล่วงเลย
+<span class="LineNumber"> 012 </span>            สามัญภาษา   นี้เป็นธรรมไม่มีทุกข์   ฯลฯ  เพราะ 
+<span class="LineNumber"> 013 </span>            ฉะนั้น   ธรรมนี้ชื่อว่า  อรณธรรม<SUP>๔</SUP>.
+<span class="LineNumber"> 014 </span>                   ดูก่อนภิกษุทั้งหลาย  เพราะฉะนั้น   พวก
+<span class="LineNumber"> 015 </span>            เธอพึงศึกษาอย่างนี้แลว่า       เราทั้งหลายจักรู้ธรรม</B>
+<span class='footnote'>๑. ม.อุ. ๑๔/๖๖๘.     ๒. ม.อุ. ๑๔/๖๖๙.    ๓. ม.อุ. ๑๔/๖๗๐.</span>
+<span class='footnote'>๔. ม.อุ. ๑๔/๖๗๒.</span>

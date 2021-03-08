@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>อกุศลบท</H2>     
+<span class="LineNumber"> 002 </span>           [๒๒๐] ๑.  <B>อกุศลธรรม    ที่เป็นเกนจิวิญเญยยธรรม   อาศัย
+<span class="LineNumber"> 003 </span>ธรรมที่ไม่ใช่อกุศลธรรม     ที่ไม่ใช่เกนจิวิญเญยยธรรม     เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>                       ๒.  <B>อกุศลธรรม   ที่เป็นเกนจินวิญเญยยธรรม   อาศัย
+<span class="LineNumber"> 006 </span>ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่เกนจินวิญเญยยธรรม  เกิดขึ้น   เพราะ
+<span class="LineNumber"> 007 </span>เหตุปัจจัย</B>
+
+<span class="LineNumber"> 008 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๒๒๑]  ในเหตุปัจจัย มี ๙ วาระ   ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                        <H2>อัพยากตบท</H2>
+<span class="LineNumber"> 011 </span>           [๒๒๒]  ๑.  <B>อัพยากตธรรม  ที่เป็นเกนจิวิญเญยยธรรม  อาศัย
+<span class="LineNumber"> 012 </span>ธรรมที่ไม่ใช่อัพยากตธรรม    ที่ไม่ใช่เกนจิวิญเญยยธรรม    เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                                                  <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 015 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๒๒๓]  นเหตุปัจจัย มี ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 017 </span>             <I>นเกนจิวิญเญยยทุกนกุสลติกเกนจิวิญเญยยทุกกุสลติกะ จบ</I>

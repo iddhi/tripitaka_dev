@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>     คำ  มัธยมบุรุษ               ชั้นผู้พูด  <B>(อมฺห)</B>                 ชั้นผู้ฟัง <B>(ตุมฺห)</B>  
+<span class="LineNumber"> 002 </span>ท่าน                                     คนสุภาพทั่วไป,                  คนสุภาพทั่วไป, พระ
+<span class="LineNumber"> 003 </span>                                            คฤหัสถ์,  พระสงฆ์ที่            สงฆ์ ที่มีพรรษามาก
+<span class="LineNumber"> 004 </span>                                            มีพรรษาน้อยกว่า                 กว่า
+
+<span class="LineNumber"> 005 </span>คุณ                                      คนสุภาพทั่วไป, พระ             คนสุภาพทั่วไป, พระ
+<span class="LineNumber"> 006 </span>                                             สงฆ์มีพรรษามาก                 สงฆ์ผู้มีพรรษาน้อย
+<span class="LineNumber"> 007 </span>                                              กว่า                                      กว่า
+
+<span class="LineNumber"> 008 </span>หล่อน                                     ชายที่รัก                               หญิงที่รัก
+
+<span class="LineNumber"> 009 </span>สู  (โบราณ)                             ผู้ใหญ่                                  ผู้น้อย,
+
+<span class="LineNumber"> 010 </span>เอ็ง แก มึง                               ผู้เป็นนาย     หรือ                  ผู้น้อย,  เพื่อนที่ชอบ
+<span class="LineNumber"> 011 </span>                                                ผู้ใหญ่กว่า เพื่อน                   พอกัน
+<span class="LineNumber"> 012 </span>                                                 ที่ชอบพอกัน
+<span class="LineNumber"> 013 </span>	ศัพท์นี้จัดเป็น  อุตฺตมปุริส  หรือ  อุดมบุรุษ สำหรับใช้แทนชื่อ
+<span class="LineNumber"> 014 </span>ผู้พูด  ภาษาทั่วไปเมื่อพูดจะออกชื่อตนเอง ไม่ออกชื่อตรง ๆ หาคำ
+<span class="LineNumber"> 015 </span>อื่นมาใช้แทน  จึงต้องบัญญัติคำขึ้นคำหนึ่ง  สำหรับใช้แทนชื่อผู้พูด
+<span class="LineNumber"> 016 </span>เพื่อให้คู่สนทนาเข้าใจความหมาย เช่นตัวอย่างว่า พระ ก. บอกกับ
+<span class="LineNumber"> 017 </span>พระ ข. ว่า "วันนี้ผมอาพาธ" คำว่า "ผม"  เป็นคำแทนชื่อของ
+<span class="LineNumber"> 018 </span>พระ ก.  ซึ่งเป็นตัวผู้พูด  และเป็นอุดมบุรุษ  ในภาษาบาลีท่านบัญญัติ
+

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  ทรีมุขชาตกํ  หน้า 21
+
+<span class="LineNumber"> 002 </span>	ตํ  สุตฺวา  ราชา  กิเลเสหิ  อตฺตโน  ปลิพุทฺธภาวํ(๑)  กเถนฺโต  
+<span class="LineNumber"> 003 </span>ทุติยํ คาถมาห  
+<span class="LineNumber"> 004 </span>		[๘๔๔] เคธิโต(๒) จ รตฺโต อธิมุจฺฉิโต จ  
+<span class="LineNumber"> 005 </span>			กาเมสฺวาหํ(๓) พฺราหฺมณ ภึสรูปํ  
+<span class="LineNumber"> 006 </span>			ตํ นุสฺสเห ชีวิกตฺโถ ปหาตุํ  
+<span class="LineNumber"> 007 </span>			กาหามิ ปุฺานิ อนปฺปกานีติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  เคธิโตติ  อภิชฺฌากายคนฺเถน  พนฺโธ  ฯ  รตฺโตติ  
+<span class="LineNumber"> 009 </span>ปกติชหาปเนน  ราเคน  รตฺโต  ฯ  อธิมุจฺฉิโตติ  อติวิย  มุจฺฉิโต  ฯ  
+<span class="LineNumber"> 010 </span>กาเมสฺวาหนฺติ  ทุวิเธสุ  กาเมสุ  อหํ  ฯ  พฺราหฺมณาติ ทรีมุขปจฺเจกพุทฺธํ  
+<span class="LineNumber"> 011 </span>อาลปติ  ฯ  ภึสรูปนฺติ  พลวรูปํ  ฯ  ตํ  นุสฺสเหติ  ตํ  ทุวิธมฺปิ  กามํ  
+<span class="LineNumber"> 012 </span>น  อุสฺสหามิ  น  สกฺโกมิ  ฯ  ชีวิกตฺโถ  ปหาตุนฺติ  อิมาย  ชีวิกาย  
+<span class="LineNumber"> 013 </span>อตฺถิโก  อหํ  ตํ  กามํ  ปหาตุํ  น  สกฺโกมีติ  วทติ  ฯ  กาหามิ  
+<span class="LineNumber"> 014 </span>ปุฺานีติ  ทานสีลอุโปสถกมฺมสงฺขาตานิ  ปน  ปุฺานิ  อนปฺปกานิ  
+<span class="LineNumber"> 015 </span>พหูนิ  กริสฺสามีติ  ฯ  
+<span class="LineNumber"> 016 </span>	เอวํ  กิเลสกาโม  นาเมส  สงฺกิลิฏฺ€กาลโต(๔) ปฏฺ€าย  อปเนตุํ 
+<span class="LineNumber"> 017 </span>น  สกฺโกติ  (๕)  เยน  สงฺกิลิฏฺ€จิตฺโต  มหาปุริโส  ปจฺเจกพุทฺเธน  ปน
+<span class="LineNumber"> 018 </span>ปพฺพชฺชาย  คุเณ  กถิเตปิ  ปพฺพชิตุํ  น  สกฺโกมีติ  อาห  ฯ  โยยํ
+<span class="LineNumber"> 019 </span># ๑. ม. พทฺธภาวํ ฯ  ๒. สี. คถิโต ฯ ม. คธิโต ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. กาเมสฺวหํ ฯ  ๔. ม. สกึ อลฺลีนกาลโต ฯ 
+<span class="LineNumber"> 021 </span># ๕. สกฺกา ฯ 

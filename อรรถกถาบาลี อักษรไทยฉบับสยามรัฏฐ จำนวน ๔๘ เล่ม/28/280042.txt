@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  42
+
+<span class="LineNumber"> 002 </span>	อถสฺส  น  เอตฺตเกเหว  พุทฺธการกธมฺเมหิ  ภวิตพฺพนฺติ  
+<span class="LineNumber"> 003 </span>อุตฺตรึปิ  อุปธารยโต  ฉฏฺ€ํ  ขนฺติปารมึ  ทิสฺวา  เอตทโหสิ  
+<span class="LineNumber"> 004 </span>สุเมธปณฺฑิต  ตฺวํ  อิโต  ปฏฺ€าย  ขนฺติปารมึปิ  ปูเรยฺยาสิ  
+<span class="LineNumber"> 005 </span>สมฺมานเนปิ  อวมานเนปิ  ขโมว  ภเวยฺยาสิ  ยถา  หิ  ป€วิยํ  
+<span class="LineNumber"> 006 </span>นาม  สุจึปิ  ปกฺขิปนฺติ  อสุจึปิ  น  เตน  ป€วี 
+<span class="LineNumber"> 007 </span>สิเนหํ  น  ปฏิฆํ  กโรติ  ชมติ  สหติ  อธิวาเสติเยว  เอวเมว  
+<span class="LineNumber"> 008 </span>ตฺวํปิ  สมฺมานเนปิ  อวมานเนปิ  ขโมว  สมาโน  พุทฺโธ  
+<span class="LineNumber"> 009 </span>ภวิสฺสสีติ ฯ  ฉฏฺ€ํ  ขนฺติปารมึ ทฬฺหํ กตฺวา อธิฏฺ€าสิ ฯ 
+<span class="LineNumber"> 010 </span>เตน วุตฺตํ  
+<span class="LineNumber"> 011 </span>	น เหเต เอตฺตกาเยว	พุทฺธธมฺมา ภวิสฺสเร  
+<span class="LineNumber"> 012 </span>	อฺเปิ วิจินิสฺสามิ		เย ธมฺมา โพธิปาจนา ฯ  
+<span class="LineNumber"> 013 </span>	วิจินนฺโต ตทาทกฺขึ		ฉฏฺ€มํ ขนฺติปารมึ  
+<span class="LineNumber"> 014 </span>	ปุพฺพเกหิ มเหสีหิ		อาเสวิตนิเสวิตํ ฯ  
+<span class="LineNumber"> 015 </span>	อิมํ ตฺวํ ฉฏฺ€มํ ตาว		ทฬฺหํ กตฺวา สมาทิย  
+<span class="LineNumber"> 016 </span>	ตตฺถ อเทฺวชฺฌมานโส	สมฺโพธึ ปาปุณิสฺสสิ ฯ  
+<span class="LineNumber"> 017 </span>	ยถาปิ ป€วี นาม		สุจึปิ อสุจึปิ จ  
+<span class="LineNumber"> 018 </span>	สพฺพํ สหติ นิกฺเขปํ		น กโรติ ปฏิฆทฺทยํ (๑)  
+<span class="LineNumber"> 019 </span>	ตเถว ตฺวํปิ สพฺเพสํ		สมฺมานาวมานกฺขโม
+<span class="LineNumber"> 020 </span>	ขนฺติปารมิตํ คนฺตฺวา	สมฺโพธึ ปาปุณิสฺสสีติ ฯ  
+<span class="LineNumber"> 021 </span>	อถสฺส  น  เอตฺตเกเหว  พุทฺธการกธมฺเมหิ  ภวิตพฺพนฺติ  
+<span class="LineNumber"> 022 </span># ๑. ม. ตยา ฯ 

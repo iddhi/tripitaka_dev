@@ -1,0 +1,28 @@
+﻿<span class="LineNumber"> 001 </span>                          <H3>ทุติยปัณณาสก์</H3>
+
+<span class="LineNumber"> 002 </span>                           <H2>ปุคคลวรรคที่  ๑</H2>
+
+<span class="LineNumber"> 003 </span>                               <H1>สูตรที่  ๑</H1>
+
+<span class="LineNumber"> 004 </span>      <H4>ว่าด้วยบุคคล  ๒  จำพวก  ที่เกิดขึ้นเพื่อประโยชน์สุข</H4>
+
+<span class="LineNumber"> 005 </span>                   <H4>แก่เทวดาและมนุษย์</H4> 
+
+<span class="LineNumber"> 006 </span>         [๒๙๗]  ๕๑. ดูก่อนภิกษุทั้งหลาย   บุคคล ๒ จำพวกนี้   เมื่อเกิด
+<span class="LineNumber"> 007 </span>ขึ้นในโลก ย่อมเกิดขึ้นเพื่อประโยชน์เกื้อกูลของชนมาก  เพื่อสุขของชนมาก
+<span class="LineNumber"> 008 </span>เพื่อประโยชน์  เพื่อเกื้อกูลแก่ชนเป็นอันมาก    เพื่อความสุขแก่เทวดาและ
+<span class="LineNumber"> 009 </span>มนุษย์ทั้งหลาย    ๒ จำพวกเป็นไฉน   คือ  พระตถาคตอรหันตสัมมาสัม-
+<span class="LineNumber"> 010 </span>พุทธเจ้า  ๑  พระเจ้าจักรพรรดิ   ๑   ดูก่อนภิกษุทั้งหลาย   บุคคล  ๒ จำพวกนี้แล
+<span class="LineNumber"> 011 </span>เมื่อเกิดขึ้นในโลก   ย่อมเกิดขึ้นเพื่อประโยชน์เกื้อกูลของชนมาก   เพื่อสุข
+<span class="LineNumber"> 012 </span>ของชนมาก  เพื่อประโยชน์  เพื่อเกื้อกูลแก่ชนเป็นอันมาก  เพื่อความสุข
+<span class="LineNumber"> 013 </span>แก่เทวดาและมนุษย์ทั้งหลาย.
+<span class="LineNumber"> 014 </span>                                                     จบสูตรที่  ๑
+
+<span class="LineNumber"> 015 </span>                           <H3>ทุติยปัณณาสก์</H3>
+
+<span class="LineNumber"> 016 </span>                            <H2>ปุคคลวรรคที่  ๑</H2>
+
+<span class="LineNumber"> 017 </span>                            <H3>อรรถกถาสูตรที่ ๑</H3>
+
+<span class="LineNumber"> 018 </span>         <B>ทุติยปัณณาสก์  สูตรที่  ๑</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 019 </span>         เพราะถือเอาพร้อมกับพระเจ้าจักรพรรดิ  จึงมิได้ตรัสบทว่า <B>โลกา-</B>

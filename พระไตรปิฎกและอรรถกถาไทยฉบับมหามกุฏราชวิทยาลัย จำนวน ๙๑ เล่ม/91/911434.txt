@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>นเหตุทุกนโลกิยทุกเหตุทุกโลกิยทุกะ</H1>   
+<span class="LineNumber"> 002 </span>                  <H2>(๑. เหตุทุกะ  ๑๑.  โลกิยทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                         <H2>โลกิยบท</H2>			
+<span class="LineNumber"> 007 </span>           [๑๒๕๒] ๑.  <B>โลกิยธรรม  ที่เป็นเหตุธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 008 </span>โลกิยธรรม  ที่ไม่ใช่เหตุธรรม  เกิดขึ้น   เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 009 </span>                       ๒.  <B>โลกิยธรรม    ที่เป็นนเหตุธรรม    อาศัยธรรมที่
+<span class="LineNumber"> 010 </span>ไม่ใช่โลกิยธรรม    ที่ไม่ใช่นเหตุธรรม    เกิดขึ้น   เพราะเหตุปัจจัย
+<span class="LineNumber"> 011 </span>โดยนัยแห่งการนับ</B> มี ๓ วาระ.
+
+<span class="LineNumber"> 012 </span>                                      <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 013 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                       <H2>โลกุตตรบท</H2>
+<span class="LineNumber"> 016 </span>           [๑๒๕๓] ๑.  <B>โลกุตตรธรรม  ที่เป็นเหตุธรรม  อาศัยธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่โลกุตตรธรรม  ที่ไม่ใช่เหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>                                              <B>ฯลฯ</B>

@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                <H3>สูตรที่  ๑๑</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๗๓]  ๑๒๗. ดูก่อนภิกษุทั้งหลาย   อาบัติ  ๒  อย่างนี้  ๒  อย่าง
+<span class="LineNumber"> 003 </span>เป็นไฉน  คือ  อาบัติชั่วหยาบ ๑ อาบัติไม่ชั่วหยาบ ๑ ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 004 </span>อาบัติ   ๒  อย่างนี้แล.
+<span class="LineNumber"> 005 </span>                                            จบสูตรที่  ๑๑
+
+<span class="LineNumber"> 006 </span>                                <H3>สูตร  ๑๒</H3>
+
+<span class="LineNumber"> 007 </span>         [๓๗๔]   ๑๒๘. ดูก่อนภิกษุทั้งหลาย  อาบัติ  ๒  อย่างนี้   ๒  อย่าง
+<span class="LineNumber"> 008 </span>เป็นไฉน  คือ  อาบัติที่มีส่วนเหลือ   ๑  อาบัติที่ไม่มีส่วนเหลือ   ๑   ดูก่อน
+<span class="LineNumber"> 009 </span>ภิกษุทั้งหลาย   อาบัติ  ๒ อย่างนี้แล.
+<span class="LineNumber"> 010 </span>                                            จบสูตรที่  ๑๒
+<span class="LineNumber"> 011 </span>                                        <I>จบอาสาวรรคที่  ๑</I>
+
+<span class="LineNumber"> 012 </span>                                  <H2>ตติยปัณณสก์</H2>
+
+<span class="LineNumber"> 013 </span>                                <H2>อาสาวรรคที่  ๑</H2>
+
+<span class="LineNumber"> 014 </span>                           <H3>อรรถกถาสูตรที่ ๑</H3>
+
+<span class="LineNumber"> 015 </span>         <B>ตติยปัณณาสก์  สูตรที่  ๑</B>  (ข้อ  ๓๖๓)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 016 </span>         บทว่า  <B>อาสา</B>  ได้แก่  ตัณหา   ความอยาก.    บทว่า    <B>ทุปฺปชหา</B>
+<span class="LineNumber"> 017 </span>ได้แก่  ละได้ยาก    คือนำออกได้ยาก.    สัตว์ทั้งหลายใช้เวลา   ๑๐  ปีบ้าง
+<span class="LineNumber"> 018 </span>๒๐  ปีบ้าง   ๖๐  ปีบ้าง     รับใช้พระราชา    ทำกสิกรรมเป็นต้น       เข้า
+<span class="LineNumber"> 019 </span>สู่สงความที่ฝ่ายสองรบประชิดกัน         ดำเนินอาชีพเลี้ยงแพะและทำหอก
+<span class="LineNumber"> 020 </span>เป็นต้น  แล่นเรือไปยังมหาสมุทร   ด้วยหวังว่า   พวกเราจักได้วันนี้   พวก

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>๕๔. ปรามาสวิปปยุตตปรามัฏฐทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                           <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 004 </span>                                         <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๗๓๐] ๑.  <B>ปรามาสวิปปยุตตปรามัฏฐธรรม   อาศัยปรามาส-
+<span class="LineNumber"> 006 </span>วิปปยุตตปรามัฏฐธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ ที่เป็นปรามาส-
+<span class="LineNumber"> 008 </span>วิปปยุตตปรามัฏฐธรรม  ฯลฯ อาศัยขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 009 </span>                       ๒.  <B>ปรามาสวิปปยุตตอปรามัฏฐธรรม  อาศัยปรามาส-
+<span class="LineNumber"> 010 </span>วิปปยุตตอปรามัฏฐธรรม เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                                                  ฯลฯ
+<span class="LineNumber"> 012 </span>           <B>โลกิยทุกะในจูฬันตรทุกะ</B>ฉันใด  พึงกระทำฉันนั้น  ไม่มีแตกต่างกัน.
+<span class="LineNumber"> 013 </span>                            <I>ปรามาสวิปปยุตตปรามัฏฐทุกะ จบ</I>                           
+<span class="LineNumber"> 014 </span>                                      <I>อนุโลมทุกปัฏฐาน จบ</I>
+

@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  122
+		
+<span class="LineNumber"> 002 </span>		อุทกา อภินิกฺขมฺม		กจฺฉโป วาริโคจโร  
+<span class="LineNumber"> 003 </span>		พุทฺธํ ตาเรตุกาโมหํ(๑)	อุเปสึ โลกนายกํ ฯ  
+<span class="LineNumber"> 004 </span>		อภิรูหตุ มํ พุทฺโธ		อตฺถทสฺสี มหามุนิ  
+<span class="LineNumber"> 005 </span>		อหํ ตํ ตารยิสฺสามิ		ทุกฺขสฺสนฺตํ กโร ตุวํ ฯ  
+<span class="LineNumber"> 006 </span>		มม สงฺกปฺปมฺาย	อตฺถทสฺสี มหายโส  
+<span class="LineNumber"> 007 </span>		อภิรูหิตฺวา (๒) เม ปิฏฺ€ึ	อฏฺ€าสิ โลกนายโก ฯ  
+<span class="LineNumber"> 008 </span>		ยโต สรามิ อตฺตานํ	ยโต ปตฺโตสฺมิ วิฺุตํ  
+<span class="LineNumber"> 009 </span>		สุขํ เม ตาทิสํ นตฺถิ	ผุฏฺเ€ ปาทตเล ยถา(๓) ฯ  
+<span class="LineNumber"> 010 </span>		อุตฺตริตฺวาน สมฺพุทฺโธ	อตฺถทสฺสี มหายโส  
+<span class="LineNumber"> 011 </span>		นทีตีรมฺหิ €ตฺวาน		อิมา คาถา อภาสถ ฯ  
+<span class="LineNumber"> 012 </span>		ยาวตา วตฺตเต จิตฺตํ	คงฺคาโสตํ ตรามหํ  
+<span class="LineNumber"> 013 </span>		อยํ จ(๔)  กจฺฉโป ราชา	ตาเรสิ มม ปุฺวา ฯ (๕)  
+<span class="LineNumber"> 014 </span>		อิมินา พุทฺธตรเณน (๖)	เมตฺตจิตฺตวตาย จ  
+<span class="LineNumber"> 015 </span>		อฏฺ€ารเส กปฺปสเต	เทวโลเก รมิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		เทวโลกา อิธาคนฺตฺวา	สุกฺกมูเลน โจทิโต  
+<span class="LineNumber"> 017 </span>		เอกาสเน นิสีทิตฺวา	กงฺขาโสตํ ตริสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>		ยถาปิ ภทฺทเก เขตฺเต	พีชํ อปฺปมฺปิ โรปิตํ  
+<span class="LineNumber"> 019 </span>		สมฺมา ธารํ (๗) ปเวจฺฉนฺเต(๘)  ผลํ โตเสติ กสฺสเก ฯ (๙)  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. ตริตุกาโมหํ ฯ  ๒. สฺยา. อาโรหิตฺวาน ฯ
+<span class="LineNumber"> 021 </span># สี. อภิรูหิตฺวาน ฯ  ๓. ยุ. ยถา ปาทตเล มุนิ ฯ 
+<span class="LineNumber"> 022 </span># ๔. สฺยา. ม. อยฺจ ฯ สี. อยมฺปิ ฯ ๕. ม. ปฺวา ฯ
+<span class="LineNumber"> 023 </span># ๖. สี. พุทฺธตาเรน ฯ ๗. ม. ยุ. สมฺมาธาเร ฯ ๘. สฺยา. ปวสฺสนฺเต ฯ
+<span class="LineNumber"> 024 </span># ๙. ม. กสฺสกํ ฯ

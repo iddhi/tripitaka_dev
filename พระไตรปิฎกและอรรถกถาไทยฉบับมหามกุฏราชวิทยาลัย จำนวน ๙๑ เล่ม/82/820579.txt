@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>ฆานายตนมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ฆานายตนมูละ  รูปายตนะ  ฯ ล ฯ  มนายตนะ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๕๘๔]   ฆานายตนะกำลังดับแก่บุคคลใด,   รูปายตนะ   ฯ ล ฯ
+<span class="LineNumber"> 004 </span>มนายตนะ  ธัมมายตนะก็เคยดับแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า    ธัมมายตนะเคยดับแก่บุคคลใด,    ฆานายตนะก็กำลัง
+<span class="LineNumber"> 007 </span>ดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังเกิดก็ดี   บุคคลที่ฆานะเกิดไม่ได้ 
+<span class="LineNumber"> 009 </span>เหล่านั้นกำลังตายก็ดี   ธัมมายตนะเคยดับแก่บุคคลเหล่านั้น   แต่ฆานา-
+<span class="LineNumber"> 010 </span>ยตนะไม่ใช่กำลังดับแก่บุคคลเหล่านั้น,     บุคคลที่มีฆานะเกิดได้เหล่านั้น
+<span class="LineNumber"> 011 </span>กำลังตาย     ธัมมายตนะเคยดับ      และฆานายตนะก็กำลังดับแก่บุคคล
+<span class="LineNumber"> 012 </span>เหล่านั้น.
+<span class="LineNumber"> 013 </span>   <I>จบ   ฆานายตนมูละ  รูปายตนะ  ฯ ล ฯ  มนายตนะ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 014 </span>                                      <I>ฆานายตนมูล  จบ</I>

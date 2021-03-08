@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                       <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 003 </span><H2>กายสังขารมูละ    ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๑๐๙๘]   กายสังขารไม่ใช่กำลังเกิดในภูมิใด, ฯ ล ฯ
+<span class="LineNumber"> 005 </span>                                    <I>กายสังขารมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                     <I>โอกาสวาระ  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                     <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                       <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 009 </span><H2>กายสังขารมูละ   วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๑๐๙๙]   กายสังขารไม่ใช่กำลังเกิดแก่บุคคลใดในภูมิใด,   วจี-
+<span class="LineNumber"> 011 </span>สังขารก็ไม่ใช่จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         บุคคลที่กำลังเข้าปฐมฌานอยู่ก็ดี บุคคลซึ่งเกิดอยู่ในกามาวจรภูมิ
+<span class="LineNumber"> 013 </span>ก็ดี    ในภังคขณะแห่งลมอัสสาสะปัสสาสะของบุคคลเหล่านั้นนั่นแหละ
+<span class="LineNumber"> 014 </span>เว้นลมอัสสาสะปัสสาสะเสียแล้ว  ในอุปปาทขณะแห่งจิตก็ดี  บุคคลที่เกิด
+<span class="LineNumber"> 015 </span>อยู่ในรูปาวจรภูมิก็ดี บุคคลที่เกิดอยู่ในอรูปาวจรภูมิก็ดี กายสังขารไม่ใช่
+<span class="LineNumber"> 016 </span>กำลังเกิดแก่บุคคลเหล่านั้นในภูมินั้น      แต่วจีสังขารจักเกิดแก่บุคคล

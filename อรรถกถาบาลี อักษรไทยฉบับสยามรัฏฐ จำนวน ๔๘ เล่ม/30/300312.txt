@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่  30  ทุกนิปาเต  กาสาววคฺควณฺณนา  หน้า  312
+
+<span class="LineNumber"> 002 </span>เทวทตฺโต  กกฺขโฬ  ผรุโส  นิกฺการุณิโก เยวาติ วตฺวา อตีตํ 
+<span class="LineNumber"> 003 </span>อาหริ ฯ  
+<span class="LineNumber"> 004 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 005 </span>หิมวนฺตปฺปเทเส  นนฺทิโย  นาม  วานโร  อโหสิ ฯ  กนิฏฺ€-
+<span class="LineNumber"> 006 </span>ภาติโก  ปนสฺส  จุลฺลนนฺทิโย  นาม ฯ  เต  อุโภปิ  อสีติสหสฺส-
+<span class="LineNumber"> 007 </span>วานรปริวารา  หิมวนฺตปฺปเทเส  อนฺธํ  มาตรํ  ปฏิชคฺคนฺตา 
+<span class="LineNumber"> 008 </span>วาสํ  กปฺเปสุํ ฯ  เต  มาตรํ  สยนคุมฺเพ  €เปตฺวา  อรฺํ  
+<span class="LineNumber"> 009 </span>ปวิสิตฺวา  มธุรานิ  ผลานิ (๑) ลภิตฺวา (๒) มาตุยา  เปเสนฺติ ฯ 
+<span class="LineNumber"> 010 </span>อาหรณกา (๓) ตสฺสา  น  เทนฺติ ฯ  สา  ขุทาย  ปีฬิตา 
+<span class="LineNumber"> 011 </span>อฏฺ€ิจมฺมาวเสสา  กีสา  อโหสิ ฯ  อถ  นํ  โพธิสตฺโต  อาห 
+<span class="LineNumber"> 012 </span>มยํ  อมฺม  ตุมฺหากํ  มธุรผลานิ  เปเสม  ตุมฺเห  กสฺมา  
+<span class="LineNumber"> 013 </span>มิลายถาติ ฯ  ตาต  นาหํ  ลภามีติ ฯ  โพธิสตฺโต  จินฺเตสิ  มยิ  
+<span class="LineNumber"> 014 </span>ยูถํ  ปริหรนฺเต  มาตา  เม  นสฺสิสฺสติ  ยูถํ  ปหาย  มาตรํเยว  
+<span class="LineNumber"> 015 </span>ปฏิชคฺคิสฺสามีติ ฯ  โส  จุลฺลนนฺทิยํ  ปกฺโกสิตฺวา  ตาต  ตฺวํ  ยูถํ  
+<span class="LineNumber"> 016 </span>ปริหร  อหํ  มาตรํ  ปฏิชคฺคิสฺสามีติ  อาห ฯ  โส  ปน  (๔)
+<span class="LineNumber"> 017 </span>ภาติก  มยฺหํ  ยูถปริหรเณน  กมฺมํ  นตฺถิ  อหมฺปิ  มาตรเมว 
+<span class="LineNumber"> 018 </span>ปฏิชคฺคิสฺสามีติ  อาห ฯ  อิติ  เต  อุโภปิ  เอกฉนฺทา  หุตฺวา
+<span class="LineNumber"> 019 </span>ยูถํ  ปหาย  มาตรํ  คเหตฺวา  หิมวนฺตา  โอรุยฺห  ปจฺจนฺเต
+<span class="LineNumber"> 020 </span># ๑. ม. ผลาผลานิ ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ  ๓. ม. อาหรณกวานรา ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. โสปิ นํ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                              <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 002 </span>         [๑๙๒]   ในนเหตุปัจจัย มี ๙ วาระ    ในนอารัมมณปัจจัย มี ๙ วาระ
+<span class="LineNumber"> 003 </span>ในนอธิปติปัจจัย มี ๙ วาระ   ในนอนันตรปัจจัย มี  ๙ วาระ   ในนสมนันตร-
+<span class="LineNumber"> 004 </span>ปัจจัย มี ๙ วาระ    ในนอัญญมัญญปัจจัย  มี ๙ วาระ   ในนอุปนิสสยปัจจัย มี
+<span class="LineNumber"> 005 </span>๙ วาระ  ในนปุเรชาตปัจจัย มี ๙ วาระ  ในนปัจฉาชาตปัจจัย มี ๙ วาระ  ใน
+<span class="LineNumber"> 006 </span>นอาเสวนปัจจัย มี ๙ วาระ.
+
+<span class="LineNumber"> 007 </span>                                        <H2>๑๑.  นกัมมปัจจัย</H2>
+<span class="LineNumber"> 008 </span>         [๑๙๓]  ๑.  <B>จิตตสหภูธรรม    อาศัยจิตตสหภูธรรม    เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะนกัมมปัจจัย</B>                                                  
+<span class="LineNumber"> 010 </span>         คือ   เจตนาที่เป็นจิตตสหภูธรรม   อาศัยขันธ์ทั้งหลายที่เป็นจิตตสหภู-
+<span class="LineNumber"> 011 </span>ธรรม.   
+<span class="LineNumber"> 012 </span>                     ๒.  <B>ธรรมที่ไม่ใช่จิตตสหภูธรรม     อาศัยธรรมที่ไม่ใช่จิตต-	
+<span class="LineNumber"> 013 </span>สหภูธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ พาหิรรูป . . . อาหารสมุฏฐานรูป. . . อุตุสมุฏฐานรู ฯลฯ
+<span class="LineNumber"> 015 </span>                     ๓.  <B>จิตตสหภูธรรม     อาศัยธรรมที่ไม่ใช่จิตตสหภูธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ สัมปยุตตเจตนา  อาศัยจิต.
+<span class="LineNumber"> 018 </span>                     ๔.  <B>จิตตสหภูธรรม  อาศัยจิตตสหภูธรรม  และธรรมที่ไม่ใช่
+<span class="LineNumber"> 019 </span>จิตตสหภูธรรม  เกิดขึ้น  เพราะนกัมมปัจจัย</B>
+
+<span class='footnote'>๑.   ข้อ ๑๙๒, ๑๙๔,  ๑๙๖  ควรจะจัดไว้เป็นข้อเดียวกันเหมือนทุกครั้ง </span>

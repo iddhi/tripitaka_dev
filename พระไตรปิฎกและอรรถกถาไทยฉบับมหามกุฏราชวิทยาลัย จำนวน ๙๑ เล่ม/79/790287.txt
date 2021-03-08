@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                   ๓. <H1>มธุรภาณีบุคคล</H1>  <B>บุคคลผู้มีวาจาเหมือนน้ำผึ้ง
+<span class="LineNumber"> 002 </span>เป็นไฉน ?</B> 
+<span class="LineNumber"> 003 </span>         บุคคลบางคนในโลกนี้   วาจานั้นใดไม่มีโทษ   สบายหู   เป็นที่ตั้งแห่ง
+<span class="LineNumber"> 004 </span>ความรัก  จับใจ   เป็นของชาวเมือง   อันคนมากใคร่   เป็นที่ชอบใจของคนมาก
+<span class="LineNumber"> 005 </span>เป็นผู้กล่าววาจาเช่นนั้น  บุคคลนี้เรียกว่า  <B>ผู้มีวาจาเหมือนน้ำผึ้ง.</B>
+
+<span class="LineNumber"> 006 </span>                                 <H1>อรรถกถาคูถภาณีบุคคล  เป็นต้น</H1>
+<span class="LineNumber"> 007 </span>         บทว่า   <B>"สภคฺโค"</B>   ได้แก่ อยู่ในสภา  คือ  ที่ประชุม.
+<span class="LineNumber"> 008 </span>         บทว่า   <B>"ปริสคฺคโต"</B>  ได้แก่ อยู่ในบริษัทชาวบ้าน.
+<span class="LineNumber"> 009 </span>         บทว่า   <B>"คามมชฺฌคฺคโต"</B>   ได้แก่   อยู่ในท่ามกลางแห่งชาวชนบท
+<span class="LineNumber"> 010 </span>ทั้งหลาย.
+<span class="LineNumber"> 011 </span>         บทว่า   <B>"าติมชฺฌคฺคโต"</B>   ได้แก่    อยู่ในท่ามกลางแห่งทายาท
+<span class="LineNumber"> 012 </span>ทั้งหลาย   (ผู้รับมรดกเรียก   ทายาท)
+<span class="LineNumber"> 013 </span>         บทว่า   <B>"ปูคมชฺฌคฺคโต"</B>     ได้แก่  อยู่ในท่ามกลางแห่งอำมาตย์
+<span class="LineNumber"> 014 </span>ทั้งหลาย.
+<span class="LineNumber"> 015 </span>         บทว่า   <B>"ราชกุลมชฺฌคฺคโต"</B>   ได้แก่ อยู่ในโรงมหาวินิจฉัย   ใน
+<span class="LineNumber"> 016 </span>ท่ามกลางราชตระกูล.
+<span class="LineNumber"> 017 </span>         บทว่า   <B>"อภินีโต"</B>  ได้แก่ ถูกเขานำไปเพื่อประโยชน์แก่การซักถาม.
+<span class="LineNumber"> 018 </span>         บทว่า   <B>"สกฺขิ  ปุฏฺโ€"</B>    ได้แก่ ถูกเขากระทำให้เป็นพยานแล้วซัก.
+<span class="LineNumber"> 019 </span>         คำว่า   <B>"เอหมฺโภ  ปุริส"</B>   นี้  เป็นคำอาลปนะ  คือ  คำสำหรับร้อง
+<span class="LineNumber"> 020 </span>เรียก.
+<span class="LineNumber"> 021 </span>         คำว่า   <B>"อตฺตเหตุ  วา  ปรเหตุ  วา"</B>  ได้แก่  เพราะเหตุแห่งอวัยวะ
+<span class="LineNumber"> 022 </span>มีมือและเท้าเป็นต้น    หรือเพราะเหตุแห่งทรัพย์ของตนหรือของผู้อื่น.

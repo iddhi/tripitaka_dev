@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๙  สุปฺปวาสาสุตฺตวณฺณนา  หน้า  ๒๒๙
+		
+<span class="LineNumber"> 002 </span>		อนฺเนยฺยา  นยโต  วิภาวิตา  
+<span class="LineNumber"> 003 </span>		ตถา  คโต  เตน  ชิโน  ตถาคโต ฯ  
+<span class="LineNumber"> 004 </span>		อเนกเภทาสุปิ  โลกธาตุสุ  
+<span class="LineNumber"> 005 </span>		ชินสฺส  รูปายตนาทิโคจเร  
+<span class="LineNumber"> 006 </span>		วิจิตฺตเภเท  ตถเมว  ทสฺสนํ  
+<span class="LineNumber"> 007 </span>		ตถาคโต  เตน  สมนฺตโลจโน ฯ  
+<span class="LineNumber"> 008 </span>		ยโต  จ  ธมฺมํ  ตถเมว  ภาสติ  
+<span class="LineNumber"> 009 </span>		กโรติ  วา(๑)  ตสฺสนุรูปมตฺตโน  
+<span class="LineNumber"> 010 </span>		คุเณหิ  โลกํ  อภิภุยฺยิรียติ  
+<span class="LineNumber"> 011 </span>		ตถาคโต  เตนปิ  โลกนายโก ฯ  
+<span class="LineNumber"> 012 </span>		ตถา  ปริฺาย  ตถาย  สพฺพโส  
+<span class="LineNumber"> 013 </span>		อเวทิ  โลกปฺปภวํ(๒)  อติกฺกมิ  
+<span class="LineNumber"> 014 </span>		คโต  จ  ปจฺจกฺขกฺริยาย(๓)  นิพฺพุตึ  
+<span class="LineNumber"> 015 </span>		อรียมคฺคฺจ  คโต  ตถาคโต ฯ  
+<span class="LineNumber"> 016 </span>		ตถา  ปฏิฺาย  ตถาย  สพฺพโส  
+<span class="LineNumber"> 017 </span>		หิตาย  โลกสฺส  ยโต  สมาคโต  (๔)  
+<span class="LineNumber"> 018 </span>		ตถาย  นาโถ  กรุณาย  สพฺพทา  
+<span class="LineNumber"> 019 </span>		คโต  จ  เตนาปิ  ชิโน  ตถาคโต ฯ  
+<span class="LineNumber"> 020 </span>		ตถานิ  าณานิ  ยโต  สมาคโต  
+<span class="LineNumber"> 021 </span>#  ๑.  ม.  กโรติ  วาจาย ฯ  ๒.  ม.  โลกํ  ปภวํ ฯ
+<span class="LineNumber"> 022 </span>#  ๓.  ม.  ปจฺจกฺขกิริยาย ฯ  ๔.  ม.  ยโตยมาคโต ฯ  
+<span class="LineNumber"> 023 </span>#  เอวมุปริปิ ฯ

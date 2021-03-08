@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ 28    หน้า  1
+
+<span class="LineNumber"> 002 </span>				ชาตกฏฺ€กถา  
+<span class="LineNumber"> 003 </span>				เอกนิปาโต
+
+<span class="LineNumber"> 004 </span>	นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+
+<span class="LineNumber"> 005 </span>			คนฺถารมฺภกถา
+<span class="LineNumber"> 006 </span>	ชาติโกฏิสหสฺเสหิ			ปมาณฺรหิตํ หิตํ  
+<span class="LineNumber"> 007 </span>	โลกสฺส โลกนาเถน		กตํ เยน มเหสินา  
+<span class="LineNumber"> 008 </span>	ตสฺส ปาเท นมสฺสิตฺวา		กตฺวา ธมฺมสฺส จฺชลึ  
+<span class="LineNumber"> 009 </span>	สํฆฺจ ปติมาเนตฺวา		สพฺพสมฺมานภาชนํ  
+<span class="LineNumber"> 010 </span>	นมสฺสนาทิโน(๑) อสฺส		ปุฺสฺส รตนตฺตเย  
+<span class="LineNumber"> 011 </span>	ปวตฺตสฺสานุภาเวน		เฉตฺวา(๒) สพฺเพ อุปทฺทเว  
+<span class="LineNumber"> 012 </span>	ตํ ตํ การณมาคมฺม			เทสิตานิ ชุตีมตา  
+<span class="LineNumber"> 013 </span>	อปณฺณกาทีนิ ปุรา			ชาตกานิ มเหสินา  
+<span class="LineNumber"> 014 </span>	ยานิ เยสุ จิรํ สตฺถา			โลกนิตฺถรณตฺถิโก  
+<span class="LineNumber"> 015 </span>	อนนฺเต โพธิสมฺภาเร		ปริปาเจสิ นายโก  
+<span class="LineNumber"> 016 </span>	ตานิ สพฺพานิ เอกชฺฌํ		อาโรเปนฺเตหิ สงฺคหํ  
+<span class="LineNumber"> 017 </span>	ชาตกํ นาม สงฺคีตํ			ธมฺมสงฺคาหเกหิ ยํ  
+<span class="LineNumber"> 018 </span>	พุทฺธวํสสฺส เอตสฺส		อิจฺฉนฺเตน จิรฏฺ€ิตึ  
+<span class="LineNumber"> 019 </span>	ยาจิโต อภิคนฺตฺวาน		เถเรน อตฺถทสฺสินา  
+<span class="LineNumber"> 020 </span># ๑. สี. ย. นมสฺสนาทิโต ฯ  ๒. สี. ยุ. เภตฺวา 

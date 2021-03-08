@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                            <H2>นเหตุบทปฏิจจวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 003 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>           [๔๙๐] ๑. <B>ธรรมที่ไม่ใช่นเหตุธรรม     ที่ไม่ใช่อเหตุกธรรม
+<span class="LineNumber"> 005 </span>อาศัยธรรมที่ไม่ใช่นเหตุธรรม ที่ไม่ใช่อเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 006 </span>เหตุปัจจัย.</B>
+<span class="LineNumber"> 007 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๔๙๑]  ในเหตุปัจจัย  มี ๑ วาระ  ฯลฯ  ในอวิคตปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 009 </span>ในปัจจัยทั้งปวง มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>                              <I>นสเหตุกทุกนเหตุทุกะ  จบ</I>
+
+<span class="LineNumber"> 011 </span>                             <H1>นเหตุสัมปยุตตทุกนเหตุทุกะ</H1>
+<span class="LineNumber"> 012 </span>        <H2>(๓.  นเหตุสัมปยุตตทุกะ  ๑.  นเหตุทุกะ)</H2>	
+<span class="LineNumber"> 013 </span>                                 <H2>เหตุบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 014 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>       	   [๔๙๒] ๑. <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่เหตุสัมปยุตต-
+<span class="LineNumber"> 017 </span>ธรรม  ฯลฯ</B>
+
+<span class="LineNumber"> 018 </span>                                 <H2>นเหตุบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 019 </span>                                            <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 020 </span>                                           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 021 </span>                       ๑. <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่นเหตุธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 022 </span>เหตุวิปปยุตตธรรม  ฯลฯ</B>
+<span class="LineNumber"> 023 </span>                              <I>นเหตุสัมปยุตตทุกนเหตุทุกะ  จบ</I>

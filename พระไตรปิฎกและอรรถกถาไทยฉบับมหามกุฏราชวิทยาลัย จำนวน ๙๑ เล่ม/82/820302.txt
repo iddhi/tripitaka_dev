@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>อายตนยมกที่  ๓</H1> 
+<span class="LineNumber"> 002 </span>                                 <H1>ปัณณัตติวาระ</H1>
+<span class="LineNumber"> 003 </span>         [๒๗๙]  อายตนะ   ๑๒  คือ :-
+<span class="LineNumber"> 004 </span>                      <B>๑. จักขายตนะ
+<span class="LineNumber"> 005 </span>                      ๒.  โสตายตนะ
+<span class="LineNumber"> 006 </span>                      ๓.  ฆานายตนะ
+<span class="LineNumber"> 007 </span>                      ๔.  ชิวหายตนะ
+<span class="LineNumber"> 008 </span>                      ๕.  กายายตนะ
+<span class="LineNumber"> 009 </span>                      ๖.  รูปายตนะ
+<span class="LineNumber"> 010 </span>                      ๗.  สัททายตนะ
+<span class="LineNumber"> 011 </span>                      ๘.  คันธายตนะ
+<span class="LineNumber"> 012 </span>                      ๙.  รสายตนะ
+<span class="LineNumber"> 013 </span>                    ๑๐.  โผฏฐัพพายตนะ
+<span class="LineNumber"> 014 </span>                    ๑๑.  มนายตนะ
+<span class="LineNumber"> 015 </span>                    ๑๒.  ธัมมายนตนะ.</B>

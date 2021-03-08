@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  17  ยมกวคฺควณฺณนา  หน้า  100
+
+<span class="LineNumber"> 002 </span>ลายเน  ลายนคฺคํ  เวณิกรเณ เวณิคฺคํ  กลาปาทีสุ  กลาปคฺคํ
+<span class="LineNumber"> 003 </span>ขลคฺคํ  ภณฺฑคฺคํ  โกฏฺ€คฺคนฺติ  เอวํ  เอกสสฺเส  นว  วาเร
+<span class="LineNumber"> 004 </span>อคฺคทานํ  อทาสิ ฯ  ตสฺส  สพฺเพสุ  วาเรสุ  คหิตคหิตฏฺ€านํ
+<span class="LineNumber"> 005 </span>ปริปูริ ฯ  สสฺสํ  อติเรกํ  อุฏฺ€านสมฺปนฺนํ  อโหสิ ฯ ธมฺโม
+<span class="LineNumber"> 006 </span>นาเมส อตฺตานํ รกฺขนฺตํ รกฺขติ ฯ
+<span class="LineNumber"> 007 </span>		ธมฺโม หเว รกฺขติ ธมฺมจารึ
+<span class="LineNumber"> 008 </span>		ธมฺโม สุจิณฺโณ สุขมาวหาติ
+<span class="LineNumber"> 009 </span>		เอสานิสํโส ธมฺเม สุจิณฺเณ
+<span class="LineNumber"> 010 </span>		น ทุคฺคตึ คจฺฉติ ธมฺมจารีติ ฯ (๑)
+<span class="LineNumber"> 011 </span>เอวเมว  วิปสฺสิสมฺมาสมฺพุทฺธกาเล  อคฺคธมฺมํ  ป€มํ  ปฏิวิชฺฌิตุํ
+<span class="LineNumber"> 012 </span>ปตฺเถนฺโต  นว  อคฺคทานานิ  อทาสิ ฯ  อิโต
+<span class="LineNumber"> 013 </span>สตสหสฺสกปฺปมตฺถเก
+<span class="LineNumber"> 014 </span>ปน  หํสวตีนคเร  ปทุมุตฺตรพุทฺธกาเลปิ  (๒)  สตฺตาหํ  มหาทานํ
+<span class="LineNumber"> 015 </span>ทตฺวา
+<span class="LineNumber"> 016 </span>ตสฺส  ภควโต  ปาทมูเล  นิปชฺชิตฺวา  อคฺคธมฺมสฺส  ป€มํ
+<span class="LineNumber"> 017 </span>ปฏิวิชฺฌนตฺถเมว   ปตฺถนํ  €เปสิ ฯ  อิติ  อิมินา  ปตฺถิตเมว
+<span class="LineNumber"> 018 </span>มยา  ทินฺนํ  นาหํ  มุขํ  โอโลเกตฺวา  เทมีติ  ฯ
+<span class="LineNumber"> 019 </span>	ยสกุลปุตฺตปฺปมุขา  ปฺจปฺาส  ชนา  กึ  กมฺมํ  กรึสุ
+<span class="LineNumber"> 020 </span>ภนฺเตติ ฯ  เอเตปิ  เอกสฺส  พุทฺธสฺส  สนฺติเก  อรหตฺตํ
+<span class="LineNumber"> 021 </span>ปตฺเถนฺตา  พหุํ  ปุฺกมฺมํ  กตฺวา  อปรภาเค  อนุปฺปนฺเน
+<span class="LineNumber"> 022 </span># ๑  ขุ. ชา. ทสก.  ๒๗/๒๙๐ ฯ  ตทฏฺ€กถา ฯ ๕/๕๖๐ ฯ  ขุ. เถร.
+<span class="LineNumber"> 023 </span>๒๖/๓๑๔ ฯ
+<span class="LineNumber"> 024 </span># ๒  ขุ. พุ. ๓๓/๔๗๖  ฯ

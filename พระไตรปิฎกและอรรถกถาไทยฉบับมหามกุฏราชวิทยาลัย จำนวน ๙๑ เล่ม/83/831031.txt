@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>ภาวนาวาระ</H1> 
+<span class="LineNumber"> 002 </span>         [๓๗๘]  บุคคลใดกำลังเจริญกุศลธรรมอยู่,     บุคคลนั้นชื่อว่า 
+<span class="LineNumber"> 003 </span>กำลังละอกุศลธรรม  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่าบุคคลใดกำลังละอกุศลธรรม,       บุคคลนั้นชื่อว่ากำลัง
+<span class="LineNumber"> 006 </span>เจริญกุศลธรรมอยู่   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         บุคคลใดไม่ใช่กำลังเจริญกุศลธรรมอยู่,  บุคคลนั้นไม่ชื่อว่ากำลัง 
+<span class="LineNumber"> 009 </span>ละอกุศลธรรม ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่. 
+<span class="LineNumber"> 011 </span>         ก็หรือว่าบุคคลใดไม่ใช่กำลังละอกุศลธรรม,           บุคคลนั้นไม่
+<span class="LineNumber"> 012 </span>ชื่อว่ากำลังเจริญกุศลธรรมอยู่   ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่.  ฯ ล ฯ
+<span class="LineNumber"> 014 </span>                                       <I>ภาวนาวาระ  จบ</I>
+<span class="LineNumber"> 015 </span>                                         <I>ธัมมยมก  จบ</I>

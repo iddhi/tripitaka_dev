@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  38  มหานิทฺเทสวณฺณนา  หน้า  338
+
+<span class="LineNumber"> 002 </span>สงฺขาตาสุ  รูปารูปสมาปตฺตีสุ  อติรตฺตา  อลฺลีนา ฯ  ยโต  
+<span class="LineNumber"> 003 </span>กามราโค  จาติ ยทา  กามราโค (๑) จ ฯ รูปารูปภเวสุปิ (๒) 
+<span class="LineNumber"> 004 </span>เอเสว นโย ฯ  
+<span class="LineNumber"> 005 </span>		สุทฺธฏฺ€กสุตฺตนิทฺเทสวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 006 </span>					จตุตฺถํ ฯ  
+<span class="LineNumber"> 007 </span>			 ปรมฏฺ€กสุตฺตนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 008 </span>	ปฺจเม  ปรมฏฺ€กสุตฺเต  ปรมนฺติ  ทิฏฺ€ีสุ  ปริพฺพสาโนติ  
+<span class="LineNumber"> 009 </span>อิทํ  ปรมนฺติ คเหตฺวา  สกาย  สกาย  ทิฏฺ€ิยา  วสมาโน ฯ  
+<span class="LineNumber"> 010 </span>ยทุตฺตรึ  กุรุเตติ ยํ อตฺตโน สตฺถาราทึ เสฏฺ€ํ  กโรติ ฯ  
+<span class="LineNumber"> 011 </span>หีนาติ  อฺเ  ตโต  สพฺพมาหาติ  ตํ  อตฺตโน  สตฺถาราทึ 
+<span class="LineNumber"> 012 </span>€เปตฺวา  ตโต  อฺเ  สพฺเพ  หีนา  อิเมติ  อาห ฯ  ตสฺมา 
+<span class="LineNumber"> 013 </span>วิวาทานิ  อวีติวตฺโตติ  เตน  การเณน ตานิ (๔) ทิฏฺ€ิกลหานิ 
+<span class="LineNumber"> 014 </span>อวีติวตฺโตว โหติ ฯ  
+<span class="LineNumber"> 015 </span>	วสนฺตีติ  ป€มุปฺปนฺนทิฏฺ€ิวเสน  วสนฺติ ฯ  ปวสนฺตีติ  (๕)
+<span class="LineNumber"> 016 </span>ปวิสิตฺวา  วสนฺติ ฯ อาวสนฺตีติ  วิเสเสน  วสนฺติ ฯ  ปริวสนฺตีติ 
+<span class="LineNumber"> 017 </span>สพฺพภาเคน วสนฺติ ฯ ตํ อุปมาย สาเธนฺโต ยถา  อาคาริกา
+<span class="LineNumber"> 018 </span>วาติอาทิมาห ฯ อาคาริกา วาติ ฆรสามิกา ฯ ฆเรสุ วสนฺตีติ 
+<span class="LineNumber"> 019 </span># ๑. ม. กามภเว ราโค ฯ  ๒. ม. รูปารูปราเคสุปิ ฯ  ๓. ม.โส ทิฏฺ€ิกลเห ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. ปวสนฺตีติ ฯ

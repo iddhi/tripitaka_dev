@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H1>อตีตานาคตวาระ</H1> :- 
+<span class="LineNumber"> 002 </span>         [๒๕]   จิตใดเคยเกิด   แต่จิตนั้นไม่ใช่เกิดขึ้นแล้ว   จิตนั้นจัก
+<span class="LineNumber"> 003 </span>เกิด  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ก็หรือว่าจิตใดจักเกิด  แต่จิตนั้นไม่ใช่เกิดขึ้นแล้ว     จิตนั้นเคย
+<span class="LineNumber"> 005 </span>เกิด  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         จิตใดไม่ใช่เคยเกิด   แต่จิตนั้นเกิดขึ้นแล้ว    จิตนั้นไม่ใช่จักเกิด 
+<span class="LineNumber"> 007 </span>ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ก็หรือว่าจิตใดไม่ใช่จักเกิด   แต่จิตนั้นเกิดขึ้นแล้ว   จิตนั้นไม่ใช่
+<span class="LineNumber"> 009 </span>เคยเกิด ใช่ไหม ?
+<span class="LineNumber"> 010 </span><H1>อุปปันนุปปัชชมานวาระ</H1> :-
+<span class="LineNumber"> 011 </span>         [๒๖]   จิตใดเกิดขึ้นแล้ว,  จิตนั้นกำลังเกิดอยู่  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         จิตใดกำลังเกิดอยู่,     จิตนั้นเกิดขึ้นแล้ว   ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         จิตใดไม่ใช่เกิดขึ้นแล้ว,   จิตนั้นไม่ใช่กำลังเกิดอยู่  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         จิตใดไม่ใช่กำลังเกิดอยู่,   จิตนั้นไม่ใช่เกิดขึ้นแล้ว  ใช่ไหม ?
+<span class="LineNumber"> 015 </span><H1>นิรุทธนิรุชฌมานวาระ</H1> :-
+<span class="LineNumber"> 016 </span>         [๒๗]   จิตใดดับแล้ว,  จิตนั้นกำลังดับอยู่   ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         จิตใดกำลังดับอยู่,  จิตนั้นดับแล้ว  ใช่ไหม ?

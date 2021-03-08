@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 002 </span>            [๖๐]   รู้อยู่ว่าเขาไม่มีความพอใจ     พูดส่งเสริม ๑     พูดส่งเสริมโดย
+<span class="LineNumber"> 003 </span>เข้าใจว่าเขาโกรธกัน   นางคงไม่รับประเคน ๑    พูดส่งเสริมโดยเข้าใจว่า   นาง
+<span class="LineNumber"> 004 </span>จักไม่รับประเคน    เพราะความเอ็นดูแก่สกุล ๑    วิกลจริต  ๑    อาทิกัมมิกา ๑
+<span class="LineNumber"> 005 </span>ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 006 </span>                                <I>สังฆาทิเสสสิกขาบทที่  ๖   จบ</I>
+
+<span class="LineNumber"> 007 </span>                              <H1>อรรถกถาสังฆาทิเสสสิกขาบทที่  ๖</H1>
+<span class="LineNumber"> 008 </span>            วินิจฉัย   ในสิกขาบทที่  ๖  พึงทราบดังนี้ :-
+<span class="LineNumber"> 009 </span>            สองบทว่า  <B>ยโต  ตฺวํ </B> ไขเป็น  <B>ยสฺมา  ตฺวํ </B> แปลว่า  เพราะว่า  
+<span class="LineNumber"> 010 </span>แม่เจ้า.                                                                        
+<span class="LineNumber"> 011 </span>            ถามว่า   อาบัติทั้งหลายมีอาทิว่า    พูดส่งเสริม    ต้องอาบัติทุกกฏ   มี
+<span class="LineNumber"> 012 </span>สังฆาทิเสสเป็นที่สุด   จะมีแก่ใคร.
+<span class="LineNumber"> 013 </span>            แก้ว่า   มีแก่ภิกษุณีผู้พูดส่งเสริม.    สมจริงดังคำที่พระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 014 </span>ตรัสไว้แม้ในคัมภีร์ปริวารว่า
+<span class="LineNumber"> 015 </span>                             <B>ภิกษุณีไม่ให้    ไม่รับประเคน   การ
+<span class="LineNumber"> 016 </span>                    รับไม่มี    ด้วยเหตุนั้น,   แต่ต้องอาบัติหนัก
+<span class="LineNumber"> 017 </span>                    ไม่ใช่อาบัติเบา     และการต้องนั้น      เพราะ
+<span class="LineNumber"> 018 </span>                    การบริโภคเป็นปัจจัย     ปัญหาข้อนี้ท่านผู้
+<span class="LineNumber"> 019 </span>                    ฉลาดทั้งหลายคิดกันแล้ว.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 209
+
+<span class="LineNumber"> 002 </span>		ปริยาคตนฺตํ(๑) กุสลํ	ยํ เม โกสมฺพิยํ กตํ  
+<span class="LineNumber"> 003 </span>		เทเว เจว มนุสฺเส จ	สนฺธาวิสฺสํ อิโต จุตา  
+<span class="LineNumber"> 004 </span>		สตฺต ชจฺจา มหาราช	นิจฺจํ สกฺกตปูชิตา  
+<span class="LineNumber"> 005 </span>		อิตฺถีภาวา(๒) น มุฺจิสฺสํ  ฉฏฺ€าว คติโย อิมา  
+<span class="LineNumber"> 006 </span>		สตฺตมี จ คติ เจว(๓)	เทวปุตฺโต มหิทฺธิโก  
+<span class="LineNumber"> 007 </span>		ปุมา เทโว ภวิสฺสามิ	เทวกายสฺมิมุตฺตโม  
+<span class="LineNumber"> 008 </span>		อชฺชาปิ สนฺตานมยํ	มาลํ คนฺเถนฺติ นนฺทเน  
+<span class="LineNumber"> 009 </span>		เทวปุตฺโต ชโว นาม	โส(๔) เม มาลํ ปฏิจฺฉติ  
+<span class="LineNumber"> 010 </span>		มุหุตฺโต วิย โส ทิพฺโย	มนุสฺเส อิธ [๕] โสฬส  
+<span class="LineNumber"> 011 </span>		รตฺตินฺทิโว จ โส ทิพฺโย	มานุสึ สรโทสตํ  
+<span class="LineNumber"> 012 </span>		อิติ กมฺมานิ อนฺเวนฺติ	อสํเขยฺยาปิ  ชาติโย  
+<span class="LineNumber"> 013 </span>		กลฺยาณํ ยทิวา ปาปํ	น หิ กมฺมํ วินสฺสตีติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  ทสนฺเนสูติ  ทสนฺนรฏฺเ€(๖) ฯ  ปสูติ  โคโณ ฯ 
+<span class="LineNumber"> 015 </span>อหุนฺติ  อโหสึ ฯ  นิลุจฺฉิโตติ  วจฺฉกกาเลเยว  มํ  เอวํ  มนาโป  ภวิสฺสตีติ  
+<span class="LineNumber"> 016 </span>นิพฺพีชมกํสุ ฯ  โสหํ  นิลุจฺฉิโต  อุทฺธตวีโชว(๗)  ชโว  ภโทฺร  อโหสึ ฯ  
+<span class="LineNumber"> 017 </span>วชฺชีสุ  กุลมาคโตติ(๘)  โคโยนิโต  จวิตฺวา  วชฺชีรฏฺเ€  เอกสฺมึ  
+<span class="LineNumber"> 018 </span>มหาโภคกุเล  นิพฺพตฺตมฺหีติ  ทสฺเสติ(๙) ฯ  เนวิตฺถี  น  ปุมาติ  นปุํสกตฺตํ
+<span class="LineNumber"> 019 </span># ๑. ม. ปริยาคตํ ตํ ฯ ๒. ม. ถีภาวาปิ ฯ ๓. ม. เทว ฯ 
+<span class="LineNumber"> 020 </span># ๔. ม. โย ฯ ๕. ม. เอตฺถนฺตเร วสฺสานีติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. ทสฺสนรฏฺเ€สุ ฯ ๗. ม. อุทฺธตพีโช ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. กุลมาคมาติ ฯ ๙. ม.นิพฺพตฺตินฺติ ทิสฺเสติ ฯ 

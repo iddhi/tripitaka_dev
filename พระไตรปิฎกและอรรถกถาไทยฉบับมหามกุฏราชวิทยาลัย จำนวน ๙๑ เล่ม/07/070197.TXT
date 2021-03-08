@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ๒๓.   กฐินไม่เป็นอันกราน   เว้นจากการกรานแห่งบุคคล. 
+<span class="LineNumber"> 002 </span>           ๒๘.   กฐินไม่เป็นอันกรานโดยชอบ   ถ้าภิกษุผู้อยู่นอกสีมาอนุโมทนา
+<span class="LineNumber"> 003 </span>กฐินนั้น    แม้อย่างนี้    กฐินก็ชื่อว่าไม่เป็นอันกราน.
+<span class="LineNumber"> 004 </span>           ดูก่อนภิกษุทั้งหลาย   อย่างนี้แล   กฐินไม่เป็นอันกราน.
+
+<span class="LineNumber"> 005 </span>                           <H1>กฐินเป็นอันกราน</H1>
+<span class="LineNumber"> 006 </span>           [๙๘]   ดูก่อนภิกษุทั้งหลาย   อย่างไรเล่า   กฐินเป็นอันกราน   คือ:-
+<span class="LineNumber"> 007 </span>              ๑.   กฐินเป็นอันกราน   ด้วยผ้าใหม่.
+<span class="LineNumber"> 008 </span>              ๒.   กฐินเป็นอันกราน  ด้วยผ้าเทียมใหม่.
+<span class="LineNumber"> 009 </span>              ๓.   กฐินเป็นอันกราน   ด้วยผ้าเก่า.
+<span class="LineNumber"> 010 </span>              ๔.   กฐินเป็นอันกราน   ด้วยผ้าบังสุกุส. 
+<span class="LineNumber"> 011 </span>              ๕.   กฐินเป็นอันกราน  ด้วยผ้าที่ตกตามร้าน.
+<span class="LineNumber"> 012 </span>              ๖.   กฐินเป็นอันกราน   ด้วยผ้าที่ไม่ได้ทำนิมิตได้มา.
+<span class="LineNumber"> 013 </span>              ๗.   กฐินเป็นอันกราน   ด้วยผ้าที่ไม่ได้พูดเลียบเคียงได้มา.
+<span class="LineNumber"> 014 </span>              ๘.   กฐินเป็นอันกราน   ด้วยผ้าที่ไม่ได้ยืมเขามา.
+<span class="LineNumber"> 015 </span>              ๙.   กฐินเป็นอันกราน   ด้วยผ้าที่ไม่ได้เก็บไว้ค้างคืน.
+<span class="LineNumber"> 016 </span>             ๑๐.  กฐินเป็นอันกราน  ด้วยผ้าที่ไม่ได้เป็นนิสสัคคีย์.
+<span class="LineNumber"> 017 </span>             ๑๑.  กฐินเป็นอันกราน  ด้วยผ้าที่ทำกัปปะพินทุแล้ว.
+<span class="LineNumber"> 018 </span>             ๑๒.  กฐินเป็นอันกราน  ด้วยผ้าสังฆาฏิ.
+<span class="LineNumber"> 019 </span>             ๑๓.  กฐินเป็นอันกราน  ด้วยผ้าอุตราสงค์.
+<span class="LineNumber"> 020 </span>             ๑๔.  กฐินเป็นอันกราน  ด้วยผ้าอันตรวาสก.
+<span class="LineNumber"> 021 </span>             ๑๕.  กฐินเป็นอันกราน   ด้วยจีวรมีขันธ์  ๕ หรือเกิน  ๕  ซึ่งตัดดีแล้ว
+<span class="LineNumber"> 022 </span>ทำให้มีมณฑลเสร็จในวัน.

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  33  ภิกฺขาปรมฺปรชาตกํ  413  
+
+<span class="LineNumber"> 002 </span>[๒๐๒๔]สุขุมาลรูปํ ทิสฺวา		รฏฺ€า วิวนมาคตํ  
+<span class="LineNumber"> 003 </span>		กูฏาคารวรูเปตํ		มหาสยนมุปาสิตํ (๑)  
+<span class="LineNumber"> 004 </span>		ตสฺส เต เปมเกนาหํ		อทาสึ วฑฺฒโมทนํ (๒)  
+<span class="LineNumber"> 005 </span>		สาลีนํ วิจิตฺตํ ภตฺตํ		สุจิมํสูปเสจนํ (๓)  
+<span class="LineNumber"> 006 </span>		ตํ ตฺวํ ภตฺตํ ปฏิคฺคยฺห	พฺราหฺมณสฺส อทาปยิ (๔)  
+<span class="LineNumber"> 007 </span>		อตฺตานํ อนสิตฺวาน		โกยํ ธมฺโม นมตฺถุ เต ฯ  
+<span class="LineNumber"> 008 </span>[๒๐๒๕]อาจริโย พฺราหฺมโณ มยฺหํ	กิจฺจากิจฺเจสุ ปาวโต (๕)  
+<span class="LineNumber"> 009 </span>		คุรุ จ อามนฺตนิโก (๖)  จ	ทาตุมรหามิ โภชนํ ฯ  
+<span class="LineNumber"> 010 </span>[๒๐๒๖]พฺราหฺมณํทานิ ปุจฺฉามิ	โคตมํ ราชปูชิตํ  
+<span class="LineNumber"> 011 </span>		ราชา เต ภตฺตํ ปาทาสิ	สุจิมํสูปเสจนํ  
+<span class="LineNumber"> 012 </span>		ตํ ตฺวํ ภตฺตํ ปฏิคฺคยฺห	อิสิสฺส โภชนํ อทา  
+<span class="LineNumber"> 013 </span>		อเขตฺตฺูสิ ทานสฺส	โกยํ ธมฺโม นมตฺถุ เต ฯ  
+<span class="LineNumber"> 014 </span>[๒๐๒๗]ภรามิ ปุตฺตทาเร จ		ฆเรสุ คธิโต (๗)  อหํ  
+<span class="LineNumber"> 015 </span>		ภุฺช มานุสิเก กาเม		อนุสาสามิ ราชิโน  
+<span class="LineNumber"> 016 </span>		อารฺิกสฺส อิสิโน		จิรํ รตฺตํ ตปสฺสิโน  
+<span class="LineNumber"> 017 </span>		วุฑฺฒสฺส ภาวิตตฺตสฺส	ทาตุมรหามิ โภชนํ ฯ  
+<span class="LineNumber"> 018 </span>[๒๐๒๘]อิสิฺจทานิ ปุจฺฉามิ		กีสํ ธมฺมนิสณฺ€ิตํ  
+<span class="LineNumber"> 019 </span>		ปรุฬฺหกจฺฉนขโลมํ		ปงฺกทนฺตํ รชสฺสิรํ  
+<span class="LineNumber"> 020 </span>		เอโก อรฺเ วิหรสิ	นาวกงฺขสิ ชีวิตํ  
+<span class="LineNumber"> 021 </span>#๑.  สฺยา. มหาสยนมุโปจิตํ ฯ   ๒. สี.  ยุ.  พทธฺโมทนํ  ฯ
+<span class="LineNumber"> 022 </span>#๓.  ม.  สุจึ  มํสูปเสจนํ  ฯ  เอวมุปริปิ  ฯ  ๔.  ม.  อทาสยิ  ฯ
+<span class="LineNumber"> 023 </span>#๕.  สฺยา.  วฺยาวโฏ  ฯ  ๖.  สฺยา.  อามนฺตนิโย  ฯ ๗. สี. ยุ. คถิโต  ฯ

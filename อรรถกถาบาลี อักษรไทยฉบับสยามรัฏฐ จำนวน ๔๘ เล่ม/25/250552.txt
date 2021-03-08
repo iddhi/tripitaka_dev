@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  552
+	
+<span class="LineNumber"> 002 </span>		เอวํ วิหรมานํ มํ		มจฺจุราชาภิมทฺทถ  
+<span class="LineNumber"> 003 </span>		ตตฺถ กาลงฺกโต สนฺโต	พฺรหฺมโลกมคจฺฉหํ ฯ  
+<span class="LineNumber"> 004 </span>		ยาวตายุํ วสิตฺวาน		ติทิเว(๑) อุปปชฺชหํ  
+<span class="LineNumber"> 005 </span>		อสีติกฺขตฺตุํ เทวินฺโท	เทวรชฺชมการยึ ฯ  
+<span class="LineNumber"> 006 </span>		สตานํ ตีณิกฺขตฺตุฺจ	จกฺกวตฺตี อโหสหํ ฯ  
+<span class="LineNumber"> 007 </span>		ปเทสรชฺชํ วิปุลํ		คณนาโต อสงฺขิยํ ฯ  
+<span class="LineNumber"> 008 </span>		โสณฺณกิงฺกณิปุปฺผานํ	วิปากํ อนุโภมหํ  
+<span class="LineNumber"> 009 </span>		พาวีสติสหสฺสานิ (๒)	ปริวาเรนฺติ มํ ภเว ฯ  
+<span class="LineNumber"> 010 </span>		ถูปสฺส ปริจิณฺณตฺตา	รโชชลฺลํ น ลิมฺปติ  
+<span class="LineNumber"> 011 </span>		คตฺเต เสทา น มุจฺจนฺติ	สุปฺปภาโส ภวามหํ ฯ  
+<span class="LineNumber"> 012 </span>		อโห เม สุกโต ถูโป	สุทิฏฺ€ามริกา นที (๓)  
+<span class="LineNumber"> 013 </span>		ถูปํ กตฺวาน ปุลินํ		ปตฺโตมฺหิ อจลํ ปทํ ฯ  
+<span class="LineNumber"> 014 </span>		กุสลํ กตฺตุกาเมน		ชนฺตุนา สารคาหินา(๔)  
+<span class="LineNumber"> 015 </span>		นตฺถิ เขตฺตํ อเขตฺตํ วา	ปฏิปตฺตีว สารกา ฯ (๕)  
+<span class="LineNumber"> 016 </span>		ยถาปิ พลวา โปโส		อณฺณวํ ตริตุสฺสโห (๖)  
+<span class="LineNumber"> 017 </span>		ปริตฺตํ กฏฺ€มาทาย	ปกฺขนฺเทยฺย มหาสรํ ฯ  
+<span class="LineNumber"> 018 </span>		อิมาหํ กฏฺ€ํ(๗) นิสฺสาย	ตริสฺสามิ มโหทธึ  
+<span class="LineNumber"> 019 </span>		อุสฺสาเหน วีริเยน		ตเรยฺย อุทธึ นโร ฯ  
+<span class="LineNumber"> 020 </span># ๑. ยุ. ติทเส ฯ ๒. ม. ธาตีสตสหสฺสานิ ฯ  ๓. สี. ปริขานที ฯ 
+<span class="LineNumber"> 021 </span># ๔. ยุ. ปารคามินา ฯ ๕. ม. สาธกา ฯ ยุ. สาธิกา ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ยุ. ตริตุสฺสเห ฯ  ๗. สฺยา. กิฏฺ€ํ ฯ 

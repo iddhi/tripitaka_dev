@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	ขัณฑจักร   และพัทธจักร   แห่งมาตุรักขิตาจักร   มีภรรยา ๕ คน
+<span class="LineNumber"> 002 </span>เป็นมูล
+<span class="LineNumber"> 003 </span>	ขัณฑจักร   และพัทธจักร   แห่งมาตุรักขิตาจักร   มีภรรยา ๖ คน
+<span class="LineNumber"> 004 </span>เป็นมูล
+<span class="LineNumber"> 005 </span>	ขัณฑจักร   และพัทธจักร   แห่งมาตุรักขิตาจักร   มีภรรยา ๗ คน
+<span class="LineNumber"> 006 </span>เป็นมูล
+<span class="LineNumber"> 007 </span>	ขัณฑจักร   และพัทธจักร   แห่งมาตุรักขิตาจักร   มีภรรยา ๘ คน
+<span class="LineNumber"> 008 </span>เป็นมูล
+<span class="LineNumber"> 009 </span>	ขัณฑจักร   และพัทธจักร   แห่งมาตุรักขิตาจักร   มีภรรยา ๙ คน
+<span class="LineNumber"> 010 </span>เป็นมูล
+<span class="LineNumber"> 011 </span>		     นักปราชญ์พึงทำตามแบบนั้นแล.
+
+<span class="LineNumber"> 012 </span>			            <H2>มาตุรักขิตาจักร
+<span class="LineNumber"> 013 </span>	      พัทธจักร มีภรรยา  ๑๐  คนเป็นมูล</H2>
+<span class="LineNumber"> 014 </span>	[๔๕๖]  บุรุษวานภิกษุว่า ข้าแต่พระคุณเจ้า   ขอพระคุณเจ้าจงไป
+<span class="LineNumber"> 015 </span>บอกสตรีมีมารดาปกครองผู้มีชื่อนี้ว่า   ข่าวว่า    ขอท่านจงเป็นภรรยาสิน-
+<span class="LineNumber"> 016 </span>ไถ่   เป็นภรรยาที่อยู่ด้วยความเต็มใจ   เป็นภรรยาที่อยู่เพราะสมบัติ    เป็น
+<span class="LineNumber"> 017 </span>ภรรยาที่อยู่เพราะผ้า   เป็นภรรยาที่สมรส    เป็นภรรยาที่เป็นทั้งคนใช้เป็น
+<span class="LineNumber"> 018 </span>ทั้งภรรยา      เป็นภรรยาที่เป็นทั้งลูกจ้างเป็นทั้งภรรยา      เป็นภรรยาเชลย
+<span class="LineNumber"> 019 </span>และเป็นภรรยาชั่วคราว  ของบุรุษผู้มีชื่อนี้   ภิกษุรับคำ  นำไปบอก  และ
+<span class="LineNumber"> 020 </span>กลับมาบอก  ต้องอาบัติสังฆาทิเสส.
+<span class="LineNumber"> 021 </span>			        <I>มาตุรักขิตาจักร  จบ</I>

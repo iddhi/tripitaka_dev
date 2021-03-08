@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  26  มหากสฺสปตฺเถรคาถาวณฺณนา  หน้า  721  
+
+<span class="LineNumber"> 002 </span>			กมฺมํ  พหุกํ  น  การเย  
+<span class="LineNumber"> 003 </span>			ปริวชฺเชยฺย  ชนํ  น  อุยฺยเม  
+<span class="LineNumber"> 004 </span>			อุสฺสุกฺโก  โส  รสานุคิทฺโธ  
+<span class="LineNumber"> 005 </span>			อตฺถํ  ริฺจติ  โย  สุขาวโห  (๑)  ฯ  
+<span class="LineNumber"> 006 </span>			กมฺมํ  พหุกํ  น  การเย  
+<span class="LineNumber"> 007 </span>			ปริวชฺเชยฺย  อนตฺตเนยฺยเมตํ  (๒)  
+<span class="LineNumber"> 008 </span>			กิจฺฉติ  กาโย  กิลมติ  
+<span class="LineNumber"> 009 </span>			ทุกฺขิโต  โส  สมถํ  น  วินฺทติ ฯ  
+<span class="LineNumber"> 010 </span>	โอฏฺ€ปฺปหตมตฺเตน  		อตฺตานมฺปิ  น  ปสฺสติ  
+<span class="LineNumber"> 011 </span>	ปตฺถทฺธคีโว  (๓)  จรติ  		อหํ  เสยฺโยติ  มฺติ ฯ  
+<span class="LineNumber"> 012 </span>	อเสยฺโย  เสยฺยสมานํ  		พาโล  มฺติ  อตฺตานํ  
+<span class="LineNumber"> 013 </span>	น  ตํ  วิฺู  ปสํสนฺติ  		ปตฺถทฺธมานสํ  นรํ ฯ  
+<span class="LineNumber"> 014 </span>	โย  จ  เสยฺโยหมสฺมีติ  		นาหํ  เสยฺโยติ  วา  ปน  (๔)  
+<span class="LineNumber"> 015 </span>	หีโน  ตํสทิโส  (๕)  วาติ  	วิธาสุ  น  วิกมฺปติ ฯ  
+<span class="LineNumber"> 016 </span>	ปฺวนฺตํ  ตถา  ตาทึ  (๖)	สีเลสุ  สุสมาหิตํ  
+<span class="LineNumber"> 017 </span>	เจโตสมถมนุยุตฺตํ  			ตฺเจ  (๗)  วิฺู  ปสํสเร ฯ  
+<span class="LineNumber"> 018 </span>	ยสฺส  สพฺรหฺมจารีสุ  		คารโว  นูปลพฺภติ  
+<span class="LineNumber"> 019 </span>	อารกา  โหติ  สทฺธมฺมา  		นภโต  ปุถวี  (๘)  ยถา ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา.  สุขาธิวาโห  ฯ  ๒.  สฺยา.  อนตฺถเมตํ  ฯ  ๓.  สฺยา.
+<span class="LineNumber"> 021 </span>#ปตฺถทฺธติ  ฯ  ๔.  สฺยา  ปุน  ฯ  ๕.  สฺยา.  หีโนหํ  สทิโส  ฯ  
+<span class="LineNumber"> 022 </span>#๖.  สฺยา.  ตถาวาทึ  ฯ  ๗.  สฺยา.  ตึ  เว  ฯ  ๘.  สฺยา.  นภโส  
+<span class="LineNumber"> 023 </span>#ปุถุวี  ฯ  

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>เหตุ ๙</B> เป็นอรูปธรรม.  
+<span class="LineNumber"> 002 </span>           <B>กวฬิงการาหาร</B> เป็นรูปธรรม.
+<span class="LineNumber"> 003 </span>           <B>อาหาร ๓</B> เป็นอรูปธรรม.
+<span class="LineNumber"> 004 </span>           <B>ผัสสะ  ๗</B>  เป็นอรูปธรรม.
+<span class="LineNumber"> 005 </span>           <B>เวทนา ๗   สัญญา ๗  เจตนา ๗  จิต  ๗</B>  เป็นอรูปธรรม. 
+
+<span class="LineNumber"> 006 </span>                                      <H1>โลกิยทุกวาระ</H1>     
+<span class="LineNumber"> 007 </span>           [๑๑๑๘]  <B>บรรดาขันธ์  ๕   ขันธ์ไหน เป็นโลกิยธรรม ขันธ์ไหน
+<span class="LineNumber"> 008 </span>เป็นโลกุตตรธรรม ฯลฯ   บรรดาจิต   ๗  จิตไหน   เป็นโลกิยธรรม
+<span class="LineNumber"> 009 </span>จิตไหน  เป็นโลกุตตรธรรม ?</B> 
+<span class="LineNumber"> 010 </span>           <B>รูปขันธ์</B> เป็นโลกิยธรรม.
+<span class="LineNumber"> 011 </span>           <B>ขันธ์  ๔</B>  เป็นโลกิยธรรมก็มี   เป็นโลกุตตรธรรมก็มี  
+<span class="LineNumber"> 012 </span>           <B>อายตนะ  ๑๐</B>   เป็นโลกิยธรรม.
+<span class="LineNumber"> 013 </span>           <B>อายตนะ ๒</B> เป็นโลกิยธรรมก็มี   เป็นโลกุตตรธรรมก็มี 
+<span class="LineNumber"> 014 </span>           <B>ธาตุ  ๑๖</B>   เป็นโลกิยธรรม.
+<span class="LineNumber"> 015 </span>           <B>ธาตุ  ๒</B>  เป็นโลกิยธรรมก็มี  เป็นโลกุตตรธรรมก็มี.
+<span class="LineNumber"> 016 </span>           <B>สัจจะ ๒</B> เป็นโลกิยธรรม.
+<span class="LineNumber"> 017 </span>           <B>สัจจะ ๒</B> เป็นโลกุตตรธรรม.
+<span class="LineNumber"> 018 </span>           <B>อินทรีย์  ๑๐</B>  เป็นโลกิยธรรม.
+<span class="LineNumber"> 019 </span>           <B>อินทรีย์ ๓</B> เป็นโลกุตตรธรรม.
+<span class="LineNumber"> 020 </span>           <B>อินทรีย์  ๙</B>  เป็นโลกิยธรรมก็มี  เป็นโลกุตตรธรรมก็มี. 
+<span class="LineNumber"> 021 </span>           <B>อกุศลเหตุ ๓</B> เป็นโลกิยธรรม.

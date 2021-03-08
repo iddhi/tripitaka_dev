@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>อนันตรปกิณณกฆฏนา ๓</H1> 
+<span class="LineNumber"> 002 </span> [๖๓๓] <B>๑.  ปัจจัย  ๕</B>  คือ อนันตระ สมนันตระ อุปนิสสยะ นัตถิ  
+<span class="LineNumber"> 003 </span>วิคตปัจจัย  มี ๗ วาระ. 
+<span class="LineNumber"> 004 </span>             <B>๒.  ปัจจัย ๖</B>   คือ อนันตระ    สมนันตระ    อุปนิสสยะ
+<span class="LineNumber"> 005 </span>อาเสวนะ   นัตถิ  วิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>             <B>๓.  ปัจจัย  ๖</B>   คือ อนันตระ    สมนันตระ    อุปนิสสยะ
+<span class="LineNumber"> 007 </span>กัมมะ  นัตถิ วิคตปัจจัย  มี ๑  วาระ.
+
+<span class="LineNumber"> 008 </span>                                <H1>๕. สมนันตรมูลกนัย</H1>
+<span class="LineNumber"> 009 </span>                                  <H1>สมนันตรสภาคะ ๖</H1>
+<span class="LineNumber"> 010 </span> <B>[๖๓๔]  เพราะสมนันตรปัจจัย</B>  ในอนันตรปัจจัย  มี ๗ วาระ...  ใน
+<span class="LineNumber"> 011 </span>อุปนิสสยปัจจัย     มี ๗ วาระ  ในอาเสวนปัจจัย  มี ๓ วาระ   ในกัมมปัจจัย
+<span class="LineNumber"> 012 </span>มี ๑ วาระ   ในนัตถิปัจจัย   มี ๗ วาระ   ในวิคตปัจจัย   มี ๗ วาระ.
+
+<span class="LineNumber"> 013 </span>                            <H1>สมนันตรปกิณณกฆฏนา ๓</H1>
+<span class="LineNumber"> 014 </span> <B>[๖๓๕]  ๑.  ปัจจัย ๕</B>  คือ สมนันตระ อนันตระ อุปนิสสยะ นัตถิ
+<span class="LineNumber"> 015 </span>วิคตปัจจัย   มี ๗ วาระ.
+<span class="LineNumber"> 016 </span>             <B>๒.  ปัจจัย ๖</B>  คือ สมนันตรปัจจัย  อนันตระ อุปนิสสยะ
+<span class="LineNumber"> 017 </span>อาเสวนะ  นัตถิ  วิคตปัจจัย  มี ๓ วาระ.

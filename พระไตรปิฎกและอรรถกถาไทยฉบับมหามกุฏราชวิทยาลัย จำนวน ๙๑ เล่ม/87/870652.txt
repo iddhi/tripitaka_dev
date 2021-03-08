@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๒.   นอารัมมณปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๒๐๔๕] ๑.  <B>อัชฌัตตธรรม    อาศัยอัชฌัตตธรรม    เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะนอารัมมณปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอัชฌัตตธรรม.
+<span class="LineNumber"> 005 </span>           ในปฏิสนธิขณะ  กฏัตตารูป   อาศัยขันธ์ทั้งหลายที่เป็นอัชฌัตตธรรม,
+<span class="LineNumber"> 006 </span>หทยวัตถุ  อาศัยขันธ์ทั้งหลาย ฯลฯ
+<span class="LineNumber"> 007 </span>           ในหาภูตรูป ๓ อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 008 </span>           อาหารสมุฏฐานรูป...   อุตุสมุฏฐานรูป ฯลฯ 
+<span class="LineNumber"> 009 </span>           ส่วนอสัญญสัตว์ทั้งหลาย   มหาภูตรูป ๓  อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 010 </span>           [๒๐๔๖] ๒.  <B>พหิทธาธรรม    อาศัยพหิทธาธรรม    เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลายที่เป็นพหิทธาธรรม.
+<span class="LineNumber"> 013 </span>           ในปฏิสนธิขณะ   กฏัตตารูป   อาศัยขันธ์ทั้งหลายที่เป็นพหิทธาธรรม,
+<span class="LineNumber"> 014 </span>หทยวัตถุ   อาศัยขันธ์ทั้งหลาย.
+<span class="LineNumber"> 015 </span>           มหาภูตรูป ๓ อาศัยมหาภูตรูป ๑  ฯลฯ
+<span class="LineNumber"> 016 </span>           พาหิรรูป...   อาหารสมุฏฐาน...  อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 017 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ
+

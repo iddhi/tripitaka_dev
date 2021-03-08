@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๗.  ทุกกรสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>                         <H1>ว่าด้วยธรรมที่ทำได้ยาก</H1>
+<span class="LineNumber"> 003 </span>         [๓๖]   เทวดากล่าวว่า
+<span class="LineNumber"> 004 </span>                             <B>ธรรมของสมณะ   คนไม่ฉลาด  ทำ
+<span class="LineNumber"> 005 </span>                   ได้ยาก  ทนได้ยาก  เพราะธรรมของสมณะ
+<span class="LineNumber"> 006 </span>                   นั้นมีความลำบากมาก    เป็นที่ติดขัดของ
+<span class="LineNumber"> 007 </span>                   คนพาล.</B>
+<span class="LineNumber"> 008 </span>         [๓๗]  พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>คนพาล    ประพฤติธรรมของสมณะ
+<span class="LineNumber"> 010 </span>                   สิ้นวันเท่าใด   หากไม่ห้ามจิต   เขาตกอยู่
+<span class="LineNumber"> 011 </span>                   ในอำนาจของความดำริทั้งหลาย     พึงติด
+<span class="LineNumber"> 012 </span>                   ขัดอยู่ทุก ๆ อารมณ์   ภิกษุยั้งวิตกในใจไว้
+<span class="LineNumber"> 013 </span>                   ได้     เหมือนเต่าหดอวัยวะทั้งหลายไว้ใน
+<span class="LineNumber"> 014 </span>                   กระดองของตน    อันตัณหานิสัยและทิฏฐิ-
+<span class="LineNumber"> 015 </span>                   นิสัยไม่พัวพันแล้ว  ไม่เบียดเบียนสัตว์อื่น
+<span class="LineNumber"> 016 </span>                   ปรินิพพานแล้ว  ไม่พึงติเตียนใคร.</B>

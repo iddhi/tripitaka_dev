@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 13
+
+<span class="LineNumber"> 002 </span>มนุสฺโส  สมาโนปิ ฯ  วรุณสฺสาติ  วรุณนาคราชสฺส ฯ  นิยํ  
+<span class="LineNumber"> 003 </span>ปุตฺตนฺติ อชฺฌตฺติกํ ปุตฺตํ ฯ ยามุนนฺติ ยมุนาย นทิยา เหฏฺ€า
+<span class="LineNumber"> 004 </span>ชาตํ ฯ  
+<span class="LineNumber"> 005 </span>	ตโต ราชา เทฺว คาถา อภาสิ  
+<span class="LineNumber"> 006 </span>	[๖๙๐]นาติมฺามิ ราชานํ	ธตรฏฺ€ํ ยสสฺสินํ  
+<span class="LineNumber"> 007 </span>		ธตรฏฺโ€ หิ นาคานํ	พหูนมปิ(๑) อิสฺสโร  
+<span class="LineNumber"> 008 </span>		อหิ มหานุภาโวปิ		น เม ธีตรมารโห  
+<span class="LineNumber"> 009 </span>		ขตฺติโย จ วิเทหานํ	อภิชาตา สมุทฺทชาติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  พหูนมปีติ  ปฺจโยชนสติกสฺส  นาคภวนสฺส 
+<span class="LineNumber"> 011 </span>อิสฺสรภาวํ  สนฺธาเยวาห ฯ  น  เม  ธีตรมารโหติ  เอวํ  
+<span class="LineNumber"> 012 </span>มหานุภาโวปิ  สมาโน  ปเนโส  อหิชาติกตฺตา  มม  ธีตรํ 
+<span class="LineNumber"> 013 </span>อรโห  น  โหติ ฯ  ขตฺติโย  จ  วิเทหานนฺติ  อิทํ  มาตุปกฺขาตกํ(๓)
+<span class="LineNumber"> 014 </span>ทสฺเสนฺโต  อาห ฯ  สมุทฺทชาติ  โส(๔)  ขตฺติโย  จ  วิเทหราชปุตฺโต
+<span class="LineNumber"> 015 </span>มม  ธีตา  จ  สมุทฺทชา  เต อุโภปิ  อภิชาตา  อฺมฺํ  
+<span class="LineNumber"> 016 </span>สํวาสํ  อรหนฺติ  น  เหสา  มณฺฑูกภกฺขสฺส  สปฺปสฺส 
+<span class="LineNumber"> 017 </span>อนุจฺฉวิกาติ อาห ฯ  
+<span class="LineNumber"> 018 </span>	ตํ  สุตฺวา(๕)  นาคมาณวกา  ตํ  ตตฺเถว  นาสวาเตน
+<span class="LineNumber"> 019 </span>มาเรตุกามา  หุตฺวาปิ  อมฺหากํปิ  ทิวสํ  ววฏฺ€าปนตฺถาย 
+<span class="LineNumber"> 020 </span># ๑. ส. ม. พหุนมฺปิ ฯ  ๒. ม. สนฺธาเยวมาห ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. มาติปกฺขาตเก ฯ  ๔. สี. ยุ. โย ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. อยํ ปาโ€ นตฺถิ ฯ 

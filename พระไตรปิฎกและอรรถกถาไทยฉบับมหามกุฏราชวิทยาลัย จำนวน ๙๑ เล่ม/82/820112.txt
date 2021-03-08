@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าขันธ์,  ชื่อว่าสัญญาขันธ์  ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         สัญญาขันธ์ชื่อว่าขันธ์ด้วย  ชื่อว่าสัญญาขันธ์ด้วย  ขันธ์ที่เหลือ
+<span class="LineNumber"> 003 </span>นอกนั้นชื่อว่าขันธ์  ไม่ชื่อว่าสัญญาขันธ์.
+<span class="LineNumber"> 004 </span>         [๙๖]   ธรรมที่ชื่อว่าวิญญาณ,    ชื่อว่าขันธ์   ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่าขันธ์,   ชื่อว่าสังขารขันธ์   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         สังขารขันธ์ชื่อว่าขันธ์ด้วย   ชื่อว่าสังขารขันธ์ด้วย   ขันธ์ที่เหลือ
+<span class="LineNumber"> 008 </span>นอกนั้นชื่อว่าขันธ์   ไม่ชื่อว่าสังขารขันธ์.
+<span class="LineNumber"> 009 </span>                                  <I>จบ  วิญญาณขันธมูล</I>
+<span class="LineNumber"> 010 </span>                     <I>สุทธขันธมูลจักกวาระ   อนุโลม   จบ</I>

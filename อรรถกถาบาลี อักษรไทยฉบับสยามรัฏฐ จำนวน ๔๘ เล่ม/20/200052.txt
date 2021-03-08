@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 20  หน้า  52
+
+<span class="LineNumber"> 002 </span>			เอกกนิปาตวณฺณนา
+<span class="LineNumber"> 003 </span>			ป€มวคฺควณฺณนา
+<span class="LineNumber"> 004 </span>			โลภสุตฺตวณฺณนา
+<span class="LineNumber"> 005 </span>	อิทานิ  เอกธมฺมํ  ภิกฺขเว  ปชหถาติอาทินา  นเยน  ภควตา
+<span class="LineNumber"> 006 </span>นิกฺขิตฺตสฺส  สุตฺตสฺส  วณฺณนาย  โอกาโส  อนุปฺปตฺโต ฯ  สา
+<span class="LineNumber"> 007 </span>ปเนสา  อตฺถวณฺณนา ยสฺมา  สุตฺตนิกฺเขปํ  วิจาเรตฺวา  วุจฺจมานา 
+<span class="LineNumber"> 008 </span>ปากฏา  โหติ  ตสฺมา สุตฺตนิกฺเขปํ ตาว  วิจาเรสฺสาม ฯ
+<span class="LineNumber"> 009 </span>	จตฺตาโร  หิ  นิกฺเขปา(๑)  อตฺตชฺฌาสโย  ปรชฺฌาสโย ปุจฺฉา-
+<span class="LineNumber"> 010 </span>วสิโก  อฏฺ€ุปฺปตฺติโกติ ฯ  ยถา  หิ  อเนกสตอเนกสหสฺสเภทานิปิ(๒)
+<span class="LineNumber"> 011 </span>สุตฺตนฺตานิ สงฺกิเลสภาคิยาทิปฏฺ€านนเยน  โสฬสวิธตํ  นาติ-
+<span class="LineNumber"> 012 </span>วตฺตนฺติ  เอวํ  อตฺตชฺฌาสยาทิสุตฺตนิกฺเขปวเสน  จตุพฺพิธตํ  
+<span class="LineNumber"> 013 </span>นาติวตฺตนฺตีติ ฯ  ตตฺถ  ยถา  อตฺตชฺฌาสยสฺส อฏฺ€ุปฺปตฺติยา  
+<span class="LineNumber"> 014 </span>จ  ปรชฺฌาสยปุจฺฉาวสิเกหิ  สทฺธึ สํสคฺคเภโท สมฺภวติ 
+<span class="LineNumber"> 015 </span>อตฺตชฺฌาสโย จ  ปรชฺฌาสโย  จ  อตฺตชฺฌาสโย  จ  ปุจฺฉาวสิโก 
+<span class="LineNumber"> 016 </span>จ  อฏฺ€ุปฺปตฺติโก  จ ปรชฺฌาสโย  จ  อฏฺ€ุปฺปตฺติโก  จ 
+<span class="LineNumber"> 017 </span>ปุจฺฉาวสิโก จาติ อชฺฌาสยปุจฺฉานุสนฺธิสมฺภวโต ฯ เอวํ  ยทิ 
+<span class="LineNumber"> 018 </span>หิ(๓)  อตฺถุปฺปตฺติยา  อตฺตชฺฌาสเยนปิ สํสคฺคเภโท สมฺภวติ 
+<span class="LineNumber"> 019 </span>อตฺตชฺฌาสยาทีหิ  ปน  ปุรโต  €ิเตหิ  อฏฺ€ุปฺปตฺติยา  สํสคฺโค  
+<span class="LineNumber"> 020 </span># ๑. ม. สุตฺตนิกฺเขปา ฯ  ๒. ม. อเนกสตอเนกสหสฺสเภทานิปิ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ยทิปิ ฯ

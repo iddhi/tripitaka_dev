@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         [ ๔๐ ]    ธรรมที่ไม่ชื่อว่าสังขาร  ไม่ชื่อวาสังขารขันธ์ ใช่ไหม   ? 
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่าสังขารขันธ์  ไม่ชื่อว่าสังขาร  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ยกเว้นสังขารขันธ์เสียแล้ว    สังขารที่เหลือนอกนั้น    ไม่ชื่อว่า
+<span class="LineNumber"> 005 </span>สังขารขันธ์      เป็นแต่สังขาร      ยกเว้นสังขารและสังขารขันธ์เสียแล้ว
+<span class="LineNumber"> 006 </span>สภาวธรรมที่เหลือนอกนั้น  ไม่ชื่อว่าสังขารและไม่ชื่อว่าสังขารขันธ์.
+<span class="LineNumber"> 007 </span>         [ ๔๑ ]  ธรรมที่ไม่ชื่อว่าวิญญาณ ไม่ชื่อว่าวิญญาณขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ธรรมที่ไม่ชื่อว่าวิญญาณขันธ์  ไม่ชื่อว่าวิญญาณ   ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>                             <I>ปทโสธนวาระ  ปัจจนิก  จบ</I>

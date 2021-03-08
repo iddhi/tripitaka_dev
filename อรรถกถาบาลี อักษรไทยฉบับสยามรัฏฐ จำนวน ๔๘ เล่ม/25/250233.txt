@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  233
+
+<span class="LineNumber"> 002 </span>		ขทิรวนิยเรวตตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	จาเล อุปจาเลติ อายสฺมโต ขทิรวนิยเรวตตฺเถรสฺส
+<span class="LineNumber"> 004 </span>คาถา ฯ กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยํ  กิร  ปทุมุตฺตรสฺส ภควโต กาเล หํสวตีนคเร
+<span class="LineNumber"> 006 </span>ติตฺถนาวิกกุเล นิพฺพตฺติตฺวา มหาคงฺคาย  ปยาคติตฺเถ 
+<span class="LineNumber"> 007 </span>ติตฺถนาวากมฺมํ  กโรนฺโต  เอกทิวสํ  สสาวกสงฺฆํ  ภควนฺตํ 
+<span class="LineNumber"> 008 </span>คงฺคาตีรํ  อุปคตํ  ทิสฺวา  ปสนฺนมานโส  นาวาสงฺฆาฏํ 
+<span class="LineNumber"> 009 </span>โยเชตฺวา  มหนฺเตน  ปูชาสกฺกาเรน  ปรตีรํ  ปาเปตฺวา 
+<span class="LineNumber"> 010 </span>อฺตรํ  ภิกฺขุํ  สตฺถารา  อารฺกานํ (๑) อคฺคฏฺ€าเน €ปิยมานํ 
+<span class="LineNumber"> 011 </span>ทิสฺวา  ตทตฺถํ  ปตฺถนํ  ปฏฺ€เปตฺวา  ภควโต  ภิกฺขุสํฆสฺส  จ
+<span class="LineNumber"> 012 </span>มหาทานํ ปวตฺเตสิ ฯ  
+<span class="LineNumber"> 013 </span>	ภควา  จ  ตสฺส  ปตฺถนาย  อวฺฌภาวํ  พฺยากาสิ ฯ
+<span class="LineNumber"> 014 </span>โส ตโต ปฏฺ€าย ตตฺถ  ตตฺถ  วิวฏฺฏูปนิสฺสยํ  กุสลํ  กตฺวา
+<span class="LineNumber"> 015 </span>เทวมนุสฺเสสุ สํสรนฺโต อิมสฺมึ พุทฺธุปฺปาเท มคธรฏฺเ€
+<span class="LineNumber"> 016 </span>นาลกคาเม  รูปสาริยา  พฺราหฺมณิยา  กุจฺฉิสฺมึ นิพฺพตฺติ ฯ ตํ 
+<span class="LineNumber"> 017 </span>วยปฺปตฺตํ มาตาปิตโร  ฆรพนฺธเนน พนฺธิตุกามา ชาตา ฯ (๒) 
+<span class="LineNumber"> 018 </span>โส สาริปุตฺตตฺเถรสฺส (๓) ปพฺพชิตภาวํ  สุตฺวา  มยฺหํ  เชฏฺ€ภาตา 
+<span class="LineNumber"> 019 </span>อยฺโย  อุปติสฺโส อิมํ วิภวํ ฉฑฺเฑตฺวา ปพฺพชิโต (๔) เตน  วนฺตํ 
+<span class="LineNumber"> 020 </span># ๑. สี. อารฺกานํ ภิกฺขูนํ ฯ  ๒. สี. พนฺธิตุกามา หุตฺวา ตสฺส 
+<span class="LineNumber"> 021 </span># อาโรเจสุํ ฯ ๓. สี. สารีปุตฺตสฺส ฯ ๔. สี. ปพฺพชิ ฯ 

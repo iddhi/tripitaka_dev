@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>๑๔.  ปทุมปุปผสูตร</H1>
+ 
+<span class="LineNumber"> 002 </span>                                    <H1>ว่าด้วยภิกษุขโมยกลิ่นปทุม</H1> 
+
+<span class="LineNumber"> 003 </span>           [๗๙๕]  สมัยหนึ่ง    ภิกษุรูปหนึ่ง    พำนักอยู่ในแนวป่าแห่งหนึ่งใน
+<span class="LineNumber"> 004 </span>แคว้นโกศล    สมัยนั้นแล    ภิกษุนั้นกลับจากบิณฑบาตภายหลังเวลาฉัน  ลงสู่
+<span class="LineNumber"> 005 </span>สระโบกขรณีแล้วสูคดมดอกปทุม.
+<span class="LineNumber"> 006 </span>           [๗๙๖]  ครั้งนั้นแล   เทวดาผู้สิงอยู่ในแนวป่านั้น  มีความเอ็นดู  ใคร่
+<span class="LineNumber"> 007 </span>ประโยชน์แก่ภิกษุนั้น      หวังจะไห้เธอสลด    จึงเข้าไปหาถึงที่อยู่    ครั้นแล้วได้
+<span class="LineNumber"> 008 </span>กล่าวกะเธอด้วยคาถาว่า
+<span class="LineNumber"> 009 </span>                             <B>ท่านสูดดมดอกไม้ที่เกิดในน้ำซึ่ง 
+<span class="LineNumber"> 010 </span>                   ใคร ๆ ไม่ได้ให้แล้ว    นี้เป็นองค์อันหนึ่ง 
+<span class="LineNumber"> 011 </span>                   แห่งความเป็นขโมย  ท่านผู้นิรทุกข์  ท่าน 
+<span class="LineNumber"> 012 </span>                   เป็นผู้ขโมยกลิ่น.</B>
+<span class="LineNumber"> 013 </span>           [๗๙๗]  ภิกษุกล่าวว่า
+<span class="LineNumber"> 014 </span>                             <B>เราไม่ได้นำไป   เราไม่ได้หัก   เรา
+<span class="LineNumber"> 015 </span>                   ดมดอกไม้ที่เกิดในน้ำห่าง ๆ   เมื่อเป็น
+<span class="LineNumber"> 016 </span>                   เช่นนี้  ท่านจะเรียกว่าเป็นผู้ขโมยกลิ่นด้วย
+<span class="LineNumber"> 017 </span>                   เหตุดังรือ  ส่วนบุคคลที่ขุดเง่าบัว  หักดอก
+<span class="LineNumber"> 018 </span>                   บัวบุณฑริก เป็นผู้มีการงานอันเกลื่อนกล่น
+<span class="LineNumber"> 019 </span>                   อย่างนี้    ไฉนท่านจึงไม่เรียกเขาว่าเป็น          
+<span class="LineNumber"> 020 </span>                   ขโมย.</B>
+<span class="LineNumber"> 021 </span>           [๗๙๘]   เทวดากล่าวว่า
+<span class="LineNumber"> 022 </span>                             <B>บุรุษผู้มีบาปหนา      แปดเปื้อนด้วย
+<span class="LineNumber"> 023 </span>                   ราคาทิกิเลสเกินเหตุ    เราไม่พูดถึงคนนั้น</B> 

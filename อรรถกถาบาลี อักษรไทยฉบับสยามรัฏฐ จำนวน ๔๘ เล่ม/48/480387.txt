@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 387
+
+<span class="LineNumber"> 002 </span>			สฺาเวทยิตกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  สฺาเวทยิตกถา  นาม  โหติ  ตตฺถ  สฺา-
+<span class="LineNumber"> 004 </span>เวทยิตนิโรธสมาปตฺติ  นาม  น  โกจิ  ธมฺโม  จตุนฺนํ  ปน
+<span class="LineNumber"> 005 </span>ขนฺธานํ  นิโรโธ ฯ  อิติ  สา  เนว  โลกิยา  น  โลกุตฺตรา ฯ  ยสฺมา
+<span class="LineNumber"> 006 </span>ปน โลกิยา น โหติ ตสฺมา โลกุตฺตราติ  เยสํ  ลทฺธิ  เสยฺยถาปิ 
+<span class="LineNumber"> 007 </span>เหตุวาทานํเยว  เต  สนฺธาย  ปุจฺฉา  สกวาทิสฺส ปฏิฺา
+<span class="LineNumber"> 008 </span>อิตรสฺส ฯ เสสํ ปุริมสทิสเมวาติ ฯ (๑) 
+<span class="LineNumber"> 009 </span>		สฺาเวทยิตกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 010 </span>		ทุติยสฺาเวทยิตกถาวณฺณนา 
+<span class="LineNumber"> 011 </span>	อิทานิ  ยสฺมา  สา  โลกุตฺตรา  น  โหติ  ตสฺมา  โลกิยาติ 
+<span class="LineNumber"> 012 </span>เยสํ  ลทฺธิ  เสยฺยถาปิ  เหตุวาทานํ  เต  สนฺธาย  ปุจฺฉา
+<span class="LineNumber"> 013 </span>สกวาทิสฺส ปฏิฺา อิตรสฺส ฯ เสสํ ปุริมสทิสเมวาติ ฯ 
+<span class="LineNumber"> 014 </span>		ทุติยสฺาเวทยิตกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 015 </span># ๑. ม. ปุริมกถาสทิสเมวาติ ฯ

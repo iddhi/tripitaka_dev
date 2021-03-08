@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>พาลวรรคที่   ๓</H2>
+
+<span class="LineNumber"> 002 </span>                           <H1>สูตรที่ ๑</H1>
+
+<span class="LineNumber"> 003 </span>                <H1>ว่าด้วยคนพาล  ๒ จำพวก</H1>
+
+<span class="LineNumber"> 004 </span>         [๒๗๖] ๒๑.  ดูก่อนภิกษุทั้งหลาย คนพาล ๒ จำพวก  ๒จำพวก
+<span class="LineNumber"> 005 </span>เป็นไฉน    คือ   คนที่ไม้เห็นโทษโดยความเป็นโทษ  ๑   คนที่ไม่รับรอง
+<span class="LineNumber"> 006 </span>ตามธรรม     เมื่อผู้อื่นแสดงโทษ ๑    ดูก่อนภิกษุทั้งหลาย    คนพาล ๒
+<span class="LineNumber"> 007 </span>จำพวกนี้แล   ดูก่อนภิกษุทั้งหลาย    บัณฑิต  ๒  จำพวก   ๒  จำพวกเป็น
+<span class="LineNumber"> 008 </span>ไฉน    คือ    คนที่เห็นโทษโดยความเป็นโทษ  ๑  คนที่รับรองตามธรรม
+<span class="LineNumber"> 009 </span>เมื่อผู้อื่นแสดงโทษ  ๑   ดูก่อนภิกษุทั้งหลาย  บัณฑิต ๒ จำพวกนี้แล.
+<span class="LineNumber"> 010 </span>                                              จบสูตรที่  ๑
+
+<span class="LineNumber"> 011 </span>                      <H2>พาลวรรคที่  ๓</H2>
+
+<span class="LineNumber"> 012 </span>                      <H1>อรรถกถาสูตรที่  ๑</H1>
+
+<span class="LineNumber"> 013 </span>         <B>พาลวรรคที่  ๓  สูตรที่  ๑</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 014 </span>         บทว่า  <B>อจฺจยํ  อจฺจยโต   น  ปสฺสติ</B>  ความว่า  ทำผิดแล้ว  ไม่เห็น
+<span class="LineNumber"> 015 </span>ความผิดของตนว่า    เราทำผิด   ได้แก่    ไม่กล่าวว่า   ข้าพเจ้าทำผิดแล้ว
+<span class="LineNumber"> 016 </span>นำทัณฑกรรมมาขอขมาโทษ.    บทว่า   <B>อจฺจยํ    เทเสนฺตสฺส</B>   ความว่า
+<span class="LineNumber"> 017 </span>เมื่อเขากล่าวอย่างนี้แล้วนำทัณฑกรรมมาขอขมาโทษ.   บทว่า   <B>ยถาธมฺมํ
+<span class="LineNumber"> 018 </span>น  ปฏิคฺคณฺหาติ</B>   ความว่า  เมื่อเขากล่าวว่า    ข้าพเจ้าจักไม่กระทำอย่างนี้

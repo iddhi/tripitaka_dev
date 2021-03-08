@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๗.  สัปปัจจยทุกะ</H1>
+<span class="LineNumber"> 002 </span>                                         <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                          <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 004 </span>                                        <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๖๖] ๑.  <B>สัปปัจจยธรรม    อาศัยสัปปัจจยธรรม    เกิดขึ้น 
+<span class="LineNumber"> 006 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูป   อาศัยขันธ์  ๑  ที่เป็นสัปปัจจย-
+<span class="LineNumber"> 008 </span>ธรรม  ฯลฯ   ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 009 </span>           ในปฏิสนธิขณะ ฯลฯ  หทยวัตถุ  อาศัยขันธ์ทั้งหลาย,   ขันธ์ทั้งหลาย
+<span class="LineNumber"> 010 </span>อาศัยหทยวัตถุ ฯลฯ   มหาภูตรูป ๑ ฯลฯ   จิตตสมุฏฐานรูป   กฏัตตารูปที่เป็น
+<span class="LineNumber"> 011 </span>อุปาทารูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 012 </span>                       <H1>๒.  อารัมมณปัจจัย   ฯลฯ    ๒๓.  อวิคตปัจจัย</H1> 
+<span class="LineNumber"> 013 </span>           [๑๖๗] ๑.  <B>สัปปัจจยธรรม    อาศัยสัปปัจจยธรรม    เกิดขึ้น
+<span class="LineNumber"> 014 </span>เพราะอารัมมณปัจจัย   ฯลฯ</B>
+<span class="LineNumber"> 015 </span>           <B>ฯลฯ    เพราะอวิคตปัจจัย</B>

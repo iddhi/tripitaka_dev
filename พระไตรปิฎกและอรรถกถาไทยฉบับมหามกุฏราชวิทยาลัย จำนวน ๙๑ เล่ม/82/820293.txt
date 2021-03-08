@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>ปัจจุปปันนาตีตวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 003 </span><H2>รูปขันธมูละ   เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         บุคคลใดไม่ใช่กำลังรู้แจ้งรูปขันธ์,      บุคคลนั้นก็ไม่ใช่เคยรู้แจ้ง
+<span class="LineNumber"> 005 </span>เวทนาขันธ์  ใช่ไหม  ?                                                 
+<span class="LineNumber"> 006 </span>         พระอรหันต์ไม่ใช่กำลังรู้แจ้งรูปขันธ์    แต่เคยรู้แจ้งเวทนาขันธ์,
+<span class="LineNumber"> 007 </span>เว้นบุคคลผู้ถึงพร้อมด้วยอรหัตมรรคก็ดี   พระอรหันต์ก็ดี  บุคคลที่เหลือ
+<span class="LineNumber"> 008 </span>ไม่ใช่กำลังรู้แจ้งรูปขันธ์   และไม่ใช่เคยรู้แจ้งเวทนาขันธ์.  
+<span class="LineNumber"> 009 </span>         ก็หรือว่า       บุคคลใดไม่ใช่เคยรู้แจ้งเวทนาขันธ์,       บุคคลนั้น
+<span class="LineNumber"> 010 </span>ไม่ใช่กำลังรู้แจ้งรูปขันธ์   ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         บุคคลผู้ถึงพร้อมด้วยอรหัตมรรค      ไม่ใช่เคยรู้แจ้งเวทนาขันธ์
+<span class="LineNumber"> 012 </span>แต่กำลังรู้แจ้งรูปขันธ์,   เว้นบุคคลผู้ถึงพร้อมด้วยอรหัตมรรคก็ดี   พระ-
+<span class="LineNumber"> 013 </span>อรหันต์ก็ดี   บุคคลที่เหลือ   ไม่ใช่เคยรู้แจ้งเวทนาขันธ์  และไม่ใช่กำลัง
+<span class="LineNumber"> 014 </span>รู้แจ้งรูปขันธ์.
+<span class="LineNumber"> 015 </span>                            <I>จบ  รูปขันธมูละ   เวทนาขันธมูลี</I>
+<span class="LineNumber"> 016 </span>                                        <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 017 </span>                        <I>ปัจจุปปันนาตีตวาระ   ปัจจนิก  จบ</I>

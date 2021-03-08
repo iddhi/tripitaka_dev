@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>นุสัย   และภวราคานุสัย   จากที่นั้น  ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         ใช่. 
+<span class="LineNumber"> 003 </span>     <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสย - 
+<span class="LineNumber"> 004 </span>            วิจิกิจฉานุสย - ภวราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 005 </span>        <I>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสย -
+<span class="LineNumber"> 006 </span>                    วิจิกิจฉานุสย - ภวราคานุสยมูล  จบ</I>
+<span class="LineNumber"> 007 </span>                                   <I>ฉักกมูลกะ  จบ</I>
+<span class="LineNumber"> 008 </span>                  <I>อุปปัตติฏฐานโอกาสวาระ  ปัจจนิก  จบ</I>

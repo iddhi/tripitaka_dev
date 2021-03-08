@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑  ที่ไม่ใช่ทัสสเนน-
+<span class="LineNumber"> 002 </span>ปหาตัพพธรรม ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 003 </span>         ในปฏิสนธิขณะ ฯลฯ  หทยวัตถุ   อาศัยขันธ์ทั้งหลาย,   ขันธ์ทั้งหลาย
+<span class="LineNumber"> 004 </span>อาศัยหทยวัตถุ.
+<span class="LineNumber"> 005 </span>         ฯลฯ  มหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 006 </span>                     ๕.  <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม    อาศัย
+<span class="LineNumber"> 007 </span>ทัสสเนนปหาตัพพธรรม   และธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>         คือ  จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 010 </span>ธรรม  และมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 011 </span>                                                  ฯลฯ
+
+<span class="LineNumber"> 012 </span>                               <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>         [๕๖๓]  ในเหตุปัจจัย มี ๕ วาระ  ในอารัมมณปัจจัย มี ๒ วาระ ใน
+<span class="LineNumber"> 014 </span>อธิปติปัจจัย มี ๕ วาระ   ในอนันตรปัจจัย มี ๒ วาระ  ในสมนันตรปัจจัย  มี
+<span class="LineNumber"> 015 </span>๒ วาระ  ในสหชาตปัจจัย  มี ๕ วาระ  ในอัญญมัญญปัจจัย  มี ๒ วาระ  ใน
+<span class="LineNumber"> 016 </span>นิสสยปัจจัย มี ๕ วาระ    ในอุปนิสสยปัจจัย มี ๒ วาระ   ในปุเรชาตปัจจัย มี
+<span class="LineNumber"> 017 </span>๒ วาระ    ในอาเสวนปัจจัย มี ๒ วาระ    ในกัมมปัจจัย มี ๕ วาระ   ในวิปาก-
+<span class="LineNumber"> 018 </span>ปัจจัย มี ๑ วาระ  ในอาหารปัจจัย มี ๕ วาระ ฯลฯ ในอวิคตปัจจัย มี ๕ วาระ.

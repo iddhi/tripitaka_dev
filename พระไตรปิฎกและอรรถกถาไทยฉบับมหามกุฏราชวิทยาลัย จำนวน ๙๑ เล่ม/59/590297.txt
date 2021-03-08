@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>๙.  กปิชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                     <H1>ว่าด้วยคุณธรรมของผู้บริหารคณะ</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๐๒๘]   ผู้จองเวรอยู่   ณ  ที่ใด  บัณฑิตไม่ควรอยู่
+<span class="LineNumber"> 004 </span>           ณ  ที่นั้น   ในที่มีคนจองเวร    อยู่คืนเดียวหรือ
+<span class="LineNumber"> 005 </span>           ๒  คืน   ก็เป็นทุกข์.  
+<span class="LineNumber"> 006 </span>         [๑๐๒๙]   คนที่เป็นหัวหน้าใจเบา    เมื่อคนใจเบา
+<span class="LineNumber"> 007 </span>           คล้อยตามจะทำหน้าที่จองเวร    เพราะเหตุแห่ง
+<span class="LineNumber"> 008 </span>           กระบี่ตัวเดียว   เขาได้ทำความย่อยยับให้กระบี่
+<span class="LineNumber"> 009 </span>           ทั้งฝูง. 
+<span class="LineNumber"> 010 </span>         [๑๐๓๐]   ก็คนพาลแต่สำคัญตนว่าเป็นบัณฑิตบริ-
+<span class="LineNumber"> 011 </span>           หารหมู่คณะลุอำนาจความคิดของตน   คงนอน
+<span class="LineNumber"> 012 </span>           ตายเหมือนกระบี่ตัวนี้ฉะนั้น. 
+<span class="LineNumber"> 013 </span>         [๑๐๓๑]   คนโง่แต่มีกำลังบริหารหมู่คณะก็ไม่ดี ไม่
+<span class="LineNumber"> 014 </span>           เป็นประโยชน์แก่เหล่าญาติเหมือนนกต่อ   ไม่
+<span class="LineNumber"> 015 </span>           เป็นประโยชน์แก่นกทั้งหลายฉะนั้น.</B>

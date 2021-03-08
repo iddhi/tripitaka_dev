@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>๑.  ผู้หนึ่ง  มีความสำคัญในรูปภายใน  เห็น
+<span class="LineNumber"> 002 </span>            รูปภายนอกเล็กน้อย            มีวรรณะดีและทราม
+<span class="LineNumber"> 003 </span>            ครอบงำรูปเหล่านั้นแล้ว      มีความสำคัญอย่างนี้ว่า
+<span class="LineNumber"> 004 </span>            เรารู้   เราเห็น,   นี้   เป็น  อภิภายตนะที่  ๑.   
+<span class="LineNumber"> 005 </span>                   ๒.  ผู้หนึ่ง  มีความสำคัญในรูปภายใน   เห็น
+<span class="LineNumber"> 006 </span>            รูปภายนอกไม่มีประมาณ       มีวรรณะดีและทราม
+<span class="LineNumber"> 007 </span>            ครอบงำรูปเหล่านั้นแล้ว      มีความสำคัญอย่างนี้ว่า
+<span class="LineNumber"> 008 </span>            เรารู้  เราเห็น,  นี้  เป็น  อภิภายตนะที่  ๒.
+<span class="LineNumber"> 009 </span>                   ๓.  ผู้หนึ่ง มีความสำคัญในอรูปภายใน  เห็น
+<span class="LineNumber"> 010 </span>            รูปภายนอกเล็กน้อย   มีวรรณะดีและทราม  ครอบงำ
+<span class="LineNumber"> 011 </span>            รูปเหล่านั้นแล้ว  มีความสำคัญอย่างนี้ว่า    เรารู้  เรา
+<span class="LineNumber"> 012 </span>            เห็น,  นี้ เป็น อภิภายตนะที่  ๓.
+<span class="LineNumber"> 013 </span>                   ๔. ผู้หนึ่ง  มีความสำคัญในอรูปภายใน  เห็น
+<span class="LineNumber"> 014 </span>            รูปภายนอกไม่มีประมาณ        มีวรรณะดีและทราม
+<span class="LineNumber"> 015 </span>            ครอบงำรูปเหล่านั้นแล้ว      มีความสำคัญอย่างนี้ว่า
+<span class="LineNumber"> 016 </span>            เรารู้   เราเห็น,   นี้   เป็น   อภิภายตนะที่  ๔.</B>

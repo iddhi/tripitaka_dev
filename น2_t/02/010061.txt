@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                <B>ปวารณา  ๓  หน  ตามลำดับพรรษา</B>  
+<span class="LineNumber"> 002 </span>	๓  รูปว่า  "อหํ  อาวุโส อายสฺมนฺเต  ปวาเรมิ  ฯ เป ฯ  วทนฺตุ
+<span class="LineNumber"> 003 </span>มํ  อายสฺมนฺตา  อนุกมฺปั  อุปาทาย,  ปสฺสนฺโต  ปฏิกฺกริสฺสามิ.  ทุติยมฺปิ
+<span class="LineNumber"> 004 </span>อาวุโส  ฯ เป ฯ  ตติยมฺปิ  อาวุโส  ฯ เป ฯ  ปฏิกฺกริสฺสามิ"  นี้สำหรับ
+<span class="LineNumber"> 005 </span>รูปแก่    ส่วนรูปอ่อนพึงว่า  "ภนฺเต"  แทน  "อาวุโส."
+<span class="LineNumber"> 006 </span>	๔  รูปว่า  "อหํ  อาวุโส  อายสฺมนฺโต  ปวาเรมิ  ฯ เป ฯ  วทนฺตุ
+<span class="LineNumber"> 007 </span>มํ  อายสฺมนฺโต  อนุกมฺปํ อุปาทาย,  ปสฺสนฺโต  ปฏิกฺกริสฺสามิ.  ทุติยมฺปิ
+<span class="LineNumber"> 008 </span>อาวุโส  ฯ เป ฯ  ตติยมฺปํ  อาวุโส  ฯ เป ฯ  ปฏิกฺกริสฺสามิ."
+<span class="LineNumber"> 009 </span><B>ถ้ามีภิกษุ  ๒  รูป  ไม่ต้องตั้งญัตติ  ปวารณาทีเดียว  ว่าดังนี้</B>
+<span class="LineNumber"> 010 </span>	"อหํ  อาวุโส  อายสฺมนฺตํ   ปวาเรมิ  ฯ เป ฯ  วทตุ  มํ  อายสฺมา
+<span class="LineNumber"> 011 </span>อนุกมฺปํ  อุปาทาย,  ปสฺสนฺโต  ปฏิกฺกริสฺสามิ."
+<span class="LineNumber"> 012 </span>                             <B>บุคคลปวารณา</B>
+<span class="LineNumber"> 013 </span>               <B>ถ้าอยู่รูปเดียวให้อธิษฐานว่าดังนี้</B>
+<span class="LineNumber"> 014 </span>	"อชฺช  เม  ปวารณา."
+<span class="LineNumber"> 015 </span>	แปล :  "ปวารณาของเราวันนี้."
+

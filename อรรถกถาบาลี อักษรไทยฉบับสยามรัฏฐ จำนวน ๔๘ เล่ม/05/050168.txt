@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๕  หน้า  ๑๖๙
+		
+<span class="LineNumber"> 002 </span>		นอตฺตปฺตฺติวณฺณนา  
+<span class="LineNumber"> 003 </span>	เอวํ  เย  อตฺตานํ  ปฺเปนฺติ ฯ  เต  ทสฺเสตฺวา  อิทานิ  
+<span class="LineNumber"> 004 </span>เย  น  ปฺเปนฺติ ฯ  เต  ทสฺเสตุํ  กิตฺตาวตา  จ  อานนฺทาติ-
+<span class="LineNumber"> 005 </span>อาทิมาห ฯ  เก  ปน  น  ปฺเปนฺติ ฯ  สพฺเพ  ตาว  อริยปุคฺคลา 
+<span class="LineNumber"> 006 </span>น  ปฺเปนฺติ ฯ  เย  จ  พหุสฺสุตา  ติปิฏกธรา  ทฺวิปิฏกธรา  
+<span class="LineNumber"> 007 </span>เอกปิฏกธรา ฯ  อนฺตมโส  เอกนิกายํปิ  สาธุกํ  วินิจฺฉินิตฺวา  
+<span class="LineNumber"> 008 </span>อุคฺคหิตธมฺมกถิโกปิ  อารทฺธวิปสฺสโกปิ  ปุคฺคโล ฯ  เต  น  ปฺ-
+<span class="LineNumber"> 009 </span>เปนฺติเยว  (๑) ฯเอเตสํ  หิ  ปฏิภาคกสิเณ  ปฏิภาคกสิณมิจฺเจว 
+<span class="LineNumber"> 010 </span>สฺา  (๒)  โหติ ฯ  อรูปกฺขนฺเธสุ  จ  อรูปกฺขนฺธา  อิจฺเจว ฯ
+
+<span class="LineNumber"> 011 </span>		อตฺตสมนุปสฺสนาวณฺณนา  
+<span class="LineNumber"> 012 </span>	เอวํ  เย  น  ปฺเปนฺติ ฯ  เต  ทสฺเสตฺวา  อิทานิ  เย 
+<span class="LineNumber"> 013 </span>เตปฺเปนฺติ ฯ  เต  ยสฺมา  ทิฏฺ€ิวเสน  สมนุปสฺสิตฺวา 
+<span class="LineNumber"> 014 </span>ปฺเปนฺติ ฯ  สา  ปเนสา  (๓)  สมนุปสฺสนา  วีสติวตฺถุกาย  สกฺกาย-
+<span class="LineNumber"> 015 </span>ทิฏฺ€ิยา  อปฺปหีนตฺตา  โหติ ฯ  ตสฺมา  ตํ  วีสติวตฺถุกํ  สกฺกายทิฏฺ€ึ  
+<span class="LineNumber"> 016 </span>ทสฺเสตุํปุน  กิตฺตาวตา  จ  อานนฺทาติ  อาทิมาห ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  เวทนํ  วา  หีติ  อิมินา  เวทนากฺขนฺธวตฺถุกา 
+<span class="LineNumber"> 018 </span>สกฺกายทิฏฺ€ิ  กถิตา  (๔) ฯ  อปฺปฏิสํเวทโน  เม  อตฺตาติ  อิมินา  
+<span class="LineNumber"> 019 </span>#  ๑.  ยุ.  ปฺาเปติเยว ฯ  ๒.  ม.  าณํ ฯ  ๓.  ม.  สา  จ  เนสํ ฯ  ยุ.  สา  หิ  จ  เนสํ ฯ
+<span class="LineNumber"> 020 </span>๔.  ยุ.  วุตฺตา ฯ

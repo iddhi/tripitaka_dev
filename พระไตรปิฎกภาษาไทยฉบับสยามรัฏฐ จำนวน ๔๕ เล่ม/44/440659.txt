@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>		 อาศัยปริยาปันนเหตุธรรม ฯลฯ
+<span class="LineNumber"> 002 </span>		 อาศัยอปริยาปันนเหตุธรรม ฯลฯ
+<span class="LineNumber"> 003 </span>		 อาศัยนิยยานิกเหตุธรรม ฯลฯ
+<span class="LineNumber"> 004 </span>		อาศัยอนิยยานิกเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 005 </span>		อาศัยนิยตเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 006 </span>		อาศัยอนิยตเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 007 </span>		อาศัยสอุตตรเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 008 </span>		อาศัยอนุตตรเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 009 </span>		อาศัยสรณเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 010 </span>	อรณเหตุธรรม  อาศัยอรณเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.
+<span class="LineNumber"> 011 </span>	อรณนเหตุธรรม  อาศัยอรณนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.
+<span class="LineNumber"> 012 </span>			พึงให้พิสดารทุกวาร.
+<span class="LineNumber"> 013 </span>			ปิฏฐิทุกเหตุทุกะ  จบ.  
+<span class="LineNumber"> 014 </span>			อนุโลมทุกทุกปัฏฐาน  จบ.
+<span class="LineNumber"> 015 </span>			อนุโลมปัฏฐาน  จบ.
+<span class="LineNumber"> 016 </span>			___________________

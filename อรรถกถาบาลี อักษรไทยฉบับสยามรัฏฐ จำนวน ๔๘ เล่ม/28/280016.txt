@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  16
+
+<span class="LineNumber"> 002 </span>จ  โหติ ฯ  ปริโภเคน  ชีรณภาโว  เอโก ฯ  ชิณฺณสฺส  หิ  ตุนฺนํ  
+<span class="LineNumber"> 003 </span>วา  อคฺคฬทานํ  วา  กาตพฺพํ  โหติ ฯ  ปุน  ปริเยสนาย  
+<span class="LineNumber"> 004 </span>ทุรภิสมฺภวภาโว  เอโก  ตาปสปพฺพชฺชาย  อสารุปฺปภาโว  
+<span class="LineNumber"> 005 </span>เอโก  ปจฺจตฺถิกานํ  สาธารณภาโว  เอโก ฯ  ยถา  หิ  นํ  
+<span class="LineNumber"> 006 </span>ปจฺจตฺถิกา  น  คณฺหนฺติ  เอวํ  โคเปตพฺโพ  โหติ ฯ  ปริภุฺชนฺตสฺส
+<span class="LineNumber"> 007 </span>วิภูสนฏฺ€านภาโว  เอโก  คเหตฺวา  วิจรนฺตสฺส  ขนฺธภารมหิจฺฉภาโว
+<span class="LineNumber"> 008 </span>เอโกติ ฯ  
+<span class="LineNumber"> 009 </span>	วากจีรํ  นิวาเสสินฺติ  ตทา  อหํ  สารีปุตฺต  อิเม  นว 
+<span class="LineNumber"> 010 </span>โทเส  ทิสฺวา  สาฏกํ  ปหาย วากจีรํ  นิวาเสสึ  มุฺชติณํ 
+<span class="LineNumber"> 011 </span>หีรหีรํ  กตฺวา  คนฺเถตฺวา  กตํ  วากจีรํ  นิวาสนปารุปนตฺถาย 
+<span class="LineNumber"> 012 </span>อาทิยินฺติ  อตฺโถ ฯ  
+<span class="LineNumber"> 013 </span>	ทฺวาทสคุณมูปาคตนฺติ  ทฺวาทสหิ  อานิสํเสหิ  สมนฺนาคตํ ฯ 
+<span class="LineNumber"> 014 </span>วากจีรสฺมึ  หิ  ทฺวาทส  อานิสํสา  อปฺปคฺฆํ  สุนฺทรํ  กปฺปิยนฺติ
+<span class="LineNumber"> 015 </span>อยํ  ตาว  เอโก  อานิสํโส  สหตฺถา  กาตุํ  สกฺกาติ  อยํ 
+<span class="LineNumber"> 016 </span>ทุติโย  ปริโภเคน  สณิกํ  กิลิสฺสติ  โธวิยมาเนปิ(๑)  ปปฺโจ 
+<span class="LineNumber"> 017 </span>นตฺถีติ  อยํ  ตติโย  ปริโภเคน  ชิณฺเณปิ(๒)  สิพฺพิตพฺพาภาโว  
+<span class="LineNumber"> 018 </span>จตุตฺโถ  ปุน  ปริเยสนฺตสฺส  สุเขน  กรณภาโว  ปฺจโม
+<span class="LineNumber"> 019 </span>ตาปสปพฺพชฺชาย  สารุปฺปภาโว  ฉฏฺโ€  ปจฺจตฺถิกานํ  
+<span class="LineNumber"> 020 </span>นิรุปโภคภาโว  สตฺตโม  ปริภุฺชนฺตสฺส  วิภูสนฏฺ€านาภาโว  
+<span class="LineNumber"> 021 </span># ๑. ม. โธวิยมาเนปิ ฯ  ๒. ม. ชิณฺเณปิ ฯ 

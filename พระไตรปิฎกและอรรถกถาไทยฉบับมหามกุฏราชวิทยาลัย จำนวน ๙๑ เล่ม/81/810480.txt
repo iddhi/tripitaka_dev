@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                             <H1>ปัคคหกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๔๖]   <B>สกวาที</B>  บุคคลอื่นประคองจิตของบุคคลอื่นได้ หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. บุคคลอื่นประคองได้ว่า   จิตของบุคคลอื่นอย่ากำหนัด
+<span class="LineNumber"> 005 </span>อย่าประทุษร้าย อย่าหลง อย่าเศร้าหมอง  ดังนี้หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>         [๑๖๔๗]  ส. บุคคลอื่นประคองจิตของบุคคลอื่นได้ หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ส. บุคคลอื่นยังกุศลมูลคืออโลภะให้เกิด     ยังกุศลมูลคือ
+<span class="LineNumber"> 010 </span>อโทสะให้เกิด   ยังกุศลมูลคืออโมหะให้เกิด   ยังศรัทธาให้เกิด   ยังวิริยะให้
+<span class="LineNumber"> 011 </span>เกิด   ยังสติให้เกิด  ยังสมาธิให้เกิด  ยังปัญญาให้เกิด   แก่บุคคลอื่นได้ หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 013 </span>         [๑๖๔๘]  ส. บุคคลอื่นประคองจิตของบุคคลอื่นได้ หรือ ?
+<span class="LineNumber"> 014 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                       ส. บุคคลอื่นประคองไว้ได้ว่า     ผัสสะที่เกิดขึ้นแล้วแก่
+<span class="LineNumber"> 016 </span>บุคคลอื่น อย่าดับไปเลย ดังนี้หรือ ?
+<span class="LineNumber"> 017 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 018 </span>                       ส. บุคคลอื่นประคองไว้ได้ว่า  เวทนาที่เกิดขึ้นแล้ว   ฯลฯ
+<span class="LineNumber"> 019 </span>ปัญญาที่เกิดขึ้นแล้ว  แก่บุคคลอื่น อย่าดับไปเลย  ดังนี้หรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 021 </span>         [๑๖๔๙]  ส. บุคคลอื่นประคองจิตของบุคคลอื่นได้ หรือ ?
+<span class="LineNumber"> 022 </span>                       ป.  ถูกแล้ว.

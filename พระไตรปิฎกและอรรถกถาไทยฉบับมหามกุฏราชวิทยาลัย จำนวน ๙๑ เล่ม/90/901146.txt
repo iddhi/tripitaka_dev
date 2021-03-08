@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>				    <H1>มัชฌิมบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>				      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๙๘]  ๑.  มัชฌิมธรรมที่เป็นกุศล   เป็นปัจจัยแก่มัชฌิมธรรม 
+<span class="LineNumber"> 005 </span>ที่เป็นกุศล    ด้วยอำนาจของเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                      ๔.  มัชฌิมธรรมที่เป็นอัพยากตะ   เป็นปัจจัยแก่มัชฌิม-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                             <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 009 </span>		[๙๙]  ๑.  มัชฌิมธรรมที่เป็นกุศล   เป็นปัจจัยแก่มัชฌิมธรรม 
+<span class="LineNumber"> 010 </span>ที่เป็นกุศล  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 011 </span>                      ๒.  มัชฌิมธรรมที่เป็นกุศล  เป็นปัจจัยแก่มัชฌิมธรรม
+<span class="LineNumber"> 012 </span>ที่เป็นอัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 013 </span>                      ๓.  มัชฌิมธรรมที่เป็นอัพยากตะ   เป็นปัจจัยแก่มัชฌิม-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 015 </span>                      ๔.  มัชฌิมธรรมที่เป็นอัพยากตะ   เป็นปัจจัยแก่มัชฌิม-
+<span class="LineNumber"> 016 </span>ธรรมที่เป็นกุศล   ด้วยอำนาจของอารัมมณปัจจัย

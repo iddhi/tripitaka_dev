@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         ในอุปปาทขณะแห่งวิตกและวิจาร   จิตตสังขารไม่ใช่กำลังดับแก่
+<span class="LineNumber"> 002 </span>บุคคลเหล่านั้น      แต่วจีสังขารเกิดแก่บุคคลเหล่านั้น,     เว้นวิตก
+<span class="LineNumber"> 003 </span>และวิจารเสียแล้ว   ในอุปปาทขณะแห่งจิตก็ดี   บุคคลที่กำลังเข้านิโรธ- 
+<span class="LineNumber"> 004 </span>สมาบัติอยู่ก็ดี    บุคคลที่เกิดอยู่ในอสัญญสัตตภูมิก็ดี    จิตตสังขารไม่ใช่
+<span class="LineNumber"> 005 </span>กำลังดับ   และวจีสังขารก็ไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 006 </span>                        <I>จบ  วจีสังขารมูละ  จิตตสังขารมูลี</I>
+<span class="LineNumber"> 007 </span>                                    <I>วจีสังขารมูล   จบ</I>
+<span class="LineNumber"> 008 </span>                                     <I>ปุคคลวาระ   จบ</I>
+
+<span class="LineNumber"> 009 </span>                                        <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 010 </span>                                       <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 011 </span><H2>กายสังขารมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 012 </span>         [๑๑๘๖]   กายสังขารไม่ใช่กำลังเกิดในภูมิใด,   ฯ  ล ฯ
+<span class="LineNumber"> 013 </span>                                   <I>กายสังขารมูล  จบ</I>
+<span class="LineNumber"> 014 </span>                                    <I>โอกาสวาระ  จบ</I>

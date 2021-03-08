@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>ปุเรชาตปัจจัย มี ๑ วาระ  ในอาเสวนปัจจัย  มี ๑ วาระ  ในกัมมปัจจัย   มี ๒๑ 
+<span class="LineNumber"> 002 </span>วาระ  ในวิปากปัจจัย  มี  ๒๑ วาระ  ในอาหารปัจจัย  มี ๒๑ วาระ ในอินทริย-
+<span class="LineNumber"> 003 </span>ปัจจัย  มี  ๒๑ วาระ ในฌานปัจจัย  มี ๒๑ วาระ ในมัคคปัจจัย  มี ๒๑ วาระ
+<span class="LineNumber"> 004 </span>ในสัมปยุตตปัจจัย มี ๑ วาระ  ในวิปปยุตตปัจจัย  มี ๒๑  วาระ   ในอัตถิปัจจัย 
+<span class="LineNumber"> 005 </span>มี ๒๑ วาระ  ในนัตถิปัจจัย มี ๑ วาระ  ในวิคตปัจจัย มี ๑ วาระ   ในอวิคต-
+<span class="LineNumber"> 006 </span>ปัจจัย   มี ๒๑ วาระ
+<span class="LineNumber"> 007 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 008 </span>                                          <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 009 </span>                                              <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 010 </span>                                           <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           [๒๑๙๑] ๑.  <B>อนิทัสสนสัปปฏิธรรม     อาศัยอนิทัสสน-
+<span class="LineNumber"> 012 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  มหาภูตรูป ๒ อาศัยมหาภูตรูป ๑ ที่เป็นอนิทัสสนสัปปฏิฆธรรม,
+<span class="LineNumber"> 014 </span>มหาภูตรูป    อาศัยมหาภูตรูป ๒.
+<span class="LineNumber"> 015 </span>           จิตตสมุฏฐานรูป กฏัตตารูปที่เป็นอุปาทารูป ที่เป็นอนิทัสสนสัปปฏิฆ- 
+<span class="LineNumber"> 016 </span>ธรรม  อาศัยมหาภูตรูปทั้งหลายที่เป็นอนิทัสสนสัปปฏิฆธรรม.
+<span class="LineNumber"> 017 </span>           จักขายตนะ  ฯลฯ  รสายตนะ  อาศัยโผฏฐัพพายตนะ
+<span class="LineNumber"> 018 </span>           พาหิรรูป... อาหารสมุฏฐานรูป...อุตุสมุฏฐานรูป ฯลฯ.

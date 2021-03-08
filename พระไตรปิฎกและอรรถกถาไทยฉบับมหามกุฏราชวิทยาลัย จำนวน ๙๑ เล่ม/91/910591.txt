@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>สรณทุกอุปปันนติกนสรณทุกนอุปปันนติกะ</H1>    
+<span class="LineNumber"> 002 </span>            <H2>(๑๐๐.  สรณทุกะ  ๑๗.  อุปปันนติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                     <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 004 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                               <H2>๑.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                    <H2>อนุปปันนบท</H2>
+<span class="LineNumber"> 007 </span>	[๓๓๔]  ๑.  <B>ธรรมที่เป็นอนุปปันนธรรม  ที่เป็นสรณธรรม
+<span class="LineNumber"> 008 </span>เป็นปัจจัยแก่ธรรมที่ไม่ใช่อนุปปันนธรรม  ที่ไม่ใช่สรณธรรม   ด้วย
+<span class="LineNumber"> 009 </span>อำนาจของอารัมมณปัจจัย</B>  มี  ๔ วาระ.
+
+<span class="LineNumber"> 010 </span>                                          <H2>อุปปาทิบท</H2>
+<span class="LineNumber"> 011 </span>		      ๑.  <B>ธรรมที่เป็นอุปปาทิธรรม  ที่เป็นอรณธรรม  เป็น
+<span class="LineNumber"> 012 </span>ปัจจัยแก่ธรรมที่ไม่ใช่อุปปาทิธรรม  ที่ไม่ใช่อรณธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 013 </span>ของอารัมมณปัจจัย</B>  มี  ๒  วาระ.
+<span class="LineNumber"> 014 </span>		<I>สรณทุกอุปปันนติกนสรณทุกนอุปปันนติกะ  จบ</I>

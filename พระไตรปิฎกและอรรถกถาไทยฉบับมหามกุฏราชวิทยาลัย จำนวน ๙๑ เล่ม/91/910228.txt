@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๓๕๒]  ในเหตุปัจจัย มี ๒๙  วาระ ในอารัมมณปัจจัย  มี ๒๔ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย มี ๒๙ วาระ. 
+<span class="LineNumber"> 004 </span>           ในสหชาตวาระก็ดี   ฯลฯ  ในปัญหาวาระก็ดี   พึงให้พิสดาร.
+
+<span class="LineNumber"> 005 </span>           <H2>ทุกขายเวทนายสัมปยุตตบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 006 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                      <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 008 </span>           [๓๕๓] ๑.  <B>ธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม     ที่
+<span class="LineNumber"> 009 </span>ไม่ใช่กุศล  อาศัยธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม ที่ไม่ใช่
+<span class="LineNumber"> 010 </span>กุศล  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 011 </span>                       ๒.  <B>ธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม     ที่
+<span class="LineNumber"> 012 </span>ไม่ใช่อกุศล    อาศัยธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม   ที่
+<span class="LineNumber"> 013 </span>ไม่ใช่กุศล  เกิดขึ้น เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 014 </span>                       ๓.  <B>ธรรมที่ไม่ใช่ทุกขายเวทนาสัมปยุตตธรรม     ที่
+<span class="LineNumber"> 015 </span>ไม่ใช่อัพยากตะ    อาศัยธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 017 </span>                       ๔.  <B>ธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม  ที่
+<span class="LineNumber"> 018 </span>ไม่ใช่กุศล  และธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 019 </span>อัพยากตะ  อาศัยธรรมที่ไม่ใช่ทุกขายเวทนายสัมปยุตตธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 020 </span>กุศล  เกิดขึ้น  เพราะเหตุปัจจัย.</B>

@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>            ๒.  อรณธรรมที่เป็นพหิทธาธรรม     อาศัยอรณธรรม 
+<span class="LineNumber"> 002 </span>ที่เป็นพหิทธาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 003 </span>		<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 004 </span>		[๙๕๔]  ในเหตุปัจจัย  มี ๒ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 005 </span>สหชาตวาระก็ดี   ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดารทุกปัจจัย.
+<span class="LineNumber"> 006 </span>		         <I>อัชฌัตตติกสรณทุกะ  จบ</I>

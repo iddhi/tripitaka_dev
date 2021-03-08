@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  สุธาโภชนชาตกํ  หน้า  323
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  ธมฺเมนาติ  สภาเวน ฯ  าเยนาติ  การเณน ฯ  น  หิ  
+<span class="LineNumber"> 003 </span>ยาจนา  สุธาติ  น  หิ  ยาจนาย  สุธา  ลพฺภติ  เตเนว  การเณน  อิตรา  
+<span class="LineNumber"> 004 </span>ติสฺโส  น  ลภึสุ ฯ  ตํ  ตนฺติ  ตสฺมา  ตํ ฯ  ยํ  ยมิจฺฉสีติ  น  เกวลํ  
+<span class="LineNumber"> 005 </span>นิมนฺเตมิเยว  ยฺจ  สุธํ  อิจฺฉสิ  ตํปิ  ทมฺมิ  เต ฯ  กฺจนเวลฺล-วิคฺคเหติ  กฺจนราสิสสฺสิรีกสรีเร ฯ  ปูชิตาติ  น  เกวลํ  สุธาย  
+<span class="LineNumber"> 006 </span>อฺเหิปิ  สพฺพรเสหิ  ตฺวํ  มยา  ปูชิตพฺพยุตฺตกาว ฯ อสฺมิเยติ  ตํ 
+<span class="LineNumber"> 007 </span>ปูชิตฺวา สุธายปิ อวเสสํ ภวิสฺสติ อหํ ภุฺชิสฺสามีติ ฯ  
+<span class="LineNumber"> 008 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 009 </span>	[๒๘๖]สา โกสิเยนานุมตา ชุตีมตา  
+<span class="LineNumber"> 010 </span>		อถา หิรี รมฺมํ ปาวิสิยสฺสมํ  
+<span class="LineNumber"> 011 </span>		อุทกวนฺตํ ผลมริยปูชิตํ  
+<span class="LineNumber"> 012 </span>		อปาปสตฺตูปนิเสวินี(๑) สทา ฯ  
+<span class="LineNumber"> 013 </span>		รุกฺขคฺคหนา พหุเกตฺถ ปุปฺผิตา  
+<span class="LineNumber"> 014 </span>		อมฺพา ปิยาลา ปนสา จ กึสุกา  
+<span class="LineNumber"> 015 </span>		โสภฺชนา โลทฺทมโถปิ ปทฺมกา  
+<span class="LineNumber"> 016 </span>		เกตกา จ ภงฺคา ติลกา จ ปุปฺผิตา ฯ  
+<span class="LineNumber"> 017 </span>		สาลา กเรรี พหุเกตฺถ ชมฺพุโย  
+<span class="LineNumber"> 018 </span>		อสฺสตฺถนิโคฺรธมธุกา จ เวทิสา(๒)  
+<span class="LineNumber"> 019 </span>		อุทฺทาลกา ปาตลิ สินฺทุวาริตา(๓)  
+<span class="LineNumber"> 020 </span>		มนุฺคนฺธา มุจฺจลินฺทเกตกา ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ....นิเสวิตํ ฯ  ๒. ม. อสฺสตฺถนิโคฺรธมธุกเวตสา 
+<span class="LineNumber"> 022 </span># ๓. ม. ....ปวารกา ฯ

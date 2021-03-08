@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                         <H3>อรรถกถาสูตรที่  ๗</H3>
+
+<span class="LineNumber"> 002 </span>         <B>สูตรที่  ๗</B>    (ข้อ  ๓๙๒)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         การแจกจ่ายปัจจัย  ๔    ชื่อว่า  <B>อามิสสังวิภาค</B>    การแจกจ่ายธรรม
+<span class="LineNumber"> 004 </span>ชื่อว่า   <B>ธรรมสังวิภาค.</B>
+<span class="LineNumber"> 005 </span>                                           จบอรรถกถาสูตรที่  ๗
+
+<span class="LineNumber"> 006 </span>                             <H3>อรรถกถาสูตรที่ ๘</H3>
+
+<span class="LineNumber"> 007 </span>         <B>สูตรที่  ๘</B>  (ข้อ  ๓๙๓)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 008 </span>         การสงเคราะห์ด้วยปัจจัย  ๔    ชื่อว่า    <B>อามิสสงเคราะห์</B>    การ
+<span class="LineNumber"> 009 </span>สงเคราะห์ด้วยธรรม  ชื่อว่า  <B>ธรรมสงเคราะห์.</B>
+<span class="LineNumber"> 010 </span>                                            จบอรรถกถาสูตรที่  ๘
+
+<span class="LineNumber"> 011 </span>                              <H3>อรรถกถาสูตรที่ ๙</H3>
+
+<span class="LineNumber"> 012 </span>         <B>สูตรที่  ๙</B> (ข้อ ๓๙๔)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 013 </span>         การอนุเคราะห์ด้วยปัจจัย    ชื่อว่า  <B>อามิสอนุเคราะห์</B>   การ
+<span class="LineNumber"> 014 </span>อนุเคราะห์ด้วยธรรม  ชื่อว่า  <B>ธรรมอนุเคราะห์.</B>
+<span class="LineNumber"> 015 </span>                                      จบอรรถกถาสูตรที่  ๙
+
+<span class="LineNumber"> 016 </span>                              <H3>อรรถกถาสูตรที่ ๑๐</H3>
+
+<span class="LineNumber"> 017 </span>         <B>สูตรที่  ๑๐</B>  (ข้อ ๓๙๕)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 018 </span>         การแสดงความเอ็นดูด้วยปัจจัย  ๔  ชื่อว่า  <B>อามิสอนุกัมปะ</B>  เกื้อกูล

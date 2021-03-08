@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 85
+
+<span class="LineNumber"> 002 </span>	[๗๖๙]อชฺฌายิกํ มนฺตคุณูปปนฺนํ  
+<span class="LineNumber"> 003 </span>		ตปสฺสินํ ยาจโยคีติธาหุ(๑)  
+<span class="LineNumber"> 004 </span>		ตีเร สมุทฺทสฺสุกํ สชฺชนฺตํ  
+<span class="LineNumber"> 005 </span>		ตํ สาครชฺโฌหริ(๒) เตนเปยฺโยติ(๓) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ยาจโยคี  ติธาหูติ  ตํ  พฺราหฺมณํ  ยาจโยคีติ  อิธ  โลเก  
+<span class="LineNumber"> 007 </span>อาหุ ฯ  อุทกํ  สชฺชนฺตนฺติ  โส  กิเรกทิวสํ  ปาปปวาหนกมฺมํ 
+<span class="LineNumber"> 008 </span>กโรนฺโต  ตีเร  €ตฺวา  สมุทฺทโต  อุทกํ  คเหตฺวา  อตฺตโน  อุปริ 
+<span class="LineNumber"> 009 </span>สชฺชนฺโต(๔)  อพฺภุกฺกีริ (๕)ฯ  อถ  นํ  เอวํ  กโรนฺตํ  วฑฺฒิตฺวา  
+<span class="LineNumber"> 010 </span>สาคโร  อชฺโฌหริ  ตํ  การณํ  มหาพฺรหฺมา  สุตฺวา  อิมินา  กิร
+<span class="LineNumber"> 011 </span>เม  ปุตฺโต  หโตติ  กุชฺฌิตฺวา  สมุทฺโท  อเปยฺโย  โลโณทโก 
+<span class="LineNumber"> 012 </span>ภวตูติ  อภิสปิ ฯ  เตเนว  การเณน  สมุทฺโท  อเปยฺโย  โลโณทโก
+<span class="LineNumber"> 013 </span>ชาโต ฯ  เอวรูปา  มหาคุณา เอเต พฺราหฺมณา นามาติ (๖)ฯ  
+<span class="LineNumber"> 014 </span>	ปุนปิ อาห  
+<span class="LineNumber"> 015 </span>	[๗๗๐]อายาควตฺถูนิ ปุถู ป€พฺยา  
+<span class="LineNumber"> 016 </span>		สํวิชฺชนฺติ พฺราหฺมณา วาสวสฺส  
+<span class="LineNumber"> 017 </span>		ปุริมํ ทิสํ ปจฺฉิมํ ทกฺขิณุตฺตรํ  
+<span class="LineNumber"> 018 </span>		สํวิชฺชมานา ชนยนฺติ เวทนฺติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  วาสวสฺสาติ  ปุพฺเพ  พฺราหฺมณานํ  ทานํ  ทตฺวา
+<span class="LineNumber"> 020 </span># ๑. ม. ยาจโยโคติ ธาห ฯ  ๒. ม. สาคโรชฺโฌหริ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. เตนาเปยฺโย ฯ ๔. ม. สีเส สชนฺตํ ฯ ก. สชตํ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. อพฺภุกิรติ ฯ  ๖. ม. มหานุภาวาติ ฯ

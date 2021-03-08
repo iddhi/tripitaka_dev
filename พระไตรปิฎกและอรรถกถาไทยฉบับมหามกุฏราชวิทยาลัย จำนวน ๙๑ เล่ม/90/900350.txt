@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                       		<H1>อัพยากตบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                           		    <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 003 </span>                             	      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๑๐๗๖]  ๑.  อัพยากตธรรมที่เป็นสัปปัจจยธรรม เป็นปัจจัยแก่ 
+<span class="LineNumber"> 005 </span>อัพยากตธรรมที่เป็นสัปปัจจยธรรม  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                        	    <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๑๐๗๗]  ๑.  อัพยากตธรรมที่เป็นสัปปัจจยธรรม เป็นปัจจัยแก่
+<span class="LineNumber"> 008 </span>อัพยากตธรรมที่เป็นสัปปัจจยธรรม  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 009 </span>                    	      ๒.  อัพยากตธรรมที่เป็นอัปปัจจยธรรม เป็นปัจจัยแก่
+<span class="LineNumber"> 010 </span>อัพยากตธรรมที่เป็นสัปปัจจยธรรม    ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 011 </span>ฯลฯ
+<span class="LineNumber"> 012 </span>                           	<H2>๙.  อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                     	๑.  อัพยากตธรรมที่เป็นสัปปัจจยธรรม เป็นปัจจัยแก่
+<span class="LineNumber"> 014 </span>อัพยากตธรรมที่เป็นสัปปัจจยธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย
+<span class="LineNumber"> 015 </span>                    	๒.  อัพยากตธรรมที่เป็นอัปปัจจยธรรม เป็นปัจจัยแก่
+<span class="LineNumber"> 016 </span>อัพยากตธรรมที่เป็นสัปปัจจยธรรม  ด้วยอำนาจของอุปนิสสยปัจจัย
+<span class="LineNumber"> 017 </span>          	มีอย่างเดียว  คือที่เป็น  อารัมมณูปนิสสยะ

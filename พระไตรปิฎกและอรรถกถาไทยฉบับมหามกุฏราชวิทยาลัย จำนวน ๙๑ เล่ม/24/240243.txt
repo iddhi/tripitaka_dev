@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                       <h1>๓.  อันนสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>                              <H1>ว่าด้วยผลของการให้อาหาร</H1>
+ 
+<span class="LineNumber"> 003 </span>         [๑๓๙]   เทวดากราบทูลว่า
+<span class="LineNumber"> 004 </span>                             <B>เทวดาและมนุษย์ทั้งสองพวก  ต่างก็
+<span class="LineNumber"> 005 </span>                   พอใจอาหารด้วยกันทั้งนั้น    เออ   ก็ผู้ที่ไม่
+<span class="LineNumber"> 006 </span>                   พอใจอาหารชื่อว่ายักษ์โดยแท้.</B>
+<span class="LineNumber"> 007 </span>         [๑๔๐]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 008 </span>                             <B>ชนเหล่าใดมีใจผ่องใสแล้ว  ให้
+<span class="LineNumber"> 009 </span>                   อาหารนั้นด้วยศรัทธา    อาหารนั้นแลย่อม
+<span class="LineNumber"> 010 </span>                   พะนอเขาทั้งในโลกนี้และโลกหน้า  เพราะ
+<span class="LineNumber"> 011 </span>                   เหตุนั้น      บุคคลพึงนำความตระหนี่
+<span class="LineNumber"> 012 </span>                   ออกไปเสีย      พึงข่มความตระหนี่ซึ่งเป็น
+<span class="LineNumber"> 013 </span>                   ตัวมลทินแล้วให้ทาน  เพราะบุญทั้งหลาย
+<span class="LineNumber"> 014 </span>                   เป็นที่พึ่งของเหล่าสัตว์ในโลกหน้า.</B>

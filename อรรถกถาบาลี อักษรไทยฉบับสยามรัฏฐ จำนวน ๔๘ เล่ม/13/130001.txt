@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  ๑๓    หน้า  ๑
+
+<span class="LineNumber"> 002 </span>		มโนรถปูรณี นาม องฺคุตฺตรนิกายฏฺ€กถา
+<span class="LineNumber"> 003 </span>				เอกกนิปาตวณฺณนา
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ
+<span class="LineNumber"> 005 </span>					คนฺถารมฺภกถา
+<span class="LineNumber"> 006 </span>		กรุณาสีตลหทยํ			ปฺาปชฺโชตวิหตโมหตมํ
+<span class="LineNumber"> 007 </span>		สนรามรโลกคุรุํ  (๑)			วนฺเท สุคตํ คติวิมุตฺตํ ฯ
+<span class="LineNumber"> 008 </span>		พุทฺโธปิ พุทฺธภาวํ			ภาเวตฺวา เจว สจฺฉิกตฺวา จ
+<span class="LineNumber"> 009 </span>		ยํ อุปคโต วิคตมลํ (๒)			วนฺเท ตมนุตฺตรํ ธมฺมํ ฯ
+<span class="LineNumber"> 010 </span>		สุคตสฺส โอรสานํ			ปุตฺตานํ มารเสนมถนานํ
+<span class="LineNumber"> 011 </span>		อฏฺ€นฺนํปิ สมูหํ			สิรสา วนฺเท อริยสํฆํ ฯ
+<span class="LineNumber"> 012 </span>		อิติ เม ปสนฺนมติโน			รตนตฺตยวนฺทนามยํ ปุฺํ
+<span class="LineNumber"> 013 </span>		ยํ สุวิหตนฺตราโย			หุตฺวา ตสฺสานุภาเวน ฯ
+<span class="LineNumber"> 014 </span>		เอกกทุกาทิปฏิมณฺฑิตสฺส		องฺคุตฺตราคมวรสฺส
+<span class="LineNumber"> 015 </span>		ธมฺมกถิกปุงฺควานํ			วิจิตฺตปฏิภาณชนนสฺส ฯ
+<span class="LineNumber"> 016 </span>		อตฺถปฺปกาสนตฺถํ			อฏฺ€กถา อาทิโต วสีสเตหิ  (๓)
+<span class="LineNumber"> 017 </span>		ปฺจหิ ยา สงฺคีตา จ (๔)		อนุสงฺคีตา จ ปจฺฉาปิ ฯ
+<span class="LineNumber"> 018 </span>		สีหฬทีปมฺหิ อาภตา (๕)		วสินา มหามหินฺเทน
+<span class="LineNumber"> 019 </span># ๑.  ม. สนรามรโลกครุํ  ฯ  ๒. ม. คตมลํ  ฯ  ๓. ม. วสิสเตหิ  ฯ 
+<span class="LineNumber"> 020 </span># ๔. ม. จสทฺโท นตฺถิ  ฯ  ๕.  ม. ปน อาภตาถ  ฯ

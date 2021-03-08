@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                          ๔.อกุศลธรรมที่เป็นอุปาทานวิปปยุตตธรรม  อาศัย 
+<span class="LineNumber"> 002 </span>อกุศลธรรมที่เป็นอุปาทานวิปปยุตตธรรม   เกิดขึ้น  เพราะเหตุปัจจัย  
+<span class="LineNumber"> 003 </span>มี ๒ วาระ   (วาระที่  ๔-๕)
+<span class="LineNumber"> 004 </span>                           ๖.อกุศลธรรมที่เป็นอุปาทานสัมปยุตตธรรม  อาศัย
+<span class="LineNumber"> 005 </span>อกุศลธรรมที่เป็นอุปาทานสัมปยุตตธรรม    และอกุศลธรรมที่เป็น
+<span class="LineNumber"> 006 </span>อุปาทานวิปปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 007 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>		[๑๕๗๔]  ในเหตุปัจจัย มี ๖ วาระ    ในอารัมมณปัจจัย  มี  ๖ วาระ.
+<span class="LineNumber"> 009 </span>ในปัจจัยทั้งปวง มี ๖ วาระ  ในอวิคตปัจจัย  มี  ๖  วาระ.
+<span class="LineNumber"> 010 </span>                        	<H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 011 </span>              <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 012 </span>		[๑๕๗๕]  ในนเหตุปัจจัย  มี ๑ วาระ   ในนอธิปติปัจจัย มี  ๖ วาระ
+<span class="LineNumber"> 013 </span>ในนกัมมปัจจัย มี ๔ วาระ  ในนวิปากปัจจัย  มี ๖ วาระ  ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 014 </span>มี ๖ วาระ.
+<span class="LineNumber"> 015 </span>            สหชาตวาระเป็นต้น  พึงให้พิสดาร.

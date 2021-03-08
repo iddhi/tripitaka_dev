@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>ดูเหมือนต้องการให้กำหนดจริงด้วย.  ข้าพเจ้าเข้าใจว่า  กำหนดเอา
+<span class="LineNumber"> 002 </span>วัตถุอยู่ภายในเขตเป็นนิมิต.  เช่นนี้  แนวนอกนิมิตหลุดไปด้วย 
+<span class="LineNumber"> 003 </span>ประการทั้งปวง  มีตัวอย่างในแผนนี้
+<span class="LineNumber"> 004 </span>                                    แผน ๑๑
+<span class="LineNumber"> 005 </span>            ๑.  แนวที่มุ่งหมายเดิม
+<span class="LineNumber"> 006 </span>           ๒.  แนวใหม่
+<span class="LineNumber"> 007 </span>           ๓.  นิมิต.
+<span class="LineNumber"> 008 </span>           ท่านปรับเป็นสีมาวิบัตินั้น  เพราะใช้ตามแนวที่มุ่งหมายไว้เดิม
+<span class="LineNumber"> 009 </span>หาได้ไม่.  ขอนักวินัยพิจารณาดูเถิด.
+<span class="LineNumber"> 010 </span>           สงฆ์จะกำหนดเขตสมมติสีมา  ทรงห้ามไม่ให้กำหนดเขต

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>นปัจฉาชาตปัจจัย  นอาเสวนปัจจัย  นวิปากปัจจัย  นอาหารปัจจัย 
+<span class="LineNumber"> 002 </span>นอินทริยปัจจัย  นฌานปัจจัย  นมัคคปัจจัย นสัมปยุตตปัจจัย
+<span class="LineNumber"> 003 </span>นวิปปยุตตปัจจัย  โนนัตถิปัจจัย  โนวิคตปัจจัย  โนอวิคตปัจจัย</B> 
+<span class="LineNumber"> 004 </span>ในกัมมปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 005 </span> <B>[๑๐๗๓]  เพราะโนอัตถิปัจจัย  นเหตุปัจจัย  นอารัมมณปัจจัย
+<span class="LineNumber"> 006 </span>นอธิปติปัจจัย  นอนันตรปัจจัย  นสมนันตรปัจจัย  นสหชาตปัจจัย
+<span class="LineNumber"> 007 </span>นอัญญมัญญปัจจัย  นนิสสยปัจจัย  นปุเรชาตปัจจัย  นปัจฉาชาตปัจจัย
+<span class="LineNumber"> 008 </span>นอาเสวนปัจจัย  นกัมมปัจจัย  นวิปากปัจจัย  นอาหารปัจจัย
+<span class="LineNumber"> 009 </span>นอินทริยปัจจัย  นฌานปัจจัย นมัคคปัจจัย  นสัมปยุตตปัจจัย
+<span class="LineNumber"> 010 </span>นวิปปยุตตปัจจัย  โนนัตถิปัจจัย  โนวิคตปัจจัย  โนอวิคตปัจจัย</B>
+<span class="LineNumber"> 011 </span>ในอุปนิสสยปัจจัย มี ๙ วาระ.
+
+<span class="LineNumber"> 012 </span>                                   <H1>โนนัตถิมูลกนัย</H1>
+<span class="LineNumber"> 013 </span> <B>[๑๐๗๔]  เพราะโนนัตถิปัจจัย</B>  ในเหตุปัจจัย  มี ๗ วาระ... ฯลฯ...
+<span class="LineNumber"> 014 </span>ในอวิคตปัจจัย  มี ๑๓ วาระ.
+<span class="LineNumber"> 015 </span>          พึงให้พิสดารเหมือน  นเหตุมูลนัย.
+
+<span class="LineNumber"> 016 </span>                                    <H1>โนวิคตมูลกนัย</H1>
+<span class="LineNumber"> 017 </span> <B>[๑๐๗๕]  เพราะโนวิคตปัจจัย</B> ในเหตุปัจจัย มี ๗ วาระ... ฯลฯ...
+<span class="LineNumber"> 018 </span>ในอวิคตปัจจัย มี ๑๓ วาระ.
+<span class="LineNumber"> 019 </span>          พึงให้พิสดารเหมือน  นเหตุมูลกนัย.

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  35  นฬินิกาชาตกํ  หน้า  15
+
+<span class="LineNumber"> 002 </span>		ตา โชตเร ชงฺฆนนฺตเร(๑) วิสตฺตา  
+<span class="LineNumber"> 003 </span>		สเตริตา วิชฺชุริวนฺตลิกฺเข ฯ  
+<span class="LineNumber"> 004 </span>		อขิลกานิ จ อวณฺฏกานิ  
+<span class="LineNumber"> 005 </span>		เหฏฺ€า นภฺยา กฏิสโมหิตานิ  
+<span class="LineNumber"> 006 </span>		อฆฏฺฏิตา นิจฺจกีฬํ กโรนฺติ  
+<span class="LineNumber"> 007 </span>		หนฺตาต กึ รุกฺขผลานิ ตานิ ฯ  
+<span class="LineNumber"> 008 </span>		ชฏา จ ตสฺส ภุสทสฺสเนยฺยา  
+<span class="LineNumber"> 009 </span>		ปโรสตํ เวลฺลิตคฺคา สุคนฺธา  
+<span class="LineNumber"> 010 </span>		เทฺวธาสิโร สาธุวิภตฺตรูโป  
+<span class="LineNumber"> 011 </span>		อโห นุโข มยฺห ตถา ชฏาสฺสุ ฯ  
+<span class="LineNumber"> 012 </span>		ยถา จ โส ปกิรติ ตา ชฏาโย  
+<span class="LineNumber"> 013 </span>		วณฺเณน คนฺเธน อุเปตรูปา  
+<span class="LineNumber"> 014 </span>		นีลุปฺปลํ วาตสเมริตํว  
+<span class="LineNumber"> 015 </span>		ตเถว ปวายติ ปนสฺสโม อยํ ฯ  
+<span class="LineNumber"> 016 </span>		วณฺโณ(๒) จ ตสฺส ภุสทสฺสเนยฺโย  
+<span class="LineNumber"> 017 </span>		เนตาทิโส ยาทิโส มยฺห กาโย  
+<span class="LineNumber"> 018 </span>		โส วายติ เอริโต มาลุเตน  
+<span class="LineNumber"> 019 </span>		วนํ ยถา อคฺคคิมฺเห สุผุลฺลํ ฯ  
+<span class="LineNumber"> 020 </span>		นิหนฺติ โส รุกฺขผลํ ป€พฺยา  
+<span class="LineNumber"> 021 </span>		สุจิตฺตรูปํ รุจิรํ ทสฺสเนยฺยํ  
+<span class="LineNumber"> 022 </span>#  ๑. ม. ชฆนนฺตเร ฯ  ๒. ม. ปงฺโก ฯ

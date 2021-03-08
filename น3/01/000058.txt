@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                               บาลีแสดงอนุปาทิเสสนิพพาน 
+<span class="LineNumber"> 002 </span>	<B>อกิญฺจนํ  อนาทานํ                      เอตํ  ทีปํ  อนาปรํ
+<span class="LineNumber"> 003 </span>	นิพฺพานํ  อิติ  นํ  พฺรูมิ                  ชรามจฺจุปริกฺขยํ.</B>
+<span class="LineNumber"> 004 </span>	เรากล่าวทวีปนั่นมิใช่อื่น  หาห่วงมิได้  หาเครื่องยึดมิได้  เป็น
+<span class="LineNumber"> 005 </span>ที่สิ้นรอบแห่งชราและมัจจุ  ว่านิพพาน.
+<span class="LineNumber"> 006 </span>                     กปฺปมาณวกฺปญฺหา  ปารายนวคฺค  สุตฺติปาต.<SUP>๑</SUP>
+<span class="LineNumber"> 007 </span>				<B>อนุปาทิเสสา  ปน  สมฺปรายิกา
+<span class="LineNumber"> 008 </span>				ยมฺหิ  นิรุชฺฌนฺติ  ภวานิ  สพฺพโส.</B>
+<span class="LineNumber"> 009 </span>	ส่วนธาตุเป็นไปธรรมอันจะพึงถึงข้างหน้า  ที่ภพทั้งปวงดับ
+<span class="LineNumber"> 010 </span>ด้วยประการทั้งปวง  เป็นนิพพานธาตุหาอุปาทิเหลือมิได้.
+<span class="LineNumber"> 011 </span>                                   ทุกนิปาต  อิติวุตฺตก.<SUP>๒</SUP>
+<span class="LineNumber"> 012 </span>                                      <B>เตสํ  วูปสโม  สุโข.</B>
+<span class="LineNumber"> 013 </span>	ความเข้าไปสงบแห่งสังขารเหล่านั้น  ย่อมเป็นสุข.
+<span class="LineNumber"> 014 </span>				   นิทานวคฺค  สํยุตฺต.<SUP>๓</SUP>
+<span class="LineNumber"> 015 </span>				<B>อตฺถิ  ภิกฺขเว  ตทาตนํ  ฯ  เป  ฯ</B>
+<span class="LineNumber"> 016 </span>	ภิกษุทั้งหลาย  อายตนะนั้นมีอยู่  ที่ดิน  น้ำ  ไฟ  ลม  ไม่มีเลย
+<span class="LineNumber"> 017 </span>อากาสานัญจายตนะ  วิญญาณัญจายตนะ  อากิญจัญญายตนะ  เนว-
+<span class="LineNumber"> 018 </span>สัญญานาสัญญายตนะก็มิใช่  โลกนี้ก็มิใช่  โลกอื่นก็มิใช่  ดวงจันทร์
+<span class="LineNumber"> 019 </span>ดวงอาทิตย์ทั้ง ๒  ก็มิใช่  อนึ่ง  ภิกษุทั้งหลาย  เราไม่กล่าวเลย  ซึ่ง
+<span class="LineNumber"> 020 </span>อายตนะนั้นว่าเป็นการมา  เป็นการไป  เป็นการยืน  เป็นการจุติ  เป็น
+
+<span class='footnote'>๑.  ขุ. สุ.  ๒๕/๕๔๔.  ขุ.  จู.  ๓๐/๑๘๕.  ๒.  ขุ.  อิติ.  ๒๕/๒๕๙.  ๓.  สํ.  นิ.  ๑๖/๒๒๘.</span>

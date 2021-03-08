@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>สังสัฏฐวาระ</H2>
+<span class="LineNumber"> 002 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                      <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๒๗๑]  ๑.  <B>พาหิรธรรม     เจือกับอัชฌัตติกธรรม     เกิดขึ้น
+<span class="LineNumber"> 005 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  สัมปยุตตขันธ์ทั้งหลาย  เจือกับจิต.
+<span class="LineNumber"> 007 </span>         ในปฏิสนธิขณะ  สัมปยุตตขันธ์ทั้งหลาย  เจือกับจิต.
+<span class="LineNumber"> 008 </span>                     ๒.  <B>พาหิรธรรม  เจือกับพาหิรธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 009 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ ขันธ์ ๒  เจือกับขันธ์ ๑  ที่เป็นพาหิรธรรม ฯลฯ เจือกับขันธ์ ๒.  
+<span class="LineNumber"> 011 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 012 </span>                     ๓.  <B>อัชฌัตติกธรรม    เจือกับพาหิรธรรม     เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  จิต  เจือกับขันธ์ ๑  ที่เป็นพาหิรธรรม.
+<span class="LineNumber"> 015 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 016 </span>                     ๔.  <B>อัชฌัตติกธรรม  และพาหิรธรรม   เจือกับพาหิร- 
+<span class="LineNumber"> 017 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>

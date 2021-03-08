@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  298
+
+<span class="LineNumber"> 002 </span>มจฺจนฺติ  กุรุรฏฺเ€  วิธูโร  นาม  อมจฺโจ  ธมฺเม  €ิโต
+<span class="LineNumber"> 003 </span>ชีวิตเหตุปิ  มุสาวาทํ  น  ภาสตีติ  เอวํ  เทวา  วิทหุ  วิทหนฺติ  
+<span class="LineNumber"> 004 </span>[๑]ปกาเสนฺติ ฯ เอวํ  วิทหมานา  เต  เทวา  สจฺจนฺนุ  วิทหนฺติ 
+<span class="LineNumber"> 005 </span>อุทาหุ อภูตวาทาเยว เต ติ ฯ  วิธุโรติ  สํขฺยา  กตโมสิ  โลเกติ (๒) 
+<span class="LineNumber"> 006 </span>ยา  เอสา  ตว  วิธุโรติ  โลเก  สํขฺยา  ปฺตฺติ  โส  ตฺวํ  
+<span class="LineNumber"> 007 </span>กตโมสิ(๓)  ปกาเสหิ  กึ (๔) รฺโ  ทาโส  นีจตรชาติโก  อุทาหุ
+<span class="LineNumber"> 008 </span>สโม  วา  อุตฺตริตโร  วา  รฺโ  าตีติ  อิทํ ตาว เม 
+<span class="LineNumber"> 009 </span>อาจิกฺข ทาโสสิ รฺโ อถ วา าตีติ(๕) ฯ  
+<span class="LineNumber"> 010 </span>	อถ  มหาสตฺโต  อยํ  มํ  เอวํ  ปุจฺฉติ  อหํ  โข  ปเนตํ 
+<span class="LineNumber"> 011 </span>รฺโ  าตีติ(๕) [๖]  อุตฺตริตโรติปิ  รฺโ  น  กิฺจิ  โหมีติปิ  
+<span class="LineNumber"> 012 </span>สฺาเปตุํ  สกฺโกมิ [๗] อิมสฺมึ  โลเก  ปน  สจฺจสโม  อวสฺสโย 
+<span class="LineNumber"> 013 </span>นาม  นตฺถิ  สจฺจเมว  กเถตุํ  วฏฺฏตีติ  จินฺเตตฺวา  มาณว  เนวาหํ 
+<span class="LineNumber"> 014 </span>รฺโ  าติ  น  อุตฺตริตโร จตุนฺนํ ปน(๘) ทาสานํ อฺตโรติ 
+<span class="LineNumber"> 015 </span>ทสฺเสตุํ คาถทฺวยมาห  
+<span class="LineNumber"> 016 </span>	[๙๔๕]อามายทาสาปิ ภวนฺติ เหเก  
+<span class="LineNumber"> 017 </span>		ธเนน กีตาปิ ภวนฺติ ทาสา  
+<span class="LineNumber"> 018 </span>		สยํปิ เหเก อุปยนฺติ ทาสา  
+<span class="LineNumber"> 019 </span># ๑. ม. เอตฺถนฺตเร กเถนฺตีติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 020 </span># ๒. ม. กตมาสิ ฯ  ๓. ม. สา กตมา อาสิ ตฺวํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. กินฺนุ ฯ  ๕. ม. าตีติปิ ฯ  ๖. ม. เอตฺถนฺตเร รฺโติ
+<span class="LineNumber"> 022 </span># ทิสฺสติ ฯ  ๗. ม. เอตฺถนฺตเร เอวํ สนฺเตปีติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม. ปนสทฺโท นตฺถิ ฯ 

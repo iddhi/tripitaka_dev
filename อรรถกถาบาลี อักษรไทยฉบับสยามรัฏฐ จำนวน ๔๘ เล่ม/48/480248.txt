@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 48     หน้า 248
+
+<span class="LineNumber"> 002 </span>			ปรูปหารกถาวณฺณนา(๑)
+<span class="LineNumber"> 003 </span>	อิทานิ  ปรูปหารกถา  นาม  โหติ ฯ  ตตฺถ  เย  อรหตฺตํ
+<span class="LineNumber"> 004 </span>ปฏิชานนฺตานํ  อปฺปตฺเต  ปตฺตสฺีนํ  อธิมานิกานํ  กุหกานํ 
+<span class="LineNumber"> 005 </span>วา  อรหตฺตํ  ปฏิชานนฺตานํ อสุจิ  สุกฺกวิสฏฺ€ึ   ทิสฺวา
+<span class="LineNumber"> 006 </span>มารกายิกา  เทวตา  อรหโต  อสุจึ  อุปสํหรนฺตีติ มฺนฺติ
+<span class="LineNumber"> 007 </span>เสยฺยถาปิ  เอตรหิ  ปุพฺพเสลิยา  จ  อปรเสลิยา  จ  เต  สนฺธาย 
+<span class="LineNumber"> 008 </span>อตฺถิ  อรหโต (๒) อสุจิ  สุกฺกวิสฏฺ€ีติ(๒)  ปุจฺฉา    สกวาทิสฺส
+<span class="LineNumber"> 009 </span>ปฏิฺา อิตรสฺส ฯ อิทานิ  ยสฺมา  สุกฺกวิสฏฺ€ิ  นาม  ราค-
+<span class="LineNumber"> 010 </span>สมุฏฺ€านา  โหติ  ตสฺมา  อตฺถิ  อรหโต ราโคติ อนุโยโค
+<span class="LineNumber"> 011 </span>อารทฺโธ ฯ โส สพฺโพปิ อุตฺตานตฺโถเยว ฯ 
+<span class="LineNumber"> 012 </span>	มารกายิกา  เทวตา  อตฺตโนติอาทิปเฺห  ยสฺมา  ตาสํ
+<span class="LineNumber"> 013 </span>เทวตานํ  สุกฺกวิสฏฺ€ิ  นาม  นตฺถิ  อฺเสมฺปิ  สุกฺกํ  คเหตฺวา
+<span class="LineNumber"> 014 </span>น  อุปสํหรนฺติ  อรหโต  ปน  สุกฺกเมว นตฺถิ ตสฺมา น
+<span class="LineNumber"> 015 </span>เหวนฺติ ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 016 </span>	เนว  อตฺตโนติ  ปเฺห  ปน  นิมฺมินิตฺวา  อุปสํหรนฺตีติ 
+<span class="LineNumber"> 017 </span>ลทฺธิยา  ปฏิชานาติ ฯ
+<span class="LineNumber"> 018 </span>	โลมกูเปหีติ  ปเฺห  สปฺปิเตลานํ  วิย  โลมกูเปหิ 
+<span class="LineNumber"> 019 </span>อุปสํหรณาภาวํ  ทิสฺวา ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 020 </span>	หนฺท  หีติ  พฺยวสายตฺเถ  (๓)  นิปาโต ฯ  อรหา  นุ  โข 
+<span class="LineNumber"> 021 </span># ๑. ม. ปรูปหารวณฺณนา ฯ  ๒. ม. อิเม ปา€า นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. วจสายฏฺเ€ ฯ

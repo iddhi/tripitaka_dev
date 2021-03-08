@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  พาหิรรูป . . . อุตุสมุฏฐานรูป 
+<span class="LineNumber"> 002 </span>           ฯลฯ อาศัยมหาภูตรูป ๑ ฯลฯ อุปาทารูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 003 </span>           ส่วนอสัญญสัตว์ทั้งหลาย  รูปชีวิตินทรีย์  อาศัยมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 004 </span>                                      <H1>๑๕.  นฌานปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๒] ๑. <B>ฯลฯ  เพราะนฌานปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ   ขันธ์ ๑ ที่เป็นสหรคตด้วยปัญจวิญญาณ ฯลฯ พาหิรรูป ฯลฯ
+<span class="LineNumber"> 007 </span>อาหารสมุฏฐานรูป . . . อุตุสมุฏฐานรูป ฯลฯ. 
+<span class="LineNumber"> 008 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ
+
+<span class="LineNumber"> 009 </span>                                         <H1>๑๖.นมัคคปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๑๓] ๑. <B>ฯลฯ  เพราะนมัคคปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ ฯลฯ อาศัยขันธ์ ๑ ที่เป็นนเหตุธรรม   ซึ่งเป็นอเหตุกธรรม ฯลฯ.
+<span class="LineNumber"> 012 </span>           ในอเหตุปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 013 </span>           พาหิรรูป . . . อาหารสมุฏฐานรูป . . . อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 014 </span>           ส่วนอสัญญสัตว์ทั้งหลาย ฯลฯ     
+               
+<span class="LineNumber"> 015 </span>                  <H1>๑๗.นสัมปยุตตปัจจัย ฯลฯ ๒๐.โนวิคตปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           <B>เพราะนสัมปยุตตปัจจัย ฯลฯ   เพราะนวิปปยุตตปัจจัยเหมือน
+<span class="LineNumber"> 017 </span>นปุเรชาตปัจจัย  พึงกระทำหัวข้อปัจจัย   ในอรูปภูมิเท่านั้น ฯลฯ  เพราะ-
+<span class="LineNumber"> 018 </span>โนนัตถิปัจจัย ฯลฯ เพราะโนวิคตปัจจัย.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  14  หน้า  570
+
+<span class="LineNumber"> 002 </span>				จตุตฺถปณฺณาสกวณฺณนา
+<span class="LineNumber"> 003 </span>				อินฺทฺริยวคฺควณฺณนา
+
+<span class="LineNumber"> 004 </span>			   อินฺทฺริยสุตฺตาทิวณฺณนา  
+<span class="LineNumber"> 005 </span>	จตุตฺถสฺส  ป€เม  ฯ  สทฺธาธุเรน  อินฺทตฺถํ  กโรตีติ  
+<span class="LineNumber"> 006 </span>สทฺธินฺทฺริยํ  ฯ  เสเสสุปิ  เอเสว  นโย  ฯ  
+<span class="LineNumber"> 007 </span>	ทุติเย  ฯ  อสฺสทฺธิเย  อกมฺปนฏฺเ€น  สทฺธาพลํ  ฯ  เสเสสุปิ  
+<span class="LineNumber"> 008 </span>เอเสว  นโย  ฯ  
+<span class="LineNumber"> 009 </span>	ตติเย  ฯ  อนวชฺชพลนฺติ  นิทฺโทสพลํ  ฯ  สงฺคหกพลนฺติ  
+<span class="LineNumber"> 010 </span>สงฺคหิตพฺพยุตฺตกานํ  สงฺคณฺหนพลํ  ฯ  
+<span class="LineNumber"> 011 </span>	จตุตฺถปฺจมานิ  อุตฺตานตฺถาเนว  ฯ  
+
+<span class="LineNumber"> 012 </span>				กปฺปสุตฺตวณฺณนา  
+<span class="LineNumber"> 013 </span>	ฉฏฺเ€ ฯ  สํวฏฺโฏติ  เอตฺถ  ตโย  สํวฏฺฏา  อาโปสํวฏฺโฏ  
+<span class="LineNumber"> 014 </span>เตโชสํวฏฺโฏ  วาโยสํวฏฺโฏติ  ฯติสฺโส  สํวฏฺฏสีมา  อาภสฺสรา  
+<span class="LineNumber"> 015 </span>สุภกิณฺหา  เวหปฺผลาติ  ฯ  ยทา  กปฺโป  เตเชน  สํวฏฺฏติ  ฯ  
+<span class="LineNumber"> 016 </span>อาภสฺสรโต  เหฏฺ€า  อคฺคินา  ฑยฺหติ  ฯ  ยทา  อาเปน  สํวฏฺฏติ  
+<span class="LineNumber"> 017 </span>สุภกิณฺหโต  เหฏฺ€า  อุทเกน  วิลียติ  ฯ  ยทา  วายุนา  สํวฏฺฏติ  
+<span class="LineNumber"> 018 </span>เวหปฺผลโต  เหฏฺ€า  วาเตน  วิทฺธํเสติ  ฯ  วิตฺถารโต  ปน  สทาปิ  
+<span class="LineNumber"> 019 </span>เอกํ  พุทฺธกฺเขตฺตํ  วินสฺสติ  ฯ  อยเมตฺถ  สงฺเขโป  วิตฺถารกถา  
+<span class="LineNumber"> 020 </span>ปน  วิสุทฺธิมคฺเค   วุตฺตนเยเนว  เวทิตพฺพา  ฯ  

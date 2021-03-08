@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  องฺคณิกภารทฺวาชตฺเถรคาถาวณฺณนา  หน้า 725
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อโยนีติ  อโยนิโส  อนุปาเยน ฯ
+<span class="LineNumber"> 003 </span>	สุทฺธินฺติ  สํสารสุทฺธึ  ภวนิสฺสรณํ ฯ 
+<span class="LineNumber"> 004 </span>	อเนฺวสนฺติ  คเวสนฺโต  ปริเยสนฺโต ฯ  (๑)
+<span class="LineNumber"> 005 </span>	อคฺคึ  ปริจรึ วเนติ อยํ สุทฺธิมคฺโคติ อธิปฺปาเยน
+<span class="LineNumber"> 006 </span>อรฺายตเน  อคฺคิหุตฺตสาลายํ  (๒)  อคฺยาคารํ  กตฺวา  อาหุตึ  
+<span class="LineNumber"> 007 </span>ปคฺคณฺหนฺโต  อคฺคิเทวํ  ปริจรึ  เวเท วุตฺตวิธินา ปูเชสึ ฯ
+<span class="LineNumber"> 008 </span>	สุทฺธิมคฺคํ อชานนฺโต อกาสึ  อมรํ  ตปนฺติ  สุทฺธิยา
+<span class="LineNumber"> 009 </span>นิพฺพานสฺส  มคฺคํ  อชานนฺโต  อคฺคิปริจรณํ  วิย ปฺจ-
+<span class="LineNumber"> 010 </span>ตปตปฺปนาทิอตฺตกิลมถานุโยคํ  (๓)  สุทฺธิมคโคติ  มฺาย  (๔) อกาสึ
+<span class="LineNumber"> 011 </span>อจรึ ปฏิปชฺชึ ฯ  
+<span class="LineNumber"> 012 </span>	เอวํ  เถโร  อสฺสมโต อสฺสมํ คจฺฉนฺโต วิย เวเท
+<span class="LineNumber"> 013 </span>วุตฺตวิธินา อคฺคิปริจรณาทินา (๕)  อนุฏฺ€าย  สุทฺธิยา  อปฺปตฺตภาเวน
+<span class="LineNumber"> 014 </span>พหิทฺธา  สุทฺธิยา  อภาวํ  ทสฺเสตฺวา อิทานิ อิมสฺมึเยว สาสเน
+<span class="LineNumber"> 015 </span>สุทฺธิ จ  มยา อธิคตาติ ทสฺเสนฺโต  
+<span class="LineNumber"> 016 </span>		ตํ สุเขน สุขํ ลทฺธํ		ปสฺส ธมฺมสุธมฺมตํ  
+<span class="LineNumber"> 017 </span>		ติสฺโส วิชฺชา อนุปฺปตฺตา	กตํ พุทฺธสฺส สาสนนฺติ(๖)  
+<span class="LineNumber"> 018 </span>ทุติยคาถมาห ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  ตนฺติ  ยสฺสตฺถาย  สุทฺธึ  อเนฺวสนฺโต  ตสฺส  มคฺคํ
+<span class="LineNumber"> 020 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. อคฺคิหุต... ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. ปฺจตาปนปธานาทิ... ฯ  ๔. สี.  สฺาย ฯ 
+<span class="LineNumber"> 022 </span># ๕. สี. อคฺคิปริจรณาทิโต ฯ  ๖. ขุ. เถร. ๒๖/๓๐๗/๓๐๔ ฯ 

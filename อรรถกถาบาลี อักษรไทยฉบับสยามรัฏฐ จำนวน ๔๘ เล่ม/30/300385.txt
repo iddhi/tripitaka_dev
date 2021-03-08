@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  สุนขชาตกํ  หน้า  385
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อฏฺ€ิตํ  เม  มนสฺมึ  เมติ  ยํ  ตุมฺเห  กเถุํ  ตํ  
+<span class="LineNumber"> 003 </span>มยา  มนสฺมึ  อธิฏฺ€ิตเมว  มนสฺมึ  เยว  เม  เอตํ  อธิฏฺ€ิตนฺติ (๑) ฯ 
+<span class="LineNumber"> 004 </span>อโถ  เม  หทเย  กตนฺติ  อถ  ปน  เม  ตุมฺหากมฺปิ  วจนํ  
+<span class="LineNumber"> 005 </span>หทเย กตเมว ฯ  กาลฺจ  ปฏิกงฺขามีติ  กาลฺจ  ปฏิมาเนมิ ฯ 
+<span class="LineNumber"> 006 </span>ยาว  ปสุปตุชฺชโนติ  ยาวายํ  มหาชโน  ปสุปตุ  นิทฺทํ  โอกฺกมตุ 
+<span class="LineNumber"> 007 </span>ตาวาหํ กาลํ ปฏิมาเนมิ ฯ  อิตรถา  หิ อยํ สุนโข ปลายตีติ 
+<span class="LineNumber"> 008 </span>อตฺตโน มโนรโถ  อุปฺปชฺเชยฺย (๒) ตสฺมา  รตฺติภาเค สพฺเพสํ 
+<span class="LineNumber"> 009 </span>สุตฺตกาเล จมฺมโยตฺตํ ขาทิตฺวา ปลายิสฺสามีติ ฯ  
+<span class="LineNumber"> 010 </span>	โส  เอวํ  วตฺวา  มหาชเน  นิทฺทํ  โอกฺกมนฺเต  โยตฺตํ  
+<span class="LineNumber"> 011 </span>ขาทิตฺวา  สุหิโตว ปลายิตฺวา อตฺตโน สามิกานํ ฆรเมว 
+<span class="LineNumber"> 012 </span>คโต ฯ  
+<span class="LineNumber"> 013 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  ชาตกํ  สโมธาเนสิ ฯ 
+<span class="LineNumber"> 014 </span>ตทา  สุนโข เอตรหิ สุนโขว ปณฺฑิตปุริโส ปน อหเมวาติ ฯ  
+<span class="LineNumber"> 015 </span>			สุนขชาตกํ ทุติยํ ฯ  
+<span class="LineNumber"> 016 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. รดว อุปฺปชฺเชยฺย ฯ

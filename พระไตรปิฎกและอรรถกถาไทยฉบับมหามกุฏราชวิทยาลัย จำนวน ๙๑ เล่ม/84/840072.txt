@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าอัญญาตาวี,  ชื่อว่า   อัญญาตาวินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าอัญญาตาวินทรีย์,  ชื่อว่า  อัญญาตาวี  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>                             <I>ปทโสธนวาระ  อนุโลม  จบ</I>

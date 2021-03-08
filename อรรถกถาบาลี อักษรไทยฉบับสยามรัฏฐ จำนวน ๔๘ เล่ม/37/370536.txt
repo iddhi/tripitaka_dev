@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  536
+
+<span class="LineNumber"> 002 </span>		ตสฺสา สายณฺหกาลมฺหิ	อสฺสมาคมนํ ปติ  
+<span class="LineNumber"> 003 </span>		อตฺถงฺคตมฺหิ สุริเย	พาฬา ปนฺเถ อุปฏฺ€หุํ  
+<span class="LineNumber"> 004 </span>		นีเจ โวลมฺพเก สุริเย(๑)	ทูเร จ วต อสฺสโม  
+<span class="LineNumber"> 005 </span>		ยฺจ เนสํ อิโต หาสํ	ตนฺเต ภุฺเชยฺยุํ โภชนํ  
+<span class="LineNumber"> 006 </span>		โส นูน ขตฺติโย เอโก	ปณฺณสาลาย อจฺฉติ  
+<span class="LineNumber"> 007 </span>		โตเสนฺโต ทารเก ฉาเต	มมํ ทิสฺวา อนายตึ  
+<span class="LineNumber"> 008 </span>		เต นูน ปุตฺตกา มยฺหํ	กปณาย วรากิยา  
+<span class="LineNumber"> 009 </span>		สายํ สํเวสนากาเล		ขีรํ  ปีตาว(๒) อจฺฉเร  
+<span class="LineNumber"> 010 </span>		เต นูน ปุตฺตกา มยฺหํ	กปณาย วรากิยา  
+<span class="LineNumber"> 011 </span>		สายํ สํเวสนากาเล		วารึ ปีตาว(๓) อจฺฉเร  
+<span class="LineNumber"> 012 </span>		เต นูน ปุตฺตกา มยฺหํ	กปณาย วรากิยา  
+<span class="LineNumber"> 013 </span>		ปจฺจุคฺคตา มํ ติฏฺ€นฺติ	วจฺฉา พาลาว มาตรํ  
+<span class="LineNumber"> 014 </span>		เต นูน ปุตฺตกา มยฺหํ	กปณาย วรากิยา  
+<span class="LineNumber"> 015 </span>		ปจฺจุคฺคตา มํ ติฏฺ€นฺติ	หํสาวูปริปลฺลเล  
+<span class="LineNumber"> 016 </span>		เต นูน ปุตฺตกา มยฺหํ	กปณาย วรากิยา  
+<span class="LineNumber"> 017 </span>		ปจฺจุคฺคตา มํ ติฏฺ€นฺติ	อสฺสมสฺสาวิทูรโต  
+<span class="LineNumber"> 018 </span>		เอกายโน เอกปโถ		สรา โสพฺภา จ ปสฺสโต  
+<span class="LineNumber"> 019 </span>		อฺํ มคฺคํ น ปสฺสามิ	เยน คจฺเฉยฺย อสฺสมํ  
+<span class="LineNumber"> 020 </span>		มิคา นมตฺถุ ราชาโน	กานนสฺมึ มหพฺพลา  
+<span class="LineNumber"> 021 </span>		ธมฺเมน ภาตโร โหถ	มคฺคํ เม เทถ ยาจิตา  
+<span class="LineNumber"> 022 </span># ๑. ม. โจลมฺพเต สูริโย ฯ  ๒. ม. ขีรปีตาว ฯ
+<span class="LineNumber"> 023 </span># ๓. ม. วาริปีตาว ฯ 

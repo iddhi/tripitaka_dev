@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>๑๒.  อาเสวนปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๑๑๒๘] ๑.  <B>อาจยคามิธรรม เป็นปัจจัยแก่อาจยคามิธรรม 
+<span class="LineNumber"> 003 </span>ด้วยอำนาจของอาเสวนปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ  ขันธ์ทั้งหลายที่เป็นอาจยคามิธรรมที่เกิดก่อน ๆ เป็นปัจจัยแก่
+<span class="LineNumber"> 005 </span>ขันธ์ทั้งหลายที่เป็นอาจยคามิธรรมที่เกิดหลัง ๆ ด้วยอำนาจของอาเสวนปัจจัย.
+<span class="LineNumber"> 006 </span>           อนุโลม  เป็นปัจจัยแก่โคตรภู,  อนุโลม  เป็นปัจจัยแก่โวทาน  ด้วย
+<span class="LineNumber"> 007 </span>อำนาจของอาเสวนปัจจัย.
+<span class="LineNumber"> 008 </span>           [๑๑๒๙] ๒.  <B>อาจยคามิธรรม  เป็นปัจจัยแก่อปจยคามิธรรม
+<span class="LineNumber"> 009 </span>ด้วยอำนาจของอาเสวนปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  โคตรภู  เป็นปัจจัยแก่มรรค,  โวทานเป็นปัจจัยแก่มรรค  ด้วย
+<span class="LineNumber"> 011 </span>อำนาจของเสวนปัจจัย
+<span class="LineNumber"> 012 </span>           [๑๑๓๐] ๓.  <B>เนวาจคามินาปจยคามิธรรม  เป็นปัจจัยแก่เนวา-
+<span class="LineNumber"> 013 </span>จยคามินาปจยมิธรรม  ฯลฯ</B>
+<span class="LineNumber"> 014 </span>           คือ  ขันธ์ทั้งหลายที่เป็นเนวาจยคามินาปจยคามิธรรมที่เกิดก่อน ๆ เป็น
+<span class="LineNumber"> 015 </span>ปัจจัยแก่ขันธ์ทั้งหลายที่เป็นเนวาจยคามินาปจยคามิธรรมที่เกิดหลัง ๆ ด้วย
+<span class="LineNumber"> 016 </span>อำนาจของอาเสวนปัจจัย.
+
+<span class="LineNumber"> 017 </span>                                     <H1>๑๓.  กัมมปัจจัย</H1>
+<span class="LineNumber"> 018 </span>           [๑๑๓๑] ๑.  <B>อาจยคามิธรรม  เป็นปัจจัยแก่อาจยคามิธรรม
+<span class="LineNumber"> 019 </span>ด้วยอำนาจของกัมมปัจจัย</B>

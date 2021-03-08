@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๕  ปญฺจกนิปาตวณฺณนา  หน้า  ๑๒๒
+
+<span class="LineNumber"> 002 </span>	สตฺตเม  เนมิตฺตาติ  นิมิตฺตปา€กา ฯ  เตโชธาตุ  ปกุปฺปตีติ  
+<span class="LineNumber"> 003 </span>มหาอคฺคิกฺขนฺโธ อุปฺปชฺชติ ฯ ปาณินา อุทกํ ปฏิจฺฉิตฺวาติ(๑) อุปฺปนฺนํ 
+<span class="LineNumber"> 004 </span>อุตุสมุฏฺ€านํ อุทกํ  ติโยชนสเตน  หตฺเถน  ปฏิคฺคเหตฺวา ฯ  ปมตฺตา  
+<span class="LineNumber"> 005 </span>โหนฺตีติ  อตฺตโน กีฬายปมตฺตา  โหนฺติ  วิปฺปวุฏฺ€สติโน ฯ  
+<span class="LineNumber"> 006 </span>เตสฺหิ  สกาย  รติยา  รมามาติ จิตฺเต อุปฺปนฺเน  อกาเลปิ  
+<span class="LineNumber"> 007 </span>เทโว  วสฺสติ  ตทภาเว  น  วสฺสติ(๒) ฯ  ตํ  สนฺธาเยตํ  วุตฺตํ น 
+<span class="LineNumber"> 008 </span>กาเลปิ เทโว วสฺสตีติ ฯ (๓) 
+<span class="LineNumber"> 009 </span>					สตฺตมํ ฯ
+<span class="LineNumber"> 010 </span>	อฏฺ€มนวมานิ อุตฺตานตฺถาเนว ฯ  
+<span class="LineNumber"> 011 </span>				อฏฺฐมนวมานิ ฯ
+<span class="LineNumber"> 012 </span>	ทสเม  นิสฺสารณียาติ  นิสฺสฏา  วิสฺุตฺตา ฯ  ธาตุโยติ 
+<span class="LineNumber"> 013 </span>อตฺตสุฺสภาวา ฯ  กามํ  มนสิกโรโตติ  กามํ  มนสิกโรนฺตสฺส 
+<span class="LineNumber"> 014 </span>อสุภชฺฌานโต  วุฏฺ€าย  อคทํ  คเหตฺวา  วิสํ  วีมํสโต(๔) วิย 
+<span class="LineNumber"> 015 </span>วีมํสนตฺถํ กามาภิมุขํ จิตฺตํ  เปเสนฺตสฺสาติ อตฺโถ ฯ น  
+<span class="LineNumber"> 016 </span>ปกฺขนฺทตีติ  น  ปวิสติ ฯ  น  ปสีทตีติ  ปสาทํ  นาปชฺชติ ฯ  น  
+<span class="LineNumber"> 017 </span>สนฺติฏฺ€ตีติ น  ปติฏฺ€หติ ฯ น วิมุจฺจตีติ นาธิมุจฺจติ ฯ ยถา 
+<span class="LineNumber"> 018 </span>ปน กุกฺกุฏปตฺตํ  วา นฺหารุททฺทุลํ วา  อคฺคิมฺหิ  ปกฺขิตฺตํ  
+<span class="LineNumber"> 019 </span>ปฏิลียติ  ปฏิกุฏติ ปฏิวฏฺฏติ  น  สมฺปสารียติ  เอวํ ปฏิลียติ 
+<span class="LineNumber"> 020 </span>#๑. ม. สมฺปฏิจฺฉิตฺวา ฯ ๒. ม. ตทภาเว น วสฺสติ ฯ  ๓.ม. น กาลวสฺสนฺติ ฯ
+<span class="LineNumber"> 021 </span>#๔.ม. วีมํสนฺโต ฯ

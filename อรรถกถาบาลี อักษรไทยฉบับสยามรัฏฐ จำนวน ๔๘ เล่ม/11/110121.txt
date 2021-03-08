@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๑๒๑
+
+<span class="LineNumber"> 002 </span>				ทุติยอริยสาวกสุตฺตวณฺณนา          
+<span class="LineNumber"> 003 </span>	ทสเม  เทฺวปิ  นยา  เอกโต  วุตฺตา ฯ  อิทเมว  ปุริเมน  
+<span class="LineNumber"> 004 </span>นานตฺตํ   เสสํ ตาทิสเมวาติ ฯ 
+<span class="LineNumber"> 005 </span>				ทสมํ ฯ                 
+<span class="LineNumber"> 006 </span>			คหปติวคฺโค ปฺจโม ฯ           
+
+<span class="LineNumber"> 007 </span>				ปริวีมํสนสุตฺตวณฺณนา          
+<span class="LineNumber"> 008 </span>	ทุกฺขวคฺคสฺส  ป€เม  ปริวีมํสมาโนติ  อุปปริกฺขมาโน(๑) ฯ  
+<span class="LineNumber"> 009 </span>ชรามรณนฺติ  กสฺมา  ชรามรณํ  เอกเมว  อเนกวิธํ  นานปฺปการ-
+<span class="LineNumber"> 010 </span>กนฺติ  วตฺวา  คหิตนฺติ  เจ  ตสฺมึ  คหิเต  สพฺพทุกฺขสฺส 
+<span class="LineNumber"> 011 </span>คหิตตฺตา ฯ  ยถา  หิ  จูฬาย  คหิเต  ปุริเส  โส ปุริโส  
+<span class="LineNumber"> 012 </span>คหิโตว  โหติ  เอวํ  ชรามรเณ  คหิเต  สพฺพํ  ทุกฺขํ 
+<span class="LineNumber"> 013 </span>คหิตเมว  โหติ ฯ  ตสฺมา  ยํ  โข  อิทํ  อเนกวิธํ  นานปฺปการกํ  
+<span class="LineNumber"> 014 </span>ทุกฺขํ  โลเก  อุปฺปชฺชตีติ นฺหาตฺวา  (๒)  €ิตํ  ปุริสํ  วิย  สพฺพํ  
+<span class="LineNumber"> 015 </span>ทุกฺขํ ทสฺเสตฺวา ตํ จูฬาย คณฺหนฺโต วิย   ชรามรณํ 
+<span class="LineNumber"> 016 </span>คณฺหิ ฯ                   
+<span class="LineNumber"> 017 </span>	ชรามรณนิโรธสารุปฺปคามินีติ    ชรามรณนิโรธสฺส   สารุปฺ-
+<span class="LineNumber"> 018 </span>ปภาเวน  นิกฺกิเลสตาย  ปริสุทฺธตาย  สทิสาว หุตฺวา คามินีติ 
+<span class="LineNumber"> 019 </span>อตฺโถ ฯ ตถา ปฏิปนฺโน จ  โหตีติ ยถา  ตํ  ปฏิปนฺโนติ  
+<span class="LineNumber"> 020 </span># ๑. ม. อุปปริกฺขมาโน ฯ  ๒. ม. วตฺวา ฯ

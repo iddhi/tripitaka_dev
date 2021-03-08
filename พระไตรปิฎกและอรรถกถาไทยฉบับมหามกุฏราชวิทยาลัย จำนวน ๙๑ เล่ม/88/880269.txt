@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>๑๑.  รูปีทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                           <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 003 </span>                                         <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๒๕๕] ๑.  <B>รูปีธรรม อาศัยรูปีธรรม เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  มหาภูตรูป ๓ อาศัยมหาภูตรูป ๑ ฯลฯ มหาภูตรูป ๒ ฯลฯ
+<span class="LineNumber"> 006 </span>           จิตตสมุฏฐานรูป กฏัตตารูปที่เป็นอุปาทารูป อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 007 </span>                       ๒.  <B>อรูปีธรรม  อาศัยรูปีธรรม   เกิดขึ้น  เพราะเหตุ- 
+<span class="LineNumber"> 008 </span>ปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ  ในปฏิสนธิขณะ   ขันธ์ทั้งหลายที่เป็นอรูปีธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 010 </span>                       ๓.  <B>รูปีธรรม และอรูปีธรรม  อาศัยรูปีธรรม  เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ   ในปฏิสนธิขณะ  ขันธ์ทั้งหลายที่เป็นอรูปีธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 013 </span>กฏัตตารูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 014 </span>                       ๔.  <B>อรูปีธรรม  อาศัยอรูปีธรรม เกิดขึ้น เพราะเหตุ-
+<span class="LineNumber"> 015 </span>ปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์  ๑ ที่เป็นอรูปีธรรม ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 017 </span>           ในปฏิสนธิขณะ ฯลฯ

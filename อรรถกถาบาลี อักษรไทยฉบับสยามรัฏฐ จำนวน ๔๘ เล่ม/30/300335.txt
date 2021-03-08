@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  กามนีตชาตกํ  หน้า  335
+
+<span class="LineNumber"> 002 </span>เทวนครํ  ยุชฺฌิตฺวา  ทุคฺคณฺหตาย  ทุจฺจลนตาย  สุทสฺสนคิรีติ 
+<span class="LineNumber"> 003 </span>วุตฺตํ  เอวมิธาปิ  ตีณิ  นครานิ  ตโย  คิรินฺติ  อธิปฺเปตานิ 
+<span class="LineNumber"> 004 </span>ตสฺมา  อยเมตฺถ  อตฺโถ ฯ  ตีณิ  ปน  นครานิ  เตสฺจ  อนฺตรํ 
+<span class="LineNumber"> 005 </span>ติวิธมฺปิ  รฏฺ€ํ  กามยามิ ฯ  ปฺจาโล  กุรุโย  เกกเก  จาติ  อิมานิ 
+<span class="LineNumber"> 006 </span>เตสํ  รฏฺ€านํ  นามานิ  เตสุ  ปฺจาโล (๑) อุตฺตรปฺจาโล ฯ 
+<span class="LineNumber"> 007 </span>ตตฺถ  กปิลํ  นาม  นครํ ฯ  กุรุโยติ  กุรุรฏฺ€ํ ฯ  ตตฺถ  
+<span class="LineNumber"> 008 </span>อินฺทปตฺตํ  นาม  นครํ ฯ  เกกเก  จาติ (๒) ปจฺจตฺเต  อุปโยควจนํ ฯ
+<span class="LineNumber"> 009 </span>เตน  เกกกรฏฺ€ํ (๓) ทสฺเสติ ฯ  ตตฺถ  เกกกราชธานี  เยว  นครํ ฯ  
+<span class="LineNumber"> 010 </span>ตตุตฺตรินฺติ  ตํ  อหํ  อิโต  ปฏิลทฺธา  พาราณสิรชฺชา  ตตุตฺตรึ 
+<span class="LineNumber"> 011 </span>ติวิธํ  รชฺชํ  กามยามิ ฯ  ติกิจฺฉ  มํ  พฺราหฺมณ  กามนีตนฺติ  
+<span class="LineNumber"> 012 </span>อิเมหิ  วตฺถุกาเมหิ  จ  กิเลสกาเมหิ  จ  นีตํ  หตํ  ปหตํ สเจ 
+<span class="LineNumber"> 013 </span>สกฺโกสิ  ติกิจฺฉ มํ พฺราหฺมณาติ ฯ  
+<span class="LineNumber"> 014 </span>	อถ  นํ  สกฺโก  มหาราช  ตฺวํ  มูโลสธาทีหิ  อเตกิจฺโฉ  
+<span class="LineNumber"> 015 </span>าโณสเธเนว ติกิจฺฉิตพฺโพติ วตฺวา ทุติยํ คาถมาห  
+<span class="LineNumber"> 016 </span>	[๓๐๖]	กณฺหาหิ ทฏฺ€สฺส กโรนฺติ เหเก  
+<span class="LineNumber"> 017 </span>			อมนุสฺสวิฏฺ€สฺส (๔) กโรนฺติ ปณฺฑิตา  
+<span class="LineNumber"> 018 </span>			น กามนีตสฺส กโรติ โกจิ  
+<span class="LineNumber"> 019 </span>			โอกฺกนฺตสุกฺกสฺส หิ กา ติกิจฺฉาติ ฯฎ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  กณฺหาหิ  ทฏฺ€สฺส  กโรนฺติ  เหเกติ  เอกจฺเจ  หิ 
+<span class="LineNumber"> 021 </span># ๑. ม. ปฺจาลาติ ฯ  ๒. สี. เกกเย จาติ ฯ  ๓. สี. เกกยรฏฺ€ํ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. อมุสิสปวิฏฺจสิส ฯ  อมุสฺสวทฺธสิสาติปิ ฯ

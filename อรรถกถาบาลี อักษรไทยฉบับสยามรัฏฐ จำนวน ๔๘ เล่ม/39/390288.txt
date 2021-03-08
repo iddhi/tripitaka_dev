@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 39  จูฬนิทฺเทสวณฺณนา  หน้า  288
+
+<span class="LineNumber"> 002 </span>อาลปนฺโต อาห ฯ  
+<span class="LineNumber"> 003 </span>	นิทฺเทเส  สเมจฺจาติ  ชานิตฺวา  เอกโต  หุตฺวา  วา ฯ  
+<span class="LineNumber"> 004 </span>อภิสเมจฺจาติ  ปฏิวิชฺฌิตฺวา ฯ  สมาคนฺตฺวาติ  สมฺมุขา  หุตฺวา ฯ
+<span class="LineNumber"> 005 </span>อภิสมาคนฺตฺวาติ สมีปํ คนฺตฺวา ฯ สมฺมุขาติ สมฺมุเข ฯ อาคุํ 
+<span class="LineNumber"> 006 </span>น กโรตีติ ปาปํ น กโรติ ฯ  
+<span class="LineNumber"> 007 </span>	อิทานิ  นํ  ภควา  อทฺธา  หิ  ภควา  ปหาสิ  ทุกฺขนฺติ  
+<span class="LineNumber"> 008 </span>เอวํ  เตน  พฺราหฺมเณน  วิทิโตปิ  อตฺตานํ  อนูปเนตฺวา  ว 
+<span class="LineNumber"> 009 </span>ปหีนทุกฺเขน  ปุคฺคเลน โอวทนฺโต  ยํ  พฺราหฺมณนฺติ  คาถมาห ฯ  
+<span class="LineNumber"> 010 </span>ตสฺสตฺโถ  ยนฺตํ  อภิชานนฺโต  อยํ  พาหิตปาปตฺตา  พฺราหฺมโณ
+<span class="LineNumber"> 011 </span>เวเทหิ  คตตฺตา  เวทคู  กิฺจนาภาวา  (๑)  อกิฺจโน  กาเมสุ  จ 
+<span class="LineNumber"> 012 </span>ภเวสุ  จ  อสตฺตตฺตา  กามภเว  อสตฺโตติ  ชฺา  ชาเนยฺยาสิ ฯ 
+<span class="LineNumber"> 013 </span>อทฺธา  หิ  โส  โอฆมิมํ  อตาริ  ติณฺโณ  จ  ปารํ  อขิโล  
+<span class="LineNumber"> 014 </span>อกงฺโข ฯ  
+<span class="LineNumber"> 015 </span>	นิทฺเทเส ตตฺถ (๒) ราคกิฺจนนฺติ  ราคปลิโพธํ ฯ  โทส-
+<span class="LineNumber"> 016 </span>กิฺจนนฺติอาทีสุปิ  (๓)  เอเสว นโย ฯ  กาโมฆํ  ติณฺโณ  อนาคามิ-
+<span class="LineNumber"> 017 </span>มคฺเคน ฯ  ภโวฆํ  ติณฺโณ  อรหตฺตมคฺเคน ฯ  ทิฏฺโ€ฆํ  ติณฺโณ
+<span class="LineNumber"> 018 </span>โสตาปตฺติมคฺเคน ฯ  อวิชฺโชฆํ  ติณฺโณ  อรหตฺตมคฺเคน ฯ  สพฺพํ (๔) 
+<span class="LineNumber"> 019 </span>สํสารปถํ  ติณฺโณ  กุสลากุสลกมฺมสฺส  เฉเทนาติ ฯ  (๕)  อุตฺติณฺโณ 
+<span class="LineNumber"> 020 </span># ๑. ม. กิฺจนาภาวา ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม.  ...อาทิปิ ฯ  ๔. ม. อยํ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. กุสลากุสลกมฺมปฺปเภเทนาติ ฯ 

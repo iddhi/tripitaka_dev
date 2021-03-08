@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>สเหตุกธรรมที่เป็นเหตุธรรม   เป็นปัจจัยแก่ธรรม 
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่สเหตุกธรรม  ที่ไม่ใช่นเหตุธรรม  ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 003 </span>ปัจจัย</B>  
+<span class="LineNumber"> 004 </span>                       ๓.  <B>สเหตุกธรรมที่เป็นเหตุธรรม  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 005 </span>ที่ไม่ใช่สเหตุกธรรม   ที่เป็นนเหตุธรรม   และธรรมที่ไม่ใช่สเหตุก-
+<span class="LineNumber"> 006 </span>ธรรม  ที่ไม่ใช่นเหตุธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>            
+<span class="LineNumber"> 007 </span>                       ๔.  <B>สเหตุกรรมที่เป็นนเหตุธรรม เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 008 </span>ที่ไม่ใช่สเหตุกธรรม   ที่ไม่ใช่นเหตุธรรม  ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 009 </span>ปัจจัย</B>                                                        
+<span class="LineNumber"> 010 </span>                       ๕.  <B>สเหตุกธรรมที่เป็นนเหตุธรรม เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 011 </span>ที่ไม่ใช่สเหตุกธรรม  ที่เป็นนเหตุธรรม  ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 012 </span>ปัจจัย</B>
+<span class="LineNumber"> 013 </span>                       ๖.  <B>สเหตุกธรรมาที่เป็นนเหตุธรรม  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 014 </span>ที่ไม่ใช่สเหตุกธรรม   ที่เป็นนเหตุธรรม   และธรรมที่ไม่ใช่สเหตุก-
+<span class="LineNumber"> 015 </span>ธรรม  ที่ไม่ใช่นเหตุธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+
+<span class="LineNumber"> 016 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 017 </span>           [๙๐๔]  ในเหตุปัจจัย  มี ๑ วาระ     ในอารัมมณปัจจัย  มี  ๖ วาระ
+<span class="LineNumber"> 018 </span>ในอธิปติปัจจัย มี ๒ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 019 </span>           ปัญหาวาระพึงให้พิสดาร.

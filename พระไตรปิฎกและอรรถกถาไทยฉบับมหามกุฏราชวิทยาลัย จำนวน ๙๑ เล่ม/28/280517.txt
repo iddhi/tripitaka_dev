@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>  
+<span class="LineNumber"> 002 </span>            ๑.  อาสีวิสสูตร  ๒.  รถสูตร  ๓. กุมมสูตร  ๔. ปฐมทารุขันธสูตร
+<span class="LineNumber"> 003 </span>๕.  ทททุติยทารุขันธสูตร  ๖. อวัสสุตสูตร  ๗. ทุกขธรรมสูตร  ๘. กึสุกสูตร
+<span class="LineNumber"> 004 </span>๙. วีณาสูตร  ๑๐. ฉัปปาณสูตร  ๑๑. ยวกลาปิสูตร  ๑๒. เทวาสุรสัง-
+<span class="LineNumber"> 005 </span>คามสูตร.
+
+<span class="LineNumber"> 006 </span>               <H2>รวมวรรคที่มีในจตุตถปัณณาสก์  คือ</H2>
+<span class="LineNumber"> 007 </span>            ๑. นันทิขยวรรค  ๒. สัฏฐินยวรรค  ๓. สมุททวรรค  ๔. อาสี-
+<span class="LineNumber"> 008 </span>วีสวรรค.
+<span class="LineNumber"> 009 </span>		<I>จบ  จตุตถปัณณาสก์
+<span class="LineNumber"> 010 </span>		  จบ  สฬายตนสังยุต</I>

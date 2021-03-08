@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>อาหาร ๓ ในอรูปธาตุ</B>  เป็นไฉน ?  
+<span class="LineNumber"> 002 </span>           คือ   ผัสสาหาร   มโนสัญเจตนาหาร   วิญญาณาหาร   เหล่านี้เรียกว่า
+<span class="LineNumber"> 003 </span><B>อาหาร ๓ ในอรูปธาตุ.</B>                        
+<span class="LineNumber"> 004 </span>           <B>ผัสสะ ๑  ในอรูปธาตุ</B>  เป็นไฉน ?
+<span class="LineNumber"> 005 </span>           คือ  มโนวิญญาณธาตุสัมผัส  นี้เรียกว่า  <B>ผัสสะ ๑ ในอรูปธาตุ.</B>
+<span class="LineNumber"> 006 </span>           <B>เวทนา ๑  สัญญา  ๑  เจตนา ๑  จิต ๑  ในอรูปธาตุ</B>  เป็นไฉน 
+<span class="LineNumber"> 007 </span>           คือ  มโนวิญญาณธาตุ   นี้เรียกว่า  <B>จิต ๑   ในอรูปธาตุ.</B>
+
+<span class="LineNumber"> 008 </span>                                              <H1>โลกุตตระ</H1>
+<span class="LineNumber"> 009 </span>           [๑๐๙๐]  <B>ในโลกุตตระ  มีขันธ์เท่าไร ฯ ล ฯ  มีจิตเท่าไร.</B>
+<span class="LineNumber"> 010 </span>           ในโลกุตตระ  มีขันธ์ ๔  อายตนะ ๒  ธาตุ ๒  สัจจะ ๒ อินทรีย์ ๑๒
+<span class="LineNumber"> 011 </span>เหตุ ๖   อาหาร ๓   ผัสสะ ๑   เวทนา ๑   สัญญา ๑   เจตนา ๑   จิต  ๑.
+<span class="LineNumber"> 012 </span>           บรรดาธรรมเหล่านั้น  <B>ขันธ์ ๔ ในโลกุตตระ</B>  เป็นไฉน ?
+<span class="LineNumber"> 013 </span>           คือ  เวทนาขันธ์  สัญญาขันธ์  สังขารขันธ์   วิญญาณขันธ์   เหล่านี้
+<span class="LineNumber"> 014 </span>เรียกว่า <B>ขันธ์  ๔ ในโลกุตตระ.</B>
+<span class="LineNumber"> 015 </span>           <B>อายตนะ ๒ ในโลกุตตระ</B>  เป็นไฉน ?
+<span class="LineNumber"> 016 </span>           คือ   มนายตนะ    ธัมมายตนะ    เหล่านี้เรียกว่า    อายตนะ ๒ ใน
+<span class="LineNumber"> 017 </span>โลกุตตระ.
+<span class="LineNumber"> 018 </span>           <B>ธาตุ ๒ ในโลกุตตระ</B>  เป็นไฉน ?
+<span class="LineNumber"> 019 </span>           คือ มโนวิญญาณธาตุ ธัมมธาตุ เหล่านั้นเรียกว่า <B>ธาตุ ๒ ในโลกุตตระ.</B>
+<span class="LineNumber"> 020 </span>           <B>สัจจะ ๒ ในโลกุตตระ</B>  เป็นไฉน ? 
+<span class="LineNumber"> 021 </span>           คือ  มัคคสัจจะ  นิโรธสัจจะ เหล่านี้เรียกว่า <B>สัจจะ ๒ ในโลกุตตระ.</B>

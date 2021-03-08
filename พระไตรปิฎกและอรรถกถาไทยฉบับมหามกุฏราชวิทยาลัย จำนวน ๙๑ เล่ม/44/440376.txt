@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>ยอดแห่งอนุปาทิเสสนิพพานธาตุ    จึงให้มหาอุทานนี้จบลง   ด้วยประการ  
+<span class="LineNumber"> 002 </span>ฉะนี้.
+<span class="LineNumber"> 003 </span>		  	     <I>จบอรรถกถาโลกสูตรที่  ๑๐
+<span class="LineNumber"> 004 </span>			      จบนันทวรรควรรณนาที่  ๓</I>                                              
+<span class="LineNumber"> 005 </span>			    รวมพระสูตรที่มีในวรรคนี้  คือ
+<span class="LineNumber"> 006 </span>         	๑. กรรมสูตร   ๒. นันทสูตร   ๓.  ยโสชสูตร   ๔.  สารีปุตตสูตร
+<span class="LineNumber"> 007 </span>๕. โกลิตสูตร ๖.  ปิลินทวัจฉสูตร  ๗. มหากัสสปสูตร   ๘. ปิณฑปาตสูตร
+<span class="LineNumber"> 008 </span>๙. สิปปสูตร     ๑๐.  โลกสูตร  และอรรถกถา

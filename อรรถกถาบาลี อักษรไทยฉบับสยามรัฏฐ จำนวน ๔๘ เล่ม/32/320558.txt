@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  มหาธมฺมปาลชาตกํ  หน้า 558
+		
+<span class="LineNumber"> 002 </span>	[๑๔๑๒]สุโณม ธมฺมํ อสตํ สตฺจ  
+<span class="LineNumber"> 003 </span>		น จาปิ ธมฺมํ อสตํ โรจยาม  
+<span class="LineNumber"> 004 </span>		หิตฺวา อสนฺเต น ชหาม สนฺเต  
+<span class="LineNumber"> 005 </span>		ตสฺมา หิ อมฺหํ ทหรา น มิยฺยเร ฯ  
+<span class="LineNumber"> 006 </span>	[๑๓๑๓]ปุพฺเพ ปธานา(๑) สุมนา ภวาม  
+<span class="LineNumber"> 007 </span>		ททํปิ เว อตฺตมนา ภวาม  
+<span class="LineNumber"> 008 </span>		ทตฺวาปิ เว นานุตปฺปาม ปจฺฉา  
+<span class="LineNumber"> 009 </span>		ตสฺมา หิ อมฺหํ ทหรา น มิยฺยเร ฯ  
+<span class="LineNumber"> 010 </span>	[๑๔๑๔]สมเณ มยํ พฺราหฺมเณ อทฺธิเก จ  
+<span class="LineNumber"> 011 </span>		วณิพฺพเก ยาจนเก ทลิทฺเท  
+<span class="LineNumber"> 012 </span>		อนฺเนน ปาเนน อภิตปฺปยาม  
+<span class="LineNumber"> 013 </span>		ตสฺมา หิ อมฺหํ ทหรา น มิยฺยเร ฯ  
+<span class="LineNumber"> 014 </span>	[๑๔๑๕]มยฺจ ภริยํ นาติกฺกมาม  
+<span class="LineNumber"> 015 </span>		อมฺเห จ ภริยา(๒) นาติกฺกมนฺติ  
+<span class="LineNumber"> 016 </span>		อฺตฺร ตาหิ พฺรหฺมจริยํ จราม  
+<span class="LineNumber"> 017 </span>		ตสฺมา หิ อมฺหํ ทหรา น มิยฺยเร ฯ  
+<span class="LineNumber"> 018 </span>	[๑๔๑๖]ปาณาติปาตา วิรมาม สพฺเพ  
+<span class="LineNumber"> 019 </span>		โลเก อทินฺนํ ปริวชฺชยาม  
+<span class="LineNumber"> 020 </span># ๑. ม. ปุพฺเพว ทานา ฯ  ๒. ส. ภริยาปิ อเมฺห ฯ 

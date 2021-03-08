@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                      <h1>๔.  อัทธานสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                 <h2>ประพฤติพรหมจรรย์เพื่อกำหนดรู้สังสารวัฏ</h2>
+<span class="LineNumber"> 003 </span>	[๑๒๒]   . . . ดูก่อนผู้มีอายุทั้งหลาย    เราทั้งหลายอยู่ประพฤติพรหม-
+<span class="LineNumber"> 004 </span>จรรย์ในพระผู้มีพระภาคเจ้า   เพื่อกำหนดรู้สังสารวัฏอันยืดยาว   ฯลฯ
+<span class="LineNumber"> 005 </span>                                     <I>จบอัทธานสูตรที่  ๓</I>
+
+<span class="LineNumber"> 006 </span>                                          <h1> ๕.   อาสวสูตร</h1>
+
+<span class="LineNumber"> 007 </span>                       <h2>ประพฤติพรหมจรรย์เพื่อสิ้นอาสวะ</h2>
+<span class="LineNumber"> 008 </span>	[๑๒๓]  . . .ดูก่อนผู้มีอายุทั้งหลาย   เราทั้งหลายอยู่ประพฤติพรหม-
+<span class="LineNumber"> 009 </span>จรรย์ในพระผู้มีพระภาคเจ้า   เพื่อความสิ้นอาสวะ   ฯลฯ
+<span class="LineNumber"> 010 </span>            	                      <I>จบอาสวสูตรที่  ๕</I>
+
+<span class="LineNumber"> 011 </span>                                    <h1> ๖.   วิชชาวิมุตติสูตร</h1>
+
+<span class="LineNumber"> 012 </span>       <h2> ประพฤติพรหมจรรย์เพื่อทำให้แจ้งซึ่งวิชชาและวิมุตติ</h2>
+<span class="LineNumber"> 013 </span>	[๑๒๔]   . . . ดูก่อนผู้มีอายุทั้งหลาย   เราทั้งหลายอยู่ประพฤติพรหม-
+<span class="LineNumber"> 014 </span>จรรย์ในพระผู้มีพระภาคเจ้า  เพื่อกระทำให้แจ้งซึ่งผลแห่งวิชชา  และวิมุตติ ฯลฯ
+<span class="LineNumber"> 015 </span>                                     <I>จบวิชชาวิมุตติสูตรที่  ๖</I>

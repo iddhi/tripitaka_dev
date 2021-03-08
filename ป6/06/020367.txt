@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>[๒๔๗]  ถ้าเป็นของที่ไม่อาจสำรอกสีได้,  พึงให้กระทำเป็นผ้าปูลาด 
+<span class="LineNumber"> 002 </span>หรือพึงแทรกไว้ในท่ามกลางจีวรสองชั้น.
+<span class="LineNumber"> 003 </span>           ความเป็นต่างๆ  กันแห่งสีของจีวรเหล่านั้น  มีนัยดังกล่าวแล้ว
+<span class="LineNumber"> 004 </span>ในรองเท้านั่นแล.
+<span class="LineNumber"> 005 </span>           ผ้าทั้งหลายที่มีชายไม่ได้ตัดและมีชายยาว พึงตัดชายเสียแล้ว
+<span class="LineNumber"> 006 </span>จึงใช้.
+<span class="LineNumber"> 007 </span>           ภิกษุได้เสื้อแล้วเลาะออกย้อมใช้  ย่อมควร.  แม้ในผ้าโพกก็นัย
+<span class="LineNumber"> 008 </span>นี้แล.
+<span class="LineNumber"> 009 </span>           ส่วนหมวกเป็นของที่ทำด้วยเปลือกไม้  จะทำหมวกนั้น  ให้เป็น
+<span class="LineNumber"> 010 </span>ของสำหรับเช็ดเท้าก็ควร.
+<span class="LineNumber"> 011 </span>                             [ว่าด้วยผู้ควรรับจีวรเป็นต้น]
+<span class="LineNumber"> 012 </span>           สองบทว่า  <B>ปฏิรูเป  คาหเก</B>  มีความว่า  ถ้าภิกษุบางรูปรับเอา
+<span class="LineNumber"> 013 </span>ด้วยกล่าวว่า  "เรารับแทนภิกษุนั้น,"  พึงให้,  ด้วยประการอย่างนี้แล
+<span class="LineNumber"> 014 </span>บรรดาบุคคลยี่สิบสามคนเหล่านั้น  ไม่ได้สิบหกคน  ได้เจ็ดคน
+<span class="LineNumber"> 015 </span>ฉะนี้แล.
+<span class="LineNumber"> 016 </span>           สองบทว่า  <B>สงฺโฆ  ภิชฺชติ</B>  มีความว่า  ภิกษุทั้งหลายแตกกัน
+<span class="LineNumber"> 017 </span>เป็นสองฝ่าย  เหมือนภิกษุชาวเมืองโกสัมพี.
+<span class="LineNumber"> 018 </span>           สองบทว่า  <B>เอกสฺมึ  ปกฺเข</B>  มีความว่า  ชนทั้งหลายถวายน้ำ
+<span class="LineNumber"> 019 </span>ทักขิโณทก  และวัตถุมีของหอมเป็นต้นในฝ่ายหนึ่ง,  ถวายจีวรใน
+<span class="LineNumber"> 020 </span>ฝ่ายหนึ่ง.
+<span class="LineNumber"> 021 </span>           บทว่า  <B>สงฺฆสฺเสวตํ</B>  มีความว่า  จีวรนั้น  ย่อมเป็นของสงฆ์
+

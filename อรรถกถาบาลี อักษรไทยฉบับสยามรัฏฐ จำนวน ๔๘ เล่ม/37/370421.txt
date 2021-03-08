@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 421
+
+<span class="LineNumber"> 002 </span>		ยทา โมรีหิ ปริกิณฺณํ	นีลคีวํ สิขิณฺฑินํ (๑) 
+<span class="LineNumber"> 003 </span>		โมรํ ทกฺขสิ นจฺจนฺตํ	น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 004 </span>		ยทา ทกฺขสิ เหมนฺเต	ปุปฺผิเต ธรณีรุเห  
+<span class="LineNumber"> 005 </span>		สุรภิสมฺปวายนฺเต(๒)	น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 006 </span>		ยทา เหมนฺตเก มาเส	หริตํ ทกฺขสิ เมทนึ  
+<span class="LineNumber"> 007 </span>		อินฺทโคปกสฺฉนฺนํ	น รชฺสฺส สริสฺสสิ  
+<span class="LineNumber"> 008 </span>		ยทา ทกฺขสิ เหมนฺเต	ปุปฺผิเต ธรณีรุเห  
+<span class="LineNumber"> 009 </span>		กุฏชํ พิมฺพชาลฺจ		ปุปฺผิตํ โลทฺทปทมกํ  
+<span class="LineNumber"> 010 </span>		สุรภิสมฺปวายนฺเต		น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 011 </span>		ยทา เหมนฺตเก มาเส	วนํ ทกฺขสิ ปุปฺผิตํ  
+<span class="LineNumber"> 012 </span>		โอปุปฺผานิ [๓]ปทุมานิ	น รชฺชสฺส สริสฺสสีติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  มฺชุเกติ  มธุรสเร  มธุรกเถ ฯ  กเรณุสงฺฆสฺสาติ  
+<span class="LineNumber"> 014 </span>หตฺถินีฆฏาย ฯ  ยูถสฺสาติ  หตฺถิยูถสฺส  ปุรโต[๔]  คจฺฉนฺโต ฯ 
+<span class="LineNumber"> 015 </span>อุภโตติ  อุภโต(๕)  มคฺคสฺส ฯ  วนวิกาเสติ  วนฆฏาโย ฯ  กามทนฺติ
+<span class="LineNumber"> 016 </span>มยฺหํ  สพฺพกามททํ ฯ  สินฺธุยาติ  นทิยา ฯ  วสมานสฺสุลูกสฺสาติ  
+<span class="LineNumber"> 017 </span>อุลูกสกุณสฺส  วสโต ฯ  พาฬานนฺติ  พาฬมิคานํ ฯ  เตสํ  หิ  
+<span class="LineNumber"> 018 </span>สายณฺหสมเย  โส  สทฺโท  ปฺจางฺคิกตุริยสทฺโท  วิย ภวิสฺสติ 
+<span class="LineNumber"> 019 </span>ตสฺมา เตสํ  สทฺทํ  สุตฺวา  น  รชฺชสฺส  สริสฺสสีติ  วทติ ฯ 
+<span class="LineNumber"> 020 </span># ๑. ส. ม. สิขณฺฑินํ ฯ  ๒. ม. สุรภึ สมฺปวายนฺเต ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. เอตฺถนฺตเร จสทฺโท อตฺถิ ฯ  ๔. ม. เอตฺถนฺตเร วชนฺโตติ
+<span class="LineNumber"> 022 </span># ทิสฺสติ ฯ  ๕. ม. อุภยปสฺเสสุ ฯ

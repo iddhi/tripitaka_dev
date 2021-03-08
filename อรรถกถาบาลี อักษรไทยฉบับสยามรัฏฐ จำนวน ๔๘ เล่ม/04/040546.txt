@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  ๔  โลหิจฺจสุตฺตวณฺณนา  หน้า  ๕๔๕  
+
+<span class="LineNumber"> 002 </span>เยน  ตฺวํ  โอสกฺกนฺติยา  อุสฺสกฺกนฺโต  วิย  ปรมฺมุขึ  อาลิงฺเคนฺโต  
+<span class="LineNumber"> 003 </span>วิย  อโหสีติปิ  ตํ โจทนํ (๑)  อรหติ  ฯ  กึ  หิ  ปโร  ปรสฺส  กริสฺสตีติ  
+<span class="LineNumber"> 004 </span>เยน  ธมฺเมน  ปรํ (๒)  อนุสาสิ  อตฺตานเมว  ตาว  ตตฺถ  สมฺปาเทหิ  
+<span class="LineNumber"> 005 </span>อุชุํ  กโรหิ  กึ  หิ  ปโร  ปรสฺส  กริสฺสตีติ  โจทนํ  อรหติ  ฯ  
+<span class="LineNumber"> 006 </span>	นิทฺทายิตพฺพนฺติ  สสฺสทูสกานิ (๓)  ติณานิ  อุปฺปาเฏตฺวา  
+<span class="LineNumber"> 007 </span>ปริสุทฺธํ  กาตพฺพํ  ฯ  
+<span class="LineNumber"> 008 </span>	ตติยโจทนาย  กึ  หิ  ปโร  ปรสฺสาติ  อนุสาสนํ  
+<span class="LineNumber"> 009 </span>อสมฺปฏิจฺฉนกาลโต (๔)  ปฏฺ€าย  ปโร  อนุสาสิตพฺโพ  ปรสฺส  
+<span class="LineNumber"> 010 </span>อนุสาสกสฺส  กึ  กริสฺสตีติ  ฯ  นนุ  ตตฺถ  อปฺโปสฺสุกฺกตํ (๕)  
+<span class="LineNumber"> 011 </span>อาปชฺชิตฺวา  อตฺตนา  ปฏิวิทฺธธมฺมํ  อตฺตนาว  มาเนตฺวา  ปูเชตฺวา  
+<span class="LineNumber"> 012 </span>วิหาตพฺพนฺติ  เอวํ  โจทนํ  อรหตีติ  อตฺโถ  ฯ  
+
+<span class="LineNumber"> 013 </span>				นโจทนารหสตฺถุวณฺณนา  
+<span class="LineNumber"> 014 </span>	น  โจทนารโหติ  อยํ  หิ  ยสฺมา  ป€มเมว  อตฺตานํ  
+<span class="LineNumber"> 015 </span>ปฏิรูเป  ปติฏฺ€เปตฺวา (๖)  สาวกานํ  ธมฺมํ  เทเสติ  สาวกา  จสฺส  
+<span class="LineNumber"> 016 </span>อสฺสวา  หุตฺวา  ยถานุสิฏฺ€ํ  ปฏิปชฺชนฺติ  ตาย  จ   ปฏิปตฺติยา  
+<span class="LineNumber"> 017 </span>มหนฺตํ  วิเสสมธิคจฺฉนฺติ  ตสฺมา  น  โจทนารโหติ  ฯ  
+<span class="LineNumber"> 018 </span>	นรกปปาตํ  ปปตนฺโตติ  มยา  คหิตาย  ทิฏฺ€ิยา  อหํ  
+<span class="LineNumber"> 019 </span># ๑. ม. ตํ โจทนํ ฯ  ๒. ม. ปเร ฯ  ๓. ม. สสฺสรูปกานิ ฯ  ๔. ม. 
+<span class="LineNumber"> 020 </span># อสมฺปฏิจฺฉนกาลโต ฯ  ๕. ม. อปฺโปสฺสุกฺกตํ ฯ  ๖. ม. ปติฏฺฐาเปตฺวา ฯ  
+<span class="LineNumber"> 021 </span># ๗. ม. ปปตนฺโตติ ฯ  

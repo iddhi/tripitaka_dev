@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ปฺจกนิปาตวณฺณนา  หน้า  98  
+
+<span class="LineNumber"> 002 </span>	โลกเชฏฺโ€  จ  นิมฺมาโน  	อนฺธานํ  นยนูปโม  
+<span class="LineNumber"> 003 </span>	สนฺตเวโส  คุณนิธิ  			กรุณามติสาคโร ฯ  
+<span class="LineNumber"> 004 </span>	ส  กทาจิ  มหาวีโร  			พฺรหฺมาสุรสุรจฺจิโต (๑) 
+<span class="LineNumber"> 005 </span>	สเทวมนุชากิณฺเณ (๒) 		ชนมชฺเฌ  ชินุตฺตโม. (๓)  
+<span class="LineNumber"> 006 </span>	วทเนน  สุคนฺเธน  			มธุเรน  รุเตน (๔) จ  
+<span class="LineNumber"> 007 </span>	รฺชยํ  ปริสํ  สพฺพํ  		สนฺถวี  สาวกํ  สกํ ฯ  
+<span class="LineNumber"> 008 </span>	สทฺธาธิมุตฺโต  สุมติ  		มม  ทสฺสนลาลโส  
+<span class="LineNumber"> 009 </span>	นตฺถิ  เอตาทิโส  อฺโ  		ยถายํ  ภิกฺขุ  วกฺกลิ ฯ  
+<span class="LineNumber"> 010 </span>	ตทาหํ  หํสวติยํ  			นคเร  พฺราหฺมณตฺรโช  
+<span class="LineNumber"> 011 </span>	หุตฺวา  สุตฺวา  จ  ตํ  วากฺยํ  	ตํ  €านมภิโรจยึ ฯ  
+<span class="LineNumber"> 012 </span>	สสาวกํ  ตํ  วิมลํ  			นิมนฺเตตฺวา  ตถาคตํ  
+<span class="LineNumber"> 013 </span>	สตฺตาหํ  โภชยิตฺวาน  		ทุสฺเสหจฺฉาทยึ  ตทา ฯ  
+<span class="LineNumber"> 014 </span>	นิปจฺจ  สิรสา  ตสฺส  		อนนฺตคุณสาคเร  
+<span class="LineNumber"> 015 </span>	นิมุคฺโค  ปีติสมฺปุณฺโณ  		อิทํ  วจนมพฺรวึ ฯ  
+<span class="LineNumber"> 016 </span>	โย  โส  ตยา  สนฺถวิโต  		อิโต  สตฺตมเก  มุนิ (๕)  
+<span class="LineNumber"> 017 </span>	ภิกฺขุ  สทฺธาวตํ  อคฺโค  		ตาทิโส  โหมหํ  มุเน ฯ (๖)  
+<span class="LineNumber"> 018 </span>	เอวํ  วุตฺเต  มหาวีโร  		อนาวรณทสฺสโน  
+<span class="LineNumber"> 019 </span>	อิมํ  วากฺยํ  อุทีเรสิ  			ปริสาย  มหามุนิ ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. พฺรหฺมาสุราสุรอจฺฉิโต  ฯ  ยุ. พฺรหฺมาสุรจฺจิโต  ฯ
+<span class="LineNumber"> 021 </span>#๒.  ยุ. สเทวมนุชากิณฺโณ  ฯ  ๓.  สฺยา. ชนุตฺตโม  ฯ  ๔.  สฺยา.
+<span class="LineNumber"> 022 </span>#สุเตน  ฯ  ๕.  สฺยา. อิธ  สทฺธาธิมุตฺโต  อิสิ  ฯ  ยุ. สตฺตเมเกหนิ  ฯ  
+<span class="LineNumber"> 023 </span>#๖.  สฺยา. ตาทิโสหํ  มหามุนิ  ฯ  ๗.  สฺยา. อุทีรยิ  ฯ  

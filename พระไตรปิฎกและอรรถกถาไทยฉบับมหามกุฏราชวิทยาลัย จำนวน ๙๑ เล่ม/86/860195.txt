@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>ปัจจนียานุโลมนัย</H1> 
+<span class="LineNumber"> 002 </span>         [๑๔๕๓]   <B>เพราะนเหตุปัจจัย</B>     ในอารัมมณปัจจัย   มี ๒ วาระ ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย   มี ๕ วาระ.  
+<span class="LineNumber"> 004 </span>         พึงนับจำนวนวาระในปัจจนียานุโลม  เหมือนในกุสลติกะ.
+<span class="LineNumber"> 005 </span>                                        <I>ปัจจนียานุโลม  จบ</I> 
+<span class="LineNumber"> 006 </span>                                          <I>ปฏิจจวาระ  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                           <H1>สหชาติวาระ</H1>
+<span class="LineNumber"> 008 </span>         [๑๔๕๔]  <B>อุปาทินนุปาทานิยธรรม     เกิดร่วมกับอุปาทินนุปาทา-
+<span class="LineNumber"> 009 </span>นิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>         ปฏิจจวาระก็ดี   สหชาตวาระก็ดี   เหมือนกัน.
+<span class="LineNumber"> 011 </span>                                       <I>สหชาตวาระ  จบ</I>
+
+<span class="LineNumber"> 012 </span>                                            <H1>ปัจจยวาระ</H1>
+<span class="LineNumber"> 013 </span>                                            <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 014 </span>                                          <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 015 </span>         [๑๔๕๕] ๑.  <B>อุปาทินนุปาทานิยธรรม   อาศัยอุปาทินนุปาทา-
+<span class="LineNumber"> 016 </span>นิยธรรม  เกิดขึ้นเพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอุปาทินนุปาทานิยธรรม เกิดขึ้น ฯลฯ
+<span class="LineNumber"> 018 </span>         ในปฏิสนธิขณะ  หทยวัตถุ  อาศัยขันธ์ทั้งหลาย   เกิดขึ้น ฯลฯ ขันธ์
+<span class="LineNumber"> 019 </span>ทั้งหลายอาศัยหทยวัตถุ   เกิดขึ้น.

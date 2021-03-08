@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>อรรถกถานิพพานสูตรที่   ๙</H2> 
+<span class="LineNumber"> 002 </span>       <B>นิพพานสูตรที่ ๙</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>       บทว่า <B>สุขานุปสฺสี</B>   ได้แก่ บุคคลผู้ตามเห็นด้วยญาณ (ปัญญา)
+<span class="LineNumber"> 004 </span>อย่างนี้ว่า พระนิพพานเป็นสุข.
+<span class="LineNumber"> 005 </span>                            <I>จบ   อรรถกถานิพพานสูตรที่   ๙</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 541
+
+<span class="LineNumber"> 002 </span>		ตฺยชฺช ปุตฺเต น ปสฺสามิ	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 003 </span>		อุจฺจงฺเก(๑) เม โกวิจินติ	ถนา เมกาว ลมฺพติ  
+<span class="LineNumber"> 004 </span>		ตฺยชฺช ปุตฺเต น ปสฺสามิ	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 005 </span>		ยสฺสา สายณฺหสมยํ	ปุตฺตกา ปํสุกุณฺ€ิตา  
+<span class="LineNumber"> 006 </span>		อุจฺจงฺเก(๑) เม วิวตฺตนฺติ  เต น ปสฺสามิ ทารกา  
+<span class="LineNumber"> 007 </span>		อยํ โส อสฺสโม ปุพฺเพ	สมฺมชฺโช ปฏิภาติ มํ  
+<span class="LineNumber"> 008 </span>		ตฺยชฺช ปุตฺเต น ปสฺสนฺตฺยา  ภมเต วิย อสฺสโม  
+<span class="LineNumber"> 009 </span>		กิมิทํ อปฺปสทฺโทว		อสฺสโม ปฏิภาติ มํ  
+<span class="LineNumber"> 010 </span>		กาโกลาปิ น วสฺสนฺติ	มตา เม นูน ทารกา  
+<span class="LineNumber"> 011 </span>		กิมิทํ อปฺปสทฺโทว		อสฺสโม ปฏิภาติ มํ  
+<span class="LineNumber"> 012 </span>		สกุณาปิ น วสฺสนฺติ	มตา เม นูน ทารกาติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  นนฺติ  นิปาตมตฺตํ ฯ  ปํสุกุณฺ€ิตาติ  ปํสุมกฺขิตา ฯ  
+<span class="LineNumber"> 014 </span>ปจฺจุคฺคตา  มนฺติ  มํ  ปจฺจุคฺคตา  หุตฺวา  ปจฺจุคฺคนฺตุนฺติปิ 
+<span class="LineNumber"> 015 </span>ปาโ€ ฯ  ปจฺจุคฺคนฺตฺวา  อิจฺเจว  อตฺโถ ฯ  อุกฺกณฺณาติ  ยถา
+<span class="LineNumber"> 016 </span>มิคโปตกา  มาตรํ  ทิสฺวา  กณฺเณ  อุกฺขิปิตฺวา  คีวํ  ปสาเรตฺวา
+<span class="LineNumber"> 017 </span>มาตรํ  อุปคนฺตฺวา  หฏฺ€ตุฏฺ€า  สมนฺตา  อภิธาวิโน  โหนฺติ(๒) ฯ
+<span class="LineNumber"> 018 </span>วตฺตมานาว  กมฺปเรติ  วตฺตมานา  มาตุ  หทยมํสํ  กมฺเปนฺติ 
+<span class="LineNumber"> 019 </span>วิย  เอวํ  ปุพฺเพ  มม  ปุตฺตา  โหนฺติ(๓) ฯ  ตฺยชฺชาติ  เต  อชฺช  
+<span class="LineNumber"> 020 </span>น  ปสฺสามิ ฯ  ฉคิลีว  มิคี  ฉาปนฺติ  ยถา  ฉคิลี  จ  มิคี  
+<span class="LineNumber"> 021 </span># ๑. ม. อุจฺฉงฺเก ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. วคฺคมานาว ฯ 

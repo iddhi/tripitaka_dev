@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span><H2>ปฏิฆานุสยมูละ ภวราคานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         ปฏิฆานุสัย  อันบุคคลละแล้ว  ในที่ใด  ภวราคานุสัย  เป็นอัน
+<span class="LineNumber"> 003 </span>บุคคลละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ไม่พึงกล่าวว่า   ละแล้วหรือยังไม่ละแล้ว.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า ภวราคานุสัย   อันบุคคลละแล้ว  ในที่ใด   ปฏิฆานุสัย
+<span class="LineNumber"> 006 </span>เป็นอันบุคคลละแล้ว  ในที่นั้น,  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ไม่พึงกล่าวว่า   ละแล้วหรือยังไม่ละแล้ว.
+<span class="LineNumber"> 008 </span>                     <I>จบ  ปฏิฆานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 009 </span><H2>ปฏิฆานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 010 </span>         ปฏิฆานุสัย  อันบุคคลละแล้ว  ในที่ใด,  อวิชชานุสัย   เป็นอัน
+<span class="LineNumber"> 011 </span>บุคคลละแล้ว  ในที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า  อวิชชานุสัย   บุคคลละแล้ว ในที่ใด  ปฏิฆานุสัย  เป็น
+<span class="LineNumber"> 014 </span>อันบุคคลละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         อวิชชานุสัย   อันบุคคลละแล้ว   ในที่นี้     คือที่เวทนา  ๒   ใน

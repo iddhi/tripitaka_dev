@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ จุลฺลยมกวคฺควณฺณนา  หน้า  ๗๐๔
+		
+<span class="LineNumber"> 002 </span>อิทฺธิกถาย  วิตฺถาริตํ  อปุฺํ  ปสวีติ  อปุฺํ  ปฏิลภิ ฯ
+<span class="LineNumber"> 003 </span>อาสํ  มากาสิ  ภิกฺขูสูติ  ภิกฺขุํ(๑)  วินาเสมิ  (๒)  วิเหเสมีติ  เอตํ  อาสํ  
+<span class="LineNumber"> 004 </span>มา  อกาสิฯ  เสสํ  สพฺพตฺถ อุตฺตานเมวาติ  ฯ
+<span class="LineNumber"> 005 </span>			  มารตชฺชนียสุตฺตวณฺณนา  นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 006 </span>			  		ทสมํ ฯ
+<span class="LineNumber"> 007 </span>	  		    ปฺจมวคฺควณฺณนา  นิฏฺ€ิตาฯ
+<span class="LineNumber"> 008 </span>	  		    		  อิติ
+<span class="LineNumber"> 009 </span>	  	ปปฺจสูทนิยา  มชฺฌิมฏฺ€กถาย มูลปณฺณาสกวณฺณนา
+<span class="LineNumber"> 010 </span>	  				นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 011 </span>	  	ปฺจวคฺคปฏิมณฺฑิตา  ปณฺณาสกสุตฺตนฺตสงฺคหฏฺ€กถา
+<span class="LineNumber"> 012 </span>	  				นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 013 </span># ๑. ม. ภิกฺขู ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ

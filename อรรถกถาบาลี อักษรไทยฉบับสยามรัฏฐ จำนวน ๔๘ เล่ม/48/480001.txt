@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า 1
+
+<span class="LineNumber"> 002 </span>		ปรมตฺถทีปนี  นาม  อภิธมฺมฏฺ€กถา
+<span class="LineNumber"> 003 </span>			ปฺจปฺปกรณวณฺณนา
+<span class="LineNumber"> 004 </span>			ธาตุกถาปกรณวณฺณนา 
+
+<span class="LineNumber"> 005 </span>	นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ 
+<span class="LineNumber"> 006 </span>				อารมฺภกถา 
+<span class="LineNumber"> 007 </span>		อฏฺ€ารสหิ เภเทหิ	วิภงฺคํ มารภฺชโน 
+<span class="LineNumber"> 008 </span>		เทสยิตฺวา มหาวีโร		ยํ ตสฺเสว อนนฺตรํ ฯ 
+<span class="LineNumber"> 009 </span>		อเทสยิ ธาตุกถํ		ธาตุเภทปฺปกาสโน 
+<span class="LineNumber"> 010 </span>		ตสฺสตฺถํ ทีปยิสฺสามิ	ตํ สุณาถ สมาหิตาติ ฯ 
+
+<span class="LineNumber"> 011 </span>				มาติกาวณฺณนา 
+<span class="LineNumber"> 012 </span>	สงฺคโห  อสงฺคโหติอาทีนฺหิ  วเสน  อิทํ  ปกรณํ
+<span class="LineNumber"> 013 </span>จุทฺทสวิเธน  วิภตฺตนฺติ  วุตฺตํ ฯ  ตํ สพฺพมฺปิ อุทฺเทสนิทฺเทสโต
+<span class="LineNumber"> 014 </span>ทฺวิธา €ิตํ ฯ ตสฺส (๑) มาติกา อุทฺเทโส ฯ  สา  ปฺจธา(๒)  €ิตา(๓)
+<span class="LineNumber"> 015 </span>นยมาติกา  อพฺภนฺตรมาติกา  นยมุขมาติกา  ลกฺขณมาติกา 
+<span class="LineNumber"> 016 </span>พาหิรมาติกาติ ฯ  ตตฺถ  สงฺคโห  อสงฺคโห  ฯเปฯ  วิปฺปยุตฺเตน 
+<span class="LineNumber"> 017 </span>สงฺคหิตํ  อสงฺคหิตนฺติ  อยํ  จุทฺทสหิ  ปเทหิ  นิกฺขิตฺตา  นยมาติกา
+<span class="LineNumber"> 018 </span>นาม ฯ อยฺหิ อิมินา  สงฺคหาทิเกน  นเยน  ธาตุกถายํ  (๔)  ธมฺมา
+<span class="LineNumber"> 019 </span># ๑. ม. ตตฺถ ฯ ๒. ม. สา ปฺจวิธา ฯ  ๓. ม. อยํ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. ธาตุกถา ฯ

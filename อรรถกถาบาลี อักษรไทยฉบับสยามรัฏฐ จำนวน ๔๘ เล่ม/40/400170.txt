@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  มหาวคฺควณฺณนา  หน้า  170
+
+<span class="LineNumber"> 002 </span>มคฺคจิตฺตสฺส  นิมิตฺตปวตฺตโต   วุฏฺ€านฏฺโ€ ฯ
+<span class="LineNumber"> 003 </span>	จิตฺตสฺส  วิวฏฺฏนฏฺโ€ติ ตสฺเสว  จิตฺตทฺวยสฺส  ยถาวุตฺตโต
+<span class="LineNumber"> 004 </span>วุฏฺ€ิตสฺส  นิพฺพาเน  วิวฏฺฏนฏฺโ€ ฯ 
+<span class="LineNumber"> 005 </span>	จิตฺตสฺส  เหตุฏฺโ€ติ(๑)  จิตฺตสฺส  เหตุปจฺจยภูตานํ  นวนฺนํ  
+<span class="LineNumber"> 006 </span>เหตูนํ  เหตุฏฺโ€ ฯ  
+<span class="LineNumber"> 007 </span>	จิตฺตสฺส  ปจฺจยฏฺโ€ติ  จิตฺตสฺส  วตฺถารมฺมณาทีนํ  อเนเกสํ  
+<span class="LineNumber"> 008 </span>ปจฺจยานํ  ปจฺจยฏฺโ€ ฯ
+<span class="LineNumber"> 009 </span>	จิตฺตสฺส  วตฺถุฏฺโ€ติ (๒) จิตฺตสฺส  วตฺถุภูตานํ  จกฺขุโสตฆาน-
+<span class="LineNumber"> 010 </span>ชิวฺหากายหทยวตฺถูนํ  วตฺถุฏฺโ€ ฯ  
+<span class="LineNumber"> 011 </span>	จิตฺตสฺส  ภูมฏฺโ€ติ  จิตฺตสฺส  อุปฺปตฺติเทสวเสน  กามา-
+<span class="LineNumber"> 012 </span>วจราทิภูมิอตฺโถ ฯ 
+<span class="LineNumber"> 013 </span>	จิตฺตสฺส  อารมฺมณฏฺโ€ติ  รูปาทิอารมฺมณฏฺโ€ ฯ
+<span class="LineNumber"> 014 </span>	ปริจิตสฺสารมฺมณสฺส  สฺจรณฏฺ€านฏฺเ€น  โคจรฏฺโ€ ฯ
+<span class="LineNumber"> 015 </span>	อุปริ  วุตฺตวิฺาณจริยาวเสน  จริยฏฺโ€ ฯ  อถ  วา  ปโยค-
+<span class="LineNumber"> 016 </span>สมุทาจารฏฺโ€  จริยฏฺโ€ ฯ
+<span class="LineNumber"> 017 </span>	จิตฺตสฺส  คมนาภาเวปิ  ทูรสนฺติการมฺมณคฺคหณวเสน 
+<span class="LineNumber"> 018 </span>คตฏฺโ€ ฯ  
+<span class="LineNumber"> 019 </span>	อภินีหารฏฺโ€ติ  คหิตารมฺมณโต  อฺารมฺมณมนสิการตฺถํ 
+<span class="LineNumber"> 020 </span>จิตฺตสฺส  อภินีหรณฏฺโ€ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. เหตุฏฺโ€ ฯ ๒. ม. วตฺถุฏฺโ€ ฯ

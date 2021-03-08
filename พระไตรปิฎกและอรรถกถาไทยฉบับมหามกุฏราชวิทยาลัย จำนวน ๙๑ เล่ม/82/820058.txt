@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าเวทนา,               ชื่อว่าเวทนาขันธ์   ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>ธรรมที่ชื่อว่าขันธ์,                           ชื่อว่าสังขารขันธ์   ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าเวทนา,               ชื่อว่าเวทนาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>ธรรมที่ชื่อว่าขันธ์,                           ชื่อว่าวิญญาณขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>                                 <I>จบ  เวทนาขันธมูล</I>
+
+<span class="LineNumber"> 006 </span>                                   <H1>สัญญาขันธมูล</H1>
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าสัญญา,              ชื่อว่าสัญญาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>ธรรมที่ชื่อว่าขันธ์,                            ชื่อว่ารูปขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ธรรมที่ชื่อว่าสัญญา,               ชื่อว่าสัญญาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>ธรรมที่ชื่อว่าขันธ์,                            ชื่อว่าเวทนาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าสัญญา,               ชื่อว่าสัญญาขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>ธรรมที่ชื่อว่าขันธ์,                            ชื่อว่าสังขารขันธ์  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าสัญญา                ชื่อว่าสัญญาขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>ธรรมที่ชื่อว่าขันธ์,                             ชื่อว่าวิญญาณขันธ์  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>                                <I>จบ  สัญญาขันธมูล</I>

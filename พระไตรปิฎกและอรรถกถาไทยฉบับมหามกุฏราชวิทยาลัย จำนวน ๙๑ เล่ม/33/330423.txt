@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                         <H3>สูตรที่  ๖</H3>
+
+<span class="LineNumber"> 002 </span>        <H4>ว่าด้วยบุคคล  ๒  จำพวก  เมื่อฟ้าผ่าไม่สะดุ้ง</H4>
+
+<span class="LineNumber"> 003 </span>          [๓๐๒]  ๕๖.  ดูก่อนภิกษุทั้งหลาย  ๒  จำพวกนี้  เมื่อฟ้าผ่าย่อม
+<span class="LineNumber"> 004 </span>ไม่สะดุ้ง  ๒ จำพวกเป็นไฉน  คือ  พระภิกษุขีณาสพ  ๑  ช้างอาชาไนย  ๑
+<span class="LineNumber"> 005 </span>ดูก่อนภิกษุทั้งหลาย  ๒  จำพวกนี้แล  เมื่อฟ้าผ่าย่อมไม่สะดุ้ง.
+<span class="LineNumber"> 006 </span>                                             จบสูตรที่  ๖
+
+<span class="LineNumber"> 007 </span>                          <H3>อรรถกถาสูตรที่  ๖</H3>
+
+<span class="LineNumber"> 008 </span>         ใน<B>สูตรที่   ๖</B>   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 009 </span>         บทว่า   <B>ผลนฺติยา</B>   แปลว่า    เมื่อฟ้าทำเสียง  [ผ่า].  บทว่า  <B>น
+<span class="LineNumber"> 010 </span>สนฺตสนฺติ</B>  ความว่า  ย่อมไม่กลัวเพราะละสักกายทิฏฐิได้แล้ว.  บรรดาคน
+<span class="LineNumber"> 011 </span>และสัตว์ทั้งสองนั้น    พระขีณาสพไม่กลัว  เพราะละสักกายทิฏฐิของตนได้
+<span class="LineNumber"> 012 </span>แล้ว   ช้างอาชาไนยไม่กลัว  เพราะมีสักกายทิฏฐิจัด.
+<span class="LineNumber"> 013 </span>                                          อรรถกถาสูตรที่  ๖
+
+<span class="LineNumber"> 014 </span>                                  <H3>สูตรที่  ๗</H3>
+
+<span class="LineNumber"> 015 </span>      <H4>ว่าด้วยบุคคล  ๒  จำพวก  เมื่อฟ้าผ่าไม่สะดุ้ง</H4>
+
+<span class="LineNumber"> 016 </span>         [๓๐๓] ๕๗.  ดูก่อนภิกษุทั้งหลาย  ๒  จำพวกนี้  เมื่อฟ้าผ่าย่อม
+<span class="LineNumber"> 017 </span>ไม่สะดุ้ง  ๒  จำพวกเป็นไฉน  คือ  พระภิกษุขีณาสพ  ๑  ม้าอาชาไนย    ๑
+<span class="LineNumber"> 018 </span>ดูก่อนภิกษุทั้งหลาย ๒ จำพวกนี้แล  เมื่อฟ้าผ่าย่อมไม่สะดุ้ง.
+<span class="LineNumber"> 019 </span>                                                   จบสูตรที่  ๗

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 002 </span>                                        <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 003 </span>            [๒๑๕]  อุปสัมบัน  ภิกษุณีสำคัญว่าอุปสัมบัน  แช่งด้วยนรกก็ดี  ด้วย
+<span class="LineNumber"> 004 </span>พรหมจรรย์ก็ดี   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 005 </span>            อุปสัมบัน  ภิกษุณีสงสัย   แช่งด้วยนรกก็ดี   ด้วยพรหมจรรย์ก็ดี   ต้อง
+<span class="LineNumber"> 006 </span>อาบัติปาจิตตีย์.
+<span class="LineNumber"> 007 </span>            อุปสัมบัน    ภิกษุณีสำคัญว่าอนุปสัมบัน     แช่งด้วยนรกก็ดี     ด้วย
+<span class="LineNumber"> 008 </span>พรหมจรรย์ก็ดี    ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 009 </span>                                         <H2>ปัญจกะทุกกฏ</H2>
+<span class="LineNumber"> 010 </span>            ภิกษุณีแช่งด้วยคำว่ากำเนิดสัตว์ดิรัจฉานก็ดี      ด้วยคำว่าเปรตวิสัยก็ดี
+<span class="LineNumber"> 011 </span>ด้วยคำว่าเป็นคนโชคร้ายก็ดี   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 012 </span>            แช่งอนุปสัมบัน  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 013 </span>            อนุปสัมบัน  ภิกษุณีสำคัญว่าอุปสัมบัน  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 014 </span>            อนุปสัมบัน  ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 015 </span>            อนุปสัมบัน  ภิกษุณีสำคัญว่าอนุปสัมบัน  ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 016 </span>                                         <H2>อนาปัตติวาร</H2> 
+<span class="LineNumber"> 017 </span>            [๒๑๖]  มุ่งอรรถ  ๑  มุ่งธรรม ๑  มุ่งสั่งสอน ๑  วิกลจริต ๑  อาทิ-
+<span class="LineNumber"> 018 </span>กัมมิกา ๑   ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 019 </span>                             <I>อันธการวรรค  สิกขาบทที่ ๙  จบ</I>

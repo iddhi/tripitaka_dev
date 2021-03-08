@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>มูลแห่งวินัยเป็นต้น</H2>  
+<span class="LineNumber"> 002 </span>                             [๑,๒๔๔]  <B>ถามว่า  มูลแห่งวินัยที่พระ-
+<span class="LineNumber"> 003 </span>                   พุทธเจ้าทรงบัญญัติไว้มีเท่าไร  อาบัติหนักใน
+<span class="LineNumber"> 004 </span>                   ฝ่ายวินัยตรัสไว้เท่าไร  อาบัติเพราะปิดอาบัติ
+<span class="LineNumber"> 005 </span>                   ชั่วหยาบมีเท่าไร
+<span class="LineNumber"> 006 </span>                             ตอบว่า   มูลแต่งวินัยที่พระพุทธเจ้า
+<span class="LineNumber"> 007 </span>                   ทรงบัญญัติไว้มี  ๒   อาบัติหนักในฝ่ายวินัย
+<span class="LineNumber"> 008 </span>                   ตรัสไว้  ๒   อาบัติเพราะปิดอาบัติชั่วหยาบ
+<span class="LineNumber"> 009 </span>                   มี ๒.</B>
+
+<span class="LineNumber"> 010 </span>                    <H2>ต้องอาบัติในละแวกบ้านเป็นต้น</H2>
+<span class="LineNumber"> 011 </span>                             [๑,๒๔๕]  <B>ถามว่า    อาบัติในละแวก
+<span class="LineNumber"> 012 </span>                   บ้านมีเท่าไร  อาบัติมีฝั่งนทีเป็นปัจจัยมีเท่าไร
+<span class="LineNumber"> 013 </span>                   เป็นอาบัติถุลลัจจัย  เพราะเนื้อกี่ชนิด  เป็น
+<span class="LineNumber"> 014 </span>                   อาบัติทุกกฏเพราะเนื้อกี่ชนิด
+<span class="LineNumber"> 015 </span>                             ตอบว่า   อาบัติในละแวกบ้านมี  ๔
+<span class="LineNumber"> 016 </span>                   อาบัติมีฝั่งนทีเป็นปัจจัยมี  ๔  เป็นอาบัติ
+<span class="LineNumber"> 017 </span>                   ถุลลัจจัย    เพราะเนื้อชนิดเดียว   เป็นอาบัติ
+<span class="LineNumber"> 018 </span>                   ทุกกฏเพราะเนื้อ  ๙  ชนิด.</B>

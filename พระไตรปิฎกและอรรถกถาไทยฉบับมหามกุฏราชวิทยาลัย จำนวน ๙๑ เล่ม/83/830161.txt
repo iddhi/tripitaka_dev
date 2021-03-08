@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>และมีความนอนเนื่องอยู่ด้วยกามราคานุสัย   จากที่นั้น    คือที่เวทนา ๒ 
+<span class="LineNumber"> 002 </span>ในกามธาตุ.
+<span class="LineNumber"> 003 </span>                     <I>จบ  กามราคานุสยมูละ  ทิฏฐานุสยาทิมูลี</I>
+
+<span class="LineNumber"> 004 </span><H2>กามราคานุสยมูละ   ภวราคานุสยมูลี</H2> :-
+<span class="LineNumber"> 005 </span>         บุคคลมีความนอนเนื่องอยู่ด้วยกามราคานุสัย    จากที่ใด     ก็มี
+<span class="LineNumber"> 006 </span>ความนอนเนื่องอยู่ด้วยภวราคานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ไม่ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า  บุคคลมีความนอนเนื่องอยู่ด้วยภวราคานุสัย  จากที่ใด,
+<span class="LineNumber"> 009 </span>ก็มีความนอนเนื่องอยู่ด้วยกามราคานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ไม่ใช่.
+<span class="LineNumber"> 011 </span>                     <I>จบ  กามราคานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 012 </span><H2>กามราคานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 013 </span>         บุคคลมีความนอนเนื่องอยู่ด้วยกามราคานุสัย   จากที่ใด,     ก็มี
+<span class="LineNumber"> 014 </span>ความนอนเนื่องอยู่ด้วยอวิชชานุสัย   จากที่นั้น  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.

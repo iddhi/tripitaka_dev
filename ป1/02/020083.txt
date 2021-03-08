@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>      [๘๔]   ตุมฺห  ท่าน  ทั้งสองลิงค์  แจกอย่างเดียวกัน  อย่างนี้ :-     
+<span class="LineNumber"> 002 </span>--------------------------------------------------------------------------------
+<span class="LineNumber"> 003 </span>		เอก.					พหุ.
+<span class="LineNumber"> 004 </span>ป.	ตฺวํ	ตุวํ				ตุมฺเห	โว
+<span class="LineNumber"> 005 </span>ทุ.	ตํ   ตฺวํ  ตุวํ			ตุมฺเห	โว
+<span class="LineNumber"> 006 </span>ต.	ตยา  ตฺวยา  เต			ตุมฺเหหิ	โว
+<span class="LineNumber"> 007 </span>จ.	ตุยฺหํ  ตุมฺหํ<SUP>๑</SUP>   ตว  เต		ตุมฺหากํ	โว
+<span class="LineNumber"> 008 </span>ปญฺ.	ตยา					ตุมฺเหหิ
+<span class="LineNumber"> 009 </span>ฉ.	ตุยฺหํ  ตุมฺหํ<SUP>๒</SUP>  ตว  เต		ตุมฺหากํ	โว
+<span class="LineNumber"> 010 </span>ส.	ตยิ  ตฺวยิ				ตุมฺเหสุ
+<span class="LineNumber"> 011 </span>                         วิธีเปลี่ยน  วิภัตติ  และ  การันต์
+<span class="LineNumber"> 012 </span>๑  ศัพท์ที่อาเทศผิดจากรูป  ตุมฺห  ทีเดียว  พึงรู้ว่าเอาวิภัตตินั้น ๆ กับ
+<span class="LineNumber"> 013 </span>    ตุมฺห  เป็นอย่างนี้.
+<span class="LineNumber"> 014 </span>๒  ตุมฺห  อมฺห  อยู่หน้า  เอา  นํ  เป็น  อากํ.
+<span class="LineNumber"> 015 </span>๓  เต  โว  มีบทอื่นนำหน้าจึงมีได้.
+<span class="LineNumber"> 016 </span>        [๘๕]  อมฺห  ข้า   ทั้งสองลิงค์  แจกเป็นแบบเดียวกัน  อย่างนี้ :-
+<span class="LineNumber"> 017 </span>--------------------------------------------------------------------------------
+<span class="LineNumber"> 018 </span>		เอก.					พหุ.
+<span class="LineNumber"> 019 </span>ป.	อหํ					มยํ		โน
+<span class="LineNumber"> 020 </span>ทุ.	มํ   มมํ				อมฺเห	โน
+<span class="LineNumber"> 021 </span>ต. 	มยา	เม				อมฺเหหิ	โน
+<span class="LineNumber"> 022 </span>---------------------------------------------------------------------------------
+
+<span class='footnote'>๑.  ๒.  ตุมฺหํ  ที่เป็น  จ.  ฉ.  เอก.  โดยสูตรมูลกัจจายนะ  ว่า  สสฺสํ.  และสูตร</span>
+<span class='footnote'>สัททนีติ  ว่า  มตนฺตเร  สสฺส  ว่า  อํ.</span>

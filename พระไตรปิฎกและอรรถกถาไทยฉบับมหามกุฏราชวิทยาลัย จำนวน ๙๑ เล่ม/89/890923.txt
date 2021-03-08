@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>            <H2>๔.  นอนันตรปัจจัย    ฯลฯ   ๖.  นอัญญมัญญปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>ฯลฯ    เพราะนอนันตรปัจจัย</B>
+<span class="LineNumber"> 003 </span>         <B>ฯลฯ    เพราะนสมนันตรปัจจัย</B>
+<span class="LineNumber"> 004 </span>         <B>ฯลฯ    เพราะนอัญญมัญญปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 005 </span>                                    <H2>๗.  ปุเรชาตปัจจัย</H2>
+<span class="LineNumber"> 006 </span>         [๘๑๗] ๑.  <B>นิยยานิกธรรม     อาศัยนิยยานิกธรรม     เกิดขึ้น
+<span class="LineNumber"> 007 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ  ในอรูปภูมิ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นนิยยานิกธรรม ฯลฯ
+<span class="LineNumber"> 009 </span>                     ๒.  <B>อนิยยานิกธรรม    อาศัยนิยยานิกธรรม    เกิดขึ้น
+<span class="LineNumber"> 010 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นนิยยานิกธรรม.
+<span class="LineNumber"> 012 </span>                     ๓.  <B>อนิยยานิกธรรม   อาศัยอนิยยานิกธรรม   เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  ในอรูปภูมิ  ขันธ์ ๓  อาศัยขันธ์ ๑ ที่เป็นอนิยยานิกธรรม ฯลฯ
+<span class="LineNumber"> 015 </span>ขันธ์ ๒.
+<span class="LineNumber"> 016 </span>         จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอนิยยานิกธรรม.
+<span class="LineNumber"> 017 </span>         ในปฎิสนธิขณะ  ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 018 </span>                     ๔.  <B>อนิยยานิกธรรม     อาศัยนิยยานิกธรรม    และ
+<span class="LineNumber"> 019 </span>อนิยยานิกธรรม  เกิดขึ้น  เพราะนปุเรชาตปัจจัย</B>

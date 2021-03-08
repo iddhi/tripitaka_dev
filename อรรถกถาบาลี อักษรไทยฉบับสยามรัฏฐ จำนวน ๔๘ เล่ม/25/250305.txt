@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  305
+
+<span class="LineNumber"> 002 </span>		วชฺชิปุตฺตตกตฺเถรคาถาวณฺณนา (๑)  
+<span class="LineNumber"> 003 </span>	เอกกา มยํ อรฺเติ อายสฺมโต วชฺชิปุตฺตกตฺเถรสฺส
+<span class="LineNumber"> 004 </span>คาถา ฯ กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยํ  หิ  (๒)  ปุริมพุทฺเธสุ กตาธิกาโร ตตฺถ ตตฺถ ภเว
+<span class="LineNumber"> 006 </span>วิวฏฺฏูปนิสฺสยํ ปุฺํ อุปจินนฺโต  อิโต  เอกนวุเต  กปฺเป 
+<span class="LineNumber"> 007 </span>วิปสฺสิสฺส ภควโต กาเล กุลเคเห นิพฺพตฺติตฺวา วิฺุตํ
+<span class="LineNumber"> 008 </span>ปตฺโต  เอกทิวสํ  วิปสฺสึ  ภควนฺตํ  ทิสฺวา ปสนฺนมานโส 
+<span class="LineNumber"> 009 </span>นาคปุปฺผเกสเรหิ ปูชํ  อกาสิ ฯ  โส  เตน  ปุฺกมฺเมน
+<span class="LineNumber"> 010 </span>เทวมนุสฺเสสุ สํสรนฺโต อิมสฺมึ พุทฺธุปฺปาเท อมจฺจกุเล 
+<span class="LineNumber"> 011 </span>นิพฺพตฺติ  วชฺชิปุตฺตโกติสฺส  นามํ  อโหสิ ฯ  โส  ภควโต  
+<span class="LineNumber"> 012 </span>เวสาลิคมเน พุทฺธานุภาวํ  ทิสฺวา  ปฏิลทฺธสทฺโธ ปพฺพชิตฺวา
+<span class="LineNumber"> 013 </span>กตปุพฺพกิจฺโจ กมฺมฏฺ€านํ คเหตฺวา เวสาลิยา  อวิทูเร 
+<span class="LineNumber"> 014 </span>อฺตรสฺมึ  วนสณฺเฑ  วิหรติ ฯ  
+<span class="LineNumber"> 015 </span>	เตน  สมเยน(๓)  เวสาลิยํ  อุสฺสโว  อโหสิ ฯ  ตตฺถ  ตตฺถ  
+<span class="LineNumber"> 016 </span>นจฺจคีตวาทิตํ  ปวตฺตติ  มหาชโน  หฏฺ€ตุฏฺโ€ อุสฺสวสมฺปตฺตึ 
+<span class="LineNumber"> 017 </span>ปจฺจนุโภติ  ตํ  สุตฺวา โส ภิกฺขุ อโยนิโส อุมฺมุชฺชนฺโต วิเวกํ 
+<span class="LineNumber"> 018 </span>วิฺฉมาโน (๔) กมฺมฏฺ€านํ วิสฺสชฺเชตฺวา อตฺตโน อนภิรตึ 
+<span class="LineNumber"> 019 </span>ปกาเสนฺโต  
+<span class="LineNumber"> 020 </span># ๑. ม. ยุ. วชฺชิปุตฺต... ฯ  ๒. ม. อยมฺปิ ฯ  ๓. ม. เตน จ สมเยน ฯ
+<span class="LineNumber"> 021 </span># ๔. สี. ริจฺจมาโน ฯ  ม. วชฺชมาโน ฯ 

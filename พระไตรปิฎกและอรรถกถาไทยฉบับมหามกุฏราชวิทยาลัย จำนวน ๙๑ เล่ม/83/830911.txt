@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๕๐]   อกุศลธรรมกำลังเกิดแก่บุคคลใด,    อัพยากตธรรมก็
+<span class="LineNumber"> 002 </span>เคยเกิดแก่บุคคลนั้น  ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ก็หรือว่าอัพยากตธรรมเคยเกิดแก่บุคคลใด,   อกุศลธรรมก็กำลัง
+<span class="LineNumber"> 005 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ในภังคขณะแห่งจิตของบุคคลทั้งหมดก็ดี     ในอุปปาทขณะแห่ง
+<span class="LineNumber"> 007 </span>อกุศลวิปปยุตตจิตก็ดี  บุคคลผู้เข้านิโรธสมาบัติอยู่ก็ดี   บุคคลผู้เกิดอยู่ใน
+<span class="LineNumber"> 008 </span>อสัญญสัตตภูมิก็ดี  อัพยากตธรรมเคยเกิดแก่บุคคลเหล่านั้น   แต่อกุศล-
+<span class="LineNumber"> 009 </span>ธรรมไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น      ในอุปปาทขณะแห่งอกุศลจิต
+<span class="LineNumber"> 010 </span>อัพยากตธรรมก็เคยเกิด   อกุศลธรรมก็กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 011 </span><H1>โอกาสวาระ อนุโลม</H1> :-
+<span class="LineNumber"> 012 </span>         [๑๕๑]   กุศลธรรมกำลังเกิดในภูมิใด,  ฯลฯ
+<span class="LineNumber"> 013 </span><H1>ปุคคโลกาสวาระ  อนุโลม</H1> :-
+<span class="LineNumber"> 014 </span>         [๑๕๒]   กุศลธรรมกำลังเกิดแก่บุคคลใดในภูมิใด,      อกุศล-
+<span class="LineNumber"> 015 </span>ธรรมก็เคยเกิดแก่บุคคลนั้น  ในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ใช่.

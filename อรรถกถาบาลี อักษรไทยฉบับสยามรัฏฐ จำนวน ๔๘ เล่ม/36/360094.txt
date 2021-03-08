@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  94
+
+<span class="LineNumber"> 002 </span>		อารุฬฺหา คามนีเยภิ		จาปหตฺเถหิ จมฺมิภิ  
+<span class="LineNumber"> 003 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 004 </span>		กทา สุ มํ โคณรถา		สนฺนทฺธา อุสฺสิตทฺธชา  
+<span class="LineNumber"> 005 </span>		ทีปา อโถปิ เวยฺยคฺฆา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 006 </span>		อารุฬฺหา คามนีเยภิ		จาปหตฺเถหิ จมฺมิภิ  
+<span class="LineNumber"> 007 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 008 </span>		กทา สุ มํ หตฺถาโรหา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 009 </span>		นีลจมฺมธรา สูรา			โตมรงฺกุสปาณิโน  
+<span class="LineNumber"> 010 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 011 </span>		กทา สุ มํ อสฺสาโรหา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 012 </span>		นีลจมฺมธรา สูรา			อินฺทิยา จาปธาริโน  
+<span class="LineNumber"> 013 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 014 </span>		กทา สุ มํ ธนุคฺคหา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 015 </span>		นีลจมฺมธรา สูรา			จาปหตฺถา กลาปิโน  
+<span class="LineNumber"> 016 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 017 </span>		กทา สุ มํ ราชปุตฺตา		สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 018 </span>		นีลจมฺมธรา สูรา			จาปหตฺถา กลาปิโน
+<span class="LineNumber"> 019 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ
+<span class="LineNumber"> 020 </span>		กทา สุ มํ ราชปุตฺตา		สพฺพาลงฺการภูสิตา
+<span class="LineNumber"> 021 </span>		จิตฺรจมฺมธรา สูรา		กาฺจนเวลฺลธาริโน  

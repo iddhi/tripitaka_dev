@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๒๖๘]  ในเหตุปัจจัย  มี  ๑ วาระ  ฯลฯ  ในปัจจัยทั้งปวง  มี ๑ วาระ.
+
+<span class="LineNumber"> 003 </span>                           <H2>อัพยากตบทปฏิจจวาระ</H2>  
+<span class="LineNumber"> 004 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๒๖๙]  ๑.  <B>ธรรมที่ไม่ใช่อัพยากตะ  ที่ไม่ใช่สรณธรรม อาศัย
+<span class="LineNumber"> 007 </span>ธรรมที่ไม่ใช่อัพยากตะที่ไม่ใช่สรณธรรม  เกิดขึ้น เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 008 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อัพยากตะ  ที่ไม่ใช่อรณธรรม อาศัย
+<span class="LineNumber"> 009 </span>ธรรมที่ไม่ใช่อัพยากตะที่ไม่ใช่อรณธรรม  เกิดขึ้น เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 010 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 011 </span>           [๒๗๐]  ในเหตุปัจจัย มี ๒ วาระ   ในอารัมมณปัจจัย  มี ๒ วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 013 </span>           ในสหชาตวาระก็ดี ฯลฯ  ในปัญหาวาระก็ดี  พึงให้พิสดารทุกปัจจัย.
+<span class="LineNumber"> 014 </span>                                    <I>ปิฏฐิทุกนกุสลติกะ  จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ มหาสีหนาทสุตฺตวณฺณนา หน้า ๗๑
+		
+<span class="LineNumber"> 002 </span>		มยฺจ  ภริยา  นาติกฺกมาม  
+<span class="LineNumber"> 003 </span>		ภริยาปิ  อเมฺห  นาติกฺกมนฺติ  
+<span class="LineNumber"> 004 </span>		อฺตฺร  ตาหิ  พฺรหฺมจริยํ  จราม  
+<span class="LineNumber"> 005 </span>		ตสฺมาติหมฺห(๑)  ทหรา  น  มิยฺยเรติ (๒)  
+<span class="LineNumber"> 006 </span>มหาธมฺมปาลชาตเก  สทารสนฺโตโส  พฺรหฺมจริยนฺติ  วุตฺโตฯ  
+<span class="LineNumber"> 007 </span>		หีเนน  พฺรหฺมจริเยน  ขตฺติเย  อุปปชฺชติ
+<span class="LineNumber"> 008 </span>		มชฺฌิเมน  จ  เทเวสุ  (๓)  อุตฺตเมน  วิสุชฺฌตีติ(๔)  
+<span class="LineNumber"> 009 </span>	เอวํ  นิมิชาตเก  อตฺตทมนวเสน  กโต  อฏฺ€งฺคิโก  อุโปสโถ  
+<span class="LineNumber"> 010 </span>พฺรหฺมจริยนฺติ  วุตฺโตฯ  อิทํ  โข  ปน(๕)  ปฺจสิข  พฺรหฺมจริยํ 
+<span class="LineNumber"> 011 </span>เอกนฺตนิพฺพิทาย  วิราคาย  เป  อยเมว  อริโย  อฏฺ€งฺคิโก  
+<span class="LineNumber"> 012 </span>มคฺโคติ  (๕) มหาโควินฺทสุตฺตสฺมิฺเว  อริยมคฺโค  พฺรหฺมจริยนฺติ  
+<span class="LineNumber"> 013 </span>วุตฺโตฯ  ตยิทํ  พฺรหฺมจริยํ  อิทฺธฺเจว  ผีตฺจ  วิตฺถาริกํ  พาหุชฺํ 
+<span class="LineNumber"> 014 </span>ปุถุภูตํ  ยาวเทว  มนุสฺเสหิ(๖)  สุปฺปกาสิตนฺติ   ปาสาทิกสุตฺเต  
+<span class="LineNumber"> 015 </span>สิกฺขาตฺตยสงฺคหํ  สาสนํ  พฺรหฺมจริยนฺติ  วุตฺตํฯ  
+<span class="LineNumber"> 016 </span>	อปิ  อตรมานานํ  		ผลาสาว  สมิชฺฌติ  
+<span class="LineNumber"> 017 </span>	วิปกฺกพฺรหฺมจริโยสฺมิ  	เอวํ  ชานาหิ  คามณีติ  (๗)  
+<span class="LineNumber"> 018 </span>เอตฺถ  อชฺฌาสโย  พฺรหฺมจริยนฺติ  วุตฺโตฯ  
+<span class="LineNumber"> 019 </span># ๑. สฺยา. ตสฺมา หิ อมฺหํ ฯ   ๒. ขุ. ชา. ๒๗/๑๔๑๕/๒๘๙ ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. เทวตฺตํ ฯ   ๔. ขุ. ชา. ๒๗/๑๑๘๖/๒๔๙ ฯ 
+<span class="LineNumber"> 021 </span># ๕. สฺยา. อิทํ โข ปน เม ฯ ที. มหา. ๑๐/๑๐๔/๑๓๖ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ขุ. ชา. ๒๗/๘/๓ ฯ

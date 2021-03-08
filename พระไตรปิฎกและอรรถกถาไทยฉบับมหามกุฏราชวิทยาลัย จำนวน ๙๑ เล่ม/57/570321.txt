@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>๗.   พีรณัตถัมภกวรรค</H1>
+
+<span class="LineNumber"> 002 </span>                        <H1>๑.   โสมทัตตชาดก</H1> 
+
+<span class="LineNumber"> 003 </span>                    <H2>ว่าด้วยอาการของผู้ขอ</H2>
+<span class="LineNumber"> 004 </span>       <B>[๒๗๑]   ท่านเป็นผู้ไม่ประมาทเป็นนิจ   ได้ทำความ
+<span class="LineNumber"> 005 </span>         เพียรอยู่ในป่าช้า ชื่อพีรณัตถัมภกะถึงหนึ่งปี  ครั้น
+<span class="LineNumber"> 006 </span>         เข้าประชุมบริษัท     กลับกล่าวให้ผิดพลาดไป
+<span class="LineNumber"> 007 </span>         ความเพียรย่อมป้องกันผู้ปราศจากปัญญาไม่ได้.
+<span class="LineNumber"> 008 </span>       [๒๗๒]   ดูก่อนพ่อโสมทัตต์  บุคคลผู้ขอ  ย่อมประ-
+<span class="LineNumber"> 009 </span>         สบอาการ ๒ อย่าง คือได้ทรัพย์ ๑ ไม่ได้ทรัพย์ ๑
+<span class="LineNumber"> 010 </span>         เพราะว่าการขอมีอาการอย่างนี้เป็นธรรมดา</B>.
+<span class="LineNumber"> 011 </span>                     <I>จบ โสมทัตตชาดกที่  ๑</I>
+
+<span class="LineNumber"> 012 </span>               <H1>อรรถกถาพีรณัตถัมภกวรรคที่  ๗</H1>
+
+<span class="LineNumber"> 013 </span>                 <H1>อรรถกถาโสมทัตตชาดกที่ ๑</H1>
+
+<span class="LineNumber"> 014 </span>         พระศาสดาเมื่อประทับอยู่   ณ  พระเชตวันมหาวิหาร   ทรง
+<span class="LineNumber"> 015 </span>ปรารภพระโลฬุทายีเถระ    ตรัสพระธรรมเทศนานี้    มีคำเริ่มต้น
+<span class="LineNumber"> 016 </span>ว่า <B>อกาสิ  โยคฺคํ</B> ดังนี้.
+<span class="LineNumber"> 017 </span>         เรื่องย่อมีว่า    พระโลฬุทายีเถระนั้น    ไม่สามารถจะกล่าว
+<span class="LineNumber"> 018 </span>คำแม้สักคำเดียวได้สำเร็จ    ในระหว่างชนสองสามคน    เป็นผู้

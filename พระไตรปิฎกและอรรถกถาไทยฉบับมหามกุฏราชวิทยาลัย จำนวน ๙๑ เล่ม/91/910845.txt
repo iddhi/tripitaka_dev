@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>สนิทัสสนติกอัชฌัตตารัมมณติกะ</H1>   
+<span class="LineNumber"> 002 </span>                  <H1>นสนิทัสสนติกนอัชฌัตตารัมมณติกะ</H1>
+<span class="LineNumber"> 003 </span> <H2>(๒๒. สนิทัสสนติกะ  ๒๑. อัชฌัตตารัมมณติกะ)</H2>
+<span class="LineNumber"> 004 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                              <H2>อัชฌัตตารัมมณบท</H2>
+<span class="LineNumber"> 008 </span>           [๘๙๕] ๑.  <B>ธรรมที่ไม่ใช่อัชฌัตตารัมมณธรรม   ที่ไม่ใช่อนิ-
+<span class="LineNumber"> 009 </span>ทัสสนอัปปฏิฆธรรม   อาศัยอัชณัตตารัมมณธรรม  ที่เป็นอนิทัสสน-
+<span class="LineNumber"> 010 </span>อัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๖ วาระ.     
+              
+<span class="LineNumber"> 011 </span>                                  <H2>พหิทธารัมมณบท</H2>
+<span class="LineNumber"> 012 </span>           [๘๙๖] ๑.  <B>ธรรมที่ไม่ใช่พหิทธารัมมณธรรม    ที่ไม่ใช่อนิ-
+<span class="LineNumber"> 013 </span>ทัสสนอัปปฏิฆธรรม    อาศัยพหิทธารัมมณธรรม   ที่เป็นอนิทัสสน- 
+<span class="LineNumber"> 014 </span>อัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>                        ๒.  <B>ธรรมที่ไม่ใช่พหิทธารัมมณธรรม    ที่ไม่ใช่สนิ-
+<span class="LineNumber"> 016 </span>ทัสสนสัปปฏิฆธรรม    อาศัยพหิทธารัมมณธรรม   ที่เป็นอนิทัสสน-
+<span class="LineNumber"> 017 </span>อัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>                                

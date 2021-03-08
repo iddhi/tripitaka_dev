@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>๔.   เนรุชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                   <H1>ว่าด้วยอานุภาพของเนรุบรรพต</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๘๔๙]   กาป่าก็ดี   ฝูงกาธรรมดาก็ดี   และพวกเรา
+<span class="LineNumber"> 004 </span>           ผู้ประเสริฐกว่านกทั้งหลายก็ดี  มาถึงภูเขาลูกนี้
+<span class="LineNumber"> 005 </span>           แล้ว    เป็นเหมือนกันหมด     คือมีสีเหมือนกัน
+<span class="LineNumber"> 006 </span>           หมด.
+<span class="LineNumber"> 007 </span>         [๘๕๐]    ทั้งสิงห์โต  ทั้งเสือ   ทั้งนก   หมาไน   ก็
+<span class="LineNumber"> 008 </span>           เป็นเหมือนกันหมด  ภูเขานี้ชื่ออะไร ?
+<span class="LineNumber"> 009 </span>         [๘๕๑]    คนทั้งหลายรู้จักภูเขาลูกนี้ว่า  ชื่อว่า  เนรุ
+<span class="LineNumber"> 010 </span>           เป็นภูเขาชั้นยอดของภูเขาทั้งหลาย    สัตว์ทุก 
+<span class="LineNumber"> 011 </span>           ชนิดอยู่ในภูเขานี้สีสวยหมด.
+<span class="LineNumber"> 012 </span>         [๘๕๒]    ณ ที่ใดมีแต่ความไม่นับถือกัน  การดูหมิ่น
+<span class="LineNumber"> 013 </span>           สัตบุรุษ   หรือการนับถือคนเลว   ณ   ที่นั้นคนมี
+<span class="LineNumber"> 014 </span>           อำนาจไม่ควรอยู่.
+<span class="LineNumber"> 015 </span>         [๘๕๓]    แต่ในภูเขาใด  เขาบูชาทั้งคนเกียจคร้าน
+<span class="LineNumber"> 016 </span>           ทั้งคนขยัน  คนกล้าหาญ  ทั้งคนขลาด  สัตบุรุษ</B>

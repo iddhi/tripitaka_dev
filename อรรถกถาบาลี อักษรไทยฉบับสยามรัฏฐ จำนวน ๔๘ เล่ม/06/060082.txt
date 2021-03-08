@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๖  ปาฏิกวคฺควณฺณนา  หน้า  ๘๒
+
+<span class="LineNumber"> 002 </span>อโหสิ ฯ  ตสฺมึ   ทิวสํ   อาโลกํ   กตฺวา  อตฺถงฺคเต  ปุน  อนฺธกาโร  
+<span class="LineNumber"> 003 </span>อโหสิ ฯ  เต  ภทฺทกํ  วตสฺส   สเจ   อฺโ   อาโลโก   อุปฺปชฺเชยฺยาติ   
+<span class="LineNumber"> 004 </span>จินฺตยึสุ ฯ  อถ  เนสํ  ฉนฺทํ ตฺวาว จนฺทมณฺฑลํ อุฏฺ€หิ ฯ
+<span class="LineNumber"> 005 </span>เตเนวสฺส จนฺโทติ นามํ อโหสิ.
+<span class="LineNumber"> 006 </span>	เตสุ    จนฺโท    อนฺโตมณิวิมาเน   วสติ ฯ  ตํ   พหิ   รชเตน   
+<span class="LineNumber"> 007 </span>ปริกฺขิตฺตํ ฯ  อุภยํปิ  สีตลเมว  โหติ ฯ(๑) สุริโย อนฺโตกนกวิมาเน 
+<span class="LineNumber"> 008 </span>วสติ ฯ ตํ พาหิรํ(๒) ผลิกปริกฺขิตฺตํ โหติ ฯอุภยํปิ อุณฺหเมว ฯ 
+<span class="LineNumber"> 009 </span>	ปมาณโต     จนฺโท     อุชุกํ    เอกูนปฺาสโยชโน ฯ   
+<span class="LineNumber"> 010 </span>ปริมณฺฑลโต    ตีหิ   โยชเนหิ    อูนทิยฑฺฒสตโยชโน ฯ   สุริโย    อุชุกํ   
+<span class="LineNumber"> 011 </span>ปฺาสโยชโน ฯ   ปริมณฺฑลโต    ทิยฑฺฒสตโยชโน ฯ    
+<span class="LineNumber"> 012 </span>	จนฺโท   เหฏฺ€า   สุริโย   อุปริ ฯ   อนฺตรา   เนสํ   โยชนํ  
+<span class="LineNumber"> 013 </span>โหติ ฯ จนฺทสฺส   เหฏฺ€ิมนฺตโต สุริยสฺส อุปริมนฺตโต โยชนสตํ 
+<span class="LineNumber"> 014 </span>โหติ ฯ 
+<span class="LineNumber"> 015 </span>	จนฺโท  อุชุกํ  สณิกํ  คจฺฉติ ฯ  ติริยํ  สีฆํ ฯ ทฺวีสุ  ปสฺเสสุ 
+<span class="LineNumber"> 016 </span>นกฺขตฺตตารกา  คจฺฉนฺติ ฯ  จนฺโท  เธนุ  วิย  วจฺฉํ  ตํ  ตํ  
+<span class="LineNumber"> 017 </span>นกฺขตฺตํ  อุปสงฺกมติ ฯ นกฺขตฺตานิ  ปน    อตฺตโน    €านํ    น    
+<span class="LineNumber"> 018 </span>วิชหนฺติ ฯ  สุริยสฺส   อุชุกคมนํ   สีฆํ ฯ   ติริยํ   คมนํ    ทนฺธํ ฯ   โส    
+<span class="LineNumber"> 019 </span>กาฬปกฺขอุโปสถโต   ปาฏิปททิวเส   โยชนานํ   สตสหสฺสํ    จนฺท-
+<span class="LineNumber"> 020 </span>มณฺฑลํ  โอหาย  คจฺฉติ ฯ อถ  จนฺโท  เลขา  วิย  ปายติ ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม.อโหสิ ฯ ๒. ม.พาหิรํ ฯ

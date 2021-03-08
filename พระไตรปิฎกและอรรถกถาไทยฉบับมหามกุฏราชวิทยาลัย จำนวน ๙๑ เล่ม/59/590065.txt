@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                      <H1>๖.  มิคาโลปชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                   <H1>ว่าด้วยโทษของคนหัวดื้อ</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๘๖๓]  ดูก่อนพ่อมิคาโลปะ.   พ่อไม่มีความพอใจ
+<span class="LineNumber"> 004 </span>           ที่เจ้าบินไปอย่างนั้น  ลูกเอ๋ยเจ้าบินสูงมาก  เจ้า 
+<span class="LineNumber"> 005 </span>           คบหาที่ไม่ใช่ถิ่นลูกเอ๋ย.  
+<span class="LineNumber"> 006 </span>         [๘๖๔]  แผ่นดินปรากฏแก่เจ้า      เป็นเสมือนนา 
+<span class="LineNumber"> 007 </span>           แปลง  ๔  เหลี่ยมเมื่อใด  เมื่อนั้นเจ้าจงกลับลง
+<span class="LineNumber"> 008 </span>           มา  อย่าบินเลยนี้ขึ้นไป. 
+<span class="LineNumber"> 009 </span>         [๘๖๕]  นกแม้เหล่าอื่นที่มีปีกเป็นยานพาหนะ
+<span class="LineNumber"> 010 </span>           บินไปในอากาศมีอยู่  พวกมันถูกกำลังแรงของ
+<span class="LineNumber"> 011 </span>           ลมพัดไป   สำคัญตนว่า   เป็นเสมือนสิ่งที่ยั่งยืน
+<span class="LineNumber"> 012 </span>           ทั้งหลาย  ได้พินาศไปแล้วมากต่อมาก. 
+<span class="LineNumber"> 013 </span>         [๘๖๖]  แร้งมิคาโลปะ ไม่ปฏิบัติตามคำสั่งของแร้ง
+<span class="LineNumber"> 014 </span>           แต่ชื่ออปรัณผู้เป็นพ่อ     บินเลยลมกาลวาตไป
+<span class="LineNumber"> 015 </span>           ตกอยู่ในอำนาจของลมเวรัมภวาต. 
+<span class="LineNumber"> 016 </span>         [๘๖๗]  เมื่อแร้งมิคาโลปะ.   ไม่ปฏิบัติตามโอวาท
+<span class="LineNumber"> 017 </span>           ทั้งลูกทั้งเมียของมันและแร้งอัน  ๆ   ที่เป็นลูก</B>

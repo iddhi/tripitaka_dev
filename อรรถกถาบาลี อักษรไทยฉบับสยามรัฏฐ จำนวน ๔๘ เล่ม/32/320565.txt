@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  ทสกนิปาตวณฺณนา  หน้า  565
+		
+<span class="LineNumber"> 002 </span>	[๑๔๒๓]ภวนฺติ เหเก ปุริสา  	โคปิปาสกชาติกา(๑)  
+<span class="LineNumber"> 003 </span>		ฆสนฺติ มฺเ มิตฺตานิ  	วาจาย น จ กมฺมุนา ฯ  
+<span class="LineNumber"> 004 </span>	[๑๔๒๔]สุกฺขฺชลิปคฺคหีตา  	วาจาย ปลิคุณฺ€ิตา  
+<span class="LineNumber"> 005 </span>		มนุสฺสเผคฺคู นาสิเท  	ยสฺมึ นตฺถิ กตฺุตา ฯ  
+<span class="LineNumber"> 006 </span>	[๑๔๒๕]น หิ อฺฺจิตฺตานํ(๒)  อิตฺถีนํ ปุริสาน วา  
+<span class="LineNumber"> 007 </span>		นานา วิกตฺวา สํสคฺคํ  	ตาทิสํปิ หิ นาสฺมเส(๓) ฯ  
+<span class="LineNumber"> 008 </span>	[๑๔๒๖]อนริยกมฺมํ โอกฺกนฺตํ(๔) อ€ิตํ (๕)สพฺพฆาตินํ  
+<span class="LineNumber"> 009 </span>		นิสิตํว ปฏิจฺฉนฺนํ  		ตาทิสํปิ หิ นาสฺมเส ฯ  
+<span class="LineNumber"> 010 </span>	[๑๔๒๗]มิตฺตรูเป อิเธกจฺเจ(๖)  สาขลฺเยน อเจตสา  
+<span class="LineNumber"> 011 </span>		วิวิเธหิ อุปาเยหิ(๗)  	ตาทิสํปิ หิ นาสฺมเส ฯ  
+<span class="LineNumber"> 012 </span>	[๑๔๒๘]อามิสํ วา ธนํ วาปิ  	ยตฺถ ปสฺสติ ตาทิโส  
+<span class="LineNumber"> 013 </span>		ทุพฺภึ กโรติ ทุมฺเมโธ  	ตฺจ หิตฺวาน(๘) คจฺฉตีติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  นาสฺมเสติ  นสฺสเส  ฯ  อยเมว  วา  ปาโ€ ฯ น
+<span class="LineNumber"> 015 </span>วิสฺสเสติ  วุตฺตํ  โหติ  ฯ  กตปาปมฺหีติ  ป€มํ  กตปาเป 
+<span class="LineNumber"> 016 </span>ปุคฺคเล  ฯ อลิกวาทิเนติ  มุสาวาทิมฺหิปิ  น  วิสฺสเส  ฯ  ตสฺส  หิ  
+<span class="LineNumber"> 017 </span>อกตฺตพฺพํ  นาม  ปาปํ  นตฺถิ  ฯ  นาสฺมเส  อตฺตตฺถปฺมฺหีติ  อตฺตโน 
+<span class="LineNumber"> 018 </span>อตฺถายเอว  ยสฺส  ปฺา  เสฺนหวเสน  น  ภชติ  ธนตฺถิโกว  ภชติ
+<span class="LineNumber"> 019 </span># ๑. ส. โคปิปาสิกชาติกา ฯ  ๒. ส. อฺโฺจิตฺตานํ ฯ
+<span class="LineNumber"> 020 </span># ๓. ส. น. วิสฺสเส ฯ  ม. จ. นามสฺมเส ฯ ๔. ม. ...กมฺมโมกฺกนฺตํ ฯ
+<span class="LineNumber"> 021 </span># ๕. ส. อตฺเถตํ ฯ ม. อเถตํ ฯ  ๖. ส. มิตฺตวเสนิเธกจฺเจ ฯ 
+<span class="LineNumber"> 022 </span># สี. ม. มิตฺตรูเปนิเธกจฺเจ ฯ  ๗. ม. อุปายนฺติ ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม. หนฺตฺวาน ฯ 

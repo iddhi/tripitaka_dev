@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๔๕๕]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ 
+<span class="LineNumber"> 003 </span>     <I>นสรณทุกนนิวรณโคจฉกทุกสรณทุกนีวรณโคจฉกทุกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                          <H1>นสรณทุกนปรามาสโคจฉกทุกะ</H1>
+<span class="LineNumber"> 005 </span>                            <H1>สรณทุกปรามาสโคจฉกทุกะ</H1>
+<span class="LineNumber"> 006 </span> <H2>(๑๐๐. สรณทุกะ  ๕๐-๕๔.  ปรามาสโคจฉกทุกะ)</H2>			
+<span class="LineNumber"> 007 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 008 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 010 </span>                                       <H2>ปรามาสบท</H2>
+<span class="LineNumber"> 011 </span>           [๑๔๕๖] ๑.  <B>ปรามาสธรรม  ที่เป็นสรณธรรม  อาศัยธรรม
+<span class="LineNumber"> 012 </span>ที่ไม่ใช่ปรามาสธรรม  ที่ไม่ใช่อรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>           [๑๕๔๗]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ
+<span class="LineNumber"> 015 </span>  <I>นสรณทุกนปรามาสโคจฉกทุกสรณทุกปรามาสโคจฉกทุกะ  จบ</I>

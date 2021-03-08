@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>					    <H1>อรณบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 002 </span>	                          	     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 003 </span>                                            <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๘๖๖]      ๑.  อรณธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 005 </span>อาศัยอรณธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 006 </span>เหตุปัจจัย
+<span class="LineNumber"> 007 </span>                 		๒.  อรณธรรมที่เป็นอทุกขมสุขายเวทนายสัมปยุตต-
+<span class="LineNumber"> 008 </span>ธรรม    อาศัยอรณธรรมที่เป็นอทุกขมสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>			    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๘๖๗]  ในเหตุปัจจัย  มี  ๒ วาระ    ในอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 013 </span>         	 สหชาตวาระก็ดี  ฯลฯ   สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.

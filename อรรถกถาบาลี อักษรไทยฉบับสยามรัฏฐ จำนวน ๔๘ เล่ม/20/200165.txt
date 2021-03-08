@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  หน้า  165
+
+<span class="LineNumber"> 002 </span>		ทุติยสีลสุตฺตวณฺณนา
+<span class="LineNumber"> 003 </span>	ฉฏฺเ€  ภทฺทเกน  จ  สีเลนาติ  กายสุจริตาทิจตุปาริสุทฺธิ-
+<span class="LineNumber"> 004 </span>สีเลน ฯ  ตํ หิ  อขณฺฑาทิสีลภาเวน  สยฺจ  กลฺยาณํ  สมถ-
+<span class="LineNumber"> 005 </span>วิปสฺสนาทิกลฺยาณคุณาวหฺจาติ ภทฺทกนฺติ  วุจฺจติ ฯ  ภทฺทิกาย  
+<span class="LineNumber"> 006 </span>จ  ทิฏฺ€ิยาติ  กมฺมสฺสกตาเณน  เจว กมฺมปถสมฺมาทิฏฺ€ิยา  จ ฯ 
+<span class="LineNumber"> 007 </span>ตตฺถ  ภทฺทเกน  สีเลน  ปโยคสมฺปนฺโน  โหติ  ภทฺทิกาย ทิฏฺ€ิยา 
+<span class="LineNumber"> 008 </span>อาสยสมฺปนฺโน  โหติ(๑)  อิติ  ปโยคาสยสมฺปนฺโน  ปุคฺคโล  สคฺคู-
+<span class="LineNumber"> 009 </span>ปโค โหติ ฯ  เตน  วุตฺตํ  อิเมหิ  โข  ภิกฺขเว  ทฺวีหิ  ธมฺเมหิ 
+<span class="LineNumber"> 010 </span>สมนฺนาคโต  ปุคฺคโล ยถาภตํ นิกฺขิตฺโต เอวํ สคฺเคติ ฯ 
+<span class="LineNumber"> 011 </span>	สปฺปฺโติ ปฺวา ฯ เสสํ สุวิฺเยฺยเมว ฯ
+<span class="LineNumber"> 012 </span>		ฉฏฺ€สุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+
+<span class="LineNumber"> 013 </span>		อาตาปีสุตฺตวณฺณนา
+<span class="LineNumber"> 014 </span>	สตฺตเม  อนาตาปีติ  กิเลสานํ  อาตาปนฏฺเ€น  อาตาโป  
+<span class="LineNumber"> 015 </span>วีริยํ  โส เอตสฺส  อตฺถีติ  อาตาปี  น  อาตาปี  อนาตาปี  ฯ
+<span class="LineNumber"> 016 </span>สมฺมปฺปธานวิรหิโต  กุสีโตติ วุตฺตํ  โหติ ฯ  โอตฺตปฺปํ(๒)  วุจฺจติ 
+<span class="LineNumber"> 017 </span>ปาปุตฺตาโส  โส  เอตสฺส  อตฺถีติ โอตฺตปฺปี(๓) ฯ น โอตฺตาปี  
+<span class="LineNumber"> 018 </span>อโนตฺตาปี  โอตฺตาปรหิโต ฯ  อถวา ฯ  อาตาปปฺปฏิปกฺโข  
+<span class="LineNumber"> 019 </span># ๑. ม. อยํ ปาโ€ นติถิ ฯ  ๒. ม. โอตฺตาโป ฯ 
+<span class="LineNumber"> 020 </span># ๓. ปุราณโปตฺถเกสุ โอตฺตาปี อโนตฺตาปีติ ทิสฺสติ 
+<span class="LineNumber"> 021 </span># ปาลิยมฺปน อโนตฺตปฺปีติ ฯ 

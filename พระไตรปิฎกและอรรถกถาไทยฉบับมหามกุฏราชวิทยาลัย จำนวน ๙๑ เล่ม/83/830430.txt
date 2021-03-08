@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า  บุคคลใด    กำหนดรู้อวิชชานุสัย,  บุคคลนั้น   ย่อม  
+<span class="LineNumber"> 002 </span>กำหนดรู้กามราคานุสัย ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ไม่ใช่.
+<span class="LineNumber"> 004 </span>                 <I>จบ  กามราคานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 005 </span>                                 <I>กามราคานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                     <H1>ปฏิฆานุสยมูล</H1>
+<span class="LineNumber"> 007 </span><H2>ปฏิฆานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 008 </span>         [๑๔๒๑]  บุคคลใด   กำหนดรู้ปฏิฆานุสัย,   บุคคลนั้น   ย่อม
+<span class="LineNumber"> 009 </span>กำหนดรู้กามราคานุสัย ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         กำหนดรู้กิเลสอันตั้งอยู่ในที่เดียวกันกับอนุสัยนั้น.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า   บุคคลใด    กำหนดรู้มานานุสัย,   บุคคลนั้น    ย่อม
+<span class="LineNumber"> 012 </span>กำหนดรู้ปฏิฆานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ไม่ใช่.
+<span class="LineNumber"> 014 </span>                       <I>จบ  ปฏิฆานุสยมูละ  มานานุสยมูลี</I>

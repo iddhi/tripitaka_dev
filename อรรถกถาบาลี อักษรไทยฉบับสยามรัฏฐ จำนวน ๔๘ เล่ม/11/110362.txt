@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๓๖๒
+
+<span class="LineNumber"> 002 </span>องฺคุลึ  ปสาเรตฺวา  ทสฺเสตพฺโพ  อโหสิ ฯ  เอกทิวสํ  สพฺเพ
+<span class="LineNumber"> 003 </span>อรหนฺโตว อเหสุํ ฯ ตสฺมาติ ยสฺมา กลิงฺครูปปธานานํ มาโร 
+<span class="LineNumber"> 004 </span>อารมฺมณํ น ลภติ ตสฺมา ฯ 
+<span class="LineNumber"> 005 </span>				อฏฺ€มํ ฯ  
+
+<span class="LineNumber"> 006 </span>			นาคสุตฺตวณฺณนา            
+<span class="LineNumber"> 007 </span>	นวเม  อติเวลนฺติ  อติกฺกนฺตเวลํ  กาลํ  อติกฺกนฺต-
+<span class="LineNumber"> 008 </span>ปฺปมาณํ  กาลํ ฯ กิมงฺคํ  ปหานนฺติ  อหํ  ปน  กึการณา 
+<span class="LineNumber"> 009 </span>น  อุปสงฺกมิสฺสามิ  ภิสมูฬาลนฺติ ภิสฺเจว  มุลาลฺจ ฯ
+<span class="LineNumber"> 010 </span>อพฺภุคฺคเหตฺวาติ (๑) อุทฺธริตฺวา ฯ ภิงฺกจฺฉาปาติ (๒)หตฺถิโปตกา ฯ เต
+<span class="LineNumber"> 011 </span>กิร  อภิณฺหํ  ภิงฺการสทฺทํ  กโรนฺติ  ตสฺมา  ภิงฺกจฺฉาปาติ  
+<span class="LineNumber"> 012 </span>วุจฺจนฺติ ฯ ปสนฺนาการํ  กโรนฺตีติ  ปสนฺเนหิ  กตฺตพฺพาการํ  
+<span class="LineNumber"> 013 </span>กโรนฺติ  จตฺตาโร  ปจฺจเย เทนฺติ ฯ  ธมฺมํ  ภาสนฺตีติ  
+<span class="LineNumber"> 014 </span>เอกํ  เทฺว  ชาตกานิ  วา  สุตฺตนฺเต วา อุคฺคณฺหิตฺวา อสมฺภินฺเนน
+<span class="LineNumber"> 015 </span>สทฺเทน  ธมฺมํ  เทเสนฺติ ฯ  ปสนฺนาการํ  กโรนฺตีติ  เตสํ  ตาย 
+<span class="LineNumber"> 016 </span>เทสนาย  ปสนฺนา  คิหีปจฺจเย  เทนฺติ ฯ  เนว  วณฺณาย  โหติ 
+<span class="LineNumber"> 017 </span>น  พลายาติ  เนว  คุณวณฺณาย  น  าณวณฺณาย(๓)  โหติ 
+<span class="LineNumber"> 018 </span>คุเณ จ(๔) ปน  ปริหายนฺเต  สรีรวณฺโณปิ  สรีรพลมฺปิ ปริหายติ
+<span class="LineNumber"> 019 </span># ๑. ม. อพฺพุเหตฺวาติ ฯ  ยุ. อพฺพาหิตฺวา ฯ  
+<span class="LineNumber"> 020 </span># ๒. ม. ภิงฺกจฺฉาปาติ ฯ  ๓. ม. าณพลาย ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. คุณวณฺเณ ปน ฯ

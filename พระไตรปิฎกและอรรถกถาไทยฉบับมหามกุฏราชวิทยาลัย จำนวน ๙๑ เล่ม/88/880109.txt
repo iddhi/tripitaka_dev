@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๑ ที่เป็นอเหตุกธรรม  ซึ่งเป็นวิบาก  เป็นปัจจัยแก่ขันธ์   ๓
+<span class="LineNumber"> 002 </span>และจิตตสมุฏฐานรูปทั้งหลาย ฯลฯ ขันธ์ ๒ ฯลฯ. 
+<span class="LineNumber"> 003 </span>           ในปฏิสนธิขณะ  ขันธ์ทั้งหลาย   เป็นปัจจัยแก่หทยวัตถุ   ด้วยอำนาจ
+<span class="LineNumber"> 004 </span>ของวิปากปัจจัย.
+
+<span class="LineNumber"> 005 </span>                                        <H1>๑๕.   อาหารปัจจัย</H1>
+<span class="LineNumber"> 006 </span>           [๙๑] ๑.  <B>สเหตุกธรรม    เป็นปัจจัยแก่สเหตุธรรม   ด้วย
+<span class="LineNumber"> 007 </span>อำนาจของอาหารปัจจัย</B>  มี ๓ วาระ  (วาระที่ ๑-๓)
+<span class="LineNumber"> 008 </span>                     ๔.  <B>อเหตุกธรรม     เป็นปัจจัยแก่อเหตุกธรรม    ด้วย
+<span class="LineNumber"> 009 </span>อำนาจของอาหารปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ   อาหารทั้งหลาย   ที่เป็นอเหตุกธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 011 </span>และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของอาหารปัจจัย.
+<span class="LineNumber"> 012 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 013 </span>           กวฬีการาหารเป็นปัจจัยแก่กายนี้    ด้วยอำนาจของอาหารปัจจัย.
+
+<span class="LineNumber"> 014 </span>                                          <H1>๑๖.  อินทริยปัจจัย</H1>
+<span class="LineNumber"> 015 </span>           [๙๒] ๑.  <B>สเหตุกธรรม     เป็นปัจจัยแก่สเหตุกธรรม    ด้วย
+<span class="LineNumber"> 016 </span>อำนาจของอินทริยปัจจัย</B>   มี ๓ วาระ  (วาระที่ ๑-๓)
+<span class="LineNumber"> 017 </span>                     ๔.  <B>อเหตุกธรรม    เป็นปัจจัยแก่อเหตุกธรรม   ด้วย
+<span class="LineNumber"> 018 </span>อำนาจของอินทริยปัจจัย</B>

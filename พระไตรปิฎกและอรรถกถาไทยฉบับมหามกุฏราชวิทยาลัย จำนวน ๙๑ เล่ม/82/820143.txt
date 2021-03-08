@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>เวทนาขันธมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๑๓๘]   เวทนาขันธ์กำลังเกิดในภูมิใด,    สัญญาขันธ์ก็เคยเกิด 
+<span class="LineNumber"> 004 </span>ในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า   สัญญาขันธ์เคยเกิดในภูมิใด,   เวทนาขันธ์ก็กำลังเกิด 
+<span class="LineNumber"> 007 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                       <I>จบ  เวทนาขันธมูละ   สัญญาขันธมูลี</I>
+<span class="LineNumber"> 010 </span>                                   <I>เวทนาขันธมูล  จบ</I>
+<span class="LineNumber"> 011 </span>                                     <I>โอกาสวาระ   จบ</I>
+<span class="LineNumber"> 012 </span>                                      <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 013 </span>                                          <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 014 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2>
+<span class="LineNumber"> 015 </span>         [๑๓๙]    รูปขันธ์กำลังเกิดแก่บุคคลใดในภูมิใด,     เวทนาขันธ์
+<span class="LineNumber"> 016 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น    ใช่ไหม ?

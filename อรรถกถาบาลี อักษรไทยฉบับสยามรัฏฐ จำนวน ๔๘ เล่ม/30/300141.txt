@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  อสทิสชาตกํ  หน้า  141
+
+<span class="LineNumber"> 002 </span>ปทรํ  จตุรงฺคุลพหลํ  อสนปทรํ  วินิวิชฺฌติ  โส  ปน  ผลกสตมฺปิ 
+<span class="LineNumber"> 003 </span>เอกโต  พทฺธํ  วินิวิชฺฌติ  ตถา  ทฺวงฺคุลพหลํ  ตมฺพโลหปฏฺฏํ  
+<span class="LineNumber"> 004 </span>องฺคุลพหลํ  อยปฏฺฏํ  วาลิกสกฏสฺส  (๑) ปทรสกฏสฺส  วา ปจฺฉา-
+<span class="LineNumber"> 005 </span>ภาเค (๑) กณฺฑํ ปเวเสตฺวา ปุรภาเคน อติปาเตติ ฯ ปกติยา  
+<span class="LineNumber"> 006 </span>อุทเก  จตุอุสุภฏฺ€านํ  (๒) กณฺฑํ  ปเวเสสิ  (๓) ถเล  อฏฺ€ุสุภนฺติ (๔) เอวํ  
+<span class="LineNumber"> 007 </span>อิเมสํ  สตฺตนฺนํ  มหากายานํ  ปทาลนโต  มหากายปฺปทาลิโน ฯ  
+<span class="LineNumber"> 008 </span>สพฺพามิตฺเตติ  สพฺเพ  อมิตฺเต ฯ  รณํ  กตฺวาติ  ยุทฺธํ กตฺวา 
+<span class="LineNumber"> 009 </span>ปลาเปสีติ  อตฺโถ ฯ  น  จ  กิฺจิ  วิเห€ยีติ  เอกมฺปิ  น 
+<span class="LineNumber"> 010 </span>วิเหเ€ยฺย ฯ  อวิเห€ยนฺโต  ปน  เตหิ  สทฺธึ  กณฺฑเปสเนน
+<span class="LineNumber"> 011 </span>รณํ  กตฺวา ฯ  สฺมํ  อชฺฌุปาคมีติ สีลสฺมํ ปพฺพชฺชํ 
+<span class="LineNumber"> 012 </span>อุปคโตติ ฯ  
+<span class="LineNumber"> 013 </span>	เอวํ  สตฺถา  อิมํ  ธมฺมเทสนํ  เทเสตฺวา  ชาตกํ  สโมธาเนสิ   
+<span class="LineNumber"> 014 </span>ตทา กนิฏฺ€ภาตา อานนฺโท อโหสิ อสทิสกุมาโร ปน 
+<span class="LineNumber"> 015 </span>อหเมวาติ ฯ  
+<span class="LineNumber"> 016 </span>				อสทิสชาตกํ ป€มํ ฯ  
+<span class="LineNumber"> 017 </span># ๑. ม. พทรสกฏสฺส ปลาลสกฏสฺส วา ปจฺฉาภาเคน ฯ
+<span class="LineNumber"> 018 </span># ๒. ม. จตุอุสภฏฺ€านํ ฯ  ๓. ม. เปเสติ ฯ  ๔. ม. อฏฺ€อุสภนฺติ ฯ

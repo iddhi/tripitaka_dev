@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 73
+
+<span class="LineNumber"> 002 </span>		มเหสกฺโข อฺตโร ปิตา เต  
+<span class="LineNumber"> 003 </span>		มจฺเจสุ มาตา ปน เต อตุลฺยา  
+<span class="LineNumber"> 004 </span>		น ตาทิโส อรหติ พฺราหฺมณสฺส  
+<span class="LineNumber"> 005 </span>		ทาสํปิ โอหาริตุํ มหานุภาโวติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  กาสิสฺสาติ  อปเรน  นาเมน  เอวํนามกสฺส  กาสิก-
+<span class="LineNumber"> 007 </span>รฺโติ(๑)  วทนฺติเยว ฯ กาสิกราชธีตาย คหิตตฺตา กาสิกรชฺชํปิ(๒)
+<span class="LineNumber"> 008 </span>ตสฺเสว  สนฺตกํ  กตฺวา  วณฺเณติ ฯ  อมราธิปสฺสาติ  ทีฆายุกตาย  
+<span class="LineNumber"> 009 </span>อมรสํขาตานํ  นาคานํ  อธิปติสฺส ฯ  มเหสกฺโขติ [๓]  มเหสกฺขานํ  
+<span class="LineNumber"> 010 </span>อฺตโร ฯ  ทาสํปีติ  ตาทิโส  หิ  มหานุภาโว  อานุภาวรหิตํ  
+<span class="LineNumber"> 011 </span>พฺราหฺมณสฺส  ทาสํปิ  อุทเก โอหาริตุํ นารหติ ปเคว มหานุภาวํ 
+<span class="LineNumber"> 012 </span>พฺราหฺมณนฺติ วทติ ฯ  
+<span class="LineNumber"> 013 </span>	อถ  นํ  สุโภโค  อเร  ทุฏฺ€  พฺราหฺมณ  ตฺวํ  มํ 
+<span class="LineNumber"> 014 </span>วฺเจตฺวา  มุฺจิสฺสามีติ  มฺสิ  น  เต  ชีวิตํ  ทสฺสามีติ 
+<span class="LineNumber"> 015 </span>เตน  กตกมฺมํ  ปกาเสนฺโต อาห  
+<span class="LineNumber"> 016 </span>	[๗๕๗]รุกฺขํ นิสฺสาย วิชฺฌิตฺโถ	เอเณยฺยํ ปาตุมาคตํ  
+<span class="LineNumber"> 017 </span>		โส วิทฺโธ ทูรมาจริ		สรเวเคน เสกฺขวา(๔)  
+<span class="LineNumber"> 018 </span>		ตํ ตฺวํ ปติตมทฺทกฺขิ	อรฺสฺมึ พฺรหาวเน  
+<span class="LineNumber"> 019 </span>		ส มํสกาชํ อาทาย		สายํ นิโคฺรธมุปาคมิ  
+<span class="LineNumber"> 020 </span>		สุวสาลิยสงฺฆุฏฺ€ํ(๕)		ปิงฺคิยํ(๖) สณฺ€ตายุตํ  
+<span class="LineNumber"> 021 </span># ๑. สี. กาสิสฺส รฺโติปิ ฯ  ม. กาสิกรฺโติปิ ฯ 
+<span class="LineNumber"> 022 </span># ๒. ม. กาสิรชฺชมฺปิ ฯ  ๓. ม. เอตฺถนฺตเร มหานุภาโว ฯ 
+<span class="LineNumber"> 023 </span># อฺตโรติ ทิสฺสนฺติ ฯ  ๔. ม. สีฆวา ฯ 
+<span class="LineNumber"> 024 </span># ๕. ม. สุกสาฬิกสงฺฆุฏฺ€ํ ฯ  ๖. ม. ปิงฺคลํ ฯ

@@ -1,0 +1,30 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>๗๘-๔.  กิเลสสัมปยุตตทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>กิเลสสมฺปยุตฺตา ธมฺมา</B>                    ธรรมสัมปยุตด้วยกิเลส
+<span class="LineNumber"> 003 </span><B>กิเลสวิปฺปยุตฺตา ธมฺมา</B>                    ธรรมวิปปยุตจากกิเลส
+
+<span class="LineNumber"> 004 </span>                     <H2>๗๙-๕.  กิเลสสังกิเลสิกทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>กิเลสา เจว ธมฺมา</B>                            ธรรมเป็นกิเลสและเป็นอารมณ์ของ
+<span class="LineNumber"> 006 </span><B>สงฺกิเลสิกา จ</B>                                  สังกิเลส
+<span class="LineNumber"> 007 </span><B>สงฺกิเลสิกา เจว ธมฺมา</B>                     ธรรมเป็นอารมณ์ของสังกิเลส  แต่ไม่
+<span class="LineNumber"> 008 </span><B>โน จ กิเลสา</B>                                    เป็นกิเลส
+
+<span class="LineNumber"> 009 </span>                       <H2>๘๐-๖.  กิเลสสังกิลิฏฐทุกะ</H2>
+
+<span class="LineNumber"> 010 </span><B>กิเลสา เจว ธมฺมา สงฺกิลิฏฺ€า จ</B>           ธรรมเป็นกิเลสและเศร้าหมอง
+<span class="LineNumber"> 011 </span><B>สงฺกิลิฏฺ€า เจว ธมฺมา โน จ กิเลสา</B>      ธรรมเศร้าหมองแต่ไม่เป็นกิเลส
+
+<span class="LineNumber"> 012 </span>                  <H2>๘๑-๗.  กิเลสกิเลสสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 013 </span><B>กิเลสา เจว ธมฺมา กิเลส</B>                     ธรรมเป็นกิเลสและสัมปยุตด้วยกิเลส
+<span class="LineNumber"> 014 </span><B>สมฺปยุตฺตา จ</B>
+<span class="LineNumber"> 015 </span><B>กิเลสสมฺปยุตฺตา เจว ธมฺมา</B>               ธรรมสัมปยุตด้วยกิเลส แต่ไม่เป็นกิเลส
+<span class="LineNumber"> 016 </span><B>โน จ กิเลสา</B>
+
+<span class="LineNumber"> 017 </span>                <H2>๘๒-๘.  กิเลสวิปปยุตตสังกิเลสิกทุกะ</H2>
+
+<span class="LineNumber"> 018 </span><B>กิเลสวิปฺปยุตฺตา โข ปน</B>                   ธรรมวิปปยุตจากกิเลส แต่เป็นอารมณ์
+<span class="LineNumber"> 019 </span><B>ธมฺมา สงฺกิเลสิกาปิ</B>                         ของสังกิเลส
+<span class="LineNumber"> 020 </span><B>กิเลสวิปฺปยุตฺตา โข ปน</B>                   ธรรมวิปปยุตจากกิเลส และไม่เป็น
+<span class="LineNumber"> 021 </span><B>ธมฺมา อสงฺกิเลสิกาปิ</B>                       อารมณ์ของสังกิเลส

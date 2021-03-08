@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>๑๔. วิปากปัจจัย ฯลฯ  ๑๕.  อาหารปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๒๑๔] ๑.  <B>จิตตสหภูธรรม       เป็นปัจจัยแก่จิตตสหภูธรรม
+<span class="LineNumber"> 003 </span>ด้วยอำนาจของวิปากปัจจัย</B>.   เหมือนจิตตสมุฏฐานทุกะ.
+<span class="LineNumber"> 004 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของอาหารปัจจัย</B>  มี ๙ วาระ    เหมือน
+<span class="LineNumber"> 005 </span>จิตตสมุฏฐานทุกะ  แม้ทุกะนี้ก็มี ๑ วาระ    เหมือนกพฬีการาหาร.
+
+<span class="LineNumber"> 006 </span>                 <H2>๑๖. อินทริยปัจจัย  ฯลฯ   ๑๙.  สัมปยุตตปัจจัย</H2>
+<span class="LineNumber"> 007 </span>         [๒๐๕]  ๑.  <B>จิตตสหภูธรรม       เป็นปัจจัยแก่จิตตสหภูธรรม
+<span class="LineNumber"> 008 </span>ด้วยอำนาจของอินทริยปัจจัย</B>  มี ๙ วาระ  เหมือนจิตตสมุฏฐานทุกะ  ไม่มี
+<span class="LineNumber"> 009 </span>ต่างกัน.
+<span class="LineNumber"> 010 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของฌานปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของมัคคปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของสัมปยุตตปัจจัย</B>  มี ๕ วาระ.
+
+<span class="LineNumber"> 013 </span>                                  <H2>๒๐. วิปปยุตตปัจจัย</H2>
+<span class="LineNumber"> 014 </span>         [๒๑๖]  ๑.  <B>จิตตสหภูธรรม       เป็นปัจจัยแก่จิตตสหภูธรรม
+<span class="LineNumber"> 015 </span>ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 016 </span>         มีอย่างเดียว   คือที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 017 </span>         ขันธ์ทั้งหลายที่เป็นจิตตสหภูธรรม      เป็นปัจจัยแก่จิตตสมุฏฐานรูป
+<span class="LineNumber"> 018 </span>ทั้งหลายที่เป็นจิตตสหภูธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย.

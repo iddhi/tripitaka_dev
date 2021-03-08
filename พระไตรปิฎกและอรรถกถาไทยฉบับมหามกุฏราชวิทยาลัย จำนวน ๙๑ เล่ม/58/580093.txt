@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                          <H2>รวมชาดกที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>	๑.  สังกัปปราคชาดก     ๒.  ติลมุฏฐิชาดก  ๓.  มณิกัณฐชาดก
+<span class="LineNumber"> 003 </span>๔. กุณฑกกุจฉิสินธวชาดก    ๕.   สุกชาดก     ๖.  ชรูทปานชาดก
+<span class="LineNumber"> 004 </span>๗. คามณิจันทชาดก    ๘.  มันธาตุราชชาดก    ๙.  ติรีติวัจฉชาดก
+<span class="LineNumber"> 005 </span>๑๐.  ทูตชาดก.
+<span class="LineNumber"> 006 </span>                             <I>จบ  สังกัปปวรรคที่  ๑</I>

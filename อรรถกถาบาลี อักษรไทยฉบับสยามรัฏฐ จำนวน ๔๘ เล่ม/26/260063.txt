@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  สุภูตตฺเถรคาถาวณฺณนา  หน้า  63
+
+<span class="LineNumber"> 002 </span>	อสงฺคจิตฺโต  สพฺพตฺถ  		อนิโล  วิย  นายโก  
+<span class="LineNumber"> 003 </span>	ปติฏฺ€า  สพฺพภูตานํ  		มหีว  มุนิสตฺตโม.  
+<span class="LineNumber"> 004 </span>	อนุปลิตฺโต  โลเกน  		โตเยน  ปทุมํ  ยถา  
+<span class="LineNumber"> 005 </span>	กุวาทคจฺฉทหโน  			อคฺคิกฺขนฺโธว  โสภติ (๑)  ฯ  
+<span class="LineNumber"> 006 </span>	อคโท  วิย  สพฺพตฺถ  		กิเลสวิสนาสโก  
+<span class="LineNumber"> 007 </span>	คนฺธมาทนเสโลว  			คุณคนฺธวิภูสิโต ฯ  
+<span class="LineNumber"> 008 </span>	คุณานํ  อากโร  วีโร  		รตนานํว  สาคโร  
+<span class="LineNumber"> 009 </span>	สินฺธูว  วนราชีนํ (๒)  		กิเลสมลหารโก ฯ  
+<span class="LineNumber"> 010 </span>	วิชยีว  มหาโยโธ  			มารเสนาวมทฺทโน (๓)  
+<span class="LineNumber"> 011 </span>	จกฺกวตฺตีว  โส  ราชา  		โพชฺฌงฺครตนิสฺสโร ฯ  
+<span class="LineNumber"> 012 </span>	มหาภิสกฺกสงฺกาโส  		โทสพฺยาธิติกิจฺฉโก  
+<span class="LineNumber"> 013 </span>	สลฺลกตฺโต  ยถา  เวชฺโช (๔)  	ทิฏฺ€ิคณฺฑวิผาลโก ฯ  
+<span class="LineNumber"> 014 </span>	โส  ตทา  โลกปชฺโชโต  		สนรามรสกฺกโต  
+<span class="LineNumber"> 015 </span>	ปริสาสุ  นราทิจฺโจ  		ธมฺมํ  เทสยเต  ชิโน ฯ  
+<span class="LineNumber"> 016 </span>	ทานํ  ทตฺวา  มหาโภโค  		สีเลน  สุคตูปโค  
+<span class="LineNumber"> 017 </span>	ภาวนาย  จ  นิพฺพาติ  		อิจฺเจวมนุสาสถ ฯ  
+<span class="LineNumber"> 018 </span>	เทสนํ  ตํ  มหสฺสาทํ  		อาทิมชฺฌนฺตโสภนํ  
+<span class="LineNumber"> 019 </span>	สุณนฺติ  ปริสา  สพฺพา  		อมตํว  มหารสํ  ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา.  โส  วสิ  ฯ  ๒.  สฺยา.  สินฺธุว  จ  นราชฺโ  ฯ  
+<span class="LineNumber"> 021 </span>#ยุ.  สินฺธว  ว  นราชฺโ  ฯ  ๓.  สฺยา.  มารเสนาปฺปมทฺทโน  ฯ  
+<span class="LineNumber"> 022 </span>#สฺยา.  เสฏฺโ€  ฯ  

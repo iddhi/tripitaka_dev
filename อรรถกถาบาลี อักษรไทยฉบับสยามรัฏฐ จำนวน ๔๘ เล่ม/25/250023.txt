@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  นิทานคาถาวณฺณนา  หน้า 23
+
+<span class="LineNumber"> 002 </span>ปฺํ  ภาวยนฺติ  จ วจนโต ปฺาปฏิปตฺติยา ปริโยสานํว
+<span class="LineNumber"> 003 </span>ปฺุตฺตรโต  กุสลานํ  ธมฺมานํ  สาว  กลฺยาณา  อิฏฺ€านิฏฺเ€สุ 
+<span class="LineNumber"> 004 </span>ตาทิภาวาวหตฺตา ฯ  
+<span class="LineNumber"> 005 </span>		เสโล ยถา เอกฆโน	วาเตน น สมีรติ  
+<span class="LineNumber"> 006 </span>		เอวํ นินฺทาปสํสาสุ		น สมิฺชนฺติ ปณฺฑิตาติ 
+<span class="LineNumber"> 007 </span>หิ  วุตฺตํ ฯ  
+<span class="LineNumber"> 008 </span>	ตถา  สีลสมฺปทาย  เตวิชฺชภาโว  ทสฺสิโต ฯ  สีลสมฺปตฺตึ  
+<span class="LineNumber"> 009 </span>หิ  นิสฺสาย  ติสฺโส วิชฺชา  ปาปุณนฺติ ฯ 
+<span class="LineNumber"> 010 </span>	สมาธิสมฺปทาย  ฉฬภิฺาภาโว ฯ  สมาธิสมฺปตฺตึ  หิ 
+<span class="LineNumber"> 011 </span>นิสฺสาย ฉฬภิฺา  ปาปุณนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	ปฺาสมฺปทาย  ปภินฺนปฏิสมฺภิทาภาโว ฯ  ปฺาสมฺปทํ 
+<span class="LineNumber"> 013 </span>หิ  นิสฺสาย  จตสฺโส  ปฏิสมฺภิทา  ปาปุณนฺติ ฯ
+<span class="LineNumber"> 014 </span>	อิมินา เตสํ เถรานํ เกจิ เตวิชฺชา เกจิ ฉฬภิฺา 
+<span class="LineNumber"> 015 </span>เกจิ ปฏิสมฺภิทาปตฺตาติ อยมตฺโถ ทสฺสิโตติ เวทิตพฺพํ ฯ  
+<span class="LineNumber"> 016 </span>	ตถา  สีลสมฺปทาย  เตสํ  กามสุขานุโยคสงฺขาตสฺส  
+<span class="LineNumber"> 017 </span>อนฺตสฺส  ปริวชฺชนํ ทสฺเสติ ฯ 
+<span class="LineNumber"> 018 </span>	สมาธิสมฺปทาย  อตฺตกิลมถานุโยคสงฺขาตสฺส  ปฺา-
+<span class="LineNumber"> 019 </span>สมฺปทาย  มชฺฌิมาย  ปฏิปตฺติยา (๑) เสวนํ  ทสฺเสติ ฯ
+<span class="LineNumber"> 020 </span>	ตถา  สีลสมฺปทาย  เตสํ  วีติกฺกมปฺปหานํ  กิเลสานํ  ทสฺเสติ ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. ปฏิปทาย ฯ 

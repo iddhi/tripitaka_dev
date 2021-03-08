@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  เทวธมฺมชาตกํ   หน้า 240
+
+<span class="LineNumber"> 002 </span>			กฏฺ€หาริชาตกํ  
+<span class="LineNumber"> 003 </span>	ปุตฺโต  ตฺยาหํ  มหาราชาติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 004 </span>วาสภขตฺติยํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	วาสภขตฺติยาย  วตฺถุ  ทฺวาทสนิปาเต  ภทฺทสาลชาตเก  
+<span class="LineNumber"> 006 </span>อาวิภวิสฺสติ ฯ  สา  กิร  มหานามสฺส  สกฺกสฺส  ธีตา 
+<span class="LineNumber"> 007 </span>นาคมณฺฑาย(๑) นาม  ทาสิยา  กุจฺฉิสฺมึ  ชาตา  โกสลราชสฺส 
+<span class="LineNumber"> 008 </span>อคฺคมเหสี  อโหสิ ฯ  สา  รฺโ  ปุตฺตํ  วิชายิ ฯ  ราชา  ปนสฺสา 
+<span class="LineNumber"> 009 </span>ปจฺฉา  ทาสิภาวํ ตฺวา  €านา  ปริหาเปสิ  ปุตฺตสฺส 
+<span class="LineNumber"> 010 </span>วิฑูฑภสฺสาปิ(๒)  €านา(๓)  ปริหาเปสิเยว  อุโภปิ  อตฺตโน  นิเวสเนเยว(๔)
+<span class="LineNumber"> 011 </span>วสนฺติ ฯ  สตฺถา  ตํ  การณํ  ตฺวา  ปุพฺพณฺหสมเย
+<span class="LineNumber"> 012 </span>ปฺจสตภิกฺขุปริวุโต  รฺโ  นิเวสนํ  คนฺตฺวา  ปฺตฺตาสเน
+<span class="LineNumber"> 013 </span>นิสีทิตฺวา  มหาราช  กหํ  วาสภขตฺติยาติ  อาห ฯ  ราชา  ตํ 
+<span class="LineNumber"> 014 </span>การณํ  อาโรเจสิ ฯ  มหาราช  วาสภขตฺติยา  กสฺส  ธีตาติ ฯ
+<span class="LineNumber"> 015 </span>มหานามสฺส  ภนฺเตติ ฯ  อาคจฺฉมานา  กสฺส  อาคตาติ ฯ  มยฺหํ
+<span class="LineNumber"> 016 </span>ภนฺเตติ ฯ  มหาราช  เอสา  รฺโ  ธีตา  รฺโ  จ  อาคตา  
+<span class="LineNumber"> 017 </span>ราชานฺเว  ปฏิจฺจ  ปุตฺตํ  ลภิ  โส  ปุตฺโต  กึการณา  
+<span class="LineNumber"> 018 </span>ปิตุ  สนฺตกสฺส  รชฺชสฺส  สามิโก  น  โหติ  ปุพฺเพ  ราชาโน
+<span class="LineNumber"> 019 </span>มุหุตฺติกาย  กฏฺ€หาริกาย  กุจฺฉิสฺมึ  ปุตฺตํ  ลภิตฺวา  ปุตฺตสฺส
+<span class="LineNumber"> 020 </span>รชฺชํ  อทํสูติ ฯ  ราชา  ตสฺสตฺถสฺสาวิภาวตฺถาย  ภควนฺตํ  ยาจิ ฯ
+<span class="LineNumber"> 021 </span># ๑. ม. นาคมุณฺฑาย ฯ   ๒. ม. วิฏฏูภสฺสาปิ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. €านํ ฯ  ๔. ม. อนฺโตนิเวสเนเยว ฯ 

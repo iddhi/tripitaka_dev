@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                         <h1>๔.  ปารสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                      <h2> ธรรมเป็นเครื่องให้ถึงฝั่ง (นิพพาน)</h2>
+<span class="LineNumber"> 003 </span>	[๙๗]  สาวัตถีนิทาน.    ดูก่อนภิกษุทั้งหลาย     ธรรม ๘ ประการนี้
+<span class="LineNumber"> 004 </span>ที่บุคคลเจริญแล้ว   กระทำให้มากแล้ว   ย่อมเป็นไปเพี่อถึงฝั่ง (นิพพาน)  จาก
+<span class="LineNumber"> 005 </span>ที่มิใช่ฝั่ง   (วัฏฏะ)   ธรรม  ๘ ประการเป็นไฉน   คือ   ความเห็นชอบ  ฯลฯ
+<span class="LineNumber"> 006 </span>ความตั้งใจชอบ   ธรรม ๘ ประการนี้แล    ที่บุคคลเจริญแล้ว    กระทำให้มาก
+<span class="LineNumber"> 007 </span>แล้ว   ย่อมเป็นไปเพื่อถึงฝั่งจากที่มิใช่ฝั่ง.
+<span class="LineNumber"> 008 </span>	พระผู้มีพระภาคเจ้าสุคตศาสดา   ครั้นตรัสไวยากรณภาษิตนี้แล้ว   จึง
+<span class="LineNumber"> 009 </span>ได้ตรัสคาถาประพันธ์ต่อไปอีกว่า                         
+<span class="LineNumber"> 010 </span>	[๙๘]          <B>ในพวกมนุษย์   ชนที่ถึงฝั่งมีจำนวน
+<span class="LineNumber"> 011 </span>	น้อย  แต่หมู่สัตว์นอกนี้  ย่อมวิ่งไปตามฝั่ง
+<span class="LineNumber"> 012 </span>	นั่นเอง  ส่วนชนเหล่าใดประพฤติตามใน
+<span class="LineNumber"> 013 </span>	ธรรมที่พระผู้มีพระภาคเจ้าตรัสดีแล้ว  ชน
+<span class="LineNumber"> 014 </span>	เหล่านั้นข้ามบ่วงมฤตยูซึ่งแสนยากที่จะ
+<span class="LineNumber"> 015 </span>	ข้ามไปถึงฝั่งได้  บัณฑิตพึงละธรรมฝ่ายดำ
+<span class="LineNumber"> 016 </span>	เสีย  เจริญธรรมฝ่ายขาว  ออกจากความ
+<span class="LineNumber"> 017 </span>	อาลัย  อาศัยธรรมอันไม่มีความอาลัยแล้ว
+<span class="LineNumber"> 018 </span>	พึงละกามเสีย  เป็นผู้ไม่มีกิเลสเป็นเครื่อง
+<span class="LineNumber"> 019 </span>	กังวลปรารถนาความยินดีในวิเวก  ที่สัตว์
+<span class="LineNumber"> 020 </span>	ยินดีได้ยาก   บัณฑิตพึงยังตนให้ผ่องแผ้ว
+<span class="LineNumber"> 021 </span>	จากเครื่องเศร้าหมองจิต    ชนเหล่าใด</B> 

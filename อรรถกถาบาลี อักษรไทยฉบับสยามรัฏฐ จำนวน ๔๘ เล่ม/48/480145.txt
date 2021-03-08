@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  จตุกฺกนิทฺเทสวณฺณนา หน้า 145
+
+<span class="LineNumber"> 002 </span>สหสากาโรติ  สาหสกิริยา(๑)  เคหํ  ปวิสิตฺวา  มนุสฺสานํ  อุเร  สตฺถํ
+<span class="LineNumber"> 003 </span>€เปตฺวา  อิจฺฉิตภณฺฑคฺคหณํ ฯ  เอวเมตสฺมา เฉทนาทิสหสาการา (๒)
+<span class="LineNumber"> 004 </span>ปฏิวิรโต โหติ ฯ 
+<span class="LineNumber"> 005 </span>	โส  สนฺตุฏฺโ€  โหตีติ  โส  จตูสุ  ปจฺจเยสุ  ทฺวาทสวิเธน 
+<span class="LineNumber"> 006 </span>อิตรีตรปจฺจยสนฺโตเสน  สมนฺนาคโต  โหติ ฯ  กายปริหาริเกนาติ 
+<span class="LineNumber"> 007 </span>กายปริหรณมตฺตเกน ฯ  กุจฺฉิปริหาริเกนาติ  กุจฺฉิปริหรณมตฺตเกน ฯ 
+<span class="LineNumber"> 008 </span>สมาทาเยว  ปกฺกมตีติ  อฏฺ€วิธํ ภิกฺขุ  ปริกฺขารมตฺตกํ  สพฺพํ 
+<span class="LineNumber"> 009 </span>คเหตฺวาว  กายปฏิพทฺธํ  กตฺวาว  คจฺฉติ  มม วิหาโร
+<span class="LineNumber"> 010 </span>ปริเวณํ  อุปฏฺ€ากาติ  (๓)  สงฺโค  วา  พนฺโธ  วา  น  โหติ ฯ
+<span class="LineNumber"> 011 </span>โส ชิยา  มุตฺตสโร  วิย  ยูถา  ปกฺกนฺโต  มตฺตหตฺถี  วิย
+<span class="LineNumber"> 012 </span>อิจฺฉิติจฺฉิตํ เสนาสนํ วนสณฺฑํ รุกฺขมูลํ  วนปถํ  ปพฺภารํ (๔)
+<span class="LineNumber"> 013 </span>ปริภุฺชนฺโต  เอโก  ติฏฺ€ติ  เอโก  นิสีทติ สพฺพิริยาปเถสุ
+<span class="LineNumber"> 014 </span>เอโกว อทุติโย ฯ 
+<span class="LineNumber"> 015 </span>		จาตุทฺทิโส อปฺปฏิโฆ จ โหติ 
+<span class="LineNumber"> 016 </span>		สนฺตุสฺสมาโน อิตรีตเรน 
+<span class="LineNumber"> 017 </span>		ปริสฺสยานํ สหิตา อฉมฺภี 
+<span class="LineNumber"> 018 </span>		เอโก จเร ขคฺควิสาณกปฺโปติ (๕) 
+<span class="LineNumber"> 019 </span>เอวํ วณฺณิตขคฺควิสาณกปฺปตํ อาปชฺชติ ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. สาหสิกกิริยา ฯ  ๒. ม. เฉทน ฯ เป ฯ สหสาการา ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. อุปฏฺ€าโกติ ฯ ๔. ม. วนปตฺถํ ปพฺภารํ ฯ
+<span class="LineNumber"> 022 </span># ๕. ขุ. สุ. ๒๕/๒๙๖/๓๓๓ ฯ

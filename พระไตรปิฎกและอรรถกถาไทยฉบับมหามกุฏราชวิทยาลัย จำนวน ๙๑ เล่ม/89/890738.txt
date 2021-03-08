@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>         หทยวัตถุ   เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นสวิตักกธรรม      และวิตก
+<span class="LineNumber"> 002 </span>ด้วยอำนาจของปุเรชาตปัจจัย.
+
+<span class="LineNumber"> 003 </span>                                     <H2>๑๑.  ปัจฉาชาตปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         [๖๖๒]  ๑.  <B>สวิตักกธรรม   เป็นปัจจัยแก่อวิตักกธรรม   ด้วย
+<span class="LineNumber"> 005 </span>อํานาจของปัจฉาชาตปัจจัย</B>
+<span class="LineNumber"> 006 </span>         เป็นปัจฉาชาตปัจจัย  มี ๓ วาระ.
+
+<span class="LineNumber"> 007 </span>                                      <H2>๑๒.  อาเสวนปัจจัย</H2>
+<span class="LineNumber"> 008 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของอาเสวนปัจจัย</B>  มี ๙ วาระ.
+<span class="LineNumber"> 009 </span>                                         <H2>๑๓. กัมมปัจจัย</H2>
+<span class="LineNumber"> 010 </span>         [๖๖๓]  <B>สวิตักกธรรม เป็นปัจจัยแก่สวิตักกธรรม ด้วยอำนาจ
+<span class="LineNumber"> 011 </span>ของกัมมปัจจัย</B>
+<span class="LineNumber"> 012 </span>         มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>นานาขณิกะ</B>
+<span class="LineNumber"> 013 </span>         ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 014 </span>         เจตนาที่เป็นสวิตักกธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย   ด้วย
+<span class="LineNumber"> 015 </span>อำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 016 </span>         ในปฏิสนธิขณะ  ฯลฯ
+<span class="LineNumber"> 017 </span>         ที่เป็น  <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 018 </span>         เจตนาที่เป็นสวิตักกธรรม    เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นสวิตักก-
+<span class="LineNumber"> 019 </span>ธรรมที่เป็นวิบาก  ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 020 </span>         โดยนัยนี้   พึงกระทำ ๔ วาระ ทั้งสหชาตะ และ นานาขณิกะ

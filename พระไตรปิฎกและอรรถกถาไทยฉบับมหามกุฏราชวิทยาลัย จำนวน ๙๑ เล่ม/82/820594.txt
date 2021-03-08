@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         เคยดับ.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า   ธัมมายตนะไม่ใช่เคยดับแก่บุคคลใดในภูมิใด,  จักขา-
+<span class="LineNumber"> 003 </span>ยตนะก็ไม่ใช่กำลังดับแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ? 
+<span class="LineNumber"> 004 </span>         ไม่มี.
+<span class="LineNumber"> 005 </span> <I>จบ   จักขายตนมูละ   ฆานายตนะ   ฯ ล ฯ  รูปายตนะ   มนายตนะ
+<span class="LineNumber"> 006 </span>                                       ธัมมายตนมูลี</I>
+<span class="LineNumber"> 007 </span>                                    <I>จักขายตนมูล  จบ</I>
+
+<span class="LineNumber"> 008 </span>               <H1>ฆานายตนะ  ฯ ล ฯ  รูปายตนะ  มนายตนมูล</H1>
+<span class="LineNumber"> 009 </span><H2>ฆานายตนะ  ฯ ล ฯ  รูปายตนะ   มนายตนมูละ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๖๐๑]   ฆานายตนะ  ฯ ล ฯ  รูปายตนะ  มนายตนะไม่ใช่กำลัง
+<span class="LineNumber"> 011 </span>ดับแก่บุคคลใด,    ธัมมายตนะก็ไม่ใช่เคยดับแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         เคยดับ.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า     ธัมมายตนะไม่ใช่เคยดับแก่บุคคลใด,       มนายตนะ
+<span class="LineNumber"> 014 </span>ก็ไม่ใช่กำลังดับแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ไม่มี.
+<span class="LineNumber"> 016 </span> <I>จบ   ฆานายตนะ   ฯ ล ฯ  รูปายตนะ   มนายตนมุละ   ธัมมายตนมูลี</I>
+<span class="LineNumber"> 017 </span>              <I>ฆานายตนะ  ฯ ล ฯ  รูปายตนะ  มนายตนมูล  จบ</I>
+<span class="LineNumber"> 018 </span>                                      <I>ปุคคลวาระ   จบ</I>

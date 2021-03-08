@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                 <h1>๒.  ปฐมสีลสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                     <h2>สีลสัมปทามีอุปการะมากแก่อริยมรรค</h2>
+<span class="LineNumber"> 003 </span>	[๑๔๙]  สาวัตถีนิทาน.  ดูก่อนภิกษุทั้งหลาย  ธรรมอันหนึ่งมีอุปการะ
+<span class="LineNumber"> 004 </span>มาก     เพื่อความเกิดขึ้นแห่งอริยมรรคอันประกอบด้วยองค์ ๘ ธรรมอันหนึ่ง
+<span class="LineNumber"> 005 </span>เป็นไฉน  คือ  ความถึงพร้อมแห่งศีล ฯลฯ
+<span class="LineNumber"> 006 </span>			<I>จบปฐมสีลสัมปทาสูตรที่  ๒</I>
+
+<span class="LineNumber"> 007 </span>                                <h1>๓.  ปฐมฉันทสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 008 </span>                <h2> ฉันทสัมปทามีอุปการะมากแก่อริยมรรค</h2>
+
+<span class="LineNumber"> 009 </span>	[๑๕๐]  . . . คือ   ความถึงพร้อมแห่งฉันทะ  ฯลฯ
+
+<span class="LineNumber"> 010 </span>	              <H1>จบปฐมฉันทสัมปทาสูตรที่  ๓</H1>
+
+<span class="LineNumber"> 011 </span>                            <h1>  ๔.  ปฐมอัตตสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 012 </span>              <h2> อัตตสัมปทามีอุปการะมากแก่อริยมรรค</h2>
+<span class="LineNumber"> 013 </span>	[๑๕๑] . . .  คือ  ความถึงพร้อมแห่งตน  ฯลฯ
+<span class="LineNumber"> 014 </span>	       	   <I>จบปฐมอัตตสัมปทาสูตรที่  ๔</I> 

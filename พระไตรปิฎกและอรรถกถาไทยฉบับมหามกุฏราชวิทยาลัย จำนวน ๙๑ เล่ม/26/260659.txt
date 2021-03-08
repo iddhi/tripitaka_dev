@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>๗.  ปฐวีสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                         <H2>ว่าด้วยลาภสักการะ</H2>
+
+<span class="LineNumber"> 003 </span>         . . .ดูก่อนภิกษุทั้งหลาย   เรากำหนดรู้ใจด้วยใจแล้ว   ย่อมรู้บุคคล
+<span class="LineNumber"> 004 </span>บางคนในโลกนี้อย่างนี้ว่า  แม้เพราะแผ่นดินที่เต็มด้วยทองเป็นเหตุ. . .
+<span class="LineNumber"> 005 </span>                                   จบปฐวีสูตรที่  ๗
+
+<span class="LineNumber"> 006 </span>                                <H1>๘.  อามิสกิญจิกขสูตร</H1>
+
+<span class="LineNumber"> 007 </span>                              <H2>ว่าด้วยลาภสักการะ</H2>
+
+<span class="LineNumber"> 008 </span>         . . .ดูก่อนภิกษุทั้งหลาย เรากำหนดรู้ใจด้วยใจแล้ว  ย่อมรู้บุคคล
+<span class="LineNumber"> 009 </span>บางคนในโลกนี้อย่างนี้ว่า  แม้เพราะเห็นแก่ของกำนัลเพียงเล็กน้อยเป็น
+<span class="LineNumber"> 010 </span>เหตุ. . .
+<span class="LineNumber"> 011 </span>                            จบอามิสกิญจิกขสูตรที่  ๘
+
+<span class="LineNumber"> 012 </span>                                    <H1>๙.  ชีวิตสูตร</H1>
+
+<span class="LineNumber"> 013 </span>                       <H2>ว่าด้วยลาภสักการะ</H2>
+
+<span class="LineNumber"> 014 </span>         . . . ดูก่อนภิกษุทั้งหลาย  เรากำหนดรู้ใจด้วยใจแล้ว  ย่อมรู้บุคคล
+<span class="LineNumber"> 015 </span>บางคนในโลกนี้อย่างนี้ว่า   แม้เพราะเหตุแห่งชีวิตเป็นเหตุ. . .
+<span class="LineNumber"> 016 </span>จบชีวิตสูตรที่  ๙

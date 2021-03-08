@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           สวดนิทานแล้ว    นอกนั้นสวดด้วยสุตบท    นี้จัดเป็นวิสุทธิที่ ๑ สวด   
+<span class="LineNumber"> 002 </span>นิทาน  สวดปาราชิก  ๔ แล้ว    นอกนั้นสวดด้วยสุตบท    นี้จัดเป็นวิสุทธิที่ ๒
+<span class="LineNumber"> 003 </span>สวดนิทาน   สวดปาราชิก   สวดสังฆาทิเสส ๑๓ แล้ว    นอกจากนั้นสวดด้วย
+<span class="LineNumber"> 004 </span>สุตบท  นี้จัดเป็นวิสุทธิที่  ๓ สวดนิทาน   สวดปาราชิก ๔ สวดสังฆาทิเสส ๑๓
+<span class="LineNumber"> 005 </span>สวดอนิยต  ๒  แล้วนอกนั้นสวดด้วยสุตบท    นี้จัดเป็นวิสุทธิที่  ๔  สวดโดย
+<span class="LineNumber"> 006 </span>พิสดารทีเดียว  จัดเป็นวิสุทธิที่  ๕
+<span class="LineNumber"> 007 </span>           ดูก่อนอุบาลี   วิสุทธิ ๕ อย่าง   นี้แล.
+
+<span class="LineNumber"> 008 </span>                                           <H1>โภชนะ  ๕</H1>
+<span class="LineNumber"> 009 </span>           [๑,๑๘๑]  อุ.  โภชนะมีเท่าไร   หนอแล  พระพุทธเจ้าข้า
+<span class="LineNumber"> 010 </span>           พ.   ดูก่อนอุบาลี  โภชนะนี้มี  ๕ อย่าง  ๕  อย่างอะไรบ้าง  คือ:-
+<span class="LineNumber"> 011 </span>           ๑.   ข้าวสุก
+<span class="LineNumber"> 012 </span>           ๒.   นมสด
+<span class="LineNumber"> 013 </span>           ๓.   ขนมแห้ง
+<span class="LineNumber"> 014 </span>           ๔.   ปลา                                                                           
+<span class="LineNumber"> 015 </span>           ๕.   เนื้อ
+<span class="LineNumber"> 016 </span>           ดูก่อนอุบาลี   โภชนะ  ๕  อย่าง   นี้แล.
+<span class="LineNumber"> 017 </span>                                 <I>ทิฏฐาวิกรรมวรรค  ที่  ๔  จบ</I>
+
+<span class="LineNumber"> 018 </span>                                         <H1>หัวข้อประจำวรรค</H1>
+<span class="LineNumber"> 019 </span>           [๑,๑๘๒]   ทำความเห็นแย้ง  ๑   ทำความเห็นแย้งอีกนัยหนึ่ง  ๑    รับ
+<span class="LineNumber"> 020 </span>ประเคน ๑  ของเป็นเดน  ๑  ห้ามภัตร  ๑  ปฏิญญา  ๑  ขอโอกาส ๑  สนทนา ๑
+<span class="LineNumber"> 021 </span>ถามปัญหา ๑ อวดอ้างมรรคผล  ๑  วิสุทธิ  ๑ โภชนะ ๑.

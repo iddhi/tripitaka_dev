@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>พาลวรรค<SUP>๑</SUP>ที่  ๕</H2>
+                                             
+<span class="LineNumber"> 002 </span>                         <H3>อรรถกถาสูตรที่  ๑</H3>
+
+<span class="LineNumber"> 003 </span>         <B>วรรคที่  ๕    สูตรที่ ๑</B> (ข้อ ๓๔๓)   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 004 </span>         บทว่า  <B>อนาคตํ  ภารํ  วหติ</B>   ความว่า   เป็นนวกะ พระเถระมิได้
+<span class="LineNumber"> 005 </span>เชื้อเชิญ   ก็กระทำภาระ ๑๐  อย่าง   ในพระบาลีนี้ว่า   ถวายโรงอุโบสถ  ๑
+<span class="LineNumber"> 006 </span>ตามประทีป  ๑  ตั้งน้ำดื่ม ๑  ตั้งอาสนะ  ๑  นำฉันทะมา ๑  นำปาริสุทธิ
+<span class="LineNumber"> 007 </span>มา ๑  บอกฤดู  ๑   นับภิกษุ  ๑   โอวาท ๑   สวดปาติโมกข์ ๑   ท่าน
+<span class="LineNumber"> 008 </span>เรียกว่า  ภาระหน้าที่ของพระเถระ  ดังนี้   ชื่อว่านำพาภาระที่ยังไม่มาถึง.
+<span class="LineNumber"> 009 </span>         บทว่า  <B>อาคตํ  ภารํ  น  วหติ</B>  ความว่า   เป็นพระเถระอยู่    ไม่
+<span class="LineNumber"> 010 </span>กระทำภาระ  ๑๐  นั้นแหละด้วยตน  หรือไม่ชักชวนมอบหมายผู้อื่น  ชื่อว่า
+<span class="LineNumber"> 011 </span>ไม่นำพาภาระที่มาถึงเข้า.
+<span class="LineNumber"> 012 </span>                                           จบอรรถกถาสูตรที่ ๑
+
+<span class="LineNumber"> 013 </span>                              <H3>อรรถกถาสูตรที่  ๒</H3>
+
+<span class="LineNumber"> 014 </span>         แม้ใน<B>สูตรที่  ๒</B>  (ข้อ  ๓๔๔)  ก็พึงทราบเนื้อความโดยนัยนี้แหละ.
+<span class="LineNumber"> 015 </span>                                            จบอรรถกถาสูตรที่ ๒    
+                               
+<span class="LineNumber"> 016 </span>                               <H3>อรรถกถาสูตรที่  ๓</H3>
+
+<span class="LineNumber"> 017 </span>         ใน<B>สูตรที่  ๓</B>  (ข้อ ๓๔๕)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 018 </span>         บทว่า   <B>อกปฺปิเย   กปฺยิยสญฺี</B>  ได้แก่ ผู้มีความสำคัญในสิ่งที่เป็น
+<span class="LineNumber"> 019 </span>อกัปปิยะ  คือเนื้อราชสีห์เป็นต้น  อย่างนี้ว่า   นี้เป็นกัปปิยะ.
+
+<span class='footnote'>๑.  วรรคนี้มี  ๒๐ สูตร  แต่อรรถกถาแก้ไว้เพียง  ๑๖ สูตร  จึงลงเลขข้อสูตรกำกับไว้.</span>

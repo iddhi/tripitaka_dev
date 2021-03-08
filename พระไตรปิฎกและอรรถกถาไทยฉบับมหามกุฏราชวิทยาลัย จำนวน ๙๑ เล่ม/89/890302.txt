@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         <B>เป็นปัจจัย   ด้วยอํานาจของสหชาตปัจจัย</B>   มี ๙ วาระ   เหมือน
+<span class="LineNumber"> 002 </span>กับปฏิจจวาระ.
+<span class="LineNumber"> 003 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของอัญญมัญญปัจจัย</B> มี ๕ วาระ เหมือน
+<span class="LineNumber"> 004 </span>กับปฏิจจวาระ.
+<span class="LineNumber"> 005 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของนิสสยปัจจัย</B>   มี ๙ วาระ  เหมือนกับ
+<span class="LineNumber"> 006 </span>ปฏิจจวาระ.
+
+<span class="LineNumber"> 007 </span>                                    <H2>๙. อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 008 </span>         [๒๗๙] ๑.  <B>อัชฌัตติกธรรม      เป็นปัจจัยแก่อัชฌัตติกธรรม
+<span class="LineNumber"> 009 </span>ด้วยอำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 010 </span>         มี ๓ อย่าง  คือที่เป็น    <B>อารัมมณูปนิสสยะ   อนันตรูปนิสสยะ</B>  และ
+<span class="LineNumber"> 011 </span><B>ปกตูปนิสสยะ</B>.
+<span class="LineNumber"> 012 </span>         ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 013 </span>         จิต    เป็นปัจจัยแก่จิต    ด้วยอำนาจของอุปนิสสยปัจจัย    มี ๓ วาระ
+<span class="LineNumber"> 014 </span>(วาระที่  ๑-๒-๓)
+<span class="LineNumber"> 015 </span>            	๔.  <B>พาหิรธรรม    เป็นปัจจัยแก่พาหิรธรรม      ด้วย
+<span class="LineNumber"> 016 </span>อำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 017 </span>         มี  ๓  อย่าง    คือที่เป็น    <B>อารัมมณูปนิสสยะ   อนันตรูปนิสสยะ
+<span class="LineNumber"> 018 </span>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 019 </span>         ที่เป็น<B>ปกตูปนิสสยะ</B>  ได้แก่

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>๑๕.  นฌานปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>         [๑๔๔๖] ๑.  <B>อุปาทินนุปาทานิยธรรม    อาศัยอุปาทินนุปาทา- 
+<span class="LineNumber"> 003 </span>นิยธรรม  เกิดขึ้น  เพราะนฌานปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่สหรคตด้วยปัญจวิญญาณ ฯลฯ
+<span class="LineNumber"> 005 </span>         สำหรับพวกอสัญญสัตว์ ฯลฯ อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 006 </span>                        ๒.  <B>อนุปาทินนุปาทานิยธรรม   อาศัยอนุปาทิน-
+<span class="LineNumber"> 007 </span>นุปาทานิยธรรม  เกิดขึ้น    เพราะนฌานปัจจัย</B>
+<span class="LineNumber"> 008 </span>         พาหิรรูป. . . อาหารสมุฏฐานรูป. . .อุตุสมุฏฐานรูป ฯลฯ อาศัยมหาภูต.
+<span class="LineNumber"> 009 </span>รูป ๑ ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                      <H1>๑๖.  นมัคคปัจจัย</H1>
+<span class="LineNumber"> 011 </span>         [๑๔๔๗]  <B>อุปาทินนุปาทานิยธรรม   อาศัยอุปาทินนุปาทานิย-
+<span class="LineNumber"> 012 </span>ธรรม  เกิดขึ้น  เพราะนมัคคปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอุปาทินนุปาทานิยธรรม      ซึ่งเป็น
+<span class="LineNumber"> 014 </span>อเหตุกะ  เกิดขึ้น ฯลฯ
+<span class="LineNumber"> 015 </span>         มี ๕ วาระ.
+
+<span class="LineNumber"> 016 </span>                                  <H1>๑๗.  นสัมปยุตตปัจจัย</H1>
+<span class="LineNumber"> 017 </span>         [๑๔๔๘]  <B>อุปาทินนุปาทานิยธรรม   อาศัยอุปาทินนุปาทานิย-
+<span class="LineNumber"> 018 </span>ธรรม  เกิดขึ้น  เพราะนสัมปยุตตปัจจัย</B>
+<span class="LineNumber"> 019 </span>         เหมือนกับนอารัมมณปัจจัย. (คือ มี ๖ วาระ)

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  นิทานกถา  หน้า  6
+
+<span class="LineNumber"> 002 </span>	ยนฺนูนิมํ ปูติกายํ		นานากุณปปูริตํ  
+<span class="LineNumber"> 003 </span>	ฉฑฺฑยิตฺวาน คจฺเฉยฺยํ	อนเปกฺโข อนตฺถิโก ฯ  
+<span class="LineNumber"> 004 </span>	อตฺถิ เหหิติ โส มคฺโค	น โส สกฺกา น เหตุเย  
+<span class="LineNumber"> 005 </span>	ปริเยสิสฺสามิ ตํ มคฺคํ	ภวโต ปริมุตฺติยาติ ฯ  
+<span class="LineNumber"> 006 </span>	ตโต  อุตฺตรึปิ  (๑)  เอวํ  จินฺเตสิ  ยถา  หิ  โลเก  ทุกฺขสฺส  
+<span class="LineNumber"> 007 </span>ปฏิปกฺขภูตํ  สุขํ  นาม  อตฺถิ  เอวํ  ภเว  สติ ตปฺปฏิปกฺเขน 
+<span class="LineNumber"> 008 </span>วิภเวนาปิ  ภวิตพฺพํ ฯ  ยถา  จ  อุเณฺห  สติ  ตสฺส  วูปสมภูตํ  
+<span class="LineNumber"> 009 </span>สีตมฺปิ(๒)  อตฺถิ  เอวํ  ราคาทีนํ  อคฺคีนํ  วูปสเมน  นิพฺพาเนนาปิ 
+<span class="LineNumber"> 010 </span>ภวิตพฺพํ ฯ  ยถา  จ ปาปกสฺส(๓)  ลามกสฺส  ธมฺมสฺส 
+<span class="LineNumber"> 011 </span>ปฏิปกฺขภูโต  กลฺยาโณ  อนวชฺชธมฺโมปิ  อตฺถิเยว  เอวเมว  โข 
+<span class="LineNumber"> 012 </span>ปาปิกาย  ชาติยา  สติ  สพฺพชาติเขปนโต  อชาติสงฺขาเตน 
+<span class="LineNumber"> 013 </span>นิพฺพาเนนาปิ ภวิตพฺพเมวาติ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 014 </span>	ยถาปิ ทุกฺเข วิชฺชนฺเต	สุขํ นามปิ วิชฺชติ  
+<span class="LineNumber"> 015 </span>	เอวํ ภเว วิชฺชมาเน		วิภโว  อิจฺฉิตพฺพโก ฯ  
+<span class="LineNumber"> 016 </span>	ยถาปิ อุเณฺห วิชฺชนฺเต	อปรํ วิชฺชติ สีคลํ  
+<span class="LineNumber"> 017 </span>	เอวํ ติวิธคฺคิ วิชฺชเต(๔)	นิพฺพานํ อิจฺฉิตพฺพกํ  
+<span class="LineNumber"> 018 </span>	ยถาปิ ปาเป วิชฺชนฺเต	กลฺยาณมฺปิ วิชฺชติ  
+<span class="LineNumber"> 019 </span>	เอวเมว ชาติ วิชฺชนฺเต	อชาติ อิจฺฉิตพฺพกนฺติ (๕) ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อุตฺตริปิ ฯ  ๒. ม. สีตมฺปิ ฯ  ๓. ม. ยถา จ ปาปสฺสฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. วิชฺชนฺเต ฯ  ๔. ม. อชาติปิจฺฉิตพฺพกนฺติ ฯ 

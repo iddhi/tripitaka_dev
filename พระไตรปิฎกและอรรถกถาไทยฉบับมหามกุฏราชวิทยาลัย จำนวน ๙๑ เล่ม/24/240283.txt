@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>ได้แก่  อาศัยการตั้งชื่อเช่นมีคำว่า   สมุทรเป็นต้น    อธิบายว่า   คาถาเมื่อเริ่มก็ 
+<span class="LineNumber"> 002 </span>ต้องอาศัยนาม   (ชื่อ)   อย่างใดอย่างหนึ่ง   มีสมุทร   แผ่นดินเป็นต้นนั่นแหละ
+<span class="LineNumber"> 003 </span>แล้วจึงเริ่ม.    บทว่า   <B>อาสโย</B>   แปลว่า   เป็นที่อาศัย   อธิบายว่า   เพราะคาถา
+<span class="LineNumber"> 004 </span>ทั้งหลายย่อมเป็นไปเพราะกวี  ทั้งกวีนั้นก็เป็นที่อาศัยของคาถาทั้งหลาย  ดังนี้.
+<span class="LineNumber"> 005 </span>                                        <I>จบอรรถกถากวิสูตรที่  ๑๐
+<span class="LineNumber"> 006 </span>                                            และจบชราวรรคที่  ๖</I>
+
+<span class="LineNumber"> 007 </span>                                    <H2>รวมพระสูตรในชราวรรคที่  ๖</H2>
+<span class="LineNumber"> 008 </span>         ๑.  ชราสูตร                       พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 009 </span>         ๒.  อชรสาสูตร                  พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 010 </span>         ๓.  มิตตสูตร                      พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 011 </span>         ๔.  วัตถุสูตร                      พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 012 </span>         ๕.  ปฐมชนสูตร                 พร้อมทั้งอรรถกถา                 
+<span class="LineNumber"> 013 </span>         ๖.  ทุติยชนสูตร                  พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 014 </span>         ๗.  ตติยชนสูตร                 พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 015 </span>         ๘.  อุปปถสูตร                    พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 016 </span>         ๙.  ทุติยสูตร                       พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 017 </span>        ๑๐.  กวิสูตร                         พร้อมทั้งอรรถกถา

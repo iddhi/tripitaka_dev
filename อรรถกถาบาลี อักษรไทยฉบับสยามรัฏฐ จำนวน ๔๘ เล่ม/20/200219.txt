@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  วิตกฺกสุตฺตวณฺณนา หน้า 219
+		
+<span class="LineNumber"> 002 </span>		อเนกเภทาสุปิ โลกธาตูสุ
+<span class="LineNumber"> 003 </span>		ชินสฺส รูปายตนาทิโคจเร
+<span class="LineNumber"> 004 </span>		วิจิตฺตเภเท ตถเมว ทสฺสนํ
+<span class="LineNumber"> 005 </span>		ตถาคโต เตน สมนฺตโลจโน ฯ
+<span class="LineNumber"> 006 </span>		ยโต จ ธมฺมํ ตถเมว ภาสติ
+<span class="LineNumber"> 007 </span>		กโรติ วาจายนุโลปมตฺตโน(๑)
+<span class="LineNumber"> 008 </span>		คุเณหิ โลกํ อภิภุยฺยิรียติ
+<span class="LineNumber"> 009 </span>		ตถาคโต เตนปิ โลกนายโก ฯ
+<span class="LineNumber"> 010 </span>		ตถา ปริฺาย ตถาย สพฺพโส
+<span class="LineNumber"> 011 </span>		อเวทิ โลกํ ปภวํ อติกฺกมิ
+<span class="LineNumber"> 012 </span>		คโต จ ปจฺจกฺขกฺริยาย นิพฺพุตึ
+<span class="LineNumber"> 013 </span>		อรียมคฺคฺจ (๒)  คโต ตถาคโต ฯ
+<span class="LineNumber"> 014 </span>		ตถา ปฏิฺาย ตถาย สพฺพโส
+<span class="LineNumber"> 015 </span>		หิตาย โลกสฺส ยโต ยมาคโต
+<span class="LineNumber"> 016 </span>		ตถาย นาโถ กรุณาย สพฺพทา
+<span class="LineNumber"> 017 </span>		คโต จ เตนาปิ ชิโน ตถาคโต ฯ
+<span class="LineNumber"> 018 </span>		ตถานิ าณานิ ยโต ยมาคโต
+<span class="LineNumber"> 019 </span>		ยถาสภาวํ วิสยาวโพธโต
+<span class="LineNumber"> 020 </span>		ยถาภิชาติปฺปภุตี ตถาคโต
+<span class="LineNumber"> 021 </span># ๑. ม. วาจายนุรูปมตฺตโน ฯ  ๒. สี. สทาริยมคฺคฺจ ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๙  มุจฺจลินฺทสุตฺตวณฺณนา  หน้า  ๒๒๘
+
+<span class="LineNumber"> 002 </span>สพฺพากาเรน  ปน  ตถาคโตว  ตถาคตสฺส  ตถาคตภาวํ  
+<span class="LineNumber"> 003 </span>วณฺเณยฺย ฯ  อิทํ  หิ  ตถาคตปทํ  มหตฺถํ  มหาคติกํ  มหาวิสยํ  
+<span class="LineNumber"> 004 </span>ตสฺส  อปฺปมาทปสฺส  วิย  เตปิฏกมฺปิ  พุทฺธวจนํ  ยุตฺติโต  
+<span class="LineNumber"> 005 </span>อตฺถภาเวน  อาหรนฺโต  อติตฺเถน  ธมฺมกถิโก  ปกฺขนฺโทติ  น  
+<span class="LineNumber"> 006 </span>วตฺตพฺโพติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺเถตํ  วุจฺจติ  
+<span class="LineNumber"> 008 </span>		ยเถว  โลเก  ปุริมา  มเหสิโน  
+<span class="LineNumber"> 009 </span>		สพฺพฺุภาวํ  มุนโย  อิธาคตา  
+<span class="LineNumber"> 010 </span>		ตถา  อยํ  สกฺยมุนีปิ  อาคโต  
+<span class="LineNumber"> 011 </span>		ตถาคโต  วุจฺจติ  เตน  จกฺขุมา ฯ  
+<span class="LineNumber"> 012 </span>		ปหาย  กามาทิมเล  อเสสโต  
+<span class="LineNumber"> 013 </span>		สมาธิาเณหิ  ยถา  คตา  ชินา  
+<span class="LineNumber"> 014 </span>		ปุราตนา  สกฺยมุนี  ชุตินฺธโร  
+<span class="LineNumber"> 015 </span>		ตถา  คโต  เตน  ตถาคโต  มโต ฯ  
+<span class="LineNumber"> 016 </span>		ตถฺจ  ธาตฺวายตนาทิลกฺขณํ  (๑)  
+<span class="LineNumber"> 017 </span>		สภาวสามฺวิภาคเภทโต  
+<span class="LineNumber"> 018 </span>		สยมฺภุาเณน  ชิโน  สมาคโต  (๒)  
+<span class="LineNumber"> 019 </span>		ตถาคโต  วุจฺจติ  สกฺยปุงฺคโว ฯ  
+<span class="LineNumber"> 020 </span>		ตถานิ  สจฺจานิ  สมนฺตจกฺขุนา  
+<span class="LineNumber"> 021 </span>		ตถา  อิทปฺปจฺจยตา  จ  สพฺพโส  
+<span class="LineNumber"> 022 </span>#  ๑.  ม.  ธาตายตนาทิลกฺขณํ ฯ  ๒.  ม.  ชิโนยมาคโต ฯ

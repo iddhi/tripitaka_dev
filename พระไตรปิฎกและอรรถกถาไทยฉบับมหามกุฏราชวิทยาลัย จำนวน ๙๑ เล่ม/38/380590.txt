@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>อารมณ์ที่ทราบ    ธรรมที่รู้แจ้ง   ที่ถึงแล้ว    แสวงหาแล้ว    ตรองตามแล้ว
+<span class="LineNumber"> 002 </span>ด้วยใจ   ก็แต่ว่าพึงเป็นผู้มีสัญญา.
+<span class="LineNumber"> 003 </span>                                จบจตุตถสมาธิสูตรที่  ๑๑ 
+<span class="LineNumber"> 004 </span>                                     <I>จบทุติยวรรคที่  ๒</I>
+
+<span class="LineNumber"> 005 </span>           <H3>อรรถกถาปฐมสมาธิสูตรที่  ๘  เป็นต้น</H3>
+<span class="LineNumber"> 006 </span>         คำที่เหลือในวรรคนี้    และในพระสูตรทั้งปวงนอกเหนือจากนี้    มี
+<span class="LineNumber"> 007 </span>อรรถง่ายทั้งนั้น  ฉะนี้แล.
+<span class="LineNumber"> 008 </span>                         จบอรรถกถาปฐมสมาธิสูตรที่  ๘  เป็นต้น
+<span class="LineNumber"> 009 </span>     <B>จบมโนรถปูรณี   อรรถกถาอังคุตตรนิกาย   เอกาทสกนิบาต</B>
+<span class="LineNumber"> 010 </span>                                 <B>รวมพระสูตรที่มีในวรรคนี้คือ</B>
+<span class="LineNumber"> 011 </span>         ๑.  ปฐมมหานามสูตร    ๒.  ทุติยมหานามสูตร     ๓. นันทิยสูตร
+<span class="LineNumber"> 012 </span>๔. สุภูติสูตร   ๕.เมตตาสูตร   ๖.ทสมสูตร  ๗.โคปาลกสูตร  ๘. ปฐมสมาธิ-
+<span class="LineNumber"> 013 </span>สูตรที่  ๙.ทุติยสมาธิสูตร    ๑๐. ตติยสมาธิสูตร   ๑๑. จตุตถสมาธิสูตร
+
+<span class="LineNumber"> 014 </span>        <H2>พระสูตรที่ไม่สงเคราะห์ด้วยปัณ<SUP>๑</SUP>ณาสก์</H2>
+<span class="LineNumber"> 015 </span>           <H4>ว่าด้วยพระองค์ประกอบของนายโคบาล  ๑๑ ประการ</H4>
+<span class="LineNumber"> 016 </span>          [๒๒๙]  ดูก่อนภิกษุทั้งหลาย  นายโคบาลผู้ประกอบด้วยองค์  ๑๑
+<span class="LineNumber"> 017 </span>ประการ    เป็นผู้ไม่สามารถจะเลี้ยงฝูงโคให้เจริญแพร่หลายได้    องค์  ๑๑
+
+<span class='footnote'>๑.  ไม่มีอรรถกถาอธิบาย.</span>

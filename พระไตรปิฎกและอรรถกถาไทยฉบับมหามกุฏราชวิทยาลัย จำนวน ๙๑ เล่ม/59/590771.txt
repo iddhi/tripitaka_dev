@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>๒.  กัณหชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                                   <H1>ว่าด้วยขอพร</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๓๒๙]   บุรุษนี้ดำจริงหนอ    บริโภคโภชนะก็ดำ
+<span class="LineNumber"> 004 </span>           อยู่ในภูมิประเทศก็ดำ  เราไม่ชอบใจเลย.  
+<span class="LineNumber"> 005 </span>         [๑๓๓๐]   คนประกอบด้วยตบะไม่ชื่อว่าคนดำเพราะ
+<span class="LineNumber"> 006 </span>           คนที่มีแก่นในภายใน ชื่อว่าเป็นพราหมณ์ บาป
+<span class="LineNumber"> 007 </span>           กรรมมีอยู่ในคนใด  คนนั้นแหละข้อว่าเป็นคน
+<span class="LineNumber"> 008 </span>           ดำ   นะท้าวสุชัมบดี.  
+<span class="LineNumber"> 009 </span>         [๑๓๓๑]   ข้าแต่พราหมณ์    คำนั้นท่านกล่าวดีแล้ว
+<span class="LineNumber"> 010 </span>           เป็นสุภาษิตอันสมควร    ข้าพเจ้าจะให้พรท่าน
+<span class="LineNumber"> 011 </span>           ตามแต่ใจท่านปรารถนาเถิด. 
+<span class="LineNumber"> 012 </span>         [๑๓๓๒]   ข้าแต่ท้าวสักกะผู้เป็นใหญ่กว่าภูตทั้งปวง
+<span class="LineNumber"> 013 </span>           ถ้าจะโปรดประทานพรแก่ข้าพระองค์   ข้าพระ
+<span class="LineNumber"> 014 </span>           องค์ปรารถนาให้ความประพฤติของตน  อย่าให้
+<span class="LineNumber"> 015 </span>           มีความโกรธ     อย่าให้มีโทสะ   อย่าให้มีความ</B>

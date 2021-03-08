@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                             <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                           <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๖๙๗] ๑.  <B>สุขสหคตธรรม     เป็นปัจจัยแก่สุขสหคตธรรม
+<span class="LineNumber"> 005 </span>ด้วยอำนาจของเหตุปัจจัย</B>   มี ๔ วาระ.
+<span class="LineNumber"> 006 </span>         ในอารัมมณปัจจัยก็ดี   ใน<B>อธิปติปัจจัย</B>ก็ดี  เหมือนกับสัปปีติกทุกะ
+<span class="LineNumber"> 007 </span>ต่างกัน   แต่คำว่า   <B>สุขะ</B>   ดังนี้
+
+<span class="LineNumber"> 008 </span>                                       <H2>๔.  อนันตรปัจจัย</H2>
+<span class="LineNumber"> 009 </span>         [๖๙๘] ๑.  <B>สุขสหคตธรรม     เป็นปัจจัยแก่สุขสหคตธรรม
+<span class="LineNumber"> 010 </span>ด้วยอำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ   ขันธ์ทั้งหลายที่เป็นสุขสหคตธรรม    ที่เกิดก่อน ๆ    เป็นปัจจัย
+<span class="LineNumber"> 012 </span>แก่ขันธ์ทั้งหลายที่เป็นสุขสหคตธรรม  ที่เกิดหลัง ๆ    ด้วยอำนาจของอนันตร-
+<span class="LineNumber"> 013 </span>ปัจจัย.
+<span class="LineNumber"> 014 </span>         พึงกระทำมูล   (วาระที่ ๒)
+<span class="LineNumber"> 015 </span>         ขันธ์ทั้งหลายที่เป็นสุขสหคตธรรม   ที่เกิดก่อน ๆ    เป็นปัจจัยแก่สุข
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่สุขสหคตธรรม  ที่เกิดหลัง ๆ   ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 017 </span>         จุติจิตที่เป็นสุขสหคตธรรม  เป็นปัจจัยแก่อุปปัตติจิตที่ไม่ใช่สุขสหคต-
+<span class="LineNumber"> 018 </span>ธรรม.

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28   หน้า 250
+
+<span class="LineNumber"> 002 </span>			สุขวิหาริชาตกํ  
+<span class="LineNumber"> 003 </span>	ยฺจ  อฺเ  น  รกฺขนฺตีติ  อิทํ  สตฺถา  อนุปิยนครํ  
+<span class="LineNumber"> 004 </span>นิสฺสาย  อนุปิยอมฺพวเน  วิหรนฺโต  สุขวิหารึ  ภทฺทิยตฺเถรํ  
+<span class="LineNumber"> 005 </span>อารพฺภ  กเถสิ ฯ  
+<span class="LineNumber"> 006 </span>	สุขวิหารี  ภทฺทิยตฺเถโร  ฉขตฺติยสมาคเม  อุปาลิสตฺตโม 
+<span class="LineNumber"> 007 </span>ปพฺพชิโต ฯ เตสุ  ภทฺทิยตฺเถโร  จ  กิมฺพิลตฺเถโร  จ ภคุตฺเถโร 
+<span class="LineNumber"> 008 </span>จ อุปาลิตฺเถโร จ อรหตฺตํ  ปตฺตา  อานนฺทตฺเถโร  โสตาปนฺโน 
+<span class="LineNumber"> 009 </span>ชาโต  อนุรุทฺธตฺเถโร  ทิพฺพจกฺขุโก  เทวทตฺโต  ฌานลาภี  
+<span class="LineNumber"> 010 </span>ชาโต ฯ  ฉนฺนํ  ปน  ขตฺติยานํ  วตฺถุ  ยาว  อนุปิยนครา  
+<span class="LineNumber"> 011 </span>กณฺฑหาลชาตเก(๑)  อาวิภวิสฺสติ ฯ  อายสฺมา  ปน  ภทฺทิโย  
+<span class="LineNumber"> 012 </span>ราชกาเล  อตฺตานํ  รกฺขนฺโต  รกฺขาสํวิธานเทวตาว(๒)  พหูหิ 
+<span class="LineNumber"> 013 </span>รกฺขาหิ  รกฺขิยมานสฺส  อุปริ  ปาสาทตเล  มหาสยเน  ปริวตฺต-
+<span class="LineNumber"> 014 </span>มานสฺสาปิ  อตฺตโน  ภยุปฺปตฺติฺจ  ทิสฺวา  อิทานิ  อรหตฺตํ 
+<span class="LineNumber"> 015 </span>ปตฺวา  อรฺาทีสุ  ยตฺถกตฺถจิ  วิหรนฺโตปิ  อตฺตโน 
+<span class="LineNumber"> 016 </span>วิคตภยตฺตฺจ  สมนุปสฺสนฺโต  อโห  สุขํ  อโห  สุขนฺติ  อุทานํ  
+<span class="LineNumber"> 017 </span>อุทาเนสิ ฯ  ตํ สุตฺวา  ภิกฺขู  อายสฺมา  ภทฺทิโย  อฺํ  
+<span class="LineNumber"> 018 </span>พฺยากโรตีติ  ภควโต  อาโรเจสุํ ฯ  ภควา  น  ภิกฺขเว  ภทฺทิโย
+<span class="LineNumber"> 019 </span>อิทาเนว  สุขวิหารีเยว  ปุพฺเพปิ  สุขวิหารีเยวาติ  อาห ฯ  ภิกฺขู 
+<span class="LineNumber"> 020 </span># ๑. ม. ขณฺฑหาลชาตเก ฯ  ๒. สี. อตฺตานํ รกฺขนฺโต รกฺขสวิธานฺเจว
+<span class="LineNumber"> 021 </span># ตาว ฯ  ม. อตฺตโน รกฺขสํวิธานฺเจว ตาว ฯ 

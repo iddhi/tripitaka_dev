@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>๑๑.  นกัมมปัจจัย ฯลฯ  ๑๔.  นอินทริยปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ  เพราะนกัมมปัจจัย.</B>
+<span class="LineNumber"> 003 </span>           คือ  พาหิรรูป...  อาหารสมุฏฐานรูป...  อุตุสมุฏฐานรูป ฯลฯ.
+<span class="LineNumber"> 004 </span>           มหาภูตรูป ๒    อาศัยมหาภูตรูป ๑    ที่เป็นอนิทัสสนสัปปฏิฆธรรม,
+<span class="LineNumber"> 005 </span>มหาภูตรูป ๑  อาศัยมหาภูตรูป ๒.
+<span class="LineNumber"> 006 </span>           อุปาทารูปที่เป็นอนิทัสสนสัปปฏิฆธรรม      อาศัยมหาภูตรูปทั้งหลาย
+<span class="LineNumber"> 007 </span>ที่เป็นอนิทัสสนสัปปฏิฆธรรม.
+<span class="LineNumber"> 008 </span>           พึงแจกกัมมปัจจัยแล้ว กระทำเป็น ๒๑ วาระ  ด้วยนกัมมปัจจัยนั่นเอง
+<span class="LineNumber"> 009 </span>           <B>ฯลฯ  เพราะนวิปากปัจจัย</B>  ปฏิสนธิก็ดี  กฏัตตารูปก็ดี  ไม่มี พึง
+<span class="LineNumber"> 010 </span>กระทำในปัญจโวการภพเท่านั้น.
+<span class="LineNumber"> 011 </span>           ฯลฯ  เพราะนอาหารปัจจัย
+<span class="LineNumber"> 012 </span>           คือ  พาหิรรูป...  อุตุสมุฏฐานรูป...     ส่วนอสัญญส่วนทั้งหลาย  
+<span class="LineNumber"> 013 </span>ฯลฯ  
+<span class="LineNumber"> 014 </span>           พึงแจก ๒  วาระ  ด้วยเหตุนี้.
+<span class="LineNumber"> 015 </span>           ฯลฯ    เพราะนอินทริยปัจจัย
+<span class="LineNumber"> 016 </span>           คือ  พาหิรรูป...  อาหารสมุฏฐานรูป...  อุตุสมุฏฐานรูป ฯลฯ.
+<span class="LineNumber"> 017 </span>           มหาภูตรูป ๑ ที่เป็นอนิทัสสนสัปปฏิฆธรรม ฯลฯ.
+<span class="LineNumber"> 018 </span>           ส่วนอสัญญสัตว์ทั้ง    รูปชีวิตินทรีย์ อาศัยมหาภูตรูปทั้งหลาย ฯลฯ.
+<span class="LineNumber"> 019 </span>           พึงแจกวาระทั้งปวง.
+

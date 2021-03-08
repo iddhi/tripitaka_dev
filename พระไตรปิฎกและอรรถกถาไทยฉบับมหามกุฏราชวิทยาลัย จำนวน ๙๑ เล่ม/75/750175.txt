@@ -1,0 +1,32 @@
+﻿<span class="LineNumber"> 001 </span><B>สญฺโชนสมฺปยุตฺตา เจว ธมฺมา</B>          ธรรมสัมปยุตด้วยสัญโญชน์  แต่ไม่เป็น
+<span class="LineNumber"> 002 </span><B>โน จ สญฺโชนา</B>                                  สัญโญชน์ 
+
+<span class="LineNumber"> 003 </span>        <H2>๒๕-๖.  สัญโญชนวิปปยุตตสัญโญชนิยทุกะ</H2>
+
+<span class="LineNumber"> 004 </span><B>สญฺโชนวิปฺปยุตตา โข ปน</B>              ธรรมวิปปยุตจากสัญโญชน์  แต่เป็น
+<span class="LineNumber"> 005 </span><B>ธมฺมา สญฺโชนิยาปิ</B>                         อารมณ์ของสัญโญชน์
+<span class="LineNumber"> 006 </span><B>สญฺโชนวิปฺปยุตฺตา  โข ปน</B>             ธรรมวิปปยุตจากสัญโญชน์  และไม่
+<span class="LineNumber"> 007 </span><B>ธมฺมา  อสญฺโชนิยาปิ</B>                      เป็นอารมณ์ของสัญโญชน์
+ 
+<span class="LineNumber"> 008 </span>                              <H1>คันถโคจฉกะ</H1> 
+
+<span class="LineNumber"> 009 </span>                  <H1>หมวดที่  ๕ มี ๖ ทุกะ</H1> <B>คือ</B>
+ 
+<span class="LineNumber"> 010 </span>         [๖]                 <H2>๒๖-๑.  คันถทุกะ</H2>
+<span class="LineNumber"> 011 </span><B>คนฺถา  ธมฺมา</B>                                    ธรรมเป็นคันถะ
+<span class="LineNumber"> 012 </span><B>โน  คนฺถา  ธมฺมา</B>                              ธรรมไม่เป็นคันถะ
+
+<span class="LineNumber"> 013 </span>                           <H2>๒๗-๒.  คันถนิยทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>คนฺถนิยา  ธมฺมา</B>                                ธรรมเป็นอารมณ์ของคันถะ
+<span class="LineNumber"> 015 </span><B>อคนฺถนิยา ธมฺมา</B>                               ธรรมไม่เป็นอารมณ์ของคันถะ
+
+<span class="LineNumber"> 016 </span>                      <H2>๒๘-๓.  คันถสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>คนฺถสมฺปยุตฺตา  ธมฺมา</B>                       ธรรมสัมปยุตด้วยคันถะ
+<span class="LineNumber"> 018 </span><B>คนฺถวิปฺปยุตฺตา  ธมฺมา</B>                        ธรรมวิปปยุตตจากคันถะ
+
+<span class="LineNumber"> 019 </span>                       <H2>๒๙-๔.   คันถคันถนิยทุกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>คนฺถา เจว ธมฺมา คนฺถนิยา จ</B>              ธรรมเป็นคันถะและเป็นอารมณ์ของ
+<span class="LineNumber"> 021 </span>                                                           คันถะ

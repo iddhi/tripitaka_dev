@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  48
+
+<span class="LineNumber"> 002 </span>	อิเม ธมฺเม สมฺมสโต   สภาวรสลกฺขเณ (๑) 
+<span class="LineNumber"> 003 </span>	ธมฺมเตเชน วสุธา   ทสสหสฺสี ปกมฺปถ ฯ  
+<span class="LineNumber"> 004 </span>	จลติ รวติ ป€วี  อุจฺฉุยนฺตํว ปีฬิตํ  
+<span class="LineNumber"> 005 </span>	เตลยนฺเต(๑) ยถา จกฺกํ   เอวํ กมฺปติ เมทนีติ ฯ(๓)  
+<span class="LineNumber"> 006 </span>	มหาป€วิยา  กมฺปมานาย  รมฺมนครวาสิโน  สณฺ€าตุํ  
+<span class="LineNumber"> 007 </span>อสกฺโกนฺตา  ยุคนฺตวาตพฺภาหตา  มหาสาลา  วิย  มุจฺฉิตา (๔)  
+<span class="LineNumber"> 008 </span>ปปตึสุ ฯ  ฆฏาทีนิ  กุลาลภาชนานิ  ปวตฺตนฺตานิ  อฺมฺํ  
+<span class="LineNumber"> 009 </span>ปหรนฺตานิ  จุณฺณวิจุณฺณานิ  อเหสุํ ฯ  มหาชโน  ภีตตสิโต  
+<span class="LineNumber"> 010 </span>สตฺถารํ  อุปสงฺกมิตฺวา  กึ  นุ  โข  ภควา  นาคาวฏฺโฏ  
+<span class="LineNumber"> 011 </span>อยํ  ภูตยกฺขเทวตาสุ  อฺตราวฏฺโฏ  วาติ  น  หิ  มยํ  เอตํ  
+<span class="LineNumber"> 012 </span>ชานาม  อปิ  จ  โข  สพฺโพปิ  อยํ  มหาชโน  อุปทฺทุโต  กึ  
+<span class="LineNumber"> 013 </span>นุ  โข  อิมสฺส  โลกสฺส  ปาปกํ  ภวิสฺสติ  อุทาหุ  กลฺยาณํ  
+<span class="LineNumber"> 014 </span>กเถถ  โน  เอตํ  การณนฺติ  อาห ฯ  อถ  สตฺถา  เตสํ  กถํ  
+<span class="LineNumber"> 015 </span>สุตฺวา  ตุมฺเห  มา  ภายถ  มา  จินฺตยิตฺถ  นตฺถิ  โว  อิโต  
+<span class="LineNumber"> 016 </span>นิทานํ  ภยํ  โย  โส  มยา  อชฺช  สุเมธปณฺฑิโต  อนาคเต  
+<span class="LineNumber"> 017 </span>โคตโม  นาม  พุทฺโธ  ภวิสฺสตีติ  พฺยากโต  โส  อิทานิ  ทส  
+<span class="LineNumber"> 018 </span>ปารมิโย  สมฺมสติ  ตสฺส  สมฺมสนฺตสฺส  วิโลเลนฺตสฺส  ธมฺมเตเชน  
+<span class="LineNumber"> 019 </span>สกลทสสหสฺสี  โลกธาตุ  เอกปฺปหาเรน  กมฺปติ  เจว รวติ 
+<span class="LineNumber"> 020 </span># ๑. สฺยา. ม.  สภาวสรสลกฺขเณ  ฯ ๒. ม. สฺยา. เตลยนฺตํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ขุ. พุทฺธ.  ๓๓/๒/๔๓๓ ฯ  ๔ สี.  มุจฺฉิตมุจฺฉิตา ฯ  

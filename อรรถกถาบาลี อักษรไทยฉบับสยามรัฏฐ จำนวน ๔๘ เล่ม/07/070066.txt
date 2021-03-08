@@ -1,0 +1,23 @@
+﻿		
+<span class="LineNumber"> 001 </span>			*เล่มที่ ๗  มูลปริยายวคฺควณฺณนา  หน้า  ๖๖		
+		
+<span class="LineNumber"> 002 </span>			มฺนาติ  จ  นาเมตํ 		  สุขุมํ มารพนฺธนํ  
+<span class="LineNumber"> 003 </span>			สิถิลํ ทุปฺปมุฺจฺจ  		 เยน พนฺโธ (๑) ปุถุชฺชโน ฯ 
+<span class="LineNumber"> 004 </span>			พหุํวิปฺผนฺทมาโนปิ  		 สกฺกายนฺนาติวตฺตติ  
+<span class="LineNumber"> 005 </span>			สมุสฺสิตํ ทฬฺหตฺถมฺภํ  		 สาว สทฺทลพนฺธโน ฯ (๒)  
+<span class="LineNumber"> 006 </span>			เสโส (๓) สกฺกายมลฺลีโน  	 ชาติยา จ ชราย จ  
+<span class="LineNumber"> 007 </span>		        โรคาทีหิ จ ทุกฺเขหิ  		 นิจฺจํ หฺติ พาลิโส ฯ (๔)  
+<span class="LineNumber"> 008 </span>			ตํ โว วทามิ ภทฺทํ โว (๕) 	  สกฺกายํ อนุปสฺสถ  
+<span class="LineNumber"> 009 </span>			อสาตโต อสุภโต  		  เภทโตถ (๖) อนตฺตโตฯ  
+<span class="LineNumber"> 010 </span>			เอโส สภาโว เหตสฺส        	  ปสฺสํ เอวมิมํ พุโธ  
+<span class="LineNumber"> 011 </span>			ปหาย มฺนา สพฺพา 		  สพฺพทุกฺขา ปมุจฺจตีติฯ  
+<span class="LineNumber"> 012 </span>		ปุถุชฺชนวเสน จตุวีสติปพฺพา	  ป€มนยกถา  นิฏฺ€ิตาฯ  
+<span class="LineNumber"> 013 </span>	เอวํ  ภควา  ป€วีอาทีสุ  วตฺถูสุ  สพฺพสกฺกายธมฺมมูลภูตํ  
+<span class="LineNumber"> 014 </span>ปุถุชฺชนสฺส  ปวตฺตึ  ทสฺเสตฺวา อิทานิ  เตเสฺวว  วตฺถูสุ  เสขสฺส  
+<span class="LineNumber"> 015 </span>ปวตฺตึ  ทสฺเสนฺโต  โยปิ  โส  ภิกฺขเว  ภิกฺขุ  เสโขติ (๗) อาทิมาห ฯ 
+<span class="LineNumber"> 016 </span>ตตฺถ โยติ อุทฺเทสวจนํ. โสติ นิทฺเทสวจนํฯ  ปิกาโร  
+<span class="LineNumber"> 017 </span>สมฺปิณฺฑนตฺโถ  อยมฺปิ  ธมฺโม  อนิยโตติ  อาทีสุ  วิยฯ  เตน  จ  
+<span class="LineNumber"> 018 </span>อารมฺมณสภาเคน  ปุคฺคลํ  สมฺปิณฺเฑติ  โน  ปุคฺคลสภาเคน  
+<span class="LineNumber"> 019 </span>เหฏฺ€โต  หิ  ปุคฺคลา  ทิฏฺ€ิวิปนฺนา  อิธ  ทิฏฺ€ิสมฺปนฺนา   น 
+<span class="LineNumber"> 020 </span>#๑. ม. ยุ. พทฺโธ ฯ เอวมุปริปิ ฯ  ๒. ม. คทฺทลพนฺธโน ฯ  ๓. ม. สโส ฯ  ๔. ม. พาฬฺหโส ฯ
+<span class="LineNumber"> 021 </span>๕. ม. ภทฺทนฺเต ฯ  ๖. ม. เภทโต จ ฯ  ๗. ม. เสกฺโข ฯ  เอวมุปริปิ ฯ

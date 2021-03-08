@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ในปฏิสนธิขณะ  วิบากขันธ์  อาศัยหทยวัตถุเกิดขึ้น 
+<span class="LineNumber"> 002 </span>         [๑๒๕๖] ๗.  <B>วิปากธรรม    อาศัยวิปากธรรมและเนววิปาก-
+<span class="LineNumber"> 003 </span>นวิปากธัมมธรรมเกิดขึ้น  เพราะอัญญมัญญปัจจัย.</B>  
+<span class="LineNumber"> 004 </span>         คือ  ในปฏิสนธิขณะ  ขันธ์ ๓  อาศัยขันธ์ ๑ ที่เป็นวิบากและหทยวัตถุ
+<span class="LineNumber"> 005 </span>เกิดขึ้น ฯลฯ   ขันธ์ ๒ อาศัยขันธ์ ๒ และหทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 006 </span>         [๑๒๕๗]  <B>วิปากธรรม อาศัยวิปากธรรมเกิดขึ้น เพราะนิสสย<SUP>๑</SUP>-
+<span class="LineNumber"> 007 </span>ปัจจัย ฯลฯ   เพราะอุปนิสสยปัจจัย<SUP>๒</SUP>   เพราะปุเรชาตปัจจัย<SUP>๓</SUP></B> 
+
+<span class="LineNumber"> 008 </span>                                      <H1>อาเสวนปัจจัย</H1>
+<span class="LineNumber"> 009 </span>         [๑๒๕๘] ๑.  <B>วิปากธัมมธรรม    อาศัยวิปากธัมมธรรมเกิดขึ้น
+<span class="LineNumber"> 010 </span>เพราะอาเสวนปัจจัย.</B>
+<span class="LineNumber"> 011 </span>         คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นวิปากธัมมธรรมเกิดขึ้น ฯลฯ   ขันธ์
+<span class="LineNumber"> 012 </span>๒ อาศัยขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 013 </span>         [๑๒๕๙] ๒.  <B>เนววิปากนวิปากธัมมธรรม     อาศัยเนววิปาก-
+<span class="LineNumber"> 014 </span>นวิปากธัมมธรรมเกิดขึ้น  เพราะอาเสวนปัจจัย.</B>
+<span class="LineNumber"> 015 </span>         คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นเนววิปากนวิปากธัมมธรรมเกิดขึ้น
+<span class="LineNumber"> 016 </span>ฯลฯ  ขันธ์ ๒ อาศัยขันธ์ ๒ เกิดขึ้น.
+<span class='footnote'>๑.  มี ๑๓ วาระ   ๒.  มี ๕ วาระ  ๓.  มี ๓ วาระ</span>

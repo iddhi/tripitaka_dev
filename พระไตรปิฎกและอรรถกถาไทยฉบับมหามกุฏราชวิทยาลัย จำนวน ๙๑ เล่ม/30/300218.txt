@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                           <h1> ๑๐.  ทุติยอุปาทสูตร</h1>
+
+<span class="LineNumber"> 002 </span>             <h2>โพชฌงค์  ๗  ไม่เกิดนอกวินัยของพระสุคต</h2>
+<span class="LineNumber"> 003 </span>       	[๔๐๘]  ดูก่อนภิกษุทั้งหลาย    โพชฌงค์   ๗   ประการนี้    อันภิกษุ
+<span class="LineNumber"> 004 </span>เจริญแล้ว  กระทำให้มากแล้ว  ที่ยังไม่เกิด  ยาอมเกิดขึ้น  ย่อมไม่เกิดขึ้นนอกวินัย
+<span class="LineNumber"> 005 </span>ของพระสุคต  โพชฌงค์  ๗  เป็นไฉน    คือ  สติสัมโพชฌงค์  ฯลฯ  อุเบกขา-
+<span class="LineNumber"> 006 </span>สัมโพชฌงค์  โพชฌงค์  ๗  ประการนี้แล  อันภิกษุเจริญแล้ว   กระทำให้มากแล้ว
+<span class="LineNumber"> 007 </span>ที่ยังไม่เกิด  ย่อมเกิดขึ้น  ย่อมไม่เกิดขึ้นนอกวินัยของพระสุคต.
+<span class="LineNumber"> 008 </span>                                       <I>จบทุติยอุปาทสูตรที่  ๑๐
+<span class="LineNumber"> 009 </span>                                         จบปัพพตวรรคที่  ๑</I>
+
+<span class="LineNumber"> 010 </span>                    	<h1>อรรถกถาทุติยอุปาทสูตรที่  ๑๐</h1>
+
+<span class="LineNumber"> 011 </span>       	พึงทราบวินิจฉัยใน<B>ทุติยอุปาทสูตรที่   ๑๐.</B>
+<span class="LineNumber"> 012 </span>       	บทว่า    <B>นาญฺตฺร   สุคตวินยา</B>    ความว่า   เว้นพระโอวาทของ
+<span class="LineNumber"> 013 </span>พระสุคตเจ้าเสีย  โพชฌงค์ย่อมไม่เกิดขึ้น  ดังนี้.
+<span class="LineNumber"> 014 </span>                                <I>จบอรรถกถาทุติยอุปาทสูตรที่  ๑๐
+<span class="LineNumber"> 015 </span>                                   จบปัพพตวรรควรรณนาที่  ๑</I>
+<span class="LineNumber"> 016 </span>                   	      <H2>รวมพระสูตรที่มีในวรรคนี้   คือ</H2> 
+<span class="LineNumber"> 017 </span>       	๑.    หิมวันตสูตร    ๒.    กายสูตร    ๓.  สีลสูตร        ๔. วัตตสูตร
+<span class="LineNumber"> 018 </span>๕.   ภิกขุสูตร    ๖.   กุณฑลิยสูตร   ๗.   กุฎสูตร    ๘.   อุปวาณสูตร    ๙.   ปฐม-
+<span class="LineNumber"> 019 </span>อุปาทสูตร   ๑๐.    ทุติยอุปาทสูตร  พร้อมทั้งอรรถกถา.

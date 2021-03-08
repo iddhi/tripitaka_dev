@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                         ๘.  <B>มัคคาธิปติธรรม  อาศัยมัคคารัมมณธรรม  และ 
+<span class="LineNumber"> 002 </span>มัคคาธิปติธรรม  เกิดขึ้น  เพราะนอาเสวนปัจจัย</B>
+<span class="LineNumber"> 003 </span>           คือ  ขันธ์ ๓ ที่เป็นมัคคาธิปติธรรม  อาศัยขันธ์ ๑ ที่เป็นมัคคารัมมณ-
+<span class="LineNumber"> 004 </span>ธรรม   และมัคคาธิปติธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 005 </span>                         ๙.  <B>มัคคารัมมณธรรม  และมัคคาธิปติธรรม  อาศัย
+<span class="LineNumber"> 006 </span>มัคคารัมมธรรม  และมัคคาธิปติธรรม  เกิดขึ้น  เพราะนอาเสวน-
+<span class="LineNumber"> 007 </span>ปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ  ขันธ์ ๓  ที่เป็นมัคคารัมมณธรรม  และมัคคาธิปติธรรม  อาศัย 
+<span class="LineNumber"> 009 </span>ขันธ์ ๑ ที่เป็นมัคคารัมมณธรรม   และมัคคาธิปติธรรม ฯลฯ ขันธ์ ๒ ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                     <H1>๖.  นกัมมปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           [๑๗๘๕] ๑.  <B>มัคคารัมมณธรรม  อาศัยมัคคารัมมณธรรม  เกิด
+<span class="LineNumber"> 012 </span>ขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ   เจตนาที่เป็นมัคคารัมมณธรรม   อาศัยขันธ์ทั้งหลายที่เป็นมัคคา-
+<span class="LineNumber"> 014 </span>รัมมณธรรม.
+<span class="LineNumber"> 015 </span>                         ๒.  <B>มัคคาธิปติธรรม   อาศัยมัคคารัมมณธรรม  เกิด
+<span class="LineNumber"> 016 </span>ขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ    เจตนาที่เป็นมัคคาธิปติธรรม   อาศัยขันธ์ทั้งหลายที่เป็นมัคคา-
+<span class="LineNumber"> 018 </span>รัมมณธรรม.

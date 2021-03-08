@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 002 </span>	                     	    <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 003 </span>            [๓๐๙]   อธิกรณ์ของอุปสัมบัน  ภิกษุณีสำคัญว่า  ของอุปสัมบัน  ไม่
+<span class="LineNumber"> 004 </span>ระงับ  ไม่ทำการขวนขวายเพื่อระงับ   ต้องอาบัติปาจิตตีย์. 
+<span class="LineNumber"> 005 </span>            อธิกรณ์ของอุปสัมบัน    ภิกษุณีมีความสงสัย    ไม่ระงับ    ไม่ทำการ
+<span class="LineNumber"> 006 </span>ขวนขวายเพื่อระงับ   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 007 </span>            อธิกรณ์ของอุปสัมบัน  ภิกษุณีสำคัญว่า    ของอนุปสัมบัน   ไม่ระงับ
+<span class="LineNumber"> 008 </span>ไม่ทำการขวนขวายเพื่อระงับ    ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 009 </span>                                            <H2>จตุกกะทุกกฏ</H2>
+<span class="LineNumber"> 010 </span>            อธิกรณ์ของอนุปสัมบัน    ภิกษุณีไม่ระงับ    ไม่ทำการขวนขวายเพื่อ
+<span class="LineNumber"> 011 </span>ระงับ   ต้องอาบัติทุกกฏ.                    
+<span class="LineNumber"> 012 </span>            อธิกรณ์ของอนุปสัมบัน     ภิกษุณีสำคัญว่าของอุปสัมบัน    ต้องอาบัติ
+<span class="LineNumber"> 013 </span>ทุกกฏ.
+<span class="LineNumber"> 014 </span>            อธิกรณ์ของอนุปสัมบัน  ภิกษุณีมีความสงสัย   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 015 </span>            อธิกรณ์ของอนุปสัมบัน  ภิกษุณีสำคัญว่าอนุปสัมบัน   ต้องอาบัติทุกกฎ.
+
+<span class="LineNumber"> 016 </span>                                             <H2>อนาปัตติวาร </H2>
+<span class="LineNumber"> 017 </span>            [๓๑๐]   ในเมื่ออันตรายมี  ๑  แสวงหาแล้วไม่ได้  ๑  อาพาธ ๑   มีเหตุ
+<span class="LineNumber"> 018 </span>ขัดข้อง  ๑  วิกลจริต  ๑ อาทิกัมมิกา  ๑ ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 019 </span>                                   <I>จิตตาคารวรรค  สิกขาบทที่  ๕  จบ</I>

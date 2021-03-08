@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ปุจฉาวาระปฏิโลม</H1> 
+<span class="LineNumber"> 002 </span>                                 <H1>กามธาตุ - อรูปธาตุมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกมูลกะ  เอกมูลี - น  กามธาตุ  น  อรูปธาตุมูละ  กามธาตุมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๕๗๐]   เมื่อบุคคลจุติจากภูมิที่ไม่ใช่กามธาตุ  ไม่ใช่อรูปธาตุ
+<span class="LineNumber"> 005 </span>เข้าถึงกามธาตุ       อนุสัยนอนเนื่องเท่าไร    อนุสัยไม่นอนเนื่องเท่าไร
+<span class="LineNumber"> 006 </span>อนุสัยดับไปเท่าไร ?
+<span class="LineNumber"> 007 </span><H2>น   กามธาตุ   น   อรูปธาตุมูละ   รูปธาตุมูลี</H2> :-
+<span class="LineNumber"> 008 </span>         เมื่อบุคคลจุติจากภูมิที่ไม่ใช่กามธาตุ    ไม่ใช่อรูปธาตุ     เข้าถึง
+<span class="LineNumber"> 009 </span>รูปธาตุ    อนุสัยนอนเนื่องเท่าไร    อนุสัยไม่นอนเนื่องเท่าไร   อนุสัย
+<span class="LineNumber"> 010 </span>ดับไปเท่าไร ?
+<span class="LineNumber"> 011 </span><H2>น   กามธาตุ   น  อรูปธาตุมูละ  อรูปธาตุมูลี</H2> :-
+<span class="LineNumber"> 012 </span>         เมื่อบุคคลจุติจากภูมิที่ไม่ใช่กามธาตุ     ไม่ใช่อรูปธาตุ     เข้าถึง
+<span class="LineNumber"> 013 </span>อรูปธาตุ     อนุสัยนอนเนื่องเท่าไร   อนุสัยไม่นอนเนื่องเท่าไร   อนุสัย
+<span class="LineNumber"> 014 </span>ดับไปเท่าไร ?

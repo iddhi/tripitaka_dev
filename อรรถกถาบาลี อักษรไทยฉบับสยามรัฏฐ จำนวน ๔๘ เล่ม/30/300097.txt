@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  97
+
+<span class="LineNumber"> 002 </span>		กลฺยาณธมฺมวคฺควณฺณนา
+
+<span class="LineNumber"> 003 </span>		กลฺยา เธมฺมชาตกํ
+<span class="LineNumber"> 004 </span>	กลฺยาณธมฺโมติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  เอกํ 
+<span class="LineNumber"> 005 </span>พธิรสสฺสุํ  อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 006 </span>	สาวตฺถิยํ  หิ  เอโก  กุฏุมฺพิโก  สทฺโธ  ปสนฺโน  ติสรณคโต  
+<span class="LineNumber"> 007 </span>ปฺจสีลสมนฺนาคโต ฯ  โส  เอกทิวสํ  พหูนิ  สปฺปิอาทีนิ  
+<span class="LineNumber"> 008 </span>เภสชฺชานิ  เจว  ปุปฺผคนฺธวตฺถาทีนิ  จ  คเหตฺวา  เชตวเน  สตฺถุ  
+<span class="LineNumber"> 009 </span>สนฺติเก  ธมฺมํ  โสสฺสามีติ  อคมาสิ ฯ  ตสฺส  ตตฺถ  คตกาเล 
+<span class="LineNumber"> 010 </span>สสฺสุ  ขาทนียํ  โภชนียํ  คเหตฺวา  ธีตรํ  ทฏฺ€ุกามา  ตํ  เคหํ 
+<span class="LineNumber"> 011 </span>อคมาสิ ฯ สา จ โถกํ  พธีรธาตุกา  โหติ ฯ  สา  ธีตรา 
+<span class="LineNumber"> 012 </span>สทฺธึ  ภุตฺตโภชนา  ภตฺตสมฺมทํ  วิโนทยมานา  ธีตรํ  ปุจฺฉิ 
+<span class="LineNumber"> 013 </span>กึ  อมฺม ภตฺตา เต สมฺโมทมาโน อวิวทมาโน  ปิยสํวาสํ  
+<span class="LineNumber"> 014 </span>วสตีติ ฯ  กึ  อมฺม  กเถุํ  ยาทิโส  ตุมฺหากํ  ชามาตา  สีเลน 
+<span class="LineNumber"> 015 </span>เจว  อาจารสมฺปทาย  จ  ตาทิโส  ปพฺพชิโตปิ  ทุลฺลโภติ ฯ  
+<span class="LineNumber"> 016 </span>อุปาสิกา  ธีตุ  วจนํ  สาธุกํ  อสลฺลกฺเขตฺวา  ปพฺพชิโตติ  ปทเมว  
+<span class="LineNumber"> 017 </span>คเหตฺวา  อมฺม  กสฺมา  เต  ภตฺตา  ปพฺพชิโตติ  มหาสทฺทํ  
+<span class="LineNumber"> 018 </span>อกาสิ ฯ  ตํ  สุตฺวา  สกลเคหวาสิโน  อมฺหากํ  กิร  กุฏุมฺพิโก
+<span class="LineNumber"> 019 </span>ปพฺพชิโตติ  วิรวึสุ ฯ  เตสํ  สทฺทํ  สุตฺวา  ทฺวาเรน  สฺจรนฺตา
+<span class="LineNumber"> 020 </span>กินฺนาม กิเรตนฺติ  ปุจฺฉึสุ ฯ  อิมสฺมึ  กิร  เคเห กุฏุมฺพิโก 

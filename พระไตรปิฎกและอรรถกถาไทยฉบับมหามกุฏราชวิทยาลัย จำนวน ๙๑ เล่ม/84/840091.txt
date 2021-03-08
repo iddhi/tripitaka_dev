@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ฆานินทริย  มูล</H1>
+<span class="LineNumber"> 002 </span><B>ฆานินทริยมูละ  จักขุนทริยมูลี :-</B>
+<span class="LineNumber"> 003 </span>         [๔๐๔]   ธรรมที่ชื่อว่าฆานะ   ชื่อว่า  ฆานินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ธรรมที่ชื่อว่าอินทรีย์,  ชื่อว่า  จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         จักขุนทรีย์   ชื่อว่าอินทรีย์ด้วย   ชื่อว่าจักขุนทรีย์ด้วย    อินทรีย์
+<span class="LineNumber"> 007 </span>ที่เหลือ   ๒๑   ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่าจักขุนทรีย์.
+<span class="LineNumber"> 008 </span>                                          ฯ ล ฯ
+<span class="LineNumber"> 009 </span><B>ฆานินทริยมูละ   อัญญาตาวินทริยมูลี :-</B>
+<span class="LineNumber"> 010 </span>         ธรรมที่ชื่อฆานะ,  ชื่อว่า  ฆานินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ธรรมที่ชื่อว่าอินทรีย์,  ชื่อว่า  อัญญาตาวินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         อัญญาตาวินทรีย์  ชื่อว่าอินทรีย์ด้วย ชื่อว่าอัญญาตาวินทรีย์ด้วย,
+<span class="LineNumber"> 014 </span>อินทรีย์ที่เหลือ  ๒๑  ชื่อว่าอินทรีย์   แต่ไม่ชื่อว่าอัญญาตาวินทรีย์
+<span class="LineNumber"> 015 </span>                  <I>จบ  ฆานินทริยมูละ  อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 016 </span>                                  <I>ฆานินทริยมูล  จบ</I>

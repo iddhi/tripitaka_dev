@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>      		<H1>ทัสสเนนปหาตัพพเหตุกติกสรณทุกะ</H1>
+<span class="LineNumber"> 002 </span>   <H2>(๙.  ทัสสเนนปหาตัพพเหตุกติกะ  ๑๐๐.  สรณทุกะ)</H2> 
+<span class="LineNumber"> 003 </span>				<H1>สรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>                       	    <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                               <H2>๑.  เหตุปัจจัย</H2>                               
+<span class="LineNumber"> 006 </span>		[๙๐๒]  ๑.  ฯลฯ  อาศัยสรณธรรมที่เป็นทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 007 </span>เหตุกธรรม  ฯลฯ 
+<span class="LineNumber"> 008 </span>                ฯลฯ  อาศัยสรณธรรมที่เป็นภาวนายปหาตัพพเหตุกธรรม ฯลฯ
+<span class="LineNumber"> 009 </span>         	สรณธรรมที่เป็นเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 010 </span>อาศัยสรณธรรมที่เป็นเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                                          ฯลฯ
+<span class="LineNumber"> 013 </span>		<I>ทัสสเนนปหาตัพพเหตุกติกสรณทุกะ  จบ</I>

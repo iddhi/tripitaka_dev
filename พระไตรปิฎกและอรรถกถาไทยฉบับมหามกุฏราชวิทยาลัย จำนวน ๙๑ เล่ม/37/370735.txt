@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>๙.  ปุคคลสูตร</H1> 
+<span class="LineNumber"> 002 </span>                         <H2>ว่าด้วยบุคคล   ๙  จำพวก</H2>
+<span class="LineNumber"> 003 </span>         [๒๑๓] ดูก่อนภิกษุทั้งหลาย   บุคคล  ๙  จำพวกนี้   มีปรากฏ
+<span class="LineNumber"> 004 </span>อยู่ในโลก  ๙ จำพวกเป็นไฉน  คือ  พระอรหันต์ ๑ ท่านผู้ปฏิบัติเพื่อ
+<span class="LineNumber"> 005 </span>ความเป็นพระอรหันต์   ๑  พระอนาคามี   ๑   ท่านผู้ปฏิบัติเพื่อกระทำ
+<span class="LineNumber"> 006 </span>ให้แจ้งซึ่งอนาคามิผล   ๑   พระสกทาคามี   ๑   ท่านผู้ปฏิบัติเพื่อกระทำ
+<span class="LineNumber"> 007 </span>ให้แจ้งซึ่งสกทาคามิผล  ๑   พระโสดาบัน   ๑   ท่านผู้ปฏิบัติเพื่อกระทำ
+<span class="LineNumber"> 008 </span>ให้แจ้งซึ่งโสดาปัตติผล  ๑  ปุถุชน  ๑  ดูก่อนภิกษุทั้งหลาย  บุคคล  ๙
+<span class="LineNumber"> 009 </span>จำพวกเหล่านี้แล   มีปรากฏอยู่ในโลก.
+<span class="LineNumber"> 010 </span>                                     <I>จบ  ปุคคลสูตรที่  ๙</I>
+
+<span class="LineNumber"> 011 </span>                            <H1>อรรถกถาปุคคลสูตรที่  ๙</H1>
+<span class="LineNumber"> 012 </span>         ใน  <B>ปุคคลสูตรที่   ๙</B>   ท่านกล่าวว่า   <B>อาหุเนยฺยา</B>  เป็นผู้ควร
+<span class="LineNumber"> 013 </span>ของคำนับ  
+<span class="LineNumber"> 014 </span>                                <I>จบ  อรรถกถาปุคคลสูตรที่  ๙</I>

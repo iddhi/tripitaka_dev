@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           นี้เป็นความต่างแห่งสมาบัติ   ในอธิการแห่งสมาบัตินี้  และวิปัสสนา-
+<span class="LineNumber"> 002 </span>กรรมฐานนัย  จบ ฯ 
+<span class="LineNumber"> 003 </span>                                         [สังคหคาถา]
+<span class="LineNumber"> 004 </span>                       <B> ก็บุคคลผู้ปรารถนาความยินดีรสการปฏิบัติใน
+<span class="LineNumber"> 005 </span>                        พระศาสนา  พึงเจริญภาวนา  ๒  อย่าง  อัน
+<span class="LineNumber"> 006 </span>                        ยอดเยี่ยม  ดังพรรณนาฉะนี้ ฯ</B>
+<span class="LineNumber"> 007 </span>           ปริเฉทที่  ๙  ชื่อว่ากัมมัฏฐานสังคหาวิภาค  ในปกรณ์ชื่ออภิธัม-
+<span class="LineNumber"> 008 </span>มัตถสังคหะ  จบด้วยประการฉะนี้แล ฯ
+<span class="LineNumber"> 009 </span>                                     [คาถาท้ายปกรณ์]
+<span class="LineNumber"> 010 </span>                        <B>ปกรณ์ที่อุบาสกชื่อว่านัมพะ  ผู้เกิดในตระกูล
+<span class="LineNumber"> 011 </span>                        ไพศาลงดงามด้วยจารีต  (ความประพฤติที่ดี)
+<span class="LineNumber"> 012 </span>                        มีบ่อเกิดแห่งคุณที่เจริญรุ่งเรือง และบริสุทธิ์ด้วย
+<span class="LineNumber"> 013 </span>                        ศรัทธา  ปรารถนาความเอ็นดูผู้อื่น  ต้องประสงค์
+<span class="LineNumber"> 014 </span>                        ก็จบลงเรียบร้อยแล้ว ฯ  ด้วยบุญอันไพบูลนั้น
+<span class="LineNumber"> 015 </span>                        ขอเหล่าลัชชีภิกษุ  ผู้งดงามด้วยคุณที่บริสุทธิ์
+<span class="LineNumber"> 016 </span>                        ผุดผ่องด้วยปัญญา  จงสำคัญมูลโสมวิหาร<SUP>๑</SUP>
+<span class="LineNumber"> 017 </span>                        อันเป็นที่อยู่ของท่านผู้มีบุญ  และเป็นสถานที่มี
+<span class="LineNumber"> 018 </span>                        ชื่อเสียงโด่งดัง  เพื่อมงคลคือความเกิดบุญสมบัติ
+<span class="LineNumber"> 019 </span>                        จนสิ้นสุดยุค  (พระศาสนา)  เถิด ฯ</B>
+
+<span class='footnote'>๑.  ในโยชนาว่า  ตุ  ศัพท์  เป็นบทบูรณ์  ปาฐะฉบับพม่าเป็น  ตุ  มูลโสมํ  ก็มี  เป็น  ตุมูลโสมํ  ก็มี</span>
+<span class='footnote'>ฉนับสีหลเป็นต้น ตุมูลโสมํ  ในคำนำปาฐะฉบับสีหลก็กล่าวว่า....อาจริย  อนุรุทฺธมหาเถรปุงฺคเวน</span>
+<span class='footnote'>ทกฺขิชมพูทีเป  ตุมูลโสมวิหารมชฺฌาวสตา ... ฯ</span>

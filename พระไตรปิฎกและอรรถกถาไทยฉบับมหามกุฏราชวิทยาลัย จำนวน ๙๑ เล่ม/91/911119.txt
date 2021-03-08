@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>          <H1>นเหตุทุกนสนิทัสสนติกเหตุทุกสนิทัสสนติกะ</H1>  
+<span class="LineNumber"> 002 </span>          <H2>(๑. เหตุทุกะ  ๒๒.  สนิทัสสนติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                   <H2>สนิทัสสนบท</H2>	
+<span class="LineNumber"> 007 </span>           [๔๒๔] ๑.  <B>สนิทัสสนสัปปฏิฆธรรม  ที่เป็นนเหตุธรรม อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม    ที่เป็นนเหตุธรรม     เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>   มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>                       ๒.  <B>สนิทัสสนสัปปฏิฆธรรม  ที่เป็นนเหตุธรรม  อาศัย
+<span class="LineNumber"> 011 </span>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  ที่ไม่ใช่นเหตุธรรม   เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะเหตุปัจจัย</B>   มี  ๑ วาระ.
+<span class="LineNumber"> 013 </span>           โดยนัยแห่งการนับ มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>           แม้ในนเหตุนอนิทัสสนสัปปฏิฆมูล  ก็มี ๓ วาระ  เหมือนกัน.
+
+<span class="LineNumber"> 015 </span>                          <H2>อนิทัสสนอัปปฏิฆบท</H2>
+<span class="LineNumber"> 016 </span>           [๔๒๕]  ๑.  <B>อนิทัสสนอัปปฏิฆธรรม ที่เป็นนเหตุธรรม อาศัย
+<span class="LineNumber"> 017 </span>ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม    ที่เป็นนเหตุธรรม  เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะเหตุปัจจัย</B>

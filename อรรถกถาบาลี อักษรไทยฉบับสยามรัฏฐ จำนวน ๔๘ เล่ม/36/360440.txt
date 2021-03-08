@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  440
+
+<span class="LineNumber"> 002 </span>	[๖๓๑]	อุพฺเพธติ เม หทยํ		มุขฺจ ปริสุสฺสติ  
+<span class="LineNumber"> 003 </span>			นิพฺพุตึ นาธิคจฺฉามิ		อคฺคิทฑฺโฒว อาตเป  
+<span class="LineNumber"> 004 </span>			กมฺมารานํ ยถา อุกฺกา		อนฺโต ฌายติ โน พหิ  
+<span class="LineNumber"> 005 </span>			เอวมฺปิ หทยํ มยฺหํ		อนฺโต ฌายติ โน พหีติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  อุพฺเพธตีติ  ตาต  มโหสถ  หทยํ  เม  มหาวาเตริตํ 
+<span class="LineNumber"> 007 </span>วิย  อสฺสตฺถปลฺลวํ (๑) กมฺปติ ฯ  อนฺโต  ฌายติ  โน  พหีติ  สา  อุกฺกา  
+<span class="LineNumber"> 008 </span>วิย  มยฺหํ  หทยมํสํ  อพฺภนฺตเร  ฌายติ  พหิ  ปน  น  ปฺายตีติ (๒) 
+<span class="LineNumber"> 009 </span>ปริเทวติ ฯ  
+<span class="LineNumber"> 010 </span>	มหาสตฺโต  ตสฺส  ปริเทวิตํ  สุตฺวา  อยํ  อนฺธพาโล  อฺเสุ  
+<span class="LineNumber"> 011 </span>ทิวเสสุ มม วจนํ น กเรยฺย ภิยฺโย นํ นิคฺคณฺหิสฺสามีติ 
+<span class="LineNumber"> 012 </span>จินฺเตตฺวา อาห  
+<span class="LineNumber"> 013 </span>	[๖๓๒]	ปมตฺโต มนฺตนาตีโต		ภินฺนมนฺโตสิ ขตฺติย  
+<span class="LineNumber"> 014 </span>			อิทานิ โข ตํ ตายนฺตุ		ปณฺฑิตา มนฺติโน ชนา  
+<span class="LineNumber"> 015 </span>			อกตฺวามจฺจสฺส วจนํ		อตฺถกามหิเตสิโน  
+<span class="LineNumber"> 016 </span>			อตฺตปีติรโต ราช			มิโค กูเฏว โอหิโต่  
+<span class="LineNumber"> 017 </span>			ยถาปิ มจฺโฉ วลิสํ		วงฺกํ มํเสน ฉาทิตํ  
+<span class="LineNumber"> 018 </span>			อามคิทฺโธ น ชานาติ		มจฺโฉ มรณมตฺตโน  
+<span class="LineNumber"> 019 </span>			เอวเมว ตุวํ ราช			จูลเนยฺยสฺส ธีตรํ  
+<span class="LineNumber"> 020 </span>			กามคิทฺโธ น ชานาสิ		มจฺโฉ (๓) มรณมตฺตโน  
+<span class="LineNumber"> 021 </span># ๑. ม. มหาวาตปฺปหริตํ วิย ปลฺลวํ ฯ  ๒. ม. น ฌายตีติ ฯ
+<span class="LineNumber"> 022 </span># ๓. ส. ม. มจฺโฉว ฯ

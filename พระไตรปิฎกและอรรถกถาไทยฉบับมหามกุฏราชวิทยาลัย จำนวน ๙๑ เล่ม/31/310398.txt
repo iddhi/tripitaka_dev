@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>มหาปัญญวรรคที่*  ๗</H1>
+
+<span class="LineNumber"> 002 </span>                                 <H1>๑.  มหาปัญญสูตร</H1>              
+
+<span class="LineNumber"> 003 </span>                <H1>เจริญธรรม   ๔   ประการเพื่อมีปัญญามาก</H1> 
+
+<span class="LineNumber"> 004 </span>           [๑๖๔๑]  ...ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญามาก...
+<span class="LineNumber"> 005 </span>                                 <I>จบมหาปัญญสูตรที่    ๑</I>
+
+<span class="LineNumber"> 006 </span>                               <H1>๒.  ปุถุปัญญสูตร</H1> 
+
+<span class="LineNumber"> 007 </span>          <H1>เจริญธรรม  ๔  ประการเพื่อมีปัญญาแน่นหนา</H1>
+
+<span class="LineNumber"> 008 </span>           [๑๖๔๒]  ...ย่อมเป็นเพื่อความเป็นผู้มีปัญญาแน่นหนา ...
+
+<span class="LineNumber"> 009 </span>                               <H1>๓.  วิปุลลปัญญสูตร</H1>
+
+<span class="LineNumber"> 010 </span>              <H1>เจริญธรรม  ๔  ประการเพื่อมีปัญญาไพบูลย์</H1>
+
+<span class="LineNumber"> 011 </span>           [๑๖๔๓]   ..ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญาไพบูลย์...
+<span class="LineNumber"> 012 </span>                                   <I>จบวิปุลลปัญญสูตรที่  ๓</I>
+<span class='footnote'> * อรรถกถาวรรคที่  ๗   แก้ไว้ท้ายวรรคนี้.</span>

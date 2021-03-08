@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>             <H1>อธิบายว่าด้วยวิญญาณ  ๕  เป็นต้น</H1> 
+
+<span class="LineNumber"> 002 </span>         บัดนี้  พึงทราบวินิจฉัยวิญญาณ  ๕  และทวารวิญญาณ  ๕ ต่อไป.
+
+<span class="LineNumber"> 003 </span>                           <H2>ชื่อว่าวิญญาณ   ๕ คือ</H2>
+
+<span class="LineNumber"> 004 </span>              ๑.  จักขุวิญญาณ
+<span class="LineNumber"> 005 </span>              ๒.  โสตวิญญาณ
+<span class="LineNumber"> 006 </span>              ๓.  ฆานวิญญาณ
+<span class="LineNumber"> 007 </span>              ๔.  ชิวหาวิญญาณ
+<span class="LineNumber"> 008 </span>              ๕.  กายวิญญาณ
+
+<span class="LineNumber"> 009 </span>                       <H2>ชื่อว่าทวารวิญญาณ  ๕ คือ</H2>
+
+<span class="LineNumber"> 010 </span>              ๑.  ทวารแห่งจักขุวิญญาณ
+<span class="LineNumber"> 011 </span>              ๒.  ทวารแห่งโสตวิญญาณ
+<span class="LineNumber"> 012 </span>              ๓.  ทวารแห่งฆานวิญญาณ
+<span class="LineNumber"> 013 </span>              ๔.  ทวารแห่งชิวหาวิญญาณ
+<span class="LineNumber"> 014 </span>              ๕.  ทวารแห่งกายวิญญาณ
+<span class="LineNumber"> 015 </span>         เจตนาที่เกิดขึ้นด้วยอำนาจแห่งทวาร ๕ เหล่านั้น   บัณฑิตพึงทราบว่า
+<span class="LineNumber"> 016 </span>ไม่เป็นกายกรรม  ไม่เป็นวจีกรรม  เป็นแต่มโนทวารเท่านั้น. แต่ชื่อว่า  <B>สัมผัส</B>
+<span class="LineNumber"> 017 </span>เหล่านั้นมี ๖ คือ จักขุสัมผัส  โสต  ฆาน ชิวหา กาย มโนสัมผัส.  ชื่อว่า  <B>ทวาร
+<span class="LineNumber"> 018 </span>แห่งสัมผัส</B>เหล่านี้มี ๖ คือ ทวารแห่งจักขุ สัมผัส  ทวารแห่งโสต  ฆาน ชิวหา
+<span class="LineNumber"> 019 </span>กาย มโนสัมผัส. ชื่อว่า  <B>อสังวร</B> ๘  เหล่านั้น คือ  จักขุอสังวร โสต ฆาน ชิวหา
+<span class="LineNumber"> 020 </span>อสังวร    ปสาทกายอสังวร    โจปนกายอสังวร    วาจาสังวร    มโนอสังวร.
+<span class="LineNumber"> 021 </span>อสังวร ๘ เหล่านั้น   ว่าโดยอรรถได้แก่ธรรม ๕ เหล่านี้  คือ  ความเป็นผู้ทุศีล

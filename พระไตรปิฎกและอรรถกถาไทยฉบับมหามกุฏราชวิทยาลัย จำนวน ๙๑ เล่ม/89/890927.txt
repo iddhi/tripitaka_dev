@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>         [๘๒๑]  ๑.  <B>อนิยยานิกธรรม   อาศัยอนิยยานิกธรรม   เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ ขันธ์ ๓ และจิตตสมุฏฐานรูป อาศัยขันธ์ ๑ ที่เป็นอนิยยานิกธรรม
+<span class="LineNumber"> 006 </span>ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒  อาศัยขันธ์ ๒ ฯลฯ  ตลอดถึงอสัญญสัตว์ ฯลฯ
+<span class="LineNumber"> 007 </span>         จักขุวิญญาณ  อาศัยจักขายตนะ ฯลฯ
+<span class="LineNumber"> 008 </span>         ขันธ์ทั้งหลายที่เป็นอนิยยานิกธรรม  ซึ่งเป็นอเหตุกะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 009 </span>         โมหะ   ที่สหรคตด้วยวิจิกิจฉา    ที่สหรคตด้วยอุทธัจจะ   อาศัยขันธ์
+<span class="LineNumber"> 010 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  และหทยวัตถุ.
+
+<span class="LineNumber"> 011 </span>                                     <H2>๒.  นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 012 </span>         [๘๒๒] ๑.  <B>อนิยยานิกธรรม    อาศัยนิยยานิกธรรม   เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะนอารัมมณปัจจัย</B>   มี ๓ วาระ.
+
+<span class="LineNumber"> 014 </span>                                        <H2>๓.  นอธิปติปัจจัย</H2>
+<span class="LineNumber"> 015 </span>         [๘๒๓] ๑.  <B>นิยยานิกธรรม      อาศัยนิยยานิกธรรม    เกิดขึ้น
+<span class="LineNumber"> 016 </span>เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  อธิปติธรรมที่เป็นนิยยานิกธรรม  อาศัยขันธ์ทั้งหลายที่เป็นนิยยา-
+<span class="LineNumber"> 018 </span>นิกธรรม.
+<span class="LineNumber"> 019 </span>                     ๒.  <B>อนิยยานิกธรรม   อาศัยอนิยยานิกธรรม   เกิดขึ้น
+<span class="LineNumber"> 020 </span>เพราะนอธิปติปัจจัย</B>

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>หัวข้อลำดับหมวด</H1>   
+<span class="LineNumber"> 002 </span>           [๑,๐๐๖]  หมวดยิ่งกว่าหนึ่งไม่มีมลทิน   คือ    หมวด  ๑    หมวด ๒
+<span class="LineNumber"> 003 </span>หมวด  ๓   หมวด  ๔   หมวด  ๕   หมวด ๖  หมวด ๗   หมวด ๘  หมวด ๙
+<span class="LineNumber"> 004 </span>หมวด ๑๐   และหมวด ๑๑   อันพระพุทธเจ้าผู้มหาวีระ  มีธรรมอันปรากฏแล้ว
+<span class="LineNumber"> 005 </span>ผู้คงที่   ทรงแสดงแล้ว    เพื่อความเกื้อกูล   แก่สรรพสัตว์แล.
+<span class="LineNumber"> 006 </span>                              <I>หัวข้อลำดับหมวด  ๑๑  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                    <H1>เอกุตตริก  วัณณนา</H1> 
+<span class="LineNumber"> 008 </span>           วินิจฉัยในเอกุตตริกนัย  มีคำว่า   <B>อาปตฺติกรา  ธมฺมา  ชานิตพฺพา</B>
+<span class="LineNumber"> 009 </span>เป็นอาทิ  พึงทราบดังนี้:-
+
+<span class="LineNumber"> 010 </span>                                      <H1>[พรรณนาหมวด ๑]</H1> 
+<span class="LineNumber"> 011 </span>           อาปัตติสมุฏฐาน ๖  ชื่อกรรมก่ออาบัติ.  จริงอยู่  บุคคลย่อมต้องอาบัติ
+<span class="LineNumber"> 012 </span>ด้วยอำนาจแห่งธรรมเหล่านั้น   เพราะเหตุนั้น  ธรรมเหล่านั้น   ท่านจึงกล่าวว่า
+<span class="LineNumber"> 013 </span>ก่ออาบัติ.
+<span class="LineNumber"> 014 </span>           สมถะ ๗  ชื่อธรรมก่ออาบัติ.
+<span class="LineNumber"> 015 </span>           สองบทว่า  <B>อาปตฺติ    ชานิตพฺพา</B>   ได้แก่  พึงรู้จักอาบัติที่ท่านกล่าว
+<span class="LineNumber"> 016 </span>ไว้ในสิกขาบทและวิภังค์นั้น ๆ.

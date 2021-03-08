@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า  มัคคสัจจะไม่ใช่จักเกิดแก่บุคคลใด,    ทุกขสัจจะก็ไม่ใช่
+<span class="LineNumber"> 002 </span>เคยเกิดแก่บุคคลนั้น  ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         เคยเกิด.
+<span class="LineNumber"> 004 </span>                            <I>จบ  ทุกขสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 005 </span>                                        <I>ทุกขสัจจมูล  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                          <H1>สมุทยสัจจมูล</H1>
+<span class="LineNumber"> 007 </span><H2>สมุทยสัจจมูละ  มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 008 </span>         [๙๑๔]   สมุทยสัจจะไม่ใช่เคยเกิดแก่บุคคลใด,     มัคคสัจจะก็
+<span class="LineNumber"> 009 </span>ไม่ใช่จักเกิดแก่บุคคลนั้น ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ไม่มี.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า     มัคคสัจจะไม่ใช่จักเกิดแก่บุคคลใด,      สมุทยสัจจะก็
+<span class="LineNumber"> 012 </span>ไม่ใช่จักเกิดแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         เคยเกิด.
+<span class="LineNumber"> 014 </span>                           <I>จบ  สมุทยสัจจมูละ  ทุกขสัจจมูลี</I>
+<span class="LineNumber"> 015 </span>                                      <I>สมุทยสัจจมูล  จบ</I>
+<span class="LineNumber"> 016 </span>                                       <I>ปุคคลวาระ  จบ</I>

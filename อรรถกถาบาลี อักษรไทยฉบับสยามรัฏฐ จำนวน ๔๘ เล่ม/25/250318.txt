@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  318
+
+<span class="LineNumber"> 002 </span>เตปิฏกํ  พุทฺธวจนํ  อุคฺคณฺหนฺโต  ปริปุจฺฉนฺโต  ตตฺถ  วุตฺเต 
+<span class="LineNumber"> 003 </span>รูปารูปธมฺเม สลฺลกฺเขตฺวา  วิปสฺสนํ  ปฏฺ€เปตฺวา  สมฺมสนฺโต
+<span class="LineNumber"> 004 </span>น  จิรสฺเสว  อรหตฺตํ  ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 005 </span>		สิทฺธตฺถสฺส ภควโต	มหาปูคคโณ(๒) อหุ  
+<span class="LineNumber"> 006 </span>		สรณํ คตา จ เต พุทฺธํ	สทฺทหนฺติ ตถาคตํ ฯ  
+<span class="LineNumber"> 007 </span>		สพฺเพ สงฺคมฺม มนฺเตตฺวา  มาลํ(๓) กุพฺพนฺติ สตฺถุโน  
+<span class="LineNumber"> 008 </span>		เอกตฺถมฺภํ อลภนฺตา	วิจินนฺติ พฺรหาวเน ฯ  
+<span class="LineNumber"> 009 </span>		เตหํ อรฺเ ทิสฺวาน	อุปคมฺม คณํ ตทา  
+<span class="LineNumber"> 010 </span>		อฺชลึ ปคฺคเหตฺวาน	ปริปุจฺฉึ(๔) คณํ อหํ ฯ  
+<span class="LineNumber"> 011 </span>		เต เม ปุฏฺ€า วิยากํสุ	สีลวนฺโต อุปาสกา  
+<span class="LineNumber"> 012 </span>		มาฬํ(๓) มยํ กตฺตุกามา	เอกตฺถมฺโภ น ลพฺภติ ฯ  
+<span class="LineNumber"> 013 </span>		เอกตฺถมฺมํ มมํ เทถ	อหํ ทสฺสามิ สตฺถุโน  
+<span class="LineNumber"> 014 </span>		อาหริสฺสามหํ ถมฺภํ	อปฺโปสฺสุกฺกา ภวนฺตุ เต ฯ  
+<span class="LineNumber"> 015 </span>		เต เม ถมฺภํ ปเวจฺฉึสุ	ปสนฺนา ตุฏฺ€มานสา  
+<span class="LineNumber"> 016 </span>		ตโต ปฏินิวตฺติตฺวา	อคมํสุ สกํ ฆรํ ฯ  
+<span class="LineNumber"> 017 </span>		อจิรํ คเต ปูคคเณ(๕)	ถมฺภํ อทาสหํ (๖) ตทา  
+<span class="LineNumber"> 018 </span>		หฏฺโ€ หฏฺเ€น จิตฺเตน	ป€มํ อุสฺสเปสหํ ฯ (๗)  
+<span class="LineNumber"> 019 </span># ๑. ขุ. อ. ๓๒/๑๔/๗๙ ฯ  ๒. สฺยา. มหาปุคคโณ ฯ  
+<span class="LineNumber"> 020 </span># ๓. สี. สาลํ ฯ ๔. สฺยา. ปริปุจฺฉึ ฯ  ม. ปฏิปุจฺฉึ ฯ 
+<span class="LineNumber"> 021 </span># ๕. สฺยา. ปุคคเณ ฯ  ๖. ม.  โปราณ. อหาสหํ ฯ
+<span class="LineNumber"> 022 </span># ๗. สี. อุปเปสหํ ฯ

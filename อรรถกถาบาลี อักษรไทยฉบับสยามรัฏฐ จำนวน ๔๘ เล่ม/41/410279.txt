@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  41  ยุคนทฺธกถาวณฺณนา   หน้า  279
+
+<span class="LineNumber"> 002 </span>	โหติ  โส  อาวุโส  สมโยติ  อิมินา มคฺคามคฺคววตฺถาเนน 
+<span class="LineNumber"> 003 </span>ตํ  ธมฺมุทฺธจฺจํ  ปฏิพาหิตฺวา  ปุน  วิปสฺสนาวีถึ  ปฏิปนฺนกาลํ  
+<span class="LineNumber"> 004 </span>ทสฺเสติ ฯ  
+<span class="LineNumber"> 005 </span>	ยํ   ตํ  จิตฺตนฺติ  ยสฺมึ  สมเย  ตํ  วิปสฺสนาวีถึ 
+<span class="LineNumber"> 006 </span>โอกฺกมิตฺวา ปวตฺตํ  จิตฺตํ ฯ  
+<span class="LineNumber"> 007 </span>	อชฺฌตฺตเมว  สนฺติฏฺ€ตีติ วิปสฺสนาวีถึ ปจฺโจตริตฺวา ตสฺมึ 
+<span class="LineNumber"> 008 </span>สมเย โคจรชฺฌตฺตสงฺขาเต  อารมฺมเณ  สนฺติฏฺ€ติ  ปติฏฺ€าติ ฯ  
+<span class="LineNumber"> 009 </span>	สนฺนิสีทตีติ  ตตฺเถว ปวตฺติวเสน  สมฺมา  นิสีทติ ฯ  
+<span class="LineNumber"> 010 </span>	เอโกทิ  โหตีติ  เอกคฺคํ  โหติ ฯ  
+<span class="LineNumber"> 011 </span>	สมาธิยตีติ  สมฺมา อาธิยติ สุฏฺ€ุ €ิตํ โหตีติ ฯ  
+<span class="LineNumber"> 012 </span>		อยํ สุตฺตนฺตวณฺณนา  ฯ
+
+<span class="LineNumber"> 013 </span>			สุตฺตนฺตนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 014 </span>	ตสฺส  สุตฺตนฺตสฺส  นิทฺเทสกถาย  ตตฺถ  ชาเต  ธมฺเมติ  
+<span class="LineNumber"> 015 </span>ตสฺมึ  สมาธิสฺมึ  ชาเต  จิตฺตเจตสิเก  ธมฺเม.  ฯ
+<span class="LineNumber"> 016 </span>	อนิจฺจโต  อนุปสฺสนฏฺเ€นาติอาทินา วิปสฺสนาย  เภทํ  
+<span class="LineNumber"> 017 </span>ทสฺเสติ ฯ  
+<span class="LineNumber"> 018 </span>	สมฺมาทิฏฺ€ิ  มคฺโคติ  สมฺมาทิฏฺ€ิสงฺขาโต  มคฺโค ฯ อฏฺ€สุ  
+<span class="LineNumber"> 019 </span>มคฺคงฺเคสุ  เอเกโกปิ  หิ มคฺโคติ วุจฺจติ ฯ 
+<span class="LineNumber"> 020 </span>	อาเสวตีติ โสตาปตฺติมคฺควเสน ฯ ภาเวตีติ  สกทาคามิ-

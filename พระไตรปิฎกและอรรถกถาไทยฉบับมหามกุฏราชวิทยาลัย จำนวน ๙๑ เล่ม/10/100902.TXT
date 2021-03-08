@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>ยกวัตรตรัสไว้มีเท่าไร  ความประพฤติชอบมี  
+<span class="LineNumber"> 002 </span>                   เท่าไร
+<span class="LineNumber"> 003 </span>                             ตอบว่า   ภิกษุเห็นอานิสงส์  ๘  อย่าง
+<span class="LineNumber"> 004 </span>                   จึงแสดงเพราะเชื่อผู้อื่น     ภิกษุผู้ถูกยกวัตร
+<span class="LineNumber"> 005 </span>                   ตรัสไว้  มี  ๓  พวก  ความประพฤติชอบมี
+<span class="LineNumber"> 006 </span>                   ๔๓ ข้อ.</B>     
+  
+<span class="LineNumber"> 007 </span>	                            <H2>มุสาวาทเป็นต้น</H2>
+<span class="LineNumber"> 008 </span>                             [๑,๒๖๘]   <B>ถามว่า   มุสาวาทถึงฐานะ
+<span class="LineNumber"> 009 </span>                   เท่าไร  ที่ตรัสว่าอย่างยิ่งมีเท่าไร  ปาฏิเทสนียะ
+<span class="LineNumber"> 010 </span>                   มีกี่สิกขาบท       การแสดงโทษของบุคคลกี่
+<span class="LineNumber"> 011 </span>                   จำพวก
+<span class="LineNumber"> 012 </span>                             ตอบว่า  มุสาวาทถึงฐานะ   ที่ตรัส
+<span class="LineNumber"> 013 </span>                   ว่าอย่างยิ่ง  มี  ๑๔ สิกขาบท  ปาฏิเทสนียะมี
+<span class="LineNumber"> 014 </span>                   ๒ สิกขาบท    การแสดงโทษของบุคคล  ๔
+<span class="LineNumber"> 015 </span>                   จำพวก.</B>
+
+<span class="LineNumber"> 016 </span>                            <H2>องค์ของมุสาวาทเป็นต้น</H2>
+<span class="LineNumber"> 017 </span>                             [๑,๒๖๙]  <B>ถามว่า      มุสาวาทมีองค์
+<span class="LineNumber"> 018 </span>                   เท่าไร  องค์อุโบสถมีเท่าไร   องค์ของผู้ควร
+<span class="LineNumber"> 019 </span>                   เป็นทูต  มีเท่าไร  ติตถิยวัตร  มีเท่าไร</B>

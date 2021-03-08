@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>๑๐.  มิตตมิตตชาดก</H1>
+
+<span class="LineNumber"> 002 </span>               <H2>ว่าด้วยลักษณะของผู้เป็นมิตรและมิใช่มิตร</H2> 
+<span class="LineNumber"> 003 </span>                        [๑๗๑๓]    <B>บุรุษผู้เป็นบัณฑิตมีปัญญา ได้เห็นและ
+<span class="LineNumber"> 004 </span>              ได้ฟังซึ่งบุคคลผู้ทำกรรมอย่างไร    จึงจะรู้ได้ว่าผู้นี้ไม่
+<span class="LineNumber"> 005 </span>              ใช่มิตร     วิญญูชนจะพึงพยายามอย่างไรจึงจะรู้ได้ว่า
+<span class="LineNumber"> 006 </span>              ผู้นี้ไม่ใช่มิตร.</B>
+<span class="LineNumber"> 007 </span>                        [๑๗๑๔]    <B>บุคคลผู้มิใช่มิตรเห็นเพื่อนแล้ว    ไม่
+<span class="LineNumber"> 008 </span>              ยิ้มแย้มแจ่มใส     ไม่ร่าเริงต้อนรับเพื่อนไม่แลดูเพื่อน
+<span class="LineNumber"> 009 </span>              กล่าวคำย้อนเพื่อน.</B>
+<span class="LineNumber"> 010 </span>                        [๑๗๑๕]    <B>บุคคลผู้มิใช่มิตร คบหาศัตรูของเพื่อน
+<span class="LineNumber"> 011 </span>              ไม่คบหามิตรของเพื่อน  ห้ามผู้ที่กล่าวสรรเสริญเพื่อน
+<span class="LineNumber"> 012 </span>              สรรเสริญผู้ที่ด่าเพื่อน.</B>
+<span class="LineNumber"> 013 </span>                        [๑๗๑๖]    <B>บุคคลผู้มิใช่มิตร   ไม่บอกความลับแก่
+<span class="LineNumber"> 014 </span>              เพื่อนไม่ช่วยปกปิดความลับของเพื่อน    ไม่สรรเสริญ
+<span class="LineNumber"> 015 </span>              การงานของเพื่อน  ไม่สรรเสริญปัญญาของเพื่อน.</B>
+<span class="LineNumber"> 016 </span>                        [๑๗๑๗]    <B>บุคคลผู้มิใช่มิตร  ยินดีในความฉิบหาย
+<span class="LineNumber"> 017 </span>              ของเพื่อน  ไม่ยินดีในความเจริญของเพื่อน ได้อาหาร
+<span class="LineNumber"> 018 </span>              ที่ดีมีรสอร่อยมาแล้ว   ก็มิได้นึกถึงเพื่อน  ไม่ยินดี
+<span class="LineNumber"> 019 </span>              อนุเคราะห์เพื่อนว่า   อย่างไรหนอ  เพื่อนของเราพึงได้
+<span class="LineNumber"> 020 </span>              ลาภจากที่นี้บ้าง.</B>

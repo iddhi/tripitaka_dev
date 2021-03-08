@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                            คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.   ศัพท์ว่า   ปาติโมกข์   หมายถึงอะไร  ?   เป็นของใคร  ?
+<span class="LineNumber"> 003 </span>	๒.  ปาติโมกขสังวร    ในปาริสุทธิศีล   ๔   คืออะไร  ?  เป็นหน้าที่
+<span class="LineNumber"> 004 </span>              โดยตรงของใคร ?
+<span class="LineNumber"> 005 </span>	๓.   อาชีวปาริสุทธิ    แปลว่า    กระไร  ?   หมายความอย่างไร  ?
+<span class="LineNumber"> 006 </span>	๔.   อะไรเรียกว่าปัจจัย  ๔  ?   ท่านสอนให้พิจารณาอย่างไร  ?
+<span class="LineNumber"> 007 </span>	๕.   อะไรเรียกชื่อว่า   <B>ปาริสุทธิศีล</B>    เพราะเหตุไร    จึงเรียกชื่อ
+<span class="LineNumber"> 008 </span>               อย่างนั้น.
+<span class="LineNumber"> 009 </span>	๖.   ปาริสุทธิศีล   มีความสำคัญอย่างไร  ?
+						
+<span class="LineNumber"> 010 </span>                                    ต้นเอ๋ย      ต้นพิกุล 
+<span class="LineNumber"> 011 </span>			<B>	ดอกหอมกรุ่น      คุณค่า     มหาศาล
+<span class="LineNumber"> 012 </span>			ถึงเหี่ยวแห้ง    ยังหอม     พร้อมอยู่นาน
+<span class="LineNumber"> 013 </span>			ทั้งแก่นสาร     ลำต้น    คนนิยม.
+<span class="LineNumber"> 014 </span>				ดุจดั่งคน     ศีลดี       บริสุทธิ์
+<span class="LineNumber"> 015 </span>			มวลมนุษย์      ชมเปาะ      ว่าเหมาะสม
+<span class="LineNumber"> 016 </span>			เพราะกลิ่นศีล     หอมหวน     แม้ทวนลม
+<span class="LineNumber"> 017 </span>			จอมมุมินทร์   อินทร์พรหม    ก็ชมเอย.</B>
+<span class="LineNumber"> 018 </span>									<B>ศรี  ฯ   นคร.</B>

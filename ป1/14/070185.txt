@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>เมื่อ,  ล่วงแล้ว  แปลว่า แล้ว,  ล่วงแล้วเสร็จ แปลว่า ครั้นแล้ว. 
+<span class="LineNumber"> 002 </span>                                                                           [ อ. น. ].
+<span class="LineNumber"> 003 </span>	ถ.   วาจกในกิริยากิตก์ มีเท่าไร ?  อะไรบ้าง  ต่างจากวาจก
+<span class="LineNumber"> 004 </span>ในอาขยาตหรือเหมือนกัน ?
+<span class="LineNumber"> 005 </span>	ต. มี ๕ เหมือนอย่างอาขยาต  คือ  กัตตุวาจก  กัมมวาจก
+<span class="LineNumber"> 006 </span>ภาววาจก เหตุกัตตุวาจก เหตุกัมมวาจก.  ต่างกันแต่สักว่า รูปแห่ง
+<span class="LineNumber"> 007 </span>ศัพท์กิริยาเท่านั้น เช่น :-
+<span class="LineNumber"> 008 </span>                                             กิริยากิตก์              กิริยาอาขยาต
+<span class="LineNumber"> 009 </span>	กัตตุวาจก	                      มโต                       มรติ
+<span class="LineNumber"> 010 </span>	กัมมวาจก                       กโต                       กริยติ 
+<span class="LineNumber"> 011 </span>	ภาววาจก                        ภวิตพฺพํ                 ภูยเต
+<span class="LineNumber"> 012 </span>	เหตุกัตตุวาจก                 มาเรนฺโต               มาเรติ
+<span class="LineNumber"> 013 </span>	เหตุกัมมวาจก                  ปติฏฺ€าปิโต          ปติฏฺ€าปิยติ.
+<span class="LineNumber"> 014 </span>                                                                                  [ อ. น. ]
+<span class="LineNumber"> 015 </span>	ถ. ปัจจัยในกิริยากิตก์  มีเท่าไร ? ตัวไหนบ้างเป็นพวกอัพยย-
+<span class="LineNumber"> 016 </span>ศัพท์ ?  อารทฺธา ลงปัจจัยอะไรบ้าง? จงแสดงให้สิ้นเชิง.
+<span class="LineNumber"> 017 </span>	ต. มี ๑๐ ตัว   อนฺต  ตวนฺตุ  ตาวี  อนีย  ตพฺพ  มาน
+<span class="LineNumber"> 018 </span>ต ตูน  ตฺวา  ตฺวาน. เป็นพวกอัพยยศัพท์มี ๓ ตัว คือ ตุน ตฺวา
+<span class="LineNumber"> 019 </span>ตฺวาน. อารทฺธา  ลง ต  ปัจจัยก็ได้ ตฺวา  ปัจจัยก็ได้ เพราะธาตุมี  ภฺ
+<span class="LineNumber"> 020 </span>เป็นที่สุดแปลง ต  ปัจจัย  เป็น ทฺธ  แล้วลบที่สุดธาตุ  เป็นกิริยาของ
+			

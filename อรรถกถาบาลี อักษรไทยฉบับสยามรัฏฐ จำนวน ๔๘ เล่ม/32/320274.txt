@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  กุมฺมาสปิณฺฑชาตกํ  หน้า 274
+
+<span class="LineNumber"> 002 </span>คาถมาห  
+<span class="LineNumber"> 003 </span>		[๑๑๐๘]อภิกฺขณํ ราชกุฺชร  
+<span class="LineNumber"> 004 </span>			คาถา ภาสสิ โกสลาธิป
+<span class="LineNumber"> 005 </span>			ปุจฺฉามิ ตํ รฏฺ€วฑฺฒน  
+<span class="LineNumber"> 006 </span>			พาฬฺหํ ปีติมโน ปภาสสีติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  โกสลาธิปาติ  โส  โกสลรฏฺ€าธิโป  กุสเล  ปน 
+<span class="LineNumber"> 008 </span>ธมฺเม  อธิปตึ  กตฺวา  วิหรติ  เตน  นํ  อาลปนฺตี  เอวมาห  ฯ 
+<span class="LineNumber"> 009 </span>กุสลาธิปาติ  กุสลชฺฌาสยาติ  อตฺโถ  ฯ  พาฬฺหํ  ปีติมโน  ปภาสสีติ
+<span class="LineNumber"> 010 </span>อติวิย  ปีติยุตฺตจิตฺโต  หุตฺวา  ภาสสิ  ตสฺมา  กเถุํ  ตาว  เม  เอตาสํ  
+<span class="LineNumber"> 011 </span>คาถานํ อตฺถนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	อถสฺสา  คาถานมตฺถํ  อาวีกโรนฺโต  มหาสตฺโต  จตสฺโส  
+<span class="LineNumber"> 013 </span>คาถา  อภาสิ  
+<span class="LineNumber"> 014 </span>	[๑๑๐๙]อิมสฺมึเยว นคเร  		กุเล อฺตเร อหุํ  
+<span class="LineNumber"> 015 </span>		ปรกมฺมกโร อาสึ  		ภตโก สีลสํวุโต ฯ  
+<span class="LineNumber"> 016 </span>		กมฺมาย นิกฺขมนฺตาหํ(๑)  	จตุโร สมเณ อทฺทสํ(๒)  
+<span class="LineNumber"> 017 </span>		อาจารสีลสมฺปนฺเน  	สีติภูเต อนาสเว ฯ  
+<span class="LineNumber"> 018 </span>		เตสุ จิตฺตํ ปสาเทตฺวา  	นิสีทิตฺวา(๓) ปณฺณสนฺถเต  
+<span class="LineNumber"> 019 </span>		อทาสึ พุทฺธานํ กุมฺมาสํ  	ปสนฺโน สเกหิ ปาณิหิ (๔)ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. นิกฺขมนฺโตหํ ฯ  ๒. ส. สมณทฺทสํ ฯ ๓. ส. ม. นิสีเทตฺวา ฯ
+<span class="LineNumber"> 021 </span># ๔. ส. อทํ พุทฺธาน กุมฺมาสํ ปสนฺโน เสหิ ปาณิภิ ฯ 
+<span class="LineNumber"> 022 </span># ม. อทํ พุทฺธานํ กุมฺมาสํ ปสนฺโน เสหิ ปาณิภิ ฯ 

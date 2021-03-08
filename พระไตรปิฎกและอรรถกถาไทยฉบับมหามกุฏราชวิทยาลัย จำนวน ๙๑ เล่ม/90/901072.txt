@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>			          <H1>สรณบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>				     <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>				  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๘๙๔]  ๑.  สรณธรรมที่เป็นปีติสหคตธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 005 </span>สรณธรรมที่เป็นปีติสหคตธรรม  ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                         ๔.  สรณธรรมที่เป็นสุขสหคตธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 007 </span>สรณธรรมที่เป็นสุขสหคตธรรม  ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                         ๗.  สรณธรรมที่เป็นอุเบกขาสหคตธรรม   เป็นปัจจัย 
+<span class="LineNumber"> 009 </span>แก่สรณธรรมที่เป็นอุเบกขาสหคตธรรม       ด้วยอำนาจของเหตุปัจจัย 
+<span class="LineNumber"> 010 </span>มี ๑ วาระ.                                                                         
+<span class="LineNumber"> 011 </span>                         ๘.  สรณธรรมที่เป็นปีติสหคตธรรม   และสรณธรรม
+<span class="LineNumber"> 012 </span>ที่เป็นสุขสหคตธรรม    เป็นปัจจัยแก่สรณธรรมที่เป็นปีติสหคตธรรม
+<span class="LineNumber"> 013 </span>ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>		[๘๙๕]  ในเหตุปัจจัย  มี  ๑๐ วาระ    ในอารัมมณปัจจัย มี ๑๖ วาระ
+<span class="LineNumber"> 016 </span>ฯลฯ  ในอวิคตปัจจัย  มี ๑๐ วาระ.
+<span class="LineNumber"> 017 </span>             แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.

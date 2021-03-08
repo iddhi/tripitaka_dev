@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  494
+
+<span class="LineNumber"> 002 </span>		นิคฺคณฺฑี สรนิคฺคณฺฑี	อสนา เจตฺถ ปุปฺผิตา  
+<span class="LineNumber"> 003 </span>		ปงฺกุรา พหุลา เสลา	โสภฺชนา จ ปุปฺผิตา  
+<span class="LineNumber"> 004 </span>		เกตกา กณิการา จ	กรวิรา (๑)จ ปุปฺผิตา  
+<span class="LineNumber"> 005 </span>		อชฺชุนา อชฺชุกณฺณา จ	มหานามา จ ปุปฺผิตา  
+<span class="LineNumber"> 006 </span>		สมฺปุปฺผิตคฺคา ติฏฺ€นฺติ	ปชฺชลนฺเตว กึสุกา  
+<span class="LineNumber"> 007 </span>		เสตปณฺณิ (๒)สตฺตปณฺณา  กทลิโย กุสุมฺภรา  
+<span class="LineNumber"> 008 </span>		ธนุตกฺการีปุปฺผหิ		สีสปาวารณาหิ จ  
+<span class="LineNumber"> 009 </span>		อจฺฉิปา สิพลีรุกฺขา(๓)	สลฺลกิโย จ ปุปฺผิตา  
+<span class="LineNumber"> 010 </span>		เสตเครูตคริกา		มํสิโกฏฺ€กุลาวรา(๔)  
+<span class="LineNumber"> 011 </span>		ทหรา รุกฺขา วุฑฺฒา จ	อกุฏิลา เจตฺถ ปุปฺผิตา  
+<span class="LineNumber"> 012 </span>		อสฺสมํ อุภโต €นฺติ	อคฺยาคารํ สมนฺตโตติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  ติฏฺ€นฺตีติ  สรํ  ปริกฺขิปิตฺวา  ติฏฺ€นฺติ ฯ 
+<span class="LineNumber"> 014 </span>กทมฺพาติ  กทมฺพรุกฺขา  เจว ฯ  กจฺจิการา  จาติ  เอวํ  นามกา
+<span class="LineNumber"> 015 </span>หุตฺวา รุกฺขา ฯ  ปาริชฺาติ  รตฺตกมาลา ฯ  วารณา  วุยฺหนาติ 
+<span class="LineNumber"> 016 </span>นาครุกฺขา ฯ  มุจลินฺทมุภโตติ  มุจฺจลินฺทสฺส  อุภยปสฺเสสุ ฯ 
+<span class="LineNumber"> 017 </span>เสตปาริสาติ  เสตคจฺฉรุกฺขา ฯ  เต  กิร  เสตกฺขนฺธา 
+<span class="LineNumber"> 018 </span>มหาปณฺณา  กณิการสทิสปุปฺผา  โหนฺติ ฯ  นิคฺคณฺฑี  
+<span class="LineNumber"> 019 </span>สรนิคฺคณฺฑีติ  ปกตินิคฺคณฺฑี  เจว  กาฬนิคฺคณฺฑี  จ ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. กณเวรา ฯ  ๒. ม. เสตปณฺณี ฯ  ๓. ม. อจฺฉิวา 
+<span class="LineNumber"> 021 </span># สลฺลวารุกฺขา ฯ  ๔. ม. เสตเครุ จ ตครา มํสิกุฏฺ€า กุลาวรา ฯ 

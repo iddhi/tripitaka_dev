@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  10
+
+<span class="LineNumber"> 002 </span>		ยถา อุจฺจารฏฺ€านมฺหิ  กรีสํ นรนาริโย  
+<span class="LineNumber"> 003 </span>		ฉฑฺฑยิตฺวาน คจฺฉนฺติ   อนเปกฺขา อนตฺถิกา ฯ  
+<span class="LineNumber"> 004 </span>		เอวเมวาหํ อิมํ กายํ  นานากุณปปูริตํ  
+<span class="LineNumber"> 005 </span>		ฉฑฺฑยิตฺวาน คจฺฉิสฺสํ   วจฺจํ กตฺวา ยถา กุฏึ ฯ 
+<span class="LineNumber"> 006 </span>		ยถาปิ ชชฺชรํ นาวํ   ปลุคฺคํ อุทคาหินึ(๑)  
+<span class="LineNumber"> 007 </span>		สามี ฉฑฺเฑตฺวา คจฺฉนฺติ  อนเปกฺขา อนตฺถิกา ฯ  
+<span class="LineNumber"> 008 </span>		เอวเมวาหํ อิมํ กายํ  นวจฺฉิทฺทํ ธุวสฺสวํ  
+<span class="LineNumber"> 009 </span>		ฉฑฺฑยิตฺวาน คจฺฉิสฺสํ   ชิณฺณนาวํว สามิกา ฯ  
+<span class="LineNumber"> 010 </span>		ยถาปิ ปุริโส โจเรหิ  คจฺฉนฺโต ภณฺฑมาทิย  
+<span class="LineNumber"> 011 </span>		ภณฺฑจฺเฉทภยํ ทิสฺวา   ฉฑฺฑยิตฺวาน คจฺฉติ ฯ  
+<span class="LineNumber"> 012 </span>		เอวเมว อยํ กาโย   มหาโจรสโม วิย  
+<span class="LineNumber"> 013 </span>		ปหายิมํ คมิสฺสามิ   กุสลจฺเฉทนา ภยาติ ฯ  
+<span class="LineNumber"> 014 </span>	เอวํ  สุเมธปณฺฑิโต  นานาวิธาหิ  อุปมาหิ  อิมํ  เนกฺขมฺมู-
+<span class="LineNumber"> 015 </span>ปสํหิตํ  อตฺถํ  จินฺเตตฺวา  สกนิเวสเน  อปริมิตโภคกฺขนฺธํ  เหฏฺ€า  
+<span class="LineNumber"> 016 </span>วุตฺตนเยน  กปณทฺธิกาทีนํ  วิสฺสชฺเชตฺวา  มหาทานํ  ทตฺวา  
+<span class="LineNumber"> 017 </span>วตฺถุกาเม  จ  กิเลสกาเม  จ  ปหาย  อมรนครโต  นิกฺขมิตฺวา  
+<span class="LineNumber"> 018 </span>เอกโกว  หิมวนฺเต  ธมฺมิกํ  นาม  ปพฺพตํ  นิสฺสาย  อสฺสมํ  
+<span class="LineNumber"> 019 </span>กตฺวา  ตตฺถ  ปณฺณสาลฺจ  จงฺกมฺจ  มาเปตฺวา  ปฺจหิ  
+<span class="LineNumber"> 020 </span>นีวรณโทเสหิ  วชฺชิตํ  เอวํ  สมาหิเต  จิตฺเตติอาทินา  นเยน  
+<span class="LineNumber"> 021 </span>#  ๑  สี. ยุ. อุทกคาหินึ ฯ  

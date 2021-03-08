@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           มีอย่างเดียว  คือที่เป็น  <B>สหชาตาธิปติ</B>  ได้แก่ 
+<span class="LineNumber"> 002 </span>           อธิปติธรรมที่เป็นอาจยคามิธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย
+<span class="LineNumber"> 003 </span>ด้วยอำนาจของอธิปติปัจจัย. 
+<span class="LineNumber"> 004 </span>           [๑๑๐๐] ๕.  <B>อปจยคามิธรรม  เป็นปัจจัยแก่อาจยคามิธรรม
+<span class="LineNumber"> 005 </span>ด้วยอำนาจของอธิปติปัจจัย</B>
+<span class="LineNumber"> 006 </span>           มีอย่างเดียว  คือที่เป็น   <B>อารัมมณาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 007 </span>           พระเสขบุคคลทั้งหลายออกจากมรรค    กระทำธรรมให้เป็นอารมณ์
+<span class="LineNumber"> 008 </span>อย่างหนักแน่นแล้ว   พิจารณา.                 
+<span class="LineNumber"> 009 </span>           [๑๑๐๑] ๖.  <B>อปจยคามิธรรม     เป็นปัจจัยแก่เนวาจยคามินา-
+<span class="LineNumber"> 010 </span>ปจยคามิธรรม  ด้วยอำนาจของอธิปติปัจจัย</B>
+<span class="LineNumber"> 011 </span>           มี ๒ อย่าง คือ ที่เป็น  <B>อารัมมณาธิปติ</B>  และ <B>สหชาตาธิปติ</B>
+<span class="LineNumber"> 012 </span>           ที่เป็น  <B>อารัมมณาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 013 </span>           พระอรหันต์ออกจากมรรค กระทำมรรคให้เป็นอารมณ์อย่างหนักแน่น
+<span class="LineNumber"> 014 </span>แล้ว   พิจารณา.
+<span class="LineNumber"> 015 </span>           ที่เป็น  <B>สหชาตาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 016 </span>           อธิปติธรรมที่เป็นอปจยคามิธรรม     เป็นปัจจัยแก่จิตตสมุฏฐานรูป
+<span class="LineNumber"> 017 </span>ทั้งหลาย.

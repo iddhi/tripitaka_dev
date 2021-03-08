@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๑๑๐
+
+<span class="LineNumber"> 002 </span>ตสฺส  อชฺฌาสเยน  สยเมว  ปุจฺฉิตฺวา  วิสฺสชฺเชนฺโต  สตฺถา 
+<span class="LineNumber"> 003 </span>เอวมาห ฯ  
+<span class="LineNumber"> 004 </span>					ฉฏฺ€ํ ฯ                   
+
+<span class="LineNumber"> 005 </span>				นตุมฺหสุตฺตวณฺณนา           
+<span class="LineNumber"> 006 </span>	สตฺตเม  นายํ  (๑)  ตุมฺหากนฺติ  อตฺตนิ  หิ  สติ  อตฺตนิยํ  นาม  
+<span class="LineNumber"> 007 </span>โหติ ฯ  อตฺตาเยว  จ  นตฺถิ  ตสฺมา  น  ตุมฺหากนฺติ  อาห ฯ  
+<span class="LineNumber"> 008 </span>นาปิ  อฺเสนฺติ  อฺโ  (๒)  นาม  ปเรสํ  อตฺตา  ตสฺมึ  สติ  
+<span class="LineNumber"> 009 </span>อฺโ   นาม สิยา โสปิ นตฺถิ  ตสฺมา  นาปิ  อฺเสนฺติ  
+<span class="LineNumber"> 010 </span>อาห ฯ  ปุราณมิทํ  ภิกฺขเว  กมฺมนฺติ  นยิทํ  ปุราณกมฺมเมว
+<span class="LineNumber"> 011 </span>ปุราณกมฺมาภินิพฺพตฺโต(๓)  ปเนส  กาโย  ตสฺมา  ปจฺจยโวหาเรน  
+<span class="LineNumber"> 012 </span>เอวํ  วุตฺโต ฯ  อภิสงฺขตนฺติอาทิ  กมฺมโวหารสฺเสว  วเสน ปุริม(๔)
+<span class="LineNumber"> 013 </span>ลิงฺคภาวกตาย วุตฺตํ อยํ ปเนตฺถ   อตฺโถ  อภิสงฺขตนฺติ  
+<span class="LineNumber"> 014 </span>ปจฺจเยหิ  กโตติ ทฏฺ€พฺโพ ฯ อภิสฺเจตยิตนฺติ เจตนาวตฺถุโก 
+<span class="LineNumber"> 015 </span>เจตนามูลโกติ ทฏฺ€พฺโพ ฯ เวทนิยนฺติ (๕) เวทนาย วตฺถูติ (๖) 
+<span class="LineNumber"> 016 </span>ทฏฺ€พฺโพ ฯ 
+<span class="LineNumber"> 017 </span>					สตฺตมํ ฯ   
+<span class="LineNumber"> 018 </span># ๑. ม. ยุ. อยนฺติ น ทิสฺสติ ฯ  ๒. ม. ยุ. อฺเสํ ฯ  
+<span class="LineNumber"> 019 </span># ๓. ม. ปุราณกมฺมนิพฺพตฺโต ฯ ๔. ม. ปุริมลิงฺค... ฯ  ๕. สี. เวทยิตนฺติ ฯ
+<span class="LineNumber"> 020 </span># ๖. ม. เวทนิยวตฺถูติ ฯ

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๒๓]  ในเหตุปัจจัย มี ๒๑ วาระ  ในอธิปติปัจจัย มี ๒๑  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย  มี ๒๑ วาระ. 
+
+<span class="LineNumber"> 004 </span>                             <H1>๓.  นวิปากติกวิปากติกะ</H1>
+<span class="LineNumber"> 005 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                   <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 008 </span>           [๒๔] ๑.  <B>วิปากธรรม  อาศัยธรรมที่ไม่ใช่วิปากธรรม  เกิด
+<span class="LineNumber"> 009 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                     ๒.  <B>วิปากธัมมธรรม     อาศัยธรรมที่ไม่ใช่วิปากธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๕ วาระ.
+<span class="LineNumber"> 012 </span>                     ๗.  <B>วิปากธรรม     อาศัยธรรมที่ไม่ใช่วิปากธัมมธรรม
+<span class="LineNumber"> 013 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                     ๘.  <B>เนววิปากนวิปากธัมมธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 015 </span>วิปากธัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>                   ๑๑.  <B>เนววิปากนวิปากธัมมธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 017 </span>เนววิปากนวิปากธัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>

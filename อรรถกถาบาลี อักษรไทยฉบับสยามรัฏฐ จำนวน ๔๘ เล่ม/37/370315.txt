@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 315
+
+<span class="LineNumber"> 002 </span>วิย  สโม  ภเวยฺย ฯ  ส  รา  ชวสตินฺติ  โส  เอวรูโป  เสวโก
+<span class="LineNumber"> 003 </span>ราชกุเล  วาสํ วเสยฺย ราชานํ  ปริจเรยฺย  เอวมฺปริจรนฺโต  จ  
+<span class="LineNumber"> 004 </span>ปน  ยสํ  ลเภยฺยาติ  อตฺโถ ฯ สพฺพานิ  อภิสมฺโภนฺโตติ สพฺพานิ 
+<span class="LineNumber"> 005 </span>ราชกิจฺจานิ กโรนฺโต ฯ  
+<span class="LineNumber"> 006 </span>	[๙๖๐]ทิวา วา ยทิ วา รตฺตึ	ราชกิจฺเจสุ ปณฺฑิโต  
+<span class="LineNumber"> 007 </span>		อชฺฌิฏฺโ€ น วิกมฺเปยฺย	ส ราชวสตึ วเส  
+<span class="LineNumber"> 008 </span>		ทิวา วา ยทิ วา รตฺตึ	ราชกิจฺเจสุ ปณฺฑิโต  
+<span class="LineNumber"> 009 </span>		สพฺพานิ อภิสมฺโภนฺโต	ส ราชวสตึ วเส  
+<span class="LineNumber"> 010 </span>		โย จสฺส สุกโต มคฺโค	รฺโ สุปฏิยาทิโต  
+<span class="LineNumber"> 011 </span>		น เตน วุตฺโต คจฺเฉยฺย	ส ราชวสตึ วเสติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  น  วิกมฺเปยฺยาติ  อวิกมฺปมาโน  ตานิ  กิจฺจานิ  
+<span class="LineNumber"> 013 </span>กเรยฺย ฯ  โย  จสฺสาติ  โย  จ  รฺโ  คมนมคฺโค  สุกโต  อสฺส ฯ 
+<span class="LineNumber"> 014 </span>สุปฏิยาทิโตติ  สุมณฺฑิโต อิมินา มคฺเคน คจฺฉาติ วุตฺโตปิ
+<span class="LineNumber"> 015 </span>เตน น คจฺเฉยฺย  
+<span class="LineNumber"> 016 </span>	[๙๖๑]น รฺโ สมกํ(๑) ภุฺเช  กามโภเค กุทาจนํ  
+<span class="LineNumber"> 017 </span>		สพฺพตฺถ ปจฺฉโต คจฺเฉ	ส ราชวสตึ วเส  
+<span class="LineNumber"> 018 </span>		น รฺโ สทิสํ วตฺถํ	น มาลํ น วิเลปนํ  
+<span class="LineNumber"> 019 </span>		อากปฺปํ สรกุตฺติฺจ(๒)	น รฺโ สทิสมาจเร  
+<span class="LineNumber"> 020 </span>		อฺํ กเรยฺย อากปฺปํ	ส ราชวสตึ วเสติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. สทิสํ ฯ  ๒. ม. สรกุตฺตึ วา ฯ 

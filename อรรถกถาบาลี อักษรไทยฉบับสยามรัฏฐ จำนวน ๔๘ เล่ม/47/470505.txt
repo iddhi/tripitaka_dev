@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  โพชฺฌงฺควิภงฺคนิทฺเทโส หน้า 505
+
+<span class="LineNumber"> 002 </span>นาม  กถิยติ ฯ  
+<span class="LineNumber"> 003 </span>	โส  ตถา  สโต  วิหรนฺโตติ  โส  ภิกฺขุ  เตนากาเรน
+<span class="LineNumber"> 004 </span>อุปฺปนฺนาย  สติยา  สโต  หุตฺวา วิหรนฺโต ฯ 
+<span class="LineNumber"> 005 </span>	ตํ ธมฺมนฺติ ตํ จิรกตํ จิรภาสิตํ เหฏฺ€า วุตฺตปฺปการธมฺมํ ฯ  
+<span class="LineNumber"> 006 </span>	ปฺาย  วิจินตีติ(๑)  ปฺาย  อนิจฺจํ ทุกฺขํ อนตฺตาติ 
+<span class="LineNumber"> 007 </span>วิจินติ(๒) ฯ
+<span class="LineNumber"> 008 </span>	ปวิจินตีติ อนิจฺจํ  ทุกฺขํ  อนตฺตาติ  ตตฺถ  ปฺํ จราเปนฺโต
+<span class="LineNumber"> 009 </span>ปวิจินติ (๓) ฯ 
+<span class="LineNumber"> 010 </span>	ปริวีมํสํ อาปชฺชตีติ โอโลกนํ  คเวสนํ  อาปชฺชติ ฯ
+<span class="LineNumber"> 011 </span>	อยํ  วุจฺจตีติ  อิทํ  วุตฺตปฺปการํ  โพชฺฌงฺคสมุฏฺ€าปกํ  
+<span class="LineNumber"> 012 </span>วิปสฺสนาาณํ ธมฺมวิจยสมฺโพชฺฌงฺโค นาม วุจฺจติ ฯ  
+<span class="LineNumber"> 013 </span>	ตสฺส  ตํ  ธมฺมนฺติ  ตสฺส  ภิกฺขุโน  ตํ  เหฏฺ€า 
+<span class="LineNumber"> 014 </span>วุตฺตปฺปการธมฺมํ ฯ  
+<span class="LineNumber"> 015 </span>	อารทฺธํ  โหตีติ  ปริปุณฺณํ  โหติ  ปคฺคหิตํ ฯ
+<span class="LineNumber"> 016 </span>	อสลฺลีนนฺติ  อารทฺธตฺตาเยว  อสลฺลีนํ ฯ  
+<span class="LineNumber"> 017 </span>	อยํ  วุจฺจตีติ  อิทํ โพชฺฌงฺคสมุฏฺ€าปกํ วิปสฺสนาสมฺปยุตฺตํ 
+<span class="LineNumber"> 018 </span>วิริยํ วิริยสมฺโพชฺฌงฺโค  นาม วุจฺจติ ฯ  
+<span class="LineNumber"> 019 </span>	นิรามิสาติ  กามามิสโลกามิสวฏฺฏามิสานํ  อภาเวน 
+<span class="LineNumber"> 020 </span>นิรามิสา  ปริสุทฺธา ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ปวิจินตีติ ฯ  ๒. ม. ปวิจินติ ฯ  ๓. ม. ปวิจิรติ ฯ 

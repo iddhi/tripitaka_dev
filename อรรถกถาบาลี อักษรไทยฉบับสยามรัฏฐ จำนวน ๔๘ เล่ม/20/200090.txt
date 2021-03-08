@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  เอกกนิปาตวณฺณนา  หน้า  90
+
+<span class="LineNumber"> 002 </span>อฺโ  เอกธมฺโมปิ  เอกนีวรณมฺปิ นตฺถีติ  โยเชตพฺพํ ฯ  เย  
+<span class="LineNumber"> 003 </span>จ  โมหํ  ปหนฺตฺวาน  ตโมกฺขนฺธํ  ปทาลยุนฺติ  เย  ปน อริย-
+<span class="LineNumber"> 004 </span>สาวกา  ปุพฺพภาเค  ตทงฺคาทิปฺปหานวเสน  เหฏฺ€ิมมคฺเคหิ [๑]
+<span class="LineNumber"> 005 </span>วา  ตํตํมคฺควชฺฌํ โมหํ  ปชหิตฺวาน  อคฺคมคฺเคน  วชิรูปมาเณน
+<span class="LineNumber"> 006 </span>โมหสงฺขาตเมว  (๒)  ตโมราสึ ปทาลยึสุ อนวเสสโต สมุจฺฉินฺทึสุ ฯ 
+<span class="LineNumber"> 007 </span>น เต ปุน สํสรนฺตีติ เต อรหนฺโต
+<span class="LineNumber"> 008 </span>	ขนฺธานฺจ ปฏิปาฏิ  ธาตุอายตนาน จ
+<span class="LineNumber"> 009 </span>	อพฺโพจฺฉินฺนํ วตฺตมานา  สํสาโรติ ปวุจฺจตีติ
+<span class="LineNumber"> 010 </span>เอวํ  วุตฺเต  อิมสฺมึ  สํสาเร  น  สํสรนฺติ  น  ปริพฺภมนฺติ ฯ
+<span class="LineNumber"> 011 </span>กึการณา เหตุ เตสํ น  วิชฺชตีติ(๓)  ยสฺมา  สํสารสฺส  เหตุ  
+<span class="LineNumber"> 012 </span>มูลการณํ  อวิชฺชา  สา  เตสํ  น  วิชฺชติ สพฺพโส นตฺถิ 
+<span class="LineNumber"> 013 </span>สมุจฺฉินฺนตฺตาติ ฯ
+<span class="LineNumber"> 014 </span>		จตุตฺถสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+		
+<span class="LineNumber"> 015 </span>		ตณฺหาสํโยชนสุตฺตวณฺณนา
+<span class="LineNumber"> 016 </span>	ปฺจเม  ยสฺส  วิชฺชติ  ตํ  ปุคฺคลํ  ทุกฺเขหิ กมฺมํ-
+<span class="LineNumber"> 017 </span>วิปาเกหิ (๔) ภวโยนิคติวิฺาณฏฺ€ิติสตฺตาวาเส  วา  ภวนฺตราทีหิ 
+<span class="LineNumber"> 018 </span>สํโยเชตีติ  สํโยชนํ ฯ ตณฺหายนฏฺเ€น  ตณฺหา ฯ (๕)ตสนฺติ  สยํ  ปริตสติ 
+<span class="LineNumber"> 019 </span>วา ตายาติ  ตณฺหา(๕) ฯ สํยุตฺตาติ  จกฺขฺวาทีสุ  อภินิเวสวตฺถูสุ 
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร วาสทฺโท อตฺถิ ฯ  ๒. สี. ตโมขนฺธสงฺขาตเมว ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. อิติสทฺโท นตฺถิ ฯ  ๔. ม. กมฺมํ วา วิปาเกหิ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. ตสติ สยํ ปริตสติ ตสนฺติ วา เอตายาติ ตณฺหา ฯ

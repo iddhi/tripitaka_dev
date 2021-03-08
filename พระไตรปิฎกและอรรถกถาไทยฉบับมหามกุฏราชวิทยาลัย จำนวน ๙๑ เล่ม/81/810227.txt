@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>ไม่กล่าวว่า  บุคคลผู้ไม่มีความคิดอย่างไร  ก็มีกายกรรมได้. 
+<span class="LineNumber"> 002 </span>         [๑๓๖๗]   ป. ไม่พึงกล่าวว่า    บุคคลผู้ไม่มีความคิดอย่างไร    ก็มี
+<span class="LineNumber"> 003 </span>กายกรรมได้ หรือ ?
+<span class="LineNumber"> 004 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ป. บางคนที่คิดว่าจะไปในที่แห่งหนึ่ง     ก็ไปเสียในที่อีก
+<span class="LineNumber"> 006 </span>แห่งหนึ่ง  ฯลฯ  คิดว่าจะเหยียดแขนข้างหนึ่ง  ก็เหยียดอีกเสียข้างหนึ่ง  มีอยู่
+<span class="LineNumber"> 007 </span>มิใช่หรือ ?
+<span class="LineNumber"> 008 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ป. หากว่า   บางคนที่คิดว่าจะไปในที่แห่งหนึ่ง   ก็ไปเสีย
+<span class="LineNumber"> 010 </span>ในที่อีกแห่งหนึ่ง  ฯลฯ  คิดว่าจะเหยียดแขนข้างหนึ่ง    ก็เหยียดเสียอีกข้างหนึ่ง
+<span class="LineNumber"> 011 </span>มีอยู่ด้วยเหตุนั้นนะท่านจึงกล่าวว่า    บุคคลผู้ไม่มีความคิดอย่างไร    ก็มี
+<span class="LineNumber"> 012 </span>กายกรรมได้.
+<span class="LineNumber"> 013 </span>                         <I>นยถาจิตตัสสกายกัมมันติกถา  จบ</I>

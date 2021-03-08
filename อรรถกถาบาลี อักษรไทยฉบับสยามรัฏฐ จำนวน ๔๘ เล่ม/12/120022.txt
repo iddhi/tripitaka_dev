@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๒  สฬายตนวคฺควณฺณนา  หน้า ๒๒
+  
+<span class="LineNumber"> 002 </span>	ทสเม ฯ  ปนสฺสสนฺติ(๑)   ปนสฺมึ   นฏฺโ€  นาม  นมฺหิเจว  
+<span class="LineNumber"> 003 </span>อตฺโถ ฯ  อายตึ  อปุนพฺภวายาติ  เอตฺถ  อายตึ  อปุนพฺภโว  นาม  
+<span class="LineNumber"> 004 </span>นิพฺพานํ  อนิพฺพตฺตนตฺถาย  (๒)  ปหีนํ  ภวิสฺสตีติ  อตฺโถ ฯ    
+<span class="LineNumber"> 005 </span>	เอกาทสเม  อนสฺสสนฺติ  อปนนตฺโถ  ฯ  ปนสฺสสนฺติ  
+<span class="LineNumber"> 006 </span>อตินตฺโถ(๓)  ฯ   เสสํ  วุตฺตนเยเนว  เวทิตพฺพนฺติ ฯ  
+<span class="LineNumber"> 007 </span>				มิคชาลวคฺโค  ทุติโย ฯ  
+<span class="LineNumber"> 008 </span>	คิลานวคฺคสฺส  ป€เม  อมุกสฺมินฺติ  อสุกสฺมึ ฯ  อยเมว  วา  
+<span class="LineNumber"> 009 </span>ปาโ€ ฯ  อปฺปฺาโตติ  อฺาโต  อปากโฏ ฯ  นโวปิ  หิ  โกจิ  
+<span class="LineNumber"> 010 </span>ปฺาโต  โหติ ฯ  ราหุลตฺเถโร  วิย  สุมนสามเณโร  วิย  จ ฯ  อยํ  
+<span class="LineNumber"> 011 </span>ปน  นโว  เจว  อปฺาโต  จ ฯ  เสสเมตฺถ  วุตฺตนยเมวาติ ฯ 
+<span class="LineNumber"> 012 </span>ตถา  อิโต  ปเรสุ  จตูสุ ฯ    
+<span class="LineNumber"> 013 </span>	ฉฏฺเ€ ฯ อนิจฺจโต  ชานโตติ  ทุกฺขานตฺตวเสนปิ  [๔]    
+<span class="LineNumber"> 014 </span>ปหิยฺยติเยว   ฯ  อิทํ  ปน  อนิจฺจลกฺขณํ  ทสฺเสตฺวา  วุตฺเต  
+<span class="LineNumber"> 015 </span>พุชฺฌนกสฺส  อชฺฌาสเยน  วุตฺตํ ฯ    
+<span class="LineNumber"> 016 </span>	สตฺตเม ฯ  สพฺเพ  ธมฺมาติ  สพฺเพ  เตภูมกธมฺมา ฯ  นาลํ  
+<span class="LineNumber"> 017 </span>อภินิเวสายาติ  อภินิเวสปรามาสคฺคาเหน  คาเหตุํ (๕)  น  ยุตฺตา ฯ  
+<span class="LineNumber"> 018 </span>สพฺพนิมิตฺตานีติ  สพฺพานิ  สงฺขารนิมิตฺตานิ ฯ  อฺโต  ปสฺสตีติ  
+<span class="LineNumber"> 019 </span>ยถา  อปริฺาตาภินิเวโส  ชโน  ปสฺสติ  ตโต  อฺโต  
+<span class="LineNumber"> 020 </span># ๑. ม. อนสฺสสนฺติ  ฯ เอวมุรปริปิ  ฯ  ๒. ม. นิพฺพานตฺถาย  ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. ปนสฺสสฺสนฺติ ปนฏฺโ€ อสฺสํ อตินฏฺโ€  ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. เอตฺถนฺตเร ชานโตปีติ ทิสฺสติ ๕. ม. คณฺหิตุํ  ฯ

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                       <h1>๗.  มูลคันธสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                                      <h2>ว่าด้วยกลิ่นที่ราก</h2>
+<span class="LineNumber"> 003 </span>	[๒๕๖]  สาวัตถีนิทาน.   ดูก่อนภิกษุทั้งหลาย  ไม้มีกลิ่นที่รากชนิดใด
+<span class="LineNumber"> 004 </span>ชนิดหนึ่ง   ไม้กลัมพัก   บัณฑิตกล่าวว่าเลิศกว่าไม้มีกลิ่นที่รากเหล่านั้น   แม้
+<span class="LineNumber"> 005 </span>ฉันใด  กุศลธรรมเหล่าใดเหล่าหนึ่ง  ทั้งหมดนั้น  มีความไม่ประมาทเป็นมูล...
+<span class="LineNumber"> 006 </span>ฉันนั้นเหมือนกัน ฯลฯ
+<span class="LineNumber"> 007 </span>                                        <I>จบมูลคันธสูตรที่  ๗</I>
+
+<span class="LineNumber"> 008 </span>	                          <h1>๘.  สารคันธสูตร</h1>
+
+<span class="LineNumber"> 009 </span>                                     <h2> ว่าด้วยกลิ่นที่แก่น</h2>
+<span class="LineNumber"> 010 </span>	[๒๕๗]  สาวัตถีนิทาน.    ดูก่อนภิกษุทั้งหลาย ไม้มีกลิ่นที่แก่นชนิดใด
+<span class="LineNumber"> 011 </span>ชนิดหนึ่ง     จันทน์แดง     บัณฑิตกล่าวว่าเลิศกว่าไม้มีกลิ่นที่แก่นเหล่านั้น
+<span class="LineNumber"> 012 </span>แม้ฉันใด    กุศลธรรมเหล่าใดเหล่าหนึ่ง    ทั้งหมดนั้น    มีความไม่ประมาท
+<span class="LineNumber"> 013 </span>เป็นมูล. . .  ฉันนั้นเหมือนกัน ฯลฯ
+<span class="LineNumber"> 014 </span>                                       <I>จบสารคันธสูตรที่  ๘</I>

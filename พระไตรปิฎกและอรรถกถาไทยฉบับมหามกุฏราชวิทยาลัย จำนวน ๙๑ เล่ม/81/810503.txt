@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>รูปังวิปาโกติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๗๕]  <B>สกวาที</B>  รูปเป็นวิบากหรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส.  รูปเป็นที่ตั้งแห่งสุขเวทนา     เป็นที่ตั้งแห่งทุกขเวทนา
+<span class="LineNumber"> 005 </span>เป็นที่ตั้งแห่งอทุกขมสุขเวทนา   สัมปยุตด้วยสุขเวทนา   สัมปยุตด้วยทุกข-
+<span class="LineNumber"> 006 </span>เวทนา  สัมปยุตด้วยอทุกขมสุขเวทนา  สัมปยุตด้วยผัสสะ  ฯลฯ  สัมปยุต 
+<span class="LineNumber"> 007 </span>ด้วยจิต   เป็นธรรมมีอารมณ์  ความนึก   ฯลฯ  ความตั้งใจแห่งรูปนั้น  มีอยู่
+<span class="LineNumber"> 008 </span>หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 010 </span>                       ส. รูปไม่เป็นที่ตั้งแห่งสุขเวทนา     ไม่เป็นที่ตั้งแห่งทุกข-
+<span class="LineNumber"> 011 </span>เวทนา  ฯลฯ  เป็นธรรมไม่มีอารมณ์ ความนึก ฯลฯ ความตั้งใจแห่งรูปนั้น
+<span class="LineNumber"> 012 </span>ไม่มี มิใช่หรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                       ส. หากว่า     รูปไม่เป็นที่ตั้งแห่งสุขเวทนา    ไม่เป็นที่ตั้ง
+<span class="LineNumber"> 015 </span>แห่งทุกขเวทนา  ฯลฯ  เป็นธรรมไม่มีอารมณ์  ความนึก  ฯลฯ  ความตั้งใจ
+<span class="LineNumber"> 016 </span>แห่งรูปนั้นไม่มี ก็ต้องไม่กล่าวว่า  รูปเป็นวิบาก.
+<span class="LineNumber"> 017 </span>         [๑๖๗๖]  ส. ผัสสะเป็นวิบาก   ผัสสะเป็นที่ตั้งแห่งสุขเวทนา   เป็น
+<span class="LineNumber"> 018 </span>ที่ตั้งแห่งทุกขเวทนา ฯลฯ เป็นธรรมมีอารมณ์ ความนึก ฯลฯ  ความตั้งใจ
+<span class="LineNumber"> 019 </span>แห่งผัสสะนั้น มีอยู่หรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 021 </span>                       ส. รูปเป็นวิบาก     รูปเป็นที่ตั้งแห่งสุขเวทนา    เป็นที่ตั้ง
+<span class="LineNumber"> 022 </span>แห่งทุกขเวทนา  ฯลฯ  เป็นธรรมมีอารมณ์  ความนึก  ฯลฯ  ความตั้งใจแห่ง

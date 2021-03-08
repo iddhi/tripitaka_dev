@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>สังขตทุกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>			     <H2>(๘. สังขตทุกะ  ๑.  กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>					<H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					      <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 005 </span>					   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๐๘๓]  ๑.  กุศลธรรมที่เป็นสังขตธรรม  อาศัยกุศลธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นสังขตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>		พึงให้พิสดารเหมือนสัปปัจจยทุกะ.
+<span class="LineNumber"> 009 </span>					<I>สังขตทุกกุสลติกะ  จบ</I>

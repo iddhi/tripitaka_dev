@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 461
+
+<span class="LineNumber"> 002 </span>		ปุณฺฑรีเกหิ สฺฉนฺโน	เสตโสคนฺธิเยหิ(๑) จ  
+<span class="LineNumber"> 003 </span>		โส วนํ เมฆสงฺกาสํ		ธุวํ หริตสทฺทลํ  
+<span class="LineNumber"> 004 </span>		สีโหวามิสเปกฺขีว		วนสณฺฑํ วิคาหิย(๒)  
+<span class="LineNumber"> 005 </span>		ปุปฺผรุกฺเขหิ สฺฉนฺนํ	ผลรุกฺเขหิ จูภยํ  
+<span class="LineNumber"> 006 </span>		ตตฺถ พินฺทุสฺสรา วคฺคู	นานาวณฺณา พหู ทิชา  
+<span class="LineNumber"> 007 </span>		กูชนฺตมุปกูชนฺติ		อุตุสมฺปุปฺผิเต ทุเม  
+<span class="LineNumber"> 008 </span>		คนฺตฺวา คิริวิทุคฺคานิ(๓)	นทีนํ ปภวานิ จ  
+<span class="LineNumber"> 009 </span>		โส อทฺทส(๔) โปกฺขรณึ	กรฺชกกุธายุตํ  
+<span class="LineNumber"> 010 </span>		ปุถุโลมมจฺฉากิณฺณํ	สุปติตฺถํ มโหทกํ  
+<span class="LineNumber"> 011 </span>		สมฺจ จตุรสฺสฺจ	สาธุํ อปฺปฏิคนฺธิยํ  
+<span class="LineNumber"> 012 </span>		ตสฺสา อุตฺตรปุพฺเพน	ปณฺณสาลํ อมาปย  
+<span class="LineNumber"> 013 </span>		ปณฺณสาลํ อมาเปตฺวา	อุฺฉาจริยาย อีหถาติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  ราชิสีติ  ราชาโน  หุตฺวา  ปพฺพชิตา ฯ  สมาหิตาติ  
+<span class="LineNumber"> 015 </span>เอกคฺคจิตฺตา  หุตฺวา ฯ เอสาติ ทกฺขิณหตฺถํ อุขิปิตฺวา อิมินา 
+<span class="LineNumber"> 016 </span>ปพฺพตปาเทน  คจฺฉถาติ  อาจิกฺขนฺตา  วทนฺติ ฯ  อจฺฉสีติ
+<span class="LineNumber"> 017 </span>วสิสฺสสิ ฯ อาปกนฺติ (๕)อาปคํ  อุทกวาหกํ(๖)  นทึ ฯ  คิริคพฺภรนฺติ 
+<span class="LineNumber"> 018 </span>คิรีนํ  กุจฺฉิโต  ปวตฺตํ ฯ  มธุวิปฺผลนฺติ  มธุรผลํ ฯ  รมฺมเกติ  
+<span class="LineNumber"> 019 </span>รมฺมณีเย ฯ กึปุริสายุตนฺติ กึปุริเสหิ  อายุตฺตํ  ปริกิณฺณํ ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. เสตโสคนฺธิเกหิ ฯ  ๒. ม. วิคาหย ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. คิริวิทุคฺคานํ ฯ  ๔. ม. ทกฺขิสิ ฯ ๕. ม. อาปคนฺติ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม.อุทกวาหนทิอาวฏฺฏํ ฯ

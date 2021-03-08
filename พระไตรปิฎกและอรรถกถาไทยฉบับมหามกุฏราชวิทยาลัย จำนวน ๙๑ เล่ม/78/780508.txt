@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ว่าโดยสาวัชชะ   (โทษ)</B>  ปาณาติบาตมีโทษน้อยก็มี  มีโทษมากก็มี. 
+<span class="LineNumber"> 002 </span>สิกขาบททั้งหลาย   มีอทินนาทานเป็นต้น    ก็เช่นเดียวกัน.   เหตุต่าง ๆ  แห่ง   
+<span class="LineNumber"> 003 </span>สิกขาบททั้ง ๕ นั้น  ท่านแสดงไว้แล้วในหนหลังนั่นแหละ.
+
+<span class="LineNumber"> 004 </span>                                 <H1>ปาณาติบาต  มีโทษ</H1>  <H2>ดังนี้</H2>
+<span class="LineNumber"> 005 </span>           การฆ่าสัตว์แมลงตัวเล็ก ๆ เช่นมดดำ  ชื่อว่า  มีโทษน้อย
+<span class="LineNumber"> 006 </span>           ฆ่าสัตว์เช่นนั้นที่ใหญ่กว่า  มีโทษมากกว่า
+<span class="LineNumber"> 007 </span>           ฆ่าสัตว์ประเภทนับเนื่องด้วยนกใหญ่กว่านั้น  มีโทษมากกว่านั้น
+<span class="LineNumber"> 008 </span>           ฆ่าสัตว์ประเภทเลื้อยคลานใหญ่กว่านั้น  มีโทษมากกว่านั้น
+<span class="LineNumber"> 009 </span>           ฆ่าสัตว์ประเภทกระต่าย  มีโทษมากกว่านั้น
+<span class="LineNumber"> 010 </span>           ฆ่าสัตว์ประเภทเนื้อ  มีโทษมากกว่านั้น
+<span class="LineNumber"> 011 </span>           ฆ่าโค  มีโทษมากกว่านั้น
+<span class="LineNumber"> 012 </span>           ฆ่าม้า   มีโทษมากกว่านั้น
+<span class="LineNumber"> 013 </span>           ฆ่าช้าง  มีโทษมากกว่านั้น
+<span class="LineNumber"> 014 </span>           การฆ่ามนุษย์ผู้ทุศีล  มีโทษมากกว่านั้น
+<span class="LineNumber"> 015 </span>           การฆ่ามนุษย์ผู้มีปกติประพฤติอย่างโค   มีโทษมากกว่านั้น
+<span class="LineNumber"> 016 </span>           การฆ่ามนุษย์ผู้ถึงสรณะ (คือผู้ถึงพระไตรสรณคมน์) มีโทษมากกว่านั้น 
+<span class="LineNumber"> 017 </span>           การฆ่าผู้ตั้งอยู่ในสิกขาบท ๕   มีโทษมากกว่านั้น
+<span class="LineNumber"> 018 </span>           การฆ่าสามเณร   มีโทษมากกว่านั้น
+<span class="LineNumber"> 019 </span>           การฆ่าภิกษุผู้เป็นปุถุชน  มีโทษมากกว่านั้น
+<span class="LineNumber"> 020 </span>           การฆ่าพระโสดาบัน  มีโทษมากกว่านั้น
+<span class="LineNumber"> 021 </span>           การฆ่าพระสกทาคามี   มีโทษมากกว่านั้น
+<span class="LineNumber"> 022 </span>           การฆ่าพระอนาคามี   มีโทษมากกว่านั้น
+<span class="LineNumber"> 023 </span>           การฆ่าพระขีณาสพ  มีโทษมากยิ่งนัก.

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                       <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๓๑๐] ๑. <B>ธรรมที่ไม่ใช่อุปาทาธรรม      อาศัยอุปาทาธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ทั้งหลายที่ไม่ใช่อุปาทาธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 007 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 008 </span>                    ๒.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 009 </span>อุปาทาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๓ วาระ  (วาระที่ ๒-๓-๔)
+<span class="LineNumber"> 010 </span>         ในธรรมที่ไม่ใช่อุปาทาธรรมเป็นมูล      เหมือนกับปฏิจจวาระทั้ง   ๓
+<span class="LineNumber"> 011 </span>วาระ  ไม่มีแตกต่างกัน.
+<span class="LineNumber"> 012 </span>                    ๕.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม      อาศัยอุปาทาธรรม
+<span class="LineNumber"> 013 </span>และธรรมที่ไม่ใช่อุปาทาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่ไม่ใช่อุปาทาธรรม   และหทยวัตถุ ฯลฯ
+<span class="LineNumber"> 015 </span>ขันธ์ ๒.
+<span class="LineNumber"> 016 </span>         ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 017 </span>                                    <H2>๒. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 018 </span>         [๓๑๑] ๑.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม      อาศัยอุปาทาธรรม
+<span class="LineNumber"> 019 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>

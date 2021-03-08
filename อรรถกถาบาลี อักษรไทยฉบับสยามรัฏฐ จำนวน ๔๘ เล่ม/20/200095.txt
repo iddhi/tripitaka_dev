@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ป€มเสขสุตฺตวณฺณนา  หน้า 95
+
+<span class="LineNumber"> 002 </span>โสปิ  วุจฺจติ  สิกฺขตีติ เสโขติ ฯ อิมสฺมึ อตฺเถ  น  ปฏิวิชฺฌนฺโตว(๑)
+<span class="LineNumber"> 003 </span>เสโข  อธิปฺเปโต  อถ  โข  กลฺยาณปุถุชฺชโนปิ ฯ อปฺปตฺตํ  มานสํ  
+<span class="LineNumber"> 004 </span>เอเตนาติ  อปฺปตฺตมานโส ฯ 
+<span class="LineNumber"> 005 </span>	มานสนฺติ  อนฺตลิกฺขจโร  ปาโส ยฺวายํ  จรติ  มานโสติ ฯ  (๒)
+<span class="LineNumber"> 006 </span>เอตฺถ  ราโค  มานสนฺติ  วุตฺโต ฯ  จิตฺตํ  มโน มานสนฺติ  (๓)  เอตฺถ 
+<span class="LineNumber"> 007 </span>จิตฺตํ ฯ  อปฺปตฺตมานโส  เสโข กาลํ กยิรา ชเนสุตาติ (๔) เอตฺถ
+<span class="LineNumber"> 008 </span>อรหตฺตํ ฯ  อิธาปิ  อรหตฺตเมว  อธิปฺเปตํ ฯ  เตน  อปฺปตฺตาร-
+<span class="LineNumber"> 009 </span>หตฺตสฺสาติ  วุตฺตํ โหติ ฯ
+<span class="LineNumber"> 010 </span>	อนุตฺตรนฺติ  เสฏฺ€ํ  อสทิสนฺติ  อตฺโถ ฯ  จตูหิ  โยเคหิ 
+<span class="LineNumber"> 011 </span>เขมํ อนุปทฺทุตนฺติ โยคกฺเขมํ  อรหตฺตเมว  อธิปฺเปตํ ฯ 
+<span class="LineNumber"> 012 </span>	ปตฺถยมานสฺสาติ  เทฺว  ปตฺถนา  ตณฺหาปตฺถนา จ
+<span class="LineNumber"> 013 </span>กุสลจฺฉนฺทปตฺถนา  จ ฯ 
+<span class="LineNumber"> 014 </span>		ปตฺถยมานสฺส  (๕)ปชปฺปิตานิ
+<span class="LineNumber"> 015 </span>		ปเวทิตํ(๕) วาปิ ปกปฺปิเตสูติ(๖)
+<span class="LineNumber"> 016 </span>เอตฺถ ตณฺหาปตฺถนา ฯ
+<span class="LineNumber"> 017 </span>	ฉินฺนํ ปาปิมโต โสตํ	วิทฺธสฺตํ วินฬีกตํ
+<span class="LineNumber"> 018 </span>	ปาโมชฺชพหุลา โหถ	เขมํ ปตฺเถุํ ภิกฺขโวติ (๗)
+<span class="LineNumber"> 019 </span>เอตฺถ  กตฺตุกมฺยตากุสลจฺฉนฺทปตฺถนา  อยเมว  อิธาธิปฺเปตา ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. ปฏิวิชฺฌนฺโตว ฯ ๒. สํ. ส. ๑๕/๔๕๙/๑๖๔ ฯ 
+<span class="LineNumber"> 021 </span># วิ. มหา. ๔/๓๓/๔๐ ฯ  ๓. อภิ. สงฺ. ๓๔/๙๒/๓๒ ฯ 
+<span class="LineNumber"> 022 </span># ๔. สํ. ส. ๑๕/๔๙๐/๑๗๗ ฯ  ๕. สฺยา. ม. หิ ชปฺปิตานิ ปเวธิตํ ฯ
+<span class="LineNumber"> 023 </span># ๖. ขุ. สุ. ๒๕/๔๒๐/๕๐๑ ฯ ขุ. มหา. ๒๙/๖๓๕/๓๘๐ ฯ
+<span class="LineNumber"> 024 </span># ๗. ม. มู. ๑๒/๓๙๑/๔๒๑ ฯ

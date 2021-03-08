@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                         ป.   ชื่อว่า    พุทธะ    เพราะการได้ปัญญาเป็นเครื่อง 
+<span class="LineNumber"> 002 </span>                               ตรัสรู้  มิใช่หรือ ?
+<span class="LineNumber"> 003 </span>                         ส.   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                         ป.   หากว่า   ชื่อว่า  พุทธะ  เพราะการได้ปัญญาเป็น
+<span class="LineNumber"> 005 </span>เครื่องตรัสรู้  ด้วยเหตุนั้นนะท่านจึงต้องกล่าวว่า   ชื่อว่า  พุทธะ  เพราะ
+<span class="LineNumber"> 006 </span>ปัญญาเป็นเครื่องตรัสรู้.
+<span class="LineNumber"> 007 </span>           [๙๕๕]   ส.   ชื่อว่า    พุทธะ    เพราะการได้ปัญญาเป็นเครื่อง
+<span class="LineNumber"> 008 </span>ตรัสรู้ เพราะฉะนั้นจึงชื่อว่า พุทธะ เพราะปัญญาเป็นเครื่องตรัสรู้หรือ ?
+<span class="LineNumber"> 009 </span>                         ป.   ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                         ส.   ชื่อว่า โพธิ  คือปัญญาเป็นเครื่องตรัสรู้  ก็เพราะ
+<span class="LineNumber"> 011 </span>                               การได้ปัญญาเป็นเครื่องตรัสรู้ หรือ ?
+<span class="LineNumber"> 012 </span>                         ป.   ไม่พึงกล่าวอย่างนั้น  ฯ ล ฯ
+<span class="LineNumber"> 013 </span>                                      <I>โพธิยา   พุทโธติกถา  จบ</I>

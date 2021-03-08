@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H1>นิรุชฌมานุปปันนวาระ</H1> :- 
+<span class="LineNumber"> 002 </span>         [๖๖]   จิตใดกำลังดับอยู่,  จิตนั้นเกิดขึ้นแล้ว  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         ก็หรือว่าจิตใดเกิดขึ้นแล้ว  จิตนั้นกำลังดับอยู่   ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         จิตในอุปปาทขณะเกิดขึ้นแล้ว  แต่จิตนั้นไม่ใช่กำลังอยู่ จิต
+<span class="LineNumber"> 006 </span>ในภังคขณะเกิดขึ้นแล้วด้วย   กำลังดับอยู่ด้วย.
+<span class="LineNumber"> 007 </span>         จิตใดไม่ใช่กำลังดับอยู่  จิตนั้นไม่ใช่เกิดขึ้นแล้ว  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         จิตในอุปปาทขณะไม่ใช่กำลังดับอยู่   แต่จิตนั้นเกิดขึ้นแล้ว, จิต
+<span class="LineNumber"> 009 </span>ที่เป็นอดีตและจิตที่เป็นอนาคต   ไม่ใช่กำลังดับอยู่ด้วย    ไม่ใช่เกิดขึ้น
+<span class="LineNumber"> 010 </span>แล้วด้วย.
+<span class="LineNumber"> 011 </span>         ก็หรือว่าจิตใดไม่ใช่เกิดขึ้นแล้ว    จิตนั้นไม่ใช่กำลังดับอยู่    ใช่
+<span class="LineNumber"> 012 </span>ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span><H1>อุปปันนุปาทวาระ</H1> :-
+<span class="LineNumber"> 015 </span>         [๖๗]   จิตใดเกิดขึ้นแล้ว,   จิตนั้นเคยเกิด   ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ไม่ใช่.
+<span class="LineNumber"> 017 </span>         ก็หรือว่าจิตใดเคยเกิด,  จิตนั้นเกิดขึ้นแล้ว  ใช่ไหม ?

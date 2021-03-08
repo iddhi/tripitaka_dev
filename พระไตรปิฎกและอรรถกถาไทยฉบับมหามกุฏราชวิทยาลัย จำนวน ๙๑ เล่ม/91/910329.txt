@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       ๕.  <B>นเหตุธรรม   ที่ไม่ใช่สเหตุกธรรม   อาศัยนเหตุ- 
+<span class="LineNumber"> 002 </span>ธรรม  ที่ไม่ใช่อเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 003 </span>                       ๖.   <B>นเหตุธรรม    ที่ไม่ใช่สเหตุกธรรม   และนเหตุ-
+<span class="LineNumber"> 004 </span>ธรรม  ที่ไม่ใช่อเหตุกธรรม  อาศัยนเหตุธรรม ที่ไม่ใช่อเหตุกธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B> 
+<span class="LineNumber"> 006 </span>           [๔๘๘] ๗.  <B>นเหตุธรรม  ที่ไม่ใช่สเหตุกธรรม    อาศัยนเหตุ-
+<span class="LineNumber"> 007 </span>ธรรม  ที่ไม่ใช่สเหตุกธรรม  และนเหตุธรรม  ที่ไม่ใช่อเหตุกธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 009 </span>                       ๘.  <B>นเหตุธรรม  ที่ไม่ใช่อเหตุกธรรม    อาศัยนเหตุ- 
+<span class="LineNumber"> 010 </span>ธรรม  ที่ไม่ใช่สเหตุกธรรม  และนเหตุธรรม   ที่ไม่ใช่อเหตุกธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 012 </span>                       ๙.  <B>นเหตุธรรม    ที่ไม่ใช่สเหตุกธรรม    และนเหตุ-
+<span class="LineNumber"> 013 </span>ธรรม  ที่ไม่ใช่อเหตุกธรรม  อาศัยนเหตุธรรม  ที่ไม่ใช่สเหตุกธรรม
+<span class="LineNumber"> 014 </span>และนเหตุธรรม  ที่ไม่ใช่อเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+
+<span class="LineNumber"> 015 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๔๘๙]  ในเหตุปัจจัย  มี  ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 017 </span>           พึงให้พิสดารทุกวาระ.

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>วรรคที่   ๑๐</H1> 
+
+<span class="LineNumber"> 002 </span>                                       <H1>นิโรธกถา</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๓๗๕]   <B>สกวาที</B>   เมื่อขันธ์  ๕ ที่แสวงหาอุบัติยังไม่ทันดับ    ขันธ์ ๕
+<span class="LineNumber"> 004 </span>ที่เป็นกิริยาก็เกิดขึ้นได้ หรือ ?
+<span class="LineNumber"> 005 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ส. เป็นความประชุมแห่งขันธ์  ๑๐  ขันธ์  ๑๐  มาพบกันได้
+<span class="LineNumber"> 007 </span>หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 009 </span>                       ส. เป็นความประชุมแห่งขันธ์  ๑๐  ขันธ์ ๑๐ มาพบกันได้
+<span class="LineNumber"> 010 </span>หรือ ?
+<span class="LineNumber"> 011 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ส. เป็นความประชุมแห่งผัสสะ  ๒  ฯลฯ แห่งจิต  ๒ หรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 014 </span>         [๑๓๗๖]  ส.  เมื่อขันธ์  ๕  ที่แสวงหาอุปบัติยังไม่ทันดับ  ขันธ์  ๕  ที่
+<span class="LineNumber"> 015 </span>เป็นกิริยาก็เกิดขึ้นได้   หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                       ส. เป็นความประชุมแห่งขันธ์  ๙  ขันธ์  ๙  มาพบกันได้
+<span class="LineNumber"> 018 </span>หรือ ?
+<span class="LineNumber"> 019 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 020 </span>                       ส. เป็นความประชุมแห่งขันธ์  ๙  ขันธ์  ๙  มาพบกันได้
+<span class="LineNumber"> 021 </span>หรือ ?

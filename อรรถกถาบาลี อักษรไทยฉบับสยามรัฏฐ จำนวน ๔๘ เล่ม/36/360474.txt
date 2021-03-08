@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  474
+
+<span class="LineNumber"> 002 </span>นนฺทาเทวึ  อิมินา  น  ทิฏฺ€ปุพฺพํ  วิย  กโรนฺโต  ตสฺส  สรีรวณฺณํ  
+<span class="LineNumber"> 003 </span>วณฺเณยฺยํ  อถ  โส  ตํ  อนุสฺสริตฺวา  สจาหํ  มโหสถํ  มาเรสฺสามิ 
+<span class="LineNumber"> 004 </span>เอวรูปํ  อิตฺถีรตนํ  น  ลภิสฺสามิ  ตํ  อมาเรนฺโต  ปุน  ตํ  ลภิสฺสามีติ  
+<span class="LineNumber"> 005 </span>อตฺตโน  ภริยาย  สิเนเหน  น  กิฺจิ  มยฺหํ  กริสฺสตีติ  จินฺเตตฺวา 
+<span class="LineNumber"> 006 </span>อตฺตโน  รกฺขนตฺถํ  ปาสาเท  €ิโตว  รตฺตกมฺพลนฺตเร  สุวณฺณวณฺณํ  
+<span class="LineNumber"> 007 </span>พาหุํ  นีหริตฺวา ตสฺสา คตมคฺคาจิกฺขนวเสเนว ตํ วณฺเณนฺโต อาห  
+<span class="LineNumber"> 008 </span>	[๖๖๙]	อิโต คตา มหาราช		นารี สพฺพงฺคโสภนา  
+<span class="LineNumber"> 009 </span>			โกสุมฺภผลกสุสฺโสณี (๑)	หํสคคฺครภาณินี  
+<span class="LineNumber"> 010 </span>			อิโต นีตา มหาราช		นารี สพฺพงฺคโสภณา  
+<span class="LineNumber"> 011 </span>			โกเสยฺยวสนา สามา		ชาตรูปสุเมขลา  
+<span class="LineNumber"> 012 </span>			สุรตฺตปาทา กลฺยาณี		สุวณฺณมณิเมขลา  
+<span class="LineNumber"> 013 </span>			ปาเรวตกฺขี สุตนู			พิมฺโพฏฺ€า ตนุมชฺฌิมา  
+<span class="LineNumber"> 014 </span>			สุชาตา ภุชคลฏฺ€ีว (๒)	เวที ว (๓) ตนุมชฺฌิมา  
+<span class="LineNumber"> 015 </span>			ทีฆสฺสา เกสา อสิตา		อีสกคฺคปเวลฺลิตา  
+<span class="LineNumber"> 016 </span>			สุชาตา มิคจฺฉาปีว (๔)		เหมนฺตคฺคิสิขาริว  
+<span class="LineNumber"> 017 </span>			นทีว คิริทุคฺเคสุ			สฺฉนฺนา ขุทฺทเวฬุภิ  
+<span class="LineNumber"> 018 </span>			นาคนาสูรุกลฺยาณี		ป€ฺมา (๕) ติมฺพรุตฺถนี  
+<span class="LineNumber"> 019 </span>			นาติทีฆา นาติรสฺสา		นาติโลมา (๖) นาติโลมกาติ (๗) 
+<span class="LineNumber"> 020 </span># ๑. ม. โกสมฺพผลกสุสฺโสณี ฯ  ๒. ส. ม. ยุ. ภุชลฏฺ€ีว ฯ  ๓. ยุ. เวลฺลีว ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. ยุ. มิคฉาปา ว ฯ  ๕. ม. ปรมา ฯ  ๖. ส. ม. ยุ. นาโลมา ฯ
+<span class="LineNumber"> 022 </span># ๗. ม. นาติดลมสาติ ฯ  ยุ. นาติโลมสฺสาติ ฯ

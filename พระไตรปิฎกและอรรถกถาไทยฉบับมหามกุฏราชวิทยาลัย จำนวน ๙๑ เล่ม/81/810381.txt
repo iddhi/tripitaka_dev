@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>สมาปันโน   อัสสาเทติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๒๙]   <B>สกวาที</B>   ผู้เข้าสมาบัติย่อมยินดี  ความยินดีรักใคร่ในฌาน
+<span class="LineNumber"> 003 </span>มีฌานเป็นอารมณ์ หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. ฌานนั้น  เป็นอารมณ์แห่งฌานนั้น  หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>                        ส. ฌานนั้น   เป็นอารมณ์แห่งฌานนั้น  หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                        ส. บุคคลถูกต้องผัสสะนั้นด้วยผัสสะนั้น   เสวยเวทนานั้น
+<span class="LineNumber"> 010 </span>ด้วยเวทนานั้น   จำสัญญานั้นด้วยสัญญานั้น   ตั้งเจตนานั้นด้วยเจตนานั้น
+<span class="LineNumber"> 011 </span>คิดจิตนั้นด้วยจิตนั้น   ตรึกวิตกนั้นด้วยวิตกนั้น   ตรองวิจารนั้นด้วยวิจาร
+<span class="LineNumber"> 012 </span>นั้น  ดื่มปีตินั้นด้วยปีตินั้น  ระลึกสตินั้นด้วยสตินั้น  รู้แจ้งปัญญานั้นด้วย
+<span class="LineNumber"> 013 </span>ปัญญานั้น  หรือ ?
+<span class="LineNumber"> 014 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 015 </span>                        ส. ความยินดีรักใคร่ในฌาน   ก็สัมปยุตด้วยจิต   ฌานก็
+<span class="LineNumber"> 016 </span>สัมปยุตด้วยจิต  หรือ ?
+<span class="LineNumber"> 017 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                        ส. เป็นความประชุมกันแห่งผัสสะ   ๒   ฯลฯ  แห่งจิต  ๒ หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 020 </span>                        ส. ความยินดีรักใคร่ในฌานเป็นอกุศล   ฌานป็นกุศล  หรือ ?
+<span class="LineNumber"> 021 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 022 </span>                        ส. ธรรมเป็นกุศลและธรรมที่เป็นอกุศล      ธรรมที่มีโทษ

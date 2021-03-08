@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>            ถ.  การสมมติไม้เท้า     มีอะไรเป็นเบื้องต้น      มีอะไรเป็นท่ามกลาง  
+<span class="LineNumber"> 002 </span>มีอะไรเป็นที่สุด       
+<span class="LineNumber"> 003 </span>            ต.  การสมมติไม้เท้า     มีวัตถุและบุคคลเป็นเบื้องต้น      มีญัตติเป็น
+<span class="LineNumber"> 004 </span>ท่ามกลาง  มีกรรมวาจาเป็นที่สุด
+<span class="LineNumber"> 005 </span>            ถ.   การสมมติสาแหรก    มีอะไรเป็นเบื้องต้น     มีอะไรเป็นท่ามกลาง  
+<span class="LineNumber"> 006 </span>มีอะไรเป็นที่สุด
+<span class="LineNumber"> 007 </span>            ต.  การสมมติสาแหรก   มีวัตถุและบุคคลเป็นเบื้องต้น     มีญัตติเป็น
+<span class="LineNumber"> 008 </span>ท่ามกลาง   มีกรรมวาจาเป็นที่สุด
+<span class="LineNumber"> 009 </span>            ถ.   การสมมติไม้เท้าและสาแหรก   มีอะไรเป็นเบื้องต้น     มีอะไรเป็น
+<span class="LineNumber"> 010 </span>ท่ามกลาง  มีอะไรเป็นที่สุด
+<span class="LineNumber"> 011 </span>            ต.    การสมมติไม้เท้าและสาแหรก    มีวัตถุและบุคคลเป็นเบื้องต้น    มี
+<span class="LineNumber"> 012 </span>ญัตติเป็นท่ามกลาง   มีกรรมวาจาเป็นที่สุด.
+<span class="LineNumber"> 013 </span>                         <I>ถามและตอบอุโบสถกรรมเป็นต้น  จบ</I>
+
+<span class="LineNumber"> 014 </span>                             <H1>อุโปสถาทิปุจฉาวิสัชนา  วัณณนา</H1> 
+<span class="LineNumber"> 015 </span>           <H1>วินิจฉัยในคำแก้คำถาม</H1>ทั้งหลายมีคำถามว่า      อะไรเป็นเบื้องต้นของ
+<span class="LineNumber"> 016 </span>อุโบสถกรรม   เป็นอาทิ   พึงทราบดังนี้:-
+<span class="LineNumber"> 017 </span>           สองบทว่า  <B>สามคฺคี</B>  อาทิ   มีความว่า  กายสามัคคีของภิกษุทั้งหลาย
+<span class="LineNumber"> 018 </span>ผู้คิดว่า   จักทำอุโบสถ   แล้วชำระสีมา   นำฉันทะและปาริสุทธิมา   ประชุมกัน
+<span class="LineNumber"> 019 </span>เป็นเบื้องต้นของอุโบสถกรรม.

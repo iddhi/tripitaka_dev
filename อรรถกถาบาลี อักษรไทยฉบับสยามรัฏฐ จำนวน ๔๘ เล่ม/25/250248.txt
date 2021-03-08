@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  248
+	
+<span class="LineNumber"> 002 </span>		ภุฺชนฺตํ สมณํ ทิสฺวา	วิปฺปสนฺนมนาวิลํ  
+<span class="LineNumber"> 003 </span>		ฆเฏโนทกมาทาย		สิทฺธตฺถสฺส อทาสหํ ฯ  
+<span class="LineNumber"> 004 </span>		นิมฺมเลหิ กุเล สฺวาชฺช (๑)  วิมโล ขีณสํสโย  
+<span class="LineNumber"> 005 </span>		ภเว นิพฺพตฺตมานสฺส(๒)	ผลํ นิพฺพตฺตเต สุภํ ฯ (๓)  
+<span class="LineNumber"> 006 </span>		จตุนวุติโต  กปฺเป		อุทกํ ยํ อทาสหํ (๔)  
+<span class="LineNumber"> 007 </span>		ทุคฺคตึ นาภิชานามิ	ทกทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 008 </span>		เอกสฏฺ€ิมฺหิโต กปฺเป	เอโกว วิมโล อหุ  
+<span class="LineNumber"> 009 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล(๕) ฯ  
+<span class="LineNumber"> 010 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 011 </span>	อรหตฺตํ  ปน  ปตฺวา  เถโร  อิมิสฺสา  คาถาย  วเสน  
+<span class="LineNumber"> 012 </span>มยฺหํ  วิปสฺสนารมฺโภ  อรหตฺตปฺปตฺติ จ ชาตาติ อุทานวเสน
+<span class="LineNumber"> 013 </span>ตเมว คาถํ ปจฺจุทาหาสิ ฯ  
+<span class="LineNumber"> 014 </span>		สานุตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 015 </span># ๑. สฺยา. ม. นิมฺมโล โหมหํ อชฺช ฯ  สี. นิมฺมเลหิ คุเณหิชฺช ฯ 
+<span class="LineNumber"> 016 </span># ๒. สฺยา. นิพฺพตฺตมานมฺหิ ฯ  ๓. สฺยา. โปราณ. มม ฯ 
+<span class="LineNumber"> 017 </span># ๔. ม. อุทกํ ยมทาสหํ ฯ ยุ. อุทกํ ยํ ตทา อหํ ฯ  
+<span class="LineNumber"> 018 </span># ๕. สฺยา. ม. มหพฺพโล ฯ 

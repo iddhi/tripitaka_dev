@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>กตธรรมก็ไม่ใช่จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         จักดับ.
+<span class="LineNumber"> 003 </span>         ก็หรือว่าอัพยากตธรรมไม่ใช่จักดับแก่บุคคลใดในภูมิใด,     กุศล-
+<span class="LineNumber"> 004 </span>ธรรมก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         เคยเกิด.
+<span class="LineNumber"> 006 </span>         [๓๗๗]   กุศลธรรมไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด,   อัพยา-
+<span class="LineNumber"> 007 </span>กตธรรมก็ไม่ใช่จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         จักดับ.
+<span class="LineNumber"> 009 </span>         ก็หรือว่าอัพยากตธรรมไม่ใช่จักดับแก่บุคคลใดในภูมิใด,  อกุศล-
+<span class="LineNumber"> 010 </span>ธรรมก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         เคยเกิด.
+<span class="LineNumber"> 012 </span>                                <I>อุปปาทนิโรธวาระ   จบ</I>
+<span class="LineNumber"> 013 </span>                                      <I>ปวัตติวาระ  จบ</I>

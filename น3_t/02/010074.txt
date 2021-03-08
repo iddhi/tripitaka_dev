@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	๑๒.  <B>อนุตตรจิตตระ</B>  	จิตไม่ประกอบด้วยความยิ่ง.   
+<span class="LineNumber"> 002 </span>	๑๓. <B>สมาหิตจิตตะ</B>		จิตตั้งมั่น.
+<span class="LineNumber"> 003 </span>	๑๔.  <B>อสมาหิตจิตตะ</B>	จิตไม่ตั้งมั่น. 
+<span class="LineNumber"> 004 </span>	๑๕.  <B>วิมุตตจิตตะ</B>		จิตหลุดพ้น.
+<span class="LineNumber"> 005 </span>	๑๖.  <B>อวิมุตตจิตตะ</B>		จิตไม่หลุดพ้น.
+<span class="LineNumber"> 006 </span>	ฆ.  <B>ธัมมานุปัสสนา</B>
+<span class="LineNumber"> 007 </span>	ธัมมานุปัสสนา  พิจารณาธรรม  ท่านจำแนกไว้  ๕  บรรพ  คือ :-
+<span class="LineNumber"> 008 </span>	๑.  <B>นีวรณปัพพะ</B>	ข้อกำหนดด้วยนิวรณ์  ๕  คือ กามฉันทะ ๑
+<span class="LineNumber"> 009 </span>				พยาบาท ๑  ถีนมิทธะ  ๑  อุทธัจจกุกกุจจะ ๑
+<span class="LineNumber"> 010 </span>				วิจิกิจฉา  ๑.
+<span class="LineNumber"> 011 </span>	๒.  <B>ขันธปัพพะ</B>	ข้อกำหนดด้วยขันธ์  ๕  คือ รูป  เวทนา
+<span class="LineNumber"> 012 </span>				สัญญา  สังขาร  วิญญาณ.
+<span class="LineNumber"> 013 </span>	๓.  <B>อาตนปัพพะ</B>	ข้อกำหนดด้วยอายตนะ  ๑๒  คือ  อายตนะ
+<span class="LineNumber"> 014 </span>				ภายใน  ๖  อายตนะภายนอก  ๖.
+<span class="LineNumber"> 015 </span>	๔.  <B>โพชฌงคปัพพะ</B>  ข้อกำหนดด้วยโพชฌงค์  ๗  คือ  สติ  ๑
+<span class="LineNumber"> 016 </span>				ธัมมวิจยะ  ๑  วิริยะ  ๑  ปีติ  ๑  ปัสสัทธิ ๑
+<span class="LineNumber"> 017 </span>				สมาธิ  ๑  อุเบกขา  ๑.
+<span class="LineNumber"> 018 </span>	๕.  <B>สัจจปัพพะ</B> 	ข้อกำหนดด้วยอริยสัจ  ๔ คือ  ทุกข์  ๑
+<span class="LineNumber"> 019 </span>				สมุทัย  ๑  นิโรธ  ๑ มรรค  ๑.
+<span class="LineNumber"> 020 </span>                                    จำแนกทุกขสัจจะ
+<span class="LineNumber"> 021 </span>	<B>ชาติ</B>  ความเกิด,  <B>ชรา</B>  ความแก่,  <B>มรณะ</B>  ความตายล  <B>โสกะ</B>
+
+				

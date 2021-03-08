@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                        <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>		[๔๕๔]  ๑.  เหตุธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม    เป็น 
+<span class="LineNumber"> 003 </span>ปัจจัยแก่เหตุธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม    ด้วยอำนาจของ
+<span class="LineNumber"> 004 </span>อารัมมณปัจจัย
+<span class="LineNumber"> 005 </span>             <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>		[๔๕๕]  ในเหตุปัจจัย  มี ๑ วาระ  ในอารัมมณปัจจัย มี  ๑ วาระ  ฯลฯ 
+<span class="LineNumber"> 007 </span>ในอวิคตปัจจัย มี ๑ วาระ  ในปัจจัยทั้งปวง มี ๑ วาระ.
+<span class="LineNumber"> 008 </span>		แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+
+<span class="LineNumber"> 009 </span>			<H1>นเหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 010 </span>			    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>		          <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 012 </span>		[๔๕๖]  ๑.  นเหตุธรรมที่เป็นอนิทัสสนสัปปฏิธรรม   อาศัย
+<span class="LineNumber"> 013 </span>นเหตุธรรมที่เป็นอนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 014 </span>                        ๒.  นเหตุธรรมที่เป็นสนิทัสสนสัปปฏิฆธรรม   อาศัย
+<span class="LineNumber"> 015 </span>นเหตุธรรมที่เป็นอนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>                        ๓.  นเหตุธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   อาศัย
+<span class="LineNumber"> 017 </span>นเหตุธรรมที่เป็นอนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย 

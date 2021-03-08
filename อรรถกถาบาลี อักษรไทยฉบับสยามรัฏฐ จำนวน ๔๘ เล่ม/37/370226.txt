@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  226
+
+<span class="LineNumber"> 002 </span>นิพฺพตฺติสฺสสิ  โลกนฺตนิรเย(๑)  นิพฺพตฺติสฺสสีติ  วตฺวา  ตํ  นิรยํ 
+<span class="LineNumber"> 003 </span>ทสฺเสตุํ  คาถมาห  
+<span class="LineNumber"> 004 </span>	[๘๗๘]อนฺธตมํ ตตฺถ น จนฺทสุริยา  
+<span class="LineNumber"> 005 </span>		นิรโย สทา ตุมุโล โฆรรูโป  
+<span class="LineNumber"> 006 </span>		สา เนว รตฺติ น ทิวา ปฺายติ  
+<span class="LineNumber"> 007 </span>		ตถาวิเธ โก วิจเร ธนตฺถิโกติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  อนฺธตมนฺติ  มหาราช  ยมฺหิ  โลกนฺตนิรเย
+<span class="LineNumber"> 009 </span>มิจฺฉาทิฏฺ€ิกา  นิพฺพตฺตนฺติ  ตตฺถ  จกฺขุวิฺาณสฺส  อุปฺปตฺตินิวารณํ 
+<span class="LineNumber"> 010 </span>อนฺธตมํ ฯ  สทา  ตุมุโลติ  โส  นิรโย  นิจฺจํ  พหลนฺธกาโร ฯ
+<span class="LineNumber"> 011 </span>โฆรรูโปติ ภึสนกรูโป  ภึสนกชาติโก(๒) ฯ  สา  เนว  รตฺติ(๓)  น  ทิวาติ 
+<span class="LineNumber"> 012 </span>สา  อิธ  รตฺติ  วา  ทิวโส  วา(๔)  เนว  ตตฺถ  ปฺายติ ฯ  โก
+<span class="LineNumber"> 013 </span>วิจเรติ  โก  อุฏฺ€านวิริยํ(๕) สาเธ(๖)นฺโต วิจริสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>	ตํ  ปิสฺส(๗)  โลกนฺตนิรยํ  วิตฺถาเรน  วณฺเณตฺวา  มหาราช 
+<span class="LineNumber"> 015 </span>สเจ  ตฺวํ(๘)  มิจฺฉาทิฏฺ€ึ  อวิสฺสชฺเชนฺโต  น  เกวลํ  เอตเทว  อฺมฺปิ 
+<span class="LineNumber"> 016 </span>ทุกฺขํ  อนุภวิสฺสสีติ ทสฺเสนฺโต อิมํ คาถมาห  
+<span class="LineNumber"> 017 </span>	[๘๗๙]สวโล จ สาโม จ ทุเว สุวาณา  
+<span class="LineNumber"> 018 </span>		ปวฑฺฒกายา พลิโน มหนฺตา  
+<span class="LineNumber"> 019 </span># ๑. ม. โลกนฺตรนิรเย ฯ  ๒. ม. ภีสนกชาติโก ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. รตฺตีติ ฯ  ๔. ม. ทิวา จ สา ฯ  ๕. ม. อุทฺธารํ ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. โสเธนฺโต ฯ  ๗. ม. ตมฺปิสฺส โลกนฺตรนิรยํ ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. อิเม ปา€า นตฺถิ ฯ 

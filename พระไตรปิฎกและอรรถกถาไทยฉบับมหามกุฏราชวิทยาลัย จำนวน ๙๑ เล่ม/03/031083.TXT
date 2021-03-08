@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                             <H2>ทุกกฏ</H2>
+<span class="LineNumber"> 002 </span>        ไม่ได้ให้เขาทอ  ภิกษุสำคัญว่าให้เขาทอ  ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 003 </span>        ไม่ได้ให้เขาทอ   ภิกษุสงสัย  ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 004 </span>                                        <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 005 </span>        ไม่ได้ให้เขาทอ  ภิกษุสำคัญว่าไม่ได้ให้เขาทอ  ไม่ต้องอาบัติ.
+<span class="LineNumber"> 006 </span>                                           <H1>อนาปัตติวาร</H1>
+<span class="LineNumber"> 007 </span>         [๑๕๖]   ภิกษุขอด้ายมาเพื่อเย็บจีวร ๑  ภิกษุขอด้ายมาทำผ้ารัดเข่า ๑
+<span class="LineNumber"> 008 </span>ภิกษุขอด้ายมาทำประคดเอว ๑   ภิกษุขอด้ายมาทำผ้าอังสะ ๑   ภิกษุขอด้าย 
+<span class="LineNumber"> 009 </span>มาทำถุงบาตร  ๑     ภิกษุขอด้ายมาทำผ้ากรองน้ำ ๑     ภิกษุขอต่อญาติ  ๑
+<span class="LineNumber"> 010 </span>ภิกษุขอต่อคนปวารณา ๑    ภิกษุขอเพื่อประโยชน์ของภิกษุอื่น  ๑    ภิกษุ
+<span class="LineNumber"> 011 </span>จ่ายมาด้วยทรัพย์ของตน  ๑  ภิกษุวิกลจริต  ๑   ภิกษุอาทิกัมมิกะ ๑  ไม่ต้อง
+<span class="LineNumber"> 012 </span>อาบัติแล
+<span class="LineNumber"> 013 </span>                            <I>ปัตตวรรค  สิกขาบทที่  ๖  จบ</I>
+<span class="LineNumber"> 014 </span>                            <h1>ปัตตวรรคที่  ๓  สิกขาบทที่  ๖</h1>
+<span class="LineNumber"> 015 </span>                           <H1>พรรณนาสุตตวิญญัตติสิกขาบท</H1>
+<span class="LineNumber"> 016 </span>        สุตตวิญญัตติสิกขาบทว่า  <B>เตน  สมเยน</B>  เป็นต้น     ข้าพเจ้าจะกล่าว
+<span class="LineNumber"> 017 </span>ต่อไป:-  ในสุตตวิญญัตติสิกขาบทนั้น  มีวินิจฉัยดังต่อไปนี้:- 

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           เป็นปัจจัย  <B>ด้วยอำนาจของสหชาตปัจจัย.</B> 
+<span class="LineNumber"> 002 </span>           เป็นปัจจัย  <B>ด้วยอำนาจของอัญญมัญญปัจจัย</B>    ทั้ง ๒ ปัจจัยนี้
+<span class="LineNumber"> 003 </span>เหมือนปัจจยวาระ.
+<span class="LineNumber"> 004 </span>           เป็นปัจจัย   ด้วยอำนาจของนิสสยปัจจัย    เหมือนกับนิสสยปัจจัย
+<span class="LineNumber"> 005 </span>ในปัจจัยวาระ.
+
+<span class="LineNumber"> 006 </span>                                   <H1>๙.อุปนิสสยปัจจัย</H1>
+<span class="LineNumber"> 007 </span>           [๒๒] ๑.  <B>เหตุธรรม เป็นปัจจัยแก่เหตุธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 008 </span>อุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 009 </span>           มี ๓ อย่าง  คือที่เป็น  <B>อารัมมณูปนิสสยะ อนันตรูปนิสสยะ</B>  และ
+<span class="LineNumber"> 010 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 011 </span>           ที่เป็น <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 012 </span>           เหตุธรรมทั้งหลาย   เป็นปัจจัยแก่เหตุธรรมทั้งหลาย   ด้วยอำนาจของ
+<span class="LineNumber"> 013 </span>อุปนิสสยปัจจัย.
+<span class="LineNumber"> 014 </span>                 ๒.  <B>เหตุธรรม    เป็นปัจจัยแก่เหตุธรรม    ด้วยอำนาจ
+<span class="LineNumber"> 015 </span>ของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 016 </span>           มี ๓ อย่าง  คือที่เป็น  <B>อารัมมณูปนิสสยะ  อนันตรูปนิสสยะ</B>  และ
+<span class="LineNumber"> 017 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 018 </span>           ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 019 </span>           เหตุธรรมทั้งหลาย  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นนเหตุธรรม  ด้วย
+<span class="LineNumber"> 020 </span>อำนาจของอุปนิสสยปัจจัย.

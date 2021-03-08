@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>ปิตฺตํ</B>				โรคดีเดือด  
+<span class="LineNumber"> 002 </span><B>มธุเมโห</B>			โรคปัสสาวะหวาน
+<span class="LineNumber"> 003 </span><B>อํสา</B>				เริม
+<span class="LineNumber"> 004 </span><B>ปีฬกา</B>				พุพอง
+<span class="LineNumber"> 005 </span><B>ภคณฺฑลา</B>			ริดสีดวง
+<span class="LineNumber"> 006 </span><B>ปิตฺตสมุฏฺ€านา อาพาธา</B>	ความเจ็บ  มีดีเป็นสมุฏฐาน
+<span class="LineNumber"> 007 </span><B>เสมฺหสมุฏฺ€านา อาพาธา</B>	ความเจ็บมีเสมหะเป็นสมุฏฐาน
+<span class="LineNumber"> 008 </span><B>วาตสมุฏฺ€านา อาพาธา</B>	ความเจ็บมีลมเป็นสมุฏฐาน
+<span class="LineNumber"> 009 </span><B>สนฺนิปาติา อาพาธา</B>		ไข้สันนิบาต [คือความเจ็บที่เกิด
+<span class="LineNumber"> 010 </span>				แต่ดีเสมหะและลมทั้ง ๓ เจือกัน]
+<span class="LineNumber"> 011 </span><B>อุตุปริณามชา อาพาธา</B>	ความเจ็บเกิดแก่ฤดูแปรปรวน
+<span class="LineNumber"> 012 </span><B>วิสมปริหารชา อาพาธา</B>	ความเจ็บเกิดแต่ความผลัดเปลี่ยน
+<span class="LineNumber"> 013 </span>				อิริยาบถไม่สม่ำเสมอ
+<span class="LineNumber"> 014 </span><B>โอปกฺกมิกา อาพาธา</B>	ความเจ็บเกิดแต่ความเพียรกล้า<SUP>๑</SUP>
+<span class="LineNumber"> 015 </span><B>กมฺมวิปากชา อาพาธา</B>	ความเจ็บเกิดแก่วิบากของกรรม
+<span class="LineNumber"> 016 </span><B>สีตํ</B>				เย็น
+<span class="LineNumber"> 017 </span><B>อุณฺหํ</B>				ร้อน
+<span class="LineNumber"> 018 </span><B>ชิฆจฺฉา</B>			หิวข้าว
+<span class="LineNumber"> 019 </span><B>ปิปาสา</B>			ระหายน้ำ
+
+<span class='footnote'>๑.  นี้แปลตามนัยพระบาลีที่ตรัสเล่าถึงการทรงบำเพ็ญทุกรกิริยาทุกแห่งว่า. . . โอกูกมิกา  ทุกฺขา</span>
+<span class='footnote'>ติปฺปา . . . </span>

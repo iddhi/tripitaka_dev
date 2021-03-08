@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 353
+
+<span class="LineNumber"> 002 </span>เปสยิ(๑)  นาคภวนเมว มํ เนหีติ วทนฺโต คาถมาห  
+<span class="LineNumber"> 003 </span>	[๙๙๘]หนฺท ตุวํ ยกฺข มมมฺปิ เนหิ  
+<span class="LineNumber"> 004 </span>		สสุรนฺติเก อตฺถํ มยี จรสฺสุ  
+<span class="LineNumber"> 005 </span>		อหมฺปิ นาคาธิปตีวิมานํ (๒) 
+<span class="LineNumber"> 006 </span>		ทกฺเขมิ (๓)นาคสฺส อทิฏฺ€ปุปฺพนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  หนฺทาติ  อุปสคฺคตฺเถ (๔) นิปาโต ฯ  สสุรนฺติเก
+<span class="LineNumber"> 008 </span>อตฺถํ  มยิ  จรสฺสูติ  ตว  สสุรสฺส  สนฺติกํ(๕)  อตฺถํ  มยิ  จร
+<span class="LineNumber"> 009 </span>มา  นาสยิ (๖)ฯ  นาคาธิปตีวิมานนฺติ (๗)นาคาธิปติฺจ วิมานฺจสฺส
+<span class="LineNumber"> 010 </span>อทิฏฺ€ปุพฺพํ ปสฺเสยฺย (๘)ฯ  
+<span class="LineNumber"> 011 </span>	ปุณฺโณ(๙) อาห  
+<span class="LineNumber"> 012 </span>	[๙๙๙]ยํ เว นรสฺส อหิตาย อสฺส  
+<span class="LineNumber"> 013 </span>		น ตํ ปฺโ อรหติ ทสฺสนาย  
+<span class="LineNumber"> 014 </span>		อถ เกน วณฺเณน อมิตฺตคามํ  
+<span class="LineNumber"> 015 </span>		ตุวมิจฺฉสิ อุตฺตม ปฺ คนฺตุนฺติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถอมิตฺตคามนฺติ  อมิตฺตสฺส  วสนฏฺ€านํ  อมิตฺตสมาคมนฺติ  
+<span class="LineNumber"> 017 </span>อตฺโถ ฯ  
+<span class="LineNumber"> 018 </span>	อถ นํ มหาสตฺโต อาห  
+<span class="LineNumber"> 019 </span># ๑. ม. ฆรํ มา เปเสหิ ฯ  ๒. ม. มยํ จ นาคาธิปตึ วิมานํ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. ทกฺเขมุ ฯ  ๔. ม. ววสฺสคฺคตฺเถ ฯ  ๕. ม. สนฺตกํ ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. นาเสหิ ฯ ๗. ม. นาคาธิปตึ วิมานนฺติ อหมฺปิ ฯ
+<span class="LineNumber"> 022 </span># ๘. ม. ปสฺเสยฺยํ ฯ  ๙. ม. ตํ สุตฺวา ปุณฺณโก ฯ 

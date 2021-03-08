@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  335
+
+<span class="LineNumber"> 002 </span>			อลโส คิหี กามโภคี น สาธุ  
+<span class="LineNumber"> 003 </span>			อสฺโต ปพฺพชิโต น สาธุ  
+<span class="LineNumber"> 004 </span>			ราชา น สาธุ อนิสมฺมการี  
+<span class="LineNumber"> 005 </span>			โย ปณฺฑิโต โกธโน ตํ น สาธุ  
+<span class="LineNumber"> 006 </span>		นิสมฺม ขตฺติโย กยิรา		นานิสมฺม ทิสมฺปติ  
+<span class="LineNumber"> 007 </span>		นิสมฺมการิโน รฺโ (๑)	ยโส กิตฺติฺจ (๒) วฑฺฒตีติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  น  สาธูติ  น  สุทฺธโก  น  สุนฺทโร ฯ  อนิสมฺมการีติ  
+<span class="LineNumber"> 009 </span>ยํ  กิฺจิ  กตฺวา (๓) อนุปธาเรตฺวา  อตฺตโน  ปจฺจกฺขํ  อกตฺวา  การโก ฯ  
+<span class="LineNumber"> 010 </span>ตํ  น  สาธูติ  ตสฺส  ปณฺฑิตสฺส  าณวโต  ปุคฺคลสฺส อฏฺ€านคฺ-
+<span class="LineNumber"> 011 </span>คาหกวเสน  ทณฺฑโกปสํขาตํ  โกธนํ  น  สาธูติ ฯ  ยโส  กิตฺติฺจาติ  
+<span class="LineNumber"> 012 </span>อิสฺสริยปริวาโร จ คุณกิตฺติ จ เอกนฺเตน วฑฺฒตีติ ฯ  
+<span class="LineNumber"> 013 </span>			ภูริปฺโห นิฏฺ€ิโต ฯ  
+<span class="LineNumber"> 014 </span>	เอวํ  วุตฺเต  ราชา  มหาสตฺตํ  สมุสฺสิตเสตจฺฉตฺเต  ราชปลฺลงฺเก  
+<span class="LineNumber"> 015 </span>นิสีทาเปตฺวา  สยํ  นีจาสเน  นิสีทิตฺวา  อาห  ปณฺฑิต  ฉตฺเต 
+<span class="LineNumber"> 016 </span>อธิวฏฺ€า  เทวตา  มํ  จตฺตาโร  ปฺเห  ปุจฺฉิ  เต  ปน เนวาหํ 
+<span class="LineNumber"> 017 </span>ชานามิ จตฺตาโร  ปณฺฑิตาปิ  น  ชานึสุ  ตสฺมา  กเถหิ  เม 
+<span class="LineNumber"> 018 </span>ตาต  เต  ปฺเหติ ฯ  มหาราช  ฉตฺเต  อธิวฏฺ€า  เทวตาว  วา
+<span class="LineNumber"> 019 </span>โหตุ  จาตุมฺมหาราชิกาทโย  วา  เทวา  โหนฺตุ  เยน  เกนจิ 
+<span class="LineNumber"> 020 </span>ปุฏฺ€ํ  ปฺหํ  อหํ  กเถตุํ  สกฺโกมิ  วท  มหาราช  เทวตาย  
+<span class="LineNumber"> 021 </span># ๑. ม. ยุ. ราช ฯ  ๒. ม. กิตฺติ จ ฯ  ยุ. กิตฺตี จ ฯ  ๓. ม. ยุ. สุตฺวา ฯ

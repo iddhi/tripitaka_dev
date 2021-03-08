@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๓  เอกกนิปาตวณฺณนา  หน้า  ๑๐๖
+
+<span class="LineNumber"> 002 </span>เตสํ  อาภเตน  เยน  เกนจิ ยาเปนฺโตปิ  สนฺตุฏฺโ€ว  โหติ ฯ  โย ปน เอกสฺมึ ภาชเน
+<span class="LineNumber"> 003 </span>มุตฺตหรีฏกํ €เปตฺวา เอกสฺมึ  จตุมธุรํ  คณฺหถ  ภนฺเต  ยทิจฺฉสีติ  (๑) วุจฺจมาโน สจสฺส
+<span class="LineNumber"> 004 </span>เตสุ อฺตเรนปิ โรโค วูปสมฺมติ  อถ  มุตฺตหรีฏกํ  นาม พุทฺธาทีหิ วณฺณิตนฺติ จตุมธุรํ
+<span class="LineNumber"> 005 </span>ปฏิกฺขิปิตฺวา มุตฺตหรีฏเกน  เภสชฺชํ  กโรนฺโตปิ  ปรมสนฺตุฏฺโ€ว  โหติ ฯ  อยมสฺส 
+<span class="LineNumber"> 006 </span>คิลานปจฺจเย ยถาสารุปฺปสนฺโตโส ฯ  อิเมสํ  ปน  ปจฺเจกปจฺจเยสุ  (๒)  ติณฺณํ  ติณฺณํ 
+<span class="LineNumber"> 007 </span>สนฺโตสานํ ยถาสารุปฺปสนฺโตโส อคฺโค ฯ
+<span class="LineNumber"> 008 </span>					ปฺจมํ  ฯ
+<span class="LineNumber"> 009 </span>	ฉฏฺ€สตฺตเมสุ อโยนิโสมนสิการโยนิโสมนสิการา เหฏฺ€า วุตฺตลกฺขณาว ฯ
+<span class="LineNumber"> 010 </span>เสสเมตฺถ อุตฺตานตฺถเมวาติ ฯ
+<span class="LineNumber"> 011 </span>					ฉฏฺ€สตฺตมํ  ฯ
+<span class="LineNumber"> 012 </span>	อฏฺ€เม   ฯ  อสมฺปชฺนฺติ  อสมฺปชานภาโว  โมหสฺเสตํ  อธิวจนํ ฯ
+<span class="LineNumber"> 013 </span>อสมฺปชานสฺสาติ อชานนฺตสฺส มูฬฺหสฺส ฯ
+<span class="LineNumber"> 014 </span>					อฏ€มํ  ฯ
+<span class="LineNumber"> 015 </span>	นวเม  สมฺปชฺนฺติ  สมฺปชานภาโว  ปฺาเยตํ  นามํ ฯ สมฺปชานสฺสาติ
+<span class="LineNumber"> 016 </span>สมฺปชานนฺตสฺส ฯ
+<span class="LineNumber"> 017 </span>					นวมํ  ฯ
+<span class="LineNumber"> 018 </span># ๑. ม. ยทิจฺฉกนฺติ  ฯ  ๒. กตฺถจิ. อิเมสุ ปน จตูสุ ปจฺจเยสุ  ฯ ๓. ม. สมฺมุฬฺหสฺส  ฯ
+<span class="LineNumber"> 019 </span>กตฺถจิ. ปมุฬฺหสฺส  ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>              <B>๙. อกุศลธรรม   อาศัยอัพยากตธรรมเกิดขึ้น   เพราะ
+<span class="LineNumber"> 002 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 003 </span>           คือ  ขันธ์ทั้งหลายที่เป็นอกุศล  อาศัยหทยวัตถุเกิดขึ้น. 
+<span class="LineNumber"> 004 </span>              <B>๑๐. กุศลธรรมและอัพยากตธรรม  อาศัยอัพยากตธรรม
+<span class="LineNumber"> 005 </span>เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ทั้งหลายที่เป็นกุศล อาศัยหทยวัตถุเกิดขึ้น,  จิตตสมุฏฐาน-
+<span class="LineNumber"> 007 </span>รูป  อาศัยมหาภูตรูปทั้งหลายเกิดขึ้น.
+<span class="LineNumber"> 008 </span>              <B>๑๑. อกุศลธรรมและอัพยากตธรรม  อาศัย อัพยากตธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ ขันธ์ทั้งหลายที่เป็นอกุศล อาศัยหทยวัตถุเกิดขึ้น, จิตตสมุฏฐาน-
+<span class="LineNumber"> 011 </span>รูป  อาศัยมหาภูตรูปทั้งหลายเกิดขึ้น.
+<span class="LineNumber"> 012 </span> <B>[๓๘๓] ๑๒. กุศลธรรม  อาศัยกุศลธรรมและอัพยากตธรรมเกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นกุศล และหทยวัตถุเกิดขึ้น ฯลฯ
+<span class="LineNumber"> 015 </span>ขันธ์ ๒ อาศัยขันธ์ ๒ และหทยวัตถุเกิดขึ้น.
+<span class="LineNumber"> 016 </span>              <B>๑๓. อัพยากตธรรม  อาศัยกุศลธรรมและอัพยากตธรรม
+<span class="LineNumber"> 017 </span>เกิดขึ้น เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>           คือ จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นกุศล และมหาภูตรูป
+<span class="LineNumber"> 019 </span>เกิดขึ้น.
+  
+ 

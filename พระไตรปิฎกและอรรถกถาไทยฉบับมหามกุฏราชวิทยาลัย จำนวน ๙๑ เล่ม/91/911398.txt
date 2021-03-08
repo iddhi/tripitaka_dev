@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๑๑๕๑]  ในเหตุปัจจัย  มี  ๓ วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                     <H2>ปฏิจจวาระ</H2>   
+<span class="LineNumber"> 004 </span>                                      <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                    <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>               <H2>เนวทัสสเนนนภาวนายปหาตัพพบท</H2>
+<span class="LineNumber"> 007 </span>           [๑๑๕๒] ๑.  <B>เนวทัสสเนนนภาวนายปหาตัพพธรรม     ที่เป็น
+<span class="LineNumber"> 008 </span>สนิทัสสนสัปปฏิฆธรรม  อาศัยธรรมที่ไม่ใช่เนวทัสสเนนนภาวนาย-
+<span class="LineNumber"> 009 </span>ปหตัพพธรรม  ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 010 </span>ปัจจัย</B>	
+<span class="LineNumber"> 011 </span>                                                <B>ฯลฯ</B>
+
+<span class="LineNumber"> 012 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๑๑๕๓]  ในเหตุปัจจัย มี ๒  วาระ   ฯลฯ
+<span class="LineNumber"> 014 </span>           <I>สนิทัสสนติกนทัสสนติกสนิทัสสนติกทัสสนติกะ  จบ</I>

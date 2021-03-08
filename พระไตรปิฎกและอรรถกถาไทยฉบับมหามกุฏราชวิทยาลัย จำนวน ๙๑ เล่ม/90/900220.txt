@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>มิจฉัตตนิยตบทปัญหา วาระ</H1>
+<span class="LineNumber"> 002 </span>						  <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>						<H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>		[๖๗๓]  ๑.  มิจฉัตตนิยตธรรมที่เป็นเหตุ      เป็นปัจจัยแก่มิจ-
+<span class="LineNumber"> 005 </span>ฉัตตนิยตธรรมที่เป็นเหตุ   ด้วยอำนาจของเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>					    <H1>๒.   อธิปติปัจจัย</H1>
+<span class="LineNumber"> 007 </span>		[๖๗๔]  ๑.  มิจฉัตตนิยตธรรมที่ไม่ใช่เหตุ   เป็นปัจจัยแก่มิจ-
+<span class="LineNumber"> 008 </span>ฉัตตนิยตธรรมที่ไม่ใช่เหตุ    ด้วยอำนาจของอธิปติปัจจัย
+<span class="LineNumber"> 009 </span>           	มีอย่างเดียว  คือที่เป็น  สหชาตาธิปติ  มี ๓ วาระ.
+<span class="LineNumber"> 010 </span>                 	   <H1>การนับจำนวนวาระในอธิปติปัจจัย</H1>
+<span class="LineNumber"> 011 </span>		[๖๗๕]  ในเหตุปัจจัย  มี ๓ วาระ  ในอธิปติปัจจัย   มี ๓ วาระ   ใน
+<span class="LineNumber"> 012 </span>สหชาตปัจจัย มี ๙ วาระ    ในอัญญมัญญปัจจัย มี ๙  วาระ    ในนิสสยปัจจัย  มี
+<span class="LineNumber"> 013 </span>๙ วาระ   ในอุปนิสสยปัจจัย  มี ๙  วาระ  ในกัมมปัจจัย  มี  ๓ วาระ  ในอาหาร-
+<span class="LineNumber"> 014 </span>ปัจจัย มี ๓ วาระ    ในอินทริยปัจจัย มี ๓ วาระ     ในฌานปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 015 </span>ในมัคคปัจจัย  มี ๓  วาระ    ในสัมปยุตตปัจจัย มี ๙ วาระ ในอัตถิปัจจัย มี ๙
+<span class="LineNumber"> 016 </span>วาระ  ในอวิคตปัจจัย มี  ๙  วาระ.                         

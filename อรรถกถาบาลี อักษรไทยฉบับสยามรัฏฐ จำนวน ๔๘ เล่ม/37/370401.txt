@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 401
+
+<span class="LineNumber"> 002 </span>มํ  โกจิ  เม  ทาโส  โหหีติ  วเทยฺย อตฺตานมสฺส  สมสฺสาเสตฺวา(๑)
+<span class="LineNumber"> 003 </span>ทาสํ  กตฺวา  ทเทยฺยนฺติ ฯ  ตสฺเสวํ  สภาวํ  สรสจิตฺตํ  จินฺเตนฺตสฺส  
+<span class="LineNumber"> 004 </span>จตุนหุตาธิกทฺวิโยชนสตสหสฺสพหลา  อยํ  มหาป€วี  มตฺตวรวารโณ 
+<span class="LineNumber"> 005 </span>วิย  ตชฺชมานา  กมฺปิ ฯ  สิเนรุปพฺพตราชา  สุเสทิตเวตตงฺกุโร
+<span class="LineNumber"> 006 </span>วิย  โอณมิตฺวา  เชตุตฺตรนคราภิมุโข  อฏฺ€าสิ ฯ  ป€วีสทฺเทน 
+<span class="LineNumber"> 007 </span>เทโว  ตชฺชนฺโต ขณิกวสฺสํ วสฺสิ ฯ อกาลวิชฺชุลตา นิจฺฉรึสุ ฯ  
+<span class="LineNumber"> 008 </span>สาคโร  อุพฺพตฺติ (๒)ฯ  สกฺโก  เทวราชา  อปฺโผเฏสิ ฯ  มหาพฺราหฺมา  
+<span class="LineNumber"> 009 </span>สาธุการมทาสิ ฯ[๓] ยาว พฺรหฺมโลกา เอกโกลาหลํ อโหสิ ฯ  
+<span class="LineNumber"> 010 </span>	วุตฺตมฺปิ เจตํ  
+<span class="LineNumber"> 011 </span>		ยถาหํ ทารโก โหมิ		ชาติยา อฏฺ€วสฺสิโก  
+<span class="LineNumber"> 012 </span>		ตทา นิสชฺช ปาสาเท	ทานํ ทาตุํ วิจินฺตยึ  
+<span class="LineNumber"> 013 </span>		หทยํ ทเทยฺยํ จกฺขุํ		มํสํปิ รุธํปิ(๔) จ  
+<span class="LineNumber"> 014 </span>		ทเทยฺยํ กายํ สาเวตฺวา	ยทิ โก ยาจเย มมนฺติ(๕)  
+<span class="LineNumber"> 015 </span>		สภาวํ จินฺตยนฺตสฺส	อกมฺปิตมสณฺ€ิตํ  
+<span class="LineNumber"> 016 </span>		อกมฺปิ ตตฺถ ป€วี		สิเนรุวนวฏํสกาติ ฯ  
+<span class="LineNumber"> 017 </span>	โพธิสตฺโต  โสฬสวสฺสิกกาเลเยว  สพฺพสิปฺปานํ(๖)  นิปฺผตฺตึ 
+<span class="LineNumber"> 018 </span>ปาปุณิ ฯ  อถสฺส  ปิตา  รชฺชํ  ทาตุกาโม  มาตรา  สทฺธึ  
+<span class="LineNumber"> 019 </span>มนฺเตตฺวา  มทฺทราชกุลโต  มาตุลธีตรํ  มทฺทึ  นาม  ราชกฺํ 
+<span class="LineNumber"> 020 </span># ๑. ม. สาเวตฺวา ฯ  ๒. ม.สงฺขุภิ ฯ  ๓. ม. เอตฺถนฺตเร 
+<span class="LineNumber"> 021 </span># ปฏฺ€ายาติ ทิสฺสนฺติ ฯ  ๔. ส. ม. รุธิรมฺปิ ฯ  ๕. มมํ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. สพฺพสิปฺเปสฺ ฯ 

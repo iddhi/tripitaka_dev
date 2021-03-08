@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                         ๒.  อกุศลธรรมที่เป็นภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 002 </span>อาศัยอกุศลธรรมที่เป็นภาวนายปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะ 
+<span class="LineNumber"> 003 </span>		เหตุปัจจัย   มี ๖ วาระ.
+<span class="LineNumber"> 004 </span>		พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 005 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>            ในเหตุปัจจัย มี ๖ วาระ  ในอารัมมณปัจจัย มี  ๑๐ วาระ  ในอธิปติ-
+<span class="LineNumber"> 007 </span>ปัจจัย มี ๒ วาระ  ฯลฯ  ในอวิคตปัจจัย มี  ๑๐ วาระ
+
+<span class="LineNumber"> 008 </span>			      <H1>อัพยากตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 009 </span>				     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 010 </span>			           <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 011 </span>		[๑๘๑]  ๑.  อัพยากตธรรมที่เป็นเนวทัสสเนนนภาวนายปหา-
+<span class="LineNumber"> 012 </span>ตัพพเหตุกธรรม  อาศัยอัพยากตธรรมที่เป็นเนวทัสสเนนนภาวนาย-
+<span class="LineNumber"> 013 </span>ปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๑ วาระ.
+<span class="LineNumber"> 014 </span>		ทุกปัจจัย  มี  ๑  วาระ.
+<span class="LineNumber"> 015 </span>		     <I>ทัสสเนนปหาตัพพเหตุกติกกุสลติกะ  จบ</I>

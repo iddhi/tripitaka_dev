@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                         ถาม                                    ตอบ
+<span class="LineNumber"> 002 </span>           กุฏฺ€ํ                                       นตฺถิ  ภนฺเต
+<span class="LineNumber"> 003 </span>           คณฺโฑ                                      นตฺถิ  ภนฺเต 
+<span class="LineNumber"> 004 </span>           กิลาโส                                      นตฺถิ  ภนฺเต
+<span class="LineNumber"> 005 </span>           โสโส                                         นตฺถิ  ภนฺเต
+<span class="LineNumber"> 006 </span>           อปมาโร                                    นตฺถิ  ภนฺเต
+<span class="LineNumber"> 007 </span>           มนุสโสสิ๊                                   อาม  ภนฺเต
+<span class="LineNumber"> 008 </span>           ปุริโสสิ๊                                      อาม  ภนฺเต
+<span class="LineNumber"> 009 </span>           ภุชิสฺโสสิ๊                                    อาม  ภนฺเต
+<span class="LineNumber"> 010 </span>           อนโณสิ๊                                     อาม  ภนฺเต
+<span class="LineNumber"> 011 </span>           นสิ๊  ราชภโฏ                              อาม  ภนฺเต
+<span class="LineNumber"> 012 </span>           อนุฺาโตสิ๊  มาตาปิตูหิ           อาม  ภนฺเต
+<span class="LineNumber"> 013 </span>           ปริปุณฺณวีสติวสฺโสสิ๊                   อาม  ภนฺเต 
+<span class="LineNumber"> 014 </span>           ปริปุณฺณนฺเต  ปตฺตจีวรํ                 อาม  ภนฺเต
+<span class="LineNumber"> 015 </span>           กินฺนาโมสิ                                    อหํ  ภนฺเต----นาม
+<span class="LineNumber"> 016 </span>           โก  นาม  เต อุปชฺฌาโย                 อุปชฺฌาโย  เม  ภนฺเต  อายสฺมา----นาม
+<span class="LineNumber"> 017 </span>           บทว่า   " อิตฺถนฺนาม "   พึงเปลี่ยนตามชื่ออุปสัมปทาเปกขะ.
+<span class="LineNumber"> 018 </span>                                         คำแปล
+<span class="LineNumber"> 019 </span>           แน่ะผู้มีชื่อนี้  เจ้าฟังนะ  นี้เป็นกาลสัตย์กาลจริงของเจ้า  เมื่อ
+<span class="LineNumber"> 020 </span>ท่านถามในท่ามกลางสงฆ์ถึงสิ่งอันเกิดแล้ว  มีอยู่  พึงกล่าวว่ามี  ไม่มี
+<span class="LineNumber"> 021 </span>พึงกล่าวว่าไม่มี  เจ้าอย่ากระดากแล้วแล  เจ้าอย่าได้เป็นผู้เก้อแล้ว 
+           

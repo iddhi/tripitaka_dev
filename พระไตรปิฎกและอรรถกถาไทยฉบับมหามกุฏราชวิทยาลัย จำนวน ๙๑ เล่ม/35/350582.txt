@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                     <h1>กรรมวรรคที่  ๔  
+
+<span class="LineNumber"> 002 </span>	        ๑. สังขิตตสูตร</h1>
+<span class="LineNumber"> 003 </span>                                 <h2>ว่าด้วยกรรม ๔ ประเภท</h2>
+<span class="LineNumber"> 004 </span>            [๒๓๒]    ดูก่อนภิกษุทั้งหลาย  กรรม  ๔ ประเภทนี้ เราทำให้แจ้งด้วย
+<span class="LineNumber"> 005 </span>ปัญญาอันยิ่งด้วยตนเองแล้ว   จึงประกาศให้ทราบ  กรรม ๔ ประเภทเป็นไฉน
+<span class="LineNumber"> 006 </span>คือ  <B>กรรมดำ   มีวิบากดำก็มี   กรรมขาว   มีวิบากขาวก็มี        กรรมทั้งดำ
+<span class="LineNumber"> 007 </span>ทั้งขาว  มีวิบากทั้งดำทั้งขาวก็มี   กรรมไม่ดำไม่ขาว   มีวิบากไม่ดำ
+<span class="LineNumber"> 008 </span>ไม่ขาว  เป็นไปเพื่อสิ้นกรรมก็มี</B>   นี้แล  กรรม   ๔  ประเภท เราทำให้แจ้ง
+<span class="LineNumber"> 009 </span>ด้วยปัญญาอันยิ่งด้วยตนเองแล้ว   จึงประกาศให้ทราบ.
+<span class="LineNumber"> 010 </span>		  <I>จบสังขิตตสูตรที่  ๑</I>

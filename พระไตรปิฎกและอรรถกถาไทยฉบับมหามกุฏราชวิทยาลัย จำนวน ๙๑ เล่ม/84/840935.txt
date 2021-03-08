@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   โสมนัสสินทรีย์จักเกิดแก่บุคคลใด,   จักขุนทรีย์ก็เคย
+<span class="LineNumber"> 002 </span>เกิดแก่บุคคลนั้น  ใช่ไหม   ?
+<span class="LineNumber"> 003 </span>         ใช่. 
+<span class="LineNumber"> 004 </span>                       <I>จบ   จักขุนทริยมูละ   โสมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 005 </span><B>จักขุนทริยมูละ  อุเปกขินทริยมูลี:-</B>
+<span class="LineNumber"> 006 </span>         [๑๒๒๙]   จักขุนทรีย์เคยเกิดแก่บุคคลใด,       อุเปกขินทรีย์ก็จัก
+<span class="LineNumber"> 007 </span>เกิดแก่บุคคลนั้น  ใช่ไหม   ?
+<span class="LineNumber"> 008 </span>         เมื่อปัจฉิมภวิกบุคคลเหล่านั้นเกิดอยู่ก็ดี       บุคคลเหล่าใดมีโสม-
+<span class="LineNumber"> 009 </span>นัสสะเกิดแล้วจักปรินิพพานก็ดี       จักขุนทรีย์เคยเกิดแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 010 </span>แต่อุเปกขินทรีย์ไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,  บุคคลนอกนี้  จักขุนทรีย์
+<span class="LineNumber"> 011 </span>เคยเกิด   และอุเปกขินทรีย์ก็จักเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า  อุเปกขินทรีย์จักเกิดแก่บุคคลใด,   จักขุนทรีย์ก็เคยเกิด
+<span class="LineNumber"> 013 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>                        <I>จบ   จักขุนทริยมูละ    อุเปกขินทริยมูลี</I>

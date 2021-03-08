@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>๕.  สมนันตรปัจจัย    ฯลฯ     ๘.  นิสสยปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>ฯลฯ    เป็นปัจจัย   ด้วยอำนาจของสมนันตรปัจจัย</B>
+<span class="LineNumber"> 003 </span>         <B>ฯลฯ    เป็นปัจจัย   ด้วยอำนาจของสหชาตปัจจัย</B>   มี ๕ วาระ
+<span class="LineNumber"> 004 </span>         <B>ฯลฯ    เป็นปัจจัย   ด้วยอำนาจของอัญญมัญญปัจจัย</B>  มี ๒ วาระ
+<span class="LineNumber"> 005 </span>         <B>ฯลฯ    เป็นปัจจัย   ด้วยอำนาจของนิสสยปัจจัย</B>   มี ๗ วาระ
+
+<span class="LineNumber"> 006 </span>                                     <H2>๙.  อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 007 </span>         [๘๖๘] ๑.  <B>สรณธรรม  เป็นปัจจัยแก่สรณธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 008 </span>ของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 009 </span>         มี ๓ อย่าง คือที่เป็น  <B>อารัมมณูปนิสสยะ  อนันตรูปนิสสยะ</B>    และ
+<span class="LineNumber"> 010 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 011 </span>         ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 012 </span>         บุคคลเข้าไปอาศัยราคะแล้วฆ่าสัตว์ ฯลฯ   ทำลายสงฆ์.
+<span class="LineNumber"> 013 </span>         บุคคลเข้าไปอาศัยโทสะ ฯลฯ     ความปรารถนาแล้ว      ฆ่าสัตว์ ฯลฯ
+<span class="LineNumber"> 014 </span>ทำลายสงฆ์.
+<span class="LineNumber"> 015 </span>         ราคะ ฯลฯ    ความปรารถนา    เป็นปัจจัยแก่ราคะ ฯลฯ    แก่ความ
+<span class="LineNumber"> 016 </span>ปรารถนา   ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 017 </span>                     ๒.  <B>สรณธรรม  เป็นปัจจัยแก่อรณธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 018 </span>ของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 019 </span>         มี ๒ อย่าง  คือที่เป็น  <B>อนันตรูปนิสสยะ</B>  และ  <B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 020 </span>         ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่

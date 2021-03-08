@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>สัทธินทริยมูล</H1>
+<span class="LineNumber"> 002 </span>          ธรรมที่ชื่อว่าสัทธา,  ชื่อว่า   สัทธินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>ธรรมที่ชื่อว่าอินทรีย์,   ชื่อว่า   จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>                                   ฯ ล ฯ
+<span class="LineNumber"> 005 </span>ธรรมที่ชื่อว่าอินทรีย์, ชื่อว่า   อัญญาตาวินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>                         <I>สัทธินทริยมูล   จบ</I>
+
+<span class="LineNumber"> 007 </span>                             <H1>วิริยินทริยมูล</H1>
+<span class="LineNumber"> 008 </span>          ธรรมที่ชื่อว่าวิริยะ,   ชื่อว่า   วิริยินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>ธรรมที่ชื่อว่าอินทรีย์,  ชื่อว่า  จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>                                  ฯ ล ฯ
+<span class="LineNumber"> 011 </span>ธรรมที่ชื่อว่าอินทรีย์    ชื่อว่า  อัญญาตาวินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>                          <I>วิริยินทริยมูล  จบ</I> 

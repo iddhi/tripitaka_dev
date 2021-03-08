@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        สนธิ
+<span class="LineNumber"> 002 </span>	<B>สนธิ</B>  แปลว่า  ต่อ คือต่อศัพท์และอักขระ  ให้เนื่องกันด้วย
+<span class="LineNumber"> 003 </span>อักขระ  เพื่อประโยชน์  ๓ ประการ คือ:-  
+<span class="LineNumber"> 004 </span>	๑.  ย่นอักขระให้น้อยลง. 
+<span class="LineNumber"> 005 </span>	๒.  เป็นอุปการะในการแต่งฉันท์.
+<span class="LineNumber"> 006 </span>	๓.  ทำคำพูดให้สลสลวย.
+<span class="LineNumber"> 007 </span>	สนธิ  ต่างจากสมาส  เพราะสนธิต่อศัพท์และอักขระให้เนื่องด้วย
+<span class="LineNumber"> 008 </span>อักขระ  ส่วนสมาส  ย่อบทที่มีวิภัตติตั้งแต่  ๒ บทขึ้นไปให้เป็นบทเดียว
+<span class="LineNumber"> 009 </span>กัน เช่น  กโต  อุปกาโร  เมื่อเอาบททั้ง ๒ นี้ย่อเข้ากันเป็น  กตอุปกาโร
+<span class="LineNumber"> 010 </span>นี้ชื่อว่าสมาส  แต่คำว่า  กตอุปกาโร  นี้ ยังมีอักขระมากไปและเป็นคำที่
+<span class="LineNumber"> 011 </span>ไม่สละสลวยตามความนิยมของภาษา  จึงต้องต่อด้วยวิธีสนธิ  เพื่อ
+<span class="LineNumber"> 012 </span>ย่นอักษรให้น้อยลงอีก  คือ  เอา กต=อุปกาโร  มาต่อกันเข้า  เป็น
+<span class="LineNumber"> 013 </span>กโตปกาโร  นี้ชื่อว่าสนธิ.
+<span class="LineNumber"> 014 </span>	ในที่นี้จะอธิบายเรื่องของสนธิโดยเฉพาะ  สนธินั้น  โดยย่อมี ๓
+<span class="LineNumber"> 015 </span>คือ สระสนธิ ๑  พยัญชนะสนธิ ๑  นิคคหิตสนธิ ๑.
+<span class="LineNumber"> 016 </span>	และสนธิกิริโยปรกณ์  คือ วิธีที่ใช้เป็นเครื่องมือแก่การทำสนธิ
+<span class="LineNumber"> 017 </span>นั้นมี ๘  อย่าง คือ :-
+<span class="LineNumber"> 018 </span>	โลโป  ลบ ๑  อาเทโส  แปลง ๑ อาคโม  ลงตัวอักษรใหม่ ๑
+<span class="LineNumber"> 019 </span>วิกาโร  ทำให้ผิดจากของเดิม ๑ ปกติ  ปกติ ๑  ทีโฆ  ทำให้ยาว ๑
+<span class="LineNumber"> 020 </span>รสฺสํ  ทำให้สั้น  ๑ สญฺโโค  ซ้อนตัว ๑.

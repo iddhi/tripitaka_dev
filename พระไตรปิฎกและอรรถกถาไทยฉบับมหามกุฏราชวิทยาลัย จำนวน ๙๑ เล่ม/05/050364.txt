@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>          ที่ชื่อว่า  <B>ของฉัน</B>    ได้แก่โภชนะ ๕  คือ ข้าวสุก  ๑  ขนมสด ๑  ขนม
+<span class="LineNumber"> 002 </span>แห้ง  ๑   ปลา ๑   เนื้อ ๑.
+<span class="LineNumber"> 003 </span>          รับประเคนไว้ด้วยหมายใจว่าจักเคี้ยว   จักฉัน   ต้องอาบัติทุกกฏ   ฉัน
+<span class="LineNumber"> 004 </span>ต้องอาบัติปาจิตตีย์  ทุก ๆ  คำกลืน.
+
+<span class="LineNumber"> 005 </span>                                             <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 006 </span>                                           <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 007 </span>          [๓๔๔]  ทายกนิมนต์แล้ว   ภิกษุณีสำคัญว่านิมนต์แล้ว  เคี้ยวก็ดี  ฉัน
+<span class="LineNumber"> 008 </span>ก็ดี  ซึ่งของเคี้ยว  หรือของฉัน  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 009 </span>          ทายกนิมนต์แล้ว   ภิกษุณีสงสัย  เคี้ยวก็ดี  ฉันก็ดี  ซึ่งของเคี้ยว หรือ
+<span class="LineNumber"> 010 </span>ของฉัน    ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 011 </span>          ทายกนิมนต์แล้ว   ภิกษุณีสำคัญว่ามิได้นิมนต์  เคี้ยวก็ดี  ฉันก็ดี  ซึ่ง
+<span class="LineNumber"> 012 </span>ของเคี้ยว  หรือของฉัน  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 013 </span>                                            <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 014 </span>          รับประเคนยามกะลิก   สัตตาหกาลิก    ยาวชีวิก   ไว้เพื่อประสงค์เป็น
+<span class="LineNumber"> 015 </span>อาหาร  ต้องอาบัติทุกกฏ  ฉัน  ต้องอาบัติทุกกฏ  ทุก ๆ  คำกลืน.
+
+<span class="LineNumber"> 016 </span>                                         <H2>อนาปัตติวาร</H2> 
+<span class="LineNumber"> 017 </span>          [๓๔๕]  ทายกไม่ได้นิมนต์  ๑  ไม่ได้ห้ามภัต  ๑   ดื่มยาคู  ๑  บอกเจ้า
+<span class="LineNumber"> 018 </span>ของแล้วฉัน  ๑   เมื่อเหตุจำเป็นมี   ฉันยามกาลิก    สัตตาหกาลิก    ยาวชีวิก ๑
+<span class="LineNumber"> 019 </span>วิกลจริต  ๑   อาทิกัมมิกา ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 020 </span>                              <I>อารามวรรค  สิกขาบทที่  ๔  จบ</I>

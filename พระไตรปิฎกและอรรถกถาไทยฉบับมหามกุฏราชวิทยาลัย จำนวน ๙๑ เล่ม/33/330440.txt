@@ -1,0 +1,28 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>สนิมิตตวรรคที่  ๓</H2>
+
+<span class="LineNumber"> 002 </span>                           <H3>สูตรที่  ๑</H3>
+
+<span class="LineNumber"> 003 </span>         [๓๒๒] ๗๖.  ดูก่อนภิกษุทั้งหลาย    ธรรมที่เป็นบาปอกุศล  มี
+<span class="LineNumber"> 004 </span>นิมิตจึงเกิดขึ้น  ไม่มีนิมิตไม่เกิดขึ้น   เพราะละนิมิตนั้นเสีย    ธรรมที่เป็น 
+<span class="LineNumber"> 005 </span>อกุศลเหล่านั้นจึงไม่มี  ด้วยประการดังนี้ .
+<span class="LineNumber"> 006 </span>                                                   จบสูตรที่ ๑
+
+<span class="LineNumber"> 007 </span>                           <H3>สูตรที่ ๒</H3>
+<span class="LineNumber"> 008 </span>         [๓๒๓]  ๗๗.  ดูก่อนภิกษุทั้งหลาย    ธรรมที่เป็นบาปอกุศล   มี
+<span class="LineNumber"> 009 </span>นิทานจึงเกิดขึ้น   ไม่มีนิทานไม่เกิดขึ้น   เพราะละนิทานนั้นเสีย   ธรรมที่
+<span class="LineNumber"> 010 </span>เป็นบาปอกุศลเหล่านั้นจึงไม่มี  ด้วยประการดังนี้.
+<span class="LineNumber"> 011 </span>                                                จบสูตรที่ ๒
+
+<span class="LineNumber"> 012 </span>                           <H3>สูตรที่ ๓</H3>
+
+<span class="LineNumber"> 013 </span>         [๓๒๔] ๗๘.  ดูก่อนภิกษุทั้งหลาย    ธรรมที่เป็นบาปอกุศล   มี
+<span class="LineNumber"> 014 </span>เหตุจึงเกิดขึ้น    ไม่มีเหตุไม่เกิดขึ้น  เพราะละเหตุนั้นเสีย    ธรรมที่เป็นบาป
+<span class="LineNumber"> 015 </span>อกุศลเหล่านั้นจึงไม่มี   ด้วยประการดังนี้.
+<span class="LineNumber"> 016 </span>                                                 จบสูตรที่  ๓
+
+<span class="LineNumber"> 017 </span>                                 <H3>สูตรที่ ๔</H3>
+
+<span class="LineNumber"> 018 </span>         [๓๒๕] ๗๙.  ดูก่อนภิกษุทั้งหลาย     ธรรมที่เป็นบาปอกุศล  มี
+<span class="LineNumber"> 019 </span>เครื่องปรุงจึงเกิดขึ้น   ไม่มีเครื่องปรุงไม่เกิดขึ้น    เพราะละเครื่องปรุงนั้น
+<span class="LineNumber"> 020 </span>เสีย  ธรรมที่เป็นบาปอกุศลเหล่านั้นจึงไม่มี  ด้วยประการดังนี้.
+<span class="LineNumber"> 021 </span>                                                   จบสูตรที่  ๔

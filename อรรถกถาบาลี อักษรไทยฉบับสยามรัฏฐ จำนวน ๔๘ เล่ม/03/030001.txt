@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>					*เล่มที่  ๓  หน้า ๑
+
+<span class="LineNumber"> 002 </span>			สมนฺตปาสาทิกา นาม วินยฏฺ€กถา   
+<span class="LineNumber"> 003 </span>				มหาวคฺควณฺณนา  
+					
+<span class="LineNumber"> 004 </span>				มหาขนฺธกวณฺณนา  
+<span class="LineNumber"> 005 </span>				__________________  
+<span class="LineNumber"> 006 </span>  อุภินฺนํ ปาฏิโมกฺขานํ   	สงฺคีติสมนนฺตรํ
+<span class="LineNumber"> 007 </span>  สงฺคายึสุ มหาเถรา   		ขนฺธกํ ขนฺธโกวิทา ฯ
+<span class="LineNumber"> 008 </span>  ยํ ตสฺสทานิ สมฺปตฺโต  	ยสฺมา สํวณฺณนากฺกโม  
+<span class="LineNumber"> 009 </span>  ตสฺมา โหติ อยนฺตสฺส  	อนุตฺตานตฺถวณฺณนา ฯ
+<span class="LineNumber"> 010 </span>  ปทภาชนิเย อตฺถา  		เย หิ เยสํ ปกาสิตา ฯ
+<span class="LineNumber"> 011 </span>  เต เจ ปุน วเทยฺยาม  		ปริโยสานํ กทา ภเว ฯ 
+<span class="LineNumber"> 012 </span>  อุตฺตานา เจว เย อตฺถา  	เตสํ สํวณฺณนาย กึ  
+<span class="LineNumber"> 013 </span>  อธิปฺปายานุสนฺธีหิ   	พฺยฺชเนน จ เย ปน ฯ   
+<span class="LineNumber"> 014 </span>  อนุตฺตานา น เต ยสฺมา  	สกฺกา าตุํอวณฺณิตา
+<span class="LineNumber"> 015 </span>  เตสํเยว อยํ ตสฺมา   		โหติ สํวณฺณนานโยติ ฯ
+<span class="LineNumber"> 016 </span>  	เตน  สมเยน  พุทฺโธ  ภควา  อุรุเวลายํ  วิหรติ  นชฺชา  
+<span class="LineNumber"> 017 </span>เนรฺชราย  ตีเร  โพธิรุกฺขมูเล  ป€มาภิสมฺพุทฺโธติ  เอตฺถ  กิฺจาปิ  
+<span class="LineNumber"> 018 </span>เตน  สมเยน  พุทฺโธ  ภควา  เวรฺชายนฺติอาทีสุ  วิย  กรณวจเนน  
+<span class="LineNumber"> 019 </span>วิเสสการณํ  นตฺถิ  วินยํ  ปตฺวา  ปน  กรณวจเนเนว  อยมภิลาโป  
+<span class="LineNumber"> 020 </span>อาโรปิโตติ  อาทิโต  ปฏฺ€าย  อารูฬฺหาภิลาปวเสเนเวตํ  วุตฺตนฺติ
+<span class="LineNumber"> 021 </span>เวทิตพฺพํ  ฯ  เอส  นโย  อฺเสุปิ  อิโต  ปเรสุ  เอวรูเปสุ  ฯ  

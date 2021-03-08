@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>ภวราคานุสยมูล</H2> 
+<span class="LineNumber"> 002 </span><H2>ภวราคานุสยมูละ อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 003 </span>         [๑๓๑๕]   บุคคลใดมีความนอนเนื่องอยู่ด้วยภวราคานุสัย  จาก
+<span class="LineNumber"> 004 </span>ที่ใด,   บุคคลนั้น     ก็มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย    จากที่นั้น
+<span class="LineNumber"> 005 </span>ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า    บุคคลใดมีความนอนเนื่องอยู่ด้วยอวิชชานุสัย    จาก
+<span class="LineNumber"> 008 </span>ที่ใด,   บุคคลนั้น   ก็มีความนอนเนื่องอยู่ด้วยภวราคานุสัย     จากที่นั้น
+<span class="LineNumber"> 009 </span>ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         บุคคล  ๔  จำพวก  มีความนอนเนื่องอยู่ที่เวทนา  ๓ ในกามธาตุ
+<span class="LineNumber"> 011 </span>บุคคล  ๔  จำพวกเหล่านั้น   มีความนอนเนื่องอยู่ด้วยอวิชชานุสัย   จาก
+<span class="LineNumber"> 012 </span>ที่นั้น    แต่บุคคลเหล่านั้น    ไม่ใช่มีความนอนเนื่องอยู่ด้วยภวราคานุสัย
+<span class="LineNumber"> 013 </span>จากที่นั้น,      บุคคลเหล่านั้นนั่นแหละ     มีความนอนเนื่องอยู่ที่รูปธาตุ

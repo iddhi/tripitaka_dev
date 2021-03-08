@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>    
+<span class="LineNumber"> 002 </span>           [๑๔๒]  ในเหตุปัจจัย  มี  ๑ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                    <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                               <H2>๑. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๑๔๓] ๑. <B>ธรรมที่เป็นสัปปัจจยธรรม  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 007 </span>ที่ไม่ใช่อัปปัจจยธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 008 </span>                      ๒.  <B>ธรรมที่เป็นอัปปัจจยธรรม  เป็นปัจจัยแก่ธรรมที่
+<span class="LineNumber"> 009 </span>ไม่ใช่อัปปัจจยธรรม  ด้วยอำนาจของอารัมมณปัจจัย  ฯลฯ</B>
+<span class="LineNumber"> 010 </span>                          <I>สัปปัจจยทุกนสัปปัจจยทุกะ  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                <H1>๘.  สังขตทุกนสังขตทุกะ</H1>
+<span class="LineNumber"> 012 </span>           เหมือนกับสัปปัจจยทุกะ
+<span class="LineNumber"> 013 </span>                               <I>สังขตทุกนสังขตทุกะ  จบ</I> 

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                อุปกรณ์กัมมัฏฐาน  
+<span class="LineNumber"> 002 </span>                       มหาสติปัฏฐานคิริมานนทสูตร
+<span class="LineNumber"> 003 </span>                      นักธรรมและธรรมศึกษาชั้นเอก
+	
+<span class="LineNumber"> 004 </span>                               หัวใจสมถกัมมัฏฐาน
+<span class="LineNumber"> 005 </span>	มีพระบรมพุทโธวาทว่า  <B>สมาธึ  กิกฺขเว  กเวถ  สมาหิโต 
+<span class="LineNumber"> 006 </span>ยถาภูตํ  ปชานาติ</B> แปลว่า  ภิกษุทั้งหลาย  ท่านทั้งหลายจงยังสมาธิ
+<span class="LineNumber"> 007 </span>ให้เกิด  ชนผู้มีจิตเป็นสมาธิแล้ว  ย่อมรู้ตามความเป็นจริง.
+<span class="LineNumber"> 008 </span>	อาการกายวาจาจะเป็นไปอย่างไร  ย่อมสำเร็จมาจากใจเป็นผู้
+<span class="LineNumber"> 009 </span>บัญชา  ถ้าใจได้รับการอบรมดี  ก็บังคับบัญชากายวาจาให้ดีไปตาม  ถ้าใจ
+<span class="LineNumber"> 010 </span>ชั่ว  ก็บังคับบัญชาให้ชั่วไปตาม  ใจเป็นใหญ่  ท่านจึงสอนให้ทำ
+<span class="LineNumber"> 011 </span>สมาธิให้เกิด  เมื่อใจเป็นสมาธิ  แม้จะนำไปใช้นึกคิดอะไรก็ละเอียด
+<span class="LineNumber"> 012 </span>สุขุม  ย่อมรู้จักความเป็นจริงได้ดีกว่าผู้มีใจไม่เป็นสมาธิ  ใจที่ไม่เป็น
+<span class="LineNumber"> 013 </span>สมาธิบางคราวอาจทำให้เสียคนไปก็ได้  เช่นเป็นคนเสียสติ  เพราะไม่มี
+<span class="LineNumber"> 014 </span>อะไรเป็นเครื่องควบคุม.
+<span class="LineNumber"> 015 </span>	ในหัวใจสมถกัมมัฏฐานนี้  แต่ละข้อก็เป็นอุบายเครื่องอบรมจิต
+<span class="LineNumber"> 016 </span>ให้เป็นสมาธิ  ท่านยกขึ้นเป็นหัวข้อไว้  ๕  คือ  :-
+<span class="LineNumber"> 017 </span>	๑.  <B>กายคตาสติ</B>.
+<span class="LineNumber"> 018 </span>	๒.  <B>เมตตา</B>.

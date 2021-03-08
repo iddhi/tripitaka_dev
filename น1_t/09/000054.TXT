@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>คงไม่พ้นทุกกฏ. 
+<span class="LineNumber"> 002 </span>                                                            ๒๔๖๓
+<span class="LineNumber"> 003 </span>	ถ.  สิกขาบทที่ ๖  กับที่ ๗  แห่งสังฆาทิเสส  มีเนื้อความต่างกัน
+<span class="LineNumber"> 004 </span>อย่างไร ?
+<span class="LineNumber"> 005 </span>	ต.  ต่างกันอย่างนี้  สิกขาบทที่ ๖  ความว่า  กุฎีไม่มีผู้ใดเป็นเจ้า
+<span class="LineNumber"> 006 </span>ของ  ภิกษุทำเองก็ตาม  ให้ผู้อื่นทำก็ตาม  เฉพาะเป็นที่อยู่ของตน
+<span class="LineNumber"> 007 </span>พึงทำให้ได้ประมาณ  โดยยาว ๑๒ คืบ<sup>๑</sup>  โดยกว้าง ๗ คืบ<sup>๒</sup>  ด้วยคืบสุคต
+<span class="LineNumber"> 008 </span>ถ้าทำให้ใหญ่กว่านี้  ต้องอาบัติสังฆาทิเสส  แต่สิกขาบทที่ ๗  กุฎีมีทายก
+<span class="LineNumber"> 009 </span>เป็นเจ้าของ  ภิกษุทำให้เกินประมาณก็ได้  ไม่ต้องอาบัติ.
+<span class="LineNumber"> 010 </span>                                                                ๒๔๘๕
+<span class="LineNumber"> 011 </span>	ถ.  มีทายกมาหาภิกษุและกล่าวว่า  เขามีใจศรัทธาจะสร้างกุฎี
+<span class="LineNumber"> 012 </span>ให้เธออยู่แล้ว  เธอจะต้องประสงค์กุฎีนี้กว้างยาวเพียงใด  เธอไปขอให้สงฆ์
+<span class="LineNumber"> 013 </span>แสดงที่ให้เธอแล้ว  และบอกทายกว่า  เธอจะต้องประสงค์กุฎีนั้น
+<span class="LineNumber"> 014 </span>ยาว ๑๔ คืบพระสุคต  กว้าง ๙ คืบพระสุคต  (เกินกำหนด)  ควร
+<span class="LineNumber"> 015 </span>ปรับอาบัติเธอเพียงไร ?
+<span class="LineNumber"> 016 </span>	ต.  ไม่ควรปรับอาบัติอย่างใดอย่างหนึ่งเลย  เพราะกุฎีนั้นมีทายก
+<span class="LineNumber"> 017 </span>เป็นเจ้าของ  ทำให้เกินประมาณได้.
+<span class="LineNumber"> 018 </span>                                                               ๒๔๕๘
+<span class="LineNumber"> 019 </span>	ถ.  ภิกษุสร้างโรงเรียนทำได้ขนาด  แต่ไม่ได้ให้สงฆ์แสดงที่ให้
+
+<span class='footnote'>๑. เทียบนิ้วช่างไม้ยาว ๘ ศอก ๑ นิ้ว ๒ กะเบียด  กว้าง ๔ ศอก ๑ คืบ ๔นิ้ว ๓ กะเบียด</span>
+<span class='footnote'>๒. อนุกะเบียด  เทียบเซ็นติเมตรยาว ๔ เมตร ๓ เซ็นติเมตรกับ ๑ มิลิเมตร  กว้าง ๒ เมตร</span>
+<span class='footnote'>๓๕ เซ็นติเมตรกับ ๑ มิลลิเมตร.  ส. ป.</span>

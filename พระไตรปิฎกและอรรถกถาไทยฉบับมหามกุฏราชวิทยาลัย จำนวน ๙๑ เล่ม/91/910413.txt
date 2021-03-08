@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>๑๓.  ปริตตารัมมณติกนปริตตารัมมณติกะ</H1> 
+<span class="LineNumber"> 002 </span>                                   <H2>ปฏิจจวาระ</H2>  
+<span class="LineNumber"> 003 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๙๗] ๑.  <B>ธรรมที่ไม่ใช่ปริตตารัมมณธรรม อาศัยธรรมที่เป็น
+<span class="LineNumber"> 006 </span>ปริตตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 007 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๙๘]  ในเหตุปัจจัย  มี  ๒๑ วาระ ฯลฯ  ในอวิคตปัจจัย มี ๒๑ วาระ.
+<span class="LineNumber"> 009 </span>                    <I>ปริตตารัมมณติกนปริตตารัมมณติกะ  จบ</I>

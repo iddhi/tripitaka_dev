@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>อัตถิ  อวิคตปัจจัย  ในนเหตุปัจจัย มี ๗ วาระ ฯลฯ  ในโนวิคตปัจจัย 
+<span class="LineNumber"> 002 </span>มี ๗ วาระ
+<span class="LineNumber"> 003 </span>           <B>๑๑.  เพราะปัจจัย ๗</B> คือ  ฌานะ  สหชาตะ  อัญญมัญญะ  นิสสยะ 
+<span class="LineNumber"> 004 </span>อินทริยะ  อัตถิ  อวิคตปัจจัย  ในนเหตุปัจจัย  มี ๓ วาระ ฯลฯ
+<span class="LineNumber"> 005 </span>           <B>๑๒.  เพราะปัจจัย ๘</B> คือ  ฌานะ  สหชาตะ  อัญญมัญญะ  นิสสยะ
+<span class="LineNumber"> 006 </span>อินทริยะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  ในนเหตุปัจจัย  มี ๓ วาระ ฯลฯ
+<span class="LineNumber"> 007 </span>ในโนวิคตปัจจัย  มี ๓ วาระ.            
+<span class="LineNumber"> 008 </span>           <B>๑๓. เพราะปัจจัย ๗</B>  คือ  ฌานะ   สหชาตะ  นิสสยะ อินทริยะ
+<span class="LineNumber"> 009 </span>วิปปยุตตะ  อัตถิ  อวิคตปัจจัย  ในนเหตุปัจจัย   มี ๑ วาระ ฯลฯ  ในโน-
+<span class="LineNumber"> 010 </span>วิคตปัจจัย   มี ๓ วาระ.    
+<span class="LineNumber"> 011 </span>           <B>๑๔. เพราะปัจจัย ๗</B>  คือ ฌานะ  สหชาตะ  นิสสยะ  อินทริยะ
+<span class="LineNumber"> 012 </span>อินทริยะ  อัตถิ  อวิคตปัจจัย  ในนเหตุปัจจัย  ในนเหตุปัจจัย มี ๑ วาระ ฯลฯ ในโน-
+<span class="LineNumber"> 013 </span>วิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 014 </span>           <B>๑๕. เพราะปัจจัย ๘</B> คือ ฌานะ สหชาตะ อัญญมัญญะ  นิสสยะ   
+<span class="LineNumber"> 015 </span>วิปากะ อินทริยะ อัตถิ อวิคตปัจจัย ในนเหตุปัจจัย มี ๑ วาระ ฯลฯ
+<span class="LineNumber"> 016 </span>ในโนวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 017 </span>           <B>๑๖. เพราะปัจจัย ๙</B> คือ  ฌานะ สหชาตะ อัญญมัญญะ
+<span class="LineNumber"> 018 </span>นิสสยะ วิปกาะ อินทริยะ สัมปยุตต อัตถิ  อวิคตปัจจัย ในนเหตุ-
+<span class="LineNumber"> 019 </span>ปัจจัย มี ๑ วาระ ฯลฯ ในโนวิคตปัจจัย   มี ๑ วาระ.
+

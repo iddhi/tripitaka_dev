@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อุปาลิตฺเถรคาถาวณฺณนา  หน้า 781
+	
+<span class="LineNumber"> 002 </span>		โปราณกวํสธโร		อุคฺคเตโช ทุราสโท  
+<span class="LineNumber"> 003 </span>		ธุตวาทิคุเณ อคฺโค	อกฺขทสฺโส ตวํ มุเน ฯ  
+<span class="LineNumber"> 004 </span>		พหุสฺสุโต ธมฺมธโร	สพฺพปา€ี จ สาสเน  
+<span class="LineNumber"> 005 </span>		อานนฺโท นาม นาเมน	ธมฺมรกฺโข  ตวํ มุเน ฯ  
+<span class="LineNumber"> 006 </span>		เอเต สพฺเพ อติกฺกมฺม	มเหสี ภควา มมํ  
+<span class="LineNumber"> 007 </span>		วินิจฺฉยํ เม ปาทาสิ	วินเย วิฺุเทสิตํ ฯ (๑)  
+<span class="LineNumber"> 008 </span>		โย โกจิ วินเย ปฺหํ	ปุจฺฉติ พุทฺธสาวโก  
+<span class="LineNumber"> 009 </span>		ตตฺถ เม จินฺตนา นตฺถิ	ตฺเวตฺถํ กเถมหํ ฯ  
+<span class="LineNumber"> 010 </span>		ยาวตา พุทฺธเขตฺตมฺหิ	€เปตฺวา จ มหามุนิ (๒)  
+<span class="LineNumber"> 011 </span>		วินเย มาทิโส นตฺถิ	กุโต ภิยฺโย ภวิสฺสติ ฯ  
+<span class="LineNumber"> 012 </span>		ภิกฺขุสงฺเฆ นิสีทิตฺวา	เอวํ คชฺชติ โคตโม  
+<span class="LineNumber"> 013 </span>		อุปาลิสฺส สโม นตฺถิ	วินเย ขนฺธเกสุ จ ฯ  
+<span class="LineNumber"> 014 </span>		ยาวตา พุทฺธภณิตํ		นวงฺคํ สตฺถุสาสนํ  
+<span class="LineNumber"> 015 </span>		วินเย กถิตํ(๓) สพฺพํ 	วินยมูลปสฺสิโน ฯ (๔)  
+<span class="LineNumber"> 016 </span>		มม กมฺมํ สริตฺวาน	โคตโม สกฺยปุงฺคโว  
+<span class="LineNumber"> 017 </span>		ภิกฺขุสงฺเฆ นิสีทิตฺวา	เอตทคฺเค €เปสิ มํ ฯ  
+<span class="LineNumber"> 018 </span>		สตสหสฺสํ อุปาทาย(๕)	อิมํ €านํ อปตฺถยึ  
+<span class="LineNumber"> 019 </span>		โส เม อตฺโถ อนุปฺปตฺโต	วินเย ปารมึ คโต ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. วินยฺูน เทสิตํ ฯ  ๒. ม. ยุ. ตํ มหามุนิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ยุ. วินโยคธํ ตํ ฯ  ๔. สี. วินโย มูลํ ตปสฺสิโน ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. สตสหสฺสุปาทาย ฯ

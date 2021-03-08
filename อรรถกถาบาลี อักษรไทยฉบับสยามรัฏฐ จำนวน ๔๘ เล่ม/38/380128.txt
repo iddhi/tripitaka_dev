@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  38    หน้า  128
+
+<span class="LineNumber"> 002 </span>		 		คุหฏฺ€กสุตฺตนิทฺเทสวณฺณนา  
+
+<span class="LineNumber"> 003 </span>	ทุติเย  สตฺโตติ  ลคฺโค ฯ  คุหายนฺติ  กาเย ฯ  กาโย  หิ 
+<span class="LineNumber"> 004 </span>ราคาทีนํ  วาฬานํ  วสโนกาสโต  คุหาติ  วุจฺจติ ฯ  พหุนาภิฉนฺโนติ 
+<span class="LineNumber"> 005 </span>พหุนา ราคาทิกิเลสชาเตน  อภิจฺฉนฺโน ฯ  เอเตน  อชฺฌตฺตพนฺธนํ  
+<span class="LineNumber"> 006 </span>วุตฺตํ ฯ  ติฏฺ€นฺติ  ราคาทิวเสน  ติฏฺ€นฺโต ฯ โมหนสฺมึ  
+<span class="LineNumber"> 007 </span>ปคาโฬฺหติ  โมหนํ วุจฺจติ กามคุโณ ฯ เอตฺถ หิ เทวมนุสฺสา
+<span class="LineNumber"> 008 </span>มุยฺหนฺติ เตสุ อชฺโฌคาฬฺหา (๑) หุตฺวา ฯ  เอเตน  พาหิรพนฺธนํ (๒)
+<span class="LineNumber"> 009 </span>วุตฺตํ ฯ  ทูเร  วิเวกา  หิ  ตถาวิโธ โสติ  โส  ตถารูโป  นโร  ติวิธาปิ 
+<span class="LineNumber"> 010 </span>กายวิเวกาทิกา  วิเวกา  ทูเร  อนาสนฺเน ฯ  กึ  การณํ  (๓) กามา  หิ 
+<span class="LineNumber"> 011 </span>โลเก  น  หิ  สุปฺปหายาติ  ยสฺมา  โลเก  กามา สุปฺปหายา  
+<span class="LineNumber"> 012 </span>น โหนฺติ (๔) ตสฺมาติ วุตฺตํ โหติ ฯ  
+<span class="LineNumber"> 013 </span>	สตฺโตติ  หิ  โข  วุตฺตนฺติ  สตฺโต นโร มานโวติ เอวมาทินา 
+<span class="LineNumber"> 014 </span>นเยน กถิโตเยว ฯ  คุหายนฺติ  (๕)  คุหา  ตาว  วตฺตพฺพาติ  คุหา 
+<span class="LineNumber"> 015 </span>ตาว  กเถตพฺพา ฯ  กาโยติ วาติอาทีสุ  อยํ  ตาว  ปทโยชนา 
+<span class="LineNumber"> 016 </span>กาโยอิติ  วา  คุหาอิติ  วา  ฯเปฯ  กุมฺโภอิติ  วาติ ฯ  ตตฺถ 
+<span class="LineNumber"> 017 </span>กาโยติ  กุจฺฉิตานํ  อาโยติ  กาโยติอาทินา  เหฏฺ€า  สติปฏฺ€านกถายํ  
+<span class="LineNumber"> 018 </span>วุตฺโตเยว ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. อชฺโฌคาฬฺหา ฯ  ๒. ม. พาหิรพนฺธนํ ฯ  ๓. ม. กึการณา ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. น โหนฺติ ตสฺมาติ ฯ  ๕. ม. คุหายนฺติ นตฺถิ ฯ

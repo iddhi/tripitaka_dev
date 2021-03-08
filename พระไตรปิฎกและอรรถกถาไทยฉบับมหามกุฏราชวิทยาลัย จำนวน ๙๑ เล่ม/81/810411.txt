@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>หรือ ? 
+<span class="LineNumber"> 002 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                       ส. ชิวหาวิญญาณอันนั้น   กายวิญญาณก็อันนั้นแหละ  หรือ ? 
+<span class="LineNumber"> 004 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 005 </span>         [๑๕๖๗]  ป. ไม่พึงกล่าวว่า  วิญญาณ  ๕ เกิดขึ้นในลำดับแห่งกัน
+<span class="LineNumber"> 006 </span>และกัน หรือ ?
+<span class="LineNumber"> 007 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                       ป. บุคคลบางคน   ฟ้อนรำ  ขับร้อง  บรรเลงดนตรีเห็นรูป
+<span class="LineNumber"> 009 </span>ด้วย  ฟังเสียงด้วย   สูดกลิ่นด้วย  ลิ้มรสด้วย  ถูกต้องโผฏฐัพพะด้วย   ใน
+<span class="LineNumber"> 010 </span>ขณะเดียวกัน  มีอยู่   มิใช่ หรือ ?
+<span class="LineNumber"> 011 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ป. หากว่า   บุคคลบางคน   ฟ้อนรำ ขับร้อง บรรเลงดนตรี
+<span class="LineNumber"> 013 </span>เห็นรูปด้วย   ฟังเสียงด้วย    กลิ่นด้วย  ลิ้มรสด้วย  ถูกต้องโผฏฐัพพะด้วย
+<span class="LineNumber"> 014 </span>ในขณะเดียวกัน   มีอยู่   ด้วยเหตุนั้นนะท่านจึงต้องกล่าวว่า  วิญญาณ  ๕
+<span class="LineNumber"> 015 </span>เกิดขึ้นในลำดับแห่งกันและกันแล.
+<span class="LineNumber"> 016 </span>                              <I>อนันตรปัจจยกถา  จบ</I>
+
+<span class="LineNumber"> 017 </span>                   <H2>อรรถกถาอนันตรปัจจยกถา</H2>
+
+<span class="LineNumber"> 018 </span>                        <H2>ว่าด้วย  อนันตรปัจจัย</H2>
+
+<span class="LineNumber"> 019 </span>         บัดนี้  ชื่อว่าเรื่องอนันตรปัจจัย.  ในเรื่องนั้น  ชนเหล่าใดมีความเห็น
+<span class="LineNumber"> 020 </span>ผิดดุจลัทธิของนิกายอุตตราปถกะทั้งหลายว่า      วิญญาณเหล่านี้เกิด
+<span class="LineNumber"> 021 </span>ติดต่อกันและกันไม่มีอะไรคั่น       เพราะเห็นการเปลี่ยนแปลงโดยรวดเร็ว
+<span class="LineNumber"> 022 </span>ในการเห็นรูป     และการฟังเสียงเป็นต้น    ในการฟ้อนรำขับร้องเป็นต้น

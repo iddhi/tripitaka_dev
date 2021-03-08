@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  461
+
+<span class="LineNumber"> 002 </span>		อีทิสานํ เม โยธานํ			สงฺคาเม อปลายินํ  
+<span class="LineNumber"> 003 </span>		เวเทโห กุโต มุจฺจิสฺสติ		สเจ ปกฺขีว กาหติ (๑) 
+<span class="LineNumber"> 004 </span>		ตึส เม ปุริสนาวุโตฺย			สพฺเพ เจเกกนิจฺจิตา (๒) 
+<span class="LineNumber"> 005 </span>		เยสํ สมํ น ปสฺสามิ			เกวลํ มหิมํ จรํ  
+<span class="LineNumber"> 006 </span>		นาคา จ กปฺปิตา ทนฺตี			พลวนฺตา สฏฺ€ิหายนา  
+<span class="LineNumber"> 007 </span>		เยสํ ขนฺเธสุ โสภนฺติ			กุมารา จารุทสฺสนา  
+<span class="LineNumber"> 008 </span>		ปีตาลงฺการา ปีตวสนา		ปีตุตฺตรนิวาสนา  
+<span class="LineNumber"> 009 </span>		นาคกฺขนฺเธสุ โสภนฺติ			เทวปุตฺตาว นนฺทเน  
+<span class="LineNumber"> 010 </span>		ปา€ีนวณฺณา เนตฺตึสา			เตลโธตา ปภสฺสรา  
+<span class="LineNumber"> 011 </span>		นิฏฺ€ิตา นรวีเรหิ (๓)			สมธารา สุนิสฺสิตา  
+<span class="LineNumber"> 012 </span>		เวลฺลาฬิโน วีตมลา			สิกฺกายสมยา ทฬฺหา  
+<span class="LineNumber"> 013 </span>		คหิตา พลวนฺเตหิ			สุปฺปหารปฺปหาริภิ  
+<span class="LineNumber"> 014 </span>		สุวณฺณา ผรุสมฺปนฺนา (๔)		โลหิตกฺจูปธาริตา (๕) 
+<span class="LineNumber"> 015 </span>		วิวตฺตมานา โสภนฺติ			วิชฺชุวพฺภฆนนฺตเร  
+<span class="LineNumber"> 016 </span>		ปวกา (๖)จมฺมิโน (๗) สูรา	อสิจมฺมสฺส โกวิทา  
+<span class="LineNumber"> 017 </span>		ผรุคฺคหา (๘) สิกฺขิตรา (๙)		นาคกฺขนฺธนิปาติโน (๑๐) 
+<span class="LineNumber"> 018 </span># ๑. ส. ม. กาหิติ ฯ  ๒. สี. ยุ. สพฺเพเวเกกนิจฺฉิตา ฯ  ม. สพฺเพเวเกกนิจฺจิตา ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. นรธีเรภิ ฯ  ๔. ส. ม. สุวณฺณถรุสมฺปนฺนา ฯ  ยุ. สุวณฺณจารุสมฺปนฺนา ฯ
+<span class="LineNumber"> 020 </span># ๕. ม. ....กจฺฉุปธาริตา ฯ  ยุ.....กจฺฉูปวาทิตา ฯ  ๖. ส. ปถกา ฯ  สี. ยุ. ปตากา ฯ
+<span class="LineNumber"> 021 </span>ม. ปฏากา ฯ  ๗. ม. ยุ. วมฺมิโน ฯ  ๘. ส. ม. ธนุคฺคหา ฯ  สี. ยุ. ถรุคฺคหา ฯ
+<span class="LineNumber"> 022 </span># ๙. สี. ยุ. สิกฺขิตาโร ฯ  ๑๐. สี. ยุ. นาคกฺขนฺธาติปาติโน ฯ  ม. นาคขนฺเธ นิปาติโน ฯ

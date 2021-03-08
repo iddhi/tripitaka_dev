@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๔.  วัตถุสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๑๖๔]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 003 </span>                             <B>อะไรหนอเป็นที่ตั้งของมนุษย์ทั้ง-
+<span class="LineNumber"> 004 </span>                   หลาย   อะไรหนอเป็นสหายอย่างยิ่งในโลกนี้
+<span class="LineNumber"> 005 </span>                   เหล่าสัตว์มีชีวิตที่อาศัยแผ่นดิน  อาศัย
+<span class="LineNumber"> 006 </span>                   อะไรหนอเลี้ยงชีพ.</B>
+<span class="LineNumber"> 007 </span>         [๑๖๕]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 008 </span>                             <B>บุตรเป็นที่ตั้งของมนุษย์ทั้งหลาย
+<span class="LineNumber"> 009 </span>                   ภรรยาเป็นสหายอย่างยิ่ง  เหล่าสัตว์มีชีวิต
+<span class="LineNumber"> 010 </span>                   ที่อาศัยแผ่นดิน  อาศัยฝนเลี้ยงชีพอยู่.</B>
+
+<span class="LineNumber"> 011 </span>                                  <h1>อรรถกถาวัตถุสูตร</h1>
+
+<span class="LineNumber"> 012 </span>         พึงทราบวินิจฉัยในวัตถุสูตรที่  ๔  ต่อไป :-
+<span class="LineNumber"> 013 </span>         บทว่า  <B>ปุตฺตา  วตฺถู</B>  อธิบายว่า  บุตรทั้งหลาย  ชื่อว่า  เป็นที่ตั้ง
+<span class="LineNumber"> 014 </span>เพราะอรรถว่าปฏิบัติในเวลาที่มารดาบิดาเป็นคนแก่.  บทว่า  <B>ปรมา</B>  ความว่า
+<span class="LineNumber"> 015 </span>ภรรยา  ชื่อว่า   เป็นเพื่อนอย่างยิ่ง   เพราะความที่ความลับแม้ตนไม่บอกบุคคล
+<span class="LineNumber"> 016 </span>อื่น  ก็ต้องบอกแก่ภรรยา  ดังนี้แล.
+<span class="LineNumber"> 017 </span>                                         <I>จบอรรถกถาวัตถุสูตรที่  ๔</I>

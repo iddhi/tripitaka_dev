@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span><H2>จักขายตนมูละ    ฆานายตนมูลี :-</H2> 
+<span class="LineNumber"> 002 </span>         [๕๕๘]   จักขายตนะจักดับแก่บุคคลใดในภูมิใด,   ฆานายตนะ
+<span class="LineNumber"> 003 </span>ก็จักดับแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         บุคคลที่เกิดอยู่ในรูปาวจรภูมิ    ฯ ล ฯ    บุคคลที่เกิดอยู่ในกามา-
+<span class="LineNumber"> 005 </span>วจรภูมิ   ฯ ล ฯ
+<span class="LineNumber"> 006 </span>         ก็หรือว่า    ฆานายตนะจักดับแก่บุคคลใดในภูมิใด,   ฯ ล ฯ
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                          <I>จบ  จักขายตนมูละ   ฆานายตนมูลี</I>
+
+<span class="LineNumber"> 009 </span><H2>จักขายตนมูละ  รูปายตนมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         จักขายตนะจักดับแก่บุคคลใดในภูมิใด,      รูปายตนะก็จักดับแก่
+<span class="LineNumber"> 011 </span>บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.                                                                 
+<span class="LineNumber"> 013 </span>         ก็หรือว่า    รูปายตนะจักดับแก่บุคคลใดในภูมิใด,    จักขายตนะ
+<span class="LineNumber"> 014 </span>ก็จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?                                  
+<span class="LineNumber"> 015 </span>         บุคคลที่เกิดอยู่ในอสัญญสัตตภูมิ     ฯ ล ฯ     บุคคลที่เกิดอยู่ใน  
+<span class="LineNumber"> 016 </span>ปัญจโวการภูมิ   ฯ ล ฯ                                                          
+<span class="LineNumber"> 017 </span>                          <I>จบ  จักขายตนมูละ  รูปายตนมูลี</I>

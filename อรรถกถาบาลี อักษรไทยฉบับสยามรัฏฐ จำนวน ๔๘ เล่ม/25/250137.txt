@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุติยวคฺเค กุณฺฑธานตฺเถรคาถาวณฺณนา หน้า 137
+		
+<span class="LineNumber"> 002 </span>		เย จ สนฺติ สมีตาโร (๑)	ยกฺขา อิมมฺหิ ปพฺพเต  
+<span class="LineNumber"> 003 </span>		อรฺเ ภูตคณา สพฺเพ (๒)  สุณนฺตุ วจนํ มม ฯ
+<span class="LineNumber"> 004 </span>		โย โส พุทฺธํ อุปฏฺ€าสิ	มิคราชํว เกสรึ  
+<span class="LineNumber"> 005 </span>		ตมหํ กิตฺตยิสฺสามิ		สุณาถ มม ภาสโต ฯ  
+<span class="LineNumber"> 006 </span>		เอกาทสฺจกฺขตฺตุํ โส	เทวราชา ภวิสฺสติ  
+<span class="LineNumber"> 007 </span>		จตุตฺตึสติกฺขตฺตุฺจ (๓)	จกฺกวตฺตี ภวิสฺสติ ฯ  
+<span class="LineNumber"> 008 </span>		กปฺปสตสหสฺสมฺหิ		โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 009 </span>		โคตโม นาม โคตฺเตน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 010 </span>		อกฺโกสิตฺวาน สมเณ	สีลวนฺเต อนาสเว  
+<span class="LineNumber"> 011 </span>		ปาปกมฺมวิปาเกน		นามเธยฺยํ ลภิสฺสติ ฯ 
+<span class="LineNumber"> 012 </span>		ตสฺส ธมฺเม สุทายาโท	โอรโส ธมฺมนิมฺมิโต  
+<span class="LineNumber"> 013 </span>		กุณฺฑธาโนติ นาเมน	สาวโก โส ภวิสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>		ปวิเวกํ อนุยุตฺโต		ฌายี ฌานรโต อหํ  
+<span class="LineNumber"> 015 </span>		โตสยิตฺวาน สตฺถารํ	วิหรามิ อนาสโว ฯ  
+<span class="LineNumber"> 016 </span>		สาวเกหิ (๔) ปริวุโต	ภิกฺขุสํฆปุรกฺขโต(๕)  
+<span class="LineNumber"> 017 </span>		ภิกฺขุสงฺเฆ นิสีทิตฺวา	สลากํ คาหยี ชิโน ฯ  
+<span class="LineNumber"> 018 </span>		เอกํสํ จีวรํ กตฺวา		วนฺทิตฺวา โลกนายกํ  
+<span class="LineNumber"> 019 </span>		วทตํ วรสฺส ปุรโต		ป€มํ อคฺคเหสหํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ยุ. เย วสนฺติ สเมตาโร ฯ ๒. ม. ยุ. อรฺเ ภูตภพฺยานิ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. จตุวีสติกฺขตฺตุฺจ ฯ ๔. สี. ยุ. สาวกคฺเคหิ ฯ 
+<span class="LineNumber"> 022 </span># ๕. สฺยา. ม. ...สงฺฆปุรกฺขโต ฯ 

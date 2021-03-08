@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>ทุกขสัจจมูละ  มัคคสัจจมูลี :-</H2> 
+<span class="LineNumber"> 002 </span>         [๘๔๔]   ทุกขสัจจะไม่ใช่กำลังเกิดในภูมิใด, มัคคสัจจะก็ไม่ใช่
+<span class="LineNumber"> 003 </span>กำลังเกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ไม่มี.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า มัคคสัจจะไม่ใช่กำลังเกิดในภูมิใด,     ทุกขสัจจะก็ไม่ใช่
+<span class="LineNumber"> 006 </span>กำลังเกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         กำลังเกิด.
+<span class="LineNumber"> 008 </span>                          <I>จบ   ทุกขสัจจมูละ   มัคคสัจจมูลี</I>           
+<span class="LineNumber"> 009 </span>                                      <I>ทุกขสัจจมูล   จบ</I>
+
+<span class="LineNumber"> 010 </span>                                        <H1>สมุทยสัจจมูล</H1>
+<span class="LineNumber"> 011 </span><H2>สมุทยสัจจมูละ   มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 012 </span>         [๘๔๕]   สมุทยสัจจะไม่ใช่กำลังเกิดในภูมิใด,      มัคคสัจจะก็
+<span class="LineNumber"> 013 </span>ไม่ใช่กำลังเกิดในภูมินั้น ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า   มัคคสัจจะไม่ใช่กำลังเกิดในภูมิใด, สมุทยสัจจะก็ไม่
+<span class="LineNumber"> 016 </span>ใช่กำลังเกิดในภูมินั้น    ใช่ไหม ?

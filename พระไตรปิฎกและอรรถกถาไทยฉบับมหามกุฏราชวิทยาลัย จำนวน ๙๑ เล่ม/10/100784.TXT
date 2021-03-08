@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ของที่ไม่เป็นเดน</H1>   
+<span class="LineNumber"> 002 </span>           [๑,๑๗๔]   อุ.  ของที่ไม่เป็นเดน  มีเท่าไร  พระพุทธเจ้าข้า
+<span class="LineNumber"> 003 </span>           พ.  ดูก่อนอุบาลี    ของที่ไม่เป็นเดนนี้มี  ๕  อย่าง  ๕  อย่างอะไรบ้าง
+<span class="LineNumber"> 004 </span>คือ:-
+<span class="LineNumber"> 005 </span>           ๑.  ภิกษุไม่ทำให้เป็นกัปปิยะ
+<span class="LineNumber"> 006 </span>           ๒.  ไม่รับประเคน
+<span class="LineNumber"> 007 </span>           ๓.  ไม่ยกส่งให้
+<span class="LineNumber"> 008 </span>           ๔.  ทำนอกหัตถบาส
+<span class="LineNumber"> 009 </span>           ๕.  มิได้กล่าวว่า  ทั้งหมดนั่นพอละ
+<span class="LineNumber"> 010 </span>           ดูก่อนอุบาลี   ของที่ไม่เป็นเดนมี ๕ อย่าง   นี้แล
+
+<span class="LineNumber"> 011 </span>                                        <H1>ของที่เป็นเดน</H1>
+<span class="LineNumber"> 012 </span>           ดูก่อนอุบาลี  ของที่เป็นเดนนี้    มี  ๕  อย่าง  ๕  อย่างอะไรบ้าง  คือ:-
+<span class="LineNumber"> 013 </span>           ๑.  ภิกษุทำให้เป็นกัปปิยะ
+<span class="LineNumber"> 014 </span>           ๒.  รับประเคน                                                              
+<span class="LineNumber"> 015 </span>           ๓.  ยกส่งให้                                            
+<span class="LineNumber"> 016 </span>           ๔.  ทำในหัตถบาส
+<span class="LineNumber"> 017 </span>           ๔.  กล่าวว่า  ทั้งหมดนั่นพอละ
+<span class="LineNumber"> 018 </span>           ดูก่อนอุบาลี  ของที่เป็นเดน  ๕ อย่าง  นี้แล.
+
+<span class="LineNumber"> 019 </span>                                            <H1>การห้ามภัตร</H1>
+<span class="LineNumber"> 020 </span>            [๑,๑๗๕]  อุ.  การห้ามภัตรย่อมปรากฏด้วยอาการเท่าไร   พระพุทธ 
+<span class="LineNumber"> 021 </span>เจ้าข้า

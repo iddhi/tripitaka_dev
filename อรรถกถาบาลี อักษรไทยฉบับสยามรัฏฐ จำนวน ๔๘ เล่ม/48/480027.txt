@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า 27
+
+<span class="LineNumber"> 002 </span>			สมฺปยุตฺเตนวิปฺปยุตฺตปทวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  สมฺปยุตฺเตนวิปฺปยุตฺตปทํ  ภาเชตุํ  เวทนากฺขนฺเธนาติ-
+<span class="LineNumber"> 004 </span>อาทิ อารทฺธํ ฯ  ตตฺริทํ  ลกฺขณํ  อิมสฺมิฺหิ  วาเร  ปุจฺฉาย
+<span class="LineNumber"> 005 </span>อุทฺธฏปเทน  เย ธมฺมา  สมฺปยุตฺตา  เตหิ  เย  ธมฺมา  วิปฺปยุตฺตา
+<span class="LineNumber"> 006 </span>เตสํ  ขนฺธาทีหิ  วิปฺปโยคํ ปุจฺฉิตฺวา  วิสฺสชฺชนํ  กตํ ฯ  ตมฺปน 
+<span class="LineNumber"> 007 </span>รูปกฺขนฺธาทีสุ  น ยุชฺชติ ฯ รูปกฺขนฺเธน หิ สมฺปยุตฺตา  นาม
+<span class="LineNumber"> 008 </span>นตฺถิ  ตสฺมา  ตฺจ  อฺานิ  จ  เอวรูปานิ ปทานิ อิมสฺมึ
+<span class="LineNumber"> 009 </span>วาเร น  คหิตานิ ฯ  ยานิ  ปน  ปทานิ  ธมฺมธาตุยา  สมฺปยุตฺเต
+<span class="LineNumber"> 010 </span>ธมฺเม  วิฺาณฺจ  อฺเน อสมฺมิสฺสํ ทีเปนฺติ ตานิ อิธ
+<span class="LineNumber"> 011 </span>คหิตานิ ฯ เตสํ อิทมุทฺทานํ
+<span class="LineNumber"> 012 </span>		จตฺตาโร ขนฺธายตนฺจ เอกํ 
+<span class="LineNumber"> 013 </span>		เทฺว อินฺทฺริยา ธาตุปทานิ สตฺต 
+<span class="LineNumber"> 014 </span>		ตโย ปฏิจฺจาถ(๑) อถ ผสฺสสตฺตกํ 
+<span class="LineNumber"> 015 </span>		ติเก ตโย สตฺต มหนฺตเร จ 
+<span class="LineNumber"> 016 </span>		เอกํ สวิตกฺกํ สวิจารเมกํ 
+<span class="LineNumber"> 017 </span>		ยุตฺตํ อุเปกฺขาย จ เอกเมวาติ ฯ 
+<span class="LineNumber"> 018 </span>	ปริโยสาเน  ขนฺธา  จตุโรติอาทินาปิ  อยเมวตฺโถ  สงฺคหิโต ฯ
+<span class="LineNumber"> 019 </span>ตตฺถ  ยานิ  ปทานิ  สทิสวิสฺสชฺชนานิ  ตานิ  อุปฺปฏิปาฏิยาปิ 
+<span class="LineNumber"> 020 </span>สโมธาเนตฺวา  ตตฺถ เวทนากฺขนฺธาทิกา  ปฺหา  กตา ฯ  เตสุ 
+<span class="LineNumber"> 021 </span># ๑. ม. ปฏิจฺจา อถ ฯ

@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>            <H1>สรณทุกสารัมมณทุกนสรณทุกนสารัมมณทุกะ</H1> 
+<span class="LineNumber"> 002 </span>         <H2>(๑๐๐.  สรณทุกะ  ๕๕.  สารัมมณทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                 <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                  <H2>สารัมมณบท</H2>	
+<span class="LineNumber"> 007 </span>           [๑๑๗๐] ๑.  <B>ธรรมที่ไม่ใช่สารัมมณธรรม  ที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 008 </span>อาศัยสารัมมณธรรม ที่เป็นสรณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 009 </span>                         ๒.  <B>ธรรมที่ไม่ใช่สารัมมณธรรม  ที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 010 </span>อาศัยสารัมมณธรรม  ที่เป็นอรณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 011 </span>                                             <B>ฯลฯ</B>	
+<span class="LineNumber"> 012 </span>             <I>สรณทุกสารัมมณทุกนสรณทุกนสารัมมณทกะ จบ</I>

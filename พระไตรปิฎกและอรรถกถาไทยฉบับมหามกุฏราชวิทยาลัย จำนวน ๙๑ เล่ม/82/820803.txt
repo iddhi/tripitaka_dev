@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่าธัมม,  ไม่ชื่อว่าธาตุ   ใช่ไหม  ? 
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ธรรมที่ไม่ชื่อว่าธาตุ,  ไม่ชื่อว่าธัมมธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>                       <I>สุทธธาตุวาระ  ปัจจนิก  จบ</I>

@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่. 
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  บุคคลละวิจิกิจฉานุสัย   จากที่ใด  ย่อมละทิฏฐานุสัย
+<span class="LineNumber"> 003 </span>จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่  ฯลฯ
+<span class="LineNumber"> 005 </span>                    <I>จบ  ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</I>
+<span class="LineNumber"> 006 </span>                                   <I>ทิฏฐานุสยมูล  จบ</I>
+  
+<span class="LineNumber"> 007 </span>                                    <H1>วิจิกิจฉานุสยมูล</H1>
+<span class="LineNumber"> 008 </span><H2>วิจิกิจฉานุสยมูละ  ภวราคานุสยมูลี</H2> :-
+<span class="LineNumber"> 009 </span>         [๑๓๖๙]  บุคคลละวิจิกิจฉานุสัย  จากที่ใด  ย่อมละภวราคา-
+<span class="LineNumber"> 010 </span>นุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         บุคคลละวิจิกิจฉานุสัย   จากที่นั้น  คือที่เวทนา   ๓  ในกามธาตุ
+<span class="LineNumber"> 012 </span>แต่ไม่ใช่ย่อมละภวราคานุสัย   จากที่นั้น,  บุคคลย่อมละวิจิกิจฉานุสัย
+<span class="LineNumber"> 013 </span>และย่อมละภวราคานุสัย  จากที่นั้น      คือที่รูปธาตุ  อรูปธาตุ.

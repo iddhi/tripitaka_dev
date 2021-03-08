@@ -1,0 +1,4 @@
+﻿<span class="LineNumber"> 001 </span>				<H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>		[๗๖๒]  ในเหตุปัจจัย  มี ๑  วาระ  ฯลฯ  ในอวิคตปัจจัย  มี  ๑  วาระ.
+<span class="LineNumber"> 003 </span>		ในสหชาตวาระก็ดี  ฯลฯ  ในปัญหาวาระก็ดี  ทุกปัจจัย  มี  ๑  วาระ.
+<span class="LineNumber"> 004 </span>				   <I>กุสลติกกิเลสสังกิลิฏฐทุกะ  จบ</I>

@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>	                          <H1>๔.  อัจเจนติสูตร</H1>
+
+<span class="LineNumber"> 002 </span>         [๙]  เทวดานั้น  ครั้นยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้วแล  ได้กล่าว 
+<span class="LineNumber"> 003 </span>คาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 004 </span>                             <B>กาลทั้งหลายย่อมล่วงไป     ราตรี
+<span class="LineNumber"> 005 </span>                   ทั้งหลายย่อมผ่านไป     ชั้นแห่งวัยย่อมละ
+<span class="LineNumber"> 006 </span>                   ลำดับไป  บุคคลเมื่อเห็นภัยนี้ในมรณะ
+<span class="LineNumber"> 007 </span>                   พึงทำบุญทั้งหลายที่นำความสุขมาให้.</B>
+<span class="LineNumber"> 008 </span>         [๑๐]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>กาลทั้งหลายย่อมล่วงไป   ราตรี
+<span class="LineNumber"> 010 </span>                   ทั้งหลายย่อมผ่านไป   ชั้นแห่งวัยย่อมละ
+<span class="LineNumber"> 011 </span>                   ลำดับไป บุคคลเมื่อเห็นภัยนี้ในมรณะ
+<span class="LineNumber"> 012 </span>                   พึงละอามิสในโลกเสีย   มุ่งสันติเถิด.</B> 

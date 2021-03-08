@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  284
+
+<span class="LineNumber"> 002 </span>วิฺาณสงฺขาตสฺส  มนายตนสฺส  นิสฺสยปุเรชาตอินฺทฺริยวิปฺปยุตฺต-
+<span class="LineNumber"> 003 </span>อตฺถิอวิคตวเสน  ฉหิ  อากาเรหิ  ปจฺจยา โหนฺติ ปวตฺเต โน
+<span class="LineNumber"> 004 </span>ปฏิสนฺธิยํ ฯ €เปตฺวา ปน ปฺจ วิฺาณานิ  ตสฺเสว  
+<span class="LineNumber"> 005 </span>อวเสสมนายตนสฺส  วตฺถุรูปํ  นิสฺสยปุเรชาตวิปฺปยุตฺตอตฺถิอวิคตวเสน  
+<span class="LineNumber"> 006 </span>ปฺจธา  ปจฺจโย  โหติ  ปวตฺเตเยว (๑) โน  ปฏิสนฺธิยํ ฯ  เอวํ  
+<span class="LineNumber"> 007 </span>รูปเมว  ปฏิสนฺธิยํ  ปวตฺเต  วา  ยสฺส  ยสฺสายตนสฺส  ปจฺจโย
+<span class="LineNumber"> 008 </span>โหติ  ยถา  จ  โหติ ตถา  เวทิตพฺพํ ฯ  
+<span class="LineNumber"> 009 </span>		นามรูปํ ปนุภยํ		โหติ ยํ ยสฺส ปจฺจโย  
+<span class="LineNumber"> 010 </span>		ยถา จ ตมฺปิ สพฺพตฺถ	วิฺาตพฺพํ วิภาวินา ฯ  
+<span class="LineNumber"> 011 </span>	เสยฺยถีทํ  ปฏิสนฺธิยํ  ตาว  ปฺจโวการภเว  ขนฺธตฺตย-
+<span class="LineNumber"> 012 </span>วตฺถุรูปสงฺขาตํ นามรูปํ  สฬายตนสฺส (๒) สหชาตอฺมฺนิสฺสย-
+<span class="LineNumber"> 013 </span>สมฺปยุตฺตวิปาก(๓)อตฺถิอวิคตปจฺจยาทีหิ  ปจฺจโย  โหตีติ  อิทเมตฺถ 
+<span class="LineNumber"> 014 </span>มุขมตฺตํ ฯ  วุตฺตนยานุสาเรน  ปน  สกฺกา  สพฺพํ  โยเชตุนฺติ 
+<span class="LineNumber"> 015 </span>น เอตฺถ วิตฺถาโร ทสฺสิโตติ ฯ  
+<span class="LineNumber"> 016 </span>		นามรูปปจฺจยา สฬายตนนิทฺเทโส(๔) ฯ
+<span class="LineNumber"> 017 </span>	สฬายตนปจฺจยา ผสฺสนิทฺเทเส  
+<span class="LineNumber"> 018 </span>		ฉเฬว ผสฺสา สงฺเขปา	จกฺขุสมฺผสฺสอาทโย  
+<span class="LineNumber"> 019 </span>		วิฺาณมิว พาตฺตึส	วิตฺถาเรน ภวนฺติ เต ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปวตฺเต ฯ  ๒. ม. ฉฏฺ€ายตนสฺส ฯ  ๓. ม. ...วิปฺปยุตฺต... ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. สฬายตนปทนิทฺเทโส ฯ

@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>รวมชาดกที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.  คิชฌชาดก      ๒.  โกสัมพิยชาดก    ๓.  มหาสวราชชาดก
+<span class="LineNumber"> 003 </span>๔.   จุลลสุวกราชชาดก      ๕.  หริตจชาดก    ๖.  ปทกุสลมาณวชาดก 
+<span class="LineNumber"> 004 </span>๗.  โลมสกัสสปชาดก       ๘.  จักกวากชาดก     ๙.   หลิททราคชาดก
+<span class="LineNumber"> 005 </span>๑๐.   มุคคชาดก   ๑๑.  ปูติมังสชาดก  ๑๒.  ทัททรชาดก.
+<span class="LineNumber"> 006 </span>                                  <I>จบ  นวกนิบาต</I>

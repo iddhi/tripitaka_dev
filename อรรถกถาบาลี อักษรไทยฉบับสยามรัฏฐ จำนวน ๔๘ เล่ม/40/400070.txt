@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 40    หน้า  70
+
+<span class="LineNumber"> 002 </span>			สลฺเลขฏฺ€าณุทฺเทสวณฺณนา
+<span class="LineNumber"> 003 </span>	อิทานิ  ยสฺมา  สุตมยสีลมยภาวนามยาณานิ  วฏฺฏปาทกานิ
+<span class="LineNumber"> 004 </span>สลฺเลขา  นาม  น  โหนฺติ  โลกุตฺตรปาทกาเนว  เอตานิ  จ  
+<span class="LineNumber"> 005 </span>อฺานิ  จ  าณานิ สลฺเลขาติ  วุจฺจนฺติ  ตสฺมา  ปจฺจนีก-
+<span class="LineNumber"> 006 </span>สลฺเลขนากาเรน  ปวตฺตานิ  าณานิ  ทสฺเสตุํ  สมสีสฏฺเ€  
+<span class="LineNumber"> 007 </span>าณานนฺตรํ  สลฺเลขฏฺเ€  าณํ  อุทฺทิฏฺ€ํ ฯ 
+<span class="LineNumber"> 008 </span>	ตตฺถ  ปุถุนานตฺตเตชปริยาทาเน  ปฺาติ  โลกุตฺตเรหิ 
+<span class="LineNumber"> 009 </span>อสมฺมิสฺสตฺเถน  ปุถูนํ  ราคาทีนฺจ นานตฺตานํ นานาสภาวานํ  
+<span class="LineNumber"> 010 </span>กามจฺฉนฺทาทีนฺจ  สนฺตาปนฏฺเ€น  เตชาติ  ลทฺธนามานํ  
+<span class="LineNumber"> 011 </span>ทุสฺสีลฺยาทีนฺจ  ปริยาทาเน  เขปเน  ปฺา  เนกฺขมฺมาทิมฺหิ 
+<span class="LineNumber"> 012 </span>สตฺตตฺตึสปฺปเภเท  ธมฺเม  ปฺาติ  วุตฺตํ  โหติ ฯ  อถวา  ปุถุภูตา 
+<span class="LineNumber"> 013 </span>นานตฺตภูตา  จ  เตชา  เอว  เตสํ  ปุถุภูตานํ  นานตฺตภูตานํ 
+<span class="LineNumber"> 014 </span>ทุสฺสีลฺยาทีนํ  ปฺจนฺนํ  เตชานํ  ปริยาทาเน  ปฺาติ  อตฺโถ ฯ  
+<span class="LineNumber"> 015 </span>เตเชหิเยว ปุถูนํ นานตฺตานฺจ สงฺคหํ นิทฺเทสวาเร
+<span class="LineNumber"> 016 </span>ปกาสยิสฺสาม ฯ  
+<span class="LineNumber"> 017 </span>	สลฺเลขฏฺเ€  าณนฺติ  ปจฺจนีกธมฺเม  สลฺเลขติ  สมุจฺฉินฺทตีติ 
+<span class="LineNumber"> 018 </span>สลฺเลโข ตสฺมึ  เนกฺขมฺมาทิเก  สตฺตตฺตึสปฺปเภเท  สลฺเลขภาเว  
+<span class="LineNumber"> 019 </span>าณํ ฯ  ปเร  วิหึสกา  ภวิสฺสนฺติ  มยเมตฺถ  อวิหึสกา
+<span class="LineNumber"> 020 </span>ภวิสฺสามาติ สลฺเลโข กรณีโยติ(๑)อาทินา  นเยน ภควตา 
+<span class="LineNumber"> 021 </span># ๑. ม. มู. ๑๒/๑๐๔/๗๕ ฯ

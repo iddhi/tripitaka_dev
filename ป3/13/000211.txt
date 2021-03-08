@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                                       ถาม  
+<span class="LineNumber"> 002 </span><B>[ ๑๓๙ ]  เกนสฺสุ  วุยฺหตี  พาโล</B>				คนเขลาถูกอะไรพัดไป ?
+<span class="LineNumber"> 003 </span><B>กถํ  นุทติ  ปณฺพิโต</B>					คนฉลาดบรรเทาอย่างไร ?
+<span class="LineNumber"> 004 </span><B>โยคกฺเขมี  กถํ  โหติ</B>					คนเกษมจากโยคะได้อย่างไร ?
+<span class="LineNumber"> 005 </span><B>ตํ  เม  อกฺขาหิ  ปุจฺฉิโต.</B>				ท่านถูกถามแล้ว  จงตอบข้อนั้น
+<span class="LineNumber"> 006 </span>								แก่ฉัน.
+<span class="LineNumber"> 007 </span>                                                      ตอบ
+<span class="LineNumber"> 008 </span><B>[ ๑๔๐ ]  โอเฆน  วุยฺหตี  พาโล</B>				คนเขลาถูกน้ำท่วมพัดไป
+<span class="LineNumber"> 009 </span><B>โยคา  นุทติ  ปณฺฑิโต</B>					คนฉลาดบรรเทาด้วยโยคะ
+<span class="LineNumber"> 010 </span><B>สพฺพโยควิสํยุตฺโต</B>					พรากโยคะทั้งปวงได้แล้ว
+<span class="LineNumber"> 011 </span><B>โยคกฺเขมีติ  วุจฺจติ.</B>					เขาจึงเรียกว่าผู้ปกครองจากโยคะ.
+<span class="LineNumber"> 012 </span>                                   ๕๓.  เรื่องอนภิรตภิกขุ
+<span class="LineNumber"> 013 </span>           <B>มีเรื่องเล่าว่า </B>กุลบุตรคนหนึ่งมีศรัทธาออกบวชในพระศาสนา
+<span class="LineNumber"> 014 </span>ต่อมาบิดาฝ่ายอยากจะเห็นพระลูกชาย  แต่ไม่มีใครไปตาม ใกล้ตายฝาก
+<span class="LineNumber"> 015 </span>เงิน ๑๐๐ กหาปณะไว้ให้เป็นค่าบาตรจีวรแล้วตายไป   ภายหลังภิกษุนั้นไป
+<span class="LineNumber"> 016 </span>บ้าน น้องชายบอกเรื่องราว  ภิกษุไม่ต้องการเงินนั้น  แต่กลับคิดสมบัติ
+<span class="LineNumber"> 017 </span>เศรษฐีขึ้นมาว่า จักเอาเงินจำนวนนั้นเป็นต้นทุนก่อร่างสร้างตัว  ดีกว่า
+<span class="LineNumber"> 018 </span>เที่ยวขอทานเขากิน  คิดเอือมระอาที่จะบวชต่อไปจนผอม  สมเด็จพระ
+<span class="LineNumber"> 019 </span>ศาสดาทรงทราบ  รับสั่งให้เข้าเฝ้า  สอบถามได้เค้าเงื่อนแล้ว  ทรงกะราย
+
+<span class='footnote'>๑๓๙.  ธมฺ.  ๖/๙๗.  		๑๔๐. ธมฺ.  ๖/๙๗</span>

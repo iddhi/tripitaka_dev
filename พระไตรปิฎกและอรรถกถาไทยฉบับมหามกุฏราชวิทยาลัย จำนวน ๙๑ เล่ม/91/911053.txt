@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>กุศลธรรม ที่เป็นอาสววิปปยุตตสาสวธรรม  อาศัย
+<span class="LineNumber"> 002 </span>ธรรมที่ไม่ใช่กุศล  ที่เป็นอาสววิปปยุตตธรรม และไม่ใช่อนาสวธรรม
+<span class="LineNumber"> 003 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>  
+
+<span class="LineNumber"> 004 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 005 </span>           [๒๔๖]  ในเหตุปัจจัย  มี ๒ วาระ  ฯลฯ
+
+<span class="LineNumber"> 006 </span>                                        <H2>อกุศลบท</H2>  
+<span class="LineNumber"> 007 </span>           [๒๔๗]  ๑.  <B>อกุศลธรรม     ที่เป็นอาสววิปปยุตตสาสวธรรม
+<span class="LineNumber"> 008 </span>อาศัยธรรมที่ไม่ใช่อกุศล    ที่เป็นอาสววิปปยุตตธรรม    และไม่ใช่-
+<span class="LineNumber"> 009 </span>อนาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 010 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๒๔๘]  ในเหตุปัจจัย  มี ๑ วาระ   ฯลฯ
+
+<span class="LineNumber"> 012 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 013 </span>                                     <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 014 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                     <H2>อัพยากตบท</H2>
+<span class="LineNumber"> 016 </span>           [๒๔๙] ๑.  <B>อัพยากตธรรม   ที่เป็นอาสววิปปยุตตสาสวธรรม
+<span class="LineNumber"> 017 </span>อาศัยธรรมที่ไม่ใช่อัพยากตธรรม   ที่เป็นอาสววิปปยุตตธรรม   และ
+<span class="LineNumber"> 018 </span>ไม่ใช่สาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>

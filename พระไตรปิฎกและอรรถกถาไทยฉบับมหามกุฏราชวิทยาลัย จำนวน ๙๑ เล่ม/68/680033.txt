@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>มหาวรรค</H1>
+
+<span class="LineNumber"> 002 </span>                <H1>อรรถกถาญาณกถามาติกา</H1> 
+
+<span class="LineNumber"> 003 </span>              <H1>๑.  อรรถกถาสุตมยญาณุทเทส</H1> 
+<span class="LineNumber"> 004 </span>                         <H2>ว่าด้วย สุตมยญาณ</H2>
+<span class="LineNumber"> 005 </span>         ในอุทเทสนั้นเบื้องแรก     พึงทราบ   <B>โสต</B>  ศัพท์     ในคำนี้ว่า
+<span class="LineNumber"> 006 </span><B>โสตาวธาเน   ปญฺา   สุตมเย  าณํ</B>   มีประเภทแห่งอรรถเป็นอเนก.
+<span class="LineNumber"> 007 </span>จริงอย่างนั้น  <B>โสต</B>   ศัพท์นั้นย่อมปรากฏ
+<span class="LineNumber"> 008 </span>                     <B>ในอรรถว่า     มังสโสตะ,     โสตวิญญาณ,
+<span class="LineNumber"> 009 </span>         ญาณโสตะ,     กระแสแห่งตัณหาเป็นต้น,    สายธาร
+<span class="LineNumber"> 010 </span>         แห่งกระแสน้ำ,    อริยมรรค,    และแม้ในความสืบ
+<span class="LineNumber"> 011 </span>         ต่อแห่งจิต.</B>
+<span class="LineNumber"> 012 </span>         ก็  <B>โสต</B>  ศัพท์  นี้   ย่อมปรากฏในอรรถว่า  มังสโสตะ  ได้ในคำ
+<span class="LineNumber"> 013 </span>เป็นต้นว่า   <B>โสตายตนะ,  โสตธาตุ   และโสตินทรีย์.</B><SUP>๑</SUP>
+<span class="LineNumber"> 014 </span>         ปรากฏในอรรถว่า   โสตวิญญาณ  ได้ในคำเป็นต้นว่า   <B>ได้ยิน
+<span class="LineNumber"> 015 </span>เสียงด้วยโสตะ</B><SUP>๒</SUP>.
+<span class='footnote'>๑. อภิ. วิ. ๓๕/ ๑๐๑.  ๒. ม.มู. ๑๒/ ๑๔.</span>

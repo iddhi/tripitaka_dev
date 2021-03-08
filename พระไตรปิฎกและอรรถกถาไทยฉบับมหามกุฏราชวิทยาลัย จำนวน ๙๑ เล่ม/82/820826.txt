@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๓.  นิโรธสัจจะ</H2>
+<span class="LineNumber"> 002 </span>         ธรรมที่ชื่อว่านิโรธ,   ชื่อว่านิโรธสัจจะ   ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ยกเว้นนิโรธสัจจะเสียแล้ว     ธรรมที่เหลือนอกนั้นชื่อว่านิโรธ
+<span class="LineNumber"> 004 </span>แต่ไม่ชื่อว่านิโรธสัจจะ,    นิโรธสัจจะชื่อว่านิโรธก็ใช่  ชื่อว่านิโรธสัจจะ 
+<span class="LineNumber"> 005 </span>ก็ใช่.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่านิโรธสัจจะ,    ชื่อว่านิโรธ   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                                    <I>จบ   นิโรธสัจจะ</I>
+<span class="LineNumber"> 009 </span>                                  <H2>๔.  มัคคสัจจะ</H2>
+<span class="LineNumber"> 010 </span>         ธรรมที่ชื่อว่ามรรค,   ชื่อว่ามัคคสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ยกเว้นมัคคสัจจะเสียแล้ว,       ธรรมที่เหลือนอกนั้นชื่อว่ามรรค 
+<span class="LineNumber"> 012 </span>แต่ไม่ชื่อว่ามัคคสัจจะ,     มัคคสัจจะชื่อว่ามรรคก็ใช่      ชื่อว่ามัคคสัจจะ
+<span class="LineNumber"> 013 </span>ก็ใช่.
+<span class="LineNumber"> 014 </span>         ธรรมที่ชื่อว่ามัคคสัจจะ,   ชื่อว่ามรรค  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>                                        <I>จบ  มัคคสัจจะ</I>
+<span class="LineNumber"> 017 </span>                             <I>ปทโสธนวาระ  อนุโลม   จบ</I>

@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>อรรถกถาภัณฑนสูตรที่  ๑๐</H1>
+<span class="LineNumber"> 002 </span>        <B>ภัณฑนสูตรที่  ๑๐</B>  พึงทราบวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>        พระผู้มีพระภาคเจ้าตรัสศีล  พาหุสัจจะ วิริยะ สติ  และปัญญา  คละ 
+<span class="LineNumber"> 004 </span>กันทั้งโลกิยะทั้งโลกุตระ.  คำที่เหลือในที่ทุกแห่ง  มีใจความง่ายทั้งนั้นแล.
+<span class="LineNumber"> 005 </span>                                           จบอรรถกถาภัณฑนสูตรที่  ๑๐
+<span class="LineNumber"> 006 </span>                                   <I>จบอักโกสวรรคที่  ๕</I>
+<span class="LineNumber"> 007 </span>                                   <B>จบปฐมปัณณาสก์</B>
+
+<span class="LineNumber"> 008 </span>                   <H3>รวมพระสูตรที่มีในวรรคนี้  คือ</H3>
+<span class="LineNumber"> 009 </span>        ๑.  วิวาทสูตร     ๒.  ปฐมวิวาทมูลสูตร     ๓.  ทุติยวิวาทมูลสูตร
+<span class="LineNumber"> 010 </span>๔.  กุสินาราสูตร    ๕.  ปเวสนสูตร    ๖.   สักกสูตร    ๗.  มหาลิสูตร
+<span class="LineNumber"> 011 </span>๘. อภิณหปัจจเวกขณธรรมสูตร  ๙. สรีรัฏฐธรรมสูตร  ๑๐. ภัณฑนสูตร.

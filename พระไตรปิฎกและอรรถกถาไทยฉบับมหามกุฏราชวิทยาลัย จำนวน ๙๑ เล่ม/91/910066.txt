@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>๒๓. นสัญโญชนสัญโญชนิยทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>        [๙๘] ๑.   <B>ธรรมที่ไม่ใช่สัญโญชนธรรม   และไม่ใช่อสัญโญ-
+<span class="LineNumber"> 006 </span>ชนิยธรรม  อาศัยธรรมที่ไม่ใช่สัพโญชนธรรม   และไม่ใช่อสัญโญ-
+<span class="LineNumber"> 007 </span>ชนิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 008 </span>                   ๒.   <B>ธรรมที่ไม่ใช่อสัญโญชนิยธรรม    และไม่ใช่ธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่สัญโญชนธรรม    อาศัยธรรมที่ไม่ใช่สัญโญชนธรรม   และ
+<span class="LineNumber"> 010 </span>ไม่ใช่อสัญโญชนิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 011 </span>                   ๓.  <B>ธรรมที่ไม่ใช่สัญโญชนธรรม   และไม่ใช่อสัญโญ-
+<span class="LineNumber"> 012 </span>ชนิยธรรม   ธรรมที่ไม่ใช่อสัญโญชนิยธรรม  และไม่ใช่ธรรมที่ไม่ใช่
+<span class="LineNumber"> 013 </span>สัญโญชนธรรม  อาศัยธรรมที่ไม่ใช่สัญโญชนธรรม  และไม่ใช่
+<span class="LineNumber"> 014 </span>สัญโญชนิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B> 
+<span class="LineNumber"> 015 </span>                   ๔.  <B>ธรรมที่ไม่ใช่อสัญโญชนิยธรรม    และไม่ใช่ธรรม
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่สัญโญชนธรรม   อาศัยธรรมที่ไม่ใช่อสัญโญชนิยธรรม  และ
+<span class="LineNumber"> 017 </span>ไม่ใช่ธรรมที่ไม่ใช่สัญโญชนธรรม  เกิดขึ้น  เพราะเหตุปัจจัย มี  ๓  วาระ.</B>  

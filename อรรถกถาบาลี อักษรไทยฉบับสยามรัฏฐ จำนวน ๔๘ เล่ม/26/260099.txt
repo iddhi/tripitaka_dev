@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  วกฺกลิตฺเถรคาถาวณฺณนา  หน้า  99  
+
+<span class="LineNumber"> 002 </span>	ปสฺสเถตํ  มาณวกํ  			ปีตมฏฺ€นิวาสนํ  
+<span class="LineNumber"> 003 </span>	เหมยฺโปจิตงฺคํ  			ชนเนตฺตมโนหรํ ฯ  
+<span class="LineNumber"> 004 </span>	เอโส  อนาคตทฺธาเน  		โคตมสฺส  มเหสิโน  
+<span class="LineNumber"> 005 </span>	อคฺโค  สทฺธาธิมุตฺตานํ  		สาวโกยํ  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 006 </span>	เทวภูโต  มนุสฺโส  วา  		สพฺพสนฺตาปวชฺชิโต  
+<span class="LineNumber"> 007 </span>	สพฺพโภคปริพฺยูโฬฺห  		สุขิโต  สํสริสฺสติ ฯ  
+<span class="LineNumber"> 008 </span>	สตสหสฺสิโต  กปฺเป  		โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 009 </span>	โคตโม  นาม  โคตฺเตน  		สตฺถา  โลเก  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 010 </span>	ตสฺส  ธมฺเมสุ  ทายาโท  		โอรโส  ธมฺมนิมฺมิโต  
+<span class="LineNumber"> 011 </span>	วกฺกลิ  นาม  นาเมน  		เหสฺสติ  สตฺถุ  สาวโก ฯ  
+<span class="LineNumber"> 012 </span>	เตน  กมฺมวิเสเสน  			เจตนาปณิธีหิ  จ  
+<span class="LineNumber"> 013 </span>	ชหิตฺวา  มานุสํ  เทหํ  		ตาวตึสมคจฺฉหํ ฯ  
+<span class="LineNumber"> 014 </span>	สพฺพตฺถ  สุขิโต  หุตฺวา  		สํสรนฺโต  ภวาภเว  
+<span class="LineNumber"> 015 </span>	สาวตฺถิยํ  ปุเร  ชาโต  		กุเล  อฺตเร  อหํ ฯ  
+<span class="LineNumber"> 016 </span>	โนนีตสุขุมาลํ  มํ  			ชาตปลฺลวโกมลํ  (๑)  
+<span class="LineNumber"> 017 </span>	มนฺทํ  (๒)  อุตฺตานสยนํ  	ปิสาจภยตชฺชิตา ฯ  
+<span class="LineNumber"> 018 </span>	ปาทมูเล  มเหสิสฺส  		สาเยสุํ  (๓)  ทีนมานสา  
+<span class="LineNumber"> 019 </span>	อิมํ  ททาม  เต  นาถ  		สรณํ  โหติ  นายก ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. €ิตํ  ปลฺลวโกมลํ  ฯ  ๒.  สฺยา. มาตา  ฯ  
+<span class="LineNumber"> 021 </span>#๓.  สฺยา. สยาเปสิ  ฯ  ยุ. สาเยยฺยุํ  ฯ  

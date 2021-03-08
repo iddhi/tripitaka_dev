@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                             <B>ข้อห้ามภิกษุผู้อาบน้ำมีดังนี้</B>
+<span class="LineNumber"> 002 </span>๑.  ไม่ให้สีกายในที่ไม่บังควร  เช่นต้นไม้  เสา  ฝาเรือน  และแผ่น
+<span class="LineNumber"> 003 </span>       กระดาน.  
+<span class="LineNumber"> 004 </span>๒.  ไม่ให้สีกายด้วยของไม่บังควร  เช่นทำไม้ทำเป็นรูปมือหรือจักเป็น
+<span class="LineNumber"> 005 </span>      ฟันมังกร  และเกลียวเชือกที่คม.
+<span class="LineNumber"> 006 </span>๓.  ไม่ให้เอาหลังต่อหลังสีกัน.
+<span class="LineNumber"> 007 </span>                   <B>ข้อห้ามการนุ่งห่มผ้าอย่างคฤหัสถ์มีดังนี้</B>
+<span class="LineNumber"> 008 </span>๑.  ห้ามเครื่องนุ่มห่มของคฤหัสถ์  เช่นกางเกง  เสื้อ  ผ้าโพก  หมวด
+<span class="LineNumber"> 009 </span>      ผ้านุ่งผ้าห่มสีต่าง ๆ  ชนิดต่าง ๆ.
+<span class="LineNumber"> 010 </span>๒.  ห้ามอาการนุ่งห่มต่าง ๆ  ที่มิใช่ของภิกษุ
+<span class="LineNumber"> 011 </span>               <B>ประโยชน์แห่งการเคี้ยวไม้ชำระฟันมี  ๕  คือ</B>
+<span class="LineNumber"> 012 </span>๑.  ฟันดูไม่สกปรก.
+<span class="LineNumber"> 013 </span>๒.  ปากไม่เหม็น.
+<span class="LineNumber"> 014 </span>๓.  เส้นประสาทรับรสหมดจดดี.
+<span class="LineNumber"> 015 </span>๔.  เสมหะไม่หุ้มอาหาร.
+<span class="LineNumber"> 016 </span>๕.  ฉันอาหารมีรส.

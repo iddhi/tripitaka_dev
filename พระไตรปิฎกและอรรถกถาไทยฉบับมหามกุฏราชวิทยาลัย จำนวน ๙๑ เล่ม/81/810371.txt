@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>นิยตัสสนิยามกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๒๑]   <B>สกวาที</B>   บุคคลผู้แน่นอนแล้ว  ย่อมก้าวลงสู่ทางแน่นอน
+<span class="LineNumber"> 003 </span>(นิยาม) หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. บุคคลผู้แน่นอนแล้วในมิจฉัตตะ  ก้าวลงสู่สัมมัตตนิยาม
+<span class="LineNumber"> 006 </span>ได้  บุคคลผู้แน่นอนแล้วในสัมมัตตะ    ก็ก้าวลงสู่มิจฉัตตนิยามได้   หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 008 </span>                        ส. บุคคลแน่นอนแล้ว  ย่อมก้าวลงสู่ทางแน่นอน  หรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                        ส. ยังมรรคให้เกิดก่อนแล้ว    จึงก้าวลงสู่ทางแน่นอน (นิยาม)
+<span class="LineNumber"> 011 </span>ในภายหลัง หรือ ?
+<span class="LineNumber"> 012 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 013 </span>                        ส. ยังโสดาปัตติมรรคให้เกิดก่อนแล้ว  จึงก้าวลงสู่โสดา-
+<span class="LineNumber"> 014 </span>ปัตตินิยามในภายหลัง หรือ ?
+<span class="LineNumber"> 015 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 016 </span>                        ส. ยังสกทาคามิมรรค  ฯลฯ  ยังอนาคามิมรรค  ฯลฯ  ยัง
+<span class="LineNumber"> 017 </span>อรหัตมรรคให้เกิดก่อนแล้ว  จึงก้าวลงสู่อรหัตตนิยาม  ในภายหลัง  หรือ ?
+<span class="LineNumber"> 018 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 019 </span>                        ส. บุคคลยังสติปัฏฐาน  ฯลฯ  ยังสัมมัปปธาน  ฯลฯ  ยัง
+<span class="LineNumber"> 020 </span>อิทธิบาท  ฯลฯ  ยังอินทรีย์ ฯลฯ  ยังพละ  ฯลฯ  ยังโพชฌงค์ให้เกิดก่อนแล้ว
+<span class="LineNumber"> 021 </span>จึงก้าวลงสู่ทางแน่นอนในภายหลัง หรือ ? 
+<span class="LineNumber"> 022 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ

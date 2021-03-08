@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>			        <H1>อรณบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>				    <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>			         <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 004 </span>		[๘๖๘]  ๑.  อรณธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม เป็น
+<span class="LineNumber"> 005 </span>ปัจจัยแก่อรณธรรมที่เป็นสุขายเวทนายสัมปยุตตธรรม    ด้วยอำนาจ
+<span class="LineNumber"> 006 </span>ของเหตุปัจจัย
+<span class="LineNumber"> 007 </span>                       ๒.  อรณธรรมที่เป็นอทุกขมสุขายเวทนายสัมปยุตต-
+<span class="LineNumber"> 008 </span>ธรรม   เป็นปัจจัยแก่อรณธรรมที่เป็นอทุกขมสุขายเวทนายสัมปยุตต-
+<span class="LineNumber"> 009 </span>ธรรม  ด้ยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๘๖๙]  ในเหตุปัจจัย  มี ๒ วาระ    ในอารัมมณปัจจัย  มี  ๖  วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 013 </span>           แม้ปัญหาวารในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 014 </span>	 		<I>เวทนาติกสรณทุกะ  จบ</I>

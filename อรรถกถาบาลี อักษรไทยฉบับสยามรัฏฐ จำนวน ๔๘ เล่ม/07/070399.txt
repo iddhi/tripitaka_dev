@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๗  สติปฏฺฐานสุตฺตวณฺณนา หน้า ๓๙๙
+		
+<span class="LineNumber"> 002 </span>โส  ตํ  สตฺตึ หราเปตฺวา ปหารมุขานิ  ติณวฏฺฏิยา  จ(๑)  
+<span class="LineNumber"> 003 </span>ปูราเปตฺวา  ปาสาณปิฏฺ€ิยํ  อตฺตานํ  นิสีทาเปตฺวา โอกาสํ  
+<span class="LineNumber"> 004 </span>กาเรตฺวา  วิปสฺสนํ  วฑฺเฒตฺวา  สห  ปฏิสมฺภิทาหิ  อรหตฺตํ  
+<span class="LineNumber"> 005 </span>ปตฺวา อุกฺกาสิตสทฺเทน อาคตานํ ภิกฺขูนํ พฺยากริตฺวา อิมํ 
+<span class="LineNumber"> 006 </span>อุทานํ อุทาเนสิ  
+<span class="LineNumber"> 007 </span>		(๒)ภาสิตํ พุทฺธเสฏฺเ€น  	สพฺพโลกคฺควาทินา (๒)  
+<span class="LineNumber"> 008 </span>		น ตุมฺหากํ อิทํ รูปํ  		ตํ ชเหยฺยาถ ภิกฺขโวฯ  
+<span class="LineNumber"> 009 </span>		อนิจฺจา วต สงฺขารา  	อุปฺปาทวยธมฺมิโน  
+<span class="LineNumber"> 010 </span>		อุปฺปชฺชิตฺวา นิรุชฺฌนฺติ 	เตสํ วูปสโม สุโขติฯ  
+<span class="LineNumber"> 011 </span>อถ  นํ  ภิกฺขู  อาหํสุ  สเจ  ภนฺเต  สมฺมาสมฺพุทฺโธ  
+<span class="LineNumber"> 012 </span>อโรโค  อภวิสฺสาฯ  อทฺธา  เต  สมุทฺทม(๓)ตฺถเกน หตฺถํ  ปสาเรตฺวา 
+<span class="LineNumber"> 013 </span>สีสํ ปรามเสยฺยาติ ฯ
+<span class="LineNumber"> 014 </span>	เอตฺตาวตา  อยํ มคฺโค ติสฺสตฺเถราทีนํ วิย ทุกฺขสฺส 
+<span class="LineNumber"> 015 </span>อตฺถงฺคมาย สํวตฺตติ ฯ
+<span class="LineNumber"> 016 </span>	สกฺโก  ปน  เทวานมินฺโท  อตฺตโน  ปฺจวิธํ  ปุพฺพนิมิตฺตํ  
+<span class="LineNumber"> 017 </span>ทิสฺวา  มรณภยสนฺตชฺชิโต  โทมนสฺสชาโต  ภควนฺตํ  อุปสงฺกมิตฺวา  
+<span class="LineNumber"> 018 </span>ปฺหํ  ปุจฺฉิฯ  โส   ปฺหวิสชฺชนาวสาเน  (๔) อสีติสหสฺสาหิ  เทวตาหิ  
+<span class="LineNumber"> 019 </span>สทฺธึ  โสตาปตฺติผเล  ปติฏฺ€าสิ ฯ สาปสฺส (๕)อุปปตฺติ ปุน 
+<span class="LineNumber"> 020 </span># ๑. ม. จสทฺโท นตฺถิ ฯ  ๒. ม. ภาสิตํ พุทฺธเสฏฺฐสฺส สพฺพโลกคฺควาทิโน ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. มุทฺธมตฺถเก ฯ  ๔. ม. อุเปกฺขาปญฺหวิสฺสชฺชนาวสาเน ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. ยุ. สา จสฺส ฯ

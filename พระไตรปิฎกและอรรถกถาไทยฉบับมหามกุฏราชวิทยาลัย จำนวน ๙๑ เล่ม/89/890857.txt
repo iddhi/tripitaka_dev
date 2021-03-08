@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         คือ ในปฏิสนธิขณะ   ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นรูปาวจรธรรม ฯลฯ
+<span class="LineNumber"> 002 </span>ขันธ์ ๒.
+<span class="LineNumber"> 003 </span>                    ๒.  <B>ธรรมที่ไม่ใช่รูปาวจรธรรม    อาศัยรูปาวจรธรรม
+<span class="LineNumber"> 004 </span>เกิดขึ้น  เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ   จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นรูปาวจรธรรม.
+<span class="LineNumber"> 006 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 007 </span>                   ๓.  <B>รูปาวจรธรรม      และธรรมที่ไม่ใช่รูปาวจรธรรม
+<span class="LineNumber"> 008 </span>อาศัยรูปาวจรธรรมเกิดขึ้น  เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 009 </span>         คือ  ในปฏิสนธิขณะ  ขันธ์ ๓  และกฏัตตารูป  อาศัยขันธ์ ๑  ที่เป็น
+<span class="LineNumber"> 010 </span>รูปาวจรธรรม ฯลฯ   ขันธ์ ๒.
+<span class="LineNumber"> 011 </span>                   ๔.  <B>ธรรมที่ไม่ใช่รูปาวจรธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 012 </span>รูปาวจรธรรม  เกิดขึ้น  เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  ในอรูปภูมิ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่ไม่ใช่รูปาวจรธรรม ฯลฯ
+<span class="LineNumber"> 014 </span>ขันธ์ ๒.
+<span class="LineNumber"> 015 </span>         จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่ไม่ใช่รูปาวจรธรรม.
+<span class="LineNumber"> 016 </span>         ในปฏิสนธิขณะ ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 017 </span>         วาระ ๕ นอกนี้    (วาระที่ ๕-๙)  พึงกระทำตามลำดับ.
+
+<span class="LineNumber"> 018 </span>                                 <H2>๘.  นปัจฉาชาตปัจจัย</H2> 
+<span class="LineNumber"> 019 </span>         <B>ฯลฯ  เพราะนปัจฉาชาตปัจจัย</B>   มี ๙ วาระ

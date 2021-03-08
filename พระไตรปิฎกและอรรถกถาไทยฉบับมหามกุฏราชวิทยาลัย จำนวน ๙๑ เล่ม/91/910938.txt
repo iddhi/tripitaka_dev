@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๑๖๖]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span> <I>สรณทุกนเหตุสเหตุกทุกนสรณทุกนเหตุนสเหตุทุกทุกะ  จบ</I> 
+
+<span class="LineNumber"> 004 </span>                 <H1>สรณทุกจูฬันตรทุกนสรณทุกจูฬันตรทุกะ</H1>
+<span class="LineNumber"> 005 </span>         <H2>(๑๐๐. สรณทุกะ  ๗.-๑๓. จูฬันตรทุกะ)</H2> 
+<span class="LineNumber"> 006 </span>                                  <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 007 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                            <H2>๑. อารัมมณปัจจัย</H2>	
+<span class="LineNumber"> 009 </span>                                   <H2>อัปปัจจยบท</H2>
+<span class="LineNumber"> 010 </span>           [๑๑๖๗] ๑.  <B>อัปปัจจยธรรม  ที่เป็นอรณธรรม   เป็นปัจจัยแก่
+<span class="LineNumber"> 011 </span>ธรรมทีไม่ใช่อัปปัจจยธรรม     ที่ไม่ใช่สรณธรรม    ด้วยอำนาจของ
+<span class="LineNumber"> 012 </span>อารัมมณปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                                      <H2>อสังขตบท</H2>
+<span class="LineNumber"> 014 </span>                         ๑.  <B>อสังขตธรรมที่เป็นอรณธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 015 </span>ธรรมที่ไม่ใช่อัปปัจจยธรรม    ที่ไม่ใช่สรณธรรม    ด้วยอำนาจของ
+<span class="LineNumber"> 016 </span>อารัมมณปัจจัย</B>
+
+<span class="LineNumber"> 017 </span>                                    <H2>สนิทัสสนบท</H2>
+<span class="LineNumber"> 018 </span>                         ๑.  <B>สนิทัสสนธรรม  ที่เป็นอรณธรรม   เป็นปัจจัยแก่
+<span class="LineNumber"> 019 </span>ธรรมที่ไม่ใช่สนิทัสสนธรรม   ที่ไม่ใช่อรณธรรม    ด้วยอำนาจของ
+<span class="LineNumber"> 020 </span>อารัมมณปัจจัย</B>

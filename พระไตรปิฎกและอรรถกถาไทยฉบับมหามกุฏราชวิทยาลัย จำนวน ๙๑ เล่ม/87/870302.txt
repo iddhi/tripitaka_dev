@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นเสกขธรรม  และหทยวัตถุ ฯลฯ 
+<span class="LineNumber"> 002 </span>ขันธ์ ๒ ฯลฯ 
+<span class="LineNumber"> 003 </span>           [๑๒๐๘] ๗.  <B>อเสกขธรรม  อาศัยอเสกขธรรม  และเนวเสก-
+<span class="LineNumber"> 004 </span>ขานาเสกขธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์ ๑  ที่เป็นอเสกขธรรม  และหทยวัตถุ  ฯลฯ
+<span class="LineNumber"> 006 </span>ขันธ์ ๒ ฯลฯ
+
+<span class="LineNumber"> 007 </span>                     <H1>๓.  อธิปติปัจจัย  ฯลฯ  ๑๑.  อาเสวนปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๑๒๐๙] ๑.  <B>เสกขธรรม  อาศัยเสกขธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 009 </span>อธิปติปัจจัย,  เพราะ  อนันตรปัจจัย,  เพราะ  สมนันตรปัจจัย,  เพราะ
+<span class="LineNumber"> 010 </span>สหชาตปัจจัย,  เพราะ  อัญญมัญญปัจจัย,  เพราะ  นิสสยปัจจัย,  เพราะ
+<span class="LineNumber"> 011 </span>อุปนิสสยปัจจัย,  เพราะ  ปุเรชาตปัจจัย,  เพราะ  อาเสวนปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นเสกขธรรม ฯลฯ
+<span class="LineNumber"> 013 </span>           [๑๒๑๐] ๒.  <B>เนวเสกขานาเสกขธรรม  อาศัยเนวเสกขานา-
+<span class="LineNumber"> 014 </span>เสกขธรรม  เกิดขึ้น  เพราะอาเสวนปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นเนวเสกขานาเสกขธรรม  ฯลฯ
+<span class="LineNumber"> 016 </span>           ขันธ์ทั้งหลาย  ที่เป็นเนวเสกขานาเสกขธรรม  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 017 </span>                         ๓.  <B>เสกขธรรม  อาศัยเนวเสกขานาเสกขธรรม
+<span class="LineNumber"> 018 </span>ขึ้นเกิด ฯลฯ</B>
+<span class="LineNumber"> 019 </span>           คือ  ขันธ์ทั้งหลายที่เป็นเสกขธรรม  ฯลฯ
+     

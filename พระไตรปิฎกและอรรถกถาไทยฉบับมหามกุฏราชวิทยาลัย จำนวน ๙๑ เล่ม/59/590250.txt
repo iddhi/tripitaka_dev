@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ฝ่ายสุนัขจิ้งจอกดีใจว่า     วันนี้เราจักให้เมียกินปลาตะเพียนแดง
+<span class="LineNumber"> 002 </span>แล้วได้มาที่สำนักของเมียนั้น.     นางเมียเห็นผัวกำลังมาดีใจเป็นอย่างยิ่ง
+<span class="LineNumber"> 003 </span>จึงได้กล่าวคาถานี้ว่า :-
+<span class="LineNumber"> 004 </span>                        <B>วันนี้ฉันเห็นผัวมีอาหารเต็มปาก    จึงชื่น
+<span class="LineNumber"> 005 </span>           ใจเหมือนกษัตริย์ได้ราชสมบัติเป็นพระราชา
+<span class="LineNumber"> 006 </span>           แล้ว  พึงทรงชื่นพระทัย  ก็ปานกัน.</B> 
+<span class="LineNumber"> 007 </span>         ครั้นกล่าวคาถานี้แล้ว   เมื่อถามถึงอุบายที่ได้อาหารมา  จึงกล่าว
+<span class="LineNumber"> 008 </span>คาถานี้ว่า :-
+<span class="LineNumber"> 009 </span>                        <B>พี่เป็นสัตว์เกิดบนบก  ไฉนหนอ  จึงจับ
+<span class="LineNumber"> 010 </span>           ปลาในน้ำได้   ดูก่อนพี่ร่วมชีวิต  พี่ถูกฉันถาม
+<span class="LineNumber"> 011 </span>           แล้ว   ขอจงบอกฉันว่า   พี่ได้มาอย่างไร ?</B>
+<span class="LineNumber"> 012 </span>         บรรดาบทเหล่านั้น    บทว่า   <B>กถนฺนุ</B>   ความว่า   เมื่อสุนัขจิ้งจอก
+<span class="LineNumber"> 013 </span>ผัวบอกว่า   จงกินเถิดน้อง        แล้ววางชิ้นปลาไว้ข้างหน้า   สุนัขจิ้งจอก
+<span class="LineNumber"> 014 </span>ตัวเป็นเมีย    จึงถามว่า     พี่เป็นสัตว์เกิดบนบก     แต่จับปลาในน้ำมาได้
+<span class="LineNumber"> 015 </span>อย่างไร ?
+<span class="LineNumber"> 016 </span>         สุนัขจิ้งจอกตัวเป็นผัว  เมื่อจะบอกอุบายที่ได้ปลานั้นมา  จึงกล่าว
+<span class="LineNumber"> 017 </span>คาถาติดต่อกันไปว่า :-

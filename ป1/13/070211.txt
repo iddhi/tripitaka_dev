@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>บอกอย่างนี้  ลงกันได้กับประโยคที่มีบทนามนาม  เป็นนปุํสกลิงค์ เช่น
+<span class="LineNumber"> 002 </span>ยทิทํ   ภิกฺขเว จิตฺตํ,  ยถยิทํ  เทียบกันได้กับ ยถาตํ,  บอกสัมพันธ์
+<span class="LineNumber"> 003 </span>รวมกันไปกับยถาศัพท์ก็ได้ บอกแยกว่าวจนาลังการก็ได้, แม้ อิทํ  ที่
+<span class="LineNumber"> 004 </span>รวมอยู่กับศัพท์อื่น ก็พึงทราบอย่างนี้ อุ. :- 
+<span class="LineNumber"> 005 </span>                            ยถยิทํ,  ยาวญฺจิทํ  
+<span class="LineNumber"> 006 </span>                                     อุ. ที่ ๑
+<span class="LineNumber"> 007 </span>	นาหํ  ภิกฺขเว อฺํ  เอกธมฺมํปิ  สมนุปสฺสามิ,  ยํ เอวํ
+<span class="LineNumber"> 008 </span>ลหุปริวตฺตํ,  <B>ยถยิทํ</B> ภิกฺขเว จิตฺต. ยาวญฺจิทํ  ภิกฺขเว  อุปมาปิ  น
+<span class="LineNumber"> 009 </span>สุกรา,  ยาว  ลหุปริวตฺตํ  จิตฺตํ.  [ องฺ.  เอก. ๒๐/๑๑]  "ภิกษุ ท.,
+<span class="LineNumber"> 010 </span>เราไม่แลเห็นแม้ธรรมข้อหนึ่งอื่น ที่แปรเร็วเหมือนจิต  (หรือเหมือน
+<span class="LineNumber"> 011 </span>จิตนี้)   ภิกษุ ท.,  จนกระทั่ง,  ภิกษุ ท.,  อุปมาไม่ทำง่าย  เท่าที่จิต
+<span class="LineNumber"> 012 </span>(แปรเร็ว."  ยาวญฺจาติ  อธิมตฺตสมานตฺเถ  นิปาโต. อติวิย  น
+<span class="LineNumber"> 013 </span>สุกโรติ  อตฺโถ. อิทนฺติ  นิปาตมตฺตํ. มโน. ปู.  ๑/๖๑).
+<span class="LineNumber"> 014 </span>                             สัมพันธ์  ยถยิทํ
+<span class="LineNumber"> 015 </span>	๑.  ยถยิทํสทฺโท  อุปมาโชตโก.
+<span class="LineNumber"> 016 </span>	๒.  ยถาสทฺโท อุปมาโชตโก. อิทํสทฺโท  วจนาลงฺกาโร.
+<span class="LineNumber"> 017 </span>	๓.  ยถาสทฺโท  อุปมาโชตโก.  อิทนฺติ  ปทํ จิตฺตนฺติ  ปทสฺส
+<span class="LineNumber"> 018 </span>วิเสสนํ.
+<span class="LineNumber"> 019 </span>                            สัมพันธ์  ยาวญฺจิทํ
+<span class="LineNumber"> 020 </span>	๑. ยาวญฺจิทํสทฺโท  กิริยาวิเสสนํ.
+

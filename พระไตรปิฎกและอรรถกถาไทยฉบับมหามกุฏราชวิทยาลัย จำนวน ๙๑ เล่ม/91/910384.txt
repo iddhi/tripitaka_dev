@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                      <H1>๔. อุปาทินนติกนอุปาทินนติกะ</H1>  
+<span class="LineNumber"> 002 </span>                                    <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 003 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 005 </span>           [๔๐] ๑.  <B>ธรรมที่ไม่ใช่อุปาทินนุปาทานิยธรรม   อาศัยธรรม
+<span class="LineNumber"> 006 </span>ที่เป็นอุปาทินนุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 007 </span>                    ๒.  <B>ธรรมที่ไม่ใช่อนุปาทินนุปาทานิยธรรม อาศัยธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นอุปาทินนุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                    ๓.  <B>ธรรมที่ไม่ใช่อนุปาทินนอนุปาทานิยธรรม    อาศัย
+<span class="LineNumber"> 010 </span>ธรรมที่เป็นอุปาทินนุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                    ๔.  <B>ธรรมที่ไม่ใช่อุปาทินนุปาทานิยธรรม    และธรรม
+<span class="LineNumber"> 012 </span>ที่ไม่ใช่อนุปาทินนอนุปาทานิยธรรม      อาศัยธรรมที่เป็นอุปาทิน-
+<span class="LineNumber"> 013 </span>นุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 014 </span>                    ๕.  <B>ธรรมที่ไม่ใช่อนุปาทินนุปาทานิยธรรม   และธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่อนุปาทินนอนุปาทานิยธรรม      อาศัยธรรมที่เป็นอุปาทิน-
+<span class="LineNumber"> 016 </span>นุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๕ วาระ. 

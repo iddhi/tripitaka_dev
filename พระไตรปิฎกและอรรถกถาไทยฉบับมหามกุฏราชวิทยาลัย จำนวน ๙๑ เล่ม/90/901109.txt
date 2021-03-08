@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>		     	<H1>ทุกขายเวทนายสัมปยุตตบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 002 </span>						<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>					      <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 004 </span>		[๖]  ๑.  ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล  อาศัย
+<span class="LineNumber"> 005 </span>ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>					  <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๗]  ๑.  ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล  อาศัย
+<span class="LineNumber"> 008 </span>ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอกุศล  เกิดขึ้น  เพราะอารัมมณ-
+<span class="LineNumber"> 009 </span>ปัจจัย
+<span class="LineNumber"> 010 </span>			๒.  ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอัพยากตะ  อาศัย
+<span class="LineNumber"> 011 </span>ทุกขายเวทนายสัมปยุตตธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 012 </span>อารัมมณปัจจัย
+<span class="LineNumber"> 013 </span>				 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>		[๘]  ในเหตุปัจจัย  มี ๑  วาระ  ในอารัมมณปัจจัย  มี ๒  วาระ  ฯลฯ
+<span class="LineNumber"> 015 </span>ในอวิคตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 016 </span>		สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.			
+

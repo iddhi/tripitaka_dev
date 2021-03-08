@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>มี ๒๑ วาระ ฯลฯ  ในฌานปัจจัย มี ๒๑  วาระ  ในมัคคปัจจัย  มี ๒๑ วาระ  ใน 
+<span class="LineNumber"> 002 </span>สัมปยุตตปัจจัย  มี ๑ วาระ   ในวิปปยุตตปัจจัย  มี ๒  วาระ    ในอัตถิปัจจัย
+<span class="LineNumber"> 003 </span>มี ๒๑ วาระ ในนัตถิปัจจัย  มี ๑ วาระ  ในวิคตปัจจัย มี ๑ วาระ ในอวิคตปัจจัย
+<span class="LineNumber"> 004 </span>มี ๒๑ วาระ.
+<span class="LineNumber"> 005 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 006 </span>                                         <I>ปัจจนียานุโลมนัย  จบ</I>
+<span class="LineNumber"> 007 </span>                                              <I>ปฏิจจวาระ  จบ</I>
+<span class="LineNumber"> 008 </span>           สหชาตวาระก็ดี  ปัจจัยวาระก็ดี  นิสสยวาระก็ดี เหมือนกับ ปฏิจจวาระ
+<span class="LineNumber"> 009 </span>สังสัฏฐวาระก็ดี  สัมปยุตตวาระก็ดี  พึงกระทำในอรูปภูมิเท่านั้น.

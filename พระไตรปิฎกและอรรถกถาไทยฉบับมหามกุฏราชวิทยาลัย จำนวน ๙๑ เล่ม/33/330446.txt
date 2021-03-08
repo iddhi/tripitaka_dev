@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H3>สูตรที่  ๙</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๔๐]  ๙๔.  ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒  อย่างนี้  ๒  อย่าง
+<span class="LineNumber"> 003 </span>เป็นไฉน    คือ   ความเป็นคนว่าง่าย  ๑   ความเป็นผู้มีมิตรดี  ๑   ดูก่อน
+<span class="LineNumber"> 004 </span>ภิกษุทั้งหลาย   ธรรม   ๒  อย่างนี้แล.
+<span class="LineNumber"> 005 </span>                                                 จบสูตรที่  ๙
+
+<span class="LineNumber"> 006 </span>                                 <H3>สูตรที่ ๑๐</H3>
+
+<span class="LineNumber"> 007 </span>         [๓๔๑]   ๙๕. ดูก่อนภิกษุทั้งหลาย   ธรรม  ๒ อย่างนี้    ๒  อย่าง
+<span class="LineNumber"> 008 </span>เป็นไฉน คือ ความเป็นผู้ฉลาดในธาตุ  ๑   ความเป็นผู้ฉลาดในมนสิการ  ๑
+<span class="LineNumber"> 009 </span>ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่างนี้แล.
+<span class="LineNumber"> 010 </span>                                                 จบสูตรที่   ๑๐
+
+<span class="LineNumber"> 011 </span>                                 <H3>สูตรที่  ๑๑</H3>
+
+<span class="LineNumber"> 012 </span>         [๓๔๒]  ๙๖.  ดูก่อนภิกษุทั้งหลาย   ธรรม ๒ อย่างนี้    ๒  อย่าง
+<span class="LineNumber"> 013 </span>เป็นไฉน   คือ ความเป็นผู้ฉลาดในอาบัติ   ๑  ความเป็นผู้ฉลาดในการออก
+<span class="LineNumber"> 014 </span>จากอาบัติ  ๑  ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒  อย่างนี้แล.
+<span class="LineNumber"> 015 </span>                                                   จบสูตรที่   ๑๑
+<span class="LineNumber"> 016 </span>                                 <I>จบธรรมวรรคที่  ๔</I>

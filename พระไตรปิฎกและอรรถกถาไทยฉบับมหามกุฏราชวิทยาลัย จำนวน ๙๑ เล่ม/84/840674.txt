@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>ปัจจุปันนาตีต  ปุคคลวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                       <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ   โสตินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๑๐๑๒]   จักขุนทรีย์กำลังเกิดแก่บุคคลใด,    โสตินทรีย์ก็เคย
+<span class="LineNumber"> 005 </span>เกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า    โสตินทรีย์เคยเกิดแก่บุคคลใด,    จักขุนทรีย์ก็กำลัง
+<span class="LineNumber"> 008 </span>เกิดแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         เมื่อบุคคลทั้งหมดกำลังตายก็ดี     บุคคลที่จักขุเกิดไม่ได้กำลังเกิด
+<span class="LineNumber"> 010 </span>อยู่ก็ดี   โสตินทรีย์เคยเกิดแก่บุคคลเหล่านั้น    แต่จักขุนทรีย์ไม่ใช่กำลัง
+<span class="LineNumber"> 011 </span>เกิดแก่บุคคลเหล่านั้น,    บุคคลที่มีจักขุเกิดได้กำลังเกิดอยู่    โสตินทรีย์
+<span class="LineNumber"> 012 </span>เคยเกิด   และจักขุนทรีย์ก็กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 013 </span>                        <I>จบ  จักขุนทริยมูละ  โสตินทริยมูลี</I>

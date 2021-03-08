@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>      อุดมบุรุษ                      ผู้พูด                               ผู้ฟัง   
+<span class="LineNumber"> 002 </span>อิฉัน                           ผู้น้อย (หญิง)                  ผู้ใหญ่, ไม่ใช่เจ้านาย
+<span class="LineNumber"> 003 </span>ตู  (โบราณ)                สามัญ                             สามัญ
+<span class="LineNumber"> 004 </span>ข้า  (โบราณ)              ผู้น้อย                              ผู้ใหญ่
+<span class="LineNumber"> 005 </span>ข้า,  กู  (ไม่สุภาพ)       ผู้เป็นนาย,  เพื่อนกัน        คนใช้,  เพื่อกัน
+<span class="LineNumber"> 006 </span>เรา (โบราณ)               ผู้ใหญ่                              ผู้น้อย
+<span class="LineNumber"> 007 </span>เรา                               ทั่วไปหลายคน                ทั่วไปไม่ใช่เจ้านาย
+<span class="LineNumber"> 008 </span>                                                                           และขุนนางชั้นสูง
+<span class="LineNumber"> 009 </span>ข้าพเจ้า ข้าเจ้า              ทุกชั้น                             ใช้เป็นกลางทั่วไป
+<span class="LineNumber"> 010 </span>	คำแปลของปุริสสัพพนาม  คือ <B>ต  ตุมฺห  อมฺห</B>  ที่กล่าวมา
+<span class="LineNumber"> 011 </span>แล้วนี้  ยังไม่สิ้นเชิง  คำพูดของภาษาไทยที่ใช้ในคำประเภทนี้มีมาก
+<span class="LineNumber"> 012 </span>อาจหมุนเวียนไปตามกาลสมัย  และท้องถิ่นนั้น ๆ นิยมกัน.
+<span class="LineNumber"> 013 </span>                              วิธีใช้  ตุมฺห  และ  อมฺห
+<span class="LineNumber"> 014 </span>	ทั้งสองศัพท์นี้  สำหรับใช้แทนนามคู่สนทนา  ดังกล่าวแล้ว และ
+<span class="LineNumber"> 015 </span>จะต้องนำไปแจกวิภัตติเสียก่อนเหมือนศัพท์ทั้งหลายอื่น  แต่การแจก
+<span class="LineNumber"> 016 </span>วิภัตตินั้น  ก็แจกมีรูปอย่างเดียวกันทั้ง ปุํลิงค์ และ อิตถีลิงค์ ดังที่ท่าน
+<span class="LineNumber"> 017 </span>แสดงไว้ในแบบนามนั้นแล้ว.

@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>สัทธินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>สัทธินทริยมูละ   ปัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๕๕๕]    สัทธินทรีย์กำลังเกิดในภูมิใด,      ปัญญินทรีย์ก็กำลัง
+<span class="LineNumber"> 004 </span>เกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่. 
+<span class="LineNumber"> 006 </span>         ก็หรือว่าปัญญินทรีย์กำลังเกิดในภูมิใด,   สัทธินทรีย์ก็กำลังเกิด
+<span class="LineNumber"> 007 </span>ในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>                     <I>จบ  สัทธินทริยมูละ   ปัญญินทริยมูลี</I>
+
+<span class="LineNumber"> 009 </span><B>สัทธินทริยมูละ  มนินทริยมูลี:-</B>
+<span class="LineNumber"> 010 </span>         [๕๕๖]    สัทธินทรีย์กำลังเกิดในภูมิใด,   มนินทรีย์ก็กำลังเกิด
+<span class="LineNumber"> 011 </span>ในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.

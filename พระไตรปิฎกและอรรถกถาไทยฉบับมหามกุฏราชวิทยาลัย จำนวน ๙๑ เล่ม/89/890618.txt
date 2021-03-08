@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                     ๗.  <B>ทัสสเนนปหาตัพพธรรม  อาศัยทัสสเนนปหา-
+<span class="LineNumber"> 002 </span>ตัพพธรรม  และธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม  เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ  ขันธ์ ๓  อาศัยขันธ์ ๑    ที่เป็นทัสสเนนปหาตัพพธรรม    และ
+<span class="LineNumber"> 005 </span>หทยวัตถุ ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 006 </span>                     ๘.   <B>ธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม อาศัยทัสส-
+<span class="LineNumber"> 007 </span>เนนปหาตัพพธรรมและธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรมเกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>         คือ  จิตตสมุฏฐานรูป     อาศัยขันธ์ทั้งหลายที่เป็นทัสสเนนปหาตัพพ-
+<span class="LineNumber"> 010 </span>ธรรม   และมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 011 </span>                     ๙.  <B>ทัสสเนนปหาตัพพธรรม  และธรรมที่ไม่ใช่ทัสส-
+<span class="LineNumber"> 012 </span>เนนปหาตัพพธรรม อาศัยทัสสเนนปหาตัพพธรรม  และธรรมที่ไม่ใช่
+<span class="LineNumber"> 013 </span>ทัสสเนนปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  ขันธ์ ๓  อาศัยขันธ์ ๑    ที่เป็นทัสสเนนปหาตัพพธรรม     และ
+<span class="LineNumber"> 015 </span>หทยวัตถุ ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 016 </span>         จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลาย   ที่เป็นทัสสเนนปหาตัพพธรรม
+<span class="LineNumber"> 017 </span>และมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 018 </span>                                <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 019 </span>         [๕๖๗]  ในเหตุปัจจัย มี  ๙ วาระ      ในอารัมมณปัจจัย มี ๔ วาระ
+<span class="LineNumber"> 020 </span>ในอธิปติปัจจัย มี ๙ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๙ วาระ.

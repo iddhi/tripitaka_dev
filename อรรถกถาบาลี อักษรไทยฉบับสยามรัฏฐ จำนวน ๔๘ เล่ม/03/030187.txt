@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  ๑๘๗
+  
+<span class="LineNumber"> 002 </span>  			ปวารณากฺขนฺธกวณฺณนา
+  
+<span class="LineNumber"> 003 </span>  	ปวารณากฺขนฺธเก  เนว  อาลเปยฺยาม  น  สลฺลเปยฺยามาติ  
+<span class="LineNumber"> 004 </span>เอตฺถ  อาลาโป  นาม  ป€มวจนํ  สลฺลาโป  นาม  ปจฺฉิมวจนํ  ฯ  
+<span class="LineNumber"> 005 </span>หตฺถวิลงฺฆเกนาติ  หตฺถุกฺเขปเกน  ฯ  ปสุสํวาสนฺติ  ปสูนํ  
+<span class="LineNumber"> 006 </span>วิย   สํวาสํ  ฯ  ปสโวปิ  หิ  อตฺตโน  อุปฺปนฺนํ  สุขทุกฺขํ  
+<span class="LineNumber"> 007 </span>อฺมฺสฺส  น  อาโรเจนฺติ  ปฏิสนฺถารํ  น  กโรนฺติ  ตถา  
+<span class="LineNumber"> 008 </span>เอเตปิ  อกํสุ  ฯ ตสฺมา  เนสํ  สํวาโส  ปสุสํวาโสติ  วุจฺจติ  ฯ 
+<span class="LineNumber"> 009 </span>เอส  นโย  สพฺพตฺถ ฯ น  ภิกฺขเว  มูควตฺตํ  ติตฺถิยสมาทานนฺติ 
+<span class="LineNumber"> 010 </span>อิมํ  เตมาสํ  น  กเถตพฺพนฺติ  เอวรูปํ  วตฺตสมาทานํ  น 
+<span class="LineNumber"> 011 </span>กาตพฺพํ  ฯ  อธมฺมิกกติกา  หิ  เอสา  ฯ อฺมฺานุโลมตาติ  
+<span class="LineNumber"> 012 </span>อฺมฺํ  วตฺตุํ  อนุโลมภาโว  ฯ  วทนฺตุ มํ  อายสฺมนฺโตติ  
+<span class="LineNumber"> 013 </span>หิ  วทนฺตํ  สกฺกา  โหติ  กิฺจิ  วตฺตุํ น  อิตรํ  ฯ  อาปตฺติ-
+<span class="LineNumber"> 014 </span>วุฏฺ€านตา  วินยปุเรกฺขารตาติ  อาปตฺตีหิ  วุฏฺ€านภาโว  วินยํ  
+<span class="LineNumber"> 015 </span>ปุรโต  กตฺวา  จรณภาโว  ฯ  วทนฺตุ  มํ  อายสฺมนฺโตติ  หิ  
+<span class="LineNumber"> 016 </span>วทนฺโต  อาปตฺตีหิ  วุฏฺ€หิสฺสติ  วินยฺจ  ปุรกฺขิตฺวา  วิหรตีติ  
+<span class="LineNumber"> 017 </span>วุจฺจติ  ฯ  
+<span class="LineNumber"> 018 </span>	สุณาตุ  เม  ภนฺเต  สงฺโฆ  อชฺช  ปวารณา  ยทิ  
+<span class="LineNumber"> 019 </span>สงฺฆสฺส  ปตฺตกลฺลํ  สงฺโฆ  ปวาเรยฺยาติ  อยํ  สพฺพสงฺคาหิกา  
+<span class="LineNumber"> 020 </span>นาม  ตฺติ  ฯ  เอวํ  หิ  วุตฺเต  เตวาจิกํ  เทฺววาจิกฺจ  เอกวาจิกฺจ  
+<span class="LineNumber"> 021 </span>ปวาเรตุํ  วฏฺฏติ  สมานวสฺสิกเมว  น  วฏฺฏติ  ฯ  เตวาจิกํ 

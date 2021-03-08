@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า      บุคคลใดไม่ใช่จักเจริญอนัญญาตัญญัสสามีตินทรีย์,
+<span class="LineNumber"> 002 </span>บุคคลนั้นก็ไม่ใช่จักรู้แจ้งจักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         บุคคล  ๖  จำพวก     ไม่ใช่จักเจริญอนัญญาตัญญัสสามีตินทรีย์
+<span class="LineNumber"> 004 </span>แต่จักรู้แจ้งจักขุนทรีย์,    บุคคล ๓ จำพวก   ไม่ใช่จักเจริญอนัญญาตัญ-
+<span class="LineNumber"> 005 </span>ญัสสามีตินทรีย์   และก็ไม่ใช่จักรู้แจ้งจักขุนทรีย์.
+<span class="LineNumber"> 006 </span>             <I>จบ   จักขุนทริยมูละ   อนัญญาตัญญัสสามีตินทริยมูลี</I>
+
+<span class="LineNumber"> 007 </span><B>จักขุนทริยมูละ  อัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 008 </span>         [๑๓๘๗]  บุคคลใดไม่ใช่จักรู้แจ้งจักขุนทรีย์,    บุคคลนั้นก็ไม่ใช่
+<span class="LineNumber"> 009 </span>จักเจริญอัญญินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า  บุคคลใดไม่ใช่จักเจริญอัญญินทรีย์   บุคคลนั้นก็ไม่ใช่
+<span class="LineNumber"> 012 </span>จักรู้แจ้งจักขุนทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่. 
+<span class="LineNumber"> 014 </span>                        <I>จบ  จักขุนทริยมูละ    อัญญินทริยมูลี</I>

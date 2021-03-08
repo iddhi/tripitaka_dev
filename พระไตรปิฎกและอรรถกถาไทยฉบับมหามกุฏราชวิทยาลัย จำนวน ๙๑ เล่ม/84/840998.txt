@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>อตีตานาคต  โอกาสวาระ  ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>                              <H2>จักขุนทริยมูล</H2>
+<span class="LineNumber"> 003 </span>         [๑๓๐๐]  จักขุนทรีย์ไม่ใช่เคยเกิดในภูมิใด  ฯลฯ
+<span class="LineNumber"> 004 </span>                       <I>จบ   จักขุนทริยมูละ   ฯลฯ</I>
+<span class="LineNumber"> 005 </span>               <I>อตีตานาคต  โอกาสวาระ  ปัจจนิก  จบ</I>

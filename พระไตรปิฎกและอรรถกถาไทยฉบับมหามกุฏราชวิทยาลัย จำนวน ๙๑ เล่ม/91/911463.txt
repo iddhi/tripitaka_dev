@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>           <H2>โนจิตตสังสัฏฐสมุฏฐานานุปริวัตติบท</H2> 
+<span class="LineNumber"> 002 </span>           [๑๓๒๙] ๑.  <B>ธรรมที่ไม่ใช่จิตตสังสัฏฐสมุฏฐานานุปริวัตติ-
+<span class="LineNumber"> 003 </span>ธรรม   ที่เป็นนเหตุธรรม   อาศัยธรรมที่ไม่ใช่ธรรม   ที่ไม่ใช่จิตต- 
+<span class="LineNumber"> 004 </span>สังสัฏฐสมุฏฐานานุปริวัตติธรรม ที่ไม่ใช่เหตุธรรม  เกิดขึ้น  เพราะ-
+<span class="LineNumber"> 005 </span>เหตุปัจจัย</B> 
+<span class="LineNumber"> 006 </span>                                              <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 007 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 008 </span>           [๑๓๓๐]  ในเหตุปัจจัย มี ๓ วาระ   ฯลฯ
+<span class="LineNumber"> 009 </span>               <I>นเหตุทุกโนจิตตสังสัฏฐสมุฏฐานานุปริวัตตทุกะ</I>
+<span class="LineNumber"> 010 </span>               <I>เหตุทุกจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ  จบ</I>	

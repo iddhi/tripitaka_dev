@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  จตุทฺวารชาตกํ  หน้า 478
+
+<span class="LineNumber"> 002 </span>กิมาทิกรณนฺติ  กึ  อธิกรณํ  กึ(๑) การณํ ฯ จกฺกาภินิหโตติ 
+<span class="LineNumber"> 003 </span>จกฺเกน อภินิหโต ฯ  
+<span class="LineNumber"> 004 </span>	อถสฺส เทวราชา การณํ กเถตุํ ฉ คาถา อภาสิ  
+<span class="LineNumber"> 005 </span>	[๑๓๒๑]ลทฺธา สตสหสฺสานิ  	อติเรกานิ วีสติ  
+<span class="LineNumber"> 006 </span>		อนุกมฺปกานํ าตีนํ  	วจนํ สมฺม นากริ ฯ  
+<span class="LineNumber"> 007 </span>	[๑๓๒๒]ลงฺฆึ สมุทฺทํ ปกฺขนฺทิ  	สาครํ อปฺปสิทฺธิกํ(๒)  
+<span class="LineNumber"> 008 </span>		จตุพฺภิ อฏฺ€ชฺฌคมา  	อฏฺ€าภิปิ จ โสฬส ฯ  
+<span class="LineNumber"> 009 </span>	[๑๓๒๓]โสฬสาภิ จ พตฺตึส  	อติจฺฉํ จกฺกมาสโท  
+<span class="LineNumber"> 010 </span>		อิจฺฉาหตสฺส โปสสฺส  	จกฺกํ ภมติ มตฺถเก ฯ  
+<span class="LineNumber"> 011 </span>	[๑๓๒๔]อุปริวิสาลา ทุปฺปูรา  	อิจฺฉาวิปตฺติคามินี(๓)  
+<span class="LineNumber"> 012 </span>		เย จ ตํ อนุคิชฺฌนฺติ  	เต โหนฺติ จกฺกธาริโน ฯ  
+<span class="LineNumber"> 013 </span>	[๑๓๒๕]พหุภณฺฑฺจ โอหาย(๔)	มคฺคํ อปฺปฏิเวกฺขิย  
+<span class="LineNumber"> 014 </span>		เยสํ เจตํ อสงฺขาตํ  		เต โหนฺติ จกฺกธาริโน ฯ  
+<span class="LineNumber"> 015 </span>		[๑๓๒๖]กมฺมํ สเมกฺเขยฺย(๕) วิปุลฺจ โภคํ  
+<span class="LineNumber"> 016 </span>			อิจฺฉํ น เสเวยฺย อนตฺถสณฺหิตํ  
+<span class="LineNumber"> 017 </span>			กเรยฺย วากฺยํ อนุกมฺปกานํ  
+<span class="LineNumber"> 018 </span>			ตํ ตาทิสํ นาติวเตยฺย จกฺกนฺติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  ลทฺธา  สตสหสฺสานิ  อติเรกานิ  วิสตีติ  ตฺวํ  อุโปสถํ  
+<span class="LineNumber"> 020 </span># ๑. ม. อิเม ปา€า นตฺถิ ฯ  ๒. ส. อปฺปสิทฺธิยํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. อิจฺฉาวิสฏคามินี ฯ อิจฺฉาวิสตคามินนฺติปิ ปาโ€ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. พหุภณฺฑํ อวหาย ฯ  ๕. ส. ม. สเมกฺเข ฯ 

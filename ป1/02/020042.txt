@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>เมธาวี	คนมีปัญญา		สุขี		คนมีสุข    
+<span class="LineNumber"> 002 </span>สิขี		นกยูง			หตฺถี		ช้าง
+<span class="LineNumber"> 003 </span>                         วิธีเปลี่ยน  วิภัตติ  และ  การันต์
+<span class="LineNumber"> 004 </span>๑  เอา  อํ  เป็น  นํ  ได้บ้าง.
+<span class="LineNumber"> 005 </span>๒  อี  อู  ปุํ.  อยู่หน้า  เอา  โย  เป็น  โน แล้ว  รัสสะสระตัวหน้าเสีย
+<span class="LineNumber"> 006 </span>     หรือลบ  โย  ก็ได้.
+<span class="LineNumber"> 007 </span>๓  วิภัตติ  เอกวจนะ  ทั้งปวง  ยก  ป.  เสีย  และ  โย  อยู่หลังต้องรัสสะ
+<span class="LineNumber"> 008 </span>อี  อู  ใน  ปุํ.  อิต.
+
+<span class="LineNumber"> 009 </span>              [๕๐]  อุ  การันต์  ในปุํลิงค์ แจกอย่าง  ครุ  [ครู]  ดังนี้ :-
+<span class="LineNumber"> 010 </span>------------------------------------------------------------------------------
+<span class="LineNumber"> 011 </span>		เอก.					พหุ.
+<span class="LineNumber"> 012 </span>ป. 	ครุ					ครโว	ครู
+<span class="LineNumber"> 013 </span>ทุ.	ครุํ					ครโว	ครู
+<span class="LineNumber"> 014 </span>ต.	ครุนา				ครูหิ		ครูภิ
+<span class="LineNumber"> 015 </span>จ.	ครุสฺส	ครุโน		ครูนํ
+<span class="LineNumber"> 016 </span>ปญฺ.	ครุสฺมา	ครุมฺหา		ครูหิ		ครูภิ
+<span class="LineNumber"> 017 </span>ฉ. 	ครุสฺส	ครุโน		ครูนํ
+<span class="LineNumber"> 018 </span>ส.  	ครุสฺมึ	ครุมฺหิ		ครูสุ
+<span class="LineNumber"> 019 </span>อา.	ครุ					ครเว		ครโว

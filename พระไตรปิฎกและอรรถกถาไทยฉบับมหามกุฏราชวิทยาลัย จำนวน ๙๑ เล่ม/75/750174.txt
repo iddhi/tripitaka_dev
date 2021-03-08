@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                  <H1>สัญโญชนโคจฉกะ</H1> 
+
+<span class="LineNumber"> 002 </span>               <H1>หมวดที่  ๔ มี ๖ ทุกะ</H1> <B>คือ</B>
+
+<span class="LineNumber"> 003 </span>         [๕]        <H2>๒๐-๑.  สัญโญชนทุกะ</H2>
+<span class="LineNumber"> 004 </span><B>สญฺโชนา  ธมฺมา</B>                    ธรรมเป็นสัญโญชน์
+<span class="LineNumber"> 005 </span><B>โน สญฺโชนา ธมฺมา</B>                ธรรมไม่เป็นสัญโญชน์
+
+<span class="LineNumber"> 006 </span>                    <H2>๒๑-๒.  สัญโญชนิยทุกะ</H2>
+
+<span class="LineNumber"> 007 </span><B>สญฺโชนิยา ธมฺมา</B>                  ธรรมเป็นอารมณ์ของสัญโญชน์
+<span class="LineNumber"> 008 </span><B>อสญฺโชนิยา  ธมฺมา</B>               ธรรมไม่เป็นอารมณ์ของสัญโญชน์
+
+<span class="LineNumber"> 009 </span>               <H2>๒๒-๓.  สัญโญชนสัมปยุตตทุกะ</H2>
+ 
+<span class="LineNumber"> 010 </span><B>สญฺโชนสมฺปยุตฺตา ธมฺมา</B>       ธรรมสัมปยุตด้วยสัญโญชน์
+<span class="LineNumber"> 011 </span><B>สญฺโชนวิปฺปยุตฺตา  ธมฺมา</B>       ธรรมวิปปยุตจากสัญโญชน์
+
+<span class="LineNumber"> 012 </span>              <H2>๒๓-๔.  สัญโญชนสัญโญชนิยทุกะ</H2>
+
+<span class="LineNumber"> 013 </span><B>สญฺโชนา เจว ธมฺมา</B>              ธรรมเป็นสัญโญชน์  และเป็นอารมณ์
+<span class="LineNumber"> 014 </span><B>สญฺโชนิยา จ</B>                         ของสัญโญชน์
+<span class="LineNumber"> 015 </span><B>สญฺโชนิยา เจว ธมฺมา โน</B>       ธรรมเป็นอารมณ์ของสัญโญชน์  แต่ไม่
+<span class="LineNumber"> 016 </span><B>จ สญฺโชนา</B>                            เป็นสัญโญชน์
+
+<span class="LineNumber"> 017 </span>          <H2>๒๔-๕.  สัญโญชนสัญโญชนสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 018 </span><B>สญฺโชนา เจว ธมฺมา</B>              ธรรมเป็นสัญโญชน์และสัมปยุตด้วย				
+<span class="LineNumber"> 019 </span><B>สญฺโชนสมฺปยุตฺตา จ</B>             สัญโญชน์

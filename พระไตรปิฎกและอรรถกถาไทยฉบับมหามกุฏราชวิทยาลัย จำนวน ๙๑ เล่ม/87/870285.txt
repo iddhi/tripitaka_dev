@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>ในกัมมปัจจัย  มี ๗ วาระ  ในวิปากปัจจัย  มี ๑ วาระ  ในอาหารปัจจัย  มี ๗  
+<span class="LineNumber"> 002 </span>วาระ  ในอินทริยปัจจัย  มี ๗ วาระ  ในฌานปัจจัย  มี ๗ วาระ  ในมัคคปัจจัย
+<span class="LineNumber"> 003 </span>มี ๗ วาระ  ในสัมปยุตตปัจจัย  มี ๓ วาระ  ในวิปปยุตตปัจจัย  มี ๕ วาระ
+<span class="LineNumber"> 004 </span>ในอัตถิปัจจัย  มี ๑๓ วาระ  ในนัตถิปัจจัย  มี ๖ วาระ  ในวิคตปัจจัย  มี ๖
+<span class="LineNumber"> 005 </span>วาระ  ในอวิคตปัจจัย  มี ๑๓ วาระ. 
+<span class="LineNumber"> 006 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 007 </span>                                        <I>ปัจจนียานุโลมนัย  จบ</I>                       
+<span class="LineNumber"> 008 </span>                                      <I>อาจยคามิติกะ  ที่ ๑๐ จบ</I>
+
+<span class="LineNumber"> 009 </span>                                        <H1>อรรถกถาอาจยคามิติกะ</H1>
+<span class="LineNumber"> 010 </span>           อนุโลมปัฏฐานในปฏิจจวาระ  และสังสัฏฐวาระ  ใน  <B>อาจยคามิติกะ</B>
+<span class="LineNumber"> 011 </span>เหมือนกับในกุศลติกะ  คำที่เหลือท่านอธิบายไปตามบาลีนั่นเอง  ทั้งโดยวิสัชนา
+<span class="LineNumber"> 012 </span>และการนับ.
+<span class="LineNumber"> 013 </span>                                     <I>อรรถกถาอาจยคามิติกะ  จบ</I>
+                                  

@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>	           <H2>รวมพระสูตรและอรรถกถาในวิภังควรรค</H2>  
+<span class="LineNumber"> 002 </span> 	๑.    ภัทเทกรัตตสูตร			พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 003 </span>	๒.   อานันทภัทเทกรัตตสูตร		    "           
+<span class="LineNumber"> 004 </span>	๓.    มหากัจจานภัตเทกรัตตสูตร		    "           
+<span class="LineNumber"> 005 </span>	๔.    โลมสกังคิยภัทเทกรัตตสูตร		    "           
+<span class="LineNumber"> 006 </span>	๕.    จูฬกัมมวิภังคสูตร		               "   
+<span class="LineNumber"> 007 </span>	๖.    มหากัมมวิภังคสูตร		               "   
+<span class="LineNumber"> 008 </span>	๗.    สฬายตนวิภังคสูตร		               "   
+<span class="LineNumber"> 009 </span>	๘.    อุทเทสวิภังคสูตร			    "           
+<span class="LineNumber"> 010 </span>	๙.    อรณวิภังคสูตร			    "   
+<span class="LineNumber"> 011 </span>	๑๐.  ธาตุวิภังคสูตร			    "   
+<span class="LineNumber"> 012 </span>	๑๑.  สัจจวิภังคสูตร			    "   
+<span class="LineNumber"> 013 </span>	๑๒.  ทักขิณาวิภังคสูตร		               "   

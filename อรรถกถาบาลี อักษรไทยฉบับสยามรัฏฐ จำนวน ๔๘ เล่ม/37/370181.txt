@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 181
+
+<span class="LineNumber"> 002 </span>		สมตุลฺยานิ ภูตานิ		นตฺถิ เชฏฺ€าปจายิกา  
+<span class="LineNumber"> 003 </span>		นตฺถิ พลํ วิริยํ วา		กุโต อุฏฺ€านโปริโส(๑)  
+<span class="LineNumber"> 004 </span>		นิยตานิ หิ ภูตานิ		ยถา โหถ วิโย(๒) ตถา  
+<span class="LineNumber"> 005 </span>		ลทฺเธยฺยํ ลภเต มจฺโจ	นตฺถิ ทานํ ผลํ กุโต  
+<span class="LineNumber"> 006 </span>		นตฺถิ ทานผลํ เทว		อวโส เทว วีริโย  
+<span class="LineNumber"> 007 </span>		พาเลหิ ทานํ ปฺตฺตํ	ปณฺฑิเตหิ ปฏิจฺฉิตํ  
+<span class="LineNumber"> 008 </span>		อาวสา(๓) เทนฺติ ธีรานํ	พาลา ปณฺฑิตมานิโนติ ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  อิธาคโตติ  ตโต  ปรโลกโต  อิธาคโต  นาม  นตฺถิ ฯ  
+<span class="LineNumber"> 010 </span>ปิตโร  วาติ  เทว  อยฺยกอยฺยิกาทโยว(๔)  นตฺถิ ฯ  เตสุ  อสนฺเตสุ
+<span class="LineNumber"> 011 </span>กุโต  มาตา  กุโต  ปิตา ฯ  ยถา  โหถ  วิโย(๕)  ตถาติ  โหถ  วิโย(๕)  
+<span class="LineNumber"> 012 </span>วุจฺจติ  นาวาย  ปจฺฉิมพนฺธา  นาวา ฯ  ยถา  ขุทฺทกนาวา  
+<span class="LineNumber"> 013 </span>มหานาวาย  ปจฺฉิมพนฺธา(๖)  มหานาวเมว (๗) อนุคจฺฉติ ฯ  ตถา 
+<span class="LineNumber"> 014 </span>อิเม  สตฺตา  จูฬาสีติกปฺเป  นิยตเมว  อนุคจฺฉนฺตีติ  วทติ ฯ อวโส
+<span class="LineNumber"> 015 </span>เทว วีริโยติ เอวํ  ทานผเล  อสติ  โยโกจิ  พาโล  ทานํ  เทติ  
+<span class="LineNumber"> 016 </span>นาม ฯ  โส  อวโส  อวิริโย  น  อตฺตโน  วเสน  พเลน  ทานํ 
+<span class="LineNumber"> 017 </span>เทติ  ทานผลํ  ปน  อตฺถีติ  สฺาย  อฺเสํ  อนฺธพาลานํ  
+<span class="LineNumber"> 018 </span>สทฺทหิตฺวา  เทตีติ  ทีเปติ ฯ  พาเลหิ  ทานํ  ปฺตฺตนฺติ  ทานํ 
+<span class="LineNumber"> 019 </span>ทาตพฺพนฺติ  อนฺธพาเลหิ  ปฺตฺตํ  อนุฺาตํ  ตํ ทานํ 
+<span class="LineNumber"> 020 </span># ๑. ม. อุฏฺ€านปุริสํ ฯ  ๒. ม. โคฏวิโส ฯ ๓. ม. อวสา ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. อยฺยกเปยฺยกาทโย วา ฯ  ๕. ม. โคฏวิโส ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. นาวาย ปจฺฉาพนฺโธ ฯ ๗. ม. นาวเมว ฯ 

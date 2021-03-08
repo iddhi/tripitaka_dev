@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  618
+	
+<span class="LineNumber"> 002 </span>		สตฺตสตฺตติ กปฺปานิ	เทวโลเก รมิสฺสติ  
+<span class="LineNumber"> 003 </span>		สหสฺสกฺขตฺตุํ เทวินฺโท	เทวรชฺชํ กริสฺสติ ฯ  
+<span class="LineNumber"> 004 </span>		อเนกสตกฺขตฺตุฺจ	จกฺกวตฺตี ภวิสฺสติ  
+<span class="LineNumber"> 005 </span>		ปเทสรชฺชํ วิปุลํ		คณนาโต อสงฺขิยํ ฯท  
+<span class="LineNumber"> 006 </span>		เทวภูโต มนุสฺโส วา	ปุฺกมฺมสมาหิโต  
+<span class="LineNumber"> 007 </span>		อนูนมนสงฺกปฺโป(๑)	ติกฺขปฺโ ภวิสฺสติ ฯ  
+<span class="LineNumber"> 008 </span>		ตึสกปฺปสหสฺสมฺหิ		โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 009 </span>		โคตโม นาม โคตฺเตน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 010 </span>		อคารา อภินิกฺขมฺม	ปพฺพชิสฺสติกิฺจโน  
+<span class="LineNumber"> 011 </span>		ชาติยา สตฺตวสฺเสน	อรหตฺตํ ปาปุณิสฺสติ ฯ (๒)  
+<span class="LineNumber"> 012 </span>		ยโต สรามิ อตฺตานํ	ยโต ปตฺโตสฺมิ สาสนํ  
+<span class="LineNumber"> 013 </span>		เอตฺถนฺตเร น ชานามิ	เจตนํ อมโนรมํ ฯ  
+<span class="LineNumber"> 014 </span>		สํสริตฺวา ภเว สพฺเพ(๓)	สมฺปตฺตานุภวึ อหํ  
+<span class="LineNumber"> 015 </span>		โภเค เม อูนตา นตฺถิ	ผลํ าณสฺส โถมเน ฯ  
+<span class="LineNumber"> 016 </span>		ติยคฺคี (๔) นิพฺพุตา	มยฺหํ  ภวา สพฺเพ สมูหตา  
+<span class="LineNumber"> 017 </span>		สพฺพาสวปริกฺขีโณ 	นตฺถิ ทานิ ปุนพฺภโว ฯ  
+<span class="LineNumber"> 018 </span>		ตึสกปฺปสหสฺสมฺหิ		ยํ าณมถวึ อหํ(๕)  
+<span class="LineNumber"> 019 </span>		ทุคฺคตึ นาภิชานามิ	ผลํ าณสฺส โถมเน ฯ  
+<span class="LineNumber"> 020 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ยุ. อนูนมตสงฺกปฺโป ฯ  ๒. สฺยา. ปาปุณิสฺสติ ฯ  
+<span class="LineNumber"> 022 </span># ๓. สฺยา. ภวาภเว ฯ ๔. สฺยา. ติธคฺคี ฯ  สี. ติวิธคฺคี ฯ 
+<span class="LineNumber"> 023 </span># ๕. สฺยา. ยํ าณมภิโถมหํ ฯ

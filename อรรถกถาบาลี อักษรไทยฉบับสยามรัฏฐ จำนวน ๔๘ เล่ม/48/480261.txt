@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  อริยนฺติกถาวณฺณนา หน้า 261
+
+<span class="LineNumber"> 002 </span>สทฺธึ  สํสนฺเทตฺวา  อสาธารณปุจฺฉา  ปรวาทิสฺเสว ฯ  ตตฺถ
+<span class="LineNumber"> 003 </span>อาสวกฺขยาเณ  ปฏิกฺเขโป  เสเสสุปิ  จ (๑)  ปฏิฺา   สกวาทิสฺส ฯ
+<span class="LineNumber"> 004 </span>ตโต  อินฺทฺริยปโรปริยตฺเตน  สทฺธึ  สํสนฺเทตฺวา อสาธารณปุจฺฉา
+<span class="LineNumber"> 005 </span>ปรวาทิสฺส ฯ  สา  สงฺขิปิตฺวา  ว (๒) ทสฺสิตา ฯ ตตฺราปิ  (๓) อินฺทฺริย-
+<span class="LineNumber"> 006 </span>ปโรปริยตฺเต  ปฏิฺา  เสเสสุ  จ  ปฏิกฺเขโป  สกวาทิสฺส ฯ
+<span class="LineNumber"> 007 </span>ตโต €านา€านาทีหิ(๔)  สทฺธึ  สํสนฺเทตฺวา  อินฺทฺริยปโรปริยตฺตสฺส 
+<span class="LineNumber"> 008 </span>สาธารณปุจฺฉา ปรวาทิสฺส ฯ สาปิ สงฺขิปิตฺวาว ทสฺสิตา ฯ
+<span class="LineNumber"> 009 </span>ตตฺถ อินฺทฺริยปโรปริยตฺเต ปฏิกฺเขโป เสเสสุ จ ปฏิฺา
+<span class="LineNumber"> 010 </span>สกวาทิสฺสาติ ฯ 
+<span class="LineNumber"> 011 </span>		พลกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 012 </span>		อริยนฺติกถาวณฺณนา 
+<span class="LineNumber"> 013 </span>	อิทานิ  อริยนฺติกถา นาม โหติ ฯ ตตฺถ เยสํ น เกวลํ
+<span class="LineNumber"> 014 </span>อาสวกฺขยาณเมว  อริยํ  อถโข  ปุริมานิปิ  นว  พลานิ
+<span class="LineNumber"> 015 </span>อริยานิเยวาติ  (๕)  ลทฺธิ  เสยฺยถาปิ เอตรหิ  อนฺธกานํ  เต  สนฺธาย
+<span class="LineNumber"> 016 </span>อริยนฺติ  ปุจฺฉา  สกวาทิสฺส  ปฏิฺา  อิตรสฺส ฯ ปุน  ยทิทํ
+<span class="LineNumber"> 017 </span>อริยมคฺคาทีสุ  (๖)  เตน  อฺตเรน  ภวิตพฺพนฺติ  มคฺคาทิวเสน 
+<span class="LineNumber"> 018 </span>ปุจฺฉา สกวาทิสฺส ปฏิกฺเขโป อิตรสฺส ฯ 
+<span class="LineNumber"> 019 </span># ๑. ม.เสเสสุ จ ฯ  ๒. ม. วสทฺโท ฯ  ๓. ม. ตถาปิ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. €านาฏฺ€านาทีหิ ฯ  ๕. ม. อริยานิจฺเจว ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. ปุน ยทิ ตํ อริยํ มคฺคาทีสุ ฯ

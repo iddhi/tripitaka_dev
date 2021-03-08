@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>       	                <h1>๒.  ผุสติสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                  <H1>ว่าด้วยวิบากของกรรม</H1>
+
+<span class="LineNumber"> 003 </span>         [๕๘]   เทวดาทูลว่า
+<span class="LineNumber"> 004 </span>                             <B>วิบากย่อมไม่ถูกบุคคลผู้ไม่ถูกกรรม
+<span class="LineNumber"> 005 </span>                   วิบากพึงถูกบุคคลผู้ถูกกรรมโดยแท้ เพราะ
+<span class="LineNumber"> 006 </span>                   ฉะนั้น   วิบากย่อมถูกบุคคลผู้ถูกกรรม  ผู้
+<span class="LineNumber"> 007 </span>                   ประทุษร้าย  นรชนผู้ไม่ประทุษร้าย.</B>
+<span class="LineNumber"> 008 </span>         [๕๙]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>บุคคลได้ย่อมประทุษร้ายแก่นรชน
+<span class="LineNumber"> 010 </span>                   ผู้ไม่ประทุษร้าย  เป็นผู้บริสุทธิ์  ปราศจาก
+<span class="LineNumber"> 011 </span>                   กิเลส  บาปย่อมกลับมาถึงบุคคลนั้น  ผู้เป็น
+<span class="LineNumber"> 012 </span>                   พาลแท้      ประดุจธุลีอันละเอียดที่ซัดไป
+<span class="LineNumber"> 013 </span>                   ทวนลม  ฉะนั้น.</B>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>๓.  อธิปติมูลกนัย</H1>  
+<span class="LineNumber"> 002 </span>                                           <H1>อธิปติสภาคะ</H1>
+<span class="LineNumber"> 003 </span>         [๑๑๙๖]   <B>เพราะอธิปติปัจจัย</B>    ในเหตุปัจจัย  มี ๒ วาระ . . . ใน
+<span class="LineNumber"> 004 </span>อารัมมณปัจจัย มี ๔ วาระ  ในสหชาตปัจจัย มี ๓ วาระ  ในอัญญมัญญปัจจัย  
+<span class="LineNumber"> 005 </span>มี ๓ วาระ   ในนิสสยปัจจัย  มี ๓ วาระ  ในอุปนิสสยปัจจัย   มี ๔ วาระ  ใน
+<span class="LineNumber"> 006 </span>วิปากปัจจัย   มี ๒ วาระ   ในอาหารปัจจัย   มี ๓ วาระ   ในอินทริยปัจจัย  มี ๓
+<span class="LineNumber"> 007 </span>วาระ  ในมัคคปัจจัย มี ๓ วาระ  ในสัมปยุตปัจจัย   มี ๓ วาระ  ในอัตถิปัจจัย
+<span class="LineNumber"> 008 </span>มี ๓ วาระ  ในอวิคตปัจจัย  มี ๓ วาระ.
+
+<span class="LineNumber"> 009 </span>                                            <H1>อธิปติฆฏนา</H1>
+<span class="LineNumber"> 010 </span>         [๑๑๙๗]  <B>ปัจจัย ๓</B>  คือ  อธิปติ  อารัมมณะ  อุปนิสสยปัจจัย   มี  ๔
+<span class="LineNumber"> 011 </span>วาระ.
+<span class="LineNumber"> 012 </span>         <B>ปัจจัย  ๗</B>  คือ  อธิปติ  สหชาตะ  อัญญมัญญะ  นิสสยะ  สัมปยุตตะ
+<span class="LineNumber"> 013 </span>อัตถิ   อวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>         <B>ปัจจัย ๘   คือ</B>   อธิปติ   สหชาตะ   อัญญนัญญะ  นิสสยะ  วิปากะ
+<span class="LineNumber"> 015 </span>สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 016 </span>         <B>ปัจจัย ๙</B>   คือ   อธิปติ  สหชาตะ  อัญญมัญญะ  นิสสยะ   อาหาระ
+<span class="LineNumber"> 017 </span>อินทริยะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>         <B>ปัจจัย ๑๐</B>  คือ  อธิปติ  สหชาตะ   อัญญมัญญะ   นิสสยะ   วิปากะ
+<span class="LineNumber"> 019 </span>อาหาระ  อินทริยะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 020 </span>         <B>ปัจจัย ๙</B>  คือ  อธิปติ  สหชาตะ  อัญญมัญญะ    นิสสยะ   อินทริยะ
+<span class="LineNumber"> 021 </span>มัคคะ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ

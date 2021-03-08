@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>           <H1>นกุสลติกนอัชฌัตตติกกุสลติกอัชฌัตตติกะ</H1> 
+<span class="LineNumber"> 002 </span>          <H2>(๑.  กุสลติกะ  ๑๙.  อัชฌัตตติกะ)</H2>     
+<span class="LineNumber"> 003 </span>                                 <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 004 </span>                                 <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                          <H2>๑.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                  <H2>อัชฌัตตบท</H2>
+<span class="LineNumber"> 007 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อัชฌัตตธรรม  ที่ไม่ใช่กุศล เป็นปัจจัย
+<span class="LineNumber"> 008 </span>แก่อัชฌัตตธรรม  ที่เป็นกุศล  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 009 </span>                                             <B>ฯลฯ</B>    
+
+<span class="LineNumber"> 010 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           ในอารัมมณปัจจัย  มี  ๑๘  วาระ   ในอธิปติปัจจัย  มี ๑๖ วาระ
+<span class="LineNumber"> 012 </span>ในอุปนิสสยปัจจัย  มี ๑๘ วาระ  ในปุเรชาตปัจจัย  มี  ๙ วาระ  ในอัตถิปัจจัย  มี
+<span class="LineNumber"> 013 </span>๙  วาระ   ในอวิคตปัจจัย มี   ๙  วาระ.
+
+<span class="LineNumber"> 014 </span>                                       <H2>พหิทธาบท</H2>
+<span class="LineNumber"> 015 </span>                       ๑.  <B>ธรรมที่ไม่ใช่พหิทธาธรรม    ที่ไม่ใช่กุศล    เป็น
+<span class="LineNumber"> 016 </span>ปัจจัยแก่พหิทธาธรรม  ที่เป็นกุศลด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>                                                <B>ฯลฯ</B>
+
+<span class="LineNumber"> 018 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 019 </span>           ในอารัมมณปัจจัย   มี ๑๘ วาระ  ในอธิปติปัจจัย   มี  ๖ วาระ
+<span class="LineNumber"> 020 </span>ในอุปนิสสยปัจจัย  มี  ๑๘  วาระ  ในปุเรชาตปัจจัย   มี ๙ วาระ    ในอัตถิปัจจัย
+<span class="LineNumber"> 021 </span>มี ๙  วาระ  ในอวิคตปัจจัย  มี ๙ วาระ.                         
+<span class="LineNumber"> 022 </span>                   <I>นกุสลติกนอัชฌัตตติกกุสลติกอัชฌัตติกะ  จบ</I>

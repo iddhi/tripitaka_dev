@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.  โคตมีสูตร   ๒.  โอวาทสูตร   ๓.  สังขิตตสูตร  ๔.  ทีฆชาณุ-
+<span class="LineNumber"> 003 </span>สูตร   ๕.  อุชชยสูตร   ๖.  ภยสูตร   ๗.  ปฐมอาหุเยยสูตร   ๘.  ทุติย-
+<span class="LineNumber"> 004 </span>อาหุเนยยสูตร  ๙.  ปฐมอัฏฐปุคคลสูตร  ๑๐.  ทุติอัฏฐปุคคลสูตร.
+<span class="LineNumber"> 005 </span>                             <I>จบ สันธานวรรคที่  ๑</I>

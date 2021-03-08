@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  จตุตฺถวคฺเค กปฺปฏกุรตฺเถรคาถาวณฺณนา  หน้า 685
+
+<span class="LineNumber"> 002 </span>มม ธมฺมํ สุณิสฺสามีติ นิสีทิตฺวา  มา โข ปจาเลสิ มา
+<span class="LineNumber"> 003 </span>ปจลาหิ (๑) มา นิทฺทํ อุปคจฺฉิ ฯ
+<span class="LineNumber"> 004 </span>	มา ตฺวํ อุปกณฺณมฺหิ ตาเฬสฺสนฺติ  ตํ  นิทฺทายมานํ 
+<span class="LineNumber"> 005 </span>อุปกณฺณมฺหิ  กณฺณสมีเป  เทสนาหตฺเถน  อหํ  มา ปตาเฬสฺสํ(๒) ฯ
+<span class="LineNumber"> 006 </span>ยถา  (๓)  อิโต ปรํ กิเลสปฺปหานาย อหํ ตํ น โอวเทยฺยํ (๔) ตถา  
+<span class="LineNumber"> 007 </span>ปฏิปชฺชาหีติ  อตฺโถ ฯ 
+<span class="LineNumber"> 008 </span>	น  หิ  ตฺวํ  กปฺปฏ  มตฺตมฺาสีติ ตฺวํ กปฺปฏ 
+<span class="LineNumber"> 009 </span>สํฆมชฺฌมฺหิ ปจลายมาโน  มตฺตํ  ปมาณํ  น  วา  มฺสิ  (๕)
+<span class="LineNumber"> 010 </span>อยมติทุลฺลโภ ขโณ ปฏิลทฺโธ โส  มา อุปชฺฌคาติ เอตฺตกมฺปิ
+<span class="LineNumber"> 011 </span>น ชานาสิ ปสฺส ยาว จ เต อปรทฺธนฺติ โจเทสิ ฯ  
+<span class="LineNumber"> 012 </span>	เอวํ  ภควตา  ทฺวีหิ  คาถาหิ คาฬฺหํ ตํ นิคฺคยฺห โจทนาย 
+<span class="LineNumber"> 013 </span>กตาย อฏฺ€ิเวธวิทฺโธ วิย  จณฺฑคโช  มคฺคํ  โอตรนฺโต  วิย
+<span class="LineNumber"> 014 </span>จ  สฺชาตสํเวโค  วิปสฺสนํ  ปฏฺ€เปตฺวา  น  จิรสฺเสว อรหตฺตํ 
+<span class="LineNumber"> 015 </span>ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๖)  
+<span class="LineNumber"> 016 </span>		วินตานทิยา ตีเร		วิหาสิ ปุริสุตฺตโม (๗)  
+<span class="LineNumber"> 017 </span>		อทฺทสํ วิรชํ พุทฺธํ		เอกคฺคํ สุสมาหิตํ ฯ  
+<span class="LineNumber"> 018 </span>		มธุคนฺธสฺส ปุปฺเผน	เกตกสฺส อหํ ตทา  
+<span class="LineNumber"> 019 </span>		ปสนฺนจิตฺโต สุมโน	พุทฺธเสฏฺ€มปูชยึ ฯ(๘)  
+<span class="LineNumber"> 020 </span># ๑. สี. มา ปจาลย ฯ ยุ. มา ปจาเลหิ ฯ  ๓. สี. มา จ ตาเฬสฺสํ ฯ
+<span class="LineNumber"> 021 </span># ม. มา ปตาเฬสฺสํ ฯ  ๓. ยุ. ยํ ฯ  ๔. สี. อหํ ตํ โอวเทยฺยํ ฯ 
+<span class="LineNumber"> 022 </span># ๕. สี. ยุ. น ห มฺาสิ ฯ  ๖. ขุ. อ. ๓๓/๑๐๔/๑๕๔ ฯ 
+<span class="LineNumber"> 023 </span># ๗. สี. ทฺวิปทุตฺตโม ฯ  ๘. สฺยา.  พุทฺธเสฏฺ€สฺส ปูชยึ ฯ 

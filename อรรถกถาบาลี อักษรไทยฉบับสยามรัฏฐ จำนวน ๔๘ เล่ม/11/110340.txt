@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑   หน้า  ๓๔๐
+
+<span class="LineNumber"> 002 </span>		ลกฺขณสํยุตฺตวณฺณนา            
+<span class="LineNumber"> 003 </span>			อฏฺ€ิสุตฺตวณฺณนา           
+<span class="LineNumber"> 004 </span>	ลกฺขณสํยุตฺเต  ยฺวายํ  อายสฺมา  จ  ลกฺขโณติ  ลกฺขณตฺเถโร  
+<span class="LineNumber"> 005 </span>วุตฺโต  เอส  ชฏิลสหสฺสสฺส  อพฺภนฺตเร  เอหิภิกฺขุปสมฺปทาย  
+<span class="LineNumber"> 006 </span>อุปสมฺปนฺโน อาทิตฺตปริยายาวสาเน  อรหตฺตํ  ปตฺโต  เอโก  
+<span class="LineNumber"> 007 </span>มหาสาวโกติ  เวทิตพฺโพ ฯ  ยสฺมา  ปเนส  ลกฺขณสมฺปนฺเนน  
+<span class="LineNumber"> 008 </span>สพฺพาการปริปูเรน  พฺรหฺมสเมน  อตฺตภาเวน  สมนฺนาคโต  
+<span class="LineNumber"> 009 </span>ตสฺมา  ลกฺขโณติ  สงฺขํ  คโต ฯ  มหาโมคฺคลฺลาโน  ปน  ปพฺพชิต-
+<span class="LineNumber"> 010 </span>ทิวสโต  สตฺตเม  ทิวเส อรหตฺตํ ปตฺโต ทุติโย อคฺคสาวโก ฯ            
+<span class="LineNumber"> 011 </span>สิตํ  ปาตฺวากาสีติ  มนฺทหสิตํ  ปาตุํ  อกาสิ  ปกาสยิ  ทสฺเสสีติ 
+<span class="LineNumber"> 012 </span>วุตฺตํ โหติ ฯ กึ  ปน  ทิสฺวา  เถโร  สิตํ ปาตฺวากาสีติ  
+<span class="LineNumber"> 013 </span>อุปริ ปาลิยํ อาคตํ อฏฺ€ิสงฺขลิกํ(๑) เอกํ เปตโลเก  นิพฺพตฺตสตฺตํ 
+<span class="LineNumber"> 014 </span>ทิสฺวา ฯ  ตํ  จ  โข  ทิพฺเพน  จกฺขุนา  น  ปสาทจกฺขุนา ฯ 
+<span class="LineNumber"> 015 </span>ปสาทจกฺขุสฺส  หิ  เอเต  อตฺตภาวา  น  อาปาถํ  อาคจฺฉนฺติ ฯ
+<span class="LineNumber"> 016 </span>เอวรูปํ ปน อตฺตภาวํ  ทิสฺวา  การุฺเ  กตฺตพฺเพ(๒)  กสฺมา  
+<span class="LineNumber"> 017 </span>สิตํ  ปาตฺวากาสีติ  อตฺตโน  จ  พุทฺธาณสฺส จ  สมฺปตฺตึ 
+<span class="LineNumber"> 018 </span>สมนุสฺสรณโต ฯ  ตํ  หิ  ทิสฺวา  เถโร  อทิฏฺ€สจฺเจน  นาม  
+<span class="LineNumber"> 019 </span>ปุคฺคเลน ปฏิลภิตพฺพา  เอวรูปา  อตฺตภาวา  มุตฺโต  อหํ 
+<span class="LineNumber"> 020 </span># ๑. ม. อฏฺ€ิกสงฺขลิกํ ฯ  ๒. ม. การุฺเ กตฺตพฺเพ ฯ

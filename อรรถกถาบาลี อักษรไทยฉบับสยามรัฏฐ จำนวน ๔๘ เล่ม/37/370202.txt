@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  202
+
+<span class="LineNumber"> 002 </span> เอส วีชกทาโส(๑) สาตเว  มธุรวิปาเก  กุสลกมฺเมเยว(๒)  รโต  โส  
+<span class="LineNumber"> 003 </span> อิมสฺส  ปาปกมฺมสฺส  ขีณกาเล  กลฺยาณกมฺมสฺส  ผเลน  เทวโลเก 
+<span class="LineNumber"> 004 </span> นิพฺพตฺติสฺสติ ฯ  ยํ  ปเนส(๓)  อิทานิ  ทาสตฺตํ  อุปคโต  เนว  ตํ 
+<span class="LineNumber"> 005 </span> กลฺยาณกมฺมสฺส  ผเลน  ตถตฺตสํวตฺตนิกํ  หิสฺส(๔) ปุพฺเพ กตํ ปาปํ 
+<span class="LineNumber"> 006 </span> ภวิสฺสตีติ นิฏฺ€เมตฺถ คนฺตพฺพนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	สา อิมมตฺถํ ปกาเสนฺตี อาห  
+<span class="LineNumber"> 008 </span>		ยฺจชฺช วีชโก(๕) ทาโส	ทุกฺขํ ปสฺสติ อตฺตนิ  
+<span class="LineNumber"> 009 </span>		ปุพฺเพวสฺส กตํ ปาปํ	ตเมโส ปฏิเสวติ  
+<span class="LineNumber"> 010 </span>		ขียเตวสฺส(๖) ตํ ปาปํ	ตถา หิ วินเย รโต  
+<span class="LineNumber"> 011 </span>		กสฺสปฺจ สมาปชฺช	มา เหวุปฺปถมาคมาติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  มา  เหวุปฺปถมาคมาติ  ตาต  ตฺวํ  ปน  อิมํ  นคฺคํ  
+<span class="LineNumber"> 013 </span>กสฺสปาชีวกํ  อุปคนฺตฺวา  มา  เหว  นิรยคามึ  อุปถํ  อาคม(๗)  มา  
+<span class="LineNumber"> 014 </span>ปาปมกาสีติ ปิตรํ โอวทิ ฯ  
+<span class="LineNumber"> 015 </span>	สา  อิทานิสฺส  ปาปุปเสวนาย  โทสํ  กลฺยาณมิตฺตุปเสวนาย  
+<span class="LineNumber"> 016 </span>จ  คุณํ ทสฺเสนฺตี อาห  
+<span class="LineNumber"> 017 </span>	[๘๖๒]ยํ ยํ หิ ราช ภชติ		สนฺตํ วา ยทิ วา อสํ  
+<span class="LineNumber"> 018 </span>		สีลวนฺตํ วิสีลํ วา		วสํ ตสฺเสว คจฺฉติ  
+<span class="LineNumber"> 019 </span># ๑. ม. พีชกทาโส ฯ  ๒. ม. กุสลธมฺเมเยว ฯ ๓. ม.ยฺเจส ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. ทาสตฺตสํวตฺตนิกฺหิสฺส ฯ  ๕. ม. ยมชฺช พีชโก ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. ขียเต จสฺส ฯ ๗. ม. อุปฺปถํ อคมา ฯ 

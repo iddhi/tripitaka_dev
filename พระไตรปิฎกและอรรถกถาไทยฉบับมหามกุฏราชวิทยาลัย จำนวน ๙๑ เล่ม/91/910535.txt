@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่โยคธรรม  อาศัยธรรม 
+<span class="LineNumber"> 002 </span>ที่เป็นกุศล  ที่ไม่ใช่โยคธรรม  เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 003 </span>                       ๑.  <B>ธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่นีวรณธรรม   อาศัย
+<span class="LineNumber"> 004 </span>ธรรมที่เป็นกุศล  ที่ไม่ใช่นีวรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>                       ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่ปรามาสธรรม   อาศัย 
+<span class="LineNumber"> 006 </span>ธรรมที่เป็นกุศล  ที่ไม่ใช่ปรามาสธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           <I>ฉโคจฉกทุกกุสลติกนฉโคจฉกทุกนกุสลติกะ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                <H1>สารัมมณทุกกุสลติกนสารัมมณทุกนกุสลติกะ</H1>
+<span class="LineNumber"> 009 </span>               <H2>(๕๕.  สารัมมณทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 010 </span>                                        <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 011 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                        <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                                             <H2>กุศลบท</H2>	
+<span class="LineNumber"> 014 </span>           [๒๘๑]  ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่สารัมมณธรรม  อาศัย
+<span class="LineNumber"> 015 </span>ธรรมที่เป็นกุศล  ที่เป็นสารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>มี  ๑ วาระ.
+
+<span class="LineNumber"> 017 </span>                                             <H2>อกุศลบท</H2>
+<span class="LineNumber"> 018 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่สารัมมณธรรม  อาศัย
+<span class="LineNumber"> 019 </span>ธรรมที่เป็นอกุศล  ที่เป็นสารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 020 </span>มี  ๑  วาระ.
+

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  112
+
+<span class="LineNumber"> 002 </span>	อถ นํ มหาสตฺโต อาห
+<span class="LineNumber"> 003 </span>	[๔๗๐]	น มิคาชิน ชาตุจฺเฉ		อหํ กิฺจิ กุทาจนํ  
+<span class="LineNumber"> 004 </span>			สมณํ พฺราหฺมณํ วาปิ		สกฺกตฺวา อนุปาวิสินฺติ ฯ  
+<span class="LineNumber"> 005 </span>	ตตฺถ  สกฺกตฺวาติ  ปพฺพชฺชาย  คุณํ  ปุจฺฉนตฺถาย  ปูเชตฺวา ฯ  
+<span class="LineNumber"> 006 </span>อนุปาวิสินฺติ  น  กิฺจิ  อนุปวิฏฺ€ปุพฺโพสฺมิ  น  มยา  โกจิ  สมโณ  
+<span class="LineNumber"> 007 </span>ปุจฺฉิตพฺโพติ  วทติ ฯ  อิมินา  หิ  ปจฺเจกพุทฺธานํ  สนฺติเก  ธมฺมํ  
+<span class="LineNumber"> 008 </span>สุณนฺเตนาปิ  น  กทาจิ  อุทิสฺสกวเสน  ปพฺพชฺชาย  คุโณ  ปุจฺฉิตพฺโพ  
+<span class="LineNumber"> 009 </span>ตสฺมา เอวมาห  
+<span class="LineNumber"> 010 </span>	เอวฺจ  ปน  วตฺวา  มหาสตฺโต  เยน  การเณน  ปพฺพชิโต  
+<span class="LineNumber"> 011 </span>ตํ อาทิโต ปฏฺ€าย ทสฺเสตุํ อาห  
+<span class="LineNumber"> 012 </span>		มหตา วานุภาเวน (๑)		คจฺฉนฺโต สิริยา ชลํ  
+<span class="LineNumber"> 013 </span>		คียมาเนสุ คีเตสุ			วชฺชมาเนสุ วคฺคุสุ  
+<span class="LineNumber"> 014 </span>		ตุริยตาลิตสงฺฆุฏฺเ€ (๒)	สมฺมาตาลสมาหิเต  (๓)
+<span class="LineNumber"> 015 </span>		ส มิคาชิน  มทฺทกฺขึ		ผลึ อมฺพํ ติโรจฺฉทํ  
+<span class="LineNumber"> 016 </span>		ตุทมานํ (๔) มนุสฺเสหิ	ผลกาเมหิ ชนฺตุภิ  
+<span class="LineNumber"> 017 </span>		โส โข หนฺตํ สิรึ หิตฺวา	โอโรหิตฺวา มิคาชิน  
+<span class="LineNumber"> 018 </span>		มูลํ อมฺพสฺสุปาคฺฉึ		ผลิโน นิปฺผลสฺส จ  
+<span class="LineNumber"> 019 </span>		ผลึ อมฺพํ หตํ ทิสฺวา		วิทฺธตฺตํ วินลีกตํ  (๕)
+<span class="LineNumber"> 020 </span># ๑. ส. ม. ยุ. จานุภาเวน ฯ  ๒. ม. ตูริยตาฬสงฺฆุฏเ€ ฯ  
+<span class="LineNumber"> 021 </span># ๓. ส. ม. ยุ. สมฺมตาลสมาหิเต ฯ  ๔. สี. ตุชฺชมานํ ฯ  ม. หฺมานํ ฯ 
+<span class="LineNumber"> 022 </span>ยุ. ตทฺทมานํ ฯ  ๕. ม. ยุ. วินฬีกตํ ฯ

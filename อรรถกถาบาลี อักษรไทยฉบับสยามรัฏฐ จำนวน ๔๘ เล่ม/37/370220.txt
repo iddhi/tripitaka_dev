@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  220
+
+<span class="LineNumber"> 002 </span>	[๘๖๙]อจฺฉริยรูปํ(๑) ตว ยาทิสฺจ  
+<span class="LineNumber"> 003 </span>		เวหายสํ คจฺฉสิ ติฏฺ€สิ(๒) จ  
+<span class="LineNumber"> 004 </span>		ปุจฺฉามิ ตํ นารท เอตมตฺถํ  
+<span class="LineNumber"> 005 </span>		อถ เกน วณฺเณน ตวายมิทฺธีติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ยาทิสฺจาติ  ยาทิสฺจ  ตว  สณฺ€านํ  ยฺจ  ตฺวํ 
+<span class="LineNumber"> 007 </span>อากาเสน(๓)  คจฺฉสิ จ ติฏฺ€สิ จ อิทํ อจฺฉริยํ ชาตํ(๔) ฯ  
+<span class="LineNumber"> 008 </span>	อถ นํ นารโท อาห  
+<span class="LineNumber"> 009 </span>	[๘๗๐]สจฺจฺจ ธมฺโม จ ทโม จ จาโค  
+<span class="LineNumber"> 010 </span>		คุณา มเมเต ปกตา ปุราณา  
+<span class="LineNumber"> 011 </span>		เตเหว ธมฺเมหิ สุเสวิเตหิ  
+<span class="LineNumber"> 012 </span>		มโนชโว เยน กามํ คโตสฺมีติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  สจฺจนฺติ  วจีสจฺจํ ฯ  ธมฺโม  จาติ  ติวิธสุจริตธมฺโม  
+<span class="LineNumber"> 014 </span>เจว  กสิณปริกมฺมชฺฌานธมฺโม  จ ฯ  ทโมติ  อินฺทฺริยทมนํ ฯ 
+<span class="LineNumber"> 015 </span>จาโคติ  กิเลสปริจฺจาโค  จ  เทยฺยธมฺมปริจฺจาโค  จ ฯ [๕] ปกตา 
+<span class="LineNumber"> 016 </span>ปุราณาติ  มยา  ปุริมภเว  กตาติ  ทสฺเสติ ฯ  เตเหว  ธมฺเมหิ 
+<span class="LineNumber"> 017 </span>สุเสวิเตหีติ เตหิ(๖)  สพฺพคุเณหิ  สุเสวิเตหิ  ปริจาริเตหิ(๖) ฯ  
+<span class="LineNumber"> 018 </span>มโนชโวติ  มโนชวสทิชโว(๗) ฯ  เยน  กามํ  คโตสฺมิติ  เยน
+<span class="LineNumber"> 019 </span># ๑. ม. อจฺเฉรรูปํ ฯ  ๒. ม. ติฏฺ€สี ฯ  ๓. ม. อากาเส ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. อจฺฉริยชาตํ ฯ  ๕. ม. เอตฺถนฺตเร มเมเต คุณาติ 
+<span class="LineNumber"> 021 </span># มม เอเต คุณสมฺปยุตฺตา คุณสหคตาติ ทิสฺสนฺติ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. เต สพฺเพ สุเสวิเต ปริจาริเต ทสฺเสติ ฯ 
+<span class="LineNumber"> 023 </span># ๗. ม. อิทฺธิยา การเณน ปฏิลทฺโธ ฯ

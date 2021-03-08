@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                      คิริมานนทสูตร  
+<span class="LineNumber"> 002 </span>	พระสูตรนี้  พระผู้มีพระภาคตรัสแก่พระอานนท์   รับสั่งให้พระ 
+<span class="LineNumber"> 003 </span>อานนท์นำไปแสดงแก่คิริมานนท์  ในคราวที่ท่านคิริมานนท์อาพาธ
+<span class="LineNumber"> 004 </span>ในสมัยที่พระองค์เสด็จประทับ  ณ  เชตวนาราม  ใจความในพระสูตรนี้
+<span class="LineNumber"> 005 </span>ทรงแสดงสัญญา  ๑๐  ประการ  คือ  :-
+<span class="LineNumber"> 006 </span>	๑.  <B>อนิจจสัญญา</B>	ความกำหนดหมายว่าไม่เที่ยง  ทรงแสดง
+<span class="LineNumber"> 007 </span>				ถึงขันธ์  ๕  มีรูปเป็นต้น  ว่าเป็นของ
+<span class="LineNumber"> 008 </span>				ไม่เที่ยง.
+<span class="LineNumber"> 009 </span>	๒.  <B>อนัตตสัญญา</B>	ความกำหนดหมายว่าไม่ใช่ตน  ทรงแสดง
+<span class="LineNumber"> 010 </span>				ถึงเรื่องอายตนะภายใน  ๖  ภายนอก  ๖
+<span class="LineNumber"> 011 </span>				มีจักษุและรูปเป็นต้น  ว่าเป็นสิ่งไม่ใช่ตน.
+<span class="LineNumber"> 012 </span>	๓.  <B>อสุภสัญญา</B>	ความกำหนดหมายว่าไม่งาม  ทรงแสดง
+<span class="LineNumber"> 013 </span>				ถึงอาการ  ๓๑   ที่มีในกาย  มีผม  ขน
+<span class="LineNumber"> 014 </span>				เล็บ  ฟัน  หนัง  เป็นต้น  ว่าล้วนเป็น
+<span class="LineNumber"> 015 </span>				ของไม่งาม.
+<span class="LineNumber"> 016 </span>	๔.  <B>อาทีนวสัญญา</B>	ความกำหนดหมายว่าเป็นโทษ  ทรงแสดง	
+<span class="LineNumber"> 017 </span>				ถึงเรื่องโรคที่มีในกาย  เกิดขึ้นแก่กาย
+<span class="LineNumber"> 018 </span>				มีโรคในตา  โรคในหูเป็นต้น.
+<span class="LineNumber"> 019 </span>	๕.  <B>ปหานสัญญา</B>	ความกำหนดหมายในการละ  ทรงแสดง
+<span class="LineNumber"> 020 </span>				ถึงเรื่องไม่ให้รับเอา  ให้ละเสียให้บรรเทา
+

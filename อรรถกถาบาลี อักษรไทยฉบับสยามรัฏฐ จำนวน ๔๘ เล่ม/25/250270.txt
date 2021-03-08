@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  270
+	
+<span class="LineNumber"> 002 </span>		จตุนฺนวุติโต กปฺเป	ยํ ปุปฺผมภิโรปยึ  
+<span class="LineNumber"> 003 </span>		ทุคฺคตึ นาภิชานามิ		ปุปฺผ(๑)ปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 004 </span>		จตุนฺนวุตุปาทาย		€เปตฺวา วตฺตมานกํ  
+<span class="LineNumber"> 005 </span>		ปฺจราชสตา ตตฺถ	นชฺชสมสนามกา(๒) ฯ  
+<span class="LineNumber"> 006 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ(๓) ฯ  
+<span class="LineNumber"> 007 </span>					วลฺลิโย เถโร ฯ  
+<span class="LineNumber"> 008 </span>		สิทฺธตฺถสฺส ภควโต	ชาติปุปฺผมทาสหํ(๔)  
+<span class="LineNumber"> 009 </span>		ปาเทสุ สตฺต ปุปฺผานิ	หาเสโนกิริตานิ(๕) เม ฯ 
+<span class="LineNumber"> 010 </span>		เตน กมฺเมนหํ อชฺช	อภิโภมิ นรามเร  
+<span class="LineNumber"> 011 </span>		ธาเรมิ อนฺติมํ เทหํ	สมฺมาสมฺพุทฺธสาสเน ฯ  
+<span class="LineNumber"> 012 </span>		จตุนฺนวุติโต กปฺเป	ยํ ปุปฺผมภิโรปยึ  
+<span class="LineNumber"> 013 </span>		ทุคฺคตึ นาภิชานามิ	ปุปฺผปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 014 </span>		สมนฺตคนฺธนามาสุํ	เตรส จกฺกวตฺติโน  
+<span class="LineNumber"> 015 </span>		อิโต ปฺจมเก กปฺเป	จาตุรนฺตา ชนาธิปา(๖) ฯ  
+<span class="LineNumber"> 016 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ(๗) ฯ  
+<span class="LineNumber"> 017 </span>					อุตฺติโย เถโร ฯ  
+<span class="LineNumber"> 018 </span>	อรหตฺตํ  ปน  ปตฺวา  อิเม  จตฺตาโรปิ  เถรา  โลเก
+<span class="LineNumber"> 019 </span># ๑. สฺยา. พุทฺธ... ฯ  ๒. สฺยา. นชฺชุปมสนามกา ฯ 
+<span class="LineNumber"> 020 </span># ๓. ขุ. อ. ๓๒/๑๐๕/๒๐๒ ฯ  ๔. สฺยา. ...มทาสิหํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ยุ. หาเสโนการิตานิ ฯ  ๖. สฺยา. คณาธิปา ฯ 
+<span class="LineNumber"> 022 </span># ๗. ขุ. อ. ๓๒/๑๐๖/๒๐๒ ฯ 

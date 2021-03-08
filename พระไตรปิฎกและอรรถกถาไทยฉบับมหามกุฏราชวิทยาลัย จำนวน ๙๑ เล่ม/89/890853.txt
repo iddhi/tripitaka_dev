@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                     ๙.  <B>รูปาวจรธรรม      และธรรมที่ไม่ใช่รูปาวจรธรรม
+<span class="LineNumber"> 002 </span>อาศัยรูปาวจรธรรม และธรรมที่ไม่ใช่รูปาวจรธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 003 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ  ในปฏิสนธิขณะ   ขันธ์ ๓   อาศัยขันธ์ ๑   ที่เป็นรูปาวจรธรรม
+<span class="LineNumber"> 005 </span>และหทยวัตถุ ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 006 </span>         กฏัตตารูป    อาศัยขันธ์ทั้งหลายที่เป็นรูปาวจรธรรม    และมหาภูตรูป
+<span class="LineNumber"> 007 </span>ทั้งหลาย.
+<span class="LineNumber"> 008 </span>                                                  ฯลฯ
+ 
+<span class="LineNumber"> 009 </span>                               <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>         [๗๕๒]   ในเหตุปัจจัย  มี ๙ วาระ  ในอารัมมณปัจจัย  มี ๔ วาระ
+<span class="LineNumber"> 011 </span>ในอธิปติปัจจัย มี ๕ วาระ   ในอนันตรปัจจัย มี ๔ วาระ   ในสมนันตรปัจจัย
+<span class="LineNumber"> 012 </span>มี ๔ วาระ  ในสหชาตปัจจัย  มี ๙ วาระ  ในอัญญมัญญปัจจัย มี ๖ วาระ  ใน
+<span class="LineNumber"> 013 </span>นิสสยปัจจัย มี ๙ วาระ    ในอุปนิสสยปัจจัย มี ๔ วาระ    ในปุเรชาตปัจจัย มี
+<span class="LineNumber"> 014 </span>๒ วาระ  ในอาเสวนปัจจัย มี ๒ วาระ   ในกัมมปัจจัย มี ๙ วาระ    ในวิปาก-
+<span class="LineNumber"> 015 </span>ปัจจัย มี ๙ วาระ    ในฌานปัจจัย มี ๙ วาระ   ในมัคคปัจจัย มี ๙ วาระ   ใน
+<span class="LineNumber"> 016 </span>สัมปยุตตปัจจัย มี ๔ วาระ    ในวิปปยุตตปัจจัย มี ๙ วาระ    ในอัตถิปัจจัย มี
+<span class="LineNumber"> 017 </span>๙ วาระ   ในนัตถิปัจจัย มี ๔ วาระ  ในวิคตปัจจัย มี ๔ วาระ  ในอวิคตปัจจัย
+<span class="LineNumber"> 018 </span>มี ๙ วาระ.

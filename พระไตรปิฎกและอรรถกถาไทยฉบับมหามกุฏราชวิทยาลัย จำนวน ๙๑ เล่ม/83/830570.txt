@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span><H2>ปฏิฆานุสยมูละ  ภวราคานุสยาทิมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         ปฏิฆานุสัย  อันบุคคลใดละได้แล้ว, ภวราคานุสัย  ฯลฯ  อวิชชา-
+<span class="LineNumber"> 003 </span>นุสัย  เป็นอันบุคคลนั้นละได้แล้ว ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ปฏิฆานุสัย    พระอนาคามีละได้แล้ว    แต่อวิชชานุสัย    พระ-
+<span class="LineNumber"> 005 </span>อนาคามีนั้นยังละไม่ได้,   ปฏิฆานุสัย     พระอรหันต์ละได้แล้ว     และ
+<span class="LineNumber"> 006 </span>อวิชชานุสัย   พระอรหันต์ก็ละได้แล้ว.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  อวิชชานุสัย  อันบุคคลละได้แล้ว   ปฏิฆานุสัย   เป็น
+<span class="LineNumber"> 008 </span>อันบุคคลนั้นละได้แล้ว  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                     <I>จบ  ปฏิฆานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 011 </span>                                      <I>ปฏิฆานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 012 </span>                                         <H1>มานานุสยมูล</H1>
+<span class="LineNumber"> 013 </span><H2>มานานุสยมูละ  ทิฏฐานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 014 </span>         [๑๔๙๘ ]   มานานุสัย  อันบุคคลใดละได้แล้ว,  ทิฏฐานุสัย  ฯลฯ
+<span class="LineNumber"> 015 </span>วิจิกิจฉานุสัย   เป็นอันบุคคลนั้นละได้แล้ว  ใช่ไหม ?

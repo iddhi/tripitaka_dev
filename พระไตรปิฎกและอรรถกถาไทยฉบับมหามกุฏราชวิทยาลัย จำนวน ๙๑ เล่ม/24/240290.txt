@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                               <h1>๖.  อัพภาหตสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๑๘๘]   เทวดาทูลถามว่า
+<span class="LineNumber"> 003 </span>                             <B>โลกอันอะไรหนอกำจัดแล้ว    อัน
+<span class="LineNumber"> 004 </span>                   อะไรหนอล้อมไว้แล้ว   อันลูกศรคืออะไร 
+<span class="LineNumber"> 005 </span>                   เสียบแล้ว  อันอะไรเผาแล้วในกาลทุกเมื่อ.</B>
+<span class="LineNumber"> 006 </span>         [๑๘๙]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 007 </span>                             <B>โลกอันมฤตยูกำจัดแล้ว  อันชราล้อม
+<span class="LineNumber"> 008 </span>                   ไว้แล้ว  อันลูกศรคือตัณหาเสียบแล้ว  อัน
+<span class="LineNumber"> 009 </span>                   ความอยากเผาให้ร้อนแล้วในกาลทุกเมื่อ.</B>
+
+<span class="LineNumber"> 010 </span>                               <h1>อรรถกถาอัพภาหตสูตร</h1>
+
+<span class="LineNumber"> 011 </span>         พึงทราบวินิจฉัยในอัพภาหตสูตรที่  ๖  ต่อไป :-
+<span class="LineNumber"> 012 </span>         บทว่า  <B>เกนสฺสุ  อพฺภาหโต</B>  แก้เป็น  <B>เกน  อพฺภาหโต</B>   แปลว่า
+<span class="LineNumber"> 013 </span>อะไร  กำจัดแล้ว.  <B>สุ</B>  อักษรเป็นเพียงนิบาต.
+<span class="LineNumber"> 014 </span>         บทว่า  <B>อิจฺฉาธูมายิโต</B>     แก้เป็น  <B>อิจฺฉาย  อาทิตฺโต</B>   แปลว่า อัน
+<span class="LineNumber"> 015 </span>ความอยากเผาให้ร้อนแล้ว.
+<span class="LineNumber"> 016 </span>                                  <I>จบอรรถกถาอัพภาหตสูตรที่  ๖</I>

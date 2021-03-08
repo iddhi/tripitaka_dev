@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>          <B>เหตุเหตุสัมปยุตตทุกะ</B>  เหมือนกับเหตุสเหตุกทุกะ   
+<span class="LineNumber"> 002 </span>                                         ฯลฯ
+<span class="LineNumber"> 003 </span>           พึงทำเป็น  ๙  วาระ.
+<span class="LineNumber"> 004 </span>      <H1>นเหตุสเหตุกทุกกุสลติกนเหตุนสเหตุกทุกนกุสลติกะ</H1>	
+<span class="LineNumber"> 005 </span>          <H2>(๖.  นเหตุสเหตุกทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 006 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 007 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                   <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 009 </span>                                         <H2>กุศลบท</H2>
+<span class="LineNumber"> 010 </span>           [๒๖๘] ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่เหตุธรรม  และไม่ใช่
+<span class="LineNumber"> 011 </span>สเหตุกธรรม    อาศัยธรรมที่เป็นกุศล    ที่ไม่ใช่เหตุธรรม    แต่เป็น
+<span class="LineNumber"> 012 </span>สเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๑ วาระ.
+<span class="LineNumber"> 013 </span>                                        <H2>อกุศลบท</H2>
+<span class="LineNumber"> 014 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่เหตุธรรม  และไม่ใช่
+<span class="LineNumber"> 015 </span>สเหตุกธรรม   อาศัยธรรมที่เป็นอกุศล   ที่ไม่ใช่เหตุธรรม   แต่เป็น
+<span class="LineNumber"> 016 </span>สเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๑ วาระ.

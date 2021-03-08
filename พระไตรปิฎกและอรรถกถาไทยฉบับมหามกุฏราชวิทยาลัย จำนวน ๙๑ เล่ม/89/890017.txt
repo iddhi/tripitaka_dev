@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>         โมหะ   ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  เจือกับขันธ์
+<span class="LineNumber"> 002 </span>ทั้งหลาย  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ ฯลฯ
+
+<span class="LineNumber"> 003 </span>                              <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 004 </span>         [๑๙]   ในนเหตุปัจจัย  มี ๑ วาระ  ในนอธิปติปัจจัย   มี ๑ วาระ    ใน
+<span class="LineNumber"> 005 </span>นปุเรชาตปัจจัย  มี ๑ วาระ  ในนปัจฉาชาตปัจจัย   มี ๑ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 006 </span>ปัจจัย   มี ๑ วาระ  ในนกันมปัจจัย  มี ๑ วาระ  ในนวิปากปัจจัย   มี ๑ วาระ
+<span class="LineNumber"> 007 </span>ในนฌานปัจจัย  มี ๑ วาระ  ในนมัคคปัจจัย  มี ๑ วาระ  ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 008 </span>มี  ๑ วาระ.
+<span class="LineNumber"> 009 </span>                                      <I>สังสัฏฐวาระ   จบ</I>
+
+<span class="LineNumber"> 010 </span>         การนับจำนวนวาระสองวาระนอกจากนี้ก็ดี    สัมปยุตตวาระก็ดี    พึง
+<span class="LineNumber"> 011 </span>กระทำอย่างนี้.

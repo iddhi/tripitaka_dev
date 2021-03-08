@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 263
+
+<span class="LineNumber"> 002 </span>อตฺตโน  หตฺถํ  คณฺหิตุํ  อทตฺวา  เตน  ปสาริตหตฺถํ  สยํ 
+<span class="LineNumber"> 003 </span>คเหตฺวา  สามิ  นาหํ  อนาถา มยฺหํ ปิตา วรุโณ นาม  
+<span class="LineNumber"> 004 </span>นาคราชา  มาตา  วิมลา  นาม  เอหิ  มม  ปิตุ  สนฺติกํ 
+<span class="LineNumber"> 005 </span>คจฺฉาม  เอเสว(๑)  เต  ยถา  อมฺหากํ  มงฺคลกิริยาย  ภวิตพฺพํ  
+<span class="LineNumber"> 006 </span>เอวํ  เอตมตฺถํ  ปวกฺขตีติ อวจาสิ ฯ  
+<span class="LineNumber"> 007 </span>	[๒]ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 008 </span>	[๙๐๒]อลงฺกตา สุวสนา		มาลินี จนฺทนุสฺสทา  
+<span class="LineNumber"> 009 </span>		ยกฺขํ หตฺเถ คเหตฺวาน	ปิตุสนฺติกมุปาคมีติ(๓) ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ปิตุ  สนฺติกมุปาคมีติ  ปิตุ (๔) สนฺติกํ  อุปาคมิ ฯ  
+<span class="LineNumber"> 011 </span>ปุณฺณโกปิ  ยกฺโข  ปฏิหาเรตฺวา  นาคราชสฺส  สนฺติกํ  คนฺตฺวา
+<span class="LineNumber"> 012 </span>อิรนฺทตึ  ยาจนฺโต อาห  
+<span class="LineNumber"> 013 </span>		[๙๐๓]นาควร วโจ สุณาหิ(๕) เม  
+<span class="LineNumber"> 014 </span>			ปฏิรูปํ ปฏิปชฺช สุงฺกยํ (๖) 
+<span class="LineNumber"> 015 </span>			ปฏฺเถมิหํ (๗)อรนฺทตึ(๘)  
+<span class="LineNumber"> 016 </span>			ตาย สมงฺคึ กโรหิ มํ ตุวํ  
+<span class="LineNumber"> 017 </span>		สตํ หตฺถี สตํ อสฺสา	สตํ อสฺสตรี รถา  
+<span class="LineNumber"> 018 </span>		สตํ พลภิยฺโย(๙) ปุณฺณา	นานารตนสฺส เกวลา  
+<span class="LineNumber"> 019 </span>		เต นาค ปฏิปชฺชสฺสุ	ธีตรํ เทหิ อิรนฺทตินฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. เอโสเอว ฯ  ๒. ม.เอตฺถนฺตเร เอวํ วตฺวา สา ยกฺขํ คเหตฺวา 
+<span class="LineNumber"> 021 </span># ปิตุ สนฺติกํ อคมาสีติ ทิสฺสนฺติ ฯ  ๓. ม.ปิตุสนฺติกุปาคมีติ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. อตฺตโน ปิตุโน นาครฺโ ฯ  ๕. ม. สุโณหิ ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. สุงฺกิยํ ฯ  ๗. ม. ปตฺเถมิ อหํ ฯ  ๘. ม. อิรนฺธตึ ฯ 
+<span class="LineNumber"> 024 </span># ๙. ม. วลภิโย  ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 55
+
+<span class="LineNumber"> 002 </span>	สตสหสฺสวสฺสานิ		อายุ ตสฺส มเหสิโน  
+<span class="LineNumber"> 003 </span>	ตาว ติฏฺ€มาโน โส		ตาเรสิ ชนตํ พหุํ ฯ  
+<span class="LineNumber"> 004 </span>	โชตยิตฺวาน สทฺธมฺมํ		สนฺตาเรตฺวา มหาชนํ  
+<span class="LineNumber"> 005 </span>	ชลิตฺวา อคฺคิกฺขนฺโธว	นิพฺพุโต โส สสาวโก ฯ  
+<span class="LineNumber"> 006 </span>	สา จ อิทฺธี โส จ ยโส	ตานิ จ ปาเทสุ จกฺกรตนานิ  
+<span class="LineNumber"> 007 </span>	สพฺพํ ตมนฺตรหิตํ(๑)	อนุริตฺตา สพฺพสงฺขาราติ(๒) ฯ  
+<span class="LineNumber"> 008 </span>	(๓)ทีปงฺกรสฺส อปเรน	โกณฺฑฺโ นาม นายโก
+<span class="LineNumber"> 009 </span>	อนนฺตเตโช อมิตยโส	อปฺปเมยฺโย ทุราสโทติ(๓) ฯ
+<span class="LineNumber"> 010 </span>	ทีปงฺกรสฺส  ปน  ภควโต  อปรภาเค  เอกํ  อสงฺเขยฺยํ  
+<span class="LineNumber"> 011 </span>อติกฺกมิตฺวา  โกณฺฑฺโ  นาม  สตฺถา  อุทปาทิ ฯ  ตสฺสาปิ  
+<span class="LineNumber"> 012 </span>ตโย  สาวกสนฺนิปาตา  อเหสุํ ฯ  ป€มสนฺนิปาเต  โกฏิสตสหสฺสํ  
+<span class="LineNumber"> 013 </span>ทุติเย  โกฏิสหสฺสํ  ตติเย  นวุติโกฏิโย ฯ  ตทา  โพธิสตฺโต 
+<span class="LineNumber"> 014 </span>วิชิตาจี  นาม  จกฺกวตฺตี  หุตฺวา  โกฏิสตสหสฺสสงฺขสฺส  
+<span class="LineNumber"> 015 </span>พุทฺธปฺปมุขสฺส  ภิกฺขุสํฆสฺส  มหาทานํ  อทาสิ ฯ  สตฺถา
+<span class="LineNumber"> 016 </span>โพธิสตฺตํ  พุทฺโธ  ภวิสฺสสีติ  พฺยากริตฺวา  ธมฺมํ  เทเสสิ ฯ 
+<span class="LineNumber"> 017 </span>โส  สตฺถุ  ธมฺมกถํ  สุตฺวา  รชฺชํ นิยฺยาเทตฺวา ปพฺพชิ ฯ
+<span class="LineNumber"> 018 </span>โส  ตีณิ  ปิฏกานิ  อุคฺคเหตฺวา  อฏฺ€  สมาปตฺติโย  ปฺจ 
+<span class="LineNumber"> 019 </span>อภิฺาโย จ  อุปฺปาเทตฺวา  อปริหีนชฺฌาโน  พฺรหฺมโลเก 
+<span class="LineNumber"> 020 </span># ๑. ม. ตมนฺตรหิตํ ฯ  ๒. ม. นนุ ริตฺตา สพฺพสงฺขาราติ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. ม. ยุ. อยํ คาถา อายุปฺปมาณํ อโหสีติ วจนโต ปรํ ทิสฺสติ ฯ
+<span class="LineNumber"> 022 </span># ๔. สี. โพธิสตฺตสฺส ฯ

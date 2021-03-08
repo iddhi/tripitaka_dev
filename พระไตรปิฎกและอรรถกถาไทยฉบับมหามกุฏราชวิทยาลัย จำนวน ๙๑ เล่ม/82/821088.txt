@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 002 </span>                                       <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 003 </span><H2>กายสังขารมูล   วจีสังขารมูลี :-</H2> 
+<span class="LineNumber"> 004 </span>         [๑๐๔๖]   กายสังขารไม่ใช่กำลังเกิดในภูมิใด,  วจีสังขารก็ไม่ใช่
+<span class="LineNumber"> 005 </span>กำลังเกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ในรูปาวจรภูมิ     ในอรูปาวจรภูมิ     กายสังขารไม่ใช่กำลังเกิด
+<span class="LineNumber"> 007 </span>ในภูมินั้น   แต่วจีสังขารกำลังเกิดในภูมินั้น,  ในจตุตถฌาน  ในอสัญญ-
+<span class="LineNumber"> 008 </span>สัตตภูมิ      กายสังขารไม่ใช่กำลังเกิด      และวจีสังขารก็ไม่ใช่กำลังเกิด 
+<span class="LineNumber"> 009 </span>ในภูมินั้น.
+<span class="LineNumber"> 010 </span>         ก็หรือว่า  วจีสังขารไม่ใช่กำลังเกิดในภูมิใด,  กายสังขารก็ไม่ใช่
+<span class="LineNumber"> 011 </span>กำลังเกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ในทุติยฌาน   ในตติยฌาน   วจีสังขารไม่ใช่กำลังเกิดในภูมินั้น
+<span class="LineNumber"> 013 </span>แต่กายสังขารกำลังเกิดในภูมินั้น,    ในจตุตถฌาน    ในอสัญญสัตตภูมิ
+<span class="LineNumber"> 014 </span>วจีสังขารไม่ใช่กำลังเกิด   และกายสังขารก็ไม่ใช่กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 015 </span>                      <I>จบ    กายสังขารมูละ   วจีสังขารมูลี</I>

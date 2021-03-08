@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๕  นิคมนกถา หน้า  ๕๘๓
+
+<span class="LineNumber"> 002 </span>กตนามเธยฺเยน(๑) เถเรน กตา อยํ มโนรถปูรณี นาม 
+<span class="LineNumber"> 003 </span>องฺคุตฺตรนิกายฏฺ€กถา ฯ   
+<span class="LineNumber"> 004 </span>		ตาว ติฏฺ€ตุ โลกสฺมึ  โลกนิตฺถรเณสินํ   
+<span class="LineNumber"> 005 </span>		ทสฺเสติ(๒) กุลปุตฺตานํ  นยํ จิตฺตวิสุทฺธิยา ฯ  
+<span class="LineNumber"> 006 </span>		ยาว พุทฺโธติ นามมฺปิ  สุทฺธจิตฺตสฺส ตาทิโน  
+<span class="LineNumber"> 007 </span>		โลกมฺหิ โลกเชฏฺ€สฺส  ปวตฺตติ มเหสิโนติ ฯ   
+<span class="LineNumber"> 008 </span>				มโนรถปูรณี นาม   
+<span class="LineNumber"> 009 </span>			องฺคุตฺตรนิกายฏฺ€กถา  นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 010 </span>#๑. ม. คหิตนามเธยฺเยน ฯ  ๒. ม. ทสฺเสนฺติ ฯ

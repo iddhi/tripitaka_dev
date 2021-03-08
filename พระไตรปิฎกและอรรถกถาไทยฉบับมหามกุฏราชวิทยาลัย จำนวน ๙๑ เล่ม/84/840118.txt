@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>ปุริสินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>น  ปุริสินทริยมูละ  น  จักขุนทริยมูลี :-</B>
+<span class="LineNumber"> 003 </span>         [๔๒๕]  ธรรมที่ไม่ชื่อว่าปุริสะ,  ไม่ชื่อว่า  ปุริสินทรีย์   ใช่ไหม   ?
+<span class="LineNumber"> 004 </span>         ปุริสินทรีย์   ไม่ชื่อว่าปุริสะ   เเต่ชื่อว่าปุริสินทรีย์,   เว้นธรรมที่ 
+<span class="LineNumber"> 005 </span>ชื่อว่าปุริสะและปุริสินทรีย์เสียแล้ว        ธรรมที่เหลือไม่ชื่อว่าปุริสะด้วย
+<span class="LineNumber"> 006 </span>ไม่ชื่อว่าปุริสินทรีย์ด้วย.
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่าอินทรีย์,  ไม่ชื่อว่า  จักขุนทรีย์   ใช่ไหม  ? 
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                                            ฯ ล ฯ
+<span class="LineNumber"> 010 </span><B>น  ปุริสินทริยมูละ   น  อัญญาตาวินทริยมูลี :-</B>
+<span class="LineNumber"> 011 </span>         ธรรมที่ไม่ชื่อว่าปุริสะ,   ไม่ชื่อว่า  ปุริสินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ปุริสินทรีย์   ไม่ชื่อว่าปุริสะ   แต่ชื่อว่าปุริสินทรีย์,   เว้นธรรมที่ 
+<span class="LineNumber"> 013 </span>ชื่อว่าปุริสะ    และปุริสินทรีย์เสียแล้ว  ธรรมที่เหลือไม่ชื่อว่าปุริสะด้วย
+<span class="LineNumber"> 014 </span>ไม่ชื่อว่าปุริสินทรีย์ด้วย.
+<span class="LineNumber"> 015 </span>         ธรรมที่ไม่ชื่อว่าอินทรีย์   ไม่ชื่อว่า  อัญญาตาวินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>              <I>จบ  น  ปุริสินทริยมูละ  น  อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 017 </span>                                  <I>น ปุริสินทริยมูล  จบ</I>

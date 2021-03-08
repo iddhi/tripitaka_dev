@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๗.  อินทริยชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                               <H1>ว่าด้วยดี  ๔  ชั้น</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๑๗๑]   ดูก่อนนารทะ      บุรุษใดตกอยู่ในอำนาจ
+<span class="LineNumber"> 004 </span>           แห่งอินทรีย์   เพราะกาม  บุรุษนั้นละโลกทั้งสอง 
+<span class="LineNumber"> 005 </span>           ไปแล้ว     ย่อมเกิดในอบายมีนรกเป็นต้น       แม้
+<span class="LineNumber"> 006 </span>           เมื่อยังเป็นอยู่  ก็ย่อมซูบซีดไป. 
+<span class="LineNumber"> 007 </span>         [๑๑๗๒]   ทุกข์เกิดในลำดับแห่งสุข      สุขเกิดใน
+<span class="LineNumber"> 008 </span>           ลำดับแห่งทุกข์    ส่วนเธอนั้นประสบทุกข์มาก
+<span class="LineNumber"> 009 </span>           กว่าสุข   เธอจงหวังความสุข   อันประเสริฐเถิด. 
+<span class="LineNumber"> 010 </span>         [๑๑๗๓]   ในเวลาเกิดความลำบาก   บุคคลใดอดทน
+<span class="LineNumber"> 011 </span>           ความลำบากได้      บุคคลนั้นย่อมไม่เป็นไปตาม
+<span class="LineNumber"> 012 </span>           ความลำบาก    บุคคลนั้นเป็นนักปราชญ์    ย่อม
+<span class="LineNumber"> 013 </span>           บรรลุสุขปราศจากเครื่องประกอบ      อันเป็นที่
+<span class="LineNumber"> 014 </span>           สุดแห่งความลำบาก. 
+<span class="LineNumber"> 015 </span>         [๑๑๗๔]   เธอไม่ควรเคลื่อนจากธรรม      เพราะ
+<span class="LineNumber"> 016 </span>           ปรารถนากามทั้งหมด   เพราะเหตุใช่ประโยชน์
+<span class="LineNumber"> 017 </span>           เพราะเหตุเป็นประโยชน์      ถึงเธอจะทำสุขใน</B>

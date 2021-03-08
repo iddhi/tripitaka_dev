@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  380
+	
+<span class="LineNumber"> 002 </span>		สงฺขริตฺวาน(๑) กุสลํ		สกํ จิตฺตํ ปสาทยึ  
+<span class="LineNumber"> 003 </span>		ชาติปูชํ กริตฺวาน		ตตฺถ กาลงฺกโต อหํ ฯ  
+<span class="LineNumber"> 004 </span>		ยํ ยํ โยนุปปชฺชามิ		เทวตฺตํ อถ มานุสํ  
+<span class="LineNumber"> 005 </span>		สพฺเพ สตฺเต อภิโภมิ(๒)	ชาติปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 006 </span>		ธาติโย (๓) มํ อุปฏฺเ€นฺติ  มม จิตฺตวสานุคา  
+<span class="LineNumber"> 007 </span>		น ตา (๔) สกฺโกนฺติ โกเปตุํ  ชาติปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 008 </span>		เอกนวุติโต กปฺเป		ยํ ปูชมกรึ ตทา  
+<span class="LineNumber"> 009 </span>		ทุคฺคตึ นาภิชานามิ	ชาติปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 010 </span>		สุปาริจริยา นาม		จตุตฺตึส ชนาธิปา  
+<span class="LineNumber"> 011 </span>		อิโต ตติยกปฺปมฺหิ (๕)	จกฺกวตฺตี มหพฺพลา ฯ  
+<span class="LineNumber"> 012 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	ฉฬภิฺโ  ปน  หุตฺวา  ปหีนกิเลสปจฺจเวกฺขณมุเขน (๖) เอตรหิ
+<span class="LineNumber"> 014 </span>อนุภุยฺยมานโรควเสน  ปุริมชาตีสุ  อตฺตนา  กตํ  ปาปกมฺมํ 
+<span class="LineNumber"> 015 </span>อนุสฺสริตฺวา  ตสฺส  อิทานิ  สพฺพโส ปหีนภาวํ วิภาเวนฺโต  
+<span class="LineNumber"> 016 </span>		ยํ มยา ปกตํ ปาปํ		ปุพฺเพ อฺาสุ ชาติสุ  
+<span class="LineNumber"> 017 </span>		อิเธว ตํ เวทนียํ		วตฺถุ อฺํ น วิชฺชตีติ(๗)  
+<span class="LineNumber"> 018 </span>คาถํ อภาสิ ฯ
+<span class="LineNumber"> 019 </span># ๑. สฺยา. สํหริตฺวาน ฯ ยุ. สํสริตฺวาน ฯ  ๒. สฺยา. อตีโตมฺหิ ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. ม. ธาติโย ฯ  ๔. สฺยา. น เต ฯ ๕. สฺยา. ม. ตติยกปฺปมฺหิ ฯ 
+<span class="LineNumber"> 021 </span># ๖. สี. ปหีนกิเลสปจฺจเวกฺขเณน ฯ  ๗. ขุ. เถร. ๒๖/๒๑๘/๒๗๘ ฯ 

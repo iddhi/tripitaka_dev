@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>ปัญหาปุจฉกะ</H1>
+<span class="LineNumber"> 002 </span>           [๔๖๒]  <B>สติปัฏฐาน  ๔</B>  คือ
+<span class="LineNumber"> 003 </span>           <B>๑.  ภิกษุในศาสนานี้   พิจารณาเห็นกายในกายเนือง ๆ  อยู่
+<span class="LineNumber"> 004 </span>มีความเพียร   มีสัมปชัญญะ  มีสติ   กำจัดอภิชฌาและโทมนัสเสียได้
+<span class="LineNumber"> 005 </span>ในโลก.</B> 
+<span class="LineNumber"> 006 </span>           <B>๒.  พิจารณาเห็นเวทนาในเวทนาเนือง ๆ อยู่ มีความเพียร
+<span class="LineNumber"> 007 </span>มีสัมปชัญญะ   มีสติ   กำจัดอภิชฌาและโทมนัสเสียได้ในโลก.</B>
+<span class="LineNumber"> 008 </span>           <B>๓.  พิจารณาเห็นจิตในจิตเนือง ๆ อยู่ มีความเพียร   มีสัม-
+<span class="LineNumber"> 009 </span>ปชัญญะ   มีสติ    กำจัดอภิชฌาและโทมนัสเสียได้ในโลก.</B>           
+<span class="LineNumber"> 010 </span>           <B>๔.  พิจารณาเห็นธรรมในธรรมเนือง ๆ อยู่ มีความเพียร
+<span class="LineNumber"> 011 </span>มีสัมปชัญญะ  มีสติ  กำจัดอภิชฌาและโทมนัสเสียได้ในโลก.</B>
+
+<span class="LineNumber"> 012 </span>                          <H1>ติกมาติกาปุจฉา  ทุกมาติกาปุจฉา</H1>
+<span class="LineNumber"> 013 </span>           บรรดาสติปัฏฐาน ๔  สติปัฏฐานไหนเป็นกุศล   สติปัฏฐานไหนเป็น
+<span class="LineNumber"> 014 </span>อกุศล  สติปัฏฐานไหนเป็นอัพยากฤต ฯลฯ   สติปัฏฐานไหนเป็นสรณะ  สติ-
+<span class="LineNumber"> 015 </span>ปัฏฐานไหนเป็นอรณะ.                                                          

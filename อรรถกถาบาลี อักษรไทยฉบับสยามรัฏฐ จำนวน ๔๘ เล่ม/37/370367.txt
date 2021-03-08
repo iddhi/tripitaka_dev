@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 367
+
+<span class="LineNumber"> 002 </span>	วิมลา อาห  
+<span class="LineNumber"> 003 </span>	[๑๐๒๒]เอวเมตํ ยถาพฺรูสิ	สจฺจํ ภาสสิ ปณฺฑิต  
+<span class="LineNumber"> 004 </span>		น วชฺโฌ อภิวาเทยฺย	วชฺฌํ วา นาภิวาทเย๗  
+<span class="LineNumber"> 005 </span>		กถนฺนุ (๑)อภิวาเทยฺย	อภิวาทาปเยถ เว  
+<span class="LineNumber"> 006 </span>		ยํ นโร หนฺตุมิจฺเฉยฺย	ตํ กมฺมํ นุปปชฺชตีติ(๒) ฯ  
+<span class="LineNumber"> 007 </span>	อถ มหาสตฺโต วมลาย สทฺธึ ปฏิสนฺถารํ กโรนฺโต อาห  
+<span class="LineNumber"> 008 </span>	[๑๐๒๓]อสสฺสตํ สสฺสตํ นุ ตว อิทํ (๓) 
+<span class="LineNumber"> 009 </span>		(วิมานํ) อิทฺธี ชุตี พลวิริยูปปตฺติ  
+<span class="LineNumber"> 010 </span>		ปุจฺฉามิ ตํ นาคกฺเ ตมตฺถํ  
+<span class="LineNumber"> 011 </span>		กถํ นุ เต ลทฺธมิทํ วิมานํ  
+<span class="LineNumber"> 012 </span>		อธิจฺจ ลทฺธํ ปริณามชนฺเต(๔)  
+<span class="LineNumber"> 013 </span>		สยีกตํ (๕) อุทาหุ เทเวหิ ทินฺนํ  
+<span class="LineNumber"> 014 </span>		อกฺขาหิ เม นาคกฺเ ตมตฺถํ  
+<span class="LineNumber"> 015 </span>		ยเถว เต ลทฺธมิทํ วิมานนฺติ(๖) ฯ  
+<span class="LineNumber"> 016 </span>	วิมลา อาห  
+<span class="LineNumber"> 017 </span>	[๑๐๒๔]นาธิจฺจ ลทฺธํ น ปริณามชมฺเม(๗)  
+<span class="LineNumber"> 018 </span>		น สยํ กตํ น จ เทเวหิ ทินฺนํ  
+<span class="LineNumber"> 019 </span>		สเกหิ กมฺเมหิ อปาปเกหิ  
+<span class="LineNumber"> 020 </span>		ปุฺเหิ เม ลทฺธมิทํ วิมานนฺติ(๘) ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. กถํ โน ฯ  ๒. ม. นุปปชฺชติ ฯ  ๓. ม. ตวยิทํ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. ปริณามชํ, เต ๕. ม. สยํกตํ ฯ ๖. ม. วิมานํ ฯ
+<span class="LineNumber"> 023 </span># ๗. ม. ปริณามชํ เม ฯ  ๘. ม. วิมานํ ฯ

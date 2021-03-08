@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่ามโน,  ชื่อว่าธาตุ  ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าธาตุ,  ชื่อว่ามโนธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         มโนธาตุ   ชื่อว่า    ธาตุด้วย   ชื่อว่า    มโนธาตุด้วย,  ธาตุที่เหลือ
+<span class="LineNumber"> 005 </span>ชื่อว่า   ธาตุ   แต่ไม่ชื่อว่ามโนธาตุ.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่ามโนวิญญาณ,  ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ธรรมที่ชื่อว่าธาตุ,   ชื่อว่ามโนวิญญาณธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         มโนวิญญาณธาตุ   ชื่อว่า    ธาตุด้วย   ชื่อว่า    มโนวิญญาณธาตุ
+<span class="LineNumber"> 010 </span>ด้วย,  ธาตุที่เหลือ   ชื่อว่า   ธาตุ   แต่ไม่ชื่อว่ามโนวิญญาณธาตุ.
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าธรรม,   ชื่อว่าธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าธาตุ,  ชื่อว่าธัมมธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ธัมมธาตุ   ชื่อว่า    ธาตุด้วย   ชื่อว่า   ธัมมธาตุด้วย  ธาตุที่เหลือ
+<span class="LineNumber"> 015 </span>ชื่อว่า   ธาตุ   แต่ไม่ชื่อว่าธัมมธาตุ.
+<span class="LineNumber"> 016 </span>                             <I>สุทธธาตุวาระ  อนุโลม  จบ</I>

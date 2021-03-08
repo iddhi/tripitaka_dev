@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  454
+
+<span class="LineNumber"> 002 </span>สมฺพาหิตฺวา  เวสฺสนฺตรสฺส  อาคตภาวํ  ชานาเปสฺสามีติ  สาลาโต 
+<span class="LineNumber"> 003 </span>นิกฺขมิตฺวา  ตสฺส  จกฺขุปเถ  สาลทฺวาเร  อฏฺ€าสิ ฯ  เตน(๑)  นครํ 
+<span class="LineNumber"> 004 </span>ปวิสนฺติโย  จ  นิกฺขมนฺติโย  จ  อิตฺถิโย ตํ ทิสฺวา ปริวาเรสุํ ฯ  
+<span class="LineNumber"> 005 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 006 </span>	[๑๑๑๒]เจติโย ปริกรึสุ(๒)	ทิสฺวา ลกฺขณมาคตํ  
+<span class="LineNumber"> 007 </span>		สุขุมาลี อยํ(๓) อยฺยา	ปตฺติกา ปริธาวติ  
+<span class="LineNumber"> 008 </span>		วยฺหาหิ ปริยายิตฺวา	สิวิกาย รเถน จ  
+<span class="LineNumber"> 009 </span>		สาชฺช มทฺที อรฺสฺมึ	ปตฺติกา ปริธาวตีติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ลกฺขณมาคตนฺติ  สพฺพลกฺขณสมปนฺนํ  มทฺทึ  อาคตํ ฯ  
+<span class="LineNumber"> 011 </span>ปริธาวตีติ  เอวํ  สุขุมาลี  วต  หุตฺวา  ปตฺติกาว วิจรติ ฯ 
+<span class="LineNumber"> 012 </span>ปริยายิตฺวาติ  ปุพฺเพ เชตุตฺตรนคเร วิจริตฺวา ฯ สิวิกายาติ 
+<span class="LineNumber"> 013 </span>สุวณฺณสิวิกาย ฯ  
+<span class="LineNumber"> 014 </span>	มหาชโน  มทฺทิฺจ  เวสนฺตรฺจ  เทฺว  ปุตฺเต  จสฺส 
+<span class="LineNumber"> 015 </span>อนาถาคมเนน  อาคเต  ทิสฺวา  คนฺตฺวา  ราชูนํ  อาโรเจสิ(๔) ฯ  เต
+<span class="LineNumber"> 016 </span>สฏฺ€ีสหสฺสา  ราชาโน โรทนฺตา ปริเทวนฺตา ตสฺส สนฺติกํ 
+<span class="LineNumber"> 017 </span>อาคมึสุ ฯ  
+<span class="LineNumber"> 018 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 019 </span>	[๑๑๑๓]ตํ ทิสฺวา เจตปาโมกฺขา  โรทมานา อุปาคมม  
+<span class="LineNumber"> 020 </span>		กจฺจิ นุ เทว กุสลํ		กจฺจิ เทว อนามยํ  
+<span class="LineNumber"> 021 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. ปริวารึสุ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. วต ฯ  ๔. ม.อาจิกฺขิ ฯ 

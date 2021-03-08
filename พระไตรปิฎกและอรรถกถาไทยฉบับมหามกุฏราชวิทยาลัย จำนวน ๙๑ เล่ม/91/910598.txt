@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>   
+<span class="LineNumber"> 002 </span>           [๓๔๕]  ในเหตุปัจจัย มี ๒ วาระ     ในอธิปติปัจจัย มี ๒ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย มี ๓ วาระ.
+
+<span class="LineNumber"> 004 </span>                                             <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 005 </span>                               <H2>การยกปัจจัยในปัจจนียะ</H2>	
+<span class="LineNumber"> 006 </span>           [๓๔๖] ๑.  <B>ธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   ที่เป็นสรณ-
+<span class="LineNumber"> 007 </span>ธรรม   เป็นปัจจัยแก่ธรรมที่ไม่ใช่อนิทัสสนอัปปฏิฆธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 008 </span>สรณธรรม  ด้วยอำนาจของสหชาตปัจจัย,  เป็นปัจจัย ด้วยอำนาจของ
+<span class="LineNumber"> 009 </span>ปัจฉาชาตปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                                  ฯลฯ 
+
+<span class="LineNumber"> 011 </span>                        <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 012 </span>           [๓๔๗]  ในนเหตุปัจจัย มี  ๓ วาระ ในนอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 013 </span>ฯลฯ  ในโนวิคตปัจจัย มี  ๓ วาระ.
+<span class="LineNumber"> 014 </span>           ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 015 </span>              <I>สรณทุกสนิทัสสนติกนสรณทุกนสนิทัสสติกะ  จบ</I>
+<span class="LineNumber"> 016 </span>                           <I>อนุโลมปัจจนียทุกติกปัฏฐาน  จบ</I>

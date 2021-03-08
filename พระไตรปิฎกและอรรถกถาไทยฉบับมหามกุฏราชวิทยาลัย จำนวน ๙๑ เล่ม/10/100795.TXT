@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>โจทก์ควรใฝ่ใจถึงธรรม</H1>    
+<span class="LineNumber"> 002 </span>           [๑,๑๘๕]  อุ.  ภิกษุผู้โจทก์ประสงค์จะโจทผู้อื่น    พึงมนสิการธรรม 
+<span class="LineNumber"> 003 </span>เท่าไรไว้ในตน  แล้วโจทผู้อื่น   พระพุทธเจ้าข้า
+<span class="LineNumber"> 004 </span>           ดูก่อนอุบายี   ภิกษุผู้โจทก์ประสงค์จะโจทผู้อื่น  พึงมนสิการธรรม
+<span class="LineNumber"> 005 </span>๕  อย่างไว้ในตน   แล้วโจทผู้อื่น  ธรรม ๕ อย่าง   อะไรบ้าง   คือ:-
+<span class="LineNumber"> 006 </span>           ๑.   ความการุญ
+<span class="LineNumber"> 007 </span>           ๒.  ความหวังประโยชน์
+<span class="LineNumber"> 008 </span>           ๓.  ความเอ็นดู
+<span class="LineNumber"> 009 </span>           ๔.  ความออกจากอาบัติ
+<span class="LineNumber"> 010 </span>           ๕.  ความทำวินัยเป็นเบื้องหน้า
+<span class="LineNumber"> 011 </span>           ดูก่อนอุบาลี   ภิกษุผู้โจทก์ประสงค์จะโจทผู้อื่น   พึงมนสิการธรรม ๕
+<span class="LineNumber"> 012 </span>อย่างนี้ไว้ในตน   แล้วโจทผู้อื่น.
+
+<span class="LineNumber"> 013 </span>                          <H1>องค์ของภิกษุผู้ไม่ควรให้ทำโอกาส </H1>
+<span class="LineNumber"> 014 </span>           [๑,๑๘๖]   อุ.   ภิกษุประกอบด้วยองค์เท่าไรหนอแล   ขอให้ทำโอกาส
+<span class="LineNumber"> 015 </span>สงฆ์ไม่ควรทำโอกาส   พระพุทธเจ้าข้า
+<span class="LineNumber"> 016 </span>           พ.  ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕    ขอให้ทำโอกาส   สงฆ์
+<span class="LineNumber"> 017 </span>ไม่ควรทำโอกาส   องค์ ๕   อะไรบ้าง   คือ:-
+<span class="LineNumber"> 018 </span>           ๑.  เป็นผู้มีความประพฤติทางกายไม่บริสุทธิ์ 
+<span class="LineNumber"> 019 </span>           ๒.  เป็นผู้มีความประพฤติทางวาจาไม่บริสุทธิ์
+<span class="LineNumber"> 020 </span>           ๓.  เป็นผู้มีอาชีวะไม่บริสุทธิ์

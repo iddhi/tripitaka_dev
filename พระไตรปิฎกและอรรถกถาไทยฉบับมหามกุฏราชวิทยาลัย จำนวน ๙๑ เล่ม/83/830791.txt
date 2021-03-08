@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         จิตที่กำลังดับอยู่,   ดับแล้ว ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         จิตที่ไม่ใช่ดับแล้ว,  ไม่ใช่กำลังดับอยู่  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         จิตที่ไม่ใช่กำลังดับอยู่,  ไม่ใช่ดับแล้ว  ใช่ไหม ?
+<span class="LineNumber"> 004 </span><H1>อติกกันตวาระ</H1> :-
+<span class="LineNumber"> 005 </span>         [๑๔]  จิตของบุคคลใดมีกาลก้าวล่วงแล้วซึ่งขณะอันเป็นอุปปา
+<span class="LineNumber"> 006 </span>ทะขณะ    จิตของบุคคลนั้นมีกาลก้าวล่วงแล้วซึ่งขณะอันเป็นนิโรธขณะ
+<span class="LineNumber"> 007 </span>ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ก็หรือว่าจิตของบุคคลใดมีกาลก้าวล่วงแล้วซึ่งขณะอันเป็นนิโรธ
+<span class="LineNumber"> 009 </span>ขณะ   จิตของบุคคลนั้นมีกาลก้าวล่วงแล้วซึ่งขณะอันเป็นอุปปาทขณะ
+<span class="LineNumber"> 010 </span>ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         จิตของบุคคลใดไม่มีกาลก้าวล่วงแล้วซึ่งขณะอันเป็นอุปปาท-
+<span class="LineNumber"> 012 </span>ขณะ       จิตของบุคคลนั้นมีกาลก้าวล่วงแล้วซึ่งขณะอันเป็นนิโรธขณะ
+<span class="LineNumber"> 013 </span>ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ก็หรือว่าจิตของบุคคลใดไม่มีกาลก้าวล่วงแล้วซึ่งขณะอันเป็นนิโรธ- 
+<span class="LineNumber"> 015 </span>ขณะ,      จิตของบุคคลนั้นไม่มีกาลก้าวล่วงแล้วซึ่งขณะอันเป็นอุปปาทะ
+<span class="LineNumber"> 016 </span>ขณะ  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>                                   <I>จบ  ปุคคลวารุทเทส</I>

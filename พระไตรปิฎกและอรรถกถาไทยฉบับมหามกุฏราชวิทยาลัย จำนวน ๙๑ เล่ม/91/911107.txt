@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>ปริตตธรรม    ที่เป็นนเหตุธรรม    อาศัยธรรมที่ 
+<span class="LineNumber"> 002 </span>ไม่ใช่ปริตตธรรม  ที่ไม่ใช่นเหตุธรรม เกิดขึ้น เพราะเหตุปัจจัย   ฯลฯ</B> 
+<span class="LineNumber"> 003 </span>           โดยนัยแห่งการนับ มี ๓ วาระ. 
+<span class="LineNumber"> 004 </span>                                    <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                   <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 007 </span>                                    <H2>มหัคคตบท</H2>
+<span class="LineNumber"> 008 </span>           [๓๘๔] ๑.  <B>มหัคคตธรรม  ที่เป็นเหตุธรรม อาศัยธรรมที่
+<span class="LineNumber"> 009 </span>ไม่ใช่มหัคคตธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                            <B>ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 012 </span>           [๓๘๕]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+
+<span class="LineNumber"> 013 </span>                                     <H2>อัปปมาณบท</H2>
+<span class="LineNumber"> 014 </span>           [๓๘๖] ๑.  <B>อัปปมาณธรรม  ที่เป็นเหตุธรรม  อาศัยธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่อัปปมาณธรรม   ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>	
+<span class="LineNumber"> 016 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 017 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>           [๓๘๗]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 019 </span>                   <I>นเหตุทุกนปริตตติกเหตุทุกปริตตติกะ  จบ</I>  

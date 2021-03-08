@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                    ๔.  วิสุทธิ  ความหมดจด 
+<span class="LineNumber"> 002 </span>                                    อุทเทส
+<span class="LineNumber"> 003 </span>                       <B>๑. ปญฺาย  ปริสุชฺฌติ.</B>
+<span class="LineNumber"> 004 </span>                       ย่อมหมดจดด้วยปัญญา.
+<span class="LineNumber"> 005 </span>                         ยกฺขสํยุตฺต สคาถวคฺค.<SUP>๑</SUP>
+<span class="LineNumber"> 006 </span>                        <B>๒.  เอส  มคฺโค  วิสุทฺธิยา.</B>
+<span class="LineNumber"> 007 </span>                 นั่น  [คือนิพพิทา] เป็นทางแห่งวิสุทธิ.
+<span class="LineNumber"> 008 </span>                             มคฺควคฺค  ธมฺมปท.<SUP>๒</SUP>
+<span class="LineNumber"> 009 </span>                                <B>พรรณนาความ</B>
+<span class="LineNumber"> 010 </span>	ลัทธิพราหมณ์ถือว่า  บาปที่ทำแล้วอาจลอยเสียด้วยทำพิธีเมื่อ
+<span class="LineNumber"> 011 </span>อาบน้ำ  เช่นเดียวกับชำระมลทินกายด้วยอาบน้ำโดยปกติ  และลัทธิ
+<span class="LineNumber"> 012 </span>คริสตังถือว่า  อ้อนวอนพระเจ้าเพื่อโปรดยกประทานได้อยู่  เช่นเดียว
+<span class="LineNumber"> 013 </span>กับพระเจ้าแผ่นดิน  โปรดยกโทษพระราชาทานแก่คนผู้ทำผิด  ให้พ้น
+<span class="LineNumber"> 014 </span>พระราชอาญา  ฝ่ายพระพุทธศาสนาถือว่า
+<span class="LineNumber"> 015 </span>	<B>อตฺตนา ว กตํ  ปาปํ                  อตฺตนา  สงฺกิลิสฺสติ
+<span class="LineNumber"> 016 </span>	อตฺตนา  อกตํ  ปาปํ                  อตฺตนา  ว  วิสุชฺฌติ
+<span class="LineNumber"> 017 </span>	สุทฺธิ  อสุทฺธิ  ปจฺจตฺตํ               นาญฺโ  อญฺํ  วิโสธเย.</B><SUP>๓</SUP>
+<span class="LineNumber"> 018 </span>	ทำบาปเอง  ย่อมเศร้าหมองเอง  ไม่ทำบาปเอง  ย่อมหมดจด
+<span class="LineNumber"> 019 </span>เอง  ความหมดจดและความเศร้าหมองเป็นเฉพาะตัว คนอื่นยังคน
+
+<span class='footnote'>๑.  สํ. ส.  ๑๕/๓๑๕.  ๒.  ขุ. ธ.  ๒๕/๕๒.  ๓.  ขุ.  ธ.  ๒๕/๓๗.</span>

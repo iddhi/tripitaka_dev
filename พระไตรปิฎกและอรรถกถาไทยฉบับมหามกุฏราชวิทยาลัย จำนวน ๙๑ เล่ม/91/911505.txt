@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>นสรณทุกนสัญโญชนโคจฉกทุกะ</H1>  
+<span class="LineNumber"> 002 </span>                         <H1>สรณทุกสัญโญชนโคจฉกทุกะ</H1> 
+<span class="LineNumber"> 003 </span>         <H2>(๑๐๐. สรณทุกะ  ๒๐.-๒๕.  สัญโญชนโคจฉกทุกะ)</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                     <H2>สัญโญชนบท</H2>
+<span class="LineNumber"> 008 </span>           [๑๔๔๖] ๑.  <B>สัญโญชนธรรม  ที่เป็นสรณธรรม  อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่สัญโญชนธรรม  ที่ไม่ใช่อรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๑๔๔๗]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span> <I>นสรณทุกนสัญโญชนโคจแกทุกสรณทุกสัญโญชนโคจฉกทุกะ จบ</I>
+
+<span class="LineNumber"> 013 </span>          <H1>นสรณทุกนคันถโคจฉกทุกสรณทุกคันถโคจฉกทุกะ</H1>
+<span class="LineNumber"> 014 </span>    <H2>(๑๐๐.  สรณทุกะ  ๒๖.-๓๑.  คันถโคจฉกทุกะ)</H2>		
+<span class="LineNumber"> 015 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 016 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 017 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 018 </span>                                       <H2>คันถบท</H2>
+<span class="LineNumber"> 019 </span>           [๑๔๔๘] ๑.  <B>คันถธรรม  ที่เป็นสรณธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 020 </span>คันถธรรม  ที่ไม่ใช่อรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>	

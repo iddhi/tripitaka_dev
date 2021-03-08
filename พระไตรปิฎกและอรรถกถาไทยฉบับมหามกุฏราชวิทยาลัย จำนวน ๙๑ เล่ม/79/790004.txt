@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>๓.   นยมุขมาติกา  ๔ นัย</H1>   
+<span class="LineNumber"> 002 </span>         <B>๑.  ตีหิ สงฺคโห                     การสงเคราะห์ได้ด้วยธรรม ๓</B>
+<span class="LineNumber"> 003 </span>         <B>๒.  ตีหิ อสงฺคโห                  การสงเคราะห์ไม่ได้ด้วยธรรม ๓</B> 
+<span class="LineNumber"> 004 </span>         <B>๓.  จตูหิ  สมฺปโยโค             การประกอบได้ด้วยธรรม ๔</B>
+<span class="LineNumber"> 005 </span>         <B>๔.  จตูหิ  วิปฺปโยโค             การประกอบไม่ได้ด้วยธรรม ๔</B>
+
+<span class="LineNumber"> 006 </span>                         <H1>๔.  ลักขณมาติกา   ๒ ลักษณะ</H1>
+<span class="LineNumber"> 007 </span>         <B>๑.  สภาโคธรรมที่มีส่วนเสมอกัน</B>
+<span class="LineNumber"> 008 </span>         <B>๒.  วิสภาโค  ธรรมที่มีส่วนไม่เสมอกัน</B>
+
+<span class="LineNumber"> 009 </span>                                  <H1>๕.  พาหิรมาติกา</H1>
+<span class="LineNumber"> 010 </span>         <B>ธัมมสังคณี  แม้ทั้งหมด เป็นมาติกาแห่งธาตุกถาแล.</B>
+<span class="LineNumber"> 011 </span>                                      <I>จบมาติกา</I>

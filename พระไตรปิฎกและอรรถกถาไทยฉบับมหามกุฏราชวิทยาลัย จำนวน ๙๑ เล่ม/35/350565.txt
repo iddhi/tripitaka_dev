@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>โสภนวรรควรรณนาที่  ๒</H1>  
+
+<span class="LineNumber"> 002 </span>	       <h1>อรรถกถาปริสาสูตร</h1>
+<span class="LineNumber"> 003 </span>            พึงทราบวินิจฉัยในปริสาสูตรที่  ๑  แห่งวรรคที่  ๒  ดังต่อไปนี้ :-
+<span class="LineNumber"> 004 </span>            ชื่อว่า <B>ปริสทูสนะ</B>  เพราะประทุษร้ายบริษัท.  ชื่อว่า ปริสโสภนะ
+<span class="LineNumber"> 005 </span>เพราะยังบริษัทให้งาม.
+<span class="LineNumber"> 006 </span>                                   <I>จบอรรถกถาปริสาสูตรที่ ๑</I>
+<span class="LineNumber"> 007 </span>	                 <h1>๒. ทิฏฐิสูตร</h1>
+<span class="LineNumber"> 008 </span>     <h2>ว่าด้วยบุคคลผู้ประกอบด้วยธรรม   ๔   ประการ</h2>
+<span class="LineNumber"> 009 </span>            [๒๐๒]    ดูก่อนภิกษุทั้งหลาย  บุคคลผู้ประกอบด้วยธรรม  ๔  ประการ
+<span class="LineNumber"> 010 </span>เหมือนถูกนำมาโยนลงในนรก  ธรรม  ๔ ประการเป็นไฉน คือ  <B>กายทุจริต  ๑
+<span class="LineNumber"> 011 </span>วจีทุจริต   ๑  มโนทุจริต   ๑   มิจฉาทิฏฐิ   ๑</B>   ดูก่อนภิกษุทั้งหลาย   บุคคล
+<span class="LineNumber"> 012 </span>ผู้ประกอบด้วยธรรม  ๔ ประการนี้แล  เหมือนถูกนำมาโยนลงในนรก.
+<span class="LineNumber"> 013 </span>            ดูก่อนภิกษุทั้งหลาย  บุคคลผู้ประกอบด้วยธรรม  ๔  ประการ  เหมือน
+<span class="LineNumber"> 014 </span>ถูกเชิญมาประดิษฐานไว้ในสวรรค์ ธรรม   ๔  ประการเป็นไฉน คือ  <B>กายสุจริต  ๑
+<span class="LineNumber"> 015 </span>วจีสุจริต  ๑  มโนสุจริต  ๑  สัมมาทิฏฐิ  ๑</B>  ดูก่อนภิกษุทั้งหลาย  บุคคล
+<span class="LineNumber"> 016 </span>ผู้ประกอบด้วยธรรม  ๔  ประการนี้แล     เหมือนถูกเชิญมาประดิษฐานไว้ใน
+<span class="LineNumber"> 017 </span>สวรรค์.
+<span class="LineNumber"> 018 </span>	                          <I>จบทิฏฐิสูตรที่   ๒</I>

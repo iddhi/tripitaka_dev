@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 141
+
+<span class="LineNumber"> 002 </span>		เวสฺเสสุ วา ชาเยยฺยํ  
+<span class="LineNumber"> 003 </span>		น หชฺช มํ ราชา ยฺเ ฆาเตสฺสตีติ ฯ  
+<span class="LineNumber"> 004 </span>	อิติ วตฺวา ปุน ตา [๑] อุยฺโยเชนฺโต อาห  
+<span class="LineNumber"> 005 </span>	[๘๐๕]สพฺพาปิ ตา มนฺตินิโย(๒) คจฺฉถ อยฺยสฺส กณฺฑหาลสฺส(๓)  
+<span class="LineNumber"> 006 </span>		ปาเทสุ นิปติตฺถ(๔) อปราธาหํ น ปสฺสามิ  
+<span class="LineNumber"> 007 </span>		สพฺพาปิ ฆรณิโย(๕) คจฺฉถ อยฺยสฺส กณฺฑหาลสฺส  
+<span class="LineNumber"> 008 </span>		ปาเทสุ นิปติตฺถ กินฺเต ภนฺเต มยํ ทูสยิมฺหาติ(๖) ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  อปราธาหํ  น  ปสฺสามีติ  อหํ  อาจริย  กณฺฑหาล  อตฺตโน  
+<span class="LineNumber"> 010 </span>อปราธํ  น  ปสฺสามิ ฯ  กินฺเต  ภนฺเตติ  อยฺย  กณฺฑหาล  มยํ  ตุยฺหํ  
+<span class="LineNumber"> 011 </span>กึ ทูสยิมฺหา อถ เจ จนฺทกุมารสฺส โทโส อตฺถิ ตํ ขมถาติ วทถ ฯ  
+<span class="LineNumber"> 012 </span>	อถ  จนฺทกุมารสฺส  กนิฏฺ€ภคินี  เสลา  กุมารี  นาม  สา  
+<span class="LineNumber"> 013 </span>โสกํ  สณฺ€าเรตุํ อสกฺโกนฺตี ปิตุ (๗)ปาทมูเลสุ นิปติตฺวา(๗)
+<span class="LineNumber"> 014 </span>ปริเทวิ ฯ  
+<span class="LineNumber"> 015 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 016 </span>	[๘๐๖]กปณา วิลปติ เสลา	ทิสฺวาน ภาตโร(๘) อุปนีตตฺเต  
+<span class="LineNumber"> 017 </span>		ยฺโ กิร เม อุกฺขิปิโต	ตาเตน สคฺคกาเมนาติ ฯ  
+<span class="LineNumber"> 018 </span># ๑. ม. เอตฺถนฺตเร ภริยาโตติ ทิสฺสติ ฯ  ๒. ม. สีมนฺตินิโย ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. ขณฺฑหาลสฺส ฯ  ๔. ม. นิปตถ ฯ  ๕. ม. สีมนฺตินิโย ฯ 
+<span class="LineNumber"> 020 </span># ๖. ม. อทูเสมาติ ฯ  ๗. ม. ปาทมูเล ปติตฺวา ฯ 
+<span class="LineNumber"> 021 </span># ๘. ม. ภาตรํ ฯ

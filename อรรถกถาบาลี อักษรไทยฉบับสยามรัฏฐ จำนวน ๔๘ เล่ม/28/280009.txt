@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 9
+
+<span class="LineNumber"> 002 </span>วณมุเขหิ  ปคฺฆรนฺตํ  กายํ  ฉฑฺเฑตฺวา  อนเปกฺโข นิพฺพานปุรํ 
+<span class="LineNumber"> 003 </span>ปวิสิสฺสามิ ฯ  ยถา  จ  ปุริโส  นานารตนานิ  อาทาย  
+<span class="LineNumber"> 004 </span>โจเรหิ  สทฺธึ  มคฺคํ  คจฺฉนฺโต  อตฺตโน  รตนนาสภเยน  เต
+<span class="LineNumber"> 005 </span>ฉฑฺเฑตฺวา  เขมํ มคฺคํ คณฺหาติ  เอวํ  อยมฺปิ  กรชกาโย  
+<span class="LineNumber"> 006 </span>รตนวิโลปกโจรสทิโส ฯ  สจาหํ  เอตฺถ  ตณฺหํ  กริสฺสามิ  
+<span class="LineNumber"> 007 </span>อริยมคฺคกุสลธมฺมรตนเมว  (๑)  นสฺสิสฺสติ  ตสฺมา  มยา  อิมํ  โจรสทิสํ  
+<span class="LineNumber"> 008 </span>กายํ  ฉฑฺเฑตฺวา  นิพฺพานนครํ  ปวิสิตุํ  วฏฺฏตีติ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 009 </span>	ยถาปิ กุณปํ ปุริโส		กณฺเ€ พทฺธํ ชิคุจฺฉิยํ (๒)  
+<span class="LineNumber"> 010 </span>	โมจยิตฺวาน คจฺเฉยฺย	สุขี เสรี สยํวสี  
+<span class="LineNumber"> 011 </span>	ตเถวิมํ ปูติกายํ		นานากุณปสฺจยํ  
+<span class="LineNumber"> 012 </span>	ฉฑฺฑยิตฺวาน คจฺเฉยฺยํ	อนเปกฺโข อนตฺถิโก ฯ  
+<span class="LineNumber"> 013 </span>	ยถา อุจฺจารฏฺ€านมฺหิ	กรีสํ นรนาริโย  
+<span class="LineNumber"> 014 </span>	ฉฑฺฑยิตฺวาน คจฺฉนฺติ	อนเปกฺขา อนตฺถิกา  
+<span class="LineNumber"> 015 </span>	เอวเมว(๓) อิมํ กายํ	นานากุณปปูริตํ  
+<span class="LineNumber"> 016 </span>	ฉฑฺฑยิตฺวาน คจฺฉิสฺสํ	วจฺจํ กตฺวา ยถา กุฏึ ฯ  
+<span class="LineNumber"> 017 </span>	ยถาปิ ชชฺชรํ นาวํ		ปลุคฺคํ อุทคาหินึ 
+<span class="LineNumber"> 018 </span>	สามี ฉฑฺเฑตฺวา คจฺฉนฺติ	อนเปกฺขา อนตฺถิกา  
+<span class="LineNumber"> 019 </span>	เอวเมวาหํ อิมํ กายํ		นวจฺฉิทฺทํ ธุวสฺสวํ  
+<span class="LineNumber"> 020 </span>	ฉฑฺฑยิตฺวาน คจฺฉิสฺสํ	ชิณฺณนาวํว สามิกา ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ...รตนํ เม ฯ  ๒. ม.ชิคุจฺฉิย ฯ  ๓. ม. เอวเมวาหํ ฯ

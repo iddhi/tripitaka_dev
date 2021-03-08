@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>         เจตนาที่ไม่ใช่จิต     เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย    และจิตต-
+<span class="LineNumber"> 002 </span>สมุฏฐานรูปทั้งหลาย    ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 003 </span>         ที่เป็น  <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 004 </span>         เจตนาที่ไม่ใช่จิต     เป็นปัจจัยแก่วิบากขันธ์ทั้งหลาย    และกฏัตตารูป
+<span class="LineNumber"> 005 </span>ทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 006 </span>                ๒.  <B>ธรรมที่ไม่ใช่จิต  เป็นปัจจัยแก่ธรรมที่เป็นจิต  ด้วย
+<span class="LineNumber"> 007 </span>อำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 008 </span>         มี ๒ อย่าง   คือที่เป็น   <B>สหชาตะ</B> และ <B>นานาขณิกะ</B>
+<span class="LineNumber"> 009 </span>         ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 010 </span>         เจตนาที่ไม่ใช่จิต   เป็นปัจจัยแก่จิต  ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 011 </span>         ในปฏิสนธิขณะ  ฯลฯ
+<span class="LineNumber"> 012 </span>         ที่เป็น  <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 013 </span>         เจตนาที่ไม่ใช่จิต   เป็นปัจจัยแก่วิบากจิต   ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 014 </span>                ๓.  <B>ธรรมที่ไม่ใช่จิต   เป็นปัจจัยแก่ธรรมที่เป็นจิต  และ
+<span class="LineNumber"> 015 </span>ธรรมที่ไม่ใช่จิต  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 016 </span>         มี ๒ อย่าง   คือที่เป็น   <B>สหชาตะ</B>   และ <B>นานาขณิกะ</B>
+<span class="LineNumber"> 017 </span>         ที่เป็น    <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 018 </span>         เจตนาที่ไม่ใช่จิต     เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย     และจิตต-
+<span class="LineNumber"> 019 </span>สมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 020 </span>         ในปฏิสนธิขณะ  ฯลฯ
+<span class="LineNumber"> 021 </span>         ที่เป็น  <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 022 </span>         เจตนาที่ไม่ใช่จิต เป็นปัจจัยแก่วิบากขันธ์ทั้งหลาย,  จิต  และกฏัตตารูป
+<span class="LineNumber"> 023 </span>ทั้งหลาย   ด้วยอำนาจของกัมมปัจจัย.
+

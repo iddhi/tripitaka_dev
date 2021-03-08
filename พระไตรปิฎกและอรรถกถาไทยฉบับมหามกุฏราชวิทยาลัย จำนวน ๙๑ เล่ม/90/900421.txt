@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>				<H1>สัญโญชนสัญโญชนสัมปยุตตทุกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>	<H2>(๒๔.  สัญโญชนสัญโญชนสัมปยุตตทุกะ  ๑.  กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>					<H2>อกุศลบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span> 						<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 005 </span>					   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๒๖๕]  ๑.  อกุศลธรรมที่เป็นทั้งสัญโญชนธรรม  และ
+<span class="LineNumber"> 007 </span>สัญโญชนสัมปยุตตธรรม  อาศัยอกุศลธรรมที่เป็นทั้งสัญโญชนธรรม
+<span class="LineNumber"> 008 </span>และสัญโญชนสัมปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๓  วาระ.
+<span class="LineNumber"> 009 </span>		[๑๒๖๖]  ๔.  อกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม  แต่
+<span class="LineNumber"> 010 </span>ไม่ใช่สัญโญชนธรรม  อาศัยอกุศลธรรมที่เป็นสัญโญชนสัมปยุตต-
+<span class="LineNumber"> 011 </span>ธรรม  แต่ไม่ใช่สัญโญชนธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๓ วาระ
+<span class="LineNumber"> 012 </span>			       ๗.  อกุศลธรรมที่เป็นทั้งสัญโญชนธรรม  และสัญโญ-
+<span class="LineNumber"> 013 </span>ชนสัมปยุตตธรรม  อาศัยอกุศลธรรมที่เป็นสัญโญชนสัมปยุตตธรรม
+<span class="LineNumber"> 014 </span>แต่ไม่ใช่สัญโญชนธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓  วาระ	
+<span class="LineNumber"> 015 </span>			<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>		[๑๒๖๗]  ในเหตุปัจจัย  มี  ๙  วาระ  ในอารัมมณปัจจัย  มี  ๙  วาระ
+<span class="LineNumber"> 017 </span>ในอธิปติปัจจัย  มี  ๙  วาระ  ฯลฯ  ในอวิคตปัจจัย  มี  ๙  วาระ.

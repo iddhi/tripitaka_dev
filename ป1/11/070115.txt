@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>ธาตุมี ธฺ  และ ภฺ เป็นที่สุด  แปลง ย  กับที่สุดธาตุ เป็น ทฺธา  พฺภ   
+<span class="LineNumber"> 002 </span>	<B>วิทฺธา   </B>ทรงแล้ว             วิธฺ   ธาตุ  ในความแทง
+<span class="LineNumber"> 003 </span>	<B>ลทฺธา    </B>ได้แล้ว               ลภฺ  ธาตุ  ในความได้
+<span class="LineNumber"> 004 </span>	<B>อารพฺภ</B>    ปรารภแล้ว       อา-รภฺ  ธาตุ ในความเริ่ม.
+<span class="LineNumber"> 005 </span>ธาตุมี หฺ เป็นที่สุด แปลง ย กับที่สุดธาตุเป็น ยฺห
+<span class="LineNumber"> 006 </span>	<B>ปคฺคยฺห</B>   ประคองแล้ว      ป+คหฺ  ธาตุ  ในความประคอง
+<span class="LineNumber"> 007 </span>	<B>สนฺยฺน</B>       ผูกแล้ว              สํ+นหฺ   ธาตุ   ในความผูก.
+<span class="LineNumber"> 008 </span>	<B>อารุยฺห</B>      ขึ้นแล้ว              อา+รุหฺ  ธาตุ    ในความขึ้น.
+<span class="LineNumber"> 009 </span>	แปลง  ตฺวา เป็น  สฺวา  และ ติวาน  เป็น  สฺวาน ได้.  เฉพาะ
+<span class="LineNumber"> 010 </span>ทิสฺ ธาตุ เป็น  <B>ทิสฺวา, ทิสฺวาน</B>  แปลว่า  เห็นแล้ว. แปลง ทิสฺ เป็น
+<span class="LineNumber"> 011 </span>ปสฺส  แล้วลง  อิ อาคม  เป็น  <B>ปสฺสิตฺวา</B>  บ้าง.
+<span class="LineNumber"> 012 </span>	ตูนาทิ  ปัจจัยที่แปลงเป็น  ย แล้ว เอา ย กับที่สุดธาตุเป็นไปได้
+<span class="LineNumber"> 013 </span>หลายอย่าง  แต่ก็เป็นเฉพาะธาตุตัวหนึ่ง  ๆ เท่านั้น  จะนำมาแสดงไว้
+<span class="LineNumber"> 014 </span>พอเป็นอุทาหรณ์ เช่น :-
+<span class="LineNumber"> 015 </span>	<B>อุทฺทิสฺส</B>  แสดงแล้ว           อุ+ทิสฺ   ธาตุ ในความแสดง
+<span class="LineNumber"> 016 </span>                                    แปลง  ย กับที่สุดธาตุ เป็น สฺส.
+<span class="LineNumber"> 017 </span>	<B>วิวิจฺจ</B>     สงัดแล้ว                วิ+วิจฺ   ธาตุ ในความสงัด.
+<span class="LineNumber"> 018 </span>                                      แปลง  ย กับที่สุดธาตุเป็น จฺจ.
+<span class="LineNumber"> 019 </span>	<B>อาหจฺจ</B>  เบียดเบียนแล้ว  อา+หนฺ  ธาตุ  ในความเบียดเบียน
+<span class="LineNumber"> 020 </span>	                               แปลง  ย กับที่สุดธาตุเป็น จฺจ
+	

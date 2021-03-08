@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๒.  รูปสูตร</H1>
+
+<span class="LineNumber"> 002 </span>               <H2>ว่าด้วยรูปเป็นต้นไม่เที่ยง</H2>
+
+<span class="LineNumber"> 003 </span>         [๖๒๓]  <B>พระผู้มีพระภาคเจ้า</B>ประทับอยู่  ณ  <B>พระเชตวัน</B>  อาราม
+<span class="LineNumber"> 004 </span>ของท่าน<B>อนาถบิณฑิกเศรษฐี  กรุงสาวัตถี.  พระผู้มีพระภาคเจ้า</B>ตรัสถาม
+<span class="LineNumber"> 005 </span>ว่า  ดูก่อน<B>ราหุล</B>    เธอจะสำคัญความข้อนั้นเป็นไฉน   รูป . . .  เสียง. . .
+<span class="LineNumber"> 006 </span>กลิ่น. . .  รส . . .  โผฏฐัพพะ. . .   ธรรมารมณ์   เที่ยงหรือไม่เที่ยง.
+<span class="LineNumber"> 007 </span>         ท่านพระ<B>ราหุล</B>กราบทูลว่า  ไม่เที่ยง  พระเจ้าข้า.
+<span class="LineNumber"> 008 </span>                                   จบรูปสูตรที่  ๒
+
+<span class="LineNumber"> 009 </span>                              <H1>อรรถกถารูปสูตรที่  ๒</H1>
+
+<span class="LineNumber"> 010 </span>         ใน<B>รูปสูตรที่ ๒</B>  ทรงถือเอาอารมณ์อย่างเดียว  ในทวาร ๕.
+<span class="LineNumber"> 011 </span>                              จบอรรถกถารูปสูตรที่  ๒
+
+<span class="LineNumber"> 012 </span>                                  <H1>๓.  วิญญาณสูตร</H1>
+
+<span class="LineNumber"> 013 </span>      <H2>ว่าด้วยจักขุวิญญาณเป็นต้นไม่เที่ยง</H2>
+
+<span class="LineNumber"> 014 </span>         [๖๒๔]  <B>พระผู้มีพระภาคเจ้า</B>ประทับอยู่  ณ  <B>พระเชตวัน</B>  อาราม
+<span class="LineNumber"> 015 </span>ของท่าน<B>อนาถบิณฑิกเศรษฐี  กรุงสาวัตถี.  พระผู้มีพระภาคเจ้า</B>ตรัสถาม
+<span class="LineNumber"> 016 </span>ว่า   ดูก่อน<B>ราหุล</B>   เธอจะสำคัญความข้อนั้นเป็นไฉน    จักขุวิญญาณ. . .
+<span class="LineNumber"> 017 </span>โสดวิญญาณ. . .  ฆานวิญญาณ. . .  ชิวหาวิญญาณ. . .  กายวิญญาณ. . .
+<span class="LineNumber"> 018 </span>มโนวิญญาณ. . .  เที่ยงหรือไม่เที่ยง.

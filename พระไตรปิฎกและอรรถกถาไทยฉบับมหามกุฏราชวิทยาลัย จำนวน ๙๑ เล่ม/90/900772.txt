@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>			              <H2>ปัจจนียานุโลมนัย</H2>  
+<span class="LineNumber"> 002 </span>		    <H2>การนับจำนวนวาระในปัจจนียานุโลม</H2> 
+<span class="LineNumber"> 003 </span>		[๑๖๙]  <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย  มี  ๑๖ วาระ...  ฯลฯ
+<span class="LineNumber"> 004 </span>	แม้ในปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 005 </span>				   <I>ปีติติกเหตุทุกะ  จบ</I>

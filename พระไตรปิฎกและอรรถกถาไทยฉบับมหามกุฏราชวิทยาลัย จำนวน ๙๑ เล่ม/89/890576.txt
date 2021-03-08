@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>สังสัฏฐวาระ</H2>
+<span class="LineNumber"> 002 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                        <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๕๑๙] ๑.  <B>สังกิลิฏฐธรรม    เจือกับสังกิลิฏฐธรรม    เกิดขึ้น
+<span class="LineNumber"> 005 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๓   เจือกับขันธ์ ๑    ที่เป็นสังกิลิฏฐธรรม   ฯลฯ  เจือกับ
+<span class="LineNumber"> 007 </span>ขันธ์ ๒.
+<span class="LineNumber"> 008 </span>                    ๒.  <B>อสังกิลิฏฐธรรม เจือกับอสังกิลิฏฐธรรม  เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ  ขันธ์ ๓  เจือกับขันธ์ ๑   ที่เป็นอสังกิลิฏฐธรรม   ฯลฯ   เจือกับ
+<span class="LineNumber"> 011 </span>ขันธ์ ๒.
+<span class="LineNumber"> 012 </span>         ในปฏิสนธิขณะ ฯลฯ
+ 
+<span class="LineNumber"> 013 </span>                               <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>         [๕๒๐]  ในเหตุปัจจัย  มี ๒ วาระ    ในอารัมมณปัจจัย   มี ๒ วาระ
+<span class="LineNumber"> 015 </span>ในอธิปติปัจจัย  มี ๒ วาระ  ในปัจจัยทั้งปวง มี ๒ วาระ    ในวิปากปัจจัย มี ๑
+<span class="LineNumber"> 016 </span>วาระ  ฯลฯ  ในวิคตปัจจัย มี ๒ วาระ.

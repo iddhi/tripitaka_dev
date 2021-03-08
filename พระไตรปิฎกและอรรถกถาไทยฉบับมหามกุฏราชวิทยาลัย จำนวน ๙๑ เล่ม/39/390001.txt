@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>	       <H2>พระสุตตันตปิฎก</H2>
+<span class="LineNumber"> 002 </span>	     <H2>ขุททกนิกาย  ขุททกปาฐะ</H2>
+<span class="LineNumber"> 003 </span>	                        <H3>เล่มที่ ๑</H3>
+<span class="LineNumber"> 004 </span>     <H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+
+<span class="LineNumber"> 005 </span>                   <H2>สรณคมน์ในขุททกปาฐะ</H2>
+<span class="LineNumber"> 006 </span>	     <H3>ว่าด้วยการถึงพระรัตนตรัย</H3>
+<span class="LineNumber"> 007 </span>                     <B>[๑]  ข้าพเจ้าถึงพระพุทธเจ้าเป็นสรณะ  ข้าพเจ้าถึง
+<span class="LineNumber"> 008 </span>          พระธรรมเป็นสรณะ  ข้าพเจ้าถึงพระสงฆ์เป็นสรณะ.
+<span class="LineNumber"> 009 </span>                 แม้ครั้งที่ ๒  ข้าพเจ้าถึงพระพุทธเจ้าเป็นสรณะ
+<span class="LineNumber"> 010 </span>          แม้ครั้งที่ ๒ ข้าพเจ้าถึงพระธรรมเป็นสรณะ  แม้ครั้งที่
+<span class="LineNumber"> 011 </span>          ๒  ข้าพเจ้าถึงพระสงฆ์เป็นสรณะ.
+<span class="LineNumber"> 012 </span>                 แม้ครั้งที่๓  ข้าพเจ้าถึงพระพุทธเจ้าเป็นสรณะ
+<span class="LineNumber"> 013 </span>          แม้ครั้งที่ ๓  ข้าพเจ้าถึงพระธรรมเป็นสรณะ   แม้ครั้ง
+<span class="LineNumber"> 014 </span>          ที่ ๒ ข้าพเจ้าถึงพระสงฆ์เป็นสรณะ.</B> 
+<span class="LineNumber"> 015 </span>                                         <I>จบสรณคมน์</I>

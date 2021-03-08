@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  21  สุตฺตนิปาเต อุรควคฺควณฺณนา  หน้า  16
+
+<span class="LineNumber"> 002 </span>ทุจฺจริตํ  จริตฺวา  กายสฺส  เภทา  ปรํ  มรณา ฯเปฯ  นิรยํ  
+<span class="LineNumber"> 003 </span>อุปปชฺชติ  โกธาภิภูโตติ ฯ  (๑)  
+<span class="LineNumber"> 004 </span>		กุทฺโธ  อตฺถํ  น  ชานาติ	กุทฺโธ  ธมฺมํ  น  ปสฺสติ  
+<span class="LineNumber"> 005 </span>		อนฺธตมํ  ตทา  โหติ		ยํ  โกโธ  สหเต  นรํ ฯ  (๒)  
+<span class="LineNumber"> 006 </span>		เยน  โกเธน  กุทฺธาเส	 สตฺตา  คจฺฉนฺติ  ทุคฺคตึ  
+<span class="LineNumber"> 007 </span>		ตํ  โกธํ  สมฺมทฺาย	ปชหนฺติ  วิปสฺสิโน ฯ  (๓)  
+<span class="LineNumber"> 008 </span>			โกธํ  ชเห  วิปฺปชเหยฺย  มานํ  
+<span class="LineNumber"> 009 </span>			สฺโชนํ  สพฺพมติกฺกเมยฺย ฯ  (๔)  
+<span class="LineNumber"> 010 </span>		อนตฺถชนโน  โกโธ	โกโธ  จิตฺตปฺปโกปโน  
+<span class="LineNumber"> 011 </span>		ภยมนฺตรโต  ชาตํ	 ตํ  ชโน  นาวพุชฺฌติ ฯ  (๕)  
+<span class="LineNumber"> 012 </span>			เอกาปราธํ  ขม  ภูริปฺ  
+<span class="LineNumber"> 013 </span>			น  ปณฺฑิตา  โกธพลา  ภวนฺตีติ  
+<span class="LineNumber"> 014 </span>เอวมาทินา  นเยน  โกเธ  อาทีนวฺจ  ปจฺจเวกฺขโตปิ  โกโธ  วินยํ 
+<span class="LineNumber"> 015 </span>อุเปติ ฯ  ตสฺมา  เอวํ  ปจฺจเวกฺขิตฺวา  โกธํ  วิเนนฺโตปิ  เอส  วิเนตีติ  
+<span class="LineNumber"> 016 </span>วุจฺจติ ฯ  
+<span class="LineNumber"> 017 </span>	โกธนฺติ  อนตฺถํ  เม  อจรีติ  อาฆาโต  ชายตีติอาทินา  (๖) 
+<span class="LineNumber"> 018 </span>นเยน  สุตฺเต  วุตฺตานํ  นวนฺนํ  อตฺถํ  เม  น  จรีติอาทีนํ จ
+<span class="LineNumber"> 019 </span>ตปฺปฏิปกฺขโต  สิทฺธานํ  นวนฺนเมวาติ  อฏฺ€ารสนฺนํ 
+<span class="LineNumber"> 020 </span>ขาณุกณฺฏกาทินา  อฏฺ€าเนน  สทฺธึ  เอกูนวีสติยา  อาฆาตวตฺถูนํ  
+<span class="LineNumber"> 021 </span># ๑. องฺ. สตฺตก. ๒๓/๖๑/๙๘ ฯ  ๒. องฺ. สตฺตก. ๒๓/๖๑/๙๙ ฯ
+<span class="LineNumber"> 022 </span># ๓. ขุ. อิติ. ๒๕/๑๘๒/๒๓๑ ฯ  ๔.ขุ. ธ. ๒๕/๗๒/๔๔ ฯ
+<span class="LineNumber"> 023 </span># ๕. องฺ. สตฺตก. ๒๓/๖๑/๙๙ ฯ  ๖. ขุ. มหา. ๒๙/๗๒๘/๔๔๐ ฯ

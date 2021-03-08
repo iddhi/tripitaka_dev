@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อฏฺ€มวคฺเค เมณฺฑสิรตฺเถรคาถาวณฺณนา หน้า 371
+	
+<span class="LineNumber"> 002 </span>		เอกปฺาสกปฺปมฺหิ	ราชา อาสึ ชลุตฺตโม  
+<span class="LineNumber"> 003 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 004 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 005 </span>	โส อตฺตโน ปุพฺเพนิวาสํ อนุสฺสรนฺโต  
+<span class="LineNumber"> 006 </span>		อเนกชาติสํสารํ		สนฺธาวิสฺสํ อนิพฺพิสํ  
+<span class="LineNumber"> 007 </span>		ตสฺส เม ทุกฺขชาตสฺส	ทุกฺขกฺขนฺโธ อปรทฺโธติ(๑)  
+<span class="LineNumber"> 008 </span>คาถํ อภาสิ ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  อเนกชาติสํสารนฺติ  อเนกชาติสตสหสฺสสงฺขฺยํ(๒)  อิทํ
+<span class="LineNumber"> 010 </span>สํสารวฏฺฏํ อทฺธุโน อธิปฺเปตตฺตา  อจฺจนฺตสํโยเคกวจนํ ฯ
+<span class="LineNumber"> 011 </span>	สนฺธาวิสฺสนฺติ  สํสรึ อปราปรํ จวนุปฺปชฺชนวเสน 
+<span class="LineNumber"> 012 </span>ปริพฺภมึ ฯ
+<span class="LineNumber"> 013 </span>	อนิพฺพิสนฺติ  ตสฺส  นิวตฺตกาณํ อวินฺทนฺโต อลภนฺโต ฯ 
+<span class="LineNumber"> 014 </span>	ตสฺส เมติ เอวํ  สํสรนฺตสฺส  เม ฯ
+<span class="LineNumber"> 015 </span>	ทุกฺขชาตสฺสาติ ชาติอาทิวเสน อุปฺปนฺนทุกฺขสฺส ติสฺสนฺนํ 
+<span class="LineNumber"> 016 </span>วา ทุกฺขตานํ (๓) วเสน ทุกฺขสภาวสฺส ฯ 
+<span class="LineNumber"> 017 </span>	ทุกฺขกฺขนฺโธติ กมฺมกิเลสวิปากวฏฺฏปฺปกาโร (๔) ทุกฺขราสิ ฯ
+<span class="LineNumber"> 018 </span>	อปรทฺโธติ  อรหตฺตมคฺคปฺปตฺติโต  ปฏฺ€าย  ปริพฺภฏฺโ€  จุโต 
+<span class="LineNumber"> 019 </span># ๑. สฺยา. ปรทฺธโตติ ฯ  ขุ. เถร. ๒๖/๒๑๕/๒๗๘ ฯ 
+<span class="LineNumber"> 020 </span># ๒. ม. ...สงฺขฺยํ ฯ ๓. สี. ทุกฺขชาตีนํ ฯ  ๔. สี. กมฺมกิเลสวิปากวเสน 
+<span class="LineNumber"> 021 </span># วุตฺตปฺปกาโร (กมฺมวิปากกิเลสวิปากวเสน วุตฺตปฺปกาโร) ฯ 

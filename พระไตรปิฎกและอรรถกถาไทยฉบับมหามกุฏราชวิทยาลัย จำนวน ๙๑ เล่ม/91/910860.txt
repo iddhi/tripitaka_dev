@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๙๓๗]  ในเหตุปัจจัย มี ๓ วาระ ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                  <H2>โลกุตตรบท</H2>
+<span class="LineNumber"> 004 </span>           [๙๓๘] ๑.  <B>ธรรมที่ไม่ใช่โลกุตตรธรรม     ที่เป็นนเหตุธรรม
+<span class="LineNumber"> 005 </span>อาศัยโลกุตตรธรรม  ที่เป็นเหตุธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>                                            <B>ฯลฯ</B>	
+
+<span class="LineNumber"> 007 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๙๓๙]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 009 </span>                   <I>เหตุทุกโลกิยทุกนเหตุทุกนโลกิยทุก  จบ</I>
+
+<span class="LineNumber"> 010 </span>                               <H1>เหตุทุกเกนจิวิญเญยยทุกะ</H1>	
+<span class="LineNumber"> 011 </span>                             <H1>นเหตุทุกนเกนจิวิญเญยยทุกะ</H1>
+<span class="LineNumber"> 012 </span>           <H2>(๑. เหตุทุกะ  ๑๒. เกนจิวิญเญยยทุกะ)</H2>
+<span class="LineNumber"> 013 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 014 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>                                 <H2>เกนจิวิญเญญยยบท</H2>
+<span class="LineNumber"> 017 </span>           [๙๔๐ ๑. <B>ธรรมที่ไม่ใช่เกนจิวิญเญยยธรรม  ที่เป็นนเหตุ-
+<span class="LineNumber"> 018 </span>ธรรม  อาศัยเกนจิวิญเญยยธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 019 </span>ปัจจัย</B>
+<span class="LineNumber"> 020 </span>                                                  <B>ฯลฯ</B>	

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>            บทว่า  <B>เข้าไป</B>  คือ  ไปในสกุลนั้น.
+<span class="LineNumber"> 002 </span>            คำว่า  <B>ไม่บอกกล่าวพวกเจ้าของบ้าน</B>  คือ ไม่บอกคนในสกุลนั้น
+<span class="LineNumber"> 003 </span>ซึ่งเป็นเจ้าของถวาย. 
+<span class="LineNumber"> 004 </span>            ที่ชื่อว่า    <B>อาสนะ</B>  ได้แก่ สถานที่เขาเรียกกันว่าแท่นหรือเตียงอันว่าง
+<span class="LineNumber"> 005 </span>            บทว่า   <B>นั่ง  </B>คือ  นั่งลงบนอาสนะนั้น  ต้องอาบัติปาจิตตียะ.
+<span class="LineNumber"> 006 </span>            บทว่า   <B>นอน</B>   คือ  นอนลงบนอาสนะนั้น  ต้องอาบัติปาจิตตีย์.      
+                                      
+<span class="LineNumber"> 007 </span>		                           <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 008 </span>                                         <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 009 </span>            [๒๐๓]  มิได้บอกกล่าว  ภิกษุณีสำคัญว่ามิได้บอกกล่าว  นั่งก็ดี  นอน
+<span class="LineNumber"> 010 </span>ก็ดี  บนอาสนะ   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 011 </span>            มิได้บอกกล่าว  ภิกษุณีสงสัย   นั่งก็ดี   นอนก็ดี   บนอาสนะ   ต้อง
+<span class="LineNumber"> 012 </span>อาบัติปาจิตตีย์.
+<span class="LineNumber"> 013 </span>            มิได้บอกกล่าว    ภิกษุณีสำคัญว่าบอกกล่าวแล้ว    นั่งก็ดี    นอนก็ดี
+<span class="LineNumber"> 014 </span>บนอาสนะ  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 015 </span>                                             <H2>ติกะทุกกฏ</H2>
+<span class="LineNumber"> 016 </span>            นั่ง ณ สถานอันมิใช่แท่นหรือเตียง   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 017 </span>            บอกกล่าวแล้ว   ภิกษุณีสำคัญว่ายังมิได้บอกกล่าว   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 018 </span>            บอกกล่าวแล้ว   ภิกษุณีสงสัย   ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 019 </span>                                          <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 020 </span>            บอกกล่าวแล้ว   ภิกษุณีสำคัญว่าบอกกล่าวแล้ว   ไม่ต้องอาบัติ.

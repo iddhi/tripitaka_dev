@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 507
+
+<span class="LineNumber"> 002 </span>(๑)สีตูทกฆฏสหสฺสาภิเสจนกาโล  วิย ชาโต(๑) ฯ  
+<span class="LineNumber"> 003 </span>	ตํ สุตฺวา กุมาโร อรห  
+<span class="LineNumber"> 004 </span>	[๑๑๕๙]อหํปิ ตาต ปสฺสามิ	โย โส พฺรหฺมาว ทิสฺสติ  
+<span class="LineNumber"> 005 </span>		อตฺถิโก วิย อายาติ	อติถี โน ภวิสฺสตีติ ฯ  
+<span class="LineNumber"> 006 </span>	วตฺวา  จ  ปน  ชาลิกุมาโร  มหาสตฺตสฺส  อปจิตึ  กโรนฺโต  
+<span class="LineNumber"> 007 </span>อุฏฺ€าย  พฺราหฺมณํ  ปจฺจุคฺคนฺตฺวา  ปริกฺขารคหณํ  อาปุจฺฉิ ฯ  
+<span class="LineNumber"> 008 </span>พฺราหฺมโณ  ตํ  โอโลเกตฺวา(๒)  อยํ  เวสฺสนฺตรสฺส  ปุตฺโต  ชาลิกุมาโร
+<span class="LineNumber"> 009 </span>นาม ภวิสฺสติ  อาทิโต  ปฏฺ€าเยวสฺส(๓)  ผรุสวจนํ  กเถสฺสามีติ 
+<span class="LineNumber"> 010 </span>จินฺเตตฺวา  อเปหิ  อเปหีติ  อจฺฉรํ  ปหริ ฯ  กุมาโร  อปคนฺตฺวา
+<span class="LineNumber"> 011 </span>อยํ  พฺราหฺมโณ  อติผรุโส  กินฺนุโขติ  ตสฺส สรีรํ โอโลเกนฺโต 
+<span class="LineNumber"> 012 </span>อฏฺ€ารส ปุริสโทเส ปสฺสิ ฯ  พฺราหฺมโณปิ โพธิสตฺตํ 
+<span class="LineNumber"> 013 </span>อุปสงฺกมิตฺวา ปฏิสนฺถารํ กโรนฺโต อาห  
+<span class="LineNumber"> 014 </span>	[๑๑๖๐]กิจฺจิ นุ โภโต กุสลํ	กจฺจิ โภโต อนามยํ  
+<span class="LineNumber"> 015 </span>		กจฺจิ อุฺเฉน ยาเปถ	กจฺจิ มูลผลา พหู  
+<span class="LineNumber"> 016 </span>		กจฺจิ ฑํสา จ มกสา	อปฺปเมว สิรึสปา  
+<span class="LineNumber"> 017 </span>		วเน พาฬมิคากิณฺเณ	กจฺจิ หึสา น วิชฺชตีติ ฯ  
+<span class="LineNumber"> 018 </span>	โพธิสตฺโตปิ เตน สทฺธึ ปฏิสนฺถารํ กโรนฺโต อาห  
+<span class="LineNumber"> 019 </span>	[๑๑๖๑]กุสรฺเจว โน พฺรหฺเม	อโถ พฺรหฺเม อนามยํ  
+<span class="LineNumber"> 020 </span>		อโถ อุฺเฉน ยาเปม	อโถ มูลผลา พหู  
+<span class="LineNumber"> 021 </span># ๑. ม. สีตูทกฆฏสหสฺเสหิ อภิเสจนกาโล วิย ชาโตติ ฯ 
+<span class="LineNumber"> 022 </span># ๒. ม. โอโลเกนฺโต ฯ  ๓.ม. ปฏฺ€าเยว ฯ 

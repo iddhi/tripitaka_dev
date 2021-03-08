@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                      <H1>เหตุทุกอาสวอาสวสัมปยุตตทุกะ</H1>   
+<span class="LineNumber"> 002 </span>                    <H1>นเหตุทุกนอาสวอาสวสัมปยุตตทุกะ</H1>
+<span class="LineNumber"> 003 </span>      <H2>(๑. เหตุทุกะ  ๑๗.  อาสวสัมปยุตตทุกะ)</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                            <H2>อาสวสัมปยุตตบท</H2>
+<span class="LineNumber"> 008 </span>           [๙๖๐]  <B>ธรรมที่ไม่ใช่อาสวธรรม   และไม่ใช่อาสววิปปยุตต-
+<span class="LineNumber"> 009 </span>ธรรม     เป็นนเหตุธรรม   อาศัยธรรมที่เป็นอาสวธรรม    และอาสว-
+<span class="LineNumber"> 010 </span>สัมปยุตตธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                                          <B>ฯลฯ</B>
+
+<span class="LineNumber"> 012 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๙๖๑]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 014 </span>                       <H2>อาสวสัมปยุตตโนอาสวบท</H2>
+<span class="LineNumber"> 015 </span>       	[๙๖๒]  <B>ธรรมที่ไม่ใช่อาสววิปปยุตตะ      และไม่ใช่ธรรมที่
+<span class="LineNumber"> 016 </span>ไม่ใช่อาสวธรรม  ที่ไม่ใช่นเหตุธรรม   อาศัยธรรมที่เป็นอาสวสัมป-
+<span class="LineNumber"> 017 </span>ยุตตธรรม  แต่ไม่ใช่อาสวธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 018 </span>เหตุปัจจัย</B>     
+<span class="LineNumber"> 019 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 020 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 021 </span>       	[๙๖๓]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 022 </span> <I>เหตุทุกอาสวอาสวสัมปยุตตทุกนเหตุทุกนอาสวอาสวสัมปยุตตทุกะ จบ</I>

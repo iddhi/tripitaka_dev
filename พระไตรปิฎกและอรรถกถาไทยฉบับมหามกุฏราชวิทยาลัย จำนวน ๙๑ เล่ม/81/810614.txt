@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ตถตากถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๘๕]  <B>สกวาที</B>   ความเป็นอย่างนั้นแห่งธรรมทั้งปวง  เป็นอสังขตะ
+<span class="LineNumber"> 003 </span>หรือ ?
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. เป็นนิพพาน  ฯลฯ  เป็นอมตะ  หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. ความเป็นอย่างนั้นแห่งธรรมทั้งปวง      เป็นอสังขตะ
+<span class="LineNumber"> 008 </span>นิพพานก็เป็นอสังขตะ หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. อสังขตะเป็น ๒  อย่าง หรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>                       ส. อสังขตะเป็น  ๒  อย่าง หรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                       ส. ที่ต้านทานเป็น ๒ อย่าง ฯลฯ นิพพานก็เป็น ๒ อย่าง
+<span class="LineNumber"> 015 </span>หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 017 </span>         [๑๗๘๖]  ส. รูปมีความเป็นรูป   ความเป็นไปก็เป็นอสังขตะ   มิใช่
+<span class="LineNumber"> 018 </span>หรือ ?
+<span class="LineNumber"> 019 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                       ส. เป็นนิพพาน  ฯลฯ  เป็น  อมตะ  หรือ ?
+<span class="LineNumber"> 021 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 022 </span>                       ส. รูปมีความเป็นไป ความเป็นไปก็เป็นอสังขตะ นิพพาน

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                            สามเณรถามว่า  
+<span class="LineNumber"> 002 </span><B>[ ๑๖๓ ]  มตํ  วา  อมฺม  โรทนฺติ</B>			แม่ !  คนอื่นเขาร้องไห้ถึงคนที่ตาย
+<span class="LineNumber"> 003 </span>							แล้ว
+<span class="LineNumber"> 004 </span><B>โย วา  ชีวํ  น  ทิสฺสติ</B>				หรือคนที่เป็นอยู่  แต่ไม่เห็น
+<span class="LineNumber"> 005 </span><B>ชีวนฺตํ อมฺม ปสฺสนฺตี</B>				แม่ !  เห็นฉันยังเป็นอยู่
+<span class="LineNumber"> 006 </span><B>กสฺมา  มํ  อมฺม  โรทสิ.</B>			ร้องไห้ถึงฉันทำไม นะแม่ !
+<span class="LineNumber"> 007 </span>                                              มารดาตอบและเตือนว่า
+<span class="LineNumber"> 008 </span><B>[ ๑๖๔ ]  มตํ  วา ปุตฺต  โรทนฺติ</B>			ลูกเอ๋ย !  คนอื่นเขาร้องไห้ถึงคน
+<span class="LineNumber"> 009 </span>							ที่ตายแล้ว
+<span class="LineNumber"> 010 </span><B>โย  วา  ชีวํ  น  ทิสฺสติ</B>				หรือคนที่เป็นอยู่  แต่ไม่เห็น
+<span class="LineNumber"> 011 </span><B>โย  จ  กาเม  จชิตฺวาน</B>				ก็แต่ว่า  ผู้ใดละกามทั้งหลายแล้ว
+<span class="LineNumber"> 012 </span><B>ปุนราวตฺตเต อิธ</B>					หวนมาในกามนี้อีก
+<span class="LineNumber"> 013 </span><B>ตํ  วาปิ ปุตฺต  โรทนฺติ</B>				เขาร้องไห้ถึงผู้นั้นก็มี  นะลูก !
+<span class="LineNumber"> 014 </span><B>ปุน  ชีวํ มโต  หิ โส.</B>				เพราะว่า ถึงผู้นั้นยังเป็นอยู่  ก็
+<span class="LineNumber"> 015 </span>							เท่ากับตายแล้ว.
+<span class="LineNumber"> 016 </span><B>กุกฺกุลา อุพฺภโต  ตาต</B>				ฉันยกขึ้นจากเถ้ารึงแล้ว  พ่อ !
+<span class="LineNumber"> 017 </span><B>กุกฺกุลํ  ปติตุมิจฺฉสิ</B>				ยังหวังตกเถ้ารึงอีกหรือ ?
+<span class="LineNumber"> 018 </span><B>นรกา  อุพฺภโต  ตาต</B>				ฉันยกขึ้นจากนรกแล้ว  พ่อ !
+<span class="LineNumber"> 019 </span><B>นรกํ  ปติตุมิจฺฉสิ.</B>				ยังหวังตกนรกอีกหรือ ?
+<span class="LineNumber"> 020 </span><B>อภิธาวถ  ภทฺทนฺเต</B>				ปลีกตัวไปเถิด ท่านผู้เจริญ !
+
+<span class='footnote'>๑๖๓.  ธมฺ.  ๗/๑๕๒.			๑๖๔.  ธมฺ. ๗/๑๕๒</span>

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>		<h1>๑๑.  ทุติยอัตตสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 002 </span>	         <h2>  อัตตสัมปทาเป็นนิมิตแห่งอริยมรรค</h2>
+<span class="LineNumber"> 003 </span>	[๑๔๒]   . . . คือ  ความถึงพร้อมแห่งตน ฯลฯ
+<span class="LineNumber"> 004 </span>                               <I>จบทุติยอัตตสัมปทาสูตรที่  ๑๑</I>
+
+<span class="LineNumber"> 005 </span>        	        <h1>๑๒.  ทุติยทิฏฐิสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 006 </span>                    <h2>ทิฏฐิสัมปทาเป็นนิมิตแห่งอริยมรรค</h2>
+<span class="LineNumber"> 007 </span>	[๑๔๓]   . . . คือ  ความถึงพร้อมแห่งทิฏฐิ ฯลฯ
+<span class="LineNumber"> 008 </span>                             <I>จบทุติยทิฏฐิสัมปทาสูตรที่  ๑๒</I>
+
+<span class="LineNumber"> 009 </span>	     <h1>๑๓.  ทุติยอัปปมาทสัมปทาสูตร</h1>
+
+<span class="LineNumber"> 010 </span>                <h2>ความไม่ประมาทเป็นนิมิตแห่งอริยมรรค  </h2>
+<span class="LineNumber"> 011 </span>	[๑๔๔]  . . . คือ   ความถึงพร้อมแห่งความไม่ประมาท  ฯลฯ
+<span class="LineNumber"> 012 </span>	              <I>จบทุติยอัปปมาทสัมปทาสูตรที่  ๑๓</I>

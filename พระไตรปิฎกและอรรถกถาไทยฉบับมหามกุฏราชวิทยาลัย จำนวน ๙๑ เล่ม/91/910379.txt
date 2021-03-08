@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           [๓๑] ๑. <B>ธรรมที่ไม่ใช่วิปากธรรม    อาศัยธรรมที่เป็นวิปาก- 
+<span class="LineNumber"> 002 </span>ธัมมธรรม     และธรรมที่เป็นเนววิปากนวิปากธัมมธรรม    เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะเหตุปัจจัย</B>  
+<span class="LineNumber"> 004 </span>                   ๒.  <B>ธรรมที่ไม่ใช่วิปากธัมมธรรม    อาศัยธรรมที่เป็น
+<span class="LineNumber"> 005 </span>วิปากธัมมธรรม  และธรรมที่เป็นเนววิปากนวิปากธัมมธรรม  เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                   ๓.  <B>ธรรมที่ไม่ใช่วิปากธรรม      และธรรมที่ไม่ใช่
+<span class="LineNumber"> 008 </span>วิปากธัมมธรรม   อาศัยธรรมที่เป็นวิปากธัมมธรรม   และธรรมที่เป็น
+<span class="LineNumber"> 009 </span>เนววิปากนวิปากธัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> มี ๓ วาระ.
+
+<span class="LineNumber"> 010 </span>                            <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 011 </span>           [๓๒] ๑.  <B>ธรรมที่ไม่ใช่วิปากธัมมธรรม    อาศัยธรรมที่เป็น
+<span class="LineNumber"> 012 </span>วิปากธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 013 </span>                   ๔.   <B>ธรรมที่ไม่ใช่วิปากธรรม   อาศัยธรรมที่เป็นวิปาก-
+<span class="LineNumber"> 014 </span>ธัมมธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>                   ๗.  <B>ธรรมที่ไม่ใช่เนววิปากนวิปากธัมมธรรม    อาศัย
+<span class="LineNumber"> 016 </span>ธรรมที่เป็นเนววิปากนวิปากธัมมธรรม เกิดขึ้น เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>มี  ๕ วาระ.

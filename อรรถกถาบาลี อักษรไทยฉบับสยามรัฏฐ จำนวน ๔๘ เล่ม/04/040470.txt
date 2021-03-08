@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  ๔  เทฺวปพฺพชิตวตฺถุวณฺณนา   หน้า  ๔๖๙
+
+<span class="LineNumber"> 002 </span>	เอกมิทาหนฺติ  อิทํ  กสฺมา  อารทฺธํ  ฯ  อยํ  กิร  ราชา  รูปํ  
+<span class="LineNumber"> 003 </span>อตฺตาติ  เอวํลทฺธิโก ฯ เตนสฺส  เทสนาย  จิตฺตํ  นาธิมุจฺจติ  ฯ 
+<span class="LineNumber"> 004 </span>อถ  ภควตา  ตสฺส  ลทฺธิยา  อาวิกรณตฺถํ  เอกํ  การณํ  
+<span class="LineNumber"> 005 </span>อาหริตุํ  อิทมารทฺธํ  ฯ  ตตฺรายํ  สงฺเขปตฺโถ ฯ อหํ  เอกํ  สมยํ  
+<span class="LineNumber"> 006 </span>โฆสิตาราเม  วิหรามิ   ตตฺร (๑)    เต  เทฺว  ปพฺพชิตา  มํ  เอวํ  
+<span class="LineNumber"> 007 </span>ปุจฺฉึสุ (๑) ฯ  อถาหํ  เตสํ  พุทฺธุปฺปาทํ  ทสฺเสตฺวา  ตนฺติธมฺมํ  นาม  
+<span class="LineNumber"> 008 </span>กเถนฺโต  จ  อิทมโวจํ  อาวุโส  สทฺธาสมฺปนฺโน  นาม  กุลปุตฺโต 
+<span class="LineNumber"> 009 </span>เอวรูปสฺส  สตฺถุ  สาสเน  ปพฺพชิโต  เอวํ  ติวิธํ  สีลํ  ปูเรตฺวา 
+<span class="LineNumber"> 010 </span>ป€มชฺฌานาทีนิ  ปตฺวา  €ิโต  ตํ  ชีวนฺติ  อาทีนิ  วเทยฺย   ยุตฺตํ 
+<span class="LineNumber"> 011 </span>นุ  โข  เอตมสฺสาติ    ตโต  เตหิ  ยุตฺตนฺติ  วุตฺเต  อหํ  โข 
+<span class="LineNumber"> 012 </span>ปเนตํ  อาวุโส  เอวํ  ชานามิ    เอวํ  ปสฺสามิ  อถ  จ  ปนาหํ  
+<span class="LineNumber"> 013 </span>น  วทามีติ  ตํ  วาทํ  ปฏิกฺขิปิตฺวา  อุตฺตรึ (๒)  ขีณาสวํ  ทสฺเสตฺวา 
+<span class="LineNumber"> 014 </span>อิมสฺส  เอวํ  วตฺตุํ  น  ยุตฺตนฺติ  อโวจํ  (๓)   เต   มม  วจนํ  สุตฺวา 
+<span class="LineNumber"> 015 </span>อตฺตมนา  อเหสุนฺติ  ฯ 
+<span class="LineNumber"> 016 </span>	เอวํ  วุตฺเต  โสปิ  อตฺตมโน  อโหสิ  ฯ  เตนาห  อิทมโวจ  ภควา  
+<span class="LineNumber"> 017 </span>อตฺตมโน  โอฏฺ€ทฺโธ  ลิจฺฉวี   ภควโต  ภาสิตํ  อภินนฺทีติ  ฯ  
+<span class="LineNumber"> 018 </span>			อิติ  สุมงฺคลวิลาสินิยา  ทีฆนิกายฏฺ€กถาย  
+<span class="LineNumber"> 019 </span>				มหาลิสุตฺตวณฺณนา  นิฏฺ€ิตา  ฯ  
+<span class="LineNumber"> 020 </span>						ฉฏฺ€ํ  ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ตตฺร  วสนฺตํ  มํ  เต  เทฺว  ปพฺพชิตา  เอวํ  ปุจฺฉึสุ ฯ
+<span class="LineNumber"> 022 </span># ๒. ม. อุตฺตริ ฯ  ๓. ม. อโวจํ ฯ

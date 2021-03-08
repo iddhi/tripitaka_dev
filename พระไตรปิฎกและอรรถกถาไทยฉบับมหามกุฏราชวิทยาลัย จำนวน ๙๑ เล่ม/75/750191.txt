@@ -1,0 +1,34 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>๗.  นิรุตติทุกกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>นิรุตฺติ ธมฺมา</B>                  ธรรมเป็นนิรุตติ
+<span class="LineNumber"> 003 </span><B>นิรุตฺติปถา ธมฺมา</B>           ธรรมเป็นเหตุของธรรมเป็นนิรุตติ
+
+<span class="LineNumber"> 004 </span>                    <H2>๘.  ปัญญัตติทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>ปญฺตฺติ ธมฺมา</B>            ธรรมเป็นบัญญัติ
+<span class="LineNumber"> 006 </span><B>ปญฺตฺติปถา ธมฺมา</B       ธรรมเป็นเหตุของธรรมเป็นบัญญัติ
+
+<span class="LineNumber"> 007 </span>                     <H2>๙.  นามรูปทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>นามญฺจ</B>                       นามธรรม
+<span class="LineNumber"> 009 </span><B>รูปญฺจ</B>                         รูปธรรม
+
+<span class="LineNumber"> 010 </span>                   <H2>๑๐.  อวิชชาทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>อวิชฺชา จ</B>                    ความไม่รู้แจ้ง
+<span class="LineNumber"> 012 </span><B>ภวตณฺหา จ</B>                ความปรารถนาภพ
+
+<span class="LineNumber"> 013 </span>                  <H2>๑๑.  ภวทิฏฐิทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>ภวทิฏฺ€ิ จ</B>                   ความเห็นว่าเกิด
+<span class="LineNumber"> 015 </span><B>วิภวทิฏฺ€ิ จ</B>                 ความเห็นว่าไม่เกิด
+
+<span class="LineNumber"> 016 </span>               <H2>๑๒.  สัสสตทิฏฐิทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>สสฺสตทิฏฺ€ิ จ</B>              ความเห็นว่าเที่ยง
+<span class="LineNumber"> 018 </span><B>อุจฺเฉททิฏฺ€ิ จ</B>             ความเห็นว่าสูญ
+
+<span class="LineNumber"> 019 </span>              <H2>๑๓.  อันตวาทิฏฐิทุกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>อนฺตวาทิฏฺ€ิ จ</B>            ความเห็นว่ามีที่สุด
+<span class="LineNumber"> 021 </span><B>อนนฺตวาทิฏฺ€ิ จ</B>          ความเห็นว่าไม่มีที่สุด

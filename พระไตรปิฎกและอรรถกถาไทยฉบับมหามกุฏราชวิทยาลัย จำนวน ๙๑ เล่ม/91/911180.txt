@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         <H1>นสรณทุกนสนิทัสสนติกสรณทุกสนิทัสสนติกะ</H1> 
+<span class="LineNumber"> 002 </span>      <H2>(๑๐๐.  สรณทุกะ  ๒๒.  สนิทัสสนติกะ)</H2>  
+<span class="LineNumber"> 003 </span>                                  <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 004 </span>                                   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                         <H2>สนิทัสสนสัปปฏิฆบท</H2>
+<span class="LineNumber"> 007 </span>           [๕๕๑] ๑.  <B>สนิทัสสนสัปปฏิฆธรรม ที่เป็นอรณธรรม  อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม   ที่ไม่ใช่สรณธรรม   เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>   มี ๑ วาระ.                          
+<span class="LineNumber"> 010 </span>                       ๒.  <B>สนิทัสสนสัปปฏิฆธรรม  ที่เป็นอรณธรรม  อาศัย
+<span class="LineNumber"> 011 </span>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม   ที่ไม่ใช่อรณธรรม    เกิดขึ้น
+<span class="LineNumber"> 012 </span>เพราะเหตุปัจจัย</B>   มี ๑ วาระ.
+<span class="LineNumber"> 013 </span>                       ๓.  <B>สนิทัสสนสัปปฏิฆธรรม  ที่เป็นอรณธรรม  อาศัย
+<span class="LineNumber"> 014 </span>ธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม ที่ไม่ใช่สรณธรรม  และธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม ที่ไม่ใช่อรณธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 016 </span>เหตุปัจจัย</B>
+
+<span class="LineNumber"> 017 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>           [๕๕๒]  ในเหตุปัจจัย มี ๓ วาระ   ฯลฯ
+<span class="LineNumber"> 019 </span>           ใน<B>อนิทัสสนสัปปฏิฆมูล</B>  ก็มี ๓ วาระ  เหมือนกัน.

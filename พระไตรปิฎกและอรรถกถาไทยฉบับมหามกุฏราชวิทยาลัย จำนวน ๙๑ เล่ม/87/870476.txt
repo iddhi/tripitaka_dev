@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>อนุโลมปัจจนียนัย</H1> 
+<span class="LineNumber"> 002 </span>                          <H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1>
+<span class="LineNumber"> 003 </span>           [๑๖๒๕]   <B>เพราะเหตุปัจจัย</B>  ในนอารัมมณปัจจัย มี ๓  วาระ...ใน
+<span class="LineNumber"> 004 </span>นอธิปติปัจจัย   มี ๓ วาร   ในนอนันตรปัจจัย  มี ๓ วาระ  ในนสมนันตร-
+<span class="LineNumber"> 005 </span>ปัจจัยมี ๓ วาระ  ในนอุปนิสสยปัจจัย  มี ๓ วาระ  ในนอาเสวนปัจจัย  มี ๓ 
+<span class="LineNumber"> 006 </span>วาระ  ในนปัจฉาชาตปัจจัย  มี ๓ วาระ  ในนอาเสวนปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 007 </span>ในนมัคคปัจจัย มี ๓ วาระ  ในนวิปปยุตตปัจจัย มี ๓ วาระ ในโนนัตถิปัจจัย
+<span class="LineNumber"> 008 </span>มี ๓ วาระ   ในโนวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 009 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 010 </span>                                       <I>อนุโลมปัจจนียนัย  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                             <H1>ปัจจนียานุโลมนัย</H1>
+<span class="LineNumber"> 012 </span>                             <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 013 </span>           [๑๖๒๖]   เพราะนเหตุปัจจัย  ในอารัมมณปัจจัย มี ๗ วาระ... ใน  
+<span class="LineNumber"> 014 </span>อธิปติปัจจัย   มี ๗ วาระ   ในอนันตรปัจจัย  มี ๙ วาระ   ในสมนันตรปัจจัย 
+<span class="LineNumber"> 015 </span>มี ๙ วาระ   ในสหชาตปัจจัย   มี ๓ วาระ   ในอัญญมัญญปัจจัย    มี ๓ วาระ
+<span class="LineNumber"> 016 </span>ในนิสสยปัจจัย   มี ๓ วาระ  ในอุปนิสสยปัจจัย   มี ๙ วาระ  ในอาเสวนปัจจัย
+<span class="LineNumber"> 017 </span>มี ๕ วาระ  ในกัมมปัจจัย   มี ๕ วาระ  ในวิปากปัจจัย   มี ๓ วาระ  ฯลฯ ใน
+<span class="LineNumber"> 018 </span>สัมปยุตตปัจจัย   มี ๓ วาระ  ในอัตถิปัจจัย  มี ๓ วาระ  ในนอัตถิปัจจัย  มี ๙
+<span class="LineNumber"> 019 </span>วาระ   ในวิคตปัจจัย   มี ๙ วาระ   ในอวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 020 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 021 </span>                                                <I>ปัจจนียานุโลม  จบ</I>
+<span class="LineNumber"> 022 </span>                                         <I>ปริตตารัมมณติกะที่ ๑๓ จบ</I>

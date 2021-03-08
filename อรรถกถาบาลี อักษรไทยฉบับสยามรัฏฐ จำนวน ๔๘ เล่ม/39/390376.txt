@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 39    หน้า  376
+
+<span class="LineNumber"> 002 </span>		ปารายนตฺถุติคาถานิทฺเทสวณฺณนา  
+<span class="LineNumber"> 003 </span>	อิโต  ปรํ  สงฺคีติการา เทสนํ โถเมนฺตา(๑) อิทมโวจ
+<span class="LineNumber"> 004 </span>ภควาติอาทิมาหํสุ ฯ ตตฺถ  อิทมโวจาติ อิทํ ปารายนํ อโวจ ฯ
+<span class="LineNumber"> 005 </span>ปริจาริกโสฬสนฺนนฺติ (๒) พาวริสฺส ปริจาริเกน ปิงฺคิเยน  สห 
+<span class="LineNumber"> 006 </span>โสฬสนฺนํ  (๓)  พุทฺธสฺส  วา  ภควโต  ปริจาริกานํ  โสฬสนฺนนฺติ 
+<span class="LineNumber"> 007 </span>ปริวารกโสฬสนฺนํ ฯ (๔) โส เอว (๕) จ พฺราหฺมโณ ตตฺร โสฬส 
+<span class="LineNumber"> 008 </span>ทิสาสุ (๖) ปน(๗) ปุรโต จ  ปจฺฉโต  จ  วามปสฺสโต  จ  ทกฺขิณ-
+<span class="LineNumber"> 009 </span>ปสฺสโต  จ  ฉ  ฉ  โยชนานิ(๘)  นิสินฺนา  อุชุเกน  ทฺวาทสโยชนิกา
+<span class="LineNumber"> 010 </span>อโหสิ ฯ อชฺฌิฏฺโ€ติ ยาจิโต ฯ  
+<span class="LineNumber"> 011 </span>	อตฺถมฺายาติ  ปาฬิอตฺถมฺาย ฯ  ธมฺมมฺายาติ  
+<span class="LineNumber"> 012 </span>ปาฬิธมฺมมฺาย ฯ  (๙)  ปารายนนฺติ  เอวํ  อิมสฺส ธมฺมปริยายสฺส
+<span class="LineNumber"> 013 </span>อธิวจนํ อาโรเปตฺวา เตสํ  พฺราหฺมณานํ  นามานิ  กิตฺตยนฺตา  (๑๐)
+<span class="LineNumber"> 014 </span>อชิโต  ฯเปฯ พุทฺธเสฏฺ€มุปาคมุนฺติ อาหํสุ ฯ   ตตฺถ  สมฺปนฺน-
+<span class="LineNumber"> 015 </span>จรณนฺติ  นิพฺพานปทฏฺ€านภูเตน  ปาติโมกฺขสีลาทินา สมฺปนฺนํ ฯ 
+<span class="LineNumber"> 016 </span>อิสินฺติ มเหสึ ฯ  
+<span class="LineNumber"> 017 </span>	นิทฺเทเส  อุปาคมึสูติ  สมีเป  คมึสุ ฯ  อุปสงฺกมึสูติ  
+<span class="LineNumber"> 018 </span>อวิทูรฏฺ€านํ  คมึสุ ฯ  ปยิรุปาสึสูติ  สมีเป  นิสีทึสุ ฯ  ปริปุจฺฉึสูติ  
+<span class="LineNumber"> 019 </span># ๑. ม. โณเมนฺโต ฯ  ๒. ม. ปริจาริกโสฬสานนฺติ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. โสฬสานํ ฯ  เอวมุปริปิ ฯ ๔. ม.ปริจารกโสฬสานํ ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. เตเอว ฯ  ๖. ม. ตตฺถ โสฬสสุ ทิสาสุ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. ปนสทฺโท นตฺถิ ฯ  ๘. ม. ฉ ฉ โยชนา ฯ 
+<span class="LineNumber"> 023 </span># ๙. ม. ปาฬิมฺาย ฯ ๑๐. ม. กิตฺตยนฺโต ฯ

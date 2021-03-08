@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  36  หน้า  1
+
+<span class="LineNumber"> 002 </span>				มหานิปาตวณณนา
+
+<span class="LineNumber"> 003 </span>				เตมิยชาตกํ  (๑)
+<span class="LineNumber"> 004 </span>	มา  ปณฺฑิจฺจยํ  วิภาวยาติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 005 </span>มหาภิเนกฺขมฺมปารมึ  อารพฺภ  กเถสิ ฯ 
+<span class="LineNumber"> 006 </span>	เอกทิวสํ  หิ  ภิกฺขู  ธมฺมสภายํ  สนฺนิสินฺนา  ภควโต 
+<span class="LineNumber"> 007 </span>มหาภิเนกฺขมฺมปารมึ  วณฺณยนฺตา  นิสีทึสุ ฯ  สตฺถา  ทิพฺพโสเตน  
+<span class="LineNumber"> 008 </span>ตํ  สุตฺวา  คนฺธกุฏิโต  นิกฺขมิตฺวา  ธมฺมสภายํ  อาคนฺตฺวา  กาย  
+<span class="LineNumber"> 009 </span>นุตฺถ  ภิกฺขเว  เอตรหิ  กถาย  สนฺนิสินฺนาติ  ปุจฺฉิตฺวา  อิมาย  
+<span class="LineNumber"> 010 </span>นามาติ  วุตฺเต  น  ภิกฺขเว  อิทาเนว  มม  ปูริตปารมิสฺส  รชฺชํ  
+<span class="LineNumber"> 011 </span>ฉทฺเทตฺวา  มหาภินิกฺขมนํ  นาม  อจฺฉริยํ  อหํ  หิ  ปุพฺเพ  
+<span class="LineNumber"> 012 </span>อปริปกฺเก  าเณ  ปารมิโย  ปูเรนฺโตปิ  รชฺชํ  ฉทฺเทตฺวา 
+<span class="LineNumber"> 013 </span>มหาภินิกฺขมนํ  นิกฺขนฺโตเยวาติ  วตฺวา  ตุณฺหี  อโหสิ  เตหิ  
+<span class="LineNumber"> 014 </span>ยาจิโต อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 015 </span>	อตีเต  ภิกฺขเว  พาราณสิยํ  กาสิกราชา  นาม  ธมฺเมน 
+<span class="LineNumber"> 016 </span>สเมน  รชฺชํ  กาเรสิ ฯ  ตสฺส  โสฬสสหสฺสา  นาฏกิตฺถิโย  อเหสุํ ฯ 
+<span class="LineNumber"> 017 </span>ตาสุ  เอกาปิ  ปุตฺตํ  วา  ธีตรํ  วา  น  ลภติ ฯ  ตทา  นาครา 
+<span class="LineNumber"> 018 </span>อมฺหากํ  รฺโ  วํสานุรกฺขิโต (๒)  เอโก  ปุตฺโตปิ  นตฺถีติ  
+<span class="LineNumber"> 019 </span>กุสราชชาตเก  อาคตนเยเนว  ราชงฺคเณ  สนฺนิปติตฺวา  ราชานํ 
+<span class="LineNumber"> 020 </span>เทว  ปุตฺตํ ปตฺเถถาติ  อาหํสุ ฯ  ตํ  สุตฺวา  ราชา  ตสฺมึ  ขเณ 
+<span class="LineNumber"> 021 </span># ๑. สี. ม. ยุ. มูคปกฺขชาตกํ  ฯ  ๒. ม. ยุ. วํสานุรกฺขโก ฯ

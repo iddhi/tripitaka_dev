@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>ปัจจุปปันนวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>         บุคคลใดไม่ใช่กำลังรู้แจ้งจักขายตนะ,  บุคคลนั้นก็ไม่ใช่กำลังรู้
+<span class="LineNumber"> 003 </span>แจ้งโสตายตนะ  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า บุคคลใดไม่ใช่กำลังรู้แจ้งโสตายตนะ,    บุคคลนั้นก็ไม่
+<span class="LineNumber"> 006 </span>ใช่กำลังรู้แจ้งจักขายตนะ,   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                         <I>จบ  จักขายตนมูละ   โสตายตนมูลี</I>
+<span class="LineNumber"> 009 </span>                                      <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 010 </span>                             <I>ปัจจุปปันนวาระ  ปัจจนิก  จบ</I>   

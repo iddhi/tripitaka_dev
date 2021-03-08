@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                       <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๕๔๒] ๑.  <B>ธรรมที่เป็นทั้งกิเลสและสังกิเลสิกธรรม     เป็น
+<span class="LineNumber"> 005 </span>ปัจจัยแก่ธรรมที่เป็นทั้งกิเลสและสังกิเลสิกธรรม  ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 006 </span>ปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ   เหตุทั้งหลายที่เป็นทั้งกิเลสและสังกิเลสิกธรรม     เป็นปัจจัย
+<span class="LineNumber"> 008 </span>กิเลสทั้งหลายที่เป็นสัมปยุตตธรรม   ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 009 </span>         โดยนัยดังกล่าวมานี้   มี  ๔ วาระ   เหมือนกับกิเลสทุกะ.
+
+<span class="LineNumber"> 010 </span>                                   <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 011 </span>         [๕๔๓] ๑.  <B>ธรรมที่เป็นทั้งกิเลสและสังกิเลสิกธรรม     เป็น
+<span class="LineNumber"> 012 </span>ปัจจัยแก่ธรรมที่เป็นทั้งกิเลสและสังกิเลสิกรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 013 </span>อารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ   เพราะปรารภกิเลสทั้งหลาย    ขันธ์ทั้งหลายที่เป็นกิเลส    ย่อม
+<span class="LineNumber"> 015 </span>เกิดขึ้น.
+<span class="LineNumber"> 016 </span>         พึงกระทำมูล   (วาระที่ ๒)
+<span class="LineNumber"> 017 </span>         เพราะปรารภกิเลสทั้งหลาย    ขันธ์ทั้งหลายที่เป็นสังกิเลสิกะ  แต่ไม่ใช่
+<span class="LineNumber"> 018 </span>กิเลสธรรม   ย่อมเกิดขึ้น.
+<span class="LineNumber"> 019 </span>         พึงกระทำมูล   (วาระที่ ๓)

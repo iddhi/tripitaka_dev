@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>อรรถกถาพันธนสูตรที่  ๗-๘</H1> 
+<span class="LineNumber"> 002 </span>         <B>พันธนสูตรที่  ๗</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า   <B>โรณฺเณน</B>   ได้แก่   ด้วยการร้องไห้.   บทว่า  <B>อากปฺเปน</B>
+<span class="LineNumber"> 004 </span>ได้แก่   ด้วยวิธีการมีการนุ่งและการห่มเป็นต้น.   บทว่า   <B>วนภงฺเคน</B>
+<span class="LineNumber"> 005 </span>ความว่า   ด้วยเครื่องบรรณาการ  มีดอกไม้และผลไม่ป่าที่ตนหักได้
+<span class="LineNumber"> 006 </span>มาจากป่า.
+<span class="LineNumber"> 007 </span>                              แม้สูตรที่  ๘  ก็มีนัยนี้เหมือนกัน
+<span class="LineNumber"> 008 </span>                      <I>จบ  อรรถกถาพันธนสูตรที่  ๗-๘</I>

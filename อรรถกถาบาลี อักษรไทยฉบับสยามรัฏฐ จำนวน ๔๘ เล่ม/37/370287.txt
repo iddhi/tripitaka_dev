@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 287
+
+<span class="LineNumber"> 002 </span>		เอราวณํ นาคราชานํ	มนิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 003 </span>		ปสฺเสตฺถ เทวกฺาโย	นภา วิชฺชุริวุคฺคตา  
+<span class="LineNumber"> 004 </span>		นนฺทเน วิจรนฺติโย		มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 005 </span>		ปสฺเสตฺถ เทวกฺาโย	เทวปุตฺตปโลภินี  
+<span class="LineNumber"> 006 </span>		เทวปุตฺเต รมฺมมาเน	มณิมฺหิ ปสฺส นิมฺมิตํ(๑) ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  วิเทเหติ  ปุพฺพวิเทหทีปํ ฯ โคยานิเย จาติ 
+<span class="LineNumber"> 008 </span>อมรโคยานทีปํ ฯ  กุรุโย  ชมฺพูทีปฺจาติ  อุตฺตรกุรุโย(๒)  จ 
+<span class="LineNumber"> 009 </span>ชมฺพูทีปฺจ ฯ  อนุปริยายนฺเตติ  เอเต  จนฺทิมสุริเย  สิเนรุํ  
+<span class="LineNumber"> 010 </span>อนุปริยายนฺเต ฯ ปาฏิเยติ  ปตฺถริตฺวา €ปิเต วิย ปิฏฺ€ิ-
+<span class="LineNumber"> 011 </span>ปาสาเณ ฯ  
+<span class="LineNumber"> 012 </span>	[๙๓๓]ปโรสหสฺสํ ปาสาเท (๓)	เวฬุริยผลกสนฺถเต  
+<span class="LineNumber"> 013 </span>		ปชฺชลนฺเตน[๔] วณฺเณน	มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 014 </span>		ตาวตึเส จ ยาเม จ	ตุสิเต จาปิ นิมฺมิเต  
+<span class="LineNumber"> 015 </span>		ปรินิมฺมิตวสวตฺติโน	มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 016 </span>		ปสฺเสตฺถ โปกฺขรณิโย	วิปฺปสนฺโนทกา สุจี  
+<span class="LineNumber"> 017 </span>		มณฺฑาลเกหิ สฺฉนฺนา	ปทุมุปฺปลเกหิ จ(๕) ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ ปโรสหสฺสนฺติ ตาวตึสภวเน  อติเรกสหสฺสปาสาเท ฯ  
+<span class="LineNumber"> 019 </span>	[๙๓๔]ทเสตฺถ ราชิโย เสตา	ทสฺสนียา(๖) มโนรมา  
+<span class="LineNumber"> 020 </span>		ฉ ปิงฺคลา ปณฺณรสา(๗)	หลิทฺทา จ จตุทฺทส  
+<span class="LineNumber"> 021 </span># ๑. ม. นิมฺมิตนฺติ ฯ  ๒. ม. อุตฺตรกุรุ จ ทกฺขิณโต ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ปโรสหสฺสปาสาเท ฯ  ๔. ม.เอตฺถนฺตเร จสทฺโท อตฺถิ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. จาติ ฯ  ๖. ม. ทส นีลา ฯ  ๗. ม.ปนฺนรส ฯ

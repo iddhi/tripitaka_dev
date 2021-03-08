@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                        กัณฑ์ที่  ๓๐ 
+<span class="LineNumber"> 002 </span>                                วิธีระงับอาปัตตาธิกรณ์
+<span class="LineNumber"> 003 </span>                  อาปัตตาธิกรณ์ย่อมระงับในสำนัก  ๒  คือ :-
+<span class="LineNumber"> 004 </span>๑.  ระงับในสำนักบุคคล.
+<span class="LineNumber"> 005 </span>๒.  ระงับเฉพาะในสำนักสงฆ์.
+<span class="LineNumber"> 006 </span>           อาปัตตาธิกรณ์ระงับในสำนักบุคคลด้วยสมถะ  ๒  คือ :-
+<span class="LineNumber"> 007 </span>๑.  สัมมุขาวินัย.
+<span class="LineNumber"> 008 </span>๒.  ปฏิญญาตกรณะ.
+<span class="LineNumber"> 009 </span>               สัมมุขาวินัยในอธิการนี้พร้อมด้วยองค์  ๓ คือ :-
+<span class="LineNumber"> 010 </span>๑.  ธมฺมสมฺมุขตา.
+<span class="LineNumber"> 011 </span>๒.  วินยสมฺมุขตา.
+<span class="LineNumber"> 012 </span>๓.  ปุคฺคลสมฺมุขตา.
+<span class="LineNumber"> 013 </span>         (ปุคฺคลสมฺมุขตา  ได้แก่ภิกษุผู้แสดงและผู้รับอยู่พร้อมกัน).
+<span class="LineNumber"> 014 </span>      อาปัตตาธิกรณ์ระงับเฉพาะในสำนักสงฆ์นั้น  แยกออกเป็น  ๒
+<span class="LineNumber"> 015 </span>อย่างคือ :-
+<span class="LineNumber"> 016 </span>๑.  ครุกาบัติที่ออกด้วยวุฏฐานวิธี.
+<span class="LineNumber"> 017 </span>๒.  ลหุกาบัติที่แสดงด้วยติณวัตถารกวิธี.

@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>จตุกกะทุกกฏ</H2>
+<span class="LineNumber"> 002 </span>            ภิกษุณีให้อนุปสัมบันโพนทะนา  ต้องอาบัติทุกปาจิตตีย์.
+<span class="LineNumber"> 003 </span>            อนุปสัมบัน  ภิกษุณีสำคัญว่าอุปสัมบัน  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 004 </span>            อนุปสัมบัน   ภิกษุณีสงสัย  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 005 </span>            อนุปสัมบัน  ภิกษุณีสำคัญว่าอนุปสัมบัน   ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 006 </span>	                                <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 007 </span>            [๒๑๒]   วิกลจริต  ๑ อาทิกัมมิกา ๑ ไม่ต้อยอาบัติแล.
+<span class="LineNumber"> 008 </span>                                 <I>อันธการวรรค   สิกขาบทที่  ๘  จบ</I>
+
+<span class="LineNumber"> 009 </span>                              <H1>อรรถกถาอันธการวรรค  สิกขาบทที่  ๘</H1> 
+<span class="LineNumber"> 010 </span>            คำทั้งหมดในสิกขาบทที่  ๘  ตื้นทั้งนั้น.  สิกขาบทนี้  มีสมุฏฐาน ๓ เป็น
+<span class="LineNumber"> 011 </span>กิริยา   สัญญาวิโมกข์   สจิตตกะ   โลกวัชชะ   กายกรรม   วจีกรรม    อกุศลจิต
+<span class="LineNumber"> 012 </span>เป็นทุกขเวทนาแล.
+<span class="LineNumber"> 013 </span>                       <I>อรรถกถาอันธการวรรค  สิกขาบทที่  ๘  จบ</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ทุกนิปาตวณฺณนา  หน้า  212
+
+<span class="LineNumber"> 002 </span>นิพฺพตฺตึสุ  สมนฺตโต ปุปฺผวสฺสํ  วสฺสิ  อากาเส  ทิพฺพตูริยานิ 
+<span class="LineNumber"> 003 </span>วชฺชึสุ  สกลทสสหสฺสิโลกธาตุ วฏฺเฏตฺวา  วิสฏฺ€มาลาคุลํ  วิย 
+<span class="LineNumber"> 004 </span>อุปฺปีเฬตฺวา  ปวตฺตมาลากลาโป  วิย อลงฺกตปฏิยตฺตํ  มาลาสนํ  วิย  
+<span class="LineNumber"> 005 </span>จ  เอกมาลามาลินี  วิปฺผุรนฺตวาฬวีชนี ปุปฺผธูปคนฺธปวาสิตา
+<span class="LineNumber"> 006 </span>ปรมโสภคฺคปฺปตฺตา  อโหสิ(๑) ฯ  ตานิ  จ  ปุพฺพนิมิตฺตานิ  อุปริ
+<span class="LineNumber"> 007 </span>อธิคตานํ  อเนเกสํ  วิเสสาธิคมานํ  นิมิตฺตภูตานิ  เอว  อเหสุํ ฯ
+<span class="LineNumber"> 008 </span>เอวํ อเนกจฺฉริยปาตุภาวา  อยํ  อภิชาติ  ยทตฺถํ  เตน  อภิปตฺถิตา
+<span class="LineNumber"> 009 </span>ตสฺสา อภิสมฺโพธิยา เอกนฺตสิทฺธิยา ตถาว อโหสิ อวิตถา 
+<span class="LineNumber"> 010 </span>อนฺถา ฯ
+<span class="LineNumber"> 011 </span>	ตถา  เย  พุทฺธเวเนยฺยา  โพธเนยฺยพนฺธวา  เต  สพฺเพปิ 
+<span class="LineNumber"> 012 </span>อนวเสสโต สยเมว  ภควตา  วินีตาเยว(๒)น สาวเกหิ(๓) ฯ  สาวก-
+<span class="LineNumber"> 013 </span>เวเนยฺยา(๔)  ธมฺมเวเนยฺยา  จ  เตปิ สาวกาทีหิ  วินีตา  วินยํ 
+<span class="LineNumber"> 014 </span>คจฺฉนฺติ  คมิสฺสนฺติ  จาติ  ยทตฺถํ  ภควตา อภิสมฺโพธิ
+<span class="LineNumber"> 015 </span>อภิปตฺถิตา ตทตฺถสฺส เอกนฺตสิทฺธิยา อภิสมฺโพธิ ตถา อวิตถา 
+<span class="LineNumber"> 016 </span>อนฺถา ฯ
+<span class="LineNumber"> 017 </span>	อปิจ  ยสฺส  ยสฺส  เยฺยธมฺมสฺส  โย  โย  สภาโว  
+<span class="LineNumber"> 018 </span>พุชฺฌิตพฺโพ  โส  โส หตฺถตเล  €ปิตอามลกํ  วิย  อาวชฺชน-
+<span class="LineNumber"> 019 </span>มตฺตปฏิพทฺเธน  อตฺตโน  าเณน อวิปรีตํ  อนวเสสโต  ภควตา
+<span class="LineNumber"> 020 </span># ๑. เอตฺตกเมว เกสุจิ โปตฺถเกสุ อาคตํ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. วินีตา ฯ  ๓. ม. อยํ ปาโ€ นตฺถิ ฯ  
+<span class="LineNumber"> 022 </span># ๔. ม. เย จ สาวกเวเนยฺยา ฯ

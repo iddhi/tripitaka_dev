@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  อาสงฺกชาตกํ  หน้า 35
+	
+<span class="LineNumber"> 002 </span>	[๘๕๖] ตํ เทวา ปยิรุปาสนฺติ  	ตาว ทูรผเล สติ(๑) ฯ  
+<span class="LineNumber"> 003 </span>		อาสึเสว(๒) ตุวํ ราช  	อาสา ผลวตี สุขา  
+<span class="LineNumber"> 004 </span>	[๘๕๗] อาสึสเถว(๓) โส ปกฺขี  	อาสึสเถว โส ทิโช ฯ  
+<span class="LineNumber"> 005 </span>		ตสฺเสวาสา สมิชฺฌตฺถ(๔)  ตาว ทูรคตา สติ  
+<span class="LineNumber"> 006 </span>		อาสึเสว ตุวํ ราช  		อาสา ผลวตี สุขาติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  อาสาวตีติ  เอวํนามกา  สา  หิ  ยสฺมา  ตสฺสา  ผเล  
+<span class="LineNumber"> 008 </span>อาสา  อุปฺปชฺชติ  ตสฺมา  เอตํ  นามํ  ลภิ ฯ จิตฺตลตาวเนติ เอวํนามเก  
+<span class="LineNumber"> 009 </span>อุยฺยาเน  ตสฺมึ  กิร  อุยฺยาเน  รุกฺขลตาทีนํ  ปภา  ตตฺถ ปวิฏฺ€-
+<span class="LineNumber"> 010 </span>ปวิฏฺ€านํ  เทวานํ  สรีรวณฺณํ  จิตฺรํ  กโรติ  เตนสฺส  จิตฺตลตาวนนฺติ 
+<span class="LineNumber"> 011 </span>นามํ  ชาตํ  ฯ  ปยิรุปาสนฺตีติ  ปุนปฺปุนํ  อุเปนฺติ  ฯ  อาสึเสวาติ
+<span class="LineNumber"> 012 </span>อาสึสาหิเยว  ปตฺเถหิเยว มา อาสจฺเฉทกมฺมํ กโรหีติ ฯ  
+<span class="LineNumber"> 013 </span>	ราชา  ตสฺสา  กถาย  พชฺฌิตฺวา  ปุน  อมจฺเจ  สนฺนิปาเตตฺวา  
+<span class="LineNumber"> 014 </span>ทสนามกํ  กาเรตฺวา  นามํ  คเวสนฺโต  อปรมฺปิ  สํวจฺฉรํ  วสิ  ฯ  ตสฺสา
+<span class="LineNumber"> 015 </span>ทสนามเกปิ(๕)  นามํ  นาโหสิ  อสุกํ(๖)  นามาติ  วุตฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 016 </span>ปฏิกฺขิปเตว  ฯ  ปุน  ราชา  กึ  เม  อิมายาติ  ตุรงฺคํ  อารุยฺห  
+<span class="LineNumber"> 017 </span>ปายาสิ  ฯ  สาปิ  ปุน  วาตปาเน  €ตฺวา  อตฺตานํ  ทสฺเสสิ  ฯ  ตํ  
+<span class="LineNumber"> 018 </span>ทิสฺวา  ราชา  ติฏฺ€  ตฺวํ  มยํ  คมิสฺสามาติ  อาห  ฯ  กสฺมา  ยาสิ  
+<span class="LineNumber"> 019 </span>มหาราชาติ  ฯ  ตว  นามํ  ชานิตุํ  น  สกฺโกมีติ  ฯ  มหาราช 
+<span class="LineNumber"> 020 </span>กสฺมา  นามํ  น  ชานิสฺสติ  อาสา  นาม  อสมิชฺฌนกา  นตฺถิ  มม
+<span class="LineNumber"> 021 </span># ๑. ม. ทูรผลํ สตึ ฯ  ๒. ม. อาสีเสว ฯ ๓. ม. อาสีสเตว ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. ตสฺส จาสา สมิชฺฌติ ฯ  ๕. ม. ทสนามกมฺปิ ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. อสุกา ฯ 

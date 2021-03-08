@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                              อุยโยชนคาถาของท่านผู้รจนา
+<span class="LineNumber"> 002 </span>		<B> วรรณนาวิภังค์แห่งอุภโตปาฏิโมกข์  ที่พระชินเจ้า
+<span class="LineNumber"> 003 </span>		ตรัสไว้นี้  จบลงแล้ว  โดยหาอันตรายมิได้  ฉันใด,
+<span class="LineNumber"> 004 </span>		ขอสรรพสัตว์  แม้ทุกหมู่เหล่า  จงได้บรรลุมรรค
+<span class="LineNumber"> 005 </span>		อันละเสียซึ่งอาสวะทั้งปวง  แล้วประสบพบเห็นแต่
+<span class="LineNumber"> 006 </span>		ความดับสนิทโดยหาอันตรายมิได้  ฉะนั้น  เทอญ.</B>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>๑๕.  สาสวทุกนสาสวทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                       <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 004 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๑๕๖] ๑.  <B>ธรรมที่ไม่ใช่อนาสวธรรม       อาศัยธรรมที่เป็น
+<span class="LineNumber"> 006 </span>สาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อนาสวธรรม       อาศัยธรรมที่เป็น
+<span class="LineNumber"> 008 </span>อนาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                       ๓.  <B>ธรรมที่ไม่ใช่สาสวธรรม   อาศัยธรรมที่เป็นอนา-
+<span class="LineNumber"> 010 </span>สวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                       ๔.  <B>ธรรมที่ไม่ใช่สาสวธรรม และธรรมที่ไม่ใช่อนา-
+<span class="LineNumber"> 012 </span>สวธรรม  อาศัยธรรมที่เป็นอนาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>                       ๕.  <B>ธรรมที่ไม่ใช่อนาสวธรรม  อาศัยธรรมที่เป็น
+<span class="LineNumber"> 014 </span>สาสวธรรม  และธรรมที่เป็นอนาสวธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 015 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๑๕๗]  ในเหตุปัจจัย  มี  ๕  วาระ  ฯลฯ
+<span class="LineNumber"> 017 </span>           พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 018 </span>                                <I>สาสวทุกนสาสทุกะ  จบ</I>
+						

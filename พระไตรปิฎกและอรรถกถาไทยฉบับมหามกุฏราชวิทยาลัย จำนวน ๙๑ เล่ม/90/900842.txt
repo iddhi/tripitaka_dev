@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                           			<H2>ปัจจนียนัย</H2>   
+<span class="LineNumber"> 002 </span>				<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 003 </span>		[๓๕๐]  ในนอธิปติปัจจัย  มี  ๗ วาระ    ในนปุเรชาตปัจจัย  มี ๑๗
+<span class="LineNumber"> 004 </span>วาระ  ในนอาเสวนปัจจัย  มี ๙  วาระ    ในนวิปากปัจจัย  มี ๑๗ วาระ    ในน
+<span class="LineNumber"> 005 </span>วิปปยุตตปัจจัย มี ๑๗ วาระ.
+<span class="LineNumber"> 006 </span>            สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ
+
+<span class="LineNumber"> 007 </span>                         		<H1>เหตุบทปัญหาวาระ</H1>
+<span class="LineNumber"> 008 </span>                          		  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                         <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 010 </span>		[๓๕๑]  ๑.  เหตุธรรมที่เป็นมัคคารัมมณธรรม   เป็นปัจจัยแก่
+<span class="LineNumber"> 011 </span>เหตุธรรมที่เป็นมัคคารัมมณธรรม ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 012 </span>(วาระที่ ๑-๒-๓)
+<span class="LineNumber"> 013 </span>                        ๔.  เหตุธรรมที่เป็นมัคคเหตุกธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 014 </span>เหตุธรรมที่เป็นมัคคเหตุกธรรม  ด้วยอำนาจของเหตุปัจจัย  มี  ๓ วาระ
+<span class="LineNumber"> 015 </span>(วาระที่ ๔-๕-๖)
+<span class="LineNumber"> 016 </span>                        ๗.  เหตุธรรมที่เป็นมัคคาธิปติธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 017 </span>เหตุธรรมที่เป็นมัคคาธิปติธรรม  ด้วยอำนาจของเหตุปัจจัย  มี  ๕ วาระ
+<span class="LineNumber"> 018 </span>(วาระที่  ๗-๑๑)

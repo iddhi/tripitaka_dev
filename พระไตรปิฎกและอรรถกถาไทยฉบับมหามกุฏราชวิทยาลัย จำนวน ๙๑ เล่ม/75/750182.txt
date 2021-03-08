@@ -1,0 +1,34 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>๕๖-๒.  จิตตทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>จิตฺตา   ธมฺมา</B>                             ธรรมเป็นจิต
+<span class="LineNumber"> 003 </span><B>โน  จิตฺตา  ธมฺมา</B>                        ธรรมไม่เป็นจิต
+
+<span class="LineNumber"> 004 </span>               <H2>๕๗-๓.   เจตสิกทุกกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>เจตสิกา  ธมฺมา</B>	                   ธรรมเป็นเจตสิก
+<span class="LineNumber"> 006 </span><B>อเจตสิกา   ธมฺมา</B>                        ธรรมไม่เป็นเจตสิก
+
+<span class="LineNumber"> 007 </span>            <H2>๕๘-๔.  จิตตสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>จิตฺตสมฺปยุตฺตา  ธมฺมา</B>                ธรรมสัมปยุตด้วยจิต
+<span class="LineNumber"> 009 </span><B>จิตฺตวิปฺปยุตฺตา  ธมฺมา</B>                ธรรมวิปปยุตจากจิต
+
+<span class="LineNumber"> 010 </span>              <H2>๕๙-๕.  จิตตสังสัฏฐทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>จิตฺตสํสฏฺ€า  ธมฺมา</B>                     ธรรมเจือกับจิต
+<span class="LineNumber"> 012 </span><B>จิตฺตวิสํสฏฺ€า  ธมฺมา</B>                   ธรรมไม่เจือกับจิต
+ 
+<span class="LineNumber"> 013 </span>             <H2>๖๐-๖.  จิตตสมุฏฐานทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>จิตฺตสมุฏฺ€านา  ธมฺมา</B>                ธรรมมีจิตเป็นสมุฏฐาน
+<span class="LineNumber"> 015 </span><B>โน  จิตฺตสมุฏฺ€านา  ธมฺมา</B>          ธรรมไม่มีจิตเป็นสมุฏฐาน
+
+<span class="LineNumber"> 016 </span>                 <H2>๖๑-๗.  จิตตสหภูทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>จิตฺตสหภุโน  ธมฺมา</B>                     ธรรมเกิดร่วมกับจิต
+<span class="LineNumber"> 018 </span><B>โน  จิตฺตสหภุโน  ธมฺมา</B>               ธรรมไม่เกิดร่วมกับจิต
+
+<span class="LineNumber"> 019 </span>             <H2>๖๒-๘. จิตตานุปริวัตติทุกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>จิตฺตานุปริวตฺติโน  ธมฺมา</B>            ธรรมอันเกิดคล้อยตามจิต
+<span class="LineNumber"> 021 </span><B>โน  จิตฺตานุปริวตฺติโน  ธมฺมา</B>      ธรรมไม่เกิดคล้อยตามจิต

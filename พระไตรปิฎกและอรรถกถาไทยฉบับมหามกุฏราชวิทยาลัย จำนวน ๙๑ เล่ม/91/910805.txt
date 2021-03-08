@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๗๗๖]  ในเหตุปัจจัย  มี ๖ วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                 <H2>อปจยคามิบท</H2>
+<span class="LineNumber"> 004 </span>           [๗๗๗]  ๑.  <B>ธรรมที่ไม่ใช่อปจยคามิธรรม  ที่ไม่ใช่กุศล อาศัย
+<span class="LineNumber"> 005 </span>อปจยคามิธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>                                          <B>ฯลฯ</B>
+
+<span class="LineNumber"> 007 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๗๗๘]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 009 </span>                                     <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 010 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>                     <H2>เนวาจยคามินาปจยคามิบท</H2>	
+<span class="LineNumber"> 013 </span>           [๗๗๗]  ๑.  <B>ธรรมที่ไม่ใช่เนวาจยคามินาปจยคามิธรรม    ที่
+<span class="LineNumber"> 014 </span>ไม่ใช่อัพยากตะ อาศัยเนวาจยคามินาปจยคามิธรรม ที่เป็นอัพยากตะ
+<span class="LineNumber"> 015 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 016 </span>                                               <B>ฯลฯ</B>

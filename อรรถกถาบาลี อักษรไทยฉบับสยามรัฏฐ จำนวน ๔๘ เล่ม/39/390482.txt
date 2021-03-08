@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 39  จูฬนิทฺเทสวณฺณนา  หน้า  482
+
+<span class="LineNumber"> 002 </span>		รฺโ สิรินิวาสสฺส		สิริสงฺฆสฺส โพธิโน  
+<span class="LineNumber"> 003 </span>		ฉพฺพีสติมฺหิ วสฺสมฺหิ	นิฏฺ€ิตา นิทฺเทสวณฺณนา ฯ  
+<span class="LineNumber"> 004 </span>		สมยํ อนุโลเมนฺตี		เถรานํ เถรวํสทีปานํ(๑)  
+<span class="LineNumber"> 005 </span>		นิฏฺ€งฺคตา ยถายํ		อฏฺ€กถา โลกหิตชนนี ฯ  
+<span class="LineNumber"> 006 </span>		สทฺธมฺมํ อนุโลเมนฺตี (๒)  อตฺตหิตํ ปรหิตฺจ สาเธนฺตา  
+<span class="LineNumber"> 007 </span>		นิฏฺ€ํ คจฺฉนฺตุ  ตถา		มโนรถา สพฺพสตฺตานํ ฯ  
+<span class="LineNumber"> 008 </span>		สทฺธมฺมปฺปชฺโชติกาย	อฏฺ€กถาเยตฺถ คณิตกุสเลหิ  
+<span class="LineNumber"> 009 </span>		คณิตา ตุ ภาณวารา		เยฺยาติเรกจตฺตาริสา ฯ  
+<span class="LineNumber"> 010 </span>		อนุฏฺ€ุเภน  อสฺสา		ฉนฺทา พนฺเธน(๓) คณิยมานา ตุ
+<span class="LineNumber"> 011 </span>		อติเรกทสสหสฺส-		สงฺขา คาถาติ เยฺยา ฯ
+<span class="LineNumber"> 012 </span>		สาสนจิรฏฺ€ิตตฺถํ			โลกหิตฺจ  สมฺปาทเรน(๔) มยา
+<span class="LineNumber"> 013 </span>		ปุฺํ อิมํ รจยตา			ยํ ปตฺตมนปฺปกํ วิปุลํ ฯ
+<span class="LineNumber"> 014 </span>		ปุฺเน เตน โลโก		สทฺธมฺมสายนํ ทสพลสฺส
+<span class="LineNumber"> 015 </span>		อุปยุฺชิตฺวา(๕) วิมลํ		ปปฺโปตุ สุขํ สุเขเนวาติ ฯ
+<span class="LineNumber"> 016 </span>			สทฺธมฺมปฺปชฺโชติกา นาม จูฬนิทฺเทสวณฺณนา
+<span class="LineNumber"> 017 </span>						นิฏฺ€ิตา ฯ  
+
+<span class="LineNumber"> 018 </span>		อิมินา เลขปุฺเน	มา เม พาลสมาคโม  
+<span class="LineNumber"> 019 </span>		ติปิฏกธโร โหมิ	เมตฺเตยฺยสฺเสว สนฺติเกติ (๖)ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. เถรวํสทีปานํ ฯ  ๒. ม. อนุโลเมนฺตา ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ฉนฺโท พทฺเธน ฯ  ๔. ม. สาทเรน ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. อุปภุฺชิตฺวา ฯ ๖. ม. อยํ คาถา นตฺถิ ฯ 

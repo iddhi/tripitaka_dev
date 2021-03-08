@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  เตมิยชาตกํ  หน้า  49
+
+<span class="LineNumber"> 002 </span>	ตาสุ ปุตฺต ปฏิปชฺชสฺสุ	ตวํ โน ราชา ภวิสฺสสิ  
+<span class="LineNumber"> 003 </span>	กุสลา นจฺจคีตสฺส		สุสิกฺขิตา จตุริตฺถิโย  
+<span class="LineNumber"> 004 </span>	กาเม ตํ รมยิสฺสนฺติ		กึ อรฺเ กริสฺสสิ  
+<span class="LineNumber"> 005 </span>	ปฏิราชูหิ เต กฺา		อานยิสฺสํ อลงฺกตา  
+<span class="LineNumber"> 006 </span>	ตาสุ ปุตฺเต ชเนตฺวาน		อถ ปจฺฉา ปพฺพชิสฺสสิ  
+<span class="LineNumber"> 007 </span>	ยุวา จ ทหโร จาปิ (๑)		ป€มุปฺปตฺติโต สุสู  (๒)
+<span class="LineNumber"> 008 </span>	รชฺชํ กาเรหิ ภทฺทนฺเต		กึ อรฺเ กริสฺสสีติ ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  หตฺถานีกนฺติ  ทสหตฺถิโต  ปฏฺ€าย  อธิปติกตา  หตฺถานีกํ  
+<span class="LineNumber"> 010 </span>นาม  ตถา  รถานีกํ  นาม ฯ  จมฺมิโนติ  จมฺมพนฺเธ  สุรโยเธ ฯ  
+<span class="LineNumber"> 011 </span>กุสลาติ  เฉกา ฯ  สุสิกฺขิตาติ  อฺเสุปิ  อิตฺถิกิจฺเจสุ  สุสิกฺขิตา ฯ  
+<span class="LineNumber"> 012 </span>จตุริตฺถิโยติ  จตุรา  วิลาสา  อิตฺถิโย  อถวา  จตุรา  นาครา  อิตฺถิโย  
+<span class="LineNumber"> 013 </span>อถวา  จตุรา  นาม  นาฏกิตฺถิโย ฯ  ปฏิราชูหิ  กฺาติ  ปุตฺต  อฺเหิ 
+<span class="LineNumber"> 014 </span>ราชูหิ  อฺาปิ  ราชกฺาโย  ตุยฺหํ  อานยิสฺสํ ฯ  ยุวาติ  
+<span class="LineNumber"> 015 </span>โยพฺพนปฺปตฺโต ฯ  ทหโรติ  ตรุโณ ฯ  ป€มุปฺปตฺติโตติ  ป€มวเยน  
+<span class="LineNumber"> 016 </span>อุปฺปตฺติโต สมุคฺคโต ฯ สุสูติ อติตรุโณ กาฬเกโสติ อตฺโถ ฯ  
+<span class="LineNumber"> 017 </span>	อิโต ปฏฺ€าย มหาสตฺตสฺส ธมฺมกถา นาม โหติ ฯ  
+<span class="LineNumber"> 018 </span>	โส รฺโ ธมฺมํ กเถนฺโต อาห  
+<span class="LineNumber"> 019 </span>	[๔๓๗]	ยุวา จเร พฺรหฺมจริยํ	พฺรหฺมจารี ยุวา สิยา  
+<span class="LineNumber"> 020 </span>			ทหรสฺส หิ ปพฺพชฺชา	เอตํ อิสีภิ วณฺณิตํ  
+<span class="LineNumber"> 021 </span>			ยุวา จเร พฺรหฺมจริยํ	พฺรหฺมจารี ยุวา สิยา  
+<span class="LineNumber"> 022 </span># ๑. ม. ยุ. จาสิ ฯ  ๒. ม. ป€มุปฺปตฺติโก สุสุ ฯ

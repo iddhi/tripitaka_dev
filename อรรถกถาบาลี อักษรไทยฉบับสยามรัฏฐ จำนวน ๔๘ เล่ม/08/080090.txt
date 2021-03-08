@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ สีหนาทวคฺควณฺณนา  หน้า  ๙๐
+		
+<span class="LineNumber"> 002 </span>ยสฺมา  อิทํ  สุตฺตํ  สุตฺวา  ตว  โลมานิ  หฏฺ€านิ  ตสฺมา  ติห  
+<span class="LineNumber"> 003 </span>ตฺวํ  นาคสมาล  อิมํ  ธมฺมปริยายํ  โลมหํสนปริยาโยเตฺวว(๑)  
+<span class="LineNumber"> 004 </span>นํ  ธาเรหีติฯ  
+<span class="LineNumber"> 005 </span>			มหาสีหนาทสุตฺตวณฺณนา  นิฏฺ€ิตาฯ  
+<span class="LineNumber"> 006 </span>					ทุติยํ ฯ
+
+<span class="LineNumber"> 007 </span>			  มหาทุกฺขกฺขนฺธสุตฺตวณฺณนา
+<span class="LineNumber"> 008 </span>	เอวมฺเม  สุตนฺติ  มหาทุกฺขกฺขนฺธสุตฺตํฯ  ตตฺถ  วินยปริยาเย  (๒)
+<span class="LineNumber"> 009 </span>ตโย  ชนา  สมฺพหุลาติ  วุจฺจนฺติ  ตโต  ปรํ  สํโฆฯ  
+<span class="LineNumber"> 010 </span>สุตฺตนฺตปริยาเย(๓) ตโย  ตโย  เอว  ตโต  อุทฺธํ  สมฺพหุลาติ  
+<span class="LineNumber"> 011 </span>วุจฺจนฺติฯ  อิธ  สุตฺตนฺตปริยาเยน  สมฺพหุลาติ (๔) เวทิตพฺพาฯ 
+<span class="LineNumber"> 012 </span>ปิณฺฑาย  ปาวิสึสูติ  ปวิฏฺ€า  เต  ปน  น  ตาว  ปวิฏฺ€า  
+<span class="LineNumber"> 013 </span>ปวิสิสฺสามาติ  นิกฺขนฺตา  (๕)  ปน  ปวิสึสูติ  วุตฺตาฯ  ยถากึ 
+<span class="LineNumber"> 014 </span>ยถา  คามํ  คมิสฺสามีติ  นิกฺขนฺตปุริโส  ตํ  คามํ  อปฺปตฺโตปิ  
+<span class="LineNumber"> 015 </span>กุหึ  อิตฺถนฺนาโมติ  วุตฺเต  คามํ  คโตติ  วุจฺจติ  เอวํ (๖) ฯ  
+<span class="LineNumber"> 016 </span>ปริพฺพาชกานํ  อาราโมติ  เชตวนโต  อวิทูเร  อฺติตฺถิยานํ  
+<span class="LineNumber"> 017 </span>ปริพฺพาชกานํ  อาราโม  อตฺถิ  ตํ  สนฺธาย  เอวมาหํสุฯ 
+<span class="LineNumber"> 018 </span>สมโณ  อาวุโสติ  อาวุโส  ตุมฺหากํ  สตฺถา  สมโณ  โคตโม.  
+<span class="LineNumber"> 019 </span>กามานํ  ปริฺนฺติ  กามานํ  ปหานํ  สมติกฺกมํ  ปฺเปติฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร นนฺติ ทิสฺสติ ฯ   ๒. ม. วินยปริยาเยน ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. สุตฺตนฺตปริยาเยน ฯ   ๔. ม. สมฺพหุลาติ ฯ   ๕. ม. นิกฺขนฺตตฺตา ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. อยํ ปาโ€ นตฺถิ ฯ

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค สมฺภูตตฺเถรคาถาวณฺณนา หน้า 95
+
+<span class="LineNumber"> 002 </span>ยํ ปน เต ภิกฺขู สมฺภูตตฺเถเรน วุตฺตํ (๑)  
+<span class="LineNumber"> 003 </span>		โย สีตวนํ อุปคา(๒) ภิกฺขุ  
+<span class="LineNumber"> 004 </span>		เอโก สนฺตุสิโต สมาหิตตฺโต  
+<span class="LineNumber"> 005 </span>		วิชิตาวี อเปตโลมหํโส  
+<span class="LineNumber"> 006 </span>		รกฺขํ กายคตาสตึ ธิติมาติ(๓)  
+<span class="LineNumber"> 007 </span>คาถํ สตฺถุ นิเวเทสส ฯ   
+<span class="LineNumber"> 008 </span>	ตตฺถ  สีตวนนฺติ  เอวํนามกํ  ราชคหสมีเป  มหนฺตํ 
+<span class="LineNumber"> 009 </span>เภรวํ  สุสานวนํ ฯ  
+<span class="LineNumber"> 010 </span>	อุปคาติ  นิวาสนวเสน  อุปคฺฉิ ฯ   เอเตน  ภควตา  
+<span class="LineNumber"> 011 </span>อนุฺาตํ  ปพฺพชิตานุรูปํ นิวาสนฏฺ€านํ  ทสฺเสติ(๔) ฯ 
+<span class="LineNumber"> 012 </span>	ภิกฺขูติ สํสาเร ภยสฺส อิกฺขนโต ภินฺนกิเลสตาย จ 
+<span class="LineNumber"> 013 </span>ภิกฺขุ ฯ
+<span class="LineNumber"> 014 </span>	เอโกติ  อทุติโย  อทุติโย  เอเตน  กายวิเวกํ  ทสฺเสติ ฯ  
+<span class="LineNumber"> 015 </span>	สนฺตุสิโตติ สนฺตุฏฺโ€ ฯ เอเตน  จตุปจฺจยสนฺโตสลกฺขณํ  
+<span class="LineNumber"> 016 </span>อริยวํสํ  ทสฺเสติ ฯ 
+<span class="LineNumber"> 017 </span>	สมาหิตตฺโตติ อุปจารปฺปนาเภเทน สมาธินา  สมาหิตจิตฺโต
+<span class="LineNumber"> 018 </span>เอเตน วิเวก(๕)ภาวนามุเขน  ภาวนารามํ อริยวํสํ ทสฺเสติ ฯ  
+<span class="LineNumber"> 019 </span>	วิชิตาวีติ  สาสเน  สมฺมาปฏิปชฺชนฺเตน  วิเชตพฺพํ  กิเลสคณํ 
+<span class="LineNumber"> 020 </span>วิชิตฺวา €ิโต เอเตน อุปธิวิเวกํ  ทสฺเสติ ฯ  ภยเหตูนํ  กิเลสานํ 
+<span class="LineNumber"> 021 </span># ๑. สี. ยํ ปเนเตภิกฺขู ตตฺถ ตตฺถ เถเรน วุตฺตํ ฯ  ๒. สฺยา. อุปาคา ฯ
+<span class="LineNumber"> 022 </span># ๓. ขุ. เถร. ๒๖/๑๔๓/๒๖๑ ฯ ๔. โปราณ. ทสฺเสสิ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. จิตฺตวิเวก... ฯ

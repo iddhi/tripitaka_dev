@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         คือ   จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นอุปาทานสัมปยุตต-
+<span class="LineNumber"> 002 </span>ธรรม.
+<span class="LineNumber"> 003 </span>                  ๒.  <B>อุปาทานวิปปยุตตธรรม  อาศัยอุปาทานวิปปยุตต-
+<span class="LineNumber"> 004 </span>ธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ   จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นอุปาทานวิปปยุตต-
+<span class="LineNumber"> 006 </span>ธรรม.
+<span class="LineNumber"> 007 </span>         จิตตสมุฏฐานรูป  อาศัยโลภะที่เป็นทิฏฐิคตวิปปยุต.
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 009 </span>                  ๓.  <B>อุปาทานวิปปยุตตธรรม  อาศัยอุปาทานสัมปยุตต-
+<span class="LineNumber"> 010 </span>ธรรม  และอุปาทานวิปปยุตตธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ    จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นอุปาทานสัมปยุตต-
+<span class="LineNumber"> 012 </span>ธรรม   และมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 013 </span>         จิตตสมุฏฐานรูป อาศัยขันธ์ทั้งหลายที่สหรคตด้วยโลภะที่เป็นทิฏฐิคต-
+<span class="LineNumber"> 014 </span>วิปปยุต   และโลภะ.
+
+<span class="LineNumber"> 015 </span>                   <H2>๓.  นอธิปติปัจจัย   ฯลฯ    ๖.  อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 016 </span>         <B>ฯลฯ  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 017 </span>         <B>เพราะนอนันตรปัจจัย</B>
+<span class="LineNumber"> 018 </span>         <B>เพราะนสมนันตรปัจจัย</B>
+<span class="LineNumber"> 019 </span>         <B>เพราะนอุปนิสสยปัจจัย</B>

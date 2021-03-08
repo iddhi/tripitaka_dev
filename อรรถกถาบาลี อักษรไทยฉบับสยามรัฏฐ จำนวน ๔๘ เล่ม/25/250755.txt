@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  วารณตฺเถรคาถาวณฺณนา  หน้า 755
+	
+<span class="LineNumber"> 002 </span>	อิทานิ  ตํ   สสมฺภาเร สมถวิปสฺสนาธมฺเม นิโยเชนฺโต
+<span class="LineNumber"> 003 </span>สุภาสิตสฺสาติอาทินา ตติยํ  คาถมาห ฯ
+<span class="LineNumber"> 004 </span>	ตตฺถ สุภาสิตสฺส สิกฺเขถาติ อปฺปิจฺฉกถาทิเภทํ สุภาสิตํ 
+<span class="LineNumber"> 005 </span>ปริยตฺติธมฺมํ  สวนธารณปริปุจฺฉาทิวเสน (๑) สิกฺเขยฺย ฯ
+<span class="LineNumber"> 006 </span>	สมณูปาสนสฺส จาติ สมิตปาปานํ สมณานํ กลฺยาณ-
+<span class="LineNumber"> 007 </span>มิตฺตานํ  อุปาสกานํ  กาเลน  กาลํ อุปสงฺกมิตฺวา ปยิรุปาสนฺเจว 
+<span class="LineNumber"> 008 </span>ปฏิปตฺติยา เตสํ  สมีปจริยฺจ  สิกฺเขยฺย ฯ 
+<span class="LineNumber"> 009 </span>	เอกาสนสฺส  จ  รโห  จิตฺตวูปสมสฺส  จาติ  เอกสฺส 
+<span class="LineNumber"> 010 </span>อสหายสฺส  กายวิเวกํ  อนุพฺรูหนฺตสฺส  รโห  กมฺมฏฺ€านานุ-
+<span class="LineNumber"> 011 </span>โยควเสน  อาสนํ  นิสชฺชํ สิกฺเขยฺย ฯ  เอวํ  กมฺมฏฺ€านํ 
+<span class="LineNumber"> 012 </span>อนุยุฺชนฺโต ภาวนํ จ มตฺถกํ ปาเปนฺโต สมุจฺเฉทวเสน 
+<span class="LineNumber"> 013 </span>กิเลสานํ  จิตฺตสฺส  วูปสมฺจ  สิกฺเขยฺย ฯ  ยาหิ  อธิสีลสิกฺขาทีหิ  (๒) 
+<span class="LineNumber"> 014 </span>กิเลสา อจฺจนฺตเมว  วูปสนฺตา  ปหีนา  โหนฺติ ตา มคฺคผลสิกฺขา (๓)
+<span class="LineNumber"> 015 </span>สิกฺขนฺตสฺส อจฺจนฺตเมว จิตฺตํ  วูปสนฺตํ  นาม โหตีติ ฯ 
+<span class="LineNumber"> 016 </span>คาถาปริโยสาเน วิปสฺสนํ วฑฺเฒตฺวา อรหตฺตํ ปาปุณิ ฯ เตน 
+<span class="LineNumber"> 017 </span>วุตฺตํ อปทาเน (๔)  
+<span class="LineNumber"> 018 </span>		อชฺโฌคาเหตฺวา หิมวํ (๕)  มนฺเต วาเจมหํ ตทา  
+<span class="LineNumber"> 019 </span>		จตุปฺาสสหสฺสานิ  สิสฺสา มยฺหํ อุปฏฺ€หห ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. สวณธารณปริจยปริปุจฺฉาทิวเสน ฯ 
+<span class="LineNumber"> 021 </span># ๒. สี. สิกฺเขยฺยาติ อธิสีลสิกฺขาทีหิ ฯ  ๓. สี. ยุ. โหนฺติ นาม
+<span class="LineNumber"> 022 </span># มคฺคผลสิกฺขาย ฯ  ๔. ขุ. อ. ๓๓/๖๐/๘๔ ฯ 
+<span class="LineNumber"> 023 </span># ๕. สฺยา. อชฺโฌคเหตฺวา หิมวนฺตํ ฯ

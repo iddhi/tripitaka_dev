@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                   ๘.  <B>นเหตุธรรม  อาศัยนเหตุธรรม    และธรรมที่ไม่ใช่ 
+<span class="LineNumber"> 002 </span>นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 003 </span>                   ๙.  <B>เหตุธรรม     และนเหตุธรรม     อาศัยนเหตุธรรม
+<span class="LineNumber"> 004 </span>และธรรมที่ไม่ใช่นเหตุธรรม  เกิดขึ้น   เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 005 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>           [๕๘]  ในเหตุปัจจัย  มี ๙ วาระ  ในอารัมมณปัจจัย มี ๙ วาระ ฯลฯ
+<span class="LineNumber"> 007 </span>ในอวิคตปัจจัย  มี ๙  วาระ.
+<span class="LineNumber"> 008 </span>           สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี   พึงให้พิสดาร.
+<span class="LineNumber"> 009 </span>                                  <I>นเหตุทุกเหตุทุกะ  จบ</I>
+
+<span class="LineNumber"> 010 </span>                              <H1>๒.  นสเหตุกทุกสเหตุกทุกะ</H1>
+<span class="LineNumber"> 011 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 012 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>                                        <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>           [๕๙] ๑.  <B>สเหตุกธรรม       อาศัยธรรมที่ไม่ใช่สเหตุกธรรม
+<span class="LineNumber"> 015 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>                     ๒. <B>อเหตุกธรรม       อาศัยธรรมที่ไม่ใช่สเหตุกธรรม
+<span class="LineNumber"> 017 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>

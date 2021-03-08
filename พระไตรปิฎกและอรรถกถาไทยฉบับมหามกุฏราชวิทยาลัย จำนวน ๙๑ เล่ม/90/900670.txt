@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                 		<H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>		[๑๘๘๑]  ในเหตุปัจจัย มี ๑ วาระ     ในอารัมมณปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 004 </span>          	สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  มี ๑ วาระ  ทุกปัจจัย.
+
+<span class="LineNumber"> 005 </span>				    <H2>มัคคาธิปติบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 006 </span>	                         	     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 007 </span>                             	      <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 008 </span>		[๑๘๘๒]  ๑.  มัคคาธิปติธรรนที่เป็นอรณธรรม    อาศัยมัคคา-
+<span class="LineNumber"> 009 </span>ธิปติธรรมที่เป็นอรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                	   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๑๘๘๓]  ในเหตุปัจจัย  มี ๑ วาระ    ในอารัมมณปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 013 </span>          	สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  มี ๑ วาระ  ทุกปัจจัย.
+<span class="LineNumber"> 014 </span>		  	      <I>สรณทุกมัคคารัมมณติกะ  จบ</I> 

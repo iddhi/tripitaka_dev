@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  460
+
+<span class="LineNumber"> 002 </span>สทฺธึ  ปณฺณรสโยชนมคฺคํ  คนฺตฺวา  วนทฺวาเร €ตฺวา ปุรโต
+<span class="LineNumber"> 003 </span>ปณฺณรสโยชนมคฺคํ อาจิกฺขนฺตา อาหํสุ  
+<span class="LineNumber"> 004 </span>	[๑๑๒๑]ตคฺฆ เต มยมกฺขาม	ยถาปิ กุสลา ตถา  
+<span class="LineNumber"> 005 </span>		ราชิสี ยตฺถ สมฺมนฺติ	อาหุตคฺคี สมาหิตา  
+<span class="LineNumber"> 006 </span>		เอส เสโล มหาราช	ปพฺพโต คนฺธมาทโน  
+<span class="LineNumber"> 007 </span>		ยตฺถ ตฺวํ สห ปุตฺเตหิ	สห ภริยาย จจฺฉสิ  
+<span class="LineNumber"> 008 </span>	[๑๑๒๒]ตํ เจตา อนุสาสึสุ	อสฺสุเนตฺตา รุทมฺมุขา(๑)  
+<span class="LineNumber"> 009 </span>		อิโต คจฺฉ มหาราช	อุชุํ เยนุตฺตรา มุโข  
+<span class="LineNumber"> 010 </span>		อถ ทกฺขสิ ภทฺทนฺเต	วิปุลํ นาม ปพฺพตํ  
+<span class="LineNumber"> 011 </span>		นานาทุมคณากิณฺณํ	สีตจฺฉายํ มโนรมํ  
+<span class="LineNumber"> 012 </span>		ตมติกฺกม(๒) ภทฺทนฺเต	อถ ทกฺขสิ อาปกํ(๓)  
+<span class="LineNumber"> 013 </span>		นทึ เกตุมตึ นาม		คมฺภีรํ คิริคพฺภรํ  
+<span class="LineNumber"> 014 </span>		ปุถุโลมมจฺฉากิณฺณํ	สุปติตฺถํ มโหทกํ  
+<span class="LineNumber"> 015 </span>		ตตฺถ นหาตฺวา ปิวิตฺวา จ  อสฺสาเสตฺวา สปุตฺตเก  
+<span class="LineNumber"> 016 </span>		อถ ทกฺขสิ ภทฺทนฺเต	นิโคฺรธํ มธุวิปฺผลํ  
+<span class="LineNumber"> 017 </span>		รมฺมเก สิขเร ชาตํ		สีตจฺฉายํ มโนรมํ  
+<span class="LineNumber"> 018 </span>		อถ ทกฺขสิ ภทฺทนฺเต	นาลิกํ นาม ปพฺพตํ  
+<span class="LineNumber"> 019 </span>		นานาทิชคณากิณฺณํ	เสลํ กึปุริสายุตํ  
+<span class="LineNumber"> 020 </span>		ตสฺส อุตฺตรปุพฺเพน	มุจลินฺโท นามโส สโร  
+<span class="LineNumber"> 021 </span># ๑. ม. รุทํมุขา ฯ  ๒. ม. ตมติกฺกมฺม ฯ  ๓. ม. อาปคํ ฯ

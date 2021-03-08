@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๔.  ขัตติยสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>                                 <H1>ว่าด้วยผู้ประเสริฐสุด</H1>
+
+<span class="LineNumber"> 003 </span>         [๓๐]   เทวดานั้น    ครั้นยืนอยู่   ณ   ที่ควรส่วนข้างหนึ่งแล้วแล    ได้
+<span class="LineNumber"> 004 </span>กล่าวคาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 005 </span>                             <B>กษัตริย์ประเสริฐสุดกว่าสัตว์  ๒ เท้า
+<span class="LineNumber"> 006 </span>                   โคมีกำลังประเสริฐสุดกว่าสัตว์  ๔ เท้า
+<span class="LineNumber"> 007 </span>                   ภรรยาที่เป็นนางกุมารีประเสริฐสุดกว่า
+<span class="LineNumber"> 008 </span>                   ภรรยาทั้งหลาย     บุตรใดเป็นผู้เกิดก่อน
+<span class="LineNumber"> 009 </span>                   บุตรนั้นประเสริฐสุดกว่าบุตรทั้งหลาย.</B>
+<span class="LineNumber"> 010 </span>         [๓๑]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 011 </span>                             <B>พระสัมพุทธเจ้าประเสริฐสุดกว่าสัตว์
+<span class="LineNumber"> 012 </span>                   ๒ เท้า สัตว์อาชาไนยประเสริฐสุดกว่าสัตว์
+<span class="LineNumber"> 013 </span>                   ๔ เท้า  ภรรยาที่ปรนนิบัติดี  ประเสริฐสุด
+<span class="LineNumber"> 014 </span>                   กว่าภรรยาทั้งหลาย    บุตรใดเป็นผู้เชื่อฟัง
+<span class="LineNumber"> 015 </span>                   บุตรนั้น  ประเสริฐสุดกว่าบุตรทั้งหลาย.</B>

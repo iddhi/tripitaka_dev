@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>อุเปกขินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>อุเปกขินทริยมูละ   สัทธินทริย  ฯลฯ  ปัญญินทริย  มนินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๘๙๒]   อุเปกขินทรีย์จักเกิดในภูมิใด,     สัทธินทรีย์  ฯลฯ
+<span class="LineNumber"> 004 </span>ปัญญินทรีย์  มนินทรีย์ก็จักเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า   มนินทรีย์จักเกิดในภูมิใด,    อุเปกขินทรีย์ก็จักเกิดใน
+<span class="LineNumber"> 007 </span>ภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่. 
+<span class="LineNumber"> 009 </span><I>จบ  อุเปกขินทริยมูละ  สัทธินทริย  ฯลฯ  ปัญญินทริย   มนินทริยมูลี</I>
+<span class="LineNumber"> 010 </span>                                 <I>อุเปกขินทริยมูล   จบ</I>

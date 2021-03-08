@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>	<B>องค์     ทั้งภริยาทั้งข้าพระองค์เป็นผู้เชื่อฟัง
+<span class="LineNumber"> 002 </span>    	ประพฤติพรหมจรรย์ในพระสุคต          ข้า-
+<span class="LineNumber"> 003 </span>     	พระองค์เป็นผู้ถึงฝั่งแห่งชาติ      และมรณะ
+<span class="LineNumber"> 004 </span>    	จะเป็นผู้กระทำซึ่งที่สุดแห่งทุกข์ได้.</B>
+<span class="LineNumber"> 005 </span>           มารผู้มีบาปได้กล่าวคาถาว่า
+<span class="LineNumber"> 006 </span>      	            <B>คนย่อมเพลิดเพลินเพราะอุปธิทั้ง
+<span class="LineNumber"> 007 </span>   	หลาย   เปรียบเหมือนบุคคลผู้มีบุตร   ย่อม
+<span class="LineNumber"> 008 </span>   	เพลิดเพลินเพราะบุตร    บุคคลมีโค    ย่อม  
+<span class="LineNumber"> 009 </span>   	เพลิดเพลินเพราะโค ฉะนั้น   คนผู้ไม่มีอุปธิ
+<span class="LineNumber"> 010 </span>   	ย่อมไม่เพลิดเพลินเลย.</B>
+<span class="LineNumber"> 011 </span>           พระผู้มีพระภาคเจ้าได้ตรัสพระคาถาตอบว่า
+<span class="LineNumber"> 012 </span>       	             <B>คนย่อมเศร้าโศกเพราะอุปธิทั้งหลาย
+<span class="LineNumber"> 013 </span>   	เปรียบเหมือนบุคคลผู้มีบุตร   ย่อมเศร้าโศก
+<span class="LineNumber"> 014 </span>  	เพราะบุตร   บุคคลผู้มีโค       ย่อมเศร้าโศก
+<span class="LineNumber"> 015 </span>    	เพราะโค   ฉะนั้น    คนผู้ไม่มีอุปธิ    ย่อมไม่
+<span class="LineNumber"> 016 </span>       	เศร้าโศกเลย.</B>
+<span class="LineNumber"> 017 </span>                                                <I>จบธนิยสูตรที่  ๒</I>

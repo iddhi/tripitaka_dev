@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                             <h1>๕.  พันธนสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๑๘๖]   เทวดาทูลถามว่า
+<span class="LineNumber"> 003 </span>                             <B>โลกมีอะไรหนอเป็นเครื่องผูกไว้
+<span class="LineNumber"> 004 </span>                   อะไรหนอเป็นเครื่องเที่ยวไปของโลกนั้น
+<span class="LineNumber"> 005 </span>                   เพราะละเสียได้ซึ่งอะไร    จึงตัดเครื่องผูก 
+<span class="LineNumber"> 006 </span>                   ได้หมด.</B>
+<span class="LineNumber"> 007 </span>         [๑๘๗]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 008 </span>                             <B>โลกมีความเพลิดเพลินเป็นเครื่องผูก
+<span class="LineNumber"> 009 </span>                   ไว้    วิตกเป็นเครื่องเที่ยวไปของโลกนั้น
+<span class="LineNumber"> 010 </span>                   เพราะละตัณหาเสียได้ขาด  จึงตัดเครื่องผูก
+<span class="LineNumber"> 011 </span>                   ได้หมด.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>กุสลกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๘๘]  <B>สกวาที</B>  นิพพานธาตุ เป็นกุศล หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. นิพพานธาตุ    เป็นธรรมมีอารมณ์   ความนึก    ฯลฯ
+<span class="LineNumber"> 005 </span>ความตั้งใจแห่งนิพพานธาตุนั้น  มีอยู่  หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. นิพพานธาตุ  เป็นธรรมไม่มีอารมณ์  ความนึก   ฯลฯ
+<span class="LineNumber"> 008 </span>ความตั้งใจแห่งนิพพานนั้น  ไม่มี  มิใช่หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. หากว่า นิพพานธาตุ เป็นธรรมไม่มีอารมณ์  ความนึก
+<span class="LineNumber"> 011 </span>ฯลฯ  ความตั้งใจแห่งนิพพานธาตุนั้น  ไม่มี  ก็ต้องไม่กล่าวว่า  นิพพานธาตุ
+<span class="LineNumber"> 012 </span>เป็นกุศล.
+<span class="LineNumber"> 013 </span>         [๑๗๘๓]  ส. อโลภะ  เป็นกุศล  เป็นธรรมมีอารมณ์ ความนึก  ฯลฯ
+<span class="LineNumber"> 014 </span>ความตั้งใจแห่งอโลภะนั้น  มีอยู่ หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                       ส. นิพพานธาตุ  เป็นกุศล  เป็นธรรมมีอารมณ์ ความนึก
+<span class="LineNumber"> 017 </span>ฯลฯ ความตั้งใจแห่งนิพพานธาตุนั้น มีอยู่  หรือ  ?
+<span class="LineNumber"> 018 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 019 </span>                       ส. อโทสะ เป็นกุศล  ฯลฯ อโมหะ เป็นกุศล  ฯลฯ  ศรัทธา
+<span class="LineNumber"> 020 </span>วิริยะ  สติ  สมาธิ  ฯลฯ  ปัญญา  เป็นกุศล  เป็นธรรมมีอารมณ์  ความนึก
+<span class="LineNumber"> 021 </span>ฯลฯ  ความตั้งใจแห่งปัญญานั้น มีอยู่  หรือ ?
+<span class="LineNumber"> 022 </span>                       ป.  ถูกแล้ว.

@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>	พระอโนมทัสสี  พระสิทธัตถะ  พระเวสสภู   ด้วยยานคือวอ.
+<span class="LineNumber"> 002 </span>	พระนารทะเสด็จออกอภิเนษกรมณ์ด้วยพระบาท.
+<span class="LineNumber"> 003 </span>	พระโสภิตะ   พระปทุมุตตระ  พระธัมมทัสสีและพระกัสสปะ     ออก
+<span class="LineNumber"> 004 </span>อภิเนษกรมณ์<B>ด้วยปราสาท.</B>
+<span class="LineNumber"> 005 </span>	<B>นี้ชื่อว่า  ยานเวมัตตะ.</B>
+<span class="LineNumber"> 006 </span> 		      	 <H2>โพธิรุกขเวมัตตะ</H2>
+<span class="LineNumber"> 007 </span>	ที่ชื่อว่า  <B>โพธิรุกขเวมัตตะ</B>  ความแตกต่างกันแห่งโพธิพฤกษ์  ได้แก่
+<span class="LineNumber"> 008 </span>พระผู้มีพระภาคเจ้าทีปังกร  มีโพธิพฤกษ์  ชื่อต้นกปิตนะ  มะขวิด.
+<span class="LineNumber"> 009 </span>	พระผู้มีพระภาคเจ้าโกณฑัญญะ     มีโพธิพฤกษ์ชื่อต้นสาลกัลยาณี 
+<span class="LineNumber"> 010 </span><B>ขานาง</B>
+<span class="LineNumber"> 011 </span>	พระมังคละ  พระสุมนะ  พระเรวตะ   พระโสภิตะ   มีโพธิพฤกษ์ชื่อ
+<span class="LineNumber"> 012 </span><B>ต้นนาคะ   กากะทิง.</B>
+<span class="LineNumber"> 013 </span>	พระอโนมทัสสี  มีโพธิพฤกษ์ชื่อ   ต้นอัชชุนะ  กุ่ม.
+<span class="LineNumber"> 014 </span>	พระปทุมะและพระนารทะ   มีโพธิพฤกษ์ชื่อ   <B>ต้นมหาโสณะ  อ้อย
+<span class="LineNumber"> 015 </span>ช้างใหญ่.</B>
+<span class="LineNumber"> 016 </span>	พระปทุมุตตระ  มีโพธิพฤกษ์ชื่อ  <B>ต้นสลละหรือสาละ.</B>
+<span class="LineNumber"> 017 </span>	พระสุเมธะ   มีโพธิพฤกษ์ชื่อ  <B>ต้นนีปะ  กะทุ่ม.</B>	
+<span class="LineNumber"> 018 </span>	พระสุชาตะ  มีโพธิพฤกษ์ชื่อ   <B>ต้นเวฬุ   ไผ่.</B>
+<span class="LineNumber"> 019 </span>	พระปิยทัสสี  มีโพธิพฤกษ์ชื่อ  <B>ต้นกกุธะ  กุ่ม.</B>
+<span class="LineNumber"> 020 </span>	พระอัตถทัสสี  โพธิพฤกษ์ชื่อ  <B>ต้นจัมปกะ  จำปา.</B>
+<span class="LineNumber"> 021 </span>	พระธัมมทัสสี  โพธิพฤกษ์ชื่อ   <B>ต้นรัตตกุรวกะ<SUP>๑</SUP>  ซ้องแมวแดง.</B>
+<span class="LineNumber"> 022 </span>	พระสิทธัตถะ.  โพธิพฤกษ์ชื่อ  <B>ต้นกณิการะ   กรรณิการ์.</B>
+<span class="LineNumber"> 023 </span>	พระติสสะ.  โพธิพฤกษ์ชื่อ   <B>ต้นอสนะ  ประดู่.</B>
+
+<span class='footnote'>  ๑.  บาลีในธัมมทัสสีพุทธวงศ์ข้อ  ๑๖  เป็นต้นพิมพชาละ  มะพลับ</span>

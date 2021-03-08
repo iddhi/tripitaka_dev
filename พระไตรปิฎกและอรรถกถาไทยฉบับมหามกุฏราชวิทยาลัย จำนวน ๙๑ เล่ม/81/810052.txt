@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ทานกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๑๓๙]  <B>สกวาที</B>  ทาน  คือ  เจตสิกธรรม  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>    ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. จะให้เจตสิกธรรมแก่คนอื่น  ๆ  ก็ได้หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 006 </span>                       ส. จะให้เจตสิกธรรมแก่คนอื่น ๆ  ก็ได้ หรือ ?
+<span class="LineNumber"> 007 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                       ส. จะให้ผัสสะแก่คนอื่น ๆ  ก็ได้ หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>                       ส. จะให้เวทนา  ฯลฯ   สัญญา  เจตนา  สัทธา  วิริยะ  สติ
+<span class="LineNumber"> 011 </span>สมาธิ  ฯลฯ  ปัญญา แก่คนอื่น ๆ  ก็ได้หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 013 </span>         [๑๑๔๐]  ป. ไม่พึงกล่าวว่า  ทาน  คือเจตสิกธรรม หรือ ?
+<span class="LineNumber"> 014 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                       ป. ทาน   มีผลไม่น่าปรารถนา   มีผลไม่น่าใคร่   มีผลไม่
+<span class="LineNumber"> 016 </span>เป็นที่ฟูใจ มีผลแสลง  มีทุกข์เป็นกำไร   มีทุกข์เป็นวิบาก  หรือ ?
+<span class="LineNumber"> 017 </span>                       ส. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 018 </span>                       ป. ทานมีผลน่าปรารถนา   มีผลน่าใคร่   มีผลเป็นที่ฟูใจ
+<span class="LineNumber"> 019 </span>มีผลไม่แสลง   มีสุขเป็นกำไร   มีสุขเป็นวิบาก  มิใช่หรือ  ?
+<span class="LineNumber"> 020 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 021 </span>                       ป. หากว่า  ทาน  มีผลน่าปรารถนา  มีผลน่าใคร่  มีผล

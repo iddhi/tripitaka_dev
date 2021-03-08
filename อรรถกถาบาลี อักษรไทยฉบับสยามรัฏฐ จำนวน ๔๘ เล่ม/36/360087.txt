@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  36  มหาชนกชาตกํ  หน้า  87
+
+<span class="LineNumber"> 002 </span>		กทาหํ อนฺเตปุรํ รมฺมํ		สุจิคนฺธํ มโนรมํ  
+<span class="LineNumber"> 003 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 004 </span>		กทาหํ กูฏาคาเร จ		วิภตฺเต ภาคโส มิเต  
+<span class="LineNumber"> 005 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 006 </span>		กทาหํ กูฏาคาเร จ		สุธามตฺติกเลปเน  
+<span class="LineNumber"> 007 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 008 </span>		กทาหํ กูฏาคาเร จ		สุจิคนฺเธ มโนรเม  
+<span class="LineNumber"> 009 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 010 </span>		กทาหํ กูฏาคาเร จ		สุวิลิตฺเต (๑) จนฺทนโผสิเต  
+<span class="LineNumber"> 011 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 012 </span>		กทาหํ สุวณฺณปลฺลงฺเก	โคณเก (๒) จิตฺตสนฺถเร (๓)
+<span class="LineNumber"> 013 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 014 </span>		กทาหํ มณิปลฺลงฺเก		โคณเก (๒) จิตฺตสนฺถเร  (๓)
+<span class="LineNumber"> 015 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 016 </span>		กทาหํ กปฺปาสโกเสยฺยํ	โขมโกทุมฺพรานิ (๔) จ  
+<span class="LineNumber"> 017 </span>		ปหาย ปพฺพชิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 018 </span>		กทาหํ โปกฺขรณี รมฺมา		จากวากูปกุชฺชิตา  (๕)
+<span class="LineNumber"> 019 </span>		มณฺฑาลเกหิ สฺฉนฺนา	ปทุมุปฺปลเกหิ จ  
+<span class="LineNumber"> 020 </span># ๑. ส. ม. ยุ. ลิตฺเต ฯ  ๒. ม. ยุ. โคนเก ฯ  ๓. ส. ม. ยุ. จิตฺตสนฺถเต ฯ
+<span class="LineNumber"> 021 </span># ๔. ส. จากวากปกูชิตา ฯ  ม. จกฺกวากปกูชิตา ฯ  ยุ. จกฺกวากูปกูชิตา ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 261
+
+<span class="LineNumber"> 002 </span>	[๘๙๙]เก คนฺธพฺเพ จ รกฺขเส  
+<span class="LineNumber"> 003 </span>		นาเค เก กึปุริเส จ มานุเส  
+<span class="LineNumber"> 004 </span>		เก ปณฺฑิเต สพฺพกามทเท  
+<span class="LineNumber"> 005 </span>		ทีฆรตฺตํ ภตฺตา เม ภวิสฺสตีติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  เก  คนฺธพฺเพ  จ  รกฺขเส  นาเคติ  โก  คนฺธพฺโพ  วา  
+<span class="LineNumber"> 007 </span>รกฺขโส  วา  นาโค  วา ฯ  เก  ปณฺฑิเต  สพฺพกามทเทติ โก
+<span class="LineNumber"> 008 </span>เอเตสุ  คนฺธพฺพาทีสุ  ปณฺฑิโต  สพฺพกามํ  ทาตุํ  สมตฺโถ  โย(๑)  
+<span class="LineNumber"> 009 </span>วิธุรสฺส  ทหยมํสํ  โทหฬนิยา(๒)  มม  มาตุ  มโนรถํ  มตฺถกํ 
+<span class="LineNumber"> 010 </span>ปาเปตฺวา  มยฺหํ  ทีฆรตฺตํ ภตฺตา ภวิสฺสตีติ ฯ  
+<span class="LineNumber"> 011 </span>	ตสฺมึ  ขเณ  เวสฺสวณมหาราชสฺส  ภาคิเนยฺโย  ปุณฺณโก  
+<span class="LineNumber"> 012 </span>นาม  ยกฺขเสนาปติ  ติคาวุตปฺปมาณํ  มโนมยสินฺธวํ  อภิรุหิตฺวา(๓)  
+<span class="LineNumber"> 013 </span>กาฬปพฺพตมตฺถเก  มโนสิลาตเล  ยกฺขสมาคมํ  คจฺฉนฺโต  ตํ  
+<span class="LineNumber"> 014 </span>ตสฺสา(๔)  คีตสทฺทํ  อสฺโสสิ ฯ  อนนฺตเร  อตฺตภาเว  อนุภูตปุพฺพาย
+<span class="LineNumber"> 015 </span>อิตฺถิยา  คีตสทฺโท  ฉวิอาทีนิ  ฉินฺทิตฺวา  อฏฺ€ิมิฺชํ  อาหจฺจ  
+<span class="LineNumber"> 016 </span>อฏฺ€าสิ ฯ  โส [๕] ปฏิพทฺธจิตฺโต  หุตฺวา  อสฺสํ(๖)  ปริวตฺติตฺวา(๗)  
+<span class="LineNumber"> 017 </span>สินฺธวปิฏฺเ€  นิสินฺโนว  ภทฺเท  อหํ  มม  ปฺาย  ธมฺเมน 
+<span class="LineNumber"> 018 </span>สเมน  วิธุรสฺส  หทยํ  อาเนตุํ  สมตฺโถ มา จินฺตยีติ ตํ
+<span class="LineNumber"> 019 </span>อสฺสาเสนฺโต อฏฺ€มํ คาถมาห  
+<span class="LineNumber"> 020 </span># ๑. ม. โส ฯ  ๒. ม. โทหฬินิยา ฯ  ๓. ม. อภิรุยฺห ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ตาย ฯ  ๕. ม.ตาย ฯ  ๖. ม.เอตฺถนฺตเร ตายาติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. อยํ ปาโ€ นตฺถิ ฯ  ๗. ม.นิวตฺติตฺวา ฯ

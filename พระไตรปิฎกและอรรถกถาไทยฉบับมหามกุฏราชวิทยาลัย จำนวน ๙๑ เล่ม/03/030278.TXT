@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ด้วยความเต็มใจ  ของบุรุษผู้มีชื่อนี้  ภิกษุรับคำ  นำไปบอก  และกลับมา
+<span class="LineNumber"> 002 </span>บอก ต้องอาบัติสังฆาทิเสส....ขัณฑจักร...พัทธจักร...
+<span class="LineNumber"> 003 </span>		              <I>ฉันทวาสินีจักร  จบ</I>
+
+<span class="LineNumber"> 004 </span>		              <H1>๓.  โภควาสินีจักร</H1>
+<span class="LineNumber"> 005 </span>                                   <H1>นิกเขปบท</H1>
+<span class="LineNumber"> 006 </span>	บุรุษวานภิกษุว่า  ข้าแต่พระคุณเจ้า    ขอพระคุณเจ้าจงไปบอกสตรี
+<span class="LineNumber"> 007 </span>มารดาปกครองผู้มีชื่อนี้ว่า     ข่าวว่า     ขอท่านจงเป็นภรรยาที่อยู่เพราะ
+<span class="LineNumber"> 008 </span>สมบัติ   ของบุรุษผู้มีชื่อนี้  ภิกษุรับคำ นำไปบอก  และกลับมาบอก ต้อง
+<span class="LineNumber"> 009 </span>อาบัติสังฆาทิเสส...ขัณฑจักร...พัทธจักร...
+<span class="LineNumber"> 010 </span>		           <I>โภควาสินีจักร  จบ</I>
+
+<span class="LineNumber"> 011 </span>	                      <H1>๔.  ปฏวาสินีจักร</H1>
+<span class="LineNumber"> 012 </span>	                             <H1>นิกเขปบท</H1>
+<span class="LineNumber"> 013 </span>	บุรุษวานภิกษุว่า   ข้าแต่พระคุณเจ้า   ขอพระคุณเจ้าจงไปบอกสตรี
+<span class="LineNumber"> 014 </span>มารดาปกครองผู้มีชื่อนี้ว่า     ข่าวว่า     ขอท่านจงเป็นภรรยาที่อยู่เพราะ
+<span class="LineNumber"> 015 </span>ผ้า    ของบุรุษผู้มีชื่อนี้    ภิกษุรับคำ  นำไปบอก  และกลับมาบอก  ต้อง
+<span class="LineNumber"> 016 </span>อาบัติสังฆาทิเสส...  ขัณฑจักร...พัทธจักร...
+<span class="LineNumber"> 017 </span>	  	              <I>ปฏวาสินีจักร  จบ</I>
+
+<span class="LineNumber"> 018 </span>	                     <H1>๕.   โอทปัตตกินีจักร</H1>
+<span class="LineNumber"> 019 </span>		                    <H1>นิเขปบท</H1>
+<span class="LineNumber"> 020 </span>	บุรุษวานภิกษุว่า   ข้าแต่พระคุณเจ้า    ขอพระคุณเจ้าจงไปบอกสตรี

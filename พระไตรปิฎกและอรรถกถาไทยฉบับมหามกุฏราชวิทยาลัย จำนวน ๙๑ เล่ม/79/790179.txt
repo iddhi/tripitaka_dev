@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                          <H2>ปรมัตถทีปนี</H2>    
+<span class="LineNumber"> 002 </span>                  <H2>อรรถกถาปัญจปกรณ์</H2>
+<span class="LineNumber"> 003 </span>          <H2>อรรถกถาปุคคลปัญญัติปกรณ์</H2>
+<span class="LineNumber"> 004 </span>                            <H2>อารัมภกถา</H2>
+<span class="LineNumber"> 005 </span>         <B>พระศาสดา  ผู้ทรงประกาศประเภทแห่งธาตุ ครั้น
+<span class="LineNumber"> 006 </span>ทรงแสดงธาตุกถาปกรณ์     ซึ่งมีอรรถอันละเอียดใน
+<span class="LineNumber"> 007 </span>สุราลัยเทวโลกจบแล้ว  พระชินเจ้าผู้เป็นอัครบุคคลใน
+<span class="LineNumber"> 008 </span>โลก   ตรัสคัมภีร์ปุคคลปัญญัติใดไว้   อันแสดงถึงประ-
+<span class="LineNumber"> 009 </span>เภทแห่งบัญญัติ   ในลำดับแห่งธาตุกถานั้น.</B>
+<span class="LineNumber"> 010 </span>         <B>บัดนี้   ถึงโอกาสแห่งการพรรณนาคัมภีร์ปุคคล-
+<span class="LineNumber"> 011 </span>ปัญญัตินั้นแล้ว  เพราะฉะนั้นข้าพเจ้า  (พระพุทธโฆษา-
+<span class="LineNumber"> 012 </span>จารย์)   จักพรรณนาปกรณ์นั้น   ท่านทั้งหลายจงมีจิต
+<span class="LineNumber"> 013 </span>ตั้งมั่น  สดับพระสัทธรรมนั้น   เทอญ.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  30  หน้า  1
+
+<span class="LineNumber"> 002 </span>				ทุกนิปาตวณฺณนา  
+<span class="LineNumber"> 003 </span>				ทฬฺหวคฺควณฺณนา  
+
+<span class="LineNumber"> 004 </span>				ราโชวาทชาตกํ ฯ  
+<span class="LineNumber"> 005 </span>	ทฬฺหํ  ทฬฺหสฺส  ขิปตีติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต
+<span class="LineNumber"> 006 </span>ราโชวาทํ  อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 007 </span>	โส  เตสกุณชาตเก(๑)  อาวิภวิสฺสติ ฯ  เอกสฺมึ  ปน  ทิวเส  
+<span class="LineNumber"> 008 </span>โกสลราชา  เอกํ  อคติคตํ  ทุพฺพินิจฺฉยํ  อฏฺฏํ (๒)  วินิจฺฉินิตฺวา 
+<span class="LineNumber"> 009 </span>ภุตฺตปาตราโส  อลฺลหตฺโถ  ว  อลงฺกตรถํ  อภิรุยฺห  สตฺถุ  สนฺติกํ 
+<span class="LineNumber"> 010 </span>คนฺตฺวา  ผุลฺลปทุมสสฺสิริเกสุ  ปาเทสุ  นิปติตฺวา  สตฺถารํ  
+<span class="LineNumber"> 011 </span>วนฺทิตฺวา  เอกมนฺตํ  นิสีทิ ฯ  อถ  นํ  สตฺถา  เอตทโวจ  หนฺท
+<span class="LineNumber"> 012 </span>กุโต  นุ  ตฺวํ  มหาราช  อาคจฺฉสิ  ทิวาทิวสสฺสาติ ฯ  ภนฺเต 
+<span class="LineNumber"> 013 </span>อชฺช  เอกํ  อคติคตํ  ทุพฺพินิจฺฉยํ  อฏฺฏํ  วินิจฺฉินนฺโต  โอกาสํ
+<span class="LineNumber"> 014 </span>อลภิตฺวา  อิทานิ  ตํ  วิจาเรตฺวา (๓) ภุฺชิตฺวา  อลฺลหตฺโถ  ว
+<span class="LineNumber"> 015 </span>ตุมฺหากํ  อุปฏฺ€านํ  อาคโตมฺหีติ ฯ  สตฺถา  มหาราช  ธมฺเมน
+<span class="LineNumber"> 016 </span>สเมน  อฏฺฏวินิจฺฉยํ  นาม  กุสลํ  สคฺคมคฺโค  เอว (๔) อนจฺฉริยํ 
+<span class="LineNumber"> 017 </span>โข  ปเนตํ  ยํ  ตุมฺเห  มาทิสสฺส  สพฺพฺุสฺส  สนฺติกา  โอวาทํ 
+<span class="LineNumber"> 018 </span>ลภมานา  ธมฺเมน [๖] อฏฺฏํ  วินิจฺฉิเนยฺยาถ  เอตเทว  อจฺฉริยํ  
+<span class="LineNumber"> 019 </span># ๑. ขุ. ชา ๒๗/๒๔๓๘/๕๒๐ ฯ  ๒. สี. อฑฺฑํ ฯ  ๓. ม. ตเรตฺว ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. เอส ฯ  ๕. ม. สพฺพฺุพุทธสฺส ฯ  
+<span class="LineNumber"> 021 </span># ๖. ม. เอตฺถนฺตเร สเมนาติ ทิสสฺติ ฯ

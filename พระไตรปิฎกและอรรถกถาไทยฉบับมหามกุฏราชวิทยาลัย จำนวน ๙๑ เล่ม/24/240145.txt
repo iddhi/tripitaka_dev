@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                               <h1>๙. จตุจักกสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๗๔]   เทวดากล่าวว่า
+<span class="LineNumber"> 003 </span>                             <B>ข้าแต่พระองค์ผู้มีความเพียรมาก
+<span class="LineNumber"> 004 </span>                   สรีระมีจักร ๔ มีทวาร  ๙  เต็มด้วยของไม่ 
+<span class="LineNumber"> 005 </span>                   สะอาด ประกอบด้วยโลภะ ย่อมเป็นดังว่า
+<span class="LineNumber"> 006 </span>                   เปือกตม  ความออกไป  (จากทุกข์)  จักมี
+<span class="LineNumber"> 007 </span>                   ได้อย่างไร.</B>
+<span class="LineNumber"> 008 </span>         [๗๕]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>ตัดความผูกโกรธด้วย       กิเลสเป็น
+<span class="LineNumber"> 010 </span>                   เครื่องร้อยรัดด้วย  ความปรารถนาและ
+<span class="LineNumber"> 011 </span>                   ความโลภอันลามกด้วย    ถอนตัณหาอันมี
+<span class="LineNumber"> 012 </span>                   อวิชชาเป็นมูลเสียแล้วอย่างนี้  ความออก-
+<span class="LineNumber"> 013 </span>                   ไป  (จากทุกข์)  จึงจักมีได้.</B>

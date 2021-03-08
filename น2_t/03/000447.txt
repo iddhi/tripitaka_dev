@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                                  สังโยชน์ ๑๐
+<span class="LineNumber"> 002 </span>           กิเลสอันผูกใจสัตว์อยู่  เรียกว่าสังโยชน์  จำแนกออกเป็น ๑๐ คือ 
+<span class="LineNumber"> 003 </span>           ๑.  <B>สักกายทิฏฐิ</B>  คือ  ความเห็นเป็นเหตุถือตัวถือตน
+<span class="LineNumber"> 004 </span>           ๒.  <B>วิจิกิจฉา</B>  ความลังเลเป็นเหตุไม่แน่ใจในปฏิปทาเครื่องดำเนิน
+<span class="LineNumber"> 005 </span>ของตน
+<span class="LineNumber"> 006 </span>           ๓.  <B>ลีลพพตปรามาส</B>ความเชื่อถือศักดิ์สิทธิ์  ด้วยเข้าใจว่ามีได้
+<span class="LineNumber"> 007 </span>ด้วยศีลหรือด้วยพรตอย่างนั้นอย่างนี้
+<span class="LineNumber"> 008 </span>           ๔.  <B>กามราคะ</B>  ความกำหนัดด้วยอำนาจกิเลสกาม  เรียกแต่เพียง
+<span class="LineNumber"> 009 </span>ราคะ  ก็มี
+<span class="LineNumber"> 010 </span>           ๕.  <B>ปฏิฆะ</B>  ความกระทบกระทั่งในจิต  ได้แก่ความหงุดหงิดด้วย
+<span class="LineNumber"> 011 </span>อำนาจโทสะ  เรียกโทสะ  ตรงทีเดียวก็มี
+<span class="LineNumber"> 012 </span>           ๕  ข้อนี้เป็นสังโยชน์เบื้องต่ำ  คืออย่างหยาบ  เรียก  <B>โอรัมภาคิย-
+<span class="LineNumber"> 013 </span>สังโยชน์</B>
+<span class="LineNumber"> 014 </span>           ๖.  <B>รูปราคะ</B>  ความติดใจอยู่ในรูปธรรม  เช่น  ชอบใจในบุคคล
+<span class="LineNumber"> 015 </span>บางคน  หรือในพัสดุบางสิ่ง  หรือแม้ในวัตถุอันเป็นอารมณ์แห่งรูปฌาน
+<span class="LineNumber"> 016 </span>           ๗.  <B>อรูปราคะ</B>  ความติดใจในอรูปธรรม  เช่น  ติดใจในสุขเวทนา
+<span class="LineNumber"> 017 </span>           ๘.  <B>มานะ</B>  ความสำคัญว่าเป็นตัวเป็นนั่นเป็นนี่

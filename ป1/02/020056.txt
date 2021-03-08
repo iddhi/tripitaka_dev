@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>วิธีเปลี่ยน  วิภัตติ  และ  การันต์  
+<span class="LineNumber"> 002 </span>๑  เอา  อ  ที่สุดแห่ง  ราช  กับ  สิ  เป็น  อา,  กับ  โย  เป็น  อาโน.
+<span class="LineNumber"> 003 </span>๒  เอา  อ  กับ  อํ  เป็น  อานํ.  
+<span class="LineNumber"> 004 </span>๓  เอา  ราช  กับ  นา  เป็น  รญฺา,  หิ  นํ  สุ  อยู่หลัง  เอา  อ  แห่ง
+<span class="LineNumber"> 005 </span>     ราช  เป็น  อุ  แล้ว  ทีฆะ.
+<span class="LineNumber"> 006 </span>๔  เอา  ราช  กับ  ส  เป็น  รญฺโ  ราชิโน,  กับ  นํ  เป็น  รญฺํ.
+<span class="LineNumber"> 007 </span>๕  สุมา  วิภัตติ  มีคติ  แห่ง  นา  วิภัตติ.
+<span class="LineNumber"> 008 </span>๖  เอา  ราช  กับ  สฺมึ  เป็น  รญฺเ  ราชินิ.
+
+<span class="LineNumber"> 009 </span>	ศัพท์สมาส  มี  ราช  ศัพท์  เป็นที่สุด  เหมือน  มหาราช  แจก
+<span class="LineNumber"> 010 </span>อย่างนี้ก็ได้.
+<span class="LineNumber"> 011 </span>-------------------------------------------------------------------------------
+<span class="LineNumber"> 012 </span>		เอก.					พหุ.
+<span class="LineNumber"> 013 </span>ป. 	มหาราชา				มหาราชาโน
+<span class="LineNumber"> 014 </span>ทุ.	มหาราชํ				มหาราช
+<span class="LineNumber"> 015 </span>ต.	มหาราเชน			มหาราเชหิ	มหาราเชภิ
+<span class="LineNumber"> 016 </span>จ.	มหาราชสฺส  ฯเปฯ		มหาราชานํ
+<span class="LineNumber"> 017 </span>ปญฺ.	มหาราชสฺมา  ฯเปฯ		มหารเชหิ		มหาราเชภิ
+<span class="LineNumber"> 018 </span>ฉ.	มหาราชสฺส			มหาราชานํ
+<span class="LineNumber"> 019 </span>ส.	มหาราชสฺมึ ฯเปฯ		มหาราเชสุ
+<span class="LineNumber"> 020 </span>อา.	มหาราช				มหาราชาโน

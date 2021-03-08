@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>วิปาโกวิปากธัมมธัมโมติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๑๘๗]  <B>สกวาที</B>   วิบาก เป็นธรรมที่เป็นเหตุแห่งวิบาก หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. วิบากของวิบากนั้น    ก็เป็นธรรมที่เป็นเหตุแห่งวิบาก
+<span class="LineNumber"> 005 </span>หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. วิบากของวิบากนั้น   ก็เป็นธรรมที่เป็นเหตุแห่งวิบาก
+<span class="LineNumber"> 008 </span>หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. เมื่อเป็นอย่างนั้น  วิบากนั้น ๆ  ก็ไม่มีการทำที่สุดทุกข์
+<span class="LineNumber"> 011 </span>ไม่มีความขาดตอนแห่งวัฏฏะ ไม่มีอนุปาทาปรินิพพาน  หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 013 </span>         [๑๑๘๘]  ส. วิบาก เป็นธรรมที่เป็นเหตุแห่งวิบาก หรือ ?
+<span class="LineNumber"> 014 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                       ส. คำว่า    วิบาก    หรือว่าธรรมที่เป็นเหตุแห่งวิบากก็ดี
+<span class="LineNumber"> 016 </span>คำว่าธรรมที่เป็นเหตุแห่งวิบาก  หรือว่าวิบากก็ดี   คำทั้ง ๒ นี้ก็อย่างเดียว
+<span class="LineNumber"> 017 </span>กัน เสมอกัน  เท่ากัน  เหมือนกัน หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 019 </span>         [๑๑๘๙]  ส. วิบาก  เป็นธรรมที่เป็นเหตุแห่งวิบาก   หรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 021 </span>                       ส. วิบาก  กับธรรมที่เป็นเหตุแห่งวิบาก  ธรรมที่เป็นเหตุ
+<span class="LineNumber"> 022 </span>แห่งวิบาก  กับวิบาก   สหรคตกัน  เกิดร่วมกัน   ระคนกัน  สัมปยุตกัน  เกิด-

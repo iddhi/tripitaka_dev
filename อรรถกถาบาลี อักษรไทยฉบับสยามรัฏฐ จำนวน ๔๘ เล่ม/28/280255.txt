@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 28     หน้า  255
+
+<span class="LineNumber"> 002 </span>				สีลวคฺควณฺณนา  
+
+<span class="LineNumber"> 003 </span>				ลกฺขณชาตกํ  
+<span class="LineNumber"> 004 </span>	โหติ  สีลวตํ  อตฺโถติ  อิทํ  สตฺถา  ราชคหํ  อุปนิสฺสาย
+<span class="LineNumber"> 005 </span>เวฬุวเน  วิหรนฺโต  เทวทตฺตํ  อารพฺภ  กเถสิ ฯ  
+<span class="LineNumber"> 006 </span>	เทวทตฺตสฺส  วตฺถุ  ยาว  อภิมารปโยชนา  กณฺฑหาล-
+<span class="LineNumber"> 007 </span>ชาตเก(๑)  อาวิภวิสฺสติ  ยาว  ธนปาลกวิสฺสชฺชนา  ปน  จุลฺลหํส-
+<span class="LineNumber"> 008 </span>ชาตเก  อาวิภวิสฺสติ  ยาว  ป€วิปฺปเวสนา  พารสนิปาเต(๒)
+<span class="LineNumber"> 009 </span>สมุทฺทพาณิชชาตเก อาวิภวิสฺสติ ฯ  
+<span class="LineNumber"> 010 </span>	เอกสฺมึ  สมเย  เทวทตฺโต  ปฺจ  วตฺถูนิ  ยาจิตฺวา  อลภนฺโต  
+<span class="LineNumber"> 011 </span>สงฺฆํ  ภินฺทิตฺวา  ปฺจ  ภิกฺขุสตานิ  อาทาย  คยาสีเส  วิหรติ ฯ  
+<span class="LineNumber"> 012 </span>อถ  เตสํ  ภิกฺขูนํ  าณํ  ปริปากํ  อคมาสิ ฯ  ตํ  ตฺวา  
+<span class="LineNumber"> 013 </span>สตฺถา  เทฺว  อคฺคสาวเก  อามนฺเตสิ  สารีปุตฺตา  ตุมฺหากํ  
+<span class="LineNumber"> 014 </span>นิสฺสิตกา  ปฺจสตา  ภิกฺขู  เทวทตฺตสฺส  ลทฺธึ  โรเจตฺวา  เตน
+<span class="LineNumber"> 015 </span>สทฺธึ  คตา  อิทานิ  ปน  เตสํ  าณํ  ปริปากํ  คตํ  ตุมฺเห 
+<span class="LineNumber"> 016 </span>พหูหิ  ภิกฺขูหิ  สทฺธึ  ตตฺถ  คนฺตฺวา  เตสํ  ธมฺมํ  เทเสตฺวา  
+<span class="LineNumber"> 017 </span>เต  ภิกฺขู  มคฺคผเลหิ  ปโพเธตฺวา  คเหตฺวา  อาคจฺฉถาติ ฯ  เต
+<span class="LineNumber"> 018 </span>ตตฺเถว  คนฺตฺวา  เตสํ  ธมฺมํ  เทเสตฺวา  มคฺคผเลหิ  ปโพเธตฺวา 
+<span class="LineNumber"> 019 </span>ปุนทิวเส  อรุณุคฺคมนเวลาย  เต  ภิกฺขู อาทาย  เวฬุวนเมว 
+<span class="LineNumber"> 020 </span># ๑. ม. ขณฺฑหาลชาตเก ฯ  ๒. สี. ย. โสฬสนิปาเต ฯ 

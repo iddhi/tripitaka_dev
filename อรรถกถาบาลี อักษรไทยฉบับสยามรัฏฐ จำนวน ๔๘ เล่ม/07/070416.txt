@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๗  มูลปริยายวคฺควณฺณนา  หน้า  ๔๑๖
+		
+<span class="LineNumber"> 002 </span>	สมฺปชาโนติ  ตตฺถ  กตมํ  สมฺปชฺํฯ  ยา  ปฺา  
+<span class="LineNumber"> 003 </span>ปชานนา  ฯ เปฯ   สมฺมาทิฏฺ€ิฯ  อิทํ  วุจฺจติ  สมฺปชฺํฯ  อิมินา  
+<span class="LineNumber"> 004 </span>สมฺปชฺเน  อุเปโต  โหติ ฯ เปฯ  สมนฺนาคโต ฯ เตน วุจฺจติ 
+<span class="LineNumber"> 005 </span>สมฺปชาโนติฯ  
+<span class="LineNumber"> 006 </span>	สติมาติ  ตตฺถ  กตมา  สติฯ  ยา  สติ  อนุสฺสติ  ฯ เปฯ  
+<span class="LineNumber"> 007 </span>สมฺมาสติฯ  อยํ  วุจฺจติ  สติฯ  อิมาย  สติยา  อุเปโต  โหติ  ฯ เปฯ  
+<span class="LineNumber"> 008 </span>สมนฺนาคโตฯ  เตน  วุจฺจติ  สติมาติ ฯ 
+<span class="LineNumber"> 009 </span>	วิเนยฺย  โลเก  อภิชฺฌาโทมนสฺสนฺติ  ตตฺถ  กตโม  โลโกฯ  
+<span class="LineNumber"> 010 </span>เสฺวว  กาโย  โลโกฯ  ปฺจปิ  อุปาทานกฺขนฺธา  โลโกฯ  
+<span class="LineNumber"> 011 </span>อยํ  วุจฺจติ  โลโก. ตตฺถ กตมา อภิชฺฌาฯ  โย  ราโค  
+<span class="LineNumber"> 012 </span>สาราโค  อนุนโย  อนุโรโธ  นนฺทิ  นนฺทิราโค  จิตฺตสฺส  สาราโค
+<span class="LineNumber"> 013 </span>อยํ  วุจฺจติ  อภิชฺฌาฯ  ตตฺถ  กตมํ โทมนสฺสํ. ยํ เจตสิกํ 
+<span class="LineNumber"> 014 </span>อสาตํฯ  เจตสิกํ ทุกฺขํฯ  เจโตสมฺผสฺสชา อสาตา(๑) ฯ เป ฯ ทุกฺขา  
+<span class="LineNumber"> 015 </span>เวทนาฯ  อิทํ  วุจฺจติ  โทมนสฺสํฯ อิติ อยฺจ อภิชฺฌา  อิทฺจ  
+<span class="LineNumber"> 016 </span>โทมนสฺสํ  อิมมฺหิ โลเก วินีตา โหนฺติ ปฏิวินีตา  สนฺตา (๒)
+<span class="LineNumber"> 017 </span>สมิตา  วูปสนฺตา  อตฺถงฺคตา(๒)  อพฺภตฺถงฺคตา  อปฺปิตา  พฺยปฺปิตา  
+<span class="LineNumber"> 018 </span>โสสิตา  วิโสสิตา พฺยนฺตีกตาฯ  เตน  วุจฺจติ  วิเนยฺย  โลเก  
+<span class="LineNumber"> 019 </span>อภิชฺฌาโทมนสฺสนฺติฯ  เอวเมเตสํ ปทานํ  อตฺโถ  วุตฺโตฯ  เตน  
+<span class="LineNumber"> 020 </span>สห  อยํ  อฏฺ€กถานโย  ยถา  สํสนฺทติฯ  เอวํ  เวทิตพฺโพ ฯ
+<span class="LineNumber"> 021 </span># ๑. ม. เจโตสมฺผสฺสชํ อสาตํ ฯ  ๒. ม. สนฺตา วูปสนฺตา สมิตา วูปสมิตา
+<span class="LineNumber"> 022 </span># อตฺถงฺคตา ฯ

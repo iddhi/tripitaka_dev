@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>               <H1>อรรถกถาขันธสูตรที่  ๑๐</H1>
+<span class="LineNumber"> 002 </span>         ใน<B>ขันธสูตรที่  ๑๐</B>  รูปขันธ์เป็นกามาวจร  ขันธ์  ๔  ที่เหลือเป็นไป
+<span class="LineNumber"> 003 </span>ในภูมิ ๔  ด้วยการกำหนดรวบรวมธรรมทั้งหมด.  แต่ในพระสูตรนี้   พึง
+<span class="LineNumber"> 004 </span>ถือว่าเป็นไปในภูมิ ๓.
+<span class="LineNumber"> 005 </span>                            จบอรรถกถาขันธสูตรที่  ๑๐
+<span class="LineNumber"> 006 </span>                            <I>จบอรรถกถาปฐมวรรคที่  ๑</I>

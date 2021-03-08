@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>ปริญญาวาระ</H1>
+<span class="LineNumber"> 002 </span>                                 <H1>ปัจจุปันนวาระ  อนุโลม</H1>
+<span class="LineNumber"> 003 </span>                                        <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 004 </span><B>จักขุนทริยมูละ  โสตินทริยมูลี:-</B>
+<span class="LineNumber"> 005 </span>         [๑๓๓๔]   บุคคลใดกำลังรู้แจ้งจักขุนทรีย์,    บุคคลนั้นก็กำลัง
+<span class="LineNumber"> 006 </span>รู้แจ้งโสตินทรีย์   ใช่ไหม  ?                 
+<span class="LineNumber"> 007 </span>         ใช่.  
+<span class="LineNumber"> 008 </span>         ก็หรือว่า  บุคคลใดกำลังรู้แจ้งโสตินทรีย์,  บุคคลนั้นก็กำลังรู้แจ้ง
+<span class="LineNumber"> 009 </span>จักขุนทรีย์   ใช่ไหม   ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>                          <I>จบ  จักขุนทริยมูละ  โสตินทริยมูลี</I>
+
+<span class="LineNumber"> 012 </span><B>จักขุนทริยมูละ  โทมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 013 </span>         [๑๓๓๕]   บุคคลใดกำลังรู้แจ้งจักขุนทรีย์     บุคคลนั้นก็กำลัง
+<span class="LineNumber"> 014 </span>ละโทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ไม่ใช่.

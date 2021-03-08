@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  18
+
+<span class="LineNumber"> 002 </span>			สงฺคหิเตนสงฺคหิตปทวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  สงฺคหิเตนสงฺคหิตปทํ  ภาเชตุํ  สมุทยสจฺเจนาติอาทิ
+<span class="LineNumber"> 004 </span>อารทฺธํ ฯ ตตฺถ  ยํ  ขนฺธาทีหิ  สงฺคหิเตน  ขนฺธาทิวเสน  สงฺคหิตํ
+<span class="LineNumber"> 005 </span>ปุน  ตสฺเสว  ขนฺธาทีหิ สงฺคหํ  ปุจฺฉิตฺวา  วิสฺสชฺชนํ  กตํ 
+<span class="LineNumber"> 006 </span>ตํ  ขนฺธายตนธาตูสุ  เอกมฺปิ  สกลโกฏฺ€าสํ คเหตฺวา  €ิตปเทสุ 
+<span class="LineNumber"> 007 </span>น  ยุชฺชติ ฯ  สกเลน  หิ  ขนฺธาทิปเทน  อฺํ  ขนฺธาทิวเสน 
+<span class="LineNumber"> 008 </span>สงฺคหิตํ  นาม  นตฺถิ  ยํ  อตฺตโน  สงฺคาหกํ  สงฺคณฺหิตฺวา 
+<span class="LineNumber"> 009 </span>ปุน  เตเนว ขนฺธาทิวเสน  (๑)  สงฺคหํ  คจฺเฉยฺย  ตสฺมา  ตถารูปานิ 
+<span class="LineNumber"> 010 </span>ปทานิ  อิมสฺมึ วาเร น คหิตานิ ฯ  ยานิ  ปน  ปทานิ
+<span class="LineNumber"> 011 </span>สงฺขาเรกเทสํ  วา  อฺเน  อสมฺมิสฺสํ  ทีเปนฺติ  เวทเนกเทสํ 
+<span class="LineNumber"> 012 </span>วา สุขุมรูปํ วา สจฺเจกเทสํ (๒) วา ตานิ อิธ คหิตานิ ฯ เตสํ
+<span class="LineNumber"> 013 </span>อิทมุทฺทานํ
+<span class="LineNumber"> 014 </span>	เทฺว สจฺจา ปณฺณรสินฺทฺริยา	เอกาทส ปฏิจฺจปทา 
+<span class="LineNumber"> 015 </span>	อุทฺธํ ปน (๓) เอกาทส		โคจฺฉกปทเมตฺถ (๔) ตึสวิธาติ(๕) ฯ 
+<span class="LineNumber"> 016 </span>	ปฺหา  ปเนตฺถ  เทฺวเยว  โหนฺติ ฯ  ตตฺถ  ยํ  ปุจฺฉาย  อุทฺธฏํ 
+<span class="LineNumber"> 017 </span>ปทํ  ตเทว  เยหิ  ธมฺเมหิ  ขนฺธาทิวเสน  สงฺคหิตํ  เต  ธมฺเม 
+<span class="LineNumber"> 018 </span>สนฺธาย  สพฺพตฺถ  เอเกน  ขนฺเธนาติอาทิ  วุตฺตํ ฯ  ตตฺรายํ  นโย
+<span class="LineNumber"> 019 </span>สมุทยสจฺเจน  หิ  ตณฺหาวชฺชา เสสสงฺขารา ขนฺธาทิสงฺคเหน 
+<span class="LineNumber"> 020 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ   ๒. ม. สทฺเทกเทสํ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ปุน ฯ  ๔. โคจฺฉกปทา เอตฺถาติ ปทจฺเฉโทติ โยชนา ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. ตึสวึธนฺติ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>						<H1>กุศลบท ปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>						     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>						    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๑๗๔๒]  ๑.  กุศลธรรมที่เป็นรูปาวจรธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 005 </span>กุศลธรรมที่เป็นรูปาวจรธรรม  ด้วยอำนาจของเหตุปัจจัย  ฯลฯ
+<span class="LineNumber"> 006 </span>                     	     ๒.  กุศลธรรมที่ไม่ใช่รูปาวจรธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 007 </span>กุศลธรรมที่ไม่ใช่รูปาวจรธรรม  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 008 </span>				    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>		[๑๗๔๓]  ในเหตุปัจจัย มี ๒ วาระ     ในอารัมมณปัจจัย มี ๔ วาระ
+<span class="LineNumber"> 010 </span>ในอธิปติปัจจัย มี ๓ วาระ    ในธรรมที่เป็นรูปาวจรธรรม  มี ๑  วาระ    เป็น
+<span class="LineNumber"> 011 </span>สหชาตาธิปติอย่างเดียว  ในธรรมที่ไม่ใช่รูปาวจรธรรม  มี  ๒  วาระ  ใน
+<span class="LineNumber"> 012 </span>อนันตรปัจจัย มี ๓ วาระ   ในธรรมที่เป็นรูปาวจรธรรม มี ๑ วาระ  ในธรรม
+<span class="LineNumber"> 013 </span>ที่ไม่ใช่รูปาวจรธรรม มี ๒ วาระ   ในสมนันตรปัจจัย มี ๓ วาระ   ในสหชาต
+<span class="LineNumber"> 014 </span>ปัจจัย  มี ๒ วาระ ฯลฯ   ในอุปนิสสยปัจจัย มี ๔ วาระ  ในอาเสวนปัจจัย  มี ๓
+<span class="LineNumber"> 015 </span>วาระ   ในกัมมปัจจัย   มี ๒ วาระ ฯลฯ  ในอัตถิปัจจัย  มี ๒ วาระ   ในนัตถิ-
+<span class="LineNumber"> 016 </span>ปัจจัย  มี ๓ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ                                 
+      
+<span class="LineNumber"> 017 </span>						<H2>อกุศลบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 018 </span>							<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 019 </span>						     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 020 </span>		[๑๗๔๔]  ๑.  อกุศลธรรมที่ไม่ใช่รูปาวจรธรรม  อาศัยอกุศล-
+<span class="LineNumber"> 021 </span>ธรรมที่ไม่ใช่รูปาวจรธรรม  เกิดขึ้น  เพราะเหตุปัจจัย

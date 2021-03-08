@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๙  หน้า  ๖๕๗		
+		
+<span class="LineNumber"> 002 </span>					นิคมนกถา  
+<span class="LineNumber"> 003 </span>	เอตฺตาวตา  จ  
+<span class="LineNumber"> 004 </span>		สุวิมุตฺตภวาทาโน  (๑)	เทวทานวมานิโต  
+<span class="LineNumber"> 005 </span>		ปจฺฉินฺนตณฺหาสนฺตาโน	ปีติสํเวคทีปโน ฯ  
+<span class="LineNumber"> 006 </span>		สทฺธมฺมทานนิรโต		อุปาทานกฺขยา  ว  โส(๒)
+<span class="LineNumber"> 007 </span>		ตตฺถ  ตตฺถ  อุทาเน  เย	อุทาเนสิ  วินายโก ฯ  
+<span class="LineNumber"> 008 </span>		เต  สพฺเพ  เอกโต  กตฺวา	อาโรเปนฺเตหิ  สงฺคหํ  
+<span class="LineNumber"> 009 </span>		อุทานมิติ  สงฺคีตํ		ธมฺมสงฺคาหเกหิ  ยํ ฯ  
+<span class="LineNumber"> 010 </span>		ตสฺส  อตฺถํ  ปกาเสตุํ		โปราณฏฺ€กถานยํ  
+<span class="LineNumber"> 011 </span>		นิสฺสาย  ยา  สมารทฺธา	อตฺถสํวณฺณนา  มยา ฯ  
+<span class="LineNumber"> 012 </span>		สา  ตตฺถ  ปรมตฺถานํ	สุตฺตนฺเตสุ  ยถารหํ  
+<span class="LineNumber"> 013 </span>		ปกาสนา  ปรมตฺถ		ทีปนี  นาม  นามโต ฯ  
+<span class="LineNumber"> 014 </span>		สมฺปตฺตา  ปรินิฏฺ€านํ	อนากุลวินิจฺฉยา  
+<span class="LineNumber"> 015 </span>		จตุตฺตึสปฺปมาณาย		ปาลิยา  ภาณวารโต ฯ  
+<span class="LineNumber"> 016 </span>		อิติ  ตํ  สงฺขโรนฺเตน		ยํ  ตํ  อธิคตํ  มยา  
+<span class="LineNumber"> 017 </span>		ปุฺํ  ตสฺสานุภาเวน	โลกนาถสฺส  สาสนํ ฯ  
+<span class="LineNumber"> 018 </span>		โอภาเสตฺวา  (๓)  วิสุทฺธาย  สีลาทิปฏิปตฺติยา  
+<span class="LineNumber"> 019 </span>		สพฺเพปิ  เทหิโน  โหนฺตุ	วิมุตฺติรสภาคิโน ฯ  
+<span class="LineNumber"> 020 </span>#  ๑.  สี.  สุวิมุตฺตจิตฺตโวทาโน ฯ  ๒.  ม.  อุปาทานกฺขยาวโห ฯ
+<span class="LineNumber"> 021 </span>#  ๓.  ม.  โอคาหิตฺวา ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         ในนอธิปติปัจจัย   เป็นมูล   พึงแจกวาระ ๓๗  วาระ. 
+<span class="LineNumber"> 002 </span>                                     <H1>นอนันตรปัจจัยเป็นต้น</H1> 
+<span class="LineNumber"> 003 </span>         ในนอนันตรปัจจัยก็ดี  ในนสมนันตรปัจจัยก็ดี  ในนอัญญมัญญปัจจัย
+<span class="LineNumber"> 004 </span>ก็ดี   ในนอุปนิสสยปัจจัยก็ดี   มี ๗ วาระ   พึงได้เฉพาะรูปเท่านั้น.
+<span class="LineNumber"> 005 </span>         ในนปุเรชาตปัจจัย  มี ๓๗ วาระ   เช่นเดียวกับปัจจนียะในปฏิจจวาระ.
+<span class="LineNumber"> 006 </span>         ในนปัจฉาชาตปัจจัย มี ๓๗ วาระ  แม้ในนอาเสวนปัจจัยก็เช่นเดียวกัน.
+<span class="LineNumber"> 007 </span>         แม้อวิตักกวิจารมัตตธรรม   ย่อมมาในที่ใด   พึงแจกวิบากในที่นั้น.
+
+<span class="LineNumber"> 008 </span>                                            <H1>นกัมมปัจจัย</H1>
+<span class="LineNumber"> 009 </span>         [๑๐๙]  <B>สวิตักกสวิจารธรรม   อาศัยสวิตักกสวิจารธรรม  เกิด
+<span class="LineNumber"> 010 </span>ขึ้น  เพราะนกัมมปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  เจตนาที่เป็นสวิตักกสวิจารธรรม  อาศัยขันธ์ที่เป็นสวิตักกสวิจาร-
+<span class="LineNumber"> 012 </span>ธรรม   เกิดขึ้น.
+<span class="LineNumber"> 013 </span>         <B>ฯลฯ   อาศัยอวิตักกวิจารมัตตธรรม  ฯลฯ</B>
+<span class="LineNumber"> 014 </span>         คือ   เจตนาที่เป็นอวิตักกวิจารมัตตธรรมอาศัย ฯลฯ
+<span class="LineNumber"> 015 </span>         คือ   เจตนาที่เป็นสวิตักกสวิจารธรรมอาศัย ฯลฯ
+<span class="LineNumber"> 016 </span>         <B>อาศัยอวิตักกอวิจารธรรม</B> ฯลฯ
+<span class="LineNumber"> 017 </span>         คือ   เจตนาที่เป็นอวิตักกอวิจารธรรม ฯลฯ   พึงแจกให้บริบูรณ์.
+<span class="LineNumber"> 018 </span>         <B>สวิตักกสวิจารธรรม</B> ฯลฯ
+<span class="LineNumber"> 019 </span>         คือ   เจตนาที่เป็นสวิตักกสวิจารธรรม    อาศัยหทยวัตถุ   เกิดขึ้น ฯลฯ
+<span class="LineNumber"> 020 </span>         <B>อวิตักกวิจารมัตตธรรม</B> ฯลฯ

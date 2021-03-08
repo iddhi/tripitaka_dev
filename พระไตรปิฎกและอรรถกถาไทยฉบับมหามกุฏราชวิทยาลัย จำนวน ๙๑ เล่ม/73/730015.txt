@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	  	             <H2>มธุรัตถวิลาสินี</H2>
+
+<span class="LineNumber"> 002 </span>              <H1>อรรถกถาขุททกนิกาย   พุทธวงศ์</H1>
+
+<span class="LineNumber"> 003 </span>      <H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+
+<span class="LineNumber"> 004 </span>	                  <H1>กถาปรารภคัมภีร์</H1>
+
+<span class="LineNumber"> 005 </span>          	        <B>ข้าพเจ้าขอนอบน้อมพระพุทธเจ้า   ผู้มีพระญาณ
+<span class="LineNumber"> 006 </span>    	อันหาที่สุดมิได้  มีพระกรุณาเป็นที่อาศัย   ทรงทำลาย
+<span class="LineNumber"> 007 </span>    	มลทิน  มีพระหฤทัยมั่นคง  อำนวยประโยชน์เกื้อกูล.
+<span class="LineNumber"> 008 </span>		ขอนอบน้อมพระธรรมอันประเสริฐ   เครื่องป้อง
+<span class="LineNumber"> 009 </span> 	 กันภพ.
+<span class="LineNumber"> 010 </span>		ขอนอบน้อมพระสงฆ์    ผู้ปราศจากมลทินและ
+<span class="LineNumber"> 011 </span>  	 เป็นบ่อเกิดคุณความดี.
+<span class="LineNumber"> 012 </span>		ท่านพระสารีบุตรผู้เป็นธรรมเสนาบดี     แม่ทัพ
+<span class="LineNumber"> 013 </span>    	ธรรม  ผู้เป็นเอตทัคคะ  เป็นผู้เลิศกว่าเหล่าพุทธสาวก
+<span class="LineNumber"> 014 </span>   	ทางปัญญา  ได้ทูลถามพระศาสดาผู้เป็นพระธรรมราชา
+<span class="LineNumber"> 015 </span>   	จอมทัพธรรมผู้ทรงถึงฝั่ง  ที่หาขอบเขตมิได้  ผู้ไร้มลทิน
+<span class="LineNumber"> 016 </span>      	ถึงพุทธวงศ์ใด  ท่ามกลางหมู่พระประยูรญาติ.   พุทธ-
+<span class="LineNumber"> 017 </span>   	วงศ์ใด  อันพระตถาคต  วงศ์ผู้ตรัสรู้ดี   วงศ์พระผู้บริ-
+<span class="LineNumber"> 018 </span>   	สุทธิ์ดี  ผู้มีสมาธิเป็นธรรมเครื่องอยู่  ผู้เป็นนายกพิเศษ
+<span class="LineNumber"> 019 </span>    	ทรงเปิดโอกาสประกาศไว้แล้ว   ณ  ท่ามกลางหมู่พระ
+<span class="LineNumber"> 020 </span>    	ประยูรญาตินี้. </B>

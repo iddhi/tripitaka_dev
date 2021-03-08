@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค กงฺขาเรวตตฺเถรคาถาวณฺณนา หน้า 69
+
+<span class="LineNumber"> 002 </span>	เตนาห  อายสฺมา ธมฺมเสนาปติ อปิจ เม  ภนฺเต 
+<span class="LineNumber"> 003 </span>ธมฺมนฺวโย  วิทิโตติ ฯ  
+<span class="LineNumber"> 004 </span>	ปสฺสาติ วิมฺหยปฺปตฺโต อนิยมโต อาลปติ อตฺตโนเยว 
+<span class="LineNumber"> 005 </span>วา  (๑)  จิตฺตํ  ยถาห  ภควา  อุทาเนนฺโต โลกมิมํ ปสฺส ปุถุ
+<span class="LineNumber"> 006 </span>อวิชฺชาย ปเรตา  ภูตา  ภูตรตา  วา  อปริมุตฺตาติ ฯ  (๒) 
+<span class="LineNumber"> 007 </span>	ตถาคตานนฺติ ตถา อาคมนาทิอตฺเถน (๓)  ตถาคตานํ ฯ
+<span class="LineNumber"> 008 </span>ตถา  อาคโตติ  หิ  ตถาคโต  ตถา  คโตติ  ตถาคโต  ตถลกฺขณํ  
+<span class="LineNumber"> 009 </span>อาคโตติ  ตถาคโต  ตถธมฺเม  ยาถาวโต  (๔)  อภิสมฺพุทฺโธติ
+<span class="LineNumber"> 010 </span>ตถาคโต ตถทสฺสิตาย  ตถาคโต  ตถาวาทิตาย  (๕)  ตถาคโต 
+<span class="LineNumber"> 011 </span>ตถาการิตาย  ตถาคโต  อภิภวนฏฺเ€น  ตถาคโตติ  เอวํ  อฏฺ€หิ
+<span class="LineNumber"> 012 </span>การเณหิ ภควา ตถาคโต ฯ 
+<span class="LineNumber"> 013 </span>	ตถาย อาคโตติ ตถาคโต ตถาย  คโตติ  ตถาคโต  
+<span class="LineNumber"> 014 </span>ตถลกฺขณํ  คโตติ  ตถาคโต ตถานิ อาคโตติ ตถาคโต ตถาวิโธติ  
+<span class="LineNumber"> 015 </span>ตถาคโต  ตถา  ปวตฺติโตติ  ตถาคโต  ตเถหิ  อาคโตติ ตถาคโต 
+<span class="LineNumber"> 016 </span>ตถา คตภาเวน  ตถาคโตติ  เอวมฺปิ อฏฺ€หิ การเณหิ ภควา
+<span class="LineNumber"> 017 </span>ตถาคโตติ อยเมตฺถ สงฺเขโป ฯ วิตฺถาโร ปน  ปรมตฺถทีปนิยา 
+<span class="LineNumber"> 018 </span>อุทานฏฺ€กถาย  อิติวุตฺตกฏฺ€กถาย  จ วุตฺตนเยเนว เวทิตพฺโพ ฯ  
+<span class="LineNumber"> 019 </span>	อิทานิ  ตสฺสา  ปฺาย  อสาธารณวิเสสํ  ทสฺเสตุํ 
+<span class="LineNumber"> 020 </span>อคฺคิ  ยถาติอาทิ วุตฺตํ ฯ ยถา  อคฺคีติ  อุปมาวจนํ ฯ  ยถาติ 
+<span class="LineNumber"> 021 </span># ๑. สี. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. อปริมุตฺตนฺติ ฯ  ๓. สี. อตฺเถหิ ฯ 
+<span class="LineNumber"> 022 </span># ๔. สี. ยถาวโต ฯ  ๕. ม. ตถวาทิตาย ฯ

@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>ปัจจัย  มี ๙ วาระ  ในนกัมมปัจจัย มี ๓ วาระ   ในนวิปากปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 002 </span>ในนวิปปยุตตปัจจัย  มี ๙ วาระ. 
+<span class="LineNumber"> 003 </span>           การนับจำนวนวาระทั้งสองนัย   นอกนี้ก็ดี  สหชาตวาระก็ดี  พึงกระทำ
+<span class="LineNumber"> 004 </span>อย่างที่กล่าวมาแล้ว.
+<span class="LineNumber"> 005 </span>           ปัจจยวาระก็ดี    นิสสยวาระก็ดี    สังสัฏฐวาระก็ดี   สัมปยุตตวาระก็ดี
+<span class="LineNumber"> 006 </span>เหมือนกับปฏิจจวาระ.

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 5
+
+<span class="LineNumber"> 002 </span>พุทฺธวํเส อิมํ คาถํ วตฺวา  
+<span class="LineNumber"> 003 </span>	นครํ สพฺพงฺคสมฺปนฺนํ	สพฺพกมฺมมุปาคตํ (๑)  
+<span class="LineNumber"> 004 </span>	สตฺตรตนสมฺปนฺนํ		นานาชนสมากุลํ  
+<span class="LineNumber"> 005 </span>	สมิทฺธํ เทวนครํว		อาวาสํ ปุฺกมฺมินํ ฯ  
+<span class="LineNumber"> 006 </span>	นคเร อมรวติยา		สุเมโธ นาม พฺราหฺมโณ  
+<span class="LineNumber"> 007 </span>	อเนกโกฏิสนฺนิจโย		ปหูตธนธฺวา  
+<span class="LineNumber"> 008 </span>	อชฺฌายโก มนฺตธโร		ติณฺณํ เวทาน ปารคู  
+<span class="LineNumber"> 009 </span>	ลกฺขเณ อิติหาเส จ		สธมฺเม ปารมึ คโตติ  
+<span class="LineNumber"> 010 </span>วุตฺตํ ฯ  อเถกทิวสํ  โส  สุเมธปณฺฑิโต  อุปริ  ปาสาทวรตเล
+<span class="LineNumber"> 011 </span>รโหคโต  หุตฺวา  ปลฺลงฺกํ  อาภุชิตฺวา  นิสินฺโน  จินฺเตสิ  ปุนพฺภเว
+<span class="LineNumber"> 012 </span>ปณฺฑิต  ปฏิสนฺธิคหณํ  นาม  ทุกฺขํ  ตถา  นิพฺพตฺตนิพฺพตฺตฏฺ€าเน(๒)  
+<span class="LineNumber"> 013 </span>สรีรเภทนํ  อหํ  จ  ชาติธมฺโม  ชราธมฺโม  พฺยาธิธมฺโม  
+<span class="LineNumber"> 014 </span>มรณธมฺโม  เอวํภูเตน  มยา  อชาตึ  อชรํ  อพฺยาธึ  อทุกฺขํ(๓)  สุขํ  สีตลํ
+<span class="LineNumber"> 015 </span>อมตมหานิพฺพานํ  ปริเยสิตุํ  วฏฺฏติ  อวสฺสํ  ภวโต  มุจฺจิตฺวา
+<span class="LineNumber"> 016 </span>นิพฺพานคามินา เอเกน มคฺเคน ภวิตพฺพนฺติ เตน วุตฺตํ  
+<span class="LineNumber"> 017 </span>	รโหคโต นิสีทิตฺวา		เอวํ จินฺเตสิหนฺตทา 
+<span class="LineNumber"> 018 </span>	ทุกฺโข ปุนพฺภโว นาม	สรีรสฺส ปเภทนํ ฯ (๔)  
+<span class="LineNumber"> 019 </span>	ชาติธมฺโม ชราธมฺโม	พฺยาธิธมฺโม จหํ(๕) ตถา  
+<span class="LineNumber"> 020 </span>	อชรํ อมรํ (๖) เขมํ		ปริเยสิสฺสามิ นิพฺพุตึ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. สพฺพกมฺม... ฯ  ๒. ม. นิพฺพตฺตนิพฺพตฺตฏฺ€าเนฯ
+<span class="LineNumber"> 022 </span># ๓. สี. ยุ. อทุกฺขมสุขํ  ฯ  ๔. ม. จ เภทนํ ฯ ๕. ม. สหํ ฯ 
+<span class="LineNumber"> 023 </span># ๖. ม. อมตํ ฯ 

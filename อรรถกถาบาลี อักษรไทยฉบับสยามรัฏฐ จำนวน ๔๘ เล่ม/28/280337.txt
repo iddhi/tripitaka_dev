@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 28   หน้า 337
+
+<span class="LineNumber"> 002 </span>			นนฺทิวิสาลชาตกํ  
+<span class="LineNumber"> 003 </span>	มนุฺเมว  ภาเสยฺยาติ  อิทํ  สตฺถา เชตวเน วิหรนฺโต
+<span class="LineNumber"> 004 </span>ฉพฺพคฺคิยานํ  ภิกฺขูนํ โอมสวาทํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	ตสฺมึ  หิ  สมเย  ฉพฺพคฺคิยา  ภิกฺขู  กลหํ  กโรนฺตา  
+<span class="LineNumber"> 006 </span>เปสเล  ภิกฺขู  ขขเสนฺติ  วมฺเภนฺติ  โอวิชฺฌนฺติ  ทสหิ  อกฺโกสวตฺถูหิ 
+<span class="LineNumber"> 007 </span>อกฺโกสนฺติ ฯ  ภิกฺขู  ภควโต  อาโรเจสุํ ฯ  ภควา  ฉพฺพคฺคิเย 
+<span class="LineNumber"> 008 </span>ภิกฺขู ปกฺโกสาเปตฺวา  สจฺจํ  กิร  ตุมฺเห  กลหํ  กโรถ  ภิกฺขเวติ  
+<span class="LineNumber"> 009 </span>ปุจฺฉิตฺวา  สจฺจนฺติ  วุตฺเต  วิครหิตฺวา  ภิกฺขเว  ผรุสวาจา  
+<span class="LineNumber"> 010 </span>นาม  อนตฺถการิกา  ติรจฺฉานคตานมฺปิ  อมนาปา  ปุพฺเพปิ 
+<span class="LineNumber"> 011 </span>เอโก  ติรจฺฉานคโต  อตฺตานํ  ผรุเสน  สมุทาจรนฺตํ  สหสฺเสน
+<span class="LineNumber"> 012 </span>ปราเชสีติ วตฺวา อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 013 </span>	อตีเต  คนฺธารรฏฺเ€  ตกฺกสิลายํ  คนฺธาโร  นาม  ราชา
+<span class="LineNumber"> 014 </span>รชฺชํ  กาเรสิ ฯ  โพธิสตฺโต  โคโยนิยํ  นิพฺพตฺติ ฯ อถ นํ 
+<span class="LineNumber"> 015 </span>ตรุณวจฺฉกกาเลเยว  เอโก  พฺราหฺมโณ  ทกฺขิณทายกานํ(๑)  สนฺติกา
+<span class="LineNumber"> 016 </span>ลภิตฺวา(๒)  นนฺทิวิสาโลติ  นามํ  กตฺวา  ปุตฺตฏฺ€าเน  €เปตฺวา 
+<span class="LineNumber"> 017 </span>สมฺปิยายมาโน  ยาคุภตฺตาทีนิ  ทตฺวา  โปเสสิ ฯ  โพธิสตฺโต  
+<span class="LineNumber"> 018 </span>วยปฺปตฺโต  จินฺเตสิ  อหํ  อิมินา  พฺราหฺมเณน  กิจฺเฉน  ปฏิชคฺคิโต 
+<span class="LineNumber"> 019 </span>มยา  สทิโส  สกลชมฺพูทีเป  อฺโ  สมธุโร  โคโณ  นาม  
+<span class="LineNumber"> 020 </span>นตฺถิ  ยนฺนูนาหํ  อตฺตโน  พลํ ทสฺเสตฺวา  พฺราหฺมณสฺส 
+<span class="LineNumber"> 021 </span># ๑. ม. โคทกฺขิณาทายกานํ ฯ  ๒. สี. ยุ. สนฺติกํ คนฺตฺวา โคณํ
+<span class="LineNumber"> 022 </span># ลภิตฺวา ฯ 

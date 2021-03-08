@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>               <H1>กุสลติกสอุตตรทุกนกุสลติกนสอุตตรทุกะ</H1>   
+<span class="LineNumber"> 002 </span>               <H2>(๑.  กุสลติกะ  ๙๙.  สอุตตรทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                      <H2>สอุตตรบท</H2>
+<span class="LineNumber"> 007 </span>           [๔๕๘]  ๑.  <B>ธรรมที่ไม่ใช่สอุตตรธรรม    ที่ไม่ใช่อัพยาตะ
+<span class="LineNumber"> 008 </span>อาศัยธรรมที่เป็นสอุตตรธรรม ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 009 </span>ปัจจัย</B> มี  ๕  วาระ.
+
+<span class="LineNumber"> 010 </span>                                      <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 011 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                                         <H2>อนุตตรบท</H2>
+<span class="LineNumber"> 014 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อนุตตรธรรม  ที่ไม่ใช่กุศล  อาศัย
+<span class="LineNumber"> 015 </span>ธรรมที่เป็นอนุตตรธรรม   ที่เป็นกุศล    เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>มี  ๖ วาระ.
+<span class="LineNumber"> 017 </span>              <I>กุสลติกสอุตตรทุกนกุสลติกนสอุตตรทุกะ  จบ</I>

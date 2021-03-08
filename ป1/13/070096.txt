@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	หิ,  จ,  ปน= เหตุว่า,  เพราะว่า.
+<span class="LineNumber"> 002 </span>	(๔)  <B>ผลโชตโก, ผลํ </B> ส่องความที่เป็นผล
+<span class="LineNumber"> 003 </span>	หิ, จ, ปน= ด้วยว่า.   
+<span class="LineNumber"> 004 </span>	(๕)  <B>วิเสสโชตโก, วิเสโส</B>  ส่องความที่แปลกออกไป.
+<span class="LineNumber"> 005 </span>	หิ, จ, ปน=แต่, ก็แต่ว่า, ถึงอย่างนั้น.
+<span class="LineNumber"> 006 </span>                               วิเสสนะในที่มาต่าง ๆ
+<span class="LineNumber"> 007 </span>	ตุ= แต่ว่า  (๑๑๙๗)
+<span class="LineNumber"> 008 </span>	(๖)  <B>ตปฺปาฏิกรณโชตโก,  ตปฺปาฏิกรณํ </B>  ส่องอรรถที่ทำความ
+<span class="LineNumber"> 009 </span>ข้อนั้นให้ชัด.
+<span class="LineNumber"> 010 </span>	หิ, จ, ปน = เหมือนอย่างว่า.
+<span class="LineNumber"> 011 </span>	(๗)  <B>ทฬฺหีกรณโชตโก </B>ส่องความเครื่องทำคำก่อนให้มั่น. มี ๒ :
+<span class="LineNumber"> 012 </span>อาคมทฬฺหีกรณํ  อ้างตำรารับรองให้มั่น, ยุตฺติพฬฺหีกรณํ  กล่าวอ้าง
+<span class="LineNumber"> 013 </span>สมเอง.  (เพราะทัฬหิยะ  ข้อที่ควรอ้างรับรองให้มั่นมี ๒ :  อาคม-
+<span class="LineNumber"> 014 </span>ทัฬหิยะ  ทัฬหิยะ  คือตำรา  ๑  ยุตติทัฬหิย  ทัฒหิยะ คือคำที่กล่าวเอง ๑).
+<span class="LineNumber"> 015 </span>	หิ, จ, = จริงอยู่,  แท้จริง.
+<span class="LineNumber"> 016 </span>                              ทัฬหีกรณโชตกในที่มาต่าง ๆ
+<span class="LineNumber"> 017 </span>	ตถาหิ จริงอย่างนั้น.  (โยชนา  อภิ. ๑/๕๖ อ้างสัททนีติ ว่า
+<span class="LineNumber"> 018 </span>'หิ  ตาถหีติ  อจิเจเต  ทฬฺหีกรณตฺเถ' ' นิบาตเหล่านี้คือ หิ ตถาหิ
+<span class="LineNumber"> 019 </span>ลงในอรรถคือ  ทัฬหีกรณ์' ).
+<span class="LineNumber"> 020 </span>	(๘)  <B>ปกฺขนฺตรโชตโก</B> ส่องความอีกฝ่ายหนึ่ง.
+<span class="LineNumber"> 021 </span>	จ,  ปน.= ฝ่ายว่า, ส่วนว่า.

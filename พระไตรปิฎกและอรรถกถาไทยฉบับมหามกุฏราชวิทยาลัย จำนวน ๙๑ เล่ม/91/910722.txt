@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๕๗๗]  ในเหตุปัจจัย มี  ๖  วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                    <H2>โนอาสวบท</H2>  
+<span class="LineNumber"> 004 </span>           [๕๗๘] ๑.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่อาสวธรรม    ที่ไม่ใช่
+<span class="LineNumber"> 005 </span>สนิทัสสนสัปปฏิฆธรรม    อาศัยธรรมที่ไม่ใช่อาสวธรรม    ที่เป็น
+<span class="LineNumber"> 006 </span>อนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                       ๒.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่อาสวธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 008 </span>อนิทัสสนสัปปฏิฆธรรม     อาศัยธรรมที่ไม่ใช่อาสวธรรม    ที่เป็น
+<span class="LineNumber"> 009 </span>อนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                       ๓.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่อาสวธรรม    ที่ไม่ใช่
+<span class="LineNumber"> 011 </span>สนิทัสสนสัปปฏิฆธรรม   และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่อาสวธรรม
+<span class="LineNumber"> 012 </span>ที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม อาศัยธรรมที่ไม่ใช่อาสวธรรม ที่เป็น
+<span class="LineNumber"> 013 </span>อนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 014 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>           [๕๗๙]  ในเหตุปัจจัย  มี ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 016 </span>             <I>สนิทัสสนติกอาสวทุกนสนิทัสสนติกโนอาสวทุกะ  จบ</I>

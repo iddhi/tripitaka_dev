@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>หัวข้อประจำกัณฑ์</H1>   
+<span class="LineNumber"> 002 </span>           [๑๖๖]  ปาฏิเทสนียะ ๔   สิกขาบท   คือ   ภิกษุณีมิใช่ญาติ ๑ ภิกษุณี 
+<span class="LineNumber"> 003 </span>สั่งเสีย ๑ สกุลเสกขะ  ๑  เสนาสนะป่า ๑  อันพระสัมพุทธเจ้าทรงประกาศแล้ว.
+
+<span class="LineNumber"> 004 </span>                                          <H1>เสขิยกัณฑ์</H1>
+<span class="LineNumber"> 005 </span>                       <H1>คำถามและคำตอบปริมัณฑลวรรคที่  ๑</H1>
+<span class="LineNumber"> 006 </span>           [๑๖๗]  ถามว่า  พระผู้มีพระภาคเจ้าผู้ทรงรู้เห็น    เป็นพระอรหันต-
+<span class="LineNumber"> 007 </span>สัมมาสัมพุทธเจ้าพระองค์นั้น    ทรงบัญญัติทุกกฏแก่ภิกษุผู้อาศัยความไม่เอื้อเฟื้อ
+<span class="LineNumber"> 008 </span>นุ่งผ้าเลื้อยหน้าหรือเลื้อยหลัง ณ ที่ไหน
+<span class="LineNumber"> 009 </span>           ตอบว่า  ทรงบัญญัติ ณ พระนครสาวัตถี
+<span class="LineNumber"> 010 </span>           ถ.  ทรงปรารภใคร
+<span class="LineNumber"> 011 </span>           ต.  ทรงปรารภพระฉัพพัคคีย์
+<span class="LineNumber"> 012 </span>           ถ.  เพราะเรื่องอะไร
+<span class="LineNumber"> 013 </span>           ต.  เพราะเรื่องที่พระฉัพพัคคีย์นุ่งผ้าเลื้อยหน้าบ้าง  เลื้อยหลังบ้าง.
+<span class="LineNumber"> 014 </span>           มีบัญญัติ ๑    บรรดาสมุฏฐานแห่งอาบัติ  ๖    สิกขาบทนี้      เกดด้วย
+<span class="LineNumber"> 015 </span>สมุฏฐานอันหนึ่ง   คือ   เกิดแต่กายกับจิต   มิใช่วาจา. . .
+<span class="LineNumber"> 016 </span>           [๑๖๘]   ถามว่า   พระผู้มีพระภาคเจ้าผู้ทรงรู้เห็น    เป็นพระอรหันต-
+<span class="LineNumber"> 017 </span>สัมมาสัมพุทธเจ้าพระองค์นั้น   ทรงบัญญัติทุกกฏแก่ภิกษุผู้อาศัยความไม่เอื้อเฟื้อ
+<span class="LineNumber"> 018 </span>ห่มผ้าเลื้อยหน้าหรือเลื้อยหลัง  ณ  ที่ไหน
+<span class="LineNumber"> 019 </span>           ตอบว่า  ทรงบัญญัติ  ณ พระนครสาวัตถี
+<span class="LineNumber"> 020 </span>           ถ.  ทรงปรารภใคร
+<span class="LineNumber"> 021 </span>           ต.  ทรงปรารภพระฉัพพัคคีย์

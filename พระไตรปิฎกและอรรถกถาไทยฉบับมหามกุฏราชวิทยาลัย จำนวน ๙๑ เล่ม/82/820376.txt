@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 003 </span><H2>จักขายตนมูละ  ฯ ล ฯ :-</H2>
+<span class="LineNumber"> 004 </span>         [๓๔๖]   จักขายตนะเคยเกิดในภูมิใด,    ฯ ล ฯ     ( อายตนะมี
+<span class="LineNumber"> 005 </span>ประมาณเท่าใด   พึงเพิ่มคำว่า  <B>อุปฺปชฺชติ</B> - กำลังเกิด,  <B>อุปฺปชฺชิตฺถ</B>-
+<span class="LineNumber"> 006 </span>เคยเกิดเป็นต้น     เช่นเดียวกับในวาระทั้งปวง   คือ  ปัจจจุปปันนวาระบ้าง,
+<span class="LineNumber"> 007 </span>อตีตวาระบ้าง,    อนาคตวาระบ้าง,    ปัจจุปปันนาตีตวาระบ้าง,    ปัจจุป-
+<span class="LineNumber"> 008 </span>ปันนานาคตวาระบ้าง,   อตีตานาคตวาระบ้าง )
+<span class="LineNumber"> 009 </span>                               <I>จักขายตนมูละ  ฯ ล ฯ  จบ</I>
+<span class="LineNumber"> 010 </span>                                     <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 011 </span>                                      <I>โอกาสวาระ   จบ</I>   
+<span class="LineNumber"> 012 </span>                                       <H1>ปุคคโลกาสวาระ</H1>    
+<span class="LineNumber"> 013 </span>                                         <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 014 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 015 </span>         [๓๔๗]   จักขายตนะเคยเกิดแก่บุคคลใดในภูมิใด, โสตายตนะ
+<span class="LineNumber"> 016 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?

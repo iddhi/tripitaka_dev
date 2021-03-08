@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>อนาคต    โอกาสวาระ   อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                       <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ  โสตินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๘๖๘]  จักขุนทรีย์จักเกิดในภูมิใด,      โสตินทรีย์ก็จักเกิดใน
+<span class="LineNumber"> 005 </span>ภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า    โสตินทรีย์จักเกิดในภูมิใด,    จักขุนทรีย์ก็จักเกิดใน
+<span class="LineNumber"> 008 </span>ภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                         <I>จบ  จักขุนทริยมูละ  โสตินทริยมูลี</I>
+
+<span class="LineNumber"> 011 </span><B>จักขุนทริยมูละ   ฆานินทริยมูลี:-</B>
+<span class="LineNumber"> 012 </span>         [๘๖๙]  จักขุนทรีย์จักเกิดในภูมิใด,    ฆานินทรีย์ก็จักเกิดใน
+<span class="LineNumber"> 013 </span>ภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ในรูปาวจรภูมิ  จักขุนทรีย์จักเกิดในภูมินั้น  แต่ฆานินทรีย์ไม่ใช่
+<span class="LineNumber"> 015 </span>จักเกิดในภูมินั้น,   ในกามาวจรภูมิจักขุนทรีย์จักเกิด    และฆานินทรีย์ก็
+<span class="LineNumber"> 016 </span>จักเกิดในภูมินั้น.

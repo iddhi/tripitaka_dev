@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   จิตตสังขารไม่ใช่จักดับแก่บุคคลใด,    กายสังขารก็ไม่
+<span class="LineNumber"> 002 </span>ใช่เคยดับแก่บุคคลนั้น ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         เคยดับ.
+<span class="LineNumber"> 004 </span>                        <I>จบ  กายสังขารมูละ  จิตตสังขารมูลี</I>
+<span class="LineNumber"> 005 </span>                                    <I>กายสังขารมูล  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                        <H1>วจีสังขารมูล</H1>
+<span class="LineNumber"> 007 </span><H2>วจีสังขารมูละ  จิตตสังขารมูลี :-</H2>
+<span class="LineNumber"> 008 </span>         [๑๑๗๗]   วจีสังขารไม่ใช่เคยดับแก่บุคคลใด,     จิตตสังขารก็
+<span class="LineNumber"> 009 </span>ไม่ใช่จักดับแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ไม่มี.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า  จิตตสังขารไม่ใช่จักดับแก่บุคคลใด,    วจีสังขารก็ไม่ใช่
+<span class="LineNumber"> 012 </span>เคยดับแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         เคยดับ.
+<span class="LineNumber"> 014 </span>                        <I>จบ   วจีสังขารมูละ   จิตตสังขารมูลี</I>
+<span class="LineNumber"> 015 </span>                                     <I>วจีสังขารมูล   จบ</I>
+<span class="LineNumber"> 016 </span>                                      <I>ปุคคลวาระ   จบ</I>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	                             <H1>ทุติยคาถาสังคณิกะ</H1>  
+<span class="LineNumber"> 002 </span>                                    <H1>อาบัติทางกายเป็นต้น</H1>
+<span class="LineNumber"> 003 </span>                             [๑,๒๔๒]  <B>ถามว่า   อาบัติทางกายจัด
+<span class="LineNumber"> 004 </span>                   ไว้เท่าไร   ทางวาจาจัดไว้เท่าไร    เมื่อปกปิด
+<span class="LineNumber"> 005 </span>                   ต้องอาบัติเท่าไร    อาบัติมีการเคล้าคลึงเป็น
+<span class="LineNumber"> 006 </span>                   ปัจจัยมีเท่าไร
+<span class="LineNumber"> 007 </span>                             ตอบว่า  อาบัติทางกายจัดไว้  ๖ ทาง
+<span class="LineNumber"> 008 </span>                   วาจาจัดไว้  ๖  เมื่อปกปิดต้องอาบัติ ๓  อาบัติ
+<span class="LineNumber"> 009 </span>                   มีการเคล้าคลึงเป็นปัจจัยมี  ๕.</B>
+
+<span class="LineNumber"> 010 </span>                       <H2>ต้องอาบัติเมื่ออรุณขึ้นเป็นต้น</H2>
+<span class="LineNumber"> 011 </span>                             [๑,๒๔๓]  <B>ถามว่า   อาบัติเพราะอรุณ
+<span class="LineNumber"> 012 </span>                   ขึ้นมีเท่าไร     อาบัติชื่อยาวตติยกา  มีเท่าไร
+<span class="LineNumber"> 013 </span>                   อาบัติชื่ออัตถวัตถุกาในศาสนานี้   มีเท่าไร
+<span class="LineNumber"> 014 </span>                   สงเคราะห์สิกขาบทและปาติโมกขุทเทศทั้ง
+<span class="LineNumber"> 015 </span>                   มวลด้วยอุเทศเท่าไร
+<span class="LineNumber"> 016 </span>                             ตอบว่า  อาบัติเพราะอรุณขึ้น  มี  ๓
+<span class="LineNumber"> 017 </span>                   อาบัติชื่อยาวตติยกามี  ๓  อาบัติชื่ออัตถวัตถุ-
+<span class="LineNumber"> 018 </span>                   กา    ในศาสนานี้มี ๑   สงเคราะห์สิกขาบท
+<span class="LineNumber"> 019 </span>                   และปาติโมกขุทเทศทั้งมวล  ด้วยนิทานุเทศ
+<span class="LineNumber"> 020 </span>                   อย่างเดียว.</B>

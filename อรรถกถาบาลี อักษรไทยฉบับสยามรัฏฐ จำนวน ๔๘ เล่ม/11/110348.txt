@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๓๔๘
+
+<span class="LineNumber"> 002 </span>			คูถขาทสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ทุฏฺ€พฺราหฺมณสฺส วตฺถุํ  ปากฏเมว ฯ
+<span class="LineNumber"> 004 </span>				ทุติยํ ฯ         
+
+<span class="LineNumber"> 005 </span>			นิจฺฉวิตฺถีสุตฺตวณฺณนา          
+<span class="LineNumber"> 006 </span>	นิจฺฉวิตฺถีวตฺถุสฺมึ  ยสฺมา  มาตุคาโม  นาม  อตฺตโน
+<span class="LineNumber"> 007 </span>ผสฺเส  อนิสฺสโร  สา  จ  ตํ  สามิกสฺส  สนฺตกํ  ผสฺสํ 
+<span class="LineNumber"> 008 </span>เถเนตฺวา ปเรสํ อภิรตึ อุปฺปเทสิ ตสฺมา  กมฺมสภาคตาย  
+<span class="LineNumber"> 009 </span>สุขสมฺผสฺสา  วสิตฺวา(๑)  ทุกฺขํ  สมฺผสฺสํ  อนุภวิตุํ นิจฺฉวิตฺถี 
+<span class="LineNumber"> 010 </span>หุตฺวา อุปฺปนฺนา ฯ 
+<span class="LineNumber"> 011 </span>				ตติยํ ฯ             
+
+<span class="LineNumber"> 012 </span>			มงฺคุลิตฺถีสุตฺตวณฺณนา          
+<span class="LineNumber"> 013 </span>	มงฺคุลตฺถีวตฺถุสฺมึ  มงฺคุลินฺติ  วิรูปํ  ทุทฺทสิกํ  วีภจฺฉํ(๒) ฯ 
+<span class="LineNumber"> 014 </span>สา กิร อิกฺขณิยา(๓) กมฺมํ ยกฺขทาสีกมฺมํ  กโรนฺตี  อิมินา  
+<span class="LineNumber"> 015 </span>จ  อิมินา  จ  เอวํ  พลิกมฺเม กเต อยํ ตุมฺหากํ วุฑฺฒิ  
+<span class="LineNumber"> 016 </span>ภวิสฺสตีติ  มหาชนสฺส  คนฺธปุปฺผาทีนิ  วฺจนาย  คเหตฺวา 
+<span class="LineNumber"> 017 </span>มหาชนํ ทุทฺทิฏฺ€ึ [๔]คณฺหาเปสิ  ตสฺมา  ตาย  กมฺมสภาคตาย
+<span class="LineNumber"> 018 </span># ๑. สฺยา. ธํสิตฺวาติ ปฺายติ ฯ สี. จวิตฺวา ฯ ม. วฏฺฏิตฺวา ฯ
+<span class="LineNumber"> 019 </span># กตฺถจิ วนฺติตฺวาติ ทิสฺสติ ฯ  ๒. ม. ทุทฺทสิกํ พีภจฺฉํ ฯ
+<span class="LineNumber"> 020 </span># ๓. อฺตฺถ อิกฺขณิยา กมฺมนฺติ ปา€า นตฺถิ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. เอตฺถนฺตเร มิจฺฉาทิฏฺ€ินฺติ ทิสฺสติ ฯ

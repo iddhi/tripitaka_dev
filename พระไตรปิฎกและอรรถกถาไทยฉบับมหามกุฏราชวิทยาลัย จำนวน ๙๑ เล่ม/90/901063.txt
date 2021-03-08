@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>						  <H2>อุปาทินนติกสรณทุกะ</H2>
+<span class="LineNumber"> 002 </span>				    <H2>(๔.  อุปาทินนติกะ  ๑๐๐. สรณทุกะ)</H2>		
+<span class="LineNumber"> 003 </span>						   <H2>สรณบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>						        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>						     <H2>๑. เหตุปัจจัย</H2>			
+<span class="LineNumber"> 006 </span>		[๘๗๖]  ๑.  สรณธรรมที่เป็นอนุปาทินนุปาทานิยธรรม  อาศัย
+<span class="LineNumber"> 007 </span>สรณธรรมที่เป็นอนุปาทินนุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย 
+<span class="LineNumber"> 008 </span>                   		     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>		[๘๗๗]  ในเหตุปัจจัย มี  ๑ วาระ  ฯลฯ  ในอวิคตปัจจัย  มี  ๑ วาระ.
+<span class="LineNumber"> 010 </span>           		สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี   ทุกปัจจัย   มี ๑ วาระ.
+                        			
+<span class="LineNumber"> 011 </span>						 <H2>อรณบทปฏิจจวาระ</H2>    
+<span class="LineNumber"> 012 </span>                          			     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>                                      	     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๘๗๘]  ๑.  อรณธรรมที่เป็นอุปาทินนุปาทานิยธรรม    อาศัย
+<span class="LineNumber"> 015 </span>อรณธรรมที่เป็นอุปาทินนุปาทานิยธรรม    เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 016 </span>มี ๓ วาระ.

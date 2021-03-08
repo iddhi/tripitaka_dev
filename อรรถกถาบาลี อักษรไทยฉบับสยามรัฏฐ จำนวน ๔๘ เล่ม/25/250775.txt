@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อุปาลิตฺเถรคาถาวณฺณนา  หน้า 775
+	
+<span class="LineNumber"> 002 </span>		ตเถวาหํ มหาวีร		ภวทณฺเฑน ตชฺชิโต  
+<span class="LineNumber"> 003 </span>		กมฺมสูลาวุโต สนฺโต	ปิปาสาเวทนาฏฺฏิโต ฯ (๑)  
+<span class="LineNumber"> 004 </span>		ภเว สาตํ น วินฺทามิ	ฑยฺหนฺโต ตีหิ อคฺคิภิ  
+<span class="LineNumber"> 005 </span>		ปริมุตฺตึ คเวสามิ		ยถาปิ ราชทณฺฑิโต ฯ  
+<span class="LineNumber"> 006 </span>		ยถา วิสาโท(๒) ปุริโส	วิเสน ปริปีฬิโต  
+<span class="LineNumber"> 007 </span>		อคทํ โส คเวเสยฺย		วิสฆาตายุปาลนํฯ (๓)  
+<span class="LineNumber"> 008 </span>		คเวสมาโน ปสฺเสยฺย	อคทํ วิสฆาตกํ  
+<span class="LineNumber"> 009 </span>		ตํ ปิวิตฺวา สุขี อสฺส (๔)  วิสมฺหา ปริมุตฺติยา ฯ  
+<span class="LineNumber"> 010 </span>		ตเถวาหํ มหาวีร		ยถา วิสหโต(๕) นโร  
+<span class="LineNumber"> 011 </span>		สมฺปีฬิโต อวิชฺชาย		สทฺธมฺมาคทเมสหํ ฯ  
+<span class="LineNumber"> 012 </span>		ธมฺมาคทํ (๖) คเวสนฺโต  อทฺทกฺขึ สกฺยสาสนํ  
+<span class="LineNumber"> 013 </span>		อคฺคสพฺโพสถานนฺ  ตํ (๗)  สพฺพสลฺลวิโนทนํ ฯ  
+<span class="LineNumber"> 014 </span>		ธมฺโมสถํ  ปิวิตฺวาน	วิสํ สพฺพํ สมูหนึ (๘)  
+<span class="LineNumber"> 015 </span>		อชรามรํ สีติภาวํ		นิพฺพานํ ผสฺสยึ(๙) อหํ ฯ  
+<span class="LineNumber"> 016 </span>		ยถา ภูตฏฺฏิโต(๑๐) โปโส ภูตคฺคาเหน ปีฬิโต  
+<span class="LineNumber"> 017 </span>		ภูตเวชฺชํ คเวเสยฺย		ภูตสฺมา ปริมุตฺติยา ฯ  
+<span class="LineNumber"> 018 </span># ๑. สฺยา. ปิปาสาเวทนาฏฺ€ิโต ฯ  ๒. สฺยา. วิสารโท ฯ 
+<span class="LineNumber"> 019 </span># ๓. สฺยา. วิสฆาตายุปายนํ ฯ  ยุ. วิสฆาตายุปายโส ฯ 
+<span class="LineNumber"> 020 </span># ๔. สี. ปิวิตฺวาน สุขี อสฺส ฯ  ๕. สฺยา. วิสคโต ฯ
+<span class="LineNumber"> 021 </span># ๖. สี. ธมฺโมสธํ ฯ  ๗. สฺยา. อคฺคสจฺโจสถานนฺตํ ฯ 
+<span class="LineNumber"> 022 </span># ยุ. อคฺคสพฺโพสถานนฺตํ ฯ  ๘. สี. สมูหตํ ฯ 
+<span class="LineNumber"> 023 </span># ๙. สฺยา. ปสฺสยึ ฯ  ๑๐. สฺยา. ภูตตชฺชิโต ฯ 

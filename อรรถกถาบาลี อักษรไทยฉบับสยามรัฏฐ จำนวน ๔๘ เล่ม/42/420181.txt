@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  42  หน้า  181
+
+<span class="LineNumber"> 002 </span>				พุทฺธาปทานวณฺณนา  
+<span class="LineNumber"> 003 </span>	อิทานิ อพฺภนฺตรนิทานานนฺตรํ อปทานฏฺ€กถํ กเถตุ-
+<span class="LineNumber"> 004 </span>กาโม  
+<span class="LineNumber"> 005 </span>		สปทานํ อปทานํ   วิจิตฺรนยเทสนํ  
+<span class="LineNumber"> 006 </span>		ยํ ขุทฺทกนิกายสฺมึ   สงฺคายึสุ มเหสโย  
+<span class="LineNumber"> 007 </span>		ตสฺส ทานิ อนุปฺปตฺโต  อตฺถสํวณฺณนากฺกโมติ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  ยํ  อปทานํ  ตาว  สกลํ  พุทฺธวจนํ  เอกวิมุตฺติรสนฺติ  
+<span class="LineNumber"> 009 </span>วุตฺตตฺตา  เอกรเส  สงฺคหํ  คจฺฉติ  ธมฺมวินยวเสน  ทฺวิธาสงฺคเห  
+<span class="LineNumber"> 010 </span>ธมฺเม  สงฺคหํ  คจฺฉติ  ป€มมชฺฌิมปจฺฉิมพุทฺธวจเนสุ  มชฺฌิม-
+<span class="LineNumber"> 011 </span>พุทฺธวจเน  สงฺคหํ  คจฺฉติ  วินยาภิธมฺมสุตฺตนฺตปิฏเกสุ สุตฺตนฺต-
+<span class="LineNumber"> 012 </span>ปิฏเก สงฺคหํ คจฺฉติ ทีฆนิกายมชฺฌิมสํยุตฺตองฺคุตฺตรขุทฺทก-
+<span class="LineNumber"> 013 </span>นิกาเยสุ  ปฺจสุ  นิกาเยสุ  ขุทฺทกนิกาเย  สงฺคหํ คจฺฉติ สุตฺตํ  
+<span class="LineNumber"> 014 </span>เคยฺยํ  เวยฺยากรณํ  คาถา  อุทานํ  อิติวุตฺตกํ  ชาตกํ  อพฺภุตธมฺมํ  
+<span class="LineNumber"> 015 </span>เวทลฺลนฺติ  นวสุ สตฺถุสาสนงฺเคสุ(๑) คาถาย สงฺคหิตํ ฯ  
+<span class="LineNumber"> 016 </span>		ทฺวาสีติ(๒) พุทฺธโต คณฺหึ  เทฺวสหสฺสานิ ภิกฺขุโต  
+<span class="LineNumber"> 017 </span>		จตุราสีติสหสฺสานิ   เย เม ธมฺมา ปวตฺติโนติ  
+<span class="LineNumber"> 018 </span>	เอวํ วุตฺตจตุราสีติสหสฺสธมฺมกฺขนฺเธสุ กติปยธมฺมกฺขนฺธ-
+<span class="LineNumber"> 019 </span>สงฺคหิตํ โหตีติ ฯ  
+<span class="LineNumber"> 020 </span>	อิทานิ  ตํ  อปทานํ  ทสฺเสนฺโต  ตึสปารมิสมฺปุณฺณา  
+<span class="LineNumber"> 021 </span>#  ๑ ม. สาสนงฺเคสุ ฯ  ๒ สี. ยุ. ทฺวาสีตึ ฯ  

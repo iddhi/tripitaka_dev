@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                           ทสกะ       คือหมวด  ๑๐  
+<span class="LineNumber"> 002 </span>                               อกุศลกรรมบถ ๑๐ 
+<span class="LineNumber"> 003 </span>		<B>จัดเป็นกายกรรม   คือทำด้วยกาย  ๓  อย่าง</B>
+<span class="LineNumber"> 004 </span>	<B>๑.  ปาณาติบาต </B>  ทำชีวิตสัตว์ให้ตกล่วง    คือฆ่าสัตว์.
+<span class="LineNumber"> 005 </span>	<B> ๒.  อทินนาทาน</B>   ถือเอาสิ่งที่เจ้าของไม่ได้ให้   ด้วยอาการของขโมย.
+<span class="LineNumber"> 006 </span>	<B>๓.  กาเมสุ    มิจฉาจาร </B>  ประพฤติผิดในกาม.
+<span class="LineNumber"> 007 </span>		<B> จัดเป็นวจีกรรม   คือทำด้วยวาจา  ๔  อย่าง</B>
+<span class="LineNumber"> 008 </span>	<B>๔.  มุสาวาท</B>    พูดเท็จ.
+<span class="LineNumber"> 009 </span>	<B>๕.  ปิสุณาวาจา </B>  พูดส่อเสียด.
+<span class="LineNumber"> 010 </span>	<B> ๖.  ผรุสวาจา</B>   พูดคำหยาบ.
+<span class="LineNumber"> 011 </span>	<B>๗.  สัมผัปปลาปะ</B>   พูดเพ้อเจ้อ.
+<span class="LineNumber"> 012 </span>		<B> จัดเป็นมโนกรรม  คือทำด้วยใจ  ๓ อย่าง</B>
+<span class="LineNumber"> 013 </span>	<B>๘.  อภิชฌา </B>  โลภอยากได้ของเขา.
+<span class="LineNumber"> 014 </span>	<B> ๙.  พยาบาท  </B> ปองร้ายเขา.
+<span class="LineNumber"> 015 </span>	<B>๑๐. มิจฉาทิฏฐิ</B>    เห็นผิดจากคลองธรรม.
+<span class="LineNumber"> 016 </span>		กรรม  ๑๐  อย่างนี้   เป็นทางบาป   ไม่ควรดำเนิน.
+<span class="LineNumber"> 017 </span>										ที.  มหา.  ๑๐/๓๕๖

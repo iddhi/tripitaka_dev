@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ๘.  ข้าพเจ้าถึงพระธรรมเจ้าเป็นสรณะครั้งที่ ๓. 
+<span class="LineNumber"> 002 </span>           ๙.  ข้าพเจ้าถึงพระสงฆเจ้าเป็นสรณะครั้งที่ ๓.
+<span class="LineNumber"> 003 </span>                                คำบอกสิกขาบท ๑๐
+<span class="LineNumber"> 004 </span>           ๒.  ปาณาติปาตา  เวรมณี.
+<span class="LineNumber"> 005 </span>           ๒.  อทินฺนาทานา  เวรมณี.
+<span class="LineNumber"> 006 </span>           ๓.  อพฺรหฺมจริยา  เวรมณี.
+<span class="LineNumber"> 007 </span>           ๔.  มุสาวาทา  เวรมณี.
+<span class="LineNumber"> 008 </span>           ๕.  สุราเมรยมชฺชปมาทฏฺ€านา  เวรมณี.
+<span class="LineNumber"> 009 </span>           ๖.  วิกาลโภชนา  เวรมณี.
+<span class="LineNumber"> 010 </span>           ๗.  นจฺจคีตวาทิตวิสูกทสฺสนา  เวรมณี.
+<span class="LineNumber"> 011 </span>           ๘.  มาลาคนฺธวิเลปนธารณมณฺฑนวิภูสนฏฺ€านา  เวรมณี.
+<span class="LineNumber"> 012 </span>           ๙.  อุจฺจาสยนมหาสยนา  เวรมณี.
+<span class="LineNumber"> 013 </span>         ๑๐.  ชาตรูปรชตปฏิคฺคหณา  เวรมณี.
+<span class="LineNumber"> 014 </span>                 มีคำประกอบเข้าเป็นคำสมาทาน.
+<span class="LineNumber"> 015 </span>                                      คำแปล
+<span class="LineNumber"> 016 </span>           ๑.  เว้นจากฆ่าสัตว์.
+<span class="LineNumber"> 017 </span>           ๒.  เว้นจากขโมย.
+<span class="LineNumber"> 018 </span>           ๓.  เว้นจากกรรมมิใช่พรหมจรรย์.
+<span class="LineNumber"> 019 </span>           ๔.  เว้นจากพูดเท็จ.
+<span class="LineNumber"> 020 </span>           ๕.  เว้นจากดื่มน้ำเมาคือสุราและเมรัยอันเป็นฐานประมาท.
+<span class="LineNumber"> 021 </span>           ๖.  เว้นจากบริโภคอาหารผิดเวลา.
+
+        

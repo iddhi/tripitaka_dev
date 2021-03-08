@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>โทมนัสสินทริยมูล</H1>  
+<span class="LineNumber"> 002 </span><B>โทมนัสสินทริยมูละ   อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๑๓๕๙]   บุคคลใดเคยละโทมนัสสินทรีย์,    บุคคลนั้นก็เคย
+<span class="LineNumber"> 004 </span>เจริญอนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า  บุคคลใดเคยเจริญอนัญญาตัญญัสสามีตินทรีย์   บุคคล
+<span class="LineNumber"> 007 </span>นั้นก็เคยละโทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         บุคคล ๔ จำพวก     เคยเจริญอนัญญาตัญญัสสามีตินทรีย์    แต่
+<span class="LineNumber"> 009 </span>ไม่ใช่เคยละโทมนัสสินทรีย์,    บุคคล  ๓  จำพวก      เคยเจริญอนัญญา-
+<span class="LineNumber"> 010 </span>ตัญญัสสามีตินทรีย์   และก็เคยละโทมนัสสินทรีย์.
+<span class="LineNumber"> 011 </span>         <I>จบ  โทมนัสสินทริยมูละ   อนัญญาตัญญัสสามีตินทริยมูลี</I>
+
+<span class="LineNumber"> 012 </span><B>โทมนัสสินทริยมูละ    อัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 013 </span>         [๑๓๖๐]   บุคคลใดเคยละโทมนัสสินทรีย์     บุคคลนั้นก็เคย
+<span class="LineNumber"> 014 </span>เจริญอัญญินทรีย์  ใช่ไหม  ?

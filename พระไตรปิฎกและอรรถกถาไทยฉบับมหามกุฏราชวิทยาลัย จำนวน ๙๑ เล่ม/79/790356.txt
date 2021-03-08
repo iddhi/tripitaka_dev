@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>การก้าวไปข้างหน้าเป็นต้นอันเป็นเช่นกับด้วยความลึกซึ้งแห่งคุณธรรมทั้งหลาย 
+<span class="LineNumber"> 002 </span>แต่เพราะความมีกิเลสหนา     และเพราะความไม่มีแห่งคุณธรรมอันลึกซึ้ง    จึง
+<span class="LineNumber"> 003 </span>ชื่อว่า เป็นเหมือนกับน้ำตื้น แต่มีเงาอันลึก  <B>(อุตฺตาโน  คมฺภีโรภาโส  นาม).</B>
+<span class="LineNumber"> 004 </span>บุคคลที่เหลือ  บัณฑิตพึงทราบโดยนัยนี้.
+
+<span class="LineNumber"> 005 </span>         <B>บรรดาบุคคลเหล่านั้น  บุคคลเปรียบด้วยโคถึก  ๔  จำพวก 
+<span class="LineNumber"> 006 </span>เป็นไฉน ?</B>
+<span class="LineNumber"> 007 </span>         [๑๒๑]   <B>โคถึก  ๔  จำพวก</B>
+<span class="LineNumber"> 008 </span>                             โคดุพวกของตน   ไม่ดุพวกอื่น  ๑.
+<span class="LineNumber"> 009 </span>                             โคดุพวกอื่น  ไม่ดุพวกของตน  ๑.
+<span class="LineNumber"> 010 </span>                             โคดุทั้งพวกของตน   ดุทั้งพวกอื่น ๑.
+<span class="LineNumber"> 011 </span>                             โคไม่ดุทั้งพวกของตน  ไม่ดุทั้งพวกอื่น  ๑.
+
+<span class="LineNumber"> 012 </span>         [๑๒๒]   <B>บุคคลเปรียบด้วยโคถึก  ๔ จำพวก   เหล่านี้   มีปรากฏ
+<span class="LineNumber"> 013 </span>อยู่ในโลกฉันนั้นเหมือนกัน</B>
+<span class="LineNumber"> 014 </span>         <B>บุคคล  ๔  จำพวก  เป็นไฉน  ?</B>
+<span class="LineNumber"> 015 </span>                             คนดุพวกของตน  แต่ไม่ดุพวกอื่น  ๑.
+<span class="LineNumber"> 016 </span>                             คนดุพวกอื่น   แต่ไม่ดุพวกของตน  ๑.
+<span class="LineNumber"> 017 </span>                             คนดุทั้งพวกของตน  ดุทั้งพวกอื่น  ๑.
+<span class="LineNumber"> 018 </span>                             คนไม่ดุทั้งพวกของตน  ไม่ดุทั้งพวกอื่น  ๑.

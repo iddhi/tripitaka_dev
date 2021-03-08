@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๔.  นันทนสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๕๘]   นันทนเทวบุตร  ยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้ว   ได้ทูล 
+<span class="LineNumber"> 003 </span>พระผู้มีพระภาคเจ้าด้วยคาถาว่า
+<span class="LineNumber"> 004 </span>                             <B>ข้าแต่พระโคดม  ผู้มีพระปัญญา
+<span class="LineNumber"> 005 </span>                   กว้างขวาง  ข้าพระองค์ขอทูลถามพระองค์
+<span class="LineNumber"> 006 </span>                   ถึงญาณทัสสนะ    อันไม่มีอะไรขวางกั้น
+<span class="LineNumber"> 007 </span>                   ของพระผู้มีพระภาคเจ้า   บัณฑิตทั้งหลาย
+<span class="LineNumber"> 008 </span>                   เรียกบุคคลชนิดไรว่า  เป็นผู้มีศีล  เรียก
+<span class="LineNumber"> 009 </span>                   บุคคลชนิดไรว่า  เป็นผู้มีปัญญา   บุคคล
+<span class="LineNumber"> 010 </span>                   ชนิดไรล่วงทุกข์อยู่ได้   เทวดาทั้งหลาย
+<span class="LineNumber"> 011 </span>                   บูชาบุคคลชนิดไร.</B>
+<span class="LineNumber"> 012 </span>         [๒๕๙]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 013 </span>                             <B>บุคคลใด   มีศีล  มีปัญญา   อบรม
+<span class="LineNumber"> 014 </span>                   ตนแล้ว  มีจิตตั้งมั่น  ยินดีในฌาน  มีสติ
+<span class="LineNumber"> 015 </span>                   ปราศจากความโศกทั้งหมด  ละได้ขาดสิ้น
+<span class="LineNumber"> 016 </span>                   อาสวะแล้ว     ทรงไว้ซึ่งร่างกายสุดท้าย
+<span class="LineNumber"> 017 </span>                   บัณฑิตทั้งหลายเรียกบุคคลชนิดนั้นว่า
+<span class="LineNumber"> 018 </span>                   เป็นผู้มีศีล  เรียกบุคคลชนิดนั้นว่า  เป็นผู้
+<span class="LineNumber"> 019 </span>                   มีปัญญา     บุคคลชนิดนั้นล่วงทุกข์อยู่ได้
+<span class="LineNumber"> 020 </span>                   เทวดาทั้งหลายบูชาบุคคลชนิดนั้น.</B>

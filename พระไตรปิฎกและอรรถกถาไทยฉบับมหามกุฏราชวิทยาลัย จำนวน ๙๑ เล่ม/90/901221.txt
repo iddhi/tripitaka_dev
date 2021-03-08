@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                   		<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 002 </span>		[๒๐]  ในเหตุปัจจัย  มี ๓ วาระ  ในอารัมมณปัจจัย มี ๑ วาระ  ฯลฯ 
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย  มี  ๓ วาระ.
+<span class="LineNumber"> 004 </span>         	สหชาตวาระก็ดี   ฯลฯ   สัมปยุตตวาระก็ดี    พึงให้พิสดารเหมือนกับ
+<span class="LineNumber"> 005 </span>ปฏิจจวาระ.
+                 
+<span class="LineNumber"> 006 </span>					<H1>เหตุวิปปยุตตบทปัญหาวาระ</H1>
+<span class="LineNumber"> 007 </span>						 <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>					      <H2>๑. เหตุปัจจัย</H2>     
+<span class="LineNumber"> 009 </span>		[๒๑]  ๑.  เหตุเหตุวิปปยุตตธรรม  เป็นปัจจัยแก่นเหตุเหตุ-
+<span class="LineNumber"> 010 </span>วิปปยุตตธรรม  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 011 </span>                    	   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>		[๒๒]  ในเหตุปัจจัย  มี  ๑ วาระ     ในอารัมมณปัจจัย  มี ๔ วาระ
+<span class="LineNumber"> 013 </span>ฯลฯ  ในอวิคตปัจจัย มี  ๔  วาระ.
+<span class="LineNumber"> 014 </span>		ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 015 </span>				<I>เหตุทุกเหตุสัมปยุตตทุกะ  จบ</I>

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>ในนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 002 </span>           [๑๙๕๑]   ในเหตุปัจจัย   มี ๓ วาระ   ในอารัมมณปัจจัย   มี ๓ วาระ 
+<span class="LineNumber"> 003 </span>ในอธิปติปัจจัย   มี ๓ วาระ  ฯลฯ ในปัจจัยทั้งปวง  มีปัจจัยละ ๓ วาระ
+<span class="LineNumber"> 004 </span>ในวิคตปัจจัย  มี ๓ วาระ   ในอวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 005 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 006 </span>                                      <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                         <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 008 </span>                                      <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๙๕๒] ๑.  <B>อตีตารัมมณธรรม อาศัยอตีตารัมมณธรรม  เกิด
+<span class="LineNumber"> 010 </span>ขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ   ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอตีตารัมมณธรรม   ซึ่งเป็นอเหตุกะ
+<span class="LineNumber"> 012 </span>ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 013 </span>           ในอเหตุกปฏิสนธิขณะ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วย
+<span class="LineNumber"> 014 </span>อุทธัจจะ  อาศัยขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ
+<span class="LineNumber"> 015 </span>           [๑๙๕๓] ๒.  <B>อนาคตารัมมณธรรม อาศัยอนาคตารัมมณธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ   ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอนาคตารัมมณธรรม   ซึ่งเป็น
+<span class="LineNumber"> 018 </span>อเหตุกะ ฯลฯ ขันธ์ ๒ ฯลฯ.

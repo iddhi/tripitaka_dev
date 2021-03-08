@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 451
+
+<span class="LineNumber"> 002 </span>	[๑๑๐๔]อเถตฺถ ปฺจโม อาคา	โย นํ(๑)รถมยาจถ  
+<span class="LineNumber"> 003 </span>		ตสฺส ตํ (๒)ปฏิยาเทสิ	น จสฺส(๒) ปหโต มโน  
+<span class="LineNumber"> 004 </span>	[๑๑๐๕]ตโต เวสฺสนฺตโร ราชา	โอโรเปตฺวา สกํ ชนํ  
+<span class="LineNumber"> 005 </span>		อสฺสาสยิ อสฺสรถํ		พฺราหฺมณสฺส ธเนสิโนติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  เอถตฺถาติ  อเถตสฺมึ (๓) วเน ฯ  น  จสฺส  ปหโต
+<span class="LineNumber"> 007 </span>มโนติ น  จสฺส มโน โอลิโน (๔)ฯ อสฺสาสยีติ ปริโตเสนฺโต 
+<span class="LineNumber"> 008 </span>นิยฺยาเทสิ ฯ  
+<span class="LineNumber"> 009 </span>	ตโต ปฏฺ€าย ปน เต สพฺเพปิ ปตฺติกาว อเหสุํ ฯ  
+<span class="LineNumber"> 010 </span>	อถ มหาสตฺโต มทฺทึ อโวจ  
+<span class="LineNumber"> 011 </span>	[๑๑๐๖]ตฺวํ มทฺทิ กณฺหาชินํ (๕)คณฺหาหิ  
+<span class="LineNumber"> 012 </span>		ลหุกา เอสา กนิฏฺ€กา  
+<span class="LineNumber"> 013 </span>		อหํ ชาลึ คณฺหิสฺสามิ (๖) 
+<span class="LineNumber"> 014 </span>		ครุโก ภาติโก หิ โสติ ฯ  
+<span class="LineNumber"> 015 </span>	เอวฺจ ปน วตฺวา อุโภปิ [)] เทฺว ทารเก องฺเกนาทาย
+<span class="LineNumber"> 016 </span>ปกฺกมึสุ ฯ  
+<span class="LineNumber"> 017 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 018 </span>	[๑๑๐๗]ราชา กุมารํ อาทาย (๘)	ราชปุตฺตี จ ทาริกํ  
+<span class="LineNumber"> 019 </span>		สมฺโมทมานา ปกฺกามม	อฺมฺํ ปิยํ วทาติ ฯ  
+<span class="LineNumber"> 020 </span>				ทานกณฺฑํ นิฏฺ€ิตํ(๙) ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. โส ตํ ฯ  ๒. ม. ยาจิโตทาสิ น จสฺสุ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. อถ ตสฺมึ ฯ  ๔. ม. โอลีโน ฯ ๕. ม. กณฺหํ ฯ
+<span class="LineNumber"> 023 </span># ๖. ม. คเหสฺสามิ ฯ  ๗. ม.เอตฺถนฺตเร ขตฺติยาติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 024 </span># ๘. ม. กุมารมาทาย ฯ  ๙. ม. ทานกณฺฑวณฺณนา นิฏฺ€ิตา ฯ

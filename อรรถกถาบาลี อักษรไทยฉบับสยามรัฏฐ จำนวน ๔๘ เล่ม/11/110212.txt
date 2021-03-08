@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๒๑๒
+
+<span class="LineNumber"> 002 </span>นานาชวนวาเรปิ  ลพฺภนฺติ  ปริฬาหปริเยสนาลาโภ   นานา-
+<span class="LineNumber"> 003 </span>ชวนวาเรเยวาติ ฯ 
+<span class="LineNumber"> 004 </span>					นวมํ ฯ
+<span class="LineNumber"> 005 </span>	ทสมํ อุตฺตานตฺถเมวาติ ฯ นวมทสมานิ ฯ       
+<span class="LineNumber"> 006 </span>					ทสมํ ฯ
+<span class="LineNumber"> 007 </span>				นานตฺตวคฺโค ป€โม ฯ           
+
+<span class="LineNumber"> 008 </span>				สตฺตธาตุสุตฺตวณฺณนา           
+<span class="LineNumber"> 009 </span>	ทุตยวคฺคสฺส  ป€เม  อาภาธาตูติ  อาโลกธาตุ ฯ  อาโลกสฺสปิ   
+<span class="LineNumber"> 010 </span>อาโลกกสิเณ  ปริกมฺมํ  กตฺวา อุปฺปนฺนชฺฌานสฺส(๑) ปีติยารมฺมณสฺส(๒)
+<span class="LineNumber"> 011 </span>เอตนฺนามํ ฯ สุภธาตูติ  สุภกสิเณ  อุปฺปนฺนชฺฌานวเสน  
+<span class="LineNumber"> 012 </span>สหารมฺมณชฺฌานเมว ฯ  อากาสานฺ  จายตนเมว  อากาสา-
+<span class="LineNumber"> 013 </span>นฺจายตนธาตุ ฯ  สฺาเวทยิตนิโรโธว สฺาเวทยิตนิโรธ-
+<span class="LineNumber"> 014 </span>ธาตุ ฯ  อิติ  ภควา  อนุสนฺธิกุสลสฺส  ภิกฺขุโน  ตตฺถ  นิสีทิตฺวา 
+<span class="LineNumber"> 015 </span>ปฺหํ  ปุจฺฉิตุกามสฺส โอกาสํ เทนฺโต เทสนํ นิฏฺ€าเปสิ ฯ              
+<span class="LineNumber"> 016 </span>	อนฺธการํ  ปฏิจฺจาติ  อนฺธกาโร  หิ  อาโลเกน  ปริจฺฉินฺโน  
+<span class="LineNumber"> 017 </span>อาโลโกปิ   อนฺธกาเรน ฯ  อนฺธกาเรน  หิ  โส  ปากโฏ  โหติ  
+<span class="LineNumber"> 018 </span>ตสฺมา  อนฺธการํ  ปฏิจฺจ  ปฺายตีติ  อาห ฯ  อสุภํ  ปฏิจฺจาติ 
+<span class="LineNumber"> 019 </span># ๑. สฺยา. อุปฺปนฺนชฺฌานสฺส ปีติยา ฯ  ม. อุปฺปนฺนชฺฌานสฺสาปีติ ฯ 
+<span class="LineNumber"> 020 </span># ๒. ม. สหารมฺมณสฺส ฯ

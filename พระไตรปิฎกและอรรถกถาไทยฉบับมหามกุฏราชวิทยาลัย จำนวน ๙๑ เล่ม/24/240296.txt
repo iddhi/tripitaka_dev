@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                 <h1>ฆัตวาวรรคที่  ๘</h1> 
+
+<span class="LineNumber"> 002 </span>                                  <h1>๑.  ฆัตวาสูตร</h1>
+
+<span class="LineNumber"> 003 </span>                         <H1>ว่าด้วยเทวตาปัญหา  ๓   ข้อ</H1>
+
+<span class="LineNumber"> 004 </span>         [๑๙๘]   เทวดานั้น  ยืน  ณ  ที่ควรส่วนข้างหนึ่งแล้ว    ได้กราบทูล
+<span class="LineNumber"> 005 </span>พระผู้มีพระภาคเจ้าด้วยคาถาว่า
+<span class="LineNumber"> 006 </span>                             <B>ฆ่าอะไรหนอจึงอยู่เป็นสุข    ฆ่า
+<span class="LineNumber"> 007 </span>                   อะไรหนอจึงไม่เศร้าโศก  ข้าแต่พระโคดม
+<span class="LineNumber"> 008 </span>                   พระองค์ชอบฆ่าอะไรซึ่งเป็นธรรมอันเดียว.</B>
+<span class="LineNumber"> 009 </span>         [๑๙๙]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 010 </span>                             <B>ฆ่าความโกรธเสียได้จึงอยู่เป็นสุข
+<span class="LineNumber"> 011 </span>                   ฆ่าความโกรธเสียจึงไม่เศร้าโศก แน่ะ
+<span class="LineNumber"> 012 </span>                   เทวดา   พระอริยเจ้าทั้งหลาย   สรรเสริญ
+<span class="LineNumber"> 013 </span>                   การฆ่าความโกรธ  ซึ่งมีรากเป็นพิษ  มี
+<span class="LineNumber"> 014 </span>                   ยอดหวาน    เพราะฆ่าความโกรธนั้นเสีย
+<span class="LineNumber"> 015 </span>                   แล้ว  ย่อมไม่เศร้าโศก.</B>

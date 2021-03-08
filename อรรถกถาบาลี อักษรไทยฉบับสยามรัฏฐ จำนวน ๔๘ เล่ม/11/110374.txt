@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑  หน้า ๓๗๔
+
+<span class="LineNumber"> 002 </span>				วิสาขสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	สตฺตเม  โปริยา  วาจายาติ  ปุรวาสีนํ  นครมนุสฺสานํ 
+<span class="LineNumber"> 004 </span>วาจาสทิสาย  อปริหีนกฺขรปทาย  มธุรวาจาย ฯ  วิสฺสฏฺ€ายาติ
+<span class="LineNumber"> 005 </span>อวิสทฺธิตาย (๑)  อปลิพุทฺธาย ปิตฺตเสเมฺหหิ  อนุปหตายาติ  อตฺโถ ฯ
+<span class="LineNumber"> 006 </span>อเนลคฬายาติ  ยถา  ทนฺธมนุสฺสา  มุเขน เขฬํ  คฬนฺเตน  วาจํ  
+<span class="LineNumber"> 007 </span>ภาสนฺติ  น  เอวรูปาย  อถโข  นิทฺโทสาย  วิสทวาจาย ฯ   
+<span class="LineNumber"> 008 </span>ปริยาปนฺนายาติ  จตุสจฺจปริยาปนฺนาย  จตฺตาริ  สจฺจานิ  
+<span class="LineNumber"> 009 </span>อมุฺจิตฺวา(๒) ปวตฺตาย ฯ  อนิสฺสิตายาติ  วฏฺฏนิสฺสิตํ  กตฺวา  
+<span class="LineNumber"> 010 </span>อกถิตาย ฯ  ธมฺโม  หิ อิสินํ ธโชติ นววิธโลกุตฺตรธมฺโม อิสีนํ 
+<span class="LineNumber"> 011 </span>ธโช นามาติ ฯ 
+<span class="LineNumber"> 012 </span>				สตฺตมํ ฯ          
+
+<span class="LineNumber"> 013 </span>			นนฺทสุตฺตวณฺณนา            
+<span class="LineNumber"> 014 </span>	อฏฺ€เม  อาโกฏิตปจฺจาโกฏิตานีติ  เอกสฺมึ  ปสฺเส  ปาณินา  
+<span class="LineNumber"> 015 </span>วา  มุคฺคเรน  วา  อาโกฏเนน  อาโกฏิตานิ  ปริวตฺเตตฺวา  
+<span class="LineNumber"> 016 </span>อาโกฏเนน ปจฺจาโกฏิตานิ ฯ  อฺชิตฺวาติ   อฺชเนน ปูเรตฺวา ฯ 
+<span class="LineNumber"> 017 </span>อจฺฉํ ปตฺตนฺติ วิปฺปสนฺนวณฺณํ มตฺติกาปตฺตํ ฯ 
+<span class="LineNumber"> 018 </span>	กสฺมา  ปน  เถโร  เอวมกาสีติ ฯ  สตฺถุ  อชฺฌาสย-
+<span class="LineNumber"> 019 </span>ชานนตฺถํ ฯ  เอวํ  กิรสฺส  อโหสิ  สเจ  สตฺถา  โสภติ  วต
+<span class="LineNumber"> 020 </span># ๑. ม. อสนฺทิทฺธาย ฯ  ๒. ม. อมุฺจิตฺวา ฯ

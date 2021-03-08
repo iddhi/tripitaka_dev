@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>ปัญหาวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                  <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 003 </span>                           <H2>๑. อารัมมณปัจจัย</H2>   
+<span class="LineNumber"> 004 </span>                               <H2>อนุปาทินนบท</H2>		
+<span class="LineNumber"> 005 </span>                       ๑.  <B>อนุปาทินนธรรม   ที่เป็นสนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 006 </span>เป็นปัจจัยแก่ธรรม    ที่ไม่ใช่อนุปาทินนธรรม    ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 007 </span>สัปปฏิฆธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 008 </span>           ในอารัมมณปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 009 </span> <I>สนิทัสสนติกอุปาทินนทุกนสนิทัสสนติกนอุปาทินนทุกะ  จบ</I>
+
+<span class="LineNumber"> 010 </span>                     <H1>สนิทัสสนติกอุปาทานโคจฉกทุกะ</H1>
+<span class="LineNumber"> 011 </span>                 <H1>นสนิทัสสนติกโนอุปาทานโคจฉกทุกะ</H1>
+<span class="LineNumber"> 012 </span><H2>(๒๒.  สนิทัสสนติกะ  ๖๙.-๗๔. อุปาทานโคจฉกะ)</H2>	 
+<span class="LineNumber"> 013 </span>                                  <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 014 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>                                    <H2>อุปาทานบท</H2>
+<span class="LineNumber"> 017 </span>           [๖๓๗] ๑.  <B>ธรรมที่ไม่ใช่อุปาทานธรรม  ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 018 </span>อัปปฏิฆธรรม  อาศัยอุปาทานธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 019 </span>เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 020 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 021 </span>           [๖๓๘]  ในเหตุปัจจัย  มี  ๖  วาระ  ฯลฯ
+<span class="LineNumber"> 022 </span><I>สนิทัสสนติกอุปาทานโคจฉกทุกนสนิทัสสนติกโนอุปาทานโคจฉกทุกะ จบ</I>

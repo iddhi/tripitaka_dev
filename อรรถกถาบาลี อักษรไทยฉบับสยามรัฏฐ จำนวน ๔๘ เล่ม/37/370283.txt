@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 283
+
+<span class="LineNumber"> 002 </span>	ปสฺเสตฺถ ปณฺณสาลาโย		วิภตฺตา ภาคโส มิตา  
+<span class="LineNumber"> 003 </span>	นิเวสเน นิเวเส จ			สนฺธิพฺยุฬฺเห จ วีถิโย(๑) ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  สุปาการนฺติ  กาฺจนปาการปริกฺขิตฺตํ ฯ  ปณฺณ-
+<span class="LineNumber"> 005 </span>สาลาโยติ  นานาภณฺฑิยปริปุณฺเณ(๒)  อาปเณ ฯ  นิเวสเน  นิเวเส 
+<span class="LineNumber"> 006 </span>จาติ  เคหานิ  เจว  เคหวตฺถูนิ  จ ฯ  สนฺธิพฺยุฬเหติ  ฆรสนฺธิโย
+<span class="LineNumber"> 007 </span>จ  อนิพฺพิทฺธรจฺฉา  จ ฯ วีถิโยติ นิพฺพิทฺธวีถิโย จ ฯ  
+<span class="LineNumber"> 008 </span>	[๙๒๖]ปานาคาเร จ โสณฺเฑ จ  สูณา โอทนิยา ฆรา  
+<span class="LineNumber"> 009 </span>		เวสี จ คณิกาโย จ		มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 010 </span>		มาลากาเร จ รชเก		คนฺธิเก อถ ทุสฺสิเก  
+<span class="LineNumber"> 011 </span>		สุวณฺณกาเร มณิกาเร	มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 012 </span>		อาฬาริเก จ สูเท จ	นฏฺฏนฏฺฏกคายเก(๓)  
+<span class="LineNumber"> 013 </span>		ปาณิสฺสเร กุมฺภถูนิเก	มณิมฺหิ ปสฺส นิมฺมิตํ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  โสณฺเฑ  จาติ  อตฺตโน  อนุรูเปหิ  กณฺ€กณฺณ-
+<span class="LineNumber"> 015 </span>ปิลนฺธเนหิ  สมนฺนาคเต  อาปานภูมึ  สชฺชิตฺวา  นิสินฺเน 
+<span class="LineNumber"> 016 </span>สุราโสณฺเฑ  จ ฯ  อาฬาริเกติ  สูปิเก (๔)ฯ  สูเทติ ภตฺตการเก ฯ
+<span class="LineNumber"> 017 </span>ปาณิสฺสเรติ ปาณิปฺปหาเรน  คายนฺเต ฯ กุมฺภถูนิเกติ 
+<span class="LineNumber"> 018 </span>ฆฏททฺทริวาทเกติ ฯ  
+<span class="LineNumber"> 019 </span>	[๙๒๗]ปสฺส เภรีมุทิงฺคา จ	สํขา ปณฺฑวเทนฺทิมา  
+<span class="LineNumber"> 020 </span>		สพฺพฺจ ตาลาวจรํ	มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 021 </span># ๑. ม. ปถทฺธิโยติ ฯ  ๒. ม. นานาภณฺฑปุณฺเณ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. น ฏนาฏกคายิโน ฯ  ๔. ม. ปูวปาเก ฯ 

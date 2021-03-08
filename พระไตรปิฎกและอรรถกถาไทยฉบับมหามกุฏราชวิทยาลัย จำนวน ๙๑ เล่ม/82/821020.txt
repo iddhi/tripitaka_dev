@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>ปุคคโลกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                       <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         [๙๙๕]   ทุกขสัจจะจักเกิดแก่บุคคลใดในภูมิใด,    สมุทยสัจจะ
+<span class="LineNumber"> 005 </span>ก็จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         บุคคลผู้ถึงพร้อมด้วยอรหัตมรรคก็ดี      พระอรหันต์ทั้งหลายก็ดี
+<span class="LineNumber"> 007 </span>บุคคลเหล่าใดจะได้อรหัตมรรคในลำดับแห่งจิตใดก็ดี       บุคคลที่เกิดอยู่
+<span class="LineNumber"> 008 </span>ในอสัญญสัตตภูมิก็ดี  ทุกขสัจจะจักเกิดแก่บุคคลเหล่านั้นในภูมินั้น  แต่
+<span class="LineNumber"> 009 </span>สมุทยสัจจะไม่ใช่จักดับแก่บุคคลเหล่านั้นในภูมินั้น,    บุคคลผู้เกิดอยู่ใน
+<span class="LineNumber"> 010 </span>จตุโวการภูมิ    ในปัญจโวการภูมิ   ที่นอกจากนั้น    ทุกขสัจจะก็จักเกิด
+<span class="LineNumber"> 011 </span>สมุทยสัจจะก็จักดับแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 012 </span>         คำว่า   <B>ยสฺส</B>  ( แก่บุคคลใด  )  ก็ดี      คำว่า  <B>ยสฺสยตฺถ</B>    ( แก่
+<span class="LineNumber"> 013 </span>บุคคลใดในภูมิใด )  ก็ดี  เป็นเช่นเดียวกัน.
+<span class="LineNumber"> 014 </span>                       <I>จบ  ทุกขสัจจมูละ   สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 015 </span>                                   <I>ทุกขสัจจมูล   จบ</I>
+<span class="LineNumber"> 016 </span>                               <I>ปุคคโลกาสวาระ    จบ</I>
+<span class="LineNumber"> 017 </span>                              <I>อนาคตวาระอนุโลม   จบ</I>

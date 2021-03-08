@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  สตฺตกนิปาตวณฺณนา  หน้า  206  
+
+<span class="LineNumber"> 002 </span>	เทฺวนวุเต  อิโต  กปฺเป  		ผุสฺโส  อุปฺปชฺชิ  นายโก  
+<span class="LineNumber"> 003 </span>	ทุราสโท  ทุปฺปสโห  		สพฺพโลกุตฺตโม  ชิโน ฯ  
+<span class="LineNumber"> 004 </span>	จรเณน  จ  สมฺปนฺโน  		พฺรหา  (๒)  อุชุ  ปตาปวา  
+<span class="LineNumber"> 005 </span>	หิเตสี  สพฺพสตฺตานํ  		พหุํ  โมเจสิ  พนฺธนา ฯ  
+<span class="LineNumber"> 006 </span>	นนฺทารามวเน  (๒)  ตสฺส  	อโหสึ  ผุสฺสโกกิโล  
+<span class="LineNumber"> 007 </span>	คนฺธกุฏิสมาสนฺเน  			อมฺพรุกฺเข  วสามหํ  (๓)  ฯ  
+<span class="LineNumber"> 008 </span>	ตทา  ปิณฺฑาย  คจฺฉนฺตํ  		ทกฺขิเณยฺยํ  ชินุตฺตมํ  
+<span class="LineNumber"> 009 </span>	ทิสฺวา  จิตฺตํ  ปสาเทตฺวา  	มฺชุนาภินิกูชหํ ฯ  
+<span class="LineNumber"> 010 </span>	ราชุยฺยานํ  ตทา  คนฺตฺวา  		สุปกฺกํ  กนกตฺตจํ  
+<span class="LineNumber"> 011 </span>	อมฺพปิณฺฑํ  คเหตฺวาน  		สมฺพุทฺธสฺโสปนามยึ ฯ  
+<span class="LineNumber"> 012 </span>	ตทา  เม  จิตฺตมฺาย  		มหาการุณิโก  ชิโน  
+<span class="LineNumber"> 013 </span>	อุปฏฺ€ากสฺส  หตฺถโต  		ปตฺตํ  ปคฺคณฺหิ  นายโก ฯ  
+<span class="LineNumber"> 014 </span>	อทาสึ  (๔)  หฏฺ€จิตฺโตหํ  	อมฺพปิณฺฑํ  มหามุเน  
+<span class="LineNumber"> 015 </span>	ปตฺเต  ปกฺขิปฺป  ปกฺเขหิ  		ปฺชลึ  กตฺวาน  มฺชุนา ฯ  
+<span class="LineNumber"> 016 </span>	สเรน  รชนีเยน  			สวนีเยน  วคฺคุนา  (๕)  
+<span class="LineNumber"> 017 </span>	วสฺสนฺโต  พุทฺธปูชตฺถํ  		นีฬํ  (๖)  คนฺตฺวา  นิปชฺชหํ ฯ  
+<span class="LineNumber"> 018 </span>	ตทา  มุทิตจิตฺตํ  มํ  			พุทฺธเปมคตาสยํ  
+<span class="LineNumber"> 019 </span>	สกุณคฺฆิ  อุปาคนฺตฺวา  		ฆาตยี  ทุฏฺ€มานโส ฯ  (๗)  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา.  พฺรหฺมา  ฯ  ๒.  สฺยา.  นนฺทารามวเร  ฯ  ๓.  สฺยา.  มฺชุนา
+<span class="LineNumber"> 021 </span>#อภิกูชหํ  ฯ  ๔.  ยุ.  ททามิ  ฯ  ๕  สฺยา.  มฺชุนา  ฯ  ยุ.  ธํสนา  ฯ  
+<span class="LineNumber"> 022 </span>#๖.  สฺยา.  โปราณ.  นิทฺทํ  ฯ  ๗.  ยุ.  ทุฏ€มานสา  ฯ  

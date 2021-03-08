@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>             		       <H1>นเหตุสเหตุกทุกกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>                     <H2>(๖.  นเหตุสเหตุกทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                       <H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				           <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 005 </span>				      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๐๔๘]  ๑.  กุศลธรรมที่ไม่ใช่เหตุธรรม แต่เป็นสเหตุกธรรม 
+<span class="LineNumber"> 007 </span>อาศัยกุศลธรรมที่ไม่ใช่เหตุธรรม    แต่เป็นสเหตุกธรรม    เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะเหตุปัจจัย   ฯลฯ 
+<span class="LineNumber"> 009 </span>                   	 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>		[๑๐๔๙]  ในเหตุปัจจัย  มี ๑ วาระ    ในอารัมมณปัจจัย มี  ๑  วาระ
+<span class="LineNumber"> 011 </span>ในปัจจัยทั้งปวง มี ๑ วาระ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 012 </span>                         	         <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 013 </span>		     <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 014 </span>		[๑๐๕๐]  ในนอธิปติปัจจัย มี ๑ วาระ  ในนปุเรชาตปัจจัย มี  ๑ วาระ
+<span class="LineNumber"> 015 </span>ฯลฯ  ในนวิปากปัจจัยมี ๑ วาระ  ในนวิปปยุตตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 016 </span>                แม้ในปัญหาวาระก็มี ๑ วาระ  ทุกปัจจัย.

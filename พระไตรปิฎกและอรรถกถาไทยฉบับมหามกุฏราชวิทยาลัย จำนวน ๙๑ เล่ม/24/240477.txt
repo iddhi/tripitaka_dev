@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                        <h1>๖.  ธีตุสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                             <H1>ว่าด้วยสตรีก็เป็นผู้ประเสริฐได้</H1>
+
+<span class="LineNumber"> 003 </span>         [๓๗๖]   สาวัตถีนิทาน. 
+<span class="LineNumber"> 004 </span>         ครั้งนั้น    พระเจ้าปเสนทิโกศลเสด็จเข้าไปเฝ้าพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 005 </span>ถึงที่ประทับถวายบังคมแล้ว  ประทับนั่ง   ณ  ที่ควรส่วนข้างหนึ่ง.
+<span class="LineNumber"> 006 </span>         ลำดับนั้น     ราชบุรุษเข้าไปเฝ้าพระเจ้าปเสนทิโกศล  แล้วกราบทูล  ณ
+<span class="LineNumber"> 007 </span>ที่ใกล้พระกรรณของพระเจ้าปเสนทิโกศลว่า        ข้าแต่พระองค์ผู้ประเสริฐ
+<span class="LineNumber"> 008 </span>พระนางมัลลิกาเทวีประสูติพระธิดาแล้ว.                                   
+<span class="LineNumber"> 009 </span>         เมื่อบุรุษกราบทูลอย่างนี้แล้ว     พระเจ้าปเสนทิโกศลก็ไม่ทรงเบิกบาน
+<span class="LineNumber"> 010 </span>พระทัย.
+<span class="LineNumber"> 011 </span>         [๓๗๗]   ครั้งนั้น   พระผู้มีพระภาคเจ้าทรงทราบว่า   พระเจ้าปเสนทิ-
+<span class="LineNumber"> 012 </span>โกศลไม่ทรงเบิกบานพระทัย   จึงได้ตรัสพระคาถาเหล่านี้ในเวลานั้นว่า
+<span class="LineNumber"> 013 </span>                             <B>ดูก่อนมหาบพิตร  ผู้เป็นใหญ่ยิ่งกว่า
+<span class="LineNumber"> 014 </span>                   ปวงชน   แท้จริง   แม้สตรีบางคนก็เป็นผู้
+<span class="LineNumber"> 015 </span>                   ประเสริฐ  พระองค์จงชุบเลี้ยงไว้  สตรีที่
+<span class="LineNumber"> 016 </span>                   มีปัญญา  มีศีล  ปฏิบัติแม้ผัวพ่อผัวดัง
+<span class="LineNumber"> 017 </span>                   เทวดา  จงรักสามี.
+<span class="LineNumber"> 018 </span>                             บุรุษที่เกิดจากสตรีนั้น  ย่อมเป็นคน
+<span class="LineNumber"> 019 </span>                   แกล้วกล้า  เป็นเจ้าแห่งทิศได้  บุตรของ
+<span class="LineNumber"> 020 </span>                   ภริยาดีเช่นนั้น  ก็ครองแม้ราชสมบัติได้.</B>

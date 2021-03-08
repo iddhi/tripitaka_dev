@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>ปัญหาวาระ</H2>   
+<span class="LineNumber"> 002 </span>                                        <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>                                <H2>๑.  อารัมมณปัจจัย</H2> 
+<span class="LineNumber"> 004 </span>                                     <H2>อสนิทัสสนบท</H2>  
+<span class="LineNumber"> 005 </span>           [๑๒๔๒] ๑.  <B>ธรรมที่ไม่ใช่อนิทัสสนธรรม  ที่ไม่ใช่เหตุธรรม
+<span class="LineNumber"> 006 </span>เป็นปัจจัยแก่อนิทัสสนธรรม    ที่เป็นเหตุธรรม  ด้วยอำนาจของ-
+<span class="LineNumber"> 007 </span>อารัมมณปัจจัย</B>
+<span class="LineNumber"> 008 </span>                                                 <B>ฯลฯ</B>
+
+<span class="LineNumber"> 009 </span>                          <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๑๒๔๓]  ในอารัมมณปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 011 </span>                 <I>นเหตุทุกนสนิทัสสนทุกเหตุทุกสนิทัสสนทุกะ  จบ</I>

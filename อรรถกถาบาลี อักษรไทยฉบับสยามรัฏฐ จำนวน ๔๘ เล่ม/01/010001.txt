@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span> 					*เล่มที่ ๑  
+<span class="LineNumber"> 002 </span>			สมนฺตปาสาทิกา นาม  วินยฏฺ€กถา
+<span class="LineNumber"> 003 </span>				มหาวิภงฺควณฺณนา
+<span class="LineNumber"> 004 </span>					อารมฺภกถา
+
+<span class="LineNumber"> 005 </span>			โย  กปโกฏีหิปิ  อปเมยฺยํ
+<span class="LineNumber"> 006 </span>			กาลํ  กโรนฺโต  อติทุกฺกรานิ
+<span class="LineNumber"> 007 </span>			เขทํ  คโต  โลกหิตาย นาโถ
+<span class="LineNumber"> 008 </span>			นโม มหาการุณิกสฺส ตสฺสฯ
+<span class="LineNumber"> 009 </span>			อสมฺพุธํ  พุทฺธนิเสวิตํ ยํ
+<span class="LineNumber"> 010 </span>			ภวาภวํ  คจฺฉติ  ชีวโลโก
+<span class="LineNumber"> 011 </span>			นโม  อวิชฺชาทิกิเลสชาล-
+<span class="LineNumber"> 012 </span>			วิทฺธํสิโน ธมฺมวรสฺส ตสฺสฯ
+<span class="LineNumber"> 013 </span>			คุเณหิ โย สีลสมาธิปฺา-
+<span class="LineNumber"> 014 </span>			วิมุตฺติาณปภุตีหิ ยุตฺโต
+<span class="LineNumber"> 015 </span>			เขตฺตํ ชนานํ กุสลตฺถิกานํ
+<span class="LineNumber"> 016 </span>			ตมริยสงฺฆํ สิรสา นมามิฯ
+<span class="LineNumber"> 017 </span>			อิจฺเจวมจฺจนฺตนมสฺสเนยฺยํ
+<span class="LineNumber"> 018 </span>			นมสฺสมาโน รตนตฺตยํ ยํ
+<span class="LineNumber"> 019 </span>			ปุฺาภิสนฺทํ วิปุลํ อลตฺถํ
+<span class="LineNumber"> 020 </span>			ตสฺสานุภาเวน หตนฺตราโยฯ

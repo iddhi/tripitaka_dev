@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                       <h1>๙.  ปุปผคันธสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                                       <h2> ว่าด้วยกลิ่นที่ดอก</h2>
+<span class="LineNumber"> 003 </span>          [๒๕๘]  สาวัตถีนิทาน.   ดูก่อนภิกษุทั้งหลาย  ไม่มีกลิ่นที่ดอกชนิดใด
+<span class="LineNumber"> 004 </span>ชนิดหนึ่ง   มลิ   บัณฑิตกล่าวว่าเลิศกว่าไม้มีกลิ่นที่ดอกเหล่านั้น    แม้ฉันใด
+<span class="LineNumber"> 005 </span>กุศลธรรมเหล่าใดเหล่าหนึ่ง     ทั้งหมดนั้น     มีความไม่ประมาทเป็นมูล. . .
+<span class="LineNumber"> 006 </span>ฉันนั้นเหมือนกัน  ฯลฯ
+<span class="LineNumber"> 007 </span>                                         <I>จบปุปผคันธสูตรที่  ๙</I>
+
+<span class="LineNumber"> 008 </span>                                      <h1>  ๑๐.  กุฏฐราชสูตร</h1>
+
+<span class="LineNumber"> 009 </span>                                  <h2> ว่าด้วยพระราชาผู้เลิศ</h2>
+<span class="LineNumber"> 010 </span>           [๒๕๙]  สาวัตถีนิทาน.     ดูก่อนภิกษุทั้งหลาย      พระราชาผู้น้อย
+<span class="LineNumber"> 011 </span>(ชั้นต่ำ)  เหล่าใดเหล่าหนึ่ง  ทั้งหมดนั้น  ย่อมเป็นผู้ตามเสด็จพระเจ้าจักรพรรดิ
+<span class="LineNumber"> 012 </span>พระเจ้าจักรพรรดิบัณฑิตกล่าวว่าเลิศกว่าพระราชาผู้น้อยเหล่านั้น  แม้ฉันใด
+<span class="LineNumber"> 013 </span>กุศลธรรมเหล่าใดเหล่าหนึ่ง     ทั้งหมดนั้น     มีความไม่ประมาทเป็นมูล. . .
+<span class="LineNumber"> 014 </span>ฉันนั้นเหมือนกัน ฯลฯ 
+<span class="LineNumber"> 015 </span>                                        <I>จบกุฏฐราชสูตรที่  ๑๐</I>

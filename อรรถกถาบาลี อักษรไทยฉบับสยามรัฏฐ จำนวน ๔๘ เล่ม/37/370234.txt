@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  234
+
+<span class="LineNumber"> 002 </span>		อนฺนหตฺถา จ เต พฺยมฺเห  โฆสยนฺตุ ปุเร ตว  
+<span class="LineNumber"> 003 </span>		โก ฉาโต โก จ ตสิโต	โก มาลํ โก วิเลปนํ  
+<span class="LineNumber"> 004 </span>		นานารตฺตานํ วตฺถานํ	โก นคฺโค ปริทหิสฺสติ  
+<span class="LineNumber"> 005 </span>		โก ปนฺเถ ฉตฺตมาเทติ	ปาทุกา จ มุทู สุภา  
+<span class="LineNumber"> 006 </span>		อิติ สายฺจ ปาโต จ	โฆสยนฺตุ ปุเร ตว  
+<span class="LineNumber"> 007 </span>		ชิณฺณํ โปสํ ควสฺสฺจ	มาสฺสุ ยุฺช ยถา ปุเร  
+<span class="LineNumber"> 008 </span>		ปริหารฺจ ทชฺชาสิ	อธิการกโต พลีติ ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  เอเต  จาติ  ยถา  เอเต [๑] ธตรฏฺโ€ เวสฺสามิตฺโต 
+<span class="LineNumber"> 010 </span>อฏฺ€โก  ยมทตฺติ  อุสินฺนโร (๒) สิวิราชาติ  ฉ  ราชาโน  อฺเ  จ
+<span class="LineNumber"> 011 </span>ธมฺมํ  จริตฺวา  สกฺกวิสยํ  คตา  เอวํ  ตฺวํปิ  อธมฺมํ  ปริวชฺเชตฺวา 
+<span class="LineNumber"> 012 </span>ธมฺมฺจร ฯ  โก  ฉาโตติ  มหาราช  ตว  พฺยมฺเห  จ  ปุเร  จ 
+<span class="LineNumber"> 013 </span>ราชนิเวสเน เจว นคเร  จ  อนฺนหตฺถา  ปุริสา  โก  ฉาโต  โก
+<span class="LineNumber"> 014 </span>ตสิโตติ  เตสํ  ทาตุกามตาย  โฆเสนฺตุ ฯ  โก  มาลนฺติ  โก  
+<span class="LineNumber"> 015 </span>มาลํ  อิจฺฉติ  โก  วิเลปนํ  อิจฺฉติ  นานารตฺตานํ  วตฺถานํ  ยํ  
+<span class="LineNumber"> 016 </span>ยํ  อิจฺฉติ ตํ ตํ ททนฺตุ โก นคฺโค ปริทหิสฺสตีติ  โฆเสนฺตุ ฯ 
+<span class="LineNumber"> 017 </span>โก  ปนฺเถ  ฉตฺตมาเทตีติ  โก  ปนฺเถ  ฉตฺตมาทิยติ (๓)ฯ  ปาทุกา 
+<span class="LineNumber"> 018 </span>จาติ  อุปาหนา  จ  มุทุ  สุภา  โก  อิจฺฉติ ฯ  
+<span class="LineNumber"> 019 </span>	ชิณฺณํ  โปสนฺติ  โย  เต อุปฏฺ€าโก(๔) อมจฺโจ วา อฺโ 
+<span class="LineNumber"> 020 </span>วา ปุพฺพกตูปกาโร  ชราชิณฺณกาเล  ยถา  โปราณํ(๕)  กมฺมํ  กาตุํ  
+<span class="LineNumber"> 021 </span># ๑. ม. เอตฺถนฺตเร จสทฺโท อตฺถิ ฯ  ๒. ม. อุสินฺทโร ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ฉตฺตํ ธารยิสฺสสิ ฯ  ๔. ม. อุปฏฺ€าเกสุ ฯ
+<span class="LineNumber"> 023 </span># ๕. ม. โปราณกาเล ฯ 

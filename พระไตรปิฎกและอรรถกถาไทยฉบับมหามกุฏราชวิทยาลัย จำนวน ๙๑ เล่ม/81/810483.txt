@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>สุขานุปปทานกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๕๔]  <B>สกวาที</B> บุคคลอื่นส่งความสุขให้บุคคลอื่นได้  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. บุคคลอื่นส่งความทุกข์ให้แก่บุคคลอื่นได้ หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 006 </span>                       ส. บุคคลอื่นส่งความสุขให้แก่บุคคลอื่นไม่ได้    หรือ ?
+<span class="LineNumber"> 007 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                       ส. บุคคลอื่นส่งความสุขให้แก่บุคคลอื่นไม่ได้ หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 010 </span>                       ส. บุคคลอื่นส่งความสุขให้แก่บุคคลอื่นได้ หรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ส. บุคคลอื่นส่งความสุขของตนให้แก่บุคคลอื่นหรือ    ส่ง
+<span class="LineNumber"> 013 </span>ความสุขของคนอื่น  ๆ หรือ ส่งความสุขของบุคคลผู้รับนั้น หรือ ? 
+<span class="LineNumber"> 014 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 015 </span>                       ส. บุคคลอื่นส่งความสุขของตนให้แก่บุคคลอื่นก็ไม่ใช่
+<span class="LineNumber"> 016 </span>ส่งความสุขของคนอื่น ๆ   ก็ไม่ใช่    ส่งความสุขของบุคคลผู้รับนั้นก็ไม่ใช่
+<span class="LineNumber"> 017 </span>หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                       ส. หากว่า   บุคคลอื่นส่งความสุขของตนให้บุคคลอื่นก็
+<span class="LineNumber"> 020 </span>ไม่ใช่   ส่งความสุขของคนอื่น ๆ   ก็ไม่ใช่   ส่งความสุขของบุคคลผู้รับนั้นก็
+<span class="LineNumber"> 021 </span>ไม่ใช่  ก็ต้องไม่กล่าวว่า บุคคลอื่นส่งความสุขให้แก่บุคคลอื่นได้.

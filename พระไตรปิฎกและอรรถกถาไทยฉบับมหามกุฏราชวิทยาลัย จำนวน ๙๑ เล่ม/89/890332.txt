@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                    ๔.  <B>อุปาทาธรรม        และธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 002 </span>อาศัยธรรมที่ไม่ใช่อุปาทาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 003 </span>         คือ  ขันธ์   ๓   และจิตตสมุฏฐานรูปที่เป็นอุปาทาธรรม    แต่ไม่ใช่
+<span class="LineNumber"> 004 </span>อุปาทาธรรม   อาศัยขันธ์ ๑ ที่ไม่ใช่อุปาทาธรรม   ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 005 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 006 </span>                    ๕.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม       อาศัยอุปาทาธรรม
+<span class="LineNumber"> 007 </span>และธรรมที่ไม่ใช่อุปาทาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ  ในปฏิสนธิขณะ    ขันธ์ ๓  อาศัยขันธ์  ๑  ที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 009 </span>และหทยวัตถุ ฯลฯ  ขันธ์ ๒   ฯลฯ
+
+<span class="LineNumber"> 010 </span>                                   <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 011 </span>         [๒๙๔] ๑.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม       อาศัยอุปาทาธรรม  
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  ในปฏิสนธิขณะ   ขันธ์ทั้งหลายที่ไม่ใช่อุปาทาธรรม     อาศัย
+<span class="LineNumber"> 014 </span>หทยวัตถุ.                                                                
+<span class="LineNumber"> 015 </span>                    ๒.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 016 </span>อุปาทาธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่ไม่ใช่อุปาทาธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 018 </span>         ในปฏิสนธิขณะ  ฯลฯ
+<span class="LineNumber"> 019 </span>                    ๓.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม       อาศัยอุปาทาธรรม
+<span class="LineNumber"> 020 </span>และธรรมที่ไม่ใช่อุปาทาธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>

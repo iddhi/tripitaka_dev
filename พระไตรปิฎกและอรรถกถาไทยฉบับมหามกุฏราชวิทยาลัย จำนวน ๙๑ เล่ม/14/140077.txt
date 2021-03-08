@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                             <B>ยักษ์   ๓,๐๐๐  ที่อาศัยอยู่ที่เขาสาตาคีรี   
+<span class="LineNumber"> 002 </span>                     มีผิวพรรณต่าง ๆ กัน  มีฤทธิ์   มีอานุภาพ
+<span class="LineNumber"> 003 </span>                     มีรัศมี   มียศ   ยินดีมุ่งหน้ามาสู่ป่าซึ่งเป็นที่ 
+<span class="LineNumber"> 004 </span>                     ประชุมแห่งภิกษุทั้งหลาย. 
+<span class="LineNumber"> 005 </span>                             ยักษ์   เหล่านั้นรวมเป็น  ๑๖,๐๐๐  ตน
+<span class="LineNumber"> 006 </span>                     ซึ่งมีผิวพรรณแตกต่างกัน    มีฤทธิ์    มีอานุ-
+<span class="LineNumber"> 007 </span>                     ภาพ  มีรัศมี   มียศ   ยินดีมุ่งหน้ามาสู่ป่า
+<span class="LineNumber"> 008 </span>                     ซึ่งเป็นที่ประชุมแห่งภิกษุทั้งหลาย.
+<span class="LineNumber"> 009 </span>                             ยักษ์  ๕๐๐   อยู่ที่เขาวิศวามิตร    มีผิว
+<span class="LineNumber"> 010 </span>                     พรรณแตกต่างกัน  มีฤทธิ์    มีอานุภาพ   มี
+<span class="LineNumber"> 011 </span>                     รัศมี   มียศ  ยินดีมุ่งหน้ามาสู่ป่า   ซึ่งเป็น
+<span class="LineNumber"> 012 </span>                     ที่ประชุมแห่งภิกษุทั้งหลาย.
+<span class="LineNumber"> 013 </span>                             ยักษ์ชื่อ  กุมภีร์  อยู่ในกรุงราชคฤห์
+<span class="LineNumber"> 014 </span>                     อาศัยเขาเวปุลละ   เป็นที่อยู่   ยักษ์มากกว่า
+<span class="LineNumber"> 015 </span>                     แสนไปเฝ้ายักษ์กุมภีร์นั้น   แม้ยักษ์ชื่อกุม-
+<span class="LineNumber"> 016 </span>                     ภีร์อาศัยอยู่ในกรุงราชคฤห์นั้น    ก็ได้มา
+<span class="LineNumber"> 017 </span>                     สู่ป่า   ซึ่งเป็นที่ประชุมแห่งภิกษุทั้งหลาย.</B>
+
+<span class="LineNumber"> 018 </span>                           <H1>ชื่อพวกเทพ  จตุโลกบาล</H1>
+
+<span class="LineNumber"> 019 </span>           <B>[๒๔๒]           ก็ท้าวธตรัฐปกครองทิศตะวันออกเป็น
+<span class="LineNumber"> 020 </span>                     อธิบดีของพวกคนธรรพ์   ท้าวเธอเป็นมหา
+<span class="LineNumber"> 021 </span>                     ราช  มียศ.    แม้บุตรเป็นอันมากของท้าว
+<span class="LineNumber"> 022 </span>                     เธอนั้น   ชื่อว่าอินทร์   มีกำลังมาก   มีฤทธิ์</B>

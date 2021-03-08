@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>              		<H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>		[๖๗๒]  ในเหตุปัจจัย  มี ๒ วาระ   ในอารัมมณปัจจัย  มี  ๒  วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ  ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 004 </span>          	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 005 </span>		           <H1>อาสววิปปยุตตอนาสวบทปัญหาวาระ</H1>
+<span class="LineNumber"> 006 </span>				           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>			                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>		[๖๗๓]    ๑.  ธรรมที่เป็นอาสววิปปยุตตอนาสวธรรมที่เป็นกุศล
+<span class="LineNumber"> 009 </span>เป็นปัจจัยแก่ธรรมที่เป็นอาสววิปปยุตตอนาสวธรรมที่เป็นกุศล  ด้วย
+<span class="LineNumber"> 010 </span>อำนาจของเหตุปัจจัย
+<span class="LineNumber"> 011 </span>				๒.  ธรรมที่เป็นอาสววิปปยุตตอนาสวธรรมที่เป็น
+<span class="LineNumber"> 012 </span>อัพยากตะ  เป็นปัจจัยแก่ธรรมที่เป็นอาสววิปปยุตตอนาสวธรรมที่เป็น
+<span class="LineNumber"> 013 </span>อัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 014 </span>				<H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๖๗๔]  ๑.  ธรรมที่เป็นอาสววิปปยุตตอนาสวธรรมที่เป็น
+<span class="LineNumber"> 016 </span>อัพยากตะ   เป็นปัจจัยแก่ธรรมที่เป็นอาสววิปปยุตตอนาสวธรรมที่เป็น
+<span class="LineNumber"> 017 </span>อัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย

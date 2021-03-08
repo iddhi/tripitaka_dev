@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       ๓.  <B>สรณธรรม  เป็นปัจจัยแก่ธรรมที่ไม่ใช่สรณธรรม 
+<span class="LineNumber"> 002 </span>และธรรมที่ไม่ใช่อรณธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 003 </span>                       ๔.  <B>อรณธรรม  เป็นปัจจัยแก่ธรรมที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 004 </span>ด้วยอำนาจของเหตุปัจจัย</B> 
+<span class="LineNumber"> 005 </span>                                  <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๒๑๔] ๑.  <B>สรณธรรม   เป็นปัจจัยแก่ธรรมที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 007 </span>ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 008 </span>                       ๒.  <B>สรณธรรม  เป็นปัจจัยแก่ธรรมที่ไม่ใช่อรณธรรม
+<span class="LineNumber"> 009 </span>ด้วยอำนาจของอารัมมณปัจจัย</B>
+
+<span class="LineNumber"> 010 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๒๑๕]  ในเหตุปัจจัย   มี ๔ วาระ  ในอารัมมณปัจจัย  มี ๔  วาระ
+<span class="LineNumber"> 012 </span>ในอธิปติปัจจัย  มี  ๕ วาระ  ในอนันตรปัจจัย มี ๔ วาระ ฯลฯ ในอวิคตปัจจัย
+<span class="LineNumber"> 013 </span>มี ๕ วาระ.
+
+<span class="LineNumber"> 014 </span>                                            <H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 015 </span>                              <H2>การยกปัจจัยในปัจจนียะ</H2>	
+<span class="LineNumber"> 016 </span>           [๒๑๖] ๑.  <B>สรณธรรม  เป็นปัจจัยแก่ธรรมที่ไม่ใช่สรณธรรม
+<span class="LineNumber"> 017 </span>ด้วยอำนาจของอารัมมณปัจจัย    เป็นปัจจัย   ด้วยอำนาจของสหชาต-
+<span class="LineNumber"> 018 </span>ปัจจัย,  เป็นปัจจัย   ด้วยอำนาจของอุปนิสสยปัจจัย,  เป็นปัจจัย   ด้วย-
+<span class="LineNumber"> 019 </span>อำนาจของปัจฉาชาตปัจจัย,  เป็นปัจจัย  ด้วยอำนาจของกัมมปัจจัย.</B>

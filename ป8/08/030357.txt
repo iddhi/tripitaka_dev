@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                     [แก้บท  ตณฺหาปจฺจยา  อุปาทานํ]  
+<span class="LineNumber"> 002 </span>	ในบทว่า  ตณฺหาปจฺจยา  อุปาทานํ
+<span class="LineNumber"> 003 </span>		<B>อุปาทานมี  ๔  บัณฑิตพึงอธิบายอุปาทาน  ๔  นั้น
+<span class="LineNumber"> 004 </span>	โดยอรรถวิภาค  (จำแนกความ)  โดยสังเขป
+<span class="LineNumber"> 005 </span>	และโดยพิสดารแห่งธรรม  และโดยลำดับ</B>
+<span class="LineNumber"> 006 </span>	นี่เป็นอธิบายในอุปาทานนั้น  คือ  ในคาถานี้  ชั้นแรก  (ว่าด้วย)
+<span class="LineNumber"> 007 </span>อุปาทานมี  ๔  นี้  คือ  กามุปาทาน  ทิฏฐูปาทาน  สีลัพพตุปาทาน
+<span class="LineNumber"> 008 </span>อัตตวาทุปาทาน
+<span class="LineNumber"> 009 </span>	(ต่อไป)  นี้เป็นอรรถวิภาคแห่งอุปาทานเหล่านั้น
+<span class="LineNumber"> 010 </span>                              [อรรถแห่งกามุปาทาน] 
+<span class="LineNumber"> 011 </span>	(อรรถว่า)   บุคคลย่อมถือมั่นซึ่งกามที่ได้แก่วัตถุ  เหตุนี้จึงชื่อ
+<span class="LineNumber"> 012 </span>กามุปาทาน  (แปลว่า  ความถือมั่นกามแห่งบุคคล)  ดังนี้บ้าง
+<span class="LineNumber"> 013 </span>	(อรรถว่า)  กาม  (คือกิเลส)  ด้วย  กาม  (คือกิเลส)  นั้นเป็น
+<span class="LineNumber"> 014 </span>ธรรมชาตผู้ถือมั่นด้วย   เหตุนี้จึงชื่อกามุปาทาน  (แปลว่ากามผู้ถือมั่น)
+<span class="LineNumber"> 015 </span>ดังนี้บ้าง<SUP>*</SUP>
+<span class="LineNumber"> 016 </span>                       [อรรถแห่งอุปาทานศัพท์] 
+<span class="LineNumber"> 017 </span>	คำว่า  อุปาทาน  แปลว่า  ถือมั่น  (คือยึดไว้)  เพราะอุปศัพท์
+<span class="LineNumber"> 018 </span>ในที่นี้มี  ทัฬห   ศัพท์   (มั่น   แขงขัน  รุนแรงยิ่งนัก)   เป็นอรรถ  ดังอุป
+
+<span class='footnote'><SUP>*</SUP>  มหาฎีกาว่า  "กามศัพท์ในอรรถก่อนเป็นกรรมสาธนะ  ในอรรถหลังเป็นกัตตุสาธนะ  เพราะ</span>
+<span class='footnote'>หมายถึงกิเลสกาม  ส่วนอุปาทานศัพท์เป็นกัตตุสาธนะทั้งสอุงอรรถ"(?)</span>

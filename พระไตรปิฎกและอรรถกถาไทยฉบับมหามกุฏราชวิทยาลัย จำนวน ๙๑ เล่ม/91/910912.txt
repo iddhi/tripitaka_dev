@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๐๙๗]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                         <H2>นเหตุบท</H2>  
+<span class="LineNumber"> 004 </span>           [๑๐๙๘] ๑.  <B>ธรรมที่ไม่ใช่นเหตุธรรม ที่ไม่ใช่อนารัมมณธรรม
+<span class="LineNumber"> 005 </span>อาศัยนเหตุธรรม  ที่เป็นสารัมมณธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>                         ๒.  <B>ธรรมที่ไม่ใช่นเหตุธรรม ที่ไม่ใช่อนารัมมณธรรม
+<span class="LineNumber"> 007 </span>อาศัยนเหตุธรรม  ที่เป็นอนารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>                         ๓.  <B>ธรรมที่ไม่ใช่นเหตุธรรม     ที่ไม่ใช่อนารัมมณ-
+<span class="LineNumber"> 009 </span>ธรรม อาศัยนเหตุธรรม  ที่เป็นสารัมมณธรรม  และนเหตุธรรมที่เป็น
+<span class="LineNumber"> 010 </span>อนารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 011 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๑๐๙๙]  ในเหตุปัจจัย  มี  ๓  วาระ  ฯลฯ

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ตติยวคฺเค โสภิตตฺเถรคาถาวณฺณนา หน้า 617
+	
+<span class="LineNumber"> 002 </span>		ตุวํ สตฺถา จ เกตุ จ	ธโช ยูโป จ ปาณินํ  
+<span class="LineNumber"> 003 </span>		ปรายโน ปติฏฺ€า จ	ทีโป จ ทิปทุตฺตโม ฯ (๑)  
+<span class="LineNumber"> 004 </span>		เนปุฺโ ทสฺสเน ธีโร (๒)  ตาเรสิ ชนตํ ตุวํ  
+<span class="LineNumber"> 005 </span>		นตฺถฺโ ตารโก โลเก	ตวุตฺตริตโร มุเน ฯ (๓)  
+<span class="LineNumber"> 006 </span>		สกฺกา ภเว (๔) กุสคฺเคน  ปเมตุํ สาครุตฺตโม (๕)  
+<span class="LineNumber"> 007 </span>		น เตฺวว ตว สพฺพฺุ	าณํ สกฺกา ปเมตเว ฯ  
+<span class="LineNumber"> 008 </span>		ตุลทณฺโฑ(๖) €เปตฺวาน	มหึ(๗) สกฺกา ธเรตเว (๘)  
+<span class="LineNumber"> 009 </span>		น เตฺวว ตว ปฺาย	ปมาณมตฺถิ(๙) จกฺขุม ฯ
+<span class="LineNumber"> 010 </span>		อากาโส มินิตุํ สกฺกา	รชฺชุยา องฺคุเลน วา  
+<span class="LineNumber"> 011 </span>		น เตฺวว ตว สพฺพฺุ	สีลํ สกฺกา ปเมตเว ฯ  
+<span class="LineNumber"> 012 </span>		มหาสมุทฺเท อุทกํ		อากาโส จ วสุนฺธโร 
+<span class="LineNumber"> 013 </span>		ปริเมยฺยานิ เอตานิ	อปฺปเมยฺโยสิ จกฺขุม ฯ
+<span class="LineNumber"> 014 </span>		ฉหิ คาถาหิ สพฺพฺ	กิตฺตยิตฺวา มหายสํ  
+<span class="LineNumber"> 015 </span>		อฺชลึ ปคฺคเหตฺวาน	ตุณฺหี อฏฺ€าสหํ ตทา ฯ  
+<span class="LineNumber"> 016 </span>		ยํ วทนฺติ สุเมโธติ		ภูมิปฺํ (๑๐) สุเมธสํ  
+<span class="LineNumber"> 017 </span>		ภิกฺขุสงฺเฆ นิสีทิตฺวา	อิมา คาถา อภาสถ ฯ  
+<span class="LineNumber"> 018 </span>		โย เม าณํ ปกิตฺเตสิ	วิปฺปสนฺเนน เจตสา  
+<span class="LineNumber"> 019 </span>		ตมหํ กิตฺตยิสฺสามิ		สุณาถ มม ภาสโต ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ทฺวิปทุตฺตโม ฯ  ๒. สี. เต ปุฺทสฺสโน ธีโร ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. มุนิ ฯ  ๔. สฺยา. ภเว ฯ  สี. หเว ฯ  ๕. สฺยา. สี. สาครุตฺตโม ฯ
+<span class="LineNumber"> 022 </span># ๖. สฺยา. ม. ตุลทณฺเฑ ฯ  ๗. สฺยา. มหิ ฯ ๘. สี. ปเมตเว ฯ
+<span class="LineNumber"> 023 </span># ๙. สฺยา. สมานํ อตฺถิ ฯ  ๑๐. สฺยา. ภูมิปฺํ ฯ 

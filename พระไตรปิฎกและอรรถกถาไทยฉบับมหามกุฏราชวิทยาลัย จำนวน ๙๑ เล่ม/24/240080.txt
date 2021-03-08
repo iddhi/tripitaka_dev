@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                            <h1>๓.  นัตถิปุตตสมสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                        <H1>ว่าด้วยสิ่งที่ไม่มีอะไรเปรียบ</H1>
+
+<span class="LineNumber"> 003 </span>         [๒๘]   เทวดานั้น   ครั้นยืนอยู่   ณ  ที่ควรส่วนข้างหนึ่งแล้วแล   ได้ 
+<span class="LineNumber"> 004 </span>กล่าวคาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 005 </span>                             <B>ความรักเสมอด้วยบุตรไม่มี   ทรัพย์
+<span class="LineNumber"> 006 </span>                   เสมอด้วยโคย่อมไม่มี       แสงสว่างเสมอ
+<span class="LineNumber"> 007 </span>                   ด้วยดวงอาทิตย์ย่อมไม่มี  สระทั้งหลาย
+<span class="LineNumber"> 008 </span>                   มีทะเลเป็นอย่างยิ่ง.</B>
+<span class="LineNumber"> 009 </span>         [๒๙]  พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 010 </span>                             <B>ความรักเสมอด้วยตนไม่มี  ทรัพย์
+<span class="LineNumber"> 011 </span>                   เสมอด้วยข้าวเปลือกย่อมไม่มี     แสงสว่าง
+<span class="LineNumber"> 012 </span>                   เสมอด้วยปัญญาย่อมไม่มี  ฝนต่างหากเป็น
+<span class="LineNumber"> 013 </span>                   สระยอดเยี่ยม,</B>

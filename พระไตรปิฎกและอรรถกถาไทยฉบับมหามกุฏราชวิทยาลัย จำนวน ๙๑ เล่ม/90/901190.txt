@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>			           <H1>ปริตตารัมมณติกกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>	          <H2>(๑๓. ปริตตารัมมณติกะ  ๑. กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>			             <H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>				       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>		                    <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>		[๑๙๑]  ๑.  กุศลธรรมที่เป็นปริตตารัมมณธรรม   อาศัยกุศล-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นปริตตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย 
+<span class="LineNumber"> 008 </span>                        ๒.  กุศลธรรมที่เป็นมหัคคตารัมมณธรรม อาศัยกุศล-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นมหัคคตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                        ๓.  กุศลธรรมที่เป็นอัปปมาณารัมมณธรรม  อาศัย
+<span class="LineNumber"> 011 </span>กุศลธรรมที่เป็นอัปปมาณารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>มี ๓ วาระ.
+<span class="LineNumber"> 013 </span>           พึงให้พิสดารทุกวาระ.
+
+<span class="LineNumber"> 014 </span>                       	   <H1>อกุศลบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 015 </span>                         	    <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 016 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 017 </span>		[๑๙๒]  ๑.  อกุศลธรรมที่เป็นปริตตารัมมณธรรม อาศัยอกุศล-
+<span class="LineNumber"> 018 </span>ธรรมที่เป็นปริตตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย

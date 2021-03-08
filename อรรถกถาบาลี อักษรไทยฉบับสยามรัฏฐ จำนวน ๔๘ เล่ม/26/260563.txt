@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ปาราสริยตฺเถรคาถาวณฺณนา  563
+
+<span class="LineNumber"> 002 </span>		อฺถา  โลกนาถมฺหิ  	ติฏฺ€นฺเต  ปุริสุตฺตเม  
+<span class="LineNumber"> 003 </span>		อิริยํ  อาสิ  ภิกฺขูนํ  		อฺถา  ทานิ  ทิสฺสติ ฯ  
+<span class="LineNumber"> 004 </span>		สีตวาตปริตฺตาณํ  		หิริโกปีนฉาทนํ  
+<span class="LineNumber"> 005 </span>		มตฺตฏฺ€ิยํ  อภุฺชึสุ  		สนฺตุฏฺ€า  อิตรีตเร ฯ  
+<span class="LineNumber"> 006 </span>  		ปณีตํ  ยทิ  วา  ลูขํ  		อปฺปํ  วา  ยทิ  วา  พหุํ  
+<span class="LineNumber"> 007 </span>		ยาปนตฺถํ  อภุฺชึสุ  		อคิทฺธา  นาธิมุจฺฉิตา ฯ  
+<span class="LineNumber"> 008 </span>  		ชีวิตานํ  ปริกฺขาเร  		เภสชฺเช  อถ  ปจฺจเย  
+<span class="LineNumber"> 009 </span>		น  พาฬฺหํ  อุสฺสุกา  อาสุํ  	ยถา  เต  อาสวกฺขเย ฯ  
+<span class="LineNumber"> 010 </span>  		อรฺเ  รุกฺขมูเลสุ  		กนฺทราสุ  คุหาสุ  จ  
+<span class="LineNumber"> 011 </span>		วิเวกมนุพฺรูหนฺตา  		วิหํสุ  (๑)  ตปฺปรายนา ฯ  
+<span class="LineNumber"> 012 </span>  		นีจา  นิวิฏฺ€า  สุภรา  		มุทู  อถทฺธมานสา  
+<span class="LineNumber"> 013 </span>		อพฺยาเสกา  อมุขรา  		อตฺถจินฺตาวสานุกา  (๒)  ฯ  
+<span class="LineNumber"> 014 </span>  		ตโต  ปาสาทิกํ  อาสิ  	คตํ  ภุตฺตํ  นิเสวิตํ  
+<span class="LineNumber"> 015 </span>		สินิทฺธา  เตลธาราว  		อโหสิ  อิริยาปโถ ฯ  
+<span class="LineNumber"> 016 </span>  		สพฺพาสวปริกฺขีณา  		มหาฌายี  มหาหิตา  
+<span class="LineNumber"> 017 </span>		นิพฺพุตา  ทานิ  เต  เถรา  	ปริตฺตา  ทานิ  ตาทิสา ฯ  
+<span class="LineNumber"> 018 </span>  		กุสลานฺจ  ธมฺมานํ  		ปฺาย  จ  ปริกฺขยา  
+<span class="LineNumber"> 019 </span>		สพฺพาการวรูเปตํ  		ลุชฺชเต  ชินสาสนํ ฯ  
+<span class="LineNumber"> 020 </span>  		ปาปกานฺจ  ธมฺมานํ  	กิเลสานฺจ  โย  อุตุ  
+<span class="LineNumber"> 021 </span>		อุปฏฺ€ิตา  วิเวกาย  		เย  จ  สทฺธมฺมเสสกา ฯ  
+<span class="LineNumber"> 022 </span>#๑.  สฺยา.  วิหึสุ  ฯ  ๒.  สฺยา. ม.  อตฺถจินฺตาวสานุคา  ฯ  

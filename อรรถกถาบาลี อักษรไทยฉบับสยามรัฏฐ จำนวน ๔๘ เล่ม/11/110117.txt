@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๑๑๗
+
+<span class="LineNumber"> 002 </span>			ทุติยปฺจเวรภยสุตฺตวณฺณนา          
+<span class="LineNumber"> 003 </span>	ทุติเย ภิกฺขูนํ กถิตภาวมตฺตเมว วิเสโส ฯ 
+<span class="LineNumber"> 004 </span>				ทุติยํ ฯ       
+
+<span class="LineNumber"> 005 </span>				ทุกฺขสุตฺตวณฺณนา           
+<span class="LineNumber"> 006 </span>	ตติเย  ทุกฺขสฺสาติ  วฏฺฏทุกฺขสฺส ฯ  สมุทยนฺติ  เทฺว  
+<span class="LineNumber"> 007 </span>สมุทยา ขณิกสมุทโย จ  ปจฺจยสมุทโย  จ    ปจฺจยสมุทยํ  
+<span class="LineNumber"> 008 </span>ปสฺสนฺโตปิ  ภิกฺขุ  ขณิกสมุทยํ  ปสฺสติ ขณิกสมุทยํ  ปสฺสนฺโตปิ 
+<span class="LineNumber"> 009 </span>ปจฺจยสมุทยํ  ปสฺสติ ฯ  อฏฺ€งฺคโมปิ  อจฺจนฺตอฏฺ€งฺคโม เภทฏฺ€งฺ-
+<span class="LineNumber"> 010 </span>คโมติ  (๑)  ทุวิโธ ฯ  อจฺจนฺตอฏฺ€งฺคมํ  ปสฺสนฺโตปิ  เภทฏฺ€งฺคมํ 
+<span class="LineNumber"> 011 </span>ปสฺสติ  เภทฏฺ€งฺคมํ  ปสฺสนฺโตปิ  อจฺจนฺตอฏฺ€งฺคมํ  ปสฺสติ ฯ  
+<span class="LineNumber"> 012 </span>เทเสสฺสามีติ  อิทํ วฏฺฏทุกฺขสฺส (๒) สมุทยฏฺ€งฺคมํ นิพฺพตฺติเภทํ นาม
+<span class="LineNumber"> 013 </span>เทสิสฺสามิ ตํ สุณาถาติ อตฺโถ ฯ ปฏิจฺจาติ  นิสฺสยวเสน 
+<span class="LineNumber"> 014 </span>เจว  อารมฺมณวเสน  จ  ปจฺจยํ  กตฺวา ฯ  ติณฺณํ  สงฺคติ 
+<span class="LineNumber"> 015 </span>ผสฺโสติ  ติณฺณํ  สงฺคติยา  ผสฺโส ฯ  อยํ  โข  ภิกฺขเว  ทุกฺขสฺส  
+<span class="LineNumber"> 016 </span>สมุทโยติ  อยํ  วฏฺฏทุกฺขสฺส  นิพฺพตฺติ  นาม ฯ  อฏฺ€งฺคโมติ 
+<span class="LineNumber"> 017 </span>เภโท ฯ  เอวํ  หิ  วฏฺฏทุกฺขํ ภินฺนํ  โหติ อปฺปฏิสนฺธิยํ ฯ 
+<span class="LineNumber"> 018 </span>				ตติยํ ฯ               
+<span class="LineNumber"> 019 </span># ๑. สี. โรธตฺถงฺกโมติ ฯ  ๒. ม. วฏฺฏทุกฺขสฺส... ฯ

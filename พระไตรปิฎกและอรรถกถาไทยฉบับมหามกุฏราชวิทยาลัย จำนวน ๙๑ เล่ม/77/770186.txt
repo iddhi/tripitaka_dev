@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                             <H1>ปัญหาปุจฉกะ</H1> 
+<span class="LineNumber"> 002 </span>         [๑๐๑]   <H1>อายตนะ  ๑๒  คือ</H1>
+<span class="LineNumber"> 003 </span>                           <B>๑.  จักขายตนะ
+<span class="LineNumber"> 004 </span>                           ๒.  รูปายตนะ ฯลฯ
+<span class="LineNumber"> 005 </span>                         ๑๑.   มนายตนะ 
+<span class="LineNumber"> 006 </span>                         ๑๒.   ธรรมายตนะ.</B>
+
+<span class="LineNumber"> 007 </span>                       <H2>ติกมาติกาปุจฉา  ทุกมาติกาปุจฉา</H2>
+<span class="LineNumber"> 008 </span>         บรรดาอายตนะ ๑๒ อายตนะไหนเป็นกุศล    อายตนะไหนเป็นอกุศล 
+<span class="LineNumber"> 009 </span>อายตนะไหนเป็นอัพยากฤต ฯลฯ   อายตนะไหนเป็นสรณะ.   อายตนะไหนเป็น
+<span class="LineNumber"> 010 </span>อรณะ.
+
+<span class="LineNumber"> 011 </span>                                           <H1>ติกมาติกาวิสัชนา</H1>
+<span class="LineNumber"> 012 </span>         [๑๐๒]   อายตนะ  ๑๐  (คือโอฬาริกายตนะ ๑๐)  เป็นอัยพากฤต
+<span class="LineNumber"> 013 </span>อายตนะ ๒  (คือ  มนายตนะ  ธรรมายตนะ)  เป็นกุศลก็มี  เป็นอกุศลก็มี  เป็น
+<span class="LineNumber"> 014 </span>อัพยากฤตก็มี   อายตนะ ๑๐ กล่าวไม่ได้ว่า   แม้เป็นสุขเวทนาสัมปยุต   แม้เป็น
+<span class="LineNumber"> 015 </span>ทุกขเวทนาสัมปยุต   แม้เป็นอทุกขมสุขเวทนาสัมปยุต   มนายตนะ   เป็นสุขเวทนา
+<span class="LineNumber"> 016 </span>สัมปยุตก็มี    เป็นทุกขเวทนาสัมปยุตก็มี    เป็นอทุกขมสุขเวทนาสัมปยุตก็มี
+<span class="LineNumber"> 017 </span>ธรรมายตนะเป็นสุขเวทนาสัมปยุตก็มี   เป็นทุกขเวทนาสัมปยุตก็มี  เป็นอทุกขม- 
+<span class="LineNumber"> 018 </span>สุขเวทนาสัมปยุตก็มี   กล่าวไม่ได้ว่า   แม้เป็นสุขเวทนาสัมปยุต    แม้เป็นทุกข-
+<span class="LineNumber"> 019 </span>เวทนาสัมปยุต     แม้เป็นอทุกขมสุขเวทนาสัมปยุตก็มี     อายตนะ ๑๐  เป็นเนว-

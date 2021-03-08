@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>            <B>ไปในการใคร่ครวญธรรมต่อไป.
+<span class="LineNumber"> 002 </span>                   ๓.   เป็นผู้ยินดีอย่างแรงกล้าในการกำจัด
+<span class="LineNumber"> 003 </span>            ความอยาก     และเป็นผู้มีความรักอันไม่ปราศจาก  
+<span class="LineNumber"> 004 </span>            ไปในการกำจัดความอยากต่อไป. 
+<span class="LineNumber"> 005 </span>                   ๔.  เป็นผู้มีความยินดีอย่างแรงกล้าในการ
+<span class="LineNumber"> 006 </span>            หลีกเร้น    และเป็นผู้มีความรักอันไม่ปราศจากไป
+<span class="LineNumber"> 007 </span>            ในการหลีกเร้นต่อไป.
+<span class="LineNumber"> 008 </span>                   ๕.  เป็นผู้มีความพอใจอย่างแรงกล้าในการเริ่ม
+<span class="LineNumber"> 009 </span>            ความเพียร      และเป็นผู้มีความรักอันไม่ปราศจาก
+<span class="LineNumber"> 010 </span>            ไปในการเริ่มความเพียรต่อไป.
+<span class="LineNumber"> 011 </span>                   ๖.   เป็นผู้มีความพอใจอย่างแรงกล้าในความ
+<span class="LineNumber"> 012 </span>            เป็นผู้มีสติปัญญาเป็นเครื่องรักษาตัว    และเป็นผู้มี
+<span class="LineNumber"> 013 </span>            ความรักอันไม่ปราศจากไปในความเป็นผู้มีสติปัญ-
+<span class="LineNumber"> 014 </span>            ญาเป็นเครื่องรักษาตัวต่อไป.
+<span class="LineNumber"> 015 </span>                   ๗.  เป็นผู้มีความพอใจอย่างแรงกล้าในการ
+<span class="LineNumber"> 016 </span>            แทงตลอดด้วยทิฏฐิ      และเป็นผู้มีความรักอันไม่
+<span class="LineNumber"> 017 </span>            ปราศจากไปในการแทงตลอดด้วยทิฏฐิ      ต่อไป.</B>

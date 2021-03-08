@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 002 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                       <H1>๑.   เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๘๕๘] ๑.  <B>สรณธรรม  อาศัยสรณธรรม  เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 005 </span>ปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ   ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นสรณธรรม ฯลฯ  ขันธ์ ๒. 
+<span class="LineNumber"> 007 </span>         แม้ปัจจยวาระแห่งอรูปาวจรทุกะ   ฉันใด   พึงกระทำฉันนั้น.
+
+<span class="LineNumber"> 008 </span>                            <H2>การนับจํานวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>         [๘๕๙]  ในเหตุปัจจัย  มี ๙ วาระ    ในอารัมมณปัจจัย  มี ๔ วาระ
+<span class="LineNumber"> 010 </span>ในอธิปติปัจจัย มี ๙ วาระ ฯลฯ  ในอวิคตปัจจัย มี ๙ วาระ.
+
+<span class="LineNumber"> 011 </span>                                         <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 012 </span>                                      <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>         [๘๖๐] ๑.  <B>สรณธรรม อาศัยสรณธรรม เกิดขึ้น เพราะนเหตุ
+<span class="LineNumber"> 014 </span>ปัจจัย</B>
+<span class="LineNumber"> 015 </span>         คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์
+<span class="LineNumber"> 016 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 017 </span>                    ๒.  <B>อรณธรรม อาศัยอรณธรรม เกิดขึ้น เพราะนเหตุ
+<span class="LineNumber"> 018 </span>ปัจจัย</B>

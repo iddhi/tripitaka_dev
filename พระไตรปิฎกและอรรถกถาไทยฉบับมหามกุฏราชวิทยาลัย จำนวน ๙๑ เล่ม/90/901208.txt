@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>             				<H1>สนิทัสสนติกกุสลติกะ</H1>
+<span class="LineNumber"> 002 </span>           		<H2>(๒๒.  สนิทัสสนติกะ  ๑.  กุสลติกะ)</H2> 
+<span class="LineNumber"> 003 </span>					      <H1>กุศลบทปฏิจจวาระ</H1>	
+<span class="LineNumber"> 004 </span>						<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>					       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๒๑๗]  ๑.  กุศลธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม    อาศัย
+<span class="LineNumber"> 007 </span>กุศลธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>           ทุกปัจจัย  มี ๑ วาระ.
+
+<span class="LineNumber"> 009 </span>                        		  <H1>อกุศลบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 010 </span>                            		    <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 011 </span>                                 	     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>		[๒๑๘]  ๑.  อกุศลธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม  อาศัย
+<span class="LineNumber"> 013 </span>อกุศลธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 014 </span>           ทุกปัจจัย  มี ๑ วาระ.

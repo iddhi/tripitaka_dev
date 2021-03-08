@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	๑๒.  <B>ชิวหาวิญญาณธาตุ</B>	ธาตุคือวิญญาณทางลิ้น. 
+<span class="LineNumber"> 002 </span>	๑๓.  <B>กายธาตุ</B>		ธาตุคือกาย.  
+<span class="LineNumber"> 003 </span>	๑๔.  <B>โผฏฐัพพธาตุ</B>		ธาตุคือสัมผัสทางกาย.
+<span class="LineNumber"> 004 </span>	๑๕.  <B>กายวิญญาณธาตุ</B>	ธาตุคือวิญญาณทางกาย.
+<span class="LineNumber"> 005 </span>	๑๖.  <B>มโนธาตุ</B>		ธาตุคือคือใจ.
+<span class="LineNumber"> 006 </span>	๑๗.  <B>ธัมมธาตุ</B>		ธาตุคืออารมณ์เกิดกับใจ.
+<span class="LineNumber"> 007 </span>	๑๘.  <B>มโนวิญญาณธาตุ</B>	ธาตุคือวิญญาณทางใจ.
+<span class="LineNumber"> 008 </span>                 <B>หมวดที่ ๔</B>  ได้แก่อินทรีย์  ๒๒  คือ  :-
+<span class="LineNumber"> 009 </span>	๑.  <B>จักขุนทริยะ</B>		ความเป็นใหญ่ทางตา.
+<span class="LineNumber"> 010 </span>	๒.  <B>โสตินทรยะ</B>		ความเป็นใหญ่ทางหู.
+<span class="LineNumber"> 011 </span>	๓.  <B>ฆานินทริยะ</B>		ความเป็นใหญ่ทางจมูก.
+<span class="LineNumber"> 012 </span>	๔.  <B>ชิวหินทริยะ</B>		ความเป็นใหญ่ทางลิ้น.
+<span class="LineNumber"> 013 </span>	๕.  <B>กายินทริยะ</B>		ความเป็นใหญ่ทางกาย.
+<span class="LineNumber"> 014 </span>	๖.  <B>มนินทริยะ</B>		ความเป็นใหญ่ทางใจ.
+<span class="LineNumber"> 015 </span>	๗.  <B>อิตถินทริยะ</B> 		ความเป็นใหญ่ในความเป็นหญิง.
+<span class="LineNumber"> 016 </span>	๘.  <B>ปุริสินทริยะ</B>		ความเป็นใหญ่ในความเป็นบุรุษ.
+<span class="LineNumber"> 017 </span>	๙.  <B>ชีวิตินทริยะ</B>		ความเป็นใหญ่ในความเป็นอยู่.
+<span class="LineNumber"> 018 </span>	๑๐.  <B>สุขินทริยะ</B>		ความเป็นใหญ่ในความสุข.
+<span class="LineNumber"> 019 </span>	๑๑.  <B>ทุกขินทริยะ</B>		ความเป็นใหญ่ความทุกข์.
+<span class="LineNumber"> 020 </span>	๑๒.  <B>โสมนัสสินทริยะ</B>	ความเป็นใหญ่ในความโสมนัส.
+
+
+

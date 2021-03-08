@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>๙.   อัฏฐานชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                    <H1>ว่าด้วยสิ่งที่เป็นไปไม่ได้</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๑๘๘]   เมื่อใด   แม่น้ำคงคาดารดาษด้วยดอกบัว
+<span class="LineNumber"> 004 </span>           ก็ดี    นกดุเหว่าสีขาวเหมือนสังข์ก็ดี   ต้นหว้า
+<span class="LineNumber"> 005 </span>           พึงให้ผลเป็นผลตาลก็ดี    เมื่อนั้น    เราทั้งสอง
+<span class="LineNumber"> 006 </span>           พึงอยู่ร่วมกันได้แน่.  
+<span class="LineNumber"> 007 </span>         [๑๑๘๙]   เมื่อใด  ผ้า   ๓  ชนิดจะพึงสำเร็จได้ด้วย
+<span class="LineNumber"> 008 </span>           ขนเต่า    ใช้เป็นเครื่องกันหนาวในคราวน้ำค้าง
+<span class="LineNumber"> 009 </span>           ตกได้  เมื่อนั้น  เราทั้ง  ๒ พึงอยู่ร่วมกันได้แน่. 
+<span class="LineNumber"> 010 </span>         [๑๑๙๐]   เมื่อใด   เท้ายุงทั้งหลาย    จะพึงทำเป็น
+<span class="LineNumber"> 011 </span>           ป้อม  มั่นคงดีไม่หวั่นไหว   อาจจะทนบุรุษผู้
+<span class="LineNumber"> 012 </span>           ขึ้นรบได้ตั้งร้อย    เมื่อนั้น    เราทั้ง  ๒  พึงอยู่
+<span class="LineNumber"> 013 </span>           ร่วมกันได้แน่.
+<span class="LineNumber"> 014 </span>         [๑๐๙๑]   เมื่อใด    เขากระต่ายจะพึงทำเป็นบันได
+<span class="LineNumber"> 015 </span>           เพื่อขึ้นไปสวรรค์ได้    เมื่อนั้น   เราทั้ง ๒ พึง
+<span class="LineNumber"> 016 </span>           อยู่ร่วมกันได้แน่.</B>

@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 285
+
+<span class="LineNumber"> 002 </span>		ปลสตา จ ควชา จ		มหิสา โรหิตา รุรู  
+<span class="LineNumber"> 003 </span>		(๑)เอเณยฺยา สรภา เจว(๑) คณิโน นิกฺกสูกรา  
+<span class="LineNumber"> 004 </span>		กทฺทลีมิคา พหู จิตฺรา	วิฬารา(๒) สสกณฺณกา  
+<span class="LineNumber"> 005 </span>		นานามิคคณากิณฺณํ	มณิมฺหิ ปสฺส นิมฺมิตํ(๓) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ปลสตาติ (๔) ขคฺคมิคา ฯ  พลสตาติปิ  ปาโ€ ฯ  ควชาติ  
+<span class="LineNumber"> 007 </span>ควโย ฯ  สรภาติ  เอกา  มิคชาติกา  ตถา  คณิโน  เจว  
+<span class="LineNumber"> 008 </span>นิกฺกสูกรา  จ ฯ  พหู  จิตฺราติ  (๕)นานปฺปการวิจิตฺรา  มิคา(๕) ฯ
+<span class="LineNumber"> 009 </span>วิฬาราติ(๖)  อรฺวิฬารา ฯ สสกณฺณกาติ สสา จ กณฺณกา จ ฯ  
+<span class="LineNumber"> 010 </span>	[๙๓๐]นชาโย สุปติตฺถาโย	โสวณฺณพาลุกสณฺ€ิตา(๗)  
+<span class="LineNumber"> 011 </span>		อจฺฉา วสนฺติ อมฺพุโย(๘)	มจฺฉคุมฺพนิเวสิตา  
+<span class="LineNumber"> 012 </span>		กุมฺภิลา มกรา เจตฺถ	สสสุมารา(๙) จ กจฺฉปา  
+<span class="LineNumber"> 013 </span>		ปา€ีนา พหุสา(๑๐) มจฺฉา พลชา มุฺชโรหิตา ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  นชาโยติ  นทิโย ฯ  โสวณฺณพาลุกสณฺ€ิตาติ  สุวณฺณ-
+<span class="LineNumber"> 015 </span>พาลุกาย  สณฺ€ิตตลา(๑๑) ฯ  กุมฺภิลาติ  อิเม  สตฺตา  เอวรูปา  ชลจรา  
+<span class="LineNumber"> 016 </span>อนฺโตนทิยํ วิจรนฺติ เตปิ มณิมฺหิ ปสฺส นิมฺมิตํ(๑๒) ฯ  
+<span class="LineNumber"> 017 </span>		นานาทุมคณากิณฺณา	นานาทิชคณายุตา(๑๓)  
+<span class="LineNumber"> 018 </span>		เวฬุริยผลกโรทาโย	มณิมฺหิ ปสฺส นิมฺมิตํ(๑๔) ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. เอเณยฺยา จ วราหา จ ฯ  ๒. ม. พิฬารา ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. นิมฺมิตนฺติ ฯ  ๔. ม. ปลาสาทาติ ฯ ๕. ม. นานปฺปการา
+<span class="LineNumber"> 021 </span># จตฺรา มิคา ฯ  ๖. ม. พิฬาราติ ฯ  ๗. ม. โสวณฺณวาลุกสนฺถตา ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. สวนฺติ อมฺพูนิ ฯ  ๙. ม.สุสุมารา ฯ ๑๐. ม. ปาวุสา ฯ 
+<span class="LineNumber"> 023 </span># ๑๑. ม. ปาวุสา ฯ  ๑๒. ม. สนฺถตตลา ฯ  ๑๒. ม. ปสฺสาหีติ ฯ 
+<span class="LineNumber"> 024 </span># ๑๓. ม. นานาทิชคณากิณฺณา นานาทุมคณายุตา ฯ 
+<span class="LineNumber"> 025 </span># ๑๔. ม.นิมฺมิตนฺติ ฯ 

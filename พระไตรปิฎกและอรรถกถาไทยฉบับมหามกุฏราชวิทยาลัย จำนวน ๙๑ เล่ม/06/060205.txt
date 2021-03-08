@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H2>ศุกลปักษ์  ๗</H2>
+<span class="LineNumber"> 002 </span>           ดูก่อนภิกษุทั้งหลาย   ภิกษุผู้ประกอบองค์ ๕ พึงให้อุปสมบท   พึงให้
+<span class="LineNumber"> 003 </span>นิสัย  พึงให้สามเณรอุปัฏฐาก  คือ:- 
+<span class="LineNumber"> 004 </span>           ๑.  รู้จักอาบัติ.
+<span class="LineNumber"> 005 </span>           ๒.  รู้จักอนาบัติ.
+<span class="LineNumber"> 006 </span>           ๓.   รู้จักอาบัติเบา.
+<span class="LineNumber"> 007 </span>           ๔.   รู้จักอาบัติหนัก   และ.
+<span class="LineNumber"> 008 </span>           ๕.   เธอจำปาติโมกข์ทั้งสองได้ดีโดยพิสดาร   จำแนกดี   คล่องแคล่วดี
+<span class="LineNumber"> 009 </span>วินิจฉัยเรียบร้อย  โดยสุตตะ  โดยอนุพยัญชนะ.
+<span class="LineNumber"> 010 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์ ๕  นี้แล  พึงให้อุปสมบท
+<span class="LineNumber"> 011 </span>พึงให้นิสัย  พึงให้สามเณรอุปัฏฐาก.
+
+<span class="LineNumber"> 012 </span>                                           <H2>กัณหปักษ์  ๘</H2>
+<span class="LineNumber"> 013 </span>           ดูก่อนภิกษุทั้งหลาย  ภิกษุผู้ประกอบด้วยองค์ ๕ แม้อื่นอีก  ไม่พึงไห้
+<span class="LineNumber"> 014 </span>อุปสมบท  ไม่พึงให้นิสัย  ไม่พึงให้สามเณรอุปัฏฐาก  คือ:-
+<span class="LineNumber"> 015 </span>           ๑.  ไม่รู้จักอาบัติ.
+<span class="LineNumber"> 016 </span>           ๒. ไม่รู้จักอนาบัติ.
+<span class="LineNumber"> 017 </span>           ๓. ไม่รู้จักอาบัติเบา.
+<span class="LineNumber"> 018 </span>           ๔. ไม่รู้จักอาบัติหนัก   และ
+<span class="LineNumber"> 019 </span>           ๕.  มีพรรษาหย่อน.
+<span class="LineNumber"> 020 </span>           ดูก่อนภิกษุทั้งหลาย     ภิกษุผู้ประกอบด้วยองค์ ๕ นี้แล     ไม่พึงไห้
+<span class="LineNumber"> 021 </span>อุปสมบท  ไม่พึงให้นิสัย  ไม่พึงให้สามเณรอุปัฏฐาก.                 

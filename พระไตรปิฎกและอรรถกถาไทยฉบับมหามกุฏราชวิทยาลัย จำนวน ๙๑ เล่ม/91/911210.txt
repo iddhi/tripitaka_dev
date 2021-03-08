@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>ปัจจยวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                  <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>อรูปาวจรบท</H2>	
+<span class="LineNumber"> 005 </span>           [๖๒๙] ๑.  <B>อรูปาวจรธรรม   ที่เป็นกุศล   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 006 </span>อรูปาวจรธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                            <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 008 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๖๓๐]  ในเหตุปัจจัย มี ๖ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>             <I>นกุสลติกนรูปาวจรทุกกุสลติกรูปาวจรทุกะ  จบ</I>

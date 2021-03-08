@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           มี ๒ อย่าง  คือที่เป็น  <B>อารัมมณาธิปติ</B>  และ  <B>สหชาตาธิปติ</B>
+<span class="LineNumber"> 002 </span>           ที่เป็น  <B>อารัมมณาธิปติ</B>  ได้เเก่ 
+<span class="LineNumber"> 003 </span>           บุคคลย่อมยินดี   ย่อมเพลิดเพลินยิ่ง   เพราะกระทำจักษุที่เป็นปัจจุป- 
+<span class="LineNumber"> 004 </span>ปันนธรรม   ฯลฯ    หทยวัตถุ     ขันธ์ทั้งหลายที่เป็นปัจจุปับนนธรรมให้เป็น
+<span class="LineNumber"> 005 </span>อารมณ์อย่างหนักแน่น     ครั้นกระทำจักษุเป็นต้นนั้นให้เป็นอารมณ์อย่างหนัก
+<span class="LineNumber"> 006 </span>แน่นแล้ว   ราคะ    ย่อมเกิดขึ้น  ทิฏฐิ   ย่อมเกิดขึ้น.
+<span class="LineNumber"> 007 </span>           ที่เป็น  <B>สหชาตาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 008 </span>           อธิติธรรมที่เป็นปัจจุปปันนธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์  และ
+<span class="LineNumber"> 009 </span>จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของอธิปติปัจจัย.
+
+<span class="LineNumber"> 010 </span>                                          <H1>๔.  อนันตรปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           [๑๙๒๔] ๑. <B>อตีตธรรม  เป็นปัจจัยแก่ปัจจุปปันนธรรม ด้วย
+<span class="LineNumber"> 012 </span>อำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ  ขันธ์ทั้งหลายที่เป็นอตีตธรรม ที่เกิดก่อน ๆ เป็นปัจจัยแก่ขันธ์
+<span class="LineNumber"> 014 </span>ทั้งหลายที่เป็นปัจจปปันนธรรม   ที่เกิดหลัง ๆ  ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 015 </span>           อนุโลม   เป็นปัจจัยแก่  โคตรภู.
+<span class="LineNumber"> 016 </span>           อนุโลม   เป็นปัจจัยแก่   โวทาน.
+<span class="LineNumber"> 017 </span>           โคตรภู    เป็นปัจจัยแก่   มรรค.
+<span class="LineNumber"> 018 </span>           โวทาน   เป็นปัจจัยแก่   มรรค.
+<span class="LineNumber"> 019 </span>            มรรค  เป็นปัจจัยแก่  ผล.
+

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           คือ ในปฏิสนธิขณะ  ขันธ์ ๓   และกฏัตตารูป  อาศัยขันธ์ ๑  ที่เป็น 
+<span class="LineNumber"> 002 </span>มหัคคตธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ. 
+<span class="LineNumber"> 003 </span>           [๑๓๔๐] ๗.  <B>อัปปมาณธรรม  อาศัยอัปปมาณธรรม  ฯลฯ
+<span class="LineNumber"> 004 </span>เพราะนปุเรชาตปัจจัย.</B>
+<span class="LineNumber"> 005 </span>           คือ  ในอรูปภูมิ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นอัปปมาณธรรม ฯลฯ.
+<span class="LineNumber"> 006 </span>                         ๘.  <B>ปริตตธรรม  อาศัยอัปปมาณธรรม ฯลฯ.
+<span class="LineNumber"> 007 </span>นปุเรชาตปัจจัย.</B>
+<span class="LineNumber"> 008 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอัปปมาณธรรม.
+<span class="LineNumber"> 009 </span>           [๑๓๕๑] ๙.  <B>ปริตตธรรม อาศัยปริตตธรรม  และอัปปมาณ-
+<span class="LineNumber"> 010 </span>ธรรม ฯลฯ เพราะนปุเรชาตปัจจัย.</B>
+<span class="LineNumber"> 011 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอัปปมาณธรรม  และ
+<span class="LineNumber"> 012 </span>มหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 013 </span>           [๑๓๕๒] ๑๐.  <B>ปริตตธรรม  อาศัยปริตตธรรม  และมหัคคต-
+<span class="LineNumber"> 014 </span>ธรรม  ฯลฯ  เพราะนปุเรชาตปัจจัย.</B>
+<span class="LineNumber"> 015 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นมหัคคตธรรม  และ
+<span class="LineNumber"> 016 </span>มหาภูตรูปทั้งหลาย.  ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 017 </span>                         ๑๑.  <B>มหัคคตธรรม  อาศัยปริตตธรรม และมหัคคต-
+<span class="LineNumber"> 018 </span>ธรรม ฯลฯ  เพราะนปุเรชาตปัจจัย.</B>
+             

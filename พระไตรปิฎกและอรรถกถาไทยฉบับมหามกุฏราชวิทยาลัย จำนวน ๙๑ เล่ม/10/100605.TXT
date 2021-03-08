@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>ด้วยโคนต้นตาล    บุคคลผู้ต้องปาราชิก   
+<span class="LineNumber"> 002 </span>                   เหล่านั้น    ย่อมไม่งอกงามเปรียบเหมือนใบ
+<span class="LineNumber"> 003 </span>                   ไม้เหลือง  ศีลาหนา  คนศีรษะขาด  ต้นตาล
+<span class="LineNumber"> 004 </span>                   ยอดด้วน  ฉะนั้น.</B>
+
+<span class="LineNumber"> 005 </span>                                       <H1>อาบัติที่ระงับได้</H1>
+<span class="LineNumber"> 006 </span>                             [๑,๐๓๒]  <B>สังฆาทิเสส  ๒๓  อนิยต  ๒
+<span class="LineNumber"> 007 </span>                   นิสสัคคิยะ  ๔๒  ปาจิตตีย์  ๑๘๘  ปาฏิเทสนียะ
+<span class="LineNumber"> 008 </span>                   ๑๒  เสขิยะ   ๗๕   ระงับด้วยสมณะ  ๓   คือ
+<span class="LineNumber"> 009 </span>                   สัมมุขาวินัย  ๑  ปฏิญญาตกรณะ  ๑  ติณ-
+<span class="LineNumber"> 010 </span>                   วตถารกะ  ๑.</B>
+
+<span class="LineNumber"> 011 </span>                                        <H1>ส่วนที่ทรงจำแนก</H1>
+<span class="LineNumber"> 012 </span>                            [๑,๐๓๓]  <B>อุโบสถ  ๒   ปวารณา  ๒
+<span class="LineNumber"> 013 </span>                   กรรม  ๔    อันพระชินเจ้าทรงแสดงแล้ว
+<span class="LineNumber"> 014 </span>                   อุเทศ  ๕ และอุเทศ  ๔  ย่อมไม่มีโดยประการ
+<span class="LineNumber"> 015 </span>                   อื่น  และกองอาบัติมี  ๗.</B>
+
+<span class="LineNumber"> 016 </span>                                                 <H1>อธิกรณ์</H1>
+<span class="LineNumber"> 017 </span>                             [๑,๐๓๔]  <B>อธิกรณ์  ๔  ระงับด้วยสมถะ
+<span class="LineNumber"> 018 </span>                   ๗  คือ  ระงับด้วยสมถะ  ๒   ด้วยสมถะ   ๔
+<span class="LineNumber"> 019 </span>                   ด้วยสมถะ  ๓    แต่กิจจาธิกรณ์ระงับด้วย
+<span class="LineNumber"> 020 </span>                   สมถะ  ๑.</B>

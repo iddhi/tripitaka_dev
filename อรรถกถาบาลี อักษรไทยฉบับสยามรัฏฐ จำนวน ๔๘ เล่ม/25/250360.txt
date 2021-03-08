@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  360
+	
+<span class="LineNumber"> 002 </span>		ปทุมุตฺตโร โลกวิทู	อาหุตีนํ ปฏิคฺคโห  
+<span class="LineNumber"> 003 </span>		มมุทฺธริตุกาโม โส		ภิกฺขนฺโต มมุปาคมิ ฯ  
+<span class="LineNumber"> 004 </span>		ปสนฺนจิตฺโต สุมโน	ผลํ พุทฺธสฺสทาสหํ  
+<span class="LineNumber"> 005 </span>		วิตฺติสฺชนโน(๑) มยฺหํ	ทิฏฺ€ธมฺมสุขาวโห ฯ  
+<span class="LineNumber"> 006 </span>		สุวณฺณวณฺโณ สมฺพุทฺโธ	อาหุตีนํ ปฏิคฺคโห  
+<span class="LineNumber"> 007 </span>		อนฺตลิกฺเข €ิโต สตฺถา	อิมํ คาถํ อภาสถ ฯ  
+<span class="LineNumber"> 008 </span>		อิมินา ผลทาเนน		เจตนาปณิธีหิ จ  
+<span class="LineNumber"> 009 </span>		กปฺปานํ สตสหสฺสํ		ทุคฺคตึ นุปปชฺชสิ ฯ (๒)  
+<span class="LineNumber"> 010 </span>		เตเนว สุกฺกมูเลน		อนุโภตฺวาน สมฺปทา  
+<span class="LineNumber"> 011 </span>		ปตฺโตมฺหิ อจลํ €านํ	หิตฺวา ชยปราชยํ ฯ  
+<span class="LineNumber"> 012 </span>		อิโต สตฺตสเต กปฺเป (๓)  ราชา อาสึ สุมงฺคโล  
+<span class="LineNumber"> 013 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 014 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	อรหตฺตํ ปน ปตฺวา สปฺปุริสูปนิสฺสยานิสํสกิตฺตนาปเทเสน 
+<span class="LineNumber"> 016 </span>อฺํ พฺยากโรนฺโต  
+<span class="LineNumber"> 017 </span>		สาธุ สุวิหิตาน(๔) ทสฺสนํ  กงฺขา ฉิชฺชติ พุทฺธิ วฑฺฒติ  
+<span class="LineNumber"> 018 </span>		พาลมฺปิ กโรนฺติ ปณฺฑิตํ	ตสฺมา สาธุ สตํ สมาคโมติ(๕)  
+<span class="LineNumber"> 019 </span>คาถํ อภาสิ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. ปีติสฺชนโน ฯ  ๒. สฺยา. สี. นูปปชฺชติ ฯ  
+<span class="LineNumber"> 021 </span># ๓. สฺยา. สี. สตฺตกปฺปสเต ฯ ๔. สฺยา. สุวหิตานํ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ขุ. เถร. ๒๖/๒๑๒/๒๗๗ ฯ 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๕  มหาปรินิพฺพานสุตฺตวณฺณนา  หน้า  ๒๖๕
+
+<span class="LineNumber"> 002 </span>โอนมติ ฯ  เทวตา  (๑)เทหิ  ตาต  ปาสาทสฺส  ปติฏฺ€าตต ฯ  เทหิ 
+<span class="LineNumber"> 003 </span>ตาต  ปาสาทสฺส  ปติฏฺ€าตุนฺติ(๑)  วิรวึสุ ฯ  สามเณโร  ปาสาทํ  
+<span class="LineNumber"> 004 </span>ยถา€าเน  €เปตฺวา  ปาสาทมตฺถเก  €ตฺวา  อุทานํ  อุทาเนสิ  
+<span class="LineNumber"> 005 </span>		อชฺเชวาหํ  ปพฺพชิโต  อชฺชปตฺตาสวกฺขยํ  
+<span class="LineNumber"> 006 </span>		อชฺช  กมฺเปมิ  ปาสาทํ  อโห  พุทฺธสฺสุฬารตา ฯ  
+<span class="LineNumber"> 007 </span>		อชฺเชวาหํ  ปพฺพชิโต  อชฺช  ปตฺตาสวกฺขยํ  
+<span class="LineNumber"> 008 </span>		อชฺช  กมฺเปมิ  ปาสาทํ  อโห  ธมฺมสฺสุฬารตา ฯ
+<span class="LineNumber"> 009 </span>		อชฺเชวาหํ  ปพฺพชิโต  อชฺช  ปตฺตาสวกฺขยํ  
+<span class="LineNumber"> 010 </span>		อชฺช  กมฺเปมิ  ปพฺพชิโต  อโห  สํฆสฺสุฬารตาติ ฯ  
+<span class="LineNumber"> 011 </span>	อิโต  ปเรสุ  ฉสุ  ป€วีกมฺเปสุ  ยํ  วตฺตพฺพํ ฯ  ตํ  มหาปทาเน  
+<span class="LineNumber"> 012 </span>วุตฺตเมว ฯ  
+<span class="LineNumber"> 013 </span>	อิติ อิเมสุ  อฏฺ€สุ  ป€วีกมฺเปสุ  ป€โม  ธาตุโกเปน (๒) ทุติโย  
+<span class="LineNumber"> 014 </span>อิทฺธานุภาเวน ฯ  ตติยจตุตฺถา  ปุฺเตเชน ฯ  ปฺจโม  าณเตเชน ฯ  
+<span class="LineNumber"> 015 </span>ฉฏฺโ€  สาธุการทานวเสน ฯ  สตฺตโม  การุฺภาเวน ฯ  อฏฺ€โม  
+<span class="LineNumber"> 016 </span>อาโรทเนน ฯ  มาตุ  กุจฺฉึ  จ(๓)  โอกฺกมนฺเต  จ  ตโต  นิกฺขมนฺเต  
+<span class="LineNumber"> 017 </span>จ  มหาสตฺเต  ตสฺส  ปุฺเตเชน  ป€วี  อกมฺปิตฺถ ฯ  
+<span class="LineNumber"> 018 </span>อภิสมฺโพธิยํ  าณเตเชน  อภิหตา  หุตฺวา  อกมฺปิตฺถ ฯ  
+<span class="LineNumber"> 019 </span>ธมฺมจกฺกปฺปวตฺตเน  สาธุการภาวสณฺ€ิตา  สาธุการํ  ททมานา  
+<span class="LineNumber"> 020 </span>#  ๑.  ม.  ปติฏฺ€าตุํ  เทหิ  ตาต  ปาสาทสฺส  ปติฏฺ€าตุํ  เทหิ  ตาต  ปาสาทสฺสาติ ฯ
+<span class="LineNumber"> 021 </span>๒.  ยุ.  ธาตุกฺโขเภน ฯ  ๓.  ม.  จสทฺโท  นตฺถิ ฯ

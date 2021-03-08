@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑  อารมฺภกถา  หน้า ๒  
+
+<span class="LineNumber"> 002 </span>			ยสฺมึ  €ิเต สาสนมฏฺ€ิตสฺส
+<span class="LineNumber"> 003 </span>			ปติฏฺ€ิตํ โหติ สุสณฺ€ิตสฺส
+<span class="LineNumber"> 004 </span>			ตํ วณฺณยิสฺสํ วินยํ อมิสฺสํ
+<span class="LineNumber"> 005 </span>			นิสฺสาย ปุพฺพาจริยานุภาวํฯ
+<span class="LineNumber"> 006 </span>			กามฺจ ปุพฺพาจริยาสเภหิ
+<span class="LineNumber"> 007 </span>			าณมฺพุนิทฺโธตมลาสเวหิ
+<span class="LineNumber"> 008 </span>			วิสุทฺธวิชฺชาปฏิสมฺภิเทหิ
+<span class="LineNumber"> 009 </span>			สทฺธมฺมสํวณฺณนโกวิเทหิ
+<span class="LineNumber"> 010 </span>			สลฺลกฺขิเย(๑) โน สุลภูปเมหิ
+<span class="LineNumber"> 011 </span>			มหาวิหารสฺส ธชูปเมหิ
+<span class="LineNumber"> 012 </span>			สํวณฺณิโตยํ วินโย นเยหิ
+<span class="LineNumber"> 013 </span>			จิตฺเตหิ สมฺพุทฺธวรนฺวเยหิฯ
+<span class="LineNumber"> 014 </span>			สํวณฺณนา สีหลทีปเกน (๒)
+<span class="LineNumber"> 015 </span>			วากฺเยน เอสา ปน สงฺขตตฺตา (๓)
+<span class="LineNumber"> 016 </span>			น กิฺจิ อตฺถํ อภิสมฺภุณาติ
+<span class="LineNumber"> 017 </span>			ทีปนฺตเร ภิกฺขุชนสฺส ยสฺมา
+<span class="LineNumber"> 018 </span>			ตสฺมา อิมํ ปาฬินยานุรูปํ
+<span class="LineNumber"> 019 </span>			สํวณฺณนํ ทานิ สมารภิสฺสํ
+<span class="LineNumber"> 020 </span>			อชฺเฌสนํ พุทฺธสิริวฺหยสฺส
+<span class="LineNumber"> 021 </span>			เถรสฺส สมฺมา สมนุสฺสรนฺโตฯ
+<span class="LineNumber"> 022 </span># ๑. ม. สลฺเลขเย ฯ  ๒. ม.สีหฬทีปเกนฯ  ๓. สี. สงฺขฏตฺตา ฯ  

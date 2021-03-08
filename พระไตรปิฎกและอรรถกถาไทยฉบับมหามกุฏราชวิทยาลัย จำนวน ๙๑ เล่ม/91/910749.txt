@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๖๒๘]  ในเหตุปัจจัย มี ๖ วาระ  ในอารัมมณปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย มี ๖ วาระ.
+ 
+<span class="LineNumber"> 004 </span>                                             <H2>พาหิรบท</H2>
+<span class="LineNumber"> 005 </span>           [๖๒๙] ๑.  <B>ธรรมที่ไม่ใช่พาหิรธรรม   ที่ไม่ใช่สนิทัสสนสัป-
+<span class="LineNumber"> 006 </span>ปฏิฆธรรม  อาศัยพาหิรธรรม ที่เป็นอนิทัสสนสัปปฏิฆธรรม เกิดขึ้น
+<span class="LineNumber"> 007 </span>เพราะเหตุปัจจัย    ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๖๓๐]  ในเหตุปัจจัย มี ๑๑ วาระ ฯลฯ
+<span class="LineNumber"> 010 </span>     <I>สนิทัสสนติกอัชฌัตติกทุกนสนิทัสสนติกนอัชฌัตติกทุกะ  จบ</I>
+
+<span class="LineNumber"> 011 </span>               <H1>สนิทัสสนติกอุปาทาทุกนสนิทัสสนติกนอุปาทาทุกะ</H1>
+<span class="LineNumber"> 012 </span>               <H2>(๒๒.  สนิทัสสนติกะ  ๖๗.  อุปาทาทุกะ)</H2>
+<span class="LineNumber"> 013 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 014 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>                                         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>                                            <H2>อุปาทาบท</H2>
+<span class="LineNumber"> 017 </span>           [๖๓๑] ๑. <B>ธรรมที่ไม่ใช่อุปาทาธรรม  ที่ไม่ใช่สนิทัสสนสัป-
+<span class="LineNumber"> 018 </span>ปฏิฆธรรม  อาศัยอุปาทาธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิด
+<span class="LineNumber"> 019 </span>ขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>	
+

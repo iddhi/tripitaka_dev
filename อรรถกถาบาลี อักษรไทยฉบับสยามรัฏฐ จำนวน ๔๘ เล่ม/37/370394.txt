@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  394
+
+<span class="LineNumber"> 002 </span>		ปุตฺตํ ลเภถ วรทํ		ยาจโยคํ อมจฺฉรึ  
+<span class="LineNumber"> 003 </span>		ปูชิตํ ปฏิราชูหิ		กิตฺติมนฺตํ ยสสฺสินํ  
+<span class="LineNumber"> 004 </span>		คพฺภํ เม ธารยนฺติยา	มชฺฌิมงฺคํ อนุนฺนตํ  
+<span class="LineNumber"> 005 </span>		กุจฺฉิ อนุนฺนโต อสฺส	จาปํว ลิขิตํ สมํ  
+<span class="LineNumber"> 006 </span>		ถนา เม นปฺปวตฺเตยฺยุํ	ปลิตา นสฺสนฺตุ วาสว  
+<span class="LineNumber"> 007 </span>		กาเย รโช น ลิมฺเปถ	วชฺฌฺจาปิ ปโมจเย  
+<span class="LineNumber"> 008 </span>		มยูรโกฺจาภิรุเท		นารีวรคณายุเต  
+<span class="LineNumber"> 009 </span>		ขุชฺชเจลาวกากิณฺเณ	สูทมาคธวณฺณิเต  
+<span class="LineNumber"> 010 </span>		จิตฺรคฺคเฬรุฆุสิเต		สุรามํสปฺปโพธเน  
+<span class="LineNumber"> 011 </span>		สิวิราชสฺส ภทฺทนฺเต	ตตฺถ อสฺสํ มเหสิยาติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  สิวิราชสฺสาติ  สา  ชมฺพูทีปตลํ (๑) โอโลเกนฺตี  อตฺตโน  
+<span class="LineNumber"> 013 </span>อนุจฺฉวิกํ  สิวิรฺโ  นิเวสนํ  ทิสฺวา  ตตฺถ  อคฺคมเหสีภาวํ 
+<span class="LineNumber"> 014 </span>ปตฺเถนฺติ  เอวมาห ฯ  ยถา  มิคีติ  เอกวสฺสิกา [๒] มิคโปติกา
+<span class="LineNumber"> 015 </span>วิย ฯ  นีลกฺขีติ  นิมฺมลนีลเนตฺตา  โหมิ (๓)ฯ  เตเนวมาห ฯ  ตตฺถ
+<span class="LineNumber"> 016 </span>ผุสฺสตีติ อิมินา(๔) นาเมน  อสฺสํ ฯ  ลเภถาติ  ลเภยฺยํ ฯ  
+<span class="LineNumber"> 017 </span>วรทนฺติ  อลงฺกตสีสอกฺขิยุคลหทยมํสรุธิรเสตจฺฉตฺตปุตฺตทาราทิกสฺส
+<span class="LineNumber"> 018 </span>ยาจิตยาจกสฺส(๕)  วรภณฺฑสฺส  ทายกํ ฯ กุจฺฉีติ มชฺฌิมงฺคนฺติ 
+<span class="LineNumber"> 019 </span># ๑. ม. สกลชมฺพุทีปตลํ ฯ  ๒. ม. เอตฺถนฺตเร หิสทฺโท อตฺถิ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. โหติ ฯ  ๔. ม. ปสฺสนฺติ ตตฺถปิ อิมินาว ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. ...มํสรุธิรเสตจฺฉตฺตปุตฺตทาเรสุ ยาจิตยาจิตสฺส ฯ

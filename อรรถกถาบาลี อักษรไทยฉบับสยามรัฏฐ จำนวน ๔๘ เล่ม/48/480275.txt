@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า 275
+
+<span class="LineNumber"> 002 </span>		เนวสฺานาสฺายตนกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  เนวสฺานาสฺายตนกถา  นาม  โหติ ฯ  ตตฺถ
+<span class="LineNumber"> 004 </span>เยสํ  เนวสฺานาสฺายตนนฺติ  วจนโต  น  วตฺตพฺพํ  ตสฺมึ
+<span class="LineNumber"> 005 </span>ภเว  สฺา  อตฺถีติ  ลทฺธิ  เสยฺยถาปิ  เอตรหิ  อนฺธกานํ 
+<span class="LineNumber"> 006 </span>เต  สนฺธาย  ปุจฺฉา  สกวาทิสฺส  ปฏิฺา อิตรสฺส ฯ
+<span class="LineNumber"> 007 </span>เสสเมตฺถ สพฺพํ ปาลินเยเนว เวทิตพฺพนฺติ ฯ 
+<span class="LineNumber"> 008 </span>	เนวสฺานาสฺายตนกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 009 </span>		ตติโย วคฺโค สมตฺโต ฯ 
+
+<span class="LineNumber"> 010 </span>		คิหิสฺสอรหาติกถาวณฺณนา 
+<span class="LineNumber"> 011 </span>	อิทานิ  คิหิสฺส  อรหาติกถา  นาม  โหติ ฯ  ตตฺถ  เยสํ
+<span class="LineNumber"> 012 </span>ยสกุลปุตฺตาทีนํ คิหิพฺยฺชเน  €ิตานํ  อรหตฺตุปฺปตฺตึ  (๑)  ทิสฺวา
+<span class="LineNumber"> 013 </span>คิหิ  อสฺส  อรหาติ  ลทฺธิ เสยฺยถาปิ  เอตรหิ  อุตฺตราปถกานํ
+<span class="LineNumber"> 014 </span>เต สนฺธาย ปุจฺฉา สกวาทิสฺส ฯ ตตฺถ คิหิสฺสาติ โย  คิหิ-
+<span class="LineNumber"> 015 </span>สฺโชนสมฺปยุตฺตตาย  คิหิ  โส อรหํ อสฺสาติ อตฺโถ ฯ ปรวาที
+<span class="LineNumber"> 016 </span>ปน อธิปฺปายํ อสลฺลกฺเขตฺวา  คิหิพฺยฺชนมตฺตเมว  ปสฺสนฺโต
+<span class="LineNumber"> 017 </span>ปฏิชานาติ ฯ  อิทานิสฺส  คิหิ  นาม คิหิสฺโชเนน โหติ
+<span class="LineNumber"> 018 </span>น พฺยฺชนมตฺเตน ฯ ยถาห ภควา
+<span class="LineNumber"> 019 </span>		อลงฺกโต เจปิ สมํ จเรยฺย 
+<span class="LineNumber"> 020 </span>		สนฺโต ทนฺโต นิยโต พฺรหฺมจารี 
+<span class="LineNumber"> 021 </span># ๑. ม อรหตฺตปฺปตฺตึ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  144
+
+<span class="LineNumber"> 002 </span>	[๘๑๑]ทหรา สตฺตสตา เอตา จนฺทกุมารสฺส ภริยาโย  
+<span class="LineNumber"> 003 </span>		เกเส วิกีริตฺวาน(๑) โรทนฺติโย มคฺคมนุยายนฺติ  
+<span class="LineNumber"> 004 </span>		อปรา ปน โสเกน นิกฺขนฺตา นนฺทเน วิย เทวา  
+<span class="LineNumber"> 005 </span>		เกเส วิกีริตฺวาน โรทนฺติโย มคมนุยายนฺตีติ(๒) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  นนฺทเน  วิย  เทวาติ  นนฺทวเน (๓) จวนธมฺมํ  เทวปุตฺตํ(๓)
+<span class="LineNumber"> 007 </span>ปริวาเรตฺวา เทวตา วิย(๔) ฯ  
+<span class="LineNumber"> 008 </span>	ตโต ปรํ ตาสํ วิลาโป โหติ(๕)  
+<span class="LineNumber"> 009 </span>[๘๑๒]กาสิกสุจิวตฺถธรา กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตา  
+<span class="LineNumber"> 010 </span>	นียนฺติ จนฺทสุริยา ยฺตฺถาย เอกราชสฺส  
+<span class="LineNumber"> 011 </span>	กาสิกสุจิวตฺถธรา กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตา  
+<span class="LineNumber"> 012 </span>	นียนฺติ จนฺทสุริยา มาตุ กตฺวา หทยโสกํ  
+<span class="LineNumber"> 013 </span>	กาสิกสุจิวตฺถธรา กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตา  
+<span class="LineNumber"> 014 </span>	นียนฺติ จนฺทสุริยา ชนสฺส กตฺวา หทยโสกํ  
+<span class="LineNumber"> 015 </span>	มํสรสโภชนา นหาปกสุนหาตา(๖) กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตา  
+<span class="LineNumber"> 016 </span>	นียนฺติ จนฺทสุริยา		ยฺตฺถาย เอกราชสฺส  
+<span class="LineNumber"> 017 </span>	มํสรสโภชนา นหาปกสุนหาตา(๖) กุณฺฑลิโน อคฺคลุจนฺทนวิลิตฺตา  
+<span class="LineNumber"> 018 </span>	นียนฺติ จนฺทสุริยา		มาตุ กตฺวา ทหยโสกํ  
+<span class="LineNumber"> 019 </span># ๑. สี. ยุ. ปริกิริตฺวาน ฯ  ม. ปกิริตฺวาน ฯ  ๒. ม. มคฺคมนุยายิสุนฺติ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. จวนเทวปุตฺตํ ฯ  ๔. ม. นิกฺขนฺตเทวตา วิย คตา ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. วิลาปคาถา โหนฺติ ฯ ๖. ม. นหาปกสุนฺหาปิตา ฯ

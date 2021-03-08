@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>วิเคราะห์ถุลลัจจัย</H1>   
+<span class="LineNumber"> 002 </span>                             [๑,๐๓๘]  <B>คำใดที่เรากล่าวไว้ว่า  ถุล- 
+<span class="LineNumber"> 003 </span>                   ลัจจัย  ดังนี้  ท่านจงฟังคำนั้น   ดังจะกล่าว
+<span class="LineNumber"> 004 </span>                   ต่อไป  ภิกษุแสดงอาบัติถุลลัจจัย   ในที่ใกล้
+<span class="LineNumber"> 005 </span>                   ภิกษุรูปหนึ่ง   แ ละภิกษุรับอาบัตินั้น   โทษ
+<span class="LineNumber"> 006 </span>                   เสมอด้วยถุลลัจจัยนั้นไม่มี     เพราะเหตุนั้น
+<span class="LineNumber"> 007 </span>                   จึงเรียกโทษนั้นว่า  ถุลลัจจัย.</B>
+
+<span class="LineNumber"> 008 </span>                                      <H1>วิเคราะห์นิสสัคคิยะ</H1>
+<span class="LineNumber"> 009 </span>                             [๑,๐๓๙]  <B>คำใดที่เรากล่าวไว้ว่า  นิส-
+<span class="LineNumber"> 010 </span>                   สัคคิยะ  ดังนี้  ท่านจงฟังคำนั้น  ดังจะกล่าว
+<span class="LineNumber"> 011 </span>                   ต่อไป  ภิกษุเสียสละในท่ามกลางสงฆ์  ท่าม
+<span class="LineNumber"> 012 </span>                   กลางคณะ  และต่อหน้าภิกษุรูปหนึ่ง ๆ แล้ว
+<span class="LineNumber"> 013 </span>                   จึงแสดงข้อละเมิดใด    เพราะเหตุนั้น    จึง
+<span class="LineNumber"> 014 </span>                   เรียกข้อละเมิดนั้นว่า  นิสสัคคิยะ.</B>
+
+<span class="LineNumber"> 015 </span>                                         <H1>วิเคราะห์ปาจิตตีย์</H1>
+<span class="LineNumber"> 016 </span>                             [๑,๐๔๐]  <B>คำใดที่เรากล่าวไว้ว่า
+<span class="LineNumber"> 017 </span>                   ปาจิตตีย์  ดังนี้ ท่านจงฟังคำนั้น  ดังจะกล่าว
+<span class="LineNumber"> 018 </span>                   ต่อไป  ความละเมิดยังกุศลธรรมให้ตก  ย่อม
+<span class="LineNumber"> 019 </span>                   ฝืนต่ออริยมรรค  เป็นเหตุแห่งความลุ่มหลง</B>

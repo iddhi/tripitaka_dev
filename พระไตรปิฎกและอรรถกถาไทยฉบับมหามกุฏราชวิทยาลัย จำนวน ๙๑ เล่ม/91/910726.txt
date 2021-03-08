@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๕๘๕]  ในเหตุปัจจัย  มี ๖  วาระ  ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                  <H2>อาสววิปปยุตตบท</H2>
+<span class="LineNumber"> 004 </span>           [๕๘๖] ๑.  <B>ธรรมที่ไม่ใช่อาววิปปยุตตธรรม  ที่ไม่ใช่สนิ-
+<span class="LineNumber"> 005 </span>ทัสสนสัปปฏิฆธรรม  อาศัยอาสววิปปยุตตธรรม  ที่เป็นอนิทัสสน-
+<span class="LineNumber"> 006 </span>อัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 007 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๕๘๗]  ในเหตุปัจจัย  มี  ๓  วาระ ฯลฯ
+<span class="LineNumber"> 009 </span><I>สนิทัสสนติกอาสวสัมปยุตตทุกนสนิทัสสนติกนอาสวสัมปยุตตทุกะ  จบ</I>
+
+		

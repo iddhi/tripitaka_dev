@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                        		<H2>ปัจจนียานุโลมนัย</H2>  
+<span class="LineNumber"> 002 </span>		[๒๓๑] 	<B>เพราะนเหตุปัจจัย</B> ในอารัมมณปัจจัย มี ๑ วาระ... ฯลฯ
+<span class="LineNumber"> 003 </span>           			สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+		
+<span class="LineNumber"> 004 </span>					  <H1>นเหตุบทปัญหาวาระ</H1>	
+<span class="LineNumber"> 005 </span>					       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>					<H2>๑. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๒๓๒]  ๑.  นเหตุธรรมที่เป็นอาจยคามิธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 008 </span>นเหตุธรรมที่เป็นอาจยคามิธรรม  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 009 </span>                         ๒.  นเหตุธรรมที่เป็นอาจยคามิธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 010 </span>นเหตุธรรมที่เป็นเนวาจยคามินาปจยคามิธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 011 </span>อารัมมณปัจจัย	
+<span class="LineNumber"> 012 </span>                         ๓.  นเหตุธรรมที่เป็นอปจยคามิธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 013 </span>นเหตุธรรมที่เป็นอาจยคามิธรรม  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 014 </span>                         ๔.  นเหตุธรรมที่เป็นอปจยคามิธรรม    เป็นปัจจัยแก่
+<span class="LineNumber"> 015 </span>นเหตุธรรมที่เป็นเนวาจยคามินาปจยคามิธรรม    ด้วยอำนาจของ
+<span class="LineNumber"> 016 </span>อารัมมณปัจจัย                                                       
+<span class="LineNumber"> 017 </span>                          ๕.  นเหตุธรรมที่เป็นเนวาจยคามินาปจยคามิธรรม
+<span class="LineNumber"> 018 </span>เป็นปัจจัยแก่นเหตุธรรมที่เป็นเนวาจยคามินาปจยคามิธรรม     ด้วย-
+<span class="LineNumber"> 019 </span>อำนาจของอารัมมณปัจจัย

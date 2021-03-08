@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>สฺสตฺตาวาโส    สฺสํสาโร    สฺโยนิ   สฺตฺตภาวปฏิลาโภติ   ฯ  
+<span class="LineNumber"> 002 </span>อามนฺตา    ฯ    อสฺสตฺเตสุ   สฺา   อตฺถิ   โส   จ   สฺภโว  
+<span class="LineNumber"> 003 </span>สฺคติ  สฺสตฺตาวาโส  สฺสํสาโร  สฺโยนิ  สฺตฺตภาวปฏิลาโภติ ฯ  
+
+<span class="LineNumber"> 004 </span>น เหวํ วตฺตพฺเพ ฯเปฯ  
+<span class="LineNumber"> 005 </span>	[๘๔๔]   มนุสฺเสสุ   สฺา  อตฺถิ  โส  จ  ปฺจโวการภโว  คติ  
+<span class="LineNumber"> 006 </span>สตฺตาวาโส   สํสาโร   โยนิ   อตฺตภาวปฏิลาโภติ   ฯ   อามนฺตา   ฯ  
+<span class="LineNumber"> 007 </span>อสฺสตฺเตสุ   สฺา  อตฺถิ  โส  จ  ปฺจโวการภโว  คติ  สตฺตาวาโส  
+<span class="LineNumber"> 008 </span>สํสาโร โยนิ อตฺตภาวปฏิลาโภติ ฯ น เหวํ วตฺตพฺเพ ฯเปฯ  
+<span class="LineNumber"> 009 </span>	[๘๔๕]   มนุสฺเสสุ   สฺา   อตฺถิ   ตาย  สฺาย  สฺากรณียํ  
+<span class="LineNumber"> 010 </span>กโรตีติ     ฯ     อามนฺตา    ฯ    อสฺสตฺเตสุ    สฺา    อตฺถิ  
+<span class="LineNumber"> 011 </span>ตาย สฺาย สฺากรณียํ กโรตีติ ฯ น เหวํ วตฺตพฺเพ ฯเปฯ  
+<span class="LineNumber"> 012 </span>	[๘๔๖]    อสฺสตฺเตสุ   สฺา   อตฺถิ   โส   จ   อสฺภโว  
+<span class="LineNumber"> 013 </span>อสฺคติ       อสฺสตฺตาวาโส       อสฺสํสาโร       อสฺโยนิ  
+<span class="LineNumber"> 014 </span>อสฺตฺตภาวปฏิลาโภติ   ฯ   อามนฺตา  ฯ  มนุสฺเสสุ  สฺา  อตฺถิ  โส  
+<span class="LineNumber"> 015 </span>จ    อสฺภโว    ฯเปฯ    อสฺตฺตภาวปฏิลาโภติ    ฯ   น   เหวํ  
+<span class="LineNumber"> 016 </span>วตฺตพฺเพ ฯเปฯ  
+<span class="LineNumber"> 017 </span>	[๘๔๗]   อสฺสตฺเตสุ   สฺา   อตฺถิ  โส  จ  เอกโวการภโว  
+<span class="LineNumber"> 018 </span>คติ   สตฺตาวาโส   สํสาโร  โยนิ  อตฺตภาวปฏิลาโภติ  ฯ  อามนฺตา  ฯ  
+<span class="LineNumber"> 019 </span>มนุสฺเสสุ    สฺา    อตฺถิ    โส    จ    เอกโวการภโว    ฯเปฯ  
+<span class="LineNumber"> 020 </span>อตฺตภาวปฏิลาโภติ ฯ น เหวํ วตฺตพฺเพ ฯเปฯ  

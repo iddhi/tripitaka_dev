@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                          แผน  ๘ 
+<span class="LineNumber"> 002 </span>           ๑.  พื้นที่สีมา
+<span class="LineNumber"> 003 </span>           ๒.  นิมิต  
+<span class="LineNumber"> 004 </span>           ๓.  แนวนิมิตในระหว่างแห่งกัน
+<span class="LineNumber"> 005 </span>           ๔.  แนวนิมิตนอกระหว่าง
+<span class="LineNumber"> 006 </span>           ๕.  แนวขาด.
+<span class="LineNumber"> 007 </span>           อธิบายว่า  ในระหว่างนิมิต ๒  แห่งนั้น  อาจชักแนวถึงกัน
+<span class="LineNumber"> 008 </span>ดังหมายเลข  ๓  นอกระหว่างก็อาจชักแนวตรงออกไป  ดังหมายเลข ๔
+<span class="LineNumber"> 009 </span>แต่จะไปสุดลงตรงไหน  ไม่มีที่กำหนด  จึงชักแนวอีกด้านหนึ่งซึ่งหมาย
+<span class="LineNumber"> 010 </span>เลข  ๕  หาได้ไม่  เช่นนี้แล  เป็นสีมามีนิมิตขาด.  แม้กว่า  ๒  แห่งแต่มี
+<span class="LineNumber"> 011 </span>แนวขาดเช่นนี้  ก็ใช้ไม่ได้.

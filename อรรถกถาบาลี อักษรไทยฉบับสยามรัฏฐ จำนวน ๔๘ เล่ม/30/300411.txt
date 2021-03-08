@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  กึสุโกปมชาตกํ  หน้า  411
+
+<span class="LineNumber"> 002 </span>รชฺเช  อภิสิฺจึสุ ฯ  
+<span class="LineNumber"> 003 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  ชาตกํ  สโมธาเนสิ 
+<span class="LineNumber"> 004 </span>ตทา  ปาทฺชลี โลฬุทายี อโหสิ ปณฺฑิตามจฺโจ ปน 
+<span class="LineNumber"> 005 </span>อหเมวาติ ฯ  
+<span class="LineNumber"> 006 </span>			ปาทฺชลิชาตกํ สตฺตมํ ฯ  
+
+<span class="LineNumber"> 007 </span>			กึสุโกปมชาตกํ  
+<span class="LineNumber"> 008 </span>	สพฺเพหิ  กึสุโก  ทิฏฺโ€ติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 009 </span>กึสุโกปมสุตฺตนฺตํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 010 </span>	จตฺตาโร  กิร (๑) ภิกฺขู  ตถาคตํ  อุปสงฺกมิตฺวา  กมฺมฏฺ€านํ  
+<span class="LineNumber"> 011 </span>ยาจึสุ ฯ  สตฺถา  เตสํ  กมฺมฏฺ€านํ  กเถสิ ฯ  เต  กมฺมฏฺ€านานิ (๒) 
+<span class="LineNumber"> 012 </span>คเหตฺวา  อตฺตโน  รตฺติฏฺ€านทิวาฏฺ€านานิ  อคมํสุ ฯ  เตสุ  เอโก 
+<span class="LineNumber"> 013 </span>ฉ  ผสฺสายตนานิ  ปริคฺคณฺหิตฺวา  อรหตฺตํ  ปาปุณิ ฯ  เอโก 
+<span class="LineNumber"> 014 </span>ปฺจกฺขนฺเธ ฯ  เอโก  จตฺตาโร  มหาภูเต ฯ  เอโก  อฏฺ€ารส
+<span class="LineNumber"> 015 </span>ธาตุโย ฯ เต อตฺตโน  อตฺตโน  อธิคตวิเสสํ  สตฺถุ  อาโรเจสุํ ฯ 
+<span class="LineNumber"> 016 </span>ตตฺเถกสฺส ภิกฺขุโน ปริวิตกฺโก  อุทปาทิ  อิเมสํ  กมฺมฏฺ€านานํ (๓)
+<span class="LineNumber"> 017 </span>นานา  นิพฺพานํ  ปน  เอกํ  กถํ  สพฺเพหิ  อรหตฺตํ  ปตฺตนฺติ ฯ  
+<span class="LineNumber"> 018 </span>โส  สตฺถารํ  ปุจฺฉิ ฯ  สตฺถา  กินฺเต  ภิกฺขุ  (๔) กึสุกทิฏฺเ€หิ  จตูหิ
+<span class="LineNumber"> 019 </span>ภาติเกหิ  นานตฺตนฺติ  วตฺวา  อิทํ  โน  ภนฺเต การณํ กเถถาติ 
+<span class="LineNumber"> 020 </span># ๑. ม. หิ ฯ  ๒. ม. กมฺมฏฺ€านํ ฯ  ๓. ม. กมฺมฏฺ€านานิ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. กึสุกทิฏฺ€ภาติเกหิ ฯ

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  498
+
+<span class="LineNumber"> 002 </span>วิย  ติฏฺ€นฺติ ฯ  เฉชฺชา  อินฺทวรา  พหูติ  อุทกปริยนฺเต  พหู 
+<span class="LineNumber"> 003 </span>สุวณฺณอินฺทวรา  มุฏฺ€ินา  ฉินฺทิตพฺพา  หุตฺวา  €ิตาติ(๑)  อตฺโถ(๒๒) ฯ  
+<span class="LineNumber"> 004 </span>อปฺโผฏาติ  อปฺโผฏวลฺลี(๓) ฯ  วลฺลิโภ  ขุทฺทปุปฺผิโยติ  วลฺลิโภ  จ  
+<span class="LineNumber"> 005 </span>ขุทฺทปุปฺผิโย  จ ฯ  นาคมลฺลิกาติ  นาคา(๔)  จ  มลฺลิกา  จ ฯ 
+<span class="LineNumber"> 006 </span>กึสุกวลฺลิโยติ  สุคนฺธมตฺตา  วลฺลีชาติ ฯ  กเตรุหา  ปวาเสนฺตีติ 
+<span class="LineNumber"> 007 </span>อิเม  จ  เทฺว  ปุปฺผคจฺฉา ฯ  มธุคนฺธิยาติ  มธุสมานคนฺธา ฯ 
+<span class="LineNumber"> 008 </span>นิลิยา  สุมนา  ภณฺฑีติ  วลฺลีสุมนา  จ  ปกติสุมนา  จ  ภณฺฑี  
+<span class="LineNumber"> 009 </span>จ ฯ ปทุมุตฺตโรติ เอโก(๕) รุกฺโข ฯ  กณิการา  จาติ  วลฺลิกณิการาปิ  
+<span class="LineNumber"> 010 </span>รุกฺขกณิการาปิ ฯ  เหมชาลาวาติ  ปสาริตเหมชาลา  วิย 
+<span class="LineNumber"> 011 </span>ทิสฺสนฺติ ฯ  มโหทธีติ  มหโต  อุทกสฺส(๖)  อาธารภโต มุจลินฺทสโรติ ฯ  
+<span class="LineNumber"> 012 </span>	[๑๑๕๔]อถสฺสา โปกฺขรณิยา	พหุกา วาริโคจรา  
+<span class="LineNumber"> 013 </span>		โรหิตา นลเปสิงฺคู (๗)	กุมฺภิลา มกรา สุสู  
+<span class="LineNumber"> 014 </span>		มธุ จ มธุลฏฺ€ิ จ		ตาลิยา(๘) จ ปิยงฺคุกา  
+<span class="LineNumber"> 015 </span>		กุทฺทชา ภทฺทมุฏฺ€า จ	สตฺตปุปฺผา(๙) จ โลลุปา  
+<span class="LineNumber"> 016 </span>		สุรภิมรุตครา		พหุกา ตุงฺควลฺลิโย  
+<span class="LineNumber"> 017 </span>		ปทฺมกา นารทา โกฏ€า	ฌามกา จ หเรณุกา  
+<span class="LineNumber"> 018 </span>		หลิทฺทกา คนฺธเสลา	หริเวรา จ คุคฺคุลา  
+<span class="LineNumber"> 019 </span>		วิเภทกา โจรโกฏฺ€า	กปฺปุรา จ กลิงฺคุกาติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อิติสทฺโท นตฺถิ ฯ  ๒. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. อปฺโฟฒวลฺลิโย ฯ ๔. ม. วลฺลินาคา ฯ  
+<span class="LineNumber"> 022 </span># ๕. ม. เอวํนามโก ฯ  ๖. ม. อุทกกฺขนฺธสฺส ฯ  ๗. ม. มนฬปีสิงฺคู ฯ
+<span class="LineNumber"> 023 </span># ๘. ม. ตาลิสา ฯ  ๙. ม.เสตปุปฺผา ฯ 

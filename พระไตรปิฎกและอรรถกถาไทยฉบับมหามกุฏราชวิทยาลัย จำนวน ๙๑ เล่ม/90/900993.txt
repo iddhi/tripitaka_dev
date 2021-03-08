@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                        ๔.  ธรรมที่ไม่ใช่กิเลสธรรมที่เป็นอกุศล  อาศัยธรรม
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่กิเลสธรรมที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย  มี ๓ วาระ. 
+<span class="LineNumber"> 003 </span>                        ๗.  ธรรมที่ไม่ใช่กิเลสธรรมที่เป็นอัพยากตะ     อาศัย
+<span class="LineNumber"> 004 </span>ธรรมที่ไม่ใช่กิเลสธรรมที่เป็นอัพยากตะ    เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 005 </span>มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                      	<H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 007 </span>		[๗๓๒]  ในเหตุปัจจัย  มี  ๙ วาระ    ในอารัมมณปัจจัย  มี  ๓  วาระ
+<span class="LineNumber"> 008 </span>ในอธิปติปัจจัย มี ๙ วาระ   ฯลฯ  ในอวิคตปัจจัย มี ๙  วาระ.
+<span class="LineNumber"> 009 </span>            สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+                 
+<span class="LineNumber"> 010 </span>    				     <H1>โนกิเลสบทปัญหาวาระ</H1>
+<span class="LineNumber"> 011 </span>                          		      <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 012 </span>                               	       <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>		[๗๓๓]  ๑.  ธรรมที่ไม่ใช่กิเลสธรรมที่เป็นกุศล  เป็นปัจจัยแก่
+<span class="LineNumber"> 014 </span>ธรรมที่ไม่ใช่กิเลสธรรมที่เป็นกุศล     ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 015 </span>มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>                         ๔.  ธรรมที่ไม่ใช่กิเลสธรรมที่เป็นอัพยากตะ     เป็น
+<span class="LineNumber"> 017 </span>ปัจจัยแก่ธรรมที่ไม่ใช่กิเลสธรรมที่เป็นอัพยากตะ     ด้วยอำนาจของ
+<span class="LineNumber"> 018 </span>เหตุปัจจัย

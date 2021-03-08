@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			* เล่มที่  ๑๓  หน้า ๗๒๕
+
+<span class="LineNumber"> 002 </span>				อมตวคฺควณฺณนา
+<span class="LineNumber"> 003 </span>	อมตนฺเต  ภิกฺขเว  ปริภุฺชนฺตีติ  เต  มรณวิรหิตํ  นิพฺพานํ
+<span class="LineNumber"> 004 </span>ปริภุฺชนฺตีติ  อตฺโถ ฯ  นนุ  จ  นิพฺพานํ  โลกุตฺตรํ  กายคตาสติ 
+<span class="LineNumber"> 005 </span>โลกิยา กถนฺตํ ปริภุฺชนฺตา  อมตํ  ปริภุฺชนฺตีติ  ตํ  ภาเวตฺวา
+<span class="LineNumber"> 006 </span>อธิคนฺตพฺพโต ฯ กายคตํ หิ สตึ ภาเวนฺโต  อมตํ อธิคจฺฉติ
+<span class="LineNumber"> 007 </span>อภาเวนฺโต นาธิคจฺฉติ ฯ ตสฺมา เอวํ  วุตฺตํ ฯ เอเตนุปาเยน
+<span class="LineNumber"> 008 </span>สพฺพตฺถ  อตฺโถ  เวทิตพฺโพ ฯ
+<span class="LineNumber"> 009 </span>	อปิเจตฺถ  วิรทฺธนฺติ  วิรทฺธิตํ  (๑)  นาธิคตํ ฯ  อารทฺธนฺติ  (๒) 
+<span class="LineNumber"> 010 </span>ปริปุณฺณํ ฯ  ปมาทึสูติ  ปมชฺชนฺติ ฯ  ปมุฏฺ€นฺติ  ปมฺมุฏฺ€ํ  (๓) วิสฺสริตํ 
+<span class="LineNumber"> 011 </span>นฏฺ€ํ วา ฯ อาเสวิตนฺติ อาทิโต เสวิตํ   ฯ ภาวิตนฺติ วฑฺฒิตํ ฯ
+<span class="LineNumber"> 012 </span>พหุลีกตนฺติ ปุนปฺปุนํ  กตํ ฯ  อนภิฺาตนฺติ  าตอภิฺาย
+<span class="LineNumber"> 013 </span>อชานิตํ ฯ อปริฺาตนฺติ  าตอปริฺาวเสเนว  (๔)  อปริฺาตํ ฯ 
+<span class="LineNumber"> 014 </span>อสจฺฉิกตนฺติ อปฺปจฺจกฺขกตํ ฯ (๕) สจฺฉิกตนฺติ  อปจฺจกฺขกตํ ฯ (๕) เสสํ
+<span class="LineNumber"> 015 </span>สพฺพตฺถ  อุตฺตานตฺถเมวาติ  ฯ
+<span class="LineNumber"> 016 </span>				อมตวคฺควณฺณนา นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 017 </span>			มโนรถปูรณิยา องฺคุตฺตรนิกายฏฺ€กถาย
+<span class="LineNumber"> 018 </span>		สหสฺสสุตฺตนฺตปริมาณสฺส  เอกกนิปาตวณฺณนา
+<span class="LineNumber"> 019 </span>						นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 020 </span># ๑ ม. วิราธิตํ    ๒. กตฺถจิ.  อวิรทฺธนฺติ  ฯ    ๓ สี. ปมฺมุฏฺ€นฺติ ปมุฏฺ€ํ  ฯ
+<span class="LineNumber"> 021 </span>ม. ปมุฏฺ€นฺติ สมฺมุฏฺ€ํ ฯ  ๔. ม. าตปริฺาวเสเนว  ๕. ม. อิเม ปา€า นตฺถิ ฯ

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                           อุทเทส ๙ 
+<span class="LineNumber"> 002 </span>	๑.  นิทานุทเทส     วิธีอันภิกษุผู้ฟังพระปาติโมกข์ควรปฏิบัติก่อน
+<span class="LineNumber"> 003 </span>	                สวดสิกขาบท
+<span class="LineNumber"> 004 </span>	๒.  ปาราชิกุทเทส  สิกขาบทพวกปาราชิก  ๔ ข้อ.
+<span class="LineNumber"> 005 </span>	๓.  สังฆาทิเสสุทเทส             "   สังฆาทิเสส  ๑๓ ข้อ.
+<span class="LineNumber"> 006 </span>	๔.  อนิยตุทเทส                    "    อนิยต  ๒ ข้อ.
+<span class="LineNumber"> 007 </span>	๕.  นิสสัคคิยทุทเทส             "    นิสสัคคิยปาจิตตีย์  ๓๐ ข้อ.
+<span class="LineNumber"> 008 </span>	๖.  ปาจิตติยุทเทส                "    สุทธิกปาจิตตีย์  ๙๒ ข้อ.
+<span class="LineNumber"> 009 </span>	๗.  ปาฏิเทสนิยุทเทส.           "    ปาฏิเทสนียะ  ๔ ข้อ.
+<span class="LineNumber"> 010 </span>	๘.  เสขิยุทเทส                     "    เสขิยวัตร  ๗๕ ข้อ.
+<span class="LineNumber"> 011 </span>	๙.  อธิกรณสมถุทเทส           "    อธิกรณสมถะ  ๗ ข้อ.

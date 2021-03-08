@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                   ๕.  <B>อสังกิลิฏฐสังกิเลสิกธรรม      อาศัยธรรมที่ไม่ใช่ 
+<span class="LineNumber"> 002 </span>อสังกิลิฏฐสังกิเลสิกธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๕ วาระ.
+<span class="LineNumber"> 003 </span>                  ๑๐.  <B>สังกิลิฏฐสังกิเลสิกธรรม       อาศัยธรรมที่ไม่ใช่ 
+<span class="LineNumber"> 004 </span>อสังกิลิฏฐอสังกิเลสิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>                  ๑๑.  <B>อสังกิลิฏฐสังกิเลสิกธรรม      อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 006 </span>อสังกิลิฏฐอสังกิเลสิกธรรม   เกิดขึ้น   เพราะนเหตุปัจจัย</B>  มี ๓ วาระ
+<span class="LineNumber"> 007 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>           [๒๙]  ในเหตุปัจจัย มี ๑๘ วาระ  ฯลฯ
+<span class="LineNumber"> 009 </span>                      <I>นสังกิลิฏฐติกสังกิลิฏฐติกะ  จบ</I>
+
+<span class="LineNumber"> 010 </span>                           <H1>๖.  นสวิตักกติกสวิตักกติกะ</H1>
+<span class="LineNumber"> 011 </span>                                      <H2>ปฏิจจวาระ</H2>   
+<span class="LineNumber"> 012 </span>                                       <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 013 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>           [๓๐] ๑.  <B>สวิตักกสวิจารธรรม      อาศัยธรรมที่ไม่ใช่สวิตักก-  
+<span class="LineNumber"> 015 </span>สวิจารธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>                    ๒.  <B>อวิตักกวิจารมัตตธรรม อาศัยธรรมที่ไม่ใช่สวิตักก-
+<span class="LineNumber"> 017 </span>สวิจารธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>

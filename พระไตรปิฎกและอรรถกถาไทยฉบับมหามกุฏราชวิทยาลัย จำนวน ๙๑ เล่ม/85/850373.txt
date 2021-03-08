@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           คือ   ขันธ์ ๓   เจือกับขันธ์ ๑ ที่เป็นอัพยากตวิบาก     และอัพยากต-   
+<span class="LineNumber"> 002 </span>กิริยา  ซึ่งเป็นอเหตุกะเกิดขึ้น  ฯล ฯ   ขันธ์ ๒ เจือกับขันธ์ ๒ เกิดขึ้น.  ใน
+<span class="LineNumber"> 003 </span>อเหตุกปฏิสนธิขณะ  ฯลฯ. 
+<span class="LineNumber"> 004 </span> <B>[๔๐๘]  ๑. กุศลธรรม เจือกับกุศลธรรมเกิดขึ้น เพราะนวิปปยุตต-
+<span class="LineNumber"> 005 </span>ปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ ในอรูปภูมิ   ขันธ์ ๓ เจือกับขันธ์ ๑ เกิดขึ้น ฯลฯ   ขันธ์ ๒
+<span class="LineNumber"> 007 </span>เจือกับขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 008 </span>              <B>๒. อกุศลธรรม  เจือกับอกุศลธรรมเกิดขึ้น  เพราะนวิปป-
+<span class="LineNumber"> 009 </span>ยุตตปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ ในอรูปภูมิ  ขันธ์ ๓ เจือกับขันธ์ ๑  ที่เป็นอกุศลเกิดขึ้น ฯลฯ
+<span class="LineNumber"> 011 </span>ขันธ์ ๒ เจือกันขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 012 </span>              <B>๓. อัพยากตธรรม   เจือกับอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 013 </span>นวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ ในอรูปภูมิ   ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอัพยากตวิบาก  และ
+<span class="LineNumber"> 015 </span>อัพยากตกิริยาเกิดขึ้น  ฯ ลฯ   ขันธ์ ๒ เจือกับขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 016 </span>           นวิปปยุตตปัจจัย   ไม่มีปฏิสนธิ.
+
+<span class="LineNumber"> 017 </span>                <H1>การนับวาระในปัจจนียะแห่งสังสัฏฐาวาระ</H1>
+<span class="LineNumber"> 018 </span> <B>[๔๐๙]</B> ในนเหตุปัจจัย   มี ๒ วาระ  ในนอธิปติปัจจัย มี ๓ วาระ  ใน
+<span class="LineNumber"> 019 </span>ปุเรชาตปัจจัย    มี ๓ วาระ     ในนปัจฉาชาตปัจจัย    มี ๓ วาระ   ใน

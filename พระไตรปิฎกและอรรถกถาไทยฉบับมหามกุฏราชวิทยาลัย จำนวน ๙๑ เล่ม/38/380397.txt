@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>               <H3>รวมพระสูตรที่มีในวรรคนี้   คือ</H3>
+<span class="LineNumber"> 002 </span>         ๑. สาธุสูตร    ๒. อริยธรรมสูตร    ๓. กุสลสูตร   ๔. อรรถสูตร 
+<span class="LineNumber"> 003 </span>๕. ธรรมสูตร   ๖.  อาสวธรรมสูตร  ๗. สาวัชชธรรมสูตร  ๘.  ตปนิย-
+<span class="LineNumber"> 004 </span>ธรรมสูตร   ๙. อาจยคามิธรรมสูตร     ๑๐. ทุกขุทรยธรรมสูตร  ๑๑. ทุกข-
+<span class="LineNumber"> 005 </span>วิปากธรรมสูตร.

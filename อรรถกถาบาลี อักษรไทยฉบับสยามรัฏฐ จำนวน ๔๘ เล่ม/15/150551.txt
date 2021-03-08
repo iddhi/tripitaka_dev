@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๕   หน้า  ๕๕๑
+
+<span class="LineNumber"> 002 </span>			ปริสุทฺธวคฺควณฺณนา   
+<span class="LineNumber"> 003 </span>	ตติยสฺส  ป€เม  ปริสุทฺธาติ  นิมฺมลา ฯ  ปริโยทาตาติ 
+<span class="LineNumber"> 004 </span>ปภสฺสรา ฯ  ทุติยาทีนิ อุตฺตานตฺถาเนวาติ ฯ    
+<span class="LineNumber"> 005 </span>				ปฐมํ ฯ
+<span class="LineNumber"> 006 </span>		ทุติยาทีนิ อุตฺตานตฺถาเนวาติ ฯ
+<span class="LineNumber"> 007 </span>				ทุติยาทีนิ ฯ
+<span class="LineNumber"> 008 </span>			ปริสุทฺธวคฺโค ตติโย  ฯ
+
+<span class="LineNumber"> 009 </span>			สาธุวคฺควณฺณนา
+<span class="LineNumber"> 010 </span>	จตุตฺถสฺส  ป€เม  สาธุนฺติ  ภทฺทกํ  สิลิฏฺ€กํ ฯ  
+<span class="LineNumber"> 011 </span>				ปฐมํ ฯ
+<span class="LineNumber"> 012 </span>	ทุติยาทีนิ อุตฺตานตฺถาเนวาติ ฯ 
+<span class="LineNumber"> 013 </span>				ทุติยาทีนิ ฯ
+<span class="LineNumber"> 014 </span>			สาธุวคฺโค จตุตฺโถ ฯ
+<span class="LineNumber"> 015 </span>		อริยมคฺควคฺโค อุตฺตานตฺโถเยวาติ ฯ  
+<span class="LineNumber"> 016 </span>			ตติยปณฺณาสโก นิฏฺ€ิโต ฯ   

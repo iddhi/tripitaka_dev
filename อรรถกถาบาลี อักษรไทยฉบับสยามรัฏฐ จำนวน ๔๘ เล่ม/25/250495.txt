@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทฺวาทสมวคฺเค ปาราปริยตฺเถรคาถาวณฺณนา  หน้า 495
+
+<span class="LineNumber"> 002 </span>		อนุกมฺปโก การุณิโก	ปิยทสฺสี มหามุนิ  
+<span class="LineNumber"> 003 </span>		สตฺตรตฺตินฺทิวํ(๑) พุทฺโธ	กูฏาคาเร วสี ชิโน ฯ  
+<span class="LineNumber"> 004 </span>		ปุราณํ ฉฑฺฑยิตฺวาน	นเวน ฉาทยึ อหํ  
+<span class="LineNumber"> 005 </span>		อฺชลึ ปคฺคเหตฺวาน	อฏฺ€าสึ ตาวเท อหํ ฯ  
+<span class="LineNumber"> 006 </span>		วุฏฺ€หิตฺวา สมาธิมฺหา	ปิยทสฺสี  มหามุนิ  
+<span class="LineNumber"> 007 </span>		ทิสํ(๒) อนุวิโลเกนฺโต	นิสีทิ โลกนายโก ฯ  
+<span class="LineNumber"> 008 </span>		ตทา สุทสฺสโน นาม	อุปฏฺ€าโก มหิทฺธิโก  
+<span class="LineNumber"> 009 </span>		จิตฺตมฺาย พุทฺธสฺส	ปิยทสฺสิสฺส สตฺถุโน ฯ  
+<span class="LineNumber"> 010 </span>		อสีติยา สหสฺเสหิ		ภิกฺขูหิ ปริวาริโต  
+<span class="LineNumber"> 011 </span>		วนนฺเต สุขมาสีนํ		อุเปสิ โลกนายกํ ฯ  
+<span class="LineNumber"> 012 </span>		ยาวตา วนสณฺฑมฺหิ	อธิวตฺถา จ เทวตา  
+<span class="LineNumber"> 013 </span>		พุทฺธสฺส จิตฺตมฺาย	สพฺเพ สนฺนิปตุํ ตทา ฯ  
+<span class="LineNumber"> 014 </span>		สมาคเตสุ ยกฺเขสุ		กุมฺภณฺเฑ สหรกฺขเส  
+<span class="LineNumber"> 015 </span>		ภิกฺขุสงฺเฆ จ สมฺปตฺเต	คาถา ปพฺยาหรี (๓) ชิโน ฯ  
+<span class="LineNumber"> 016 </span>		โย มํ สตฺตาหํ ปูเชสิ	อาวาสฺจ อกาสิ เม  
+<span class="LineNumber"> 017 </span>		ตมหํ กิตฺตยิสฺสามิ		สุณาถ (๔) มม ภาสโต ฯ  
+<span class="LineNumber"> 018 </span>		สุทุทฺทสํ สุนิปุณํ		คมฺภีรํ สุปฺปกาสิตํ  
+<span class="LineNumber"> 019 </span>		าเณน กิตฺตยิสฺสามิ	สุณาถ (๔) มม ภาสโต ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. สตฺต รตฺตินฺทิเว ฯ  ๒. สฺยา. ทิสา ฯ  ๓. สฺยา. คาถา 
+<span class="LineNumber"> 021 </span># สพฺยาหรี ฯ  สี. คาถาโย พฺยาหรี ฯ  ๔. สี. สุโณถ ฯ 

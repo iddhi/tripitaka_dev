@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                          <H2>วรรคที่  ๔</H2>
+
+<span class="LineNumber"> 002 </span>             <H1>ว่าด้วยภิกษุผู้มีตำแหน่งเลิส ๑๒ ท่าน</H1> 
+
+<span class="LineNumber"> 003 </span>         [๑๔๙]   ดูก่อนภิกษุทั้งหลาย  <B>พระอานนท์</B>  เลิศกว่าพวกภิกษุสาวกของ
+<span class="LineNumber"> 004 </span>เราผู้เป็นพหูสูต.
+<span class="LineNumber"> 005 </span>         <B>พระอานนท์</B>   เลิศกว่าพวกภิกษุสาวกของเราผู้มีสติ.
+<span class="LineNumber"> 006 </span>         <B>พระอานนท์</B>   เลิศกว่าพวกภิกษุสาวกของเราผู้มีสติ.
+<span class="LineNumber"> 007 </span>         <B>พระอานนท์</B>   เลิศกว่าพวกภิกษุสาวกของเราผู้มีความเพียร.
+<span class="LineNumber"> 008 </span>         <B>พระอานนท์</B>   เลิศกว่าพวกภิกษุสาวกของเราผู้เป็นปัฏฐาก.
+<span class="LineNumber"> 009 </span>         <B>พระอุรุเวลกัสสปะ</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้มีบริษัท
+<span class="LineNumber"> 010 </span>มาก.
+<span class="LineNumber"> 011 </span>         <B>พระกาฬุทายี</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้ทำสกุลให้
+<span class="LineNumber"> 012 </span>เลื่อมใส.
+<span class="LineNumber"> 013 </span>         <B>พระพักกุละ</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้มีอาพาธน้อย.
+<span class="LineNumber"> 014 </span>         <B>พระโสภิตะ</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้ระลึกชาติก่อนได้.
+<span class="LineNumber"> 015 </span>         <B>พระอุบาลี</B>        เลิศกว่าพวกภิกษุสาวกของเราผู้ทรงวินัย.
+<span class="LineNumber"> 016 </span>         <B>พระนันทกะ</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้กล่าวสอนนาง
+<span class="LineNumber"> 017 </span>ภิกษุณี.
+<span class="LineNumber"> 018 </span>         <B>พระนันทะ</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้คุ้มครองทวาร
+<span class="LineNumber"> 019 </span>ในอินทรีย์ทั้งหลาย.
+<span class="LineNumber"> 020 </span>         <B>พระมหากัปปินะ</B>     เลิศกว่าพวกภิกษุสาวกของเราผู้กล่าวสอน
+<span class="LineNumber"> 021 </span>ภิกษุ.

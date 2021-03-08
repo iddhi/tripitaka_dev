@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 233
+
+<span class="LineNumber"> 002 </span>			อาจิกฺข เม นารท สุทฺธิมคฺคํ  
+<span class="LineNumber"> 003 </span>			ยถา อหํ โน นิรยํ ปเตยฺยนฺติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  ภยสานุตปฺปามีติ  อตฺตนา  กตสฺส  ปาปสฺส  ภเยน  
+<span class="LineNumber"> 005 </span>อนุตปฺปามิ ฯ  มหา  จ  เม  ภยาติ  มหนฺตฺจ  เม นิรยภยํ 
+<span class="LineNumber"> 006 </span>อุปฺปนฺนํ ฯ  ทีปํโวเฆติ  ทีปํ  วิย  โอเฆ ฯ  อิทํ  วุตฺตํ  โหติ 
+<span class="LineNumber"> 007 </span>อาทิตฺเต  กาเย  วาริมชฺฌํ  วิย  ภินฺนนาวานํ  โอเฆ  วา  
+<span class="LineNumber"> 008 </span>อณฺณเว  วา  ปติฏฺ€ํ  อลภมานานํ  ทีปํ  วิย  อนฺธกาเร  
+<span class="LineNumber"> 009 </span>คตานํ  ปชฺโชโต  วิย [๑] ตฺวํ โน อิเส  สรณํ  ภว ฯ 
+<span class="LineNumber"> 010 </span>อตีตมทฺธา  อปราธิตํ  มยาติ  เอกํเสน  มยา  อตีตกมฺมํ 
+<span class="LineNumber"> 011 </span>อปราธิตํ [๒] กุสลํ อติกฺกมิตฺวา อกุสลเมว กตนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	อถสฺส  มหาสตฺโต  วิสุทฺธิมคฺคํ  อาจิกฺขนฺโต(๓)  สมฺมา  ปฏิปนฺเน  
+<span class="LineNumber"> 013 </span>โปราณกราชาโน อุทาหรณวเสน ทสฺเสนฺโต อาห  
+<span class="LineNumber"> 014 </span>	[๘๙๐]ยถา อหุ ธตรฏฺโ€		เวสฺสามิตฺโต จ อฏฺ€โก  
+<span class="LineNumber"> 015 </span>		ยมทตฺติ(๔)
+<span class="LineNumber"> 016 </span>			อุสินฺนโร(๕) จาปิ สิวี จ ราชา  
+<span class="LineNumber"> 017 </span>			ปริจาริกา(๖) สมณ พฺรหฺมณานํ  
+<span class="LineNumber"> 018 </span>		เอเต จฺเ จ ราชาโน  เย สกฺกวิสยํ (๗) คตา  
+<span class="LineNumber"> 019 </span>		อธมฺมํ ปริวชฺเชตฺวา	ธมฺมฺจร มหีปติ  
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร จสทฺโท อตฺถิ ฯ  ๒.ม. เอตฺถนฺตเร วิราธิตนฺติ
+<span class="LineNumber"> 021 </span># ทิสฺสติ ฯ  ๓. ม. อาจิกฺขิตุํ ฯ  ๔. ม. ยามตคฺคิ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. อุสินฺทโร ฯ  ๖. ม. ปริจารกา ฯ ๗. ม. สคฺควิสยํ ฯ

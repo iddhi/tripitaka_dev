@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า  	ศัพท์				คำอธิบาย</B>  
+<span class="LineNumber"> 002 </span>						อนุโมทนา.   (ตามศัพท์คือ   ลาด,  ปู,  ทาบ
+<span class="LineNumber"> 003 </span>						ไม่สะดึง).
+<span class="LineNumber"> 004 </span><B>๒๐๘  กฤช</B>				เครื่องประหารชนิดหนึ่ง  เป็นมีดคดไปคดมา
+<span class="LineNumber"> 005 </span>						ปลายแหลม  มีคม ๒  ข้าง,  (พกกฤช = เหน็บ
+<span class="LineNumber"> 006 </span>						กฤชไว้ตรงพก).
+<span class="LineNumber"> 007 </span><B>๔๐  กหาปณะ</B>				เป็นหลักมาตราเงินในอินเดียสมัยพุทธกาล  มี
+<span class="LineNumber"> 008 </span>						ราคา  ๔  บาท   (ครั้งนั้น)  เท่ากับ  ๑  กหาปณะ.
+<span class="LineNumber"> 009 </span><B>๕๗  กะเทย</B>				คนหรือสัตว์ที่ไม่ปรากฏว่าชายหรือหญิง.
+<span class="LineNumber"> 010 </span>						(เป็นชายแท้  ๆ  ก็มี  แต่มีหนังหุ้มปุริสภาวะ
+<span class="LineNumber"> 011 </span>						เสีย).
+<span class="LineNumber"> 012 </span><B>๑  กัณฑ์</B>					เรื่อง,  หมวด,  ตอน.  ส่วนหนึ่งของเรื่อง.
+<span class="LineNumber"> 013 </span><B>๑๐๒  กัปปิยะ</B> 				สมควร.
+<span class="LineNumber"> 014 </span><B>๒๑๕  กัมมขันธกะ</B>			หมวดแห่งพระวินัย  ว่าด้วยเรื่องการลงโทษ.
+<span class="LineNumber"> 015 </span>						(มาในคัมภีร์จุลวรรค).
+<span class="LineNumber"> 016 </span><B>๔๘  กามฉันท์</B>			ความพอใจในกามคุณ  ๕  มีรูปเป็นต้น.
+<span class="LineNumber"> 017 </span><B>๑๖  กามสุขัลลิกานุโยค</B>		การประกอบตนให้พัวพันด้วยความสุข
+<span class="LineNumber"> 018 </span>						ทางกามคุณ.
+<span class="LineNumber"> 019 </span><B>๒๙  กายสังสัคคะ</B>			ความเกี่ยวข้องทางกาย,   การเคล้าคลึง,  จับ,
+<span class="LineNumber"> 020 </span>						ลูบคลำด้วยกาย.

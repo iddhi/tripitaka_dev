@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>= เทวา,  ลบศัพท์หลัง  ที่มีรูปไม่เหมือนกัน เรียก  วิรูเปกเสส.  อตฺตา
+<span class="LineNumber"> 002 </span>จ อตฺตา จ = อตฺตา  ลบศัพท์หลัง  มีรูปเหมือนกัน  เรียก สรูเปกเสส.
+<span class="LineNumber"> 003 </span>สมาสชนิดนี้  ก็จัดเข้าในพวกทวันทวสมาส  อสมาหาร เหมือนกัน.
+<span class="LineNumber"> 004 </span>                                                                               [ อ. น .]
+<span class="LineNumber"> 005 </span>	ถ.  สมาหาร อสมาหาร  ท่านให้กำหนดอย่างไร ?  ใช้ใน 
+<span class="LineNumber"> 006 </span>สมาสไหนได้บ้าง  ? จงยกอุทาหรณ์มาเทียบกัน.
+<span class="LineNumber"> 007 </span>	ต. ท่านกำหนดดังนี้  สมาสที่ท่านรวมนามศัพท์  มีเนื้อความ
+<span class="LineNumber"> 008 </span>เป็นพหุวจนะ  ทำให้เป็นเอกวจนะ  นปุงสกลิงค์  ชื่อ  สมาหาร,  ที่ไม่ทำ
+<span class="LineNumber"> 009 </span>อย่างนั้น ชื่อ  อสมาหาร  ใช้ในทิคุสมาสและทวันทวสมาส  อุทา-
+<span class="LineNumber"> 010 </span>หรณ์ว่า  ตโย+โลกา = ติโลกํ  สมาหารทิคุ  เสมโถ จ วิปสฺสนา  จ
+<span class="LineNumber"> 011 </span>= สมถวิปสฺสนํ  สมาหารทวันทวะ,  จตสฺโส+ทิสา=จตุทฺทิสา  อสมา-
+<span class="LineNumber"> 012 </span>หารทิคุ  สารีปุตฺโต จ  โมคฺคลฺลาโน จ = สารีปุตฺตโมคฺคลฺลานา
+<span class="LineNumber"> 013 </span>อสมาหารทวันทวะ. [ ๒๔๖๖]
+<span class="LineNumber"> 014 </span>                                [ อัพยยีภาวสมาส ]
+<span class="LineNumber"> 015 </span>	ถ.  สมาสที่เรียกว่า   อัพยยีภาวสมาส  นั้น  มีอะไรเป็นเครื่อง
+<span class="LineNumber"> 016 </span>กำหนด ?
+<span class="LineNumber"> 017 </span>	ต.  มีอุปสัคและนิบาตนำหน้า  เป็นเครื่องกำหนดให้ทราบว่า
+<span class="LineNumber"> 018 </span>เป็นอัพยยีภาวสมาส  เช่น  อุปนครํ  ใกล้เมือง, ปฏิวาตํ  ทวนลม,
+<span class="LineNumber"> 019 </span>ยาวชีวํ  เพียงไรแห่งชีวิต  เป็นต้น.  [ อ. น. ]
+<span class="LineNumber"> 020 </span>	ถ.  อัพยยีภาวสมาส  แบ่งเป็นเท่าไร ? และ มีข้อ
+<span class="LineNumber"> 021 </span>บังคับอย่างไรบ้าง ?
+
+

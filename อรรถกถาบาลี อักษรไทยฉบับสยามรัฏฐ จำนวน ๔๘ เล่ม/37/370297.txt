@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 297
+
+<span class="LineNumber"> 002 </span>สาเยว  โน อุภินฺนํ กถา โหตุ ตํ ปมาณํ โหตูติ อตฺโถ ฯ  
+<span class="LineNumber"> 003 </span>	ราชา อาห  
+<span class="LineNumber"> 004 </span>	[๙๔๓]อทฺธา หิ สจฺจํ ภณสิ	น จ มาณว สาหสํ
+<span class="LineNumber"> 005 </span>		ตเมว คนฺตฺวา ปุจฺฉาม	เตน ตุสามุโภ(๑) ชนาติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  น  จ  มาณว  สาหสนฺติ  ปสยฺห  สาหสิกํ  วจนํ  น
+<span class="LineNumber"> 007 </span>จ  [๒] ภณสิ ฯ  
+<span class="LineNumber"> 008 </span>	เอวฺจ  ปน  วตฺวา  ราชา  เอกสตราชาโน  ปุณฺณกฺจ  
+<span class="LineNumber"> 009 </span>คเหตฺวา  ตุฏฺ€มานโส  เวเคน  คนฺตฺวา (๓) ธมฺมสภายํ  ปาวิสิ (๔) ฯ 
+<span class="LineNumber"> 010 </span>ปณฺฑิโต(๕)  อาสนา  โอรุยฺห  ราชานํ  วนฺทิตฺวา  เอกมนฺตํ  
+<span class="LineNumber"> 011 </span>อฏฺ€าสิ ฯ อถ ปุณฺณโก  มหาสตฺตํ  อามนฺเตตฺวา  ปณฺฑิต  ตฺวํ 
+<span class="LineNumber"> 012 </span>ธมฺเม  €ิโต  ชีวิตเหตุปิ มุสาวาทํ  น  ภณสีติ  กิตฺติสทฺโท  เต 
+<span class="LineNumber"> 013 </span>สกลโลเก  ปากโฏ(๖)  อหํ  ปน  เต  อชฺช ธมฺเม €ิตภาวํ ชานิสฺสามีติ 
+<span class="LineNumber"> 014 </span>วตฺวา คาถมาห  
+<span class="LineNumber"> 015 </span>	[๙๔๔]สจฺจํ นุ เทวา วิทหู กุรูนํ  
+<span class="LineNumber"> 016 </span>		ธมฺเม €ิตํ วิธุรนฺนามมจฺจํ  
+<span class="LineNumber"> 017 </span>		ทาโสสิ รฺโ อถ วาสิ าติ  
+<span class="LineNumber"> 018 </span>		วิธุโรติ สํขฺยา กตโมสิ โลเกติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  สจฺจํ  นุ  เทวา  วิทหู  กุรูนํ  ธมฺเม  €ิตํ  วิธุรนฺนาม  
+<span class="LineNumber"> 020 </span># ๑. ม. ตุสฺสามุโภ ฯ  ๒. ม. เอตฺถนฺตเร มยฺหนฺติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. อยํ ปาโ€ นตฺถิ ฯ ๔. ม. ธมฺมสภํ อคมาสิ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. ปณฺฑิโตปิ ฯ  ๖. ม. ผุฏฺโ€ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                   <H3>อรรถกถาสูตรที่  ๑๑</H3 
+
+<span class="LineNumber"> 002 </span>         ใน<B>สูตรที่  ๑๑</B>  (ข้อ ๓๑๙)  มีวินิจฉัยดังต่อไปนี้. 
+<span class="LineNumber"> 003 </span>         บทว่า  <B>สปฺปีติการมฺมณํ</B>  ได้แก่  สุขที่เกิดขึ้นแก่ผู้พิจารณาฌาน
+<span class="LineNumber"> 004 </span>ทั้งสอง  ที่มีปีติเป็นอารมณ์  แม้ในฌาน  ที่ไม่มีปีติเป็นอารมณ์  ก็นัย
+<span class="LineNumber"> 005 </span>นี้แหละ.
+<span class="LineNumber"> 006 </span>                                                                   จบอรรถกถาสูตรที่  ๑๑
+
+<span class="LineNumber"> 007 </span>                            <H3>อรรถกถาสูตรที่ ๑๒</H3>
+
+<span class="LineNumber"> 008 </span>         ใน<B>สูตรที่  ๑๒</B>  (ข้อ  ๓๒๐)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 009 </span>                                         จบอรรถกถาสูตรที่  ๑๒
+
+<span class="LineNumber"> 010 </span>                            <H3>อรรถกถาสูตรที่  ๑๓</H3>
+
+<span class="LineNumber"> 011 </span>         ใน<B>สูตรที่  ๑๓</B>  (ข้อ  ๓๒๑)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 012 </span>         บทว่า   <B>รูปารมฺมณํ</B>  ได้แก่  สุขที่เกิดขึ้นเพราะปรารภรูปอย่างใด
+<span class="LineNumber"> 013 </span>อย่างหนึ่ง  อันเป็นอารมณ์ของรูปาวรจตุตถฌาน.  บทว่า   <B>อรูปารมฺมณํ</B>
+<span class="LineNumber"> 014 </span>ได้แก่   สุขที่เกิดขึ้นเพราะปรารภอรูปอย่างใดอย่างหนึ่ง    อันเป็นอารมณ์
+<span class="LineNumber"> 015 </span>ของอรูปาวจรฌาน.
+<span class="LineNumber"> 016 </span>                                           จบอรรถกถาสูตรที่  ๑๓
+<span class="LineNumber"> 017 </span>                              <I>จบสุขวรรคที่   ๒</I>

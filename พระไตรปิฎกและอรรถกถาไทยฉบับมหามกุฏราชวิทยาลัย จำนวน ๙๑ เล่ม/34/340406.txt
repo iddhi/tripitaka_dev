@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>อานันทวรรคที่  ๓</H1>
+
+<span class="LineNumber"> 002 </span>                                            <H1>๑.  ฉันนสูตร</H1>
+
+<span class="LineNumber"> 003 </span>                                      <H1>ว่าด้วยโทษแห่งกุศลมูล</H1> 
+
+<span class="LineNumber"> 004 </span>         [๕๑๑] ครั้งนั้น   ปริพาชกชื่อ<B>ฉันนะ</B> เข้าไปหาท่าน<B>พระอานนท์</B> ฯลฯ
+<span class="LineNumber"> 005 </span>กล่าวกะท่านพระอานนท์ว่า  อาวุโสอานนท์   แม้พวกท่านก็บัญญัติการละราคะ
+<span class="LineNumber"> 006 </span>โทสะ  โมหะหรือ.
+<span class="LineNumber"> 007 </span>         ท่านพระอานนท์ตอบว่า อาวุโส พวกข้าพเจ้านะสิ บัญญัติการละราคะ
+<span class="LineNumber"> 008 </span>โทสะ  โมหะ.
+<span class="LineNumber"> 009 </span>         ฉ.  ก็พวกท่านเห็นโทษในราคะ   โทสะ    โมหะอย่างไร  จึงบัญญัติ        
+<span class="LineNumber"> 010 </span>การละราคะ  โทสะ  โมหะ.
+<span class="LineNumber"> 011 </span>         อา.  คนที่เกิดราคะ    โทสะ    โมหะแล้ว    อันราคะ   โทสะ  โมหะ
+<span class="LineNumber"> 012 </span>ครอบงำแล้ว     มีจิตอันราคะ    โทสะ    โมหะจับเสียรอบแล้ว    ย่อมคิดเพื่อ
+<span class="LineNumber"> 013 </span>ทำตนให้ลำบากบ้าง     เพื่อทำผู้อื่นให้ลำบากบ้าง      เพื่อทำให้ลำบากด้วยกัน
+<span class="LineNumber"> 014 </span>ทั้งสองฝ่ายบ้าง  ย่อมรู้สึกทุกข์โทมนัสในใจบ้าง  ครั้นละราคะ   โทสะ  โมหะ
+<span class="LineNumber"> 015 </span>เสียได้แล้ว      เขาย่อมไม่คิดเพื่อทำตนให้ลำบาก  ฯลฯ    ไม่รู้สึกทุกข์โทมนัส
+<span class="LineNumber"> 016 </span>ในใจ.
+<span class="LineNumber"> 017 </span>         คนที่เกิดราคะ     โทสะ     โมหะแล้ว     ย่อมประพฤติทุจริตทางกาย
+<span class="LineNumber"> 018 </span>ทางวาจา  ทางใจ  ครั้นละราคะ  โทสะ  โมหะเสียได้แล้ว   เขาย่อมไม่ประพฤติ
+<span class="LineNumber"> 019 </span>ทุจริตทางกาย   ทางวาจา   ทางใจเลย.
+<span class='footnote'>*  เป็นทีว่าพวกเขาบัญญัติอยู่แล้วเหมือนกัน  หรือบัญญัติมาก่อน</span>

@@ -1,0 +1,31 @@
+﻿<span class="LineNumber"> 001 </span>                            <H2>๓๕.  วิปัตติทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>สีลวิปตฺติ จ</B>                              ความวิบัติแห่งศีล
+<span class="LineNumber"> 003 </span><B>ทิฏฺ€ิวิปตฺติ จ</B>                           ความวิบัติแห่งทิฏฐิ
+
+<span class="LineNumber"> 004 </span>                           <H2>๓๖.  สัมปทาทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>สีลสมฺปทา จ</B>                            ความสมบูรณ์แห่งศีล
+<span class="LineNumber"> 006 </span><B>ทิฏฺ€ิสมฺปทา จ</B>                         ความสมบูรณ์แห่งทิฏฐิ
+
+<span class="LineNumber"> 007 </span>                           <H2>๓๗.  วิสุทธิทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>สีลวิสุทฺธิ จ</B>                               ความหมดจดแห่งศีล
+<span class="LineNumber"> 009 </span><B>ทิฏฺ€ิวิสุทฺธิ จ</B>                            ความหมดจดแห่งทิฏฐิ
+ 
+<span class="LineNumber"> 010 </span>                       <H2>๓๘.  ทิฏฐิวิสุทธิทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>ทิฏฺ€ิวิสุทธิ โข ปน</B>                     ความหมดจดแห่งทิฏฐิ
+<span class="LineNumber"> 012 </span><B>ยถาทิฏฺ€ิสฺส จ ปธานํ</B>                 ความเพียรแห่งบุคคลผู้มีทิฏฐิอันหมดจด
+
+<span class="LineNumber"> 013 </span>                          <H2>๓๙.  สังเวคทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>สํเวโค จ สํเวชนิเยสุ €าเนสุ</B>        ความสลดใจในฐานะเป็นที่ตั้งแห่งความ
+<span class="LineNumber"> 015 </span>                                                   สลดใจ
+<span class="LineNumber"> 016 </span><B>สํวิคฺคสฺส จ โยนิโส ปธานํ</B>          ความพยายามโดยแยบคายของบุคคลผู้มี
+<span class="LineNumber"> 017 </span>                                                   ความสลดใจ
+
+<span class="LineNumber"> 018 </span>                      <H2>๔๐.  อสันตุฏฐตาทุกะ</H2>
+
+<span class="LineNumber"> 019 </span><B>อสนฺตุฏฺ€ตา จ กุสเลสุ ธมฺเมสุ</B>     ความไม่รู้จักอิ่มในกุศลธรรม
+<span class="LineNumber"> 020 </span><B>อปฺปฏิวานิตา จ ปธานสฺมึ</B>           ความไม่ท้อถอยในความพยายาม

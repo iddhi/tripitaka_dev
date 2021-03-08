@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H2>สังสัฏฐวาระ</H2>
+<span class="LineNumber"> 002 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                      <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๘๓๘] ๑.  <B>อุปาทานสัมปยุตตธรรม     เจือกับอุปาทานสัมป-
+<span class="LineNumber"> 005 </span>ยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ฯลฯ    เจือกับขันธ์   ๑   ที่เป็นอุปาทานสัมปยุตตธรรม  ฯลฯ  มี
+<span class="LineNumber"> 007 </span>๓ วาระ.   (วาระที่ ๑-๒-๓)
+<span class="LineNumber"> 008 </span>                     ๔.  <B>อุปาทานวิปปยุตตธรรม เจือกับอุปาทานวิปปยุตต-
+<span class="LineNumber"> 009 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ  อรูปภูมิ   เหมือนกับปฏิจจวาระ.
+<span class="LineNumber"> 011 </span>                     ๕.  <B>อุปาทานสัมปยุตตธรรม     เจือกับอุปาทานวิปป-
+<span class="LineNumber"> 012 </span>ยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  อรูปภูมิ  เหมือนกับปฏิจจวาระ.
+<span class="LineNumber"> 014 </span>                     ๖.  <B>อุปาทานสัมปยุตตธรรม     เจือกับอุปาทานสัมป-
+<span class="LineNumber"> 015 </span>ยุตตธรรม  และอุปาทานวิปปยุตตธรรม  เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ  อรูปภูมิ  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 017 </span>                            <H2>การนับจํานวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>         [๔๓๙]  ในเหตุปัจจัย มี ๖ วาระ  ในอารัมมณปัจจัย  มี ๖ วาระ  ใน
+<span class="LineNumber"> 019 </span>อธิปติปัจจัย มี ๖ วาระ  ในปัจจัยทั้งปวง มี ๖ วาระ  ในวิปากปัจจัย มี ๑ วาระ
+<span class="LineNumber"> 020 </span>ฯลฯ   ในอวิคตปัจจัย มี ๖ วาระ.

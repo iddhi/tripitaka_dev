@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๒๕๑
+
+<span class="LineNumber"> 002 </span>			สาวกสุตฺตวณฺณนา            
+<span class="LineNumber"> 003 </span>	สตฺตเม  อนุสฺสเรยฺยุนฺติ  เอเกน  กปฺปสตสหสฺเส  อนุสฺสริเต 
+<span class="LineNumber"> 004 </span>อปโร  ตสฺส  €ิตฏฺ€านโต  อฺํ  สตสหสฺสํ  อฺโปิ  อฺนฺติ
+<span class="LineNumber"> 005 </span>เอวํ  จตฺตาโรปิ จตฺตาริ สตสหสฺสานิ อนุสฺสเรยฺยย ฯ 
+<span class="LineNumber"> 006 </span>				สตฺตมํ ฯ              
+
+<span class="LineNumber"> 007 </span>				คงฺคาสุตฺตาทิวณฺณนา          
+<span class="LineNumber"> 008 </span>	อฏฺ€เม  ยา  เอตสฺมึ  อนฺตเร  วาลิกาติ  ยา  เอตสฺมึ   
+<span class="LineNumber"> 009 </span>อายามโต ปฺจโยชนสติเก(๑) อนฺตเร วาลิกา ฯ 
+<span class="LineNumber"> 010 </span>				อฏฺ€มํ ฯ
+
+<span class="LineNumber"> 011 </span>	นวเม วตฺตพฺพํ นตฺถิ ฯ 
+<span class="LineNumber"> 012 </span>				อฏฺ€มนวมานิ ฯ   
+
+<span class="LineNumber"> 013 </span>				ปุคฺคลสุตฺตวณฺณนา           
+<span class="LineNumber"> 014 </span>	ทสเม  อฏฺ€ิกงฺกโลติอาทีนิ  ตีณิปิ  ราสิเววจนาเนว ฯ 
+<span class="LineNumber"> 015 </span>อิเมสํ  ปน  สตฺตานํ  สอฏฺ€ิกาลโต  อนฏฺ€ิกาโลว  พหุตโร ฯ  
+<span class="LineNumber"> 016 </span>คณฺฑุปฺปาทกาทิปาณภูตานํ  หิ  เอเตสํ  อฏฺ€ิเมว  นตฺถิ ฯ
+<span class="LineNumber"> 017 </span>มจฺฉกจฺฉปาทิภูตานํ  ปน  อฏฺ€ิเมว  พหุตรํ  ตสฺมา อนฏฺ€ิกาลฺจ 
+<span class="LineNumber"> 018 </span># ๑. ม. ปฺจโยชนสติเก ฯ

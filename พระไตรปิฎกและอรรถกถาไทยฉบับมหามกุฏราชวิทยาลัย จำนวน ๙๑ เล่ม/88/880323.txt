@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>โลกุตตรธรรม  ฯลฯ</B>  มี ๓ วาระ   (วาระที่  ๒-๔)
+<span class="LineNumber"> 002 </span>                                           <H1>๑๘.  มัคคปัจจัย</H1>
+<span class="LineNumber"> 003 </span>                       ๑.  <B>โลกิยธรรม  เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 004 </span>ของมัคคปัจจัย</B> 
+<span class="LineNumber"> 005 </span>           ในโลกิยธรรมเป็นปัจจัย  มี  ๑ วาระ.
+<span class="LineNumber"> 006 </span>           ในโลกุตตรธรรมเป็นปัจจัย  มี ๓ วาระ  (วาระที่ ๒-๔)
+
+<span class="LineNumber"> 007 </span>                                   <H1>๑๙.  สัมปยุตตปัจจัย</H1>
+<span class="LineNumber"> 008 </span>                       ๑.  <B>โลกิยธรรม  เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 009 </span>ของสัมปยุตตปัจจัย</B>  มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>                       ๒.  <B>โลกุตตรธรรม  เป็นปัจจัย</B>  ฯลฯ  มี ๑ วาระ.
+
+<span class="LineNumber"> 011 </span>                                    <H1>๒๐.  วิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           [๓๑๖] ๑.  <B>โลกิยธรรม  เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 013 </span>ของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 014 </span>           มี  ๓  อย่าง   คือที่เป็น  <B>สหชาตะ ปุเรชาตะ</B>   และ  <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 015 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 016 </span>           ขันธ์ทั้งหลายที่เป็นโลกิยธรรม  เป็นปัจจัยแก่จิตตสมุฏฐานรูปทั้งหลาย
+<span class="LineNumber"> 017 </span>ด้วยอำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 018 </span>           ในปฏิสนธิขณะ ฯลฯ ขันธ์ทั้งหลายเป็นปัจจัยแก่หทยวัตถุ  ด้วยอำนาจ
+<span class="LineNumber"> 019 </span>ของวิปปยุตตปัจจัย.

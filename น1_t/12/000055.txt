@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>ใช้ปัญญาความรู้ขจัดอาสวะที่ดอดหมักหมมอยู่ภายในจิตให้สิ้นไป   เหมือน 
+<span class="LineNumber"> 002 </span>ตำรวจปราบปรามกำจัดโจรที่ซุ่มอยู่ในป่าในประเทศให้สิ้นซากไปฉะนั้น.
+<span class="LineNumber"> 003 </span>                                 คำถามสอบความเข้าใจ 
+<span class="LineNumber"> 004 </span>	๑.   อินทรียสังวร    แปลว่าอะไร  ?   เฉพาะคำว่า  อินทรีย์   แปลว่า
+<span class="LineNumber"> 005 </span>               อย่างไร  ?
+<span class="LineNumber"> 006 </span>	๒.  อินทรีย์  ๖  คืออะไร  ?   จะคุ้มครองรักษาอินทรีย์  ๖    ด้วย
+<span class="LineNumber"> 007 </span>              อะไร  ?
+<span class="LineNumber"> 008 </span>	๓.   การสำรวมอินทรีย์   มีประโยชน์อย่างไร  ?
+<span class="LineNumber"> 009 </span>	๔.   โภชเน   มัตตัญญุตา  แปลว่าอะไร  ?  หมายความว่าอย่างไร  ?
+<span class="LineNumber"> 010 </span>	๕.   ชาคริยานุโยค   แปลว่ากระโร  ?   หมายความว่าอย่างไร  ?
+<span class="LineNumber"> 011 </span>	๖.    ผู้ปฏิบัติเช่นไร   ได้ชื่อว่าประกอบด้วยชาคริยานุโยค  ?
+<span class="LineNumber"> 012 </span>	๗.   ธรรมอะไรกี่อย่าง   จึงได้ชื่อว่าอปัณณกปฏิปทา  ?
+<span class="LineNumber"> 013 </span>	๘.   บุคคลปฏิบัติอย่างไร   จึงได้ชื่อว่าปฏิบัติไม่ผิด  ?
+<span class="LineNumber"> 014 </span>	๙.   โปรดอธิบายการสำรวมอินทรีย์   ให้เห็นว่าเหมือนการปิดประตู
+<span class="LineNumber"> 015 </span>                เมือง  ?
+<span class="LineNumber"> 016 </span>	๑๐.  ความรู้จักประมาณในการกินอาหารมีประโยชน์อย่างไร  ?
+<span class="LineNumber"> 017 </span>	๑๑.  การนอนอย่างไร   จึงได้ชื่อว่าปฏิบัติผิดและปฏิบัติไม่ผิด  ?
+<span class="LineNumber"> 018 </span>	๑๒.  ปฏิบัติอย่างไร  จึงขจัดอาสวะให้สิ้นไป   เหมือนตำรวจปราบ
+<span class="LineNumber"> 019 </span>                  โจรในป่าให้สิ้นไป  ?
+<span class="LineNumber"> 020 </span>	๑๓.  จะประพฤติตนให้ถูก   ควรประพฤติในทางเช่นไร ?
+						  	 

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>ปัจจยวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                 <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 004 </span>                                  <H2>อัพยากตบท</H2>
+<span class="LineNumber"> 005 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อัพยากตะ    ที่ไม่ใช่อัปปัจจยธรรม
+<span class="LineNumber"> 006 </span>อาศัยธรรมที่เป็นอัพยากตะ  ที่เป็นสัปปัจจยธรรม  เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 007 </span>ปัจจัย</B>  มี  ๑ วาระ
+<span class="LineNumber"> 008 </span>           <B>สังขตทุกะ</B>  เหมือนกับ <B>สัปปัจจยะ</B>
+<span class="LineNumber"> 009 </span>             <I>สัปปัจจยทุกกุสลติกนสัปปัจจยทุกนกุสลติกะ  จบ</I>
+
+<span class="LineNumber"> 010 </span>                 <H1>สนิทัสสนทุกกุสลติกนสนิทัสสนทุกนกุสลติกะ</H1>
+<span class="LineNumber"> 011 </span>                    <H2>(๙.  สนิทัสสนทุกะ  ๑. กุสลติกะ )</H2>
+<span class="LineNumber"> 012 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 013 </span>                                           <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>                                         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                             <H2>กุศลบท</H2>
+<span class="LineNumber"> 016 </span>           [๒๗๐]  ๑.  <B>ธรรมที่ไม่ใช่กุศล ที่ไม่ใช่อนิทัสสนธรรม  อาศัย
+<span class="LineNumber"> 017 </span>ธรรมที่เป็นกุศล   ที่เป็นอนิทัสสนธรรม   เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>มี ๓ วาระ.
+<span class="LineNumber"> 019 </span>           อกุศลบทก็แจกเหมือนกุศลบท

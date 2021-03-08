@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>       		       <H1>๔.  อโยนิโสสูตร*</H1>
+
+<span class="LineNumber"> 002 </span>            <h2>มนสิการไม่แยบคาย  นิวรณ์  ๕   จึงเกิด</h2>
+<span class="LineNumber"> 003 </span>       	[๔๘๒]  ดูก่อนภิกษุทั้งหลาย  เมื่อภิกษุมนสิการโดยไม่แยบคาย
+<span class="LineNumber"> 004 </span>กามฉันท์ที่ยังไม่เกิด  ย่อมเกิดขึ้น  และที่เกิดแล้ว  ย่อมเป็นไปเพื่อความเจริญ
+<span class="LineNumber"> 005 </span>ไพบูลย์ยิ่งขึ้น.
+<span class="LineNumber"> 006 </span>       	[๔๘๓]  พยาบาทที่ยังไม่เกิด     ย่อมเกิดขึ้น    และที่เกิดแล้ว    ย่อม
+<span class="LineNumber"> 007 </span>เป็นไปเพื่อความเจริญไพบูลย์ยิ่งขึ้น. 
+<span class="LineNumber"> 008 </span>       	[๔๘๔]   ถีนมิทธะที่ยังไม่เกิด    ย่อมเกิดขึ้น    และที่เกิดแล้ว    ย่อม
+<span class="LineNumber"> 009 </span>เป็นไปเพื่อความเจริญไพบูลย์ยิ่งขึ้น.
+<span class="LineNumber"> 010 </span>        [๔๘๕]   อุทธัจจกุกกุจจะที่ยังไม่เกิด    ย่อมเกิดขึ้น    และที่เกิดแล้ว
+<span class="LineNumber"> 011 </span>ย่อมเป็นไปเพื่อความเจริญไพบูลย์ยิงขึ้น.
+<span class="LineNumber"> 012 </span>        [๔๘๖]   วิจิกิจฉาที่ยังไม่เกิด    ย่อมเกิดขึ้น    และที่เกิดแล้ว     ย่อม
+<span class="LineNumber"> 013 </span>เป็นไปเพื่อความเจริญไพบูลย์ยิ่งขึ้น.
+<span class="LineNumber"> 014 </span>     		                  <I>จบอโยนิโสสูตรที่  ๔</I>
+<span class='footnote'>*  สูตรที่  ๔  ๕  ๖  ไม่มีอรรถกถาแก้.</span>

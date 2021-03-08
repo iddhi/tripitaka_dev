@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>กาโส</B>			ไอ 
+<span class="LineNumber"> 002 </span><B>สาโส</B>			หืด
+<span class="LineNumber"> 003 </span><B>ปินาโส</B>		หวัด
+<span class="LineNumber"> 004 </span><B>ฑโห</B>			ไข้พิษ
+<span class="LineNumber"> 005 </span><B>ชโร</B>			ไข้เชื่อม
+<span class="LineNumber"> 006 </span><B>กุจฺฉิโรโค</B>		โรคในท้อง
+<span class="LineNumber"> 007 </span><B>มุจฺแา</B>			ลมจับ [หรือสลบ หรือสวิงสวาย]
+<span class="LineNumber"> 008 </span><B>ปกฺขนฺทิกา</B>		โรคบิด [หรือ อุจจารธาตุ]
+<span class="LineNumber"> 009 </span><B>สุลา</B>			จุกเสียด [หรือตะคริว]
+<span class="LineNumber"> 010 </span><B>วิสูจิกา</B>		โรคลงราก
+<span class="LineNumber"> 011 </span><B>กุฏฺ€ํ</B>			โรคเรื้อน
+<span class="LineNumber"> 012 </span><B>กิลาโฑ</B>		ฝี
+<span class="LineNumber"> 013 </span><B>กิลาโส</B>		โรคกลาก
+<span class="LineNumber"> 014 </span><B>โสโส</B>			มองคร่อ
+<span class="LineNumber"> 015 </span><B>อปมาโร</B>		ลมบ้าหมู
+<span class="LineNumber"> 016 </span><B>ทณฺฑุ</B>			หิดเปื่อย
+<span class="LineNumber"> 017 </span><B>กณฺฑุ</B>			หิดด้าน
+<span class="LineNumber"> 018 </span><B>กจฺฉุ</B>			คุดทะราดหูด
+<span class="LineNumber"> 019 </span><B>รขสา</B>			ละลอก
+<span class="LineNumber"> 020 </span><B>วิตจฺฉิกา</B>		คุดทะราดบอน
+<span class="LineNumber"> 021 </span><B>โลหิตํ</B>			อาเจียนโลหิต
+

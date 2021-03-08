@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>จักขายตนมูละ  ธัมมายตนมูลี :-</H2> 
+<span class="LineNumber"> 002 </span>         [๓๐๐]  จักขายตนะกำลังเกิดแก่บุคคลใด,   ธัมมายตนะก็กำลัง 
+<span class="LineNumber"> 003 </span>เกิดเป็นบุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   ธัมมายตนะกำลังเกิดแก่บุคคลใด,   จักขายตนะก็กำลัง
+<span class="LineNumber"> 006 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         บุคคลที่จักขุเกิดไม่ได้เหล่านั้นกำลังเกิด      ธัมมายตนะกำลังเกิด
+<span class="LineNumber"> 008 </span>แก่บุคลเหล่านั้น        แต่จักขายตนะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น,
+<span class="LineNumber"> 009 </span>บุคคลที่มีจักขุเกิดได้เหล่านั้นกำลังเกิด   ธัมมายตนะกำลังเกิด     และจัก-
+<span class="LineNumber"> 010 </span>ขายตนะก็กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 011 </span>                          <I>จบ  จักขายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 012 </span>                                     <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 013 </span>                                       <H1>มานายตนมูล</H1>
+<span class="LineNumber"> 014 </span><H2>ฆานายตนมูละ   รูปายตนมูลี :-</H2>
+<span class="LineNumber"> 015 </span>         [๓๐๑]  ฆานายตนะกำลังเกิดแก่บุคคลใด,     รูปายตนะก็กำลัง
+<span class="LineNumber"> 016 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ใช่.

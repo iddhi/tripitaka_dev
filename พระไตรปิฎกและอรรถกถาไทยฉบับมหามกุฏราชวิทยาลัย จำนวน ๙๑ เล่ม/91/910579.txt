@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                 <H1>สรณทุกสวิตักกติกนสรณทุกนสวิตักกติกะ</H1>   
+<span class="LineNumber"> 002 </span>                <H2>(๑๐๐. สรณทุกะ  ๖.  สวิตักกติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                  <H2>สวิตักกสวิจารบท</H2>	
+<span class="LineNumber"> 007 </span>           [๓๒๓] ๑.  <B>ธรรมที่ไม่ใช่สวิตักกสวิจารธรรม   ที่ไม่ใช่สรณ- 
+<span class="LineNumber"> 008 </span>ธรรม  อาศัยธรรมที่เป็นสวิตักกสวิจารธรรม  ที่เป็นสรณธรรม  เกิด
+<span class="LineNumber"> 009 </span>ขึ้น   เพราะเหตุปัจจัย</B>   มี  ๓  วาระ.
+<span class="LineNumber"> 010 </span>                       ๒.  <B>ธรรมที่ไม่ใช่สวิตักกสวิจารธรรม    ที่ไม่ใช่อรณ-
+<span class="LineNumber"> 011 </span>ธรรม  อาศัยธรรมที่เป็นสวิตักกสวิจารธรรม  ที่เป็นอรณธรรม  เกิด
+<span class="LineNumber"> 012 </span>ขึ้น  เพราะเหตุปัจจัย</B>  มี ๑ วาระ.
+
+<span class="LineNumber"> 013 </span>                            <H2>อวิตักกวิจารมัตตบท</H2>
+<span class="LineNumber"> 014 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อวิตักกวิจารมัตตธรรม      ที่ไม่ใช่
+<span class="LineNumber"> 015 </span>สรณธรรม อาศัยธรรมที่เป็นอวิตักกวิจารมัตตธรรม  ที่เป็นสรณธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี  ๔ วาระ.
+
+<span class="LineNumber"> 017 </span>                                   <H2>อวิตักกอวิจารบท</H2>
+<span class="LineNumber"> 018 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อวิตักกอวิจารธรรม   ที่ไม่ใช่สรณ-
+<span class="LineNumber"> 019 </span>ธรรม   อาศัยธรรมที่เป็นอวิตักกอวิจารธรรม  ที่เป็นอรณธรรม   เกิด
+<span class="LineNumber"> 020 </span>ขึ้น  เพราะเหตุปัจจัย</B>   มี  ๑  วาระ.
+<span class="LineNumber"> 021 </span>                <I>สรณทุกสวิตักกติกนสรณทุกนสวิตักกติกะ  จบ</I>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๒.  รู้ธรรมานุโลม
+<span class="LineNumber"> 002 </span>           ๓.  รู้วินัย  
+<span class="LineNumber"> 003 </span>           ๔.   รู้วินยานุโลม
+<span class="LineNumber"> 004 </span>           ๕.  ฉลาดในคำต้นและคำหลัง
+<span class="LineNumber"> 005 </span>           ดูก่อนอุบาลี    ภิกษุประกอบด้วยองค์  ๕  นี้แล    ถึงความนับว่าเป็นผู้
+<span class="LineNumber"> 006 </span>ฉลาดแท้
+
+<span class="LineNumber"> 007 </span>                          <H1>องค์ของภิกษุผู้โง่แท้อีกนัยหนึ่ง</H1> 
+<span class="LineNumber"> 008 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  แม้อื่นอีก ถึงความนับว่าเป็น
+<span class="LineNumber"> 009 </span>ผู้โง่แท้  องค์ ๕ อะไรบ้าง   คือ :-
+<span class="LineNumber"> 010 </span>           ๑.  ไม่รู้วัตถุ
+<span class="LineNumber"> 011 </span>           ๒.  ไม่รู้นิทาน
+<span class="LineNumber"> 012 </span>           ๓.  ไม่รู้บัญญัติ
+<span class="LineNumber"> 013 </span>           ๔.  ไม่รู้บทอันตกหล่นภายหลัง
+<span class="LineNumber"> 014 </span>           ๕.  ไม่รู้ทางถ้อยคำอันเข้าสนธิกันได้
+<span class="LineNumber"> 015 </span>           ดูก่อนอุบาลี    ภิกษุประกอบด้วยองค์ ๕  นี้แล    ถึงความนับว่าเป็นผู้
+<span class="LineNumber"> 016 </span>โง่แท้
+
+<span class="LineNumber"> 017 </span>                                  <H1>องค์ของภิกษุผู้ฉลาดแท้</H1> 
+<span class="LineNumber"> 018 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์ ๕  ถึงความนับว่าเป็นผู้ฉลาดแท้
+<span class="LineNumber"> 019 </span>องค์ ๕  อะไรบ้าง  คือ :-

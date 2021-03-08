@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                <H2>๑๕.  อาหารปัจจัย</H2> 
+<span class="LineNumber"> 002 </span>           [๔๗๔] ๑.  <B>สัญโญชนสัมปยุตตธรรม เป็นปัจจัยแก่สัญโญชน-
+<span class="LineNumber"> 003 </span>สัมปยุตตธรรม  ด้วยอำนาจของอาหารปัจจัย</B>  มี ๔ วาระ.
+
+<span class="LineNumber"> 004 </span>      <H2>๑๖.  อินทริยปัจจัย  ฯลฯ    ๑๙.  สัมปยุตตปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของอินทริยปัจจัย</B>   มี ๔ วาระ.
+<span class="LineNumber"> 006 </span>           <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของฌานปัจจัย</B>  มี ๔ วาระ.
+<span class="LineNumber"> 007 </span>           <B>ฯลฯ  เป็นปัจจัย   ด้วยอำนาจของมัคคปัจจัย</B>  มี ๔ วาระ.
+<span class="LineNumber"> 008 </span>           <B>ฯลฯ  เป็นปัจจัย  ด้วยอำนาจของสัมปยุตตปัจจัย</B>  มี ๖ วาระ.
+
+<span class="LineNumber"> 009 </span>                               <H2>๒๐.  วิปปยุตตปัจจัย</H2>
+<span class="LineNumber"> 010 </span>           [๔๗๕] ๑.  <B>สัญโญชนสัมปยุตตธรรม เป็นปัจจัยแก่สัญโญชน-
+<span class="LineNumber"> 011 </span>วิปปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 012 </span>           มี ๒ อย่าง  คือที่เป็น <B>สหชาตะ</B>   และ  <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 013 </span>                       ๒.  <B>สัญโญชนวิปปยุตตธรรม เป็นปัจจัยแก่สัญโญชน-
+<span class="LineNumber"> 014 </span>วิปปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 015 </span>           มี ๓ อย่าง  คือที่เป็น  <B>สหชาตะ  ปุเรชาตะ</B>   และ  <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 016 </span>                       ๓.  <B>สัญโญชนวิปปยุตตธรรม เป็นปัจจัยแก่สัญโญชน-
+<span class="LineNumber"> 017 </span>สัมปยุตตธรรม  ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 018 </span>           มีอย่างเดียว  คือที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่

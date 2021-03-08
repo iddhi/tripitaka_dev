@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 203
+
+<span class="LineNumber"> 002 </span>		ยาทิสํ กุรุเต มิตฺตํ		ยาทิสฺจูปเสวติ(๑)  
+<span class="LineNumber"> 003 </span>		โสปิ ตาทิสโก โหติ	สหวาโส หิ ตาทิโส  
+<span class="LineNumber"> 004 </span>		เสวมาโน เสวมานํ		สํผุฏฺโ€ สํผุสํ ปรํ  
+<span class="LineNumber"> 005 </span>		สโร ทุฏฺโ€(๒) กลาปํว	อลิตฺตมุปลิมฺปติ  
+<span class="LineNumber"> 006 </span>		อุปเลปภยา ธีโร		เนว ปาปสขา สิยา  
+<span class="LineNumber"> 007 </span>		ปูติมจฺฉํ กุสคฺเคน		โย นโร อุปนยฺหติ  
+<span class="LineNumber"> 008 </span>		กุสาปิ ปูตี(๓) วายนฺติ	เอวํ พาลูปเสวนา  
+<span class="LineNumber"> 009 </span>		ตครฺจ ปลาเสน		โย นโร อุปนยฺหติ  
+<span class="LineNumber"> 010 </span>		ปตฺตาปิ สุรภี(๔) วายนฺติ	เอวํ ธีรูปเสวนา  
+<span class="LineNumber"> 011 </span>		ตสฺมา ปตฺตปุฏสฺเสว	ตฺวา สมฺปากมตฺตโน  
+<span class="LineNumber"> 012 </span>		อสนฺเต นูปเสเวยฺย	สนฺเต เสเวยฺย ปณฺฑิโต  
+<span class="LineNumber"> 013 </span>		อสนฺโต นิรยํ เนนฺติ	สนฺโต ปาเปนฺติ สุคตินฺติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  สนฺตํ  วาติ  สปฺปุริสํ  วา ฯ  ยทิ  วา  อสนฺติ  อสปฺปุริสํ  
+<span class="LineNumber"> 015 </span>วา ฯ  สโร  ทุฏฺโ€  กลาปํวาติ  มหาราช  ยถา  นาม  
+<span class="LineNumber"> 016 </span>หลาหลวิสลิตฺโต  สโร  สรกลาเป  ปกฺขิตฺโต(๕)  สพฺพนฺตํ(๖)  วิเสน 
+<span class="LineNumber"> 017 </span>อลิตฺตมฺปิ  สรกลาปํ ลิมฺปติ วิสทุฏฺ€เมว(๗) กโรติ เอวเมว ปาปมิตฺโต
+<span class="LineNumber"> 018 </span>ปรํ(๘) เสวมาโนว ตํ  เสวมานํ ปรํ เตน จ สมฺผุฏฺโ€ ตํ สมฺผุสฺสนฺโต 
+<span class="LineNumber"> 019 </span>อลิตฺตํ ปาเปน ปุริสํ อตฺตโน  เอกชฺฌาสยํ  กโรนฺโต  อุปลิมฺปติ 
+<span class="LineNumber"> 020 </span>ปาปเมว  กโรติ ฯ วายนฺตีติ(๙) ตสฺส เต  กุสาปิ  ทุคฺคนฺธา 
+<span class="LineNumber"> 021 </span># ๑. ม. ยาทิสํ จูปเสวติ ฯ  ๒. ม. ทิทฺโธ ฯ ๓. ม. ปูติ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. สุรภิ ฯ ๕. ม. ขิตฺโต ฯ ๖. ม. สพฺพํ ตํ ฯ 
+<span class="LineNumber"> 023 </span># ๗. ม. วิสทิทฺธเมว ฯ ๘. ม. ปาปํ ฯ ๙. ม. ปูติ วายนฺตีติ ฯ 

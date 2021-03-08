@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>๖.  ทุติยผลสูตร</H1>
+
+<span class="LineNumber"> 002 </span>            <H1>เจริญธรรม  ๔ ประการเพื่อทำให้แจ้งสกทาคามิผล</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๖๓๕]  ดูก่อนภิกษุทั้งหลาย  ธรรม ๔ ประการนี้   อันบุคคลเจริญ
+<span class="LineNumber"> 004 </span>แล้ว   กระทำให้มากแล้ว    ย่อมเป็นไปเพื่อกระทำให้แจ้งซึ่งสกทาคามิผล...
+<span class="LineNumber"> 005 </span>                                        <I>จบทุติยผลสูตรที่     ๖</I>
+
+<span class="LineNumber"> 006 </span>                                         <H1>๗.  ตติยผลสูตร</H1>
+
+<span class="LineNumber"> 007 </span>               <H1>เจริญธรรม ๔  ประการเพื่อทำให้แจ้งอนาคามิผล</H1>
+
+<span class="LineNumber"> 008 </span>           [๑๖๓๖]   ...ย่อมเป็นไปเพื่อกระทำให้แจ้งซึ่งอนาคามิผล...
+<span class="LineNumber"> 009 </span>                                      <I>จบตติยผลสูตรที่  ๗</I>                            
+
+<span class="LineNumber"> 010 </span>                                    <H1>๘.  จตุตถผลสูตร</H1>
+
+<span class="LineNumber"> 011 </span>                   <H1>เจริญธรรม ๔  ประการเพื่อทำให้แจ้งอรหัตผล</H1>
+
+<span class="LineNumber"> 012 </span>           [๑๖๓๗]    ...ย่อมเป็นไปเพื่อกระทำให้แจ้งซึ่งอรหัตผล ...
+<span class="LineNumber"> 013 </span>                                       <I>จบจตุตถผลสูตรที่ ๘</I>                                       

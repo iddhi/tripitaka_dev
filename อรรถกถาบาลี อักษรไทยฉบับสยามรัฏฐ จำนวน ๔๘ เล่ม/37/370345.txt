@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 345
+
+<span class="LineNumber"> 002 </span>	อถสฺส(๑) ปุณฺณโก อาจิกฺขนฺโต อาห  
+<span class="LineNumber"> 003 </span>	[๙๙๐]มหานุภาวสฺส มโหรคสฺส  
+<span class="LineNumber"> 004 </span>		ธีตุกาโม าติภโตหมสฺมิ  
+<span class="LineNumber"> 005 </span>		ตํ ยาจมานํ สสุโร อโวจ  
+<span class="LineNumber"> 006 </span>		ยถา มมฺึสุ สุกามนีตํ  
+<span class="LineNumber"> 007 </span>		ทชฺเชมุ โข เต สุตนน สุเนตฺตํ  
+<span class="LineNumber"> 008 </span>		สุวิมฺหิตํ จนฺทนลิตฺตคตฺตํ  
+<span class="LineNumber"> 009 </span>		สเจ ตุวํ หทยํ ปณฺฑิตสฺส  
+<span class="LineNumber"> 010 </span>		ธมฺเมน ลทฺธา อิธ มาหเรสิ  
+<span class="LineNumber"> 011 </span>		เอเตน จิตฺเตน กุมาริ ลพฺภา  
+<span class="LineNumber"> 012 </span>		นาฺํ ธนํ อุตฺตรึ (๒)ปตฺถยาม  
+<span class="LineNumber"> 013 </span>		เอวํ น มุฬฺโหสฺมิ สุโณหิ กตฺเต  
+<span class="LineNumber"> 014 </span>		น จาปิ เม ทุคฺคหิตมตฺถิ (๓)กิฺจิ  
+<span class="LineNumber"> 015 </span>		หทเยน เต ธมฺมลทฺเธน นาคา  
+<span class="LineNumber"> 016 </span>		อิรนฺทตึ นาคกฺํ ททนฺติ  
+<span class="LineNumber"> 017 </span>		ตสฺมา อหนฺตุยฺหํ วธาย ยุตฺโต  
+<span class="LineNumber"> 018 </span>		เอวมฺมมตฺโถ(๔) มรเณน ตุยฺหํ  
+<span class="LineNumber"> 019 </span>		อิเธว ตํ นรเก ปาตยิตฺวา  
+<span class="LineNumber"> 020 </span>		หนฺตวาน ตํ หทยํ อานยิสฺสนฺติ(๕) ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ตํ สุตฺวา ตสฺสา ฯ  ๒. ส. ม. นฺํ ธนํ อุตฺตริ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ส. ม. ทุคฺคหิตตฺถิ ฯ  ๔. ม. เอวํ มมตฺโถ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. หทยมานยิสฺสนฺติ ฯ 

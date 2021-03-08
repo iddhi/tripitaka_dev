@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>			<H1>นทัสสเนนปหาตัพพเหตุกบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 002 </span>					   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>					 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		๑. เหตุนทัสสเนนปหาตัพพเหตุกธรรม  อาศัยเหตุ-	  	
+<span class="LineNumber"> 005 </span>นทัสสเนนปหาตัพพเหตุกธรรม  เกิดขึ้น   เพราะเหตุปัจจัย มี ๙ วาระ.
+
+<span class="LineNumber"> 006 </span>               	 <H1>ภาวนายปหาตัพพเหตุกบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 007 </span>                             	    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>				       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>		[๑๑๗]  ๑.  เหตุภาวนายปหาตัพพเหตุกธรรม  อาศัยเหตุ-
+<span class="LineNumber"> 010 </span>ภาวนายปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย มี ๙ วาระ.
+
+<span class="LineNumber"> 011 </span>			<H1>นภาวนายปหาตัพพเหตุกบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 012 </span>					   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>					 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		๑.  เหตุนภาวนายปหาตัพพเหตุกธรรม  อาศัยเหตุ-
+<span class="LineNumber"> 015 </span>นภาวนายปหาตัพพเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๙  วาระ.	

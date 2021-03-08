@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>         คาถาว่า  <B>ปริจิณฺโณ</B>  นี้     พระเถระกล่าวในเวลาใกล้ปรินิพพาน,
+<span class="LineNumber"> 002 </span>คาถานั้น    มีเนื้อความตามที่กล่าวไว้แล้วนั่นแล.
+<span class="LineNumber"> 003 </span>	           <I>จบอรรถกถาอานันทเถรคาถาที่  ๓</I>
+<span class="LineNumber"> 004 </span>	        <B>จบปรมัตถทีปนี   อรรถกถาเถรคาถา</B>	 
+<span class="LineNumber"> 005 </span>		         <B>ติงสนิบาต</B>

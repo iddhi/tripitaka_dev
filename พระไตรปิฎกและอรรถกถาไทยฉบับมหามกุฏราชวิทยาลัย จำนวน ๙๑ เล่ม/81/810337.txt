@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>สัทโทวิปาโกติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๔๘๕]   <B>สกวาที</B>  เสียงเป็นวิบาก  หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. เสียงเป็นผลที่บุคคลเสวยเป็นสุข    เป็นผลที่บุคคลเสวย
+<span class="LineNumber"> 005 </span>เป็นทุกข์    เป็นผลที่บุคคลเสวยไม่ทุกข์ไม่สุข     สัมปยุตด้วยสุขเวทนา
+<span class="LineNumber"> 006 </span>สัมปยุตด้วยทุกขเวทนา    สัมปยุตด้วยอทุกขมุขเวทนา   สัมปยุตด้วยผัสสะ
+<span class="LineNumber"> 007 </span>สัมปยุตด้วยเวทนา   สัมปยุตด้วยสัญญา   สัมปยุตด้วยเจตนา  สัมปยุตด้วย
+<span class="LineNumber"> 008 </span>จิต    มีอารมณ์   มีความนึก   ความผูกใจ   ความสนใจ   ความทำไว้ในใจ
+<span class="LineNumber"> 009 </span>ความจงใจ ความปรารถนา ความตั้งใจ หรือ ?
+<span class="LineNumber"> 010 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 011 </span>                        ส. เสียง    ไม่เป็นผลที่บุคคลเสวยเป็นสุข     ไม่เป็นผลที่
+<span class="LineNumber"> 012 </span>บุคคลเสวยเป็นทุกข์  ฯลฯ  ไม่มีอารมณ์  ไม่มีความนึก  ฯลฯ  ความตั้งใจ
+<span class="LineNumber"> 013 </span>มิใช่หรือ ?
+<span class="LineNumber"> 014 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                        ส. หากว่า     เสียงไม่เป็นผลที่บุคคลเสวยเป็นสุข    ฯลฯ
+<span class="LineNumber"> 016 </span>ไม่มีอารมณ์  ไม่มีความนึก  ฯลฯ  ความตั้งใจ  ก็ต้องไม่กล่าวว่า  เสียงเป็น
+<span class="LineNumber"> 017 </span>วิบาก
+<span class="LineNumber"> 018 </span>         [๑๔๘๖]   ส. ผัสสะเป็นวิบาก    ผัสสะเป็นผลที่บุคคลเสวยเป็นสุข
+<span class="LineNumber"> 019 </span>ฯลฯ   มีอารมณ์   มีความนึก  ฯลฯ ความตั้งใจ หรือ ?
+<span class="LineNumber"> 020 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 021 </span>                        ส. เสียงเป็นวิบาก  เสียงเป็นผลที่บุคคลเสวยเป็นสุข   ฯลฯ
+<span class="LineNumber"> 022 </span>มีอารมณ์   มีความนึก ฯลฯ ความตั้งใจ หรือ ?

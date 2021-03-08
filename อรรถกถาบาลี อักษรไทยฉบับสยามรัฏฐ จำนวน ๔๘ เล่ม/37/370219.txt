@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 219
+
+<span class="LineNumber"> 002 </span>		กุโต นุ อาคจฺฉสิ เทววณฺณี (๑) 
+<span class="LineNumber"> 003 </span>		โอภาสยํ สํวรึ (๒) จนฺทิมาว  
+<span class="LineNumber"> 004 </span>		อกฺขาหิ เม ปุจฺฉิโต นาม โคตฺตํ  
+<span class="LineNumber"> 005 </span>		กถนฺนุ(๓) ชานนฺติ มนุสฺสโลเกติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  พฺยมฺหิตมานโสติ  ภีตจิตฺโต ฯ  กุโต  นูติ  กจฺจิ
+<span class="LineNumber"> 007 </span>นุ  โข  วิชฺชาธโร ภเวยฺยาติ มฺมาโน อวนฺทิตฺวาว เอวํ 
+<span class="LineNumber"> 008 </span>ปุจฺฉิ ฯ  
+<span class="LineNumber"> 009 </span>	อถ  โส  อยํ  ราชา  ปรโลโก  นตฺถีติ  มฺติ  ปรโลกเมว  
+<span class="LineNumber"> 010 </span>ตาวสฺส(๔) อาจิกฺขิสฺสามีติ จินฺเตตฺวา คาถมาห  
+<span class="LineNumber"> 011 </span>	[๘๖๘]อหมฺปิ(๕) เทวาโต อิทานิ เอมิ  
+<span class="LineNumber"> 012 </span>		โอภาสยํ สํวรึ(๖) จนฺทิมาว  
+<span class="LineNumber"> 013 </span>		อกฺขามิ เต ปุจฺฉิโต นาม โคตฺตํ  
+<span class="LineNumber"> 014 </span>		ชานนฺติ มํ นารโท กสฺสโป จาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  เทวาโตติ  เทวโลกโต ฯ  นารโท  กสฺสโป  จาติ  มํ  
+<span class="LineNumber"> 016 </span>นาเมน นารโท โคตฺเตน กสฺสโปติ ชานนฺติ ฯ  
+<span class="LineNumber"> 017 </span>	อถ  ราชา  อิมํ  ปจฺฉาปิ  ปรโลกํ  ปุจฺฉิสฺสามิ  อิทฺธิยา  
+<span class="LineNumber"> 018 </span>ลทฺธการณนฺตาว(๗) ปุจฺฉิสฺสามีติ จินฺเตตฺวา คาถมาห  
+<span class="LineNumber"> 019 </span># ๑. ม. เทววณฺณิ ฯ  ๒. ม. สพฺพทิสา ฯ  ๓. ม. กถํ ตํ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. ปรโลกเมวสฺส ตาว ฯ ๕. ม. อหํ หิ ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. สพฺพทิสา ฯ ๗. ม. ลทฺธการณํ ตาว ฯ 

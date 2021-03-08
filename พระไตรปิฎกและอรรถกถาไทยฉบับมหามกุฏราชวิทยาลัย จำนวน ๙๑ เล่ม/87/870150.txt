@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นทัสสเนนปหาตัพพเหตุกธรรม ฯลฯ  
+<span class="LineNumber"> 002 </span>ขันธ์ ๒ ฯลฯ             
+<span class="LineNumber"> 003 </span>                       ๒.   <B>ฯลฯ    เจือกับภาวนายปหาตัพพเหตุกธรรม   ฯลฯ 
+<span class="LineNumber"> 004 </span>มี ๑  วาระ.</B>
+<span class="LineNumber"> 005 </span>                       ๓.  <B>เนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 006 </span>เจือเนวทัสสเนนนภาวนายปหาตัพพเหตุกธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 007 </span>อธิปติปัจจัย</B>
+<span class="LineNumber"> 008 </span>           คือ    ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นเนวทัสสเนนนภาวนายปหาตัพพ
+<span class="LineNumber"> 009 </span>เหตุกธรรม ฯลฯ ขันธ์ ๒ ฯลฯ
+
+<span class="LineNumber"> 010 </span>                         <H1>๔.  อนันตรปัจจัย  ๕.  สมนันตรปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           <B>เพราะ  อนันตรปัจจัย   เพราะ   สมนันตรปัจจัย</B>
+
+<span class="LineNumber"> 012 </span>                      <H1>๖.  สหชาตปัจจัย ฯลฯ  ๒๓.  อวิคตปัจจัย</H1>
+<span class="LineNumber"> 013 </span>           [๘๖๗]  <B>ทัสสเนนปหาตัพพเหตุกธรรม เจือกับทัสสเนนปหา-
+<span class="LineNumber"> 014 </span>ตัพพเหตุกธรรม  เกิดขึ้น   เพราะสหชาตปัจจัย    เพราะอัญญมัญญ-
+<span class="LineNumber"> 015 </span>ปัจจัย  เพราะนิสสยปัจจัย  เพราะอุปนิสสยปัจจัย   เพราะปุเรชาตปัจจัย
+<span class="LineNumber"> 016 </span>เพราะอาเสวนปัจจัย  เพราะกัมมปัจจัย  เพราะวิปากปัจจัย   เพราะอาหาร-
+<span class="LineNumber"> 017 </span>ปัจจัย  เพราะอินทริยปัจจัย  เพราะฌานปัจจัย  เพราะมัคคปัจจัย   เพราะ
+<span class="LineNumber"> 018 </span>สัมปยุตตปัจจัย   เพราะวิปยุตตปัจจัย   เพราะอัตถิปัจจัย   เพราะนัตถิ
+<span class="LineNumber"> 019 </span>ปัจจัย   เพราะวิคตปัจจัย  เพราะอวิคตปัจจัย.</B>

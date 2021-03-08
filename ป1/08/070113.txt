@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>       ศัพท์เดิม           ปัจจัย             รูปสำเร็จ              แปลว่า   
+<span class="LineNumber"> 002 </span><B>ต                               ตฺถ                 ตตฺถ</B>                      ใน-นั้น
+<span class="LineNumber"> 003 </span><B>ต                               หึ                    ตหึ</B>                        ใน-นั้น
+<span class="LineNumber"> 004 </span><B>ต                               หํ                     ตหํ</B>                        ใน-นั้น
+<span class="LineNumber"> 005 </span><B>เอต                            ตฺร                   อตฺร</B>                       ใน-นั่น
+<span class="LineNumber"> 006 </span><B>เอต                            ตฺถ                   อตฺถ</B>                       ใน-นั่น
+<span class="LineNumber"> 007 </span><B>เอก                             ตฺร                   เอกตฺร</B>                     ใน-เดียว
+<span class="LineNumber"> 008 </span><B>เอก                             ตฺถ                   เอกตฺถ</B>                     ใน-เดียว
+<span class="LineNumber"> 009 </span><B>อุภย                            ตฺร                    อุภยตฺร</B>                    ใน-สอง
+<span class="LineNumber"> 010 </span><B>อุภย                            ตฺถ                    อุภยตฺถ</B>                    ใน-สอง
+<span class="LineNumber"> 011 </span><B>ย                                 ตฺร                     ยตฺร</B>                         ใน-ใด                                   
+<span class="LineNumber"> 012 </span><B>เอต                              ตฺถ                    เอตฺถ</B>                        ใน-นั่น
+<span class="LineNumber"> 013 </span><B>ิอิม                               ธ                        อิธ</B>                            ใน-นี้
+<span class="LineNumber"> 014 </span><B>อิม                               ห                        อิห</B>                            ในนี้
+<span class="LineNumber"> 015 </span><B>กึ                                  ตฺร                      กุตฺร</B><SUP>๑</SUP>                         ใน-ไหน
+<span class="LineNumber"> 016 </span><B>กึ                                  ตฺถ                      กตฺถ</B>                           ใน-ไหน
+<span class="LineNumber"> 017 </span><B>กึ                                  หึ                         กุหึ</B>                             ใน-ไหน
+<span class="LineNumber"> 018 </span><B>กึ                                  หํ                          กุหํ</B>                             ใน-ไหน
+<span class="LineNumber"> 019 </span><B>กึ                                  หิญฺจนํ                  กุหิญฺนํ </B>                      ใน-ไหน
+<span class="LineNumber"> 020 </span><B>กึ                                   ว                           กฺว</B>	                            ใน-ไหน
+
+<span class='footnote'>๑.  แปลง กึ  เป็น กุ  เพราะ  ตฺร  หึ หํ  หิญฺจนํ  ปัจจัย.  มูลกัจจยานะ หน้า ๕๓.</span>
+        

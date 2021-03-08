@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>นเหตุทุกนวิปากติกเหตุทุกวิปากติกะ</H1>  
+<span class="LineNumber"> 002 </span>                   <H2>(๑. เหตุทุกะ  ๕.  วิปากติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                   <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 005 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                      <H2>วิปากบท</H2>
+<span class="LineNumber"> 007 </span>           [๓๓๖] ๑.  <B>วิปากธรรม  ที่เป็นเหตุธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 008 </span>วิปากธรรม  ที่เป็นเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                                          <B>ฯลฯ</B>
+
+<span class="LineNumber"> 010 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           [๓๓๗]  ในเหตุปัจจัย มี  ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 012 </span>                                     <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 013 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                    <H2>วิปากธัมมบท</H2>
+<span class="LineNumber"> 016 </span>           [๓๓๘] ๑.  <B>วิปากธัมมธรรม  ที่เป็นเหตุธรรม  อาศัยธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่วิปากธัมมธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>                                                <B>ฯลฯ</B>	

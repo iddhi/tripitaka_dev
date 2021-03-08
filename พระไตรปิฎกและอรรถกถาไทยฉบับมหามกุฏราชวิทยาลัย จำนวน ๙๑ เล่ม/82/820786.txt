@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>     ธรรมที่ชื่อว่าฆานวิญญาณ,   ชื่อว่าธาตุ   ใช่ไหม  ? 
+<span class="LineNumber"> 002 </span>     ธรรมที่ชื่อว่าธาตุ,   ชื่อว่าฆานวิญญาณ  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>     ธรรมที่ชื่อว่าชิวหาวิญญาณ,  ชื่อว่าธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>     ธรรมที่ชื่อว่าธาตุ,   ชื่อว่าชิวหาวิญญาณ  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>     ธรรมที่ชื่อว่ากายวิญญาณ,   ชื่อว่าธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>     ธรรมที่ชื่อว่าธาตุ,   ชื่อว่ากายวิญญาณ  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>     ธรรมที่ชื่อว่ามโน,   ชื่อว่าธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>     ธรรมที่ชื่อว่าธาตุ,   ชื่อว่ามโน   ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>     ธรรมที่ชื่อว่ามโนวิญญาณ,  ชื่อว่าธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>     ธรรมที่ชื่อว่าธาตุ,  ชื่อว่ามโนวิญญาณ  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>     ธรรมที่ชื่อว่าธรรม,   ชื่อว่าธาตุ   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>     ธรรมที่ชื่อว่าธาตุ,  ชื่อว่าธรรม   ใช่ไหม   ?
+<span class="LineNumber"> 013 </span>                    <I>สุทธธาตุวาระ  อนุโลม  จบ</I>

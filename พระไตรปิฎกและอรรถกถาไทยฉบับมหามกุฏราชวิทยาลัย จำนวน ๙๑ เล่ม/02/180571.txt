@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>รวมพระสูตรในโอปัมมวรรค</H2>
+<span class="LineNumber"> 002 </span>            ๑. กกจูปมสูตร				พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 003 </span>            ๒. อลคัททูปมสูตร			พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 004 </span>            ๓. วัมมิกสูตร				พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 005 </span>            ๔. รถวินีตสูตร				พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 006 </span>            ๕. นิวาปสูตร				พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 007 </span>            ๖. ปาสราสิสูตร				พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 008 </span>            ๗. จูฬหัตถิปโทปมสูตร			พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 009 </span>            ๘. มหาหัตถิปโทปมสูตร			พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 010 </span>            ๙. มหาสาโรปมสูตร			พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 011 </span>          ๑๐. จูฬสาโรปมสูตร			พร้อมทั้งอรรถกถา

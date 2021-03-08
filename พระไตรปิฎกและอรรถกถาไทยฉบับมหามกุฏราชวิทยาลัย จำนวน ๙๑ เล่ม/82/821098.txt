@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>วจีสังขารมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>วจีสังขารมูละ   จิตตสังขารมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         วจีสังขารไม่ใช่เคยเกิดแก่บุคคลใด,    จิตตสังขารก็ไม่ใช่เคยเกิด 
+<span class="LineNumber"> 004 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ไม่มี.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า      จิตตสังขารไม่ใช่เคยเกิดแก่บุคคลใด,       วจีสังขาร
+<span class="LineNumber"> 007 </span>ก็ไม่ใช่เคยเกิดแก่บุคคลนั้น    ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ไม่มี.
+<span class="LineNumber"> 009 </span>                      <I>จบ   วจีสังขารมูละ   จิตตสังขารมูลี</I>
+<span class="LineNumber"> 010 </span>                                   <I>วจีสังขารมูล   จบ</I>
+<span class="LineNumber"> 011 </span>                                    <I>ปุคคลวาระ   จบ</I>
+
+<span class="LineNumber"> 012 </span>                                       <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 013 </span>                                      <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 014 </span><H2>กายสังขารมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 015 </span>         [๑๐๕๖]    กายสังขารไม่ใช่เคยเกิดในภูมิใด,    ฯ ล ฯ
+<span class="LineNumber"> 016 </span>                                   <I>กายสังขารมูล  จบ</I>
+<span class="LineNumber"> 017 </span>                                    <I>โอกาสวาระ จบ</I>

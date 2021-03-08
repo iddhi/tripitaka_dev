@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>ใช้คุมพากย์ไม่ได้ ?  
+<span class="LineNumber"> 002 </span>	ต. ตพฺพ  อนีย  ต ปัจจัย  ใช้คุมพากย์ได้,  นอกจากนี้  ใช้คุม
+<span class="LineNumber"> 003 </span>พากย์ไม่ได้. [ อ. น. ].
+<span class="LineNumber"> 004 </span>	ถ. ในกิริยากิตก์ ไม่มีบุรุษ  ถ้าเช่นนั้น ศัพท์กิริยานี้  เป็นกิริยา
+<span class="LineNumber"> 005 </span>ของนามนามที่เป็นประธานบุรุษอะไร ?
+<span class="LineNumber"> 006 </span>	ต.  เป็นกิริยาของนามนามี่เป็นประธานทั้ง ๓ บุรุษ.  [อ. น. ]

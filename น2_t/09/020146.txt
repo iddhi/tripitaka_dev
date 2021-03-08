@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>					พุทฺธํ  สรณํ  คจฺฉามิ.
+<span class="LineNumber"> 002 </span>					ธมฺมํ  สรณํ  คจฺฉามิ.
+<span class="LineNumber"> 003 </span>					สงฆํ  สรณํ  คจฺฉามิ.
+<span class="LineNumber"> 004 </span>	ทุติยมฺปิ  พุทฺธํ  สรณํ  คจฺฉามิ.
+<span class="LineNumber"> 005 </span>	ทุติยมฺปิ  ธมฺมํ  สรณํ  คจฺฉามิ.  
+<span class="LineNumber"> 006 </span>	ทุติยมฺปิ  สงฺฆํ สรณํ  คจฺฉามิ.
+<span class="LineNumber"> 007 </span>	ตติยมฺปิ  พุทฺธํ  สรณํ  คจฺฉามิ.
+<span class="LineNumber"> 008 </span>	ตติยมฺปิ  ธมฺมํ  สรณํ  คจฺฉามิ.
+<span class="LineNumber"> 009 </span>	ตติยมฺปิ  สงฺฆํ สรณํ  คจฺฉามิ.
+<span class="LineNumber"> 010 </span>นตฺถิ  เม  สรณํ  อญฺํ                        พุทฺโธ  เม  สรณํ  วรํ
+<span class="LineNumber"> 011 </span>เอเตน  สจฺจวชฺเชน                             โหตุ  เม  ชยมงฺมคลํ
+<span class="LineNumber"> 012 </span>นตฺถิ  เม  สรณํ  อฺํ                          ธมฺโม  เม  สรณํ  วรํ
+<span class="LineNumber"> 013 </span>เอเตน  สจฺจวชฺเชนท                           โหตุ  เม  ชยมงฺคลํ
+<span class="LineNumber"> 014 </span>นตฺถิ  เม  สรณํ  อฺํ                          สงฺโฆ  เม  สรณํ  วรํ
+<span class="LineNumber"> 015 </span>เอเตน  สจฺจวชฺเชน                              โหตุ  เม  ชยมงฺคลํ
+
+<span class="LineNumber"> 016 </span>                                      คำแปลคาถา  นตฺถิ  เม
+<span class="LineNumber"> 017 </span>	สรณะอื่นของข้าพเจ้าไม่มี  พระพุทธเจ้าเป็นสรณะอันประเสริฐของข้าพเจ้า
+<span class="LineNumber"> 018 </span>ด้วยสัจวาจา  นี้  ขอชัยมงคลจงมีแก่ข้าพเจ้าฯ
+<span class="LineNumber"> 019 </span>  	สรณะอื่นของข้าพเจ้าไม่มี  พระธรรมเป็นสรณะอันประเสริฐของข้าพเจ้า
+<span class="LineNumber"> 020 </span>ด้วยสัจวาจา  นี้  ขอชัยมงคลจงมีแก่ข้าพเจ้าฯ
+<span class="LineNumber"> 021 </span>	สรณะอื่นของข้าพเจ้าไม่มี  พระพุสงฆ์เป็นสรณะอันประเสริฐของข้าพเจ้า
+<span class="LineNumber"> 022 </span>ด้วยสัจวาจา  นี้  ขอชัยมงคลจงมีแก่ข้าพเจ้าฯ

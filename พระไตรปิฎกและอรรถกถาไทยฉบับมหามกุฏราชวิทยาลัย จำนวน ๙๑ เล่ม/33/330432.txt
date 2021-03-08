@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                             <H2>สุขวรรคที่  ๒</H2>
+
+<span class="LineNumber"> 002 </span>                                    <H1>สูตรที่  ๑</H1>
+
+<span class="LineNumber"> 003 </span>         [๓๐๙]   ๖๓.  ดูก่อนภิกษุทั้งหลาย  สุข  ๒  อย่างนี้   ๒  อย่างเป็น
+<span class="LineNumber"> 004 </span>ไฉน  คือ  สุขของคฤหัสถ์  ๑  สุขเกิดแต่บรรพชา  ๑   ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 005 </span>สุข ๒ อย่างนี้แล   ดูก่อนภิกษุทั้งหลาย   บรรดาสุข  ๒  อย่างนี้    สุขเกิดแต่
+<span class="LineNumber"> 006 </span>บรรพชาเป็นเลิศ.
+<span class="LineNumber"> 007 </span>                                                    จบสูตรที่ ๑
+
+<span class="LineNumber"> 008 </span>                              <H1>สูตรที่  ๒</H1>
+
+<span class="LineNumber"> 009 </span>         [๓๑๐]  ๖๔.  ดูก่อนภิกษุทั้งหลาย  สุข ๒ อย่างนี้   ๒ อย่างเป็น
+<span class="LineNumber"> 010 </span>ไฉน  คือ  กามสุข ๑  เนกขัมมสุข  ๑  ดูก่อนภิกษุทั้งหลาย  สุข ๒ อย่าง
+<span class="LineNumber"> 011 </span>นี้แล  ดูก่อนภิกษุทั้งหลาย  บรรดาสุข  ๒  อย่างนี้   เนกขัมมสุขเป็นเลิศ.
+<span class="LineNumber"> 012 </span>                                              จบสูตรที่  ๒
+
+<span class="LineNumber"> 013 </span>                                <H1>สูตรที่  ๓</H1>
+
+<span class="LineNumber"> 014 </span>         [๓๑๑]   ๖๕.  ดูก่อนภิกษุทั้งหลาย  สุข  ๒ อย่างนี้   ๒ อย่างเป็น
+<span class="LineNumber"> 015 </span>ไฉน  คือ   สุขเจือกิเลส  ๑     สุขไม่เจือกิเลส   ๑     ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 016 </span>สุข ๒ อย่างนี้แล  ดูก่อนภิกษุทั้งหลาย  บรรดาสุข   ๒ อย่างนี้   สุขไม่เจือ
+<span class="LineNumber"> 017 </span>กิเลสเป็นเลิศ.
+<span class="LineNumber"> 018 </span>                                                  จบสูตรที่  ๓

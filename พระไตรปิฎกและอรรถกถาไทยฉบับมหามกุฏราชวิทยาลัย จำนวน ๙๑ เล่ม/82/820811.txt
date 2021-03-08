@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         (อายตนยมกท่านจำแนกไว้   ฉันใด    แม้ธาตุยมก    ก็พึงจำแนก 
+<span class="LineNumber"> 002 </span>ฉันนั้น  พึงกระทำให้เหมือนกัน.)
+<span class="LineNumber"> 003 </span>                                    <I>ปวัตติวาระ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                                      <H1>ปริญญาวาระ</H1>
+<span class="LineNumber"> 005 </span>         [๘๑๖]   บุคคลใดกำลังรู้แจ้งจักขุธาตุ  บุคคลนั้นกำลังรู้แจ้ง
+<span class="LineNumber"> 006 </span>โสตธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ธาตุยมก   จบบริบูรณ์   โดยย่อ.
+<span class="LineNumber"> 009 </span>                                  <I>ปริญญาวาระ  จบ</I>
+<span class="LineNumber"> 010 </span>                                 <I>ธาตุยมก  ที่  ๔  จบ</I>

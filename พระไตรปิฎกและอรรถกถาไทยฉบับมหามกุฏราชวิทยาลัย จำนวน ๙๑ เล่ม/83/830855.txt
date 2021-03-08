@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>อรรถกถาจิตตยมก</H1> 
+<span class="LineNumber"> 002 </span>                                   <H2>มาติกาฐปนวาระ</H2>
+<span class="LineNumber"> 003 </span>         บัดนี้  เป็นวรรณา  เนื้อความแห่ง  <B>จิตตยมก</B>  ที่พระผู้มีพระภาค-
+<span class="LineNumber"> 004 </span>เจ้า   ทรงรวบรวมไว้เป็นเอกเทสหนึ่งต่างหากด้วยสามารถแห่งธรรมทั้ง-
+<span class="LineNumber"> 005 </span>หลายเหล่านั้นนั่นแหละมีกุศลธรรมเป็นต้นที่ได้แสดงไว้แล้วในมูลยมก
+<span class="LineNumber"> 006 </span>แล้วจึงแสดงต่อจากอนุสยมก.
+<span class="LineNumber"> 007 </span>         ในจิตตยมกนั้น   เบื้องแรกพึงทราบบาลีววัตถาน<SUP>๑</SUP>ก่อน  ในจิตต-
+<span class="LineNumber"> 008 </span>ยมกนี้     มี  ๒  วาระ  คือ
+<span class="LineNumber"> 009 </span>         <B>มาติกาฐปนวาระ</B> --  วาระอันว่าด้วยการตั้งมาติกา<SUP>๒</SUP>
+<span class="LineNumber"> 010 </span>         <B>ฐปิตมาติกาวิสัชนาวาระ</B>  --   วาระอันว่าด้วยการวิสัชนมาติกา<SUP>๓</SUP>
+<span class="LineNumber"> 011 </span>ที่ตั้งไว้แล้ว.
+<span class="LineNumber"> 012 </span>         ในมาติกาฐปนวาระนั้น     ในเบื้องต้นมีสุทธิกมหาวาระอยู่   ๓
+<span class="LineNumber"> 013 </span>คือ  : -
+
+<span class='footnote'>๑.  การกำหนดหัวข้อ.</span>
+<span class='footnote'>๒.  หัวข้อ = อุเทส.</span>
+<span class='footnote'>๓.  นิทเทส.</span>
+<span class='footnote'>* มาติกาฐปนวาระ    คือ    อุทเทส</span>
+<span class='footnote'>   วิสัชนาวาระ               คือ    นิทเทส</span>

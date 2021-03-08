@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  ขุรปุตฺตวคฺควณฺณนา  หน้า  109
+
+<span class="LineNumber"> 002 </span>อุทกกีฬนฏฺ€าเน  อสุกการเณนาติ  น  ชานามีติ  ฯ  กึ  ตฺวํ  
+<span class="LineNumber"> 003 </span>อสปฺปุริส  น  ชานิสฺสสิ  ตยา  กตกิจฺจํ  มยฺหํ  ปากฏํ  นนุ  ตฺวํ 
+<span class="LineNumber"> 004 </span>อิมินา  นาม  การเณน  ตํ  มาเรสิ  กึ  นุ  โข  ตฺวํ  ราชาทีนํ  
+<span class="LineNumber"> 005 </span>วเสน  นสฺสมานํ  ธนํ  รกฺขิตุํ  สกฺกุเณยฺยาสิ  มยฺหกสกุณสฺส 
+<span class="LineNumber"> 006 </span>จ  ตุยฺหฺจ  กึนานากรณนฺติ  ฯ  อถสฺส มหาสตฺโต พุทฺธลีฬาย
+<span class="LineNumber"> 007 </span>ธมฺมํ เทเสนฺโต อิมา คาถา อภาสิ  
+<span class="LineNumber"> 008 </span>	[๙๓๑]สกุโณ มยฺหโก นาม  	คิริสานุทรีจโร  
+<span class="LineNumber"> 009 </span>		ปกฺกํ ปิปฺผลิมารุยฺห  	มยฺหํ มยฺหนฺติ กนฺทติ ฯ  
+<span class="LineNumber"> 010 </span>	[๙๓๒]ตสฺเสวํ วิลปนฺตสฺส  	ทิชสงฺฆา สมาคตา  
+<span class="LineNumber"> 011 </span>		ภุตฺวาน ปิปฺผลึ ยนฺติ  	วิลปเตว(๑) โส ทิโช ฯ  
+<span class="LineNumber"> 012 </span>	[๙๓๓]เอวเมว อิเธกจฺโจ  		สงฺฆริตฺวา พหุํ ธนํ  
+<span class="LineNumber"> 013 </span>		เนวตฺตนา(๒) น าตีนํ  	ยโถธึ ปฏิปชฺชติ ฯ  
+<span class="LineNumber"> 014 </span>	[๙๓๔]น โส อจฺฉาทนํ ภตฺตํ  	น มาลํ น วิเลปนํ  
+<span class="LineNumber"> 015 </span>		อนุโภติ(๓) สกึ กิฺจิ  	น สงฺคณฺหาติ าตเก ฯ  
+<span class="LineNumber"> 016 </span>	[๙๓๕]ตสฺเสวํ วิลปนฺตสฺส  	มยฺหํ มยฺหนฺติ รกฺขโต  
+<span class="LineNumber"> 017 </span>		ราชาโน อถ วา โจรา  	ทายาทา เย จ(๔) อปฺปิยา ฯ  
+<span class="LineNumber"> 018 </span>		ธนมาทาย คจฺฉนฺติ  	วิลปเตว(๑) โส นโร  
+<span class="LineNumber"> 019 </span>	[๙๓๖]ธีโร โภเค อธิคมฺม  	สงฺคณฺหาติ จ าตเก ฯ  
+<span class="LineNumber"> 020 </span>		เตน โส กิตฺตึ ปปฺโปติ  	เปจฺจ สคฺเค ปโมทตีติ(๕) ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. วิลปเตฺวว ฯ  ๒. ส. ม. เนวตฺตโน ฯ  ๓. ส. ม. นานุโภติ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. เยว ฯ  ๕. สี. ยุ. สคฺเค จ โมทตีติ ฯ 

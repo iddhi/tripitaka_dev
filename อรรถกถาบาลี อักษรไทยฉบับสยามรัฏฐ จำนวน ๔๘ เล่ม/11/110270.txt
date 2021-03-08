@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  หน้า  ๒๗๐
+
+<span class="LineNumber"> 002 </span>			กุลูปกสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	จตุตฺเถ  กุลูปโกติ  กุลฆรานํ  อุปคนฺตา(๑) ฯ  เทนฺตุเยว
+<span class="LineNumber"> 004 </span>เมติ  ททนฺตุเยว  มยฺหํ ฯ  สนฺทิยตีติ  อฏฺฏิยติ  ปีฬิยติ ฯ  เสสเมตฺถ
+<span class="LineNumber"> 005 </span>วุตฺตนยานุสาเรเนว เวทิตพฺพํ ฯ 
+<span class="LineNumber"> 006 </span>			จตุตฺถํ ฯ                 
+
+<span class="LineNumber"> 007 </span>			ชิณฺณสุตฺตวณฺณนา           
+<span class="LineNumber"> 008 </span>	ปฺจเม  ชิณฺโณติ  เถโร  มหลฺลโก ฯ  ครุกานีติ  ตํ 
+<span class="LineNumber"> 009 </span>สตฺถุ  สนฺติกา  ลทฺธกาลโต  ปฏฺ€าย  ชิณฺณภินฺนฏฺ€าเน  
+<span class="LineNumber"> 010 </span>สุตฺตสํสิพฺพเนน  เจว  อคฺคฬทาเนน  จ  อเนกปฏลานิ(๒)  หุตฺวา 
+<span class="LineNumber"> 011 </span>ครุกานิ  ชาตานิ ฯ  นิพฺพสนานีติ  ปุพฺเพ  ภควตา  นิวาเสตฺวา
+<span class="LineNumber"> 012 </span>อปนีตตาย  เอวํลทฺธนามานิ ฯ  ตสฺมาติ  ยสฺมา  ตฺวํ  ชิณฺโณ  
+<span class="LineNumber"> 013 </span>เจว  ครุปํสุกูโล  จ    คหปตานีติ  ปํสุกูลิกงฺคํ  วิสฺสชฺเชตฺวา 
+<span class="LineNumber"> 014 </span>คหปตีหิ ทินฺนจีวรานิ ธาเรหีติ  วทติ ฯ  นิมนฺตนานีติ  
+<span class="LineNumber"> 015 </span>ปิณฺฑปาติกงฺคํ  วิสฺสชฺเชตฺวา  สลากภตฺตาทีนิ นิมนฺตนานิ 
+<span class="LineNumber"> 016 </span>ภุฺชาติ  วทติ ฯ  มม  จ  สนฺติเกติ  อารฺิกงฺคํ  วิสฺสชฺเชตฺวา 
+<span class="LineNumber"> 017 </span>คามนฺตเสนาสเนเยว วสาหีติ วทติ ฯ              
+<span class="LineNumber"> 018 </span>	นนุ  จ  ยถา  ราชา  เสนาปตึ  เสนาปติฏฺ€าเน  €เปตฺวา  
+<span class="LineNumber"> 019 </span>ตสฺส   ราชูปฏฺ€านาทินา  อตฺตโน  กมฺเมน  อาราเธนฺตสฺเสว  ตํ 
+<span class="LineNumber"> 020 </span># ๑. ม. อุปคนฺตา ฯ  ๒. สี. ยุ. อเนกสตานิ ฯ  ม. อเนกานิ ปฏฺลานิ ฯ

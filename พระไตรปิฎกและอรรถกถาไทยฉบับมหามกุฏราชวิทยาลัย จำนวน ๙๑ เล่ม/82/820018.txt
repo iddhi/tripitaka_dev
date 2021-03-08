@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         [๕]   ธรรมเหล่าใดเหล่าหนึ่ง   ที่เป็นกุศล  มีอยู่,  ธรรมเหล่า 
+<span class="LineNumber"> 002 </span>นั้นทั้งหมด   เป็นกุศลเหตุ  ใช่ไหม ?                    
+<span class="LineNumber"> 003 </span>....................เป็นกุศลนิทาน ใช่ไหม ?
+<span class="LineNumber"> 004 </span>....................เป็นกุศลสัมภวะ ใช่ไหม ?
+<span class="LineNumber"> 005 </span>....................เป็นกุศลปภวะ ใช่ไหม ?
+<span class="LineNumber"> 006 </span>....................เป็นกุศลสมุฏฐาน ใช่ไหม ?
+<span class="LineNumber"> 007 </span>....................เป็นกุศลาหาร  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>....................เป็นกุศลารัมมณะ ใช่ไหม  ?    
+<span class="LineNumber"> 009 </span>....................เป็นกุศลปัจจัย  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>....................เป็นกุศลสมุทัย  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         พระธรรมสังคาหกาจารย์ได้ประพันธ์ไว้เป็นคาถาว่า :-
+<span class="LineNumber"> 012 </span>         มูล,   เหตุ,   นิทาน,      สัมภวะ    และปภวะ,   สมุฏฐาน,
+<span class="LineNumber"> 013 </span>         อาหาร,  อารัมมณะ,   ปัจจัย,   และสมุทัย.<SUP>๑</SUP>
+<span class="LineNumber"> 014 </span>                                    <I>อุทเทสวาระ   จบ</I>
+
+<span class='footnote'>๑.  คำเหล่านี้เป็น  ไวพจน์  แก่กันและกัน.</span>

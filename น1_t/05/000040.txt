@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                     สรุปอนิยต 
+<span class="LineNumber"> 002 </span>           ๑.  อนิยตสิกขาบท ๒ นี้  ควรถือเป็นแบบสำหรับอธิกรณ์ 
+<span class="LineNumber"> 003 </span>อันเกิดขึ้น.
+<span class="LineNumber"> 004 </span>           ๒.  ถ้ามีผู้กล่าวหา  และข้อความที่กล่าวหานั้น  ถ้าเป็นจริง
+<span class="LineNumber"> 005 </span>มีโทษโดยฐานละเมิดพระบัญญัติอันให้ต้องอาบัตินั้น ๆ  เช่นนี้ควร
+<span class="LineNumber"> 006 </span>พิจารณา.
+<span class="LineNumber"> 007 </span>           ๓.  ถ้าไม่ถึงเป็นอาบัติ  ไม่ควรพิจารณา.
+<span class="LineNumber"> 008 </span>           ๔.  อธิกรณ์นั้นที่พิจารณาอยู่  ถ้าไม่มีผู้อื่นเป็นพยาน  เป็นการ
+<span class="LineNumber"> 009 </span>ตัวต่อตัว  ควรฟังเอาปฏิญญาของภิกษุ.
+<span class="LineNumber"> 010 </span>           ๕.  ถ้ามีพยานอื่นเป็นหลักฐาน  โดยทางพิจารณาถือว่าฟังได้
+<span class="LineNumber"> 011 </span>แม้จำเลยปฏิเสธก็ปรับอาบัติได้.

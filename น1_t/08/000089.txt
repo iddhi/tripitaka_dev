@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>สิ่งที่ควรรู้.<SUP>๑</SUP>
+<span class="LineNumber"> 002 </span>                                                                     ๙/๑๒/๕๔
+<span class="LineNumber"> 003 </span>	ถ.  องค์แห่งภิกษุใหม่ ๕ คืออะไรบ้าง ? และมีความจำเป็น
+<span class="LineNumber"> 004 </span>อย่างไร ท่านจึงสอนให้ภิกษุใหม่ตั้งอยู่ในองค์ ๕ อย่างไร ?
+<span class="LineNumber"> 005 </span>	ต.   ๑.  สำรวมในพระปาฏิโมกข์.
+<span class="LineNumber"> 006 </span>	       ๒.  สำรวมในอินทรีย์.
+<span class="LineNumber"> 007 </span>	       ๓.  ความเป็นคนไม่เอิกเกริกเฮฮา.
+<span class="LineNumber"> 008 </span>	       ๔.  อยู่ในเสนาสนะอันสงัด.
+<span class="LineNumber"> 009 </span>	       ๕.  มีความเห็นชอบ.
+<span class="LineNumber"> 010 </span>	มีความจำเป็นอย่างนี้ :-
+<span class="LineNumber"> 011 </span>	๑.  พระปาฏิโมกข์ เป็นระเบียบที่พระพุทธเจ้าทรงวางไว้เป็น
+<span class="LineNumber"> 012 </span>พระพุทธอาณา ความเป็นภิกษุเนื่องด้วยพระปาฏิโมกข์ ถ้าประพฤติ
+<span class="LineNumber"> 013 </span>ผิดอย่างรุนแรง ถึงปรับโทษไม่มีทางแก้ไขได้.
+<span class="LineNumber"> 014 </span>	๒.  ทวารทั้ง ๖ เป็นทางเกิดความยินดีและยินร้ายถ้าไม่สำรวม
+<span class="LineNumber"> 015 </span>อาจประพฤติชั่ว.
+<span class="LineNumber"> 016 </span>	๓.  ความเอิกเกริกเฮอา  ไม่ใช่กิริยาของสมณะผู้สงบระงับ
+<span class="LineNumber"> 017 </span>เป็นเหตุยั่วให้เกิดความฟุ้งซ่าน. 
+<span class="LineNumber"> 018 </span>	๔.  การอยู่ในเสนาสนะอันสงัด เป็นข้าศึกแก่ความเอิกเกริก
+<span class="LineNumber"> 019 </span>เฮฮา เป็นไปเพื่อทำจิตให้สงบ.
+<span class="LineNumber"> 020 </span>	๕.  ความเห็นชอบ เป็นเหตุแห่งความประพฤติปฏิบัติชอบ.
+
+<span class='footnote'>๑.  เดิมไม่มีเฉลย. ส. ป.</span>
+

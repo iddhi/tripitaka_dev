@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ในกรรมอันสงฆ์ปัญจวรรคพึงทำ    ภิกษุปกตัตตะ  ๕  รูป    เป็นผู้เข้า   
+<span class="LineNumber"> 002 </span>กรรม  ปกตัตตะนอกนั้น      เป็นผู้ควรฉันทะ   สงฆ์ทำกรรมแก่ภิกษุใด   ภิกษุ
+<span class="LineNumber"> 003 </span>นั้นไม่ใช่เป็นผู้เข้ากรรม   และไม่ควรฉันทะ   แต่เป็นผู้ควรกรรม          
+<span class="LineNumber"> 004 </span>           ในกรรมอันสงฆ์ทสวรรคพึงทำ   ภิกษุปกตัตตะ ๑๐  รูป  เป็นผู้เข้ากรรม
+<span class="LineNumber"> 005 </span>ปกตัตตะนอกนั้น  เป็นผู้ควรฉันทะ   สงฆ์ทำกรรมแก่ภิกษุใด   ภิกษุนั้นไม่ใช่
+<span class="LineNumber"> 006 </span>เป็นผู้เข้ากรรม   และไม่ควรฉันทะ   แต่เป็นผู้ควรกรรม
+<span class="LineNumber"> 007 </span>           ในกรรมอันสงฆ์วีสติวรรคพึงทำ  ภิกษุปกตัตตะ  ๒๐ รูป เป็นผู้เข้ากรรม
+<span class="LineNumber"> 008 </span>ปกตัตตะนอกนั้น    เป็นผู้ควรฉันทะ   สงฆ์ทำกรรมแก่ภิกษุใด  ภิกษุนั้นไม่ใช่
+<span class="LineNumber"> 009 </span>เป็นผู้เข้ากรรม  และไม่ควรฉันทะ  แต่เป็นผู้ควรกรรม.
+
+<span class="LineNumber"> 010 </span>                                        <H2> กรรม ๔</H2>
+<span class="LineNumber"> 011 </span>           [๑,๓๔๗]  กรรม ๔  คือ  ๑.  อปโลกนกรรม  ๒.  ญัตติกรรม  ๓.
+<span class="LineNumber"> 012 </span>ญัตติทุติยกรรม  ๔.  ญัตติจตุตถกรรม
+<span class="LineNumber"> 013 </span>           ถามว่า  กรรม  ๔  นี้    ย่อมวิบัติ   โดยอาการเท่าไร
+<span class="LineNumber"> 014 </span>           ตอบว่า  กรรม  ๔  นี้  ย่อมวิบัติ   โดยอาการ  ๕   คือ :-
+<span class="LineNumber"> 015 </span>           ๑.   โดยวัตถุ
+<span class="LineNumber"> 016 </span>           ๒.  โดยญัตติ                                          
+<span class="LineNumber"> 017 </span>           ๓.   โดยอนุสาวนา
+<span class="LineNumber"> 018 </span>           ๔.   โดยสีมา
+<span class="LineNumber"> 019 </span>           ๕.   โดยบริษัท.               

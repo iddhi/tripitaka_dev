@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>ธรรมที่ไม่ใช่อินทรีย์  ไม่ชื่อว่า  อัญญาตาวินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 002 </span>                            <I>น   โสตินทริยมูล  จบ</I>
+
+<span class="LineNumber"> 003 </span>                               <H1>น   ฆานินทริยมูล</H1>
+<span class="LineNumber"> 004 </span>          ธรรมที่ไม่ใช่ฆานะ,  ไม่ชื่อว่า  ฆานินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>ธรรมที่ไม่ใช่อินทรีย์,  ไม่ชื่อว่า  จักขุนทรีย์  ใช่ไหม   ?
+<span class="LineNumber"> 006 </span>                                      ฯ ล ฯ
+<span class="LineNumber"> 007 </span>ธรรมที่ไม่ใช่อินทรีย์,   ไม่ชื่อว่า  อัญญาตาวินทรีย์   ใช่ไหม ?
+<span class="LineNumber"> 008 </span>                           <I>น  ฆานินทริยมูล  จบ</I>
+
+<span class="LineNumber"> 009 </span>                              <H1>น  ชิวหินทริยมูล</H1>
+<span class="LineNumber"> 010 </span>         ธรรมที่ไม่ใช่ชิวหา  ไม่ชื่อว่า  ชิวหินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>ธรรมที่ไม่ใช่อินทรีย์,  ไม่ชื่อว่า  จักขุนทรีย์  ใช่ไหม   ?                                    
+<span class="LineNumber"> 012 </span>                                      ฯ ล ฯ

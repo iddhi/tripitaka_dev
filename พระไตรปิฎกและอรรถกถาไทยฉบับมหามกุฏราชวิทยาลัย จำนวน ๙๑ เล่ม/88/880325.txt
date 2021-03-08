@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ที่เป็น   <B>ปัจฉาชาตะ</B>  ได้แก่ 
+<span class="LineNumber"> 002 </span>           ขันธ์ทั้งหลายที่เป็นโลกุตตรธรรมที่เกิดภายหลัง   เป็นปัจจัยแก่กายนี้ที่
+<span class="LineNumber"> 003 </span>เกิดก่อน  ด้วยอำนาจของวิปปยุตตปัจจัย.
+
+<span class="LineNumber"> 004 </span>                                             <H1>๒๑.  อัตถิปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๓๑๗] ๑.  <B>โลกิยธรรม   เป็นปัจจัยแก่โลกิยธรรม  ด้วยอำนาจ
+<span class="LineNumber"> 006 </span>ของอัตถิปัจจัย</B>
+<span class="LineNumber"> 007 </span>           มี ๕ อย่าง  คือที่เป็น  <B>สหชาตะ   ปุเรชาตะ  ปัจฉาชาตะ  อาหาระ</B>
+<span class="LineNumber"> 008 </span>และ   <B>อินทริยะ</B>
+<span class="LineNumber"> 009 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 010 </span>           ขันธ์ ๑   ที่เป็นโลกิยธรรม   ที่เกิดพร้อมกัน    เป็นปัจจัยแก่ขันธ์ ๓
+<span class="LineNumber"> 011 </span>และจิตตสมุฏฐานรูปทั้งหลาย ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 012 </span>           ที่เป็น  <B>ปุเรชาตะ</B>  ได้แก่
+<span class="LineNumber"> 013 </span>           บุคคลพิจารณาเห็นจักษุ  ฯลฯ  หทยวัตถุ  ฯลฯ เหมือนกับปุเรชาตปัจจัย.
+<span class="LineNumber"> 014 </span>           หทยวัตถุ    เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นโลกิยธรรม    ด้วยอำนาจ
+<span class="LineNumber"> 015 </span>ของอัตถิปัจจัย.
+<span class="LineNumber"> 016 </span>           ที่เป็น  <B>ปัจฉาชาตะ</B>  ได้แก่
+<span class="LineNumber"> 017 </span>	   ขันธ์ทั้งหลายที่เป็นโลกิยธรรม     ที่เกิดภายหลัง    เป็นปัจจัยแก่กายนี้ 
+<span class="LineNumber"> 018 </span>ที่เกิดก่อน  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 019 </span>           กวฬีการาหาร   เป็นปัจจัยแก่กายนี้   ด้วยอำนาจของอัตถิปัจจัย.

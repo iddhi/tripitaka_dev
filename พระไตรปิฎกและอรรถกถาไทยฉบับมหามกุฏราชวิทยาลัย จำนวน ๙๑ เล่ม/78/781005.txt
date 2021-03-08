@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>อายุของเหล่าเทวดาชั้นสุทัสสี   มีประมาณเท่าไร ?</B> 
+<span class="LineNumber"> 002 </span>           มีประมาณ ๘,๐๐๐ กัป.
+<span class="LineNumber"> 003 </span>           <B>อายุของเหล่าเทวดาชั้นอกนิฏฐา  มีประมาณเท่าไร ?</B>
+<span class="LineNumber"> 004 </span>           มีประมาณ ๑๖,๐๐๐ กัป.
+
+<span class="LineNumber"> 005 </span>	               <H1>ประมาณแห่งอายุของอรูปพรหม</H1>
+<span class="LineNumber"> 006 </span>           <B>อายุของเหล่าเทวดาผู้เข้าถึงอากาสานัญจายตนภพ มีประมาณ
+<span class="LineNumber"> 007 </span>เท่าไร ?</B>
+<span class="LineNumber"> 008 </span>           มีประมาณ ๒๐,๐๐๐ กัป. 
+<span class="LineNumber"> 009 </span>           <B>อายุของเหล่าเทวดาผู้เข้าถึงวิญญานัญจายตนภพ  มีประมาณ
+<span class="LineNumber"> 010 </span>เท่าไร ?</B>
+<span class="LineNumber"> 011 </span>           มีประมาณ  ๔๐,๐๐๐ กัป.
+<span class="LineNumber"> 012 </span>           <B>อายุของเหล่าเทวดาผู้เข้าถึงอากิญจัญญายตนภพ  มีประมาณ
+<span class="LineNumber"> 013 </span>เท่าไร ?</B>
+<span class="LineNumber"> 014 </span>           มีประมาณ  ๖๐,๐๐๐  กัป.
+<span class="LineNumber"> 015 </span>           <B>อายุของเหล่าเทวดาผู้เข้าถึงเนวสัญญานาสัญญายตนภพ  มี
+<span class="LineNumber"> 016 </span>ประมาณเท่าไร ?</B>
+<span class="LineNumber"> 017 </span>           มีประมาณ  ๘๔,๐๐๐  กัป.
+<span class="LineNumber"> 018 </span>           <B>เหล่าสัตว์ที่มีอำนาจแห่งบุญส่งเสริม  ไปแล้วสู่กามภพ  และ
+<span class="LineNumber"> 019 </span>รูปภพ  หรือแม้ไปสู่ภวัคคพรหม  ย่อมกลับสู่ทุคติอีกได้   เหล่าสัตว์
+<span class="LineNumber"> 020 </span>มีอายุยืนถึงเพียงนั้น  ก็ยังจุติเพราะสิ้นอายุ  ภพไหน ๆ ชื่อว่า  เที่ยง
+<span class="LineNumber"> 021 </span>ไม่มี  สมเด็จพระสัมมาสัมพุทธเจ้า  ผู้แสวงหาคุณอันยิ่งใหญ่ได้ตรัส</B>

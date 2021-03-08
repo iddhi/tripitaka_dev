@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       			<H1>ปัจจนียานุโลมนัย</H1> 
+<span class="LineNumber"> 002 </span>			      <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 003 </span>		[๖๑๐]  <B>เพราะนเหตุปัจจัย</B>    ในอารัมมณปัจจัย  มี ๙  วาระ. . . ฯลฯ
+<span class="LineNumber"> 004 </span>          	อนุโลมนัยก็ดี  ปัจจนียนัยก็ดี  อนุโลมปัจจนียนัยก็ดี  ปัจจนียานุโลม-
+<span class="LineNumber"> 005 </span>นัยก็ดี   แห่งปัญหาวาระ  ในกุสลติกะ ท่านนับไว้อย่างไร   พึงนับอย่างนั้น.
+
+<span class="LineNumber"> 006 </span>                 		<H1>อัปปมาณารัมมณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 007 </span>                          		     <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 008 </span>                             		<H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 009 </span>		[๖๑๑]  ๑.  อัปปมาณารัมมณธรรมที่เป็นเหตุ  อาศัยอัปป-
+<span class="LineNumber"> 010 </span>มาณารัมมณธรรมที่เป็นเหตุ   เกิดขึ้น   เพราะเหตุปัจจัย    มี ๓ วาระ
+<span class="LineNumber"> 011 </span>(วาระที่ ๑-๒-๓)
+<span class="LineNumber"> 012 </span>                	    ๔.  อัปปมาณารัมมณธรรมที่ไม่ใช่เหตุ    อาศัยอัปป-
+<span class="LineNumber"> 013 </span>มาณารัมมณธรรมที่ไม่ใช่เหตุ   เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 014 </span>(วาระที่  ๔-๕-๖)
+<span class="LineNumber"> 015 </span>                 	   ๗.  อัปปมาณารัมมณธรรมที่เป็นเหตุ     อาศัยอัปป- 
+<span class="LineNumber"> 016 </span>มาณารัมมณธรรมที่เป็นเหตุ  และอัปปมาณารัมมณธรรมที่ไม่ใช่เหตุ
+<span class="LineNumber"> 017 </span>เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ  (วาระที่ ๗-๘-๙)

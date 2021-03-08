@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>บุคคลที่เกิดอยู่ในปัญจโวการภูมิ   รูปขันธ์เคยดับ   และเวทนาขันธ์ก็เคย
+<span class="LineNumber"> 002 </span>ดับแก่บุคคลเหล่านั้นในภูมินั้น. 
+<span class="LineNumber"> 003 </span>         ก็หรือว่า     เวทนาขันธ์เคยดับแก่บุคคลใดในภูมิใด,     รูปขันธ์
+<span class="LineNumber"> 004 </span>ก็เคยดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม   ?                         
+<span class="LineNumber"> 005 </span>         บุคคลที่เกิดอยู่ในอรูปภูมิ  เวทนาขันธ์เคยดับแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 006 </span>ในภูมินั้น แต่รูปขันธ์ไม่ใช่เคยดับแก่บุคคลเหล่านั้นในภูมินั้น,  บุคคลที่
+<span class="LineNumber"> 007 </span>เกิดอยู่ในปัญจโวการภูมิ    เวทนาขันธ์เคยดับ    และรูปขันธ์ก็เคยดับแก่
+<span class="LineNumber"> 008 </span>บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 009 </span>                        <I>จบ   รูปขันธมูละ   เวทนาขันธมูลี</I>
+<span class="LineNumber"> 010 </span>                                       <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 011 </span>                                 <I>ปุคคโลกาสวาระ   จบ</I>
+<span class="LineNumber"> 012 </span>                                <I>อตีตวาระ   อนุโลม   จบ</I>

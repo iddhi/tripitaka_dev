@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>          	     <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>		[๗๙]  ในเหตุปัจจัย มี  ๙  วาระ  ในอารัมมณปัจจัย มี ๓  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>ในอวิคตปัจจัย มี ๙  วาระ.
+<span class="LineNumber"> 004 </span>            สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 005 </span>				<H1>ปริตตบทปัญหาวาระ</H1>
+<span class="LineNumber"> 006 </span>				     <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 007 </span>				   <H2>๑. เหตุปัจจัย</H2> 	
+<span class="LineNumber"> 008 </span>		[๘๐]  ๑.  ปริตตธรรมที่เป็นกุศล   เป็นปัจจัยแก่ปริตตธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นกุศล  ด้วยอำนาจของเหตุปัจจัย  มี  ๓  วาระ.
+<span class="LineNumber"> 010 </span>                      ๔.  ปริตตธรรมที่เป็นอกุศล  เป็นปัจจัยแก่ปริตตธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>                      ๗.  ปริตตธรรมที่เป็นอัพยากตะ   เป็นปัจจัยแก่ปริตต-
+<span class="LineNumber"> 013 </span>ธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 014 </span>                            <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๘๑]  ๑.  ปริตตธรรมที่เป็นกุศล    เป็นปัจจัยแก่ปริตตธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นกุศล  ด้วยอำนาจของอารัมมณปัจจัย  ฯลฯ  

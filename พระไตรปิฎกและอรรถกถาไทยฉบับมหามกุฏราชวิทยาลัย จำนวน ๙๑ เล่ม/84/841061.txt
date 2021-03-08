@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>โทมนัสสินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>โทมนัสสินทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๑๓๖๙]  บุคคลใดไม่ใช่เคยละโทมนัสสินทรีย์,   บุคคลนั้นก็
+<span class="LineNumber"> 004 </span>ไม่ใช่เคยเจริญอนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม   ?
+<span class="LineNumber"> 005 </span>         บุคคล ๔ จำพวก    ไม่ใช่เคยละโทมนัสสินทรีย์    แต่เคยเจริญ
+<span class="LineNumber"> 006 </span>อนัญญาตัญญัสสามีตินทรีย์,   บุคคล ๒ จำพวก    ไม่ใช่เคยละโทมนัส-
+<span class="LineNumber"> 007 </span>สินทรีย์  และก็ไม่ใช่เคยเจริญอนัญญาตัญญัสสามีตินทรีย์.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า     บุคคลใดไม่ใช่เคยเจริญอนัญญาตัญญัสสามีตินทรีย์
+<span class="LineNumber"> 009 </span>บุคคลนั้นก็ไม่ใช่เคยละโทมนัสสินทรีย์  ใช่ไหม   ?                        
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>        <I>จบ  โทมนัสสินทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี</I>
+
+<span class="LineNumber"> 012 </span><B>โทมนัสสินทริยมูละ   อัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 013 </span>         [๑๓๗๐]  บุคคลใดไม่ใช่เคยละโทมนัสสินทรีย์,   บุคคลนั้นก็
+<span class="LineNumber"> 014 </span>ไม่ใช่เคยเจริญอัญญินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่. 
+<span class="LineNumber"> 016 </span>         ก็หรือว่า   บุคคลใดไม่ใช่เคยเจริญอัญญินทรีย์   บุคคลนั้นก็ไม่ใช่
+<span class="LineNumber"> 017 </span>เคยละโทมนัสสินทรีย์  ใช่ไหม  ?

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นเนวาจยคามินาปจยคามิธรรม ฯลฯ 
+<span class="LineNumber"> 002 </span>อาศัยขันธ์  ๒. 
+<span class="LineNumber"> 003 </span>           ในปฏิสนธิขณะ  ขันธ์ทั้งหลายอาศัยหทยวัตถุ.
+
+<span class="LineNumber"> 004 </span>                                      <H1>๓.  อธิปติปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๐๒๓]  ๔.  <B>อาจยคามิธรรม   อาศัยอาจยคามิธรรม   เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะอธิปติปัจจัย</B>   มี ๓ วาระ  (วาระ ๑ - ๓)
+<span class="LineNumber"> 007 </span>                         ๔.  <B>อปจยคามิธรรม  ฯลฯ     เพราะอธิปติปัจจัย</B>    มี  ๓
+<span class="LineNumber"> 008 </span>วาระ   (วาระ๔- ๖)
+<span class="LineNumber"> 009 </span>                         ๗.  <B>เนวาจยคามินาปจยคามิธรรม  อาศัย เนวาจยคามิ-
+<span class="LineNumber"> 010 </span>นาปจยคามิธรรม  ฯลฯ    มี ๑ วาระ  ปฏิสนธิ  ไม่มี.</B>
+<span class="LineNumber"> 011 </span>          คือ  มหาภูตรูป ๓ อาศัยมหาภูตรูป ๑ ฯลฯ จิตตสมุฏฐานรูปที่เป็น
+<span class="LineNumber"> 012 </span>อุปาทารูป  อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 013 </span>                         ๘.  <B>เนวาจยคามินาปจยคามิธรรม อาศัยอาจยคามิธรรม
+<span class="LineNumber"> 014 </span>และเนวาจยคามินาปจยคามิธรรม  เกิดขึ้น  เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ   จิตตสมุฏฐานรูป  อาศัยขันธ์ที่เป็นอปจยคามิธรรม   และมหาภูต-
+<span class="LineNumber"> 016 </span>รูปทั้งหลาย.                                                                            
+<span class="LineNumber"> 017 </span>                         ๙.  <B>เนวาจยคามินาปจยคามิธรรม     อาศัยอปจยคามิ-
+<span class="LineNumber"> 018 </span>ธรรม  และเนวาจยคามินาปจยคามิธรรม  ฯลฯ   เพราะอธิปติปัจจัย</B>
+<span class="LineNumber"> 019 </span>           คือ   จิตตสมุฏฐานรูป    อาศัยขันธ์เป็นอปจยคามิธรรม    และมหา-
+<span class="LineNumber"> 020 </span>ภูตรูปทั้งหลาย.

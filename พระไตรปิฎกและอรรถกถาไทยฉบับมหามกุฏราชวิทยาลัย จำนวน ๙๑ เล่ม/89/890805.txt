@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                             <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 002 </span>                                              <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                           <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๗๑๕] ๑.  <B>อุเบกขาสหคตธรรม เป็นปัจจัยแก่อุเบกขาสหคต-
+<span class="LineNumber"> 005 </span>ธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ   เหตุทั้งหลายที่เป็นอุเบกขาสหคตธรรม   เป็นปัจจัยแก่สัมปยุตต-
+<span class="LineNumber"> 007 </span>ขันธ์ทั้งหลาย  ด้วยอํานาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ  ฯลฯ
+<span class="LineNumber"> 009 </span>         พึงกระทำ ๔ วาระ  อย่างนี้เหมือนกับสวิตักกทุกะ.
+
+<span class="LineNumber"> 010 </span>                           <H2>๒.  อารัมมณปัจจัย   ๓.  อธิปติปัจจัย</H2>
+<span class="LineNumber"> 011 </span>          [๗๐๖] ๑.  <B>อุเบกขาสหคตธรรม เป็นปัจจัยแก่อุเบกขาสหคต-
+<span class="LineNumber"> 012 </span>ธรรม  ด้วยอำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 013 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของอธิปติปัจจัย</B>.
+<span class="LineNumber"> 014 </span>         อารัมมณปัจจัยก็ดี    อธิปติปัจจัยก็ดี    พึงให้พิสดารเหมือนกับสัปปี-
+<span class="LineNumber"> 015 </span>ติกทุกะ  ต่างกันแต่คำว่า  อุเบกขา.
+
+<span class="LineNumber"> 016 </span>                                         <H2>๔.  อนันตรปัจจัย</H2>
+<span class="LineNumber"> 017 </span>         [๗๑๗] ๑.  <B>อุเบกขาสหคตธรรม เป็นปัจจัยแก่อุเบกขาสหคต-
+<span class="LineNumber"> 018 </span>ธรรม  ด้วยอำนาจของอนันตรปัจจัย</B>

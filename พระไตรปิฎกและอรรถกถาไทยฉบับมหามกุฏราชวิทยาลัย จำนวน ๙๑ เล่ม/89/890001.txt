@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>พระอภิธรรมปิฎก</H2>
+<span class="LineNumber"> 002 </span>                                             <H3>เล่มที่  ๗</H3>
+<span class="LineNumber"> 003 </span>                                     <H2>ปัฏฐาน  ภาคที่  ๕</H2><SUP>๑</SUP>
+<span class="LineNumber"> 004 </span>      <H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4> 
+<span class="LineNumber"> 005 </span>                                 <H2>อนุโลมทุกปัฏฐาน   (ต่อ)</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>๕๕. สารัมมณทุกะ</H2>
+<span class="LineNumber"> 007 </span>                                          <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 008 </span>                                          <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 009 </span>                                        <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 010 </span>         [๑]  ๑.  <B>สารัมณธรรม    อาศัยสารัมมณธรรม    เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>         คือ  ขันธ์ ๓    อาศัยขันธ์  ๑  ที่เป็นสารัมมณธรรม    เกิดขึ้น  ฯลฯ
+<span class="LineNumber"> 013 </span>อาศัยขันธ์ ๒.
+<span class="LineNumber"> 014 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 015 </span>                ๒.  <B>อนารัมมณธรรม    อาศัยสารัมมณธรรม    เกิดขึ้น
+<span class="LineNumber"> 016 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  จิตตสมุฏฐานรูปทั้งหลาย   อาศัยขันธ์ทั้งหลายที่เป็นสารัมมณธรรม
+<span class="LineNumber"> 018 </span>เกิดขึ้น
+
+<span class='footnote'>๑.  บาลีเล่มที่  ๔๓.</span>

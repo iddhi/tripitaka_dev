@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>ปัจจุปปันนาตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 004 </span><H2>ทุกขสัจจมูละ สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๘๗๗]   ทุกขสัจจะกำลังเกิดแก่บุคคลใด,      สมุทยสัจจะก็เคย
+<span class="LineNumber"> 006 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   สมุทยสัจจะเคยเกิดแก่บุคคลใด, ทุกขสัจจะกำลังเกิด
+<span class="LineNumber"> 009 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         บุคคลทั้งหมดกำลังตายก็ดี   ในภังคขณะแห่งจิตในปวัตติกาลก็ดี
+<span class="LineNumber"> 011 </span>ในอุปปาทขณะแห่งมัคคจิตและผลจิตในอรูปภูมิก็ดี    สมุทยสัจจะเคยเกิด
+<span class="LineNumber"> 012 </span>แก่บุคคลเหล่านั้น แต่ทุกขสัจจะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น, บุคคล
+<span class="LineNumber"> 013 </span>ทั้งหมดกำลังเกิดก็ดี    ในอุปปาทขณะแห่งจิตในปวัตติกาลก็ดี     สมุทย-
+<span class="LineNumber"> 014 </span>สัจจะเคยเกิด   และทุกขสัจจะก็กำลังเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 015 </span>                          <I>จบ   ทุกขสัจจมูละ  สมุทยสัจจมูลี</I>

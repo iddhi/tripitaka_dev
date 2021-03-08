@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>อรรถกถาอุปปาทสังยุต</H1>   
+
+<span class="LineNumber"> 002 </span>           คำทั้งหมดในอุปปาทสังยุตชัดเจนแล้วทั้งนั้น.
+<span class="LineNumber"> 003 </span>                                <I>จบ  อรรถกถาอุปปาทสังยุต</I>
+
+<span class="LineNumber"> 004 </span>                  <H2>รวมพระสูตรที่มีในสังยุต นี้  คือ</H2>
+<span class="LineNumber"> 005 </span>           <B>๑.  จักขุสูตร   ๒.  รูปสูตร   ๓. วิญญาณสูตร   ๔.   ผัสสสูตร
+<span class="LineNumber"> 006 </span>๕. เวทนาสูตร ๖. สัญญาสูตร  ๗. เจตนาสูตร  ๘. ตัณหาสูตร ๙. ธาตุสูตร
+<span class="LineNumber"> 007 </span>๑๐.  ขันธสูตร.</B>

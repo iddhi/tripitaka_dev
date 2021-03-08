@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           อนาจารต่างโดยชนิดมีเล่นการพนันเป็นต้น  ด้วยเครื่องเล่นมี 
+<span class="LineNumber"> 002 </span>สกา<SUP>๑</SUP>เป็นอาทิ  ชื่อว่าเล่นทางกาย.
+<span class="LineNumber"> 003 </span>           [๕๐๒]  อนาจารต่างโดยชนิดมีทำเปิงมางปากเป็นต้น  ชื่อว่า
+<span class="LineNumber"> 004 </span>เล่นทางวาจา.
+<span class="LineNumber"> 005 </span>           อนาจารทางทวารทั้ง ๒ ต่างโดยมีฟ้อนและขับเป็นต้น  ชื่อว่า
+<span class="LineNumber"> 006 </span>เล่นทางกายและทางวาจา.
+<span class="LineNumber"> 007 </span>           ความก้าวล่วงสิกขาบทที่ทรงบัญญัติในกายทวาร  ชื่อว่าอนาจาร
+<span class="LineNumber"> 008 </span>ทางกาย.
+<span class="LineNumber"> 009 </span>           ความก้าวล่วงสิกขาบทที่ทรงบัญญัติในวจีทวาร  ชื่อว่าอนาจาร
+<span class="LineNumber"> 010 </span>ทางวาจา.
+<span class="LineNumber"> 011 </span>            ความก้าวล่วงสิกขาบทที่ทรงบัญญัติในทวารทั้ง ๒ ชื่อว่าอนาจาร
+<span class="LineNumber"> 012 </span>ืทางกายทวารและทางวจีทวาร.
+<span class="LineNumber"> 013 </span>           สองบทว่า  <B>กายิเกน  อุปฆาติเกน</B>  ได้แก่  ด้วยการไม่ศึกษา
+<span class="LineNumber"> 014 </span>สิกขาบทที่ทรงบัญญัติในกายทวาร.
+<span class="LineNumber"> 015 </span>           จริงอยู่  ภิกษุใดไม่ศึกษาสิกขาบทนั้น,  ภิกษุนั้นชื่อว่าผลาญ
+<span class="LineNumber"> 016 </span>สิกขาบทนั้น.  เพราะเหตุนั้น การไม่ศึกษานั้น ของภิกษุนั้น  ท่านจึง
+<span class="LineNumber"> 017 </span>กล่าวว่า  การผลาญเป็นไปทางกาย.  แม้ใน ๒ สิกขาบทที่เหลือ  ก็
+<span class="LineNumber"> 018 </span>นัยนี้แล.
+<span class="LineNumber"> 019 </span>           ข้อว่า <B>กายิเกน  มิจฺฉาชีเวน </B>ได้แก่  ด้วยการรับใช้ของ
+
+<span class='footnote'>๑.  ปาสกาทีหิ,  ปาสก=Throw=ทอดลูกบาท-เล่นสกา</span>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  288
+	
+<span class="LineNumber"> 002 </span>		โกสลวิหาริตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	สทฺธายาหํ ปพฺพชิโตติ อายสฺมโต โกสลวิหาริตฺเถรสฺส 
+<span class="LineNumber"> 004 </span>คาถา ฯ กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยมฺปิ  กิร  ปทุมุตฺตรสฺส  ภควโต  กาเล  กุสลพีชํ  โรเปตฺวา 
+<span class="LineNumber"> 006 </span>ตํ  ตํ ปุฺํ อกาสิ ฯ  เสสํ  อฺชนวนิยตฺเถรวตฺถุสทิสเมว ฯ
+<span class="LineNumber"> 007 </span>อยํ  ปน  วิเสโส
+<span class="LineNumber"> 008 </span>	อยํ กิร วุตฺตนเยน ปพฺพชิตฺวา  กตปุพฺพกิจฺโจ  โกสลรฏฺเ€ 
+<span class="LineNumber"> 009 </span>อฺตรสฺมึ  คาเม เอกํ อุปาสกกุลํ นิสฺสาย อรฺเ  วิหรติ 
+<span class="LineNumber"> 010 </span>ตํ  โส  อุปาสโก  รุกฺขมูเล  วสนฺตํ  ทิสฺวา  กุฏิกํ  กาเรตฺวา 
+<span class="LineNumber"> 011 </span>อทาสิ ฯ  เถโร  กุฏิกายํ  วิหรนฺโต  อาวาสสปฺปาเยน  สมาธานํ 
+<span class="LineNumber"> 012 </span>ลภิตฺวา  วิปสฺสนํ  อุสฺสุกฺกาเปตฺวา น จิรสฺเสว อรหตฺตํ 
+<span class="LineNumber"> 013 </span>ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 014 </span>		หิมวนฺตสฺสาวิทูเร		วสามิ ปณฺณสนฺถเร  
+<span class="LineNumber"> 015 </span>		ฆาเสสุ เคธมาปนฺโน	เสยฺยสีโล จหํ ตทา ฯ  
+<span class="LineNumber"> 016 </span>		ขณนฺตาลุกลมฺพานิ (๒)  พิฬาลิตกฺกลานิ จ  
+<span class="LineNumber"> 017 </span>		โลกํ ภลฺลาตกํ พิลฺลํ(๓)	อาหตฺวา ปฏิยาทิตํ ฯ  
+<span class="LineNumber"> 018 </span>		ปทุมุตฺตโร โลกวิทู	อาหุตีนํ ปฏิคฺคโห  
+<span class="LineNumber"> 019 </span>		มม สงฺกปฺปมฺาย	อาคจฺฉิ มม สนฺติกํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๒/๑๑๑/๒๐๗ ฯ ๒. สฺยา. ขณมาลุกลมฺพานิ ฯ 
+<span class="LineNumber"> 021 </span># สี. วนมาลุกลมฺพานิ ฯ  ยุ. ขนตาลุกลมฺพานิ ฯ  
+<span class="LineNumber"> 022 </span># ๓. สฺยา. เพลฺลํ ฯ

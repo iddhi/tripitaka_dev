@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  จตุตฺถวคฺเค ติสฺสตฺเถรคาถาวณฺณนา หน้า 227
+
+<span class="LineNumber"> 002 </span>อาทิตฺตสีโส  ปุริโส  ตสฺส  นิพฺพาปนตฺถํ  วิริยํ  อารภติ ตาทิสํ 
+<span class="LineNumber"> 003 </span>ปโยคํ กโรติ เอวเมวํ ภิกฺขุ กามราคปฺปหานาย สโต 
+<span class="LineNumber"> 004 </span>อปฺปมตฺโต อติวิย อุสฺสาหชาโต หุตฺวา วิหเรยฺยาติ ฯ  
+<span class="LineNumber"> 005 </span>	เอวํ  ภควา  ตสฺส  เถรสฺส  โกธูปายาสวูปสมาย
+<span class="LineNumber"> 006 </span>โอวาทํ เทนฺโต ตเทกฏฺ€ตาย  กามราคปฺปหานสีเสน  เทสนํ
+<span class="LineNumber"> 007 </span>นิฏฺ€าเปสิ ฯ  เถโร  อิมํ  คาถํ  สุตฺวา  สํวิคฺคหทโย วิปสฺสนาย 
+<span class="LineNumber"> 008 </span>ยุตฺตปฺปยุตฺโต  วิหาสิ ฯ  ตสฺส  อชฺฌาสยํ  ตฺวา  สตฺถา  สํยุตฺตเก 
+<span class="LineNumber"> 009 </span>ติสฺสตฺเถรสุตฺตํ  (๑)  เทเสสิ ฯ  โส เทสนาปริโยสาเน อรหตฺเต
+<span class="LineNumber"> 010 </span>ปติฏฺ€าสิ ฯ เตน วุตฺตํ อปทาเน (๒)  
+<span class="LineNumber"> 011 </span>		เทวโลเก มนุสฺเส วา (๓)  อนุโภตฺวา อุโภ ยเส  
+<span class="LineNumber"> 012 </span>		อวสาเน จ นิพฺพานํ	สิวํ ปตฺโต อนุตฺตรํ ฯ  
+<span class="LineNumber"> 013 </span>		สมฺพุทฺธํ อุทฺทิสิตฺวาน	โพธึ วา ตสฺส สตฺถุโน  
+<span class="LineNumber"> 014 </span>		โย ปุฺํ ป€วี(๔) โปโส  ตสฺส กึ นาม ทุลฺลภํ ฯ  
+<span class="LineNumber"> 015 </span>		มคฺเค ผเล อาคเม จ	ฌานาภิฺาคุเณสุ จ  
+<span class="LineNumber"> 016 </span>		อฺเสํ อธิโก หุตฺวา	นิพฺพายามิ(๕) อนาสโว ฯ 
+<span class="LineNumber"> 017 </span>		ปุเรหํ โพธิยา ปตฺตํ	ฉฑฺเฑตฺวา หฏฺ€มานโส  
+<span class="LineNumber"> 018 </span>		อิเมหิ วีสตงฺเคหิ		สมงฺคี โหมิ สพฺพถา(๖) ฯ  
+<span class="LineNumber"> 019 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สํ. นิ. ๑๖/๗๑๓ ฯ  ๒. ขุ. อ. ๓๓/๑๑๘/๑๗๑ ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. มนุสฺเสสุ ฯ ม. มนุสฺเส จ ฯ  ๔. สฺยา. ปสเว ฯ  ม. ปสวี ฯ
+<span class="LineNumber"> 022 </span># ๕. สฺยา. นิพฺพายติ ฯ  สี. อธิโก โหติ นิพฺพายติ ฯ
+<span class="LineNumber"> 023 </span># ๖. สฺยา. สพฺพทา ฯ 

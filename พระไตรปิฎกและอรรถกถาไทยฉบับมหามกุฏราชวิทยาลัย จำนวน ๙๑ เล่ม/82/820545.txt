@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลที่จิตเกิดไม่ได้เหล่านั้นกำลังตาย  มนายตนะไม่ใช่กำลังดับ 
+<span class="LineNumber"> 002 </span>แก่บุคคลเหล่านั้น    แต่รูปายตนะกำลังดับแก่บุคคลเหล่านั้น,   เมื่อบุคคล
+<span class="LineNumber"> 003 </span>เหล่านั้นทั้งหมดกำลังเกิด   มนายตนะไม่ใช่กำลังดับ  และรูปายตนะก็
+<span class="LineNumber"> 004 </span>ไม่ใช่กำลังดับแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 005 </span>                            <I>จบ  รูปายตนมูละ  มนายตนมูลี</I>
+<span class="LineNumber"> 006 </span><H2>รูปายตนมูละ   มมายตนมูลี :-</H2> 
+<span class="LineNumber"> 007 </span>         [๕๔๓]   รูปายตนะไม่ใช่กำลังดับแก่บุคคลใด,        ธัมมายตนะ
+<span class="LineNumber"> 008 </span>ก็ไม่ใช่กำลังดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         บุคคลที่รูปะเกิดไม่ได้เหล่านั้นกำลังตาย    รูปายตนะไม่ใช่กำลัง
+<span class="LineNumber"> 010 </span>ดับแก่บุคคลเหล่านั้น   แต่ธัมมายตนะกำลังแก่บุคคลเหล่านั้น,     เมื่อ
+<span class="LineNumber"> 011 </span>บุคคลเหล่านั้นทั้งหมดกำลังเกิด     รูปายตนะไม่ใช่กำลังดับ    และธัมมา-
+<span class="LineNumber"> 012 </span>ยตนะก็ไม่ใช่กำลังดับแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า     ธัมมายตนะไม่ใช่กำลังดับแก่บุคคลใด,    รูปายตนะ
+<span class="LineNumber"> 014 </span>ก็ไม่ใช่กำลังดับแก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>                            <I>จบ  รูปายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 017 </span>                                         <I>รูปายตนมูล  จบ</I>

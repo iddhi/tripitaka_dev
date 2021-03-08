@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  มหาวคฺควณฺณนา  หน้า  214
+
+<span class="LineNumber"> 002 </span>	จตฺตาโร  สติปฏฺ€านาติ  กายานุปสฺสนาสติปฏฺ€านํ  
+<span class="LineNumber"> 003 </span>เวทนานุปสฺสนาสติปฏฺ€านํ  จิตฺตานุปสฺสนาสติปฏฺ€านํ  ธมฺมา-
+<span class="LineNumber"> 004 </span>นุปสฺสนาสติปฏฺ€านํ ฯ
+<span class="LineNumber"> 005 </span>	ปุพฺพภาเค  จุทฺทสวิเธน  กายํ  ปริคฺคณฺหโต  กายา-
+<span class="LineNumber"> 006 </span>นุปสฺสนาสติปฏฺ€านํ 
+<span class="LineNumber"> 007 </span>	นววิเธน  เวทนํ  ปริคฺคณฺหโต  เวทนานุปสฺสนาสติปฏฺ€านํ
+<span class="LineNumber"> 008 </span>	โสฬสวิเธน  จิตฺตํ  ปริคฺคณฺหโต  จิตฺตานุปสฺสนาสติปฏฺ€านํ  
+<span class="LineNumber"> 009 </span>	ปฺจวิเธน  ธมฺเม  ปริคฺคณฺหโต  ธมฺมานุปสฺสนาสติปฏฺ€านํ 
+<span class="LineNumber"> 010 </span>เวทิตพฺพํ ฯ  โลกุตฺตรํ  ปน  อิธ  น  อธิปฺเปตํ ฯ 
+<span class="LineNumber"> 011 </span>	ปฺจงฺคิโก สมาธีติ(๑) ปฺจ องฺคานิ อสฺส สนฺตีติ  
+<span class="LineNumber"> 012 </span>ปฺจงฺคิโก ฯ  จตุตฺถชฺฌานสมาธิ ฯ  ปีติผรณตา  สุขผรณตา
+<span class="LineNumber"> 013 </span>เจโตผรณตา  อาโลกผรณตา  ปจฺจเวกฺขณนิมิตฺตนฺติ  ปฺจ  
+<span class="LineNumber"> 014 </span>องฺคานิ ฯ
+<span class="LineNumber"> 015 </span>	ปีตึ  ผรมานา อุปฺปชฺชตีติ ทฺวีสุ  ฌาเนสุ  ปฺา
+<span class="LineNumber"> 016 </span>ปีติผรณตา  นาม ฯ
+<span class="LineNumber"> 017 </span>	สุขํ  ผรมานา  อุปฺปชฺชตีติ  ตีสุ  ฌาเนสุ  ปฺา
+<span class="LineNumber"> 018 </span>สุขผรณตา  นาม ฯ 
+<span class="LineNumber"> 019 </span>	ปเรสํ  เจโต  ผรมานา  อุปฺปชฺชตีติ  เจโตปริยปฺา  
+<span class="LineNumber"> 020 </span>เจโตผรณตา  นาม ฯ 
+<span class="LineNumber"> 021 </span># ๑. สฺยา. สมฺมาสมาธิ ฯ 

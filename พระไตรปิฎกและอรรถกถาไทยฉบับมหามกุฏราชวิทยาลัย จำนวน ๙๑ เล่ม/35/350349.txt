@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                   		 <h1>๒.  ปฏิภาณสูตร</h1>  
+<span class="LineNumber"> 002 </span>                                     <h2>ว่าด้วยบุคคล  ๔  จำพวก</h2>
+<span class="LineNumber"> 003 </span>            [๑๓๒]    ดูก่อนภิกษุทั้งหลาย  บุคคล  ๔ จำพวกนี้มีปรากกอยู่ในโลก ๔
+<span class="LineNumber"> 004 </span>จำพวก   เป็นไฉน  คือ
+<span class="LineNumber"> 005 </span><B>ยุตฺตปฏิภาโณ  น  มุตฺตปฏิภาโณ</B> 		บุคคลฉลาดผูก ไม่ฉลาดแก้
+<span class="LineNumber"> 006 </span><B>มุตฺตปฏิภาโณ  น  ยุตฺตปฏิภาโณ</B>		บุคคลฉลาดแก้  ไม่ฉลาดผู้
+<span class="LineNumber"> 007 </span><B>ยุตฺตปฏิภาโณ  จ  มุตฺตปฏิภาโณ  จ</B>     	บุคคลฉลาดทั้งผูกทั้งแก้
+<span class="LineNumber"> 008 </span><B>เนว  ยุตฺตปฏิภาโณ  น  มุตฺตปฏิภาโณ</B>  	บุคคลไม่ฉลาดทั้งผูกทั้งแก้
+<span class="LineNumber"> 009 </span>            นี้แล  บุคคล  ๔  จำพวก  มีปรากฏอยู่ในโลก.
+<span class="LineNumber"> 010 </span>                                             <I>จบปฏิภาณสูตรที่  ๒</I>
+<span class="LineNumber"> 011 </span>                	        <h1>อรรถกถาปฏิภาณสูตร</h1>
+<span class="LineNumber"> 012 </span>            พึงทราบวินิจฉัยในปฏิภาณสูตรที่   ๒  ดังต่อไปนี้  :-   
+<span class="LineNumber"> 013 </span>            บทว่า   <B>ยุตฺตปฏิภาโณ  โน  มุตฺตปฏิภาโณ</B>   ความว่า   บุคคล
+<span class="LineNumber"> 014 </span>เมื่อแก้ปัญหาก็แก้แต่ปัญหาที่ผูกเท่านั้น     แต่แก้ได้ไม่เร็ว  คือค่อย ๆ  แก้.  บท
+<span class="LineNumber"> 015 </span>ทั้งปวง  พึงทราบโดยนัยนี้.
+<span class="LineNumber"> 016 </span>                                    <I>จบอรรถกถาปฏิภาณสูตรที่  ๒</I>

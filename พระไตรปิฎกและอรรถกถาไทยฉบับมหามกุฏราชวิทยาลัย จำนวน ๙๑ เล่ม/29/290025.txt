@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>พิสดารไว้แล้วในหนหลัง.  ในสองสูตรนี้   ตรัสถึงเวทนาอันเที่ยวไปในการ
+<span class="LineNumber"> 002 </span>พิจารณา 
+<span class="LineNumber"> 003 </span>                        <I>จบ  อรรถกถาผัสสมูลกสูตรที่ ๑๐ 
+<span class="LineNumber"> 004 </span>                        จบ  ปฐทกสคถวรรคที่ ๑</I>
+
+<span class="LineNumber"> 005 </span>                    <H2>รวมพระสูตรที่มีในวรรคนี้ คือ</H2>
+<span class="LineNumber"> 006 </span>           ๑.  สมาธิสูตร  ๒.  สุขสูตร  ๓.  ปหานสูตร  ๔.  ปาตาลสูตร
+<span class="LineNumber"> 007 </span>๕.  ทัฏฐัพพสูตร   ๖.  สัลลัตสูตร   ๗.   ปฐมเคลัญญสูตร   ๘.  ทุติย-
+<span class="LineNumber"> 008 </span>เคลัญญสูตร   ๙.   อนิจจสูตร  ๑๐.  ผัสสมูลกสูตร.

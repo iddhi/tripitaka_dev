@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         บทว่า  <B>ทุกฺขกฺขนฺธสฺส</B>  (กองทุกข์)    ได้แก่    ประชุมแห่งทุกข์
+<span class="LineNumber"> 002 </span>มิใช่ประชุมแห่งสัตว์  มิใช่ประชุมแห่งวิปัลลาสมีความสุขและความงามเป็นต้น   
+<span class="LineNumber"> 003 </span>         บทว่า  <B>สมุทโย</B>  ได้แก่   ความเกิด.
+<span class="LineNumber"> 004 </span>         บทว่า  <B>โหติ</B>  ได้แก่ ย่อมเกิด.
+<span class="LineNumber"> 005 </span>         พึงทราบวินิจฉัยโดยอรรถในปฏิจจสมุปบาทนี้   ด้วยประการฉะนี้ 
+
+<span class="LineNumber"> 006 </span>                            <H1>ว่าด้วยวินิจฉัยโดยลักษณะเป็นต้น</H1> 
+<span class="LineNumber"> 007 </span>         ข้อว่า  โดยลักษณะเป็นต้น  ได้แก่  โดยธรรม  ๔  มีลักษณะเป็นต้น
+<span class="LineNumber"> 008 </span>แห่งปฏิจจสมุปบาทมีอวิชชาเป็นต้น  อย่างไร  ?  คือ  <B>อวิชชา</B>
+<span class="LineNumber"> 009 </span>         <B>๑.  อาณลกฺณา</B>               มีความไม่รู้เป็นลักษณะ
+<span class="LineNumber"> 010 </span>              <B>สมฺโมหนรสา</B>              มีความหลงเป็นกิจ
+<span class="LineNumber"> 011 </span>              <B>ฉาทนปจฺจุปฏฺ€านา</B>    มีความปกปิดสภาวะแห่งอารมณ์
+<span class="LineNumber"> 012 </span>                                                 เป็นปัจจุปัฏฐาน 
+<span class="LineNumber"> 013 </span>               <B>อาสวปทฏฺ€านา</B>         มีอาสวะเป็นปทัฏฐาน
+<span class="LineNumber"> 014 </span>         <B>๒.  อภิสํขรณลกฺขณา</B>       สังขารทั้งหลายมีการปรุงแต่งเป็น
+<span class="LineNumber"> 015 </span>                                                 ลักษณะ
+<span class="LineNumber"> 016 </span>               <B>อายูหนรสา</B>                มีความขวนขวายเป็นกิจ
+<span class="LineNumber"> 017 </span>               <B>เจตนาปจฺจุปฏฺ€านา</B>   มีเจตนาเป็นปัจจุปัฏฐาน
+<span class="LineNumber"> 018 </span>               <B>อวิชฺชาปทฏฺ€านา</B>       มีอวิชชาเป็นปทัฏฐาน
+<span class="LineNumber"> 019 </span>         <B>๓.  วิชานนลกฺขณํ</B>            วิญญาณมีการรู้อารมณ์เป็นลักษณะ
+<span class="LineNumber"> 020 </span>               <B>ปุพฺพงฺคมรสํ</B>               มีการเป็นประธานเป็นกิจ

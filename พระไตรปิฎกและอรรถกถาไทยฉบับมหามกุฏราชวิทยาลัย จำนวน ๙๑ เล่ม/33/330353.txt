@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>สูตรที่  ๙<SUP>๑</SUP></H1>
+
+<span class="LineNumber"> 002 </span>       <H4>ว่าด้วยธรรม ๒ อย่างที่เป็นไปในส่วนแห่งวิชชา</H4>
+
+<span class="LineNumber"> 003 </span>         [๒๗๕]   ๒๙.  ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่างเป็นไปในส่วน
+<span class="LineNumber"> 004 </span>แห่งวิชชา  ธรรม ๒ อย่างเป็นไฉน    คือ สมถะ ๑  วิปัสสนา ๑  ดูก่อน
+<span class="LineNumber"> 005 </span>ภิกษุทั้งหลาย     สมถะที่ภิกษุเจริญแล้ว    ย่อมเสวยประโยชน์อะไร    ย่อม
+<span class="LineNumber"> 006 </span>อมรมจิต     จิตที่อบรมแล้ว   ย่อมเสวยประโยชน์อะไร     ย่อมละราคะได้
+<span class="LineNumber"> 007 </span>วิปัสสนาที่อบรมแล้ว  ย่อมเสวยประโยชน์อะไร  ย่อมอบรมปัญญา   ปัญญา
+<span class="LineNumber"> 008 </span>ที่อบรมแล้ว  ย่อมเสวยประโยชน์อะไร  ย่อมละวิชชาได้.
+<span class="LineNumber"> 009 </span>                                                 จบสูตรที่  ๙
+
+<span class="LineNumber"> 010 </span>                  <H1>สูตรที่ ๑๐</H1>
+
+<span class="LineNumber"> 011 </span>         [๒๗๖] ๓๐.  ดูก่อนภิกษุทั้งหลาย      จิตที่เศร้าหมองด้วยราคะ
+<span class="LineNumber"> 012 </span>ย่อมไม่หลุดพ้น   หรือปัญญาที่เศร้าหมองด้วยอวิชชา   ย่อมไม่เจริญ   ด้วย
+<span class="LineNumber"> 013 </span>ประการฉะนั้นแล    ดูก่อนภิกษุทั้งหลาย    เพราะสำรอกราคะได้    จึงชื่อว่า
+<span class="LineNumber"> 014 </span>เจโตวิมุตติ  เพราะสำรอกอวิชชาได้   จึงชื่อว่าปัญญาวิมุตติ.
+<span class="LineNumber"> 015 </span>                                              จบสูตรที่   ๑๐
+<span class="LineNumber"> 016 </span>                                            จบพาลวรรคที่  ๓
+
+<span class="LineNumber"> 017 </span>                  <H1>อรรถกถาสูตรที่  ๑๑<SUP>๒</SUP></H1>
+
+<span class="LineNumber"> 018 </span>         ใน<B>สูตรที่   ๑๑</B>   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 019 </span>         บทว่า <B>วิชฺชาภาคิยา</B>  แปลว่า  เป็นไปในส่วนวิชชา.  บทว่า  <B>สมโถ</B>
+
+<span class='footnote'>๑.  สูตรที่  ๙-๑๐ มีเนื้อความติดต่อกัน  ควรจะรวมไว้ในสูตรเดียวกัน  แต่บาลีแยกเป็น ๒ สูตร</span>
+<span class='footnote'>อรรถกถารวมไว้เป็นสูตรเดียวกัน  คือสูตรที่  ๑๑.</span>
+<span class='footnote'>๒.  บาลีข้อ  ๒๗๕-๒๗๖.</span>

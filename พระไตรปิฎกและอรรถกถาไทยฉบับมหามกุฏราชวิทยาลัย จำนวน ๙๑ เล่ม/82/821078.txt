@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่าวจีสังขาร,  ไม่ชื่อว่าจิตตสังขาร   ใช่ไหม ?
+<span class="LineNumber"> 002 </span>         จิตตสังขาร    ไม่ชื่อว่าวจีสังขาร     แต่ชื่อว่าจิตตสังขาร      เว้น
+<span class="LineNumber"> 003 </span>วจีสังขารและจิตตสังขารเสียแล้ว  ธรรมที่เหลือไม่ชื่อว่าวจีสังขารและ 
+<span class="LineNumber"> 004 </span>ไม่ชื่อว่าจิตตสังขาร.
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่าจิตตสังขาร,  ไม่ชื่อว่าวจีสังขาร   ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         วจีสังขาร     ไม่ชื่อว่าจิตตสังขาร     แต่ชื่อว่าวจีสังขาร       เว้น
+<span class="LineNumber"> 007 </span>จิตตสังขารและวจีสังขารเสียแล้ว     ธรรมที่เหลือไม่ชื่อว่าจิตตสังขารและ
+<span class="LineNumber"> 008 </span>ไม่ชื่อว่าวจีสังขาร.
+<span class="LineNumber"> 009 </span>                               <I>สุทธขันธวาระ  ปัจจนิก  จบ</I>
+<span class="LineNumber"> 010 </span>                                       <I>นิทเทสวาระ  จบ</I>
+<span class="LineNumber"> 011 </span>                                     <I>ปัณณัตติวาระ  จบ</I>

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                        <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๓๘๐] ๑.  <B>อาสวสัมปยุตตธรรม  เจือกับอาสวสัมปยุตตธรรม 
+<span class="LineNumber"> 005 </span>เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ.</B>
+<span class="LineNumber"> 006 </span>                             <H1>การนับจํานวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 007 </span>           [๓๘๑]  ในเหตุปัจจัย มี ๖ วาระ  ในอารัมมณปัจจัย มี ๖ วาระ  ใน
+<span class="LineNumber"> 008 </span>อธิปติปัจจัย มี ๖ วาระ  ในปัจจัยทั้งปวง มี ๖ วาระ  ในวิปากปัจจัย มี ๑ วาระ
+<span class="LineNumber"> 009 </span>ฯลฯ ในอวิคตปัจจัย มี ๖ วาระ.
+<span class="LineNumber"> 010 </span>                                          <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                            <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 012 </span>                                          <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 013 </span>           [๓๘๒] ๑.  <B>อาสววิปปยุตตธรรม    เจือกับอาสวสัมปยุตตธรรม
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  โมหะ  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ   เจือกับ
+<span class="LineNumber"> 016 </span>ขันธ์ทั้งหลาย  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.

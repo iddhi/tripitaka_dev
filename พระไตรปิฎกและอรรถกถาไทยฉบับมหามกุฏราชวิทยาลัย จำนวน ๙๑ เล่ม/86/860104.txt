@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>สหชาตวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                            <H1>อนุโลมนัย</H1> 
+<span class="LineNumber"> 003 </span>         [๑๓๑๐]  <B>วิปากธรรม  เกิดร่วมกับวิปากธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 004 </span>เหตุปัจจัย.</B>
+<span class="LineNumber"> 005 </span>         คือ  ขันธ์ ๓ เกิดร่วมกับขันธ์ ๑ ที่เป็นวิบากเกิดขึ้น, ขันธ์ ๑ เกิดร่วม
+<span class="LineNumber"> 006 </span>กับขันธ์ ๓  เกิดขึ้น,  ขันธ์ ๒ เกิดร่วมกับขันธ์ ๒ เกิดขึ้น ฯลฯ
+<span class="LineNumber"> 007 </span>         ในเหตุปัจจัย   มี ๑๓ วาระ . . .   ในอวิคตปัจจัย   มี ๑๓ วาระ.
+ 
+<span class="LineNumber"> 008 </span>                                             <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 009 </span>         ในนเหตุปัจจัย  มี  ๑๐ วาระ ฯลฯ  ในโนวิคตปัจจัย   มี ๕ วาระ.
+
+<span class="LineNumber"> 010 </span>                                         <H1>อนุโลมปัจจนียนัย</H1>
+<span class="LineNumber"> 011 </span>         <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย   มี ๕  วาระ. . . ฯลฯ   ใน
+<span class="LineNumber"> 012 </span>นวิปปยุตตปัจจัย  มี ๓ วาระ
+
+<span class="LineNumber"> 013 </span>                                             <H1>ปัจจนียานุโลม</H1>
+<span class="LineNumber"> 014 </span>         เพราะนเหตุปัจจัย  ในอารัมมณปัจจัย  มี ๕ วาระ . . . ฯลฯ  ในอวิคต-
+<span class="LineNumber"> 015 </span>ปัจจัย  มี ๑๓ วาระ
+<span class="LineNumber"> 016 </span>                                            <I>สหชาตวาระ  จบ</I>

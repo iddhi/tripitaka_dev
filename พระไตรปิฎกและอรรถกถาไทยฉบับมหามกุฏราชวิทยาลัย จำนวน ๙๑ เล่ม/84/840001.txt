@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                             <H2>อินทริยยมกที่  ๑๐</H2>
+<span class="LineNumber"> 002 </span>                               <H2>ปัณณัตติวาระ</H2>
+<span class="LineNumber"> 003 </span>                                         <H1>มาติกา</H1>
+<span class="LineNumber"> 004 </span>         <B>[๓๗๙]  อินทรีย์  ๒๒   คือ :-</B>
+<span class="LineNumber"> 005 </span>                     ๑   จักขุนทรีย์        ๑๒  โสมนัสสินทรีย์
+<span class="LineNumber"> 006 </span>                     ๒   โสตินทรีย์        ๑๓  โทมนัสสินทรีย์
+<span class="LineNumber"> 007 </span>                     ๓   ฆานินทรีย์       ๑๔   อุเปกขินทรีย์
+<span class="LineNumber"> 008 </span>                     ๔   ชิวหินทรีย์        ๑๕   สัทธินทรีย์
+<span class="LineNumber"> 009 </span>                     ๕   กายินทรีย์         ๑๖   วิริยินทรีย์
+<span class="LineNumber"> 010 </span>                     ๖   มนินทรีย์          ๑๗   สตินทรีย์
+<span class="LineNumber"> 011 </span>                     ๗   อิตถินทรีย์        ๑๘   สมาธินทรีย์
+<span class="LineNumber"> 012 </span>                     ๘   ปุริสินทรีย์        ๑๙   ปัญญินทรีย์
+<span class="LineNumber"> 013 </span>                     ๙   ชีวิตินทรีย์        ๒๐   อนัญญาตัญณัสสามีตินทรีย์
+<span class="LineNumber"> 014 </span>                  ๑๐   สุขินทรีย์           ๒๑   อัญญินทรีย์
+<span class="LineNumber"> 015 </span>                  ๑๑   ทุกขินทรีย์        ๒๒   อัญญาตาวินทรีย์
+<span class="LineNumber"> 016 </span>                                       <I>มาติกา  จบ</I>

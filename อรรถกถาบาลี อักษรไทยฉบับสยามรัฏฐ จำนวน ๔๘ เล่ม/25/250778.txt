@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  778
+	
+<span class="LineNumber"> 002 </span>		ยทา ตุวํ สกฺยมุนิ		รมฺเม กาปิลวตฺถเว  
+<span class="LineNumber"> 003 </span>		คชฺชสิ (๑) ธมฺมเมเฆน	ภารโต ปริมุจฺจหํ ฯ  
+<span class="LineNumber"> 004 </span>		สุฺตํ อนิมิตฺตฺจ	อถาปณิหิตมฺปิ จ(๒)  
+<span class="LineNumber"> 005 </span>		จตุโร จ ผเล สพฺเพ	ธมฺมํ วิชฏิ ตํปิหํ ฯ (๓)  
+<span class="LineNumber"> 006 </span>		อปริเมยฺยุปาทาย		ปตฺเถมิ ตว สาสนํ  
+<span class="LineNumber"> 007 </span>		โส เม อตฺโถ อนุปฺปตฺโต  สนฺติปทมนุตฺตรํ ฯ  
+<span class="LineNumber"> 008 </span>		วินเย ปารมึ ปตฺโต	ยถาปิ ปา€ิโก อิสิ  
+<span class="LineNumber"> 009 </span>		น เม สมสโม อตฺถิ (๔)	ธาเรมิ สาสนํ อหํ ฯ  
+<span class="LineNumber"> 010 </span>		วินเย ขนฺธเก จาปิ		ติกจฺเฉเท จ ปฺจเก  
+<span class="LineNumber"> 011 </span>		เอตฺถ เม (๕) วิมติ นตฺถิ  อกฺขเร พฺยฺชเนปิ วา ฯ  
+<span class="LineNumber"> 012 </span>		นิคฺคเห ปฏิกมฺเม จ	€านา€าเน จ โกวิโท  
+<span class="LineNumber"> 013 </span>		โอสารเณ วุฏฺ€าปเน	สพฺพตฺถ ปารมึ คโต ฯ  
+<span class="LineNumber"> 014 </span>		วินเย ขนฺธเก วาปิ(๖)	นิกฺขิปิตฺวา ปทํ อหํ  
+<span class="LineNumber"> 015 </span>		อุภโต วิภงฺเค เจว (๗)	รสโต โอสเรยฺยหํ ฯ  
+<span class="LineNumber"> 016 </span>		นิรุตฺติยา จ กุสโล		อตฺถานตฺเถ จ โกวิโท  
+<span class="LineNumber"> 017 </span>		อนฺาตํ มยา นตฺถิ	เอกคฺโค สตฺถุ สาสเน ฯ  
+<span class="LineNumber"> 018 </span>		รูปทกฺโข อหํ อชฺช		สกฺยปุตฺตสฺส สาสเน  
+<span class="LineNumber"> 019 </span># ๑. สี. คชฺชิโต ฯ  ๒. สฺยา. อถาปณิหิตํปิ จ ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. ธมฺมํ วิชฏิ ตํปิหํ ฯ สี. ธมฺมคพฺเภ วิชายหํ ฯ 
+<span class="LineNumber"> 021 </span># ยุ. ธมฺมํ วิชฏายหํ ฯ  ๔. สี. น เม โส อิทานตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๕. สี. เอตฺตเก เม ฯ  ๖. สฺยา. จาปิ ฯ  ๗. สฺยา. วิภงฺเค เจว ฯ

@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า  มนายตนะจักดับแก่บุคคลใดในภูมิใด,   ฯ ล ฯ 
+<span class="LineNumber"> 002 </span>         บุคคลที่เกิดอยู่ในอรูปภูมิ  ฯ ล ฯ  บุคคลที่เกิดอยู่ในปัญจโวการ-
+<span class="LineNumber"> 003 </span>ภูมิ   ฯ ล ฯ                                                                              
+<span class="LineNumber"> 004 </span>                            <I>จบ  รูปายตนมูละ  มนายตนมูลี</I>
+<span class="LineNumber"> 005 </span><H2>รูปายตนมูละ ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 006 </span>         รูปายตนะจักดับแก่บุคคลใดในภูมิใด,     ธัมมายตนะก็จักดับแก่
+<span class="LineNumber"> 007 </span>บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   ธัมมายตนะจักดับแก่บุคคลใดในภูมิใด,   ฯ ล ฯ
+<span class="LineNumber"> 010 </span>         บุคคลที่เกิดอยู่ในอรูปภูมิ  ฯ ล ฯ  บุคคลที่เกิดอยู่ในปัญจโวการ-
+<span class="LineNumber"> 011 </span>ภูมิ  บุคคลที่เกิดอยู่ในอสัญญสัตตภูมิ  ฯลฯ
+<span class="LineNumber"> 012 </span>                           <I>จบ  รูปายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 013 </span>                                        <I>รูปายตนมูล  จบ</I>
+                                                                                                                                                                                                      

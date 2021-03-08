@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           คือ   ในอรูปภูมิ   สัมปยุตตขันธ์ทั้งหลาย   อาศัยโมหะ   ที่สหรคตด้วย 
+<span class="LineNumber"> 002 </span>อุทธัจจะ.                                                       
+<span class="LineNumber"> 003 </span>           [๘๑๑] ๑๐.  <B>ทัสสเนนปหาตัพพเหตุกธรรม   อาศัยทัสสเนน-
+<span class="LineNumber"> 004 </span>ปหาตัพพเหตุกธรรม     และเนวทัสสเนนภาวนายปหาตัพพเหตุก-
+<span class="LineNumber"> 005 </span>ธรรม  เกิดขึ้น  เพราะนวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ในอรูปภูมิ   ขันธ์ ๓ อาศัยขันธ์ ๑  ที่สหรคตด้วยวิจิกิจฉา   และ
+<span class="LineNumber"> 007 </span>โมหะ ฯลฯ  อาศัยขันธ์ ๒.
+<span class="LineNumber"> 008 </span>           [๘๑๒] ๑๑.  <B>ภาวนายปหาตัพพเหตุกธรรม    อาศัยภาวนายปหา-
+<span class="LineNumber"> 009 </span>ตัพพเหตุกธรรม     และเนวทัสสเนนภาวนายปหาตัพพเหตุกธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะนวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  ในอรูปภูมิ   ขันธ์ ๓ อาศัยขันธ์ ๑ ที่สหรคตด้วยอุทธัจจะ   และ
+<span class="LineNumber"> 012 </span>โมหะ ฯลฯ  ขันธ์ ๒ ฯลฯ
+
+<span class="LineNumber"> 013 </span>                <H1>๑๙.  เพราะโนนัตถิปัจจัย  ๒๐.  เพราะโนวิคตปัจจัย</H1>
+<span class="LineNumber"> 014 </span>                                 <H1>การนับจำนวนวาระในปัจจนียะ</H1>      
+<span class="LineNumber"> 015 </span>           [๘๑๓]  ในนเหตุปัจจัย  มี ๓ วาระ  ในนอารัมมณปัจจัย มี ๕ วาระ
+<span class="LineNumber"> 016 </span>ในนอธิปติปัจจัย  มี ๑๗ วาระ  ในนอนันตรปัจจัย  มี ๕ วาระ  ในนสมนันตร-
+<span class="LineNumber"> 017 </span>ปัจจัย   มี  ๕ วาระ   ในนอัญญมัญญปัจจัย  มี  ๕ วาระ   ในนอุปนิสสยปัจจัย

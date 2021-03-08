@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>๖๕.  นจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                   <H1>จิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ</H1>
+<span class="LineNumber"> 003 </span>                                   <H2>ปฏิจจวาระ</H2>  
+<span class="LineNumber"> 004 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                  <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>           [๑๑๙] ๑.  <B>จิตตสังสัฏฐสมุฏฐานานุปริวัตติธรรม  อาศัยธรรม
+<span class="LineNumber"> 007 </span>ที่ไม่ใช่จิตตสังสัฏฐสมุฏฐานานุปริวัตติธรรม   เกิดขึ้น   เพราะเหตุ
+<span class="LineNumber"> 008 </span>ปัจจัย</B>
+
+<span class="LineNumber"> 009 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๑๒๐]  ในเหตุปัจจัย  มี ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 011 </span><I>นจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกจิตตสังสัฏฐสมุฏฐานานุปริวัตติทุกะ  จบ</I>

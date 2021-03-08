@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๕  สกฺกปฺหสุตฺตวณฺณนา  หน้า  ๕๓๑
+
+<span class="LineNumber"> 002 </span>โปกฺขรณึ  ขณนฺตา  สาลํ  กโรนฺตา  เสตุํ  พนฺธนฺตา  เอกทิวเสเยว  
+<span class="LineNumber"> 003 </span>นิฏฺ€าเปนฺติ ฯ  
+<span class="LineNumber"> 004 </span>	อถ  เนสํ  คามโภชโก  จินฺเตสิ  อหํ  ปุพฺเพ  เอเตสุ  สุรํ 
+<span class="LineNumber"> 005 </span>ปิวนฺเตสุ  ปาณฆาตาทีนิ  กโรนฺเตสุ  จ  กติกหาปนาทิวเสน  (๑)
+<span class="LineNumber"> 006 </span>เจว  ทณฺฑพลิวเสน  จ  ธนํ  ลภามิ ฯ  อิทานิ  เอเตสํ ปุฺกรณโต(๒)  
+<span class="LineNumber"> 007 </span>ปฏฺ€าย  เอตฺตโก  อาโย  นตฺถิ ฯ  หนฺท  เน  ราชกุเล  ปริภินฺทามีติ  
+<span class="LineNumber"> 008 </span>ราชานํ  อุปสงฺกมิตฺวา  โจเร  มหาราช  ปสฺสามีติ ฯ  กุหึ 
+<span class="LineNumber"> 009 </span>ตาตาติ ฯ  มยฺหํ  คาเมติ ฯ  กึ  โจรา  นาม  ตาตาติ ฯ
+<span class="LineNumber"> 010 </span>ราชาปราชิกา  เทวาติ ฯ  กึชาติกาติ ฯ  คหปติชาติกา  เทวาติ ฯ  
+<span class="LineNumber"> 011 </span>คหปติกา  กึ  กริสฺสนฺตีติ ฯ  (๓)  ตยา  ชานมาเนน  กสฺมา  มยฺหํ  
+<span class="LineNumber"> 012 </span>น  กถิตนฺติ ฯ  ภเยน  มหาราช  น  กเถมิ  (๔)  อิทานิ  มา  
+<span class="LineNumber"> 013 </span>มยฺหํ  โทสํ  กเรยฺยาถาติ ฯ  อถ  ราชา  อยํ  (๕)  มหารวํ  
+<span class="LineNumber"> 014 </span>รวตีติ  สทฺทหิตฺวา  เตนหิ  คจฺฉ  ตฺวเมว  เน  อาเนหีติ  พลํ 
+<span class="LineNumber"> 015 </span>ทตฺวา  เปเสสิ ฯ  โส  คนฺตฺวา  ทิวสํ  อรฺเ  กมฺมํ  กตฺวา  
+<span class="LineNumber"> 016 </span>สายมาสํ  ภุฺชิตฺวา  คามมชฺเฌ  นิสีทิตฺวา  เสฺว  กึ  กมฺมํ 
+<span class="LineNumber"> 017 </span>กริสฺสาม ฯ กึ  มคฺคํ  สมํ  กโรม ฯ  โปกฺขรณึ  ขณาม ฯ  เสตุํ  
+<span class="LineNumber"> 018 </span>พนฺธามาติ  มนฺตยมาเนเยว  เต  ปริวาเรตฺวา  มา  ผนฺทิตฺถ ฯ 
+<span class="LineNumber"> 019 </span>รฺโ  อาณาติ  พนฺธิตฺวา  ปายาสิ ฯ  
+<span class="LineNumber"> 020 </span>#  ๑.  ม.  ยุ.  กหาปณาทิวเสน ฯ  ๒.  ม.  ปุฺกรณกาลโต ฯ 
+<span class="LineNumber"> 021 </span>๓.  ม.  ยุ.  กริสฺสนฺติ ฯ  ๔.  ยุ.  กเถสึ ฯ  
+<span class="LineNumber"> 022 </span>๕.ม.  เอตฺถนฺตเร  มยฺหนฺติ  ทิสฺสติ ฯ

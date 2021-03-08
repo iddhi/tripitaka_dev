@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่าอัพยากตธรรมจักดับแก่บุคคลใด,     กุศลธรรมก็เคยดับ
+<span class="LineNumber"> 002 </span>แก่บุคคลนั้น  ใช่ไหม  ? 
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>         [๒๗๐]  อกุศลธรรมเคยดับแก่บุคคลใด,    อัพยากตธรรมก็จัก 
+<span class="LineNumber"> 005 </span>ดับแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ในภังคขณะแห่งปัจฉิมจิต  อกุศลธรรมเคยดับแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 007 </span>แต่อัพยากตธรรมไม่ใช่จักดับแก่บุคคลเหล่านั้น,  บุคคลนอกจากนี้   อกุศล
+<span class="LineNumber"> 008 </span>ธรรมเคยดับ   อัพยากตธรรมก็จักดับแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 009 </span>         ก็หรือว่าอัพยากตธรรมจักดับแก่บุคคลใด,   อกุศลธรรมก็เคยดับ
+<span class="LineNumber"> 010 </span>แก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span><H1>โอกาสวาระ   อนุโลม</H1> :-
+<span class="LineNumber"> 013 </span>         [๒๗๑]  กุศลธรรมเคยดับในภูมิใด,    ฯ ล ฯ
+<span class="LineNumber"> 014 </span><H1>ปุคคโลกาสวาระ   อนุโลม</H1> :-
+<span class="LineNumber"> 015 </span>         [๒๗๒]  กุศลธรรมเคยดับแก่บุคคลใดในภูมิใด,     อกุศลธรรม
+<span class="LineNumber"> 016 </span>ก็จักดับแก่บุคคลนั้นในภูมินั้น ใช่ไหม  ?

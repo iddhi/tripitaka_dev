@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>ปัญญินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>ปัญญินทริยมูละ   มนินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๙๒๕]  ปัญญินทรีย์จักเกิดแก่บุคคลใดในภูมิใด,     มนินทรีย์
+<span class="LineNumber"> 004 </span>ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า  มนินทรีย์จักเกิดแก่บุคคลใดในภูมิใด,     ปัญญินทรีย์
+<span class="LineNumber"> 007 </span>ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                        <I>จบ  ปัญญินทริยมูละ  มนินทริยมูลี</I>
+<span class="LineNumber"> 010 </span>                                   <I>ปัญญินทริยมูล  จบ</I>
+<span class="LineNumber"> 011 </span>                     <I>อนาคต  ปุคคโลกาสวาระ  อนุโลม  จบ</I> 

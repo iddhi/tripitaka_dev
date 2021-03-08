@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>ชีวิตาโวโรปนกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๐๒]   <B>สกวาที</B>   บุคคลผู้มีทิฏฐิสมบัติ   พึงแกล้งปลงชีวิตสัตว์  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. บุคคลผู้มีทิฏฐิสมบัติ    พึงแกล้งปลงชีวิตมารดา   ฯลฯ
+<span class="LineNumber"> 005 </span>พึงแกล้งปลงชีวิตบิดา  ฯลฯ   พึงแกล้งปลงชีวิตพระอรหันต์   ฯลฯ   พึงมีจิต
+<span class="LineNumber"> 006 </span>คิดประทุษร้ายยังพระโลหิตของพระตถาคตให้ห้อ   ฯลฯ   พึงทำลายสงฆ์
+<span class="LineNumber"> 007 </span>หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 009 </span>         [๑๕๐๓]  ส. บุคคลผู้มีทิฏฐิสมบัติ   พึงแกล้งปลงชีวิตสัตว์   หรือ ?
+<span class="LineNumber"> 010 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 011 </span>                       ส. บุคคลผู้มีทิฏฐิสมบัติ    เป็นผู้ไม่มีความเคารพในพระ- 
+<span class="LineNumber"> 012 </span>ศาสดา หรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 014 </span>                       ส. เป็นผู้ไม่มีความเคารพในพระธรรม  ฯลฯ   เป็นผู้ไม่มี
+<span class="LineNumber"> 015 </span>ความเคารพในพระสงฆ์ ฯลฯ  เป็นผู้ไม่มีความเคารพในสิกขา หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 017 </span>         [๑๕๐๔]  ส. บุคคลผู้มีทิฏฐิสมบัติ    เป็นผู้มีความเคารพในพระศาสดา
+<span class="LineNumber"> 018 </span>มิใช่หรือ ?
+<span class="LineNumber"> 019 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                       ส. หากว่าบุคคลผู้มีทิฏฐิสมบัติ      เป็นผู้มีความเคารพใน
+<span class="LineNumber"> 021 </span>พระศาสดา   ก็ต้องไม่กล่าวว่า  บุคคลผู้มีทิฏฐิสมบัติ   พึงแกล้งปลงชีวิตสัตว์
+<span class="LineNumber"> 022 </span>                       ส.  บุคคลผู้มีทิฏฐิสมบัติ   เป็นผู้มีความเคารพในพระธรรม

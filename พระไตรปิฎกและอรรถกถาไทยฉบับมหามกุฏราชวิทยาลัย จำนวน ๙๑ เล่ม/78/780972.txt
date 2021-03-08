@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           [๑๐๘๕]  <B>เจตนา ๗</B> เป็นไฉน ?   
+<span class="LineNumber"> 002 </span>           คือ   เจตนาเกิดแต่จักขุสัมผัส    เจตนาเกิดแต่โสตสัมผัส     เจตนาเกิด
+<span class="LineNumber"> 003 </span>แต่ฆานสัมผัส   เจตนาเกิดแต่ชิวหาสัมผัส   เจตนาเกิดแต่กายสัมผัส   เจตนาเกิด
+<span class="LineNumber"> 004 </span>แต่มโนธาตุสัมผัส   เจตนาเกิดแต่มโนวิญญาณธาตุสัมผัส
+<span class="LineNumber"> 005 </span>           เหล่านี้เรียกว่า   <B>เจตนา   ๗.</B>
+<span class="LineNumber"> 006 </span>           [๑๐๘๖]  <B>จิต ๗</B>  เป็นไฉน ?
+<span class="LineNumber"> 007 </span>           คือ  จักขุวิญญาณ    โสตวิญญาณ    ฆานวิญญาน    ชิวหาวิญญาณ
+<span class="LineNumber"> 008 </span>กายวิญญาณ   มโนธาตุ   มโนวิญญาณธาตุ. 
+<span class="LineNumber"> 009 </span>           เหล่านี้เรียกว่า   <B>จิต ๗.</B>
+
+<span class="LineNumber"> 010 </span>                              <H1>อุปปัตตานุปปัตติวาระ</H1>
+<span class="LineNumber"> 011 </span>                                       <H1>กามธาตุ</H1>
+<span class="LineNumber"> 012 </span>           [๑๐๘๗]  <B>ในกามธาตุมีขันธ์เท่าไร  ฯลฯ มีจิตเท่าไร ?</B> 
+<span class="LineNumber"> 013 </span>           ในกามธาตุ   มีขันธ์ ๕ อายตนะ ๑๒ ธาตุ ๑๘ สัจจะ ๓ อินทรีย์ ๒๒
+<span class="LineNumber"> 014 </span>เหตุ ๙ อาหาร ๔  ผัสสะ ๗  เวทนา ๗ สัญญา ๗  เจตนา ๗ จิต ๗
+<span class="LineNumber"> 015 </span>           บรรดาธรรมเหล่านั้น     <B>ขันธ์ ๕ ในกามธาตุ</B>  เป็นไฉน ?
+<span class="LineNumber"> 016 </span>           คือ   รูปขันธ์ ฯลฯ   วิญญาณขันธ์    เหล่านี้เรียกว่า    <B>ขันธ์ ๕ ใน
+<span class="LineNumber"> 017 </span>กามธาตุ.</B>
+<span class="LineNumber"> 018 </span>           <B>อายตนะ ๑๒ ในกามธาตุ</B>  เป็นไฉน ?
+<span class="LineNumber"> 019 </span>           คือ  จักขายตนะ  รูปายตนะ ฯลฯ ฆานายตนะ  ธัมมายตนะ เหล่านี้
+<span class="LineNumber"> 020 </span>เรียกว่า  <B>อายตนะ  ๑๒ ในกามธาตุ.</B>                                    
+<span class="LineNumber"> 021 </span>           <B>ธาตุ  ๑๘ ในกามธาตุ</B>  เป็นไฉน ?

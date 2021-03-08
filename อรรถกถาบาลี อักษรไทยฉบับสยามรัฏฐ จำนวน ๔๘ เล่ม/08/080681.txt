@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ พฺรหฺมนิมนฺตนิกสุตฺตวณฺณนา หน้า ๖๘๑
+
+<span class="LineNumber"> 002 </span>โลเก  เอวรูปสฺส  มธุโรทกสฺส  อลาเภน  กิลิสฺสมานา  สตฺตาติ  
+<span class="LineNumber"> 003 </span>โส  เอวํ  อาวชฺเชนฺโต  มรุกนฺตาเร  ตํ  สตฺถํ  ทิสฺวา  อิเม  
+<span class="LineNumber"> 004 </span>สตฺตา  มา  นสฺสนฺตู  ติ  อิโต  มหา  อุทกกฺขนฺโธ  ฉิชฺชิตฺวา  
+<span class="LineNumber"> 005 </span>มรุกนฺตาเร  สตฺถาภิมุโข  คจฺฉตู  ติ  อภิฺาจิตฺเตน  อธิฏฺ€าสิฯ
+<span class="LineNumber"> 006 </span>สห  จิตฺตุปฺปาเทน  มาติการุฬฺหํ  วิย  อุทกํ  ตตฺถ  อคมาสิ ฯ
+<span class="LineNumber"> 007 </span>มนุสฺสา  อุทกสทฺเทน  วุฏฺ€าย  อุทกํ  ทิสฺวา  หฏฺ€ตุฏฺ€า  นฺหาตฺวา  (๑)  
+<span class="LineNumber"> 008 </span>ปิวิตฺวา  โคเณ(๒)  ปาเยตฺวา  โสตฺถินา  อิจฺฉิตฏฺ€านํ  อคมํสุ ฯ
+<span class="LineNumber"> 009 </span>	  สตฺถา  ตํ  พฺรหฺมุโน  ปุพฺพกมฺมํ  ทสฺเสนฺโต  
+<span class="LineNumber"> 010 </span>	  	ยํ  ตฺวํ  อปาเยสิ  พหู  มนุสฺเส  
+<span class="LineNumber"> 011 </span>	  	ปิปาสิเต  ฆมฺมนิ  สมฺปเรเต  
+<span class="LineNumber"> 012 </span>	  	ตนฺเต  ปุราณํ  วตสีลวตฺตํ  (๓)  
+<span class="LineNumber"> 013 </span>	  	สุตฺตปฺปพุทฺโธว  อนุสฺสรามีติ  (๔)  
+<span class="LineNumber"> 014 </span>อิมํ  คาถมาห ฯ
+<span class="LineNumber"> 015 </span>	  อปรสฺมึ  สมเย  ตาปโส  คงฺคาตีเร  ปณฺณสาลํ  มาเปตฺวา  
+<span class="LineNumber"> 016 </span>อารฺกคามกํ(๕)  อุปนิสฺสาย  วสติ  เตน  จ  สมเยน  โจรา  
+<span class="LineNumber"> 017 </span>ตํ  คามํ  ปหริตฺวา  หตฺถสารํ  คเหตฺวา  คาวิโย  จ  กรมเร  
+<span class="LineNumber"> 018 </span>จ  คเหตฺวา  คจฺฉนฺติ  คาโวปิ  สุนขาปิ(๖) มนุสฺสาปิ  มหาวิรวํ  
+<span class="LineNumber"> 019 </span># ๑. ม. นหายิตฺวา ฯ  ๒. ม. โคเณปิ ฯ  ๓. วตสีลวตฺตนฺติ สมาทานวเสน วตภูตํ
+<span class="LineNumber"> 020 </span># จาริตฺตสีลาภาเวน สมาจิณฺณตฺตา สีลวตฺตนฺติ ฏีกา ฯ 
+<span class="LineNumber"> 021 </span># ๔. ขุ. ชา. ๒๗/๑๐๓๘/๒๒๒ ฯ  ๕. ม. อารฺกคามํ ฯ  ๖. ม. สุนขาปิ ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         คือ ขันธ์  ๒  อาศัย อาศัยขันธ์ ๑  ที่ไม่ใช่จิต,  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 002 </span>         ในปฏิสนธิขณะ  ขันธ์ทั้งหลาย  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 003 </span>                ๓.  <B>ธรรมที่เป็นจิต  อาศัยธรรมที่ไม่ใช่จิต เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ  จิต  อาศัยขันธ์ ทั้งหลายที่ไม่ใช่จิต.
+<span class="LineNumber"> 006 </span>         ในปฏิสนธิขณะ  จิต  อาศัยขันธ์ทั้งหลายที่ไม่ใช่จิต.
+<span class="LineNumber"> 007 </span>         ในปฏิสนธิขณะ  จิต  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 008 </span>                ๔.  <B>ธรรมที่ไม่ใช่จิต   และธรรมที่ไม่ใช่จิต    อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่จิต  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ  ขันธ์ ๒  และจิต  อาศัยขันธ์ ๑  ที่ไม่ใช่จิต,    ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 011 </span>         ในปฏิสนธิขณะ  ขันธ์ ๒  และจิต  อาศัยขันธ์ ๑  ที่ไม่ใช่จิต,
+<span class="LineNumber"> 012 </span>ขันธ์ ๒ ฯลฯ                                      
+<span class="LineNumber"> 013 </span>                ๕.  <B>ธรรมที่ไม่ใช่จิต  อาศัยธรรมที่เป็นจิต  และธรรม
+<span class="LineNumber"> 014 </span>ที่ไม่ใช่จิต  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 015 </span>         คือ ขันธ์ ๒  อาศัยขันธ์ ๑  ที่ไม่ใช่จิต  และจิต  ขันธ์ ๒  ฯลฯ
+<span class="LineNumber"> 016 </span>         ในปฏิสนธิขณะ   ขันธ์ทั้งหลายที่เป็นจิต อาศัยจิต และหทยวัตถุ.
+<span class="LineNumber"> 017 </span>                                               ฯลฯ
+
+<span class="LineNumber"> 018 </span>                            <H2>การนับจำนวนปัจจัยในอนุโลม</H2> 
+<span class="LineNumber"> 019 </span>         [๔๒]  ในเหตุปัจจัย มี  ๕ วาระ  ในอารัมมณปัจจัย  มี  ๕ วาระ  ใน
+<span class="LineNumber"> 020 </span>อธิปติปัจจัย มี  ๕ วาระ   ในอนันตรปัจจัย มี ๕ วาระ   ในสมนันตรปัจจัย  มี

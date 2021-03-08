@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๑๗.  อุปปันนติกะ</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ปัญหาวาระ<SUP>๑</SUP></H1>
+<span class="LineNumber"> 003 </span>                                           <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 004 </span>                                         <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๘๘๘] ๑.  <B>อุปปันนธรรม  เป็นปัจจัยแก่อุปปันนธรรม  ด้วย
+<span class="LineNumber"> 006 </span>อำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  เหตุทั้งหลายที่เป็นอุปปันนธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์และ
+<span class="LineNumber"> 008 </span>จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 009 </span>           ในปฏิสนธิขณะ  เหตุทั้งหลายที่เป็นอุปปันนธรรม  เป็นปัจจัยแก่
+<span class="LineNumber"> 010 </span>สัมปยุตตขันธ์  และกฏัตตารูปทั้งหลาย  ด้วยอำนาจของเหตุปัจจัย.
+
+<span class="LineNumber"> 011 </span>                                      <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           [๑๘๘๙] ๑.  <B>อุปปันนธรรม  เป็นปัจจัยแก่อุปปันนธรรม  ด้วย
+<span class="LineNumber"> 013 </span>อำนาจของอารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  บุคคลพิจารณาเห็นจักษุที่เป็นอุปปันนธรรม  โดยความเป็นของ
+<span class="LineNumber"> 015 </span>ไม่เที่ยง  เป็นทุกข์  เป็นอนันตตา  ย่อมยินดี  ย่อมเพลิดเพลินยิ่ง  เพราะปรารภ
+<span class="LineNumber"> 016 </span>จักษุนั้น  ราคะ  ย่อมเกิดขึ้น  ทิฏฐิ  ย่อมเกิดขึ้น  วิจิกิจฉา ฯลฯ  อุทธัจจะ ฯลฯ
+<span class="LineNumber"> 017 </span>โทมนัส  ย่อมเกิดขึ้น.
+<span class='footnote'>๑.  ติกะนี้  ไม่มีวาระ ๖ มีปฏิจจวาระเป็นต้น.</span>
+
+         

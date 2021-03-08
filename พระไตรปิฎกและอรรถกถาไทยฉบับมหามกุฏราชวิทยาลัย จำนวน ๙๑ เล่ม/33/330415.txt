@@ -1,0 +1,28 @@
+﻿<span class="LineNumber"> 001 </span>บริษัท ๒ จำพวกนี้   บริษัทที่เรียบร้อยเป็นเลิศ.
+<span class="LineNumber"> 002 </span>                                                จบสูตรที่  ๘
+
+<span class="LineNumber"> 003 </span>                     <H3>อรรถกถาสูตรที่  ๘</H3>
+
+<span class="LineNumber"> 004 </span>         ใน<B>สูตรที่   ๘</B>   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 005 </span>         บทว่า <B>วิสมา</B>  ได้แก่ ชื่อว่า ไม่เรียบร้อย เพราะอรรถว่าพลังพลาด
+<span class="LineNumber"> 006 </span>บทว่า  <B>สมา</B>  ได้แก่ ชื่อว่า  เรียบร้อย  เพราะอรรถว่าไม่พลั้งพลาด.  บทว่า
+<span class="LineNumber"> 007 </span><B>อธมฺมกมฺมานิ</B>  ได้แก่  กรรมนอกธรรม.    บทว่า  <B>อวินยกมฺมานิ</B>  ได้แก่
+<span class="LineNumber"> 008 </span>กรรมนอกวินัย.
+<span class="LineNumber"> 009 </span>                                              จบอรรถกถาสูตรที่   ๘ 
+
+<span class="LineNumber"> 010 </span>                       <H3>สูตรที่  ๙</H3>
+
+<span class="LineNumber"> 011 </span>       <H1>ว่าด้วยบริษัทที่ไร้ธรรมและที่ประกอบด้วยธรรม</H1>
+
+<span class="LineNumber"> 012 </span>         [๒๙๕]  ๔๙. ดูก่อนภิกษุทั้งหลาย บริษัท  ๒ จำพวกนี้  ๒ จำพวก
+<span class="LineNumber"> 013 </span>เป็นไฉน  คือ บริษัทไร้ธรรม ๑  บริษัทที่ประกอบด้วยธรรม  ๑  ฯลฯ
+<span class="LineNumber"> 014 </span>ดูก่อนภิกษุทั้งหลาย  บริษัท  ๒  จำพวกนี้แล  ดูก่อนภิกษุทั้งหลาย  บรรดา
+<span class="LineNumber"> 015 </span>บริษัท  ๒   จำพวกนี้  บริษัทที่ประกอบด้วยธรรมเป็นเลิศ.
+<span class="LineNumber"> 016 </span>                                                    จบสูตรที่  ๙ 
+
+<span class="LineNumber"> 017 </span>                                  <H3>อรรถกถาสูตรที่  ๙</H3>
+
+<span class="LineNumber"> 018 </span>         ใน<B>สูตรที่  ๙</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 019 </span>         บทว่า  <B>อธมฺมิกา</B>  แปลว่า  ปราศจากธรรม.  บทว่า   <B>ธมฺมิกา</B> แปลว่า
+<span class="LineNumber"> 020 </span>ประกอบด้วยธรรม.
+<span class="LineNumber"> 021 </span>                                                      จบอรรถกถาสูตรที่  ๙ 

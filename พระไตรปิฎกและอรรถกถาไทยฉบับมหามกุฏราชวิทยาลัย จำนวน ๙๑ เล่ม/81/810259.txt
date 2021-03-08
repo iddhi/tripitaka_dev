@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>ทวีหิ  สีเลหิ  สมันนาคโตติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๔๐๐]   <B>สกวาที</B>   บุคคลผู้มีความพร้อมเพรียงด้วยมรรค    เป็นผู้
+<span class="LineNumber"> 003 </span>ประกอบด้วยศีล  ๒  อย่าง หรือ ?
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. บุคคลผู้มีความพร้อมเพรียงด้วยมรรค เป็นผู้ประกอบ
+<span class="LineNumber"> 006 </span>ด้วยผัสสะ ๒ อย่าง ด้วยเวทนา ๒ อย่าง ด้วยสัญญา ๒ อย่าง ด้วยเจตนา
+<span class="LineNumber"> 007 </span>๒  อย่าง   ด้วยจิต  ๒  อย่าง  ด้วยศรัทธา  ๒  อย่าง   ด้วยวิริยะ  ๒  อย่าง ด้วย
+<span class="LineNumber"> 008 </span>สติ   ๒ อย่าง  ด้วยสมาธิ  ๒ อย่าง  ด้วยปัญญา  ๒  อย่าง หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>         [๑๔๐๑]   ส. บุคคลผู้มีความพร้อมเพรียงด้วยมรรค เป็นผู้ประกอบ
+<span class="LineNumber"> 011 </span>ด้วยศีลอันเป็นโลกิยะ  หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ส. บุคคลผู้มีความพร้อมเพรียงด้วยมรรค  เป็นผู้ประกอบ
+<span class="LineNumber"> 014 </span>ด้วยผัสสะอันเป็นโลกิยะ    ด้วยเวทนาอันเป็นโลกิยะ    ด้วยสัญญาอันเป็น
+<span class="LineNumber"> 015 </span>โลกิยะ   ด้วยเจตนาอันเป็นโลกิยะ   ด้วยจิตอันเป็นโลกิยะ   ด้วยศรัทธาอัน
+<span class="LineNumber"> 016 </span>เป็นโลกิยะ    ด้วยวิริยะอันเป็นโลกิยะ    ด้วยสติอันเป็นโลกิยะ    ด้วยสมาธิ
+<span class="LineNumber"> 017 </span>อันเป็นโลกิยะ  ด้วยปัญญาอันเป็นโลกิยะ หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 019 </span>         [๑๔๐๒]   ส. บุคคลผู้มีความพร้อมเพรียงด้วยมรรค  เป็นผู้ประกอบ
+<span class="LineNumber"> 020 </span>ด้วยศีล ทั้งที่เป็นโลกิยะและโลกุตตระ    หรือ ?
+<span class="LineNumber"> 021 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 022 </span>                       ส. บุคคลผู้มีความพร้อมเพรียงด้วยมรรค  เป็นผู้ประกอบ

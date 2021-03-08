@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>พระอภิธรรมปิฎก</H1> 
+<span class="LineNumber"> 002 </span>                                       <H2>เล่มที่    ๕</H2>
+<span class="LineNumber"> 003 </span>                        <H2>ยมก  ภาคที่  ๑  ตอนที่  ๑</H2>
+<span class="LineNumber"> 004 </span>                                      <H4>ขอนอบน้อมแด่</H4>
+<span class="LineNumber"> 005 </span>            <H4>พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้า  พระองค์นั้น</H4>
+<span class="LineNumber"> 006 </span>                                    <H2>มูลยมกที่  ๑</H2>
+<span class="LineNumber"> 007 </span>                               <H1>อุทเทสวาระในกุสลบท</H1>
+<span class="LineNumber"> 008 </span>                                      <H1>มูลนยะที่  ๑</H1>
+<span class="LineNumber"> 009 </span><H2>๑. มูลยมกะ :-</H2>
+<span class="LineNumber"> 010 </span>         ธรรมเหล่าใดเหล่าหนึ่ง  ที่เป็นกุศล  มีอยู่, ธรรมเหล่านั้นทั้งหมด
+<span class="LineNumber"> 011 </span>ชื่อว่ากุศลมูล  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ก็หรือว่าธรรมเหล่าใด  ชื่อว่ากุศลมูล  มีอยู่,  ธรรมเหล่านั้น
+<span class="LineNumber"> 013 </span>ทั้งหมดเป็นกุศล  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span><H2>๒.  เอกมูลยมกะ :-</H2>
+<span class="LineNumber"> 015 </span>         ธรรมเหล่าใดเหล่าหนึ่ง  ที่เป็นกุศล  มีอยู่,  ธรรมเหล่านั้นทั้ง
+<span class="LineNumber"> 016 </span>หมด  มีมูลเป็นอันเดียวกันกับกุศลมูล  ใช่ไหม?

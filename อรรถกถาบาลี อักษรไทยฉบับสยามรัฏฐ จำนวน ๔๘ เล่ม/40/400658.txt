@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  มหาวคฺควณฺณนา  หน้า  658
+
+<span class="LineNumber"> 002 </span>วิทุคฺโค ฯ
+<span class="LineNumber"> 003 </span>	สมฺปริวตฺตตีติ  ภุสํ นิวตฺติตฺวา  จรติ ฯ
+<span class="LineNumber"> 004 </span>	มหาปลิเปติ (๑) มหนฺเต  กามกทฺทเม  (๒)  กาโม  หิ  โอสีทนฏฺเ€น  
+<span class="LineNumber"> 005 </span>ปลิโป(๓) ฯ 
+<span class="LineNumber"> 006 </span>	ปลิปนฺโนติ ลคฺโค ฯ มหาปลฺเลปปลิปนฺโนติปิ(๔) ปาโ€ ฯ  
+<span class="LineNumber"> 007 </span>	อพฺภาหโตติ  สพฺโพปทฺทเวหิ  อพฺภาหโต ฯ  
+<span class="LineNumber"> 008 </span>	ราคคฺคินาติ  ราคาทโยเยว  อนุทหนฏฺเ€น  อคฺคิ ฯ  เตน
+<span class="LineNumber"> 009 </span>ราคคฺคินา ฯ  เสเสสุปิ  เอเสว  นโย ฯ
+<span class="LineNumber"> 010 </span>	อุนฺนีตโกติ  อุคฺคเหตฺวา(๕) นีโต  ชาติยา  อุคฺคเหตฺวา 
+<span class="LineNumber"> 011 </span>ชราทิอุปทฺทวาย นีโตติ อตฺโถ ฯ กกาโร ปเนตฺถ  อนุกมฺปาย 
+<span class="LineNumber"> 012 </span>ทฏฺ€พฺโพ ฯ  
+<span class="LineNumber"> 013 </span>	หฺติ  นิจฺจมตาโณติ  ปริตฺตายเกน  (๖) รหิโต สตตํ 
+<span class="LineNumber"> 014 </span>ปีฬียติ ฯ
+<span class="LineNumber"> 015 </span>	ปตฺตทณฺโฑติ  ราชาทีหิ  ลทฺธอาโณ ฯ  ตกฺกโรติ (๗) โจโร ฯ 
+<span class="LineNumber"> 016 </span>	วชฺชพนฺธนพทฺโธติ(๘) ราคาทิวชฺชพนฺธเนหิ  พทฺโธ(๘) ฯ  
+<span class="LineNumber"> 017 </span>	อาฆาตนปจฺจุปฏฺ€ิโตติ  มรณธมฺมคณฺ€ิกฏฺ€านํ(๙) อุเปจฺจ 
+<span class="LineNumber"> 018 </span>€ิโต ฯ 
+<span class="LineNumber"> 019 </span># ๑. ม. ยุ. มหาปลิเปติ ฯ  ๒. ยุ. มหากามกทฺทเม ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ยุ. ปลิโป ฯ  ๔. ม. ยุ. มหาปลิปปลิปนฺโนติปิ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ยุ. อุคฺคเหตฺวา อุคฺคเหตฺวา ฯ  ๖. ยุ. ปริตฺตายเณน ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. ตกฺกโรติ ฯ  ๘. สี. ม. ...พทฺโธ ฯ 
+<span class="LineNumber"> 023 </span># ๙. ม มรณธมฺมคณฺ€ิกฏฺ€านํ ฯ

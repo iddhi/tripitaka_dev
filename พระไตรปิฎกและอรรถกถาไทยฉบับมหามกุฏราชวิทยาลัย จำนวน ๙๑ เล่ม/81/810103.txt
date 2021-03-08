@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>อันตราภวกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๑๙๘]   <B>สกวาที</B>  อันตราภพ<SUP>๑</SUP>  มีอยู่หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. เป็นกามภพ หรือ ?
+<span class="LineNumber"> 005 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 006 </span>                        ส. อันตราภพมีอยู่หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                        ส. เป็นรูปภพหรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ 
+<span class="LineNumber"> 010 </span>                        ส. อันตราภพมีอยู่หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                        ส. เป็นอรูปภพหรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 014 </span>         [๑๑๙๙]   ส. อันตราภพมีอยู่หรือ ?
+<span class="LineNumber"> 015 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                        ส. อันตราภพมีอยู่ในระหว่างกามภพและรูปภพหรือ ?
+<span class="LineNumber"> 017 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 018 </span>                        ส. อันตราภพมีอยู่หรือ ?
+<span class="LineNumber"> 019 </span>                        ป.  ถูกแล้ว. 
+<span class="LineNumber"> 020 </span>                        ส.  อันตราภพมีอยู่ในระหว่างรูปภพและอรูปภพหรือ ?
+<span class="LineNumber"> 021 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 022 </span>         [๑๒๐๐]    ส. อันตราภพไม่มีอยู่ในระหว่างกามภพและรูปภพหรือ ?
+
+<span class='footnote'>๑. ภพในระหว่าง.</span>

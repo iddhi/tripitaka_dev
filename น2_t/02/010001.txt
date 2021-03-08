@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                       อุปกรณ์วินัยมุข
+<span class="LineNumber"> 002 </span>                                           อภิสมาจาร  
+
+<span class="LineNumber"> 003 </span>	<B>สิกขาบทแผนกนี้  มาในขันธกะเป็นพื้น  ไม่ได้บอกจำนวน
+<span class="LineNumber"> 004 </span>จัดตามกิจหรือวัตถุ  เรียกว่า  ขันธกะอันหนึ่ง ๆ  คือ</B>
+<span class="LineNumber"> 005 </span>	๑.  ว่าด้วยอุโบสถ  จัดไว้พวกหนึ่ง  เรียกว่า  อุโบสถขันธกะ.
+<span class="LineNumber"> 006 </span>	๒.  ว่าด้วยจีวร  จัดไว้พวกหนึ่ง เรียกว่า  จีวรขันธกะ.
+<span class="LineNumber"> 007 </span>                          <B>มาในบาลีอื่นนอกจากขันธกะ คือ</B>
+<span class="LineNumber"> 008 </span>	๑.  ในนิทานต้นบัญญัติแห่งสิกขาบทที่มาในพระปาฏิโมกข์.
+<span class="LineNumber"> 009 </span>	๒.  ในวินีตวัตถุเรื่องสำหรับเทียบเคียงตัดสินอาบัติในคัมภีร์วิภังค์.
+<span class="LineNumber"> 010 </span>	๓.  ในอรรถกถาที่เรียกว่า  บาลีมุตตกะ.
+<span class="LineNumber"> 011 </span>		<B>สิกขาบทแผนกนี้  มีรูปเป็น  ๒  คือ</B>
+<span class="LineNumber"> 012 </span>	๑.  เป็นข้อห้าม.
+<span class="LineNumber"> 013 </span>	๒.  เป็นข้ออนุญาต.
+<span class="LineNumber"> 014 </span>		<B>ข้อห้ามที่ปรับอาบัติมีเพียง ๒  คือ</B>
+<span class="LineNumber"> 015 </span>	๑.  ถุลลัจจัย.
+<span class="LineNumber"> 016 </span>	๒.  ทุกกฏ.
+

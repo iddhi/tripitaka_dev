@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>สมุทยสัจจมูล</H1>
+<span class="LineNumber"> 002 </span><H2>สมุทยสัจจมูละ  มัคคสัจจมูลี :-</H2> 
+<span class="LineNumber"> 003 </span>         [๙๓๒]   สมุทยสัจจะจักดับแก่บุคคลใด   มัคคสัจจะก็จักดับแก่
+<span class="LineNumber"> 004 </span>บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ปุถุชนเหล่าใดจักไม่ได้มรรค    สมุทยสัจจะจักดับแก่บุคคลเหล่า
+<span class="LineNumber"> 006 </span>นั้น    แต่มัคคสัจจะไม่ใช่จักับแก่บุคคลเหล่านั้น,   บุคคลเหล่าใดจักได้
+<span class="LineNumber"> 007 </span>มรรค   สมุทยสัจจะจักดับ   และมัคคสัจจะก็จักดับเเก่บุคคลเหล่านั้น 
+<span class="LineNumber"> 008 </span>         ก็หรือว่า    มัคคสัจจะจักดับแก่บุคคลใด,      สมุทยสัจจะก็จักดับ
+<span class="LineNumber"> 009 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ในอุปปาทขณะแห่งอรหัตมัคคจิตก็ดี  บุคคลเหล่าใดจักได้อรหัต-
+<span class="LineNumber"> 011 </span>มรรคในลำดับแห่งจิตใดก็ดี     มัคคสัจจะจักดับแก่บุคคลเหล่านั้น     แต่
+<span class="LineNumber"> 012 </span>สมุทยสัจจะไม่ใช่ดับแก่บุคคลเหล่านั้น,  บุคคลเหล่าใดจักได้มรรค มัคค-
+<span class="LineNumber"> 013 </span>มัคคสัจจะจักดับ    และสมุทยสัจจะก็จักดับแก่บุคคลเหล่านั้น. 
+<span class="LineNumber"> 014 </span>                        <I>จบ   สมุทยสัจจมูละ  มัคคสัจจมูลี</I>
+<span class="LineNumber"> 015 </span>                                    <I>สมุทยสัจจมูล  จบ</I>
+<span class="LineNumber"> 016 </span>                                     <I>ปุคคลวาระ   จบ</I>

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>				<H1>อัพยากตบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>				       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>				     <H2>๑.  เหตุปัจจัย</H2>					
+<span class="LineNumber"> 004 </span>		[๒๐๔]  ๑.  อัพยากตธรรมที่เป็นอุปปันนธรรม   เป็นปัจจัยแก่ 
+<span class="LineNumber"> 005 </span>อัพยากตธรรมที่เป็นอุปปันนธรรม   ด้วยอำนาจของเหตุปัจจัย   มี  ๑
+<span class="LineNumber"> 006 </span>วาระ.
+<span class="LineNumber"> 007 </span>               	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>            ในเหตุปัจจัย  มี  ๑  วาระ  ในอารัมมณปัจจัย  มี ๓  วาระ  ฯลฯ  ใน
+<span class="LineNumber"> 009 </span>อุปนิสสยปัจจัย  มี ๓  วาระ  ฯลฯ  ในอวิคตปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 010 </span>		พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 011 </span>			      <I>อุปปันนติกกุสลติกะ จบ</I>

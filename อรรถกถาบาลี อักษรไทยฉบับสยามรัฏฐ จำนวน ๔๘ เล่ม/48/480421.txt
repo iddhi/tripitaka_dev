@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 421
+
+<span class="LineNumber"> 002 </span>			ปตฺติกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  ปตฺติกถา  นาม  โหติ ฯ  ตตฺถ  ยํ  ยํ  ปฏิลภติ  (๑) 
+<span class="LineNumber"> 004 </span>ตสฺส  ตสฺส  ปฏิลาโภ  ปตฺติ  นาม  สา  จ  อสงฺขตาติ  เยสํ 
+<span class="LineNumber"> 005 </span>ลทฺธิ  เสยฺยถาปิ  ปุพฺพเสลิยานฺเว  เต  สนฺธาย  ปุจฺฉา
+<span class="LineNumber"> 006 </span>สกวาทิสฺส  ปฏิฺา  อิตรสฺส ฯ  เสสมิธาปิ  เหฏฺ€า  วุตฺต-
+<span class="LineNumber"> 007 </span>นยตฺตา  ยถาปาลิเมว  นิยฺยาตีติ ฯ  น  วตฺตพฺพนฺติอาทิ ยาย  ลทฺธิยา
+<span class="LineNumber"> 008 </span>ปตฺติ  อสงฺขตาติ  ปฺตฺติ  (๒)  ตํ  ปกาเสตุํ วุตฺตํ ฯ ตตฺถ สกวาที
+<span class="LineNumber"> 009 </span>น  เหวํ  วตฺตพฺเพติ  ปฏิกฺขิปนฺโต  เกวลํ  ปตฺติยา  รูปาทิภาวํ
+<span class="LineNumber"> 010 </span>น สมฺปฏิจฺฉติ ฯ น  หิ  ปตฺติ  นาม  โกจิ  ธมฺโม  อตฺถิ 
+<span class="LineNumber"> 011 </span>น  ปน  อสงฺขตภาวํ  อนุชานาติ ฯ  อิตโร  ปน  ปฏิกฺเขป-
+<span class="LineNumber"> 012 </span>มตฺเตเนว  อสงฺขตาติ  ลทฺธึ  ปติฏฺ€เปติ  สา อโยนิโส ปติฏฺ€า-
+<span class="LineNumber"> 013 </span>ปิตตฺตา อปฺปติฏฺ€ิตาเยวาติ ฯ 
+<span class="LineNumber"> 014 </span>		ปตฺติกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 015 </span>			ตถตากถาวณฺณนา 
+<span class="LineNumber"> 016 </span>	อิทานิ  ตถตากถา  นาม  โหติ ฯ  ตตฺถ  เยสํ  รูปาทีนํ 
+<span class="LineNumber"> 017 </span>สพฺพธมฺมานํ  รูปาทิสภาวตาสงฺขาตา  ตถตา  นาม  อตฺถิ  สา 
+<span class="LineNumber"> 018 </span>จ  สงฺขเตสุ รูปาทีสุ  อปริยาปนฺนตฺตา  อสงฺขตาติ  ลทฺธิ
+<span class="LineNumber"> 019 </span>เสยฺยถาปิ  เอกจฺจานํ  อุตฺตราปถกานํ  เต สนฺธาย  ปุจฺฉา
+<span class="LineNumber"> 020 </span># ๑. ม. ปฏลพฺภติ ฯ  ๒. ม. มฺติ ฯ

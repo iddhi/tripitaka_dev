@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  17   ติสฺสตฺเถรวตฺถุ   หน้า  45
+
+<span class="LineNumber"> 002 </span>อวิทูเร  เอโก  สโร  อตฺถิ  ตตฺถ  นํ  สีเส  มตฺติกาปิณฺฑํ
+<span class="LineNumber"> 003 </span>กตฺวา  คลปฺปมาเณ  อุทเก  €ปาเปหีติ  อาห ฯ  ราชา
+<span class="LineNumber"> 004 </span>ตถา  กาเรสิ ฯ  นารโท  เทวลํ  อามนฺเตตฺวา  อาจริย  มยา
+<span class="LineNumber"> 005 </span>อิทฺธิยา  วิสฺสฏฺ€าย  สุริยสนฺตาเป  อุฏฺ€หนฺเต  ตฺวํ  อุทเก
+<span class="LineNumber"> 006 </span>นิมุชฺชิตฺวา  อฺเน  €าเนน  อุตฺตริตฺวา  คจฺเฉยฺยาสีติ  อาห ฯ
+<span class="LineNumber"> 007 </span>ตสฺส  สุริยรํสีหิ  สมฺผุฏฺ€มตฺโตว  มตฺติกาปิณฺโฑ  สตฺตธา
+<span class="LineNumber"> 008 </span>ผลิ ฯ โส นิมุชฺชิตฺวา อฺเน €าเนน ปลายิ ฯ
+<span class="LineNumber"> 009 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  ตทา  ภิกฺขเว  ราชา
+<span class="LineNumber"> 010 </span>อานนฺโท อโหสิ เทวโล ติสฺโส นารโท อหเมว เอวํ ตทาเปส
+<span class="LineNumber"> 011 </span>ทุพฺพโจเยวาติ  วตฺวา  ติสฺสตฺเถรํ  อามนฺเตตฺวา  ติสฺส  ภิกฺขุโน
+<span class="LineNumber"> 012 </span>หิ  อสุเกนาหํ  อกฺกุฏฺโ€  อสุเกน  ปหโฏ  อสุเกน  ชิโต  อสุโก
+<span class="LineNumber"> 013 </span>เม  ภณฺฑํ  อหาสีติ  จินฺเตนฺตสฺส  เวรนฺนาม  น  วูปสมฺมติ
+<span class="LineNumber"> 014 </span>เอวํ  ปน อนุปนยฺหนฺตสฺเสว อุปสมฺมตีติ วตฺวา อิมา คาถา
+<span class="LineNumber"> 015 </span>อภาสิ
+<span class="LineNumber"> 016 </span>	อกฺโกจฺฉิ มํ อวธิ มํ  อชินิ มํ อหาสิ เม
+<span class="LineNumber"> 017 </span>	เย จ ตํ อุปนยฺหนฺติ	เวรํ เตสํ น สมฺมติ ฯ
+<span class="LineNumber"> 018 </span>	อกฺโกจฺฉิ มํ อวธิ มํ  อชินิ มํ อหาสิ เม
+<span class="LineNumber"> 019 </span>	เย จ ตํ นูปนยฺหนฺติ	เวรํ เตสูปสมฺมตีติ ฯ
+<span class="LineNumber"> 020 </span>	ตตฺถ  อกฺโกจฺฉีติ  อกฺโกสิ ฯ  อวธีติ  ปหริ ฯ  อชินีติ
+<span class="LineNumber"> 021 </span>กุฏสกฺขึ  โอตารเณน  วา  วาทปฺปฏิวาเทน  วา  กรณุตฺตริย-

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	<B>กตมญฺจ  ภิกฺขเว</B>		ดูก่อนภิกษุทั้งหลาย   อริยสัจ  คือ 
+<span class="LineNumber"> 002 </span><B>ทุกฺขนิโรโธ  อริยสจฺจํ</B>		ทุกขนิโรธ  [ธรรมเป็นที่ดับทุกข์]
+<span class="LineNumber"> 003 </span>					เป็นอย่างไรเล่า ?
+<span class="LineNumber"> 004 </span><B>โย  ตสฺสาเยว  ตณฺหาย</B>		[คือ]  ความสำรอกและความดับ
+<span class="LineNumber"> 005 </span><B>อเสสวิราคนิโรโธ  จาโค</B>		โดยไม่เหลือ  ความสละ  ความ
+<span class="LineNumber"> 006 </span><B>ปฏินิสฺสคฺโค  มุตฺติ  อนาลโย</B>	ส่งคืน  ความปล่อยวาง  ความไม่
+<span class="LineNumber"> 007 </span>					มีอาลัยในตัณหานั้นนั่นแล  อันใด
+<span class="LineNumber"> 008 </span><B>สา  โข  ปเนสา  ภิกฺขเว</B>		ดูก่อนภิกษุทั้งหลาย  ก็แลตัณหา
+<span class="LineNumber"> 009 </span><B>ตณฺหา  กตฺถ  ปหิยฺยมานา</B>		นั้นนั่น  เมื่อบุคคลจะละเสีย  ย่อม
+<span class="LineNumber"> 010 </span><B>ปหิยฺยติ</B>				ละเสียได้ในที่ไหน
+<span class="LineNumber"> 011 </span><B>กตฺถ  นิรุชฺฌมานา  นิรุชฺฌติ</B>	เมื่อจะดับ  ย่อมดับในที่ไหน
+<span class="LineNumber"> 012 </span><B>ยํ  โลเก  ปิยรูปํ  สาตรูปํ</B>		ที่ใดเป็นที่รักสนิทใจในโลก
+<span class="LineNumber"> 013 </span><B>เอตฺเถสา  ตณฺหา</B>			ตัณหานั้น  เมื่อบุคคลจะละเสีย
+<span class="LineNumber"> 014 </span><B>ปหิยฺยมานา  ปหิยฺยติ</B>		ก็ย่อมละเสียได้ในที่นั้น
+<span class="LineNumber"> 015 </span><B>เอตฺถ  นิรุชฺฌมานา นิรุชฺฌติ</B>	เมื่อจะดับ  ก็ย่อมดับในที่นั้น
+<span class="LineNumber"> 016 </span><B>กิญฺจ  โลเก</B>				ก็อะไรเล่าเป็นที่รักสนิทใจในโลก ?
+<span class="LineNumber"> 017 </span><B>ปิยรูปํ  สาตรูปํ</B>
+<span class="LineNumber"> 018 </span>	<B>๑.  จกฺขุํ</B>			ตา
+<span class="LineNumber"> 019 </span><B>ปิยรูปํ  สาตรูปํ  โลเก</B>		เป็นที่รักสนิทใจในโลก
+
+				

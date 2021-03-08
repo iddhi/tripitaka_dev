@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  นิทานวณฺณนา  หน้า 5
+
+<span class="LineNumber"> 002 </span>อาทีสุ  กถเน ฯ  อิธาปิ  กถเน  ทฏฺ€พฺโพ ฯ ตสฺมา วุตฺตํ
+<span class="LineNumber"> 003 </span>กถิตํ ภาสิตนฺติ อตฺโถ ฯ ทุติโย  ปน  วุตฺตสทฺโท  วจเน 
+<span class="LineNumber"> 004 </span>จิณฺณภาเว  จ  เวทิตพฺโพ ฯ  
+<span class="LineNumber"> 005 </span>	หิอิติ  ชาตุ  วิพฺยตฺตนฺติ  เอตสฺมึ  อตฺเถ  นิปาโต ฯ  โส 
+<span class="LineNumber"> 006 </span>อิทานิ  วุจฺจมานสุตฺตสฺส  ภควโต  วิพฺยตฺตํ  ภาสิตภาวํ  (๑)  โชเตติ ฯ
+<span class="LineNumber"> 007 </span>วาจกสทฺทสนฺนิธาเน  (๒)  หิ  ปยุตฺตา  นิปาตา  เตหิ วตฺตพฺพมตฺถํ 
+<span class="LineNumber"> 008 </span>โชเตนฺติ ฯ 
+<span class="LineNumber"> 009 </span>	เอตนฺติ อยํ เอตสทฺโท
+<span class="LineNumber"> 010 </span>		โย จ พุทฺธฺจ ธมฺมฺจ	สํฆฺจ สรณงฺคสโต
+<span class="LineNumber"> 011 </span>		จตฺตาริ อริยสจฺจานิ	สมฺมปฺปฺาย ปสฺสติ ฯ
+<span class="LineNumber"> 012 </span>		ทุกฺขํ ทุกขสมุปฺปาทํ	ทุกฺขสฺส จ อติกฺกมํ
+<span class="LineNumber"> 013 </span>		อริยฺจฏฺ€งฺคิกํ มคฺคํ	ทุกฺขูปสมคามินํ ฯ
+<span class="LineNumber"> 014 </span>		เอตํ โข สรณํ เขมํ	เอตํ สรณมุตฺตมํ
+<span class="LineNumber"> 015 </span>		เอตํ สรณมาคมฺม	สพฺพทุกฺขา ปมุจฺจตีติ(๓)อาทีสุ  
+<span class="LineNumber"> 016 </span>ยถาวุตฺเต  อาสนฺนปจฺจกฺเข  อาคโต ฯ  อปฺปมตฺตกํ  โข  ปเนตํ 
+<span class="LineNumber"> 017 </span>ภิกฺขเว  โอรมตฺตกํ  สีลมตฺตกํ  เยน  ปุถุชฺชโน  ตถาคตสฺส  วณฺณํ  
+<span class="LineNumber"> 018 </span>วทมาโน  วเทยฺยาติอาทีสุ  (๔) ปน  วกฺขมาเน  อาสนฺนปจฺจกฺเข
+<span class="LineNumber"> 019 </span>อาคโต (๕) ฯ  อิธาปิ  วกฺขมาเนเยว  ทฏฺ€พฺโพ ฯ  สงฺคายนวเสน  
+<span class="LineNumber"> 020 </span># ๑. สี. พฺยตฺตภาสิตภาวํ ฯ ๒. สี. วาจกสทฺทสนฺนิฏฺ€าเน ฯ
+<span class="LineNumber"> 021 </span># ๓. ขุ. ธ. ๒๕/๒๔/๔๐ ฯ  ๔. ที. สี. ๙/๒/๔ ฯ  
+<span class="LineNumber"> 022 </span># ๕. ม. อยํ ปาโ€ นตฺถิ ฯ

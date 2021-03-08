@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>บิณฑบาต  พึงให้เสนาสนะ  ฯลฯ  พึงให้คิลานปัจจยเภสัชชบริขาร  หรือ ? 
+<span class="LineNumber"> 002 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                       ส. หากว่า  ปุถุชนพึงให้คิลานปัจจยเภสัชชบริขาร  ก็ต้อง
+<span class="LineNumber"> 004 </span>ไม่กล่าวว่า  ญาณไม่มีแก่ปุถุชน.
+<span class="LineNumber"> 005 </span>         [๑๘๑๗]  ป.  ญาณของปุถุชนมีอยู่ หรือ ?
+<span class="LineNumber"> 006 </span>                       ส. ถูกแล้ว.  
+<span class="LineNumber"> 007 </span>                       ป. ปุถุชน  กำหนดรู้ทุกข์   ละสมุทัย    กระทำให้แจ้งซึ่ง
+<span class="LineNumber"> 008 </span>นิโรธ   ยังมรรคให้เกิดด้วยญาณนั้น หรือ ?
+<span class="LineNumber"> 009 </span>                       ส. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>                                    <I>ญาณกถา  จบ</I>
+
+<span class="LineNumber"> 011 </span>                           <H2>อรรถกถาญาณกถา</H2>
+
+<span class="LineNumber"> 012 </span>                                <H2>ว่าด้วย  ญาณ</H2>
+
+<span class="LineNumber"> 013 </span>         บัดนี้   ชื่อว่าเรื่องญาณ<SUP>๑</SUP>.   ในเรื่องนั้น  ญาณ  ๒  คือ  โลกิยญาณ
+<span class="LineNumber"> 014 </span>และโลกุตตรญาณ   ญาณในสมาบัติก็ดี  กัมมัสสกตาญาณที่เป็นไปด้วย
+<span class="LineNumber"> 015 </span>สามารถแห่งการให้ทานเป็นต้นก็ดี   เรียกว่า   โลกิยญาณ  มัคคญาณอัน
+<span class="LineNumber"> 016 </span>กำหนดสัจจะก็ดี  ผลญาณก็ดี  เรียกว่า  โลกุตตรญาณ.  ก็ชนเหล่าใดไม่
+<span class="LineNumber"> 017 </span>ทำวิภาคนี้    มีความเห็นผิดดุจลัทธินิกายเหตุวาทะว่า      ญาณที่กำหนด
+<span class='footnote'>๑. ไวพจน์ของญาณ คือ   ปัญญา  ความเข้าใจ  ความวิจัย  ความสอบสวน   ความใคร่ครวญ  ธัมมวิจยะ</span>
+<span class='footnote'>     คือความพิจารณาธรรม ความกำหนด  ความเข้าไปกำหนดเฉพาะ.</span>

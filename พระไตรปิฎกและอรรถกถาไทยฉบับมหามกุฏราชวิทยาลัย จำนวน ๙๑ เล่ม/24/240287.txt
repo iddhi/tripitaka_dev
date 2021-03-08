@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                               <h1>๓.  ตัณหาสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๑๘๒]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 003 </span>                             <B>โลกอันอะไรหนอย่อมนำไป    อัน
+<span class="LineNumber"> 004 </span>                   อะไรหนอย่อมเสือกไสไป   โลกทั้งหมด
+<span class="LineNumber"> 005 </span>                   เป็นไปตามอำนาจของธรรมอันหนึ่งคือ
+<span class="LineNumber"> 006 </span>                   อะไร.</B>
+<span class="LineNumber"> 007 </span>         [๑๘๓]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 008 </span>                             <B>โลกอันตัณหาย่อมนำไป  อันตัณหา
+<span class="LineNumber"> 009 </span>                   ย่อมเสือกไสไป    โลกทั้งหมดเป็นไปตาม
+<span class="LineNumber"> 010 </span>                   อำนาจของธรรมอันหนึ่ง   คือตัณหา.</B>

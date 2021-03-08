@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   รูปายตนะจักเกิดแก่บุคคลใด,     ฆานายตนะก็จักเกิด
+<span class="LineNumber"> 002 </span>แก่บุคคลนั้น  ใช่ไหม  ? 
+<span class="LineNumber"> 003 </span>         บุคคลเหล่าใดจักเกิดในรูปาวจรภูมิแล้วจักปรินิพพาน      รูปา-
+<span class="LineNumber"> 004 </span>ยตนะจักเกิดแก่บุคคลเหล่านั้น       แต่ฆานายตนะไม่ใช่จักเกิดแก่บุคคล 
+<span class="LineNumber"> 005 </span>เหล่านั้น,    บุคคลที่นอกจากนั้น   รูปายตนะจักเกิด    และฆานายตนะก็
+<span class="LineNumber"> 006 </span>จักเกิดแก่บุคคลเหล่านั้น.                                                          
+<span class="LineNumber"> 007 </span>                          <I>จบ  ฆานายตนมูละ  รูปายตนมูลี</I>
+
+<span class="LineNumber"> 008 </span><H2>ฆานายตนมูละ  มนายตนะ ฯ ล ฯ ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 009 </span>         [๓๗๗]   ฆานายตนะจักเกิดแก่บุคคลใด,  มนายตนะ   ฯ ล ฯ
+<span class="LineNumber"> 010 </span>ธัมมายตนะก็จักเกิดแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า   ธัมมายตนะจักเกิดแก่บุคคลใด,   ฆานายตนะก็จักเกิด
+<span class="LineNumber"> 013 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         บุคคลเหล่าใดจักเกิดในรูปาวจรภูมิก็ดี   ในรูปาวจรภูมิก็ดี   แล้ว
+<span class="LineNumber"> 015 </span>จักปรินิพพาน    ธัมมายตนะจักเกิดแก่บุคคลเหล่านั้น    แต่ฆานายตนะ

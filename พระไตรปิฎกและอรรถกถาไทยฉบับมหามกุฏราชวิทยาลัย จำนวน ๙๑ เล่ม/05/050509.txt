@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                              <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 002 </span> 		                        <H2>ติกะปาฏิเทสนียะ</H2>
+<span class="LineNumber"> 003 </span>           [๔๘๗]  ภิกษุณีไม่เป็นไข้  สำคัญว่าเป็นไข้  ขอเนยใสมาฉัน     ต้อง
+<span class="LineNumber"> 004 </span>อาบัติปาฏิเทสนียะ.
+<span class="LineNumber"> 005 </span>           ภิกษุณีไม่เป็นไข้   มีความสงสัย    ขอเนยใสมาฉัน    ต้องอาบัติปาฏิ-
+<span class="LineNumber"> 006 </span> เทสนียะ.                                                   
+<span class="LineNumber"> 007 </span>           ภิกษุณีไม่เป็นไข้    สำคัญว่าเป็นไข้    ขอเนยใสมาฉัน     ต้องอาบัติ
+<span class="LineNumber"> 008 </span> ปาฏิเทสนียะ.
+
+<span class="LineNumber"> 009 </span>                                             <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 010 </span>            ภิกษุณีเป็นไข้  สำคัญว่าไม่เป็นไข้   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 011 </span>             ภิกษุณีเป็นไข้   มีความสงสัย   ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 012 </span>                                           <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 013 </span>           ภิกษุณีเป็นไข้   สำคัญว่าเป็นไข้  ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 014 </span>                                             <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 015 </span>            [๔๘๘]  อาพาธ ๑ อาพาธขอได้มา    หายอาพาธแล้วจึงฉัน ๑   ฉัน
+<span class="LineNumber"> 016 </span> เนยใสที่เหลือของภิกษุณีผู้อาพาธ ๑   ฉันเนยใสของญาติ ๑   ฉันเนยใสของคน
+<span class="LineNumber"> 017 </span> ปวารณา ๑  ขอเพื่อประโยชน์ผู้อื่น ๑  จ่ายมาด้วยทรัพย์ของตน ๑  วิกลจริต ๑
+<span class="LineNumber"> 018 </span> อาทิกัมมิกา ๑ ไม่ต้องอาบัติแล.
+
+<span class="LineNumber"> 019 </span>                               <I>ปาฏิเทสนียะ  สิกขาบทที่  ๑  จบ</I>

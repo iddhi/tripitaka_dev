@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  26  มหาโมคฺคลฺลานตฺเถรคาถาวณฺณนา  หน้า  813  
+
+<span class="LineNumber"> 002 </span>	อารทฺธวิริโย  ปหิตตฺโต  		อิทฺธิยา  ปารมึ  คโต  
+<span class="LineNumber"> 003 </span>	สพฺพาสเว  ปริฺาย  		นิพฺพายิสฺสตฺยนาสโว ฯ  
+<span class="LineNumber"> 004 </span>	ปาปมิตฺโตปนิสฺสาย  		กามราควสํ  คโต  
+<span class="LineNumber"> 005 </span>	มาตรํ  ปิตรฺจาปิ  			ฆาตยึ  ทุฏฺ€มานโส ฯ  
+<span class="LineNumber"> 006 </span>	ยํ  ยํ  โยนุปปชฺชามิ  		นิรยํ  อถ  มานุสํ  
+<span class="LineNumber"> 007 </span>	ปาปกมฺมสมงฺคิตา  (๑)		ภินฺนสีโส  มรามหํ  (๒)  ฯ  
+<span class="LineNumber"> 008 </span>	อิทํ  ปจฺฉิมกํ  มยฺหํ  			จริโม  วตฺตเต  ภโว  
+<span class="LineNumber"> 009 </span>	อิธาปิ  อีทิโส  (๓)  มยฺหํ  	มรณกาเล  ภวิสฺสติ ฯ  
+<span class="LineNumber"> 010 </span>	ปวิเวกมนุยุตฺโต  			สมาธิภาวนารโต  
+<span class="LineNumber"> 011 </span>	สพฺพาสเว  ปริฺาย  		วิหรามิ  อนาสโว ฯ  
+<span class="LineNumber"> 012 </span>	ธรณิมฺปิ  สุคมฺภีรํ  			พหลํ  ทุปฺปธํสิยํ  
+<span class="LineNumber"> 013 </span>	วามงฺคุฏฺเ€น  โขเภยฺยํ  (๔)  	อิทฺธิยา  ปารมึ  คโต ฯ  
+<span class="LineNumber"> 014 </span>	อสฺมิมานํ  น  ปสฺสามิ  		มาโน  มยฺหํ  น  วิชฺชติ  
+<span class="LineNumber"> 015 </span>	สามเณเร  อุปาทาย  		ครุจิตฺตํ  กโรมหํ ฯ  
+<span class="LineNumber"> 016 </span>	อปริเมยฺเย  อิโต  กปฺเป  		ยํ  กมฺมํ  อภินีหรํ  (๕)  
+<span class="LineNumber"> 017 </span>	ตาหํ  (๖)  ภูมิมนุปฺปตฺโต  	ปตฺโตมฺหิ  อาสวกฺขยํ ฯ  
+<span class="LineNumber"> 018 </span>	ปฏิสมฺภิทา  จตสฺโส ฯ เป ฯ  	กตํ  พุทฺธสฺส  สาสนนฺติ ฯ  
+<span class="LineNumber"> 019 </span>		มหาโมคฺคลฺลานตฺเถรคาถาวณฺณนา  นิฏฺ€ิตา  ฯ  
+<span class="LineNumber"> 020 </span>			สฏฺ€ินิปาตวณฺณนา  นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 021 </span>#๑.  สฺยา.  สมงฺคิตํ  ฯ  ยุ. ...สมงฺคีนํ  ฯ  ๒.  ยุ  ภวามหํ  ฯ
+<span class="LineNumber"> 022 </span>#๓.  สฺยา.  อีทิสํ  ฯ  ๔.  สฺยา.  จาเลยฺยํ  ฯ  ๕.  สฺยา.  ยํ  กมฺมํ 
+<span class="LineNumber"> 023 </span>#อภินีหรํ  ฯ  ๖.  สิา.  ตมหํ  ฯ  

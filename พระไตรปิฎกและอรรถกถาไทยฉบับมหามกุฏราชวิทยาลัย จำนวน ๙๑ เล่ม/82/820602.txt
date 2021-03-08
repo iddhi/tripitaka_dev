@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   มนายตนะไม่ใช่เคยดับแก่บุคคลใดในภูมิใด,    ฆานา-  
+<span class="LineNumber"> 002 </span>ยตนะก็ไม่ใช่กำลังดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>                          <I>จบ  ฆานายตนมูละ   มนายตนมูลี</I>
+
+<span class="LineNumber"> 005 </span><H2>ฆานายตนมูละ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 006 </span>         [๖๑๐]   ฆานายตนะไม่ใช่กำลังดับแก่บุคคลใดในภูมิใด, ธัมมา- 
+<span class="LineNumber"> 007 </span>ยตนะก็ไม่ใช่เคยดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม   ?
+<span class="LineNumber"> 008 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังเกิดก็ดี    บุคคลที่ฆานะเกิดไม่ได้
+<span class="LineNumber"> 009 </span>กำลังตายก็ดี       ฆานายตนะไม่ใช่กำลังดับแก่บุคคลเหล่านั้นในภูมินั้น
+<span class="LineNumber"> 010 </span>แต่ธัมมายตนะเคยดับแก่บุคคลเหล่านั้นในภูมินั้น,    บุคคลที่เกิดอยู่ใน
+<span class="LineNumber"> 011 </span>สุทธาวาสภูมิก็ดี    ฆานายตนะไม่ใช่กำลังดับ     และธัมมายตนะก็ไม่ใช่ 
+<span class="LineNumber"> 012 </span>เคยดับแก่บุคคลเหล่านั้นในภูมินั้น.                                  
+<span class="LineNumber"> 013 </span>         ก็หรือว่า   ธัมมายตนะไม่ใช่เคยดับแก่บุคคลใดในภูมิใด,  ฆานา- 
+<span class="LineNumber"> 014 </span>ยตนะก็ไม่ใช่กำลังดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ใช่.                                                                                                      
+<span class="LineNumber"> 016 </span>                           <I>จบ  ฆานายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 017 </span>                                        <I>ฆานายตนมูล  จบ</I>

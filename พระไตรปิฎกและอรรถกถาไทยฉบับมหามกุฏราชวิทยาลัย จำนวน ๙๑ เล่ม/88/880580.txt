@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่สหรคตด้วยโลภะที่เป็นทิฏฐิคตวิปปยุตต-
+<span class="LineNumber"> 002 </span>ธรรม   และโลภะ ฯลฯ  ขันธ์ ๒ ฯลฯ 
+<span class="LineNumber"> 003 </span>           ขันธ์ ๓    อาศัยขันธ์ ๑    ที่สหรคตด้วยโทมนัส    และปฏิฆะ ฯลฯ
+<span class="LineNumber"> 004 </span>ขันธ์ ๒  ฯลฯ
+<span class="LineNumber"> 005 </span>                       ๘.  <B>คันถวิปปยุตตธรรม     อาศัยคันถสัมปยุตตธรรม
+<span class="LineNumber"> 006 </span>และคันถวิปปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ   จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลายที่เป็นคันถสัมปยุตตธรรม
+<span class="LineNumber"> 008 </span>และมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 009 </span>           จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่สหรคตด้วยโลภะที่เป็นทิฏฐิคต-
+<span class="LineNumber"> 010 </span>วิปปยุตตธรรม   และโลภะ.
+<span class="LineNumber"> 011 </span>           จิตตสมุฏฐานรูป อาศัยขันธ์ทั้งหลายที่สหรคตด้วยโทมนัส และปฏิฆะ.
+<span class="LineNumber"> 012 </span>                       ๙.  <B>คันถสัมปยุตตธรรม       และคันถวิปปยุตตธรรม
+<span class="LineNumber"> 013 </span>อาศัยคันถสัมปยุตตธรรม  และคันถวิปปยุตตธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 014 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑ ที่สหรคตด้วยโลภะ
+<span class="LineNumber"> 016 </span>ที่เป็นทิฏฐิคตวิปปยุตตธรรม   และโลภะ ฯลฯ   ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 017 </span>           ขันธ์ ๓ และจิตตสมุฏฐานรูป      อาศัยขันธ์ ๑ ที่สหรคตด้วยโทมนัส
+<span class="LineNumber"> 018 </span>และปฏิฆะ ฯลฯ  ขันธ์ ๒ ฯลฯ
+
+<span class="LineNumber"> 019 </span>                                 <H2>๒.  อารัมมณปัจจัย</H2> 
+<span class="LineNumber"> 020 </span>           [๕๒๘]  ๑.  <B>คันถสัมปยุตตธรรม    อาศัยคันถสัมปยุตตธรรม
+<span class="LineNumber"> 021 </span>เกิดขึ้น  เพราะอารัมมณปัจจัย</B>

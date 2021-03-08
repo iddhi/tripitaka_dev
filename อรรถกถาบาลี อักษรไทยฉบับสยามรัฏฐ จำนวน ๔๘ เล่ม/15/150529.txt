@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๕  หน้า  ๕๒๙
+
+<span class="LineNumber"> 002 </span>			เถรวคฺควณฺณนา   
+<span class="LineNumber"> 003 </span>	จตุตฺถสฺส  ป€เม  วิมริยาทิกเตนาติ  กิเลสมริยาทํ  
+<span class="LineNumber"> 004 </span>ภินฺทิตฺวา วิมริยาทํ กเตน ฯ 
+<span class="LineNumber"> 005 </span>				ปฐมํ ฯ
+<span class="LineNumber"> 006 </span>	ทุติยํ อุตฺตานตฺถเมว ฯ  
+<span class="LineNumber"> 007 </span>				ทุติยํ ฯ
+<span class="LineNumber"> 008 </span>	ตติเย โน จ ปยิรุปาสิตาติ น อุปฏฺ€าติ ฯ  
+<span class="LineNumber"> 009 </span>				ตติยํ ฯ
+<span class="LineNumber"> 010 </span>	จตุตฺเถ  ฌายี  สมาปตฺติกุสโลติ ฌาเนหิ จ สมฺปนฺโน 
+<span class="LineNumber"> 011 </span>สมาปตฺติยฺจ เฉโก ฯ  อิริณนฺติ  ตุจฺฉภาวํ ฯ  วิจินนฺติ  คุณวิจินตํ (๑)
+<span class="LineNumber"> 012 </span>นิคฺคุณภาวํ ฯ อถวา อิริณสงฺขาตํ มหาอรฺํ  วิจินสงฺขาตํ  (๒)
+<span class="LineNumber"> 013 </span>มหาคหนฺจ  อาปนฺโน  วิย  โหติ ฯ  อนยนฺติ  อวฑฺฒึ ฯ 
+<span class="LineNumber"> 014 </span>พฺยสนนฺติ วินาสํ ฯ อนยพฺยสนนฺติ  อวฑฺฒิวินาสํ ฯ กึ นุ 
+<span class="LineNumber"> 015 </span>โขติ เกน การเณน ฯ  
+<span class="LineNumber"> 016 </span>				จตุตฺถํ ฯ
+<span class="LineNumber"> 017 </span>	ปฺจเม  กตฺถี  โหติ  วิกตฺถีติ  กตฺถนสีโล  โหติ (๓) วิกตฺถน-
+<span class="LineNumber"> 018 </span>สีโล วิวฏํ  กตฺวา  กเถติ ฯ  (๓)  น  สนฺตตการีติ น สตตการี (๔) ฯ 
+<span class="LineNumber"> 019 </span>				ปญฺจมํ ฯ
+<span class="LineNumber"> 020 </span>	ฉฏฺเ€ อธิมานิโกติ อนธิคเต  อธิคตมาเนน สมนฺนาคโต ฯ
+<span class="LineNumber"> 021 </span>#๑. สี. วิปินนฺติ คุณวิวิตฺตกํ ฯ  ๒. สี. วิปินสงฺขาตํ ฯ  ๓. สี. กถนสีโล
+<span class="LineNumber"> 022 </span>#วิวฏํ กเถติ ฯ  ๔. ม. น สตตการี ฯ

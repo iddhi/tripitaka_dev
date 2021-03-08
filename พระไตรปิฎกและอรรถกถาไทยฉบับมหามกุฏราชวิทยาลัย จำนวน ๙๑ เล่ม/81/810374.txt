@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>นีวุตตกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๒๓]   <B>สกวาที</B>    บุคคลเป็นผู้มีจิตอันนิวรณ์ครอบงำแล้ว  ละนิวรณ์
+<span class="LineNumber"> 003 </span>หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. บุคคลเป็นผู้มีจิตอันราคะย้อมแล้ว  ละราคะ เป็นผู้มีจิต
+<span class="LineNumber"> 006 </span>อันโทสะประทุษร้ายแล้ว   ละโทสะ    เป็นผู้มีจิตหลงแล้ว   ละโมหะ   เป็นผู้
+<span class="LineNumber"> 007 </span>มีจิตเศร้าหมองแล้ว  ละกิเลสหรือ ?
+<span class="LineNumber"> 008 </span>                        ป.  ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 009 </span>                        ส.  บุคคลละราคะด้วยราคะ    ละโทสะด้วยโทสะ  ละโมหะ
+<span class="LineNumber"> 010 </span>ด้วยโมหะ  ละกิเลสด้วยกิเลส หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>                        ส. ราคะก็สัมปยุตด้วยจิต  มรรคก็สัมปยุตด้วยจิต    หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                        ส. เป็นความประชุมแห่งผัสสะ ๒ ฯลฯ  แห่งจิต  ๒ หรือ ?
+<span class="LineNumber"> 015 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 016 </span>                        ส. ราคะ  เป็นอกุศล   มรรคเป็นกุศล หรือ ?
+<span class="LineNumber"> 017 </span>                        ป. ถูกแล้ว. 
+<span class="LineNumber"> 018 </span>                        ส. ธรรมเป็นกุศลและธรรมเป็นอกุศล    ธรรมมีโทษและ
+<span class="LineNumber"> 019 </span>ธรรมไม่มีโทษ   ธรรมเลวและธรรมประณีต   ธรรมดำและธรรมขาวอัน
+<span class="LineNumber"> 020 </span>เป็นข้าศึกกัน   มาพบกันหรือ ?
+<span class="LineNumber"> 021 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 022 </span>                        ส. ธรรมเป็นกุศลและธรรมเป็นอกุศล   ธรรมมีโทษและ

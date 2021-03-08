@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>โอกาสวาระ</H1>
+<span class="LineNumber"> 002 </span>                                    <H1>จักขายตนมูล</H1> 
+<span class="LineNumber"> 003 </span><H2>จักขายตนมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๕๐๙]  จักขายตนะไม่ใช่เคยเกิดในภูมิใด, ฯ ล ฯ
+<span class="LineNumber"> 005 </span>                                <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                 <I>โอกาสวาระ   จบ</I>
+<span class="LineNumber"> 007 </span>                                  <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                    <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 009 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๕๑๐]  จักขายตนะไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด,  โสตา-
+<span class="LineNumber"> 011 </span>ยตนะก็ไม่ใช่จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>         ใช่.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า  โสตายตนะไม่ใช่จักเกิดแก่บุคคลใดในภูมิใด,   จักขา-
+<span class="LineNumber"> 014 </span>ยตนะก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?

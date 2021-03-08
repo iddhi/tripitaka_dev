@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H1>ปทโสธนมูลจักกวาระ  อนุโลม</H1> :- 
+<span class="LineNumber"> 002 </span>         [๘๐]   กุศลชื่อว่ากุศลธรรมใช่ไหม ? ธรรมชื่อว่าอกุศลธรรม
+<span class="LineNumber"> 003 </span>ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         กุศลชื่อว่ากุศลธรรม ใช่ไหม ?   ธรรมชื่อว่าอัพยากตธรรม  ใช่
+<span class="LineNumber"> 005 </span>         อกุศลชื่อว่าอกุศลธรรม  ใช่ไหม ?   ธรรมชื่อว่า กุศลธรรม  ใช่
+<span class="LineNumber"> 006 </span>ไหม ? 
+<span class="LineNumber"> 007 </span>         อกุศลชื่อว่าอกุศลธรรม  ใช่ไหม ?  ธรรมชื่อว่าอัพยากตธรรม
+<span class="LineNumber"> 008 </span>ใช่ไหม ? 
+<span class="LineNumber"> 009 </span>         อัพยากตะชื่อว่าอัพยากตธรรม  ใช่ไหม ? ธรรมชื่อว่ากุศลธรรม
+<span class="LineNumber"> 010 </span>ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         อัพยากตะชื่อว่าอัพยากตธรรม   ใช่ไหม ?   ธรรมชื่อว่าอกุศล
+<span class="LineNumber"> 012 </span>ธรรม  ใช่ไหม ?
+<span class="LineNumber"> 013 </span><H1>ปทโสธนมูลจักกวาระ  ปฏิโลม</H1> :-
+<span class="LineNumber"> 014 </span>         [๘๑]   ไม่ใช่กุศล  ไม่ชื่อว่ากุศลธรรม ใช่ไหม ?  ไม่ใช่ธรรม
+<span class="LineNumber"> 015 </span>ไม่ชื่อว่าอกุศลธรรม  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ไม่ใช่กุศล  ไม่ชื่อว่ากุศลธรรม  ใช่ไหม ?    ไม่ใช่ธรรม    ไม่
+<span class="LineNumber"> 017 </span>ชื่อว่าอัพยากตธรรม  ใช่ไหม ?

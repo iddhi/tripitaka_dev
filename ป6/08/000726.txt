@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       [ว่าด้วยปฐมปาราชิกสมุฏฐาน]
+<span class="LineNumber"> 002 </span>           บัดนี้  ท่านกล่าวคำว่า  <B>เมถุนํ  สุกฺกสํสคฺโค</B>  เป็นต้น  เพื่อ
+<span class="LineNumber"> 003 </span>แสดงสมุฏฐานเหล่านี้.
+<span class="LineNumber"> 004 </span>           บรรดาบทเหล่านั้น  บทว่า  <B>เมถุนํ</B>  นี้  พึงทราบก่อน.  สมุฏฐาน
+<span class="LineNumber"> 005 </span>ใหญ่อันหนึ่ง  ชื่อว่าปฐมปาราชิก.  สมุฏฐานที่เหลือ  คล้ายกับ
+<span class="LineNumber"> 006 </span>ปฐมปาราชิกสมุฏฐานนั้น.
+<span class="LineNumber"> 007 </span>           บรรดาคาถานั้น  บทว่า  <B>สุกฺกสํสคฺโค</B>  ได้แก่  สุกกวิสฏฐิ-
+<span class="LineNumber"> 008 </span>สมุฏฐาน  และกายสังสัคคสมุฏฐาน.
+<span class="LineNumber"> 009 </span>           บาทคาถาว่า  <B>อนิยตา  ป€มิกา</B> ได้แก่  อนิยตสิกขาบทที่ ๑.
+<span class="LineNumber"> 010 </span>           บาทคาถาว่า  <B>ปุพฺพูปปริปาจิตา</B>  ได้แก่  สิกขาบทที่ว่า  <B>ชานํ
+<span class="LineNumber"> 011 </span>ปุพฺพูปคตํ  ภิกฺขํ</B>  และภิกขุนีปริปาจิตปิณฆปาตสิกขาบท.
+<span class="LineNumber"> 012 </span>           บาทคาถาว่า <B>รโห  ภิกฺขุนิยา  สห</B>  (๔๖๙) ได้แก่ สิกขาบท
+<span class="LineNumber"> 013 </span>ว่าด้วยการนั่งในที่ลับกับภิกษุณี.
+<span class="LineNumber"> 014 </span>           บาทคาถาว่า  <B>สโภชเน  รโห  เทฺว  จ</B>  ได้แก่  สิกขาบทว่าด้วย
+<span class="LineNumber"> 015 </span>การนั่งแทรกแซง  ในสโภชนสกุล  และรโหนิสัชชสิกขาบททั้ง ๒.
+<span class="LineNumber"> 016 </span>           บาทคาถาว่า  <B>องฺคุลิ  อุทเก  หสํ</B>  ได้แก่  อังคุลีปโฏทก-
+<span class="LineNumber"> 017 </span>สิกขาบท  และอุทเกหัสสธัมมสิกขาบท.
+<span class="LineNumber"> 018 </span>           บาทคาถาว่า  <B>ปหาเร  อุคฺคิเร  เจว</B>  ได้แก่  ปหารทานสิกขาบท
+<span class="LineNumber"> 019 </span>และตลสัตติกอุคคิรณสิกขาบท.
+<span class="LineNumber"> 020 </span>           บาทคาถาว่า  <B>เตปฺาสา  จ  เสขิยา</B>  ได้แก่  เสขิยสิกขาบท ๕๓
+ 

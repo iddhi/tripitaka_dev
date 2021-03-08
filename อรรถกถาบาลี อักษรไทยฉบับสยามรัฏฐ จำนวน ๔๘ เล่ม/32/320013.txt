@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  เสตเกตุชาตกํ  หน้า 13
+
+<span class="LineNumber"> 002 </span>	ตํ สุตฺวา ปุโรหิโต จตุตฺถํ คาถมาห  
+<span class="LineNumber"> 003 </span>	[๘๔๐]ปาปานิ กมฺมานิ กริตฺว ราช  
+<span class="LineNumber"> 004 </span>		พหุสฺสุโต เนว จเรยฺย ธมฺมํ  
+<span class="LineNumber"> 005 </span>		สหสฺสเวโทปิ น ตํ ปฏิจฺจ  
+<span class="LineNumber"> 006 </span>		ทุกฺขา ปมุฺเจ จรณํ อปตฺวาติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  กริตฺวาติ  กตฺวา  ฯ  จรณนฺติ สห สีเลน อฏฺ€
+<span class="LineNumber"> 008 </span>สมาปตฺติโย ฯ  อิทํ  วุตฺตํ  โหติ  มหาราช  อหํ  พหุสฺสุโตมฺหีติ 
+<span class="LineNumber"> 009 </span>สหสฺสเวโทปิ  ติวิธํ  สุจริตธมฺมํ  น  จเรยฺย  ปาปาเนว  กเรยฺย 
+<span class="LineNumber"> 010 </span>โส  ตานิ  ปาปานิ  กมฺมานิ  กตฺวา  ตํ  พาหุสจฺจํ  ปฏิจฺจ 
+<span class="LineNumber"> 011 </span>สีลสมาปตฺติสงฺขาตํ  จรณํ  อปตฺวา ทุกฺขา น มุฺเจ อปายทุกฺขโต
+<span class="LineNumber"> 012 </span>น มุฺจเตวาติ ฯ  
+<span class="LineNumber"> 013 </span>	ตํ  สุตฺวา  ราชา  ตาปเสสุ  ปสาทํ  หริ  ฯ  ตโต  เสตเกตุ  
+<span class="LineNumber"> 014 </span>จินฺเตสิ  อิมสฺส  รฺโ  ตาปเสสุ  ปสาโท  อุทปาทิ  ตํ  ปเนส  
+<span class="LineNumber"> 015 </span>ปุโรหิโต  วาสิยา  ปหริตฺวา  วิย  ปจฺฉินฺทิ  มยา  เอเตน  สทฺธึ  
+<span class="LineNumber"> 016 </span>กเถตุํ วฏฺฏตีติ ฯ โส เตน สทฺธึ กเถนฺโต ปฺจมํ คาถมาห  
+<span class="LineNumber"> 017 </span>	[๘๔๑]สหสฺสเวโทปิ น ตํ ปฏิจฺจ  
+<span class="LineNumber"> 018 </span>		ทุกฺขา ปมุฺเจ จรณํ อปตฺวา  
+<span class="LineNumber"> 019 </span>		มฺามิ เวทา อผลา ภวนฺติ  
+<span class="LineNumber"> 020 </span>		สุสํยมํ จรณฺเว สจฺจนฺติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. กริตฺวา ฯ  ๒. ม. น ฯ ๓. ส. ม. สสํยมํ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. จรณเมว ฯ 

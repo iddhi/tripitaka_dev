@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  17  หน้า  118
+
+<span class="LineNumber"> 002 </span>			 นนฺทตฺเถรวตฺถุ
+<span class="LineNumber"> 003 </span>	ยถา  อคารํ  ทุจฺฉนฺนนฺติ  อิมํ  ธมฺมเทสนํ  สตฺถา  เชตวเน
+<span class="LineNumber"> 004 </span>วิหรนฺโต อายสฺมนฺตํ นนฺทํ อารพฺภ กเถสิ ฯ
+<span class="LineNumber"> 005 </span>	สตฺถา  หิ  ปวตฺติตปวรธมฺมจกฺโก  ราชคหํ  คนฺตฺวา
+<span class="LineNumber"> 006 </span>เวฬุวเน  วิหรนฺโต  ปุตฺตํ  เม  อาเนตฺวา  ทสฺเสถาติ
+<span class="LineNumber"> 007 </span>สุทฺโธทนมหาราเชน  เปสิตานํ  สหสฺสสหสฺสปริวารานํ  ทสนฺนํ
+<span class="LineNumber"> 008 </span>ทูตานํ  สพฺพปจฺฉโต  คนฺตฺวา  อรหตฺตํ  ปตฺเตน  กาฬุทายิตฺเถเรน
+<span class="LineNumber"> 009 </span>อาคมนกาลํ  ตฺวา  สฏฺ€ิมตฺตาย  คาถาย	มคฺควณฺณํ
+<span class="LineNumber"> 010 </span>วณฺเณตฺวา
+<span class="LineNumber"> 011 </span>วีสติสหสฺสขีณาสวปริวุโต  กปิลวตฺถุปุรํ  นีโต  าติสมาคเม
+<span class="LineNumber"> 012 </span>โปกฺขรวสฺสํ  อตฺถุปฺปตฺตึ  กตฺวา  มหาเวสฺสนฺตรชาตกํ  (๑)
+<span class="LineNumber"> 013 </span>กเถตฺวา
+<span class="LineNumber"> 014 </span>ปุนทิวเส  ปิณฺฑาย ปวิฏฺโ€  อุตฺติฏฺเ€  นปฺปมชฺเชยฺยาติ  (๒)
+<span class="LineNumber"> 015 </span>คาถาย
+<span class="LineNumber"> 016 </span>ปิตรํ  โสตาปตฺติผเล ปติฏฺ€าเปตฺวา  ธมฺมฺจเร  สุจริตนฺติ  (๓)
+<span class="LineNumber"> 017 </span>คาถาย  มหาปชาปตึ  โคตมึ  โสตาปตฺติผเล  ราชานฺจ
+<span class="LineNumber"> 018 </span>สกทาคามิผเล  ปติฏฺ€าเปสิ ฯ  ภตฺตกิจฺจปริโยสาเน  ปน
+<span class="LineNumber"> 019 </span>ราหุลมาตุคุณกถํ  นิสฺสาย  จนฺทกินฺนรีชาตกํ (๔)  กเถตฺวา  ตโต
+<span class="LineNumber"> 020 </span>ตติยทิวเส  นนฺทกุมารสฺส  อภิเสกเคหปฺปเวสนวิวาหมงฺคเลสุ
+<span class="LineNumber"> 021 </span>วตฺตมาเนสุ  ปิณฺฑาย  ปวิสิตฺวา  นนฺทกุมารสฺส  หตฺเถ  ปตฺตํ
+<span class="LineNumber"> 022 </span>ทตฺวา  มงฺคลํ  วตฺวา  อุฏฺ€ายาสนา  ปกฺกมนฺโต  นนฺทกุมารสฺส
+<span class="LineNumber"> 023 </span># ๑  ขุ. ชา.  มหา.  ๒๘/๓๖๕ฯ  ตทฏฺ€กถา ฯ ๑๐/๓๘๖ฯ  ๒  ขุ.ธ. ๒๕/๓๗ฯ
+<span class="LineNumber"> 024 </span># ๓ ขุ.ธ. ๒๕/๓๘ ฯ ๔.  ขุ. ชา. ปกิณฺณก. ๒๗/๓๖๘ ฯตทฏฺ€กถา ฯ ๖/๒๘๐ฯ

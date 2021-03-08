@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           วินัยบางอย่างเป็นติณวัตถารกะ   บางอย่างไม่เป็นติณวัตถารกะ  ติณ-  
+<span class="LineNumber"> 002 </span>วัตถารกะเป็นวินัย  แสะเป็นติณวัตถารกะ.
+<span class="LineNumber"> 003 </span>                                <I>วินัยวารที่  ๑๒  จบ</I>
+
+<span class="LineNumber"> 004 </span>                                    <H1>กุศลวารที่  ๑๓</H1> 
+<span class="LineNumber"> 005 </span>           [๘๙๗]  สัมมุขาวินัย   เป็นกุศล   อกุศล   อัพยากฤต
+<span class="LineNumber"> 006 </span>           เยภุยยสิกา   เป็นกุศล   อกุศล   อัพยากฤต
+<span class="LineNumber"> 007 </span>           สติวินัย   เป็นกุศล  อกุศล  อัพยากฤต
+<span class="LineNumber"> 008 </span>           อมูฬหวินัย  เป็นกุศล   อกุศล  อัพยากฤต
+<span class="LineNumber"> 009 </span>           ปฏิญญาตกรณะ  เป็นกุศล  อกุศล  อัพยากฤต
+<span class="LineNumber"> 010 </span>           ตัสสปาปิยสิกา  เป็นกุศล  อกุศล  อัพยากฤต
+<span class="LineNumber"> 011 </span>           ติณวัตถารกะ   เป็นกุศล   อกุศล  อัพยากฤต
+<span class="LineNumber"> 012 </span>           สัมมุขาวินัย  บางทีเป็นกุศล  บางทีเป็นอัพยากฤต  สัมมุขาวินัย  เป็น
+<span class="LineNumber"> 013 </span>อกุศลไม่มี                                               
+<span class="LineNumber"> 014 </span>           เยภุยยสิกา   บางทีเป็นกุศล    บางทีเป็นอกุศล   บางทีเป็นอัพยากฤต
+<span class="LineNumber"> 015 </span>           สติวินัย  บางทีเป็นกุศล  บางทีเป็นอกุศล   บางทีเป็นอัพยากฤต
+<span class="LineNumber"> 016 </span>           อมูฬหวินัย  บางทีเป็นกุศล  บางทีเป็นอกุศล  บางทีเป็นอัพยากฤต
+<span class="LineNumber"> 017 </span>           ปฏิญญาตกรณะ  บางทีเป็นกุศล  บางทีเป็นอกุศล  บางทีเป็นอัพยากฤต
+<span class="LineNumber"> 018 </span>           ตัสสปาปิยสิกา  บางทีเป็นกุศล  บางทีเป็นอกุศล  บางทีเป็นอัพยากฤต
+<span class="LineNumber"> 019 </span>           ติณวัตถารกะ  บางทีเป็นกุศล    บางทีเป็นอกุศล  บางทีเป็นอัพยากฤต.

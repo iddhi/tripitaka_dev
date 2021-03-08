@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                      <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>         [๓๙๓] ๑.  <B>ธรรมที่ไม่ใช่อุปาทานธรรม    อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 004 </span>อุปาทานธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ  ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑  ที่ไม่ใช่อุปาทาน-
+<span class="LineNumber"> 006 </span>ธรรม  ซึ่งเป็นอเหตุกะ ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>         ในอเหตุกปฏิสนธิขณะ  หทยวัตถุ อาศัยขันธ์ทั้งหลาย,  ขันธ์ทั้งหลาย
+<span class="LineNumber"> 008 </span>อาศัยหทยวัตถุ.
+<span class="LineNumber"> 009 </span>         ฯลฯ  อาศัยมหาภูตรูป   ฯลฯ
+<span class="LineNumber"> 010 </span>         จิตตสมุฏฐานรูป กฏัตตารูปที่เป็นอุปาทารูป อาศัยมหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 011 </span>         พาหิรรูป. ..  อาหารสมุฏฐานรูป...  อุตุสมุฏฐานรูป ฯลฯ
+<span class="LineNumber"> 012 </span>         อสัญญสัตว์ทั้งหลาย   โมหะ   ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วย
+<span class="LineNumber"> 013 </span>อุทธัจจะ  อาศัยขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 014 </span>                                   <H2>๒.  นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 015 </span>         [๓๙๔] ๑.  <B>ธรรมที่ไม่ใช่อุปาทานธรรม  อาศัยอุปาทานธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยอุปาทานธรรมทั้งหลาย.
+<span class="LineNumber"> 018 </span>                     ๒.  <B>ธรรมที่ไม่ใช่อุปทานธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 019 </span>อุปาทานธรรม    เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>

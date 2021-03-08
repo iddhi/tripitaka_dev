@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>เหตุทุกหีนติกนเหตุทุกนหีนติกะ</H1> 
+<span class="LineNumber"> 002 </span>                  <H2>(๑. เหตุทุกะ  ๑๔. หีนติกะ)</H2> 
+<span class="LineNumber"> 003 </span>                                  <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                         <H2>หีนบท</H2>	
+<span class="LineNumber"> 007 </span>           [๒๕๐] ๑.  <B>ธรรมที่ไม่ใช่หีนธรรม  ที่ไม่ใช่เหตุ  อาศัยธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นหีนธรรม   ที่เป็นเหตุ เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี  ๓  วาระ.
+
+<span class="LineNumber"> 009 </span>                                      <H2>มัชฌิมบท</H2>	
+<span class="LineNumber"> 010 </span>                       ๑.  <B>ธรรมที่ไม่ใช่มัชฌิมธรรม   ที่ไม่ใช่เหตุ<SUP>๑</SUP>   อาศัย
+<span class="LineNumber"> 011 </span>ธรรมที่เป็นมัชฌิมธรรม   ที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>มี  ๓  วาระ.
+
+<span class="LineNumber"> 013 </span>                                         <H2>ปณีตบท</H2>
+<span class="LineNumber"> 014 </span>                       ๑. <B>ธรรมที่ไม่ใช่ปณีตธรรม    ที่ไม่ใช่เหตุ     อาศัย
+<span class="LineNumber"> 015 </span>ธรรมที่เป็นปณีตธรรม   ที่เป็นเหตุ    เกิดขึ้น   เพราะเหตุปัจจัย</B>  มี  ๓
+<span class="LineNumber"> 016 </span>วาระ.
+<span class="LineNumber"> 017 </span>                     <I>เหตุทุกหีนติกนเหตุทุกนหีนติกะ  จบ</I>
+<span class='footnote'>๑.  ม.  นนเหตุ =  ที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ</span>

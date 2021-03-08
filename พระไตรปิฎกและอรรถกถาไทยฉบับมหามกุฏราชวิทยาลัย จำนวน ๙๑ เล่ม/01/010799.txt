@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	<B>อโนมพุทฺธิอุทฺเทสํ		ปจฺจกฺขามิ</B>	     ข้าพเจ้าบอกคืนอุเทศแห่ง  
+<span class="LineNumber"> 002 </span>								  	        พระอโนมพุทธิเจ้า
+<span class="LineNumber"> 003 </span>	<B>โพธิปฺปญฺาณุทฺเทสํ</B>			"		ข้าพเจ้าบอกคืนอุเทศแห่ง
+<span class="LineNumber"> 004 </span>									พระโพธิปัญญาณเจ้า
+<span class="LineNumber"> 005 </span>	<B>ธีรุทฺเทสํ</B>					"		ข้าพเจ้าบอกคืนอุเทศแห่ง
+<span class="LineNumber"> 006 </span>									พระธีรเจ้า
+<span class="LineNumber"> 007 </span>	<B>วิคตโมหุทฺเทสํ</B>				"		ข้าพเจ้าบอกคืนอุเทศแห่ง
+<span class="LineNumber"> 008 </span>									พระวิคตโมหเจ้า
+<span class="LineNumber"> 009 </span>	<B>ปภินฺนขีลุทฺเทสํ</B>			"		ข้าพเจ้าบอกคืนอุเทศแห่ง
+<span class="LineNumber"> 010 </span>									พระปภินนขีลเจ้า
+<span class="LineNumber"> 011 </span>	<B>วิชิตวิชยุทฺเทสํ</B>				"		ข้าพเจ้าบอกคืนอุเทศแห่ง	
+<span class="LineNumber"> 012 </span>									พระวิชิตวิชัยเจ้า.
+<span class="LineNumber"> 013 </span>	การบอกลาด้วยคำว่า  <B>อหุปชฺฌายํ  ปจฺจกฺขามิ </B> ไม่ใช่เป็นการบอกลา
+<span class="LineNumber"> 014 </span>คำไวพจน์.  การบอกลาสิกขา  ย่อมมีได้ด้วยคำไวพจน์แห่งอุปัชฌายะ
+<span class="LineNumber"> 015 </span>อย่างนี้คือ  :-
+<span class="LineNumber"> 016 </span>	ภิกษุใด  ให้ข้าพเจ้าบรรพชา  ภิกษุใด  ให้ข้าพเจ้าอุปสมบท  ข้าพเจ้า
+<span class="LineNumber"> 017 </span>บรรพชาแล้ว  เพราะมีภิกษุใดเป็นประธาน  ข้าพเจ้าอุปสมบทแล้ว  เพราะมี
+<span class="LineNumber"> 018 </span>ภิกษุใดเป็นประธาน  บรรพชาของข้าพเจ้ามีภิกษุใดเป็นประธาน  อุปสมบทของ
+<span class="LineNumber"> 019 </span>ข้าพเจ้ามีภิกษุใดเป็นประธาน  ข้าพเจ้าบอกคืนภิกษุนั้น.
+<span class="LineNumber"> 020 </span>	การบอกลาด้วยคำว่า  <B>อาจริยํ  ปจฺจกฺขามฺ</B>  ไม่ใช่เป็นการบอกลา
+<span class="LineNumber"> 021 </span>ด้วยคำไวพจน์.  การบอกลาสิกขา  ย่อมมีได้ด้วยคำไวพจน์แห่งอาจารย์อย่างนี้
+<span class="LineNumber"> 022 </span>คือ:-
+
+	

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>สีลัง  น  จิตตานุปริวัตตีติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๔๑๘]  <B>สกวาที</B>  ศีลไม่เกิดคล้อยตามจิต  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. เป็นรูป   เป็นนิพพาน   เป็นจักขายตนะ  ฯลฯ   เป็น
+<span class="LineNumber"> 005 </span>โผฏฐัพพายตนะ  หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. ศีลไม่เกิดคล้อยตามจิต หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ส. ผัสสะ  ไม่เกิดคล้อยตามจิต หรือ ?
+<span class="LineNumber"> 010 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 011 </span>                       ส. ศีลไม่เกิดคล้อยตามจิต  หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ส. เวทนา  ฯลฯ  สัญญา  ฯลฯ เจตนา  ฯลฯ  ศรัทธา วิริยะ
+<span class="LineNumber"> 014 </span>สติ  สมาธิ  ฯลฯ  ปัญญา  ไม่เกิดคล้อยตามจิต  หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 016 </span>         [๑๔๑๙]   ส. ผัสสะ  เกิดคล้อยตามจิต  หรือ  ? 
+<span class="LineNumber"> 017 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                       ส. ศีลเกิดคล้อยตามจิต   หรือ ?
+<span class="LineNumber"> 019 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 020 </span>                       ส. เวทนา ฯลฯ สัญญา   เจตนา  ศรัทธา  สติ  สมาธิ   ฯลฯ
+<span class="LineNumber"> 021 </span>ปัญญา   เกิดคล้อยตามจิต  หรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ถูกแล้ว.

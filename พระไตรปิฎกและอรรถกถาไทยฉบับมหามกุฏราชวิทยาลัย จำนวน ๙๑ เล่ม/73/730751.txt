@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			          <H2>นิคมนกถา</H2>
+
+<span class="LineNumber"> 002 </span>                                    <B>คำส่งท้ายเรื่อง</B>
+<span class="LineNumber"> 003 </span>		<B>การพรรณนาพุทธวงศ์  อันงดงามด้วยนัยอันวิจิตร
+<span class="LineNumber"> 004 </span>	ซึ่งผู้รู้บทพรรณนาให้ง่าย     ถึงความสำเร็จด้วยกถา
+<span class="LineNumber"> 005 </span> 	เพียงเท่านี้.
+<span class="LineNumber"> 006 </span>		 ข้าพเจ้ายึดทางแห่งอรรถกถาเก่า     อันประกาศ
+<span class="LineNumber"> 007 </span> 	ความแห่งบาลี    เป็นหลักอย่างเดียว     แต่งอรรถกถา
+<span class="LineNumber"> 008 </span>	พุทธวงศ์ 
+<span class="LineNumber"> 009 </span>		เพราะละเว้นความที่เยิ่นเย่อ     ประกาศแต่ความ
+<span class="LineNumber"> 010 </span>	อันไพเราะทุกประการ  ฉะนั้น  จึงชื่อว่า   มธุรัตถวิลาสินี.
+<span class="LineNumber"> 011 </span>		เมื่อสาธุชน  ผู้มีวาจาไพเราะ  ชื่อกัณหทาส  สร้าง
+<span class="LineNumber"> 012 </span>	วิหาร  ที่มีกำแพงและซุ่มประตูอันงามโดยอาการต่างๆ
+<span class="LineNumber"> 013 </span>  	ถึงพร้อมด้วยร่มเงาและน้ำ  น่าดู   น่ารื่นรมย์     เป็นที่
+<span class="LineNumber"> 014 </span>	คับแคบแห่งทุรชนที่ถูกกำจัด     เป็นที่สงัดสบาย    น่า
+<span class="LineNumber"> 015 </span>	เจริญใจ   ณ  ท่าเรือกาวีระ เป็นพื้นแผ่นดินที่เต็มด้วย
+<span class="LineNumber"> 016 </span>	ชุมทางน้ำแห่งแม่น้ำกาวีระ   น่ารื่นรมย์    เกลื่อนกล่น
+<span class="LineNumber"> 017 </span>	ด้วยหญิงชายต่าง ๆ.
+<span class="LineNumber"> 018 </span>		ข้าพเจ้าอยู่  ณ  พื้นปราสาทด้านทิศตะวันออกใน
+<span class="LineNumber"> 019 </span>	วิหารนั้น   ที่เย็นอย่างยิ่ง   แต่งอรรถกถาพรรณนาพุทธ-
+<span class="LineNumber"> 020 </span>	วงศ์.</B>

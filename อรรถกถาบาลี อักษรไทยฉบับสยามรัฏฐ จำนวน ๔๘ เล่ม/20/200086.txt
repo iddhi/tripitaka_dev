@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  เอกกนิปาตวณฺณนา  หน้า  86
+
+<span class="LineNumber"> 002 </span>สุฏฺ€ุ  มุตฺตา ฯ เต มานคนฺถาภิภูตา(๑) สพฺพํ คนฺถํ(๒)  อุปจฺจคุนฺติ  
+<span class="LineNumber"> 003 </span>เต  ปริกฺขีณภวสํโยชนา  อรหนฺโต  สพฺพโส  มานคนฺถํ มานสํโยชนํ  
+<span class="LineNumber"> 004 </span>สมุจฺเฉทปฺปหาเนน  อภิภวิตฺวา  €ิตา  อนวเสสํ  วฏฺฏทุกฺขํ
+<span class="LineNumber"> 005 </span>อติกฺกมึสูติ อตฺโถ ฯ 
+<span class="LineNumber"> 006 </span>	เอวเมตสฺมึ สตฺตมสุตฺเต จ อรหตฺตํ กถิตนฺติ ฯ
+<span class="LineNumber"> 007 </span>		อฏฺ€มสุตฺตวณฺณนา นิฏ€ิตา ฯ
+		
+<span class="LineNumber"> 008 </span>		โลภโทสปริฺาสุตฺตทฺวยวณฺณนา
+<span class="LineNumber"> 009 </span>	นวมทสเมสุ  อปุพฺพํ  นตฺถิ  เทสนาวิลาสวเสน(๓)  ตถา
+<span class="LineNumber"> 010 </span>พุชฺฌนกานํ เวเนยฺยานํ อชฺฌาสยวเสน วา ตถา เทสิตานีติ ทฏฺ€พฺพํ ฯ
+<span class="LineNumber"> 011 </span>		นวมทสมสุตฺตวณฺณนา นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 012 </span>		ป€มวคฺควณฺณนา นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 013 </span># ๑. สฺยา. ม. มานคนฺถาภิภุโน ฯ  ๒. ม. ทุกขํ ฯ 
+<span class="LineNumber"> 014 </span># ๓. ม. เทสนาวิลาสวเสน ฯ

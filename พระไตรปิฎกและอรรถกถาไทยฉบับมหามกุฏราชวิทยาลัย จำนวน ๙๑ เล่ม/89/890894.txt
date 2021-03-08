@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>๙.  นปัจฉาชาตปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         <B>ฯลฯ    เพราะนปัจฉาชาตปัจจัย</B>.
+
+<span class="LineNumber"> 003 </span>                                  <H2>๑๐.  นอาเสวนปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         [๗๘๗] ๑.  <B>อรูปาวจรธรรม   อาศัยอรูปาวจรธรรม   เกิดขึ้น
+<span class="LineNumber"> 005 </span>เพราะนอาเสวนปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๓  อาศัยขันธ์ ๑    ที่เป็นอรูปาวจรธรรม    ซึ่งเป็นวิบาก
+<span class="LineNumber"> 007 </span>ฯลฯ   ขันธ์ ๒.
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 009 </span>                     ๒.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม     อาศัยอรูปาวจร-
+<span class="LineNumber"> 010 </span>ธรรม  เกิดขึ้น  เพราะนอาเสวนปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอรูปาวจรธรรม-
+<span class="LineNumber"> 012 </span>                     ๓.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 013 </span>อรูปาวจรธรรม  เกิดขึ้น  เพราะนอาเสวนปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ   ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์  ๑  ที่ไม่ใช่อรูปาว-
+<span class="LineNumber"> 015 </span>จรธรรม ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 016 </span>         ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 017 </span>                     ๔.  <B>ธรรมที่ไม่ใช่อรูปาวจรธรรม      อาศัยอรูปาวจร-
+<span class="LineNumber"> 018 </span>ธรรม  และธรรมที่ไม่ใช่อรูปาวจรธรรม  เกิดขึ้น  เพราะนอาเสวน-
+<span class="LineNumber"> 019 </span>ปัจจัย</B>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                  อนุสสติ   คือ   อารมณ์ที่ควรระลึก   ๑๐  ประการ  
+<span class="LineNumber"> 002 </span>	<B>๑.   พุทธานุสสติ</B>     ระลึกถึงคุณของพระพุทธเจ้า.
+<span class="LineNumber"> 003 </span>	<B> ๒.   ธัมมานุสสติ</B>     ระลึกถึงคุณของพระธรรม.
+<span class="LineNumber"> 004 </span>	<B>๓.   สังฆานุสสติ </B>     ระลึกถึงคุณของพระสงฆ์.
+<span class="LineNumber"> 005 </span>	<B>  ๔.   สีลานุสสติ</B>     ระลึกถึงศีลของตน.
+<span class="LineNumber"> 006 </span>	<B>   ๕.   จาคานุสสติ</B>     ระลึกถึงท่านที่ตนบริจาคแล้ว.
+<span class="LineNumber"> 007 </span>	<B>๖.   เทวตานุสสติ </B>       ระลึกถึงคุณที่ทำบุคคลให้เป็นเทวดา.
+<span class="LineNumber"> 008 </span>	<B>  ๗.   มรณัสสติ  </B>      ระลึกถึงความตายที่จะมาถึงตน.
+<span class="LineNumber"> 009 </span>	<B>  ๘.   กายคตาสติ </B>     ระลึกทั่วไปในกาย   ให้เห็นว่า   ไม่งาม   น่าเกลียด
+<span class="LineNumber"> 010 </span>โสโครก.
+<span class="LineNumber"> 011 </span>	<B>๙.   อานาปานสติ</B>   ตั้งสติกำหนดลมหายใจเข้าออก.
+<span class="LineNumber"> 012 </span>	<B> ๑๐. อุปสมานุสสติ </B>      ระลึกถึงคุณพระนิพพาน    ซึ่งเป็นที่ระงับ
+<span class="LineNumber"> 013 </span>กิเลสและกองทุกข์.
+<span class="LineNumber"> 014 </span>										วิ.  ฉอนุสสติ.  ปฐม.  ๒๕๐
+<span class="LineNumber"> 015 </span>                                       อธิบายศัพท์ 
+<span class="LineNumber"> 016 </span>	<B>   ๑.   พุทธานุสติ </B>   ตัดบทเป็น   พุทธะ   แปลว่าพระพุทธเจ้า,  หมายถึง
+<span class="LineNumber"> 017 </span>พระคุณของพระพุทธเจ้า.   <B>อนุสสติ</B>   แปลว่า  ระลึกเนือง  ๆ.  หรือระลึก
+<span class="LineNumber"> 018 </span>ตามสมควร<SUP>๑</SUP>     เมื่อรวมเข้าเป็น    <B>พุทธานุสติ </B>   แปลว่า   ระลึกเนือง ๆ
+<span class="LineNumber"> 019 </span>หรือระลึกตามสมควรถึงพระคุณของพระพุทธเจ้า.     หมายความว่าตั้งสติ
+<span class="LineNumber"> 020 </span>ระลึกเนือง ๆ  ถึงพระคุณของพระพุทธเจ้า   ๙  บทว่า   <B>อิติปิ    โส   ภควา   อรหํ</B>
+
+<span class='footnote'>๑.  วิสุทธิมรรค   ๑๑/๒๕๑</span>

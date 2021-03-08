@@ -1,0 +1,4 @@
+﻿<span class="LineNumber"> 001 </span>	 <H2>รวมพระสูตรที่มีในวรรคนี้   คือ</H2>  
+<span class="LineNumber"> 002 </span>          ๑.   สารัชชสูตร      ๒.  วิสารทสูตร      ๓.  นิรยสูตร      ๔.  เวรสูตร
+<span class="LineNumber"> 003 </span>๕.  จัณฑาลสูตร    ๖.  ปีติสูตร    ๗.  วณิชชสูตร    ๘.  ราชสูตร  ๙.  คิหิสูตร
+<span class="LineNumber"> 004 </span>๑๐.  ภเวสิสูตร   และอรรถกถา.  

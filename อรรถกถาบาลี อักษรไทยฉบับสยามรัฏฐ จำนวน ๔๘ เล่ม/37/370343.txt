@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 343
+
+<span class="LineNumber"> 002 </span>		อริยาวกาโส(๑) อนรียรูโป  
+<span class="LineNumber"> 003 </span>		อสฺโต สฺตสนฺนิกาโส  
+<span class="LineNumber"> 004 </span>		อจฺจาหิตํ กมฺมํ กโรสิ ลุทฺทํ  
+<span class="LineNumber"> 005 </span>		ภาเว จ เต กุสลํ นตฺถิ กิฺจิ  
+<span class="LineNumber"> 006 </span>		ยํ มํ ปปาตสฺมึ ปปาตุมิจฺฉสิ  
+<span class="LineNumber"> 007 </span>		โก นุ ตวตฺโถ มรเณน มยฺหํ  
+<span class="LineNumber"> 008 </span>		อมานุสสฺเสว เต อชฺช(๒) วณฺโณ  
+<span class="LineNumber"> 009 </span>		อาจิกฺข เม ตฺวํ กตมาสิ เทวตาติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  โส  ลมฺพมาโนติ  โส  กุรูนํ  กตฺตุเสฏฺโ€  ตติยวาเร  
+<span class="LineNumber"> 011 </span>ลมฺพมาโน ฯ  อริยาวกาโสติ  รูเปน  อริยสทิโส  เทววณฺณี (๓)
+<span class="LineNumber"> 012 </span>หุตฺวา  จรสิ ฯ  อสฺโตติ  กายาทีหิ  อสฺโต  ทุสฺสีโล ฯ
+<span class="LineNumber"> 013 </span>อจฺจาหิตนฺติ  หิตาติกฺกนฺตํ  อติอหิตํ  วา ฯ  ภาเว  จ  เตติ ตว
+<span class="LineNumber"> 014 </span>จิตฺเต อปฺปมตฺตกมฺปิ  กุสลํ  นตฺถิ ฯ  อมานุสสฺเสว  เต  อชฺช (๔)
+<span class="LineNumber"> 015 </span>วณฺโณติ  อชฺช  ตเวทํ (๕) การณํ  อมนุสฺสสฺเสว ฯ  กตมาสิ  เทวตาติ 
+<span class="LineNumber"> 016 </span>ยกฺขานํ  อนฺตเร  กตรยกฺโข นาม ตฺวนฺติ (๖)ฯ  
+<span class="LineNumber"> 017 </span>	อถ นํ (๗)ปุณฺณโก อาห  
+<span class="LineNumber"> 018 </span>	[๙๘๘]ยทิ เต สุโต ปุณฺณโก นาม ยกฺโข  
+<span class="LineNumber"> 019 </span>		รฺโ กุเวรสฺส หิ โส สชีโว(๘)  
+<span class="LineNumber"> 020 </span># ๑. ม. อริยาวกาโสสิ ฯ ๒. ม. ตวชฺช ฯ  ๓. ม. เทววณฺโณ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ตวชฺช ฯ  ๕. ม. ตว อิทํ ฯ  ๖. ม. อิติสทฺโท นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๗. ม. อยํ ปาโ€ นตฺถิ ฯ  ๘. ม. สชิพฺโพ ฯ 

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  86
+			
+<span class="LineNumber"> 002 </span>		ทุฏฺ€จิตฺโต อุปวทึ		สาวกํ ตสฺส ตาทิโน  
+<span class="LineNumber"> 003 </span>		สพฺพาสวปริกฺขีณํ		สุทฺโธติ (๑) จ วิชานิย ฯ  
+<span class="LineNumber"> 004 </span>		ตสฺเสว นรวีรสฺส		สาวกานํ มเหสินํ  
+<span class="LineNumber"> 005 </span>		สลากํ จ คเหตฺวาน	ขีโรทนมทาสหํ ฯ  
+<span class="LineNumber"> 006 </span>		อิมมฺหิ ภทฺทเก กปฺเป	พฺรหฺมพนฺธุ มหายโส  
+<span class="LineNumber"> 007 </span>		กสฺสโป นาม โคตฺเตน 	อุปฺปชฺชิ วทตํ วโร ฯ  
+<span class="LineNumber"> 008 </span>		สาสนํ โชตยิตฺวาน		อภิภุยฺย กุติตฺถิเย  
+<span class="LineNumber"> 009 </span>		เวเนยฺเย วินยิตฺวาน	นิพฺพุโต โส สสาวโก ฯ  
+<span class="LineNumber"> 010 </span>		สสิสฺเส นิพฺพุเต นาเถ	อตฺถเมนฺตมฺหิ (๒) สาสเน  
+<span class="LineNumber"> 011 </span>		เทวา กนฺทึสุ สํวิคฺคา	มุตฺตเกสา รุทมฺมุขา ฯ  
+<span class="LineNumber"> 012 </span>		นิพฺพายิสฺสติ ธมฺมกฺโข	น ปสฺสิสฺสาม สุพฺพเต  
+<span class="LineNumber"> 013 </span>		น สุณิสฺสาม สทฺธมฺมํ	อโห โน อปฺปปุฺตา ฯ  
+<span class="LineNumber"> 014 </span>		ตทายํ ป€วี สพฺพา		อจลา สา ปุลาปุลี (๓)  
+<span class="LineNumber"> 015 </span>		สาคโร จ สโสโกว		วินที กรุณํ  คิรํ ฯ  
+<span class="LineNumber"> 016 </span>		จตุทฺทิสา ทุนฺทุภิโย	นาทยึสุ อมานุสา  
+<span class="LineNumber"> 017 </span>		สมนฺตโต อสนิโย		ปตึสุ(๔) จ ภยาวหา ฯ  
+<span class="LineNumber"> 018 </span>		อุกฺกา ปตึสุ นภสา		ธูมเกตุ ปทิสฺสถ (๕)  
+<span class="LineNumber"> 019 </span>		สธูมา ชาลวฏฺฏา จ (๖)	รวึสุ กรุณํ มิคา ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. สพฺพาสวปริกฺขีโณ มุตฺโตติ ฯ  ๒. สี. อนฺตปตฺตมฺหิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. ยุ. จลาจลา ฯ โปราณ. อปลาสา จลาจลิ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. ผลึสุ ฯ  ๕. ม. ยุ. จ ทิสฺสติ ฯ  ๖. สี. ยุ. สพฺพถลชสตฺตา จ ฯ

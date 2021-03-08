@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                     ค 
+<span class="LineNumber"> 002 </span><B>คชฺชติ</B>	ย่อมคำรน-กระหึ่ม  คชฺชฺ ธาตุ  ในความออกเสียง-
+<span class="LineNumber"> 003 </span>		ร้อง  อ ปัจจัย ติ วิภัตติ.  
+<span class="LineNumber"> 004 </span><B>คเณติ</B>	ย่อมนับ-คำนวณ คณฺ  ธาตุ  เณ  ปัจจัย (กัตตุวาจก)
+<span class="LineNumber"> 005 </span>		ติ  วิภัตติ  ไม่ทีฆะต้นธาตุ.
+<span class="LineNumber"> 006 </span><B>ครหติ</B>	ย่อมติเตียน  ครหฺ  ธาตุ ในความติเตียน  อ ปัจจัย  ติ
+<span class="LineNumber"> 007 </span>		วิภัตติ.
+<span class="LineNumber"> 008 </span><B>คเวสนฺติ</B>	ย่อมแสวงหา  คเวสฺ  ธาตุ  ในความแสวงหา อ ปัจจัย
+<span class="LineNumber"> 009 </span>		อนฺติ  วิภัตติ.
+<span class="LineNumber"> 010 </span><B>คายติ</B>  	ย่อมขับร้อง  เค  ธาตุ  ในความขับร้อง  อ ปัจจัย ติ
+<span class="LineNumber"> 011 </span>		วิภัตติ  เอา <B>เอ</B>  แห่ง <B>เค</B>  เป็น  อา<B>ย</B>.
+<span class="LineNumber"> 012 </span><B>คิชฺฌติ</B>	ย่อมกำหนัด-ยินดี-มักมาก คิธฺ  ธาตุ ในความอยากจัด
+<span class="LineNumber"> 013 </span>		ย  ปัจจัย  ติ  วิภัตติ  แปลง ย  กับ <B>ธฺ</B>  ที่สุดธาตุ เป็น <B>ชฺฌ</B>.
+<span class="LineNumber"> 014 </span><B>คิลติ</B>		ย่อมกลืนกิน  คิลฺ  ธาตุ   อ ปัจจัย ติ วิภัตติ.
+<span class="LineNumber"> 015 </span><B>คูหยติ</B>	ย่อมซ่อน  คุหฺ  ธาตุ  ในความซ่อน  ณฺย  ปัจจัย  (กัตตุ-
+<span class="LineNumber"> 016 </span>		วาจก) ติ วิภัตติ  ลบ ณ แห่ง <B>ณฺย</B> เสีย ทีฆะต้นธาตุ.
+<span class="LineNumber"> 017 </span><B>โคเปติ</B>	ย่อมซ่อน  <B>คุปฺ</B>  ธาตุ  ในความคุ้มครอง  เณ ปัจจัย
+<span class="LineNumber"> 018 </span>		(กัตตุวาจก)  ติ วิภัตติ  พฤทธิ์  <B>อุ</B> แห่ง  <B>คุปฺ</B> เป็น <B>โอ</B>.
+<span class="LineNumber"> 019 </span>                                          ฆ
+<span class="LineNumber"> 020 </span>ฆเฏสิ	พากเพียร-สืบต่อแล้ว ฆฏฺ ธาตุ ในความสืบต่อ เณ
+<span class="LineNumber"> 021 </span>		ปัจจัย  (กัดตุวาจก)  อ วิภัตติ  รัสสะ  อี เป็น อิ ไม่
+

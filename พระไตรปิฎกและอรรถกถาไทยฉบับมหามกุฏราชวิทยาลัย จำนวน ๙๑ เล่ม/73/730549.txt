@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		<B>ครั้งนั้น  เราเป็นท้าวสักกปุรินททะ  ได้บูชาด้วย
+<span class="LineNumber"> 002 </span>	ของหอม  ดอกไม้  และดนตรีทิพย์.
+<span class="LineNumber"> 003 </span>		พระพุทธเจ้าแม้พระองค์นั้น      ประทับนั่งท่าม
+<span class="LineNumber"> 004 </span>	กลางเทวดา   ทรงพยากรณ์เราว่า   ล่วงไป  ๑,๘๐๐  กัป
+<span class="LineNumber"> 005 </span>	ท่านผู้นี้จักเป็นพระพุทธเจ้า.
+<span class="LineNumber"> 006 </span>		พระตถาคตทรงตั้งความเพียร  ฯ ล ฯ    จักอยู่ต่อ
+<span class="LineNumber"> 007 </span>	หน้าของท่านผู้นี้.
+<span class="LineNumber"> 008 </span>		เราฟังพระดำรัสของพระองค์แล้ว   ก็ยิ่งเลื่อมใส
+<span class="LineNumber"> 009 </span>	จึงอธิษฐานข้อวัตรยิ่งยวดขึ้นไป  เพื่อบำเพ็ญบารมี   ๑๐
+<span class="LineNumber"> 010 </span>	ให้บริบูรณ์.</B>                                           
+<span class="LineNumber"> 011 </span>	พระผู้มีพระภาคเจ้าพระองค์นั้น  ทรงมีพระนครชื่อ <B>สรณะ</B>  พระชนก
+<span class="LineNumber"> 012 </span>พระนามว่า <B>พระเจ้าสรณะ</B>  พระชนนีพระนามว่า <B>พระนางสุนันทา</B>  คู่พระ
+<span class="LineNumber"> 013 </span>อัครสาวกชื่อว่า <B>พระปรุมะ</B>  และ  <B>พระปุสสเทวะ</B>  พระพุทธอุปัฏฐากชื่อว่า
+<span class="LineNumber"> 014 </span><B>สุเนตตะ</B><SUP>๑</SUP>   คู่พระอัครสาวิกา  ชื่อว่า พระเขมา และ พระสัจจนามา โพธิ-
+<span class="LineNumber"> 015 </span>พฤกษ์ชื่อว่า <B>พิมพิชาละ</B> ต้นมะกล่ำเครือ พระสรีระสูง ๘๐ ศอก  พระชนมายุ
+<span class="LineNumber"> 016 </span>แสนปี พระอัครมเหสีพระนามว่า <B>พระนางวิจิโกฬิเทวี</B>  พระโอรสพระนามว่า
+<span class="LineNumber"> 017 </span><B>พระปุญญวัฒนะ</B>  ออกอภิเนษกรมณ์ด้วยปราสาท.  ด้วยเหตุนั้น จึงตรัสว่า
+<span class="LineNumber"> 018 </span>		<B>พระธัมมทัสสีศาสดา ทรงมีพระนครชื่อว่าสรณะ
+<span class="LineNumber"> 019 </span>	พระชนกพระนามว่า  พระเจ้าสรณะ   พระชนนีพระ
+<span class="LineNumber"> 020 </span>	นามว่า  พระนางสุนันทา.
+<span class="LineNumber"> 021 </span>		พระธัมมทัสสีศาสดา   มีพระอัครสาวก    ชื่อว่า
+<span class="LineNumber"> 022 </span>	พระปทุมะ  และ  พระปุสสเทวะ   พระพุทธอุปัฏฐาก 
+<span class="LineNumber"> 023 </span>	ชื่อว่า  พระสุเนตตะ.</B>
+
+<span class='footnote'>๑. บาลีเป็น  ลุทัตตะ.</span>

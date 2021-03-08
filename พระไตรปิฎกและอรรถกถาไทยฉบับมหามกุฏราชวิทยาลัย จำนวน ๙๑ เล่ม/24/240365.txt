@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                <h1>นานาติตถิยวรรคที่  ๓</h1> 
+
+<span class="LineNumber"> 002 </span>                                        <h1>๑.  สิวสูตร</h1>
+
+<span class="LineNumber"> 003 </span>                             <H1>ว่าด้วยการสมาคมกับสัตบุรุษ</H1>
+
+<span class="LineNumber"> 004 </span>         [๒๗๘]   ข้าพเจ้าได้สดับมาแล้ว อย่างนี้ :-
+<span class="LineNumber"> 005 </span>         สมัยหนึ่ง  พระผู้มีพระภาคเจ้าประทับอยู่ ณ พระวิหารเชตวัน   อาราม
+<span class="LineNumber"> 006 </span>ของท่านอนาถบิณฑิกเศรษฐี    กรุงสาวัตถี    ครั้งนั้น     เมื่อล่วงปฐมยามแล้ว
+<span class="LineNumber"> 007 </span>สิวเทวบุตร  มีวรรณะงามยิ่งนัก   ทำพระวิหารเชตวันให้สว่างทั่วแล้ว    เข้าไป
+<span class="LineNumber"> 008 </span>เฝ้าพระผู้มีพระภาคเจ้าถึงที่ประทับ  ครั้นแล้ว  จึงถวายอภิวาทพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 009 </span>แล้วได้ยืนอยู่   ณ  ที่ควรส่วนข้างหนึ่ง.
+<span class="LineNumber"> 010 </span>         [๒๗๙]   สิวเทพบุตร  ครั้นยืนอยู่   ณ  ที่ควรส่วนข้างหนึ่งแล้ว   ได้
+<span class="LineNumber"> 011 </span>กล่าวคาถาเหล่านี้    ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 012 </span>                             <B>บุคคลควรสมาคมกับพวกสัตบุรุษ
+<span class="LineNumber"> 013 </span>                   เท่านั้น      ควรทำความสนิทสนมกับพวก
+<span class="LineNumber"> 014 </span>                   สัตบุรุษ    บุคคลรู้ทั่วถึงพระสัทธรรมของ
+<span class="LineNumber"> 015 </span>                   พวกสัตบุรุษแล้ว    ก็เป็นคนดี    ไม่เป็น
+<span class="LineNumber"> 016 </span>                   คนชั่ว   บุคคลควรสมาคมกับพวกสัตบุรุษ
+<span class="LineNumber"> 017 </span>                   เท่านั้น      ควรทำความสนิทสนมกับพวก
+<span class="LineNumber"> 018 </span>                   สัตบุรุษ    บุคคลรู้ทั่วถึงพระสัทธรรมของ
+<span class="LineNumber"> 019 </span>                   พวกสัตบุรุษแล้ว   ย่อมได้ปัญญา   ไม่ได้
+<span class="LineNumber"> 020 </span>                   อย่างอื่น   บุคคลควรสมาคมกับพวกสัต-</B>

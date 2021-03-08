@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑   หน้า ๒๖๓
+
+<span class="LineNumber"> 002 </span>		จนฺทูปมสุตฺตวณฺณนา           
+<span class="LineNumber"> 003 </span>	ตติเย  จนฺทูปมาติ  จนฺทสทิสา  หุตฺวา ฯ  กึ  ปริมณฺฑล-
+<span class="LineNumber"> 004 </span>ตาย  โน  อปิจ  โข  ยถา  จนฺโท  คุํ  นตลํ  ปกฺขนฺทมาโน 
+<span class="LineNumber"> 005 </span>น  เกนจิ  สทฺธึ  สนฺถวํ  วา  สิเนหํ  วา  อาลยํ  วา  นิกนฺตึ  
+<span class="LineNumber"> 006 </span>วา  ปตฺถนํ  วา  ปริยุฏฺ€านํ  วา  กโรติ  น  จ  น  (๑)  โหติ 
+<span class="LineNumber"> 007 </span>มหาชนสฺส  ปิโย  มนาโป  ตุเมฺหปิ  เอวํ เกนจิ สทฺธึ 
+<span class="LineNumber"> 008 </span>สนฺถวาทีนํ  อกรเณน  พหุชนสฺส  ปิยา  มนาปา  จนฺทูปมา  
+<span class="LineNumber"> 009 </span>หุตฺวา  ขตฺติยกุลาทีนิ  จตฺตาริ กุลานิ  อุปสงฺกมถาติ  อตฺโถ ฯ 
+<span class="LineNumber"> 010 </span>อปิจ  ยถา  จนฺโท  อนฺธการํ  วิธมติ  อาโลกํ  ผรติ  เอวํ  
+<span class="LineNumber"> 011 </span>กิเลสนฺธการวิธมเนน  าณาโลกผรเณน  จาปิ  จนฺทูปมา  
+<span class="LineNumber"> 012 </span>หุตฺวาติ  เอวมาทีหิปิ นเยหิ เอตฺถ อตฺโถ ทฏฺ€พฺโพ ฯ           
+<span class="LineNumber"> 013 </span>	อปกสฺเสว  กายํ  อปกสฺส  จิตฺตนฺติ  เตเนว  สนฺถวาทีนํ  
+<span class="LineNumber"> 014 </span>อกรเณน  กายฺจ  จิตฺตฺจ  อปกสฺสิตฺวา  อากฑฺฒิตฺวา  (๒)
+<span class="LineNumber"> 015 </span>อปเนตฺวาติ  อตฺโถ ฯ  โย  หิ ภิกฺขุ  อรฺเปิ  น  วสติ  
+<span class="LineNumber"> 016 </span>กามวิตกฺกาทโยปิ  วิตกฺเกติ  อยํ  เนว  กายํ อปกสฺสติ  น
+<span class="LineNumber"> 017 </span>จิตฺตํ ฯ  โย  หิ  อรฺเปิ  โข  วิหรติ  กามวิตกฺกาทโย  ปน  
+<span class="LineNumber"> 018 </span>วิตกฺเกติ  อยํ  กายเมว  อปกสฺสติ  น จิตฺตํ ฯ โย คามนฺเต 
+<span class="LineNumber"> 019 </span>วสติ กามวิตกฺกาทโยปิ โข  น  จ  วิตกฺเกติ  อยํ  จิตฺตเมว 
+<span class="LineNumber"> 020 </span>อปกสฺสติ  น  กายํ ฯ  โย  ปน  อรฺเ  เจว  วสติ  
+<span class="LineNumber"> 021 </span>กามวิตกฺกาทโย  จ  น  วิตกฺเกติ  อยํ  อุภยมฺปิ  อปกสฺสติ ฯ
+<span class="LineNumber"> 022 </span># ๑. สิ. อปิจ ฯ  ๒. ม. อากฑฺฒิตฺวาติ นตฺถิ ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  489
+
+<span class="LineNumber"> 002 </span>กโรนฺตุ  เยสํ มยิ สิเนโห อตฺถิ สพฺเพ ปณฺฑิตสฺส สกฺการสมฺมานํ 
+<span class="LineNumber"> 003 </span>กโรนฺตูติ ฯ  
+<span class="LineNumber"> 004 </span>	อิมมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 005 </span>	[๖๘๕]	อาหฺนฺตุ สพฺพวีณา	เภริโย เทณฺฑิมานิ จ  
+<span class="LineNumber"> 006 </span>			ธมนฺตุ (๑) มาคธา สํขา	วคฺคู นทนฺตุ (๒) ทุนฺทุภีติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ  อาหฺนฺตูติ  วาทิยนฺตุ ฯ  มาคธา  สํขาติ  มคธรฏฺเ€  
+<span class="LineNumber"> 008 </span>สฺชาตสํขา ฯ ทุนฺทุภีติ มหาเภริโย ฯ  
+<span class="LineNumber"> 009 </span>	อถ  เต  นาครา  จ  ชานปทา  จ  ปกติยาว  ปณฺฑิตสฺส  สกฺการํ  
+<span class="LineNumber"> 010 </span>กตฺตุกามาว เภริสทฺทํ สุตฺวา อติเรกตรํ สกฺการํ กรึสุ ฯ  
+<span class="LineNumber"> 011 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 012 </span>	[๖๘๖]	โอโรธา จ กุมารา จ			เวสิยานา จ พฺราหฺมณา  
+<span class="LineNumber"> 013 </span>			พหุํ อนฺนฺจ ปานฺจ			ปณฺฑิตสฺสาภิหารยุํ  
+<span class="LineNumber"> 014 </span>			ตฺถาโรหา อนีกฏฺ€า			รถิกา ปตฺติการกา  
+<span class="LineNumber"> 015 </span>			พหุํ อนฺนฺจ ปานฺจ			ปณฺฑิตสฺสาภิหารยุํ  
+<span class="LineNumber"> 016 </span>			สมาคตา ชานปทา			เนคมา จ สมาคตา  
+<span class="LineNumber"> 017 </span>			พหุํ อนฺนฺจ ปานฺจ			ปณฺฑิตสฺสาภิหารยุํ  
+<span class="LineNumber"> 018 </span>			พหุชฺชโน ปสนฺโนสิ			ทิสฺวา ปณฺฑิตมาคเต (๓) 
+<span class="LineNumber"> 019 </span>			ปณฺฑิตมฺหิ อนุปฺปตฺเต		เจลุกฺเขโป ปวตฺตถาติ (๔) ฯ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  โอโรธา  จาติ  อุทุมฺพราเทวึ  อาทึ  กตฺวา  อนฺเตปุริกา ฯ  
+<span class="LineNumber"> 021 </span># ๑. ยุ. นทนฺตุ ฯ  ๒. ยุ. วทตุ ฯ  ๓. ส. ม. ปณฺฑิตมาคตํ ฯ  
+<span class="LineNumber"> 022 </span># ๔. ม. อวตฺตถาติ ฯ

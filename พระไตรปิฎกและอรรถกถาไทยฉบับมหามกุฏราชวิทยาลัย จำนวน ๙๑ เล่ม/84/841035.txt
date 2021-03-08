@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>โทมนัสสินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>โทมนัสสินทริยมูละ   อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๑๑๓๙]  บุคคลใดกำลังละโทมนัสสินทรีย์,  บุคคลนั้นก็กำลัง
+<span class="LineNumber"> 004 </span>เจริญอนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า บุคคลใดกำลังเจริญอนัญญาตัญญัสสามีตินทรีย์,  บุคคล
+<span class="LineNumber"> 007 </span>นั้นก็กำลังละโทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่. 
+<span class="LineNumber"> 009 </span>         <I>จบ  โทมนัสสินทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี</I>
+
+<span class="LineNumber"> 010 </span>โทมนัสสินทริยมูละ    อัญญินทริยมูลี:-
+<span class="LineNumber"> 011 </span>         [๑๓๔๐]  บุคคลใดกำลังละโทมนัสสินทรีย์,   บุคคลนั้นก็กำลัง
+<span class="LineNumber"> 012 </span>เจริญอัญญินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่. 
+<span class="LineNumber"> 014 </span>         ก็หรือว่า  บุคคลใดกำลังเจริญอัญญินทรีย์,  บุคคลนั้นก็กำลัง
+<span class="LineNumber"> 015 </span>โทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>         บุคคล   ๒   จำพวกกำลังเจริญอัญญินทรีย์      แต่ไม่ใช่กำลังจะ
+<span class="LineNumber"> 017 </span>โทมนัสสินทรีย์,  บุคคลผู้ถึงพร้อมด้วยอนาคามิมรรคกำลังเจริญอัญญิน- 
+<span class="LineNumber"> 018 </span>ทรีย์ด้วย   กำลังจะโทมนัสสินทรีย์ด้วย.
+<span class="LineNumber"> 019 </span>                     <I>จบ  โทมนัสสินทริยมูละ  อัญญินทริยมูลี</I>

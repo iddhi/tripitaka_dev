@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           อาสวะทั้งหลายย่อมไม่เจริญแก่บุคคล ๒ พวก  คือ  ผู้สำคัญในอนาบัติ
+<span class="LineNumber"> 002 </span>ว่าเป็นอนาบัติ ๑  ผู้สำคัญในอาบัติว่าเป็นอาบัติ ๑  
+<span class="LineNumber"> 003 </span>           อาสวะทั้งหลายย่อมเจริญแก่บุคคลแม้อื่นอีก  ๒  พวก   คือ   ผู้สำคัญ
+<span class="LineNumber"> 004 </span>ในอธรรมว่าเป็นธรรม ๑  ผู้สำคัญในธรรมว่าเป็นอธรรม ๑           
+<span class="LineNumber"> 005 </span>           อาสวะทั้งหลายย่อมไม่เจริญแก่บุคคล ๒ พวก  คือ  ผู้สำคัญในอธรรม
+<span class="LineNumber"> 006 </span>ว่าเป็นอธรรม ๑  ผู้สำคัญในธรรมว่าเป็นธรรม ๑
+<span class="LineNumber"> 007 </span>           อาสวะทั้งหลายย่อมเจริญแก่บุคคลแม้อื่นอีก  ๒  พวก   คือ   ผู้สำคัญ
+<span class="LineNumber"> 008 </span>ในสภาพมิใช่วินัยว่าวินัย ๑   ผู้สำคัญในวินัยว่าสภาพมิใช่วินัย  ๑
+<span class="LineNumber"> 009 </span>           อาสวะทั้งหลายย่อมไม่เจริญแก่บุคคล ๒ พวก  คือ   ผู้สำคัญในสภาพ
+<span class="LineNumber"> 010 </span>มิใช่วินัยว่าสภาพมิใช่วินัย ๑  ผู้สำคัญในวินัยว่าวินัย ๑.
+<span class="LineNumber"> 011 </span>                                           <I>หมวด ๒  จบ</I>
+
+<span class="LineNumber"> 012 </span>                                      <H1>หัวข้อประจำหมวด</H1>
+<span class="LineNumber"> 013 </span>                             [๙๕๓]  <B>สัญญา  ๑  ศรัทธา  ๑   สัทธรรม
+<span class="LineNumber"> 014 </span>                   ๑   บริขาร    ๑    บุคคล    ๑    จริง   ๑    ภูมิ    ๑
+<span class="LineNumber"> 015 </span>                   ออกไป ๑  ถือเอา  ๑  สมาทาน  ๑  ทำ  ๑   ให้  ๑
+<span class="LineNumber"> 016 </span>                   รับ  ๑ บริโภค  ๑    กลางคืน  ๑   อรุณ ๑   ตัด  ๑
+<span class="LineNumber"> 017 </span>                   ปกปิด  ๑   ทรงไว้  ๑   อุโบสถ  ๑   ปวารณา  ๑
+<span class="LineNumber"> 018 </span>                   กรรม  ๑    กรรมอื่นอีก   ๑   วัตถุ   ๑   วัตถุอื่น
+<span class="LineNumber"> 019 </span>                   อีก   ๑    โทษ  ๑    โทษอื่นอีก   ๒    สมบัติสอง
+<span class="LineNumber"> 020 </span>                   อย่าง  ๑  นานาสังวาสก์  ๑   สมานสังวาสก์  ๑</B>  

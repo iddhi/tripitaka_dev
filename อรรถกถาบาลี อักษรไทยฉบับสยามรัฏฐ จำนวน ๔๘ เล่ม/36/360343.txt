@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  343
+	
+<span class="LineNumber"> 002 </span>	ตโต  ราชา  กามินฺตํ  ปุจฺฉิ  กถํ  กามินฺท  ปสฺสสิ  กสฺส 
+<span class="LineNumber"> 003 </span>รหสฺสํ  กเถตพฺพนฺติ ฯ โส กเถนฺโต อิมํ คาถมาห  
+<span class="LineNumber"> 004 </span>			โย เว หทยสฺส ปตฺถคู (๑) 
+<span class="LineNumber"> 005 </span>			อนุชาโต ปิตรา (๒) อโนมปฺโ  
+<span class="LineNumber"> 006 </span>			นินฺทยมตฺถํ ปสํสิยํ วา  
+<span class="LineNumber"> 007 </span>			ปุตฺตสฺสาวีกเรยฺย คุยฺหมตฺถนฺติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  ปตฺถคูติ  วจนการโก (๓) ฯ  โย  เม  มนํ  กโรติ  ปิตุ  
+<span class="LineNumber"> 009 </span>จิตฺตสฺส  วเส  วตฺตติ  โอวาทกฺขโม  โหตีติ  อตฺโถ ฯ  อนุชาโตติ  
+<span class="LineNumber"> 010 </span>ตโย  ปุตฺตา  อภิชาโต  จ  อนุชาโต  จ  อวชาโต  จาติ ฯ
+<span class="LineNumber"> 011 </span>อนุปฺปนฺนํ  ยํสํ  อุปฺปาเทนฺโต  อภิชาโต  นาม ฯ  กุลงฺกุโร
+<span class="LineNumber"> 012 </span>กุลุปจฺเฉทโก  ธนวินาสโก  อวชาโต  นาม (๔) ฯ  กุลตนฺตึ  กุลปเวณึ 
+<span class="LineNumber"> 013 </span>อนุรกฺขโกว  อนุชาโต นาม ฯ ตํ สนฺธาเยวมาห ฯ  
+<span class="LineNumber"> 014 </span>	ตโต  ราชา  เทวินฺทํ  ปุจฺฉิ  กถํ  เทวินฺท  ปสฺสสิ  กสฺส 
+<span class="LineNumber"> 015 </span>รหสฺสํ  กเถตพฺพนฺติ ฯ โส อตฺตโน กตการณเมว กเถนฺโต อิมํ 
+<span class="LineNumber"> 016 </span>คาถมาห  
+<span class="LineNumber"> 017 </span>			มาตา ทฺวิปทชนินฺทเสฏฺ€  
+<span class="LineNumber"> 018 </span>			ยา นํ โปสติ ฉนฺทสา ปิเยน  
+<span class="LineNumber"> 019 </span># ๑. ม. ปิตุหทยสฺส ปทฺธคู ฯ  ยุ. ปทฺธคู ฯ  ๒.  ม. ยุ. ปิตรํ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. ยุ. เปสนการโก ฯ  ๔. สี. กุลงฺคาดร กุลปจฺฉิมโก ธนวินาสโก 
+<span class="LineNumber"> 021 </span>อวชาโต นาม ฯ  ม. กุลภาโร อวชาโต ฯ  ยุ. กุลงฺคุโร กุลปจฺฉิมโก 
+<span class="LineNumber"> 022 </span>ธนวินาสโก อวชาโต นาม ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	เล่มที่  23  อุตฺตราวิมานวณฺณนา  หน้า  95
+
+<span class="LineNumber"> 002 </span>อาทิ  วุตฺตํ ฯ  ตตฺถ  ปาโณติ  โวหารโต  สตฺโต  ปรมตฺถโต  
+<span class="LineNumber"> 003 </span>ชีวิตินฺทฺริยํ ฯ  ปาณสฺส  อติปาโต  ปาณวโธ  ปาณฆาโต 
+<span class="LineNumber"> 004 </span>ปาณาติปาโต  อตฺถโต  ปาเณ  ปาณสฺิโน  ชีวิตินฺทฺริยุ-
+<span class="LineNumber"> 005 </span>ปจฺเฉทกอุปกฺกมสมุฏฺ€าปิกา  กายวจีทฺวารานํ  อฺตรทฺวารปวตฺตา
+<span class="LineNumber"> 006 </span>วธกเจตนา ฯ  ตโต  ปาณาติปาตา  วิรตาติ  โอรตา  นิวตฺตาติ 
+<span class="LineNumber"> 007 </span>อตฺโถ ฯ  
+<span class="LineNumber"> 008 </span>	มุสาวาทาติ  มุสา  นาม  วิสํวาทนปุเรกฺขารสฺส  อตฺถภฺชนโก
+<span class="LineNumber"> 009 </span>วจีปโยโค  วา  กายปโยโค  วา  วิสํวาทนาธิปฺปาเยน  ปรสฺส  
+<span class="LineNumber"> 010 </span>วิสํวาทกกายวจีปโยคสมุฏฺ€าปิกา  เจตนา  มุสาวาโท ฯ  อถ  
+<span class="LineNumber"> 011 </span>วา  มุสาติ  อภูตํ  อตจฺฉํ  วตฺถุ  วาโทติ  ตสฺส  ภูตโต 
+<span class="LineNumber"> 012 </span>ตจฺฉโต  วิฺาเปตุกามสฺส  ตถา  วิฺตฺติสมุฏฺ€าปิกา  เจตนา ฯ  
+<span class="LineNumber"> 013 </span>ตโต  มุสาวาทา  สฺตา  โอรตา  วิรตาติ  อตฺโถ ฯ  จสทฺโท  
+<span class="LineNumber"> 014 </span>สมฺปิณฺฑนตฺโถ ฯ  
+<span class="LineNumber"> 015 </span>	เถยฺยาติ  เถยฺยํ  วุจฺจติ  เถนภาโว  โจริกาย  ปรสฺส 
+<span class="LineNumber"> 016 </span>หรณนฺติ  อตฺโถ ฯ  อตฺถโต  ปรปริคฺคหิเต  ปรปริคฺคหิตสฺิโน 
+<span class="LineNumber"> 017 </span>ตทาทายกอุปกฺกมสมุฏฺ€าปิกา  เถยฺยเจตนา  เถยฺยํ ฯ  ตโต  เถยฺยา  
+<span class="LineNumber"> 018 </span>สฺตา  อารกาติ  วา  สมฺพนฺโธ ฯ  
+<span class="LineNumber"> 019 </span>	อติจาราติ  อติจฺจ  จาโร  อติจาโร  โลกมริยาทํ  อติกฺกมิตฺวา  
+<span class="LineNumber"> 020 </span>อคมนียฏฺ€าเน  กามวเสน  จาโร  มิจฺฉาจาโรติ  อตฺโถ ฯ  
+<span class="LineNumber"> 021 </span>อคมนียฏฺ€านํ  นาม  ปุริสานํ  มาตุรกฺขิตา  ปิตุรกฺขิตา 

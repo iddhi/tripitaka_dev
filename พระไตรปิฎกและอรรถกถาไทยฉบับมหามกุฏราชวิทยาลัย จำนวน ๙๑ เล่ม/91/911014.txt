@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>๙๑.  นสุขสหคตทุกสุขสหคตทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                   <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 003 </span>                                     <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 004 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๑๔๕] ๑.  <B>สุขสหคตธรรม     อาศัยธรรมที่ไม่ใช่สุขสหคต-
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                           <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๑๔๖]  ในเหตุปัจจัย มี ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>                        <I>นสุขสหคตทุกสุขสหคตทุกะ  จบ</I>
+
+<span class="LineNumber"> 011 </span>                <H1>๙๒.  นอุเบกขาสหคตทุกอุเบกขาสหคตทุกะ</H1>
+<span class="LineNumber"> 012 </span>                                       <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 013 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>                                      <H2>๑.  เหตุปัจจัย</H2>	
+<span class="LineNumber"> 015 </span>           [๑๔๗] ๑.  <B>อุเบกขาสหคตธรรม  อาศัยธรรมที่ไม่ใช่อุเบกขา-
+<span class="LineNumber"> 016 </span>สหคตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>                       ๒. <B>ธรรมที่ไม่ใช่อุเบกขาสหคตธรรม      อาศัยธรรม
+<span class="LineNumber"> 018 </span>ที่ไม่ใช่อุเบกขาสหคตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>

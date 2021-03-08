@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H1>นิโรธุปปันนวาระ</H1> :- 
+<span class="LineNumber"> 002 </span>         [๔๖]   จิตของบุคคลใดกำลังดับ   จิตของบุคคลนั้นเกิดขึ้นแล้ว
+<span class="LineNumber"> 003 </span>ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ก็หรือว่าจิตของบุคคลใดเกิดขึ้นแล้ว  จิตของบุคคลนั้นกำลังดับ
+<span class="LineNumber"> 005 </span>ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ในอุปปาทักขณะแห่งจิต  จิตของบุคคลเหล่านั้นเกิดขึ้นแล้ว  แต่
+<span class="LineNumber"> 007 </span>จิตของบุคคลเหล่านั้นไม่ใช่กำลังดับ,  ในภังคขณะแห่งจิต  จิตของบุคคล
+<span class="LineNumber"> 008 </span>เหล่านั้นเกิดขึ้นแล้วด้วย   กำลังดับด้วย.
+<span class="LineNumber"> 009 </span>         จิตของบุคคลใดไม่ใช่กำลังดับ      จิตของบุคคลนั้นไม่ใช่เกิดแล้ว
+<span class="LineNumber"> 010 </span>ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ในอุปปาทขณะแห่งจิต  จิตของบุคคลเหล่านั้นไม่ใช่กำลังดับ แต่
+<span class="LineNumber"> 012 </span>จิตของบุคคลเหล่านั้นเกิดขึ้นแล้ว,      บุคคลผู้เข้าอยู่ซึ่งนิโรธสมาบัติก็ดี
+<span class="LineNumber"> 013 </span>บุคคลผู้เกิดอยู่ในอสัญญสัตตภูมิก็ดี  จิตของบุคคลเหล่านั้นไม่ใช่กำลังดับ
+<span class="LineNumber"> 014 </span>ด้วย   ไม่ใช่เกิดขึ้นแล้วด้วย.
+<span class="LineNumber"> 015 </span>         ก็หรือว่าจิตของบุคคลใด ไม่ใช่จักเกิดขึ้นแล้ว, จิตของบุคคลนั้น
+<span class="LineNumber"> 016 </span>ไม่ใช่กำลังดับ  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ใช่.

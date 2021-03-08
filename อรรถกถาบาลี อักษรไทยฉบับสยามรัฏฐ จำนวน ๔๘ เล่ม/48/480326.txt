@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48     หน้า 326
+
+<span class="LineNumber"> 002 </span>			อรูปธาตุกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  (๑)  อรูปธาตุกถายปิ  อิมินาว  อุปาเยน  อตฺโถ 
+<span class="LineNumber"> 004 </span>เวทิตพฺโพ ฯ  อรูปธมฺเมสุ  ปน  เวทนากฺขนฺธเมว  คเหตฺวา 
+<span class="LineNumber"> 005 </span>เวทนา  ภโวติอาทินา  นเยเนตฺถ  เทสนา  กตา ฯ  ตตฺถ  กินฺเต
+<span class="LineNumber"> 006 </span>อรูปิโน  ธมฺมาติ  สงฺขคตา (๒) เวทนา  ภวาทีสุ(๓)  อฺตรา
+<span class="LineNumber"> 007 </span>โหตีติ เอวมตฺโถ เวทิตพฺโพ ฯ เสสํ เหฏฺ€า วุตฺตนเยเนว เวทิตพฺพนฺติ ฯ 
+<span class="LineNumber"> 008 </span>		อรูปธาตุกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 009 </span>		รูปธาตุยาอายตนกถาวณฺณนา 
+<span class="LineNumber"> 010 </span>	อิทานิ  รูปธาตุยา  อายตนกถา  นาม  โหติ ฯ  ตตฺถ  เยสํ
+<span class="LineNumber"> 011 </span>รูปี  มโนมโย  สพฺพงฺคปจฺจงฺคี  อหีนินฺทฺริโยติ  (๔)  สุตฺตํ  นิสฺสาย 
+<span class="LineNumber"> 012 </span>พฺรหฺมกายิกานํ ฆานนิมิตฺตานิปิ  (๕)  อายตนาเนวาติ  กปฺเปตฺวา
+<span class="LineNumber"> 013 </span>สฬายตนิโก  เตสํ  อตฺตภาโวติ  ลทฺธิ  เสยฺยถาปิ  อนฺธกานฺเจว
+<span class="LineNumber"> 014 </span>สมิติยานฺจ  เต  สนฺธาย  สฬายตนิโกติ  ปุจฺฉา  สกวาทิสฺส ฯ
+<span class="LineNumber"> 015 </span>ลทฺธิยา  วเสน  ปฏิฺา  อิตรสฺส  อถ  นํ  ยํ  ตตฺถ  อายตนํ
+<span class="LineNumber"> 016 </span>นตฺถิ  ตสฺส  วเสน  โจเทตุํ  อตฺถิ  ตตฺถ  ฆานายตนนฺติอาทิ 
+<span class="LineNumber"> 017 </span>อารทฺธํ ฯ  ตโต  ปรวาที  ยํ  ตตฺถ อชฺฌตฺติกานํ ติณฺณํ
+<span class="LineNumber"> 018 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. สงฺขํ คตา ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. เวทนาทีสุ ฯ  ๔. ที. สี. ๙/๑๙/๔๔ ฯ
+<span class="LineNumber"> 020 </span># ๕. ม. ฆานาทินิมิตฺตานิปิ ฯ

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ขันธ์ ๒    อาศัยขันธ์ ๑    ที่เป็นจิตตสัมปยุตตธรรม    ซึ่งเป็น
+<span class="LineNumber"> 002 </span>อเหตุกะ ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 003 </span>         ในอเหตุกปฏิสนธิขณะ  โมหะ ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วย 
+<span class="LineNumber"> 004 </span>อุทธัจจะ  อาศัยขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 005 </span>         พึงกระทำทั้ง ๙ วาระ ดังกล่าวมา  พึงกำหนดในบททั้งปวงว่าอเหตุกะ
+<span class="LineNumber"> 006 </span>โมหมูลอย่างเดียวเท่านั้น     พึงให้เต็ม.
+
+<span class="LineNumber"> 007 </span>                                    <H2>๒.  นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 008 </span>         [๑๒๐] ๑.  <B>จิตตวิปปยุตตธรรม       อาศัยจิตตสัมปยุตตธรรม
+<span class="LineNumber"> 009 </span>เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 010 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นจิตตสัมปยุตตธรรม.
+<span class="LineNumber"> 011 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 012 </span>                     ๒.  <B>จิตตวิปปยุตตธรรม      อาศัยจิตตวิปปยุตตธรรม
+<span class="LineNumber"> 013 </span>เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  มหาภูตรูป ๓  อาศัยมหาภูตรูป ๑ ฯลฯ ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 015 </span>                     ๓.  <B>จิตตวิปปยุตตธรรม      อาศัยจิตตสัมปยุตตธรรม
+<span class="LineNumber"> 016 </span>และจิตตวิปปยุตตธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ  จิตตสมุฏฐานรูป    อาศัยขันธ์ทั้งหลายที่เป็นจิตตสัมปยุตตธรรม
+<span class="LineNumber"> 018 </span>และมหาภูตรูปทั้งหลาย.

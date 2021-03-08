@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                 <H1>เหตุทุกอุปปันนติกนเหตุทุกนอุปปันนติกะ</H1> 
+<span class="LineNumber"> 002 </span>                  <H2>(๑. เหตุทุกะ ๑๗. อุปปันนติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 004 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                               <H2>๑. อารัมมณปัจจัย</H2>		
+<span class="LineNumber"> 006 </span>                                   <H2>อนุปปันนบท</H2>
+<span class="LineNumber"> 007 </span>           [๒๕๓] ๑.  <B>ธรรมที่เป็นอนุปปันนธรรม  ที่เป็นเหตุ  เป็นปัจจัย 
+<span class="LineNumber"> 008 </span>แก่ธรรมที่ไม่ใช่อนุปปันนธรรม     ที่ไม่ใช่เหตุ      ด้วยอำนาจของ
+<span class="LineNumber"> 009 </span>อารัมมณปัจจัย</B>   มี ๙ วาระ.
+
+<span class="LineNumber"> 010 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>           ในอารัมมณปัจจัย  มี ๙ วาระ   ในอธิปติปัจจัย  มี  ๙ วาระ   ใน-
+<span class="LineNumber"> 012 </span>อุปนิสสยปัจจัย  มี  ๙ วาระ.
+
+<span class="LineNumber"> 013 </span>                                          <H2>อุปปาทิบท</H2>
+<span class="LineNumber"> 014 </span>                       ๑.  <B>ธรรมที่เป็นอุปปาทิธรรม ที่เป็นเหตุ  เป็นปัจจัยแก่
+<span class="LineNumber"> 015 </span>ธรรมที่ไม่ใช่อุปปาทิธรรม  ที่ไม่ใช่เหตุ   ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 016 </span>ปัจจัย</B>   มี ๙  วาระ.
+<span class="LineNumber"> 017 </span>                <I>เหตุทุกอุปปันนติกนเหตุทุกนอุปปันนติกะ  จบ</I>

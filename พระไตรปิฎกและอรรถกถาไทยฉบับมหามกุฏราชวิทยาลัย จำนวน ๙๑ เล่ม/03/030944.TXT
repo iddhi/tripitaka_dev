@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>บทภาชนีย์</H1>
+<span class="LineNumber"> 002 </span>                      <H2>ติกนิสสัคคิยปาจิตตีย์</H2>
+<span class="LineNumber"> 003 </span>        [๑๐๗]  รูปิยะ  ภิกษุสำคัญว่าเป็นรูปิยะ   รับรูปิยะ   เป็นนิสสัคคีย์
+<span class="LineNumber"> 004 </span>ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 005 </span>        รูปิย ะ  ภิกษุสงสัย   รับรูปิยะ   เป็นนิสสัคคีย์    ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 006 </span>        รูปิยะ   ภิกษุสำคัญว่ามิใช่รูปิยะ   รับรูปิยะ    เป็นนิสสัคคีย์    ต้อง
+<span class="LineNumber"> 007 </span>อาบัติปาจิตตีย์                     
+<span class="LineNumber"> 008 </span>                                <H2>ทุกกฏ</H2>    
+<span class="LineNumber"> 009 </span>        ไม่ใช่รูปิยะ   ภิกษุสำคัญว่าเป็นรูปิยะ   ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 010 </span>        ไม่ใช่รูปิยะ  ภิกษุสงสัย...ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 011 </span>                           <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 012 </span>       ไม่ใช่รูปิยะ   ภิกษุสำคัญว่าไม่ใช่รูปิยะ... ไม่ต้องอาบัติ.
+<span class="LineNumber"> 013 </span>                            <h2>อนาปัตติวาร</h2>
+<span class="LineNumber"> 014 </span>        [๑๐๘]  ทองเงินตกอยู่ภายในวัดก็ดี  ภายในที่อยู่ก็ดี   ภิกษุหยิบยก
+<span class="LineNumber"> 015 </span>เองก็ดี  ใช้ให้หยิบยกก็ดี   แล้วเก็บไว้ด้วยตั้งใจว่า   เป็นของผู้ใด   ผู้นั้น
+<span class="LineNumber"> 016 </span>จักนำไปดังนี้  ๑   ภิกษุวิกลจริต  ๑  ภิกษุอาทิกัมมิกะ  ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 017 </span>                <I>โกสิยวรรค  สิกขาบทที่  ๘  จบ</I>

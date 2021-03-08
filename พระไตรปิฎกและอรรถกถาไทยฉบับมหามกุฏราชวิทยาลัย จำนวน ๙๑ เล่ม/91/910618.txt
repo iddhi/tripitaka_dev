@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           <B>หมวดอกุศล   ก็มี ๓  วาระ  หมวดอัพยากตะ  ก็มี  ๓  วาระ    รวม
+<span class="LineNumber"> 002 </span>เป็น  ๙  วาระ.</B>  
+<span class="LineNumber"> 003 </span>               <I>กุสลติกสนิทัสสนทุกนกุสลติกนสนิทัสสนทุกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                      <H1>กุสลติกสัปปฏิฆทุกนกุสลติกนสัปปฏิฆทุกะ</H1>
+<span class="LineNumber"> 005 </span>                        <H2>(๑. กุสลติกะ  ๑๐.  สัปปฏิฆทุกะ)</H2>
+<span class="LineNumber"> 006 </span>                                            <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 007 </span>                                             <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                           <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>                                            <H2>สัปปฏิฆบท</H2>
+<span class="LineNumber"> 010 </span>           [๓๗๔] ๑.  <B>ธรรมที่ไม่ใช่สัปปฏิฆธรรม  ที่ไม่ใช่กุศล  อาศัย
+<span class="LineNumber"> 011 </span>ธรรมที่เป็นสัปปฏิฆธรรม  ที่เป็นอัพยากตะ  ฯลฯ</B> 
+<span class="LineNumber"> 012 </span>                       ๒.  <B>ธรรมที่ไม่ใช่สัปปฏิฆธรรม  ที่ไม่ใช่อกุศล  อาศัย
+<span class="LineNumber"> 013 </span>ธรรมที่เป็นสัปปฏิฆธรรม  ที่เป็นอัพยากตะ  ฯลฯ</B>
+<span class="LineNumber"> 014 </span>                       ๓.  <B>ธรรมที่ไม่ใช่สัปปฏิฆธรรม  ที่ไม่ใช่กุศล   และ
+<span class="LineNumber"> 015 </span>ธรรมที่ไม่ใช่สัปปฏิฆธรรม  ที่ไม่ใช่อกุศล  อาศัยธรรมที่เป็นสัปปฏิฆ-
+<span class="LineNumber"> 016 </span>ธรรม  ที่เป็นอัพยากตะ  ฯลฯ</B>  มี  ๓  วาระ
+<span class="LineNumber"> 017 </span>           หมวดอัปปฏิฆธรรมที่เป็นกุศล  ก็มี  ๓  วาระ.

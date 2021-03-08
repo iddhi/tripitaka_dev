@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  252
+
+<span class="LineNumber"> 002 </span>		กถํ หเว ภาสติ นาคราชา  
+<span class="LineNumber"> 003 </span>		กถํ(๑) ปน ครุโฬ เวนเตยฺโย(๒)  
+<span class="LineNumber"> 004 </span>		คนฺธพฺพราชา ปน กึ วเทสิ  
+<span class="LineNumber"> 005 </span>		กถํ ปน กุรูนํ ราชเสฏฺโ€ติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ คนฺธพฺพราชาติ สกฺกํ สนฺธายาห ฯ  อถสฺส เต[๓]
+<span class="LineNumber"> 007 </span>คาถมาหํสุ  
+<span class="LineNumber"> 008 </span>		ขนฺตึ หเว ภาสติ นาคราชา  
+<span class="LineNumber"> 009 </span>		อปฺปาหารํ ครุโฬ เวนเตยฺโย  
+<span class="LineNumber"> 010 </span>		คนฺธพฺพราชา รติวิปฺปหานํ  
+<span class="LineNumber"> 011 </span>		อกิฺจนํ กุรูนํ ราชเสฏฺ€ิโน(๔) ฯ  
+<span class="LineNumber"> 012 </span>	ตสฺสตฺโถ  ปณฺฑิต  นาคราชา  ตาว  โกปเนยฺเยปิ  ปุคฺคเล  
+<span class="LineNumber"> 013 </span>อกฺโกปนสํขาตํ(๕)  อธิวาสนขนฺตึ  วณฺเณติ  ครุโฬ  อปฺปาหารสํขาตํ  
+<span class="LineNumber"> 014 </span>อาหารเหตุ  ปาปสฺส  อกรณํ  วณฺเณติ  สกฺโก  ปฺจกามคุเณ  
+<span class="LineNumber"> 015 </span>รติวิปฺปหานํ(๖) วณฺเณติ กุรุราชา นิปฺปลิโพธภาวํ วณฺเณตีติ ฯ  
+<span class="LineNumber"> 016 </span>	[๗]เตสํ กถํ สุตฺวา มหาสตฺโต อิมํ คาถมาห  
+<span class="LineNumber"> 017 </span>		สพฺพานิ เอตานิ สุภาสิตานิ  
+<span class="LineNumber"> 018 </span>		น เหตฺถ ทุพฺพาสิตมตฺถิ กิฺจิ  
+<span class="LineNumber"> 019 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. ครุโฬ ปน เวนเตยฺโย กิมาห ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. เอตฺถนฺตเร อิมนฺติ ทิสฺสติ ฯ  ๔. ม.ราชเสฏฺโ€ติ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. อกุปฺปนสงฺขาตํ ฯ  ๖. ม. ปฺจกามคุณรตีนํ วิปฺปหานํ ฯ
+<span class="LineNumber"> 022 </span># ๗. ม. เอตฺถนฺตเร อถาติ ทิสฺสติ ฯ

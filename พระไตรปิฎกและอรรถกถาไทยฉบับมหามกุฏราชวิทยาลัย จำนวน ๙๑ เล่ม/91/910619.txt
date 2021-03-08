@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>           หมวดอัปปฏิฆธรรมที่เป็นอกุศล  ก็มี  ๓  วาระ. 
+<span class="LineNumber"> 002 </span>           หมวดอัปปฏิฆธรรมที่เป็นอัพยากตะ  ก็มี ๓ วาระ. 
+<span class="LineNumber"> 003 </span>                       <B>ฯลฯ  อาศัยธรรมที่เป็นอัปปฏิฆธรรม  ที่เป็นกุศล  และ
+<span class="LineNumber"> 004 </span>ธรรมที่เป็นอัปปฏิฆธรรม  ที่เป็นอัพยากตะ</B>  มี ๓ วาระ.
+<span class="LineNumber"> 005 </span>                       <B>ฯลฯ  อาศัยธรรมที่เป็นอัปปฏิฆธรรม    ที่เป็นอกุศล 
+<span class="LineNumber"> 006 </span>และธรรมที่เป็นอัปปฏิฆธรรม  ที่เป็นอัพยากตะ</B>  มี  ๓  วาระ
+<span class="LineNumber"> 007 </span>           รวมเป็น  ๕ วาระ.
+<span class="LineNumber"> 008 </span>          <I>กุสลติกสัปปฏิฆทุกนกุสลติกนสัปปฏิฆทุกะ  จบ</I>
+
+<span class="LineNumber"> 009 </span>                          <H1>กุสลติกรูปีทุกนกุสลติกนรูปีทุกะ</H1>
+<span class="LineNumber"> 010 </span>                       <H2>(๑. กุสลติกะ   ๑๑.  รูปีทุกะ)</H2>
+<span class="LineNumber"> 011 </span>                                       <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 012 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>                                     <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 014 </span>                                             <H2>รูปีบท</H2>	
+<span class="LineNumber"> 015 </span>           [๓๗๕] ๑.  <B>ธรรมที่ไม่ใช่รูปีธรรม ที่ไม่ใช่กุศล  อาศัยธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นรูปีธรรม  ที่เป็นอัพยากตะ  ฯลฯ</B>
+<span class="LineNumber"> 017 </span>                       ๒.  <B>ธรรมที่ไม่ใช่รูปีธรรม  ที่ไม่ใช่อกุศล  อาศัย  ฯลฯ</B>

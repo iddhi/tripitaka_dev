@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>สีมาวิบัติ</H2>  
+<span class="LineNumber"> 002 </span>           [๑,๓๕๑]   ถามว่า   กรรมย่อมวิบัติโดยสีมาอย่างไร
+<span class="LineNumber"> 003 </span>           ตอบว่า  กรรมย่อมวิบัติโดยสีมา  ด้วยอาการ ๑๑ อย่าง  คือ :-
+<span class="LineNumber"> 004 </span>           ๑.   สมมติสีมาเล็กเกิน
+<span class="LineNumber"> 005 </span>           ๒.   สมมติสีมาใหญ่เกิน                                       
+<span class="LineNumber"> 006 </span>           ๓.   สมมติสีมามีนิมิตขาด
+<span class="LineNumber"> 007 </span>           ๔.   สมมติสีมาใช้เงาเป็นนิมิต
+<span class="LineNumber"> 008 </span>           ๕.   สมมติสีมาไม่มีนิมิต    
+<span class="LineNumber"> 009 </span>           ๖.   ภิกษุอยู่ภายนอกสีมาสมมติสีมา
+<span class="LineNumber"> 010 </span>           ๗.  สมมติสีมาในนที
+<span class="LineNumber"> 011 </span>           ๘.   สมมติสีมาในสมุทร
+<span class="LineNumber"> 012 </span>           ๙.   สมมติสีมาในชาตสระ
+<span class="LineNumber"> 013 </span>          ๑๐.  คาบเกี่ยวสีมาด้วยสีมา
+<span class="LineNumber"> 014 </span>          ๑๑.  ทับสีมาด้วยสีมา
+<span class="LineNumber"> 015 </span>           กรรมย่อมวิบัติโดยสีมา   ด้วยอาการ ๑๑  อย่างนี้.
+
+<span class="LineNumber"> 016 </span>                                        <H2>บริษัทวิบัติ</H2>
+<span class="LineNumber"> 017 </span>           [๑,๓๕๒]   ถามว่า   กรรมย่อมวิบัติ   โดยบริษัทอย่างไร
+<span class="LineNumber"> 018 </span>           ตอบว่า  กรรมย่อมวิบัติโดยบริษัท   ด้วยอาการ ๑๒  อย่าง  คือ :-
+<span class="LineNumber"> 019 </span>           ๑.  ในกรรมอันสงฆ์จตุวรรคพึงทำ  ภิกษุทั้งหลายที่เข้ากรรมมีจำนวน
+<span class="LineNumber"> 020 </span>เท่าไร  พวกเธอยังไม่มา  ไม่นำฉันทะของภิกษุผู้ควรฉันทะมา   อยู่พร้อมหน้า
+<span class="LineNumber"> 021 </span>กันคัดค้าน

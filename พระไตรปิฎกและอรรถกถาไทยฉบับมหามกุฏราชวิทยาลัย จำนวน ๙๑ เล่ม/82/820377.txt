@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.
+<span class="LineNumber"> 002 </span>         ก็หรือว่า โสตายตนะเคยเกิดแก่บุคคลใดในภูมิใด,   จักขายตนะ 
+<span class="LineNumber"> 003 </span>เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?                 
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>                          <I>จบ  จักขายตนมูละ  โสตายตนมูลี</I>
+<span class="LineNumber"> 006 </span><H2>จักขายตนมูละ  ฆานายตนมูลี :-</H2>
+<span class="LineNumber"> 007 </span>         [๓๔๘]   จักขายตนะเคยเกิดแก่บุคคลใดในภูมิใด, ฆานายตนะ
+<span class="LineNumber"> 008 </span>เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         บุคคลที่เกิดอยู่ในรูปาวจรภูมินั้น    จักขายตนะเคยเกิดแก่บุคคล
+<span class="LineNumber"> 010 </span>เหล่านั้นในภูมินั้น          แต่ฆานายตนะไม่ใช่เคยเกิดแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 011 </span>ในภูนั้น,      บุคคลที่เกิดอยู่ในกามาวจรภูมินั้น      จักขายตนะเคยเกิด
+<span class="LineNumber"> 012 </span>และฆานายตนะก็เคยเกิดแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า  ฆานายตนะเคยเกิดแก่บุคคลใดในภูมิใด,    จักขายตนะ
+<span class="LineNumber"> 014 </span>ก็เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?                  
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>                          <I>จบ   จักขายตนมูละ   ฆานายตนมูลี</I>

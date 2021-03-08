@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>ปุคคโลกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 003 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 004 </span>         [๔๐๐]   จักขายตนะไม่ใช่จักเกิดแก่บุคคลใดในภูมิใด,   โสต-
+<span class="LineNumber"> 005 </span>ยตนะก็ไม่ใช่จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  โสตายตนะไม่ใช่จักเกิดแก่บุคคลใดในภูมิใด,    จักขา-
+<span class="LineNumber"> 008 </span>ยตนะก็ไม่ใช่จักเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                         <I>จบ   จักขายตนมูละ   โสตายตนมูลี</I>
+<span class="LineNumber"> 011 </span><H2>จักขายตนมูละ    ฆานายตนมูลี :-</H2>
+<span class="LineNumber"> 012 </span>         [๔๐๑]   จักขายตนะไม่ใช่จักเกิดแก่บุคคลใดในภูมิใด,  ฆานา-
+<span class="LineNumber"> 013 </span>ยตนะก็ไม่ใช่จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า  ฆานายตนะไม่ใช่จักเกิดแก่บุคคลใดในภูมิใด,     จักขา
+<span class="LineNumber"> 016 </span>ยตนะก็ไม่ใช่จักเกิดแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ?

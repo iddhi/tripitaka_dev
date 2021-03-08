@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                         <B>ตวนฺตุ.</B>  
+<span class="LineNumber"> 002 </span>	<B>สุตวา</B>  ฟังแล้ว.  <B>สุ</B>  ธาตุ  ในความฟัง, นาม  (๖๔).  <B>ภุตฺตวา</B>  
+<span class="LineNumber"> 003 </span>กินแล้ว.  <B>ภุชฺ</B>  ธาตุ  ในความ  กิจ,  เอาที่สุดธาตุ  เป็น  <B>ตฺ,</B>  นาม  (๖๔).
+<span class="LineNumber"> 004 </span><B>วุสิตวา</B>  อยู่แล้ว.  <B>วสฺ</B>  ธาตุ  ในความ  อยู่,  เอา  <B>ว</B>  เป็น  <B>วุ</B>  แล้ว
+<span class="LineNumber"> 005 </span>ลง  <B>อิ,</B>  นาม  (๖๔).
+<span class="LineNumber"> 006 </span>	ถ้าเป็นอิตถีลิงค์  เป็น  <B>สุตวตี,  ภุตฺตวตี,  วุสิตวตี.</B>  นาม  (๖๔).
+<span class="LineNumber"> 007 </span>                                         <B>ตาวี.</B>
+<span class="LineNumber"> 008 </span><B>ปุํ.  			อิตฺ.			นปุํ.
+<span class="LineNumber"> 009 </span>สุตาวี		สุตาวินี		สุตาวิ</B>		ฟังแล้ว.
+<span class="LineNumber"> 010 </span><B>ภุตฺตาวี		ภุตฺตาวินี		ภุตฺตาวิ</B>		กินแล้ว.
+<span class="LineNumber"> 011 </span><B>วุสิตาวี		วุสิตาวินี		วุสิตาวิ</B>		อยู่แล้ว.
+<span class="LineNumber"> 012 </span>	กิริยาศัพท์ที่ประกอบด้วยกิตปัจจัยอย่างนี้อยู่หน้ากิริยาอาขยาต
+<span class="LineNumber"> 013 </span>โดยมาก,  พึงเห็นว่าเป็นเหมือนบทวิเสสนะ.
+
+<span class="LineNumber"> 014 </span>                                (๑๔๔)  กิจจปัจจัย.
+<span class="LineNumber"> 015 </span>                                          <B>อนีย.</B> 
+<span class="LineNumber"> 016 </span>	<B>กรณียํ</B>  อันเขาพึงทำ.  <B>กรฺ</B>  ธาตุ  ในความ  ทำ,  เอา  <B>น</B>  เป็น <B>ณ.
+<span class="LineNumber"> 017 </span>วจนียํ</B>  อันเขาพึงกล่าว.  <B>วจฺ</B>  ธาตุ  ในความ  กล่าว,  <B>โภชนียํ</B>  อันเขา
+<span class="LineNumber"> 018 </span>พึงกิน.  <B>ภุชฺ</B>  ธาตุ   ในความ  กิน,  พฤทธิ์  <B>อุ</B>  เป็น  โอ.
+<span class="LineNumber"> 019 </span>	ศัพท์ที่ประกอบด้วยปัจจัยนี้    บางศัพท์ก็ใช้เป็นนามกิตก์บ้าง.
+

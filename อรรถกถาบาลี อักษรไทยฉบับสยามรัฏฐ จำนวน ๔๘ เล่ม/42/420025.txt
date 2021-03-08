@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42  ทูเรนิทานกถา หน้า  25
+
+<span class="LineNumber"> 002 </span>		พุทฺโธติ วจนํ(๑) สุตฺวาน  ปีติ อุปฺปชฺชิ ตาวเท  
+<span class="LineNumber"> 003 </span>		พุทฺโธ พุทฺโธติ กถยนฺโต  โสมนสฺสํ ปเวทยึ ฯ  
+<span class="LineNumber"> 004 </span>		ตตฺถ €ตฺวา วิจินฺเตสึ  ตุฏฺโ€ สํวิคฺคมานโส  
+<span class="LineNumber"> 005 </span>		อิธ พีชานิ โรปิสฺสํ   ขโณ เว มา อุปจฺจคา ฯ  
+<span class="LineNumber"> 006 </span>		ยทิ พุทฺธสฺส โสเธถ   เอโกกาสํ ททาถ เม  
+<span class="LineNumber"> 007 </span>		อหมฺปิ โสธยิสฺสามิ   อฺชสํ วฏุมายนํ ฯ  
+<span class="LineNumber"> 008 </span>		อทํสุ เต มโมกาสํ   โสเธตุํ อฺชสํ ตทา  
+<span class="LineNumber"> 009 </span>		พุทฺโธ พุทฺโธติ จินฺเตนฺโต  มคฺคํ โสเธมหํ ตทา ฯ  
+<span class="LineNumber"> 010 </span>		อนิฏฺ€ิเต มโมกาเส   ทีปงฺกโร มหามุนิ  
+<span class="LineNumber"> 011 </span>		จตูหิ สตสหสฺเสหิ   ฉฬภิฺเหิ ตาทิหิ  
+<span class="LineNumber"> 012 </span>		ขีณาสเวหิ วิมเลหิ   ปฏิปชฺชิ อฺชสํ ชิโน ฯ  
+<span class="LineNumber"> 013 </span>		ปจฺจุคฺคมนา วตฺตนฺติ   วชฺชนฺติ เภริโย พหู  
+<span class="LineNumber"> 014 </span>		อาโมทิตา นรมรู   สาธุการํ ปวตฺตยย ฯ  
+<span class="LineNumber"> 015 </span>		เทวา มนุสฺเส ปสฺสนฺติ  มนุสฺสาปิ จ เทวตา  
+<span class="LineNumber"> 016 </span>		อุโภปิ เต ปฺชลิกา   อนุยนฺติ ตถาคตํ ฯ  
+<span class="LineNumber"> 017 </span>		เทวา ทิพฺเพหิ ตุริเยหิ  มนุสฺสา มานุเสหิ จ  
+<span class="LineNumber"> 018 </span>		อุโภปิ เต วชฺชยนฺตา  อนุยนฺติ ตถาคตํ ฯ  
+<span class="LineNumber"> 019 </span>		ทิพฺพํ มนฺทารวํ ปุปฺผํ   ปทุมํ ปาริฉตฺตกํ  
+<span class="LineNumber"> 020 </span>		ทิโสทิสํ โอกิรนฺติ   อากาสนภคตา(๒) มรู ฯ  
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ. มม ฯ  ๒. ยุ. อากาเสน คตา ฯ

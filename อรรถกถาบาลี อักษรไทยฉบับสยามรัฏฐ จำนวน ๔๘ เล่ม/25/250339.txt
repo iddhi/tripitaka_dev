@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  สตฺตมวคฺเค ปุณฺณตฺเถรคาถาวณฺณนา  หน้า 339
+
+<span class="LineNumber"> 002 </span>ตสฺส  ภควา  สนฺติ  โข  ปุณฺณ  จกฺขุวิฺเยฺยา  รูปาติ
+<span class="LineNumber"> 003 </span>อาทินา  โอวาทํ ทตฺวา สีหนาทํ  นทาเปตฺวา  วิสฺสชฺเชสิ ฯ  
+<span class="LineNumber"> 004 </span>	โส  ภควนฺตํ วนฺทิตฺวา สุนาปรนฺตชนปทํ คนฺตฺวา 
+<span class="LineNumber"> 005 </span>สุปฺปารกปฏฺฏเน  วิหรนฺโต สมถวิปสฺสนํ อุสฺสุกฺกาเปตฺวา
+<span class="LineNumber"> 006 </span>ติสฺโส วิชฺชา สจฺฉากาสิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 007 </span>		ปพฺภารกูฏํ นิสฺสาย	สยมฺภู อปราชิโต  
+<span class="LineNumber"> 008 </span>		อาพาธิโก จ โส(๒) พุทฺโธ วสติ ปพฺพตนฺตเร ฯ  
+<span class="LineNumber"> 009 </span>		มม อสฺสมสามนฺตา	ปนาโท อาสิ ตาวเท  
+<span class="LineNumber"> 010 </span>		พุทฺเธ นิพฺพายมานมฺหิ	อาโลโก อุทปชฺชถ(๓) ฯ  
+<span class="LineNumber"> 011 </span>		ยาวตา วนสณฺฑสฺมึ	อจฺฉโกกตรจฺฉกา (๔)  
+<span class="LineNumber"> 012 </span>		วาฬา(๕) จ เกสรี สพฺเพ	อภิคชฺชึสุ(๖) ตาวเท ฯ  
+<span class="LineNumber"> 013 </span>		อุปฺปาตํ(๗) ตมหํ ทิสฺวา	ปพฺภารํ อคมาสหํ ฯ  
+<span class="LineNumber"> 014 </span>		ตตฺถทฺทสาสึ สมฺพุทฺธํ	นิพฺพุตํ อปราชิตํ ฯ  
+<span class="LineNumber"> 015 </span>		สุผุลฺลํ สาลราชํว		สตรํสึว อุคฺคตํ  
+<span class="LineNumber"> 016 </span>		วิตจฺจิตํว (๘) องฺคารํ	นิพฺพุตํ อปราชิตํ ฯ  
+<span class="LineNumber"> 017 </span>		ติณํ กฏฺ€ฺจ ปูเรตฺวา	จิตกํ ตตฺถกาสหํ  
+<span class="LineNumber"> 018 </span>		จิตกํ สุกตํ กตฺวา		สรีรํ ฌาปยึ อหํ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ขุ. อ. ๓๒/๔๐๔/๕๓๖ ฯ ๒. ยุ. อาพาธิโก ว โย ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. อาสิ ตาวเท ฯ ๔. สฺยา. อจฺฉโกกตรจฺฉโย ฯ
+<span class="LineNumber"> 021 </span># สี. อจฺฉกา จ ตรจฺฉกา ฯ  ๕. สฺยา. พาลา ฯ 
+<span class="LineNumber"> 022 </span># ๖. สฺยา. อภิกุชฺชึสุ ฯ  ๗. สฺยา. อุปฺปาทํ ฯ  ๘. ม. วีตจฺจิกํว ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  349
+
+<span class="LineNumber"> 002 </span>€เปสิ  ราชเคหโต  อาคจฺฉนฺตํ  สีฆํ  ปเวเสตฺวา  มม  
+<span class="LineNumber"> 003 </span>ทสฺเสยฺยาสีติ ฯ เอวฺจ ปน วตฺวา สิริสยนปิฏฺเ€ นิปชฺชิ ฯ  
+<span class="LineNumber"> 004 </span>	ตสฺมึ  ขเณ  ราชา  สิริสยนปิฏฺเ€  นิปนฺโน  ปณฺฑิตสฺส 
+<span class="LineNumber"> 005 </span>คุเณ  สริตฺวา  มโหสถปณฺฑิโต  สตฺตวสฺสิกกาลโต  ปฏฺ€าย  มํ  
+<span class="LineNumber"> 006 </span>อุปฏฺ€หนฺโต  น  กิฺจิ  มยฺหํ  อนตฺถมกาสิ  เทวตาย  ปุจฺฉาย 
+<span class="LineNumber"> 007 </span>สเจ  ปณฺฑิโต  นาภวิสฺส (๑) ชีวิตํปิ  เม  น  สิยา  เวรีนํ  ปจฺจา-
+<span class="LineNumber"> 008 </span>มิตฺตานํ  วจนํ  คเหตฺวา  อสมธุรํ  ปฺฑิตํ  มาเรถาติ  ขคฺคํ
+<span class="LineNumber"> 009 </span>เทนฺเตน  อยุตฺตํ  มยา กตํ เสฺวทานิ  ตํ  ปสฺสิตุํ  น  ลภิสฺสามีติ 
+<span class="LineNumber"> 010 </span>โสกํ  อุปฺปาเทสิ ฯ  สรีรโต  เสทา  มุฺจึสุ ฯ  โส  ราชา  
+<span class="LineNumber"> 011 </span>โสกสมปฺปิโต  จิตฺตปฺปสาทํ  น  ลภติ ฯ  อุทุมฺพราเทวี  เตน
+<span class="LineNumber"> 012 </span>สทฺธึ  เอกสยนํ  คตา  ตสฺส  อาการํ  ทิสฺวา กินฺนุ  โข  มยฺหํ 
+<span class="LineNumber"> 013 </span>โกจิ  อปราโธ  อตฺถิ  อุทาหุ  อฺํ  เทวสฺส  กิฺจิ  โสกการณํ 
+<span class="LineNumber"> 014 </span>อุปฺปนฺนํ ปุจฺฉิสฺสามิ ตาว นนฺติ ปุจฺฉนฺตี อิมํ คาถมาห  
+<span class="LineNumber"> 015 </span>			กึ ตวํ วิมโนสิ ราช เสฏฺ€  
+<span class="LineNumber"> 016 </span>			ทิปทินฺทวจนํ สุโณมิ เต ตํ (๒) 
+<span class="LineNumber"> 017 </span>			กึ จินฺตยมาโน ทุมฺมโนสิ  
+<span class="LineNumber"> 018 </span>			น หิ (๓) เทว อปราโธ อตฺถิ มยฺหนฺติ ฯ  
+<span class="LineNumber"> 019 </span>	อถ นํ ราชา คาถมาห  
+<span class="LineNumber"> 020 </span># ๑. ม. เทวตาย ปุจฺฉิตปฺเหปิ ปณฺฑิเต อสติ ฯ  ยุ. เทวตาปุจฺฉาย
+<span class="LineNumber"> 021 </span>ปณฺฑิเต อสติ ฯ  ๒. ม. ทฺวิปทชนินฺท วจนํ สุโณม เม ตํ ฯ  ๓. ม. นูน ฯ

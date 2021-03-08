@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       ๖.  <B>ธรรมที่ไม่ใช่สัปปีติกธรรม     ที่ไม่ใช่สนิทัสสน- 
+<span class="LineNumber"> 002 </span>สัปปฏิฆธรรม  และธรรมที่ไม่ใช่สัปปีติกธรรม   ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 003 </span>สัปปฏิฆธรรม   อาศัยสัปปีติกธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 004 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+
+<span class="LineNumber"> 005 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 006 </span>           [๖๖๖]  ในเหตุปัจจัย มี ๖ วาระ  ฯลฯ
+
+<span class="LineNumber"> 007 </span>                                        <H2>อัปปีติกบท</H2>
+<span class="LineNumber"> 008 </span>           [๖๖๗] ๑.  <B>ธรรมที่ไม่ใช่อัปปีติกธรรม    ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 009 </span>สัปปฏิฆธรรม  อาศัยอัปปีติกธรรม   ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 011 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อัปปีติกธรรม    ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 012 </span>สัปปฏิฆธรรม   อาศัยอัปปีติกธรรม   ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 013 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 014 </span>                       ๓.  <B>ธรรมที่ไม่ใช่อัปปีติกธรรม    ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 015 </span>สัปปฏิฆธรรม  และธรรมที่ไม่ใช่อัปปีติกธรรม   ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 016 </span>สัปปฏิฆธรรม  อาศัยอัปปีติกธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม
+<span class="LineNumber"> 017 </span>เกิดขึ้น เพราะเหตุปัจจัย.</B>
+
+<span class="LineNumber"> 018 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 019 </span>           [๖๖๘]  ในเหตุปัจจัย  มี  ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 020 </span>      <I>สนิทัสสนติกสัปปีติกทุกนสนิทัสสนติกนสัปปีติกทุกะ จบ</I>

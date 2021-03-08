@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อนาคตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 004 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๙๓๐]   ทุกขสัจจะจักดับแก่บุคคลใด,        สมุทยสัจจะก็จักดับ
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         บุคคลผู้ถึงพร้อมด้วยอรหัตมรรคเหล่านั้นก็ดี         พระอรหันต์
+<span class="LineNumber"> 008 </span>ทั้งหลายก็ดี    บุคคลเหล่าใดจักได้อรหัตมรรคในลำดับแห่งจิตใด      ใน
+<span class="LineNumber"> 009 </span>อุปปาทขณะแห่งจิตนั้นก็ดี     ทุกขสัจจะจักดับแก่บุคคลเหล่านั้น      แต่
+<span class="LineNumber"> 010 </span>สมุทยสัจจะไม่ใช่จักดับแก่บุคคลเหล่านั้น,   บุคคลที่นอกจากนั้น  ทุกข-
+<span class="LineNumber"> 011 </span>สัจจะจักดับ    และสมุทยสัจจะก็จักดับแก่บุคคลเหล่านั้น.       
+<span class="LineNumber"> 012 </span>         ก็หรือว่า    สมุทยสัจจะจักดับแก่บุคคลใด,   ทุกขสัจจะก็จักดับแก่
+<span class="LineNumber"> 013 </span>บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>                           <I>จบ   ทุกขสัจจมูละ  สมุทยสัจจมูลี</I>

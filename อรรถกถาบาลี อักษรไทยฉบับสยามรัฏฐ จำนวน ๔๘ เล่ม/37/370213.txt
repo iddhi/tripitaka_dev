@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 213
+
+<span class="LineNumber"> 002 </span>	อนฺเวนฺตีติ  ยถา  มํ  อนุพนฺธึสุ  เอวํ  อนุพนฺธนฺติ ฯ 
+<span class="LineNumber"> 003 </span>น  หิ  กมฺมํ  วินสฺสตีติ  ทิฏฺ€ธมฺมเวทนียํ  ตสฺมึเยว  อตฺตภาเว
+<span class="LineNumber"> 004 </span>อุปปชฺชเวทนียํ  อนนฺตรตฺตภาเว  วิปากํ  เทติ  อปราปรเวทนียํ (๑)
+<span class="LineNumber"> 005 </span>ปน  วิปากํ  อทตฺวา  น  นสฺสติ ฯ  ตํ  สนฺธาย  น  หิ กมฺมํ  
+<span class="LineNumber"> 006 </span>วินสฺสตีติ  วตฺวา  เทว  อหํ  ปรทารกมฺมสฺส(๒)  นิสฺสนฺเทน  นิรเย
+<span class="LineNumber"> 007 </span>ปจิตฺวา  ติรจฺฉานโยนิยฺจ  มหนฺตํ  ทุกฺขํ  อนุภวึ  สเจ(๓) 
+<span class="LineNumber"> 008 </span>ตุมฺเหปิ  อิทานิ  คุณสฺส  กถํ  คเหตฺวา  เอวํ  กริสฺสถ  มยา 
+<span class="LineNumber"> 009 </span>อนุภูตสทิสเมว  ทุกฺขํ  อนุภวิสฺสถ  ตสฺมา มา เอวํ อกริตฺถาติ 
+<span class="LineNumber"> 010 </span>อาห ฯ  
+<span class="LineNumber"> 011 </span>	อถสฺส อุตฺตรึ ธมฺมํ เทเสนฺตี อาห  
+<span class="LineNumber"> 012 </span>	[๘๖๕]โย อิจฺเฉ ปุริโส โหตุํ	ชาตึ ชาตึ ปุนปฺปุนํ  
+<span class="LineNumber"> 013 </span>		ปรทารํ วิวชฺเชยฺย		โธตปาโทว กทฺทมํ  
+<span class="LineNumber"> 014 </span>		ยา อิจฺเฉ ปุริโส โหตุํ	ชาตึ ชาตึ ปุนปฺปุนํ  
+<span class="LineNumber"> 015 </span>		สามิกํ อปจาเยยฺย		อินฺทํว ปริจาริกา  
+<span class="LineNumber"> 016 </span>		โย อิจฺเฉ ทิพฺพโภคฺจ	ทิพฺพมายุํ ยสํ สุขํ  
+<span class="LineNumber"> 017 </span>		ปาปานิ ปริวชฺเชยฺย (๔)	ติวิธํ ธมฺมมาจเร  
+<span class="LineNumber"> 018 </span>		กาเยน วาจา มนสา	ปฺปมตฺโต วิจกฺขโณฎ  
+<span class="LineNumber"> 019 </span>		อตฺตโน โหติ อตฺถาย	อิตฺถี วา ยทิ วา ปุมา  
+<span class="LineNumber"> 020 </span># ๑. ม. อปราปริยเวทนียํ ฯ  ๒. ม. ปรทาริกกมฺมสฺส ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. สเจ ปน ฯ ๔. ม. ปริวชฺเชตฺวา ฯ

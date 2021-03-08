@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  16
+
+<span class="LineNumber"> 002 </span>อุทกปิฏฺเ€  รถิกาทีนํ  ปสฺเสสุ  เจว  ถเลสุ  จ  เคเหสุ จ มหนฺตานิ 
+<span class="LineNumber"> 003 </span>สรีรานิ มาเปตฺวา มหนฺเต ผเณ จ  กตฺวา  กมฺมารคคฺครี  
+<span class="LineNumber"> 004 </span>วิย  ธมมานา  สุสูติสทฺทํ  กโรนฺตา  โอลมฺพถ  เจว  นิปชฺชถ 
+<span class="LineNumber"> 005 </span>จ  อตฺตานมฺปน  ตรุณทารกานํ  ชราชิณฺณานํ  คพฺภิตฺถีนํ(๑)
+<span class="LineNumber"> 006 </span>สมุทฺทชาย  จาติ  อิเมสํ  จตุนฺนํ  ชนานํ  มา ทสฺสยิตฺถ 
+<span class="LineNumber"> 007 </span>อหมฺปิ  สพฺพเสเตน  มหนฺเตน  สรีเรน  คนฺตฺวา  สุมหนฺตํ 
+<span class="LineNumber"> 008 </span>กาสิกปุรํ  สตฺตกฺขตฺตุํ  โภเคหิ  ปริกฺขิปิสฺสํ  มหนฺเตน  ผเณน 
+<span class="LineNumber"> 009 </span>[๒] ฉาเทตฺวา  เอกนฺธการํ  กตฺวา  กาสีนํ  ภยํ  ชนยนฺโต 
+<span class="LineNumber"> 010 </span>สุสูติสทฺทํ  มุฺจิสฺสามีติ ฯ [๓] นาคา  ตถา  กรึสุ ฯ  
+<span class="LineNumber"> 011 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 012 </span>	[๖๙๓]ตสฺส ตํ วจนํ สุตฺวา	อุรคาเนกวณฺณิโน  
+<span class="LineNumber"> 013 </span>		พาราณสึ ปวชฺชึสุ		เนว(๔) กฺจิ วิเห€ยุํ  
+<span class="LineNumber"> 014 </span>		นิเวสเนสุ โสพฺเภสุ	รถิยา จจฺจเรสุ จ  
+<span class="LineNumber"> 015 </span>		รุกฺขคฺเคสุ จ ลมฺพึสุ	วิตตา โตรเณสุ จ  
+<span class="LineNumber"> 016 </span>		เอเต(๕) ทิสฺวาน ลมฺพนฺเต  ปุถู กนฺทึสุ นาริโย  
+<span class="LineNumber"> 017 </span>		นาเค โสณฺฑิกเต ทิสฺวา	ปสฺสสนฺเต มหุํ(๖) มหุํ(๖)  
+<span class="LineNumber"> 018 </span>		พาราณสี ปพฺยถิตา	อาตุรา สมปชฺชถ  
+<span class="LineNumber"> 019 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	ธีตรํ เทหิ ราชิโนติ ฯ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  อเนกวณฺณิโนติ  นีลาทิวเสน  อเนกวณฺณา  เอวรูปานิ  
+<span class="LineNumber"> 021 </span># ๑. ม. คพฺภินิตฺถีนํ ฯ ๒. ม. เอตฺถนฺตเร นนฺติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. เอตฺถนฺตเร อถ สพฺเพติ ทิสฺสติ ฯ  ๔. ม. น จ ฯ
+<span class="LineNumber"> 023 </span># ๕. ม. เตสุ ฯ สี. เต ฯ ๖. ม. มุหุํ มุหุํ ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  306
+
+<span class="LineNumber"> 002 </span>อหํ  ตว  พหูปกาโร  ราชานํ  อโนโลเกตฺวา  สจฺจเมว  กเถสึ 
+<span class="LineNumber"> 003 </span>เตนาหํ  ตยา  ลทฺโธ  ตฺวํ  มม  มหนฺตภาวํ  ชานาหิ  มยํ  ตีณิ 
+<span class="LineNumber"> 004 </span>ทิวสานิ  อตฺตโน  อคาเร  วเสมุ  ตสฺมา  ตฺวํ  เยนทฺธุนา 
+<span class="LineNumber"> 005 </span>ยตฺตเกน กาเลน มยํ ปุตฺตทาเร  อนุสาเสมุ ตํ กาลํ 
+<span class="LineNumber"> 006 </span>อธิวาเสหีติ ฯ  
+<span class="LineNumber"> 007 </span>	ตํ  สุตฺวา  ปุณฺณโก  สจฺจํ  ปณฺฑิโต  อาห  พหุปกาโร
+<span class="LineNumber"> 008 </span>เอส  มม  สตฺตาหํปิ  อฑฺฒมาสมฺปิ  นิสีทาเปหีติ  วุตฺเต  
+<span class="LineNumber"> 009 </span>อธิวาเสตพฺพเมวาติ  จินฺเตตฺวา คาถมาห  
+<span class="LineNumber"> 010 </span>	[๙๕๒]ตมฺเม(๑) ตถา โหตุ วเสมุ ตีหํ  
+<span class="LineNumber"> 011 </span>		กุรุตํ ภวํ อชฺช(๒) ฆเรสุ กิจฺจํ  
+<span class="LineNumber"> 012 </span>		อนุสาสตํ ปุตฺตทาเร ภวชฺช  
+<span class="LineNumber"> 013 </span>		ยถา ตยี เปจฺจ (๓) สุขี ภเวยฺยาติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  ตมฺเมติ  ยํ  ตฺวํ  วเทสิ  สพฺพนฺตํ  มม  ตถา 
+<span class="LineNumber"> 015 </span>โหตุ ฯ  ภวชฺชาติ  ภวํ  อชฺชโต(๔)  ปฏฺ€าย  ตีหํ  อนุสาสตุ ฯ  ตยี 
+<span class="LineNumber"> 016 </span>เปจฺจาติ  ยถา ตยิ คเต ปจฺฉา ตว ปุตฺตทาโร สุขี ภเวยฺย
+<span class="LineNumber"> 017 </span>เอวํ อนุสาสตุ ฯ  
+<span class="LineNumber"> 018 </span>	เอวํ  วตฺวา  ปุณฺณโก  มหาสตฺเตน  สทฺธึเยว  ตสฺส  นิเวสนํ  
+<span class="LineNumber"> 019 </span>ปาวิสิ ฯ  
+<span class="LineNumber"> 020 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 021 </span># ๑. ม. ตํ เม ฯ  ๒. ม. ภวชฺช ฯ  ๓. ม. คเตติปิ ปาโ€ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. อชฺช ฯ

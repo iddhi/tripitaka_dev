@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  วาสิชฏสุตฺตวณฺณนา หน้า ๕๑๕
+
+<span class="LineNumber"> 002 </span>อรหตฺตํ  ปาปุณาติ ฯ  ตโต  ปฏฺ€าย ยถา เต กุกฺกุฏโปตกา 
+<span class="LineNumber"> 003 </span>คามเขตฺตํ  อุปโสภยมานา  ตตฺถ  วิจรนฺติ  เอวํ อยมฺปิ มหา-
+<span class="LineNumber"> 004 </span>ขีณาสโว นิพฺพานารมฺมณํ ผลสมาปตฺตึ อปฺเปตฺวา สงฺฆารามํ 
+<span class="LineNumber"> 005 </span>อุปโสภยมาโน วิจรติ ฯ         
+<span class="LineNumber"> 006 </span>	ปลภณฺฑสฺสาติ(๑)  วฑฺฒกิสฺส ฯ  โส  หิ  โอลมฺพกสงฺขาตํ 
+<span class="LineNumber"> 007 </span>ผลํ(๒)  ธาเรตฺวา  ทารูนํ  คณฺฑํ  หรตีติ  ปลคณฺโฑติ(๓) วุจฺจติ ฯ
+<span class="LineNumber"> 008 </span>วาสิชเฏติ  วาสิทณฺฑกสฺส  คหณฏ€าเน ฯ เอตฺตกํ  วต  เม  
+<span class="LineNumber"> 009 </span>อชฺช  อาสวานํ  ขีณนฺติ  ปพฺพชิตสฺส  หิ  ปพฺพชฺชาสงฺเขเปน 
+<span class="LineNumber"> 010 </span>อุทฺเทเสน  ปริปุจฺฉาย  โยนิโส  มนสิกาเรน  วตฺตปฏิปตฺติยา  จ
+<span class="LineNumber"> 011 </span>นิจฺจกาลํ  อาสวา ขียนฺติ ฯ  เอวํ  (๔)  ขียมานานํ  ปน  เตสํ  เอตฺตกํ 
+<span class="LineNumber"> 012 </span>อชฺช ขีณํ เอตฺตกํ หิยฺโยติ เอตฺตกํ ปเรติ(๕) เอวมสฺส  าณํ 
+<span class="LineNumber"> 013 </span>น  โหตีติ  อตฺโถ ฯ  อิมาย  อุปมาย  วิปสฺสนายานิสํโส  ทีปิโต ฯ  
+<span class="LineNumber"> 014 </span>เหมนฺติเกนาติ เหมนฺตสมเยน ฯ ปฏิปสฺสมฺภนฺตีติ ชราภาเวน(๖) 
+<span class="LineNumber"> 015 </span>ปริหายนฺติ ฯ    
+<span class="LineNumber"> 016 </span>	เอวเมว  โขติ  เอตฺถ  มหาสมุทโท  วิย  สาสนํ  ทฏฺ€พฺพํ  
+<span class="LineNumber"> 017 </span>นาวา  วิย  โยคาวจโร  นาวาย  มหาสมุทฺเท  ปริยาทานํ  วิย  
+<span class="LineNumber"> 018 </span>อิมสฺส ภิกฺขุโน อูนปฺจวสฺสกาเล  อาจริยุปชฺฌายานํ  สนฺติเก 
+<span class="LineNumber"> 019 </span>วิจรณํ  นาวาย  มหาสมุทฺโททเกน  ขชฺชมานานํ  พนฺธนานํ 
+<span class="LineNumber"> 020 </span># ๑. ม. ปลคณฺตาสฺสาติ ฯ  ๒. ม. ปลํ ฯ  ๓. ม. ปลภณฺโฑติ ฯ
+<span class="LineNumber"> 021 </span># ๔. สี. เอตฺถ ฯ  ๕. ม. เอตฺตกํ ปเรติ ปาโ€ นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๖. ม. ถิรภาเวน ฯ

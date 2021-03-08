@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>๕๒-๓.  ปรามาสสัมปยุตตทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>ปรามาสสมฺปยุตฺตา  ธมฺมา</B>              ธรรมสัมปยุตด้วยปรามาสะ
+<span class="LineNumber"> 003 </span><B>ปรามาสวิปฺปยุตฺตา  ธมฺมา</B>              ธรรมวิปปยุตจากปรามาสะ
+ 
+<span class="LineNumber"> 004 </span>                    <H2>๕๓-๔.  ปรามาสปรามัฏฐทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>ปรามาสา เจว ธมฺมา</B>                        ธรรมเป็นปรามาสะ และเป็นอารมณ์
+<span class="LineNumber"> 006 </span><B>ปรามฏฺ€า  จ</B>                                    ของปรามาสะ
+<span class="LineNumber"> 007 </span><B>ปรามฏฺ€า เจว ธมฺมา</B>                        ธรรมเป็นอารมณ์ของปรามาสะ  แต่
+<span class="LineNumber"> 008 </span><B>โน จ ปรามาสา</B>                                ไม่เป็นปรามาสะ
+
+<span class="LineNumber"> 009 </span>             <H2>๕๔-๕.  ปรามาสวิปปยุตตปรามัฏฐทุกะ</H2>
+
+<span class="LineNumber"> 010 </span><B>ปรามาสวิปฺปยุตฺตา โข ปร ธมฺมา</B>      ธรรมวิปปยุสตจากปรามาสะ แต่เป็น
+<span class="LineNumber"> 011 </span><B>ปรามฏฺ€าปิ</B>                                      อารมณ์ของปรามาสะ
+<span class="LineNumber"> 012 </span><B>ปรามาสวิปฺปยุตฺตา โข ปน</B>               ธรรมวิปปยุตจากปรามาสะ และไม่เป็น
+<span class="LineNumber"> 013 </span><B>ธมฺมา อปราฏฺ€ปิ</B>                              อารมณ์ของปรามาสะ
+
+<span class="LineNumber"> 014 </span>                                  <H1>มหันตรทุกะ</H1>
+
+<span class="LineNumber"> 015 </span>             [๑๑] <H1>หมวดที่  ๑๐ มี ๑๔ ทุกะ</H1> <B>คือ</B>
+
+<span class="LineNumber"> 016 </span>                            <H2>๕๕-๑.  สารัมมณทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>สารมฺมณา ธมฺมา</B>                             ธรรมมีอารมณ์
+<span class="LineNumber"> 018 </span><B>อนารมฺมณา ธมฺมา</B>                           ธรรมไม่มีอารมณ์

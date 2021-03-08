@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๓๐๗]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ 
+
+<span class="LineNumber"> 003 </span>                                   <H2>จิตตสังสัฏฐบท</H2>
+<span class="LineNumber"> 004 </span>           [๑๓๐๘] ๑.  <B>จิตตสังสัฏฐธรรม ที่เป็นนเหตุธรรม อาศัยธรรม
+<span class="LineNumber"> 005 </span>ที่ไม่ใช่จิตตวิสังสัฏฐธรรม  ที่ไม่ใช่เหตุธรรม   เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 006 </span>ปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๑๓๐๙]  ในเหตุปัจจัย มี  ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>          <I>นเหตุทุกโนจิตตสังสัฏฐทุกเหตุทุกจิตตสังสัฏฐทุกะ  จบ</I>

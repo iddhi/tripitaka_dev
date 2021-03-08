@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 40    หน้า  18
+
+<span class="LineNumber"> 002 </span>			มหาวคฺควณฺณนา  
+<span class="LineNumber"> 003 </span>			าณกถา มาติกาวณฺณนา  
+<span class="LineNumber"> 004 </span>	ตตฺถ  อุทฺเทเส  ตาว  โสตาวธาเน  ปฺา  สุตมเย
+<span class="LineNumber"> 005 </span>าณนฺติ  เอตฺถ  หิ โสตสทฺโท อเนกตฺถปฺปเภโท ฯ ตถาเหส  
+<span class="LineNumber"> 006 </span>		มํสวิฺาณาเณสุ	ตณฺหาทีสุ จ ทิสฺสติ  
+<span class="LineNumber"> 007 </span>		ธารายํ อริยมคฺเค		จิตฺตสนฺตติยมฺปิ จ ฯ  
+<span class="LineNumber"> 008 </span>	โสตายตนํ  โสตธาตุ  โสตินฺทฺริยนฺติอาทีสุ  (๑)  หิ  อยํ 
+<span class="LineNumber"> 009 </span>โสตสทฺโท มํสโสเต  ทิสฺสติ ฯ  โสเตน  สทฺทํ สุตฺวาติอาทีสุ (๒)
+<span class="LineNumber"> 010 </span>โสตวิฺาเณ ฯ ทิพฺพาย โสตธาตุยาติอาทีสุ  (๓)  าณโสเต ฯ  ยานิ 
+<span class="LineNumber"> 011 </span>โสตานิ  โลกสฺมินฺติ  ยานิ  เอตานิ  โสตานิ  มยา  กิตฺติตานิ 
+<span class="LineNumber"> 012 </span>ปกิตฺติตานิ  อาจิกฺขิตานิ  เทสิตานิ  ปฺปิตานิ  ปฏฺ€ปิตานิ  
+<span class="LineNumber"> 013 </span>วิวริตานิ  วิภตฺตานิ  อุตฺตานีกตานิ  ปกาสิตานิ ฯ  เสยฺยถิทํ  
+<span class="LineNumber"> 014 </span>ตณฺหาโสโต  ทิฏฺ€ิโสโต  กิเลสโสโต  ทุจฺจริตโสโต  อวิชฺชา-
+<span class="LineNumber"> 015 </span>โสโตติอาทีสุ  (๔) ตณฺหาทีสุ ปฺจสุ  ธมฺเมสุ ฯ  อทฺทสา โข ภควา
+<span class="LineNumber"> 016 </span>มหนฺตํ ทารุกฺขนฺธํ คงฺคาย นทิยา โสเตน วุยฺหมานนฺติอาทีสุ  (๕) 
+<span class="LineNumber"> 017 </span>อุทกธารายํ ฯ  อริยสฺเสตํ  อาวุโส  อฏฺ€งฺคิกสฺส  มคฺคสฺส  อธิวจนํ  
+<span class="LineNumber"> 018 </span># ๑. อภิ. วิ. ๓๕/๑๐๐/๘๖ ฯ  ๒. ม. มู. ๑๒/๓๓๓/๓๔๔ ฯ
+<span class="LineNumber"> 019 </span># ๓. ที. ปา. ๑๑/๔๓๑/๓๐๘ ฯ  ๔. ขุ. จูฬ. ๓๐/๗๖/๑๗ ฯ 
+<span class="LineNumber"> 020 </span># ๕. สํ. สฬา. ๑๘/๓๒๕/๒๒๖ ฯ

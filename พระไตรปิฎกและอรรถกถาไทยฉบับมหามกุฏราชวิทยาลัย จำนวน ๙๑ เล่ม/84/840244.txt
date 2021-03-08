@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   ฆานินทรีย์   กำลังเกิดในภูมิใด,     จักขุนทรีย์ก็กำลัง
+<span class="LineNumber"> 002 </span>เกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>                        <I>จบ  จักขุนทริยมูละ  ฆานินทริยมูลี</I>
+
+<span class="LineNumber"> 005 </span><B>จักขุนทริยมูละ  อิตถินทริย   ฯลฯ  ปุริสินทริยมูลี:-</B>
+<span class="LineNumber"> 006 </span>         [๕๓๖]   จักขุนทรีย์   กำลังเกิดในภูมิใด,    อิตถินทรีย์  ฯลฯ
+<span class="LineNumber"> 007 </span>ปุริสินทรีย์ก็กำลังเกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ในรูปาวจรภูมิ   จักขุนทรีย์กำลังเกิดในภูมินั้น   แต่ปุริสินทรีย์ไม่
+<span class="LineNumber"> 009 </span>ใช่กำลังเกิดในภูมินั้น     ในกามาวจรภูมิ    จักขุนทรีย์กำลังเกิด    และ
+<span class="LineNumber"> 010 </span>ปุริสินทรีย์ก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า   ปุริสินทรีย์   กำลังเกิดในภูมิใด,    จักขุนทรีย์ก็กำลัง
+<span class="LineNumber"> 012 </span>เกิดในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>       <I>จบ  จักขุนทริยมูละ  อิตถินทริย ฯลฯ  ปุริสินทริยมูลี</I>
+
+<span class="LineNumber"> 015 </span><B>จักขุนทริยมูละ  ชีวิตินทริยมูลี:-</B>
+<span class="LineNumber"> 016 </span>         [๔๓๗]  จักขุนทรีย์ กำลังเกิดในภูมิใด,  ชีวิตินทรีย์ก็กำลัง
+<span class="LineNumber"> 017 </span>เกิดในภูมินั้น  ใช่ไหม   ?

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>พระอภิธรรมปิฎก</H1> 
+<span class="LineNumber"> 002 </span>                                      <H1>เล่มที่  ๗</H1><SUP>๑</SUP>
+<span class="LineNumber"> 003 </span>                               <H1>ปัฏฐาน   ภาคที่  ๑</H1>
+<span class="LineNumber"> 004 </span><H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4> 
+<span class="LineNumber"> 005 </span>                             <H1>มาติกานิกเขป</H1><SUP>๒</SUP><H1>วาระ</H1>
+<span class="LineNumber"> 006 </span><H1>[๑]    ปัจจัย  ๒๔</H1>
+<span class="LineNumber"> 007 </span>           <B>๑.  เหตุปัจจัย
+<span class="LineNumber"> 008 </span>           ๒.  อารัมมณปัจจัย
+<span class="LineNumber"> 009 </span>           ๓.  อธิปติปัจจัย
+<span class="LineNumber"> 010 </span>           ๔.  อนันตรปัจจัย
+<span class="LineNumber"> 011 </span>           ๕.  สมนันตรปัจจัย
+<span class="LineNumber"> 012 </span>           ๖.  สหชาตปัจจัย
+<span class="LineNumber"> 013 </span>           ๗.  อัญญมัญญปัจจัย
+<span class="LineNumber"> 014 </span>           ๘.  นิสสยปัจจัย 
+<span class="LineNumber"> 015 </span>           ๙.  อุปนิสสยปัจจัย</B>
+<span class='footnote'>๑.  บาลีเล่มที่ ๔๐.    ๒.  เรียกว่าปัจจยอุทเทสก็ได้.</span>

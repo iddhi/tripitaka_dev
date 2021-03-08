@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 40    หน้า  487
+
+<span class="LineNumber"> 002 </span>		ธมฺมนานตฺตาณนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 003 </span>	ธมฺมนานตฺตาณนิทฺเทเส  กมฺมปเถติ  กมฺมานิ  จ  ตานิ 
+<span class="LineNumber"> 004 </span>ปถา  จ  อปายคมนายาติ  กมฺมปถา  เต  กมฺมปเถ ฯ  
+<span class="LineNumber"> 005 </span>	ทส  กุสลกมฺมปถา  นาม  ปาณาติปาตา  อทินฺนาทานา  
+<span class="LineNumber"> 006 </span>กาเมสุมิจฺฉาจารา  เวรมณีติ  ตีณิ  กายสุจริตานิ  มุสาวาทา 
+<span class="LineNumber"> 007 </span>ปิสุณาย  วาจาย  ผรุสาย  วาจาย  สมฺผปฺผลาปา  เวรมณีติ  
+<span class="LineNumber"> 008 </span>จตฺตาริ  วจีสุจริตานิ  อนภิชฺฌา  อพฺยาปาโท  สมฺมาทิฏฺ€ีติ  ตีณิ 
+<span class="LineNumber"> 009 </span>มโนสุจริตานิ ฯ
+<span class="LineNumber"> 010 </span>	ทส  อกุสลกมฺมปถา  นาม  ปาณาติปาโต  อทินฺนาทานํ  
+<span class="LineNumber"> 011 </span>กาเมสุมิจฺฉาจาโรติ  ตีณิ  กายทุจฺจริตานิ  มุสาวาโท  ปิสุณา
+<span class="LineNumber"> 012 </span>วาจา  ผรุสา  วาจา สมฺผปฺผลาโปติ จตฺตาริ วจีทุจฺจริตานิ 
+<span class="LineNumber"> 013 </span>อภิชฺฌา พฺยาปาโท มิจฺฉาทิฏฺ€ีติ ตีณิ มโนทุจฺจริตานิ ฯ
+<span class="LineNumber"> 014 </span>กุสลากุสลาปิ  จ  ปฏิสนฺธิชนกาเยว  กมฺมปถาติ  วุตฺตา 
+<span class="LineNumber"> 015 </span>วุตฺตาวเสสา ปฏิสนฺธิชนเน อเนกนฺติกตฺตา  กมฺมปถาติ  น
+<span class="LineNumber"> 016 </span>วุตฺตา ฯ  โอฬาริกกุสลากุสลคฺคหเณเนว  เสสกุสลากุสลาปิ 
+<span class="LineNumber"> 017 </span>คหิตาติ  เวทิตพฺพา ฯ 
+<span class="LineNumber"> 018 </span>	รูปนฺติ  ภูโตปาทายเภทโต  อฏฺ€วีสติวิธํ  รูปํ ฯ 
+<span class="LineNumber"> 019 </span>	วิปากนฺติ  กามาวจรกุสลวิปากานํ  โสฬสนฺนํ  อกุสล-
+<span class="LineNumber"> 020 </span>วิปากานํ  สตฺตนฺนฺจ  วเสน  เตวีสติวิธํ  วิปากํ ฯ  
+<span class="LineNumber"> 021 </span>	กิริยนฺติ (๑) ติณฺณํ  ปริตฺตกิริยานํ  อฏฺ€นฺนํ  มหากิริยานฺจ(๑)  
+<span class="LineNumber"> 022 </span># ๑. ม. ติณฺณมเหตุกกิริยานํ อฏฺ€นฺนํ สเหตุกกิริยานฺจ ฯ 

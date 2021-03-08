@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           คือ   โมหะ   ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ   อาศัย 
+<span class="LineNumber"> 002 </span>ขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  และ   หทยวัตถุ.
+<span class="LineNumber"> 003 </span>                     ๙.  <B>สเหตุกธรรม และอเหตุกธรรม อาศัยสเหตุกธรรม
+<span class="LineNumber"> 004 </span>และ  อเหตุกธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ   ขันธ์ ๓ และ  โมหะ  อาศัย  ขันธ์ ๑ ที่สหรคตด้วยวิจิกิจฉา ที่
+<span class="LineNumber"> 006 </span>สหรคตด้วยอุทธัจจะ  และ  โมหะ ฯลฯ  ขันธ์ ๒ อาศัย  ขันธ์ ๒.
+
+<span class="LineNumber"> 007 </span>                                       <H1>๓.  อธิปติปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๖๑] ๑.  <B>สเหตุกธรรม  อาศัย  สเหตุกธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 009 </span>อธิปติปัจจัย</B>
+<span class="LineNumber"> 010 </span>           ในอธิปติปัจจัย  พึงกระทำ เป็น ๙ วาระ  เฉพาะในปวัตติกาลเท่านั้น.
+<span class="LineNumber"> 011 </span>                           <H1>๔.  อนันตรปัจจัย   ๕.  สมนันตรปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           [๖๒] ๑.  <B>สเหตุกธรรม  อาศัย  สเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 013 </span>อนันตรปัจจัย</B>
+<span class="LineNumber"> 014 </span>           <B>ฯลฯ เพราะสมนันตรปัจจัย</B>
+
+<span class="LineNumber"> 015 </span>                                        <H1>๖.  สหชาตปัจจัย</H1>
+<span class="LineNumber"> 016 </span>           [๖๓] ๑.  <B>สเหตุกธรรม  อาศัย  สเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 017 </span>สหชาตปัจจัย</B>

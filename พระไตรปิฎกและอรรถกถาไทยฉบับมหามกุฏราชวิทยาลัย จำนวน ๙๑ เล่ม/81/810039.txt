@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>         [๑๑๒๔]  ป. ไม่พึงกล่าวว่า อินทรีย์ ๕ เป็นสนิทัสสนะ หรือ ? 
+<span class="LineNumber"> 002 </span>                        ส.  ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                        ป. ท่านเห็นจักษุ  โสตะ ฆานะ ชิวหา กาย มิใช่หรือ ?
+<span class="LineNumber"> 004 </span>                        ส.  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ป. หากว่า ท่านเห็นจักษุ โสตะ ฆานะ ชิวหา กาย  ด้วย
+<span class="LineNumber"> 006 </span>เหตุนั้นนะท่านจึงต้องกล่าวว่า อินทรีย์  ๕ เป็นสนิทัสสนะ ฯลฯ
+<span class="LineNumber"> 007 </span>                        <I>จักขุนทริยสนิทัสสนันติอาทิกถา  จบ</I>

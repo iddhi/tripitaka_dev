@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>สำคัญว่าน้ำปานะเป็นอกัปปิยะ   แล้วดื่มน้ำนั้น    หรือเวลาเช้าก่อนเที่ยง 
+<span class="LineNumber"> 002 </span>สำคัญว่าบ่ายแล้ว   และฉันของเคี้ยวของฉันที่เป็นอาหารเป็นต้น.
+<span class="LineNumber"> 003 </span>          ๖.   ต้องด้วยลืมสติ   เช่นนอนในที่มุงที่บังอันเดียวกันกับอนุป-
+<span class="LineNumber"> 004 </span>สัมบันครบ ๓ ราตรีแล้ว   ครั้นคืนที่  ๔  ลืมไป   นอนต่อไปอีก   หรือ
+<span class="LineNumber"> 005 </span>ลืม   อยู่ปราศจากไตรจีวรตลอดคืน   หรือเก็บเภสัช  ๕  ที่รับประเคนแล้ว
+<span class="LineNumber"> 006 </span>ให้เกิน   ๗  วันไป   หรือไม่วิกัปอธิษฐานอติเรกจีวรให้เกิน  ๑๐  วันเป็นต้น.
+<span class="LineNumber"> 007 </span>                          สมุฏฐาน  คือ  ที่เกิดแห่งอาบัติ 
+<span class="LineNumber"> 008 </span>            ที่เกิดแห่งอาบัติ    ในสิกขาบททั้งปวงมี  ๖  คือ :-
+<span class="LineNumber"> 009 </span>            ๑.   เกิดด้วยกาย.
+<span class="LineNumber"> 010 </span>            ๒.   เกิดด้วยวาจา.
+<span class="LineNumber"> 011 </span>            ๓.   เกิดด้วยกายวาจา.
+<span class="LineNumber"> 012 </span>            ๔.   เกิดด้วยกายจิต.
+<span class="LineNumber"> 013 </span>            ๕.   เกิดด้วยวาจาจิต.
+<span class="LineNumber"> 014 </span>            ๖.   เกิดด้วยกายวาจาจิต.
+<span class="LineNumber"> 015 </span>            กายอย่างเดียวหรือวาจาอย่างเดียว    เป็นสมุฏฐานอันหนึ่ง   ชื่อว่า
+<span class="LineNumber"> 016 </span>เอกงฺคิก   คือสมุฏฐานอันเดียว.
+<span class="LineNumber"> 017 </span>            กายกับวาจาหรือกายกับจิต   เป็นสมุฏฐานอันหนึ่ง   ชื่อว่า   ทฺวงฺคิก
+<span class="LineNumber"> 018 </span>คือสมุฏฐานมีองค์   ๒.
+<span class="LineNumber"> 019 </span>            ทั้งกายทั้งวาจาทั้งจิต    เป็นสมุฏฐานอันหนึ่ง   ชื่อว่า   ติวงฺคิก
+<span class="LineNumber"> 020 </span>คือสมุฏฐานมีองค์  ๓.
+

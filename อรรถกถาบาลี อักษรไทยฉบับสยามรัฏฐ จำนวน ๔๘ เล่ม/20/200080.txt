@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  หน้า  80
+		
+<span class="LineNumber"> 002 </span>		สพฺพปริฺาสุตฺตวณฺณนา
+<span class="LineNumber"> 003 </span>	สตฺตเม  สพฺพนฺติ  อนวเสสํ ฯ  อนวเสสวาจโก  หิ  อยํ 
+<span class="LineNumber"> 004 </span>สพฺพสทฺโท โส  เยน  เยน  สพฺพตฺถํ(๑)  คจฺฉติ  ตสฺส  ตสฺส 
+<span class="LineNumber"> 005 </span>อนวเสสตํ  ทีเปติ  ยถา  สพฺพํ รูปํ  สพฺพา  เวทนา  สพฺพสกฺกาย-
+<span class="LineNumber"> 006 </span>ปริยาปนฺเนสุ  ธมฺเมสูติ ฯ  โส  ปนายํ สพฺพสทฺโท  สปฺปเทส-
+<span class="LineNumber"> 007 </span>นิปฺปเทสวิสยตาย  ทุวิโธ ฯ  ตถา  เหส  สพฺพสพฺพํ  ปเทสสพฺพํ
+<span class="LineNumber"> 008 </span>อายตนสพฺพํ  สกฺกายสพฺพนฺติ  จตูสุ  วิสเยสุ  ทิฏฺ€ปฺปโยโค ฯ 
+<span class="LineNumber"> 009 </span>ตตฺถ  สพฺเพ ธมฺมา  สพฺพากาเรน  พุทฺธสฺส  ภควโต  าณมุเข  
+<span class="LineNumber"> 010 </span>อาปาถมาคจฺฉนฺตี(๒)อาทีสุ  สพฺพสพฺพสฺมึ  อาคโต ฯ  สพฺเพสํ  โว 
+<span class="LineNumber"> 011 </span>สาริปุตฺตา  สุภาสิตํ ปริยาเยนาติ(๓)อาทีสุ  ปเทสสพฺพสฺมึ ฯ  สพฺพํ 
+<span class="LineNumber"> 012 </span>โว  ภิกฺขเว  เทเสสฺสามิ  จกฺขุฺเจว  รูปฺจ  ฯเปฯ มนฺเจว  
+<span class="LineNumber"> 013 </span>ธมฺเม  จาติ  เอตฺถ(๔)  อายตนสพฺพสฺมึ ฯ  สพฺพธมฺมมูลปริยายํ  โว
+<span class="LineNumber"> 014 </span>ภิกฺขเว  เทเสสฺสามีติ(๕)อาทีสุ  สกฺกายสพฺพสฺมึ ฯ  ตตฺถ  สพฺพ-
+<span class="LineNumber"> 015 </span>สพฺพสฺมึ  อาคโต นิปฺปเทสวิสโย  อิตเรสุ  ตีสุปิ  อาคโต  
+<span class="LineNumber"> 016 </span>สปฺปเทสวิสโย ฯ  อิธ  ปน  สกฺกายสพฺพสฺมึ  เวทิตพฺโพ ฯ 
+<span class="LineNumber"> 017 </span>วิปสฺสนาย  อารมฺมณภูตา  เตภูมกธมฺมา  หิ  อิธ  สพฺพนฺติ 
+<span class="LineNumber"> 018 </span>อนวเสสโต  คหิตา ฯ
+<span class="LineNumber"> 019 </span>	อนภิชานนฺติ  อิเม  ธมฺมา  กุสลา  อิเม  อกุสลา  อิเม 
+<span class="LineNumber"> 020 </span># ๑. ม.  สมฺพนฺธํ ฯ  ๒. ขุ. ปฏิ. ๓๑/๖๖๙/๕๗๔ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. มู. ๑๒/๓๘๒/๔๐๙ ฯ  ๔. สํ. สฬา. ๑๘/๒๔/๑๙ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. มู. ๑๒/๑/๑ ฯ

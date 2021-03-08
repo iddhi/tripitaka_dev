@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>๓.  จตุโปสถิกชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                                 <H1>ว่าด้วยสมณะ</H1>
+
+<span class="LineNumber"> 003 </span>         <B>[๑๓๔๒]   ผู้ใดไม่ทำความโกรธในบุคคลผู้ควรโกรธ 
+<span class="LineNumber"> 004 </span>           ผู้นั้นเป็นสัตบุรุษ     ย่อมไม่โกรธในกาลไหน  ๆ 
+<span class="LineNumber"> 005 </span>           บุคคลนั้นแม้จะโกรธ       ก็ไม่ทำความโกรธให้
+<span class="LineNumber"> 006 </span>           ปรากฏ  นักปราชญ์ทั้งหลายกล่าวบุคคลนั้นแล
+<span class="LineNumber"> 007 </span>           ว่าเป็นสมณะในโลก. 
+<span class="LineNumber"> 008 </span>         [๑๓๔๓]   นรชนใดมีท้องพร่อง   ย่อมทนความหิว
+<span class="LineNumber"> 009 </span>           ได้  นรชนนั้นเป็นผู้ฝึกตนแล้ว   มีตบะ   มีข้าว
+<span class="LineNumber"> 010 </span>           และน้ำพอประมาณ ย่อมไม่บาปเพราะเหตุแห่ง
+<span class="LineNumber"> 011 </span>           อาหาร   นักปราชญ์ทั้งหลายกล่าวนรชนนั้นแล
+<span class="LineNumber"> 012 </span>           ว่าเป็นสมณะในโลก.
+<span class="LineNumber"> 013 </span>         [๑๓๔๔ ]   บุคคลละการเล่นและความยินดีทั้งปวง
+<span class="LineNumber"> 014 </span>           ได้เด็ดขาด   ไม่กล่าวคำเหลาะแหละนิดหน่อย
+<span class="LineNumber"> 015 </span>           ในโลก   เว้นจากการแต่งเนื้อแต่งตัว   และเว้น
+<span class="LineNumber"> 016 </span>           จากเมถุนธรรม        นักปราชญ์ทั้งหลายกล่าว
+<span class="LineNumber"> 017 </span>           บุคคลนั่นแล  ว่าเป็นสมณะในโลก.</B>

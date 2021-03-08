@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H1>๗.  วันทนสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>                 <H1>ท้าวสักกะและท้าวสหัมบดีพรหมกล่าวคำสุภาษิต</H1> 
+
+<span class="LineNumber"> 003 </span>           [๙๒๕]  สมัยหนึ่ง  พระผู้มีพระภาคเจ้าประทับ อยู่ ณ พระวิหารเชตวัน
+<span class="LineNumber"> 004 </span>อารามของอนาถบิณฑิกเศรษฐี  กรุงสาวัตถี.
+<span class="LineNumber"> 005 </span>           ก็โดยสมสัยนั้นแล  พระผู้มีพระภาคเจ้าทรงหลีกเร้นอยู่ในมราพักกลางวัน.
+<span class="LineNumber"> 006 </span>           ครั้งนั้นแล    ท้าวสักกะจอมเทพ    และท้าวสหัมบดีพรหมเสด็จเข้าไป
+<span class="LineNumber"> 007 </span>เฝ้าพระผู้มีพระภาคเจ้า  ครั้นแล้ว ได้ประทับยืนพิงบานพระทวารอยู่องค์ละบาน.
+<span class="LineNumber"> 008 </span>           [๙๒๖]  ลำดับนั้นแล    ท้าวสักกะจอมเทพได้ตรัสพระคาถานี้      ใน
+<span class="LineNumber"> 009 </span>สำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 010 </span>                             <B>ข้าแต่พระองค์ผู้แกล่วกล้า ทรงชนะ
+<span class="LineNumber"> 011 </span>                   สงครามแล้ว   ทรงปลงภาระลงแล้ว    ไม่
+<span class="LineNumber"> 012 </span>                   ทรงมีหนี้    ขอเชิญพระองค์เสด็จลุกขึ้น
+<span class="LineNumber"> 013 </span>                   เที่ยวไปในโลกเถิด  อนึ่ง  จิตของพระองค์
+<span class="LineNumber"> 014 </span>                   หลุดพ้นดีแล้ว   เหมือนพระจันทร์ในราตรี 
+<span class="LineNumber"> 015 </span>                   วันเพ็ญ  ฉะนั้น.</B>
+<span class="LineNumber"> 016 </span>           [๙๒๗]  ท้าวสหัมบดีพรหมตรัสค้านว่า  ดูก่อนจอมเทพ  พระองค์ไม่
+<span class="LineNumber"> 017 </span>ควรกราบทูลพระตถาคตอย่างนี้เลย   แต่ควรจะกราบทูลพระตถาคตอย่างนี้แลว่า
+<span class="LineNumber"> 018 </span>                             <B>ข้าแต่พระองค์ผู้แกล้วกล้า  ทรงชนะ
+<span class="LineNumber"> 019 </span>                   สงครามแล้ว   ทรงเป็นผู้นำพวก  ไม่ทรง
+<span class="LineNumber"> 020 </span>                   มีหนี้สิน  ขอเชิญพระองค์เสด็จลุกขึ้น
+<span class="LineNumber"> 021 </span>                   เที่ยวไปในโลก  ขอเชิยพระผู้มีพระภาคเจ้า
+<span class="LineNumber"> 022 </span>                   ทรงแสดงธรรม     จักมีผู้รู้ทั่วถึงพระธรรมเป็น
+<span class="LineNumber"> 023 </span>                   แน่.</B> 

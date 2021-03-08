@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  วกฺกลิตฺเถรคาถาวณฺณนา  หน้า  101  
+
+<span class="LineNumber"> 002 </span>	€ิโต  ปพฺพตปาทมฺหิ  		อสฺสาสยิ  (๑)  มหามุนิ  
+<span class="LineNumber"> 003 </span>	วกฺกลีติ  ชิโน  วาจํ  (๒)  	ตํ  สุตฺวา  มุทิโต  อหํ ฯ  
+<span class="LineNumber"> 004 </span>	ปกฺขนฺทึ  เสลปพฺภาเร  		อเนกสตโปริเส  
+<span class="LineNumber"> 005 </span>	ตทา  พุทฺธานุภาเวน  		สุเขเนว  มหึ  คโต ฯ  
+<span class="LineNumber"> 006 </span>	ปุโนปิ  (๓)  ธมฺมํ  เทเสติ  	ขนฺธานํ  อุทยพฺพยํ ฯ  
+<span class="LineNumber"> 007 </span>	ตมหํ  ธมฺมมฺาย  		อรหตฺตมปาปุณึ ฯ  		
+<span class="LineNumber"> 008 </span>	สุมหาปริสมชฺเฌ  		ตทา  มํ  จรณนฺตโค  (๔)  
+<span class="LineNumber"> 009 </span>	อคฺคํ  สทฺธาธิมุตฺตานํ  		ปฺเปสิ  (๕)  มหามติ ฯ  
+<span class="LineNumber"> 010 </span>	สตสหสฺสิโต  กปฺเป  		ยํ  กมฺมมกรึ  ตทา  
+<span class="LineNumber"> 011 </span>	ทุคฺคตึ  นาภิชานามิ  		พุทฺธปูชายิทํ  ผลํ ฯ  
+<span class="LineNumber"> 012 </span>	กิเลสา  ฌาปิตา  มยฺห ํ ฯ เป ฯ  กตํ  พุทฺธสฺส  สาสนนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	อรหตฺตํ  ปน  ปตฺวา  อฺํ  พฺยากโรนฺโตปิ  เถโร  อิมา  
+<span class="LineNumber"> 014 </span>เอว  คาถา  อภาสิ  ฯ  อถ  นํ  สตฺถา  ภิกฺขุสํฆมชฺเฌ  นิสินฺโน  
+<span class="LineNumber"> 015 </span>สทฺธาธิมุตฺตานํ  อคฺคฏฺ€าเน  €เปสีติ ฯ  
+<span class="LineNumber"> 016 </span>		วกฺกลิตฺเถรคาถาวณฺณนา  นิฏฺ€ิตา  ฯ  
+<span class="LineNumber"> 017 </span>#๑.  สฺยา. อสฺสาสยํ ฯ  ยุ. มมาหส ฯ  ๒.  สฺยา. ชินาโวจ ฯ  ยุ. ชิโนวาจํ ฯ  
+<span class="LineNumber"> 018 </span>#๓.  สฺยา. ปุนาปิ  ฯ  ๔.  สฺยา. จรณนฺตโก  ฯ  ยุ. มรณนฺตโค  ฯ
+<span class="LineNumber"> 019 </span>#๕.  สฺยา. ปฺาเปติ  ฯ  

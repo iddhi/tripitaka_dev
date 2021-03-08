@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>๖. วิตักกติกะ</H2>
+
+<span class="LineNumber"> 002 </span><B>สวิกตกฺกสวิจารา  ธมฺมา</B>                      ธรรมมีวิตกมีวิจาร 
+<span class="LineNumber"> 003 </span><B>อวิตกฺวิจารมตฺตา  ธมฺมา</B>                      ธรรมไม่มีวิตกแต่มีวิจาร
+<span class="LineNumber"> 004 </span><B>อวิตกฺกาวิจารา  ธมฺมา</B>                         ธรรมไม่มีวิตกไม่มีวิจาร
+
+<span class="LineNumber"> 005 </span>                                 <H2>๗. ปีติติกะ</H2>
+
+<span class="LineNumber"> 006 </span><B>ปีติสหคตา  ธมฺมา</B>                              ธรรมสหรคตด้วยปีติ
+<span class="LineNumber"> 007 </span><B>สุขสหคตา  ธมฺมา</B>                              ธรรมสหรคตด้วยสุขเวทนา
+<span class="LineNumber"> 008 </span><B>อุเปกฺขาสหคตา  ธมฺมา</B>                       ธรรมสหรคตด้วยอุเบกขาเวทนา
+
+<span class="LineNumber"> 009 </span>                                 <H2>๘.  ทัสสนติกะ</H2>
+
+<span class="LineNumber"> 010 </span><B>ทสฺสเนน  ปหาตพฺพา ธมฺมา</B>            ธรรมอันโสดาปัตติมรรคประหาณ
+<span class="LineNumber"> 011 </span><B>ภาวนาย  ปหาตพฺพา  ธมฺมา</B>            ธรรมอันมรรคเบื้องสูง  ๓ ประหาณ
+<span class="LineNumber"> 012 </span><B>เนว    ทสฺสเนน  น  ภาวนาย</B>            ธรรมอันโสดาปัตติมรรคและมรรค
+<span class="LineNumber"> 013 </span><B>ปหาตพฺพา  ธมฺมา</B>                            เบื้องสูง  ๓ ไม่ประหาณ
+
+<span class="LineNumber"> 014 </span>                                 <H2>๙.  ทัสสนเหตุกติกะ</H2>
+
+<span class="LineNumber"> 015 </span><B>ทสฺสเนน  ปหาตพฺพเหตุกา ธมฺมา</B>    ธรรมมีสัมปยุตตเหตุอันโสดาปัตติมรรค
+<span class="LineNumber"> 016 </span>                                                        ประหาณ
+<span class="LineNumber"> 017 </span><B>ภาวนาย  ปหาตพฺพเหตุกา ธมฺมา</B>    ธรรมมีสัมปยุตตเหตุอันมรรคเบื้องสูง
+<span class="LineNumber"> 018 </span>                                                        ๓ ประหาณ
+<span class="LineNumber"> 019 </span><B>เนว   ทสฺสเนน  น   ภาวนาย</B>           ธรรมมีสัมปยุตตเหตุอันโสดา-
+<span class="LineNumber"> 020 </span><B>ปหาตพฺพเหตุกา  ธมฺมา</B>                  ปัตติมรรคและมรรคเบื้องสูง ๓  ไม่ประหาณ

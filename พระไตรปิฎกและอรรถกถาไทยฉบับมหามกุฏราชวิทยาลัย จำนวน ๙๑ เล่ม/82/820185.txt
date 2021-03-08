@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลที่เกิดอยู่ในอสัญญสัตตภูมิ      เวทนาขันธ์ไม่ใช่เคยดับแก่
+<span class="LineNumber"> 002 </span>บุคคลเหล่านั้นในภูมินั้น แต่รูปขันธ์เคยดับแก่บุคคลเหล่านั้นในภูมินั้น, 
+<span class="LineNumber"> 003 </span>บุคคลที่เกิดอยู่ในสุทธาวาสภูมิ   เวทนาขันธ์ไม่ใช่เคยดับ และรูปขันธ์
+<span class="LineNumber"> 004 </span>ไม่ใช่เคยดับแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 005 </span>                            <I>จบ  รูปขันธมูละ  เวทนาขันธมูลี</I>
+<span class="LineNumber"> 006 </span>                                         <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 007 </span>                                    <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 008 </span>                                  <I>อตีตวาระ   ปัจจนิก  จบ</I>

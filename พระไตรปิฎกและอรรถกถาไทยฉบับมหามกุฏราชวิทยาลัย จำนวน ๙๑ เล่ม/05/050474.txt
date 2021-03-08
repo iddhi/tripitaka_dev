@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>          ที่ชื่อว่า  <B>มิใช่ผู้อาพาธ</B>  คือ   ผู้สามารถเดินไปได้ด้วยเท้า. 
+<span class="LineNumber"> 002 </span>          ที่ชื่อว่า  <B>ผู้อาพาธ</B>   คือ  ผู้ไม่สามารถเดินไปด้วยเท้า.
+<span class="LineNumber"> 003 </span>          ที่ชื่อว่า   <B>ยาน</B>  ได้แก่   วอ   รถ   เกวียน  คานหาม   แคร่   เก้าอี้.
+<span class="LineNumber"> 004 </span>          บทว่า   <B>ไป</B>   คือ  ไปแม้ครั้งเดียว   ก็ต้องอาบัติปาจิตตีย์        
+                        
+<span class="LineNumber"> 005 </span>                                            <H2>บทภาชนีย์</H2>              
+<span class="LineNumber"> 006 </span>                                           <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 007 </span>          [๔๕๒]  ภิกษุณีมิใช่ผู้อาพาธ  สำคัญว่ามิได้อาพาธ ไปโดยยาน  ต้อง
+<span class="LineNumber"> 008 </span>อาบัติปาจิตตีย์
+<span class="LineNumber"> 009 </span>           ภิกษุณีมิใช่ผู้อาพาธ  มีความสงสัย  ไปโดยยาน  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 010 </span>           ภิกษุณีมิใช่ผู้อาพาธ สำคัญว่าอาพาธ  ไปโดยยาน  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 011 </span>                                            <H2>ทุกะทุกกฏ</H2>
+<span class="LineNumber"> 012 </span>           ภิกษุณีผู้อาพาธ  สำคัญว่ามิได้อาพาธ  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 013 </span>           ภิกษุณีผู้อาพาธ  มีความสงสัย   ต้องอาบัติทุกกฏ.
+
+<span class="LineNumber"> 014 </span>                                         <H2>ไม่ต้องอาบัติ</H2>
+<span class="LineNumber"> 015 </span>           ภิกษุณีผู้อาพาธ  สำคัญว่าอาพาธ  ไม่ต้องอาบัติ.
+
+<span class="LineNumber"> 016 </span>                                       <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 017 </span>           [๔๕๓]  อาพาธ ๑  มีเหตุจำเป็น  ๑  วิกลจริต ๑   อาทิกัมมิกา  ๑ ไม่
+<span class="LineNumber"> 018 </span> ต้องอาบัติแล.                                                                         
+
+<span class="LineNumber"> 019 </span>                           <I>ฉัตตุปาหนวรรค  สิกขาบทที่  ๒  จบ</I>

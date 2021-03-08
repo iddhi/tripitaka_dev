@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>	ผู้ทำกัมมัฏฐาน  เมื่อศึกษารู้จักเรื่องอารมณ์มี  ๖,  นิวรณ์  ๕,   
+<span class="LineNumber"> 002 </span>ขันธ์  ๕  เป็นเบื้องต้น  พอจับเค้าได้เช่นนี้แล้ว   พึงรู้จักกัมมัฏฐาน
+<span class="LineNumber"> 003 </span>ว่ามี  ๒  อย่าง  คือ
+<span class="LineNumber"> 004 </span>		๑.  สมถกัมมัฏฐน
+<span class="LineNumber"> 005 </span>		๒.  วิปัสสนากัมมักฐาน
+<span class="LineNumber"> 006 </span>	สมถกัมมัฏฐานเป็นหลักวิชา  ซึ่งเป็นอุบายทำจิตใจให้สงบจาก
+<span class="LineNumber"> 007 </span>อารมณ์  มี  ๔๐  อย่าง  คือ
+<span class="LineNumber"> 008 </span>	กสิณ  ๑๐,  อสุภ  ๑๐,  อนุสติ  ๑๐,  พรหมวิหาร  ๔,  อาหาเรปฏิกูล-
+<span class="LineNumber"> 009 </span>สัญญา  ๑,  จตุธาตุววัตถานะ  ๑,   อรูปกัมมัฏฐาน  ๔
+<span class="LineNumber"> 010 </span>	วิปัสสนากัมมัฏฐานเป็นหลักวิชา  ซึ่งเป็นอุบายให้เกิดปัญญา
+<span class="LineNumber"> 011 </span>รู้แจ้งชัดในอารมณ์  ธรรมะที่เป็นอารมณ์ของวิปัสสนามี  ๔  หมวด
+<span class="LineNumber"> 012 </span>		หมวดที่  ๑  ได้แก่ขันธ์ ๕
+<span class="LineNumber"> 013 </span>		หมวดที่  ๒  ได้แก่อายตนะ  ๑๒
+<span class="LineNumber"> 014 </span>		หมวดที่  ๓   ได้แก่ธาตุ  ๑๘
+<span class="LineNumber"> 015 </span>		หมวดที่  ๔  ได้แก่อินทรีย์  ๒๒
+   

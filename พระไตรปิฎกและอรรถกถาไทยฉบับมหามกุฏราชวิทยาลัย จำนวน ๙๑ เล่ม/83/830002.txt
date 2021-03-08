@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>ปริจฉินนุทเทสวาระ</H1> 
+<span class="LineNumber"> 002 </span>         [๑๒๒๑<SUP>๑</SUP>]   กามราคานุสัย   นอนเนื่องอยู่ ณ ที่ไหน  ?
+<span class="LineNumber"> 003 </span>         กามราคานุสัย   นอนเนื่อง   อยู่  ณ ที่นี้   คือ  ที่เวทนา  ๒  ใน
+<span class="LineNumber"> 004 </span>กามธาตุ.
+<span class="LineNumber"> 005 </span>         ปฏิฆานุสัย  นอนเนื่องอยู่  ณ ที่ไหน  ?
+<span class="LineNumber"> 006 </span>         ปฏิฆานุสัย  นอนเนื่องอยู่  ณ  ที่นี้   คือ  ที่ทุกขเวทนา.
+<span class="LineNumber"> 007 </span>         มานานุสัย  นอนเนื่องอยู่  ณ ที่ไหน  ?
+<span class="LineNumber"> 008 </span>         มานานุสัย   นอนเนื่องอยู่   ณ  ที่นี้     คือ    ที่เวทนา   ๒   ใน
+<span class="LineNumber"> 009 </span>กามธาตุ    ที่รูปธาตุ   อรูปธาตุ.
+<span class="LineNumber"> 010 </span>         ทิฏฐานุสัย  นอนเนื่องอยู่  ณ ที่ไหน ?
+<span class="LineNumber"> 011 </span>         ทิฏฐานุสัย   นอนเนื่องอยู่ ณ ที่นี้   คือ  ที่ธรรมอันนับเนื่องด้วย
+<span class="LineNumber"> 012 </span>สักกายทิฏฐิทั้งหมด.
+<span class="LineNumber"> 013 </span>         วิจิกิจฉานุสัย  นอนเนื่องอยู่  ณ ที่ไหน ?
+<span class="LineNumber"> 014 </span>         วิจิกิจฉานุสัย   นอนเนื่องอยู่  ณ ที่นี้   คือ   ที่ธรรมอันนับเนื่อง
+<span class="LineNumber"> 015 </span>ด้วยสักกายทิฏฐิทั้งหมด.
+<span class="LineNumber"> 016 </span>         ภวราคานุสัย   นอนเนื่องอยู่  ณ ที่ไหน ?
+<span class="LineNumber"> 017 </span>         ภวราคานุสัย   นอนเนื่องอยู่  ณ ที่นี้    คือ  ที่รูปธาตุ   อรูปธาตุ.
+<span class="LineNumber"> 018 </span>         อวิชชานุสัย  นอนเนื่องอยู่  ณ ที่ไหน  ?
+<span class="LineNumber"> 019 </span>         อวิชชานุสัย   นอนเนื่องอยู่  ณ ที่นี้    คือ    ที่ธรรมอันนับเนื่อง
+<span class="LineNumber"> 020 </span>ด้วยสักกายทิฏฐิทั้งหมด.
+
+<span class='footnote'>๑.  บาลีเล่มที่  ๓๘    หน้า</span>

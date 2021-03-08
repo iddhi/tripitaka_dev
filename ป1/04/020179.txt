@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>		๓.  สตฺตมี                          ๖.  อชฺชตฺตนี  
+<span class="LineNumber"> 002 </span><B>ป.  ปาเจยฺย, ปาเจถ.  ปาเจยฺยุํ.  	อปาเจสิ.        อปาจึสุ.
+<span class="LineNumber"> 003 </span>ม.  ปาเจยฺยาสิ.      ปาเจยฺยาถ.                     อปาจยิตฺถ.  
+<span class="LineNumber"> 004 </span>อุ.  ปาเจยฺยามิ,      ปาเจยฺยาม.   อปาเจสึ.   อปาจยิมฺหา.
+<span class="LineNumber"> 005 </span>      ปาเจยฺยํ.</B>
+<span class="LineNumber"> 006 </span>                  (<B>หิยตฺตนี</B>  ไม่ได้ใช้  ไม่ต้องแจก)
+<span class="LineNumber"> 007 </span>		๗.  ภวิสฺสนติ          		๘.  กาลาติปตฺต
+<span class="LineNumber"> 008 </span><B>ป.  ปาเจสฺสติ.   ปาเจสฺสนฺติ.     อปาจยิสฺส.   อปาจยิสฺสํสุ.
+<span class="LineNumber"> 009 </span>ม.  ปาเจสฺสสิ.     ปาเจสฺสถ.      อปาจยิสฺเส.   อปาจยิสฺสถ.
+<span class="LineNumber"> 010 </span>อุ.  ปาเจสฺสามิ.    ปเจสฺสาม.      อปาจยิสฺสํ.   อปาจยิสฺสามฺหา.</B>
+
+<span class="LineNumber"> 011 </span>          (๑๒๕)  แจก  <B>ปจ</B>ฺ  ธาตุ  ลง  <B>ณาเป  ณาปย</B>  ปัจจัย  เป็น
+<span class="LineNumber"> 012 </span>ตัวอย่าง.
+<span class="LineNumber"> 013 </span>		๑.  วตฺตมานา         		๒.  ปญฺจมี
+<span class="LineNumber"> 014 </span>ปุริส.  	เอก.   	พหุ.                เอก.   	พหุ.
+<span class="LineNumber"> 015 </span><B>ป.   	ปาจาเปติ.   ปาจาเปนฺติ.      ปาจาเปตุ.     	ปาจาเปนฺตุ.
+<span class="LineNumber"> 016 </span>ม.  	ปาจาเปสิ.      ปาจาเปถ.     ปาจาเปหิ.   	ปาจาเปถ.
+<span class="LineNumber"> 017 </span>อุ.  	ปาจาเปมิ.      ปาจาเปม.     ปาจาเปมิ.      	ปาจาเปม.</B> 

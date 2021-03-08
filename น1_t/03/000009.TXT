@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>[ ราวมิถุนายน ]. 
+<span class="LineNumber"> 002 </span>	เดือนอาสาฬหะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๗  ถึงกลางเดือน ๘
+<span class="LineNumber"> 003 </span>[ ราวกรกฎาคม ].<sup>๑</sup>
+<span class="LineNumber"> 004 </span>	เดือนสาวณะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๘  ถึงกลางเดือน ๙
+<span class="LineNumber"> 005 </span>[ ราวสิงหาคม ].
+<span class="LineNumber"> 006 </span>	เดือนโปฏฐะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๙  ถึงกลาง
+<span class="LineNumber"> 007 </span>เดือน ๑๐  [ ราวกันยายน ].
+<span class="LineNumber"> 008 </span>	เดือนอัสสยุชะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๑๐  ถึงกลาง
+<span class="LineNumber"> 009 </span>เดือน ๑๑  [ ราวตุลาคม ].
+<span class="LineNumber"> 010 </span>	เดือนกัตติกะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๑๑  ถึงกลาง
+<span class="LineNumber"> 011 </span>เดือน ๑๒  [ ราวพฤศจิกายน ].
+<span class="LineNumber"> 012 </span>	เดือนมิคสิระ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๑๒  ถึงกลางเดือน ๑
+<span class="LineNumber"> 013 </span>[ ราวธันวาคม ].
+<span class="LineNumber"> 014 </span>	เดือนปุสสะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๑  ถึงกลางเดือน ๒
+<span class="LineNumber"> 015 </span>[ ราวมกราคม ].
+<span class="LineNumber"> 016 </span>	เดือนมาฆะ  เริ่มตั้งแต่แรมค่ำ ๑  เดือน ๒  ถึงกลางเดือน ๓
+<span class="LineNumber"> 017 </span>[ ราวกุมภาพันธ์ ].
+
+<span class='footnote'>๑.ดูตามนี้เป็นอันว่าเราจำพรรษากันในเมืองไทย  เริ่มแต่เดือน ๙ คือเดือนสาวณะ,  เพราะพระ</span>
+<span class='footnote'>บาลีกำหนดให้จำพรรษาเมื่อวันเพ็ญแห่งเดือนอาสาฬหะผ่านพ้นไปแล้ววันหนึ่ง  นับอย่างอินเดียคือ</span>
+<span class='footnote'>วันเพ็ญของเขาอยู่ที่สุดเดือน  พึงเห็นการแบ่งฤดูของเราทุกวันนี้  เช่นเริ่มฤดูเหมันต์เมื่อวันแรมค่ำ ๑</span>
+<span class='footnote'>เดือน ๑๒ ก็เท่ากับเริ่มฤดูเหมันต์วันขึ้นค่ำ ๑ เดือนปุสสะ [ ๑ ]  นั่นเอง.</span>

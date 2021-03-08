@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 247
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  โยติ  ขตฺติยาทีสุ  โยโกจิ ฯ  โกปเนยฺเยติ
+<span class="LineNumber"> 003 </span>กุชฺฌิตพฺพยุตฺตเกน  ปุคฺคเล  ขนฺตีวาที (๑) วิย  โกปํ  น  กโรติ ฯ 
+<span class="LineNumber"> 004 </span>กทาจีติ  โย  จ  กิสฺมิฺจิ  กาเล  น  กุชฺฌติ (๒)ฯ  กุทฺโธปีติ  สเจ
+<span class="LineNumber"> 005 </span>ปน  โส  สปฺปุริโส  กุชฺฌติ  อถ  กุทฺโธปิ  ตํ  โกปํ  นาวีกโรติ  
+<span class="LineNumber"> 006 </span>จูฬโพธิตาปโส วิย ฯ ตํ เว  ยุตฺตตรํ  นรนฺติ (๓) มหาราช  ตํ  สปฺปุริสํ(๓) 
+<span class="LineNumber"> 007 </span>สมิตปาปตาย  โลเก  ปณฺฑิตา  สมณํ  กเถนฺติ  อิเม  ปน  คุณา
+<span class="LineNumber"> 008 </span>มยิ  สนฺติ  ตสฺมา  มเมว  สีลํ  มหนฺตนฺติ ฯ  
+<span class="LineNumber"> 009 </span>	ตํ  สุตฺวา  สุปณฺณราชา  อยํ  นาโค  มม  อคฺคภกฺโข 
+<span class="LineNumber"> 010 </span>ยสฺมา  ปนาหํ  เอวรูปํ  อคฺคภกฺขํ  ทิสฺวาปิ  ขุทํ  อธิวาเสตฺวา 
+<span class="LineNumber"> 011 </span>อาหารเหตุ  ปาปํ น กโรมิ ตสฺมา มม(๔) สีลํ มหนฺตนฺติ 
+<span class="LineNumber"> 012 </span>วตฺวา[๕] คาถมาห  
+<span class="LineNumber"> 013 </span>		โอโนทโร(๖) โย สหเต ชิฆจฺฉํ  
+<span class="LineNumber"> 014 </span>		ทนฺโต ตปสฺสี มิตปานโภชโน  
+<span class="LineNumber"> 015 </span>		อาหารเหตุ น กโรติ ปาปํ  
+<span class="LineNumber"> 016 </span>		ตํ เว นรํ สมณมาหุ โลเกติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  ทนฺโตติ  อินฺทฺริยทมเนน สมนฺนาคโต ฯ ตปสฺสีติ 
+<span class="LineNumber"> 018 </span>ตปนิสฺสิตโก ฯ  อาหารเหตุ(๗)  น  กโรติ  ปาปนฺติ  ชิฆจฺฉาย 
+<span class="LineNumber"> 019 </span>ปีฬิโตปิ(๘)  โย  ลามกกมฺมํ  น  กโรติ  ธมฺมเสนาปติ  สาริปุตฺตตฺเถโร  
+<span class="LineNumber"> 020 </span># ๑. ม. ขนฺตีวาทีตาปโส ฯ  ๒. ม. กุชฺฌเตว ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. มหาราชาโน ตํ เว ปุริสํ ฯ ๔. ม. มเมว ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. เอตฺถนฺตเร อิมนฺติ ทิสฺสติ ฯ  ๖. ม. อูนูทโร ฯ 
+<span class="LineNumber"> 023 </span># ๗. ม. อาหารเหตูติ ฯ  ๘. ม. อติชิฆจฺฉปีฬิโตปิ ฯ 

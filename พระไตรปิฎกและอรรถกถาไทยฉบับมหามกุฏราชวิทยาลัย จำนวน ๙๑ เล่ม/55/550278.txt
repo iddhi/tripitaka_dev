@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>รวมชาดกที่มีในวรรคที่  คือ</H2>
+<span class="LineNumber"> 002 </span>         <B>๑.  ลักขณชาดก   ๒.  นิโครธมิคชาดก   ๓.  กัณฑินชาดก
+<span class="LineNumber"> 003 </span>๔.    วาตมิคชาดก       ๕.    ขราทิยชาดก         ๖.   ติปัลลัตถมิคชาดก
+<span class="LineNumber"> 004 </span>๗.    มาลุตชาดก         ๘.    มตกภัตตชาดก       ๙.   อายาจิตภัตตชาดก
+<span class="LineNumber"> 005 </span>๑๐.   นฬปานชาดก</B>

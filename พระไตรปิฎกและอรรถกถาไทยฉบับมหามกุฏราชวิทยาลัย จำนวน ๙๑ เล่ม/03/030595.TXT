@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>          กรรมเป็นธรรม  ภิกษุสำคัญว่า  กรรมไม่เป็นธรรม  ไม่สละ  ต้อง
+<span class="LineNumber"> 002 </span>อาบัติสังฆาทิเสส
+<span class="LineNumber"> 003 </span>          กรรมไม่เป็นธรรม   ภิกษุสำคัญว่า    กรรมเป็นธรรม  ต้องอาบัติ
+<span class="LineNumber"> 004 </span>ทุกกฏ                                
+<span class="LineNumber"> 005 </span>          กรรมไม่เป็นธรรม  ภิกษุสงสัย  ต้องอาบัติทุกกฏ
+<span class="LineNumber"> 006 </span>          กรรมไม่เป็นธรรม  ภิกษุสำคัญว่า  กรรมไม่เป็นธรรม  ต้องอาบัติ
+<span class="LineNumber"> 007 </span>ทุกกฏ.                                
+<span class="LineNumber"> 008 </span>                                         <H1>อนาปัตติวาร</H1>
+<span class="LineNumber"> 009 </span>           [๖๐๖]  ภิกษุผู้ยังไม่ถูกสวดสมนุภาส ๑  ภิกษุผู้สละเสียได้ ๑  ภิกษุ
+<span class="LineNumber"> 010 </span>วิกลจริต ๑   ภิกษุผู้มีจิตฟุ้งซ่าน ๑   ภิกษุผู้กระสับกระส่ายเพราะเวทนา ๑
+<span class="LineNumber"> 011 </span>ภิกษุอาทิกัมมิกะ ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 012 </span>                         <H2>สังฆาทิเสสสิกขาบทที่  ๑๑  จบ</H2>
+
+<span class="LineNumber"> 013 </span>                               <h1> สังฆาทิเสสสิกขาบทที่  ๑๑</h1>
+<span class="LineNumber"> 014 </span>                           <H1>ทุติยสังฆเภทสิกขาบทวรรณนา</H1>
+<span class="LineNumber"> 015 </span>        ทุติยสังฆเภทสิกขาบทว่า  <B>เตน  สมเยน  พุทฺโธ  ภควา</B>  เป็นต้น
+<span class="LineNumber"> 016 </span>ข้าพเจ้าจะกล่าวต่อไป:-    ในทุติยสังฆเภทสิกขาบทนั้น  มีวินิจฉัยดังนี้:-
+<span class="LineNumber"> 017 </span>    <H2>[แก้อรรถเรื่องภิกษุประพฤติตามภิกษุผู้ทำลายสงฆ์]</H2>
+<span class="LineNumber"> 018 </span>         บทว่า  <B>อนุวตฺตกา</B> มีความว่า  ผู้ปฏิบัติตาม  โดยยึดถือเอาความเห็น
+<span class="LineNumber"> 019 </span>ความพอใจ    และความชอบใจ     แห่งพระเทวทัตนั้น    (ผู้ตะเกียกตะกาย
+<span class="LineNumber"> 020 </span>เพื่อทำลายสงฆ์)  ภิกษุเหล่าใดพูดคำเป็นพรรค  คือ  คำมีในฝักฝ่ายแห่ง

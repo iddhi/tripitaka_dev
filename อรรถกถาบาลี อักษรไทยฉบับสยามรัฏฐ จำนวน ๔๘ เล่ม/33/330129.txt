@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  33  ชนสนฺธชาตกํ  หน้า  129
+
+<span class="LineNumber"> 002 </span>[๑๖๕๐]อลทฺธา จิตฺตํ (๑)  ตปติ	ปุพฺเพ อสมุทานิตํ 
+<span class="LineNumber"> 003 </span>		น ปุพฺเพ ธนเมสิสฺสํ		อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 004 </span>[๑๖๕๑]สกฺยรูปํ ปุเร สนฺตํ		มยา สิปฺปํ น สิกฺขิตํ  
+<span class="LineNumber"> 005 </span>		กิจฺฉา วุตฺติ อสิปฺปสฺส	อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 006 </span>[๑๖๕๒]กูฏเวที ปุเร อาสึ		ปิสุโณ ปิฏฺ€ิมํสิโก  
+<span class="LineNumber"> 007 </span>		จณฺโฑ จ ผรุโส จาสึ (๒)	อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 008 </span>[๑๖๕๓]ปาณาติปาตี ปุเร อาสึ	ลุทฺโธ (๓)จาปิ อนาริโย  
+<span class="LineNumber"> 009 </span>		ภูตานํ นาวชานิสฺสํ (๔)	อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 010 </span>[๑๖๕๔]พหูสุ วต สนฺตีสุ		อนาปทาสุ อิตฺถิสุ  
+<span class="LineNumber"> 011 </span>		ปรทารํ อเสวิสฺสํ (๕)	อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 012 </span>[๑๖๕๕]พหุมฺหิ วต สนฺตมฺหิ		อนฺนปาเน อุปฏฺ€ิเต  
+<span class="LineNumber"> 013 </span>		น ปุพฺเพ อททึ ทานํ		อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 014 </span>[๑๖๕๖]มาตรํ ปิตรํ จาปิ		ชิณฺณเก คตโยพฺพเน (๖)
+<span class="LineNumber"> 015 </span>		ปหุสนฺโต น โปสิสฺสํ	อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 016 </span>[๑๖๕๗]อาจริยมนุสตฺถารํ		สพฺพกามรสาหรํ  
+<span class="LineNumber"> 017 </span>		ปิตรํ อติมฺิสฺสํ		อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 018 </span>[๑๖๕๘]สมเณ พฺราหฺมเณ จาปิ	สีลวนฺเต พหุสฺสุเต  
+<span class="LineNumber"> 019 </span>		น ปุพฺเพ ปยิรุปาสิสฺสํ	อิติ ปจฺฉานุตปฺปติ  
+<span class="LineNumber"> 020 </span>#๑. สฺยา ม. วิตฺถํ  ฯ  ๒. ม. จาปิ  ฯ ๓. สฺยา. ม.ลุทฺโท ฯ 
+<span class="LineNumber"> 021 </span>#๔.  ม. นาปจายิสฺสํ  ฯ  ๕.  สฺยา. อาเสวิสฺสํ  ฯ
+<span class="LineNumber"> 022 </span>#๖.  ม. ชิณฺณกํ  คตโยพฺพนํ  ฯ	

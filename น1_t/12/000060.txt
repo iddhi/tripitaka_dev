@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	๒.  ทานที่มีผลมาก   ต้องประกอบด้วยองค์เท่าไร  ?   อธิบายให้ 
+<span class="LineNumber"> 002 </span>               เข้าใจ.
+<span class="LineNumber"> 003 </span>	๓.  ทานดีอย่างไร    ท่านจึงจัดเข้าในเรื่องสำหรับทำความดีด้วย  ?
+<span class="LineNumber"> 004 </span>	๔.  สีลมัย   แปลว่าอะไร  ?   ศีล   หมายถึงอะไร  ?
+<span class="LineNumber"> 005 </span>	๕. คนในร้อน  แก้ด้วยอะไร  ?
+<span class="LineNumber"> 006 </span>	๖.  ภาวนาอย่างต่ำ   ได้แก่ทำอย่างไร  ?
+<span class="LineNumber"> 007 </span>	๗.  ภาวนาอย่างสูง   แยกเป็น  ๒  คืออะไร  ?
+<span class="LineNumber"> 008 </span>	๘.  คนที่ถูกโมหะครอบงำจิต   มีลักษณะอย่างไร  ?
+<span class="LineNumber"> 009 </span>	๙.  บุญกิริยาวัตถุมีกี่อย่าง  ?   อย่างไหนกำจัดโมหะได้  ?
+<span class="LineNumber"> 010 </span>	๑๐. คำว่า      บุญ    แปลว่าอย่างไร  ?   เครื่องสำหรับทำบุญมีเท่าไร  ?
+<span class="LineNumber"> 011 </span>	๑๑. คำว่า     บุญ    ถ้าแบ่งได้  ๒ ส่วนจะได้หรือไม่  ?  ถ้าไม่ได้ก็
+<span class="LineNumber"> 012 </span>                แล้วไป   ถ้าแบ่งได้    จงแบ่งมาดูว่าได้แก่อะไรบ้าง  ?
+						  
+<span class="LineNumber"> 013 </span>				<B>	ต้นเอ๋ย    ต้นควินิน 
+<span class="LineNumber"> 014 </span>				เอาต้มกิน   ขมจัด    ฉมัดฉมัง
+<span class="LineNumber"> 015 </span>				มาเลเรีย    ขึ้นสมอง   จำต้องพัง 
+<span class="LineNumber"> 016 </span>				แพ้กำลัง   ควินิน   หายสิ้นไป.
+<span class="LineNumber"> 017 </span>					คำบางท่าน   ตักเตือน    เหมือนยาขม
+<span class="LineNumber"> 018 </span>				เร่งระดม   ให้รับ    ทรัพย์กองใหญ่
+<span class="LineNumber"> 019 </span>				คนไม่ดื้อ    ได้ทรัพย์    โดยฉับไว
+<span class="LineNumber"> 020 </span>				แม้โรคใจ   -  เศร้าหมอง     ต้องหาย   เอย.</B>
+<span class="LineNumber"> 021 </span>									 	<B>ศรี  ฯ  นคร.</B>
+			

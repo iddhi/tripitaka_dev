@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                             <h1>๕.  อรหันตสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         <B>[๖๔]           ท.  ภิกษุใดเป็นผู้ไกลจากกิเลส   มี 
+<span class="LineNumber"> 003 </span>                   กิจทำเสร็จแล้ว    มีอาสวะสิ้นแล้ว   เป็นผู้
+<span class="LineNumber"> 004 </span>                   ทรงไว้ซึ่งร่างกายอันมีในที่สุด  ภิกษุนั้น
+<span class="LineNumber"> 005 </span>                   พึงกล่าวว่า เราพูดดังนี้บ้าง บุคคลทั้งหลาย
+<span class="LineNumber"> 006 </span>                   อื่นพูดกะเราดังนี้บ้าง.
+<span class="LineNumber"> 007 </span>         [๖๕]           ภ.  ภิกษุใดเป็นผู้ไกลจากกิเลส   มี
+<span class="LineNumber"> 008 </span>                   กิจทำเสร็จแล้ว   มีอาสวะสิ้นแล้ว   เป็นผู้
+<span class="LineNumber"> 009 </span>                   ทรงไว้ซึ่งร่างกายอันมีในที่สุด    ภิกษุนั้น
+<span class="LineNumber"> 010 </span>                   พึงกล่าวว่า เราพูดดังนี้บาง  บุคคลทั้งหลาย
+<span class="LineNumber"> 011 </span>                   อื่นพูดกะเราดังนี้บ้าง     ภิกษุนั้นฉลาด
+<span class="LineNumber"> 012 </span>                   ทราบคำพูดในโลก     พึงกล่าวตามสมมติ
+<span class="LineNumber"> 013 </span>                   ที่พูดกัน.
+<span class="LineNumber"> 014 </span>         [๖๖]           ท.  ภิกษุใดเป็นพระอรหันต์   มีกิจ
+<span class="LineNumber"> 015 </span>                   ทำเสร็จแล้ว   มีอาสวะสิ้นแล้ว  เป็นผู้ทรง
+<span class="LineNumber"> 016 </span>                   ไว้ซึ่งร่างกายอันมีในที่สุด  ภิกษุนั้นยังติด
+<span class="LineNumber"> 017 </span>                   มานะหรือหนอ   จึงกล่าวว่า   เราพูดดังนี้
+<span class="LineNumber"> 018 </span>                   บ้าง   บุคคลทั้งหลายอื่นพูดกะเรา   ดังนี้
+<span class="LineNumber"> 019 </span>                   บ้าง.
+<span class="LineNumber"> 020 </span>         [๖๗]           ภ.  กิเลสเป็นเครื่องผูกทั้งหลาย  มิได้
+<span class="LineNumber"> 021 </span>                   มีแก่ภิกษุที่ละมานะเสียแล้ว   มานะและ</B>

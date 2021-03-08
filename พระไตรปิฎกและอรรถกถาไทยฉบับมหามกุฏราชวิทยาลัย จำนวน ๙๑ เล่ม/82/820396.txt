@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>เหล่านั้น,  บุคคลที่นอกจากนั้น  จักขายตนะจักเกิด  และฆานายตนะ 
+<span class="LineNumber"> 002 </span>ก็จักเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 003 </span>         ก็หรือว่า  ฆานายตนะจักเกิดแก่บุคคลใด, จักขายตนะก็จักเกิด
+<span class="LineNumber"> 004 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>                          <I>จบ  จักขายตมูละ  ฆานายตนมูลี</I>
+<span class="LineNumber"> 007 </span><H2>จักขายตนมูละ   รูปายตนมูลี :-</H2>
+<span class="LineNumber"> 008 </span>         [๓๗๔]   จักขายตนะจักเกิดแก่บุคคลใด,  รูปายตนะก็จักเกิด
+<span class="LineNumber"> 009 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า  รูปายตนะจักเกิดแก่บุคคลใด,  จักขายตนะก็จักเกิด
+<span class="LineNumber"> 012 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>                         <I>จบ  จักขายตนมูละ  รูปายตนมูลี</I>
+<span class="LineNumber"> 015 </span>         (จักขายตนะจักเกิดแก่บุคคลใด  มนายตนะและธัมมายตนะก็
+<span class="LineNumber"> 016 </span>จักเกิดแก่บุคคลนั้นเป็นเช่นเดียวกัน  วาระเหล่านี้เหมือนกันทั้ง  ๒  วาระ)                

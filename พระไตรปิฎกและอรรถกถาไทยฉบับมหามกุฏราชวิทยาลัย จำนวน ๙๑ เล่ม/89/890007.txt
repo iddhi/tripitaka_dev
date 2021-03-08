@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๒.  นอารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๕] ๑.  <B>อนารัมมณธรรม     อาศัยสารัมมณธรรม   เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นสารัมมณธรรม.
+<span class="LineNumber"> 005 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 006 </span>                ๒.  <B>อนารัมมณธรรม   อาศัยอนารัมมณธรรม    เกิดขึ้น
+<span class="LineNumber"> 007 </span>เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 008 </span>         คือ  ฯลฯ  ตลอดจนถึงอสัญญสัตว์.
+<span class="LineNumber"> 009 </span>                ๓.  <B>อนารัมมณธรรม    อาศัยสารัมมณธรรม   และอนา-
+<span class="LineNumber"> 010 </span>รัมมณธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นสารัมมณธรรม  และ
+<span class="LineNumber"> 012 </span>มหาภูตรูปทั้งหลาย.
+<span class="LineNumber"> 013 </span>         ในปฏิสนธิขณะ  ฯลฯ
+
+<span class="LineNumber"> 014 </span>                              <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 015 </span>         [๖]   ในนเหตุปัจจัย  มี ๙ วาระ ในนอารัมมณปัจจัย  มี ๓ วาระ ใน
+<span class="LineNumber"> 016 </span>นอธิปติปัจจัย  มี ๙ วาระ ในนอนันตรปัจจัย มี ๓ วาระ  ในนสมันนตรปัจจัย
+<span class="LineNumber"> 017 </span>มี ๓ วาระ ในนอัญญมัญญปัจจัย  มี ๓ วาระ  ในนอุปนิสสยปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 018 </span>ในนปุเรชาตปัจจัย  มี ๙ วาระ  ในนปัจฉาชาตปัจจัย  มี ๙ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 019 </span>ปัจจัย  มี ๙ วาระ   ในนกัมมปัจจัย   มี ๒ วาระ  ในนวิปากปัจจัย  มี ๕ วาระ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  650
+	
+<span class="LineNumber"> 002 </span>				จตุตฺถวคฺควณฺณนา  
+<span class="LineNumber"> 003 </span>				มิคสิรตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 004 </span>	ยโต อหํ ปพฺพชิโตติ อายสฺมโต มิคสิรตฺเถรสฺส 
+<span class="LineNumber"> 005 </span>คาถา ฯ กา อุปฺปตฺติ  
+<span class="LineNumber"> 006 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ  ภเว
+<span class="LineNumber"> 007 </span>ปุฺานิ  อุปจินนฺโต กสฺสปสฺส  ภควโต  กาเล  พฺราหฺมณกุเล
+<span class="LineNumber"> 008 </span>นิพฺพตฺติตฺวา  วิฺุตํ  ปตฺโต  เอกทิวสํ สตฺถารํ  ทิสฺวา 
+<span class="LineNumber"> 009 </span>ปสนฺนจิตฺโต กุสฏฺ€กํ (๑) อทาสิ ฯ 
+<span class="LineNumber"> 010 </span>	โส เตน ปุฺกมฺเมน เทวมนุสฺเสสุ สํสรนฺโต  อิมสฺมึ 
+<span class="LineNumber"> 011 </span>พุทฺธุปฺปาเท  โกสลรฏฺเ€  พฺราหฺมณกุเล  ปฏิสนฺธึ  คเหตฺวา 
+<span class="LineNumber"> 012 </span>มิคสิรนกฺขตฺเต  (๒)  ชาตตฺตา  มิคสิโรติ  ลทฺธนาโม  วยปฺปตฺโต
+<span class="LineNumber"> 013 </span>พฺราหฺมณานํ วิชฺชาสิปฺเปสุ  นิปฺผตฺตึ  คโต  ฉวสีสมนฺตํ  นาม
+<span class="LineNumber"> 014 </span>สิกฺขิ  ยํ  ปริชเปตฺวา  (๓) ติวสฺสมตฺถเก  มตานมฺปิ สีสํ นเขน 
+<span class="LineNumber"> 015 </span>อาโกเฏตฺวา อยํ สตฺโต อสุกฏฺ€าเน นิพฺพตฺโตติ ชานาติ ฯ  
+<span class="LineNumber"> 016 </span>	โส  ฆราวาสํ  อนิจฺฉนฺโต  ปริพฺพาชกปพฺพชฺชํ  ปพฺพชิตฺวา
+<span class="LineNumber"> 017 </span>ตํ วิชฺชํ นิสฺสาย โลเก  (๔)  สกฺกโต  ครุกโต  ลาภี  หุตฺวา  วิจรนฺโต  
+<span class="LineNumber"> 018 </span>สาวตฺถึ อุปคโต สตฺถุ สนฺติกํ คนฺตฺวา  อตฺตโน  อานุภาวํ 
+<span class="LineNumber"> 019 </span>ปกาเสนฺโต  อหํ  โภ  โคตม  มตานํ  นิพฺพตฺตฏฺ€านํ  ชานามีติ
+<span class="LineNumber"> 020 </span># ๑. ยุ. กุลฏฺ€กํ ฯ  ๒. ม. ...นกฺขตฺเตน ฯ  ๓. ม. ปริชปฺเปตฺวา ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. โลเกน ฯ 

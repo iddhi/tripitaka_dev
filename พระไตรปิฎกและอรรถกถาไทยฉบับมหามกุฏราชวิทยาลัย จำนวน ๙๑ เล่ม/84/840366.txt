@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>อิตถินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>อิตถินทริยมูละ  ปุริสินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๖๖๒]   อิตถินทรีย์ไม่ใช่กำลังเกิดในภูมิใด,  ปุริสินทรีย์ก็ไม่
+<span class="LineNumber"> 004 </span>ใช่กำลังเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า   ปุริสินทรีย์ไม่ใช่กำลังเกิดในภูมิใด,   อิตถินทรีย์ก็ไม่
+<span class="LineNumber"> 007 </span>ใช่กำลังเกิดในภูมินั้น  ใช่ไหม   ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                      <I>จบ  อิตถินทริยมูละ    ปุริสินทริยมูลี</I>
+<span class="LineNumber"> 010 </span>                                   <I>อิตถินทริยมูล  จบ</I>

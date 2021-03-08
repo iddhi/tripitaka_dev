@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                              <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 002 </span>                               <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>                              <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                               <H2>อัปปมาณบท</H2>
+<span class="LineNumber"> 005 </span>           [๗๙๐] ๑.  <B>ธรรมที่ไม่ใช่อัปปมาณธรรม ที่ไม่ใช่กุศล  อาศัย
+<span class="LineNumber"> 006 </span>อัปปมาณธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                       <B>ฯลฯ</B>
+
+<span class="LineNumber"> 008 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๗๙๑]  ในเหตุปัจจัย  มี  ๖  วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>             <I>กุสลติกปริตตติกนกุสลติกนปริตตติกะ  จบ</I>
+
+<span class="LineNumber"> 011 </span>       <H1>กุสลติกปริตตารัมมณติกนกุสลติกนปริตตารัมมณติกะ</H1>
+<span class="LineNumber"> 012 </span>         <H2>(๑. กุสลติกะ  ๑๒.  ปริตตารัมมณติกะ)</H2>
+<span class="LineNumber"> 013 </span>                                 <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 014 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>                              <H2>ปริตตารัมมณบท</H2>
+<span class="LineNumber"> 017 </span>           [๗๙๒] ๑.  <B>ธรรมที่ไม่ใช่ปริตตารัมมณธรรม  ที่ไม่ใช่กุศล
+<span class="LineNumber"> 018 </span>อาศัยปริตตารัมมณธรรม  ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 019 </span>                                           <B>ฯลฯ</B>	

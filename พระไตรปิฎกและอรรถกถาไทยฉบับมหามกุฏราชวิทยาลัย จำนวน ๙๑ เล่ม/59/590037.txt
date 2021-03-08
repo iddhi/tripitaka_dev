@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ได้ทราบว่าคนบ้าในโลกนี้มี ๘ จำพวก   เพราะฉะนั้นโบราณา-
+<span class="LineNumber"> 002 </span>จารย์  จึงได้กล่าวไว้ว่า   คนที่ได้สัญญาว่าเป็นบ้ามี  ๘  จำพวก   คือ :-
+<span class="LineNumber"> 003 </span>              ๑.   บ้ากาม <B>(กามุมฺมตฺตโก)</B>   มัวเมาในกาม   คือ :-
+<span class="LineNumber"> 004 </span>              -     ตกอยู่ใต้อำนาจจิต  <B>(จิตฺตวสงฺคโต)</B>   ของผู้อื่น
+<span class="LineNumber"> 005 </span>              -     ตกอยู่ใต้อำนาจความโลภ   <B>(โลภวสงฺคโต)</B>
+<span class="LineNumber"> 006 </span>              ๒.   บ้าโกรธผู้อื่น  <B>(โกธุมฺมตฺตโก)</B>  คือ  :- 
+<span class="LineNumber"> 007 </span>              -     ตกอยู่ใต้อำนาจวิหึสา  <B>(วิหึสาวสงฺคโต)</B>  คนอื่น
+<span class="LineNumber"> 008 </span>              ๓    บ้าความเห็น <B>(ทิฏฺฐุมฺมตฺตโก)</B>  บ้าทฤษฎีหรือบ้าลัทธิ
+<span class="LineNumber"> 009 </span>              -     ตกอยู่ใต้อำนาจความเข้าใจผิด  <B>(วิปลฺลาสวสงฺคโต)</B>
+<span class="LineNumber"> 010 </span>              ๔    บ้าความหลง  <B>(โมหุมฺมตฺตโก)</B>   คือ :-
+<span class="LineNumber"> 011 </span>              -     ตกอยู่ในอำนาจความไม่รู้
+<span class="LineNumber"> 012 </span>              ๕    บ้ายักษ์  <B>(ยกฺขุมฺมตฺตโก)</B>    คือ :-
+<span class="LineNumber"> 013 </span>              -     ตกอยู่ในอำนาจยักษ์  <B>(ยกฺขวสงฺคโต)</B>
+<span class="LineNumber"> 014 </span>              ๖    บ้าดีเดือด  <B>(ปิตฺตุมฺมตฺตโก)</B> คือ :-
+<span class="LineNumber"> 015 </span>              -     ตกอยู่ในอำนาจของดี  <B>(ปิตฺตวสงฺคโต)</B>
+<span class="LineNumber"> 016 </span>              ๗    บ้าสุรา   <B>(สุรุมฺมตฺตโก)</B>  คือ :-
+<span class="LineNumber"> 017 </span>              -     ตกอยู่ใต้อำนาจการดื่ม  <B>(ปานนวสงฺคโต)</B>

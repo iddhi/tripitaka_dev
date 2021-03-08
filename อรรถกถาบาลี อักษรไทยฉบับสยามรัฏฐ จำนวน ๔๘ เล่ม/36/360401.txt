@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  401
+
+<span class="LineNumber"> 002 </span>คาถมาห  
+<span class="LineNumber"> 003 </span>	[๖๐๔]	อนริยรูโป ปุริโส		ชนินฺท อสโมทโก  
+<span class="LineNumber"> 004 </span>			ถทฺโธ อสพฺภิรูโป	(ยถา มูโคว พธิโรว) (๒) 
+<span class="LineNumber"> 005 </span>				น กิฺจิตฺถมภิภาสถาติ (๓) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  อสพฺภิรูโปติ  อปณฺฑิตชาติโก ฯ  น  กิฺจิตฺถนฺติ  มยา  
+<span class="LineNumber"> 007 </span>สห  กิฺจิ  อตฺถํ  น  ภาสถ  เตเนว  ตํ  อปณฺฑิโตติ  มฺามิ ฯ  
+<span class="LineNumber"> 008 </span>อิติ โส โพธิสตฺตสฺส อคุณํ กเถสิ ฯ  
+<span class="LineNumber"> 009 </span>	ราชา  ตสฺส  วจนํ  สุตฺวา  อนภินนฺทิตฺวา  อปฏิกฺโกสิตฺวา 
+<span class="LineNumber"> 010 </span>ตสฺส  จ  เตน  สทฺธึ  อาคตานฺจ  ปริพฺพยณเจว  นิวาสนเคหฺจ 
+<span class="LineNumber"> 011 </span>ทาเปตฺวา  คจฺฉถ  อาจริย  วิสมถาติ  ตํ  อุยฺโยเชตฺวา  จินฺเตสิ  
+<span class="LineNumber"> 012 </span>มม  ปุตฺโต  ปณฺฑิโต  ปฏิสนฺถารกุสโล  อิมินา  กิร  สทฺธึ  เนว 
+<span class="LineNumber"> 013 </span>ปฏิสนฺถารํ  อกาสิ  น  ตุฏฺ€ึ  ปเวเทสิ  กิฺจิ  เตน  อนาคตภยํ  
+<span class="LineNumber"> 014 </span>ทิฏฺ€ํ  ภวิสฺสตีติ  สยเมว  กถํ สมุฏฺ€เปตฺวา อิมํ คาถมาห  
+<span class="LineNumber"> 015 </span>	[๖๐๕]	อทฺธา อิทํ มนฺตปทํ สุทุทฺทสํ  
+<span class="LineNumber"> 016 </span>			อตฺโถ สุทฺโธ นรวิริเยน (๔) ทิฏฺโ€  
+<span class="LineNumber"> 017 </span>			ตถา หิ กาโย มม สมฺปเวธติ  
+<span class="LineNumber"> 018 </span>			หิตฺวา สยํ โก ปรหตฺถเมสฺสตีติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  อิทนฺติ  ยํ  มม  ปุตฺเตน  ทิฏฺ€ํ  อทฺธา  อิทํ มนฺตปทํ 
+<span class="LineNumber"> 020 </span># ๑. ส. ม. อสมฺโมทโก ฯ  ๒. ส. ม. ยถามูโค จ พธิโร จ ฯ
+<span class="LineNumber"> 021 </span># ๓. ส. ม. ยุ. น กิฺจิตฺถํ อภาสถาติ ฯ  ๔. ส. นรวีเรน ฯ

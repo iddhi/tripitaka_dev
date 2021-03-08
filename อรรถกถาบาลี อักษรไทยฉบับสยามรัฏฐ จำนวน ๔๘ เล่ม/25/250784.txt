@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ติกนิปาตวณฺณนา  หน้า  784
+	
+<span class="LineNumber"> 002 </span>		สเทวมานุสา สพฺเพ	สทานวา สรกฺขสา  
+<span class="LineNumber"> 003 </span>		อโยมเยน กูเฏน		สิรํ ภินฺเทยฺยุ เม สทา ฯ  
+<span class="LineNumber"> 004 </span>		อุทเก  อคฺคิ น สณฺ€าติ	วีชํ เสเล น รูหติ  
+<span class="LineNumber"> 005 </span>		อคเท กิมิ น สณฺ€าติ	โกโป พุทฺเธ น ชายติ ฯ  
+<span class="LineNumber"> 006 </span>		ยถา จ ภูมิ อจลา		อปฺปเมยฺโย จ สาคโร  
+<span class="LineNumber"> 007 </span>		อนนฺตโก จ อากาโส	เอวํ พุทฺธา อโขภิยา ฯ (๑)  
+<span class="LineNumber"> 008 </span>		อตฺตทนฺตา (๒) มหาวีรา  ขมิตา จ ตปสฺสิโน  
+<span class="LineNumber"> 009 </span>		ขนฺตานํ ขมิตานํ จ		คมนํ โว (๓) น วิชฺชติ ฯ  
+<span class="LineNumber"> 010 </span>		อิทํ วตฺวาน สมฺพุทฺโธ	ปริฬาหํ วิโนทยิ (๔)  
+<span class="LineNumber"> 011 </span>		มหาชนสฺส ปุรโต		นภํ อพฺภุคฺคมี ตทา ฯ  
+<span class="LineNumber"> 012 </span>		เตน กมฺเมนหํ วีร (๕)	หีนตฺตํ อชฺฌุปาคโต  
+<span class="LineNumber"> 013 </span>		สมติกฺกมฺม ตํ ชาตึ	ปาวิสึ อภยํ ปุรํ ฯ  
+<span class="LineNumber"> 014 </span>		ตทาปิ  มํ มหาวีร		ฑยฺหมานํ สุสณฺ€ิตํ (๖)  
+<span class="LineNumber"> 015 </span>		ปริฬาหํ วิโนเทสิ		สยมฺภภ จ ขมาปยึ ฯ  
+<span class="LineNumber"> 016 </span>		อชฺชาปิ มํ มหาวีร		ฑยฺหมานํ ติหคฺคิภิ  
+<span class="LineNumber"> 017 </span>		นิพฺพาปเย(๗) ตโย อคฺคี	สีติภาวฺจ ปาปยึ ฯ  
+<span class="LineNumber"> 018 </span>		เยสํ โสตาวธานตฺถิ (๘)	สุณาถ มม ภาสโต  
+<span class="LineNumber"> 019 </span>		อตฺถํ ตุยฺหํ ปวกฺขามิ	ยถา ทิฏฺ€ํ ปทํ มมํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ยุ. พุทฺโธ อโขภิโย ฯ  ๒. ม. ยุ. สทา ขนฺตา ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. ขมนํ โว ฯ ม. ตํ ฯ  โปราณ. เต ฯ ๔. ม.  วิโนทยํ ฯ
+<span class="LineNumber"> 022 </span># ๕. ยุ. ธีร ฯ  ๖. โปราณ. สเข €ิตํ ฯ  ๗. สฺยา. ม. นิพฺพาเปสิ ฯ 
+<span class="LineNumber"> 023 </span># ๘. สี.  โสตปถา อตฺถิ ฯ  โปราณ. สํสาเร  สสฺสตา นตฺถิ ฯ 

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  70
+
+<span class="LineNumber"> 002 </span>นิยาเมน  รชฺชํ  กาเรตุํ  วฏฺฏตีติ  มาตุลสฺส  ราชธมฺมํ(๑)  เทเสสิ ฯ  
+<span class="LineNumber"> 003 </span>อถ  นํ  สุทสฺสโน  อาห  มาตุล  มม  มาตา  ภูริตตฺตํ  อปสฺสนฺตี  
+<span class="LineNumber"> 004 </span>กิลมติ  น  สกฺกา  อมฺเหหิ  ปปฺจํ  กาตุนฺติ ฯ  สาธุ  ตาต(๒)
+<span class="LineNumber"> 005 </span>ตุมฺเห  ตาว  คจฺฉถ  อหํ  ปน  มม  ภคินึ  ทฏฺ€ุกาโม  
+<span class="LineNumber"> 006 </span>กถํ  ตํ  ปสฺสิสามีติ ฯ  มาตุล  กุหึ  ปน  โน  อยฺยโก  
+<span class="LineNumber"> 007 </span>กาสิกราชาติ ฯ  ตาต  มม  ภคินิยา  วินา  วสิตุํ อสกฺโกนฺโต  
+<span class="LineNumber"> 008 </span>รชฺชํ  ปหาย  ปพฺพชิโต  อสุกวนสณฺเฑ  นาม  วสตีติ ฯ  มาตุล
+<span class="LineNumber"> 009 </span>มม  มาตา  ตุมฺเห  จ  อยฺยกฺจ  เม  ทฏฺ€ุกามา  ตุมฺเห  อสุกทิวเส  
+<span class="LineNumber"> 010 </span>มม  อยฺยกสฺส  สนฺติกํ  คจฺฉถ  มยํ  มาตรํ  อาทาย  อยฺยกสฺส  
+<span class="LineNumber"> 011 </span>อสฺสมปทํ  อาคจฺฉิสฺสาม  ตตฺเถว  นํ  ตุมฺเหปิ  ปสฺสิสฺสถาติ ฯ 
+<span class="LineNumber"> 012 </span>อิติ เต  มาตุลสฺส  ทิวสํ  ววฏฺ€เปตฺวา  ราชนิเวสนา  โอตรึสุ ฯ 
+<span class="LineNumber"> 013 </span>ราชา  ภาคิเนยฺเย  อุยฺโยเชตฺวา  โรทิตฺวา  นิวตฺติ ฯ  เต(๓) ป€วิยํ 
+<span class="LineNumber"> 014 </span>นิมุชฺชิตฺวา  นาคภวนํ คตา ฯ  
+<span class="LineNumber"> 015 </span>		นาจคเวสนกณฺฑํ(๔) นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 016 </span>	มหาสตฺเต  นาคภวนํ  สมฺปตฺเต  สกลนาคภวนํ 
+<span class="LineNumber"> 017 </span>เอกปริเทวนสทฺทํ  อโหสิ ฯ  โสปิ  มาสมตฺตํ  เปฬาย  วสิตตฺตา
+<span class="LineNumber"> 018 </span>กิลมนฺโต  คิลานเสยฺยํ  สยิ ฯ  ตสฺส  สนฺติกํ  อาคจฺฉนฺตานํ  
+<span class="LineNumber"> 019 </span>นาคานํ  ปมาณํ  นตฺถิ ฯ  โส  เตหิ  สทฺธึ  กเถนฺโต  
+<span class="LineNumber"> 020 </span>กิลมติ ฯ  กาณาริฏฺโ€  เทวโลกํ  คนฺตฺวา  มหาสตฺตํ  อทิสฺวา 
+<span class="LineNumber"> 021 </span># ๑. ม. ธมฺมํ ฯ  ๒. ม. ตาตา ฯ  ๓. ม. เตปิ ฯ 
+<span class="LineNumber"> 022 </span># ๔. นครปเวสนขณฺฑํ นิฏฺ€ิตํ ฯ

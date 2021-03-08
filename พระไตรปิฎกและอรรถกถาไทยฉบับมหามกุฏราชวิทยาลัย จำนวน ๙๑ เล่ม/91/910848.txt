@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                <H2>๑. นเหตุปัจจัย</H2> 
+<span class="LineNumber"> 003 </span>           [๙๐๐] ๑.  <B>ธรรมที่ไม่ใช่สเหตุกธรรม     ที่ไม่ใช่นเหตุธรรม   
+<span class="LineNumber"> 004 </span>อาศัยสเหตุกธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+
+<span class="LineNumber"> 005 </span>                 <H2>การนับจำนวนวาระในปัจจนียะ</H2>	
+<span class="LineNumber"> 006 </span>           [๙๐๑]  ในนเหตุปัจจัย  มี ๑ วาระ  ในนอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 007 </span>ฯลฯ  ในโนวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>           สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 009 </span>                                     <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 010 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>                                       <H2>สเหตุกบท</H2>
+<span class="LineNumber"> 013 </span>           [๙๐๒] ๑.  <B>สเหตุกธรรมที่เป็นเหตุธรรม    เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 014 </span>ที่ไม่ใช่สเหตุกธรรม  ที่เป็นนเหตุธรรม  ด้วยอำนาจของเหตุปัจจัย</B>
+
+<span class="LineNumber"> 015 </span>                              <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 016 </span>           [๙๐๓] ๑.  <B>สเหตุกธรรมที่เป็นเหตุธรรม    เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่สเหตุกธรรม   ที่เป็นนเหตุธรรม   ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 018 </span>ปัจจัย</B>

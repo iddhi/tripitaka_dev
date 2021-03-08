@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                   จตุตถสมันตปาสาทิกา
+<span class="LineNumber"> 002 </span>                              [๒๗๕]  จุลลวรรค  วรรณนา
+<span class="LineNumber"> 003 </span>                                   กัมมักขันธก  วรรณนา
+<span class="LineNumber"> 004 </span>                                     [ว่าด้วยตัชชนียกรรม]
+<span class="LineNumber"> 005 </span>	วินิจฉัยในกัมมักขันธกะเป็นที่  ๑  แห่งจุลลวรรค  พึงทราบก่อน
+<span class="LineNumber"> 006 </span>ดังนี้  :-
+<span class="LineNumber"> 007 </span>	บทว่า  <B>ปณฺฑุกโลหิตกา</B>  ได้แก่  ชน  ๒  ในพวกฉัพพัคคีย์  คือ
+<span class="LineNumber"> 008 </span>ปัณฑุกะ  ๑  โลหิตกะ  ๑.  แม้นิสิตทั้งหลายของเธอทั้ง  ๒  ก็ปรากฏ
+<span class="LineNumber"> 009 </span>ชื่อว่า  ปัณฑุกะ  และ  โลหิตกะ  เหมือนกัน.
+<span class="LineNumber"> 010 </span>	สามบทว่า  <B>พลวา  พลวํ  ปฏิมนฺเตถ</B>  มีความว่า   ท่านทั้งหลาย
+<span class="LineNumber"> 011 </span>จงโต้ตอบให้ดี  ให้แข็งแรง.
+<span class="LineNumber"> 012 </span>	บทว่า  <B>อลมตฺถตรา  จ</B>  คือเป็นผู้สามารถกว่า.
+<span class="LineNumber"> 013 </span>	ในองค์  ๓  มี  <B>อสมฺมุขา  กตํ</B>   เป็นต้น  มีความว่า  กรรมที่ทำ
+<span class="LineNumber"> 014 </span>คือ  ฟ้องร้องไม่พร้อมหน้าสงฆ์   ธรรมวินัย  และบุคคล,  ไม่สอบถามก่อน
+<span class="LineNumber"> 015 </span>ทำ,  ทำด้วยไม่ปฏิญญาแห่งบุคคลนั้นแล.
+<span class="LineNumber"> 016 </span>	บทว่า  <B>อเทสนาคามินิยา</B>  ได้แก่   ทำด้วยอาบัติปาราชิก   หรือ
+<span class="LineNumber"> 017 </span>สังฆาทิเสส.

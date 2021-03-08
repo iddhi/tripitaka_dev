@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๒๑.  อัตถิปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           [๒๑๔] ๑.  <B>สนิทัสสนธรรม     เป็นปัจจัยแก่อนิทัสสนธรรม
+<span class="LineNumber"> 003 </span>ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 004 </span>           คือ  บุคคลพิจารณาเห็นรูปที่เป็นสนิทัสสนธรรม   โดยความเป็นของ
+<span class="LineNumber"> 005 </span>ไม่เที่ยง ฯลฯ   โทมนัส   ย่อมเกิดขึ้น.
+<span class="LineNumber"> 006 </span>           บุคคลเห็นรูปด้วยทิพยจักษุ.
+<span class="LineNumber"> 007 </span>           รูปายตนะ   เป็นปัจจัยแก่จักขุวิญญาณ  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 008 </span>                     ๒.  <B>อนิทัสสนธรรม    เป็นปัจจัยแก่อนิทัสสนธรรม
+<span class="LineNumber"> 009 </span>ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 010 </span>           มี ๕ อย่าง  คือที่เป็น  <B>สหชาตะ  ปุเรชาตะ  ปัจฉาชาตะ  อาหาระ</B>
+<span class="LineNumber"> 011 </span>และ   <B>อินทริยะ</B>
+<span class="LineNumber"> 012 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 013 </span>           ขันธ์ ๑    ที่เป็นอนิทัสสนธรรม    เป็นปัจจัยแก่  ขันธ์ ๓    และจิตต-
+<span class="LineNumber"> 014 </span>สมุฏฐานรูปทั้งหลาย    ที่เป็นอนิทัสสนธรรม    ด้วยอำนาจของอัตถิปัจจัย ฯลฯ
+<span class="LineNumber"> 015 </span>ขันธ์ ๒ ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 016 </span>           ที่เป็น   <B>ปุเรชาตะ</B>   ได้แก่
+<span class="LineNumber"> 017 </span>           บุคคลพิจารณาเห็นจักษุ ฯลฯ   หทยวัตถุ   โดยความเป็นของไม่เที่ยง
+<span class="LineNumber"> 018 </span>ฯลฯ  โทมนัส  ย่อมเกิดขึ้น.
+<span class="LineNumber"> 019 </span>           บุคคลฟังเสียงด้วยทิพโสตธาตุ.
+<span class="LineNumber"> 020 </span>           สัททายตนะ  เป็นปัจจัยแก่โสตวิญญาณ  ฯลฯ  โผฏฐัพพายตนะ   เป็น
+<span class="LineNumber"> 021 </span>ปัจจัยแก่กายวิญญาณ. 
+

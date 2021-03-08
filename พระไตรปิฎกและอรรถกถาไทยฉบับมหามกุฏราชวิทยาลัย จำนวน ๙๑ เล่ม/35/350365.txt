@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                       <h1>อรรถกถาทุติยกาลสูตร</h1>   
+<span class="LineNumber"> 002 </span>            พึงทราบวินิจฉัยในทุติยกาลสูตรที่  ๗  ดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>            บทว่า   <B>กาลา</B>  นั่นเป็นชื่อแห่งกุศลธรรมที่เป็นไปด้วยอำนาจการฟัง
+<span class="LineNumber"> 004 </span>ธรรมเป็นต้นในกาลนั้น   ๆ กาลเหล่านั้น    จักแจ่มชัด   และจักเป็นไป.   บทว่า
+<span class="LineNumber"> 005 </span><B>อาสวานํ   ขยํ</B>  ได้แก่ พระอรหัต.
+<span class="LineNumber"> 006 </span>            	          <I>จบอรรถกถาทุติยกาลสูตรที่ ๗</I>
+<span class="LineNumber"> 007 </span>                          <h1>๘.   ปฐมจริตสูตร</h1>
+<span class="LineNumber"> 008 </span>                                 <H2>ว่าด้วยวจีทุจริต  ๔</H2>
+<span class="LineNumber"> 009 </span>            [๑๔๘]    ดูก่อนภิกษุทั้งหลาย  วจีทุจริต ๔ นี้  ฯลฯ  คือ
+<span class="LineNumber"> 010 </span>    	<B>มุสาวาโท</B>            	พูดเท็จ
+<span class="LineNumber"> 011 </span>   	<B>ปิสุณา  วาจา</B>        	พูดส่อเสียด
+<span class="LineNumber"> 012 </span>      	<B>ผรุสา  วาจา</B>          	พูดคำหยาบ
+<span class="LineNumber"> 013 </span>	<B>สมฺผปฺปลาโป</B>       	พูดเหลวไหล
+<span class="LineNumber"> 014 </span>            ภิกษุทั้งหลาย   นี้แล  วจีทุจริต   ๔.
+<span class="LineNumber"> 015 </span>                                    <I>จบปฐมจริตสูตรที่  ๘</I>
+<span class="LineNumber"> 016 </span>            ปฐมจริตสูตรที่  ๘  ง่ายทั้งนั้น.

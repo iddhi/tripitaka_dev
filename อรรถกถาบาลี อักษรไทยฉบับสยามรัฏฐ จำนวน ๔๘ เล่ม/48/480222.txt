@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48    หน้า 222
+
+<span class="LineNumber"> 002 </span>		อริยปุคฺคลสํสนฺทนปริหานิวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  อริยปุคฺคลสํสนฺทนา  อารทฺธา ฯ  ตตฺถ  ยสฺมา
+<span class="LineNumber"> 004 </span>เกจิ  อรหโตว  ปริหานึ  อิจฺฉนฺติ  เกจิ  อนาคามิโนปิ  เกจิ 
+<span class="LineNumber"> 005 </span>สกทาคามิโนปิ ฯ (๑) โสตาปนฺนสฺส ปน สพฺเพปิ  น  อิจฺฉนฺติเยว ฯ 
+<span class="LineNumber"> 006 </span>เย  อรหตฺตา  ปริหายิตฺวา อนาคามิสกทาคามิภูมิภาเว (๒) €ิตา
+<span class="LineNumber"> 007 </span>เตสํ  ปริหานึ  อิจฺฉนฺติ  น  อิตเรสํ  อนาคามิสกทาคามีนํ ฯ
+<span class="LineNumber"> 008 </span>โสตาปนฺนสฺส ปน  เตปิ  สพฺพทาปิ  (๓)  น  อิจฺฉนฺติเยว  ตสฺมา
+<span class="LineNumber"> 009 </span>เปยฺยาลมุเขน ปุจฺฉา กตา ฯ ตตฺถ  เตสํ  ลทฺธิวเสน  ปฏิฺา 
+<span class="LineNumber"> 010 </span>จ  ปฏิกฺเขโป  จ  เวทิตพฺพา ฯ  ปริหายติ  อนาคามี  อนาคามิ-
+<span class="LineNumber"> 011 </span>ผลาติ  หิ  ปฺหสฺมึ  เย  อนาคามิโน  ปริหานึ  น  อิจฺฉนฺติ 
+<span class="LineNumber"> 012 </span>เตสํ  วเสน ปฏิกฺเขโป ฯ  เย  ปกติอนาคามิโน  วา  อรหตฺตา
+<span class="LineNumber"> 013 </span>ปริหายิตฺวา  €ิตอนาคามิโน  วา  ปริหานึ  อิจฺฉนฺติ  เตสํ  วเสน
+<span class="LineNumber"> 014 </span>ปฏิฺาติ  อิทเมตฺถ  นยมุขํ ฯ  ตสฺสานุสาเรน สพฺพเปยฺยาลา
+<span class="LineNumber"> 015 </span>อตฺถโต เวทิตพฺพา ฯ 
+<span class="LineNumber"> 016 </span>	ยํ  ปเนตฺถ  โสตาปตฺติผลสฺส  อนนฺตรา  อรหตฺตํเยว
+<span class="LineNumber"> 017 </span>สจฺฉิกโรตีติ  วุตฺตํ  ตํ  ปริหีนสฺส ปุน วายมโต อรหตฺตุปฺปตฺตึ (๔)
+<span class="LineNumber"> 018 </span>สนฺธาย วุตฺตํ ฯ อิตโร ตํ (๕) โสตาปตฺติผลานนฺตรํ อรหตฺตสฺส
+<span class="LineNumber"> 019 </span>อภาวา ปฏิกฺขิปติ ฯ 
+<span class="LineNumber"> 020 </span># ๑. ม. สกทาคามิสฺสปิ ฯ ๒. ม. อนาคามิสกทาคามิภาเว ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. สพฺพตฺถาปิ ฯ  ๔. ม. อรหตฺตปฺปตฺตึ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. อยํ ปาโ€ นตฺถิ ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  ทสกนิปาตวณฺณนา  หน้า  559
+		
+<span class="LineNumber"> 002 </span>		อมชฺชปาเณปิ(๑) มุสา ภณาม  
+<span class="LineNumber"> 003 </span>		ตสฺมา หิ อมฺหํ ทหรา น มิยฺยเร ฯ  
+<span class="LineNumber"> 004 </span>	[๑๔๑๗]เอตาสุ เว ชายเร สุตฺตมาสุ  
+<span class="LineNumber"> 005 </span>		เมธาวิโน โหนฺติ พหุตฺตปฺา  
+<span class="LineNumber"> 006 </span>		พหุสฺสุตา เวทคุนา(๒) จ โหนฺติ  
+<span class="LineNumber"> 007 </span>		ตสฺมา หิ อมฺหํ ทหรา น มิยฺยเร ฯ  
+<span class="LineNumber"> 008 </span>	[๑๔๑๘]มาตา ปิตา ภคินี ภาตโร จ (๓) 
+<span class="LineNumber"> 009 </span>		ปุตฺตา จ ทารา จ มยฺจ สพฺเพ  
+<span class="LineNumber"> 010 </span>		ธมฺมํ จราม ปรโลกเหตุ  
+<span class="LineNumber"> 011 </span>		ตสฺมา หิ อมฺหํ ทหรา น มิยฺยเร ฯ  
+<span class="LineNumber"> 012 </span>	[๑๔๑๙]ทาสา จ ทาสี (๔) อนุชีวิโน จ  
+<span class="LineNumber"> 013 </span>		ปริจาริกา กมฺมกรา จ สพฺเพ  
+<span class="LineNumber"> 014 </span>		ธมฺมํ จรนฺติ ปรโลกเหตุ  
+<span class="LineNumber"> 015 </span>		ตสฺมา หิ อมฺหํ ทหรา น มิยฺยเรติ  
+<span class="LineNumber"> 016 </span>อิมา คาถา อาห ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  ธมฺมฺจรามาติ  ทสกุสลกมฺมปถธมฺมํ  จราม  ฯ 
+<span class="LineNumber"> 018 </span>อตฺตโน  ชีวิตเหตุ  อนฺตมโส  กุนฺถกิปิลฺลิกมฺปิ  ชีวิตา  น
+<span class="LineNumber"> 019 </span>โวโรเปม  ปรภณฺฑฺจ  โลภจิตฺเตน  น  โอโลเกมาติ  สพฺพํ 
+<span class="LineNumber"> 020 </span># ๑. ม. อมชฺชปา โนปิ ฯ  ๒. ม. เวทคุโน ฯ  ๓. ส. มาตาปิตโร 
+<span class="LineNumber"> 021 </span># ภคินีภาตโร จ ฯ  ม. มาตา ปิตา จ ภคินี ภาตโร จ ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. ทาโสฺย ฯ สี. ยุ. ทาสฺโส ฯ 

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๕  ปายาสิราชฺสุตฺตวณฺณนา  หน้า  ๖๙๕
+		
+<span class="LineNumber"> 002 </span>จ  กนฺทรา  จ ฯ  โยคฺคานีติ  พลิพทฺเธ ฯ  
+<span class="LineNumber"> 003 </span>	พหุนิกฺขนฺตโรติ  พหุนิกฺขนฺโต ฯ  จิรนิกฺขนฺโตติ  อตฺโถ ฯ  
+<span class="LineNumber"> 004 </span>ยถาภเตน  ภณฺเฑนาติ  ยํ  โว  ติณกฏฺโ€ทกภณฺฑํ  อาโรปิตํ ฯ 
+<span class="LineNumber"> 005 </span>เตน  ยถาภเตน  ยถาโรปิเตน ฯ  ยถาคหิเตน  วาติ  อตฺโถ ฯ  
+<span class="LineNumber"> 006 </span>	อปฺปสารานีติ  อปฺปคฺฆานิ ฯ  ปณิยานีติ  ภณฺฑานิ ฯ  
+
+<span class="LineNumber"> 007 </span>		คูถภาริกูปมาวณฺณนา  
+<span class="LineNumber"> 008 </span>	มม  จ(๑)  สูกรภตฺตนฺติ(๒)  มม  จ  สูกรานํ  อิทํ  ภตฺตํ ฯ  
+<span class="LineNumber"> 009 </span>อุคฺฆรนฺตนฺติ  อุปริ  ฆรนฺตํ ฯ  ปคฺฆรนฺตนฺติ  เหฏฺ€า  ปริสฺส-
+<span class="LineNumber"> 010 </span>วนฺตํ ฯ  ตุเมฺห  เขฺวตฺถ  ภเณติ  ตุเมฺห  โย  เอตฺถ  ภเณ ฯ 
+<span class="LineNumber"> 011 </span>อยเมว  วา  ปาโ€ ฯ  ตถาหิ  ปน  เม  สูกรภตฺตนฺติ  ตถาหิ  
+<span class="LineNumber"> 012 </span>ปน  เม  อยํ  คูโถ  สูกรานํ  ภตฺตํ ฯ  
+<span class="LineNumber"> 013 </span>	อาคตาคตํ  กลินฺติ  อาคตาคตํ  ปราชยคุลํ  คิลติ ฯ  
+<span class="LineNumber"> 014 </span>ปโชหิสฺสามีติ(๓)  ปโชหนํ  กริสฺสามิ ฯ  พลิกมฺมํ  กริสฺสามีติ อตฺโถฯ  
+<span class="LineNumber"> 015 </span>อกฺเขหิ  ทิพฺพิสฺสามาติ คุเลหิ  กีฬิสฺสาม  (๔)  ปาสเกหิ กีฬิสฺสามฯ(๔)
+<span class="LineNumber"> 016 </span>ลิตฺตํ  ปรเมน  เตชสาติ  ปรมเตเชน  วิเสน  ลิตฺตํ ฯ  
+<span class="LineNumber"> 017 </span>	คามปชฺชนฺติ  (๕) วุฏฺ€ิตคามเทโส  วุจฺจติ ฯ คามปทนฺติปิ ปาโ€ฯ  
+<span class="LineNumber"> 018 </span>อยเมว  อตฺโถ ฯ  สาณภารนฺติ  สาณวากภารํ ฯ  สุสนฺนทฺโธติ  
+<span class="LineNumber"> 019 </span>#  ๑.  สฺยา.  จสทฺโท  นตฺถิ ฯ  ๒.  สฺยา.  สูกรานํ  ภกฺโขติ ฯ  
+<span class="LineNumber"> 020 </span>๓.  สฺยา.  ปโชหริสฺสามีติ ฯ ม.  ปชฺโชหิสฺสามีติ ฯ  
+<span class="LineNumber"> 021 </span>๔.  ม.  อิเม  ปา€า  นตฺถิ ฯ  ๕.  ม.  คามปฏฺฏนฺติ ฯ

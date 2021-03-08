@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  42  พุทฺธาปทานวณฺณนา  หน้า  213
+
+<span class="LineNumber"> 002 </span>		ตโตหํ อวจํ สิสฺเส   กามโภคี อยํ อิสิ  
+<span class="LineNumber"> 003 </span>		มยฺหมฺปิ ภาสมานสฺส   อนุโมทึสุ มาณวา ฯ  
+<span class="LineNumber"> 004 </span>		ตโต มาณวกา สพฺเพ  ภิกฺขมานา(๑) กุเล กุเล  
+<span class="LineNumber"> 005 </span>		มหาชนสฺส อาหํสุ   กามโภคี อยํ อิสิ ฯ  
+<span class="LineNumber"> 006 </span>		เตน กมฺมวิปาเกน   ปฺจภิกฺขุสตา อิเม  
+<span class="LineNumber"> 007 </span>		อพฺภกฺขานํ ลภุํ สพฺเพ  สุนฺทริกาย การณาติ ฯ(๒)  
+<span class="LineNumber"> 008 </span>	ปฺจมปเฺห  สิลาเวโธติ  อาหตจิตฺโต  สิลํ  ปวิชฺฌิ ฯ  
+<span class="LineNumber"> 009 </span>อตีเต  กิร  โพธิสตฺโต  จ  กนิฏฺ€ภาตา  จ  เอกปิตุปุตฺตา  
+<span class="LineNumber"> 010 </span>อเหสุํ ฯ  เต  ปิตุ อจฺจเยน ทาเส(๓)  ปฏิจฺจ  กลหํ  กโรนฺตา  
+<span class="LineNumber"> 011 </span>อฺมฺํ  วิรุทฺธา  อเหสุํ  โพธิสตฺโต  อตฺตโน  พลวภาเวน  
+<span class="LineNumber"> 012 </span>กนิฏฺ€ภาตรํ  อชฺโฌตฺถริตฺวา  ตสฺสุปริ  ปาสาณํ  ปวิชฺเฌสิ ฯ  
+<span class="LineNumber"> 013 </span>โส  เตน  กมฺมวิปาเกน  นรกาทีสุ  อเนกวสฺสสหสฺสานิ  ทุกฺข-
+<span class="LineNumber"> 014 </span>มนุภวิตฺวา อิมสฺมึ ปจฺฉิมตฺตภาเว  พุทฺโธ  ชาโต ฯ  เทวทตฺโต  
+<span class="LineNumber"> 015 </span>ราหุลกุมารสฺส  มาตุโล  ปุพฺเพ  เสริวาณิชกาเล  โพธิสตฺเตน  
+<span class="LineNumber"> 016 </span>สทฺธึ  วาณิโช  อโหสิ  เต  เอกํ  ปฏฺฏนคามํ  ปตฺวา  ตฺวํ  
+<span class="LineNumber"> 017 </span>เอกวีถึ  คณฺหาหิ  อหมฺปิ  เอกวีถึ  คณฺหามีติ  เทฺวปิ  ปวิฏฺ€า ฯ  
+<span class="LineNumber"> 018 </span>เตสุ  เทวทตฺตสฺส  ปวิฏฺ€วีถิยํ  ชิณฺณเสฏฺ€ีภริยา  จ  นตฺตา  
+<span class="LineNumber"> 019 </span>จ  เทฺวเยว  อเหสุํ  เตสํ  มหนฺตํ  สุวณฺณถาลกํ  มลคฺคหิตํ  
+<span class="LineNumber"> 020 </span>ภาชนนฺตเร  €ปิตํ  โหติ  ตํ  สุวณฺณถาลกภาวํ  อชานนฺตี  อิมํ  
+<span class="LineNumber"> 021 </span># ๑ ม. ภิกฺขมานํ ฯ  ๒ ขุ. อป. ๓๒/๓๙๒/๔๗๒ ฯ  
+<span class="LineNumber"> 022 </span># ๓ สี. ยุ. ธเน ทาเส จ ฯ  

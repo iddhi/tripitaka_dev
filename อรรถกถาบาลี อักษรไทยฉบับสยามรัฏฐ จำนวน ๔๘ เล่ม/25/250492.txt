@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  492
+	
+<span class="LineNumber"> 002 </span>		มยิ(๑) นิกฺขนฺตมตฺตมฺหิ	กุจฺฉิยา (๒) จ สุทุตฺตรา  
+<span class="LineNumber"> 003 </span>		ตตฺราปิ มธุวสฺสํ(๓) เม	วสฺสเต นิจฺจกาลิกํ ฯ  
+<span class="LineNumber"> 004 </span>		อคารา อภินิกฺขมฺม	ปพฺพชึ อนคาริยํ  
+<span class="LineNumber"> 005 </span>		ลาภี อนฺนสฺส ปานสฺส	มธุทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 006 </span>		สพฺพกามสมิทฺโธหํ	ภวิตฺวา (๔) เทวมานุเส  
+<span class="LineNumber"> 007 </span>		เตเนว มธุทาเนน		ปตฺโตมฺหิ อาสวกฺขยํ ฯ  
+<span class="LineNumber"> 008 </span>		วุฏฺ€มฺหิ เทเว จตุรงฺคุเล ติเณ  
+<span class="LineNumber"> 009 </span>		สมฺปุปฺผิเต(๕) ธรณีรุเห สฺฉนฺเน (๖)  
+<span class="LineNumber"> 010 </span>		สุฺเ ฆเร มณฺฑปรุกฺขมูลเก  
+<span class="LineNumber"> 011 </span>		วสามิ นิจฺจํ สุขิโต อนาสโว ฯ  
+<span class="LineNumber"> 012 </span>		มชฺเฌ มหนฺเต หีเน จ	ภเว สพฺเพ อติกฺกมึ(๗)  
+<span class="LineNumber"> 013 </span>		อชฺช เม อาสวา ขีณา	นตฺถิ ทานิ ปุนพฺภโว ฯ  
+<span class="LineNumber"> 014 </span>		ตึสกปฺปสหสฺสมฺหิ		ยํ ทานมททึ ตทา  
+<span class="LineNumber"> 015 </span>		ทุคฺคตึ นาภิชานามิ	มธุทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 016 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 017 </span>	อยเมว จ เถรสฺส อฺาพฺยากรณคาถา อโหสีติ ฯ  
+<span class="LineNumber"> 018 </span>		มหานามตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 019 </span># ๑. สฺยา. มม ฯ  ๒. สฺยา. สี. กุมฺภิยา ฯ  ๓. สฺยา. มธุวสฺโส ฯ 
+<span class="LineNumber"> 020 </span># ๔. สี. ภุตฺวาน ฯ ๕. สฺยา. สุปุปฺผิเต ฯ ๖. สฺยา. วปฺปเทเส ฯ 
+<span class="LineNumber"> 021 </span># ยุ. จ ฉปฺปเท ฯ  ๗. สฺยา. มชฺเฌ มยฺหํ ภวา อสฺสุ เย ภเว สมติกฺกมึ ฯ 

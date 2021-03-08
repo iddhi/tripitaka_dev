@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>ให้จีวรเป็นต้น</H2>  
+<span class="LineNumber"> 002 </span>                            [๑,๒๗๔]  <B>ถามว่า    จีวรควรให้แก่ 
+<span class="LineNumber"> 003 </span>                   บุคคลในศาสนานี้  ผู้จำพรรษาแล้วกี่พวก
+<span class="LineNumber"> 004 </span>                   เมื่อมีผู้รับแทนควรให้แก่บุคคลกี่พวก  และ
+<span class="LineNumber"> 005 </span>                   ไม่ควรให้แก่บุคคลกี่พวก
+<span class="LineNumber"> 006 </span>                             ตอบว่า  จีวรควรให้แก่สหธรรมิก ๕
+<span class="LineNumber"> 007 </span>                   ในศาสนานี้ ผู้จำพรรษาแล้ว  เมื่อมีผู้รับแทน
+<span class="LineNumber"> 008 </span>                   ควรให้แก่บุคคล  ๗  พวก    ไม่ควรให้แก่
+<span class="LineNumber"> 009 </span>                   บุคคล  ๑๖  พวก.</B>
+
+<span class="LineNumber"> 010 </span>                                     <H2>ภิกษุอยู่ปริวาส</H2>
+<span class="LineNumber"> 011 </span>                             [๑,๒๗๕]  <B>ถามว่า  ชั่ว  ๑๐๐  ราตรี
+<span class="LineNumber"> 012 </span>                   ภิกษุอยู่ปริวาสปิดอาบัติไว้กี่ร้อย    ต้องอยู่
+<span class="LineNumber"> 013 </span>                   ปริวาสกี่ราตรีจึงจะพ้น
+<span class="LineNumber"> 014 </span>                             ตอบว่า   ชั่ว  ๑๐๐  ราตรี  ภิกษุอยู่
+<span class="LineNumber"> 015 </span>                   ปริวาสปิดอาบัติไว้  ๑๐  ร้อยราตรี  ต้องอยู่
+<span class="LineNumber"> 016 </span>                   ปริวาส ๑๐  ราตรึ  จึงจะพ้น.</B>
+
+<span class="LineNumber"> 017 </span>                                        <H2>โทษแห่งกรรม</H2>
+<span class="LineNumber"> 018 </span>                             [๑,๒๗๖]  <B>ถามว่า     โทษแห่งกรรม
+<span class="LineNumber"> 019 </span>                   อันพระพุทธเจ้าผู้เป็นเผ่าแห่งพระราชาผู้สูง</B>

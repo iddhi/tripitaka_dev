@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๒๑๒]  ในเหตุปัจจัย  มี ๙ วาระ  ในปัจจัยทั้งปวง  มี  ๙  วาระ.
+<span class="LineNumber"> 003 </span>                               <I>นเหตุทุกนเวทนาติกะ  จบ</I>
+ 
+<span class="LineNumber"> 004 </span>                                    <H1>นเหตุทุกนวิปากติกะ</H1>
+<span class="LineNumber"> 005 </span>                   <H2>(๑.  นเหตุทุกะ  ๓. นวิปากติกะ)</H2>
+<span class="LineNumber"> 006 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 007 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>	[๒๑๓]  ๑.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่วิปากธรรม  ที่เป็นนเหตุ-
+<span class="LineNumber"> 010 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 011 </span>                       ๒.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่วิปากธัมมธรรม  ที่เป็น
+<span class="LineNumber"> 012 </span>นเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 013 </span>                       ๓.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่เนววิปากนวิปากธัมม-
+<span class="LineNumber"> 014 </span>ธรรม  ที่เป็นนเหตุธรรม  ฯลฯ</B>
+<span class="LineNumber"> 015 </span>                                   <I>นเหตุทุกนวิปากติกะ  จบ</I>			

@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>*เล่มที่ 39  โมฆราชมาณวสุตฺตนิทฺเทสวณฺณนา  หน้า 371
+
+<span class="LineNumber"> 002 </span>ป€มมคฺควชฺฌาติ เวทิตพฺพา ฯ  
+<span class="LineNumber"> 003 </span>	อารฺิโกติ  อรฺเ  นิวาสี ฯ  (๑)  ปวเนติ  มหนฺเต
+<span class="LineNumber"> 004 </span>คมฺภีรวเน ฯ  จรมาโนติ  ตหึ  ตหึ  วิจรมาโน ฯ  วิสฺสตฺโถ 
+<span class="LineNumber"> 005 </span>คจฺฉตีติ  นิพฺภโย  นิราสงฺโก  จรติ ฯ  อนาปาถคโต ลุทฺทสฺสาติ 
+<span class="LineNumber"> 006 </span>มิคลุทฺทสฺส  ปรมฺมุขคโต(๒) ฯ  อนฺตมกาสิ  มารนฺติ  กิเลสมารํ  วา 
+<span class="LineNumber"> 007 </span>เทวปุตฺตมารํ  วา  อนฺตํ  อกาสิ ฯ  อจรํ(๓) วธิตฺวาติ (๔) กิเลสปทํ 
+<span class="LineNumber"> 008 </span>หนฺตฺวา กตฺวา(๔) นาเสตฺวา ฯ   มารจกฺขุอทสฺสนํ(๕)  คโตติ  มารสฺส  
+<span class="LineNumber"> 009 </span>อทสฺสนวิสยํ  ปตฺโต ฯ  อนาปาถคโตติ มารสฺส ปรมฺมุขํ ปตฺโต ฯ
+<span class="LineNumber"> 010 </span>เสสํ สพฺพตฺถ ปากฏเมว ฯ  
+<span class="LineNumber"> 011 </span>	เอวํ  ภควา  อิทมฺปิ  สุตฺตํ  อรหตฺตนิกูเฏเนว  เทเสสิ ฯ
+<span class="LineNumber"> 012 </span>เทสนาปริโยสาเน  จ วุตฺตสทิโสเยว ธมฺมาภิสมโย อโหสีติ ฯ  
+<span class="LineNumber"> 013 </span>		โมฆราชมาณวสุตฺตนิทฺเทสวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 014 </span>				ปณฺณรสมํ ฯ  
+<span class="LineNumber"> 015 </span># ๑. ม. นิวาสํ ฯ  ๒. ม. ปรมฺมุขคโต ฯ ๓. ม. อปทํ ฯ 
+<span class="LineNumber"> 016 </span># ๔. ม. กิเลสปทํ หนฺตฺวา ฯ ๕.ม. มารจกฺขุํ อทสฺสนํ ฯ

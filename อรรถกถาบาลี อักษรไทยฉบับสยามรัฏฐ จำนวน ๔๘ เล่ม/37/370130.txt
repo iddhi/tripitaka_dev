@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  130
+
+<span class="LineNumber"> 002 </span>	ทานานิ เทหิ โกณฺฑฺ		อหึสา สพฺพภูตภพฺยานํ  
+<span class="LineNumber"> 003 </span>	เอส มคฺโค สุคติยา		น จ มคฺโค ปุตฺต ยฺเนาติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  นิรยาเนโสติ  นิรสฺสาทตฺเถน  นิรยานํ  จตุนฺนํ 
+<span class="LineNumber"> 005 </span>อปายานํ  เอโส(๑)  มคฺโค ฯ  โกณฺฑฺาติ  ราชานํ  โคตฺเตน
+<span class="LineNumber"> 006 </span>อาลปติ ฯ  ภูตภพฺยานนฺติ  ภูตานฺจ  ภวิตพฺพสตฺตานฺจ ฯ 
+<span class="LineNumber"> 007 </span>ยฺเนาติ(๒)  เอวรูเปน  ปุตฺตธีตโร มาเรตฺวา ยชนยฺเน 
+<span class="LineNumber"> 008 </span>สคฺคมคฺโค นาม นตฺถิ ฯ  
+<span class="LineNumber"> 009 </span>	ราชา อาห  
+<span class="LineNumber"> 010 </span>[๗๘๙]อาจริยานํ วจนํ(๓)		ฆาติสฺสํ (๔)จนฺทฺจ สุริยฺจ  
+<span class="LineNumber"> 011 </span>	ปตฺเตหิ [๕] ยชิตฺวา ทุจฺจชฺเชหิ  สุคตึ สคฺคํ คมิสฺสามีติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อาจริยานํ  วจนนฺติ  อมฺม  เนสา(๖)  อตฺตโน  มติ  
+<span class="LineNumber"> 013 </span>อาจารสิกฺขาปนกสฺส [๗] เม  กณฺฑหาลาจริยสฺส(๘)  เอตํ  วจนํ  เอสา 
+<span class="LineNumber"> 014 </span>อนุสิฏฺ€ี  ตสฺมา  อหํ  เอเต (๙) ฆาตยิสฺสํ  ทุจฺจชฺเชหิ (๙) ปุตฺเตหิ  ยฺํ 
+<span class="LineNumber"> 015 </span>ยชิตฺวา  สคฺคํ คมิสฺสามีติ ฯ  
+<span class="LineNumber"> 016 </span>	อถสฺส  มาตา  อตฺตโน  วจนํ  คาหาเปตุํ  อสกฺโกนฺตี  
+<span class="LineNumber"> 017 </span>อปคตา ฯ  อถสฺส ปิตา ตํ ปวุตฺตึ สุตฺวา อาคนฺตฺวา นํ ปุจฺฉิ (๑๐)ฯ
+<span class="LineNumber"> 018 </span># ๑. ม. เอส ฯ  ๒. ม. ปุตฺตยฺเนาติ ฯ  ๓. ม. วจนา ฯ 
+<span class="LineNumber"> 019 </span># ๔. ม. ฆาเตสํ ฯ  ๕. ม. เอตฺถนฺตเร ยฺนฺติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 020 </span># ๖. ม. เอตฺถนฺตเร มมาติ ทิสฺสติ ฯ ๗. ม. เอตฺถนฺตเร ปนสทฺโท อตฺถิ ฯ 
+<span class="LineNumber"> 021 </span># ๗. ม. ขณฺฑหาลาจริยสฺส ฯ ๘. ม. ฆาเตสฺสํ ทุจฺจเชหิ ฯ 
+<span class="LineNumber"> 022 </span># ๑๐. ม. ปิตา ตํ ปวตฺตึ ปุจฺฉิ ฯ 

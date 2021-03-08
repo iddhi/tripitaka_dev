@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอัพยากตกิริยาเกิดขึ้น,  ขันธ์ ๑ 
+<span class="LineNumber"> 002 </span>อาศัยขันธ์ ๓ เกิดขึ้น,     ขันธ์ ๒ อาศัยขันธ์ ๒ เกิดขึ้น,    ขันธ์ทั้งหลาย
+<span class="LineNumber"> 003 </span>เป็นอัพยากตกิริยา  อาศัยหทยวัตถุเกิดขึ้น. 
+<span class="LineNumber"> 004 </span>              <B>๔. กุศลธรรม  อาศัยอัพยาตธรรมเกิดขึ้น  เพราะอาเสวน-
+<span class="LineNumber"> 005 </span>ปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ ขันธ์ทั้งหลายที่เป็นกุศล  อาศัยหทยวัตถุเกิดขึ้น. 
+<span class="LineNumber"> 007 </span>              <B>๕. กุศลธรรม  อาศัยอัพยากตธรรมเกิดขึ้น   เพราะ
+<span class="LineNumber"> 008 </span>อาเสวนปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ ขันธ์ทั้งหลายที่เป็นอกุศล  อาศัยหทยวัตถุเกิดขึ้น. 
+<span class="LineNumber"> 010 </span>              <B>๖. กุศลธรรม  อาศัยอกุศลธรรมและอัพยากตธรรมเกิดขึ้น
+<span class="LineNumber"> 011 </span>ฯลฯ</B>
+<span class="LineNumber"> 012 </span>              <B>๗. อกุศลธรรม  อาศัยอกุศลธรรมและอัพยากตธรรมเกิด
+<span class="LineNumber"> 013 </span>ขึ้น  เพราะอาเสวนปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นอกุศล  และหทยวัตถุเกิดขึ้น ฯลฯ
+<span class="LineNumber"> 015 </span> <B>[๒๖๔] ๑. กุศลธรรม อาศัยกุศลธรรมเกิดขึ้น  เพราะกัมมปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นกุศลเกิดขึ้น  มี ๓ วาระ. 
+<span class="LineNumber"> 017 </span>              <B>๔. อกุศลธรรม อาศัยอกุศลธรรมเกิดขึ้น เพราะกัมมปัจจัย
+<span class="LineNumber"> 018 </span>มี ๓ วาระ</B>.
+<span class="LineNumber"> 019 </span>              <B>๗. อัพยากตธรรม  อาศัยอัพยากตธรรมเกิดขึ้น  เพราะ
+<span class="LineNumber"> 020 </span>กัมมปัจจัย</B>.
+
+

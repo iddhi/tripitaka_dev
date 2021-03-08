@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                     <h1> ๒.  กินททสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                             <H1>ว่าด้วยเทวตาปัญหา  ๕  ข้อ</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๓๗]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 004 </span>                             <B>บุคคลให้สิ่งอะไรชื่อว่าให้กำลัง  ให้
+<span class="LineNumber"> 005 </span>                   สิ่งอะไรชื่อว่าให้วรรณะ  ให้สิ่งอะไรชื่อว่า
+<span class="LineNumber"> 006 </span>                   ให้ความสุข    ให้สิ่งอะไรชื่อว่าให้จักษุ
+<span class="LineNumber"> 007 </span>                   และบุคคลเช่นไรชื่อว่าให้ทุกสิ่งทุกอย่าง
+<span class="LineNumber"> 008 </span>                   ข้าพระองค์ทูลถามพระองค์   ขอพระองค์
+<span class="LineNumber"> 009 </span>                   ตรัสบอกแก่ข้าพระองค์ด้วยเถิด.</B>
+<span class="LineNumber"> 010 </span>         [๑๓๘]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 011 </span>                             <B>บุคคลให้อาหารชื่อว่าให้กำลัง  ให้ผ้า
+<span class="LineNumber"> 012 </span>                   ชื่อว่าให้วรรณะ     ให้ยานพาหนะชื่อว่าให้
+<span class="LineNumber"> 013 </span>                   ความสุข  ให้ประทีปโคมไฟชื่อว่าให้จักษุ
+<span class="LineNumber"> 014 </span>                   และผู้ที่ให้ที่พักพาอาศัยชื่อว่าให้ทุกสิ่ง
+<span class="LineNumber"> 015 </span>                   ทุกอย่าง   ส่วนผู้ที่พร่ำสอนธรรมชื่อว่าให้
+<span class="LineNumber"> 016 </span>                   อมฤตธรรม.</B>

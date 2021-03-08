@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  นวกนิปาตวณฺณนา หน้า  453
+		
+<span class="LineNumber"> 002 </span>		อทฺทกฺขิ ภริยํ สุจิมาลธารินึ  
+<span class="LineNumber"> 003 </span>		วายุสฺส ปุตฺเตน สหา ตหึ รตนฺติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ อทฺทกฺขีติ กรณฺฑกํ วิวริตฺวา อทฺทส ฯ  
+<span class="LineNumber"> 005 </span>	กรณฺฑเก  ปน  วิวฏมตฺเตเยว  วิชฺชาธโร  วิชฺชํ
+<span class="LineNumber"> 006 </span>ปริชปฺปิตฺวา  ขคฺคํ  คเหตฺวา  อากาสํ  ปกฺขนฺทิ  ฯ  ตํ  ทิสฺวา
+<span class="LineNumber"> 007 </span>ทานโว  มหาสตฺตสฺส  ตุสฺสิตฺวา ถุติปุพฺพงฺคมา เสสคาถา
+<span class="LineNumber"> 008 </span>อภาสิ  
+<span class="LineNumber"> 009 </span>	[๑๒๙๖]สุทิฏฺ€รูปุคฺคตปานุวตฺตินา(๑)  
+<span class="LineNumber"> 010 </span>		หีนา นรา เย ปมุทาวสงฺคตา(๒)  
+<span class="LineNumber"> 011 </span>		ยถา หเว ปาณริเวตฺถ รกฺขิตา(๓)  
+<span class="LineNumber"> 012 </span>		ทุฏฺ€า มยิ อฺมภิปฺปโมทติ ฯ  
+<span class="LineNumber"> 013 </span>	[๑๒๙๗]ทิวา จ รตฺโต จ มยา อุปฏฺ€ิตา  
+<span class="LineNumber"> 014 </span>		ตปสฺสินา โชติริวา วเน วสํ  
+<span class="LineNumber"> 015 </span>		สา ธมฺมมุกฺกมฺม(๔) อธมฺมมาจริ  
+<span class="LineNumber"> 016 </span>		อกฺรียรูโป ปมุทาหิ(๕) สนฺถโว ฯ  
+<span class="LineNumber"> 017 </span>	[๑๒๙๘]สรีรมชฺฌมฺหิ €ิตาติ มฺิหํ  
+<span class="LineNumber"> 018 </span>		มยฺหํ อยนฺติ อสตํ(๖) อสฺตํ  
+<span class="LineNumber"> 019 </span>		สา ธมฺมมุกฺกมฺม อธมฺมมาจริ  
+<span class="LineNumber"> 020 </span>		อกฺรียรูโป ปมุทาหิ สนฺถโว  
+<span class="LineNumber"> 021 </span># ๑. ม. สุทิฏฺ€รูปมุคฺคตปานุวตฺตินา ฯ  ๒. ม. ปมทาวสํ คตา ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ...ปโมทยิ ฯ ๔. ส. ธมฺมโมกฺกมฺม... ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. อกิริยรูโป ปมทาหิ ฯ  ๖. ส. ม. อสตึ ฯ 

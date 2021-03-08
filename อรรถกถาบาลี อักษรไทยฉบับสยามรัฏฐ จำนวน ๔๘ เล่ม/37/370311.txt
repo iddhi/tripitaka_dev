@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 311
+
+<span class="LineNumber"> 002 </span>		อหฺจ โว อนุสาสิตุํ อาคโตสฺมิ(๑)  
+<span class="LineNumber"> 003 </span>		กถํ อหํ อปริตฺตาย คจฺเฉ  
+<span class="LineNumber"> 004 </span>		สเจ โว ราชา กุรุเขตฺตวาสี(๒)  
+<span class="LineNumber"> 005 </span>		ชนสณฺโ€ ปุจฺเฉยฺย ปหูตกาโม  
+<span class="LineNumber"> 006 </span>		กิมาภิชานาถ ปุเร ปุราณํ  
+<span class="LineNumber"> 007 </span>		กึ โว ปิตา อนุสาเส ปุรฏฺ€า  
+<span class="LineNumber"> 008 </span>		สมานาสนา โหถ มยา จ(๓) สพฺเพ  
+<span class="LineNumber"> 009 </span>		โกนีธ รฺโ อพฺภุติโก มนุสฺโส  
+<span class="LineNumber"> 010 </span>		ตมฺชลึ กริย วเทถ เอวํ  
+<span class="LineNumber"> 011 </span>		มา เหว(๔) เทว น หิ เอส ธมฺโม  
+<span class="LineNumber"> 012 </span>		วิยคฺฆราชสฺส นิหีนชจฺโจ  
+<span class="LineNumber"> 013 </span>		สมานาสโน(๕) เทว กถํ ภเวยฺยาติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  ธมฺมปาโลติ  มหาสตฺโต ฯ  ทินฺนาหนฺติ  อหํ  ชยธนํ(๖)  
+<span class="LineNumber"> 015 </span>ฉฑฺเฑตฺวา(๗)  รฺา  ทินฺโน ฯ  ตสฺสชฺชหํ  อตฺตสุขี  วิเธยฺโยติ 
+<span class="LineNumber"> 016 </span>อชฺชโต(๘)  ปฏฺ€าย  ตีหมตฺตํ  อหํ  อิมินา  อตฺตโน  สุเขน 
+<span class="LineNumber"> 017 </span>อตฺตสุขี  ตโต  ปรํ  ปน  ตสฺส  มาณวสฺสาหํ  วิเธยฺโย [๙]ฯ  
+<span class="LineNumber"> 018 </span>โส  หิ  อิโต  จตุตฺเถ  ทิวเส  เอกํเสน  มํ  อาทาย  ยตฺถิจฺฉติ 
+<span class="LineNumber"> 019 </span># ๑. ม. สาสิตุมาคโตสฺมิ ฯ  ๒. ม. กุรุรฏฺ€วาสี ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ว ฯ  ๔. ม. เหวํ ฯ  ๕. ม. สมาสโน ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. ชยธเนน ฯ  ๗. ม. ชณฺเฑตฺวา ฯ  ๘. ม. อชฺช ฯ
+<span class="LineNumber"> 022 </span># ๙. ม. เอตฺถนฺตเร โหมีติ ทิสฺสติ ฯ 

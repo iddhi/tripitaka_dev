@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H1>เจตสิกกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๑๓๖]  <B>สกวาที</B>  เจตสิกธรรมไม่มีหรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. ธรรมบางเหล่า  ที่สหรคต  เกิดร่วม  ระคน  สัมปยุต
+<span class="LineNumber"> 005 </span>เกิดกับดับพร้อม  มีวัตถุเดียวกัน   มีอารมณ์อันเดียวกันด้วยจิตมีอยู่   มิใช่หรือ ?
+<span class="LineNumber"> 006 </span>                        ป.  ถูกแล้ว.
+<span class="LineNumber"> 007 </span>                        ส. หากว่า   ธรรมบางเหล่า  ที่สหรคต   เกิดร่วม  ระคน
+<span class="LineNumber"> 008 </span>สัมปยุต  เกิดกับดับพร้อม  มีวัตถุอันเดียวกัน  มีอารมณ์อันเดียวกันด้วยจิต
+<span class="LineNumber"> 009 </span>มีอยู่   ก็ต้องไม่กล่าวว่า  เจตสิกธรรมไม่มี.
+<span class="LineNumber"> 010 </span>         [๑๑๓๗]  ส. ผัสสะเกิดร่วมกับจิตหรือ  ?
+<span class="LineNumber"> 011 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                        ส. หากว่า   ผัสสะเกิดร่วมกับจิต    ด้วยเหตุนั้นนะท่านจึง
+<span class="LineNumber"> 013 </span>ต้องกล่าวว่า  ผัสสะเป็นเจตสิก.
+<span class="LineNumber"> 014 </span>                        ส. เวทนา  ฯลฯ  สัญญา  เจตนา   ฯลฯ   สัทธา  วิริยะ  สติ
+<span class="LineNumber"> 015 </span>สมาธิ  ปัญญา ราคะ โทสะ โมหะ ฯลฯ อโนตตัปปะ  เกิดร่วมกับจิต  หรือ ?
+<span class="LineNumber"> 016 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                        ส. หากว่า    อโนตตัปปะเกิดร่วมกับจิต   ด้วยเหตุนั้นนะ
+<span class="LineNumber"> 018 </span>ท่านจึงต้องกล่าวว่า  อโนตตัปปะ  เป็นเจตสิก.
+<span class="LineNumber"> 019 </span>                        ป.  เพราะทำวิเคราะห์ว่า  เกิดร่วมกับจิต  จึงชื่อว่าเจตสิก
+<span class="LineNumber"> 020 </span>หรือ ?
+<span class="LineNumber"> 021 </span>                        ส.  ถูกแล้ว.
+<span class="LineNumber"> 022 </span>                        ป. เพราะทำวิเคราะห์ว่า    เกิดร่วมกับผัสสะ     ก็ชื่อว่า

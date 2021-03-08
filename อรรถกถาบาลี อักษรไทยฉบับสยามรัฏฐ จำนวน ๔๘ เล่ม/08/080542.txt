@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๘ หน้า  ๕๔๒
+		
+<span class="LineNumber"> 002 </span>	  			จุลฺลยมกวคฺควณฺณนา
+	  			
+<span class="LineNumber"> 003 </span>	  			สาเลยฺยกสุตฺตวณฺณนา  
+<span class="LineNumber"> 004 </span>	  เอวมฺเม  สุตนฺติ  สาเลยฺยกสุตฺตํ  ตตฺถ  โกสเลสูติ  โกสลา  
+<span class="LineNumber"> 005 </span>นาม  ชนปทวาสิโน  (๑)  ราชกุมารา  วา(๒) เตสํ  นิวาโส  เอโกปิ  
+<span class="LineNumber"> 006 </span>ชนปโท  รุฬฺหีสทฺเทน  โกสลาติ  วุจฺจติ  ตสฺมึ  โกสเลสุ  
+<span class="LineNumber"> 007 </span>ชนปเท  โปราณา  ปนาหุ  ยสฺมา  ปุพฺเพ  มหาปนาทํ 
+<span class="LineNumber"> 008 </span>ราชกุมารํ  นานานาฏกานิ  ทิสฺวา  สิตมตฺตํปิ  อกโรนฺตํ  สุตฺวา 
+<span class="LineNumber"> 009 </span>ราชา  อาห  โย  มม  ปุตฺตํ  หสาเปติ  สพฺพาลงฺกาเรน  
+<span class="LineNumber"> 010 </span>นํ  อลงฺกโรมี  ติ  ตโต  นงฺคลานิปิ  ฉฑฺเฑตฺวา  สหาชนกาเย(๓)  
+<span class="LineNumber"> 011 </span>สนฺนิปติเต   มนุสฺสา  อติเรกานิ  (๔)  สตฺต  วสฺสานิ  นานากีฬิกาโย  
+<span class="LineNumber"> 012 </span>ทสฺเสตฺวา  นํ  หสาเปตุํ  นาสกฺขึสุ  ตโต  สกฺโก  เทวนฏํ  
+<span class="LineNumber"> 013 </span>เปเสสิ  โส  ทิพฺพนาฏกํ  ทสฺเสตฺวา  หสาเปสิ  อถ  เต  
+<span class="LineNumber"> 014 </span>มนุสฺสา  อตฺตโน  อตฺตโน วสโนกาสาภิมุขา  ปกฺกมึสุ ฯ เต  
+<span class="LineNumber"> 015 </span>ปฏิปเถ  มิตฺตสุหชฺชาทโย  ทิสฺวา  ปฏิสนฺถารํ  กโรนฺตา  กจฺจิ  
+<span class="LineNumber"> 016 </span>กุสลนฺติ (๕)  อาหํสุ  ตสฺมา  ตํ  กุสลนฺติ (๖)  วจนํ  อุปาทาย  
+<span class="LineNumber"> 017 </span>โส  ปเทโส  โกสลาติ  วุจฺจตีติ ฯ
+<span class="LineNumber"> 018 </span>	  จาริกฺจรมาโนติ  อตุริตจาริกํ  จรมาโน  มหตา  
+<span class="LineNumber"> 019 </span># ๑. ม. ชานปทิโน ฯ  ๒. ม. วาสทฺโท นตฺถิ ฯ  ๓. ม. สหาชนกาเย ฯ 
+<span class="LineNumber"> 020 </span># ๔. ม. สาติเรกานิ ฯ  ๕. ม. กจฺจิ โภ กุสสํ กจฺจิโภ กุสลนฺติ ฯ
+<span class="LineNumber"> 021 </span># ๖. ม. กุสลํ กสลนฺติ ฯ

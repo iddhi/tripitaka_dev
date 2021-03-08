@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                   ๔.  <B>อนารัมมณธรรม    อาศัยธรรมที่ไม่ใช่อนารัมมณ- 
+<span class="LineNumber"> 002 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๓  วาระ. 
+<span class="LineNumber"> 003 </span>                    ๗.  <B>สารัมมณธรรม  อาศัยธรรมที่ไม่ใช่สารัมมณธรรม
+<span class="LineNumber"> 004 </span>เกิดขึ้น   เพราะเหตุปัจจัย</B>    มี ๓ วาระ.
+
+<span class="LineNumber"> 005 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 006 </span>           [๑๐๐]  ในเหตุปัจจัย มี  ๙   วาระ  ฯลฯ
+<span class="LineNumber"> 007 </span>                        <I>นสารัมมณทุกสารัมมณทุกะ  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                <H1>๕๖.  นจิตตทุกจิตตทุกะ</H1>
+<span class="LineNumber"> 009 </span>                                        <H2>ปฏิจจวาระ</H2>	
+<span class="LineNumber"> 010 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>           [๑๐๑] ๑.  <B>จิตตธรรม  อาศัยธรรมที่ไม่ใช่จิตตธรรม  เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                      ๒.  <B>ธรรมที่ไม่ใช่จิตตธรรม   อาศัยธรรมที่ไม่ใช่จิตต-
+<span class="LineNumber"> 015 </span>ธรรม  เกิดขึ้น   เพราะเหตุปัจจัย</B>

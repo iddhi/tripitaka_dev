@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  302
+
+<span class="LineNumber"> 002 </span>โอฬาริกาหารปริโภเคน  นิพฺพิชฺชิตฺวา  อิสิปตนํ คโต ฯ
+<span class="LineNumber"> 003 </span>	อภิสมฺพุชฺฌิตฺวา สตฺถารา สตฺตสตฺตาหานิ วีตินาเมตฺวา 
+<span class="LineNumber"> 004 </span>อิสิปตนํ  คนฺตฺวา  ธมฺมจกฺเก  ปวตฺติเต  ปาฏิปททิวเส 
+<span class="LineNumber"> 005 </span>โสตาปตฺติผเล ปติฏฺ€ิโต  ปฺจมิยํ  ปกฺขสฺส  อฺาสิโกณฺฑฺาทีหิ 
+<span class="LineNumber"> 006 </span>สทฺธึ  อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 007 </span>		อุภินฺนํ เทวราชูนํ		สงฺคาโม ปจฺจุปฏฺ€ิโต (๒)  
+<span class="LineNumber"> 008 </span>		อโหสิ สมุปพฺยูฬฺโห	มหาโฆโส อวตฺตถ ฯ  
+<span class="LineNumber"> 009 </span>		ปทุมุตฺตโร โลกวิทู	อาหุตีนํ ปฏิคฺคโห  
+<span class="LineNumber"> 010 </span>		อนฺตลิกฺเข €ิโต สตฺถา	สํเวเชสิ มหาชนํ ฯ  
+<span class="LineNumber"> 011 </span>		สพฺเพ เทวา อตฺตมนา	นิกฺขิตฺตกวจาวุธา  
+<span class="LineNumber"> 012 </span>		สมฺพุทฺธํ อภิวาเทตฺวา	เอกคฺคาสึสุ ตาวเท ฯ  
+<span class="LineNumber"> 013 </span>		มยฺหํ สงฺกปฺปมฺาย	วาจาสภิมุทีรยิ  
+<span class="LineNumber"> 014 </span>		อนุกมฺปโก โลกวิทู	นิพฺพาเปสิ มหาชนํ ฯ  
+<span class="LineNumber"> 015 </span>		ปทุฏฺ€จิตฺโต มนุโช	เอกปาณํ วิเห€ยํ  
+<span class="LineNumber"> 016 </span>		เตน จิตฺตปฺปโทเสน	อปายํ อุปปชฺชติ ฯ  
+<span class="LineNumber"> 017 </span>		สงฺคามสีเส นาโคว	พหู ปาเณ วิเห€ยํ  
+<span class="LineNumber"> 018 </span>		นิพฺพาเปถ สกํ จิตฺตํ	มา หฺิตฺโถ(๓) ปุนปฺปุนํ ฯ  
+<span class="LineNumber"> 019 </span>		ทวินฺนมฺปิ ยกฺขราชูนํ	เสนา สา วิมฺหิตา อหุ(๔)  
+<span class="LineNumber"> 020 </span>		สรณฺจ อุปาคจฺฉุํ		โลกเชฏฺ€ํ สุตาทินํ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ขุ. อ. ๓๒/๑๑๕/๒๑๒ ฯ  ๒. สี. สงฺคาเม ปจฺจุปฏิ€ิเต ฯ 
+<span class="LineNumber"> 022 </span># ม. สมุปฏฺ€ิโต ฯ  ๓. สฺยา. หฺิตฺถ ฯ ๔. สฺยา. เสนาปิ สมิตา อหุ ฯ 
+<span class="LineNumber"> 023 </span># ม. เสนา สา วิมฺหิตา อหุ ฯ

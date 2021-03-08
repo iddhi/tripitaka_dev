@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28   หน้า  222
+
+<span class="LineNumber"> 002 </span>			ตณฺฑุลนาฬิชาตกํ  
+<span class="LineNumber"> 003 </span>	กิมคฺฆตี  ตณฺฑุลนาฬิกา  จาติ  อิทํ  สตฺถา  เชตวเน
+<span class="LineNumber"> 004 </span>วิหรนฺโต  โลฬุทายิตฺเถรํ(๑) อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	ตสฺมึ  สมเย  อายสฺมา  ทพฺโพ  มลฺลปุตฺโต  สงฺฆสฺส 
+<span class="LineNumber"> 006 </span>ภตฺตุทฺเทสโก  อโหสิ ฯ  ตสฺมึ  ปาโตว  สลากภตฺตาทีนิ  อุทฺทิสมาเน
+<span class="LineNumber"> 007 </span>อุทายิตฺเถรสฺส  กทาจิ  วรภตฺตํ  ปาปุณาติ  กทาจิ  ลามกภตฺตํ ฯ
+<span class="LineNumber"> 008 </span>โส  ลามกภตฺตสฺส  ปตฺตทิวเส  สลากคฺคํ  อากุลํ  กโรติ  กึ 
+<span class="LineNumber"> 009 </span>ทพฺโพว  สลากํ  ทาตุํ  ชานาติ  อมฺเห  น  ชานามาติ  
+<span class="LineNumber"> 010 </span>วทติ ฯ  ตสฺมึ  สลากคฺคํ  อากุลํ  กโรนฺเต  หนฺททานิ  ตฺวํเอว 
+<span class="LineNumber"> 011 </span>สลากํ  เทหีติ  สลากปจฺฉึ  อทํสุ ฯ  ตโต  ปฏฺ€าย  โส  สงฺฆสฺส  
+<span class="LineNumber"> 012 </span>สลากํ  อทาสิ ฯ  ททนฺโต  จ  ปน  อิทํ  วรภตฺตนฺติ  วา  
+<span class="LineNumber"> 013 </span>ลามกภตฺตนฺติ  วา  อสุกวสฺสคฺเค  วรภตฺตํ  €ิตํ  อสุกวสฺสคฺเค
+<span class="LineNumber"> 014 </span>ลามกภตฺตนฺติ  วา  น  ชานาติ  €ิติกํ  กโรนฺโตปิ  อสุกวสฺสคฺเค
+<span class="LineNumber"> 015 </span>€ิติกาติ  น  สลฺลกฺเขติ ฯ  ภิกฺขูนํ  €ิตเวลาย  อิมสฺมึ  €าเน 
+<span class="LineNumber"> 016 </span>อยํ  €ิติกา  €ิตา  อิมสฺมึ  €าเน  อยนฺติ  ภูมิยํ  วา  ภิตฺติยํ  
+<span class="LineNumber"> 017 </span>วา  เลขํ  กฑฺฒิ ฯ  ปุนทิวเส  สลากคฺเค  ภิกฺขู  มนฺทตรา  
+<span class="LineNumber"> 018 </span>วา  โหนฺติ  พหุตรา  วา ฯ  เตสุ  มนฺทตเรสุ เลขา เหฏฺ€า 
+<span class="LineNumber"> 019 </span>โหติ พหุตเรสุ  อุปริ ฯ  โส  €ิติกํ  อชานนฺโต  เลขาสฺาย
+<span class="LineNumber"> 020 </span>สลากํ  เทติ ฯ
+<span class="LineNumber"> 021 </span># ๑. ม. ลาลุทายิตฺเถรํ ฯ

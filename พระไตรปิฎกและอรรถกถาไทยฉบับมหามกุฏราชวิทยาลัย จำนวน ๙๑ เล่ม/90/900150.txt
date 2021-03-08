@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>						<H1>เหตุทุกอาจยคามิติกะ</H1>
+<span class="LineNumber"> 002 </span>				<H2>(๑. เหตุทุกะ  ๑๐.  อาจยคามิติกะ)</H2>
+<span class="LineNumber"> 003 </span>						<H1>อาจยคามิบทปฏิจจวาระ</H1>              					
+<span class="LineNumber"> 004 </span>						      <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 005 </span>						   <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 006 </span>		[๔๔๓]  	๑.  อาจยคามิธรรมที่เป็นเหตุ  อาศัยอาจยคามิธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นเหตุ  เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๓  วาระ  (วาระที่ ๑-๒-๓) 
+<span class="LineNumber"> 008 </span>                    		๔.  อาจยคามิธรรมที่ไม่ใช่เหตุ  อาศัยอาจยคามิธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาร ะ  (วาระที่  ๔-๕-๖)
+<span class="LineNumber"> 010 </span>                    		๗.  อาจยคามิธรรมที่เป็นเหตุ    อาศัยอาจยคามิธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นเหตุ และอาจยคามิธรรมที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>มี ๓ วาระ   (วาระที่  ๗-๘-๙)
+<span class="LineNumber"> 013 </span>                     		    <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 014 </span>		[๔๔๔]  ในเหตุปัจจัย  มี  ๙ วาระ    ในอารัมมณปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 015 </span>ในอธิปติปัจจัย  มี ๙ วาระ  ในอนันตรปัจจัย  มี ๙ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 016 </span>มี ๙ วาระ ฯลฯ   ในอวิคตปัจจัย   มี ๙ วาระ.

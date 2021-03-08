@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                <H2>๑๔. วิปากปัจจัย ฯลฯ  ๑๖. อินทริยปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๗๐]  ๑.  <B>ธรรมที่เป็นจิต  เป็นปัจจัยแก่ธรรมที่ไม่ใช่จิต  ด้วย
+<span class="LineNumber"> 003 </span>อำนาจของวิปากปัจจัย</B>   มี ๕ วาระ
+<span class="LineNumber"> 004 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของอาหารปัจจัย</B>   มี ๕ วาระ.
+<span class="LineNumber"> 005 </span>         <B>เป็นปัจจัย   ด้วยอำนาจของอินทริยปัจจัย</B>  มี ๕ วาระ.
+
+<span class="LineNumber"> 006 </span>             <H2>๑๗. ฌานปัจจัย ฯลฯ     ๑๙. สัมปยุตตปัจจัย</H2>
+<span class="LineNumber"> 007 </span>         [๗๑] ๑.  <B>ธรรมที่เป็นจิต   เป็นปัจจัยแก่ธรรมที่ไม่ใช่จิต
+<span class="LineNumber"> 008 </span>ด้วยอำนาจของฌานปัจจัย</B>    มี ๓ วาระ
+<span class="LineNumber"> 009 </span>         <B>เป็นปัจจัย ด้วยอำนาจของมัคคปัจจัย</B> มี ๓ วาระ.
+<span class="LineNumber"> 010 </span>         <B>เป็นปัจจัย  ด้วยอำนาจสัมปยุตตปัจจัย</B> มี ๕ วาระ.
+
+<span class="LineNumber"> 011 </span>                              <H2>๒๐. วิปปยุตตปัจจัย</H2>
+<span class="LineNumber"> 012 </span>         [๗๒] ๑. <B>ธรรมที่เป็นจิต  เป็นปัจจัยแก่ธรรมที่ไม่ใช่จิต
+<span class="LineNumber"> 013 </span>ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 014 </span>         มี ๒ อย่าง  คือที่เป็น <B>สหชาตะ</B>   และ <B>ปัจฉาชาตะ</B> ฯลฯ
+<span class="LineNumber"> 015 </span>                  ๒.  <B>ธรรมที่ไม่ใช่จิต  เป็นปัจจัยแก่ธรรมที่ไม่ใช่จิต
+<span class="LineNumber"> 016 </span>ด้วยอำนาจของวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 017 </span>         มี ๓ อย่าง  คือที่เป็น <B>สหชาตะ  ปุเรชาตะ</B>  และ  <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 018 </span>         ที่เป็น  <B>สหชาตะ</B>  ได้แก่

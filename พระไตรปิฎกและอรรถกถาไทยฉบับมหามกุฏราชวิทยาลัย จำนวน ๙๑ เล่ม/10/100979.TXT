@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           คำว่า  <B>สังฆาทิเสส</B>   เป็นทั้งชื่อ  เป็นทั้งอาบัติ  
+<span class="LineNumber"> 002 </span>           คำว่า  <B>การที่ภิกษุผู้ว่ายากไม่สละกรรม   เพราะสวดสมนุภาสน์
+<span class="LineNumber"> 003 </span>ครบ ๓ จบ</B>   เป็นทั้งวัตถุ   เป็นทั้งโคตร
+<span class="LineNumber"> 004 </span>           คำว่า  <B>สังฆาทิเสส</B>  เป็นทั้งชื่อ   เป็นทั้งอาบัติ
+<span class="LineNumber"> 005 </span>           คำว่า  <B>การที่ภิกษุผู้ประทุษร้ายสกุลไม่สละกรรม  เพราะสวด
+<span class="LineNumber"> 006 </span>สมนุภาสน์ครบ ๓ จบ</B>  เป็นทั้งวัตถุ  เป็นทั้งโคตร
+<span class="LineNumber"> 007 </span>           คำว่า  <B>สังฆาทิเสส</B>  เป็นทั้งชื่อ   เป็นทั้งอาบัติ
+<span class="LineNumber"> 008 </span>           คำว่า   <B>การอาศัยความไม่เอื้อเฟื้อถ่ายอุจจาระปัสสาวะหรือ
+<span class="LineNumber"> 009 </span>บ้วนเขฬะลงในน้ำ</B>  เป็นทั้งวัตถุ  เป็นทั้งโคตร
+<span class="LineNumber"> 010 </span>           คำว่า  <B>ทุกกฏ</B>  เป็นทั้งชื่อ  เป็นทั้งอาบัติแล.
+<span class="LineNumber"> 011 </span>                               <I>นวสังคหวรรค  ที่  ๕  จบ</I>
+
+<span class="LineNumber"> 012 </span>                                     <H1>หัวข้อประจำวรรค</H1>
+<span class="LineNumber"> 013 </span>                             [๑,๓๖๕]  <B>อปโลกนกรรม  ๑  ญัตติ-
+<span class="LineNumber"> 014 </span>                   กรรม  ๑  ญัตติทุติยกรรม  ๑  ญัตติจตุตถกรรม  
+<span class="LineNumber"> 015 </span>                   ๑  วัตถุ  ๑  ญัตติ  ๑  อนุสาวนา  ๑  สีมา  ๑
+<span class="LineNumber"> 016 </span>                   บริษัท ๑  พร้อมหน้า ๑  สอบถาม ๑  ปฏิญญา
+<span class="LineNumber"> 017 </span>                   ๑  ควรสติวินัย ๑  วัตถุ ๑  สงฆ์ ๑  บุคคล  ๑
+<span class="LineNumber"> 018 </span>                   ญัตติ ๑  ตั้งญัตติภายหลัง ๑  วัตถุ ๑  สงฆ์ ๑
+<span class="LineNumber"> 019 </span>                  บุคคล ๑  สวดประกาศ ๑  สวดในกาลไม่ควร
+<span class="LineNumber"> 020 </span>                   ๑  สีมาเล็กเกิน  ๑  สีมาใหญ่เกิน  ๑  สีมามี</B>

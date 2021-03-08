@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                    			  <H1>กุสลติกกิเลสทุกะ</H1>
+<span class="LineNumber"> 002 </span>                  	<H2>(๑.  กุสลติกะ  ๗๕.  กิเลสกุกะ)</H2> 
+<span class="LineNumber"> 003 </span>                       		    <H1>กิเลสบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>                         		     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 005 </span>                                   	 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๗๒๙]  ๑.  กิเลสธรรมที่เป็นอกุศล    อาศัยกิเลสิกธรรมที่เป็น
+<span class="LineNumber"> 007 </span>อกุศล  เกิดขึ้น  เพราะเหตุปัจจัย           
+<span class="LineNumber"> 008 </span>      			<H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 009 </span>		[๗๓๐]  ในเหตุปัจจัย  มี  ๑  วาระ     ในอารัมมณปัจจัย   มี ๑ วาระ
+<span class="LineNumber"> 010 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 011 </span>            ในสหชาตวาระก็ดี   ฯลฯ  ในปัญหาวาระก็ดี  ทุกปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 012 </span>                        	        <H1>โนกิเลสบทปัญหาวาระ</H1>
+<span class="LineNumber"> 013 </span>                         		     <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 014 </span>                                             <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๗๓๐]  ๑.  ธรรมที่ไม่ใช่กิเลสธรรมที่เป็นกุศล    อาศัยธรรม
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่กิเลสธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓  วาระ

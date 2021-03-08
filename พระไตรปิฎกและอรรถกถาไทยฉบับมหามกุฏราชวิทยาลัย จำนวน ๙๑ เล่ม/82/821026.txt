@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>ปัจจุปปันนาตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 004 </span><H2>ทุกขสัจจมูละ   สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๑๐๐๑]   ทุกขสัจจะกำลังเกิดแก่บุคคลใด,     สมุทยสัจจะก็เคย
+<span class="LineNumber"> 006 </span>ดับแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า   ฯ ล ฯ
+<span class="LineNumber"> 009 </span>         คำถามที่เป็นอดีตกับด้วยปัจจุบัน   คำว่า  <B>ยสฺส</B>  ก็ดี,   <B>ยตฺถ</B>    ก็ดี,
+<span class="LineNumber"> 010 </span>คำว่า  <B>ยสฺส ยตฺถ</B>  ก็ดี,  <B>อนุโลม</B>  ก็ดี,  <B>ปัจจนิก</B>  ก็ดี  เป็นเช่นเดียว
+<span class="LineNumber"> 011 </span>กันทั้งในอุปปาทวาระ  ทั้งในอุปปาทนิโรธวาระ  ผู้มีปัญญาพึงจำแนกไป.
+<span class="LineNumber"> 012 </span>                          <I>จบ  ทุกขสัจจมูละ  สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 013 </span>                                       <I>ทุกขสัจจมูล  จบ</I>
+<span class="LineNumber"> 014 </span>                                       <I>ปุคคลวาระ   จบ</I>
+<span class="LineNumber"> 015 </span>                               <I>ปัจจุปปันนาตีตวาระ  จบ</I>

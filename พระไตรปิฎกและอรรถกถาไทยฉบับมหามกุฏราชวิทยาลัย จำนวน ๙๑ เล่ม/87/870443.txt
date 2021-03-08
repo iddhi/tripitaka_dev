@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                  <H1>๒.  อารัมมณปัจจัย ฯลฯ  ๒๓.  อวิคตปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           [๑๕๔๔]  <B>ปริตตารัมมณธรรม อาศัยปริตตารัมมณธรรม  เกิด
+<span class="LineNumber"> 003 </span>ขึ้น เพราะอารัมมณปัจจัย  เพราะอธิปติปัจจัย  ฯลฯ  เพราะอวิคตปัจจัย.</B>
+
+<span class="LineNumber"> 004 </span>                            <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 005 </span>           [๑๕๔๕]  ในเหตุปัจจัย   มี ๓ วาระ   ในอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 006 </span>ในอธิปติปัจจัย   มี ๓ วาระ ฯลฯ  ในอวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 007 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 008 </span>                                      <I>อนุโลมนัย จบ</I>
+
+<span class="LineNumber"> 009 </span>                                         <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 010 </span>                                     <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 011 </span>           [๑๕๔๖] ๑.  <B>ปริตตารัมมณธรรม    อาศัยปริตตารัมมณธรรม
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ   ขันธ์ ๓     อาศัยขันธ์ ๑    ที่เป็นปริตตารัมมณธรรม    ซึ่งเป็น
+<span class="LineNumber"> 014 </span>อเหตุกะ ฯลฯ   อาศัยขันธ์ ๒.
+<span class="LineNumber"> 015 </span>           ในอเหตุกปฏิสนธิขณะ    ขันธ์ ๓  อาศัยขันธ์ ๑ ที่เป็นปริตตารัมมณ-
+<span class="LineNumber"> 016 </span>ธรรม ฯลฯ อาศัยขันธ์ ๒.
+<span class="LineNumber"> 017 </span>           โมหะ   ที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ    อาศัยขันธ์
+<span class="LineNumber"> 018 </span>ทั้งหลายที่สหรคตด้วยวิจิกิจฉา   ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 019 </span>           [๑๕๔๗] ๒.  <B>มหัคคตารัมมณธรรม    อาศัยมหัคคตารัมมณ-
+<span class="LineNumber"> 020 </span>ธรรม ฯลฯ  เพราะเหตุปัจจัย</B>
+

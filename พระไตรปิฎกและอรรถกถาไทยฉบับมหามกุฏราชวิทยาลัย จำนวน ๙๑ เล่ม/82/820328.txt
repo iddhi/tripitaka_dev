@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         ยกเว้นธัมมายตนะเสียแล้ว      ธรรมที่เหลือนอกนั้นชื่อว่าธัมมะ 
+<span class="LineNumber"> 002 </span>แต่ไม่ชื่อว่าธัมมายตนะ,   ธัมมายตนะชื่อว่าธัมมะด้วย   ชื่อว่าธัมมายตนะ
+<span class="LineNumber"> 003 </span>ด้วย.
+<span class="LineNumber"> 004 </span>         ธรรมที่ชื่อว่าอายตนะ,   ชื่อว่าจักขายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         จักขายตนะชื่อว่าอายตนะด้วย   ชื่อว่าจักขายตนะด้วย   อายตนะ 
+<span class="LineNumber"> 006 </span>ที่เหลือนอกนั้นชื่อว่าอายตนะ   แต่ไม่ชื่อว่าจักขายตนะ.
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าธัมมะ,   ชื่อว่าธัมมายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ยกเว้นธัมมายตนะเสียแล้ว         ธรรมที่เหลือนอกนั้นชื่อว่าธัมมะ
+<span class="LineNumber"> 009 </span>แต่ไม่ชื่อว่าธัมมายตนะ,  ธัมมายตนะชื่อว่าธัมมะด้วย  ชื่อว่าธัมมายตนะ
+<span class="LineNumber"> 010 </span>ด้วย.
+<span class="LineNumber"> 011 </span>         ธรรมที่ชื่อว่าอายตนะ,    ชื่อว่าโสตายตนะ   ใช่ไหม  ?
+<span class="LineNumber"> 012 </span>                                              ฯ ล ฯ
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าอายาตนะ,   ชื่อว่ามนายตนะ   ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         มนายตนะชื่อว่าอายตนะด้วย     ชื่อว่ามนายตนะด้วย   อายตนะ
+<span class="LineNumber"> 015 </span>ที่เหลือนอกนั้นชื่อว่าอายตนะ    แต่ไม่ชื่อว่ามนายตนะ.
+<span class="LineNumber"> 016 </span>         ( ผู้มีปัญญาพึงผูกจักกนัยมีบทหนึ่ง ๆ   เป็นมูล )                  
+<span class="LineNumber"> 017 </span>                          <I>ปทโสธนมูลจักกวาระ   อนุโลม  จบ</I>

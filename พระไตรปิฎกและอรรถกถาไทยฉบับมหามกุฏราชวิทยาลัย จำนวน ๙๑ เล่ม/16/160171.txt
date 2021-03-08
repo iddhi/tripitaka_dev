@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>         ๓.  พระตถาคตมีมโนสมาจารบริสุทธิ์  พระตถาคตมิได้มีความ
+<span class="LineNumber"> 002 </span>ประพฤติชั่วทางใจ  ที่พระองค์จะต้องรักษาไว้โดยตั้งพระทัยว่า  คนอื่น ๆ
+<span class="LineNumber"> 003 </span>อย่าได้รู้ถึงความประพฤติชั่วทางใจของเรานี้.
+<span class="LineNumber"> 004 </span>		              <H2>กิญจนะ  ๓</H2>
+<span class="LineNumber"> 005 </span>	<B>๑.  ราคกิญจนะ     เครื่องกังวล  คือราคะ
+<span class="LineNumber"> 006 </span>	๒.  โทสกิญจนะ   เครื่องกังวล  คือโทสะ
+<span class="LineNumber"> 007 </span>	๓.  โมหกิญจนะ   เครื่องกังวล   คือโมหะ.</B>
+<span class="LineNumber"> 008 </span>		               <H2>อัคคี  ๓</H2>
+<span class="LineNumber"> 009 </span>	      <B>๑.  ราคัคคิ      ไฟคือราคะ
+<span class="LineNumber"> 010 </span>	      ๒.  โทสัคคิ    ไฟคือโทสะ
+<span class="LineNumber"> 011 </span>	      ๓.  โมหัคคิ     ไฟคือโมหะ</B>
+<span class="LineNumber"> 012 </span>	                      <H2>อัคคีอีก  ๓</H2>
+<span class="LineNumber"> 013 </span>	<B>๑.  อาหุเนยยัคคิ        ไฟคืออาหุเนยยบุคคล
+<span class="LineNumber"> 014 </span>	๒.  ทักขิเณยยัคคิ       ไฟคือทักขิเณยยบุคคล
+<span class="LineNumber"> 015 </span>	๓.  คหปตัคคิ              ไฟคือคฤหบดี.</B>
+<span class="LineNumber"> 016 </span>	          	<H2>รูปสังคหะ   ๓</H2>
+<span class="LineNumber"> 017 </span><B>๑.  สนิทัสสนสัปปฏิฆรูป        รูปที่เห็นได้และกระทบได้
+<span class="LineNumber"> 018 </span>๒.  อนิทัสสนสัปปฏิฆรูป       รูปที่เห็นไม่ได้   แต่กระทบได้
+<span class="LineNumber"> 019 </span>๓.  อนิทัสสนอัปปฏิฆรูป       รูปที่เห็นไม่ได้   ทั้งกระทบไม่ได้.</B>
+<span class="LineNumber"> 020 </span>			<H2>สังขาร  ๓</H2>
+<span class="LineNumber"> 021 </span>	<B>๑. ปัญญาภิสังขาร     อภิสังขาร  คือ  บุญ
+<span class="LineNumber"> 022 </span>	๒. อปุญญาภิสังขาร  อภิสังขาร  คือ  บาป
+<span class="LineNumber"> 023 </span>	๓. อเนญชาภิสังขาร  อภิสังขาร  คือ  อเนญชา.</B>
+	                    

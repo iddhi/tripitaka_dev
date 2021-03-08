@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>	         <H1>อรรถกถาสาลสูตร</H1>
+<span class="LineNumber"> 002 </span>         พึงทราบวินิจฉัยใน<B>สาลสูตรที่  ๑๐</B>  ดังต่อไปนี้ :-  
+<span class="LineNumber"> 003 </span>         บทว่า  มหาสาลา  คือต้นไม้ใหญ่.    บทว่า  <B>สาขาปตฺตปลาเสน
+<span class="LineNumber"> 004 </span>วฑฺฒนฺติ</B>   คือเจริญด้วยกิ่งเล็กและใบ  ที่เรียกกันว่าปัตตะ.   บทว่า  <B>อรญฺสฺมึ</B>
+<span class="LineNumber"> 005 </span>คือ  ในที่มิใช่บ้าน.  บทว่า  <B>พฺรหาวเน</B>  ได้แก่  ในป่าใหญ่  คือดง.   บทที่
+<span class="LineNumber"> 006 </span>เหลือในที่ทุกแห่ง   ง่ายทั้งนั้นแล.        
+<span class="LineNumber"> 007 </span>	             <I>จบอรรถกถาสาลสูตรที่  ๑๐</I>
+<span class="LineNumber"> 008 </span>	              <I>จบสุมนวรรควรรณนาที่  ๔</I>
+<span class="LineNumber"> 009 </span>                      <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 010 </span>         ๑.  สุมนสูตร    ๒.  จุนทิสูตร    ๓.  อุคคหสูตร     ๔.   สีหสูตร
+<span class="LineNumber"> 011 </span>๕. ทานานิสังสสูตร  ๖. กาลทานสูตร  ๗. โภชนทานสูตร  ๘. สัทธานิสังสสูตร
+<span class="LineNumber"> 012 </span>๙. ปุตตสูตร    ๑๐.   สาลสูตร   และอรรถกถกา.

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  256
+
+<span class="LineNumber"> 002 </span>ควสหสฺสาทีหิ (๑) ตํ  ปูเชสีติ ฯ  วิมลา  ธมฺมกถิโก  โส  เทวาติ  
+<span class="LineNumber"> 003 </span>ภทฺเท  กึ  วเทสิ  สกลชมฺพูทีปตเล(๒)  พุทฺธุปฺปาทกาโล  วิย
+<span class="LineNumber"> 004 </span>ปวตฺตติ  สกลชมฺพูทีเป  เอกสตราชาโน  ตสฺส  มธุรธมฺมกถาย  
+<span class="LineNumber"> 005 </span>พชฺฌิตฺวา  หตฺถิกนฺตวีณาสเรน  ปลุทฺธา  มตฺตวรวารณา(๓)  วิย
+<span class="LineNumber"> 006 </span>อตฺตโน  อตฺตโน  รฏฺ€านิ  น  คจฺฉนฺติ (๔) เอวรูโป  โส  มธุรธมฺม-
+<span class="LineNumber"> 007 </span>กถิโกติ  ตสฺส  คุณํ  วณฺเณสิ ฯ  สา  วิธุรปณฺฑิตสฺส  คุณกถํ  
+<span class="LineNumber"> 008 </span>สุตฺวา  ตสฺส  ธมฺมกถํ  โสตุกามา  หุตฺวา  จินฺเตสิ  สจาหํ  
+<span class="LineNumber"> 009 </span>วกฺขามิ  เทว  อหํ  ตสฺส  ธมฺม  กถํ  โสตุกามา  อิเธว  นํ  
+<span class="LineNumber"> 010 </span>อาเนหีติ  น  เม  ตํ  อาเนสฺสติ ยนฺนูนาหํ  ตสฺส(๕)  หทเย  
+<span class="LineNumber"> 011 </span>โทหโฬ  เม  อุปฺปนฺโนติ  คิลานาลยํ  กเรยฺยนฺติ ฯ  สา  ตถา
+<span class="LineNumber"> 012 </span>กตฺวา [๖] ปริจาริกานํ  สฺํ  ทตฺวา  สิริสยเน  นิปชฺชิ ฯ 
+<span class="LineNumber"> 013 </span>นาคราชา  อุปฏฺ€านเวลาย  ตํ  อปสฺสนฺโต  ปุจฺฉติ  กุหึ(๗)  
+<span class="LineNumber"> 014 </span>วิมลาติ ฯ  ปริจาริกาหิ  คิลานา  เทวาติ  วุตฺเต  โส 
+<span class="LineNumber"> 015 </span>อุฏฺ€ายาสนา  ตสฺสา  สนฺติกํ  คนฺตฺวา  สยนปสฺเส นิสีทิตฺวา
+<span class="LineNumber"> 016 </span>ตสฺสา สรีรํ ปริมชฺชนฺโต ป€มํ คาถมาห  
+<span class="LineNumber"> 017 </span>	[๘๙๓]ปณฺฑุ กีสิยาสิ (๘)ทุพฺพลา  
+<span class="LineNumber"> 018 </span>		วณฺณรูเป(๙) น ตเวทิสํ ปุเร  
+<span class="LineNumber"> 019 </span># ๑. ม. ควสฺสสหสฺสาทีหิ ฯ  ๒. ม. ชมฺพุทีปตเล ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ปลุทฺธมตฺตวารณา ฯ  ๔. ม. รชฺชานิ คนฺตุํ น อิจฺฉนฺติ ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. ตสฺส เม ฯ  ๖. ม. เอตฺถนฺตเร สิริคพฺภํ ปวิสิตฺวา 
+<span class="LineNumber"> 022 </span># อตฺตโนติ ทิสฺสนฺติ ฯ  ๗. ม. กหํ ฯ  ๘. ส. ม. กิสิยาสิ ฯ
+<span class="LineNumber"> 023 </span># ๙. ม. วณฺณรูปํ ฯ 

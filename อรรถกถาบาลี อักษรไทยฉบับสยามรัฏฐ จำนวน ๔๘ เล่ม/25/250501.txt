@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทฺวาทสมวคฺเค ยสตฺเถรคาถาวณฺณนา  หน้า 501
+	
+<span class="LineNumber"> 002 </span>		หํสา โกฺจาปิ นทิตา(๑)	โกสิยา(๒) ปิงฺคลา (๓) พหู  
+<span class="LineNumber"> 003 </span>		สตฺตรตนสมฺปนฺโน(๔)	มณิมุตฺติกวาลุกา ฯ  
+<span class="LineNumber"> 004 </span>		สพฺพโสณฺณมยา(๕) รุกฺขา	นานาคนฺธสเมริตา  
+<span class="LineNumber"> 005 </span>		อุชฺโชเตนฺติ ทิวารตฺตึ	ภวนํ สพฺพกาลิกํ ฯ  
+<span class="LineNumber"> 006 </span>		สฏฺ€ิ ตูริยสหสฺสานิ	สายํ ปาโต ปวชฺชเร  
+<span class="LineNumber"> 007 </span>		โสฬสิตฺถิสหสฺสานิ		ปริวาเรนฺติ มํ สทา ฯ  
+<span class="LineNumber"> 008 </span>		อภินิกฺขมฺม ภาวนา(๖)	สุเมธํ โลกนายกํ  
+<span class="LineNumber"> 009 </span>		ปสนฺนจิตฺโต สุมโน	วนฺทยึ (๗) ตํ มหายสํ ฯ
+<span class="LineNumber"> 010 </span>		สมฺพุทฺธํ อภิวาเทตฺวา	สสงฺฆํ ตํ(๘) นิมนฺตยึ  
+<span class="LineNumber"> 011 </span>		อธิวาเสสิ โส ธีโร		สุเมโธ โลกนายโก ฯ  
+<span class="LineNumber"> 012 </span>		มม ธมฺมกถํ กตฺวา	อุยฺโยเชสิ มหามุนิ  
+<span class="LineNumber"> 013 </span>		สมฺพุทฺธํ อภิวาเทตฺวา	ภวนํ เม อุปาคมึ ฯ  
+<span class="LineNumber"> 014 </span>		อามนฺตยึ ปริชนํ		สพฺเพ สนฺนิปตาถ โว  
+<span class="LineNumber"> 015 </span>		ปุพฺพณฺหสมยํ พุทฺโธ	ภวนํ อาคมิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		ลาภา อมฺหํ (๙) สุลทฺธํ(๑๐) โน  เย วสาม ตวนฺติเก  
+<span class="LineNumber"> 017 </span>		มยมฺปิ พุทฺธเสฏฺ€สฺส	ปูชํ กสฺสาม สตฺถุโน ฯ  
+<span class="LineNumber"> 018 </span># ๑. สฺยา. โกฺจาภินทิกา ฯ  ม. โกฺจาปินทิตา ฯ 
+<span class="LineNumber"> 019 </span># ยุ. โกฺจาภินาทิตา ฯ ๒. ยุ. โกสิกา ฯ ๓. สฺยา. สิงฺคลา ฯ 
+<span class="LineNumber"> 020 </span># สี. ปิงฺคลี ฯ  ๔. สฺยา. ม. ...สมฺปนฺนา ฯ  ๕. ยุ. สพฺเพ 
+<span class="LineNumber"> 021 </span># โสวณฺณยา ฯ  ๖. สฺยา. ม. ภวนา ฯ  ๗. สฺยา. วนฺทิย ฯ 
+<span class="LineNumber"> 022 </span># ยุ. วนฺทิสฺสํ ฯ  ๘. สฺยา. สสิสฺสนฺตํ ฯ  ๙. สี. วต ฯ
+<span class="LineNumber"> 023 </span># ๑๐. สฺยา. สุลทฺธา ฯ 

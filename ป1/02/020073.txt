@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ปญฺ.		ตีหิ				ปญฺ.		ตีหิ   
+<span class="LineNumber"> 002 </span>ฉ.		ติณฺณํ   ติณฺณนฺนํ	ฉ.		ติสฺสนฺนํ
+<span class="LineNumber"> 003 </span>ส.		ตีสุ				ส.		ตีสุ
+<span class="LineNumber"> 004 </span>	ติ  ศัพท์  ใน  นุปํ.  แจกเหมือนใน  ปุํ.  แปลกแต่  ป.  ทุ.  ตีณิ
+<span class="LineNumber"> 005 </span>เท่านั้น	
+<span class="LineNumber"> 006 </span>                        วิธีเปลี่ยน  วิภัตติ  และ  การันต์
+<span class="LineNumber"> 007 </span>๑  เอา  ติ  กับ  โย  ใน  ปุํ.  เป็น  ตโย,  ใน  อิตฺ.  เป็น  ติสฺโส,  ใน
+<span class="LineNumber"> 008 </span>    นปุํ.  เป็น  ตีณิ.
+<span class="LineNumber"> 009 </span>๒  เอา  นํ  ใน  ปุํ.  นปุํ.  กับ  อิ  ที่สุด  แห่ง  ติ  เป็น  อิณฺณํ  อิณฺณนฺนํ,
+<span class="LineNumber"> 010 </span>     ใน  อิต.    เอา  นํ  เป็น  สฺสนฺนํ.
+
+<span class="LineNumber"> 011 </span>                          [๗๘]  จตุ  ศัพท์  แจกอย่างนี้  :-
+<span class="LineNumber"> 012 </span>-----------------------------------------------------------------------------------
+<span class="LineNumber"> 013 </span>		ปุํลิงค์				อิตถีลิงค์
+<span class="LineNumber"> 014 </span>		 พหุ.					    พหุ.
+<span class="LineNumber"> 015 </span>ป.	จตฺตาโร	จตุโร		ป.	จตสฺโส
+<span class="LineNumber"> 016 </span>ทุ.	จตฺตาโร	จตุโร		ทุ.	จตสฺโส
+<span class="LineNumber"> 017 </span>ต.	จตูหิ					ต.	จตูหิ
+<span class="LineNumber"> 018 </span>จ.	จตุนฺนํ				จ.	จตสฺสนฺนํ
+<span class="LineNumber"> 019 </span>ปญฺ.	จตูหิ					ปญฺ.	จตูหิ
+
+

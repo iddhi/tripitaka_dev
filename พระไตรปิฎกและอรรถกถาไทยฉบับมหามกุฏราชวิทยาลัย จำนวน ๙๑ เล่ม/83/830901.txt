@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่. 
+<span class="LineNumber"> 002 </span>         [๑๓๑]  กุศลธรรมจักเกิดแก่บุคคลใด,  อัพยากตธรรมก็จักเกิด
+<span class="LineNumber"> 003 </span>แก่บุคคลนั้น ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่าอัพยากตธรรมจักเกิดแก่บุคคลใด,    กุศลธรรมก็จักเกิด
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         บุคคลผู้ถึงพร้อมด้วยอรหัตมรรคก็ดี     พระอรหันต์ทั้งหลายก็ดี
+<span class="LineNumber"> 008 </span>อัพยากตธรรมจักเกิดแก่บุคคลเหล่านั้น     แต่กุศลธรรมไม่ใช่จักเกิดแก่
+<span class="LineNumber"> 009 </span>บุคคลเหล่านั้น,   บุคคลอื่นนอกจากนี้    อัพยากตธรรมด้วย   กุศลธรรม
+<span class="LineNumber"> 010 </span>ด้วย   จักเกิดแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 011 </span>         [๑๓๒]  อกุศลธรรมจักเกิดแก่บุคคลใด,     อัพยากตธรรมก็จัก
+<span class="LineNumber"> 012 </span>เกิดแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่าอัพยากตธรรมจักเกิดแก่บุคคลใด,  อกุศลธรรมก็จักเกิด
+<span class="LineNumber"> 015 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         บุคคลผู้ถึงพร้อมด้วยอรหัตมรรคก็ดี     พระอรหันต์ทั้งหลายก็ดี
+<span class="LineNumber"> 017 </span>บุคคลเหล่าใดจักได้อรหัตมรรคในลำดับแห่งจิตใด<SUP>๑</SUP>ก็ดี      อัพยากตธรรม
+<span class="LineNumber"> 018 </span>จักเกิดแก่บุคคลเหล่านั้น  แต่อกุศลธรรมไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,
+
+<span class='footnote'>๑.  ยสฺส  จิตฺตสฺส  อนนฺตรา  อคฺคมคฺคํ - อรหัตมรรคที่เกิดต่อจากโวทานในมรรค</span>
+<span class='footnote'>     วิถี.</span>

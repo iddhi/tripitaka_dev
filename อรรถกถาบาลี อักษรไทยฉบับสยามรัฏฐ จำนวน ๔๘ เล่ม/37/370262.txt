@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  262
+
+<span class="LineNumber"> 002 </span>	[๙๐๐]อสฺสาส เหสฺสามิ เต ปติ  
+<span class="LineNumber"> 003 </span>		ภตฺตา เต เหสฺสามิ อนินฺทโลจเน  
+<span class="LineNumber"> 004 </span>		ปฺาหิ มม(๑) ตถาวิธาหิ  
+<span class="LineNumber"> 005 </span>		อสฺสาส เหสฺสสิ ภริยา มมนฺติ(๒) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  อนินฺทโลจเนติ  อนินฺทิตพฺพโลจเน ฯ  ตถาวิธาหีติ
+<span class="LineNumber"> 007 </span>วิธุรสฺส  หทยมํสํ  อาหรณสมตฺถาหิ (๓)ฯ  อสฺสาสาติ  อสฺสาสาหิ 
+<span class="LineNumber"> 008 </span>อสฺสาสํ  ปฏิลภาหิ อตฺตมนา โหหิ ฯ เหสฺสสีติ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 009 </span>	เตน วุตฺตํ(๔)  
+<span class="LineNumber"> 010 </span>	[๙๐๑]อวจาสิ ปุณฺณกํ อิรนฺทตี  
+<span class="LineNumber"> 011 </span>		ปุพฺพปถานุคเตน เจตสา  
+<span class="LineNumber"> 012 </span>		เอหิ คจฺฉาม ปิตุ มมนฺติเก  
+<span class="LineNumber"> 013 </span>		เอเสว เต เอตมตฺถํ ปวกฺขตีติ ฯ  
+<span class="LineNumber"> 014 </span>	ตตฺถ  ปุพฺพปถานุคเตน(๕)  เจตสาติ  อนฺตเร(๖)  อตฺตภาเว  
+<span class="LineNumber"> 015 </span>อนุภูตปุพฺพสามิเก  ตสฺมึ ปุพฺพปเถเนว อนุคเตน เจตสา ฯ
+<span class="LineNumber"> 016 </span>เอหิ คจฺฉามาติ  ภิกฺขเว  โส  ยกฺขเสนาปติ  เอวํ  วตฺวา  อิมํ  
+<span class="LineNumber"> 017 </span>อสฺสปิฏฺ€ึ  อาโรเปตฺวา  เนสฺสามีติ  จินฺเตตฺวา  ปพฺพตมตฺถเก  
+<span class="LineNumber"> 018 </span>โอตริตฺวา  ตสฺสา  หตฺถํ  คหณตฺถํ  หตฺถํ  ปสาเรสิ ฯ  สา 
+<span class="LineNumber"> 019 </span># ๑. ม. มมํ ฯ  ๒. ม. มมาติ ฯ  ๓. ม. อาหรณสมตฺถา ฯ 
+<span class="LineNumber"> 020 </span># ๔. ม. อถ นํ อิรนฺธตี เตน หิ เอหิ คจฺฉาม เม ปิตุ สนฺติกนฺติ
+<span class="LineNumber"> 021 </span># อาเนสิ ฯ  ตมตฺถํ ปกาเสนฺโต สตฺถา อาห ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. ปุพฺพปถานุคเตนาติ ฯ  ๖. ม.อนนฺตเร ฯ 

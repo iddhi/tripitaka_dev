@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ปฺจมวคฺเค วิสาขปฺจาลีปุตฺตตฺเถรคาถาวณฺณนา หน้า 707
+	
+<span class="LineNumber"> 002 </span>		ตตฺถทฺทสาสึ สมฺพุทฺธํ	สยมฺภภ อปราชิตํ  
+<span class="LineNumber"> 003 </span>		ปสนฺนจิตฺโต สุมโน	วลฺลิผลมทาสหํ ฯ  
+<span class="LineNumber"> 004 </span>		เอกตฺตึเส (๑) อิโต กปฺเป  ยํ ผลมททึ ตทา  
+<span class="LineNumber"> 005 </span>		ทุคฺคตึ นาภิชานามิ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 006 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	ฉฬภิฺโ  ปน  หุตฺวา  เถโร  าตีนํ  อนุกมฺปาย  ชาติภูมึ
+<span class="LineNumber"> 008 </span>อคมาสิ ฯ  ตตฺถ  มนุสฺสา  เถรํ  อุปสงฺกมิตฺวา  กาเลน  กาลํ 
+<span class="LineNumber"> 009 </span>ธมฺมํ  สุณนฺตา  เอกทิวสํ  กติหิ(๒) นุ โข  ภนฺเต  องฺเคหิ  
+<span class="LineNumber"> 010 </span>สมนฺนาคโต  ธมฺมกถิโก  โหตีติ  ธมฺมกถิกลกฺขณํ  ปจฺฉึสุ ฯ เถโร
+<span class="LineNumber"> 011 </span>เตสํ ธมฺมกถิกลกฺขณํ กเถนฺโต  
+<span class="LineNumber"> 012 </span>			น อุกฺขิเป โน จ ปริกฺขิเป ปเร  
+<span class="LineNumber"> 013 </span>			น โอกฺขิเป ปารคตํ น เอรเย  
+<span class="LineNumber"> 014 </span>			น จตฺตวณฺณํ ปริสาสุ พฺยาหเร  
+<span class="LineNumber"> 015 </span>			อนุทฺธโต สมฺมิตภาณิ สุพฺพโต ฯ  
+<span class="LineNumber"> 016 </span>			สุสุขุมนิปุณตฺถทสฺสินา  
+<span class="LineNumber"> 017 </span>			มติกุสเลน นิวาตวุตฺตินา  
+<span class="LineNumber"> 018 </span>			สํเสวิตวุทฺธสีลินา  
+<span class="LineNumber"> 019 </span>			นิพฺพานํ น หิ เตน ทุลฺลภนฺติ(๓)  
+<span class="LineNumber"> 020 </span># ๑. ม. จตุทฺทเส ฯ ๒. เยภุยฺเยน กตีหิ นุ  โข ฯ ตํ ยถา : ธาตุกถาปกรเณ กตีหิ
+<span class="LineNumber"> 021 </span># ขนฺเธหิ กตีหิ ธาตูหิ... ฯ  ๓. ขุ. เถร. ๒๖/๓๐๒/๓๐๑

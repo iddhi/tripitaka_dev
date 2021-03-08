@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  344
+
+<span class="LineNumber"> 002 </span>ฉฬภิฺโ  อโหสิ ฯ  เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 003 </span>		สุวณฺณวณฺณํ สมฺพุทฺธํ	พาตฺตึสวรลกฺขณํ  
+<span class="LineNumber"> 004 </span>		ปวนา อภินิกฺขนฺตํ		ภิกฺขุสํฆปุรกฺขตํ ฯ (๒)  
+<span class="LineNumber"> 005 </span>		มหจฺจา(๓) กํสปาติยา	วฑฺเฒตฺวา ปายาสํ  อหํ  
+<span class="LineNumber"> 006 </span>		อาหุตึ ยิฏฺ€ุกาโม (๔) โส  อุปเนสึ พลึ(๕) อหํ ฯ  
+<span class="LineNumber"> 007 </span>		ภควา ตมฺหิ สมเย		โลกเชฏฺโ€ นราสโภ  
+<span class="LineNumber"> 008 </span>		จงฺกมํ สุสมารุโฬฺห		อมฺพเร อนิลายเน ฯ  
+<span class="LineNumber"> 009 </span>		ตฺจ อจฺฉริยํ ทิสฺวา	อพฺภุตํ โลมหํสนํ  
+<span class="LineNumber"> 010 </span>		€ปยิตฺวา กํสปาตึ		วิปสฺสึ อภิวาทยึ ฯ  
+<span class="LineNumber"> 011 </span>		ตุวํ เทโวสิ(๖) สพฺพฺู	สเทเว สหมานุเส  
+<span class="LineNumber"> 012 </span>		อนุกมฺปํ อุปาทาย		ปฏิคฺคณฺห มหามุนิ ฯ  
+<span class="LineNumber"> 013 </span>		ปฏิคฺคเหสิ ภควา		สพฺพฺู โลกนายโก (๗)  
+<span class="LineNumber"> 014 </span>		มม สงฺกปฺปมฺาย	สตฺถา โลเก มหามุนิ(๘)  
+<span class="LineNumber"> 015 </span>		เอกนวุติโต กปฺเป		ยํ ทานมททึ ตทา  
+<span class="LineNumber"> 016 </span>		ทุคฺคตึ นาภิชานามิ	ปายาสสฺส อิทํ ผลํ ฯ  
+<span class="LineNumber"> 017 </span>		เอกตาลีสิโต กปฺเป	พุทฺโธ นามาสิ ขตฺติโย  
+<span class="LineNumber"> 018 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 019 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๒/๑๒๕/๒๒๕ ฯ  ๒. ม. สุวณฺณวณฺโณ สมฺพุทฺโธ 
+<span class="LineNumber"> 021 </span># ...ลกฺขโณ ...นิกฺขนฺโต ...ปุรกฺขโต ฯ  ๓. สฺยา. สหตฺถา ฯ
+<span class="LineNumber"> 022 </span># ๔. สี. ทิฏฺ€ุกาโม ฯ  ๕. สฺยา. อคมึ สมฺพลึ ฯ  ๖. สฺยา. ทุทฺโธสิ ฯ 
+<span class="LineNumber"> 023 </span># ๗. สี. สพฺพโลกคฺคนายโก ฯ  ๘. สฺยา. อนุตฺตโร ฯ 

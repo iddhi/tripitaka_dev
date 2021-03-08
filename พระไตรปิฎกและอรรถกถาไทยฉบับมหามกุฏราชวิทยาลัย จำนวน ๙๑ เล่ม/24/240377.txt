@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H2>อรรถกถา</H2> 
+
+<span class="LineNumber"> 002 </span>         ฆฏิการสูตรที่ ๔  มีเนื้อความกล่าวมาแล้วทั้งนั้น.
+
+<span class="LineNumber"> 003 </span>                                         <h1>๕.  ชันตุสูตร</h1>
+
+<span class="LineNumber"> 004 </span>         [๒๙๓]   ข้าพเจ้าได้สดับมาแล้วอย่างนี้ :-
+<span class="LineNumber"> 005 </span>         สมัยหนึ่ง  ภิกษุเป็นจำนวนมากอยู่ในกุฎีอันตั้งอยู่ในป่าข้างเขาหิมวันต์
+<span class="LineNumber"> 006 </span>แคว้นโกศล    เป็นผู้ฟุ้งซ่าน    เย่อหยิ่ง    ฟุ้งเฟ้อ    ปากกล้า    วาจาพล่อย ๆ
+<span class="LineNumber"> 007 </span>หลงลืม  ขาดสัมปชัญญะ    ไม่มั่นคง  มีจิตคิดนอกทาง  ปล่อยตัวเยี่ยงคฤหัสถ์.
+<span class="LineNumber"> 008 </span>         [๒๙๔]   วันหนึ่งเป็นวันอุโบสถ ๑๕  ค่ำ  ชันตุเทพบุตรเข้าไปหาพวก
+<span class="LineNumber"> 009 </span>ภิกษุเหล่านั้น    แล้วจึงได้กล่าวกะภิกษุเหล่านั้นด้วยคาถาทั้งหลายว่า
+<span class="LineNumber"> 010 </span>                             <B>แต่ก่อน  พวกภิกษุสาวกพระโคดม
+<span class="LineNumber"> 011 </span>                   เป็นอยู่ง่าย ๆ ไม่มักได้แสวงหาบิณฑบาต
+<span class="LineNumber"> 012 </span>                   ไม่มักได้แสวงหาที่นอนที่นั่ง.
+<span class="LineNumber"> 013 </span>                             ท่านรู้ว่าสิ่งทั้งปวงในโลกไม่เที่ยง
+<span class="LineNumber"> 014 </span>                   กระทำที่สุดแห่งทุกข์ได้.
+<span class="LineNumber"> 015 </span>                             ส่วนท่านเหล่านี้    ทำตนให้เป็นคน
+<span class="LineNumber"> 016 </span>                   เลี้ยงยากเหมือนนายบ้านในตำบลบ้าน
+<span class="LineNumber"> 017 </span>                   กิน ๆ แล้วก็นอน  ชอบประจบไปในเรือน
+<span class="LineNumber"> 018 </span>                   ของคนอื่น.</B>

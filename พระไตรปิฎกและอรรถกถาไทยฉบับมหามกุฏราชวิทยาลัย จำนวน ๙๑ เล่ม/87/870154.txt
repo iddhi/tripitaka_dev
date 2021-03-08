@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>ปัจจัย   มี ๓ วาระ  ในปุเรชาตปัจจัย มี ๓ วาระ ในอาเสวนปัจจัย มี ๓ วาระ 
+<span class="LineNumber"> 002 </span>ในกัมมปัจจัย  มี ๓ วาระ  ในวิปากปัจจัย  มี ๑ วาระ ในอาหารปัจจัย  มี ๓
+<span class="LineNumber"> 003 </span>วาระ  ในอินทริยปัจจัย  มี ๓ วาระ ในฌานปัจจัย มี ๓ วาระ   ในมัคคปัจจัย
+<span class="LineNumber"> 004 </span>มี ๒ วาระ   ในสัมปยุตตปัจจัย    มี ๓ วาระ   ในวิปปยุตตปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 005 </span>ในนัตถิปัจจัย มี ๓ วาระ ในวิคตปัจจัย มี ๓ วาระ ในอวิคตปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 006 </span>           พึงนับอย่างนี้. 
+<span class="LineNumber"> 007 </span>                                             <I>ปัจจนียานุโลม  จบ</I>
+
+<span class="LineNumber"> 008 </span>                                                 <H1>สัมปยุตตวาระ</H1>
+<span class="LineNumber"> 009 </span>                            <H1>สัมปยุตตวาระ    เหมือนกับสังสัฏฐวาระ</H1>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  480
+
+<span class="LineNumber"> 002 </span>ทูโต [๑] ตว อชฺฌาสยปูรณตฺถํ(๒) ปุณฺณปตฺตํ เทมีติ(๓) ฯ  
+<span class="LineNumber"> 003 </span>			ชูชกปพฺพํ นิฏฺ€ิตํ (๔) ฯ 
+<span class="LineNumber"> 004 </span>	เอวํ  เจตปุตฺโต  พฺราหฺมณํ  โภเชตฺวา  ปาเถยฺยสฺสตฺถาย(๕)
+<span class="LineNumber"> 005 </span>ตสฺส  มธุโน  ตุมฺพฺเจว  ปกฺกมิคสตฺถิฺจ  ทตฺวา  มคฺเค  €เปตฺวา(๖)
+<span class="LineNumber"> 006 </span>ทกฺขิณหตฺถํ  อุกฺขิปิตฺวา มหาสตฺตสฺส วสโนกาสํ อาจิกฺขนฺโต
+<span class="LineNumber"> 007 </span>อาห  
+<span class="LineNumber"> 008 </span>	[๑๑๓๙]เอสเสโล มหาพฺรหฺเม	ปพฺพโต คนฺธมาทโน  
+<span class="LineNumber"> 009 </span>		ยตฺถ เวสฺสนฺตโร ราชา	สหปุตฺเตหิ สมฺมติ  
+<span class="LineNumber"> 010 </span>		ธาเรนฺโต พฺราหฺมณวณฺณํ  อาสทฺจ มสฺชฏํ  
+<span class="LineNumber"> 011 </span>		จมฺมวาสี ฉมา เสติ	ชาตเวทํ นมสฺสติ  
+<span class="LineNumber"> 012 </span>		เอเต นีลา ปทิสฺสนฺติ	นานาผลธรา ทุมา  
+<span class="LineNumber"> 013 </span>		อุคฺคตา อพฺภกูฏาว	นีลา อฺชนปพฺพตา  
+<span class="LineNumber"> 014 </span>		ธวสฺสกณฺณา ขทิรา	สาลา ผนฺทนมาลุวา  
+<span class="LineNumber"> 015 </span>		สมฺปเวเธนฺติ วาเตน	สกึ ปีตาว มาณวา  
+<span class="LineNumber"> 016 </span>		อุปริ ทุมปริยาเยสุ		สงฺคีติโยว สุยฺยเร  
+<span class="LineNumber"> 017 </span>		นชฺชุหา โกกิลา สงฺฆา	สมฺปตนฺติ ทุมา ทุมํ  
+<span class="LineNumber"> 018 </span>		อวฺหยนฺเตว คจฺฉนฺตํ	สาขาปตฺตสมีริตา  
+<span class="LineNumber"> 019 </span>		รมยนฺเตว อาคนฺตุํ		โมทยนฺติ นิวาสนํ  
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร ปุณฺณปตฺตนฺตีติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. อชฺฌาสยปูรณํ ฯ  ๓.ม. ททามีติ ฯ  
+<span class="LineNumber"> 022 </span># ๔. ม. ชูชกปพฺพวณฺณนา นิฏฺ€ิตา ฯ ๕.ม. ปาเถยฺยตฺถาย ฯ
+<span class="LineNumber"> 023 </span># ๖. ม. €ตฺวา ฯ 

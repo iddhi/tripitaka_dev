@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span><H2>มานานุสยมูละ  อวิชชานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         บุคคลใด   ละมานานุสัย   จากที่ใด,  บุคคลนั้น ย่อมละอวิชชา-
+<span class="LineNumber"> 003 </span>นุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า  บุคคลใด   ละอวิชชานุสัย  จากที่ใด,   บุคคลนั้น  ละ
+<span class="LineNumber"> 006 </span>มานานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         พระอริยบุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรค ละอวิชชา-
+<span class="LineNumber"> 008 </span>นุสัย    ที่ทุกขเวทนา    พระอริยบุคคลผู้มีความพร้อมเพรียงด้วยอรหัต-
+<span class="LineNumber"> 009 </span>มรรคนั้น   ละอวิชชานุสัย  จากที่นั้น   พระอริยบุคคลผู้มีความพร้อม
+<span class="LineNumber"> 010 </span>เพรียงด้วยอรหัตมรรคนั้น   ไม่ใช่ละมานานุสัย  จากที่นั้น,  บุคคลนั้น
+<span class="LineNumber"> 011 </span>นั่นแหละ   ละอวิชชานุสัย      ที่เวทนา   ๒     ในกามธาตุ     ที่รูปธาตุ
+<span class="LineNumber"> 012 </span>รูปธาตุ      บุคคลนั้น  ละอวิชชานุสัย   และมานานุสัย  จากที่นั้น.
+<span class="LineNumber"> 013 </span>                      <I>จบ  มานานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 014 </span>                                   <I>มานานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 015 </span>                                     <H1>ทิฏฐานุสยมูล</H1> 
+<span class="LineNumber"> 016 </span><H2>ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 017 </span>         [๑๓๗๙]   บุคคลใด    ละทิฏฐานุสัย    จากที่ใด,   บุคคลนั้น

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                             แบบสนธิตามวิธีสํสกฤต 
+<span class="LineNumber"> 002 </span>	วิธีทำสนธิในภาษาบาลีนั้น ตามพระมหาสมณาธิบายว่า  อาจ
+<span class="LineNumber"> 003 </span>น้อมไปให้ต้องตามสนธิกิริโยปกรณ์อย่างใดอย่างหนึ่งที่ตนชอบใจ  ถ้า
+<span class="LineNumber"> 004 </span>ไม่ผิดแล้ว  ก็เป็นอันใช้ได้  ไม่เหมือนภาษาสํสกฤต  เพราะภาษา
+<span class="LineNumber"> 005 </span>สํสกฤต  มีวิธีข้อบังคับเป็นแบบเดียว  จะยักเยื้องเป็นอย่างอื่นไป
+<span class="LineNumber"> 006 </span>ไม่ได้  และได้ทรงเลืองวิธีทำสนธิในภาษาสํสกฤตมาทรงอธิบายไว้
+<span class="LineNumber"> 007 </span>ข้างท้ายหนังสืออักขรวิธี  ภาคที่ ๑  ซึ่งถือเอาใจความดังต่อไปนี้:-
+<span class="LineNumber"> 008 </span>	๑.  ถ้าสระหน้าและสระหลัง มีรูปเหมือนกัน  เอาสระทั้งสองนั้น
+<span class="LineNumber"> 009 </span>ผสมกันเข้า  เป็นทีฆะตามรูปของตน ดังนี้:-
+<span class="LineNumber"> 010 </span>	อ  กับ  อ    ผสมกัน     เป็น   อา
+<span class="LineNumber"> 011 </span>	อิ    "    อิ         "              "      อี
+<span class="LineNumber"> 012 </span>	อุ    "    อุ         "               "     อู
+<span class="LineNumber"> 013 </span>	อา  "    อา        "              "     อา
+<span class="LineNumber"> 014 </span>	อี    "    อี           "             "      อี
+<span class="LineNumber"> 015 </span>	อู    "     อู          "             "       อู
+<span class="LineNumber"> 016 </span>	๒.  ถ้าสระหน้าและสระหลัง  มีรูปไม่เหมือนกัน  เอาสระทั้งสอง
+<span class="LineNumber"> 017 </span>นั้นผสมกัน  เป็นรูปดังนี้:-
+<span class="LineNumber"> 018 </span>	อ   กับ   อิ      หรือ     อี      เป็น   เอ
+<span class="LineNumber"> 019 </span>	อา   "      อิ        "        อี         "      เอ
+<span class="LineNumber"> 020 </span>	อ     "       อุ        "        อู         "      โอ
+<span class="LineNumber"> 021 </span>	อา    "       อุ       "        อู         "       โอ
+  

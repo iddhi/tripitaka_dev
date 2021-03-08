@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                เอต  ศัพท์   ในอิตถีลิงค์  แจกอย่างนี้ :-    
+<span class="LineNumber"> 002 </span>---------------------------------------------------------------------------
+<span class="LineNumber"> 003 </span>		เอก.						พหุ.
+<span class="LineNumber"> 004 </span>ป.	เอสา						เอตา
+<span class="LineNumber"> 005 </span>ทุ.	เอตํ	เอนํ					เอตา
+<span class="LineNumber"> 006 </span>ต.	เอตาย					เอตาหิ
+<span class="LineNumber"> 007 </span>จ.	เอตสฺสา  เอติสฺสา  เอติสฺสาย	เอตาสํ 	เอตาสานํ
+<span class="LineNumber"> 008 </span>ปญฺ.	เอตาย					เอตาหิ
+<span class="LineNumber"> 009 </span>ฉ.	เอตสฺสา  เอติสฺสา  เอติสฺสาย	เอตาสํ	เอตาสานํ
+<span class="LineNumber"> 010 </span>ส.	เอตสฺสํ  เอติสฺสํ			เอตาสุ
+<span class="LineNumber"> 011 </span>	เอต  ศัพท์  ในนปุํสกลิงค์  แจกเหมือนในปุํลิงค์  แปลกแต่
+<span class="LineNumber"> 012 </span>เอก.  ป.  เอตํ,  พหุ.  ป.  ทุ.  เอตานิ  เท่านั้น.
+<span class="LineNumber"> 013 </span>	[๘๙]  อิม  ศัพท์  [นี้] ในปุํลิงค์  แจกอย่างนี้ :-
+<span class="LineNumber"> 014 </span>----------------------------------------------------------------------------
+<span class="LineNumber"> 015 </span>		เอก.						พหุ.
+<span class="LineNumber"> 016 </span>ป. 	อยํ						อิเม
+<span class="LineNumber"> 017 </span>ทุ.	อิมํ						อิเม
+<span class="LineNumber"> 018 </span>ต.	อิมินา   อเนน				อิเมหิ
+<span class="LineNumber"> 019 </span>จ.	อิมสฺส   อสฺส				อิเมสํ	อิเมสานํ
+<span class="LineNumber"> 020 </span>ปญฺ.	อิมสฺมา  อิมมฺหา  อสฺมา		อิเมหิ
+<span class="LineNumber"> 021 </span>ฉ.	อิมสฺส   อสฺส				อิเมสํ  	อิเมสานํ
+<span class="LineNumber"> 022 </span>ส.	อิมสฺมึ   อิมมฺหิ  อสฺมึ		อิเมสุ
+	

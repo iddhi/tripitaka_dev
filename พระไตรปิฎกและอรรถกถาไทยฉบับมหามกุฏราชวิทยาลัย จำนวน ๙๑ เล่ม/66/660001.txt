@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>พระสุตตันตปิฎก</H2>
+<span class="LineNumber"> 002 </span>                                <H1>ขุททกนิกาย  มหานิทเทส</H1>
+<span class="LineNumber"> 003 </span>                                     <H1>เล่มที่  ๕  ภารที่  ๒</H1>
+<span class="LineNumber"> 004 </span>      <H4>ขอนอบน้อมแด่พระผู้พระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 005 </span>                                     <H1>อัฏฐกวัคคิกะ</H1><SUP>๑</SUP> 
+<span class="LineNumber"> 006 </span>                             <H1>ปุราเภทสุตตนิทเทสที่  ๑๐</H1>
+<span class="LineNumber"> 007 </span>           [๓๗๔] <B>(พระพุทธนิมิตตรัสถามว่า)  บุคคลมีความเห็นอย่างไร
+<span class="LineNumber"> 008 </span>                   มีศีลอย่างไร  อันบัณฑิตกล่าวว่า  เป็นผู้เข้าไปสงบแล้ว
+<span class="LineNumber"> 009 </span>                   ข้าแต่พระโคดม    พระองค์ถูกถามแล้ว   ขอจงตรัสบอก
+<span class="LineNumber"> 010 </span>                   บุคคลนั้น  ซึ่งเป็นนรชนผู้อุดม  แก่ข้าพระองค์.</B>
+
+<span class="LineNumber"> 011 </span>                        <H2>ว่าด้วยคำถามของพระพุทธนิมิต</H2>
+<span class="LineNumber"> 012 </span>           [๓๗๕] <B>คำว่า  มีความเห็นอย่างไร</B>  ในคำว่า  <B>บุคคลมีความเห็น
+<span class="LineNumber"> 013 </span>อย่างไร     มีศีลอย่างไร    อันบัณฑิตกล่าวว่า    เป็นผู้เข้าไปสงบแล้ว
+<span class="LineNumber"> 014 </span>ความว่า    บุคคลประกอบด้วยความเห็นเช่นไร    คือ    ด้วยความดำรงอยู่
+<span class="LineNumber"> 015 </span>อย่างไร    ด้วยประการอย่างไร    ด้วยส่วนเปรียบอย่างไร     เพราะฉะนั้น
+<span class="LineNumber"> 016 </span>จึงชื่อว่า มีความเห็นอย่างไร. คำว่า  มีศีลอย่างไร   ความว่า บุคคลประกอบ</B>
+
+<span class='footnote'>๑. บาลีเล่มที่  ๒๙. คำนี้พม่าเป็นอัฏฐกวัคคะ.</span>
+	

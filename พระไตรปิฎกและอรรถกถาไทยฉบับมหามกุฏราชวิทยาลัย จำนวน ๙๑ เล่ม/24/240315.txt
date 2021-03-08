@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                               <h1>๑๐.  ปัชโชตสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>         [๒๑๗]   เทวดาทูลถามว่า
+<span class="LineNumber"> 003 </span>                             <B>อะไรหนอ เป็นแสงสว่างในโลก อะไร
+<span class="LineNumber"> 004 </span>                   หนอ เป็นธรรมเครื่องตื่นอยู่ในโลก  อะไร
+<span class="LineNumber"> 005 </span>                   หนอ  เป็นสหายในการงานของผู้เป็นอยู่
+<span class="LineNumber"> 006 </span>                   ด้วยการงาน  อะไรหนอ  เป็นเครื่องสืบต่อ
+<span class="LineNumber"> 007 </span>                   ชีวิตของเขา  อะไรหนอบุคคลผู้เกียจคร้าน
+<span class="LineNumber"> 008 </span>                   บ้าง  ไม่เกียจคร้านบ้าง    ย่อมพะนอเลี้ยง
+<span class="LineNumber"> 009 </span>                   ดุจมารดาเลี้ยงดูบุตร  เหล่าสัตว์มีชีวิตที่
+<span class="LineNumber"> 010 </span>                   อาศัยแผ่นดินอาศัยอะไรหนอเลี้ยงชีวิต.</B>
+<span class="LineNumber"> 011 </span>         [๒๑๘]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 012 </span>                             <B>ปัญญาเป็นแสงสว่างในโลก  สติ
+<span class="LineNumber"> 013 </span>                   เป็นธรรมเครื่องตื่นอยู่ในโลก    ฝูงใดเป็น
+<span class="LineNumber"> 014 </span>                   สหายในการงานของผู้เป็นอยู่ด้วยการงาน
+<span class="LineNumber"> 015 </span>                   ไถเป็นเครื่องต่อชีวิตของเขา  ฝนย่อมเลี้ยง
+<span class="LineNumber"> 016 </span>                   บุคคลผู้เกียจคร้านบ้าง  ไม่เกียจคร้านบ้าง
+<span class="LineNumber"> 017 </span>                   เหมือนมารดาเลี้ยงบุตร   เหล่าสัตว์มีชีวิตที่
+<span class="LineNumber"> 018 </span>                   อาศัยแผ่นดิน  อาศัยฝนเลี้ยงชีวิต.</B>

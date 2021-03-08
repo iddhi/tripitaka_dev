@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             [ว่าด้วยถามปัญหา]
+<span class="LineNumber"> 002 </span>           สองบทว่า  <B>มนฺทตฺตา  โมมูหตฺตา</B>  มีความว่า  เพราะความ
+<span class="LineNumber"> 003 </span>เป็นผู้โง่   เพราะความเป็นผู้งมงาย  จึงไม่สามารถทั้งเพื่อจะแก้  ทั้ง
+<span class="LineNumber"> 004 </span>เพื่อจะรู้  จะประกาศความที่ตนเป็นผู้งมงายอย่างเดียวเท่านั้น  จึงถาม
+<span class="LineNumber"> 005 </span>คล้ายคนบ้า.
+<span class="LineNumber"> 006 </span>           บทว่า  <B>ปาปิจฺโฉ</B>  ได้แก่  ถามด้วยความปรารถนาลามกว่า
+<span class="LineNumber"> 007 </span>"ชนจักสรรเสริญเรา  ด้วยอุบายอย่างนี้."
+<span class="LineNumber"> 008 </span>           บทว่า  <B>ปริภวา</B>  ได้แก่  เป็นผู้ใคร่จะยกความดูหมิ่นจึงถาม.
+<span class="LineNumber"> 009 </span>แม้ในอัญญพยากรณ์  ก็มีนัยเหมือนกัน.
+<span class="LineNumber"> 010 </span>           คำที่เหลือในบททั้งปวง  ตื้นทั้งนั้น  ฉะนี้แล.
+<span class="LineNumber"> 011 </span>                             ทิฏฐาวิกัมมวัคค  วัณณนา จบ.
+<span class="LineNumber"> 012 </span>           คำใดที่จะพึงกล่าว  ในอัตตาทานวัคค์และธุตังควัคค์ , คำนั้น
+<span class="LineNumber"> 013 </span>ทั้งหมด  ได้กล่าวแล้วในหนหลังแล.
+<span class="LineNumber"> 014 </span>                                   [ว่าด้วยมุสาวาท]
+<span class="LineNumber"> 015 </span>           วินิจฉัยในมุสาวาทวัคค์  พึงทราบดังนี้ :-
+<span class="LineNumber"> 016 </span>           มุสาวาทที่จัดเป็นปาราชิกคามี  เพราะอรรถว่า  ถึงปาราชิก,
+<span class="LineNumber"> 017 </span>อธิบายว่า  ถึงความเป็นอาบัติปาราชิก.  แม้ในมุสาวาทนอกนี้  ก็มี
+<span class="LineNumber"> 018 </span>นัยเหมือนกัน.
+<span class="LineNumber"> 019 </span>           ในมุสาวาท  ๕ อย่างนั้น  มุสาวาทที่เป็นไปโดยอวดอุตตริมนุสส-
+<span class="LineNumber"> 020 </span>ธรรมที่ไม่มี  (ในตน)  เป็นปาราชิกคามี,  มุสาวาทที่เป็นไปโดยตาม
+  

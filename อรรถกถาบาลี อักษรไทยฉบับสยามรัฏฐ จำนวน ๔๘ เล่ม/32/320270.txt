@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  กุมฺมาสปิณฺฑชาตกํ  หน้า 270
+
+<span class="LineNumber"> 002 </span>โส  ปีติยา  เตมิตหทโย  มหาชนสฺส  มชฺเฌ  อุทานคีตํ  คายนฺโต
+<span class="LineNumber"> 003 </span>เทฺว คาถา อภาสิ  
+<span class="LineNumber"> 004 </span>	[๑๑๐๗] น กิรตฺถิ อโนมทสฺสิสุ  
+<span class="LineNumber"> 005 </span>		ปาริจริยา พุทฺเธสุ อปฺปกา(๑)  
+<span class="LineNumber"> 006 </span>		สุกฺขาย อโลณิกาย จ  
+<span class="LineNumber"> 007 </span>		ปสฺส ผลํ กุมฺมาสปิณฺฑิยา ฯ  
+<span class="LineNumber"> 008 </span>		หตฺถี ควาสฺสาปิ เม(๒) พหู  
+<span class="LineNumber"> 009 </span>		ธนธฺา(๓) ป€วี จ เกวลา  
+<span class="LineNumber"> 010 </span>		นาริโยปิมา(๔) อจฺฉรูปมา  
+<span class="LineNumber"> 011 </span>		ปสฺส ผลํ กุมฺมาสปิณฺฑิยาติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อโนมทสฺสิสูติ  อโนมสฺส  อลามกสฺส  ปจฺเจก-
+<span class="LineNumber"> 013 </span>โพธิาณสฺส  ทิฏฺ€ตฺตา  ปจฺเจกพุทฺธา  อโนมทสฺสิโน  นาม  ฯ  
+<span class="LineNumber"> 014 </span>ปาริจริยาติ  อภิวาทนปจฺจุฏฺ€านอฺชลิกมฺมาทิเภทา  สามีจิกิริยาปิ 
+<span class="LineNumber"> 015 </span>ทิฏฺ€สมฺปตฺตึ  ทิสฺวา  อตฺตโน  สนฺตกํ  อปฺปํ  วา  พหุํ  วา  ลูขํ  
+<span class="LineNumber"> 016 </span>วา  ปณีตํ  วา  เทยฺยธมฺมํ  จิตฺตํ  ปสาเทตฺวา  คุณํ  สลฺลกฺเขตฺวา
+<span class="LineNumber"> 017 </span>ติสฺโส  เจตนา  วิโสเธตฺวา  ผลํ  สทฺทหิตฺวา  ปริจฺจชนกิริยาปิ  ฯ
+<span class="LineNumber"> 018 </span>พุทฺเธสูติ  ปจฺเจกพุทฺเธสุ  ฯ  อปฺปกาติ  มนฺทา  ปริตฺตา  นาม 
+<span class="LineNumber"> 019 </span>นตฺถิ  กิร  ฯ สุกฺขายาติ  นิเสฺนหาย  ฯ  อโลณิกายาติ  
+<span class="LineNumber"> 020 </span>ผาณิตรหิตาย  ฯ  นิปฺผาทิตตฺตา  หิ  สา  อโลณิกาติ  วุตฺตา  ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. อปฺปิกา ฯ ๒. ส. ม. หตฺถิควาสฺสา จิเม ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ธนธฺํ ฯ ๔. ส. ม. นาริโย จิมา ฯ 

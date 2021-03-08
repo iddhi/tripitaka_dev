@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.  ไม่อาจฝึกปรืออันเตวาสิก    หรือสัทธิวิหาริก    ในสิกขาเป็นส่วน  
+<span class="LineNumber"> 002 </span>อภิสมาจาร 
+<span class="LineNumber"> 003 </span>           ๒.   ไม่อาจแนะนำอันเตวาสิก    หรือสัทธิวิหาริก    ในสิกขาเป็นส่วน
+<span class="LineNumber"> 004 </span>เบื้องต้นแห่งพรหมจรรย์
+<span class="LineNumber"> 005 </span>           ๓.  ไม่อาจแนะนำในศีลอันยิ่งขึ้นไป
+<span class="LineNumber"> 006 </span>           ๔.  ไม่อาจแนะนำในจิตอันยิ่งขึ้นไป
+<span class="LineNumber"> 007 </span>           ๕.  ไม่อาจแนะนำในปัญญาอันยิ่งขึ้นไป
+<span class="LineNumber"> 008 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕ นี้แล  ไม่พึงให้อุปสมบท   ไม่
+<span class="LineNumber"> 009 </span>พึงให้นิสัย  ไม่พึงให้สามเณรอุปัฏฐาก
+
+<span class="LineNumber"> 010 </span>                            <H1>ภิกษุผู้ควรให้อุปสมบทเป็นต้น</H1>
+<span class="LineNumber"> 011 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์  ๕  พึงให้อุปสมบท  พึงให้นิสัย
+<span class="LineNumber"> 012 </span>พึงให้สามเณรอุปัฏฐาก  องค์ ๕ อะไรบ้าง  คือ:-
+<span class="LineNumber"> 013 </span>           ๑.  อาจฝึกปรืออันเตวาสิก   หรือสัทธิวิหาริก   ในสิกขาเป็นส่วนอภิ-
+<span class="LineNumber"> 014 </span>สมาจาร                                                              
+<span class="LineNumber"> 015 </span>           ๒.   อาจแนะนำอันเตวาสิกหรือสัทธิวิหาริก ในสิกขาเป็นส่วนเบื้องต้น
+<span class="LineNumber"> 016 </span>แห่งพรหมจรรย์
+<span class="LineNumber"> 017 </span>           ๓.   อาจแนะนำในศีลอันยิ่งขึ้นไป 
+<span class="LineNumber"> 018 </span>           ๔.  อาจแนะนำในจิตอันยิ่งขึ้นไป              
+<span class="LineNumber"> 019 </span>           ๕.  อาจแนะนำในปัญญาอันยิ่งขึ้นไป
+<span class="LineNumber"> 020 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕ นี้แล  พึงให้อุปสมบท  พึงให้
+<span class="LineNumber"> 021 </span>นิสัย  พึงให้สามเณรอุปัฏฐาก

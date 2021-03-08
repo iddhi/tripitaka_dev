@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 361
+
+<span class="LineNumber"> 002 </span>		มาลฺจ คนฺธฺจ วิเลปนฺจ  
+<span class="LineNumber"> 003 </span>		ปทีปยํ เสยฺยมุปสฺสยฺจ  
+<span class="LineNumber"> 004 </span>		อทฺฉาทนํ สยนํ อนฺนปานํ (๑) 
+<span class="LineNumber"> 005 </span>		สกฺกจฺจํ ทานานิ อทมฺห ตตฺถ  
+<span class="LineNumber"> 006 </span>		ตํ เม วตฺตํ ตมฺปน(๒) พฺรหฺมจริยํ  
+<span class="LineNumber"> 007 </span>		ตสฺส สุจิณฺณสฺส อยํ วิปาโก  
+<span class="LineNumber"> 008 </span>		อิทฺธี ชุตี พลวิริยูปปตฺติ  
+<span class="LineNumber"> 009 </span>		อิทฺจ เม ธีร มหาวิมานนฺติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  มนุสฺสโลเกติ  องฺครฏฺเ€  กาฬจมฺปากนคเร ฯ  ตํ  
+<span class="LineNumber"> 011 </span>เม  วตฺตนฺติ  ตํ  สกฺกจฺจํ  ทินฺนํ  ทานเมว  มยฺหํ  วตฺตสมาทานํ 
+<span class="LineNumber"> 012 </span>พฺรหฺมจริยฺจ  อโหสิ ตสฺเสว สุจิณฺณสฺส อยํ อิทฺธาทิโก 
+<span class="LineNumber"> 013 </span>วิปาโก(๓) ฯ  
+<span class="LineNumber"> 014 </span>	มหาสตฺโต อาห  
+<span class="LineNumber"> 015 </span>	[๑๐๑๒]เอวฺจ(๔) เต ลทฺธมิทํ วิมานํ  
+<span class="LineNumber"> 016 </span>		ชานาสิ ปุฺานํ ผลูปปตฺตึ  
+<span class="LineNumber"> 017 </span>		ตสฺมา หิ ธมฺมํ จร อปฺปมตฺโต  
+<span class="LineNumber"> 018 </span>		ยถา วิมานํ ปุน มาวเวสีติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ  ชานาสีติ  สเจ  ตยา  ทานานุภาเวเนว  ตํ  ลทฺธํ  
+<span class="LineNumber"> 020 </span>เอวํ  สนฺเต  ชานาสิ  นาม  ปุฺานํ  ผลฺจ  ปุฺผเลน 
+<span class="LineNumber"> 021 </span>นิพฺพตฺตํ อุปปตฺติฺจ ฯ  ตสฺมาติ  ยสฺมา  ปุฺเหิ  ตยา  อิทํ 
+<span class="LineNumber"> 022 </span># ๑. ม. สายนมนฺนปานํ ฯ  ๒. ม. วตํ ตํ ปน ฯ 
+<span class="LineNumber"> 023 </span># ๓. ม. วิปาโกติ ฯ  ๔. ม. เอวํ เจ ฯ 

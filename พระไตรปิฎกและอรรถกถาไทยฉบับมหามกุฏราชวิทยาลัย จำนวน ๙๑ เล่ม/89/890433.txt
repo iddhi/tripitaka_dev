@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่ไม่ใช่อุปาทานธรรม.
+<span class="LineNumber"> 002 </span>         ในปฏิสนธิขณะ กฏัตตารูป  อาศัยขันธ์ทั้งหลายที่ไม่ใช่อุปาทานธรรม.
+<span class="LineNumber"> 003 </span>         หทยวัตถุ  อาศัยขันธ์ทั้งหลาย,  ขันธ์ทั้งหลาย  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 004 </span>         ฯลฯ อาศัยมหาภูตรูป ๑  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 005 </span>                     ๓.  <B>ธรรมที่ไม่ใช่อุปาทานธรรม  อาศัยอุปาทานธรรม
+<span class="LineNumber"> 006 </span>และธรรมที่ไม่ใช่อุปาทานธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  จิตตสมุฏฐานรูป อาศัยอุปาทานธรรม และสัมปยุตตขันธ์ทั้งหลาย,
+<span class="LineNumber"> 008 </span>จิตตสมุฏฐานรูป  อาศัยอุปาทานธรรมและมหาภูตรูปทั้งหลาย.
+
+<span class="LineNumber"> 009 </span>                     <H2>๓.  นอธิปติปัจจัย  ฯลฯ   ๙.  นอุปนิสยปัจจัย</H2>
+<span class="LineNumber"> 010 </span>         <B>ฯลฯ   เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 011 </span>         <B>ฯลฯ   เพราะนอนันตรปัจจัย</B>
+<span class="LineNumber"> 012 </span>         <B>ฯลฯ   เพราะนอุปนิสสยปัจจัย</B>
+
+<span class="LineNumber"> 013 </span>                                         <H2>๑๐.  นปุเรชาตปัจจัย</H2>
+<span class="LineNumber"> 014 </span>         [๓๕๑] ๑.  <B>อุปาทานธรรม    อาศัยอุปาทานธรรม    เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 016 </span>         คือ  ในอรูปภูมิ กามุปาทาน   อาศัยอัตตวาทุปาทาน,  อัตตาวาทุปาทาน
+<span class="LineNumber"> 017 </span>อาศัยกามุปาทาน.
+<span class="LineNumber"> 018 </span>                     ๒.  ธรรมที่ไม่ใช่อุปาทธรรม  อาศัยอุปาทานธรรม
+<span class="LineNumber"> 019 </span>เกิดขึ้น   เพราะนปุเรชาตปัจจัย

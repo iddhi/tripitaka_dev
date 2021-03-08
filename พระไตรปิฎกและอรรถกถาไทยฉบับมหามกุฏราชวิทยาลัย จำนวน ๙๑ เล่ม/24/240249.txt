@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๖.  อัจฉราสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                            <H1>ว่าด้วยยานไปพระนิพพาน</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๔๓]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 004 </span>                             <B>ป่าชัฏชื่อโมหนะ  อันหมู่นางอัปสร
+<span class="LineNumber"> 005 </span>                   ประโคมแล้ว         อันหมู่ปีศาจสิงอยู่แล้ว
+<span class="LineNumber"> 006 </span>                   ทำไฉนจึงจะหนีไปได้.</B>
+<span class="LineNumber"> 007 </span>         [๑๔๔]   พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 008 </span>                             <B>ทางนั้นชื่อว่าเป็นทางตรง    ทิศนั้น
+<span class="LineNumber"> 009 </span>                   ชื่อว่าไม่มีภัย   รถชื่อว่าไม่มีเสียงดัง  ประ-
+<span class="LineNumber"> 010 </span>                   กอบด้วยล้อคือธรรม หิริเป็นฝาของรถนั้น
+<span class="LineNumber"> 011 </span>                   สติเป็นเกราะกั้นของรถนั้น  เรากล่าวธรรม
+<span class="LineNumber"> 012 </span>                   มีสัมมาทิฏฐินำหน้าว่าเป็นสารถี  ยานชนิด
+<span class="LineNumber"> 013 </span>                   นี้มีอยู่แก่ผู้ใด  จะเป็นหญิงหรือชายก็ตาม
+<span class="LineNumber"> 014 </span>                   เขา  (ย่อมไป)  ในสำนักพระนิพพานด้วย
+<span class="LineNumber"> 015 </span>                   ยานนี้แหละ.</B>

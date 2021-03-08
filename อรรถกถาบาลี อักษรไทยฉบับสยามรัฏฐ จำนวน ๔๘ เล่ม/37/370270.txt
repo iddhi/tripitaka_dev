@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  270
+
+<span class="LineNumber"> 002 </span>		วิธุรสฺส หทยํ ธนียติ  
+<span class="LineNumber"> 003 </span>		ตํ เนสํ(๑) ททามิ(๒) อิสฺสร  
+<span class="LineNumber"> 004 </span>		เตน เต เทนฺติ อิรนฺทตึ มมนฺติ ฯ  
+<span class="LineNumber"> 005 </span>	ตตฺถ  เทววาหวหนฺติ  วหิตพฺโพ  วาโห  เทวสํขาตํ  วาหํ  
+<span class="LineNumber"> 006 </span>วหตีติ  เทววาหวโห(๓) ฯ  ยานนฺติ(๔)  นยนฺติ  คจฺฉนฺติ  เอเตนาติ 
+<span class="LineNumber"> 007 </span>ยานํ ฯ  กปฺปิตเกสมสฺสูติ  มณฺฑนวเสน  สุสํวิหิตเกสมสฺสุ ฯ 
+<span class="LineNumber"> 008 </span>เทวานํ  ปน  เกสมสฺสุกมฺมํ(๕)  นาม  นตฺถิ  วิจิตฺตกถิเตน  กถนฺติ(๖) ฯ 
+<span class="LineNumber"> 009 </span>ชิคึสนฺติ ปตฺถยนฺโต ฯ  เวสฺสวณนฺติ  วิสานาย  ราชธานิยา 
+<span class="LineNumber"> 010 </span>อิสฺสรราชานํ ฯ  กุเวรนฺติ  เอวํ  นามกํ ฯ  โภควตี  นามาติ 
+<span class="LineNumber"> 011 </span>สมฺปนฺนโภคตาย  เอวํ  ลทฺธนามํ ฯ  มนฺทิเรติ  มนฺทิรํ  ภวนนฺติ 
+<span class="LineNumber"> 012 </span>อตฺโถ ฯ  วาสา  หิรฺวตีติ  นาคราชสฺส  วสนฏฺ€านตฺตา 
+<span class="LineNumber"> 013 </span>วาสาติ  จ  กาฺจนวติยา  สุวณฺณปากาเรเนว  ปริกฺขิตฺตตฺตา
+<span class="LineNumber"> 014 </span>หิรฺวตีติ  จ  วุจฺจติ ฯ  นคเร นิมฺมิเตติ นครํ นิมฺมิตํ ฯ  
+<span class="LineNumber"> 015 </span>กาฺจนมเยติ  สุวณฺณมยํ ฯ  มณฺฑลสฺสาติ  โภคมณฺฑเลน  
+<span class="LineNumber"> 016 </span>สมนฺนาคตสฺส ฯ  นิฏฺ€ิตนฺติ  กรณปรินิฏฺ€ิตํ ฯ  โอฏฺ€คีวิโยติ  
+<span class="LineNumber"> 017 </span>โอฏฺ€คีวสณฺ€าเนน(๗)  กตา ฯ  โลหิตงฺคสฺส  มสารคลฺลิโนติ 
+<span class="LineNumber"> 018 </span>รตฺตมณิมยา  มสารคลฺลมยา(๘)  อฏฺฏาลกา ฯ  ปาสาเทตฺถาติ 
+<span class="LineNumber"> 019 </span>เอตฺถ  นาคภวเน  ปาสาทา ฯ  สิลามยาติ  มณิมยา ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. เตสํ ฯ  ๒. ม. เทมิ ฯ  ๓. ม. เทววาหวหํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. ยนฺติ ฯ  ๕. ม. เกสมสฺสุกรณกมฺมํ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ปน กถิตํ ฯ  ๗. ม. โอฏฺ€คีวาสณฺ€าเนน ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม. รตฺตมณิมสารคลฺลมยา ฯ 

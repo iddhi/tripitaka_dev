@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>					*เล่มที่ ๑๒    หน้า  ๑
+
+<span class="LineNumber"> 002 </span>			สารตฺถปฺปกาสินี  นาม  สํยุตฺตนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>					สฬายตนวคฺควณฺณนา  
+<span class="LineNumber"> 004 </span>		นโม  ตสฺส  ภควโต  อรหโต  สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>					สฬายตนสํยุตฺตวณฺณนา  
+
+<span class="LineNumber"> 006 </span>					ป€มปณฺณาสกวณฺณนา
+<span class="LineNumber"> 007 </span>	สฬายตนวคฺคสฺส  ป€เม  จกฺขุนฺติ  เทฺว  จกฺขูนิ  าณ-
+<span class="LineNumber"> 008 </span>จกฺขุเจว  มํสจกฺขุ  จ ฯ  ตตฺถ  าณจกฺขุ  ปฺจวิธํ  พุทฺธจกฺขุํ  
+<span class="LineNumber"> 009 </span>ธมฺมจกฺขุํ  สมนฺตจกฺขุํ  ทิพฺพจกฺขุ  ปฺาจกฺขูติ ฯ  เตสุ  พุทฺธ-
+<span class="LineNumber"> 010 </span>จกฺขุ  นาม  อาสยานุสยาณฺเจว  อินฺทฺริยปโรปริยตฺตาณฺจ  
+<span class="LineNumber"> 011 </span>ยํ  พุทฺธจกฺขุนา  โลกํ  โวโลเกนฺโตติ  (๑)  อาคตํ ฯ  ธมฺมจกฺขุํ  นาม 
+<span class="LineNumber"> 012 </span>เหฏฺ€ิมา  ตโย  มคฺคา  ตีณิ  จ  ผลานิ  ยํ  วิรชํ  วีตมลํ  
+<span class="LineNumber"> 013 </span>ธมฺมจกฺขุํ  อุทปาทีติ  (๒)  อาคตํ ฯ  สมนฺตจกฺขุํ  นาม  สพฺพฺุต-
+<span class="LineNumber"> 014 </span>าณํ  ยํ  ปาสาทมารุยฺห  สมนฺตจกฺขุนฺติ(๓)  อาคตํ ฯ  ทิพฺพจกฺขุํ  
+<span class="LineNumber"> 015 </span>นาม  อาโลกํ  วฑฺฒเณน  อุปฺปนฺนํ  าณํ  ยํ  ทิพฺเพน  
+<span class="LineNumber"> 016 </span>จกฺขุนา  วิสุทฺเธนาติ  (๔)  อาคตํ ฯ  ปฺาจกฺขุํ  นาม  จตุสจฺจ-
+<span class="LineNumber"> 017 </span>ปริจฺเฉทกาณํ  ยํ  จกฺขุํ  อุทปาทีติ  (๕)  อาคตํ   ฯ  
+<span class="LineNumber"> 018 </span># ๑. วิ. มหา. ๔/๙/๑๑  ฯ ม. มู. ๑๒/๓๒๓/๓๒๕  ฯ 
+<span class="LineNumber"> 019 </span>#ม. ม. ๑๓/๕๑๑/๔๖๓  ฯ ๒. วิ. มหา. ๔/๑๖/๒๒  ฯ 
+<span class="LineNumber"> 020 </span>#ม. ม. ๑๓/๕๙๙/๕๔๕  ฯ  ๓. วิ. มหา. ๔/๘/๑๐  ฯ
+<span class="LineNumber"> 021 </span># ม. มู. ๑๒/๓๒๒/๓๒๕  ฯ ม. ม. ๑๓/๕๑๐/๔๖๓  ฯ  
+<span class="LineNumber"> 022 </span>#๔. วิ. มหาวิ. ๑/๓/๗  ฯ ๕. วิ. มหา. ๔/๑๕/๑๙  ฯ

@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>              <B>ศึกษาอยู่ในอธิศีล  มีความเลื่อมใสเจริญยิ่ง ๆ ขึ้น
+<span class="LineNumber"> 002 </span>              ไปในภิกษุทั้งหลาย   ไม่ตั้งจิตติเตียนปรารถนา
+<span class="LineNumber"> 003 </span>              ฟังสัทธรรม   ไม่แสวงหาเขตบุญอื่นภายนอก
+<span class="LineNumber"> 004 </span>              ศาสนานี้  แลพกระทำสักการะก่อนในเขตบุญใน
+<span class="LineNumber"> 005 </span>              ศาสนานี้   อุบาสกนั้นซ่องเสพธรรมอันไม่เป็น
+<span class="LineNumber"> 006 </span>              ที่ตั้งแห่งความเสื่อม  อันเราแสดงดีแล้ว ๗ ประการ
+<span class="LineNumber"> 007 </span>              การนี้แล  ย่อมไม่เสื่อมจากสัทธรรม.</B>
+<span class="LineNumber"> 008 </span>                     <I>จบ  วิปัตติสัมภวสูตรที่  ๑๐</I>
+
+<span class="LineNumber"> 009 </span>         	              <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 010 </span>         ๑.  สารันททสุตร  ๒.  วัสสการสูตร  ๓.  ภิกขุสูตร   ๔.  กรรม-
+<span class="LineNumber"> 011 </span>สูตร  ๕.  สิทธิยสูตร   ๖.  ฑยธยสูตร  ๗.  สัญญาสูตร   ๘.   เสขสูตร
+<span class="LineNumber"> 012 </span>๙.  หานิสูตร  ๑๐.  วิปัตติสัมภวสูตร  
+<span class="LineNumber"> 013 </span>	        	                 <I>จบ  วัชชีวรรคที่  ๓</I>

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>	                         <H1>๖.  ชาครสูตร</H1>
+
+<span class="LineNumber"> 002 </span>         [๑๓]   เทวดานั้น  ครั้นยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้วแล   ได้กล่าว 
+<span class="LineNumber"> 003 </span>คาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 004 </span>                             <B>เมื่อธรรมทั้งหลายตื่นอยู่   ธรรมประ-
+<span class="LineNumber"> 005 </span>                   เภทไหนนับว่าหลับ  เมื่อธรรมทั้งหลายหลับ
+<span class="LineNumber"> 006 </span>                   ธรรมประเภทไหนนับว่าตื่น   บุคคลหมัก-
+<span class="LineNumber"> 007 </span>                   หมมธุลีเพราะธรรมประเภทไหน    บุคคล
+<span class="LineNumber"> 008 </span>                   บริสุทธิ์เพราะธรรมประเภทไหน.</B>
+<span class="LineNumber"> 009 </span>         [๑๔]  พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 010 </span>                             <B>เมื่อสัทธินทรีย์  ๕  อย่างตื่นอยู่  กาม
+<span class="LineNumber"> 011 </span>                   ฉันทาทินิวรณ์  ๕   อย่าง  นับว่าหลับ    เมื่อ
+<span class="LineNumber"> 012 </span>                   กามฉันทาทินิวรณ์  ๕ อย่างหลับ     สัทธา-
+<span class="LineNumber"> 013 </span>                   ทินทรีย์  ๕  อย่าง  นับว่าตื่น   บุคคลหมัก-
+<span class="LineNumber"> 014 </span>                   หมมธุลีเพราะนิวรณ์  ๕  อย่าง     บุคคล
+<span class="LineNumber"> 015 </span>                   บริสุทธิ์เพราะอินทรีย์  ๖ อย่าง.</B>

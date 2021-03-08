@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ปฏิสัมภิทา   ๓ คือ 
+<span class="LineNumber"> 002 </span>                         ๑.  อัตถปฏิสัมภิทา
+<span class="LineNumber"> 003 </span>                         ๒.  นิรุตติปฏิสัมภิทา
+<span class="LineNumber"> 004 </span>                         ๓.  ปฏิภาณปฏิสัมภิทา
+<span class="LineNumber"> 005 </span>         ธรรมเป็นอัพยากตะ</B> เป็นไฉน ?
+<span class="LineNumber"> 006 </span>         มโนธาตุ<SUP>๑</SUP> อันเป็นวิบาก  สหรคตด้วยอุเบกขา  มีรูปเป็นอารมณ์ ฯลฯ
+<span class="LineNumber"> 007 </span>มีโผฏฐัพพะเป็นอารมณ์   เกิดขึ้น ฯลฯ  มโนวิญญาณธาตุ<SUP>๒</SUP> อันเป็นวิบาก
+<span class="LineNumber"> 008 </span>สหรคตด้วยอุเบกขา  มีรูปเป็นอารมณ์ ฯลฯ  มีธรรมเป็นอารมณ์  หรือปรารภ
+<span class="LineNumber"> 009 </span>อารมณ์ใด ๆ เกิดขึ้น  เพราะอกุศลกรรมอันได้ทำไว้แล้วสั่งสมไว้แล้ว   ในสมัย
+<span class="LineNumber"> 010 </span>ใด  ผัสสะ   เวทนา   สัญญา   เจตนา   จิต   วิตก   วิจาร   อุเบกขา   เอกัคคตา
+<span class="LineNumber"> 011 </span>แห่งจิต   มนินทรีย์   อุเปกขินทรีย์   ชีวิตินทรีย์   หรือนามธรรมที่อิงอาศัยเกิด
+<span class="LineNumber"> 012 </span>ขึ้นแม้อื่นใด   มีในสมัยนั้น   ธรรมเหล่านี้  ชื่อว่า  <B>ธรรมเป็นอัพยากตะ</B>  ความ
+<span class="LineNumber"> 013 </span>รู้แตกฉานในธรรมเหล่านี้   ชื่อว่า  <B>อัตถปฏิสัมภิทา.</B>   บัญญัติแห่งธรรมเหล่า
+<span class="LineNumber"> 014 </span>นั้น   ย่อมมีด้วยนิรุตติใด   ความรู้แตกฉานในอันกล่าวธัมมนิรุตตินั้น    ชื่อว่า
+<span class="LineNumber"> 015 </span><B>นิรุตติปฏิสัมภิทา.</B>  บุคคลรู้แตกฉานซึ่งญาณเหล่านั้น  ด้วยญานใดว่า  ญาณ
+<span class="LineNumber"> 016 </span>เหล่านั้นส่องเนื้อความนี้    ดังนี้   ความรู้แตกฉานในญาณทั้งหลายนั้น    ชื่อว่า
+<span class="LineNumber"> 017 </span><B>ปฏิภาณปฏิสัมภิทา</B>.
+
+<span class="LineNumber"> 018 </span>                        <H1>แจกปฏิสัมภิทา  ๓  ด้วยอเหตุกกิริยาจิต  ๓</H1>
+<span class="LineNumber"> 019 </span>           [๗๘๗]  <B>ปฏิสัมภิทา  ๓</B> คือ
+<span class="LineNumber"> 020 </span>	<B>๑.  อัตถปฏิสัมภิทา</B>
+<span class="LineNumber"> 021 </span>	<B>๒.  นิรุตติปฏิสัมภิทา</B>
+<span class="LineNumber"> 022 </span>	<B>๓.  ปฏิภาณปฏิสัมภิทา</B>
+
+<span class='footnote'>๑.  สัมปฏิจฉนอกศลวิบากจิต  ๑     ๒.  อุเบกขาสันตีรณอกุศลวิบากจิต ๑.</span>

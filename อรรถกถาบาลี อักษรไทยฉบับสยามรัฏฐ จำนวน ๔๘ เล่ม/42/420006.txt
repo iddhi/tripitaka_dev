@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  6
+
+<span class="LineNumber"> 002 </span>สรีรสฺส  เภทนํ  อหฺจ  ชาติธมฺโม  ชราธมฺโม  พฺยาธิธมฺโม  
+<span class="LineNumber"> 003 </span>มรณธมฺโม  เอวํ  ภูเตน  มยา  อชาตึ  อชรํ  อพฺยาธึ  อมรณํ  
+<span class="LineNumber"> 004 </span>อทุกฺขํ  สุขํ  สีตลํ  อมตมหานิพฺพานํ  ปริเยสิตุํ  วฏฺฏติ  อวสฺสํ  
+<span class="LineNumber"> 005 </span>ภวโต  มุจฺจิตฺวา  นิพฺพานคามินา  เอเกน  มคฺเคน  ภวิตพฺพนฺติ ฯ  
+<span class="LineNumber"> 006 </span>เตน วุตฺตํ  
+<span class="LineNumber"> 007 </span>		รโหคโต นิสีทิตฺวา		เอวํ จินฺเตสหํ ตทา  
+<span class="LineNumber"> 008 </span>		ทุกฺโข ปุนพฺภโว นาม		สรีรสฺส จ เภทนํ ฯ  
+<span class="LineNumber"> 009 </span>		ชาติธมฺโม ชราธมฺโม		พฺยาธิธมฺโม สหํ(๑) ตทา  
+<span class="LineNumber"> 010 </span>		อชรํ อมรํ เขมํ			ปริเยสิสฺสามิ นิพฺพุตึ ฯ  
+<span class="LineNumber"> 011 </span>		ยนฺนูนิมํ ปูติกายํ			นานากุณปปูริตํ  
+<span class="LineNumber"> 012 </span>		ฉฑฺฑยิตฺวาน คจฺเฉยฺยํ		อนเปกฺโข อนตฺถิโก ฯ  
+<span class="LineNumber"> 013 </span>		อตฺถิ เหหิติ โส มคฺโค		น โส สกฺกา น เหตุเย  
+<span class="LineNumber"> 014 </span>		ปริเยสิสฺสามิ ตํ มคฺคํ		ภวโต ปริมุตฺติยาติ ฯ  
+<span class="LineNumber"> 015 </span>	ตโต  อุตฺตริปิ  เอวํ  จินฺเตสิ  ยถา  หิ  โลเก  ทุกฺขสฺส  
+<span class="LineNumber"> 016 </span>ปฏิปกฺขภูตํ  สุขํ  นาม  อตฺถิ  เอวํ  ภเว  สติ  ตปฺปฏิปกฺเขน  
+<span class="LineNumber"> 017 </span>วิภเวนาปิ  ภวิตพฺพํ ฯ  ยถา  จ  อุเณฺห  สติ  ตสฺส  วูปสมภูตํ  
+<span class="LineNumber"> 018 </span>สีตลมฺปิ  อตฺถิ  เอวํ  ราคคฺคิอาทีนํ  วูปสเมน  นิพฺพาเนนาปิ  
+<span class="LineNumber"> 019 </span>ภวิตพฺพํ ฯ  ยถา  นาม  ปาปสฺส  ลามกสฺส  ธมฺมสฺส  ปฏิปกฺขภูโต  
+<span class="LineNumber"> 020 </span>กลฺยาโณ  อนวชฺชภูโต  ธมฺโมปิ (๒)  อตฺถิเยว  เอวเมว  ปาปิกาย  
+<span class="LineNumber"> 021 </span># ๑ สี. ยุ. จหํ ฯ  ๒ สี. อนวชฺชธมฺโมปิ ฯ  

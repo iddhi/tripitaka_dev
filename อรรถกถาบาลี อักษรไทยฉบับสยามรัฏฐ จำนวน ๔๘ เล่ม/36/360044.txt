@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  44
+
+<span class="LineNumber"> 002 </span>	[๔๒๔]	กจฺจิ อมชฺชโป ตาต		กจฺจิ เต สุรมปฺปิยํ  
+<span class="LineNumber"> 003 </span>			กจฺจิ สจฺเจ จ ธมฺเม จ		ทาเน เต รมตี มโนติ ฯ  
+<span class="LineNumber"> 004 </span>อถ นํ ราชา อาห  
+<span class="LineNumber"> 005 </span>	[๔๒๕]	อมชฺชโป จาหํ ปุตฺต		อโถ เม สุรมปฺปิยํ  
+<span class="LineNumber"> 006 </span>			อโถ สจฺเจ จ ธมฺเม จ		ทาเน เม รมตี มโนติ ฯ  
+<span class="LineNumber"> 007 </span>มหาสตฺโต อาห  
+<span class="LineNumber"> 008 </span>	[๔๒๖]	กจฺจิ อโรคํ โยคนฺเต (๑)	กจฺจิ วหติ พาหนํ  
+<span class="LineNumber"> 009 </span>			กจฺจิ เต พยาธิโย (๒) นตฺถิ  สรีรสฺสุปตาปิยาติ (๓) ฯ  
+<span class="LineNumber"> 010 </span>ราชา อาห  
+<span class="LineNumber"> 011 </span>	[๔๒๗]	อโถ อโรคํ โยคํ (๑) เม	อโถ วหติ พาหนํ  
+<span class="LineNumber"> 012 </span>			อโถ เม พยาธิโย (๒) นตฺถิ  สรีรสฺสุปตาปิยาติ (๓) ฯ  
+<span class="LineNumber"> 013 </span>มหาสตฺโต อาห  
+<span class="LineNumber"> 014 </span>	[๔๒๘]	กจฺจิ อนฺตา จ เต ผิตา		มชฺเฌ จ พหลา ตว  
+<span class="LineNumber"> 015 </span>			โกฏฺ€าคารฺจ โกสฺจ	กจฺจิ เต ปฏิสณฺ€ิตนฺติ (๔) ฯ  
+<span class="LineNumber"> 016 </span>ราชา อาห  
+<span class="LineNumber"> 017 </span>	[๔๒๙]	อโถ อนฺตา จ เม ผิตา		มชฺเฌ จ พหลา มม  
+<span class="LineNumber"> 018 </span>			โกฏฺ€าคารฺจ โกสฺจ	สพฺพํ เม ปฏิสณฺ€ิตนฺติ (๔) ฯ  
+<span class="LineNumber"> 019 </span>มหาสตฺโต อาห  
+<span class="LineNumber"> 020 </span># ๑. ส. ม. ยุ. โยคฺคํ (เต) ฯ  ๒. ม. พิยาธโย ฯ  ๓. ม. ยุ. สรีรสฺสุปตาปนา ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. ยุ. ปฏิสนฺถตํ ฯ

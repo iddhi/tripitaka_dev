@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ปุเรชาตปัจจัย</B>  เหมือนกับ   <B>อารัมมณปัจจัย.</B> 
+<span class="LineNumber"> 002 </span>           พึงจำแนก   กุศล   และอกุศล. 
+
+<span class="LineNumber"> 003 </span>                            <H2>๑๑.  ปัจฉาชาตปัจจัย</H2> 
+<span class="LineNumber"> 004 </span>           [๖๐๐] ๑.  นีวรณธรรม เป็นปัจจัยแก่ธรรมที่ไม่ใช่นีวรณธรรม
+<span class="LineNumber"> 005 </span>ด้วยอำนาจของปัจฉาชาตปัจจัย   มี ๓ วาระ.
+
+<span class="LineNumber"> 006 </span>                             <H2>๑๒.  อาเสวนปัจจัย</H2>
+<span class="LineNumber"> 007 </span>           ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของอาเสวนปัจจัย  มี ๙ วาระ.
+
+<span class="LineNumber"> 008 </span>                                 <H2>๑๓.  กัมมปัจจัย</H2>
+<span class="LineNumber"> 009 </span>           [๖๐๑] ๑.  <B>ธรรมที่ไม่ใช่นีวรณธรรม  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 010 </span>ที่ไม่ใช่นีวรณธรรม  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 011 </span>           มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>นานาขณิกะ</B>
+<span class="LineNumber"> 012 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 013 </span>           เจตนาที่ไม่ใช่นีวรณธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์    และจิตต-
+<span class="LineNumber"> 014 </span>สมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย
+<span class="LineNumber"> 015 </span>           ในปฏิสนธิขณะ  ฯลฯ
+<span class="LineNumber"> 016 </span>           ที่เป็น  <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 017 </span>           เจตนาที่ไม่ใช่นีวรณธรรม   เป็นปัจจัยแก่วิบากขันธ์   และกฏัตตารูป
+<span class="LineNumber"> 018 </span>ทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย.

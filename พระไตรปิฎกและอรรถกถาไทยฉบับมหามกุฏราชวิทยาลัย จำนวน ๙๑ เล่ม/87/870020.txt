@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>ปัจจนียานุโลม</H1>  
+<span class="LineNumber"> 002 </span> 	             <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>	
+<span class="LineNumber"> 003 </span>           [๖๑๕]   <B>เพราะนเหตุปัจจัย</B>     ในอารัมมณปัจจัย  มี ๓ วาระ...ในอนัน-  
+<span class="LineNumber"> 004 </span>ตรปัจจัย มี ๓ วาระ ในสมนันตรปัจจัย มี ๓ วาระ ในสหชาตปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 005 </span>ในอัญญมัญญปัจจัย มี ๓ วาระ ในนิสสยปัจจัย  มี ๓ วาระ  ในอุปนิสสยปัจจัย
+<span class="LineNumber"> 006 </span>มี ๓ วาระ  ในปุเรชาตปัจจัย  มี ๓ วาระ  ในอาเสวนปัจจัย   มี ๓  วาระ    ใน
+<span class="LineNumber"> 007 </span>กัมมปัจจัย มี ๓ วาระ ในวิปากปัจจัย มี  ๑ วาระ    ในอาหารปัจจัย มี ๓  วาระ
+<span class="LineNumber"> 008 </span>ในอินทริยปัจจัย   มี ๓ วาระ  ในฌานปัจจัย  มี ๓ วาระ   ในมัคคปัจจัย มี ๒
+<span class="LineNumber"> 009 </span>วาระ  ในสัมปยุตตปัจจัย  มี ๓ วาระ  ในวิปปยุตตปัจจัย มี ๓ วาระ  ในอัตถิ
+<span class="LineNumber"> 010 </span>ปัจจัย  มี ๓ วาระ  ในนัตถิปัจจัย  มี ๓ วาระ ในวิคตปัจจัย มี ๓ วาระ   ใน
+<span class="LineNumber"> 011 </span>อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>           ผู้มีปัญญา  พึงนับอย่างนี้.
+<span class="LineNumber"> 013 </span>                                         <I>ปัจจนียานุโลม  จบ</I>
+<span class="LineNumber"> 014 </span>                                           <I>ปฏิจจวาระ  จบ</I>

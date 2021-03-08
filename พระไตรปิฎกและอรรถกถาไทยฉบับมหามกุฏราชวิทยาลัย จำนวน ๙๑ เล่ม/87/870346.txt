@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           [๑๓๑๔]  ๑๑.  <B>เสกขธรรม  และเนวเสกขานาเสกขธรรม  เป็น 
+<span class="LineNumber"> 002 </span>ปัจจัยแก่เสกขธรรม  ฯลฯ</B> 
+<span class="LineNumber"> 003 </span>           มีอย่างเดียว  คือที่เป็น  <B>สหชาตะ</B>  รวมกับ  <B>ปุเรชาตะ</B>
+<span class="LineNumber"> 004 </span>           [๑๓๑๕]  ๑๒.  <B>เสกขธรรม  และเนวเสกขานาเสกขธรรม  เป็น
+<span class="LineNumber"> 005 </span>ปัจจัยแก่เนวเสกขานาเสกขธรรม  ฯลฯ</B>
+<span class="LineNumber"> 006 </span>           มี ๓ อย่าง คือที่เป็น <B>สหชาตะ  ปัจฉาชาตะ</B>  รวมกับ  <B>อาหาระ</B> 
+<span class="LineNumber"> 007 </span>           [๑๓๑๖]  ๑๓.  <B>อเสกขธรรม  และเนวเสกขานาเสกขธรรม  เป็น
+<span class="LineNumber"> 008 </span>ปัจจัยแก่อเสกขธรรม  ฯลฯ</B>
+<span class="LineNumber"> 009 </span>           มีอย่างเดียว  คือที่เป็น  <B>สหชาตะ</B>  รวมกับ  <B>ปุเรชาตะ</B>
+<span class="LineNumber"> 010 </span>           [๑๓๑๗]  ๑๔.  <B>อเสกขธรรม  และเนวเสกขานาเสกขธรรม
+<span class="LineNumber"> 011 </span>เป็นปัจจัยแก่เนวเสกขานาเสกขธรรม ฯลฯ</B>
+<span class="LineNumber"> 012 </span>           มี ๓ อย่าง  คือที่เป็น  <B>สหชาตะ,  ปัจฉาชาตะ</B>  รวมกับ  <B>อาหาระ</B>
+<span class="LineNumber"> 013 </span>และรวมกับ  <B>อินทริยะ.</B>
+
+<span class="LineNumber"> 014 </span>                              <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 015 </span>                                            <H1>สุทธมูลกนัย</H1>
+<span class="LineNumber"> 016 </span>           [๑๓๑๘]  ในนเหตุปัจจัย  มี ๑๔ วาระ  ในนอารัมมณปัจจัย  มี ๑๔
+<span class="LineNumber"> 017 </span>วาระ  ในนอธิปติปัจจัย  มี ๑๔ วาระ  ในนอนันตรปัจจัย  มี ๑๔ วาระ ใน
+<span class="LineNumber"> 018 </span>นสมนันตรปัจจัย  มี ๑๔ วาระ  ในนสหชาตปัจจัย  มี ๑๐ วาระ ในนอัญญ-
+<span class="LineNumber"> 019 </span>มัญญปัจจัย  มี ๑๐ วาระ  ในนนิสสยปัจจัย มี ๑๐ วาระ  ในนอุปนิสสย-
+<span class="LineNumber"> 020 </span>ปัจจัย  มี ๑๓ วาระ  ในนปุเรชาตปัจจัย  มี ๑๒ วาระ  ในนปัจฉาชาต-
+
+ 

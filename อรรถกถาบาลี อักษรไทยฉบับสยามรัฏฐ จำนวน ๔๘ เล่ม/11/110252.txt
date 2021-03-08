@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๒๕๒
+
+<span class="LineNumber"> 002 </span>อติพหุอฏฺ€ิกาลฺจ  (๑)  อคฺคเหตฺวา  สอฏฺ€ิกาโลว  (๒)  คเหตพฺโพ ฯ  
+<span class="LineNumber"> 003 </span>อุตฺตโร  คิชฺฌกูฏสฺสาติ  คิชฺฌกูฏสฺส  อุตฺตรปสฺเส  €ิโต ฯ  มคธานํ  
+<span class="LineNumber"> 004 </span>คิริพฺพเชติ มคธรฏฺ€สฺส  คิริพฺพเช คิริปริกฺเขเป €ิโตติ อตฺโถ ฯ
+<span class="LineNumber"> 005 </span>เสสํ สพฺพตฺถ อุตฺตานเมวาติ ฯ 
+<span class="LineNumber"> 006 </span>				ทสมํ ฯ                      
+<span class="LineNumber"> 007 </span>				ป€โม วคฺโค ฯ            
+
+<span class="LineNumber"> 008 </span>			ทุคฺคตสุตฺตวณฺณนา           
+<span class="LineNumber"> 009 </span>	ทุติยวคฺคสฺส  ป€เม  ทุคฺคตนฺติ  ทลิทฺทํ  กปณํ ฯ 
+<span class="LineNumber"> 010 </span>ทุรูเปตนฺติ ทุสฺสณฺ€าเนหิ หตฺถปาเทหิ อุเปตํ ฯ 
+<span class="LineNumber"> 011 </span>				ป€มํ ฯ            
+
+<span class="LineNumber"> 012 </span>				สุขิตสุตฺตวณฺณนา            
+<span class="LineNumber"> 013 </span>	ทุติเย  สุขิตนฺติ  สุขสมปฺปิตํ  มหทฺธนํ  มหาโภคํ ฯ  
+<span class="LineNumber"> 014 </span>สุสชฺชิตนฺติ อลงฺกตปฏิยตฺตํ หตฺถิกฺขนฺธคตํ มหาปริวารํ ฯ 
+<span class="LineNumber"> 015 </span>				ทุติยํ ฯ         
+<span class="LineNumber"> 016 </span># ๑. ม. พหุอฏฺ€ิกาลฺจ ฯ ๒. สี. ปอฺปฏฺ€ิกาโลว ฯ 
+<span class="LineNumber"> 017 </span># ม. สมฏฺ€ิกาโลว ฯ

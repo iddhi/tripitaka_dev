@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  กปิชาตกํ  หน้า  419
+
+<span class="LineNumber"> 002 </span>เกวลนฺติ สกลํ อนวเสสํ ฯ  
+<span class="LineNumber"> 003 </span>	โพธิสตฺโต  ปุตฺตสฺส  วจนํ  สุตฺวา  อุฏฺ€าย  โอโลเกนฺโต  
+<span class="LineNumber"> 004 </span>มกฺกฏภาวํ ตฺวา ทุติยํ คาถมาห  
+<span class="LineNumber"> 005 </span>	[๓๕๑]	นายํ อิสี(๑)  อุปสมสฺเม รโต  
+<span class="LineNumber"> 006 </span>			กปิ อยํ ทุมฺพรสาขโคจโร (๒)  
+<span class="LineNumber"> 007 </span>			โส ทูสโก โรสโก จาปิ ชมฺโม  
+<span class="LineNumber"> 008 </span>			สเจ วเช อิมมฺปิ ทูสเย ฆรนฺติ (๓) ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  ทุมฺพรสาขโคจโรติ  ทุมฺพรานํ  (๔)  สาขโคจโร ฯ โส  
+<span class="LineNumber"> 010 </span>ทูสโก  โรสโก  จาปิ  ชมฺโมติ  โส  เอว  (๕) คตคตฏฺ€านสฺส  ทูสนโต  
+<span class="LineNumber"> 011 </span>ทูสโก  ฆฏฺฏนตาย  โรสโก  ลามกภาเวน  ชมฺโม ฯ  สเจ  วเชติ  
+<span class="LineNumber"> 012 </span>ยทิ  อิมํ  ปณฺณสาลํ  อุปวเช (๖)  ปวิเสยฺย  สพฺพํ  อุจฺจารปสฺสาว-
+<span class="LineNumber"> 013 </span>กรเณน  จ อคฺคิทาเนน จ ทูเสยฺยาติ ฯ  
+<span class="LineNumber"> 014 </span>	เอวฺจ  ปน  วตฺวา  โพธิสตฺโต  อุมฺมุกํ  คเหตฺวา ตํ 
+<span class="LineNumber"> 015 </span>สนฺตาเสตฺวา  ปลาเปสิ ฯ  โส  อุปฺปติตฺวา  วนํ  ปกฺขนฺโต  (๗)  ตถา 
+<span class="LineNumber"> 016 </span>ปกฺขนฺโต  เยว  อโหสิ  น  ปุน  ตํ  €านํ  อคมาสิ ฯ  โพธิสตฺโต  
+<span class="LineNumber"> 017 </span>อภิฺา  จ  สมาปตฺติโย  จ  นิพฺพตฺเตตฺวา  ตาปสกุมารสฺส  
+<span class="LineNumber"> 018 </span>กสิณปริกมฺมํ  อาจิกฺขิ ฯ  โส  จ  อภิฺา  จ  สมาปตฺติโย
+<span class="LineNumber"> 019 </span># ๑. ขุ. ชา. ๒๗/๓๕๑/๙๗ อิสิ ฯ  ๒. ม. ทุมทวรสาขโคจโร ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. สเจ วเชมมฺปิ ทูเสยฺยคารนฺติ ฯ  เอวมุปริปิ ฯ  
+<span class="LineNumber"> 021 </span># ๔. ม. ทุมวรานํ ฯ  ๕. ม. เอวํ ฯ  ๖. ม. วเช ฯ  ๗. ปจฺจกฺขนฺโต วาติปิ ฯ

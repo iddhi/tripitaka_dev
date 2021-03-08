@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 003 </span>           [๑๑๘๖]  ๑.  <B>เนวเสกขานาเสกขธรรม  อาศัยเนวเสกขานา-
+<span class="LineNumber"> 004 </span>เสกขธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>  
+<span class="LineNumber"> 005 </span>           คือ  ขันธ์ ๓  และจิตตสมุฏฐานรูป  อาศัยขันธ์ ๑ ที่เป็นเนวเสกขานา-
+<span class="LineNumber"> 006 </span>เสกขธรรม  ซึ่งเป็นอเหตุกะ  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>           ในอเหตุกปฏิสนธิขณะ  หทยวัตถุ  อาศัยขันธ์ทั้งหลาย,  ขันธ์ทั้งหลาย
+<span class="LineNumber"> 008 </span>อาศัยหทยวัตถุ.
+<span class="LineNumber"> 009 </span>           อาศัยมหาภูตรูป ๑ ฯลฯ  พาหิรรูป...  อาหารสมุฏฐานรูป...  อุตุ-
+<span class="LineNumber"> 010 </span>สมุฏฐานรูป ฯลฯ ส่วนอสัญญสัตว์ทั้งหลาย  ฯลฯ  อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 011 </span>           โมหะที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์ทั้ง-
+<span class="LineNumber"> 012 </span>หลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 013 </span>                                     <H1>๒.  นอารัมมณปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๑๑๘๗]  ๑.  <B>เนวเสกขานาเสกขธรรม  อาศัยเสกธรรม    เกิด
+<span class="LineNumber"> 015 </span>ขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นเสกขธรรม.
+<span class="LineNumber"> 017 </span>           [๑๑๘๘]  ๒.  <B>เนวเสกขานาเสกขธรรม  อาศัยอเสกขธรรม
+<span class="LineNumber"> 018 </span>เกิดขึ้น  เพราะนอารัมมณปัจจัย</B>
+<span class="LineNumber"> 019 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอเสกขธรรม.
+  

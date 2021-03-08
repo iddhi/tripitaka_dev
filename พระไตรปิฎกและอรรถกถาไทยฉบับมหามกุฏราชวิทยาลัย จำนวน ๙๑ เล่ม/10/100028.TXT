@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           ถ.  บรรดาวิบัติ ๔ เป็นวิบัติอย่างไหน  
+<span class="LineNumber"> 002 </span>           ต.  บางทีเป็นศีลวิบัติ   บางทีเป็นอาจารวิบัติ
+<span class="LineNumber"> 003 </span>           ถ.  บรรดาอาบัติ ๗ กอง  เป็นอาบัติกองไหน
+<span class="LineNumber"> 004 </span>           ต.  บางทีเป็นอาบัติกองสังฆาทิเสส  บางทีเป็นอาบัติกองปาจิตตีย์
+<span class="LineNumber"> 005 </span>           ถ.  บรรดาสมุฏฐานแห่งอาบัติ  ๖  อย่าง    อนิยตสิกขาบทที่  ๒  นั้น
+<span class="LineNumber"> 006 </span>เกิดด้วยสมุฏฐานเท่าไร
+<span class="LineNumber"> 007 </span>           ต.  เกิดขึ้นด้วยสมุฏฐาน ๓   คือ   บางทีเกิดแต่กายกับจิต    มิใช่วาจา
+<span class="LineNumber"> 008 </span>บางทีเกิดแต่วาจากับจิต   มิใช่กาย   บางทีเกิดแต่กาย  วาจา  กับจิต
+<span class="LineNumber"> 009 </span>           ถ.  บรรดาอธิกรณ์ ๔   เป็นอธิกรณ์อะไร
+<span class="LineNumber"> 010 </span>           ต.  เป็นอาปัตตาธิกรณ์
+<span class="LineNumber"> 011 </span>           ถ.  บรรดาสมถะ ๗ ระงับด้วยสมถะเท่าไร
+<span class="LineNumber"> 012 </span>           ต.  ระงับด้วยสมถะ ๓ อย่าง    คือ    บางทีระงับด้วยสัมมุขาวินัยกับ
+<span class="LineNumber"> 013 </span>ปฏิญญาตกรณะ  บางทีระงับด้วยสัมมุขาวินัย   บางทีระงับด้วยติณวัตถารกะ.
+<span class="LineNumber"> 014 </span>                                    <I>อนิยต  ๒  สิกขาบท  จบ</I>
+
+<span class="LineNumber"> 015 </span>                                        <H1>หัวข้อประจำกัณฑ์</H1> 
+<span class="LineNumber"> 016 </span>           [๒๖]  อนิยต ๒ สิกขาบท คือ  สิกขาบทว่าด้วยอาสนะกำบังพอจะทำ
+<span class="LineNumber"> 017 </span>การได้ ๑  อาสนะกำบังไม่ถึงขนาดนั้น  ๑  อันพระพุทธเจ้าผู้ประเสริฐ    ผู้คงที่
+<span class="LineNumber"> 018 </span>ทรงบัญญัติไว้ดีแล้วแล.

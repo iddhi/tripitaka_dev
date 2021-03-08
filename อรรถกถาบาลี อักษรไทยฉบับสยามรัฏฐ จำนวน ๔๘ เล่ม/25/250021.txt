@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  นิทานคาถาวณฺณนา  หน้า 21
+	
+<span class="LineNumber"> 002 </span>		ปฺจ  อิธานนฺท ปุพฺพโยคาวจโร ทิฏฺเ€ว ธมฺเม ปฏิกจฺจ (๑)
+<span class="LineNumber"> 003 </span>		อฺํ อาราเธติ  โน เจ ทิฏฺเ€ว ธมฺเม ปฏิกจฺจ  อฺํ 
+<span class="LineNumber"> 004 </span>		อาราเธติ  อถ มรณกาเล	อฺํ  อาราเธติ  อถ  เทวปุตฺโต 
+<span class="LineNumber"> 005 </span>		สมาโน  อฺํ  อาราเธติ อถ พุทฺธานํ  สมฺมุขีภาเว 
+<span class="LineNumber"> 006 </span>		ขิปฺปาภิฺโ  โหติ  อถ  ปจฺฉิเม  กาเล  ปจฺเจกสมฺพุทฺโธ 
+<span class="LineNumber"> 007 </span>		โหตีติ ฯ  
+<span class="LineNumber"> 008 </span>	อิติ  ปุพฺพภาคปฏิปทาภูตาย  ปารมิตาปริภาวนาย  (๒)  สมถ-
+<span class="LineNumber"> 009 </span>วิปสฺสนาภาวนาย  นิโรธคามินีปฏิปทาภูตาย  อภิสมยสงฺขาตาย  
+<span class="LineNumber"> 010 </span>มคฺคภาวนาย  จ  ภาวิตตฺตภาวา  พุทฺธปจฺเจกพุทฺธสาวกา
+<span class="LineNumber"> 011 </span>ภาวิตตฺตา นาม ฯ
+<span class="LineNumber"> 012 </span>		เตสุ อิธ พุทฺธสาวกา อธิปฺเปตา ฯ  
+<span class="LineNumber"> 013 </span>	เอตฺถ  จ  สีหานํวาติ  อิมินา  เถรานํ  สีหสมานวุตฺติตา-
+<span class="LineNumber"> 014 </span>ทสฺสเนน  อตฺตโน  ปฏิปกฺเขหิ  อนภิภวนียตํ  เต  จ  อภิภุยฺย  ปวตฺตึ 
+<span class="LineNumber"> 015 </span>ทสฺเสติ ฯ  สีหานํว นทนฺตานํ ฯเปฯ  คาถาติ  อิมินา  เถรคาถานํ 
+<span class="LineNumber"> 016 </span>สีหนาทสทิสตาทสฺสเนน  ตาสํ  ปรวาเทหิ  อนภิภวนียตํ  เต  
+<span class="LineNumber"> 017 </span>จ  อภิภวิตฺวา  ปวตฺตึ  ทสฺเสติ ฯ  ภาวิตตฺตานนฺติ  อิมินา 
+<span class="LineNumber"> 018 </span>ตทุภยสฺส  การณํ  วิภาเวติ ฯ  ภาวิตตฺตภาเวน  เถรา  อิธ
+<span class="LineNumber"> 019 </span>สีหสทิสา  (๓)  วุตฺตา  เตสฺจ  คาถา  สีหนาทสทิสา (๔) ฯ 
+<span class="LineNumber"> 020 </span># ๑. สี. ปฏิคจฺเจว ฯ  ๒. ม. ปารมิตาปริภาวิตาย ฯ 
+<span class="LineNumber"> 021 </span># ๓. สี. สีหสทิสาติ ฯ  ๔. ม. สีหนาทสทิสิโย ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  32
+
+<span class="LineNumber"> 002 </span>ปทกฺขิณํ  กตฺวา  ปกฺกามิ  เตปิ  จตุสตสหสฺสสงฺขา  ขีณาสวา  
+<span class="LineNumber"> 003 </span>โพธิสตฺตํ  คนฺเธหิ  จ  มาลาหิ  จ ปูเชตฺวา ปทกฺขิณํ กตฺวา 
+<span class="LineNumber"> 004 </span>ปกฺกมึสุ ฯ  เทวมนุสฺสา ปน ตเถว ปูเชตฺวา วนฺทิตฺวา 
+<span class="LineNumber"> 005 </span>ปกฺกนฺตา ฯ  
+<span class="LineNumber"> 006 </span>	โพธิสตฺโต  สพฺเพสํ  ปฏิกฺกนฺตกาเล  สยนา  วุฏฺ€าย  
+<span class="LineNumber"> 007 </span>ปารมิโย  วิจินิสฺสามีติ  ปุปฺผราสิมตฺถเก  ปลฺลงฺกํ  อาภุชิตฺวา  
+<span class="LineNumber"> 008 </span>นิสีทิ ฯ  เอวํ นิสินฺเน  โพธิสตฺเต  สกลทสสหสฺสจกฺกวาเฬ  เทวตา  
+<span class="LineNumber"> 009 </span>สาธุการํ  ทตฺวา  อยฺย  สุเมธตาปส  โปราณกโพธิสตฺตานํ  
+<span class="LineNumber"> 010 </span>ปลฺลงฺกํ  อาภุชิตฺวา  ปารมิโย วิจินิสฺสามาติ นิสินฺนกาเล  ยานิ  
+<span class="LineNumber"> 011 </span>ปุพฺพนิมิตฺตานิ  นาม  ปฺายนฺติ  ตานิ  สพฺพานิปิ  อชฺช  
+<span class="LineNumber"> 012 </span>ปาตุภูตานิ  นิสฺสํสเยน  ตฺวํ  พุทฺโธ  ภวิสฺสสิ  มยเมตํ  ชานาม  
+<span class="LineNumber"> 013 </span>ยสฺเสตานิ  นิมิตฺตานิ  ปฺายนฺติ  เอกนฺเตน  โส  พุทฺโธ  โหติ 
+<span class="LineNumber"> 014 </span>ตฺวํ อตฺตโน วีริยํ ทฬฺหํ  กตฺวา ปคฺคณฺหาติ โพธิสตฺตํ 
+<span class="LineNumber"> 015 </span>นานปฺปการาหิ ถุตีหิ อภิตฺถวึสุ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 016 </span>	อิทํ สุตฺวาน วจนํ   อสมสฺส มเหสิโน  
+<span class="LineNumber"> 017 </span>	อาโมทิตา นรมรู    พุทฺธพีชํ กิร อยํ ฯ  
+<span class="LineNumber"> 018 </span>	อุกฺกุฏฺ€ิสทฺทา วตฺตนฺติ   อปฺโผเฏนฺติ หสนฺติ จ  
+<span class="LineNumber"> 019 </span>	กตฺชลี นมสฺสนฺติ    ทสสหสฺสี สเทวกา ฯ  
+<span class="LineNumber"> 020 </span>	ยทิมสฺส โลกนาถสฺส   วิรชฺฌิสฺสาม สาสนํ  
+<span class="LineNumber"> 021 </span>	อนาคตมฺหิ อทฺธาเน   เหสฺสาม สมฺมุขา อิมํ ฯ  

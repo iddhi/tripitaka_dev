@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  580
+
+<span class="LineNumber"> 002 </span>		ขิปฺปมายนฺตุ สนฺนทฺธา	นานาวตฺเถหิ อลงฺกตา  
+<span class="LineNumber"> 003 </span>		หิมวา ยถา คนฺธโร	ปพฺพโต คนฺธมาทโน  
+<span class="LineNumber"> 004 </span>		นานารุกฺเขหิ สฺฉนฺโน	มหาภูตคณาลโย  
+<span class="LineNumber"> 005 </span>		โอสเถหิ จ ทิพฺเพหิ	ทิสา ภาติ ปวาติ จ  
+<span class="LineNumber"> 006 </span>		ขิปฺปมายนฺตุ สนฺนทฺธา	ทิสา ภนฺตุ ปวนฺตุ จ  
+<span class="LineNumber"> 007 </span>		ตโต นาคสหสฺสานิ	โยชยนฺตุ จตุทฺทส  
+<span class="LineNumber"> 008 </span>		สุวณฺณกจฺเฉ มาตงฺเค(๑)	เหมกปฺปนิวาสเส  
+<span class="LineNumber"> 009 </span>		อารุฬฺเห คามณีเยภิ	โตมรํ กุสปาณิภิ  
+<span class="LineNumber"> 010 </span>		ขิปฺปมายนฺตุ สนฺนทฺธา	หตฺถิขนฺเธหิ ทสฺสิตา  
+<span class="LineNumber"> 011 </span>		ตโต อสฺสสหสฺสานิ	โยชยนฺตุ จตุทฺทส  
+<span class="LineNumber"> 012 </span>		อาชานิเย(๓) จ ชาติเย	สินฺธเว สีฆวาหเน  
+<span class="LineNumber"> 013 </span>		อารูฬฺเห(๒) คามณีเยภิ	อิลฺลิยาจาปธาริภิ  
+<span class="LineNumber"> 014 </span>		ขิปฺปมายนฺตุ สนฺนทฺธา	อสฺสปิฏฺเ€ อลงฺกตา  
+<span class="LineNumber"> 015 </span>		ตโต รถสหสฺสานิ		โยชยนฺตุ จตุทฺทส  
+<span class="LineNumber"> 016 </span>		อโยสุกตเนมิโย		สุวณฺณจิตฺรโปกฺขเร  
+<span class="LineNumber"> 017 </span>		อาโรเปนฺตุ ธเช ตตฺถ	จมฺมานิ กวจานิ จ  
+<span class="LineNumber"> 018 </span>		วิปฺผาเลนฺตุ จ จาปานิ	ทฬฺหธมฺมา ปหาริโน  
+<span class="LineNumber"> 019 </span>		ขิปฺปมายนฺตุ สนฺนทฺธา	รเถสุ รถชีวิโนติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. สุวณฺณกจฺฉา มาตงฺคา ฯ  ๒. ม. อารุฬฺหา ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. อาชานียาว ชาติยา สินฺธวา สีฆวาหนา ฯ 

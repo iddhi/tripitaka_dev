@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  102
+
+<span class="LineNumber"> 002 </span>โจทิยมาโน  กาเมสุ  สํสาเร  จ  อาทีนวํ  ทิสฺวา  สํเวคชาโต 
+<span class="LineNumber"> 003 </span>ปพฺพชิตฺวา ฆเฏนฺโต  วายมนฺโต น จิรสฺเสว ฉฬภิฺโ
+<span class="LineNumber"> 004 </span>อโหสิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 005 </span>		วิปสฺสิสฺส ภควโต		อาสิมารามิโก อหํ  
+<span class="LineNumber"> 006 </span>		นิคฺคุณฺฑิปุปฺผํ ปคฺคยฺห	พุทฺธสฺส อภิโรปยึ ฯ  
+<span class="LineNumber"> 007 </span>		เอกนวุติโต กปฺเป		ยํ ปุปฺผมภิปูชยึ(๒)  
+<span class="LineNumber"> 008 </span>		ทุคฺคตึ นาภิชานามิ	พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 009 </span>		ปฺจตึเส (๓) อิโต กปฺเป  เอโก อาสึ ชนาธิโป  
+<span class="LineNumber"> 010 </span>		มหาปตาปนาเมน		จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 011 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	เอวํ  ปน  อรหตฺตํ  ปตฺวา  ผลสมาปตฺติสุเขน วีตินาเมนฺตํ 
+<span class="LineNumber"> 013 </span>เถรํ ปุราณทุติยิกา อุปฺปพฺพาเชตุกามา  อนฺตรนฺตรา  นานานเยหิ 
+<span class="LineNumber"> 014 </span>ปโลเภตุํ  ปรกฺกมนฺติ  (๔)  เอกทิวสํ  ทิวาวิหารฏฺ€านํ  คนฺตฺวา 
+<span class="LineNumber"> 015 </span>อิตฺถิกุฏาทีนิ   ทสฺเสตุํ อารภิ ฯ อถายสฺมา วีโร มํ 
+<span class="LineNumber"> 016 </span>ปโลเภตุกามา  สิเนรุํ  มกสปกฺขวาเตน  จาเลตุกามา  วิย  ยาว  
+<span class="LineNumber"> 017 </span>พาลา  วตายํ  อตฺถีติ ตสฺสา กิริยาย นิรตฺถกภาวํ ทีเปนฺโต  
+<span class="LineNumber"> 018 </span>		โย ทุทฺทมโย(๕) ทเมน ทนฺโต  
+<span class="LineNumber"> 019 </span>		วีโร(๖) สนฺตุสิโต วิติณฺณกงฺโข  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๒/๒๐๗/๓๐๔ ฯ  ๒. สฺยา. ปุปฺผมภิโรปยึ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม.ปฺจวีเส ฯ  ๔. สี. อุปกฺกมนฺตี ฯ  ๕. ม. ทุทฺทมิโย ฯ
+<span class="LineNumber"> 022 </span># ๖. สฺยา. ธีโร ฯ 

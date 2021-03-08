@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>ปฏิฆานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ปฏิฆานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 003 </span>         [๑๒๔๕]   ปฏิฆานุสัย     นอนเนื่องอยู่แก่บุคคลใด ณ ที่ใด,
+<span class="LineNumber"> 004 </span>มานานุสัย  ก็นอนเนื่องอยู่แก่บุคคลนั้น ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า   มานานุสัย   นอนเนื่องอยู่แก่บุคคลใด ณ ที่ใด,   ปฏิ-
+<span class="LineNumber"> 007 </span>ฆานุสัย  ก็นอนเนื่องอยู่แก่บุคคลนั้น ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>              	<I>จบ  ปฏิฆานุสยมูละ  มานานุสยมูลี</I>
+
+<span class="LineNumber"> 010 </span><H2>ปฏิฆานุสยมูละ  ทิฏฐานุสยทิมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         ปฏิฆานุสัย     นอนเนื่องอยู่แก่บุคคลใด ณ ที่ใด,     ทิฏฐานุสัย
+<span class="LineNumber"> 012 </span>ฯ ล ฯ  วิจิกิจฉานุสัย   ก็นอนเนื่องอยู่แก่บุคคลนั้น ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ปฏิฆานุสัย   นอนเนื่องอยู่แก่บุคคลเหล่านั้น  ณ  ที่นั้น    คือแก่
+<span class="LineNumber"> 014 </span>บุคคล ๒ จำพวก   ที่ทุกขเวทนา   แต่วิจิกิจฉานุสัย   ไม่ใช่นอนเนื่องอยู่
+<span class="LineNumber"> 015 </span>แก่บุคคลเหล่านั้น ณ ที่นั้น, ปฏิฆานุสัย  และวิจิกิจฉานุสัย  นอนเนื่อง
+<span class="LineNumber"> 016 </span>อยู่แก่บุคคลนั้น ณ ที่นั้น   คือแก่ปุถุชน   ที่ทุกขเวทนา.

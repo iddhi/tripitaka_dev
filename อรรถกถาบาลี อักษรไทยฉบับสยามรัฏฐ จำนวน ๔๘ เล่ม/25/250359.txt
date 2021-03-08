@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  359
+
+<span class="LineNumber"> 002 </span>		สุสารทตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	สาธุ  สุวิหิตาน  ทสฺสนนฺติ  อายสฺมโต  สุสารทตฺเถรสฺส 
+<span class="LineNumber"> 004 </span>คาถา ฯ  กา  อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	โส  กิร  ปทุมุตฺตรสฺส  ภควโต  กาเล พฺราหฺมณกุเล 
+<span class="LineNumber"> 006 </span>นิพฺพตฺติตฺวา วิชฺชาปเทสุ นิปฺผตฺตึ  คนฺตฺวา  กาเมสุ  อาทีนวํ  
+<span class="LineNumber"> 007 </span>ทิสฺวา  ฆราวาสํ  ปหาย  ตาปสปพฺพชฺชํ ปพฺพชิตฺวา  
+<span class="LineNumber"> 008 </span>หิมวนฺตปฺปเทเส  อรฺายตเน  อสฺสมํ  กาเรตฺวา  วิหาสิ ฯ  
+<span class="LineNumber"> 009 </span>	อถ  นํ  อนุคฺคณฺหนฺโต  ปทุมุตฺตโร  ภควา  ภิกฺขาจารเวลายํ
+<span class="LineNumber"> 010 </span>อุปสงฺกมิ ฯ  โส ทูรโตว ทิสฺวา ปสนฺนมานโส  ปจฺจุคฺคนฺตฺวา 
+<span class="LineNumber"> 011 </span>ปตฺตํ  คเหตฺวา  มธุรานิ  ผลานิ  ปกฺขิปิตฺวา อทาสิ ฯ ภควา 
+<span class="LineNumber"> 012 </span>ตํ  ปฏิคฺคเหตฺวา  อนุโมทนํ  กตฺวา  (๑) ปกฺกามิ ฯ
+<span class="LineNumber"> 013 </span>	โส เตน ปุฺกมฺเมน เทวมนุสฺเสสุ  สํสรนฺโต  อิมสฺมึ 
+<span class="LineNumber"> 014 </span>พุทฺธุปปาเท  ธมฺมเสนาปติโน  าติพฺราหฺมณกุเล นิพฺพตฺติตฺวา  
+<span class="LineNumber"> 015 </span>มนฺทปฺตฺตา  สุสารโทติ  คหิตนาโม  อปรภาเค  ธมฺม-
+<span class="LineNumber"> 016 </span>เสนาปติสฺส สนฺติเก  ธมฺมํ  สุตฺวา  ปฏิลทฺธสทฺโธ  ปพฺพชิตฺวา
+<span class="LineNumber"> 017 </span>วิปสฺสนํ  วฑฺเฒตฺวา  อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๒)  
+<span class="LineNumber"> 018 </span>		อชฺฌายโก(๓)มนฺตธโร	ติณฺณํ เวทาน ปารคู  
+<span class="LineNumber"> 019 </span>		หิมวนฺตสฺสาวิทูเร		วสามิ อสฺสเม อหํ ฯ  
+<span class="LineNumber"> 020 </span>		อคฺคิหุตฺตฺจ เม อตฺถิ	ปุณฺฑรีกผลานิ จ  
+<span class="LineNumber"> 021 </span>		ปุฏเก นิกฺขิปิตฺวาน	ทุมคฺเค ลคฺคิตํ มยา ฯ  
+<span class="LineNumber"> 022 </span># ๑. สี. วตฺวา ฯ  ๒. ขุ. อ. ๓๒/๑๒๙/๒๓๑ ฯ 
+<span class="LineNumber"> 023 </span># ๓. สฺยา. อชฺฌายิโก ฯ 

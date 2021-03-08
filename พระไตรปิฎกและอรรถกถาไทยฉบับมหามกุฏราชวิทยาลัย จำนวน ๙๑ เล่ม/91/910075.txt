@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๒๙.  นคันถคันถนิยทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                     <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                 <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 005 </span>           [๑๑๐] ๑.  <B>ธรรมที่ไม่ใช่คันถธรรม และไม่ใช่อคันถนิยธรรม
+<span class="LineNumber"> 006 </span>อาศัยธรรมที่ไม่ใช่คันถธรรม   และไม่ใช่อคันถนิยธรรม    เกิดขึ้น
+<span class="LineNumber"> 007 </span>เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 008 </span>                      ๒.  <B>ธรรมที่ไม่ใช่อคันถนิยธรรม    และไม่ใช่ธรรมที่
+<span class="LineNumber"> 009 </span>ไม่ใช่คันถธรรม  อาศัยธรรมที่ไม่ใช่คันถธรรม และไม่ใช่อคันถนิย-
+<span class="LineNumber"> 010 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 011 </span>                      ๓.  <B>ธรรมที่ไม่ใช่คันถธรรม  และไม่ใช่อคันถนิยธรรม
+<span class="LineNumber"> 012 </span>ธรรมที่ไม่ใช่อคันถนิยธรรม และไม่ใช่ธรรมที่ไม่ใช่คันถธรรม  อาศัย
+<span class="LineNumber"> 013 </span>ธรรมที่ไม่ใช่คันถธรรม  และไม่ใช่อคันถนิยธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 014 </span>เหตุปัจจัย.</B> 
+<span class="LineNumber"> 015 </span>                      ๔.  <B>ธรรมที่ไม่ใช่อคันถนิยธรรม    และไม่ใช่ธรรมที่
+<span class="LineNumber"> 016 </span>ไม่ใช่คันถธรรม   อาศัยธรรมที่ไม่ใช่อคันถนิยธรรม  และไม่ใช่ธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่คันถธรรม เกิดขึ้น  เพราะเหตุปัจจัย.</B>

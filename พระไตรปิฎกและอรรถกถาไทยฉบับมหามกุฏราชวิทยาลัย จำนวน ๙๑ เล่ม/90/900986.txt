@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       ๗.  ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นอัพยากตะ  อาศัย 
+<span class="LineNumber"> 002 </span>ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 003 </span>                       ๘.  ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นอัพยากตะ   อาศัย
+<span class="LineNumber"> 004 </span>ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นกุศล   และธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 005 </span>ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                       ๙.  ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นอัพยากตะ  อาศัย
+<span class="LineNumber"> 007 </span>ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นอกุศล และธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>		[๗๑๖]  ในเหตุปัจจัย มี ๙ วาระ  ฯลฯ
+<span class="LineNumber"> 011 </span>สหชาตวาระก็ดี  ฯลฯ   สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 012 </span>                          <H1>โนอุปาทาบทปัญหาวาระ</H1>
+<span class="LineNumber"> 013 </span>                    	     <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 014 </span>                               <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>		[๗๑๗]  ๑.  ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นกุศล   เป็นปัจจัย
+<span class="LineNumber"> 016 </span>แก่ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นกุศล     ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 017 </span>มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>                        ๔.  ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นอกุศล  เป็นปัจจัย
+<span class="LineNumber"> 019 </span>แก่ธรรมที่ไม่ใช่อุปาทาธรรมที่เป็นอกุศล   ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 020 </span>มี ๓ วาระ.

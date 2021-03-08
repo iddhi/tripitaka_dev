@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                         		     <H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 002 </span>                   	<H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 003 </span>		[๑๗๒]  ในนอธิปติปัจจัย มี ๓ วาระ  ฯลฯ  ในนปุเรชาตปัจจัย  มี ๓
+<span class="LineNumber"> 004 </span>วาระ  ฯลฯ  ในนวิปปยุตตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 005 </span>          	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  พึงให้พิสดาร.
+ 
+<span class="LineNumber"> 006 </span>                       		<H1>เหตุบทปัญหาวาระ</H1>   
+<span class="LineNumber"> 007 </span>                         	      <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 008 </span>                                    <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 009 </span>		[๑๗๓]  ๑.  เหตุธรรมที่เป็นทัสสเนนปหาตัพพธรรม  เป็น
+<span class="LineNumber"> 010 </span>ปัจจัยแก่เหตุธรรมที่เป็นทัสสเนนปหาตัพพธรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 011 </span>เหตุปัจจัย   มี ๓ วาระ.                                       
+<span class="LineNumber"> 012 </span>                         	   <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 013 </span>		[๑๗๔]  ๑.  เหตุธรรมที่เป็นทัสสเนนปหาตัพพธรรม   เป็น
+<span class="LineNumber"> 014 </span>ปัจจัยแก่เหตุธรรมที่เป็นทัสสเนนปหาตัพพธรรม    ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>อารัมมณปัจจัย  ฯลฯ 
+<span class="LineNumber"> 016 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 017 </span>		[๑๗๕]  ในเหตุปัจจัย   มี  ๓  วาระ    ในอารัมมณปัจจัย  มี ๘ วาระ
+<span class="LineNumber"> 018 </span>ในอธิปติปัจจัย มี ๖ วาระ   ในอนันตรปัจจัย มี ๕ วาระ    ในสมนันตรปัจจัย 

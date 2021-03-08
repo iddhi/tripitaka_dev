@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                               <H3>ตติยปัณณสก์</H3>
+
+<span class="LineNumber"> 002 </span>                             <H2>อาสาวรรคที่  ๑</H2>
+
+<span class="LineNumber"> 003 </span>                                         <H3>สูตรที่ ๑</H3>
+
+<span class="LineNumber"> 004 </span>         [๓๖๓]  ๑๑๗.  ดูก่อนภิกษุทั้งหลาย    ความหวัง  ๒  อย่างนี้ละ
+<span class="LineNumber"> 005 </span>ได้ยาก  ๒  อย่างเป็นไฉน  คือ ความหวังในลาภ  ๑  ความหวังในชีวิต  
+<span class="LineNumber"> 006 </span>ดูก่อนภิกษุทั้งหลาย  ความหวัง  ๒  อย่างนี้แลละได้ยาก.
+<span class="LineNumber"> 007 </span>                                           จบสูตรที่  ๑
+
+<span class="LineNumber"> 008 </span>                                        <H3>สูตรที่ ๒</H3>
+
+<span class="LineNumber"> 009 </span>         [๓๖๓]  ๑๑๘.  ดูก่อนภิกษุทั้งหลาย  บุคคล  ๒  จำพวกนี้หาได้
+<span class="LineNumber"> 010 </span>ยากในโลด   ๒ จำพวกเป็นไฉน   คือ    บุพพการีบุคคล  ๑   กตัญญูกต-
+<span class="LineNumber"> 011 </span>เวทีบุคคล   ดูก่อนภิกษุทั้งหลาย  บุคคล  ๒  จำพวกนี้แลหาได้ยากในโลก.
+<span class="LineNumber"> 012 </span>                                             จบสูตรที่ ๒
+
+<span class="LineNumber"> 013 </span>                                        <H3>สูตรที่ ๓</H3>
+
+<span class="LineNumber"> 014 </span>         [๓๖๔]  ๑๑๙.  ดูก่อนภิกษุทั้งหลาย    บุคคล ๒ จำพวกนี้หาได้
+<span class="LineNumber"> 015 </span>ยากในโลก  ๒    จำพวกเป็นไฉน  คือ  คนที่พอใจ  ๑   คนที่อิ่มหนำ   ๑
+<span class="LineNumber"> 016 </span>ดูก่อนภิกษุทั้งหลาย  บุคคล  ๒  จำพวกนี้แลหาได้ยากในโลก.
+<span class="LineNumber"> 017 </span>                                               จบสูตรที่  ๓

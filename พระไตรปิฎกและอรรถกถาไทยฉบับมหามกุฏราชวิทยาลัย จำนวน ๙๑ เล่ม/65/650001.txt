@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H2>พระสุตตันตปิฎก</H2>
+
+<span class="LineNumber"> 002 </span>                         <H1>ขุททกนิกาย  มหานิทเทส</H1>
+<span class="LineNumber"> 003 </span>                                <H3>เล่มที่  ๕  ภาคที่  ๑</H3>
+
+<span class="LineNumber"> 004 </span><H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+
+<span class="LineNumber"> 005 </span>                            <H1>อัฏฐกวัคคิกะ</H1><SUP>๑</SUP>
+    
+<span class="LineNumber"> 006 </span>                       <H1>กามสุตตนิทเทสที่  ๑</H1>
+
+<span class="LineNumber"> 007 </span>                      <H1>ว่าด้วยกาม  ๒  อย่าง</H1>
+
+<span class="LineNumber"> 008 </span>         [๑] พระผู้มีพระภาคเจ้าตรัสว่า :-
+<span class="LineNumber"> 009 </span>              <B>เมื่อสัตว์ปรารถนากามอยู่       ถ้ากามนั้นย่อมสำเร็จแก่
+<span class="LineNumber"> 010 </span>สัตว์นั้น  สัตว์นั้นได้กามตามปรารถนาแล้ว   ย่อมเป็นผู้อิ่มใจแน่
+<span class="LineNumber"> 011 </span>นอน.</B>
+<span class="LineNumber"> 012 </span>         [๒]  คำว่า  <B>กาม</B>  ในคำว่า   เมื่อปรารถนากามอยู่      โดยหัวข้อได้
+<span class="LineNumber"> 013 </span>แก่กาม  ๒  อย่าง  คือ วัตถุกาม  ๑  กิเลสกาม ๑.
+<span class="LineNumber"> 014 </span>         วัตถุกามเป็นไฉน ?  รูป  เสียง  กลิ่น  รส   โผฏฐัพพะ  อันเป็นที่
+<span class="LineNumber"> 015 </span>ชอบใจ     เครื่องลาด     เครื่องนุ่งห่ม    ทาสี    ทาสา    แพะ   แกะ   ไก่   สุกร
+<span class="LineNumber"> 016 </span>ช้าง   โค   ม้า   ลา   นา  ที่ดิน   เงิน   ทอง   บ้าน   นิคม   ราชธานี   แว่นแคว้น
+<span class="LineNumber"> 017 </span>ชนบท   กองพลรบ   คลัง    และวัตถุเป็นที่ตั้งแห่งความกำหนัด   อย่างใด
+
+<span class='footnote'>๑.  อัฏฐกถาว่า  อัฏฐกวัคคะ,   น่าจะปริวรรตเป็น  อัฏฐกวรรค.</span>

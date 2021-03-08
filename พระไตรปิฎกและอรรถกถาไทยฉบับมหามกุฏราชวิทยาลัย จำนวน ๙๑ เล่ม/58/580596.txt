@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>			<B>ข้าแต่พระราชา     บุคคลทำร้ายตนเอง
+<span class="LineNumber"> 002 </span>		กลับกล่าวหาว่า  คนอื่นทำร้าย   ดังนี้ก็มี  โกง
+<span class="LineNumber"> 003 </span>		เขาแล้ว  กลับกล่าวหาว่า   เขาโกงดังนี้ก็มี  ไม่
+<span class="LineNumber"> 004 </span>		ควรเชื่อคำของโจทก์ฝ่ายเดียว.
+<span class="LineNumber"> 005 </span>			เพราะฉะนั้น       บุคคลผู้เป็นเชื้อชาติ
+<span class="LineNumber"> 006 </span>		บัณฑิต  ควรฟังคำแม้ของฝ่ายจำเลยด้วย  เมื่อ
+<span class="LineNumber"> 007 </span>		ฟังคำของโจทก์และจำเลย     คู่ความทั้งสอง
+<span class="LineNumber"> 008 </span>		ฝ่ายแล้ว  พึงปฏิบัติตามธรรม.
+<span class="LineNumber"> 009 </span>			คฤหัสถ์ผู้ยังบริโภคกาม   เกียจคร้านไม่ดี 
+<span class="LineNumber"> 010 </span>		บรรพชิตผู้ไม่สำรวม    ไม่ดี    พระราชาไม่ทรง
+<span class="LineNumber"> 011 </span>		ใคร่ครวญก่อนแล้วทำไป    ไม่ดี    บัณฑิตมี
+<span class="LineNumber"> 012 </span>		ความโกรธเป็นเจ้าเรือน   ก็ไม่ดี.
+<span class="LineNumber"> 013 </span>			ข้าแต่พระองค์ผู้เป็นเจ้าแห่งทิศ   กษัตริย์
+<span class="LineNumber"> 014 </span>		ทรงใคร่ครวญก่อนแล้วจึงควรกระทำ   ไม่ทรง
+<span class="LineNumber"> 015 </span>		ใคร่ครวญก่อน  ไม่ควรกระทำ  อิสริยยศและ
+<span class="LineNumber"> 016 </span>		เกียรติศัพท์    ย่อมเจริญแก่กษัตริย์ผู้ทรงใคร่
+<span class="LineNumber"> 017 </span>		ครวญแล้วกระทำ.</B>

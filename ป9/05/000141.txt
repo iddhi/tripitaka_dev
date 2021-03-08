@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                 อภิธัมมัตถสังคบาลีแปล
+<span class="LineNumber"> 002 </span>                             ปริเฉทที่ ๔  ชื่อวิถีสังคหวิภาค<SUP>*</SUP>
+<span class="LineNumber"> 003 </span>                                         [สังคหคาถา]
+<span class="LineNumber"> 004 </span>                        <B>ข้าพเจ้ากระทำการสงเคราะห์  (ประมวล)
+<span class="LineNumber"> 005 </span>                        จิตตุปบาท  อันยอดยิ่ง  ด้วยประการ
+<span class="LineNumber"> 006 </span>                        อย่างนี้แล้ว  จักกล่าวการประมวลชื่อว่า
+<span class="LineNumber"> 007 </span>                        ปวัติสังคหะ  ที่ท่านกำหนดด้วยจิตดวงก่อน
+<span class="LineNumber"> 008 </span>                        และดวงหลัง  โดยความต่างแห่งภูมิ  และ
+<span class="LineNumber"> 009 </span>                        บุคคล  ในปฏิสนธิกาล  และปวัติกาล
+<span class="LineNumber"> 010 </span>                        ตามสมควรแก่ความเป็นไปโดยย่อ ฯ  คือ
+<span class="LineNumber"> 011 </span>                        อย่างไร ?</B>
+<span class="LineNumber"> 012 </span>           พึงทราบฉักกะ ๖  หมวด  ในวิถีสังคหะ  คือ  วัตถุ ๖  ทวาร ๖
+<span class="LineNumber"> 013 </span>อารมณ์ ๖  วิญญาณ ๖  วิถี  ๖  และวิสัยปวัติ ๖ ฯ
+<span class="LineNumber"> 014 </span>           ก็จิตที่พ้นจากวิถี  มีวิสัยปวัติ ๓ อย่าง  ด้วยอำนาจกรรม
+<span class="LineNumber"> 015 </span>กรรมนิมิต  และคตินิมิต ฯ  บรรดาฉักกะ ๖  หมวดนั้น  วัตถุ  ทวาร
+
+<span class='footnote'>  *  พระราชากวี  ปัจจุบันเป็น  พระธรรมบัณฑิต  (มานิต  ถาวโร  ป. ธ. ๙)  วัดสัมพันธวงศ์</span>
+<span class='footnote'>พระนคร  แปล.</span>

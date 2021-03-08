@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 40  มหาวคฺควณฺณนา  หน้า  508
+
+<span class="LineNumber"> 002 </span>อาวุโส  วิสาข  กายิกา  เอเต  ธมฺมา  กายปฺปฏิพทฺธา  ตสฺมา
+<span class="LineNumber"> 003 </span>อสฺสาสปสฺสาสา  กายสงฺขาโรติ  วจนโต  กาเยน สงฺขรียนฺตีติ 
+<span class="LineNumber"> 004 </span>กายสงฺขารา ฯ  
+<span class="LineNumber"> 005 </span>	สฺาเวทยิตนิโรธนฺติ  สฺาย  เวทนาย  จ  นิโรธํ ฯ 
+<span class="LineNumber"> 006 </span>	จิตฺตสงฺขาราติ  สฺา  จ  เวทนา  จ ฯ  เจตสิกา  (๑)  เอเต
+<span class="LineNumber"> 007 </span>ธมฺมา  จิตฺตปฺปฏิพทฺธา  ตสฺมา  สฺา จ  เวทนา จ
+<span class="LineNumber"> 008 </span>จิตฺตสงฺขาโรติ  วจนโต จิตฺเตน สงฺขรียนฺตีติ จิตฺตสงฺขารา(๒) ฯ  
+<span class="LineNumber"> 009 </span>	าณจริยาสุ  อนุปสฺสนาวเสน  (๓)  วิวฏฺฏนานุปสฺสนาคหเณน 
+<span class="LineNumber"> 010 </span>วา  ตสฺสา  อาทิภูตา  จริยากถาย  าณจริยาติ  วุตฺตา 
+<span class="LineNumber"> 011 </span>เสสานุปสฺสนาปิ  คหิตา โหนฺตีติ  เวทิตพฺพํ(๔) ฯ 
+<span class="LineNumber"> 012 </span>	โสฬสหิ  าณจริยาหีติ  จ  อุกฺกฏฺ€ปริจฺเฉโท  อนาคามิสฺส 
+<span class="LineNumber"> 013 </span>ปน  อรหตฺตมคฺคผลวชฺชาหิ จุทฺทสหิปิ โหติ ปริปุณฺณพลตฺตา ฯ  
+<span class="LineNumber"> 014 </span>	นวหิ  สมาธิจริยาหีติ  เอตฺถ  ป€มชฺฌานาทีนิ  อฏฺ€ 
+<span class="LineNumber"> 015 </span>ป€มชฺฌานาทีนํ  ปฏิลาภตฺถาย  สพฺพตฺถ  อุปจารชฺฌานวเสน 
+<span class="LineNumber"> 016 </span>เอกาติ  นว  สมาธิจริยา ฯ  พลจริยานํ  กึ  นานตฺตํ  สมถพเลปิ 
+<span class="LineNumber"> 017 </span>หิ เนกฺขมฺมวเสนาติอาทีหิ สตฺตหิ ปริยาเยหิ  อุปจารสมาธิ  
+<span class="LineNumber"> 018 </span>วุตฺโต  เปยฺยาลวิตฺถารโต  ป€มชฺฌานวเสนาติอาทีหิ  สมสตฺตติยา  
+<span class="LineNumber"> 019 </span>วาเรหิ  ยถาโยคํ  อปฺปนูปจารสมาธิ  วุตฺโต  สมาธิจริยายปิ  
+<span class="LineNumber"> 020 </span># ๑. โปราณ. ยสฺมา โข อาวุโส วิสาข เจตสิกา ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. มู. ๑๒/๕๐๙/๕๕๐ ฯ  ๓. ม. อนุปสฺสนาวสาเน ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. เวทิตพฺพํ ฯ

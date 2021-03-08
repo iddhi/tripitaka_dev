@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่ 44  สุเมธปตฺถนากถาวณฺณนา  หน้า  159  
+
+<span class="LineNumber"> 002 </span>				เย นิจฺจเวรา ปน ปาณิสงฺฆา  
+<span class="LineNumber"> 003 </span>				เต เมตฺตจิตฺตํ ปรมํ ลภึสุ  
+<span class="LineNumber"> 004 </span>				กากา อุลูเกหิ จรึสุ สทฺธึ  
+<span class="LineNumber"> 005 </span>				โกณา (๑) วราเหหิ อกํสุ เกฬึ ฯ  
+<span class="LineNumber"> 006 </span>				โฆราปิ สปฺปานมุขาปิ สปฺปา (๒)  
+<span class="LineNumber"> 007 </span>				กีฬึสุ กามํ นกุเลหิ สทฺธึ  
+<span class="LineNumber"> 008 </span>				คณฺหึสุ มชฺชารสิเรสุ ยูกา (๓)  
+<span class="LineNumber"> 009 </span>				วิสฺสตฺถจิตฺตา ฆรมูสิกาปิ ฯ  
+<span class="LineNumber"> 010 </span>				พุทฺธนฺตเรนาปิ อลทฺธโตเย  
+<span class="LineNumber"> 011 </span>				ปิสาจโลเก วิคตา ปิปาสา  
+<span class="LineNumber"> 012 </span>				ขุชฺชา อเหสุํ สมจารุกายา  
+<span class="LineNumber"> 013 </span>				มูคา จ วาจํ มธุรํ ลภึสุ ฯ  
+<span class="LineNumber"> 014 </span>				ปสนฺนจิตฺตา ปน ปาณิสงฺฆา  
+<span class="LineNumber"> 015 </span>				ตทฺมฺํ ปิยมาลปึสุ  
+<span class="LineNumber"> 016 </span>				อสฺสา จ เหสึสุ ปหฏฺ€จิตฺตา  
+<span class="LineNumber"> 017 </span>				คชฺชึสุ มตฺตา วรวารณาปิ ฯ  
+<span class="LineNumber"> 018 </span>				สุรภิจนฺทนจุณฺณสมากุลา  
+<span class="LineNumber"> 019 </span>				กุสุมกุงฺกุมธูปสุคนฺธินี  
+<span class="LineNumber"> 020 </span>				วิวิธจารุมหทฺธชมาลินี  
+<span class="LineNumber"> 021 </span>				ทสสหสฺสิ อโหสิ สมนฺตโตติ ฯ  
+<span class="LineNumber"> 022 </span># ๑. กตฺถจิ. โกกา ฯ  ๒. กตฺถจิ. โฆราวิสานโฆราปิ สปฺปา ฯ  
+<span class="LineNumber"> 023 </span># ๓. กตฺถจิ. มชฺชารสเรสุ ยุตา ฯ  

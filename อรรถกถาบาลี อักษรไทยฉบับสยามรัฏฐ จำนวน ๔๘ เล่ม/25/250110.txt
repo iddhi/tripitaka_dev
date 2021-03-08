@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  110
+	
+<span class="LineNumber"> 002 </span>เตน  วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 003 </span>		สินฺธุยา นทิยา ตีเร	จกฺกวาโก อหํ ตทา  
+<span class="LineNumber"> 004 </span>		สุทฺธเสวาลภกฺโขหํ		ปาเปสุ จ สุสฺโต ฯ (๒)  
+<span class="LineNumber"> 005 </span>		อทฺทสํ วิรชํ พุทฺธํ		คจฺฉนฺตํ อนิลฺชเส  
+<span class="LineNumber"> 006 </span>		ตุณฺเฑน สาลํ ปคฺคยฺห	วิปสฺสิสฺสาภิโรปยึ ฯ  
+<span class="LineNumber"> 007 </span>		ยสฺส สทฺธา ตถาคเต	อจลา สุปฺปติฏฺ€ิตา  
+<span class="LineNumber"> 008 </span>		เตน จิตฺตปฺปสาเทน	ทุคฺคตึ โส น คจฺฉติ(๓) ฯ  
+<span class="LineNumber"> 009 </span>		สฺวาคตํ วต เม อาสิ	พุทฺธเสฏฺ€สฺส สนฺติเก  
+<span class="LineNumber"> 010 </span>		วิหงฺคเมน สงฺเคน(๔)	สุพีชํ(๕) โรปิตํ มยา ฯ  
+<span class="LineNumber"> 011 </span>		เอกนวุติโต(๖) กปฺเป	ยํ ปุปฺผมภิโรปยึ (๗)  
+<span class="LineNumber"> 012 </span>		ทุคฺคตึ นาภิชานามิ	พุทฺธปูชายิทํ (๘) ผลํ ฯ  
+<span class="LineNumber"> 013 </span>		สุจารุทสฺสนา นาม		อฏฺเ€เต เอกนามกา  
+<span class="LineNumber"> 014 </span>		กปฺเป สตฺตรเส อาสุํ	จกฺกวตฺตี มหพฺพลา ฯ  
+<span class="LineNumber"> 015 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 016 </span>	อถสฺส  ปุราณทุติยิกา  ตํ  ปโลเภตุกามา  อลงฺกตปฏิยตฺตา
+<span class="LineNumber"> 017 </span>ปุตฺเตน  สทฺธึ อุปคนฺตวา  ปิยาลาปภาวาทิเกหิ  ภาววิรเณ  กมฺมํ 
+<span class="LineNumber"> 018 </span>นาม  กาตุํ  อารภิ ฯ  เถโร  ตสฺสา การณํ ทิสฺวา อตฺตโน 
+<span class="LineNumber"> 019 </span># ๑. ขุ. อ. ๓๒/๖๕/๑๖๒ ฯ  ๒. สฺยา. ม. ปาเปสุ จ สุสฺโต ฯ
+<span class="LineNumber"> 020 </span># สี. ปาเณสุ จ สุสฺโต ฯ  ๓. โปราณ. คจุฉหํ ฯ  ๔. สฺยา. ม. สนฺเตน ฯ
+<span class="LineNumber"> 021 </span># ๕. โปราณ. โส พีชํ ฯ  ๖. สฺยา. เอกนวุเต อิโต ฯ ๗. สี. ยํ ปุปฺผมภิปูชยึ ฯ
+<span class="LineNumber"> 022 </span># ๘. สี. ปุปฺผปูชายิทํ ฯ

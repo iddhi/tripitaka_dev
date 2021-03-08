@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>                               <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 002 </span>         [๙๘]  ในนเหตุปัจจัย   มี ๕ วาระ    ในนอธิปติปัจจัย    มี ๕ วาระ
+<span class="LineNumber"> 003 </span>ในนปุเรชาตปัจจัย มี ๕ วาระ   ในนปัจฉาชาตปัจจัย มี ๕ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 004 </span>ปัจจัย มี ๕ วาระ   ในนกัมมปัจจัย  มี ๓ วาระ   ในนวิปากปัจจัย  มี ๕ วาระ
+<span class="LineNumber"> 005 </span>ในนฌานปัจจัย มี ๕ วาระ   ในนมัคคปัจจัย  มี ๕ วาระ  ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 006 </span>มี ๕ วาระ.
+<span class="LineNumber"> 007 </span>         การนับจำนวนวาระอีกสองนัยนอกนี้ก็ดี  สัมปยุตตวาระก็ดี  พึงกระทำ
+<span class="LineNumber"> 008 </span>อย่างนี้.                               

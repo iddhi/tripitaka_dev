@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>รูปายตนมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>รูปายตนมูละ  มนายตนะ ฯ ล ฯ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๗๗๓]   รูปายตนะไม่ใช่กำลังเกิดแก่บุคคลใด, มนายตนะ
+<span class="LineNumber"> 004 </span>ฯ ล ฯ   ธัมมายตนะก็ไม่ใช่จักดับแก่บุคคลนั้น ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังตายก็ดี     บุคคลที่รูปะเกิดไม่ได้
+<span class="LineNumber"> 006 </span>เหล่านั้นกำลังเกิดก็ดี   รูปายตนะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้น    แต่
+<span class="LineNumber"> 007 </span>ธัมมายตนะจักดับแก่บุคคลเหล่านั้น   บุคคลที่กำลังปรินิพพานเหล่านั้น
+<span class="LineNumber"> 008 </span>รูปายตนะไม่ใช่กำลังเกิด    และธัมมายตนะก็ไม่ใช่จักดับแก่บุคคลเหล่า
+<span class="LineNumber"> 009 </span>นั้น.
+<span class="LineNumber"> 010 </span>         ก็หรือว่า ธัมมายตนะไม่ใช่จักดับแก่บุคคลใด   ฯ ลฯ  
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>             <I>จบ  รูปายตนมูละ  มนายตนะ  ฯ ล ฯ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 013 </span>                                      <I>รูปายตนมูล  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                         <H1>มนายตนมูล</H1>
+<span class="LineNumber"> 015 </span><H2>มนายตนมูละ   ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 016 </span>         [๗๗๔]   มนายตนะไม่ใช่กำลังเกิดแก่บุคคลใด,     ธัมมายตนะ
+<span class="LineNumber"> 017 </span>ก็ไม่ใช่จักดับแก่บุคคลนั้น  ใช่ไหม  ?

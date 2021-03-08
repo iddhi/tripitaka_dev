@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ 20  หน้า  1
+
+<span class="LineNumber"> 002 </span>		ปรมตฺถทีปนี นาม ขุทฺทกนิกายฏฺ€กถา
+<span class="LineNumber"> 003 </span>				อิติวุตฺตกวณฺณนา
+		
+<span class="LineNumber"> 004 </span>		 นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ
+<span class="LineNumber"> 005 </span>					คนฺถารมฺภกถา
+<span class="LineNumber"> 006 </span>		 มหาการุณิกํ นาถํ		เยฺยสาครปารคุํ 
+<span class="LineNumber"> 007 </span>		 วนฺเท นิปุณคมฺภีร-	วิจิตฺรนยเทสนํ ฯ
+<span class="LineNumber"> 008 </span>		 วิชฺชาจรณสมฺปนฺนา	เยน นิยฺยนฺติ โลกโต
+<span class="LineNumber"> 009 </span>		 วนฺเท ตมุตฺตมํ ธมฺมํ	สมฺมาสมฺพุทฺธปูชิตํ ฯ
+<span class="LineNumber"> 010 </span>		 สีลาทิคุณสมฺปนฺโน	€ิโต มคฺคผเลสุ โย
+<span class="LineNumber"> 011 </span>		 วนฺเท อริยสงฺฆํ ตํ		ปุฺกฺเขตฺตํ อนุตฺตรํ ฯ
+<span class="LineNumber"> 012 </span>		 วนฺทนาชนิตํ ปุฺํ	อิติ ยํ รตนตฺตเย
+<span class="LineNumber"> 013 </span>		 หตนฺตราโย สพฺพตฺถ	หุตฺวาหํ ตสฺส เตชสา ฯ
+<span class="LineNumber"> 014 </span>		 เอกกาทิปฺปเภเทน		เทสิตานิ มเหสินา
+<span class="LineNumber"> 015 </span>		 โลภาทีนํ ปหานทิ(๑)-	ทีปนานิ วิเสสโต ฯ
+<span class="LineNumber"> 016 </span>		 สุตฺตานิ เอกโต กตฺวา	อิติวุตฺตปทกฺขรํ
+<span class="LineNumber"> 017 </span>		 ธมฺมสงคาหกา เถรา	สงฺคายึสุ มเหสโย ฯ
+<span class="LineNumber"> 018 </span>		 อิติวุตฺตกมิจฺเจว		นาเมน วสิโน ปุเร
+<span class="LineNumber"> 019 </span>		 ยํ ขุทฺทกนิกายสฺมึ		คมฺภีรตฺถปทกฺกมํ ฯ
+<span class="LineNumber"> 020 </span># ๑. ม. ปหานานิ ฯ

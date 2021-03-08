@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                              บารมี ๑๐
+<span class="LineNumber"> 002 </span>                                         <B>๑.  ทานบารมี</B>
+<span class="LineNumber"> 003 </span>                                         <B>๒.  สีลบารมี</B> 
+<span class="LineNumber"> 004 </span>                                         <B>๓.  เนกขัมมบารมี</B>
+<span class="LineNumber"> 005 </span>                                         <B>๔. ปัญญาบารมี</B>
+<span class="LineNumber"> 006 </span>                                         <B>๕.  วิริยบารมี</B>
+<span class="LineNumber"> 007 </span>                                         <B>๖.  ขันติบารมี</B>
+<span class="LineNumber"> 008 </span>                                         <B>๗. สัจจบารมี</B>
+<span class="LineNumber"> 009 </span>                                         <B>๘.  อธิษฐานบารมี</B>
+<span class="LineNumber"> 010 </span>                                         <B>๙.  เมตตาบารมี</B>
+<span class="LineNumber"> 011 </span>                                       <B>๑๐.  อุเบกขาบารมี</B>
+<span class="LineNumber"> 012 </span>           <B>บารมี</B>  คือ ข้อปฏิบัติหรือปฏิปทาอันสูงหรืออาจจะแปลเป็นภาษา
+<span class="LineNumber"> 013 </span>ธรรมดาว่าการเก็บ การสะสมความดีเอาไว้ในใจ ตรงกันข้ามกับอาสวะ
+<span class="LineNumber"> 014 </span>คือการเก็บการสะสมความชั่ว  บารมีนั้นท่านจัดออกเป็น ๑๐ ประการด้วยกัน
+<span class="LineNumber"> 015 </span>เรียกว่าบารมี ๑๐ คือ
+<span class="LineNumber"> 016 </span>           ๑.  ทานบารมี  หมายถึงการที่บุคคลมีจิตใจประกอบด้วยความเอื้อเฟื้อ
+<span class="LineNumber"> 017 </span>เผื่อแผ่ ปรารถนาที่จะสงเคราะห์อนุเคราะห์ช่วยเหลือบุคคลอื่นผู้สมควรแก่
+<span class="LineNumber"> 018 </span>การสงเคราะห์อนุเคราะห์  การสงเคราะห์นั้นอาจจะเป็นการสงเคราะห์
+<span class="LineNumber"> 019 </span>ด้วยอามิสคือวัตถุสิ่งของที่ควรจะให้หรือสามารถจะให้ได้  ตลอดถึงการ
+<span class="LineNumber"> 020 </span>แนะนำพร่ำสอนซึ่งจัดเป็นธรรมทาน
+				

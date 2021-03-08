@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 279
+
+<span class="LineNumber"> 002 </span>		พหูนิ รฺํ(๑) รตนานิ อตฺถิ  
+<span class="LineNumber"> 003 </span>		เต ตฺวํ ทลิทฺโท กถมาหุเยสีติ ฯ  
+<span class="LineNumber"> 004 </span>	ตสฺสตฺโถ  กึ  ตานิ  โภโต  มาณวสฺส  รตนานิ  อตฺถิ ฯ
+<span class="LineNumber"> 005 </span>เย  ตํ  ชินนฺโตติ  ยานิ  ตํ  ชินนฺโต  อกฺขธุตฺโต  อาหราติ  
+<span class="LineNumber"> 006 </span>วตฺวา  หเรยฺย  ราชูนํ (๒) ปน  นิเวสเน  พหูนิ  รตนานิ  อตฺถิ  
+<span class="LineNumber"> 007 </span>เต ราชาโน เอวํ พหุธเน  ตฺวํ ทลิทฺโท สมาโน กถํ ชูเตน
+<span class="LineNumber"> 008 </span>อาหุยสีติ ฯ  
+<span class="LineNumber"> 009 </span>	ตโต ปุณฺณโก อาห  
+<span class="LineNumber"> 010 </span>	[๙๑๙]มโนหโร นาม มณิ(๓) มมายํ  
+<span class="LineNumber"> 011 </span>		ธนาหรํ (๔)มณิรตนํ อุฬารํ  
+<span class="LineNumber"> 012 </span>		อิทฺจ(๕) อาชฺํ อมิตฺตตาปนํ(๖)  
+<span class="LineNumber"> 013 </span>		เอตํ เม ชินิตฺวา หเร อกฺขธุตฺโตติ ฯ  
+<span class="LineNumber"> 014 </span>	ปาลิโปตฺถเกสุ  ปน  มม  มณิ  วิชฺชติ  โลหิตงฺโคติ(๗) 
+<span class="LineNumber"> 015 </span>ลิกฺขิตํ ฯ  โส  ปน  มณิ  เวฬุริโย  ตสฺมา  อิทเมว  สเมติ ฯ
+<span class="LineNumber"> 016 </span>ตตฺถ  อาชฺนฺติ  อิมํ  อาชานิยอสฺสฺจ(๘)  มณิฺจาติ  เอตํ  เม
+<span class="LineNumber"> 017 </span>อุภยํ  หเรยฺย  อกฺขธุตฺโตติ  อสฺสํ ทสฺสนฺโต เอวมาห ฯ  
+<span class="LineNumber"> 018 </span>	ตํ สุตฺวา ราชา คาถมาห  
+<span class="LineNumber"> 019 </span># ๑. ม. รฺโ ฯ  ๒. ม. รฺโ	ฯ ๓.  มณี ฯ 
+<span class="LineNumber"> 020 </span># ๔. มโนหรํ ฯ  ๕. ม. มโนหรํ ฯ ๕. ม. อิมฺจ ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. อาชฺมมิตฺตตาปนํ ฯ  ๗. ม. โลหิตงฺโกติ ฯ 
+<span class="LineNumber"> 022 </span># ๘. ม. อาชานียสฺสฺจ ฯ  ๙. ม. ทสฺเสตฺวา ฯ

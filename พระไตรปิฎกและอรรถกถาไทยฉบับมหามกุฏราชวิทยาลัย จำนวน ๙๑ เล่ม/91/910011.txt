@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                   ๙.   <B>ธรรมที่ไม่ใช่ธรรมที่สัมปยุตด้วยอทุกขมสุขเวทนา 
+<span class="LineNumber"> 002 </span>อาศัยธรรมที่ไม่ใช่ธรรมที่สัมปยุตด้วยอทุกขมสุขเวทนา     เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะเหตุปัจจัย</B>  มี ๗ วาระ.  
+<span class="LineNumber"> 004 </span>                                   <I>นเวทนาติกะ  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                     <H1>๓.  นวิปากติกะ</H1>
+<span class="LineNumber"> 006 </span>                                         <H1>ปฏิจจวาระ</H1>		
+<span class="LineNumber"> 007 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                       <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 009 </span>           [๑๕] ๑.   <B>ธรรมที่ไม่ใช่วิปากธรรม อาศัยธรรมที่ไม่ใช่วิปาก
+<span class="LineNumber"> 010 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 011 </span>                   ๒.   <B>ธรรมที่ไม่ใช่วิปากธัมมธรรม   อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 012 </span>วิปากธัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 013 </span>                   ๓.   <B>ธรรมที่ไม่ใช่เนววิปากนวิปากธัมมธรรม    อาศัย
+<span class="LineNumber"> 014 </span>ธรรมที่ไม่ใช่เนววิปากนวิปากธัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 015 </span>                                          <I>นวิปากติกะ  จบ</I>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ปฺจมวคฺเค สฺชยตฺเถรคาถาวณฺณนา หน้า 259
+	
+<span class="LineNumber"> 002 </span>สฺชาตปฺปสาโท  สตฺถารํ  อุปสงฺกมิ ฯ  
+<span class="LineNumber"> 003 </span>	ตสฺส  สตฺถา ธมฺมํ เทเสสิ ฯ โส ธมฺมํ สุตฺวา  โสตาปนฺโน  
+<span class="LineNumber"> 004 </span>อโหสิ ฯ  อปรภาเค  ปพฺพชิ ฯ  ปพฺพชนฺโต จ ขุรคฺเคเยว 
+<span class="LineNumber"> 005 </span>ฉฬภิฺโ  อโหสิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 006 </span>		วิปสฺสิสฺส ภควโต		มหาปูคคโณ(๒) อหุ  
+<span class="LineNumber"> 007 </span>		เวยฺยาวจฺจกโร อาสึ	สพฺพกิจฺเจสุ วาวโฏ(๓) ฯ  
+<span class="LineNumber"> 008 </span>		เทยฺยธมฺโม จ เม นตฺถิ	สุคตสฺส มเหสิโน  
+<span class="LineNumber"> 009 </span>		อวนฺทึ สตฺถุโน ปาเท	วิปฺปสนฺเนน เจตสา ฯ  
+<span class="LineNumber"> 010 </span>		เอกนวุติโต กปฺเป		เวยฺยาวจฺจํ อกาสหํ  
+<span class="LineNumber"> 011 </span>		ทุคฺคตึ นาภิชานามิ	เวยฺยาวจฺจสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 012 </span>		อิโต จ อฏฺ€เม(๔) กปฺเป  ราชา อาสึ สุจินฺติโต(๕)  
+<span class="LineNumber"> 013 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 014 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 015 </span>	ฉฬภิฺโ ปน หุตฺวา อฺํ พฺยากโรนฺโต  
+<span class="LineNumber"> 016 </span>		ยโต อหํ ปพฺพชิโต		อคารสฺมา อนาคาริยํ  
+<span class="LineNumber"> 017 </span>		นาภิชานามิ สงฺกปฺปํ	อนริยํ โทสสํหิตนฺติ(๖)  
+<span class="LineNumber"> 018 </span>คาถํ อภาสิ ฯ 
+<span class="LineNumber"> 019 </span>	ตตฺถ  ยโต  อหํ  ปพฺพชิโตติ  ยโต  ปภูติ  ยโต ปฏฺ€าย 
+<span class="LineNumber"> 020 </span>อหํ ปพฺพชิโต ฯ  
+<span class="LineNumber"> 021 </span># ๑. ขุ. อ. ๓๒/๑๐๑/๑๙๘ ฯ  ๒. สฺยา. มหาปุคฺคคโณ ฯ 
+<span class="LineNumber"> 022 </span># ๓. สฺยา. พฺยาวโฏ ฯ  ๔. สฺยา. อิโต จฏฺ€มเก ฯ  ๕. สฺยา. สุจินฺติโย ฯ
+<span class="LineNumber"> 023 </span># ๖. ขุ. เถร. ๒๖/๑๘๕/๒๗๑ ฯ 

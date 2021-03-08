@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>ปัจจนียานุโลมนัย</H2>
+<span class="LineNumber"> 002 </span>                      <H2>การนับจำนวนวาระในปัจจนียานุโลม</H2>
+<span class="LineNumber"> 003 </span>         [๒๕๓]   <B>เพราะนเหตุปัจจัย</B>       ในอารัมมณปัจจัย    มี  ๙  วาระ . . .
+<span class="LineNumber"> 004 </span>อธิปติปัจจัย มี ๙ วาระ   ในปัจจัยทั้งปวง   มี ๙ วาระ.
+<span class="LineNumber"> 005 </span>         พึงกระทำอนุโลมมาติกา
+<span class="LineNumber"> 006 </span>                            <I>จิตตสังสัฏฐสมุฏฐานทุกะ  จบ</I>

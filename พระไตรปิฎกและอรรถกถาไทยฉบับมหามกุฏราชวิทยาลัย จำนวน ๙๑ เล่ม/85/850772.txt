@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ฌานมูลกนัย</H1> 
+<span class="LineNumber"> 002 </span>                                    <H1>ฌานสภาคะ</H1>
+<span class="LineNumber"> 003 </span> <B>[๙๕๖] เพราะฌานปัจจัย</B>  ในนเหตุปัจจัย  มี ๗ วาระ...   ในน- 
+<span class="LineNumber"> 004 </span>อารัมมณปัจจัย     มี ๗ วาระ     ในนอธิปติปัจจัย    มี ๗ วาระ    ในน- 
+<span class="LineNumber"> 005 </span>อนันตรปัจจัย  มี ๗ วาระ ในนสมนันตรปัจจัย มี ๗ วาระ ในนอัญญมัญญ-
+<span class="LineNumber"> 006 </span>ปัจจัย  มี ๓ วาระ   ในนนิสสยปัจจัย    มี ๗ วาระ   ในนอุปนิสสยปัจจัย
+<span class="LineNumber"> 007 </span>มี ๗ วาระ     ในนปุเรชาตปัจจัย      มี ๗ วาระ     ในนปัจฉาชาคปัจจัย
+<span class="LineNumber"> 008 </span>มี ๗ วาระ  ในนอาเสวนปัจจัย  มี ๗ วาระ  ในนกัมมปัจจัย  มี ๗ วาระ
+<span class="LineNumber"> 009 </span>ในนวิปากปัจจัย   มี ๗ วาระ  ในนอาหารปัจจัย  มี ๗ วาระ ในนอินทริย-
+<span class="LineNumber"> 010 </span>ปัจจัย    มี๗ วาระ   ในนมัคคปัจจัย    มี ๗ วาระ    ในนสัมปยุตตปัจจัย 
+<span class="LineNumber"> 011 </span>มี ๓ วาระ      ในนวิปปยุตตปัจจัย      มี ๓ วาระ      ในโนนัตถิปัจจัย 
+<span class="LineNumber"> 012 </span>มี ๗ วาระ  ในโนวิคตปัจจัย   มี ๗ วาระ.
+
+<span class="LineNumber"> 013 </span>                                    <H1>ฌานฆฏนา ๓๖</H1>
+<span class="LineNumber"> 014 </span> <B>[๙๕๗] ๑. เพราะปัจจัย ๕</B> คือ  ฌานะ  สหชาตะ  นิสสยะ  อัตถิ
+<span class="LineNumber"> 015 </span>อวิคตปัจจัย ในนเหตุปัจจัย  มี ๗ วาระ ฯลฯ ในโนวิคตปัจจัย  มี ๗ วาระ.
+<span class="LineNumber"> 016 </span>              <B>๒.  เพราะปัจจัย ๖</B>  คือ  ฌานะ  สหชาตะ อัญญมัญญ  นิสสยะ
+<span class="LineNumber"> 017 </span>อัตถิ  อวิคตปัจจัย   ในนเหตุปัจจัย  มี ๓ วาระ  ฯล ฯ ในโนวิคตปัจจัย 
+<span class="LineNumber"> 018 </span>มี ๓ วาระ.
+<span class="LineNumber"> 019 </span>              <B>๓. เพราะปัจจัย ๗</B>  คือ  ฌานะ  สหชาตะ อัญญมัญญ  นิสสยะ
+<span class="LineNumber"> 020 </span>สัมปยุตตะ    อัตถิ   อวิคตปัจจัย   ในนเหตุปัจจัย    มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 021 </span>ในโนวิคตปัจจัย  มี ๓ วาระ.

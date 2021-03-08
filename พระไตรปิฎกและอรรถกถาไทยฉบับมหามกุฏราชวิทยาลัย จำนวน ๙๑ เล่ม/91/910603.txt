@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>ปฏิจจวาระ</H2>   
+<span class="LineNumber"> 002 </span>                                      <H2>อนุโลมนัย</H2>	 
+<span class="LineNumber"> 003 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                                         <H2>นเหตุบท</H2>	
+<span class="LineNumber"> 005 </span>           [๓๕๗] ๑.  <B>ธรรมที่ไม่ใช่นเหตุธรรม  ที่ไม่ใช่อกุศล   อาศัย
+<span class="LineNumber"> 006 </span>นเหตุธรรมที่เป็นกุศล   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                       ๒.  <B>ธรรมที่ไม่ใช่นเหตุธรรม     ที่ไม่ใช่อัพยากตะ
+<span class="LineNumber"> 008 </span>อาศัยนเหตุธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 009 </span>                         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๓๕๘]  ในเหตุปัจจัย มี ๙ วาระ  ในอารัมมณปัจจัย  มี  ๙  วาระ  ฯลฯ
+<span class="LineNumber"> 011 </span>ในอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 012 </span>           ในปัจจัยทั้งปวงก็มี ๙ วาระ.
+<span class="LineNumber"> 013 </span>                           <I>กุสลติกเหตุทุกนกุสลติกนเหตุทุกะ  จบ</I>

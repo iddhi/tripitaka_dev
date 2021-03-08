@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.  นิมิตที่ใช้ได้
+<span class="LineNumber"> 002 </span>           ๒.  นิมิตที่ใช้ไม่ได้ 
+<span class="LineNumber"> 003 </span>           ๓.  แนวสีมาที่ชักบรรจบถึงกัน 
+<span class="LineNumber"> 004 </span>           ๔.  แนวที่ขาดไป
+<span class="LineNumber"> 005 </span>           ๕.  พื้นที่คงเป็นสีมา
+<span class="LineNumber"> 006 </span>           ๖.  พื้นที่ขาดไป
+<span class="LineNumber"> 007 </span>           ๖.  โรงอุโบสถ.
+<span class="LineNumber"> 008 </span>           สีมามีฉายาเป็นนิมิตนั้น  พระอรรถกถาจารย์แก้ว่า  ทำเงาอย่างใด
+<span class="LineNumber"> 009 </span>อย่างหนึ่ง  มีเงาภูเขาเป็นต้นเป็นนิมิต.  ข้าพเจ้าไม่ปลงใจด้วย  เห็นอยู่
+<span class="LineNumber"> 010 </span>ทางหนึ่งว่า  ถือเอาแนวเป็นนิมิต  เหตุไฉนจึงแปลฉายา  ว่า  แนว  จัก
+<span class="LineNumber"> 011 </span>แสดงโดยแผนดังนี้ :-
+<span class="LineNumber"> 012 </span>                                             แผน  ๑๐

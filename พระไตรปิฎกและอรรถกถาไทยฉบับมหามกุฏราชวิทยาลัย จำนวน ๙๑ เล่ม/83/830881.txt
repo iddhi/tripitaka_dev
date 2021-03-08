@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>ธรรมที่เหลือ   เว้นอัพยากตะด้วย   ธรรมด้วย   ไม่ชื่อว่าอัพยากตะด้วย 
+<span class="LineNumber"> 002 </span>ไม่ชื่อว่าธรรมด้วย.
+<span class="LineNumber"> 003 </span>         ไม่ใช่ธรรม  ไม่ชื่อว่าอกุศลธรรม  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>                                    <I>นิทเทสวาระ   จบ</I>
+<span class="LineNumber"> 006 </span>                              <I>ปัณณัตติวาระนิทเทส  จบ</I>

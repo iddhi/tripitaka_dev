@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>				  <H1>อรณบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>				      <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>				    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๙๖๒]  ๑.  อรณธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม    เป็น
+<span class="LineNumber"> 005 </span>ปัจจัยแก่อรณธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 006 </span>ปัจจัย ฯลฯ
+<span class="LineNumber"> 007 </span>        	        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>		[๙๖๓]  ในเหตุปัจจัย  มี  ๗ วาระ     ในอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 009 </span>ฯลฯ  ในอวิคตปัจจัย มี ๒๕ วาระ.
+<span class="LineNumber"> 010 </span>            แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 011 </span>			     <I>สนิทัสสนติกสรณทุกะ  จบ</I>
+<span class="LineNumber"> 012 </span>			      <I>อนุโลมติกทุกปัฏฐาน  จบ</I>

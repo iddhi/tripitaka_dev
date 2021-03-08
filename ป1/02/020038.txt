@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>อ  อิ  อุ.  จะแจกปุํลิงค์ก่อน  แล้วจึงจะแจกอิตถีลิงค์และนปุํสกลิงค์   
+<span class="LineNumber"> 002 </span>เป็นลำดับไป.  
+<span class="LineNumber"> 003 </span>        [๔๗]  อ  การันต์  ในปุํลิงค์แจกอย่าง  ปุริส  [บุรุษ]  ดังนี้ :-
+<span class="LineNumber"> 004 </span>-----------------------------------------------------------------------------
+<span class="LineNumber"> 005 </span>		เอกวจนํ					พหุวจนํ
+<span class="LineNumber"> 006 </span>ป.	ปุริโส					ปุริสา
+<span class="LineNumber"> 007 </span>ทุ.	ปุริสํ						ปุริเส
+<span class="LineNumber"> 008 </span>ต.	ปุริเสน					ปุริเสหิ	ปุริเสภิ
+<span class="LineNumber"> 009 </span>จ.  	ปุริสสฺส  ปุริสาย  ปุริสตฺถํ		ปุริสานํ
+<span class="LineNumber"> 010 </span>ปญฺ. ปุริสสฺมา  ปุริสมฺหา  ปุริสา	ปุริเสหิ  	ปุริเสภิ
+<span class="LineNumber"> 011 </span>ฉ.  	ปุริสสฺส					ปุริสานํ
+<span class="LineNumber"> 012 </span>ส.  	ปุริสสฺมึ  ปุริสมฺหิ  ปุริเส		ปุริเสสุ
+<span class="LineNumber"> 013 </span>อา.	ปุริส						ปุริสา
+
+<span class="LineNumber"> 014 </span>        ศัพท์ที่เป็น  อ  การันต์  เช่นนี้  แจกเหมือน ปุริส
+<span class="LineNumber"> 015 </span>-----------------------------------------------------------------------------
+<span class="LineNumber"> 016 </span>อาจริย	อาจารย์				ชน		ชน
+<span class="LineNumber"> 017 </span>กุมาร	เด็ก					ตุรค		ม้า
+<span class="LineNumber"> 018 </span>ขตฺติย	กษัตริย์				เถน		ขโมย
+<span class="LineNumber"> 019 </span>คณ		หมู่					ทูต		ทูต
+<span class="LineNumber"> 020 </span>โจร		โจร					ธช		ธง
+<span class="LineNumber"> 021 </span>ฉณ		มหรสพ				นร		คน
+

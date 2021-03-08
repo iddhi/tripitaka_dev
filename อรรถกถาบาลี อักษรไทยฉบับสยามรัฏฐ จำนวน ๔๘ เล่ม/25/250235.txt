@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ปฺจมวคฺเค ขทิรวนิยเรวตตฺเถรคาถาวณฺณนา หน้า 235
+		
+<span class="LineNumber"> 002 </span>		โย โส ตาเรสิ สมฺพุทฺธํ	สํฆฺจาปิ อนาสวํ  
+<span class="LineNumber"> 003 </span>		เตน จิตฺตปฺปสาเทน	เทวโลเก รมิสฺสติ ฯ  
+<span class="LineNumber"> 004 </span>		นิพฺพตฺติสฺสติ เต พฺยมฺหํ	สุกตํ นาวสณฺ€ิตํ  
+<span class="LineNumber"> 005 </span>		อากาเส ปุปฺผฉทนํ	ธารยิสฺสติ สพฺพทา ฯ  
+<span class="LineNumber"> 006 </span>		อฏฺ€ปฺาสกปฺปมฺหิ	ตารโก(๑) นาม ขตฺติโย  
+<span class="LineNumber"> 007 </span>		จาตุรนฺโต วิชิตาวี		จกฺกวตฺตี ภวิสฺสติ ฯ  
+<span class="LineNumber"> 008 </span>		สตฺตปฺาสกปฺปมฺหิ	จมฺมโก(๒) นาม ขตฺติโย  
+<span class="LineNumber"> 009 </span>		อุคฺคจฺฉนฺโตว สูริโย	โชติสฺสติ มหพฺพโล ฯ  
+<span class="LineNumber"> 010 </span>		กปฺปสตสหสฺสมฺหิ		โอกฺกากกุลสมฺภโว  
+<span class="LineNumber"> 011 </span>		โคตโม นาม โคตฺเตน	สตฺถา โลเก ภวิสฺสติ ฯ  
+<span class="LineNumber"> 012 </span>		ติทสา โส จวิตฺวาน		มนุสฺสตฺตํ คมิสฺสติ  
+<span class="LineNumber"> 013 </span>		เรวโต นาม นาเมน	พฺรหฺมพนฺธุ ภวิสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>		อคารา นิกฺขมิตฺวาน	สุกฺกมูเลน โจทิโต  
+<span class="LineNumber"> 015 </span>		โคตมสฺส ภควโต		สาสเน ปพฺพชิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		โส ปจฺฉา ปพฺพชิตฺวาน	ยุตฺตโยโค วิปสฺสโก (๓)  
+<span class="LineNumber"> 017 </span>		สพฺพาสเว ปริฺาย	นิพฺพายิสฺสตินาสโว ฯ  
+<span class="LineNumber"> 018 </span>		วีริยํ เม ธุรโธรยฺหํ		โยคกฺเขมาธิวาหนํ  
+<span class="LineNumber"> 019 </span>		ธาเรมิ อนฺติมํ เทหํ	สมฺมาสมฺพุทฺธสาสเน ฯ  
+<span class="LineNumber"> 020 </span>		สตสหสฺเส กตํ กมฺมํ	ผลํ ทสฺเสสิ เม อิธ  
+<span class="LineNumber"> 021 </span>		สุมุตฺโต สรเวโคว		กิเลเส ฌาปยี มม ฯ  
+<span class="LineNumber"> 022 </span># ๑. สฺยา. ตารโณ ฯ  ๒. สฺยา. จมฺพโก ฯ  ๓. สี. วิปสฺสติ ฯ 

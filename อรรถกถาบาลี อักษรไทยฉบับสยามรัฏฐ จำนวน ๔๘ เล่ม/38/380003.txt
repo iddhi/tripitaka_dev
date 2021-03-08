@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  38  อารมฺภกถา  หน้า  3
+
+<span class="LineNumber"> 002 </span>			วกฺขามหํ อฏฺ€กถํ ชนสฺส  
+<span class="LineNumber"> 003 </span>			หิตาย สทฺธมฺมจิรฏฺ€ิตตฺถํ  
+<span class="LineNumber"> 004 </span>			สกฺกจฺจ สทฺธมฺมปโชติกํถํ (๑) 
+<span class="LineNumber"> 005 </span>			สุณาถ ธาเรถ จ สาธุ สนฺโตติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ปาโ€  วิสิฏฺโ€  นิทฺเทโส  ตํ  นาม  วิเสสิโต  จาติ 
+<span class="LineNumber"> 007 </span>วุตฺตตฺตา ทุวิโธ ปาโ€  พฺยฺชนปาโ€  อตฺถปาโ€  จ ฯ  เตสุ  
+<span class="LineNumber"> 008 </span>พฺยฺชนปาโ€  อกฺขรปทพฺยฺชนอาการนิรุตฺตินิทฺเทสวเสน  
+<span class="LineNumber"> 009 </span>ฉพฺพิโธ ฯ  อตฺถปาโ€  สงฺกาสนปฺปกาสนวิวรณวิภชน-
+<span class="LineNumber"> 010 </span>อุตฺตานีกรณปฺตฺติวเสน  ฉพฺพิโธ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  ตีสุ ทฺวาเรสุ ปริสุทฺธปฺปโยคควเสน (๒) วิสุทฺธกรุณานํ (๓)
+<span class="LineNumber"> 012 </span>จิตฺเตน  ปวตฺติตเทสนา  วาจาหิ  อกถิตตฺตา  อเสวนฺตตฺตา (๔) 
+<span class="LineNumber"> 013 </span>อกฺขรมิติ สฺิตา ตํ ปารายนิกพฺราหฺมณานํ  มนสา  ปุจฺฉิต-
+<span class="LineNumber"> 014 </span>ปฺหานํ  วเสน  ภควตา  รตนฆเร  นิสีทิตฺวา  สมฺมสิตปฏฺ€าน-
+<span class="LineNumber"> 015 </span>มหาปกรณวเสน จ อกฺขรํ นามาติ คเหตพฺพํ ฯ  อถวา ฯ
+<span class="LineNumber"> 016 </span>อปริปุณฺณปทํ  อกฺขรมิติ  คเหตพฺพํ  สฏฺ€ิวสฺสสหสฺสานีติ 
+<span class="LineNumber"> 017 </span>เอวมาทีสุ วิย ฯ  เอตฺถ  สการทุการาทีนิ  อกฺขรมิติ เอกกฺขรํ วา  
+<span class="LineNumber"> 018 </span># ๑. ม. สทฺธมฺมปโชติกํ ตํ ฯ  ๒. ม. ปริสุทฺธปฺปโยคภาเวน ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. วิสุทฺธกรุณานํ ฯ  ๔. สี. อเสวนตฺตา ฯ  ม. อเทสิตตฺตา ฯ
+<span class="LineNumber"> 020 </span># ๕. ม. สมนฺตปฏฺ€านมหาปกรณวเสน ฯ  ๖. ม. เอตฺถ หิ ฯ

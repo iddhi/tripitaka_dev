@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                       <B>รวมพระสูตรที่มีในวรรคนี้  คือ</B>
+<span class="LineNumber"> 002 </span>       	๑. ตถาคตสูตร  ๒. ปทสูตร  ๓. กูฏสูตร  ๔. มูลสูตร  ๕.  สารสูตร 
+<span class="LineNumber"> 003 </span>๖. วัสสิกสูตร  ๗. ราชสูตร  ๘. จันทิมสูตร  ๙. สุริยสูตร  ๑๐. วัตถสูตร
+<span class="LineNumber"> 004 </span>       	<B>(พึงขยายความอัปปมาทวรรค  ด้วยสามารถโพชฌงค์  แห่ง
+<span class="LineNumber"> 005 </span>โพชฌงคสังยุต)</B>
+<span class="LineNumber"> 006 </span>                 <I>จบอัปปมาทวรรคที่  ๑๐  แห่งโพชฌงค์สังยุต</I>
+<span class="LineNumber"> 007 </span>       	[๖๗๔]  ดูก่อนภิกษุทั้งหลาย      การงานที่จะพึงทำด้วยกำลังอย่างใด
+<span class="LineNumber"> 008 </span>อย่างหนึ่ง   อันบุคคลทำอยู่   การงานที่จะพึงทำด้วยกำลังทั้งหมดนั้น  อันบุคคล
+<span class="LineNumber"> 009 </span>อาศัยแผ่นดินดำรงอยู่บนแผ่นดิน  จึงทำได้  ฯลฯ
+<span class="LineNumber"> 010 </span>        <B>(พึงขยายเนื้อความอย่างที่กล่าวนี้เป็นตัวอย่าง)</B>
+<span class="LineNumber"> 011 </span>                         <B>รวมพระสูตรที่มีในวรรคนี้  คือ</B>
+<span class="LineNumber"> 012 </span>       	๑. พลสูตร   ๒. พีชสูตร  ๓. นาคสูตร  ๔. รุกขสูตร  ๕.  กุมภสูตร
+<span class="LineNumber"> 013 </span>๖.  สุกสูตร  ๗. อากาสสูตร  ๘.  ปฐมเมฆสูตร  ๙. ทุติยเมฆสูตร  ๑๐. นาวา
+<span class="LineNumber"> 014 </span>สูตร  ๑๑.  อาคันตุกสูตร  ๑๒. นทีสูตร
+<span class="LineNumber"> 015 </span>        <B>(พึงขยายความพลกรณียวรรค  ด้วยสามารถโพชฌงค์  แห่ง
+<span class="LineNumber"> 016 </span>โพชฌงคสังยุต)</B>
+<span class="LineNumber"> 017 </span>                                 <I>จบพลกรณียวรรคที่  ๑๑</I>

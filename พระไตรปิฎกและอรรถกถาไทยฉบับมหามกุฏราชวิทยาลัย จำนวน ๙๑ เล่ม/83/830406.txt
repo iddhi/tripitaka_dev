@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>ที่เหลือ    เว้นบุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรค     ย่อมไม่ละ 
+<span class="LineNumber"> 002 </span>กามราคานุสัย   และไม่ละอวิชชานุสัย  ในที่ทั้งปวง.
+<span class="LineNumber"> 003 </span>         ก็หรือว่า  บุคคลใด    ไม่ละอวิชชานุสัย    จากที่ใด,   บุคคลนั้น
+<span class="LineNumber"> 004 </span>ย่อมไม่ละภวราคานุสัย   จากที่นั้น, ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>                     <I>จบ  ภวราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 007 </span>                                  <I>ภวราคานุสยมูล  จบ</I>
+<span class="LineNumber"> 008 </span>                                     <I>เอกมูลกะ  จบ</I>
+
+<span class="LineNumber"> 009 </span>                         <H1>กามราคานุสย - ปฏิฆานุสยมูล</H1>
+<span class="LineNumber"> 010 </span><H2>ทุกมูลกะ - กามราคานุสย - ปฏิฆานุสยมูละ มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         [๑๔๑๕]   บุคคลใด     ไม่ละกามราคานุสัย     และปฏิฆานุสัย
+<span class="LineNumber"> 012 </span>จากที่ใด,  บุคคลนั้น   ย่อมไม่ละมานานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         บุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรค    ไม่ละกามราคา-
+<span class="LineNumber"> 014 </span>นุสัย  ในเวทนา   ๒  ในกามธาตุ  ในรูปธาตุ  ในอรูปธาตุ   บุคคลผู้มี
+<span class="LineNumber"> 015 </span>ความพร้อมเพรียงด้วยอรหัตมรรคนั้น ย่อมไม่ละกามราคานุสัย ปฏิฆา-
+<span class="LineNumber"> 016 </span>นุสัย   จากที่นั้น    แต่0บุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรคนั้น

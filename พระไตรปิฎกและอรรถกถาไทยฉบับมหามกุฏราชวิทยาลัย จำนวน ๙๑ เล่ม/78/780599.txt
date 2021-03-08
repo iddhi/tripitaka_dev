@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>ฉักกนิทเทส</H1>
+<span class="LineNumber"> 002 </span>           [๘๓๕]  ในญาณวัตถุ    <B>หมวด ๖</B> นั้น   <B>ปัญญาในอภิญญา ๖</B> 
+<span class="LineNumber"> 003 </span>เป็นไฉน ?
+<span class="LineNumber"> 004 </span>   <B>ปัญญาในอภิญญา ๖ คือ</B>
+<span class="LineNumber"> 005 </span>	<B>๑.  อิทธิวิธญาณ</B>
+<span class="LineNumber"> 006 </span>	<B>๒.  โสตธาตุวิสุทธิญาณ</B>
+<span class="LineNumber"> 007 </span>	<B>๓.  ปรจิตตญาณ</B>
+<span class="LineNumber"> 008 </span>	<B>๔.  ปุพเพนิวาสานุสสติญาณ</B>
+<span class="LineNumber"> 009 </span>	<B>๕.  จุตูปปาตญาณ</B>
+<span class="LineNumber"> 010 </span>	<B>๖.  อาสวักขยญาณ</B>
+<span class="LineNumber"> 011 </span>           เหล่านี้ชื่อว่า   <B>ปัญญาในอภิญญา ๖.</B>
+<span class="LineNumber"> 012 </span>   <B>ญาณวัตถุหมวด ๖</B> ย่อมมี  ด้วยประการฉะนี้.
+
+<span class="LineNumber"> 013 </span>                                         <H1>สัตตกนิทเทส</H1>
+<span class="LineNumber"> 014 </span>           [๘๓๖]  ใน<B>ญาณวัตถุ  หมวด ๗</B> นั้น ญาณวัตถุในธรรมหมวดละ ๗
+<span class="LineNumber"> 015 </span>ละ ๗ เป็นไฉน ?
+<span class="LineNumber"> 016 </span>           ความรู้ว่า  ชรามรณะเกิดเพราะชาติเป็นปัจจัย  ความรู้ว่า  เมื่อชาติไม่มี
+<span class="LineNumber"> 017 </span>ชรามรณะก็ไม่มี ความรู้ว่า แม้ในอดีตกาล ชรามรณะก็เกิดเพราะชาติเป็นปัจจัย
+<span class="LineNumber"> 018 </span>ความรู้ว่า   แม้ในอดีตกาล  เมื่อชาติไม่มี  ชรามรณะก็ไม่มี   ความรู้ว่า  แม้ใน
+<span class="LineNumber"> 019 </span>อนาคตกาล   ชรามรณะก็เกิดเพราะชาติเป็นปัจจัย  ความรู้ว่า  แม้ในอนาคตกาล
+<span class="LineNumber"> 020 </span>เมื่อชาติไม่มี  ชรามรณะก็ไม่มี  ความรู้ว่า  ธัมมฐิติญาณของบุคคลนั้น    มีความ
+<span class="LineNumber"> 021 </span>สิ้นไปเป็นธรรมดา   มีความเสื่อมไปเป็นธรรมดา   มีความคลายไปเป็นธรรมดา
+<span class="LineNumber"> 022 </span>มีความดับไปเป็นธรรมดา.

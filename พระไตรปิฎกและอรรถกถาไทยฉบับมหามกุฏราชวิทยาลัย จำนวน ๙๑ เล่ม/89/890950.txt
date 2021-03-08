@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                      ๓.  <B>อนิยตธรรม  เป็นปัจจัยแก่นิยตธรรม ด้วยอำนาจ
+<span class="LineNumber"> 002 </span>ของอนันตรปัจจัย</B>
+<span class="LineNumber"> 003 </span>         คือ โทมนัสที่เป็นอนิยตธรรม  เป็นปัจจัยแก่โทมนัสที่เป็นนิยตธรรม.
+<span class="LineNumber"> 004 </span>         มิจฉาทิฏฐิที่เป็นอนิยตธรรม   เป็นปัจจัยแก่มิจฉาทิฏฐิที่เป็นนิยตธรรม
+<span class="LineNumber"> 005 </span>ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 006 </span>         โคตรภู    เป็นปัจจัยแก่มรรค,    โวทาน    เป็นปัจจัยแก่มรรค    ด้วย
+<span class="LineNumber"> 007 </span>อำนาจของอนันตรปัจจัย.
+
+<span class="LineNumber"> 008 </span>                         <H2>๕.  สมนันตรปัจจัย   ฯลฯ    ๘.  นิสสยปัจจัย</H2>
+<span class="LineNumber"> 009 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของสมนันตรปัจจัย</B>
+<span class="LineNumber"> 010 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของสหชาตปัจจัย</B>  มี ๕ วาระ.
+<span class="LineNumber"> 011 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของอัญญมัญญปัจจัย</B>  มี ๒ วาระ.
+<span class="LineNumber"> 012 </span>         <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของนิสสยปัจจัย</B>   มี ๗ วาระ.
+
+<span class="LineNumber"> 013 </span>                                       <H2>๙.  อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 014 </span>         [๘๔๕] ๑.  <B>นิยตธรรม   เป็นปัจจัยแก่นิยตธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 015 </span>ของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 016 </span>         มีอย่างเดียว  คือที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 017 </span>         มาตุฆาตกรรม    เป็นปัจจัยแก่มาตุฆาตกรรม    แก่ปิตุฆาตกรรม   แก่
+<span class="LineNumber"> 018 </span>อรหันตฆาตกรรม    แก่รุหิรุปปาทกรรม     แก่สังฆเภทกรรม     แก่มิจฉาทิฏฐิ
+<span class="LineNumber"> 019 </span>ที่เป็นนิยตธรรม   ด้วยอำนาจของอุปนิสสยปัจจัย.

@@ -1,0 +1,31 @@
+﻿<span class="LineNumber"> 001 </span>                      <H3>อรรถกถาสูตรที่  ๔</H3>
+
+<span class="LineNumber"> 002 </span>         ใน<B>สูตรที่   ๔</B>  (ข้อ  ๓๓๕)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า  <B>วิชฺชา</B>  ได้แก่  ผลญาณ.
+<span class="LineNumber"> 004 </span>         บทว่า  <B>วิมุตฺติ</B>  ได้แก่  ธรรมที่เหลือที่สัมปยุตด้วยผลญาณนั้น.
+<span class="LineNumber"> 005 </span>                                     จบอรรถกถาสูตรที่ ๔   
+
+<span class="LineNumber"> 006 </span>                      <H3>อรรถกถาสูตรที่  ๕</H3>
+
+<span class="LineNumber"> 007 </span>         ใน<B>สูตรที่ ๕</B>  (ข้อ  ๓๓๖)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 008 </span>         บทว่า <B>ภวทิฏฺ€ิ</B>   ได้แก่  สัสสตทิฏฐิ.
+<span class="LineNumber"> 009 </span>                                     จบอรรถกถาสูตรที่  ๕
+
+<span class="LineNumber"> 010 </span>                     <H3>อรรถกถาสูตรที่   ๖-๗</H3>
+
+<span class="LineNumber"> 011 </span>         ใน<B>สูตรที่  ๖</B>  (ข้อ ๓๓๗) และ  สูตรที่  ๗ (ข้อ ๓๓๘)  มี
+<span class="LineNumber"> 012 </span>เนื้อความง่ายทั้งนั้น. 
+<span class="LineNumber"> 013 </span>                                     จบอรรถกถาสูตรที่  ๖-๗
+
+<span class="LineNumber"> 014 </span>                     <H3>อรรถกถาสูตรที่  ๘</H3>
+
+<span class="LineNumber"> 015 </span>         ใน<B>สูตรที่  ๘</B>  (ข้อ  ๓๓๙)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 016 </span>         บทว่า  <B>โทวจสฺสตา</B>  แปลว่า  ความเป็นผู้ว่ายาก.
+<span class="LineNumber"> 017 </span>         บทว่า  <B>ปาปมิตฺตตา</B>  แปลว่า  การซ่องเสพปาปมิตร.
+<span class="LineNumber"> 018 </span>                                           จบอรรถกถาสูตรที่  ๘
+
+<span class="LineNumber"> 019 </span>                     <H3>อรรถกถาสูตรที่  ๙</H3>
+
+<span class="LineNumber"> 020 </span>         ใน<B>สูตรที่  ๙</B>  (ข้อ   ๓๔๐)   พึงทราบโดยปริยายตรงข้ามกับที่กล่าว
+<span class="LineNumber"> 021 </span>แล้ว.
+<span class="LineNumber"> 022 </span>                                            จบอรรถกถาสูตรที่  ๙

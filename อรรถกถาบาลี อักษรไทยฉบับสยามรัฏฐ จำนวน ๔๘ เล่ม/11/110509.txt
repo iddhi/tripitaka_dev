@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  คทฺทุลพทฺธสุตฺตวณฺณนา หน้า  ๕๐๙
+
+<span class="LineNumber"> 002 </span>เอวํ สุปินเก  ปีตปานียํ วิย อนุลิตฺตจนฺทนํ วิย จ 
+<span class="LineNumber"> 003 </span>อสฺสาสวิรหิตา ฯ อิติ อิมสฺมึ สุตฺเต อนิจฺจลกฺขณํ  กถิตํ ฯ
+<span class="LineNumber"> 004 </span>ปฺจเม  สพฺพํ วุตฺตนยเมว ฯ ฉฏฺ€ํ ตถา พุชฺฌนกสฺส อชฺฌาสเยน  
+<span class="LineNumber"> 005 </span>วุตฺตํ ฯ 
+<span class="LineNumber"> 006 </span>				จตุตฺถาทีนิ ฯ                 
+
+<span class="LineNumber"> 007 </span>			คทฺทุลพทฺธสุตฺตวณฺณนา          
+<span class="LineNumber"> 008 </span>	สตฺตเม  ยํ  มหาสมุทโทติ  ยสฺมึ  สมเย  ปฺจเม  สูริเย 
+<span class="LineNumber"> 009 </span>อุฏฺ€ิเต  มหาสมุทฺโท  อุสฺสุสฺสิสฺสติ(๑) ฯ ทุกฺขสฺส อนฺตกิริยนฺติ 
+<span class="LineNumber"> 010 </span>จตฺตาริ สจฺจานิ อปฏิวิชฺฌิตฺวา อวิชฺชาย  นิวุตานํเยว  สตํ  
+<span class="LineNumber"> 011 </span>วฏฺฏทุกฺขสฺส  อนฺตกิริยํ  ปริจฺเฉทํ  น  วทามิ ฯ สา  คทฺทุลพทฺโธติ(๒)
+<span class="LineNumber"> 012 </span>คทฺทุเลน  พทฺธสุนโข(๓) ฯ  ขีเลติ  ป€วิยํ  อาโกฏิเต มหาขีเล ฯ 
+<span class="LineNumber"> 013 </span>ถมฺเภติ  นิกฺขณิตฺวา  €ปิตถมฺเภ ฯ  เอวเมว  โขติ  เอตฺถ  
+<span class="LineNumber"> 014 </span>สุนโข  วิย วฏฺฏนิสฺสิโต พาโล  คทฺทุโล  วิย  ทิฏฺ€ิ  ถมฺโภ 
+<span class="LineNumber"> 015 </span>วิย  สกฺกาโย ฯ  คทฺทุลรชฺชุยา  ถมฺเภ อุปนิพทฺธสุนขสฺส  ถมฺภานุ-
+<span class="LineNumber"> 016 </span>ปริวตฺตนํ  วิย  ทิฏฺ€ิตณฺหาย  สกฺกาเย  พทฺธสฺส ปุถุชฺชนสฺส 
+<span class="LineNumber"> 017 </span>สกฺกายานุปริวตฺตนํ เวทิตพฺพํ ฯ 
+<span class="LineNumber"> 018 </span>				สตฺตมํ ฯ         
+<span class="LineNumber"> 019 </span># ๑. ม. อุสฺสุสฺสติ ฯ  ๒. ม. คทฺทุลพทฺโธติ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. พทฺธสุนโข ฯ

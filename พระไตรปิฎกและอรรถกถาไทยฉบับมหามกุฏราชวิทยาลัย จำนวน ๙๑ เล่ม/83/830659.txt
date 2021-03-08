@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.         
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  อวิชชานุสัย   อันบุคคลยังไม่ละแล้ว  ในที่ใด วิจิกิจ-
+<span class="LineNumber"> 003 </span>ฉานุสัย   อันบุคคลก็ยังไม่ละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่. 
+<span class="LineNumber"> 005 </span>                   <I>จบ  วิจิกิจฉานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 006 </span>                                <I>วิจิกิจฉานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                   <H1>ภวราคานุสยมูล</H1>
+<span class="LineNumber"> 008 </span><H2>ภวราคานุสยมูละ อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 009 </span>         [๑๕๔๕]   ภวราคานุสัย      อันบุคคลยังไม่ละแล้ว    ในที่ใด 
+<span class="LineNumber"> 010 </span>อวิชชานุสัย   อันบุคคลก็ยังไม่ละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า  อวิชชานุสัย    อันบุคคลยังไม่ละแล้ว  ในที่ใด,   ภว-
+<span class="LineNumber"> 013 </span>ราคานุสัย   อันบุคคลก็ยังไม่ละแล้ว  ในที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         อวิชชานุสัย   อันบุคคลยังไม่ละแล้ว  ในที่ใด,  คือที่เวทนา ๓
+<span class="LineNumber"> 015 </span>ในกามธาตุ   ภวราคานุสัย   ไม่พึงกล่าวว่า   ละแล้วหรือยังไม่ละแล้ว,

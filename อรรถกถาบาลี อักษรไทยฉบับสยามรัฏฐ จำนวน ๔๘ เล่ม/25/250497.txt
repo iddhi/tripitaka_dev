@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทฺวาทสมวคฺเค ปาราปริยตฺเถรคาถาวณฺณนา  หน้า 497
+	
+<span class="LineNumber"> 002 </span>		จีวเร ปิณฺฑปาเต  จ	เจตนา เม น วิชฺชติ  
+<span class="LineNumber"> 003 </span>		ปุฺกมฺเมน สํยุตฺโต	ลภามิ ปรินิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 004 </span>		คณนาโต อสงฺเขยฺยา	กปฺปโกฏี พหู มม  
+<span class="LineNumber"> 005 </span>		ริตฺตกา เต อติกฺกนฺตา	ปมุตฺตา(๑) โลกนายกา(๒) ฯ  
+<span class="LineNumber"> 006 </span>		อฏฺ€ารเส กปฺปสเต	ปิยทสฺสี วินายโก  
+<span class="LineNumber"> 007 </span>		ตมหํ ปยิรุปาสิตฺวา	อิมํ โยนึ อุปาคโต ฯ  
+<span class="LineNumber"> 008 </span>		ตมทฺทสามิ (๓) สมฺพุทฺธํ  อโนมํ นาม จกฺขุมํ  
+<span class="LineNumber"> 009 </span>		ตมหํ อุปคนฺตฺวาน		ปพฺพชึ อนคาริยํ ฯ  
+<span class="LineNumber"> 010 </span>		ทุกฺขสฺสนฺตกโร(๔) พุทฺโธ	สทฺธมฺ  เม (๕) เทสยี ชิโน  
+<span class="LineNumber"> 011 </span>		ตสฺส ธมฺมํ สุณิตฺวาน	ปตฺโตมฺหิ อจลํ ปทํ ฯ  
+<span class="LineNumber"> 012 </span>		โตสยิตฺวาน สมฺพุทฺธํ	โคตมํ สกฺยปุงฺควํ  
+<span class="LineNumber"> 013 </span>		สพฺพาสเว ปริฺาย	วิหรามิ อนาสโว ฯ  
+<span class="LineNumber"> 014 </span>		อฏฺ€ารเส กปฺปสเต	ยํ พุทฺธมภิปูชยึ  
+<span class="LineNumber"> 015 </span>		ทุคฺคตึ นาภิชานามิ	พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 016 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 017 </span>	อรหตฺตํ  ปน  ปตฺวา  อตฺตโน  ปฏิปตฺตึ  ปจฺจเวกฺขิตฺวา
+<span class="LineNumber"> 018 </span>สฺชาตโสมนสฺโส  อุทานวเสน  
+<span class="LineNumber"> 019 </span>		ฉผสฺสายตเน หิตฺวา	คุตฺตทฺวาโร สุสํวุโต  
+<span class="LineNumber"> 020 </span>		อฆมูลํ วเมตฺวาน		ปตฺโต เม อาสวกฺขโยติ(๖)  
+<span class="LineNumber"> 021 </span># ๑. สฺยา. สุมุตฺตา ฯ  ๒. ยุ. ปวุตฺตา โลกนายินา ฯ 
+<span class="LineNumber"> 022 </span># ๓. สฺยา. ตมทฺทสามิ ฯ  ๔. สฺยา. ทุกฺขสฺสนฺตํ กโร ฯ 
+<span class="LineNumber"> 023 </span># ๕. สฺยา. สทฺธมฺเม ฯ  ๖. ขุ. เถร. ๒๖/๒๕๓/๒๘๖ ฯ 

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  264
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  สุงฺกยนฺติ  อตฺตโน  กุลปฺปเทสานุรูปํ  ธีตุ  สุงฺกธนํ 
+<span class="LineNumber"> 003 </span>ปฏิปชฺช  คณฺหาหิ ฯ  ตาย  สมงฺคึ  กโรหิ  มํ  ตุวนฺติ  มํ  
+<span class="LineNumber"> 004 </span>ตาย  สทฺธึ  สมงฺคีภูตํ  กโรหิ ฯ  พลภิยฺโยติ  ภณฺฑสกฏาโย ฯ
+<span class="LineNumber"> 005 </span>นานารตนสฺส  เกวลาติ นานารตนสฺส สกลปุณฺณา ฯ  
+<span class="LineNumber"> 006 </span>	อถ นํ นาคราชา อาห  
+<span class="LineNumber"> 007 </span>	[๙๐๔]ยาว อามนฺตเย าตี	มิตฺเต จ สุหทชฺชเน  
+<span class="LineNumber"> 008 </span>		อนามนฺตํ กตกมฺมํ (๑)	ตํ ปจฺฉา อนุตปฺปตีติ ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  ยาว  อามนฺตเยติ  โภ  ยกฺขเสนาปติ  อหํ  ตุยฺหํ 
+<span class="LineNumber"> 010 </span>ธีตรํ  เทมิ  โน  น  เทมิ  โถกํ  ปน  อาคเมหิ  ยาว 
+<span class="LineNumber"> 011 </span>อามนฺตเย  าตีติ  าตเกปิ  ยาว  ชานาเปมิ ฯ  ตํ  ปจฺฉา 
+<span class="LineNumber"> 012 </span>อนุตปฺปตีติ  อิตฺถิโย  หิ  คตคตฏฺ€าเน  อภิรมนฺติปิ  นาภิรมนฺติปิ(๒) 
+<span class="LineNumber"> 013 </span>อนภิรติกาเล  าตกาทโย  อมฺเหหิ  สทฺธึ  อนามนฺเตตฺวา  กตํ 
+<span class="LineNumber"> 014 </span>กมฺมํ  นาม  เอวรูปํ  โหตีติ  อุสฺสุกฺกํ  น  กโรนฺติ  เอวนฺตํ 
+<span class="LineNumber"> 015 </span>กมฺมํ  ปจฺฉา  อนุตาปํ  อาวหตีติ  วทติ ฯ  
+<span class="LineNumber"> 016 </span>	[๙๐๕][๓]ตโต โส วรุโณ นาโค	ปวิสิตฺวา นิเวสนํ  
+<span class="LineNumber"> 017 </span>		ภริยํ อามนฺตยิตฺวาน	อิทํ วจนมพฺรวิ  
+<span class="LineNumber"> 018 </span>		อยํ โส ปุณฺณโก ยกฺโข	ยาจติ มํ อิรนฺทตึ  
+<span class="LineNumber"> 019 </span>		พหุนา วิตฺตลาเภน	ตสฺส เทม ปิยํ มมนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. อนามนฺต กตํ กมฺมํ ฯ  ๒. ม. อนภิรมนฺติปิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. เอตฺถนฺตเร เอวํ วตฺวา โส ภริยาย วสนฏฺ€านํ คนฺตฺวา 
+<span class="LineNumber"> 022 </span># ตาย สทฺธึ สลฺลปิ ฯ  ตมตฺถํ ปกาเสนฺโต สตฺถา อาหาติ 
+<span class="LineNumber"> 023 </span># ทิสฺสติ ฯ 

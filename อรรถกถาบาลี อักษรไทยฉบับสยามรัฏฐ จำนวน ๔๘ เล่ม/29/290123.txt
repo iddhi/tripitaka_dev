@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  29  อุจฺฉงฺคชาตกํ  หน้า  123
+
+<span class="LineNumber"> 002 </span>	นคฺคา นที อโนทกา(๑)  นคฺคํ รฏฺ€ํ อราชิกํ (๒) 
+<span class="LineNumber"> 003 </span>	อิตฺถีปิ วิธวา นคฺคา  ยสฺสาปิ ทส ภาตโรติ (๒) 
+<span class="LineNumber"> 004 </span>อิทํ วตฺถุํ อาหริตพฺพํ ฯ  
+<span class="LineNumber"> 005 </span>	ราชา  ตสฺสา  ปสนฺโน  อิเม  เต  ตโย  ชนา  กึ (๓)
+<span class="LineNumber"> 006 </span>โหนฺตีติ  ปุจฺฉิ ฯ  เอโก  เม  เทว  สามิโก  เอโก  ภาตา  
+<span class="LineNumber"> 007 </span>เอโก ปุตฺโตติ ฯ  ราชา  อหนฺเต  ตุฏฺโ€  อิเมสุ  ตีสุ  เอกํ 
+<span class="LineNumber"> 008 </span>เทมิ  กตมํ  อิจฺฉสีติ  ปุจฺฉิ ฯ  สา  อาห  อหํ  เทว  ชีวมานา 
+<span class="LineNumber"> 009 </span>เอกํ  สามิกํ  ลภิสฺสามิ  ปุตฺตมฺปิ  ลภิสฺสามิ  มาตาปิตูนํ  ปน
+<span class="LineNumber"> 010 </span>เม  มตตฺตา  ภาตาว  ทุลฺลโภ  ภาตรํ  เม  เทหิ  เทวาติ ฯ 
+<span class="LineNumber"> 011 </span>ราชา  ตุสฺสิตฺวา  ตโยปิ  วิสฺสชฺเชสิ ฯ  เอวนฺตํ  เอกิกํ  นิสฺสาย 
+<span class="LineNumber"> 012 </span>ตโย  ชนา  ทุกฺขโต  มุตฺตา ฯ  ตํ  การณํ  ภิกฺขุสงฺเฆ  ปากฏํ 
+<span class="LineNumber"> 013 </span>ชาตํ ฯ  อเถกทิวสํ  ภิกฺขู  ธมฺมสภายํ  สนฺนิปติตฺวา  อาวุโส 
+<span class="LineNumber"> 014 </span>เอกํ  อิตฺถึ  นิสฺสาย  ตโย  ชนา  ทุกฺขโต  มุตฺตาติ  ตสฺสา  
+<span class="LineNumber"> 015 </span>คุณกถาย  นิสีทึสุ ฯ  สตฺถา  อาคนฺตฺวา  กาย  นุตฺถ  ภิกฺขเว  
+<span class="LineNumber"> 016 </span>เอตรหิ  กถาย  สนฺนิสินฺนาติ  ปุจฺฉิตฺวา  อิมาย  นามาติ 
+<span class="LineNumber"> 017 </span>วุตฺเต  น  ภิกฺขเว  เอสา  อิตฺถี  อิทาเนว  ตโย  ชเน  
+<span class="LineNumber"> 018 </span>ทุกฺขา  โมเจสิ  ปุพฺเพปิ โมเจสิเยวาติ วตฺวา อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 019 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  ตโย 
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. อโนทิกา ฯ ม. อนูทกา ฯ  ๒. ขุ. ชา. ๒๘/๑๐๙๓/๓๘๖ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. เก ฯ  ๔. ม. สนฺนิปติตา ฯ

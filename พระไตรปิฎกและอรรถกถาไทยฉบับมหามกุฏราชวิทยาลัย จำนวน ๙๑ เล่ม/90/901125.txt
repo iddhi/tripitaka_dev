@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>					     <H1>กุสลติกปีติติกะ</H1>
+<span class="LineNumber"> 002 </span>				<H2>(๑. กุสลติกะ  ๖. ปีติติกะ)</H2> 
+<span class="LineNumber"> 003 </span>			  	   <H1>ปีติสหคตบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๔๘]       ๑.  ปีติสหคตธรรมที่เป็นกุศล    อาศัยปีติสหคตธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                 		๒.  ปีติสหคตธรรมที่เป็นอกุศล    อาศัยปีติสหคตธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                 		๓.  ปีติสหคตธรรมที่เป็นอัพยากตะ   อาศัยปีติสหคต-
+<span class="LineNumber"> 011 </span>ธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span> 		   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๔๙]  นเหตุปัจจัย มี ๓ วาระ  ในอารัมมณปัจจัย มี ๓ วาระ ฯลฯ
+<span class="LineNumber"> 014 </span>ในอวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>           	สหชาตวาระก็ดี   ฯลฯ  สัมปยุตตวาระก็ดี    เหมือนกับปฏิจจวาระ.

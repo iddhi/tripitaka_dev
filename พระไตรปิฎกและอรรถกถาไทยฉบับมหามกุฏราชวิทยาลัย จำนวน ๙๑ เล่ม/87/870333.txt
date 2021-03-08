@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  โคตรภู  เป็นปัจจัยแก่มรรค,  โวทาน  เป็นปัจจัยแก่มรรค  ด้วย
+<span class="LineNumber"> 002 </span>อำนาจของอาเสวนปัจจัย.  
+
+<span class="LineNumber"> 003 </span>                                         <H1>๑๓. กัมมปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๑๒๗๗]  ๑.  <B>เสกขธรรม    เป็นปัจจัยแก่เสกขธรรม     ด้วย
+<span class="LineNumber"> 005 </span>อำนาจของเสวนปัจจัย</B>
+<span class="LineNumber"> 006 </span>           มี ๒ อย่าง  คือ   ที่เป็น  <B>สหชาตะ</B>  และ  <B>นานาขณิกะ</B>
+<span class="LineNumber"> 007 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 008 </span>           เจตนาที่เป็นเสกขธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย ด้วย
+<span class="LineNumber"> 009 </span>อำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 010 </span>           ที่เป็น  <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 011 </span>           เจตนาที่เป็นเสกขธรรม    เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นเสกขธรรม
+<span class="LineNumber"> 012 </span>ซึ่งเป็นวิบาก   ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 013 </span>           [๑๒๗๘]  ๒.  <B>เสกขธรรม  เป็นปัจจัยแก่อเสกขธรรม ด้วย
+<span class="LineNumber"> 014 </span>อำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 015 </span>           มีอย่างเดียว  คือที่เป็น <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 016 </span>           เจตนาที่เป็นเสกขธรรม  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นอเสกขธรรม
+<span class="LineNumber"> 017 </span>ด้วยอำนาจของกัมมปัจจัย.
+

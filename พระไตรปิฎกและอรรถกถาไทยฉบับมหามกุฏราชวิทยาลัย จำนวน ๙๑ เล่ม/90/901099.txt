@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>				      <H1>อัชฌัตตติกสรณทุกะ</H1>
+<span class="LineNumber"> 002 </span>		     <H2>(๒๐. อัชฌัตตติกะ ๑๐๐. สรณทุกะ)</H2> 		
+<span class="LineNumber"> 003 </span>				  <H2>สรณบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>				          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๙๕๑]  ๑.  สรณธรรมที่เป็นอัชฌัตตธรรม    อาศัยสรณธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นอัชฌัตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                        ๒.  สรณธรรมที่เป็นพหิทธาธรรม    อาศัยสรณธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นพหิทธาธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>			<H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 011 </span>		[๙๕๒]  ในเหตุปัจจัย  มี  ๒  วาระ ฯลฯ  ในอวิคตปัจจัย  มี  ๒  วาระ.
+<span class="LineNumber"> 012 </span>สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี   พึงให้พิสดารทุกปัจจัย.
+<span class="LineNumber"> 013 </span>				    <H1>อรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 014 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>				      <H2>๑.  เหตุปัจจัย</H2>	
+<span class="LineNumber"> 016 </span>		[๙๘๓]  ๑.  อรณธรรมที่เป็นอัชฌัตตธรรม   อาศัยอรณธรรม
+<span class="LineNumber"> 017 </span>ที่เป็นอัชฌัตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย

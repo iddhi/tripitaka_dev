@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>อุเปกขินทริยมูล</H1>
+<span class="LineNumber"> 002 </span><B>อุเปกขนทริยมูละ  สัทธินทริย   ฯลฯ  ปัญญินทริย  มนินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๘๓๔]  อุเปกขินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด, สัท-
+<span class="LineNumber"> 004 </span>ธินทรีย์  ฯลฯ   ปัญญินทรีย์  มนินทรีย์ก็ไม่ใช่เคยเกิดแก่บุคคลนั้นใน
+<span class="LineNumber"> 005 </span>ภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่. 
+<span class="LineNumber"> 007 </span>         ก็หรือว่า   มนินทรีย์ไม่ใช่เคยเกิดแก่บุคคลใดในภูมิใด,   อุเปก-
+<span class="LineNumber"> 008 </span>ขินทรีย์ก็ไม่ใช่เคยเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่. 
+<span class="LineNumber"> 010 </span><I>จบ  อุเปกขินหริยมูละ  สัทธินทริย  ฯลฯ  ปัญญินทริย  มนินทริยมูลี</I>
+<span class="LineNumber"> 011 </span>                                  <I>อุเปกขินทริยมูล  จบ</I>

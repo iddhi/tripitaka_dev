@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>อรรถกถาโมฆราชเถราปทาน</H1>
+
+<span class="LineNumber"> 002 </span>           อปทานของท่านพระโมฆราชเถระที่ ๑.   มีเนื้อความพอที่จะกำหนด
+<span class="LineNumber"> 003 </span>ได้โดยง่ายทีเดียวแล.
+<span class="LineNumber"> 004 </span>                              จบอรรถกถาโมฆราชเถราปทาน 
+<span class="LineNumber"> 005 </span>                             จบอรรถกถากัจจายนวรรคที่ ๕๔
+
+<span class="LineNumber"> 006 </span>	        <H1>รวมอปทานที่มีในวรรค</H1>นี้  คือ
+
+<span class="LineNumber"> 007 </span>            <B> ๑.  มหากัจจายนเถราปทาน   ๒. วักลลิเถราปทาน   ๓.  มหากัปปิน-
+<span class="LineNumber"> 008 </span>เถราปทาน    ๔.  ทัพพมัลลปุตตเถราปทาน   ๕.  กุมารกัสสปเถราปทาน
+<span class="LineNumber"> 009 </span>๖. พาหิยเถราปทาน    ๗.  มหาโกฏฐิตเถราปทาน   ๘.  อรุเวลกัสสปเถราปทาน  
+<span class="LineNumber"> 010 </span>๙.  ราธเถราปทาน  ๑๐.  โมฆราชเถราปทาน.
+<span class="LineNumber"> 011 </span>          ในวรรคนี้  บัณฑิตประมวลคาถาได้    ๓๖๒  คาถา
+<span class="LineNumber"> 012 </span>                                        จบกัจจายนวรรคที่  ๕๔</B>

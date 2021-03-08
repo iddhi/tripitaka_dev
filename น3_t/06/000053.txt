@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ภาเสยย. 
+<span class="LineNumber"> 002 </span>	สมฺมโต  สงฺเฆน  ธมฺมครุ  ภิกฺขุํ   ภณฺฑาคาริโก.  ขมติ   
+<span class="LineNumber"> 003 </span>สงฺฆสฺส,  ตสฺมา  ตุณฺหี,  เอวเมตํ  ธารยามิ.
+<span class="LineNumber"> 004 </span>									ราชกวี
+<span class="LineNumber"> 005 </span>						กฐิน
+
+<span class="LineNumber"> 006 </span>	ถ.  ผ้าอันเป็นวัตถุแห่งกฐินได้หรือมิได้นั้น  มีลักษณะอย่างไร ?  
+<span class="LineNumber"> 007 </span>อธิบาย
+<span class="LineNumber"> 008 </span>	ต.  ผ้าอันเป็นวัตถุแห่งกฐินได้นั้น  คือผ้าใหม่  ผ้าเทียมใหม่
+<span class="LineNumber"> 009 </span>คือผ้าฟอกสะอาด  ผ้าเก่า  ผ้าบังสุกุล  ผ้าตามร้านตลาดซึ่งเขานำมา
+<span class="LineNumber"> 010 </span>ถวายสงฆ์.  ผ้าที่เป็นวัตถุกฐินไม่ได้นั้น  คือผ้าที่ไม่ได้เป็นสิทธิ  เช่น  
+<span class="LineNumber"> 011 </span>ผ้ายืมเขามา  ผ้าที่ได้มาโดยอาการมิชอบ  เช่นผ้าที่ได้มาด้วยอาการทำ
+<span class="LineNumber"> 012 </span>นิมิตและพูดเลียบเคียง  ผ้าเป็นนิสสัคคีย์  ผ้าที่เขาถวายกฐินแล้ว  แต่
+<span class="LineNumber"> 013 </span>ภิกษุเก็บไว้ค้างคืน  หาทำให้เสร็จในวันนั้นไม่  ผ้าเหล้านี้ท่านห้าม  จะ
+<span class="LineNumber"> 014 </span>นำมาเป็นผ้ากฐินหาได้ไม่.
+<span class="LineNumber"> 015 </span>										ราชกวี
+<span class="LineNumber"> 016 </span>	ถ.  ภิกษุรู้ว่าวัดที่ตนจำพรรษาอยู่ไม่มีผู้จองกฐิน  ปรารถนา
+<span class="LineNumber"> 017 </span>จะให้สงฆ์ได้รับประโยชน์จากพระพุทธานุญาต  จึงเข้าไปหาสกุลผู้ม
+<span class="LineNumber"> 018 </span>ีศรัทธา  แนะให้เขามาทอดกฐินที่วัดของตน  สงฆ์ผู้กรานกฐินนั้น
+<span class="LineNumber"> 019 </span>จะได้รับประโยชน์จากพระพุทธานุญาต  โดยชอบด้วยพระวินัยหรือไม่ ?  
+<span class="LineNumber"> 020 </span>เพราะเหตุไร ?
+<span class="LineNumber"> 021 </span>	ต.  สงฆ์ผู้กรานกฐิน  ไม่ได้รับประโยชน์จากพระพุทธานุญาต

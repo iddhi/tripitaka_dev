@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>ปัจจนียานุโลม</H1> 
+<span class="LineNumber"> 002 </span>                      <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 003 </span>           [๑๙๔๖]   <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย มี ๓ วาระ...  ใน
+<span class="LineNumber"> 004 </span>อธิปติปัจจัย   มี ๓ วาระ    ในอนันตรปัจจัย   มี ๓ วาระ   ในสมนันตรปัจจัย
+<span class="LineNumber"> 005 </span>มี ๓ วาระ   ในสหชาตปัจจัย  มี ๓ วาระ   ในอัญญมัญญปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 006 </span>ในนิสสยปัจจัย  มี ๑ วาระ   ในอุปนิสสยปัจจัย  มี ๓ วาระ    ในปุเรชาตปัจจัย
+<span class="LineNumber"> 007 </span>มี ๑ วาระ    ในปัจฉาชาตปัจจัย   มี ๑ วาระ   ในอาเสวนปัจจัย   มี ๑ วาระ
+<span class="LineNumber"> 008 </span>ในกัมมปัจจัย   มี ๒ วาระ    ในวิปากปัจจัยมี  ๑  วาระ   แต่ละปัจจัยต่อจากนี้
+<span class="LineNumber"> 009 </span>มี ๑ วาระเท่านั้น    ในอวิคตปัจจัย   มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 011 </span>                                       <I>ปัจจนียานุโลมนัย  จบ</I>
+<span class="LineNumber"> 012 </span>                                           <I>ปัญหาวาระ  จบ</I>
+<span class="LineNumber"> 013 </span>                                         <I>อตีตติกะ ที่ ๑๘ จบ</I>
+
+<span class="LineNumber"> 014 </span>                             <H1>อรรถกถาอุปปันนติกะและอตีตติกะ</H1>
+<span class="LineNumber"> 015 </span>           ใน  <B>อุปปันนติกะ</B>  และ  <B>อตีตติกะ</B>  ก็เหมือนกัน. สองบทว่า  <B>อเหตุกํ
+<span class="LineNumber"> 016 </span>มคฺคารมฺมณํ</B> ในปัจจนียนัย  ตรัสหมายถึงอเหตุกะ อาวัชชนจิต  (คือ มโน-
+<span class="LineNumber"> 017 </span>ทวาราวัชชนจิต)  ซึ่งมีมรรคเป็นอารมณ์  คำที่เหลือในอธิการนี้  ผู้ศึกษาพึง
+<span class="LineNumber"> 018 </span>ทราบตามแนวแห่งบาลี.

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>เนื่องอยู่ด้วยกามราคานุสัย   ปฏิฆานุสัย   และมานานุสัย.  
+<span class="LineNumber"> 002 </span>   <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ - ภวราคานุสยมูลี
+<span class="LineNumber"> 003 </span>                 กามราคานุสย - ปฏิฆานุสย - มานานุสยมูล  จบ</I>
+<span class="LineNumber"> 004 </span>                                          <I>ติกมูลกะ จบ</I>
+
+<span class="LineNumber"> 005 </span>          <H1>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสยมูล</H1>
+<span class="LineNumber"> 006 </span><H2>จตุกกมูลกะ - กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐา-
+<span class="LineNumber"> 007 </span>                    นุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 008 </span>         [๑๒๙๖]   บุคคลใดมีความนอนเนื่องอยู่ด้วยกามราคานุสัย  ปฏิ-
+<span class="LineNumber"> 009 </span>ฆานุสัย   มานานุสัย   และทิฏฐานุสัย,   บุคคลนั้นก็มีความนอนเนื่องอยู่
+<span class="LineNumber"> 010 </span>ด้วยวิจิกิจฉานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า  บุคคลใดมีความนอนเนื่องอยู่ด้วยวิจิกิจฉานุสัย, บุคคล
+<span class="LineNumber"> 013 </span>นั้นก็มีความนอนเนื่องอยู่ด้วยกามราคานุสัย     ปฏิฆานุสัย     มานานุสัย
+<span class="LineNumber"> 014 </span>และทิฏฐานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>       <I>จบ  กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสยมูละ
+<span class="LineNumber"> 017 </span>                                        วิจิกิจฉานุสยมูลี</I>
+<span class="LineNumber"> 018 </span>      <I>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสยมูล  จบ</I>
+<span class="LineNumber"> 019 </span>                                      <I>จตุกกมูลกะ  จบ</I>

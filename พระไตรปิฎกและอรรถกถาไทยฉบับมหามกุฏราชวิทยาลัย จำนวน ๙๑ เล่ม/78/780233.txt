@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           [๕๕๙]  <B>สมาธิสัมโพชฌงค์</B> เป็นไฉน ? 
+<span class="LineNumber"> 002 </span>           ความตั้งอยู่แห่งจิต ฯลฯ สัมมาสมาธิ  สมาธิสัมโพชฌงค์  อันเป็นองค์
+<span class="LineNumber"> 003 </span>แห่งมรรค  นับเนื่องในมรรค   อันใด  นี้เรียกว่า    <B>สมาธิสัมโพชฌงค์.</B>
+<span class="LineNumber"> 004 </span>           [๕๖๐]  <B>อุเบกขาสัมโพชฌงค์</B> เป็นไฉน ?
+<span class="LineNumber"> 005 </span>           ความวางเฉย  กิริยาที่วางเฉย  ความเพ่งเล็งยิ่ง  ความเป็นกลางแห่งจิต 
+<span class="LineNumber"> 006 </span>อุเบกขาสัมโพชฌงค์  อันใด  นี้เรียกว่า <B>อุเบกขาสัมโพชฌงค์.</B>
+<span class="LineNumber"> 007 </span>           ธรรมเหล่านี้    เรียกว่า  <B>โพชฌงค์ ๗</B> ธรรมทั้งหลายที่เหลือ   เรียกว่า
+<span class="LineNumber"> 008 </span>ธรรมที่สัมปยุตด้วยโพชฌงค์ ๗.
+
+<span class="LineNumber"> 009 </span>                                 <H1>ปาฏิเยกกปุจฉาวิสัชนานัย</H1>
+<span class="LineNumber"> 010 </span>           [๕๖๑]  <B>โพชฌงค์ ๗</B> คือ
+<span class="LineNumber"> 011 </span>                         <B>๑.  สติสัมโพชฌงค์</B>
+<span class="LineNumber"> 012 </span>                         <B>๒.  ธัมมวิจยสัมโพชฌงค์</B> 
+<span class="LineNumber"> 013 </span>                         <B>๓.  วิริยสัมโพชฌงค์</B>
+<span class="LineNumber"> 014 </span>                         <B>๔.  ปีติสัมโพชฌงค์</B> 
+<span class="LineNumber"> 015 </span>                         <B>๕.  ปัสสัทธิสัมโพชฌงค์</B>
+<span class="LineNumber"> 016 </span>                         <B>๖.  สมาธิสัมโพชฌงค์</B>
+<span class="LineNumber"> 017 </span>                         <B>๗.  อุเบกขาสัมโพชฌงค์</B> 
+<span class="LineNumber"> 018 </span>           ในโพชฌงค์ ๗ <B>สติสัมโพชฌงค์</B> เป็นไฉน ?
+<span class="LineNumber"> 019 </span>           ภิกษุในศาสนานี้  เจริญ<B>โลกุตตรฌาน</B> อันเป็นเครื่องนำออกไปจาก
+<span class="LineNumber"> 020 </span>โลกให้เข้าสู่นิพพาน  เพื่อประหาณทิฏฐิ  เพื่อบรรลุปฐมภูมิ  สงัดจากกาม  สงัด
+<span class="LineNumber"> 021 </span>จากอกุศลธรรมทั้งหลายแล้ว   บรรลุปฐมฌาน  ประกอบด้วยวิตก  วิจาร  มีปีติ

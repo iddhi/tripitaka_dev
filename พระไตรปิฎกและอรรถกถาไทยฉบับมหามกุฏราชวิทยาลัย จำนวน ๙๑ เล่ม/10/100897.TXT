@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>สิกขาบทที่  ๑  นั้น  มี  ๔  ภิกษุณี  ๒  พวก  
+<span class="LineNumber"> 002 </span>                   เป็นอาบัติแก่ภิกษุเพราะจีวร.</B>
+
+<span class="LineNumber"> 003 </span>                      <H2>ต้องอาบัติปาฏิเทสนียะเป็นต้น</H2>
+<span class="LineNumber"> 004 </span>                             [๑,๒๕๕]  <B>ถามว่า อาบัติปาฏิเทสนียะ
+<span class="LineNumber"> 005 </span>                   สำหรับภิกษุณีที่ตรัสไว้เท่าไร   เพราะขอข้าว
+<span class="LineNumber"> 006 </span>                   เปลือกดิบมาฉัน      ปรับอาบัติทุกกฏกับ
+<span class="LineNumber"> 007 </span>                   ปาจิตตีย์  หรือ
+<span class="LineNumber"> 008 </span>                             ตอบว่า  อาบัติปาฏิเทสนียะ  ที่ตรัส
+<span class="LineNumber"> 009 </span>                   แก่ภิกษุณี  ปรับอาบัติไว้  ๙  เพราะขอข้าว
+<span class="LineNumber"> 010 </span>                   เปลือกดิบมาฉัน   ปรับอาบัติทุกกฏกับ
+<span class="LineNumber"> 011 </span>                   ปาจิตตีย์.</B>
+
+<span class="LineNumber"> 012 </span>                         <H2>ต้องอาบัติเพราะเดินเป็นต้น</H2>
+<span class="LineNumber"> 013 </span>                             [๑,๒๕๖]  <B>ถามว่า  ผู้เดินต้องอาบัติ
+<span class="LineNumber"> 014 </span>                   เท่าไร  ผู้นั่งต้องอาบัติเท่าไร  และผู้นอน
+<span class="LineNumber"> 015 </span>                   ต้องอาบัติเท่าไร
+<span class="LineNumber"> 016 </span>                             ตอบว่า   ผู้เดินต้องอาบัติ  ๔   ผู้ยืน
+<span class="LineNumber"> 017 </span>                   ต้องอาบัติเท่ากัน  ผู้นั่งต้องอาบัติ  ๔  และ
+<span class="LineNumber"> 018 </span>                   ผู้นอนต้องอาบัติเท่ากัน.</B>

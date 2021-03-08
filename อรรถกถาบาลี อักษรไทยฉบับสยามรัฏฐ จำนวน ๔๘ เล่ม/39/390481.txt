@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 39    หน้า 481
+
+<span class="LineNumber"> 002 </span>						นิคมคาถา 
+<span class="LineNumber"> 003 </span>		โย โส สุคตปุตฺตานํ		อธิปติภูเตน หิตรตินา(๑)  
+<span class="LineNumber"> 004 </span>		เถเรน ถิรคุณวตา		สุวิภตฺโต มหานิทฺเทโส ฯ  
+<span class="LineNumber"> 005 </span>		ตสฺสตฺถวณฺณนา ยา		ปุพฺพฏฺ€กถานยํ ตถา  
+<span class="LineNumber"> 006 </span>		วาทยุตฺตึ(๒) นิสฺสาย มยา  รทฺธา นิฏฺ€านมุปคตา เอสา ฯ 
+<span class="LineNumber"> 007 </span>		ยํ ปุรํ ปุรุตฺตมํ  วร-		มนุราธปุรวฺหยํ(๓)
+<span class="LineNumber"> 008 </span>		โย ตสฺส ทกฺขิเณ ภาเค	มหาวิหาโร ปติฏฺ€ิโต ฯ  
+<span class="LineNumber"> 009 </span>		โย ตสฺส ติลโต ภูโต	มหาถูโป สิลุจฺจโย  
+<span class="LineNumber"> 010 </span>		ยนฺตสฺส ปจฺฉิเม ภาเค	เลโข กลิกสฺิโต(๔) ฯ  
+<span class="LineNumber"> 011 </span>		กิตฺติเสโนติ (๕) นาเมน  สาชีโว ราชสมฺมโต  
+<span class="LineNumber"> 012 </span>		สุจิจาริตฺตสมฺปนฺโน		เลโข กุสลกมฺมิโก ฯ  
+<span class="LineNumber"> 013 </span>		สีตจฺฉายตรุเปตํ			สลิลาสยสมฺปนฺนํ(๖) 
+<span class="LineNumber"> 014 </span>		จารุปาการสฺจิตํ (๗)	ปริเวณมการยิ ฯ  
+<span class="LineNumber"> 015 </span>		อุปเสโน มหาเถโร		มหาปริเวณวาสิ โย  
+<span class="LineNumber"> 016 </span>		ตสฺสาทาสิ ปริเวณํ		เลโข กุสลกมฺมิโก ฯ  
+<span class="LineNumber"> 017 </span>		วสนฺเตเนตฺถ เถเรน (๘)	ถิรสีเลน ตาทินา  
+<span class="LineNumber"> 018 </span>		(๙)อุปเสนวฺหเยน ยา	สทฺธมฺมโชติกา (๙) เอสา ฯ
+<span class="LineNumber"> 019 </span># ๑. ม. หิตรตินา ฯ  ๒. ม. ยุตฺตึ ฯ  ๓. สี. ปรมอนุราชปุรวฺหยํ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. กถิกสฺิโต ฯ ๕. สี. ภตฺติเสโนติ ฯ  ๖. ม. สลิลาสยสฺปทํ ฯ
+<span class="LineNumber"> 021 </span># ๗. ม. จารุปาการสฺจิตํ ฯ ๘. สี. เตเนว ฯ ๙. ม.อุปเสนวฺหเยน สา
+<span class="LineNumber"> 022 </span># กตา สทฺธมฺมโชติกา ฯ 

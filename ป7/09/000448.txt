@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                                สิกขาบทที่  ๒
+<span class="LineNumber"> 002 </span>           วินิจฉัย  ในสิกขาบทที่  ๒  พึงทราบดังนี้ :- 
+<span class="LineNumber"> 003 </span>           เฉพาะคำว่า <B> ปฏิจฺฉนฺเน  โอกาเส</B>  ( ในสถานที่กำบัง )  นี้
+<span class="LineNumber"> 004 </span>เท่านั้น  ต่างกัน.  บทที่เหลือทั้งหมด  เป็นเช่นเดียวกับสิกขาบทก่อน
+<span class="LineNumber"> 005 </span>นั่นแล.
+<span class="LineNumber"> 006 </span>                                สิกขาบทที่  ๒  จบ.
+<span class="LineNumber"> 007 </span>                                   สิกขาบทที่  ๓
+<span class="LineNumber"> 008 </span>           วินิจฉัย  ในสิกขาบทที่  ๓  พึงทราบดังนี้ :-
+<span class="LineNumber"> 009 </span>           คำว่า  <B>อชฺโฌกาเส</B>  ( ในสถานที่แจ้ง )  นี้  ต่างกัน.  คำที่เหลือ
+<span class="LineNumber"> 010 </span>ทั้งหมด  เป็นเช่นนั้นนั่นแล.
+<span class="LineNumber"> 011 </span>                                สิกขาบทที่ ๓  จบ.

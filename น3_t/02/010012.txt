@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                            หมวดที่ ๑  กสิณ  ๑๐   
+<span class="LineNumber"> 002 </span>	<B>กสิณ</B>  แปลว่า  วัตถุอันจูงใจ  คือจูงใจให้เข้าไปผูกอยู่.  เป็น
+<span class="LineNumber"> 003 </span>ชื่อของกัมมัฏฐาน  แปลว่า  มีวัตถุที่ชื่อกสิณเป็นอารมณ์  จำแนกออก
+<span class="LineNumber"> 004 </span>โดยวัตถุเป็น ๑๐  คือ :-
+<span class="LineNumber"> 005 </span>	๑.  <B>ปฐวีกสิณ</B>   เพ่งดินเป็นอารมณ์.
+<span class="LineNumber"> 006 </span>	๒.  <B>อาโปกสิณ</B>  เพ่งน้ำเป็นอารมณ์.
+<span class="LineNumber"> 007 </span>	๓.  <B>เตโชกสิณ</B>  เพ่งไฟเป็นอารมณ์.
+<span class="LineNumber"> 008 </span>	๔.  <B>วาโยกสิณ</B>  เพ่งลมเป็นอารมณ์.
+<span class="LineNumber"> 009 </span>	๕.  <B>นีลกสิณ</B>  เพ่งสีเขียวเป็นอารมณ์.
+<span class="LineNumber"> 010 </span>	๖.  <B>ปีติกสิณ</B>  เพ่งสีเหลืองเป็นอารมณ์.
+<span class="LineNumber"> 011 </span>	๗.  <B>โลหิตกสิณ</B>  เพ่งสีแดงเป็นอารมณ์.
+<span class="LineNumber"> 012 </span>	๘.  <B>โอทาตกสิณ</B>  เพ่งสีขาวเป็นอารมณ์.
+<span class="LineNumber"> 013 </span>	๙.  <B>อาโลกกสิณ</B>  เพ่งแสงสว่างเป็นอารมณ์.
+<span class="LineNumber"> 014 </span>	๑๐.  <B>อากาสกสิณ</B>  เพ่งอากาศเป็นอารมณ์.
+<span class="LineNumber"> 015 </span>	ตั้งแต่  ๑  ถึงข้อ  ๔  เรียกว่า  ภูตกสิณ  ตั้งแต่ข้อ  ๕  ถึงข้อ  ๘
+<span class="LineNumber"> 016 </span>เรียกว่า  วัณณกสิณ.
+<span class="LineNumber"> 017 </span>                                         วิธีทำดวงกสิณ
+<span class="LineNumber"> 018 </span>	ปฐวีกสิณ  ถ้าจะเพ่งพิจารณาดินที่แผ่นดิน  ซึ่งตนมิได้ตกแต่งไว้
+<span class="LineNumber"> 019 </span>โดยเฉพาะ  พึงกำหนดให้มีที่สุด  คือโดยกลมกว้างโดยศูนย์กลาง  ๑๖
+<span class="LineNumber"> 020 </span>นิ้ว หรือราวนั้นเป็นอย่างใหญ่  อย่างเล็กขนาดขอบปากขัน.  ถ้าจะทำ
+<span class="LineNumber"> 021 </span>ไว้สำหรับโดยเฉพาะ  พึงเอาดินที่บริสุทธิ์มาทำให้เป็นวงกลมโดยศูนย์
+

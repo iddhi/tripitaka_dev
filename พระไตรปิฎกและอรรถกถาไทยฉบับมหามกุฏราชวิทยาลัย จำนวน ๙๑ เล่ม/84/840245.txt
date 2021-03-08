@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.          
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  ชีวิตินทรีย์  กำลังเกิดในภูมิใด,  จักขุนทรีย์ก็กำลังเกิด
+<span class="LineNumber"> 003 </span>ในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ในอสัญญสัตตภูมิก็ดี   ในอรูปภูมิก็ดี   ชีวิตินทรีย์กำลังเกิดในภูมิ
+<span class="LineNumber"> 005 </span>นั้น   แต่จักขุนทรีย์ไม่ใช่กำลังเกิดในภูมินั้น,   ในปัญจโวการภูมิ   ชีวิ-
+<span class="LineNumber"> 006 </span>ตินทรีย์กำลังเกิด    และจักขุนทรีย์ก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 007 </span>                        <I>จบ  จักขุนทริยมูละ   ชีวิตินทริยมูลี</I> 
+
+<span class="LineNumber"> 008 </span><B>จักขุนทริยมูละ  โสมนัสสินทริยมูลี:-</B>
+<span class="LineNumber"> 009 </span>         [๕๓๘]    จักขุนทรีย์    กำลังเกิดในภูมิใด,     โสมนัสสินทรีย์ก็
+<span class="LineNumber"> 010 </span>กำลังเกิดในภูมินั้น  ใช่ไหม  ? 
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า   โสมนัสสินทรีย์   กำลังเกิดในภูมิใด,     จักขุนทรีย์ก็
+<span class="LineNumber"> 013 </span>กำลังเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>                    <I>จบ   จักขุนทริยมูละ   โสมนัสสินทริยมูลี</I>

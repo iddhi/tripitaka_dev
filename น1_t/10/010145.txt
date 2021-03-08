@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ตำนานว่าได้แบ่งออกเป็น ๓  หรือ ๔  นคร  อยากทราบว่า  นครอะไร ? 
+<span class="LineNumber"> 002 </span>เป็นที่อยู่ของชนพวกไหน ?  
+<span class="LineNumber"> 003 </span>	ต.  ที่ว่าแบ่งเป็น ๓  นคร  คือ
+<span class="LineNumber"> 004 </span>	๑.  นครกบิลพัสดุ์ ฯ เป็นที่อยู่ของพวกศากยะชาวเมืองกบิลพัสดุ์
+<span class="LineNumber"> 005 </span>	๒.  นครวิธัญญา ฯ	    "			"	       ชาวเมืองวิธัญญา
+<span class="LineNumber"> 006 </span>	๓.  นครโคธาฬี  ฯ	    "			"	       ชาวเมืองโคธาฬี
+<span class="LineNumber"> 007 </span>	ที่ว่าแบ่งเป็น ๔  ก็เพราะรวมนครโกฬิยะเข้าด้วย  คือ
+<span class="LineNumber"> 008 </span>	๔.  นครโกฬิยะ ฯ  เป็นที่อยู่ของพวกศากยะชาวเมืองรามคาม.
+<span class="LineNumber"> 009 </span>									ศ. อ.น.
+<span class="LineNumber"> 010 </span>	ถ.  นักเรียนทั้งหลายได้เรียนพุทธประวัติมาถึงตอนเสด็จสักกชนบท
+<span class="LineNumber"> 011 </span>แล้ว  พอจะทราบได้ไหมว่า  พระศาสดาทรงอนุญาตให้ใครบรรพชา
+<span class="LineNumber"> 012 </span>เป็นสามเณรองค์แรก ?  และโปรดให้ใครเป็นผู้จัดการบรรพชาให้  ด้วย
+<span class="LineNumber"> 013 </span>วิธีอย่างไร ?
+<span class="LineNumber"> 014 </span>	ต.  ทราบได้อยู่ว่า   ทรงอนุญาตให้ราหุลกุมารบรรพชา  เป็น
+<span class="LineNumber"> 015 </span>สามเณรองค์แรก ฯ  และโปรดให้พระสารีบุตรจัดการ  ด้วยวิธีสรณคมนู-
+<span class="LineNumber"> 016 </span>ปสัมปทา  ที่ทรงเลิกใช้อุปสมบทเป็นภิกษุแล้ว  เปลี่ยนมาใช้บรรพชา
+<span class="LineNumber"> 017 </span>เป็นสามเณร.
+<span class="LineNumber"> 018 </span>									ศ. อ.น.
+<span class="LineNumber"> 019 </span>	ถ.  พระเจ้าสุทโธทนะทรงทราบว่า  พระศาสดาเสด็จจาริกสั่งสอน
+<span class="LineNumber"> 020 </span>บรรพชิตและคฤหัสถ์มาโดยลำดับ  บัดนี้ประทับอยู่  ณ  กรุงราชคฤห์
+<span class="LineNumber"> 021 </span>ประสงค์จะทรงเห็น  ได้สั่งใครให้ไปเชิญเสด็จ ?  สำเร็จสมพระราช-
+	 

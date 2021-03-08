@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>ว่าด้วยอาพาธเป็นต้น</H1>   
+<span class="LineNumber"> 002 </span>           [๙๕๘]   มีอยู่   อาบัติ   ภิกษุอาพาธ  จึงต้อง  ไม่อาพาธ  ไม่ต้อง
+<span class="LineNumber"> 003 </span>           มีอยู่   อาบัติ  ภิกษุไม่อาพาธ  จึงต้อง  อาพาธไม่ต้อง
+<span class="LineNumber"> 004 </span>           มีอยู่   อาบัติ   ภิกษุอาพาธและไม่อาพาธก็ต้อง.
+
+<span class="LineNumber"> 005 </span>                            <H1>ว่าด้วยงดปาติโมกข์เป็นต้น</H1> 
+<span class="LineNumber"> 006 </span>           [๙๕๙]   การงดปาติโมกข์  ไม่เป็นธรรมมี ๓  การงดปาติโมกข์  เป็น
+<span class="LineNumber"> 007 </span>ธรรมมี ๓
+<span class="LineNumber"> 008 </span>           ปริวาสมี  ๓  คือ  ปฏิฉันนปริวาส ๑  อัปปฏิฉันนปริวาส  ๑     สุทธันต-
+<span class="LineNumber"> 009 </span>ปริวาส ๑                                                                       
+<span class="LineNumber"> 010 </span>           มานัตมี ๓ คือ ปฏิฉันนมานัต  ๑ อัปปฏิฉันนมานัต  ๑  ปักขมานัต  ๑ 
+<span class="LineNumber"> 011 </span>           รัตติเฉทของภิกษุผู้อยู่ปริวาสมี ๓ คือ อยู่ร่วม ๑ อยู่ปราศ ๑ ไม่บอก  ๑.
+
+<span class="LineNumber"> 012 </span>                          <H1>ว่าด้วยต้องอาบัติภายในเป็นต้น</H1> 
+<span class="LineNumber"> 013 </span>           [๙๖๐]  มีอยู่   อาบัติ   ภิกษุต้องภายใน  ไม่ต้องภายนอก
+<span class="LineNumber"> 014 </span>           มีอยู่   อาบัติ   ภิกษุต้องภายนอก  ไม่ต้องภายใน
+<span class="LineNumber"> 015 </span>           มีอยู่   อาบัติ   ภิกษุต้องทั้งภายในทั้งภายนอก
+<span class="LineNumber"> 016 </span>           มีอยู่   อาบัติ   ภิกษุต้องภายในสีมา  ไม่ต้องภายนอกสีมา
+<span class="LineNumber"> 017 </span>           มีอยู่   อาบัติ   ภิกษุต้องภายนอกสีมา  ไม่ต้องภายในสีมา
+<span class="LineNumber"> 018 </span>           มีอยู่   อาบัติ   ภิกษุต้องภายในสีมา   ทั้งภายนอกสีมา  ๖

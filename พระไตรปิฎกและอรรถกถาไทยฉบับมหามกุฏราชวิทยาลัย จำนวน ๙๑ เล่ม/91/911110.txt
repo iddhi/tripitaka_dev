@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๓๙๕]  ในเหตุปัจจัย มี ๓ วาระ   ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>มัชฌิมบท</H2>
+<span class="LineNumber"> 007 </span>           [๓๙๖] ๑.  <B>มัชฌิมธรรม    ที่เป็นนเหตุธรรม     อาศัยธรรมที่
+<span class="LineNumber"> 008 </span>ไม่ใช่มัชฌิมธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                       ๒.  <B>มัชฌิมธรรม     ที่เป็นนเหตุธรรม     อาศัยธรรม
+<span class="LineNumber"> 010 </span>ที่ไม่ใช่มัชฌิมธรรม  ที่ไม่ใช่นเหตุธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>           โดยนัยแห่งการนับ  มี ๓ วาระ   ฯลฯ 
+      
+<span class="LineNumber"> 012 </span>                                     <H2>ปัจจยวาระ</H2> 
+<span class="LineNumber"> 013 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 014 </span>                                 <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                                       <H2>ปณีตบท</H2>
+<span class="LineNumber"> 016 </span>           [๓๙๗] ๑.  <B>ปณีตธรรม  ที่เป็นเหตุธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 017 </span>ปณีตธรรม   ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>                                            <B>ฯลฯ</B>
+<span class="LineNumber"> 019 </span>ี

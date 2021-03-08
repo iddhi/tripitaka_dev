@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>         ในอสัญญสัตตภูมินั้น  รูปขันธ์เคยเกิดในภูมินั้น  แต่เวทนาขันธ์
+<span class="LineNumber"> 002 </span>ไม่ใช่จักเกิดในภูมินั้น,   ในปัญจโวการภูมินั้น    รูปขันธ์เคยเกิด   และ 
+<span class="LineNumber"> 003 </span>เวทนาขันธ์ก็จักเกิดในภูมินั้น.
+<span class="LineNumber"> 004 </span>         ก็หรือว่า   เวทนาขันธ์จักเกิดในภูมิใด,   รูปขันธ์ก็เคยเกิดในภูมิ
+<span class="LineNumber"> 005 </span>นั้น  ใช่ไหม  ?                                                           
+<span class="LineNumber"> 006 </span>         ในอรูปภูมิ   เวทนาขันธ์จักเกิดในภูมินั้น    แต่รูปขันธ์ไม่ใช่เคย
+<span class="LineNumber"> 007 </span>เกิดในภูมินั้น     ในปัญจโวการภูมิ    เวทนาขันธ์จักเกิด     และรูปขันธ์
+<span class="LineNumber"> 008 </span>ก็เคยเกิดในภูมินั้น.
+<span class="LineNumber"> 009 </span>                       <I>จบ   รูปขันธมูละ  เวทนาขันธมูลี</I>
+<span class="LineNumber"> 010 </span>                                    <I>รูปขันธมูล  จบ</I>
+<span class="LineNumber"> 011 </span>                                    <H1>เวทนาขันธมูล</H1>
+<span class="LineNumber"> 012 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๑๖๒]   เวทนาขันธ์เคยเกิดในภูมิใด,    สัญญาขันธ์ก็จักเกิด 
+<span class="LineNumber"> 014 </span>ในภมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.

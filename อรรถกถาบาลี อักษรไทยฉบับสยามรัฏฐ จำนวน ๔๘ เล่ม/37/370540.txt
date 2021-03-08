@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  340
+
+<span class="LineNumber"> 002 </span>		อิมมฺหิ นํ ปเทสมฺหิ	ปุตฺตกา ปํสุกุณฺ€ิตา  
+<span class="LineNumber"> 003 </span>		ปจฺจุคฺคาตา มํ ติฏฺ€นฺติ	อสฺสมสฺสาวิทูรโต  
+<span class="LineNumber"> 004 </span>		เต(๑) มิคา วิย อุกฺกณฺณา  สมนฺตามภิธาวิโน  
+<span class="LineNumber"> 005 </span>		อานนฺทิโน ปมุทิตา	วตฺตมานาว(๒) กมฺปเร  
+<span class="LineNumber"> 006 </span>		ตฺยชฺช ปุตฺเต น ปสฺสามิ	ชาลี กณฺหาชินา(๓) จุโภ  
+<span class="LineNumber"> 007 </span>		ฉคิลีว มิคี ฉาปํ  ปกฺขี	ปุตฺตาว ปฺชรา  
+<span class="LineNumber"> 008 </span>		โอหาย ปุตฺเต นิกฺขมฺม(๔)	สิหีวามิสคิทฺธินี  
+<span class="LineNumber"> 009 </span>		ตฺยชฺช ปุตฺเต น ปสฺสามิ	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 010 </span>		อิทํ เนสํ ปรกฺกนฺตํ		นาคานมิว ปพฺพเต  
+<span class="LineNumber"> 011 </span>		จิตกา ปริกิณฺณาโย	อสฺสมสฺสาวิทูรโต  
+<span class="LineNumber"> 012 </span>		ตฺยชฺช ปุตฺเต น ปสฺสามิ	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 013 </span>		วาลุกายปิ โอกิณฺณา	ปุตฺตกา ปํสุกุณฺ€ิตา  
+<span class="LineNumber"> 014 </span>		สมนฺตามภิธาวนฺติ		เต น ปสฺสามิ ทารเก  
+<span class="LineNumber"> 015 </span>		เย มํ ปุเร ปจฺจุเทนฺติ	อรฺา ทูรมายตึ  
+<span class="LineNumber"> 016 </span>		ตฺยชฺช ปุตฺเต น ปสฺสามิ	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 017 </span>		ฉคิลีว มิคี ฉาปา		ปจฺจุคนฺตฺวาน มาตรํ  
+<span class="LineNumber"> 018 </span>		ทูเร มํ ปฏิวิโลเกนฺติ	เต น ปสฺสามิ ทารเก  
+<span class="LineNumber"> 019 </span>		อิทฺจ เนสํ กีฬนํ		ปติตํ ปณฺฑุเวลุวํ  
+<span class="LineNumber"> 020 </span>		ตฺยชฺช ปุตฺเต น ปสฺสามิ	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 021 </span>		ถนา จ มยฺหํ เม ปูรา	อุโร จ สมฺปทาลิภิ  
+<span class="LineNumber"> 022 </span># ๑. ม. เทฺว ฯ  ๒. ม. วคฺคมานาว ฯ  ๓. ม. ชาลึ กณฺหาชินํ ฯ
+<span class="LineNumber"> 023 </span># ๔.  ม. นิกฺขมึ ฯ

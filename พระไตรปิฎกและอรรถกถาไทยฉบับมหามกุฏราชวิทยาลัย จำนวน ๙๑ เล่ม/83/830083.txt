@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   วิจิกิจฉานุสัย  ไม่นอนเนื่องอยู่แก่บุคคลใด,  ทิฏฐา- 
+<span class="LineNumber"> 002 </span>นุสัย   ก็ไม่นอนเนื่องอยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ใช่   ฯลฯ
+<span class="LineNumber"> 004 </span>                    <I>จบ  ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</I>
+<span class="LineNumber"> 005 </span>                                   <I>ทิฏฐานุสยมูล   จบ</I>
+
+<span class="LineNumber"> 006 </span>                                     <H1>วิจิกิจฉานุสยมูล</H1>
+<span class="LineNumber"> 007 </span><H2>วิจิกิจฉานุสยมูละ  ภวราคานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 008 </span>         [๑๒๕๙]   วิจิกิจฉานุสัย  ไม่นอนเนื่องอยู่แก่บุคคลใด      ภว-
+<span class="LineNumber"> 009 </span>ราคานุสัย ฯ ล ฯ อวิชชานุสัย  ก็ไม่นอนเนื่องอยู่แก่บุคคลนั้น ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         วิจิกิจฉานุสัย   ไม่นอนเนื่องอยู่แก่บุคคล ๓ จำพวก  แต่อวิชชา-
+<span class="LineNumber"> 011 </span>นุสัย    ไม่ใช่ไม่นอนเนื่องอยู่แก่บุคคลเหล่านั้น,   วิจิกิจฉานุสัย    และ
+<span class="LineNumber"> 012 </span>อวิชชานุสัย   ก็ไม่นอนเนื่องอยู่แก่พระอรหันต์.
+<span class="LineNumber"> 013 </span>         หรือว่า  อวิชชานุสัย  ไม่นอนเนื่องอยู่แก่บุคคลใด,   วิจิกิจฉา-
+<span class="LineNumber"> 014 </span>นุสัย   ก็ไม่นอนเนื่องอยู่แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>                    <I>จบ  วิจิกิจฉานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 017 </span>                                     <I>วิจิกิจฉานุสยมูล  จบ</I>

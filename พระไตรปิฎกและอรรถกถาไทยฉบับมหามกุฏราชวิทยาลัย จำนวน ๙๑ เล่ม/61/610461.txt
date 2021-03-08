@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             <H2>อรรถกถาทกรักขสชาดก</H2> 
+
+<span class="LineNumber"> 002 </span>         ทกรักขสชาดก  มีคำเริ่มต้นว่า <B>สเจ โว วุยฺหมานํ</B> ดังนี้ทั้งหมดนั้น
+<span class="LineNumber"> 003 </span>จักมีแจ้งในมหาอุมมังคชาดก.
+<span class="LineNumber"> 004 </span>                               <I>จบอรรถกถาทกรักขสชาดก</I>
+
+<span class="LineNumber"> 005 </span>                                   <H2>๘.  ปัณฑรกชาดก</H2>  
+
+<span class="LineNumber"> 006 </span>                        <H1>ไม่ควรบอกความลับแก่คนอื่น</H1>
+
+<span class="LineNumber"> 007 </span>                <B>[๒๓๘๗]  ภัยเกิดจากตนเอง ย่อมตามถึงบุคคล
+<span class="LineNumber"> 008 </span>         ผู้ไร้ปัญญา  พูดพล่อย  ๆ ไม่ปิดบังความรู้   ขาดความ
+<span class="LineNumber"> 009 </span>         ระมัดระวัง  ขาดความพินิจพิจารณา  เหมือนครุฑตาม
+<span class="LineNumber"> 010 </span>         ถึงเราผู้ปัณฑรกนาคราชฉะนั้น.
+<span class="LineNumber"> 011 </span>               นรชนใด ยินดีบอกมนต์ลึกลับ  ที่ตนควรจะรักษา
+<span class="LineNumber"> 012 </span>         แก่คนชั่ว   เพราะความหลง    ภัยย่อมตามถึงนรชนนั้น	
+<span class="LineNumber"> 013 </span>         ผู้มีมนต์อันแพร่งพรายแล้วโดยพลัน    เหมือนครุฑตาม
+<span class="LineNumber"> 014 </span>         ถึงเรา   ผู้ปัณฑรกนาคราชฉะนั้น.
+<span class="LineNumber"> 015 </span>                มิตรเทียมไม่ควรจะให้รู้เหตุสำคัญ  อันลึกลับ   ถึง
+<span class="LineNumber"> 016 </span>         มิตรแท้แต่เป็นคนโง่        หรือมีปัญญาแต่ประพฤติสิ่งที่
+<span class="LineNumber"> 017 </span>         ไม่เป็นประโยชน์   ก็ไม่ควรจะให้รู้ความลับเหมือนกัน.</B>

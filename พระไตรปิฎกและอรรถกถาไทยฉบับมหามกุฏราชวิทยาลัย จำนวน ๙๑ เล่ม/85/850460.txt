@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>สุมิจฉาจาร  มุสาวาท  ปิสุณาวาจา   ผรุสวาจา   สัมผัปปลาปะ   อภิชฌา 
+<span class="LineNumber"> 002 </span>พยาบาท  ด้วยอำนาจชองอุปนิสสยปัจจัย. 
+<span class="LineNumber"> 003 </span> <B>[๕๕๐]</B> ๒๘. มาตุฆาตกรรม<SUP>๑</SUP>   เป็นปัจจัยแก่มาตุฆาตกรรม ด้วยอำนาจ
+<span class="LineNumber"> 004 </span>ของอุปนิสสยปัจจัย 
+<span class="LineNumber"> 005 </span>           ๒๙.  มาตุฆาตกรรม    เป็นปัจจัยแก่ปิตุฆาตกรรม    อรหันต-
+<span class="LineNumber"> 006 </span>ฆาตกรรม   โรหิรุปปาทกรรม   สังฆเภทกรรม...  นิตยมิจฉาทิฏฐิ   ด้วย
+<span class="LineNumber"> 007 </span>อำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 008 </span>           ๓๐.  ปิตุฆาตกรรม    เป็นปัจจัยแก่ปิตุฆาตกรรม    ด้วยอำนาจ
+<span class="LineNumber"> 009 </span>ของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 010 </span>           ๓๑.  ปิตุฆาตกรรม  เป็นปัจจัยแก่อรหันตฆาตกรรม  โรหิรุป- 
+<span class="LineNumber"> 011 </span>ปาทกรรม   สังฆเภทกรรม    นิยตมิจฉาทิฏฐิ...    มาตุฆาตกรรม    ด้วย 
+<span class="LineNumber"> 012 </span>อำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 013 </span>           ๓๒.  อรหันตฆาตกรรม  เป็นปัจจัยแก่อรหันต์ฆาตกรรม   ด้วย 
+<span class="LineNumber"> 014 </span>อำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 015 </span>           ๓๓.  อรหันต์ฆาตกรรม  เป็นปัจจัยแก่โรหิรุปปาทกรรม  ฯ ล ฯ
+<span class="LineNumber"> 016 </span>ปิตุฆาตกรรม  ด้วยอำนาจของอุปนิสสยปัจจัย. 
+<span class="LineNumber"> 017 </span>           ๓๔.   โรหิรุปปาทกรรม   เป็นปัจจัยแก่โรหิรุปปาทกรรม   ด้วย
+<span class="LineNumber"> 018 </span>อำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 019 </span>           ๓๕.  โรหิรุปปาทกรรม      เป็นปัจจัยแก่สังฆเภทกรรม  ฯ ล ฯ
+<span class="LineNumber"> 020 </span>อรหันต์ฆาตกรรม  ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class='footnote'>๑. ข้อความในข้อ  ๕๔๘-๕๔๙-๕๕๐  รวมอยู่ในข้อ ๕๔๗  ที่ว่าด้วยอกุศลเป็นปัจจัยแก่อกุศล.   </span>
+

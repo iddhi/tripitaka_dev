@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>เวทนาขันธมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๒๒๕]   เวทนาขันธ์กำลังเกิดแก่บุคคลใดในภูมิใด,    สัญญา-
+<span class="LineNumber"> 004 </span>ขันธ์ก็กำลังดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า สัญญาขันธ์กำลังดับแก่บุคคลใดในภูมิใด,  เวทนาขันธ์
+<span class="LineNumber"> 007 </span>ก็กำลังเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>                       <I>จบ  เวทนาขันธมูละ  สัญญาขันธมูลี</I>
+<span class="LineNumber"> 010 </span>                                      <I>เวทนาขันธมูล  จบ</I>
+<span class="LineNumber"> 011 </span>                                    <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 012 </span>                             <I>ปัจจุปปันนวาระ   อนุโลม  จบ</I>

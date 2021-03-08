@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๔.  ด่าบริภาษภิกษุณีทั้งหลาย        
+<span class="LineNumber"> 002 </span>           ๕.  คลุกคลีกับภิกษุณีทั้งหลาย  ด้วยการคลุกคลีอันไม่สมควรอยู่
+<span class="LineNumber"> 003 </span>           ดูก่อนอุบาลี     ภิกษุประกอบด้วยองค์  ๕  นี้แล     ไม่พึงให้โอวาทแก่
+<span class="LineNumber"> 004 </span>ภิกษุณีทั้งหลาย
+<span class="LineNumber"> 005 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์แม้อื่นอีก ๕   ไม่พึงให้โอวาทแก่
+<span class="LineNumber"> 006 </span>ภิกษุณีทั้งหลาย   องค์ ๕  อะไรบ้าง  คือ :-
+<span class="LineNumber"> 007 </span>           ๑.  เป็นอลัชชี                      
+<span class="LineNumber"> 008 </span>           ๒.  เป็นพาล
+<span class="LineNumber"> 009 </span>           ๓.  ไม่ใช่ปกตัตตะ
+<span class="LineNumber"> 010 </span>           ๔.  เป็นผู้ก่อความบาดหมาง  ก่อความทะเลาะ 
+<span class="LineNumber"> 011 </span>           ๕.  เป็นผู้ไม่ทำให้บริบูรณ์ในสิกขา  
+<span class="LineNumber"> 012 </span>           ดูก่อนอุบาลี    ภิกษุประกอบด้วยองค์ ๕  นี้แล    ไม่พึงให้โอวาทแก่
+<span class="LineNumber"> 013 </span>ภิกษุณีทั้งหลาย.
+
+<span class="LineNumber"> 014 </span>                            <H1>องค์ของภิกษุผู้ไม่ควรรับให้โอวาท</H1> 
+<span class="LineNumber"> 015 </span>           [๑,๒๐๕]  อุ.    ภิกษุประกอบด้วยองค์เท่าไรหนอแล     ไม่พึงรับให้
+<span class="LineNumber"> 016 </span>โอวาทแก่ภิกษุณีทั้งหลาย  พระพุทธเจ้าข้า
+<span class="LineNumber"> 017 </span>           พ.  ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์ ๕   ไม่พึงรับให้โอวาทแก่
+<span class="LineNumber"> 018 </span>ภิกษุณีทั้งหลาย  องค์ ๕  อะไรบ้าง  คือ :-
+<span class="LineNumber"> 019 </span>           ๑.  เป็นผู้ประกอบด้วยอนาจารทางกาย
+<span class="LineNumber"> 020 </span>           ๒.   เป็นผู้ประกอบด้วยอนาจารทางวาจา               

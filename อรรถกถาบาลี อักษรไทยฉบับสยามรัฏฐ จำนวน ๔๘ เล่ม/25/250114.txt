@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  114
+
+<span class="LineNumber"> 002 </span>จริตานุกูลํ กมฺมฏฺ€านํ คเหตฺวา  ภาเวนฺโต  วิหริ ฯ  เตน
+<span class="LineNumber"> 003 </span>จ  สมเยน  โกสมฺพิกา  ภิกฺขู  ภณฺฑนชาตา  อเหสส ฯ  ตทา 
+<span class="LineNumber"> 004 </span>จูฬวจฺฉตฺเถโร  อุภเยสํ  ภิกฺขูนํ  ลทฺธึ  อนาทาย  ภควตา 
+<span class="LineNumber"> 005 </span>ทินฺโนวาเท €ตฺวา วิปสฺสนํ พฺรูเหตฺวา(๑) อรหตฺตํ ปาปุณิ ฯ 
+<span class="LineNumber"> 006 </span>เตน วุตฺตํ อปทาเน (๒)  
+<span class="LineNumber"> 007 </span>		ปทุมุตฺตรภควโต		สุชาโต นาม สาวโก  
+<span class="LineNumber"> 008 </span>		ปํสุกูลํ คเวสนฺโต		สงฺกาเร จรตี (๓) ตทา(๔) ฯ  
+<span class="LineNumber"> 009 </span>		นคเร หํสวติยา		ปเรสํ ภติโก (๕) อหํ  
+<span class="LineNumber"> 010 </span>		อุปฑฺฒทุสฺสํ ทตฺวาน	สิรสา อภิวาทยึ ฯ  
+<span class="LineNumber"> 011 </span>		เตน กมฺเมน สุกเตน	เจตนาปณิธีหิ จ  
+<span class="LineNumber"> 012 </span>		ชหิตฺวา มานุสํ เทหํ	ตาวตึสํ อคจฺฉหํ ฯ  
+<span class="LineNumber"> 013 </span>		เตตฺตึสกฺขตฺตุํ เทวินฺโท	เทวรชฺชมการยึ  
+<span class="LineNumber"> 014 </span>		สตฺตสตฺตติกฺขตฺตุฺจ	จกฺกวตฺตี อโหสหํ ฯ  
+<span class="LineNumber"> 015 </span>		ปเทสรชฺชํ วิปุลํ		คณนาโต อสงฺขยํ (๖)  
+<span class="LineNumber"> 016 </span>		อุปฑฺฒทุสฺสทาเนน	โมทามิ อกุโตภโย ฯ  
+<span class="LineNumber"> 017 </span>		อิจฺฉมาโน อหํ (๗) อชฺช	สกานนํ สปพฺพตํ  
+<span class="LineNumber"> 018 </span>		โขมทุสฺเสหิ ฉาเทยฺยํ	อฑฺฒทุสฺสสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. พฺรูเหตฺวา ฯ  ๒. ขุ. อ. ๓๓/๘๕/๑๒๙ ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. รถิยา ฯ ยุ. จรเต ฯ ๔. ยุ. สทา ฯ 
+<span class="LineNumber"> 021 </span># ๕. ม. ยุ. ภตโก ฯ  ๖. ม. อสงฺขิยํ ฯ  ๗. ม. ยุ. จหํ ฯ

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>อ อา, ก ข ค ฆ ง, ห ๘ ตัวนี้   เกิดในคอ            เรียก     กณฺ€ชา
+<span class="LineNumber"> 002 </span>อิ อี, จ ฉ ช ฌ , ย ๘ ตัวนี้    เกิดที่เพดาน           "        ตาลุชา
+<span class="LineNumber"> 003 </span>ฏ € ฑ ฒ ณ, ร ฬ ๗ ตัวนี้เกิด  ที่ศีรษะที่ปุ่มเหงือก "        มุทฺธชา
+<span class="LineNumber"> 004 </span>ต ถ ท ธ น, ล ส ๗ ตัวนี้  เกิดที่ฟัน                          "        ทนฺตชา   
+<span class="LineNumber"> 005 </span>อุ อู, ป ผ พ ภ ม ๗ ตัวนี้  เกิดที่ริมฝีปาก                 "         โอฏฺ€ชา
+<span class="LineNumber"> 006 </span>นิคคหิต                          เกิดในจมูก          เรียก นาสิกฏฺ€านชา
+<span class="LineNumber"> 007 </span>	อักขระเหล่านี้  นอกจากพยัญชนะที่สุดวรรค  ๕ ตัว คือ  ง  ณ
+<span class="LineNumber"> 008 </span>น ม เกิดในฐานอันเดียว  ส่วนพยัญชนะที่สุดวรรค  ๕ ตัว  เกิดใน ๒
+<span class="LineNumber"> 009 </span>ฐาน คือ ฐานของตน ๆ และจมูก  เรียก  สกฏฺ€านนาสิกฏฺ€านชา.
+<span class="LineNumber"> 010 </span>เอ  เกิดใน ๒ ฐาน  คือ  คอ  และ เพดาน      เรียก    กณฺ€ตาลุโช
+<span class="LineNumber"> 011 </span>โอ  เกิดใน ๒ ฐาน  คือ  ฟัน  และ ริมฝีปาก      "        กณฺโ€ฏฺ€โช
+<span class="LineNumber"> 012 </span>ว  เกิดใน ๒ ฐาน คือ ฟัน  และ  ริมฝีปาก         "        ทนฺโตฏฺ€โช
+<span class="LineNumber"> 013 </span>ห ที่ประกอบด้วยพยัญชนะ ๘ ตัว คือ :-
+<span class="LineNumber"> 014 </span>   เช่น   ปญฺโห      (คำถาม)  สญฺหิตํ  (ประกอบแล้ว).
+<span class="LineNumber"> 015 </span>ณ     "      อุณฺโหทกํ  (น้ำร้อน)  กณฺหเนตฺโต  (มีตาดำ)
+<span class="LineNumber"> 016 </span>น      "       นฺหานํ  (การอาบน้ำ)  นฺหาตโก  (ช่างกัลบก)
+<span class="LineNumber"> 017 </span>ม      "       พฺรหฺมา  (พรหม)  ตุมฺเห  (ท่าน ท.)  อมฺหากํ  (แก่เรา ท)
+<span class="LineNumber"> 018 </span>ย      "        นิคฺคยฺห  (ข่มขี่แล้ว)  วุยฺหเต  (อันน้ำพัดไป)
+<span class="LineNumber"> 019 </span>ล      "         วุลฺหเต  (อันน้ำพัดไป)
+<span class="LineNumber"> 020 </span>ว       "         ชิวฺหา  (ลิ้น)              อุปวฺหยนฺตา  (เจรจากันอยู่)
+                 

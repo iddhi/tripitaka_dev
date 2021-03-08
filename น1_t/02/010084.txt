@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>อุปกรณ์แก่หมวดธรรมเบื้องต้นอีกภาค  ๑.
+<span class="LineNumber"> 002 </span>                                ธรรมของฆราวาส  ๔  อย่าง<SUP>๑</SUP>
+
+<span class="LineNumber"> 003 </span>                 ๑.   สัตย์ซื่อต่อกัน.
+<span class="LineNumber"> 004 </span>                 ๒.   รู้จักข่มจิตของตน.
+<span class="LineNumber"> 005 </span>                 ๓.   อดทน.
+<span class="LineNumber"> 006 </span>                 ๔.   สละให้ปันสิ่งของ  ๆ  ตนแก่คนที่ควรให้บั่น.
+<span class="LineNumber"> 007 </span>            ข้อ  ๑   การซื่อตรงต่อกัน   โดยไม่เห็นแก่ตัวยิ่งกว่าความเป็น
+<span class="LineNumber"> 008 </span>มิตรภาพ    แม้ตนจะมีโอกาสได้รับประโยชน์   โดยจักต้องกระทำการ
+<span class="LineNumber"> 009 </span>เบียดเบียนผู้อื่นให้ได้ทุกข์เดือดร้อนแล้ว    ก็ไม่พึงยินดีในประโยชน์
+<span class="LineNumber"> 010 </span>เหล่านั้น.
+<span class="LineNumber"> 011 </span>             ข้อ  ๒   การข่มจิต    ได้แก่ระวังสติไม่ให้ตกอยู่ในอำนาจของ
+<span class="LineNumber"> 012 </span>กรรมที่เป็นอกุศล   รู้จักอดทนไม่ปล่อยให้ความรัก,  โลภ,   โกรธ,  หลง,
+<span class="LineNumber"> 013 </span>ฉุดไปสู่ความชั่วได้ง่าย  ๆ.
+<span class="LineNumber"> 014 </span>             ข้อ  ๓   เมื่อการข่มจิตมิได้พ่ายแพ้ต่อสิ่งอันยั่วอารมณ์แล้ว  การอด
+<span class="LineNumber"> 015 </span>ทนหรือขันติ    ซึ่งเป็นสามัคคีกับการข่ม   ก็จะมีกำลังบันดาลให้ประสบ
+<span class="LineNumber"> 016 </span>ความสุขความเจริญเป็นมั่นคง.
+<span class="LineNumber"> 017 </span>             ข้อ  ๔  การให้บั่น   เป็นเครื่องแสดงน้ำใจเอื้อเฟื้อและความหวังดี
+<span class="LineNumber"> 018 </span>มีอานุภาพเหนี่ยวรั้งใจผู้รับให้แช่มชื่นปรีดี   โดยรู้สึกในคุณความดี
+<span class="LineNumber"> 019 </span>แห่งผู้ให้อย่างชัดเจน   ส่วนคนที่ควรให้จะเป็นใครบ้าง   เห็นมีอยู่ดังนี้
+<span class="LineNumber"> 020 </span>๑.  ผู้มีศีล   ๒.  ผู้มีอุปการคุณ   มีมารดาบิดาเป็นต้น   ๓.  ญาติมิตร
+<span class='footnote'>๑.  สํ.   ส.  ๑๕/๓๑๖.</span>

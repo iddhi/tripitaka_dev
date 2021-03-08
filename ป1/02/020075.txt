@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                       เอกูนวีส  ใน  อิตถีลิงค์  แจกอย่างนี้:-  
+<span class="LineNumber"> 002 </span>			เอก.
+<span class="LineNumber"> 003 </span>ป.			เอกูนวีสํ			[ลงนิคหิต]
+<span class="LineNumber"> 004 </span>ทุ.			เอกูนวีสํ
+<span class="LineNumber"> 005 </span>ต.			เอกูนวีสาย  
+<span class="LineNumber"> 006 </span>จ.			เอกูนวีสาย
+<span class="LineNumber"> 007 </span>ปญฺ.			เอกูนวีสาย
+<span class="LineNumber"> 008 </span>ฉ.			เอกูนวีสาย
+<span class="LineNumber"> 009 </span>ส.			เอกูนวีสาย
+<span class="LineNumber"> 010 </span>                      ตั้งแต่  วีส  ถึง  ปญฺาส  แจกอย่างนี้.
+<span class="LineNumber"> 011 </span>	ตั้งแต่  เอกูนวีสติ  ถึง  อฏฺ€ตฺตึสติ  และตั้งแต่  เอกูนสตฺตติ
+<span class="LineNumber"> 012 </span>ถึง  อฏฺ€นวุติ   แจกตามแบบ  อิ  การันต์  ใน  อิตถีลิงค์  [รตฺติ].
+<span class="LineNumber"> 013 </span>ตั้งแต่  เอกูนสฏฺ€ี  ถึง  อฏฺ€สฏฺ€ี  แจกตามแบบ  อี  การันต์  ใน
+<span class="LineNumber"> 014 </span>อิตถีลิงค์  [นารี]
+
+<span class="LineNumber"> 015 </span>             [๘๐]  ปูรณสังขยา  นับในลิงค์ทั้ง  ๓  อย่างนี้ :-
+<span class="LineNumber"> 016 </span>--------------------------------------------------------------------------
+<span class="LineNumber"> 017 </span>     ปุํลิงค์             อิตถีลิงค์           นปุํสกลิงค์	            คำแปล
+<span class="LineNumber"> 018 </span>ป€โม		ป€มา		ป€มํ				ที่  ๑
+<span class="LineNumber"> 019 </span>ทุติโย		ทุติยา		ทุติยํ				ที่  ๒
+<span class="LineNumber"> 020 </span>ตติโย		ตติยา		ตติยํ				ที่  ๓

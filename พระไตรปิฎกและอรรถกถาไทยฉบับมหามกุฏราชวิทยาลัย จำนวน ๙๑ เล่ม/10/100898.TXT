@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                           <H2>ต้องอาบัติในเขตเดียวกัน</H2>  
+<span class="LineNumber"> 002 </span>                             [๑,๒๕๗]   <B>ถามว่า     อาบัติปาจิตตีย์ 
+<span class="LineNumber"> 003 </span>                   ทั้งหมด  มีเท่าไร  ที่ต่างวัตถุกันภิกษุพึงต้อง
+<span class="LineNumber"> 004 </span>                   ในขณะเดียวกัน   ไม่ก่อน  ไม่หลัง
+<span class="LineNumber"> 005 </span>                             ตอบว่า   อาบัติปาจิตตีย์ทั้งหมดมี  ๕  
+<span class="LineNumber"> 006 </span>                   ที่ต่างวัตถุกัน  ภิกษุพึงต้องในขณะเดียวกัน
+<span class="LineNumber"> 007 </span>                   ไม่ก่อน  ไม่หลัง.</B>               
+<span class="LineNumber"> 008 </span>                             [๑,๒๕๘]  <B>ถามว่า      อาบัติปาจิตตีย์ 
+<span class="LineNumber"> 009 </span>                   ทั้งหมด  มีเท่าไร  ที่ต่างวัตถุกันภิกษุพึงต้อง
+<span class="LineNumber"> 010 </span>                   ในขณะเดียวกัน   ไม่ก่อน  ไม่หลัง
+<span class="LineNumber"> 011 </span>                             ตอบว่า   อาบัติปาจิตตีย์ทั้งหมดมี  ๙
+<span class="LineNumber"> 012 </span>                   ที่ต่างวัตถุกัน   ภิกษุพึงต้องในขณะเดียวกัน
+<span class="LineNumber"> 013 </span>                   ไม่ก่อน  ไม่หลัง.</B>
+
+<span class="LineNumber"> 014 </span>                                     <H2>วิธีแสดงอาบัติ</H2>
+<span class="LineNumber"> 015 </span>                             [๑,๒๕๙]  <B>ถามว่า  อาบัติปาจิตตีย์ทั้ง
+<span class="LineNumber"> 016 </span>                   หมด   มีเท่าไร  ที่ต่างวัตถุกันอันพระพุทธเจ้า
+<span class="LineNumber"> 017 </span>                   ผู้เป็นเผ่าแห่งพระราชาผู้สูงศักดิ์ตรัสแล้ว
+<span class="LineNumber"> 018 </span>                   ภิกษุพึงแสดงดด้วยวาจาเท่าไร
+<span class="LineNumber"> 019 </span>                             ตอบว่า   อาบัติปาจิตตีย์ทั้งหมดมี  ๕
+<span class="LineNumber"> 020 </span>                   ที่ต่างวัตถุกัน  อันพระพุทธเจ้าผู้เป็นเผ่าแห่ง</B>

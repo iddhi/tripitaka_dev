@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                  ส. รูปธรรมเป็นไปธาตุ   รูปมีอยู่ในกามธาตุ หรือ ?  
+<span class="LineNumber"> 002 </span>                  ป. ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                  ส. กามธาตุวันนั้น  รูปธาตุก็อันนั้นแหละ  หรือ ?
+<span class="LineNumber"> 004 </span>                  ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 005 </span>                  ส. กามธาตุอันนั้น   รูปธาตุก็อันนั้นแหละ  หรือ ?
+<span class="LineNumber"> 006 </span>                  ป. ถูกแล้ว.
+<span class="LineNumber"> 007 </span>                  ส. บุคคลประกอบด้วยกามภพ     เป็นผู้ประกอบด้วยภพ
+<span class="LineNumber"> 008 </span>สอง คือ  กามภพ และรูปภพ หรือ ?
+<span class="LineNumber"> 009 </span>                  ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>                                  <I>รูปธาตุกถา  จบ</I>
+
+<span class="LineNumber"> 011 </span>                        <H2>อรรถกถารูปธาตุกถา</H2>
+
+<span class="LineNumber"> 012 </span>                             <H2>ว่าด้วย  รูปธาตุ</H2>
+
+<span class="LineNumber"> 013 </span>         บัดนี้    ชื่อว่าเรื่องรูปธาตุ.     ในเรื่องนั้น  ชนเหล่าใดมีความเห็นผิด 
+<span class="LineNumber"> 014 </span>ดุจลัทธิของนิกายอันธกะทั้งหลายว่า      รูปธรรมเท่านั้น  ชื่อว่า    รูปธาตุ
+<span class="LineNumber"> 015 </span>ดังนี้  คำถามของสกวาทีว่า   <B>รูป</B>     ดังนี้  โดยหมายถึงชนเหล่านั้น  คำตอบ
+<span class="LineNumber"> 016 </span>รับรองเป็นของปรวาที.  ทีนั้น  สกวาทีเพื่อจะโต้แย้งด้วยอรรถว่า   รูปภพ
+<span class="LineNumber"> 017 </span>ก็ชื่อว่า   รูปธาตุ  มิใช่เพียงสักแต่รูปอย่างเดียวเท่านั้น  ด้วยอรรถนั้น  จึง
+<span class="LineNumber"> 018 </span>กล่าวว่า    <B>รูปธาตุ</B>    เป็นต้น.   คำทั้งหมดนั้น   บัณฑิตพึงทราบเนื้อความ
+<span class="LineNumber"> 019 </span>โดยนัยที่ข้าพเจ้ากล่าวแล้วในเรื่องกามคุณนั่นแหละ.

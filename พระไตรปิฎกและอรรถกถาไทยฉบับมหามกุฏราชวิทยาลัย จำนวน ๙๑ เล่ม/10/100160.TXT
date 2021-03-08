@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           [๓๙๐]  ภิกษุอาศัยความไม่เอื้อเฟื้อ   เปิดกาย   นั่งในละแวกบ้าน  ต้อง  
+<span class="LineNumber"> 002 </span>อาบัติตัวหนึ่ง  คือ  ทุกกฏ.
+<span class="LineNumber"> 003 </span>           [๓๙๑]  ภิกษุอาศัยความไม่เอื้อเฟื้อ  คะนองมือ  หรือเท้าไปในละแวก
+<span class="LineNumber"> 004 </span>บ้าน  ต้องอาบัติตัวหนึ่ง  คือ  ทุกกฏ.
+<span class="LineNumber"> 005 </span>           [๓๙๒]  ภิกษุอาศัยความไม่เอื้อเฟื้อ     คะนองมือ    หรือเท้านั่งใน
+<span class="LineNumber"> 006 </span>ละแวกบ้าน  ต้องอาบัติตัวหนึ่ง  คือ  ทุกกฏ.
+<span class="LineNumber"> 007 </span>           [๓๙๓]  ภิกษุอาศัยความไม่เอื้อเฟื้อ    แลดูในที่นั้น  ๆ  ไปในละแวก
+<span class="LineNumber"> 008 </span>บ้าน  ต้องอาบัติตัวหนึ่ง  คือ  ทุกกฏ.
+<span class="LineNumber"> 009 </span>           [๓๙๔]  ภิกษุอาศัยความไม่เอื้อเฟื้อ    แลดูในที่นั้น  ๆ  นั่งในละแวก
+<span class="LineNumber"> 010 </span>บ้าน  ต้องอาบัติตัวหนึ่ง  คือ  ทุกกฏ.
+<span class="LineNumber"> 011 </span>           [๓๙๕]   ภิกษุอาศัยความไม่เอื้อเฟื้อ      เดินเวิกผ้าไปในละแวกบ้าน
+<span class="LineNumber"> 012 </span>ต้องอาบัติตัวหนึ่ง  คือ  ทุกกฏ.
+<span class="LineNumber"> 013 </span>           [๓๙๖]  ภิกษุอาศัยความไม่เอื้อเฟื้อ   นั่งเวิกผ้าในละแวกบ้าน   ต้อง
+<span class="LineNumber"> 014 </span>อาบัติตัวหนึ่ง  คือ  ทุกกฏ.
+<span class="LineNumber"> 015 </span>                                             <I>วรรคที่  ๑  จบ</I>
+
+<span class="LineNumber"> 016 </span>                                                <H1>วรรคที่  ๒</H1> 
+<span class="LineNumber"> 017 </span>           [๓๙๗]   ภิกษุอาศัยความไม่เอื้อเฟื้อ     เดินหัวเราะไปในละแวกบ้าน
+<span class="LineNumber"> 018 </span>ต้องอาบัติตัวหนึ่ง  คือ  ทุกกฏ.
+<span class="LineNumber"> 019 </span>           [๓๙๘]  ภิกษุอาศัยความไม่เอื้อเฟื้อ    นั่งหัวเราะในละแวกบ้าน  ต้อง
+<span class="LineNumber"> 020 </span>อาบัติตัวหนึ่ง  คือ  ทุกกฏ.

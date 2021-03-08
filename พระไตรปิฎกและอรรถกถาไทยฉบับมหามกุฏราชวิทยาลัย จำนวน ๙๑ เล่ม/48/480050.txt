@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	<B>เพราะบุญอะไร         วรรณะของท่านจึงเป็นเช่นนั้น  
+<span class="LineNumber"> 002 </span> 	เพราะบุญอะไร    ผลนี้จึงสำเร็จแก่ท่าน    และโภคะ
+<span class="LineNumber"> 003 </span>	ทุกอย่างที่น่ารักจึงเกิดแก่ท่าน.</B>
+<span class="LineNumber"> 004 </span>     	          <B>ดูก่อนเทพีผู้มีอานุภาพมาก   อาตมาขอถามท่าน
+<span class="LineNumber"> 005 </span>	ครั้งเกิดเป็นมนุษย์  ท่านได้ทำบุญอะไร   เพราะบุญ
+<span class="LineNumber"> 006 </span> 	อะไร  ท่านจึงมีอานุภาพรุ่งเรืองอย่างนี้    และวรรณะ
+<span class="LineNumber"> 007 </span>	ของท่านจึงสว่างไสวไปทุกทิศ.</B> 
+<span class="LineNumber"> 008 </span>     	          <B>เทวดาองค์นั้น       ถูกท่านพระโมคคัลลานะถาม
+<span class="LineNumber"> 009 </span>	ดีใจ ครั้นแล้วก็พยากรณ์  [ ตอบ ]   ปัญหาของกรรม
+<span class="LineNumber"> 010 </span> 	ที่มีผลอย่างนี้ว่า</B>
+<span class="LineNumber"> 011 </span>	          <B>นี้เป็นผลของกรรมเล็กน้อยของดีฉัน      อันเป็น
+<span class="LineNumber"> 012 </span> 	เหตุให้ดีฉันมีอานุภาพรุ่งเรืองอย่างนี้     ดีฉันครั้งเกิด
+<span class="LineNumber"> 013 </span>	เป็นมนุษย์ในหมู่มนุษย์ในชาติก่อนในมนุษยโลก  ได้
+<span class="LineNumber"> 014 </span>	พบพระภิกษุผู้ปราศจากกิเลสดุจธุลี    ผู้ผ่องใส    ไม่
+<span class="LineNumber"> 015 </span>	หม่นหมอง  ก็เลื่อมใส  จึงได้ถวายตั่งแก่ท่าน  ด้วย
+<span class="LineNumber"> 016 </span> 	มือของตนเอง.   เพราะบุญนั้น  วรรณะของดีฉันจึง
+<span class="LineNumber"> 017 </span>	เป็นเช่นนั้น  เพราะบุญนั้น  ผลนี้จึงสำเร็จแก่ดีฉัน
+<span class="LineNumber"> 018 </span>  	และโภคะทุกอย่างที่น่ารักจึงเกิดแก่ดีฉัน.</B>
+<span class="LineNumber"> 019 </span>       	          <B>ข้าแต่ท่านภิกษุผู้มีอานุภาพมาก   ดีฉันขอบอกแก่
+<span class="LineNumber"> 020 </span> 	ท่าน  ครั้งเกิดเป็นมนุษย์  ดีฉันได้ทำบุญใด   เพราะ
+<span class="LineNumber"> 021 </span>	บุญนั้น     ดีฉันจึงมีอานุภาพรุ่งเรืองอย่างนี้     และ
+<span class="LineNumber"> 022 </span> 	วรรณะของดิฉันจึงส่องสว่างไปทุกทิศ.</B>
+

@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                           <H3>สูตรที่  ๕</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๒๖] ๘๐.  ดูก่อนภิกษุทั้งหลาย   ธรรมที่เป็นบาปอกุศล  มี 
+<span class="LineNumber"> 003 </span>ปัจจัยจึงเกิดขึ้น  ไม่มีปัจจัยไม่เกิดขึ้น  เพราะละปัจจัยนั้นเสีย   ธรรมที่
+<span class="LineNumber"> 004 </span>เป็นบาปอกุศลเหล่านั้นจึงไม่มี  ด้วยประการดังนี้.
+<span class="LineNumber"> 005 </span>                                            จบสูตรที่ ๕
+
+<span class="LineNumber"> 006 </span>                           <H3>สูตรที่  ๖</3 1>
+
+<span class="LineNumber"> 007 </span>         [๓๒๗]  ๘๑.   ดูก่อนภิกษุทั้งหลาย  ธรรมที่เป็นบาปอกุศล  มี
+<span class="LineNumber"> 008 </span>รูปจึงเกิดขึ้น   ไม่มีรูปไม่เกิดขึ้น   เพราะละรูปนั้นเสีย   ธรรมที่เป็นบาป
+<span class="LineNumber"> 009 </span>กุศลเหล่านั้นจึงไม่มี   ด้วยประการดังนี้ .
+<span class="LineNumber"> 010 </span>                                              จบสูตรที่  ๖
+
+<span class="LineNumber"> 011 </span>                            <H3>สูตรที่ ๗</H3>
+
+<span class="LineNumber"> 012 </span>         [๓๒๘]   ๘๒.  ดูก่อนภิกษุทั้งหลาย  ธรรมที่เป็นบาปอกุศล  มี
+<span class="LineNumber"> 013 </span>เวทนาจึงเกิดขึ้น  ไม่มีเวทนาไม่เกิดขึ้น  เพราะละเวทนานั้นเสีย  ธรรมที่
+<span class="LineNumber"> 014 </span>เป็นบาปอกุศลเหล่านั้นจึงไม่มี   ด้วยประการดังนี้.
+<span class="LineNumber"> 015 </span>                                               จบสูตรที่ ๗
+
+<span class="LineNumber"> 016 </span>                             <H3>สูตรที่ ๘</H3>
+
+<span class="LineNumber"> 017 </span>         [๓๒๙]  ๘๓.   ดูก่อนภิกษุทั้งหลาย  ธรรมที่เป็นบาปอกุศล  มี
+<span class="LineNumber"> 018 </span>สัญญาจึงเกิดขึ้น  ไม่มีสัญญาไม่เกิดขึ้น  เพราะละสัญญานั้นเสีย  ธรรมที่
+<span class="LineNumber"> 019 </span>เป็นบาปอกุศลเหล่านั้นจึงไม่มี   ด้วยประการดังนี้.
+<span class="LineNumber"> 020 </span>                                                 จบสูตรที่  ๘

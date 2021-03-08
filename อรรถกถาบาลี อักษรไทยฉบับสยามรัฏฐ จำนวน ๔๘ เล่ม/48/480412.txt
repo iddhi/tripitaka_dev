@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 48   หน้า  412
+
+<span class="LineNumber"> 002 </span>		เอกมคฺคกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  เอกมคฺคกถา  นาม  โหติ ฯ  ตตฺถ  เยสํ  พุทฺเธ 
+<span class="LineNumber"> 004 </span>ภควติ  อโยนิโส  เปมวเสเนว  ภควา (๑)โสตาปนฺโน  หุตฺวา
+<span class="LineNumber"> 005 </span>สกทาคามี  หุตฺวา  อนาคามี  หุตฺวา  (๑)  อรหตฺตํ  สจฺฉากาสิ
+<span class="LineNumber"> 006 </span>เอเกเนว  ปน  อริยมคฺเคน  จตฺตาริ  ผลานิ  สจฺฉากาสีติ 
+<span class="LineNumber"> 007 </span>ลทฺธิ  เสยฺยถาปิ  เตสฺเว  เต  สนฺธาย ปุจฺฉา สกวาทิสฺส
+<span class="LineNumber"> 008 </span>ปฏิฺา  อิตรสฺส ฯ  อถ  นํ  จตูหิ  ผเลหิ  สทฺธึ  อุปฺปนฺนานํ
+<span class="LineNumber"> 009 </span>จตุนฺนํ ผสฺสาทีนํ เอกโต  สโมธานวเสน  โจเทตุํ  จตุนฺนํ 
+<span class="LineNumber"> 010 </span>ผสฺสานนฺติ(๒)อาทิมาห ฯ
+<span class="LineNumber"> 011 </span>	โสตาปตฺติมคฺเคนาติอาทิ  กตรมคฺเคน  สจฺฉิกโรตีติ  ปุจฺฉนตฺถํ
+<span class="LineNumber"> 012 </span>วุตฺตํ ฯ  อรหตฺตมคฺเคนาติ  จ  วุตฺเต เตน  สกฺกายทิฏฺ€ิอาทีนํ 
+<span class="LineNumber"> 013 </span>ปหานาภาววเสน  โจเทติ ฯ  ภควา  โสตาปนฺโนติ  พุทฺธภูตสฺส
+<span class="LineNumber"> 014 </span>โสตาปนฺนสฺส  ภาโว(๓)  นตฺถีติ  ปฏิกฺขิปติ ฯ  ปรโต  ปฺหทฺวเยปิ 
+<span class="LineNumber"> 015 </span>เอเสว นโย ฯ เสสเมตฺถ ยถาปาลิเมว นิยฺยาตีติ ฯ 
+<span class="LineNumber"> 016 </span>		เอกมคฺคกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 017 </span># ๑. ม. โสตาปนฺโน หุตฺวา สกทาคามี สกทาคามี หุตฺวา อนาคามี
+<span class="LineNumber"> 018 </span># อนาคามี หุตฺวา ฯ  ๒. ม. ผสฺสานนฺติ... ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. โสตาปนฺนภาโว ฯ

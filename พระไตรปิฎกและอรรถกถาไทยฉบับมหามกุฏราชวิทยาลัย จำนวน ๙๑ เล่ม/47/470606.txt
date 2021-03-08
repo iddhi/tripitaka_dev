@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>			<B>ก็สุนัขดำ  สุนัขด่าง  และสุนัขจิ้งจอก
+<span class="LineNumber"> 002 </span>	        ย่อมรุมกัดกินสัตว์นรกทั้งหลาย   ผู้ร้องไห้อยู่
+<span class="LineNumber"> 003 </span>	        ในที่นั้น    ฝูงกาดำ  แร้ง   นกตะกรุม   และกา	
+<span class="LineNumber"> 004 </span>	        ไม่ดำ   ย่อมรุมกันจิกกิน.
+<span class="LineNumber"> 005 </span>			คนผู้ทำกรรมหยาบ    ย่อมเห็นความ
+<span class="LineNumber"> 006 </span>	        เป็นไปในนรกนี้ยากหนอ         เพราะฉะนั้น
+<span class="LineNumber"> 007 </span>	        นรชนพึงเป็นผู้ทำกิจที่ควรทำในชีวิตที่ยัง
+<span class="LineNumber"> 008 </span>	        เหลืออยู่นี้    และไม่พึงประมาท    เกวียน
+<span class="LineNumber"> 009 </span>	        บรรทุกงา    ผู้รู้ทั้งหลายนับแล้วนำเข้าไป
+<span class="LineNumber"> 010 </span>	        เปรียบในปทุมนรก   เป็น  ๕๑,๒๐๐  โกฏิ.
+<span class="LineNumber"> 011 </span>			นรกเป็นทุกข์  เรากล่าวแล้วใน
+<span class="LineNumber"> 012 </span>	        พระสูตรนี้   เพียงใด  สัตว์ทั้งหลายผู้ทำกรรม
+<span class="LineNumber"> 013 </span>	        หยาบ  พึงอยู่ในนรกแม้นั้น      ตลอดกาลนาน
+<span class="LineNumber"> 014 </span>	        เพียงนั้น   เพราะฉะนั้น   บุคคลพึงกำหนด
+<span class="LineNumber"> 015 </span>	        รักษาวาจา    ใจ    ให้เป็นปกติในผู้สะอาด 
+<span class="LineNumber"> 016 </span>	        มีศีลเป็นที่รักและมีคุณดีงามทั้งหลาย.</B>	
+<span class="LineNumber"> 017 </span>	                <I>จบโกกาลิกสูตรที่   ๑๐</I>

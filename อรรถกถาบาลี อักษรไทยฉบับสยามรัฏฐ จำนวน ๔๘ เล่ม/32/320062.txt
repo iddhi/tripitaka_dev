@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  อาวาริยวคฺควณฺณนา  หน้า  62
+
+<span class="LineNumber"> 002 </span>	[๘๙๖]อฺํ ภณติ วาจาย  	อฺํ กาเยน กุพฺพติ  
+<span class="LineNumber"> 003 </span>		วาจาย โน จ กาเยน  	น ตํ ธมฺมํ อธิฏฺ€ิโต ฯ  
+<span class="LineNumber"> 004 </span>	[๘๙๗](๑)วาจาย สขิโล โหติ  	มโนปวิทุคฺโค สิยา  
+<span class="LineNumber"> 005 </span>		ปฏิจฺฉนฺโน กูปสฺสโย  	กณฺหสปฺโปว ธมฺมทฺธโช  
+<span class="LineNumber"> 006 </span>		คามนิคมาสุ สาธุ  		สมฺมโต ทุชฺชาโน อยํ  
+<span class="LineNumber"> 007 </span>		ปุริเสน พาลิเสน(๑) ฯ  
+<span class="LineNumber"> 008 </span>	[๘๙๘]อิมํ ตุณฺเฑหิ ปกฺเขหิ  	ปาทา หิมํ วิเห€ถ  
+<span class="LineNumber"> 009 </span>		ฉวํ หิมํ วินาเสถ  		นายํ สํวาสนารโหติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  นาสฺส  สีลนฺติ  น  อสฺส  สีลํ  ฯ  อนฺายาติ 
+<span class="LineNumber"> 011 </span>อชานิตฺวา ฯ  ภุตฺวาติ  ขาทิตฺวา  ฯ  วาจาย  โน  จ  กาเยนาติ  อยํ 
+<span class="LineNumber"> 012 </span>หิ  วจเนเนว  ธมฺมํ  จรติ  กาเยน  จ  ปน  น  กโรติ  ฯ  น  ตํ
+<span class="LineNumber"> 013 </span>ธมฺมํ  อธิฏฺ€ิโตติ  ตสฺมา(๒)  ชานิตพฺโพ  ยถายํ  ธมฺมํ  ภณติ  น 
+<span class="LineNumber"> 014 </span>ตํ  อธิฏฺ€ิโต  น  ตสฺมึ  ธมฺเม  ปติฏฺ€ิโต  ฯ  วาจาย  สขิโลติ 
+<span class="LineNumber"> 015 </span>วจเนน  มุทุ  ฯ  มโนปวิทุคฺโคติ  มนสา  ปวิทุคฺโค  ทุปฺปเวทิโต(๓)  ฯ  
+<span class="LineNumber"> 016 </span>ปฏิจฺฉนฺโนติ  ยสฺมึ  วิเล  สยติ  เตน  ฉนฺโน  ฯ  กูปสฺสโยติ 
+<span class="LineNumber"> 017 </span># ๑. สี. ม.
+<span class="LineNumber"> 018 </span>		วาจาย  สขิโล  มโนวิทุคฺโค
+<span class="LineNumber"> 019 </span>		ฉนฺโน  กูปสโย  ว  กณฺหสปฺโป
+<span class="LineNumber"> 020 </span>		ธมฺมทฺธโช  คามนิคมาสุ  สาธุ
+<span class="LineNumber"> 021 </span>		ทุชฺชาโน  ปุริเสน  พาลิเสน ฯ 
+<span class="LineNumber"> 022 </span># ๒. ม. ตสฺมึ ฯ  ๓. ม.ทุปฺปเวโส วิสโม ฯ 

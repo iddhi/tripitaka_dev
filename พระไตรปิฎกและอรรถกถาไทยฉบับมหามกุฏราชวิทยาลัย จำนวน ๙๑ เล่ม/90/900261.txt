@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>				<H1>ปัจจุปปันนารัมมณบทปัญหา วาระ</H1>
+<span class="LineNumber"> 002 </span>						<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>					       <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>		[๘๐๔]  ๑.  ปัจจุปปันนารัมมณธรรมที่เป็นเหตุ  เป็นปัจจัยแก่
+<span class="LineNumber"> 005 </span>ปัจจุปปันนารัมมณธรรมที่เป็นเหตุ      ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 006 </span>มี ๓ วาระ.
+<span class="LineNumber"> 007 </span>                         		 <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 008 </span>		[๘๐๕]  ๑.  ปัจจุปปันนารัมมณธรรมที่เป็นเหตุ  เป็นปัจจัยแก่
+<span class="LineNumber"> 009 </span>ปัจจุปปันนารัมมณธรรมที่เป็นเหตุ     ด้วยอำนาจของอารัมมณปัจจัย 
+<span class="LineNumber"> 010 </span>มี ๙ วาระ.     
+<span class="LineNumber"> 011 </span>					 <H1>๓.  อธิปติปัจจัย</H1>          
+<span class="LineNumber"> 012 </span>		[๘๐๖]  ๑.  ปัจจุปปันนารัมมณธรรมที่เป็นเหตุ  เป็นปัจจัยแก่
+<span class="LineNumber"> 013 </span>ปัจจุปันนารัมมณธรรมที่เป็นเหตุ  ด้วยอำนาจของอธิปติปัจจัย
+<span class="LineNumber"> 014 </span>                	มี ๒ อย่าง  คือที่เป็น  <B>อารัมมณาธิปติ</B>  และ <B>สหชาตาธิปติ</B>  มี ๓
+<span class="LineNumber"> 015 </span>วาระ  (วาระที่ ๑-๒-๓)
+<span class="LineNumber"> 016 </span>                  	๔.  ปัจจุปปันนารัมมณธรรมที่ไม่ใช่เหตุ   เป็นปัจจัย
+<span class="LineNumber"> 017 </span>แก่ปัจจุปปันนารัมมณธรรมที่ไม่ใช่เหตุ   ด้วยอำนาจของอธิปติปัจจัย

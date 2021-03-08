@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  46  นิทานกถา  หน้า  73
+
+<span class="LineNumber"> 002 </span>		ตานิ อชฺช ปทิสฺสนฺติ	ธุวํ  พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 003 </span>		ทสสหสฺสีโลกธาตู	นิสฺสทฺทา โหนฺติ นิรากุลา  
+<span class="LineNumber"> 004 </span>		ตานิ อชฺช ปทิสฺสนฺติ	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 005 </span>		มหาวาตา  น  วายนฺติ	น  สนฺทนฺติ สวนฺติโย  
+<span class="LineNumber"> 006 </span>		ตานิ อชฺช ปทิสฺสนฺติ	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 007 </span>		ถลชา ชลชา (๑) ปุปฺผา	สพฺเพ ปุปฺผนฺติ ตาวเท  
+<span class="LineNumber"> 008 </span>		เต อชฺช (๒) ปุปฺผิตา สพฺเพ   ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 009 </span>		ลตา วา  ยทิ วา รุกฺขา	ผลธรา โหนฺติ  ตาวเท  
+<span class="LineNumber"> 010 </span>		เต อชฺช  ผลิตา สพฺเพ	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 011 </span>		อากาสฏฺ€า จ  ภุมฺมฏฺ€า	รตนา โชตนฺติ ตาวเท  
+<span class="LineNumber"> 012 </span>		เตปชฺช รตนา โชตนฺติ	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 013 </span>		มานุสฺสกา (๓) จ ทิพฺพา จ  ตุริยา วชฺชนฺติ ตาวเท  
+<span class="LineNumber"> 014 </span>		เตปชฺชุโภ อภิรวนฺติ	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 015 </span>		วิจิตฺตปุปฺผา คคนา		อภิวสฺสนฺติ ตาวเท  
+<span class="LineNumber"> 016 </span>		เตปิ อชฺช ปวสฺสนฺติ	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 017 </span>		มหาสมุทฺโท อาภุชติ	ทสสหสฺสี ปกมฺปติ  
+<span class="LineNumber"> 018 </span>		เตปชฺชุโภ อภิรวนฺติ	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 019 </span>		นิรเยปิ ทสสหสฺเส	อคฺคี นิพฺพนฺติ ตาวเท  
+<span class="LineNumber"> 020 </span>		เตปชฺช นิพฺพุตา อคฺคี	ธุวํ พุทฺโธ ภวิสฺสสิ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม.  ทกชา ฯ ๒. ม. เตปชฺช ฯ เอวมุปริปิ ฯ 
+<span class="LineNumber"> 022 </span># ๓.  สี. มานุสกา  ฯ ม. มานุสฺสกา  ฯ

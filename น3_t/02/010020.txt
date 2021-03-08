@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	๓.  <B>วิชชาจรณสัมปันโน</B>  ผู้ถึงพร้อมด้วยวิชชาและจรณะ.   
+<span class="LineNumber"> 002 </span>			ก.  วิชชา  ๓  คือ  :-  
+<span class="LineNumber"> 003 </span>			๑.  <B>ปุพเพนิวาสานุสสติวิชชา</B>  รู้จักระลึกชาติได้.
+<span class="LineNumber"> 004 </span>			๒.  <B>จุตูปปาตวิชชา</B>  รู้จักจุติ  และเกิด.
+<span class="LineNumber"> 005 </span>			๓.  <B>อาสวักขยวิชชา</B>  รู้จักทำอาสวะให้สิ้น.
+<span class="LineNumber"> 006 </span>			ข.  วิชชา  ๘  มี  ๒  นัย  คือ :-
+<span class="LineNumber"> 007 </span>	นัยที่  ๑.  	๑.  รู้จักทุกข์.
+<span class="LineNumber"> 008 </span>			๒.  รู้จักสมุทัย.
+<span class="LineNumber"> 009 </span>			๓.  รู้จักนิโรธ.
+<span class="LineNumber"> 010 </span>			๔.  รู้จักมรรค.
+<span class="LineNumber"> 011 </span>			๕.  รู้จักอดีต.
+<span class="LineNumber"> 012 </span>			๖.  รู้จักอนาคต.
+<span class="LineNumber"> 013 </span>			๗.  รู้จักทั้งอดีตทั้งอนาคต.
+<span class="LineNumber"> 014 </span>			๘.  รู้จักทั้งปฏิจจสมุปบาท.
+<span class="LineNumber"> 015 </span>	นัยที่ ๒.	๑.  <B>วิปัสสนาญาณ</B>  ญาณอันนับเข้าในวิปัสสนา.
+<span class="LineNumber"> 016 </span>			๒.  <B>มโนมยิทธิ</B>  ฤทธิ์ทางใจ.
+<span class="LineNumber"> 017 </span>			๓.  <B>อิทธิวิธิ</B>  แสดงฤทธิ์ได้.
+<span class="LineNumber"> 018 </span>			๔.  <B>ทิพพโสต</B>  หูทิพย์.
+<span class="LineNumber"> 019 </span>			๕.  <B>เจโตปริยญาณ</B>  รู้จักกำหนดใจผู้อื่น.
+<span class="LineNumber"> 020 </span>			๖.  <B>ปุพเพนิวาสานุสสติญาณ</B>  ระลึกชาติได้.
+

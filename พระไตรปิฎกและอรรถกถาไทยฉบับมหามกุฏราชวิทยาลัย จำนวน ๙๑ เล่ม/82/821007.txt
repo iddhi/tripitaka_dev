@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>อุปปาทนิโรธวาระ</H1> 
+<span class="LineNumber"> 002 </span>                             <H1>ปัจจุปปันนวาระ  อนุโลม</H1>
+<span class="LineNumber"> 003 </span>                                        <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 004 </span>                                       <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 005 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 006 </span>         [๙๘๔]   ทุกขสัจจะกำลังเกิดแก่บุคคลใด,       สมุทยสัจจะ
+<span class="LineNumber"> 007 </span>ก็กำลังดับแก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า สมุทยสัจจะกำลังดับแก่บุคคลใด,  ทุกขสัจจะก็กำลังเกิด
+<span class="LineNumber"> 010 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ไม่ใช่.
+<span class="LineNumber"> 012 </span>                         <I>จบ  ทุกขสัจจมูละ  สมุทยสัจจมูลี</I>
+<span class="LineNumber"> 013 </span><H2>ทุกขสัจจมูละ  มัคคสัจจมูลี :-</H2>
+<span class="LineNumber"> 014 </span>         ทุกขสัจจะกำลังเกิดแก่บุคคลใด,    มัคคสัจจะก็กำลังดับแก่บุคคล
+<span class="LineNumber"> 015 </span>นั้น  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ไม่ใช่.

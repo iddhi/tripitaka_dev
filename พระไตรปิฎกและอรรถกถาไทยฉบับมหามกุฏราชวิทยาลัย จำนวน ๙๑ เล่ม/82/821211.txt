@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 003 </span><H2>กายสังขารมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๑๑๗๑]   กายสังขารเคยดับในภูมิใด,   ฯ ล ฯ
+<span class="LineNumber"> 005 </span>                                    <I>กายสังขารมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                     <I>โอกาสวาระ  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                      <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                       <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 009 </span><H2>กายสังขารมูละ  วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๑๑๗๒]   กายสังขารเคยดับแก่บุคคลใดในภูมิใด,    วจีสังขาร
+<span class="LineNumber"> 011 </span>ก็จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ในภังคขณะแห่งปัจฉิมจิตตในกามาวจรภูมิก็ดี     บุคคลที่กำลังเข้า
+<span class="LineNumber"> 013 </span>ทุติยฌาน ตติยฌานอยู่ก็ดี กายสังขารเคยดับแก่บุคคลเหล่านั้นในภูมินั้น
+<span class="LineNumber"> 014 </span>แต่วจีสังขารไม่ใช่จักดับแก่บุคคลเหล่านั้นในภูมินั้น,     บุคคลที่กำลังเข้า
+<span class="LineNumber"> 015 </span>ปฐมฌานซึ่งเกิดอยู่ในกามาวจรภูมิที่นอกจากนั้น       กายสังขารเคยดับ
+<span class="LineNumber"> 016 </span>และวจีสังขารก็จักดับแก่บุคคลเหล่านั้นในภูมินั้น.

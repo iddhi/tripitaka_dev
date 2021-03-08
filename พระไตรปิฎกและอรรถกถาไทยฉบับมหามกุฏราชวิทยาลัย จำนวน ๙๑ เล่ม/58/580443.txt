@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                	  <H2>รวมชาดกที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>	๑.  จุลลกาลิงคชาดก    ๒. มหาอัสสาโรหชาดก   ๓. เอกราช-
+<span class="LineNumber"> 003 </span>ชาดก     ๔.   ทัททรชาดก     ๕.   สีลวีมังสชาดก     ๖.  สุชาตาชาดก 
+<span class="LineNumber"> 004 </span>๗.  ปลาสชาดก  ๘.  ชวสกุณชาดก   ๙.  ฉวชาดก   ๑๐.  สัยหชาดก
+<span class="LineNumber"> 005 </span>                            	<I>จบ   กาลิงควรรคที่  ๑</I>

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>กำหนดรู้ภวราคานุสัย    และไม่กำหนดรู้กามราคานุสัย  จากที่นั้น   คือ 
+<span class="LineNumber"> 002 </span>ที่ทุกขเวทนา      ที่อปริยาปันนธรรม.
+<span class="LineNumber"> 003 </span>                     <I>จบ  กามราคานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 004 </span><H2>กามราคานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 005 </span>         บุคคล  ไม่กำหนดรู้กามราคานุสัย  จากที่ใด,  ย่อมไม่กำหนดรู้
+<span class="LineNumber"> 006 </span>อวิชชานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         บุคคลย่อมไม่กำหนดรู้กามราคานุสัย    จากที่นั้น    คือในทุกข-
+<span class="LineNumber"> 008 </span>เวทนา    ที่รูปธาตุ      อรูปธาตุ    แต่จะไม่ใช่ไม่กำหนดรู้อวิชชานุสัย
+<span class="LineNumber"> 009 </span>จากที่นั้น.       บุคคลย่อมไม่กำหนดรู้กามราคานุสัย    และไม่กำหนดรู้
+<span class="LineNumber"> 010 </span>อวิชชานุสัย  จากที่นั้น  คือที่อปริยาปันนธรรม.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า  บุคคลไม่กำหนดรู้อวิชชานุสัย    จากที่ใด,    ย่อมไม่
+<span class="LineNumber"> 012 </span>กำหนดรู้  กามราคานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>                      <I>จบ  กามราคานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 015 </span>                                   <I>กามราคานุสยมูละ  จบ</I>

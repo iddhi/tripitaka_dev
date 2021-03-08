@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                                องค์ที่ ๑  
+<span class="LineNumber"> 002 </span>              เรียงเชื่อมความให้สนิทติดต่อสมกับเรื่องกระทู้ตั้ง
+<span class="LineNumber"> 003 </span>           การที่จะเข้าใจในองค์ที่ ๑ นี้  นักเรียนพึงศึกษาให้เข้าใจ <B>ภาพ
+<span class="LineNumber"> 004 </span>สังเขป</B>  ของกระทู้สำเร็จรูปเสียก่อน  ดังต่อไปนี้
+<span class="LineNumber"> 005 </span>              กระทู้ตั้ง
+<span class="LineNumber"> 006 </span>					คำเริ่มต้น
+<span class="LineNumber"> 007 </span>					ประเด็นที่ ๑
+<span class="LineNumber"> 008 </span>๑  เบื้องต้นตีความหมาย	ประเด็นที่ ๒
+					
+<span class="LineNumber"> 009 </span>					อธิบายประเด็นที่ ๑		     ๑  ที่เชื่อมสำคัญที่สุด
+<span class="LineNumber"> 010 </span>					อ้างสุภาษิตมาประกอบ
+<span class="LineNumber"> 011 </span>					อธิบายสุภาษิตที่อ้าง		     ๒  ที่เชื่อม
+<span class="LineNumber"> 012 </span>					น้อมเข้าหาประเด็นที่ ๑ อีก
+<span class="LineNumber"> 013 </span>					นำไปเชื่อมกับประเด็นที่ ๒	     ๓       "
+<span class="LineNumber"> 014 </span>๒  ท่ามกลางขยายความ	อธิบายประเด็นที่ ๒
+<span class="LineNumber"> 015 </span>					อ้างสุภาษิตมาประกอบ	     ๑  ที่เชื่อมสำคัญที่สุด
+<span class="LineNumber"> 016 </span>					อธิบายสุภาษิตที่อ้าง
+<span class="LineNumber"> 017 </span>					น้อมเข้าหาประเด็นที่ ๒ อีก	     ๒  ที่เชื่อม
+<span class="LineNumber"> 018 </span>					นำไปเชื่อมกับประเด็นที่ ๓	     ๓       "
+<span class="LineNumber"> 019 </span>					( ถ้ามี )

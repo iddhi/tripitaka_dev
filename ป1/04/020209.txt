@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>ขโต</B>  อันเขาขุดแล้ว.  <B>ขนฺ</B>  ธาตุ  ในความ  ขุด.
+<span class="LineNumber"> 002 </span><B>หโต</B>  อันเขาฆ่าแล้ว.  <B>หนฺ</B>  ธาตุ  ในความ  ฆ่า.   
+<span class="LineNumber"> 003 </span>	ธาตุ  <B>จฺ,  ชฺ,</B>  และ  <B>ปฺ</B>  เป็นที่สุด  เอาที่สุดธาตุ  เป็น  <B>ตฺ.</B>
+<span class="LineNumber"> 004 </span><B>สิตฺโต</B>  อันเขารดแล้ว,  <B>สิจฺ</B>  ธาตุ  ในความ รด.
+<span class="LineNumber"> 005 </span><B>วิวิตฺโต</B>  สงัดแล้ว.  <B>วิ+วิจฺ</B>  ธาตุ  ในความ  สงัด.
+<span class="LineNumber"> 006 </span><B>ภุตฺโต</B>  อันเขากินแล้ว.  <B>ภุชฺ</B>  ธาตุ  ในความ  กิน.
+<span class="LineNumber"> 007 </span><B>จตฺโต</B>  อันเขาสละแล้ว  <B>จชฺ</B>  ธาตุ  ในความ  สละ.
+<span class="LineNumber"> 008 </span><B>คุตฺโต</B>  อันเขาคุ้มครองแล้ว.  <B>คุปฺ</B>  ธาตุ  ในความ  คุ้มครอง.
+<span class="LineNumber"> 009 </span><B>ตตฺโต</B>  ร้อนแล้ว.  <B>ตปฺ</B>  ธาตุ  ในความ  ร้อน.
+<span class="LineNumber"> 010 </span>	ธาตุมี  <B>อา</B>  เป็นที่สุดก็ดี  <B>ต</B>  เป็นกัมมวาจกก็ดี  ลง  อิ.
+<span class="LineNumber"> 011 </span><B>€ิโต</B>  ยืนแล้ว.  <B>€า</B>  ธาตุ  ในความ   ตั้งอยู่.
+<span class="LineNumber"> 012 </span><B>ปีโต</B>  อันเขาดื่มแล้ว.  <B>ปา</B>  ธาตุ  ในความ  ดื่ม.
+<span class="LineNumber"> 013 </span><B>อภิชฺฌิโต</B>  อันเขาเพ่งจำเพาะแล้ว.  <B>อภิ+ฌา</B>  ธาตุ<SUP>๑</SUP>  ในความ  เพ่ง.
+<span class="LineNumber"> 014 </span><B>ภาสิโต</B>  อันเขากล่าวแล้ว.  <B>ภาสฺ</B>  ธาตุ  ในความ  กล่าว.
+<span class="LineNumber"> 015 </span>	ธาตุมี  <B>ทฺ</B>  เป็นที่สุดอยู่หน้า  แปลง  <B>ต</B>  เป็น  <B>นฺน</B>  แล้วลบ
+<span class="LineNumber"> 016 </span>ที่สุดธาตุ.
+<span class="LineNumber"> 017 </span><B>ฉนฺโน</B>  อันเขามุงแล้ว.  <B>ฉทฺ</B>  ธาตุ  ในความ  ปิด.
+<span class="LineNumber"> 018 </span><B>สนฺโน</B>  จมแล้ว.  <B>สทฺ</B>  หรือ  <B>สิทฺ</B>  ธาตุ  ในความ  จม.
+<span class="LineNumber"> 019 </span><B>รุนฺโน</B>  ร้องให้แล้ว.  <B>รุทฺ</B>  ธาตุ  ในความ  ร้องไห้.
+
+<span class='footnote'>๑.  ธาตุ  มี  'อา'   เป็นที่สุด  เอาที่สุดธาตุเป็น 'อี'  บ้าง  'อิ'    บ้าง.</span>

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๙๔]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ 
+<span class="LineNumber"> 003 </span>             <I>นเหตุสนเหตุกทุกนกุสลติกนเหตุสเหตุกทุกกุสลติกะ  จบ</I>
+
+<span class="LineNumber"> 004 </span>            <H2>นสัปปัจจยทุกนกุสลติกสัปปัจจยทุกกุสลติกะ</H2>
+<span class="LineNumber"> 005 </span>                          <H2>(๗.  สัปปัจจยทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 006 </span>                                          <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 007 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 008 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>                                             <H2>กุศลบท</H2>
+<span class="LineNumber"> 010 </span>           [๑๙๕] ๑. <B>กุศลธรรม  ที่เป็นสัปปัจจยธรรม  อาศัยธรรมที่
+<span class="LineNumber"> 011 </span>ไม่ใช่กุศล  ที่ไม่ใช่อัปปัจจยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 012 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๑๙๖]  ในเหตุปัจจัย  มี  ๑  วาระ  ฯลฯ	
+			

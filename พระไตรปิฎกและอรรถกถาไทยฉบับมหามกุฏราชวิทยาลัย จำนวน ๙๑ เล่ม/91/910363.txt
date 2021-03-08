@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                           <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 002 </span>           [๖] ๑.  <B>ธรรมที่ไม่ใช่อกุศล  อาศัยธรรมที่เป็นกุศล  เกิดขึ้น 
+<span class="LineNumber"> 003 </span>เพราะอารัมมณปัจจัย</B>  
+<span class="LineNumber"> 004 </span>                 ๒.  <B>ธรรมที่ไม่ใช่อัพยากตะ  อาศัยธรรมที่เป็นกุศล  เกิด
+<span class="LineNumber"> 005 </span>ขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 006 </span>                 ๓.  <B>ธรรมที่ไม่ใช่อกุศล    และธรรมที่ไม่ใช่อัพยากตะ
+<span class="LineNumber"> 007 </span>อาศัยธรรมที่เป็นกุศล  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>           [๗] ๔.  <B>ธรรมที่ไม่ใช่กุศล  อาศัยธรรมที่เป็นอกุศล เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 010 </span>                  ๕.  <B>ธรรมที่ไม่ใช่อัพยากตะ อาศัยธรรมที่เป็นอกุศล  เกิด
+<span class="LineNumber"> 011 </span>ขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 012 </span>                  ๖. <B>ธรรมที่ไม่ใช่กุศล  และธรรมที่ไม่ใช่อัพยากตะ อาศัย
+<span class="LineNumber"> 013 </span>ธรรมที่เป็นอกุศล  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>   มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>           [๘] ๗.  <B>ธรรมที่ไม่ใช่กุศล  อาศัยธรรมที่เป็นอัพยากตะ  เกิด
+<span class="LineNumber"> 015 </span>ขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 016 </span>                  ๘.  <B>ธรรมที่ไม่ใช่อกุศล อาศัยธรรมที่เป็นอัพยากตะ  เกิด
+<span class="LineNumber"> 017 </span>ขึ้น  เพราะอารัมมณปัจจัย</B>

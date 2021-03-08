@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>เมื่อได้  ทุติยฌาน				วิตกวิจารดับ.  
+<span class="LineNumber"> 002 </span>    "	  ตติยฌาน				ปีติดับ. 
+<span class="LineNumber"> 003 </span>    "       จตุตถฌาน				ลมอัสสาสะปัสสาสะดับ.
+<span class="LineNumber"> 004 </span>    "       อากาสานัญจายตนฌาน		รูปสัญญาดับ.
+<span class="LineNumber"> 005 </span>    "       วิญญาณัญจายตนฌาน		สัญญาในอากาสานัญจายตนะดับ
+<span class="LineNumber"> 006 </span>    "       อากิญจัญญายตนฌาน		สัญญาในวิญญาณัญจายตนะดับ.
+<span class="LineNumber"> 007 </span>    "       เนวสัญญานาสัญญายตนฌาน	สัญญาในอากิญจัญญายตนะดับ.
+<span class="LineNumber"> 008 </span>    "       สัญญาเวทยิตนิโรธ		สัญญาและเวทนาดับ.

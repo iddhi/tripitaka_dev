@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>ว่าอดีตกาล ๑,  กาลยังไม่มาถึง  เรียกว่าอนาคตกาล ๑.    
+<span class="LineNumber"> 002 </span>	กาลทั้ง  ๓  นั้น  แบ่งให้ละเอียดออกอีก,   ปัจจุบันกาลจัด
+<span class="LineNumber"> 003 </span>เป็น ๓  คือ   ปัจจุบันแท้ ๑.   ปัจจุบันใกล้อดีต  ๑,  ปัจจุบันใกล้
+<span class="LineNumber"> 004 </span>อนาคต ๑.  อดีตกาลจัดเป็น ๓  เหมือนกัน  คือ  ล่วงแล้วไม่มีกำหนด ๑,
+<span class="LineNumber"> 005 </span>ล่วงแล้ววานนี้ ๑,   ล่วงแล้ววันนี้  ๑.  อนาคตกาล  จัดเป็น ๒ คือ
+<span class="LineNumber"> 006 </span>อนาคตของปัจจุบัน  ๑,  อนาคตของอดีต  ๑.  กาลที่กล่าวโดยย่อหรือ
+<span class="LineNumber"> 007 </span>พิสดารนี้  ในเวลาพูดหรือแต่งหนังสือ  อ่านหนังสือ  ต้องหมายรู้ด้วย
+<span class="LineNumber"> 008 </span>วิภัตติ  ๘  หมู่ที่กล่าวแล้ว  อย่างนี้ :-
+<span class="LineNumber"> 009 </span>                                      ๑.  วตฺตมานา
+<span class="LineNumber"> 010 </span>	บอกปัจจุบันนกาล.
+<span class="LineNumber"> 011 </span>	๑)  ปัจจุบันแท้  แปลว่า  'อยู่'
+<span class="LineNumber"> 012 </span>	อุ.  ภิกฺขุ  <B>ธมฺมํ</B>  เทเสติ  ภิกษุ  แสดง<B>อยู่</B>  ซึ่งธรรม.
+<span class="LineNumber"> 013 </span>	        ๑      ๒        ๓       ๑          ๓            ๒
+<span class="LineNumber"> 014 </span>	๒)  ใกล้อดีต  แปลว่า  'ย่อม'
+
+<span class="LineNumber"> 015 </span>	อุ.  <B>กุโต  นุ  ตฺวํ  อาคจฺฉสิ ?</B>  ท่าน  <B>ย่อม</B>มา  แต่ที่ไหนหนอ ?
+<span class="LineNumber"> 016 </span>                ๑         ๒         ๓           ๒        ๓                ๑
+<span class="LineNumber"> 017 </span>	๓)  ใกล้อนาคต  แปลว่า  'จะ'
+<span class="LineNumber"> 018 </span>	อุ.  <B>กึ  กโรมิ ?</B>  [ข้า]  จะทำ  ซึ่งอะไร ?
+<span class="LineNumber"> 019 </span>             ๑      ๒                ๒         ๑

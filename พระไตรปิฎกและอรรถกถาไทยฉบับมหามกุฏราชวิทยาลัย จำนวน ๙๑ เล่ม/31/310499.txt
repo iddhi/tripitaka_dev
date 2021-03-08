@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>๔.   ธัญญสูตร</H1>
+
+<span class="LineNumber"> 002 </span>              <H1>ว่าด้วยสัตว์ผู้เว้นจากการรับธัญญชาติดิบมีน้อย</H1>
+
+<span class="LineNumber"> 003 </span>           [ ๗๗๙]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน   สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 004 </span>การรับธัญญชาติดิบ  มีน้อย โดยที่แท้  สัตว์ผู้ไม่งดเว้นจากการรับธัญญชาติดิบ
+<span class="LineNumber"> 005 </span>มีมากกว่า ฯลฯ
+<span class="LineNumber"> 006 </span>                                     <I>จบธัญญสูตรที่  ๔</I>
+
+<span class="LineNumber"> 007 </span>                                     <H1>๕.  มังสสูตร</H1>
+
+<span class="LineNumber"> 008 </span>                     <H1>ว่าด้วยสัตว์ผู้เว้นการรับเนื้อดิบมีน้อย</H1>
+
+<span class="LineNumber"> 009 </span>           [๑๗๘๐]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน   สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 010 </span>การรับเนื้อดิบ    มีน้อย    โดยที่แท้    สัตว์ผู้ไม่งดเว้นจากการรับเนื้อดิบ    มี
+<span class="LineNumber"> 011 </span>มากกว่า ฯลฯ
+<span class="LineNumber"> 012 </span>                                          <I>จบมังสสูตรที่  ๕</I>
+
+<span class="LineNumber"> 013 </span>                                    <H1>๖. กุมาริกาสูตร</H1>
+
+<span class="LineNumber"> 014 </span>                     <H1>ว่าด้วยสัตว์ผู้เว้นการรับเด็กหญิงมีน้อย</H1>
+
+<span class="LineNumber"> 015 </span>           [๑๗๘๑]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน   สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 016 </span>การรับสตรีและกุมารี   มีน้อย   โดยที่แท้   สัตว์ผู้ไม่งดเว้นจากการรับสตรีและ
+<span class="LineNumber"> 017 </span>กุมารีมีมากกว่า ฯลฯ
+<span class="LineNumber"> 018 </span>                                            <I>จบกุมาริกาสูตรที่  ๖</I>

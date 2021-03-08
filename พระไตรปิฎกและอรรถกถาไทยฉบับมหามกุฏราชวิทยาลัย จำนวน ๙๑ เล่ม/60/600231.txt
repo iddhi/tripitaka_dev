@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๓.  ชวนหังสชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                 <H2>ว่าด้วยรักกันอยู่ไกลก็เหมือนอยู่ใกล้</H2>
+<span class="LineNumber"> 003 </span>                        [๑๗๕๑]    <B>ดูก่อนหงส์    เชิญเกาะที่ตั่งทองนี้เถิด
+<span class="LineNumber"> 004 </span>              การได้เห็นท่านชื่นใจฉันจริง  ท่านเป็นอิสระในสถาน
+<span class="LineNumber"> 005 </span>              ที่นี้   ท่านมาถึงแล้ว    รังเกียจสิ่งใดที่มีอยู่ในนิเวศน์นี้
+<span class="LineNumber"> 006 </span>              จงบอกสิ่งนั้นให้ทราบเถิด.</B>
+<span class="LineNumber"> 007 </span>                        [๑๗๕๒]    <B>คนบางพวก  ย่อมเป็นที่รักของบุคคล
+<span class="LineNumber"> 008 </span>              บางพวกเพราะได้ฟัง  อนึ่ง  ความรักของบุคคลบางพวก    
+<span class="LineNumber"> 009 </span>              ย่อมหมดสิ้นไปเพราะได้เห็น   คนบางพวกย่อมเป็น
+<span class="LineNumber"> 010 </span>              ที่รักเพราะได้เห็นและเพราะได้ฟัง   ท่านรักใคร่ฉัน
+<span class="LineNumber"> 011 </span>              เพราะได้เห็นบ้างไหม.</B>
+<span class="LineNumber"> 012 </span>                        [๑๗๕๓]    <B>ท่านเป็นที่รักของฉันเพราะได้ฟัง   และ
+<span class="LineNumber"> 013 </span>              เป็นที่รักของฉันยิ่งนัก   เพราะอาศัยการเห็น    ดูก่อน
+<span class="LineNumber"> 014 </span>              พญาหงส์  ท่านน่ารักน่าดูอย่างนี้  เชิญอยู่ในสำนักของ
+<span class="LineNumber"> 015 </span>              ฉันเถิด.</B>
+<span class="LineNumber"> 016 </span>                        [๑๗๕๔]    <B>ข้าพระองค์ทั้งหลายได้รับการสักการ- 
+<span class="LineNumber"> 017 </span>              บูชาแล้วเป็นนิตย์   พึงอยู่ในพระราชนิเวศน์ของพระ-
+<span class="LineNumber"> 018 </span>              องค์   แต่บางครั้งพระองค์ทรงเมาน้ำจัณฑ์แล้ว  จะพึง-
+<span class="LineNumber"> 019 </span>              ตรัสสั่งว่า  จงย่างพญาหงส์ให้ฉันที.</B>

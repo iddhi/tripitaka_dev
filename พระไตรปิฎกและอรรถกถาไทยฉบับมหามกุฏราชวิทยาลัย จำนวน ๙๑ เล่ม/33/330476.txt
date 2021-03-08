@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                           <H2>ทานวรรคที่  ๓</H2>
+
+<span class="LineNumber"> 002 </span>                                    <H3>สูตรที่  ๑</H3>        
+ 
+<span class="LineNumber"> 003 </span>         [๓๘๖]  ๑๔๐.  ดูก่อนภิกษุทั้งหลาย  ทาน  ๒ อย่างนี้  ๒ อย่าง
+<span class="LineNumber"> 004 </span>เป็นไฉน  คือ  อามิสทาน ๑   ธรรมทาน  ๑  ดูก่อนภิกษุทั้งหลาย    ทาน
+<span class="LineNumber"> 005 </span>๒ อย่างนี้แล  ดูก่อนภิกษุทั้งหลาย    บรรดาทาน  ๒  อย่างนี้     ธรรมทาน
+<span class="LineNumber"> 006 </span>เป็นเลิศ.
+<span class="LineNumber"> 007 </span>                                            จบสูตรที่  ๑
+
+<span class="LineNumber"> 008 </span>                                       <H3>สูตรที่  ๒</H3>
+
+<span class="LineNumber"> 009 </span>         [๓๘๗]     ๑๔๑.  ดูก่อนภิกษุทั้งหลาย       การบูชา ๒ อย่างนี้ 
+<span class="LineNumber"> 010 </span>๒  อย่างเป็นไฉน    คือ    การบูชาด้วยอามิส ๑    การบูชาด้วยธรรม  ๑
+<span class="LineNumber"> 011 </span>ดูก่อนภิกษุทั้งหลาย   การบูชา  ๒  อย่างนี้แล  ดูก่อนภิกษุทั้งหลาย บรรดา
+<span class="LineNumber"> 012 </span>การบูชา ๒ อย่างนี้   การบูชาด้วยธรรมเป็นเลิศ. 
+<span class="LineNumber"> 013 </span>                                               จบสูตรที่  ๒ 
+
+<span class="LineNumber"> 014 </span>                                           <H3>สูตรที่  ๓</H3>
+
+<span class="LineNumber"> 015 </span>         [๓๘๘]  ๑๔๒.  ดูก่อนภิกษุทั้งหลาย  การสละ  ๒ อย่างนี้  ๒ อย่าง
+<span class="LineNumber"> 016 </span>เป็นไฉน  คือ    การสละอามิส  ๑  การสละธรรม  ๑  ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 017 </span>การสละ ๒ อย่างนี้แล    ดูก่อนภิกษุทั้งหลาย    บรรดาการสละ  ๒ อย่างนี้
+<span class="LineNumber"> 018 </span>การสละธรรมเป็นเลิศ.
+<span class="LineNumber"> 019 </span>                                                  จบสูตรที่   ๓

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           ภิกษุแสดงธรรมว่า  ธรรม  ชื่อว่า   ย่อมพินิจในสถานะควรพินิจ. . .   
+<span class="LineNumber"> 002 </span>           ภิกษุแสดงอาบัติชั่วหยาบว่า    อาบัติชั่วหยาบ   ชื่อว่า    ย่อมพินิจใน 
+<span class="LineNumber"> 003 </span>สถานะควรพินิจ                                    
+<span class="LineNumber"> 004 </span>           ภิกษุแสดงอาบัติไม่ชั่วหยาบว่า   อาบัติไม่ชั่วหยาบ  ชื่อว่า   ย่อมพินิจ
+<span class="LineNumber"> 005 </span>ในสถานะควรพินิจ
+<span class="LineNumber"> 006 </span>           อย่างนี้  ภิกษุชื่อว่า  ย่อมพินิจในสถานะควรพินิจ.
+
+<span class="LineNumber"> 007 </span>                                         <H1>ว่าด้วยเพ่งเล็ง</H1> 
+<span class="LineNumber"> 008 </span>           [๑,๑๑๐]   ถามว่า  อย่างไร  ชื่อว่า  ย่อมเพ่งเล็งในสถานะควรเพ่งเล็ง
+<span class="LineNumber"> 009 </span>           ตอบว่า  ภิกษุแสดงอธรรมว่า  อธรรม  ชื่อว่า  ย่อมเพ่งเล็งในสถานะ
+<span class="LineNumber"> 010 </span>ควรเพ่งเล็ง 
+<span class="LineNumber"> 011 </span>           ภิกษุแสดงธรรมว่า  ธรรม  ชื่อว่า  ย่อมเพ่งเล็งในสถานะควรเพ่งเล็ง. . .
+<span class="LineNumber"> 012 </span>           ภิกษุแสดงอาบัติชั่วหยาบว่า    อาบัติชั่วหยาบ   ชื่อว่า   ย่อมเพ่งเล็งใน
+<span class="LineNumber"> 013 </span>สถานะควรเพ่งเล็ง                                                                              
+<span class="LineNumber"> 014 </span>           ภิกษุแสดงอาบัติไม่ชั่วหยาบว่า  อาบัติไม่ชั่วหยาบ  ชื่อว่า ย่อมเพ่งเล็ง
+<span class="LineNumber"> 015 </span>ในสถานะควรเพ่งเล็ง
+<span class="LineNumber"> 016 </span>           อย่างนี้   ภิกษุชื่อว่า   ย่อมเพ่งเล็งในสถานะควรเพ่งเล็ง.
+
+<span class="LineNumber"> 017 </span>                                        <H1>ว่าด้วยความเลื่อมใส</H1> 
+<span class="LineNumber"> 018 </span>           [๑,๑๑๑]   ถามว่า  อย่างไร   ชื่อว่า   เลื่อมใสในสถานะควรเลื่อมใส
+<span class="LineNumber"> 019 </span>           ตอบว่า  ภิกษุแสดงอธรรมว่า  อธรรม ชื่อว่า  ย่อมเลื่อมใสในสถานะ
+<span class="LineNumber"> 020 </span>ควรเลื่อมใส

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>มานานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>มานานุสยมูละ  ทิฏฐานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 003 </span>         [๑๔๒๒]   บุคคลใด   กำหนดรู้มานานุสัย,  บุคคลนั้น   ย่อม
+<span class="LineNumber"> 004 </span>กำหนดรู้ทิฏฐานุสัย   ฯลฯ  วิจิกิจฉานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า บุคคลใด   กำหนดรู้วิจิกิจฉานุสัย,  บุคคลนั้น   ย่อม
+<span class="LineNumber"> 007 </span>กำหนดรู้มานานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ย่อมกำหนดรู้กิเลสอันตั้งอยู่ในที่เดียวกันกับอนุสัยนั้น.
+<span class="LineNumber"> 009 </span>                      <I>จบ  มานานุสยมูละ  ทิฏฐานุสยาทิมูลี</I>
+
+<span class="LineNumber"> 010 </span><H2>มานานุสมูละ  ภวราคานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         บุคคลใด   กำหนดรู้มานานุสัย,   บุคคลนั้น    ย่อมกำหนดรู้
+<span class="LineNumber"> 012 </span>ภวราคานุสัย  ฯลฯ  อวิชชานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า   บุคคลใด    กำหนดรู้อวิชชานุสัย,   บุคคลนั้น   ย่อม
+<span class="LineNumber"> 015 </span>กำหนดรู้มานานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ใช่.
+<span class="LineNumber"> 017 </span>                     <I>จบ  มานานุสยมูละ  ภวราคานุสยาทิมูลี</I>
+<span class="LineNumber"> 018 </span>                                    <I>มานานุสยมูล  จบ</I>

@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  332
+
+<span class="LineNumber"> 002 </span>			กามนีตชาตกํ  
+<span class="LineNumber"> 003 </span>	ตโย  คิรินฺติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  กามนีต-
+<span class="LineNumber"> 004 </span>พฺราหฺมณํ  นาม อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	วตฺถุ  ปจฺจุปฺปนฺนฺจ  อตีตฺจ  ทฺวาทสนิปาเต  กามชาตเก (๑) 
+<span class="LineNumber"> 006 </span>อาวิภวิสฺสติ ฯ  
+<span class="LineNumber"> 007 </span>	เตสุ  ปน  ทฺวีสุ  ราชปุตฺเตสุ  เชฏฺ€โก  อาคนฺตฺวา 
+<span class="LineNumber"> 008 </span>พาราณสิยํ  ราชา  อโหสิ ฯ  กนิฏฺโ€ อุปราชา ฯ เตสุ ราชา
+<span class="LineNumber"> 009 </span>วตฺถุกามกิเลสกาเมสุ  อติตฺโต  ธนโลโล  (๒)  อโหสิ ฯ  ตทา  โพธิสตฺโต 
+<span class="LineNumber"> 010 </span>สกฺโก เทวราชา  หุตฺวา  ชมฺพุทีปํ  โอโลเกนฺโต  ตสฺส  รฺโ
+<span class="LineNumber"> 011 </span>ทฺวีสุปิ  กาเมสุ อติตฺตภาวํ  ตฺวา  อิมํ  ราชานํ  นิคฺคเหตฺวา (๓)
+<span class="LineNumber"> 012 </span>ลชฺชาเปสฺสามีติ พฺราหฺมณมาณวกวณฺเณน  อาคนฺตฺวา  ราชานํ  
+<span class="LineNumber"> 013 </span>ปสฺสิ ฯ  รฺา  จ  เกนตฺเถน  อาคโตสิ  มาณวาติ  วุตฺเต  
+<span class="LineNumber"> 014 </span>อหํ  มหาราช  ตีณิ  นครานิ  ปสฺสามิ  เขมานิ  สุภิกฺขานิ  
+<span class="LineNumber"> 015 </span>ปหูตหตฺถิอสฺสรถปตฺติหิรฺสุวณฺณาลงฺการภริตานิ  สกฺกา  ปน
+<span class="LineNumber"> 016 </span>ตานิ  อปฺปเกเนว  พเลน  คณฺหิตุํ อหนฺเต ตานิ คเหตฺวา  
+<span class="LineNumber"> 017 </span>ทาตุํ  อาคโตติ  อาห ฯ  กทา  คจฺฉาม  มาณวาติ  วุตฺเต  เสฺว  
+<span class="LineNumber"> 018 </span>มหาราชาติ ฯ  เตน  หิ  คจฺฉาม (๔) ปาโตว  อาคจฺเฉยฺยาสีติ ฯ
+<span class="LineNumber"> 019 </span>สาธุ  มหาราช  เวเคน  พลํ  สชฺเชหีติ  วตฺวา  สกฺโก 
+<span class="LineNumber"> 020 </span>สกฏฺ€านเมว คโต ฯ  
+<span class="LineNumber"> 021 </span>	ราชา  ปุนทิวเส  เภริฺจาราเปตฺวา  พลสชฺชํ  การาเปตฺวา  
+<span class="LineNumber"> 022 </span># ๑. ขุ. ชา. ๒๗/๑๖๓๗/๔๒๘ ฯ  ๒. ธนโลโภติปิ ฯ  ๓. ม. นิคฺคณฺหิตฺวา ฯ
+<span class="LineNumber"> 023 </span># ๔. ม. คจฺฉ ฯ

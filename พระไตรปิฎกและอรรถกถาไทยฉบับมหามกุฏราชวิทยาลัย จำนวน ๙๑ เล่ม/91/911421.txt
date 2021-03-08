@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H2>พหิทธารัมมณบท</H2>  
+<span class="LineNumber"> 002 </span>           [๑๒๑๔] ๑.  <B>พหิทธารัมมณธรรม    ที่เป็นอนิทัสสนอัปปฏิฆ-
+<span class="LineNumber"> 003 </span>ธรรม   อาศัยธรรมที่ไม่ใช่พหิทธารัมมณธรรม   ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 004 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>                                                <B>ฯลฯ</B>
+
+<span class="LineNumber"> 006 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 007 </span>           [๑๒๑๕]  ในเหตุปัจจัย มี ๓ วาระ ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>           สหชาตวาระก็ดี   ปัจจยวาระก็ดี  สังสัฏฐวาระก็ดี   สัมปยุตตวาระก็ดี
+<span class="LineNumber"> 009 </span>ปัญหาวาระก็ดี  พึงให้พิสดาร.
+<span class="LineNumber"> 010 </span><I>นสนิทัสสนติกนอัชฌัตตารัมมณติกสนิทัสสนติกอัชฌัตตารัมมณติกะ  จบ</I>
+<span class="LineNumber"> 011 </span>                            <I>ปัจจนียานุโลมติกติกปัฏฐาน  จบ</I>

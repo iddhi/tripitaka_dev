@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 241
+
+<span class="LineNumber"> 002 </span>ปติฏฺ€เปตฺวา  อิโต  ปฏฺ€าย  ปาปมิตฺเต  ปหาย  กลฺยาณมิตฺเต  
+<span class="LineNumber"> 003 </span>อุปสงฺกมฺม  นิจฺจํ  อปฺปมตฺโต  โหหีติ  ราชานํ  โอวทิตฺวา(๑)  ราชธีตุ 
+<span class="LineNumber"> 004 </span>คุเณ (๒) วณฺเณตฺวา  ราชปริสาย  จ  ราโชโรธานฺจ  โอวาทํ  ทตฺวา  
+<span class="LineNumber"> 005 </span>มหนฺเตนานุภาเวน เตสํ ปสฺสนฺตานํเยว(๓) พฺรหฺมโลกํ คโต ฯ  
+<span class="LineNumber"> 006 </span>	ราชา  ตสฺส  โอวาเท  €ิโต  มิจฺฉาทิฏฺ€ึ  ปหาย  ทานาทีนิ  
+<span class="LineNumber"> 007 </span>ปุฺานิ กตฺวา สคฺคปรายโน อโหสิ ฯ  
+<span class="LineNumber"> 008 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  น  ภิกฺขเว อิทาเนว
+<span class="LineNumber"> 009 </span>ปุพฺเพปิ  มยา  ทิฏฺ€ิชาลํ  ภินฺทิตฺวา  อุรุเวลกสฺสโป  ทมิโตเยวาติ 
+<span class="LineNumber"> 010 </span>วตฺวา  ชาตกํ  สโมธาเนนฺโต โอสาเน อิมา คาถา อภาสิ  
+<span class="LineNumber"> 011 </span>	[๘๙๒]อลาโต เทวทตฺโตสิ	สุนาโม อาสิ ภทฺทชิ  
+<span class="LineNumber"> 012 </span>		วิชโย สาริปุตฺโตสิ		โมคฺคลฺลาโนสิ วีชโก(๔)  
+<span class="LineNumber"> 013 </span>		สุนกฺขตฺโต ลิจฺฉวิปุตฺโต	คุโณ อาสิ อเจลโก  
+<span class="LineNumber"> 014 </span>		อานนฺโทว รุจา อาสิ	ยา ราชานํ ปสาสยิ(๕)  
+<span class="LineNumber"> 015 </span>		อุรุเวลกสฺสโป ราชา	ปาปทิฏฺ€ิ ตทา อหุ  
+<span class="LineNumber"> 016 </span>		มหาพฺรหฺมา โพธิสตฺโต  เอวํ ธาเรถ ชาตกนฺติ ฯ  
+<span class="LineNumber"> 017 </span>			มหานารทชาตกํ อฏฺ€มํ(๖) นิฏฺ€ิตํ(๗) ฯ  
+<span class="LineNumber"> 018 </span># ๑. ม. โอวาทํ ทตฺวา ฯ  ๒. ม. คุณํ ฯ  ๓. ม. ปสฺสนฺตานฺเว ฯ 
+<span class="LineNumber"> 019 </span># ๔. ม. พีชโก ฯ  ๕. ม. ปสาทยิ ฯ  ๖. ส. มหานารทกสฺสปชาตกํ ฯ
+<span class="LineNumber"> 020 </span># ม. มหานารทกสฺสปชาตกวณฺณนา อฏฺ€มา ฯ 
+<span class="LineNumber"> 021 </span># ๗. ม. อยํ ปาโ€ นตฺถิ ฯ 

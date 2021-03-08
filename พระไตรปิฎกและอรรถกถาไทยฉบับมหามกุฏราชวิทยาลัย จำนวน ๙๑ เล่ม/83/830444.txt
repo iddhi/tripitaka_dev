@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>ปฏิฆานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ปฏิฆานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 003 </span>         [๑๔๓๒]   บุคคลกำหนดรู้ปฏิฆานุสัย   จากที่ใด,  ย่อมกำหนด
+<span class="LineNumber"> 004 </span>รู้มานานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ไม่ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า  บุคคลกำหนดรู้มานานุสัย    จากที่ใด,   ย่อมกำหนดรู้
+<span class="LineNumber"> 007 </span>ปฏิฆานุสัย  จากที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ไม่ใช่.
+<span class="LineNumber"> 009 </span>                         <I>จบ  ปฏิฆานุสยมูละ  มานานุสยมูลี</I>
+
+<span class="LineNumber"> 010 </span><H2>ปฏิฆานุสยมูละ  ทิฏฐานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 011 </span>         บุคคลกำหนดรู้ปฏิฆานุสัย   จากที่ใด,  ย่อมกำหนดรู้ทิฏฐานุสัย
+<span class="LineNumber"> 012 </span>ฯลฯ  วิจิกิจฉานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า  บุคคลกำหนดรู้วิจิกิจฉานุสัย จากที่ใด, ย่อมกำหนดรู้
+<span class="LineNumber"> 015 </span>ปฏิฆานุสัย  จากที่นั้น ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         บุคคลกำหนดรู้วิจิกิจฉานุสัย   จากที่นั้น   คือที่เวทนา ๒   ใน
+<span class="LineNumber"> 017 </span>กามธาตุ  ที่รูปธาตุ  อรูปธาตุ  แต่ไม่ใช่จะกำหนดรู้ปฏิฆานุสัย จากที่นั้น,
+<span class="LineNumber"> 018 </span>บุคคลย่อมกำหนดรู้วิจิกิจฉานุสัย     และกำหนดรู้ปฏิฆานุสัย   จากที่นั้น
+<span class="LineNumber"> 019 </span>คือที่ทุกขเวทนา.
+<span class="LineNumber"> 020 </span>                       <I>จบ  ปฏิฆานุสยมูละ  ทิฏฐานุสยาทิมูลี</I>

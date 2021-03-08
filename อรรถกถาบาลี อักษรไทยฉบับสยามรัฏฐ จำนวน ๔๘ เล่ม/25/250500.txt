@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  500
+	
+<span class="LineNumber"> 002 </span>นิกฺขมิตฺวา  อิสิปตนสมีปํ  คโต  อุปทฺทุตํ  วต  โภ  อุปสฺสฏฺ€ํ
+<span class="LineNumber"> 003 </span>วต โภติ  อาห ฯ  เตน  สมเยน  ภควตา  อิสิปตเน  วิหรนฺเตน
+<span class="LineNumber"> 004 </span>ตสฺเสว  อนุคฺคณฺหนตฺถํ  อพฺโภกาเส  จงฺกมนฺเตน  เอหิ  ยส 
+<span class="LineNumber"> 005 </span>อิทํ อนุปทฺทุตํ อิทํ อนุปสฺสฏฺ€นฺติ วุตฺโต อนุปทฺทุตํ  
+<span class="LineNumber"> 006 </span>อนุปสฺสฏฺ€ํ กิร อตฺถีติ โสมนสฺสชาโต สุวณฺณปาทุกา โอรุยฺห 
+<span class="LineNumber"> 007 </span>ภควนฺตํ อุปสงฺกมิตฺวา  เอกมนฺตํ  นิสินฺโน  สตฺถารา  อนุปุพฺพิกถํ  
+<span class="LineNumber"> 008 </span>กเถตฺวา  สจฺจเทสนาย กตาย  สจฺจปริโยสาเน  โสตาปนฺโน 
+<span class="LineNumber"> 009 </span>หุตฺวา  คเวสนตฺถํ  อาคตสฺส  ปิตุ  ภควตา  สจฺจเทสนาย
+<span class="LineNumber"> 010 </span>กริยมานาย อรหตฺตํ สจฺฉากาสิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 011 </span>		มหาสมุทฺทํ โอคฺคยฺห (๒)  ภวนํ เม สุนิมฺมิตํ  
+<span class="LineNumber"> 012 </span>		สุนิมฺมิตา โปกฺขรณี	จกฺกวากูปกูชิตา ฯ (๓)  
+<span class="LineNumber"> 013 </span>		มนฺทาลเกหิ (๔) สฺฉนฺนา  ปทุมุปฺปลเกหิ จ  
+<span class="LineNumber"> 014 </span>		นที จ สนฺทเต ตตฺถ	สุปติตฺถา มโนรมา ฯ  
+<span class="LineNumber"> 015 </span>		มจฺฉกจฺฉปสฺฉนฺนา	นานาทิชสโมตฺถตา(๕)  
+<span class="LineNumber"> 016 </span>		มยูรโกฺจาภิรุทา		โกกิลาทีหิ วคฺคุหิ ฯ  
+<span class="LineNumber"> 017 </span>		ปาเรวตา (๖) รวิหํสา จ	จกฺกวากา นทีจรา  
+<span class="LineNumber"> 018 </span>		ทินฺทิภา สาลิกา เจตฺถ	ปมฺปกา (๗) ชีวชีวกา ฯ  
+<span class="LineNumber"> 019 </span># ๑. ขุ. อ. ๓๒/๔๐๑/๕๒๔ ฯ  ๒. สี. อุคฺคยฺห ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. จกฺกวากุปกุชฺชิตา ฯ  สี. จกฺกวากูปกูชิตา ฯ 
+<span class="LineNumber"> 021 </span># ยุ. จกฺกวากปกุชฺชิตา ฯ  ๔. สี.  มนฺทารเกหิ ฯ ๕. สฺยา. นานามิคสโมตฺถฏา ฯ
+<span class="LineNumber"> 022 </span># ๖. สี. ปาราปตา ฯ  ๗. สฺยา. จปฺปกา ฯ สี. ปาวกา ฯ 
+<span class="LineNumber"> 023 </span># ยุ. ปมฺปกา ฯ 

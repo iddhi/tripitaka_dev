@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  352
+	
+<span class="LineNumber"> 002 </span>		สํเวชยิตฺวา ชนตํ		ถวิตฺวา โลกนายกํ  
+<span class="LineNumber"> 003 </span>		สมฺพุทฺธํ อภิวาเทตฺวา	ปกฺกามึ ปาจินามุโข ฯ  
+<span class="LineNumber"> 004 </span>		เอกนวุติโต กปฺเป		ยํ พุทฺธมภิโถมยึ  
+<span class="LineNumber"> 005 </span>		ทุคฺคตึ นาภิชานามิ	โถมนาย อิทํ ผลํ ฯ  
+<span class="LineNumber"> 006 </span>		อิโต นวุติกปฺปมฺหิ		สมฺมุขาถวิกวฺหโย  
+<span class="LineNumber"> 007 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 008 </span>		ป€วีทุนฺทุภิ นาม		เอกูนนวุติมฺหิโต  
+<span class="LineNumber"> 009 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 010 </span>		อฏฺ€าสีติมฺหิโต กปฺเป	โอภาโส นาม ขตฺติโย  
+<span class="LineNumber"> 011 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 012 </span>		สตฺตาสีติมฺหิโต กปฺเป	สริตจฺเฉทนวฺหโย (๑)  
+<span class="LineNumber"> 013 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 014 </span>		อคฺคินิพฺพาปโน นาม	กปฺปานํ ฉฬสีติยา  
+<span class="LineNumber"> 015 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 016 </span>		คติปจฺเฉทโน นาม	กปฺปานํ ปฺจสีติยา  
+<span class="LineNumber"> 017 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 018 </span>		ราชา วาตสโม นาม	กปฺปานํ จุลฺลสีติยา  
+<span class="LineNumber"> 019 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 020 </span>		(๒)กติปจฺเฉทโน นาม	กปฺปานํ เตอสีติยา(๓)  
+<span class="LineNumber"> 021 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 022 </span>		ปทวิกฺกมโน นาม		กปฺปานํ เทฺวอสีติยา(๔)  
+<span class="LineNumber"> 023 </span>		สตฺตรตนสมฺปนฺโน	จกฺกวตฺตี มหพฺพโล ฯ  
+<span class="LineNumber"> 024 </span># ๑. สี. สทินจฺเฉทนวฺหโย ฯ  ๒. สฺยา. ม. คติ... ฯ 
+<span class="LineNumber"> 025 </span># ๓. สฺยา. จุลฺลสีติยา ฯ  ๔. สฺยา. ปฺจสีติยา ฯ 

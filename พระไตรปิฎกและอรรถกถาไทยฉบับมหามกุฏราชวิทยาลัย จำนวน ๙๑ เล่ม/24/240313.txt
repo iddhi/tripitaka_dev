@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                 <h1>๙.  ปาเถยยสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๑๕]   เทวดาทูลถามว่า 
+<span class="LineNumber"> 003 </span>                             <B>อะไรหนอย่อมรวบรวมไว้ซึ่งสะเบียง
+<span class="LineNumber"> 004 </span>                   อะไรหนอ  เป็นที่มานอนแห่งโภคทรัพย์
+<span class="LineNumber"> 005 </span>                   ทั้งหลาย   อะไรหนอ  ย่อมเสือกไสนรชน
+<span class="LineNumber"> 006 </span>                   ไป  อะไรหนอ  ละได้ยากในโลก  สัตว์เป็น
+<span class="LineNumber"> 007 </span>                   อันมากติดอยู่ในอะไร  เหมือนนกติดบ่วง.</B>
+<span class="LineNumber"> 008 </span>         [๒๑๖]  พระผู้มีพระภาคเจ้าตรัสตอบว่า
+<span class="LineNumber"> 009 </span>                             <B>ศรัทธาย่อมรวบรวมไว้ซึ่งสะเบียงสิริ
+<span class="LineNumber"> 010 </span>                   (คือมิ่งขวัญ)  เป็นที่มานอนแห่งโภคทรัพย์
+<span class="LineNumber"> 011 </span>                   ทั้งหลาย  ความอยากย่อมเสือกไสนรชนไป
+<span class="LineNumber"> 012 </span>                   ความอยากละได้ยากในโลก       สัตว์เป็น
+<span class="LineNumber"> 013 </span>                   อันมากคิดอยู่ในความอยาก     เหมือนนก
+<span class="LineNumber"> 014 </span>                   ติดบ่วง.</B>

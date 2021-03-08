@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค ทพฺพตฺเถรคาถาวณฺณนา หน้า 87
+		
+<span class="LineNumber"> 002 </span>		อุปฺปาเท  ทารุเณ ทิสฺวา	สาสนตฺถงฺคสูจเก  
+<span class="LineNumber"> 003 </span>		สํวิคฺคา ภิกฺขโว สตฺต	จินฺตยิมฺห มยํ ตทา ฯ  
+<span class="LineNumber"> 004 </span>		สาสเนน วินามฺหากํ(๑)	ชีวิเตน อลํ มยํ  
+<span class="LineNumber"> 005 </span>		ปวิสิตฺวา มหารฺํ	ยุฺชาม ชินสาสนํ(๒) ฯ  
+<span class="LineNumber"> 006 </span>		อทฺทสมฺห ตทารฺเ	อุพฺพิทฺธํ เสลปพฺพตํ (๓)  
+<span class="LineNumber"> 007 </span>		นิสฺเสณิยา ตมารุยฺห	นิสฺเสณึ ปาตยิมฺหเส ฯ  
+<span class="LineNumber"> 008 </span>		ตทา โอวทิ โน เถโร	พุทฺธุปฺปาโท สุทุลฺลโภ  
+<span class="LineNumber"> 009 </span>		สทฺธา  วา (๔) ทุลฺลภา(๕) ลทฺธา  โถกํ เสสฺจ สาสนํ ฯ  
+<span class="LineNumber"> 010 </span>		นิปตนฺติ ขณาตีตา		อนนฺเต ทุกฺขสาคเร  
+<span class="LineNumber"> 011 </span>		ตสฺมา ปโยโค กตฺตพฺโพ	ยาว ติฏฺ€ติ สาสนํ ฯ (๖)  
+<span class="LineNumber"> 012 </span>		อรหา อาสิ โส เถโร	อนาคามิ ตทานุโค  
+<span class="LineNumber"> 013 </span>		สุสีลา อิตเร ยุตฺตา	เทวโลกํ อคมฺหเส ฯ  
+<span class="LineNumber"> 014 </span>		นิพฺพุโต ติณฺณสํสาโร	สุทฺธาวาเส จ เอกโก  
+<span class="LineNumber"> 015 </span>		อหฺจ ปุกฺกุสาติ จ	สภิโย พาหิโย ตถา ฯ  
+<span class="LineNumber"> 016 </span>		กุมารกสฺสโป เจว		ตตฺถ ตตฺถูปคา มยํ  
+<span class="LineNumber"> 017 </span>		สํสารพนฺธนา มุตฺตา	โคตเมนานุกมฺปิตา ฯ  
+<span class="LineNumber"> 018 </span>		มลฺเลสุ กุสินารายํ		ชาโต คพฺเภว (๗) เม สโต  
+<span class="LineNumber"> 019 </span>		มาตา มตา (๘) จิตการูฬฺหา (๙)  ตโต นิปติโต อหํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ยุ. วินา สมฺมา ฯ  ๒. ม. ชินสาสเน ฯ  ๓. ม. เสลมุตฺตมํ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. เสลมุตฺตมํ ฯ  ๔. ยุ. โว ฯ  ๕. ม. สทฺธาติทุลฺลภา ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ยุ. ยาว €าติ มุเน มตํ ฯ  ๗. ม. คพฺเภ ชาตสฺส ฯ 
+<span class="LineNumber"> 023 </span># ๘. สี. มตา มาตา ฯ  ยุ. ปิตา ฯ  ๙.  ม. ยุ. จิตารุฬฺหา ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 40    หน้า  499
+
+<span class="LineNumber"> 002 </span>		อานนฺตริกสมาธิาณนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 003 </span>	อานนฺตริกสมาธิาณนิทฺเทเส  เนกฺขมฺมวเสนาติอาทีสุ 
+<span class="LineNumber"> 004 </span>เนกฺขมฺมอพฺยาปาทอาโลกสฺาอวิกฺเขปธมฺมววตฺถานาณปามุชฺ-
+<span class="LineNumber"> 005 </span>ชานิ สุกฺขวิปสฺสกสฺส  อุปจารชฺฌานสมฺปยุตฺตา  ตสฺส  ตสฺส 
+<span class="LineNumber"> 006 </span>กิเลสสฺส  วิปกฺขภูตา  สตฺต  ธมฺมา เอกจิตฺตสมฺปยุตฺตาเอว ฯ
+<span class="LineNumber"> 007 </span>	จิตฺตสฺส  เอกคฺคตา  อวิกฺเขโปติ  เอกคฺคสฺส  ภาโว
+<span class="LineNumber"> 008 </span>เอกคฺคตา  นานารมฺมเณ  น  วิกฺขิปติ  เตน  จิตฺตนฺติ  อวิกฺเขโป 
+<span class="LineNumber"> 009 </span>จิตฺตสฺส เอกคฺคตาสงฺขาโต  อวิกฺเขโปติ  อตฺโถ ฯ  
+<span class="LineNumber"> 010 </span>	สมาธีติ  เอการมฺมเณ  สมํ  อาธียติ  เตน  จิตฺตนฺติ 
+<span class="LineNumber"> 011 </span>สมาธิ  นามาติ  อตฺโถ ฯ  
+<span class="LineNumber"> 012 </span>	ตสฺส  สมาธิสฺส  วเสนาติ  อุปจารสมาธินาปิ  สมาหิต-
+<span class="LineNumber"> 013 </span>จิตฺตสฺส  ยถาภูตาวโพธโต  วุตฺตปฺปการสฺส  สมาธิสฺส  วเสน ฯ
+<span class="LineNumber"> 014 </span>	อุปฺปชฺชติ  าณนฺติ  มคฺคาณํ  ยถากฺกเมน  อุปฺปชฺชติ ฯ 
+<span class="LineNumber"> 015 </span>	ขียนฺตีติ  สมุจฺเฉทวเสน ขียนฺติ ฯ
+<span class="LineNumber"> 016 </span>	อิตีติ วุตฺตปฺปการสฺส  อตฺถสฺส  นิคมนํ ฯ  
+<span class="LineNumber"> 017 </span>	ป€มํ  สมโถติ  ปุพฺพภาเค  สมาธิ  โหติ ฯ 
+<span class="LineNumber"> 018 </span>	ปจฺฉา าณนฺติ อปรภาเค  มคฺคกฺขเณ าณํ โหติ ฯ  
+<span class="LineNumber"> 019 </span>	กามาสโวติ  ปฺจกามคุณิโก  ราโค ฯ
+<span class="LineNumber"> 020 </span>	ภวาสโวติ  รูปารูปภเวสุ  ฉนฺทราโค  ฌานนิกนฺติ  
+<span class="LineNumber"> 021 </span>สสฺสตทิฏฺ€ิสหชาโต  ราโค  ภววเสน  ปตฺถนา ฯ  ทิฏฺ€าสโวติ 
+<span class="LineNumber"> 022 </span>ทฺวาสฏฺ€ิ  ทิฏฺ€ิโย ฯ 

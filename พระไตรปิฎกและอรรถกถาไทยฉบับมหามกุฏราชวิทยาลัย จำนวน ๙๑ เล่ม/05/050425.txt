@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 002 </span>           [๔๐๓]  สามเณรีมีอายุหย่อน ๒๐  ปี     ภิกษุณีสำคัญว่ามีอายุหย่อน
+<span class="LineNumber"> 003 </span>๒๐ ปี  ให้บวช  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 004 </span>           สามเณรีมีอายุหย่อน ๒๐ ปี  ภิกษุณีสงสัย  ให้บวช  ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 005 </span>           สามเณรีมีอายุหย่อน  ๒๐ ปี   ภิกษุณีสำคัญว่ามีอายุครบแล้ว    ให้บวช
+<span class="LineNumber"> 006 </span>ไม่ต้องอาบัติ.
+<span class="LineNumber"> 007 </span>           สามเณรีมีอายุครบ  ๒๐ ปี  ภิกษุณีสำคัญว่า  มีอายุหย่อน  ๒๐ ปี  ต้อง
+<span class="LineNumber"> 008 </span>อาบัติทุกกฏ.
+<span class="LineNumber"> 009 </span>           สามเณรีมีอายุครบ  ๒๐ ปี  ภิกษุณีสงสัย   ต้องอาบัติทุกกฏ.
+<span class="LineNumber"> 010 </span>           สามเณรีมีอายุครบ  ๒๐ ปี    ภิกษุณีสำคัญว่ามีอายุครบแล้ว     ไม่ต้อง
+<span class="LineNumber"> 011 </span>อาบัติ.
+
+<span class="LineNumber"> 012 </span>                                     <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 013 </span>            [๔๐๔]   บวชกุมารีผู้มีอายุหย่อน ๒๐ ฝน   สำคัญว่ามีอายุครบแล้ว ๑
+<span class="LineNumber"> 014 </span>บวชกุมารีผู้มีอายุครบ ๒๐ ฝนแล้ว     สำคัญว่ามีอายุครบแล้ว ๑    วิกลจริต ๑
+<span class="LineNumber"> 015 </span>อาทิกัมมิกา ๑  ไม่ต้องอาบัติแล.
+
+<span class="LineNumber"> 016 </span>                         <I>กุมารีภูตวรรค  สิกขาบทที่  ๑   จบ</I>

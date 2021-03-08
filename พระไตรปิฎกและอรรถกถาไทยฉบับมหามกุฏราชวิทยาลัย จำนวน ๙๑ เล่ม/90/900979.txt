@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>				  <H1>เจตสิกบทปัญหาวาระ</H1>
+<span class="LineNumber"> 002 </span>				      <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>			            <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๖๙๘]  ๑.  เจตสิกธรรมที่เป็นกุศล  เป็นปัจจัยแก่เจตสิกธรรม
+<span class="LineNumber"> 005 </span>ที่เป็นกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                         ๒.  เจตสิกธรรมที่เป็นอกุศล     เป็นปัจจัยแก่เจตสิก-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                         ๓.  เจตสิกธรรมที่เป็นอัพยากตะ เป็นปัจจัยแก่เจตสิก-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                         <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 011 </span>		[๖๙๙]  ๑.  เจตสิกธรรมที่เป็นกุศล  เป็นปัจจัยแก่เจตสิกธรรม
+<span class="LineNumber"> 012 </span>ที่เป็นกุศล  ด้วยอำนาจของอารัมมณปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 013 </span>                         ๔.  เจตสิกธรรมที่เป็นอกุศล     เป็นปัจจัยแก่เจตสิก-
+<span class="LineNumber"> 014 </span>ธรรมที่เป็นอกุศล  ด้วยอำนาจของอารัมมณปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>                         ๗.  เจตสิกธรรมที่เป็นอัพยากตะ  เป็นปัจจัยแก่เจตสิก- 
+<span class="LineNumber"> 016 </span>ธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย   มี ๓  วาระ.

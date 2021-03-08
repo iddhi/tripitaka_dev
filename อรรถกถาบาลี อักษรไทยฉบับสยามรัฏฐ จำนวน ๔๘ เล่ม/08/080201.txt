@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๘ อลคทฺทูปมสุตฺตวณฺณนา หน้า ๒๐๑
+		
+<span class="LineNumber"> 002 </span>อตฺตนิยํ  วาติ  อมฺหากํ  จีวราทิปริกฺขาโรปิ  น  โหตีติ  อตฺโถ  
+<span class="LineNumber"> 003 </span>เอวเมว  โข  ภิกฺขเว  ยํ  น  ตุมฺหากํ  ตํ  ปชหถาติ  ภควา  
+<span class="LineNumber"> 004 </span>ขนฺธปฺจกํเยว  น  ตุมฺหากนฺติ ทสฺเสตฺวา  ปชหาเปติ  ตฺจ  
+<span class="LineNumber"> 005 </span>โข  น  อุปฺปาเฏตฺวา  ลุฺจิตฺวา  วา  ฉนฺทราควินเยน  ปเนตํ  
+<span class="LineNumber"> 006 </span>ปชหาเปติ  
+<span class="LineNumber"> 007 </span>	  เอวํ  สฺวากฺขาโตติ  เอตฺถ  ติปริวฏฺฏโต  ปฏฺ€าย  ยาว  อิมํ  
+<span class="LineNumber"> 008 </span>€านํ  อาหริตตปิ  วฏฺฏติ  ปฏิโลเมน  เปมมตฺตเกน  สคฺคปรายนโต  
+<span class="LineNumber"> 009 </span>ปฏฺ€าย  ยาว  อิมํ  €านํ  อาหริตตปิ  วฏฺฏติ  สฺวากฺขาโตติ  
+<span class="LineNumber"> 010 </span>สุกถิโต  สุกถิตตฺตา  จ  (๑)  อุตฺตาโน  วิวโฏ  ปกาสิโต  
+<span class="LineNumber"> 011 </span>ฉินฺนปิโลติโกติ  ปิโลติกาติ  วุจฺจติ  ฉินฺนํ  ภินฺนํ  ตตฺถ  ตตฺถ  
+<span class="LineNumber"> 012 </span>สิพฺพิตํ  คณฺ€ิกตํ  ชิณฺณวตฺถํ  ตํ  ยสฺส  นตฺถิ  อฏฺ€หตฺถํ  
+<span class="LineNumber"> 013 </span>วา  นวหตฺถํ  วา  อหฏสาฏกํ  นิวตฺโถ  โส  ฉินฺนปิโลติโก  
+<span class="LineNumber"> 014 </span>นามฯ  อยํปิ  ธมฺโม  ตาทิโส  น  เหตฺถ โกหฺาทิวเสน  
+<span class="LineNumber"> 015 </span>ฉินฺนภินฺนสิพฺพิตคณฺ€ิกตภาโว  อตฺถิ  อปิจ  กจวโร  ปิโลติโกติ(๒) 
+<span class="LineNumber"> 016 </span>วุจฺจติ  อิมสฺมึ  จ  สาสเน  สมณกจวรํ  นาม  ปติฏฺ€าตุํน  
+<span class="LineNumber"> 017 </span>ลภติ  เตเนวาห  
+<span class="LineNumber"> 018 </span>		  การณฺฑํว  (๓)  นิทฺธมถ  กสมฺพุฺจาวกสฺสถ  (๔)  
+<span class="LineNumber"> 019 </span>		  ตโต  ปลาเส  (๕)  วาเหถ  อสฺสมเณ  สมณมานิเน  
+<span class="LineNumber"> 020 </span>		  นิทฺธมิตฺวาน  ปาปิจฺเฉ  ปาปอาจารโคจเร
+<span class="LineNumber"> 021 </span># ๑. ม. เอว ฯ  ๒. ม. ปิโลติโกติ ฯ  ๓. ม. การณฺฑวํ ฯ  ๔. ม. กสมฺพุฺจาปกสฺสถ ฯ
+<span class="LineNumber"> 022 </span># ๕. สฺยา. ม. ปลาเป ฯ

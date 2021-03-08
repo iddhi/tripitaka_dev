@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                		         <H1>พระวินัยปิฎก</H1>
+<span class="LineNumber"> 002 </span>                                             <H1>เล่มที่  ๔</H1>
+<span class="LineNumber"> 003 </span>                         	   <H1>มหาวรรค  ภาคที่  ๑</H1> 
+<span class="LineNumber"> 004 </span><H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 005 </span>                      	           <H1>มหาขันธกะ</H1>
+<span class="LineNumber"> 006 </span>                       <H1>โพธิกถา  ปฏิจจสมุปบาทมนสิการ</H1>
+<span class="LineNumber"> 007 </span>           [๑]   โดยสมัยนั้น  พระผู้มีพระภาคเจ้า  แรกตรัสรู้ประทับอยู่  ณ ควง
+<span class="LineNumber"> 008 </span>ไม้โพธิพฤกษ์ใกล้ฝั่งแม่น้ำเนรัญชรา   ในอุรุเวลาประเทศ   ครั้งนั้น   พระผู้มี-
+<span class="LineNumber"> 009 </span>พระภาคเจ้าประทับนั่งด้วยบัลลังก์เดียว   เสวยวิมุตติสุข  ณ   ควงไม้โพธิพฤกษ์
+<span class="LineNumber"> 010 </span>ตลอด  ๗  วัน  และทรงมนสิการปฏิจจสมุปบาทเป็นอนุโลมและปฏิโลม   ตลอด
+<span class="LineNumber"> 011 </span>ปฐมยามแห่งราตรี ว่าดังนี้:-                                  
+<span class="LineNumber"> 012 </span>                       <H2>ปฏิจจสมุปบาท  อนุโลม</H2>
+<span class="LineNumber"> 013 </span>                         <B>เพราะอวิชชาเป็นปัจจัย 	จึงมีสังขาร
+<span class="LineNumber"> 014 </span>           เพราะสังขารเป็นปัจจัย		จึงมีวิญญาณ
+<span class="LineNumber"> 015 </span>           เพราะวิญญาณเป็นปัจจัย		จึงมีนามรูป
+<span class="LineNumber"> 016 </span>           เพราะนามรูปเป็นปัจจัย                	จึงสฬายตนะ
+<span class="LineNumber"> 017 </span>           เพราะสฬายตนะเป็นปัจจัย            	จึงมีผัสสะ</B>

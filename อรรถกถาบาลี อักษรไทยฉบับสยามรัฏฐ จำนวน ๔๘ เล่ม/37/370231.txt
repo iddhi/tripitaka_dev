@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  พฺรหฺมนารทชาตกํ  หน้า 231
+
+<span class="LineNumber"> 002 </span>		อสฺสสนฺตํ มหุํ อุณฺหํ	ปุพฺพกมฺมาปราธิกํ  
+<span class="LineNumber"> 003 </span>		ทุมฺมคฺคํ วิกตํ ภคฺคํ (๑)	โก ตํ ยาเจยฺย ตํ ธนุํ ฺติ ฯ  
+<span class="LineNumber"> 004 </span>	ตตฺถ  วิททฺธกายนฺติ  วิทฺธํสิตกายํ ฯ  วิตจนฺติ  จมฺมมํสานํ[๒]  
+<span class="LineNumber"> 005 </span>ฉินฺนตาย โกวิฬารปุปฺผํ วิย กึสุกปุปฺผํ วิย จ ฯ  
+<span class="LineNumber"> 006 </span>	[๘๘๖]อพฺภกูฏสมา อุจฺจา	อสิปตฺตจิตา(๓) ทุมา  
+<span class="LineNumber"> 007 </span>		อโยมเยหิ ติกฺเขหิ		นรโลหิตปายิภีติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ อสิปตฺตจิตาติ อสิมเยหิ ปตฺเตหิ จิตา ฯ  
+<span class="LineNumber"> 009 </span>			ตมานุปตฺตํ(๔) อสิปตฺตปาทปํ  
+<span class="LineNumber"> 010 </span>			อสีหิ ติกฺเขหิ จ ฉิชฺชมานํ  
+<span class="LineNumber"> 011 </span>			สฺฉินฺนคตฺตํ รุธิรํ(๕) สวนฺตํ  
+<span class="LineNumber"> 012 </span>			โก โจทเย ปรโลเก สหสฺสนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	ตตฺถ  ตมานุปตฺตนฺติ  ตํ  ภวนฺตํ  นิรยปาลานํ  อาวุธปฺปหาเร  
+<span class="LineNumber"> 014 </span>อสหิตฺวา อนุปฺปตฺตํ(๖) ฯ  
+<span class="LineNumber"> 015 </span>	[๘๘๗]ตโต นิกฺขนฺตมคฺคนฺตํ (๗)  อสิปตฺตนิรยา ภยา(๘)  
+<span class="LineNumber"> 016 </span>		สมฺปติตํ เวตรณึ		โก ตํ ยาเจยฺย ตํ ธนุํ ฺติ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ สมฺปติตนฺติ ปติตํ ฯ  
+<span class="LineNumber"> 018 </span>	[๘๘๘]ขรา ขาโรทกา(๙) อุณฺหา	ทุคฺคา เวตรณี นที  
+<span class="LineNumber"> 019 </span>		อโยโปกฺขรสฺฉนฺนา	ติกฺขปตฺเตหิ(๑๐) สนฺทตีติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. ทุมคฺเค วิตจํ คตฺตํ ฯ  ๒. ม. เอตฺถนฺตเร ฉิทฺทาวฉิทฺทนฺติ 
+<span class="LineNumber"> 021 </span># ทิสฺสติ ฯ  ๓. ม. อสิปตฺตาจิตา ฯ ๔. ส. ม. ตมารุหนฺตํ ฯ
+<span class="LineNumber"> 022 </span># ๕. ส. ม. รุหิรํ ฯ  ๖. ม. อารุหนฺตํ ฯ  ๗. ม. นิกฺขนฺตมตฺตํ ตํ ฯ
+<span class="LineNumber"> 023 </span># ๘. ม. อสิปตฺตาจิตา ทุมา ฯ  ๙. ม. ขาโรทิกา ตตฺตา ฯ
+<span class="LineNumber"> 024 </span># ๑๐. ม. ติกฺขา ปตฺเตหิ ฯ 

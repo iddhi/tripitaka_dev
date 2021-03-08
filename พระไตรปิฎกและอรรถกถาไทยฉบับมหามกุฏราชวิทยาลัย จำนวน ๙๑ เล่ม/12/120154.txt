@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>ใด ๆ ไม่ได้กล่าวไว้ตามลำดับ   บทนั้น ๆ    ปรากฏแล้วเทียวเพราะได้กล่าว 
+<span class="LineNumber"> 002 </span>แล้วในที่นั้น ๆ ดังนี้แล.
+<span class="LineNumber"> 003 </span>           <B>มหาสีหนาทสูตรวัญณนา  ในทีฆนิกายอรรถกถา  ชื่อสุมังคลวิลาสินี</B>
+<span class="LineNumber"> 004 </span>           จบด้วยประการฉะนี้.
+<span class="LineNumber"> 005 </span>                                     <B>จบมหาสีหนาทสูตรที่  ๘</B>

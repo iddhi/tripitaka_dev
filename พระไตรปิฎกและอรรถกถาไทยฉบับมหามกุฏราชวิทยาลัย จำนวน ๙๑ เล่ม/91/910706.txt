@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H2>นเหตุบท</H2> 
+<span class="LineNumber"> 002 </span>           [๕๓๘] ๑.  <B>ธรรมที่ไม่ใช่นเหตุธรรม      ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 003 </span>สัปปฏิฆธรรม  อาศัยนเหตุธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   เกิด 
+<span class="LineNumber"> 004 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>                       ๒.   <B>ธรรมที่ไม่ใช่นเหตุธรรม      ที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 006 </span>สัปปฏิฆธรรม  อาศัยนเหตุธรรมทีเป็นอนิทัสสนอัปปฏิฆธรรม   เกิด
+<span class="LineNumber"> 007 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>                       ๓.  <B>ธรรมที่ไม่ใช่นเหตุธรรม       ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 009 </span>สัปปฏิฆธรรม       และธรรมที่ไม่ใช่นเหตุธรรมที่ไม่ใช่อนิทัสสน-
+<span class="LineNumber"> 010 </span>สัปปฏิฆธรรม  อาศัยนเหตุธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม   เกิด
+<span class="LineNumber"> 011 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 012 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๕๓๙]  ในเหตุปัจจัย  มี  ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 014 </span>                 <I>สนิทัสสติกเหตุทุกนสนิทัสสนติกนเหตุทุกะ  จบ</I>

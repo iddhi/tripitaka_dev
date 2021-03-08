@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>มนายตนมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>มนายตนมูละ   ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๗๑๔]   มนายตนะจักเกิดแก่บุคคลใด,      ธัมมายตนะก็จักดับ
+<span class="LineNumber"> 004 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า   ธัมมายตนะจักดับแก่บุคคลใด,     มนายตนะก็จักเกิด
+<span class="LineNumber"> 007 </span>แก่บุคคลนั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         เมื่อปัจฉิมภวิกบุคคลเหล่านั้นกำลังเกิด       ธัมมายตนะจักดับแก่
+<span class="LineNumber"> 009 </span>บุคคลเหล่านั้น  แต่มนายตนะไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,  บุคคลที่
+<span class="LineNumber"> 010 </span>นอกจากนั้น       ธัมมายตนะจักดับ        และมนายตนะก็จักเกิดแก่บุคคล
+<span class="LineNumber"> 011 </span>เหล่านั้น.
+<span class="LineNumber"> 012 </span>                          <I>จบ   มนายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 013 </span>                                       <I>มนายตนมูล  จบ</I>
+<span class="LineNumber"> 014 </span>                                        <I>ปุคคลวาระ  จบ</I>

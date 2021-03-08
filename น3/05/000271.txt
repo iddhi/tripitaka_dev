@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span><B>โมหโทสา  อยํ  ปชา,</B>				หมู่สัตว์นี้  มีโมหะเป็นเครื่อง 
+<span class="LineNumber"> 002 </span>							ประทุษร้าย
+<span class="LineNumber"> 003 </span><B>ตสฺมา  หิ  วีตโมเหสุ</B>				เพราะเหตุนั้นแล  ทานอันเขาให้
+<span class="LineNumber"> 004 </span>						 	แล้ว  ในท่านทั้งหลายที่มีโมหะ
+<span class="LineNumber"> 005 </span>							สิ้นไปแล้ว  ย่อมมีผลมาก
+<span class="LineNumber"> 006 </span><B>ติณโทสานิ  เขตฺตานิ,</B>				นาทั้งหลาย  มีหญ้าเป็นเครื่อง
+<span class="LineNumber"> 007 </span>						 	ประทุษร้าย
+<span class="LineNumber"> 008 </span><B>อิจฺฉาโทสา  อยํ  ปชา,	</B>			หมู่สัตว์นี้  มีความอยากเป็น
+<span class="LineNumber"> 009 </span>							เครื่องประทุษร้าย
+<span class="LineNumber"> 010 </span><B>ตสฺมา  หิ  วีคติจฺเฉสุ</B>				เพราะเหตุนั้นแล  ทานอันเขาให้
+<span class="LineNumber"> 011 </span><B>ทินฺนํ  โหติ  มหปฺผลํ,</B>				แล้ว  ในท่านทั้งหลายที่มีความ
+<span class="LineNumber"> 012 </span>							อยากสิ้นไปแล้ว ย่อมมีผลมาก.

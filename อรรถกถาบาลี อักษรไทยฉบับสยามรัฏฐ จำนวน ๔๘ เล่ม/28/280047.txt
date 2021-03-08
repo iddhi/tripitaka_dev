@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 47
+
+<span class="LineNumber"> 002 </span>อาทิมฺหิ  คเหตฺวา  ปริยนฺเต  €เปติ มชฺเฌ  คเหตฺวา  อุภโต
+<span class="LineNumber"> 003 </span>โอสาเปติ  อุภโต  โกฏีสุ  คเหตฺวา  มชฺเฌ  โอสาเปติ ฯ 
+<span class="LineNumber"> 004 </span>พาหิรกภณฺฑปริจฺจาโค  ทานปารมี  นาม  องฺคปริจฺจาโค  
+<span class="LineNumber"> 005 </span>ทานอุปปารมี  นาม  ชีวิตปริจฺจาโค  ทานปรมตฺถปารมิโย
+<span class="LineNumber"> 006 </span>นามาติ  ทส  ปารมิโย  ทส  อุปปารมิโย  ทส  ปรมตฺถปารมิโย 
+<span class="LineNumber"> 007 </span>มชฺเฌ  คเหตฺวา ยนฺตเตลํ(๑)  วินิวฏฺเฏนฺโต  วิย  มหาเมรุํมตฺถํ(๒)
+<span class="LineNumber"> 008 </span>กตฺวา  จกฺกวาฬมหาสมุทฺทํ  อาลุเฬนฺโต  วิย  จ  สมฺมสิ ฯ 
+<span class="LineNumber"> 009 </span>ตสฺเสวํ  ทส  ปารมิโย  สมฺมสนฺตสฺส  ธมฺมเตเชน  จตุนหุตาธิกานิ
+<span class="LineNumber"> 010 </span>เทฺว  โยชนสตสหสฺสพหลา  อยํ  มหาป€วี  หตฺถินา 
+<span class="LineNumber"> 011 </span>อกฺกนฺตนฬกลาโป  วิย  ปีฬิยมานํ  อุจฺฉุยนฺตํ  วิย  จ  มหาวิรวํ 
+<span class="LineNumber"> 012 </span>วิรวมานา  สงฺกมฺปิ  สมฺปกมฺปิ  สมฺปเวธิ  กุลาลจกฺกํ วิย 
+<span class="LineNumber"> 013 </span>เตลยนฺตจกฺกํ วิย จ ปริพฺภมิ ฯ เตน วุตฺตํ  
+<span class="LineNumber"> 014 </span>	เอตฺตกาเยว เต โลเก	เย ธมฺมา โพธิปาจนา  
+<span class="LineNumber"> 015 </span>	ตทุทฺธํ  นตฺถิ อฺตฺร	ทฬฺหํ ตตฺถ ปติฏฺ€ห ฯ  
+<span class="LineNumber"> 016 </span>	อิเม ธมฺเม สมฺมสโต	สภาวสรสลกฺขเณ  
+<span class="LineNumber"> 017 </span>	ธมฺมเตเชน วสุธา		ทสสหสฺสี ปกมฺปถ ฯ  
+<span class="LineNumber"> 018 </span>	จลตี รวตี ป€วี		อุจฺฉุยนฺตํว ปีฬิตํ  
+<span class="LineNumber"> 019 </span>	เตลยนฺตํ(๓) ยถา จกฺกํ	เอวํ กมฺปติ เมทนีติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. ปรมตฺถปารมิโยติ ยมกเตลํ ฯ
+<span class="LineNumber"> 021 </span># ม. ปรมตฺถปารมิดย ยนฺตเตลํ ฯ ๒. ม. มหาเมรุํ
+<span class="LineNumber"> 022 </span># มตฺถํ ฯ  ๓. ม. เตลยนฺเต ฯ 

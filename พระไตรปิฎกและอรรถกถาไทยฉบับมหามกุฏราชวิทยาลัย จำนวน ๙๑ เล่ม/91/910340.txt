@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม ที่ไม่ใช่ธรรมที่ไม่ใช่อรูปาวจรธรรม 
+<span class="LineNumber"> 002 </span>ฯลฯ</B> 
+<span class="LineNumber"> 003 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม   ที่ไม่ใช่ปริยาปันนธรรม  ฯลฯ</B>
+<span class="LineNumber"> 004 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม ที่ไม่ใช่อปริยาปันนธรรม  ฯลฯ</B>
+<span class="LineNumber"> 005 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่นิยยานิกธรรม ฯลฯ</B>     
+<span class="LineNumber"> 006 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่อนิยยานิกธรรม  ฯลฯ</B>
+<span class="LineNumber"> 007 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม   ที่ไม่ใช่นิยตธรรม  ฯลฯ</B>
+<span class="LineNumber"> 008 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่อนิยตธรรม  ฯลฯ</B>
+<span class="LineNumber"> 009 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่สอุตตรธรรม   ฯลฯ</B> 
+<span class="LineNumber"> 010 </span>           <B>ฯลฯ  อาศัยนเหตุธรรม  ที่ไม่ใช่อนุตตรธรรม  ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                          <H2>เหตุบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 012 </span>                                   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>                                  <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 014 </span>           [๕๐๒] ๑.  <B>นเหตุธรรมที่ไม่ใช่สรณธรรม   อาศัยนเหตุธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่สรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 016 </span>                        ๒.  <B>เหตุธรรมที่ไม่ใช่อรณธรรม   อาศัยนเหตุธรรม
+<span class="LineNumber"> 017 </span>ที่ไม่ใช่อรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 018 </span>                       ๓.  <B>นเหตุธรรมที่ไม่ใช่สรณธรรม   อาศัยนเหตุธรรม
+<span class="LineNumber"> 019 </span>ที่ไม่ใช่อรณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>

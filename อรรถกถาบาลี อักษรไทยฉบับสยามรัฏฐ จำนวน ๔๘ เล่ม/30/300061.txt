@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  โมรชาตกํ  หน้า  61
+  
+<span class="LineNumber"> 002 </span>อิเมสํ  วสนํ (๑)  คิริทุคฺคํ  ภชสิ ฯ  อภูมึ  ตาต  เสวสีติ  ตาต 
+<span class="LineNumber"> 003 </span>คิริวิสมํ  นาม  ตว  อภูมึ (๒)  ตํ  เสวสิ  อุปคจฺฉสิ ฯ  เอตํ  มาตาล-
+<span class="LineNumber"> 004 </span>ยนฺตุวนฺติ  เอตํ  คามนฺตํ  อุกฺการฏฺ€านํ  อามกสุสานฏฺ€านฺจ 
+<span class="LineNumber"> 005 </span>ตว  มาตุ  อาลยํ  เคหํ  วสนฏฺ€านํ ตตฺถ คจฺฉาติ ฯ  
+<span class="LineNumber"> 006 </span>	เอวนฺตํ  ตชฺเชตฺวา  คจฺฉถ  นํ  มิถิลนครสฺส  อุกฺการ-
+<span class="LineNumber"> 007 </span>ภูมิยฺเว  โอตาเรตฺวา เอถาติ ปุตฺเต อาณาเปสิ ฯ เต 
+<span class="LineNumber"> 008 </span>ตถา อกํสุ ฯ  
+<span class="LineNumber"> 009 </span>	สตฺถา  อิมํ  ธมฺมเทสนํ  อาหริตฺวา  ชาตกํ  สโมธาเนสิ ฯ
+<span class="LineNumber"> 010 </span>ตทา  วินีลโก  เทวทตฺโต  อโหสิ  เทฺว  หํสโปตกา  เทฺว
+<span class="LineNumber"> 011 </span>อคฺคสาวกา ปิตา  อานนฺโท วิเทหราชา ปน อหเมวาติ ฯ  
+<span class="LineNumber"> 012 </span>				วินีลกชาตกํ ทสมํ ฯ  
+<span class="LineNumber"> 013 </span>				ทฬฺหวคฺโค ป€โม ฯ  
+
+<span class="LineNumber"> 014 </span>				ตสฺสุทฺทานํ
+<span class="LineNumber"> 015 </span>			วรพลฺลิก  ททฺทร  สูกรโก
+<span class="LineNumber"> 016 </span>			อุรคุตฺตม  ปฺจมภคฺควโร
+<span class="LineNumber"> 017 </span>		มหตีจมุยาว  สิคาลวโร
+<span class="LineNumber"> 018 </span>		สุหนุตฺตม  โมร  วินีลํ  ทส  (๓)  ฯ
+<span class="LineNumber"> 019 </span># ๑. ม. วเสน ฯ  ๒. ม. อภูมิ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ราโชวาทฺจ สิงฺคาลํ  สูกรํ อุรคํ ภคฺคํ
+<span class="LineNumber"> 021 </span>อลีนจิตฺตคุณฺจ  สุหนุ  โมรวินีลํ ฯ

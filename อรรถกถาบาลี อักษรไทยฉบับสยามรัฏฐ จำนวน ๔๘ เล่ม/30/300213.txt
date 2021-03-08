@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  213
+
+<span class="LineNumber"> 002 </span>			สาธุสีลชาตกํ  
+<span class="LineNumber"> 003 </span>	สรีรทพฺยํ  วุฑฺฒพฺยนฺติ  อิทํ  สตฺถา  เชตวเน  วิหรนฺโต  
+<span class="LineNumber"> 004 </span>อฺตรํ  พฺราหฺมณํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	ตสฺส  กิร  จตสฺโส  ธีตโร  อเหสุํ ฯ  ตา  จตฺตาโร  ชนา  
+<span class="LineNumber"> 006 </span>ปตฺเถนฺติ  เตสุ  เอโก  อภิรูโป  สรีรสมฺปนฺโน  เอโก  วยปฺปตฺโต  
+<span class="LineNumber"> 007 </span>มหลฺลโก  เอโก  ชาติสมฺปนฺโน  เอโก  สีลวา ฯ  พฺราหฺมโณ  
+<span class="LineNumber"> 008 </span>จินฺเตสิ  ธีตโร  นิเวสนฺเตน [๑] กสฺส  นุ  โข  ทาตพฺพา 
+<span class="LineNumber"> 009 </span>กึ รูปสมฺปนฺนสฺส  อุทาหุ  วยปฺปตฺตชาติสมฺปนฺนสีลวนฺตานํ  
+<span class="LineNumber"> 010 </span>อฺตรสฺสาติ ฯ  โส  จินฺเตนฺโตปิ  อชานิตฺวา  อิมํ  การณํ 
+<span class="LineNumber"> 011 </span>สมฺมาสมฺพุทฺโธ  ชานิสฺสติ  ตํ  ปุจฺฉิตฺวา  เอเตสํ  อนฺตเร  
+<span class="LineNumber"> 012 </span>อนุจฺฉวิกสฺส  ทสฺสามีติ  คนฺธมาลาทีนิ  คาหาเปตฺวา  วิหารํ 
+<span class="LineNumber"> 013 </span>คนฺตฺวา  สตฺถารํ  วนฺทิตฺวา  เอกมนฺตํ  นิสินฺโน  ภควโต (๒) อาทิโต 
+<span class="LineNumber"> 014 </span>ปฏฺ€าย  ตมตฺถํ  อาโรเจตฺวา  ภนฺเต  อิเมสุ  จตูสุ  ชเนสุ  กสฺส  
+<span class="LineNumber"> 015 </span>ทาตุํ  วฏฺฏตีติ  ปุจฺฉิ ฯ  สตฺถา  ปุพฺเพปิ  เต  ปณฺฑิตา  เอตํ 
+<span class="LineNumber"> 016 </span>ปฺหํ  กถยึสุ  ภวสงฺเขปคตตฺตา  ปน  สลฺลกฺเขตุํ  น  สกฺโกสีติ  
+<span class="LineNumber"> 017 </span>วตฺวา เตน ยาจิโต อตีตํ อาหริ ฯ  
+<span class="LineNumber"> 018 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 019 </span>พฺราหฺมณกุเล  นิพฺพตฺติตฺวา  วยปฺปตฺโต  ตกฺกสิลายํ  สิปฺปํ 
+<span class="LineNumber"> 020 </span>อุคฺคณฺหิตฺวา  อาคนฺตฺวา  พาราณสิยํ  ทิสาปาโมกฺโข  อาจริโย
+<span class="LineNumber"> 021 </span># ๑. ม. เอตฺถนฺตเร ปติฏฺ€าเปนฺเตนาติ ทิสฺสติ ฯ
+<span class="LineNumber"> 022 </span># ๒. ม. อยํ ปาโ€ นตฺถิ ฯ

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>	     	ในอาเสวนปัจจัย    	กับ ฯลฯ    			มี   "     ๙
+<span class="LineNumber"> 002 </span>	     	ในกัมมปัจจัย       		กับ ฯลฯ    			มี   "     ๓
+<span class="LineNumber"> 003 </span>	     	ในวิปากปัจจัย      		กับ ฯลฯ    			มี   "     ๓
+<span class="LineNumber"> 004 </span>	     	ในอาหารปัจจัย     	กับ ฯลฯ    			มี   "     ๓
+<span class="LineNumber"> 005 </span>	     	ในอินทริยปัจจัย     	กับ ฯลฯ    			มี   "     ๓
+<span class="LineNumber"> 006 </span>	     	ในฌานปัจจัย       		กับ ฯลฯ   			มี   "     ๓
+<span class="LineNumber"> 007 </span>	     	ในมัคคปัจจัย       		กับ ฯลฯ    			มี   "     ๓
+<span class="LineNumber"> 008 </span>	     	ในสัมปยุตตปัจจัย    	กับ ฯลฯ    			มี   "     ๓
+<span class="LineNumber"> 009 </span>	     	ในวิปปยุตตปัจจัย    	กับ ฯลฯ    			มี   "     ๓
+<span class="LineNumber"> 010 </span>	     	ในอัตถิปัจจัย       		กับ ฯลฯ    			มี   "     ๓
+<span class="LineNumber"> 011 </span>	     	ในนัตถิปัจจัย       		กับ ฯลฯ    			มี   "     ๙
+<span class="LineNumber"> 012 </span>	     	ในวิคตปัจจัย       		กับ ฯลฯ    			มี   "     ๙
+<span class="LineNumber"> 013 </span>	     	ในอวิคตปัจจัย      	กับ ฯลฯ    			มี   "     ๙
+<span class="LineNumber"> 014 </span>	                    			พึงนับอย่างนี้
+<span class="LineNumber"> 015 </span>	                  			ปัจจนียานุโลม จบ
+<span class="LineNumber"> 016 </span>	                   			 เหตุทุกะ จบ

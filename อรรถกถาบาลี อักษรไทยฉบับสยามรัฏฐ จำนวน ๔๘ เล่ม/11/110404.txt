@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  ขนฺธวารวคฺควณฺณนา  หน้า  ๔๐๔
+
+<span class="LineNumber"> 002 </span>อกุสเล  จาวุโส  ธมฺเมติอาทิ  กสฺมา  อารทฺธํ  ปฺจสุ  
+<span class="LineNumber"> 003 </span>ขนฺเธสุ  อวีตราคสฺส  อาทีนวํ  วีตราคสฺส  จ  อานิสํสํ ทสฺเสตุํ ฯ 
+<span class="LineNumber"> 004 </span>ตตฺร  อวิฆาโตติ  นิทฺทุกฺโข ฯ  อนุปายาโสติ  นิรุปตาโป ฯ  
+<span class="LineNumber"> 005 </span>อปริฬาโหติ นิฬาโห(๑) ฯ เอวํ สพฺพตฺถ อตฺโถ เวทิตพฺโพ ฯ
+<span class="LineNumber"> 006 </span>				ทุติยํ ฯ         
+
+<span class="LineNumber"> 007 </span>			หาลิทฺทิกานิสุตฺตวณฺณนา          
+<span class="LineNumber"> 008 </span>	ตติเย  อวนฺตีสูติ  อวนฺติทกฺขิณาปถสงฺขาเต  อวนฺติรฏฺเ€ ฯ 
+<span class="LineNumber"> 009 </span>กุรรฆเรติ(๒) เอวํนามเก  นคเร ฯ  ปปาเตติ  เอกโต  ปปาเต  
+<span class="LineNumber"> 010 </span>ตสฺสา  กิร  ปพฺพตสฺส  เอกํ   ปสฺสํ  ฉินฺทิตฺวา  ปาติตํ  วิย 
+<span class="LineNumber"> 011 </span>อโหสิ ฯ  ปวตฺเตติปิ  ปาโ€  นานาติตฺถิยานํ ลทฺธิปวตฺตฏฺ€าเนติ 
+<span class="LineNumber"> 012 </span>อตฺโถ ฯ  อิติ  เถโร  ตสฺมึ  รฏฺเ€  ตํ  นครํ  นิสฺสาย  ตสฺมึ 
+<span class="LineNumber"> 013 </span>ปพฺพเต  วิหรติ ฯ  หาลิทฺทิกานีติ(๓)  เอวํนามโก ฯ  อฏฺ€กวคฺคิเย  
+<span class="LineNumber"> 014 </span>มาคณฺฑิยปเฺหติ อฏฺ€กวคฺคิกมฺหิ  มาคณฺฑิยปโฺห  นาม  นตฺถิ
+<span class="LineNumber"> 015 </span>ตสฺมึ  ปเฺห
+<span class="LineNumber"> 016 </span>	รูปธาตูติ รูปกฺขนฺโธ อธิปฺเปโต ฯ  รูปธาตุราควินิพนฺธนฺติ(๔) 
+<span class="LineNumber"> 017 </span>รูปธาตุมฺหิ  ราเคน  วินิพทฺธํ(๕) ฯ วิฺาณนฺติ กมฺมวิฺาณํ ฯ 
+<span class="LineNumber"> 018 </span>โอกสารีติ เคหสารี อาลยสารี ฯ กสฺมา  ปเนตฺถ  วิฺาณธาตุ
+<span class="LineNumber"> 019 </span># ๑. ม. นิทฺทาโห ฯ  ๒. กตฺถจิ กุลฆเรตีติ ทิสฺสติ ฯ
+<span class="LineNumber"> 020 </span># ๓. ม. หาลิทฺทิกานีติ ฯ  ๔. ม. วินิพทฺธนฺติ ฯ
+<span class="LineNumber"> 021 </span># ๕. ม. เอวมุปริปิ ฯ

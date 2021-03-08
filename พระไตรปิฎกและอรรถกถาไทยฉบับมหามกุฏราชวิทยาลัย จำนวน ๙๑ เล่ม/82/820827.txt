@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>ปทโสธนวาระ   ปัจจนิก</H1>  
+<span class="LineNumber"> 002 </span>                                     <H2>๑.  ทุกขสัจจะ</H2>
+<span class="LineNumber"> 003 </span>         [๘๒๖]   ธรรมที่ไม่ชื่อว่าทุกข์,   ไม่ชื่อว่าทุกขสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ยกเว้นกายิกทุกข์ เจตสิกทุกข์เสียแล้ว ทุกขสัจจะที่เหลือนอกนั้น
+<span class="LineNumber"> 005 </span>ไม่ชื่อว่าทุกข์   แต่ชื่อว่าทุกขสัจจะ,    ยกเว้นทุกข์และทุกขสัจจะเสียแล้ว
+<span class="LineNumber"> 006 </span>ธรรมที่เหลือนอกนั้นไม่ชื่อว่าทุกข์และไม่ชื่อว่าทุกขสัจจะ.
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่าทุกขสัจจะ,  ไม่ชื่อว่าทุกข์  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>                                       <I>จบ   ทุกขสัจจะ</I>
+<span class="LineNumber"> 010 </span>                                   <H2>๒.  สมุทยสัจจะ</H2>
+<span class="LineNumber"> 011 </span>         ธรรมที่ไม่ชื่อว่าสมุทัย,  ไม่ชื่อว่าสมุทัยสัจจะ  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         ใช่.         
+<span class="LineNumber"> 013 </span>         ธรรมที่ไม่ชื่อว่าสมุทยสัจจะ,  ไม่ชื่อว่าสมุทัย  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ยกเว้นสมุทยสัจจะเสียแล้ว          สมุทัยที่เหลือนอกนั้นไม่ชื่อว่า
+<span class="LineNumber"> 015 </span>สมุทยสัจจะ     แต่ชื่อว่าสมุทัย,     ยกเว้นสมุทัยและสมุทยสัจจะเสียแล้ว
+<span class="LineNumber"> 016 </span>ธรรมที่เหลือนอกนั้นไม่ชื่อว่าสมุทัยและไม่ชื่อว่าสมุทยสัจจะ.
+<span class="LineNumber"> 017 </span>                                     <I>จบ   สมุทยสัจจะ</I>

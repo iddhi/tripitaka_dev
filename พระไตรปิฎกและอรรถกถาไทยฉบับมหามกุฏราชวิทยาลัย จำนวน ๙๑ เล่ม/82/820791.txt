@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>         แม้ชิวหา   ก็เช่นเดียวกับฆานธาตุ. 
+<span class="LineNumber"> 002 </span>         ธรรมที่ชื่อว่ากาย,   ชื่อว่ากายธาตุ  ใช่ไหม  ?                            
+<span class="LineNumber"> 003 </span>         เว้นจากกายธาตุเสียแล้ว   กายที่เหลือชื่อว่า   กาย    แต่ไม่ชื่อว่า
+<span class="LineNumber"> 004 </span>กายธาตุ,  กายธาตุ   ชื่อว่า   กายด้วย   ชื่อว่า   กายธาตุด้วย.
+<span class="LineNumber"> 005 </span>         ธรรมที่ชื่อว่ากายธาตุ,   ชื่อว่ากาย   ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่ารูป,   ชื่อว่ารูปธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         เว้นรูปธาตุเสีย     รูปที่เหลือชื่อว่า     รูป     แต่ไม่ชื่อว่ารูปธาตุ,
+<span class="LineNumber"> 009 </span>รูปธาตุ   ชื่อว่า   รูปด้วย   ชื่อว่า   รูปธาตุด้วย.
+<span class="LineNumber"> 010 </span>         ธรรมที่ชื่อว่ารูปธาตุ,  ชื่อว่ารูป  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>         สัททะก็เช่นเดียวกับฆานะ.
+<span class="LineNumber"> 013 </span>         ธรรมที่ชื่อว่าคันธะ,  ชื่อว่าคันธธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ศีลคันธะ    สมาธิคันธะ  ปัญญาคันธะ  ชื่อว่า   คันธะ  แต่ไม่
+<span class="LineNumber"> 015 </span>ชื่อว่าคันธธาตุ,   คันธธาตุ   ชื่อว่า  คันธะด้วย  ชื่อว่า  คันธธาตุด้วย.
+<span class="LineNumber"> 016 </span>         ธรรมที่ชื่อว่าคันธธาตุ,  ชื่อว่าคันธะ  ใช่ไหม  ?
+<span class="LineNumber"> 017 </span>         ใช่.

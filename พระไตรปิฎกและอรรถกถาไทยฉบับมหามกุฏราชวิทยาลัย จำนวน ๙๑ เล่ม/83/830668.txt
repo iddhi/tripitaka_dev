@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>บุคคลก็ยังไม่ละแล้ว  ในที่นั้น  ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         ไม่มี.
+<span class="LineNumber"> 003 </span>         ก็หรือว่า  ภวราคานุสัย   อันบุคคลยังไม่ละแล้ว   ในที่ใด,  กาม-
+<span class="LineNumber"> 004 </span>ราคานุสัย   ปฏิฆานุสัย   มานานุสัย   ทิฏฐานุสัย  และวิจิกิจฉานุสัย  อัน
+<span class="LineNumber"> 005 </span>บุคคลก็ยังไม่ละแล้ว  ในที่นั้น   ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         มานานุสัย   ทิฏฐานุสัย   และวิจิกิจฉานุสัย    อันบุคคลยังไม่ละ
+<span class="LineNumber"> 007 </span>แล้ว   กามราคานุสัย   และปฏิฆานุสัย    ไม่พึงกล่าวว่า    ละแล้วหรือยัง
+<span class="LineNumber"> 008 </span>ไม่ละแล้ว.
+<span class="LineNumber"> 009 </span>          <I>จบ  กามราคานุสย - ปฏิฆานสุย - มานานุสย - ทิฏฐานุสย -
+<span class="LineNumber"> 010 </span>                           วิจิกิจฉานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 011 </span><H2>กามราคานุสย - ปฏิฆานุสย - มานานุสย - ทิฏฐานุสย - วิจิกิจฉานุสยมูล
+<span class="LineNumber"> 012 </span>                        อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 013 </span>         กามราคานุสัย   ปฎิฆานุสัย   มานานุสัย  ทิฏฐานุสัย  และวิจิกิจ- 
+<span class="LineNumber"> 014 </span>ฉานุสัย   อันบุคคลยังไม่ละแล้ว  ในที่ใด,  อวิชชานุสัย    อันบุคคลก็ยัง
+<span class="LineNumber"> 015 </span>ไม่ละแล้ว  ในที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ไม่มี.
+<span class="LineNumber"> 017 </span>         ก็หรือว่า  อวิชชานุสัย   อันบุคคลยังไม่ละแล้ว   ในที่ใด,    กาม-

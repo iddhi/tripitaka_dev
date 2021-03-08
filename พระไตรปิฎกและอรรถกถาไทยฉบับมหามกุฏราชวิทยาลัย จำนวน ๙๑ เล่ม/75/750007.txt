@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>อรรถกถาธรรมสังคณี</H1>
+<span class="LineNumber"> 002 </span>                                            <H2>ชื่อ</H2>
+<span class="LineNumber"> 003 </span>                                      <H2>อัฏฐสาลินี</H2> 
+
+<span class="LineNumber"> 004 </span>                                       <H1>อารัมภกถา</H1>
+
+<span class="LineNumber"> 005 </span>              <B>กรุณา  วิย   สตฺเตสุ         ปญฺายสฺส  มเหสิโน
+<span class="LineNumber"> 006 </span>              เยฺยธมฺเมสุ  สพฺเพสุ       ปวตฺติตฺถ   ยถารุจึ...
+<span class="LineNumber"> 007 </span>                        พระสัพพัญญุตญาณของพระสัมมา-
+<span class="LineNumber"> 008 </span>              สัมพุทธเจ้าพระองค์ใด    ผู้แสวงหาคุณอัน
+<span class="LineNumber"> 009 </span>              ใหญ่  เป็นไปทั่วในไญยธรรมทั้งปวงตาม
+<span class="LineNumber"> 010 </span>              ความพอพระทัย    ดุจพระกรุณาที่ทรงแผ่ไป
+<span class="LineNumber"> 011 </span>              ในสัตว์ทั้งหลาย   พระสัมพุทธะพระองค์ใด
+<span class="LineNumber"> 012 </span>              มีพระทัยอันความกรุณานั้นให้อุตสาหะขึ้น
+<span class="LineNumber"> 013 </span>              ด้วยดีในสัตว์ทั้งหลาย  เมื่อประทับจำพรรษา
+<span class="LineNumber"> 014 </span>              ในดาวดึงส์เทวโลก   ในคราวที่แสดงยมก-
+<span class="LineNumber"> 015 </span>              ปาฏิหาริย์เสร็จแล้ว   ได้ประทับนั่งบนศิลา-
+<span class="LineNumber"> 016 </span>              อาสน์ ชื่อว่าบัณฑุกัมพล  ณ  ควงไม้ปาริชาต
+<span class="LineNumber"> 017 </span>              ทรงพระสิริโสภาคย์     ดุจพระอาทิตย์อุทัย
+<span class="LineNumber"> 018 </span>              เหนือขุนเขายุคันธร  ผู้อันหมู่แห่งเทพเจ้าทั้ง</B>

@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                               <H1>อุทาน</H1> 
+<span class="LineNumber"> 002 </span>              <B>มหา  นิยาโม  อนุสยา           นิคฺคโห   ขุทฺทกปญฺจมา
+<span class="LineNumber"> 003 </span>              ปรปฺปวาทมทฺทนา                 สุตฺตมูลสมาหิตา
+<span class="LineNumber"> 004 </span>              อุชโชตนา   สตฺถุสมเย           กถาวตฺถุปปกรเณ</B>		
+<span class="LineNumber"> 005 </span>         กถาวัตถุปกรณ์  มี  ๕  ปัณณาสก์  คือ :-
+<span class="LineNumber"> 006 </span>                              (๑)   มหาปัณณาสก์
+<span class="LineNumber"> 007 </span>                              (๒)   นิยามปัณณาสก์
+<span class="LineNumber"> 008 </span>                              (๓)   อนุสยปัณณาสก์
+<span class="LineNumber"> 009 </span>                              (๔)   นิคคหปัณณาสก์
+<span class="LineNumber"> 010 </span>                              (๕)   ขุททกปัณณาสก์
+<span class="LineNumber"> 011 </span>อันพระโมคคัลลีบุตรติสสเถระทำพระสูตรให้เป็นมูลตั้งไว้   ให้เป็นเครื่อง
+<span class="LineNumber"> 012 </span>ย่ำยีปรับปวาท     รุ่งเรืองอยู่ในพระพุทธศาสนา.
+<span class="LineNumber"> 013 </span>                            <I>กถาวัตถุปกรณ์  ๓๕  ภาณวาร  จบ</I>

@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>๗. ทีสีสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                   <H1>ว่าด้วยสัตว์ผู้เว้นการรับทาสีและทาสมีน้อย</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๗๘๒]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน  สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 004 </span>การรับทาสีและทาส  มีน้อย  โดยที่แท้  สัตว์ผู้ไม่งดเว้นจากการรับทาสีและทาส
+<span class="LineNumber"> 005 </span>มีมากกว่า ฯลฯ
+<span class="LineNumber"> 006 </span>	                 	                   <I>จบทาสีสูตรที่ ๗</I>
+
+<span class="LineNumber"> 007 </span>                                              <H1>๘.  อเชฬกสูตร</H1>
+
+<span class="LineNumber"> 008 </span>                           <H1>ว่าด้วยสัตว์ผู้เว้นการรับแพะแกะมีน้อย</H1>
+
+<span class="LineNumber"> 009 </span>           [๑๗๘๓]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน   สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 010 </span>การรับแพะและแกะ  มีน้อย  โดยที่แท้  สัตว์ผู้ไม่งดเว้นจากการรับแพะและแกะ
+<span class="LineNumber"> 011 </span>มีมากกว่า ฯลฯ
+<span class="LineNumber"> 012 </span>                                      <I>จบอเชฬกสูตรที่  ๘</I>
+
+<span class="LineNumber"> 013 </span>                                     <H1>๙. กุกกุฏสูตร</H1>
+
+<span class="LineNumber"> 014 </span>                  <H1>ว่าด้วยสัตว์ผู้เว้นการรับไก่และสุกรมีน้อย</H1>
+<span class="LineNumber"> 015 </span>           [๑๗๘๔]  ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน  สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 016 </span>การรับไก่และสุกร   มีน้อย   โดยที่แท้   สัตว์ผู้ไม่งดเว้นจากการรับไก่และสุกร
+<span class="LineNumber"> 017 </span>มีมากกว่า ฯลฯ
+<span class="LineNumber"> 018 </span>                                       <I>จบกุกกุฏสูตรที่  ๙</I>

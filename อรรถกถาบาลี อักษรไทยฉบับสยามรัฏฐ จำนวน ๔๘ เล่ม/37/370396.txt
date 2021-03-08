@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  396
+
+<span class="LineNumber"> 002 </span>นามํ  จตุตฺโถ  วโร ฯ  ปุตฺตปฏิลาโภ  ปฺจโม  วโร ฯ 
+<span class="LineNumber"> 003 </span>อนุนฺนตกุจฺฉิตา  ฉฏฺโ€  วโร ฯ อลมฺพตฺถนตา สตฺตโม วโร ฯ  
+<span class="LineNumber"> 004 </span>อปลิตภาโว  อฏฺ€โม  วโร ฯ  สุขุมจฺฉวีภาโว(๑)  นวโม  วโร ฯ  
+<span class="LineNumber"> 005 </span>วชฺฌปโมจนสมตฺถตา ทสโม วโร(๒) ฯ  
+<span class="LineNumber"> 006 </span>	ตํ สุตฺวา สกฺโก อาห  
+<span class="LineNumber"> 007 </span>	[๑๐๔๙]เย เต ทส วรา ทินฺนา	มยา สพฺพงฺคโสภเน  
+<span class="LineNumber"> 008 </span>		สิวิราชสฺส วิชิเต		สพฺเพ เต ลจฺฉสิ วเรติ ฯ  
+<span class="LineNumber"> 009 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 010 </span>	[๑๐๕๐]อิทํ วตฺวาน มฆวา	เทวราชา สุชมฺปติ  
+<span class="LineNumber"> 011 </span>		ผุสฺสติยา วรํ ทตฺวา		อนุโมทิตฺถ วาสโวติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  อนุโมทิตฺถาติ  ปมุทิตจิตฺโต  โสมนสฺสปฺปตฺโต ฯ
+<span class="LineNumber"> 013 </span>สพฺเพ  เต ลจฺฉสิ วเรติ สพฺเพ เต วเร ลภสิ ฯ  
+<span class="LineNumber"> 014 </span>	เอวํ  สกฺโก  ทส  วเร  ทตฺวา  ปมุทิตจิตฺโต(๓)  หุตฺวา 
+<span class="LineNumber"> 015 </span>ตุฏฺ€มานโส  อโหสิ(๔) ฯ  
+<span class="LineNumber"> 016 </span>		     ทสวรคาถา(๕) นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 017 </span>	อิติ  สา  วเร  คเหตฺวา  ตโต  จุตา  มทฺทรฺโ
+<span class="LineNumber"> 018 </span>อคฺคมเหสิยา  กุจฺฉิมฺหิ  นิพฺพตฺติ ฯ (๖) ชายมานาย  จนฺทนจุณฺเณน
+<span class="LineNumber"> 019 </span>ปริปฺโผสิเตน  วิย  สรีเรน  ชาตตฺตา(๖)  เตนสฺสา  นามคฺคหณทิวเส 
+<span class="LineNumber"> 020 </span># ๑. ม. สุขุมจฺฉวิภาโว ฯ  ๒. ม. วโรติ ฯ  ๓. ม. ปมุทิโต ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. อโหสีติ อตฺโถ ฯ ๕. ม. ทสวรกถา ฯ ๖. ม. ชายมานา
+<span class="LineNumber"> 022 </span># จ จนฺทนจุณฺณปริกิณฺเณน วิย สรีเรน ชาตา ฯ

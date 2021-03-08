@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  สกฺการสุตฺตวณฺณนา หน้า 389
+
+<span class="LineNumber"> 002 </span>	เอตฺถ  สกฺกาเรน  อภิภูตา  เทวทตฺตาทโย  นิทสฺเสตพฺพา ฯ 
+<span class="LineNumber"> 003 </span>วุตฺตมฺปิเหตํ(๑)
+<span class="LineNumber"> 004 </span>		ผลํ เว กทลึ หนฺติ	ผลํ เวฬฬ ผลํ นฬํ
+<span class="LineNumber"> 005 </span>		สกฺกาโร กาปุริสํ หนฺติ	คพฺโภ อสฺสตรึ ยถาติ ฯ (๒) 
+<span class="LineNumber"> 006 </span>สาธุนํ  อุปริ  กเตน  อสกฺกาเรน  อภิภูตา  ทณฺฑกีราชกาลิงฺค-
+<span class="LineNumber"> 007 </span>ราชมชฺฌราชาทโย  นิทสฺเสตพฺพา ฯ วุตฺตมฺปิ เจตํ
+<span class="LineNumber"> 008 </span>		กิสํ หิ วจฺฉํ อวกิริย ทณฺฑกี
+<span class="LineNumber"> 009 </span>		อุจฺฉินฺนมูโล สชโน สรฏฺโ€
+<span class="LineNumber"> 010 </span>		กุกฺกุฬนาเม นิรยมฺหิ ปจฺจติ
+<span class="LineNumber"> 011 </span>		ตสฺส ผุลิงฺคานิ ปตนฺติ กาเยติ(๓) ฯ
+<span class="LineNumber"> 012 </span>ตถา(๔)
+<span class="LineNumber"> 013 </span>		โย สฺเต ปพฺพชิเต อวฺจยิ
+<span class="LineNumber"> 014 </span>		ธมฺมํ ภณนฺเต สมเณ อทูสเก
+<span class="LineNumber"> 015 </span>		ตํ นาลิกิรํ(๕) สุนขา ปรตฺถ
+<span class="LineNumber"> 016 </span>		สงฺคมฺม ขาทนฺติ วิผนฺทมานนฺติ(๖) ฯ 
+<span class="LineNumber"> 017 </span>	อุปหจฺจ มานํ เมชฺโฌ(๗)  มาตงฺคสฺมึ ยสสฺสิโน(๘)
+<span class="LineNumber"> 018 </span>	สปาริสชฺโช อุจฺฉินฺโน  มชฺฌารฺํ(๙) ตทา อหูติ ฯ (๑๐) 
+<span class="LineNumber"> 019 </span># ๑. ม. วุตฺตมฺปิ เจตํ ฯ  ๒. วิ. จุล. ๗/๓๖๐/๑๘๒ ฯ
+<span class="LineNumber"> 020 </span># สํ. ส. ๑๕/๖๑๐/๒๒๖ ฯ  องฺ. จตุกฺก. ๒๑/๖๘/๙๖ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. อิติสทฺโท นตฺถิ ฯ  ๔. ม. ตถาติ นตฺถิ ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. นาฬิเกรํ ฯ  ๖. ขุ. ชา. ๒๗/๒๔๖๔/๕๓๙ ฯ 
+<span class="LineNumber"> 023 </span># ม. อิติสทฺโท นตฺถิ ฯ  ๗. ม. มนํ มชฺโฌ ฯ
+<span class="LineNumber"> 024 </span># ๘. ม. ยสสฺสิเน ฯ ๙. ม. มชฺฌารฺํ ฯ
+<span class="LineNumber"> 025 </span># ๑๐. ขุ. ชา. ๒๘/๙๒/๔๑ ฯ

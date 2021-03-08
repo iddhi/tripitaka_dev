@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  42   นิทานกถา  หน้า  52
+
+<span class="LineNumber"> 002 </span>	เตหิ ถุตปฺปสตฺโถ โส   ทส ธมฺเม สมาทิย  
+<span class="LineNumber"> 003 </span>	เต ธมฺเม ปริปูเรนฺโต  ปวนํ ปาวิสี ตทาติ ฯ  
+<span class="LineNumber"> 004 </span>			สุเมธกถา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 005 </span>	รมฺมนครวาสิโนปิ โข นครํ ปวิสิตฺวา พุทฺธปฺปมุขสฺส 
+<span class="LineNumber"> 006 </span>ภิกฺขุสงฺฆสฺส  มหาทานํ  อทํสุ ฯ  สตฺถา  เตสํ  ธมฺมํ  เทเสตฺวา  
+<span class="LineNumber"> 007 </span>มหาชนํ  สรณาทีสุ  ปติฏฺ€เปตฺวา  รมฺมนครา  นิกฺขมิ ฯ  ตโต  
+<span class="LineNumber"> 008 </span>อุทฺธมฺปิ  ยาวตายุกํ  ติฏฺ€นฺโต  สพฺพํ   พุทฺธกิจฺจํ  กตฺวา  
+<span class="LineNumber"> 009 </span>อนุกฺกเมน  อนุปาทิเสสาย  นิพฺพานธาตุยา  ปรินิพฺพายิ ฯ  ตตฺถ  
+<span class="LineNumber"> 010 </span>ยํ  วตฺตพฺพํ  ตํ  สพฺพํ พุทฺธวํเส วุตฺตนเยเนว  วิตฺถาเรตพฺพํ ฯ 
+<span class="LineNumber"> 011 </span>วุตฺตํ  หิ  ตตฺถ  
+<span class="LineNumber"> 012 </span>	ตทา เต โภชยิตฺวาน  สสงฺฆํ โลกนายกํ  
+<span class="LineNumber"> 013 </span>	อุปคจฺฉุํ สรณํ ตสฺส  ทีปงฺกรสฺส สตฺถุโน ฯ  
+<span class="LineNumber"> 014 </span>	สรณคมเน กฺจิ    นิเวเสสิ ตถาคโต  
+<span class="LineNumber"> 015 </span>	กฺจิ ปฺจสุ สีเลสุ   สีเล ทสวิเธ ปรํ ฯ  
+<span class="LineNumber"> 016 </span>	กสฺสจิ เทติ สามฺํ   จตุโร ผลมุตฺตเม  
+<span class="LineNumber"> 017 </span>	กสฺสจิ อสเม ธมฺเม   เทติ โส ปฏิสมฺภิทา ฯ  
+<span class="LineNumber"> 018 </span>	กสฺสจิ วรสมาปตฺติโย   อฏฺ€ เทติ นราสโภ  
+<span class="LineNumber"> 019 </span>	ติสฺโส กสฺสจิ วิชฺชาโย  ฉฬภิฺา ปเวจฺฉติ ฯ  
+<span class="LineNumber"> 020 </span>	เตน โยเคน ชนกายํ   โอวทติ(๒) มหามุนิ  
+<span class="LineNumber"> 021 </span>	เตน วิตฺถาริกํ อาสิ   โลกนาถสฺส สาสนํ ฯ  
+<span class="LineNumber"> 022 </span>#  ๑ สี. ยุ. อุปคฺฉุํ ฯ  ๒ สี. ยุ.  โอวเทติ ฯ

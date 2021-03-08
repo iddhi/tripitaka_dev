@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>อนาสวบทปฏิจจ วาระ</H1>
+<span class="LineNumber"> 002 </span>					     <H2>อนุโลมนัย</H2>	
+<span class="LineNumber"> 003 </span>					  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๖๔๔]  ๑.  อนาสวธรรมที่เป็นกุศล  อาศัยอนาสวธรรมที่เป็น
+<span class="LineNumber"> 005 </span>กุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                       ๒.  อนาสวธรรมที่เป็นอัพยากตะ  อาศัยอนาสวธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นอัพยากตะ  เกิดขึ้น   เพราะเหตุปัจจัย
+
+<span class="LineNumber"> 008 </span>                  	     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>		[๖๔๕]  ในเหตุปัจจัย มี ๒ วาระ  ฯลฯ   ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 010 </span>สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 011 </span>                      	           <H1>อนาสวบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 012 </span>                         		      <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 013 </span>                            	        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>		[๖๔๖]  ๑.  อนาสวธรรมที่เป็นกุศลเป็นปัจจัยแก่อนาสวธรรม
+<span class="LineNumber"> 015 </span>ที่เป็นกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 016 </span>                       ๒.  อนาสวธรรมที่เป็นอัพยากตะ      เป็นปัจจัยแก่
+<span class="LineNumber"> 017 </span>อนาสวธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย

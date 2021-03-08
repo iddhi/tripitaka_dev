@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อฏฺ€มวคฺเค อุคฺคตฺเถรคาถาวณฺณนา หน้า 377
+
+<span class="LineNumber"> 002 </span>คาถํ อภาสิ ฯ  
+<span class="LineNumber"> 003 </span>	ตตฺถ  ยํ  มยา  ปกตํ  กมฺมนฺติ  ยํ  กมฺมํ ตีหิ กมฺมทฺวาเรหิ 
+<span class="LineNumber"> 004 </span>ฉหิ อุปฺปตฺติทฺวาเรหิ  อฏฺ€หิ อสํวรทฺวาเรหิ (๑)[๒] ปาปาทิวเสน 
+<span class="LineNumber"> 005 </span>ทานาทิวเสน  จาติ อเนเกหิ ปกาเรหิ  อนาทิมติ  สํสาเร  ยํ 
+<span class="LineNumber"> 006 </span>มยา  กตํ  อุปจิตํ  อภินิพฺพตฺติตํ  วิปากกมฺมํ ฯ  
+<span class="LineNumber"> 007 </span>	อปฺปํ วา ยทิ  วา  พหุนฺติ  ตฺจ  วตฺถุเจตนา-
+<span class="LineNumber"> 008 </span>ปโยคกิเลสาทีนํ  ทุพฺพลภาเวน	อปฺปํ  วา เตสํ พลวภาเวน 
+<span class="LineNumber"> 009 </span>อภิณฺหปวตฺติยา  จ  พหุํ  วา ฯ 
+<span class="LineNumber"> 010 </span>	สพฺพเมตํ ปริกฺขีณนฺติ สพฺพเมว เจตํ กมฺมํ กมฺมกฺขยกรสฺส  
+<span class="LineNumber"> 011 </span>อคฺคมคฺคสฺส  อธิคตตฺตา  ปริกฺขยํ  กตํ(๓)  กิเลสวฏฺฏปฺปหาเนน  หิ 
+<span class="LineNumber"> 012 </span>กมฺมวฏฺฏํ  ปหีนเมว  โหติ  วิปากวฏฺฏสฺส  อนุปฺปาทนโต ฯ  เตนาห  
+<span class="LineNumber"> 013 </span>นตฺถิ  ทานิ  ปุนพฺภโวติ ฯ  อายตึ  ปุนพฺภวาภินิพฺพตฺติ  มยฺหํ 
+<span class="LineNumber"> 014 </span>นตฺถีติ  อตฺโถ ฯ สพฺพมฺเปตนฺติปิ (๔) ปาโ€ สพฺพมฺปิ เอตนฺติ (๕)
+<span class="LineNumber"> 015 </span>ปทวิภาโค ฯ  
+<span class="LineNumber"> 016 </span>		อุคฺคตฺเถรคาถาวณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 017 </span>		ปรมตฺถทีปนิยา เถรคาถาสํวณฺณนาย  
+<span class="LineNumber"> 018 </span>		อฏฺ€มวคฺควณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 019 </span># ๑. สี. อสํวเรหิ ฯ  ๒. สี. ม. เอตฺถนฺตเร อฏฺ€หิ จ สํวรทฺวาเรหีติ 
+<span class="LineNumber"> 020 </span># ทิสฺสติ ฯ  ๓. ม. คตํ ฯ  ๔. สี. สพฺพเมเวตนฺติปิ ฯ 
+<span class="LineNumber"> 021 </span># ม. สพฺพมฺเปตนฺติปิ ฯ  ๕. สี. สพฺพเมว เอตนฺติ ฯ 

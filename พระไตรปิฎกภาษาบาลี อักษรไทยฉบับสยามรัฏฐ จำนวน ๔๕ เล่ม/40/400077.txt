@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>     [๒๑๙]  นวิปากปจฺจยา  นเหตุปจฺจยา  นอารมฺมณปจฺจยา  สหชาเต  
+<span class="LineNumber"> 002 </span>เอกํ   ...   อฺมฺเ  เอกํ  นิสฺสเย  เอกํ  กมฺเม  เอกํ  อาหาเร  
+<span class="LineNumber"> 003 </span>เอกํ   อินฺทฺริเย   เอกํ  ฌาเน  เอกํ  วิปฺปยุตฺเต  เอกํ  อตฺถิยา  เอกํ  
+<span class="LineNumber"> 004 </span>อวิคเต เอกํ ฯ สงฺขิตฺตํ ฯ  
+<span class="LineNumber"> 005 </span>     [๒๒๐]  นอาหารปจฺจยา  สหชาเต  เอกํ  ...  อฺมฺเ  เอกํ  
+<span class="LineNumber"> 006 </span>นิสฺสเย   เอกํ   กมฺเม  เอกํ  อินฺทฺริเย  เอกํ  อตฺถิยา  เอกํ  อวิคเต  
+<span class="LineNumber"> 007 </span>เอกํ ฯ สงฺขิตฺตํ ฯ  
+<span class="LineNumber"> 008 </span>     [๒๒๑]  นอินฺทฺริยปจฺจยา  สหชาเต  เอกํ  ...  อฺมฺเ  เอกํ  
+<span class="LineNumber"> 009 </span>นิสฺสเย   เอกํ   กมฺเม  เอกํ  อาหาเร  เอกํ  อตฺถิยา  เอกํ  อวิคเต  
+<span class="LineNumber"> 010 </span>เอกํ ฯ สงฺขิตฺตํ ฯ  
+<span class="LineNumber"> 011 </span>     [๒๒๒]   นฌานปจฺจยา   อารมฺมเณ  เอกํ  ...  อนนฺตเร  เอกํ  
+<span class="LineNumber"> 012 </span>สมนนฺตเร   เอกํ   สหชาเต   เอกํ   อฺมฺเ  เอกํ  นิสฺสเย  เอกํ  
+<span class="LineNumber"> 013 </span>อุปนิสฺสเย  เอกํ  ปุเรชาเต  เอกํ  กมฺเม  เอกํ  วิปาเก เอกํ อาหาเร  
+<span class="LineNumber"> 014 </span>เอกํ   อินฺทฺริเย   เอกํ   สมฺปยุตฺเต   เอกํ  วิปฺปยุตฺเต  เอกํ  อตฺถิยา  
+<span class="LineNumber"> 015 </span>เอกํ นตฺถิยา เอกํ วิคเต เอกํ 

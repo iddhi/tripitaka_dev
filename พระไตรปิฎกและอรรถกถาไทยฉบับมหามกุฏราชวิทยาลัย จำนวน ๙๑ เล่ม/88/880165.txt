@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๑ ที่เป็นนเหตุอเหตุกธรรม ฯลฯ  ขันธ์ทั้งหลายที่เป็นนเหตุ
+<span class="LineNumber"> 002 </span>อเหตุกธรรม. 
+<span class="LineNumber"> 003 </span>           ในปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 004 </span>                                 <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 005 </span>           [๑๔๔]  ในนเหตุปัจจัย  มี ๑ วาระ   ในนอธิปติปัจจัย   มี ๒ วาระ
+<span class="LineNumber"> 006 </span>ในนปุเรชาตปัจจัย   มี ๒ วาระ   ในนปัจฉาชาตปัจจัย  มี ๒ วาระ   ในนอา-
+<span class="LineNumber"> 007 </span>เสวนปัจจัย   มี ๒ วาระ  ในนกัมมปัจจัย  มี ๒ วาระ  ในนวิปากปัจจัย  มี ๒
+<span class="LineNumber"> 008 </span>วาระ  ในนฌานปัจจัย  มี ๑ วาระ  ในนมัคคปัจจัย  มี ๑ วาระ  ในนวิปปยุตต-
+<span class="LineNumber"> 009 </span>ปัจจัย   มี ๒ วาระ. 
+<span class="LineNumber"> 010 </span>                                           <I>ปัจจนียนัย   จบ</I>
+
+<span class="LineNumber"> 011 </span>           การนับ   แม้ ๒ นัย  ที่ยังเหลือ  ก็พึงนับอย่างนี้. 
+<span class="LineNumber"> 012 </span>           สัมปยุตตวาระ   เหมือนกับ    สังสัฏฐวาระ. 

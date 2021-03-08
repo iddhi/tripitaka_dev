@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span><H2>รูปายตนมูละ  ธัมมายตนมูลี :-</H2> 
+<span class="LineNumber"> 002 </span>         [๗๖๕]   รูปายตนะกำลังเกิดแก่บุคคลใดในภูมิใด,   ธัมมายตนะ
+<span class="LineNumber"> 003 </span>จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า    ธัมมายตนะจักดับแก่บุคคลใดในภูมิใด,    รูปายตนะ
+<span class="LineNumber"> 006 </span>ก็กำลังเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         เมื่อบุคคลเหล่านั้นทั้งหมดกำลังตายก็ดี  บุคคลที่รูปะเกิดไม่ได้
+<span class="LineNumber"> 008 </span>เหล่านั้นกำลังเกิดก็ดี       ธัมมายตนะจักดับแก่บุคคลเหล่านั้นในภูมินั้น
+<span class="LineNumber"> 009 </span>แต่รูปายตนะไม่ใช่กำลังเกิดแก่บุคคลเหล่านั้นในภูมินั้น,  บุคคลที่มีรูปะ
+<span class="LineNumber"> 010 </span>เกิดได้เหล่านั้นกำลังเกิด   ธัมมายตนะจักดับ   และรูปายตนะก็กำลังเกิด 
+<span class="LineNumber"> 011 </span>แก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 012 </span>                           <I>จบ  รูปายตนมูละ  ธัมมายตนมูลี</I>
+<span class="LineNumber"> 013 </span>                                        <I>รูปายตนมูล  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                           <H1>มนายตนมูล</H1>
+<span class="LineNumber"> 015 </span><H2>มนายตนมูละ  ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 016 </span>         [๗๖๖]   มนายตนะกำลังเกิดแก่บุคคลใดในภูมิใด,      ธัมมา-
+<span class="LineNumber"> 017 </span>ยตนะจักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?

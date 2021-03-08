@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>พระอภิธรรมปิฎก</H1>
+<span class="LineNumber"> 002 </span>                                    <H1>เล่มที่  ๒</H1><SUP>๑</SUP>
+<span class="LineNumber"> 003 </span>                               <H1>วิภังค์  ภาคที่  ๒</H1>
+<span class="LineNumber"> 004 </span>  <H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 005 </span>                             <H1>๗.  สติปัฏฐานวิภังค์</H1>
+<span class="LineNumber"> 006 </span>                                <H1>สุตตันตภาชนีย์</H1>
+<span class="LineNumber"> 007 </span>           [๔๓๑]  <B>สติปัฏฐาน  ๔</B>  คือ
+<span class="LineNumber"> 008 </span>           ๑. <B>ภิกษุในศาสนานี้  พิจารณาเห็นกายในกายภายในเนืองๆ
+<span class="LineNumber"> 009 </span>อยู่  พิจารณาเห็นกายในกายภายนอกเนือง ๆ อยู่ พิจารณาเห็นกายใน
+<span class="LineNumber"> 010 </span>กายทั้งภายในและภายนอกเนือง ๆ อยู่  มีความเพียร  มีสัมปชัญญะ
+<span class="LineNumber"> 011 </span>มีสติ  กำจัดอภิชฌาและโทมนัสเสียได้ในโลก.</B>
+<span class="LineNumber"> 012 </span>           ๒.  <B>พิจารณาเห็นเวทนาในเวทนาภายในเนืองๆ อยู่ พิจารณา
+<span class="LineNumber"> 013 </span>เห็นเวทนาในเวทนาภายนอกเนือง ๆ อยู่     พิจารณาเห็นเวทนาใน
+<span class="LineNumber"> 014 </span>เวทนาทั้งภายในและภายนอกเนือง ๆ อยู่  มีความเพียร  มีสัมปชัญญะ
+<span class="LineNumber"> 015 </span>มีสติ  กำจัดอภิชฌาและโทมนัสเสียได้ในโลก.</B>
+
+<span class='footnote'>๑.  บาลีเล่มที่  ๓๕</span>

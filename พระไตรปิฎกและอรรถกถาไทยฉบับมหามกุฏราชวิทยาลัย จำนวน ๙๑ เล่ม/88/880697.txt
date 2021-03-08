@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           ขันธ์ทั้งหลายที่เป็นนีวรณสัมปยุตตธรรม  เป็นปัจจัยแก่วุฏฐานะ ด้วย 
+<span class="LineNumber"> 002 </span>อำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 003 </span>           ในที่นี้   ขันธ์ทั้งหลาย  ที่เกิดก่อน ๆ ไม่มี.
+<span class="LineNumber"> 004 </span>           พึงถามถึงมูล  (วาระที่ ๓)
+<span class="LineNumber"> 005 </span>           ขันธ์ทั้งหลายที่เป็นนีวรณวิปปยุตตธรรม    ที่เกิดก่อน ๆ  เป็นปัจจัย
+<span class="LineNumber"> 006 </span>แก่ขันธ์ทั้งหลายที่เป็นนีวรณวิปปยุตตธรรม   ที่เกิดหลัง ๆ    ด้วยอำนาจของ
+<span class="LineNumber"> 007 </span>อนันตรปัจจัย.
+<span class="LineNumber"> 008 </span>           อนุโลมเป็นปัจจัยแก่โคตรภู   ฯลฯ   แก่ผลสมาบัติ    ด้วยอำนาจของ
+<span class="LineNumber"> 009 </span>อนันตรปัจจัย.
+<span class="LineNumber"> 010 </span>                       ๔.  <B>นีวรณวิปปยุตตธรรม   เป็นปัจจัยแก่นีวรณสัมป-
+<span class="LineNumber"> 011 </span>ยุตตธรรม  ด้วยอำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ    อาวัชชนะ     เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นนีวรณสัมปยุตต-
+<span class="LineNumber"> 013 </span>ธรรม  ด้วยอำนาจของอนันตรปัจจัย.
+
+<span class="LineNumber"> 014 </span>               <H2>๕.  สมนันตรปัจจัย ฯลฯ  ๘. นิสสยปัจจัย</H2>
+<span class="LineNumber"> 015 </span>                       ๑.  <B>นีวรณสัมปยุตตธรรม  เป็นปัจจัยแก่นีวรณสัมป-
+<span class="LineNumber"> 016 </span>ยุตตธรรม  ด้วยอำนาจของสมนันตรปัจจัย</B>
+<span class="LineNumber"> 017 </span>           <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของสหชาตปัจจัย</B>
+<span class="LineNumber"> 018 </span>           <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของอัญญมัญญปัจจัย</B>
+<span class="LineNumber"> 019 </span>           <B>ฯลฯ   เป็นปัจจัย  ด้วยอำนาจของนิสสยปัจจัย</B>

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                               <h1>๘.  มหัทธนสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๗๒]   เทวดากล่าวว่า
+<span class="LineNumber"> 003 </span>                             <B>กษัตริย์ทั้งหลายมีทรัพย์มาก  มีสมบัติ
+<span class="LineNumber"> 004 </span>                   มาก     ทั้งมีแว่นแคว้น      ไม่รู้จัดพอใน 
+<span class="LineNumber"> 005 </span>                   กามทั้งหลาย    ย่อมแข็งขันซึ่งกันและกัน
+<span class="LineNumber"> 006 </span>                   เมื่อกษัตริย์ทั้งหลายนั้นมัวขวนขวาย   ลอย
+<span class="LineNumber"> 007 </span>                   ไปตามกระแสแห่งภพ     บุคคลพวกไหน
+<span class="LineNumber"> 008 </span>                   ไม่มีความขวนขวาย     ละความโกรธและ
+<span class="LineNumber"> 009 </span>                   ความทะเยอทะยานเสียแล้วในโลก.</B>
+<span class="LineNumber"> 010 </span>         [๗๓]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 011 </span>                             <B>บุคคลทั้งหลาย   ละเรือน   ละบุตร
+<span class="LineNumber"> 012 </span>                   ละปศุสัตว์ที่รัก   บวชแล้ว   กำจัดราคะ
+<span class="LineNumber"> 013 </span>                   โทสะ  และอวิชชาเสียแล้ว  เป็นผู้มีอาสวะ
+<span class="LineNumber"> 014 </span>                   สิ้นแล้ว  เป็นผู้ไกลจากกิเลส   บุคคล
+<span class="LineNumber"> 015 </span>                   พวกนั้นเป็นผู้ไม่ขวนขวายในโลก.</B>

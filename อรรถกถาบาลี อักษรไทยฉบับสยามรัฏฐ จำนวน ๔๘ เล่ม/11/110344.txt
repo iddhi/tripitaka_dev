@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  หน้า  ๓๔๔
+
+<span class="LineNumber"> 002 </span>				เปสิสุตฺตวณฺณนา            
+<span class="LineNumber"> 003 </span>	มํสเปสิวตฺถุสฺมึ  โคฆาตโกติ  โคมํสเปสิโย  กตฺวา  สุกฺขา-
+<span class="LineNumber"> 004 </span>เปตฺวา  วลฺลูรวิกฺกเยน  อเนกานิ  วสฺสานิ  ชีวิตํ  กปฺเปสิ ฯ
+<span class="LineNumber"> 005 </span>เตนสฺส  นรกา  จวนกาเล  มํสเปสิเยว นิมิตฺตํ อโหสิ ฯ โส 
+<span class="LineNumber"> 006 </span>มํสเปสิเปโต ชาโต ฯ 
+<span class="LineNumber"> 007 </span>				ทุติยํ ฯ       
+
+<span class="LineNumber"> 008 </span>			ปิณฺฑสุตฺตวณฺณนา           
+<span class="LineNumber"> 009 </span>	มํสปิณฺฑวตฺถุสฺมึ  สากุณิโกติ  สกุเณ  คเหตฺวา  วิกฺกีณ-
+<span class="LineNumber"> 010 </span>กาเล นิปฺปกฺขจมฺเม  (๑)  มํสปิณฺฑมตฺเต กตฺวา วิกฺกิณนฺโต ชีวิตํ 
+<span class="LineNumber"> 011 </span>กปฺเปสิ เตนสฺส นรกา จวนกาเล มํสปิณฺโฑว นิมิตฺตํ 
+<span class="LineNumber"> 012 </span>อโหสิ ฯ โส มํสปิณฺฑเปโต ชาโต ฯ 
+<span class="LineNumber"> 013 </span>				ตติยํ ฯ     
+<span class="LineNumber"> 014 </span>			นิจฺฉวิสุตฺตวณฺณนา           
+<span class="LineNumber"> 015 </span>	นิจฺฉวิวตฺถุสฺมึ  ตสฺส  โอรพฺภิกสฺส  เอฬเก  วธิตฺวา 
+<span class="LineNumber"> 016 </span>นิจฺจมฺเม กตฺวา  กปฺปิตชีวิตสฺส  ปุริมนเยเนว  นิจฺจมฺมํ  เอฬ-
+<span class="LineNumber"> 017 </span>สรีรํ  นิมิตฺตํ  อโหสิ ฯ ตสฺมา(๒) นิจฺฉวิเปโต ชาโต ฯ 
+<span class="LineNumber"> 018 </span>				จตุตฺถํ ฯ               
+<span class="LineNumber"> 019 </span># ๑. ม. วิกฺกิณนกาเล นิปฺปกฺขจมฺเม ฯ  ๒. ม. โส ฯ

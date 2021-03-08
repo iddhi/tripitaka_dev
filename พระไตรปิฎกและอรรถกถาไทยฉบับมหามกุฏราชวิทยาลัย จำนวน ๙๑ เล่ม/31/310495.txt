@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๔. มุสาวาทสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                     <H1>ว่าด้วยสัตว์ผู้เว้นจากมุสาวาทมีน้อย</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๗๖๙]    ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน  สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 004 </span>มุสาวาท  มีน้อย  โดยที่แท้  สัตว์ผู้ไม่งดเว้นจากมุสาวาท  มีมากกว่า  ฯลฯ
+<span class="LineNumber"> 005 </span>                                            <I>จบมุสาวาทสูตรที่  ๔</I>
+
+<span class="LineNumber"> 006 </span>                                          <H1>๕.  เปสุญญสูตร</H1>
+
+<span class="LineNumber"> 007 </span>                            <H1>ว่าด้วยสัตว์ผู้เว้นคำส่อเสียดมีน้อย</H1>
+
+<span class="LineNumber"> 008 </span>           [๑๗๗๐]   ดูก่อนภิกษุทั้งหลาย     นั้นเหมือนกัน   สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 009 </span>คำส่อเสียด  มีน้อย  โดยที่แท้  สัตว์ผู้ไม่งดเว้นจากคำส่อเสียด   มีมากกว่า ฯลฯ
+<span class="LineNumber"> 010 </span>                                        <I>จบเปสุญญสูตรที่ ๕</I>
+
+<span class="LineNumber"> 011 </span>                                       <H1>๖.  ผรุสสูตร</H1>
+
+<span class="LineNumber"> 012 </span>                    <H1>ว่าด้วยสัตว์ผู้เว้นจากคำหยาบมีน้อย</H1>
+
+<span class="LineNumber"> 013 </span>           [๑๗๗๑]     ดูก่อนภิกษุทั้งหลาย  ฉันนั้นเหมือนกัน  สัตว์ผู้งดเว้นจาก
+<span class="LineNumber"> 014 </span>คำหยาบมีน้อย  โดยที่แท้  สัตว์ผู้ไม่งดเว้นจากคำหยาบมีมากกว่า  ฯลฯ
+<span class="LineNumber"> 015 </span>	         	                            <I>จบผรุสสูตรที่ ๖</I>

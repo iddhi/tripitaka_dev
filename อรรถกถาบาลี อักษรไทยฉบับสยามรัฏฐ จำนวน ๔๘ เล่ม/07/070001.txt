@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  ๗  หน้า  ๑
+
+<span class="LineNumber"> 002 </span>			ปปฺจสูทนี นาม มชฺฌิมนิกายฏฺ€กถา
+<span class="LineNumber"> 003 </span>				มูลปณฺณาสกวณฺณนา  
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส  ฯ
+<span class="LineNumber"> 005 </span>					คนฺถารมฺภกถา  
+<span class="LineNumber"> 006 </span>		กรุณาสีตลหทยํ  	 	ปฺาปโชตวิหตโมหตมํ  
+<span class="LineNumber"> 007 </span>		สนรามรโลกครุํ  	  	วนฺเท สุคตํ คติวิมุตฺตํฯ  ฯ 
+<span class="LineNumber"> 008 </span>		พุทฺโธปิ พุทฺธภาวํ 	  	ภาเวตฺวา เจว สจฺฉิกตฺวา จ  
+<span class="LineNumber"> 009 </span>		ยํ อุปคโต วิคตมลํ (๑)	วนฺเท ตมนุตฺตรํ ธมฺมํฯ  ฯ 
+<span class="LineNumber"> 010 </span>		สุคตสฺส โอรสานํ  	  	ปุตฺตานํ มารเสนมถนานํ
+<span class="LineNumber"> 011 </span>		อฏฺ€นฺนํปิ จ สมูหํ (๒)    	สิรสา วนฺเท อริยสํฆํฯ  ฯ 
+<span class="LineNumber"> 012 </span>	อิติ  เม  ปสนฺนมติโน  รตนตฺตยวนฺทนามยํ  ปุฺํฯ   ยํ  
+<span class="LineNumber"> 013 </span>สุวิหตนฺตราโย  หุตฺวาตสฺสานุภาเวน  มชฺฌิมปฺปมาณสุตฺตงฺกิตสฺส  
+<span class="LineNumber"> 014 </span>อิธ  มชฺฌิมาคมวรสฺส  พุทฺธานุพุทฺธสํวณฺณิตสฺส ปราวาทมถนสฺส 
+<span class="LineNumber"> 015 </span>อตฺถปฺปกาสนตฺถํ อฏฺ€กถา อาทิโต  วสีสเตหิ ปฺจหิ  ยา  
+<span class="LineNumber"> 016 </span>สงฺคีตา  อนุสงฺคีตา  จ  ปจฺฉาปิ  สีหฬทีปมฺปน  (๓)  อาภตาถ 
+<span class="LineNumber"> 017 </span>วสินา  มหามหินฺเทน  €ปิตา  สีหฬภาสาย  ทีปวาสีนมตฺถาย  
+<span class="LineNumber"> 018 </span>อปเนตฺวาน  ตโตหํ  สีหฬภาสํ  มโนรมํ  ภาสํ  ตนฺตินยานุจฺฉวิกํ 
+<span class="LineNumber"> 019 </span>#๑. ม. คตมลํ ฯ  ๒. ม. อฏฺ€นฺนมฺปิ สมูหํ ฯ ๓. โปราณ. สพฺพตฺถ €าเนสุ สีหฬ 
+<span class="LineNumber"> 020 </span>อิติ ทิสฺสติ ฯ

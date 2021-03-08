@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>	  <H1>อรรถกถารัตติสูตร</H1>  
+<span class="LineNumber"> 002 </span>         พึงทราบวินิจฉัยใน<B>รัตติสูตรที่  ๑๐</B>  ดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>         บทว่า  <B>วิฆาตวา</B>   ความว่า  เป็นทุกข์   โดยทุกข์เพราะโลภที่เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะอาศัยความมักมาก.  คำที่เหลือในบททั้งปวงง่ายทั้งนั้น  ฉะนี้แล.
+<span class="LineNumber"> 005 </span>	            <I>จบอรรถกถารัตติสูตรที่  ๑๐</I>
+<span class="LineNumber"> 006 </span>	          <I>จบอรหัตตวรรควรรณนาที่  ๓</I>
+<span class="LineNumber"> 007 </span>	 <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 008 </span>         ๑. ทุกขสูตร   ๒.  อรหัตตสูตร   ๓.  อุตตริมนุสสธรรมสูตร  ๔.  สุขสูตร
+<span class="LineNumber"> 009 </span>๕.  อธิคมสูตร       ๖.  มหัตตสูตร          ๗.  ปฐมนิรยสูตร        ๘.  ทุติยนิรยสูตร
+<span class="LineNumber"> 010 </span>๙.  อัคคธรรมสูตร   ๑๐.   รัตติสูตร    และอรรถกถา.

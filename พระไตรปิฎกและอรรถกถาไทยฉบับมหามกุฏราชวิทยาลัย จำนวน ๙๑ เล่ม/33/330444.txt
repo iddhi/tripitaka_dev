@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                            <H2>ธรรมวรรคที่  ๔</H2>
+
+<span class="LineNumber"> 002 </span>                                       <H3>สูตรที่  ๑</H3>		
+
+<span class="LineNumber"> 003 </span>         [๓๓๒]  ๘๖.  ดูก่อนภิกษุทั้งหลาย    ธรรม ๒  อย่างนี้  ๒ อย่าง
+<span class="LineNumber"> 004 </span>เป็นไฉน   คือ  เจโตวิมุตติ   ๑    ปัญญาวิมุตติ   ๑   ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 005 </span>ธรรม  ๒  อย่างนี้แล.
+<span class="LineNumber"> 006 </span>                                               จบสูตรที่  ๑   
+
+<span class="LineNumber"> 007 </span>                                      <H3>สูตรที่ ๒</H3>
+
+<span class="LineNumber"> 008 </span>         [๓๓๓]  ๘๗.   ดูก่อนภิกษุทั้งหลาย   ธรรม  ๒  อย่างนี้   ๒ อย่าง
+<span class="LineNumber"> 009 </span>เป็นไฉน  คือ  ความเพียร  ๑   ความไม่ฟุ้งซ่าน  ๑   ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 010 </span>ธรรม  ๒  อย่างนี้แล.
+<span class="LineNumber"> 011 </span>                                               จบสูตรที่  ๒
+
+<span class="LineNumber"> 012 </span>                                       <H3>สูตรที่  ๓</H3>
+
+<span class="LineNumber"> 013 </span>         [๓๓๔]  ๘๘.  ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒   อย่างนี้ ๒  อย่าง
+<span class="LineNumber"> 014 </span>เป็นไฉน  คือ นาม   ๑ รูป   ๑   ดูก่อนภิกษุทั้งหลาย  ธรรม  ๒  อย่างนี้แล.
+<span class="LineNumber"> 015 </span>                                                 จบสูตรที่  ๓
+
+<span class="LineNumber"> 016 </span>                                       <H3>สูตรที่  ๔</H3>
+
+<span class="LineNumber"> 017 </span>         [๓๓๕]  ๘๙.  ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่างนี้  ๒ อย่าง
+<span class="LineNumber"> 018 </span>เป็นไฉน คือ วิชชา  ๑  วิมุตติ  ๑  ดูก่อนภิกษุทั้งหลาย  ธรรม ๒ อย่างนี้แล.
+<span class="LineNumber"> 019 </span>                                                   จบสูตรที่  ๔  

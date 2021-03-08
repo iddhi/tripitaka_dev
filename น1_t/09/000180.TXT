@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>	ถ.  อธิกรณสมถะ  มิใช่อาบัติแผนกหนึ่งมิใช่หรือ  ถ้าเช่นนั้น 
+<span class="LineNumber"> 002 </span>มีไว้ทำไม ?
+<span class="LineNumber"> 003 </span>	ต.  มิใช่อาบัติแผนกหนึ่งก็จริง  แต่ก็ต้องมีไว้เพื่อเป็นเครื่อง
+<span class="LineNumber"> 004 </span>ระงับอธิกรณ์.
+<span class="LineNumber"> 005 </span>                                                             ส. ป.
+<span class="LineNumber"> 006 </span>	ถ.  อธิกรณ์อย่างไหน ?  ระงับด้วยสมถะอะไร ?
+<span class="LineNumber"> 007 </span>	ต.  วิวาทธิกรณ์  ระงับด้วยสมถะ ๒ คือ  สัมมุขาวินัยและ
+<span class="LineNumber"> 008 </span>เยภุยยสิการ.
+<span class="LineNumber"> 009 </span>	อนุวาทาธิกรณ์  ระงับด้วยสมถะ ๕ คือ  สัมมุขาวินัย  สติวินัย
+<span class="LineNumber"> 010 </span>อมูฬหวินัย  ปฏิญญาตกรณะ  ตัสสปาปิยสิกา.
+<span class="LineNumber"> 011 </span>	อาปัตตาธิกรณ์  ระงับด้วยสมถะ ๒ คือ  สัมมุขาวินัยและ
+<span class="LineNumber"> 012 </span>ปฏิญญาตกรณะ.
+<span class="LineNumber"> 013 </span>	กิจจาธิกรณ์  ระงับด้วยสัมมุขาวินัยอย่างเดียว.
+<span class="LineNumber"> 014 </span>                                                              ส. ป.

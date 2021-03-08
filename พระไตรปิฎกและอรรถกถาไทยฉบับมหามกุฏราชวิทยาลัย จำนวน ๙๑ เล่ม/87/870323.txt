@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           นิพพาน   เป็นปัจจัยแก่ผลที่เป็นอเสกขธรรม   ด้วยอำนาจของอธิปติ- 
+<span class="LineNumber"> 002 </span>ปัจจัย. 
+
+<span class="LineNumber"> 003 </span>                                       <H1>๔.  อนันตรปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๑๒๕๑] ๑.  <B>เสกขธรรม  เป็นปัจจัยแก่เสกธรรม ด้วยอำนาจ
+<span class="LineNumber"> 005 </span>ของอนันตรปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ   ขันธ์ทั้งหลายที่เป็นเสกขธรรม   ที่เกิดก่อน ๆ เป็นปัจจัยแก่ขันธ์
+<span class="LineNumber"> 007 </span>ทั้งหลายที่เป็นเสกขธรรม   ที่เกิดหลัง ๆ ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 008 </span>           มรรค   เป็นปัจจัยแก่ผลที่เป็นเสกขธรรม.
+<span class="LineNumber"> 009 </span>           ผลที่เป็นเสกขธรรม    เป็นปัจจัยแก่ผลที่เป็นเสกขธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 010 </span>ของอนันตรปัจจัย.
+<span class="LineNumber"> 011 </span>           [๑๒๕๒] ๒.  <B>เสกขธรรม    เป็นปัจจัยแก่อเสกขธรรม    ด้วย
+<span class="LineNumber"> 012 </span>อำนาจของอนันตรปัจจัย.</B>
+<span class="LineNumber"> 013 </span>           คือ   มรรค     เป็นปัจจัยแก่ผลที่เป็นอเสกขธรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 014 </span>อนันตรปัจจัย.
+<span class="LineNumber"> 015 </span>           [๑๒๕๓] ๓.   <B>เสกขธรรม  เป็นปัจจัยแก่เนวเสกขานาเสกข-
+<span class="LineNumber"> 016 </span>ธรรม  ด้วยอำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ   ผลที่เป็นเสกขธรรม    เป็นปัจจัยแก่วุฏฐานะ  ด้วยอำนาจของ
+<span class="LineNumber"> 018 </span>อนันตรปัจจัย.

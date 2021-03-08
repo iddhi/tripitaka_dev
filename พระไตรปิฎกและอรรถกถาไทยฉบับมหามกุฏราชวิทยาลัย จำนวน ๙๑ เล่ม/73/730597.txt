@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		<B>อเนกชาติสํสารํ  ฯ ล ฯ    	ตณฺหานํ  ขยมชฺฌคา.
+<span class="LineNumber"> 002 </span>		อโยฆนหตสฺเสว              	ชลโต   ชาตเวทโส
+<span class="LineNumber"> 003 </span>		อนุปุพฺพูปสนฺตสฺส          	ยถา  น  ายเต  คติ.
+<span class="LineNumber"> 004 </span>		ใครๆ ย่อมไม่รู้คติ   ความไปของดวงไฟ  ที่ลุก
+<span class="LineNumber"> 005 </span>	โพลง  ถูกฟาดด้วยค้อนเหล็ก   แล้วสงบลงโดยลำดับ
+<span class="LineNumber"> 006 </span>	ฉันใด.
+<span class="LineNumber"> 007 </span>		เอวํ   สมฺมา  วิมุตฺตานํ    กามพนฺโธฆตารินํ
+<span class="LineNumber"> 008 </span>		ปญฺาเปตุํ   คตี  นตฺถิ     ปตฺตานํ  อจลํ  สุขํ.
+<span class="LineNumber"> 009 </span>		ไม่มีใครจะล่วงรู้คติความไป  ของท่านผู้หลุดพ้น
+<span class="LineNumber"> 010 </span>	โดยชอบ  ผู้ข้ามพันธะและโอฆะ  คือกาม  ผู้ถึงสุขอัน
+<span class="LineNumber"> 011 </span>	ไม่หวั่นไหวได้ก็ฉันนั้น. </B>  
+<span class="LineNumber"> 012 </span>ทรงยับยั้งอยู่  ๗ สัปดาห์    ใกล้โพธิพฤกษ์นั่นเอง      ทรงรับอาราธนาของท้าว
+<span class="LineNumber"> 013 </span>มหาพรหม  ทรงตรวจดูอุปนิสสัยสมบัติ  ของ  <B>พระขัณฑกุมาร</B>  กนิษฐภาดา
+<span class="LineNumber"> 014 </span>ต่างพระมารดาของพระองค์   และ  <B>ติสสกุมาร</B>     บุตรปุโรหิต     เสด็จไปทาง
+<span class="LineNumber"> 015 </span>อากาศ  ลงที่ <B>เขมมิคทายวัน</B>   ทรงใช้พนักงานเฝ้าอุทยานไปเรียกท่านทั้งสอง
+<span class="LineNumber"> 016 </span>นั้นมาแล้ว    ทรงประกาศพระธรรมจักร   ท่ามกลางบริวารเหล่านั้น     ครั้งนั้น
+<span class="LineNumber"> 017 </span>ธรรมาภิสมัยได้แก่เทวดาทั้งหลาย   ประมาณมิได้.   ด้วยเหตุนั้น    จึงตรัสว่า
+<span class="LineNumber"> 018 </span>		<B>ต่อจากสมัยของพระปุสสพุทธเจ้า  พระสัมพุทธ- 
+<span class="LineNumber"> 019 </span>	เจ้าพระนามว่า  วิปัสสี    ผู้สูงสุดแห่งสัตว์สองเท้า  ผู้มี
+<span class="LineNumber"> 020 </span>	จักษุ   ก็อุบัติขึ้นในโลก.
+<span class="LineNumber"> 021 </span>		ทรงทำลาย  อวิชชาทั้งหมด<SUP>๑</SUP>    บรรลุพระโพธิ-
+<span class="LineNumber"> 022 </span>	ญาณอันสูงสุด    เสด็จไปยังกรุงพันธุมดี    เพื่อประกาศ
+<span class="LineNumber"> 023 </span>	พระธรรมจักร.  </B>
+
+<span class='footnote'>๑. บาลีว่า  อวิชฺชณฺฑํ  กะเปาะไข่คืออวิชชา</span>

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           คือ ขันธ์ทั้งหลาย   ที่เป็นกุศลและมหาภูตรูปทั้งหลาย  เป็นปัจจัย 
+<span class="LineNumber"> 002 </span>แก่จิตตสมุฏฐานรูป  ด้วยอำนาจของนิสสยปัจจัย.
+<span class="LineNumber"> 003 </span> <B>[๕๔๒] ๑๒. อกุศลธรรมและอัพยากตธรรม  เป็นปัจจัยแก่อกุศล-
+<span class="LineNumber"> 004 </span>ธรรม  ด้วยอำนาจของนิสสยปัจจัย</B>   
+<span class="LineNumber"> 005 </span>           คือ ขันธ์ ๑ ที่เป็นอกุศล  และหทยวัตถุ  เป็นปัจจัยแก่ขันธ์ ๓
+<span class="LineNumber"> 006 </span>ด้วยอำนาจของนิสสยปัจจัย,   ขันธ์ ๓ และหทยวัตถุ  เป็นปัจจัยแก่ขันธ์ ๑
+<span class="LineNumber"> 007 </span>ด้วยอำนาจของนิสสยปัจจัย,  ขันธ์ ๒ และหทยวัตถุ  เป็นปัจจัยแก่ขันธ์ ๒
+<span class="LineNumber"> 008 </span>ด้วยอำนาจของนิสสยปัจจัย.
+<span class="LineNumber"> 009 </span> <B>[๕๔๓] ๑๓. อกุศลธรรมและอัพยากตธรรม  เป็นปัจจัยแก่อัพยา-
+<span class="LineNumber"> 010 </span>กตธรรม  ด้วยอำนาจของนิสสยปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ ขันธ์ทั้งหลายที่เป็นอกุศล  และมหาภูตรูปทั้งหลาย  เป็นปัจจัย
+<span class="LineNumber"> 012 </span>แก่จิตตสมุฏฐานรูป  ด้วยอำนาจของนิสยปัจจัย.
+
+<span class="LineNumber"> 013 </span>                                 <H1>๙. อุปนิสสยปัจจัย</H1>
+<span class="LineNumber"> 014 </span> <B>[๕๔๔] ๑. กุศลธรรม  เป็นปัจจัยแก่กุศลธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 015 </span>อุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 016 </span>           มี ๓ อย่าง คือ  ที่เป็น  <B>อารัมณูปนิสสยะ  อนันตรูปนิสสยะ</B>
+<span class="LineNumber"> 017 </span>และ  <B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 018 </span>           ที่เป็น <B>อารัมมณูปนิสสยะ</B>  ได้แก่

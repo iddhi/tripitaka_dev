@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                           <H3>สูตรที่  ๔</H3>
+
+<span class="LineNumber"> 002 </span>         [๓๑๒] ๖๖.  ดูก่อนภิกษุทั้งหลาย   สุข ๒ อย่างนี้  ๒ อย่างเป็น 
+<span class="LineNumber"> 003 </span>ไฉน  คือ   สุขมีอาสวะ ๑  สุขไม่มีอาสวะ  ๑  ดูก่อนภิกษุทั้งหลาย     สุข 
+<span class="LineNumber"> 004 </span>๒  อย่างนี้แล  ดูก่อนภิกษุทั้งหลาย  บรรดาสุข  ๒  อย่างนี้   สุขไม่มีอาสวะ
+<span class="LineNumber"> 005 </span>เป็นเลิศ.
+<span class="LineNumber"> 006 </span>                                             จบสูตรที่  ๔
+
+<span class="LineNumber"> 007 </span>                          <H3>สูตรที่ ๕</H3>
+
+<span class="LineNumber"> 008 </span>         [๓๑๓]  ๖๗. ดูก่อนภิกษุทั้งหลาย  สุข ๒ อย่างนี้  ๒ อย่างเป็น
+<span class="LineNumber"> 009 </span>ไฉน   คือ   สุขอิงอามิส  ๑  สุขไม่อิงอามิส  ๑   ดูก่อนภิกษุทั้งหลาย   สุข
+<span class="LineNumber"> 010 </span>๒  อย่างนี้แล  ดูก่อนภิกษุทั้งหลาย    บรรดาสุข ๒ อย่างนี้    สุขไม่อิงอามิส
+<span class="LineNumber"> 011 </span>เป็นเลิศ.
+<span class="LineNumber"> 012 </span>                                               จบสูตรที่  ๕
+
+<span class="LineNumber"> 013 </span>                            <H3>สูตรที่ ๖</H3>
+
+<span class="LineNumber"> 014 </span>         [๓๐๔]  ๖๘. ดูก่อนภิกษุทั้งหลาย  สุข ๒ อย่างนี้  ๒  อย่างเป็น
+<span class="LineNumber"> 015 </span>ไฉน    คือ  สุขของพระอริยเจ้า  ๑  สุขของปุถุชน   ๑  ดูก่อนภิกษุทั้งหลาย 
+<span class="LineNumber"> 016 </span>สุข  ๒  อย่างนี้แล  ดูก่อนภิกษุทั้งหลาย  บรรดาสุข  ๒  อย่างนี้  สุขของ
+<span class="LineNumber"> 017 </span>พระอริยเจ้าเป็นเลิศ
+<span class="LineNumber"> 018 </span>                                                   จบสูตรที่  ๖

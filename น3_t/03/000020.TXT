@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>    พึงผ่อนให้ถือเป็นห้อง ๆ  ถ้ากุฎีโถง  พึงผ่อนให้ถือชั่วเตียงนอน 
+<span class="LineNumber"> 002 </span>    ชั่วที่นอนเป็นที่ ๆ.
+<span class="LineNumber"> 003 </span>๒.  ฐานะของผู้ถือเสนาสนะเป็นผู้ใหญ่หรือผู้น้อย  เป็นผู้ทำอุปการะแก่
+<span class="LineNumber"> 004 </span>    สงฆ์หรือหามิได้  เป็นผู้เล่าเรียนหรือประกอบกิจในทางไร  เป็นผู้
+<span class="LineNumber"> 005 </span>    อาศัยหรือเป็นที่อาศัยของใครเป็นต้น.
+<span class="LineNumber"> 006 </span>     (๔)  หน้าที่ของเจ้าอธิการแห่งอารามแบ่งออกเป็น  ๒  คือ :-
+<span class="LineNumber"> 007 </span>๑.  การรักษาอาราม.
+<span class="LineNumber"> 008 </span>๒.  การดูนวกรรม.
+<span class="LineNumber"> 009 </span>                 หน้าที่ของภิกษุผู้ดูนวกรรม  มี  ๒  คือ :-
+<span class="LineNumber"> 010 </span>๑.  เป็นผู้ดูการปลูกสร้างที่มีทายกเป็นเจ้าของ.
+<span class="LineNumber"> 011 </span>๒.  เป็นผู้ดูการปฏิสังขรณ์สิ่งหักพังชำรุดในอาราม.
+<span class="LineNumber"> 012 </span>       (๕)  หน้าที่ของเจ้าอธิการแห่งคลังแบ่งออกเป็น  ๒  คือ :-
+<span class="LineNumber"> 013 </span>๑.  ภัณฑาคริก  มีหน้าที่รักษาคลังเก็บพัสดุของสงฆ์.
+<span class="LineNumber"> 014 </span>๒.  อัปปมัตตกวิสัชชกะ  มีหน้าที่จ่ายของเล็กน้อยให้แก่ภิกษุ.
+<span class="LineNumber"> 015 </span>                  ข้อที่ภัณฑาคาริกภิกษุพึงรู้ดังนี้  คือ :-
+<span class="LineNumber"> 016 </span>๑.  ของที่เป็นครุภัณฑ์ควรเก็บ.
+<span class="LineNumber"> 017 </span>๒.  ของที่เป็นลหุภัณฑ์ไม่ควรเก็บ.

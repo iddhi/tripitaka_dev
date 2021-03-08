@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H3>สูตรที่  ๔</H3>
+ 
+<span class="LineNumber"> 002 </span>        [๓๙๙]  ๑๕๓.  ดูก่อนภิกษุทั้งหลาย       ปริเยสนา ๒ อย่างนี้
+<span class="LineNumber"> 003 </span>๒  อย่างเป็นไฉน คือ อามิสปริเยสนา การแสวงหาอามิส  ๑  ธรรมปริเยสนา
+<span class="LineNumber"> 004 </span>การแสวงหาธรรม  ๑  ดูก่อนภิกษุทั้งหลาย  ปริเยสนา ๒ อย่างนี้แล ดูก่อน
+<span class="LineNumber"> 005 </span>ภิกษุทั้งหลาย   บรรดาปริเยสนา ๒ อย่างนี้   ธรรมปริเยสนาเป็นเลิศ.
+<span class="LineNumber"> 006 </span>                                            จบสูตรที่ ๔ 
+
+<span class="LineNumber"> 007 </span>                                        <H3>สูตรที่  ๕</H3>
+
+<span class="LineNumber"> 008 </span>         [๔๐๐]  ๑๕๔.  ดูก่อนภิกษุทั้งหลาย       ปริเยฏฐิ   ๒ อย่างนี้ 
+<span class="LineNumber"> 009 </span>๒  อย่างเป็นไฉน    คือ    อามิสปริเยฏฐิ    การแสวงหาอามิสอย่างสูง  ๑
+<span class="LineNumber"> 010 </span>ธรรมปริเยฏฐิ  การแสวงหาธรรมอย่างสูง  ๑  ดูก่อนภิกษุทั้งหลาย   ปริเยฏฐิ
+<span class="LineNumber"> 011 </span>๒ อย่างนี้แล    ดูก่อนภิกษุทั้งหลาย  บรรดาปริเยฏฐิ  ๒ อย่างนี้   ธรรม- 
+<span class="LineNumber"> 012 </span>ปริเยฏฐิเป็นเลิศ.
+<span class="LineNumber"> 013 </span>                                            จบสูตรที่  ๕
+
+<span class="LineNumber"> 014 </span>                                        <H3>สูตรที่  ๖</H3>
+
+<span class="LineNumber"> 015 </span>         [๔๐๑]  ๑๕๕.  ดูก่อนภิกษุทั้งหลาย        การบูชา ๒ อย่างนี้ 
+<span class="LineNumber"> 016 </span>๒  อย่างเป็นไฉน  คือ  อามิสบูชา ๑   ธรรมบูชา  ๑  ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 017 </span>การบูชา ๒ อย่างนี้แล   ดูก่อนภิกษุทั้งหลาย   บรรดาการบูชา ๒  อย่างนี้
+<span class="LineNumber"> 018 </span>ธรรมบูชาเป็นเลิศ.
+<span class="LineNumber"> 019 </span>                                                จบสูตรที่  ๖

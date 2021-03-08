@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>๘. กาสาววรรค</H1>
+
+<span class="LineNumber"> 002 </span>                             <H1>๑. กาสาวชาดก</H1>
+
+<span class="LineNumber"> 003 </span>                  <H2>ว่าด้วยผู้ควรนุ่งห่มผ้ากาสาวะ</H2>
+<span class="LineNumber"> 004 </span>       <B>[๒๙๑]   ผู้ใดยังมีกิเลสดุจน้ำฝาด    ยังคายออกไม่ได้
+<span class="LineNumber"> 005 </span>         ปราศจากทมะและสัจจะ   จักนุ่งห่มผ้าย้อมน้ำฝาด
+<span class="LineNumber"> 006 </span>         ผู้นั้นย่อมไม่สมควรจะนุ่งห่มผ้าย้อมน้ำฝาดเลย.
+<span class="LineNumber"> 007 </span>       [๒๙๒]   ส่วนผู้ใดคายกิเลสดุจน้ำฝาดแล้ว       ตั้งมั่น
+<span class="LineNumber"> 008 </span>         อยู่ในศีลทั้งหลาย     ประกอบด้วยทมะและสัจจะ
+<span class="LineNumber"> 009 </span>         ผู้นั้นแลย่อมสมควรจะนุ่งห่มผ้าย้อมน้ำฝาดได้.</B>
+<span class="LineNumber"> 010 </span>                         <I>จบ กาสาวชาดกที่  ๑</I>
+
+<span class="LineNumber"> 011 </span>                     <H1>อรรถกถากาสาววรรคที่    ๘</H1>
+
+<span class="LineNumber"> 012 </span>                       <H1>อรรถกถาสาวชาดกที่   ๑</H1>
+
+<span class="LineNumber"> 013 </span>         พระศาสดาเมื่อประทับอยู่   ณ  พระเชตวันมหาวิหาร   ทรง
+<span class="LineNumber"> 014 </span>ปรารภพระเทวทัต      ตรัสพระธรรมเทศนานี้     มีคำเริ่มต้นว่า
+<span class="LineNumber"> 015 </span><B>อนิกฺกสาโว  กาสาวํ</B>  ดังนี้. แต่เรื่องเกิดขึ้นในกรุงราชคฤห์.
+<span class="LineNumber"> 016 </span>         สมัยหนึ่งพระธรรมเสนาบดีอยู่    ณ    เวฬุวันมหาวิหารกับ
+<span class="LineNumber"> 017 </span>ภิกษุ     ๕๐๐     รูป.    ครั้งนั้นพระเทวทัตห้อมล้อมไปด้วยบริษัท
+<span class="LineNumber"> 018 </span>ผู้ทุศีลสมควรแก่ตนอยู่    ณ    คยาสีสประเทศ.    สมัยนั้นชาวกรุง

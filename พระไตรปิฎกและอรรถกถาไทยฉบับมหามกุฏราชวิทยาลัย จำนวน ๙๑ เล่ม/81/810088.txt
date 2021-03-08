@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>อริยธัมมวิปากกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๑๗๙]  <B>สกวาที</B>  วิบากแห่งอริยธรรมไม่มี  หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. สามัญญะ<SUP>๑</SUP>   มีผลมาก พรหมัญญะ<SUP>๑</SUP>   มีผลมาก มิใช่หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ส. หากว่า  สามัญญะมีผลมาก  พรหมัญญะ   มีผลมากก็
+<span class="LineNumber"> 007 </span>ต้องไม่กล่าวว่าวิบากแห่งอริยธรรมไม่มี.
+<span class="LineNumber"> 008 </span>         [๑๑๘๐]   ส. วิบากแห่งอริยธรรมไม่มี หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. โสดาปัตติผลมีอยู่  มิใช่หรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ส. หากว่าโสดาปัตติผลมีอยู่     ก็ต้องไม่กล่าวว่า    วิบาก
+<span class="LineNumber"> 013 </span>แห่งอริยธรรมไม่มี.
+<span class="LineNumber"> 014 </span>                       ส. สกทาคามิผล  ฯลฯ  อนาคามิผล  อรหัตผล   มีอยู่มิใช่
+<span class="LineNumber"> 015 </span>หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                       ส. หากว่า  อรหัตผลมีอยู่   ก็ต้องไม่กล่าวว่า  วิบากแห่ง
+<span class="LineNumber"> 018 </span>อริยธรรมไม่มี.
+
+<span class='footnote'>๑. สามัญญะ - คุณเครื่องความเป็นสมณะ,  พรหมัญญะ -  คุณเครื่องความเป็นพรหมทั้ง  ๒  นี้ หมายถึง</span>
+<span class='footnote'>อริยมรรค.</span>

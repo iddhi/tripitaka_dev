@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>มานานุสยมูละ อวิชชานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         บุคคลใดละมานานุสัย    จากที่ใด,  ย่อมละอวิชชานุสัย  จากที่
+<span class="LineNumber"> 003 </span>นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า  บุคคลละอวิชชานุสัย    จากที่ใด,  ย่อมละมานานุสัย
+<span class="LineNumber"> 006 </span>จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         บุคคลละอวิชชานุสัย   จากที่นั้น    คือที่ทุกขเวทนา  แต่ไม่ใช่
+<span class="LineNumber"> 008 </span>ย่อมละมานานุสัย   จากที่นั้น,   บุคคลย่อมละอวิชชานุสัย   และย่อมละ
+<span class="LineNumber"> 009 </span>มานานุสัย    จากที่นั้น     คือที่เวทนา   ๒    ในกามธาตุ    ที่รูปธาตุ
+<span class="LineNumber"> 010 </span>อรูปธาตุ.
+<span class="LineNumber"> 011 </span>                      <I>จบ  มานานุสยมูละ อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 012 </span>                                    <I>มานานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 013 </span>                                       <H1>ทิฏฐานุสยมูล</H1>
+<span class="LineNumber"> 014 </span><H2>ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 015 </span>         [๑๓๖๘]   บุคคลละทิฏฐานุสัย      จากที่ใด, ย่อมละวิจิกิจฉา-
+<span class="LineNumber"> 016 </span>นุสัย   จากที่นั้น  ใช่ไหม ?

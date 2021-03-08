@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  43  หน้า  306
+
+<span class="LineNumber"> 002 </span>			ขณฺฑผุลฺลิยตฺเถราปทานวณฺณนา  
+<span class="LineNumber"> 003 </span>	ตติยตฺเถรสฺส  อปทาเน  ขณฺฑผุลฺลิยตฺเถโรติ  เอตฺถ  
+<span class="LineNumber"> 004 </span>ขณฺฑนฺติ  กฏฺ€านํ  ชิณฺณตฺตา  ฉินฺนภินฺนฏฺ€านํ  ผุลฺลนฺติ  กฏฺ€านํ  
+<span class="LineNumber"> 005 </span>ชิณฺณฏฺ€าเน  กณฺณกิตมหิจฺฉตฺตกาทิปุปฺผนํ  ขณฺฑฺจ  ผุลฺลฺจ  
+<span class="LineNumber"> 006 </span>ขณฺฑผุลฺลานิ  ขณฺฑผุลฺลานํ  ปฏิสงฺขรณํ  (๑)  ปุนปฺปุนํ  ถิรกรณนฺติ  
+<span class="LineNumber"> 007 </span>ขณฺฑผุลฺลปฏิสงฺขรณํ ฯ  อิมสฺส  ปน เถรสฺส  สมฺภารปูรณกาเล  
+<span class="LineNumber"> 008 </span>ผุสฺสสฺส  ภควโต  เจติเย  ฉินฺนภินฺนฏฺ€าเน สุธาปิณฺฑํ มกฺเขตฺวา  
+<span class="LineNumber"> 009 </span>ถิรกรณํ  ขณฺฑผุลฺลปฏิสงฺขรณํ  นาม ฯ  ตสฺมา  โส  ขณฺฑผุลฺลิโย  
+<span class="LineNumber"> 010 </span>เถโรติ  ปากโฏ  อโหสิ ฯ ตติยํ ฯ  
+<span class="LineNumber"> 011 </span>		ขณฺฑผุลฺลิยตฺเถราปทานวณฺณนา นิฏฺ€ิตา ฯ  
+
+<span class="LineNumber"> 012 </span>	จตุตฺถตฺเถรสฺสาปทาเน  รฺโ  ปฏฺ€จโร  (๒)  อหนฺติ  รฺโ 
+<span class="LineNumber"> 013 </span>ปริจารโก  กมฺมการโก อโหสินฺติ อตฺโถ ฯ  
+<span class="LineNumber"> 014 </span>	ชลชุตฺตมนามิโนติ  ชเล  อุทเก  ชาตํ  ชลชํ  กึ  ตํ  ปทุมํ  
+<span class="LineNumber"> 015 </span>ปทุเมน  สมานนามตฺตา  ปทุมุตฺตรสฺส  ภควโตติ  อตฺโถ ฯ  
+<span class="LineNumber"> 016 </span>อุตฺตมปทุมนามสฺส  ภควโตติ  วา  อตฺโถ ฯ จตุตฺถํ ฯ  
+<span class="LineNumber"> 017 </span>	ปฺจมํ อุตฺตานตฺถเมว ฯ  
+<span class="LineNumber"> 018 </span># ๑. ปฏิสงฺขรณํ นาม ฯ   ๒ ม.  พทฺธจโร ฯ  

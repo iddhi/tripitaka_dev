@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>๑๙.  สัมปยุตตปัจจัย</H1> 
+<span class="LineNumber"> 002 </span>           <B>ฯลฯ   เป็นปัจจัย   ด้วยอำนาจของสัมปยุตตปัจจัย.</B>
+<span class="LineNumber"> 003 </span>           ใน ๒ ปัจจัยนี้  มี ๙ วาระ.
+
+<span class="LineNumber"> 004 </span>                                <H1>๒๐.  วิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๓๒] ๑.  <B>เหตุธรรม เป็นปัจจัยแก่นเหตุธรรม ด้วยอำนาจของ
+<span class="LineNumber"> 006 </span>วิปปยุตตปัจจัย.</B>
+<span class="LineNumber"> 007 </span>           มี ๒ อย่าง   คือที่เป็น   <B>สหชาตะ</B>   และ   <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 008 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 009 </span>           เหตุธรรมทั้งหลาย  เป็นปัจจัยแก่จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจ
+<span class="LineNumber"> 010 </span>ของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 011 </span>           ในปฏิสนธิขณะ   เหตุธรรมทั้งหลาย   เป็นปัจจัยแก่กฏัตตารูปทั้งหลาย
+<span class="LineNumber"> 012 </span>ด้วยอำนาจของวิปปยุตตปัจจัย,   เหตุธรรมทั้งหลาย  เป็นปัจจัยแก่หทัยวัตถุ ด้วย
+<span class="LineNumber"> 013 </span>อำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 014 </span>           ที่เป็น  <B>ปัจฉาชาตะ</B>  ได้แก่
+<span class="LineNumber"> 015 </span>           เหตุธรรมทั้งหลาย     เป็นปัจจัยแก่กายนี้ที่เกิดก่อน     ด้วยอำนาจของ
+<span class="LineNumber"> 016 </span>วิปปยุตตปัจจัย.
+<span class="LineNumber"> 017 </span>                     ๒.  <B>นเหตุธรรม  เป็นปัจจัยแก่นเหตุธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 018 </span>ของวิปปยุตตปัจจัย.</B>
+<span class="LineNumber"> 019 </span>           มี ๓ อย่าง   คือที่เป็น   <B>สหชาตะ   ปุเรชาตะ</B>   และ   <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 020 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  496
+	
+<span class="LineNumber"> 002 </span>		จตุทฺทสานิ กปฺปานิ	เทวรชฺชํ กริสฺสติ  
+<span class="LineNumber"> 003 </span>		กูฏาคารํ มหนฺตสฺส(๑)	ปทุมปุปฺเผหิ (๒) ฉาทิตํ ฯ  
+<span class="LineNumber"> 004 </span>		อากาเส ธารยิสฺสติ(๓)	ปุปฺ(๔)ผกมฺมสฺสิทํ ผลํ  
+<span class="LineNumber"> 005 </span>		จตุพฺพีเส(๕) กปฺปสเต	โวกิณฺณํ สํสริสฺสติ ฯ  
+<span class="LineNumber"> 006 </span>		ตตฺถ ปุปฺผมยํ พฺยมฺหํ	อากาเส ธารยิสฺสติ  
+<span class="LineNumber"> 007 </span>		ยถา ปทุมปตฺตมฺหิ		โตยํ น อุปลิมฺปติ ฯ  
+<span class="LineNumber"> 008 </span>		ตเถวีมสฺส าณมฺหิ	กิเลสา โนปลิมฺปเร  
+<span class="LineNumber"> 009 </span>		มนสา วินิวฏฺเฏตฺวา	ปฺจ นีวรเณ อยํ ฯ  
+<span class="LineNumber"> 010 </span>		จิตฺตํ ชเนตฺวา เนกฺขมฺเม	อคารา ปพฺพชิสฺสติ  
+<span class="LineNumber"> 011 </span>		ตโต ปุปฺผมเย พฺยมฺเห	ธาเรนฺเต(๖) นิกฺขมิสฺสติ ฯ  
+<span class="LineNumber"> 012 </span>		รุกฺขมูเล วสนฺตสฺส		นิปกสฺส สตีมโต  
+<span class="LineNumber"> 013 </span>		ตตฺถ ปุปฺผมยํ พฺยมฺหํ	มตฺถเก ธารยิสฺสติ ฯ  
+<span class="LineNumber"> 014 </span>		จีวรํ ปิณฺฑปาตฺจ		ปจฺจยํ สยนาสนํ  
+<span class="LineNumber"> 015 </span>		ททิตฺวาน(๗) ภิกฺขุสํฆสฺส  นิพฺพายิสฺสตินาสโว ฯ  
+<span class="LineNumber"> 016 </span>		กูฏาคาเรน จรตา (๘)	ปพฺพชฺชํ อภินิกฺขมึ(๙)  
+<span class="LineNumber"> 017 </span>		รุกฺขมูเล วสนฺตมฺปิ	กูฏาคารํ ธรียติ ฯ  
+<span class="LineNumber"> 018 </span># ๑. สฺยา. พฺรหนฺตสฺส ฯ  ๒. สฺยา. ปทุมปุปฺเผหิ ฯ 
+<span class="LineNumber"> 019 </span># ๓. สฺยา. ธารยิสฺสนฺติ ฯ ๔. สฺยา. ปุพฺพ... ฯ 
+<span class="LineNumber"> 020 </span># ๕. สฺยา. จตุทฺทเส ฯ  ๖. สฺยา. ปุปฺผมยํ พฺยมฺหํ ธาเรนฺตํ ฯ
+<span class="LineNumber"> 021 </span># ๗. สฺยา. สี. ททิตฺวา ฯ  ๘. สฺยา. จริเต ฯ สี. กูฏาคาเรว ธรณา ฯ
+<span class="LineNumber"> 022 </span># ยุ. จรณา ฯ ๙. สฺยา. อภินิกฺขมิ ฯ 

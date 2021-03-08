@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 337
+
+<span class="LineNumber"> 002 </span>สทฺธึ กนฺทนฺตา(๑) ราชทฺวารํ  อคมํสุ ฯ  ราชา  มหนฺตํ  
+<span class="LineNumber"> 003 </span>ปริเทวนสทฺทํ  สุตฺวา  สีหปฺชรํ  วิวริตฺวา[๒]  กสฺมา  ปริเทวถาติ  
+<span class="LineNumber"> 004 </span>ปุจฺฉิ ฯ  อถสฺส  เต  เทว  โส  กิร  มาณโว  น  พฺราหฺมโณ 
+<span class="LineNumber"> 005 </span>ยกฺโข  พฺราหฺมณรูเปน(๓)  อาคนฺตฺวา  ปณฺฑิตํ  อาทาย  คโต 
+<span class="LineNumber"> 006 </span>เตน  วินา  อมฺหากํ  ชีวิตํ  นตฺถิ  สเจ(๔)  อิโต  สตฺตเม  ทิวเส  
+<span class="LineNumber"> 007 </span>ปณฺฑิโต  นาคมิสฺสติ  มยํ  สกฏสเตหิ  สกฏสหสฺเสหิ  ทารูนิ(๕) 
+<span class="LineNumber"> 008 </span>สํกฑฺฒิตฺวา  สพฺเพ อคฺคึ ปวิสิสฺสามาติ อิมมตฺถํ อาโรเจนฺตา
+<span class="LineNumber"> 009 </span>อิมํ คาถมาหํสุ ฯ  
+<span class="LineNumber"> 010 </span>	[๙๘๓]สเจ โส สตฺตรตฺเตน	ปณฺฑิโต นาคมิสฺสติ(๖)  
+<span class="LineNumber"> 011 </span>		สพฺเพ อคฺคึ ปวิสฺสาม(๗)	นตฺถตฺโถ ชีวิเตน โนติ ฯ  
+<span class="LineNumber"> 012 </span>	สมฺมาสมฺพุทฺธปรินิพฺพานกาเลปิ(๘)  มยํ  อคฺคึ  ปวิสิตฺวา
+<span class="LineNumber"> 013 </span>มริสฺสามาติ  วตฺตาโร (๙) นาเหสุํ  อโห  สุวสิตํ  มหาสตฺเตน 
+<span class="LineNumber"> 014 </span>นครมฺหีติ ฯ  ราชา  เตสํ  กถํ  สุตฺวา  ตุมฺเห  มา  จินฺตยิตฺถ  มา 
+<span class="LineNumber"> 015 </span>โสจิตฺถ  มา ปริเทวิตฺถ  มธุรกโถ  ปณฺฑิโต  มาณวํ  ธมฺมกถาย 
+<span class="LineNumber"> 016 </span>ปโลเภตฺวา  อตฺตโน  ปาเทสุ  ปาเตตฺวา [๑๐]  น  จิรสฺเสว
+<span class="LineNumber"> 017 </span>อมฺหากํ  อสฺสุมุขานิ  หาเสนฺโต  อาคมิสฺสติ  มา โสจยิตฺถาติ 
+<span class="LineNumber"> 018 </span>วตฺวา คาถมาห  
+<span class="LineNumber"> 019 </span># ๑. ม. โรทิตฺวา ฯ  ๒. ม. เอตฺถนฺตเร ตุมฺเหติ ทิสฺสติ ฯ 
+<span class="LineNumber"> 020 </span># ๓. ม. ยกฺโข ปน พฺราหฺมณวณฺเณน ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. สเจ โส ฯ ๕. ม.สกฏสหสฺเสหิ จ ทารูนิ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. นาคจฺฉิสฺสติ ปณฺฑิโต ฯ  ๗. ม. ปเวกฺขาม ฯ 
+<span class="LineNumber"> 023 </span># ๘. ม. สมฺมาสมฺพุทฺธสฺส ปรินิพฺพุตกาเลปิ ฯ 
+<span class="LineNumber"> 024 </span># ๙. ม. วตฺตาโร นาม ฯ  ๑๐. ม. เอตฺถนฺตเร สกลนครวาสีนนฺติ
+<span class="LineNumber"> 025 </span># ทิสฺสติ ฯ 

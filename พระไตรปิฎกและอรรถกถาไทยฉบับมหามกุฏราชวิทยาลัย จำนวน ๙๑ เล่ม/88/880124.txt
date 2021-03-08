@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๓.  เหตุสัมปยุตตทุกะ</H1>
+<span class="LineNumber"> 002 </span>                                          <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 004 </span>                                        <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๐๓] ๑.  <B>เหตุสัมปยุตตธรรม   อาศัยเหตุสัมปยุตตธรรม  เกิด 
+<span class="LineNumber"> 006 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ ขันธ์ ๓ อาศัยขันธ์ ๑  ที่เป็นเหตุสัมปยุตตธรรม ฯลฯ ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 008 </span>ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 009 </span>                     ๒.  <B>เหตุวิปปยุตตธรรม  อาศัยเหตุสัมปยุตตธรรม เกิด
+<span class="LineNumber"> 010 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นเหตุสัมปยุตตธรรม.
+<span class="LineNumber"> 012 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 013 </span>           พึงให้พิสดาร  ด้วยเหตุนี้   เหมือนกับสเหตุกทุกะ   ไม่มีแตกต่างกัน.
+<span class="LineNumber"> 014 </span>                                   <I>เหตุสัมปยุตตทุกะ  จบ</I>

@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 003 </span>                                      <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๓๐๒] ๑.  <B>โลกิยธรรม  เจือกับโลกิยธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์ ๑  ที่เป็นโลกิยธรรม ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 008 </span>                     ๒.  <B>โลกุตตรธรรม    เจือกับโลกุตตรธรรม    เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ ๓  เจือกับขันธ์ ๑  ที่เป็นโลกุตตรธรรม ฯลฯ ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 011 </span>           สังสัฏฐวาระพึงให้พิสดารอย่างนี้   พร้อมด้วยการนับ   มี ๒ วาระ.
+<span class="LineNumber"> 012 </span>           สัมปยุตตวาระ  เหมือนกับสังสัฏฐวาระ.

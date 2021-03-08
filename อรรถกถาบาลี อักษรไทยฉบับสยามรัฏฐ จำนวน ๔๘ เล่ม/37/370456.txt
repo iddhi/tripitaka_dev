@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  456
+
+<span class="LineNumber"> 002 </span>		อคฺคยานํ ราชวาหึ		พฺราหฺมณานํ อทา(๑) ธนํ 
+<span class="LineNumber"> 003 </span>		ตสฺมึ เม สิวิโย กุทฺธา	ปิตา จุปหโตมโน  
+<span class="LineNumber"> 004 </span>		อวรุทฺธสิ มํ ราชา		วงฺกํ คจฺฉามิ ปพฺพตํ  
+<span class="LineNumber"> 005 </span>		โอกาสํ สมฺมา ชนาถ	วเน ยตฺถ วเสมฺหเสติ(๒) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ตสฺมึ  เมติ  ตสฺมึ  การเณ  มยฺหํ  สิวิโย(๓)  กุทฺธา ฯ  
+<span class="LineNumber"> 007 </span>อุปหโตมโนติ  อุปหตจิตฺโต  กุทฺโธว  หุตฺวา  มํ  รฏฺ€า 
+<span class="LineNumber"> 008 </span>ปพฺพาเชสิ ฯ  ยตฺถาติ  ยสฺมึ  วเน  มยํ  วเสยฺยาม  ตตฺถ  โน
+<span class="LineNumber"> 009 </span>วสโนกาสํ ชานาถาติ  อาห ฯ  
+<span class="LineNumber"> 010 </span>	ตโต ราชาโน อาหํสุ  
+<span class="LineNumber"> 011 </span>	[๑๑๑๕]สฺวาคตนฺเต มหาราช	อโถ เต อทุราคตํ  
+<span class="LineNumber"> 012 </span>		อิสฺสโรสิ อนุปฺปตฺโต	ยํ อิธตฺถิ ปเวทย  
+<span class="LineNumber"> 013 </span>		สากํ ภึสํ(๔) มธุมํสํ(๔)	สุทฺธสาลินโมทนํ  
+<span class="LineNumber"> 014 </span>		ปริภุฺช มหาราช		ปาหุโน โนสิ อาคโตติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  ปเวยาติ  กเถหิ  สพฺพํ  ปฏิยาเทตฺวา  ทสฺสาม ฯ 
+<span class="LineNumber"> 016 </span>ภึสนฺติ  ภึสมูลํ ยงฺกิฺจิ กนฺทชาตํ ฯ  
+<span class="LineNumber"> 017 </span>	ตโต เวสฺสนฺตโร อาห  
+<span class="LineNumber"> 018 </span>	[๑๑๑๖]ปฏิคฺคหิตํ ยํ ทินฺนํ	สพฺพสฺส อคฺฆิยํ กตํ  
+<span class="LineNumber"> 019 </span>		อวรุทฺธสิ มํ ราชา		วงฺกํ คจฺฉามิ ปพฺพตํ  
+<span class="LineNumber"> 020 </span>		โอกาสํ สมฺมา ชานาถ	วเน ยตฺถ วเสมฺหเสติ(๒) ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. อทาสหํ ฯ  ๒. ม.วสามเสติ ฯ  ๓. ม. สิวโย ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. ภิสํ มธุํ มํสํ ฯ

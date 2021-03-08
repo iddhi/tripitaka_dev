@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  305
+
+<span class="LineNumber"> 002 </span>			สมฺปยุตฺตกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  สมฺปยุตฺตกถา  นาม  โหติ ฯ  ตตฺถ  ยสฺมา  ติลมฺหิ 
+<span class="LineNumber"> 004 </span>เตลํ  วิย  น  เวทนาทโย  สฺาทีสุ  อนุปวิฏฺ€า  ตสฺมา  นตฺถิ 
+<span class="LineNumber"> 005 </span>เกจิ  ธมฺมา  เกหิจิ  ธมฺเมหิ  สมฺปยุตฺตา  เอวํ สนฺเต าณ-
+<span class="LineNumber"> 006 </span>สมฺปยุตฺตนฺติอาทิ นิรตฺถกํ โหตีติ เยสํ  ลทฺธิ  เสยฺยถาปิ
+<span class="LineNumber"> 007 </span>ราชคิริกานฺเจว  สิทฺธตฺถิกานฺจ  (๑)  เต  สนฺธาย อฺเเนวตฺเถน
+<span class="LineNumber"> 008 </span>สมฺปยุตฺตตํ  ทสฺเสตุํ  ปุจฺฉา  สกวาทิสฺส  อตฺตโน  ลทฺธิวเสน
+<span class="LineNumber"> 009 </span>ปฏิฺา  อิตรสฺส ฯ  เสสมิธาปิ  เหฏฺ€า  วุตฺตนยตฺตา  อุตฺตา-
+<span class="LineNumber"> 010 </span>นตฺถเมว ฯ โย ปเนโส (๒)  ปรวาทินา  ยถา  ติลมฺหิ  เตลนฺติ-
+<span class="LineNumber"> 011 </span>อาทิโก  อุปมาปโฺห  อาหโฏ  โส  ยสฺมา  เวทนาสฺานํ
+<span class="LineNumber"> 012 </span>วิย  ติลเตลานํ  ลกฺขณโต  นานตฺตววตฺถานํ  นตฺถิ ฯ  สพฺเพสุปิ
+<span class="LineNumber"> 013 </span>หิ  ติลอฏฺ€ิตเจสุ  ติโลติ  โวหารมตฺตํ  เตเนว  ติลํ  นิพฺพตฺเตตฺวา
+<span class="LineNumber"> 014 </span>คหิตํ(๓) ปุริมสณฺ€าเนน ติโล นาม น ปฺายติ ตสฺมา
+<span class="LineNumber"> 015 </span>อนาหฏสทิโสว โหตีติ ฯ 
+<span class="LineNumber"> 016 </span>		สมฺปยุตฺตกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 017 </span># ๑. ม. ราชคิริกสิทฺธตฺถิกานฺเว ฯ  ๒. ม. ปเนส ฯ
+<span class="LineNumber"> 018 </span># ๓. ม. คหิเต ฯ

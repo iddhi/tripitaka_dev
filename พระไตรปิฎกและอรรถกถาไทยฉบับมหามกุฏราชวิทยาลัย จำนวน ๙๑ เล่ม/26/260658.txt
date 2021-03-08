@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๔.  สุวัณณนิกขสตสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                               <H2>ว่าด้วยลาภสักการะ</H2>
+
+<span class="LineNumber"> 003 </span>         . . .ดูก่อนภิกษุทั้งหลาย  เรากำหนดใจด้วยใจแล้ว  ย่อมรู้บุคคล
+<span class="LineNumber"> 004 </span>บางคนในโลกนี้อย่างนี้ว่า   แม้เพราะร้อยแห่งแท่งทองคำเป็นเหตุ. . .
+<span class="LineNumber"> 005 </span>                              จบสุวัณณนิกขสตสูตรที่  ๔
+
+<span class="LineNumber"> 006 </span>                                 <H1>๕.  สิงคินิกขสูตร</H1>
+
+<span class="LineNumber"> 007 </span>                               <H2>ว่าด้วยลาภสักการะ</H2>
+
+<span class="LineNumber"> 008 </span>         . . .ดูก่อนภิกษุทั้งหลาย   เรากำหนดรู้ใจด้วยใจแล้ว  ย่อมรู้บุคคล
+<span class="LineNumber"> 009 </span>บางคนในโลกนี้อย่างนี้ว่า   แม้เพราะแท่งทองสิงคิเป็นเหตุ. . .
+<span class="LineNumber"> 010 </span>                                จบสิงคินิกขสูตรที่  ๕
+
+<span class="LineNumber"> 011 </span>                                  <H1>๖.  สิงคินิกขสตสูตร</H1>
+
+<span class="LineNumber"> 012 </span>                               <H2>ว่าด้วยลาภสักการะ</H2>
+
+<span class="LineNumber"> 013 </span>         . . .ดูก่อนภิกษุทั้งหลาย   เรากำหนดรู้ใจด้วยใจแล้ว  ย่อมรู้บุคคล
+<span class="LineNumber"> 014 </span>บางคนในโลกนี้อย่างนี้ว่า  แม้เพราะร้อยแห่งแท่งทองสิงคิเป็นเหตุ. . .
+<span class="LineNumber"> 015 </span>                              จบสิงคินิกขตสูตรที่   ๖

@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>       	                            <H1>มโนรถปูรณี</H1>
+<span class="LineNumber"> 002 </span>                <H1>อรรถกถาอังคุตตรนิกาย  สัตตกนิบาต</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>ปฐมปัณณาสก์</H1>
+<span class="LineNumber"> 004 </span>                	                      <H1>ธนวรรคที่  ๑</H1>
+<span class="LineNumber"> 005 </span>         	                      <H2>อรรถกถาอัปปิยสุตรที่  ๑</H2>
+<span class="LineNumber"> 006 </span>         สัตตกนิบาต    ปิยสูตรที่   ๑   มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 007 </span>         บทว่า  <B>อนวญฺตฺติกาโม</B>   แปลว่า   ผู้ประสงค์เพื่อเป็นผู้มีชื่อเสียง.
+<span class="LineNumber"> 008 </span>                 	              <I>จบอรรถกถาอัปปิยสูตรที่  ๑</I>

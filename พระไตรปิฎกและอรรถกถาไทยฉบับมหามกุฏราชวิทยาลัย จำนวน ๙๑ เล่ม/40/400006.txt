@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	                       <H3>ธัมมปทัฏฐกถา</H3>
+<span class="LineNumber"> 002 </span>                      <H2>อรรถกถาขุททกนิกาย   คาถาธรรมบท</H2>     
+
+<span class="LineNumber"> 003 </span>	                          <H1>คำนมัสการ</H1>
+<span class="LineNumber"> 004 </span>                     <B>ข้าพเจ้า<SUP>๑</SUP>  อันพระกุมารกัสสปเถระ<SUP>๒</SUP> ผู้ฝึกตน
+<span class="LineNumber"> 005 </span>          เรียบร้อยแล้ว    ประพฤติสม่ำเสมอโดยปกติ   มีจิต
+<span class="LineNumber"> 006 </span>          มั่นคง  ใคร่ความดำรงมั่นแห่งพระสัทธรรม  หวังอยู่ว่า
+<span class="LineNumber"> 007 </span>          " พระอรรถกถา  อันพรรณนาอรรถแห่งพระธรรมบท
+<span class="LineNumber"> 008 </span>          อันงาม      ที่พระศาสดาผู้ฉลาดในสภาพที่เป็นธรรม
+<span class="LineNumber"> 009 </span>          และมิใช่ธรรม    มีบทคือพระสัทธรรมถึงพร้อมแล้ว  มี
+<span class="LineNumber"> 010 </span>          พระอัธยาศัยอันกำลังแห่งพระกรุณาให้อุตสาหะด้วย
+<span class="LineNumber"> 011 </span>          ได้แล้ว  ทรงอาศัยเหตุนั้น  ๆ  แสดงแล้ว    เป็นเครื่อง
+<span class="LineNumber"> 012 </span>          เจริญปีติปราโมทย์      ของเทวดาและมนุษย์ทั้งหลาย
+<span class="LineNumber"> 013 </span>          เป็นคำที่สุขุมละเอียด   นำสืบ ๆ กันมา   ตั้งอยู่แล้ว
+<span class="LineNumber"> 014 </span>          ในตามพปัณณิทวีป<SUP>๓</SUP>   โดยภาษาของชาวเกาะ   ยังไม่
+<span class="LineNumber"> 015 </span>          ทำความถึงพร้อมแห่งประโยชน์   ให้สำเร็จแก่สัตว์
+<span class="LineNumber"> 016 </span>          ทั้งหลายที่เหลือได้.     ไฉนพระอรรถกถาแห่งพระ-</B>
+
+<span class='footnote'>๑.  พระพุทธโฆษาจารย์.  ๒.  เป็นนามพระสังฆเถระองค์หนึ่ง  ในสมัยพระพุทธ</span>
+<span class='footnote'>โฆษาจารย์ไม่ใช่พระกุมารกัสสป  ในสมัยพุทธกาล. ๓.  เกาะเป็นที่อยู่ของชาวชน</span>
+<span class='footnote'>ที่มีฝ่ามือแดง  คือ  เกาะลังกา [Ceylon].</span>
+

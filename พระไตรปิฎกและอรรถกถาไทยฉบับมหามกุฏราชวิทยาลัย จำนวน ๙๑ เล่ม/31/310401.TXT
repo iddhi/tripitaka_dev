@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>๑๐.  หาสปัญญสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                 <H1>เจริญธรรม   ๔   ประการเพื่อมีปัญญาร่าเริง</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๖๕๐]   ... ย่อมเป็นไปเพื่อความเป็นผู้มีปัญญาร่าเริง ...
+<span class="LineNumber"> 004 </span>                                    <I>จบหาสปัญญสูตรที่    ๑๐</I>
+
+<span class="LineNumber"> 005 </span>                                   <H1>๑๑.  ชวนปัญญสูตร</H1>
+
+<span class="LineNumber"> 006 </span>                   <H1>เจริญธรรม   ๔   ประการเพื่อมีปัญญาไว</H1>
+
+<span class="LineNumber"> 007 </span>           [๑๖๕๑]  ... ย่อมเป็นไปเพื่อความมีปัญญาไว ...
+<span class="LineNumber"> 008 </span>                                   <I>จบชวนปัญญสูตรที่  ๑๑</I>
+
+<span class="LineNumber"> 009 </span>                                   <H1>๑๒.  ติกขปัญญสูตร</H1>
+
+<span class="LineNumber"> 010 </span>                   <H1>เจริญธรรม  ๔  ประการเพื่อมีปัญญากล้า</H1>
+
+<span class="LineNumber"> 011 </span>           [๑๖๕๒]  ... ย่อมเป็นไปเพื่อความมีปัญญาคมกล้า ...
+<span class="LineNumber"> 012 </span>                                    <I>จบติกขปัญญสูตรที่   ๑๒</I>

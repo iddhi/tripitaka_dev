@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  608
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  สคฺคํ  โส  อุปปชฺชถาติ  ตโต  จุโต  ทุติยจิตฺเตน 
+<span class="LineNumber"> 003 </span>ตุสิตปุเร  อุปปชฺชิ (๑)ฯ  
+<span class="LineNumber"> 004 </span>	สตฺถา  อิมํ  คาถาสหสฺสปฏิมณฺฑิตํ  มหาเวสฺสนฺตร-
+<span class="LineNumber"> 005 </span>ธมฺมเทสนํ  อาหริตฺวา  เอวํ  ภิกฺขเว  ปุพฺเพปิ  มม  าติสมาคเม 
+<span class="LineNumber"> 006 </span>มหาเมโฆ  โปกฺขรวสฺสํ  วสฺสิเยวาติ  วตฺวา  ชาตกํ 
+<span class="LineNumber"> 007 </span>สโมธาเนสิ ฯ  ตทา  ชูชโก  เทวทตฺโต  อโหสิ  อมิตฺตตาปนา 
+<span class="LineNumber"> 008 </span>จิฺจมาณวิกา  เจตปุตฺโต  ฉนฺโน  อจฺจุตตาปโส  สาริปุตฺโต
+<span class="LineNumber"> 009 </span>สกฺโก  อนุรุทฺโธ  สฺชยนรินฺโท  สุทฺโธทนมหาราชา  ผุสฺสตี  
+<span class="LineNumber"> 010 </span>เทวี  มหามายา(๒)  มทฺที  เทวี  ราหุลมาตา  ชาลิกุมาโร  ราหุโล
+<span class="LineNumber"> 011 </span>กณฺหาชินา  อุปลวณฺณา  เสสปริสา  พุทฺธปริสา  เวสฺสนฺตโร
+<span class="LineNumber"> 012 </span>ราชา ปน อหเมว สมฺมาสมฺพุทฺโธติ(๓) ฯ  
+<span class="LineNumber"> 013 </span>			นครกณฺฑํ นิฏฺ€ิตํ(๔) ฯ  
+<span class="LineNumber"> 014 </span>		เวสฺสนฺตรชาตกวณฺณนา สมตฺตา(๕) ฯ  
+<span class="LineNumber"> 015 </span>					[๖]
+<span class="LineNumber"> 016 </span># ๑. ม. อุปฺปชฺชีติ ฯ ๒. ม. สิริมหามายา ฯ ๓. ม. สมฺมาสมฺพุทฺโธ 
+<span class="LineNumber"> 017 </span># อโหสินฺติ ฯ ๔. ม.นครกณฺฑวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 018 </span># ๕. ม. มหานิปาตวณฺณนา นิฏฺ€ิตา ฯ ๖. ม. เอตฺถนฺตเร 
+<span class="LineNumber"> 019 </span># ชาตกฏฺ€กถา สมตฺตาติ ทิสฺสนฺติ ฯ 

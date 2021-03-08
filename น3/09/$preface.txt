@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                             คำชี้แจง
+<span class="LineNumber"> 002 </span>	มหาสติปัฏฐานสูตรแปล  และ คิริมานนทสูตรแปลนี้  เป็นสำนวน
+<span class="LineNumber"> 003 </span>คำแปลของสมเด็จพระพุทธโฆษาจารย์  (เจริญ  าณวโร)  วัดเทพ-
+<span class="LineNumber"> 004 </span>ศิรินทราวาส  ครั้งยังเป็นพระสาสนโสภณ  มีภาษาบาลี  (ในวงเล็บ)
+<span class="LineNumber"> 005 </span>และคำแปล  เรียงกันไปตลอดเรื่อง  ภายหลังมีการแก้ไข  ๒  ครั้ง  คือ
+<span class="LineNumber"> 006 </span>	ครั้งที่  ๑  เมื่อพิมพ์ครั้งที่ ๘  ได้เอาวงเล็บออกแล้วพิมพ์ภาษา
+<span class="LineNumber"> 007 </span>บาลีด้วยตัวดำ ให้ต่างจากคำแปล  และตั้งข้อย่อหน้าขึ้นใหม่  เพื่อให้
+<span class="LineNumber"> 008 </span>กำหนดจดจำได้สะดวก
+<span class="LineNumber"> 009 </span>	ครั้งที่ ๒  เมื่อพิมพ์ครั้งที่ ๑๐  ได้แก่ไขคำแปลบางคำใหม่  ตาม
+<span class="LineNumber"> 010 </span>ที่ท่านผู้แปลได้แก้ไขส่งมาให้
+<span class="LineNumber"> 011 </span>	ในการพิมพ์ครั้งที่  ๑๘  นี้  ได้แก่ไขระเบียบพิมพ์ใหม่  คือ  พิมพ์
+<span class="LineNumber"> 012 </span>คำบาลีและคำแปลไว้ในหน้าเดียวกัน  โดยแยกพิมพ์คำบาลีไว้ข้างซ้าย
+<span class="LineNumber"> 013 </span>พิมพ์คำแปลไว้ข้างขวา  ตามระเบียบที่นิยมใช้อยู่ในปัจจุบัน  ส่วน
+<span class="LineNumber"> 014 </span>คำแลคงไว้ตามเดิมทั้งสิ้น
+<span class="LineNumber"> 015 </span>	อนึ่ง  คำว่า  "<B>อสฺสสติ</B>"  และ  "<B>ปสฺสสติ</B>"  ตามนัยแห่ง
+<span class="LineNumber"> 016 </span>อรรถกถาพระวินัยว่า  "หายใจออก"  และ  "หายใจเข้า"  ส่วน
+<span class="LineNumber"> 017 </span>ตามนัยแห่งอรรถกถาพระสูตรว่า  "หายใจเข้า"  และ  "หายใจออก"
+<span class="LineNumber"> 018 </span>ตรงตามรูปศัพท์และลักวิชาแพทย์  แต่ในที่นี้  ท่านแปลว่า  "หายใจ
+<span class="LineNumber"> 019 </span>ออก"  และ  "หายใจเข้า"  ตามนัยแห่งอรรถกถาพระวินัย  จึงทำ
+<span class="LineNumber"> 020 </span>เชิงอรรถไว้ให้ทราบ  หาได้แก่ไม่.
+<span class="LineNumber"> 021 </span>								<B>แผนกตำรา</B>
+<span class="LineNumber"> 022 </span>มหามกุฎราชวิทยาลัย
+<span class="LineNumber"> 023 </span>๒๔  มกราคม  ๒ค๒๓
+

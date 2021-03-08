@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>นนิยยานิกทุกนสนิทัสสนติกะ</H1>   
+<span class="LineNumber"> 002 </span>                                <H1>นิยยานิกทุกสนิทัสสนติกะ</H1>
+<span class="LineNumber"> 003 </span>          <H2>(๙๗.  นิยยานิกทุกะ  ๒๒.  สนิทัสสนติกะ)</H2>		
+<span class="LineNumber"> 004 </span>                                          <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                        <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                               <H2>สนิทัสสนสัปปฏิฆบท</H2>
+<span class="LineNumber"> 008 </span>           [๕๔๕] ๑.  <B>สนิทัสสนสัปปฏิฆธรรม   ที่เป็นอนิยยานิกธรรม
+<span class="LineNumber"> 009 </span>อาศัยธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม    ที่ไม่ใช่นิยยานิกธรรม
+<span class="LineNumber"> 010 </span>เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๕๔๖]  ในเหตุปัจจัย  มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 013 </span>       <I>นนิยยานิกทุกนสนิทัสสนติกนิยยานิกทุกสนิทัสสนติกะ  จบ</I>

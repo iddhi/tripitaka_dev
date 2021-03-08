@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span><B>จักขุนทริยมูละ  อัญญินทริยมูลี:-</B>
+<span class="LineNumber"> 002 </span>         [๑๔๓๗ ]   บุคคลใดเคยรู้แจ้งจักขุนทรีย์,   บุคคลนั้นก็จักเจริญ
+<span class="LineNumber"> 003 </span>อัญญินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         ไม่ใช่.
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   บุคคลใดจักเจริญอัญญินทรีย์,   บุคคลนั้นก็เคยรู้แจ้ง
+<span class="LineNumber"> 006 </span>จักขุนทรีย์  ใช่ไหม  ? 
+<span class="LineNumber"> 007 </span>         ไม่ใช่.
+<span class="LineNumber"> 008 </span>                         <I>จบ  จักขุนทริยมูละ    อัญญินทริยมูลี</I>
+
+<span class="LineNumber"> 009 </span><B>จักขุนทริยมูละ    อัญญาตาวินทริยมูลี:-</B>
+<span class="LineNumber"> 010 </span>         [๑๔๓๘]   บุคคลใดเคยรู้แจ้งจักขุนทรีย์,  บุคคลนั้นก็จักกระทำ
+<span class="LineNumber"> 011 </span>ให้แจ้งอัญญาตาวินทรีย์   ใช่ไหม   ?
+<span class="LineNumber"> 012 </span>         ไม่ใช่.
+<span class="LineNumber"> 013 </span>         ก็หรือว่า   บุคคลใดจักกระทำให้แจ้งอัญญาตาวินทรีย์,      บุคคล
+<span class="LineNumber"> 014 </span>นั้นก็เคยรู้แจ้งจักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 015 </span>         ไม่ใช่.
+<span class="LineNumber"> 016 </span>                      <I>จบ  จักขุนทริยมูละ   อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 017 </span>                                       <I>จักขุนทริยมูล   จบ</I>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๒๕๐
+
+<span class="LineNumber"> 002 </span>ติสฺสาติ(๑) เอกนามิกาย เอว มาตุ  กุจฺฉิยํ  นิพฺพตฺตกาเล  ปีตํ 
+<span class="LineNumber"> 003 </span>ถฺํ  จตูสุ มหาสมุทฺเทสุ อุทกโต พหุตรนฺติ เวทิตพฺพํ ฯ 
+<span class="LineNumber"> 004 </span>				จตุตฺถํ ฯ                 
+
+<span class="LineNumber"> 005 </span>			ปพฺพตสุตฺตวณฺณนา           
+<span class="LineNumber"> 006 </span>	ปฺจเม  สกฺกา  ปน  ภนฺเตติ  โส  กิร  ภิกฺขุ  จินฺเตสิ  
+<span class="LineNumber"> 007 </span>สตฺถา  อนมตคฺคสฺส  สํสารสฺส  ทีฆตมตฺตา  น  สุกรํ  น  
+<span class="LineNumber"> 008 </span>สุกรนฺติ  กเถติเยว  กถํ  น  ฉินฺทติ  สกฺกา  นุ  โข  อุปมํ  
+<span class="LineNumber"> 009 </span>การาเปตุนฺติ ฯ  ตสฺมา  เอวมาห ฯ กาสิเกนาติ ตโย  กปฺปาสํสู  
+<span class="LineNumber"> 010 </span>เอกโต  คเหตฺวา  กนฺติตสุตฺตมเยน  อติสุขุมวตฺเถน ฯ  เตน  ปน  
+<span class="LineNumber"> 011 </span>ปริมฏฺเ€น (๒) กิตฺตกํ ขีเยยฺยาติ(๓) ฯ สาสปมตฺตํ ฯ 
+<span class="LineNumber"> 012 </span>				ปฺจมํ ฯ        
+
+<span class="LineNumber"> 013 </span>			สาสปสุตฺตวณฺณนา            
+<span class="LineNumber"> 014 </span>	ฉฏฺเ€  อายสํ  นครนฺติ  อายเสน  ปากาเรน  ปริกฺขิตฺตํ  
+<span class="LineNumber"> 015 </span>นครํ  น  ปน อนฺโต อายเสหิ เอกภูมิกาทิปาสาเทหิ
+<span class="LineNumber"> 016 </span>อากิณฺณนฺติ ทฏฺ€พฺพํ ฯ 
+<span class="LineNumber"> 017 </span>				ฉฏฺ€ํ ฯ    
+<span class="LineNumber"> 018 </span># ๑. ม. ติสฺสาติ ฯ  ๒. ม. ปริมชฺเช ฯ  ยุ. ปริมฏฺเ€ ฯ
+<span class="LineNumber"> 019 </span># ๓. ม. ขีเยยฺยาติ ฯ

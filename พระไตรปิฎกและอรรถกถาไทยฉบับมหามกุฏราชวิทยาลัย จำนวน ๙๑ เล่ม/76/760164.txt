@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>อันโสดาปัตติมรรคและมรรคเบื้องบน  ๓  ไม่ประหาณ     ไม่มีสัมปยุตตเหตุ 
+<span class="LineNumber"> 002 </span>อันโสดาปัตติมรรคและมรรคเบื้องบน  ๓  ประหาณ  ไม่เป็นเหตุให้จุติปฏิสนธิ
+<span class="LineNumber"> 003 </span>และไม่เป็นเหตุให้ถึงนิพพาน     ไม่เป็นของเสกขบุคคลและไม่เป็นของอเสกข-
+<span class="LineNumber"> 004 </span>บุคคล  เป็นปริตตธรรม    เป็นกามาวจรธรรม   ไม่ใช่รูปาวจรธรรม   ไม่ใช่
+<span class="LineNumber"> 005 </span>อรูปาวจรธรรม เป็นปริยาปันนธรรม  ไม่ใช่อปริยาปันนธรรม   เป็นอนิยตธรรม
+<span class="LineNumber"> 006 </span>เป็นอนิยยานิกธรรม     เป็นปัจจุบันนธรรมอันวิญญาณ  ๖  พึงรู้    ไปเที่ยง
+<span class="LineNumber"> 007 </span>อันชราครอบงำแล้ว
+<span class="LineNumber"> 008 </span>           สงเคราะห์รูปเป็นหมวดละ ๑  อย่างนี้.                                       
+<span class="LineNumber"> 009 </span>                                     <I>เอกกมาติกา    จบ</I>
+
+<span class="LineNumber"> 010 </span>                                           <H1>ทุกมาติกา</H1>
+<span class="LineNumber"> 011 </span>           [๕๐๔]  <B>สงเคราะห์รูปเป็นหมวดละ  ๒</B>
+<span class="LineNumber"> 012 </span>           รูปเป็นอุปาทา  [อุปาทายรูป]  ก็มี  รูปเป็นอนุปาทาก็มี
+<span class="LineNumber"> 013 </span>           รูปเป็นอนุปาทินนะ<SUP>๑</SUP>  ก็มี  รูปเป็นอนุปาทินนะก็มี
+<span class="LineNumber"> 014 </span>           รูปเป็นอุปาทินนุปาทานิยะ<SUP>๒</SUP>    ก็มี  รูปเป็นอนุปาทินนุปาทานิยะก็มี    
+<span class="LineNumber"> 015 </span>           รูปเป็นสนิทัสสนะ<SUP>๓</SUP>   ก็มี  รูปเป็นอนิทัสสนะก็มี
+<span class="LineNumber"> 016 </span>           รูปเป็นสัปปฏิฆะ<SUP>๔</SUP>   ก็มี  รูปเป็นอัปปฏิฆะก็มี
+<span class="LineNumber"> 017 </span>           รูปเป็นอินทรีย์ก็มี  รูปไม่เป็นอินทรีย์ก็มี
+<span class="LineNumber"> 018 </span>           รูปเป็นมหาภูตก็มี  รูปไม่เป็นมหาภูตก็มี
+<span class="LineNumber"> 019 </span>           รูปเป็นวิญญัติก็มี  รูปไม่เป็นวิญญัติก็มี
+<span class='footnote'>๑.  ดูคำแปล  เล่มที่  ๑  ข้อ  ๑๒		๒.  ดูคำแปล. . .ข้อ  ๑</span>
+<span class='footnote'>๓.  ดูคำแปล. . .ข้อ   ๓		๔.   ดูคำแปล. . .ข้อ  ๓                        </span>
+

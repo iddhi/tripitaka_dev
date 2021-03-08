@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           [๒๑๕๓] ๓.  <B>พหิทธารัมมณธรรม  เป็นปัจจัยแก่พหิทธารัมมณ-
+<span class="LineNumber"> 002 </span>ธรรม  ด้วยอำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 003 </span>           คือ ขันธ์ทั้งหลายที่เป็นพหิทธารัมมณธรรม  ที่เกิดก่อน ๆ เป็นปัจจัย
+<span class="LineNumber"> 004 </span>แก่ขันธ์ทั้งหลายที่เป็นพหิทธารัมมณธรรม ที่เกิดหลังๆ ด้วยอำนาจของอนันตร-
+<span class="LineNumber"> 005 </span>ปัจจัย.
+<span class="LineNumber"> 006 </span>           อนุโลมที่เป็นพหิทธารัมมณธรรม    เป็นปัจจัยแก่โคตรภู.
+<span class="LineNumber"> 007 </span>           อนุโลม   เป็นปัจจัยแก่โวทาน,
+<span class="LineNumber"> 008 </span>           โคตรภู    เป็นปัจจัยแก่มรรค, 
+<span class="LineNumber"> 009 </span>           โวทาน  เป็นปัจจัยแก่มรรค,
+<span class="LineNumber"> 010 </span>           มรรค  เป็นปัจจัยแก่ผล,
+<span class="LineNumber"> 011 </span>           ผล   เป็นปัจจัยแก่ผล,
+<span class="LineNumber"> 012 </span>           อนุโลม   เป็นปัจจัยแก่ผลสมาบัติ   ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 013 </span>           [๒๑๕๔] ๔.  <B>พหิทธารัมมณธรรม  เป็นปัจจัยแก่อัชฌัตตา-
+<span class="LineNumber"> 014 </span>รัมมธรรม  ด้วยอำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  จุติจิตที่เป็นพหิทธารัมมณธรรม   เป็นปัจจัยแก่อุปปัตติจิตที่เป็น
+<span class="LineNumber"> 016 </span>อัชฌัตตารัมมณธรรม   ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 017 </span>           ภวังค์ที่เป็นพหิทธารัมมณธรรม      เป็นปัจจัยแก่อาวัชชนะที่เป็น
+<span class="LineNumber"> 018 </span>อัชฌัตตารัมมณธรรม  ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 019 </span>           ขันธ์ทั้งหลายที่เป็นพหิทธารัมมณธรรม  เป็นปัจจัยแก่วุฏฐานะที่เป็น
+<span class="LineNumber"> 020 </span>อัชฌัตตารัมมณธรรม  ด้วยอำนาจของอนันตรปัจจัย.
+

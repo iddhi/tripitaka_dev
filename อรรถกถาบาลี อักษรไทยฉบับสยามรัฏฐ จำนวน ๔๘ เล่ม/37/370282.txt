@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  282
+
+<span class="LineNumber"> 002 </span>	[๙๒๓]ปุรํ อฏฺฏาลสมฺปนฺนํ (๑)	พหุปาการโตรณํ  
+<span class="LineNumber"> 003 </span>		สึฆาฏเก สุภูมิโย		มณิมฺหิ ปสฺส นิมฺมิตํ  
+<span class="LineNumber"> 004 </span>		เอสิกา จ ปริขาโย		ปลีฆํ อคฺคฬานิ จ  
+<span class="LineNumber"> 005 </span>		อฏฺฏาลเก จ ทฺวาเร จ	มณิมฺหิ ปสฺส นิมฺมิตํ(๒)  
+<span class="LineNumber"> 006 </span>	ตตฺถ  ปุรนฺติ  นครํ ฯ  อฏฺฏาลสมฺปนฺนนฺติ  ปาการวตฺถุนา  
+<span class="LineNumber"> 007 </span>สมฺปนฺนํ ฯ  พหุปาการโตรณนฺติ  อุจฺจปาการโตรณทฺวารํ(๓) ฯ  
+<span class="LineNumber"> 008 </span>สึฆาฏเกติ  จตุกฺกานิ(๔) ฯ  สุภูมิโยติ  นครุปจาเรหิ  วิจิตฺตา 
+<span class="LineNumber"> 009 </span>รมฺมณียํ  ภูมิโย ฯ  เอสิกาติ  นครทฺวาเรสุ  อุปฏฺ€าปิเต 
+<span class="LineNumber"> 010 </span>เอสิกถมฺเภ ฯ  ปลีฆนฺติ  ปลีฆํ  อยเมว  วา  ปาโ€ ฯ  อคฺคฬานีติ
+<span class="LineNumber"> 011 </span>นครทฺวารกวาตานิ ฯ  อฏฺฏลเก  จาติ โคปุรานิ จ ฯ  
+<span class="LineNumber"> 012 </span>	[๙๒๔]ปสฺส โตรณมคฺเคสุ	นานาทิชคณา พหู  
+<span class="LineNumber"> 013 </span>		หํสา โกฺจา มยุรา จ	จกฺกวากา จ กุกฺกุหา  
+<span class="LineNumber"> 014 </span>		กุณาลกา พหู จิตฺรา	สิขิณฺฑี ชีวชีวกา  
+<span class="LineNumber"> 015 </span>		นานาทิชคณากิณฺณํ	มณิมฺหิ ปสฺส นิมฺมิตํ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  โตรณมคฺเคสูติ  เอตสฺมึ  นคเร  โตรณมคฺเคสุ ฯ  
+<span class="LineNumber"> 017 </span>กุณาลกาติ กาฬโกกิลา ฯ จิตฺราติ จิตฺรปตฺตโกกิลา ฯ  
+<span class="LineNumber"> 018 </span>	[๙๒๕]ปสฺส นครํ สุปาการํ	อพฺภูตํ โลมหํสนํ  
+<span class="LineNumber"> 019 </span>		สมุสฺสิตธชํ รมฺมํ		สุวณฺณพาลุกสนฺถตํ  
+<span class="LineNumber"> 020 </span># ๑. ม. อุทฺธาปสมฺปนฺนํ ฯ  ๒. ม. นิมฺมิตนฺติ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. อุจฺจปาการโตรณนครทฺวาเรน สมฺปนฺนํ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. วีถิจตุกฺกานิ ฯ 

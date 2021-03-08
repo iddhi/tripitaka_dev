@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                  <H1>อรรถกถาทุติยสัปปสูตร</H1>  
+<span class="LineNumber"> 002 </span>         พึงทราบวินิจฉัยใน<B>ทุติยสัปปสูตรที่  ๑๐</B>  ดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>         บทว่า   <B>โฆรวิโส</B>  คือ  มีพิษร้ายกาจ.  บทว่า  <B>ทุชิวฺโห</B>  คือ  มีลิ้น
+<span class="LineNumber"> 004 </span>สองแฉก.  บทว่า   <B>โฆรวิสตา</B>  คือ  เพราะเป็นสัตว์มีพิษร้าย.   แม้ในสองบท
+<span class="LineNumber"> 005 </span>ที่เหลือก็นัยนี้เหมือนกัน.
+<span class="LineNumber"> 006 </span>                            <I>จบอรรถกถาทุติยสัปปสูตรที่  ๑๐</I>
+<span class="LineNumber"> 007 </span>  	          <I>จบทีฆจาริกวรรควรรณนาที่  ๓</I>
+<span class="LineNumber"> 008 </span>	<H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 009 </span>         ๑.  ปฐมทีฆจาริกสูตร   ๒.  ทุติยทีฆจาริกสูตร    ๓ . อภินิวาสสูตร
+<span class="LineNumber"> 010 </span>๔.  มัจฉรสูตร   ๕.  ปฐมกุลุปกสูตร       ๖.  ทุติยกุลุปกสูตร        ๗.  โภคสูตร
+<span class="LineNumber"> 011 </span>๘.  ภัตตสูตร   ๙.  ปฐมสัปปสูตร    ๑๐.  ทุติยสัปปสูตร  และอรรถกถา.

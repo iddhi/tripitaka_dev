@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>ปัจจุปปันนาตีตาวาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                          <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                         <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 004 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๕๙๙]   จักขายตนะไม่ใช่กำลังดับแก่บุคคลใด,    โสตายตนะ
+<span class="LineNumber"> 006 </span>ก็ไม่ใช่เคยดับแก่บุคคลนั้น   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         เคยดับ.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า     โสตายตนะไม่ใช่เคยดับแก่บุคคลใด,     จักขายตนะ
+<span class="LineNumber"> 009 </span>ก็ไม่ใช่กำลังดับแก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         ไม่มี.
+<span class="LineNumber"> 011 </span>                         <I>จบ  จักขายตนมูละ   โสตายตนมูลี</I>
+
+<span class="LineNumber"> 012 </span><H2>จักขายตนมูละ  ฆานายตนะ ฯ ล ฯ  รูปายตนะ  มนายตนะ
+<span class="LineNumber"> 013 </span>ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 014 </span>         [๖๐๐]   จักขายตนะไม่ใช่กำลังดับแก่บุคคลใด,     ฆานายตนะ
+<span class="LineNumber"> 015 </span>ฯ ล ฯ   รูปายตนะ   มนายตนะ    ธัมมายตนะก็ไม่ใช่เคยดับแก่บุคคลนั้น
+<span class="LineNumber"> 016 </span>ในภูมินั้น  ใช่ไหม ?

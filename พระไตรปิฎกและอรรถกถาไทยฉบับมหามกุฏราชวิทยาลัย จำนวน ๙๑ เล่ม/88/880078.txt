@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>              	                 <H1>การนับจำนวนวาระในอนุโลม</H1> 
+<span class="LineNumber"> 002 </span>           [๖๕]  ในเหตุปัจจัย    มี ๙ วาระ    ในอารัมมณปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 003 </span>ในอธิปติปัจจัย   มี ๙ วาระ    ในปัจจัยทั้งปวง   มี ๙ วาระ   ในอวิคตปัจจัย
+<span class="LineNumber"> 004 </span>มี ๙ วาระ.
+<span class="LineNumber"> 005 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 006 </span>                                           <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                              <H1>ปัจจนียนัย</H1>  
+<span class="LineNumber"> 008 </span>                                           <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๖๖] ๑.  <B>อเหตุกธรรม  อาศัยสเหตุกธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 010 </span>นเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ โมหะ ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์
+<span class="LineNumber"> 012 </span>ทั้งหลาย  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 013 </span>                     ๒.  <B>อเหตุกธรรม  อาศัยอเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 014 </span>นเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ ฯลฯ อาศัยขันธ์ ๑ ที่เป็นอเหตุกธรรม ฯลฯ
+<span class="LineNumber"> 016 </span>           ในปฏิสนธิขณะ ฯลฯ  ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 017 </span>           จักขุวิญญาณ  อาศัยจักขายตนะ ฯลฯ กายวิญญาณ   อาศัยกายายตนะ.
+<span class="LineNumber"> 018 </span>           ขันธ์ทั้งหลายที่เป็นอเหตุกธรรม  และโมหะ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 019 </span>                     ๓.  <B>อเหตุกธรรม   อาศัยสเหตุกธรรมและอเหตุกธรรม
+<span class="LineNumber"> 020 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>

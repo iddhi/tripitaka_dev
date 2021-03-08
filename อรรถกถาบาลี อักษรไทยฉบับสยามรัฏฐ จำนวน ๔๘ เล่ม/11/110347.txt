@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑  หน้า  ๓๔๗
+
+<span class="LineNumber"> 002 </span>				กุมฺภณฺฑสุตฺตวณฺณนา          
+<span class="LineNumber"> 003 </span>	อณฺฑภาริวตฺถุสฺมึ  คามกูโฏติ  (๑)  วินิจฺฉยามจฺโจ ฯ  ตสฺส 
+<span class="LineNumber"> 004 </span>กมฺมสภาคตาย กุมฺภมตฺตา  มหาฆฏปฺปมาณา  อณฺฑา  อเหสุํ ฯ  
+<span class="LineNumber"> 005 </span>โส  หิ  ยสฺมา  รโห  ปฏิจฺฉนฺเน  €าเน  ลฺจํ   คเหตฺวา  
+<span class="LineNumber"> 006 </span>กูฏวินิจฺฉเยน  ปากฏํ  โทสํ กโรนฺโต สามิเก อสฺสามิเก  อกาสิ  
+<span class="LineNumber"> 007 </span>ตสฺมาสฺส  รหสฺสํ  องฺคํ  ปากฏํ  นิพฺพตฺตํ  ยสฺมา  ทณฺฑํ 
+<span class="LineNumber"> 008 </span>ปฏฺ€เปนฺโต ปเรสํ  อสยฺหภารํ  อาโรเปสิ  ตสฺมาสฺส รหสฺสํ 
+<span class="LineNumber"> 009 </span>องฺคํ อสยฺหภาโร หุตฺวา นิพฺพตฺตํ ฯ ยสฺมา  ยสฺมึ  €าเน  €ิเตน
+<span class="LineNumber"> 010 </span>สเมน  ภวิตพฺพํ  ตสฺมึ  €เปตฺวา(๒)  วิสโม  อโหสิ  
+<span class="LineNumber"> 011 </span>ตสฺมาสฺส รหสฺสองฺเค วิสมา นิสชฺชาว อโหสีติ ฯ 
+<span class="LineNumber"> 012 </span>				ทสมํ ฯ         
+<span class="LineNumber"> 013 </span>				ป€โม วคฺโค ฯ            
+
+<span class="LineNumber"> 014 </span>			สสีสกสุตฺตวณฺณนา           
+<span class="LineNumber"> 015 </span>	ทุติยสฺส ป€เม ปารทาริกวตฺถุสฺมึ  โส  สตฺโต  ปรสฺส  
+<span class="LineNumber"> 016 </span>รกฺขิตโคปิตํ  สสฺสามิกผสฺสํ ผุสนฺโต  มีฬฺหสุเขน  กามสุเขน  จิตฺตํ 
+<span class="LineNumber"> 017 </span>รมยิตฺวา  กมฺมสภาคตาย  คูถสมฺผสฺสํ ผุสนฺโต ทกฺขมนุภวิตุํ 
+<span class="LineNumber"> 018 </span>ตตฺถ นิพฺพตฺโต ฯ 
+<span class="LineNumber"> 019 </span>				ป€มํ ฯ           
+<span class="LineNumber"> 020 </span># ๑. ม. คามกูฏโกติ ฯ  ๒. ม. €ตฺวา ฯ

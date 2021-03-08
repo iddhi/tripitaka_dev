@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุกนิปาตวณฺณนา  หน้า  630
+	
+<span class="LineNumber"> 002 </span>		โอทุมฺพริกปุปฺผํว		จนฺทมฺหิ สสกํ ยถา  
+<span class="LineNumber"> 003 </span>		วายสานํ ยถา ขีรํ		ทุลฺลภํ โลกนายกํ ฯ (๑)  
+<span class="LineNumber"> 004 </span>		พุทฺโธ โลกมฺหิ อุปฺปนฺโน  มนุสฺสตฺตมฺปิ ทุลฺลภํ  
+<span class="LineNumber"> 005 </span>		อุโภสุ วิชฺชมาเนสุ		สวนฺจ สุทุลฺลภํ ฯ  
+<span class="LineNumber"> 006 </span>		พุทฺโธ โลเก สมุปฺปนฺโน	จกฺขุํ ลจฺฉาม โน ภวํ  
+<span class="LineNumber"> 007 </span>		เอถ สพฺเพ คมิสฺสาม	สมฺมาสมฺพุทฺธสนฺติกํ ฯ  
+<span class="LineNumber"> 008 </span>		กมณฺฑลุธรา สพฺเพ	ขราชินนิวาสิโน  
+<span class="LineNumber"> 009 </span>		เต ชฏาภารภริตา (๒)	นิกฺขมม (๓) วิปินา ตทา ฯ  
+<span class="LineNumber"> 010 </span>		ยุคมตฺตํ(๔) เปกฺขมานา	อุตฺตมตฺถํ คเวสิโน  
+<span class="LineNumber"> 011 </span>		อาสตฺติโทสรหิตา(๕)	อสมฺภีตาว เกสรี ฯ  
+<span class="LineNumber"> 012 </span>		อปฺปกิจฺจา(๖) อโลลุปฺปา(๗)  นิปกา สนฺตวุตฺติโน  
+<span class="LineNumber"> 013 </span>		อุฺฉาย จรมานา เต	พุทฺธเสฏฺ€มุปาคมม ฯ   
+<span class="LineNumber"> 014 </span>		ทิยฑฺฒโยชเน เสเส(๘)	พฺยาธิ เม อุปปชฺชถ  
+<span class="LineNumber"> 015 </span>		พุทฺธเสฏฺ€ํ สริตฺวาน	ตตฺถ กาลงฺกโต อหํ ฯ  
+<span class="LineNumber"> 016 </span>		จตุนฺนวุติโต กปฺเป	ยํ สฺมลภึ ตทา  
+<span class="LineNumber"> 017 </span>		ทุคฺคตึ นาภิชานามิ	พุทฺธสฺายิทํ ผลํ ฯ  
+<span class="LineNumber"> 018 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ  กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 019 </span># ๑. ม. ทุลฺลโภ โลกนายโก ฯ  ๒. สี. ชฏาภาเรน ภริตา ฯ 
+<span class="LineNumber"> 020 </span># ๓. สฺยา. นิกฺขมฺม ฯ  ๔. สฺยา. ยุตฺตมตฺตํ ฯ  
+<span class="LineNumber"> 021 </span># ๕. สฺยา. อายนฺติ นาคโปตาว ฯ  ๖. สฺยา. อปฺปตาสา ฯ 
+<span class="LineNumber"> 022 </span># ๗. ยุ. อปฺปภาสา อลีลตา ฯ  ๘. สฺยา. เทเส ฯ 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๙  สุนฺทรีสุตฺตวณฺณนา  หน้า  ๓๙๗
+		
+<span class="LineNumber"> 002 </span>		สุณาถ  ภิกฺขโว  มยฺหํ  ยํ  กมฺมํ  ปกตํ  มยา  
+<span class="LineNumber"> 003 </span>		ปิโลติกสฺส  กมฺมสฺส  พุทฺธตฺเตปิ  วิปจฺจติ ฯ  
+<span class="LineNumber"> 004 </span>		มุนาลิ  นามหํ  ธุตฺโต	ปุพฺเพ  อฺาย  ชาติยา(๑)
+<span class="LineNumber"> 005 </span>		ปจฺเจกพุทฺธํ  สุรภึ  อพฺภาจิกฺขึ  อทูสกํ ฯ  
+<span class="LineNumber"> 006 </span>		เตน  กมฺมวิปาเกน  นิรเย  สํสรึ  จิรํ  
+<span class="LineNumber"> 007 </span>		พหู  วสฺสสหสฺสานิ  ทุกฺขํ  เวเทมิ  เวทนํ ฯ  
+<span class="LineNumber"> 008 </span>		เตน  กมฺมาวเสเสน  อิธ  ปจฺฉิมเก  ภเว  
+<span class="LineNumber"> 009 </span>		อพฺภกฺขานํ  มยา  ลทฺธํ  สุนฺทริกาย  การณา ฯ  
+<span class="LineNumber"> 010 </span>		สพฺพาภิรุสฺส(๒)  พุทฺธสฺส  นนฺโท  นามาสิ  สาวโก
+<span class="LineNumber"> 011 </span>		ตํ  อพฺภกฺขาย  นิรเย  จิรํ  สํสริตํ  มยา ฯ  
+<span class="LineNumber"> 012 </span>		ทส  วสฺสสหสฺสานิ  นิรเย  สํสรึ  จิรํ  
+<span class="LineNumber"> 013 </span>		มนุสฺสลาภํ(๓)ปตฺวาหํ(๔)  อพฺภกฺขานํ  พหุํ  ลภึ ฯ  
+<span class="LineNumber"> 014 </span>		เตน  กมฺมาวเสเสน  จิฺจมาณวิกา  มมํ  
+<span class="LineNumber"> 015 </span>		อพฺภาจิกฺขิ  อภูเตน  ชนกายสฺส  เปกฺขโต(๕) ฯ  
+<span class="LineNumber"> 016 </span>		พฺราหฺมโณ  สุตวา  อาสึ  อหํ  สกฺกตปูชิโต	
+<span class="LineNumber"> 017 </span>		มหาวเน  ปฺจสเต  มนฺเต  วาเจมิ  มาณเว ฯ
+<span class="LineNumber"> 018 </span>		ตตฺถาคโต  อิสี  ภีโม  ปฺจาภิฺโ  มหิทฺธิโก  
+<span class="LineNumber"> 019 </span>		ตฺจาหํ  อาคตํ  ทิสฺวา  อพฺภาจิกฺขึ  อทูสกํ ฯ  
+<span class="LineNumber"> 020 </span>#  ๑.  ม.  ชาติสุ ฯ  ๒.  สี.  ม.  สพฺพาภิภุสฺส ฯ  ๓.  สี.  มนุสฺสเทหํ ฯ
+<span class="LineNumber"> 021 </span>#  ม.  มนุสฺสภาวํ ฯ  ๔.  ม.  ลทฺธาหํ ฯ  ๕.  สี.  ม.  อคฺคโต ฯ

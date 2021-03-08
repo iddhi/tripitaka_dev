@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>      	       <H2>รวมพระสูตรในสฬายตนวรรคนี้</H2>  
+<span class="LineNumber"> 002 </span>	 ๑.  อนาถบิณฑิโกวาทสูตร           พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 003 </span>	 ๒.  ฉันโนวาทสูตร                     พร้อมทั้งอรรถกถา 
+<span class="LineNumber"> 004 </span>	 ๓.  ปุณโณวาทสูตร                    พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 005 </span> 	 ๔.  นันทโกวาทสูตร                   พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 006 </span>	 ๕.  จูฬราหุโลวาทสูตร                พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 007 </span>	 ๖.  ฉฉักกสูตร                           พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 008 </span>	 ๗.  สฬายตนวิภังคสูตร               พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 009 </span>	 ๘.  นครวินเทยยสูตร                  พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 010 </span>	 ๙.  ปิณฑปาตปาริสุทธิสูตร          พร้อมทั้งอรรถกถา
+<span class="LineNumber"> 011 </span>         ๑๐.  อินทริยภาวนาสูตร                 พร้อมทั้งอรรถกถา

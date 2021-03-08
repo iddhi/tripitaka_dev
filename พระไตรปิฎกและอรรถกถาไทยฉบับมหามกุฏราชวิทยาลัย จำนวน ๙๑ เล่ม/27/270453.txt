@@ -1,0 +1,29 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>๙.  ขยธรรมสูตร</H1>  
+
+<span class="LineNumber"> 002 </span>           [๔๑๓]  ดูก่อนราธะ  สิ่งใดแลเป็นขยธรรม  ฯลฯ. 
+<span class="LineNumber"> 003 </span>                                          <I>จบ  ขยธรรมสูตร</I>
+
+<span class="LineNumber"> 004 </span>                           <H1>๑๐.  วยธรรมสูตร</H1>
+
+<span class="LineNumber"> 005 </span>           [๔๑๔]   ดูก่อนราธะ  สิ่งใดแลเป็นวยธรรม  ฯลฯ.
+<span class="LineNumber"> 006 </span>                                            <I>จบ  วยธรรมสูตร</I>
+
+<span class="LineNumber"> 007 </span>                      <H1>๑๑.   สมุทยธรรมสูตร</H1>
+
+<span class="LineNumber"> 008 </span><H1>ว่าด้วยการละความพอใจ  สิ่งที่รู้เกิดขึ้น</H1>
+
+<span class="LineNumber"> 009 </span>           [๔๑๕]   ดูก่อนราธะ     สิ่งใดแลเป็นสมุทยธรรม     เธอพึงละ
+<span class="LineNumber"> 010 </span>ความพอใจ    ความกำหนัด    ความกำหนัดด้วยสามารถความพอใจใน
+<span class="LineNumber"> 011 </span>สิ่งนั้นเสีย  ฯลฯ.
+<span class="LineNumber"> 012 </span>                                       <I>จบ   สมุทยธรรมสูตร</I>
+
+<span class="LineNumber"> 013 </span>                        <H1>๑๒.  นิโรธธรรมสูตร</H1>
+
+<span class="LineNumber"> 014 </span><H1>ว่าด้วยการละความพอใจ  ในสิ่งที่รู้จักดับ</H1>
+
+<span class="LineNumber"> 015 </span>         [๔๑๖]     กรุงสาวัตถี.   <B>พระผู้มีพระภาคเจ้า</B>ตรัสกะท่านพระราธะ
+<span class="LineNumber"> 016 </span>ว่า   ดูก่อนราธะ   สิ่งใดแลเป็น<B>นิโรธธรรม</B>   เธอพึงละความพอใจ   ความ
+<span class="LineNumber"> 017 </span>กำหนัด  ความกำหนัดด้วยสามารถความพอใจในสิ่งนั้นเสีย ดูก่อนราธะ
+<span class="LineNumber"> 018 </span>ก็สิ่งใดเล่าเป็น<B>นิโรธธรรม  ?</B>  ดูก่อนราธะ  รูปแลเป็น<B>นิโรธธรรม</B>  เธอพึง
+<span class="LineNumber"> 019 </span>ละความพอใจ   ความกำหนัด   ความกำหนัดด้วยสามารถความพอใจใน
+<span class="LineNumber"> 020 </span>รูปนั้นเสีย  เวทนา  สัญญา  สังขาร วิญญาณ เป็น<B>นิโรธธรรม</B>  เธอพึงละ

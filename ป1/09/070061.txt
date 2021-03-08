@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ทีเดียว  เพราะฉะนั้น  ควรจะให้เป็นตัทธิตนี้  เหมาะกว่าอย่างอื่น. 
+<span class="LineNumber"> 002 </span>                                    โคตตตัทธิต  
+<span class="LineNumber"> 003 </span>	ต่อไปนี้จะได้จำแนกชื่อของตัทธิตพร้อมด้วยปัจจัย  และวิธีลง
+<span class="LineNumber"> 004 </span>ปัจจัยนั้น  ตามแบบอย่างที่ท่านวางไว้เป็นลำดับไป พร้อมกับอธิบาย
+<span class="LineNumber"> 005 </span>ตามที่เห็นสมควร
+<span class="LineNumber"> 006 </span>	<B>ในโคตตตัทธิต</B> มีปัจจัย ๘   ตัว เนื่องด้วย ณ ทั้งนั้น  คือ
+<span class="LineNumber"> 007 </span>ณ,  ณายน,  ณาน,  เณยฺย,  ณิ,  ณิก,  ณว,  เณร. ทั้ง ๘ ตัวนี้
+<span class="LineNumber"> 008 </span>ใช้แทน  อปจฺจ  ศัพท์ ซึ่งแปลว่า 'เหล่ากอ'  คำว่า  เหล่ากอ  ก็
+<span class="LineNumber"> 009 </span>ได้แก่  โคตร  หรือ  วงศ์วาน นั่นเอง  จึงเรียกว่า โคตตตัทธิต.  ส่วน
+<span class="LineNumber"> 010 </span>ศัพท์หน้าในรูปวิเคราะห์  ประกอบด้วย ฉ.  วิภัตติ เอก.  เมื่อ
+<span class="LineNumber"> 011 </span>จะลงปัจจัยให้ลบวิภัตติทิ้งเสีย  เหลือไว้แต่ศัพท์เดิม  ดังนี้.
+<span class="LineNumber"> 012 </span>	ณ ปัจ.  วสิฏฺ€สฺส  อปจฺจํ  ลบ สฺส  วิภัตติเสีย  ลง ณ ปัจจัย
+<span class="LineNumber"> 013 </span>ทีฆะ  อะ ที่ ว อักษรให้เป็น  อา สำเร็จรูปเป็น  วาสิฏฺโ€ แปลว่า
+<span class="LineNumber"> 014 </span>เหล่ากอ แห่งวสิฏฺ€ ชื่อ  วาสิฏฺ€.
+<span class="LineNumber"> 015 </span>	ณายน ปัจ. กจฺจสฺส  อปจฺจํ  เป็น  กจฺจายโน ลบ ณ เสีย
+<span class="LineNumber"> 016 </span>ไม่ทีฆะ.
+<span class="LineNumber"> 017 </span>	ณาน ปัจ.  กจฺจสฺส  อปจฺจํ  เป็น  กจฺจาโน ลบ  ณ เสีย
+<span class="LineNumber"> 018 </span>ไม่ทีฆะ.
+<span class="LineNumber"> 019 </span>	เณยฺย  ปัจ.  ภคินิยา  อปจฺจํ เป็น ภาคิเนยฺโย  ลบ ณ แล้ว
+<span class="LineNumber"> 020 </span>ทีฆะ.
+<span class="LineNumber"> 021 </span>	 ณิ ปัจ. ทกฺขสฺส  อปจฺจํ  เป็น ทกฺขิ  ลบ  ณ ไม่ทีฆะ.
+ 

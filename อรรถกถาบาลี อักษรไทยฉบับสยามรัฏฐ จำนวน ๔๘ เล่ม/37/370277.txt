@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 277
+
+<span class="LineNumber"> 002 </span>€เปตฺวา  มาณวกวณฺเณน  กุรูนํ  สภํ  อุปคโต ฯ  เอกสตนฺติ 
+<span class="LineNumber"> 003 </span>เอกสตราชาโน  อสมฺภีโต  หุตฺวา  โกนีธาติ  อาทินา(๑)  วทนฺโต 
+<span class="LineNumber"> 004 </span>ชุเตน  อาหุยิตฺถ ฯ  โกนีธาติ  โก  นุ  อิมสฺมึ  ราชสมาคเม ฯ
+<span class="LineNumber"> 005 </span>รฺนฺติ  ราชูนํ  อนฺตเร ฯ  วรมาภิเชตีติ  อมฺหากํ  สนฺตกํ 
+<span class="LineNumber"> 006 </span>เสฏฺ€รตนํ  อภิเชติ  อหํ  ชินามีติ  วตฺตุํ  อุสฺสหติ ฯ
+<span class="LineNumber"> 007 </span>กมาภิเชยฺยามาติ  กํ  วา  มยํ  ชิเนยฺยาม ฯ วรทฺธเนนาติ 
+<span class="LineNumber"> 008 </span>อุตฺตมธเนน ฯ  กมนุตฺตรนฺติ  ชินนฺตา  จ  มยํ  กตรํ  ราชานํ
+<span class="LineNumber"> 009 </span>อนุตฺตรํ  รตนํ  วรํ (๒) ชินาม ฯ  โก  วาปิ  โน  เชตีติ อถ
+<span class="LineNumber"> 010 </span>วา โก(๓) ราชา อมฺเห  วรธเนน ชินาติ(๔) ฯ อิติ โส จตูหิ 
+<span class="LineNumber"> 011 </span>ปเทหิ โกรพฺยเมว ฆฏฺเฏติ ฯ  
+<span class="LineNumber"> 012 </span>	อถ  ราชา  มยา  อิโต  ปุพฺเพ  เอวํ  สูโร  หุตฺวา 
+<span class="LineNumber"> 013 </span>กเถนฺโต  นาม น ทิฏฺ€ปุพฺโพ โก นุโข เอโสติ จินฺเตตฺวา
+<span class="LineNumber"> 014 </span>ปุจฺฉนฺโต คาถมาห  
+<span class="LineNumber"> 015 </span>	[๙๑๖]กุหึ นุ รฏฺเ€ ตว ชาติภูมิ  
+<span class="LineNumber"> 016 </span>		น โกรพฺยสฺเสว วโจ ตเวทํ  
+<span class="LineNumber"> 017 </span>		อภีโตสิ โน วณฺณนิภาย สพฺเพ  
+<span class="LineNumber"> 018 </span>		อกฺขาหิ เม นามฺจ พนฺธเว จาติ  
+<span class="LineNumber"> 019 </span>	ตตฺถ น โกรพฺยสฺเสวาติ กุรุรฏฺเ€ วาสิกสฺเสว ตว
+<span class="LineNumber"> 020 </span>วจนํ น โหติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. อาทีนิ ฯ ๒. ม. รตนวรํ ฯ  ๓. ม. โก นาม ฯ 
+<span class="LineNumber"> 022 </span># ๔. ม. เชติ ฯ 

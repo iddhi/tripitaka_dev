@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                  		          <H1>๔.  ราโชวาทชาดก</H1> 
+<span class="LineNumber"> 002 </span>            		   <H2>ว่าด้วยคุณสมบัติของผู้นำ</H2>
+<span class="LineNumber"> 003 </span>		<B>[๖๓๔]    ถ้าเมื่อโคทั้งหลายว่ายข้ามแม่น้ำไป  โค
+<span class="LineNumber"> 004 </span>			หัวหน้าฝูงว่ายคด         เมื่อโคผู้นำฝูงว่ายคด
+<span class="LineNumber"> 005 </span>			อย่างนี้   โคทั้งหมดก็ย่อมว่ายคดไปตามกัน.
+<span class="LineNumber"> 006 </span>		[๖๓๕]    ในมนุษย์ทั้งหลายก็เหมือนกัน     ผู้ใด
+<span class="LineNumber"> 007 </span>			ได้รับสมมติแต่งตั้งให้เป็นใหญ่       ถ้าผู้นั้น
+<span class="LineNumber"> 008 </span>			ประพฤติไม่เป็นธรรม      ประชาชนนอกนี้ก็
+<span class="LineNumber"> 009 </span>			ประพฤติไม่เป็นธรรมโดยแท้     ถ้าพระราชา
+<span class="LineNumber"> 010 </span>			ผู้เป็นใหญ่ไม่ตั้งอยู่ในธรรม     รัฐย่อมอยู่
+<span class="LineNumber"> 011 </span>			เป็นทุกข์ทั่วกัน.
+<span class="LineNumber"> 012 </span>		[๖๓๖]   ถ้าเมื่อโคทั้งหลายว่ายข้ามแม่น้ำไป
+<span class="LineNumber"> 013 </span>			โคหัวหน้าฝูงว่ายข้ามตรง        เมื่อโคผู้นำฝูง
+<span class="LineNumber"> 014 </span>			ว่ายข้ามตรงอย่างนั้น     โคทั้งหมดก็ย่อมว่าย
+<span class="LineNumber"> 015 </span>			ข้ามตรงไปตามกัน
+<span class="LineNumber"> 016 </span>		[๖๓๗]   ในหมู่มนุษย์ทั้งหลายก็เหมือนกัน  ผู้ใด
+<span class="LineNumber"> 017 </span>			ได้รับสมมติแต่งตั้งให้เป็นใหญ่      ถ้าผู้นั้น
+<span class="LineNumber"> 018 </span>			ประพฤติเป็นธรรม   ประชาชนนอกนี้ก็</B>
+        

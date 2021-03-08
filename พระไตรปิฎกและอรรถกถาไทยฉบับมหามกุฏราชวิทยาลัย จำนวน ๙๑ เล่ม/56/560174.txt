@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>	           <B>รวมชาดกที่มีในวรรคนี้  คือ</B>
+<span class="LineNumber"> 002 </span>	๑.  อสาตมันตชาดก    ๒.  อัณฑภูตชาดก     ๓.  ตักกชาดก
+<span class="LineNumber"> 003 </span>๔.  ทุราชานชาดก      ๕.  อนภิรติชาดก        ๖.   มุทุลักขณชาดก
+<span class="LineNumber"> 004 </span>๗.  อุจฉังคชาดก       ๘.  สาเกตชาดก        ๙.  วิสวันตชาดก     ๑๐.  กุท-
+<span class="LineNumber"> 005 </span>ทาลชาดก.
+<span class="LineNumber"> 006 </span>		                <I>จบ   อิตถีวรรคที่  ๗</I>

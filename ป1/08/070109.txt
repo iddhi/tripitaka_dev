@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>นานา</B>        แปลว่า        ต่าง ๆ           <B>สกึ</B>                แปลว่า       คราวเดียว  
+<span class="LineNumber"> 002 </span><B>ปจฺฉา</B>             "             ภายหลัง        <B>สตกฺขตฺตํ</B>          "             ร้อยคราว
+<span class="LineNumber"> 003 </span><B>ปฏฺ€าย</B>           "             ตั้งก่อน          <B>สทฺธึ</B>                 "              พร้อม, กับ
+<span class="LineNumber"> 004 </span><B>ปภูติ</B>               "             จำเดิม            <B>สณิกํ</B>               "               ค่อย ๆ
+<span class="LineNumber"> 005 </span><B>ปุน</B>                  "              อีก                 <B>สยํ</B>                  "               เอง
+<span class="LineNumber"> 006 </span><B>ปุนปฺปุนํ</B>          "               บ่อย ๆ           <B>สห</B>                  "               กับ
+<span class="LineNumber"> 007 </span><B>ภิยฺโย</B>               "              ยิ่ง                   <B>สามํ</B>               "                เอง
+<span class="LineNumber"> 008 </span><B>ภิยฺโยโส</B>            "             โดยยิ่ง
+<span class="LineNumber"> 009 </span>	ทั้งหมดนี้  สำหรับ  <B>อโถ</B> อนึ่ง, ทางสัมพันธ์  เรียกว่า
+<span class="LineNumber"> 010 </span>"สมฺปิณฺฑนตฺถ."  <B>อโห</B>  โอ  ถ้าใช้แสดงความหลากใจหรืออัศจรรย์
+<span class="LineNumber"> 011 </span>ทางสัมพันธ์  เรียกว่า  "อจฺฉริยตฺถ."  ใช้แสดงความสังเวช  เรียก 
+<span class="LineNumber"> 012 </span>ว่า  "สํเวคตฺถ."  <B>นีจํ</B>  ต่ำ  และ  <B>อุจฺจํ  </B>สูง  ทางสัมพันธ์ เรียกว่า
+<span class="LineNumber"> 013 </span>"วิเสสน"  เพราะบางแห่งใช้เป็นคุณนาม  แจกตามวิภัตตินามได้
+<span class="LineNumber"> 014 </span>เช่น  <B>นีจํ  กุลํ </B> สกุลต่ำ   <B>อุจฺโจ  รุกฺโข</B>  ต้นไม้สูง  เป็นต้น.
+<span class="LineNumber"> 015 </span><B>ปจฺฉา</B> ภายหลัง  ทางสัมพันธ์  เรียกว่า  "กาลสัตตมี."  <B>ปุนปฺปุนํ</B>
+<span class="LineNumber"> 016 </span>บ่อย ๆ  ทางสัมพันธ์ เรียกว่า  "กิริยาวิเสสน."  <B>อิติ</B>  แปลว่า
+<span class="LineNumber"> 017 </span>เพราะเหตุนั้น  ทางสัมพันธ์  เรียกว่า "เหตฺวตฺถ."  แปลว่า "ว่า....
+<span class="LineNumber"> 018 </span>ดังนี้"  เรียกว่า สรูปบ้าง อาการบ้าง;  แปลว่า ด้วยประการฉะนี้
+<span class="LineNumber"> 019 </span>เรียกว่า "ปการตฺถ" แปลว่า "ชื่อว่า"  เรียกว่า  "สัญญาโชดก."
+<span class="LineNumber"> 020 </span>ส่วน  <B>สห</B>  กับ <B>สทฺธึ  </B>ถ้าเข้ากับนาม  ทางสัมพันธ์ เรียกว่า
+       

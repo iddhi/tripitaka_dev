@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                       ๗.  อรณธรรมที่เป็นอัปปมาณธรรม  อาศัยอรณธรรม 
+<span class="LineNumber"> 002 </span>ที่เป็นอัปปมาณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 003 </span>                       ๑๐. อรณธรรมที่เป็นปริตตธรรม     อาศัยอรณธรรม
+<span class="LineNumber"> 004 </span>ที่เป็นปริตตธรรม  และอรณธรรมที่เป็นมหัคคตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                       ๑๓.  อรณธรรมที่เป็นปริตตธรรม    อาศัยอรณธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นปริตตธรรม    และอรณธรรมที่เป็นอัปปมาณธรรม    เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะเหตุปัจจัย                                                                
+<span class="LineNumber"> 009 </span>                   	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>		[๙๑๙]  ในเหตุปัจจัย   มี  ๑๓  วาระ    ในอารัมมณปัจจัย   มี ๕ วาระ
+<span class="LineNumber"> 011 </span>ฯลฯ  ในอวิคตปัจจัย  มี  ๓ วาระ.
+<span class="LineNumber"> 012 </span>           ในสหชาตวาระก็ดี  ฯลฯ  ในปัญหาวาระก็ดี   พึงให้พิสดารทุกปัจจัย.
+<span class="LineNumber"> 013 </span>	    			<I>ปริตตติกสรณทุกะ  จบ</I>

@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>         บุคคลที่มีจิต<SUP>๑</SUP>เกิดได้    แต่จักขุเกิดไม่ได้  กำลังเกิดอยู่   มนินทรีย์
+<span class="LineNumber"> 002 </span>กำลังเกิดแก่บุคคลเหล่านั้น   แต่จักขุนทรีย์ไม่ใช่กำลังเกิดแก่บุคคลเหล่า
+<span class="LineNumber"> 003 </span>นั้น.   บุคคลที่มีจักขุเกิดได้   กำลังเกิดอยู่   มนินทรีย์กำลังเกิด  และ
+<span class="LineNumber"> 004 </span>จักขุนทรีย์ก็กำลังเกิดแก่บุคคลเหล่านั้น.
+
+<span class="LineNumber"> 005 </span>                          <I>จบ   จักขุนทริยมูละ  มนินทริยมูลี</I>
+<span class="LineNumber"> 006 </span>                                    <I>จักขุนทริยมูล<SUP>๒</SUP>  จบ</I>
+<span class='footnote'>๑.  จิต-มโน.</span>
+<span class='footnote'>๒.   จักขุนทริยมูลมี  ๑๐  มูลี  ตามพระบาลี.</span>

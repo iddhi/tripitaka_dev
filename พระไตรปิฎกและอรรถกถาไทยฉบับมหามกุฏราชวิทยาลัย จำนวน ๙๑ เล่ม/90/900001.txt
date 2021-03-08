@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>พระอภิธรรมปิฎก</H1> 
+<span class="LineNumber"> 002 </span>						<H1>เล่มที่  ๗</H1><SUP>๑</SUP>
+<span class="LineNumber"> 003 </span>					<H1>ปัฏฐาน  ภาคที่ ๖</H1>
+<span class="LineNumber"> 004 </span>	<H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 005 </span>					<H1>อนุโลมทุกติกปัฏฐาน</H1>
+<span class="LineNumber"> 006 </span>					   <H1>เหตุทุกกุสลติกะ</H1>
+<span class="LineNumber"> 007 </span>				<H2>(๑. เหตุทุกะ  ๑. กุสลติกะ)</H2>	
+<span class="LineNumber"> 008 </span>					<H1>กุศลบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 009 </span>					       <H1>อนุโลมนัย</H1>	
+<span class="LineNumber"> 010 </span>					     <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 011 </span>		[๑]      ๑. กุศลธรรมที่เป็นเหตุ  อาศัยกุศลธรรมที่เป็นเหตุ
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>		  	๒.  กุศลธรรมที่ไม่ใช่เหตุ  อาศัยกุศลธรรมที่เป็นเหตุ
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class='footnote'>๑. บาลีเล่มที่  ๔๔</span>

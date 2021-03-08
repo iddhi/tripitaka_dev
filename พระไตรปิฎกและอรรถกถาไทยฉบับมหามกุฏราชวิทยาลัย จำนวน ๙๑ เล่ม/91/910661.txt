@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>กุสลติกภาวนายปหาตัพพเหตุกทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                    <H1>นกุสลติกนภาวนายปหาตัพพเหตุกทุกะ</H1>  
+<span class="LineNumber"> 003 </span>  <H2>(๑. กุสลติกะ   ๘๖. ภาวนายปหาตัพพเหตุกทุกะ)</H2>	
+<span class="LineNumber"> 004 </span>                                       <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                       <H2>ภาวนายปหาตัพพเหตุกบท</H2>	
+<span class="LineNumber"> 008 </span>           [๔๒๔] ๑.  <B>ธรรมที่ไม่ใช่ภาวนายปหาตัพพเหตุกธรรม       ที่
+<span class="LineNumber"> 009 </span>ไม่ใช่อกุศล   อาศัยธรรมที่เป็นภาวนายปหาตัพพเหตุกธรรม   ที่เป็น
+<span class="LineNumber"> 010 </span>อกุศล  เกิดขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 012 </span>           [๔๒๕]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 013 </span>                       <H2>นภาวนายปหาตัพพเหตุกบท</H2>	
+<span class="LineNumber"> 014 </span>           [๔๒๖] ๑.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่ภาวนายปหาตัพพเหตุ-
+<span class="LineNumber"> 015 </span>กธรรม   ที่ไม่ใช่กุศล   อาศัยธรรมที่ไม่ใช่ภาวนายปหาตัพพเหตุก-
+<span class="LineNumber"> 016 </span>ธรรม   ที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B> มี  ๓  วาระ.

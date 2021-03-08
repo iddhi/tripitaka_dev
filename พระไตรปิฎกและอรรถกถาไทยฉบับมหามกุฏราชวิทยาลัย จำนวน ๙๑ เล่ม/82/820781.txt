@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>อุทเทสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                              <H1>ปทโสธนวาระ  อนุโลม</H1>
+<span class="LineNumber"> 003 </span>     [๗๙๕]   ธรรมที่ชื่อว่าจักขุ.   ชื่อว่าจักขุธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>     ธรรมที่ชื่อว่าจักขุธาตุ,   ชื่อว่าจักขุ   ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>     ธรรมที่ชื่อว่าโสต,   ชื่อว่าโสตธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>     ธรรมที่ชื่อว่าโสตธาตุ,   ชื่อว่าโสต  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>                                           ฯ ล ฯ
+<span class="LineNumber"> 008 </span>     ธรรมที่ชื่อว่าจักขุวิญญาณ,   ชื่อว่าจักขุวิญญาณธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>     ธรรมที่ชื่อว่าจักขุวิญญาณธาตุ,   ชื่อว่าจักขุวิญญาณ  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>                                          ฯ ล ฯ
+<span class="LineNumber"> 011 </span>      ธรรมที่ชื่อว่ามโน,   ชื่อว่ามโนธาตุ   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>     ธรรมที่ชื่อว่ามโนธาตุ,   ชื่อว่ามโน   ใช่ไหม ?
+<span class="LineNumber"> 013 </span>     ธรรมที่ชื่อว่ามโนวิญญาณ,  ชื่อว่ามโนวิญญาณธาตุ  ใช่ไหม  ?
+<span class="LineNumber"> 014 </span>     ธรรมที่ชื่อว่ามโนวิญญาณธาตุ,  ชื่อว่ามโนวิญญาณ   ใช่ไหม ?
+<span class="LineNumber"> 015 </span>     ธรรมที่ชื่อว่าธรรม,   ชื่อว่าธัมมธาตุ    ใช่ไหม  ?
+<span class="LineNumber"> 016 </span>    ธรรมที่ชื่อว่าธัมมธาตุ,  ชื่อว่าธรรม  ใช่ไหม  ?
+<span class="LineNumber"> 017 </span>                           <I>ปทโสธนวาระ  อนุโลม  จบ</I>

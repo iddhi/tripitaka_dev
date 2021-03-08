@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>สมุฏฐานวารที่  ๕</H1>   
+<span class="LineNumber"> 002 </span>           [๘๒๑]   ถามว่า   เพราะปัจจัย  คือ  ยินดีการเคล้าคลึงด้วยกาย  อาบัติ 
+<span class="LineNumber"> 003 </span>เกิดด้วยสมุฏฐานเท่าไร   บรรดาสมุฏฐานแห่งอาบัติ  ๖
+<span class="LineNumber"> 004 </span>           ตอบว่า   เพราะปัจจัย    คือ    ยินดีการเคล้าคลึงด้วยกาย     อาบัติเกิด
+<span class="LineNumber"> 005 </span>ด้วยสมุฏฐานอันหนึ่ง     บรรดาสมุฏฐานแห่งอาบัติ  ๖    คือ   บางทีเกิดแต่กาย
+<span class="LineNumber"> 006 </span>กับจิต  มิใช่วาจา. . .
+<span class="LineNumber"> 007 </span>           ถามว่า  เพราะปัจจัย  คือ   ขอนมส้มมาฉัน   อาบัติเกิดด้วยสมุฏฐาน
+<span class="LineNumber"> 008 </span>เท่าไร   บรรดาสมุฏฐานแห่งอาบัติ  ๖                   
+<span class="LineNumber"> 009 </span>           ตอบว่า  เพราะปัจจัย  คือ  ขอนมส้มมาฉัน  อาบัติเกิดด้วยสมุฏฐาน  ๔
+<span class="LineNumber"> 010 </span>บรรดาสมุฏฐานแห่งอาบัติ  ๑   คือ   บางทีเกิดแต่กาย  มิใช่วาจา  มิใช่จิต  บางที
+<span class="LineNumber"> 011 </span>เกิดแต่กายกับวาจา   มิใช่จิต   บางทีเกิดแต่กายกับจิต   มิใช่วาจา   บางทีเกิดแต่
+<span class="LineNumber"> 012 </span>กายวาจา   และจิต.
+<span class="LineNumber"> 013 </span>                                    <I>สมุฏฐานวารที่  ๕  จบ</I>
+
+<span class="LineNumber"> 014 </span>                                         <H1>อธิกรณวารที่  ๖</H1> 
+<span class="LineNumber"> 015 </span>           [๘๒๒]   ถามว่า   เพราะปัจจัย  คือ  ยินดีการเคล้าคลึงด้วยกาย  อาบัติ
+<span class="LineNumber"> 016 </span>จัดเป็นอธิกรณ์ไหน  บรรดาอธิกรณ์ ๔
+<span class="LineNumber"> 017 </span>           ตอบว่า   เพราะปัจจัย   คือ   ยินดีการเคล้าคลึงด้วยกาย   อาบัติจัดเป็น
+<span class="LineNumber"> 018 </span>อาปัตตาธิกรณ์  บรรดาอธิกรณ์ ๔. . .                            
+<span class="LineNumber"> 019 </span>           ถามว่า  เพราะปัจจัย  คือ  ขอนมส้มมาฉัน  อาบัติจัดเป็นอธิกรณ์ไหน
+<span class="LineNumber"> 020 </span>บรรดาอธิกรณ์  ๔

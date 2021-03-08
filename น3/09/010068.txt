@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>เอตฺถ  นิวีสมานา  นิวีสติ</B>		เมื่อจะตั้งอยู่  ก็ย่อมตั้งอยู่ที่ความ   
+<span class="LineNumber"> 002 </span>					จำรูป  เสียง  กลิ่น  รส  โผฏฐัพพะ
+<span class="LineNumber"> 003 </span>					ธัมมารมณ์นั้น.
+<span class="LineNumber"> 004 </span>	<B>๗.  รูปสญฺเจตนา</B> 		ความคิดถึงรูป
+<span class="LineNumber"> 005 </span><B>สทฺทสญฺเจตนา</B>			ความคิดถึงเสียง
+<span class="LineNumber"> 006 </span><B>คนฺธสญฺเจตนา</B>			ความคิดถึงกลิ่น
+<span class="LineNumber"> 007 </span><B>รสสญฺเจตนา</B>				ความคิดถึงรส
+<span class="LineNumber"> 008 </span><B>โผฏฺ€พฺพสญฺเจตนา</B>			ความคิดถึงโผฏฐัพพะ
+<span class="LineNumber"> 009 </span><B>ธมฺมสญฺเจตนา</B>			ความคิดถึงธัมมารมณ์
+<span class="LineNumber"> 010 </span><B>โลเก  ปิยรูปํ  สาตรูปํ</B>		เป็นที่รักสนิทใจในโลก
+<span class="LineNumber"> 011 </span><B>เอตฺเถสา  ตณฺหา</B>			ตัณหานั้น  เมื่อจะเกิดขึ้นก็ย่อม
+<span class="LineNumber"> 012 </span><B>อุปฺปชฺชมานา  อุปฺปชฺชติ</B>  		เกิดขึ้นที่ความคิดถึงรูป  เสียง
+<span class="LineNumber"> 013 </span>					กลิ่น  รส  โผฏฐัพพะ  ธัมมารมณ์
+<span class="LineNumber"> 014 </span>					นั้น
+<span class="LineNumber"> 015 </span><B>เอตฺถ  นิวีสมานา  นิวีสติ</B>		เมื่อจะตั้งอยู่  ก็ย่อมตั้งอยู่ที่ความ
+<span class="LineNumber"> 016 </span>					คิดถึงรูป  เสียง  กลิ่น  รส  โผฏ-
+<span class="LineNumber"> 017 </span>					ฐัพพะ  ธัมมารมณ์นั้น.
+<span class="LineNumber"> 018 </span>	<B>๘.  รูปตณฺหา</B>		ความอยากในรูป
+<span class="LineNumber"> 019 </span><B>สทฺทตณฺหา</B>				ความอยากในเสียง
+<span class="LineNumber"> 020 </span><B>คนฺธตณฺหา</B>				ความอยากในกลิ่น
+<span class="LineNumber"> 021 </span><B>รสตณฺหา</B>				ความอยากในรส
+

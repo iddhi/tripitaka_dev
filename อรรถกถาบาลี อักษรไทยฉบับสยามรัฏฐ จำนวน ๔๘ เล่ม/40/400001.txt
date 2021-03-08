@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่  40  หน้า  1
+ 
+<span class="LineNumber"> 002 </span>		สทฺธมฺมปฺปกาสินี นาม ขุทฺทกนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>				ปฏิสมฺภิทามคฺควณฺณนา  
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>				คนฺถารมฺภกถา  
+<span class="LineNumber"> 006 </span>			โย สพฺพโลกาติคสพฺพโสภา  
+<span class="LineNumber"> 007 </span>			ยุตฺเตหิ สพฺเพหิ คุเณหิ ยุตฺโต  
+<span class="LineNumber"> 008 </span>			โทเสหิ สพฺเพหิ สวาสเนหิ  
+<span class="LineNumber"> 009 </span>			มุตฺโต วิมุตฺตึ ปรมํว (๑) ทาตา ฯ  
+<span class="LineNumber"> 010 </span>			นิจฺจํ ทยาจนฺทนสีตจิตฺโต  
+<span class="LineNumber"> 011 </span>			ปฺารวิโชติตสพฺพเนยฺโย  
+<span class="LineNumber"> 012 </span>			สพฺเพสุ ภูเตสุ ตมคฺคภูตํ  
+<span class="LineNumber"> 013 </span>			ภูตตฺถนาถํ สิรสา นมิตฺวา ฯ  
+<span class="LineNumber"> 014 </span>			โย สพฺพภูเตสุ (๒) มุนีว อคฺโค  
+<span class="LineNumber"> 015 </span>			อนนฺตสงฺเขสุ ชินตฺตเชสุ (๓)  
+<span class="LineNumber"> 016 </span>			อหูทยาาณคุเณหิ สตฺถุ-  
+<span class="LineNumber"> 017 </span>			สีลานุการี ชนตาหิเตสุ ฯ  
+<span class="LineNumber"> 018 </span>			ตํ สาริปุตฺตํ มุนิราชปุตฺตํ  
+<span class="LineNumber"> 019 </span>			เถรํ ถิราเนกคุณาภิรามํ  
+<span class="LineNumber"> 020 </span># ๑ ม.  ปรมฺจ ฯ ๒ สี.  สพฺพสตฺเตสุ ฯ ๓ สี.  ชินตฺรเชสุ ฯ  

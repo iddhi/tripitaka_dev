@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>วรรคที่  ๑๓</H1> 
+
+<span class="LineNumber"> 002 </span>                                     <H1>กัปปัฏฐกถา</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๕๑๓]   <B>สกวาที</B>  บุคคลผู้กัปปัฏฐะ   พึงดำรงอยู่ได้ตลอดกัลป์  หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. กัลป์   ดำรงอยู่ได้ด้วย    พระพุทธเจ้าอุบัติขึ้นในโลก
+<span class="LineNumber"> 006 </span>ได้ด้วย หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 008 </span>                        ส. บุคคลผู้กัปปัฏฐะพึงดำรงอยู่ได้ตลอดกัลป์    หรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                        ส. กัลป์    ดำรงอยู่ได้ด้วย   สงฆ์แตกกันได้ด้วย หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>                        ส. บุคคลผู้กัปปัฏฐะพึงดำรงอยู่ได้ตลอดกัลป์   หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                        ส. กัลป์ดำรงอยู่ได้ด้วย     บุคคลผู้กัปปัฏฐะทำกรรมอัน
+<span class="LineNumber"> 015 </span>เป็นเหตุตั้งอยู่ตลอดกัลป์ได้ด้วย หรือ ?
+<span class="LineNumber"> 016 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 017 </span>                        ส. บุคคลผู้กัปปัฏฐะพึงดำรงอยู่ได้ตลอดกัลป์   หรือ ?
+<span class="LineNumber"> 018 </span>                        ป. ถูกแล้ว. 
+<span class="LineNumber"> 019 </span>                        ส. กัลป์ดำรงอยู่ได้ด้วย     บุคคลผู้กัปปัฏฐะทำกาละได้
+<span class="LineNumber"> 020 </span>ด้วย    หรือ ?
+<span class="LineNumber"> 021 </span>                        ป  ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 022 </span>                        ส. บุคคลผู้กัปปัฏฐะพึงดำรงอยู่ได้ตลอดกัลป์ หรือ ?

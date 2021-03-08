@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                               <B>ประเภทของชีวิต</B>   
+<span class="LineNumber"> 002 </span>	๑.  ชีวิตมีประโยชน์  
+<span class="LineNumber"> 003 </span>	๒.  ชีวิตไร้ค่าหาประโยชน์มิได้   
+<span class="LineNumber"> 004 </span>	๓.  ชีวิตไม่ดีไม่ชั่วปานกลาง
+<span class="LineNumber"> 005 </span>                                  <B>เรื่องของชีวิต</B>
+<span class="LineNumber"> 006 </span>	๑.  ชีวิตเหมือนหยาดน้ำค้าง  พอถูกแสงแดดก็แห้งไป
+<span class="LineNumber"> 007 </span>	๒.  ชีวิตเหมือนเม็ดฝน  เม็ดฝนตกถึงพื้นก็แตกกระจายไป
+<span class="LineNumber"> 008 </span>	๓.  ชีวิตเหมือนเอาไม้ขีดลงไปในน้ำ   รอยที่ขีดก็หายไป
+<span class="LineNumber"> 009 </span>	๔.  ชีวิตเหมือนสายน้ำไหล
+<span class="LineNumber"> 010 </span>	๕.  ชีวิตเหมือนกับบ้วนน้ำลาย
+<span class="LineNumber"> 011 </span>	๖.  ชีวิตเหมือนกับชิ้นเนื้อ
+<span class="LineNumber"> 012 </span>	๗.  ชีวิตเหมือนกับโคที่เขาจูงไปฆ่า
+<span class="LineNumber"> 013 </span>                                 <B>ชีวิตกับการงาน</B>
+<span class="LineNumber"> 014 </span>	๑.  ทำการงานด้วยความรู้  ทำงานเป็นกับเป็นงานต่างกัน
+<span class="LineNumber"> 015 </span>	๒.  ทำงานด้วยความอดทนที่ถูกต้อง
+<span class="LineNumber"> 016 </span>	๓.  ทำด้วยความคิดที่ถูกต้อง
+<span class="LineNumber"> 017 </span>	๔.  ทำด้วยความเป็นระเบียบ
+<span class="LineNumber"> 018 </span>	๕.  ทำแล้วมีผู้สรรเสริญ
+<span class="LineNumber"> 019 </span>	๖.  ทำแล้วเป็นประโยชน์ตนประโยชน์ท่าน
+	

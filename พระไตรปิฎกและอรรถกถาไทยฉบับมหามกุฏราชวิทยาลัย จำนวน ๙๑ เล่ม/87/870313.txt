@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           คือ   อธิปติธรรมที่เป็นเสกขธรรม    เจือกับขันธ์ทั้งหลายที่เป็นเสกข- 
+<span class="LineNumber"> 002 </span>ธรรม. 
+<span class="LineNumber"> 003 </span>                     ๒.  <B>อเสกขธรรม  เจือกับอเสกธรรม  ฯลฯ</B>
+<span class="LineNumber"> 004 </span>           คือ   อธิปติธรรมที่เป็นอเสกขธรรม  เจือกันขันธ์ทั้งหลายที่เป็นอเสกข-
+<span class="LineNumber"> 005 </span>ธรรม.
+<span class="LineNumber"> 006 </span>                     ๓.  <B>เนวเสกขานาเสกขธรรม  เจือกับเนวเสกขานา-  
+<span class="LineNumber"> 007 </span>เสกขธรรม  เกิดขึ้น  เพราะนอธิปติปัจจัย  พึงใส่ให้เต็ม ๓ วาระ.</B>
+<span class="LineNumber"> 008 </span>                      <H1>๓.  นปุเรชาตปัจจัย ฯลฯ  ๑๐.  นวิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๑๒๒๙]   <B>เสกขธรรม  เจือกับเสกขธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 010 </span>นปุเรชาตปัจจัย,  เพราะนปัจฉาชาตปัจจัย,  เพราะนอาเสวนปัจจัย,
+<span class="LineNumber"> 011 </span>เพราะนกัมมปัจจัย  พึงกระทำ ๒  วาระ.</B>
+<span class="LineNumber"> 012 </span>                       <B>เพราะนวิปากปัจจัย  พึงกระทำ ๒ วาระ.</B>
+<span class="LineNumber"> 013 </span>                       <B>เพราะนฌานปัจจัย,  เพราะนมัคคปัจจัย</B> (๒ ปัจจัยนี้
+<span class="LineNumber"> 014 </span>มี ๑ วาระ)  <B>เพราะนวิปปยุตตปัจจัย</B> (มี ๓ วาระ)
+
+<span class="LineNumber"> 015 </span>                             <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 016 </span>           [๑๒๓๐]  ในนเหตุปัจจัย  มี ๑ วาระ  ในนอธิปติปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 017 </span>ในนปุเรชาตปัจจัย  มี ๓ วาระ  ในนปัจฉาชาตปัจจัย  มี ๓ วาระ  ในนอาเสวน-
+<span class="LineNumber"> 018 </span>ปัจจัย มี ๓ วาระ  ในนกัมมปัจจัย ๒  วาระ  ในนวิปากปัจจัย  มี ๒  วาระ
+<span class="LineNumber"> 019 </span>ในนฌานปัจจัย  มี  ๑ วาระ  ในนมัคคปัจจัย มี ๑ วาระ  ในนวิปปยุตตปัจจัย
+<span class="LineNumber"> 020 </span>มี ๓ วาระ.
+<span class="LineNumber"> 021 </span>           พึงนับอย่างนี้
+<span class="LineNumber"> 022 </span>                                            <I>ปัจจนียนัย   จบ</I>

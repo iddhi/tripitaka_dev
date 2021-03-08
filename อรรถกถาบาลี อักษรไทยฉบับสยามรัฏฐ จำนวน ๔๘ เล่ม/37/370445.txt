@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 445
+
+<span class="LineNumber"> 002 </span>กาเล  เตเนว  สทฺธึ  อฑฺฒา  สุขปฺปตฺตา  โหติ ฯ  ตํ  เว  เทวา 
+<span class="LineNumber"> 003 </span>ปสํสนฺตีติ  เทวาปิ  ตํ  เอวรูปํ  อิตฺถึ  ปสํสนฺติ ฯ  อภิชฺชนฺตฺยาติ 
+<span class="LineNumber"> 004 </span>อเภชฺชนฺติยา  สเจปิ  หิ  อิตฺถิยา  สกลป€วี  น  ภิชฺชติ  สกลาย 
+<span class="LineNumber"> 005 </span>ป€วิยา  สา  จ  อิสฺสรา  โหติ  ตถาปิ  เวธพฺยํ  กฏุกเมวาติ  
+<span class="LineNumber"> 006 </span>อตฺโถ ฯ สุขรา วต อิตฺถิโยติ สุฏฺ€ุ ขรา วต อิตฺถิโยติ ฯ  
+<span class="LineNumber"> 007 </span>	[๑๐๙๔]ตมพฺรวี มหาราชา	มทฺทึ สพฺพงฺคโสภนํ  
+<span class="LineNumber"> 008 </span>		อิเม เต ทหรา ปุตฺตา	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 009 </span>		นิกฺขิป ลกฺขเณ คจฺฉ	มยนฺเต โปสยามเสติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ชาลี  กณฺหาชินา  จุโภติ  ชาลี  จ  กณฺหาชินา  จาติ  
+<span class="LineNumber"> 011 </span>อุโภ ฯ นิกฺขิปาติ อิเม นิกฺขิปิตฺวา €เปตฺวา(๑) คจฺฉาหีติ ฯ  
+<span class="LineNumber"> 012 </span>	[๑๐๙๕]ตมพฺรวี ราชปุตฺตี	มทฺที สพฺพงฺคโสภ นา  
+<span class="LineNumber"> 013 </span>		ปิยา เม ปุตฺตกา เทว	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 014 </span>		ตฺยมฺหํ ตตฺถ รมิสฺสนฺติ	อรฺเ ชีวิโสกินนฺติ(๒) ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  ตฺยมฺหนฺติ  เต  ทารกา  อมฺหากํ  ตตฺถ  อรฺเ ฯ  
+<span class="LineNumber"> 016 </span>ชีวิโสกินนฺติ อวิคตโสกานํ หทยํ รมิสฺสนฺตีติ(๓) อตฺโถ ฯ  
+<span class="LineNumber"> 017 </span>	[๑๐๙๖]ตมพฺรวี มหาราชา	สิวีนํ รฏฺ€วฑฺฒโน  
+<span class="LineNumber"> 018 </span>		สาลีนโมทนํ (๔)ภุตฺวา	สุจิมํสูปเสจนํ  
+<span class="LineNumber"> 019 </span>		รุกฺขผลานิ ภุฺชนฺตา	กถํ กาหนฺติ ทารกา  
+<span class="LineNumber"> 020 </span>		ภุตฺวา สตปเล กํเส	โสวณฺเณ สตราชิเก  
+<span class="LineNumber"> 021 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. ชีวโสกินนฺติ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. รมยิสฺสนฺตีติ ฯ  ๔. ม. สาลีนํ โอทนํ ฯ

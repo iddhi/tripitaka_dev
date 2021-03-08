@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>		     	      <H1>ปริตตารัมมณติกเหตุทุกะ</H1> 
+<span class="LineNumber"> 002 </span>		<H2>(๑๓.  ปริตตารัมมณติกะ ๑. เหตุทุกะ)</H2>	
+<span class="LineNumber"> 003 </span>			            <H1>เหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>			 	    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>			          <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๒๙๐]  ๑.  เหตุธรรมที่เป็นปริตตารัมมณธรรม     อาศัยเหตุ-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นปริตตารัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                         ๒.  เหตุธรรมที่เป็นมหัคคตารัมมณธรรม  อาศัยเหตุ-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นมหัคคตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย 
+<span class="LineNumber"> 010 </span>                         ๓.  เหตุธรรมที่เป็นอัปปมาณารัมมณธรรม  อาศัย
+<span class="LineNumber"> 011 </span>เหตุธรรมที่เป็นอัปปมาณารัมมณธรรม   เกิดขึ้น    เพราะเหตุปัจจัย 
+<span class="LineNumber"> 012 </span>ฯลฯ
+<span class="LineNumber"> 013 </span>                <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>		[๒๙๑]  ในเหตุปัจจัย มี ๓ วาระ ในอารัมมณปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 015 </span>ในวิคตปัจจัย มี ๓ วาระ  ในอวิคตปัจจัย มี ๓ วาระ.

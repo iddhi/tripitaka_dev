@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ 
+<span class="LineNumber"> 002 </span>                        ส. อวิชชา  อวิชโชฆะ  ฯลฯ  อวิชชานิวรณ์   เป็นสเหตุกะ
+<span class="LineNumber"> 003 </span>หรือ  ?
+<span class="LineNumber"> 004 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. อวิชชานุสัย  เป็นสเหตุกะ   หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>         [๑๔๔๒]   ป. ไม่พึงกล่าวว่า   อนุสัยเป็นอเหตุกะ หรือ ?
+<span class="LineNumber"> 008 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                        ป. ปุถุชน   เมื่อจิตที่เป็นบุคคลและเป็นอัพยากฤตเป็นไปอยู่
+<span class="LineNumber"> 010 </span>พึงกล่าวว่า  ผู้มีอนุสัย  หรือ ?
+<span class="LineNumber"> 011 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                        ป. อนุสัยเป็นสเหตุกะโดยเหตุอันนั้น หรือ ?
+<span class="LineNumber"> 013 </span>                        ส. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 014 </span>                        ป. ถ้าอย่างนั้น   อนุสัยก็เป็นอเหตุกะ  น่ะสิ
+<span class="LineNumber"> 015 </span>                        ส. ปุถุชน   เมื่อจิตที่เป็นกุศลและที่เป็นอัพยากฤต   เป็น
+<span class="LineNumber"> 016 </span>ไปอยู่   พึงกล่าวว่า   เป็นผู้มีราคะ  หรือ ?
+<span class="LineNumber"> 017 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                        ส.  ราคะเป็นสเหตุกะโดยเหตุอันนั้น   หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 020 </span>                        ส. ถ้าอย่างนั้น  ราคะก็เป็นอเหตุกะ  น่ะสิ
+<span class="LineNumber"> 021 </span>         [๑๔๔๓]   ส. อนุสัยเป็นจิตตวิปปยุต<SUP>๑</SUP>  หรือ ?
+<span class="LineNumber"> 022 </span>                        ป. ถูกแล้ว.
+
+<span class='footnote'>๑. ไม่ประกอบกับจิต.</span>

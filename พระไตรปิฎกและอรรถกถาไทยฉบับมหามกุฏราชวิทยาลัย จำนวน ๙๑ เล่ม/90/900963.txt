@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>			<H1>อาสวสัมปยุตตโนอาสวบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 002 </span>					<H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 003 </span>			             <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๖๖๕]  ๑.  ธรรมที่เป็นอาสวสัมปยุตตธรรม   แต่ไม่ใช่อาสว-
+<span class="LineNumber"> 005 </span>ธรรมที่เป็นอกุศล   อาศัยธรรมที่เป็นอาสวสัมปยุตตธรรม  แต่ไม่ใช่
+<span class="LineNumber"> 006 </span>อาสวธรรมที่เป็นอกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 007 </span>                  	 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>		[๖๖๖]  ในเหตุปัจจัย  มี   ๑ วาระ     ในอารัมมณปัจจัย  มี   ๑  วาระ
+<span class="LineNumber"> 009 </span>ฯลฯ ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>                 ในสหชาตวาระก็ดี   ฯลฯ   ในสัมปยุตตวาระก็ดี  ในปัญหาวาระก็ดี
+<span class="LineNumber"> 011 </span>ทุกปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 012 </span>                        <I>กุสลติกอาสวอาสวสัมปยุตตทุกะ  จบ</I>

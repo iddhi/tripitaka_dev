@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  428
+
+<span class="LineNumber"> 002 </span>น  สกฺกา  พุทฺเธน  ภวิตุนฺติ  จินฺเตตฺวา  กึ ปน ตฺวํ 
+<span class="LineNumber"> 003 </span>เวสฺสนฺตร  ปเรสํ  ทาสตฺถาย  ทินฺนปุตฺตานํ  ทุกฺขภาวํ  น  
+<span class="LineNumber"> 004 </span>ชานาสิ  เยน  พฺราหฺมณํ  อนุพนฺธิตฺวา  ชีวิตกฺขยํ  ปาเปสฺสามีติ
+<span class="LineNumber"> 005 </span>สฺํ  อุปฺปาเทสิ ฯ  ทานํ  ทตฺวา  ปจฺฉานุตาโป  นาม  ตว  
+<span class="LineNumber"> 006 </span>นานุรูโป  โหตีติ  เอวํ อตฺตานํ  ปริภาสิตฺวา  สเจปิ  เอโส  
+<span class="LineNumber"> 007 </span>กุมาเร  มาเรสฺสติ  ทินฺนกาลโต  ปฏฺ€าย  มม  กิฺจิ  น  โหตีติ  
+<span class="LineNumber"> 008 </span>ทฬฺหํ  สีลสมาทานํ(๑)  อธิฏฺ€าย  ปณฺณสาลโต  นิกฺขมิตฺวา
+<span class="LineNumber"> 009 </span>ปณฺณสาลทฺวาเร ปาสาณผลเก กาฺจนปติมา วิย นิสีทิ ฯ  
+<span class="LineNumber"> 010 </span>	ชูชโกปิ โพธิสตฺตสฺส สมฺมุเข กุมาเร โปเถตฺวา เนติ ฯ  
+<span class="LineNumber"> 011 </span>	ตโต กุมาโร วิลปนฺโต อาห  
+<span class="LineNumber"> 012 </span>	[๑๑๗๘]สจฺจํ กิเรวมาหํสุ		นรา เอกจฺจิยา อิธ  
+<span class="LineNumber"> 013 </span>		ยสฺส นตฺถิ สกา มาตา	ยถา นตฺถิ ตเถว โส  
+<span class="LineNumber"> 014 </span>		เอหิ กณฺเห มริสฺสาม	นตฺถตฺโถ ชีวิเตน โน  
+<span class="LineNumber"> 015 </span>		ทินฺนมฺหาปิ ชนินฺเทน	พฺราหฺมณสฺส ธเนสิโน  
+<span class="LineNumber"> 016 </span>		อจฺจายิกสฺส ลุทฺทสฺส	โย โน คาโวว สุมฺภติ  
+<span class="LineNumber"> 017 </span>		อิเม เต ชมฺพุกา รุกฺขา	เวทิสา สินฺธุวาริตา(๒)  
+<span class="LineNumber"> 018 </span>		วิวิธานิ รุกฺขชาตานิ	ตานิ กณฺเห ชหามฺหเส(๓)  
+<span class="LineNumber"> 019 </span>		อสฺสตฺถา ปนสา เจ เม	นิโคฺรธา จ กปิตฺถนา  
+<span class="LineNumber"> 020 </span>		วิวิธานิ ผลชาตานิ		ตานิ กณฺเห ชหามฺหเส(๓)  
+<span class="LineNumber"> 021 </span># ๑. ม. ทฬฺหสมาทานํ ฯ  ๒. ม. สินฺธุวารกา ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ชหามเส ฯ 

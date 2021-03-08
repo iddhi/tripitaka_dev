@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>อนาคตวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                       <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ  โทมนัสสินทริยมูลี:-</B> 
+<span class="LineNumber"> 004 </span>         [๑๓๗๕]  บุคคลใดจักรู้แจ้งจักขุนทรีย์,      บุคคลนั้นก็จักละ
+<span class="LineNumber"> 005 </span>โทมนัสสินทรีย์  ใช่ไหม   ?
+<span class="LineNumber"> 006 </span>         บุคคล  ๒  จำพวก   จักรู้แจ้งจักขุนทรีย์   แต่ไม่ใช่จักละโทมนัส-
+<span class="LineNumber"> 007 </span>สินทรีย์,   บุคคล  ๕  จำพวก   จักรู้แจ้งจักขุนทรีย์   และก็จักละโทมนัส-
+<span class="LineNumber"> 008 </span>สินทรีย์.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   บุคคลใดจักละโทมนัสสินทรีย์,    บุคคลนั้นก็จักรู้แจ้ง
+<span class="LineNumber"> 010 </span>จักขุนทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>                     <I>จบ   จักขุนทริยมูละ  โทมนัสสินทริยมูลี</I>
+
+<span class="LineNumber"> 013 </span><B>จักขุนทริยมูละ  อนัญญาตัญญัสสามีตินทริยมูลี:-</B>
+<span class="LineNumber"> 014 </span>         [๑๓๗๖]  บุคคลใดจักรู้แจ้งจักขุนทรีย์,   บุคคลนั้นก็จักเจริญ
+<span class="LineNumber"> 015 </span>อนัญญาตัญญัสสามีตินทรีย์  ใช่ไหม  ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  ทุกนิปาตวณฺณนา  หน้า  218
+		
+<span class="LineNumber"> 002 </span>ตสฺส  อปฺปมาทปทสฺส  วิย  เตปิฏกมฺปิ  พุทฺธวจนํ  ยุตฺติโต
+<span class="LineNumber"> 003 </span>อตฺถภาเวน (๑)  อาหรนฺโต อติตฺเถน ธมฺมกถิโก ปกฺขนฺโทติ(๒) น 
+<span class="LineNumber"> 004 </span>วตฺตพฺโพติ ฯ ตตฺเถตํ วุจฺจติ
+<span class="LineNumber"> 005 </span>		ยเถว โลเก ปุริมา มเหสิโน
+<span class="LineNumber"> 006 </span>		สพฺพฺุภาวํ มุนโย อิธาคตา
+<span class="LineNumber"> 007 </span>		ตถา อยํ สกฺยมุนีปิ อาคโต
+<span class="LineNumber"> 008 </span>		ตถาคโต วุจฺจติ เตน จกฺขุมา ฯ
+<span class="LineNumber"> 009 </span>		ปหาย กามาทิมเล อเสสโต
+<span class="LineNumber"> 010 </span>		สมาธิาเณหิ ยถา คตา ชินา
+<span class="LineNumber"> 011 </span>		ปุราตนา สกฺยมุนี ชุตินฺธโร
+<span class="LineNumber"> 012 </span>		ตถา คโต เตน ตถาคโต มโต ฯ
+<span class="LineNumber"> 013 </span>		ตถฺจ ธาตายตนาทิลกฺขณํ
+<span class="LineNumber"> 014 </span>		สภาวสามฺวิภาคเภทโต
+<span class="LineNumber"> 015 </span>		สยมฺภุาเณน ชิโน ตถา คโต(๓)
+<span class="LineNumber"> 016 </span>		ตถาคโต วุจฺจติ สกฺยปุงฺคโว ฯ
+<span class="LineNumber"> 017 </span>		ตถานิ สจฺจานิ สมนฺตจกฺขุนา
+<span class="LineNumber"> 018 </span>		ตถา อิทปฺปจฺจยตา จ สพฺพโส
+<span class="LineNumber"> 019 </span>		อนฺเนยฺยานยโต วิภาวิตา
+<span class="LineNumber"> 020 </span>		ตถา คโต เตน ชิโน ตถาคโต ฯ
+<span class="LineNumber"> 021 </span># ๑. สี. อตฺถิภาเวน ฯ  ๒. ม. ปกฺขนฺโทติ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. ชิโนยมาคโต ฯ

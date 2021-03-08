@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                <H1>นิยตทุกกุสลติกนนิยตทุกนกุสลติกะ</H1>  
+<span class="LineNumber"> 002 </span>              <H2>(๙๘. นิยตทุกะ  ๑.  กุสลติกะ)</H2>		
+<span class="LineNumber"> 003 </span>                                 <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                       <H2>กุศลบท</H2>
+<span class="LineNumber"> 007 </span>           [๓๑๒] ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่นิยตธรรม  อาศัยธรรม
+<span class="LineNumber"> 008 </span>ที่เป็นกุศล  ที่เป็นนิยตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                       ๒.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่นิยตธรรม  อาศัยธรรม
+<span class="LineNumber"> 010 </span>ที่เป็นกุศล  ที่เป็นอนิยตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๒  วาระ.
+
+<span class="LineNumber"> 011 </span>                                        <H2>อกุศลบท</H2>
+<span class="LineNumber"> 012 </span>                       ๑.  <B>ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่นิยตธรรม   อาศัยธรรม
+<span class="LineNumber"> 013 </span>ที่เป็นอกุศล  ที่เป็นนิยตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อกุศล  ที่ไม่ใช่นิยตธรรม  อาศัย
+<span class="LineNumber"> 015 </span>ธรรมที่เป็นอกุศล  ที่เป็นอนิยตธรรม   เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 016 </span>มี ๒  วาระ.
+<span class="LineNumber"> 017 </span>           อัพยากตมูล  มี  ๒  วาระ.
+<span class="LineNumber"> 018 </span>                    <I>นิยตทุกกุสลติกนนิยตทุกนกุสลติกะ  จบ</I>		

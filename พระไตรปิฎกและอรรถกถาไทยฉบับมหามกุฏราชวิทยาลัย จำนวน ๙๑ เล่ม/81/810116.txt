@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>กามคุณกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๒๑๐]  <B>สกวาที</B>  กามคุณ ๕ เท่านั้น เป็นกามธาตุหรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. ความพอใจเกี่ยวด้วยกามคุณ ๕ นั้น มีอยู่  มิใช่หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ส. หากว่า  ความพอใจเกี่ยวด้วยกามคุณนั้นมีอยู่    ก็ต้อง
+<span class="LineNumber"> 007 </span>ไม่กล่าวว่า กามคุณ  ๕  เท่านั้น เป็นกามธาตุ.
+<span class="LineNumber"> 008 </span>                       ส. ความกำหนัดเกี่ยวด้วยกามคุณ  ๕  นั้น ความกำหนัด 
+<span class="LineNumber"> 009 </span>ด้วยอำนาจความพอใจเกี่ยวด้วยกามคุณ    ๕    นั้น    ความดำริเกี่ยวด้วย
+<span class="LineNumber"> 010 </span>กามคุณ  ๕  นั้น ความกำหนัดเกี่ยวด้วยกามคุณ ๕ นั้น ความกำหนัดด้วย
+<span class="LineNumber"> 011 </span>อำนาจความดำริเกี่ยวด้วยกามคุณ  ๕  นั้น   ปีติเกี่ยวด้วยกามคุณ  ๕  นั้น
+<span class="LineNumber"> 012 </span>โสมนัสเกี่ยวด้วยกามคุณ  ๕  นั้น ปีติโสมนัสเกี่ยวด้วยกามคุณ  ๕  นั้น มีอยู่
+<span class="LineNumber"> 013 </span>มิใช่หรือ ?
+<span class="LineNumber"> 014 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                       ส. หากว่า  ปีติโสมนัสเกี่ยวด้วยกามคุณ  ๕  นั้นมีอยู่   ก็
+<span class="LineNumber"> 016 </span>ต้องไม่กล่าวว่า กามคุณ ๕ เท่านั้น เป็นกามธาตุ. 
+<span class="LineNumber"> 017 </span>         [๑๒๑๑]   ส. กามคุณ  ๕ เท่านั้น เป็นกามธาตุหรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                       ส. จักษุของมนุษย์ทั้งหลาย ไม่เป็นกามธาตุหรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 021 </span>                       ส. โสตะ   ฆานะ  ชิวหา  กาย  มโน  ของมนุษย์ทั้งหลาย
+<span class="LineNumber"> 022 </span>ไม่เป็นกามธาตุ หรือ ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  46  นิทานกถา  หน้า  111
+
+<span class="LineNumber"> 002 </span>		มนุสฺสตฺตํ  ลิงฺคสมฺปตฺติ	เหตุ สตฺถารทสฺสนํ  
+<span class="LineNumber"> 003 </span>		ปพฺพชฺชา คุณสมฺปตฺติ	อธิกาโร จ ฉนฺทตา  
+<span class="LineNumber"> 004 </span>		อฏฺ€ธมฺมสโมธานา	อภินีหาโร  สมิชฺฌตีติ  (๑)  
+<span class="LineNumber"> 005 </span>อิเม  อฏฺ€  ธมฺเม  สโมธาเนตฺวา  ทีปงฺกรปาทมูเล  กตาภินีหาเรน  
+<span class="LineNumber"> 006 </span>หนฺท พุทฺธกเร  ธมฺเม  วิจินามิ  อิโต  จิโตติ  อุสฺสาหํ  กตฺวา  
+<span class="LineNumber"> 007 </span>วิจินนฺโต  ตทา  ทกฺขึ  ป€มํ  ทานปารมินฺติ  ทานปารมิตาทโย  
+<span class="LineNumber"> 008 </span>พุทฺธการกธมฺมา   ทิฏฺ€า  เต ปูเรนฺโต  ยาว  เวสฺสนฺตรตฺตภาวา  
+<span class="LineNumber"> 009 </span>อาคมิ ฯ  อาคจฺฉนฺโต  เย  เต  กตาภินีหารานํ   โพธิสตฺตานํ  
+<span class="LineNumber"> 010 </span>อานิสํสา สํวณฺณิตา  
+<span class="LineNumber"> 011 </span>		เอวํ สพฺพงฺคสมฺปนฺนา	โพธิยา นิยตา นรา  
+<span class="LineNumber"> 012 </span>		สํสรํ ทีฆมทฺธานํ		กปฺปโกฏิสเตหิปิ ฯ  
+<span class="LineNumber"> 013 </span>		อวีจิมฺหิ น อุปฺปชฺชนฺติ	ตถา โลกนฺตเรสุ จ  
+<span class="LineNumber"> 014 </span>		นิชฺฌามตณฺหาขุปฺปิปาสา   น โหนฺติ กาลกฺชิกา (๒) ฯ  
+<span class="LineNumber"> 015 </span>		น โหนฺติ ขุทฺทกา ปาณา	อุปฺปชฺชนฺตาปิ ทุคฺคตึ  
+<span class="LineNumber"> 016 </span>		ชายมานา มนุสฺเสสุ	ชจฺจนฺธา น ภวนฺติ เต ฯ  
+<span class="LineNumber"> 017 </span>		โสตเวกลฺลตา นตฺถิ		น ภวนฺติ มูคปกฺขิกา  
+<span class="LineNumber"> 018 </span>		อิตฺถีภาวํ น คจฺฉนฺติ	อุภโตพฺยฺชนปณฺฑกา ฯ  
+<span class="LineNumber"> 019 </span>		น ภวนฺติ ปริยาปนฺนา	โพธิยา นิยตา นรา  
+<span class="LineNumber"> 020 </span>		มุตฺตา อานนฺตริเกหิ	สพฺพตฺถ  สุทฺธโคจรา ฯ  
+<span class="LineNumber"> 021 </span># ๑. ขุ. พุทฺธ.  ๓๓/๒/๔๒๒ ฯ ๒. สี. กาลกฺจิกา ฯ ม. กาลกฺชกา ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. มูคปกฺขิกา ฯ

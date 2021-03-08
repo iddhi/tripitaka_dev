@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  สาริปุตฺตตฺเถรคาถาวณฺณนา  609  
+
+<span class="LineNumber"> 002 </span>		อุโภ  กูเลสุ  นทิยา  (๑)  		ปุปฺผิโน  ผลิโน  ทุมา  
+<span class="LineNumber"> 003 </span>		อุภโต  อภิลมฺพนฺตา  (๒)  		โสภยนฺติ  (๓)  มมสฺสมํ ฯ  
+<span class="LineNumber"> 004 </span>		อมฺพา  สาลา  จ  ติลกา  		ปาฏลี  สินฺทุวาริกา  (๔)  
+<span class="LineNumber"> 005 </span>		ทิพฺพคนฺธา  สมฺปวนฺติ  		ปุปฺผิตา  มม  อสฺสเม.  
+<span class="LineNumber"> 006 </span>		จมฺมกา  (๕)  สฬลา  นีปา  		นาคปุนฺนาคเกตกา  
+<span class="LineNumber"> 007 </span>		ทิพฺพคนฺธา  สมฺปวนฺติ  		ปุปฺผิตา  มม  อสฺสเม  
+<span class="LineNumber"> 008 </span>		อติมุตฺตา  อโสกา  จ  		ภคินีมาลา  จ  ปุปฺผิตา  
+<span class="LineNumber"> 009 </span>		องฺโกลา  พิมฺพิชาลา  จ  		ปุปฺผิตา  มม  อสฺสเม.  
+<span class="LineNumber"> 010 </span>		เกตกา  กทลี  (๖)  เจว  		โคธุกา  (๗)  ติณสูลิกา  
+<span class="LineNumber"> 011 </span>		ทิพฺพคนฺธํ  สมฺปวนฺตา  		โสภยนฺติ  มมสฺสมํ  (๘)  ฯ  
+<span class="LineNumber"> 012 </span>		กณิการา  กณฺณิกา  จ  (๙)  		อสนา  อชฺชุนา  (๑๐)  พหู  
+<span class="LineNumber"> 013 </span>		ทิพฺพคนฺธํ  สมฺปวนฺตา  		โสภยนฺติ  มมสฺสมํ  (๘)  ฯ  
+<span class="LineNumber"> 014 </span>		ปุนฺนาคา  คิริปุนฺนาคา  (๑๑)	โกวิฬารา  จ  ปุปฺผิตา  
+<span class="LineNumber"> 015 </span>		ทิพฺพคนฺธํ  สมฺปวนฺตา  		โสภยนฺติ  มมสฺสมํ  (๘)  ฯ  
+<span class="LineNumber"> 016 </span>		อุทฺทาลกา  จ  กุฏชา  		กทมฺพา  วกุลา  พหู  
+<span class="LineNumber"> 017 </span>		ทิพฺพคนฺธํ  สมฺปวนฺตา  		โสภยนฺติ  มมสฺสมํ  (๘)  ฯ  
+<span class="LineNumber"> 018 </span>#๑.  สฺยา. อุโภกูเลสุ  ฯ  ๒.  สฺยา. อติลมฺพนฺติ  ฯ  ๓.  สฺยา.  โสภยนฺตา  ฯ  
+<span class="LineNumber"> 019 </span>#๔.  สิยา. สินทุวาริตา  ฯ  ๕.  สฺยา. จมฺปกา  ฯ  ๖.  สฺยา. กทลี  ฯ  
+<span class="LineNumber"> 020 </span>#๗.  สฺยา. เกพุกา  ฯ  ๘.  สฺยา. ทิพฺพา  คนฺธา  สมฺปวนฺติ  โสภยนฺตา  
+<span class="LineNumber"> 021 </span>#มมสฺสมํ  ฯ  ๙.  สฺยา. กณิกา กณฺณิการา  จ  ฯ  ๑๐.  สฺยา. อฺชนา  ฯ  
+<span class="LineNumber"> 022 </span>#๑๑.  สฺยา. ปุณิณาวา  คิริปุณณาวา  ฯ  

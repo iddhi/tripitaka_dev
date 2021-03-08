@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  สมฺโมหวิโนทนี หน้า  320
+
+<span class="LineNumber"> 002 </span>	อวิชฺชาทีหิ  ปน  การเณหิ  สงฺขาราทีนํเยว  สมฺภโว 
+<span class="LineNumber"> 003 </span>ขีราทีหิ  ทธิอาทีนํ  วิย  น  อฺเสนฺติ  อยํ  เอวํธมฺมตานโย
+<span class="LineNumber"> 004 </span>นาม  ยํ สมฺมา ปสฺสนฺโต ปจฺจยานุรูปโต  ผลาวโพธโต 
+<span class="LineNumber"> 005 </span>อเหตุกทิฏฺ€ิฺจ อกิริยทิฏฺ€ิฺจ ปชหติ มิจฺฉา ปสฺสนฺโต 
+<span class="LineNumber"> 006 </span>ปจฺจยานุรูปํ  ผลปฺปวตฺตึ  อคฺคเหตฺวา  ยโต กุโตจิ ยสฺส กสฺสจิ 
+<span class="LineNumber"> 007 </span>อสมฺภวคฺคหณโต อเหตุกทิฏฺ€ิฺเจว  นิยตวาทฺจ อุปาทิยตีติ
+<span class="LineNumber"> 008 </span>เอวมิทํ ภวจกฺกํ  
+<span class="LineNumber"> 009 </span>		สจฺจปฺปภวโต กิจฺจา	วรณา(๑) อุปมาหิ จ  
+<span class="LineNumber"> 010 </span>		คมฺภีรนยเภทา จ	วิฺาตพฺพํ ยถารหํ ฯ  
+<span class="LineNumber"> 011 </span>	อิทฺหิ  คมฺภีรโต  อคาธํ  นานานยคฺคหณโต  ทุรติยานํ (๒)
+<span class="LineNumber"> 012 </span>าณาสินา  สมาธิปวรสิลายํ สุนิสิเตน	ภวจกฺกมปทาเลตฺวา  
+<span class="LineNumber"> 013 </span>อสนิวิจกฺกมิว นิจฺจนิมฺมถนํ  สํสารภยมตีโต  น โกจิ 
+<span class="LineNumber"> 014 </span>สุปินนฺตเรปฺยตฺถิ ฯ  
+<span class="LineNumber"> 015 </span>	วุตฺตมฺปิ  เจตํ  ภควตา  คมฺภีโร  จายํ อานนฺท ปฏิจฺจ-
+<span class="LineNumber"> 016 </span>สมุปฺปาโท คมฺภีราวภาโส  จ  เอตสฺส  อานนฺท  ธมฺมสฺส  
+<span class="LineNumber"> 017 </span>อฺาณา (๓) อนนุโพธา (๔) อปฺปฏิเวธา  เอวมยํ  ปชา  ตนฺตากุลก-
+<span class="LineNumber"> 018 </span>ชาตา  คุฬีคณฺ€ิกชาตา (๕) มุฺชปพฺพชภูตา  อปายํ  ทุคฺคตึ  
+<span class="LineNumber"> 019 </span># ๑. ม. วารณา ฯ  ๒. ม.ทุรภิยานํ ฯ  ๓. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 020 </span># ๔. ม.อนนุโพโธ ฯ  ๕. ม. กุลคณฺฑิกชาตา ฯ 

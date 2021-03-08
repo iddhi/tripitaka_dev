@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ศาสดา  และให้อุตตรมาณพนำไปเฝ้า  มหาชนพลอยไปด้วยเป็นอันมาก
+<span class="LineNumber"> 002 </span>เขารำพันความจำเดิมแต่เคยชวยจนถึงเกิดในกำเนิดอเหตุกสัตว์  พระองค์
+<span class="LineNumber"> 003 </span>จึงทรงแสดงธรรมโปรดตลอดทั้งประชุม  ก็เพลงขับถามและตอบนั้น  
+<span class="LineNumber"> 004 </span>ดังนี้ :-                                 
+<span class="LineNumber"> 005 </span>                                                 ถาม
+<span class="LineNumber"> 006 </span><B>[ ๑๓๗ ]  กึสุ  อธิปตี  ราชา</B>			อะไรเอ่ย  ผู้เป็นใหญ่  เป็นท้าว
+<span class="LineNumber"> 007 </span>							พญา ?
+<span class="LineNumber"> 008 </span><B>กึสุ  ราช  รชสฺสิโร</B>				อะไรเอ่ย ท้าวพญา  มีละออง
+<span class="LineNumber"> 009 </span>							บนศีรษะ ?
+<span class="LineNumber"> 010 </span><B>กถํ  สุ วิรโช  โหติ</B>				อย่างไรเอ่ย  ท้าวพญา  จึงสิ้น
+<span class="LineNumber"> 011 </span>							ละออง ?
+<span class="LineNumber"> 012 </span><B>กถํ  พาโลติ  วุจฺจติ.</B>				อย่างไรเอ่ย  ท้าวพญา  จึงถูก
+<span class="LineNumber"> 013 </span>							เรียกว่าคนเขลา ?
+<span class="LineNumber"> 014 </span>                                                 ตอบ
+<span class="LineNumber"> 015 </span><B>[ ๑๓๘ ] ฉทฺวาราธิปตี ราชา</B>				ผู้เป็นใหญ่ ๖ ทาง  เป็นท้าวพญา
+<span class="LineNumber"> 016 </span><B>รชมาโน   รชสฺสิโร</B>					ท้าวพญาติดใจ  จึงมีละอองบน
+<span class="LineNumber"> 017 </span>								ศีรษะ
+<span class="LineNumber"> 018 </span><B>อรชํ  วิรโช  โหติ	</B>					ท้าวพญาไม่ติดใจ  จึงสิ้นละออง
+<span class="LineNumber"> 019 </span><B>รชํ  พาโลติ  วุจฺจติ</B>					ท้าวพญาติดใจ  จึงถูกเรียกว่าคน
+<span class="LineNumber"> 020 </span>								เขลา
+
+<span class='footnote'>๑๓๗.  ธมฺ. ๖/๙๕.		๑๓๘.  ธมฺ.  ๖/๙๖</span>

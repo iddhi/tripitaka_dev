@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>จงฟังสิกขาบทเหล่านั้น  ดังจะกล่าวต่อไป   
+<span class="LineNumber"> 002 </span>                   ปาราชิก  ๘    สังฆาทิเสส  ๑๗   นิสสัคคิยะ
+<span class="LineNumber"> 003 </span>                   ๓๐ ถ้วน      ขุททกะ ๑๖๖   ปาฏิเทสนียะ  ๘   
+<span class="LineNumber"> 004 </span>                   เสขิยะ ๗๕    สิกขาบทของภิกษุณีรวม   ๓๐๔
+<span class="LineNumber"> 005 </span>                   สิกขาบทมาสู่อุเทศทุกวันอุโบสถ.</B>
+
+<span class="LineNumber"> 006 </span>	                       <H1>อสาธารณสิกขาบทของภิกษุ</H1>
+<span class="LineNumber"> 007 </span>                             [๑,๐๒๗]  <B>สิกขาบทของภิกษุ  ที่ไม่
+<span class="LineNumber"> 008 </span>                   ทั่วไปกับภิกษุณี มี  ๔๖  ท่านจงฟังสิกขาบท
+<span class="LineNumber"> 009 </span>                   เหล่านั้น   ดังจะกล่าวต่อไป  สังฆาทิเสส  ๖
+<span class="LineNumber"> 010 </span>                   รวมเป็น ๘  ทั้งอนิยต ๒ สิกขาบท  นิสสัค
+<span class="LineNumber"> 011 </span>                   คิยะ  ๑๒  รวมกันเป็น  ๒๐  ขุททกะ  ๒๒
+<span class="LineNumber"> 012 </span>                   ปาฏิเทสนียะ   ๔   สิกขาบทของภิกษุไม่ทั่วไป
+<span class="LineNumber"> 013 </span>                   กับภิกษุณี รวม ๔๖   สิกขาบท.</B>
+
+<span class="LineNumber"> 014 </span>	                      <H1>อสาธารณสิกขาบทของภิกษุณี</H1>
+<span class="LineNumber"> 015 </span>                             [๑,๐๒๘]  <B>สิกขาบทของภิกษุณี  ที่ไม่
+<span class="LineNumber"> 016 </span>                   ทั่วไปกับภิกษุมี   ๑๓๐   ท่านจงฟังสิกขาบท
+<span class="LineNumber"> 017 </span>                   เหล่านั้น   ดังจะกล่าวต่อไป  ปาราชิก  ๔
+<span class="LineNumber"> 018 </span>                   สังฆาทิเสส  ๑๐    ที่สงฆ์ขับออกจากหมู่
+<span class="LineNumber"> 019 </span>                   นิสสัคคิยะ  ๑๒  ขุททกะ  ๙๖  ปาฏิเทสนียะ  ๘</B>

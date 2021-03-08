@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค วลฺลิยตฺเถรคาถาวณฺณนา หน้า 529
+	
+<span class="LineNumber"> 002 </span>	อรหตฺตํ  ปน  ปตฺวา  ปุถุชฺชนกาเล  อตฺตโน  จิตฺตสฺส
+<span class="LineNumber"> 003 </span>รูปาทิอารมฺมเณสุ ยถากามปฺปวตฺติยา  (๑)  อิทานิ  อริยมคฺเคน 
+<span class="LineNumber"> 004 </span>นิคฺคหิตภาวสฺส  จ  วิภาวเนน  อฺํ พฺยากโรนฺโต  
+<span class="LineNumber"> 005 </span>		มกฺกโฏ ปฺจทฺวารายํ	กุฏิกายํ ปสกฺกิย(๒)  
+<span class="LineNumber"> 006 </span>		ทฺวาเรน อนุปริเยติ	ฆฏฺฏยนฺโต มุหุํ มุหห ฯ  
+<span class="LineNumber"> 007 </span>		ติฏฺ€ มกฺกฏ มา ธาวิ	น หิ เต ตํ ยถา ปุเร  
+<span class="LineNumber"> 008 </span>		นิคฺคหิโตสิ ปฺาย	เนว(๓) ทูรํ คมิสฺสสีติ(๔)  
+<span class="LineNumber"> 009 </span>คาถาทฺวยํ อภาสิ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ฆฏฺฏยนฺโตติ  อตฺตโน  โลลภาเวน  รุกฺขสฺส  อฺํ  
+<span class="LineNumber"> 011 </span>สาขํ  มุฺจิตฺวา อฺสฺส  คหเณน  อเนกวารํ  ตตฺถ รุกฺขํ 
+<span class="LineNumber"> 012 </span>จาเลนฺโต ผลูปโภคมกฺกโฏ (๕) วิย เตน เตน  จกฺขาทิทฺวาเรน 
+<span class="LineNumber"> 013 </span>รูปาทิอารมฺมเณสุ อฺํ มุฺจิตฺวา อฺํ คณฺหนฺโต 
+<span class="LineNumber"> 014 </span>จิตฺตสนฺตานสฺส สมาทานวเสน  นิจฺจลํ  €าตุํ  อปฺปทาเนน  (๖)  
+<span class="LineNumber"> 015 </span>อภิกฺขณํ  ฆฏฺฏยนฺโต  จาเลนฺโต  ตสฺมึเยว  รูปาทิอารมฺมเณ  
+<span class="LineNumber"> 016 </span>อนุปริวตฺตติ  ยถากามํ  วิจรติ ฯ  วตฺตมานสมีปตาย เจตฺถ 
+<span class="LineNumber"> 017 </span>วตฺตมานวจนํ ฯ  เอวํ  อนุปริยนฺโต  จ  ติฏฺ€  มกฺกฏ  มา  ธาวิ 
+<span class="LineNumber"> 018 </span>ตฺวํ  จิตฺตมกฺกฏ อิทานิ  ติฏฺ€  มา  ธาวิ  อิโต   ปฏฺ€าย  เต  
+<span class="LineNumber"> 019 </span>ธาวิตุํ  น  สกฺกา ตสฺมา น หิ  เต  ตํ  ยถา  ปุเร  ยสฺมา
+<span class="LineNumber"> 020 </span>ตํ  อตฺตภาวเคหํ  ปุพฺเพ  วิย น เต เสวิตํ ปิหิตทฺวารภาวโต
+<span class="LineNumber"> 021 </span># ๑. สี. ยุ. ยถากามปฺปวตฺตตาย ฯ  ๒. สฺยา. ปสกฺขิย ฯ 
+<span class="LineNumber"> 022 </span># ๓. ยุ. เนโต ฯ ๔. ขุ. เถร. ๒๖/๒๖๐/๒๘๘ ฯ  ๕. สี. ยุ. ผลูปโค มกฺกโฏ ฯ 
+<span class="LineNumber"> 023 </span># ๖. สี. ยุ. อปฺปโหนฺโต ฯ 

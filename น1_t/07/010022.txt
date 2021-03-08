@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                      ธรรม   
+
+<span class="LineNumber"> 002 </span>		อกุศล				กุศล
+<span class="LineNumber"> 003 </span>		ทุจริต ๓				สุจริต  ๓
+<span class="LineNumber"> 004 </span>		อกุศลมูล ๓			กุศลมูล ๓
+<span class="LineNumber"> 005 </span>		อคติ  ๔				พรหมวิหาร  ถ
+<span class="LineNumber"> 006 </span>		นิวรณ์  ๕ 			โพธิปักขิยธรรม  ๓๗
+<span class="LineNumber"> 007 </span>		อกุศลกรรมบถ  ๑๐		กุศลกรรมบถ  ๑๐
+<span class="LineNumber"> 008 </span>อกุศล  แปลว่า  ความไม่ฉลาด
+<span class="LineNumber"> 009 </span>กิเลส  แปลว่า  ความเศร้าหมอง  แบ่งเป็น  ๓  ชนิด
+<span class="LineNumber"> 010 </span>	๑.  วิติกฺกม  เป็นกิเลสอย่างหยาบ  ออกมาทางกาย  ทางวาจา
+<span class="LineNumber"> 011 </span>	๒.  ปริยุฏฺ€าน  เป็นกิเลสอย่างกลาง  ต้องมีสิ่งมายั่วทำให้
+<span class="LineNumber"> 012 </span>	      เห็นผิด  เช่น  การรับสินบน  เป็นต้น
+<span class="LineNumber"> 013 </span>	๓.  อนุสย  เป็นกิเลสย่อมละเอียด  ต้องมีสิ่งที่เร้าใจ  จูงใจ
+<span class="LineNumber"> 014 </span>	     ขัดใจ  จึงเกิดขึ้น
+<span class="LineNumber"> 015 </span><B>โรคทางใจมี  ๓  ชนิด  คือ</B> 
+<span class="LineNumber"> 016 </span>	๑.  โลภะ  ความอยากได้  เปรียบเหมือนน้ำท่วม  เวลา
+<span class="LineNumber"> 017 </span>	     น้ำท่วม  น้ำมิได้บอดล่วงหน้า
+<span class="LineNumber"> 018 </span>	๒.  โทสะ  ความคิดประทุษร้าย  เปรียบเหมือนไฟไหม้
+

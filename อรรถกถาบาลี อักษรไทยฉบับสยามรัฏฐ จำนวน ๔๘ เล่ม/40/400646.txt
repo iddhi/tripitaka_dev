@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 40    หน้า  646
+
+<span class="LineNumber"> 002 </span>		มหากรุณาาณนิทฺเทสวณฺณนา  
+<span class="LineNumber"> 003 </span>	มหากรุณาาณนิทฺเทเส  พหุเกหิ  อากาเรหีติ  อิทานิ 
+<span class="LineNumber"> 004 </span>วุจฺจมาเนหิ  เอกูนนวุติยา  ปกาเรหิ ฯ 
+<span class="LineNumber"> 005 </span>	ปสฺสนฺตานนฺติ  าณจกฺขุนา  จ  พุทฺธจกฺขุนา  จ 
+<span class="LineNumber"> 006 </span>โอโลเกนฺตานํ 
+<span class="LineNumber"> 007 </span>	โอกฺกมตีติ  โอตรติ  ปวิสติ ฯ
+<span class="LineNumber"> 008 </span>	อาทิตฺโตติ ทุกฺขลกฺขณวเสน ปีฬาโยคโต สนฺตาปนฏฺเ€น
+<span class="LineNumber"> 009 </span>อาทีปิโต  ยทนิจฺจํ  ตํ ทุกฺขนฺติ (๑) วุตฺตตฺตา สพฺพสงฺขตสฺส
+<span class="LineNumber"> 010 </span>เจว ทุกฺขลกฺขณวเสน  ปีฬิตตฺตา  ทุกฺขสฺส  จ  กรุณาย 
+<span class="LineNumber"> 011 </span>มูลภูตตฺตา ป€มํ ทุกฺขลกฺขณวเสน อาทิตฺโตติ วุตฺตนฺติ
+<span class="LineNumber"> 012 </span>เวทิตพฺพํ ฯ ราคาทีหิ อาทิตฺตตํ ปน อุปริ วกฺขติ ฯ  
+<span class="LineNumber"> 013 </span>	อถวา  อาทิตฺโตติ  ราคาทีหิเยว  อาทิตฺโต ฯ  อุปริ  ปน
+<span class="LineNumber"> 014 </span>ตสฺส  นตฺถฺโ  โกจิ  นิพฺพาเปตาติ  อตฺถาเปกฺขนวเสน(๒)  ปุน 
+<span class="LineNumber"> 015 </span>วุตฺตนฺติ เวทิตพฺพํ ฯ 
+<span class="LineNumber"> 016 </span>	โลกสนฺนิวาโสติ ปฺจกฺขนฺธา  ลุชฺชนฏฺเ€น(๓)  โลโก
+<span class="LineNumber"> 017 </span>ตณฺหาทิฏฺ€ิวเสน  สนฺนิวสนฺติ  เอตฺถ สตฺตาติ  สนฺนิวาโส 
+<span class="LineNumber"> 018 </span>โลโกว  สนฺนิวาโส  โลกสนฺนิวาโส ฯ  ทุกฺขิตํ  ขนฺธสนฺตานํ 
+<span class="LineNumber"> 019 </span>อุปาทาย  สตฺตโวหารสพฺภาวโต  โลกสนฺนิวาสโยคโต  สตฺต-
+<span class="LineNumber"> 020 </span>สมูโหปิ  โลกสนฺนิวาโส  โสปิ  จ  สหขนฺธโกเยว ฯ 
+<span class="LineNumber"> 021 </span># ๑. สํ. ข. ๑๗/๔๒/๒๘ ฯ  ๒. ม. อตฺถาเปกฺขนวเสน ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. ลุชฺชนปลุชฺชฏฺเ€น ฯ 

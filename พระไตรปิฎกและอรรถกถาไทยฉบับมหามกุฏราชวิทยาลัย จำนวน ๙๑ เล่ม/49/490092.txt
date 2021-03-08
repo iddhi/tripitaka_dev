@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                          <H1>๑๐.  ขัลลาติยเปติวัตถุ</H1>  
+
+<span class="LineNumber"> 002 </span>                          <H2>ว่าด้วยพ่อค้าให้ผ้าแก่นางเปรต</H2>
+
+<span class="LineNumber"> 003 </span>     	หัวหน้าพ่อค้าถามหญิงเปรตตนหนึ่งว่า
+<span class="LineNumber"> 004 </span>	<B>[๙๕]     ท่านเป็นใครหนออยู่ภายในวิมานนี้     ไม่
+<span class="LineNumber"> 005 </span>     	   	ออกจากวิมานเลย    ก่อนนางผู้เจริญ   เชิญท่าน
+<span class="LineNumber"> 006 </span>      	   	ออกมาเถิด   ข้าพเจ้าจะขอดูท่านผู้ยืนอยู่ข้างนอก.</B>
+<span class="LineNumber"> 007 </span>	นางเวมานิกเปรตฟังคำถามดังนี้แล้ว    จึงกล่าวว่า
+<span class="LineNumber"> 008 </span>               	   	<B>ดิฉันเป็นหญิงเปลือยกาย มีแต่ผมปิดบังไว้
+<span class="LineNumber"> 009 </span>     	   	กระดากอายที่จะออกภายนอก     ดิฉันได้ทำบุญ
+<span class="LineNumber"> 010 </span>     	   	ไว้น้อยนัก.</B>
+<span class="LineNumber"> 011 </span>	พ่อค้ากล่าวว่า
+<span class="LineNumber"> 012 </span>               		<B>ดูก่อนนางผู้มีรูปงาม    เอาเถอะ    ข้าพเจ้า
+<span class="LineNumber"> 013 </span>      	   	จะให้ผ้าเนื้อดีแก่ท่าน    เชิญท่านนุ่งผ้านี้    แล้วจง
+<span class="LineNumber"> 014 </span>    	   	ออกมาภายนอก    เชิญออกมาภายนอกวิมานเถิด
+<span class="LineNumber"> 015 </span>     	   	ข้าพเจ้าจะขอดูท่านผู้ยืนอยู่ข้างนอก.</B>
+<span class="LineNumber"> 016 </span>	นางเวมานิกเปรตตอบว่า
+<span class="LineNumber"> 017 </span>               		<B>ผ้านั้นถึงท่านจะให้ที่มือของดิฉันเอง  ก็ไม่
+<span class="LineNumber"> 018 </span>     		สำเร็จแก่ดิฉัน   ถ้าในหมู่ชนนี้มีอุบาสกผู้มีศรัทธา    
+<span class="LineNumber"> 019 </span>      		เป็นสาวกของพระสัมมาสมพุทธเจ้า     ขอท่านจง
+<span class="LineNumber"> 020 </span>    		ให้อุบาสกนั้นนุ่งห่มผ้าที่ท่านจะให้ดิฉัน  แล้วอุทิศ</B>

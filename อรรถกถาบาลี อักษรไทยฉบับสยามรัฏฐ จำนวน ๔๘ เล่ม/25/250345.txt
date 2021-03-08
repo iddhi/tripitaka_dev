@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  อฏฺ€มวคฺเค วจฺฉปาลตฺเถรคาถาวณฺณนา  หน้า 345
+		
+<span class="LineNumber"> 002 </span>	อรหตฺตํ  ปน  ปตฺวา  สุเขเนว  อตฺตนา  นิพฺพานสฺส  
+<span class="LineNumber"> 003 </span>อธิคตภาวํ  วิภาเวนฺโต  
+<span class="LineNumber"> 004 </span>		สุสุขุมนิปุณตฺถทสฺสินา  
+<span class="LineNumber"> 005 </span>		มติกุสเลน นิวาตวุตฺตินา  
+<span class="LineNumber"> 006 </span>		สํเสวิตวุทฺธ(๑)สีลินา  
+<span class="LineNumber"> 007 </span>		นิพฺพานํ น หิ เตน ทุลฺลภนฺติ(๒)  
+<span class="LineNumber"> 008 </span>อิมํ คาถํ อภาสิ ฯ  
+<span class="LineNumber"> 009 </span>	ตตฺถ  สุสุขุมนิปุณตฺถทสฺสินาติ  อติวิย  ทุทฺทสฏฺเ€น  สุขุเม (๓)
+<span class="LineNumber"> 010 </span>สณฺหฏฺเ€น นิปุเณ  สจฺจปฏิจฺจสมุปฺปาทาทิอตฺเถ  อนิจฺจตาทึ 
+<span class="LineNumber"> 011 </span>อาโรเปตฺวา  ปสฺสตีติ  สุสุขุมนิปุณตฺถทสฺสี  เตน ฯ 
+<span class="LineNumber"> 012 </span>	มติกุสเลนาติ  มติยา  ปฺาย  กุสเลน  เฉเกน  เอวํ  
+<span class="LineNumber"> 013 </span>ปวตฺตมานสฺส  ปฺา  วฑฺฒติ  เอวํ  น  วฑฺฒตีติ  ธมฺม-
+<span class="LineNumber"> 014 </span>วิจยสมฺโพชฺฌงฺคปฺาย อุปฺปาทเน  กุสเลน ฯ 
+<span class="LineNumber"> 015 </span>	นิวาตวุตฺตินาติ  สพฺรหฺมจารีสุ  นิวาตนีจวตฺตนสีเลน  (๔) 
+<span class="LineNumber"> 016 </span>วุฑฺเฒสุ นเวสุ จ(๕) ยถานุรูปปฏิปตฺตินา ฯ (๖) 
+<span class="LineNumber"> 017 </span>	สํเสวิตวุทฺธสีลินาติ สํเสวิตํ อาจิณฺณํ วุทฺธสีลํ  สํเสวิต-
+<span class="LineNumber"> 018 </span>วุทฺธสีลํ  ตํ  ยสฺส  อตฺถิ  เตน  สํเสวิตวุทฺธสีลินา ฯ  อถ  วา 
+<span class="LineNumber"> 019 </span>สํเสวิตา  อุปาสิตา  วุทฺธสีลิโน  เอเตนาติ  สํเสวิตวุทฺธสีลี  เตน ฯ
+<span class="LineNumber"> 020 </span>	หีติสทฺโท เหตุอตฺโถ ฯ ยสฺมา โย นิวาตวุตฺติ สํเสวิต-
+<span class="LineNumber"> 021 </span># ๑. สฺยา. ...พุทฺธ... ฯ  ๒. ขุ. เถร. ๒๖/๒๐๘/๒๗๖ ฯ 
+<span class="LineNumber"> 022 </span># ๓. สี. สุขุเมน ฯ  ๔. สี. นิวาตนีจวุตฺตินา วุฑฺฒสีเลสุ ฯ 
+<span class="LineNumber"> 023 </span># ๕. ม. วุฑฺเฒสุ นเวสุ จ ฯ  ๖. สี. ปฏิปตฺติวุตฺตินา ฯ 

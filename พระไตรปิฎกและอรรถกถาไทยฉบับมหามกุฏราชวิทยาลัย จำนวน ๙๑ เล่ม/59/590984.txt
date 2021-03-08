@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>                      <H2>รวมชาดกที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑. จตุทวารชาดก       ๒. กัณหชาดก       ๓.  จตุโปสถชาดก 
+<span class="LineNumber"> 003 </span>๔. สังขชาดก  ๕. จุลลโพธิชาดก    ๖.  มัณฑัพยชาดก    ๗.  นิโครธ
+<span class="LineNumber"> 004 </span>ชาดก    ๘.  ตักกลชาดก    ๙.  มหาฐัมมปาจชาดก    ๑๐.  กุกกุฏชาดก
+<span class="LineNumber"> 005 </span>๑๑.  มัฏฐกุณฑศิชาดก   ๑๒.  พิลารโกสิยชาดก  ๑๓.  จักกวากชาดก
+<span class="LineNumber"> 006 </span>๑๔.  ภูริปัญหาชาดก  ๑๕.  มหามังคลชาดก    ๑๖.  ฆตบัณฑิตชาดก.
+<span class="LineNumber"> 007 </span>                               <I>จบ  ทสกนิบาตชาดก</I>

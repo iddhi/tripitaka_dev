@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           มหาภูตรูป ๑ ฯลฯ พาหิรรูป... อาหารสมุฏฐานรูป. .. อุตุสมุฏฐาน- 
+<span class="LineNumber"> 002 </span>รูป ฯลฯ.
+<span class="LineNumber"> 003 </span>           ส่วนอสัญญสัตว์ทั้งหลาย  มหาภูตรูป ๑ ฯลฯ. 
+<span class="LineNumber"> 004 </span>           [๑๓๓๙] ๒.  <B>ปริตตธรรม  อาศัยมหัคคตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 005 </span>นอารัมมณปัจจัย.</B> 
+<span class="LineNumber"> 006 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นมหัคคตธรรม.
+<span class="LineNumber"> 007 </span>           ในปฏิสนธิขณะ  กฏัตตารูป อาศัยขันธ์ทั้งหลายที่เป็นมหัคคตธรรม.
+<span class="LineNumber"> 008 </span>           [๑๓๔๐] ๓.  <B>ปริตตธรรม  อาศัยอัปปมาณธรรม  เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะนอารัมมณปัจจัย.</B>
+<span class="LineNumber"> 010 </span>           คือ   จิตตสมุฏฐานรูป   อาศัยขันธ์ทั้งหลายที่เป็นอัปปมาณธรรม.
+<span class="LineNumber"> 011 </span>           [๑๓๔๑]  ๔.  <B>ปริตตธรรม  อาศัยปริตตธรรม  และอัปปมาณ-
+<span class="LineNumber"> 012 </span>ธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย.</B>
+<span class="LineNumber"> 013 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ที่เป็นอัปปมาณธรรม  และมหาภูตรูป
+<span class="LineNumber"> 014 </span>ทั้งหลาย.                             
+<span class="LineNumber"> 015 </span>           [๑๓๔๒]  ๕.  <B>ปริตตธรรม  อาศัยปริตตธรรม  และมหัคคต-
+<span class="LineNumber"> 016 </span>ธรรม  เกิดขึ้น  เพราะนอารัมมณปัจจัย.</B>
+

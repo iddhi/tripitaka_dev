@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                        <H1>วนสังยุต</H1> 
+ 
+<span class="LineNumber"> 002 </span>                                       <H1>๑. วิเวกสูตร</H1> 
+
+<span class="LineNumber"> 003 </span>                                     <H1>เทวดาเตือนภิกษุ</H1> 
+
+<span class="LineNumber"> 004 </span>           [๗๖๑]   ข้าพเจ้าได้สดับมาแล้วอย่างนี้ :-
+<span class="LineNumber"> 005 </span>           สมัยหนึ่ง ภิกษุรูปหนึ่ง  พำนักอยู่ในแนวป่าแห่งหนึ่ง   ในแคว้นโกศล
+<span class="LineNumber"> 006 </span>สมัยนั้นแล  ภิกษุรูปนั้น  พักผ่อนกลางวัน  ตรึกอกุศลวิตกลามกอิงอาศัยเรือน 
+<span class="LineNumber"> 007 </span>           [๗๖๒]  ครั้งนั้น เทวดาที่สิงอยู่ในป่านั้น  มีความเอ็นดูใคร่ประโยชน์
+<span class="LineNumber"> 008 </span>ก็ภิกษุนั้น   หวังจะให้เธอสลดใจ   จึงเข้าไปหาแล้ว กล่าวกะเธอด้วยคาถาว่า
+<span class="LineNumber"> 009 </span>                             <B>ท่านใคร่วิเวก  จึงเข้าป่า   ส่วนใจ
+<span class="LineNumber"> 010 </span>                   ของท่านแส่ซ่านไปภายนอก  ท่านเป็นคน
+<span class="LineNumber"> 011 </span>                   จงกำจัดความพอใจในคนเสีย     แต่นั้น 
+<span class="LineNumber"> 012 </span>                   ท่านจักเป็นผู้มีความสุข    ปราศจากความ
+<span class="LineNumber"> 013 </span>                   กำหนัด ท่านมีสติ  ละความไม่ยินดีเสียได้
+<span class="LineNumber"> 014 </span>                   เราเตือนให้ท่านระลึกถึงธรรมของสัตบุรุษ
+<span class="LineNumber"> 015 </span>                   ธุลีคือกิเลสประดุจบาดาลที่ข้ามได้ยาก
+<span class="LineNumber"> 016 </span>                   ได้แก่ความกำหนัดในกามอย่าได้ครอบงำ
+<span class="LineNumber"> 017 </span>                   ท่านเลย   นกที่เปื้อนฝุ่น   ย่อมสลัดธุลีที่
+<span class="LineNumber"> 018 </span>                   แปดเปื้อนให้ตกไป  ฉันใด  ภิกษุผู้มีเพียร
+<span class="LineNumber"> 019 </span>                   มีสติ  ย่อมสลัดธุลีคือกิเลสที่แปดเปื้อนให้
+<span class="LineNumber"> 020 </span>                   ตกไป  ฉันนั้น  ดังนี้</B>.

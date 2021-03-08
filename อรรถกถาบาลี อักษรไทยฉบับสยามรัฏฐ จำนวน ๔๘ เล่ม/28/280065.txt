@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 65
+
+<span class="LineNumber"> 002 </span>นวุติเยว วสฺสสหสฺสานิ อายุปฺปมาณํ อโหสิ ฯ  
+<span class="LineNumber"> 003 </span>	มงฺคลสฺส อปเรน		สุมโน นาม นายโก  
+<span class="LineNumber"> 004 </span>	สพฺพธมฺเมหิ อสโม		สพฺพสตฺตานมุตฺตโมติ ฯ  
+<span class="LineNumber"> 005 </span>	ตสฺส  อปรภาเค  เรวโต  นาม  สตฺถา  อุทปาทิ ฯ  
+<span class="LineNumber"> 006 </span>ตสฺสาปิ ตโย  สาวกสนฺนิปาตา  อเหสุํ ฯ  ป€มสนฺนิปาเต  คณนา  นาม
+<span class="LineNumber"> 007 </span>นตฺถิ  ทุติเย  โกฏิสตสหสฺสภิกฺขู  อเหสุํ  ตถา  ตติเย ฯ  ตทา
+<span class="LineNumber"> 008 </span>โพธิสตฺโต  อติเทโว  นาม  พฺราหฺมโณ  หุตฺวา  สตฺถุ  ธมฺมเทสนํ 
+<span class="LineNumber"> 009 </span>สุตฺวา  สรเณสุ  ปติฏฺ€าย  สิรสิ  อฺชลึ  €เปตฺวา  ตสฺส 
+<span class="LineNumber"> 010 </span>สตฺถุโน  กิเลสปฺปหาเน  วณฺณํ  วตฺวา สุตฺวา (๑)  อุตฺตราสงฺเคน  ปูชํ 
+<span class="LineNumber"> 011 </span>อกาสิ ฯ  โสปิ  ตํ  พุทฺโธ  ภวิสฺสสีติ  พฺยากาสิ ฯ  ตสฺส  
+<span class="LineNumber"> 012 </span>ปน  ภควโต  นครํ  สุธฺวตี(๒)  นาม  อโหสิ  ปิตาปิ  วิปุโล  
+<span class="LineNumber"> 013 </span>นาม  ขตฺติโย  มาตา  วิมลา(๓) นาม เทวี วรุโณ จ พฺรหฺมเทโว
+<span class="LineNumber"> 014 </span>จ เทฺว  อคฺคสาวกา  สมฺภโว  นามุปฏฺ€าโก  ภทฺทา  จ 
+<span class="LineNumber"> 015 </span>สุภทฺทา  จ  เทฺว  อคฺคสาวิกา  นาครุกฺโขว  โพธิ  สรีรํ 
+<span class="LineNumber"> 016 </span>อสีติหตฺถุพฺเพธํ  อโหสิ  อายุ  สฏฺ€ิ วสฺสสหสฺสานีติ ฯ  
+<span class="LineNumber"> 017 </span>	สุมนสฺส อปเรน		เรวโต นาม นายโก  
+<span class="LineNumber"> 018 </span>	อนูปโม อสทิโส		อตุโล อุตฺตโม ชิโนติ ฯ  
+<span class="LineNumber"> 019 </span>	ตสฺส  อปรภาเค  โสภิโต  นาม  สตฺถา  อุทปาทิ ฯ 
+<span class="LineNumber"> 020 </span>ตสฺสาปิ ตโย  สาวกสนฺนิปาตา  อเหสุํ ฯ  ป€มสนฺนิปาเต  โกฏิสตภิกฺขู  
+<span class="LineNumber"> 021 </span># ๑. ม. วตฺวา ฯ  ๒. ม. ธฺวตี ฯ  ๓. ม. วิปุลา ฯ 

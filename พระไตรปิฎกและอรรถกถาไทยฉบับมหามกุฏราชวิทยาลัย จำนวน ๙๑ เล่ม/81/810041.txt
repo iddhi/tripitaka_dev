@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>เป็นสูตรมีอยู่จริงหรือ ? 
+<span class="LineNumber"> 002 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                        ส. หากว่า คำว่า <B>อาศัยจักษุและรูป  จึงเกิดจักขุวิญญาณ
+<span class="LineNumber"> 004 </span>ขึ้น</B>  ดังนี้  เป็นสูตรมีอยู่จริง   ก็ต้องไม่กล่าวว่า   อาศัยจักษุและกายกรรม
+<span class="LineNumber"> 005 </span>จึงเกิดจักขุวิญญาณขึ้น.
+<span class="LineNumber"> 006 </span>         [๑๑๒๖]  ป. ไม่พึงกล่าวว่า กายกรรมเป็นสนิทัสสนะ หรือ ?
+<span class="LineNumber"> 007 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                        ป. ท่านเห็นอาการก้าวไปข้างหน้า  ถอยกลับ  แลเหลียว
+<span class="LineNumber"> 009 </span>คู้แขน  เหยียดแขน  มิใช่หรือ ?
+<span class="LineNumber"> 010 </span>                        ส. ถูกแล้ว.
+<span class="LineNumber"> 011 </span>                        ป. หากว่า   ท่านเห็นอาการก้าวไปข้างหน้า   ถอยกลับ
+<span class="LineNumber"> 012 </span>แลเหลียว คู้แขน เหยียดแขน ด้วยเหตุนั้นนะท่านจึงต้องกล่าวว่า กายกรรม
+<span class="LineNumber"> 013 </span>เป็นสนิทัสสนะ.
+<span class="LineNumber"> 014 </span>                              <I>กายกัมมสนิทัสสนันติกถา  จบ</I>
+<span class="LineNumber"> 015 </span>ปริโยสานกถาบัณฑิตพึงทราบว่า ตั้งแต่ปฐวีธาตุสนิทัสสนะ  จนถึงกาย
+<span class="LineNumber"> 016 </span>กัมมสนิทัสสนะ
+
+<span class="LineNumber"> 017 </span>                             <H2>รวมกถาที่มีในวรรคนี้คือ</H2>
+
+<span class="LineNumber"> 018 </span>         ๑. นิยามกถา ๒. ปฏิจจสมุปาทกถา ๓.สัจจกถา ๔. อารุปปกถา
+<span class="LineNumber"> 019 </span>๕.  นิโรธสมาปัตติกถา    ๖. อากาสกถา    ๗. อากาโสสนิทัสสโนติกถา
+<span class="LineNumber"> 020 </span>๘. ปฐวีธาตุสนิทัสสนาตยาทิกถา   ๙.   จักขุนทริยังสนิทัสสนันติอาทิกถา
+<span class="LineNumber"> 021 </span>๑๐. กายกัมมังสนิทัสสนันติกถา.
+<span class="LineNumber"> 022 </span>                                         <I>วรรคที่ ๖  จบ</I>

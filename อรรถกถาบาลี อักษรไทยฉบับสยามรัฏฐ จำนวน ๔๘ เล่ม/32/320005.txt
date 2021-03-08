@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  อาวาริยชาติกํ  หน้า 5
+
+<span class="LineNumber"> 002 </span>เต  โภควุฑฺฒิ  ภวิสฺสตีติ  ฯ  อฺโ  หิ  ติณฺณสฺส  มโนติ  ตาต
+<span class="LineNumber"> 003 </span>นาวิก  ปรตีรํ  คตสฺส  หิ  อฺโ  มโน  ภวติ  อทตฺวาว 
+<span class="LineNumber"> 004 </span>คนฺตุกาโม  โหติ  โย  ปรตีเรสี  นาม  ตีรํ  เอสติ(๑)  ปรตีรํ 
+<span class="LineNumber"> 005 </span>คนฺตุกาโม  โหติ  โส  อติเรกตรมฺปิ  ทตฺวา  คนฺตุกาโม  โหติ 
+<span class="LineNumber"> 006 </span>อิติ  ตีเรสิโน  จ  อฺโ  มโน  โหติ  ตสฺมา  ตฺวํ  อติณฺณเมว  
+<span class="LineNumber"> 007 </span>ยาเจยฺยาสีติ  อยํ  ตาว  เต โภคานํ วุฑฺฒิ นามาติ ฯ  
+<span class="LineNumber"> 008 </span>	ตํ  สุตฺวา  นาวิโก  จินฺเตสิ  อยํ  ตาว  เม  โอวาโท 
+<span class="LineNumber"> 009 </span>ภวิสฺสติ  อิทานิ  ปเนส  อฺํ  กิฺจิ  มยฺหํ  ทสฺสตีติ  ฯ  อถ
+<span class="LineNumber"> 010 </span>นํ  โพธิสตฺโต  อยํ  ตาว  เต  อาวุโส  โภควุฑฺฒิ  อิทานิ  
+<span class="LineNumber"> 011 </span>อตฺถธมฺมวุฑฺฒึ  สุณาหีติ  วตฺวา ตํ โอวทนฺโต  
+<span class="LineNumber"> 012 </span>	[๘๓๔] คาเม วา ยทิ วารฺเ(๒)	นินฺเน วา ยทิ วา(๓) ถเล  
+<span class="LineNumber"> 013 </span>		สพฺพตฺถมนุสาสามิ(๔)  		มาสุ  กุชฺฌิถ  นาวิกาติ  
+<span class="LineNumber"> 014 </span>คาถมาห  ฯ  อิติ  ตสฺส  อิมาย  คาถาย  อตฺถธมฺมวุฑฺฒึ  กเถตฺวา  
+<span class="LineNumber"> 015 </span>อยํ  เต  อตฺถวุฑฺฒิ  จ  ธมฺมวุฑฺฒิ  จาติ  อาห  ฯ  โส  ปน ทุฏฺ€ปุริโส(๕)  
+<span class="LineNumber"> 016 </span>ตํ  โอวาทํ  น  กิฺจิ  มฺมาโน  อิทํ  สมณ  ตยา  มยฺหํ  ทินฺนํ  
+<span class="LineNumber"> 017 </span>นาวาย  เวตนนฺติ  อาห  ฯ  อามาวุโสติ  ฯ  มยฺหํ  อิมินา  กมฺมํ  
+<span class="LineNumber"> 018 </span>นตฺถิ  อฺํ  เม  เทหีติ  ฯ  อาวุโส  อิมํ  €เปตฺวา  มยฺหํ  อฺํ  
+<span class="LineNumber"> 019 </span>นตฺถีติ  ฯ  อถ  ตฺวํ  กสฺมา  มม  นาวํ  อารูพฺโหสีติ  ตาปสํ คงฺคาตีเร  
+<span class="LineNumber"> 020 </span># ๑. ม. โย ปเนส ปาเรสี นาม ปรตีรํ เอสติ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ส. ยทิวารฺเ ฯ  ๓. ส. ยทิวา ฯ  
+<span class="LineNumber"> 022 </span># ๔. ม. สพฺพตฺถ อนุสาสามิ ฯ  ๕. ม. ทนฺธปุริโส ฯ 

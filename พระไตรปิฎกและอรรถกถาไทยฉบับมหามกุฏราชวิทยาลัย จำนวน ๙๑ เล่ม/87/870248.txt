@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>ปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>๑.  เหตุปัจจัย</H1>                     
+<span class="LineNumber"> 004 </span>           [๑๐๘๔]  ๑.  <B>อาจยคามิธรรม      เป็นปัจจัยแก่อาจยคามิธรรม
+<span class="LineNumber"> 005 </span>ด้วยอำนาจของเหตุปัจจัย</B> 
+<span class="LineNumber"> 006 </span>           คือ   เหตุทั้งหลายที่เป็นอาจยคามิธรรม   เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 007 </span>ทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 008 </span>           [๑๐๘๕]  ๒.  <B>อาจยคามิธรรม  เป็นปัจจัยแก่เนวาจยคามินาปจย-
+<span class="LineNumber"> 009 </span>คามิธรรม   ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 010 </span>           คือ   เหตุทั้งหลายที่เป็นอาจยคามิธรรม  เป็นปัจจัยแก่จิตตสมุฏฐานรูป
+<span class="LineNumber"> 011 </span>ทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 012 </span>           [๑๐๘๖]  ๓.   <B>อาจยคามิธรรม เป็นปัจจัยแก่อาจยคามิธรรม และ
+<span class="LineNumber"> 013 </span>เนวาจยคามิยนาปจยคามิธรรม  ด้วยอำนาจของปัจจัย.</B>
+<span class="LineNumber"> 014 </span>           คือ    เหตุทั้งหลายที่เป็นอาจคามิธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 015 </span>และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 016 </span>           [๑๐๘๗]  ๔.  <B>อปจยคามิธรรม  เป็นปัจจัยแก่อปจยคามิธรรม
+<span class="LineNumber"> 017 </span>ด้วยอำนาจของเหตุปัจจัย</B>  มี ๓ วาระ  (วาระที่ ๔ ๕ ๖)

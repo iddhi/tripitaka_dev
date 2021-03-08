@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>วรรคที่  ๑๙</H1> 
+<span class="LineNumber"> 002 </span>                                       <H1>กิเลสชหนกถา</H1>
+
+<span class="LineNumber"> 003 </span>         [๑๗๗๑]  <B>สกวาที</B>   บุคคลละกิเลสที่เป็นอดีต   หรือ ?   
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>   ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. ยังธรรมที่ดับแล้วให้ดับไป  ยังธรรมที่ปราศไปแล้วให้
+<span class="LineNumber"> 006 </span>ปราศไป    ยังธรรมที่สิ้นไปแล้วให้สิ้นไป   ยังธรรมที่อัสดงคตแล้ว      ให้
+<span class="LineNumber"> 007 </span>อัสดงคตไป  ยังธรรมที่อัสดงคตลับไปแล้ว  ให้อัสดงคตลับไป  หรือ ?
+<span class="LineNumber"> 008 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 009 </span>                       ส. บุคคลละกิเลสเป็นอดีต หรือ ?
+<span class="LineNumber"> 010 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 011 </span>                       ส. อดีตดับไปแล้ว  มิใช่หรือ ?
+<span class="LineNumber"> 012 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                       ส. หากว่า   อดีตดับไปแล้ว   ก็ต้องไม่กล่าวว่า   บุคคลละ
+<span class="LineNumber"> 014 </span>กิเลสที่เป็นอดีต.
+<span class="LineNumber"> 015 </span>                       ส. ละกิเลสที่เป็นอดีต   หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                       ส. อดีตไม่มีอยู่  มิใช่หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ถูกแล้ว.  
+<span class="LineNumber"> 019 </span>                       ส. หากว่า    อดีตไม่มีอยู่    ก็ต้องไม่กล่าวว่า    บุคคลละ
+<span class="LineNumber"> 020 </span>กิเลสที่เป็นอดีต.
+<span class="LineNumber"> 021 </span>         [๑๗๗๒]  ส. บุคคลละกิเลสที่เป็นอนาคต  หรือ ?
+<span class="LineNumber"> 022 </span>                       ป. ถูกแล้ว.

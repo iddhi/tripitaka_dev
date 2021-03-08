@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>อรรถกถาตินทุกทายกเถราปทาน</H1> 
+<span class="LineNumber"> 002 </span>         อปทานของท่านพระเถระ  ๗, ๘, ๙  มีเนื้อความง่ายทั้งนั้นแล.
+<span class="LineNumber"> 003 </span>         แม้ในอปทานเรื่องที่  ๑๐   เรื่องสุดท้ายไม่มีความยากแล.
+<span class="LineNumber"> 004 </span>                       <I>จบอรรถกถาตมาลปุปผิยวรรคที่ ๒๐</I>
+                                                       
+<span class="LineNumber"> 005 </span>                <H1>รวมอปทานที่มีในวรรคนี้  คือ</H1>
+<span class="LineNumber"> 006 </span>         ๑.   ตมาลปุปผิยเถราปทาน          ๒.   ติณสันถารทายกเถราปทาน
+<span class="LineNumber"> 007 </span>๓. ขัณฑผุลลิยเถราปทาน     ๔. อโสกปูชกเถราปทาน    ๕. อังโกลกเถราปทาน
+<span class="LineNumber"> 008 </span>๖. กิสลยปูชกเถราปทาน   ๗. ตินทุกทายกเถราปทาน    ๘. คิริเนลมุฏฐิ-
+<span class="LineNumber"> 009 </span>ปูชกเถราปทาน   ๙. ติกัณฑิปุปผิยเถราปทาน   ๑๐. ยูถิกปุปผิยเถราปทาน
+<span class="LineNumber"> 010 </span>และมีคาถา ๕๘ คาถา.
+<span class="LineNumber"> 011 </span>                                <I>จบตมาลปุปผิยวรรคที่   ๒๐</I>
+
+<span class="LineNumber"> 012 </span>                                <H3>และรวมวรรคมี  ๑๐  วรรค   คือ</H3>
+<span class="LineNumber"> 013 </span>         ๑.  ภิกขทายิวรรค      ๒. มหาปริวารวรรค       ๓.  เสเรยยวรรค
+<span class="LineNumber"> 014 </span>๔.  โสภิตวรรค    ๕. ฉัตตวรรค     ๖. พันธุชีวกวรรค     ๗. สุปาริจริยวรรค
+<span class="LineNumber"> 015 </span>๘.  กุมุทวรรค   ๙. กุฏชปุปผิยวรรค     ๑๐.   ตมาลปุปผิยวรรค
+<span class="LineNumber"> 016 </span>         ท่านทำไว้ใน  ๑๐ วรรคนี้มีคาถา ๖๖๖ คาถา.            
+<span class="LineNumber"> 017 </span>           <B>จบหมวด ๑๐ แห่งภิกขวรรค  เป็นหมวด  ๑๐๐ ที่  ๒</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุติยวคฺเค สิริมตฺเถรคาถาวณฺณนา  หน้า 597
+	
+<span class="LineNumber"> 002 </span>		จุลฺลาสีติสหสฺสานิ		สิสฺสา มยฺหํ อุปฏฺ€หุํ  
+<span class="LineNumber"> 003 </span>		สกกมฺมาภิปสุตา		วสนฺติ วิปิเน ตทา ฯ  
+<span class="LineNumber"> 004 </span>		อสฺสมา อภินิกฺขมฺม	อกํ ปุลินเจติยํ  
+<span class="LineNumber"> 005 </span>		นานาปุปฺผํ สมาเนตฺวา	ตํ เจติยมปูชยึ ฯ  
+<span class="LineNumber"> 006 </span>		ตตฺถ จิตฺตํ ปสาเทตฺวา	อสฺสมํ ปวิสามหํ  
+<span class="LineNumber"> 007 </span>		สพฺเพ สิสฺสา สมาคนฺตฺวา  เอตมตฺถํ ปุจฺฉึสุ มํ ฯ (๑)  
+<span class="LineNumber"> 008 </span>		ปุลิเนน กโต ถูโป		ยํ ตฺวํ เทว นมสฺสสิ  
+<span class="LineNumber"> 009 </span>		มยมฺปิ าตุมิจฺฉาม	ปุฏฺโ€ อาจิกฺข โน ตุวํ ฯ  
+<span class="LineNumber"> 010 </span>		นิทฺทิฏฺ€า นุ(๒)  มนฺตปเท  จกฺขุมนฺโต มหายสา  
+<span class="LineNumber"> 011 </span>		เต โข อหํ นมสฺสามิ	พุทฺธเสฏฺเ€ มหายเส ฯ  
+<span class="LineNumber"> 012 </span>		กีทิสา เต มหาวีรา		สพฺพฺู โลกนายกา  
+<span class="LineNumber"> 013 </span>		กถํวณฺณา กถํสีลา		กีทิสา เต มหายสา ฯ  
+<span class="LineNumber"> 014 </span>		พาตฺตึสลกฺขณา พุทฺธา	จตฺตาลีสทิชาปิ จ(๓)  
+<span class="LineNumber"> 015 </span>		เนตฺตา โคปขุมา(๔) เตสํ  ชิฺชุกาผลสนฺนิภา ฯ  
+<span class="LineNumber"> 016 </span>		คจฺฉมานา จ เต พุทฺธา	ยุคมตฺตฺจ เปกฺขเร  
+<span class="LineNumber"> 017 </span>		น เตสํ ชาณุ นทติ		สนฺธิสทฺโท น สุยฺยติ ฯ  
+<span class="LineNumber"> 018 </span>		คจฺฉมานา จ สุคตา	อตุริตาว (๕) คจฺฉเร  
+<span class="LineNumber"> 019 </span>		ป€มํ ทกฺขิณํ ปาทํ		พุทฺธานํ เอส ธมฺมตา ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. อปุจฺฉิสุํ ฯ  สี. อปุจฺฉุํ มํ ฯ ๒. สฺยา. ทิฏฺ€า โน โว ฯ 
+<span class="LineNumber"> 021 </span># ๓. สฺยา. จตฺตาริว ทิชาปิจ ฯ  ๔. ยุ. โคปมุขา ฯ 
+<span class="LineNumber"> 022 </span># ๕. สฺยา. อตุริตาว ฯ 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>เห็นข้อไหนเป็นสำคัญ  ?  ไฉนจึงตอบอย่างนั้น  ?
+<span class="LineNumber"> 002 </span>	ต.  เห็นข้อ  ๓  คือเพลิดเพลินในกามคุณเป็นข้อสำคัญ  เพราะ
+<span class="LineNumber"> 003 </span>กามคุณเป็นส่วนใหญ่ จะเป็นอันตราย ข้อไหนก็ตาม  ผลที่สุดก็มารวม
+<span class="LineNumber"> 004 </span>อยู่ที่กามคุณทั้งสิ้น  เช่นนี้จึงเห็นว่าข้อ  ๓  เป็นสำคัญ.
+<span class="LineNumber"> 005 </span>                                                                     ส.  ป.	
+<span class="LineNumber"> 006 </span>	ถ.  พอใจในอะไรจัดว่าดี  ?  พอใจในอะไรจัดว่าไม่ดี  ?
+<span class="LineNumber"> 007 </span>	ต.  พอใจในการละบาปบำเพ็ญบุญจัดว่าดี.  พอใจในการละบุญ
+<span class="LineNumber"> 008 </span>เจริญบาปจัดว่าไม่ดี.
+<span class="LineNumber"> 009 </span>                                                              ๒๕/๗/๕๔
+<span class="LineNumber"> 010 </span>	ถ.  ในพรรษา ถึงวันพระ ตั้งใจฟังเทศน์ไม่ให้ขาด ดั่งนี้จัด
+<span class="LineNumber"> 011 </span>เข้าในปธานฐานไหน?
+<span class="LineNumber"> 012 </span>	ต.  จัดเข้าในภาวนาปธาน  เพียรให้กุศลเกิดขึ้นในสันดาน.<SUP>๒</SUP>
+<span class="LineNumber"> 013 </span>                                                               ๒๕/๗/๕๔
+<span class="LineNumber"> 014 </span>	ถ.  คนเสพสุราติด  เพียรจะอดให้ได้  เรียกว่าตั้งอยู่ในสังวรปธาน
+<span class="LineNumber"> 015 </span>หรือในปหานปธาน  ?
+<span class="LineNumber"> 016 </span>	ต.  เรียกว่าตั้งอยู่ในปหานปธาน  เพราะเพียรเพื่อจะละ.<SUP>๓</SUP>
+<span class="LineNumber"> 017 </span>                                                               ๑๑/๑๑/๕๕
+<span class="LineNumber"> 018 </span>	ถ.  ปธาน  ๔  อาศัยกันอย่างไร  ?  ถ้าจะย่อให้สั้นที่สุดจะคงเหลือ
+<span class="LineNumber"> 019 </span>สักเท่าไร  ?
+<span class="LineNumber"> 020 </span>	ต.  ปธาน  ๔  อาศัยกันอย่างนี้  สังวรปธาน  เพียรระวังไม่ให้
+
+<span class='footnote'>๑. ๒. ๓. เดิมไม่มีเฉลย.  ส. ป.</span>

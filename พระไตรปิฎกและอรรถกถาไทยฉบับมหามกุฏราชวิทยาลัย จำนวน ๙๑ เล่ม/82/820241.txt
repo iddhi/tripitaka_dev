@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>เวทนาขันธมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>เวทนาขันธมูละ  สัญญาขันธมูลี :-</H2>
+<span class="LineNumber"> 003 </span>         [๒๔๖]   เวทนาขันธ์จักเกิดแก่บุคคลใดในภูมิ      สัญญาขันธ์
+<span class="LineNumber"> 004 </span>จักดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า   สัญญาขันธ์จักดับแก่บุคคลใดในภูมิใด,   เวทนาขันธ์
+<span class="LineNumber"> 007 </span>ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         เมื่อปัจฉิมภวิกบุคคลเหล่านั้นกำลังเกิด       สัญญาขันธ์จักดับแก่
+<span class="LineNumber"> 009 </span>บุคคลเหล่านั้นในภูมินั้น   แต่เวทนาขันธ์ไม่ใช่จักเกิดแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 010 </span>ในภูมินั้น,    บุคคลนอกจากนี้ที่เกิดอยู่ในจตุโวการภูมิก็ดี    ปัญจโวการ
+<span class="LineNumber"> 011 </span>ภูมิก็ดี     สัญญาขันธ์จักดับ     และเวทนาขันธ์ก็จักเกิดแก่บุคคลเหล่านั้น
+<span class="LineNumber"> 012 </span>ในภูมินั้น.
+<span class="LineNumber"> 013 </span>                        <I>จบ  เวทนาขันธมูละ    สัญญาขันธมูลี</I>
+<span class="LineNumber"> 014 </span>                                       <I>เวทนาขันธมูล   จบ</I>
+<span class="LineNumber"> 015 </span>                                       <I>ปุคคโลกาสวาระ  จบ</I>
+<span class="LineNumber"> 016 </span>                                    <I>อนาคตวาระอนุโลม   จบ</I>

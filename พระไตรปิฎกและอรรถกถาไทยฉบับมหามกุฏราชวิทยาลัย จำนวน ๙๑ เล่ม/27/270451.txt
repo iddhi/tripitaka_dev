@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>อุปนิสินนวรรคที่  ๔</H1><SUP>๑</SUP>  
+
+<span class="LineNumber"> 002 </span>                                       <H1>๑.  มารสูตร</H1> 
+
+<span class="LineNumber"> 003 </span><H1>ว่าด้วยการละความพอใจ  ในสิ่งที่เป็นมาร</H1> 
+
+<span class="LineNumber"> 004 </span>           [๔๐๑, ๔๐๒, ๔๐๓]   กรุงสาวัตถี. <B>พระผู้มีพระภาคเจ้า</B>ได้ตรัสกะ
+<span class="LineNumber"> 005 </span>ท่านพระราธะว่า   ดูก่อนราธะ   สิ่งใดแลเป็น<B>มาร</B>   เธอพึงละความพอใจ
+<span class="LineNumber"> 006 </span>ความกำหนัด     ความกำหนัดด้วยสามารถความพอใจในสิ่งนั้นเสีย
+<span class="LineNumber"> 007 </span>ดูก่อนราธะ   สิ่งใดเล่าเป็นมาร   ?   ดูก่อนราธะ   <B>รูปเป็นมาร</B>   เธอพึงละ
+<span class="LineNumber"> 008 </span>ความพอใจ    ความกำหนัด    ความกำหนัดด้วยสามารถความพอใจใน
+<span class="LineNumber"> 009 </span>รูปนั้นเสีย  ฯลฯ  วิญญาณเป็นมาร  เธอพึงละความพอใจ  ความกำหนัด
+<span class="LineNumber"> 010 </span>ความกำหนัดด้วยสามารถความพอใจในวิญญาณนั้นเสีย     ดูก่อนราธะ
+<span class="LineNumber"> 011 </span>สิ่งใดแลเป็นมาร    เธอพึงละความพอใจ    ความกำหนัด    ความกำหนัด
+<span class="LineNumber"> 012 </span>ด้วยสามารถความพอใจในสิ่งนั้นเสีย.
+<span class="LineNumber"> 013 </span>                                                  <I>จบ  มารสูตร</I>
+
+<span class="LineNumber"> 014 </span>                                <H1>๒.  มารธรรมสูตร</H1>
+
+<span class="LineNumber"> 015 </span>   <H1>ว่าด้วยการละความพอใจในมารธรรม</H1>
+
+<span class="LineNumber"> 016 </span>           [๔๐๔, ๔๐๕, ๔๐๖ ]   ดูก่อนราธะ สิ่งใดเป็นมารธรรม เธอพึงละ
+<span class="LineNumber"> 017 </span>ความพอใจ    ความกำหนัด   ความกำหนัดด้วยสามารถความพอใจใน
+<span class="LineNumber"> 018 </span>สิ่งนั้นเสีย. ฯลฯ
+<span class="LineNumber"> 019 </span>                                             <I>จบ  มารธรรมสูตร</I>
+<span class='footnote'>๑.  อรรถกถาอุปนิสินนวรรคที่  ๔  นี้ แก้ไว้ท้ายวรรคนี้</span>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                      <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๗๐] ๑.  <B>สเหตุกธรรม  เจือกับสเหตุกธรรม  เกิดขึ้น   เพราะ
+<span class="LineNumber"> 005 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นสเหตุกธรรม ฯลฯ อาศัย ขันธ์ ๒.
+<span class="LineNumber"> 007 </span>           ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 008 </span>                     ๒.  <B>สเหตุกธรรม  เจือกับอเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 009 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ  เจือ
+<span class="LineNumber"> 011 </span>กับโมหะ  ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+<span class="LineNumber"> 012 </span>                     ๓.  <B>สเหตุกธรรม เจือกับสเหตุกธรรม และอเหตุกธรรม
+<span class="LineNumber"> 013 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ   ขันธ์ ๓ เจือกับขันธ์ ๑ ที่สหรคตด้วยวิจิกิจฉา    ที่สหรคตด้วย
+<span class="LineNumber"> 015 </span>อุทธัจจะ  และโมหะ ฯลฯ ขันธ์ ๒  เจือกับขันธ์ ๒.
+
+<span class="LineNumber"> 016 </span>				    <H1> ๒.  อารัมมณปัจจัย</H1> 
+<span class="LineNumber"> 017 </span>           [๗๑] ๑.  <B>สเหตุกธรรม เจือกับสเหตุกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 018 </span>อารัมมณปัจจัย</B>
+           

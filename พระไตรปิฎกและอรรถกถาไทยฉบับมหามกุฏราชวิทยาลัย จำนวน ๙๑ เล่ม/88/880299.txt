@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>สมนันตรปัจจัย   มี ๗ วาระ  ในนสหชาตปัจจัย  มี ๖ วาระ   ในนอัญญมัญญ- 
+<span class="LineNumber"> 002 </span>ปัจจัย    มี ๖ วาระ  ในนนิสสยปัจจัย   มี ๖ วาระ  ในนอุปนิสสยปัจจัย    มี ๗
+<span class="LineNumber"> 003 </span>วาระ   ในนปุเรชาตปัจจัย  มี ๗ วาระ ฯลฯ ในนมัคคปัจจัย  มี ๗ วาระ  ในน
+<span class="LineNumber"> 004 </span>สัมปยุตตปัจจัย มี ๖ วาระ ในนวิปปยุตตปัจจัย มี ๕ วาระ ในโนอัตถิปัจจัย มี
+<span class="LineNumber"> 005 </span>๔ วาระ   ในโนนัตถิปัจจัย   มี ๗ วาระ   ในโนวิคตปัจจัย  มี ๗ วาระ  ในโน-
+<span class="LineNumber"> 006 </span>อวิคตปัจจัย   มี ๔ วาระ.
+<span class="LineNumber"> 007 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 008 </span>                                            <I>ปัจจนียนัย   จบ</I>
+
+<span class="LineNumber"> 009 </span>                                           <H1>อนุโลมปัจจนียนัย</H1>  
+<span class="LineNumber"> 010 </span>                             <H1>การนับจำนวนวาระในอนุโลมปัจจนียะ</H1>
+<span class="LineNumber"> 011 </span>           [๒๘๘]   <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย  มี ๓ วาระ...  ในน
+<span class="LineNumber"> 012 </span>อธิปติปัจจัย  มี ๓ วาระ  โนนอนันตรปัจจัย มี ๓ วาระ  ในนสมนันตรปัจจัย
+<span class="LineNumber"> 013 </span>มี ๓ วาระ  ในนอัญญมัญญปัจจัย   มี ๑ วาระ ในนอุปนิสสยปัจจัย มี ๓ วาระ
+<span class="LineNumber"> 014 </span>ในปัจจัยทั้งปวง  มี ๑ วาระ  ในนสัมปยุตตปัจจัย  มี ๑ วาระ  ในนวิปปยุตต-
+<span class="LineNumber"> 015 </span>ปัจจัย  มี ๑ วาระ   ในโนนัตถิปัจจัย  มี ๓ วาระ  ในโนวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 017 </span>                                               <I>อนุโลมนัย  จบ</I>

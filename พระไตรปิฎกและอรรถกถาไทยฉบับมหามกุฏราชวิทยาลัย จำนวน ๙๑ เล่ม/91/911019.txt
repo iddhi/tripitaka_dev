@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>๙๗. นนิยยานิกทุกนิยยานิกทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                                   <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 003 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 005 </span>           [๑๕๗] ๑.  <B>อนิยยานิกธรรม  อาศัยธรรมที่ไม่ใช่นิยยานิก-
+<span class="LineNumber"> 006 </span>ธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๑ วาระ.
+<span class="LineNumber"> 007 </span>                       ๒.  <B>อนิยยานิกธรรม     อาศัยธรรมที่ไม่ใช่อนิยยานิก-
+<span class="LineNumber"> 008 </span>ธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๓ วาระ
+<span class="LineNumber"> 009 </span>                       ๕.  <B>อนิยยานิกธรรม      อาศัยธรรมที่ไม่ใช่นิยยานิก-
+<span class="LineNumber"> 010 </span>ธรรม   และธรรมที่ไม่ใช่อนิยยานิกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>มี ๑ วาระ.
+
+<span class="LineNumber"> 012 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๑๕๘]  ในเหตุปัจจัย มี ๕ วาระ  ฯลฯ
+<span class="LineNumber"> 014 </span>                            <I>นนิยยานิกทุกนิยยานิกทุกะ  จบ</I>

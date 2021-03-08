@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>๑๔.  หีนติกะ</H1><SUP>๑</SUP> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                        <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 004 </span>                                      <H1>๑.  เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>           [๑๖๒๗] ๑.  <B>หีนธรรม  อาศัยหีนธรรม  เกิดขึ้น   เพราะเหตุ-
+<span class="LineNumber"> 006 </span>ปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ    ขันธ์  ๓  อาศัยขันธ์ ๑  ที่เป็นหีนธรรม  ฯลฯ  ขันธ์  ๒  อาศัย
+<span class="LineNumber"> 008 </span>ขันธ์ ๒.
+<span class="LineNumber"> 009 </span>                         ๒.  <B>มัชฌิมธรรม  อาศัยหีนธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 010 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นหีนธรรม.
+<span class="LineNumber"> 012 </span>                         ๓.  <B>หีนธรรม  และมัชฌิมธรรม  อาศัยหีนธรรม  เกิด
+<span class="LineNumber"> 013 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป อาศัยขันธ์ ๑ ที่เป็นหีนธรรม ฯลฯ
+<span class="LineNumber"> 015 </span>ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 016 </span>           [๑๖๒๘] ๔.  <B>มัชฌิมธรรม  อาศัยมัชฌิมธรรม ฯลฯ</B>
+<span class="LineNumber"> 017 </span>           คือ   ขันธ์ ๓ และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑ ที่เป็นมัชฌิมธรรม
+<span class="LineNumber"> 018 </span>ฯลฯ ขันธ์ ๒ ฯลฯ
+<span class='footnote'>๑  อรรถกถาแก้ว่า  หีนติกะ  เหมือนกับสังกิลิฏฐติกะ.</span>
+

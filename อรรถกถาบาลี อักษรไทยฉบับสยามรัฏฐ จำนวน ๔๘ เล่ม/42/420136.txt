@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42   นิทานกถา  หน้า  136
+
+<span class="LineNumber"> 002 </span>หุตฺวา  นิปตติ ฯ  
+<span class="LineNumber"> 003 </span>	ตโต  วาลุกาวสฺสํ  สมุฏฺ€าเปสิ  อติสุขุมา วาลุกา  
+<span class="LineNumber"> 004 </span>ธูมายนฺตา  ปชฺชลนฺตา  อากาเสนาคนฺตฺวา  มหาสตฺตสฺส  ปาทมูเล  
+<span class="LineNumber"> 005 </span>ทิพฺพปุปฺผานิ  หุตฺวา  นิปตึสุ ฯ  
+<span class="LineNumber"> 006 </span>	ตโต  กลลวสฺสํ  สมุฏฺ€าเปสิ  ตํ  กลลํ  ธูมายนฺตํ  ปชฺชลนฺตํ  
+<span class="LineNumber"> 007 </span>อากาเสนาคนฺตฺวา  โพธิสตฺตสฺส  ปาทมูเล  ทิพฺพวิเลปนํ  หุตฺวา  
+<span class="LineNumber"> 008 </span>นิปตติ ฯ  
+<span class="LineNumber"> 009 </span>	ตโต  อิมินา  ภึเสตฺวา  สิทฺธตฺถํ  ปลาเปสฺสามีติ  อนฺธการํ  
+<span class="LineNumber"> 010 </span>สมุฏฺ€าเปสิ  ตํ  จตุรงฺคสมนฺนาคตํ  อนฺธการํ  วิย  มหาตมํ 
+<span class="LineNumber"> 011 </span>หุตฺวา โพธิสตฺตํ ปตฺวา สูริยปฺปภาวิหตํ  วิย อนฺธการํ 
+<span class="LineNumber"> 012 </span>อนฺตรธายิ ฯ  
+<span class="LineNumber"> 013 </span>	เอวํ  โส  มาโร  อิมาหิ  นวหิ  วาตวสฺสปาสาณปหรณ-
+<span class="LineNumber"> 014 </span>องฺคารกุกฺกุฬวาลุกากลลนฺธการวุฏฺ€ีหิ  โพธิสตฺตํ  ปลาเปตุํ  
+<span class="LineNumber"> 015 </span>อสกฺโกนฺโต  กึ  ภเณ  ติฏฺ€ถ  อิมํ  สิทฺธตฺถกุมารํ  คณฺหถ  
+<span class="LineNumber"> 016 </span>หนถ  ปลาเปถาติ  อตฺตโน  ปริสํ  อาณาเปตฺวา  สยมฺปิ  
+<span class="LineNumber"> 017 </span>คิริเมขลสฺส  หตฺถิโน  ขนฺเธ  นิสินฺโน  จกฺกาวุธํ  อาทาย  โพธิ-
+<span class="LineNumber"> 018 </span>สตฺตํ  อุปสงฺกมิตฺวา  สิทฺธตฺถ  อุฏฺเ€หิ  เอตสฺมา  ปลฺลงฺกา  
+<span class="LineNumber"> 019 </span>นายํ  ตุยฺหํ ปาปุณาติ  มยฺหํ  เอส  ปาปุณาตีติ  อาห ฯ  
+<span class="LineNumber"> 020 </span>มหาสตฺโต  ตสฺส  วจนํ  สุตฺวา  อโวจ  มาร  เนว  ตยา  
+<span class="LineNumber"> 021 </span>ทสปารมิโย  ปูริตา  น  อุปปารมิโย  น  ปรมตฺถปารมิโย  นาปิ  
+<span class="LineNumber"> 022 </span>ปฺจ  มหาปริจฺจาคา  ปริจฺจตฺตา  น าตตฺถจริยา น 

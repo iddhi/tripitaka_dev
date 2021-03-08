@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>สนิทัสสนติกจิตตสังสัฏฐสมุฏฐานทุกะ</H1> 
+<span class="LineNumber"> 002 </span>                  <H1>นสนิทัสสนติกโนจิตตสังสัฏฐสมุฏฐานทุกะ</H1>
+<span class="LineNumber"> 003 </span> <H2>(๒๒. สนิทัสสนติกะ ๖๓.  จิตตสังสัฏฐสมุฏฐานทุกะ)</H2> 
+<span class="LineNumber"> 004 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 005 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                  <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                          <H2>จิตตสังสัฏฐสมุฏฐานบท</H2>
+<span class="LineNumber"> 008 </span>           [๖๒๑] ๑.  <B>ธรรมที่ไม่ใช่จิตตสังสัฏฐสมุฏฐานธรรม  ที่ไม่ใช่
+<span class="LineNumber"> 009 </span>อนิทัสสนอัปปฏิฆธรรม   อาศัยจิตตสังสัฏฐสมุฏฐานธรรม  ที่เป็น
+<span class="LineNumber"> 010 </span>อนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 012 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๖๒๒]  ในเหตุปัจจัย  มี ๖  วาระ  ฯลฯ
+<span class="LineNumber"> 014 </span>                     <I>สนิทัสสนติกจิตตสังสัฏฐสมุฏฐานทุกะ</I>	
+<span class="LineNumber"> 015 </span>               <I>นสนิทัสสนติกโนจิตตสังสัฏฐสมุฏฐานทุกะ  จบ</I>

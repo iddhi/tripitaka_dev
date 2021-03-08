@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>สุทธขันธวาระ  ปัจจนิก</H1>
+<span class="LineNumber"> 002 </span>         [๑๐๒๙]   ธรรมที่ไม่ชื่อว่ากายสังขาร      ไม่ชื่อว่าวจีสังขาร
+<span class="LineNumber"> 003 </span>ใช่ไหม  ? 
+<span class="LineNumber"> 004 </span>         ธรรมที่ไม่ชื่อว่าวจีสังขาร  ไม่ชื่อว่ากายสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ธรรมที่ไม่ชื่อว่ากายสังขาร  ไม่ชื่อว่าจิตตสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ธรรมที่ไม่ชื่อว่าจิตตสังขาร  ไม่ชื่อว่ากายสังขาร   ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         ธรรมที่ไม่ชื่อว่าวจีสังขาร  ไม่ชื่อว่าจิตตสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>         ธรรมที่ไม่ชื่อว่าจิตตสังขาร  ไม่ชื่อว่าวจีสังขาร    ใช่ไหม ?
+<span class="LineNumber"> 009 </span>                           <I>สุทธขันธวาระ  ปัจจนิก  จบ</I>
+<span class="LineNumber"> 010 </span>                                   <I>อุทเทสวาระ  จบ</I>

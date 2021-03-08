@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.  รู้ธรรม  
+<span class="LineNumber"> 002 </span>           ๒.  รู้ธรรมานุโลม
+<span class="LineNumber"> 003 </span>           ๓.  รู้วินัย
+<span class="LineNumber"> 004 </span>           ๔.  รู้วินยานุโลม
+<span class="LineNumber"> 005 </span>           ๕.  ฉลาดในคำต้นและคำหลัง
+<span class="LineNumber"> 006 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์  ๕  นี้แล  พึงซักถาม
+
+<span class="LineNumber"> 007 </span>                        <H1>องค์ของภิกษุผู้ไม่ควรซักถามอีกนัยหนึ่ง</H1> 
+<span class="LineNumber"> 008 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์แม้อื่นอีก  ๕  ไม่พึงซักถาม   องค์
+<span class="LineNumber"> 009 </span>๕  อะไรบ้าง  คือ :-
+<span class="LineNumber"> 010 </span>           ๑.  ไม่รู้วัตถุ
+<span class="LineNumber"> 011 </span>           ๒.  ไม่รู้นิทาน
+<span class="LineNumber"> 012 </span>           ๓.  ไม่รู้บัญญัติ
+<span class="LineNumber"> 013 </span>           ๔.  ไม่รู้บทที่ตกหล่นภายหลัง
+<span class="LineNumber"> 014 </span>           ๕.  ไม่รู้ทางถ้อยคำอันเข้าสนธิกันได้
+<span class="LineNumber"> 015 </span>           ดูก่อนอุบาลี  ภิกษุประกอบด้วยองค์ ๕  นี้แล  ไม่พึงซักถาม
+
+<span class="LineNumber"> 016 </span>                                    <H1>องค์ของภิกษุผู้ควรซักถาม</H1> 
+<span class="LineNumber"> 017 </span>           ดูก่อนอุบาลี   ภิกษุประกอบด้วยองค์  ๕  พึงซักถาม  องค์ ๕  อะไรบ้าง
+<span class="LineNumber"> 018 </span>คือ :-
+<span class="LineNumber"> 019 </span>           ๑.  รู้วัตถุ
+<span class="LineNumber"> 020 </span>           ๒.  รู้นิทาน                                             
+<span class="LineNumber"> 021 </span>           ๓.  รู้บัญญัติ

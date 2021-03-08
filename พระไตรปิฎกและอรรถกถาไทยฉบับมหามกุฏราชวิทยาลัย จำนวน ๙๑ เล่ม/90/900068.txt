@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>					    <H1>เหตุทุกอุปาทินนติกะ</H1>
+<span class="LineNumber"> 002 </span>				<H2>(๑.  เหตุทุกะ  ๔.  อุปาทินนติกะ)</H2>	
+<span class="LineNumber"> 003 </span>			 	 <H1>อุปาทินนุปาทานิยบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>						<H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 005 </span>					     <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 006 </span>		[๑๘๔]       ๑.  อุปาทินนุปาทานิยธรรมที่เป็นเหตุ  อาศัยอุปาทิน- 
+<span class="LineNumber"> 007 </span>นุปาทานิยธรรมที่เป็นเหตุ  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                 	๔. อุปาทินนุปาทานิยธรรมที่ไม่ใช่เหตุ  อาศัยอุปาทิน-
+<span class="LineNumber"> 009 </span>นุปาทานิยธรรมที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 010 </span>                 	๗.  อุปาทินนุปาทานิยธรรมที่เป็นเหตุ  อาศัยอุปาทิน-
+<span class="LineNumber"> 011 </span>นุปาทานิยธรรมที่เป็นเหตุ   และอุปาทินนุปาทานิยธรรมที่ไม่ใช่เหตุ
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 013 </span>			   <H1>การนับจำนวนวาระในอนุโลม</H1>
+<span class="LineNumber"> 014 </span>		[๑๘๕]  ในเหตุปัจจัย มี ๙ วาระ  ในอารัมมณปัจจัย มี ๙  วาระ  ใน
+<span class="LineNumber"> 015 </span>อนันตรปัจจัย  มี ๙ วาระ  ในสมนันตรปัจจัย มี ๙ วาระ ฯลฯ   ในกัมมปัจจัย
+<span class="LineNumber"> 016 </span>มี ๙ วาระ  ในวิปากปัจจัย มี ๙ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๙ วาระ.

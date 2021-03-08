@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 155
+
+<span class="LineNumber"> 002 </span>	หนฺท จ มํ อุปคุยฺห	ปาเท เต อมฺม วนฺทิตุํ เทหิ  
+<span class="LineNumber"> 003 </span>	คจฺฉามิทานิ ปวาสํ		ยฺตฺถาย เอกราชสฺส  
+<span class="LineNumber"> 004 </span>	หนฺท จ มํ อุปคุยฺห	ปาเท เต อมฺม วนฺทิตุํ เทหิ  
+<span class="LineNumber"> 005 </span>	คจฺฉามิทานิ ปวาสํ		มาตุ กตฺวา หทยโสกํ  
+<span class="LineNumber"> 006 </span>	หนฺท จ มํ อุปคุยฺห	ปาเท เต อมฺม วนฺทิตุํ เทหิ  
+<span class="LineNumber"> 007 </span>	คจฺฉามิทานิ ปวาสํ		ชนสฺส กตฺวา หทยโสกนฺติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  พหุทุกฺขโปสิยาติ  พหูหิ  ทุกฺเขหิ  โปสิยา(๑) ฯ
+<span class="LineNumber"> 009 </span>จนฺทนฺติ  มํ  จนฺทกุมารํ  เอวํ  โปสิตฺวา  อิทานิ  อมฺม  ตุวํ
+<span class="LineNumber"> 010 </span>ชียเส  ปุตฺตํ ฯ  ลภตํ  ตาโต  ปรโลกนฺติ  ปิตา  เม  โภคสมฺปนฺนํ 
+<span class="LineNumber"> 011 </span>ปรโลกํ  ลภตุ ฯ  อุปคุยฺหาติ  อาลิงฺคิตฺวา  ปลิสชฺชิตฺวา ฯ  
+<span class="LineNumber"> 012 </span>ปวาสนฺติ  ปุน  อนาคมนาย  อจฺจนฺตวิปฺปวาสํ(๒) ฯ  
+<span class="LineNumber"> 013 </span>	อถสฺส มาตา ปริเทวนฺตี จตสฺโส คาถาโย(๓) อภาสิ  
+<span class="LineNumber"> 014 </span>[๘๒๑]หนฺท จ ปทุมปตฺตานํ	โมลึ พนฺธสฺสุ โคตมิปุตฺต  
+<span class="LineNumber"> 015 </span>	จมฺปกทลมิสฺสาโย		เอสา เต โปราณิกา ปกติ  
+<span class="LineNumber"> 016 </span>	หนฺท จ วิเลปนนฺเต	ปจฺฉิมกํ จนฺทนํ วิลิมฺปสฺสุ  
+<span class="LineNumber"> 017 </span>	เยหิ จ สุวิลิตฺโต		โสภสิ ราชปริสาย(๔)  
+<span class="LineNumber"> 018 </span>	หนฺท จ มุทุกานิ วตฺถานิ	ปจฺฉิมํ กาสิกํ นิวาเสหิ  
+<span class="LineNumber"> 019 </span>	เยหิ จ สุนิวตฺโถ		โสภสิ ราชปริสาย(๔)  
+<span class="LineNumber"> 020 </span># ๑. สี. โปสิตา ฯ  ม. โปสิย ฯ  ๒. ม. อนจฺจนฺตํ วิปฺปวาสํ คจฺฉามิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. คาถา ฯ ๔. ส. ม. ราชปริสายํ ฯ

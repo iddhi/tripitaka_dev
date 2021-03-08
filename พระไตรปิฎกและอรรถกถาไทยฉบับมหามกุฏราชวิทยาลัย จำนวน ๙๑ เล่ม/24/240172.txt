@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                        <h1>๓.  สาธุสูตร</h1>
+
+<span class="LineNumber"> 002 </span>                                <H1>ว่าด้วยอานิสงส์การให้ทาน</H1>
+
+<span class="LineNumber"> 003 </span>         [๙๔]   ครั้งนั้นแล  เมื่อปฐมยามล่วงไปแล้ว  พวกเทวดาสตุลลปกายิกา 
+<span class="LineNumber"> 004 </span>มากด้วยกัน   มีวรรณะงาม  ยังพระวิหารเชตวันทั้งสิ้นให้สว่าง  เข้าไปเฝ้าพระผู้ 
+<span class="LineNumber"> 005 </span>มีพระภาคเจ้าถึงที่ประทับ   ครั้นถวายอภิวาทพระผู้มีพระภาคเจ้าแล้ว   จึงได้ยืน
+<span class="LineNumber"> 006 </span>อยู่ ณ ที่ควรส่วนข้างหนึ่ง.
+<span class="LineNumber"> 007 </span>         [๙๕]   เทวดาองค์หนึ่ง   ครั้นยืนอยู่  ณ ที่ควรส่วนข้างหนึ่งแล้ว   ได้
+<span class="LineNumber"> 008 </span>เปล่งอุทานนี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 009 </span>                             <B>ข้าแต่พระองค์ผู้ไม่มีทุกข์    ทานยัง
+<span class="LineNumber"> 010 </span>                   ประโยชน์ให้สำเร็จได้แล    เพราะความ
+<span class="LineNumber"> 011 </span>                   ตระหนี่และความประมาทอย่างนี้    บุคคล
+<span class="LineNumber"> 012 </span>                   จึงให้ทานไม่ได้   อันบุคคลผู้หวังบุญ  รู้
+<span class="LineNumber"> 013 </span>                   แจ้งอยู่  พึงให้ทานได้.</B>
+<span class="LineNumber"> 014 </span>         [๙๖]   ในลำดับนั้นแล  เทวดาอื่นอีก   ไค้เปล่งอุทานนี้ในสำนักของ-
+<span class="LineNumber"> 015 </span>พระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 016 </span>                             <B>ข้าแต่พระองค์ผู้ไม่มีทุกข์  ทานยัง
+<span class="LineNumber"> 017 </span>                   ประโยชน์ให้สำเร็จได้แล  อนึ่ง  แม้เมื่อ
+<span class="LineNumber"> 018 </span>                   ของมีอยู่น้อย ทานก็ยังประโยชน์ให้สำเร็จ
+<span class="LineNumber"> 019 </span>                   ได้ บุคคลพวกหนึ่ง  เมื่อของมีน้อย  ย่อม
+<span class="LineNumber"> 020 </span>                   แบ่งให้ได้  บุคคลพวกหนึ่ง   มีของมากก็</B>

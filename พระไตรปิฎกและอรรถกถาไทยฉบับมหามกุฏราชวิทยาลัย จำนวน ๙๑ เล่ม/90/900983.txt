@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                 	๔.  อัชฌัตติกธรรมที่เป็นอกุศล    เป็นปัจจัยแก่อัช- 
+<span class="LineNumber"> 002 </span>ฌัตติกธรรมที่เป็นอกุศล  ด้วยอำนาจของอารัมมณปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 003 </span>                 	๗.  อัชฌัตติกธรรมที่เป็นอัพยากตะ    เป็นปัจจัยแก่
+<span class="LineNumber"> 004 </span>อัชฌัตติกธรรมที่เป็นอัพยากตะ    ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 005 </span>มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                    	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 007 </span>		[๗๐๙]  ในอารัมมณปัจจัย มี ๙ วาระ  ฯลฯ  ในปุเรชาตปัจจัย มี ๓
+<span class="LineNumber"> 008 </span>วาร ะ  ฯลฯ  ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 009 </span>          	แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+
+<span class="LineNumber"> 010 </span>				     <H1>พาหิรบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 011 </span>					  <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>				     <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 013 </span>		[๗๑๐]  ๑.  พาหิรธรรมที่เป็นกุศลอาศัยพาหิรธรรมที่เป็นกุศล
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                   	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>		[๗๑๑]  ในเหตุปัจจัย   มี  ๙  วาระ   ในอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 017 </span>ฯลฯ   ในอวิคตปัจจัย มี  ๙  วาระ.
+<span class="LineNumber"> 018 </span>           	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.

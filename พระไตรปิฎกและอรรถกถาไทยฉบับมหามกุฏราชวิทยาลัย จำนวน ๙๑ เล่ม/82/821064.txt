@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าวจี                    ชื่อว่าวจีสังขาร ใช่ไหม  ?  
+<span class="LineNumber"> 002 </span>ธรรมที่ชื่อว่าวจีสังขาร                   ชื่อว่าวจี  ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าจิต                    ชื่อว่าจิตตสังขาร  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>ธรรมที่ชื่อว่าจิตตสังขาร                ชื่อว่าจิต  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>                      <I>ปทโสธนวาระ  อนุโลม  จบ</I>

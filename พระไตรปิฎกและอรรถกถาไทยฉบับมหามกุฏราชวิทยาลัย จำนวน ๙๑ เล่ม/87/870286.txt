@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>๑๐.  เสกขติกะ</H1> 
+<span class="LineNumber"> 002 </span>                                      <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 003 </span>                                      <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 004 </span>                                   <H1>๑.  เหตุปัจจัย</H1> 
+<span class="LineNumber"> 005 </span>           [๑๑๗๓]  ๑.  <B>เสกขธรรม  อาศัยเสกธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 006 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นเสกธรรม  ฯลฯ  ขันธ์ ๒  ฯลฯ
+<span class="LineNumber"> 008 </span>                         ๒.  เนวเสกขานาเสกขธรรม  อาศัยเสกธรรม  เกิด
+<span class="LineNumber"> 009 </span>ขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นเสกธรรม.
+<span class="LineNumber"> 011 </span>                         ๓.  <B>เสกขธรรม  และเนวเสกขธรรม  อาศัย
+<span class="LineNumber"> 012 </span>เสกขธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>           [๑๑๗๔] ๔.  <B>อเสกขธรรม  อาศัยอเสกขธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 014 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ฯลฯ  อาศัยขันธ์ ๑ ที่เป็นอเสกขธรรม  ฯลฯ
+<span class="LineNumber"> 016 </span>                         ๕.  <B>เนวเสกขานาเสกขธรรม  อาศัยอเสกขธรรม  ฯลฯ</B>
+<span class="LineNumber"> 017 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นอเสกขธรรม.
+                  

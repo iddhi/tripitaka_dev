@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 48  กถาวตฺถุปฺปกรณวณฺณนา หน้า  438
+
+<span class="LineNumber"> 002 </span>สกวาทิสฺส ฯ  มิจฺฉตฺตนิยามวเสน (๑) ปเนตํ อนิยตเมวาติ สพฺพํ
+<span class="LineNumber"> 003 </span>เหฏฺ€า วุตฺตนเยเนว เวทิตพฺพนฺติ ฯ 
+<span class="LineNumber"> 004 </span>		กมฺมกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 005 </span>		เอกวีสติโม วคฺโค สมตฺโต ฯ 
+
+<span class="LineNumber"> 006 </span>		ปรินิพฺพานกถาวณฺณนา 
+<span class="LineNumber"> 007 </span>	อิทานิ  ปรินิพฺพานกถา  นาม  โหติ ฯ  ตตฺถ  ยสฺมา 
+<span class="LineNumber"> 008 </span>อรหา  สพฺพฺุวิสเย  อปฺปหีนสฺโชโนว  ปรินิพฺพาติ  (๒)  ตสฺมา
+<span class="LineNumber"> 009 </span>อตฺถิ กิฺจิ สฺโชนํ อปฺปหาย  ปรินิพฺพานนฺติ  เยสํ 
+<span class="LineNumber"> 010 </span>ลทฺธิ  เสยฺยถาปิ  อนฺธกานํ  เต  สนฺธาย ปุจฺฉา สกวาทิสฺส
+<span class="LineNumber"> 011 </span>ปฏิฺา อิตรสฺส ฯ เสสเมตฺถ เหฏฺ€า วุตฺตนยเมวาติ ฯ 
+<span class="LineNumber"> 012 </span>		ปรินิพฺพานกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 013 </span>		กุสลจิตฺตกถาวณฺณนา 
+<span class="LineNumber"> 014 </span>	อิทานิ  กุสลจิตฺตกถา  นาม  โหติ ฯ  ตตฺถ  ยสฺมา  อรหา 
+<span class="LineNumber"> 015 </span>สติเวปุลฺลปฺปตฺโต  ปรินิพฺพายนฺโตปิ  สโต  สมฺปชาโนว  ปรินิพฺพาติ 
+<span class="LineNumber"> 016 </span>ตสฺมา กุสลจิตฺโต  ปรินิพฺพาตีติ(๓)  เยสํ  ลทฺธิ  เสยฺยถาปิ  อนฺธกานํ
+<span class="LineNumber"> 017 </span>เต สนฺธาย ปุจฺฉา สกวาทิสฺส  ปฏิฺา  อิตรสฺส ฯ  อถ  นํ
+<span class="LineNumber"> 018 </span>ยสฺมา กุสลจิตฺโต นาม ปุฺาภิสงฺขาราภิสงฺขรณาทิวเสน  โหติ 
+<span class="LineNumber"> 019 </span># ๑. ม. มิจฺฉตฺตสมฺมตฺตนิยามวเสน ฯ
+<span class="LineNumber"> 020 </span># ๒. ม. ปรินิพฺพายติ ฯ ๓. ม.ปรินิพฺพายตีติ ฯ

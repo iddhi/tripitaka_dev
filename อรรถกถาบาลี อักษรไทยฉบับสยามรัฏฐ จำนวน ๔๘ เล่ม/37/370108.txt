@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  108
+
+<span class="LineNumber"> 002 </span>อสมา  อฺเมว  หิ  คุนฺนํ  สณฺ€านํ  อฺํ  เอเตสนฺติ เอเต(๑)
+<span class="LineNumber"> 003 </span>พฺราหฺมเณ  ติรจฺฉาเนสุ  สีหาทีสุ  สเมปิ  อกตฺวา  โครูปสเมว  
+<span class="LineNumber"> 004 </span>กโรติ ฯ
+<span class="LineNumber"> 005 </span>	สเจ  จ  ราชาติ  อริฏฺ€  ยทิ  มหาพฺราหฺมุนา  ทินฺนภาเวน 
+<span class="LineNumber"> 006 </span>ขตฺติโยว  ป€วึ  วิชิตฺวา ฯ  สชีววาติ  สห  ชีวีหิ  อมจฺเจหิ 
+<span class="LineNumber"> 007 </span>สมนฺนาคโต ฯ  อสฺสวา  ปาริสชฺโชติ  อตฺตโน  โอวาท-
+<span class="LineNumber"> 008 </span>การกปริสาวจโร(๒)  สิยา  อถสฺส  ปริสาย  ยุชฺฌิตฺวา  รชฺชํ  ทาตพฺพํ 
+<span class="LineNumber"> 009 </span>นาม  น  ภเวยฺย  สยเมว  โส  เอกโกว  สตฺตุสงฺฆํ  วิเชยฺย ฯ 
+<span class="LineNumber"> 010 </span>เอวํ  สติ  ยุทฺเธ  ทุกฺขาภาเวน  ตสฺส  ปชา  นิจฺจํ  สุขี (๓) ภเวยฺย 
+<span class="LineNumber"> 011 </span>เอตฺจ  สจฺจํ  นตฺถิ  ตสฺมาปิ  เตสํ วจนํ มิจฺฉา ฯ  
+<span class="LineNumber"> 012 </span>	ขตฺติยมนฺตาติ  ราชสตฺถฺจ  ตโย  จ  เวทา  อตฺตโน  
+<span class="LineNumber"> 013 </span>อาณาย  รุจิยา  อิทเมว  กตฺตพฺพนฺติ  ปวตฺตนฺตา(๔)  อตฺเถน  เอเตา  
+<span class="LineNumber"> 014 </span>สมกา  ภวนฺติ ฯ  อวินิจฺฉินิตฺวาติ  เตสํ  ขตฺติยมนฺตานํ  ขตฺติโยปิ  
+<span class="LineNumber"> 015 </span>เวทานํ  พฺราหฺมโณปิ  อตฺถํ  อวินิจฺฉินิตฺวา  อาณาวเสเนว 
+<span class="LineNumber"> 016 </span>คณฺหนฺโต(๕)  ตํ  อตฺถํ  อุทโกเฆน  (๖)ฉนฺนํ  มคฺคํ(๖)  วิย  น 
+<span class="LineNumber"> 017 </span>พุชฺฌติ ฯ  อตฺเถน  เอเตติ  วฺจนตฺเถน  เอเต  สมกา  
+<span class="LineNumber"> 018 </span>ภวนฺติ ฯ  กึ  การณา ฯ  พฺราหฺมณา  หิ  พฺราหฺมณาว  เสฏฺ€า
+<span class="LineNumber"> 019 </span>อฺเ  วณฺณา  หีนาติ  วทนฺติ  เย  จ  เต  ลาภาทโย  โลกธมฺมา 
+<span class="LineNumber"> 020 </span># ๑. ม. เอเตน ฯ  ๒. ม. โอวาทกรปริสาวจโรว ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. นิจฺจสุขี ฯ  ๔. ม. ปวตฺตตฺตา ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. อุคฺคณฺหนฺโต ฯ  ๖. ม. ฉนฺนมคฺคํ ฯ

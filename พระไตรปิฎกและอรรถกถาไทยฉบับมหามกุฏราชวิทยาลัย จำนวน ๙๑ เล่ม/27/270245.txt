@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>           บทที่เหลือในที่ทุกแห่ง มีความหมายง่ายทั้งนั้น.  
+<span class="LineNumber"> 002 </span>                            <I>จบอรรถกถาปุณณมสูตรที่  ๑๐</I>
+<span class="LineNumber"> 003 </span>           ก็แล ในสูตรแต่ละสูตรของวรรคนี้  (มี) ภิกษุ  ๕๐๐ รูป ได้สำเร็จ 
+<span class="LineNumber"> 004 </span>เป็นพระอรหันต์แล.
+<span class="LineNumber"> 005 </span>                               <I>จบอรรถกถาขัชชนียวรรคที่  ๓</I>
+
+<span class="LineNumber"> 006 </span>                    <H2>รวมพระสูตรที่มีในวรรคนี้   คือ</H2>
+<span class="LineNumber"> 007 </span>           <B>๑.  อัสสาทสูตร    ๒.  สมุทยสูตรที่  ๑    ๓.  สมุทยสูตรที่  ๒       
+<span class="LineNumber"> 008 </span>๔.  อรหันตสูตรที่  ๑   ๕.  อรหันตสูตรที่  ๒   ๖.  สีหสูตร   ๗.  ขัชชนิยสูตร
+<span class="LineNumber"> 009 </span>๘.  ปิณโฑลยสูตร      ๙.  ปาลิเลยยกสูตร     ๑๐.   ปุณณมสูตร.</B> 

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>การนับจำนวนวาระในอนุโลม</H2>  
+<span class="LineNumber"> 002 </span>           [๗๒๓]  ในเหตุปัจจัย มี ๒  วาระ   ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                       <H2>อรูปีบท</H2>
+<span class="LineNumber"> 004 </span>           [๗๒๔] ๑.  <B>อรูปีธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม  อาศัย
+<span class="LineNumber"> 005 </span>ธรรมที่ไม่ใช่อรูปีธรรม  ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น
+<span class="LineNumber"> 006 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                                           <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 008 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 009 </span>           [๗๒๕]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 010 </span>             <I>นสนิทัสสนติกนรูปีทุกสนิทัสสนตกรูปีทุกะ  จบ</I>
+
+<span class="LineNumber"> 011 </span>               <H1>นสนิทัสสนติกนโลกิยทุกสนิทัสสนติกโลกิยทุกะ</H1>
+<span class="LineNumber"> 012 </span>            <H2>(๒๒.  สนิทัสสนติกะ  ๑๒.  โลกิยทุกะ)</H2>
+<span class="LineNumber"> 013 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 014 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>                                            <H2>โลกิยบท</H2>
+<span class="LineNumber"> 017 </span>           [๗๒๖] ๑.  <B>โลกิยธรรม ที่เป็นสนิทัสสนสัปปฏิฆธรรม  อาศัย
+<span class="LineNumber"> 018 </span>ธรรมที่ไม่ใช่โลกิยธรรม  ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม   เกิดขึ้น
+<span class="LineNumber"> 019 </span>เพราะเหตุปัจจัย</B>   มี ๗ วาระ.

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>อย่าง  ฉะนี้แล</B>    ดังนี้  เป็นสูตรมีอยู่จริง  มิใช่หรือ ? 
+<span class="LineNumber"> 002 </span>                      ส. ถูกแล้ว.
+<span class="LineNumber"> 003 </span>                      ป. ถ้าอย่างนั้น  ก็อายตนะ  ๕  เท่านั้น เป็นการ  น่ะสิ.
+<span class="LineNumber"> 004 </span>         [๑๒๑๖]  ส. อายตนะ  ๕  เท่านั้น  เป็นกาม  หรือ ?
+<span class="LineNumber"> 005 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                      ส. พระผู้มีพระภาคเจ้าได้ตรัสไว้ว่า  <B>ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 007 </span>กามคุณนี้  ๕  อย่าง  ๕  อย่างเป็นไฉน ?  รูปอันเป็นวิสัยแห่งจักขุวิญญาณ
+<span class="LineNumber"> 008 </span>ฯลฯ  โผฏฐัพพะอันเป็นวิสัยแห่งกายวิญญาณ   ที่น่าปรารถนา  น่าใคร่
+<span class="LineNumber"> 009 </span>จำเริญใจ  น่ารัก  ประกอบด้วยกาม  เป็นที่ตั้งแห่งความยินดี  ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 010 </span>กามคุณ  ๕  อย่าง  ฉะนี้แล  อีกอย่างหนึ่ง  ทั้ง  ๕  อย่างนี้มิใช่กาม  แต่
+<span class="LineNumber"> 011 </span>ทั้ง  ๕  อย่างนี้  เรียกในวินัยของพระอริยะว่า  กามคุณ</B>
+<span class="LineNumber"> 012 </span>         <B>ความกำหนัดด้วยอำนาจความดำริเป็นกามคุณของบุรุษ  สิ่งที่สวยงาม
+<span class="LineNumber"> 013 </span>ในโลกไม่ใช่กาม  ความกำหนัดด้วยอำนาจความดำริ  เป็นกามของบุรุษ
+<span class="LineNumber"> 014 </span>สิ่งที่สวยงามย่อมตั้งอยู่ในโลกอย่างนั้นแล  แต่ว่านักปราชญ์ย่อมกำจัด
+<span class="LineNumber"> 015 </span>ความพอใจในสิ่งที่สวยงามนี้</B>  ดังนี้<SUP>๑</SUP>  เป็นสูตรมีอยู่จริง  มิใช่หรือ ?
+<span class="LineNumber"> 016 </span>                      ป. ถูกแล้ว.
+<span class="LineNumber"> 017 </span>                      ส. ถ้าอย่างนั้น   ก็ไม่พึงกล่าวว่า  อายตนะ  ๕  เท่านั้น
+<span class="LineNumber"> 018 </span>เป็นกาม.
+<span class="LineNumber"> 019 </span>                                     <I>กามกถา  จบ</I>
+
+<span class='footnote'>๑. อัง.  ฉกฺก  ๒๒/๓๓๔.</span>

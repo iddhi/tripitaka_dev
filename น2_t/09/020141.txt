@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	ขอจงนิกรพละสยาม                          ชนะสิทธิทุกวาร
+<span class="LineNumber"> 002 </span>		ถึงแม้จะมีอริวิเศษ                      พละเดชเทียมมาร
+<span class="LineNumber"> 003 </span>	ขอไทยเจริญพิชิตตะผลาญ                 อริแม้นมุนินทรฯ  
+<span class="LineNumber"> 004 </span>			          (กราบ  ๓  ครั้ง)
+<span class="LineNumber"> 005 </span>                                   <B>บทสรรเสริญพระบารมี</B>
+<span class="LineNumber"> 006 </span>(นำ)	ข้าวรพุทธเจ้า  (รับพร้อมกัน) 	เอามโนและศิระกราน
+<span class="LineNumber"> 007 </span>	นบพระภูมิบาล                                         บุญญดิเรก
+<span class="LineNumber"> 008 </span>	เอกบรมจักริน                                           พระสยามินทร์
+<span class="LineNumber"> 009 </span>	พระยศยิ่งยง                                               เย็นศิระเพราะพระบริบาล
+<span class="LineNumber"> 010 </span>	ผลพระคุณ ธ รักษา                                   ปวงประชาเป็นสุขศานต์
+<span class="LineNumber"> 011 </span>	ขอบันดาล ธ ประสงค์ใด                          จงสฤษฏ์ดัง
+<span class="LineNumber"> 012 </span>	หวังวรหฤทัย  ดุจถวายชัย  ชโยฯ
+
+<span class="LineNumber"> 013 </span><B>(๓)  แบบคำสวดมนต์สำหรับนักเรียนก่อนเข้านอน</B>
+<span class="LineNumber"> 014 </span>	(หัวหน้าสวดนำผู้อื่นสวดตาม)
+<span class="LineNumber"> 015 </span>	อรหํ  สมฺมาสมฺพุทโธ  ภควา.
+<span class="LineNumber"> 016 </span>	พุทฺธํ  ภควนฺตํ  อภิวาเทมิ.  (กราบ)
+<span class="LineNumber"> 017 </span>	สฺวากฺขาโต  ภควตา  ธมฺโม.
+<span class="LineNumber"> 018 </span>	ธมฺมํ  นมสฺสามิ.  (กราบ)
+<span class="LineNumber"> 019 </span>	สุปฏิปนฺโน  ภควโต  สาวกสงฺโฆ
+<span class="LineNumber"> 020 </span>	สงฺฆํ  นมามิ  (กราบ)

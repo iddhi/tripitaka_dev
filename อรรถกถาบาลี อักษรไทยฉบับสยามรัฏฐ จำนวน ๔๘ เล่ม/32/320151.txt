@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  กุกฺกุวคฺควณฺณนา  หน้า  151
+	
+<span class="LineNumber"> 002 </span>	[๙๙๑] กึ คิชฺฌ ปริเทเวสิ  	กา นุ เต ปริเทวนา  
+<span class="LineNumber"> 003 </span>		 น เม สุโต วา ทิฏฺโ€ วา  	ภาสนฺโต มานุสึ ทิโช ฯ  
+<span class="LineNumber"> 004 </span>	[๙๙๒] [๑]ภรามิ มาตาปิตโร  	วุฑฺเฒ คิริทรีสเย  
+<span class="LineNumber"> 005 </span>		 เต กถนฺนุ กริสฺสนฺติ  	อหํ วสํ คโต ตว ฯ  
+<span class="LineNumber"> 006 </span>	[๙๙๓] [๒]ยนฺนุ คิชฺโฌ โยชนสตํ  	กุณปานิ อเปกฺขติ  
+<span class="LineNumber"> 007 </span>		 กสฺมา ชาลฺจ ปาสฺจ  	อาสชฺชาปิ น พุชฺฌสีติ ฯ  
+<span class="LineNumber"> 008 </span>	[๙๙๔] [๓]ยทา ปราภโว โหติ  	โปโส ชีวิตสงฺขโย(๔)  
+<span class="LineNumber"> 009 </span>		 อถ ชาลฺจ ปาสฺจ  	อาสชฺชาปิ น พุชฺฌตีติ ฯ  
+<span class="LineNumber"> 010 </span>	[๙๙๕] ภรสฺสุ มาตาปิตโร  	วุฑฺเฒ คิริทรีสเย  
+<span class="LineNumber"> 011 </span>		 มยา ตฺวํ สมนุฺาโต  	โสตฺถึ ปสฺสาหิ าตเก ฯ  
+<span class="LineNumber"> 012 </span>	[๙๙๖] เอวํ ลุทฺธก นนฺทสฺสุ  	สห สพฺเพหิ าติภิ  
+<span class="LineNumber"> 013 </span>		 ภริสฺสํ มาตาปิตโร  	วุฑฺเฒ คิริทรีสเยติ ฯ  
+<span class="LineNumber"> 014 </span>เนสาทปุตฺเตน  ทุติยา  คิชฺเฌน  ตติยา  อิติ  อิมา  คาถา  ปฏิปาฏิยา  
+<span class="LineNumber"> 015 </span>วุตฺตา ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  ยนฺนูติ  ยํ  นุ  เอตํ  โลเก  กถียติ  ฯ  คิชฺโฌ  โยชนสตํ  
+<span class="LineNumber"> 017 </span>กุณปานิ  อเปกฺขตีติ  โยชนสตํ  อติกฺกมฺม  €ิตานิ  กุณปานิ  ปสฺสติ  
+<span class="LineNumber"> 018 </span>ตํ  ยทิ  กถํ  อถ  กสฺมา  ตฺวํ  อิมํ  ชาลฺจ  ปาสฺจ  อาสชฺชาปิ  
+<span class="LineNumber"> 019 </span>น  พุชฺฌสิ  สนฺติกํ  อาคนฺตฺวาปิ  น  ชานาสีติ  ฯ  ปราภโวติ
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร คิชฺโฌ อาหาติ ทิสฺสนฺติ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. เอตฺถนฺตเร เนสาโท อาหาติ ทิสฺสนฺติ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. เอตฺถนฺตเร คิชฺฌราชา อาหาติ ทิสฺสนฺติ ฯ
+<span class="LineNumber"> 023 </span># ๔. ม. ชีวิตสงฺขเย ฯ

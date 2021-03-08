@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                            		<H2>ปัจจนียนัย</H2> 
+<span class="LineNumber"> 002 </span>		[๓๗๐]  ในนเหตุปัจจัย  มี  ๒๑ วาระ    ในนอารัมมณปัจจัย  มี   ๑๙
+<span class="LineNumber"> 003 </span>วาระ  ฯลฯ                                                  
+<span class="LineNumber"> 004 </span>                     		<H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 005 </span>		[๓๗๑]  <B>เพราะอารัมมณปัจจัย</B>    ในนเหตุปัจจัย มี ๙ วาระ...  ฯลฯ
+<span class="LineNumber"> 006 </span>                          	   <H2>ปัจจนียานุโลมนัย</H2> 
+<span class="LineNumber"> 007 </span>		[๓๗๒]  <B>เพราะนเหตุปัจจัย</B>    ในอารัมมณปัจจัย มี  ๙  วาระ... ฯลฯ
+<span class="LineNumber"> 008 </span>           	แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 009 </span>                                 <I>มัคคารัมมณติกเหตุทุกะ  จบ</I>

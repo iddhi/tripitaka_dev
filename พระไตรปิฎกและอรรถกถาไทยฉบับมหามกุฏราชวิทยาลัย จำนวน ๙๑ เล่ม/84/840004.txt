@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่าปัญญา  ชื่อว่า  ปัญญินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 002 </span>ธรรมที่ชื่อว่าปัญญินทรีย์  ชื่อว่า  ปัญญา  ใช่ไหม ?
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าอนัญญาตัญญัสสามีติ  ชื่อว่า  อนัญญาตัญญัสสามี-
+<span class="LineNumber"> 004 </span>ตินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>ธรรมที่ชื่อว่าอนัญญาตัญญัสสามีตินทรีย์  ชื่อว่า  อนัญญาตัญญัสสามีติ
+<span class="LineNumber"> 006 </span>ใช่ไหม   ?
+<span class="LineNumber"> 007 </span>         ธรรมที่ชื่อว่าอัญญะ  ชื่อว่า  อัญญินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 008 </span>ธรรมที่ชื่อว่าอัญญินทรีย์  ชื่อว่า  อัญญะ  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ธรรมที่ชื่อว่าอัญญาตาวี  ชื่อว่า  อัญญาตาวินทรีย์  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>ธรรมที่ชื่อว่าอัญญาตาวินทรีย์  ชื่อว่า  อัญญาตาวี  ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>                               <I>ปทโสธนวาระ  อนุโลม จบ</I> 

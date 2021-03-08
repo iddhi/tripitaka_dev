@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  486
+	
+<span class="LineNumber"> 002 </span>		ธีโร (๑) วิคตสมฺโมโห	อเนโช อกถํกถี  
+<span class="LineNumber"> 003 </span>		ตุสฺสิโต(๒) วนฺตโทโสสิ	นิมฺมโล สํยโต (๓) สุจิ ฯ  
+<span class="LineNumber"> 004 </span>		สงฺคาติโค หตมโท (๔)	เตวิชฺโช ติภวนฺตโค(๕)  
+<span class="LineNumber"> 005 </span>		สีมาติโค ธมฺมครุ		คตตฺโถ หิตวพฺภุโต(๖) ฯ  
+<span class="LineNumber"> 006 </span>		ตารโก ตฺวํ ยถา นาวา	นิธีวสฺสาสการโก  
+<span class="LineNumber"> 007 </span>		อสมฺภีโต ยถา สีโห	คชราชาว (๗) ทปฺปิโต(๘) ฯ  
+<span class="LineNumber"> 008 </span>		โถเมตฺวา ทสคาถาหิ	ปทุมุตฺตรํ มหายสํ  
+<span class="LineNumber"> 009 </span>		วนฺทิตฺวา สตฺถุโน ปาเท	ตุณฺหี อฏฺ€าสหํ ตทา ฯ  
+<span class="LineNumber"> 010 </span>		ปทุมุตฺตโร โลกวิทู	อาหุตีนํ ปฏิคฺคโห  
+<span class="LineNumber"> 011 </span>		ภิกฺขุสงฺเฆ €ิโต สตฺถา	อิมา คาถา อภาสถ ฯ  
+<span class="LineNumber"> 012 </span>		โย เม สีลฺจ าณฺจ	สทฺธมฺมฺจาปิ วณฺณยิ  
+<span class="LineNumber"> 013 </span>		ตมหํ กิตฺตยิสฺสามิ		สุณาถ มม ภาสโต ฯ  
+<span class="LineNumber"> 014 </span>		สฏฺ€ิ กปฺปสหสฺสานิ	เทวโลเก รมิสฺสติ  
+<span class="LineNumber"> 015 </span>		อฺเ เทเวภิภวิตฺวา	อิสฺสรํ การยิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		โส ปจฺฉา ปพฺพชิตฺวาน	สุกฺกมูเลน โจทิโต  
+<span class="LineNumber"> 017 </span>		โคตมสฺส ภควโต		สาสเน ปพฺพชิสฺสติ ฯ  
+<span class="LineNumber"> 018 </span>		ปพฺพชิตฺวาน กาเยน	ปาปกมฺมํ วิวชฺชิย  
+<span class="LineNumber"> 019 </span>		สพฺพาสเว ปริฺาย	นิพฺพายิสฺสตินาสโว ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. วีโร ฯ  ๒. ยุ. วุสิโต ฯ  ๓. สี. ปยโต ฯ 
+<span class="LineNumber"> 021 </span># ๔. สฺยา. สงฺคาตีโต คตมโท ฯ  สี. คตมโท ฯ  
+<span class="LineNumber"> 022 </span># ๕. สฺยา. เตวิชฺโชสิ ภวนฺตโค ฯ  ๖. สฺยา. ตตตฺโถ หิตวปฺปโก ฯ 
+<span class="LineNumber"> 023 </span># ยุ. ตตตฺโถ หิตธมฺมโต ฯ  ๗. สี. นาคราชาว ฯ 
+<span class="LineNumber"> 024 </span># ๘. สฺยา. ทมฺมิโต ฯ 

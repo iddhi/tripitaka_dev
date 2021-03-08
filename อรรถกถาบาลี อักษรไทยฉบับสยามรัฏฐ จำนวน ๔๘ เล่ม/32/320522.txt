@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  กณฺหทีปายนชาตกํ  หน้า 522
+
+<span class="LineNumber"> 002 </span>เจกสฺมึ  วมฺมิเก  อาสีวิโส วสติ ฯ กุมารสฺส  ภูมิยํ  ปหตเคณฺฑุโก 
+<span class="LineNumber"> 003 </span>คนฺตฺวา  วมฺมิกพิเล  อาสีวิสสฺส  มตฺถเก  ปตติ  ฯ  โส  อชานนฺโต 
+<span class="LineNumber"> 004 </span>พิเล  หตฺถํ  ปเวเสสิ  ฯ  อถ นํ กุทฺโธ อาสีวิโส หตฺถํ  ฑํสิ  ฯ
+<span class="LineNumber"> 005 </span>โส  วิสเวเคน  มุจฺฉิโต  ตตฺเถว  ปติ  ฯ  อถสฺส มาตาปิตโร  สปฺเปน  
+<span class="LineNumber"> 006 </span>ทฏฺ€ภาวํ  ตฺวา  กุมารกํ  อุกฺขิปิตฺวา  ตาปสสฺส  สนฺติกํ  
+<span class="LineNumber"> 007 </span>อาเนตฺวา  ปาทมูเล  นิปชฺชาเปตฺวา  ภนฺเต  ปพฺพชิตา  นาม 
+<span class="LineNumber"> 008 </span>โอสถํ  วา  ปริตฺตํ  วา  ชานนฺติ  ปุตฺตกํ  โน  วิโรคํ  กโรถาติ  
+<span class="LineNumber"> 009 </span>อาหํสุ  ฯ  อหํ  โอสถํ  น  ชานามิ  นาหํ  เวชฺชกมฺมํ  กริสฺสามิ  
+<span class="LineNumber"> 010 </span>ปพฺพชิโตติ (๑) ฯ  เตนหิ  ภนฺเต  อิมสฺมึ  กุมาเร  เมตฺตํ  กตฺวา
+<span class="LineNumber"> 011 </span>สจฺจกิริยํ  กโรถาติ  วุตฺโต(๒)  ตาปโส  สาธุ  สจฺจกิริยํ  กริสฺสามีติ  
+<span class="LineNumber"> 012 </span>วตฺวา  ยฺทตฺตสฺส  สีเส หตฺถํ €เปตฺวา ป€มํ คาถมาห  
+<span class="LineNumber"> 013 </span>	[๑๓๘๐]สตฺตาหเมวาหํ ปสนฺนจิตฺโต  
+<span class="LineNumber"> 014 </span>		ปุฺตฺถิโก อาจริ(๓) พฺรหฺมจริยํ  
+<span class="LineNumber"> 015 </span>		อถาปรํ ยํ จริตํ มมยิทํ(๔)  
+<span class="LineNumber"> 016 </span>		วสฺสานิ ปฺาส สมาธิกานิ  
+<span class="LineNumber"> 017 </span>		อกามโก วาปิ อหํ จรามิ  
+<span class="LineNumber"> 018 </span>		เอเตน สจฺเจน สุวตฺถิ โหตุ  
+<span class="LineNumber"> 019 </span>		หตํ วิสํ ชีวตุ ยฺทตฺโตติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ม. นาหํ เวชฺชกมฺมํ กริสฺสามีติ ฯ  ๒. ม. วุตฺเต ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. อาจรึ ฯ  ๔. ม. มเมทํ ฯ  ยุ. มมายิทํ ฯ 

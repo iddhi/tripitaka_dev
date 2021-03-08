@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อตีตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                      <H1>จักขายตนมูล</H1>
+<span class="LineNumber"> 004 </span><H2>จักขายตนมูละ  โสตายตนมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๕๔๗]   จักขายตนะเคยดับแก่บุคคลใด,   โสตายตนะก็เคยดับ
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น  ใช่ไหม   ?                                                   
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>         อตีตปุจฉาในอุปปาทวาระก็ดี    ในนิโรธวาระก็ดี    ในอุปปาท-
+<span class="LineNumber"> 009 </span>นิโรธวาระก็ดร   แม้ในอนุโลมและปัจจนิกก็เช่นเดียวกัน              
+<span class="LineNumber"> 010 </span>                       <I>จบ จักขายตนมูละ  โสตายตนะมูลี</I>
+<span class="LineNumber"> 011 </span>                                   <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 012 </span>                                     <I>ปุคคลวาระ   จบ</I>
+<span class="LineNumber"> 013 </span>                                        <I>อตีตวาระ จบ</I>

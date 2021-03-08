@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>กับเวทนาขันธ์.
+<span class="LineNumber"> 002 </span>	ง.  วิญญาณขันธ์ :-   
+<span class="LineNumber"> 003 </span>	๑.  วิญญาณเกิดขึ้น  เพราะอวิชชาเกิดขึ้น.
+<span class="LineNumber"> 004 </span>	๒.  วิญญาณเกิดขึ้น  เพราะตัณหาเกิดขึ้น.
+<span class="LineNumber"> 005 </span>	๓.  วิญญาณเกิดขึ้น  เพราะกรรมเกิดขึ้น.
+<span class="LineNumber"> 006 </span>	๔.  วิญญาณเกิดขึ้น  เพราะนามรูปเกิดขึ้น.
+<span class="LineNumber"> 007 </span>	๕.  ความเกิดแห่งวิญญาณโดยเฉพาะ  ไม่อาศัยเหตุปัจจัยไร ๆ.
+<span class="LineNumber"> 008 </span>	พิจารณาในฝ่ายปริณามลักขณะดังนี้ :-
+<span class="LineNumber"> 009 </span>	ก.  รูปขันธ์  :-
+<span class="LineNumber"> 010 </span>	๑.  รูปดับสิ้นไป  เพราะอวิชชาดับสิ้นไป.
+<span class="LineNumber"> 011 </span>	๒.  รูปดับสิ้นไป  เพราะตัณหาดับสิ้นไป.
+<span class="LineNumber"> 012 </span>	๓.  รูปดับสิ้นไป   เพราะกรรมดับสิ้นไป.
+<span class="LineNumber"> 013 </span>	๔.  รูปดับสิ้นไป  เพราะอาหารดับสิ้นไป.
+<span class="LineNumber"> 014 </span>	๕.  ความดับสิ้นไปแห่งรูปโดยเฉพาะ   ไม่อาศัยเหตุปัจจัยไร ๆ.
+<span class="LineNumber"> 015 </span>	เวทนาขันธ์  สัญญาขันธ์  สังขารขันธ์  ให้พิจารณาโดยนัยเดียว
+<span class="LineNumber"> 016 </span>กันกับรูปขันธ์  แต่ในข้อ ๔  ให้พิจารณาว่า :-
+<span class="LineNumber"> 017 </span>	เวทนา ,   สัญญา,  สังขาร,  ดังสิ้นไป  เพราะผัสสะดับสิ้นไป.
+<span class="LineNumber"> 018 </span>	วิญญาณขันธ์ในข้อ  ๔  ให้พิจารณาว่า  วิญญาณดับสิ้นไป  เพราะ
+<span class="LineNumber"> 019 </span>นามรูปดับสิ้นไป  นอกนั้นให้พิจารณาโดยนัยแห่งรูปขันธ์.
+<span class="LineNumber"> 020 </span>	ต่อจากนี้  ก็ให้พิจารณาโดยนัยวิปัสสนาญาณต่อไป  ไป.
+<span class="LineNumber"> 021 </span>	ในอุเบกขาญาณ  ท่านแสดงไว้ว่า  เมื่อผู้บำเพ็ญกำหนดสังขาร
+

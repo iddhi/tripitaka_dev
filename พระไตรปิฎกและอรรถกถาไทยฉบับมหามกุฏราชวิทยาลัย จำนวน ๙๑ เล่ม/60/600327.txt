@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>๑๐.  สรภชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                        <H2>ว่าด้วยละมั่งทำคุณแก่พระราชา</H2>
+<span class="LineNumber"> 003 </span>                        [๑๘๕๔]     <B>บุรุษพึงหวังไว้ทีเดียว    บัณฑิตไม่พึง
+<span class="LineNumber"> 004 </span>              เบื่อหน่าย   เราเห็นตนอยู่ว่า  ปรารถนาอย่างใด  ได้เป็น
+<span class="LineNumber"> 005 </span>              อย่างนั้น.</B>
+<span class="LineNumber"> 006 </span>                        [๑๘๕๕]     <B>บุรุษพึงหวังไว้ทีเดียว    บัณฑิตไม่พึง
+<span class="LineNumber"> 007 </span>              เบื่อหน่าย   เราเห็นตนอยู่ว่า   ได้รับความช่วยเหลือให้
+<span class="LineNumber"> 008 </span>              ขึ้นจากน้ำสู่บกได้.</B>
+<span class="LineNumber"> 009 </span>                        [๑๘๕๖]     <B>บุรุษพึงพยายามไว้ทีเดียว   บัณฑิตไม่
+<span class="LineNumber"> 010 </span>              พึงเบื่อหน่าย    เราเห็นตนอยู่ว่า    ปรารถนาอย่างใด
+<span class="LineNumber"> 011 </span>              ได้เป็นอย่างนั้น.</B>
+<span class="LineNumber"> 012 </span>                        [๑๘๕๗]     <B>บุรุษพึงพยายามร่ำไป     บัณฑิตไม่พึง
+<span class="LineNumber"> 013 </span>              เบื่อหน่าย   เราเห็นตนอยู่ว่า  ได้รับความช่วยเหลือให้
+<span class="LineNumber"> 014 </span>              ขึ้นจากน้ำสู่บกได้.</B>
+<span class="LineNumber"> 015 </span>                        [๑๘๕๘]     <B>นรชนผู้มีปัญญา  แม้ตกอยู่ในกองทุกข์
+<span class="LineNumber"> 016 </span>              ก็ไม่ควรตัดความหวังในอันจะมาสู่ความสุข   เพราะว่า
+<span class="LineNumber"> 017 </span>              ผัสสะอันไม่เกื้อกูลและเกื้อกูลมีมาก  คนที่ไม่ใฝ่ฝันถึง
+<span class="LineNumber"> 018 </span>              เลยก็ต้องเข้าถึงความตาย.</B>
+<span class="LineNumber"> 019 </span>                        [๑๘๕๙]     <B>สิ่งที่ไม่ได้คิดไว้ย่อมมีได้บ้าง  สิ่งที่คิด
+<span class="LineNumber"> 020 </span>              ไว้ย่อมพินาศไปบ้าง  โภคะทั้งหลายของสตรีหรือบุรุษ
+<span class="LineNumber"> 021 </span>              จะสำเร็จได้ด้วยความคิดนึกไม่มีเสีย.</B>

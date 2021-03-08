@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  30  หน้า  226
+
+<span class="LineNumber"> 002 </span>		ขนฺธปริตฺตชาตกํ  
+<span class="LineNumber"> 003 </span>	วิรูปกฺเขหิ  เม  เมตฺตนฺติ  อิทํ  สตฺถา  เชตวเน วิหรนฺโต 
+<span class="LineNumber"> 004 </span>อฺตรํ  ภิกฺขุํ อารพฺภ กเถสิ ฯ  
+<span class="LineNumber"> 005 </span>	ตํ  กิร  ชนฺตาฆรทฺวาเร  กฏฺ€านิ ผาเลนฺตํ ปูติรุกฺขนฺตรา 
+<span class="LineNumber"> 006 </span>นิกฺขมิตฺวา  เอโก  สปฺโป  ปาทงฺคุลิยํ  ฑํสิ ฯ  โส  ตตฺเถว  
+<span class="LineNumber"> 007 </span>มโต ฯ  ตสฺส  ตถามตภาโว  สกลวิหาเร  ปากโฏ  อโหสิ ฯ 
+<span class="LineNumber"> 008 </span>ธมฺมสภายํ  ภิกฺขู  กถํ  สมุฏฺ€าเปสุํ  อาวุโส  อสุโก กิร ภิกฺขุ
+<span class="LineNumber"> 009 </span>ชนฺตาฆรทฺวาเร กฏฺ€านิ ผาเลนฺโต  สปฺเปน  ทฏฺโ€  ตตฺเถว
+<span class="LineNumber"> 010 </span>มโตติ ฯ  สตฺถา  อาคนฺตฺวา  กายนุตฺถ  ภิกฺขเว  เอตรหิ  
+<span class="LineNumber"> 011 </span>กถาย  สนฺนิสินฺนาติ  ปุจฺฉิตฺวา  อิมาย  นามาติ  วุตฺเต  สเจ 
+<span class="LineNumber"> 012 </span>โส  ภิกฺขเว  ภิกฺขุ  จตฺตาริ  อหิราชกุลานิ อารพฺภ เมตฺตํ  
+<span class="LineNumber"> 013 </span>อภาวยิสฺส  น  นํ  สปฺโป  ฑํเสยฺย  โปราณกปณฺฑิตา  ตาปสาปิ  
+<span class="LineNumber"> 014 </span>อนุปฺปนฺเน  พุทฺเธปิ  จตูสุ  อหิราชกุเลสุ  เมตฺตํ  ภาเวตฺวา  ตานิ  
+<span class="LineNumber"> 015 </span>อหิราชกุลานิ นิสฺสาย อุปฺปชฺชนกภยโต มุจฺจึสูติ วตฺวา อตีตํ 
+<span class="LineNumber"> 016 </span>อาหริ ฯ  
+<span class="LineNumber"> 017 </span>	อตีเต  พาราณสิยํ  พฺรหฺมทตฺเต  รชฺชํ  กาเรนฺเต  โพธิสตฺโต  
+<span class="LineNumber"> 018 </span>กาสิกรฏฺเ€  พฺราหฺมณกุเล  นิพฺพตฺติตฺวา  วยปฺปตฺโต  กาเม  ปหาย  
+<span class="LineNumber"> 019 </span>อิสิปพฺพชฺชํ  ปพฺพชิตฺวา  อภิฺา  จ  สมาปตฺติโย  จ  นิพตฺเตตฺวา  
+<span class="LineNumber"> 020 </span>หิมวนฺตปฺปเทเส  เอกสฺมึ  คงฺคานิวตฺตเน  อสฺสมปทํ  มาเปตฺวา  
+<span class="LineNumber"> 021 </span>ฌานกีลํ  กีฬนฺโต  คณสตฺถา  หุตฺวา (๑) อิสิคณปริวุโต  วิหาสิ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. คณสตฺถา หุตฺวาติ นตฺถิ ฯ

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  500
+
+<span class="LineNumber"> 002 </span>		เจลาวกา ปิงฺคุลาโย	โกธกา องฺคเหตุกา  
+<span class="LineNumber"> 003 </span>		กรวิกา จ สคฺคา จ		อุหุงฺการา จ กุกฺกุหา  
+<span class="LineNumber"> 004 </span>		นานาชิคณากิณฺณํ		นานาสรนิกูชิตนฺติ ฯ  
+<span class="LineNumber"> 005 </span>	ตตฺถ  ปุริสาลูติ  วลวามุขยกฺขินิโย ฯ  โรหิตา 
+<span class="LineNumber"> 006 </span>สรภา  มิคาติ  โรหิตา  เจว  สรภา  มิคา  จ ฯ  โกฏฺ€สุณาติ 
+<span class="LineNumber"> 007 </span>สิงฺคาลสุนขา ฯ  โกฏฺ€โสณาติปิ  ปาโ€ ฯ  สุณาปิ  จาติ  เอกา
+<span class="LineNumber"> 008 </span>เจลกา ขุทฺทกมิคชาติ ฯ  ตุลิยาติ  ปกฺขิวิฬารา ฯ  นฬสนฺนิภาติ  
+<span class="LineNumber"> 009 </span>นฬปุปฺผวณฺณา  รุกฺขสุนขา ฯ  จามรี  จลนี  ลงฺฆีติ  จามรีมิคา 
+<span class="LineNumber"> 010 </span>จ  จลนีมิคา  จ  วาตมิคา(๑)  จ ฯ  ฌาปิตา  มกฺกฏาติ  เทฺวปิ  
+<span class="LineNumber"> 011 </span>มหามกฺกฏชาติโยว ฯ  ปิจูติ  สรปริยนฺเต  โคจรคาหี  เอกา  
+<span class="LineNumber"> 012 </span>มกฺกฏี (๒)ฯ  กกฺกฏา กตมายา จาติ เทฺว  มหามิคา ฯ  อิกฺกาติ  
+<span class="LineNumber"> 013 </span>นาเมตฺถ  พหุตโส (๓)ฯ  โสณา สิงฺคาลาติ โกกสุนขา  
+<span class="LineNumber"> 014 </span>จ  สิงฺคาลา  จ ฯ  จปฺปกาติ  อสฺสมปทํ ปริกฺขิปิตฺวา  €ิตา
+<span class="LineNumber"> 015 </span>มหาเวฬุจปฺปกา (๔) ฯ อากุจฺจาติ โคธา ฯ ปจลากาติ คชกุมฺภมิคา ฯ  
+<span class="LineNumber"> 016 </span>จิตฺรกา  จาปิ  ทีปิโยติ  วิจิตฺรมิคา(๕)  จ  ทีปิมิคา  จ ฯ 
+<span class="LineNumber"> 017 </span>	เปลกา  จาติ  สสา ฯ  วิฆาสาทาติ  เอเต คิชฺฌา สกุณา ฯ 
+<span class="LineNumber"> 018 </span>สีหาติ เกสรสีหา ฯ  โกกนิสาตกาติ  โกเก(๖)  คเหตฺวา  ขาทนสีลา 
+<span class="LineNumber"> 019 </span>ทุฏฺ€มิคา ฯ  อฏฺ€ปาทาติ  สรภา  มิคา ฯ  ภสฺสราติ  เสตหํสา
+<span class="LineNumber"> 020 </span># ๑. ม. ลงฺฆีมิคา ฯ  ๒. ม. เอโก มกฺกโฏ ฯ ๓. ม. พหูตโส ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. มหาเวฬุปมฺปกา ฯ ๕. ม. จิตฺรกมิคา ฯ  ๖. ม. โคคณิสาทกาติ
+<span class="LineNumber"> 022 </span># โคคเณ ฯ 

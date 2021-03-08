@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>            บุคคลประกอบด้วยธรรม  ๔  ประการ   เป็นบัณฑิต  ฯลฯ   และได้   
+<span class="LineNumber"> 002 </span>บุญมาก  ธรรม ๔ ประการเป็นไฉน คือ  <B>บุคคลเป็นผู้มีศรัทธา   ๑   มีศีล   ๑
+<span class="LineNumber"> 003 </span>มีความเพียร   ๑   มีปัญญา   ๑</B>   บุคคลประกอบด้วยธรรม  ๔  ประการนี้แล
+<span class="LineNumber"> 004 </span>เป็นบัณฑิต  ฯลฯ  และได้บุญมาก.
+<span class="LineNumber"> 005 </span>                                            <I>จบทุปัญญสูตรที่  ๑๐</I>
+<span class="LineNumber"> 006 </span>                                           <h1>๑๑. กวีสูตร</h1>
+<span class="LineNumber"> 007 </span>                                    <h2>ว่าด้วยกวี  ๔  จำพวก</h2>
+<span class="LineNumber"> 008 </span>            [๒๓๑]    ดูก่อนภิกษุทั้งหลาย  กวี  ๔  จำพวกเหล่านี้  กวี  ๔ เป็นไฉน
+<span class="LineNumber"> 009 </span>คือ
+<span class="LineNumber"> 010 </span>    	<B>จินฺตากวิ</B>                     	ผู้แต่งโดยความคิด
+<span class="LineNumber"> 011 </span>   	<B>สุตกวิ</B>                    	ผู้แต่งโดยได้ฟังมา
+<span class="LineNumber"> 012 </span>   	<B>อตฺถกวิ</B>		ผู้แต่งตามเนื้อความ
+<span class="LineNumber"> 013 </span>    	<B>ปฏิภาณกวิ</B>		ผู้แต่งโดยปฏิภาณ
+<span class="LineNumber"> 014 </span>                                             <I>จบกวีสูตรที่  ๑๑
+<span class="LineNumber"> 015 </span>                                   จบทุจริตวรรคที่ ๓</I>

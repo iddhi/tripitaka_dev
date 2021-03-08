@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>๒.    อุปัฏฐานสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>                          <H1>เทวดาเตือนภิกษุผู้นอนหลับกลางวัน</H1> 
+
+<span class="LineNumber"> 003 </span>           [๗๖๓]  สมัยหนึ่ง    ภิกษุรูปหนึ่ง    พำนักอยู่ในแนวป่าแห่งหนึ่งใน
+<span class="LineNumber"> 004 </span>แคว้นโกศล  สมัยนั้นแล  ภิกษุรูปนั้น  ไปนอนหลับในที่พักกลางวัน.
+<span class="LineNumber"> 005 </span>           [๗๖๔]  ครั้งนั้น เทวดาที่สิงอยู่ในป่านั้น  มีความเอ็นดูใคร่ประโยชน์
+<span class="LineNumber"> 006 </span>แก่ภิกษุรูปนั้น    หวังจะให้เธอสลดใจจึงเข้าไปหาแล้วได้กล่าวกะเธอด้วยคาถาว่า
+<span class="LineNumber"> 007 </span>                             <B>ท่านจงลุกขึ้นเถิด  ภิกษุ  ท่านจะต้อง
+<span class="LineNumber"> 008 </span>                   การอะไรด้วยความหลับ     ท่านผู้เร่าร้อน
+<span class="LineNumber"> 009 </span>                   ด้วยกิเลส     อันลูกศรคือตัณหาเสียบแทง
+<span class="LineNumber"> 010 </span>                   ดิ้นรนอยู่   จะมัวหลับมีประโยชน์อะไร
+<span class="LineNumber"> 011 </span>                   ท่านออกจากเรือนบวชด้วยความเป็นผู้ไม่มี 
+<span class="LineNumber"> 012 </span>                   เรือนด้วยศรัทธาใด  ท่านจงเพิ่มพูนศรัทธา
+<span class="LineNumber"> 013 </span>                   นั้นเถิด อย่าไปสู่อำนาจของความหลับเลย.</B>
+<span class="LineNumber"> 014 </span>           [๗๖๕]  ภิกษุกล่าวตอบว่า
+<span class="LineNumber"> 015 </span>                             <B>คนเขลาหมกมุ่นอยู่ในกามารมณ์ 
+<span class="LineNumber"> 016 </span>                   เหล่าใด    กามารมณ์เหล่านั้น      ไม่เที่ยง
+<span class="LineNumber"> 017 </span>                   ไม่ยั่งยืน    ความหลับจะแผดเผาบรรพชิต
+<span class="LineNumber"> 018 </span>                   ผู้พ้นแล้ว   ผู้ไม่เกี่ยวข้องในกามารมณ์ซึ่ง
+<span class="LineNumber"> 019 </span>                   ยังสัตว์ให้ติดอยู่ได้อย่างไร    เพราะกำจัด
+<span class="LineNumber"> 020 </span>                   ฉันทราคะเสียได้       และเพราะก้าวล่วง
+<span class="LineNumber"> 021 </span>                   อวิชชาเสียได้  ญาณนั้นเป็นของบริสุทธิ์
+<span class="LineNumber"> 022 </span>                   อย่างยิ่ง  ไฉนความหลับจะแผดเผาบรรพ-</B>

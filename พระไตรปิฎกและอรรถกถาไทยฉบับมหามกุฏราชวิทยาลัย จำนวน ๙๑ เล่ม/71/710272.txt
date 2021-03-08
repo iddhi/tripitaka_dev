@@ -1,0 +1,8 @@
+﻿<span class="LineNumber"> 001 </span>                     <H1>รวมอปทานที่มีในวรรคนี้  คือ</H1>
+<span class="LineNumber"> 002 </span>         ๑.  สกจิตตนิยเถราปทาน        ๒.  อาโปปุปผิยเถราปทาน
+<span class="LineNumber"> 003 </span>๓.  ปัจจาคมนิยเถราปทาน               ๔.  ปรัปปสาทกเถราปทาน
+<span class="LineNumber"> 004 </span>๕.  ภิสทายกเถราปทาน                    ๖.   สุจินติตเถราปทาน
+<span class="LineNumber"> 005 </span>๗.  วัตถทายกเถราปทาน                  ๘.   อัมพทายกเถราปทาน
+<span class="LineNumber"> 006 </span>๙.  สุมนเถราปทาน                        ๑๐.   ปุปผจังโกฏิยเถราปทาน
+<span class="LineNumber"> 007 </span>         คาถาอันแสดงอรรถที่ท่านกล่าวแล้วนับได้ ๗๑ คาถา   ฉะนี้แล. 
+<span class="LineNumber"> 008 </span>                               <I>จบสกจิตตนิยวรรคที่  ๗</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  140
+
+<span class="LineNumber"> 002 </span>จ  ปุตฺตกามา  นาม  โหนฺติ ฯ  น  อุปวทนฺตีติ  น  อุปกฺโกสนฺติ 
+<span class="LineNumber"> 003 </span>น  วทนฺติ ฯ  อตฺรชนฺติ  อตฺตนา(๑)  ชาตํ ฯ  เอวํ  วุตฺเตปิ  โกจิ  
+<span class="LineNumber"> 004 </span>รฺา  สทฺธึ  กเถตุํ  สมตฺโถ  นาม  นาโหสิ ฯ  น  โกจิ  อสฺส
+<span class="LineNumber"> 005 </span>ปฏิฆํ มยาติ  อิมินา  โน  ลฺโจ  วา  คหิโต  อิสฺสริยมเทน  วา 
+<span class="LineNumber"> 006 </span>อิทนฺนาม  ทุกฺขํ  กตนฺติ  โกจิ  เอโกปิ  มยา  สทฺธึ  ปฏิฆํ  กโรนฺโต(๒)
+<span class="LineNumber"> 007 </span>นาม  นาโหสิ ฯ  ชนปโท  น  ปเวเทตีติ  เอวํ  รฺโ  จ  ชนปทสฺส 
+<span class="LineNumber"> 008 </span>จ  อตฺถกาโมมฺหิ(๓)  กึ  มม  ปิตรํ  อยํ  ชนปโท  คุณสมฺปนฺโน  เต
+<span class="LineNumber"> 009 </span>ปุตฺโตติ  น  ปเวเทติ  น ชานาเปตีติ อตฺโถ ฯ  
+<span class="LineNumber"> 010 </span>	เอวํ  วุตฺเตปิ  น  โกจิ  กิฺจิ  กเถสิ ฯ  ตโต กุมาโร อตฺตโน  
+<span class="LineNumber"> 011 </span>ภริยานํ(๔) สตฺตสตํ ยาจนตฺถาย อุยฺโยเชนฺโต อาห  
+<span class="LineNumber"> 012 </span>[๘๐๓]คจฺฉถ โว ฆรณิโย		ตาตฺจ วเทถ กณฺฑหาลฺจ(๕)  
+<span class="LineNumber"> 013 </span>	มา ฆาเตถ กุมาเร		อทูสเก สีหสํกาเส  
+<span class="LineNumber"> 014 </span>	คจฺฉถ โว ฆรณิโย		ตาตฺจ วเทถ กณฺฑหาลฺจ (๕) 
+<span class="LineNumber"> 015 </span>	มา ฆาเตถ กุมาเร		อเปกฺขิโต สพฺพโลกสฺสาติ ฯ  
+<span class="LineNumber"> 016 </span>	ตา  คนฺตฺวา  ยาจึสุ ฯ[๖]  ราชา  น  โอโลเกสิ ฯ  ตโต 
+<span class="LineNumber"> 017 </span>กุมาโร  อนาโถ หุตฺวา วิลปนฺโต คาถมาห  
+<span class="LineNumber"> 018 </span>	[๘๐๔]ยนฺนุนาหํ(๗) ชาเยยฺยํ  
+<span class="LineNumber"> 019 </span>		รถการกุเลสุ วา ปุกฺกุสกุเลสุ วา  
+<span class="LineNumber"> 020 </span># ๑. ม. อตฺตโต ฯ  ๒. ม. กตฺตา ฯ  ๓. ม. อตฺกามสฺส ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ภริยาโย ตํ ฯ  ๕. ม. ขณฺฑหาลฺจ ฯ  
+<span class="LineNumber"> 022 </span># ๖. ม. เอตฺถนฺตเร ตาปีติ ทิสฺสติ ฯ  ๗. ม. ยํ นูนาหํ ฯ

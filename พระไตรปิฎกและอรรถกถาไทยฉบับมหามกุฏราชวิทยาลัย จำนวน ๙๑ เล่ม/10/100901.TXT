@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		                   <H2>วินิจฉัยเป็นต้น</H2>  
+<span class="LineNumber"> 002 </span>                             [๑,๒๖๕]  <B>ถามว่า   วินิจฉัยมีแก่บุคคล
+<span class="LineNumber"> 003 </span>                   กี่พวก  การระงับ    มีแก่บุคคลกี่พวก  บุคคล
+<span class="LineNumber"> 004 </span>                   กี่พวกไม่ต้องอาบัติ    และภิกษุย่อมงามด้วย
+<span class="LineNumber"> 005 </span>                   ฐานะเท่าไร
+<span class="LineNumber"> 006 </span>                             ตอบว่า    วินิจฉัยมีแก่สหธรรมิก   ๕  
+<span class="LineNumber"> 007 </span>                   พวก     การระงับมีแก่สหธรรมิก   ๕  พวก
+<span class="LineNumber"> 008 </span>                   สหธรรมิก  ๕  พวก  ไม่ต้องอาบัติ และภิกษุ 
+<span class="LineNumber"> 009 </span>                   ย่อมงามด้วยเหตุ  ๓ สถาน.</B>
+
+<span class="LineNumber"> 010 </span>                      <H2>อาบัติทางกายในราตรีเป็นต้น</H2>
+<span class="LineNumber"> 011 </span>                             [๑,๒๖๖]  <B>ถามว่า   อาบัติทางกายใน
+<span class="LineNumber"> 012 </span>                   ราตรีมีเท่าไร     ทางกายในกลางวันมีเท่าไร
+<span class="LineNumber"> 013 </span>                   ภิกษุเพ่งดูต้องอาบัติเท่าไร  เพราะบิณฑบาต
+<span class="LineNumber"> 014 </span>                   เป็นปัจจัยเป็นอาบัติเท่าไร
+<span class="LineNumber"> 015 </span>                             ตอบว่า   อาบัติทางกายในราตรีมี  ๒
+<span class="LineNumber"> 016 </span>                   ทางกายในกลางวันมี  ๒  ภิกษุเพ่งดูต้องอาบัติ
+<span class="LineNumber"> 017 </span>                   ตัวเดียว    เพราะบิณฑบาตเป็นปัจจัย    เป็น
+<span class="LineNumber"> 018 </span>                   อาบัติตัวเดียว.</B>
+
+<span class="LineNumber"> 019 </span>                          <H2>ภิกษุที่สงฆ์ยกวัตรเป็นต้น</H2>
+<span class="LineNumber"> 020 </span>                             [๑,๒๖๗]  <B>ถามว่า  ภิกษุเห็นอานิสงส์
+<span class="LineNumber"> 021 </span>                   เท่าไร   จึงแสดง  เพราะเชื่อผู้อื่น  ภิกษุถูก</B>

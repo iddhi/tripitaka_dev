@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>				      <H1>สรณทุกอตีตติกะ</H1>
+<span class="LineNumber"> 002 </span>		     <H2>(๑๐๐. สรณทุกะ ๑๘.  อตีตติกะ)</H2>
+<span class="LineNumber"> 003 </span>			       <H1>ปัจจุปปันนบทปัญหาวาระ</H1>
+<span class="LineNumber"> 004 </span>			  	      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๑๘๘๗]  ๑.  ปัจจุปปันนธรรมที่เป็นสรณธรรม  เป็นปัจจัยแก่ 
+<span class="LineNumber"> 007 </span>ปัจจุปปันนธรรมที่เป็นสรณธรรม  ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 008 </span>(วาระที่  ๑-๒-๓)
+<span class="LineNumber"> 009 </span>                  	       ๔.   ปัจจุปปันนธรรมที่เป็นอรณธรรม   เป็นปัจจัยแก่
+<span class="LineNumber"> 010 </span>ปัจจุปปันนธรรมที่เป็นอรณธรรม  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 011 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>		[๑๘๘๘]  ในเหตุปัจจัย  มี  ๔  วาระ  ในอารัมมณปัจจัย  มี  ๒ วาระ
+<span class="LineNumber"> 013 </span>ฯลฯ  ในอวิคตปัจจัย มี ๗ วาระ.
+<span class="LineNumber"> 014 </span>         	ปัญหาวาระ  ในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 015 </span>			          <I>สรณทุกอตีตติกะ  จบ</I>

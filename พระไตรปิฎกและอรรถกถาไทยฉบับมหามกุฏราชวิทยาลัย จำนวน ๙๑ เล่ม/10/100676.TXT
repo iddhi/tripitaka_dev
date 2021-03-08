@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>เปรียบเทียบอธิกรณ์</H1>   
+<span class="LineNumber"> 002 </span>                             [๑,๐๗๔]  <B>เรื่องที่เห็นสมด้วยเรื่องที่
+<span class="LineNumber"> 003 </span>                   เห็น    เรื่องที่เห็นเทียบกันได้กับเรื่องที่เห็น 
+<span class="LineNumber"> 004 </span>                   แต่บุคคลนั้นไม่ยอมรับ เพราะอาศัยการเห็น
+<span class="LineNumber"> 005 </span>                   บุคคลนั้น  ถูกรังเกียจโดยไม่มีมูล  พึงปรับ
+<span class="LineNumber"> 006 </span>                   อาบัติตามปฏิญญา  พึงทำอุโบสถกับบุคคล
+<span class="LineNumber"> 007 </span>                   นั้น    เรื่องที่ได้ยินได้ฟังสมด้วยเรื่องที่ได้ยิน
+<span class="LineNumber"> 008 </span>                   ได้ฟัง    เรื่องที่ได้ยินได้ฟังเทียบกันได้กับ
+<span class="LineNumber"> 009 </span>                   เรื่องที่ได้ยินได้ฟัง   แต่บุคคลนั้นไม่ยอมรับ
+<span class="LineNumber"> 010 </span>                   เพราะอาศัยการได้ยินได้ฟัง    บุคคลนั้นถูก
+<span class="LineNumber"> 011 </span>                   รังเกียจโดยไม่มีมูล  พึงปรับอาบัติตามปฏิญ-
+<span class="LineNumber"> 012 </span>                   ญา  พึงทำอุโบสถกับบุคคลนั้น  เรื่องที่ได้
+<span class="LineNumber"> 013 </span>                   ทราบสมด้วยเรื่องที่ได้ทราบ เรื่องที่ได้ทราบ       
+<span class="LineNumber"> 014 </span>                   เทียบกันได้กับเรื่องที่ได้ทราบ  แต่บุคคลนั้น 
+<span class="LineNumber"> 015 </span>                   ไม่ยอมรับเพราะอาศัยการได้ทราบ    บุคคล 
+<span class="LineNumber"> 016 </span>                   นั้นถูกรังเกียจโดยไม่มีมูล  พึงปรับอาบัติ
+<span class="LineNumber"> 017 </span>                   ตามปฏิญญา  พึงทำอุโบสถกับบุคคลนั้นเกิด.</B>
+
+<span class="LineNumber"> 018 </span>                         <H1>ว่าด้วยเบื้องต้นของการโจทเป็นต้น</H1>
+<span class="LineNumber"> 019 </span>           [๑,๐๗๙]  ถามว่า  การโจท   มีอะไรเป็นเบื้องต้น  มีอะไรเป็นท่าม-
+<span class="LineNumber"> 020 </span>กลาง  มีอะไรเป็นที่สุด                                                             

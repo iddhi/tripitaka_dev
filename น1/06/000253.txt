@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>    
+<span class="LineNumber"> 002 </span><B>๓๒  ไถยจิต</B>				จิตคิดจะลัก,   จิตคิดถือเอาของที่เจ้าของ
+<span class="LineNumber"> 003 </span>						ไม่อนุญาตให้   ด้วยการแห่งโจร.
+<span class="LineNumber"> 004 </span>			<B>ท.</B>
+<span class="LineNumber"> 005 </span><B>๑๔๕  ทายก</B>				ผู้ให้  (เป็นคำกลาง   หมายถึงบุคคล
+<span class="LineNumber"> 006 </span>						หรือชนผู้ให้ทั่วไปก็ได้,  ถ้าแยกเพศ  ทายก
+<span class="LineNumber"> 007 </span>						คือชายผู้ให้    ทายิกาคือหญิงผู้ให้).
+<span class="LineNumber"> 008 </span><B>๓๗  ทำนิมิต</B>				ทำเครื่องหมายด้วยกายวิการ.
+<span class="LineNumber"> 009 </span><B>๑๙๙  ทำพูม</B>  (พจนานุ-		ทำท่าสง่าผ่าเผย,  ทำท่าโอ่โถง,  ทำท่า
+<span class="LineNumber"> 010 </span>	  กรมเขียนเป็น<B>ภูมิ</B>)		องอาจ,  ทำท่าให้สวยงาม.
+<span class="LineNumber"> 011 </span><B>๑๒  ทุกกฏ</B>				ทำชั่ว,  ทำผิดเล็ก ๆ  น้อย ๆ   ทางพระวินัย.
+<span class="LineNumber"> 012 </span><B>๗๗  ทุฏ€ลลาบัติ</B>			อาบัติชั่วหยาบโดยโทษ,  มีโทษมากง
+<span class="LineNumber"> 013 </span><B>๑๒  ทุพภาษิต</B>				พูดไม่ดี,   ในพระวินัยหมายเอาพูดล้อเล่น
+<span class="LineNumber"> 014 </span>						กระทบชาติกำเนิดเป็นต้น  ซึ่งเป็นคำหม่น
+<span class="LineNumber"> 015 </span>						หมองนักปราชญ์ติเตียน.
+<span class="LineNumber"> 016 </span><B>๙๖  ทูต</B>					ผู้รับใช้ไปเจรจาแทน.
+<span class="LineNumber"> 017 </span><B>๑๑๙  เทสนาคามินี</B>			อาบัติที่ภิกษุต้องเข้าแล้ว  จะพ้นได้ด้วยการ
+<span class="LineNumber"> 018 </span>						แสดงโดยไม่ต้องอยู่กรรม.
+<span class="LineNumber"> 019 </span><B>๕๙  เที่ยวสื่อ</B>				ชักนำให้เขาได้กัน,  ชักนำให้รู้จักกัน,  ทำ
+<span class="LineNumber"> 020 </span>						การติดต่อให้ถึงกัน.
+
+

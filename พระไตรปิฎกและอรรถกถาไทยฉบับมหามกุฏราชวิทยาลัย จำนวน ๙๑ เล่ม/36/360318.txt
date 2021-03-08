@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>	<H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>  
+<span class="LineNumber"> 002 </span>          ๑.  ทัตวาอวชานาติสูตร        ๒.  อารภสูตร        ๓.  สารันททสูตร
+<span class="LineNumber"> 003 </span>๔.  ติกัณฑกีสูตร    ๕.  นิรยสูตร    ๖.  มิตตสูตร    ๗.  อสัปปุริสทานสูตร
+<span class="LineNumber"> 004 </span>๘.  สัปปุริสทานสูตร    ๙.  ปฐมสมยวิมุตตสูตร    ๑๐.  ทุติยสมยวิมุตตสูตร
+<span class="LineNumber"> 005 </span>และอรรถกถา.
+<span class="LineNumber"> 006 </span>	                   <I>จบตติยปัณณาสก์</I>

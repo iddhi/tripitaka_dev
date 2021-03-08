@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                       		 <H1>อกุศลบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 002 </span>                         		  <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 003 </span>                             	   <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๑๔๗๕]  ๑.  อกุศลธรรมที่เป็นจิตสมุฏฐานธรรม  อาศัย
+<span class="LineNumber"> 005 </span>อกุศลธรรมที่เป็นจิตตสมุฏฐานธรรม    เกิดขึ้น    เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>มี ๓ วาระ.
+<span class="LineNumber"> 007 </span>                          ๔.  อกุศลธรรมที่เป็นจิตตสมุฏฐานธรรม     อาศัย
+<span class="LineNumber"> 008 </span>อกุศลธรรมที่ไม่ใช่จิตตสมุฏฐานธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>                          ๕.  อกุศลธรรมที่เป็นจิตตสมุฏฐานธรรม     อาศัย
+<span class="LineNumber"> 010 </span>อกุศลธรรมที่เป็นจิตตสมุฏฐานธรรม   และอกุศลธรรมที่ไม่ใช่จิตต-
+<span class="LineNumber"> 011 </span>สมุฏฐานธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๑๔๗๖]  ในเหตุปัจจัย มี ๕ วาระ    ในอารัมมณปัจจัย มี ๕ วาระ
+<span class="LineNumber"> 014 </span>ฯลฯ  ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 015 </span>           เหมือนกับกุศลบท
+<span class="LineNumber"> 016 </span>           สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี   พึงให้พิสดาร.

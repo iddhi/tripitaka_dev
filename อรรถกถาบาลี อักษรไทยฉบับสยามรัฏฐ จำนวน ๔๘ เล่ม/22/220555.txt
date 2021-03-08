@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 22    หน้า 555
+			
+<span class="LineNumber"> 002 </span>	  		อตฺตทณฺฑสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	อตฺตทณฺฑา  ภยํ  ชาตนฺติ  อตฺตทณฺฑสุตฺตํ ฯ  กา  อุปฺปตฺติฯ  
+<span class="LineNumber"> 004 </span>โย  โส  สมฺมาปริพฺพาชนียสุตฺตสฺส  อุปฺปตฺติยํ  วุจฺจมานาย 
+<span class="LineNumber"> 005 </span>สากิยโกลิยานํ อุทกํ ปฏิจฺจ  กลโห  สํวณฺณิโตฯ  (๑)  ตํ  ตฺวา
+<span class="LineNumber"> 006 </span>ภควา  าตกา  กลหํ  กโรนฺติฯ  หนฺท  เน วาเรสฺสามีติ 
+<span class="LineNumber"> 007 </span>ทฺวินฺนํ เสนานํ มชฺเฌ €ตฺวา อิมํ สุตฺตมภาสิ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  ป€มคาถายตฺโถ  ยํ  โลกสฺส  ทิฏฺ€ธมฺมิกํ  วา 
+<span class="LineNumber"> 009 </span>สมฺปรายิกํ  วา  ภยํ  ชาตํฯ  ตํ  สพฺพํ  อตฺตทณฺฑา  ภยํ  
+<span class="LineNumber"> 010 </span>ชาตํ  อตฺตโน  ทุจฺจริตการณา  ชาตํฯ เอวํ  สนฺเตปิ  ชนํ  
+<span class="LineNumber"> 011 </span>ปสฺสถ  เมธคํฯ  อิมํ  สากิยาทิชนํ  ปสฺสถ  อฺมฺํ เมธคํ(๒)
+<span class="LineNumber"> 012 </span>หึสกํ  พาธกนฺติ ฯ 
+<span class="LineNumber"> 013 </span>	เอวนฺตํ  ปฏิวิรุทฺธํ  วิปฺปฏิปนฺนํ  ชนํ  ปริภาสิตฺวา อตฺตโน
+<span class="LineNumber"> 014 </span>สมฺมาปฏิปตฺติทสฺสเนน  ตสฺส  สํเวคํ  ชเนตุํ  อาห  สํเวคํ 
+<span class="LineNumber"> 015 </span>กิตฺตยิสฺสามิฯ ยถา สํวิชิตํ มยาติฯ ปุพฺเพ โพธิสตฺเตเนว สตาติ 
+<span class="LineNumber"> 016 </span>อธิปฺปาโย ฯ  
+<span class="LineNumber"> 017 </span>	อิทานิ  ยถาเนน  สํวิชิตํฯ  ปการํ  ทสฺเสนฺโต  
+<span class="LineNumber"> 018 </span>ผนฺทมานนฺติอาทิมาห ฯ 
+<span class="LineNumber"> 019 </span>	ตตฺถ  ผนฺทมานนฺติ  ตณฺหาทีหิ  (๓)  กมฺปมานํ ฯ  อปฺโปทเกติ  
+<span class="LineNumber"> 020 </span>อปฺปอุทเก ฯ อฺมฺเหิ  พฺยารุทฺเธ  ทิสฺวาติ  นานามจฺเจว  (๔)
+<span class="LineNumber"> 021 </span># ๑. ม. ยุ. วณฺณิโต ฯ  ๒. สี. ยุ. เมธกํ ฯ  ๓. ม. ตณฺหาทีหิ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. ยุ. นานาสตฺเต จ ฯ 

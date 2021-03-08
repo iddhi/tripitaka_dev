@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๖   หน้า  ๓๙๔
+
+<span class="LineNumber"> 002 </span>				กุสลกมฺมปถทสกวณฺณนา 
+<span class="LineNumber"> 003 </span>	ปาณาติปาตา         เวรมณีอาทีนิ        สมาทานสมฺปตฺตสมุจฺเฉท-
+<span class="LineNumber"> 004 </span>วิรติวเสน     เวทิตพฺพานิ ฯ      
+<span class="LineNumber"> 005 </span>	ธมฺมโต     ปน    เอเตสุปิ    ปฏิปาฏิยา    สตฺต    เจตนาปิ    วตฺตนฺติ     
+<span class="LineNumber"> 006 </span>วิรติโยปิ ฯอนฺเต ตโย เจตนาสมฺปยุตฺตาว ฯ    
+<span class="LineNumber"> 007 </span>	โกฏฺ€าสโตติ    ปฏิปาฏิยา   สตฺต   กมฺมปถาเอว ฯ   โน   มูลานิ ฯ  
+<span class="LineNumber"> 008 </span>อนฺเต  ตโย   กมฺมปถา   เจว   มูลานิ  จ ฯ อนภิชฺฌา  หิ  มูลํ  
+<span class="LineNumber"> 009 </span>ปตฺวา  อโลโภ  กุสลมูลํ   โหติ ฯอพฺยาปาโท อโทโส กุสลมูลํ ฯ
+<span class="LineNumber"> 010 </span>สมฺมาทิฏฺ€ิ อโมโห กุสลมูลํ ฯ 
+<span class="LineNumber"> 011 </span>	อารมฺมณโตติ    ปาณาติปาตาทีนํ    อารมฺมณาเนว    กเมน   (๑) 
+<span class="LineNumber"> 012 </span>เอเตสํ  อารมฺมณานิปิ ฯ  วีติกฺกมิตพฺพโตเยว   หิ   สา   เวรมณี   
+<span class="LineNumber"> 013 </span>นาม  โหติ ฯ ยถา  ปน   นิพฺพานารมฺมโณ   อริยมคฺโค  กิเลเส  
+<span class="LineNumber"> 014 </span>ปชหติ ฯ  เอวํ  ชีวิตินฺทฺริยาทิอารมฺมณาเปเต   กมฺมปถา ปาณาติ-
+<span class="LineNumber"> 015 </span>ปาตาทีนิ ทุสฺสีลฺยานิ ปชหนฺตีติ เวทิตพฺพา
+<span class="LineNumber"> 016 </span>	เวทนาโตติ    สพฺเพ    สุขเวทนา    วา   โหนฺติ   มชฺฌตฺตเวทนา   
+<span class="LineNumber"> 017 </span>วา ฯ  กุสลํ ปตฺวา หิ ทุกฺขเวทนา นาม นตฺถิ ฯ
+<span class="LineNumber"> 018 </span>	มูลโตติ (๒)   ปฏิปาฏิยา   สตฺต   าณสมฺปยุตฺตจิตฺเตน   วิรมนฺตสฺส  
+<span class="LineNumber"> 019 </span>อโลภอโทสอโมหวเสน    ติมูลา   (๓) โหนฺติ ฯ   าณวิปฺปยุตฺตจิตฺเตน   
+<span class="LineNumber"> 020 </span>วิรมนฺตสฺส  ทฺวิมูลา ฯ  (๔)อนภิชฺฌา  าณสมฺปยุตฺตจิตฺเตน  วิรมนฺตสฺส  
+<span class="LineNumber"> 021 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ ๒. ม. มูลโตติ ฯ ๓. ม. ติมูลานิ ฯ ๔. ม. ทฺวิมูลานิ ฯ

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                                         <H2>๑. นเหตุปัจจัย</H2>
+<span class="LineNumber"> 003 </span>         [๒๐๐] ๑.  <B>จิตตสหภูธรรม    อาศัยจิตตสหภูธรรม    เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ  ขันธ์ ๑  ที่เป็นจิตตสหภูธรรม ซึ่งเป็นอเหตุกะ ฯลฯ  พึงกระทำ
+<span class="LineNumber"> 006 </span>ทุกอย่าง,   ปัญจวิญญาณแห่งปัจจยวาระ,  มูล   แห่งธรรมทั้ง ๖  ก็พึงกระทำ, 
+<span class="LineNumber"> 007 </span>มหาภูตรูปทั้งหมด   มี ๓ วาระ   เหมือนกัน.
+<span class="LineNumber"> 008 </span>         โมหะ  ฯลฯ
+
+<span class="LineNumber"> 009 </span>                               <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 010 </span>         [๒๐๑]  ในนเหตุปัจจัย  มี ๙ วาระ  ในนอารัมมณปัจจัย มี ๙ วาระ
+<span class="LineNumber"> 011 </span>ในนอธิปติปัจจัย  มี ๙ วาระ  ในนอนันตรปัจจัย  มี ๙ วาระ  ในนสมนันตร-
+<span class="LineNumber"> 012 </span>ปัจจัย   มี ๙ วาระ   ในนอัญญมัญญปัจจัย   มี ๙ วาระ    ในนอุปนิสสยปัจจัย
+<span class="LineNumber"> 013 </span>มี ๙ วาระ  ในนปุเรชาตปัจจัย   มี ๓ วาระ   ในนปัจฉาชาตปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 014 </span>ในนอาเสวนปัจจัย  มี ๙ วาระ   ในนกัมมปัจจัย  มี ๔ วาระ   ในนวิปากปัจจัย
+<span class="LineNumber"> 015 </span>มี ๙ วาระ   ในนอาหารปัจจัย   มี ๑ วาระ    ในนอินทริยปัจจัย   มี ๑ วาระ
+<span class="LineNumber"> 016 </span>ในนฌานปัจจัย มี ๙ วาระ  ในนมัคคปัจจัย  มี ๙ วาระ   ในนสัมปยุตตปัจจัย
+<span class="LineNumber"> 017 </span>มี ๙ วาระ    ในนวิปปยุตตปัจจัย   มี ๖ วาระ    ในโนนัตถิปัจจัย  มี ๙ วาระ
+<span class="LineNumber"> 018 </span>ในโนวิคตปัจจัย  มี ๙ วาระ.

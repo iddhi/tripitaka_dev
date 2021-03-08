@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>ความว่า     อรรถกถาของบาลีที่แปลจับความผิดลำดับสับสน    ย่อมชื่อว่า 
+<span class="LineNumber"> 002 </span>นำมาชั่ว  ทำชั่ว.
+<span class="LineNumber"> 003 </span>                                             จบอรรถกถาที่ ๑๐
+
+<span class="LineNumber"> 004 </span>                                  <H1>อรรถกถา<SUP>๑</SUP>สูตรที่ ๑๑</H1>
+
+<span class="LineNumber"> 005 </span>         ใน<B>สูตรที่ ๑๑</B> พึงทราบเนื้อความโดยนัยตรงกันข้ามกับที่กล่าวแล้ว
+<span class="LineNumber"> 006 </span>                                     จบอรรถกถาสูตรที่  ๑๑
+<span class="LineNumber"> 007 </span>                                       <I>จบอธิกรณวรรคที่  ๒</I>
+
+<span class='footnote'>๑. ในพระบาลีมีเพียง ๑๐ สูตร สูตรที่ ๑๑ รวมอยู่ในข้อ ๒๖๖ ซึ่งเป็นสูตรที่ ๑๐.</span>

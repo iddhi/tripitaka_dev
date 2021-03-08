@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		<H2>[๒๕๙]  โยคะ  ๔</H2>
+<span class="LineNumber"> 002 </span>	<B>๑.  กามโยคะ	โยคะคือกาม
+<span class="LineNumber"> 003 </span>	๒.  ภวโยคะ	โยคะคือภพ
+<span class="LineNumber"> 004 </span>	๓.  ทิฏฐิโยคะ	โยคะคือทิฐิ
+<span class="LineNumber"> 005 </span>	๔.  อวิชชาโยคะ 	โยคะคืออวิชชา.</B>
+<span class="LineNumber"> 006 </span>               <H2>[๒๖๐]  วิสังโยคะ  ๔</H2>
+<span class="LineNumber"> 007 </span><B>๑.  กามโยควิสังโยคะ		ความพรากจากกามโยคะ
+<span class="LineNumber"> 008 </span>๒.  ภวโยควิสังโยคะ		ความพรากจากภวโยคะ
+<span class="LineNumber"> 009 </span>๓.  ทิฏฐิโยควิสังโยคะ		ความพรากจากทิฏฐิโยคะ
+<span class="LineNumber"> 010 </span>๔.  อวิชชาโยควิสังโยคะ	ความพรากจากอวิชชาโยคะ.</B>
+<span class="LineNumber"> 011 </span>	   <H2>[๒๖๑]	  คันถะ  ๔</H2>
+<span class="LineNumber"> 012 </span><B>๑.  อภิชฌากายคันถะ		เครื่องรัดกายคืออภิชฌา
+<span class="LineNumber"> 013 </span>๒.  พยาบาทกายคันถะ	เครื่องรัดกายคือพยาบาท
+<span class="LineNumber"> 014 </span>๓.  สีลัพพตปรามาสกายคันถะ	เครื่องรัดกายคือสีลัพพตปรามาส
+<span class="LineNumber"> 015 </span>๔.  อิทังสัจจาภินิเวสกายคันถะ	เครื่องรัดกายคือความเชื่อแน่ว่า
+<span class="LineNumber"> 016 </span>			สิ่งนี้เป็นจริง.</B>
+<span class="LineNumber"> 017 </span>	    <H2>[๒๖๒]  อุปาทาน  ๔</H2>
+<span class="LineNumber"> 018 </span>	<B>๑.  กามุปาทาน         	ถือมั่นกาม
+<span class="LineNumber"> 019 </span>	๒.  ทิฏฐุปาทาน	ถือมั่นทิฐิ
+<span class="LineNumber"> 020 </span>	๓.  สีลัพพตุปาทาน	ถือมั่นศีลและพรต
+<span class="LineNumber"> 021 </span>	๔.  อัตตวาทุปาทาน	ถือมั่นวาทะว่าตน.</B>
+<span class="LineNumber"> 022 </span>	         <H2>[๒๖๓]  โยนิ  ๔</H2>
+<span class="LineNumber"> 023 </span>	<B>๑.  อัณฑชโยนิ         กำเนิดของสัตว์ที่เกิดในไข่</B>
+	
+		

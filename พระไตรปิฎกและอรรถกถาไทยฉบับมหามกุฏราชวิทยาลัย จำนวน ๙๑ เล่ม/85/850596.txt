@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>ฌานมูลนัย</H1>   
+<span class="LineNumber"> 002 </span>           แม้ใน <B>ฆฏนาที่มีฌานปัจจัยเป็นมูล</B> ฆฏนาที่มีมูล ๒ พึงทราบตาม
+<span class="LineNumber"> 003 </span>นัยที่ข้าพเจ้ากล่าวแล้วในหนหลังเหมือนกัน.  ก็ในนัยนี้มีฆฏนา ๓๖ ฆฏนา
+<span class="LineNumber"> 004 </span>บรรดาฆฏนาเหล่านั้น   ๙  <B>ฆฏนาแรก</B> ตรัสด้วยอำนาจองค์ฌานทั่วไป  ไม่  
+<span class="LineNumber"> 005 </span>มุ่งถึงความเป็นอินทรีย์หรือมรรค.
+<span class="LineNumber"> 006 </span>           <B>ฆฏนา ๙</B> ฆฏนาต่อจากนั้น  ตรัสด้วยองค์ฌานที่เป็นตัวมรรค.
+<span class="LineNumber"> 007 </span>           <B>ฆฏนา ๙</B>  ฆฏนาต่อจากนั้น       ตรัสด้วยอำนาจองค์ฌานที่เป็นทั้ง
+<span class="LineNumber"> 008 </span>อินทรีย์และมรรค.
+<span class="LineNumber"> 009 </span>           อนึ่ง บรรดาหมวด ๙ สี่หมวดเหล่านี้       <B>ฆฏนา ๔ ฆฏนาข้างต้น</B>
+<span class="LineNumber"> 010 </span>ทั่วไปแก่วิบากและอวิบาก.
+<span class="LineNumber"> 011 </span>           <B>ฆฏนา ๕ ฆฏนา</B>  ในที่สุดได้วิบากเท่านั้น.  ฆฏนาเหล่านั้นข้าพเจ้า
+<span class="LineNumber"> 012 </span>กล่าวไว้แล้วในหนหลังเหมือนกัน.
+
+<span class="LineNumber"> 013 </span>                                         <H1>มัคคมูลกนัย</H1>
+<span class="LineNumber"> 014 </span>           ฆฏนาที่มีมูล ๒  ใน <B>นัยที่มีมัคคปัจจัยเป็นมูล</B>  พึงทราบตามนัยที่
+<span class="LineNumber"> 015 </span>ข้าพเจ้ากล่าวไว้แล้วนั่นเทียว. ก็ในนัยนี้มีฆฏนา ๕๗ ฆฏนา บรรดาฆฏนา
+<span class="LineNumber"> 016 </span>เหล่านั้น.
+<span class="LineNumber"> 017 </span>           <B>๙  ฆฏนาแรก</B> ตรัสด้วยองค์มรรคล้วนไม่รวมถึงความเป็นอินทรีย์
+<span class="LineNumber"> 018 </span>และฌาน.
+<span class="LineNumber"> 019 </span>           <B>๙  ฆฏนาต่อจากนั้น</B>  ตรัสด้วยอำนาจมรรคที่เป็นอินทรีย์.
+<span class="LineNumber"> 020 </span>           <B>๙ ฆฏนาต่อจากนั้น</B>  ตรัสด้วยอำนาจมรรคที่เป็นฌาน.

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>อัพยากตบทปฏิจจ วาระ</H1>
+<span class="LineNumber"> 002 </span>					      <H2>อนุโลมนัย</H2>       
+<span class="LineNumber"> 003 </span>					    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๑๖๔๓]  ๑.  อัพยากตธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม
+<span class="LineNumber"> 005 </span>อาศัยอัพยากตธรรมที่ไม่ใช่ทัสสเนนปหาตัพพธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 006 </span>เหตุปัจจัย                                                        
+<span class="LineNumber"> 007 </span>                     	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 008 </span>		[๑๖๔๔]  ในเหตุปัจจัย มี ๑ วาระ     ในอารัมมณปัจจัย  มี  ๑ วาระ
+<span class="LineNumber"> 009 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 010 </span>          	สหชาตวาระก็ดี   ฯลฯ   ปัญหาวาระก็ดี  มี ๑ วาระ  ทุกปัจจัย.
+<span class="LineNumber"> 011 </span>			      <I>ทัสสเนนปหาตัพพทุกกุสลติกะ  จบ</I>	

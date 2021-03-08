@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>วิบาก     พึงประกอบธรรมที่มิใช่วิบาก  เข้าในฆฏนาที่มิใช่วิบาก    ตาม   
+<span class="LineNumber"> 002 </span>สมควรที่จะประกอบได้แล.
+<span class="LineNumber"> 003 </span>                <I>อนุโลมคณนาในฆฏนาแห่งปัญหาวาระ  จบ</I>
+
+<span class="LineNumber"> 004 </span>                                        <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 005 </span>                               <H1>ปัญหาวารปัจจนียุทธาระ</H1>
+<span class="LineNumber"> 006 </span> <B>[๖๗๔]  กุศลธรรม</B> เป็นปัจจัยแก่<B>กุศลธรรม</B> ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 007 </span>ปัจจัย   ด้วยอำนาจของสหชาตปัจจัย   ด้วยอำนาจของอุปนิสสยปัจจัย.      
+<span class="LineNumber"> 008 </span>           <B>กุศลธรรม</B>  เป็นปัจจัยแก่<B>อกุศลธรรม</B>   ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 009 </span>ปัจจัย   ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 010 </span>           <B>กุศลธรรม</B>  เป็นปัจจัย แก่<B>อัพยาตธรรม</B>  ด้วยอำนาจของอารัมมณ- 
+<span class="LineNumber"> 011 </span>ปัจจัย   ด้วยอำนาจของสหชาตปัจจัย  ด้วยอำนาจของอุปนิสสยปัจจัย   ด้วย
+<span class="LineNumber"> 012 </span>อำนาจของปัจฉชาตปัจจัย  ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 013 </span>           <B>กุศลธรรม</B>  เป็นปัจจัยแก่<B>กุศลธรรมและอัพยากตธรรม</B>   ด้วย
+<span class="LineNumber"> 014 </span>อำนาจของสหชาตปัจจัย.
+<span class="LineNumber"> 015 </span> <B>[๖๗๕]  อกุศลธรรม</B>    เป็นปัจจัยแก่<B>อกุศลธรรม</B>        ด้วยอำนาจของ
+<span class="LineNumber"> 016 </span>อารัมมณปัจจัย   ด้วยอำนาจของสหชาตปัจจัย   ด้วยอำนาจของอุปนิสสย-
+<span class="LineNumber"> 017 </span>ปัจจัย.
+<span class="LineNumber"> 018 </span>           <B>อกุศลธรรม</B> เป็นปัจจัยแก่<B>กุศลธรรม</B>    ด้วยอำนาจของอารัมมณ-
+<span class="LineNumber"> 019 </span>ปัจจัย ด้วยอำนาจของอุปนิสสยปัจจัย.

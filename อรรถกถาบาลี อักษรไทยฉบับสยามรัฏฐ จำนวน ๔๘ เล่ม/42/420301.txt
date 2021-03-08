@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  42  หน้า  301
+
+<span class="LineNumber"> 002 </span>				ทุสฺสงฺคหคาถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	ทุสฺสงฺคหาติ  กา  อุปฺปตฺติ  พาราณสิรฺโ  กิร  
+<span class="LineNumber"> 004 </span>อคฺคมเหสี  กาลมกาสิ ฯ  ตโต  วีติวตฺเตสุ  โสกทิวเสสุ  เอกทิวสํ  
+<span class="LineNumber"> 005 </span>อมจฺจา  ราชูนํ  นาม  เตสุ  เตสุ  กิจฺเจสุ  อคฺคมเหสี  อวสฺสํ  
+<span class="LineNumber"> 006 </span>อิจฺฉิตพฺพา  สาธุ  เทโว  อฺมฺปิ  เทวึ  อาเนตูติ  ยาจึสุ ฯ  
+<span class="LineNumber"> 007 </span>ราชา  เตน  หิ  ภเณ  ชานาถาติ  อาห ฯ  เต  ปริเยสนฺตา  
+<span class="LineNumber"> 008 </span>สามนฺตรชฺเช  ราชา  มโต  ตสฺส  เทวี  รชฺชํ  อนุสาสติ  สา  
+<span class="LineNumber"> 009 </span>จ  คพฺภินี  อโหสิ  อมจฺจา  อยํ  รฺโ  อนุรูปาติ  ตฺวา  ตํ  
+<span class="LineNumber"> 010 </span>ยาจึสุ ฯ  สา  คพฺภินี  นาม  มนุสฺสานํ  อมนาปา  โหติ ฯ  
+<span class="LineNumber"> 011 </span>สเจ  อาคเมถ  ยาว  วิชายามิ  เอวํ  สาธุ ฯ  โน  เจ  อฺํ  
+<span class="LineNumber"> 012 </span>ปริเยสถาติ  อาห ฯ  เต  รฺโปิ  เอตมตฺถํ  อาโรเจสุํ ฯ  ราชา  
+<span class="LineNumber"> 013 </span>คพฺภินีปิ  โหตุ  อาเนถาติ  อาห ฯ  เต  อาเนสุํ ฯ  ราชา  ตํ  
+<span class="LineNumber"> 014 </span>อภิสิฺจิตฺวา สพฺพํ  มเหสิยา  โภคํ  อทาสิ  ตสฺสา  ปริชนานฺจ  
+<span class="LineNumber"> 015 </span>นานาวิเธหิ  ปณฺณากาเรหิ  สงฺคณฺหาติ ฯ  สา  กาเลน  ปุตฺตํ  
+<span class="LineNumber"> 016 </span>วิชายิ ฯ  ราชา  ตํ  อตฺตโน  ปุตฺตํ  วิย  สพฺพิริยาปเถสุ  องฺเก  
+<span class="LineNumber"> 017 </span>จ  อุเร  จ  กตฺวา  วิหรติ ฯ  ตทา  เทวิยา  ปริชนา  จินฺเตสุํ  
+<span class="LineNumber"> 018 </span>ราชา  อติวิย  สงฺคณฺหาติ  กุมาเร  อติวิสฺสาสํ  กโรติ (๑)  หนฺท  
+<span class="LineNumber"> 019 </span>นํ  ปริภินฺทิสฺสามาติ ฯ  
+<span class="LineNumber"> 020 </span>#  ๑ สี. สงฺคณฺหาติ กุมารํ อวิสฺสาสนิยานิ ราชหทยานิ ฯ  
+<span class="LineNumber"> 021 </span>#  สุตฺตนิปาเต สงฺคณฺหาติ กุมารํ อติวิสฺสาสนิยานิ ราชหทยานิ ฯ

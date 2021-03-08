@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>         ( ในอุปปาทวาระ   ท่านจำแนกปัจจุปปันนาตีตปุจฉาวาระไว้ฉันใด
+<span class="LineNumber"> 002 </span>แม้ในอุปปาทนิโรธวาระ  ก็พึงจำแนกปัจจุปปันนาตีตปุจฉาวาระ  ทั้งที่ 
+<span class="LineNumber"> 003 </span>เป็นอนุโลมและปัจจนิกฉันนั้น.)
+<span class="LineNumber"> 004 </span>                          <I>จบ  จักขายตนมูละ  โสตายตนมูลี</I>
+<span class="LineNumber"> 005 </span>                                       <I>จักขายตนมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                        <I>ปุคคลวาระ   จบ</I>
+<span class="LineNumber"> 007 </span>                          <I>ปัจจุปปันนาตีตวาระ  อนุโลม  จบ</I>

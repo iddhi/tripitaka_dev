@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                       <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                       <H1>รูปขันธมูล</H1>
+<span class="LineNumber"> 003 </span><H2>รูปขันธมูละ  เวทนาขันธมูลี :-</H2> 
+<span class="LineNumber"> 004 </span>         [๑๓๓]   รูปขันธ์ไม่ใช่จักเกิดในภูมิใด,  เวทนาขันธ์ก็ไม่ใช่
+<span class="LineNumber"> 005 </span>จักเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         จักเกิด.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  เวทนาขันธ์ไม่ใช่จักเกิดในภูมิใด,  รูปขันธ์ก็ไม่ใช่
+<span class="LineNumber"> 008 </span>จักเกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         จักเกิด.
+<span class="LineNumber"> 010 </span>	               <I>จบ  รูปขันธมูละ  เวทนาขันธมูลี</I>
+<span class="LineNumber"> 011 </span>                                   <I>รูปขันธมูล<SUP>๑</SUP>  จบ</I>
+<span class="LineNumber"> 012 </span>                                  <I>โอกาสวาระ  จบ</I>
+
+<span class='footnote'>๑.  ใช้เชิงอรรถในหน้า  ๑๒๒</span>

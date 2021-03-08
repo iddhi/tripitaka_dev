@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25  หน้า  256
+
+<span class="LineNumber"> 002 </span>		อุชฺชยตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	นโม เต พุทฺธ วีรตฺถูติ อายสฺมโต อุชฺชยตฺเถรสฺส 
+<span class="LineNumber"> 004 </span>คาถา ฯ กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ  ภเว  
+<span class="LineNumber"> 006 </span>ปุฺานิ  กโรนฺโต อิโต ทฺวานวุเต  กปฺเป  ติสฺสํ  ภควนฺตํ 
+<span class="LineNumber"> 007 </span>ปสฺสิตฺวา  ปสนฺนมานโส  กณิการปุปฺเผหิ  ปูชํ อกาสิ ฯ  โส 
+<span class="LineNumber"> 008 </span>เตน  ปุฺกมฺเมน  เทวโลเก  นิพฺพตฺติตฺวา  อปราปรํ  ปุฺานิ  
+<span class="LineNumber"> 009 </span>กตฺวา เทวมนุสฺเสสุ  สํสรนฺโต  อิมสฺมึ  พุทฺธุปฺปาเท  ราชคเห  
+<span class="LineNumber"> 010 </span>อฺตรสฺส  โสตฺถิย(๑)พฺราหฺมณสฺส  ปุตฺโต  หุตฺวา  นิพฺพตฺติ  
+<span class="LineNumber"> 011 </span>อุชฺชโยติสฺส นามํ อโหสิ ฯ 
+<span class="LineNumber"> 012 </span>	โส วยปฺปตฺโต ติณฺณํ  เวทานํ  ปารคู หุตฺวา ตตฺถ 
+<span class="LineNumber"> 013 </span>สารํ อปสฺสนฺโต อุปนิสฺสยสมฺปตฺติยา โจทิยมาโน เวฬุวนํ 
+<span class="LineNumber"> 014 </span>คนฺตฺวา สตฺถุ สนฺติเก ธมฺมํ สุตฺวา ปฏิลทฺธสทฺโธ ปพฺพชิตฺวา
+<span class="LineNumber"> 015 </span>จริยานุกูลํ กมฺมฏฺ€านํ  คเหตฺวา  อรฺเ  วิหรนฺโต  วิปสฺสนํ 
+<span class="LineNumber"> 016 </span>วฑฺเฒตฺวา  น จิรสฺเสว อรหตฺตํ ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๒)  
+<span class="LineNumber"> 017 </span>		กณิการํ ปุปฺผิตํ ทิสฺวา	โอจินิตฺวานหํ ตทา  
+<span class="LineNumber"> 018 </span>		ติสฺสสฺส อภิโรเปสึ		โอฆติณฺณสฺส ตาทิโน ฯ  
+<span class="LineNumber"> 019 </span>		เทฺวนวุเต อิโต กปฺเป	ยํ ปุปฺผมภิโรปยึ  
+<span class="LineNumber"> 020 </span>		ทุคฺคตึ นาภิชานามิ	พุทฺธปูชายิทํ ผลํ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. โสตฺติย... ฯ  ๒. ขุ. อ. ๓๒/๒๐๓/๓๐๑ ฯ 

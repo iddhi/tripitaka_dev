@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  80
+
+<span class="LineNumber"> 002 </span>	อถสฺส  กาณาริฏฺโ€  อปรํปิ  การณํ  อาหริตฺวา  ทสฺเสนฺโต  
+<span class="LineNumber"> 003 </span>คาถมาห  
+<span class="LineNumber"> 004 </span>	[๗๖๔]มหาสนํ เทวมโนมวณฺณํ  
+<span class="LineNumber"> 005 </span>		โย สปฺปินา อสกฺขิ เชตุมคฺคึ(๑)  
+<span class="LineNumber"> 006 </span>		โส ยฺตตฺตํ วรโต ยชิตฺวา  
+<span class="LineNumber"> 007 </span>		ทิพฺพํ คตึ มุชตินฺทชฺฌคจฺฉีติ(๒) ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  มหาสนนฺติ  มหาภกฺขํ ฯ  เชตุนฺติ  สนฺตปฺปิตุํ ฯ  
+<span class="LineNumber"> 009 </span>ยฺตตฺตนฺติ  ยฺวิธานํ ฯ  วรโตติ  วรนฺตสฺส(๓)  อคฺคิเทวสฺส 
+<span class="LineNumber"> 010 </span>ยชิตฺวา ฯ  มุชตินฺทชฺฌคจฺฉีติ มุชตินฺโท อธิคโต(๔) ฯ  
+<span class="LineNumber"> 011 </span>	เอโก  กิร  ปุพฺเพ  พาราณสิยํ  มุชตินฺโท(๕)  นาม ราชา
+<span class="LineNumber"> 012 </span>พฺราหฺมเณ  ปกฺโกสาเปตฺวา  สคฺคมคฺคํ  ปุจฺฉิ ฯ  อถ  นํ  เต 
+<span class="LineNumber"> 013 </span>พฺราหฺมณา  พฺราหฺมณานฺจ  พฺราหฺมณเทวตานฺจ(๖)  สกฺการํ  
+<span class="LineNumber"> 014 </span>กโรหีติ  วตฺวา  กา  พฺราหฺมณเทวตาติ  วุตฺเต  อคฺคิ  เทโวติ  
+<span class="LineNumber"> 015 </span>ตํ  นวนีตสปฺปินา  สนฺตปฺปหีติ  อาหํสุ ฯ โส ตถา อกาสิ ฯ  
+<span class="LineNumber"> 016 </span>	โส ตมตฺถํ ปกาเสนฺโต อิมํ คาถมาห  
+<span class="LineNumber"> 017 </span>		[๗]
+<span class="LineNumber"> 018 </span>	[๗๖๕]มหานุภาโว วสฺสสหสฺสชีวี  
+<span class="LineNumber"> 019 </span>		โย ปพฺพชิ ทสฺสนีโย อุฬาโร  
+<span class="LineNumber"> 020 </span># ๑. ม. โภเชตฺมคฺคึ ฯ  ๒. ม. มุจลินฺทชฺฌคจฺฉีติ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม.วรสฺส ฯ  ๔. ม. อธิคโตติ ฯ  ๕. ม. มุจลินฺโท ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. พฺราหฺมณเทวตาย ฯ ๗. ม. เอตฺถนฺตเร อปรมฺปิ การณํ
+<span class="LineNumber"> 023 </span># ทสฺเสนฺโต คาถมาหาติ ทิสฺสนฺติ ฯ 

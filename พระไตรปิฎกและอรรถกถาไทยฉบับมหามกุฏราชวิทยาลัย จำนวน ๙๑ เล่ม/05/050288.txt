@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>พระบัญญัติ</H1> 
+<span class="LineNumber"> 002 </span>            ๘๗. ๒. <B>อนึ่ง เหล่าภิกษุณีใด  สองรูป  มีผ้าลาดและผ้าห่มผืน
+<span class="LineNumber"> 003 </span>เดียวกันนอน  เป็นปาจิตตีย์.</B>     
+<span class="LineNumber"> 004 </span>                                      <I>เรื่องภิกษุณี  ๒  รูป  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                        <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 006 </span>            [๒๖๒]  บทว่า   <B>อนึ่ง. . .ใด</B>  ความว่า   ผู้ใด คือ ผู้เช่นใด. . .
+<span class="LineNumber"> 007 </span>            ที่ชื่อว่า  เหล่าภิกษุณี  ได้แก่   เหล่าภิกษุณีที่เรียกกันว่าภิกษุณีอุป-
+<span class="LineNumber"> 008 </span>สัมบัน.                                                                        
+<span class="LineNumber"> 009 </span>            พากย์ว่า  <B>สองรูปมีผ้าลาดและผ้าห่มผินเดียวกันนอน</B>  นั้น คือ
+<span class="LineNumber"> 010 </span>ลาดก็ผืนนั้น  ห่มก็ผืนนั้น  ต้องอาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 011 </span>                                            <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 012 </span>                                          <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 013 </span>            [๒๖๓]   ผ้าลาดและผ้าห่มผืนเดียวกันภิกษุณีสำคัญว่า    ผ้าลาดและ
+<span class="LineNumber"> 014 </span>ผ้าห่มผืนเดียวกันนอน  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 015 </span>            ผ้าลาดและผ้าห่มผืนเดียวกัน  ภิกษุณีสงสัย  นอน  ต้องอาบัติปาจิตตีย์
+<span class="LineNumber"> 016 </span>            ผ้าลาดและผ้าห่มผืนเดียวกัน   ภิกษุณีสำคัญว่า    ผ้าลาดและผ้าห่มต่าง  
+<span class="LineNumber"> 017 </span> ผืนกัน  ต้องอาบัติปาจิตตีย์.                                                            
+
+<span class="LineNumber"> 018 </span>                                         <H2>จตุกกะทุกกฏ</H2>                            
+<span class="LineNumber"> 019 </span>            ผ้าลาดผืนเดียวกัน  ผ้าห่มต่างผืน<SUP>๑</SUP>  ต้องอาบัติทุกกฏ.              
+<span class="LineNumber"> 020 </span>            ผ้าลาดต่างผืน  ผ้าห่มผืนเดียวกัน<SUP>๒</SUP>   ต้องอาบัติทุกกฏ.
+
+<span class='footnote'>  ๑.  ยุ  ม.  ผ้าลาดผืนเดียวกัน  สำคัญว่าเป็นผ้าห่มต่างผืนกัน</span>
+<span class='footnote'>   ๒. ยุ   ม.  ผ้าลาดต่างผืน  สำคัญว่าเป็นผ้าห่มผืนเดียวกัน.</span>

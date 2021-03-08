@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>            ดูก่อนภิกษุทั้งหลาย    ก็แลภิกษุณีทั้งหลายจงยกสิกขาบทนี้ขึ้นแสดง
+<span class="LineNumber"> 002 </span>อย่างนี้ว่าดังนี้ :-
+
+<span class="LineNumber"> 003 </span>                                         <H1>พระบัญญัติ</H1> 
+<span class="LineNumber"> 004 </span>            ๗๓.  ๘.  <B>อนึ่ง  ภิกษุณีใด  ให้คนอื่นโพนทะนา  โดยให้เชื่อ
+<span class="LineNumber"> 005 </span>ผิด  เข้าใจผิด  เป็นปาจิตตีย์.</B>
+<span class="LineNumber"> 006 </span>                   <I>เรื่องภิกษุณีอันเตวาสินีของพระภัททากาปิลานีเถรี  จบ</I>
+
+<span class="LineNumber"> 007 </span>		                    <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 008 </span>            [๒๑๐]  บทว่า  <B>อนึ่ง . . .ใด</B>   ความว่า  ผู้ใด  คือ  ผู้เช่นใด. . .
+<span class="LineNumber"> 009 </span>            บทว่า  <B>ภิกษุณี</B>  ความว่า   ที่ชื่อว่า   <B>ภิกษุณี</B>    เพราะอรรถว่าเป็น
+<span class="LineNumber"> 010 </span>ผู้ขอ . . .นี้ชื่อว่า   <B>ภิกษุณี</B>  ที่ทรงประสงค์ในอรรถนี้.
+<span class="LineNumber"> 011 </span>            บทว่า  <B>โดยให้เชื่อผิด</B> คือ  โดยให้เชื่อเป็นอย่างอื่น.
+<span class="LineNumber"> 012 </span>            บทว่า   <B>เข้าใจผิด</B>   คือ   ให้เข้าใจเป็นอย่างอื่น.
+<span class="LineNumber"> 013 </span>            บทว่า  <B>คนอื่น</B>  ได้แก่   อุปสัมบัน    ให้อุปสัมบันโพนทะนา    ต้อง
+<span class="LineNumber"> 014 </span>อาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 015 </span>                                            <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 016 </span>                                           <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 017 </span>            [๒๑๑]  อุปสัมบัน  ภิกษุณีสำคัญว่าอุปสัมบัน    ให้โพนทะนา   ต้อง
+<span class="LineNumber"> 018 </span>อาบัติปาจิตตีย์.
+<span class="LineNumber"> 019 </span>            อุปสัมบัน  ภิกษุณีสงสัย  ให้โพนทะนา   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 020 </span>            อุปสัมบัน  ภิกษุณีสำคัญว่า  อนุปสัมบัน  ให้โพนทะนา   ต้องอาบัติ 
+<span class="LineNumber"> 021 </span>ปาจิตตีย์.

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>                 <h2>หัวข้อประจำเรื่อง</h2>
+<span class="LineNumber"> 002 </span>๑.  <B>ภูตคามสิกขาบท</B>              ว่าด้วยพรากของเขียว
+<span class="LineNumber"> 003 </span>๒. <B>อญัญูวาทสิกขาบท</B>           ว่าด้วยแกล้งกล่าวคำอื่น
+<span class="LineNumber"> 004 </span>๓.  <B>อุชฌาปนสิกขาบท</B>          ว่าด้วยโพนทะนา
+<span class="LineNumber"> 005 </span>๔.   <B>ปฐมเสนาสนสิกขาบท</B>    ว่าด้วยหลีกไปไม่เก็บเสนาสนะ
+<span class="LineNumber"> 006 </span>๕.  <B>ทุติยเสนาสนสิกขาบท</B>     ว่าด้วยใช้เสนาสนะแล้วไม่เก็บ
+<span class="LineNumber"> 007 </span>๖.   <B>อนูปขัชชสิกขาบท</B>          ว่าด้วยนอนแทรกแซง
+<span class="LineNumber"> 008 </span>๗.   <B>นิกกัฑฒนสิกขาบท</B>        ว่าด้วยการฉุดคร่าภิกษุ
+<span class="LineNumber"> 009 </span>๘.  <B>เวทาสกุฎีสิกขาบท</B>          ว่าด้วยนั่งนอนบนร่างร้าน
+<span class="LineNumber"> 010 </span>๙.  <B>มหัลลกสิกขาบท</B>              ว่าด้วยการสร้างวิหารใหญ่
+<span class="LineNumber"> 011 </span>๑๐.  <B>สัปปาณกสิกขาบท</B>        ว่าด้วยใช้น้ำมีตัวสัตว์.

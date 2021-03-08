@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>อธิคคัยหมนสิการกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๕๗]  <B>สกวาที</B>  มนสิการรวบยอดได้ หรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. รู้ชัดซึ่งจิตนั้นด้วยจิตนั้นได้  หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 006 </span>                       ส. รู้ชัดซึ่งจิตนั้นด้วยจิตนั้น หรือ ?
+<span class="LineNumber"> 007 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                       ส. รู้ชัดซึ่งจิตนั้นด้วยจิตนั้นว่า จิต  ดังนี้ได้ หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>                       ส. รู้ชัดซึ่งจิตนั้นด้วยจิตนั้นว่า จิต  ดังนี้ได้  หรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ส. จิตนั้นเป็นอารมณ์ของจิตนั้น หรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 014 </span>                       ส. จิตนั้นเป็นอารมณ์ของจิตนั้น หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ถูกแล้ว. 
+<span class="LineNumber"> 016 </span>                       ส. ถูกต้องผัสสะนั้นด้วยผัสสะนั้น   ฯลฯ  ด้วยเวทนานั้น
+<span class="LineNumber"> 017 </span>ฯลฯ ด้วยสัญญานั้น ฯลฯ ด้วยเจตนานั้น ฯลฯ  ด้วยจิตนั้น  ฯลฯ  ด้วยวิตกนั้น
+<span class="LineNumber"> 018 </span>ฯลฯ ด้วยวิจารนั้น  ฯลฯ  ด้วยปีตินั้น  ฯลฯ  ด้วยสติ   ฯลฯ  รู้ชัดปัญญานั้น
+<span class="LineNumber"> 019 </span>ด้วยปัญญานั้น  หรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 021 </span>                       ส. กำลังมนสิการอดีตว่า  อดีต  ดังนี้อยู่  ก็มนสิการอนาคต 
+<span class="LineNumber"> 022 </span>ว่า อนาคต   ดังนี้ได้ หรือ ?

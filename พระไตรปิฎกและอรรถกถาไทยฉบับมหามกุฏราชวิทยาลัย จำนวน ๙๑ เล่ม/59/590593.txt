@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           <B>ไปอยู่ในโรงถ่านเพลิง  เมื่อนั้น  เราทั้ง ๒  พึง	
+<span class="LineNumber"> 002 </span>           อยู่ร่วมกันได้แน่.
+<span class="LineNumber"> 003 </span>                        เมื่อใด    ลาพึงมีริมฝีปากงาม   สีเหมือน
+<span class="LineNumber"> 004 </span>           ผลมะพลับ    มีหน้างามเหมือนแว่นทอง    จะ 
+<span class="LineNumber"> 005 </span>           เป็นสัตว์ฉลาดในการฟ้อนรำขับร้องได้  เมื่อนั้น
+<span class="LineNumber"> 006 </span>           เราทั้ง ๒  พึงอยู่ร่วมกันได้แน่.
+<span class="LineNumber"> 007 </span>                        เมื่อใด    กากับนกเค้า        พึงปรารถนา
+<span class="LineNumber"> 008 </span>           สมบัติให้แก่กันและกัน   ปรึกษาปรองดองกัน
+<span class="LineNumber"> 009 </span>           อยู่ในที่ลับได้    เมื่อนั้น  เราทั้ง  ๒ พึงอยู่ร่วม
+<span class="LineNumber"> 010 </span>           กันได้แน่.
+<span class="LineNumber"> 011 </span>                        เมื่อใด    รากไม้และใบไม้อย่างละเอียด
+<span class="LineNumber"> 012 </span>           พึงเป็นร่มมั่นคงป้องกันฝนได้    เมื่อนั้น    เรา
+<span class="LineNumber"> 013 </span>           ทั้ง  ๒  พึงอยู่ร่วมกันได้แน่.
+<span class="LineNumber"> 014 </span>                        เมื่อใด  นกตัวเล็ก ๆ  พึงเอาจะงอยปาก
+<span class="LineNumber"> 015 </span>           คาบภูเขาคันธมาทน์   บินไปได้   เมื่อนั้น  เรา
+<span class="LineNumber"> 016 </span>           ทั้ง  ๒  พึงอยู่ร่วมกันได้แน่.
+<span class="LineNumber"> 017 </span>                        เมื่อใด    เด็ก  ๆ  พึงขับเรือใหญ่    อัน</B>

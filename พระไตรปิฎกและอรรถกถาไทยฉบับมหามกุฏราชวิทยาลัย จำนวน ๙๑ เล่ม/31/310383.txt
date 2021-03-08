@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>๑๐.  โสดาปัตติยังคสูตร</H1>
+
+<span class="LineNumber"> 002 </span>                            <H1>โสตาปัตติยังคะ   ๔    ประการ</H1>
+
+<span class="LineNumber"> 003 </span>           [๑๖๒๐]  ดูก่อนภิกษุทั้งหลาย    โสตาปัตติยังคะ ๔ ประการนี้  ๔
+<span class="LineNumber"> 004 </span>ประการเป็นไฉน  คือ  การคบสัตบุรุษ ๑ การฟังธรรมของสัตบุรุษ ๑ การทำ
+<span class="LineNumber"> 005 </span>ไว้ในใจโดยแยบคาย ๑ การปฏิบัติธรรมสมควรแก่ธรรม ๑ ดูก่อนภิกษุทั้งหลาย
+<span class="LineNumber"> 006 </span>โสตปัตติยังคะ ๔ ประการนี้แล.
+<span class="LineNumber"> 007 </span>                                  <I>จบโสตาปัตติยังคสูตรที่  ๑๐</I>
+<span class="LineNumber"> 008 </span>                              <I>จบสคถกปุญญภิสันทวรรคที่    ๕</I>
+
+<span class="LineNumber"> 009 </span>                         <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 010 </span>           ๑. ปฐมอภิสันทสูตร   ๒.  ทุติยอภิสันทสูตร   ๓.  ตติยอภิสันทสูตร
+<span class="LineNumber"> 011 </span>๔. ปรมมหัทธนสูตร  ๕. ทุติยมหัทธนสูตร  ๖.  ภิกขุสูตร   ๗.  นันทิยสูตร
+<span class="LineNumber"> 012 </span>๘.  ภัททิยสูตร  ๙. มหานามสูตร    ๑๐. โสตาปัตติยังคสูตร  และอรรถกถา.

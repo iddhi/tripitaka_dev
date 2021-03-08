@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๒  มหาวารวคฺควณฺณนา  หน้า  ๓๘๖
+
+<span class="LineNumber"> 002 </span>		น  จาปิ  จิตฺตสฺส  วเสน  วตฺตติ  
+<span class="LineNumber"> 003 </span>		อนุกมฺปโก  การุณิโก  จ  นิพฺพุโต  
+<span class="LineNumber"> 004 </span>		ปรินิพฺพุตํ  วนฺทถ  สาริปุตฺตํ ฯ  
+<span class="LineNumber"> 005 </span>		จณฺฑาลปุตฺโต  ยถา  นครํ  ปวิฏฺโ€  
+<span class="LineNumber"> 006 </span>		นีจมโน  จรติ  กโฬปิหตฺโถ    
+<span class="LineNumber"> 007 </span>		ตถา  อยํ  วิหรติ  (๑)  สาริปุตฺโต  
+<span class="LineNumber"> 008 </span>		ปรินิพฺพุตํ  วนฺทถ  สาริปุตฺตํ ฯ  
+<span class="LineNumber"> 009 </span>		อุสโภ  ยถา  ฉินฺนวิสาณโสโต(๒)  
+<span class="LineNumber"> 010 </span>		อเห€ยนฺโต  จรติ  ปุรนฺตเร  ปน(๓)  
+<span class="LineNumber"> 011 </span>		ตถา  อยํ  วิหรติ  สาริปุตฺโต  
+<span class="LineNumber"> 012 </span>		ปรินิพฺพุตํ  วนฺทถ  สาริปุตฺตนฺติ ฯ  
+<span class="LineNumber"> 013 </span>	อิติ  ภควา  ปฺจหิ  คาถาสเตหิ  เถรสฺส  วณฺณํ  กเถสิ ฯ  ยถา  ยถา  
+<span class="LineNumber"> 014 </span>ภควา  เถรสฺส  วณฺณํ  กเถสิ  ตถา  ตถา  เถโร(๔)  สณฺ€าตุํ  น  สกฺโกติ  
+<span class="LineNumber"> 015 </span>วิฬารมุเข  ปกฺขนฺตกุกฺกุโฏ  วิย  ปเวเธติ ฯ  เตนาห  อปิ  เม  ภนฺเต  มธุรกชาโต  
+<span class="LineNumber"> 016 </span>วิย  กาโยติ  สพฺพํ  วิตฺถาเรตพฺพํ ฯ  
+<span class="LineNumber"> 017 </span>	ตตฺถ  มธุรกชาโตติอาทีนมตฺโถ  วุตฺโตเยว ฯ  อิธ  ปน  ธมฺมาติ  
+<span class="LineNumber"> 018 </span>อุทฺเทสปริปุจฺฉาธมฺมา  อธิปฺเปตา ฯ  ตสฺส  หิ  อุทฺเทสปริปุจฺฉาธมฺเม  อคหิเต 
+<span class="LineNumber"> 019 </span>วา  คเหตุํ  คหิเต  วา  สชฺฌายํ  กาตุํ  
+<span class="LineNumber"> 020 </span># ๑. สี. วิจรติ  ฯ  ๒. ม. ฉินฺนวิสาณโก  ฯ  ๓. ม. วเน  ฯ  ๔. ม. อานนฺทตฺเถโร  ฯ

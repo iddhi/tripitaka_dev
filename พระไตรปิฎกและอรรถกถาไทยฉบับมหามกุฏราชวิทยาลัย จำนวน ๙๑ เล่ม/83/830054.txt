@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>มานานุสยมูละ  ภวราคานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         มานานุสัย   นอนเนื่องอยู่แก่บุคคลใด ณ ที่ใด,   ภวราคานุสัย
+<span class="LineNumber"> 003 </span>นอนเนื่องอยู่แก่บุคคลนั้น ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         มานานุสัย   นอนเนื่องอยู่แก่บุคคลนั้น  ณ  ที่นั้น   คือแก่บุคคล
+<span class="LineNumber"> 005 </span>๔ จำพวก   ที่เวทนา ๒ ในกามธาตุ   แต่ภวราคานุสัย  ไม่ใช่นอนเนื่อง
+<span class="LineNumber"> 006 </span>อยู่แก่บุคคลเหล่านั้น ณ ที่นั้น,  มานานุสัย   และภวราคานุสัย    นอน-
+<span class="LineNumber"> 007 </span>เนื่องอยู่แก่บุคคลเหล่านั้น ณ ที่นั้น      คือแก่บุคคลเหล่านั้นนั่นแหละ
+<span class="LineNumber"> 008 </span>ที่รูปธาตุ   อรูปธาตุ.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า    ภวราคานุสัย     นอนเนื่องอยู่แก่บุคคลใด  ณ ที่ใด,
+<span class="LineNumber"> 010 </span>มานานุสัย  ก็นอนเนื่องอยู่แก่บุคคลนั้น ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ใช่.
+<span class="LineNumber"> 012 </span>                    <I>จบ   มานานุสยมูละ  วิจิกิจฉานุสยมูลี</I>
+
+<span class="LineNumber"> 013 </span><H2>มานานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 014 </span>         มานานุสัย   นอนเนื่องอยู่แก่บุคคลใด ณ ที่ใด,     อวิชชานุสัย
+<span class="LineNumber"> 015 </span>ก็นอนเนื่องอยู่แก่บุคคลนั้น ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 016 </span>         ใช่.

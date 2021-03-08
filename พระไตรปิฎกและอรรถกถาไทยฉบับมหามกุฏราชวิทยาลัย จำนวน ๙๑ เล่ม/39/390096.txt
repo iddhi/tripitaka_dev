@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H2>สามเณรปัญหาในขุททกปาฐะ</H2>
+<span class="LineNumber"> 002 </span>                    <B>[๔]  อะไรเอ่ยชื่อว่า  ๑  สัตว์ทั้งปวงตั้งอยู่ได้ด้วย     
+<span class="LineNumber"> 003 </span>           อาหาร.  อะไรเอ่ยชื่อว่า  ๒  นามและรูป.  อะไรเอ่ยชื่อ
+<span class="LineNumber"> 004 </span>           ว่า ๓ เวทนา ๓. อะไรเอ่ยชื่อว่า ๔  อริยสัจ  ๔.  อะไร
+<span class="LineNumber"> 005 </span>           เอ่ยชื่อว่า   ๕   อุปาทานขันธ์  ๕.    อะไรเอ่ยชื่อว่า   ๖
+<span class="LineNumber"> 006 </span>           อายตนะภายใน  ๖.   อะไรเอ่ยชื่อว่า  ๗   โพชฌงค์  ๗.
+<span class="LineNumber"> 007 </span>           อะไรเอ่ยชื่อว่า  ๘  อริยมรรคมีองค์  ๘. อะไรเอ่ยชื่อว่า
+<span class="LineNumber"> 008 </span>           ๙   สัตตาวาส  ๙.  อะไรเอ่ยชื่อว่า  ๑๐  ท่านผู้ประกอบ
+<span class="LineNumber"> 009 </span>           ด้วยองค์  ๑๐  เรียกว่าพระอรหันต์.</B>
+<span class="LineNumber"> 010 </span>                                       <B>จบสามเณรปัญหา</B>
+
+<span class="LineNumber"> 011 </span>                                <H2>๔.  กถาพรรณนากุมารปัญหา<sup>๑</sup></H2>
+<span class="LineNumber"> 012 </span>                                     <H3>อัตถุปปัตติ   เหตุเกิดเรื่อง</H3>
+<span class="LineNumber"> 013 </span>           บัดนี้      ถึงลำดับพรรณนาความของกุมารปัญหา    [สามเณรปัญหา]
+<span class="LineNumber"> 014 </span>เป็นต้นอย่างนี้ว่า   <B>อะไรเอ่ย  ชื่อว่าหนึ่ง</B>    ข้าพเจ้าจักกล่าวเหตุเกิดเรื่องของ
+<span class="LineNumber"> 015 </span>กุมารปัญหาเหล่านั้น     และประโยชน์แห่งการวางบทตั้งในที่นี้แล้วจึงจักทำการ
+<span class="LineNumber"> 016 </span>พรรณนาความ.
+<span class="LineNumber"> 017 </span>           จะกล่าวเหตุเกิดเรื่องของกุมารปัญหาเหล่านั้นก่อน.      ชื่อว่า<B>โสปากะ</B>
+<span class="LineNumber"> 018 </span>เป็นพระมหาสาวกของพระผู้มีพระภาคเจ้า. ท่านโสปากะนั้น  สำเร็จพระอรหันต์
+
+<span class='footnote'>๑.  บาลีเป็นสามเณรปัญหา.</span>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   ข้อยกเว้นพิเศษ 
+<span class="LineNumber"> 002 </span>           อยู่รูปเดียว  ไม่มีภิกษุอื่นอยู่ในวัด  ไปได้  เข้าในเวลาวิกาล
+<span class="LineNumber"> 003 </span>แต่อำลาแล้ว  หรือเพราะการด่วนเช่นกล่าวมาแล้วไม่เป็นอาบัติ  เดิน 
+<span class="LineNumber"> 004 </span>ไปตามทางอันผ่านบ้านไม่ได้แวะและไปสู่อารามอื่น  ไม่ห้าม.<SUP>๑</SUP>
+<span class="LineNumber"> 005 </span>                                     สิกขาบทที่ ๔
+<span class="LineNumber"> 006 </span>           <B>ภิกษุทำกล่องเข็ม ด้วยกระดูกก็ดี ด้วยงาก็ดี ด้วยเขาก็ดี
+<span class="LineNumber"> 007 </span>ต้องปาจิตตีย์.  ต้องต่อยกกล่องนั้นเสียก่อน จึงแสดงอาบัติตก.</B>
+<span class="LineNumber"> 008 </span>                                เหตุบัญญัติสิกขาบท
+<span class="LineNumber"> 009 </span>           ๑.  ภิกษุเกิดเล่นกล่องเข็มกันขึ้น  เพราะเป็นการรบกวนช่างกลึง
+<span class="LineNumber"> 010 </span>ให้เสียประโยชน์ที่จะพึงได้  จึงทรงห้าม.
+<span class="LineNumber"> 011 </span>           ๒.  ธรรมดาภิกษุต้องใช้ของที่เศร้าหมอง  ไม่หรูหราจนเกน
+<span class="LineNumber"> 012 </span>พอดีพองาม.
+<span class="LineNumber"> 013 </span>                                    เภทนกปาจิตตีย์
+<span class="LineNumber"> 014 </span>           ให้ทำเองเป็นปาจิตตีย์  ต้องต่อยกล่องเข็มนั้นให้แตกเสียก่อน
+<span class="LineNumber"> 015 </span>จึงแสดงอาบัติได้  ปาจิตตีย์ชนิดนี้เรียกเภทนกปาจิตตีย์  มีสิกขาบท
+<span class="LineNumber"> 016 </span>เดียวเท่านั้น.
+<span class="LineNumber"> 017 </span>                                      อาบัติทุกกฎ
+<span class="LineNumber"> 018 </span>           ได้กล่องเข็มเช่นนั้น อันคนอื่นทำไว้แล้วมาใช้สอย  ต้องทุกกฎ
+<span class="LineNumber"> 019 </span>ของอื่นมีลูกดุมเป็นต้น  ท่านอนุญาต. แต่ถ้าทำขึ้นในเวลาที่เล่นฮือ
+<span class="LineNumber"> 020 </span>กัน  อนุโลมตามต้นบัญญัติ  คงไม่พ้นจากทุกกฏ.
+
+<span class='footnote'>๑.  จำพรรษาหรือได้รับกฐินแล้ว  ไม่ได้รับยกเว้นตามสิกขาบทนี้.</span>

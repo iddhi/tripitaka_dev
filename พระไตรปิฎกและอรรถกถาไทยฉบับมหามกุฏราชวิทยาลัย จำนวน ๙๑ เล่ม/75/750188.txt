@@ -1,0 +1,34 @@
+﻿<span class="LineNumber"> 001 </span>                    <H2>๘๘-๖.  สวิจารทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>สวิจารา ธมฺมา</B>                           ธรรมมีวิจาร
+<span class="LineNumber"> 003 </span><B>อวิจารา ธมฺมา</B>                           ธรรมไม่มีวิจาร
+
+<span class="LineNumber"> 004 </span>                   <H2>๘๙-๗.  สัปปีติกทุกะ</H2>
+
+<span class="LineNumber"> 005 </span><B>สปฺปีติกา ธมฺมา</B>                        ธรรมมีปีติ
+<span class="LineNumber"> 006 </span><B>อปฺปีติกา ธมฺมา</B>                        ธรรมไม่มีปีติ
+
+<span class="LineNumber"> 007 </span>                  <H2>๙๐-๘.  ปีติสหคตทุกะ</H2>
+
+<span class="LineNumber"> 008 </span><B>ปีติสหคตา ธมฺมา</B>                      ธรรมสหรคตด้วยปีติ
+<span class="LineNumber"> 009 </span><B>น ปีติสหคตา ธมฺมา</B>                  ธรรมไม่สหรคตด้วยปีติ
+
+<span class="LineNumber"> 010 </span>                  <H2>๙๑-๙.  สุขสหคตทุกะ</H2>
+
+<span class="LineNumber"> 011 </span><B>สุขสหคตา ธมฺมา</B>                      ธรรมสหรคตด้วยสุขเวทนา
+<span class="LineNumber"> 012 </span><B>น สุขสหคตา ธมฺมา</B>                  ธรรมไม่สหรคตด้วยสุขเวทนา
+
+<span class="LineNumber"> 013 </span>              <H2>๙๒-๑๐.  อุเปกขาสหคตทุกะ</H2>
+
+<span class="LineNumber"> 014 </span><B>อุเปกฺขา สหคตา ธมฺมา</B>             ธรรมสหรคตด้วยอุเบกขาเวทนา
+<span class="LineNumber"> 015 </span><B>น อุเปกฺขาสหคตา ธมฺมา</B>          ธรรมไม่สหรตด้วยอุเบกขาเวทนา
+
+<span class="LineNumber"> 016 </span>                  <H2>๙๓-๑๑.  กามาวจรทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>กามาวจรา ธมฺมา</B>                     ธรรมเป็นกามาวจร
+<span class="LineNumber"> 018 </span><B>น กามาวจรา ธมฺมา</B>                 ธรรมไม่เป็นกามาวจร
+
+<span class="LineNumber"> 019 </span>                   <H2>๙๔-๑๒.  รูปาวจรทุกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>รูปาวจรา ธมฺมา</B>                      ธรรมเป็นรูปาวจร
+<span class="LineNumber"> 021 </span><B>น รูปาวจรา ธมฺมา</B>                  ธรรมไม่เป็นรูปาวจร

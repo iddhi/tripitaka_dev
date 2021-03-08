@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           <B>อินทรีย์  ๒๒</B>   ไม่ใช่ทิฏฐธรรม    ไม่ใช่สุตธรรม    ไม่ใช่มุตธรรม 
+<span class="LineNumber"> 002 </span>เป็นวิญญาตธรรม.
+<span class="LineNumber"> 003 </span>           <B>เหตุ  ๙</B>  ไม่ใช่ทิฏฐธรรม ไม่ใช่สุตธรรม ไม่ใช่มุตธรรม  เป็นวิญญาต-
+<span class="LineNumber"> 004 </span>ธรรม.                                                                                                
+<span class="LineNumber"> 005 </span>           <B>อาหาร ๔</B>  ไม่ใช่ทิฏฐธรรม  ไม่ใช่สุตธรรม  ไม่ใช่มุตธรรม   เป็น
+<span class="LineNumber"> 006 </span>วิญญาตธรรม.
+<span class="LineNumber"> 007 </span>           <B>ผัสสะ ๗</B>  ไม่ใช่ทิฏฐธรรม  ไม่ใช่สุตธรรม  ไม่ใช่มุตธรรม   เป็น
+<span class="LineNumber"> 008 </span>วิญญาตธรรม.
+<span class="LineNumber"> 009 </span>           <B>เวทนา ๗   สัญญา  ๗  เจตนา ๗  จิต ๗</B>  ไม่ใช่ทิฏฐธรรม   ไม่
+<span class="LineNumber"> 010 </span>ใช่สุตธรรม  ไม่ใช่มุตธรรม  เป็นวิญญาตธรรม.
+
+<span class="LineNumber"> 011 </span>                                     <H1>กุสลติกาทิวาระ</H1>
+<span class="LineNumber"> 012 </span>           [๑๑๑๒]  <B>บรรดาขันธ์   ๕  ขันธ์ไหน   เป็นกุศล   ขันธ์ไหน
+<span class="LineNumber"> 013 </span>เป็นอกุศล  ขันธ์ไหน  เป็นอัพยากตะ ฯลฯ   บรรดาจิต    จิตไหน
+<span class="LineNumber"> 014 </span>เป็นกุศล  จิตไหน  เป็นอกุศล  จิตไหน  เป็นอัพยากตะ ?</B>
+<span class="LineNumber"> 015 </span>           <B>รูปขันธ์</B>  เป็นอัพยากตะ  ขันธ์  ๔    เป็นกุศลก็มี    เป็นอกุศลก็มี
+<span class="LineNumber"> 016 </span>เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 017 </span>           <B>อายตนะ ๑๐</B>  เป็นอัพยากตะ.
+<span class="LineNumber"> 018 </span>           <B>อายตนะ ๒</B>  เป็นกุศลก็มี  เป็นอกุศลก็มี  เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 019 </span>           <B>ธาตุ ๑๖</B>  เป็นอัพยากตะ.
+<span class="LineNumber"> 020 </span>           <B>ธาตุ ๒</B>  เป็นกุศลก็มี   เป็นอกุศลก็มี  เป็นอัพยากตะก็มี.
+<span class="LineNumber"> 021 </span>           <B>สมุทยสัจ</B>   เป็นอกุศล.                                          

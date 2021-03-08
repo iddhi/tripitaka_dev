@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>ยตนะไม่ใช่กำลังดับแก่บุคคลเหล่านั้นในภูมินั้น,     บุคคลที่มีจักขุเกิดได้
+<span class="LineNumber"> 002 </span>เหล่านั้นกำลังตาย     ธัมมายตนะเคยดับ     และจักขายตนะก็กำลังดับแก่ 
+<span class="LineNumber"> 003 </span>บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 004 </span>                         <I>จบ  จักขายตนมูละ   ธัมมายตนมูลี</I>
+<span class="LineNumber"> 005 </span>                                     <I>จักขายตนมูล  จบ</I>
+
+<span class="LineNumber"> 006 </span>                                        <H1>ฆานายตนมูล</H1>
+<span class="LineNumber"> 007 </span><H2>ฆานายตนมูละ  รูปายตนมูลี  :-</H2>
+<span class="LineNumber"> 008 </span>         [๕๙๓]   ฆานายตนะกำลังดับแก่บุคคลใดในภูมิใด,  รูปายตนะ
+<span class="LineNumber"> 009 </span>ก็เคยดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า    รูปายตนะเคยดับแก่บุคคลใดในภูมิใด,   ฆานายตนะ
+<span class="LineNumber"> 012 </span>ก็กำลังดับแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         เมื่อบุคคลเหล่านั้นกำลังเกิดในกามาวจรภูมิก็ดี     บุคคลที่ฆานะ
+<span class="LineNumber"> 014 </span>เกิดไม่ได้กำลังตายในกามาวจรภูมิก็ดี    บุคคลที่เกิดอยู่ในรูปาวจรภูมิก็ดี

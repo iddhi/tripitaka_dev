@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  366
+
+<span class="LineNumber"> 002 </span>			ทุคฺคติกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  ทุคฺคติกถา  นาม  โหติ ฯ  ตตฺถ  เย  ทุคฺคติฺจ 
+<span class="LineNumber"> 004 </span>ทุคฺคติสตฺตานํ  รูปาทิอารมฺมณํ  ตณฺหฺจาติ  อุภยมฺปิ ทุคฺคตีติ
+<span class="LineNumber"> 005 </span>คเหตฺวา ปุน ตถา อวิภชิตฺวา  อวิเสเสเนว  ทิฏฺ€ิสมฺปนฺนสฺส
+<span class="LineNumber"> 006 </span>ปหีนา  ทุคฺคตีติ  วทนฺติ เสยฺยถาปิ อุตฺตราปถกานํ  (๑)  เต  สนฺธาย
+<span class="LineNumber"> 007 </span>ปุจฺฉา  สกวาทิสฺส  ปฏิฺา อิตรสฺส ฯ อาปายิเก  รูเป 
+<span class="LineNumber"> 008 </span>รชฺเชยฺยาติอาทิ  ปรวาทิโน  ลทฺธิยา  ทิฏฺ€ิสมฺปนฺนสฺส  ทุคฺคติ
+<span class="LineNumber"> 009 </span>อปฺปหีนา ตสฺสา  (๒) วเสน โจเทตุํ วุตฺตํ ฯ เสสเมตฺถ อุตฺตา-
+<span class="LineNumber"> 010 </span>นตฺถเมว ฯ นิรยํ อุปปชฺเชยฺยาติอาทิ ทุคฺคติปหานเมว  ทุคฺคติ-
+<span class="LineNumber"> 011 </span>คามินิตณฺหาปหานํ  วา  ทีเปติ  น  ทุคฺคติสตฺตานํ รูปาทิ-
+<span class="LineNumber"> 012 </span>อารมฺมณาย ตณฺหาย ปหานํ ตสฺมา อสาธกนฺติ ฯ 
+<span class="LineNumber"> 013 </span>		ทุคฺคติกถาวณฺณนา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 014 </span>	สตฺตมภวิกกถาวณฺณนายปิ (๓) เอเสว นโยติ ฯ 
+<span class="LineNumber"> 015 </span>		ทฺวาทสโม วคฺโค สมตฺโต ฯ 
+<span class="LineNumber"> 016 </span># ๑. ม. อุตฺตราปถกา ฯ  ๒. ม. ตสฺส ฯ ๓. ม. สตฺตมภวิกกถายปิ ฯ

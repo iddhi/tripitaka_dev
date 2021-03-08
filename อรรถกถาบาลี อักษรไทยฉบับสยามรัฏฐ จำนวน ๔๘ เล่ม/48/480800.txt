@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 48   หน้า  800
+
+<span class="LineNumber"> 002 </span>				นิคมนกถา 
+<span class="LineNumber"> 003 </span>	ปรมวิสทฺธสุทฺธาพุทฺธิวิริยปฏิมณฺฑิเตน สีลาจารชฺชวมทฺท-
+<span class="LineNumber"> 004 </span>วาทิคุณสมุทยสมุทิเตน   สกสมยสมยนฺตรคหนชฺโฌคาหณสมตฺเถน 
+<span class="LineNumber"> 005 </span>ปฺาเวยฺยตฺติยสมนฺนาคเตน  ติปิฏกปริยตฺติปฺปเภเท   สาฏฺ€กเถ 
+<span class="LineNumber"> 006 </span>สตฺถุสาสเน   อปฺปฏิหตาณปฺปภาเวน  มหาเวยฺยากรเณน 
+<span class="LineNumber"> 007 </span>กรณสมฺปตฺติชนิตสุขวินิคฺคตมธุโรทารวจนลาวณฺณยุตฺเตน ยุตฺต-
+<span class="LineNumber"> 008 </span>มุตฺตวาทินา  วาทิวเรน  มหากวินา  ปภินฺนปฏิสมฺภิทาปริวาเร 
+<span class="LineNumber"> 009 </span>ฉฬภิฺาปฏิสมฺภิทาทิปฺปเภท(๑)คุณปฏิมณฺฑิเต  อุตฺตริมนุสฺสธมฺเม 
+<span class="LineNumber"> 010 </span>สุปฺปติฏฺ€ิตพุทฺธีนํ  เถรวํสปฺปทีปานํ  เถรานํ  มหาวิหารวาสีนํ 
+<span class="LineNumber"> 011 </span>วํสาลงฺการภูเตน  สุวิปุล(๒)วิสุทฺธพุทฺธินา  พุทฺธโฆโสติ  ครูหิ
+<span class="LineNumber"> 012 </span>คหิตนามเธยฺเยน เถเรน กตา อยํ สกลสฺสาปิ อภิธมฺมปิฏกสฺส
+<span class="LineNumber"> 013 </span>อฏฺ€กถา  นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 014 </span>		ตาว ติฏฺ€ตุ โลกสฺมึ	โลกนิตฺถรเณสินํ 
+<span class="LineNumber"> 015 </span>		ทสฺเสนฺตี กุลปุตฺตานํ	นยํ ปฺาวิสุทฺธิยา ฯ 
+<span class="LineNumber"> 016 </span>		ยาว พุทฺโธติ นามมฺปิ	สุทฺธจิตฺตสฺส ตาทิโน 
+<span class="LineNumber"> 017 </span>		โลกมฺหิ โลกเชฏฺ€สฺส	ปวตฺตติ มเหสิโนติ ฯ 
+
+<span class="LineNumber"> 018 </span>	ปรมตฺถทีปนี  นาม ธาตุกถาทิปฺจปฺปกรณฏฺ€กถา
+<span class="LineNumber"> 019 </span>						สมตฺตา ฯ
+<span class="LineNumber"> 020 </span>				อภิธมฺมปิฏกฏฺ€กถา นิฏฺ€ิตา ฯ
+<span class="LineNumber"> 021 </span># ๑. ม. ฉฬภิฺาทิปฺปเภท... ฯ  ๒. ม. วิปุล... ฯ

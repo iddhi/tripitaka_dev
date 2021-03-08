@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>					   <H1>อรณบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 002 </span>					       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>					    <H2>๑. เหตุปัจจัย</H2>		
+<span class="LineNumber"> 004 </span>		[๘๗๔]  ๑.  อรณธรรมที่เป็นวิปากธรรม    เป็นปัจจัยแก่อรณ-
+<span class="LineNumber"> 005 </span>ธรรมที่เป็นวิปากธรรม  ด้วยอำนาจของเหตุปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>                  	    ๔.  อรณธรรมที่เป็นวิปากธัมมธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 007 </span>อรณธรรมที่เป็นวิปากธัมมธรรม ด้วยอำนาจของเหตุปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                  	    ๗.  อรณธรรมที่เป็นเนววิปากนวิปากธัมมธรรม  เป็น
+<span class="LineNumber"> 009 </span>ปัจจัยแก่อรณธรรมที่เป็นเนววิปากนวิปากธัมมธรรม  ด้วยอำนาจของ
+<span class="LineNumber"> 010 </span>เหตุปัจจัย 
+<span class="LineNumber"> 011 </span>                    	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>		[๘๗๕]  ในเหตุปัจจัย  มี  ๗  วาระ    ในอารัมมปัจจัย   มี  ๙  วาระ
+<span class="LineNumber"> 013 </span>ฯลฯ   ในอวิคตปัจจัย มี ๑๓ วาระ.
+<span class="LineNumber"> 014 </span>         	 แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 015 </span>				     <I>วิปากติกสรณทุกะ  จบ</I>

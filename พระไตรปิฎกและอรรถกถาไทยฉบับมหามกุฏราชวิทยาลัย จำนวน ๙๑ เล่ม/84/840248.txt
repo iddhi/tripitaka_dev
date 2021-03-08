@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>ฆานินทริยมูล</H1> 
+<span class="LineNumber"> 002 </span><B>ฆานินทริยมูละ  อิตถินทริย   ฯลฯ    ปุริสินทริยมูลี:-</B>
+<span class="LineNumber"> 003 </span>         [๕๔๑]  จักขุนทรีย์   กำลังเกิดในภูมิใด,    อิตถินทรีย์   ฯลฯ
+<span class="LineNumber"> 004 </span>ปุริสินทรีย์ก็กำลังเกิดในภูมิ,     ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า  ปุริสินทรีย์  กำลังเกิดในภูมิใด,  ฆานินทรีย์ก็กำลัง
+<span class="LineNumber"> 007 </span>เกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.   
+<span class="LineNumber"> 009 </span>        <I>จบ  ฆานินทริยมูละ   อิตถินทริย  ฯลฯ  ปุริสินทริยมูลี</I>
+
+<span class="LineNumber"> 010 </span><B>ฆานินทริยมูละ  ชีวิตินทริยมูลี:-</B>
+<span class="LineNumber"> 011 </span>         [๕๔๒]   ฆานินทรีย์   กำลังเกิดในภูมิใด,    ชีวิตินทรีย์ก็กำลัง
+<span class="LineNumber"> 012 </span>เกิดในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>         ก็หรือว่า  ชีวิตินทรีย์  กำลังเกิดในภูมิใด,  ฆานินทรีย์ก็กำลัง
+<span class="LineNumber"> 015 </span>เกิดในภูมินั้น   ใช่ไหม  ?

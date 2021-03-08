@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>           [๑๔๓๒] ๕.  <B>อัปปมาณธรรม   เป็นปัจจัยแก่อัปปมาณธรรม  
+<span class="LineNumber"> 002 </span>ด้วยอำนาจของอธิปติปัจจัย</B>                           
+<span class="LineNumber"> 003 </span>           มี ๒ อย่าง  คือที่เป็น  <B>อารัมมณาธิปติ</B>  และ <B>สหชาตาธิปติ</B>
+<span class="LineNumber"> 004 </span>           ที่เป็น  <B>อารัมมณาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 005 </span>           นิพพาน  เป็นปัจจัยแก่มรรค   แก่ผล  ด้วยอำนาจของอธิปปัจจัย.
+<span class="LineNumber"> 006 </span>           ที่เป็น <B>สหชาตาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 007 </span>           อธิติธรรมที่เป็นอัปปมาณธรรม  เป็นปัจจัยแก่สัมปยุตตขันธ์ทั้งหลาย
+<span class="LineNumber"> 008 </span>ด้วยอำนาจของอธิปติปัจจัย.
+<span class="LineNumber"> 009 </span>           [๑๔๓๓] ๖.  <B>อัปปมาณธรรม  เป็นปัจจัยแก่ปริตตธรรม  ด้วย
+<span class="LineNumber"> 010 </span>อำนาจของอธิปติปัจจัย</B>
+<span class="LineNumber"> 011 </span>           มี ๒ อย่าง  คือที่เป็น  <B>อารัมมณาธิปติ</B>  และ  <B>สหชาตาธิปติ</B>
+<span class="LineNumber"> 012 </span>           ที่เป็น  <B>อารัมมณาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 013 </span>           พระอริยะทั้งหลายออกจากมรรคการทำมรรคให้เป็นอารมณ์อย่างหนัก 
+<span class="LineNumber"> 014 </span>แน่นแล้ว     พิจารณา,    กระทำผลให้เป็นอารมณ์อย่างหนักแน่น ฯลฯ กระทำ
+<span class="LineNumber"> 015 </span>นิพพานให้เป็นอารมณ์อย่างหนักแน่น ฯลฯ
+<span class="LineNumber"> 016 </span>           นิพพานเป็นปัจจัยแก่โคตรภู, แก่โวทาน  ด้วยอำนาจของอธิปติปัจจัย.
+<span class="LineNumber"> 017 </span>           ที่เป็น  <B>สหชาตาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 018 </span>           อธิปติธรรมที่เป็นอัปปมาณธรรม      เป็นปัจจัยแก่จิตตสมุฏฐานรูป
+<span class="LineNumber"> 019 </span>ทั้งหลาย  ด้วยอำนาจของอธิปติปัจจัย.
+

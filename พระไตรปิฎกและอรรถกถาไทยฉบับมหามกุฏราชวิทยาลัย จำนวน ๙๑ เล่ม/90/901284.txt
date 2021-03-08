@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>			    <H1>ฉโคจฉกทุกเหตุทุกะ</H1> 
+<span class="LineNumber"> 002 </span>	  <H2>(๒๐.-๕๔.  ฉโคจฉกทุกะ   ๑. เหตุทุกะ)</H2>
+<span class="LineNumber"> 003 </span>			        <H1>ปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>			     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>		[๑๔๕]  ฯลฯ  อาศัยสัญโญชนเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 006 </span>		ฯลฯ  อาศัยคันถเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 007 </span>		ฯลฯ  อาศัยโอฆเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 008 </span>		ฯลฯ  อาศัยโยคเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 009 </span>		ฯลฯ  อาศัยนีวรณเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 010 </span>		ฯลฯ  อาศัยโนปรามาสเหตุธรรม  ฯลฯ
+<span class="LineNumber"> 011 </span>		ทุกปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 012 </span>	            <I>ฉโคจฉกทุกเหตุทุกะ   จบ</I>			

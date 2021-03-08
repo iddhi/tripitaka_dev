@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  42   นิทานกถา  หน้า  80
+
+<span class="LineNumber"> 002 </span>จตฺตาฬีสหตฺถุพฺเพธํ  อโหสิ จตฺตาฬีส วสฺสสหสฺสานิ อายูติ ฯ  
+<span class="LineNumber"> 003 </span>	เวสฺสภุสฺส อปเรน   สมฺพุทฺโธ ทฺวิปทุตฺตโม  
+<span class="LineNumber"> 004 </span>	กกุสนฺโธ นาม นาเมน  อปฺปเมยฺโย ทุราสโทติ ฯ(๑)  
+<span class="LineNumber"> 005 </span>	ตสฺส  อปรภาเค  โกณาคมโน  นาม  สตฺถา  อุทปาทิ ฯ  
+<span class="LineNumber"> 006 </span>ตสฺสาปิ  เอโกว  สาวกสนฺนิปาโต  ตตฺถ  ตึส  ภิกฺขุสหสฺสานิ  
+<span class="LineNumber"> 007 </span>อเหสุํ ฯ  ตทา  โพธิสตฺโต  ปพฺพโต  นาม  ราชา  หุตฺวา  
+<span class="LineNumber"> 008 </span>อมจฺจคณปริวุโต  สตฺถุ  สนฺติกํ  คนฺตฺวา  ธมฺมเทสนํ  สุตฺวา  
+<span class="LineNumber"> 009 </span>พุทฺธปฺปมุขํ  ภิกฺขุสงฺฆํ  นิมนฺเตตฺวา  มหาทานํ  ปวตฺเตตฺวา  
+<span class="LineNumber"> 010 </span>ปตฺตุณฺณจีนปฏโกเสยฺยกมฺพลทุกูลานิ  เจว  สุวณฺณปฏิกฺจ (๒)  
+<span class="LineNumber"> 011 </span>ทตฺวา  สตฺถุ  สนฺติเก  ปพฺพชิ ฯ  โสปิ  นํ  สตฺถา  พุทฺโธ  
+<span class="LineNumber"> 012 </span>ภวิสฺสตีติ  พฺยากาสิ ฯ  ตสฺส  ภควโต  โสภวตี  นาม  นครํ  
+<span class="LineNumber"> 013 </span>อโหสิ  ยฺทตฺโต  นาม  พฺราหฺมโณ  ปิตา  อุตฺตรา  นาม  
+<span class="LineNumber"> 014 </span>พฺราหมณี  มาตา  ภิยฺยโส (๓)  จ  อุตฺตโร  จ  เทฺว  อคฺคสาวกา  
+<span class="LineNumber"> 015 </span>โสตฺถิโช นามุปฏฺ€าโก  สมุทฺทา (๔)  จ  อุตฺตรา  จ  เทฺว  อคฺค-
+<span class="LineNumber"> 016 </span>สาวิกา  อุทุมฺพรรุกฺโข  โพธิ  สรีรํ  ตึสหตฺถุพฺเพธํ อโหสิ ตึส 
+<span class="LineNumber"> 017 </span>วสฺสสหสฺสานิ อายูติ ฯ  
+<span class="LineNumber"> 018 </span>	กกุสนฺธสฺส อปเรน   สมฺพุทฺโธ ทฺวิปทุตฺตโม  
+<span class="LineNumber"> 019 </span>	โกณาคมโน นาม ชิโน  โลกเชฏฺโ€ นราสโภติ (๕)ฯ  
+<span class="LineNumber"> 020 </span># ๑ ขุ. พุทฺธ. ๓๓/๒๓/๕๒๙ ฯ  ๒ สี.  สุวณฺณปฏิกฺจ ฯ
+<span class="LineNumber"> 021 </span># ม. โสวณฺณปาทุกฺเจว  ฯ  ๓ สี. ยุ. ภิยฺโย ฯ  
+<span class="LineNumber"> 022 </span># ๔ ยุ. ม. สุมุตฺตา ฯ  ขุ. พุทธ. ๓๓/๒๔/๕๓๓ ฯ

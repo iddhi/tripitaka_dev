@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>หัวข้อประจำเรื่อง</H1>    
+<span class="LineNumber"> 002 </span>           [๑,๐๑๕]  หมวดธรรมเหล่านี้ของภิกษุ   ๑๖    ของภิกษุณี   ๑๖    คือ
+<span class="LineNumber"> 003 </span>หมวด ๑ ถึงหมวด  ๘   ในคำถามและปัจจัย   และหมวด  ๑  ถึงหมวด  ๘   ใน
+<span class="LineNumber"> 004 </span>คำถามและปัจจัยอีก  เปยยาล  อันตราเภท  และเอกุตตริกะ   ปวารณา   อัตถว-
+<span class="LineNumber"> 005 </span>เสปกรณ์   สงเคราะห์เข้ามหาวรรค.
+<span class="LineNumber"> 006 </span>                                   <I>หัวข้อประจำเรื่อง  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                 <H1>อัตถวเสปกรณ  วัณณนา</H1> 
+<span class="LineNumber"> 008 </span>           <H1>วินิจฉัยในอัตถวเสปกรณ์</H1>   พึงทราบดังนี้:-
+<span class="LineNumber"> 009 </span>           ในคำว่า  <B>ทส    อตฺถวเส</B>    เป็นต้น    คำที่ควรกล่าว    ได้กล่าวใน
+<span class="LineNumber"> 010 </span>วัณณนาแห่งปฐมปาราชิกแล้วแล.<SUP>*</SUP>
+<span class="LineNumber"> 011 </span>          ในบททั้งหลายมีบทว่า  <B>ยํ  สงฺฆสุฏฺฐุ  ตํ สงฺฆผาสุ</B>    เป็นอาทิ
+<span class="LineNumber"> 012 </span>บทต้น  ๆ   เป็นเนื้อความของบทหลัง ๆ.
+<span class="LineNumber"> 013 </span>          ก็ด้วยทำให้เป็นบทตั้งทีละบท  ในทุก ๑๐  บท  ประกอบ   ๑๐  ครั้ง
+<span class="LineNumber"> 014 </span>รวมร้อยบทนี้ใด   ที่พระผู้มีพระภาคเจ้าตรัสในคำว่า   อรรถร้อยหนึ่ง   ธรรม
+<span class="LineNumber"> 015 </span>ร้อยหนึ่ง  เป็นต้น.  พึงทราบอรรถร้อยหนึ่ง   ด้วยอำนาจบทหลัง ๆ   ในร้อย
+<span class="LineNumber"> 016 </span>บทนั้น.  พึงทราบร้อยธรรม  ด้วยอำนาจบทต้น  ๆ.
+<span class="LineNumber"> 017 </span>           อีกอย่างหนึ่ง  สิกขาบทอันพระตถาคตทรงอำนาจประโยชน์  ๑๐ เหล่า
+<span class="LineNumber"> 018 </span>ใด  ทรงบัญญัติแล้ว   แก่สาวกทั้งหลาย   อำนาจประโยชน์  ๑๐  เหล่าใด   อัน
+<span class="LineNumber"> 019 </span>ข้าพเจ้าพรรณนาแล้ว   ในอรรถกถาแห่งปฐมปาราชิกในหนหลัง  โดยนัยมีอาทิ
+<span class='footnote'><SUP>*</SUP>  สมนฺต  ป€ม.  ๒๕๘.</span>

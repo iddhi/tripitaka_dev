@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  38  มหานิทฺเทสวณฺณนา  หน้า  106
+
+<span class="LineNumber"> 002 </span>			เปเตสุ ทุกฺขํ ปน ขุปฺปิปาส (๑)
+<span class="LineNumber"> 003 </span>			วาตาตปาทิปฺปภวํ วิจิตฺตํ  
+<span class="LineNumber"> 004 </span>			ยสฺมา อชาตสฺส น ตตฺถ อตฺถิ  
+<span class="LineNumber"> 005 </span>			ตสฺมาปิ ทุกฺขํ มุนิ ชาติมาห ฯ  
+<span class="LineNumber"> 006 </span>			ติพฺพนฺธกาเร จ อสยฺหสีเต  
+<span class="LineNumber"> 007 </span>			โลกนฺตเร ยํ อสุเรสุ ทุกฺขํ  
+<span class="LineNumber"> 008 </span>			น ตํ ภเว ตตฺถ น จสฺส ชาติ  
+<span class="LineNumber"> 009 </span>			ยโต อยํ ชาติ ตโตปิ ทุกฺขาติ ฯ 
+<span class="LineNumber"> 010 </span>	มานุสิกทุกฺขนฺติ  (๒) มนุสฺเสสุ  วธพนฺธนาทิกํ ทุกฺขํ ฯ 
+<span class="LineNumber"> 011 </span>คพฺโภกฺกนฺติมูลกทุกฺขนฺติ อยํ  หิ  สตฺโต  มาตุกุจฺฉิมฺหิ  นิพฺพตฺต-
+<span class="LineNumber"> 012 </span>มาโน  น  อุปฺปลปทุมปุณฺฑริกาทีสุ นิพฺพตฺตตีติอาทินา นเยน 
+<span class="LineNumber"> 013 </span>ยํ ชาติทุกฺขํ วุตฺตํ อิทํ ตาว คพฺโภกฺกนฺติมูลกทุกฺขํ อเนฺวติ ฯ 
+<span class="LineNumber"> 014 </span>คพฺเภ €ิติมูลกทุกฺขนฺติ ยํ [๓] โส มาตุ สหสา อุปกฺขลนคมน-
+<span class="LineNumber"> 015 </span>นิสีทนวุฏฺ€านปริวตฺตนาทีสูติ (๔) อาทินา  นเยน ยํ ติพฺพํ ทุกฺขํ วุตฺตํ 
+<span class="LineNumber"> 016 </span>อิทํ คพฺเภ €ิติมูลกํ ทุกฺขํ  อเนฺวติ ฯ  คพฺภวุฏฺ€านมูลกทุกฺขนฺติ  
+<span class="LineNumber"> 017 </span>ยํ  ปนสฺส  มูฬฺหคพฺภาย  มาตุยา มิตฺตามจฺจสุหชฺชาทีหิ  (๕)
+<span class="LineNumber"> 018 </span>อทสฺสนารเห  ทุกฺขุปฺปตฺติฏฺ€าเนติอาทินา นเยน ยํ ทุกฺขํ วุตฺตํ 
+<span class="LineNumber"> 019 </span>อิทํ มาตุกุจฺฉิโต พหิ นิกฺขนฺตมูลกํ (๖) ทุกฺขํ อเนฺวติ ฯ เตเนตํ วุจฺจติ  
+<span class="LineNumber"> 020 </span># ๑. ม. ขุปฺปิหาสา ฯ  ๒. ม. มนุสิกํ ทุกฺขนฺติ ฯ  ๓. ม. เอตฺถนฺตเร 
+<span class="LineNumber"> 021 </span>ปนสทฺโท  อตฺถิ ฯ  ๔. ม. อุปกฺขลนกมนนิสีทนาติ ฯ  
+<span class="LineNumber"> 022 </span># ๕. ม. มิตฺตามจฺจาสุหชฺชาทีหิ ฯ  ๖. ม. พหินิกฺขนฺตมูลกํ ฯ

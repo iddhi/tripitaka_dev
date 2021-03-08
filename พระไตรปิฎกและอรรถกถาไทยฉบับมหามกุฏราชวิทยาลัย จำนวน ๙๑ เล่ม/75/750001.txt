@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>พระอภิธรรมปิฎก</H1>
+
+<span class="LineNumber"> 002 </span>                                     <H1>เล่มที่  ๑  ภาคที่  ๑</H1>
+
+<span class="LineNumber"> 003 </span>                                           <H1>ธรรมสังคณี</H1>
+
+<span class="LineNumber"> 004 </span>     <H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+
+<span class="LineNumber"> 005 </span>                                            <H2>มาติกา</H2>
+
+<span class="LineNumber"> 006 </span>                                   <H2>ติกมาติกา  ๒๒  ติกะ</H2>
+
+<span class="LineNumber"> 007 </span>                        [๑]                <H2>๑.  กุสลติกะ</H2>
+<span class="LineNumber"> 008 </span>         <B>กุสลา   ธมฺมา</B>                                  ธรรมเป็นกุศล
+<span class="LineNumber"> 009 </span>         <B>อกุสลา   ธมฺมา</B>                                ธรรมเป็นอกุศล
+<span class="LineNumber"> 010 </span>         <B>อพฺยกากตา   ธมฺมา</B>                         ธรรมเป็นอัพยากฤต
+
+<span class="LineNumber"> 011 </span>                                             <H2>๒.  เวทนาติกะ</H2> 
+
+<span class="LineNumber"> 012 </span>         <B>สุขาย  เวทนา  สมฺปยุตฺตา  ธมฺมา</B>       ธรรมสัมปยุตด้วยสุขเวทนา
+<span class="LineNumber"> 013 </span>         <B>ทุกฺขาย  เวทนาย  สมฺปยุตฺตา  ธมฺมา</B>  ธรรมสัมปยุตด้วยทุกขเวทนา
+<span class="LineNumber"> 014 </span>         <B>อทุกฺขมสุขาย  เวทนาย  สมฺปยุตฺตา</B>    ธรรมสัมปยุตด้วยอทุกขมสุขเวทนา
+<span class="LineNumber"> 015 </span>         <B>ธมฺมา</B>

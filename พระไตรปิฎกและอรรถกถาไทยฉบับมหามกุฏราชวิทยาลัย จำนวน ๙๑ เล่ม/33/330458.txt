@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                         <H3>อรรถกถาสูตรที่  ๑๑</H3>
+
+<span class="LineNumber"> 002 </span>         ใน<B>สูตรที่  ๑๑</B> (ข้อ ๓๕๓)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         บทว่า  <B>อาสวา</B>  ได้แก่  กิเลส. บทว่า  <B>น กุกฺกุจฺจายิตพฺพํ</B>  ความว่า
+<span class="LineNumber"> 004 </span>ความไม่ปรารถนาไม่วิจารณ์ส่วนในสงฆ์  ชื่อว่าสิ่งที่ไม่ควรรำคาญ.  บทว่า
+<span class="LineNumber"> 005 </span><B>กุกฺกุจฺจายิตพฺพํ</B>   ความว่า    ไม่รำคาญความปรารถนาวิจารณ์ส่วนในสงฆ์
+<span class="LineNumber"> 006 </span>นั้นนั่นแหละ.
+<span class="LineNumber"> 007 </span>                                       จบอรรถกถาสูตรที่  ๑๑
+
+<span class="LineNumber"> 008 </span>                   <H3>อรรถกถาสูตรที่  ๑๒  เป็นต้น</H3> 
+
+<span class="LineNumber"> 009 </span>         ใน<B>สูตรที่  ๑๒</B> (ข้อ ๓๕๔-๓๖๒)   พึงทราบโดยนัยที่กล่าวแล้ว
+<span class="LineNumber"> 010 </span>ในหนหลังนั่นแล.
+<span class="LineNumber"> 011 </span>                                 จบอรรถกถาสูตรที่  ๑๒ เป็นต้น
+<span class="LineNumber"> 012 </span>                                              <I>จบพาลวรรคที่ ๕</I>
+<span class="LineNumber"> 013 </span>                                             <B>จบทุติยปัณณาสก์</B>

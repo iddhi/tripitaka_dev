@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>                        <H2>อายาจนวรรคที่  ๒</H2>
+
+<span class="LineNumber"> 002 </span>                                        <H3>สูตรที่  ๑</H3>
+
+<span class="LineNumber"> 003 </span>         [๓๗๕]  ๑๒๙. ดูก่อนภิกษุทั้งหลาย  ภิกษุผ้มีศรัทธา  เมื่ออ้อนวอน
+<span class="LineNumber"> 004 </span>โดยชอบ     พึงอ้อนวอนอย่างนี้ว่า     ขอเราจงเป็นเช่นพระสารีบุตรและ
+<span class="LineNumber"> 005 </span>พระโมคคัลลานะเถิด      ดูก่อนภิกษุทั้งหลาย      ภิกษุสารีบุตรและภิกษุ
+<span class="LineNumber"> 006 </span>โมคคัลลานะนี้  เป็นตราชูมาตรฐานของภิกษุสาวกของเรา.
+<span class="LineNumber"> 007 </span>                                               จบสูตรที่  ๑
+
+<span class="LineNumber"> 008 </span>                                        <H3>สูตรที่ ๒</H3>
+
+<span class="LineNumber"> 009 </span>         [๓๗๖]   ๑๓๐.  ดูก่อนภิกษุทั้งหลาย  นางภิกษุณีผู้มีศรัทธา  เมื่อ
+<span class="LineNumber"> 010 </span>อ้อนวอนโดยชอบ  พึงอ้อนวอนอย่างนี้ว่า    ขอเราจงเป็นเช่นภิกษุณีเขมา
+<span class="LineNumber"> 011 </span>และอุบลวรรณาเถิด    ดูก่อนภิกษุทั้งหลาย    ภิกษุณีเขมาและภิกษุณีอุบล-
+<span class="LineNumber"> 012 </span>วรรณานี้   เป็นตราชูมาตรฐานของภิกษุณีสาวิกาของเรา.
+<span class="LineNumber"> 013 </span>                                                 จบสูตรที่  ๒
+
+<span class="LineNumber"> 014 </span>                                         <H3>สูตรที่  ๓</H3>
+
+<span class="LineNumber"> 015 </span>         [๓๗๗]  ๑๓๑.    ดูก่อนภิกษุทั้งหลาย   อุบาสกผู้มีศรัทธา   เมื่อ
+<span class="LineNumber"> 016 </span>อ้อนวอนโดยชอบ  พึงอ้อนวอนอย่างนี้ว่า  ขอเราจงเป็นเช่นจิตตคฤหบดี
+<span class="LineNumber"> 017 </span>และหัตถกอุบาสกชาวเมืองอาฬวีเถิด  ดูก่อนภิกษุทั้งหลาย    จิตตคฤหบดี
+<span class="LineNumber"> 018 </span>และหัตถกอุบาสกชาวเมืองอาฬวีนี้     เป็นตราชูมาตรฐานของอุบาสกสาวก
+<span class="LineNumber"> 019 </span>ของเราแล.
+<span class="LineNumber"> 020 </span>                                                    จบสูตรที่  ๓

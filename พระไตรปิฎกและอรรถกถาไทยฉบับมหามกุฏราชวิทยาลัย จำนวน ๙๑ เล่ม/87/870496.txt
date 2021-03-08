@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>การนับจำนวนวาระในอนุโลม</H1> 
+<span class="LineNumber"> 002 </span>           [๑๖๗๑]  ในเหตุปัจจัย  มี ๓ วาระ  ในอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 003 </span>ฯลฯ  ในกัมมปัจจัย มี ๓ วาระ ในวิปากปัจจัย มี ๑  วาระ ในอาหารปัจจัย
+<span class="LineNumber"> 004 </span>มี ๓ วาระ ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 005 </span>           พึงนับอย่างนี้.
+      
+<span class="LineNumber"> 006 </span>                                           <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 007 </span>                                        <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 008 </span>           [๑๖๗๒] ๑. <B>อนิยตธรรม เจือกับอนิยตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 009 </span>นเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอนิยตธรรม ซึ่งเป็นอเหตุกะ ฯลฯ
+<span class="LineNumber"> 011 </span>ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 012 </span>           ในอเหตุกปฏิสนธิขณะ ฯลฯ
+
+<span class="LineNumber"> 013 </span>                                       <H1>๒.  นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           [๑๖๗๓] ๑.  <B>มิจฉัตตนิยตธรรม  เจือกับมิจฉัตตนิยตธรรม
+<span class="LineNumber"> 015 </span>เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  อธิปติธรรมที่เป็นมิจฉัตตนิยตธรรม  เจือกับขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 017 </span>มิจฉัตตนิยตธรรม.

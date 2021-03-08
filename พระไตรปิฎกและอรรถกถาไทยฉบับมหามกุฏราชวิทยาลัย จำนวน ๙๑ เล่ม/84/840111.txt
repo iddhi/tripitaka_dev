@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ไม่ชื่อว่าอินทรีย์,  ไม่ชื่อว่า  อัญญินทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 002 </span>                 <I>จบ  น  จักขุนทริยมูละ   น  อัญญินทริยมูลี</I>
+  
+<span class="LineNumber"> 003 </span><B>น  จักขุนทริยมูละ  น  อัญญาตาวินทริยมูลี :-</B>
+<span class="LineNumber"> 004 </span>         ธรรมที่ไม่ชื่อว่าจักขุ,  ไม่ชื่อว่า   จักขุนทรีย์   ใช่ไหม  ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ธรรมที่ไม่ชื่อว่าอินทรีย์  ไม่ชื่อว่า  อัญญาวินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>           <I>จบ  น  จักขุนทริยมูละ  น   อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 009 </span>                               <I>น จักขุนทริยมูลี  จบ</I>

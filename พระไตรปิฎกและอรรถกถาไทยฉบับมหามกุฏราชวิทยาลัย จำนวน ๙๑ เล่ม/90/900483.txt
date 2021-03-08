@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>					  <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 002 </span>			<H2>การนับจำนวนวาระในปัจจนียะ</H2> 
+<span class="LineNumber"> 003 </span>		[๑๔๒๙]  ในนอธิปติปัจจัย  มี ๕ วาระ     ในนปุเรชาตปัจจัย  มี ๕
+<span class="LineNumber"> 004 </span>วาระ  ในนปัจฉาชาตปัจจัย มี ๕ วาระ   ในนอาเสวนปัจจัย มี ๕ วาระ   ในน
+<span class="LineNumber"> 005 </span>กัมมปัจจัย  มี ๓ วาระ   ในนวิปากปัจจัย มี ๕ วาระ     ในนวิปปยุตตปัจจัย มี
+<span class="LineNumber"> 006 </span>๕  วาระ.
+<span class="LineNumber"> 007 </span>         	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  พึงให้พิสดาร.
+
+<span class="LineNumber"> 008 </span>                           	    <H1>กุศลบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 009 </span>                          		 <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 010 </span>                                         <H2>๑. เหตุปัจจัย</H2> 
+<span class="LineNumber"> 011 </span>		[๑๔๓๐]     ๑.  กุศลธรรมที่ไม่ใช่จิต     เป็นปัจจัยแก่อกุศลธรรม
+<span class="LineNumber"> 012 </span>ที่ไม่ใช่จิต  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 013 </span>                   		๒.  กุศลธรรมที่ไม่ใช่จิต     เป็นปัจจัยแก่กุศลธรรม
+<span class="LineNumber"> 014 </span>ที่เป็นจิต  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 015 </span>                   		๓.  กุศลธรรมที่ไม่ใช่จิต     เป็นปัจจัยแก่กุศลธรรม
+<span class="LineNumber"> 016 </span>ที่เป็นจิต  และกุศลธรรมที่ไม่ใช่จิต  ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 017 </span>                       	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 018 </span>		[๑๔๓๑]  ในเหตุปัจจัย มี ๓ วาระ    ในอารัมมณปัจจัย   มี ๙ วาระ
+<span class="LineNumber"> 019 </span>ในอธิปติปัจจัย มี ๙ วาระ   ในอนันตรปัจจัย มี ๙ วาระ ฯลฯ ในสหชาตปัจจัย
+<span class="LineNumber"> 020 </span>มี ๕ วาระ ฯลฯ   ในนิสสยปัจจัย มี ๕ วาระ    ในอุปนิสสยปัจจัย  มี  ๙ วาระ

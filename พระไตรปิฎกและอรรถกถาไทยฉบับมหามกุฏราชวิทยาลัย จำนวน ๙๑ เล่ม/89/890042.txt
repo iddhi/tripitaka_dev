@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๓.  นอธิปติปัจจัย</H2>
+<span class="LineNumber"> 002 </span>         [๔๕] ๑.  <B>ธรรมที่ไม่ใช่จิต    อาศัยธรรมที่เป็นจิต    เกิดขึ้น  
+<span class="LineNumber"> 003 </span>เพราะนอธิปติปัจจัย</B>  มี ๕ วาระ.
+<span class="LineNumber"> 004 </span>         <H1>๔.  นอนันตรปัจจัย ฯลฯ  ๗. นอุปนิสสยปัจจัย</H1>
+<span class="LineNumber"> 005 </span>         <B>เพราะนอนันตรปัจจัย ฯลฯ  เพราะนอุปนิสสยปัจจัย</B> มี ๓ วาระ.
+
+<span class="LineNumber"> 006 </span>                                  <H2>๘. นปุเรชาตปัจจัย</H2>
+<span class="LineNumber"> 007 </span>         [๔๖] ๑.  <B>ธรรมที่ไม่ใช่จิต    อาศัยธรรมที่เป็นจิต  เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 009 </span>         คือ  ในอรูปภูมิ     สัมปยุตตขันธ์ทั้งหลาย    อาศัยจิต.
+<span class="LineNumber"> 010 </span>         จิตตสมุฏฐานรูป  อาศัยจิต.
+<span class="LineNumber"> 011 </span>         ในปฏิสนธิขณะ  สัมปยุตตขันธ์  และกฏัตตาปัจจัย  อาศัยจิต.
+<span class="LineNumber"> 012 </span>                  ๒.  <B>ธรรมที่ไม่ใช่จิต    อาศัยธรรมที่ไม่ใช่จิต   เกิดขึ้น
+<span class="LineNumber"> 013 </span>เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 014 </span>         คือ  ในอรูปภูมิ  ขันธ์ ๒  อาศัยขันธ์ ๑  ที่ไม่ใช่จิต ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 015 </span>         จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่ไม่ใช่จิต.
+<span class="LineNumber"> 016 </span>         ในปฏิสนธิขณะ ฯลฯ   ตลอดถึงอสัญญสัตว์.
+<span class="LineNumber"> 017 </span>                  ๓.  <B>ธรรมที่เป็นจิต    อาศัยธรรมที่ไม่ใช่จิต  เกิดขึ้น
+<span class="LineNumber"> 018 </span>เพราะนปุเรชาตปัจจัย</B>

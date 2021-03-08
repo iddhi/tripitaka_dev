@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>              ๔.  โคตรภู เป็นปัจจัยแก่มรรค ด้วยอำนาจของอาเสวนปัจจัย. 
+<span class="LineNumber"> 002 </span>              ๕.   โวทาน     เป็นปัจจัยแก่มรรค    ด้วยอำนาจของอาเสวน
+<span class="LineNumber"> 003 </span>ปัจจัย.
+<span class="LineNumber"> 004 </span> <B>[๕๖๓] ๒.  อกุศลธรรม  เป็นปัจจัยแก่อกุศลธรรม   ด้วยอำนาจ
+<span class="LineNumber"> 005 </span>ของอาเสวนปัจจัย</B> 
+<span class="LineNumber"> 006 </span>           คือ  อกุศลขันธ์ที่เกิดก่อน ๆ   เป็นปัจจัยแก่อกุศลขันธ์ที่เกิดหลัง ๆ
+<span class="LineNumber"> 007 </span>ด้วยอำนาจของอาเสวนปัจจัย.
+<span class="LineNumber"> 008 </span> <B>[๕๖๔] ๓.  อัพยากตธรรม  เป็นปัจจัยแก่อัพยากตธรรม   ด้วย
+<span class="LineNumber"> 009 </span>อำนาจของอาเสวนปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ขันธ์ทั้งหลาย  ที่เป็นอัพยากตกิริยาที่เกิดก่อน ๆ   เป็นปัจจัย
+<span class="LineNumber"> 011 </span>แก่ขันธ์ทั้งหลาย ที่เป็นอัพยากตกิริยาที่เกิดหลัง ๆ ด้วยอำนาจของอาเสวน-
+<span class="LineNumber"> 012 </span>ปัจจัย.  
+
+<span class="LineNumber"> 013 </span>                               <H1>อรรถกถาอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 014 </span>           ในการถือเอาคำเป็นต้นว่า <B>อนุโลมํ โคตฺรภุสฺส</B>  อนุโลมเป็นปัจจัย 
+<span class="LineNumber"> 015 </span>แก่โคตรภู     ใน <B>อาเสวนปัจจัย</B>    แยกออกไปส่วนหนึ่ง    พึงทราบเหตุ
+<span class="LineNumber"> 016 </span>แห่งการแยกไปนั้น  โดยนัยที่กล่าวไว้ในหนหลังนั่นแหละ.
+<span class="LineNumber"> 017 </span>                              <I>อรรถกถาอาเสวนปัจจัย  จบ</I> 

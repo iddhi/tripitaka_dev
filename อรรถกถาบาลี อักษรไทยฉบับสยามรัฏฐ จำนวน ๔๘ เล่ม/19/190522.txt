@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๑๙  หน้า  ๕๒๒
+		
+<span class="LineNumber"> 002 </span>		ทุติยนานาติตฺถิยสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	ปฺจเม  สสฺสโต  อตฺตา  จ  โลโก  จาติ  รูปาทีสุ  
+<span class="LineNumber"> 004 </span>อฺตรํ  อตฺตาติ  จ  โลโกติ  จ  สงฺคเหตฺวา  ตํ  สสฺสโต
+<span class="LineNumber"> 005 </span>นิจฺโจติ(๑)  อฺเปิ  จ  ตถา  คาเหนฺตา  โวหรนฺติ  ยถาห  
+<span class="LineNumber"> 006 </span>	รูปํ  อตฺตา  เจว  โลโก  จ  สสฺสโต  จาติ  อตฺตานฺจ  
+<span class="LineNumber"> 007 </span>โลกฺจ  ปฺเปนฺติ  เวทนํ  สฺํ  สงฺขาเร(๒)  วิฺาณํ  
+<span class="LineNumber"> 008 </span>อตฺตา  จ  โลโก  จ  สสฺสโต  จาติ  อตฺตานฺจ  โลกฺจ  
+<span class="LineNumber"> 009 </span>ปฺเปนฺตีติ ฯ  อถ  วา  อตฺตาติ  อหงฺการวตฺถุ  โลโกติ  
+<span class="LineNumber"> 010 </span>มมงฺการวตฺถุ  ยํ  อตฺตนิยนฺติ  วุจฺจติ ฯ  อตฺตาติ  วา  อยํ(๓)  โลโกติ  
+<span class="LineNumber"> 011 </span>ปโร ฯ  อตฺตาติ  วา  ปฺจสุ  อุปาทานกฺขนฺเธสุ  เอโก  ขนฺโธ  
+<span class="LineNumber"> 012 </span>อิตโร  โลโก ฯ  อตฺตาติ  วา  สวิฺาณโก  ขนฺธสนฺตาโน  
+<span class="LineNumber"> 013 </span>อวิฺาณโก  โลโก ฯ  เอวํ  ตนฺตํ  อตฺตาติ  จ  โลโกติ  จ  
+<span class="LineNumber"> 014 </span>ยถาทสฺสนํ  ทฺวิธา  คเหตฺวา  ตทุภยํ  นิจฺโจ  ธุโว  สสฺสโตติ
+<span class="LineNumber"> 015 </span>อภินิวิสฺส  โวหรนฺติ ฯ  เอเตน  จตฺตาโร  สสฺสตวาทา  ทสฺสิตา ฯ
+<span class="LineNumber"> 016 </span>อสสฺสโตติ  สตฺตปิ  อุจฺเฉทวาทา  ทสฺสิตา ฯ  สสฺสโต  จ  
+<span class="LineNumber"> 017 </span>อสสฺสโต  จาติ  เอกจฺโจ  อตฺตา  จ  โลโก  จ  สสฺสโต  
+<span class="LineNumber"> 018 </span>เอกจฺโจ  อสสฺสโตติ  เอวํ  สสฺสโต  จ  อสฺสโต  จาติ  อตฺโถ ฯ
+<span class="LineNumber"> 019 </span>อถ  วา  เสฺวว  อตฺตา  จ  โลโก  จ  อตฺตคติทิฏฺ€ิกานํ(๔)  วิย  
+<span class="LineNumber"> 020 </span>สสฺสโต  จ  อสสฺสโต  จ  สิยา  สสฺสโตติ  เอวเมตฺถ  อตฺโถ  
+<span class="LineNumber"> 021 </span>#  ๑.  ม.  สสฺสตํ  นิจฺจนฺติ ฯ  ๒.  ม.  สงฺขารํ ฯ  
+<span class="LineNumber"> 022 </span>#  ๓.  ม.  สยํ ฯ  ๔.  สี.  อตฺตภงฺคทิฏฺ€ิกานํ ฯ

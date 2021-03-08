@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>                                      <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>กายสังขารมูล</H1> 
+<span class="LineNumber"> 003 </span><H2>กายสังขารมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๑๑๘๗]   กายสังขารไม่ใช่กำลังเกิดแก่บุคคลใดในภูมิใด,  ฯลฯ
+<span class="LineNumber"> 005 </span>         แม้ในปุคคโลกาสวาระ ก็เป็นเช่นเดียวกันกับปุคคลวาระ  คำว่า
+<span class="LineNumber"> 006 </span><B>นิโรธสมาปนฺนานํ</B> - บุคคลที่กำลังเข้านิโรธสมาบัติอยู่    ย่อมไม่ได้ใน
+<span class="LineNumber"> 007 </span>ปุคคโลกาสวาระ.
+<span class="LineNumber"> 008 </span>                                   <I>กายสังขารมูล  จบ</I>
+<span class="LineNumber"> 009 </span>                                <I>ปุคคโลกาสวาระ   จบ</I>
+<span class="LineNumber"> 010 </span>                                 <I>ปัจจุปปันนวาระ  จบ</I>

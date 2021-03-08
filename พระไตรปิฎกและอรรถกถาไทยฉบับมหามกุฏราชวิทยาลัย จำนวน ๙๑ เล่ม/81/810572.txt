@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H1>ฌานสังกันติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๕๐]  <B>สกวาที</B>  โยคีบุคคลเลื่อนสู่ฌานหนึ่ง  จากฌานหนึ่ง  หรือ  ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. เลื่อนสู่ตติยฌาน จากปฐมฌานได้ หรือ ?
+<span class="LineNumber"> 005 </span>                       ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 006 </span>                       ส. โยคีบุคคลเลื่อนสู่ฌานหนึ่ง     จากฌานหนึ่ง    หรือ ?
+<span class="LineNumber"> 007 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                       ส. เลื่อนสู่จตุตถฌาน จากทุติยฌานได้ หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 010 </span>         [๑๗๕๑]  ส. เลื่อนสู่ทุติยฌาน จากปฐมฌาน หรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ส. ความนึก  ฯลฯ  ความตั้งใจ  อันใด   เพื่อความเกิดขึ้น
+<span class="LineNumber"> 013 </span>แห่งปฐมฌาน   ความนึก  ฯลฯ   ความตั้งใจอันนั้น   เพื่อความเกิดขึ้นแห่ง
+<span class="LineNumber"> 014 </span>ทุติยฌาน หรือ ?
+<span class="LineNumber"> 015 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 016 </span>                       ส. โยคีบุคคลเคลื่อนทุติยฌาน    จากปฐมฌานแล    แต่
+<span class="LineNumber"> 017 </span>ไม่พึงกล่าวว่า   ความนึก   ฯลฯ   ความตั้งใจอันใด    เพื่อความเกิดขึ้นแห่ง
+<span class="LineNumber"> 018 </span>ปฐมฌาน   ความนึก   ฯลฯ   ความตั้งใจอันนั้นแล   เพื่อความเกิดขึ้นแห่ง
+<span class="LineNumber"> 019 </span>ทุติยฌาน หรือ  ?
+<span class="LineNumber"> 020 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 021 </span>                       ส. ทุติยฌาน  เกิดขึ้นได้แก่โยคีบุคคลผู้ไม่นึกถึงอยู่  ฯลฯ
+<span class="LineNumber"> 022 </span>เกิดขึ้นแก่โยคีบุคคลผู้ไม่ตั้งใจอยู่  หรือ ?

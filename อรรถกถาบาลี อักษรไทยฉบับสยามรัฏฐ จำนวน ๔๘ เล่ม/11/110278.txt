@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  นิทานวคฺควณฺณนา  หน้า  ๒๗๘
+
+<span class="LineNumber"> 002 </span>สฺายตนํ  สมติกฺกมฺม  สฺาเวทยิตนิโรธนฺติ  เอวํ  นิโรธ-
+<span class="LineNumber"> 003 </span>สมาปตฺติ อเนกวิหิตํ  อิทฺธิวิธนฺติอาทินา  นเยน  ปฺจ  โลกิกา  
+<span class="LineNumber"> 004 </span>อภิฺา  จ  วุตฺตา ฯ  ตตฺถ ยํ  วตฺตพฺพํ  สิยา  ตํ  สพฺพํ  
+<span class="LineNumber"> 005 </span>อนุปทวณฺณนาย  เจว  ภาวนาวิธาเนน  จ  สทฺธึ  วิสุทฺธิมคฺเค 
+<span class="LineNumber"> 006 </span>วิตฺถาริตเมว ฯ  ฉฬภิฺาย  ปน  อาสวานํ  ขยาติ  อาสวานฺติ
+<span class="LineNumber"> 007 </span>อาสวานํ อปจฺจยภูตํ ฯ  เจโตวิมุตฺตินฺติ  อรหตฺตผลสมาธึ ฯ 
+<span class="LineNumber"> 008 </span>ปฺาวิมุตฺตินฺติ อรหตฺตผลปฺํ ฯ 
+<span class="LineNumber"> 009 </span>				นวมํ ฯ
+
+<span class="LineNumber"> 010 </span>			อุปสฺสยสุตฺตวณฺณนา           
+<span class="LineNumber"> 011 </span>	ทสเม  อายาม  ภนฺเตติ  กสฺมา  ภิกฺขุนีอุปสฺสยคมนํ  
+<span class="LineNumber"> 012 </span>ยาจติ  น  ลาภสกฺการเหตุ  กมฺมฏฺ€านตฺถิกา  ปเนตฺถ  
+<span class="LineNumber"> 013 </span>ภิกฺขุนิโย อตฺถิ ตา จ เนสํ(๑)  อุสฺสุกฺกาเปตฺวา กมฺมฏฺ€านํ  
+<span class="LineNumber"> 014 </span>กถาเปสฺสามีติ  ยาจติ ฯ  นนุ   สยมฺปิ  (๒)  พหุสฺสุโต
+<span class="LineNumber"> 015 </span>กึ  สยํ  กเถตุํ  น  สกฺโกตีติ  โน  น  สกฺโกติ ฯ  พุทฺธ-
+<span class="LineNumber"> 016 </span>ปฏิภาคสฺส ปน  สาวกสฺส  กถํ  สทฺธาตพฺพํ  มฺิสฺสนฺตีติ 
+<span class="LineNumber"> 017 </span>ยาจติ ฯ พหุกิจฺโจ ตฺวํ พหุกรณีโยติ กึ  เถโร  นวกมฺมาทิ-
+<span class="LineNumber"> 018 </span>ปสุโต  เยน  นํ  เอวมาหาติ  โน  สตฺถริ  ปน  ปรินิพฺพุเต  
+<span class="LineNumber"> 019 </span>จตสฺโส  ปริสา  อานนฺทตฺเถรํ  อุปสงฺกมิตฺวา  ภนฺเต  อิทานิ  
+<span class="LineNumber"> 020 </span># ๑. อฺตฺถ จ เนสนฺติ นตฺถิ ฯ  ๒. ม. นนุ จ โส สยมฺปิ ฯ

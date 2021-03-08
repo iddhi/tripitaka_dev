@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         พึงใส่ให้เต็ม,   ปฏิสนธิไม่มี. 
+<span class="LineNumber"> 002 </span>                                           <H1>นฌานปัจจัย</H1> 
+<span class="LineNumber"> 003 </span>         [๔๗๖]  ๑.  <B>สุขสหคตธรรม  อาศัยสุขสหคตธรรม  เกิดขึ้น
+<span class="LineNumber"> 004 </span>เพราะนฌานปัจจัย</B>
+<span class="LineNumber"> 005 </span>         คือ ขันธ์ ๒ อาศัยขันธ์ ๑ ที่สหรคตด้วยกายวิญญาณ ที่เป็นสุขสหคต-
+<span class="LineNumber"> 006 </span>ธรรม,   ขันธ์ ๑ อาศัยขันธ์ ๒.
+<span class="LineNumber"> 007 </span>         [๔๗๗]  ๒.  <B>อุเบกขาสหคตธรรม   อาศัยอุเบกขาสหคตธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะนฌานปัจจัย</B>                            
+<span class="LineNumber"> 009 </span>         คือ  ขันธ์ ๒ อาศัยขันธ์ ๑ ที่สหรคตด้วยจตุวิญญาณ,  ขันธ์ ๑ อาศัย
+<span class="LineNumber"> 010 </span>ขันธ์ ๒.
+<span class="LineNumber"> 011 </span>         <B>เพราะนมัคคปัจจัย</B>    เหมือนกับ   <B>เพราะนเหตุปัจจัย</B>   โมหะไม่มี.
+<span class="LineNumber"> 012 </span>         <B>เพราะนวิปปยุตตปัจจัย.</B>   อรูปปัญหาเท่านั้น   พึงใส่ให้เต็ม.
+
+<span class="LineNumber"> 013 </span>                               <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 014 </span>         [๔๗๘]  ในนเหตุปัจจัย  มี ๑๐ วาระ  ในนอธิปติปัจจัย   มี ๑๐ วาระ
+<span class="LineNumber"> 015 </span>ในนปุเรชาตปัจจัย   มี ๑๐ วาระ    ในนปัจฉาชาตปัจจัย  มี  ๑๐ วาระ   ในน-
+<span class="LineNumber"> 016 </span>อาเสวนปัจจัย  มี  ๑๐ วาระ  ในนกัมมปัจจัย   มี ๑๐ วาระ  ในนวิปากปัจจัย   มี
+<span class="LineNumber"> 017 </span>๑๐ วาระ ในนฌานปัจจัย มี ๒ วาระ ในนมัคคปัจจัย มี ๑๐ วาระ ในนวิปปยุตต-
+<span class="LineNumber"> 018 </span>ปัจจัย   มี  ๑๐วาระ.
+<span class="LineNumber"> 019 </span>         ปัจจนียะ  พึงกระทำให้บริบูรณ์.
+<span class="LineNumber"> 020 </span>                                          <I>ปัจจนียะ  จบ</I>

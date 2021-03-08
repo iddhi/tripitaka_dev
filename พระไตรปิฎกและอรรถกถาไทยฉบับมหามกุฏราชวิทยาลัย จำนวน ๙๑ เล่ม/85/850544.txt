@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>              <B>๔๔.  ปัจจัย ๗</B>   คือ อินทริยะ   สหชาตะ    อัญญมัญญะ
+<span class="LineNumber"> 002 </span>นิสสยะ  อาหาระ  วิปปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.   
+<span class="LineNumber"> 003 </span>              <B>๔๕.  ปัจจัย ๗</B>  คือ อินทริยะ สหชาตะ  นิสสยะ วิปากะ
+<span class="LineNumber"> 004 </span>อาหาระ   อัตถิ   อวิคตปัจจัย   มี ๑ วาระ.
+<span class="LineNumber"> 005 </span>              <B>๔๖.  ปัจจัย ๘</B>   คือ อินทริยะ    สหชาตะ    อัญญมัญญะ
+<span class="LineNumber"> 006 </span>นิสสยะ   วิปากะ  อาหาระ  อัตถิ  อวิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 007 </span>              <B>๔๗.  ปัจจัย ๙</B> คือ อินทริยะ    สหชาตะ    อัญญมัญญะ
+<span class="LineNumber"> 008 </span>นิสสยะ วิปากะ อาหาระ สัมปยุตตะ อัตถิ  อวิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 009 </span>              <B>๔๘.  ปัจจัย ๘</B>  คือ อันทริยะ  สหชาตะ  นิสสยะ วิปากะ
+<span class="LineNumber"> 010 </span>อาหาระ   วิปปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 011 </span>              <B>๔๙.  ปัจจัย ๙</B>  คือ อินทริยะ   สหชาตะ   อัญญมัญญะ
+<span class="LineNumber"> 012 </span>นิสสยะ วิปากะ อาหาระ วิปปยุตตะ อัตถิ  อวิคตปัจจัย  มี ๑ วาระ.
+
+<span class="LineNumber"> 013 </span>                             <H1>สาธิปติมัคคฆฏนา ๖</H1>
+<span class="LineNumber"> 014 </span>              <B>๕๐.  ปัจจัย ๗</B>  คือ อินทริยะ   อธิปติ  สหชาตะ  นิสสยะ
+<span class="LineNumber"> 015 </span>อาหาระ   อัตถิ   อวิคตปัจจัย   มี ๗ วาระ.
+<span class="LineNumber"> 016 </span>              <B>๕๑.  ปัจจัย ๙</B>  คือ อินทริยะ อธิปติ สหชาตะ อัญญมัญญะ
+<span class="LineNumber"> 017 </span>นิสสยะ  อาหาระ  สัมปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>              <B>๕๒.  ปัจจัย ๘</B>  คือ อินทริยะ   อธิปติ  สหชาตะ  นิสสยะ
+<span class="LineNumber"> 019 </span>อาหาระ  วิปปยุตตะ  อัตถิ  อวิคตปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 020 </span>              <B>๕๓.  ปัจจัย ๘</B>  คือ อินทริยะ  อธิปติ  สหชาตะ  นิสสยะ
+<span class="LineNumber"> 021 </span>วิปากะ   อาหาระ   อัตถิ  อวิคตปัจจัย  มี ๑ วาระ.

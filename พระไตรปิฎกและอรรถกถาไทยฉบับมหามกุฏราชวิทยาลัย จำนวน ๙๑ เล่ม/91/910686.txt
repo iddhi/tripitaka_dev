@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       ๕.  <B>นเหตุธรรมที่ไม่ใช่อนุปาทินนุปาทานิยธรรม และ 
+<span class="LineNumber"> 002 </span>นเหตุธรรมที่ไม่ใช่อนุปาทินนอนุปาทานิยธรรม       อาศัยเหตุธรรม  
+<span class="LineNumber"> 003 </span>ที่เป็นอุปาทินนุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>  มี ๕ วาระ.
+<span class="LineNumber"> 004 </span>                       ๖.  <B>นเหตุธรรมที่ไม่ใช่อุปาทินนุปาทานิยธรรม อาศัย
+<span class="LineNumber"> 005 </span>เหตุธรรมที่เป็นอนุปาทินนุปาทานิยธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>มี  ๓  วาระ.
+<span class="LineNumber"> 007 </span>                       ๙.  <B>นเหตุธรรมที่ไม่ใช่อนุปาทินนอนุปาทานิยธรรม
+<span class="LineNumber"> 008 </span>อาศัยเหตุธรรมที่เป็นอนุปาทินนอนุปาทานิยธรรม เกิดขึ้น เพราะเหตุ
+<span class="LineNumber"> 009 </span>ปัจจัย</B>  มี ๕ วาระ.
+<span class="LineNumber"> 010 </span>                                                <B>ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๔๖๙]  ในเหตุปัจจัย มี  ๑๓  วาระ.  ฯลฯ
+
+<span class="LineNumber"> 013 </span>                                            <H2>นเหตุบท</H2>   
+<span class="LineNumber"> 014 </span>           [๔๗๐] ๑. <B>ธรรมที่ไม่ใช่นเหตุธรรม      ที่ไม่ใช่อนุปาทินนุ-
+<span class="LineNumber"> 015 </span>ปาทานิยธรรม  อาศัยนเหตุธรรมที่เป็นอุปาทินนุปาทานิยธรรม  เกิด
+<span class="LineNumber"> 016 </span>ขึ้น  เพราะเหตุปัจจัย</B>   มี  ๓ วาระ.
+<span class="LineNumber"> 017 </span>                                                   <B>ฯลฯ</B>
+
+<span class="LineNumber"> 018 </span>                           <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 019 </span>           [๔๗๑]  ในเหตุปัจจัย มี  ๙  วาระ   ฯลฯ
+<span class="LineNumber"> 020 </span>                    <I>อุปาทินนติกเหตุทุกนอุปาทินนติกนเหตุทุกะ  จบ</I>	

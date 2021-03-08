@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>อตีต  โอกาสวาระ  อนุโลม</H1>
+<span class="LineNumber"> 002 </span>                                       <H1>จักขุนทริยมูล</H1>
+<span class="LineNumber"> 003 </span><B>จักขุนทริยมูละ  โสตินทริยมูลี:-</B>
+<span class="LineNumber"> 004 </span>         [๗๒๙]   จักขุนทรีย์เคยเกิดในภูมิใด,   โสตินทรีย์ก็เคยเกิดใน
+<span class="LineNumber"> 005 </span>ภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ใช่. 
+<span class="LineNumber"> 007 </span>         ก็หรือว่า   โสตินทรีย์เคยเกิดในภูมิใด,   จักขุนทรีย์ก็เคยเกิดใน
+<span class="LineNumber"> 008 </span>ภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                       <I>จบ   จักขุนทริยมูละ  โสตินทริยมูลี</I>
+
+<span class="LineNumber"> 011 </span><B>จักขุนทริยมูละ   ฆานินทริยมูลี:-</B>
+<span class="LineNumber"> 012 </span>         [๗๓๐]   จักขุนทรีย์เคยเกิดในภูมิใด,     ฆานินทรีย์ก็เคยเกิดใน
+<span class="LineNumber"> 013 </span>ภูมินั้น  ใช่ไหม   ?

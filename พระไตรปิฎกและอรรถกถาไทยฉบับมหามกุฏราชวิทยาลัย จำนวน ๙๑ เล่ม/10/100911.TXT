@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>ตรัสไว้เท่าไร  ข้าพเจ้าทั้งหลาย   ขอฟังวิสัย  
+<span class="LineNumber"> 002 </span>                   ของท่านผู้รู้เฉพาะพระวินัย
+<span class="LineNumber"> 003 </span>                             ตอบว่า  กรรมสมบัติ  อันพระพุทธ-
+<span class="LineNumber"> 004 </span>                   เจ้า  ผู้เป็นเผ่าแห่งพระราชาผู้สูงศักดิ์ตรัสไว้
+<span class="LineNumber"> 005 </span>                   ๔ อย่าง  ขอท่านจงพึงวิสัย   ของข้าพเจ้าผู้รู้
+<span class="LineNumber"> 006 </span>                   เฉพาะวินัย.</B>
+
+<span class="LineNumber"> 007 </span>                                        <H2>กรรม  ๖</H2>
+<span class="LineNumber"> 008 </span>                             [๑,๒๘๗]  <B>ถามว่า  กรรม   อันพระ-
+<span class="LineNumber"> 009 </span>                   พุทธเจ้าผู้เป็นเผ่าแห่งพระราชาผู้สูงศักดิ์ตรัส
+<span class="LineNumber"> 010 </span>                   ไว้เท่าไร    ข้าพเจ้าทั้งหลายขอฟังวิสัยของ
+<span class="LineNumber"> 011 </span>                   ท่านผู้รู้เฉพาะพระวินัย
+<span class="LineNumber"> 012 </span>                             ตอบว่า  กรรม  อันพระพุทธเจ้า  ผู้
+<span class="LineNumber"> 013 </span>                   เป็นเผ่าแห่งพระราชาผู้สูงศักดิ์ตรัสไว้   ๖
+<span class="LineNumber"> 014 </span>                   อย่าง     ขอท่านจงฟังวิสัยของข้าพเจ้าผู้รู้
+<span class="LineNumber"> 015 </span>                   เฉพาะ   พระวินัย.</B>
+
+<span class="LineNumber"> 016 </span>                                           <H2>กรรม  ๔</H2>
+<span class="LineNumber"> 017 </span>                             [๑,๒๘๘]  <B>ถามว่า  กรรมอันพระพุทธ-
+<span class="LineNumber"> 018 </span>                   เจ้าผู้เป็นเผ่าแห่งพระราชาผู้สูงศักดิ์ตรัสไว้
+<span class="LineNumber"> 019 </span>                   เท่าไร   ข้าพเจ้าทั้งหลายขอฟังวิสัยของท่าน
+<span class="LineNumber"> 020 </span>                   ผู้รู้เฉพาะพระวินัย</B>

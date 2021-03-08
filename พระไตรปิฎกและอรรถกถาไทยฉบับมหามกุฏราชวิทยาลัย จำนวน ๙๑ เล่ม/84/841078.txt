@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า  บุคคลใดไม่ใช่จักเจริญอัญญินทรีย์,  บุคคลนั้นก็ไม่ใช่
+<span class="LineNumber"> 002 </span>จักละโทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 003 </span>         ใช่.
+<span class="LineNumber"> 004 </span>                     <I>จบ  โทมนัสสินทริยมูละ   อัญญินทริยมูลี</I>
+
+<span class="LineNumber"> 005 </span><B>โทมนัสสินทริยมูละ  อัญญาตาวินทริยมูลี:-</B>
+<span class="LineNumber"> 006 </span>         [๑๓๙๑]   บุคคลใดไม่ใช่จักละโทมนัสสินทรีย์    บุคคลนั้นก็
+<span class="LineNumber"> 007 </span>ไม่ใช่จักกระทำให้แจ้งอัญญาตาวินทรีย์   ใช่ไหม   ?
+<span class="LineNumber"> 008 </span>         บุคคล  ๓  จำพวก   ไม่ใช่จักละโทมนัสสินทรีย์    แต่จักกระทำ
+<span class="LineNumber"> 009 </span>ให้แจ้งอัญญาตาวินทรีย์       บุคคล  ๒ จำพวก   ไม่ใช่จักละโทมนัสสิน- 
+<span class="LineNumber"> 010 </span>ทรีย์   และก็ไม่ใช่จักกระทำให้แจ้งอัญญาตาวินทรีย์.
+<span class="LineNumber"> 011 </span>         ก็หรือว่า         บุคคลใดไม่ใช่จักระทำให้แจ้งอัญญาตาวินทรีย์,
+<span class="LineNumber"> 012 </span>บุคคลนั้นก็ไม่ใช่จักละโทมนัสสินทรีย์  ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ใช่.
+<span class="LineNumber"> 014 </span>                 <I>จบ  โสมนัสสินทริยมูละ   อัญญาตาวินทริยมูลี</I>
+<span class="LineNumber"> 015 </span>                                 <I>โทมนัสสินทริยมูล  จบ</I>

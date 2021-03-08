@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  31  ชมฺพูขาทชาตกํ  หน้า  255 
+
+<span class="LineNumber"> 002 </span>นิพฺพตฺติ ฯ  ตเตฺรโก  กาโก  ชมฺพูสาขาย  นิสินฺโน  ชมฺพูปกฺกานิ 
+<span class="LineNumber"> 003 </span>ขาทติ ฯ  อเถโก  สิคาโล  อาคนฺตฺวา  อุทฺธํ  โอโลเกนฺโต  กากํ  
+<span class="LineNumber"> 004 </span>ทิสฺวา  ยนฺนูนาหํ  อิมสฺส  อภูตคุณกถํ  กเถตฺวา  ชมฺพูปกฺกานิ (๑) 
+<span class="LineNumber"> 005 </span>ขาเทยฺยนฺติ  ตสฺส  วณฺณํ  กเถนฺโต  อิมํ  คาถมาห  
+<span class="LineNumber"> 006 </span>	[๔๘๑]โกยํ  วินฺทุสฺสโร  วคฺคู (๒)	สรวนฺตานมุตฺตโม  
+<span class="LineNumber"> 007 </span>		อจฺจุโต   ชมฺพุสาขาย		โมรจฺฉาโปว   กุชฺชตีติ  (๓) ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  วินฺทุสฺสโรติ  พินฺทุนา  อภิสณฺเฑน  (๔)  ปิณฺฑิเตน  สเรน  
+<span class="LineNumber"> 009 </span>สมนฺนาคโต ฯ  วคฺคูติ  มุทุมธุรสทฺโท (๕) ฯ  อจฺจุโตติ  น  จุโต  
+<span class="LineNumber"> 010 </span>สนฺนิสินฺโน ฯ  โมรจฺฉาโปว  กุชฺชตีติ  ตรุณโมโรว  มนาเปน  
+<span class="LineNumber"> 011 </span>สเรน  โก  นาเมโส  กุชฺชตีติ  วทติ ฯ  
+<span class="LineNumber"> 012 </span>		อถ   นํ   กาโก   ปฏิปสํสนฺโต   ทุติยํ   คาถมาห  
+<span class="LineNumber"> 013 </span>	[๔๘๒] กุลปุตฺโต   ปชานาติ (๖)	กุลปุตฺตํ ปสํสิตุํ  
+<span class="LineNumber"> 014 </span>	       พฺยคฺฆจฺฉาปสทิสวณฺณ (๗)  ภุฺช   สมฺม   ททามิ  เตติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  พฺยคฺฆจฺฉาปสทิสวณฺณาติ  ตฺวํ  มยฺหํ  (๘)  พฺยคฺฆ-
+<span class="LineNumber"> 016 </span>โปตกสมานวณฺโณว   ขายติ   เตน   ตํ   วทามิ   อมฺโภ  
+<span class="LineNumber"> 017 </span>พฺยคฺฆจฺฉาปสทิสวณฺณ ฯ  ภุฺช   สมฺม   ททามิ  เตติ  วยสฺส 
+<span class="LineNumber"> 018 </span>ยาวทตฺถํ  ชมฺพูปกฺกานิ  ขาท  อหนฺเต  ททามีติ ฯ
+<span class="LineNumber"> 019 </span>#  ๑.  ม.  ชมฺพูนิ  ฯ  เอวมุปริปิ  ฯ  ๒  ม.  วคฺคุ  ฯ
+<span class="LineNumber"> 020 </span>#  ๓.  ม.  กูชตีติ  ฯ  เอวมุปริปิ  ฯ  ๔.  ม.  อวิสาเรน  ฯ
+<span class="LineNumber"> 021 </span>#  ๕.  ม.  มธุรสฺทฺโท  ฯ  ๖.  ม.  กุลปุตฺโตว  ชานาติ  ฯ
+<span class="LineNumber"> 022 </span>#  ๗.  ม.  พฺยคฺฆจฺฉาปสรีวณฺณ  ฯ  ๘.  อมฺหากํ  ฯ

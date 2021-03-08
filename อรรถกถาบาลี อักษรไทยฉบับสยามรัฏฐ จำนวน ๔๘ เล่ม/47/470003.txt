@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 47  ขนฺธวิภงฺคนิทฺเทโส หน้า 3
+
+<span class="LineNumber"> 002 </span>วตฺตุํ  วฏฺฏติ ฯ  โลกสฺมึ  หิ  อิณํ  คเหตฺวา  โจทิยมานา  
+<span class="LineNumber"> 003 </span>ทฺวีหิ  ขนฺเธหิ  ทสฺสาม  ตีหิ  ขนฺเธหิ  ทสฺสามาติ  วทนฺติ ฯ  อิติ  
+<span class="LineNumber"> 004 </span>โกฏฺ€าสลกฺขณา  ขนฺธาติปิ  วตฺตุํ  วฏฺฏติ ฯ  เอวเมตฺถ  รูปกฺขนฺโธติ
+<span class="LineNumber"> 005 </span>รูปราสิ  รูปโกฏฺ€าโส ฯ 
+<span class="LineNumber"> 006 </span>	เวทนากฺขนฺโธติ  เวทนาราสิ  เวทนาโกฏฺ€าโสติ  อิมินา
+<span class="LineNumber"> 007 </span>นเยน  สฺากฺขนฺธาทีนํ อตฺโถ เวทิตพฺโพ ฯ  
+<span class="LineNumber"> 008 </span>	เอตฺตาวตา  สมฺมาสมฺพุทฺโธ  ยฺวายํ  จตฺตาโร  จ มหาภูตา 
+<span class="LineNumber"> 009 </span>จตุนฺนฺจ มหาภูตานํ  อุปาทายรูปนฺติ(๑)  อตีตานาคตปจฺจุปฺปนฺนาทีสุ 
+<span class="LineNumber"> 010 </span>เอกาทสสุ โอกาเสสุ วิภตฺโต ปฺจวีสติ  รูปโกฏฺ€าสาติ  จ  
+<span class="LineNumber"> 011 </span>ฉนฺนวุติ  รูปโกฏฺ€าสาติ  จ  เอวมฺปเภโท  รูปราสิ  ตํ  สพฺพํ  
+<span class="LineNumber"> 012 </span>ปริปิณฺฑิตฺวา (๒) รูปกฺขนฺโธ  นามาติ  ทสฺเสติ ฯ(๓)
+<span class="LineNumber"> 013 </span>	โย ปนายํ สุขา เวทนา ทุกฺขา  เวทนา  อทุกฺขมสุขา
+<span class="LineNumber"> 014 </span>เวทนาติ (๔) เตสุเยว  เอกาทสสุ  โอกาเสสุ  วิภตฺโต  จตุภูมิก-
+<span class="LineNumber"> 015 </span>เวทนาราสิ  ตํ  สพฺพํ  ปริปิณฺฑิตฺวา  เวทนากฺขนฺโธ  นามาติ 
+<span class="LineNumber"> 016 </span>ทสฺเสติ ฯ โย  จายํ  จกฺขุสมฺผสฺสชา  สฺา ฯเปฯ มโน-
+<span class="LineNumber"> 017 </span>สมฺผสฺสชา สฺาติ(๕) เตสุเยว เอกาทสสุ  โอกาเสสุ  วิภตฺโต  
+<span class="LineNumber"> 018 </span># ๑. สํ. นิ. ๑๖/๑๔/๔ ฯ สํ. ข. ๑๗/๑๑๙/๗๖ ฯ
+<span class="LineNumber"> 019 </span># ๒. ม. ปริปิณฺเฑตฺวา ฯ  เอวมุปริปิ ฯ  ๓. ม. ทสฺเสสิ ฯ 
+<span class="LineNumber"> 020 </span># เอวมุปริปิ ฯ  ๔. สํ. สฬา. ๑๘/๓๕๙, ๓๘๘ ฃ, ๓๘๙, ๓๙๑, 
+<span class="LineNumber"> 021 </span># ๔๐๓, ๔๐๔, ๔๓๒, ๔๓๙, ๔๔๑, ๔๔๒, ๔๔๕, ๕๐๓/
+<span class="LineNumber"> 022 </span># ๒๕๔, ๒๖๖, ๒๖๘, ๒๗๔, ๒๘๗, ๒๘๘, ๒๘๙, ๒๙๐,
+<span class="LineNumber"> 023 </span># ๒๙๐, ๓๑๔ ฯ สํ. มหา. ๑๙/๘๔/๒๖ ฯ สํ. นิ. ๑๖/๑๑๒/๖๓ ฯ
+<span class="LineNumber"> 024 </span># ๕. อภิ. วิ. ๓๕/๕๔/๓๒ ฯ

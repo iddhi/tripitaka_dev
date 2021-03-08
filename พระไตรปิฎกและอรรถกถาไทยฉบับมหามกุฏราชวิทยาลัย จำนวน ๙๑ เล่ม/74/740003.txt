@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>             		 <H2>อรรถกถาจริยาปิฎก</H2>
+<span class="LineNumber"> 002 </span>                             <H2>ในขุททนิกายชื่อว่าปรมัตถทีปนี</H2>
+<span class="LineNumber"> 003 </span>                               <H4>ขอความนอบน้อมจงมีแด่</H4>
+<span class="LineNumber"> 004 </span>            <H4>พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้า  พระองค์นั้น</H4>
+
+<span class="LineNumber"> 005 </span>                                          <H2>คันถารัมภกถา</H2>
+<span class="LineNumber"> 006 </span>                                            (กถาเริ่มแต่งคัมภีร์)
+<span class="LineNumber"> 007 </span>                      <B>พระจริยาเป็นประโยชน์เกื้อกูลแก่สรรพ
+<span class="LineNumber"> 008 </span>            โลกของพระผู้มีพระภาคเจ้าผู้ทรงแสวงหาคุณ
+<span class="LineNumber"> 009 </span>            ใหญ่พระองค์ใด      ข้าพเจ้าขออภิวาทพระผู้มี-
+<span class="LineNumber"> 010 </span>            พระภาคเจ้าพระองค์นั้น  ผู้มีอานุภาพเป็นอจิน-
+<span class="LineNumber"> 011 </span>            ไตย  ผู้เป็นนายกเลิศของโลก.
+<span class="LineNumber"> 012 </span>                      พระจริยาสมบูรณ์ด้วยวิชชาและจรณะ
+<span class="LineNumber"> 013 </span>            นำสัตว์ออกจากโลกด้วยพระธรรมใด  ข้าพเจ้า
+<span class="LineNumber"> 014 </span>            ขอนมัสการพระธรรมอันอุดมนั้น  อันพระสัม-
+<span class="LineNumber"> 015 </span>            มาสัมพุทธเจ้าทรงบูชาแล้ว. </B>

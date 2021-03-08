@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>            		   <H1>อตีตารัมมณติกสรณทุกะ</H1>   
+<span class="LineNumber"> 002 </span>              <H2>(๑๙. อตีตารัมมณติกะ  ๑๐๐. สรณทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                 	        <H1>สรณบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 004 </span>                          	   <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 005 </span>                                  <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๙๔๔]  ๑.  สรณธรรมที่เป็นอตีตารัมมณธรรม    อาศัยสรณ-
+<span class="LineNumber"> 007 </span>ธรรมที่เป็นอตีตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                        ๒.  สรณธรรมที่เป็นอนาคตารัมมณธรรม อาศัยสรณ-
+<span class="LineNumber"> 009 </span>ธรรมที่เป็นอนาคตารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                        ๓.  สรณธรรมที่เป็นปัจจุปปันนารัมมณธรรม   อาศัย
+<span class="LineNumber"> 011 </span>สรณธรรมที่เป็นปัจจุปปันนารัมมณธรรม   เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 012 </span>		      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๙๔๕]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>สหชาตวาระก็ดี  ฯลฯ   ปัญหาวาระก็ดี   พึงให้พิสดารทุกปัจจัย

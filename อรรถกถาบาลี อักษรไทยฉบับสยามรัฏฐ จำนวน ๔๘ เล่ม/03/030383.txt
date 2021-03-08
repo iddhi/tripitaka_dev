@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๓  ขุทฺทกวตฺถุกฺขนฺธกวณฺณนา หน้า  ๓๘๓
+
+<span class="LineNumber"> 002 </span>สนฺถริ  ฯ  อภพฺโพ  เจส  ปุตฺตปฏิลาภสฺส  ตสฺมา  ภควา 
+<span class="LineNumber"> 003 </span>น  อกฺกมิ  ฯ  ยทิ  อกฺกเมยฺย  ปจฺฉา  ปุตฺตํ  อลภนฺโต  นายํ 
+<span class="LineNumber"> 004 </span>สพฺพฺูติ  ทิฏฺ€ึ  คณฺเหยฺย  อิทนฺตาว  ภควโต  อนกฺกมเน  
+<span class="LineNumber"> 005 </span>การณํ  ฯ  ยสฺมา  ปน  ภิกฺขูปิ  เย  อชานนฺตา  อกฺกเมยฺยุํ  
+<span class="LineNumber"> 006 </span>เต  คิหีนํ  ปริภูตา  ภเวยฺยุํ  ตสฺมา  ภิกฺขู  ปริภวโต  โมเจตุํ 
+<span class="LineNumber"> 007 </span>สิกฺขาปทํ  ปฺาเปสิ  ฯ  อิทํ  สิกฺขาปทปฺาปเน การณํ ฯ
+<span class="LineNumber"> 008 </span>	มงฺคลตฺถาย  ยาจิยมาเนนาติ  อปคตคพฺภา  วา  โหตุ  
+<span class="LineNumber"> 009 </span>ครุคพฺภา  วา  เอวรูเปสุ  €าเนสุ  มงฺคลตฺถาย  ยาจิยมาเนน 
+<span class="LineNumber"> 010 </span>อกฺกมิตุํวฏฺฏติ  ฯ  โธตปาทกนฺนาม  ปาทโธวนฏฺ€าเน  โธเตหิ  
+<span class="LineNumber"> 011 </span>ปาเทหิ  อกฺกมนตฺถาย  ปจฺจตฺถรณํ  อตฺถตํ  โหติ  ตํ  อกฺกมิตุํ-
+<span class="LineNumber"> 012 </span>วฏฺฏติ  ฯ  
+<span class="LineNumber"> 013 </span>  	กตกนฺนาม  ปทุมกณฺณิกาการํ   ปาทฆํสนตฺถํ   กณฺฏเก  
+<span class="LineNumber"> 014 </span>อุฏฺ€าเปตฺวา  กตํ  ตํ  วตฺตํ  วา  โหตุ จตุรสฺสาทิเภทํ 
+<span class="LineNumber"> 015 </span>วา พาหุลฺลิกานุ   โยคตฺตา  ปฏิกฺขิตฺตเมว  เนว  ปฏิคฺคเหตุํ น  
+<span class="LineNumber"> 016 </span>ปริภุฺชิตุํ  วฏฺฏติ  ฯ   
+<span class="LineNumber"> 017 </span>  	สกฺขราติ  ปาสาโณ  วุจฺจติ ฯ  ปาสาณเผนโกปิ  วฏฺฏติ ฯ
+<span class="LineNumber"> 018 </span>  	วิธูปนนฺติ  วีชนี  วุจฺจติ  ฯ  ตาลวณฺฏํ  ปน  ตาลปณฺเณหิ  
+<span class="LineNumber"> 019 </span>วา  กตํ  โหตุ  เวฬุทนฺตวิลิเวหิ  วา  โมรปิฺเชหิ  วา  จมฺมวิกตีหิ   
+<span class="LineNumber"> 020 </span>วา  สพฺพํ  วฏฺฏติ ฯ   
+<span class="LineNumber"> 021 </span>  	มกสวีชนีติ  ทนฺตมยวิสาณมยทณฺฑกาปิ  วฏฺฏติ  ฯ  วากมย-

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                 บาลีแสดงปฏิปทา 
+<span class="LineNumber"> 002 </span>	<B>อปฺปมาทรโต  ภิกฺขุ               ปมาเท  ภยเทสฺสิ  วา
+<span class="LineNumber"> 003 </span>	อภพฺโพ  ปริหานาย                นิพฺพานสฺเสว  สนฺติเก.</B>
+<span class="LineNumber"> 004 </span>	ภิกษุยินดีในไม่ประมาทแล้ว  หรือเห็นภัยในประมาทโดยปกติ
+<span class="LineNumber"> 005 </span>ย่อมเป็นผู้ไม่พอเพื่อเสื่อมรอบ  ย่อมปฏิบัติใกล้นิพพานเทียว.
+<span class="LineNumber"> 006 </span>                              อปฺปมาทวคฺค  ธมฺมปท.<SUP>๑</SUP>
+<span class="LineNumber"> 007 </span>	<B>สตฺถุครุ  ธมฺมครุ                    สงฺเฆ  จ  ติพฺพคารโว
+<span class="LineNumber"> 008 </span>	สมาธิครุ  อาตาปี                   สิกฺขาย  ติพฺพคารโว
+<span class="LineNumber"> 009 </span>	อปฺปมาทครุ  ภิกฺขุ                  ปฏิสนฺถารคารโว
+<span class="LineNumber"> 010 </span>	อภพฺโพ  ปริหานาย                 นิพพานสฺเสว  สนฺติเก.</B>
+<span class="LineNumber"> 011 </span>	ภิกษุหนักในพระศาสดา  หนักในพระธรรม  มีเคารพกล้าใน
+<span class="LineNumber"> 012 </span>พระสงฆ์  มีเพียร  หนักในสมาธิ  มีเคารพกล้าในสิกขา  หนักในไม่
+<span class="LineNumber"> 013 </span>ประมาท  และเคารพในปฏิสันถาร  ย่อมเป็นผู้ไม่พอเพื่อเสื่อมรอบ
+<span class="LineNumber"> 014 </span>ย่อมปฏิบัติใกล้นิพพานเทียว.
+<span class="LineNumber"> 015 </span>                                คารวสูตร  สตฺตกงฺคุตฺตร.<SUP>๒</SUP>
+<span class="LineNumber"> 016 </span>	<B>ยมฺหิ  ฌานญฺจ  ปญฺา  จ   ส  เว  นิพฺพานสนฺติเก.</B>
+<span class="LineNumber"> 017 </span>	ฌานและปัญญามีในผู้ใด  ผู้นั้นปฏิบัติใกล้นิพพาน.
+<span class="LineNumber"> 018 </span>                                 ภิกฺขุวคฺค  ธมฺมปท.<SUP>๓</SUP>
+<span class="LineNumber"> 019 </span>	<B>เต  ฌายิโน  สาตติกา              นิจฺจํ  ทฬฺหปรกฺกมา
+<span class="LineNumber"> 020 </span>	ผุสนฺติ  ธีรา  นิพฺพานํ                โยคกฺเขมํ  อนุตฺตรํ.</B>
+
+<span class='footnote'>๑.  ขุ.  ธ.  ๒๕/๑๙.  ๒.  องฺ.  สตฺตก.  ๒๓/๒๙.  ๓.  ขุ.  ธ.  ๒๕/๖๕.</span>

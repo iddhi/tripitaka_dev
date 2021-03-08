@@ -1,0 +1,10 @@
+﻿<span class="LineNumber"> 001 </span>	              <B>รวมชาดกที่มีในวรรคนี้  คือ</B>
+<span class="LineNumber"> 002 </span>	๑.  โคธชาดก    ๒.  สิคาลชาดก    ๓.  วิโรจนชาดก   ๔.  นัง-
+<span class="LineNumber"> 003 </span>คุฏฐชาดก      ๕.  ราธชาดก     ๖.  กากชาดก    ๗.  ปุปผรัตตชาดก
+<span class="LineNumber"> 004 </span>๘.  สิคาลชาดก    ๙.  เอกปัณณชาดก   ๑๐.  สัญชีวชาดก.
+<span class="LineNumber"> 005 </span>	                 <I>จบ  กกัณฏกวรรคที่  ๑๕</I>
+<span class="LineNumber"> 006 </span>	           <B>รวมชาดกที่มีในเอกนิบาตนี้  คือ</B>
+<span class="LineNumber"> 007 </span>	๕.  อัตถกกามวรรค    ๖.  อาสิงสวรรค   ๗.  อิตถีวรรค   ๘.  วรุณวรรค
+<span class="LineNumber"> 008 </span>๙.  อปายิมหวรรค   ๑๐.  ลิตตวรรค    ๑๑.  ปโรสตวรรค    ๑๒.  หังสิวรรค
+<span class="LineNumber"> 009 </span>๑๓.  กุสินาฬิวรรค   ๑๔.  อสัมปทานวรรค   ๑๕.  กกัณฏกวรรค
+<span class="LineNumber"> 010 </span>		                       <I>จบ  เอกนิบาต</I>		

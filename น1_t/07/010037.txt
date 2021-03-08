@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>				โพธิปักขิยธรรม  
+
+<span class="LineNumber"> 002 </span>			นิวรณ์  ๕			สติปัฏฐาน
+<span class="LineNumber"> 003 </span>							กายานุปัสสนา  -
+<span class="LineNumber"> 004 </span>											-สัมมัปปธาน ๔
+<span class="LineNumber"> 005 </span>							เวทนานุปัสสนา -
+<span class="LineNumber"> 006 </span>											-อิทธิบาท  ๔
+<span class="LineNumber"> 007 </span>							จิตตานุปัสสนา	 -	-อินทรีย์  ๕
+<span class="LineNumber"> 008 </span>											-พละ ๕
+<span class="LineNumber"> 009 </span>							ธัมมานุปัสสนา -	-โพชฌงค์ ๗
+<span class="LineNumber"> 010 </span>											-มรรค  ๘
+
+<span class="LineNumber"> 011 </span><B>วัตถุประสงค์ของการตั้งสติกำหนดพิจารณาเพื่อให้เกิด</B>
+<span class="LineNumber"> 012 </span>	๑.  ความบริสุทธิ์
+<span class="LineNumber"> 013 </span>	๒.  ให้ล่วงพ้นจากความทุกข์เป็นขึ้น ๆ
+<span class="LineNumber"> 014 </span>	๓.  ให้สิ้นทุกข์
+<span class="LineNumber"> 015 </span>	๔.  ให้รู้แจ้งถึงพระนิพพาน
+<span class="LineNumber"> 016 </span><B>การตั้งสติกำหนดพิจารณาในสติปัฏฐาน  ๔</B>
+<span class="LineNumber"> 017 </span>	๑.  พิจารณาตามเห็นทางกาย       เรียกว่า	กายานุปัสสนา
+<span class="LineNumber"> 018 </span>	๒.  พิจารณาตามเห็นทางเวทนา     "	เวทนานุปัสสนา

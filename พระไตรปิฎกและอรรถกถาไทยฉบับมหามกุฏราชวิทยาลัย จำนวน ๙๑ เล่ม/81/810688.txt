@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                   ส. ถูกแล้ว. 
+<span class="LineNumber"> 002 </span>                   ป. พระอรหันต์รู้พุทธวิสัยทั้งปวง หรือ ?
+<span class="LineNumber"> 003 </span>                   ส. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 004 </span>                   ป. ถ้าอย่างนั้น     การที่พระอรหันต์ยังไม่ละสัญโญชน์
+<span class="LineNumber"> 005 </span>บางอย่าง แล้วปรินิพพานก็มีอยู่   น่ะสิ.
+<span class="LineNumber"> 006 </span>                                    <I>ปรินิพพานกถา  จบ</I>
+<span class="LineNumber"> 007 </span>                          <H2>อรรถกถาปรินิพพานกถา</H2>
+<span class="LineNumber"> 008 </span>                               <H2>ว่าด้วย  ปรินิพพาน</H2>
+<span class="LineNumber"> 009 </span>         บัดนี้   ชื่อว่าเรื่องปรินิพพาน.    ในเรื่องนั้น  ชนเหล่าใดมีความเห็น
+<span class="LineNumber"> 010 </span>ผิดดุจลัทธิของนิกายอันธกะทั้งหลายว่า     พระอรหันต์   มีสัญโญชน์ที่ยัง
+<span class="LineNumber"> 011 </span>ไม่ละในวิสัยของพระสัพพญญูพุทธะย่อมปรินิพพานฉะนั้นการปรินิพพาน
+<span class="LineNumber"> 012 </span>โดยไม่ละซึ่งสัญโญชน์อย่างใดอย่างหนึ่งจึงมีอยู่   ดังนี้ คำถามของสกวาที
+<span class="LineNumber"> 013 </span>มุ่งถึงชนเหล่านั้น  คำตอบรับรองเป็นของปรวาที. คำที่เหลือในที่นี้ มีนัยดัง
+<span class="LineNumber"> 014 </span>ที่กล่าวแล้วในหนหลังนั่นแล.
+<span class="LineNumber"> 015 </span>                              <I>อรรถกถาปรินิพพานกถา  จบ</I>

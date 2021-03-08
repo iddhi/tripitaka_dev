@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>               <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+
+<span class="LineNumber"> 002 </span>         ๑.  จตัสสูตร           ๒.  ปุพพสูตร                     ๓.  อจริสูตร
+<span class="LineNumber"> 003 </span>         ๔.  โนเจทสูตร        ๕.  ทุกขสูตร                     ๖.  อภินันทนสูตร
+<span class="LineNumber"> 004 </span>         ๗.  อุปปาทสูตร       ๘.  ปฐมสมณพราหมณสูตร  ๙.  ทุติยสมณพราหมณสูตร
+<span class="LineNumber"> 005 </span>         ๑๐. ตติยสมณพราหมณสูตร
+<span class="LineNumber"> 006 </span>                   <I>จบธาตุสังยุตที่  ๒</I>	 
+
+<span class="LineNumber"> 007 </span>           <H1>อรรถกถาอุปปาทสูตรที่  ๗  เป็นต้น</H1>
+
+<span class="LineNumber"> 008 </span>         ใน  ๓  สูตรสุดท้าย  (สูตรที่  ๘-๙-๑๐)   ท่านกล่าวสัจจะ  ๔
+<span class="LineNumber"> 009 </span>เท่านั้น.
+<span class="LineNumber"> 010 </span>                  <I>จบจตุตถวรรคที่  ๔</I>
+<span class="LineNumber"> 011 </span>                  <I>จบอรรถกถาธาตุสังยุต</I> 

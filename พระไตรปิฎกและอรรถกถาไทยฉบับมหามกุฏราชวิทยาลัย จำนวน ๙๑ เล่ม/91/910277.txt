@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>นมัคคารัมมณติกนกุสลติกะ</H1> 
+<span class="LineNumber"> 002 </span>     <H2>(๑๖.  นมัคคารัมมณติกะ  ๑.  นกุสสติกะ)</H2>	 
+<span class="LineNumber"> 003 </span>                           <H2>กุศลบทปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                 <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>           [๔๑๖] ๑.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่มัคคา-
+<span class="LineNumber"> 007 </span>รัมมณธรรม  ฯลฯ</B>
+<span class="LineNumber"> 008 </span>                       ๒.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่มัคคเหตุก-
+<span class="LineNumber"> 009 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 010 </span>                       ๓.  <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่มัคคาธิปติ-
+<span class="LineNumber"> 011 </span>ธรรม  ฯลฯ</B>
+<span class="LineNumber"> 012 </span>                      <I>นมัคคารัมมณติกนกุสลติกะ จบ</I> 

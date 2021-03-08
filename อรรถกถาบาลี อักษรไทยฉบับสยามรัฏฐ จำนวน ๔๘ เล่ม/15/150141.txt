@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๑๕    หน้า  ๑๔๑
+
+<span class="LineNumber"> 002 </span>					ฉกฺกนิปาตวณฺณนา   
+
+<span class="LineNumber"> 003 </span>				ป€มอาหุเนยฺยสุตฺตวณฺณนา   
+<span class="LineNumber"> 004 </span>					อาหุเนยฺยวคฺควณฺณนา
+<span class="LineNumber"> 005 </span>	ฉกฺกนิปาตสฺส  ป€เม  อิธ  ภิกฺขเว  ภิกฺขูติ  ภิกฺขเว  
+<span class="LineNumber"> 006 </span>อิมสฺมึ  สาสเน ภิกฺขุ ฯ  เนว  สุมโน  โหติ  น  ทุมฺมโนติ  
+<span class="LineNumber"> 007 </span>อิฏฺ€ารมฺมเณ  ราคสหคเตน  โสมนสฺเสน  น(๑)  สุมโน  วา  
+<span class="LineNumber"> 008 </span>อนิฏฺ€ารมฺมเณ  โทสสหคเตน  โทมนสฺเสน  น(๑)  ทุมฺมโน  วา  
+<span class="LineNumber"> 009 </span>โหติ ฯ  อุเปกฺขโก  วิหรติ  สโต  สมฺปชาโนติ  มชฺฌตฺตารมฺมเณ  
+<span class="LineNumber"> 010 </span>อสมเวกฺขเณน  (๒)  อฺานุเปกฺขาย  อุเปกฺขกภาวํ  อนาปชฺชิตฺวา 
+<span class="LineNumber"> 011 </span>สโต  สมฺปชาโน  หุตฺวา  อารมฺมเณ  มชฺฌตฺโต วิหรติ ฯ อิมสฺมึ 
+<span class="LineNumber"> 012 </span>สุตฺเต ขีณาสวสฺส สตตวิหาโร กถิโต ฯ  
+<span class="LineNumber"> 013 </span>					ปฐมํ ฯ
+<span class="LineNumber"> 014 </span>	ทุติเย  อเนกวิหิตํ  อิทฺธิวิธนฺติอาทีนิ  วิสุทฺธิมคฺเค  
+<span class="LineNumber"> 015 </span>วุตฺตาเนว ฯ อาสวานํ  ขยา  อนาสวนฺติ  อาสวานํ  ขเยน  
+<span class="LineNumber"> 016 </span>อนาสวํ  น  จกฺขุวิฺาณาทีนํ  วิย  อภาเวนาติ ฯ  อิมสฺมึ  
+<span class="LineNumber"> 017 </span>สุตฺเต  ขีณาสวสฺส  อภิฺา  ปฏิปาฏิยา  กถิตา ฯ     
+<span class="LineNumber"> 018 </span>					ทุติยํ ฯ
+<span class="LineNumber"> 019 </span>#๑. ม. นสทฺโท นตฺถิ ฯ  ๒. ม. อสมเปกฺขเนน ฯ

@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span> 					<H1>นกามาวจรบทปฏิจจวาระ</H1> 
+<span class="LineNumber"> 002 </span>						<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>					     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>		[๘๑๖]  	๑.  นกามาวจรธรรมที่เป็นกุศลอาศัยนกามาวจรธรรม
+<span class="LineNumber"> 005 </span>ที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>                   		๒.  นกามาวจรธรรมที่เป็นอัพยากตะ    อาศัยนกามา-
+<span class="LineNumber"> 007 </span>วจรธรรมที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย                    
+<span class="LineNumber"> 008 </span>						ฯลฯ
+<span class="LineNumber"> 009 </span>			     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>		[๘๑๗]  ในเหตุปัจจัย   มี ๒ วาระ    ในอารัมมณปัจจัย   มี  ๒ วาระ
+<span class="LineNumber"> 011 </span>ฯลฯ  ในอวิคตปัจจัย  มี ๒ วาระ.
+<span class="LineNumber"> 012 </span>          	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ
+
+<span class="LineNumber"> 013 </span>				<H1>นกามาวจรบทปัญหาวาระ</H1>
+<span class="LineNumber"> 014 </span>					<H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 015 </span>				    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 016 </span>		[๘๑๘]  ๑.  นกามาวจรธรรมที่เป็นกุศล  เป็นปัจจัยแก่นกามา-
+<span class="LineNumber"> 017 </span>วจรธรรมที่เป็นกุศล  ด้วยอำนาจของเหตุปัจจัย

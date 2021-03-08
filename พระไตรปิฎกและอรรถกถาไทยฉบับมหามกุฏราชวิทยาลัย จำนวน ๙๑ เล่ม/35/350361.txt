@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>            แม้ในสูตรที่สองเป็นต้น     ดวงจันทร์    ชื่อว่าจันทาภา   ด้วยอำนาจ  
+<span class="LineNumber"> 002 </span>ส่องแสง.    ดวงจันทร์    ชื่อว่าจันทาโลก   ด้วยอำนาจส่องสว่าง.   ดวงจันทร์
+<span class="LineNumber"> 003 </span>ชื่อว่าจันโทภาส  ด้วยอำนาจเปล่งแสง.   ดวงจันทร์  ชื่อว่าจันทัปปัชโชต  ด้วย
+<span class="LineNumber"> 004 </span>อำนาจส่องโชติช่วง.  เนื้อความในบททั้งปวงพึงทราบอย่างนี้.
+<span class="LineNumber"> 005 </span>                                   <I>จบอรรถกถาอาภาสูตรที่  ๑</I>
+<span class="LineNumber"> 006 </span>                                       <h1>๒. ปภาสูตร</h1>
+<span class="LineNumber"> 007 </span>                               <h2>ว่าด้วยแสง ๔ ประการ</h2>
+<span class="LineNumber"> 008 </span>            [๑๔๒]     ดูก่อนภิกษุทั้งหลาย  แสง  ๔  นี้   ฯลฯ  คือ
+<span class="LineNumber"> 009 </span>      	<B>จนฺทปฺปภา</B>    	แสงดวงจันทร์
+<span class="LineNumber"> 010 </span>  	<B>สุริยปฺปภา</B>		แสงดวงอาทิตย์
+<span class="LineNumber"> 011 </span>    	<B>อคฺคิปฺปภา</B>		แสงไฟ
+<span class="LineNumber"> 012 </span>     	<B>ปญฺาปภา</B>		แสงปัญญา
+<span class="LineNumber"> 013 </span>            นี้แล  แสง   ๔  ประการ  ภิกษุทั้งหลาย บรรดาแสง  ๔  นี้  แสงปัญญา
+<span class="LineNumber"> 014 </span>เป็นเลิศ.
+<span class="LineNumber"> 015 </span>                                            <I>จบปภาสูตรที่  ๒</I>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>อัทธากถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๖๑๕]   <B>สกวาที</B>  อัทธา  คือ  ระยะกาล  เป็นปรินิปผันนะ  ได้แก่
+<span class="LineNumber"> 003 </span>สภาวะที่สำเร็จแล้ว  หรือ ?
+<span class="LineNumber"> 004 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                       ส. เป็นรูป หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. เป็นเวทนา  ฯลฯ  เป็นสัญญา  ฯลฯ   เป็นสังขาร  ฯลฯ
+<span class="LineNumber"> 008 </span>เป็นวิญญาณ หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 010 </span>                       ส. อัทธาส่วนอดีต   เป็นปรินิปผันนะ  หรือ ? 
+<span class="LineNumber"> 011 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                       ส. เป็นไป หรือ ?
+<span class="LineNumber"> 013 </span>                       ส. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 014 </span>                       ป. เป็นเวทนา  ฯลฯ   เป็นสัญญา  ฯลฯ  เป็นสังขาร  ฯลฯ
+<span class="LineNumber"> 015 </span>เป็นวิญญาณ หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 017 </span>                       ส. อัทธาส่วนอนาคต เป็นปรินิปผันนะ หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                       ส. เป็นไป หรือ ?
+<span class="LineNumber"> 020 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 021 </span>                       ส. เป็นเวทนา  ฯลฯ  เป็นสัญญา  ฯลฯ  เป็นสังขาร  ฯลฯ
+<span class="LineNumber"> 022 </span>เป็นวิญญาณ หรือ ?

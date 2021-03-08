@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>๒.  นิโรธวาระ</H1>
+<span class="LineNumber"> 002 </span>                                    <H1>ปัจจุปปันนวาระ</H1>
+<span class="LineNumber"> 003 </span><H1>ปุคคลวาระ  อนุโลม</H1> :- 
+<span class="LineNumber"> 004 </span>         [๑๙๐]  กุศลธรรมกำลังดับแก่บุคคลใด,     อกุศลธรรมก็กำลัง
+<span class="LineNumber"> 005 </span>ดับแก่บุคคลนั้น ใช่ไหม  ?
+<span class="LineNumber"> 006 </span>         ไม่ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่าอกุศลธรรมกำลังดับแก่บุคคลใด,    กุศลธรรมก็กำลังดับ
+<span class="LineNumber"> 008 </span>แก่บุคคลนั้น   ใช่ไหม  ?
+<span class="LineNumber"> 009 </span>         [๑๙๑]  กุศลธรรมกำลังดับแก่บุคคลใด,         อัพยากตธรรมก็
+<span class="LineNumber"> 010 </span>กำลังดับแก่บุคคลนั้น ใช่ไหม  ?
+<span class="LineNumber"> 011 </span>         ในภังคขณะแห่งกุศลจิตในอรูปภูมิ  กุศลธรรมกำลังดับแก่บุคคล
+<span class="LineNumber"> 012 </span>เหล่านั้น  แต่อัพยากตธรรมไม่ใช่กำลังดับแก่บุคคลเหล่านั้น, ในภังคขณะ
+<span class="LineNumber"> 013 </span>แห่งกุศลจิตในปัญจโวการภูมิ  กุศลธรรมก็กำลังดับ     อัพยากตธรรมก็
+<span class="LineNumber"> 014 </span>กำลังดับแก่บุคคลเหล่านั้น.
+<span class="LineNumber"> 015 </span>         ก็หรือว่าอัพยากตธรรมกำลังดับแก่บุคคลใด,     กุศลธรรมก็กำลัง
+<span class="LineNumber"> 016 </span>ดับแก่บุคคลนั้น   ใช่ไหม  ?

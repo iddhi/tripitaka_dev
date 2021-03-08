@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ทุติยวคฺเค ติสฺสตฺเถรคาถาวณฺณนา  หน้า 583
+		
+<span class="LineNumber"> 002 </span>		สาวโก วรุโณ นาม		ปิยทสฺสิสฺส สตฺถุโน  
+<span class="LineNumber"> 003 </span>		วสีสตสหสฺเสหิ		อุปคจฺฉิ วินายกํ ฯ  
+<span class="LineNumber"> 004 </span>		ปิยทสฺสี จ ภควา		โลกเชฏฺโ€ นราสโภ  
+<span class="LineNumber"> 005 </span>		ภิกฺขุสงฺเฆ นิสีทิตฺวา	สิตํ ปาตุกรี ชิโน ฯ  
+<span class="LineNumber"> 006 </span>		อนุรุทฺโธ อุปฏฺ€าโก	ปิยทสฺสิสฺส สตฺถุโน  
+<span class="LineNumber"> 007 </span>		เอกํสํ จีวรํ กตฺวา		อปุจฺฉิตฺถ  มหามุนึ ฯ  
+<span class="LineNumber"> 008 </span>		โก นุ โข ภควา เหตุ	สิตกมฺมสฺส สตฺถุโน  
+<span class="LineNumber"> 009 </span>		การเณ วิชฺชมานมฺหิ	สตฺถา ปาตุกเร สิตํ ฯ  
+<span class="LineNumber"> 010 </span>		สตฺตาหํ ปุปฺผฉทนํ (๑)	โย เม ธาเรสิ มาณโว  
+<span class="LineNumber"> 011 </span>		ตสฺส กมฺมํ สริตฺวาน	สิตํ ปาตุกรึ อหํ ฯ  
+<span class="LineNumber"> 012 </span>		อโนกาสํ(๒) น ปสฺสามิ	ยตฺถ (๓) ปุฺํ วิปจฺจติ  
+<span class="LineNumber"> 013 </span>		เทวโลเก มนุสฺเส วา	โอกาโสว น สมฺมติ ฯ  
+<span class="LineNumber"> 014 </span>		เทวโลเก วสนฺตสฺส	ปุฺกมฺมสมงฺคิโน  
+<span class="LineNumber"> 015 </span>		ยาวตา ปริสา ตสฺส	สาลจฺฉนฺนา ภวิสฺสติ ฯ  
+<span class="LineNumber"> 016 </span>		ตตฺถ ทิพฺเพหิ นจฺเจหิ	คีเตหิ วาทิเตหิ จ  
+<span class="LineNumber"> 017 </span>		รมิสฺสติ สทา สนฺโต	ปุฺกมฺมสมาหิโต ฯ  
+<span class="LineNumber"> 018 </span>		ยาวตา ปริสา ตสฺส	คนฺธคนฺธี  ภวิสฺสติ  
+<span class="LineNumber"> 019 </span>		สาลสฺส ปุปฺผวสฺโส จ	ปวสฺสิสฺสติ  ตาวเท ฯ  
+<span class="LineNumber"> 020 </span>		ตโต จุโตยํ มนุโช		มานุสํ อาคมิสฺสติ  
+<span class="LineNumber"> 021 </span>		อิธาปิ สาลจฺฉทนํ		สพฺพกาลํ ธริสฺสติ(๔) ฯ  
+<span class="LineNumber"> 022 </span># ๑. สฺยา. ปุปฺผฉทนํ ฯ ๒. ยุ. โอกาสาหํ ฯ ๓. สฺยา. ยนฺตํ ฯ
+<span class="LineNumber"> 023 </span># ๔. ยุ. ธริยฺยติ ฯ 

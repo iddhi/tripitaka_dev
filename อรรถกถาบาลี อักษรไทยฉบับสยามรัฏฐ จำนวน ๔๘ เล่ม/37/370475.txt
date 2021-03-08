@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 475
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อฆนฺตนฺติ  ตํ  มหาชเนน  อนุพนฺธนทุกฺขฺเจว  
+<span class="LineNumber"> 003 </span>วนปริโยคาหณทุกฺขฺจ ฯ  อคฺคิหุตฺตนฺติ  อคฺคิชูหนกฺกฏจฺฉุํ ฯ 
+<span class="LineNumber"> 004 </span>โกกา  นํ  ปริวารยุนฺติ  โส  หิ  อรฺํ  ปวิสิตฺวา  วงฺกตปพฺพต-
+<span class="LineNumber"> 005 </span>คามิมคฺคํ  อชานนฺโต  มคฺคมุฬฺโห  หุตฺวา [๑] วิจริ ฯ  อถ  นํ  
+<span class="LineNumber"> 006 </span>อารกฺขณตฺถาย  นิสินฺนสฺส  เจตปุตฺตสฺส  สุนขา  ปริวารยึสูติ  
+<span class="LineNumber"> 007 </span>อตฺโถ ฯ  วิกนฺทิ  โสติ  โส  เอกํ  รุกฺขํ  อารุยฺห  มหนฺเตน
+<span class="LineNumber"> 008 </span>รเวน  กนฺทิ ฯ วิปฺปนฏฺโ€ติ วิปฺปนฏฺ€มคฺโค ฯ  ทูเร  ปนฺถาติ 
+<span class="LineNumber"> 009 </span>วงฺกตปพฺพตคามิปถโต  ทูเร  อปกฺกมิ(๒)  โภคลุทโธติ  โภคลาเภ
+<span class="LineNumber"> 010 </span>ลุทฺโธ (๓)ฯ  อสฺโตติ  ทุสฺสีโล ฯ  วงฺกสฺโสหรเณนตฺโถติ วงฺกต-
+<span class="LineNumber"> 011 </span>ปพฺพตสฺส คมนมคฺเค วิปฺปนฏฺโ€(๔) ฯ  
+<span class="LineNumber"> 012 </span>	โส สุนเขหิ ปริวาริโต รุกฺเข นิสินฺโนว อิมา คา
+<span class="LineNumber"> 013 </span>อภาสถ  
+<span class="LineNumber"> 014 </span>	[๑๑๓๕]โก ราชปุตฺตํ นิสภํ	ชยนฺตมปราชิตํ  
+<span class="LineNumber"> 015 </span>		ภเย เขมสฺส ทาตารํ	โก เม เวสฺสนฺตรํ วิทู  
+<span class="LineNumber"> 016 </span>		โย ยาจตํ ปติฏฺ€าสิ	ภูตานํ ธรณีริว  
+<span class="LineNumber"> 017 </span>		ธรณูปมํ มหาราชํ		โก เม เวสฺสนฺตรํ วิทู  
+<span class="LineNumber"> 018 </span>		โย ยาจตํ คติ อาสิ		วสนฺตีนํ ว สาคโร  
+<span class="LineNumber"> 019 </span>		อุทธูปมํ(๕) มหาราชํ	โก เม เวสฺสนฺตรํ วิทู  
+<span class="LineNumber"> 020 </span># ๑. ม. เอตฺถนฺตเร อรฺเติ ทิสฺสติ ฯ  ๒. ม. ปกฺกามิ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. โภครตฺโต ฯ  ๔. ม. วงฺกปพฺพตสฺส คมนมคฺเค วินฏฺเ€ ฯ 
+<span class="LineNumber"> 022 </span># ๕. ม. ธรณูปมํ ฯ

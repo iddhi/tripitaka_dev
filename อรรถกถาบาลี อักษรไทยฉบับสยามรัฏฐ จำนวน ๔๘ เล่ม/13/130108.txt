@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>				* เล่มที่  ๑๓  หน้า ๑๐๘
+
+<span class="LineNumber"> 002 </span>			กลฺยาณมิตฺตตาทิวคฺควณฺณนา
+<span class="LineNumber"> 003 </span>	อฏฺ€มสฺส  ป€เม กลฺยาณมิตฺตตาติ กลฺยาณา มิตฺตา อสฺสาติ กลฺยาณมิตฺโต
+<span class="LineNumber"> 004 </span>ตสฺส ภาโว กลฺยาณมิตฺตตา ฯ เสสํ วุตฺตปฏิปกฺขนเยน เวทิตพฺพํ ฯ
+<span class="LineNumber"> 005 </span>					ป€มํ ฯ
+<span class="LineNumber"> 006 </span>	ทุติเย  อนุโยโคติ  โยโค ปโยโค ฯ อนนุโยโคติ อโยโค อปฺปโยโค ฯ
+<span class="LineNumber"> 007 </span>อนุโยคาติ  อนุโยเคน ฯ  อนนุโยคาติ อนนุโยเคน ฯ กุสลานํ ธมฺมานนฺติ จตุภูมิกกุสลานํ
+<span class="LineNumber"> 008 </span>ธมฺมานํ ฯ
+<span class="LineNumber"> 009 </span>					ทุติยํ  ฯ
+<span class="LineNumber"> 010 </span>	ตติเย  อุตฺตานตฺถเมว ฯ
+<span class="LineNumber"> 011 </span>					ตติยํ  ฯ
+<span class="LineNumber"> 012 </span>	จตุตฺเถ  โพชฺฌงฺคาติ  พุชฺฌนกสตฺตสฺส  องฺคภูตา  สตฺต ธมฺมา ฯ ยาย วา
+<span class="LineNumber"> 013 </span>ธมฺมสามคฺคิยา  โส  พุชฺฌติ วฏฺฏโต (๑) วา วุฏฺ€าติ จตุสจฺจธมฺมํ วา สจฺฉิกโรติ ฯ
+<span class="LineNumber"> 014 </span>ตสฺสา  โพธิยา  องฺคภูตาติปิ  โพชฺฌงฺคา ฯ  โพชฺฌงฺคาติ  เกนตฺเถน  โพชฺฌงฺคา
+<span class="LineNumber"> 015 </span>พุชฺฌนฺตีติ  โพชฺฌงฺคา  อนุพุชฺฌนฺตีติ  โพชฺฌงฺคา  ปฏิพุชฺฌนฺคีติ (๒) โพชฺฌงฺคา  ฯ
+<span class="LineNumber"> 016 </span>สมฺพุชฺฌนฺคีติ (๕) โพชฺฌงฺคา. โพธาย  สํวตฺตนฺตีติ โพชฺฌงฺคาติ . (๖)  เอวํ ปเนตํ ปทํ
+<span class="LineNumber"> 017 </span>วิภตฺตเมว ฯ
+<span class="LineNumber"> 018 </span>					จตุตฺถํ  ฯ
+<span class="LineNumber"> 019 </span># ๑.ม. สมฺโมหนิทฺทาโต  ฯ  ๒. ม. พุชฺฌนฺตีติ  ฯ  ๓. ม. อนุพุชฺฌนฺตีติ  ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. ปฏิพุชฺฌนฺตีติ  ฯ  ๕. ม. สมฺพุชฺฌนฺตีติ  ฯ  ๖. ขุ. ปฏิ. ๓๑/๕๕๗/๔๖๓  ฯ

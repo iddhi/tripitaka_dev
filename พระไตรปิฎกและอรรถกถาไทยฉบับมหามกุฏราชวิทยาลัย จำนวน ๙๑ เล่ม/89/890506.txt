@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         หทยวัตถุ  ที่เกิดก่อน  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่สหรคตด้วยโลภะที่
+<span class="LineNumber"> 002 </span>เป็นทิฏฐิคตวิปปยุต    และโลภะ   ด้วยอำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 003 </span>                     ๕.  <B>อุปาทานสัมปยุตตธรรม   และอุปาทานวิปปยุตต-
+<span class="LineNumber"> 004 </span>ธรรม   เป็นปัจจัยแก่อุปาทานวิปปยุตตธรรม   ด้วยอำนาจของวิปป-
+<span class="LineNumber"> 005 </span>ยุตตปัจจัย</B>
+<span class="LineNumber"> 006 </span>         มี ๒ อย่าง   คือที่เป็น   <B>สหชาตะ</B>   และ  <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 007 </span>         ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 008 </span>         ขันธ์ทั้งหลาย   ที่สหรคตด้วยโลภะที่เป็นทิฏฐิคตวิปปยุต    และโลภะ
+<span class="LineNumber"> 009 </span>เป็นปัจจัยแก่จิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของวิปปยุตตปัจจัย.
+<span class="LineNumber"> 010 </span>         ที่เป็น  <B>ปัจฉาชาตะ</B>  ฯลฯ
+
+<span class="LineNumber"> 011 </span>                                      <H2>๒๑.  อัตถิปัจจัย</H2>
+<span class="LineNumber"> 012 </span>         [๔๕๔] ๑.  <B>อุปาทานสัมปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 013 </span>สัมปยุตตธรรม    ด้วยอำนาจของอัตถิปัจจัย</B>    มี ๑  วาระ   เหมือนกับ
+<span class="LineNumber"> 014 </span>ปฏิจจวาระ.
+<span class="LineNumber"> 015 </span>                     ๒.  <B>อุปาทานสัมปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 016 </span>วิปปยุตตธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 017 </span>         มี ๒ อย่าง   คือที่เป็น   <B>สหชาตะ</B>   และ   <B>ปัจฉาชาตะ</B> ฯลฯ
+<span class="LineNumber"> 018 </span>                     ๓.  <B>อุปาทานสัมปยุตตธรรม     เป็นปัจจัยแก่อุปาทาน
+<span class="LineNumber"> 019 </span>สัมปยุตตธรรม    และอุปาทานวิปปยุตตธรรม  ด้วยอำนาจของอัตถิ-
+<span class="LineNumber"> 020 </span>ปัจจัย</B>   เหมือนกับปฏิจจวาระ.  

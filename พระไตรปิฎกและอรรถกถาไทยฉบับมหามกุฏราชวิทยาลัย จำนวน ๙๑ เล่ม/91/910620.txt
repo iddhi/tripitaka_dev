@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                       ๓.  <B>ธรรมที่ไม่ใช่รูปีธรรม  ที่ไม่ใช่กุศล  และธรรม  
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่รูปีธรรม  ที่ไม่ใช่อกุศล  อาศัยธรรมที่เป็นรูปีธรรม  ที่เป็น
+<span class="LineNumber"> 003 </span>อัพยากตะ  ฯลฯ</B>  มี ๓  วาระ.
+ 
+<span class="LineNumber"> 004 </span>                                          <H2>อรูปีบท</H2>
+<span class="LineNumber"> 005 </span>                       ๑.  <B>ฯลฯ  อาศัยธรรมที่เป็นอรูปีธรรม  ที่เป็นกุศล
+<span class="LineNumber"> 006 </span>ฯลฯ</B> มี ๓  วาระ.
+<span class="LineNumber"> 007 </span>                       ๔.  <B>ฯลฯ  อาศัยธรรมที่เป็นอรูปีธรรม  ที่เป็นอกุศล
+<span class="LineNumber"> 008 </span>ฯลฯ</B>  มี ๓  วาระ.
+<span class="LineNumber"> 009 </span>                       ๗.  <B>ฯลฯ  อาศัยธรรมที่เป็นอรูปีธรรม  ที่เป็นอัพยา-
+<span class="LineNumber"> 010 </span>กตะ  ฯลฯ</B>  มี ๓  วาระ.
+<span class="LineNumber"> 011 </span>           รวมเป็น  ๙  วาระ.
+<span class="LineNumber"> 012 </span>                    <I>กุสลติกรูปีทุกนกุสลติกนรูปีทุกะ  จบ</I>	

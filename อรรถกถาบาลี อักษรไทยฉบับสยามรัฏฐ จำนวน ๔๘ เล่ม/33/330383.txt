@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  33  มหาวาณิชชาตกํ  หน้า  383
+
+<span class="LineNumber"> 002 </span>		สา จ ฉินฺนาว ปคฺฆริ	มุตฺตาเวฬุริยา พหู  
+<span class="LineNumber"> 003 </span>		รตนํ (๑)  ชาตรูปฺจ	กุตฺติโย ปฏิยานิ จ  
+<span class="LineNumber"> 004 </span>		กาสิกานิ จ วตฺถานิ		อุฏฺฏิยาเนว (๒)  กมฺพลา  
+<span class="LineNumber"> 005 </span>		เต ตตฺถ ภาเร พนฺธิตฺวา	ยาว อิจฺฉึสุ วาณิชา ฯ  
+<span class="LineNumber"> 006 </span>		ปฺจมํ สมจินฺเตสุํ		พาลา โมเหน ปารุตา  
+<span class="LineNumber"> 007 </span>		อิงฺฆสฺส มูลํ (๓) ฉินฺทาม	อปิ ภิยฺโยลภามฺหเส (๔) ฯ  
+<span class="LineNumber"> 008 </span>		สมุฏฺ€หิ (๕)  สตฺถวาโห	ยาจมาโน กตฺชลิ  
+<span class="LineNumber"> 009 </span>		นิโคฺรเธ(๖) กึ อปรชฺฌถ (๗) วาณิชา ภทฺทมตฺถุ เต ฯ  
+<span class="LineNumber"> 010 </span>		วาริหารี (๘) ปุริมา สาขา	อนฺนปานฺจ ทกฺขิณา  
+<span class="LineNumber"> 011 </span>		นาริทา ปจฺฉิมา สาขา	สพฺพกาเม จ อุตฺตรา  
+<span class="LineNumber"> 012 </span>		นิโคฺรเธ(๙) กึ อปรชฺฌถ (๗)  วาณิชา ภทฺทมตฺถุ เต ฯ  
+<span class="LineNumber"> 013 </span>		ยสฺส รุกฺขสฺส ฉายา		นิสีเทยฺย สเยยฺย วา  
+<span class="LineNumber"> 014 </span>		น ตสฺส สาขํ ภฺเชยฺย	มิตฺตทุพฺโภ หิ ปาปโก ฯ  
+<span class="LineNumber"> 015 </span>		เต จ ตสฺส อนาทิตฺวา (๑๐)  เอกสฺส วจนํ พหู  
+<span class="LineNumber"> 016 </span>		นิสฺสิตา(๑๑)  หิ กุ€ารีหิ	มูลโต นํ อุปกฺกมุนฺติ ฯ  
+<span class="LineNumber"> 017 </span>		ตตฺถ  สมิตึ  กตฺวาติ  พาราณสิยํ  สมาคมํ  กตฺวา  พหู  
+<span class="LineNumber"> 018 </span>เอกโต  หุตฺวาติ  อตฺโถ ฯ  ปกฺกมึสูติ  ปฺจหิ  สกฏสเตหิ  
+<span class="LineNumber"> 019 </span>#๑.  สฺยา. ส. ม. รชตํ  ฯ  ๒.  สฺยา. อุทฺธิยานิ  ฯ  ม.  อุทฺทิยานิ ฯ
+<span class="LineNumber"> 020 </span>#สี. ยุ. อุทฺทิยาเน  จ  กมฺพเล  ฯ  ๓.  สฺยา.  มูเล  ฯ  ๔.  สฺยา 
+<span class="LineNumber"> 021 </span>#ลภามเส  ฯ  ๕.  สฺยา. ม. อถุฏฺ€หิ  ฯ  ๖.  สฺยา.  ม.  นิโคฺรโธ  ฯ
+<span class="LineNumber"> 022 </span>#๗.  สฺยา.  ม.  อปรชฺฌติ  ฯ  ๘.  ม.  วาริทา  ฯ  ๙.  นิโคฺรโธ  ฯ
+<span class="LineNumber"> 023 </span>#๑๐.  ม.  ตสฺสานาทิยิตฺวา  ฯ  ๑๑.  สฺยา.  นิสิตา  ฯ

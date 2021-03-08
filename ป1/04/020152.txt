@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                            ๒.  ปญฺจมี    
+<span class="LineNumber"> 002 </span>ป.	ตุ.		อนฺตุ.	ตํ.<SUP>๑</SUP>			อนฺตํ.
+<span class="LineNumber"> 003 </span>ม.	หิ.<SUP>๒</SUP>		     ถ.	สฺส.ุ<SUP>๓</SUP>			วโห.
+<span class="LineNumber"> 004 </span>อุ.	มิ.		     ม.	เอ.		  อามฺหเส.
+<span class="LineNumber"> 005 </span>                            ๓.  สตฺตมี
+<span class="LineNumber"> 006 </span>ป.	เอยฺย.<SUP>๔</SUP>	    เอยฺยุํ.	เอถ.<SUP>๕</SUP>			         เอรํ.
+<span class="LineNumber"> 007 </span>ม.	เอยฺยาสิ.	เอยฺยาถ.	เอโถ.		เอยฺยวฺโห.
+<span class="LineNumber"> 008 </span>อุ.	เอยฺยามิ.	เอยฺยาม.	เอยฺยํ.<SUP>๖</SUP>		เอยฺยามฺเห.
+<span class="LineNumber"> 009 </span>                          ๔.  ปโรกฺขา
+<span class="LineNumber"> 010 </span>ป.	อ.		  อุ.		ตฺถ.			    เร.
+<span class="LineNumber"> 011 </span>ม.	เอ.		ตฺถ.		ตฺโถ.			วฺโห.
+<span class="LineNumber"> 012 </span>อุ.	อํ.	        มฺห.		อึ.			มฺเห.
+<span class="LineNumber"> 013 </span>                         ๕.  หิยตฺตนี
+<span class="LineNumber"> 014 </span>ป.	อา.		  อู.		ตฺถ.			   ตฺถุํ.
+<span class="LineNumber"> 015 </span>ม.	โอ.		ตถ.		เส.			   วฺหํ.
+<span class="LineNumber"> 016 </span>อุ.	อํ.		มฺห.		อึ.			มฺหเส.
+
+<span class='footnote'>๑.  ใช้แทน  ตุ  เช่น  ชยตํ  บ้าง.    ๒.  ลบทิ้ง  เช่น  คจฺฉ  บ้าง.   ๓.  ใช้แทน  หิ เช่น</span>
+<span class='footnote'>กรสฺสุ  บ้าง.   ๔.  ลบ  ยฺย  เสีย  คงไว้แต่  เอ  เช่น  กเร  บ้าง.   ๕.  ใช้แทน  เอยฺย</span>
+<span class='footnote'>เช่น  ลเภถ  บ้าง.  ๖.  ใช้แทน  เอยฺยามิ  เช่น  ปุจฺเฉยฺยํ  บ้าง.</span>
+

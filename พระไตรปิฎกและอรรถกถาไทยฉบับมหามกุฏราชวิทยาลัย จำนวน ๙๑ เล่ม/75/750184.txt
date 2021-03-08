@@ -1,0 +1,32 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>๖๘-๑๔.  อุปาทินนทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>อุปาทินฺนา  ธมฺมา</B>                    ธรรมอันเจตนากรรมที่สัมปยุตด้วย
+<span class="LineNumber"> 003 </span>                                               ตัณหาทิฏฐิเข้ายึดครอง
+<span class="LineNumber"> 004 </span><B>อนุปาทินฺนา ธมฺมา</B>                 ธรรมอันเจตนากรรมที่สัมปยุตด้วย
+<span class="LineNumber"> 005 </span>                                               ตัณหาทิฏฐิไม่เข้ายึดครอง
+
+<span class="LineNumber"> 006 </span>                      <H1>อุปทานโคจฉกะ</H1>
+
+<span class="LineNumber"> 007 </span>          <H1>หมวดที่  ๑๑  มี ๖ ทุกะ</H1>  <B>คือ</B>
+
+<span class="LineNumber"> 008 </span>         [๑๒]     <H2>๖๙-๑.  อุปาทานทุกะ</H2>
+
+<span class="LineNumber"> 009 </span><B>อุปาทานา ธมฺมา</B>                      ธรรมเป็นอุปทาน
+<span class="LineNumber"> 010 </span><B>โน อุปาทานา ธมฺมา</B>                 ธรรมไม่เป็นอุปาทาน
+
+<span class="LineNumber"> 011 </span>                   <H2>๗๐-๒.  อุปาทานิยทุกะ</H2>
+
+<span class="LineNumber"> 012 </span><B>อุปาทานิยา ธมฺมา</B>                 ธรรมเป็นอารมณ์ของอุปทาน
+<span class="LineNumber"> 013 </span><B>อนุปาทานิยา ธมฺมา</B>               ธรรมไม่เป็นอารมณ์ของอุปทาน
+
+<span class="LineNumber"> 014 </span>            <H2>๗๑-๓.  อุปาทานสัมปยุตตทุกะ</H2>
+
+<span class="LineNumber"> 015 </span><B>อุปาทานสมฺปยุตฺตา ธมฺมา</B>      ธรรมสัมปยุตด้วยอุปทาน
+<span class="LineNumber"> 016 </span><B>อุปาทานวิปฺยุตฺตา ธมฺมา</B>         ธรรมวิปปยุตจากอุปทาน
+
+<span class="LineNumber"> 017 </span>           <H2>๗๒-๔.  อุปาทานอุปาทานิยทุกะ</H2>
+
+<span class="LineNumber"> 018 </span><B>อุปาทานา เจว ธมฺมา</B>              ธรรมเป็นอุปาทานและเป็นอารมณ์ของ
+<span class="LineNumber"> 019 </span><B>อุปาทานิยา จ</B>                         อุปาทาน
+<span class="LineNumber"> 020 </span><B>อุปาทานิยา เจว ธมฺมา</B>            ธรรมเป็นอารมณ์ของอุปทาน แต่ไม่
+<span class="LineNumber"> 021 </span><B>โน จ อุปทานา</B>                        เป็นอุปทาน

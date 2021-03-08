@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๑๑๒๓]  ในเหตุปัจจัย  มี  ๒๑  วาระ  ฯลฯ
+<span class="LineNumber"> 003 </span>     <I>นสนิทัสสนติกนวิปากติกสนิทัสสนติกวิปากติกะ  จบ</I> 
+
+<span class="LineNumber"> 004 </span>                           <H1>นสนิทัสสนติกนอุปาทินนติกะ</H1>
+<span class="LineNumber"> 005 </span>                              <H1>สนิทัสสนติกอุปาทินนติกะ</H1>
+<span class="LineNumber"> 006 </span>        <H2>(๒๒. สนิทัสสนติกะ  ๔. อุปาทินนติกะ)</H2>
+<span class="LineNumber"> 007 </span>                                      <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 008 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                 <H2>๑. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 010 </span>                             <H2>อุปาทินนุปาทานิยบท</H2>
+<span class="LineNumber"> 011 </span>           [๑๑๒๔] ๑.  <B>ธรรมที่ไม่ใช่อุปาทินนุปาทานิยธรรม    ที่ไม่ใช่
+<span class="LineNumber"> 012 </span>สนิทัสสนสัปปฏิฆธรรม  เป็นปัจจัยแก่อุปาทินนุปาทานิยธรรม   ที่-
+<span class="LineNumber"> 013 </span>เป็นอนิทัสสนอัปปฏิฆธรรม  ด้วยอำนาจของอารัมมณปัจจัย   ฯลฯ</B>
+<span class="LineNumber"> 014 </span>                                                <B>ฯลฯ</B>
+
+<span class="LineNumber"> 015 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๑๑๒๕]  ในอารัมมณปัจจัย มี  ๖ วาระ   ฯลฯ

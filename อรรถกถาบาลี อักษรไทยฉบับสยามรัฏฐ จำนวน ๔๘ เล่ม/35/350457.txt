@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  มหาสุตโสมชาตกํ  หน้า  457
+
+<span class="LineNumber"> 002 </span>จตฺตาริ สหสฺสานิ ทินฺนานีติ ปุจฺฉิตฺวา สจฺจนฺติ วุตฺเต อาห  
+<span class="LineNumber"> 003 </span>	[๓๔๔]อสีติยา นวุติยา จ คาถา  
+<span class="LineNumber"> 004 </span>		สตารหา จาปิ ภเวยฺยุ คาถา  
+<span class="LineNumber"> 005 </span>		อจฺจนฺตเมว สุตโสม วิชานาหิ  
+<span class="LineNumber"> 006 </span>		สหสฺสิโย นาม กา อตฺถิ คาถาติ ฯ  
+<span class="LineNumber"> 007 </span>	ตตฺถ(๑)  อจฺจนฺตเมวาติ  อตฺตนาว  ชานาหิ ฯ  กา  อตฺถีติ  
+<span class="LineNumber"> 008 </span>กุหึ  อตฺถิ(๑) ฯ  
+<span class="LineNumber"> 009 </span>	อถ  นํ  มหาสตฺโต  นาหํ  ตาว  ธเนน  วุฑฺฒึ  อิจฺฉามิ  
+<span class="LineNumber"> 010 </span>สุเตน  อิจฺฉามีติ สฺาเปนฺโต อาห  
+<span class="LineNumber"> 011 </span>	[๓๔๕]อิจฺฉามิ โวหํ สุตวุฑฺฒิมตฺตโน  
+<span class="LineNumber"> 012 </span>		สนฺโตว(๒) มํ สปฺปุริสา ภเชยฺยุํ  
+<span class="LineNumber"> 013 </span>		อหํ สวนฺตีหิ มโหทธีว  
+<span class="LineNumber"> 014 </span>		น หิ ตาต ตปฺปามิ สุภาสิเตน ฯ  
+<span class="LineNumber"> 015 </span>		อคฺคิ ยถา ติณกฏฺ€ํ ทหนฺโต  
+<span class="LineNumber"> 016 </span>		น ตปฺปติ สาคโรว นทีหิ  
+<span class="LineNumber"> 017 </span>		เอวํปิ เม ปณฺฑิตา ราชเสฏฺ€  
+<span class="LineNumber"> 018 </span>		สุตฺวา น ตปฺปนฺติ สุภาสิเตน ฯ  
+<span class="LineNumber"> 019 </span>		สกสฺส ทาสสฺส ยถา สุโณมิ  
+<span class="LineNumber"> 020 </span>		คาถํ อหํ อตฺถวตึ ชนินฺท  
+<span class="LineNumber"> 021 </span># ๑. ม. ตสฺสตฺโถ คาถา นาม ตาต อาสีติยา ฯ จ นาวุติยา จ
+<span class="LineNumber"> 022 </span>#  สตารหา จาปิ ภเวยฺย ฯ  ปจฺจตฺตเมว อตฺตนาว ชานาหิ ฯ
+<span class="LineNumber"> 023 </span>#  สหสฺสารหา นาม คาถา กา กสฺส สนฺติเก อตฺถีติ ฯ
+<span class="LineNumber"> 024 </span>#  ๒. ม. สนฺโตติ ฯ  สี. ยุ. สนฺโต จ ฯ

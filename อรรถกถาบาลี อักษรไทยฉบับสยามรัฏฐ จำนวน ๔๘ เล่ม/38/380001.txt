@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>					*เล่มที่  38 ํ หน้า  1
+
+<span class="LineNumber"> 002 </span>		สทฺธมฺมปฺปชฺโชติกา  นาม  ขุทฺทกนิกายฏฺ€กถา
+<span class="LineNumber"> 003 </span>					นิทฺเทสวณฺณนา  
+
+<span class="LineNumber"> 004 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>						อารมฺภกถา
+<span class="LineNumber"> 006 </span>		อวิชฺชาลงฺคึ ฆาเตนฺโต  	นนฺทิราคฺจ มูลโต  
+<span class="LineNumber"> 007 </span>		ภาเวนฺตฏฺ€งฺคิกํ มคฺคํ  	ผุสิ โย อมตํ ปทํ ฯ  
+<span class="LineNumber"> 008 </span>		ปาปุณิตฺวา ชิโน โพธึ  	มิคทายํ วิคาหิย  
+<span class="LineNumber"> 009 </span>		ธมฺมจกฺกํ ปวตฺเตตฺวา  	เถรํ โกณฺฑฺมาทิโต ฯ  
+<span class="LineNumber"> 010 </span>		อฏฺ€ารสนฺนํ โกฏีนํ  		โพเธสิ ตามเห (๑) ตหึ  
+<span class="LineNumber"> 011 </span>		วนฺเทหํ สิรสา ตฺจ  		สพฺพสตฺตานมุตฺตมํ ฯ  
+<span class="LineNumber"> 012 </span>		ตถา ธมฺมุตฺตมฺเจว  		สงฺฆฺจาปิ อนุตฺตรํ  
+<span class="LineNumber"> 013 </span>		สงฺขิตฺเตน หิ ยํ (๒) วุตฺตํ  	ธมฺมจกฺกํ วิภาคโส ฯ  
+<span class="LineNumber"> 014 </span>		สาริปุตฺโต มหาปฺโ  	สตฺถุกปฺโป ชินตฺรโช  
+<span class="LineNumber"> 015 </span>		ธมฺมจกฺกํ วิภาเชตฺวา  		มหานิทฺเทสมพฺรวิ  
+<span class="LineNumber"> 016 </span>		ปาโ€ วิสิฏฺโ€ นิทฺเทโส  	ตํ นาม วิเสสิโต จ ฯ  
+<span class="LineNumber"> 017 </span># ๑. ม. ตาวเท ฯ  ๒. ม.โย ฯ

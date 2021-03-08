@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H1>๒.  นอารัมมณปัจจัย</H1>
+<span class="LineNumber"> 002 </span>           [๑๖๕๗] ๑.  <B>อนิยตธรรม    อาศัยมิจฉัตตนิยตธรรม   เกิดขึ้น
+<span class="LineNumber"> 003 </span>เพราะนอารัมมณปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นมิจฉัตตนิยตธรรม.
+<span class="LineNumber"> 005 </span>           เหมือนกับ  กุสลติกะ  พึงกระทำเป็น ๕ วาระ.
+
+<span class="LineNumber"> 006 </span>                                      <H1>๓.  นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 007 </span>           [๑๖๕๘] ๑.  <B>มิจฉัตตนิยตธรรม  อาศัยมิจฉัตตนิยตธรรม 
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ    อธิปติธรรมเป็นมิจฉัตตนิยตธรรม   อาศัยขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 010 </span>มิจฉัตตนิยตธรรม.
+<span class="LineNumber"> 011 </span>           [๑๖๕๙] ๒.  <B>สัมมัตตนิยตธรรม อาศัยสัมมัตตนิยตธรรม
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะนอธิปติปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ    อธิปติธรรมที่เป็นสัมมัตตนิยตธรรม   อาศัยขันธ์ทั้งหลายที่เป็น
+<span class="LineNumber"> 014 </span>สัมมัตตนิยตธรรม.
+<span class="LineNumber"> 015 </span>           [๑๖๖๐] ๓.  <B>อนิยตธรรม  อาศัยอนิยตธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 016 </span>นอธิปติปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ  ขันธ์ ๓ และจิตตสมุฏฐานรูป   อาศัยขันธ์ ๑ ที่เป็นอนิยตธรรม
+<span class="LineNumber"> 018 </span>ฯลฯ ขันธ์ ๒ ฯลฯ
+

@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>นเหตุทุกนอัชฌัตตารัมมณติกะ</H1>  
+<span class="LineNumber"> 002 </span>                          <H1>เหตุทุกอัชฌัตตารัมมณติกะ</H1>
+<span class="LineNumber"> 003 </span>       <H2>(๑.  เหตุทุกะ  ๒๑.  อัชณัตตารัมมณติกะ)</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>ปัจจยวาระ</H2>  
+<span class="LineNumber"> 005 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                    <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                              <H2>อัชฌัตตารัมมณบท</H2>
+<span class="LineNumber"> 008 </span>           [๔๒๐] ๑.  <B>อัชฌัตตารัมมณธรรม  ที่เป็นเหตุธรรม อาศัยธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่อัชฌัตตารัมมณธรรม  ที่เป็นนเหตุธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 010 </span>ปัจจัย</B>
+<span class="LineNumber"> 011 </span>                                             <B>ฯลฯ</B>
+
+<span class="LineNumber"> 012 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>           [๔๒๑]  ในเหตุปัจจัย มี  ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 014 </span>                                <H2>หหิทธารัมมณบท</H2>
+<span class="LineNumber"> 015 </span>           [๔๒๒] ๑.  <B>พหิทธารัมมณธรรม  ที่เป็นเหตุธรรม อาศัยธรรม
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่พหิทธารัมมณธรรม  ที่เป็นนเหตุธรรม   เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 017 </span>ปัจจัย</B>
+<span class="LineNumber"> 018 </span>                                                <B>ฯลฯ</B> 
+
+<span class="LineNumber"> 019 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 020 </span>           [๔๒๓]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+<span class="LineNumber"> 021 </span>           อัชฌัตตพหิทธารัมมณธรรม  ไม่มีแสดง.
+<span class="LineNumber"> 022 </span>        <I>นเหตุทุกนอัชฌัตตารัมมณติกเหตุทุกอัชฌัตตารัมมณติกะ  จบ</I>

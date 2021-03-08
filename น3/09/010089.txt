@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span><B>จตฺตาริ  วสฺสานิ</B>			ตลอด ๔ ปี  
+<span class="LineNumber"> 002 </span><B>ตีณิ  วสฺสานิ</B>				ตลอด ๓ ปี
+<span class="LineNumber"> 003 </span><B>เทฺว  วสฺสานิ</B>				ตลอด ๒ ปี
+<span class="LineNumber"> 004 </span><B>เอกํ  วสฺสํ</B>				ตลอด ๑  ปี
+<span class="LineNumber"> 005 </span><B>สตฺต  มาสานิ</B>			ตลอด ๗ เดือน
+<span class="LineNumber"> 006 </span><B>ฉ  มาสานิ</B>				ตลอด ๖ เดือน
+<span class="LineNumber"> 007 </span><B>ปญฺจ มาสานิ</B>				ตลอด ๕ เดือน
+<span class="LineNumber"> 008 </span><B>จตฺตาริ  มาสานิ</B>			ตลอด ๔ เดือน
+<span class="LineNumber"> 009 </span><B>ตีณิ  มาสานิ</B>				ตลอด ๓ เดือน
+<span class="LineNumber"> 010 </span><B>เทฺว มาสานิ</B>				ตลอด ๒ เดือน
+<span class="LineNumber"> 011 </span><B>มาสํ</B>					ตลอด ๑ เดือน
+<span class="LineNumber"> 012 </span><B>มฑฺฒมาสํ</B>				ตลอดกึ่งเดือน
+<span class="LineNumber"> 013 </span><B>สตฺตาหํ</B>				ตลอด ๗  วัน
+<span class="LineNumber"> 014 </span><B>ตสฺส ทฺวินฺนํ ผลานํ อญฺตรํ</B>	ผู้นั้นพึงหวังผล  ๒  ผลอันใดอัน
+<span class="LineNumber"> 015 </span><B>ผลํ  ปาฏิกงฺขํ</B>			หนึ่ง
+<span class="LineNumber"> 016 </span><B>ทิฏฺเ€ว ธมฺเม อญฺา</B>		คือพระอรหัตผลในปัจจุบันชาตินี้ ๑
+<span class="LineNumber"> 017 </span><B>สติ  วา  อุปาทิเสเส อนาคามิตา</B>	หรือเมื่อวิบากขันธ์ที่กิเลสมีตัณหา
+<span class="LineNumber"> 018 </span>					เป็นต้น  เข้ายึดไว้ยังเหลืออยู่ เป็น
+<span class="LineNumber"> 019 </span>					พระอนาคามี ๑.
+<span class="LineNumber"> 020 </span><B>เอกายโน  อยํ  ภิกฺขเว  มคฺโค</B>	ดูก่อนภิกษุทั้งหลาย  หนทางนี้เป็น
+

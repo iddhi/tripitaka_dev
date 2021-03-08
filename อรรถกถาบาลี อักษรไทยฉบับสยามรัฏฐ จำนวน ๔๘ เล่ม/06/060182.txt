@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>				*เล่มที่ ๖  ปาฏิกวคฺควณฺณนา  หน้า  ๑๘๒
+
+<span class="LineNumber"> 002 </span>	จวิย     ปุนริธาคโตติ     จวิตฺวา     ปุน     อิธาคโต ฯ   
+<span class="LineNumber"> 003 </span>ทีฆปาสณฺหิโกติ(๑)   ทีฆปณฺหิโก ฯพฺรหฺมาว สุชูติ พฺรหฺมา วิย 
+<span class="LineNumber"> 004 </span>สุฏฺ€ุ อุชุ ฯ  
+<span class="LineNumber"> 005 </span>	สุภุโชติ    สุนฺทรภุโช ฯ   สุสูติ   มหลฺลกกาเลปิ   ตรุณรูโป ฯ  
+<span class="LineNumber"> 006 </span>สุสณฺ€ิโตติ   สุสณฺ€านสมฺปนฺโน  มุทุตลุนงฺคุลิยสฺสาติ  มุทู  จ
+<span class="LineNumber"> 007 </span>ตลุนา  จ องฺคุลิโย อสฺส ฯตีภีติ   ตีหิ ฯ ปุริสวรคฺคลกฺขเณหีติ  
+<span class="LineNumber"> 008 </span>ปุริสวรสฺส  อคฺคลกฺขเณหิ ฯ จิรยาปนายาติ  (๒) จิรํ  ยาปนาย 
+<span class="LineNumber"> 009 </span>ทีฆายุกภาวาย ฯ   
+<span class="LineNumber"> 010 </span>	จิรํ   ยาเปตีติ   จิรํ   ยาเปติ ฯ  จิรตรํ   ปพฺพชติ   (๓)ยทิ   ตโต 
+<span class="LineNumber"> 011 </span>หีติ  ยทิ  ตโต   หิ  จิรตรํ  ยาเปติ  ยทิ  ปพฺพชตีติ  อตฺโถ ฯ 
+<span class="LineNumber"> 012 </span>ยาปยาติ  จ  วสิทฺธิภาวนายาติ  วสิปฺปตฺโต หุตฺวา ยุทฺธิภาวนาย 
+<span class="LineNumber"> 013 </span>ยาเปติ ฯ    
+
+<span class="LineNumber"> 014 </span>	                  สตฺตุสฺสทตาลลกฺขณวณฺณนา 
+<span class="LineNumber"> 015 </span>	รสิตานนฺติ    รสสมฺปนฺนานํ ฯ   ขาทนียานนฺติอาทีสุ    
+<span class="LineNumber"> 016 </span>ขาทนียานิ  นาม   ปิฏฺ€ขชฺชกาทีนิ ฯ  โภชนียานนฺติ   (๒) ปฺจ  
+<span class="LineNumber"> 017 </span>โภชนานิ ฯ สายนียานนฺติ  (๓)สายิตพฺพานิ  สปฺปินวนีตาทีนิ ฯ
+<span class="LineNumber"> 018 </span>เลหนียานนฺติ  นิลฺเลหิตพฺพานิ ปิฏฺ€ปายาสาทีนิ ฯ  ปานานนฺติ  อฏฺ€ 
+<span class="LineNumber"> 019 </span>ปานกานิ ฯ    
+<span class="LineNumber"> 020 </span># ๑. ม. ทีฆปาสณฺหิโก ฯ ๒. ม. จิรยปนายาติ ฯ ๓. ม.ยทิ คโตติ ตโต จิรตรํ ฯ

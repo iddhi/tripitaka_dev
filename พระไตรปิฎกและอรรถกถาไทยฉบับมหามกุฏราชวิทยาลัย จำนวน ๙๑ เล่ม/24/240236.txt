@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                   <h1>อาทิตตวรรคที่  ๕</h1> 
+
+<span class="LineNumber"> 002 </span>                                    <h1>๑.  อาทิตตสูตร</h1>
+
+<span class="LineNumber"> 003 </span>                              <H1>ว่าด้วยผลของการให้ทาน</H1>
+
+<span class="LineNumber"> 004 </span>         [๑๓๕]   ข้าพเจ้าได้สดับมาแล้วอย่างนี้:- 
+<span class="LineNumber"> 005 </span>         สมัยหนึ่ง  พระผู้มีพระภาคเจ้าประทับอยู่  ณ พระวิหารเชตวัน  อาราม
+<span class="LineNumber"> 006 </span>ของท่านอนาถบิณฑิกเศรษฐี   กรุงสาวัตถี  ครั้งนั้นแล   เมื่อปฐมยามล่วงไปแล้ว
+<span class="LineNumber"> 007 </span>เทวดาองค์หนึ่ง   ซึ่งมีวรรณะงาม   ยังพระวิหารเชตวันทั้งสิ้นให้สว่างเข้าไปเฝ้า
+<span class="LineNumber"> 008 </span>พระผู้มีพระภาคเจ้า   ครั้นแล้วจึงอภิวาทพระผู้มีพระภาคเจ้า   แล้วยืนอยู่  ณ ที่
+<span class="LineNumber"> 009 </span>ควรส่วนข้างหนึ่ง.
+<span class="LineNumber"> 010 </span>         [๑๓๖]   เทวดานั้นยืนอยู่  ณ  ที่ควรส่วนข้างหนึ่งแล้ว  ได้กล่าวคาถา
+<span class="LineNumber"> 011 </span>เหล่านี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 012 </span>                             <B>เมื่อเรือนลูกไฟไหม้แล้ว     เจ้าของ
+<span class="LineNumber"> 013 </span>                   เรือนขนเอาภาชนะได้ออกไปได้   ภาชนะ
+<span class="LineNumber"> 014 </span>                   นั้นย่อมเป็นประโยชน์แก่เขา  ส่วนสิ่งของ
+<span class="LineNumber"> 015 </span>                   ที่มิได้ขนออกไป  ย่อมไหม้ในไฟนั้น
+<span class="LineNumber"> 016 </span>                   ฉันใด.
+<span class="LineNumber"> 017 </span>                             โลก (คือหมู่สัตว์) อันชราและมรณะ
+<span class="LineNumber"> 018 </span>                   เผาแล้ว  ก็ฉันนั้น  ควรนำออก  (ซึ่งโภค-
+<span class="LineNumber"> 019 </span>                   สมบัติ)  ด้วยการให้ทาน  เพราะทานวัตถุ
+<span class="LineNumber"> 020 </span>                   ที่บุคคลให้แล้ว   ได้ชื่อว่านำออกดีแล้ว.</B>

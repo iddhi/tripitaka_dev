@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                          		    <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 002 </span>			 <H2>การนับจำนวนวาระในปัจจนียะ</H2> 
+<span class="LineNumber"> 003 </span>		[๑๑๗๙]  ในนเหตุปัจจัย  มี  ๑ วาระ ในนอารัมมณปัจจัย มี ๑  วาระ
+<span class="LineNumber"> 004 </span>ในนอธิปติปัจจัย มี ๑ วาระ  ฯลฯ
+<span class="LineNumber"> 005 </span>            ในสหชาตวาระก็ดี ฯลฯ  ในสัมปยุตตวาระก็ดี  มี ๑ วาระ  ทุกปัจจัย-
+
+<span class="LineNumber"> 006 </span>                        	   <H1>อัพยากตบทปัญหาวาระ</H1> 
+<span class="LineNumber"> 007 </span>                          		  <H1>อนุโลมนัย</H1>  
+<span class="LineNumber"> 008 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 009 </span>		[๑๑๘๐]  ๑.  อัพยากตธรรมที่เป็นอาสววิปปยุตตธรรม    เป็น
+<span class="LineNumber"> 010 </span>ปัจจัยแก่อัพยากตธรรมที่เป็นอาสววิปปยุตตธรรม     ด้วยอำนาจของ
+<span class="LineNumber"> 011 </span>เหตุปัจจัย
+<span class="LineNumber"> 012 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๑๑๘๑]  ในเหตุปัจจัย  มี ๑ วาระ    ในอารัมมณปัจจัย  มี ๑ วาระ
+<span class="LineNumber"> 014 </span>ฯลฯ   ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 015 </span>            อนุโลมนัยก็ดี  ปัจจนียนัยก็ดี  อนุโลมปัจจนียนัยก็ดี  ปัจจนียานุโลม-
+<span class="LineNumber"> 016 </span>นัยก็ดี   แห่งปัญหาวาระในกุสลติกะ  ท่านนับไว้อย่างไร  พึงนับอย่างนั้น.
+<span class="LineNumber"> 017 </span>			    <I>อาสวสัมปยุตตทุกกุสลติกะ จบ</I>

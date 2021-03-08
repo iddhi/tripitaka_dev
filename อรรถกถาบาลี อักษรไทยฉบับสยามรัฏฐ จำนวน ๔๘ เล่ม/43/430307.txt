@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>				เล่มที่  43  หน้า  307
+
+<span class="LineNumber"> 002 </span>			กิสลยปูชกตฺเถราปทานวณฺณนา  
+<span class="LineNumber"> 003 </span>	ฉฏฺเ€  นคเร  ทฺวารวติยาติ  มหาทฺวารวาตปานกวาฏ-
+<span class="LineNumber"> 004 </span>ผลกาหิ  วติปาการฏฺฏาลโคปุรกทฺทโมทกปริขาหิ  จ  สมฺปนฺนํ  
+<span class="LineNumber"> 005 </span>นครนฺติ  ทฺวารวตีนครํ  ทฺวารํ  วติฺจ  ปธานํ  กตฺวา  นครสฺส  
+<span class="LineNumber"> 006 </span>อุปลกฺขิตตฺตา  ทฺวารวตี  นครนฺติ  โวหรนฺตีติ  นคเร  ทฺวารวติยาติ  
+<span class="LineNumber"> 007 </span>วุตฺตํ ฯ  มาลาวจฺโฉ  ปุปฺผาราโม  มม  อโหสีติ  อตฺโถ ฯ  
+<span class="LineNumber"> 008 </span>	เต  กิสลยาติ  เต  อโสกปลฺลวา ฯ   ฉฏฺ€ํ ฯ  
+<span class="LineNumber"> 009 </span>	สตฺตมฏฺ€มนวมานิ อุตฺตานตฺถาเนว ฯ ทสเมปิ อปุพฺพํ 
+<span class="LineNumber"> 010 </span>นตฺถีติ ฯ  
+<span class="LineNumber"> 011 </span>			วีสติมวคฺควณฺณนา นิฏฺ€ิตา ฯ  
+<span class="LineNumber"> 012 </span>			กณิการปุปฺผิยวคฺคาทิวณฺณนา  
+<span class="LineNumber"> 013 </span>	อิโต  ปรํ  สพฺพตฺถ  อนุตฺตานปทวณฺณนํ  กริสฺสาม ฯ  
+<span class="LineNumber"> 014 </span>เอกวีสติเม(๑)  พาวีสติเม (๒) เตวีสติเม (๓) จ  วคฺเค  สพฺเพสํ  เถรานํ  
+<span class="LineNumber"> 015 </span>สยํกเตน  ปุฺเน  ลทฺธนามานิ  กตปุฺานฺจ  นานตฺตํ  เตสํ  
+<span class="LineNumber"> 016 </span>พฺยากรณทายกานํ  พุทฺธานํ  นามานิ  วสิตนครานิ  จ  เหฏฺ€า  
+<span class="LineNumber"> 017 </span>วุตฺตนยตฺตา  สพฺพานิปิ  อุตฺตานาเนวาติ (๔)ฯ  อปทานคาถานมตฺโถ  
+<span class="LineNumber"> 018 </span>จ  นยานุโยเคน สุวิฺเยฺโยเยวาติ ฯ  
+<span class="LineNumber"> 019 </span># ๑. สฺยา. เอกวีสติโม กณิการปุปฺผิยวคฺโคติ ฯ 
+<span class="LineNumber"> 020 </span># ๒. พาวีสติโม หตฺถิวคฺโคติ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. เตวีสติโมอาลมฺพนทายกวคฺโคติ ทิสสฺติ ฯ  
+<span class="LineNumber"> 022 </span># ๔. ม.  อุตฺตานาเนว ฯ 

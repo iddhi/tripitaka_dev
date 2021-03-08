@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 605
+
+<span class="LineNumber"> 002 </span>		เวสฺสนฺตเร ปยาตมฺหิ	สิวีนํ รฏฺ€วฑฺฒเน  
+<span class="LineNumber"> 003 </span>		โอโรธา จ กุมารา จ	เวสิยานา จ พฺราหฺมณา  
+<span class="LineNumber"> 004 </span>				สมนฺตา ปริกรึสุ  
+<span class="LineNumber"> 005 </span>		เวสฺสนฺตเร ปยาตมฺหิ	สิวีนํ รฏฺ€วฑฺฒเน  
+<span class="LineNumber"> 006 </span>		หตฺถาโรหา อนีกฏฺ€า	รถิกา ปตฺติการกา  
+<span class="LineNumber"> 007 </span>				สมนฺตา ปริกรึสุ  
+<span class="LineNumber"> 008 </span>		เวสฺสนฺตเร ปยาตมฺหิ	สิวีนํ รฏฺ€วฑฺฒเน  
+<span class="LineNumber"> 009 </span>		กโรฏิยา จมฺมธรา		ลิลฺลิหตฺถา สุวมฺมิกา(๑)  
+<span class="LineNumber"> 010 </span>				ปุรโต ปฏิปชฺชึสุ  
+<span class="LineNumber"> 011 </span>		เวสฺสนฺตเร ปยาตมฺหิ	สิวีนํ รฏฺ€วฑฺฒเน  
+<span class="LineNumber"> 012 </span>		สมาคตา ชานปทา		เนคมา จ สมาคตา  
+<span class="LineNumber"> 013 </span>				สมนฺตา ปริกรึสุ  
+<span class="LineNumber"> 014 </span>		เวสฺสนฺตเร ปยาตมฺหิ	สิวีนํ รฏฺ€วฑฺฒเนติ ฯ  
+<span class="LineNumber"> 015 </span>	ตตฺถ  ปฏิยตฺโตติ  วิสาขปุณฺณมีปูชากาเล(๒)  วิย  อลงฺกโต ฯ  
+<span class="LineNumber"> 016 </span>วิจิตฺโตติ  กทลีปุณฺณฆฏธชปฏากาทีหิ  วิจิตฺโต ฯ  ปุปฺผสณฺ€โตติ  
+<span class="LineNumber"> 017 </span>ลาชปฺจมเกหิ  ปุปฺเผหิ  สณฺ€โต ฯ  ยตฺถาติ  ยสฺมึ  
+<span class="LineNumber"> 018 </span>วงฺกตปพฺพเต  เวสฺสนฺตโร  วสิ (๓) ตโต  ปฏฺ€าย  ยาว  
+<span class="LineNumber"> 019 </span>เชตุตฺตรนครา  นิรนฺตรํ  อลงฺกตปฏิยตฺโต  อโหสิ ฯ  กโรฏิยาติ
+<span class="LineNumber"> 020 </span>สีสกโรฏิโกติ  ลทฺธนามา  สีเส  ปฏิมุกฺกกโรฏิกา  โยธา ฯ 
+<span class="LineNumber"> 021 </span># ๑. ม. อิลฺลิหตฺถา สุวมฺมิโน ฯ  ๒. ม. วิสาขปุณฺณมปูชากาเล ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. วสติ ฯ ๔. ม.สีสกโรฏีติ ฯ 

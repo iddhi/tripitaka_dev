@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>                    <H1>สนิทัสสนติกรูปีทุกนสนิทัสสนติกนรูปีทุกะ</H1>  
+<span class="LineNumber"> 002 </span>                  <H2>(๒๒. สนิทัสสนติกะ  ๑๑.  รูปีทุกะ)</H2>
+<span class="LineNumber"> 003 </span>                                       <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                      <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                             <H2>รูปีบท</H2>	
+<span class="LineNumber"> 007 </span>       	[๕๖๖]  ๑.  <B>ธรรมที่ไม่ใช่รูปีธรรม ที่ไม่ใช่สนิทัสสนสัปปฏิฆ-
+<span class="LineNumber"> 008 </span>ธรรม  อาศัยรูปีธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น เพราะ-
+<span class="LineNumber"> 009 </span>เหตุปัจจัย</B>    
+
+<span class="LineNumber"> 010 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>       	[๕๖๗]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 012 </span>                                             <H2>อรูปีบท</H2>
+<span class="LineNumber"> 013 </span>       	[๕๖๘]  ๑.  <B>ธรรมที่ไม่ใช่อรูปีธรรม  ที่ไม่ใช่อนิทัสสนอัปปฏิฆ-
+<span class="LineNumber"> 014 </span>ธรรม      อาศัยอรูปีธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะเหตุปัจจัย</B>                                               
+<span class="LineNumber"> 016 </span>      		     ๒.  <B>ธรรมที่ไม่ใช่อรูปีธรรม      ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 017 </span>สัปปฏิฆธรรม   อาศัยอรูปีธรรมที่เป็นอนิทัสสนอัปปฏิฆธรรม    เกิด
+<span class="LineNumber"> 018 </span>ขึ้น  เพราะเหตุปัจจัย  ฯลฯ</B>  (วาระที่  ๓-๔-๕)
+<span class="LineNumber"> 019 </span>      		     ๖.  <B>ธรรมที่ไม่ใช่อรูปีธรรมที่ไม่ใช่สนิทัสสนสัปปฏิฆ-
+<span class="LineNumber"> 020 </span>ธรรม    และธรรมที่ไม่ใช่อรูปีธรรมที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 021 </span>อาศัยอรูปีธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม  เกิดขึ้น    เพราะเหตุ
+<span class="LineNumber"> 022 </span>ปัจจัย</B>

@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>ปาวก 	ไฟ				รุกฺข		ต้นไม้       
+<span class="LineNumber"> 002 </span>ผลิก		แก้วผลึก			โลก		โลก
+<span class="LineNumber"> 003 </span>พก		นกยาง			วานร	ลิง
+<span class="LineNumber"> 004 </span>ภว		ภพ				สหาย	เพื่อน
+<span class="LineNumber"> 005 </span>มนุสฺส	มนุษย์			หตฺถ		มือ
+<span class="LineNumber"> 006 </span>ยกฺข		ยักษ์
+
+<span class="LineNumber"> 007 </span>                       วิธีเปลี่ยน  วิภัตติ  และ  การันต์
+<span class="LineNumber"> 008 </span>๑  เอา  อ  กับ  สิ  เป็น  โอ,  กับ  โย  ป€มา  เป็น  อา.
+<span class="LineNumber"> 009 </span>๒ เอา  อํ  เป็น  อํ  ในที่ทั้งปวง,  อ  กับ  โย  ทุ.  เป็น  เอ.
+<span class="LineNumber"> 010 </span>๓  เอา  อ  กับ  นา  เป็น  เอน,  หิ  และ  สุ   อยู่หลัง เอา  อ  เป็น  เอ.
+<span class="LineNumber"> 011 </span>      เอา  หิ  เป็น  ภิ  ได้ในที่ทั้งปวง.
+<span class="LineNumber"> 012 </span>๔  เอา  สฺมา  เป็น  มฺหา  ได้  ใน ปุํ.  นปุํ.  กับ  อ  เป็น  อา.
+<span class="LineNumber"> 013 </span>๖  เอา  สฺมึ  เป็น  มฺหิ  ได้  ใน  ปุํ    นปุํ.  กับ  อ  เป็น  เอ.
+<span class="LineNumber"> 014 </span>๗  อาลปนะ  เอก.  คงเป็น  อ,  พหุ.  เป็น  อา.
+  

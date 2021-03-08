@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  26  ฉกฺกนิปาตวณฺณนา  หน้า  128  
+
+<span class="LineNumber"> 002 </span>	โส  จ  สพฺพํ  ตมํ  หนฺตฺวา  	วิชเฏตฺวา  มหาชฏํ  
+<span class="LineNumber"> 003 </span>	วสฺสเต  อมตํ  วุฏฺ€ึ  		ตปฺปยนฺโต  สเทวกํ ฯ  
+<span class="LineNumber"> 004 </span>	ตทา  หิ (๑)  พาราณสิยํ  		ราชาปจฺจา (๒)  อหุมฺหเส  
+<span class="LineNumber"> 005 </span>	ภาตโรมฺห  ตโย  สพฺเพ  		สํวิสฏฺ€าว  ราชิโน ฯ  
+<span class="LineNumber"> 006 </span>	วีรงฺครูปา  พลิโน  			สงฺคาเม  อปราชิตา  
+<span class="LineNumber"> 007 </span>	ตทา  กุปิตปจฺจนฺโต  		อเมฺห  อาห  มหีปติ ฯ  
+<span class="LineNumber"> 008 </span>	เอถ  คนฺตฺวาน  ปจฺจนฺตํ  		โสเธตฺวา  อฏฺฏวีพลํ (๓)  
+<span class="LineNumber"> 009 </span>	เขมํ  วิชิริตํ (๔)  กตฺวา  		ปุน  เทถาติ  ภาสถ ฯ  (๕)  
+<span class="LineNumber"> 010 </span>	ตโต  มยํ  อโวจุมฺห  		ยทิ  เทยฺยาสิ  นายกํ  
+<span class="LineNumber"> 011 </span>	อุปฏฺ€านาย  อมฺหากํ  		สาธยิสฺสาม  โว  ตโต ฯ  
+<span class="LineNumber"> 012 </span>	ตโต  มยํ  ลทฺธวรา  			ภูมิปาเลน  เปสิตา  
+<span class="LineNumber"> 013 </span>	นิกฺขิตฺตสตฺถํ  ปจฺจนฺตํ  		กตฺวา  ปุนรุเปจฺจ  ตํ ฯ  
+<span class="LineNumber"> 014 </span>	ยาจิตฺวา  สตฺถุปฏฺ€านํ  		ราชานํ  โลกนายกํ  
+<span class="LineNumber"> 015 </span>	มุนิวีรํ (๖)  ลภิตฺวาน  			ยาวชีวํ  ยชิมฺห (๗)  ตํ ฯ  
+<span class="LineNumber"> 016 </span>	มหคฺฆานิ  จ  วตฺถานิ  		ปณีตานิ  รสานิ  จ  
+<span class="LineNumber"> 017 </span>	เสนาสนานิ  รมฺมานิ  		เภสชฺชานิ  หิตานิ  จ ฯ  
+<span class="LineNumber"> 018 </span>	ทตฺวา  สสํฆมุนิโน  		ธมฺเมนุปฺปาทิตานิ  โน  
+<span class="LineNumber"> 019 </span>	สีลวนฺโต  การุณิกา  		ภาวนายุตฺตมานสา ฯ  
+<span class="LineNumber"> 020 </span>#๑.  สฺยา. มยํ  ฯ  ๒.  สฺยา. ราชามจฺจา  ฯ  ๓.  สฺยา. สาเธตฺวา  ฯ  
+<span class="LineNumber"> 021 </span>#อวนิพลํ  ฯ  ยุ. อวิธีพลํ  ฯ  โปราณ. อวธิพลํ  ฯ  ๔.  สฺยา. เขมํ  เม  
+<span class="LineNumber"> 022 </span>#วิชิตํ  ฯ  ๕.  สฺยา.  ปุณเรถาติ  สาสถ  ฯ  สี. ปุน  เรถาดิ  ภาสถ  ฯ  
+<span class="LineNumber"> 023 </span>#๖.  สฺยา. มุนิวรํ  ฯ  ๗.  ยุ. อทิมฺห  ฯ  โปราณ.  อชิมฺเห  ฯ  

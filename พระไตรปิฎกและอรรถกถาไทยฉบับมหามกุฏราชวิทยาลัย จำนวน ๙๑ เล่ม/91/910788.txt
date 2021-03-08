@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>ปฏิจจวาระ</H2>   
+<span class="LineNumber"> 002 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>๑.เหตุปัจจัย</H2>	
+<span class="LineNumber"> 004 </span>               <H2>อทุกขมสุขายเวทนายสัมปยุตตบท</H2>
+<span class="LineNumber"> 005 </span>           [๗๒๘] ๑.  <B>ธรรมที่ไม่ใช่อทุกขมสุขายเวทนายสัมปยุตตธรรม
+<span class="LineNumber"> 006 </span>ที่ไม่ใช่กุศล  อาศัยอทุกขมสุขายเวทนายสัมปยุตตธรรม  ที่เป็นกุศล
+<span class="LineNumber"> 007 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>                                              <B>ฯลฯ</B>
+
+<span class="LineNumber"> 009 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๗๒๙]  ในเหตุปัจจัย มี ๑๓ วาระ  ฯลฯ
+<span class="LineNumber"> 011 </span>           พึงให้พิสดารทุกวาระ.
+
+<span class="LineNumber"> 012 </span>                           <H1>กุสลติกวิปากติกนกุสลติกนวิปากติกะ</H1>
+<span class="LineNumber"> 013 </span>                            <H2>(๑. กุสลติกะ  ๒.  วิปากติกะ)</H2>
+<span class="LineNumber"> 014 </span>                                              <H2>ปฏิจจวาระ</H2>	
+<span class="LineNumber"> 015 </span>                                               <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 016 </span>                                            <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 017 </span>                                                <H2>วิปากบท</H2>
+<span class="LineNumber"> 018 </span>           [๗๓๐] ๑.  <B>ธรรมที่ไม่ใช่วิปากธรรม   ที่ไม่ใช่กุศล    อาศัย
+<span class="LineNumber"> 019 </span>วิปากธรรม   ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 020 </span>                                                       <B>ฯลฯ</B>	

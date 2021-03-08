@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H2>ปัจจยวาระ</H2>  
+<span class="LineNumber"> 002 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>                                <H2>อนาคตารัมมณบท</H2>
+<span class="LineNumber"> 005 </span>           [๑๒๐๘] ๑.  <B>อนาคตารัมมณธรรม   ที่เป็นอนิทัสสนอัปปฏิฆ-
+<span class="LineNumber"> 006 </span>ธรรม  อาศัยธรรมที่ไม่ใช่อนาคตารัมมณธรรม   ที่ไม่ใช่สนิทัสสน-
+<span class="LineNumber"> 007 </span>สัปปฏิฆธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 008 </span>                                               <B>ฯลฯ</B>
+
+<span class="LineNumber"> 009 </span>                        <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๑๒๐๙]  ในเหตุปัจจัย มี ๓ วาระ ฯลฯ
+
+<span class="LineNumber"> 011 </span>                                       <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 012 </span>                                      <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 013 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>                            <H2>ปัจจุปปันนารัมมณบท</H2>	               
+<span class="LineNumber"> 015 </span>           [๑๒๑๐] ๑.  <B>ปัจจุปปันนารัมมณธรรม    ที่เป็นอนิทัสสนอัป-
+<span class="LineNumber"> 016 </span>ปฏิฆธรรม   อาศัยธรรมที่ไม่ใช่ปัจจุปปันนารัมมณธรรม   ที่ไม่ใช่
+<span class="LineNumber"> 017 </span>สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 018 </span>                                                 <B>ฯลฯ</B>

@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>	<B>โดยเภทะ  (คือ  แบ่งออก)  และโดยสังคหะ  (คือ 
+<span class="LineNumber"> 002 </span>	รวมเข้า)  ๑  โดยสิ่งไรเป็นปัจจัยของสิ่งไร  ๑</B>
+<span class="LineNumber"> 003 </span>                                  [วินิจฉัยโดยอรรถ] 
+<span class="LineNumber"> 004 </span>	วินิจฉัยโดยอรรถในบทนั้นว่า  ธรรมใดย่อมเป็น  เหตุนี้  ธรรมนั้น
+<span class="LineNumber"> 005 </span>จึงชื่อว่า  ภพ  (แปลว่าธรรมที่เป็นขึ้น)   ภพนั้นมี  ๒  ประเภท  คือ
+<span class="LineNumber"> 006 </span>กรรมภพ  ๑  อุปบัติภพ  ๑  ดังบาลีว่า  "ภพมีโดยส่วน  ๒  คือ  กรรมภพ
+<span class="LineNumber"> 007 </span>ก็มี  อุปบัติภพก็มี<SUP>๑</SUP>   ดังนี้
+<span class="LineNumber"> 008 </span>	ในภพ  ๒  นั้น  ภพ  คือกรรม  ชื่อว่า  กรรมภพ   นัยเดียวกัน
+<span class="LineNumber"> 009 </span>ภพคือความเข้าถึง   ชื่อว่า  อุปบัติภพ   ก็แลในกรรมแลอัปบัตินี้
+<span class="LineNumber"> 010 </span>อุปบัติจัดเป็นภพ  เพราะเป็น  (คือเกิด)  ขึ้น  ส่วนกรรม  พึงทราบ
+<span class="LineNumber"> 011 </span>ว่า  จัดเป็นภพโดยผลโวหาร  (คือกล่าวเล็งถึงผล)   เพราะกรรมนั้น
+<span class="LineNumber"> 012 </span>เป็นเหตุแห่งภพ  ดังความเกิดขึ้นแห่งพระพุทธทั้งหลาย  ตรัสว่าเป็นสุข
+<span class="LineNumber"> 013 </span>เพราะเป็นเหตุแห่งความสุขฉะนั้น<SUP>๒</SUP>
+<span class="LineNumber"> 014 </span>	วินิจฉัยโดยอรรถในบทนี้   พึงทราบโดยประการที่กล่าวมาฉะนี้
+<span class="LineNumber"> 015 </span>เป็นอันดับแรก
+<span class="LineNumber"> 016 </span>                               [วินิจฉัยโดยธรรม] 
+<span class="LineNumber"> 017 </span>                                          [กรรมภพ] 
+<span class="LineNumber"> 018 </span>	ส่วนวินิจฉัยโดยธรรม   พึงทราบว่า  ดันดับแรก   กรรมภพ  โดย
+<span class="LineNumber"> 019 </span>สังเขป  ก็ได้แก่เจตนา  และธรรมทั้งหลายที่นับเป็นกรรมมีอภิชฌา
+
+<span class='footnote'>๑.  อภิ.  วิ.  ๓๕/๑๘๓     ๒.  ขุ.  ธ.  ๒๕/๔๑</span>

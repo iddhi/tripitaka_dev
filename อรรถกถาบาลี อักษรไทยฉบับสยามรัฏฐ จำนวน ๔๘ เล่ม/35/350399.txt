@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  35  กุณาลชาตกํ  หน้า  399
+
+<span class="LineNumber"> 002 </span>		น วิสฺสเส อิจฺฉติ มนฺติ โปโส  
+<span class="LineNumber"> 003 </span>		น วิสฺสเส โรทติ เม สกาเส  
+<span class="LineNumber"> 004 </span>		เสวนฺติ เหตา ปิยมปฺปิยฺจ  
+<span class="LineNumber"> 005 </span>		นาวา ยถา โอรกูลํ ปรฺจ ฯ  
+<span class="LineNumber"> 006 </span>		น วิสฺสเส สาขปุราณสนฺถตํ  
+<span class="LineNumber"> 007 </span>		น วิสฺสเส มิตฺตปุราณโจรํ  
+<span class="LineNumber"> 008 </span>		น วิสฺสเส ราชา สขา(๑) มมนฺติ  
+<span class="LineNumber"> 009 </span>		น วิสฺสเส อิตฺถิ ทสนฺน มาตรํ ฯ  
+<span class="LineNumber"> 010 </span>		น วิสฺสเส รามกราสุ นาริสุ  
+<span class="LineNumber"> 011 </span>		อจฺจนฺตสีลาสุ อสฺตาสุ  
+<span class="LineNumber"> 012 </span>		อจฺจนฺตเปมานุคตสฺส ภริยา  
+<span class="LineNumber"> 013 </span>		น วิสฺสเส ติตฺถสมา หิ นาริโย ฯ  
+<span class="LineNumber"> 014 </span>		หเนยฺยุํปิ ฉินฺเทยฺยุํปิ อาทาเปยฺยุํปิ (๒) 
+<span class="LineNumber"> 015 </span>		กณฺ€ํปิ เฉตฺวาน รุธิรํ ปิเวยฺยุํ  
+<span class="LineNumber"> 016 </span>		มา ทีนกามาสุ อสฺตาสุ  
+<span class="LineNumber"> 017 </span>		ภาวงฺกเร คงฺคติตฺถูปมาสุ ฯ  
+<span class="LineNumber"> 018 </span>	มุสา ตาสํ ยถา สจฺจํ  สจฺจํ ตาสํ ยถา มุสา  
+<span class="LineNumber"> 019 </span>	คาโว พหิ ติณสฺเสว  โอมสนฺติ วรํ วรํ ฯ  
+<span class="LineNumber"> 020 </span>	คเตเนตา ปโลเภนฺติ  เปกฺขิเตน หสิเตน จ (๔) 
+<span class="LineNumber"> 021 </span>	อโถปิ ทุนฺนิวตฺเถน  มฺชุนา ภณิเตน จ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. ราชานํ สขา ฯ  สี. ยุ. ราชา สาขา ฯ 
+<span class="LineNumber"> 023 </span># ๒. ม. หเนยฺยุํ เฉทาเปยฺยุมฺปิ ฯ  สี. ยุ. หเนยฺยุํ เฉทเยยฺยุํ ฯ 
+<span class="LineNumber"> 024 </span># ๓. ม. กณฺเ€ปิ ฯ  ๔. ม. เปกฺขิเตน มฺหิเตน จ ฯ

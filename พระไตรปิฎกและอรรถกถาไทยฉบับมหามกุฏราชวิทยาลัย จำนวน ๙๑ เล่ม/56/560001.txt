@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>        	 	                     <H1>พระสุตตันตปิฎก</H1>
+<span class="LineNumber"> 002 </span>                                        <H1>ขุททกนิกาย  ชาดก</H1>
+<span class="LineNumber"> 003 </span>		                <H2>เล่มที่  ๓  ภาคที่  ๒</H2>
+<span class="LineNumber"> 004 </span><H4>ขอนอบน้อมแด่พระผู้มีพระภาคอรหันตสัมมาสัมพุทธเจ้าพระองค์นั้น</H4>
+<span class="LineNumber"> 005 </span> 		                    <H1>เอกนิบาตชาดก</H1>	
+<span class="LineNumber"> 006 </span>                                     <H1>๕.  อัตถกามวรรค</H1>
+<span class="LineNumber"> 007 </span>                                      <H1>๑.  โลสกชาดก</H1>
+<span class="LineNumber"> 008 </span>                         <H2>ว่าด้วยคนที่ต้องเศร้าโศก</H2>
+<span class="LineNumber"> 009 </span>		    [๔๑]     <B>" ผู้ใดบุคคลกล่าวสอนอยู่  ไม่ทำตามคำ
+<span class="LineNumber"> 010 </span>	        สอนของผู้ปรารถนาประโยชน์   ผู้อนุเคราะห์ด้วย
+<span class="LineNumber"> 011 </span>	        ประโยชน์เกื้อกูล    ผู้นั้นย่อมเศร้าโศก   เหมือน
+<span class="LineNumber"> 012 </span>	        มิตตพินทุกะจับเท้าแพะเศร้าโศกอยู่ฉะนั้น."</B>

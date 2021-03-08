@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>                          <H2>รวมกถาที่มีในวรรคนี้คือ</H2> 
+
+<span class="LineNumber"> 002 </span>         ๑. ฉคติกถา   ๒. อันตราภวกถา   ๓. กามคุณกถา   ๔. กามกถา
+<span class="LineNumber"> 003 </span>๕. รูปธาตุกถา    ๖. อรูปธาตุกถา       ๗. รูปธาตุยาอายตนกถา  ๘.  อรูเปรูปกถา
+<span class="LineNumber"> 004 </span>๙. รูปังกัมมันติกา   ๑๐.ชีวิตินทริยกถา  ๑๑. กัมมเหตุกถา.
+
+<span class="LineNumber"> 005 </span>                                      <I>วรรคที่  ๘  จบ</I>

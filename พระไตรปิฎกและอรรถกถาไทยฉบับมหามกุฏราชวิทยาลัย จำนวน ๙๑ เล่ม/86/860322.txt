@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>๕ วาระ  ในอัตถิปัจจัย    มี ๑๓ วาระ  ในนัตถิปัจจัย  มี ๗ วาระ  ในวิคตปัจจัย
+<span class="LineNumber"> 002 </span>มี ๗ วาระ   ในอวิคตปัจจัย   มี ๑๓ วาระ.  
+
+<span class="LineNumber"> 003 </span>                                              <H1>เหตุสภาคะ</H1>
+<span class="LineNumber"> 004 </span>         [๑๗๔๙]   <B>เพราะเหตุปัจจัย</B>   ในอธิปติปัจจัย   มี ๔ วาระ . . .  ใน
+<span class="LineNumber"> 005 </span>สหชาตปัจจัย   มี ๗ วาระ   ในอัญญมัญญปัจจัย มี  ๓ วาระ   ในนิสสยปัจจัย
+<span class="LineNumber"> 006 </span>มี ๗ วาระ   ในวิปากปัจจัย   มี ๔ วาระ   ในอินทริยปัจจัย   มี ๔ วาระ   ใน
+<span class="LineNumber"> 007 </span>มัคคปัจจัย  มี ๔ วาระ   ในสัมปยุตตปัจจัย  มี ๓ วาระ   ในวิปปยุตตปัจจัย  มี
+<span class="LineNumber"> 008 </span>๓ วาระ   ในอัตถิปัจจัย   มี ๗ วาระ   ในอวิคตปัจจัย  มี ๗ วาระ.
+
+<span class="LineNumber"> 009 </span>                                               <H1>เหตุฆฏนา</H1>
+<span class="LineNumber"> 010 </span>         [๑๗๕๐]   <B>ปัจจัย ๕</B>  คือ  เหตุ   สหชาตะ   นิสสยะ   อัตถิ   และอวิคต-
+<span class="LineNumber"> 011 </span>ปัจจัย   มี ๗ วาระ.
+<span class="LineNumber"> 012 </span>         <B>ปัจจัย ๖</B>   คือ   เหตุ    สหชาตะ   อัญญมัญญะ    นิสสยะ   อัตถิ   และ
+<span class="LineNumber"> 013 </span>อวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>         <B>ปัจจัย ๗</B>   คือ   เหตุ    สหชาตะ   อัญญมัญญะ    นิสสยะ   สัมปยุตตะ
+<span class="LineNumber"> 015 </span>อัตถิและอวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>         <B>ปัจจัย  ๖</B>   คือ  เหตุ  สหชาตะ  นิสสยะ  วิปปยุตตะ  อัตถิ  และอวิคต-
+<span class="LineNumber"> 017 </span>ปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 018 </span>         <B>ปัจจัย  ๖</B>   คือ   เหตุ   สหชาตะ  นิสสยะ   วิปากะ   อัตถิ  และอวิคต-
+<span class="LineNumber"> 019 </span>ปัจจัย   มี ๔ วาระ.
+<span class="LineNumber"> 020 </span>         <B>ปัจจัย  ๗</B>   คือ  เหตุ  สหชาตะ  อัญญมัญญะ    นิสสยะ  วิปากะ  อัตถิ
+<span class="LineNumber"> 021 </span>และอวิคตปัจจัย   มี ๒ วาระ.

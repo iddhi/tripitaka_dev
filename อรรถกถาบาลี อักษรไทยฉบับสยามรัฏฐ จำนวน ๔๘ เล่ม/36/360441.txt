@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มโหสถชาตกํ  หน้า  441
+
+<span class="LineNumber"> 002 </span>	สเจ คจฺฉสิ ปฺจาลํ	ขิปฺปมตฺตํ ชหิสฺสสิ  
+<span class="LineNumber"> 003 </span>	มิคํ ปนฺถานุปนฺนํว	มหนฺตํ ภยเมสฺสติ  
+<span class="LineNumber"> 004 </span>			อนริยรูโป ปุริโส ชนินฺท  
+<span class="LineNumber"> 005 </span>			อหีว อุจฺจงฺกคโต (๑) ฑเสยฺย  
+<span class="LineNumber"> 006 </span>			น เตน เมตฺตึ กยิราถ ธีโร  
+<span class="LineNumber"> 007 </span>			ทุกฺโข หเว กาปุริเสน สงฺคโม  
+<span class="LineNumber"> 008 </span>			ยํ เตฺวว (๒) ชฺา ปุริโส (๓) ชนินฺท  
+<span class="LineNumber"> 009 </span>			สีลวายํ พหุสฺสุโต  
+<span class="LineNumber"> 010 </span>			เตเนว เมตฺตึ กยิราถ ธีโร  
+<span class="LineNumber"> 011 </span>			สุโข หเว สปฺปุริเสหิ สงฺคโมติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  ปมตฺโตติ  มหาราช  ตวํ  กาเมน  ปมตฺโต ฯ 
+<span class="LineNumber"> 013 </span>มนฺตนาตีโตติ  มยา  อนาคตภยํ  ทิสฺวา  ปฺาย  ปริจฺฉินฺทิตฺวา  
+<span class="LineNumber"> 014 </span>มนฺติตมนฺตนํ  อติกฺกนฺโต ฯ  ภินฺนมนฺโตติ  มนฺตนาติกฺกนฺตตฺตาเยว
+<span class="LineNumber"> 015 </span>ภินฺนมนฺโต  โย  จ  เต  เสนกาทีหิ  สทฺธึ  มนฺโต  คหิโต เอโส 
+<span class="LineNumber"> 016 </span>ภินฺโน ภินฺนมนฺโตสิ ชาโต ฯ  ปณฺฑิตาติ  อิเม  เสนกาทโย 
+<span class="LineNumber"> 017 </span>จตฺตาโร  อิทานิ  ตํ  รกฺขนฺตุ  ปสฺสมิา  เนสํ  พลนฺติ  ทีเปติ ฯ  
+<span class="LineNumber"> 018 </span>อกตฺวามจฺจสฺสาติ  มม  อุตฺตมสฺส  อมจฺจสฺส  วจนํ  อกตฺวา ฯ 
+<span class="LineNumber"> 019 </span>อตฺตปีติรโตติ  อตฺตโน  กิเลสปีติยา อภิรโต หุตฺวา ฯ  มิโค  
+<span class="LineNumber"> 020 </span>กูเฏว  โอหิโตติ  ยถา  นาม  นิวาปโลเภนาคโต  มิโค กูฏปาเส  
+<span class="LineNumber"> 021 </span># ๑. ม. ยุ. อุจฺฉงฺคคโต ฯ  ๒. ม. ยเทว ฯ  ๓. ม. ยุ. ปุริสํ ฯ
+<span class="LineNumber"> 022 </span># ๔. ม. ยุ. ภินฺโนติปิ ฯ

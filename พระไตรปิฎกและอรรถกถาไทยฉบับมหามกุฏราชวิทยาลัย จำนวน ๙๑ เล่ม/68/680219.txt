@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>            ธรรมชาติใด   ย่อมทรงไว้ซึ่งลักษณะของตน  ฉะนั้น   ธรรม- 
+<span class="LineNumber"> 002 </span>ชาตินั้น  ชื่อว่า  <B>ธัมมะ</B> - ธรรมารมณ์.
+<span class="LineNumber"> 003 </span>            คำว่า  <B>มโน</B> - ใจ ได้แก่ ภวังคจิตที่เป็นไปกับด้วยการรับอารมณ์.
+<span class="LineNumber"> 004 </span>คำว่า    <B>ธมฺมา</B>   ได้แก่    ธรรมคือธรรมารมณ์มี  ๑๒  ประเภท<SUP>๑</SUP>.
+<span class="LineNumber"> 005 </span>            คำว่า  <B>มโนวิาณํ - มโนวิญญาณจิต</B>  ได้แก่   มโนวิญญาณ  
+<span class="LineNumber"> 006 </span>ที่ทำชวนกิจ.  คำว่า  <B>มโนสมฺผสฺโส</B> - มโนสัมผัสสะ  ได้แก่  ผัสสเจตสิก
+<span class="LineNumber"> 007 </span>ที่ประกอบกับมโนวิญญาณนั้น.  มโนสัมผัสสะนั้น  เป็นปัจจัยแก่เวทนา
+<span class='footnote'>       ๑. จิตและเจตสิกรับอารมณ์โดยแน่นอน </span>
+<span class='footnote'>มีอารมณ์  ๑๒  ประเภท  คือ :-</span>
+<span class='footnote'>       ๑. กามอารมณ์              = กามจิต ๕๔ เจตสิก ๕๒ รูป ๒๘</span>
+<span class='footnote'>       ๒. มหัคคตอารมณ์      = มหัคคตจิต ๒๗ เจตสิก ๓๕</span>
+<span class='footnote'>       ๓. นิพพานอารมณ์      = นิพพาน</span>
+<span class='footnote'>       ๔. นามอารมณ์             = จิต เจตสิก นิพพาน</span>
+<span class='footnote'>       ๕. รูปอารมณ์                = รูป ๒๘</span>
+<span class='footnote'>       ๖. ปัจจุบันอารมณ์        = จิต เจตสิก รูป</span>
+<span class='footnote'>       ๗. อดีตอารมณ์              = จิต เจตสิก รูป</span>
+<span class='footnote'>       ๘. กาลวิมุตติอารมณ์     = นิพพาน บัญญัติ</span>
+<span class='footnote'>       ๙. บัญญัติอารมณ์           = อัตถบัญญัติ สัททบัญญัติ</span>
+<span class='footnote'>       ๑๐. ปรมัตถอารมณ์        = จิต เจตสิก รูป นิพพาน</span>
+<span class='footnote'>       ๑๑. อัชฌัตตอารมณ์       = จิต เจตสิก รูป</span>
+<span class='footnote'>       ๑๒. พหิทธอารมณ์           = จิต เจตสิก รูป นิพพาน บัญญัติ.	</span>

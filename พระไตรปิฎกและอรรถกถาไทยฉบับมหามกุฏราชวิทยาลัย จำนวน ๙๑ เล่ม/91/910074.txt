@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                   ๕.  <B>ธรรมที่ไม่ใช่คันถสัมปยุตตธรรม    อาศัยธรรมที่ 
+<span class="LineNumber"> 002 </span>ไม่ใช่คันถวิปปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 003 </span>                   ๖.  <B>ธรรมที่ไม่ใช่คันถสัมปยุตตธรรม และไม่ใช่คันถ-
+<span class="LineNumber"> 004 </span>วิปปยุตตธรรม    อาศัยธรรมที่ไม่ใช่คันถวิปปยุตตธรรม     เกิดขึ้น 
+<span class="LineNumber"> 005 </span>เพราะเหตุปัจจัย.</B>  
+<span class="LineNumber"> 006 </span>                   ๗.  <B>ธรรมที่ไม่ใช่คันถสัมปยุตตธรรม    อาศัยธรรมที่
+<span class="LineNumber"> 007 </span>ไม่ใช่คันถสัมปยุตตธรรม   และไม่ใช่คันถวิปปยุตตธรรม    เกิดขึ้น
+<span class="LineNumber"> 008 </span>เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 009 </span>                   ๘.  <B>ธรรมที่ไม่ใช่คันถวิปปยุตตธรรม  อาศัยธรรมที่
+<span class="LineNumber"> 010 </span>ไม่ใช่คันถสัมปยุตธรรม   และไม่ใช่คันถวิปปยุตตธรรม    เกิดขึ้น
+<span class="LineNumber"> 011 </span>เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 012 </span>                   ๙.  <B>ธรรมที่ไม่ใช่คันถสัมปยุตตธรรม และไม่ใช่คันถ-
+<span class="LineNumber"> 013 </span>วิปปยุตตธรรม   อาศัยธรรมที่ไม่ใช่คันถสัมปยุตตธรรม   และไม่ใช่
+<span class="LineNumber"> 014 </span>คันถวิปปยุตตธรรม  เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+
+<span class="LineNumber"> 015 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 016 </span>           [๑๐๙]  ในเหตุปัจจัย มี ๙ วาระ  ในอารัมมณปัจจัย มี ๖ วาระ  ใน
+<span class="LineNumber"> 017 </span>อธิปติปัจจัย  มี  ๙  วาระ  ฯลฯ  ในอวิคตปัจจัย  มี  ๙  วาระ.
+<span class="LineNumber"> 018 </span>           พึงให้พิสดารทุกวาระ.
+<span class="LineNumber"> 019 </span>                                 <I>นคันถสัมปยุตตทุกะ  จบ</I>

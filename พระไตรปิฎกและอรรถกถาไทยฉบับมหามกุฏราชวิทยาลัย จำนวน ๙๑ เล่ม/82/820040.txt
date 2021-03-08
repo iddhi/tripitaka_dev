@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                 <H1>มูลวารนิทเทสในนามบท</H1>
+<span class="LineNumber"> 002 </span>         <H1>[ ๑๘ ]                        มูลนยะที่  ๑</H1> 
+<span class="LineNumber"> 003 </span><H2>๑.  มูลยมกะ   ( มูลา)</H2>
+<span class="LineNumber"> 004 </span>         ธรรมเหล่าใดเหล่าหนึ่ง    ที่เป็นนาม    มีอยู่,    ธรรมเหล่านั้น
+<span class="LineNumber"> 005 </span>ทั้งหมด    ชื่อว่านามมูล   ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         มูลมี ๙ เท่านั้น<SUP>๑</SUP>     ชื่อว่านามมูล,     นามธรรมที่เหลือนอกนั้น
+<span class="LineNumber"> 007 </span>ไม่ชื่อว่านามมูล.
+<span class="LineNumber"> 008 </span>         ก็หรือว่าธรรมเหล่าใด     ชื่อว่านามมูล    มีอยู่,     ธรรมเหล่านั้น
+<span class="LineNumber"> 009 </span>ทั้งหมด  เป็นนาม  ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>	ใช่.
+<span class="LineNumber"> 011 </span><H2>๒.   เอกมูลยมกะ   ( เอกมูลา )</H2>
+<span class="LineNumber"> 012 </span>          ธรรมเหล่าใดเหล่าหนึ่ง    ที่เป็นนาม    มีอยู่,     ธรรมเหล่านั้น
+<span class="LineNumber"> 013 </span>ทั้งหมด    มีมูลเป็นอันเดียวกันกับนามมูล  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>          นามธรรมที่เป็นอเหตุกะ      ไม่มีมูลเป็นอันเดียวกันกับนามมูล, 
+<span class="LineNumber"> 015 </span>นามธรรมที่เป็นสเหตุกะ   มีมูลเป็นอันเดียวกันกับนามมูล.
+
+<span class='footnote'>๑.  กุศลมูล ๓,  อกุศลมูล ๓,  อัพยากตมูล ๓  รวมเป็น ๙.</span>

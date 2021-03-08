@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>         ในอสัญญสัตตภูมินั้น   รูปายตนะกำลังเกิดในภูมินั้น   แต่จักขา-
+<span class="LineNumber"> 002 </span>ยตนะไม่ใช่กำลังเกิดในภูมินั้น,   ในปัญจโวการภูมินั้น  รูปายตนะกำลัง
+<span class="LineNumber"> 003 </span>เกิด   และจักขายตนะก็กำลังเกิดในภูมินั้น. 
+<span class="LineNumber"> 004 </span>                           <I>จบ    จักขายตนมูละ   รูปายตนมูลี</I>
+<span class="LineNumber"> 005 </span><H2>จักขายตนมูละ   มนายตนมูลี :-</H2>
+<span class="LineNumber"> 006 </span>         [๓๑๐]   จักขายตนะกำลังเกิดในภูมิใด,   มนายตนะก็กำลังเกิด
+<span class="LineNumber"> 007 </span>ในภูมินั้น    ใช่ไหม  ?
+<span class="LineNumber"> 008 </span>         ใช่.
+<span class="LineNumber"> 009 </span>         ก็หรือว่า   มนายตนะกำลังเกิดในภูมิใด,   จักขายตนะก็กำลังเกิด
+<span class="LineNumber"> 010 </span>ในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 011 </span>         ในอรูปภูมินั้น    มนายตนะกำลังเกิดในภูมินั้น     แต่จักขายตนะ
+<span class="LineNumber"> 012 </span>ไม่ใช่กำลังเกิดในภูมินั้น,    ในปัญจโวการภูมินั้น   มนายตนะกำลังเกิด
+<span class="LineNumber"> 013 </span>และจักขายตนะก็กำลังเกิดในภูมินั้น.
+<span class="LineNumber"> 014 </span>                          <I>จบ   จักขายตนมูละ   มนายตนมูลี</I>

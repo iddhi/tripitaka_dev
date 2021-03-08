@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>              	<H2>รวมชาดกที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>	๑.  อัพภันตรชาดก  ๒.  เสยยชาดก   ๓. วัฑฒกีสูกรชาดก
+<span class="LineNumber"> 003 </span>๔.  สิริชาดก   ๕.  มณิสูกรชาดก   ๖.  สาลุกชาดก   ๗.  ลาภครหิก-
+<span class="LineNumber"> 004 </span>ชาดก  ๘. มัจฉทานชาดก  ๙.  นานาฉันทชาดก    ๑๐.  สีลวีมังส-
+<span class="LineNumber"> 005 </span>ชาดก.
+<span class="LineNumber"> 006 </span>                          	<I>จบ  อัพภันตรวรรคที่ ๔</I>

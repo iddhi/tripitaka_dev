@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหาชนกชาตกํ  หน้า  95
+
+<span class="LineNumber"> 002 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 003 </span>		กทา สุ มํ อริยคณา		วตฺถวนฺตา อลงฺกตา  
+<span class="LineNumber"> 004 </span>		หริจนฺทนลิตฺตงฺคา		กาสิกุตฺตมธาริโน  
+<span class="LineNumber"> 005 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 006 </span>		กทา สุ มํ สตฺตสตา ภริยา	สพฺพาลงฺการภูสิตา  
+<span class="LineNumber"> 007 </span>		ปีตจมฺมธรา สูรา			ปุรโต คจฺฉมาลินี (๑)
+<span class="LineNumber"> 008 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 009 </span>		กทา สุ มํ สตฺตสตา ภริยา	สุสฺา ตนุมชฺฌิมา  
+<span class="LineNumber"> 010 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 011 </span>		กทา สุ มํ สตฺตสตา ภริยา	อสฺสวา ปิยภาณินี  
+<span class="LineNumber"> 012 </span>		ยนฺตํ มํ นานุยิสฺสนฺติ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 013 </span>		กทาหํ ปตฺตํ คเหตฺวาน	มุณฺโฑ สงฺฆาฏิปารุโต  
+<span class="LineNumber"> 014 </span>		ปิณฺฑิกาย จริสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 015 </span>		กทาหํ ปํสุกูลานํ			อุชฺฌิตานํ มหาปเถ  
+<span class="LineNumber"> 016 </span>		สงฺฆาฏึ ธารยิสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 017 </span>		กทาหํ สตฺตาหํ เมเฆ (๒)     โอวุฏฺเ€ (๓) อลฺลจีวโร  
+<span class="LineNumber"> 018 </span>		ปิณฺฑิกาย จริสฺสามิ		ตํ กทา สุ ภวิสฺสติ  
+<span class="LineNumber"> 019 </span># ๑. ม. คจฺฉมาลิโน ฯ  ๒. ม. ยุ. สตฺตาหสมฺเมเฆ ฯ  
+<span class="LineNumber"> 020 </span># ๓. ม. โอวฏฺโ€ ฯ ยุ. โอวฏฺเฏ ฯ

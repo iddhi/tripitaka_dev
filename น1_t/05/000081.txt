@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                    ลักษณะแห่งอาบัติ 
+<span class="LineNumber"> 002 </span>           ๑.  ของสงฆ์เป็นวัตถุแห่งปาจิตตีย์.
+<span class="LineNumber"> 003 </span>           ๒.  ของบุคคลนอกจากของตนเอง เป็นวัตถุแห่งทุกกฏ.
+<span class="LineNumber"> 004 </span>           ๓.  ของอย่างอื่นจากวัตถุที่ระบุในสิกขาบท  เป็นวัตถุแห่งทุกกฏ.  
+<span class="LineNumber"> 005 </span>                                         ข้อยกเว้น
+<span class="LineNumber"> 006 </span>           ๑.  นั่งอยู่ก่อน  มีใครมานั่งภายหลัง  เป็นธุระของเขา  หรือเกิด
+<span class="LineNumber"> 007 </span>เหตุฉุกเฉิน  ไปโดยด่วน  ไม่เป็นอาบัติ.
+<span class="LineNumber"> 008 </span>           ๒.  เอาของเช่นนั้นออกตาก  ไม่นับเข้าในที่นี้.
+<span class="LineNumber"> 009 </span>                              ความมุ่งหมายแห่งสิกขาบท
+<span class="LineNumber"> 010 </span>           ทรงบัญญัติเพื่อจะกันความสะเพร่า  และเพื่อให้รู้จักถนอมของ.
+<span class="LineNumber"> 011 </span>                                       สิกขาบทที่ ๕
+<span class="LineNumber"> 012 </span>           <B>ภิกษุเอาที่นอนของสงฆ์ปูนอนในกุฎีสงฆ์แล้ว  เมื่อหลักไป
+<span class="LineNumber"> 013 </span>จากที่นั้น  ไม่เก็บเองก็ดี  ไม่ใช้ให้ผู้อื่นเก็บก็ดี  ไม่มอบหมาย
+<span class="LineNumber"> 014 </span>แก่ผู้อื่นก็ดี  ต้องปาจิตตีย์.</B>
+<span class="LineNumber"> 015 </span>           ข้อความที่ควรกำหนด  ดั่งนี้ :-
+<span class="LineNumber"> 016 </span>                               ลักษณะที่นอนและกุฎี
+<span class="LineNumber"> 017 </span>           ๑.  ที่นอนในที่นี้  หมายเอาฟูก  เสื่อ  ผ้าปูนอน  และของชนิดเดียว
+<span class="LineNumber"> 018 </span>กัน  ไม่ได้หมายเอาเตียงเอาม้าซึ่งเป็นของใช้ตั้ง.
+<span class="LineNumber"> 019 </span>           ๒.  กุฎีคือวิหารนั้น  ได้แก่ที่อยู่ ซึ่งในบัดนี้เรียกว่ากุฎีทั้งนั้น.
+<span class="LineNumber"> 020 </span>                                  กิริยาที่หลีกไป
+<span class="LineNumber"> 021 </span>           กิริยาที่หลีกไปหมายความว่า  ไปไม่กลับ  ถ้าไปยังจะกลับ  ไม่
+        

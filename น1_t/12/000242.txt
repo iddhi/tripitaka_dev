@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>	๕.  คุณวิเศษของคนเราได้แก่อะไร  ?  นาย  ก.  เรียนจบมหาวิทยาลัย 
+<span class="LineNumber"> 002 </span>               นาย  ข.  ได้บรรลุมรรคผลเบื้องต่ำ   ทั้ง  ๒  คนนี้   คนใดจัดว่า
+<span class="LineNumber"> 003 </span>               มีคุณวิเศษ  ?   และใครเก่งกว่ากัน ?
+			
+<span class="LineNumber"> 004 </span>			<B>	ต้นเอ๋ย       ต้นมะไฟ
+<span class="LineNumber"> 005 </span>			พุ่มพิไล   ใบตก   วิหคแฝง
+<span class="LineNumber"> 006 </span>			มีพวงผล    โสภา   ระย้าแซง
+<span class="LineNumber"> 007 </span>			หากเก็บแกง   ปรากฏ   มีรสดี.
+<span class="LineNumber"> 008 </span>				แต่ว่าไฟ   ในจิต   ร้ายฤทธิ์นัก
+<span class="LineNumber"> 009 </span>			คือไฟรัก    หลง,ชัง    ยังกะผี
+<span class="LineNumber"> 010 </span>			มันหลอกเผา   เราผง   ลงทุกที
+<span class="LineNumber"> 011 </span>			สมควรที่     ดับไฟ    ภายใจ   เอย.</B>
+<span class="LineNumber"> 012 </span>							<B>ศรี  ฯ   นคร</B>.

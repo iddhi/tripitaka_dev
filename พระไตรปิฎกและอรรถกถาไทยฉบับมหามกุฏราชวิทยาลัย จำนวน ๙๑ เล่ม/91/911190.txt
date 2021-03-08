@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                     <H2>การนับจำนวนวาระในอนุโลม</H2> 
+<span class="LineNumber"> 002 </span>           [๕๗๑]  ในเหตุปัจจัย มี ๖ วาระ  ฯลฯ  
+<span class="LineNumber"> 003 </span>           เหมือนกับสเหตุกทุกะ.
+
+<span class="LineNumber"> 004 </span>                                   <H2>เหตุวิปปยุตตบท</H2>
+<span class="LineNumber"> 005 </span>           [๕๗๒] ๑.  <B>เหตุวิปปยุตตธรรม  ที่เป็นอัพยากตะ  อาศัยธรรม
+<span class="LineNumber"> 006 </span>ที่ไม่ใช่เหตุวิปปยุตตธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>           มี ๖ วาระ  เหมือนกับอเหตุกทุกะ.
+<span class="LineNumber"> 008 </span>          <I>นกุสลติกนเหตุสัมปยุตตทุกกุสลติกเหตุทุกะ  จบ</I>	
+
+<span class="LineNumber"> 009 </span>                <H1>นกุสลติกนเหตุสเหตุกทุกกุสลติกเหตุสเหตุกทุกะ</H1>
+<span class="LineNumber"> 010 </span>                  <H2>(๑.  กุสลติกะ  ๔.  เหตุสเหตุกทุกะ)</H2>
+<span class="LineNumber"> 011 </span>                                         <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 012 </span>                                          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 013 </span>                                         <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 014 </span>                                        <H2>เหตุสเหตุกบท</H2>
+<span class="LineNumber"> 015 </span>           [๕๗๓] ๑.  <B>เหตุและสเหตุกธรรม  ที่เป็นอกุศล  อาศัยธรรม
+<span class="LineNumber"> 016 </span>ที่ไม่ใช่เหตุธรรม  และไม่ใช่อเหตุกธรรม  ที่ไม่ใช่กุศล  เกิดขึ้น
+<span class="LineNumber"> 017 </span>เพราะเหตุปัจจัย</B>

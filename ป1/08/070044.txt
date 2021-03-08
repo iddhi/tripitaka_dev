@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>แต่ในตัปปุริสสมาส  ใช้อาลปนะ  เป็น <B> มาเต, ธีเต,</B>  เหมือนคำว่า
+<span class="LineNumber"> 002 </span><B>ติสฺสมาเต,  เทวมาเต,  เทวธีเต, </B> เป็นตัวอย่าง. 
+<span class="LineNumber"> 003 </span>                                มโนคณะ<SUP>๑</SUP>  
+<span class="LineNumber"> 004 </span>	ศัพท์หมู่หนึ่ง ๑๒ ศัพท์  มี มน ศัพท์เป็นต้น เรียกว่า  มโนคณะ
+<span class="LineNumber"> 005 </span>เพราะเป็นหมู่แหง มน ศัพท์ เป็น นามนาม  โดยแท้  การแจกวิภัตติ
+<span class="LineNumber"> 006 </span>ของศัพท์เหล่านี้  คล้ายกับวิธีแจก  อ การันต์ในปุํลิงค์และนปุํสกลิงค์
+<span class="LineNumber"> 007 </span>แต่มีแปลกอยู่  ๕  วิภัตติ  คือ นา  (ต.)  กับ สฺมา  (ปญฺ.)  เป็น อา
+<span class="LineNumber"> 008 </span>ส. ทั้งสอง  (จ.กับ ฉ.)  เป็น โอ, สฺมึ   เป็น อิน แล้วลงตัวอักษร
+<span class="LineNumber"> 009 </span>ใหม่คือ ส  ซึ่งเรียกว่า "ลง ส อาคม"  ต่อที่ท้ายศัพท์มโนคณะนี้
+<span class="LineNumber"> 010 </span>จึงเป็น สา  เป็น โส เป็น สิ ดังจะแจกให้เห็นเป็นตัวอย่าง.
+<span class="LineNumber"> 011 </span>	มน ศัพท์เป็น  ทฺวิลิงค์  คือเป็น  ปุํลิงค์ และ นปุํสกลิงค์
+<span class="LineNumber"> 012 </span>	มน  ศัพท์เป็น ปุํลิงค์  แจกอย่างนี้.
+<span class="LineNumber"> 013 </span>	เอก.  ป.   <B>มโน</B>
+<span class="LineNumber"> 014 </span>                 ทุ.   <B>มนํ  (มโน)</B>    เหมือน อ การันต์ใน  ปุํลิงค์
+<span class="LineNumber"> 015 </span>                 ต.   <B>มนสา</B>
+<span class="LineNumber"> 016 </span>                  จ.   <B>มนโส</B>
+<span class="LineNumber"> 017 </span>                 ปญฺ. <B>มนสา</B>       }  ๕ วิภัตตินี้แปลจาก อ การันต์  ใน ปุํลิงค์
+<span class="LineNumber"> 018 </span>                   ฉ.   <B>มนโส</B>
+<span class="LineNumber"> 019 </span>                    ส.  <B>มนสิ</B> 
+ 
+<span class='footnote'>๑. มโนคณะ  พระครูมงคลวิลาส  (ลัภ  โกสโล  ) วัดราชาธิวาส  เรียบเรียง</span>

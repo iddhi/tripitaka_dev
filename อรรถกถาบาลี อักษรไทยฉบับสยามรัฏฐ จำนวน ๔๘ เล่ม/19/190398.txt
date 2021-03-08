@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  ๑๙  เมฆิยวคฺควณฺณนา  หน้า  ๓๙๘
+
+<span class="LineNumber"> 002 </span>		ตโตหํ  อวจํ  สิสฺเส  กามโภคี  อยํ  อิสิ  
+<span class="LineNumber"> 003 </span>		มยฺหมฺปิ  ภาสมานสฺส  อนุโมทึสุ  มาณวา ฯ  
+<span class="LineNumber"> 004 </span>		ตโต  มาณวกา  สพฺเพ  ภิกฺขมานํ  กุเล  กุเล  
+<span class="LineNumber"> 005 </span>		มหาชนสฺส  อาหํสุ  กามโภคี  อยํ  อิสิ ฯ  
+<span class="LineNumber"> 006 </span>		เตน  กมฺมวิปาเกน  ปฺจ  ภิกฺขุสตา  อิเม  
+<span class="LineNumber"> 007 </span>		อพฺภกฺขานํ  ลภภ  สพฺเพ  สุนฺทริกาย  การณา ฯ  
+<span class="LineNumber"> 008 </span>		เวมาตุภาติกํ  ปุพฺเพ  ธนเหตุ  หนึ  อหํ  
+<span class="LineNumber"> 009 </span>		ปกฺขิปึ  คิริทุคฺคสฺมึ  สิลาย  จ  อปึสยึ ฯ  
+<span class="LineNumber"> 010 </span>		เตน  กมฺมวิปาเกน  เทวทตฺโต  สีลํ  ขิปิ  
+<span class="LineNumber"> 011 </span>		องฺคุฏฺ€ํ  ปึสยี  ปาเท  มม  ปาสาณสกฺขรา ฯ  
+<span class="LineNumber"> 012 </span>		ปุเรหํ  ทารโก  หุตฺวา  กีฬมาโน  มหาปเถ  
+<span class="LineNumber"> 013 </span>		ปจฺเจกพุทฺธํ  ทิสฺวาน  มคฺเค  สกลิกํ  ทหึ(๑) ฯ  
+<span class="LineNumber"> 014 </span>		เตน  กมฺมวิปาเกน  อิธ  ปจฺฉิมเก  ภเว  
+<span class="LineNumber"> 015 </span>		วธตฺถํ  (๒)  มํ  เทวทตฺโต  อภิมาเร  ปโยชยิ ฯ  
+<span class="LineNumber"> 016 </span>		หตฺถาโรโห  ปุเร  อาสึ  ปจฺเจกมุนิมุตฺตมํ  
+<span class="LineNumber"> 017 </span>		ปิณฺฑาย  วิจรนฺตํ  ตํ  อาสาเทสึ  คเชนหํ ฯ  
+<span class="LineNumber"> 018 </span>		เตน  กมฺมวิปาเกน  ภนฺโต  นาฬาคิรี  คโช  
+<span class="LineNumber"> 019 </span>		คิริพฺพเช  ปุรวเร  ทารุโณ  สมุปาคมิ ฯ  
+<span class="LineNumber"> 020 </span>	ราชาหํ  ขตฺติโย  (๓)อาสึ  สตฺติยา  ปุริเส  หนึ  
+<span class="LineNumber"> 021 </span>		เตน  กมฺมวิปาเกน  นิรเย  ปจฺจิสํ  ภุสํ ฯ  
+<span class="LineNumber"> 022 </span>#  ๑.  ม.  ขิปึ ฯ  ๒.  สี.  อทุฏฺ€ํ ฯ  ๓.  ม.  ปตฺถิโว ฯ

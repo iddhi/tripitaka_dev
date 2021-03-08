@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>               <H1>๑๖.  มัคคารัมมณติกนมัคคารัมมณติกะ</H1> 
+<span class="LineNumber"> 002 </span>                                 <H2>ปฏิจจวาระ</H2> 
+<span class="LineNumber"> 003 </span>                                    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 005 </span>           [๑๐๗] ๑.  <B>ธรรมที่ไม่ใช่มัคคารัมมณธรรม  อาศัยธรรมที่เป็น
+<span class="LineNumber"> 006 </span>มัคคารัมมณธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>                       ๒.   <B>ธรรมที่ไม่ใช่มัคคเหตุกธรรม    อาศัยธรรมที่เป็น
+<span class="LineNumber"> 008 </span>มัคคารัมมณธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>                       ๓.  <B>ธรรมที่ไม่ใช่มัคคาธิปติธรรม    อาศัยธรรมที่เป็น
+<span class="LineNumber"> 010 </span>มัคคารัมมธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>                       ๔.  <B>ธรรมที่ไม่ใช่มัคคารัมมณธรรม  และธรรมที่ไม่ใช่
+<span class="LineNumber"> 012 </span>มัคคาธิปติธรรม  อาศัยธรรมที่เป็นมัคคารัมมณธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 013 </span>เหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                       ๕.  <B>ธรรมที่ไม่ใช่มัคคเหตุกธรรม  และธรรมที่ไม่ใช่
+<span class="LineNumber"> 015 </span>มัคคาธิปติธรรม  อาศัยธรรมที่เป็นมัคคารัมมณธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 016 </span>เหตุปัจจัย</B>

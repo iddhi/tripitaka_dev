@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>หรือเป็นทีฆะ  ไม่ต้องพฤทธิ์  และพยัญชนะ    คือ   ณ    นั้นต้องลบเสีย
+<span class="LineNumber"> 002 </span>คงไว้แต่สระที่  ณ  อาศัยและสระพยัญชนะอื่น ๆ. 
+<span class="LineNumber"> 003 </span>                                 ศัพท์ที่ลง  ณ  ปัจจัย  อย่างนี้
+<span class="LineNumber"> 004 </span>          วสิฏฺ€สฺส  อปจฺจํ   วาสิฏโ€  เหล่ากอ    แห่งวสิฏฐะ   ชื่อวาสิฏฐะ.
+<span class="LineNumber"> 005 </span>               ๑          ๒          ๓          ๒               ๑                ๓
+<span class="LineNumber"> 006 </span>โคตมสฺส    อปจฺจํ      โคตโม     เหล่ากอ      แห่งโคตมะ   ชื่อโคตมะ.  วสุเทวสฺส
+<span class="LineNumber"> 007 </span>      ๑           ๒            ๓            ๒                 ๑              ๔                ๑
+<span class="LineNumber"> 008 </span>อปจฺจํ    วาสุเทโว  เหล่ากอ  แห่งวสุเทวะ   ชื่อวาสุเทวะ.
+<span class="LineNumber"> 009 </span>   ๒             ๓         ๒             ๑                  ๓
+<span class="LineNumber"> 010 </span>                                ศัพท์ที่ลง   ณายน  ปัจจัย  อย่างนี้
+<span class="LineNumber"> 011 </span>          กจฺจสฺส    อปจฺจํ   กจฺจายโน    เหล่ากอ    แห่งกัจจะ   ชื่อกัจจายนะ.
+<span class="LineNumber"> 012 </span>              ๑            ๒           ๓              ๒             ๑                ๓
+<span class="LineNumber"> 013 </span>วจฺฉสฺส   อปจฺจํ   วจฺฉายโน     เหล่ากอ   แห่งวัจฉะ   ชื่อวัจฉายนะ.
+<span class="LineNumber"> 014 </span>   ๑           ๒         ๓                 ๒             ๑                 ๓
+<span class="LineNumber"> 015 </span>โมคฺคลฺลิยา   อปจฺจํ  โมคฺคลฺลายโน    เหล่ากอ   แห่งนางโมคคัลลี
+<span class="LineNumber"> 016 </span>      ๑              ๒             ๓                 ๒                 ๑
+<span class="LineNumber"> 017 </span>ชื่อโมคคัลลายนะ.
+<span class="LineNumber"> 018 </span>       ๓
+<span class="LineNumber"> 019 </span>                             ศัพท์ที่ลง  ณาน   ปัจจัย  อย่างนี้
+<span class="LineNumber"> 020 </span>           กจฺจาโน,    วจฺฉาโน,   โมคฺคลฺลาโน.    วิเคราะห์และคำแปล
+<span class="LineNumber"> 021 </span>เหมือนใน   ฌายน   ปัจจัย.
+
+    

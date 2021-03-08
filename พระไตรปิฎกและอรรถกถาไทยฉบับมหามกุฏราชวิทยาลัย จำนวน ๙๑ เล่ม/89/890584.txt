@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         คือ   อาวัชชนะ  เป็นปัจจัยแก่ขันธ์ทั้งหลายที่เป็นสังกิลิฏฐธรรม  ด้วย
+<span class="LineNumber"> 002 </span>อำนาจของอนันตรปัจจัย.
+
+<span class="LineNumber"> 003 </span>                      <H2>๕. สมนันตรปัจจัย   ฯลฯ   ๘.  นิสสยปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         <B>ฯลฯ    เป็นปัจจัย   ด้วยอำนาจของสมนันตรปัจจัย</B>  มี  ๔  วาระ.
+<span class="LineNumber"> 005 </span>         <B>ฯลฯ    เป็นปัจจัย   ด้วยอำนาจของสหชาตปัจจัย</B>   มี  ๕ วาระ.
+<span class="LineNumber"> 006 </span>         <B>ฯลฯ    เป็นปัจจัย   ด้วยอำนาจของอัญญมัญญปัจจัย</B>  มี ๒ วาระ.
+<span class="LineNumber"> 007 </span>         <B>ฯลฯ    เป็นปัจจัย   ด้วยอำนาจของนิสสยปัจจัย</B>   มี ๗ วาระ.
+
+<span class="LineNumber"> 008 </span>                                      <H2>๙.  อุปนิสสยปัจจัย</H2>
+<span class="LineNumber"> 009 </span>         [๕๒๗] ๑.  <B>สังกิลิฏฐธรรม  เป็นปัจจัยแก่สังกิลิฏฐธรรม ด้วย
+<span class="LineNumber"> 010 </span>อำนาจของอุปนิสสยปัจจัย</B>
+<span class="LineNumber"> 011 </span>         มี ๓ อย่าง  คือที่เป็น  <B>อารัมมณูปนิสสยะ   อนันตรูปนิสสยะ</B>  และ
+<span class="LineNumber"> 012 </span><B>ปกตูปนิสสยะ</B>
+<span class="LineNumber"> 013 </span>         ที่เป็น  <B>ปกตูปนิสสยะ</B>  ได้แก่
+<span class="LineNumber"> 014 </span>         บุคคลเข้าไปอาศัยราคะ   แล้วฆ่าสัตว์ ฯลฯ   ทำลายสงฆ์.
+<span class="LineNumber"> 015 </span>         บุคคลเข้าไปอาศัยโทสะ  ฯลฯ    ความปรารถนา   แล้วฆ่าสัตว์   ฯลฯ
+<span class="LineNumber"> 016 </span>ทำลายสงฆ์.
+<span class="LineNumber"> 017 </span>         ราคะ ฯลฯ    ความปรารถนา     เป็นปัจจัยแก่ราคะ ฯลฯ    แก่ความ
+<span class="LineNumber"> 018 </span>ปรารถนา  ด้วยอำนาจของอุปนิสสยปัจจัย.

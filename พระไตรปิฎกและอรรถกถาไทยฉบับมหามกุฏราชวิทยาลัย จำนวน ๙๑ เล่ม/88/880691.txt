@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>ปัญหาวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>           [๖๒๕] ๑.  <B>นีวรณสัมปยุตตธรรม  เป็นปัจจัยแก่นีวรณสัมป-
+<span class="LineNumber"> 005 </span>ยุตตธรรม   ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  เหตุทั้งหลายที่เป็นนีวรณสัมปยุตตธรรม  เป็นปัจจัยแก่สัมปยุตต-
+<span class="LineNumber"> 007 </span>ขันธ์ทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.                                               
+<span class="LineNumber"> 008 </span>                       ๒.  <B>นีวรณสัมปยุตตธรรม   เป็นปัจจัยแก่นีวรณสัมป-
+<span class="LineNumber"> 009 </span>ยุตตธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 010 </span>           เหตุทั้งหลายที่เป็นนีวรณสัมปยุตตธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 011 </span>รูปทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.                                                 
+<span class="LineNumber"> 012 </span>                       ๓.  <B>นีวรณสัมปยุตตธรรม    เป็นปัจจัยแก่นีวรณสัมป-
+<span class="LineNumber"> 013 </span>ยุตตธรรม  และนีวรณวิปปยุตตธรรม  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 014 </span>           เหตุทั้งหลายที่เป็นนีวรณสัมปยุตตธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์
+<span class="LineNumber"> 015 </span>และจิตตสมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของเหตุปัจจัย.
+<span class="LineNumber"> 016 </span>                       ๔. <B>นีวรณวิปปยุตตธรรม    เป็นปัจจัยแก่นีวรณวิปป-
+<span class="LineNumber"> 017 </span>ยุตตธรรม  ด้วยอำนาจของเหตุปัจจัย</B>

@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                          สามัญญลักษณะ   ๓   อย่าง  
+<span class="LineNumber"> 002 </span>	<B>ลักษณะที่เสมอกันแก่สังขารทั้งปวง           เรียกสามัญญลักษณะ
+<span class="LineNumber"> 003 </span>ไตรลักษณะก็เรียก   แจกเป็น   ๓  อย่าง</B>
+<span class="LineNumber"> 004 </span>	  ๑.  <B>อนิจจตา</B>    ความเป็นของไม่เที่ยง.
+<span class="LineNumber"> 005 </span>	๒. <B>ทุกขตา</B>    ความเป็นทุกข์.
+<span class="LineNumber"> 006 </span>	๓.  <B>อนัตตตา</B>   ความเป็นของไม่ใช่ตน. 
+<span class="LineNumber"> 007 </span>										  สํ.   สฬ.   ๑๘/๑
+<span class="LineNumber"> 008 </span>                                     อธิบายศัพท์ 
+<span class="LineNumber"> 009 </span>	   ศัพท์ว่า   <B>สังขาร</B>   แปลว่า   ปรุงแต่ง   มีความหมายลึกซึ้งซับซ้อน
+<span class="LineNumber"> 010 </span>มาก   นักธรรมควรกำหนดดังต่อไปนี้ :-
+<span class="LineNumber"> 011 </span>	๑.   <B>สังขารผู้ปรุงแต่ง</B>    แบ่งออกเป็น  ๓   ประเภท   คือ:-
+<span class="LineNumber"> 012 </span>	ก.  กายสังขาร   ผู้ปรุงแต่งร่างกายให้เป็นอยู่   ได้แก่ลมหายใจ.
+<span class="LineNumber"> 013 </span>	ข.  วจีสังขาร   ผู้ปรุงแต่งวาจาให้พูดเป็นภาษา    ได้แก่ความตรึก-
+<span class="LineNumber"> 014 </span>              ตรอง.
+<span class="LineNumber"> 015 </span>	ค.  จิตตสังขาร    ผู้ปรุงแต่งจิตให้นึกคิดต่าง ๆ  ได้แก่ความจำ,
+<span class="LineNumber"> 016 </span>               ความจงใจ    อันเป็นส่วนดีบ้าง   ส่วนชั่วบ้าง   ส่วนกลาง  ๆ   บ้าง
+<span class="LineNumber"> 017 </span>               ที่เป็นไปในรูป  เสียง   กลิ่น   รส   โผฏฐัพพะ,   และความรู้สึก
+<span class="LineNumber"> 018 </span>                อารมณ์ในทางเป็นสุข   หรือเป็นทุกข์  หรือไม่ทุกข์ไม่สุข.
+
+	

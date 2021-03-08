@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>                        <H1>นรูปีทุกนกุสลติกรูปีทุกกุสลติกะ</H1>    
+<span class="LineNumber"> 002 </span>                      <H2>(๑๑. รูปีทุกะ  ๑.  กุสลติกะ)</H2>  	
+<span class="LineNumber"> 003 </span>                                     <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                        <H2>กุศลบท</H2>
+<span class="LineNumber"> 007 </span>           [๒๐๘]  ๑. <B>กุศลธรรม   ที่เป็นอรูปีธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 008 </span>กุศล  ที่ไม่ใช่อรูปีธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 009 </span>                    <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>           [๒๐๙]  ในเหตุปัจจัย มี ๑ วาระ   ฯลฯ
+
+<span class="LineNumber"> 011 </span>                                     <H2>อกุศลบท</H2>
+<span class="LineNumber"> 012 </span>           [๒๑๐] ๑.  <B>อกุศลธรรม  ที่เป็นอรูปีธรรม  อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 013 </span>อกุศล  ที่ไม่ใช่อรูปีธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+
+<span class="LineNumber"> 014 </span>                 <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 015 </span>           [๒๑๑]  ในเหตุปัจจัย  มี ๑ วาระ  ฯลฯ 

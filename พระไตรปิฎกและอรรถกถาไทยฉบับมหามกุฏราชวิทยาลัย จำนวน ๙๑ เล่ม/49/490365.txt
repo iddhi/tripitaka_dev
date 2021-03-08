@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	           <H1>๒.  สานุวาสีเถรเปตวัตถุ</H1>  
+
+<span class="LineNumber"> 002 </span>                   <H2>ว่าด้วยพระเถระทำทานอุทิศถึงเปรต</H2>
+
+<span class="LineNumber"> 003 </span>            <B>[๑๑๒]      พระเถระชาวกุณฑินครรูปหนึ่ง   อยู่ที่
+<span class="LineNumber"> 004 </span>    	ภูเขาสานุวาสี  มีนามว่า  โปฏฐปาทะ  เป็นสมณะ
+<span class="LineNumber"> 005 </span>    	ผู้มีอินทรีย์อันอบรมดีแล้ว   มารดาบิดาและพี่ชาย
+<span class="LineNumber"> 006 </span>    	ของท่านเกิดในยมโลก   เสวยทุกขเวทนา  เพราะ
+<span class="LineNumber"> 007 </span>    	ทำกรรมลามก    จึงจากโลกนี้ไปสู่เปตโลก   เปรต
+<span class="LineNumber"> 008 </span>    	เหล่านั้นถึงทุคติ   มีช่องปากเท่ารูเข็ม   ลำบากยิ่ง
+<span class="LineNumber"> 009 </span>    	นัก   เปลือยกายซูบผอม   มีความเกรงกลัวสะดุ้ง
+<span class="LineNumber"> 010 </span>    	หวาดเสียวมาก   มีการงานทารุณ ไม่อาจแสดงตน
+<span class="LineNumber"> 011 </span>    	แก่พระเถระได้  เปรตผู้เป็นพี่ชายของท่านตนเดียว
+<span class="LineNumber"> 012 </span>    	เปลือยกายรีบไปนั่งคุกเข่าประนมมือแสดงตน
+<span class="LineNumber"> 013 </span>     	แต่พระเถระ   พระเถระไม่ใส่ใจถึง   เป็นผู้นิ่งเดิน
+<span class="LineNumber"> 014 </span>    	เลยไป  เปรตนั้นจึงบอกให้พระเถระรู้ว่า  ข้าพเจ้า
+<span class="LineNumber"> 015 </span>    	พี่ชายของท่านไปสู่เปตโลก      ข้าแต่ท่านผู้เจริญ 
+<span class="LineNumber"> 016 </span>    	มารดาบิดาของท่านเกิดในยมโลกเสวยทุกข์
+<span class="LineNumber"> 017 </span>    	เพราะทำบาปกรรม      จึงจากโลกนี้ไปสู่เปตโลก
+<span class="LineNumber"> 018 </span>    	เปรตผู้เป็นมารดาบิดาของท่านทั้งสองนั้น   มีช่อง
+<span class="LineNumber"> 019 </span>    	ปากเท่ารูเข็ม   ลำบากมาก   เปลือยกาย   ซูบผอม
+<span class="LineNumber"> 020 </span>    	มีความเกรงกลัวสะดุ้งหวาดเสียวมาก   มีการงาน</B>

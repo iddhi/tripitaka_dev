@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                       ส. เวทนาขันธ์   สัญญาขันธ์   ส่วนหนึ่งสัมปยุตด้วยจิต   อีก 
+<span class="LineNumber"> 002 </span>ส่วนหนึ่งเป็นจิตตวิปปยุต   หรือ ?
+<span class="LineNumber"> 003 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 004 </span>         [๑๔๕๓]  ป. ไม่พึงกล่าวว่า  ญาณเป็นจิตตวิปปยุต  หรือ ?
+<span class="LineNumber"> 005 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 006 </span>                       ป. พระอรหันต์     ผู้พร้อมเพรียงด้วยจักขุวิญญาณ   พึง
+<span class="LineNumber"> 007 </span>กล่าวว่า ผู้มีญาณ  หรือ ?
+<span class="LineNumber"> 008 </span>                       ส. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                       ป. ญาณ   สัมปยุตด้วยจิตนั้น หรือ ?
+<span class="LineNumber"> 010 </span>                       ส. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 011 </span>                       ป. ถ้าอย่างนั้น  ญาณก็เป็นจิตตวิปปยุต  น่ะสิ.
+<span class="LineNumber"> 012 </span>                       ส. พระอรหันต์    ผู้พร้อมเพรียงด้วยจักจุวิญญาณ   พึง
+<span class="LineNumber"> 013 </span>กล่าวว่า ผู้มีปัญญา หรือ ?
+<span class="LineNumber"> 014 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 015 </span>                       ส.  ปัญญา  สัมปยุตด้วยจิตนั้น  หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 017 </span>                       ส.  ถ้าอย่างนั้น  ปัญญาก็เป็นจิตตวิปปยุต  น่ะสิ.
+
+<span class="LineNumber"> 018 </span>                          <I>ญาณังจิตตวิปปยุตตันติกถา  จบ</I>

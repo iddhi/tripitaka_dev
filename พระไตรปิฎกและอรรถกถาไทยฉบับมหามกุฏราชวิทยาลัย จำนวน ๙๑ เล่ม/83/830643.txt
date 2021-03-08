@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>จำพวกละไม่ได้แล้ว   กามราคานุสัย   และปฏิฆานุสัย  บุคคล ๓ จำพวก 
+<span class="LineNumber"> 002 </span>ก็ยังละไม่ได้.
+<span class="LineNumber"> 003 </span>          <I>จบ  กามราคานุสย - ปฏิฆานุสยมูละ  ภวราคานุสยาทิมูลี</I> 
+<span class="LineNumber"> 004 </span>                           <I>กามราคานุสย-ปฏิฆานุสยมูล  จบ</I>
+<span class="LineNumber"> 005 </span>                                         <I>ทุกมูลกะ  จบ</I>
+
+<span class="LineNumber"> 006 </span>                    <H1>กามราคานุสย - ปฏิฆานุสย - มานานุสยมูล</H1>
+<span class="LineNumber"> 007 </span><H2>ติกมูลกะ - กามราคานุสย - ปฏิฆานุสย - มานานุสยมูละ
+<span class="LineNumber"> 008 </span>                 ทิฏฐานุสยาทิมูลี</H2> :-
+<span class="LineNumber"> 009 </span>         [๑๕๓๖]   กามราคานุสัย    ปฏิฆานุสัย    และมานานุสัย    อัน
+<span class="LineNumber"> 010 </span>บุคคลใดละไม่ได้  ทิฏฐานุสัย   ฯลฯ  วิจิกิจฉานุสัย   อันบุคคลนั้นก็ยัง
+<span class="LineNumber"> 011 </span>ละไม่ได้  ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         กามราคานุสัย   ปฏิฆานุสัย   และมานานุสัย   บุคคล ๒ จำพวก
+<span class="LineNumber"> 013 </span>ยังละไม่ได้  แต่วิจิกิจฉานุสัย  บุคคล ๒ จำพวกเหล่านั้น  ไม่ใช่ละไม่ได้,
+<span class="LineNumber"> 014 </span>กามราคานุสัย   ปฏิฆานุสัย    และมานานุสัย    ปุถุชนยังละไม่ได้  และ
+<span class="LineNumber"> 015 </span>วิจิกิจฉานุสัย   ปุถุชนก็ยังละไม่ได้.

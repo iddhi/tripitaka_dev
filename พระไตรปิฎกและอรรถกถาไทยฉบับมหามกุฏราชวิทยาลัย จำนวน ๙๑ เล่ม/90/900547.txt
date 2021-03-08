@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>		๓.  อัพยากตธรรมที่เป็นอุปาทานิยธรรม  อาศัย 
+<span class="LineNumber"> 002 </span>อัพยากตธรรมที่เป็นอนุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย		
+<span class="LineNumber"> 003 </span>      		๔.  อัพยากตธรรมที่เป็นอุปาทานิยธรรม     และ
+<span class="LineNumber"> 004 </span>อัพยากตธรรมที่เป็นอนุปาทานิยธรรม      อาศัยอัพยากตธรรมที่เป็น
+<span class="LineNumber"> 005 </span>อนุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 006 </span>		๕.  อัพยากตธรรมที่เป็นอุปาทานิยธรรม  อาศัย
+<span class="LineNumber"> 007 </span>อัพยากตธรรมที่เป็นอุปาทานิยธรรม      และอัพยากตธรรมที่เป็น
+<span class="LineNumber"> 008 </span>อนุปาทานิยธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 009 </span>                   	<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 010 </span>		[๑๕๗๐]  ในเหตุปัจจัย  มี ๕ วาระ   ในอารัมมณปัจจัย มี  ๒   วาระ
+<span class="LineNumber"> 011 </span>ฯลฯ  ในอวิคตปัจจัย  มี ๕ วาระ.
+<span class="LineNumber"> 012 </span>          	เหมือนกับโลกิยโลกุตตรทุกะอัพยากตบท.
+<span class="LineNumber"> 013 </span>           	สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี  พึงให้พิสดาร.
+<span class="LineNumber"> 014 </span>				<I>อุปาทานิยทุกกุสลติกะ  จบ</I>

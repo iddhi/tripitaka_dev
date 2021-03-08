@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>รวมอปทานที่มีในวรรคนี้   คือ</H1>
+<span class="LineNumber"> 002 </span>         ๑.   อัมพฏผลทายกเถราปทาน      ๒.  ลพุชทายกเถราปทาน     ๓.
+<span class="LineNumber"> 003 </span>อุทุมพรผลทายกเถราปทาน   ๔.  มิลักขุผลทายกเถราปทาน   ๕.  ผารุสผล-
+<span class="LineNumber"> 004 </span>ทายกเถราปทาน    ๖.  วัลลิผลทายกเถราปทาน    ๗.  กทลิผลทายกเถรา-
+<span class="LineNumber"> 005 </span>ปทาน   ๘.  ปนสผลทายกเถราปทาน    ๙.  โสณโกฏิวิสเถราปทาน     ๑๐.
+<span class="LineNumber"> 006 </span>พุทธาปทานชื่อปุพพกัมมปิโลติ.
+<span class="LineNumber"> 007 </span>         บัณฑิตทั้งหลายคำนวณคาถาได้  ๙๑  คาถา.
+<span class="LineNumber"> 008 </span>	                   <I>จบอัมพฏผลวรรคที่  ๓๙</I>
+<span class="LineNumber"> 009 </span>	                         <I>จบภาณวารที่ ๑๔</I>

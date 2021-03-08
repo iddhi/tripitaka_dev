@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 48   หน้า  448
+
+<span class="LineNumber"> 002 </span>			นิคมนกถา 
+<span class="LineNumber"> 003 </span>	เอตฺตาวตา จ
+<span class="LineNumber"> 004 </span>		ปณฺณาสเกหิ จตูหิ	ตีหิ วคฺเคหิเทว(๑) จ
+<span class="LineNumber"> 005 </span>		สงฺคเหตฺวา กถา สพฺพา	อูนติสตเภทนา ฯ (๒) 
+<span class="LineNumber"> 006 </span>		กถาวตฺถุปฺปกรณํ	กถามคฺเคสุ โกวิโท 
+<span class="LineNumber"> 007 </span>		ยํ ชิโน เทสยิ ตสฺส	นิฏฺ€ิตา อตฺถวณฺณนา ฯ 
+<span class="LineNumber"> 008 </span>		อิมํ เตรสมตฺเตหิ	ภาณวาเรหิ ตนฺติยา 
+<span class="LineNumber"> 009 </span>		จิรฏฺ€ิตตฺถํ ธมฺมสฺส	สงฺขโรนฺเตน ยํ มยา ฯ 
+<span class="LineNumber"> 010 </span>		สมฺปตฺตํ (๓) กุสลนฺเตน   โลโกยํ สนรามโร 
+<span class="LineNumber"> 011 </span>		ธมฺมราชสฺส สทฺธมฺม-	สเมวาธิคจฺฉตูติ ฯ 
+<span class="LineNumber"> 012 </span>			กถาวตฺถุปฺปกรณฏฺ€กถา นิฏฺ€ิตา ฯ 
+<span class="LineNumber"> 013 </span># ๑. ม. วคฺเคหิเจว จ ฯ  ๒. จตูสุ ปณฺณาสเกสุ ทฺวิสตํ ตีสุ วคฺเคสุ ตึส
+<span class="LineNumber"> 014 </span># กาถาติ  ตึสาธิกทฺวิสตปฺปเภทาติ อตฺโถติ โยชนา ฯ 
+<span class="LineNumber"> 015 </span># ๓. ม. ยํ ปตฺตํ ฯ

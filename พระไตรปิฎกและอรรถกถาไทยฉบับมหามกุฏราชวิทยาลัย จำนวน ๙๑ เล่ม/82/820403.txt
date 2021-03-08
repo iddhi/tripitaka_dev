@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span><H2>จักขายตนมูละ  มนายตนมูลี :-</H2> n
+<span class="LineNumber"> 002 </span>         [๓๘๔]   จักขายตนะจักเกิดแก่บุคคลใดในภูมิใด,    มนายตนะ
+<span class="LineNumber"> 003 </span>ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ? 
+<span class="LineNumber"> 004 </span>         ใช่. 
+<span class="LineNumber"> 005 </span>         ก็หรือว่า   มนายตนะจักเกิดแก่บุคคลใดในภูมิใด,    จักขายตนะ
+<span class="LineNumber"> 006 </span> ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         บุคคลที่เกิดอยู่ในอรูปภูมินั้น     มนายตนะจักเกิดแก่บุคคลเหล่า
+<span class="LineNumber"> 008 </span>นั้นในภูมินั้น     แต่จักขายตนะไม่ใช่จักเกิดแก่บุคคลเหล่านั้นในภูมินั้น,
+<span class="LineNumber"> 009 </span>บุคคลที่เกิดอยู่ในปัญจโวการภูมินั้น   มนายตนะจักเกิด  และจักขายตนะ
+<span class="LineNumber"> 010 </span>ก็จักเกิดแก่บุคคลเหล่านั้นในภูมินั้น.
+<span class="LineNumber"> 011 </span>                            <I>จบ  จักขายตนมูละ  มนายตนมูลี</I>
+<span class="LineNumber"> 012 </span><H2>จักขายตนมูละ   ธัมมายตนมูลี :-</H2>
+<span class="LineNumber"> 013 </span>         [๓๘๕]   จักขายตนะจักเกิดแก่บุคคลใดในภูมิใด,    ธัมมายตนะ
+<span class="LineNumber"> 014 </span>ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม ?
+<span class="LineNumber"> 015 </span>         ใช่.
+<span class="LineNumber"> 016 </span>         ก็หรือว่า  ธัมมายตนะจักเกิดแก่บุคคลใดในภูมิใด,   จักขายตนะ
+<span class="LineNumber"> 017 </span>ก็จักเกิดแก่บุคคลนั้นในภูมินั้น  ใช่ไหม  ?

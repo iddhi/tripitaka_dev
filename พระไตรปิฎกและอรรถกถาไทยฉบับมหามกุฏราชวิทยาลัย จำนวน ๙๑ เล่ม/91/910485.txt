@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>๓.  อนุโลมปัจจนียทุกติกปัฏฐาน</H1> 
+<span class="LineNumber"> 002 </span>                       <H1>เหตุทุกกุสลติกนเหตุทุกนกุสลติกะ</H1>
+<span class="LineNumber"> 003 </span>                      <H2>(๑. เหตุทุกะ  ๑.  กุสลติกะ)</H2> 
+<span class="LineNumber"> 004 </span>                                      <H2>ปฏิจจวาระ</H2>	
+<span class="LineNumber"> 005 </span>                                       <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 007 </span>                                           <H2>กุศลบท</H2>	
+<span class="LineNumber"> 008 </span>           [๒๒๑] ๑.  <B>ธรรมที่ไม่ใช่กุศล ที่ไม่ใช่เหตุ อาศัยธรรมที่เป็น
+<span class="LineNumber"> 009 </span>กุศล  ที่เป็นเหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                       ๒.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่เหตุ<SUP>๑</SUP>  อาศัยธรรมที่เป็น
+<span class="LineNumber"> 011 </span>กุศล  ที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>                       ๓.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่เหตุ  อาศัยธรรมที่เป็น
+<span class="LineNumber"> 013 </span>กุศล  ที่เป็นเหตุ  และธรรมที่เป็นกุศล  ที่ไม่ใช่เหตุ  เกิดขึ้น  เพราะ-
+<span class="LineNumber"> 014 </span>เหตุปัจจัย</B>   มี ๓ วาระ  ได้จิตตสมุฏฐานรูปอย่างเดียว.
+<span class="LineNumber"> 015 </span>           <B>อารัมมณปัจจัยไม่มี</B> 
+<span class='footnote'>๑. ม.  นนเหตุ = ที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ</span>

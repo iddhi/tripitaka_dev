@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>	        <h1>๙.  ทุติยจริตสูตร</h1>  
+<span class="LineNumber"> 002 </span>                                 <h2>ว่าด้วยวจีสุจริต  ๔</h2>
+<span class="LineNumber"> 003 </span>            [๑๔๙]    ดูก่อนภิกษุทั้งหลาย  วจีสุจริต ๔ นี้ ฯลฯ  คือ
+<span class="LineNumber"> 004 </span>        	<B>สจฺจวาจา</B>             	พูดจริง
+<span class="LineNumber"> 005 </span>  	<B>อปิสุณวาจา</B>         	ไม่พูดส่อเสียด
+<span class="LineNumber"> 006 </span>      	<B>สณฺหวาจา</B>           	พูดสุภาพ
+<span class="LineNumber"> 007 </span>      	<B>มนฺตาภาสา</B>         	พูดด้วยปัญญา
+<span class="LineNumber"> 008 </span>            ภิกษุทั้งหลาย  นี้แล  วจีสุจริต  ๔.
+<span class="LineNumber"> 009 </span>	                  <I>จบทุติยจริตสูตรที่ ๙</I>
+<span class="LineNumber"> 010 </span>	<H1>อรรถกถาทุติยจริตสูตร</H1>
+<span class="LineNumber"> 011 </span>            พึงทราบวินิจฉัยในทุติยจริตสูตรที่ ๙ ดังต่อไปนี้ :-
+<span class="LineNumber"> 012 </span>            บทว่า  <B>สณฺหวาจา</B>  ได้แก่ วาจาอ่อนโยน.   บทว่า  <B>มนฺตาภาสา</B>
+<span class="LineNumber"> 013 </span>ได้แก่   เรื่องที่กำหนดด้วยปัญญา   ที่เรียกว่ามันตาแล้ว   จึงกล่าว.
+<span class="LineNumber"> 014 </span>                                <I>จบอรรถกถาทุติยจริตสูตรที่  ๙</I>
+                                      

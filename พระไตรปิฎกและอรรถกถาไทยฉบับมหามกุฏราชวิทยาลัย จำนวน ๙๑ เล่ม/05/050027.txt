@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 002 </span>                                            <H2>ติกปาราชิก</H2> 
+<span class="LineNumber"> 003 </span>             [๒๔]   กรรมเป็นธรรม     ภิกษุณีสำคัญว่ากรรมเป็นธรรม    ไม่สละ
+<span class="LineNumber"> 004 </span>ต้องอาบัติปาราชิก.
+<span class="LineNumber"> 005 </span>            กรรมเป็นธรรม  ภิกษุณีสงสัย  ไม่สละ  ต้องอาบัติปาราชิก.
+<span class="LineNumber"> 006 </span>            กรรมเป็นธรรม  ภิกษุณีสำคัญว่ากรรมไม่เป็นธรรม    ไม่สละ   ต้อง
+<span class="LineNumber"> 007 </span>อาบัติปาราชิก.
+<span class="LineNumber"> 008 </span>                                              <H1>ติกทุกกฏ</H1>
+<span class="LineNumber"> 009 </span>            กรรมไม่เป็นธรรม   ภิกษุณีสำคัญว่า    กรรมเป็นธรรม. . .ต้องอาบัติ
+<span class="LineNumber"> 010 </span>ทุกกฏ.
+<span class="LineNumber"> 011 </span>            กรรมไม่เป็นธรรม   ภิกษุณีสงสัย. . . ต้องอาบัติทุกกฏ.  
+<span class="LineNumber"> 012 </span>            กรรมไม่เป็นธรรม  ภิกษุณีสำคัญว่ากรรมไม่เป็นธรรม. . .ต้องอาบัติ
+<span class="LineNumber"> 013 </span>ทุกกฏ.
+<span class="LineNumber"> 014 </span>                                          <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 015 </span>            [๒๕]   ยังไม่ถูกสวดสมนุภาส ๑   ยอมสละเสีย ๑   วิกลจริต ๑  อาทิ-
+<span class="LineNumber"> 016 </span>กัมมิกา ๑  ไม่ต้องอาบัติแล.
+<span class="LineNumber"> 017 </span>                                     <I>ปาราชิกสิกขาบทที่  ๓  จบ</I>

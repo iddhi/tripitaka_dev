@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span><B>หน้า		ศัพท์				คำอธิบาย</B>   
+<span class="LineNumber"> 002 </span><B>๓๘  พระอรรถกถาจารย์</B>		อาจารย์ผู้แต่งคำอธิบายบาลี.
+<span class="LineNumber"> 003 </span><B>๑๘๖  พลอย</B>   				หินที่มีเนื้อใส  มีสีต่าง ๆ  ใช้ทำเป็นเครื่อง
+<span class="LineNumber"> 004 </span>						ประดับมีหัวแหวนเป็นต้น.
+<span class="LineNumber"> 005 </span><B>๓๖  พละตนเอง</B>			กำลังตนเอง,  อำเภอใจตนเอง.
+<span class="LineNumber"> 006 </span><B>๑๓๗  พอก</B>				โบก,  โปะให้หนา.
+<span class="LineNumber"> 007 </span><B>๒  พระยักพะเยิด</B>			ในที่นี้ได้แก่การรับที่ไม่รัดกุม,  วิธีเดิม.
+<span class="LineNumber"> 008 </span><B>๒๘  พันทาง</B>				กะเทยหรือบัณเฑาะก์.
+<span class="LineNumber"> 009 </span><B>๖๖  พากย์	</B>				คำพูด.
+<span class="LineNumber"> 010 </span><B>๓๖  พิกัด</B>					กำหนด.
+<span class="LineNumber"> 011 </span><B>๑๓๐  พีชคาม</B>				พืชพันธุ์อันเกิดจากเง่า  ๑  ต้น  ๑ ข้อ ๑  ยอด ๑
+<span class="LineNumber"> 012 </span>						เมล็ด  ๑  อันถูกพรากจากที่แล้ว  แต่ยังจะปลูก
+<span class="LineNumber"> 013 </span>						ให้งอกต่อไปอีกได้.
+<span class="LineNumber"> 014 </span><B>ง  พุทธบัญญัติ</B>  			ข้อบังคับของพระพุทธเจ้า,  ข้อที่พระพุทธเจ้า
+<span class="LineNumber"> 015 </span>						ทรงตรา -  แต่ตั้ง.
+<span class="LineNumber"> 016 </span><B>ง  พุทธอาณา</B>				อำนาจการปกครองของพระพุทธเจ้า,  บท
+<span class="LineNumber"> 017 </span>						บัญญัติของพระพุทธเจ้า.
+<span class="LineNumber"> 018 </span><B>๕๘  พูดเคาะ</B>				พูดเกี้ยว.
+<span class="LineNumber"> 019 </span><B>๑๘๖  เพชร</B>				แก้วเข็งที่สุดและมีน้ำ  (แสง)  แวววาวมาก
+<span class="LineNumber"> 020 </span>						กว่าพลอยอย่างอื่น  ใช้ทำเครื่องประดับ.
+<span class="LineNumber"> 021 </span><B>๖๐  แพศยา</B>				หญิงหากินทางกาม.
+

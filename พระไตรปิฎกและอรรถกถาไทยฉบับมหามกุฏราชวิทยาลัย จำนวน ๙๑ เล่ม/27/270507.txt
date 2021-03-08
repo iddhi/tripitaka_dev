@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>๒๑. รูปีจอรูปีจอัตตสูตร</H1>   
+
+<span class="LineNumber"> 002 </span>    <H1>ว่าด้วยอัตตาทั้งที่มีรูป ทั้งที่ไม่มีรูป</H1>
+
+<span class="LineNumber"> 003 </span>           [๔๕๒]  กรุงสาวัตถี.   อัตตาทั้งที่มีรูป   ทั้งที่ไม่มีรูป   หลังจาก
+<span class="LineNumber"> 004 </span>ตายไปแล้ว  ย่อมไม่สลายไป  ฯลฯ
+<span class="LineNumber"> 005 </span>                                     <I>จบ  รูปีจอรูปีจอัตตสูตร</I>
+
+<span class="LineNumber"> 006 </span>    <H1>อรรถกถารูปีขอรูปีจอัตตสูตรที่  ๒๑</H1>
+
+<span class="LineNumber"> 007 </span>           บทว่า  <B>รูปีจอรูปีจ</B>  ได้แก่     อารมณ์และฌาน  คือ  ทิฏฐิที่ยึดถือ
+<span class="LineNumber"> 008 </span>(อารมณ์และฌาน) ว่า  เป็น <B>อัตตา.</B>
+<span class="LineNumber"> 009 </span>                                <I>จบ  อรรถกถารูปีจอรูปีจอัตตสูตร</I>
+
+<span class="LineNumber"> 010 </span>                   <H1>๒๒.  เนวรูปีนารูปีอัตตสูตร</H1>
+
+<span class="LineNumber"> 011 </span><H1>ว่าด้วยอัตตาที่มีรูปก็หามิได้  ไม่มีรูปก็หามิได้</H1>
+
+<span class="LineNumber"> 012 </span>           [๔๕๓]  ฯลฯ  อัตตาที่มีรูปก็หามิได้  ไม่มีรูปก็หามิได้  หลังจาก
+<span class="LineNumber"> 013 </span>ตายไปแล้ว  ย่อมไม่สลายไป ฯลฯ
+<span class="LineNumber"> 014 </span>                                         <I>จบ  เนวรูปีนารูปีอัตตสูตร</I>
+
+<span class="LineNumber"> 015 </span>  <H1>อรรถกถาเนวรูปีนารูปีอัตตาสูตรที่  ๒๒</H1>
+
+<span class="LineNumber"> 016 </span>           บทว่า  <B>เนวรูปีนารูปี</B>   ได้แก่     ทิฏฐิที่ยึดถือด้วยเหตุเพียง  <B>ตักกะ</B>
+<span class="LineNumber"> 017 </span>(การตรึก)          
+<span class="LineNumber"> 018 </span>                               <I>จบ  อรรถกถาเนวรูปีนารูปีอัตตาสูตร</I>

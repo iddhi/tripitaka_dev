@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>ฉ.	จตุนฺนํ			ฉ.	จตสฺสนฺนํ  
+<span class="LineNumber"> 002 </span>ส.	จตูสุ				ส.	จตูสุ
+<span class="LineNumber"> 003 </span>	จตุ  ศัพท์  ใน  นปุํ.  แจกเหมือนใน  ปุํ.  แปลกแต่  ป.  ทุ.
+<span class="LineNumber"> 004 </span>จตฺตาริ   เท่านั้น.
+<span class="LineNumber"> 005 </span>                       วิธีเปลี่ยน  วิภัตติ  และ  การันต์  
+<span class="LineNumber"> 006 </span>๑  เอา  จตุ  กับ  โย  ใน  ปุํ.  เป็น  จตฺตาโร  จตุโร,  ใน  อิตฺ.  เป็น
+<span class="LineNumber"> 007 </span>    จตสฺโส,  ใน  นปุํ.  เป็น  จตฺตาริ.
+<span class="LineNumber"> 008 </span>๒  ในอิตฺ.  เอา  นํ  เป็น  สฺสนฺนํ  แล้วเอา  อุ  แห่ง  จตุ  เป็น  อ.
+
+<span class="LineNumber"> 009 </span>                   ๗๙  ปญฺจ  ใน  ๓  ลิงค์  แจกอย่างนี้ :-
+<span class="LineNumber"> 010 </span>			พหุ.
+<span class="LineNumber"> 011 </span>ป.			ปญฺจ			[ลบโย]
+<span class="LineNumber"> 012 </span>ทุ.			ปญฺจ			
+<span class="LineNumber"> 013 </span>ต.  			ปญฺจหิ			[ไม่ทีฆะ]
+<span class="LineNumber"> 014 </span>จ.			ปญฺจนฺนํ
+<span class="LineNumber"> 015 </span>ปญฺ.			ปญฺจหิ
+<span class="LineNumber"> 016 </span>ฉ.			ปญฺจนฺนํ
+<span class="LineNumber"> 017 </span>ส.			ปญฺจสุ			[ไม่ทีฆะ]
+<span class="LineNumber"> 018 </span>			ตั้งแต่  ฉ  ถึง  อฏฺ€ารส  แจกอย่างนี้.
+

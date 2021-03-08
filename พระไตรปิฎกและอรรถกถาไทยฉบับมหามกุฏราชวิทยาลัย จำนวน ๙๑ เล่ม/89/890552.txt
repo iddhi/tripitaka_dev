@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         ที่เป็น  <B>สหชาตาธิปติ</B>  ได้แก่
+<span class="LineNumber"> 002 </span>         อธิปติธรรมที่ไม่ใช่กิเลส      เป็นปัจจัยแก่สัมปยุตตขันธ์      กิเลสและ
+<span class="LineNumber"> 003 </span>จิตตสมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของอธิปติปัจจัย.
+<span class="LineNumber"> 004 </span>     		๗.   <B>ธรรมที่เป็นกิเลส    และธรรมที่ไม่ใช่กิเลส  เป็น
+<span class="LineNumber"> 005 </span>ปัจจัยแก่ธรรมที่เป็นกิเลส     ด้วยอำนาจของอธิปติปัจจัย</B>    มี ๓ วาระ
+<span class="LineNumber"> 006 </span>(วาระที่  ๗-๘-๙)
+<span class="LineNumber"> 007 </span>         เป็น   <B>อารัมมณาธิปติ</B>   อย่างเดียว.
+
+<span class="LineNumber"> 008 </span>                                    <H2>๔.  อนันตรปัจจัย</H2> 
+<span class="LineNumber"> 009 </span>         [๔๙๗] ๑.  <B>ธรรมที่เป็นกิเลส    เป็นปัจจัยแก่ธรรมที่เป็นกิเลส
+<span class="LineNumber"> 010 </span>ด้วยอำนาจของอนันตรปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ   กิเลสทั้งหลาย      ที่เกิดก่อน ๆ      เป็นปัจจัยแก่กิเลสทั้งหลาย
+<span class="LineNumber"> 012 </span>ที่เกิดหลัง ๆ  ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 013 </span>         พึงถามถึงมูล   (วาระที่ ๒)
+<span class="LineNumber"> 014 </span>         กิเลสทั้งหลาย     ที่เกิดก่อน ๆ     เป็นปัจจัยแก่ขันธ์ทั้งหลายที่ไม่ใช่
+<span class="LineNumber"> 015 </span>กิเลส   ที่เกิดหลัง ๆ   ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 016 </span>         กิเลสทั้งหลาย    เป็นปัจจัยแก่วุฏฐานะ   ด้วยอำนาจของอนันตรปัจจัย.
+<span class="LineNumber"> 017 </span>         พึงถามถึงมูล  (วาระที่ ๓)
+<span class="LineNumber"> 018 </span>         กิเลสทั้งหลาย  ที่เกิดก่อน ๆ  เป็นปัจจัยแก่กิเลสทั้งหลาย  ที่เกิดหลัง ๆ
+<span class="LineNumber"> 019 </span>และสัมปยุตตขันธ์ทั้งหลาย  ด้วยอำนาจของอนันตรปัจจัย.

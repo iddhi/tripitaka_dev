@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>         บทว่า   <B>เลฑฺฑูหิ</B>  ได้แก่  ด้วยก้อนดิน. 
+<span class="LineNumber"> 002 </span>         บทว่า   <B>ทณฺเฑหิ</B>  ได้แก่  ด้วยไม้พอง.
+<span class="LineNumber"> 003 </span>         บทว่า   <B>สตฺเถหิ</B>  ได้แก่  ด้วยศัสตราสองคม.
+<span class="LineNumber"> 004 </span>         บทว่า   <B>อภิสงฺขารานํ   อปฺปหีนตฺตา</B>  ความว่า  เพราะความที่ยัง
+<span class="LineNumber"> 005 </span>ละปุญญาภิสังขารเป็นต้นไม่ได้.
+<span class="LineNumber"> 006 </span>         บทว่า   <B>คติยา   ฆฏฺเฏนฺติ</B>   ความว่า  ย่อมเบียดเบียนกัน   คือ  ย่อม
+<span class="LineNumber"> 007 </span>ถึงความกระทบกระทั่งกัน     ในคติอันเป็นที่พึ่งซึ่งจะต้องไป    แม้ในนรก
+<span class="LineNumber"> 008 </span>เป็นต้น   ก็นัยนี้เหมือนกัน     คำที่เหลือในที่นี้ง่ายทั้งนั้น เพราะมีนัยดังกล่าว
+<span class="LineNumber"> 009 </span>แล้ว.
+
+<span class="LineNumber"> 010 </span>                   สัทธัมมปัชโชติกา   อรรถกถามหานิทเทส
+<span class="LineNumber"> 011 </span>                         อรรถกถา  มาคันทิยสุตตนิทเทส
+<span class="LineNumber"> 012 </span>                                    จบ   สูตรที่  ๙

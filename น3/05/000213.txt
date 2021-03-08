@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>           <B>น  เตน  อริโย  โหติ</B>			บุคคล ยังเบียดเบียนสัตว์ทั้งหลาย
+<span class="LineNumber"> 002 </span><B>เยน  ปาณานิ  หึสติ,</B>				อยู่ด้วยเหตุใด  จะชื่อว่าเป็นอริยะ
+<span class="LineNumber"> 003 </span>							เพราะเหตุนั้นหามิได้
+<span class="LineNumber"> 004 </span><B>อหึสา  สพฺพปาณานํ</B>				บุคคลที่เราเรียกว่าอริยะ  เพราะ
+<span class="LineNumber"> 005 </span><B>อริโยติ  ปวุจฺจติ.</B>					ความเป็นผู้ไม่เบียดเบียนสัตว์
+<span class="LineNumber"> 006 </span>							ทั้งปวง. 

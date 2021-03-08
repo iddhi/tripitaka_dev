@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  360
+
+<span class="LineNumber"> 002 </span>	[๑๐๐๙]นาธิจฺจ ลทฺธํ น ปรินามชมฺเม(๑)  
+<span class="LineNumber"> 003 </span>		น สยีกตํ (๒)นาปิ เทเวหิ ทินฺนํ  
+<span class="LineNumber"> 004 </span>		สเกหิ กมฺเมหิ อปาปเกหิ  
+<span class="LineNumber"> 005 </span>		ปุฺเหิ เม ลทฺธมิทํ วิมานนฺติ ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ อปาปเกหีติ อลามเกหิ ฯ  
+<span class="LineNumber"> 007 </span>	[๓]มหาสตฺโต อาห  
+<span class="LineNumber"> 008 </span>	[๑๐๑๐]กินฺเต วตฺตํ (๔)กิมฺปน พฺรหฺมจริยํ  
+<span class="LineNumber"> 009 </span>		กิสฺส สุจิณฺณสฺส อยํ วิปาโก  
+<span class="LineNumber"> 010 </span>		อิทฺธี ชุตี พลวิริยูปปตฺติ  
+<span class="LineNumber"> 011 </span>		อิทฺจ เต นาค มหาวิมานนฺติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  กินฺเต  วตฺตนฺติ  นาคราช  ปุริมภเว  ตว  กึ  วตฺตํ  
+<span class="LineNumber"> 013 </span>อโหสิ  โก  [๕] พฺรหฺมจริยวาโส  กตรสฺส  สุจริตสฺเสโส  อิทฺธิอาทิโก  
+<span class="LineNumber"> 014 </span>วิปาโกติ ฯ  
+<span class="LineNumber"> 015 </span>	[๖]นาคราชา อาห  
+<span class="LineNumber"> 016 </span>	[๑๐๑๑]อหฺจ ภริยา จ มนุสฺสโลเก  
+<span class="LineNumber"> 017 </span>		สทฺธา อุโภ ทานปติ อหุมฺหา  
+<span class="LineNumber"> 018 </span>		โอปานภูตํ เม ฆรํ ตทาสิ  
+<span class="LineNumber"> 019 </span>		สนฺตปฺปิตา สมณพฺราหฺมณา จ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปริณามชํ เม ฯ  ๒. ม. น สยํ กตํ ฯ ๓. ม. เอตฺถนฺตเร 
+<span class="LineNumber"> 021 </span># ตโตติ ทิสฺสติ ฯ  ๔. ม. วตํ ฯ  ๕. ม. เอตฺถนฺตเร ปนสทฺโท อตฺถิ ฯ  
+<span class="LineNumber"> 022 </span># ๖. ม. เอตฺถนฺตเร ตํ  สุตฺวาติ ทิสฺสนฺติ ฯ 

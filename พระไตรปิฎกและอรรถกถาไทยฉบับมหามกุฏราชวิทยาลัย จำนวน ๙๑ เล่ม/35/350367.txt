@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                     <h1>๑๐. สารสูตร</h1>  
+<span class="LineNumber"> 002 </span>                             <h2>ว่าด้วยสาระ  ๔  ประการ</h2>
+<span class="LineNumber"> 003 </span>            [๑๕๐]    ดูก่อนภิกษุทั้งหลาย    สาระ  ๔  นี้  ฯลฯ    คือ  <B>สีลสาระ
+<span class="LineNumber"> 004 </span>สมาธิสาระ  ปัญญาสาระ  วิมุตติสาระ</B>  นี้แล  สาระ  ๔  ประการ.
+<span class="LineNumber"> 005 </span>                                          <I>จบสารสูตรที่  ๑๐
+<span class="LineNumber"> 006 </span>                                 จบอาภาวรรคที่  ๕
+<span class="LineNumber"> 007 </span>                                 จบตติยปัณณาสก์</I>
+<span class="LineNumber"> 008 </span>                              <h1>อรรถกถาสารสูตร</h1>
+<span class="LineNumber"> 009 </span>            สารสูตรที่   ๑๐  บทว่า <B>สีลสาโร</B>  คือศีลที่ให้ถึงสาระ. แม้ในบทที่เหลือ
+<span class="LineNumber"> 010 </span>ก็นัยนี้แล.
+<span class="LineNumber"> 011 </span>                                      <I>จบอรรถกถาสารสูตรที่  ๑๐
+<span class="LineNumber"> 012 </span>                              จบอาภาวรรควรรณนาที่  ๕
+<span class="LineNumber"> 013 </span>		   จบตติยปัณณาสก์</I>
+<span class="LineNumber"> 014 </span>                        <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 015 </span>            ๑.  ลาภาสูตร    ๒.  ปภาสูตร   ๓.  อาโลกสูตร      ๔.โอภาสสูตร
+<span class="LineNumber"> 016 </span>๕.  ปัชโชตสูตร    ๖.  ปฐมกาลสูตร  ๗. ทุติยกาลสูตร  ๘. ปฐมจริตสูตร
+<span class="LineNumber"> 017 </span>๙. ทุติยจริตสูตร  ๑๐. สารสูตร  และอรรถกถา.

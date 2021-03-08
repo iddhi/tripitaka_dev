@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                    <H2>อนุโลมปัจจนียนัย</H2>
+<span class="LineNumber"> 002 </span>                       <H2>การนับจำนวนวาระอนุโลมปัจจนียะ</H2>
+<span class="LineNumber"> 003 </span>         [๘๖]  <B>เพราะเหตุปัจจัย</B> ในนอารัมมณปัจจัย มี ๓ วาระ . . . ใน
+<span class="LineNumber"> 004 </span>นอธิปติปัจจัย มี ๙ วาระ  ฯลฯ
+
+<span class="LineNumber"> 005 </span>                                    <H2>ปัจจนียานุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                     <H2>การนับจำนวนวาระในปัจจนียานุโลม</H2>
+<span class="LineNumber"> 007 </span>         [๘๗]  <B>เพราะนเหตุปัจจัย</B>  ในนอารัมมณปัจจัย มี ๓ วาระ . . .   ฯลฯ
+<span class="LineNumber"> 008 </span>ในอนันตรปัจจัย มี ๙ วาระ ในปุเรชาตปัจจัย มี ๕ วาระ ในอาเสวนปัจจัย
+<span class="LineNumber"> 009 </span>มี ๕ วาระ ในกัมมปัจจัย มี ๙ วาระ ในปัจจัยทั้งปวง มี ๙ วาระ ในมัคค-
+<span class="LineNumber"> 010 </span>ปัจจัย มี ๓ วาระ ฯลฯ ในอวิคตปัจจัย มี ๙ วาระ.
+<span class="LineNumber"> 011 </span>         สหชาตวาระ  เหมือนกับปฏิจจวาระ.
+
+
+
+
+

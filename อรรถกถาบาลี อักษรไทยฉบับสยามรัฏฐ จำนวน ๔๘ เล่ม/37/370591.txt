@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 591
+
+<span class="LineNumber"> 002 </span>ติกิจฺฉนฺโต  วิย  ขิปฺปํ  โน  ปริยาปุณาถ  กเถถาติ  วทติ ฯ  
+<span class="LineNumber"> 003 </span>	ราชา อาห  
+<span class="LineNumber"> 004 </span>	[๑๒๔๙]เอเต กุมารา นิกฺกีตา	ชาลี กณฺหาชินา จุโภ  
+<span class="LineNumber"> 005 </span>		พฺราหฺมณสฺส ธนํ ทตฺวา	ปุตฺต มา ภายิ อสฺสสีติ(๑) ฯ  
+<span class="LineNumber"> 006 </span>	ตตฺถ นิกฺกีตาติ นิกฺกยํ ทตฺวา คหิตา ฯ  
+<span class="LineNumber"> 007 </span>	ตํ  สุตฺวา  มหาสตฺโต  ปฏิลทฺธสฺสาโส  ปิตรา  สทฺธึ  ปฏิสนฺถารํ  
+<span class="LineNumber"> 008 </span>กโรนฺโต อาห  
+<span class="LineNumber"> 009 </span>	[๑๒๕๐]กจฺจิ นุ ตาต กุสลํ	กจฺจิ ตาต อนามยํ  
+<span class="LineNumber"> 010 </span>		กจฺจิ นุ ตาต เม มาตุ	จกฺขุ น ปริหายตีติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  จกฺขูติ  ปุตฺตโสเกน  โรทนฺติยา  จกฺขุ  น  ปริหายตีติ  
+<span class="LineNumber"> 012 </span>ปุจฺฉิ ฯ  
+<span class="LineNumber"> 013 </span>	ราชา อาห  
+<span class="LineNumber"> 014 </span>	[๑๒๕๑]กุสลฺเจว เม ปุตฺต	อโถ ปุตฺต อนามยํ  
+<span class="LineNumber"> 015 </span>		อโถ จ ปุตฺต เต มาตุ	จกฺขุ น ปริหายตีติ ฯ  
+<span class="LineNumber"> 016 </span>	มหาสตฺโต(๒) อาห  
+<span class="LineNumber"> 017 </span>	[๑๒๕๒]กจฺจิ อโรคํ โยคฺคนฺเต	กจฺจิ วหติ วาหนํ  
+<span class="LineNumber"> 018 </span>		กจฺจิ ผิโต ขนปโท		กจฺจิ วุฏฺ€ิ น ฉิชฺชตีติ ฯ  
+<span class="LineNumber"> 019 </span>	ตตฺถ วุฏฺ€ีติ เทโว(๓) ฯ  
+<span class="LineNumber"> 020 </span>	ราชา อาห  
+<span class="LineNumber"> 021 </span># ๑. ม. อสฺสสาติ ฯ  ๒. ม. โพธิสตฺโต ฯ  ๓. ม. วุฏฺ€ิธารา ฯ 

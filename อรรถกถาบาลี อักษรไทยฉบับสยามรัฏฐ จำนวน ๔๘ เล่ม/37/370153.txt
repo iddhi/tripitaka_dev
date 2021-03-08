@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  จนฺทกุมารชาตกํ  หน้า 153
+
+<span class="LineNumber"> 002 </span>	มา โน เทว อวธิ		ทาเส โน เทหิ กณฺฑหาลสฺส  
+<span class="LineNumber"> 003 </span>	อปิ นิคฬพนฺธกาปิ	อสฺสจฺฉกณานิ อุชฺเฌม  
+<span class="LineNumber"> 004 </span>	มา โน เทว อวธิ		ทาเส โน เทหิ กณฺฑหาลสฺส  
+<span class="LineNumber"> 005 </span>	ยสฺส โหนฺติ ตว กามา	อปิ รฏฺ€า ปพฺพาชิตา  
+<span class="LineNumber"> 006 </span>	ภิกฺขาจริยํ จริสฺสาม  
+<span class="LineNumber"> 007 </span>	ทิพฺยํ เทว อุปยาจนฺติ	ปุตฺตตฺถิกา ทลิทฺทาปิ  
+<span class="LineNumber"> 008 </span>	ปฏิภาณานิปิ หิตฺวา	ปุตฺเต น หิ ลภนฺติ เอกจฺจา  
+<span class="LineNumber"> 009 </span>	อสฺสาสกานิ(๑) กโรนฺติ	ปุตฺตาปิ โน ชายนฺตุ  
+<span class="LineNumber"> 010 </span>	ตโต จ ปุตฺตา(๒) ชายนฺตุ  อถ โน อการณสฺมา  
+<span class="LineNumber"> 011 </span>	ยฺตฺถาย เทว ฆาเตสิ  
+<span class="LineNumber"> 012 </span>	อุปยาจิตเกน ปุตฺตํ ลภนฺติ  มา ตาต โน อฆาเตสิ  
+<span class="LineNumber"> 013 </span>	มา กิจฺฉลทฺธเกหิ(๓) ปุตฺเตหิ  ยชิตฺโถ อิมํ ยฺํ  
+<span class="LineNumber"> 014 </span>	อุปยาจิตเกน ปุตฺตํ ลภนฺติ  มา ตาต โน อฆาเตสิ  
+<span class="LineNumber"> 015 </span>	มา กปณลทฺธเกหิ ปุตฺเตหิ  อมฺมาย โน วิปฺปวาเสหีติ ฯ  
+<span class="LineNumber"> 016 </span>	ตตฺถ  ทิพฺยนฺติ(๔)  เทว  อปุตฺติกา  ทลิทฺทาปิ  นาริโย  
+<span class="LineNumber"> 017 </span>ปุตฺตตฺถิกา  หุตฺวา  พหหปณฺณาการํ  หริตฺวา(๕)  ปุตฺตํ  วา  ธีตรํ
+<span class="LineNumber"> 018 </span>วา  ลภิสฺสา(๖)มาติ  ทิพฺยํ  อุปยาจนฺติ ฯ  ปฏิภาณานิปิ  หิตฺวาติ  
+<span class="LineNumber"> 019 </span>โทหฬานิ  ฉฑฺเฑตฺวาปิ  อลภิตฺวาปีติ  อตฺโถ ฯ  อิทํ  วุตฺตํ  โหติ 
+<span class="LineNumber"> 020 </span># ๑. ม. อาสีสิกานิ ฯ  ๒. ม. ปปุตฺตา ฯ ๓. ม. กิจฺฉาลทฺธเกหิ ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. ทิพฺพนฺติ ฯ  ๕. ม. กริตฺวา ฯ  ๖. ม. ลภามาติ ฯ 

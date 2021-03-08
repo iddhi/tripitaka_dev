@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ขันธ์ ๓    อาศัยขันธ์ ๑    ที่เป็นอัปปมาณารัมมณธรรม  ฯลฯ
+<span class="LineNumber"> 002 </span>อาศัยขันธ์ ๒. 
+
+<span class="LineNumber"> 003 </span>                                     <H1>๓.  นปุเรชาตปัจจัย</H1>
+<span class="LineNumber"> 004 </span>           [๑๕๕๒] ๑.  <B>ปริตตารัมมณธรรม    อาศัยปริตตารัมมณธรรม
+<span class="LineNumber"> 005 </span>ฯลฯ  เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ  ในอรูปภูมิ ฯลฯ อาศัยขันธ์ ๑ ที่เป็นปริตตารัมมณธรรม  ฯลฯ
+<span class="LineNumber"> 007 </span>ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 008 </span>           [๑๕๕๓] ๒.  <B>มหัคคตารัมมณธรรม     อาศัยมหัคคตารัมมณ-
+<span class="LineNumber"> 009 </span>ธรรม ฯลฯ  เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  ในอรูปภูมิ  ขันธ์ ๓  อาศัยขันธ์ ๑  ที่เป็นมหัคคตารัมมณธรรม
+<span class="LineNumber"> 011 </span>ฯลฯ   อาศัยขันธ์ ๒.
+<span class="LineNumber"> 012 </span>           เพราะนุปเรชาตปัจจัย   ในมหัคคตารัมมณธรรม ปฏิสนธิ  ไม่มี.
+<span class="LineNumber"> 013 </span>           [๑๕๕๔] ๓.  <B>อัปปมาณารัมมณธรรม  อาศัยอัปปมาณารัมมณ-
+<span class="LineNumber"> 014 </span>ธรรม  เกิดขึ้น  เพราะนปุเรชาตปัจจัย</B>
+<span class="LineNumber"> 015 </span>           คือ  ในอรูปภูมิ  ขันธ์ ๓   อาศัยขันธ์ ๑    ที่เป็นอัปปมาณารัมมณ-
+<span class="LineNumber"> 016 </span>ธรรม  ฯลฯ  อาศัยขันธ์ ๒.
+
+<span class="LineNumber"> 017 </span>                      <H1>๔.  นปัจฉาชาตปัจจัย   ๕. นอาเสวนปัจจัย</H1>
+<span class="LineNumber"> 018 </span>           <B>เพราะนปัจฉาชาตปัจจัย  เพราะนอาเสวนปัจจัย  เหมือนกับ
+<span class="LineNumber"> 019 </span>เพราะนอธิปติปัจจัย.</B>
+

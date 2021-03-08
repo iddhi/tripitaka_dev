@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  76
+
+<span class="LineNumber"> 002 </span>	อิติ  นํ  วตฺวา  สุโภโค  คีวายํ  คเหตฺวา  ขิปนฺโต 
+<span class="LineNumber"> 003 </span>อกฺโกสนฺโต  ปริภาสนฺโต มหาสตฺตสฺส ปาสาททฺวารํ อคมาสิ ฯ  
+<span class="LineNumber"> 004 </span>			สุโภคกณฺฑํ(๑) นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 005 </span>	อถ  นํ  โทวาริโก  หุตฺวา  นิสินฺโน  กาณาริฏฺโ€ ตถา
+<span class="LineNumber"> 006 </span>กิลเมตฺวา  อานียมานํ  พฺราหฺมณํ  ทิสฺวา  ปฏิมคฺคํ  คนฺตฺวา  สุโภค  
+<span class="LineNumber"> 007 </span>มา  นํ  วิเห€ยิ  โลกสฺมึ  หิ  พฺราหฺมณา  นาม  มหาพฺรหฺมุโน 
+<span class="LineNumber"> 008 </span>ปุตฺตา  สเจ  มหาพฺรหฺมา  ชานิสฺสติ  อิเม  มม  ปุตฺเตปิ  วิเหเ€นฺตีติ  
+<span class="LineNumber"> 009 </span>กุชฺฌิตฺวา  อมฺหากํ  สกลนาคภวนํ  วินาเสสฺสติ  โลกสฺมึ  หิ 
+<span class="LineNumber"> 010 </span>พฺราหฺมณา  นาม  เสฏฺ€า  มหานุภาวา  ตฺวํ  เตสํ  มหานุภาวํ (๒)
+<span class="LineNumber"> 011 </span>น  ชานาสิ  อหํ  ชานามีติ  อาห ฯ  กาณาริฏฺโ€  กิร  อตีตานนฺตเร(๓)
+<span class="LineNumber"> 012 </span>ภเว  ยฺการพฺราหฺมโณ  อโหสิ  ตสฺมา เอวมาห วตฺวา จ ปน 
+<span class="LineNumber"> 013 </span>อนุภูตปุพฺพวเสน  ยชนสีโล  หุตฺวา  สุโภคฺจ  นาคปริสฺจ  
+<span class="LineNumber"> 014 </span>อามนฺเตตฺวา  เอถ  โภ  ยฺการกานํ  พฺราหฺมณานํ(๔)  โว  คุเณ  
+<span class="LineNumber"> 015 </span>วณฺณยิสฺสามีติ  วตฺวา  ยฺวณฺณนํ อารภนฺโต อาห  
+<span class="LineNumber"> 016 </span>	[๗๖๐]อนิตฺตรา อิตรสมฺปยุตฺตา  
+<span class="LineNumber"> 017 </span>		ยฺา จ เวทา จ สุโภค โลเก  
+<span class="LineNumber"> 018 </span>		ตทคฺครยฺหํ หิ วินินฺทมาโน  
+<span class="LineNumber"> 019 </span>		ชหาติ วิตฺตฺจ สตฺจ ธมฺมนฺติ ฯ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  อนิตฺตราติ  สุโภค  อิมสฺมึ  โลเก  ยฺา  เวทา  
+<span class="LineNumber"> 021 </span># ๑. ม. มหาสตฺตสฺส ปริเยสนขณฺฑํ ฯ  ๒. ม. อานุภาวํ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. อตีตานนฺตรภาเว ฯ  ๔. ม. อยํ ปาโ€ นตฺถิ ฯ 

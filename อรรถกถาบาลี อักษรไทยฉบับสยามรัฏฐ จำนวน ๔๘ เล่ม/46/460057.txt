@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  46  นิทานกถา  หน้า  57
+
+<span class="LineNumber"> 002 </span>		ยถาปิ  ชชฺชรํ นาวํ		ปลุคฺคํ อุทกคาหิณึ  
+<span class="LineNumber"> 003 </span>		สามิกา ฉฑฺฑยิตฺวาน (๑)	อนเปกฺขา อนตฺถิกา ฯ  
+<span class="LineNumber"> 004 </span>		เอวเมวาหํ อิมํ กายํ		นวจฺฉิทฺทํ ธุวสฺสวํ  
+<span class="LineNumber"> 005 </span>		ฉฑฺฑยิตฺวาน คจฺฉิสฺสํ	ชิณฺณนาวํว สามิกา ฯ  
+<span class="LineNumber"> 006 </span>		ยถาปิ ปุริโส โจเรหิ	คจฺฉนฺโต ภณฺฑมาทิย  
+<span class="LineNumber"> 007 </span>		ภณฺฑจฺเฉทภยํ ทิสฺวา	ฉฑฺฑยิตฺวาน คจฺฉติ ฯ  
+<span class="LineNumber"> 008 </span>		เอวเมว อยํ กาโย		มหาโจรสโม วิย  
+<span class="LineNumber"> 009 </span>		ปหายิมํ คมิสฺสามิ		กุสลจฺเฉทนา ภยา ฯ  
+<span class="LineNumber"> 010 </span>		เอวาหํ จินฺตยิตฺวาน		เนกโกฏิสตํ ธนํ  
+<span class="LineNumber"> 011 </span>		นาถานาถานํ ทตฺวาน	หิมวนฺตํ อุปาคมึ ฯ  
+<span class="LineNumber"> 012 </span>		หิมวนฺตสฺสาวิทูเร		ธมฺมิโก (๒) นาม ปพฺพโต  
+<span class="LineNumber"> 013 </span>		อสฺสโม สุกโต มยฺหํ	ปณฺณสาลา สุมาปิตา ฯ  
+<span class="LineNumber"> 014 </span>		จงฺกมํ ตตฺถ มาเปสึ		ปฺจโทสวิวชฺชิตํ  
+<span class="LineNumber"> 015 </span>		อฏฺ€คุณสมูเปตํ		อภิฺาพลมาหรึ ฯ  
+<span class="LineNumber"> 016 </span>		สาฏกํ ปชหึ ตตฺถ		นวโทสมุปาคตํ  
+<span class="LineNumber"> 017 </span>		วากจีรํ นิวาเสสึ		ทฺวาทสคุณมุปาคตํ ฯ  
+<span class="LineNumber"> 018 </span>		อฏฺ€โทสสมากิณฺณํ		ปชหึ ปณฺณสาลกํ  
+<span class="LineNumber"> 019 </span>		อุปาคมึ รุกฺขมูลํ		คุเณหิ (๓) ทสหุปาคตํ ฯ  
+<span class="LineNumber"> 020 </span>		วาปิตํ โรปิตํ ธฺํ		ปชหึ นิรวเสสโต  
+<span class="LineNumber"> 021 </span>		อเนกคุณสมฺปนฺนํ		ปวตฺตผลมาทิยึ ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. สามี ฉฑฺเฑตฺวา คจฺฉนฺติ ฯ ๒. สี. ธมฺมโก ฯ ๓. ม. คุเณ ฯ

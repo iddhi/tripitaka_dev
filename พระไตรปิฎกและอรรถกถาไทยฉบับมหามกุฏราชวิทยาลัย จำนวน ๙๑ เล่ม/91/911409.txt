@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>              <H1>นสนิทัสสนติกนหีนติกสนิทัสสนติกหีนติกะ</H1>   
+<span class="LineNumber"> 002 </span>           <H2>(๒๒. สนิทัสสนติกะ  ๑๔.  หีนติกะ)</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 004 </span>			             <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                         <H2>หีนบท</H2>
+<span class="LineNumber"> 007 </span>           [๑๑๘๔] ๑.  <B>หีนธรรม  ที่เป็นอนิทัสสนอัปปฏิฆธรรม  อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่ไม่ใช่หีนธรรม  ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม  เกิดขึ้น
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>                                            <B>ฯลฯ</B>
+
+<span class="LineNumber"> 011 </span>                      <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>           [๑๑๘๕]  ในเหตุปัจจัย มี ๓ วาระ  ฯลฯ
+
+<span class="LineNumber"> 013 </span>                                      <H2>มัชฌิมบท</H2>
+<span class="LineNumber"> 014 </span>           [๑๑๘๖] ๑.  <B>มัชฌิมธรรม     ที่เป็นสนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 015 </span>อาศัยธรรมที่ไม่ใช่มัชฌิมธรรม     ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 017 </span>                                             <B>ฯลฯ</B>

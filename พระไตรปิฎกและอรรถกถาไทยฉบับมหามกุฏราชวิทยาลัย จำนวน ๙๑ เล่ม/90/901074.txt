@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>			               <H1>ทัสสนติกสรณทุกะ</H1>
+<span class="LineNumber"> 002 </span>	             <H2>(๘. ทัสสนติกะ  ๑๐๐. สรณทุกะ)</H2>
+<span class="LineNumber"> 003 </span>			            <H1>สรณบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>			                <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>			               <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๘๙๘]  ๑.  สรณธรรมที่เป็นทัสสเนนปหาตัพพธรรม  อาศัย 
+<span class="LineNumber"> 007 </span>สรณธรรมที่เป็นทัสสเนนปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                        ๒.  สรณธรรมที่เป็นภาวนายปหาตัพพธรรม  อาศัย
+<span class="LineNumber"> 009 </span>สรณธรรมที่เป็นภาวนายปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>		     <H2>การนับจำนวนวาระในอนุโลม</H2>	
+<span class="LineNumber"> 011 </span>		[๘๙๙]  ในเหตุปัจจัย มี ๒ วาระ  ฯลฯ ในอวิคตปัจจัย มี ๒ วาระ.
+<span class="LineNumber"> 012 </span>            สหชาตวาระก็ดี  ฯลฯ  ปัญหาวาระก็ดี   พึงให้พิสดารทุกปัจจัย.

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  502
+
+<span class="LineNumber"> 002 </span>		กุกฺกุสา กุรุรา หํสา	อาฏา ปริวเทนฺติกา  
+<span class="LineNumber"> 003 </span>		จากหํสา(๑) อติพลา	นชฺชุหา ชีวชีวกา  
+<span class="LineNumber"> 004 </span>		ปาเรวตา รวิหํสา		จากวากา นทีจรา  
+<span class="LineNumber"> 005 </span>		วารณาภิรุทา รมฺมา	อุโภ กาลุปกูชิโน  
+<span class="LineNumber"> 006 </span>		อเถตฺถ สกุณา สนฺติ	นานาวณฺณา พหู ทิชา  
+<span class="LineNumber"> 007 </span>		โมทนฺติ สห ภริยาหิ	อฺมฺํ ปกูชิโน  
+<span class="LineNumber"> 008 </span>		อเถตฺถ สกุณา สนฺติ	นานาวณฺณา พหู ทิชา  
+<span class="LineNumber"> 009 </span>		สพฺเพ มฺชู นิกูชนฺติ	มุจลินฺทมุภโต สรํ  
+<span class="LineNumber"> 010 </span>		อเถตฺถ สกุณา สนฺติ	กรวีกา นาม เต ทิชา  
+<span class="LineNumber"> 011 </span>		โมทนฺติ สห ภริยาหิ	อฺมฺํ ปกูชิโน  
+<span class="LineNumber"> 012 </span>		อเถตฺถ สกุณา สนฺติ	กรวีกา(๒) นาม เต ทิชา  
+<span class="LineNumber"> 013 </span>		สพฺเพ มฺชู นิกูชนฺติ	มุจลินฺทมุภโต สรํ  
+<span class="LineNumber"> 014 </span>		เอเณยฺยา ปสตากิณฺณํ	นาคสงฺฆนิเสวิตํ(๓)  
+<span class="LineNumber"> 015 </span>		นานาลตาหิ สฺฉนฺนํ	กทลีมิคนิเสวิตํ(๔)  
+<span class="LineNumber"> 016 </span>		อเถตฺถ สามา พหุกา(๕)	นิวาโร วรโก พหุ  
+<span class="LineNumber"> 017 </span>		สาลี อกฏฺ€ปาโก จ	อุจฺฉุ ตตฺถ อนปฺปโก  
+<span class="LineNumber"> 018 </span>		อยํ เอกปที เอติ		อุชุํ คจฺฉติ อสฺสมํ  
+<span class="LineNumber"> 019 </span>		ขุทํ ปิปาสํ อรตึ		ตตฺถ ปตฺโต น วินฺทติ  
+<span class="LineNumber"> 020 </span># ๑. ม. ปากหํสา ฯ  ๒. ม. กรวิยา ฯ  ๓. ม. นาคสํเสวิตํ 
+<span class="LineNumber"> 021 </span># วนํ ฯ  ๔.ม. กทลีมิคเสวิตํ ฯ  ๕. ม. สาสโป พหุโก ฯ 

@@ -1,0 +1,30 @@
+﻿<span class="LineNumber"> 001 </span>                        <H3>อรรถกถาสูตรที่  ๒</H3>
+
+<span class="LineNumber"> 002 </span>         <B>สูตรที่  ๒</B> (ข้อ  ๓๘๗)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>         <B>ปัจจัย  ๔</B>  ชื่อว่า   <B>ยาคะ</B>   โดยเป็นเครื่องบูชา    แม้<B>ธรรมะ  ก็พึง
+<span class="LineNumber"> 004 </span>ทราบว่า</B>   ชื่อว่า   <B>ยาคะ</B>   โดยเป็นเครื่องบูชา.
+<span class="LineNumber"> 005 </span>                                      จบอรรถกถาสูตรที่  ๒
+
+<span class="LineNumber"> 006 </span>                        <H3>อรรถกถาสูตรที่  ๓</H3>
+
+<span class="LineNumber"> 007 </span>         <B>สูตรที่   ๓</B>  (ข้อ ๓๘๘)  มีวินิจฉัยยดังต่อไปนี้.
+<span class="LineNumber"> 008 </span>         การสละอามิส    ชื่อว่า    <B>อามิสจาคะ</B>     การสละธรรม    ชื่อว่า
+<span class="LineNumber"> 009 </span><B>ธรรมจาคะ.</B>
+<span class="LineNumber"> 010 </span>                                       จบอรรถกถาสูตรที่  ๓
+
+<span class="LineNumber"> 011 </span>                           <H3>อรรถกถาสูตรที่  ๔</H3>
+
+<span class="LineNumber"> 012 </span>         <B>สูตรที่  ๔</B>  (ข้อ  ๓๘๙)  แปลกกันเพียงอุปสรรค.
+<span class="LineNumber"> 013 </span>                                        จบอรรถกถาสูตรที่ ๔
+
+<span class="LineNumber"> 014 </span>                            <H3>อรรถกถาสูตรที่  ๕</H3>
+
+<span class="LineNumber"> 015 </span>         <B>สูตรที่  ๕</B>  (ข้อ ๓๙๐)  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 016 </span>         การบริโภคปัจจัย ๔  ชื่อว่า  <B>อามิสโภคะ</B>  การบริโภคธรรม ชื่อว่า
+<span class="LineNumber"> 017 </span><B>ธรรมโภคะ.</B>
+<span class="LineNumber"> 018 </span>                                          จบอรรถกถาสูตรที่   ๕
+
+<span class="LineNumber"> 019 </span>                             <H3>อรรถกถาสูตรที่  ๖</H3>
+
+<span class="LineNumber"> 020 </span>         <B>สูตรที่  ๖</B>  (ข้อ ๓๙๑)  แปลกกันเพียงอุปสรรค.
+<span class="LineNumber"> 021 </span>                              	    จบอรรถกถาสูตรที่  ๖

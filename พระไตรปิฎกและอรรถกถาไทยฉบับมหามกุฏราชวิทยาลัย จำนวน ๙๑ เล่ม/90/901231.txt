@@ -1,0 +1,18 @@
+﻿<span class="LineNumber"> 001 </span>					    <H1>เหตุทุกรูปีทุกะ</H1>
+<span class="LineNumber"> 002 </span>				<H2>(๑. เหตุทุกะ  ๑๐. รูปีทุกะ)</H2>	
+<span class="LineNumber"> 003 </span>					  <H1>รูปีบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					    <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				          <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>		[๔๐]  ๑.  นเหตุรูปีธรรม  อาศัยนเหตุรูปีธรรม  เกิดขึ้น  เพราะ
+<span class="LineNumber"> 007 </span>เหตุปัจจัย                  
+<span class="LineNumber"> 008 </span>             ทุกปัจจัย  มี  ๑  วาระ.                     
+
+<span class="LineNumber"> 009 </span>					<H1>อรูปีบทปฏิจจวาระ</H1>	
+<span class="LineNumber"> 010 </span>                          		 <H2>อนุโลมนัย</H2> 
+<span class="LineNumber"> 011 </span>                             	   <H2>๑.  เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>		[๔๑]  ๑.  เหตุอรูปีธรรม  อาศัยนเหตุรูปีธรรม  เกิดขึ้น เพราะ
+<span class="LineNumber"> 013 </span>เหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 014 </span>                       ๔.  นเหตุอรูปีธรรม  อาศัยนเหตุอรูปีธรรม   เกิดขึ้น
+<span class="LineNumber"> 015 </span>เพราะเหตุปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 016 </span>                       ๗.  เหตุอรูปีธรรม  อาศัยเหตุอรูปีธรรม  และนเหตุ
+<span class="LineNumber"> 017 </span>อรูปีธรรม  เกิดขึ้น  เพราะเหตุปัจจัย  มี  ๓ วาระ.

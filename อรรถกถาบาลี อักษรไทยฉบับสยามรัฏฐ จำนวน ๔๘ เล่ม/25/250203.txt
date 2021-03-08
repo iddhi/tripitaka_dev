@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  จตุตฺถวคฺเค โสปากตฺเถรคาถาวณฺณนา หน้า 203
+
+<span class="LineNumber"> 002 </span>ปสนฺนมานโส  สตฺถารํ  อุปสงฺกมิตฺวา  วนฺทิตฺวา อฏฺ€าสิ ฯ 
+<span class="LineNumber"> 003 </span>สตฺถา  ตสฺส  ธมฺมํ  กเถสิ ฯ  โส  ธมฺมํ  สุตฺวา  ปพฺพชฺชํ  
+<span class="LineNumber"> 004 </span>ยาจิตฺวา  ปิตรา อนุฺาโตสีติ  วุตฺโต  ปิตรํ  สตฺถุ  สนฺติกํ 
+<span class="LineNumber"> 005 </span>เนสิ ฯ  (๑)  ตสฺส  ปิตา  สตฺถารํ อุปสงฺกมิตฺวา  วนฺทิตฺวา  ภนฺเต
+<span class="LineNumber"> 006 </span>อิมํ  ทารกํ  ปพฺพาเชถาติ  อนุชานิ ฯ สตฺถา ตํ ปพฺพาเชตฺวา 
+<span class="LineNumber"> 007 </span>เมตฺตาภาวนาย  นิโยเชสิ ฯ
+<span class="LineNumber"> 008 </span>	โส  เมตฺตากมฺมฏฺ€านํ  คเหตฺวา  สุสาเน  วิหรนฺโต  น 
+<span class="LineNumber"> 009 </span>จิรสฺเสว  เมตฺตาฌานํ  นิพฺพตฺเตตฺวา  ฌานํ  ปาทกํ  กตฺวา
+<span class="LineNumber"> 010 </span>วิปสฺสนํ วฑฺเฒตฺวา อรหตฺตํ สจฺฉากาสิ ฯ เตน วุตฺตํ อปทาเน (๒)  
+<span class="LineNumber"> 011 </span>		กกุสนฺโธ มหาวีโร		สพฺพธมฺมาน ปารคู  
+<span class="LineNumber"> 012 </span>		คณมฺหา วูปกฏฺโ€ โส	อคมาสิ วนนฺตรํ ฯ  
+<span class="LineNumber"> 013 </span>		พีชมิฺชํ (๓) คเหตฺวาน	ลตาย อาวุณึ (๔) อหํ  
+<span class="LineNumber"> 014 </span>		ภควา ตมฺหิ สมเย		ฌายเต ปพฺพตนฺตเร ฯ  
+<span class="LineNumber"> 015 </span>		ทิสฺวานหํ เทวเทวํ		วิปฺปสนฺเนน เจตสา  
+<span class="LineNumber"> 016 </span>		ทกฺขิเณยฺยสฺส วีรสฺส (๕)  พีชมิฺชมทาสหํ ฯ (๖)  
+<span class="LineNumber"> 017 </span>		อิมสฺมึเยว กปฺปมฺหิ	ยํ มิฺชมททึ(๗) ตทา  
+<span class="LineNumber"> 018 </span>		ทุคฺคตึ นาภิชานามิ	พีชมิฺชสฺสิทํ (๘) ผลํ ฯ  
+<span class="LineNumber"> 019 </span>		กิเลสา ฌาปิตา มยฺหํ ฯเปฯ กตํ พุทฺธสฺส สาสนนฺติ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. อาเนสิ ฯ  ๒. ขุ. อ. ๓๓/๓๑/๕๖ ฯ  ๓. สฺยา. วีชวีชํ ฯ
+<span class="LineNumber"> 021 </span># ๔. สฺยา. อาจรึ ฯ  ๕. สฺยา. ธีรสฺส ฯ  ๖. สฺยา. วีชวีช... ฯ
+<span class="LineNumber"> 022 </span># สี. พีชปูร... ฯ  ๗. สฺยา. วีชมททึ ฯ  ๘. สฺยา. วีชวีชสฺสิทํ ฯ 
+<span class="LineNumber"> 023 </span># สี. พีชปูชายิทํ ฯ 

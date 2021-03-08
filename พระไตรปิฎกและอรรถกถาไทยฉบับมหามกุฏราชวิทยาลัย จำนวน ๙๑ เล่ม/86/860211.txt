@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                                <H1>การนับจำนวนวาระในอนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                            <H1>สุทธมูลกนัย</H1>
+<span class="LineNumber"> 003 </span>         [๑๔๗๒]  ในเหตุปัจจัย มี ๓ วาระ ฯลฯ ในอธิปติปัจจัย  มี ๒ วาระ
+<span class="LineNumber"> 004 </span>ในอาเสวนปัจจัย มี ๒ วาระ   ในวิปากปัจจัย มี ๒ วาระ ฯลฯ   ในอวิคตปัจจัย
+<span class="LineNumber"> 005 </span>มี ๓ วาระ.  ในกุสลติกะนับอย่างไร  พึงนับอย่างนั้น.
+<span class="LineNumber"> 006 </span>                                            <I>อนุโลม  จบ</I> 
+
+<span class="LineNumber"> 007 </span>                                            <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 008 </span>         [๑๔๗๓]  <B>อุปาทินนุปาทานิยธรรม  เจือกับอุปาทินนุปาทานิย-
+<span class="LineNumber"> 009 </span>ธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>        คือ    ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอุปาทานิยธรรมซึ่งเป็นอเหตุกะ
+<span class="LineNumber"> 011 </span>เกิดขึ้น ฯลฯ ขันธ์ ๒ เจือกับขันธ์ ๒ เกิดขึ้น.
+<span class="LineNumber"> 012 </span>         ในอเหตุกะ  ปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 013 </span>         <B>อนุปาทินนุปาทานิยธรรม   เจือกับอนุปาทินนุปาทานิยธรรม
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 015 </span>         คือ  ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอนุปาทินนุปาทานิยธรรม  ซึ่งเป็น
+<span class="LineNumber"> 016 </span>อเหตุกะ  เกิดขึ้น ฯลฯ ขันธ์ ๒ เจือกับขันธ์ ๒ เกิดขึ้น.    โมหะที่สหรคตด้วย
+<span class="LineNumber"> 017 </span>วิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ   เจือกับขันธ์ที่สหรคตด้วยวิจิกิจฉา  ที่สหรคต
+<span class="LineNumber"> 018 </span>ด้วยอุทธัจจะ ฯลฯ

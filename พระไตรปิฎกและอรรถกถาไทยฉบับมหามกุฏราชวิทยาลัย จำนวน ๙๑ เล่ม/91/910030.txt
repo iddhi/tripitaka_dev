@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H2>ปัญหาวาระ</H2> 
+<span class="LineNumber"> 002 </span>                                    <H2>อนุโลมนัย</H2>  
+<span class="LineNumber"> 003 </span>                                   <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 004 </span>           [๔๓] ๑.   <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 005 </span>ที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 006 </span>                   ๒.   <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 007 </span>ที่ไม่ใช่เหตุ  ด้วยอำนาจของเหตุปัจจัย.</B>
+<span class="LineNumber"> 008 </span>                   ๓.  <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ   เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 009 </span>ที่ไม่ใช่เหตุ  และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ  ด้วยอำนาจของเหตุ
+<span class="LineNumber"> 010 </span>ปัจจัย.</B>
+
+<span class="LineNumber"> 011 </span>                             <H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 012 </span>           [๔๔] ๑.   <B>ธรรมที่ไม่ใช่เหตุ   เป็นปัจจัยแก่ธรรมที่ไม่ใช่เหตุ
+<span class="LineNumber"> 013 </span>ด้วยอำนาจของอารัมมณปัจจัย.</B>
+<span class="LineNumber"> 014 </span>                   ๒.   <B>ธรรมที่ไม่ใช่เหตุ  เป็นปัจจัยแก่ธรรมที่ไม่ใช่ธรรม
+<span class="LineNumber"> 015 </span>ที่ไม่ใช่เหตุ  ด้วยอำนาจของอารัมมณปัจจัย.</B>
+<span class="LineNumber"> 016 </span>                   ๓.   <B>ธรรมที่ไม่ใช่เหตุ   เป็นปัจจัยแก่ธรรมที่ไม่ใช่เหตุ
+<span class="LineNumber"> 017 </span>และธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ   ด้วยอำนาจของอารัมมณปัจจัย.</B> 
+<span class="LineNumber"> 018 </span>                   ๔.   <B>ธรรมที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ  เป็นปัจจัยแก่ธรรม
+<span class="LineNumber"> 019 </span>ที่ไม่ใช่ธรรมที่ไม่ใช่เหตุ  ด้วยอำนาจของอารัมมณปัจจัย.</B> 

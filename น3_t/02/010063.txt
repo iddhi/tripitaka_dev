@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>ทั้งสิ้นเห็นว่าเป็นของสูญเปล่าด้วยปฏิสังขาญาณแล้ว  พึงกำหนดสังขาร
+<span class="LineNumber"> 002 </span>เป็นของสูญ  โดยมีเงื่อน  ๒  เงื่อน  ๔.   
+<span class="LineNumber"> 003 </span>	<B>ความเป็นของสูญโดยมีเงื่อน  ๒  คือ :-</B>
+<span class="LineNumber"> 004 </span>	๑.  เป็นของสูญจากตัว.
+<span class="LineNumber"> 005 </span>	๒.  เป็นของสูญจากของ ๆ  ตัว.
+<span class="LineNumber"> 006 </span>	ความเป็นของสูญโดยมีเงื่อน  ๔  คือ :-
+<span class="LineNumber"> 007 </span>	๑.  ตัวก็ไม่มี.
+<span class="LineNumber"> 008 </span>	๒.  ของ ๆ  ตัวก็ไม่มี.
+<span class="LineNumber"> 009 </span>	๓.  ผู้อื่นก็ไม่มี.
+<span class="LineNumber"> 010 </span>	๔.  ของ ๆ  ผู้อื่นไม่มี.
+<span class="LineNumber"> 011 </span>	สังขารุเบกขาญาณ  มุญจิตุกัมยตาญาณ  ปฏิสังขาญาณ ทั้ง ๓  นี้
+<span class="LineNumber"> 012 </span>ว่าโดยอรรถเป็นอันเดียวกัน.
+<span class="LineNumber"> 013 </span>	สังขารุเบกขาญาณ  ถึงซึ่งความเป็นยอดแห่งวิปัสสนาญาณทั้งสิ้น.
+<span class="LineNumber"> 014 </span>	ในอนุโลมญาณนั้น  เมื่อผู้บำเพ็ญเจริญสังขารุเบกขาญาณทำให้
+<span class="LineNumber"> 015 </span>เกิดขึ้นแล้ว  พิจารณาสังขารโดยลักขณะทั้ง  ๓  อันใดอันหนึ่งเป็น
+<span class="LineNumber"> 016 </span>อารมณ์แล้ว  ตกลงยังภวังค์  ในลำดับนั้นในทวารราวัชชนะเกิดขึ้น
+<span class="LineNumber"> 017 </span>ทำลักษณะทั้ง ๓  อันใดอันหนึ่งเป็นอารมณ์แล้ว  ตกลงยังภวังค์  ใน
+<span class="LineNumber"> 018 </span>ลำดับภวังค์นั้น  ชวนจิตเกิดขึ้น  ทำกิจในลักษณะ  ๓  อันใดอันหนึ่ง
+<span class="LineNumber"> 019 </span>เป็นอารมณ์  มีชื่อต่าง  ๆ   กันดังนี้ :-
+<span class="LineNumber"> 020 </span>	ชวนจิตที่ ๑  ชื่อ  <B>บริกรรม</B>.
+<span class="LineNumber"> 021 </span>	ชวนจิตที่ ๒  ชื่อ  <B>อุปจาร</B>.
+
+

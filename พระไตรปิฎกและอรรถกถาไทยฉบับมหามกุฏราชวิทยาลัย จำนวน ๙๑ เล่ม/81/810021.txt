@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>อารุปปกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๐๙๖] <B>สกวาที</B>  อากาสานัญจายตนะเป็นอสังขตะหรือ ?
+<span class="LineNumber"> 003 </span>                       <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                       ส. เป็นนิพพาน เป็นที่ต้านทาน เป็นที่เร้น เป็นที่พึ่ง เป็น
+<span class="LineNumber"> 005 </span>ที่หมาย เป็นฐานะอันไม่เคลื่อน  เป็นอมตะ  หรือ ?
+<span class="LineNumber"> 006 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                       ส. อากาสานัญจายตนะเป็นอสังขตะ  นิพพานเป็นอสังขตะ
+<span class="LineNumber"> 008 </span>หรือ ?
+<span class="LineNumber"> 009 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 010 </span>                       ส. อสังขตะ เป็น ๒ อย่าง หรือ ?
+<span class="LineNumber"> 011 </span>                       ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 012 </span>                       ส. อสังขตะ  เป็น ๒ อย่าง หรือ ?
+<span class="LineNumber"> 013 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 014 </span>                       ส. ที่ต้านทาน เป็น ๒  อย่าง ฯลฯ  มีระหว่างขั้นแห่งนิพ-
+<span class="LineNumber"> 015 </span>พาน ๒  อย่างนั้น   หรือ ?
+<span class="LineNumber"> 016 </span>                       ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 017 </span>                       ส. อากาสานัญจายตนะเป็นอสังขตะ หรือ ?
+<span class="LineNumber"> 018 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 019 </span>                       ส. อากาสานัญจายตนะเป็นภพ   เป็นคติ   เป็นสัตตาวาส
+<span class="LineNumber"> 020 </span>เป็นสงสาร เป็นกำเนิด   เป็นที่ตั้งแห่งวิญญาณ เป็นการได้อัตภาพ หรือ ?
+<span class="LineNumber"> 021 </span>                       ป. ถูกแล้ว.
+<span class="LineNumber"> 022 </span>                        ส. อสังขตะเป็นภพ  เป็นคติ  เป็นสัตตาวาส  เป็นสงสาร

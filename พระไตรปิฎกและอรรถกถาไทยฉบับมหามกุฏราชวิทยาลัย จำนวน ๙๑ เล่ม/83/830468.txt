@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>รู้มานานุสัย   และกำหนดรู้ภวราคานุสัย   จากที่นั้น. 
+<span class="LineNumber"> 002 </span>         ก็หรือว่า  บุคคลใด  กำหนดรู้ภวราคานุสัย  จากที่ใด,  บุคคลนั้น
+<span class="LineNumber"> 003 </span>ย่อมกำหนดรู้มานานุสัย  จากที่นั้น ?
+<span class="LineNumber"> 004 </span>         ใช่.
+<span class="LineNumber"> 005 </span>                        <I>จบ  มานานุสยมูละ  ภวราคานุสยมูลี</I>
+
+<span class="LineNumber"> 006 </span><H2>มานานุสยมูละ  อวิชชานุสยมูลี</H2> :-
+<span class="LineNumber"> 007 </span>         บุคคลใด  ย่อมกำหนดรู้มานานุสัย  จากที่ใด,  บุคคลนั้นกำหนด
+<span class="LineNumber"> 008 </span>รู้อวิชชานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>         ก็หรือว่า  บุคคลใด  กำหนดรู้อวิชชานุสัย  จากที่ใด   บุคคลนั้น
+<span class="LineNumber"> 011 </span>ย่อมกำหนดรู้มานานุสัย  จากที่นั้นใช่ไหม ?
+<span class="LineNumber"> 012 </span>         บุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรค    กำหนดรู้ที่ทุกข-
+<span class="LineNumber"> 013 </span>เวทนา   บุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรคนั้น    ย่อมกำหนด
+<span class="LineNumber"> 014 </span>รู้อวิชชานุสัย   จากที่นั้น      แต่บุคคลผู้มีความพร้อมเพรียงด้วยอรหัต-
+<span class="LineNumber"> 015 </span>มรรคนั้น  ไม่ใช่จะกำหนดรู้มานานุสัย  จากที่นั้น,  บุคคลนั้นนั่นแหละ
+<span class="LineNumber"> 016 </span>กำหนดรู้ที่เวทนา ๒   ในกามธาตุ    ที่รูปธาตุ     อรูปธาตุ  บุคคลนั้น
+<span class="LineNumber"> 017 </span>ย่อมกำหนดรู้อวิชชานุสัย   และกำหนดรู้มานานุสัย   จากที่นั้น.
+<span class="LineNumber"> 018 </span>                        <I>จบ  มานานุสยมูละ  อวิชชานุสยมูลี</I>
+<span class="LineNumber"> 019 </span>                                     <I>มานานุสยมูล  จบ</I>

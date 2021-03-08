@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>อุปปัตติฏฐานโอกาสวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                    <H1>กามราคานุสยมูล</H1>
+<span class="LineNumber"> 003 </span><H2>เอกมูลกะ - กามราคานุสยมูละ  ปฏิฆานุสยมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๔๓๑]    บุคคลกำหนดรู้กามราคานุสัย     จากที่ใด,     ย่อม
+<span class="LineNumber"> 005 </span>กำหนดรู้ปฏิฆานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ไม่ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  บุคคลกำหนดรู้ปฏิฆานุสัย   จากที่ใด  กำหนดรู้กาม-
+<span class="LineNumber"> 008 </span>ราคานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ไม่ใช่.
+<span class="LineNumber"> 010 </span>                    <I>จบ  กามราคานุสยมูละ  ปฏิฆานุสยมูลี</I>
+  
+<span class="LineNumber"> 011 </span><H2>กามราคานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 012 </span>         บุคคลกำหนดรู้กามราคานุสัย    จากที่ใด,    ย่อมกำหนดรู้มานา-
+<span class="LineNumber"> 013 </span>นุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่า  บุคคลกำหนดรู้มานานุสัย    จากที่ใด,   ย่อมกำหนดรู้
+<span class="LineNumber"> 016 </span>กามราคานุสัย  จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         บุคคลกำหนดรู้มานานุสัย  จากที่นั้น   คือที่รูปธาตุ     อรูปธาตุ
+<span class="LineNumber"> 018 </span>แต่ไม่ใช่จะกำหนดรู้กามราคานุสัย    จากที่นั้น,     บุคคลย่อมกำหนดรู้

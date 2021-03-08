@@ -1,0 +1,9 @@
+﻿<span class="LineNumber"> 001 </span>         ธรรมที่ชื่อว่ามโนวิญญาณธาตุ,   ชื่อว่ามโนวิญญาณ  ใช่ไหม ? 
+<span class="LineNumber"> 002 </span>         ใช่.
+<span class="LineNumber"> 003 </span>         ธรรมที่ชื่อว่าธรรม,  ชื่อว่าธัมมธาตุ  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         เว้นธัมมธาตุเสียแล้ว    ธรรมที่เหลือ   ชื่อว่า    ธรรม     แต่ไม่ชื่อ
+<span class="LineNumber"> 005 </span>ว่าธัมมธาตุ,  ธัมมธาตุ   ชื่อว่า    ธรรมด้วย   ชื่อว่า    ธัมมธาตุด้วย.
+<span class="LineNumber"> 006 </span>         ธรรมที่ชื่อว่าธัมมธาตุ,   ชื่อว่าธรรม  ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ใช่.
+<span class="LineNumber"> 008 </span>                              <I>ปทโสธนวาระ  อนุโลม  จบ</I>
+                                                  

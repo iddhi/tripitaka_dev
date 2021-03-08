@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	[๔๖๑]  ขัณฑจักร  และพัทธจักรแห่งสปริทัณฑาจักร มีภรรยา ๒
+<span class="LineNumber"> 002 </span>คนเป็นมูล 
+<span class="LineNumber"> 003 </span>	ขัณฑจักร   และพัทธจักร    แห่งสปริทัณฑาจักร    มีภรรยา ๓ คน
+<span class="LineNumber"> 004 </span>เป็นมูล
+<span class="LineNumber"> 005 </span>	ขัณฑจักร  และพัทธจักร   แห่งสปริทัณฑาจักร    มีภรรยา ๔ คน
+<span class="LineNumber"> 006 </span>เป็นมูล
+<span class="LineNumber"> 007 </span>	ขัณฑจักร   และพัทธจักร   แห่งสปริทัณฑาจักร    มีภรรยา ๕ คน
+<span class="LineNumber"> 008 </span>เป็นมูล                 
+<span class="LineNumber"> 009 </span>	ขัณฑจักร   และพัทธจักร   แห่งสปริทัณฑาจักร   มีภรรยา ๖ คน
+<span class="LineNumber"> 010 </span>เป็นมูล
+<span class="LineNumber"> 011 </span>	ขัณฑจักร  และพัทธจักร   แห่งสปริทัณฑาจักร    มีภรรยา ๗ คน
+<span class="LineNumber"> 012 </span>เป็นมูล                                                                 
+<span class="LineNumber"> 013 </span>	ขัณฑจักร   และพัทธจักร   แห่งสปริทัณฑาจักร    มีภรรยา ๘  คน
+<span class="LineNumber"> 014 </span>เป็นมูล
+<span class="LineNumber"> 015 </span>	ขัณฑจักร   และพัทธจักร   แห่งสปริทัณฑาจักร   มีภรรยา  ๙  คน
+<span class="LineNumber"> 016 </span>เป็นมูล
+<span class="LineNumber"> 017 </span> 	                 นักปราชญ์พึงทำตามแบบนี้แล.
+
+<span class="LineNumber"> 018 </span>		                  <H2>สปริทัณฑาจักร
+<span class="LineNumber"> 019 </span>	   พัทธจักร  มีภรรยา  ๑๐  คนเป็นมูล</H2>
+<span class="LineNumber"> 020 </span>	[๔๖๒]   บุรุษวานภิกษุว่า  ข้าแต่พระคุณเจ้า   ขอพระคุณเจ้าจงไป
+<span class="LineNumber"> 021 </span>บอกสตรีมีกฎหมายคุ้มครองผู้มีชื่อนี้ว่า     ข่าวว่า     ขอท่านจงเป็นภรรยา

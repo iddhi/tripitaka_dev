@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                         <H1>โอกาสวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 003 </span><H2>ทุกขสัจจมูละ  ฯ ล ฯ</H2>
+<span class="LineNumber"> 004 </span>         [๙๕๒]   ทุกขสัจจะไม่ใช่กำลังดับในภูมิใด,  ฯ เป ฯ
+<span class="LineNumber"> 005 </span>                                    <I>ทุกขสัจจมูล  จบ</I>
+<span class="LineNumber"> 006 </span>                                     <I>โอกาสวาระ  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                     <H1>ปุคคโลกาสวาระ</H1>
+<span class="LineNumber"> 008 </span>                                        <H1>ทุกขสัจจมูล</H1>
+<span class="LineNumber"> 009 </span><H2>ทุกขสัจจมูละ  สมุทยสัจจมูลี :-</H2>
+<span class="LineNumber"> 010 </span>         [๙๕๓]   ทุกขสัจจะไม่ใช่กำลังดับแก่บุคคลใดในภูมิใด,   สมุทย-
+<span class="LineNumber"> 011 </span>สัจจะก็ไม่ใช่เคยดับแก่บุคคลนั้นในภูมินั้น   ใช่ไหม ?
+<span class="LineNumber"> 012 </span>         เมื่อบุคคลเหล่านั้นกำลังเกิดในจตุโวการภูมิ  ปัญโวการภูมิก็ดี
+<span class="LineNumber"> 013 </span>ในอุปปาทขณะแห่งจิตในปวัตติกาลก็ดี      ในภังคขณะแห่งมัคคจิตและ
+<span class="LineNumber"> 014 </span>ผลจิตในอรูปภูมิก็ดี    ทุกขสัจจะไม่ใช่กำลังดับแก่บุคคลเหล่านั้นในภูมิ-

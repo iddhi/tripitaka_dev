@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>พระบัญญัติ</H1> 
+<span class="LineNumber"> 002 </span>          <B>๑๕๑.  ๑๓.  อนึ่ง  ภิกษุณีใด   ไม่มีผ้ารัดถัน    เข้าบ้าน   เป็น
+<span class="LineNumber"> 003 </span>ปาจิตตีย์. </B>
+<span class="LineNumber"> 004 </span>                                  <I>เรื่องภิกษุณีรูปหนึ่ง  จบ</I>
+
+<span class="LineNumber"> 005 </span>                                     <H2>สิกขาบทวิภังค์</H2>
+<span class="LineNumber"> 006 </span>            [๔๘๑] บทว่า  <B>อนึ่ง. . .ใด</B>  ความว่า  ผู้ใด  คือ  ผู้เช่นใด. . .
+<span class="LineNumber"> 007 </span>            บทว่า  <B>ภิกษุณี</B>  ความว่า  ที่ชื่อว่า   <B>ภิกษุณี</B>  เพราะอรรถว่าเป็นผู้
+<span class="LineNumber"> 008 </span>ขอ. . .นี้ชื่อว่า  <B>ภิกษุณี</B> ที่ทรงประสงค์ในอรรถนี้.
+<span class="LineNumber"> 009 </span>           บทว่า  <B>ไม่มีผ้ารัดถัน</B>    คือปราศจากผ้ารัดนม.
+<span class="LineNumber"> 010 </span>            ที่ชื่อว่า  <B>ผ้ารัดถัน</B>    ได้แก่   ผ้าที่ใช้ปกปิดอวัยวะเบื้องต่ำแต่รากขวัญ
+<span class="LineNumber"> 011 </span>ลงมา  เบื้องบนตั้งแต่นาภีขึ้นไป.
+<span class="LineNumber"> 012 </span>            คำว่า  <B>เข้าบ้าน</B>   คือ    บ้านที่มีเครื่องล้อม   เดินเลยเครื่องล้อมต้อง
+<span class="LineNumber"> 013 </span>อาบัติปาจิตตีย์.
+
+<span class="LineNumber"> 014 </span>                                      <H2>อนาปัตติวาร</H2>
+<span class="LineNumber"> 015 </span>            [๔๘๒]  มีจีวรถูกชิงไป ๑  มีจีวรหาย ๑   อาพาธ ๑   หลงลืมไป ๑
+<span class="LineNumber"> 016 </span>ไม่รู้ตัว ๑  วิกลจริต ๑  อาทิกัมมิกา ๑  ไม่ต้องอาบัติแล.
+
+<span class="LineNumber"> 017 </span>                    <I>ฉัตตุปาหนวรรค  สิกขาบทที่ ๑๓  จบ
+<span class="LineNumber"> 018 </span>                             ฉัตตุปาหนวรรคที่  ๙  จบ</I>
+
+<span class='footnote'>๑.  วรรคที่  ๑๐  ถึงวรรคที่ ๑๖  มีวรรคละ  ๑๐  สิกขาบท  คือ  มุสาวาทวรคที่  ๑๐  มี  ๑๐  สิกขาบท</span>
+<span class='footnote'>        ภูคคามวรรคที่  ๑๑  มี  ๑๐  สิกขาบท  โภชนวรรคที่ ๑๒  มี ๑๐ สิกขาบท  จริตตวรรคที่  ๑๓  มี ๑๐</span>
+<span class='footnote'>        สิกขาบท  โชติวรรคที่  ๑๔  มี ๑๐ สิกขาบท ทิฏฐิวรรคที่  ๑๕  มี  ๑๐ สิกขาบท  ธัมมิกวรรคที่  ๑๖</span>
+<span class='footnote'>        มี ๑๐ สิกขาบท  รวมอีก ๗๐  สิกขาบท  เป็นอุภโตบัญญัติ  ผู้ปรารถนาพึงทราบโดยนัยดังกล่าวแล้ว</span>
+<span class='footnote'>        ในภิกขุวิภังค์โน้นเทอญ. </span>

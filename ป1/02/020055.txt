@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ส.	พฺพหฺมนิ		พฺรหฺเมสุ   
+<span class="LineNumber"> 002 </span>อ.	พฺรหฺเม		พฺรหฺมาโน 
+<span class="LineNumber"> 003 </span>                            วิธีเปลี่ยน  วิภัตติ  และ การันต์
+<span class="LineNumber"> 004 </span>๑  เอา  อ  ที่สุด  แห่ง  พฺรหฺม  กับ  สิ  เป็น  อา,  กับ  โย  เป็น  อาโน.
+<span class="LineNumber"> 005 </span>๒  เอา  อ  กับ  อํ  เป็น  อานํ.
+<span class="LineNumber"> 006 </span>๓  นา   ส  อยู่หลัง  เอา  อ  ที่สุด  แห่ง  พฺรหฺม  เป็น  อุ  แล้วคง  นา  ไว้,
+<span class="LineNumber"> 007 </span>    เอา  ส  เป็น  โน,  ถ้าไม่เอา  ส  เป็น  โน  ไม่ต้องเอา  อ  เป็น  อุ.
+<span class="LineNumber"> 008 </span>๔  เอา  สฺมา  วภัตติ  เป็น นา.
+<span class="LineNumber"> 009 </span>๕  เอา  สฺมึ  วิภัตติ  เป็น  นิ.
+<span class="LineNumber"> 010 </span>๖  เอา  อาลปนะ  เอกวจนะ  เป็น  เอ.
+<span class="LineNumber"> 011 </span>          [๖๓]  ราช  [พระราช]  เป็น  ทฺวิลิงค์  ใน  ปุํลิงค์  แจกอย่างนี้ :-
+<span class="LineNumber"> 012 </span>		เอก.						พหุ.
+<span class="LineNumber"> 013 </span>ป.	ราชา						ราชาโน
+<span class="LineNumber"> 014 </span>ทุ.	ราชานํ					ราชาโน
+<span class="LineNumber"> 015 </span>ต.	รญฺา					ราชูหิ   	ราชูภิ
+<span class="LineNumber"> 016 </span>จ.	รญฺโ	ราชิโน			รญฺํ	ราชูนํ
+<span class="LineNumber"> 017 </span>ปญฺ.	รญฺา					ราชูหิ	ราชูภิ
+<span class="LineNumber"> 018 </span>ฉ.	รญฺโ	ราชิโน			รญฺํ	ราชูนํ
+<span class="LineNumber"> 019 </span>ส.	รญฺเ	ราชินิ			ราชูสุ
+<span class="LineNumber"> 020 </span>อา.	ราช						ราชาโน
+
+<span class='footnote'>๑.  คือ  เป็น  พฺรหฺมสฺส  ก็ได้.</span>

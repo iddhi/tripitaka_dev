@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  จตุตฺถวคฺเค   สุปฺปิยตฺเถรคาถาวณฺณนา หน้า 199
+
+<span class="LineNumber"> 002 </span>		อุปคนฺตฺวาน สมฺพุทฺธํ	สห ขาริม(๑)ทาสหํ 
+<span class="LineNumber"> 003 </span>		อนุกมฺปาย เม พุทฺโธ	อิมํ วจนมพฺรวิ ฯ
+<span class="LineNumber"> 004 </span>		ขาริภารํ คเหตฺวาน	ปจฺฉโต เยหิ(๒) เม ตุวํ  
+<span class="LineNumber"> 005 </span>		ปริภุตฺเต จ สํฆมฺหิ	ปุฺํ ตว ภวิสฺสติ ฯ  
+<span class="LineNumber"> 006 </span>		ปุฏกํ ตํ คเหตฺวาน		ภิกฺขุสํฆสฺสทาสหํ  
+<span class="LineNumber"> 007 </span>		ตตฺถ จิตฺตํ ปสาเทตฺวา	ตุสิตํ อุปปชฺชหํ ฯ  
+<span class="LineNumber"> 008 </span>		ตตฺถ ทิพฺเพหิ นจฺเจหิ	คีเตหิ วาทิเตหิ จ  
+<span class="LineNumber"> 009 </span>		ปุฺกมฺเมน สํยุตฺตํ(๓)	อนุโภมิ สทา สุขํ(๔) ฯ  
+<span class="LineNumber"> 010 </span>		ยํ ยํ โยนุปปชฺชามิ		เทวตฺตํ อถ มานุสํ  
+<span class="LineNumber"> 011 </span>		โภเค เม อูนตา นตฺถิ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 012 </span>		ยาวตา จตุโร ทีปา		สสมุทฺทา สปพฺพตา  
+<span class="LineNumber"> 013 </span>		ผลํ พุทฺธสฺส ทตฺวาน	อิสฺสรํ การยามหํ(๕) ฯ  
+<span class="LineNumber"> 014 </span>		ยาวตา เย ปกฺขิคณา	อากาเส อุปฺปตนฺติ เจ(๖)  
+<span class="LineNumber"> 015 </span>		เตปิ เม วสมเนฺวนฺติ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 016 </span>		ยาวตา วนสณฺฑมฺหิ	ยกฺขา ภูตา จ รกฺขสา  
+<span class="LineNumber"> 017 </span>		กุมฺภณฺฑา ครุฬา จาปิ	ปาริจริยํ(๗) อุเปนฺติ เม ฯ
+<span class="LineNumber"> 018 </span>		กุมฺมา โสณา (๘) มธุการา ฑํสา จ มกสา อุโภ  
+<span class="LineNumber"> 019 </span>		เตปิ มํ วสมเนฺวนฺติ	ผลทานสฺสิทํ ผลํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. สกํ ขารึ ฯ  ม.สหขาริมทาสหํ ฯ ยุ. สาขาริกํ อทาสหํ ฯ
+<span class="LineNumber"> 021 </span># ๒. สฺยา. ม. เอหิ ฯ  ๓. สฺยา. สํยุตฺโต ฯ  ๔. สฺยา. ยสํ อหํ ฯ 
+<span class="LineNumber"> 022 </span># ๕. สฺยา. การยึ อหํ ฯ  ๖. ยุ. เต ฯ  ๗. สฺยา. ปาจริยํ ฯ
+<span class="LineNumber"> 023 </span># ๘. ยุ. กุมฺภโสณา ฯ 

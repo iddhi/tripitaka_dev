@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	<B>๒.  ปุน  จปรํ  ภิกฺขเว</B>	ดูก่อนภิกษุทั้งหลาย  ข้ออื่นยังมี  
+<span class="LineNumber"> 002 </span><B>ภิกฺขุ</B>					อยู่อีก  ภิกษุ,
+<span class="LineNumber"> 003 </span><B>ธมฺเมสุ  ธมฺมานุปสฺสี วิหรติ</B>	ย่อมพิจารณาเห็นธรรมในธรรมคือ
+<span class="LineNumber"> 004 </span><B>ปญฺจสุ  อุปาทานกฺขนฺเธสุ</B>		อุปาทานขันธ์  ๕
+<span class="LineNumber"> 005 </span><B>กถญฺจ  ภิกฺขเว  ภิกฺขุ</B>		ดูก่อนภิกษุทั้งหลาย  ก็อย่างไร
+<span class="LineNumber"> 006 </span>					ภิกษุ,
+<span class="LineNumber"> 007 </span><B>ธมฺเมสุ  ธมฺมานุปสฺสี วิหรติ</B>	ย่อมพิจารณาเห็นธรรมในธรรมคือ
+<span class="LineNumber"> 008 </span><B>ปญฺจสุ  อุปาทานกฺขนฺเธสุ</B>		อุปาทานขันธ์  ๕,
+<span class="LineNumber"> 009 </span><B>อิธ  ภิกฺขเว  ภิกฺขุ</B>			ดูก่อนภิกษุทั้งหลาย  ภิกษุใน
+<span class="LineNumber"> 010 </span>					ศาสนานี้  [ย่อมพิจารณาเห็นดังนี้
+<span class="LineNumber"> 011 </span>					ว่า]:-
+<span class="LineNumber"> 012 </span>	<B>[๑]  อิติ  รูปํ</B>			อย่างนี้รูป  [สิ่งที่ทรุดโทรม]
+<span class="LineNumber"> 013 </span><B>อิติ  รูปสฺส  สมุทโย</B>		อย่างนี้ความเกิดของรูป
+<span class="LineNumber"> 014 </span><B>อิติรูปสิส  อตฺถงฺคโม</B>		อย่างนี้ความดับไปของรูป.
+<span class="LineNumber"> 015 </span>	<B>[๒]  อิติ  เวทนา</B>		อย่างนี้เวทนา  [ความรู้อารมณ์]
+<span class="LineNumber"> 016 </span><B>อิติ  เวทนาย  สมุทโย</B>		อย่างนี้ความเกิดขึ้นของเวทนา
+<span class="LineNumber"> 017 </span><B>อิติ  เวทนาย  อตฺถงฺคโม</B>		อย่างนี้ความดับไปของเวทนา.
+<span class="LineNumber"> 018 </span>	<B>[๓]  อิติ  สญฺา</B>		อย่างนี้สัญญา  [ความจำ]
+<span class="LineNumber"> 019 </span><B>อิติ  สญฺาย  สมุทโย</B>		อย่างนี้ความเกิดขึ้นของสัญญา
+<span class="LineNumber"> 020 </span><B>อิติ  สญฺาย  อตฺถงฺคโม</B>		อย่างนี้ความดับไปของสัญญา.
+<span class="LineNumber"> 021 </span>	<B>[๔]  อิติ  สงฺขารา</B>		อย่างนี้สังขาร  [ความคิดความนึก]
+

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๒    หน้า ๕๐๑
+
+<span class="LineNumber"> 002 </span>				นิคมนกถา
+<span class="LineNumber"> 003 </span>	เอตฺตาวตา หิ
+<span class="LineNumber"> 004 </span>		พหุการสฺส  ยตีนํ  วิปสฺสนาจารนิปุณพุทฺธีนํ  
+<span class="LineNumber"> 005 </span>		สํยุตฺตวรนิกายสฺส  อตฺถสํวณฺณนํ  กาตต ฯ  
+<span class="LineNumber"> 006 </span>		สทฺธมฺมสฺส  จิรฏฺ€ิติ  มาสิสมาเนน  ยา  มยา  
+<span class="LineNumber"> 007 </span>		นิปุณา  อฏฺ€กถา  อารทฺธา  สารตฺถปกาสินี  นาม ฯ  
+<span class="LineNumber"> 008 </span>		สา  หิ  มหาอฏฺ€กถาย  สารมาทาย  นิฏฺ€ิตา  เอสา  
+<span class="LineNumber"> 009 </span>		อฏฺ€สตฺตติมตฺตาย  ปาฬิยา  ภาณวาเรหิ ฯ  
+<span class="LineNumber"> 010 </span>		เอกูนสฏฺ€ิมตฺโต  วิสุทฺธิมคฺโคปิ  ภาณวาเรหิ  
+<span class="LineNumber"> 011 </span>		อตฺถปฺปกาสนตฺถาย  อาคมานํ  กโต  ยสฺมา ฯ  
+<span class="LineNumber"> 012 </span>		ตสฺมา  เตน  สหายํ  อฏฺ€กถา  ภาณวารคณนาย  
+<span class="LineNumber"> 013 </span>		โถเกน  อปริปูรํ  สตฺตตึสสตํ  โหติ ฯ  
+<span class="LineNumber"> 014 </span>		สตฺตตึสาธิกสตปริมาณํ  ภาณวารโต  เอวํ  
+<span class="LineNumber"> 015 </span>		สมยํ  ปกาสยนฺตึ  มหาวิหาราธิวาสีนํ ฯ  
+<span class="LineNumber"> 016 </span>		มูลฏฺ€กถาสารํ  อาทาย  มยา  อิมํ  กโรนฺเตส  
+<span class="LineNumber"> 017 </span>		ยํ  ปุฺมุปจิตํ  เตน  โหตุ  สพฺโพ  สุขี  โลโก ฯ  
+<span class="LineNumber"> 018 </span>		เอติสฺสา  กรณตฺถํ  เถเรน  ภทนฺตโชติปาเลน  
+<span class="LineNumber"> 019 </span>		สุจิสีเลน  สุภาสิตสฺส  ปกาสยนฺตาเณน ฯ  
+<span class="LineNumber"> 020 </span>		สาสนวิภูติกาเมน  ยาจมาเนน  มํ  สุภคุเณน  
+<span class="LineNumber"> 021 </span>		ยํ  สมธิคตํ  ปุฺํ  เตนาปิ  ชโน  สุขี  ภวตูติ ฯ  

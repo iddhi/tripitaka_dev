@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	๔.  สัทธาจริต		เป็นคนหูเบาเชื่อง่าย   
+<span class="LineNumber"> 002 </span>	๕.  พุทธจริต		เป็นคนรู้มาก
+<span class="LineNumber"> 003 </span>	๖.  วิตักกจริต		เป็นคนกังวลคิดหน้าคิดหลังพะว้าพะวัง
+<span class="LineNumber"> 004 </span>	<B>ผู้ทำกัมมัฏฐานต้องคัดเลือกหาธรรมะที่เป็นสัปปายะ</B>
+<span class="LineNumber"> 005 </span>	๑.  อาวาสสัปปายะ		ที่อยู่สบาย
+<span class="LineNumber"> 006 </span>	๒.  โคจรสัปปายะ		ที่แสวงหาเลี้ยงชีพอย่างสบาย
+<span class="LineNumber"> 007 </span>	๓.  กถาสัปปายะ		พูดแต่เรื่องสบาย
+<span class="LineNumber"> 008 </span>	๔.  ปุคคลสัปปายะ		มีบุคคลสบาย
+<span class="LineNumber"> 009 </span>	๕.  อาหารสัปปายะ		อาหารที่ถูกต้องตามความต้องการของ
+<span class="LineNumber"> 010 </span>						ร่างกาย
+<span class="LineNumber"> 011 </span>	๖.  อุตุสัปปายะ		ฤดูที่สบาย
+<span class="LineNumber"> 012 </span>                                   <B>อุปการธรรมที่ขาดไม่ได้</B>
+<span class="LineNumber"> 013 </span>	๑.  อาตาปี  ความเพียร
+<span class="LineNumber"> 014 </span>	๒.  สัมปชาโน	  ความรู้ตัว
+<span class="LineNumber"> 015 </span>	๓.  สติมา  มีสติ
+<span class="LineNumber"> 016 </span>	ครั้นพร้อมดังนี้แล้ว  ผู้ทำกัมมัฏฐานนั่งคู้บัลลังก์  หดเท้าซ้ายเข้า
+<span class="LineNumber"> 017 </span>เอาเท้าขวาเข้า  นั่งขัดสมาธิ  เริ่มระดมความสังเกต  มีสติไปยังลมหายใจ
+<span class="LineNumber"> 018 </span>ใช้สติกำหนดลมหายใจ  ให้รู้ว่าหายใจออกสั้นหรือยาว  ให้รู้ว่าหายใจ
+<span class="LineNumber"> 019 </span>เข้าสั้นหรือยาว  ใช้สติกำหนดลมหายใจอยู่อย่างนี้ 
+<span class="LineNumber"> 020 </span>	๑.  เมื่อกำหนดดูลมหายใจนาน ๆ  ก็เกิดฉันทะ  ความพอใจ
+<span class="LineNumber"> 021 </span>	๒.  เมื่อมีฉันทะ  ความพอใจในการกำหนดลมหายใจอยู่อย่าง
+<span class="LineNumber"> 022 </span>	      นั้น  หายใจเข้าหายใจออกก็ละเอียดขึ้น
+

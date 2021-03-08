@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		เล่มที่  35  สุธาโภชนชาตกํ  หน้า  301
+
+<span class="LineNumber"> 002 </span>	[๒๕๘]เย เกจิเม มจฺฉริโน กทริยา  
+<span class="LineNumber"> 003 </span>		ปริภาสกา สมณพฺราหฺมณานํ  
+<span class="LineNumber"> 004 </span>		อิเธว นิกฺขิปฺป สรีรเทหํ  
+<span class="LineNumber"> 005 </span>		กายสฺส เภทา นิรยํ วชนฺติ เตติ ฯ  
+<span class="LineNumber"> 006 </span>อิมํ คาถํ วตฺวา ธมฺเม €ิตานํ เทวโลกํ ปฏิลาภํ ทสฺเสตุํ คาถมาห  
+<span class="LineNumber"> 007 </span>		เย เกจิเม สุคตึ อาสึสมานา(๑)  
+<span class="LineNumber"> 008 </span>		ธมฺเม €ิตา สํยเม สํวิภาเค  
+<span class="LineNumber"> 009 </span>		อิเธว นิกฺขิปฺป สรีรเทหํ  
+<span class="LineNumber"> 010 </span>		กายสฺส เภทา สุคตึ วชนฺติ เตติ ฯ  
+<span class="LineNumber"> 011 </span>	ตตฺถ  อาสึสมานาติ  อาสึสนฺตา(๒)  เย  เกจิ  สุคตึ  อาสึสนฺติ  
+<span class="LineNumber"> 012 </span>สพฺเพ  เต  สํยมสงฺขาเต  ทสสีลธมฺเม  สํวิภาคสงฺขาเต  ทานธมฺเม 
+<span class="LineNumber"> 013 </span>จ  €ิตา  หุตฺวา  อิเธว  สรีรสงฺขาตํ  เทหํ  นิกฺขิปิตฺวา  ตสฺส 
+<span class="LineNumber"> 014 </span>กายสฺส  เภทา สุคตึ วชนฺตีติ อตฺโถ ฯ  
+<span class="LineNumber"> 015 </span>	เอวํ  วตฺวา  จ  ปน  โกสิย  น  มยํ  ตว  สนฺติกํ  ปายาสตฺถาย  
+<span class="LineNumber"> 016 </span>อาคตา  การุฺเน  ปน  ตํ  อนุกมฺปมานา  อาคตมฺหาติ  ตสฺส  
+<span class="LineNumber"> 017 </span>ปกาเสตุํ อาห  
+<span class="LineNumber"> 018 </span>	[๒๕๙]ตฺวํ โน าติ ปุริมาย ชาติยา  
+<span class="LineNumber"> 019 </span>		โส มจฺฉรี โกสิโย(๓) ปาปธมฺโม  
+<span class="LineNumber"> 020 </span>		ตเวว อตฺถาย อิธาคตมฺหา  
+<span class="LineNumber"> 021 </span>		มา ปาปธมฺโม นิรยํ อปตฺถาติ(๔) ฯ  
+<span class="LineNumber"> 022 </span># ๑. ม. สุคฺคติมาสมานา ฯ ๒. สี. ยุ. อาสสานาติ ฯ
+<span class="LineNumber"> 023 </span># ๓. ม. โรสโก ฯ  ๔. ม. คมิตฺถาติ ฯ

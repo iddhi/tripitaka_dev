@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  จุลฺลปทุมชาตกํ  หน้า  187
+
+<span class="LineNumber"> 002 </span>			ยมาห โกมาริปติโก (๑)  มมนฺติ  
+<span class="LineNumber"> 003 </span>			วชฺฌิตฺถิโย นตฺถิ อิตฺถีสุ สจฺจํ  ฯ
+<span class="LineNumber"> 004 </span>	[๒๓๖]	อิมฺจ ชมฺมํ มุสเลน หนฺตฺวา  
+<span class="LineNumber"> 005 </span>			ลุทฺทํ ฉวํ ปรทารูปเสวึ  
+<span class="LineNumber"> 006 </span>			อิมิสฺสา จ นํ ปาปปติพฺพตาย  
+<span class="LineNumber"> 007 </span>			ชีวนฺติยา ฉินฺทถ กณฺณนาสนฺติ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺถ  ยมาห  โกมาริปติโก  มมนฺตีติ  ยํ  เอสา  อยํ  เม
+<span class="LineNumber"> 009 </span>โกมาริปติ  กุลทตฺติโย  สามิโกติ  อาห  อยเมว  โส  อนฺโ (๒) ฯ  
+<span class="LineNumber"> 010 </span>ยมาหุ  โกมาริปตีติปิ (๓)  ปาโ€ ฯ  อยเมว  หิ  โปตฺถเกสุ  ลิขิโต ฯ  
+<span class="LineNumber"> 011 </span>ตสฺสาปิ  อยเมวตฺโถ ฯ  วจนวิปลฺลาโส  ปเนตฺถ  เวทิตพฺโพ ฯ 
+<span class="LineNumber"> 012 </span>ยํ หิ  เตน  รฺา  วุตฺตํ  ตเทว  อิธ  อาคตํ ฯ  วชฺฌิตฺถิโยติ 
+<span class="LineNumber"> 013 </span>อิตฺถิโย นาม  วชฺฌา  วธิตพฺพา  เอว ฯ  นตฺถิ  อิตฺถีสุ  สจฺจนฺติ 
+<span class="LineNumber"> 014 </span>เอตาสุ  สจฺจภาโว  (๔) นาเมโก นตฺถิ ฯ อิมฺจ ชมฺมนฺติอาทิ 
+<span class="LineNumber"> 015 </span>ทฺวินฺนมฺปิ เตสํ ทณฺฑาณาปนวเสน (๕)  วุตฺตํ ฯ  ตตฺถ  ชมฺมนฺติ  
+<span class="LineNumber"> 016 </span>ลามกํ ฯ  มุสเลน  หนฺตฺวาติ  มุสเลน  ปหริตฺวา(๖) โปเถตฺวา  อฏฺ€ีนิ 
+<span class="LineNumber"> 017 </span>ภฺชิตฺวา  จุณฺณวิจุณฺณํ  กตฺวา ฯ  ลุทฺทนฺติ  ทารุณํ ฯ  ฉวนฺติ  
+<span class="LineNumber"> 018 </span>คุณาภาเวน  นิชฺชีวมตสทิสํ  (๗) ฯ อิมิสฺสา  จ  นนฺติ  เอตฺถ  นนฺติ 
+<span class="LineNumber"> 019 </span># ๑. ม. โกมารปตี ฯ  เอวมุปริปิ ฯ  ๒. ม. น อฺโ ฯ  ๓. ม. โกมารปตีติปิ ฯ
+<span class="LineNumber"> 020 </span># ๔. ม. สภาโว ฯ  ๕. ทณฺทาโรปนวเสนาติปิ ฯ  ๖. ม. หนิตฺวา ฯ
+<span class="LineNumber"> 021 </span># ๗. ม. นิชฺชีวํ  มคสทิสํ ฯ

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>๕.  ชนสันธชาดก</H1>
+
+<span class="LineNumber"> 002 </span>                    <H2>ว่าด้วยเหตุที่ทำจิตให้เดือดร้อน</H2>
+<span class="LineNumber"> 003 </span>                        [๑๖๔๙]    <B>พระเจ้าชนสันธะได้ตรัสอย่างนี้ว่า
+<span class="LineNumber"> 004 </span>              เหตุที่จะทำให้จิตเดือดร้อนนั้นมีอยู่  ๑๐ ประการ บุคคล
+<span class="LineNumber"> 005 </span>              ไม่กระทำเสียในกาลก่อนแล้ว     ย่อมเดือดร้อนใน
+<span class="LineNumber"> 006 </span>              ภายหลัง.</B>
+<span class="LineNumber"> 007 </span>                        [๑๖๔๐]    <B>บุคคลเมื่อยังเป็นหนุ่ม    ไม่ทำความ
+<span class="LineNumber"> 008 </span>              พยายามยังทรัพย์ให้เกิดขึ้น   ครั้นแก่ลงหาทรัพย์ไม่ได้
+<span class="LineNumber"> 009 </span>              ย่อมเดือดร้อนภายหลังว่า    เมื่อก่อนเราไม่ได้แสวงหา
+<span class="LineNumber"> 010 </span>              ทรัพย์ไว้.</B>
+<span class="LineNumber"> 011 </span>                        [๑๖๕๑]    <B>ศิลปะที่สมควรแก่ตน   บุคคลใดไม่ได้
+<span class="LineNumber"> 012 </span>              ศึกษาไว้ในกาลก่อน    บุคคลนั้นย่อมเดือดร้อนใน
+<span class="LineNumber"> 013 </span>              ภายหลังว่า  เราไม่ได้ศึกษาศิลปะไว้ก่อน  ผู้ไม่มีศิลปะ
+<span class="LineNumber"> 014 </span>              ย่อมเลี้ยงชีพลำบาก.</B>
+<span class="LineNumber"> 015 </span>                        [๑๖๕๒]    <B>ผู้ใดเป็นคนโกง    ผู้นั้นย่อมเดือดร้อน
+<span class="LineNumber"> 016 </span>              ในภายหลังว่า   เราเป็นคนโง่   ส่อเสียด    กินสินบน
+<span class="LineNumber"> 017 </span>              ดุร้าย   หยาบคาย  ในกาลก่อน.</B>
+<span class="LineNumber"> 018 </span>                        [๑๖๕๓]    <B>ผู้ใดเป็นคนฆ่าสัตว์  ผู้นั้นย่อมเดือดร้อน
+<span class="LineNumber"> 019 </span>              ในภายหลังว่า    เราเป็นคนฆ่าสัตว์    หยาบช้าทุศีล
+<span class="LineNumber"> 020 </span>              ประพฤติต่ำช้า  ปราศจากขันติ  เมตตาและเอ็นดูสัตว์
+<span class="LineNumber"> 021 </span>              ในกาลก่อน.</B>

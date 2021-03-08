@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑  พาหิรนิทานวณฺณนา  หน้า ๒๘  
+
+<span class="LineNumber"> 002 </span>จตุพฺพิโธปิ คมฺภีรภาโว เวทิตพฺโพ ฯ
+<span class="LineNumber"> 003 </span>	เอตฺตาวตา  จ  
+<span class="LineNumber"> 004 </span>		เทสนาสาสนกถา-  	เภทนฺเตสุ ยถารหํ
+<span class="LineNumber"> 005 </span>		สิกฺขาปหานคมฺภีร-  	ภาวฺจ  ปริทีปเย
+<span class="LineNumber"> 006 </span>อิติ อยํ คาถา วุตฺตตฺถา โหติ ฯ  
+<span class="LineNumber"> 007 </span>		ปริยตฺติเภทํ สมฺปตฺตึ  	วิปตฺติฺจาปิ ยํ ยหึ
+<span class="LineNumber"> 008 </span>		ปาปุณาติ  ยถา  ภิกฺขุ  	ตมฺปิ  สพฺพํ  วิภาวเย
+<span class="LineNumber"> 009 </span>อิติ  เอตฺถ  ปน  ตีสุ  ปิฏเกสุ  ติธา (๑) ปริยตฺติเภโท  ทฏฺ€พฺโพ ฯ 
+<span class="LineNumber"> 010 </span>ติสฺโส  หิ  ปริยตฺติโย  อลคทฺทูปมา  นิสฺสรณตฺถา  ภณฺฑาคาริย-
+<span class="LineNumber"> 011 </span>ปริยตฺตีติ ฯ
+<span class="LineNumber"> 012 </span>		ตตฺถ  [๒] ทุคฺคหิตา  อุปารมฺภาทิเหตุปริยาปุตา (๓)  [๔]
+<span class="LineNumber"> 013 </span>อลคทฺทูปมา  ยํ  สนฺธาย  วุตฺตํ  เสยฺยถาปิ  ภิกฺขเว  ปุริโส
+<span class="LineNumber"> 014 </span>อลคทฺทตฺถิโก ฯเปฯ  โส  ปสฺเสยฺย  มหนฺตํ  อลคทฺทํ  ตเมนํ
+<span class="LineNumber"> 015 </span>โภเค  วา  นงฺคุฏฺเ€  วา  คณฺเหยฺย  ตสฺส  โส  อลคทฺโท
+<span class="LineNumber"> 016 </span>ปริวตฺติตฺวา  หตฺเถ  วา  พาหายํ  วา  อฺตรสฺมึ  วา
+<span class="LineNumber"> 017 </span>องฺคปจฺจงฺเค  ฑํเสยฺย  โส  ตโตนิทานํ  มรณํ  วา  นิคจฺเฉยฺย
+<span class="LineNumber"> 018 </span>มรณมตฺตํ  วา  ทุกฺขํ  ตํ  กิสฺสเหตุ  ทุคฺคหิตตฺตา  ภิกฺขเว
+<span class="LineNumber"> 019 </span>อลคทฺทสฺส  เอวเมว  โข  ภิกฺขเว  อิเธกจฺเจ  โมฆปุริสา  ธมฺมํ
+<span class="LineNumber"> 020 </span># ๑ ม. ติวิโธ ฯ  ๒. ม. เอตฺถนฺตเร ยาติ ทิสฺสติ ฯ  
+<span class="LineNumber"> 021 </span>#๓. ม. อุปารมฺภาทิเหตุ ปริยาปุตาฯ
+<span class="LineNumber"> 022 </span>#๔. ม. เอตฺถนฺตเร  อยนฺติ ทิสฺสติ ฯ

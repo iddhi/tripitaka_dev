@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>	                  <h1>๔.  ปฐมอัคคสูตร</h1>
+<span class="LineNumber"> 002 </span>                                 <h2>ว่าด้วยวัตถุเลิศ  ๔  ประการ</h2>
+<span class="LineNumber"> 003 </span>            [๗๔]    ดูก่อนภิกษุทั้งหลาย    วัตถุอันเลิศ  ๔  อย่างนี้     วัตถุอันเลิศ
+<span class="LineNumber"> 004 </span>๔  อย่างคืออะไร  คือ  ศีลเลิศ  สมาธิเลิศ  ปัญญาเลิศ  วิมุตติเลิศ  นี้แลวัตถุ
+<span class="LineNumber"> 005 </span>อันเลิศ  ๔ อย่าง.
+<span class="LineNumber"> 006 </span>                                            <I>จบปฐมอัคคสูตรที่ ๔</I> 
+<span class="LineNumber"> 007 </span>                          <h1>อรรถกถาปฐมอัคคสูตร</h1>
+<span class="LineNumber"> 008 </span>            พึงทราบวินิจฉัยในปฐมอัคคสูตรที่ ๔  ดังต่อไปนี้ :-
+<span class="LineNumber"> 009 </span>            บทว่า  <B>สีลคฺคํ</B>  คือ  ศีลเลิศคือสูงสุด.   ในบททั้งปวงก็นัยนี้.
+<span class="LineNumber"> 010 </span>                                      <I>จบอรรถกถาปฐมอัคคสูตรที่ ๔</I>
+<span class="LineNumber"> 011 </span>	                 <h1>๕. ทุติยอัคคสูตร</h1>
+<span class="LineNumber"> 012 </span>                                  <h2>ว่าด้วยวัตถุเลิศ  ๔  อย่าง</h2>
+<span class="LineNumber"> 013 </span>            [๗๕]    ดูก่อนภิกษุทั้งหลาย    วัตถุอันเลิศ  ๔  อย่างนี้     วัตถุอันเลิศ
+<span class="LineNumber"> 014 </span>๔  อย่างคืออะไร  คือ  รูปเลิศ  เวทนาเลิศ  สัญญาเลิศ   ภพเลิศ   นี้แลวัตถุ
+<span class="LineNumber"> 015 </span>อันเลิศ  ๔  อย่าง.  
+<span class="LineNumber"> 016 </span>		      <I>จบทุติยอัคคสูตรที่  ๕</I>

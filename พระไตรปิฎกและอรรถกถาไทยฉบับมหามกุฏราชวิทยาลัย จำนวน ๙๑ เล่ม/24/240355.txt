@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                  <h1>๗.  อพรหมสูตร</h1>
+
+<span class="LineNumber"> 002 </span>         [๒๖๙]   สุพรหมเทวบุตร    ยืนอยู่  ณ ที่ควรส่วนข้างหนึ่งแล้ว    ได้
+<span class="LineNumber"> 003 </span>กราบทูลพระผู้มีพระภาคเจ้าด้วยคาถาว่า 
+<span class="LineNumber"> 004 </span>                             <B>จิตนี้สะดุ้งอยู่เป็นนิตย์  ใจนี้หวาด
+<span class="LineNumber"> 005 </span>                   เสียวอยู่เป็นนิตย์    ทั้งเมื่อกิจไม่เกิดขึ้นทั้ง
+<span class="LineNumber"> 006 </span>                   เกิดขึ้นแล้วก็ตาม  ถ้าความไม่สะดุ้งกลัวมี
+<span class="LineNumber"> 007 </span>                   อยู่   ข้าพระองค์ทูลถามแล้ว    โปรดตรัส
+<span class="LineNumber"> 008 </span>                   บอกความไม่สะดุ้งนั้นแก่ข้าพระองค์เถิด.</B>
+<span class="LineNumber"> 009 </span>         [๒๖๕]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 010 </span>                             <B>เรายังมองไม่เห็นความสวัสดีแห่ง
+<span class="LineNumber"> 011 </span>                   สัตว์ทั้งหลาย    นอกจากปัญญาและความ
+<span class="LineNumber"> 012 </span>                   เพียร  นอกจากความสำรวมอินทรีย์  นอก
+<span class="LineNumber"> 013 </span>                   จากความสละวางทุกสิ่งทุกอย่าง.</B>
+<span class="LineNumber"> 014 </span>         สุพรหมเทวบุตรได้กล่าวดังนี้แล้ว  ฯลฯ  ก็อันตรธานไปในที่นั้นเอง.

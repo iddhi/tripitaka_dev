@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>นิสสยวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                           <H1>อนุโลมนัย</H1>
+<span class="LineNumber"> 003 </span>                                            <H1>เหตุปัจจัย</H1>
+<span class="LineNumber"> 004 </span>         [๑๓๔๕]  <B>วิปากธรรม   อาศัยวิปากธรรมเกิดขึ้น  เพราะเหตุ- 
+<span class="LineNumber"> 005 </span>ปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๓ อาศัยขันธ์ ๑ ที่เป็นวิบากเกิดขึ้น  ฯลฯ.
+
+<span class="LineNumber"> 007 </span>                           <H1>การนับจำนวนวาระในนิสสยวาระ</H1>
+<span class="LineNumber"> 008 </span>         [๑๓๔๖]  ในเหตุปัจจัย  มี ๑๗ วาระ ฯลฯ
+<span class="LineNumber"> 009 </span>         ในนเหตุปัจจัย  มี  ๒ วาระ. . .   ในโนวิคตปัจจัย   มี ๕ วาระ.
+<span class="LineNumber"> 010 </span>         <B>เพราะเหตุปัจจัย</B>   ในนอารัมมณปัจจัย  มี ๕ วาระ. . . ในนวิปปยุตต-
+<span class="LineNumber"> 011 </span>ปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 012 </span>         <B>เพราะนเหตุปัจจัย</B>   ในอารัมมณปัจจัย   มี ๗ วาระ. . .  ในอวิคต-
+<span class="LineNumber"> 013 </span>ปัจจัย   มี ๑๒ วาระ.
+<span class="LineNumber"> 014 </span>                                       <I>นิสสยวาระ จบ</I>

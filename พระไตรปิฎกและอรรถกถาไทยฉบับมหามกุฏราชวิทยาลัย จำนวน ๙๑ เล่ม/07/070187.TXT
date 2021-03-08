@@ -1,0 +1,26 @@
+﻿<span class="LineNumber"> 001 </span>           <B>โจจปานะ</B>   นั้น   ได้แก่   น้าปานะที่ทำด้วยผลกลัวมีเมล็ด. 
+<span class="LineNumber"> 002 </span>           <B>โมจปานะ</B>   นั้น    ได้แก่   น้าปานะที่ทำด้วยผลกลัวไม่มีเมล็ด.
+<span class="LineNumber"> 003 </span>           <B>มธุกปานะ</B>  นั้น   ได้แก่   น้ำปานะที่ทำด้วยรสชาติแห่งผลมะซาง.
+<span class="LineNumber"> 004 </span>และ  มธุกปานะ นั้น   เจือนำจึงควร  ล้วน ๆ ไม่สมควร
+<span class="LineNumber"> 005 </span>           <B>มุททิกปาระ</B>  นั้น ได้แก่  น้ำปานะที่เขาคั้นผลจันทน์ในน้ำทำเหมือน
+<span class="LineNumber"> 006 </span>อัมพปานะ.
+<span class="LineNumber"> 007 </span>           <B>สาลุกปานะ</B>   นั้น ได้แก่     น้ำปานะที่เขาคั้นเง่าอุบลแดงและอุบล
+<span class="LineNumber"> 008 </span>เขียวเป็นต้นทำ.
+<span class="LineNumber"> 009 </span>           <B>ผารุสกปานะ</B>   นั้น   ได้แก่   น้ำปานะที่ทำด้วยผลมะปราง    อย่าง
+<span class="LineNumber"> 010 </span>อัมพปานะ.   อัฏฐบานเหล่านี้     เย็นก็ดี     สุกด้วยแสงอาทิตย์ก็ดี     ย่อมควร.
+<span class="LineNumber"> 011 </span>สุกด้ายไฟไม่ควร.
+
+<span class="LineNumber"> 012 </span>                                       <H1>ว่าด้วยรส   ๔   อย่าง</H1>
+<span class="LineNumber"> 013 </span>           <B>ธัญญผลรส</B>    นั้น    ได้แก่   รสแห่งข้าว ๗ ชนิด <SUP>๑</SUP>
+<span class="LineNumber"> 014 </span>           <B>ฑากรส</B>  นั้น   ได้แก่   รสแห่งผักที่สุก.     จริงอยู่     รสแห่งผักที่เป็น
+<span class="LineNumber"> 015 </span>ยาวกาลิก   ย่อมควรในปุเรภัตเท่านั้น.    รสแห่งผักที่เป็นยาวชีวิกที่สุกพร้อมกับ
+<span class="LineNumber"> 016 </span>เนยใสเป็นต้น  ที่รับประเคนเก็บไว้   ควรฉันได้เจ็ดวัน.    แต่ถ้ารสแห่งผักนั้น
+<span class="LineNumber"> 017 </span>สุกด้วยน้ำล้วน  ควรฉันได้จนตลอดชีวิต.   ภิกษุจะต้มผักที่เป็นยาวชีวิกนั้นให้สุก
+<span class="LineNumber"> 018 </span>พร้อมกับนมสดเป็นต้นเองไม่ควร.   แม้ที่ชนเหล่าอื่นให้สุกแล้ว   ย่อมนับว่ารส
+<span class="LineNumber"> 019 </span>ผักเหมือนกัน.   ส่วนในกุรุนที   แก้ว่า   รสแม้แห่งผักซึ่งเป็นยาวกาลิก     ที่คั้น
+<span class="LineNumber"> 020 </span>ในน้ำเย็นทำก็ดี   สุกด้วยแสงอาทิตย์ก็ดี   ย่อมควร.
+
+<span class='footnote'>๑.๑.  สาลิ  (ศาลิ)  ข้าสาลี  Rice   ๒. วีหิ  (วฺรีหิ)  ข้าวเปลือก  Rice.  Pabby  ๓.  กุทรูส</span>
+<span class="LineNumber"> 021 </span>(กุทรุษ) หญ้ากับแก้   ข้าวชนิดหนึ่ง  A   Kind  of  graiืืืืืn   ๔. โคธูม  (โคธูม)  ข้าวละมาน
+<span class="LineNumber"> 022 </span>Wheat.   ๕.  วรก  (วรก)  ลูกเดือย  The  bean  Phaseolus  trilobus.   ๖.  ยว  (ยว)
+<span class="LineNumber"> 023 </span>ข้าวยวะ Corn  barleys.   ๗.   กงฺคุ  (กงฺคุ)  ข้าวฟ่าง   Panic  seed.

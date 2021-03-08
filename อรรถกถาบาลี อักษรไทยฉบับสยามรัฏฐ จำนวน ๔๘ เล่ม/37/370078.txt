@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  78
+
+<span class="LineNumber"> 002 </span>อชฺเฌนํ ชนินฺทา ป€วึ  เวสฺสา  กสึ  สุทฺทา  ปาริจริยํ  อุปคตาติ 
+<span class="LineNumber"> 003 </span>วทนฺติ ฯ  ปจฺเจกํ  ยถาปเทสนฺติ  อุปคจฺฉนฺตา  จ  ปาฏิเยกฺกํ  อตฺตโน
+<span class="LineNumber"> 004 </span>กุลปฺปเทสานุรูเปน  พฺรหฺมุนา  วุตฺตนิยาเมเนว  อุปคตา ฯ  กตาหุ 
+<span class="LineNumber"> 005 </span>เอเต  วสินาติ  อาหูติ  เอวํ กิร เต วสินา มหาพฺรหฺมุนา กตา 
+<span class="LineNumber"> 006 </span>อเหสุนฺติ กเถนฺติ ฯ  
+<span class="LineNumber"> 007 </span>	เอวํ  มหาคุณา  เอเต  พฺราหฺมณา  นาม  โย  หิ  เอเตสุ 
+<span class="LineNumber"> 008 </span>จิตฺตํ  ปสาเทตฺวา  ทานํ  เทติ  ตสฺส  อฺตฺถ  ปฏิสนฺธิ  นตฺถิ 
+<span class="LineNumber"> 009 </span>เทวโลกเมว  คจฺฉตีติ วตฺวา อาห  
+<span class="LineNumber"> 010 </span>	[๗๖๒]ธาตา วิธาตา วรุโณ กุเวโร  
+<span class="LineNumber"> 011 </span>		โสโม ยโม จนฺทิมา วายุ สุริโย  
+<span class="LineNumber"> 012 </span>		เอเตปิ ยฺํ ปุถุโล(๑) ยชิตฺวา  
+<span class="LineNumber"> 013 </span>		อชฺฌายิกานํ(๒) อถ(๓) สพฺพกาเม  
+<span class="LineNumber"> 014 </span>		วิกาสิตา จาปสตานิ ปฺจ  
+<span class="LineNumber"> 015 </span>		โย อชฺชุโน พลวา ภีมเสโน  
+<span class="LineNumber"> 016 </span>		สหสฺสพาหุ อสโม ป€พฺยา  
+<span class="LineNumber"> 017 </span>		โสปิ ตทา อาทหิ ชาตเวทนฺติ ฯ  
+<span class="LineNumber"> 018 </span>	ตตฺถ  เอเตปีติ  เอเต  ธาตาทโย  เทวราชาโน ฯ  ปุถุโลติ(๔)  
+<span class="LineNumber"> 019 </span>อเนกปฺปการํ  ยฺํ  ยชิตฺวา ฯ  อถ  สพฺพกาเมติ  อถ  
+<span class="LineNumber"> 020 </span>อชฺฌายิกานํ  พฺราหฺมณานํ  สพฺพกาเม  ทตฺวา  เอตานิ  €านานิ 
+<span class="LineNumber"> 021 </span>ปตฺตาติ  ทสฺเสติ ฯ  วิกาสิตาติ  อากฑฺฒิตา ฯ  จาปสตานิ
+<span class="LineNumber"> 022 </span># ๑. ม. ปุถุโส ฯ  ๒. ม. อชฺฌายกานํ ฯ  ๓. ม. อโถ ฯ 
+<span class="LineNumber"> 023 </span># ๔. ม. ปุถุโสติ ฯ 

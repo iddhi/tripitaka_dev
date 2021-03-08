@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                         <H1>นสนิทัสสนติกนกุสลติกะ</H1>   
+<span class="LineNumber"> 002 </span>       <H2>(๒๒.  นสนิทัสสนติกะ  ๑.  นกุสลติกะ)</H2>
+<span class="LineNumber"> 003 </span>                        <H2>กุศลบทปฏิจจวาระ</H2>	
+<span class="LineNumber"> 004 </span>                                 <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                 <H1>๑. เหตุปัจจัย</H1>	
+<span class="LineNumber"> 006 </span>           [๔๒๒] ๑.  <B>ธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่สนิทัสสนสัปปฏิฆ-
+<span class="LineNumber"> 007 </span>ธรรม      อาศัยธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 008 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 009 </span>                       ๒.  <B>ธรรมที่ไม่ใช่กุศล     ที่ไม่ใช่อนิทัสสนสัปปฏิฆ-
+<span class="LineNumber"> 010 </span>ธรรม    อาศัยธรรมที่ไม่ใช่กุศล    ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 011 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B>
+<span class="LineNumber"> 012 </span>                       ๓.  <B>ธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่อนิทัสสนอัปปฏิฆ-
+<span class="LineNumber"> 013 </span>ธรรม    อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่สนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 014 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>   มี ๖ วาระ  (วาระที่ ๑-๖)
+<span class="LineNumber"> 015 </span>                       ๗.  <B>ธรรมที่ไม่ใช่กุศล     ที่ไม่ใช่อนิทัสสนสัปปฏิฆ-
+<span class="LineNumber"> 016 </span>ธรรม    อาศัยธรรมที่ไม่ใช่กุศล   ที่ไม่ใช่อนิทัสสนสัปปฏิฆธรรม
+<span class="LineNumber"> 017 </span>เกิดขึ้น  เพราะเหตุปัจจัย.</B>

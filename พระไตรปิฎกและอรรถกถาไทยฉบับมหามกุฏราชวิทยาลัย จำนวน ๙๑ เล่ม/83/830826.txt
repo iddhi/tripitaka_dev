@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>บุคคลเหล่านั้นเกิดขึ้นแล้วด้วย   กำลังเกิดอยู่ด้วย. 
+<span class="LineNumber"> 002 </span>         จิตของบุคคลใดไม่ใช่กำลังเกิดอยู่,    จิตของบุคคลนั้นไม่ใช่เกิด
+<span class="LineNumber"> 003 </span>ขึ้นแล้ว  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         ในภังคขณะแห่งจิต       จิตของบุคคลเหล่านั้นไม่ใช่กำลังเกิดอยู่
+<span class="LineNumber"> 005 </span>แต่จิตของบุคคลเหล่านั้นเกิดขึ้นแล้ว,      บุคคลผู้เข้านิโรธสมาบัติ อยู่ก็ดี
+<span class="LineNumber"> 006 </span>บุคคลผู้เกิดอยู่ในอสัญญสัตตภูมิก็ดี     จิตของบุคคลเหล่านั้นไม่ใช่กำลัง
+<span class="LineNumber"> 007 </span>เกิดอยู่ด้วย  ไม่ใช่เกิดแล้วด้วย.
+<span class="LineNumber"> 008 </span>         ก็หรือว่าจิตของบุคคลใดไม่ใช่เกิดขึ้นแล้ว,    จิตของบุคคลนั้นไม่
+<span class="LineNumber"> 009 </span>ใช่กำลังเกิดอยู่   ใช่ไหม ?
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span><H1>นิรุชฌมานุปปันนวาระ</H1> :-
+<span class="LineNumber"> 012 </span>         [๕๒]   จิตของบุคคลใดกำลังดับอยู่,   จิตของบุคคลนั้นเกิดขึ้น 
+<span class="LineNumber"> 013 </span>แล้ว  ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>         ก็หรือว่าจิตของบุคคลใดเกิดขึ้นแล้ว   จิตของบุคคลนั้นกำลังดับ
+<span class="LineNumber"> 016 </span>อยู่   ใช่ไหม ?

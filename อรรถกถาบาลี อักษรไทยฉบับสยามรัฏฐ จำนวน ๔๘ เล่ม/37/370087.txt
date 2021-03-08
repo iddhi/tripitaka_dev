@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 87
+
+<span class="LineNumber"> 002 </span>อนริยสมฺมตํ  น  สคฺคมคฺคาวหํ (๑) ตว  วาเท  อภูตํ  ปสฺสามาติ(๒)
+<span class="LineNumber"> 003 </span>วตฺวา  ยฺเภทวาทํ  นาม อารภนฺโต อาห  
+<span class="LineNumber"> 004 </span>	[๗๗๑]กลีหิ(๓) ธีรานํ กตํ มคานํ  
+<span class="LineNumber"> 005 </span>		ภวนฺติ เวทชฺฌคตา อริฏฺ€  
+<span class="LineNumber"> 006 </span>		มรีจิธมฺมํ อสเมกฺขิตตฺตา  
+<span class="LineNumber"> 007 </span>		มายาคุณา นาติวหนฺติ ปฺํ  
+<span class="LineNumber"> 008 </span>		เวทา น ตาณาย ภวนฺติรสฺส(๔)  
+<span class="LineNumber"> 009 </span>		มิตฺตทฺทุโน ภูนหุโน นรสฺส  
+<span class="LineNumber"> 010 </span>		น ตายเต ปริจิณฺโณว อคฺคิ  
+<span class="LineNumber"> 011 </span>		โทสนฺตรํ มจฺจมนริยกมฺมํ  
+<span class="LineNumber"> 012 </span>		สพฺพฺจ มจฺจา สธนา สโภคา(๕)  
+<span class="LineNumber"> 013 </span>		อาทิปิตํ ทารุ ติเณน มิสฺสํ  
+<span class="LineNumber"> 014 </span>		ทหํ น ตปฺเป อสมตฺถเตโช  
+<span class="LineNumber"> 015 </span>		โก ตํ สุภิกฺขํ ทิรสฺุ(๖) กิริยา(๗)  
+<span class="LineNumber"> 016 </span>		ยถาปิ ขีรํ วิปริณามธมฺมํ  
+<span class="LineNumber"> 017 </span>		ทธิภวิตฺวา นวนีตฺจ(๘) โหติ  
+<span class="LineNumber"> 018 </span>		เอวํปิ อคฺคิ วิปริณามธมฺโม  
+<span class="LineNumber"> 019 </span># ๑. ม. สคฺคาวหํ ฯ  ๒. ม. ปสฺสาหีติ ฯ ๓. ม กลี หิ ฯ 
+<span class="LineNumber"> 020 </span># ๔. ม. ภวนฺติ ทสฺส ฯ ๕. ม. สธนํ สโภคํ ฯ 
+<span class="LineNumber"> 021 </span># ๖. ม. ทฺวิรสฺุ ฯ  ๗. ส. ม. กยิรา ฯ  
+<span class="LineNumber"> 022 </span># ๘. ม. นวนีตมฺปิ ฯ 

@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>       <h1>อรรถกถาเวรหัญจานีสูตรที่  ๑๐</h1>  
+<span class="LineNumber"> 002 </span>            ในเวรหัญจานีสูตรที่  ๑๐  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 003 </span>            บทว่า   <B>กามณฺฑาย</B>  ได้แก่  ในนครมีชื่ออย่างนี้.  บทว่า  <B>ยคฺเฆ</B>
+<span class="LineNumber"> 004 </span>เป็นนิบาต   ลงในอรรถว่า   ทักท้วง   คำที่เหลือง่ายทั้งนั้นแล.
+<span class="LineNumber"> 005 </span>                        <I>จบ  อรรถกถาเวรหัญจานีสูตรที่  ๑๐
+<span class="LineNumber"> 006 </span>                            จบ  คหปติวรรคที่  ๓</I>
+
+<span class="LineNumber"> 007 </span>                  <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 008 </span>            ๑.  เวสาลีสูตร   ๒.  วัชชีสูตร   ๓.  นาฬันทาสูตร    ๔.  ภารทวาช
+<span class="LineNumber"> 009 </span>สูตร  ๕. โสณสูตร   ๖. โฆสิตสูตร   ๗.  หาลิททกานิสูตร   ๘.  นกุลปิตุ
+<span class="LineNumber"> 010 </span>สูตร   ๙.  โลหิจจสูตร   ๑๐.  เวรหัญจานีสูตร

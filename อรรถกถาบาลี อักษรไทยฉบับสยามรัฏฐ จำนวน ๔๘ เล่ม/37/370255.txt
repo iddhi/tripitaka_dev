@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  วิธุรชาตกํ  หน้า 255
+
+<span class="LineNumber"> 002 </span>		ปฺหสฺส เวยฺยากรเณน ตุฏฺโ€  
+<span class="LineNumber"> 003 </span>		ททามิ เต ธมฺมปูชาย ธีร  
+<span class="LineNumber"> 004 </span>		มณึ อนคฺฆํ รุจิรํ ปภสฺสรํ  
+<span class="LineNumber"> 005 </span>		กณฺ€าวสนฺตํ (๑)มณิภูสิตมฺเม(๒)  
+<span class="LineNumber"> 006 </span>		ปฺหสฺส เวยฺยากรเณน ตุฏฺโ€  
+<span class="LineNumber"> 007 </span>		ททามิ เต ธมฺมปูชาย ธีร  
+<span class="LineNumber"> 008 </span>		ควํ สหสฺสํ อุสภฺจ นาคํ  
+<span class="LineNumber"> 009 </span>		อาชฺยุตฺเต จ รเถ ทส อิเม  
+<span class="LineNumber"> 010 </span>		ปฺหสฺส เวยฺยากรเณน ตุฏฺโ€  
+<span class="LineNumber"> 011 </span>		ททามิ เต คามวรานิ โสฬสาติ ฯ  
+<span class="LineNumber"> 012 </span>	เอวํ สกฺกาทโย มหาสตฺตํ ปูเชตฺวา สกฏฺ€านเมว 
+<span class="LineNumber"> 013 </span>อคมํสุ ฯ  
+<span class="LineNumber"> 014 </span>		จตุโปสถกณฺฑํ นิฏฺ€ิตํ ฯ  
+<span class="LineNumber"> 015 </span>	เตสุ  นาคราชสฺส  ภริยา  วิมลาเทวี  นาม ฯ  สา 
+<span class="LineNumber"> 016 </span>ตสฺส คีวายํ  ปิลนฺธนมณึ  อปสฺสนฺตี  ปุจฺฉิ  เทว  กุหึ(๓)  ปน
+<span class="LineNumber"> 017 </span>เต  มณีติ ฯ  ภทฺเท  จนฺทพฺราหฺมณปุตฺตสฺส  วิธุรปณฺฑิตสฺส
+<span class="LineNumber"> 018 </span>ธมฺมกถํ  สุตฺวา  ปสนฺนจิตฺโต  อหํ  เตน  มณินา  ตํ  ปูเชสึ  
+<span class="LineNumber"> 019 </span>น  เกวลฺจ  อหเมว  สกฺโกปิ  นํ (๔) ทิพฺพทุกุเลน  ปูเชสิ 
+<span class="LineNumber"> 020 </span>สุปณฺณราชา  สุวณฺณมาลาย  ปูเชสิ  ธนฺชยราชา  
+<span class="LineNumber"> 021 </span># ๑. ม. กณฺ€าวสตฺตํ ฯ  ๒. ม. มณิภูสิตํ เม ฯ
+<span class="LineNumber"> 022 </span># ๓. ม. กหํ ฯ ๔. ม. ตํ ฯ

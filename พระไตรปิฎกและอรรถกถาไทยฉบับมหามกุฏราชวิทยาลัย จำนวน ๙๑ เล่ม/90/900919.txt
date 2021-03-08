@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                         		     <H2>ปัจจนียนัย</H2>  
+<span class="LineNumber"> 002 </span>		[๕๖๔]  ในนเหตุปัจจัย  มี ๑  วาระ ฯลฯ ในโนวิคตปัจจัย  มี ๑ วาระ.
+<span class="LineNumber"> 003 </span>         	สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.
+                                            
+<span class="LineNumber"> 004 </span>                   	          <H1>นเหตุอเหตุกบทปัญหาวาระ</H1>
+<span class="LineNumber"> 005 </span>                         	          <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 006 </span>                                  <H2>๑. อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 007 </span>		[๕๖๕]  ๑.  ธรรมที่ไม่ใช่เหตุธรรม แต่เป็นอเหตุกธรรมที่เป็น
+<span class="LineNumber"> 008 </span>อัพยากตะ  เป็นปัจจัยแก่ธรรมที่ไม่ใช่เหตุธรรม แต่เป็นอเหตุกธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นอัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย               
+<span class="LineNumber"> 010 </span>        	         <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 011 </span>		[๕๖๖]  ในอารัมมณปัจจัย  มี ๑ วาระ    ในอธิปติปัจจัย มี ๑ วาระ
+<span class="LineNumber"> 012 </span>ฯลฯ  ในอวิคตปัจจัย มี ๑ วาระ.
+<span class="LineNumber"> 013 </span>        	แม้ปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 014 </span>			    <I>กุสลติกนเหตุสเหตุกทุกะ  จบ</I>

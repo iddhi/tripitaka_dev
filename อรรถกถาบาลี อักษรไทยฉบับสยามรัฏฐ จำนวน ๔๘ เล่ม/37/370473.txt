@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 473
+
+<span class="LineNumber"> 002 </span>โหหีติ  ตํ (๑) โอวทิตฺวา  อุปาหนํ  อารุยฺห  ปาเถยฺยปสิพฺพกํ  องฺเส 
+<span class="LineNumber"> 003 </span>ลคฺเคตฺวา  อมิตฺตตาปนํ  ปทกฺขิณํ  กตฺวา อสฺสุปุณเณหิ เนตฺเตหิ
+<span class="LineNumber"> 004 </span>โรทิตฺวา ปกฺกามิ ฯ  
+<span class="LineNumber"> 005 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 006 </span>	[๑๑๓๒]อิทํ กตฺวา(๒) พฺรหฺมพนฺธุ  ปฏิมุฺจิ อุปาหนํ  
+<span class="LineNumber"> 007 </span>		ตโต โส มนฺตยิตฺวาน	ภริยํ กตฺวา ปทกฺขิณํ  
+<span class="LineNumber"> 008 </span>		ปกฺกามิ โส รุณฺณมุโข	พฺราหฺมโณ สหิตพฺพโต  
+<span class="LineNumber"> 009 </span>		สิวีนํ นครํ ผิตํ		ทาสปริเยสนฺจรนฺติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  รุณฺณมุโขติ  รุทมุโข ฯ  สหิตพฺพโตติ  สมาทินฺนวโต ฯ  
+<span class="LineNumber"> 011 </span>คหิตตาปสเวโสติ  อตฺโถ ฯ  จรนฺติ  ทาสทาสีปริเยสนํ (๓) จรนฺโต
+<span class="LineNumber"> 012 </span>สิวีนํ  นครํ อารพฺภ ปกฺกามิ ฯ  
+<span class="LineNumber"> 013 </span>	โส  ตํ  นครํ  คนฺตฺวา  สนฺนิปติตํ  ชนํ  ทิสฺวา(๔)  เวสฺสนฺตโร  
+<span class="LineNumber"> 014 </span>ราชา(๕) กุหินฺติ ปุจฺฉิ(๖) ฯ  
+<span class="LineNumber"> 015 </span>	ตมตฺถํ ปกาเสนฺโต สตฺถา อาห  
+<span class="LineNumber"> 016 </span>	[๑๑๓๓]โส ตตฺถ คนฺตฺวา อวจ	เย ตตฺถาสุํ สมาคตา  
+<span class="LineNumber"> 017 </span>		กุหึ เวสฺสนฺตโร ราชา	กตฺถ ปสฺเสมุ ขตฺติยํ  
+<span class="LineNumber"> 018 </span>		โส ชโน ตํ อวจาสิ(๗)	เย ตตฺถาสุํ สมาคคา  
+<span class="LineNumber"> 019 </span>		ตุมฺเหหิ พฺรหฺเม ปกโต	อติทาเนน ขตฺติโย  
+<span class="LineNumber"> 020 </span># ๑. ม. อยํ ปาโ€ นตฺถิ ฯ  ๒. ม. วตฺวา ฯ  ๓. ม.ทาสปริเยสนํ ฯ
+<span class="LineNumber"> 021 </span># ๔. ม. อยํ ปาโ€ นตฺถิ ฯ  ๕. ม. อยํ ปาโ€ นตฺถิ ฯ 
+<span class="LineNumber"> 022 </span># ๖. ม. ปุจฺฉติ ฯ  ๗. ม. เต ชนา ตํ อวจึสุ ฯ 

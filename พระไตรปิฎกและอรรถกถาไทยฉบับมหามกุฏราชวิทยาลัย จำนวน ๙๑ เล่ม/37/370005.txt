@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>๓. ปฐมพลสูตร</H1>
+<span class="LineNumber"> 002 </span>         [๓]  ดูก่อนภิกษุทั้งหลาย  พละ  ๗  ประการนี้  ๗ ประการเป็น 
+<span class="LineNumber"> 003 </span>ไฉน   คือ   ศรัทธาพละ  วิริยพละ   หิริพละ  โอตตัปปพละ   สติพละ
+<span class="LineNumber"> 004 </span>สมาธิพละ  ปัญญาพละ   ดูก่อนภิกษุทั้งหลาย  พละ  ๗  ประการนี้แล.
+<span class="LineNumber"> 005 </span>                            <B>ศรัทธาพละ  วิริยพละ  หิริพละ  โอตตัปป-
+<span class="LineNumber"> 006 </span>              พละ  สติพละ  สมาธิพละ  ปัญญาพละเป็นที่  ๗
+<span class="LineNumber"> 007 </span>              ภิกษุผู้มีพละด้วยพละ     ประการนี้  เป็นบัณฑิต
+<span class="LineNumber"> 008 </span>              ย่อมอยู่เป็นสุข   พึงเลือกเฟ้นธรรมโดยแยบคาย
+<span class="LineNumber"> 009 </span>              ย่อมเห็นอรรถแห่งธรรมชัดด้วยปัญญา     ความ
+<span class="LineNumber"> 010 </span>              หลุดพ้นแห่จิต   (จริมกจิต)   คือ  ความดับของ
+<span class="LineNumber"> 011 </span>              ภิกษุนั้นย่อมมีได้    เหมือนความดับแห่งประทีป
+<span class="LineNumber"> 012 </span>              ฉะนั้น.</B>
+<span class="LineNumber"> 013 </span>                             <I>จบ   ปฐมพลสูตรที่  ๓</I>
+
+<span class="LineNumber"> 014 </span>                      <H1>อรรถกถาปฐมพลสูตรที่  ๓</H1>
+<span class="LineNumber"> 015 </span>         <B>ปฐมพลสูตรที่  ๓</B>  มีวินิจฉัยดังต่อไปนี้.
+<span class="LineNumber"> 016 </span>         บทว่า   <B>ยนิโส  วิจิเน   ธมฺมํ</B>   ความว่า  ย่อมเลือกเฟ้นธรรมคือ
+<span class="LineNumber"> 017 </span>สัจจะ  ๔  โดยอุบาย.   บทว่า  <B>ปญฺตฺถํ   วิปสฺสติ</B>     ความว่า    ย่อมเห็น
+<span class="LineNumber"> 018 </span>สัจจธรรม   ด้วยปัญญาอันสัมปยุตด้วยมรรคพร้อมวิปัสสนา.   บทว่า

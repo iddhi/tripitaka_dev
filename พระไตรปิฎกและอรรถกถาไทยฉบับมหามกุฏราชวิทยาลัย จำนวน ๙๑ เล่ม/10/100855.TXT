@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.  ถึงฉันทาคติ  
+<span class="LineNumber"> 002 </span>           ๒.  ถึงโทสาคติ
+<span class="LineNumber"> 003 </span>           ๓.  ถึงโมหาคติ
+<span class="LineNumber"> 004 </span>           ๔.  ถึงภยาคติ
+<span class="LineNumber"> 005 </span>           ๕.  ไม่รู้จักสามเณรที่ใช้แล้ว และยังไม่ได้ใช้
+<span class="LineNumber"> 006 </span>           ดูก่อนอุบาลี    ภิกษุผู้ใช้สามเถร   ประกอบด้วยองค์  ๕  นี้แล     เก็บ
+<span class="LineNumber"> 007 </span>ของสงฆ์ตามที่นำมาเก็บไว้   เหมือนถูกโยนลงนรก
+<span class="LineNumber"> 008 </span>           ดูก่อนอุบาลี   ภิกษุผู้ใช้สามเณร   ประกอบด้วยองค์  ๕  เก็บของสงฆ์
+<span class="LineNumber"> 009 </span>ตามที่นำมาเก็บไว้   เหมือนถูกส่งขึ้นสวรรค์   องค์ ๕  อะไรบ้าง   คือ :-
+<span class="LineNumber"> 010 </span>           ๑.  ไม่ถึงฉันทาคติ                                              
+<span class="LineNumber"> 011 </span>           ๒.  ไม่ถึงโทสาคติ
+<span class="LineNumber"> 012 </span>           ๓.  ไม่ถึงโมหาคติ
+<span class="LineNumber"> 013 </span>           ๔.  ไม่ถึงภยาคติ
+<span class="LineNumber"> 014 </span>           ๕.  รู้จักสามเณรที่ใช้แล้วและยัง ไม่ได้ใช้      
+<span class="LineNumber"> 015 </span>           ดูก่อนอุบาลี    ภิกษุผู้ใช้สามเณร    ประกอบด้วยองค์ ๕ นี้แล     เก็บ
+<span class="LineNumber"> 016 </span>ของสงฆ์ตามที่นำมาเก็บไว้   เหมือนถูกส่งขึ้นสวรรค์.
+<span class="LineNumber"> 017 </span>                           <I>อาวาสิกวรรค  ที่  ๑๓  จบ</I>
+
+<span class="LineNumber"> 018 </span>                                <H1>หัวข้อประจำวรรค</H1> 
+<span class="LineNumber"> 019 </span>           [๑,๒๒๒]   ภิกษุเจ้าอาวาส ๑  ชี้แจงวินัย  ๑  ภิกษุผู้แจกภัตร ๑  ภิกษุ
+<span class="LineNumber"> 020 </span>ผู้แต่งตั้งเสนาสนะ ๑    ภิกษุรักษาคลังเก็บพัสดุ  ๑    ภิกษุผู้รับจีวร ๑   ภิกษุผู้

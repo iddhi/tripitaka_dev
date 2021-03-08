@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>สีลัง  อเจตสิกันติกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๔๐๗]   <B>สกวาที</B>   ศีลไม่เป็นเจตสิก  หรือ ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. เป็นไป เป็นนิพพาน  เป็นจักขายตนะ  ฯลฯ  เป็นกายายตนะ
+<span class="LineNumber"> 005 </span>ฯลฯ   เป็นรูปายตนะ   ฯลฯ เป็นโผฏฐัพพายตนะ  หรือ ?
+<span class="LineNumber"> 006 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 007 </span>                        ส. ศีลไม่เป็นเจตสิก หรือ ?
+<span class="LineNumber"> 008 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 009 </span>                        ส. ผัสสะไม่เป็นเจตสิก หรือ ?
+<span class="LineNumber"> 010 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 011 </span>                        ส. ศีลไม่เป็นเจตสิก   หรือ ?
+<span class="LineNumber"> 012 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 013 </span>                        ส. เวทนา ฯลฯ   สัญญา  ฯลฯ เจตนา  ฯลฯ  ศรัทธา ฯลฯ
+<span class="LineNumber"> 014 </span>วิริยะ  ฯลฯ  สติ  ฯลฯ สมาธิ  ฯลฯ  ปัญญา ไม่เป็นเจตสิกหรือ ?
+<span class="LineNumber"> 015 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 016 </span>         [๑๔๐๘]   ส. ผัสสะเป็นเจตสิก หรือ ?
+<span class="LineNumber"> 017 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 018 </span>                        ส. ศีลเป็นเจตสิก หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 020 </span>                        ส. เวทนา ฯลฯ  สัญญา ฯลฯ   เจตนา ฯลฯ  ศรัทธา ฯลฯ
+<span class="LineNumber"> 021 </span>วิริยะ  ฯลฯ สติ ฯลฯ สมาธิ  ฯลฯ  ปัญญา เป็นเจตสิก หรือ ?
+<span class="LineNumber"> 022 </span>                        ป. ถูกแล้ว.

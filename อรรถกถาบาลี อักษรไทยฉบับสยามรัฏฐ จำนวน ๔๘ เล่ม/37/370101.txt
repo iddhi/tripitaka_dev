@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 101
+
+<span class="LineNumber"> 002 </span>		ชาติ หิ เตสํ อสมา สมานํ(๑)  
+<span class="LineNumber"> 003 </span>		สเจ จ ราชา ป€วึ วิชิตฺวา  
+<span class="LineNumber"> 004 </span>		สชีววา อสฺสวา ปาริสชฺโช  
+<span class="LineNumber"> 005 </span>		สยเมว โส สตฺตุสงฺฆํ วิเชยฺย  
+<span class="LineNumber"> 006 </span>		ตสฺส ปชา นิจฺจ สุขี ภเวยฺย  
+<span class="LineNumber"> 007 </span>		ขตฺติยมนฺตา จ ตโย จ เวทา  
+<span class="LineNumber"> 008 </span>		อตฺเถน เอเต สมกา ภวนฺติ  
+<span class="LineNumber"> 009 </span>		เตสฺจ อตฺถํ อวินิจฺฉินิตฺวา  
+<span class="LineNumber"> 010 </span>		น พุชฺฌติ(๒) โอฆปถํว ฉนฺนํ  
+<span class="LineNumber"> 011 </span>		ขตฺติยมนฺตา จ ตโย จ เวทา  
+<span class="LineNumber"> 012 </span>		อตฺเถน เอเต สมกา ภวนฺติ  
+<span class="LineNumber"> 013 </span>		ลาโภ อลาโภ อยโส ยโส จ  
+<span class="LineNumber"> 014 </span>		สพฺเพว เตสํ จตุนฺนฺจ ธมฺมา  
+<span class="LineNumber"> 015 </span>		ยถาปิ อิพฺภา ธนธฺเหตุ  
+<span class="LineNumber"> 016 </span>		กมฺมานิ กาเรนฺติ ปุถู ป€พฺยา  
+<span class="LineNumber"> 017 </span>		เตวิชฺชสงฺฆาปิ(๓) ตเถว ลุทฺทา  
+<span class="LineNumber"> 018 </span>		กมฺมานิ กาเรนฺติ ปุถู ป€พฺยา  
+<span class="LineNumber"> 019 </span>		อิพฺเภหิ เอเต(๔) สมกา ภวนฺติ  
+<span class="LineNumber"> 020 </span># ๑. ม. สมานา ฯ  ๒. ม. พุชฺฌตี ฯ ๓. ม. เตวิชฺชสงฺฆา ฯ 
+<span class="LineNumber"> 021 </span># ๔. ม. เย เต ฯ 

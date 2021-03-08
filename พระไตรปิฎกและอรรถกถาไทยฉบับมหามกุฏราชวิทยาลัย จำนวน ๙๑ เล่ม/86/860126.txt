@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                            <H1>ปัจจนียนัย</H1> 
+<span class="LineNumber"> 002 </span>         [๑๓๔๙]  <B>วิปากธรรม    เจือกับวิปากธรรม    เกิดขึ้น   เพราะ
+<span class="LineNumber"> 003 </span>นเหตุปัจจัย</B>
+<span class="LineNumber"> 004 </span>         คือ  ขันธ์ ๓  เจือกับขันธ์ ๑ ที่เป็นวิบาก ซึ่งเป็นอเหตุกะเกิดขึ้น ฯลฯ
+<span class="LineNumber"> 005 </span>ขันธ์ ๒ เจือกับขันธ์ ๒  เกิดขึ้น. 
+<span class="LineNumber"> 006 </span>         พึงแจกทุกบท.
+ 
+<span class="LineNumber"> 007 </span>                               <H1>การนับจำนวนวาระในปัจจนียะ</H1>
+<span class="LineNumber"> 008 </span>         [๑๓๕๐]  ในนเหตุปัจจัยมี ๓ วาระ    ในนอธิปติปัจจัย    มี ๓ วาระ
+<span class="LineNumber"> 009 </span>ในนปุเรชาตปัจจัย  มี ๓ วาระ ในนปัจฉาชาตปัจจัย  มี ๓ วาระ ในนอาเสวน-
+<span class="LineNumber"> 010 </span>ปัจจัยมี ๓ วาระ   ในนกัมมปัจจัย   มี ๒ วาระ   ในนวิปากปัจจัย  มี ๒ วาระ
+<span class="LineNumber"> 011 </span>ในนฌานปัจจัย  มี ๑ วาระ  ในนมัคคปัจจัย   มี ๒ วาระ  ในนวิปปยุคคปัจจัย
+<span class="LineNumber"> 012 </span>มี ๓ วาระ.
+<span class="LineNumber"> 013 </span>         พึงนับเหมือนในปัจจนียะ  ในกุสลติกะ
+<span class="LineNumber"> 014 </span>                                          <I>ปัจจนียนัย  จบ</I>
+
+<span class="LineNumber"> 015 </span>                                        <H1>อนุโลมปัจจนียนัย</H1>
+<span class="LineNumber"> 016 </span>         [๑๓๕๑]  <B>เพราะเหตุปัจจัย</B>    ในนอธิปติปัจจัย  มี ๓ วาระ. . .ฯลฯ
+<span class="LineNumber"> 017 </span>ในนวิปปยุตตปัจจัย  มี  ๓  วาระ.
+<span class="LineNumber"> 018 </span>         พึงนับเหมือนในอนุโลมปัจจนียะ  ในกุสลติกะ
+<span class="LineNumber"> 019 </span>                                    <I>อนุโลมปัจจนียนัย  จบ</I>

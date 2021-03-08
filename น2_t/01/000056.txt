@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                      คำสำหรับเชื่อมสุภาษิตที่อ้างมาประกอบ  
+
+<span class="LineNumber"> 002 </span>           ๑.  สมด้วยพจนประพันธ์สมเด็จพระโลกนาถเจ้าตรัสบัณฑูรไว้
+<span class="LineNumber"> 003 </span>ตามที่มาใน---ว่า
+<span class="LineNumber"> 004 </span>					--------------
+<span class="LineNumber"> 005 </span>           ๒.  สมกับความในพระพุทธนิพนธคาถา   ที่พระศาสดาได้ตรัสไว้
+<span class="LineNumber"> 006 </span>อันมาใน---ว่า
+<span class="LineNumber"> 007 </span>					--------------
+<span class="LineNumber"> 008 </span>           ๓.  สมด้วยพระพุทธนิพนธบรรหาร  มีอาคตสถานที่มาใน---ว่า
+<span class="LineNumber"> 009 </span>					--------------
+<span class="LineNumber"> 010 </span>           ๔.  สมด้วยกระแสพระพุทธภาษิตใน---ว่า
+<span class="LineNumber"> 011 </span>					--------------
+<span class="LineNumber"> 012 </span>           ๕.  สมจริงดังพระพุทธภาษิตใน---ว่า
+<span class="LineNumber"> 013 </span>					--------------
+<span class="LineNumber"> 014 </span>           ๖.  สมแก่สุภาษิตใน---ว่า
+<span class="LineNumber"> 015 </span>					--------------
+<span class="LineNumber"> 016 </span>           ๗.  แม้นด้วยความแห่งพระคาถาประพันธ์พุทธภาษิตใน---ว่า
+<span class="LineNumber"> 017 </span>					--------------
+<span class="LineNumber"> 018 </span>           ๘.  แม้พระพุทธภาษิตใน---ก็ได้แสดงความนี้ไว้ว่า
+<span class="LineNumber"> 019 </span>					--------------

@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>         ก็หรือว่า   มานานุสัย   ย่อมไม่เกิดขึ้นแก่บุคคลใด,  กามราคานุสัย
+<span class="LineNumber"> 002 </span>ก็ย่อมไม่เกิดขึ้นแก่บุคคลนั้น  ใช่ไหม ? 
+<span class="LineNumber"> 003 </span>         ใช่   (พึงให้พิสดาร)
+<span class="LineNumber"> 004 </span>                        <I>จบ กามราคานุสยมูละ  มานานุสยมูลี</I>
+<span class="LineNumber"> 005 </span>                                 (นักศึกษาพึงให้พิสดาร)
+<span class="LineNumber"> 006 </span>                      <I>อุปปัตติฏฐานปุคคลวาระ  ปัจจนิก  จบ</I>
+<span class="LineNumber"> 007 </span>                                    <I>อุปปัชชนวาระ  จบ</I>

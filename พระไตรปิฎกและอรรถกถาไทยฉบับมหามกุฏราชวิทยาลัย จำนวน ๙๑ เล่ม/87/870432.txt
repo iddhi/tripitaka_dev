@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>           มี ๒ อย่าง   คือที่เป็น  <B>สหชาตะ</B> และ <B>ปัจฉาชาตะ</B>
+<span class="LineNumber"> 002 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่  
+<span class="LineNumber"> 003 </span>           ขันธ์ทั้งหลายที่เป็นมหัคคตธรรมที่เกิดพร้อมกับ  เป็นปัจจัยแก่จิตต-
+<span class="LineNumber"> 004 </span>สมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 005 </span>           ในปฏิสนธิขณะ     ขันธ์ทั้งหลายที่เป็นมหัคคตธรรม     เป็นปัจจัยแก่
+<span class="LineNumber"> 006 </span>กฏัตตารูปทั้งหลาย  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 007 </span>           ที่เป็น  <B>ปัจฉาชาตะ</B>  ได้แก่
+<span class="LineNumber"> 008 </span>           ขันธ์ทั้งหลายที่เป็นมหัคคตธรรมที่เกิดภายหลัง   เป็นปัจจัยแก่กายนี้ที่ 
+<span class="LineNumber"> 009 </span>เกิดก่อน  ด้วยอำนาจของอัตถิปัจจัย.
+<span class="LineNumber"> 010 </span>           [๑๕๑๔] ๖.  <B>มหัคคตธรรม   เป็นปัจจัยแก่ปริตตธรรม   และ
+<span class="LineNumber"> 011 </span>มหัคคตธรรม  ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ    ขันธ์ ๑ ที่เป็นมหัคคตธรรม    เป็นปัจจัยแก่ขันธ์ ๓ และจิตต-
+<span class="LineNumber"> 013 </span>สมุฏฐานรูปทั้งหลาย  ด้วยอำนาจของอัตถิปัจจัย ฯลฯ ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 014 </span>           ในปฏิสนธิขณะ ฯลฯ.
+<span class="LineNumber"> 015 </span>           [๑๕๑๕] ๗.  <B>อัปปมาณธรรม    เป็นปัจจัยแก่อัปปมาณธรรม
+<span class="LineNumber"> 016 </span>ด้วยอำนาจของอัตถิปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ  ขันธ์ ๑ ที่เป็นอัปปมาณธรรม  เป็นปัจจัยแก่ขันธ์ ๓ ฯลฯ.

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 48   หน้า 252
+
+<span class="LineNumber"> 002 </span>		ทุกฺขาหารกถาวณฺณนา 
+<span class="LineNumber"> 003 </span>	อิทานิ  ทุกฺขาหารกถา  นาม  โหติ ฯ  ตตฺถ  ทุกฺขํ  ทุกฺขนฺติ 
+<span class="LineNumber"> 004 </span>วาจํ ภาสนฺโต  ทุกฺเข  าณํ  อาหรติ  ตํ  ทุกฺขาหาโร  นาม
+<span class="LineNumber"> 005 </span>วุจฺจติ  ตฺจ  ปเนตํ  มคฺคงฺคํ  มคฺคปริยาปนฺนนฺติ  เยสํ  ลทฺธิ 
+<span class="LineNumber"> 006 </span>เสยฺยถาปิ  เอตรหิ ปุพฺพเสลิยานํ เต สนฺธาย  ทุกฺขาหาโรติ 
+<span class="LineNumber"> 007 </span>ปุจฺฉา  สกวาทิสฺส  ปฏิฺา  อิตรสฺส ฯ  (๑)  เย  เกจีติ ป€ม-
+<span class="LineNumber"> 008 </span>ปเฺห  อวิปสฺสเก  สนฺธาย  ปฏิกฺขิปติ ฯ  ทุติยปเฺหปิ  วิปสฺสเก
+<span class="LineNumber"> 009 </span>สนฺธาย ปฏิชานาติ  ตํ  ปนสฺส  ลทฺธิมตฺตเมว  ตสฺมา  สพฺเพ
+<span class="LineNumber"> 010 </span>เตติ  วาทสฺส  ภินฺทนตฺถํ พาลปุถุชฺชนาติอาทิมาห ฯ ตํ
+<span class="LineNumber"> 011 </span>อุตฺตานตฺถเมวาติ ฯ 
+<span class="LineNumber"> 012 </span>		ทุกฺขาหารกถาวณฺณนา นิฏฺ€ิตา ฯ 
+
+<span class="LineNumber"> 013 </span>		จิตฺตฏฺ€ิติกถาวณฺณนา 
+<span class="LineNumber"> 014 </span>	อิทานิ  จิตฺตฏฺ€ิติกถา  นาม  โหติ ฯ  ตตฺถ  เยสํ 
+<span class="LineNumber"> 015 </span>สมาปตฺติจิตฺตฺเจว ภวงฺคจิตฺตฺจ  อนุปฺปพนฺเธน  ปวตฺตมานํ 
+<span class="LineNumber"> 016 </span>ทิสฺวา  เอกเมว จิตฺตํ จิรํ ติฏฺ€ตีติ ลทฺธิ  เสยฺยถาปิ  เอตรหิ
+<span class="LineNumber"> 017 </span>เหฏฺ€า  วุตฺตปฺปเภทานํ  อนฺธกานํ  ตํลทฺธิวิโสธนตฺถํ (๒)เอกจิตฺตํ
+<span class="LineNumber"> 018 </span>ทิวสมฺปิ  (๒)  ติฏฺ€ตีติ  ปุจฺฉา  สกวาทิสฺส  ปฏิฺา  อิตรสฺส ฯ  (๓)
+<span class="LineNumber"> 019 </span>อุปฑฺฒทิวโส  อุปฺปาทกฺขโณติ  เอตฺถ  €ิติกฺขณํ  อนามสิตฺวา
+<span class="LineNumber"> 020 </span># ๑. ม. ปรวาทิสฺส ฯ  ๒. ม. เอกํ จิตฺตํ ทิวสํ ฯ
+<span class="LineNumber"> 021 </span># ๓. ม. ปรวาทิสฺส ฯ

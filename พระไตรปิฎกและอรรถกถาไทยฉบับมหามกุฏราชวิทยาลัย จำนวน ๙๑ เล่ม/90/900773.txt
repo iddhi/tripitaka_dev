@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>					<H1>ทัสสนติกเหตุทุกะ</H1>
+<span class="LineNumber"> 002 </span>			 <H2>(๘. ทัสสนติกะ  ๑. เหตุทุกะ)</H2> 
+<span class="LineNumber"> 003 </span>				      <H1>เหตุบทปฏิจจวาระ</H1>
+<span class="LineNumber"> 004 </span>					 <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>				     <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 006 </span>		[๑๗๐]     ๑.  เหตุธรรมที่เป็นทัสสเนนปหาตัพพธรรม    อาศัย
+<span class="LineNumber"> 007 </span>เหตุธรรมที่เป็นทัสสเนนปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 008 </span>                   	       ๒.  เหตุธรรมที่เป็นภาวนายปหาตัพพธรรม  อาศัย
+<span class="LineNumber"> 009 </span>เหตุธรรมที่เป็นภาวนายปหาตัพพธรรม  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 010 </span>                 		๓.  เหตุธรรมที่เป็นเนวทัสสเนนนภาวนายปหาตัพพ-
+<span class="LineNumber"> 011 </span>ธรรม  อาศัยเหตุธรรมที่เป็นเนวทัสสเนนนภาวนายปหาตัพพธรรม
+<span class="LineNumber"> 012 </span>เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 013 </span>                   <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>		[๑๗๑]  ในเหตุปัจจัย มี ๓ วาระ   ในปัจจัยทั้งปวง มี ๓  วาระ   ใน
+<span class="LineNumber"> 015 </span>วิปากปัจจัย  มี  ๑ วาระ  ฯลฯ  ในอวิคตปัจจัย  มี  ๓ วาระ.

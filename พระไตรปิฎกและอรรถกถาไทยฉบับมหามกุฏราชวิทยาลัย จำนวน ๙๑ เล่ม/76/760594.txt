@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>           [๙๑๐]  <B>รูปิธรรม</B>  เป็นไฉน ? 
+<span class="LineNumber"> 002 </span>           มหาภูตรูป ๔ และรูปที่อาศัยมหาภูตรูป ๔ นั้น     สภาวธรรมเหล่านี้ 
+<span class="LineNumber"> 003 </span>ชื่อว่า  รูปิธรรม.
+<span class="LineNumber"> 004 </span>           <B>อรูปิธรรม</B>  เป็นไฉน ?
+<span class="LineNumber"> 005 </span>           กุศลในภูมิ ๔ อกุศล    วิบากในภูมิ ๔ กิริยาอัพยากฤตในภูมิ ๓ และ
+<span class="LineNumber"> 006 </span>นิพพาน  สภาวธรรมเหล่านี้ชื่อว่า  อรูปิธรรม.
+<span class="LineNumber"> 007 </span>           [๙๑๑]   <B>โลกิยธรรม</B>  เป็นไฉน ?
+<span class="LineNumber"> 008 </span>           กุศลในภูมิ ๓ อกุศล     วิบากในภูมิ ๓ กิริยาอัพยากฤตในภูมิ ๓ และ
+<span class="LineNumber"> 009 </span>รูปทั้งหมด  สภาวธรรมเหล่านี้ชื่อว่า  โลกิยธรรม.
+<span class="LineNumber"> 010 </span>           <B>โลกุตรธรรม</B>  เป็นไฉน  ?
+<span class="LineNumber"> 011 </span>           มรรค ๔  ที่เป็นโลกุตระ    สามัญผล  ๔  และนิพพาน    สภาวธรรม
+<span class="LineNumber"> 012 </span>เหล่านี้   ชื่อว่า  โลกุตรธรรม.
+<span class="LineNumber"> 013 </span>           [๙๑๒]  ธรรมทั้งหมดแล    จัดเป็นเกนจิวิญเญยยธรรม    เกนจิน-
+<span class="LineNumber"> 014 </span>วิญเญยยธรรม.                                                                           
+<span class="LineNumber"> 015 </span>                                     <I>จูฬันตรทุกะ  จบ</I>
+
+<span class="LineNumber"> 016 </span>                                         <H1>อาสวโคจฉกะ</H1>
+<span class="LineNumber"> 017 </span>           [๙๑๓]  <B>อาสวธรรม</B>  เป็นไฉน ?
+<span class="LineNumber"> 018 </span>           อาสวะ  ๔ คือ   กามาสวะ  ภวาสวะ  ทิฏฐาสวะ   อวิชชาสวะ
+<span class="LineNumber"> 019 </span>           กามาสวะ  บังเกิดในจิตตุปบาทที่สหรคตด้วยโลภะ ๘ ดวง
+<span class="LineNumber"> 020 </span>           ภวาสวะ  บังเกิดในจิตตุปบาทที่สหรคตด้วยโลภะ  วิปปยุตจากทิฏฐิ  ๔
+<span class="LineNumber"> 021 </span>ดวง

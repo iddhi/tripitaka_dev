@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                       <h1>๑๑.  ภพสูตร</h1> 
+
+<span class="LineNumber"> 002 </span>    			                 <h2> ภพ ๓</h2>
+<span class="LineNumber"> 003 </span>       	[๓๑๗]   สาวัตถีนิทาน.  ดูก่อนภิกษุทั้งหลาย  ภพ ๓ อย่างนี้ ๓ อย่าง
+<span class="LineNumber"> 004 </span>เป็นไฉน คือ กามภพ   ๑  รูปภพ  ๑   อรูปภพ  ๑   ดูก่อนภิกษุทั้งหลาย  ภพ  ๓
+<span class="LineNumber"> 005 </span>อย่างนี้แล. 
+<span class="LineNumber"> 006 </span>       	[๓๑๘]  ดูก่อนภิกษุทั้งหลาย   ภิกษุควรเจริญอริยมรรคอันประกอบ
+<span class="LineNumber"> 007 </span>ด้วยองค์  ๘   เพื่อกําหนดรู้    เพื่อความสิ้นไป    เพื่อละภพ  ๓ อย่างนี้แล  ฯลฯ
+<span class="LineNumber"> 008 </span>ภิกษุควรเจริญอริยมรรคอันประกอบด้วยมรรค  ๘  นี้ ฯลฯ
+<span class="LineNumber"> 009 </span>                                          <I>จบภวสูตรที่  ๑๑</I>
+
+<span class="LineNumber"> 010 </span>                                <h1> ๑๒. ทุกขตาสูตร</h1>
+
+<span class="LineNumber"> 011 </span>                                  <h2>ความเป็นทุกข์  ๓</h2>
+<span class="LineNumber"> 012 </span>       	[๓๑๙]   สาวัตถีนิทาน.  ดูก่อนภิกษุทั้งหลาย  ความเป็นทุกข์ ๓ อย่าง
+<span class="LineNumber"> 013 </span>นี้  ๓  อย่างเป็นไฉน  คือ  ความเป็นทุกข์เกิดจากความไม่สบายกาย  ๑  ความ
+<span class="LineNumber"> 014 </span>เป็นทุกข์เกิดจากสังขาร     ความเป็นทุกข์เกิดจากความแปรปรวน  ๑    ดูก่อน
+<span class="LineNumber"> 015 </span>ภิกษุทั้งหลาย  ความเป็นทุกข์  ๓  อย่างนี้แล.
+<span class="LineNumber"> 016 </span>       	[๓๒๐]    ดูก่อนภิกษุทั้งหลาย    ภิกษุควรเจริญอริยมรรคอันประกอบ
+<span class="LineNumber"> 017 </span>ด้วยองค์  ๘     เพื่อรู้ยิ่ง  เพื่อกําหนดรู้   เพื่อความสิ้นไป   เพื่อละความเป็นทุกข์
+<span class="LineNumber"> 018 </span>๓  อย่างนี้แล ฯลฯ ภิกษุควรเจริญอริยมรรคอันประกอบด้วยองค์  ๘  นี้ ฯลฯ
+<span class="LineNumber"> 019 </span>                                          <I>จบทุกขตาสูตรที่  ๑๒</I>

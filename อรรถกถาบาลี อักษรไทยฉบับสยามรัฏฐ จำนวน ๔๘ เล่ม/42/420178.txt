@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			เล่มที่  42  พุทธฺวคฺควณฺณนา  หน้า  178
+
+<span class="LineNumber"> 002 </span>	จิรํ  €ิตาติ  เถรา ฯ  อถ  วา  ถิรตรสีลาจารมทฺทวาทิคุเณหิ  
+<span class="LineNumber"> 003 </span>ยุตฺตาติ  เถรา ฯ  อถ  วา  ถิรวรสีลสมาธิปฺาวิมุตฺติวิมุตฺติ-
+<span class="LineNumber"> 004 </span>าณทสฺสนคุเณหิ  ยุตฺตาติ  เถรา ฯ  อถ  วา  ถิรตรสงฺขาต-
+<span class="LineNumber"> 005 </span>ปณีตานุตฺตรสนฺตินิพฺพานมธิคตาติ  เถรา  เถรานํ  อปทานานิ  
+<span class="LineNumber"> 006 </span>เถราปทานานิ ฯ  ตถา  ตาทิคุเณหิ  ยุตฺตาติ  เถรี  เถรีนํ  
+<span class="LineNumber"> 007 </span>อปทานานิ  เถรีปทานานิ ฯ  
+<span class="LineNumber"> 008 </span>	เตสุ  พุทฺธาปทาเน  ปฺเจว  อปทานานิ  ปฺเจว  
+<span class="LineNumber"> 009 </span>สุตฺตนฺตา ฯ  เตนาหุ โปราณา  
+<span class="LineNumber"> 010 </span>		ปฺเจว อปทานานิ   ปฺจ สุตฺตานิ ยสฺส จ  
+<span class="LineNumber"> 011 </span>		อิทํ พุทฺธาปทานนฺติ   ป€มํ อนุโลมโตติ ฯ  
+<span class="LineNumber"> 012 </span>	ปจฺเจกพุทฺธาปทาเนปิ  ปฺเจว  อปทานานิ  ปฺเจว  
+<span class="LineNumber"> 013 </span>สุตฺตนฺตา ฯ  เตนาหุ  โปราณา  
+<span class="LineNumber"> 014 </span>		ปฺเจว อปทานานิ   ปฺจ สุตฺตานิ ยสฺส จ  
+<span class="LineNumber"> 015 </span>		อิทํ ปจฺเจกพุทฺธาปทานนฺติ  ทุติยํ อนุโลมโตติ ฯ  
+<span class="LineNumber"> 016 </span>	เถราปทาเนสุ  ทสาธิกปฺจสตาปทานานิ  วคฺคโต  
+<span class="LineNumber"> 017 </span>เอกปฺาส  วคฺคา ฯ  เตนาหุ โปราณา  
+<span class="LineNumber"> 018 </span>		ปฺจสตทสปทานานิ   เอกปฺาส วคฺคโต  
+<span class="LineNumber"> 019 </span>		อิทํ เถราปทานนฺติ	ตติยํ อนุโลมโตติ ฯ  
+<span class="LineNumber"> 020 </span>	เถรีอปทาเนสุ  จตฺตาฬีสํ  อปทานานิ  วคฺคโต  จตุโร  
+<span class="LineNumber"> 021 </span>วคฺคา ฯ  เตนาหุ  โปราณา  

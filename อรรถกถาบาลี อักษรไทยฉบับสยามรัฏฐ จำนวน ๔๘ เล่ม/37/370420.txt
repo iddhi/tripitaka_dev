@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  มหานิปาตวณฺณนา  หน้า  420
+
+<span class="LineNumber"> 002 </span>		สายํ ปาโต วิจรนฺตํ	น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 003 </span>		ยทา กเรณุสงฺฆสฺส		ยูถสฺส ปุรโต วชํ  
+<span class="LineNumber"> 004 </span>		โกฺจํ กาหติ มาตงฺโค	กุฺชโร สฏฺ€ิหายโน  
+<span class="LineNumber"> 005 </span>		ตสฺส ตํ นทโต สุตฺวา	นฺ รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 006 </span>		อุภโต วนวิกาเส  ยทา	ทกฺขสิ กามทํ  (๑)
+<span class="LineNumber"> 007 </span>		วเน พาฬมิคากิณฺเณ	น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 008 </span>		มิคํ ทิสฺวาน สายณฺหํ	ปฺจมาลินิมาคตํ(๒)  
+<span class="LineNumber"> 009 </span>		กึปุริเส จ นจฺจนฺเต	น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 010 </span>		ยทา โสสฺสสิ นิคฺโฆสํ	สนฺทมานาย สินฺธุยา  
+<span class="LineNumber"> 011 </span>		คีตํ กึปุริสานฺจ		น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 012 </span>		ยทา โสสฺสสิ นิคฺโฆสํ	คิริคพฺภรจาริโน  
+<span class="LineNumber"> 013 </span>		วสมานสฺสุลูกสฺส		น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 014 </span>		ยทา สีหสฺส พฺยคฺฆสฺส	ขคฺคสฺส ควยสฺส จ  
+<span class="LineNumber"> 015 </span>		วเน โสสฺสสิ พาฬานํ	น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 016 </span>		ยทา โมรีหิ ปริกิณฺณํ	วรหินํ(๓) มตฺถกาสินํ  
+<span class="LineNumber"> 017 </span>		โมรํ ทกฺขสิ นจฺจนฺตํ	น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 018 </span>		ยทา โมรีหิ ปริกิณฺณํ	อณฺฑชํ จิตฺรเปกฺขุนํ(๔)  
+<span class="LineNumber"> 019 </span>		โมรํ ทกฺขสิ นจฺจนฺตํ	น รชฺชสฺส สริสฺสสิ  
+<span class="LineNumber"> 020 </span># ๑. ม. กามโท ฯ  ๒. ม. ปฺจมาลินมาคตํ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ม. พริหีนํ ฯ  ๔. ส. เปกฺขนํ ฯ  ม. จิตฺรเปกฺขินํ ฯ

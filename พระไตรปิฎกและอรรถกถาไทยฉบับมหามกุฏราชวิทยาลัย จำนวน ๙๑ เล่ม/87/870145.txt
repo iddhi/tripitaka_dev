@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                                          <H1>ปัจจนียานุโลม</H1> 
+<span class="LineNumber"> 002 </span>                          <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 003 </span>                                           <H1>สุทธมูลกนัย</H1> 
+<span class="LineNumber"> 004 </span>           [๘๕๖]   <B>เพราะนเหตุปัจจัย</B>  ในอารัมมณปัจจัย   มี ๕ วาระ... ใน
+<span class="LineNumber"> 005 </span>อนันตรปัจจัย   มี  ๕ วาระ   ในสมนันตรปัจจัย   มี ๕ วาระ   ในสหชาตปัจจัย
+<span class="LineNumber"> 006 </span>มี ๕ วาระ   ในอัญญมัญญปัจจัย   มี ๕ วาระ   ในนิสสยปัจจัย  มี ๕ วาระ
+<span class="LineNumber"> 007 </span>ในอุปนิสสยปัจจัย   มี ๕ วาระ   ในปุเรชาตปัจจัย    มี ๕ วาระ  ในอาเสวน-
+<span class="LineNumber"> 008 </span>ปัจจัย   มี  ๕ วาระ  ในกัมมปัจจัย   มี ๕ วาระ   ในวิปากปัจจัย  มี  ๑ วาระ
+<span class="LineNumber"> 009 </span>ในอาหารปัจจัย  มี ๕ วาระ  ในอินทริยปัจจัย  มี ๕ วาระ  ในฌานปัจจัย  มี
+<span class="LineNumber"> 010 </span>๕ วาระ   ในมัคคปัจจัย    มี ๕ วาระ   ในสัมปยุตตปัจจัย  มี  ๕ วาระ   ใน
+<span class="LineNumber"> 011 </span>วิปปยุตตปัจจัย   มี    ๕ วาระ  ในอัตถิปัจจัย   มี ๕ วาระ  ในนัตถิปัจจัย มี ๕
+<span class="LineNumber"> 012 </span>วาระ  ในวิคตปัจจัย   มี ๕ วาระ  ในอวิคตปัจจัย  มี ๕ วาระ.
+<span class="LineNumber"> 013 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 014 </span>                                        <I>ปัจจนียานุโลม  จบ</I> 
+<span class="LineNumber"> 015 </span>                                           <I>ปัจจยวาระ  จบ</I> 
+<span class="LineNumber"> 016 </span>        นิสสยวาระ  เหมือนกับปัจจยวาระ.                      

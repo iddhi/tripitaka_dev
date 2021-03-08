@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 25    หน้า  728
+	
+<span class="LineNumber"> 002 </span>		ปจฺจยตฺเถรคาถาวณฺณนา  
+<span class="LineNumber"> 003 </span>	ปฺจาหาหํ ปพฺพชิโตติ อายสฺมโต ปจฺจยตฺเถรสฺส 
+<span class="LineNumber"> 004 </span>คาถา ฯ กา อุปฺปตฺติ  
+<span class="LineNumber"> 005 </span>	อยมฺปิ  ปุริมพุทฺเธสุ  กตาธิกาโร  ตตฺถ  ตตฺถ ภเว
+<span class="LineNumber"> 006 </span>ปุฺานิ อุปจินนฺโต อิโต เอกนวุเต  กปฺเป  วิปสฺสิสฺส  ภควโต
+<span class="LineNumber"> 007 </span>กาเล  กุลเคเห นิพฺพตฺติตฺวา วิฺุตํ ปตฺโต เอกทิวสํ  สตฺถารํ
+<span class="LineNumber"> 008 </span>วินตาย  นาม  นทิยา  ตีเร คจฺฉนฺตํ ทิสฺวา ปสนฺนมานโส 
+<span class="LineNumber"> 009 </span>มนุฺทสฺสนานิ  (๑)  มหนฺตานิ  อุทุมฺพรผลานิ โอจินิตฺวา 
+<span class="LineNumber"> 010 </span>อุปนาเมสิ ฯ 
+<span class="LineNumber"> 011 </span>	โส เตน ปุฺกมฺเมน สุคตีสุเยว สํสรนฺโต อิมสฺมึ 
+<span class="LineNumber"> 012 </span>ภทฺทกปฺเป กสฺสเป ภควติ โลเก อุปฺปชฺชิตฺวา
+<span class="LineNumber"> 013 </span>ปวตฺตวรธมฺมจกฺเก  เวเนยฺยชนานุคฺคหํ กโรนฺเต ตสฺส สาสเน 
+<span class="LineNumber"> 014 </span>ปพฺพชิตฺวา วิปสฺสนํ ปฏฺ€เปตฺวา ภาวนมนุยุฺชนฺโต  เอกทิวสํ  
+<span class="LineNumber"> 015 </span>สํสารทุกฺขํ  จินฺเตตฺวา อติวิย สฺชาตสํเวโค วิหาเร นิสินฺโน
+<span class="LineNumber"> 016 </span>อรหตฺตํ  อปฺปตฺวา  อิโต น นิกฺขมิสฺสามีติ จิตฺตํ อธิฏฺ€าย 
+<span class="LineNumber"> 017 </span>วายมนฺโต าณสฺส  อปริปกฺกตฺตา  วิปสฺสนํ  อุสฺสุกฺกาเปตุํ  
+<span class="LineNumber"> 018 </span>นาสกฺขิ ฯ  โส  กาลงฺกตฺวา  เทวมนุสฺเสสุ สํสรนฺโต อิมสฺมึ 
+<span class="LineNumber"> 019 </span>พุทฺธุปฺปาเท โรหินินคเร (๒) ขตฺติยกุเล นิพฺพตฺติตฺวา ปจฺจโยติ 
+<span class="LineNumber"> 020 </span>ลทฺธนาโม  วยปฺปตฺโต  ปิตุ อจฺจเยน รชฺเช ปติฏฺ€ิโต เอกทิวสํ
+<span class="LineNumber"> 021 </span>มหาราชพลึ กาตุํ  อารภิ ฯ  ตตฺถ  มหาชโน  สนฺนิปติ ฯ
+<span class="LineNumber"> 022 </span># ๑. สี. มนุฺรสานิ ฯ  ๒. ม. โรหิตนคเร ฯ 

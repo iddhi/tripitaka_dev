@@ -1,0 +1,12 @@
+﻿<span class="LineNumber"> 001 </span>                   <B>เมฆมีสายฟ้าแลบแปลบปลาบ     (เมฆอัน 
+<span class="LineNumber"> 002 </span>                   ประกอบด้วยถ่องแถวแห่งสายฟ้า)   มียอด
+<span class="LineNumber"> 003 </span>                   ตั้งร้อยกระหึ่มอยู่ ทำแผ่นดินให้โชกชุ่มอยู่
+<span class="LineNumber"> 004 </span>                   ย่อมทำที่ดอนและที่ลุ่มให้เต็ม  แม้ฉันใด.
+<span class="LineNumber"> 005 </span>                             ทายกผู้มีศรัทธา   เป็นบัณฑิตได้ฟัง
+<span class="LineNumber"> 006 </span>                   แล้ว   ตกแต่งโภชนาหารเลี้ยงวณิพก  ด้วย
+<span class="LineNumber"> 007 </span>                   ข้าวน้ำให้อิ่มหนำ  บันเทิงใจ  เที่ยวไปใน
+<span class="LineNumber"> 008 </span>                   โรงทาน  สั่งว่า  ท่านทั้งหลายจงให้  ท่าน
+<span class="LineNumber"> 009 </span>                   ทั้งหลายจงให้  ดังนี้  และทายกนั้นบันลือ
+<span class="LineNumber"> 010 </span>                   เสียงเหมือนเสียงกระหึ่มแห่งเมฆ   เมื่อฝน
+<span class="LineNumber"> 011 </span>                   กำลังตก  ธารแห่งบุญอันไพบูลย์นั้น
+<span class="LineNumber"> 012 </span>                   ย่อมหลั่งรดทายกผู้ให้ฉันนั้น.</B>

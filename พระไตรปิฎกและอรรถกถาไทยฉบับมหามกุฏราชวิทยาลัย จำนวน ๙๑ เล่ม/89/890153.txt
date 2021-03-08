@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H2>๕๙.  จิตตสังสัฏฐทุกะ</H2>
+<span class="LineNumber"> 002 </span>                                           <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 003 </span>                                            <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 004 </span>                                          <H1>๑. เหตุปัจจัย</H1>
+<span class="LineNumber"> 005 </span>         [๑๕๒] ๑.  <B>จิตตสังสัฏฐธรรม       อาศัยจิตตสังสัฏฐธรรม
+<span class="LineNumber"> 006 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 007 </span>         คือ  ขันธ์ ๒ อาศัยขันธ์ ๑ ที่เป็นจิตตสังสัฏฐธรรม ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 008 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 009 </span>                     ๒.  <B>จิตตวิสังสัฏฐธรรม  อาศัยจิตตสังสัฏบธรรม  เกิด 
+<span class="LineNumber"> 010 </span>ขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 011 </span>         คือ  จิตตสมุฏฐานรูป  อาศัยขันธ์ทั้งหลายที่เป็นจิตตสังสัฏฐธรรม.
+<span class="LineNumber"> 012 </span>         ในปฏิสนธิขณะ ฯลฯ
+<span class="LineNumber"> 013 </span>         จิตตสังสัฏฐทุกะ  พึงกระทำเหมือนจิตตสัมปยุตตทุกะ  ไม่แตกต่างกัน.
+<span class="LineNumber"> 014 </span>                                      <I>จิตตสังสัฏฐทุกะ  จบ</I>

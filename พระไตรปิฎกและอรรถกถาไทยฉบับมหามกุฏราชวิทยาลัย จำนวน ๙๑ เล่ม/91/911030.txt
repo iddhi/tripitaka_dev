@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                       ๓.  <B>อัพยากตธรรม   ที่เป็นอเหตุกธรรม    อาศัยธรรม 
+<span class="LineNumber"> 002 </span>ที่ไม่ใช่อัพยากตธรรม    ที่ไม่ใช่สเหตุกธรรม     และธรรมที่ไม่ใช่
+<span class="LineNumber"> 003 </span>อัพยากตธรรม  ที่ไม่ใช่อเหตุกธรรม  เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+
+<span class="LineNumber"> 004 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 005 </span>           [๑๘๑]  ในเหตุปัจจัย มี ๓ วาระ   ฯลฯ
+<span class="LineNumber"> 006 </span>                 <I>นสเหตุกทุกนกุสลติกสเหคุกทุกกุสลติกะ  จบ</I>
+
+<span class="LineNumber"> 007 </span>            <H1>นเหตุสัมปยุตตทุกนกุสลติกเหตุสัมปยุตตทุกกุสลติกะ</H1>	
+<span class="LineNumber"> 008 </span>                <H2>(๓. เหตุสัมปยุตตทุกะ  ๑.  กุสลติกะ)</H2>
+<span class="LineNumber"> 009 </span>                                        <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 010 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 011 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 012 </span>           [๑๘๒] <B>ฯลฯ  อาศัยธรรมที่ไม่ใช่กุศล  ที่ไม่ใช่เหตุสัมป-
+<span class="LineNumber"> 013 </span>ยุตตธรรม  ฯลฯ</B>
+<span class="LineNumber"> 014 </span>                                              <B>ฯลฯ</B>
+<span class="LineNumber"> 015 </span>       <I>นเหตุสัมปยุตตทุกนกุสลติกเหตุสัมปยุตตทุกกุสลติกะ  จบ</I>

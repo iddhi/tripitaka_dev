@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  เวสฺสนฺตรชาตกํ  หน้า 431
+
+<span class="LineNumber"> 002 </span>		นิกฺขมนฺเต มหาราเช	สิวีนํ รฏฺ€วฑฺฒเน  
+<span class="LineNumber"> 003 </span>		เย พฺราหฺมณา เย จ สมณา  อฺเ วาปิ วนิพฺพกา  
+<span class="LineNumber"> 004 </span>		พาหา ปคฺคยฺห ปกฺกนฺทุํ	อธมฺโม กิร โภ อิติ  
+<span class="LineNumber"> 005 </span>		ยถา เวสฺสนฺตโร ราชา	ยชมาโน สเก ปุเร  
+<span class="LineNumber"> 006 </span>		สิวีนํ วจนตฺเถน		สมฺหา รฏฺ€า นิรชฺชติ  
+<span class="LineNumber"> 007 </span>		สตฺตหตฺถิสเต ทตฺวา	สพฺพาลงฺการภูสิเต  
+<span class="LineNumber"> 008 </span>		สุวณฺณกจฺเฉ มาตงฺเค	เหมกปฺปนิวาสเส  
+<span class="LineNumber"> 009 </span>		อารุเฬฺห คามณีเยภิ	โตมรงฺกุสปาณิภิ  
+<span class="LineNumber"> 010 </span>		เอส เวสฺสนฺตโร ราชา	สมฺหา รฏฺ€า นิรชฺชติ  
+<span class="LineNumber"> 011 </span>		สตฺตอสฺสสเต ทตฺวา	สพฺพาลงฺการภูสิเต  
+<span class="LineNumber"> 012 </span>		อาชานีเย จ(๑) ชาติยา	สินฺธเว สีฆพาหเน  
+<span class="LineNumber"> 013 </span>		อารุเฬฺห คามณีเยภิ	อินฺทิยาจาปธาริภิ  
+<span class="LineNumber"> 014 </span>		เอส เวสฺสนฺตโร ราชา	สมฺหา รฏฺ€า นิรชฺชติ  
+<span class="LineNumber"> 015 </span>		สตฺตรถสเต ทตฺวา		สนฺนทฺเธ อุสฺสิตทฺธเช  
+<span class="LineNumber"> 016 </span>		ทีเป อโถปิ เวยฺยคฺเฆ	สพฺพาลงฺการภูสิเต  
+<span class="LineNumber"> 017 </span>		อารูเฬฺห คามณีเยภิ	จาปหตฺเถหิ จมฺมิภิ(๒)  
+<span class="LineNumber"> 018 </span>		เอส เวสฺสนฺตโร ราชา	สมฺหา รฏฺ€า นิรชฺชติ  
+<span class="LineNumber"> 019 </span>		สตฺตอิตฺถีสเต ทตฺวา	เอกาเมกา รเถ €ิตา  
+<span class="LineNumber"> 020 </span>		สนฺนทฺธา นิกฺขรชฺชูหิ	สุวณฺเณน(๓) อลงฺกตา  
+<span class="LineNumber"> 021 </span># ๑. ม. อาชานีเย ว ฯ  ๒. ม. วมฺมิภิ ฯ  ๓. ม. สุวณฺเณหิ ฯ 

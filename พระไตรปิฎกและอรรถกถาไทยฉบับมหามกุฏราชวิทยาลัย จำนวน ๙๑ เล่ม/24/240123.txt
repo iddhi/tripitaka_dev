@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>สัตติวรรคที่  ๓</H1> 
+ 
+<span class="LineNumber"> 002 </span>                                    <h1>๑.  สัตติสูตร</h1>
+
+<span class="LineNumber"> 003 </span>                      <H1>ผู้ปฏิบัติควรทำตัวเหมือนถูกหอก</H1>
+
+<span class="LineNumber"> 004 </span>         [๕๖]   เทวดานั้น   ครั้งยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้ว    ได้กล่าว
+<span class="LineNumber"> 005 </span>คาถานี้   ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 006 </span>                             <B>ภิกษุพึงมีสติ     เว้นรอบเพื่อการละกาม
+<span class="LineNumber"> 007 </span>                   ราคะ    เหมือนบุรุษที่ถูกประหารด้วยหอก
+<span class="LineNumber"> 008 </span>                   มุ่งถอนเสีย   และเหมือนบุรุษที่ถูกไฟไหม้
+<span class="LineNumber"> 009 </span>                   บนศีรษะ  มุ่งดับไฟ  ฉะนั้น.</B>
+<span class="LineNumber"> 010 </span>         [๕๗]   พระผู้มีพระภาคเจ้าตรัสพระคาถาว่า
+<span class="LineNumber"> 011 </span>                             <B>ภิกษุพึงมีสติ     เว้นรอบเพื่ออันละ-
+<span class="LineNumber"> 012 </span>                   สักกายทิฏฐิ  เหมือนบุรุษถูกประหารด้วย
+<span class="LineNumber"> 013 </span>                   หอก      และเหมือนบุรุษที่ถูกไฟไหม้บน
+<span class="LineNumber"> 014 </span>                   ศีรษะ.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 20  หน้า  111
+
+<span class="LineNumber"> 002 </span>		ปทุฏฺ€จิตฺตสุตฺตวณฺณนา
+<span class="LineNumber"> 003 </span>	ทสมสฺส  กา  อุปฺปตฺติ  อฏฺ€ุปฺปตฺติเยว ฯ  เอกทิวสํ  
+<span class="LineNumber"> 004 </span>กิร  ภิกฺขู ธมฺมสภายํ  สนฺนิสินฺนา  กถํ  สมุฏฺ€าเปสุํ  อาวุโส 
+<span class="LineNumber"> 005 </span>อิเธกจฺโจ  พหุํ  ปุฺกมฺมํ กโรติ  เอกจฺโจ  พหุํ  ปาปกมฺมํ 
+<span class="LineNumber"> 006 </span>เอกจฺโจ  อุภยโวมิสฺสกํ  กโรติ  ตตฺถ โวมิสฺสการิโน  กีทิโส
+<span class="LineNumber"> 007 </span>อภิสมฺปราโยติ ฯ  อถ  สตฺถา  ธมฺมสภํ  อุปคนฺตฺวา ปฺตฺต-
+<span class="LineNumber"> 008 </span>วรพุทฺธาสเน  นิสินฺโน  ตํ  กถํ  สุตฺวา  ภิกฺขเว  มรณา-
+<span class="LineNumber"> 009 </span>สนฺนกาเล  สงฺกิลิฏฺ€จิตฺตสฺส  ทุคฺคติ  ปาฏิกงฺขาติ  ทสฺเสนฺโต 
+<span class="LineNumber"> 010 </span>อิมาย อฏฺ€ุปฺปตฺติยา อิทํ  สุตฺตํ เทเสสิ ฯ
+<span class="LineNumber"> 011 </span>	ตตฺถ  อิธาติ  เทสาปเทเส  นิปาโต ฯ  สฺวายํ  กตฺถจิ  ปเทสํ  
+<span class="LineNumber"> 012 </span>อุปาทาย วุจฺจติ 
+<span class="LineNumber"> 013 </span>	อิเธว  ติฏฺ€มานสฺส  เทวภูตสฺส  เม  สโตติ(๑)อาทีสุ ฯ 
+<span class="LineNumber"> 014 </span>กตฺถจิ  สาสนํ อุปาทาย  อิเธว  ภิกฺขเว  สมโณ  อิธ  ทุติโย  
+<span class="LineNumber"> 015 </span>สมโณติ(๒)อาทีสุ ฯ  กตฺถจิ ปทปูรณมตฺเต  อิธาหํ  ภิกฺขเว  ภุตฺตาวี 
+<span class="LineNumber"> 016 </span>อสฺสํ ปวาริโตติ(๓)อาทีสุ ฯ  กตฺถจิ โลกํ อุปาทาย  วุจฺจติ  อิธ 
+<span class="LineNumber"> 017 </span>ตถาคโต  โลเก  อุปฺปชฺชตีติ(๔)อาทีสุ ฯ  อิธาปิ โลเก เอว ทฏฺ€พฺโพ ฯ  
+<span class="LineNumber"> 018 </span>	เอกจฺจนฺติ  เอกํ  อฺตรนฺติ  อตฺโถ ฯ  ปุคฺคลนฺติ  สตฺตํ ฯ
+<span class="LineNumber"> 019 </span>โส  หิ  ยถาปจฺจยํ  กุสลากุสลานํ  ตพฺพิปากานฺจ  ปูรณโต
+<span class="LineNumber"> 020 </span># ๑. ที. มหา. ๑๐/๒๖๔/๓๒๑ ฯ  ๒. ม. มู. ๑๒/๑๕๔/๑๒๘ ฯ
+<span class="LineNumber"> 021 </span># องฺ. จตุกฺก. ๒๑/๒๔๑/๓๒๓ ฯ  ๓. ม. มู. ๑๒/๒๒/๒๑ ฯ
+<span class="LineNumber"> 022 </span># ๔. องฺ. ติก. ๒๐/๕๐๐/๒๑๕ ฯ

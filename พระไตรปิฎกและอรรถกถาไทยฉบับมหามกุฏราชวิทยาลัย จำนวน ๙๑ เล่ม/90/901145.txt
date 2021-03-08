@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                       ๓.  มัชฌิมธรรมที่เป็นกุศล    และมัชฌิมธรรมที่เป็น 
+<span class="LineNumber"> 002 </span>อัพยากตะ  อาศัยมัชฌิมธรรมที่เป็นกุศล  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 003 </span>                       ๔.  มัชฌิมธรรมที่เป็นอัพยากตะ    อาศัยมัชฌิมธรรม
+<span class="LineNumber"> 004 </span>ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะเหตุปัจจัย
+<span class="LineNumber"> 005 </span>                       ๕.  มัชฌิมธรรมที่เป็นอัพยากตะ  อาศัยมัชฌิมธรรม
+<span class="LineNumber"> 006 </span>ที่เป็นกุศล  และมัชฌิมธรรมที่เป็นอัพยากตะ   เกิดขึ้น   เพราะเหตุ
+<span class="LineNumber"> 007 </span>ปัจจัย
+<span class="LineNumber"> 008 </span>                       		<H2>๒.  อารัมมณปัจจัย</H2> 
+<span class="LineNumber"> 009 </span>		[๙๖]  ๑.  มัชณิมธรรมที่เป็นกุศล     อาศัยมัชฌิมธรรมที่เป็น
+<span class="LineNumber"> 010 </span>กุศล  เกิดขึ้น  เพราะอารัมมณปัจจัย
+<span class="LineNumber"> 011 </span>                       ๒.  มัชฌิมธรรมที่เป็นอัพยากตะ  อาศัยมัชฌิมธรรม
+<span class="LineNumber"> 012 </span>ที่เป็นอัพยากตะ  เกิดขึ้น  เพราะอารัมมณปัจจัย
+<span class="LineNumber"> 013 </span>               		<H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 014 </span>		[๙๗]  ในเหตุปัจจัย มี ๕ วาระ  ในอารัมมณปัจจัย  มี ๒ วาระ ฯลฯ
+<span class="LineNumber"> 015 </span>ในอวิคตปัจจัย มี ๕ วาระ.
+<span class="LineNumber"> 016 </span>             สหชาตวาระก็ดี   ฯลฯ  สัมปยุตตวาระก็ดี   เหมือนกับปฏิจจวาระ.

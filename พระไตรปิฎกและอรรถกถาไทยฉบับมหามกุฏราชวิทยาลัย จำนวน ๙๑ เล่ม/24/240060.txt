@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>	                     <H1>๘.  สุสัมมุฏฐสูตร</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗]   เทวดานั้น  ครั้นยืนอยู่ ณ ที่ควรส่วนข้างหนึ่งแล้วแล  ได้กล่าว
+<span class="LineNumber"> 003 </span>คาถานี้ในสำนักพระผู้มีพระภาคเจ้าว่า
+<span class="LineNumber"> 004 </span>                             <B>ธรรมทั้งหลายอันชนพวกใดลืมเลือน
+<span class="LineNumber"> 005 </span>                   แล้ว  ชนพวกนั้น   ย่อมถูกจูงไปในวาทะ
+<span class="LineNumber"> 006 </span>                   ของชนพวกอื่น  ชนพวกนั้นชื่อว่ายังหลับ
+<span class="LineNumber"> 007 </span>                   ไม่ตื่น(กาลนี้) เป็นกาลควรเพื่อจะตื่นของ
+<span class="LineNumber"> 008 </span>                   ชนพวกนั้น.</B>
+<span class="LineNumber"> 009 </span>         [๑๘]   พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 010 </span>                             <B>ธรรมทั้งหลาย  อันชนพวกใดไม่ลืม
+<span class="LineNumber"> 011 </span>                   เลือนแล้ว  ชนพวกนั้นย่อมไม่ถูกจูงไปใน
+<span class="LineNumber"> 012 </span>                   วาทะของชนพวกอื่น  บุคคลผู้รู้ดีทั้งหลาย
+<span class="LineNumber"> 013 </span>                   รู้ทั่วถึงโดยชอบแล้ว   ย่อมประพฤติเสมอ
+<span class="LineNumber"> 014 </span>                   ในหมู่สัตว์ผู้ประพฤติไม่เสมอ.</B>

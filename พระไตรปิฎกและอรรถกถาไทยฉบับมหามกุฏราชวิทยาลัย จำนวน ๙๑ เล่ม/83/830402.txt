@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                                     <H1>ทิฏฐานุสยมูล</H1> 
+<span class="LineNumber"> 002 </span><H2>ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</H2> :-
+<span class="LineNumber"> 003 </span>         [๑๔๑๒]  บุคคลใด   ไม่ละทิฏฐานุสัย   จากที่ใด,  บุคคลนั้น
+<span class="LineNumber"> 004 </span>ย่อมไม่ละวิจิกิจฉานุสัย   จากที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 005 </span>         ใช่.
+<span class="LineNumber"> 006 </span>         ก็หรือว่า  บุคคลใด  ไม่ละวิจิกิจฉานุสัย    จากที่ใด   บุคคลนั้น
+<span class="LineNumber"> 007 </span>ย่อมไม่ละทิฏฐานุสัย  จากที่นั้น.
+<span class="LineNumber"> 008 </span>         ใช่   ฯลฯ
+<span class="LineNumber"> 009 </span>                  <I>จบ  ทิฏฐานุสยมูละ  วิจิกิจฉานุสยมูลี</I>
+<span class="LineNumber"> 010 </span>                                 <I>ทิฏฐานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 011 </span>                                   <H1>วิจิกิจฉานุสยมูล</H1>
+<span class="LineNumber"> 012 </span><H2>วิจิกิจฉานุสยมูละ  ภวราคานุสยมูลี</H2> :-
+<span class="LineNumber"> 013 </span>         [๑๔๑๓]  บุคคลใด  ไม่ละวิจิกิจฉานุสัย  จากที่ใด,  บุคคลนั้น
+<span class="LineNumber"> 014 </span>ย่อมไม่ละภวราคานุสัย   จากที่นั้น  ใช่ไหม ?

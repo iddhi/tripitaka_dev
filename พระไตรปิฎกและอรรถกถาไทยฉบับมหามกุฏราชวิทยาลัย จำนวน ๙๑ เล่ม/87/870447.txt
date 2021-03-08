@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>           คือ  ฯลฯ  อาศัยขันธ์ ๑  ที่เป็นปริตตารัมมณธรรม  ซึ่งเป็นอเหตุกะ 
+<span class="LineNumber"> 002 </span>ฯลฯ  อาศัยขันธ์ ๒ ฯลฯ ในอเหตุกปฏิสนธิขณะ  ฯลฯ  อาศัยขันธ์ ๒.
+<span class="LineNumber"> 003 </span>           [๑๕๕๙] ๒.  <B>มหัคคตารัมมณธรรม     อาศัยมหัคคตารัมมณ-
+<span class="LineNumber"> 004 </span>ธรรม  เกิดขึ้น  เพราะนมัคคปัจจัย</B>
+<span class="LineNumber"> 005 </span>           คือ ฯลฯ อาศัยขันธ์ ๑  ที่เป็นมหัคคตารัมมณธรรม  ซึ่งเป็นอเหตุกะ
+<span class="LineNumber"> 006 </span>ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>           [๑๕๖๐] ๓.  <B>อัปปมาณารัมมณธรรม  อาศัยอัปปมาณารัมมณ-
+<span class="LineNumber"> 008 </span>ธรรม  เกิดขึ้น  เพราะนมัคคปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ ฯลฯ อาศัยขันธ์ ๑  ที่เป็นอัปปมาณารัมมณธรรม ซึ่งเป็นอเหตุกะ
+<span class="LineNumber"> 010 </span>ฯลฯ  อาศัยขันธ์ ๒.
+
+<span class="LineNumber"> 011 </span>                                   <H1>๑๐.  นวิปปยุตตปัจจัย</H1>
+<span class="LineNumber"> 012 </span>           [๑๕๖๑] ๑.  <B>ปริตตารัมมณธรรม     อาศัยปริตตารัมมณธรรม
+<span class="LineNumber"> 013 </span>เกิดขึ้น  เพราะนวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 014 </span>           คือ  ในอรูปภูมิ ฯลฯ  อาศัยขันธ์ ๑  ที่เป็นปริตตารัมมณธรรม ฯลฯ
+<span class="LineNumber"> 015 </span>           [๑๕๖๒] ๒.  <B>มหัคคตารัมมณธรรม     อาศัยมหัคคตารัมมณ-
+<span class="LineNumber"> 016 </span>ธรรม  เกิดขึ้น  เพราะนวิปปยุตตปัจจัย</B>
+<span class="LineNumber"> 017 </span>           คือ  ในอรูปภูมิ ฯลฯ  อาศัยขันธ์ ๑ ที่เป็นมหัคคตารัมมณธรรม  ฯลฯ
+           

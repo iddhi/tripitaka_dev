@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  พาหิรรูป. . .อาหารสมุฏฐานรูป. . .อุตุสมุฏฐานรูป. . .มหาภูต-
+<span class="LineNumber"> 002 </span>รูป ๓   และอุปาทารูป   อาศัยมหาภูตรูป ๑ ฯลฯ
+
+<span class="LineNumber"> 003 </span>                                        <H2>๑๒. นวิปากปัจจัย</H2>
+<span class="LineNumber"> 004 </span>         [๓๐๑] ๑.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม อาศัยธรรมที่ไม่ใช่อุปา-
+<span class="LineNumber"> 005 </span>ทาธรรม  เกิดขึ้น  เพราะนวิปากปัจจัย</B>
+<span class="LineNumber"> 006 </span>         คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูปที่ไม่ใช่อุปาทาธรรม  อาศัยขันธ์
+<span class="LineNumber"> 007 </span>ที่ไม่ใช่อุปาทาธรรม, ฯลฯ ขันธ์ ๒ อาศัยขันธ์ ๒, ฯลฯ มหาภูตรูป ๑  ตลอด
+<span class="LineNumber"> 008 </span>อสัญญสัตว์.
+<span class="LineNumber"> 009 </span>         ในธรรมที่ไม่ใช่อุปาทาธรรม    เป็นมูล มี ๓ วาระอย่างนี้.
+
+<span class="LineNumber"> 010 </span>                                      <H2>๑๓.  นอาหารปัจจัย</H2>
+<span class="LineNumber"> 011 </span>         [๓๐๒] ๑.  <B>ธรรมที่ไม่ใช่อุปาทาธรรม     อาศัยธรรมที่ไม่ใช่
+<span class="LineNumber"> 012 </span>อุปาทาธรรม  เกิดขึ้น  เพราะนอาหารปัจจัย</B>
+<span class="LineNumber"> 013 </span>         คือ  พาหิรรูป. . .อุตุสมุฏฐานรูป. . .อสัญญสัตว์ทั้งหลาย  มหาภูต
+<span class="LineNumber"> 014 </span>รูป ๓    อาศัยมหาภูตรูป ๑ ฯลฯ  มหาภูตรูป ๒  อาศัยมหาภูตรูป ๒.
+<span class="LineNumber"> 015 </span>                     ๒.  <B>อุปาทาธรรม      อาศัยธรรมที่ไม่ใช่อุปาทาธรรม
+<span class="LineNumber"> 016 </span>เกิดขึ้น  เพราะนอาหารปัจจัย</B>
+<span class="LineNumber"> 017 </span>         คือ พาหิรรูป... อุตุสมุฏฐานรูป...อสัญญสัตว์ทั้งหลาย  อุปาทารูป
+<span class="LineNumber"> 018 </span>อาศัยมหาภูตรูปทั้งหลาย.

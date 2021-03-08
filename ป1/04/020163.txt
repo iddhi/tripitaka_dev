@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                              ๕.  หมวด  กี  ธาตุ   
+<span class="LineNumber"> 002 </span><B>กี</B>	เป็นไปในความ  ซื้อ  <B>[กี + นา + ติ]</B>  สำเร็จรูปเป็น  <B>กีนาติ</B>
+<span class="LineNumber"> 003 </span>	ย่อมซื้อ.
+<span class="LineNumber"> 004 </span><B>ชิ</B> 	เป็นไปในความ  ชำนะ  <B>[ชิ + นา  + ติ]</B>  สำเร็จรูปเป็น  <B>ชินาติ</B>
+<span class="LineNumber"> 005 </span>	ย่อมชำนะ.
+<span class="LineNumber"> 006 </span><B>ธุ</B>	เป็นไปในความ  กำจัด  <B>[ธุ + นา  + ติ]</B>  สำเร็จรูปเป็น  <B>ธุนาติ</B>
+<span class="LineNumber"> 007 </span>	ย่อมกำจัด. 
+<span class="LineNumber"> 008 </span><B>จิ</B> 	เป็นไปในความ  ก่อ,  ในความ  สั่งสม  <B>[จิ + นา + ติ]</B>  สำเร็จ
+<span class="LineNumber"> 009 </span>	รูปเป็น  <B>จินาติ  </B>ย่อมก่อ,  ย่อมสั่งสม.
+<span class="LineNumber"> 010 </span><B>ลุ</B> 	เป็นไปในความ  เกี่ยว,  ในความ  ตัด  <B>[ลุ + นา + ติ]</B>  สำเร็จ
+<span class="LineNumber"> 011 </span>	รูปเป็น  <B>ลุนาติ</B>  ย่อมเกี่ยว,  ย่อมตัด.
+<span class="LineNumber"> 012 </span><B>า</B>	เป็นไปในความ  รู้  <B>[า = ชา + นา + ติ]</B>  สำเร็จรูปเป็น
+<span class="LineNumber"> 013 </span>	<B>ชานาติ</B>  ย่อมรู้.
+<span class="LineNumber"> 014 </span><B>ผุ</B> 	เป็นไปในความ  ฝัด,  ในความ  โปรย  <B>[ผุ + นา + ติ]</B>  สำเร็จ
+<span class="LineNumber"> 015 </span>	รูปเป็น  <B>ผุนาติ</B>  ย่อมผัด,  ย่อมโปรย.
+<span class="LineNumber"> 016 </span>                                ๖.  หมวด  คหฺ  ธาตุ
+<span class="LineNumber"> 017 </span><B>คหฺ</B>	เป็นไปในความ  ถือเอา  <B>[คหฺ + ณฺหา + ติ]</B>  สำเร็จรูปเป็น
+<span class="LineNumber"> 018 </span>	<B>คณฺหาติ</B>  ย่อมถือเอา.
+<span class="LineNumber"> 019 </span>	หมวด  <B>คหฺ</B>  ธาตุ  ที่ใช้ในอาขยาตมีแต่เท่านี้.

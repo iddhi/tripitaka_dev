@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๙ นฬกปานสุตฺตวณฺณนา  หน้า  ๒๐๕
+
+<span class="LineNumber"> 002 </span>มาตาปิตูนํ  วสนฏฺ€าเน  เทวสฺส  อวสฺสนํ  ฯ  ตสฺสา  โปกฺขรณิยา 
+<span class="LineNumber"> 003 </span>ตีเร  นฬานํ  เอกจฺฉิทฺทภาโวติ  ฯ  อิติ  สา  โปกฺขรณี  นเลน  
+<span class="LineNumber"> 004 </span>ปานียสฺส  ปีตตฺตา  นฬกปานาติ  นามํ  ลภิ  ฯ  อปรภาเค  ตํ 
+<span class="LineNumber"> 005 </span>โปกฺขรณึ  นิสฺสาย  คาโม  ปติฏฺ€าสิ  ฯ  ตสฺสาปิ  นฬกปานนฺเตฺวว  
+<span class="LineNumber"> 006 </span>นามํ  ชาตํ  ฯ  ตํ  สนฺธาย  วุตฺตํ  นฬกปาเนติ  ฯ  ปลาสวเนติ  
+<span class="LineNumber"> 007 </span>กึสุกวเน  ฯ  
+<span class="LineNumber"> 008 </span>	ตคฺฆ  มยํ  ภนฺเตติ  เอกํเสเนว  มยํ  ภนฺเต  อภิรตา  
+<span class="LineNumber"> 009 </span>อฺเปิ  เย  ตุมฺหากํ  สาสเน  อภิรมนฺติ  ฯ  เต  อเมฺหหิ  สทิสาว 
+<span class="LineNumber"> 010 </span>หุตฺวา  อภิรมนฺตีติ  ทีเปติ  ฯ  
+<span class="LineNumber"> 011 </span>	เนว  ราชาภินีตาติอาทีสุ  เอโก  รฺโ  อปราธํ  กตฺวา  
+<span class="LineNumber"> 012 </span>ปลายติ  ฯ  ราชา  กุหึ  โภ  อสุโกติ  ฯ  ปลาโต  เทวาติ  ฯ  
+<span class="LineNumber"> 013 </span>ปลาตฏฺ€าเนปิ  เม  น  มุจฺจิสฺสติ  ฯ  สเจ  ปน  ปพฺพเชยฺย  ฯ  มุจฺเจยฺยาติ  
+<span class="LineNumber"> 014 </span>วทติ  ฯ  ตสฺส  โกจิเทว  สุหโท  คนฺตฺวา  ตํ  ปวุตฺตึ  อาโรเจตฺวา  
+<span class="LineNumber"> 015 </span>ตฺวํ  สเจ  ชีวิตุมิจฺฉสิ  ฯ  ปพฺพชาหีติ  ฯ  โส  ปพฺพชิตฺวา  ชีวิตํ  รกฺขมาโน  
+<span class="LineNumber"> 016 </span>จรติ  ฯ  อยํ  ราชาภินีโต  นาม  ฯ  
+<span class="LineNumber"> 017 </span>	เอโก  ปน  โจรานํ  มูลํ  ฉินฺทนฺโต  จรติ  ฯ  โจรา  สุตฺวา  
+<span class="LineNumber"> 018 </span>ปุริสานํ  อตฺถิกภาวํ  น  ชานนฺติ  ฯ  ชานาเปสฺสาม  นนฺติ  
+<span class="LineNumber"> 019 </span>วทนฺติ  ฯ  โส  ตํ  ปวุตฺตึ  สุตฺวา  ปลายติ  ฯ  โจรา  ปลาโตติ  
+<span class="LineNumber"> 020 </span>สุตฺวา  ปลาตฏฺ€าเนปิ  โน  น  มุจฺจิสฺสติ  ฯ  สเจ  ปน  ปพฺพเชยฺย  
+<span class="LineNumber"> 021 </span>มุจฺเจยฺยาติ  วทนฺติ  ฯ  โส  ตํ  ปวุตฺตึ  สุตฺวา  ปพฺพชติ  ฯ  

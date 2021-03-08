@@ -1,0 +1,11 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  30  ตสฺสุทฺทานํ  หน้า  133
+
+<span class="LineNumber"> 002 </span>				ตสฺสุทฺทานํ  (๑)
+<span class="LineNumber"> 003 </span>		สุสมฺ  มิคาภิภู (๒)  มาณวโก
+<span class="LineNumber"> 004 </span>		วาริพหุตรูปาทิจฺจุปฏฺ€านา
+<span class="LineNumber"> 005 </span>		สกฬาย สตินฺทุก ปงฺก ปุน
+<span class="LineNumber"> 006 </span>		สตธมฺม  สุทุทฺททเกน ทส ฯ
+<span class="LineNumber"> 007 </span># ๑. ม. กลฺยาณธมฺมํ  ททฺทรํ		มกฺกฏิ ทุพฺภิ มกฺกฏํ ฯ
+<span class="LineNumber"> 008 </span>	อาทิจฺจุปฏฺ€านฺเจว	กฬายมุฏฺ€ิ  ตินฺทุกํ ฯ
+<span class="LineNumber"> 009 </span>	กุจฺฉปํ  สตธมฺมฺจ		ทุทฺททนฺติ จ เต ทส ฯ
+<span class="LineNumber"> 010 </span># ๒.  สฺยา.  ๒๗/๖๔  มิคาธิภู  ฯ

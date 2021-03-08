@@ -1,0 +1,32 @@
+﻿<span class="LineNumber"> 001 </span>          <H2>๗๓-๕.  อุปาทานอุปาทานสัมปยุตตทุกะ</H2> 
+
+<span class="LineNumber"> 002 </span><B>อุปาทานา เจว ธมฺมา</B>                     ธรรมเป็นอุปาทานและสัมปยุตด้วย
+<span class="LineNumber"> 003 </span><B>อุปาทานสมฺปยุตฺตา จ</B>                   อุปทาน
+<span class="LineNumber"> 004 </span><B>อุปาทานสมฺยุตฺตา เจว ธมฺมา</B>        ธรรมสัมปยุตด้วยอุปาทาน แต่ไม่เป็น
+<span class="LineNumber"> 005 </span><B>โน จ อุปาทานา</B>                             อุปทาน
+
+<span class="LineNumber"> 006 </span>         <H2>๗๔-๖.  อุปาทานวิปปยุตตอุปาทานนิยทุกะ</H2>
+
+<span class="LineNumber"> 007 </span><B>อุปาทานวิปฺปยุตฺตา โข ปน</B>            ธรรมวิปปยุตจากอุปทาน  แต่เป็น
+<span class="LineNumber"> 008 </span><B>ธมฺมา อุปาทานิยาปิ</B>                       อารมณ์ของอุปทาน
+<span class="LineNumber"> 009 </span><B>อุปาทานวิปฺปยุตฺตา โข ปน</B>           ธรรมวิปปยุตจากอุปาทาน  และไม่เป็น
+<span class="LineNumber"> 010 </span><B>ธมฺมา อนุปาทานิยปิ</B>                     อารมณ์ของอุปทาน
+
+<span class="LineNumber"> 011 </span>                            <H1>กิเลสโคจฉกะ</H1>
+
+<span class="LineNumber"> 012 </span>                <H1>หมวดที่  ๑๒ มี ๘ ทุกะ</H1> <B>คือ</B>
+
+<span class="LineNumber"> 013 </span>         [๑๓]       <H1>๗๕-๑.  กิเลสทุกะ</H1>
+
+<span class="LineNumber"> 014 </span><B>กิเลสา ธมฺมา</B>                               ธรรมเป็นกิเลส
+<span class="LineNumber"> 015 </span><B>โน กิเลสา ธมฺมา</B>                         ธรรมไม่เป็นกิเลส
+
+<span class="LineNumber"> 016 </span>                          <H2>๗๖-๒.  สังกิเลสิกทุกะ</H2>
+
+<span class="LineNumber"> 017 </span><B>สงฺกิเลสิกา ธมฺมา</B>                       ธรรมเป็นอารมณ์ของสังกิเลส
+<span class="LineNumber"> 018 </span><B>อสงฺกิเลสิก ธมฺมา</B>                       ธรรมไม่เป็นอารมณ์ของสังกิเลส
+
+<span class="LineNumber"> 019 </span>                          <H2>๗๗-๓.  สังกิลิฏฐทุกะ</H2>
+
+<span class="LineNumber"> 020 </span><B>สงฺกิลิฏฺ€า ธมฺมา</B>                        ธรรมเศร้าหมอง
+<span class="LineNumber"> 021 </span><B>อสงฺกิลิฏฺ€า ธมฺมา</B>                      ธรรมไม่เศร้าหมอง

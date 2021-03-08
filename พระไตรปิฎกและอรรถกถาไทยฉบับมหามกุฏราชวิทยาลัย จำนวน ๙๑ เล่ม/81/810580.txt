@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              <H1>ฌานันตริกกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๗๕๕]  <B>สกวาที</B>   ฌานคั่นมีอยู่  หรือ  ?
+<span class="LineNumber"> 003 </span>                        <B>ปรวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 004 </span>                        ส. ผัสสะคั่นมีอยู่  หรือ  ฯลฯ  ปัญญาคั่นมีอยู่  หรือ ?
+<span class="LineNumber"> 005 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 006 </span>                        ส. ฌานคั่นมีอยู่  หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 008 </span>                        ส. ฌานคั่นมีอยู่ในระหว่างทุติยฌานและตติยฌาน  หรือ ?
+<span class="LineNumber"> 009 </span>                        ป. ไม่พึงกล่าวอย่างนั้น ฯลฯ
+<span class="LineNumber"> 010 </span>                        ส. ฌานคั่นมีอยู่  หรือ ?
+<span class="LineNumber"> 011 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 012 </span>                        ส. ฌานคั่นมีอยู่ในระหว่างตติยฌานและจตุตถฌาน  หรือ ?
+<span class="LineNumber"> 013 </span>                        ป. ไม่พึงกล่าวอย่างนั้น  ฯลฯ
+<span class="LineNumber"> 014 </span>         [๑๗๕๖]   ส. ฌานคั่นไม่มีในระหว่างทุติยฌานและตติยฌาน  หรือ ?
+<span class="LineNumber"> 015 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 016 </span>                        ส. หากว่า   ฌานคั่นไม่มีในระหว่างทุติยฌานและตติยฌาน
+<span class="LineNumber"> 017 </span>ก็ต้องไม่กล่าวว่าฌานคั่นมีอยู่.
+<span class="LineNumber"> 018 </span>                        ส. ฌานคั่นไม่มีในระหว่างตติยฌานและจตุตถฌาน  หรือ ?
+<span class="LineNumber"> 019 </span>                        ป. ถูกแล้ว.
+<span class="LineNumber"> 020 </span>                        ส. หากว่า   ฌานคั่นไม่   มีในระหว่างตติยฌาน   และจตุตถฌาน
+<span class="LineNumber"> 021 </span>ก็ต้องไม่กล่าวว่า  ฌานคั่นมีอยู่.
+<span class="LineNumber"> 022 </span>         [๑๗๕๗]   ส. ฌานคั่นมีอยู่ในระหว่างปฐมฌานและทุติยฌาน  หรือ ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           <B>อินทรีย์ ๑</B> คือ  รูปชีวิตินทรีย์  ย่อมเกิดปรากฏ. 
+<span class="LineNumber"> 002 </span>           เหล่าเทวดาอสัญญสัตว์  ไม่มีเหตุ  ไม่มีอาหาร  ไม่มีผัสสะ  ไม่มีเวทนา
+<span class="LineNumber"> 003 </span>ไม่มีสัญญา   ไม่มีเจตนา  ไม่มีจิต   ย่อมเกิดปรากฏ.
+
+<span class="LineNumber"> 004 </span>                                           <H1>อรูปธาตุ</H1>
+<span class="LineNumber"> 005 </span>           [๑๑๐๐]  <B>ในอรูปธาตุ  ในขณะที่เกิด   ขันธ์เท่าไร  ฯลฯ   จิต
+<span class="LineNumber"> 006 </span>เท่าไร  ย่อมเกิดปรากฏ ?</B>
+<span class="LineNumber"> 007 </span>           ในอรูปธาตุ  ในขณะที่เกิด  <B>ขันธ์ ๔</B>  ย่อมเกิดปรากฏ <B>อายตนะ ๒</B>
+<span class="LineNumber"> 008 </span>ย่อมเกิดปรากฏ  <B>ธาตุ ๒</B> ย่อมเกิดปรากฏ <B>สัจจะ ๑</B> ย่อมเกิดปรากฏ <B>อินทรีย์ ๘</B>
+<span class="LineNumber"> 009 </span>ย่อมเกิดปรากฏ <B>เหตุ ๓</B> ย่อมเกิดปรากฏ  <B>อาหาร ๓</B> ย่อมเกิดปรากฏ <B>ผัสสะ ๑</B>  
+<span class="LineNumber"> 010 </span>ย่อมเกิดปรากฏ   <B>เวทนา   ๑  สัญญา  ๑   เจตนา  ๑   จิต  ๑</B>    ย่อมเกิดปรากฏ.
+<span class="LineNumber"> 011 </span>           [๑๑๐๑]  <B>ในอรูปธาตุ   ในขณะที่เกิด   ขันธ์ ๔    เหล่าไหน
+<span class="LineNumber"> 012 </span>ย่อมเกิดปรากฏ ?</B>
+<span class="LineNumber"> 013 </span>           คือ เวทนาขันธ์ สัญญาขันธ์  สังขารขันธ์  วิญญาณขันธ์  ในอรูปธาตุ
+<span class="LineNumber"> 014 </span><B>ในขณะที่เกิด ขันธ์ ๔ เหล่านี้  ย่อมเกิดปรากฏ.</B>
+<span class="LineNumber"> 015 </span>           <B>ในอรูปธาตุ  ในขณะที่เกิด อายตนะ ๒ เหล่าไหน  ย่อมเกิด
+<span class="LineNumber"> 016 </span>ปรากฏ ?</B>
+<span class="LineNumber"> 017 </span>           คือ มนายตนะ ธัมมายตนะ ในอรูปธาตุ <B>ในขณะที่เกิดอายตนะ ๒
+<span class="LineNumber"> 018 </span>เหล่านี้  ย่อมเกิดปรากฏ.</B>
+<span class="LineNumber"> 019 </span>           <B>ในอรูปธาตุ   ในขณะที่เกิด  ธาตุ  ๒   เหล่าไหน   ย่อมเกิด
+<span class="LineNumber"> 020 </span>ปรากฏ ?</B> 
+<span class="LineNumber"> 021 </span>           คือ มโนวิญญาธาตุ  ธัมมธาตุ  ในอรูปธาตุ <B>ในขณะที่เกิด  ธาตุ ๒
+<span class="LineNumber"> 022 </span>เหล่านี้  ย่อมเกิดปรากฏ.</B>

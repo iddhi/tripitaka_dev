@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                                  <H1>อรรถกถาอักโกธสูตร </H1>
+
+<span class="LineNumber"> 002 </span>           พึงทราบวินิจฉัยในอักโกธสูตรที่ ๕  ต่อไปนี้ :-   
+<span class="LineNumber"> 003 </span>           บทว่า  <B>มา   โว  โกโธ    อชฺฌภวิ </B>  ความว่า  ความโกรธอย่าได้ครอบงำ
+<span class="LineNumber"> 004 </span>พวกท่าน พวกท่านนั่นแหละ จงครอบงำความ  โกรธ.  บทว่า <B>มา จ  กุชฺฌิตฺถ
+<span class="LineNumber"> 005 </span>กุชฺฌตํ</B>    ความว่า  เมื่อเขาโกรธ  อย่าโกรธตอบ.    บทว่า  <B>อโกโธ</B>  ได้แก่
+<span class="LineNumber"> 006 </span>เมตตาและธรรมเป็นบุพภาคของเมตตา.     บทว่า   <B>อหึสา</B>  ได้แก่  กรุณาและ
+<span class="LineNumber"> 007 </span>ธรรมเป็นบุพภาคของกรุณา.    บทว่า  <B>อถ  ปาปชนํ  โกโธ  ปพฺพโตวา-
+<span class="LineNumber"> 008 </span>ภิมทฺทติ </B> ความว่า  ความโกรธ  ย่อมย่ำยีคนลามก   เหมือนภูเขาขยี้ฉะนั้น.
+<span class="LineNumber"> 009 </span>                        <I>จบอรรถกถาอักโกธสูตรที่  ๕  ตติยวรรค
+<span class="LineNumber"> 010 </span>                      จบอรรถกถาสักกสังยุต  ด้วยประการฉะนี้
+<span class="LineNumber"> 011 </span>    จบวรรณนาสารัตถปกาสินี  อรรถกถาสังยุตตนิกาย  สคาถวรรค
+<span class="LineNumber"> 012 </span>                                          ด้วยประการฉะนี้.</I>
+
+<span class="LineNumber"> 013 </span>                        <H2>รวมพระสูตรที่มีในวรรคที่  คือ</H2>
+<span class="LineNumber"> 014 </span>           ๑.  ฆัตวาสูตร    ๒.  ทุพัณณิยสูตร    ๓.  มายาสูตร   ๔.  อัจจยสูตร
+<span class="LineNumber"> 015 </span>๕.  อักโกธสูตร   พร้อมทั้งอรรถกถา     สักกสูตร  ๕  สูตรนี้      พระพุทธเจ้า
+<span class="LineNumber"> 016 </span>ผู้ประเสริฐทรงแสดงไว้แล้ว.
+<span class="LineNumber"> 017 </span>                                   <I>จบสักกสังยุตบริบูรณ์</I>
+
+<span class="LineNumber"> 018 </span>          <H2>รวมสังยุตที่มีในสคาถวรรคนี้  ๑๑  สังยุต  คือ</H2>
+<span class="LineNumber"> 019 </span>           ๑. เทวตาสังยุต   ๒. เทวปุตตสังยุต    ๓. โกศลสังยุต   ๔  มารสังยุต
+<span class="LineNumber"> 020 </span>๕.ภิกขุนีสังยุต ๖.พรหมสังยุต  ๗.พราหมณสังยุต ๘.วังคีสสังยุต   ๙.วนสังยุต 
+<span class="LineNumber"> 021 </span>๑๐. ยักขสังยุต  ๑๑. สักกสังยุต
+<span class="LineNumber"> 022 </span>                                         <I>จบสคาถวรรค</I>

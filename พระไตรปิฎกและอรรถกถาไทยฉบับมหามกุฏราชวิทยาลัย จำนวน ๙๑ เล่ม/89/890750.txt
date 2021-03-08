@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>         คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูป    อาศัยขันธ์ ๑    ที่เป็นอัปปีติก-
+<span class="LineNumber"> 002 </span>ธรรม ฯลฯ   ขันธ์ ๒  อาศัยขันธ์  ๒, จิตตสมุฏฐานรูป  อาศัยปีติ.
+<span class="LineNumber"> 003 </span>         ในปฏิสนธิขณะ  ขันธ์ ๓  และกฏัตตารูป  อาศัยขันธ์  ๑  ที่เป็นอัปปี-
+<span class="LineNumber"> 004 </span>ติกธรรม ฯลฯ  ขันธ์ ๒.
+<span class="LineNumber"> 005 </span>         กฏัตตารูป  อาศัยปีติ.
+<span class="LineNumber"> 006 </span>         หทยวัตถุ  อาศัยขันธ์ทั้งหลาย,  ขันธ์ทั้งหลาย  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 007 </span>         หทยวัตถุ  อาศัยปีติ,   ปีติ  อาศัยหทยวัตถุ.
+<span class="LineNumber"> 008 </span>         มหาภูตรูป ๓  อาศัยมหาภูตรูป ๑ ฯลฯ
+<span class="LineNumber"> 009 </span>         พึงทำสัปปีติกทุกะ  เหมือนกับสวิตักกทุกะ  ในที่ทั้งปวง.
+<span class="LineNumber"> 010 </span>         ในปัจจัยทั้งปวง  ปวัตติ  ปฏิสนธิ  มี  ๙ วาระ.
+
+<span class="LineNumber"> 011 </span>                            <H2>การนับจํานวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 012 </span>         [๖๗๓]  ในเหตุปัจจัย มี ๙ วาระ  ในอารัมมณปัจจัย มี ๙ วาระ  ใน
+<span class="LineNumber"> 013 </span>อธิปติปัจจัย มี ๙ วาระ ฯลฯ  ในปุเรชาตปัจจัย  มี ๖ วาระ  ในกัมมปัจจัย  มี
+<span class="LineNumber"> 014 </span>๙ วาระ  ในวิปากปัจจัย มี ๙ วาระ ฯลฯ  ในอวิคตปัจจัย   มี ๙ วาระ.
+
+<span class="LineNumber"> 015 </span>                                         <H2>ปัจจนียนัย</H2>
+<span class="LineNumber"> 016 </span>                                      <H2>๑.  นเหตุปัจจัย</H2>
+<span class="LineNumber"> 017 </span>         [๖๗๔] ๑.  <B>สัปปีติกธรรม อาศัยสัปปีติกธรรม เกิดขึ้น เพราะ
+<span class="LineNumber"> 018 </span>นเหตุปัจจัย</B>
+

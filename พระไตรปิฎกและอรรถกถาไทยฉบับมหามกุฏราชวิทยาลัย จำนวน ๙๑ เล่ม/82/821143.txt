@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>                               <H1>อตีตานาคตวาระ  อนุโลม</H1> 
+<span class="LineNumber"> 002 </span>                                         <H1>ปุคคลวาระ</H1>
+<span class="LineNumber"> 003 </span>                                       <H1>กายสังขารมูล</H1>
+<span class="LineNumber"> 004 </span><H2>กายสังขารมูละ  วจีสังขารมูลี :-</H2>
+<span class="LineNumber"> 005 </span>         [๑๑๐๒]   กายสังขารเคยเกิดแก่บุคคลใด,    วจีสังขารก็จักเกิด 
+<span class="LineNumber"> 006 </span>แก่บุคคลนั้น  ใช่ไหม ?
+<span class="LineNumber"> 007 </span>         บุคคลที่ถึงพร้อมด้วยปรินิพพานจิตก็ดี  ปัจฉิมจิตของบุคคลที่ไม่
+<span class="LineNumber"> 008 </span>มีวิตกและไม่มีวิจารจักเกิดในลำดับแห่งจิตใดก็ดี    กายสังขารเคยเกิดแก่
+<span class="LineNumber"> 009 </span>บุคคลเหล่านั้น    แต่วจีสังขารไม่ใช่จักเกิดแก่บุคคลเหล่านั้น,    บุคคลที่ 
+<span class="LineNumber"> 010 </span>นอกจากนั้น    กายสังขารเคยเกิด    และวจีสังขารก็จักเกิดแก่บุคคลเหล่า
+<span class="LineNumber"> 011 </span>นั้น.
+<span class="LineNumber"> 012 </span>         ก็หรือว่า    วจีสังขารจักเกิดแก่บุคคลใด,      กายสังขารก็เคยเกิด
+<span class="LineNumber"> 013 </span>แก่บุคคลนั้น ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         ใช่.
+<span class="LineNumber"> 015 </span>                        <I>จบ  กายสังขารมูละ   วจีสังขารมูลี</I>

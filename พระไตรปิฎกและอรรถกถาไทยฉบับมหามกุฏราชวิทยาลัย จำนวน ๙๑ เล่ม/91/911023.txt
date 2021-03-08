@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                       ๒.  <B>สรณธรรม อาศัยธรรมที่ไม่ใช่อรณธรรม เกิดขึ้น
+<span class="LineNumber"> 002 </span>เพราะนเหตุปัจจัย</B> 
+
+<span class="LineNumber"> 003 </span>                     <H2>การนับจำนวนวาระในปัจจนียะ</H2>
+<span class="LineNumber"> 004 </span>           [๑๖๖]  ในนเหตุปัจจัย มี ๒ วาระ  ในนอารัมมณปัจจัย  มี ๓ วาระ
+<span class="LineNumber"> 005 </span>ฯลฯ  ในโนวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 006 </span>           สหชาตวาระก็ดี  ฯลฯ  สัมปยุตตวาระก็ดี  เหมือนกับปฏิจจวาระ.
+
+<span class="LineNumber"> 007 </span>                                        <H2>ปัญหาวาระ</H2>
+<span class="LineNumber"> 008 </span>                                         <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 009 </span>                                       <H2>๑. เหตุปัจจัย</H2>			
+<span class="LineNumber"> 010 </span>           [๑๖๗] ๑.  <B>ธรรมที่ไม่ใช่สรณธรรม  เป็นปัจจัยแก่อรณธรรม
+<span class="LineNumber"> 011 </span>ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>                       ๒.  <B>ธรรมที่ไม่ใช่อรณธรรม   เป็นปัจจัยแก่อรณธรรม
+<span class="LineNumber"> 013 </span>ด้วยอำนาจของเหตุปัจจัย</B>
+<span class="LineNumber"> 014 </span>                       ๓.  <B>ธรรมที่ไม่ใช่อรณธรรม   เป็นปัจจัยแก่สรณธรรม
+<span class="LineNumber"> 015 </span>ฯลฯ</B>                
+<span class="LineNumber"> 016 </span>                       ๔.  <B>ธรรมที่ไม่ใช่อรณธรรม  เป็นปัจจัยแก่สรณธรรม
+<span class="LineNumber"> 017 </span>และอรณธรรมด้วยอำนาจของเหตุปัจจัย</B>

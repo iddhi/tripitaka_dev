@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>นานาขณิกะ</B> 
+<span class="LineNumber"> 002 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 003 </span>           เจตนาที่เป็นมหัคคตธรรม     เป็นปัจจัยแก่จิตตสมุฏฐานรูปทั้งหลาย
+<span class="LineNumber"> 004 </span>ด้วยอำนาจของกัมมปัจจัย. 
+<span class="LineNumber"> 005 </span>           ในปฏิสนธิขณะ  เจตนาที่เป็นมหัคคตธรรม  เป็นปัจจัยแก่กฏัตตารูป
+<span class="LineNumber"> 006 </span>ทั้งหลาย   ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 007 </span>           ที่เป็น  <B>นานาขณิกะ</B>  ได้แก่
+<span class="LineNumber"> 008 </span>           เจตนาที่เป็นมหัคคตธรรม     เป็นปัจจัยแก่กฏัตตารูปทั้งหลาย   ด้วย
+<span class="LineNumber"> 009 </span>อำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 010 </span>           [๑๔๙๗] ๔.  <B>มหัคคตธรรม   เป็นปัจจัยแก่ปริตตธรรม   และ
+<span class="LineNumber"> 011 </span>มหัคคตธรรม  ด้วยอำนาจของกัมมปัจจัย</B>
+<span class="LineNumber"> 012 </span>           มี ๒ อย่าง  คือที่เป็น  <B>สหชาตะ</B>  และ  <B>นานาขณิกะ</B>
+<span class="LineNumber"> 013 </span>           ที่เป็น  <B>สหชาตะ</B>  ได้แก่
+<span class="LineNumber"> 014 </span>           เจตนาที่เป็นมหัคคตธรรม    เป็นปัจจัยแก่สัมปยุตตขันธ์     และจิตต-  
+<span class="LineNumber"> 015 </span>สมุฏฐานรูปทั้งหลาย   ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 016 </span>           ในปฏิสนธิขณะ  เจตนาที่เป็นมหัคคตธรรม   เป็นปัจจัยแก่สัมปยุตต- 
+<span class="LineNumber"> 017 </span>ขันธ์   และกฏัตตารูปทั้งหลาย   ด้วยอำนาจของกัมมปัจจัย.
+<span class="LineNumber"> 018 </span>           ที่เป็น  <B>นานาขณกะ</B>  ได้แก่
+<span class="LineNumber"> 019 </span>           เจตนาที่เป็นมหัคคตธรรม  เป็นปัจจัยแก่ขันธ์ที่เป็นมหัคคตธรรม  ซึ่ง
+<span class="LineNumber"> 020 </span>เป็นวิบาก  และกฏัตตารูปทั้งหลาย  ด้วยอำนาจของกัมมปัจจัย.
+

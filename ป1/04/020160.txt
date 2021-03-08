@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                                             ธาตุ  
+<span class="LineNumber"> 002 </span>	(๑๑๔)   วิภัตติที่บอก  กาล  บท  วจนะ  บุรุษ  เหล่านี้  สำหรับ
+<span class="LineNumber"> 003 </span>ประกอบกับธาตุ  คือกิริยาศัพท์ที่เป็นมูลราก.   ธาตุนั้นท่านรวบรวม
+<span class="LineNumber"> 004 </span>จัดได้เป็น  ๘  หมวด.    ตามพวกที่ประกอบด้วยปัจจัยเป็นอันเดียวกัน,
+<span class="LineNumber"> 005 </span>แสดงแต่พอเป็นตัวอย่าง  ดังนี้ :-
+<span class="LineNumber"> 006 </span>                                 ๑.  หมวด  ภู   ธาตุ
+<span class="LineNumber"> 007 </span><B>*  ภู</B>  เป็นไปในความ  มี,  ในความ  เป็น  <B>[ภู + อ = ภว + ติ]</B> สำเร็จ
+<span class="LineNumber"> 008 </span>        รูปเป็น  <B>ภวติ</B>  ย่อมมี,  ย่อมเป็น.
+<span class="LineNumber"> 009 </span><B>*  หุ</B>  เป็นไปในความ  มี,  ในความ  เป็น  <B>[หุ + อ = โห + ติ]</B>  สำเร็จ
+<span class="LineNumber"> 010 </span>	รูปเป็น  <B>โหติ</B>  ย่อมมี,  ย่อมเป็น.
+<span class="LineNumber"> 011 </span><B>*  สี</B>  เป็นไปในความ  นอน  <B>[สี + อ = สย + ติ]</B>  สำเร็จรูปเป็น
+<span class="LineNumber"> 012 </span>	<B>เสติ,  สยติ</B>  ย่อมนอน.
+<span class="LineNumber"> 013 </span><B>*  มรฺ</B>  เป็นไปในความ  ตาย,  <B>[มรฺ + อ + ติ]</B> สำเร็จรูปเป็น มรติ
+<span class="LineNumber"> 014 </span>	ย่อมตาย.
+<span class="LineNumber"> 015 </span><B>ปจฺ</B>  เป็นไปในความ  หุง,  ในความ  ต้ม  <B>[ปจฺ + อ + ติ]</B> สำเร็จ
+<span class="LineNumber"> 016 </span>	รูปเป็น  <B>ปจติ</B>  ย่อมหุง,  ย่อมต้ม.
+<span class="LineNumber"> 017 </span><B>อิกฺขฺ</B>  เป็นไปในความ  เห็น,  <B>[อิกฺขฺ + อ + ติ]</B>  สำเร็จรูปเป็น  อิกฺขติ
+<span class="LineNumber"> 018 </span>	ย่อมเห็น.
+<span class="LineNumber"> 019 </span><B>ลภฺ</B>  เป็นไปในความ  ได้  <B>[ลภฺ + อ + ติ]</B>    สำเร็จรูปเป็น  ลภติ
+<span class="LineNumber"> 020 </span>	ย่อมได้.

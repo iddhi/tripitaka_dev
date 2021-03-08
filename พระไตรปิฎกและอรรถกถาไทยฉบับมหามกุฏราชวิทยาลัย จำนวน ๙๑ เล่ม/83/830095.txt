@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span><H2>กามราคานุสยมูละ  อวิชชานุสยมูลี</H2> :- 
+<span class="LineNumber"> 002 </span>         กามราคานุสัย   ไม่นอนเนื่องอยู่ ณ ที่ใด,   อวิชชานุสัย  ก็ไม่
+<span class="LineNumber"> 003 </span>นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 004 </span>         กามราคานุสัย   ไม่นอนเนื่องอยู่ ณ ที่นี้  คือ  ที่ทุกขเวทนา
+<span class="LineNumber"> 005 </span>รูปธาตุ    อรูปธาตุ    แต่อวิชชานุสัย    ไม่ใช่ไม่นอนเนื่องอยู่ ณ ที่นั้น,
+<span class="LineNumber"> 006 </span>กามราคานุสัย    และอวิชชานุสัย    ก็ไม่นอนเนื่องอยู่ ณ ที่นี้   คือ   ที่ 
+<span class="LineNumber"> 007 </span>อปริยาปันนธรรม.
+<span class="LineNumber"> 008 </span>         ก็หรือว่า อวิชชานุสัย  ไม่นอนเนื่องอยู่ ณ ที่ใด,  กามราคานุสัย
+<span class="LineNumber"> 009 </span>ก็ไม่นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม.
+<span class="LineNumber"> 010 </span>         ใช่.
+<span class="LineNumber"> 011 </span>                      <I>จบ  กามราคานุสยมูละ  อวิชชานุสยมูลี</I>      	
+<span class="LineNumber"> 012 </span>                                   <I>กามราคานุสยมูล  จบ</I>
+
+<span class="LineNumber"> 013 </span>                                        <H1>ปฏิฆานุสยมูล</H1>
+<span class="LineNumber"> 014 </span><H2>ปฏิฆานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 015 </span>         [๑๒๖๗]  ปฏิฆานุสัย  ไม่นอนเนื่องอยู่ ณ ที่ใด,   มานานุสัย
+<span class="LineNumber"> 016 </span>ก็ไม่นอนเนื่องอยู่ ณ ที่นั้น  ใช่ไหม ?
+<span class="LineNumber"> 017 </span>         ปฏิฆานุสัย   ไม่นอนเนื่องอยู่ ณ ที่นี้   คือ   ที่เวทนา ๒   ใน
+<span class="LineNumber"> 018 </span>กามธาตุ   ที่รูปธาตุ   อรูปธาตุ   แต่มานานุสัย ไม่ใช่ไม่นอนเนื่องอยู่ ณ

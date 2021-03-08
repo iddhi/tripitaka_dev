@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                   <H1>อรรถกถาสูตรที่  ๓</H1>
+
+<span class="LineNumber"> 002 </span>         ใน<B>สูตรที่  ๓</B>  มีวินิจฉัยดังต่อไปนี้  :- 
+<span class="LineNumber"> 003 </span>         บทว่า  <B>อคุตฺตํ</B>  ได้แก่  ไม่คุ้มครอง  คือเว้นจากสติสังวร  เป็น
+<span class="LineNumber"> 004 </span>เสมือนช้างและม้าที่ไม่คุ้มครอง (คือไม่มีคนเลี้ยง)  ฉะนั้น.
+
+<span class="LineNumber"> 005 </span>                          <I>จบ   อรรถกถาสูตรที่  ๓</I>
+
+<span class="LineNumber"> 006 </span>                         <H1>อรรถกถาสูตรที่  ๔</H1>
+
+<span class="LineNumber"> 007 </span>         ใน<B>สูตรที่  ๔</B>  มีวินิจฉัยดังต่อไปนี้  :-
+<span class="LineNumber"> 008 </span>         บทว่า  <B>คุตฺตํ</B>   ได้แก่   คุ้มครองแล้ว   คือไม่ปล่อยสติสังวร   เป็น
+<span class="LineNumber"> 009 </span>เสมือนช้างและม้าเป็นต้น ที่ได้คุ้มครองแล้ว.
+
+<span class="LineNumber"> 010 </span>                          <I>จบ อรรถกถาสูตรที่  ๔</I>
+
+<span class="LineNumber"> 011 </span>               <H1>อรรถกถสูตรที่  ๕ - ๖</H1>
+
+<span class="LineNumber"> 012 </span>         ใน<B>สูตรที่   ๕ - ๖</B>   ท่านกล่าวตามอัธยาศัยของสัตว์ผู้จะตรัสรู้
+<span class="LineNumber"> 013 </span>ด้วยอำนาจบทว่า    <B>อรกฺขิตํ</B>    ก็อรรถในบทนี้    เหมือนบทก่อนนั่นแล.
+
+<span class="LineNumber"> 014 </span>                        <I>จบ  อรรถกถาสูตรที่  ๕ - ๖</I>

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>					เล่มที่  ๔  หน้า  ๑  
+
+<span class="LineNumber"> 002 </span>			สุมงฺคลวิลาสินี  นาม  ทีฆนิกายฏฺ€กถา  
+<span class="LineNumber"> 003 </span>				สีลกฺขนฺธวคฺควณฺณนา  
+
+<span class="LineNumber"> 004 </span>		นโม  ตสฺส  ภควโต  อรหโต  สมฺมาสมฺพุทฺธสฺส  ฯ  
+<span class="LineNumber"> 005 </span>					คนฺถารมฺภกถา  
+<span class="LineNumber"> 006 </span>		กรุณาสีตลหทยํ  		ปฺาปชฺโชตวิหตโมหตมํ  
+<span class="LineNumber"> 007 </span>		สนรามรโลกครุํ 		วนฺเท  สุคตํ  คติวิมุตฺตํ  ฯ  
+<span class="LineNumber"> 008 </span>		พุทฺโธ ปน  พุทฺธภาวํ (๑) 	ภาเวตฺวา  เจว  สจฺฉิกตฺวา  จ  
+<span class="LineNumber"> 009 </span>		ยํ  อุปคโต วิคตมลํ (๒) 	วนฺเท  ตมนุตฺตรํ  ธมฺมํ  ฯ  
+<span class="LineNumber"> 010 </span>		สุคตสฺส  โอรสานํ  		ปุตฺตานํ  มารเสนมถนานํ  
+<span class="LineNumber"> 011 </span>		อฏฺ€นฺนมฺปิ  จ (๓)  สมูหํ 	สิรสา  วนฺเท  อริยสงฺฆํ  ฯ  
+<span class="LineNumber"> 012 </span>	อิติ  เม  ปสนฺนมติโน  รตนตฺตยวนฺทนามยํ  ปุฺํ  ยํ 
+<span class="LineNumber"> 013 </span>สุวิหตนฺตราโย  หุตฺวา  ตสฺสานุภาเวน  ทีฆสฺส  ทีฆสุตฺตงฺกิตสฺส  
+<span class="LineNumber"> 014 </span>นิปุณสฺส  อาคมวรสฺส  พุทฺธานุพุทฺธสํวณฺณิตสฺส  สทฺธาวห-
+<span class="LineNumber"> 015 </span>คุณสฺส  อตฺถปฺปกาสนตฺถํ  อฏฺ€กถา  อาทิโต  วสีสเตหิ  ปฺจหิ  
+<span class="LineNumber"> 016 </span>ยา  สงฺคีตา  อนุสงฺคีตา  จ  ปจฺฉาปิ  สีหฬทีปมฺปน  อาภตาถ 
+<span class="LineNumber"> 017 </span>วสินา  มหามหินฺเทน  €ปิตา  สีหฬภาสาย  ทีปวาสีนมตฺถาย  
+<span class="LineNumber"> 018 </span>อปเนตฺวาน  ตโตหํ  สีหฬภาสํ  มโนรมํ  ภาสํ  ตนฺตินยา-
+<span class="LineNumber"> 019 </span>นุจฺฉวิกํ  อาโรเปนฺโต  วิคตโทสํ  สมยํ  อวิโลเมนฺโต  เถรานํ  
+<span class="LineNumber"> 020 </span># ๑ ม.  พุทฺโธปิ พุทฺธภาวํ  ฯ ๒.  ม.  คตมลํ  ฯ  ๓.  ม.  จสทฺโท  นตฺถิ ฯ

@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>                            <H1>การนับจำนวนวาระในอนุโลม</H1> 
+<span class="LineNumber"> 002 </span>           [๑๖๑๔]  ในเหตุปัจจัย   มี ๓ วาระ   ในอารัมมณปัจจัย  มี ๗ วาระ
+<span class="LineNumber"> 003 </span>ในอธิปติปัจจัย  มี ๗ วาระ  ในอนันตรปัจจัย  มี ๙ วาระ  ในสมนันตรปัจจัย
+<span class="LineNumber"> 004 </span>มี ๙ วาระ   ในสหชาตปัจจัย   มี ๓ วาระ   ในอัญญมัญญปัจจัย    มี ๓ วาระ
+<span class="LineNumber"> 005 </span>ในนิสสยปัจจัย   มี ๓ วาระ   ในอุปนิสสยปัจจัย   มี ๙ วาระ  ในอาเสวนปัจจัย
+<span class="LineNumber"> 006 </span>มี ๕ วาระ  ในกัมมปัจจัย  มี ๕ วาระ  ในวิปากปัจจัย  มี ๓ วาระ  ในอาหาร-
+<span class="LineNumber"> 007 </span>ปัจจัย   มี ๓ วาระ   ในอินทริยปัจจัย   มี ๓ วาระ   ในฌานปัจจัย   มี ๓  วาระ
+<span class="LineNumber"> 008 </span>ในมัคคปัจจัย  มี ๓ วาระ  ในสัมปยุตตปัจจัย  มี ๓ วาระ ในอัตถิปัจจัย มี ๓
+<span class="LineNumber"> 009 </span>วาระ  ในนัตถิปัจจัย   มี ๙ วาระ  ในวิคตปัจจัย   มี ๙ วาระ  ในอวิคตปัจจัย
+<span class="LineNumber"> 010 </span>มี ๓ วาระ.
+<span class="LineNumber"> 011 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 012 </span>                                         <I>อนุโลมนัย  จบ</I>
+
+<span class="LineNumber"> 013 </span>                                             <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 014 </span>                                    <H1>การยกปัจจัยในปัจจนียะ</H1>
+<span class="LineNumber"> 015 </span>           [๑๖๑๕] ๑.  <B>ปริตตารัมมณธรรม  เป็นปัจจัยแก่ปริตตารัมมณ-
+<span class="LineNumber"> 016 </span>ธรรม   ด้วยอำนาจของอารัมมณปัจจัย    เป็นปัจจัย    ด้วยอำนาจของ
+<span class="LineNumber"> 017 </span>สหชาตปัจจัย,   เป็นปัจจัย  ด้วยอำนาจของอุปนิสสยปัจจัย,  เป็นปัจจัย
+<span class="LineNumber"> 018 </span>ด้วยอำนาจของกัมมปัจจัย.</B>

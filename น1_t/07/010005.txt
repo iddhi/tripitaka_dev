@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>	ศาสนาในโลกมีมากมาย  เฉพาะศาสนาใหญ่ ๆ  มีผู้นับถือจำนวน 
+<span class="LineNumber"> 002 </span>มาก  ได้แก่	  
+<span class="LineNumber"> 003 </span>	๑.  ศาสนาพราหมณ์  มีอายุ  ๓,๐๐๐ ปีเศษ
+<span class="LineNumber"> 004 </span>	๒.  ศาสนาพุทธ	     "      ๒,๕. . .  "
+<span class="LineNumber"> 005 </span>	๓.  ศาสนาคริสต์	     "      ๑,๙. . .    "
+<span class="LineNumber"> 006 </span>	๔.  ศาสนาอิสลาม	     "      ๑,๔. . .    "
+<span class="LineNumber"> 007 </span>	ศาสนาต่าง ๆ  เหล่านี้  พิจารณาดูหลักธรรมะต่าง ๆ  ของศาสนา
+<span class="LineNumber"> 008 </span>จะเห็นว่า
+<span class="LineNumber"> 009 </span>	๑.  นับถือธรรมชาติ
+<span class="LineNumber"> 010 </span>	๒.  นับถือผีสางและวิญญาณ
+<span class="LineNumber"> 011 </span>	๓.  สอนให้นับถือพระผู้เป็นเจ้า  ทุกสิ่งทุกอย่างพระผู้เป็นเจ้า
+<span class="LineNumber"> 012 </span>	      เป็นผู้สร้าง
+<span class="LineNumber"> 013 </span>	๔.  ส่วนพระพุทธศาสนาสอนให้เชื่อเหตุผล
+<span class="LineNumber"> 014 </span><B>มูลเหตุที่ทำให้เกิดศาสนา</B>
+<span class="LineNumber"> 015 </span>	๑.  เพราะความไม่รู้
+<span class="LineNumber"> 016 </span>	๒.  เพราะความกลัว
+<span class="LineNumber"> 017 </span>	๓. เพราะความต้องการของสังคม
+<span class="LineNumber"> 018 </span>	๔.  เพราะความจำเป็นของครอบครัว
+

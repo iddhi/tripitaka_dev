@@ -1,0 +1,15 @@
+﻿<span class="LineNumber"> 001 </span>        ภิกษุปฏิญาณการไป   ไม่ปฏิญาณการนั่ง   ปฏิญาณอาบัติ   พึงปรับ
+<span class="LineNumber"> 002 </span>ตามอาบัติ 
+<span class="LineNumber"> 003 </span>       ภิกษุปฏิญาณการไป  ปฏิญาณการนั่ง   ไม่ปฏิญาณอาบัติ  พึงปรับ
+<span class="LineNumber"> 004 </span>เพราะการนั่ง                                                      
+<span class="LineNumber"> 005 </span>        ภิกษุปฏิญาณการไป  ไม่ปฏิญาณการนั่ง   ไม่ปฏิญาณอาบัติ  ไม่พึง
+<span class="LineNumber"> 006 </span>ปรับ
+<span class="LineNumber"> 007 </span>       ภิกษุไม่ปฏิญาณการไป  ปฏิญาณการนั่ง   ปฏิญาณอาบัติ   พึงปรับ
+<span class="LineNumber"> 008 </span>ตามอาบัติ                                     
+<span class="LineNumber"> 009 </span>        ภิกษุไม่ปฏิญาณการไป  ไม่ปฏิญาณการนั่ง  ปฏิญาณอาบัติ  พึงปรับ
+<span class="LineNumber"> 010 </span>ตามอาบัติ
+<span class="LineNumber"> 011 </span>        ภิกษุไม่ปฏิญาณการไป  ปฏิญาณการนั่ง  ไม่ปฏิญาณอาบัติ  พึงปรับ
+<span class="LineNumber"> 012 </span>เพราะการนั่ง
+<span class="LineNumber"> 013 </span>        ภิกษุไม่ปฏิญาณการไป     ไม่ปฏิญาณการนั่ง      ไม่ปฏิญาณอาบัติ
+<span class="LineNumber"> 014 </span>ไม่พึงปรับ
+<span class="LineNumber"> 015 </span>                                 <I>อนิยตสิกขาบทที่  ๑  จบ</I>

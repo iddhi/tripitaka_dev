@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	เอหิปสฺสิกํ  ธมฺมํ  ปจฺจกฺขามิ             ข้าพเจ้าบอกคืนพระธรรมที่ควร
+<span class="LineNumber"> 002 </span>							         เรียกให้มาดู.
+<span class="LineNumber"> 003 </span>	โอปนยิกํ  ธมฺมํ		"	       ข้าพเจ้าบอกคืนพระธรรมอัน
+<span class="LineNumber"> 004 </span>							        ควรน้อมเข้ามาใส่ใจ.
+<span class="LineNumber"> 005 </span>	ปจฺจตฺตํ  เวทิตพฺพํ   วิญฺญูหิ	     ข้าพเจ้าบอกคืนพระธรรมอัน
+<span class="LineNumber"> 006 </span>	ธมฺมํ ปจฺจกฺขามิ			       วิญญูชนพึงรู้เฉพาะตน.  
+<span class="LineNumber"> 007 </span>	อสงฺขตํ  ธมฺมํ		  "		ข้าพเจ้าบอกคืนพระธรรมอัน
+<span class="LineNumber"> 008 </span>							        ปัจจัยมิได้ปรุงแต่ง.
+<span class="LineNumber"> 009 </span>	วิราคํ  ธมฺมํ		    "		 ข้าพเจ้าบอกคืนพระธรรมอัน
+<span class="LineNumber"> 010 </span>							       ปราศจากราคะ.
+<span class="LineNumber"> 011 </span>	นิโรธํ  ธมฺมํ		   "		ข้าพเจ้าบอกคืนพระธรรมอันดับ
+<span class="LineNumber"> 012 </span>							       สนิท.
+<span class="LineNumber"> 013 </span>	อมตํ  ธมฺมํ				     ข้าพเจ้าบอกคืนพระธรรมอัน
+<span class="LineNumber"> 014 </span>							      เป็นอมตะ.
+<span class="LineNumber"> 015 </span>	ทีฆนิกายํ		     "   	      ข้าพเจ้าบอกคืนทีฆนิกาย.
+<span class="LineNumber"> 016 </span>	พฺรหฺมชาลํ		   "		ข้าพเจ้าบอกคืนพรหมชาลสูตร
+<span class="LineNumber"> 017 </span>	มชฺฌิมนิกายํ	        "		ข้าพเจ้าบอกคืนมัชฌิมนิกาย.
+<span class="LineNumber"> 018 </span>	มูลปริยายํ		    "		ข้าพเจ้าบอกคืนมูลปริยายสูตร.
+<span class="LineNumber"> 019 </span>	สํยุตฺตนิกายํ		 "		ข้าพเจ้าบอกคืนสังยุตนิกาย.
+<span class="LineNumber"> 020 </span>	องฺคุตฺตรนิกายํ	    "		ข้าพเจ้าบอกคืนอังคุตตรนิกาย.
+<span class="LineNumber"> 021 </span>	ชาตกนิกายํ	        "		ข้าพเจ้าบอกคืนชาดกนิกาย.
+	
+

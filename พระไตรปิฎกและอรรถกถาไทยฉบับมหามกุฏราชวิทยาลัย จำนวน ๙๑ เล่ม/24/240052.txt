@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>		         	<H1>๕.  กติฉันทิสูตร</H1>  
+
+<span class="LineNumber"> 002 </span>         [๑๑]   เทวดานั้น   ครั้นยืนอยู่   ณ  ที่ควรส่วนข้างหนึ่งแล้วแล    ได้
+<span class="LineNumber"> 003 </span>กราบทูลถามพระผู้มีพระภาคเจ้าด้วยคาถานี้ว่า
+<span class="LineNumber"> 004 </span>                             <B>บุคคลควรตัดเท่าไร    ควรละเท่าไร
+<span class="LineNumber"> 005 </span>                   ควรบำเพ็ญคุณอันยิ่งเท่าไร      ภิกษุล่วง
+<span class="LineNumber"> 006 </span>                   ธรรมเครื่องข้องเท่าไร  พระองค์จึงตรัสว่า
+<span class="LineNumber"> 007 </span>                   เป็นผู้ข้ามโอฆะแล้ว.</B>
+<span class="LineNumber"> 008 </span>         [๑๒]  พระผู้มีพระภาคเจ้าตรัสว่า
+<span class="LineNumber"> 009 </span>                             <B>บุคคลควรตัดสังโยชน์เป็นส่วนเบื้อง
+<span class="LineNumber"> 010 </span>                   ต่ำ  ๕  อย่าง    ควรละสังโยชน์เป็นส่วน
+<span class="LineNumber"> 011 </span>                   เบื้องบน ๕  อย่าง   ควรบำเพ็ญอินทรีย์อัน
+<span class="LineNumber"> 012 </span>                   ยิ่ง  ๕  อย่าง  ภิกษุล่วงธรรมเป็นเครื่องข้อง
+<span class="LineNumber"> 013 </span>                   ๕  อย่าง  เรากล่าวว่าเป็นผู้ข้ามโอฆะแล้ว.</B>

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 37  ภูริทตฺตชาตกํ  หน้า 97
+
+<span class="LineNumber"> 002 </span>		สเจ ทุเห ติทิเว สพฺพกาเม  
+<span class="LineNumber"> 003 </span>		เตวิชฺชสงฺฆาว ปุถู ยเชยฺยุํ  
+<span class="LineNumber"> 004 </span>		น(๑) พฺราหฺมณา(๒) กิฺจิ น ยาชเยยฺยุํ  
+<span class="LineNumber"> 005 </span>		กุโต จ ยูเป มณิสํขมุตฺตํ  
+<span class="LineNumber"> 006 </span>		ธฺํ ธนํ รชตํ ชาตรูปํ  
+<span class="LineNumber"> 007 </span>		สุกฺเขสุ กฏฺเ€สุ นเวสุ จาปิ  
+<span class="LineNumber"> 008 </span>		กุโต ทุเห ติทิเว สพฺพกาเม  
+<span class="LineNumber"> 009 </span>		ส€า จ ลุทฺทา จ ปลุทฺธพาลา  
+<span class="LineNumber"> 010 </span>		จิเตฺรหิ วณฺเณหิ มุขํ นยนฺติ  
+<span class="LineNumber"> 011 </span>		อาทาย อคฺคึ มม เทหิ วิตฺตํ  
+<span class="LineNumber"> 012 </span>		ตโต สุขี โหหิสิ สพฺพกาเม  
+<span class="LineNumber"> 013 </span>		ตมคฺคิหุตฺตํ สรณํ ปวิสฺส  
+<span class="LineNumber"> 014 </span>		จิเตฺรหิ(๓) วณฺเณหิ มุขํ นยนฺติ  
+<span class="LineNumber"> 015 </span>		โอโรปยิตฺวา เกสมสฺสุ(๔) นขฺจ  
+<span class="LineNumber"> 016 </span>		เวเทหิ วิตฺตํ อติคาฬฺหยนฺติ  
+<span class="LineNumber"> 017 </span>		กากา อุลูกํว รโห ลภิตฺวา  
+<span class="LineNumber"> 018 </span>		เอกํ สมานํ พหุกา สเมจฺจ  
+<span class="LineNumber"> 019 </span>		อนฺนานิ โภตฺวา(๕) กุหกา กุหิตฺวา  
+<span class="LineNumber"> 020 </span>		มุณฺฑํ กริตฺวา ยฺปโถสชฺชนฺติ  
+<span class="LineNumber"> 021 </span># ๑. ม. นสทฺโท นตฺถิ ฯ  ๒. ม. อพฺราหฺมณํ ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม.จิตฺเตหิ ฯ  ๔. ม. เกสมสฺสุํ ฯ ๕. ม. ภุตฺวา ฯ 

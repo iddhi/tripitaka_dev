@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>            ที่ชื่อว่า   <B>เวลาวิกาล</B>    ได้แก่   เวลาตั้งแต่อาทิตย์อัศดงคตตราบเท่าถึง
+<span class="LineNumber"> 002 </span>อรุณขึ้น.
+<span class="LineNumber"> 003 </span>            ที่ชื่อว่า  <B>สกุล</B>  ได้แก่  สกุล  ๔  คือ  สกุลกษัตริย์  สกุลพราหมณ์  สกุล
+<span class="LineNumber"> 004 </span>แพศย์   สกุลศูทร.
+<span class="LineNumber"> 005 </span>            บทว่า  <B>เข้าไป</B>   คือ  ไปในสกุลนั้น.
+<span class="LineNumber"> 006 </span>            คำว่า  <B>ไม่บอกพวกเจ้าของบ้าน</B> คือ  ไม่บอกคนในสกุลนั้นซึ่งเป็น
+<span class="LineNumber"> 007 </span>เจ้าของถวาย.
+<span class="LineNumber"> 008 </span>            ที่ชื่อว่า   <B>เครื่องนอน</B>   ได้แก่   เครื่องปูลาด   โดยที่สุดแม้เครื่องลาด
+<span class="LineNumber"> 009 </span>ที่ทำด้วยใบไม้.
+<span class="LineNumber"> 010 </span>            บทว่า   <B>ลาด</B>   คือ   ลาดเอง.
+<span class="LineNumber"> 011 </span>            บทว่า  <B>ให้ลาด</B>  คือ  ใช้คนอื่นลาด.
+<span class="LineNumber"> 012 </span>            บทว่า  <B>นั่ง</B>   คือ  นั่งบนเครื่องนอนที่ลาดนั้น  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 013 </span>            บทว่า  <B>นอน</B>  คือ  นอนบนเครื่องนอนที่ลาดนั้น  ต้องอาบัติปาจิตตีย์
+
+<span class="LineNumber"> 014 </span>		                      <H2>บทภาชนีย์</H2>
+<span class="LineNumber"> 015 </span>                                     <H2>ติกะปาจิตตีย์</H2>
+<span class="LineNumber"> 016 </span>            [๒๐๗]   มิได้บอกเจ้าของ  ภิกษุณีสำคัญว่ามิได้บอก  ลาดก็ดี  ให้ลาด
+<span class="LineNumber"> 017 </span>ก็ดี   ซึ่งเครื่องนอน  แล้วนั่งหรือนอน  ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 018 </span>            มิได้บอกเจ้าของ  ภิกษุณีสงสัย  ลาดก็ดี  ให้ลาดก็ดี   ซึ่งเครื่องนอน
+<span class="LineNumber"> 019 </span>แล้วนั่งหรือนอน   ต้องอาบัติปาจิตตีย์.
+<span class="LineNumber"> 020 </span>            มิได้บอกเจ้าของ   ภิกษุณีสำคัญว่าบอกแล้ว  ลาดก็ดี   ให้ลาดก็ดี   ซึ่ง
+<span class="LineNumber"> 021 </span>เครื่องนอน  แล้วนั่งหรือนอน  ต้องอาบัติปาจิตตีย์.

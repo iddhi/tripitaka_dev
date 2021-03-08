@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>มี ๗ วาระ  ในนปัจฉาชาตปัจจัย   มี ๙ วาระ  ในนอาเสวนปัจจัย   มี ๙ วาระ 
+<span class="LineNumber"> 002 </span>ในนกัมมปัจจัย  มี ๒ วาระ  ในนวิปากปัจจัย  มี ๕ วาระ  ในนสัมปยุตตปัจจัย
+<span class="LineNumber"> 003 </span>มี ๕ วาระ   ในนวิปปยุตตปัจจัย   มี ๓ วาระ   ในโนนัตถิปัจจัย    มี ๕ วาระ
+<span class="LineNumber"> 004 </span>ในโนวิคตปัจจัย  มี ๕ วาระ. 
+<span class="LineNumber"> 005 </span>           พึงนับอย่างนี้
+<span class="LineNumber"> 006 </span>                                         <I>อนุโลมปัจจนียนัย  จบ</I>
+
+<span class="LineNumber"> 007 </span>                                               <H1>ปัจจนียานุโลม</H1>
+<span class="LineNumber"> 008 </span>                              <H1>การนับจำนวนวาระในปัจจนียานุโลม</H1>
+<span class="LineNumber"> 009 </span>           [๑๒๐๒]    เพราะนเหตุปัจจัย  ในอารัมมณปัจจัย  มี ๑ วาระ... ใน
+<span class="LineNumber"> 010 </span>อนันตรปัจจัย  ในสมนันตรปัจจัย  ในสหชาตปัจจัย  ในอัญญมัญญปัจจัย  ใน
+<span class="LineNumber"> 011 </span>นิสสยปัจจัย  ในอุปนิสสยปัจจัย   ในปุเรชาตปัจจัย   ในอาเสวนปัจจัย  ในกัมม-
+<span class="LineNumber"> 012 </span>ปัจจัย  ในวิปากปัจจัย  ในอาหารปัจจัย  ในอินทริยปัจจัย  ในฌานปัจจัย   ใน
+<span class="LineNumber"> 013 </span>มัคคปัจจัย    ในสัมปยุตตปัจจัย    ในวิปปยุตตปัจจัย   ในอัตถิปัจจัย   ในนัตถิ
+<span class="LineNumber"> 014 </span>ปัจจัย    ในวิคตปัจจัย   ในอวิคตปัจจัย   แต่ละปัจจัยมี ๑ วาระ.
+<span class="LineNumber"> 015 </span>           พึงนับอย่างนี้.
+<span class="LineNumber"> 016 </span>                                         <I>ปัจจนียานุโลมนัย  จบ</I>
+<span class="LineNumber"> 017 </span>                                             <I>ปฏิจจาวาระ  จบ</I>
+<span class="LineNumber"> 018 </span>           สหชาตวาระ  เหมือนกับปฏิจจวาระ.
+

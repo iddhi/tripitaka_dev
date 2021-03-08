@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.  มงคลตื่นข่าว   ได้แก่อะไร  ?   ผู้ถือมงคลตื่นข่าว   กับผู้ไม่ถือ
+<span class="LineNumber"> 003 </span>               ต่างกันอย่างไร ?
+<span class="LineNumber"> 004 </span>	๒.  อะไรเรียกว่าเขตบุญ  ?  มีกี่อย่างคืออะไร  ?    ประโยชน์หรือ
+<span class="LineNumber"> 005 </span>              โทษอย่างไรบ้าง  ?
+<span class="LineNumber"> 006 </span>	๓.  เหตุใด   พระพุทธเจ้าจึงทรงสอนให้อุบาสกทำบุญแต่ในพุทธ
+<span class="LineNumber"> 007 </span>               ศาสนา  ?  จะทำบุญในศาสนาอื่นได้บ้างหรือไม่   จงชี้แจง  ?
+<span class="LineNumber"> 008 </span>	๔.  อุบาสก   หมายความว่ากระไร  ต่างจากอุบาสิกาอย่างไร  ?  คุณ
+<span class="LineNumber"> 009 </span>              สมบัติและวิบัติของอุบาสกอุบาสิกามีเท่าไร ?  คืออะไร ?
+<span class="LineNumber"> 010 </span>	๕.  อุบาสกแก้ว,  อุบาสิกาแก้ว,  อุบาสกต่ำช้า,  อุบาสิกาเศร้าหมอง,
+<span class="LineNumber"> 011 </span>               ได้แก่ใคร  ?
+
+<span class="LineNumber"> 012 </span>				<B>	มะเอ๋ย      มะตูม
+<span class="LineNumber"> 013 </span>				มีเกียรติภูมิ   พร้อมสรรพ   คนนับถือ
+<span class="LineNumber"> 014 </span>				ใช้เป็นยา   หลายอย่าง   หมออ้างลือ
+<span class="LineNumber"> 015 </span>				ที่เด่นคือ    เพิ่มธาตุ   ที่ขาดไป.
+<span class="LineNumber"> 016 </span>					อุบาสก    สุดดี   ที่สมบัติ
+<span class="LineNumber"> 017 </span>				ต้องวิรัติ    เรื่องเลว   ไม่เหลวไหล   
+<span class="LineNumber"> 018 </span>				ได้ฟังข่าว   เล่าดี   ที่ใกล้ไกล
+<span class="LineNumber"> 019 </span>				หากด่วนไป   เสียภูมิ   ตื่นตูม   เอย.</B>
+<span class="LineNumber"> 020 </span>									<B>ศรี  ฯ  นคร</B>.

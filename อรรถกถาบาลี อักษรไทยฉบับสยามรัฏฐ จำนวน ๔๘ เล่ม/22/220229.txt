@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ 22  หน้า  229
+	
+<span class="LineNumber"> 002 </span>	 	สมฺมาปริพฺพาชนียสุตฺตวณฺณนา  
+<span class="LineNumber"> 003 </span>	ปุจฺฉามิ  มุนึ  ปหูตปฺนฺติ  สมฺมาปริพฺพาชนียสุตฺตํ(๑)ฯ 
+<span class="LineNumber"> 004 </span>มหาสมยสุตฺตนฺติปิ  วุจฺจติ  มหาสมยทิวเส  กถิตตฺตา ฯ กา 
+<span class="LineNumber"> 005 </span>อุปฺปตฺติฯ  ปุจฺฉาวสิกา อุปฺปตฺติ ฯ  นิมฺมิตพุทฺเธน  หิ  ปุฏฺโ€ 
+<span class="LineNumber"> 006 </span>ภควา อิมํ สุตฺตมภาสิฯ ตํ สทฺธึ ปุจฺฉาย สมฺมาปริพฺพา-
+<span class="LineNumber"> 007 </span>ชนียสุตฺตนฺติปิ  วุจฺจติ ฯ  อยเมตฺถ  สงฺเขโปฯ  วิตฺถารโต  ปน 
+<span class="LineNumber"> 008 </span>สากิยโกลิยานํ อุปฺปตฺติโต ปภุติ โปราเณหิ วณฺณียติ ฯ  ตตฺรายํ  
+<span class="LineNumber"> 009 </span>อุทฺเทสมคฺควณฺณนา  (๒) 
+<span class="LineNumber"> 010 </span>	ป€มกปฺปิกานํ  ปน  รฺโ  มหาสมฺมตสฺส  โรโช  นาม 
+<span class="LineNumber"> 011 </span>ปุตฺโต  อโหสิฯ  โรชสฺส  วรโรโชฯ  วรโรชสฺส  กลฺยาโณฯ  
+<span class="LineNumber"> 012 </span>กลฺยาณสฺส  วรกลฺยาโณฯ  วรกลฺยาณสฺส  มนฺธาตาฯ  
+<span class="LineNumber"> 013 </span>มนฺธาตุสฺส  วรมนฺธาตาฯ  วรมนฺธาตุสฺส  อุโปสโถฯ  อุโปสถสฺส 
+<span class="LineNumber"> 014 </span>วโรฯ  วรสฺส  อุปวโรฯ  (๓)  อุปวรสฺส  มฆเทโวฯ  (๔) มฆเทวสฺสปรมฺปรา
+<span class="LineNumber"> 015 </span>จตุราสีติ  ขตฺติยสหสฺสานิ  อเหสุํ ฯ  เตสํ  ปรโต  ตโย
+<span class="LineNumber"> 016 </span>โอกฺกากวํสา จตุราสีติ  ขตฺติยสหสฺสานิ  อเหสุํ  ฯ เตสํ  ปรโต
+<span class="LineNumber"> 017 </span>ตโย  โอกฺกากวฺสา  อเหสุํ ฯ  ตติยโอกฺกากสฺส  ปฺจ มเหสิโย
+<span class="LineNumber"> 018 </span>อเหสุํฯ  หตฺถา  จิตฺตา  ชนฺตุ ชาลินี วิสาขาติ ฯ เอเกกิสฺสา
+<span class="LineNumber"> 019 </span>ปฺจ ปฺจ อิตฺถิสตานิ ปริวาราฯ  สพฺพเชฏฺ€าย  จตฺตาโร 
+<span class="LineNumber"> 020 </span># ๑. โปราณโปฏฺ€เก มุนิสุตฺตนฺติ ลิขิตํ ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. อุทฺเทสมคฺควณฺณนา ฯ ๓. ม. วโร ฯ  วรสฺส อุปวโร ฯ 
+<span class="LineNumber"> 022 </span># ๔. สี. มขาเทโว ฯ 

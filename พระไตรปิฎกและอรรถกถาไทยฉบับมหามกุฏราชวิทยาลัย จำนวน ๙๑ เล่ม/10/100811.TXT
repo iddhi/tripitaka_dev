@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>           ๑.   ด้วยไม่ละอาย   
+<span class="LineNumber"> 002 </span>           ๒.  ด้วยไม่รู้
+<span class="LineNumber"> 003 </span>           ๓.   ด้วยสงสัยแล้วขืนทำ
+<span class="LineNumber"> 004 </span>           ๔.   ด้วยสำคัญว่าควรในของที่ไม่ควร
+<span class="LineNumber"> 005 </span>           ๕.  ด้วยสำคัญว่าไม่ควรในของที่ควร
+<span class="LineNumber"> 006 </span>           ดูก่อนอุบาลี   ภิกษุต้องอาบัติด้วยอาการ ๕ นี้แล
+<span class="LineNumber"> 007 </span>           ดูก่อนอุบาลี  ภิกษุต้องอาบัติด้วยอาการแม้อื่นอีก  ๕  อาการ ๕  อะไร
+<span class="LineNumber"> 008 </span>บ้าง  คือ:-
+<span class="LineNumber"> 009 </span>           ๑.  ด้วยไม่ได้เห็น
+<span class="LineNumber"> 010 </span>           ๒.  ด้วยไม่ได้ฟัง
+<span class="LineNumber"> 011 </span>           ๓.  ด้วยหลับ
+<span class="LineNumber"> 012 </span>           ๔.   ด้วยเข้าใจว่าเป็นเช่นนั้น
+<span class="LineNumber"> 013 </span>           ๕.  ด้วยลืมสติ
+<span class="LineNumber"> 014 </span>           ดูก่อนอุบาลี   ภิกษุต้องอาบัติด้วยอาการ  ๕  นี้แล.      
+  
+<span class="LineNumber"> 015 </span>                                                <H1>เวร ๕</H1>
+<span class="LineNumber"> 016 </span>                             [๑,๑๙๗]   อุ.   เวรมีเท่าไร่หนอแล   พระพุทธเจ้าข้า
+<span class="LineNumber"> 017 </span>                   พ.  ดูก่อนอุบาลี   เวรนี้มี  ๕  เวร  ๕  อะไรบ้าง   คือ :-
+<span class="LineNumber"> 018 </span>                   ๑.  ฆ่าสัตว์มีชีวิต 
+<span class="LineNumber"> 019 </span>                   ๒.  ถือเอาสิ่งของที่เจ้าของไม่ให้
+<span class="LineNumber"> 020 </span>                   ๓.  ประพฤติผิดในกาม

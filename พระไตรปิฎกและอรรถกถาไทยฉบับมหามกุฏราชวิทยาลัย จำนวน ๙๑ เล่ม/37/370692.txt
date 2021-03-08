@@ -1,0 +1,5 @@
+﻿<span class="LineNumber"> 001 </span>                 <H2>รวมพระสูตรที่มีในวรรคนี้  คือ</H2>
+<span class="LineNumber"> 002 </span>         ๑.   สติสูตร   ๒.  ปุณณิยสูตร   ๓.   มูลสูตร   ๔.  โจรสูตร
+<span class="LineNumber"> 003 </span>๕.  สมณสูตร     ๖.   ยสสูตร     ๗.  ปัตตสูตร     ๘.   อัปปสาทสูตร
+<span class="LineNumber"> 004 </span>๙.   ปฏิสารณียสูตร    ๑๐.   วัตตสูตร.
+<span class="LineNumber"> 005 </span>                                   <I>จบ   สติวรรคที่  ๙</I>     

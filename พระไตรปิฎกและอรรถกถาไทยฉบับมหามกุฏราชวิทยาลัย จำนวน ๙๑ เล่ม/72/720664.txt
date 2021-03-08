@@ -1,0 +1,7 @@
+﻿<span class="LineNumber"> 001 </span>       		 <H1>รวมอปทานที่มีในวรรค</H1>นี้  คือ
+<span class="LineNumber"> 002 </span>	<B> ๑.  กุณฑลเกสีเถรีอปทาน  ๒.  กิสาโคตมีเถรีอปทาน  ๓.  ธรรม-
+<span class="LineNumber"> 003 </span>ทินนาเถรีอปทาน  ๔.  สกุลาเถรีอปทาน  ๕.  นันทาเถรีอปทาน  ๖.  โสณา-
+<span class="LineNumber"> 004 </span>เถรีอปทาน  ๗.  ภัททกาปิลานีเถรีอปทาน  ๘.  ยโสธราเถรีอปทาน  ๙.  ทส-
+<span class="LineNumber"> 005 </span>สหัสสเถรีอปทาน  ๑๐.  อัฏฐารสสหัสสเถรีอปทาน
+<span class="LineNumber"> 006 </span>	บัณฑิตคำนวณคาถาได้  ๔๗๘  คาถา.
+<span class="LineNumber"> 007 </span>			จบกุณฑลเกสวรรคที่  ๓</B>

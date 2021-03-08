@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>สัตตมภวิกกถา</H1> 
+
+<span class="LineNumber"> 002 </span>         [๑๕๑๒]   <B>ปรวาที</B>   ไม่พึงกล่าวว่า    บุคคลผู้มีภพที่  ๗  เป็นอย่างยิ่ง
+<span class="LineNumber"> 003 </span>ละทุคคติได้   หรือ ?
+<span class="LineNumber"> 004 </span>                        <B>สกวาที</B>  ถูกแล้ว.
+<span class="LineNumber"> 005 </span>                        ส. บุคคลผู้มีภพที่   ๗  เป็นอย่างยิ่ง  พึงเข้าถึงนรก  พึง 
+<span class="LineNumber"> 006 </span>เข้าถึงกำเนิดดิรัจฉาน   พึงเข้าถึงภูมิแห่งเปรต  หรือ ?
+<span class="LineNumber"> 007 </span>                        ป. ไม่พึงกล่าวอย่างนั้น   ฯลฯ
+<span class="LineNumber"> 008 </span>                        ส.  ถ้าอย่างนั้น   บุคคลเกิดในภพที่  ๗  ก็ละทุคคติได้  น่ะสิ.
+<span class="LineNumber"> 009 </span>                                   <I>สัตตมภวิกกถา  จบ</I>
+<span class="LineNumber"> 010 </span>       <H2>อรรถกถาสัตตมภวิกกถาวัณณนายปิ  เอเสว  นโยติ</H2>
+<span class="LineNumber"> 011 </span>         แม้ในการพรรณนากถาว่าด้วย  พระโสดาบันผู้มีภพที่   ๗   ก็นัยนี้
+<span class="LineNumber"> 012 </span>นั่นแหละ   คือเช่นเดียวกับเรื่องบุคคลผู้มีทิฏฐิสมบัติ   ดังนี้แล.
+<span class="LineNumber"> 013 </span>                           <I>อรรถกถาสัตตมภวิกกถา  จบ</I>
+
+<span class="LineNumber"> 014 </span>                       <H2>รวมกถาที่มีในวรรคนี้คือ</H2>
+
+<span class="LineNumber"> 015 </span>         ๑.  สังวโรกัมมันติกถา    ๒. กัมมกถา     ๓. สัทโทวิปาโกติกถา
+<span class="LineNumber"> 016 </span>๔.  สฬายตนกถา    ๕. สัตตักขัตตุปรมกถา    ๖. โกลังโกลเอกพีธีกถา
+<span class="LineNumber"> 017 </span>๗.   ชีวิตาโวโรปนกถา   ๘. ทุคคติกถา   ๙. สัตตมภวิกกถา.
+<span class="LineNumber"> 018 </span>                                  <I>วรรคที่  ๑๒  จบ</I>

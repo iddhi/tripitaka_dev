@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่  ๕  หน้า  ๑
+		
+<span class="LineNumber"> 002 </span>			สุมงฺคลวิลาสินี  นาม  ทีฆนิกายฏฺ€กถา
+<span class="LineNumber"> 003 </span>			มหาวคฺควณฺณนา
+	
+<span class="LineNumber"> 004 </span>			นโม  ตสฺส  ภควโต  อรหโต  สมฺมาสมฺพุทฺธสฺส ฯ  
+<span class="LineNumber"> 005 </span>			มหาปทานสุตฺตวณฺณนา  
+<span class="LineNumber"> 006 </span>				สุตฺตนิทานวณฺณนา
+<span class="LineNumber"> 007 </span>	เอวมฺเม  สุตํ ฯเป ฯ  กเรริกุฏิกายนฺติ  มหาปทานสุตฺตํ ฯ  
+<span class="LineNumber"> 008 </span>	ตตฺรายํ  อนุปุพฺพปทวณฺณนา  กเรริกุฏิกายนฺติ  กเรรีติ  
+<span class="LineNumber"> 009 </span>วรุณรุกฺขสฺส  นามํ ฯ  กเรริมณฺฑโป  ตสฺสา  กุฏิกาย  ทฺวาเร
+<span class="LineNumber"> 010 </span>€ิโต ฯ  ตสฺมา  กเรริกุฏิกาติ  วุจฺจติ ฯ  ยถา  โกสมฺพรุกฺขสฺส 
+<span class="LineNumber"> 011 </span>ทฺวาเร  €ิตตฺตา  โกสมฺพกุฏิกาติ ฯ  อนฺโตเชตวเน  กิร  กเรริกุฏิ  
+<span class="LineNumber"> 012 </span>โกสมฺพกุฏิ  คนฺธกุฏิ  สฬลฆรนฺติ  (๑)  จตฺตาริ  มหาเคหานิ ฯ  เอเกกุํ  
+<span class="LineNumber"> 013 </span>สตสหสฺสปริจฺจาเคน  นิปฺผนฺนํ ฯ  เตสุ  สฬลฆรุํ  รฺา 
+<span class="LineNumber"> 014 </span>ปเสนทินา  การิตํ ฯ  เสสานิ  อนาถปิณฺฑิเกน  (๒)  การิตานิ ฯ  (๓)  อิติ  
+<span class="LineNumber"> 015 </span>ภควา  อนาถปิณฺฑิเกน คหปตินา  ถมฺภานน  อุปริ  การิตาย  
+<span class="LineNumber"> 016 </span>เทววิมานกปฺปาย  กเรริกุฏิกายํ  วิหรติ ฯ  
+<span class="LineNumber"> 017 </span>	ปจฺฉาภตฺตนฺติ  เอกาสนิกขลุปจฺฉาภตฺติกานํ  ปาโตว  (๔)
+<span class="LineNumber"> 018 </span>ภุตฺตานํ  อนฺโตมชฺฌนฺติเกปิ  (๕)  ปจฺฉาภตฺตเมว ฯ  อิธ  ปน  
+<span class="LineNumber"> 019 </span>#  ๑.  ม.  สลฬาคารนฺติ ฯ  เอวมุปริปิ ฯ  
+<span class="LineNumber"> 020 </span>๒.  สี.  ยุ.  อนาถปิณฺฑิกคหปตินา ฯ  
+<span class="LineNumber"> 021 </span>๓.  สี.  ยุ.  อยํ  ปาโ€  นตฺถิ ฯ  ๔.  สี.  ยุ.  ปาโต ฯ  
+<span class="LineNumber"> 022 </span>๕.  ม.  อนฺโตมชฺฌนฺหิเกปิ ฯ

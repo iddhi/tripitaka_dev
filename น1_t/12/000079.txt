@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>                              คำถามสอบความเข้าใจ  
+<span class="LineNumber"> 002 </span>	๑.   อคติ   แปลว่ากระไร  ?   ตรงกับภาษาไทยว่ากระไร  ?
+<span class="LineNumber"> 003 </span>	๒.  การรักใคร่ชอบพอกันนั้น   เป็นความดี   แต่เหตุใด   ท่านจึง
+<span class="LineNumber"> 004 </span>              สอนว่า  ไม่ควรถึง   ไม่ควรประพฤติด้วยอำนาจความรักใคร่กัน  ?
+<span class="LineNumber"> 005 </span>	๓.  โทสาคติ  แปลว่ากระไร  ?  คนประพฤติอย่างไร   ท่านจึงเรียก
+<span class="LineNumber"> 006 </span>              ว่า   ลำเอียงเพราะไม่ชอบกัน  ?
+<span class="LineNumber"> 007 </span>	๔.   คนที่เขามาฟ้องว่าลูกของท่านไปรังแกลูกฉัน  ดังนี้แล้ว  ก็ลง
+<span class="LineNumber"> 008 </span>               โทษแก่ลูกของตนตามคำฟ้องนั้นทันที    ดังนี้จะจัดว่ายุติธรรม
+<span class="LineNumber"> 009 </span>               หรือไม่  ?   จะเรียกว่าอย่างไรจึงจะถูกต้อง  ?
+<span class="LineNumber"> 010 </span>	๕.   คนที่ประพฤติเช่นไร   เรียกว่า  ตกอยู่ในอำนาจภยาคติ  ?
+<span class="LineNumber"> 011 </span>	๖.   อยากได้ชื่อว่าเป็นคนเที่ยงธรรม   จะต้องปฏิบัติอย่างไร ?
+<span class="LineNumber"> 012 </span>	๗.   คนที่ให้รางวัลแก่คนที่ไม่ควรให้,   คนที่ไม่ให้รางวัลแก่คนที่
+<span class="LineNumber"> 013 </span>                ควรได้,   คนที่ตัดสินความโดยไม่ทันพิจารณาให้รอบคอบ.
+<span class="LineNumber"> 014 </span>                คนที่ไม่กล้าลงโทษแก่ผู้ประพฤติผิด,   คนไหนจัดได้ว่าลุอำนาจ
+<span class="LineNumber"> 015 </span>                อคติข้อไหน  ?
+<span class="LineNumber"> 016 </span>	๘.    ผู้ใหญ่จะต้องวางตัวอย่างไร   จึงจะเป็นผู้น่าเคารพนับถือของ
+<span class="LineNumber"> 017 </span>                 ผู้น้อย  ?
+						
+<span class="LineNumber"> 018 </span>					<B>อคติ     ทั้งสี่    ไม่ดีชัด
+<span class="LineNumber"> 019 </span>				ใครปฏิบัติ   อาภัพ   แสนอับเฉา
+<span class="LineNumber"> 020 </span>				ถึงมียศ   สูงศักดิ์    ชักให้เพลา
+<span class="LineNumber"> 021 </span>				ดุจจันทร์เนา  เมฆหมอก    ไม่ออกมา.</B>
+<span class="LineNumber"> 022 </span>										<B>ศรี  ฯ  นคร.</B>

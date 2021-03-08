@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>		 	       <H1>อเหตุกบทปัญหาวาระ</H1>	 	
+<span class="LineNumber"> 002 </span>			            <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 003 </span>			         <H2>๑. เหตุปัจจัย</H2>	
+<span class="LineNumber"> 004 </span>		[๔๘๗]  ๑.  อเหตุกธรรมที่เป็นอกุศล  เป็นปัจจัยแก่อเหตุก-
+<span class="LineNumber"> 005 </span>ธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 006 </span>               	    <H2>๒. อารัมมณปัจจัย</H2> 
+<span class="LineNumber"> 007 </span>		[๔๘๘]  ๑.  อเหตุธรรมที่เป็นอกุศล     เป็นปัจจัยแก่อเหตุก-
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นอกุศล  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 009 </span>                        ๒.  อเหตุกธรรมที่เป็นอกุศล     เป็นปัจจัยแก่อเหตุก-
+<span class="LineNumber"> 010 </span>ธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 011 </span>                        ๓.  อเหตุกธรรมที่เป็นอัพยากตะ      เป็นปัจจัยแก่
+<span class="LineNumber"> 012 </span>อเหตุกธรรมที่เป็นอัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 013 </span>                        ๔.  อเหตุกธรรมที่เป็นอัพยากตะ      เป็นปัจจัยแก่
+<span class="LineNumber"> 014 </span>อเหตุกธรรมที่เป็นอกุศล  ด้วยอำนาจของอารัมมณปัจจัย
+<span class="LineNumber"> 015 </span>               	    <H2>๓.  อนันตรปัจจัย</H2>
+<span class="LineNumber"> 016 </span>		[๔๘๙]  ๑.  อเหตุธรรมที่เป็นอกุศล เป็นปัจจัยแก่อเหตุก-
+<span class="LineNumber"> 017 </span>ธรรมที่เป็นอกุศล  ด้วยอำนาจของอนันตรปัจจัย                        

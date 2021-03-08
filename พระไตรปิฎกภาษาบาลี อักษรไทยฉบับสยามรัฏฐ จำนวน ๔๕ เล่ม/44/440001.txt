@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>				      อภิธมฺมปิฏเก ปฏฺ€านํ  
+<span class="LineNumber"> 002 </span>					 ปฺจโม ภาโค         
+<span class="LineNumber"> 003 </span>				      อนุโลมทุกตฺติกปฏฺ€านํ    
+<span class="LineNumber"> 004 </span>					 ______________          
+<span class="LineNumber"> 005 </span>		นโม ตสฺส ภควโต อรหโต สมฺมาสมฺพุทฺธสฺส ฯ   
+<span class="LineNumber"> 006 </span>					 เหตุทุกกุสลตฺติกํ   
+<span class="LineNumber"> 007 </span>					  ปฏิจฺจวาโร         
+<span class="LineNumber"> 008 </span>	[๑]  เหตุํ  กุสลํ  ธมฺมํ  ปฏิจฺจ  เหตุ  กุสโล  ธมฺโม  อุปฺปชฺชติ   
+<span class="LineNumber"> 009 </span>เหตุปจฺจยา:   เหตุํ   กุสลํ   ธมฺมํ   ปฏิจฺจ   นเหตุ   กุสโล   ธมฺโม  
+<span class="LineNumber"> 010 </span>อุปฺปชฺชติ   เหตุปจฺจยา:   เหตุํ   กุสลํ  ธมฺมํ  ปฏิจฺจ  เหตุ  กุสโล  จ  
+<span class="LineNumber"> 011 </span>นเหตุ   กุสโล   จ  ธมฺมา  อุปฺปชฺชนฺติ  เหตุปจฺจยา:  ฯ  นเหตุํ  กุสลํ    
+<span class="LineNumber"> 012 </span>ธมฺมํ   ปฏิจฺจ   นเหตุ   กุสโล  ธมฺโม  อุปฺปชฺชติ  เหตุปจฺจยา:  นเหตุํ   
+<span class="LineNumber"> 013 </span>กุสลํ   ธมฺมํ   ปฏิจฺจ   เหตุ   กุสโล   ธมฺโม  อุปฺปชฺชติ  เหตุปจฺจยา:  
+<span class="LineNumber"> 014 </span>นเหตุํ   กุสลํ   ธมฺมํ   ปฏิจฺจ   เหตุ   กุสโล   จ  นเหตุ  กุสโล  จ   
+<span class="LineNumber"> 015 </span>ธมฺมา   อุปฺปชฺชนฺติ   เหตุปจฺจยา:   ฯ  เหตุํ  กุสลฺจ  นเหตุํ  กุสลฺจ   
+<span class="LineNumber"> 016 </span>ธมฺมํ   ปฏิจฺจ   เหตุ   กุสโล   ธมฺโม   อุปฺปชฺชติ  เหตุปจฺจยา:  เหตุํ   
+<span class="LineNumber"> 017 </span>กุสลฺจ    นเหตุํ   กุสลฺจ   ธมฺมํ   ปฏิจฺจ   นเหตุ   กุสโล   ธมฺโม  

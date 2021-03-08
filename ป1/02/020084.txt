@@ -1,0 +1,19 @@
+﻿<span class="LineNumber"> 001 </span>จ.  	มยฺหํ  อมฺหํ  มม  มมํ  เม		อมฺหากํ	อสฺมากํ   โน  
+<span class="LineNumber"> 002 </span>ปญฺ.	มยา						อมฺเหหิ 
+<span class="LineNumber"> 003 </span>ฉ.	มยฺหํ  อมฺหํ  มม  มมํ  เม		อมฺหากํ   อสฺมากํ  โน
+<span class="LineNumber"> 004 </span>ส.	มยิ						อมฺเหสุ
+<span class="LineNumber"> 005 </span>                      วิธีเปลี่ยน   วิภัตติ  และ  การันต์
+<span class="LineNumber"> 006 </span>๑  เอา  อมฺห  กับ  วิภัตติ   นั้น  ๆ  เป็นรูปนั้น ๆ.
+<span class="LineNumber"> 007 </span>๒  เม  โน  มีบทอื่นนำหน้าจึงมีได้.
+
+<span class="LineNumber"> 008 </span>                   วิธีแจก  วิเสสนสัพพนาม  นิยมานิยม.
+<span class="LineNumber"> 009 </span>         [๘๖]  ย  ศัพท์  ใด  ในปุํลิงค์  แจกอย่างนี้ :-
+<span class="LineNumber"> 010 </span>------------------------------------------------------------------------
+<span class="LineNumber"> 011 </span>		เอก.						พหุ.
+<span class="LineNumber"> 012 </span>ป.	โย					เย
+<span class="LineNumber"> 013 </span>ทุ.	ยํ					เย
+<span class="LineNumber"> 014 </span>ต.	เยน					เยหิ
+<span class="LineNumber"> 015 </span>จ.	ยสฺส					เยสํ  เยสานํ
+<span class="LineNumber"> 016 </span>ปญฺ.	ยสฺมา   ยมฺหา 			เยหิ
+<span class="LineNumber"> 017 </span>ฉ.	ยสฺส					เยสํ  เยสานํ
+<span class="LineNumber"> 018 </span>ส.	ยสฺมึ  ยมฺหิ			เยสุ

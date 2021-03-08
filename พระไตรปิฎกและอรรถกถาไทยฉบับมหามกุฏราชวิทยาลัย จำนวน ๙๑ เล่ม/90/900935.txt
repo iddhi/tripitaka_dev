@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>                         ๒.  อรูปีธรรมที่เป็นอกุศล     เป็นปัจจัยแก่อรูปีธรรม 
+<span class="LineNumber"> 002 </span>ที่เป็นอกุศล  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 003 </span>                          ๓.   อรูปีธรรมที่เป็นอัพยากตะเป็นปัจจัยแก่อรูปีธรรม
+<span class="LineNumber"> 004 </span>ที่เป็นอัพยากตะ  ด้วยอำนาจของเหตุปัจจัย
+<span class="LineNumber"> 005 </span>                         	<H2>๒.  อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 006 </span>		[๖๐๔]  ๑.  อรูปีธรรมที่เป็นกุศล       เป็นปัจจัยแก่อรูปีธรรม
+<span class="LineNumber"> 007 </span>ที่เป็นกุศล  ด้วยอำนาจของอารัมมณปัจจัย  มี ๓ วาระ.
+<span class="LineNumber"> 008 </span>                         ๔.  อรูปีธรรมที่เป็นอกุศล    เป็นปัจจัยแก่อรูปีธรรม
+<span class="LineNumber"> 009 </span>ที่เป็นอกุศล  ด้วยอำนาจของอารัมมณปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 010 </span>                         ๗.  อรูปีธรรมที่เป็นอัพยากตะ เป็นปัจจัยแก่อรูปีธรรม
+<span class="LineNumber"> 011 </span>ที่เป็นอัพยากตะ  ด้วยอำนาจของอารัมมณปัจจัย  มี  ๓  วาระ.
+<span class="LineNumber"> 012 </span>                       <H2>การนับจำนวนวาระในอนุโลม</H2>
+<span class="LineNumber"> 013 </span>		[๖๐๕]  ในเหตุปัจจัย  มี   ๓ วาระ    ในอารัมมณปัจจัย  มี  ๙ วาระ
+<span class="LineNumber"> 014 </span>ในอธิปติปัจจัย  มี  ๗ วาระ  ฯลฯ  ในอวิคตปัจจัย มี ๓ วาระ.
+<span class="LineNumber"> 015 </span>		แม้ในปัญหาวาระในกุสลติกะฉันใด  พึงให้พิสดารฉันนั้น.
+<span class="LineNumber"> 016 </span>                       	      <I>กุสลติกรูปีทุกะ  จบ</I>

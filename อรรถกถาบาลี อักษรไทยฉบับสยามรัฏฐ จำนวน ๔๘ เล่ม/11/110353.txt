@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ ๑๑  สตฺติสุตฺตวณฺณนา  หน้า ๓๕๓
+
+<span class="LineNumber"> 002 </span>อคฺคถนากฑฺฒนมตฺตนฺติ  อตฺโถ ฯ คนฺธอูหนมตฺตํ  วา  (๑)
+<span class="LineNumber"> 003 </span>ทฺวีหงฺคุลีหิ  คนฺธปิณฺฑํ คเหตฺวา เอกวารํ ฆายนมตฺตนฺติ 
+<span class="LineNumber"> 004 </span>อตฺโถ ฯ  เอตฺตกํปิ คิหิกาเล(๒)  โย  ปน  คพฺภปริเวณวิหารุปจาร-
+<span class="LineNumber"> 005 </span>ปริจฺเฉเทน  วา  จกฺกวาฬปริจฺเฉเทน  วา  อปริมานาสุ  จตูสุ
+<span class="LineNumber"> 006 </span>วา    สพฺพสตฺเตสุ  หิตผรณํ  เมตฺตจิตฺตํ  ภาเวตุํ สกฺโกติ อิทํ 
+<span class="LineNumber"> 007 </span>ตโต เอกทิวสํ ติกฺขตฺตุํ ทินฺนทานโต มหปฺผลตรํ ฯ 
+<span class="LineNumber"> 008 </span>				จตุตฺถํ ฯ                     
+
+<span class="LineNumber"> 009 </span>			สตฺติสุตฺตวณฺณนา           
+<span class="LineNumber"> 010 </span>	ปฺจเม  ปฏิเลณิสฺสามีติอาทีสุ  อคฺเค  ปหริตฺวา  
+<span class="LineNumber"> 011 </span>กปฺปาสวฏฺฏึ วิย  นาเมนฺโต  นิยฺยาสวฏฺฏึ  วิย  จ  เอกโต  
+<span class="LineNumber"> 012 </span>กตฺวา  อลฺลิยาเปนฺโต  ปฏิเลเณติ  นาม ฯ  มชฺเฌ  ปหริตฺวา 
+<span class="LineNumber"> 013 </span>นาเมตฺวา  ธาราย  วา  ปหริตฺวา  เทฺวปิ  ธารา เอกโต   
+<span class="LineNumber"> 014 </span>อลฺลิยาเปนฺโต  ปฏิโกฏฺเฏติ  นาม ฯ  กปฺปาสวฏฺฏนกรณียํ (๓) วิย 
+<span class="LineNumber"> 015 </span>ปวตฺเตนฺโต  จิรํ กาลํ  ปเวลิตกิลฺชํ   ปสาเรตฺวา  ปุน  
+<span class="LineNumber"> 016 </span>สํเวลนฺโต   วิย  ปฏิวฏฺเฏติ  นาม  
+<span class="LineNumber"> 017 </span>			ปฺจมํ ฯ                     
+<span class="LineNumber"> 018 </span># ๑. สี. คนฺธูหนมตฺตํ วา ฯ ม. คนฺธอูหนมตฺตํ วา ฯ
+<span class="LineNumber"> 019 </span># ๒. ม. หิ กาลํ ฯ  ๓. สี. กปฺปาสวฏฺฏนกฬายํ ฯ
+<span class="LineNumber"> 020 </span># ม. กปฺปาสวฏฺฏนกรณียํ ฯ

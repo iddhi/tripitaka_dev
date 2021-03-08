@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  45  สิวิราชจริยาวณฺณนา  หน้า  111
+
+<span class="LineNumber"> 002 </span>	ราชา เอตฺตกํ กเถตฺวา อยํ พฺราหฺมโณ สกฺเกน 
+<span class="LineNumber"> 003 </span>อนุสิฏฺโ€ อิธาคโตสฺมีติ  ภณติ  นูน  อิมสฺส  อิมินา  อุปาเยน 
+<span class="LineNumber"> 004 </span>จกฺขุ  สมฺปชฺชิสฺสตีติ  ตฺวา อิเธว มยา  จกฺขูนิ  อุปฺปาเฏตฺวา 
+<span class="LineNumber"> 005 </span>ทาตุํ อสารุปฺปนฺติ จินฺเตตฺวา พฺราหฺมณํ อาทาย อนฺเตปุรํ  
+<span class="LineNumber"> 006 </span>คนฺตฺวา  ราชาสเน  นิสีทิตฺวา  สิวกํ (๑) นาม เวชฺชํ ปกฺโกสาเปสิ ฯ
+<span class="LineNumber"> 007 </span>อถ อมฺหากํ กิร  ราชา  อกฺขีนิ  อุปฺปาเฏตฺวา พฺราหฺมณสฺส 
+<span class="LineNumber"> 008 </span>ทาตุกาโมติ สกลนคเร เอกโกลาหลํ อโหสิ ฯ  อถ นํ รฺโ
+<span class="LineNumber"> 009 </span>าติเสนาปติอาทโย ราชวลฺลภา อมจฺจา ปาริสชฺชา นาครา 
+<span class="LineNumber"> 010 </span>โอโรธา จ สพฺเพ  สนฺนิปติตฺวา นานาอุปาเยหิ นิวาเรสุํ ฯ
+<span class="LineNumber"> 011 </span>ราชาปิ เน อนุวาเรสิ ฯ เตนาห  
+<span class="LineNumber"> 012 </span>		มา โน เทว อทา จกฺขุํ		มา โน สพฺเพ ปรากริ (๒)  
+<span class="LineNumber"> 013 </span>		ธนํ เทมิ มหาราช		มุตฺตา เวฬุริยา พหู ฯ  
+<span class="LineNumber"> 014 </span>		ยุตฺเต เทว รเถ เทหิ		อาชานีเย อลงฺกเต  
+<span class="LineNumber"> 015 </span>		นาเค เทหิ มหาราช		เหมกปฺปนวาสเส (๓) ฯ  
+<span class="LineNumber"> 016 </span>		ยถา ตํ สิวโย สพฺเพ		สโยคฺคา สรถา สทา  
+<span class="LineNumber"> 017 </span>		สมนฺตา ปริกเรยฺยุํ		เอวํ เทหิ รเถสภาติ (๔) ฯ   
+<span class="LineNumber"> 018 </span>อถ ราชา ติสฺโส คาถา อภาสิ  
+<span class="LineNumber"> 019 </span>	โย เว ทสฺสนฺติ วตฺวาน	อทาเน กุรุเต มโน  
+<span class="LineNumber"> 020 </span>	ภูมฺยํ โส ปติตํ ปาสํ		คีวายํ ปฏิมุฺจติ ฯ  
+<span class="LineNumber"> 021 </span># ๑. สี. สีวกํ ฯ  ๒. สี. ปรกฺกริ ฯ  ๓. สฺยา. เหมกปฺปนิวาสเส ฯ
+<span class="LineNumber"> 022 </span># ๔. ขุ. ชา. ๒๗/๒๐๖๙/๔๒๐ ฯ

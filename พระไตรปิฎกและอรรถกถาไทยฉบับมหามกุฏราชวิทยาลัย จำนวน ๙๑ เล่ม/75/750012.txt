@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>ไว้โดยสิ้นเชิงด้วยอำนาจแห่งนัยแม้ทั้งสามเหมือนกัน    ก็ในธรรมเหล่านี้   นัยที่
+<span class="LineNumber"> 002 </span>เป็นสุตตันตภาชนีย์ในสิกขาบทวิภังค์อย่างเดียวไม่มี     ถ้าเพ่งถึงพระสูตรแล้ว
+<span class="LineNumber"> 003 </span>ญาณ    พระองค์ก็ทรงจำแนกไว้โดยเอกเทศเหมือนกัน     ไม่จำแนกโดยสิ้นเชิง
+<span class="LineNumber"> 004 </span>กิเลสทั้งหลายก็เหมือนกัน    แต่เพ่งถึงพระอภิธรรมแล้ว    ทรงตั้งมาติกาโดยนัย
+<span class="LineNumber"> 005 </span>มีอาทิว่า ญาณวัตถุมีหมวด  ๑ เป็นต้น   แล้วจำแนกไว้โดยสิ้นเชิง กิเลสทั้งหลาย
+<span class="LineNumber"> 006 </span>ก็เหมือนกัน  ทรงจำแนกไว้โดยนัยมิใช่น้อย  ตั้งแต่เป็นธรรมหมวด  ๑ เป็นต้น 
+<span class="LineNumber"> 007 </span>ก็แต่เพ่งถึงพระสูตร  การกำหนดภูมิอื่น    ก็ทรงจำแนกไว้โดยเอกเทศนั่นแหละ
+<span class="LineNumber"> 008 </span>ไม่จำแนกไว้โดยสิ้นเชิง    เพ่งถึงพระอภิธรรมแล้ว   ทรงกำหนดภูมิอื่นไว้ด้วย
+<span class="LineNumber"> 009 </span>นัยทั้งสาม   และทรงบัญญัติไว้โดยสิ้นเชิง    ชื่อว่า   <B>อภิธรรม</B>   เพราะอรรถว่า
+<span class="LineNumber"> 010 </span>เป็นธรรมยิ่งและวิเศษด้วยประการฉะนี้.
+
+<span class="LineNumber"> 011 </span>                           <H1>ว่าโดยปกรณ์  ๗</H1>
+
+<span class="LineNumber"> 012 </span>         ว่าโดยการกำหนดปกรณ์    พระอภิธรรมนี้ทรงตั้งไว้ด้วยอำนาจปกรณ์
+<span class="LineNumber"> 013 </span>๗  คือ                                                                             
+<span class="LineNumber"> 014 </span>                      <B>๑.  ธรรมสังคณีปกรณ์
+<span class="LineNumber"> 015 </span>                      ๒.  วิภังคปกรณ์
+<span class="LineNumber"> 016 </span>                      ๓.  ธาตุกถาปกรณ์
+<span class="LineNumber"> 017 </span>                      ๔.  ปุคคลบัญญัติปกรณ์
+<span class="LineNumber"> 018 </span>                      ๕.  กถาวัตถุปกรณ์
+<span class="LineNumber"> 019 </span>                      ๖.  ยมกปกรณ์
+<span class="LineNumber"> 020 </span>                      ๗.  ปัฏฐานปกรณ์</B>

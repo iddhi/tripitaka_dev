@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 39  มหานิทฺเทสวณฺณนา  หน้า  30
+
+<span class="LineNumber"> 002 </span>เจตสิกวีริโย โหติ คมเน  อุปฺปนฺนกิเลสํ  €านํ  ปาปุณิตุํ  น 
+<span class="LineNumber"> 003 </span>เทติ  €าเน  อุปฺปนฺนกิเลสํ  นิสชฺชํ นิสชฺชาย อุปฺปนฺนกิเลสํ 
+<span class="LineNumber"> 004 </span>สยนํ ปาปุณิตุํ น เทติ  มนฺเตน(๑) กณฺหสปฺปํ อุปฺปีเฬตฺวา 
+<span class="LineNumber"> 005 </span>คณฺหนฺโต  วิย  อมิตฺตํ  คีวายํ อกฺกมนฺโต วิย จ วิจรติ 
+<span class="LineNumber"> 006 </span>ตาทิสสฺส อารทฺธวีริยสฺส วณฺณํ ภณนฺโต วีริยารมฺภกถํ กเถติ 
+<span class="LineNumber"> 007 </span>นาม ฯ  
+<span class="LineNumber"> 008 </span>	สีลกถนฺติอาทีสุ  สีลนฺติ  จตุปาริสุทฺธิสีลํ ฯ  สมาธีติ  วิปสฺสนา-
+<span class="LineNumber"> 009 </span>ปาทกา  อฏฺ€ สมาปตฺติโย ฯ  ปฺาติ  โลกิยโลกุตฺตราณํ ฯ  
+<span class="LineNumber"> 010 </span>วิมุตฺตีติ  อริยผลวิมุตฺติ(๒)ฯ วิมุตฺติาณทสฺสนนฺติ  เอกูนวีสติวิธํ 
+<span class="LineNumber"> 011 </span>ปจฺจเวกฺขณาณํ ฯ  สีลาทีนํ คุณํ ปกาเสนฺโต สีลาทิกถํ กเถติ 
+<span class="LineNumber"> 012 </span>นาม ฯ  
+<span class="LineNumber"> 013 </span>	สติปฏฺ€านกถนฺติอาทีนิ  สงฺคชาลมติจฺจ  โส  มุนีติ
+<span class="LineNumber"> 014 </span>ปริโยสานานิ  ปุพฺเพ วุตฺตานุสาเรน เวทิตพฺพานิ ฯ  
+<span class="LineNumber"> 015 </span>	นิราสตฺตีติ  นิตฺตโณฺห ฯ  วิเวกทสฺสี  ผสฺเสสูติ  ปจฺจุปฺปนฺเนสุ 
+<span class="LineNumber"> 016 </span>จกฺขุสมฺผสฺสาทีสุ  อตฺตาทิภาววิเวกํ  ปสฺสติ ฯ  ทิฏฺ€ีสุ  จ  น 
+<span class="LineNumber"> 017 </span>นิยฺยตีติ ทฺวาสฏฺ€ิทิฏฺ€ีสุ กายจิ ทิฏฺ€ิยา น นิยฺยติ(๓) ฯ  
+<span class="LineNumber"> 018 </span>	วิปริณตํ  วา  วตฺถุํ  น  โสจตีติ ปกติภาวํ ชหิตฺวา 
+<span class="LineNumber"> 019 </span>นฏฺเ€ กิสฺมิฺจิ วตฺถุสฺมึ น โสกํ อาปชฺชติ ฯ วิปริณตสฺมึ 
+<span class="LineNumber"> 020 </span>วาติ วินสฺสมาเน วตฺถุมฺหิ ฯ  
+<span class="LineNumber"> 021 </span># ๑. ม. ทณฺเฑน ฯ  ๒. สี. ม. อรหตฺตผลวิมุตฺติ ฯ
+<span class="LineNumber"> 022 </span># ๓. ม.นียติ ฯ 

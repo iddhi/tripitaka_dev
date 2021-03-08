@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ป€มวคฺเค วสภตฺเถรคาถาวณฺณนา หน้า 551
+	
+<span class="LineNumber"> 002 </span>		อายาคํ เม คเวสิยํ (๑)	ครุภาวนิยํ(๒) ตถา  
+<span class="LineNumber"> 003 </span>		สาวสฺสโย(๓) วสิสฺสามิ	น โกจิ ครหิสฺสติ ฯ  
+<span class="LineNumber"> 004 </span>		อุตฺตานกูลา นทิกา	สุปติตฺถา มโนรมา  
+<span class="LineNumber"> 005 </span>		สํสุทฺธปุลินากิณฺณา	อวิทูเร มมสฺสมํ ฯ  
+<span class="LineNumber"> 006 </span>		นทึ อมริกํ (๔) นาม	อุปคนฺตฺวานหํ ตทา  
+<span class="LineNumber"> 007 </span>		สงฺกฑฺฒิตฺวาน ปุลินํ(๕)	อกํ ปุลินเจติยํ ฯ  
+<span class="LineNumber"> 008 </span>		เย เต อเหสุํ สมฺพุทฺธา	ภวนฺตกรณา มุนี  
+<span class="LineNumber"> 009 </span>		เตสํ เอตาทิโส ถูโป	ตํ นิมิตฺตํ กโรมหํ ฯ  
+<span class="LineNumber"> 010 </span>		กริตฺวา ปุลินํ ถูปํ		โสวณฺณํ มาปยึ อหํ ฯ  
+<span class="LineNumber"> 011 </span>		โสณฺณกิงฺกณิปุปฺผานิ	สหสฺเส ตีณิ ปูชยึ ฯ  
+<span class="LineNumber"> 012 </span>		สายปาตํ นมสฺสามิ	ปีติชาโต (๖) กตฺชลี  
+<span class="LineNumber"> 013 </span>		สมฺมุขา วิย สมฺพุทฺธํ	วนฺทึ ปุลินเจติยํ ฯ  
+<span class="LineNumber"> 014 </span>		ยทา กิเลสา ชายนฺติ	วิตกฺกา เคหนิสฺสิตา  
+<span class="LineNumber"> 015 </span>		สรามิ สุกตํ ถูปํ		ปจฺจเวกฺขามิ ตาวเท ฯ  
+<span class="LineNumber"> 016 </span>		อุปนิสฺสาย วิหารํ (๗)	สตฺถวาหํ วินายกํ  
+<span class="LineNumber"> 017 </span>		กิเลเส สํวเรยฺยาสิ (๘)	น ยุตฺตํ ตว มาริส ฯ  
+<span class="LineNumber"> 018 </span>		สห อาวชฺชิเต ถูเป		คารวํ โหติ เม ตทา  
+<span class="LineNumber"> 019 </span>		กุวิตกฺเก วิโนเทสึ		นาโค ตุตฺตฏฺฏิโต ยถา ฯ  
+<span class="LineNumber"> 020 </span># ๑. สฺยา. คเวสิยํ ฯ  ๒. ม. ครุํ ภาวนิยํ ฯ  ๓. สฺยา. สาสสฺสโย ฯ
+<span class="LineNumber"> 021 </span># ๔. สี. อปทิกํ ฯ ๕. ม. ยุ. สํวฑฺฒยิตฺวา ปุลินํ ฯ  
+<span class="LineNumber"> 022 </span># ๖. ม. เวทชาโต ฯ ยุ. วิตฺติชาโต ฯ ๗. สฺยา. วิหรึ ฯ 
+<span class="LineNumber"> 023 </span># ๘. สฺยา. สํวเรยฺยาสิ ฯ ๙. ยุ. ตฺตฺตทฺทิโต ฯ 

@@ -1,0 +1,6 @@
+﻿<span class="LineNumber"> 001 </span>                        <B>รวมชาดกที่มีในวรรคนี้  คือ</B>
+<span class="LineNumber"> 002 </span>	๑. สุราปานชาดก   ๒.  มิตตวินทชาดก   ๓. กาฬกัณณิชาดก
+<span class="LineNumber"> 003 </span>๔. อัตถัสสทวารชาดก    ๕. กิมปักกชาดก    ๖. สีลวิมังสนชาดก
+<span class="LineNumber"> 004 </span>๗. มังคลชาดก   ๘. สารัมภชาดก   ๙.  กุหกชาดก    ๑๐.  อกตัญญู-
+<span class="LineNumber"> 005 </span>ชาดก
+<span class="LineNumber"> 006 </span>                           <I>จบ  อปายิมหวรรคที่  ๙</I>

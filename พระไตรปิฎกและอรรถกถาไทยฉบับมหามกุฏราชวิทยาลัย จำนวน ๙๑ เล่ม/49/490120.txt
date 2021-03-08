@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                               	<H1>๑๒. อุรคเปตวัตถุ</H1>  
+
+<span class="LineNumber"> 002 </span>                      	<H2>ว่าด้วยมาอย่างไรไปอย่างนั้น</H2>
+
+<span class="LineNumber"> 003 </span>         	พราหมณ์ได้ฟังดังนั้นแล้ว  เมื่อจะบอกเหตุแห่งการไม่เศร้าโศก
+<span class="LineNumber"> 004 </span>จึงกล่าวคาถา  ๒  คาถาความว่า
+<span class="LineNumber"> 005 </span>          	<B>[๙๗]  	บุตรของเรา     ละสรีระอันคร่ำคร่าของตน
+<span class="LineNumber"> 006 </span>              	   ไป  เหมือนงูลอกคราบฉะนั้น  เมื่อสรีระแห่งบุตร
+<span class="LineNumber"> 007 </span>              	   ของเรา    ใช้สอยไม่ได้   ละไปแล้ว    มีกาละอัน
+<span class="LineNumber"> 008 </span>            	   กระทำแล้วอย่างนี้     บุตรของเราเมื่อญาติเผาอยู่
+<span class="LineNumber"> 009 </span>               	   ย่อมไม่รู้สึกถึงความร่ำไรของญาติทั้งหลาย
+<span class="LineNumber"> 010 </span>                        เพราะฉะนั้น   เราจึงไม่เศร้าโศกถึงเขา   คติอันใด
+<span class="LineNumber"> 011 </span>               	   ของเขามีอยู่ เขาได้ไปสู่คติอันนั้นแล้ว.</B>
+<span class="LineNumber"> 012 </span>         	นางพราหมณีกล่าวว่า
+<span class="LineNumber"> 013 </span>                       	<B>บุตรของดิฉัน  ดิฉันไม่ได้เชิญมา  ก็มาแล้ว
+<span class="LineNumber"> 014 </span>         	   	  จากปรโลก   ดิฉันไม่ได้อนุญาตให้ไป   ก็ไปแล้ว
+<span class="LineNumber"> 015 </span>               	   จากมนุษยโลกนี้  เขามาอย่างไร  เขาก็ไปอย่างนั้น
+<span class="LineNumber"> 016 </span>               	   ทำไมจะต้องไปร่ำไรในการไปจากโลกนี้ของเขา
+<span class="LineNumber"> 017 </span>              	   เล่า   บุตรของดิฉันเมื่อพวกญาติเผาอยู่   ย่อมไม่
+<span class="LineNumber"> 018 </span>              	   รู้สึกถึงความร่ำไรของหมู่ญาติ เพราะฉะนั้น  ดิฉัน
+<span class="LineNumber"> 019 </span>              	   จึงไม่ร้องไห้ถึงบุตรนั้น     คติอันใดของเขามีอยู่
+<span class="LineNumber"> 020 </span>                        เขาได้ไปสู่คติอันนั้นแล้ว.</B>

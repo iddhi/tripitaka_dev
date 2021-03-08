@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                                           <H1>สังสัฏฐวาระ</H1> 
+<span class="LineNumber"> 002 </span>                                            <H1>อนุโลมนัย</H1> 
+<span class="LineNumber"> 003 </span>                                          <H1>๑.  เหตุปัจจัย</H1> 
+<span class="LineNumber"> 004 </span>           [๒๐๐]  ๑.  <B>อนิทัสสนธรรม  เจือกับอนิทัสสนธรรม   เกิดขึ้น
+<span class="LineNumber"> 005 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 006 </span>           คือ ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นอนิทัสสนธรรม  ฯลฯ  ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 007 </span>ในปฏิสนธิขณะ ฯลฯ.
+
+<span class="LineNumber"> 008 </span>                                        <H1>๒.  อารัมมณปัจจัย</H1>
+<span class="LineNumber"> 009 </span>           [๒๐๑]  <B>อนิทัสสนธรรม  เจือกับอนิทัสสนธรรม  เกิดขึ้น
+<span class="LineNumber"> 010 </span>เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 011 </span>           ทั้งหมดนี้   พึงแจกกับด้วยจำนวนปัจจัยรวมกัน   อย่างที่กล่าวมาแล้ว.
+<span class="LineNumber"> 012 </span>           แม้สัมปยุตตวาระ   ก็เหมือนกับสังสัฏฐวาระ.

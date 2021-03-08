@@ -1,0 +1,27 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>สรณทุกหีนติกนสรณทุกนหีนติกะ</H1>   
+<span class="LineNumber"> 002 </span>                 <H2>(๑๐๐.  สรณทุกะ  ๑๔. หีนติกะ )</H2>
+<span class="LineNumber"> 003 </span>                                    <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 004 </span>                                     <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 005 </span>                                    <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 006 </span>                                          <H2>หีนบท</H2>
+<span class="LineNumber"> 007 </span>           [๓๓๑] ๑.  <B>ธรรมที่ไม่ใช่หีนธรรม  ที่ไม่ใช่สรณธรรม  อาศัย
+<span class="LineNumber"> 008 </span>ธรรมที่เป็นหีนธรรม   ที่เป็นสรณธรรม   เกิดขึ้น   เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 009 </span>มี ๑ วาระ.      
+                 
+<span class="LineNumber"> 010 </span>                                     <H2>ปัจจยวาระ</H2>
+<span class="LineNumber"> 011 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 012 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 013 </span>                                       <H2>มัชฌิมบท</H2>
+<span class="LineNumber"> 014 </span>                       ๑.  <B>ธรรมที่ไม่ใช่มัชฌิมธรรม      ที่ไม่ใช่อรณธรรม
+<span class="LineNumber"> 015 </span>อาศัยธรรมที่เป็นมัชฌิมธรรม  ที่เป็นอรณธรรม  เกิดขึ้น  เพราะเหตุ
+<span class="LineNumber"> 016 </span>ปัจจัย</B>   มี ๒ วาระ.
+
+
+<span class="LineNumber"> 017 </span>                                      <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 018 </span>                                        <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 019 </span>                                       <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 020 </span>                                           <H2>ปณีตบท</H2>
+<span class="LineNumber"> 021 </span>                       ๑.  <B>ธรรมที่ไม่ใช่ปณีตธรรม  ที่ไม่ใช่สรณธรรม  อาศัย
+<span class="LineNumber"> 022 </span>ธรรมที่เป็นปณีตธรรม  ที่เป็นอรณธรรม   เกิดขึ้น  เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 023 </span>มี ๑ วาระ.
+<span class="LineNumber"> 024 </span>                   <I>สรณทุกหีนติกนสรณทุกนหีนติกะ  จบ</I>

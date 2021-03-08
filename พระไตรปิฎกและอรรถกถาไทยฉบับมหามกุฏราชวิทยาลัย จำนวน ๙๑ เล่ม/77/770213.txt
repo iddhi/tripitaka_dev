@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>                                   <H1>ว่าด้วยอุคคหโกศล ๗ อย่าง</H1>
+<span class="LineNumber"> 002 </span>         บรรดาอุคคหโกศล  และมนสิการโกศลเหล่านั้น  กุลบุตรพึงปรารถนา
+<span class="LineNumber"> 003 </span>อุคคหโกศลในกรรมฐานมนสิการธาตุเหล่านั้น  คือ 
+<span class="LineNumber"> 004 </span>                 <B>โดยวาจา ๑
+<span class="LineNumber"> 005 </span>                 โดยใจ  ๑
+<span class="LineNumber"> 006 </span>                 โดยสี  ๑
+<span class="LineNumber"> 007 </span>                 โดยสัณฐาน ๑
+<span class="LineNumber"> 008 </span>                 โดยทิศ ๑
+<span class="LineNumber"> 009 </span>                 โดยโอกาส  ๑
+<span class="LineNumber"> 010 </span>                 โดยปริเฉท  ๑</B>
+
+<span class="LineNumber"> 011 </span>                              <H1>ว่าด้วยมนสิการโกศลมี  ๑๐  อย่าง</H1>
+<span class="LineNumber"> 012 </span>         กุลบุตรพึงปรารถนามนสิการโกศลโดยอาการ ๑๐ อย่างเหล่านี้ คือ
+<span class="LineNumber"> 013 </span>                 <B>โดยลำดับ ๑
+<span class="LineNumber"> 014 </span>                 โดยไม่เร็วเกินไป  ๑
+<span class="LineNumber"> 015 </span>                 โดยไม่ช้าเกินไป ๑
+<span class="LineNumber"> 016 </span>                 โดยห้ามความฟุ้งซ่าน  ๑
+<span class="LineNumber"> 017 </span>                 โดยก้าวล่วงบัญญัติ  ๑
+<span class="LineNumber"> 018 </span>                 โดยละลำดับ  ๑
+<span class="LineNumber"> 019 </span>                 โดยลักษณะ  ๑
+<span class="LineNumber"> 020 </span>                 โดยสูตรทั้ง  ๓.<SUP>*</SUP></B>
+<span class='footnote'><SUP>*</SUP> อธิจิตตสูตร  สิติภาวสูตร  โพชฌงคโกสัลลสตร.</span>

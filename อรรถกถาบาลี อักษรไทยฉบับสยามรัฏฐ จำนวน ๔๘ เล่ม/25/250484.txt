@@ -1,0 +1,24 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  เอกนิปาตวณฺณนา  หน้า  484
+	
+<span class="LineNumber"> 002 </span>	โส  เตน  ปุฺกมฺเมน  เทวโลเก นิพฺพตฺติตฺวา ตโต 
+<span class="LineNumber"> 003 </span>ยาวายํ พุทฺธุปฺปาโท ตาว  เทวมนุสฺเสสุ  สํสรนฺโต  อิมสฺมึ  
+<span class="LineNumber"> 004 </span>พุทฺธุปฺปาเท  สาวตฺถิยํ  พฺราหฺมณกุเล นิพฺพตฺติตฺวา  อธิมุตฺโตติ
+<span class="LineNumber"> 005 </span>ลทฺธนาโม วิฺุตํ ปตฺโต พฺราหฺมณวิชฺชาสุ นิปฺผตฺตึ คนฺตฺวา 
+<span class="LineNumber"> 006 </span>ตตฺถ  สารํ  อปสฺสนฺโต ปจฺฉิมภวิกตฺตา นิสฺสรณํ คเวสนฺโต 
+<span class="LineNumber"> 007 </span>เชตวนปฏิคฺคหเณ พุทฺธานุภาวํ  ทิสฺวา  ปฏิลทฺธสทฺโธ  สตฺถุ 
+<span class="LineNumber"> 008 </span>สนฺติเก  ปพฺพชิตฺวา  วิปสฺสนํ ปฏฺ€เปตฺวา น จิรสฺเสว อรหตฺตํ 
+<span class="LineNumber"> 009 </span>ปาปุณิ ฯ เตน วุตฺตํ อปทาเน (๑)  
+<span class="LineNumber"> 010 </span>		กณิการํว ชลิตํ		ทีปรุกฺขํว โชติตํ (๒)  
+<span class="LineNumber"> 011 </span>		โอสธึว วิโรจนฺตํ		วิชฺชุว คคเน(๓) ยถา ฯ  
+<span class="LineNumber"> 012 </span>		อสมฺภีตํ อนุตฺราสึ 	มิคราชํว เกสรึ  
+<span class="LineNumber"> 013 </span>		าณาโลกํ ปกาเสนฺตํ	มทฺทนฺตํ ติตฺถิเย คเณ ฯ  
+<span class="LineNumber"> 014 </span>		อุทฺธรนฺตํ อิมํ โลกํ		ฉินฺทนฺตํ สพฺพสํสยํ  
+<span class="LineNumber"> 015 </span>		อสมฺภีตํ (๔) มิคราชํว	อทฺทสํ โลกนายกํ ฯ  
+<span class="LineNumber"> 016 </span>		ชฏาชินธโร อาสึ		พฺรหฺา(๕) อุชุ ปตาปวา  
+<span class="LineNumber"> 017 </span>		วากจีรํ คเหตฺวาน		ปาทมูเล อปตฺถรึ ฯ  
+<span class="LineNumber"> 018 </span>		การานุสาริยํ คยฺห		อนุลิมฺปึ (๖) ตถาคตํ  
+<span class="LineNumber"> 019 </span>		สมฺพุทฺธมนุลิมฺเปตฺวา (๗)  สนฺถวึ โลกนายกํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. ขุ. อ. ๓๒/๓๙๕/๕๐๗ ฯ  ๒. ม. อุชฺชลํ ฯ  
+<span class="LineNumber"> 021 </span># ๓. สฺยา. วิชฺชูว คคเน ฯ  ยุ. วิชฺชุํ อพฺภฆเน ฯ  ๔. สฺยา. อสมฺภีตํ ฯ
+<span class="LineNumber"> 022 </span># ยุ. ลสนฺตํ ฯ ๕. ม. ยุ. พฺรหา ฯ  ๖. สี. อนุปึสึ ฯ  
+<span class="LineNumber"> 023 </span># ๗. สฺยา. สมฺพุทฺธํ อุปลิมฺปิตฺวา ฯ  สี. อนุปึสตฺวา ฯ 

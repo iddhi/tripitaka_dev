@@ -1,0 +1,14 @@
+﻿<span class="LineNumber"> 001 </span>                                          สีมา  ๒  ชนิด 
+<span class="LineNumber"> 002 </span>	๑.  พัทธสีมา    เขตที่สงฆ์สมมติไว้ทำสังฆกรรม.
+<span class="LineNumber"> 003 </span>	๒.  อพัทธสีมา  เขตนอกเหนือจากที่สมมติ.
+<span class="LineNumber"> 004 </span>	             วัดที่ยังไม่ได้ผูกพัทสีมา.
+<span class="LineNumber"> 005 </span>๔.  <B>บุรพกิจ</B>  ๑.  ต้องมีผู้รับรอง  คือพระอุปัชฌายะ.
+<span class="LineNumber"> 006 </span>           ๒.  ต้องมีบริขารที่จำเป็น  คือ  บาตร  สังฆาฏิ  อุตราสงค์
+<span class="LineNumber"> 007 </span>               อันตรวาสก  (รัดประคต  อังสะ  ผ้ารัดอก).
+<span class="LineNumber"> 008 </span>           ๓.  ซักถามอันตรายิกธรรม.
+<span class="LineNumber"> 009 </span>๕.  <B>กรรมวาจาสมบัติ</B>  คือ  การสวดประกาศในท่ามกลางสงฆ์  โดยออก
+<span class="LineNumber"> 010 </span>ชื่อผู้อุปสมบท  ออกชื่ออุปัชฌาย์ด้วย  และสวดให้ถูกต้องชัดเจนตามลำดับ
+<span class="LineNumber"> 011 </span>ด้วยญัตติจตุตถกัมมวาจา.
+<span class="LineNumber"> 012 </span>                                                วิบัติ  ๕
+<span class="LineNumber"> 013 </span>	วิบัติ  ๕  มีนัยอันตรงกันข้ามกับสมบัติ  ๕.  ในการอุปสมบท  ต้อง
+<span class="LineNumber"> 014 </span>หลีกเลี่ยงให้พ้นจากวิบัติทั้ง  ๕  ประการเสีย.

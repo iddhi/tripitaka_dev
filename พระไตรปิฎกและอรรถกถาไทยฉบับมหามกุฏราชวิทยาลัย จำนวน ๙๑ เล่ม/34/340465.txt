@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>                           <H1>อรรถกถาจตุตถเสขสูตร</H1>  
+ 
+<span class="LineNumber"> 002 </span>         พึงทราบวินิจฉัยในจตุตถเสขสูตรที่  ๘   ดังต่อไปนี้ :-
+<span class="LineNumber"> 003 </span>         บทว่า   <B>ตํ   วา   ปน   อนภิสมฺภวํ   อปฺปฏิวิชฺฌํ</B>    ความว่า
+<span class="LineNumber"> 004 </span>พระอนาคามียังไม่บรรลุ    ยังไม่แทงตลอดอรหัตผลนั้น.    นักศึกษาพึงทราบ
+<span class="LineNumber"> 005 </span>ความหมายในที่ทุกแห่ง  (ที่มีคำว่า <B>ตํ วา ปน  อนภิสมฺภวํ  อปฺปฏิวิชฺฌํ</B>)
+<span class="LineNumber"> 006 </span>โดยนัยนี้.    แม้ในสูตรนี้     พระผู้มีพระภาคเจ้าตรัสสิกขา ๓ อย่างไว้คละกัน
+<span class="LineNumber"> 007 </span>ทีเดียว.
+<span class="LineNumber"> 008 </span>                              <I>จบอรรถกถาจตุตถเสขสูตรที่   ๘</I>
+
+<span class="LineNumber"> 009 </span>                                    <H1>๙.  ปฐมสิกขาสูตร</H1>
+
+<span class="LineNumber"> 010 </span>                                        <H1>ว่าด้วยไตรสิกขา</H1>
+
+<span class="LineNumber"> 011 </span>         [๕๒๙]  ดูก่อนภิกษุทั้งหลาย    สิกขา ๓ นี้     สิกขา ๓ คืออะไรบ้าง
+<span class="LineNumber"> 012 </span>คืออธิสีลสิกขา  อธิจิตตสิกขา  อธิปัญญาสิกขา
+<span class="LineNumber"> 013 </span>         <B>อธิสีลสิกขา</B>นี้อย่างไร   ภิกษุในพระธรรมวินัยนี้เป็นผู้มีศีล ฯลฯ
+<span class="LineNumber"> 014 </span>สมาทานศึกษาอยู่ในสิกขาบททั้งหลาย  นี้เรียกว่า<B>อธิสีลสิกขา</B>
+<span class="LineNumber"> 015 </span>         <B>อธิจิตตสิกขา</B>เป็นอย่างไร ?    ภิกษุในพระธรรมวินัยนี้    สงัดจาก
+<span class="LineNumber"> 016 </span>กาม...จากอกุศลกรรมทั้งหลาย   เข้าปฐมฌาน ฯลฯ    เข้าจตุตถฌาน... นี้
+<span class="LineNumber"> 017 </span>เรียก<B>อธิจิตตสิกขา</B>
+<span class="LineNumber"> 018 </span>         <B>อธิปัญญาสิกขา</B>เป็นอย่างไร ?   ภิกษุในพระธรรมวินัยนี้รู้ตามจริงว่า
+<span class="LineNumber"> 019 </span>นี่ทุกข์ ฯลฯ  นี่ทุกขนิโรธคามินีปฏิปทา  นี้เรียกว่า<B>อธิปัญญาสิกขา</B>
+<span class="LineNumber"> 020 </span>         ภิกษุทั้งหลาย  นี้แล  สิกขา ๓.
+<span class="LineNumber"> 021 </span>                                      <I>จบปฐมสิกขาสูตรที่   ๙</I>

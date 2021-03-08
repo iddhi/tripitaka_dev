@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			<B>การบำรุงมารดา  ๑  การบำรุงบิดา ๑
+<span class="LineNumber"> 002 </span>		การสงเคราะห์บุตรภรรยา  ๑  การงานอันไม่
+<span class="LineNumber"> 003 </span>		อากูล  ๑  นี้เป็นอุดมมงคล.
+<span class="LineNumber"> 004 </span>			ทาน  ๑  การประพฤติธรรม  ๑  การ
+<span class="LineNumber"> 005 </span>		สงเคราะห์ญาติ  ๑  กรรมอันไม่มีโทษ  ๑  นี้
+<span class="LineNumber"> 006 </span>		เป็นอุดมมงคล.
+<span class="LineNumber"> 007 </span>			การงดเว้นจากบาป  ๑  ความสำรวม
+<span class="LineNumber"> 008 </span>		จากการดื่มน้ำเมา  ๑  ความไม่ประมาทใน
+<span class="LineNumber"> 009 </span>		ธรรมทั้งหลาย  ๑  นี้เป็นอุดมมงคล.
+<span class="LineNumber"> 010 </span>			การเคารพ  ๑  ความประพฤติถ่อม-
+<span class="LineNumber"> 011 </span>		ตน   ๑   ความสันโดษ  ๑   ความกตัญญู  ๑ 	
+<span class="LineNumber"> 012 </span>		การฟังธรรมตามกาล  ๑  นี้เป็นอุดมมงคล.
+<span class="LineNumber"> 013 </span>			ความอดทน  ๑  ความเป็นผู้ว่าง่าย  ๑
+<span class="LineNumber"> 014 </span>		การได้เห็นสมณะทั้งหลาย  ๑  การสนทนา
+<span class="LineNumber"> 015 </span>		ธรรมตามกาล  ๑  นี้เป็นอุดมมลคล.
+<span class="LineNumber"> 016 </span>			ความเพียร  ๑  พรหมจรรย์  ๑  การเห็น
+<span class="LineNumber"> 017 </span>		อริยสัจ  ๑  การกระทำนิพพานให้แจ้ง  ๑  นี้เป็น
+<span class="LineNumber"> 018 </span>		อุดมมงคล.
+<span class="LineNumber"> 019 </span>			จิตของผู้ใดอันโลกธรรมทั้งหลาย
+<span class="LineNumber"> 020 </span>		ถูกต้องแล้ว  ย่อมไม่หวั่นไหว  ๑  ไม่เศร้าโศก
+<span class="LineNumber"> 021 </span>		๑  ปราศจากธุลี  ๑  เป็นจิตเกษม  ๑  นี้เป็น
+<span class="LineNumber"> 022 </span>		อุดมมงคล.</B>
+	

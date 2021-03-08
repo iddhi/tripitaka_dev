@@ -1,0 +1,16 @@
+﻿<span class="LineNumber"> 001 </span>         ใช่.             
+<span class="LineNumber"> 002 </span>         [๒๒๑]   กุศลธรรมไม่ใช่เคยดับในภูมิใด,       อัพยากตธรรม
+<span class="LineNumber"> 003 </span>ไม่ใช่เคยดับในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 004 </span>         เคยดับ.
+<span class="LineNumber"> 005 </span>         ก็หรือว่าอัพยากตธรรมไม่ใช่เคยดับในภูมิใด,  กุศลธรรมก็ไม่ใช่
+<span class="LineNumber"> 006 </span>เคยดับในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 007 </span>         ไม่มี.
+<span class="LineNumber"> 008 </span>         [๒๒๒]   อกุศลธรรมไม่ใช่เคยดับในภูมิใด,    อัพยากตธรรมก็
+<span class="LineNumber"> 009 </span>ไม่ใช่เคยดับในภูมินั้น   ใช่ไหม  ?
+<span class="LineNumber"> 010 </span>         เคยดับ.
+<span class="LineNumber"> 011 </span>         ก็หรือว่าอัพยากตธรรมไม่ใช่เคยดับในภูมิใด         อกุศลธรรม 
+<span class="LineNumber"> 012 </span>ก็ไม่ใช่เคยดับในภูมินั้น ใช่ไหม  ?
+<span class="LineNumber"> 013 </span>         ไม่มี.
+<span class="LineNumber"> 014 </span><H1>ปุคคโลกาสวาระ   ปัจจนิก</H1> :-
+<span class="LineNumber"> 015 </span>         [๒๒๓]   กุศลธรรมไม่ใช่เคยดับแก่บุคคลใดในภูมิใด,   อกุศล-
+<span class="LineNumber"> 016 </span>ธรรมก็ไม่ใช่เคยดับแก่บุคคลนั้นในภูมินั้น   ใช่ไหม  ?

@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>           ๑๒. ปฐมฌาน  เป็นปัจจัยแก่ทุติยฌาน   ด้วยอำนาจของอุปนิสสย- 
+<span class="LineNumber"> 002 </span>ปัจจัย ฯ ลฯ.  
+<span class="LineNumber"> 003 </span>           ๑๓. จตุตถฌาน   เป็นปัจจัยแก่อากาสานัญจายตนะ    อากาสานัญ-
+<span class="LineNumber"> 004 </span>จายตนะ  เป็นปัจจัยแก่วิญญาณัญจายตนะ  วิญญาณัญจายตนะ  เป็นปัจจัย
+<span class="LineNumber"> 005 </span>แก่อากิญจัญญยตนะ  อากิญจัญญายตนะ   เป็นปัจจัยแก่เนวสัญญานา-
+<span class="LineNumber"> 006 </span>สัญญายตนะ  ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 007 </span>           ๑๔.  บริกรรมแห่งทิพยจักษุ   เป็นปัจจัยแก่ทิพยจักษุ    ด้วยอำนาจ
+<span class="LineNumber"> 008 </span>ของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 009 </span>           ๑๕.  บริกรรมแห่งทิพโสตธาตุ     เป็นปัจจัยแก่ทิพโสตธาตุ     ด้วย 
+<span class="LineNumber"> 010 </span>อำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 011 </span>           ๑๖.  บริกรรมแห่งอิทธิวิธญาณ    เป็นปัจจัยแก่อิทธิวิธญาณ    ด้วย 
+<span class="LineNumber"> 012 </span>อำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 013 </span>           ๑๗.  บริกรรมแห่งเจโตปริยญาณ  เป็นปัจจัยแก่เจโตปริยญาณ  ด้วย 
+<span class="LineNumber"> 014 </span>อำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 015 </span>           ๑๘.  บริกรรมแห่งปุพเพนิวาสานุสสติญาณ      เป็นปัจจัยแก่ปุพเพ-
+<span class="LineNumber"> 016 </span>นิวาสานุสสติญาณ  ด้วยอำนาจของอุปนิสสยปัจจัย.      
+<span class="LineNumber"> 017 </span>           ๑๙.  บริกรรมแห่งยถากัมมูปคญาณ   เป็นปัจจัยแก่ยถากัมมูปคญาณ 
+<span class="LineNumber"> 018 </span>ด้วยอำนาจของอุปนิสสยปัจจัย.       
+<span class="LineNumber"> 019 </span>           ๒๐.  บริกรรมแห่งอนาคตังสญาณ        เป็นปัจจัยแก่อนาคตังสญาณ
+<span class="LineNumber"> 020 </span>ด้วยอำนาจของอุปนิสสยปัจจัย.
+<span class="LineNumber"> 021 </span>           ๒๑.  ทิพยจักษุ  เป็นปัจจัยแก่ทิพยจักษุ  ด้วยอำนาจของอุปนิสสย-
+<span class="LineNumber"> 022 </span>ปัจจัย.
+

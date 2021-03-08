@@ -1,0 +1,20 @@
+﻿<span class="LineNumber"> 001 </span>                       ๙.  <B>สัญโญชนสัมปยุตตธรรมและสัญโญชนวิปปยุตต-
+<span class="LineNumber"> 002 </span>ธรรม  อาศัยสัญโญชนสัมปยุตตธรรม  และสัญโญชนวิปปยุตตธรรม
+<span class="LineNumber"> 003 </span>เกิดขึ้น  เพราะเหตุปัจจัย</B> 
+<span class="LineNumber"> 004 </span>           คือ  ขันธ์ ๓   และจิตตสมุฏฐานรูป    อาศัยขันธ์ ๑    ที่สหรคตด้วย
+<span class="LineNumber"> 005 </span>อุทธัจจะ  และโมหะ ฯลฯ   ขันธ์ ๒  ฯลฯ
+
+<span class="LineNumber"> 006 </span>                               <H2>๒.   อารัมมณปัจจัย</H2>
+<span class="LineNumber"> 007 </span>           [๔๔๖] ๑.  <B>สัญโญชนสัมปยุตตธรรม     อาศัยสัญโญชน-
+<span class="LineNumber"> 008 </span>สัมปยุตตธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 009 </span>           คือ อาศัยขันธ์ ๑ ที่เป็นสัญโญชนสัมปยุตตธรรม ฯลฯ   ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 010 </span>                       ๒.  <B>สัญโญชนวิปปยุตตธรรม     อาศัยสัญโญชน- 
+<span class="LineNumber"> 011 </span>สัมปยุตตธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ  โมหะ  ที่สหรคตด้วยอุทธัจจะ  อาศัยขันธ์ทั้งหลายที่สหรคตด้วย
+<span class="LineNumber"> 013 </span>อุทธัจจะ.
+<span class="LineNumber"> 014 </span>                       ๓.  <B>สัญโญชนสัมปยุตตธรรมและสัญโญชนวิปปยุตต-
+<span class="LineNumber"> 015 </span>ธรรม  อาศัยสัญโญชนสัมปยุตตธรรม เกิดขึ้น เพราะอารัมมณปัจจัย</B>
+<span class="LineNumber"> 016 </span>           คือ  ขันธ์ ๓  และโมหะ  อาศัยขันธ์ ๑  ที่สหรคตด้วยอุทธัจจะ  ฯลฯ
+<span class="LineNumber"> 017 </span>ขันธ์ ๒ ฯลฯ
+<span class="LineNumber"> 018 </span>                       ๔.  <B>สัญโญชนวิปปยุตตธรรม     อาศัยสัญโญชน-
+<span class="LineNumber"> 019 </span>วิปปยุตตธรรม  เกิดขึ้น  เพราะอารัมมณปัจจัย</B>

@@ -1,0 +1,25 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 25  ปฺจมวคฺเค กุมารกสฺสปตฺเถรคาถาวณฺณนา  หน้า 691
+	
+<span class="LineNumber"> 002 </span>		นิโคฺรธเมว เสเวยฺย	น สาขมุปสํวเส  
+<span class="LineNumber"> 003 </span>		นิโคฺรธสฺมึ มตํ เสยฺโย	ยฺเจ สาขสฺมิ  ชีวิตํ ฯ  
+<span class="LineNumber"> 004 </span>			เตนานุสิฏฺ€า มิคยูถเปน (๑)  
+<span class="LineNumber"> 005 </span>			อหฺจ มาตา จ ตเถตเร จ(๒)  
+<span class="LineNumber"> 006 </span>			อาคมฺม รมฺมํ ตุสิตาธิวาสํ
+<span class="LineNumber"> 007 </span>			คตา ปวาสํ สฆรํ ยเถว ฯ  
+<span class="LineNumber"> 008 </span>		ปุโน กสฺสปวีรสฺส		อตฺถเมนฺตมฺหิ สาสเน  
+<span class="LineNumber"> 009 </span>		อารุยฺห เสลสิขรํ		ยุฺชิตฺวา ชินสาสนํ ฯ  
+<span class="LineNumber"> 010 </span>		อิทานาหํ(๔) ราชคเห	ชาโต เสฏฺ€ิกุเล อหุํ (๕)  
+<span class="LineNumber"> 011 </span>		อาปนฺนสตฺตา (๖) เม มาตา  ปพฺพชิ อนคาริยํ ฯ  
+<span class="LineNumber"> 012 </span>		สคพฺภํ ตํ วิทิตฺวาน	เทวทตฺตมุปานยย  
+<span class="LineNumber"> 013 </span>		โส อโวจ วินาเสถ		ปาปิกํ ภิกฺขุนึ อิมํ ฯ  
+<span class="LineNumber"> 014 </span>		อิทานิปิ มุนินฺเทน		ชิเนน อนุกมฺปิตา  
+<span class="LineNumber"> 015 </span>		สุขินี อชนี (๗) มยฺหํ	มาตา ภิกฺขุนุปสฺสเย ฯ  
+<span class="LineNumber"> 016 </span>		ตํ วิทิตฺวา มหีปาโล	โกสโล มํ อโปสยิ  
+<span class="LineNumber"> 017 </span>		กุมารปริหาเรน		นาเมนาหฺจ กสฺสโป ฯ  
+<span class="LineNumber"> 018 </span>		มหากสฺสปมาคมฺม	อหํ กุมารกสฺสโป  
+<span class="LineNumber"> 019 </span>		วมฺมิกสทิสํ(๘) กายํ	สุตฺวา พุทฺเธน เทสิตํ ฯ  
+<span class="LineNumber"> 020 </span># ๑. สี. มิคยูถเมนํ ฯ  ยุ. มิคโยวาเทน ฯ  ๒. สฺยา. มาตา จตเร จ 
+<span class="LineNumber"> 021 </span># ตสฺโสวาทํ ฯ ยุ. มาตา จตเร จ ตสฺโสวาเทน ฯ  ๓. ยุ. คโต ฯ 
+<span class="LineNumber"> 022 </span># ๔. สฺยา. อิทานิ หิ ฯ ๕. สฺยา. อหํ ฯ สี. อหุ ฯ 
+<span class="LineNumber"> 023 </span># ๖. สฺยา. สี. อาปนฺนคพฺภา ฯ  ๗. สฺยา. ชนนี ฯ 
+<span class="LineNumber"> 024 </span># ๘. ม. ยุ. วมฺมิกสาทิสํ ฯ

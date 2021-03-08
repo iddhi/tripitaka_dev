@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>			*เล่มที่ ๑๑   หน้า  ๒๕๓
+
+<span class="LineNumber"> 002 </span>				ตึสมตฺตสุตฺตวณฺณนา            
+<span class="LineNumber"> 003 </span>	ตติเย  ปาเวยฺยกาติ  ปาเวยฺยเทสวาสิโน ฯ  สพฺเพ  
+<span class="LineNumber"> 004 </span>อารฺิกาติอาทีสุ  ธุตงฺคสมาทานวเสน  เตสํ  อารฺิกาทิภาโว 
+<span class="LineNumber"> 005 </span>เวทิตพฺโพ ฯ  สพฺเพ  สสฺโชนาติ  สพฺเพ  สพนฺธนา  เกจิ 
+<span class="LineNumber"> 006 </span>โสตาปนฺนา  เกจิ  สกทาคามิโน(๑) ฯ   เตสุ  หิ  ปุถุชฺชโน
+<span class="LineNumber"> 007 </span>วา  ขีณาสโว  วา  นตฺถิ ฯ  คุนฺนนฺติอาทีสุ เสตกาฬาทิวณฺเณสุ 
+<span class="LineNumber"> 008 </span>เอเกกวณฺณกาโลว  คเหตพฺโพ ฯ  ปาริปนฺถกาติ  ปาริปนฺเถ  ติฏฺ€นกา 
+<span class="LineNumber"> 009 </span>ปนฺถฆาตโจรา(๒) ฯ ปารทาริกาติ ปรทาเร จาริตฺตํ อาปชฺชนกา ฯ
+<span class="LineNumber"> 010 </span>				ตติยํ ฯ          
+
+<span class="LineNumber"> 011 </span>				มาตุสุตฺตาทิวณฺณนา           
+<span class="LineNumber"> 012 </span>	จตุตฺถาทีสุ  ลิงฺคนิยเมน  เจว  จกฺกวาฬนิยเมน  จ  อตฺโถ  
+<span class="LineNumber"> 013 </span>เวทิตพฺโพ ฯ  ปุริสานํ  หิ  มาตุคามกาโล  มาตุคามานฺจ 
+<span class="LineNumber"> 014 </span>ปุริสกาโลติ  เอวเมตฺถ  ลิงฺคนิยโม ฯ  อิมมฺหา  จกฺกวาฬา  สตฺตา 
+<span class="LineNumber"> 015 </span>ปรจกฺกวาฬํ  ปรจกฺกวาฬา  จ  อิมํม  จกฺกวาฬํ  สํสรนฺติ ฯ
+<span class="LineNumber"> 016 </span>เตสุ  อิมสฺมึ  จกฺกวาเฬ  มาตุคามกาเล  มาตุภูตฺเว ทสฺเสนฺโต
+<span class="LineNumber"> 017 </span>โย  น  มาตาภูตปุพฺโพติ  อาห ฯ  โย  น  ปิตาภูตปุพฺโพติ-
+<span class="LineNumber"> 018 </span>อาทีสุปิ  เอเสว นโย ฯ 
+<span class="LineNumber"> 019 </span>				จตุตฺถาทีนิ ฯ                  
+<span class="LineNumber"> 020 </span># ๑. ม. เกจิ สกทาคามิโน เกจิ อนาคามิโน ฯ 
+<span class="LineNumber"> 021 </span># ๒. ม. ปนฺถฆาตโจรา ฯ

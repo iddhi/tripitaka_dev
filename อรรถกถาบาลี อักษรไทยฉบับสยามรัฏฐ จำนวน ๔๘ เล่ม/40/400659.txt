@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>*เล่มที่ 40   มหากรุณาาณนิทฺเทสวณฺณนา   หน้า 659
+
+<span class="LineNumber"> 002 </span>	โกจิ  พนฺธนา  โมเจตา ฯ  โกจิ พนฺธนํ(๑) โมเจตาติปิ
+<span class="LineNumber"> 003 </span>ปาโ€ ฯ
+<span class="LineNumber"> 004 </span>	อนาโถติ  นตฺถิ  เอตสฺส  นาโถ  อิสฺสโร  สยํ  วา  น  
+<span class="LineNumber"> 005 </span>นาโถ  อิสฺสโร  อนาโถ  อสรโณติ  วา  อตฺโถ ฯ  
+<span class="LineNumber"> 006 </span>	ปรมกาปฺปฺปตฺโตติ  ชราทิปฏิพาหเณ  อปฺปหุตาย  อตีว
+<span class="LineNumber"> 007 </span>กปณภาวํ  ปตฺโต ฯ  
+<span class="LineNumber"> 008 </span>	ตาเยตาติ  รกฺขิตา ฯ  ตายิตาติ  วา  ปาโ€  สุนฺทโร ฯ
+<span class="LineNumber"> 009 </span>	ทุกฺขาภิตุนฺโนติ ชาติทุกฺขาทีหิ อเนเกหิ ทุกฺเขหิ อภิตุนฺโน
+<span class="LineNumber"> 010 </span>อติพฺยาธิโต อติกมฺปิโต(๒)
+<span class="LineNumber"> 011 </span>	จิรรตฺตํปีฬิโตติ  ทุกฺเขเหว  ทีฆมทฺธานํ  ปีฬิโต  ฆฏฺฏิโต ฯ
+<span class="LineNumber"> 012 </span>	คธิโตติ  เคเธน  คิทฺโธ  (๓) อภิชฺฌากายคนฺเถน  วา  คนฺถิโต ฯ 
+<span class="LineNumber"> 013 </span>	นิจฺจํ  ปิปาสิโตติ  ปาตุํ  ภุฺชิตุํ  อิจฺฉา ปิปาสา สา 
+<span class="LineNumber"> 014 </span>ตณฺหา เอว ตณฺหาปิปาสาย นิรนฺตรํ ปิปาสิโต ฯ  
+<span class="LineNumber"> 015 </span>	อนฺโธติ  ทสฺสฏฺเ€น  จกฺขูหิ  สงฺขํ  คตาย  ปฺาย
+<span class="LineNumber"> 016 </span>อภาวโต กาโณ ฯ ปฺา (๔)  หิ  ธมฺมภาวํ  ปสฺสติ ฯ 
+<span class="LineNumber"> 017 </span>	อจกฺขุโกติ  ตํ  ปน  อนฺธตฺตํ  น  ปจฺฉา  สมฺภูตํ ปกติยา-
+<span class="LineNumber"> 018 </span>เอว  อวิชฺชมานจกฺขุโกติ  ตเมว  อนฺธตฺตํ  วิเสเสติ ฯ 
+<span class="LineNumber"> 019 </span>	หตเนตฺโตติ  นยนฏฺเ€น  เนตฺตนฺติ  สงฺขาตาย(๕)  ปฺาย 
+<span class="LineNumber"> 020 </span># ๑. ม. พนฺธนํ ฯ  ๒. ม. อติพฺยาธิโต อติกมฺปิโต จ ฯ 
+<span class="LineNumber"> 021 </span># ๓. ยุ. วิทฺโธ ฯ  ๔. ยุ. ปฺาย ฯ  ๕. ม. สงฺขํ คตาย ฯ

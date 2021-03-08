@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 28  ทูเรนิทานํ  หน้า 79
+
+<span class="LineNumber"> 002 </span>จตฺตาฬีสหตฺถุพฺเพธํ อโหสิ จตฺตาฬีส วสฺสสหสฺสานิ อายูติ ฯ  
+<span class="LineNumber"> 003 </span>	เวสฺสภุสฺส อปเรน		สมฺพุทฺโธ ทิปทุตฺตโม  
+<span class="LineNumber"> 004 </span>	กกุสนฺโธ นาม นาเมน	อปฺปเมยฺโย ทุราสโทติ ฯ  
+<span class="LineNumber"> 005 </span>	ตสฺส  อปรภาเค  โกนาคมโน  นาม  สตฺถา  อุทปาทิ ฯ
+<span class="LineNumber"> 006 </span>ตสฺสาปิ  เอโก  สาวกสนฺนิปาโต ฯ  ตตฺถ  ตึส  ภิกฺขุสหสฺสานิ  
+<span class="LineNumber"> 007 </span>อเหสุํ ฯ  ตทา  โพธิสตฺโต  ปพฺพโต  นาม  ราชา  หุตฺวา
+<span class="LineNumber"> 008 </span>อมจฺจคณปริวุโต  สตฺถุ สนฺติกํ  คนฺตฺวา  ธมฺมเทสนํ  สุตฺวา 
+<span class="LineNumber"> 009 </span>พุทฺธปฺปมุขํ  ภิกฺขุสงฺฆํ  นิมนฺเตตฺวา  มหาทานํ  ปวตฺเตตฺวา  
+<span class="LineNumber"> 010 </span>ปตฺตุณฺณจีนปฏฺฏโกเสยฺยกมฺพลทุกูลานิ  เจว  สุวณฺณปาทุกฺจ(๑)
+<span class="LineNumber"> 011 </span>ทตฺวา  สตฺถุ  สนฺติเก  ปพฺพชิ ฯ  โสปิ นํ พฺยากาสิ ฯ ตสฺส  
+<span class="LineNumber"> 012 </span>ภควโต  โสภวตี  นาม  นครํ  อโหสิ ยฺทตฺโต นาม
+<span class="LineNumber"> 013 </span>พฺราหฺมโณ ปิตา  อุตฺตรา  นาม พฺราหฺมณี มาตา ภิยฺโยโส(๒)
+<span class="LineNumber"> 014 </span>จ อุตฺตโร จ เทฺว อคฺคสาวกา  โสตฺถิโช  นามุปฏฺ€าโก  
+<span class="LineNumber"> 015 </span>สมุทฺทา  จ  อุตฺตรา  จ  เทฺว  อคฺคสาวิกา  อุทุมฺพรรุกฺโข โพธิ 
+<span class="LineNumber"> 016 </span>สรีรํ ตึสหตฺถุพฺเพธํ(๓) อโหสิ ตึส วสฺสสหสฺสานิ อายูติ ฯ  
+<span class="LineNumber"> 017 </span>	กกุสนฺธสฺส อปเรน		สมฺพุทฺโธ ทิปทุตฺตโม  
+<span class="LineNumber"> 018 </span>	โกนาคมโน นาม ชิโน	โลกเชฏฺโ€ นราสโภติ ฯ  
+<span class="LineNumber"> 019 </span>	ตสฺส  อปรภาเค  กสฺสโป  นาม สตฺถา อุทปาทิ ฯ
+<span class="LineNumber"> 020 </span>ตสฺสาปิ เอโกว  สาวกสนฺนิปาโต ฯ  ตตฺถ  วีสติภิกฺขุสหสฺสานิ 
+<span class="LineNumber"> 021 </span># ๑. ม. สุวณฺณปาทุกฺจ ฯ  ๒. ม.ภิยฺยโส ฯ  
+<span class="LineNumber"> 022 </span># ๓. ม. ตึสหตฺถุพฺเพธํ ฯ 

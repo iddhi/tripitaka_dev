@@ -1,0 +1,17 @@
+﻿<span class="LineNumber"> 001 </span>                       <H1>อุปปัตติฏฐานปุคควาระ  ปัจจนิก</H1> 
+<span class="LineNumber"> 002 </span>                                   <H1>กามราคานุสยมูล</H1>
+<span class="LineNumber"> 003 </span><H2>เอกมูลกะ - กามราคานุสยมูละ  ปฏิฆานุสยมูลี</H2> :-
+<span class="LineNumber"> 004 </span>         [๑๓๘๗]   บุคคลใด  ไม่ละกามราคานุสัย,  บุคคลนั้น  ย่อมไม่
+<span class="LineNumber"> 005 </span>ละปฏิฆานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 006 </span>         ใช่.
+<span class="LineNumber"> 007 </span>         ก็หรือว่า  บุคคลใด   ไม่ละปฏิฆานุสัย,  บุคคลนั้น    ย่อมไม่ละ
+<span class="LineNumber"> 008 </span>กามราคานุสัย  ใช่ไหม ?
+<span class="LineNumber"> 009 </span>         ใช่.
+<span class="LineNumber"> 010 </span>                    <I>จบ  กามราคานุสยมูละ  ปฏิฆานุสยมูลี</I>
+
+<span class="LineNumber"> 011 </span><H2>กามราคานุสยมูละ  มานานุสยมูลี</H2> :-
+<span class="LineNumber"> 012 </span>         บุคคลใด  ไม่ละกามราคานุสัย, บุคคลนั้น  ย่อมไม่ละมานานุสัย
+<span class="LineNumber"> 013 </span>ใช่ไหม ?
+<span class="LineNumber"> 014 </span>         พระอริยบุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรค  ไม่ละกาม-
+<span class="LineNumber"> 015 </span>ราคานุสัย    แต่พระอริยบุคคลผู้มีความพร้อมเพรียงด้วยอรหัตมรรคนั้น
+<span class="LineNumber"> 016 </span>ไม่ใช่ย่อมไม่ละมานานุสัย,        บุคคลทั้งหลายที่เหลือ   เว้นบุคคลผู้มี

@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 32  กุกฺกุชาตกํ  หน้า 134
+
+<span class="LineNumber"> 002 </span>		[๙๗๒]ขรตฺตจํ เพลฺลํ ยถาปิ สตฺถวา  
+<span class="LineNumber"> 003 </span>			อโนมสนฺโตปิ(๑) กโรติ ติตฺตกํ  
+<span class="LineNumber"> 004 </span>			สมาหรํ สาธุกโรติ ปตฺถวา(๒)  
+<span class="LineNumber"> 005 </span>			อสาธุกยิรา(๓) ตนุพนฺธมุทฺธรํ(๔) ฯ  
+<span class="LineNumber"> 006 </span>		[๙๗๓]เอวํ คามนิคเมสุ จ ปณฺฑิโต(๕)  
+<span class="LineNumber"> 007 </span>			อสาหสํ วชฺชธนานิ สํหรํ(๖)  
+<span class="LineNumber"> 008 </span>			ธมฺมานุวตฺตี ปฏิปชฺชมาโน  
+<span class="LineNumber"> 009 </span>			ผาตึ(๗) กยิรา อวิเห€ยํ ปรนฺติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  ขรตฺตจนฺติ  ถทฺธตจํ  ฯ  เพลฺลนฺติ  มาตุลุงฺคํ  ฯ
+<span class="LineNumber"> 011 </span>พาลนฺติปิ  ปาโ€  ฯ  อยเมว  อตฺโถ  ฯ  สตฺถวาติ  สตฺถกหตฺโถ  ฯ
+<span class="LineNumber"> 012 </span>อโนมสนฺโตติ  พหิตจํ  ตนุกมฺปิ  อตจฺฉนฺโต  อิมํ  ผลํ  ติตฺตกํ  
+<span class="LineNumber"> 013 </span>กโรติ  ฯ  สมาหรนฺติ  สมาหรนฺโต  พหิตจํ  ตจฺฉนฺโต  อนฺโต  จ 
+<span class="LineNumber"> 014 </span>อมฺพิลํ  อนีหรนฺโต  สาตํ  กโรติ  ฯ  ปตฺถวาปิ(๘)  ราชานมาลปติ  ฯ 
+<span class="LineNumber"> 015 </span>ตนุพนฺธมุทฺธรนฺติ  ตนุกํ  ปน  ตจํ  อุทฺธรนฺโต  สพฺพโส  ติตฺตกสฺส 
+<span class="LineNumber"> 016 </span>อนปนีตตฺตา  ตํ  อสาธุเมว  กยิรา  ฯ  เอวนฺติ  เอวํ  ปณฺฑิโต  ราชาปิ 
+<span class="LineNumber"> 017 </span>อสาหสํ  สาหสิยา  ตณฺหาย  วสํ  อคจฺฉนฺโต  อคติคมนํ  ปหาย 
+<span class="LineNumber"> 018 </span># ๑. ส. ม. อนามสนฺโตปิ ฯ  ๒. ม. สาทุํ กโรติ ปตฺถิว ฯ 
+<span class="LineNumber"> 019 </span># ๓. ม. อสาทุํ กยิรา ฯ  ๔. สี. ยุ. ตนุวฏฺฏมุทฺธรํ ฯ 
+<span class="LineNumber"> 020 </span># ๕. สี. เอวมฺปิ คามนิคเมสุ ปณฺฑิโต ฯ  ๖. ส. ม. ราชธนานิ
+<span class="LineNumber"> 021 </span># สงฺฆรํ ฯ  ๗. ม. ส ผาติ ฯ ๘. ม. ปตฺถิวาติ ฯ 

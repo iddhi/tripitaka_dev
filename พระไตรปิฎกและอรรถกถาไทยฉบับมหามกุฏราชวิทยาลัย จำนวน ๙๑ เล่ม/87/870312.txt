@@ -1,0 +1,21 @@
+﻿<span class="LineNumber"> 001 </span>                             <H1>การนับจำนวนวาระในอนุโลม</H1>  
+<span class="LineNumber"> 002 </span>           [๑๒๒๖]   ในเหตุปัจจัย   มี ๓ วาระ   ในอารัมมณปัจจัย   มี ๓ วาระ
+<span class="LineNumber"> 003 </span>ในอธิปติปัจจัย  มี ๓ วาระ  ในอนันตรปัจจัย  ในสมนันตรแจจัย  ในสหชาต-
+<span class="LineNumber"> 004 </span>ปัจจัย  ในอัญญมัญญปัจจัย   ในนิสสยปัจจัย  ในอุปนิสสยปัจจัย  ในปุเรชาต-
+<span class="LineNumber"> 005 </span>ปัจจัย   แต่ละปัจจัยมี ๓ วาระ   ในอาเสวนปัจจัย   มี ๒ วาระ    ในกัมมปัจจัย
+<span class="LineNumber"> 006 </span>มี ๓ วาระ ฯลฯ ในอวิคตปัจจัย   มี ๓ วาระ.
+<span class="LineNumber"> 007 </span>                                          <I>อนุโลมนัย  จบ</I> 
+
+<span class="LineNumber"> 008 </span>                                            <H1>ปัจจนียนัย</H1>
+<span class="LineNumber"> 009 </span>                                         <H1>๑.  นเหตุปัจจัย</H1>
+<span class="LineNumber"> 010 </span>           [๑๒๒๗]   <B>เนวเสกขานาเสกขธรรม  เจือกับเนวเสกขานาเสกข-
+<span class="LineNumber"> 011 </span>ธรรม  เกิดขึ้น  เพราะนเหตุปัจจัย</B>
+<span class="LineNumber"> 012 </span>           คือ   ขันธ์ ๓ เจือกับขันธ์ ๑ ที่เป็นเนวเสกขานาเสกขธรรม    ซึ่งเป็น
+<span class="LineNumber"> 013 </span>อเหตุกะ ฯลฯ ขันธ์ ๒ ฯลฯ.
+<span class="LineNumber"> 014 </span>           ในอเหตุกปฏิสนธิขณะ    โมหะที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วย
+<span class="LineNumber"> 015 </span>อุทธัจจะ  เจือกับขันธ์ทั้งหลายที่สหรคตด้วยวิจิกิจฉา  ที่สหรคตด้วยอุทธัจจะ.
+
+<span class="LineNumber"> 016 </span>                                       <H1>๒.  นอธิปติปัจจัย</H1>
+<span class="LineNumber"> 017 </span>           [๑๒๒๘]  ๑.  <B>เสกขธรรม  เจือกับเสกขธรรม   เกิดขึ้น  เพราะ
+<span class="LineNumber"> 018 </span>นอธิปติปัจจัย</B>
+

@@ -1,0 +1,13 @@
+﻿<span class="LineNumber"> 001 </span>                  <H2>พระอภิธรรมปิฎก  ปัฏฐาน</H2> 
+<span class="LineNumber"> 002 </span>                              <H1>อนุโลมปัจจนียปัฏฐาน</H1>
+<span class="LineNumber"> 003 </span>                  <H2>๑. อนุโลมปัจจนียติกปัฏฐาน</H2>  
+<span class="LineNumber"> 004 </span>                               <H1>๑. กุสลติกนกุสลติกะ</H1>
+<span class="LineNumber"> 005 </span>                                     <H2>ปฏิจจวาระ</H2>
+<span class="LineNumber"> 006 </span>                                      <H2>อนุโลมนัย</H2>
+<span class="LineNumber"> 007 </span>                                     <H2>๑. เหตุปัจจัย</H2>
+<span class="LineNumber"> 008 </span>           [๑] ๑.  <B>ธรรมที่ไม่ใช่กุศล  อาศัยธรรมที่เป็นกุศล  เกิดขึ้น		
+<span class="LineNumber"> 009 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 010 </span>           คือ  จิตตสมุฏฐานรูป  อาศัยกุศลขันธ์ทั้งหลาย.
+<span class="LineNumber"> 011 </span>                 ๒.  <B>ธรรมที่ไม่ใช่อกุศล  อาศัยธรรมที่เป็นกุศล  เกิดขึ้น	
+<span class="LineNumber"> 012 </span>เพราะเหตุปัจจัย</B>
+<span class="LineNumber"> 013 </span>           คือ   ขันธ์  ๓ และจิตตสมุฏฐานรูป  อาศัยขันธ์  ๑  ที่เป็นกุศล.

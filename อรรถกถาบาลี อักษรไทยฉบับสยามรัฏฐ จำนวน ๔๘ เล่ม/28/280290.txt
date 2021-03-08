@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>	*เล่มที่ 28  เอกนิปาเต  สีลวคฺควณฺณนา  หน้า  290
+
+<span class="LineNumber"> 002 </span>สนฺติกํ  คนฺตฺวา  ภาติก ภาคิเนยฺโย  เต  มิคมายํ  สิกฺขาปิโตติ  
+<span class="LineNumber"> 003 </span>ปุจฺฉิ ฯ  โพธิสตฺโต  มา  ตฺวํ  ปุตฺตสฺส  กิฺจิ  ปาปกํ  อาสงฺกิ 
+<span class="LineNumber"> 004 </span>สุคฺคหิตา  เตน  มิคมายา  อิทานิ  ตํ  ปหาย ปลายมาโน(๑)
+<span class="LineNumber"> 005 </span>อาคจฺฉิสฺสตีติ วตฺวา อิทํ คาถมาห  
+<span class="LineNumber"> 006 </span>		[๑๖]มิคนฺติปลฺลตฺถมเนกมายํ  
+<span class="LineNumber"> 007 </span>			อฏฺ€ขุรํ อฑฺฒรตฺตาปปายึ  
+<span class="LineNumber"> 008 </span>			เอเกน โสเตน ฉมาสฺสสนฺโต  
+<span class="LineNumber"> 009 </span>			ฉหิ กลาหติโภติ(๒) ภาคิเนยฺโยติ ฯ  
+<span class="LineNumber"> 010 </span>	ตตฺถ  มิคนฺติ  ภาคิเนยฺยํ  มิคํ ฯ  ติปลฺลตฺถนฺติ  ปลฺลตฺถํ  
+<span class="LineNumber"> 011 </span>วุจฺจติ  สยนํ  อุโภหิ  ปสฺเสหิ  อุชุกเมว  จ  โคนิปนฺนากาเรนาติ(๓)
+<span class="LineNumber"> 012 </span>ตีหากาเรหิ  ปลฺลตฺถํ  อสฺส  ตีณิ  วา  ปลฺลตฺถานิ  อสฺสาติ  
+<span class="LineNumber"> 013 </span>ติปลฺลตฺโถ ฯ  ตํ  ติปลฺลตฺถํ ฯ  อเนกมายนฺติ  พหุมายํ  พหุวฺจนํ ฯ
+<span class="LineNumber"> 014 </span>อฏฺ€ขุรนฺติ  เอเกกสฺมึ  ปาเท  ทฺวินฺนํ  ทฺวินฺนํ  ขุรานํ  วเสน 
+<span class="LineNumber"> 015 </span>อฏฺ€หิ  ขุเรหิ  สมนฺนาคตํ ฯ  อฑฺฒรตฺตาปปายินฺติ  ปุริมยามํ  
+<span class="LineNumber"> 016 </span>อติกฺกมิตฺวา  มชฺฌิมยาเม  อรฺโต  อาคมฺม  ปานียสฺส  ปิวนโต 
+<span class="LineNumber"> 017 </span>อฑฺฒรตฺเต  อาปํ  ปิวตีติ  อฑฺฒรตฺตาปปายิ(๔) ฯ  ตํ ฯ  อฑฺฒรตฺเต
+<span class="LineNumber"> 018 </span>อาปํ  อปายินฺติ(๕)  อตฺโถ ฯ  มม  ภาคิเนยฺยมิคํ  อหํ  สาธุกํ  มิคมายํ 
+<span class="LineNumber"> 019 </span># ๑. ม.ตํ หาสยมาโน ฯ   ๒. ม. กลาหิติโภติ ฯ 
+<span class="LineNumber"> 020 </span># ๓. สี. โคนิสินฺนกวเสนาติ ฯ ม. นิปนฺนกวเสนาติ ฯ
+<span class="LineNumber"> 021 </span># ๔. สี. ยุ. อฑฺฒรตฺเต อวปิวตีติ อฑฺฒรตฺตาวปายี ฯ
+<span class="LineNumber"> 022 </span># ๕. ม. อฑฺฒาตฺเต อปายินฺติ ฯ 

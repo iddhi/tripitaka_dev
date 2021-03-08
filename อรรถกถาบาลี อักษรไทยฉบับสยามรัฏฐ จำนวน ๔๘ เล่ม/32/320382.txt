@@ -1,0 +1,22 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  คิชฺฌชาตกํ  หน้า 382
+		
+<span class="LineNumber"> 002 </span>	[๑๒๐๘]เตสํ อชครํ เมทํ  		อจฺจาหาสิ พหุตฺตโต(๑)  
+<span class="LineNumber"> 003 </span>		ปิตา ปุตฺตํ อวจาสิ(๒)	ชานํ อุจฺจํ ปปาตินํ  
+<span class="LineNumber"> 004 </span>		สุปตฺตํ ปกฺขสมฺปนฺนํ(๓)  	เตชสึ ทูรคามินํ ฯ  
+<span class="LineNumber"> 005 </span>	[๑๒๐๙]ปริปฺลวตฺตํ(๔) ป€วึ	ยทา ตาต วิชานหิ  
+<span class="LineNumber"> 006 </span>		สาคเรน ปริกฺขิตฺตํ  		จกฺกํว ปริมณฺฑลํ  
+<span class="LineNumber"> 007 </span>		ตโต ตาต นิวตฺตสฺสุ  	มาสฺสุ เอโต(๕) ปรํ คมิ ฯ  
+<span class="LineNumber"> 008 </span>	[๑๒๑๐]อุทฺธํ ปตฺโตสิ(๖) เวเคน พลี ปกฺขี ทิชุตฺตโม  
+<span class="LineNumber"> 009 </span>		โอโลกยนฺโต วงฺกงฺโค  	ปพฺพตานิ วนานิ จ ฯ  
+<span class="LineNumber"> 010 </span>	[๑๒๑๑]อทฺทส ป€วึ คิชฺโฌ  	ยถสฺสาสิ ปิตุสฺสุตํ  
+<span class="LineNumber"> 011 </span>		สาคเรน ปริกฺขิตฺตํ  		จกฺกํว ปริมณฺฑลํ ฯ  
+<span class="LineNumber"> 012 </span>	[๑๒๑๒]ตฺจ โส สมติกฺกมฺม  	ปรเมว ปวตฺตถ(๗)  
+<span class="LineNumber"> 013 </span>		ตฺจ วาตสิขา ติกฺขา  	อจฺจาหาสิ พลึ ทิชํ ฯ  
+<span class="LineNumber"> 014 </span>	[๑๒๑๓]นาสกฺขาติคโต โปโส  	ปุนเรว นิวตฺติตุํ  
+<span class="LineNumber"> 015 </span>		ทิโช พฺยสนมาปาทิ  	เวรพฺภานํ วสํ คโต ฯ  
+<span class="LineNumber"> 016 </span>	[๑๒๑๔]ตสฺส ปุตฺตา จ ทารา จ 	เย จฺเ อนุชีวิโน  
+<span class="LineNumber"> 017 </span>		สพฺเพ พฺยสนมาปาทุํ  	อโนวาทกเร ทิเช ฯ  
+<span class="LineNumber"> 018 </span># ๑. ส. พหุตโส ฯ สี. ปหุตฺตโต ฯ ม. พหุตฺตโส ฯ 
+<span class="LineNumber"> 019 </span># ๒. ส. ม. ปิตา จ ปุตฺตํ อวจ ฯ ๓. ม. ถามสมฺปนฺนํ ฯ 
+<span class="LineNumber"> 020 </span># ๔. ส. ม. ปริปฺลวนฺตํ ฯ ๕. ส. ม. เอตฺโต ฯ
+<span class="LineNumber"> 021 </span># ๖. ส. ม. อุทปตฺโตสิ ฯ ๗. ม. ปรเมวจฺจวตฺตถ ฯ 

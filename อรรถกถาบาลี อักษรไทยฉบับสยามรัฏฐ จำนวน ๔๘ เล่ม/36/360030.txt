@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่  36  มหานิปาตวณฺณนา  หน้า  30
+
+<span class="LineNumber"> 002 </span>	ตตฺถ  อลนฺติ  ปฏิกฺเขปวจนํ  
+<span class="LineNumber"> 003 </span>สารถิ อาห  
+<span class="LineNumber"> 004 </span>	[๔๐๔]	ปุณฺณปตฺตํ มํ ลาเภหิ (๑)	ราชปุตฺต อิโต คโต  
+<span class="LineNumber"> 005 </span>			ปิตา มาตา จ เม ทชฺชุํ		ราชปุตฺต ตยี คเต  
+<span class="LineNumber"> 006 </span>			โอโรธา จ กุมารา จ		เวสิยานา จ พฺราหฺมณา  
+<span class="LineNumber"> 007 </span>			เตปิ อตฺตมนา ทชฺชุํ		ราชปุตฺต ตยี คเต  
+<span class="LineNumber"> 008 </span>			ตฺถาโรหา อนีกฏฺ€า		รถิกา ปตฺติการกา  
+<span class="LineNumber"> 009 </span>			เตปิ อตฺตมนา ทชฺชุํ (๒)	ราชปุตฺต ตยี คเต  
+<span class="LineNumber"> 010 </span>			ปหูตธฺา ชานปทา (๓)	เนคมา จ สมาคตา  
+<span class="LineNumber"> 011 </span>			อุปยานานิ (๔) เม ทชฺชุํ	ราชปุตฺต ตยี คเตติ ฯ  
+<span class="LineNumber"> 012 </span>	ตตฺถ  ปุณฺณปตฺตนฺติ  ตุฏฺ€ิทายํ  ตุฏฺ€ิทานํ ฯ  ทชฺชุนฺติ  
+<span class="LineNumber"> 013 </span>สตฺตรตนวสฺสํ  วสฺสนฺตา  วิย  มม  อชฺฌาสยปูรณํ  ตุฏฺ€ิทายํ  
+<span class="LineNumber"> 014 </span>ทเทยฺยุนฺติ ฯ  อิทํ  โส  อปฺเปว  นาม  มยิ  อนุกมฺปาย  คจฺเฉยฺยาติ  
+<span class="LineNumber"> 015 </span>จินฺเตตฺวา  อาห ฯ  เวสิยานาติ เวสฺสา ฯ อุปยานานีติ 
+<span class="LineNumber"> 016 </span>ปณฺณาการานิ ฯ  
+<span class="LineNumber"> 017 </span>	ตํ สุตฺวา มหาสตฺโต อาห  
+<span class="LineNumber"> 018 </span>	[๔๐๕]	ปิตุ มาตุ จหํ จตฺโต	รฏฺ€สฺส นิคมสฺส จ  
+<span class="LineNumber"> 019 </span>			อโถ สพฺพกุมารานํ	นตฺถิ มยฺหํ สกํ ฆรํ  
+<span class="LineNumber"> 020 </span># ๑. สี. ยุ. ปุณฺณปตฺตํ  ปลพฺเภหิ ฯ  ๒. สี. ยุ. เตปิ ทชฺชุํ ปตีตา เม ฯ
+<span class="LineNumber"> 021 </span># ๓. สี. ยุ. พหูชนปทา จฺเ ฯ  ม. พหุธฺา ชานปทา ฯ  
+<span class="LineNumber"> 022 </span># ๔. ม. ยุ. อุปายนานิ ฯ

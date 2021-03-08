@@ -1,0 +1,23 @@
+﻿<span class="LineNumber"> 001 </span>		*เล่มที่ 32  สงฺขพฺราหฺมณชาตกํ  หน้า 500
+
+<span class="LineNumber"> 002 </span>มาตาปิตุปติเทวตา(๑)  วา  มนุสฺสา  ทุกฺขปฺปตฺตา  โหนฺติ  เต  
+<span class="LineNumber"> 003 </span>รกฺเขยฺยาสีติ  สมุทฺเท  อารกฺขนตฺถาย  €ปิตา  โหติ  ฯ  สา 
+<span class="LineNumber"> 004 </span>อตฺตโน  อิสฺสริเยน  สตฺตาหํ(๒)  ปมชฺชิตฺวา  สตฺตเม  ทิวเส  สมุทฺทํ  
+<span class="LineNumber"> 005 </span>โอโลเกนฺตี  สีลาจารสํยุตฺตํ  สงฺขพฺราหฺมณํ  ทิสฺวา  อิมสฺส  
+<span class="LineNumber"> 006 </span>สตฺตโม  ทิวโส  สมุทฺเท  ปติตสฺส  สเจ  โส  มริสฺสติ  อติวิย  คารยฺหํ(๓)
+<span class="LineNumber"> 007 </span>เม  ภวิสฺสตีติ  สํวิคฺคมานหทยา  หุตฺวา  เอกํ  สุวณฺณปาฏึ 
+<span class="LineNumber"> 008 </span>นานคฺครสทิพฺพโภชนสฺส  ปูเรตฺวา  วาตเวเคน  ตตฺถ  คนฺตฺวา 
+<span class="LineNumber"> 009 </span>ตสฺส  ปุรโต  อากาเส  €ตฺวา  พฺราหฺมณ  ตฺวํ  สตฺตาหํ 
+<span class="LineNumber"> 010 </span>นิราหาโร  อิมํ  ทิพฺพโภชนํ  ภุฺชาติ  อาห  ฯ  โส  ตํ  โอโลเกตฺวา
+<span class="LineNumber"> 011 </span>อปเนหิ  ตว  ภตฺตํ  อหํ  อุโปสถิโกติ  อาห  ฯ  อถสฺส  อุปฏฺ€าโก 
+<span class="LineNumber"> 012 </span>ปจฺฉโต  อาคจฺฉนฺโต(๔)  เทวตํ  อทิสฺวา  สทฺทเมว  สุตฺวา  อยํ 
+<span class="LineNumber"> 013 </span>พฺราหฺมโณ  ปกติสุขุมาโล  สตฺตาหํ  นิราหารตาย  ทุกฺขิโต 
+<span class="LineNumber"> 014 </span>มรณภเยน  วิปฺปลปติ  มฺเ อสฺสาเสสฺสามิ นนฺติ จินฺเตตฺวา
+<span class="LineNumber"> 015 </span>ป€มํ คาถมาห  
+<span class="LineNumber"> 016 </span>	[๑๓๕๗]พหุสฺสุโต สุตธมฺโมสิ สงฺข  
+<span class="LineNumber"> 017 </span>		ทิฏฺ€า ตยา สมณพฺราหฺมณา จ  
+<span class="LineNumber"> 018 </span>		อถกฺขเณ ทสฺสยเส วิลาปํ  
+<span class="LineNumber"> 019 </span>		อฺโ นุ โก เต ปฏิมนฺตโก มยาติ ฯ  
+<span class="LineNumber"> 020 </span>	ตตฺถ  สุตธมฺโมสีติ  ธมฺโมปิ  ตยา  ธมฺมิกสมณพฺราหฺมณานํ  
+<span class="LineNumber"> 021 </span># ๑. ม. มาตาปิตฺปฏฺ€ากา ฯ  ๒. ม. สตฺตาหมนุภวิตฺวา ฯ 
+<span class="LineNumber"> 022 </span># ๓. ม. คารยฺหา ฯ  ๔. ม. อาคโต ฯ 
